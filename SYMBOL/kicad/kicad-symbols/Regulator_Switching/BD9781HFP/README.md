@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORSWITCHINGBD9781HFP > BD9781HFP
+# SZKREGULATORSWITCHINGBD9781HFP > Regulator_Switching : BD9781HFP
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-BD9781HFP
 - Hex ID: SZKREGULATORSWITCHINGBD9781HFP
-- Name: BD9781HFP
-- Description: BD9781HFP
+- Name: Regulator_Switching : BD9781HFP
+- Description: Regulator_Switching : BD9781HFP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-BD9781HFP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-BD9781HFP)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGBD9781HFP](http://oom.lt/SZKREGULATORSWITCHINGBD9781HFP)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BD9781HFP|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-BD9781HFP|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGBD9781HFP|
-|name|name|BD9781HFP|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'BD9781HFP', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:Rohm_HRP7', 'kicadSymbolDatasheet': 'http://rohmfs.rohm.com/en/products/databook/datasheet/ic/power/switching_regulator/bd9778f-e.pdf', 'kicadSymbolki_keywords': 'DC-DC Step-Down Switching Regulator', 'kicadSymbolki_description': '35V 4A, Flexible Step-Down Switching Regulator, HRP7', 'kicadSymbolki_fp_filters': 'Rohm*HRP7*'}]|
+|name|name|Regulator_Switching : BD9781HFP|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'BD9781HFP'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>Rohm_HRP7'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//rohmfs.rohm.com/en/products/databook/datasheet/ic/power/switching_regulator/bd9778f-e.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'DC-DC Step-Down Switching Regulator'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '35V 4A</td><td> Flexible Step-Down Switching Regulator</td><td> HRP7'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Rohm*HRP7*'</td></tr></table>]|
 ||||

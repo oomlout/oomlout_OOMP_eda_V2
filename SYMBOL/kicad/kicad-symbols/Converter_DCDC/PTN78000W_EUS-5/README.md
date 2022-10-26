@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKCONPTN78WEUS5 > PTN78000W_EUS-5
+# SZKCONPTN78WEUS5 > Converter_DCDC : PTN78000W_EUS-5
 
 - ID: SYMBOL-kicad-kicad-symbols-Converter_DCDC-PTN78000W_EUS-5
 - Hex ID: SZKCONPTN78WEUS5
-- Name: PTN78000W_EUS-5
-- Description: PTN78000W_EUS-5
+- Name: Converter_DCDC : PTN78000W_EUS-5
+- Description: Converter_DCDC : PTN78000W_EUS-5
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-PTN78000W_EUS-5](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-PTN78000W_EUS-5)
 - Short Link: [http://oom.lt/SZKCONPTN78WEUS5](http://oom.lt/SZKCONPTN78WEUS5)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PTN78000W_EUS-5|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Converter_DCDC-PTN78000W_EUS-5|
 |Hex ID (short code)|hexID|SZKCONPTN78WEUS5|
-|name|name|PTN78000W_EUS-5|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PTN78000W_EUS-5', 'kicadSymbolFootprint': 'Module:Texas_EUS_R-PDSS-T5_THT', 'kicadSymbolDatasheet': 'https://www.ti.com/lit/ds/symlink/ptn78000w.pdf', 'kicadSymbolki_keywords': 'texas dc-dc converter step down buck', 'kicadSymbolki_description': '1.5A non-isolated switching regulator power module, 7-36V input voltage, 2.5-12.6V output voltage, EUS-5', 'kicadSymbolki_fp_filters': 'Texas*EUS*R?PDSS?T5*'}]|
+|name|name|Converter_DCDC : PTN78000W_EUS-5|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'PTN78000W_EUS-5'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Module</td></tr><tr><td>Texas_EUS_R-PDSS-T5_THT'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.ti.com/lit/ds/symlink/ptn78000w.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'texas dc-dc converter step down buck'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '1.5A non-isolated switching regulator power module</td><td> 7-36V input voltage</td><td> 2.5-12.6V output voltage</td><td> EUS-5'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Texas*EUS*R?PDSS?T5*'</td></tr></table>]|
 ||||

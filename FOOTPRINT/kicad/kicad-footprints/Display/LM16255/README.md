@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Display-LM16255|
 |Hex ID (short code)|hexID|FZKDILM16255|
 |name|name|Display : LM16255|
-|Footprint Kicad|footprintKicadDetails|{'name': 'LM16255', 'description': 'LCD LM16255 16x2 character http://www.datasheetlib.com/datasheet/259542/lm16255_sharp-electronics.html', 'tags': 'LCD 12x2', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Display.3dshapes/LM16255.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'LM16255'</td><td> 'description'</td></tr><tr><td> 'LCD LM16255 16x2 character http</td></tr><tr><td>//www.datasheetlib.com/datasheet/259542/lm16255_sharp-electronics.html'</td><td> 'tags'</td></tr><tr><td> 'LCD 12x2'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Display.3dshapes/LM16255.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

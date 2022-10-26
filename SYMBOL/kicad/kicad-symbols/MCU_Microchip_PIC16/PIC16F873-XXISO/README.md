@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUMCHIPPIC16PIC16F873XXISO > PIC16F873-XXISO
+# SZKMCUMCHIPPIC16PIC16F873XXISO > MCU_Microchip_PIC16 : PIC16F873-XXISO
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F873-XXISO
 - Hex ID: SZKMCUMCHIPPIC16PIC16F873XXISO
-- Name: PIC16F873-XXISO
-- Description: PIC16F873-XXISO
+- Name: MCU_Microchip_PIC16 : PIC16F873-XXISO
+- Description: MCU_Microchip_PIC16 : PIC16F873-XXISO
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F873-XXISO](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F873-XXISO)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC16PIC16F873XXISO](http://oom.lt/SZKMCUMCHIPPIC16PIC16F873XXISO)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PIC16F873-XXISO|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F873-XXISO|
 |Hex ID (short code)|hexID|SZKMCUMCHIPPIC16PIC16F873XXISO|
-|name|name|PIC16F873-XXISO|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PIC16F873-XXISO', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/30292C.pdf', 'kicadSymbolki_keywords': 'Flash-Based 8-Bit CMOS Microcontroller', 'kicadSymbolki_description': 'PIC16F873, 4K Flash, 192B SRAM, 128B EEPROM, SOIC28', 'kicadSymbolki_fp_filters': 'SO*'}]|
+|name|name|MCU_Microchip_PIC16 : PIC16F873-XXISO|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'PIC16F873-XXISO'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/30292C.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Flash-Based 8-Bit CMOS Microcontroller'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'PIC16F873</td><td> 4K Flash</td><td> 192B SRAM</td><td> 128B EEPROM</td><td> SOIC28'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SO*'</td></tr></table>]|
 ||||

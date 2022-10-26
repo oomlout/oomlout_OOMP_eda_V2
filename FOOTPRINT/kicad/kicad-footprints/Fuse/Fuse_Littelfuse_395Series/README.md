@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_Littelfuse_395Series|
 |Hex ID (short code)|hexID|FZKFUFULITTELFU395SERIES|
 |name|name|Fuse : Fuse_Littelfuse_395Series|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Fuse_Littelfuse_395Series', 'description': 'Fuse, TE5, Littelfuse/Wickmann, No. 460, No560,', 'tags': 'Fuse TE5 Littelfuse/Wickmann No. 460 No560 ', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Fuse.3dshapes/Fuse_Littelfuse_395Series.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Fuse_Littelfuse_395Series'</td><td> 'description'</td></tr><tr><td> 'Fuse</td><td> TE5</td><td> Littelfuse/Wickmann</td><td> No. 460</td><td> No560</td><td>'</td><td> 'tags'</td></tr><tr><td> 'Fuse TE5 Littelfuse/Wickmann No. 460 No560 '</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Fuse.3dshapes/Fuse_Littelfuse_395Series.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

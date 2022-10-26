@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_RJ-RJ45_Molex_0855135013_Vertical|
 |Hex ID (short code)|hexID|FZKCNRJRJ45MX85513513VERTICAL|
 |name|name|Connector_RJ : RJ45_Molex_0855135013_Vertical|
-|Footprint Kicad|footprintKicadDetails|{'name': 'RJ45_Molex_0855135013_Vertical', 'description': '1 Port, RJ45, Series 85513, vertical, SMD, https://www.molex.com/pdm_docs/sd/855135013_sd.pdf', 'tags': 'RJ45 Vertical', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_RJ.3dshapes/RJ45_Molex_0855135013_Vertical.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'RJ45_Molex_0855135013_Vertical'</td><td> 'description'</td></tr><tr><td> '1 Port</td><td> RJ45</td><td> Series 85513</td><td> vertical</td><td> SMD</td><td> https</td></tr><tr><td>//www.molex.com/pdm_docs/sd/855135013_sd.pdf'</td><td> 'tags'</td></tr><tr><td> 'RJ45 Vertical'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_RJ.3dshapes/RJ45_Molex_0855135013_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

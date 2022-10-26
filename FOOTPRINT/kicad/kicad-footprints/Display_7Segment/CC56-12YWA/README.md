@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Display_7Segment-CC56-12YWA|
 |Hex ID (short code)|hexID|FZKDI7SCC5612YWA|
 |name|name|Display_7Segment : CC56-12YWA|
-|Footprint Kicad|footprintKicadDetails|{'name': 'CC56-12YWA', 'description': '4 digit 7 segment green LED, http://www.kingbrightusa.com/images/catalog/SPEC/CC56-12YWA.pdf', 'tags': '4 digit 7 segment green LED', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Display_7Segment.3dshapes/CC56-12YWA.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'CC56-12YWA'</td><td> 'description'</td></tr><tr><td> '4 digit 7 segment green LED</td><td> http</td></tr><tr><td>//www.kingbrightusa.com/images/catalog/SPEC/CC56-12YWA.pdf'</td><td> 'tags'</td></tr><tr><td> '4 digit 7 segment green LED'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Display_7Segment.3dshapes/CC56-12YWA.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

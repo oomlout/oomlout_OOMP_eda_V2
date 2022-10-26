@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Card-microSD_HC_Hirose_DM3D-SF|
 |Hex ID (short code)|hexID|FZKCNCARDMSDHCHIROSEDM3DSF|
 |name|name|Connector_Card : microSD_HC_Hirose_DM3D-SF|
-|Footprint Kicad|footprintKicadDetails|{'name': 'microSD_HC_Hirose_DM3D-SF', 'description': 'Micro SD, SMD, right-angle, push-pull (https://media.digikey.com/PDF/Data%20Sheets/Hirose%20PDFs/DM3D-SF.pdf)', 'tags': 'Micro SD', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_Card.3dshapes/microSD_HC_Hirose_DM3D-SF.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'microSD_HC_Hirose_DM3D-SF'</td><td> 'description'</td></tr><tr><td> 'Micro SD</td><td> SMD</td><td> right-angle</td><td> push-pull (https</td></tr><tr><td>//media.digikey.com/PDF/Data%20Sheets/Hirose%20PDFs/DM3D-SF.pdf)'</td><td> 'tags'</td></tr><tr><td> 'Micro SD'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_Card.3dshapes/microSD_HC_Hirose_DM3D-SF.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

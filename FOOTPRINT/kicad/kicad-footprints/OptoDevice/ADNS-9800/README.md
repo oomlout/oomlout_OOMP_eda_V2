@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-OptoDevice-ADNS-9800|
 |Hex ID (short code)|hexID|FZKOPADNS98|
 |name|name|OptoDevice : ADNS-9800|
-|Footprint Kicad|footprintKicadDetails|{'name': 'ADNS-9800', 'description': 'Laser Gaming Sensor ADNS-9800', 'tags': 'MOUSE MOUSE_SENSOR LASER_GAMING_SENSOR', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/ADNS-9800.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'ADNS-9800'</td><td> 'description'</td></tr><tr><td> 'Laser Gaming Sensor ADNS-9800'</td><td> 'tags'</td></tr><tr><td> 'MOUSE MOUSE_SENSOR LASER_GAMING_SENSOR'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/OptoDevice.3dshapes/ADNS-9800.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

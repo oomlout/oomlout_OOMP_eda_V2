@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDICHARACTERDA5611SURKWA > DA56-11SURKWA
+# SZKDICHARACTERDA5611SURKWA > Display_Character : DA56-11SURKWA
 
 - ID: SYMBOL-kicad-kicad-symbols-Display_Character-DA56-11SURKWA
 - Hex ID: SZKDICHARACTERDA5611SURKWA
-- Name: DA56-11SURKWA
-- Description: DA56-11SURKWA
+- Name: Display_Character : DA56-11SURKWA
+- Description: Display_Character : DA56-11SURKWA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-DA56-11SURKWA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-DA56-11SURKWA)
 - Short Link: [http://oom.lt/SZKDICHARACTERDA5611SURKWA](http://oom.lt/SZKDICHARACTERDA5611SURKWA)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DA56-11SURKWA|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Display_Character-DA56-11SURKWA|
 |Hex ID (short code)|hexID|SZKDICHARACTERDA5611SURKWA|
-|name|name|DA56-11SURKWA|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'DA56-11SURKWA', 'kicadSymbolFootprint': 'Display_7Segment:DA56-11SURKWA', 'kicadSymbolDatasheet': 'http://www.kingbright.com/attachments/file/psearch/000/00/00/DA56-11SURKWA(Ver.11A).pdf', 'kicadSymbolki_keywords': 'display LED 7-segment', 'kicadSymbolki_description': 'Double digit 7 segment hyper red LED common anode', 'kicadSymbolki_fp_filters': '*DA56*11*'}]|
+|name|name|Display_Character : DA56-11SURKWA|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'DA56-11SURKWA'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Display_7Segment</td></tr><tr><td>DA56-11SURKWA'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.kingbright.com/attachments/file/psearch/000/00/00/DA56-11SURKWA(Ver.11A).pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'display LED 7-segment'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Double digit 7 segment hyper red LED common anode'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> '*DA56*11*'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKCNCUIPD3S > CUI_PD-30S
+# SZKCNCUIPD3S > Connector : CUI_PD-30S
 
 - ID: SYMBOL-kicad-kicad-symbols-Connector-CUI_PD-30S
 - Hex ID: SZKCNCUIPD3S
-- Name: CUI_PD-30S
-- Description: CUI_PD-30S
+- Name: Connector : CUI_PD-30S
+- Description: Connector : CUI_PD-30S
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-CUI_PD-30S](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-CUI_PD-30S)
 - Short Link: [http://oom.lt/SZKCNCUIPD3S](http://oom.lt/SZKCNCUIPD3S)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|CUI_PD-30S|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-CUI_PD-30S|
 |Hex ID (short code)|hexID|SZKCNCUIPD3S|
-|name|name|CUI_PD-30S|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'CUI_PD-30S', 'kicadSymbolFootprint': 'Connector:CUI_PD-30S', 'kicadSymbolDatasheet': 'http://www.cui.com/product/resource/pd-30.pdf', 'kicadSymbolki_keywords': 'connector 3-pin PD-30S power DIN', 'kicadSymbolki_description': '3 pin connector, PD-30S', 'kicadSymbolki_fp_filters': 'CUI*PD*30S*'}]|
+|name|name|Connector : CUI_PD-30S|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'J'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'CUI_PD-30S'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Connector</td></tr><tr><td>CUI_PD-30S'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.cui.com/product/resource/pd-30.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'connector 3-pin PD-30S power DIN'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '3 pin connector</td><td> PD-30S'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'CUI*PD*30S*'</td></tr></table>]|
 ||||

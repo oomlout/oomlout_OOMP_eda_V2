@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKFPGAXILINXSPARTAN6XC6SLX75FGG676 > XC6SLX75-FGG676
+# SZKFPGAXILINXSPARTAN6XC6SLX75FGG676 > FPGA_Xilinx_Spartan6 : XC6SLX75-FGG676
 
 - ID: SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Spartan6-XC6SLX75-FGG676
 - Hex ID: SZKFPGAXILINXSPARTAN6XC6SLX75FGG676
-- Name: XC6SLX75-FGG676
-- Description: XC6SLX75-FGG676
+- Name: FPGA_Xilinx_Spartan6 : XC6SLX75-FGG676
+- Description: FPGA_Xilinx_Spartan6 : XC6SLX75-FGG676
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Spartan6-XC6SLX75-FGG676](http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Spartan6-XC6SLX75-FGG676)
 - Short Link: [http://oom.lt/SZKFPGAXILINXSPARTAN6XC6SLX75FGG676](http://oom.lt/SZKFPGAXILINXSPARTAN6XC6SLX75FGG676)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|XC6SLX75-FGG676|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Spartan6-XC6SLX75-FGG676|
 |Hex ID (short code)|hexID|SZKFPGAXILINXSPARTAN6XC6SLX75FGG676|
-|name|name|XC6SLX75-FGG676|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'XC6SLX75-FGG676', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'FPGA', 'kicadSymbolki_description': 'Spartan 6 LX 75 XC6SLX75-FGG676'}]|
+|name|name|FPGA_Xilinx_Spartan6 : XC6SLX75-FGG676|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'XC6SLX75-FGG676'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_locked'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'FPGA'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Spartan 6 LX 75 XC6SLX75-FGG676'</td></tr></table>]|
 ||||

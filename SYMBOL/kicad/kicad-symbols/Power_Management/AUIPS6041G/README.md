@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKPOWERMANAGEMENTAUIPS641G > AUIPS6041G
+# SZKPOWERMANAGEMENTAUIPS641G > Power_Management : AUIPS6041G
 
 - ID: SYMBOL-kicad-kicad-symbols-Power_Management-AUIPS6041G
 - Hex ID: SZKPOWERMANAGEMENTAUIPS641G
-- Name: AUIPS6041G
-- Description: AUIPS6041G
+- Name: Power_Management : AUIPS6041G
+- Description: Power_Management : AUIPS6041G
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-AUIPS6041G](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-AUIPS6041G)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTAUIPS641G](http://oom.lt/SZKPOWERMANAGEMENTAUIPS641G)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AUIPS6041G|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Management-AUIPS6041G|
 |Hex ID (short code)|hexID|SZKPOWERMANAGEMENTAUIPS641G|
-|name|name|AUIPS6041G|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AUIPS6041G', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm', 'kicadSymbolDatasheet': 'https://www.infineon.com/dgdl/auips6041.pdf?fileId=5546d462533600a4015355a7a0251315', 'kicadSymbolki_keywords': 'high side switch', 'kicadSymbolki_description': 'Intelligent Power High Side Switch, 39V, 7A, SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm*'}]|
+|name|name|Power_Management : AUIPS6041G|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'AUIPS6041G'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-8_3.9x4.9mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.infineon.com/dgdl/auips6041.pdf?fileId=5546d462533600a4015355a7a0251315'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'high side switch'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Intelligent Power High Side Switch</td><td> 39V</td><td> 7A</td><td> SOIC-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*3.9x4.9mm*P1.27mm*'</td></tr></table>]|
 ||||

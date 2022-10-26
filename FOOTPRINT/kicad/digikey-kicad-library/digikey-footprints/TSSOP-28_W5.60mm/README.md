@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TSSOP-28_W5.60mm|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSTSS28W56|
 |name|name|digikey-footprints : TSSOP-28_W5.60mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'TSSOP-28_W5.60mm', 'description': 'http://www.cypress.com/file/139881/download', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'TSSOP-28_W5.60mm'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//www.cypress.com/file/139881/download'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUMCHIPATMEGAATMEGA32M1M > ATmega32M1-M
+# SZKMCUMCHIPATMEGAATMEGA32M1M > MCU_Microchip_ATmega : ATmega32M1-M
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega32M1-M
 - Hex ID: SZKMCUMCHIPATMEGAATMEGA32M1M
-- Name: ATmega32M1-M
-- Description: ATmega32M1-M
+- Name: MCU_Microchip_ATmega : ATmega32M1-M
+- Description: MCU_Microchip_ATmega : ATmega32M1-M
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega32M1-M](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega32M1-M)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATMEGAATMEGA32M1M](http://oom.lt/SZKMCUMCHIPATMEGAATMEGA32M1M)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ATmega32M1-M|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega32M1-M|
 |Hex ID (short code)|hexID|SZKMCUMCHIPATMEGAATMEGA32M1M|
-|name|name|ATmega32M1-M|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ATmega16M1-M', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ATmega32M1-M', 'kicadSymbolFootprint': 'Package_DFN_QFN:QFN-32-1EP_7x7mm_P0.65mm_EP4.65x4.65mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-8209-8-bit%20AVR%20ATmega16M1-32M1-64M1_Datasheet.pdf', 'kicadSymbolki_keywords': 'AVR 8bit Microcontroller MegaAVR', 'kicadSymbolki_description': '16MHz, 32kB Flash, 2kB SRAM, 1kB EEPROM, CAN, QFN-32', 'kicadSymbolki_fp_filters': 'QFN*1EP*7x7mm*P0.65mm*'}]|
+|name|name|MCU_Microchip_ATmega : ATmega32M1-M|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'ATmega16M1-M'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ATmega32M1-M'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>QFN-32-1EP_7x7mm_P0.65mm_EP4.65x4.65mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/Atmel-8209-8-bit%20AVR%20ATmega16M1-32M1-64M1_Datasheet.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'AVR 8bit Microcontroller MegaAVR'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '16MHz</td><td> 32kB Flash</td><td> 2kB SRAM</td><td> 1kB EEPROM</td><td> CAN</td><td> QFN-32'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'QFN*1EP*7x7mm*P0.65mm*'</td></tr></table>]|
 ||||

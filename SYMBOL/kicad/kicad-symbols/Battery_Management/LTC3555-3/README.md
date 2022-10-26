@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKBATMANAGEMENTLTC35553 > LTC3555-3
+# SZKBATMANAGEMENTLTC35553 > Battery_Management : LTC3555-3
 
 - ID: SYMBOL-kicad-kicad-symbols-Battery_Management-LTC3555-3
 - Hex ID: SZKBATMANAGEMENTLTC35553
-- Name: LTC3555-3
-- Description: LTC3555-3
+- Name: Battery_Management : LTC3555-3
+- Description: Battery_Management : LTC3555-3
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-LTC3555-3](http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-LTC3555-3)
 - Short Link: [http://oom.lt/SZKBATMANAGEMENTLTC35553](http://oom.lt/SZKBATMANAGEMENTLTC35553)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LTC3555-3|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Battery_Management-LTC3555-3|
 |Hex ID (short code)|hexID|SZKBATMANAGEMENTLTC35553|
-|name|name|LTC3555-3|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LTC3555', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LTC3555-3', 'kicadSymbolFootprint': 'Package_DFN_QFN:QFN-28-1EP_4x5mm_P0.5mm_EP2.65x3.65mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/3555fe.pdf', 'kicadSymbolki_keywords': 'USB PMIC', 'kicadSymbolki_description': 'High Efficiency USB Power Manager + Triple Step-Down DC/DC, instant-on power, 4.1V float, QFN-28', 'kicadSymbolki_fp_filters': 'QFN*4x5mm*P0.5mm*'}]|
+|name|name|Battery_Management : LTC3555-3|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'LTC3555'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LTC3555-3'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>QFN-28-1EP_4x5mm_P0.5mm_EP2.65x3.65mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/3555fe.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'USB PMIC'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'High Efficiency USB Power Manager + Triple Step-Down DC/DC</td><td> instant-on power</td><td> 4.1V float</td><td> QFN-28'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'QFN*4x5mm*P0.5mm*'</td></tr></table>]|
 ||||

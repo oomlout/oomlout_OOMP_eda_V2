@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKANALOGSWITCHMAX312CUE > MAX312CUE
+# SZKANALOGSWITCHMAX312CUE > Analog_Switch : MAX312CUE
 
 - ID: SYMBOL-kicad-kicad-symbols-Analog_Switch-MAX312CUE
 - Hex ID: SZKANALOGSWITCHMAX312CUE
-- Name: MAX312CUE
-- Description: MAX312CUE
+- Name: Analog_Switch : MAX312CUE
+- Description: Analog_Switch : MAX312CUE
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-MAX312CUE](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-MAX312CUE)
 - Short Link: [http://oom.lt/SZKANALOGSWITCHMAX312CUE](http://oom.lt/SZKANALOGSWITCHMAX312CUE)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MAX312CUE|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_Switch-MAX312CUE|
 |Hex ID (short code)|hexID|SZKANALOGSWITCHMAX312CUE|
-|name|name|MAX312CUE|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'DG411xUE', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MAX312CUE', 'kicadSymbolFootprint': 'Package_SO:TSSOP-16_4.4x5mm_P0.65mm', 'kicadSymbolDatasheet': 'https://datasheets.maximintegrated.com/en/ds/MAX312-MAX314.pdf', 'kicadSymbolki_keywords': 'CMOS Analog Switch', 'kicadSymbolki_description': 'Quad SPST CMOS Analog Switches, normally ON, 6.5Ohm Ron, TSSOP-16', 'kicadSymbolki_fp_filters': 'TSSOP*4.4x5mm*P0.65mm*'}]|
+|name|name|Analog_Switch : MAX312CUE|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'DG411xUE'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MAX312CUE'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>TSSOP-16_4.4x5mm_P0.65mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//datasheets.maximintegrated.com/en/ds/MAX312-MAX314.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'CMOS Analog Switch'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Quad SPST CMOS Analog Switches</td><td> normally ON</td><td> 6.5Ohm Ron</td><td> TSSOP-16'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TSSOP*4.4x5mm*P0.65mm*'</td></tr></table>]|
 ||||

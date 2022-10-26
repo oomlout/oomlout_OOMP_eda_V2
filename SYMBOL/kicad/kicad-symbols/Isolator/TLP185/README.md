@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKISOLATORTLP185 > TLP185
+# SZKISOLATORTLP185 > Isolator : TLP185
 
 - ID: SYMBOL-kicad-kicad-symbols-Isolator-TLP185
 - Hex ID: SZKISOLATORTLP185
-- Name: TLP185
-- Description: TLP185
+- Name: Isolator : TLP185
+- Description: Isolator : TLP185
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-TLP185](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-TLP185)
 - Short Link: [http://oom.lt/SZKISOLATORTLP185](http://oom.lt/SZKISOLATORTLP185)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TLP185|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Isolator-TLP185|
 |Hex ID (short code)|hexID|SZKISOLATORTLP185|
-|name|name|TLP185|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TLP185', 'kicadSymbolFootprint': 'Package_SO:SOIC-4_4.55x3.7mm_P2.54mm', 'kicadSymbolDatasheet': 'https://toshiba.semicon-storage.com/info/docget.jsp?did=11791&prodName=TLP185', 'kicadSymbolki_keywords': 'NPN DC Optocoupler', 'kicadSymbolki_description': 'DC Optocoupler, Vce 80V, CTR 50-100%, MFSOP6', 'kicadSymbolki_fp_filters': 'SOIC*4.55x3.7mm*P2.54mm*'}]|
+|name|name|Isolator : TLP185|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TLP185'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-4_4.55x3.7mm_P2.54mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//toshiba.semicon-storage.com/info/docget.jsp?did=11791&prodName=TLP185'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'NPN DC Optocoupler'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'DC Optocoupler</td><td> Vce 80V</td><td> CTR 50-100%</td><td> MFSOP6'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*4.55x3.7mm*P2.54mm*'</td></tr></table>]|
 ||||

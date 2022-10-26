@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_S-PWQFN-N32_EP2.8x2.8mm_ThermalVias|
 |Hex ID (short code)|hexID|FZKDFNTEXASSPWQFNN32EP28X28THERMALVIAS|
 |name|name|Package_DFN_QFN : Texas_S-PWQFN-N32_EP2.8x2.8mm_ThermalVias|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Texas_S-PWQFN-N32_EP2.8x2.8mm_ThermalVias', 'description': 'QFN, 32 Pin (https://www.ti.com/lit/ds/symlink/bq25703a.pdf#page=90), generated with kicad-footprint-generator ipc_noLead_generator.py', 'tags': 'QFN NoLead', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Texas_S-PWQFN-N32_EP2.8x2.8mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Texas_S-PWQFN-N32_EP2.8x2.8mm_ThermalVias'</td><td> 'description'</td></tr><tr><td> 'QFN</td><td> 32 Pin (https</td></tr><tr><td>//www.ti.com/lit/ds/symlink/bq25703a.pdf#page=90)</td><td> generated with kicad-footprint-generator ipc_noLead_generator.py'</td><td> 'tags'</td></tr><tr><td> 'QFN NoLead'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DFN_QFN.3dshapes/Texas_S-PWQFN-N32_EP2.8x2.8mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

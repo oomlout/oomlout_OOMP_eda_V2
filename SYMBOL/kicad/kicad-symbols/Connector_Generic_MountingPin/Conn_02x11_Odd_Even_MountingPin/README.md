@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKCNGENERICMOUNTINGPINCONN2X11ODDEVENMOUNTINGPIN > Conn_02x11_Odd_Even_MountingPin
+# SZKCNGENERICMOUNTINGPINCONN2X11ODDEVENMOUNTINGPIN > Connector_Generic_MountingPin : Conn_02x11_Odd_Even_MountingPin
 
 - ID: SYMBOL-kicad-kicad-symbols-Connector_Generic_MountingPin-Conn_02x11_Odd_Even_MountingPin
 - Hex ID: SZKCNGENERICMOUNTINGPINCONN2X11ODDEVENMOUNTINGPIN
-- Name: Conn_02x11_Odd_Even_MountingPin
-- Description: Conn_02x11_Odd_Even_MountingPin
+- Name: Connector_Generic_MountingPin : Conn_02x11_Odd_Even_MountingPin
+- Description: Connector_Generic_MountingPin : Conn_02x11_Odd_Even_MountingPin
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector_Generic_MountingPin-Conn_02x11_Odd_Even_MountingPin](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector_Generic_MountingPin-Conn_02x11_Odd_Even_MountingPin)
 - Short Link: [http://oom.lt/SZKCNGENERICMOUNTINGPINCONN2X11ODDEVENMOUNTINGPIN](http://oom.lt/SZKCNGENERICMOUNTINGPINCONN2X11ODDEVENMOUNTINGPIN)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Conn_02x11_Odd_Even_MountingPin|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector_Generic_MountingPin-Conn_02x11_Odd_Even_MountingPin|
 |Hex ID (short code)|hexID|SZKCNGENERICMOUNTINGPINCONN2X11ODDEVENMOUNTINGPIN|
-|name|name|Conn_02x11_Odd_Even_MountingPin|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'Conn_02x11_Odd_Even_MountingPin', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'connector', 'kicadSymbolki_description': 'Generic connectable mounting pin connector, double row, 02x11, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)', 'kicadSymbolki_fp_filters': 'Connector*:*_2x??-1MP*'}]|
+|name|name|Connector_Generic_MountingPin : Conn_02x11_Odd_Even_MountingPin|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'J'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Conn_02x11_Odd_Even_MountingPin'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'connector'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Generic connectable mounting pin connector</td><td> double row</td><td> 02x11</td><td> odd/even pin numbering scheme (row 1 odd numbers</td><td> row 2 even numbers)</td><td> script generated (kicad-library-utils/schlib/autogen/connector/)'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Connector*</td></tr><tr><td>*_2x??-1MP*'</td></tr></table>]|
 ||||

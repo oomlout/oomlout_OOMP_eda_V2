@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORLINEARMCP1826S > MCP1826S
+# SZKREGULATORLINEARMCP1826S > Regulator_Linear : MCP1826S
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-MCP1826S
 - Hex ID: SZKREGULATORLINEARMCP1826S
-- Name: MCP1826S
-- Description: MCP1826S
+- Name: Regulator_Linear : MCP1826S
+- Description: Regulator_Linear : MCP1826S
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-MCP1826S](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-MCP1826S)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARMCP1826S](http://oom.lt/SZKREGULATORLINEARMCP1826S)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MCP1826S|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-MCP1826S|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARMCP1826S|
-|name|name|MCP1826S|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MCP1826S', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/22057B.pdf', 'kicadSymbolki_keywords': 'regulator linear ldo', 'kicadSymbolki_description': '1000mA, Low-Voltage, Low Quiescent Current LDO Regulator, SOT-223, TO-220, TO-263', 'kicadSymbolki_fp_filters': 'SOT?223*TabPin2* TO?220* TO?263*'}]|
+|name|name|Regulator_Linear : MCP1826S|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MCP1826S'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/22057B.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'regulator linear ldo'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '1000mA</td><td> Low-Voltage</td><td> Low Quiescent Current LDO Regulator</td><td> SOT-223</td><td> TO-220</td><td> TO-263'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?223*TabPin2* TO?220* TO?263*'</td></tr></table>]|
 ||||

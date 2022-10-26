@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector-CalTest_CT3151|
 |Hex ID (short code)|hexID|FZKCNCALTESTCT3151|
 |name|name|Connector : CalTest_CT3151|
-|Footprint Kicad|footprintKicadDetails|{'name': 'CalTest_CT3151', 'description': 'Right-angle standard banana jack, http://www.caltestelectronics.com/images/attachments/P315100rH_drawing.pdf', 'tags': 'banana jack horizontal', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector.3dshapes/CalTest_CT3151.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'CalTest_CT3151'</td><td> 'description'</td></tr><tr><td> 'Right-angle standard banana jack</td><td> http</td></tr><tr><td>//www.caltestelectronics.com/images/attachments/P315100rH_drawing.pdf'</td><td> 'tags'</td></tr><tr><td> 'banana jack horizontal'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector.3dshapes/CalTest_CT3151.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_RECOM_RPMx.x-x.0|
 |Hex ID (short code)|hexID|FZKCONCONRECOMRPMXXX|
 |name|name|Converter_DCDC : Converter_DCDC_RECOM_RPMx.x-x.0|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Converter_DCDC_RECOM_RPMx.x-x.0', 'description': 'https://www.recom-power.com/pdf/Innoline/RPM-6.0.pdf', 'tags': 'dc-dc recom buck lga-25 pitch 2.29mm', 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Converter_DCDC_RECOM_RPMx.x-x.0'</td><td> 'description'</td></tr><tr><td> 'https</td></tr><tr><td>//www.recom-power.com/pdf/Innoline/RPM-6.0.pdf'</td><td> 'tags'</td></tr><tr><td> 'dc-dc recom buck lga-25 pitch 2.29mm'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

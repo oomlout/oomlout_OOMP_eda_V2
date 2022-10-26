@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_Powermite2_KA|
 |Hex ID (short code)|hexID|FZKDIODESMDPOWERMITE2KA|
 |name|name|Diode_SMD : D_Powermite2_KA|
-|Footprint Kicad|footprintKicadDetails|{'name': 'D_Powermite2_KA', 'description': 'Microsemi Powermite 2 SMD power package (https://www.microsemi.com/packaging-information/partpackage/details?pid=5341)', 'tags': 'PowerMite2', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_Powermite2_KA.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'D_Powermite2_KA'</td><td> 'description'</td></tr><tr><td> 'Microsemi Powermite 2 SMD power package (https</td></tr><tr><td>//www.microsemi.com/packaging-information/partpackage/details?pid=5341)'</td><td> 'tags'</td></tr><tr><td> 'PowerMite2'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Diode_SMD.3dshapes/D_Powermite2_KA.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

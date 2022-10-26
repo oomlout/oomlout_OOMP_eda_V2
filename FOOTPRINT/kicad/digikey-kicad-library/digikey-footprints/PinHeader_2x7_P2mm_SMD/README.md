@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-PinHeader_2x7_P2mm_SMD|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSPINHEADER2X7P2SM|
 |name|name|digikey-footprints : PinHeader_2x7_P2mm_SMD|
-|Footprint Kicad|footprintKicadDetails|{'name': 'PinHeader_2x7_P2mm_SMD', 'description': 'http://www.molex.com/pdm_docs/sd/878322620_sd.pdf', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'PinHeader_2x7_P2mm_SMD'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//www.molex.com/pdm_docs/sd/878322620_sd.pdf'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

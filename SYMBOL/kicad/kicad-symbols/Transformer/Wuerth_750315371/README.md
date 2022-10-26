@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRWUERTH75315371 > Wuerth_750315371
+# SZKTRWUERTH75315371 > Transformer : Wuerth_750315371
 
 - ID: SYMBOL-kicad-kicad-symbols-Transformer-Wuerth_750315371
 - Hex ID: SZKTRWUERTH75315371
-- Name: Wuerth_750315371
-- Description: Wuerth_750315371
+- Name: Transformer : Wuerth_750315371
+- Description: Transformer : Wuerth_750315371
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-Wuerth_750315371](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-Wuerth_750315371)
 - Short Link: [http://oom.lt/SZKTRWUERTH75315371](http://oom.lt/SZKTRWUERTH75315371)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Wuerth_750315371|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transformer-Wuerth_750315371|
 |Hex ID (short code)|hexID|SZKTRWUERTH75315371|
-|name|name|Wuerth_750315371|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'TR', 'kicadSymbolValue': 'Wuerth_750315371', 'kicadSymbolFootprint': 'Transformer_SMD:Transformer_Wuerth_750315371', 'kicadSymbolDatasheet': 'https://www.we-online.com/catalog/datasheet/750315371.pdf', 'kicadSymbolki_keywords': 'Power Center Tapped Flyback Transformer AEC-Q200', 'kicadSymbolki_description': '5V, 1A , 320 - 480kHz, 1:1.1, Center Tapped, SMD', 'kicadSymbolki_fp_filters': 'Transformer*Wuerth*750315371*'}]|
+|name|name|Transformer : Wuerth_750315371|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'TR'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Wuerth_750315371'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Transformer_SMD</td></tr><tr><td>Transformer_Wuerth_750315371'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.we-online.com/catalog/datasheet/750315371.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Power Center Tapped Flyback Transformer AEC-Q200'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '5V</td><td> 1A </td><td> 320 - 480kHz</td><td> 1</td></tr><tr><td>1.1</td><td> Center Tapped</td><td> SMD'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Transformer*Wuerth*750315371*'</td></tr></table>]|
 ||||

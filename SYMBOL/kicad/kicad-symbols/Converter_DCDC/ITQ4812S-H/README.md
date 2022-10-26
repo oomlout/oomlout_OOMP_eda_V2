@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKCONITQ4812SH > ITQ4812S-H
+# SZKCONITQ4812SH > Converter_DCDC : ITQ4812S-H
 
 - ID: SYMBOL-kicad-kicad-symbols-Converter_DCDC-ITQ4812S-H
 - Hex ID: SZKCONITQ4812SH
-- Name: ITQ4812S-H
-- Description: ITQ4812S-H
+- Name: Converter_DCDC : ITQ4812S-H
+- Description: Converter_DCDC : ITQ4812S-H
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-ITQ4812S-H](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-ITQ4812S-H)
 - Short Link: [http://oom.lt/SZKCONITQ4812SH](http://oom.lt/SZKCONITQ4812SH)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ITQ4812S-H|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Converter_DCDC-ITQ4812S-H|
 |Hex ID (short code)|hexID|SZKCONITQ4812SH|
-|name|name|ITQ4812S-H|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ITQ2405S-H', 'kicadSymbolReference': 'PS', 'kicadSymbolValue': 'ITQ4812S-H', 'kicadSymbolFootprint': 'Converter_DCDC:Converter_DCDC_XP_POWER-ITQxxxxS-H_THT', 'kicadSymbolDatasheet': 'https://www.xppower.com/pdfs/SF_ITQ.pdf', 'kicadSymbolki_keywords': 'XP_POWER DC/DC isolated Converter module', 'kicadSymbolki_description': 'XP Power 6W, 3000 VDC Isolated DC/DC Converter Module, Dual Output Voltage ±12V, ±250mA, 48V Input Voltage, SIP', 'kicadSymbolki_fp_filters': '*XP?POWER?ITQxxxxS?H*'}]|
+|name|name|Converter_DCDC : ITQ4812S-H|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'ITQ2405S-H'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'PS'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ITQ4812S-H'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Converter_DCDC</td></tr><tr><td>Converter_DCDC_XP_POWER-ITQxxxxS-H_THT'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.xppower.com/pdfs/SF_ITQ.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'XP_POWER DC/DC isolated Converter module'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'XP Power 6W</td><td> 3000 VDC Isolated DC/DC Converter Module</td><td> Dual Output Voltage ±12V</td><td> ±250mA</td><td> 48V Input Voltage</td><td> SIP'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> '*XP?POWER?ITQxxxxS?H*'</td></tr></table>]|
 ||||

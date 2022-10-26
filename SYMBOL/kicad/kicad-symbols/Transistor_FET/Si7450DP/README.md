@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORFETSI745DP > Si7450DP
+# SZKTRANSISTORFETSI745DP > Transistor_FET : Si7450DP
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-Si7450DP
 - Hex ID: SZKTRANSISTORFETSI745DP
-- Name: Si7450DP
-- Description: Si7450DP
+- Name: Transistor_FET : Si7450DP
+- Description: Transistor_FET : Si7450DP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-Si7450DP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-Si7450DP)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETSI745DP](http://oom.lt/SZKTRANSISTORFETSI745DP)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Si7450DP|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-Si7450DP|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETSI745DP|
-|name|name|Si7450DP|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'Si7336ADP', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'Si7450DP', 'kicadSymbolFootprint': 'Package_SO:PowerPAK_SO-8_Single', 'kicadSymbolDatasheet': 'https://www.vishay.com/docs/71432/si7450dp.pdf', 'kicadSymbolki_keywords': 'N-Channel MOSFET', 'kicadSymbolki_description': '5.3A Id, 200V Vds, 80mOhm Ron, PowerPAK-8', 'kicadSymbolki_fp_filters': 'PowerPAK*SO*Single*'}]|
+|name|name|Transistor_FET : Si7450DP|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'Si7336ADP'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Si7450DP'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>PowerPAK_SO-8_Single'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.vishay.com/docs/71432/si7450dp.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'N-Channel MOSFET'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '5.3A Id</td><td> 200V Vds</td><td> 80mOhm Ron</td><td> PowerPAK-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'PowerPAK*SO*Single*'</td></tr></table>]|
 ||||

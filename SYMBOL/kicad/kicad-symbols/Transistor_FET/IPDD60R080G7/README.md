@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORFETIPDD6R8G7 > IPDD60R080G7
+# SZKTRANSISTORFETIPDD6R8G7 > Transistor_FET : IPDD60R080G7
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-IPDD60R080G7
 - Hex ID: SZKTRANSISTORFETIPDD6R8G7
-- Name: IPDD60R080G7
-- Description: IPDD60R080G7
+- Name: Transistor_FET : IPDD60R080G7
+- Description: Transistor_FET : IPDD60R080G7
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IPDD60R080G7](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IPDD60R080G7)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETIPDD6R8G7](http://oom.lt/SZKTRANSISTORFETIPDD6R8G7)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IPDD60R080G7|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-IPDD60R080G7|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETIPDD6R8G7|
-|name|name|IPDD60R080G7|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'IPDD60R050G7', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'IPDD60R080G7', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:Infineon_PG-HDSOP-10-1', 'kicadSymbolDatasheet': 'https://www.infineon.com/dgdl/Infineon-IPDD60R080G7-DS-v02_00-EN.pdf?fileId=5546d4626102d35a016170882f757a07', 'kicadSymbolki_keywords': 'N-Channel MOSFET', 'kicadSymbolki_description': '29A Id, 600V Vds, 80mOhm, N-Channel MOSFET, CoolMOS G7, PG-HDSOP-10-1 (DDPAK)', 'kicadSymbolki_fp_filters': 'Infineon*PG*HDSOP*'}]|
+|name|name|Transistor_FET : IPDD60R080G7|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'IPDD60R050G7'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'IPDD60R080G7'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>Infineon_PG-HDSOP-10-1'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.infineon.com/dgdl/Infineon-IPDD60R080G7-DS-v02_00-EN.pdf?fileId=5546d4626102d35a016170882f757a07'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'N-Channel MOSFET'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '29A Id</td><td> 600V Vds</td><td> 80mOhm</td><td> N-Channel MOSFET</td><td> CoolMOS G7</td><td> PG-HDSOP-10-1 (DDPAK)'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Infineon*PG*HDSOP*'</td></tr></table>]|
 ||||

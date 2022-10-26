@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SO-PowerIntegrations_eSOP-12B|
 |Hex ID (short code)|hexID|FZKSOPOWERINTEGRATIONSES12B|
 |name|name|Package_SO : PowerIntegrations_eSOP-12B|
-|Footprint Kicad|footprintKicadDetails|{'name': 'PowerIntegrations_eSOP-12B', 'description': 'eSOP-12B SMT Flat Package with Heatsink Tab, see https://ac-dc.power.com/sites/default/files/product-docs/topswitch-jx_family_datasheet.pdf', 'tags': 'Power Integrations K Package', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/PowerIntegrations_eSOP-12B.wrl', 'pins': {'type': 'smd', 'shape': 'oval'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'PowerIntegrations_eSOP-12B'</td><td> 'description'</td></tr><tr><td> 'eSOP-12B SMT Flat Package with Heatsink Tab</td><td> see https</td></tr><tr><td>//ac-dc.power.com/sites/default/files/product-docs/topswitch-jx_family_datasheet.pdf'</td><td> 'tags'</td></tr><tr><td> 'Power Integrations K Package'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_SO.3dshapes/PowerIntegrations_eSOP-12B.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'oval'</td></tr></table></td></tr></table>|
 ||||
 
 

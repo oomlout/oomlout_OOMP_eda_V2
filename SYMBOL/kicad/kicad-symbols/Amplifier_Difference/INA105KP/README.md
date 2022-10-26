@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKAMPLIFIERDIFFERENCEINA15KP > INA105KP
+# SZKAMPLIFIERDIFFERENCEINA15KP > Amplifier_Difference : INA105KP
 
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Difference-INA105KP
 - Hex ID: SZKAMPLIFIERDIFFERENCEINA15KP
-- Name: INA105KP
-- Description: INA105KP
+- Name: Amplifier_Difference : INA105KP
+- Description: Amplifier_Difference : INA105KP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Difference-INA105KP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Difference-INA105KP)
 - Short Link: [http://oom.lt/SZKAMPLIFIERDIFFERENCEINA15KP](http://oom.lt/SZKAMPLIFIERDIFFERENCEINA15KP)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|INA105KP|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Difference-INA105KP|
 |Hex ID (short code)|hexID|SZKAMPLIFIERDIFFERENCEINA15KP|
-|name|name|INA105KP|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'AD8276', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'INA105KP', 'kicadSymbolFootprint': 'Package_DIP:DIP-8_W7.62mm', 'kicadSymbolDatasheet': 'https://www.ti.com/lit/ds/symlink/ina105.pdf', 'kicadSymbolki_keywords': 'difference amplifier', 'kicadSymbolki_description': 'Low Power, Wide Supply Range, Low Cost Unity-Gain Difference Amplifier, DIP-8', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
+|name|name|Amplifier_Difference : INA105KP|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'AD8276'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'INA105KP'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>DIP-8_W7.62mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.ti.com/lit/ds/symlink/ina105.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'difference amplifier'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Low Power</td><td> Wide Supply Range</td><td> Low Cost Unity-Gain Difference Amplifier</td><td> DIP-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W7.62mm*'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKAMPLIFIEROPERATIONALLTC6362XDD > LTC6362xDD
+# SZKAMPLIFIEROPERATIONALLTC6362XDD > Amplifier_Operational : LTC6362xDD
 
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LTC6362xDD
 - Hex ID: SZKAMPLIFIEROPERATIONALLTC6362XDD
-- Name: LTC6362xDD
-- Description: LTC6362xDD
+- Name: Amplifier_Operational : LTC6362xDD
+- Description: Amplifier_Operational : LTC6362xDD
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LTC6362xDD](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LTC6362xDD)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALLTC6362XDD](http://oom.lt/SZKAMPLIFIEROPERATIONALLTC6362XDD)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LTC6362xDD|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LTC6362xDD|
 |Hex ID (short code)|hexID|SZKAMPLIFIEROPERATIONALLTC6362XDD|
-|name|name|LTC6362xDD|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LTC6362xDD', 'kicadSymbolFootprint': 'Package_DFN_QFN:DFN-8-1EP_3x3mm_P0.5mm_EP1.66x2.38mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/6362fa.pdf', 'kicadSymbolki_keywords': 'single differential opamp', 'kicadSymbolki_description': 'Precision, Low Power, Rail-to-Rail Input/Output, Differential Op Amp/SAR ADC Driver, DFN-8', 'kicadSymbolki_fp_filters': 'DFN*1EP*3x3mm*P0.5mm*'}]|
+|name|name|Amplifier_Operational : LTC6362xDD|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LTC6362xDD'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>DFN-8-1EP_3x3mm_P0.5mm_EP1.66x2.38mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/6362fa.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'single differential opamp'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Precision</td><td> Low Power</td><td> Rail-to-Rail Input/Output</td><td> Differential Op Amp/SAR ADC Driver</td><td> DFN-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DFN*1EP*3x3mm*P0.5mm*'</td></tr></table>]|
 ||||

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_SPST_B3U-1100P-B|
 |Hex ID (short code)|hexID|FZKBSWITCHSMSWSPSTB3U11PB|
 |name|name|Button_Switch_SMD : SW_SPST_B3U-1100P-B|
-|Footprint Kicad|footprintKicadDetails|{'name': 'SW_SPST_B3U-1100P-B', 'description': 'Ultra-small-sized Tactile Switch with High Contact Reliability, Top-actuated Model, with Ground Terminal, with Boss', 'tags': 'Tactile Switch', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_SPST_B3U-1100P-B.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SW_SPST_B3U-1100P-B'</td><td> 'description'</td></tr><tr><td> 'Ultra-small-sized Tactile Switch with High Contact Reliability</td><td> Top-actuated Model</td><td> with Ground Terminal</td><td> with Boss'</td><td> 'tags'</td></tr><tr><td> 'Tactile Switch'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Button_Switch_SMD.3dshapes/SW_SPST_B3U-1100P-B.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMEMORYRAMAS6C1616 > AS6C1616
+# SZKMEMORYRAMAS6C1616 > Memory_RAM : AS6C1616
 
 - ID: SYMBOL-kicad-kicad-symbols-Memory_RAM-AS6C1616
 - Hex ID: SZKMEMORYRAMAS6C1616
-- Name: AS6C1616
-- Description: AS6C1616
+- Name: Memory_RAM : AS6C1616
+- Description: Memory_RAM : AS6C1616
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_RAM-AS6C1616](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_RAM-AS6C1616)
 - Short Link: [http://oom.lt/SZKMEMORYRAMAS6C1616](http://oom.lt/SZKMEMORYRAMAS6C1616)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AS6C1616|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Memory_RAM-AS6C1616|
 |Hex ID (short code)|hexID|SZKMEMORYRAMAS6C1616|
-|name|name|AS6C1616|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AS6C1616', 'kicadSymbolFootprint': 'Package_SO:TSOP-I-48_18.4x12mm_P0.5mm', 'kicadSymbolDatasheet': 'https://www.alliancememory.com/wp-content/uploads/pdf/AS6C1616-TSOPI.pdf', 'kicadSymbolki_keywords': 'memory SRAM', 'kicadSymbolki_description': '1024k x 16 bit low power CMOS SRAM', 'kicadSymbolki_fp_filters': 'TSOP?I*18.4x12mm*P0.5mm*'}]|
+|name|name|Memory_RAM : AS6C1616|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'AS6C1616'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>TSOP-I-48_18.4x12mm_P0.5mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.alliancememory.com/wp-content/uploads/pdf/AS6C1616-TSOPI.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'memory SRAM'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '1024k x 16 bit low power CMOS SRAM'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TSOP?I*18.4x12mm*P0.5mm*'</td></tr></table>]|
 ||||

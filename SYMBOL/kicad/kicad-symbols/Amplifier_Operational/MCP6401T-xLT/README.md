@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKAMPLIFIEROPERATIONALMCP641TXLT > MCP6401T-xLT
+# SZKAMPLIFIEROPERATIONALMCP641TXLT > Amplifier_Operational : MCP6401T-xLT
 
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-MCP6401T-xLT
 - Hex ID: SZKAMPLIFIEROPERATIONALMCP641TXLT
-- Name: MCP6401T-xLT
-- Description: MCP6401T-xLT
+- Name: Amplifier_Operational : MCP6401T-xLT
+- Description: Amplifier_Operational : MCP6401T-xLT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-MCP6401T-xLT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-MCP6401T-xLT)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALMCP641TXLT](http://oom.lt/SZKAMPLIFIEROPERATIONALMCP641TXLT)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MCP6401T-xLT|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Operational-MCP6401T-xLT|
 |Hex ID (short code)|hexID|SZKAMPLIFIEROPERATIONALMCP641TXLT|
-|name|name|MCP6401T-xLT|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MCP6001x-LT', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MCP6401T-xLT', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-353_SC-70-5', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/devicedoc/22229d.pdf', 'kicadSymbolki_keywords': 'single opamp', 'kicadSymbolki_description': '1 MHz, 45 µA Op Amps, SC-70-5', 'kicadSymbolki_fp_filters': '*SC?70*'}]|
+|name|name|Amplifier_Operational : MCP6401T-xLT|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'MCP6001x-LT'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MCP6401T-xLT'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-353_SC-70-5'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/devicedoc/22229d.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'single opamp'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '1 MHz</td><td> 45 µA Op Amps</td><td> SC-70-5'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> '*SC?70*'</td></tr></table>]|
 ||||

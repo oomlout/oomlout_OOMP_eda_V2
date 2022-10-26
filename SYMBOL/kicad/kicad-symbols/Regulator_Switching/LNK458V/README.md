@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORSWITCHINGLNK458V > LNK458V
+# SZKREGULATORSWITCHINGLNK458V > Regulator_Switching : LNK458V
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK458V
 - Hex ID: SZKREGULATORSWITCHINGLNK458V
-- Name: LNK458V
-- Description: LNK458V
+- Name: Regulator_Switching : LNK458V
+- Description: Regulator_Switching : LNK458V
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK458V](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK458V)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGLNK458V](http://oom.lt/SZKREGULATORSWITCHINGLNK458V)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LNK458V|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK458V|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGLNK458V|
-|name|name|LNK458V|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LNK457V', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LNK458V', 'kicadSymbolFootprint': 'Package_DIP:PowerIntegrations_eDIP-12B', 'kicadSymbolDatasheet': 'http://www.powerint.com/sites/default/files/product-docs/linkswitch-pl_family_datasheet.pdf', 'kicadSymbolki_keywords': 'LED Driver IC with TRIAC Dimming, Single-Stage PFC and Constant Current Control for Non-Isolated Applications', 'kicadSymbolki_description': 'LinkSwitch-PL Family, 8W Output Power, eDIP-12B', 'kicadSymbolki_fp_filters': 'PowerIntegrations?eDIP?12B*'}]|
+|name|name|Regulator_Switching : LNK458V|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'LNK457V'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LNK458V'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>PowerIntegrations_eDIP-12B'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.powerint.com/sites/default/files/product-docs/linkswitch-pl_family_datasheet.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'LED Driver IC with TRIAC Dimming</td><td> Single-Stage PFC and Constant Current Control for Non-Isolated Applications'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'LinkSwitch-PL Family</td><td> 8W Output Power</td><td> eDIP-12B'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'PowerIntegrations?eDIP?12B*'</td></tr></table>]|
 ||||

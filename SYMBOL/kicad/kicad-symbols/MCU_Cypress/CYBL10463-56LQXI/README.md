@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUCYPRESSCYBL146356LQXI > CYBL10463-56LQXI
+# SZKMCUCYPRESSCYBL146356LQXI > MCU_Cypress : CYBL10463-56LQXI
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Cypress-CYBL10463-56LQXI
 - Hex ID: SZKMCUCYPRESSCYBL146356LQXI
-- Name: CYBL10463-56LQXI
-- Description: CYBL10463-56LQXI
+- Name: MCU_Cypress : CYBL10463-56LQXI
+- Description: MCU_Cypress : CYBL10463-56LQXI
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Cypress-CYBL10463-56LQXI](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Cypress-CYBL10463-56LQXI)
 - Short Link: [http://oom.lt/SZKMCUCYPRESSCYBL146356LQXI](http://oom.lt/SZKMCUCYPRESSCYBL146356LQXI)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|CYBL10463-56LQXI|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Cypress-CYBL10463-56LQXI|
 |Hex ID (short code)|hexID|SZKMCUCYPRESSCYBL146356LQXI|
-|name|name|CYBL10463-56LQXI|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'CYBL10x6x-56LQxx', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'CYBL10463-56LQXI', 'kicadSymbolFootprint': 'Package_DFN_QFN:QFN-56-1EP_7x7mm_P0.4mm_EP5.6x5.6mm', 'kicadSymbolDatasheet': 'http://www.cypress.com/documentation/datasheets/cybl10x6x-family-datasheet-programmable-radio-chip-bluetooth-low-energy', 'kicadSymbolki_keywords': 'CYPRESS PROC BLE CY8BL ARM CORTEX M0 BLUETOOTH QFN', 'kicadSymbolki_description': '56-QFN, 48-MHz ARM® Cortex®-M0, 128KB Flash, 16kB SRAM, BLE 4.1, CAP-SENSE, 2 SCB, 4 TCPWM, NO I2S, NO PWM , LCD, 1MSPS 12-BIT SAR', 'kicadSymbolki_fp_filters': 'QFN*1EP*7x7mm*P0.4mm*'}]|
+|name|name|MCU_Cypress : CYBL10463-56LQXI|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'CYBL10x6x-56LQxx'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'CYBL10463-56LQXI'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>QFN-56-1EP_7x7mm_P0.4mm_EP5.6x5.6mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.cypress.com/documentation/datasheets/cybl10x6x-family-datasheet-programmable-radio-chip-bluetooth-low-energy'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'CYPRESS PROC BLE CY8BL ARM CORTEX M0 BLUETOOTH QFN'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '56-QFN</td><td> 48-MHz ARM® Cortex®-M0</td><td> 128KB Flash</td><td> 16kB SRAM</td><td> BLE 4.1</td><td> CAP-SENSE</td><td> 2 SCB</td><td> 4 TCPWM</td><td> NO I2S</td><td> NO PWM </td><td> LCD</td><td> 1MSPS 12-BIT SAR'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'QFN*1EP*7x7mm*P0.4mm*'</td></tr></table>]|
 ||||

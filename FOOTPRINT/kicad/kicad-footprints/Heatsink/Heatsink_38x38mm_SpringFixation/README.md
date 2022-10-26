@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Heatsink-Heatsink_38x38mm_SpringFixation|
 |Hex ID (short code)|hexID|FZKHH38X38SPRINGFIXATION|
 |name|name|Heatsink : Heatsink_38x38mm_SpringFixation|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Heatsink_38x38mm_SpringFixation', 'description': 'Heatsink, 38x38mm, Spring Fixation, diagonal,', 'tags': 'heatsink', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Heatsink.3dshapes/Heatsink_38x38mm_SpringFixation.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Heatsink_38x38mm_SpringFixation'</td><td> 'description'</td></tr><tr><td> 'Heatsink</td><td> 38x38mm</td><td> Spring Fixation</td><td> diagonal</td><td>'</td><td> 'tags'</td></tr><tr><td> 'heatsink'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Heatsink.3dshapes/Heatsink_38x38mm_SpringFixation.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

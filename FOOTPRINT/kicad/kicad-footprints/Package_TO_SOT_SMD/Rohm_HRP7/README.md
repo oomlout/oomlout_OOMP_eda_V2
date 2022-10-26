@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-Rohm_HRP7|
 |Hex ID (short code)|hexID|FZKPACKAGETOSOTSMROHMHRP7|
 |name|name|Package_TO_SOT_SMD : Rohm_HRP7|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Rohm_HRP7', 'description': 'Rohm HRP7 SMD package, http://rohmfs.rohm.com/en/techdata_basic/ic/package/hrp7_1-e.pdf, http://rohmfs.rohm.com/en/products/databook/datasheet/ic/motor/dc/bd621x-e.pdf', 'tags': 'Rohm HRP7 SMD', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/Rohm_HRP7.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Rohm_HRP7'</td><td> 'description'</td></tr><tr><td> 'Rohm HRP7 SMD package</td><td> http</td></tr><tr><td>//rohmfs.rohm.com/en/techdata_basic/ic/package/hrp7_1-e.pdf</td><td> http</td></tr><tr><td>//rohmfs.rohm.com/en/products/databook/datasheet/ic/motor/dc/bd621x-e.pdf'</td><td> 'tags'</td></tr><tr><td> 'Rohm HRP7 SMD'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_TO_SOT_SMD.3dshapes/Rohm_HRP7.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

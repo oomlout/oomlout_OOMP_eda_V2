@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKVIDEOTDA953 > TDA9503
+# SZKVIDEOTDA953 > Video : TDA9503
 
 - ID: SYMBOL-kicad-kicad-symbols-Video-TDA9503
 - Hex ID: SZKVIDEOTDA953
-- Name: TDA9503
-- Description: TDA9503
+- Name: Video : TDA9503
+- Description: Video : TDA9503
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Video-TDA9503](http://oom.lt/SYMBOL-kicad-kicad-symbols-Video-TDA9503)
 - Short Link: [http://oom.lt/SZKVIDEOTDA953](http://oom.lt/SZKVIDEOTDA953)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TDA9503|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Video-TDA9503|
 |Hex ID (short code)|hexID|SZKVIDEOTDA953|
-|name|name|TDA9503|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TDA9500', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TDA9503', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ''}]|
+|name|name|Video : TDA9503|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'TDA9500'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TDA9503'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> ''</td></tr></table>]|
 ||||

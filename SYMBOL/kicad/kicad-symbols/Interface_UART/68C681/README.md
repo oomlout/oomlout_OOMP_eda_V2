@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKINTERFACEUART68C681 > 68C681
+# SZKINTERFACEUART68C681 > Interface_UART : 68C681
 
 - ID: SYMBOL-kicad-kicad-symbols-Interface_UART-68C681
 - Hex ID: SZKINTERFACEUART68C681
-- Name: 68C681
-- Description: 68C681
+- Name: Interface_UART : 68C681
+- Description: Interface_UART : 68C681
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-68C681](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-68C681)
 - Short Link: [http://oom.lt/SZKINTERFACEUART68C681](http://oom.lt/SZKINTERFACEUART68C681)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|68C681|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_UART-68C681|
 |Hex ID (short code)|hexID|SZKINTERFACEUART68C681|
-|name|name|68C681|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '68C681', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.elektronik.ropla.eu/pdf/stock/exa/xr68c681.pdf', 'kicadSymbolki_keywords': 'UART serial', 'kicadSymbolki_description': 'CMOS Dual Channel UART'}]|
+|name|name|Interface_UART : 68C681|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> '68C681'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.elektronik.ropla.eu/pdf/stock/exa/xr68c681.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'UART serial'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'CMOS Dual Channel UART'</td></tr></table>]|
 ||||

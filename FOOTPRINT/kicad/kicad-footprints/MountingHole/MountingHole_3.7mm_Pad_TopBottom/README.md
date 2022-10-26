@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_3.7mm_Pad_TopBottom|
 |Hex ID (short code)|hexID|FZKHOLHOL37PADTOPBOTTOM|
 |name|name|MountingHole : MountingHole_3.7mm_Pad_TopBottom|
-|Footprint Kicad|footprintKicadDetails|{'name': 'MountingHole_3.7mm_Pad_TopBottom', 'description': 'Mounting Hole 3.7mm', 'tags': 'mounting hole 3.7mm', 'attributeType': None, 'pins': {'type': 'connect', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'MountingHole_3.7mm_Pad_TopBottom'</td><td> 'description'</td></tr><tr><td> 'Mounting Hole 3.7mm'</td><td> 'tags'</td></tr><tr><td> 'mounting hole 3.7mm'</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'connect'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

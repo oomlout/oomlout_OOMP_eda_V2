@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKANALOGADCMAX11613 > MAX11613
+# SZKANALOGADCMAX11613 > Analog_ADC : MAX11613
 
 - ID: SYMBOL-kicad-kicad-symbols-Analog_ADC-MAX11613
 - Hex ID: SZKANALOGADCMAX11613
-- Name: MAX11613
-- Description: MAX11613
+- Name: Analog_ADC : MAX11613
+- Description: Analog_ADC : MAX11613
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-MAX11613](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-MAX11613)
 - Short Link: [http://oom.lt/SZKANALOGADCMAX11613](http://oom.lt/SZKANALOGADCMAX11613)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MAX11613|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_ADC-MAX11613|
 |Hex ID (short code)|hexID|SZKANALOGADCMAX11613|
-|name|name|MAX11613|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MAX11612', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MAX11613', 'kicadSymbolFootprint': 'Package_SO:MSOP-8_3x3mm_P0.65mm', 'kicadSymbolDatasheet': 'https://datasheets.maximintegrated.com/en/ds/MAX11612-MAX11617.pdf', 'kicadSymbolki_keywords': 'adc i2c 4ch', 'kicadSymbolki_description': '4-channel single-ended or 2-channel, differential, 12-bit ADC, I2C, 2.048V internal reference, 8-MSOP package', 'kicadSymbolki_fp_filters': 'MSOP*3x3mm*P0.65mm*'}]|
+|name|name|Analog_ADC : MAX11613|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'MAX11612'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MAX11613'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>MSOP-8_3x3mm_P0.65mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//datasheets.maximintegrated.com/en/ds/MAX11612-MAX11617.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'adc i2c 4ch'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '4-channel single-ended or 2-channel</td><td> differential</td><td> 12-bit ADC</td><td> I2C</td><td> 2.048V internal reference</td><td> 8-MSOP package'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'MSOP*3x3mm*P0.65mm*'</td></tr></table>]|
 ||||

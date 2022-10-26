@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_SeikoEpson_MA506-4Pin_12.7x5.1mm_HandSoldering|
 |Hex ID (short code)|hexID|FZKXXSMSEIKOEPSONMA564PIN127X51HANDSOLDERING|
 |name|name|Crystal : Crystal_SMD_SeikoEpson_MA506-4Pin_12.7x5.1mm_HandSoldering|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Crystal_SMD_SeikoEpson_MA506-4Pin_12.7x5.1mm_HandSoldering', 'description': 'SMD Crystal Seiko Epson MC-506 http://media.digikey.com/pdf/Data%20Sheets/Epson%20PDFs/MA-505,506.pdf, hand-soldering, 12.7x5.1mm^2 package', 'tags': 'SMD SMT crystal hand-soldering', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Crystal_SMD_SeikoEpson_MA506-4Pin_12.7x5.1mm_HandSoldering.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Crystal_SMD_SeikoEpson_MA506-4Pin_12.7x5.1mm_HandSoldering'</td><td> 'description'</td></tr><tr><td> 'SMD Crystal Seiko Epson MC-506 http</td></tr><tr><td>//media.digikey.com/pdf/Data%20Sheets/Epson%20PDFs/MA-505</td><td>506.pdf</td><td> hand-soldering</td><td> 12.7x5.1mm^2 package'</td><td> 'tags'</td></tr><tr><td> 'SMD SMT crystal hand-soldering'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Crystal.3dshapes/Crystal_SMD_SeikoEpson_MA506-4Pin_12.7x5.1mm_HandSoldering.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

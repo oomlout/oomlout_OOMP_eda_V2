@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_BarrelJack-BarrelJack_CUI_PJ-063AH_Horizontal_CircularHoles|
 |Hex ID (short code)|hexID|FZKCNBARRELJBARRELJCUIPJ63AHHORIZONTALCIRCULARH|
 |name|name|Connector_BarrelJack : BarrelJack_CUI_PJ-063AH_Horizontal_CircularHoles|
-|Footprint Kicad|footprintKicadDetails|{'name': 'BarrelJack_CUI_PJ-063AH_Horizontal_CircularHoles', 'description': 'Barrel Jack, 2.0mm ID, 5.5mm OD, 24V, 8A, no switch, https://www.cui.com/product/resource/pj-063ah.pdf', 'tags': 'barrel jack cui dc power', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_BarrelJack.3dshapes/BarrelJack_CUI_PJ-063AH_Horizontal_CircularHoles.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'BarrelJack_CUI_PJ-063AH_Horizontal_CircularHoles'</td><td> 'description'</td></tr><tr><td> 'Barrel Jack</td><td> 2.0mm ID</td><td> 5.5mm OD</td><td> 24V</td><td> 8A</td><td> no switch</td><td> https</td></tr><tr><td>//www.cui.com/product/resource/pj-063ah.pdf'</td><td> 'tags'</td></tr><tr><td> 'barrel jack cui dc power'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_BarrelJack.3dshapes/BarrelJack_CUI_PJ-063AH_Horizontal_CircularHoles.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

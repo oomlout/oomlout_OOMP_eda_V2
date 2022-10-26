@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKSENOPTICALAS7263 > AS7263
+# SZKSENOPTICALAS7263 > Sensor_Optical : AS7263
 
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Optical-AS7263
 - Hex ID: SZKSENOPTICALAS7263
-- Name: AS7263
-- Description: AS7263
+- Name: Sensor_Optical : AS7263
+- Description: Sensor_Optical : AS7263
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-AS7263](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-AS7263)
 - Short Link: [http://oom.lt/SZKSENOPTICALAS7263](http://oom.lt/SZKSENOPTICALAS7263)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AS7263|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Optical-AS7263|
 |Hex ID (short code)|hexID|SZKSENOPTICALAS7263|
-|name|name|AS7263|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'AS7261', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AS7263', 'kicadSymbolFootprint': 'Package_LGA:AMS_LGA-20_4.7x4.5mm_P0.65mm', 'kicadSymbolDatasheet': 'http://ams.com/eng/content/download/976611/2309519/498778', 'kicadSymbolki_keywords': '6-Channel NIR Spectral_ID Device Electronic Shutter Smart Interface i2c uart', 'kicadSymbolki_description': 'Spectral Sensing Engine, 6-Channel NIR Spectral_ID', 'kicadSymbolki_fp_filters': 'AMS?LGA*4.7x4.5mm*P0.65mm*'}]|
+|name|name|Sensor_Optical : AS7263|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'AS7261'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'AS7263'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_LGA</td></tr><tr><td>AMS_LGA-20_4.7x4.5mm_P0.65mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ams.com/eng/content/download/976611/2309519/498778'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> '6-Channel NIR Spectral_ID Device Electronic Shutter Smart Interface i2c uart'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Spectral Sensing Engine</td><td> 6-Channel NIR Spectral_ID'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'AMS?LGA*4.7x4.5mm*P0.65mm*'</td></tr></table>]|
 ||||

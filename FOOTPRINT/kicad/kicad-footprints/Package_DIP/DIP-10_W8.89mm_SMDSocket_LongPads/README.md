@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DIP-DIP-10_W8.89mm_SMDSocket_LongPads|
 |Hex ID (short code)|hexID|FZKDIPDIP1W889SMSOL|
 |name|name|Package_DIP : DIP-10_W8.89mm_SMDSocket_LongPads|
-|Footprint Kicad|footprintKicadDetails|{'name': 'DIP-10_W8.89mm_SMDSocket_LongPads', 'description': '10-lead though-hole mounted DIP package, row spacing 8.89 mm (350 mils), SMDSocket, LongPads', 'tags': 'THT DIP DIL PDIP 2.54mm 8.89mm 350mil SMDSocket LongPads', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DIP.3dshapes/DIP-10_W8.89mm_SMDSocket.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'DIP-10_W8.89mm_SMDSocket_LongPads'</td><td> 'description'</td></tr><tr><td> '10-lead though-hole mounted DIP package</td><td> row spacing 8.89 mm (350 mils)</td><td> SMDSocket</td><td> LongPads'</td><td> 'tags'</td></tr><tr><td> 'THT DIP DIL PDIP 2.54mm 8.89mm 350mil SMDSocket LongPads'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DIP.3dshapes/DIP-10_W8.89mm_SMDSocket.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

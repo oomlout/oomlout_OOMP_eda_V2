@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKCNUCPLUG > USB_C_Plug
+# SZKCNUCPLUG > Connector : USB_C_Plug
 
 - ID: SYMBOL-kicad-kicad-symbols-Connector-USB_C_Plug
 - Hex ID: SZKCNUCPLUG
-- Name: USB_C_Plug
-- Description: USB_C_Plug
+- Name: Connector : USB_C_Plug
+- Description: Connector : USB_C_Plug
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-USB_C_Plug](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-USB_C_Plug)
 - Short Link: [http://oom.lt/SZKCNUCPLUG](http://oom.lt/SZKCNUCPLUG)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|USB_C_Plug|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-USB_C_Plug|
 |Hex ID (short code)|hexID|SZKCNUCPLUG|
-|name|name|USB_C_Plug|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'P', 'kicadSymbolValue': 'USB_C_Plug', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.usb.org/sites/default/files/documents/usb_type-c.zip', 'kicadSymbolki_keywords': 'usb universal serial bus', 'kicadSymbolki_description': 'USB Type-C Plug connector', 'kicadSymbolki_fp_filters': 'USB*C*Plug*'}]|
+|name|name|Connector : USB_C_Plug|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'P'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'USB_C_Plug'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.usb.org/sites/default/files/documents/usb_type-c.zip'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'usb universal serial bus'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'USB Type-C Plug connector'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'USB*C*Plug*'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKAMPLIFIEROPERATIONALMCP61R > MCP6001R
+# SZKAMPLIFIEROPERATIONALMCP61R > Amplifier_Operational : MCP6001R
 
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-MCP6001R
 - Hex ID: SZKAMPLIFIEROPERATIONALMCP61R
-- Name: MCP6001R
-- Description: MCP6001R
+- Name: Amplifier_Operational : MCP6001R
+- Description: Amplifier_Operational : MCP6001R
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-MCP6001R](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-MCP6001R)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALMCP61R](http://oom.lt/SZKAMPLIFIEROPERATIONALMCP61R)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MCP6001R|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Operational-MCP6001R|
 |Hex ID (short code)|hexID|SZKAMPLIFIEROPERATIONALMCP61R|
-|name|name|MCP6001R|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MCP6L91RT-EOT', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MCP6001R', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-5', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/21733j.pdf', 'kicadSymbolki_keywords': 'single opamp', 'kicadSymbolki_description': '1MHz, Low-Power Op Amp, SOT-23-5', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
+|name|name|Amplifier_Operational : MCP6001R|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'MCP6L91RT-EOT'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MCP6001R'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-23-5'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/21733j.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'single opamp'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '1MHz</td><td> Low-Power Op Amp</td><td> SOT-23-5'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23*'</td></tr></table>]|
 ||||

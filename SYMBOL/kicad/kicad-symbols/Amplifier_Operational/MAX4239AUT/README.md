@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKAMPLIFIEROPERATIONALMAX4239AUT > MAX4239AUT
+# SZKAMPLIFIEROPERATIONALMAX4239AUT > Amplifier_Operational : MAX4239AUT
 
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-MAX4239AUT
 - Hex ID: SZKAMPLIFIEROPERATIONALMAX4239AUT
-- Name: MAX4239AUT
-- Description: MAX4239AUT
+- Name: Amplifier_Operational : MAX4239AUT
+- Description: Amplifier_Operational : MAX4239AUT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-MAX4239AUT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-MAX4239AUT)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALMAX4239AUT](http://oom.lt/SZKAMPLIFIEROPERATIONALMAX4239AUT)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MAX4239AUT|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Operational-MAX4239AUT|
 |Hex ID (short code)|hexID|SZKAMPLIFIEROPERATIONALMAX4239AUT|
-|name|name|MAX4239AUT|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MAX4238AUT', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MAX4239AUT', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-6', 'kicadSymbolDatasheet': 'http://datasheets.maximintegrated.com/en/ds/MAX4238-MAX4239.pdf', 'kicadSymbolki_keywords': 'single opamp', 'kicadSymbolki_description': 'Ultra-Low Offset/Drift, Low-Noise, Precision Amplifiers, SOT-23-6', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
+|name|name|Amplifier_Operational : MAX4239AUT|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'MAX4238AUT'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MAX4239AUT'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-23-6'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//datasheets.maximintegrated.com/en/ds/MAX4238-MAX4239.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'single opamp'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Ultra-Low Offset/Drift</td><td> Low-Noise</td><td> Precision Amplifiers</td><td> SOT-23-6'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23*'</td></tr></table>]|
 ||||

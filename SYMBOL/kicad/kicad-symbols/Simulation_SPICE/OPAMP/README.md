@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKSIMULATIONSPICEOPAMP > OPAMP
+# SZKSIMULATIONSPICEOPAMP > Simulation_SPICE : OPAMP
 
 - ID: SYMBOL-kicad-kicad-symbols-Simulation_SPICE-OPAMP
 - Hex ID: SZKSIMULATIONSPICEOPAMP
-- Name: OPAMP
-- Description: OPAMP
+- Name: Simulation_SPICE : OPAMP
+- Description: Simulation_SPICE : OPAMP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Simulation_SPICE-OPAMP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Simulation_SPICE-OPAMP)
 - Short Link: [http://oom.lt/SZKSIMULATIONSPICEOPAMP](http://oom.lt/SZKSIMULATIONSPICEOPAMP)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|OPAMP|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Simulation_SPICE-OPAMP|
 |Hex ID (short code)|hexID|SZKSIMULATIONSPICEOPAMP|
-|name|name|OPAMP|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'OPAMP', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolSpice_Netlist_Enabled': 'Y', 'kicadSymbolSpice_Primitive': 'X', 'kicadSymbolki_keywords': 'simulation', 'kicadSymbolki_description': 'Operational amplifier, single, node sequence=1:+ 2:- 3:OUT 4:V+ 5:V-'}]|
+|name|name|Simulation_SPICE : OPAMP|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'OPAMP'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolSpice_Netlist_Enabled'</td></tr><tr><td> 'Y'</td><td> 'kicadSymbolSpice_Primitive'</td></tr><tr><td> 'X'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'simulation'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Operational amplifier</td><td> single</td><td> node sequence=1</td></tr><tr><td>+ 2</td></tr><tr><td>- 3</td></tr><tr><td>OUT 4</td></tr><tr><td>V+ 5</td></tr><tr><td>V-'</td></tr></table>]|
 ||||

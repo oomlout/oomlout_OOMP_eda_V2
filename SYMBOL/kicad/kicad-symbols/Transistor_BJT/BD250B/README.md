@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORBJTBD25B > BD250B
+# SZKTRANSISTORBJTBD25B > Transistor_BJT : BD250B
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-BD250B
 - Hex ID: SZKTRANSISTORBJTBD25B
-- Name: BD250B
-- Description: BD250B
+- Name: Transistor_BJT : BD250B
+- Description: Transistor_BJT : BD250B
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BD250B](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BD250B)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTBD25B](http://oom.lt/SZKTRANSISTORBJTBD25B)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BD250B|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_BJT-BD250B|
 |Hex ID (short code)|hexID|SZKTRANSISTORBJTBD25B|
-|name|name|BD250B|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BD250', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'BD250B', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.mospec.com.tw/pdf/power/BD249.pdf', 'kicadSymbolki_keywords': 'Power PNP Transistor', 'kicadSymbolki_description': '25A Ic, 90V Vce, Silicon Power PNP Transistors, SOT-93/TO247', 'kicadSymbolki_fp_filters': 'TO?218* TO?247*'}]|
+|name|name|Transistor_BJT : BD250B|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'BD250'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'BD250B'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.mospec.com.tw/pdf/power/BD249.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Power PNP Transistor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '25A Ic</td><td> 90V Vce</td><td> Silicon Power PNP Transistors</td><td> SOT-93/TO247'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TO?218* TO?247*'</td></tr></table>]|
 ||||

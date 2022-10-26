@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKAUDIOYM2149 > YM2149
+# SZKAUDIOYM2149 > Audio : YM2149
 
 - ID: SYMBOL-kicad-kicad-symbols-Audio-YM2149
 - Hex ID: SZKAUDIOYM2149
-- Name: YM2149
-- Description: YM2149
+- Name: Audio : YM2149
+- Description: Audio : YM2149
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-YM2149](http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-YM2149)
 - Short Link: [http://oom.lt/SZKAUDIOYM2149](http://oom.lt/SZKAUDIOYM2149)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|YM2149|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Audio-YM2149|
 |Hex ID (short code)|hexID|SZKAUDIOYM2149|
-|name|name|YM2149|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'YM2149', 'kicadSymbolFootprint': 'Package_DIP:DIP-40_W15.24mm', 'kicadSymbolDatasheet': 'http://www.ym2149.com/ym2149.pdf', 'kicadSymbolki_keywords': 'audio ssg 3ch', 'kicadSymbolki_description': 'Software-Controlled Sound Generator, DIP-40', 'kicadSymbolki_fp_filters': 'DIP*W15.24mm*'}]|
+|name|name|Audio : YM2149|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'YM2149'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>DIP-40_W15.24mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ym2149.com/ym2149.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'audio ssg 3ch'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Software-Controlled Sound Generator</td><td> DIP-40'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W15.24mm*'</td></tr></table>]|
 ||||

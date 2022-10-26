@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKGRAPHICSYMEARTHPROTECTIVEL > SYM_Earth_Protective_Large
+# SZKGRAPHICSYMEARTHPROTECTIVEL > Graphic : SYM_Earth_Protective_Large
 
 - ID: SYMBOL-kicad-kicad-symbols-Graphic-SYM_Earth_Protective_Large
 - Hex ID: SZKGRAPHICSYMEARTHPROTECTIVEL
-- Name: SYM_Earth_Protective_Large
-- Description: SYM_Earth_Protective_Large
+- Name: Graphic : SYM_Earth_Protective_Large
+- Description: Graphic : SYM_Earth_Protective_Large
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Graphic-SYM_Earth_Protective_Large](http://oom.lt/SYMBOL-kicad-kicad-symbols-Graphic-SYM_Earth_Protective_Large)
 - Short Link: [http://oom.lt/SZKGRAPHICSYMEARTHPROTECTIVEL](http://oom.lt/SZKGRAPHICSYMEARTHPROTECTIVEL)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SYM_Earth_Protective_Large|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Graphic-SYM_Earth_Protective_Large|
 |Hex ID (short code)|hexID|SZKGRAPHICSYMEARTHPROTECTIVEL|
-|name|name|SYM_Earth_Protective_Large|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': '#SYM', 'kicadSymbolValue': 'SYM_Earth_Protective_Large', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'graphical symbol earth protective', 'kicadSymbolki_description': 'Protective earth symbol, large'}]|
+|name|name|Graphic : SYM_Earth_Protective_Large|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> '#SYM'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'SYM_Earth_Protective_Large'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'graphical symbol earth protective'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Protective earth symbol</td><td> large'</td></tr></table>]|
 ||||

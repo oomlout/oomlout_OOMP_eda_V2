@@ -29,5 +29,5 @@ NO IMAGE
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-RF_Mini-Circuits-Mini-Circuits_TTT167|
 |Hex ID (short code)|hexID|FZKRFMCIRCUITSTTT167|
 |name|name|RF_Mini-Circuits : Mini-Circuits_TTT167|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Mini-Circuits_TTT167', 'description': 'Footprint for Mini-Circuits case TTT167 (https://ww2.minicircuits.com/case_style/TTT167.pdf)', 'tags': 'Mini-Circuits TTT167', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/RF_Mini-Circuits.3dshapes/Mini-Circuits_TTT167.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Mini-Circuits_TTT167'</td><td> 'description'</td></tr><tr><td> 'Footprint for Mini-Circuits case TTT167 (https</td></tr><tr><td>//ww2.minicircuits.com/case_style/TTT167.pdf)'</td><td> 'tags'</td></tr><tr><td> 'Mini-Circuits TTT167'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/RF_Mini-Circuits.3dshapes/Mini-Circuits_TTT167.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

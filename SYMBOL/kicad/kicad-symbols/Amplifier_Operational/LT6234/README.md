@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKAMPLIFIEROPERATIONALLT6234 > LT6234
+# SZKAMPLIFIEROPERATIONALLT6234 > Amplifier_Operational : LT6234
 
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LT6234
 - Hex ID: SZKAMPLIFIEROPERATIONALLT6234
-- Name: LT6234
-- Description: LT6234
+- Name: Amplifier_Operational : LT6234
+- Description: Amplifier_Operational : LT6234
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LT6234](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LT6234)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALLT6234](http://oom.lt/SZKAMPLIFIEROPERATIONALLT6234)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LT6234|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LT6234|
 |Hex ID (short code)|hexID|SZKAMPLIFIEROPERATIONALLT6234|
-|name|name|LT6234|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LM2904', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LT6234', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/623345fc.pdf', 'kicadSymbolki_keywords': 'dual opamp', 'kicadSymbolki_description': 'Dual 60MHz, Rail-to-Rail Output, 1.9nV/√Hz, 1.2mA, Operational Amplifier, SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm* DIP*W7.62mm* TO*99* OnSemi*Micro8* TSSOP*3x3mm*P0.65mm* TSSOP*4.4x3mm*P0.65mm* MSOP*3x3mm*P0.65mm* SSOP*3.9x4.9mm*P0.635mm* LFCSP*2x2mm*P0.5mm* *SIP* SOIC*5.3x6.2mm*P1.27mm*'}]|
+|name|name|Amplifier_Operational : LT6234|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'LM2904'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LT6234'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/623345fc.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'dual opamp'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Dual 60MHz</td><td> Rail-to-Rail Output</td><td> 1.9nV/√Hz</td><td> 1.2mA</td><td> Operational Amplifier</td><td> SOIC-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*3.9x4.9mm*P1.27mm* DIP*W7.62mm* TO*99* OnSemi*Micro8* TSSOP*3x3mm*P0.65mm* TSSOP*4.4x3mm*P0.65mm* MSOP*3x3mm*P0.65mm* SSOP*3.9x4.9mm*P0.635mm* LFCSP*2x2mm*P0.5mm* *SIP* SOIC*5.3x6.2mm*P1.27mm*'</td></tr></table>]|
 ||||

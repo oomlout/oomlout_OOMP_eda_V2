@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Stocko-Stocko_MKS_1659-6-0-909_1x9_P2.50mm_Vertical|
 |Hex ID (short code)|hexID|FZKCNSTOCKOSTOCKOMKS16596991X9P25VERTICAL|
 |name|name|Connector_Stocko : Stocko_MKS_1659-6-0-909_1x9_P2.50mm_Vertical|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Stocko_MKS_1659-6-0-909_1x9_P2.50mm_Vertical', 'description': 'Stocko MKS 16xx series connector, (https://www.stocko-contact.com/downloads/steckverbindersystem-raster-2,5-mm.pdf#page=15), generated with kicad-footprint-generator', 'tags': 'Stocko RFK MKS 16xx', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_Stocko.3dshapes/Stocko_MKS_1659-6-0-909_1x9_P2.50mm_Vertical.wrl', 'pins': {'type': 'thru_hole', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Stocko_MKS_1659-6-0-909_1x9_P2.50mm_Vertical'</td><td> 'description'</td></tr><tr><td> 'Stocko MKS 16xx series connector</td><td> (https</td></tr><tr><td>//www.stocko-contact.com/downloads/steckverbindersystem-raster-2</td><td>5-mm.pdf#page=15)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'Stocko RFK MKS 16xx'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_Stocko.3dshapes/Stocko_MKS_1659-6-0-909_1x9_P2.50mm_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUMCHIPSAMDATSAMD1D13ASS > ATSAMD10D13A-SS
+# SZKMCUMCHIPSAMDATSAMD1D13ASS > MCU_Microchip_SAMD : ATSAMD10D13A-SS
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_SAMD-ATSAMD10D13A-SS
 - Hex ID: SZKMCUMCHIPSAMDATSAMD1D13ASS
-- Name: ATSAMD10D13A-SS
-- Description: ATSAMD10D13A-SS
+- Name: MCU_Microchip_SAMD : ATSAMD10D13A-SS
+- Description: MCU_Microchip_SAMD : ATSAMD10D13A-SS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_SAMD-ATSAMD10D13A-SS](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_SAMD-ATSAMD10D13A-SS)
 - Short Link: [http://oom.lt/SZKMCUMCHIPSAMDATSAMD1D13ASS](http://oom.lt/SZKMCUMCHIPSAMDATSAMD1D13ASS)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ATSAMD10D13A-SS|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_SAMD-ATSAMD10D13A-SS|
 |Hex ID (short code)|hexID|SZKMCUMCHIPSAMDATSAMD1D13ASS|
-|name|name|ATSAMD10D13A-SS|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ATSAMD10D13A-SS', 'kicadSymbolFootprint': 'Package_SO:SOIC-20W_7.5x12.8mm_P1.27mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-42242-SAM-D10_Datasheet.pdf', 'kicadSymbolki_keywords': '32-bit ARM Cortex-M0+ MCU Microcontroller', 'kicadSymbolki_description': 'ARM Cortex-M0+ MCU, 48MHz, 8KB Flash, 4KB RAM, 1.6-3.6V, 18 GPIO, SOIC-20', 'kicadSymbolki_fp_filters': 'SOIC*7.5x12.8mm*P1.27mm*'}]|
+|name|name|MCU_Microchip_SAMD : ATSAMD10D13A-SS|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ATSAMD10D13A-SS'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-20W_7.5x12.8mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/Atmel-42242-SAM-D10_Datasheet.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> '32-bit ARM Cortex-M0+ MCU Microcontroller'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'ARM Cortex-M0+ MCU</td><td> 48MHz</td><td> 8KB Flash</td><td> 4KB RAM</td><td> 1.6-3.6V</td><td> 18 GPIO</td><td> SOIC-20'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*7.5x12.8mm*P1.27mm*'</td></tr></table>]|
 ||||

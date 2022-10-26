@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDEVICESPARKGAP > SparkGap
+# SZKDEVICESPARKGAP > Device : SparkGap
 
 - ID: SYMBOL-kicad-kicad-symbols-Device-SparkGap
 - Hex ID: SZKDEVICESPARKGAP
-- Name: SparkGap
-- Description: SparkGap
+- Name: Device : SparkGap
+- Description: Device : SparkGap
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-SparkGap](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-SparkGap)
 - Short Link: [http://oom.lt/SZKDEVICESPARKGAP](http://oom.lt/SZKDEVICESPARKGAP)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SparkGap|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-SparkGap|
 |Hex ID (short code)|hexID|SZKDEVICESPARKGAP|
-|name|name|SparkGap|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'E', 'kicadSymbolValue': 'SparkGap', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'spark gap ESD electrostatic suppression', 'kicadSymbolki_description': 'Spark gap', 'kicadSymbolki_fp_filters': 'SG*'}]|
+|name|name|Device : SparkGap|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'E'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'SparkGap'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'spark gap ESD electrostatic suppression'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Spark gap'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SG*'</td></tr></table>]|
 ||||

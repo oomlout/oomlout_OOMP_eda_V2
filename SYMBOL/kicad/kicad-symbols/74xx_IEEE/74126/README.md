@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZK74XXIEEE74126 > 74126
+# SZK74XXIEEE74126 > 74xx_IEEE : 74126
 
 - ID: SYMBOL-kicad-kicad-symbols-74xx_IEEE-74126
 - Hex ID: SZK74XXIEEE74126
-- Name: 74126
-- Description: 74126
+- Name: 74xx_IEEE : 74126
+- Description: 74xx_IEEE : 74126
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx_IEEE-74126](http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx_IEEE-74126)
 - Short Link: [http://oom.lt/SZK74XXIEEE74126](http://oom.lt/SZK74XXIEEE74126)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74126|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xx_IEEE-74126|
 |Hex ID (short code)|hexID|SZK74XXIEEE74126|
-|name|name|74126|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74126', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ''}]|
+|name|name|74xx_IEEE : 74126|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> '74126'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> ''</td></tr></table>]|
 ||||

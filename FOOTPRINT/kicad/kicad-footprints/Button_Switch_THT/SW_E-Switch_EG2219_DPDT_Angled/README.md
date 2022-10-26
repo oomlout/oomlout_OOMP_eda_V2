@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_E-Switch_EG2219_DPDT_Angled|
 |Hex ID (short code)|hexID|FZKBSWESWITCHEG2219DPDTANGL|
 |name|name|Button_Switch_THT : SW_E-Switch_EG2219_DPDT_Angled|
-|Footprint Kicad|footprintKicadDetails|{'name': 'SW_E-Switch_EG2219_DPDT_Angled', 'description': 'E-Switch slide switch, EG series, DPDT, right angle, http://spec_sheets.e-switch.com/specs/P040170.pdf', 'tags': 'switch DPDT', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_E-Switch_EG2219_DPDT_Angled.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SW_E-Switch_EG2219_DPDT_Angled'</td><td> 'description'</td></tr><tr><td> 'E-Switch slide switch</td><td> EG series</td><td> DPDT</td><td> right angle</td><td> http</td></tr><tr><td>//spec_sheets.e-switch.com/specs/P040170.pdf'</td><td> 'tags'</td></tr><tr><td> 'switch DPDT'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Button_Switch_THT.3dshapes/SW_E-Switch_EG2219_DPDT_Angled.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

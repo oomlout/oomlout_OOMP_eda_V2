@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUSTSTM32F4STM32F413MHYX > STM32F413MHYx
+# SZKMCUSTSTM32F4STM32F413MHYX > MCU_ST_STM32F4 : STM32F413MHYx
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F413MHYx
 - Hex ID: SZKMCUSTSTM32F4STM32F413MHYX
-- Name: STM32F413MHYx
-- Description: STM32F413MHYx
+- Name: MCU_ST_STM32F4 : STM32F413MHYx
+- Description: MCU_ST_STM32F4 : STM32F413MHYx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F413MHYx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F413MHYx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32F4STM32F413MHYX](http://oom.lt/SZKMCUSTSTM32F4STM32F413MHYX)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|STM32F413MHYx|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F413MHYx|
 |Hex ID (short code)|hexID|SZKMCUSTSTM32F4STM32F413MHYX|
-|name|name|STM32F413MHYx|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'STM32F413MGYx', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'STM32F413MHYx', 'kicadSymbolFootprint': 'Package_CSP:ST_WLCSP-81_Die463', 'kicadSymbolDatasheet': 'http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00282249.pdf', 'kicadSymbolki_keywords': 'ARM Cortex-M4 STM32F4 STM32F413/423', 'kicadSymbolki_description': 'ARM Cortex-M4 MCU, 1536KB flash, 320KB RAM, 100MHz, 1.7-3.6V, 60 GPIO, WLCSP-81', 'kicadSymbolki_fp_filters': 'ST_WLCSP*Die463*'}]|
+|name|name|MCU_ST_STM32F4 : STM32F413MHYx|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'STM32F413MGYx'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'STM32F413MHYx'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_CSP</td></tr><tr><td>ST_WLCSP-81_Die463'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00282249.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'ARM Cortex-M4 STM32F4 STM32F413/423'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'ARM Cortex-M4 MCU</td><td> 1536KB flash</td><td> 320KB RAM</td><td> 100MHz</td><td> 1.7-3.6V</td><td> 60 GPIO</td><td> WLCSP-81'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'ST_WLCSP*Die463*'</td></tr></table>]|
 ||||

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SON-VSON-10-1EP_3x3mm_P0.5mm_EP1.2x2mm_ThermalVias|
 |Hex ID (short code)|hexID|FZKSONVSON11EP3X3P5EP12X2THERMALVIAS|
 |name|name|Package_SON : VSON-10-1EP_3x3mm_P0.5mm_EP1.2x2mm_ThermalVias|
-|Footprint Kicad|footprintKicadDetails|{'name': 'VSON-10-1EP_3x3mm_P0.5mm_EP1.2x2mm_ThermalVias', 'description': 'VSON, 10 Pin (http://rohmfs.rohm.com/en/products/databook/datasheet/ic/power/switching_regulator/bd8314nuv-e.pdf (Page 20)), generated with kicad-footprint-generator ipc_noLead_generator.py', 'tags': 'VSON NoLead', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SON.3dshapes/VSON-10-1EP_3x3mm_P0.5mm_EP1.2x2mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'VSON-10-1EP_3x3mm_P0.5mm_EP1.2x2mm_ThermalVias'</td><td> 'description'</td></tr><tr><td> 'VSON</td><td> 10 Pin (http</td></tr><tr><td>//rohmfs.rohm.com/en/products/databook/datasheet/ic/power/switching_regulator/bd8314nuv-e.pdf (Page 20))</td><td> generated with kicad-footprint-generator ipc_noLead_generator.py'</td><td> 'tags'</td></tr><tr><td> 'VSON NoLead'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_SON.3dshapes/VSON-10-1EP_3x3mm_P0.5mm_EP1.2x2mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

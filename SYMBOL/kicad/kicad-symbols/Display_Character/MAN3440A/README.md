@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDICHARACTERMAN344A > MAN3440A
+# SZKDICHARACTERMAN344A > Display_Character : MAN3440A
 
 - ID: SYMBOL-kicad-kicad-symbols-Display_Character-MAN3440A
 - Hex ID: SZKDICHARACTERMAN344A
-- Name: MAN3440A
-- Description: MAN3440A
+- Name: Display_Character : MAN3440A
+- Description: Display_Character : MAN3440A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-MAN3440A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-MAN3440A)
 - Short Link: [http://oom.lt/SZKDICHARACTERMAN344A](http://oom.lt/SZKDICHARACTERMAN344A)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MAN3440A|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Display_Character-MAN3440A|
 |Hex ID (short code)|hexID|SZKDICHARACTERMAN344A|
-|name|name|MAN3440A|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MAN3440A', 'kicadSymbolFootprint': 'Display_7Segment:MAN3410A', 'kicadSymbolDatasheet': 'https://www.digchip.com/datasheets/parts/datasheet/161/MAN3640A-pdf.php', 'kicadSymbolki_keywords': 'display LED 7-segment', 'kicadSymbolki_description': 'Single digit 7 segment high efficient green LED common anode right hand decimal', 'kicadSymbolki_fp_filters': 'MAN3410A*'}]|
+|name|name|Display_Character : MAN3440A|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MAN3440A'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Display_7Segment</td></tr><tr><td>MAN3410A'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.digchip.com/datasheets/parts/datasheet/161/MAN3640A-pdf.php'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'display LED 7-segment'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Single digit 7 segment high efficient green LED common anode right hand decimal'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'MAN3410A*'</td></tr></table>]|
 ||||

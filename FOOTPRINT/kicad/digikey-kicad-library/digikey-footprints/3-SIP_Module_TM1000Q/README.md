@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-3-SIP_Module_TM1000Q|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTS3SIPMOTM1Q|
 |name|name|digikey-footprints : 3-SIP_Module_TM1000Q|
-|Footprint Kicad|footprintKicadDetails|{'name': '3-SIP_Module_TM1000Q', 'tags': None, 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> '3-SIP_Module_TM1000Q'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Wuerth_WE-PD-Typ-LS_Handsoldering|
 |Hex ID (short code)|hexID|FZKINDUCTORSMLWUERTHWEPDTYPLSHANDSOLDERING|
 |name|name|Inductor_SMD : L_Wuerth_WE-PD-Typ-LS_Handsoldering|
-|Footprint Kicad|footprintKicadDetails|{'name': 'L_Wuerth_WE-PD-Typ-LS_Handsoldering', 'description': 'Shielded Power Inductor, Wuerth Elektronik, WE-PD, SMD, Typ LS, Handsoldering, https://katalog.we-online.com/pbs/datasheet/7447715906.pdf', 'tags': 'Choke Shielded Power Inductor WE-PD TypLS Wuerth', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Wuerth_WE-PD-Typ-LS.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'L_Wuerth_WE-PD-Typ-LS_Handsoldering'</td><td> 'description'</td></tr><tr><td> 'Shielded Power Inductor</td><td> Wuerth Elektronik</td><td> WE-PD</td><td> SMD</td><td> Typ LS</td><td> Handsoldering</td><td> https</td></tr><tr><td>//katalog.we-online.com/pbs/datasheet/7447715906.pdf'</td><td> 'tags'</td></tr><tr><td> 'Choke Shielded Power Inductor WE-PD TypLS Wuerth'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Inductor_SMD.3dshapes/L_Wuerth_WE-PD-Typ-LS.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

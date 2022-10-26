@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKAMPLIFIEROPERATIONALNCS271XV > NCS20071XV
+# SZKAMPLIFIEROPERATIONALNCS271XV > Amplifier_Operational : NCS20071XV
 
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-NCS20071XV
 - Hex ID: SZKAMPLIFIEROPERATIONALNCS271XV
-- Name: NCS20071XV
-- Description: NCS20071XV
+- Name: Amplifier_Operational : NCS20071XV
+- Description: Amplifier_Operational : NCS20071XV
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-NCS20071XV](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-NCS20071XV)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALNCS271XV](http://oom.lt/SZKAMPLIFIEROPERATIONALNCS271XV)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|NCS20071XV|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Operational-NCS20071XV|
 |Hex ID (short code)|hexID|SZKAMPLIFIEROPERATIONALNCS271XV|
-|name|name|NCS20071XV|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'NCS20071XV', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-553', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pub/Collateral/NCS20071-D.PDF', 'kicadSymbolki_keywords': 'OpAmp Rail-to-rail Output Single vfa', 'kicadSymbolki_description': 'Single, 2.8V/µs, Rail-to-Rail Output, SOT-553', 'kicadSymbolki_fp_filters': 'SOT?553*'}]|
+|name|name|Amplifier_Operational : NCS20071XV|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'NCS20071XV'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-553'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.onsemi.com/pub/Collateral/NCS20071-D.PDF'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'OpAmp Rail-to-rail Output Single vfa'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Single</td><td> 2.8V/µs</td><td> Rail-to-Rail Output</td><td> SOT-553'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?553*'</td></tr></table>]|
 ||||

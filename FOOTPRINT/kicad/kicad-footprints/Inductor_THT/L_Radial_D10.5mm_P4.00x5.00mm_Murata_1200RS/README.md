@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Radial_D10.5mm_P4.00x5.00mm_Murata_1200RS|
 |Hex ID (short code)|hexID|FZKINLRD15P4X5M12RS|
 |name|name|Inductor_THT : L_Radial_D10.5mm_P4.00x5.00mm_Murata_1200RS|
-|Footprint Kicad|footprintKicadDetails|{'name': 'L_Radial_D10.5mm_P4.00x5.00mm_Murata_1200RS', 'description': 'Inductor, Radial, Pitch=4.00x5.00mm, Diameter=10.5mm, Murata 1200RS, http://www.murata-ps.com/data/magnetics/kmp_1200rs.pdf', 'tags': 'Inductor Radial Murata 1200RS', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Radial_D10.5mm_P4.00x5.00mm_Murata_1200RS.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'L_Radial_D10.5mm_P4.00x5.00mm_Murata_1200RS'</td><td> 'description'</td></tr><tr><td> 'Inductor</td><td> Radial</td><td> Pitch=4.00x5.00mm</td><td> Diameter=10.5mm</td><td> Murata 1200RS</td><td> http</td></tr><tr><td>//www.murata-ps.com/data/magnetics/kmp_1200rs.pdf'</td><td> 'tags'</td></tr><tr><td> 'Inductor Radial Murata 1200RS'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Inductor_THT.3dshapes/L_Radial_D10.5mm_P4.00x5.00mm_Murata_1200RS.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

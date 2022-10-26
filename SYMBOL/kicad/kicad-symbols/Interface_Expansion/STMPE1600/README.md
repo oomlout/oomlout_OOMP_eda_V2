@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKINTERFACEEXPANSIONSTMPE16 > STMPE1600
+# SZKINTERFACEEXPANSIONSTMPE16 > Interface_Expansion : STMPE1600
 
 - ID: SYMBOL-kicad-kicad-symbols-Interface_Expansion-STMPE1600
 - Hex ID: SZKINTERFACEEXPANSIONSTMPE16
-- Name: STMPE1600
-- Description: STMPE1600
+- Name: Interface_Expansion : STMPE1600
+- Description: Interface_Expansion : STMPE1600
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Expansion-STMPE1600](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Expansion-STMPE1600)
 - Short Link: [http://oom.lt/SZKINTERFACEEXPANSIONSTMPE16](http://oom.lt/SZKINTERFACEEXPANSIONSTMPE16)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|STMPE1600|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_Expansion-STMPE1600|
 |Hex ID (short code)|hexID|SZKINTERFACEEXPANSIONSTMPE16|
-|name|name|STMPE1600|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'STMPE1600', 'kicadSymbolFootprint': 'Package_DFN_QFN:QFN-24-1EP_4x4mm_P0.5mm_EP2.6x2.6mm', 'kicadSymbolDatasheet': 'http://www.st.com/resource/en/datasheet/stmpe1600.pdf', 'kicadSymbolki_keywords': 'IO expander 16 GPIO', 'kicadSymbolki_description': 'IO expander 16 GPIO, I2C 400kHz, Interrupt, 1.65 - 3.6V, QFN-24', 'kicadSymbolki_fp_filters': 'QFN*1EP*4x4mm*P0.5mm*'}]|
+|name|name|Interface_Expansion : STMPE1600|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'STMPE1600'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>QFN-24-1EP_4x4mm_P0.5mm_EP2.6x2.6mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.st.com/resource/en/datasheet/stmpe1600.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'IO expander 16 GPIO'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'IO expander 16 GPIO</td><td> I2C 400kHz</td><td> Interrupt</td><td> 1.65 - 3.6V</td><td> QFN-24'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'QFN*1EP*4x4mm*P0.5mm*'</td></tr></table>]|
 ||||

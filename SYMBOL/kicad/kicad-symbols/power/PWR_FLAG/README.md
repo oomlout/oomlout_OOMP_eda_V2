@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKPOWERPWRFLAG > PWR_FLAG
+# SZKPOWERPWRFLAG > power : PWR_FLAG
 
 - ID: SYMBOL-kicad-kicad-symbols-power-PWR_FLAG
 - Hex ID: SZKPOWERPWRFLAG
-- Name: PWR_FLAG
-- Description: PWR_FLAG
+- Name: power : PWR_FLAG
+- Description: power : PWR_FLAG
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-power-PWR_FLAG](http://oom.lt/SYMBOL-kicad-kicad-symbols-power-PWR_FLAG)
 - Short Link: [http://oom.lt/SZKPOWERPWRFLAG](http://oom.lt/SZKPOWERPWRFLAG)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PWR_FLAG|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-power-PWR_FLAG|
 |Hex ID (short code)|hexID|SZKPOWERPWRFLAG|
-|name|name|PWR_FLAG|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': '#FLG', 'kicadSymbolValue': 'PWR_FLAG', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'power-flag', 'kicadSymbolki_description': 'Special symbol for telling ERC where power comes from'}]|
+|name|name|power : PWR_FLAG|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> '#FLG'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'PWR_FLAG'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'power-flag'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Special symbol for telling ERC where power comes from'</td></tr></table>]|
 ||||

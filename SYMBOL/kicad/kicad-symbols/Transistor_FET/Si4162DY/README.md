@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORFETSI4162DY > Si4162DY
+# SZKTRANSISTORFETSI4162DY > Transistor_FET : Si4162DY
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-Si4162DY
 - Hex ID: SZKTRANSISTORFETSI4162DY
-- Name: Si4162DY
-- Description: Si4162DY
+- Name: Transistor_FET : Si4162DY
+- Description: Transistor_FET : Si4162DY
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-Si4162DY](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-Si4162DY)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETSI4162DY](http://oom.lt/SZKTRANSISTORFETSI4162DY)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Si4162DY|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-Si4162DY|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETSI4162DY|
-|name|name|Si4162DY|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'IRF8721PBF-1', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'Si4162DY', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm', 'kicadSymbolDatasheet': 'http://www.vishay.com/docs/68967/si4162dy.pdf', 'kicadSymbolki_keywords': 'N-Channel MOSFET', 'kicadSymbolki_description': '19.3A Id, 30V Vds, TrenchFET N-Channel Power MOSFET, SO-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm*'}]|
+|name|name|Transistor_FET : Si4162DY|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'IRF8721PBF-1'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Si4162DY'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-8_3.9x4.9mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.vishay.com/docs/68967/si4162dy.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'N-Channel MOSFET'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '19.3A Id</td><td> 30V Vds</td><td> TrenchFET N-Channel Power MOSFET</td><td> SO-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*3.9x4.9mm*P1.27mm*'</td></tr></table>]|
 ||||

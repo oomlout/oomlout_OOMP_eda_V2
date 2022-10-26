@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKPOWERMANAGEMENTAUIPS231R > AUIPS2031R
+# SZKPOWERMANAGEMENTAUIPS231R > Power_Management : AUIPS2031R
 
 - ID: SYMBOL-kicad-kicad-symbols-Power_Management-AUIPS2031R
 - Hex ID: SZKPOWERMANAGEMENTAUIPS231R
-- Name: AUIPS2031R
-- Description: AUIPS2031R
+- Name: Power_Management : AUIPS2031R
+- Description: Power_Management : AUIPS2031R
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-AUIPS2031R](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-AUIPS2031R)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTAUIPS231R](http://oom.lt/SZKPOWERMANAGEMENTAUIPS231R)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AUIPS2031R|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Management-AUIPS2031R|
 |Hex ID (short code)|hexID|SZKPOWERMANAGEMENTAUIPS231R|
-|name|name|AUIPS2031R|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'AUIPS1041R', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AUIPS2031R', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TO-252-3_TabPin2', 'kicadSymbolDatasheet': 'https://www.infineon.com/dgdl/Infineon-AUIPS2031R-DS-v01_00-EN.pdf?fileId=5546d4625a888733015aae1488334c5c', 'kicadSymbolki_keywords': 'low side switch', 'kicadSymbolki_description': 'Intelligent Power Low Side Switch, 68V, 10A, DPAK-5L', 'kicadSymbolki_fp_filters': 'TO?252*'}]|
+|name|name|Power_Management : AUIPS2031R|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'AUIPS1041R'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'AUIPS2031R'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>TO-252-3_TabPin2'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.infineon.com/dgdl/Infineon-AUIPS2031R-DS-v01_00-EN.pdf?fileId=5546d4625a888733015aae1488334c5c'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'low side switch'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Intelligent Power Low Side Switch</td><td> 68V</td><td> 10A</td><td> DPAK-5L'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TO?252*'</td></tr></table>]|
 ||||

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-92L_Inline|
 |Hex ID (short code)|hexID|FZKSOTTO92LI|
 |name|name|Package_TO_SOT_THT : TO-92L_Inline|
-|Footprint Kicad|footprintKicadDetails|{'name': 'TO-92L_Inline', 'description': 'TO-92L leads in-line (large body variant of TO-92), also known as TO-226, wide, drill 0.75mm (see https://www.diodes.com/assets/Package-Files/TO92L.pdf and http://www.ti.com/lit/an/snoa059/snoa059.pdf)', 'tags': 'TO-92L Inline Wide transistor', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/TO-92L_Inline.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'TO-92L_Inline'</td><td> 'description'</td></tr><tr><td> 'TO-92L leads in-line (large body variant of TO-92)</td><td> also known as TO-226</td><td> wide</td><td> drill 0.75mm (see https</td></tr><tr><td>//www.diodes.com/assets/Package-Files/TO92L.pdf and http</td></tr><tr><td>//www.ti.com/lit/an/snoa059/snoa059.pdf)'</td><td> 'tags'</td></tr><tr><td> 'TO-92L Inline Wide transistor'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_TO_SOT_THT.3dshapes/TO-92L_Inline.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

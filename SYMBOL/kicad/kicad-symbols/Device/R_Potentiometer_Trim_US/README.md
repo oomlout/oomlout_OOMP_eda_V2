@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDEVICERPOTENTIOMETERTRIMUS > R_Potentiometer_Trim_US
+# SZKDEVICERPOTENTIOMETERTRIMUS > Device : R_Potentiometer_Trim_US
 
 - ID: SYMBOL-kicad-kicad-symbols-Device-R_Potentiometer_Trim_US
 - Hex ID: SZKDEVICERPOTENTIOMETERTRIMUS
-- Name: R_Potentiometer_Trim_US
-- Description: R_Potentiometer_Trim_US
+- Name: Device : R_Potentiometer_Trim_US
+- Description: Device : R_Potentiometer_Trim_US
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-R_Potentiometer_Trim_US](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-R_Potentiometer_Trim_US)
 - Short Link: [http://oom.lt/SZKDEVICERPOTENTIOMETERTRIMUS](http://oom.lt/SZKDEVICERPOTENTIOMETERTRIMUS)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|R_Potentiometer_Trim_US|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-R_Potentiometer_Trim_US|
 |Hex ID (short code)|hexID|SZKDEVICERPOTENTIOMETERTRIMUS|
-|name|name|R_Potentiometer_Trim_US|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'RV', 'kicadSymbolValue': 'R_Potentiometer_Trim_US', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'resistor variable trimpot trimmer', 'kicadSymbolki_description': 'Trim-potentiometer, US symbol', 'kicadSymbolki_fp_filters': 'Potentiometer*'}]|
+|name|name|Device : R_Potentiometer_Trim_US|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'RV'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'R_Potentiometer_Trim_US'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'resistor variable trimpot trimmer'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Trim-potentiometer</td><td> US symbol'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Potentiometer*'</td></tr></table>]|
 ||||

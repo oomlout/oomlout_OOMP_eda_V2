@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORLINEARMIC5356JGYE > MIC5356-JGYMME
+# SZKREGULATORLINEARMIC5356JGYE > Regulator_Linear : MIC5356-JGYMME
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-MIC5356-JGYMME
 - Hex ID: SZKREGULATORLINEARMIC5356JGYE
-- Name: MIC5356-JGYMME
-- Description: MIC5356-JGYMME
+- Name: Regulator_Linear : MIC5356-JGYMME
+- Description: Regulator_Linear : MIC5356-JGYMME
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-MIC5356-JGYMME](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-MIC5356-JGYMME)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARMIC5356JGYE](http://oom.lt/SZKREGULATORLINEARMIC5356JGYE)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MIC5356-JGYMME|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-MIC5356-JGYMME|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARMIC5356JGYE|
-|name|name|MIC5356-JGYMME|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MIC5355-S4YMME', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MIC5356-JGYMME', 'kicadSymbolFootprint': 'Package_SO:MSOP-8-1EP_3x3mm_P0.65mm_EP2.5x3mm_Mask1.73x2.36mm_ThermalVias', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/mic5355_6.pdf', 'kicadSymbolki_keywords': 'Dual LDO 500mA MSOP-8', 'kicadSymbolki_description': 'Dual 500mA μCap Low Dropout Micropower Linear Regulator, 2.5V/1.8V, MSOP-8', 'kicadSymbolki_fp_filters': 'MSOP*1EP*3x3mm*P0.65mm*'}]|
+|name|name|Regulator_Linear : MIC5356-JGYMME|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'MIC5355-S4YMME'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MIC5356-JGYMME'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>MSOP-8-1EP_3x3mm_P0.65mm_EP2.5x3mm_Mask1.73x2.36mm_ThermalVias'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/mic5355_6.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Dual LDO 500mA MSOP-8'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Dual 500mA μCap Low Dropout Micropower Linear Regulator</td><td> 2.5V/1.8V</td><td> MSOP-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'MSOP*1EP*3x3mm*P0.65mm*'</td></tr></table>]|
 ||||

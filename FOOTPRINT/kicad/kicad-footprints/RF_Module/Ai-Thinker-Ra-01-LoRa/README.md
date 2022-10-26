@@ -29,5 +29,5 @@ NO IMAGE
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-RF_Module-Ai-Thinker-Ra-01-LoRa|
 |Hex ID (short code)|hexID|FZKRFMOAITHINKERRA1LORA|
 |name|name|RF_Module : Ai-Thinker-Ra-01-LoRa|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Ai-Thinker-Ra-01-LoRa', 'description': 'Ai Thinker Ra-01 LoRa', 'tags': 'LoRa Ra-01', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/RF_Module.3dshapes/Ai-Thinker-Ra-01-LoRa.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Ai-Thinker-Ra-01-LoRa'</td><td> 'description'</td></tr><tr><td> 'Ai Thinker Ra-01 LoRa'</td><td> 'tags'</td></tr><tr><td> 'LoRa Ra-01'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/RF_Module.3dshapes/Ai-Thinker-Ra-01-LoRa.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE63XO18267R6182A > RESE-0603-X-O182-67-R6182A
+# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE63XO18267R6182A > oomlout_OOMP_parts : RESE-0603-X-O182-67-R6182A
 
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O182-67-R6182A
 - Hex ID: SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE63XO18267R6182A
-- Name: RESE-0603-X-O182-67-R6182A
-- Description: RESE-0603-X-O182-67-R6182A
+- Name: oomlout_OOMP_parts : RESE-0603-X-O182-67-R6182A
+- Description: oomlout_OOMP_parts : RESE-0603-X-O182-67-R6182A
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O182-67-R6182A](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O182-67-R6182A)
 - Short Link: [http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE63XO18267R6182A](http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE63XO18267R6182A)
   
@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|RESE-0603-X-O182-67-R6182A|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O182-67-R6182A|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE63XO18267R6182A|
-|name|name|RESE-0603-X-O182-67-R6182A|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'R', 'kicadSymbolValue': 'RESE-0603-X-O182-67-R6182A', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:RESE-0603-X-O182-67-R6182A', 'kicadSymbolDatasheet': 'oom.lt/R6182A', 'kicadSymbolki_keywords': 'R res resistor', 'kicadSymbolki_description': 'hexID: R6182A;Resistor', 'kicadSymbolki_fp_filters': 'R_*'}]|
+|name|name|oomlout_OOMP_parts : RESE-0603-X-O182-67-R6182A|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'R'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'RESE-0603-X-O182-67-R6182A'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'oomlout_OOMP_parts</td></tr><tr><td>RESE-0603-X-O182-67-R6182A'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'oom.lt/R6182A'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'R res resistor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'hexID</td></tr><tr><td> R6182A;Resistor'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'R_*'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKSENTEMPERATURETMP2AIDRL > TMP20AIDRL
+# SZKSENTEMPERATURETMP2AIDRL > Sensor_Temperature : TMP20AIDRL
 
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Temperature-TMP20AIDRL
 - Hex ID: SZKSENTEMPERATURETMP2AIDRL
-- Name: TMP20AIDRL
-- Description: TMP20AIDRL
+- Name: Sensor_Temperature : TMP20AIDRL
+- Description: Sensor_Temperature : TMP20AIDRL
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-TMP20AIDRL](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-TMP20AIDRL)
 - Short Link: [http://oom.lt/SZKSENTEMPERATURETMP2AIDRL](http://oom.lt/SZKSENTEMPERATURETMP2AIDRL)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TMP20AIDRL|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Temperature-TMP20AIDRL|
 |Hex ID (short code)|hexID|SZKSENTEMPERATURETMP2AIDRL|
-|name|name|TMP20AIDRL|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TMP20AIDRL', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tmp20.pdf', 'kicadSymbolki_keywords': 'temperature sensor thermistor', 'kicadSymbolki_description': 'Analog thermistor temperature sensor, ±2.5C accuracy, -55C to +130C, SOT-563-6', 'kicadSymbolki_fp_filters': 'SOT?563*'}]|
+|name|name|Sensor_Temperature : TMP20AIDRL|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TMP20AIDRL'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/tmp20.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'temperature sensor thermistor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Analog thermistor temperature sensor</td><td> ±2.5C accuracy</td><td> -55C to +130C</td><td> SOT-563-6'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?563*'</td></tr></table>]|
 ||||

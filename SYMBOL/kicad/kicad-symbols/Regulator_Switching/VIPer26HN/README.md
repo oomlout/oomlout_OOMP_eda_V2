@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORSWITCHINGVIPER26HN > VIPer26HN
+# SZKREGULATORSWITCHINGVIPER26HN > Regulator_Switching : VIPer26HN
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-VIPer26HN
 - Hex ID: SZKREGULATORSWITCHINGVIPER26HN
-- Name: VIPer26HN
-- Description: VIPer26HN
+- Name: Regulator_Switching : VIPer26HN
+- Description: Regulator_Switching : VIPer26HN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-VIPer26HN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-VIPer26HN)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGVIPER26HN](http://oom.lt/SZKREGULATORSWITCHINGVIPER26HN)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|VIPer26HN|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-VIPer26HN|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGVIPER26HN|
-|name|name|VIPer26HN|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'VIPer26LN', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'VIPer26HN', 'kicadSymbolFootprint': 'Package_DIP:DIP-8-N6_W7.62mm', 'kicadSymbolDatasheet': 'https://www.st.com/resource/en/datasheet/viper26.pdf', 'kicadSymbolki_keywords': 'SMPS Controller with MOSFET', 'kicadSymbolki_description': '800V, 10-20W, 115kHz, SMPS Controller, DIP-7', 'kicadSymbolki_fp_filters': 'DIP*N6*W7.62mm*'}]|
+|name|name|Regulator_Switching : VIPer26HN|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'VIPer26LN'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'VIPer26HN'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>DIP-8-N6_W7.62mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.st.com/resource/en/datasheet/viper26.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'SMPS Controller with MOSFET'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '800V</td><td> 10-20W</td><td> 115kHz</td><td> SMPS Controller</td><td> DIP-7'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*N6*W7.62mm*'</td></tr></table>]|
 ||||

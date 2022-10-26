@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKLOGICLEVELTRANSLATORTXB14PW > TXB0104PW
+# SZKLOGICLEVELTRANSLATORTXB14PW > Logic_LevelTranslator : TXB0104PW
 
 - ID: SYMBOL-kicad-kicad-symbols-Logic_LevelTranslator-TXB0104PW
 - Hex ID: SZKLOGICLEVELTRANSLATORTXB14PW
-- Name: TXB0104PW
-- Description: TXB0104PW
+- Name: Logic_LevelTranslator : TXB0104PW
+- Description: Logic_LevelTranslator : TXB0104PW
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Logic_LevelTranslator-TXB0104PW](http://oom.lt/SYMBOL-kicad-kicad-symbols-Logic_LevelTranslator-TXB0104PW)
 - Short Link: [http://oom.lt/SZKLOGICLEVELTRANSLATORTXB14PW](http://oom.lt/SZKLOGICLEVELTRANSLATORTXB14PW)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TXB0104PW|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Logic_LevelTranslator-TXB0104PW|
 |Hex ID (short code)|hexID|SZKLOGICLEVELTRANSLATORTXB14PW|
-|name|name|TXB0104PW|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TXB0104PW', 'kicadSymbolFootprint': 'Package_SO:TSSOP-14_4.4x5mm_P0.65mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/txb0104.pdf', 'kicadSymbolki_keywords': 'Level-Shifter CMOS-TTL-Translation', 'kicadSymbolki_description': '4-Bit Bidirectional Voltage-Level Translator, Auto Direction Sensing and ±15-kV ESD Protection, 1.2 - 3.6V APort, 1.65 - 5.5V BPort, TSSOP-14', 'kicadSymbolki_fp_filters': 'TSSOP*14*5mm*P0.65mm*'}]|
+|name|name|Logic_LevelTranslator : TXB0104PW|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TXB0104PW'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>TSSOP-14_4.4x5mm_P0.65mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/txb0104.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Level-Shifter CMOS-TTL-Translation'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '4-Bit Bidirectional Voltage-Level Translator</td><td> Auto Direction Sensing and ±15-kV ESD Protection</td><td> 1.2 - 3.6V APort</td><td> 1.65 - 5.5V BPort</td><td> TSSOP-14'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TSSOP*14*5mm*P0.65mm*'</td></tr></table>]|
 ||||

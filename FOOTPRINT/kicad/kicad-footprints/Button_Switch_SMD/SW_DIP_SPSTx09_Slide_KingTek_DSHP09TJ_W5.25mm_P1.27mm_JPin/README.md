@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_DIP_SPSTx09_Slide_KingTek_DSHP09TJ_W5.25mm_P1.27mm_JPin|
 |Hex ID (short code)|hexID|FZKBSWITCHSMSWDIPSPSTX9SLIDEKINGTEKDSHP9TJW525P127JPIN|
 |name|name|Button_Switch_SMD : SW_DIP_SPSTx09_Slide_KingTek_DSHP09TJ_W5.25mm_P1.27mm_JPin|
-|Footprint Kicad|footprintKicadDetails|{'name': 'SW_DIP_SPSTx09_Slide_KingTek_DSHP09TJ_W5.25mm_P1.27mm_JPin', 'description': 'SMD 9x-dip-switch SPST KingTek_DSHP09TJ, Slide, row spacing 5.25 mm (206 mils), body size  (see http://www.kingtek.net.cn/pic/201601201446313350.pdf), JPin', 'tags': 'SMD DIP Switch SPST Slide 5.25mm 206mil JPin', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_DIP_SPSTx09_Slide_KingTek_DSHP09TJ_W5.25mm_P1.27mm_JPin.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SW_DIP_SPSTx09_Slide_KingTek_DSHP09TJ_W5.25mm_P1.27mm_JPin'</td><td> 'description'</td></tr><tr><td> 'SMD 9x-dip-switch SPST KingTek_DSHP09TJ</td><td> Slide</td><td> row spacing 5.25 mm (206 mils)</td><td> body size  (see http</td></tr><tr><td>//www.kingtek.net.cn/pic/201601201446313350.pdf)</td><td> JPin'</td><td> 'tags'</td></tr><tr><td> 'SMD DIP Switch SPST Slide 5.25mm 206mil JPin'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Button_Switch_SMD.3dshapes/SW_DIP_SPSTx09_Slide_KingTek_DSHP09TJ_W5.25mm_P1.27mm_JPin.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

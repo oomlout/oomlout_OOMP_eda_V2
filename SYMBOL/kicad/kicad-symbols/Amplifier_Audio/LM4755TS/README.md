@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKAMPLIFIERAUDIOLM4755TS > LM4755TS
+# SZKAMPLIFIERAUDIOLM4755TS > Amplifier_Audio : LM4755TS
 
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Audio-LM4755TS
 - Hex ID: SZKAMPLIFIERAUDIOLM4755TS
-- Name: LM4755TS
-- Description: LM4755TS
+- Name: Amplifier_Audio : LM4755TS
+- Description: Amplifier_Audio : LM4755TS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-LM4755TS](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-LM4755TS)
 - Short Link: [http://oom.lt/SZKAMPLIFIERAUDIOLM4755TS](http://oom.lt/SZKAMPLIFIERAUDIOLM4755TS)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM4755TS|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Audio-LM4755TS|
 |Hex ID (short code)|hexID|SZKAMPLIFIERAUDIOLM4755TS|
-|name|name|LM4755TS|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM4755TS', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TO-263-9_TabPin5', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lm4755.pdf', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'audio amplifier 2ch', 'kicadSymbolki_description': 'Stereo 11W Audio Power Amplifier with Mute, TO-263-9', 'kicadSymbolki_fp_filters': 'TO?263*TabPin5*'}]|
+|name|name|Amplifier_Audio : LM4755TS|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LM4755TS'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>TO-263-9_TabPin5'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/lm4755.pdf'</td><td> 'kicadSymbolki_locked'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'audio amplifier 2ch'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Stereo 11W Audio Power Amplifier with Mute</td><td> TO-263-9'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TO?263*TabPin5*'</td></tr></table>]|
 ||||

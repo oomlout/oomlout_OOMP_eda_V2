@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKCNJDC > Jack-DC
+# SZKCNJDC > Connector : Jack-DC
 
 - ID: SYMBOL-kicad-kicad-symbols-Connector-Jack-DC
 - Hex ID: SZKCNJDC
-- Name: Jack-DC
-- Description: Jack-DC
+- Name: Connector : Jack-DC
+- Description: Connector : Jack-DC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-Jack-DC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-Jack-DC)
 - Short Link: [http://oom.lt/SZKCNJDC](http://oom.lt/SZKCNJDC)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Jack-DC|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-Jack-DC|
 |Hex ID (short code)|hexID|SZKCNJDC|
-|name|name|Jack-DC|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'Barrel_Jack', 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'Jack-DC', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'DC power barrel jack connector', 'kicadSymbolki_description': 'DC Barrel Jack', 'kicadSymbolki_fp_filters': 'BarrelJack*'}]|
+|name|name|Connector : Jack-DC|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'Barrel_Jack'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'J'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Jack-DC'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'DC power barrel jack connector'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'DC Barrel Jack'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'BarrelJack*'</td></tr></table>]|
 ||||

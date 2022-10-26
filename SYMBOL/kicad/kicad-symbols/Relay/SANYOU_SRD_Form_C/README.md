@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKRELAYSANYOUSRDFORMC > SANYOU_SRD_Form_C
+# SZKRELAYSANYOUSRDFORMC > Relay : SANYOU_SRD_Form_C
 
 - ID: SYMBOL-kicad-kicad-symbols-Relay-SANYOU_SRD_Form_C
 - Hex ID: SZKRELAYSANYOUSRDFORMC
-- Name: SANYOU_SRD_Form_C
-- Description: SANYOU_SRD_Form_C
+- Name: Relay : SANYOU_SRD_Form_C
+- Description: Relay : SANYOU_SRD_Form_C
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-SANYOU_SRD_Form_C](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-SANYOU_SRD_Form_C)
 - Short Link: [http://oom.lt/SZKRELAYSANYOUSRDFORMC](http://oom.lt/SZKRELAYSANYOUSRDFORMC)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SANYOU_SRD_Form_C|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Relay-SANYOU_SRD_Form_C|
 |Hex ID (short code)|hexID|SZKRELAYSANYOUSRDFORMC|
-|name|name|SANYOU_SRD_Form_C|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'K', 'kicadSymbolValue': 'SANYOU_SRD_Form_C', 'kicadSymbolFootprint': 'Relay_THT:Relay_SPDT_SANYOU_SRD_Series_Form_C', 'kicadSymbolDatasheet': 'http://www.sanyourelay.ca/public/products/pdf/SRD.pdf', 'kicadSymbolki_keywords': 'Single Pole Relay SPDT', 'kicadSymbolki_description': 'Sanyo SRD relay, Single Pole Miniature Power Relay,', 'kicadSymbolki_fp_filters': 'Relay*SPDT*SANYOU*SRD*Series*Form*C*'}]|
+|name|name|Relay : SANYOU_SRD_Form_C|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'K'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'SANYOU_SRD_Form_C'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Relay_THT</td></tr><tr><td>Relay_SPDT_SANYOU_SRD_Series_Form_C'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.sanyourelay.ca/public/products/pdf/SRD.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Single Pole Relay SPDT'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Sanyo SRD relay</td><td> Single Pole Miniature Power Relay</td><td>'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Relay*SPDT*SANYOU*SRD*Series*Form*C*'</td></tr></table>]|
 ||||

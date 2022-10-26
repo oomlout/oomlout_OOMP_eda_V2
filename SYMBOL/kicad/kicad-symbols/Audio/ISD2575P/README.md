@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKAUDIOISD2575P > ISD2575P
+# SZKAUDIOISD2575P > Audio : ISD2575P
 
 - ID: SYMBOL-kicad-kicad-symbols-Audio-ISD2575P
 - Hex ID: SZKAUDIOISD2575P
-- Name: ISD2575P
-- Description: ISD2575P
+- Name: Audio : ISD2575P
+- Description: Audio : ISD2575P
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-ISD2575P](http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-ISD2575P)
 - Short Link: [http://oom.lt/SZKAUDIOISD2575P](http://oom.lt/SZKAUDIOISD2575P)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ISD2575P|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Audio-ISD2575P|
 |Hex ID (short code)|hexID|SZKAUDIOISD2575P|
-|name|name|ISD2575P|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ISD2560P', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ISD2575P', 'kicadSymbolFootprint': 'Package_DIP:DIP-28_W15.24mm', 'kicadSymbolDatasheet': 'https://datasheetspdf.com/pdf-file/700027/Winbond/ISD2560/1', 'kicadSymbolki_keywords': 'isd2575', 'kicadSymbolki_description': 'Single-Chip Voice Record/Playback Device 75-Second Duration, DIP-28', 'kicadSymbolki_fp_filters': 'DIP*W15.24mm*'}]|
+|name|name|Audio : ISD2575P|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'ISD2560P'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ISD2575P'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>DIP-28_W15.24mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//datasheetspdf.com/pdf-file/700027/Winbond/ISD2560/1'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'isd2575'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Single-Chip Voice Record/Playback Device 75-Second Duration</td><td> DIP-28'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W15.24mm*'</td></tr></table>]|
 ||||

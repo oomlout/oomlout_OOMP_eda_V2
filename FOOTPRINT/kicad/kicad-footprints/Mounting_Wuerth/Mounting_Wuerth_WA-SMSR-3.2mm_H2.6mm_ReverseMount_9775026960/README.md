@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Mounting_Wuerth-Mounting_Wuerth_WA-SMSR-3.2mm_H2.6mm_ReverseMount_9775026960|
 |Hex ID (short code)|hexID|FZKMONMONWASMSR32H26RMOUNT97752696|
 |name|name|Mounting_Wuerth : Mounting_Wuerth_WA-SMSR-3.2mm_H2.6mm_ReverseMount_9775026960|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Mounting_Wuerth_WA-SMSR-3.2mm_H2.6mm_ReverseMount_9775026960', 'description': 'Mounting Hardware, inside through hole 3.2mm, height 2.6, Wuerth electronics 9775026960 (https://katalog.we-online.com/em/datasheet/9775026960R.pdf), generated with kicad-footprint-generator', 'tags': 'Mounting 3.2mm 9775026960', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Mounting_Wuerth.3dshapes/Mounting_Wuerth_WA-SMSR-3.2mm_H2.6mm_ReverseMount_9775026960.wrl', 'pins': {'type': 'smd', 'shape': 'custom'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Mounting_Wuerth_WA-SMSR-3.2mm_H2.6mm_ReverseMount_9775026960'</td><td> 'description'</td></tr><tr><td> 'Mounting Hardware</td><td> inside through hole 3.2mm</td><td> height 2.6</td><td> Wuerth electronics 9775026960 (https</td></tr><tr><td>//katalog.we-online.com/em/datasheet/9775026960R.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'Mounting 3.2mm 9775026960'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Mounting_Wuerth.3dshapes/Mounting_Wuerth_WA-SMSR-3.2mm_H2.6mm_ReverseMount_9775026960.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'custom'</td></tr></table></td></tr></table>|
 ||||
 
 

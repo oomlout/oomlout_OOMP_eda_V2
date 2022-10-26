@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKSIMULATIONSPICEVSFFM > VSFFM
+# SZKSIMULATIONSPICEVSFFM > Simulation_SPICE : VSFFM
 
 - ID: SYMBOL-kicad-kicad-symbols-Simulation_SPICE-VSFFM
 - Hex ID: SZKSIMULATIONSPICEVSFFM
-- Name: VSFFM
-- Description: VSFFM
+- Name: Simulation_SPICE : VSFFM
+- Description: Simulation_SPICE : VSFFM
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Simulation_SPICE-VSFFM](http://oom.lt/SYMBOL-kicad-kicad-symbols-Simulation_SPICE-VSFFM)
 - Short Link: [http://oom.lt/SZKSIMULATIONSPICEVSFFM](http://oom.lt/SZKSIMULATIONSPICEVSFFM)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|VSFFM|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Simulation_SPICE-VSFFM|
 |Hex ID (short code)|hexID|SZKSIMULATIONSPICEVSFFM|
-|name|name|VSFFM|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'V', 'kicadSymbolValue': 'VSFFM', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolSpice_Netlist_Enabled': 'Y', 'kicadSymbolSpice_Primitive': 'V', 'kicadSymbolSpice_Model': 'sffm(0 1 100k 5 1k)', 'kicadSymbolki_keywords': 'simulation frequency modulated', 'kicadSymbolki_description': 'Voltage source, single-frequency FM'}]|
+|name|name|Simulation_SPICE : VSFFM|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'V'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'VSFFM'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolSpice_Netlist_Enabled'</td></tr><tr><td> 'Y'</td><td> 'kicadSymbolSpice_Primitive'</td></tr><tr><td> 'V'</td><td> 'kicadSymbolSpice_Model'</td></tr><tr><td> 'sffm(0 1 100k 5 1k)'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'simulation frequency modulated'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Voltage source</td><td> single-frequency FM'</td></tr></table>]|
 ||||

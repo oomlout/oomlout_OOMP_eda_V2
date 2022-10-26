@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUSTSTM32F4STM32F469VITX > STM32F469VITx
+# SZKMCUSTSTM32F4STM32F469VITX > MCU_ST_STM32F4 : STM32F469VITx
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F469VITx
 - Hex ID: SZKMCUSTSTM32F4STM32F469VITX
-- Name: STM32F469VITx
-- Description: STM32F469VITx
+- Name: MCU_ST_STM32F4 : STM32F469VITx
+- Description: MCU_ST_STM32F4 : STM32F469VITx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F469VITx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F469VITx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32F4STM32F469VITX](http://oom.lt/SZKMCUSTSTM32F4STM32F469VITX)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|STM32F469VITx|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F469VITx|
 |Hex ID (short code)|hexID|SZKMCUSTSTM32F4STM32F469VITX|
-|name|name|STM32F469VITx|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'STM32F469VITx', 'kicadSymbolFootprint': 'Package_QFP:LQFP-100_14x14mm_P0.5mm', 'kicadSymbolDatasheet': 'http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00219980.pdf', 'kicadSymbolki_keywords': 'ARM Cortex-M4 STM32F4 STM32F469/479', 'kicadSymbolki_description': 'ARM Cortex-M4 MCU, 2048KB flash, 320KB RAM, 180MHz, 1.7-3.6V, 71 GPIO, LQFP-100', 'kicadSymbolki_fp_filters': 'LQFP*14x14mm*P0.5mm*'}]|
+|name|name|MCU_ST_STM32F4 : STM32F469VITx|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'STM32F469VITx'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_QFP</td></tr><tr><td>LQFP-100_14x14mm_P0.5mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00219980.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'ARM Cortex-M4 STM32F4 STM32F469/479'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'ARM Cortex-M4 MCU</td><td> 2048KB flash</td><td> 320KB RAM</td><td> 180MHz</td><td> 1.7-3.6V</td><td> 71 GPIO</td><td> LQFP-100'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'LQFP*14x14mm*P0.5mm*'</td></tr></table>]|
 ||||

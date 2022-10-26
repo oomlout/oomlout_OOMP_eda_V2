@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUMCHIPATMEGAATXMEGA8E5A > ATxmega8E5-A
+# SZKMCUMCHIPATMEGAATXMEGA8E5A > MCU_Microchip_ATmega : ATxmega8E5-A
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATxmega8E5-A
 - Hex ID: SZKMCUMCHIPATMEGAATXMEGA8E5A
-- Name: ATxmega8E5-A
-- Description: ATxmega8E5-A
+- Name: MCU_Microchip_ATmega : ATxmega8E5-A
+- Description: MCU_Microchip_ATmega : ATxmega8E5-A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATxmega8E5-A](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATxmega8E5-A)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATMEGAATXMEGA8E5A](http://oom.lt/SZKMCUMCHIPATMEGAATXMEGA8E5A)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ATxmega8E5-A|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATxmega8E5-A|
 |Hex ID (short code)|hexID|SZKMCUMCHIPATMEGAATXMEGA8E5A|
-|name|name|ATxmega8E5-A|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ATxmega8E5-A', 'kicadSymbolFootprint': 'Package_QFP:TQFP-32_7x7mm_P0.8mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-8153-8-and-16-bit-AVR-Microcontroller-XMEGA-E-ATxmega8E5-ATxmega16E5-ATxmega32E5_Datasheet.pdf', 'kicadSymbolki_keywords': 'AVR 8/16bit Microcontroller XMegaAVR', 'kicadSymbolki_description': '32MHz, 8kB Flash, 2kB Boot, 1kB SRAM, 512B EEPROM, TQFP-32', 'kicadSymbolki_fp_filters': 'TQFP*7x7mm*P0.8mm*'}]|
+|name|name|MCU_Microchip_ATmega : ATxmega8E5-A|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ATxmega8E5-A'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_QFP</td></tr><tr><td>TQFP-32_7x7mm_P0.8mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/Atmel-8153-8-and-16-bit-AVR-Microcontroller-XMEGA-E-ATxmega8E5-ATxmega16E5-ATxmega32E5_Datasheet.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'AVR 8/16bit Microcontroller XMegaAVR'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '32MHz</td><td> 8kB Flash</td><td> 2kB Boot</td><td> 1kB SRAM</td><td> 512B EEPROM</td><td> TQFP-32'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TQFP*7x7mm*P0.8mm*'</td></tr></table>]|
 ||||

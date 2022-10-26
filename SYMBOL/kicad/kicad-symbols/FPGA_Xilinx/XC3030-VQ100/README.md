@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKFPGAXILINXXC33VQ1 > XC3030-VQ100
+# SZKFPGAXILINXXC33VQ1 > FPGA_Xilinx : XC3030-VQ100
 
 - ID: SYMBOL-kicad-kicad-symbols-FPGA_Xilinx-XC3030-VQ100
 - Hex ID: SZKFPGAXILINXXC33VQ1
-- Name: XC3030-VQ100
-- Description: XC3030-VQ100
+- Name: FPGA_Xilinx : XC3030-VQ100
+- Description: FPGA_Xilinx : XC3030-VQ100
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx-XC3030-VQ100](http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx-XC3030-VQ100)
 - Short Link: [http://oom.lt/SZKFPGAXILINXXC33VQ1](http://oom.lt/SZKFPGAXILINXXC33VQ1)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|XC3030-VQ100|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-FPGA_Xilinx-XC3030-VQ100|
 |Hex ID (short code)|hexID|SZKFPGAXILINXXC33VQ1|
-|name|name|XC3030-VQ100|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'XC3030-VQ100', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ''}]|
+|name|name|FPGA_Xilinx : XC3030-VQ100|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'XC3030-VQ100'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> ''</td></tr></table>]|
 ||||

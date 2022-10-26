@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Coaxial-BNC_TEConnectivity_1478204_Vertical|
 |Hex ID (short code)|hexID|FZKCNCOABNCTECONNECTIVITY147824VERTICAL|
 |name|name|Connector_Coaxial : BNC_TEConnectivity_1478204_Vertical|
-|Footprint Kicad|footprintKicadDetails|{'name': 'BNC_TEConnectivity_1478204_Vertical', 'description': 'BNC female PCB mount 4 pin straight chassis connector http://www.te.com/usa-en/product-1-1478204-0.html', 'tags': 'BNC female PCB mount 4 pin straight chassis connector ', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_Coaxial.3dshapes/BNC_TEConnectivity_1478204_Vertical.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'BNC_TEConnectivity_1478204_Vertical'</td><td> 'description'</td></tr><tr><td> 'BNC female PCB mount 4 pin straight chassis connector http</td></tr><tr><td>//www.te.com/usa-en/product-1-1478204-0.html'</td><td> 'tags'</td></tr><tr><td> 'BNC female PCB mount 4 pin straight chassis connector '</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_Coaxial.3dshapes/BNC_TEConnectivity_1478204_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-666|
 |Hex ID (short code)|hexID|FZKPACKAGETOSOTSMSOT666|
 |name|name|Package_TO_SOT_SMD : SOT-666|
-|Footprint Kicad|footprintKicadDetails|{'name': 'SOT-666', 'description': 'SOT666', 'tags': 'SOT-666', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-666.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SOT-666'</td><td> 'description'</td></tr><tr><td> 'SOT666'</td><td> 'tags'</td></tr><tr><td> 'SOT-666'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_TO_SOT_SMD.3dshapes/SOT-666.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

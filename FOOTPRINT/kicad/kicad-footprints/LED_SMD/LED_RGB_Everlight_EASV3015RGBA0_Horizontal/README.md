@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_RGB_Everlight_EASV3015RGBA0_Horizontal|
 |Hex ID (short code)|hexID|FZKLSMLRGBEVERLIGHTEASV315RGBAHORIZONTAL|
 |name|name|LED_SMD : LED_RGB_Everlight_EASV3015RGBA0_Horizontal|
-|Footprint Kicad|footprintKicadDetails|{'name': 'LED_RGB_Everlight_EASV3015RGBA0_Horizontal', 'description': 'LED, RGB, right-angle, clear, https://everlightamericas.com/index.php?controller=attachment&id_attachment=3220', 'tags': 'LED RGB right-angle', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED_RGB_Everlight_EASV3015RGBA0_Horizontal.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'LED_RGB_Everlight_EASV3015RGBA0_Horizontal'</td><td> 'description'</td></tr><tr><td> 'LED</td><td> RGB</td><td> right-angle</td><td> clear</td><td> https</td></tr><tr><td>//everlightamericas.com/index.php?controller=attachment&id_attachment=3220'</td><td> 'tags'</td></tr><tr><td> 'LED RGB right-angle'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/LED_SMD.3dshapes/LED_RGB_Everlight_EASV3015RGBA0_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

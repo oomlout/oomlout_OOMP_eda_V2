@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKPOWERSUPERVISORMCP12XXXXTT > MCP120-xxxxTT
+# SZKPOWERSUPERVISORMCP12XXXXTT > Power_Supervisor : MCP120-xxxxTT
 
 - ID: SYMBOL-kicad-kicad-symbols-Power_Supervisor-MCP120-xxxxTT
 - Hex ID: SZKPOWERSUPERVISORMCP12XXXXTT
-- Name: MCP120-xxxxTT
-- Description: MCP120-xxxxTT
+- Name: Power_Supervisor : MCP120-xxxxTT
+- Description: Power_Supervisor : MCP120-xxxxTT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Supervisor-MCP120-xxxxTT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Supervisor-MCP120-xxxxTT)
 - Short Link: [http://oom.lt/SZKPOWERSUPERVISORMCP12XXXXTT](http://oom.lt/SZKPOWERSUPERVISORMCP12XXXXTT)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MCP120-xxxxTT|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Supervisor-MCP120-xxxxTT|
 |Hex ID (short code)|hexID|SZKPOWERSUPERVISORMCP12XXXXTT|
-|name|name|MCP120-xxxxTT|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MCP120-xxxxTT', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/11184d.pdf', 'kicadSymbolki_keywords': 'supervisory circuit', 'kicadSymbolki_description': 'Microcontroller supervisory circuit, SOT-23', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
+|name|name|Power_Supervisor : MCP120-xxxxTT|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MCP120-xxxxTT'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-23'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/11184d.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'supervisory circuit'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Microcontroller supervisory circuit</td><td> SOT-23'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23*'</td></tr></table>]|
 ||||

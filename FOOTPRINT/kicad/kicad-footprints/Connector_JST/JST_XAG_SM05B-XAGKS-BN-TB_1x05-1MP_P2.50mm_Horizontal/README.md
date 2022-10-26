@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_XAG_SM05B-XAGKS-BN-TB_1x05-1MP_P2.50mm_Horizontal|
 |Hex ID (short code)|hexID|FZKCNJSTJSTXAGSM5BXAGKSBNTB1X51MPP25HORIZONTAL|
 |name|name|Connector_JST : JST_XAG_SM05B-XAGKS-BN-TB_1x05-1MP_P2.50mm_Horizontal|
-|Footprint Kicad|footprintKicadDetails|{'name': 'JST_XAG_SM05B-XAGKS-BN-TB_1x05-1MP_P2.50mm_Horizontal', 'description': 'JST XAG series connector, SM05B-XAGKS-BN-TB (http://www.jst-mfg.com/product/pdf/eng/eXAG.pdf), generated with kicad-footprint-generator', 'tags': 'connector JST XAG top entry', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_JST.3dshapes/JST_XAG_SM05B-XAGKS-BN-TB_1x05-1MP_P2.50mm_Horizontal.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'JST_XAG_SM05B-XAGKS-BN-TB_1x05-1MP_P2.50mm_Horizontal'</td><td> 'description'</td></tr><tr><td> 'JST XAG series connector</td><td> SM05B-XAGKS-BN-TB (http</td></tr><tr><td>//www.jst-mfg.com/product/pdf/eng/eXAG.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'connector JST XAG top entry'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_JST.3dshapes/JST_XAG_SM05B-XAGKS-BN-TB_1x05-1MP_P2.50mm_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

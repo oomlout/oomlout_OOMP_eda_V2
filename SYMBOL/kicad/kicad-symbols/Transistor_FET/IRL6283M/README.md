@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORFETIRL6283M > IRL6283M
+# SZKTRANSISTORFETIRL6283M > Transistor_FET : IRL6283M
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-IRL6283M
 - Hex ID: SZKTRANSISTORFETIRL6283M
-- Name: IRL6283M
-- Description: IRL6283M
+- Name: Transistor_FET : IRL6283M
+- Description: Transistor_FET : IRL6283M
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRL6283M](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRL6283M)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETIRL6283M](http://oom.lt/SZKTRANSISTORFETIRL6283M)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IRL6283M|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-IRL6283M|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETIRL6283M|
-|name|name|IRL6283M|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'IRL6283M', 'kicadSymbolFootprint': 'Package_DirectFET:DirectFET_MD', 'kicadSymbolDatasheet': 'https://www.infineon.com/dgdl/irl6283mpbf.pdf?fileId=5546d462533600a40153565fe9452573', 'kicadSymbolki_keywords': 'N-Channel HEXFET MOSFET IRFET', 'kicadSymbolki_description': '38A Id, 20V Vds, 0.75mOhm Rds, N-Channel HEXFET Power MOSFET, DirectFET MD', 'kicadSymbolki_fp_filters': 'DirectFET*MD*'}]|
+|name|name|Transistor_FET : IRL6283M|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'IRL6283M'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DirectFET</td></tr><tr><td>DirectFET_MD'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.infineon.com/dgdl/irl6283mpbf.pdf?fileId=5546d462533600a40153565fe9452573'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'N-Channel HEXFET MOSFET IRFET'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '38A Id</td><td> 20V Vds</td><td> 0.75mOhm Rds</td><td> N-Channel HEXFET Power MOSFET</td><td> DirectFET MD'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DirectFET*MD*'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKRELAYSOLIDSTATEAQH213A > AQH0213A
+# SZKRELAYSOLIDSTATEAQH213A > Relay_SolidState : AQH0213A
 
 - ID: SYMBOL-kicad-kicad-symbols-Relay_SolidState-AQH0213A
 - Hex ID: SZKRELAYSOLIDSTATEAQH213A
-- Name: AQH0213A
-- Description: AQH0213A
+- Name: Relay_SolidState : AQH0213A
+- Description: Relay_SolidState : AQH0213A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay_SolidState-AQH0213A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay_SolidState-AQH0213A)
 - Short Link: [http://oom.lt/SZKRELAYSOLIDSTATEAQH213A](http://oom.lt/SZKRELAYSOLIDSTATEAQH213A)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AQH0213A|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Relay_SolidState-AQH0213A|
 |Hex ID (short code)|hexID|SZKRELAYSOLIDSTATEAQH213A|
-|name|name|AQH0213A|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AQH0213A', 'kicadSymbolFootprint': 'Package_SO:SSO-7-8_6.4x9.78mm_P2.54mm', 'kicadSymbolDatasheet': 'https://b2b-api.panasonic.eu/file_stream/pids/fileversion/2787', 'kicadSymbolki_keywords': 'Opto-Triac Opto Triac Zero Cross Solid State Relays', 'kicadSymbolki_description': 'Zero Cross Opto-Triac, Vdrm 600V, Ift 10mA, IT 300mA, SOIC-7', 'kicadSymbolki_fp_filters': 'SSO*6.4x9.78mm*P2.54mm*'}]|
+|name|name|Relay_SolidState : AQH0213A|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'AQH0213A'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SSO-7-8_6.4x9.78mm_P2.54mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//b2b-api.panasonic.eu/file_stream/pids/fileversion/2787'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Opto-Triac Opto Triac Zero Cross Solid State Relays'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Zero Cross Opto-Triac</td><td> Vdrm 600V</td><td> Ift 10mA</td><td> IT 300mA</td><td> SOIC-7'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SSO*6.4x9.78mm*P2.54mm*'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKINTERFACEEXPANSIONPCA9548ARGE > PCA9548ARGE
+# SZKINTERFACEEXPANSIONPCA9548ARGE > Interface_Expansion : PCA9548ARGE
 
 - ID: SYMBOL-kicad-kicad-symbols-Interface_Expansion-PCA9548ARGE
 - Hex ID: SZKINTERFACEEXPANSIONPCA9548ARGE
-- Name: PCA9548ARGE
-- Description: PCA9548ARGE
+- Name: Interface_Expansion : PCA9548ARGE
+- Description: Interface_Expansion : PCA9548ARGE
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Expansion-PCA9548ARGE](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Expansion-PCA9548ARGE)
 - Short Link: [http://oom.lt/SZKINTERFACEEXPANSIONPCA9548ARGE](http://oom.lt/SZKINTERFACEEXPANSIONPCA9548ARGE)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PCA9548ARGE|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_Expansion-PCA9548ARGE|
 |Hex ID (short code)|hexID|SZKINTERFACEEXPANSIONPCA9548ARGE|
-|name|name|PCA9548ARGE|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TCA9548AMRGER', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PCA9548ARGE', 'kicadSymbolFootprint': 'Package_DFN_QFN:Texas_RGE0024C_EP2.1x2.1mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/pca9548a.pdf', 'kicadSymbolki_keywords': 'Low voltage 8-channel I2C switch with reset', 'kicadSymbolki_description': 'Low voltage 8-channel I2C switch with reset, VQFN-24', 'kicadSymbolki_fp_filters': 'Texas*RGE0024C*'}]|
+|name|name|Interface_Expansion : PCA9548ARGE|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'TCA9548AMRGER'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'PCA9548ARGE'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>Texas_RGE0024C_EP2.1x2.1mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/pca9548a.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Low voltage 8-channel I2C switch with reset'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Low voltage 8-channel I2C switch with reset</td><td> VQFN-24'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Texas*RGE0024C*'</td></tr></table>]|
 ||||

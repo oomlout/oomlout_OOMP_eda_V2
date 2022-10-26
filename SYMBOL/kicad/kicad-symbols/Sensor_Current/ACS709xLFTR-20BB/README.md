@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKSENCURRENTACS79XLFTR2BB > ACS709xLFTR-20BB
+# SZKSENCURRENTACS79XLFTR2BB > Sensor_Current : ACS709xLFTR-20BB
 
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS709xLFTR-20BB
 - Hex ID: SZKSENCURRENTACS79XLFTR2BB
-- Name: ACS709xLFTR-20BB
-- Description: ACS709xLFTR-20BB
+- Name: Sensor_Current : ACS709xLFTR-20BB
+- Description: Sensor_Current : ACS709xLFTR-20BB
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS709xLFTR-20BB](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS709xLFTR-20BB)
 - Short Link: [http://oom.lt/SZKSENCURRENTACS79XLFTR2BB](http://oom.lt/SZKSENCURRENTACS79XLFTR2BB)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ACS709xLFTR-20BB|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS709xLFTR-20BB|
 |Hex ID (short code)|hexID|SZKSENCURRENTACS79XLFTR2BB|
-|name|name|ACS709xLFTR-20BB|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ACS709xLFTR-6BB', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ACS709xLFTR-20BB', 'kicadSymbolFootprint': 'Sensor_Current:Allegro_QSOP-24_3.9x8.7mm_P0.635mm', 'kicadSymbolDatasheet': 'http://www.allegromicro.com/~/media/Files/Datasheets/ACS709-Datasheet.ashx?la=en', 'kicadSymbolki_keywords': 'hall effect current monitor sensor isolated', 'kicadSymbolki_description': '±37.5A Bidirectional, Hall-Effect Current Sensor, +3.3V to +5.0V supply, 56mV/A @ +3.3V, QSOP-24', 'kicadSymbolki_fp_filters': 'Allegro*QSOP*3.9x8.7mm*P0.635mm*'}]|
+|name|name|Sensor_Current : ACS709xLFTR-20BB|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'ACS709xLFTR-6BB'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ACS709xLFTR-20BB'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Sensor_Current</td></tr><tr><td>Allegro_QSOP-24_3.9x8.7mm_P0.635mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.allegromicro.com/~/media/Files/Datasheets/ACS709-Datasheet.ashx?la=en'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'hall effect current monitor sensor isolated'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '±37.5A Bidirectional</td><td> Hall-Effect Current Sensor</td><td> +3.3V to +5.0V supply</td><td> 56mV/A @ +3.3V</td><td> QSOP-24'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Allegro*QSOP*3.9x8.7mm*P0.635mm*'</td></tr></table>]|
 ||||

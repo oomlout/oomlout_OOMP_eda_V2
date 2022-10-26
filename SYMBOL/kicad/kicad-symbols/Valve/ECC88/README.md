@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKVAECC88 > ECC88
+# SZKVAECC88 > Valve : ECC88
 
 - ID: SYMBOL-kicad-kicad-symbols-Valve-ECC88
 - Hex ID: SZKVAECC88
-- Name: ECC88
-- Description: ECC88
+- Name: Valve : ECC88
+- Description: Valve : ECC88
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Valve-ECC88](http://oom.lt/SYMBOL-kicad-kicad-symbols-Valve-ECC88)
 - Short Link: [http://oom.lt/SZKVAECC88](http://oom.lt/SZKVAECC88)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ECC88|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Valve-ECC88|
 |Hex ID (short code)|hexID|SZKVAECC88|
-|name|name|ECC88|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ECC88', 'kicadSymbolFootprint': 'Valve:Valve_Noval_P', 'kicadSymbolDatasheet': 'http://www.r-type.org/pdfs/ecc88.pdf', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'triode valve', 'kicadSymbolki_description': 'double triode, low-noise', 'kicadSymbolki_fp_filters': 'VALVE*NOVAL*P*'}]|
+|name|name|Valve : ECC88|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ECC88'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Valve</td></tr><tr><td>Valve_Noval_P'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.r-type.org/pdfs/ecc88.pdf'</td><td> 'kicadSymbolki_locked'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'triode valve'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'double triode</td><td> low-noise'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'VALVE*NOVAL*P*'</td></tr></table>]|
 ||||

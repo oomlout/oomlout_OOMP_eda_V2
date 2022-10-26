@@ -29,5 +29,5 @@ NO IMAGE
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Symbol-OSHW-Logo_7.5x8mm_SilkScreen|
 |Hex ID (short code)|hexID|FZKSZOSHWL75X8SILKSCREEN|
 |name|name|Symbol : OSHW-Logo_7.5x8mm_SilkScreen|
-|Footprint Kicad|footprintKicadDetails|{'name': 'OSHW-Logo_7.5x8mm_SilkScreen', 'description': 'Open Source Hardware Logo', 'tags': 'Logo OSHW', 'attributeType': None, 'pins': {}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'OSHW-Logo_7.5x8mm_SilkScreen'</td><td> 'description'</td></tr><tr><td> 'Open Source Hardware Logo'</td><td> 'tags'</td></tr><tr><td> 'Logo OSHW'</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td></td></tr></table></td></tr></table>|
 ||||

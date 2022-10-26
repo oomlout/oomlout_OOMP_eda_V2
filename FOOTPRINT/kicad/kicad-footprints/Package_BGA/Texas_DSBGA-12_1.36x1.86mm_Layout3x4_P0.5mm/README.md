@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_BGA-Texas_DSBGA-12_1.36x1.86mm_Layout3x4_P0.5mm|
 |Hex ID (short code)|hexID|FZKBGATEXASDSBGA12136X186LAYOUT3X4P5|
 |name|name|Package_BGA : Texas_DSBGA-12_1.36x1.86mm_Layout3x4_P0.5mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Texas_DSBGA-12_1.36x1.86mm_Layout3x4_P0.5mm', 'description': 'Texas Instruments, DSBGA, 1.36x1.86mm, 12 bump 3x4 (area) array, NSMD pad definition (http://www.ti.com/lit/ds/symlink/txs0104e.pdf, http://www.ti.com/lit/an/snva009ag/snva009ag.pdf)', 'tags': 'Texas Instruments DSBGA BGA', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/Texas_DSBGA-12_1.36x1.86mm_Layout3x4_P0.5mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Texas_DSBGA-12_1.36x1.86mm_Layout3x4_P0.5mm'</td><td> 'description'</td></tr><tr><td> 'Texas Instruments</td><td> DSBGA</td><td> 1.36x1.86mm</td><td> 12 bump 3x4 (area) array</td><td> NSMD pad definition (http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/txs0104e.pdf</td><td> http</td></tr><tr><td>//www.ti.com/lit/an/snva009ag/snva009ag.pdf)'</td><td> 'tags'</td></tr><tr><td> 'Texas Instruments DSBGA BGA'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_BGA.3dshapes/Texas_DSBGA-12_1.36x1.86mm_Layout3x4_P0.5mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

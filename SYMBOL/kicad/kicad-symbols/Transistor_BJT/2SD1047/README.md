@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORBJT2SD147 > 2SD1047
+# SZKTRANSISTORBJT2SD147 > Transistor_BJT : 2SD1047
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-2SD1047
 - Hex ID: SZKTRANSISTORBJT2SD147
-- Name: 2SD1047
-- Description: 2SD1047
+- Name: Transistor_BJT : 2SD1047
+- Description: Transistor_BJT : 2SD1047
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-2SD1047](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-2SD1047)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJT2SD147](http://oom.lt/SZKTRANSISTORBJT2SD147)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|2SD1047|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_BJT-2SD1047|
 |Hex ID (short code)|hexID|SZKTRANSISTORBJT2SD147|
-|name|name|2SD1047|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': '2SD1047', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-3PB-3_Vertical', 'kicadSymbolDatasheet': 'http://www.st.com/resource/en/datasheet/2sd1047.pdf', 'kicadSymbolki_keywords': 'Power NPN Transistor', 'kicadSymbolki_description': '12A Ic, 140V Vce, Silicon Power NPN Transistors, TO-3PB', 'kicadSymbolki_fp_filters': 'TO?3PB*'}]|
+|name|name|Transistor_BJT : 2SD1047|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> '2SD1047'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_THT</td></tr><tr><td>TO-3PB-3_Vertical'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.st.com/resource/en/datasheet/2sd1047.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Power NPN Transistor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '12A Ic</td><td> 140V Vce</td><td> Silicon Power NPN Transistors</td><td> TO-3PB'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TO?3PB*'</td></tr></table>]|
 ||||

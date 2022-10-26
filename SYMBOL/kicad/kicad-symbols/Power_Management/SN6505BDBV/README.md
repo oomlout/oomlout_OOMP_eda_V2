@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKPOWERMANAGEMENTSN655BDBV > SN6505BDBV
+# SZKPOWERMANAGEMENTSN655BDBV > Power_Management : SN6505BDBV
 
 - ID: SYMBOL-kicad-kicad-symbols-Power_Management-SN6505BDBV
 - Hex ID: SZKPOWERMANAGEMENTSN655BDBV
-- Name: SN6505BDBV
-- Description: SN6505BDBV
+- Name: Power_Management : SN6505BDBV
+- Description: Power_Management : SN6505BDBV
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-SN6505BDBV](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-SN6505BDBV)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTSN655BDBV](http://oom.lt/SZKPOWERMANAGEMENTSN655BDBV)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SN6505BDBV|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Management-SN6505BDBV|
 |Hex ID (short code)|hexID|SZKPOWERMANAGEMENTSN655BDBV|
-|name|name|SN6505BDBV|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'SN6505ADBV', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'SN6505BDBV', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-6', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/sn6505b.pdf', 'kicadSymbolki_keywords': 'Transformer Drivers', 'kicadSymbolki_description': 'Low Noise, 1A, Transformer Drivers for Isolated Power Supplies, 420 kHz, SOT-23-6', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
+|name|name|Power_Management : SN6505BDBV|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'SN6505ADBV'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'SN6505BDBV'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-23-6'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/sn6505b.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Transformer Drivers'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Low Noise</td><td> 1A</td><td> Transformer Drivers for Isolated Power Supplies</td><td> 420 kHz</td><td> SOT-23-6'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23*'</td></tr></table>]|
 ||||

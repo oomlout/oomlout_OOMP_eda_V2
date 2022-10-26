@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKRFSWITCHMSWA22 > MSWA-2-20
+# SZKRFSWITCHMSWA22 > RF_Switch : MSWA-2-20
 
 - ID: SYMBOL-kicad-kicad-symbols-RF_Switch-MSWA-2-20
 - Hex ID: SZKRFSWITCHMSWA22
-- Name: MSWA-2-20
-- Description: MSWA-2-20
+- Name: RF_Switch : MSWA-2-20
+- Description: RF_Switch : MSWA-2-20
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Switch-MSWA-2-20](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Switch-MSWA-2-20)
 - Short Link: [http://oom.lt/SZKRFSWITCHMSWA22](http://oom.lt/SZKRFSWITCHMSWA22)
   
@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|MSWA-2-20|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-RF_Switch-MSWA-2-20|
 |Hex ID (short code)|hexID|SZKRFSWITCHMSWA22|
-|name|name|MSWA-2-20|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MSWA-2-20', 'kicadSymbolFootprint': 'Package_SO:SOP-8_3.76x4.96mm_P1.27mm', 'kicadSymbolDatasheet': 'https://www.minicircuits.com/pdfs/MSWA-2-20+.pdf', 'kicadSymbolki_keywords': 'RF SPDT switch', 'kicadSymbolki_description': 'SPDT DC-2.0GHz absorbative switch, 50 Ohm, SOP-8', 'kicadSymbolki_fp_filters': 'SOP*3.76x4.96mm*P1.27mm*'}]|
+|name|name|RF_Switch : MSWA-2-20|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MSWA-2-20'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOP-8_3.76x4.96mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.minicircuits.com/pdfs/MSWA-2-20+.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'RF SPDT switch'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'SPDT DC-2.0GHz absorbative switch</td><td> 50 Ohm</td><td> SOP-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOP*3.76x4.96mm*P1.27mm*'</td></tr></table>]|
 ||||

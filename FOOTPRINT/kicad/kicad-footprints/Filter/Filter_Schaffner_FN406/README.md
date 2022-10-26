@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Filter-Filter_Schaffner_FN406|
 |Hex ID (short code)|hexID|FZKFILFILSCHAFFNERFN46|
 |name|name|Filter : Filter_Schaffner_FN406|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Filter_Schaffner_FN406', 'description': 'Ultra Compact EMC Filter (https://www.schaffner.com/products/download/product/datasheet/fn-406-ultra-compact-emc-filter/)', 'tags': 'emi filter', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Filter.3dshapes/Filter_Schaffner_FN406.wrl', 'pins': {'type': 'thru_hole', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Filter_Schaffner_FN406'</td><td> 'description'</td></tr><tr><td> 'Ultra Compact EMC Filter (https</td></tr><tr><td>//www.schaffner.com/products/download/product/datasheet/fn-406-ultra-compact-emc-filter/)'</td><td> 'tags'</td></tr><tr><td> 'emi filter'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Filter.3dshapes/Filter_Schaffner_FN406.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

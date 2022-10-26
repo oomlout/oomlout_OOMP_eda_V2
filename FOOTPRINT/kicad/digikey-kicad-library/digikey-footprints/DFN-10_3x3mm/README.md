@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-DFN-10_3x3mm|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSDFN13X3|
 |name|name|digikey-footprints : DFN-10_3x3mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'DFN-10_3x3mm', 'description': 'http://cache.freescale.com/files/sensors/doc/data_sheet/MMA7660FC.pdf', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'DFN-10_3x3mm'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//cache.freescale.com/files/sensors/doc/data_sheet/MMA7660FC.pdf'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

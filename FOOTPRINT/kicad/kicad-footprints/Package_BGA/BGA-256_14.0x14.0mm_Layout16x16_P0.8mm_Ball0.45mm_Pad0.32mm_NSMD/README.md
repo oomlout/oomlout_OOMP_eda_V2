@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_BGA-BGA-256_14.0x14.0mm_Layout16x16_P0.8mm_Ball0.45mm_Pad0.32mm_NSMD|
 |Hex ID (short code)|hexID|FZKBGABGA25614X14LAYOUT16X16P8BALL45PAD32NSM|
 |name|name|Package_BGA : BGA-256_14.0x14.0mm_Layout16x16_P0.8mm_Ball0.45mm_Pad0.32mm_NSMD|
-|Footprint Kicad|footprintKicadDetails|{'name': 'BGA-256_14.0x14.0mm_Layout16x16_P0.8mm_Ball0.45mm_Pad0.32mm_NSMD', 'description': 'BGA-256, dimensions: https://www.xilinx.com/support/documentation/package_specs/ft256.pdf, design rules: https://www.xilinx.com/support/documentation/user_guides/ug1099-bga-device-design-rules.pdf', 'tags': 'BGA-256', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/BGA-256_14.0x14.0mm_Layout16x16_P0.8mm_Ball0.45mm_Pad0.32mm_NSMD.wrl', 'pins': {'type': 'smd', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'BGA-256_14.0x14.0mm_Layout16x16_P0.8mm_Ball0.45mm_Pad0.32mm_NSMD'</td><td> 'description'</td></tr><tr><td> 'BGA-256</td><td> dimensions</td></tr><tr><td> https</td></tr><tr><td>//www.xilinx.com/support/documentation/package_specs/ft256.pdf</td><td> design rules</td></tr><tr><td> https</td></tr><tr><td>//www.xilinx.com/support/documentation/user_guides/ug1099-bga-device-design-rules.pdf'</td><td> 'tags'</td></tr><tr><td> 'BGA-256'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_BGA.3dshapes/BGA-256_14.0x14.0mm_Layout16x16_P0.8mm_Ball0.45mm_Pad0.32mm_NSMD.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

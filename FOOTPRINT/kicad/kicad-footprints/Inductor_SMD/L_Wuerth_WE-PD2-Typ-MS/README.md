@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Wuerth_WE-PD2-Typ-MS|
 |Hex ID (short code)|hexID|FZKINDUCTORSMLWUERTHWEPD2TYPMS|
 |name|name|Inductor_SMD : L_Wuerth_WE-PD2-Typ-MS|
-|Footprint Kicad|footprintKicadDetails|{'name': 'L_Wuerth_WE-PD2-Typ-MS', 'description': 'Power Inductor, Wuerth Elektronik, WE-PD2, SMD, Typ MS, https://katalog.we-online.com/pbs/datasheet/744774022.pdf', 'tags': 'Choke Power Inductor WE-PD2 TypMS Wuerth', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Wuerth_WE-PD2-Typ-MS.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'L_Wuerth_WE-PD2-Typ-MS'</td><td> 'description'</td></tr><tr><td> 'Power Inductor</td><td> Wuerth Elektronik</td><td> WE-PD2</td><td> SMD</td><td> Typ MS</td><td> https</td></tr><tr><td>//katalog.we-online.com/pbs/datasheet/744774022.pdf'</td><td> 'tags'</td></tr><tr><td> 'Choke Power Inductor WE-PD2 TypMS Wuerth'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Inductor_SMD.3dshapes/L_Wuerth_WE-PD2-Typ-MS.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

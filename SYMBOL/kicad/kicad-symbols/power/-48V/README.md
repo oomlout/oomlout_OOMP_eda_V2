@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKPOWER48V > -48V
+# SZKPOWER48V > power : -48V
 
 - ID: SYMBOL-kicad-kicad-symbols-power--48V
 - Hex ID: SZKPOWER48V
-- Name: -48V
-- Description: -48V
+- Name: power : -48V
+- Description: power : -48V
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-power--48V](http://oom.lt/SYMBOL-kicad-kicad-symbols-power--48V)
 - Short Link: [http://oom.lt/SZKPOWER48V](http://oom.lt/SZKPOWER48V)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|-48V|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-power--48V|
 |Hex ID (short code)|hexID|SZKPOWER48V|
-|name|name|-48V|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': '#PWR', 'kicadSymbolValue': '-48V', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_keywords': 'power-flag', 'kicadSymbolki_description': 'Power symbol creates a global label with name "-48V"'}]|
+|name|name|power : -48V|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> '#PWR'</td><td> 'kicadSymbolValue'</td></tr><tr><td> '-48V'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'power-flag'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Power symbol creates a global label with name "-48V"'</td></tr></table>]|
 ||||

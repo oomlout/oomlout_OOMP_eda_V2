@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORSWITCHINGLNK623DG > LNK623DG
+# SZKREGULATORSWITCHINGLNK623DG > Regulator_Switching : LNK623DG
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK623DG
 - Hex ID: SZKREGULATORSWITCHINGLNK623DG
-- Name: LNK623DG
-- Description: LNK623DG
+- Name: Regulator_Switching : LNK623DG
+- Description: Regulator_Switching : LNK623DG
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK623DG](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK623DG)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGLNK623DG](http://oom.lt/SZKREGULATORSWITCHINGLNK623DG)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LNK623DG|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK623DG|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGLNK623DG|
-|name|name|LNK623DG|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LNK623DG', 'kicadSymbolFootprint': 'Package_SO:PowerIntegrations_SO-8C', 'kicadSymbolDatasheet': 'http://www.powerint.com/sites/default/files/product-docs/linkcv_family_datasheet.pdf', 'kicadSymbolki_keywords': 'Energy-Efficient, Off-line Switcher with Accurate Primary-side Constant-Voltage Control', 'kicadSymbolki_description': 'LinkSwitch-CV Family, 6W Output Power, SO-8C', 'kicadSymbolki_fp_filters': 'PowerIntegrations?SO?8C*'}]|
+|name|name|Regulator_Switching : LNK623DG|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LNK623DG'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>PowerIntegrations_SO-8C'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.powerint.com/sites/default/files/product-docs/linkcv_family_datasheet.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Energy-Efficient</td><td> Off-line Switcher with Accurate Primary-side Constant-Voltage Control'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'LinkSwitch-CV Family</td><td> 6W Output Power</td><td> SO-8C'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'PowerIntegrations?SO?8C*'</td></tr></table>]|
 ||||

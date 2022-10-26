@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKVIDEOTDA872 > TDA8702
+# SZKVIDEOTDA872 > Video : TDA8702
 
 - ID: SYMBOL-kicad-kicad-symbols-Video-TDA8702
 - Hex ID: SZKVIDEOTDA872
-- Name: TDA8702
-- Description: TDA8702
+- Name: Video : TDA8702
+- Description: Video : TDA8702
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Video-TDA8702](http://oom.lt/SYMBOL-kicad-kicad-symbols-Video-TDA8702)
 - Short Link: [http://oom.lt/SZKVIDEOTDA872](http://oom.lt/SZKVIDEOTDA872)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TDA8702|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Video-TDA8702|
 |Hex ID (short code)|hexID|SZKVIDEOTDA872|
-|name|name|TDA8702|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TDA8702', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'philips/tda8702.pdf', 'kicadSymbolki_keywords': 'DAC CNA VIDEO', 'kicadSymbolki_description': '8bit Video DAC (32 MHz), DIP-16', 'kicadSymbolki_fp_filters': 'DIP* PDIP* SO* SOIC*'}]|
+|name|name|Video : TDA8702|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TDA8702'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'philips/tda8702.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'DAC CNA VIDEO'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '8bit Video DAC (32 MHz)</td><td> DIP-16'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP* PDIP* SO* SOIC*'</td></tr></table>]|
 ||||

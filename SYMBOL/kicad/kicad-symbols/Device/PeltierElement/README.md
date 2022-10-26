@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDEVICEPELTIERELEMENT > PeltierElement
+# SZKDEVICEPELTIERELEMENT > Device : PeltierElement
 
 - ID: SYMBOL-kicad-kicad-symbols-Device-PeltierElement
 - Hex ID: SZKDEVICEPELTIERELEMENT
-- Name: PeltierElement
-- Description: PeltierElement
+- Name: Device : PeltierElement
+- Description: Device : PeltierElement
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-PeltierElement](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-PeltierElement)
 - Short Link: [http://oom.lt/SZKDEVICEPELTIERELEMENT](http://oom.lt/SZKDEVICEPELTIERELEMENT)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PeltierElement|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-PeltierElement|
 |Hex ID (short code)|hexID|SZKDEVICEPELTIERELEMENT|
-|name|name|PeltierElement|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'PE', 'kicadSymbolValue': 'PeltierElement', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'Peltier TEC', 'kicadSymbolki_description': 'Peltier element, thermoelectric cooler'}]|
+|name|name|Device : PeltierElement|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'PE'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'PeltierElement'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Peltier TEC'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Peltier element</td><td> thermoelectric cooler'</td></tr></table>]|
 ||||

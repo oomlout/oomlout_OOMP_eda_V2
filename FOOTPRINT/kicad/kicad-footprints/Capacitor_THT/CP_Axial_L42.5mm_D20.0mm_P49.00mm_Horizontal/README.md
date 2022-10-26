@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-CP_Axial_L42.5mm_D20.0mm_P49.00mm_Horizontal|
 |Hex ID (short code)|hexID|FZKCCPAXIALL425D2P49HORIZONTAL|
 |name|name|Capacitor_THT : CP_Axial_L42.5mm_D20.0mm_P49.00mm_Horizontal|
-|Footprint Kicad|footprintKicadDetails|{'name': 'CP_Axial_L42.5mm_D20.0mm_P49.00mm_Horizontal', 'description': 'CP, Axial series, Axial, Horizontal, pin pitch=49mm, , length*diameter=42.5*20mm^2, Electrolytic Capacitor', 'tags': 'CP Axial series Axial Horizontal pin pitch 49mm  length 42.5mm diameter 20mm Electrolytic Capacitor', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Capacitor_THT.3dshapes/CP_Axial_L42.5mm_D20.0mm_P49.00mm_Horizontal.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'CP_Axial_L42.5mm_D20.0mm_P49.00mm_Horizontal'</td><td> 'description'</td></tr><tr><td> 'CP</td><td> Axial series</td><td> Axial</td><td> Horizontal</td><td> pin pitch=49mm</td><td> </td><td> length*diameter=42.5*20mm^2</td><td> Electrolytic Capacitor'</td><td> 'tags'</td></tr><tr><td> 'CP Axial series Axial Horizontal pin pitch 49mm  length 42.5mm diameter 20mm Electrolytic Capacitor'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Capacitor_THT.3dshapes/CP_Axial_L42.5mm_D20.0mm_P49.00mm_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

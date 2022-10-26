@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_QFP-TQFP-80_14x14mm_P0.65mm|
 |Hex ID (short code)|hexID|FZKQFPTQFP814X14P65|
 |name|name|Package_QFP : TQFP-80_14x14mm_P0.65mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'TQFP-80_14x14mm_P0.65mm', 'description': '80-Lead Plastic Thin Quad Flatpack (PF) - 14x14x1 mm Body, 2.00 mm [TQFP] (see Microchip Packaging Specification 00000049BS.pdf)', 'tags': 'QFP 0.65', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_QFP.3dshapes/TQFP-80_14x14mm_P0.65mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'TQFP-80_14x14mm_P0.65mm'</td><td> 'description'</td></tr><tr><td> '80-Lead Plastic Thin Quad Flatpack (PF) - 14x14x1 mm Body</td><td> 2.00 mm [TQFP] (see Microchip Packaging Specification 00000049BS.pdf)'</td><td> 'tags'</td></tr><tr><td> 'QFP 0.65'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_QFP.3dshapes/TQFP-80_14x14mm_P0.65mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

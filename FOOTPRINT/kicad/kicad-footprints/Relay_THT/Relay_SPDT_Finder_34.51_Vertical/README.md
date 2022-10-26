@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_SPDT_Finder_34.51_Vertical|
 |Hex ID (short code)|hexID|FZKRELRELAYSPDTFINDER3451VERTICAL|
 |name|name|Relay_THT : Relay_SPDT_Finder_34.51_Vertical|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Relay_SPDT_Finder_34.51_Vertical', 'description': 'Relay SPDT, Finder Type34.51, vertical/standing form, see https://gfinder.findernet.com/public/attachments/34/EN/S34USAEN.pdf', 'tags': 'Relay SPDT Finder', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Relay_THT.3dshapes/Relay_SPDT_Finder_34.51_Vertical.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Relay_SPDT_Finder_34.51_Vertical'</td><td> 'description'</td></tr><tr><td> 'Relay SPDT</td><td> Finder Type34.51</td><td> vertical/standing form</td><td> see https</td></tr><tr><td>//gfinder.findernet.com/public/attachments/34/EN/S34USAEN.pdf'</td><td> 'tags'</td></tr><tr><td> 'Relay SPDT Finder'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Relay_THT.3dshapes/Relay_SPDT_Finder_34.51_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

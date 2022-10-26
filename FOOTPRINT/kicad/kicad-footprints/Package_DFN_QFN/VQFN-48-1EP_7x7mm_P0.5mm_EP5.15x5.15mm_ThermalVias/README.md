@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-VQFN-48-1EP_7x7mm_P0.5mm_EP5.15x5.15mm_ThermalVias|
 |Hex ID (short code)|hexID|FZKDFNVQFN481EP7X7P5EP515X515THERMALVIAS|
 |name|name|Package_DFN_QFN : VQFN-48-1EP_7x7mm_P0.5mm_EP5.15x5.15mm_ThermalVias|
-|Footprint Kicad|footprintKicadDetails|{'name': 'VQFN-48-1EP_7x7mm_P0.5mm_EP5.15x5.15mm_ThermalVias', 'description': 'VQFN, 48 Pin (http://www.ti.com/lit/ds/symlink/cc1312r.pdf#page=48), generated with kicad-footprint-generator ipc_noLead_generator.py', 'tags': 'VQFN NoLead', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/VQFN-48-1EP_7x7mm_P0.5mm_EP5.15x5.15mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'VQFN-48-1EP_7x7mm_P0.5mm_EP5.15x5.15mm_ThermalVias'</td><td> 'description'</td></tr><tr><td> 'VQFN</td><td> 48 Pin (http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/cc1312r.pdf#page=48)</td><td> generated with kicad-footprint-generator ipc_noLead_generator.py'</td><td> 'tags'</td></tr><tr><td> 'VQFN NoLead'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DFN_QFN.3dshapes/VQFN-48-1EP_7x7mm_P0.5mm_EP5.15x5.15mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_TDK_SLF12555|
 |Hex ID (short code)|hexID|FZKINDUCTORSMLTDKSLF12555|
 |name|name|Inductor_SMD : L_TDK_SLF12555|
-|Footprint Kicad|footprintKicadDetails|{'name': 'L_TDK_SLF12555', 'description': 'Inductor, TDK, SLF12555, 12.5mmx12.5mm (Script generated with StandardBox.py) (https://product.tdk.com/info/en/catalog/datasheets/inductor_commercial_power_slf12555_en.pdf)', 'tags': 'Inductor SLF12555', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_TDK_SLF12555.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'L_TDK_SLF12555'</td><td> 'description'</td></tr><tr><td> 'Inductor</td><td> TDK</td><td> SLF12555</td><td> 12.5mmx12.5mm (Script generated with StandardBox.py) (https</td></tr><tr><td>//product.tdk.com/info/en/catalog/datasheets/inductor_commercial_power_slf12555_en.pdf)'</td><td> 'tags'</td></tr><tr><td> 'Inductor SLF12555'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Inductor_SMD.3dshapes/L_TDK_SLF12555.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

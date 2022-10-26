@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SON-VSON-8_3.3x3.3mm_P0.65mm_NexFET|
 |Hex ID (short code)|hexID|FZKSONVSON833X33P65NEXFET|
 |name|name|Package_SON : VSON-8_3.3x3.3mm_P0.65mm_NexFET|
-|Footprint Kicad|footprintKicadDetails|{'name': 'VSON-8_3.3x3.3mm_P0.65mm_NexFET', 'description': '8-Lead Plastic Dual Flat, No Lead Package (MF) - 3.3x3.3x1 mm Body [VSON] http://www.ti.com/lit/ds/symlink/csd87334q3d.pdf', 'tags': 'VSON 0.65', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SON.3dshapes/VSON-8_3.3x3.3mm_P0.65mm_NexFET.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'VSON-8_3.3x3.3mm_P0.65mm_NexFET'</td><td> 'description'</td></tr><tr><td> '8-Lead Plastic Dual Flat</td><td> No Lead Package (MF) - 3.3x3.3x1 mm Body [VSON] http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/csd87334q3d.pdf'</td><td> 'tags'</td></tr><tr><td> 'VSON 0.65'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_SON.3dshapes/VSON-8_3.3x3.3mm_P0.65mm_NexFET.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

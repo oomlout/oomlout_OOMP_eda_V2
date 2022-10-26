@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_CSP-LFCSP-VQ-48-1EP_7x7mm_P0.5mm|
 |Hex ID (short code)|hexID|FZKCSPLFCSPVQ481EP7X7P5|
 |name|name|Package_CSP : LFCSP-VQ-48-1EP_7x7mm_P0.5mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'LFCSP-VQ-48-1EP_7x7mm_P0.5mm', 'description': 'LFCSP VQ, 48 pin, exposed pad, 7x7mm body (http://www.analog.com/media/en/technical-documentation/data-sheets/AD7951.pdf, http://www.analog.com/en/design-center/packaging-quality-symbols-footprints/symbols-and-footprints/AD7951.html)', 'tags': 'LFCSP 48', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_CSP.3dshapes/LFCSP-VQ-48-1EP_7x7mm_P0.5mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'LFCSP-VQ-48-1EP_7x7mm_P0.5mm'</td><td> 'description'</td></tr><tr><td> 'LFCSP VQ</td><td> 48 pin</td><td> exposed pad</td><td> 7x7mm body (http</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/AD7951.pdf</td><td> http</td></tr><tr><td>//www.analog.com/en/design-center/packaging-quality-symbols-footprints/symbols-and-footprints/AD7951.html)'</td><td> 'tags'</td></tr><tr><td> 'LFCSP 48'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_CSP.3dshapes/LFCSP-VQ-48-1EP_7x7mm_P0.5mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

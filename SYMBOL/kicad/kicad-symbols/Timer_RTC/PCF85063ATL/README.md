@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTIMERRTCPCF8563ATL > PCF85063ATL
+# SZKTIMERRTCPCF8563ATL > Timer_RTC : PCF85063ATL
 
 - ID: SYMBOL-kicad-kicad-symbols-Timer_RTC-PCF85063ATL
 - Hex ID: SZKTIMERRTCPCF8563ATL
-- Name: PCF85063ATL
-- Description: PCF85063ATL
+- Name: Timer_RTC : PCF85063ATL
+- Description: Timer_RTC : PCF85063ATL
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer_RTC-PCF85063ATL](http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer_RTC-PCF85063ATL)
 - Short Link: [http://oom.lt/SZKTIMERRTCPCF8563ATL](http://oom.lt/SZKTIMERRTCPCF8563ATL)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PCF85063ATL|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Timer_RTC-PCF85063ATL|
 |Hex ID (short code)|hexID|SZKTIMERRTCPCF8563ATL|
-|name|name|PCF85063ATL|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PCF85063ATL', 'kicadSymbolFootprint': 'Package_DFN_QFN:DFN-10-1EP_2.6x2.6mm_P0.5mm_EP1.3x2.2mm', 'kicadSymbolDatasheet': 'https://www.nxp.com/docs/en/data-sheet/PCF85063A.pdf', 'kicadSymbolki_keywords': 'RTC I2C', 'kicadSymbolki_description': 'I2C Real-Time Clock Calendar w/ Alarm, DFN-10', 'kicadSymbolki_fp_filters': 'DFN*2.6x2.6mm*P0.5mm*'}]|
+|name|name|Timer_RTC : PCF85063ATL|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'PCF85063ATL'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>DFN-10-1EP_2.6x2.6mm_P0.5mm_EP1.3x2.2mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.nxp.com/docs/en/data-sheet/PCF85063A.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'RTC I2C'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'I2C Real-Time Clock Calendar w/ Alarm</td><td> DFN-10'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DFN*2.6x2.6mm*P0.5mm*'</td></tr></table>]|
 ||||

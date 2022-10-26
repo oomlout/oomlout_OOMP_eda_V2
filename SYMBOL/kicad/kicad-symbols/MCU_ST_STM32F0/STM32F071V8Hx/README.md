@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUSTSTM32FSTM32F71V8HX > STM32F071V8Hx
+# SZKMCUSTSTM32FSTM32F71V8HX > MCU_ST_STM32F0 : STM32F071V8Hx
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F0-STM32F071V8Hx
 - Hex ID: SZKMCUSTSTM32FSTM32F71V8HX
-- Name: STM32F071V8Hx
-- Description: STM32F071V8Hx
+- Name: MCU_ST_STM32F0 : STM32F071V8Hx
+- Description: MCU_ST_STM32F0 : STM32F071V8Hx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F0-STM32F071V8Hx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F0-STM32F071V8Hx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32FSTM32F71V8HX](http://oom.lt/SZKMCUSTSTM32FSTM32F71V8HX)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|STM32F071V8Hx|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F0-STM32F071V8Hx|
 |Hex ID (short code)|hexID|SZKMCUSTSTM32FSTM32F71V8HX|
-|name|name|STM32F071V8Hx|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'STM32F071V8Hx', 'kicadSymbolFootprint': 'Package_BGA:UFBGA-100_7x7mm_Layout12x12_P0.5mm', 'kicadSymbolDatasheet': 'http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00098745.pdf', 'kicadSymbolki_keywords': 'ARM Cortex-M0 STM32F0 STM32F0x1', 'kicadSymbolki_description': 'ARM Cortex-M0 MCU, 64KB flash, 16KB RAM, 48MHz, 2-3.6V, 87 GPIO, UFBGA-100', 'kicadSymbolki_fp_filters': 'UFBGA*7x7mm*Layout12x12*P0.5mm*'}]|
+|name|name|MCU_ST_STM32F0 : STM32F071V8Hx|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'STM32F071V8Hx'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_BGA</td></tr><tr><td>UFBGA-100_7x7mm_Layout12x12_P0.5mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00098745.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'ARM Cortex-M0 STM32F0 STM32F0x1'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'ARM Cortex-M0 MCU</td><td> 64KB flash</td><td> 16KB RAM</td><td> 48MHz</td><td> 2-3.6V</td><td> 87 GPIO</td><td> UFBGA-100'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'UFBGA*7x7mm*Layout12x12*P0.5mm*'</td></tr></table>]|
 ||||

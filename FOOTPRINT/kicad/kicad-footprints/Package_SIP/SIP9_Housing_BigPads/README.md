@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SIP-SIP9_Housing_BigPads|
 |Hex ID (short code)|hexID|FZKSIPSIP9HOUSINGBIGPADS|
 |name|name|Package_SIP : SIP9_Housing_BigPads|
-|Footprint Kicad|footprintKicadDetails|{'name': 'SIP9_Housing_BigPads', 'description': 'SIP9, large pads', 'tags': 'SIP9', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SIP.3dshapes/SIP9_Housing_BigPads.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SIP9_Housing_BigPads'</td><td> 'description'</td></tr><tr><td> 'SIP9</td><td> large pads'</td><td> 'tags'</td></tr><tr><td> 'SIP9'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_SIP.3dshapes/SIP9_Housing_BigPads.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

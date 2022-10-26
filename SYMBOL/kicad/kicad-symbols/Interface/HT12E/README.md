@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKINTERFACEHT12E > HT12E
+# SZKINTERFACEHT12E > Interface : HT12E
 
 - ID: SYMBOL-kicad-kicad-symbols-Interface-HT12E
 - Hex ID: SZKINTERFACEHT12E
-- Name: HT12E
-- Description: HT12E
+- Name: Interface : HT12E
+- Description: Interface : HT12E
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-HT12E](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-HT12E)
 - Short Link: [http://oom.lt/SZKINTERFACEHT12E](http://oom.lt/SZKINTERFACEHT12E)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|HT12E|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface-HT12E|
 |Hex ID (short code)|hexID|SZKINTERFACEHT12E|
-|name|name|HT12E|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'HT12E', 'kicadSymbolFootprint': 'Package_SO:SOP-20_7.5x12.8mm_P1.27mm', 'kicadSymbolDatasheet': 'https://www.holtek.com/documents/10179/116711/2_12ev120.pdf', 'kicadSymbolki_keywords': 'Serial Encoder', 'kicadSymbolki_description': '2^12 serial encoder, SOP-20', 'kicadSymbolki_fp_filters': 'SOP*7.5x12.8mm*P1.27mm*'}]|
+|name|name|Interface : HT12E|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'HT12E'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOP-20_7.5x12.8mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.holtek.com/documents/10179/116711/2_12ev120.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Serial Encoder'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '2^12 serial encoder</td><td> SOP-20'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOP*7.5x12.8mm*P1.27mm*'</td></tr></table>]|
 ||||

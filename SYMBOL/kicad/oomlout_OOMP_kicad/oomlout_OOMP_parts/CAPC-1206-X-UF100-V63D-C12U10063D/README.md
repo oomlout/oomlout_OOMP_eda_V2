@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC126XUF1V63DC12U163D > CAPC-1206-X-UF100-V63D-C12U10063D
+# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC126XUF1V63DC12U163D > oomlout_OOMP_parts : CAPC-1206-X-UF100-V63D-C12U10063D
 
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-1206-X-UF100-V63D-C12U10063D
 - Hex ID: SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC126XUF1V63DC12U163D
-- Name: CAPC-1206-X-UF100-V63D-C12U10063D
-- Description: CAPC-1206-X-UF100-V63D-C12U10063D
+- Name: oomlout_OOMP_parts : CAPC-1206-X-UF100-V63D-C12U10063D
+- Description: oomlout_OOMP_parts : CAPC-1206-X-UF100-V63D-C12U10063D
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-1206-X-UF100-V63D-C12U10063D](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-1206-X-UF100-V63D-C12U10063D)
 - Short Link: [http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC126XUF1V63DC12U163D](http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC126XUF1V63DC12U163D)
   
@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|CAPC-1206-X-UF100-V63D-C12U10063D|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-1206-X-UF100-V63D-C12U10063D|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC126XUF1V63DC12U163D|
-|name|name|CAPC-1206-X-UF100-V63D-C12U10063D|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'C', 'kicadSymbolValue': 'CAPC-1206-X-UF100-V63D-C12U10063D', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:CAPC-1206-X-UF100-V63D-C12U10063D', 'kicadSymbolDatasheet': 'oom.lt/C12U10063D', 'kicadSymbolki_keywords': 'cap capacitor', 'kicadSymbolki_description': 'hexID: C12U10063D;PARTL C-JLCC;C15008;MANUF C-XXXX;CL31A107MQHNNNE;Unpolarized capacitor', 'kicadSymbolki_fp_filters': 'C_*'}]|
+|name|name|oomlout_OOMP_parts : CAPC-1206-X-UF100-V63D-C12U10063D|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'C'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'CAPC-1206-X-UF100-V63D-C12U10063D'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'oomlout_OOMP_parts</td></tr><tr><td>CAPC-1206-X-UF100-V63D-C12U10063D'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'oom.lt/C12U10063D'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'cap capacitor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'hexID</td></tr><tr><td> C12U10063D;PARTL C-JLCC;C15008;MANUF C-XXXX;CL31A107MQHNNNE;Unpolarized capacitor'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'C_*'</td></tr></table>]|
 ||||

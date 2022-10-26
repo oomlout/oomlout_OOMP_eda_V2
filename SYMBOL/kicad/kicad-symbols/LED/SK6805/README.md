@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKLSK685 > SK6805
+# SZKLSK685 > LED : SK6805
 
 - ID: SYMBOL-kicad-kicad-symbols-LED-SK6805
 - Hex ID: SZKLSK685
-- Name: SK6805
-- Description: SK6805
+- Name: LED : SK6805
+- Description: LED : SK6805
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-LED-SK6805](http://oom.lt/SYMBOL-kicad-kicad-symbols-LED-SK6805)
 - Short Link: [http://oom.lt/SZKLSK685](http://oom.lt/SZKLSK685)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SK6805|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-LED-SK6805|
 |Hex ID (short code)|hexID|SZKLSK685|
-|name|name|SK6805|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'SK6805', 'kicadSymbolFootprint': 'LED_SMD:LED_SK6805_PLCC4_2.4x2.7mm_P1.3mm', 'kicadSymbolDatasheet': 'https://cdn-shop.adafruit.com/product-files/3484/3484_Datasheet.pdf', 'kicadSymbolki_keywords': 'RGB LED NeoPixel Nano addressable', 'kicadSymbolki_description': 'RGB LED with integrated controller', 'kicadSymbolki_fp_filters': 'LED*SK6805*PLCC*2.4x2.7mm*P1.3mm*'}]|
+|name|name|LED : SK6805|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'SK6805'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'LED_SMD</td></tr><tr><td>LED_SK6805_PLCC4_2.4x2.7mm_P1.3mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//cdn-shop.adafruit.com/product-files/3484/3484_Datasheet.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'RGB LED NeoPixel Nano addressable'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'RGB LED with integrated controller'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'LED*SK6805*PLCC*2.4x2.7mm*P1.3mm*'</td></tr></table>]|
 ||||

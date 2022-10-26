@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORFETC3M651K > C3M0065100K
+# SZKTRANSISTORFETC3M651K > Transistor_FET : C3M0065100K
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-C3M0065100K
 - Hex ID: SZKTRANSISTORFETC3M651K
-- Name: C3M0065100K
-- Description: C3M0065100K
+- Name: Transistor_FET : C3M0065100K
+- Description: Transistor_FET : C3M0065100K
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-C3M0065100K](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-C3M0065100K)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETC3M651K](http://oom.lt/SZKTRANSISTORFETC3M651K)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|C3M0065100K|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-C3M0065100K|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETC3M651K|
-|name|name|C3M0065100K|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'C3M0030090K', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'C3M0065100K', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-247-4_Vertical', 'kicadSymbolDatasheet': 'https://www.wolfspeed.com/media/downloads/961/C3M0065100K.pdf', 'kicadSymbolki_keywords': 'N-Channel SiC MOSFET', 'kicadSymbolki_description': '35A Id, 1000V Vds, 65mOhm, N-Channel SiC MOSFET, TO-247-4', 'kicadSymbolki_fp_filters': 'TO?247*'}]|
+|name|name|Transistor_FET : C3M0065100K|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'C3M0030090K'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'C3M0065100K'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_THT</td></tr><tr><td>TO-247-4_Vertical'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.wolfspeed.com/media/downloads/961/C3M0065100K.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'N-Channel SiC MOSFET'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '35A Id</td><td> 1000V Vds</td><td> 65mOhm</td><td> N-Channel SiC MOSFET</td><td> TO-247-4'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TO?247*'</td></tr></table>]|
 ||||

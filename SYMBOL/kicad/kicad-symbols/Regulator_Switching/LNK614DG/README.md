@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORSWITCHINGLNK614DG > LNK614DG
+# SZKREGULATORSWITCHINGLNK614DG > Regulator_Switching : LNK614DG
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK614DG
 - Hex ID: SZKREGULATORSWITCHINGLNK614DG
-- Name: LNK614DG
-- Description: LNK614DG
+- Name: Regulator_Switching : LNK614DG
+- Description: Regulator_Switching : LNK614DG
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK614DG](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK614DG)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGLNK614DG](http://oom.lt/SZKREGULATORSWITCHINGLNK614DG)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LNK614DG|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK614DG|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGLNK614DG|
-|name|name|LNK614DG|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LNK603DG', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LNK614DG', 'kicadSymbolFootprint': 'Package_SO:PowerIntegrations_SO-8C', 'kicadSymbolDatasheet': 'http://www.powerint.com/sites/default/files/product-docs/linkswitch-ii_family_datasheet.pdf', 'kicadSymbolki_keywords': 'Energy-Efficient, Accurate CV/CC Switcher for Adapters and Chargers', 'kicadSymbolki_description': 'LinkSwitch-II Family, 4.1W Output Power, SO-8C', 'kicadSymbolki_fp_filters': 'PowerIntegrations?SO?8C*'}]|
+|name|name|Regulator_Switching : LNK614DG|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'LNK603DG'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LNK614DG'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>PowerIntegrations_SO-8C'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.powerint.com/sites/default/files/product-docs/linkswitch-ii_family_datasheet.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Energy-Efficient</td><td> Accurate CV/CC Switcher for Adapters and Chargers'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'LinkSwitch-II Family</td><td> 4.1W Output Power</td><td> SO-8C'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'PowerIntegrations?SO?8C*'</td></tr></table>]|
 ||||

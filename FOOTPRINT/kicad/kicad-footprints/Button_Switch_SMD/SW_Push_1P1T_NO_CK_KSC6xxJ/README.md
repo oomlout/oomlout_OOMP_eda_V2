@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_Push_1P1T_NO_CK_KSC6xxJ|
 |Hex ID (short code)|hexID|FZKBSWITCHSMSWPUSH1P1TNOCKKSC6XXJ|
 |name|name|Button_Switch_SMD : SW_Push_1P1T_NO_CK_KSC6xxJ|
-|Footprint Kicad|footprintKicadDetails|{'name': 'SW_Push_1P1T_NO_CK_KSC6xxJ', 'description': 'CK components KSC6 tactile switch https://www.ckswitches.com/media/1972/ksc6.pdf', 'tags': 'tactile switch ksc6', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_push_1P1T_NO_CK_KSC6xxJxxx.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SW_Push_1P1T_NO_CK_KSC6xxJ'</td><td> 'description'</td></tr><tr><td> 'CK components KSC6 tactile switch https</td></tr><tr><td>//www.ckswitches.com/media/1972/ksc6.pdf'</td><td> 'tags'</td></tr><tr><td> 'tactile switch ksc6'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Button_Switch_SMD.3dshapes/SW_push_1P1T_NO_CK_KSC6xxJxxx.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

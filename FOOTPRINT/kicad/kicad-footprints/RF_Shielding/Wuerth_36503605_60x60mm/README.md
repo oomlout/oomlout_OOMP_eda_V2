@@ -29,5 +29,5 @@ NO IMAGE
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-RF_Shielding-Wuerth_36503605_60x60mm|
 |Hex ID (short code)|hexID|FZKRFSWUERTH3653656X6|
 |name|name|RF_Shielding : Wuerth_36503605_60x60mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Wuerth_36503605_60x60mm', 'description': 'WE-SHC Shielding Cabinet THT 61x61mm', 'tags': 'Shielding Cabinet', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/RF_Shielding.3dshapes/Wuerth_36503605_60x60mm.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Wuerth_36503605_60x60mm'</td><td> 'description'</td></tr><tr><td> 'WE-SHC Shielding Cabinet THT 61x61mm'</td><td> 'tags'</td></tr><tr><td> 'Shielding Cabinet'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/RF_Shielding.3dshapes/Wuerth_36503605_60x60mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

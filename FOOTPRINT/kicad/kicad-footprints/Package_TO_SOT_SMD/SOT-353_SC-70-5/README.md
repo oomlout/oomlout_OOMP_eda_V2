@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-353_SC-70-5|
 |Hex ID (short code)|hexID|FZKPACKAGETOSOTSMSOT353SC75|
 |name|name|Package_TO_SOT_SMD : SOT-353_SC-70-5|
-|Footprint Kicad|footprintKicadDetails|{'name': 'SOT-353_SC-70-5', 'description': 'SOT-353, SC-70-5', 'tags': 'SOT-353 SC-70-5', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-353_SC-70-5.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SOT-353_SC-70-5'</td><td> 'description'</td></tr><tr><td> 'SOT-353</td><td> SC-70-5'</td><td> 'tags'</td></tr><tr><td> 'SOT-353 SC-70-5'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_TO_SOT_SMD.3dshapes/SOT-353_SC-70-5.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_4020_10251Metric_Pad1.65x5.30mm_HandSolder|
 |Hex ID (short code)|hexID|FZKRESISTORSMR421251METRICPAD165X53HANDSOLDER|
 |name|name|Resistor_SMD : R_4020_10251Metric_Pad1.65x5.30mm_HandSolder|
-|Footprint Kicad|footprintKicadDetails|{'name': 'R_4020_10251Metric_Pad1.65x5.30mm_HandSolder', 'description': 'Resistor SMD 4020 (10251 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: http://datasheet.octopart.com/HVC0603T5004FET-Ohmite-datasheet-26699797.pdf), generated with kicad-footprint-generator', 'tags': 'resistor handsolder', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_4020_10251Metric.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'R_4020_10251Metric_Pad1.65x5.30mm_HandSolder'</td><td> 'description'</td></tr><tr><td> 'Resistor SMD 4020 (10251 Metric)</td><td> square (rectangular) end terminal</td><td> IPC_7351 nominal with elongated pad for handsoldering. (Body size source</td></tr><tr><td> http</td></tr><tr><td>//datasheet.octopart.com/HVC0603T5004FET-Ohmite-datasheet-26699797.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'resistor handsolder'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Resistor_SMD.3dshapes/R_4020_10251Metric.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

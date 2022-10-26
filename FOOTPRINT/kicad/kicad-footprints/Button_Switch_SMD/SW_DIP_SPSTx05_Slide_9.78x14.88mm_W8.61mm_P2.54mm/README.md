@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_DIP_SPSTx05_Slide_9.78x14.88mm_W8.61mm_P2.54mm|
 |Hex ID (short code)|hexID|FZKBSWITCHSMSWDIPSPSTX5SLIDE978X1488W861P254|
 |name|name|Button_Switch_SMD : SW_DIP_SPSTx05_Slide_9.78x14.88mm_W8.61mm_P2.54mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'SW_DIP_SPSTx05_Slide_9.78x14.88mm_W8.61mm_P2.54mm', 'description': 'SMD 5x-dip-switch SPST , Slide, row spacing 8.61 mm (338 mils), body size 9.78x14.88mm (see e.g. https://www.ctscorp.com/wp-content/uploads/204.pdf), SMD', 'tags': 'SMD DIP Switch SPST Slide 8.61mm 338mil SMD', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_DIP_SPSTx05_Slide_9.78x14.88mm_W8.61mm_P2.54mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SW_DIP_SPSTx05_Slide_9.78x14.88mm_W8.61mm_P2.54mm'</td><td> 'description'</td></tr><tr><td> 'SMD 5x-dip-switch SPST </td><td> Slide</td><td> row spacing 8.61 mm (338 mils)</td><td> body size 9.78x14.88mm (see e.g. https</td></tr><tr><td>//www.ctscorp.com/wp-content/uploads/204.pdf)</td><td> SMD'</td><td> 'tags'</td></tr><tr><td> 'SMD DIP Switch SPST Slide 8.61mm 338mil SMD'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Button_Switch_SMD.3dshapes/SW_DIP_SPSTx05_Slide_9.78x14.88mm_W8.61mm_P2.54mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

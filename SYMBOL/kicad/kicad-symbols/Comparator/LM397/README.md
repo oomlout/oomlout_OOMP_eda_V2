@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKCOMPARATORLM397 > LM397
+# SZKCOMPARATORLM397 > Comparator : LM397
 
 - ID: SYMBOL-kicad-kicad-symbols-Comparator-LM397
 - Hex ID: SZKCOMPARATORLM397
-- Name: LM397
-- Description: LM397
+- Name: Comparator : LM397
+- Description: Comparator : LM397
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Comparator-LM397](http://oom.lt/SYMBOL-kicad-kicad-symbols-Comparator-LM397)
 - Short Link: [http://oom.lt/SZKCOMPARATORLM397](http://oom.lt/SZKCOMPARATORLM397)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM397|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Comparator-LM397|
 |Hex ID (short code)|hexID|SZKCOMPARATORLM397|
-|name|name|LM397|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM397', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-5', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lm397.pdf', 'kicadSymbolki_keywords': 'single comparator', 'kicadSymbolki_description': 'Single General-Purpose Voltage Comparator with Open-Collector Output, SOT-23-5', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
+|name|name|Comparator : LM397|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LM397'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-23-5'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/lm397.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'single comparator'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Single General-Purpose Voltage Comparator with Open-Collector Output</td><td> SOT-23-5'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23*'</td></tr></table>]|
 ||||

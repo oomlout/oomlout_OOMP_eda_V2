@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_LGA-LGA-16_3x3mm_P0.5mm_LayoutBorder3x5y|
 |Hex ID (short code)|hexID|FZKLGALGA163X3P5LAYOUTBORDER3X5Y|
 |name|name|Package_LGA : LGA-16_3x3mm_P0.5mm_LayoutBorder3x5y|
-|Footprint Kicad|footprintKicadDetails|{'name': 'LGA-16_3x3mm_P0.5mm_LayoutBorder3x5y', 'description': 'LGA, 16 Pin (http://www.st.com/resource/en/datasheet/lis331hh.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py', 'tags': 'LGA NoLead', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_LGA.3dshapes/LGA-16_3x3mm_P0.5mm_LayoutBorder3x5y.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'LGA-16_3x3mm_P0.5mm_LayoutBorder3x5y'</td><td> 'description'</td></tr><tr><td> 'LGA</td><td> 16 Pin (http</td></tr><tr><td>//www.st.com/resource/en/datasheet/lis331hh.pdf)</td><td> generated with kicad-footprint-generator ipc_noLead_generator.py'</td><td> 'tags'</td></tr><tr><td> 'LGA NoLead'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_LGA.3dshapes/LGA-16_3x3mm_P0.5mm_LayoutBorder3x5y.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

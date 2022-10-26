@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKPOWERPROTECTIONCM1213A1SO > CM1213A-01SO
+# SZKPOWERPROTECTIONCM1213A1SO > Power_Protection : CM1213A-01SO
 
 - ID: SYMBOL-kicad-kicad-symbols-Power_Protection-CM1213A-01SO
 - Hex ID: SZKPOWERPROTECTIONCM1213A1SO
-- Name: CM1213A-01SO
-- Description: CM1213A-01SO
+- Name: Power_Protection : CM1213A-01SO
+- Description: Power_Protection : CM1213A-01SO
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-CM1213A-01SO](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-CM1213A-01SO)
 - Short Link: [http://oom.lt/SZKPOWERPROTECTIONCM1213A1SO](http://oom.lt/SZKPOWERPROTECTIONCM1213A1SO)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|CM1213A-01SO|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Protection-CM1213A-01SO|
 |Hex ID (short code)|hexID|SZKPOWERPROTECTIONCM1213A1SO|
-|name|name|CM1213A-01SO|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'CM1213A-01SO', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23', 'kicadSymbolDatasheet': 'http://www.onsemi.com/pub_link/Collateral/CM1213A-D.PDF', 'kicadSymbolki_keywords': 'ESD Protection diodes transient suppressor', 'kicadSymbolki_description': 'Single Channel ESD Protection Array', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
+|name|name|Power_Protection : CM1213A-01SO|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'CM1213A-01SO'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-23'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.onsemi.com/pub_link/Collateral/CM1213A-D.PDF'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'ESD Protection diodes transient suppressor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Single Channel ESD Protection Array'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23*'</td></tr></table>]|
 ||||

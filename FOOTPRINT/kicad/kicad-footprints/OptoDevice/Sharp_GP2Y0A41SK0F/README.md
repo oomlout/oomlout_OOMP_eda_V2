@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-OptoDevice-Sharp_GP2Y0A41SK0F|
 |Hex ID (short code)|hexID|FZKOPSHARPGP2YA41SKF|
 |name|name|OptoDevice : Sharp_GP2Y0A41SK0F|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Sharp_GP2Y0A41SK0F', 'description': 'http://www.sharp-world.com/products/device/lineup/data/pdf/datasheet/gp2y0a41sk_e.pdf', 'tags': 'Distance Sensor Sharp', 'attributeType': None, 'threeDModel': '${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/Sharp_GP2Y0A41SK0F.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Sharp_GP2Y0A41SK0F'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//www.sharp-world.com/products/device/lineup/data/pdf/datasheet/gp2y0a41sk_e.pdf'</td><td> 'tags'</td></tr><tr><td> 'Distance Sensor Sharp'</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/OptoDevice.3dshapes/Sharp_GP2Y0A41SK0F.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

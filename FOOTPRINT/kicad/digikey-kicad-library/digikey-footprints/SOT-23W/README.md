@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SOT-23W|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSOT23W|
 |name|name|digikey-footprints : SOT-23W|
-|Footprint Kicad|footprintKicadDetails|{'name': 'SOT-23W', 'description': 'file:///C:/Users/alex_wegscheid/Downloads/A1324-5-6-Datasheet%20(2).pdf', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SOT-23W'</td><td> 'description'</td></tr><tr><td> 'file</td></tr><tr><td>///C</td></tr><tr><td>/Users/alex_wegscheid/Downloads/A1324-5-6-Datasheet%20(2).pdf'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Display_7Segment-D1X8K|
 |Hex ID (short code)|hexID|FZKDI7SD1X8K|
 |name|name|Display_7Segment : D1X8K|
-|Footprint Kicad|footprintKicadDetails|{'name': 'D1X8K', 'description': 'https://ia800903.us.archive.org/24/items/CTKD1x8K/Cromatek%20D168K.pdf', 'tags': 'Single digit 7 segment ultra bright red', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Display_7Segment.3dshapes/D1X8K.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'D1X8K'</td><td> 'description'</td></tr><tr><td> 'https</td></tr><tr><td>//ia800903.us.archive.org/24/items/CTKD1x8K/Cromatek%20D168K.pdf'</td><td> 'tags'</td></tr><tr><td> 'Single digit 7 segment ultra bright red'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Display_7Segment.3dshapes/D1X8K.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

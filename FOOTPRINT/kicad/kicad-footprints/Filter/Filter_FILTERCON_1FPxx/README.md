@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Filter-Filter_FILTERCON_1FPxx|
 |Hex ID (short code)|hexID|FZKFILFILFILCON1FPXX|
 |name|name|Filter : Filter_FILTERCON_1FPxx|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Filter_FILTERCON_1FPxx', 'description': '0.5A, 250VAC, 50/60Hz line filter (https://filtercon.com.pl/wp-content/uploads/2019/07/Karta-katalogowa-FP-12-1.pdf)', 'tags': 'EMI filter', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Filter.3dshapes/Filter_FILTERCON_1FPxx.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Filter_FILTERCON_1FPxx'</td><td> 'description'</td></tr><tr><td> '0.5A</td><td> 250VAC</td><td> 50/60Hz line filter (https</td></tr><tr><td>//filtercon.com.pl/wp-content/uploads/2019/07/Karta-katalogowa-FP-12-1.pdf)'</td><td> 'tags'</td></tr><tr><td> 'EMI filter'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Filter.3dshapes/Filter_FILTERCON_1FPxx.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

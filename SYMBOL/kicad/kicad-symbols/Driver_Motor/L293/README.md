@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDRIVERMOTORL293 > L293
+# SZKDRIVERMOTORL293 > Driver_Motor : L293
 
 - ID: SYMBOL-kicad-kicad-symbols-Driver_Motor-L293
 - Hex ID: SZKDRIVERMOTORL293
-- Name: L293
-- Description: L293
+- Name: Driver_Motor : L293
+- Description: Driver_Motor : L293
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Motor-L293](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Motor-L293)
 - Short Link: [http://oom.lt/SZKDRIVERMOTORL293](http://oom.lt/SZKDRIVERMOTORL293)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|L293|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Driver_Motor-L293|
 |Hex ID (short code)|hexID|SZKDRIVERMOTORL293|
-|name|name|L293|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'L293', 'kicadSymbolFootprint': 'Package_DIP:DIP-16_W7.62mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/l293.pdf', 'kicadSymbolki_keywords': 'Half-H Driver Motor', 'kicadSymbolki_description': 'Quadruple Half-H Drivers', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
+|name|name|Driver_Motor : L293|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'L293'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>DIP-16_W7.62mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/l293.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Half-H Driver Motor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Quadruple Half-H Drivers'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W7.62mm*'</td></tr></table>]|
 ||||

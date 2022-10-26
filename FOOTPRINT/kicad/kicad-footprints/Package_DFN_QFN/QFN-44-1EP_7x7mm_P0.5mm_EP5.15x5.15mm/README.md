@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-QFN-44-1EP_7x7mm_P0.5mm_EP5.15x5.15mm|
 |Hex ID (short code)|hexID|FZKDFNQFN441EP7X7P5EP515X515|
 |name|name|Package_DFN_QFN : QFN-44-1EP_7x7mm_P0.5mm_EP5.15x5.15mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'QFN-44-1EP_7x7mm_P0.5mm_EP5.15x5.15mm', 'description': 'QFN, 44 Pin (http://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/ltc-legacy-qfn/QFN_44_05-08-1763.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py', 'tags': 'QFN NoLead', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/QFN-44-1EP_7x7mm_P0.5mm_EP5.15x5.15mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'QFN-44-1EP_7x7mm_P0.5mm_EP5.15x5.15mm'</td><td> 'description'</td></tr><tr><td> 'QFN</td><td> 44 Pin (http</td></tr><tr><td>//www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/ltc-legacy-qfn/QFN_44_05-08-1763.pdf)</td><td> generated with kicad-footprint-generator ipc_noLead_generator.py'</td><td> 'tags'</td></tr><tr><td> 'QFN NoLead'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DFN_QFN.3dshapes/QFN-44-1EP_7x7mm_P0.5mm_EP5.15x5.15mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

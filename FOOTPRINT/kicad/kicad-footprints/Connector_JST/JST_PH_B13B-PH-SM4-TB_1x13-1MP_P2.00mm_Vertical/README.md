@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_PH_B13B-PH-SM4-TB_1x13-1MP_P2.00mm_Vertical|
 |Hex ID (short code)|hexID|FZKCNJSTJSTPHB13BPHSM4TB1X131MPP2VERTICAL|
 |name|name|Connector_JST : JST_PH_B13B-PH-SM4-TB_1x13-1MP_P2.00mm_Vertical|
-|Footprint Kicad|footprintKicadDetails|{'name': 'JST_PH_B13B-PH-SM4-TB_1x13-1MP_P2.00mm_Vertical', 'description': 'JST PH series connector, B13B-PH-SM4-TB (http://www.jst-mfg.com/product/pdf/eng/ePH.pdf), generated with kicad-footprint-generator', 'tags': 'connector JST PH side entry', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_JST.3dshapes/JST_PH_B13B-PH-SM4-TB_1x13-1MP_P2.00mm_Vertical.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'JST_PH_B13B-PH-SM4-TB_1x13-1MP_P2.00mm_Vertical'</td><td> 'description'</td></tr><tr><td> 'JST PH series connector</td><td> B13B-PH-SM4-TB (http</td></tr><tr><td>//www.jst-mfg.com/product/pdf/eng/ePH.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'connector JST PH side entry'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_JST.3dshapes/JST_PH_B13B-PH-SM4-TB_1x13-1MP_P2.00mm_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

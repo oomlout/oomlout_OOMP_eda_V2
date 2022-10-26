@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKCONIA483D > IA4803D
+# SZKCONIA483D > Converter_DCDC : IA4803D
 
 - ID: SYMBOL-kicad-kicad-symbols-Converter_DCDC-IA4803D
 - Hex ID: SZKCONIA483D
-- Name: IA4803D
-- Description: IA4803D
+- Name: Converter_DCDC : IA4803D
+- Description: Converter_DCDC : IA4803D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-IA4803D](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-IA4803D)
 - Short Link: [http://oom.lt/SZKCONIA483D](http://oom.lt/SZKCONIA483D)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IA4803D|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Converter_DCDC-IA4803D|
 |Hex ID (short code)|hexID|SZKCONIA483D|
-|name|name|IA4803D|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'PS', 'kicadSymbolValue': 'IA4803D', 'kicadSymbolFootprint': 'Converter_DCDC:Converter_DCDC_XP_POWER-IA48xxD_THT', 'kicadSymbolDatasheet': 'https://www.xppower.com/pdfs/SF_IA.pdf', 'kicadSymbolki_keywords': 'XP_POWER DC/DC isolated Converter module', 'kicadSymbolki_description': 'XP Power 1W, 1000 VDC Isolated DC/DC Converter Module, Dual Output Voltage ±3.3V, ±151mA, 48V Input Voltage, DIP', 'kicadSymbolki_fp_filters': '*XP?POWER?IA48xxD*'}]|
+|name|name|Converter_DCDC : IA4803D|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'PS'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'IA4803D'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Converter_DCDC</td></tr><tr><td>Converter_DCDC_XP_POWER-IA48xxD_THT'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.xppower.com/pdfs/SF_IA.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'XP_POWER DC/DC isolated Converter module'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'XP Power 1W</td><td> 1000 VDC Isolated DC/DC Converter Module</td><td> Dual Output Voltage ±3.3V</td><td> ±151mA</td><td> 48V Input Voltage</td><td> DIP'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> '*XP?POWER?IA48xxD*'</td></tr></table>]|
 ||||

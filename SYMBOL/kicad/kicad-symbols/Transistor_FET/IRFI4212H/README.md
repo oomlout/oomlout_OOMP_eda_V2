@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORFETIRFI4212H > IRFI4212H
+# SZKTRANSISTORFETIRFI4212H > Transistor_FET : IRFI4212H
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-IRFI4212H
 - Hex ID: SZKTRANSISTORFETIRFI4212H
-- Name: IRFI4212H
-- Description: IRFI4212H
+- Name: Transistor_FET : IRFI4212H
+- Description: Transistor_FET : IRFI4212H
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRFI4212H](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRFI4212H)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETIRFI4212H](http://oom.lt/SZKTRANSISTORFETIRFI4212H)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IRFI4212H|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-IRFI4212H|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETIRFI4212H|
-|name|name|IRFI4212H|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'IRFI4019H', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'IRFI4212H', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-220F-5_P3.4x2.06mm_StaggerEven_Lead1.86mm_Vertical', 'kicadSymbolDatasheet': 'https://www.infineon.com/dgdl/irfi4212h-117p.pdf?fileId=5546d462533600a401535623fc841f7a', 'kicadSymbolki_keywords': 'Dual N-Channel MOSFET Half-Bridge', 'kicadSymbolki_description': '11A Id, 100V Vds, 58mOhm Rds, Dual Half Bridge N-Channel MOSFET, TO-220-5', 'kicadSymbolki_fp_filters': 'TO?220F*P3.4x2.06mm*StaggerEven*Lead1.86mm*'}]|
+|name|name|Transistor_FET : IRFI4212H|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'IRFI4019H'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'IRFI4212H'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_THT</td></tr><tr><td>TO-220F-5_P3.4x2.06mm_StaggerEven_Lead1.86mm_Vertical'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.infineon.com/dgdl/irfi4212h-117p.pdf?fileId=5546d462533600a401535623fc841f7a'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Dual N-Channel MOSFET Half-Bridge'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '11A Id</td><td> 100V Vds</td><td> 58mOhm Rds</td><td> Dual Half Bridge N-Channel MOSFET</td><td> TO-220-5'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TO?220F*P3.4x2.06mm*StaggerEven*Lead1.86mm*'</td></tr></table>]|
 ||||

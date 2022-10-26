@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKSENTEMPERATURETMP175DGK > TMP1075DGK
+# SZKSENTEMPERATURETMP175DGK > Sensor_Temperature : TMP1075DGK
 
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Temperature-TMP1075DGK
 - Hex ID: SZKSENTEMPERATURETMP175DGK
-- Name: TMP1075DGK
-- Description: TMP1075DGK
+- Name: Sensor_Temperature : TMP1075DGK
+- Description: Sensor_Temperature : TMP1075DGK
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-TMP1075DGK](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-TMP1075DGK)
 - Short Link: [http://oom.lt/SZKSENTEMPERATURETMP175DGK](http://oom.lt/SZKSENTEMPERATURETMP175DGK)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TMP1075DGK|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Temperature-TMP1075DGK|
 |Hex ID (short code)|hexID|SZKSENTEMPERATURETMP175DGK|
-|name|name|TMP1075DGK|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TMP1075DGK', 'kicadSymbolFootprint': 'Package_SO:VSSOP-8_3.0x3.0mm_P0.65mm', 'kicadSymbolDatasheet': 'https://www.ti.com/lit/gpn/tmp1075', 'kicadSymbolki_keywords': 'temperature sensor I2C single channel', 'kicadSymbolki_description': 'I2C-bus digital temperature sensor and thermal watchdog, VSSOP-8', 'kicadSymbolki_fp_filters': 'VSSOP*3.0x3.0mm*P0.65mm*'}]|
+|name|name|Sensor_Temperature : TMP1075DGK|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TMP1075DGK'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>VSSOP-8_3.0x3.0mm_P0.65mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.ti.com/lit/gpn/tmp1075'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'temperature sensor I2C single channel'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'I2C-bus digital temperature sensor and thermal watchdog</td><td> VSSOP-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'VSSOP*3.0x3.0mm*P0.65mm*'</td></tr></table>]|
 ||||

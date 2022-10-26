@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKCPLDALTERAEP121 > EP1210
+# SZKCPLDALTERAEP121 > CPLD_Altera : EP1210
 
 - ID: SYMBOL-kicad-kicad-symbols-CPLD_Altera-EP1210
 - Hex ID: SZKCPLDALTERAEP121
-- Name: EP1210
-- Description: EP1210
+- Name: CPLD_Altera : EP1210
+- Description: CPLD_Altera : EP1210
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-CPLD_Altera-EP1210](http://oom.lt/SYMBOL-kicad-kicad-symbols-CPLD_Altera-EP1210)
 - Short Link: [http://oom.lt/SZKCPLDALTERAEP121](http://oom.lt/SZKCPLDALTERAEP121)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|EP1210|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-CPLD_Altera-EP1210|
 |Hex ID (short code)|hexID|SZKCPLDALTERAEP121|
-|name|name|EP1210|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'EP1210', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'EPLD', 'kicadSymbolki_description': 'EPLD'}]|
+|name|name|CPLD_Altera : EP1210|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'EP1210'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'EPLD'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'EPLD'</td></tr></table>]|
 ||||

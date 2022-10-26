@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKPOWERPRIHI > PRI_HI
+# SZKPOWERPRIHI > power : PRI_HI
 
 - ID: SYMBOL-kicad-kicad-symbols-power-PRI_HI
 - Hex ID: SZKPOWERPRIHI
-- Name: PRI_HI
-- Description: PRI_HI
+- Name: power : PRI_HI
+- Description: power : PRI_HI
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-power-PRI_HI](http://oom.lt/SYMBOL-kicad-kicad-symbols-power-PRI_HI)
 - Short Link: [http://oom.lt/SZKPOWERPRIHI](http://oom.lt/SZKPOWERPRIHI)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PRI_HI|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-power-PRI_HI|
 |Hex ID (short code)|hexID|SZKPOWERPRIHI|
-|name|name|PRI_HI|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': '#PWR', 'kicadSymbolValue': 'PRI_HI', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_keywords': 'power-flag', 'kicadSymbolki_description': 'Power symbol creates a global label with name "PRI_HI"'}]|
+|name|name|power : PRI_HI|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> '#PWR'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'PRI_HI'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'power-flag'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Power symbol creates a global label with name "PRI_HI"'</td></tr></table>]|
 ||||

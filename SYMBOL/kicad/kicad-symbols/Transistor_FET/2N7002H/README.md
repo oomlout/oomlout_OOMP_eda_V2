@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORFET2N72H > 2N7002H
+# SZKTRANSISTORFET2N72H > Transistor_FET : 2N7002H
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-2N7002H
 - Hex ID: SZKTRANSISTORFET2N72H
-- Name: 2N7002H
-- Description: 2N7002H
+- Name: Transistor_FET : 2N7002H
+- Description: Transistor_FET : 2N7002H
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-2N7002H](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-2N7002H)
 - Short Link: [http://oom.lt/SZKTRANSISTORFET2N72H](http://oom.lt/SZKTRANSISTORFET2N72H)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|2N7002H|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-2N7002H|
 |Hex ID (short code)|hexID|SZKTRANSISTORFET2N72H|
-|name|name|2N7002H|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BSS138', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': '2N7002H', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23', 'kicadSymbolDatasheet': 'http://www.diodes.com/assets/Datasheets/2N7002H.pdf', 'kicadSymbolki_keywords': 'N-Channel MOSFET', 'kicadSymbolki_description': '0.21A Id, 60V Vds, N-Channel MOSFET, SOT-23', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
+|name|name|Transistor_FET : 2N7002H|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'BSS138'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> '2N7002H'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-23'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.diodes.com/assets/Datasheets/2N7002H.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'N-Channel MOSFET'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '0.21A Id</td><td> 60V Vds</td><td> N-Channel MOSFET</td><td> SOT-23'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23*'</td></tr></table>]|
 ||||

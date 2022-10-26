@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTIMERPLLICS5251R > ICS525-01R
+# SZKTIMERPLLICS5251R > Timer_PLL : ICS525-01R
 
 - ID: SYMBOL-kicad-kicad-symbols-Timer_PLL-ICS525-01R
 - Hex ID: SZKTIMERPLLICS5251R
-- Name: ICS525-01R
-- Description: ICS525-01R
+- Name: Timer_PLL : ICS525-01R
+- Description: Timer_PLL : ICS525-01R
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer_PLL-ICS525-01R](http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer_PLL-ICS525-01R)
 - Short Link: [http://oom.lt/SZKTIMERPLLICS5251R](http://oom.lt/SZKTIMERPLLICS5251R)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ICS525-01R|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Timer_PLL-ICS525-01R|
 |Hex ID (short code)|hexID|SZKTIMERPLLICS5251R|
-|name|name|ICS525-01R|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ICS525-01R', 'kicadSymbolFootprint': 'Package_SO:SSOP-28_3.9x9.9mm_P0.635mm', 'kicadSymbolDatasheet': 'https://www.idt.com/document/dst/525-01-02-datasheet', 'kicadSymbolki_keywords': 'Configurable clock', 'kicadSymbolki_description': 'User configurable clock up to 160 MHz, SSOP-28', 'kicadSymbolki_fp_filters': 'SSOP*3.9x9.9mm*P0.635mm*'}]|
+|name|name|Timer_PLL : ICS525-01R|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ICS525-01R'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SSOP-28_3.9x9.9mm_P0.635mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.idt.com/document/dst/525-01-02-datasheet'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Configurable clock'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'User configurable clock up to 160 MHz</td><td> SSOP-28'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SSOP*3.9x9.9mm*P0.635mm*'</td></tr></table>]|
 ||||

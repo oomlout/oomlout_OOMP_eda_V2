@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKPOWERPROTECTIONPRTR5VU2X > PRTR5V0U2X
+# SZKPOWERPROTECTIONPRTR5VU2X > Power_Protection : PRTR5V0U2X
 
 - ID: SYMBOL-kicad-kicad-symbols-Power_Protection-PRTR5V0U2X
 - Hex ID: SZKPOWERPROTECTIONPRTR5VU2X
-- Name: PRTR5V0U2X
-- Description: PRTR5V0U2X
+- Name: Power_Protection : PRTR5V0U2X
+- Description: Power_Protection : PRTR5V0U2X
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-PRTR5V0U2X](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-PRTR5V0U2X)
 - Short Link: [http://oom.lt/SZKPOWERPROTECTIONPRTR5VU2X](http://oom.lt/SZKPOWERPROTECTIONPRTR5VU2X)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PRTR5V0U2X|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Protection-PRTR5V0U2X|
 |Hex ID (short code)|hexID|SZKPOWERPROTECTIONPRTR5VU2X|
-|name|name|PRTR5V0U2X|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'PRTR5V0U2X', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-143', 'kicadSymbolDatasheet': 'https://assets.nexperia.com/documents/data-sheet/PRTR5V0U2X.pdf', 'kicadSymbolki_keywords': 'ESD protection diode', 'kicadSymbolki_description': 'Ultra low capacitance double rail-to-rail ESD protection diode, SOT-143', 'kicadSymbolki_fp_filters': 'SOT?143*'}]|
+|name|name|Power_Protection : PRTR5V0U2X|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'PRTR5V0U2X'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-143'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//assets.nexperia.com/documents/data-sheet/PRTR5V0U2X.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'ESD protection diode'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Ultra low capacitance double rail-to-rail ESD protection diode</td><td> SOT-143'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?143*'</td></tr></table>]|
 ||||

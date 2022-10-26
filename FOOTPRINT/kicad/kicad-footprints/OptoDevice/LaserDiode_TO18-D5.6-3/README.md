@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-OptoDevice-LaserDiode_TO18-D5.6-3|
 |Hex ID (short code)|hexID|FZKOPLASERDIODETO18D563|
 |name|name|OptoDevice : LaserDiode_TO18-D5.6-3|
-|Footprint Kicad|footprintKicadDetails|{'name': 'LaserDiode_TO18-D5.6-3', 'description': 'Laser Diode, TO18-like (D=5.6mm), 3pin', 'tags': 'Laser Diode TO18-like', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/LaserDiode_TO18-D5.6-3.wrl', 'pins': {'type': 'thru_hole', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'LaserDiode_TO18-D5.6-3'</td><td> 'description'</td></tr><tr><td> 'Laser Diode</td><td> TO18-like (D=5.6mm)</td><td> 3pin'</td><td> 'tags'</td></tr><tr><td> 'Laser Diode TO18-like'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/OptoDevice.3dshapes/LaserDiode_TO18-D5.6-3.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

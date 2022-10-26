@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_SPST_Omron-G5Q-1A|
 |Hex ID (short code)|hexID|FZKRELRELAYSPSTOMRONG5Q1A|
 |name|name|Relay_THT : Relay_SPST_Omron-G5Q-1A|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Relay_SPST_Omron-G5Q-1A', 'description': 'Relay SPST-NO Omron Serie G5Q, http://omronfs.omron.com/en_US/ecb/products/pdf/en-g5q.pdf', 'tags': 'Relay SPST-NO Omron Serie G5Q', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Relay_THT.3dshapes/Relay_SPST_Omron-G5Q-1A.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Relay_SPST_Omron-G5Q-1A'</td><td> 'description'</td></tr><tr><td> 'Relay SPST-NO Omron Serie G5Q</td><td> http</td></tr><tr><td>//omronfs.omron.com/en_US/ecb/products/pdf/en-g5q.pdf'</td><td> 'tags'</td></tr><tr><td> 'Relay SPST-NO Omron Serie G5Q'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Relay_THT.3dshapes/Relay_SPST_Omron-G5Q-1A.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

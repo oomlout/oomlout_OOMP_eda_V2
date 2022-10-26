@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKRELAYADW11 > ADW11
+# SZKRELAYADW11 > Relay : ADW11
 
 - ID: SYMBOL-kicad-kicad-symbols-Relay-ADW11
 - Hex ID: SZKRELAYADW11
-- Name: ADW11
-- Description: ADW11
+- Name: Relay : ADW11
+- Description: Relay : ADW11
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-ADW11](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-ADW11)
 - Short Link: [http://oom.lt/SZKRELAYADW11](http://oom.lt/SZKRELAYADW11)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ADW11|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Relay-ADW11|
 |Hex ID (short code)|hexID|SZKRELAYADW11|
-|name|name|ADW11|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'K', 'kicadSymbolValue': 'ADW11', 'kicadSymbolFootprint': 'Relay_THT:Relay_1P1T_NO_10x24x18.8mm_Panasonic_ADW11xxxxW_THT', 'kicadSymbolDatasheet': 'https://www.panasonic-electric-works.com/pew/es/downloads/ds_dw_hl_en.pdf', 'kicadSymbolki_keywords': 'SPST 1P1T', 'kicadSymbolki_description': 'Panasonic, 8A/16A, Small Polarized Latching Power Relays, Single coil, 1 Form A', 'kicadSymbolki_fp_filters': 'Relay*1P1T*NO*Panasonic*ADW11xxxxW*'}]|
+|name|name|Relay : ADW11|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'K'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ADW11'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Relay_THT</td></tr><tr><td>Relay_1P1T_NO_10x24x18.8mm_Panasonic_ADW11xxxxW_THT'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.panasonic-electric-works.com/pew/es/downloads/ds_dw_hl_en.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'SPST 1P1T'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Panasonic</td><td> 8A/16A</td><td> Small Polarized Latching Power Relays</td><td> Single coil</td><td> 1 Form A'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Relay*1P1T*NO*Panasonic*ADW11xxxxW*'</td></tr></table>]|
 ||||

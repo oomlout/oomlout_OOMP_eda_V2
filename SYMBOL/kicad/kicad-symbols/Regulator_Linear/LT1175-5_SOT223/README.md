@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORLINEARLT11755SOT223 > LT1175-5_SOT223
+# SZKREGULATORLINEARLT11755SOT223 > Regulator_Linear : LT1175-5_SOT223
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT1175-5_SOT223
 - Hex ID: SZKREGULATORLINEARLT11755SOT223
-- Name: LT1175-5_SOT223
-- Description: LT1175-5_SOT223
+- Name: Regulator_Linear : LT1175-5_SOT223
+- Description: Regulator_Linear : LT1175-5_SOT223
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT1175-5_SOT223](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT1175-5_SOT223)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARLT11755SOT223](http://oom.lt/SZKREGULATORLINEARLT11755SOT223)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LT1175-5_SOT223|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT1175-5_SOT223|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARLT11755SOT223|
-|name|name|LT1175-5_SOT223|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LT1175-5_SOT223', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-223-3_TabPin2', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/1175ff.pdf', 'kicadSymbolki_keywords': 'linear regulator LDO negative fixed', 'kicadSymbolki_description': '500mA Negative Low Dropout Micropower Regulator, fixed output voltage -5V, SOT-223', 'kicadSymbolki_fp_filters': 'SOT?223*'}]|
+|name|name|Regulator_Linear : LT1175-5_SOT223|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LT1175-5_SOT223'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-223-3_TabPin2'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/1175ff.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'linear regulator LDO negative fixed'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '500mA Negative Low Dropout Micropower Regulator</td><td> fixed output voltage -5V</td><td> SOT-223'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?223*'</td></tr></table>]|
 ||||

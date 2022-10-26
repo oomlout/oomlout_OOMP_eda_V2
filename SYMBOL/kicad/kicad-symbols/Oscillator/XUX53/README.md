@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKOCSXUX53 > XUX53
+# SZKOCSXUX53 > Oscillator : XUX53
 
 - ID: SYMBOL-kicad-kicad-symbols-Oscillator-XUX53
 - Hex ID: SZKOCSXUX53
-- Name: XUX53
-- Description: XUX53
+- Name: Oscillator : XUX53
+- Description: Oscillator : XUX53
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-XUX53](http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-XUX53)
 - Short Link: [http://oom.lt/SZKOCSXUX53](http://oom.lt/SZKOCSXUX53)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|XUX53|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Oscillator-XUX53|
 |Hex ID (short code)|hexID|SZKOCSXUX53|
-|name|name|XUX53|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'XUX51', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'XUX53', 'kicadSymbolFootprint': 'Oscillator:Oscillator_SMD_IDT_JS6-6_5.0x3.2mm_P1.27mm', 'kicadSymbolDatasheet': 'https://www.idt.com/document/dst/xu-family-datasheet', 'kicadSymbolki_keywords': 'OTP XHCMOS 3.3V VCXO', 'kicadSymbolki_description': 'Low phase noise, quartz-based PLL oscillator, 0.016-1500 MHz, complementary output', 'kicadSymbolki_fp_filters': 'Oscillator*JS6*'}]|
+|name|name|Oscillator : XUX53|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'XUX51'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'XUX53'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Oscillator</td></tr><tr><td>Oscillator_SMD_IDT_JS6-6_5.0x3.2mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.idt.com/document/dst/xu-family-datasheet'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'OTP XHCMOS 3.3V VCXO'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Low phase noise</td><td> quartz-based PLL oscillator</td><td> 0.016-1500 MHz</td><td> complementary output'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Oscillator*JS6*'</td></tr></table>]|
 ||||

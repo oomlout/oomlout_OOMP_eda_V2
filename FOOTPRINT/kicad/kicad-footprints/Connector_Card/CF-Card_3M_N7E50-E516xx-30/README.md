@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Card-CF-Card_3M_N7E50-E516xx-30|
 |Hex ID (short code)|hexID|FZKCNCARDCFCARD3MN7E5E516XX3|
 |name|name|Connector_Card : CF-Card_3M_N7E50-E516xx-30|
-|Footprint Kicad|footprintKicadDetails|{'name': 'CF-Card_3M_N7E50-E516xx-30', 'description': 'Compact Flash Card connector, normal polarization (https://multimedia.3m.com/mws/media/22424O/3mtm-cf-card-header-type-i-low-profile-surface-mount-ts0747.pdf)', 'tags': 'connector cf', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_Card.3dshapes/CF-Card_3M_N7E50-E516xx-30.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'CF-Card_3M_N7E50-E516xx-30'</td><td> 'description'</td></tr><tr><td> 'Compact Flash Card connector</td><td> normal polarization (https</td></tr><tr><td>//multimedia.3m.com/mws/media/22424O/3mtm-cf-card-header-type-i-low-profile-surface-mount-ts0747.pdf)'</td><td> 'tags'</td></tr><tr><td> 'connector cf'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_Card.3dshapes/CF-Card_3M_N7E50-E516xx-30.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

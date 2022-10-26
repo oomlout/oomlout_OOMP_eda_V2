@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKSENOPTICALSFH216 > SFH216
+# SZKSENOPTICALSFH216 > Sensor_Optical : SFH216
 
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Optical-SFH216
 - Hex ID: SZKSENOPTICALSFH216
-- Name: SFH216
-- Description: SFH216
+- Name: Sensor_Optical : SFH216
+- Description: Sensor_Optical : SFH216
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-SFH216](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-SFH216)
 - Short Link: [http://oom.lt/SZKSENOPTICALSFH216](http://oom.lt/SZKSENOPTICALSFH216)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SFH216|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Optical-SFH216|
 |Hex ID (short code)|hexID|SZKSENOPTICALSFH216|
-|name|name|SFH216|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'SFH216', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-18-2_Window', 'kicadSymbolDatasheet': 'http://www.osram-os.com/Graphics/XPic1/00029253_0.pdf/SFH', 'kicadSymbolki_keywords': 'opto PIN photo diode', 'kicadSymbolki_description': 'Silicon PIN Photodiode With Very Short Switching Time, TO-18 package', 'kicadSymbolki_fp_filters': 'TO?18*Window*'}]|
+|name|name|Sensor_Optical : SFH216|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'SFH216'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_THT</td></tr><tr><td>TO-18-2_Window'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.osram-os.com/Graphics/XPic1/00029253_0.pdf/SFH'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'opto PIN photo diode'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Silicon PIN Photodiode With Very Short Switching Time</td><td> TO-18 package'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TO?18*Window*'</td></tr></table>]|
 ||||

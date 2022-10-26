@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORSWITCHINGTOP256EN > TOP256EN
+# SZKREGULATORSWITCHINGTOP256EN > Regulator_Switching : TOP256EN
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-TOP256EN
 - Hex ID: SZKREGULATORSWITCHINGTOP256EN
-- Name: TOP256EN
-- Description: TOP256EN
+- Name: Regulator_Switching : TOP256EN
+- Description: Regulator_Switching : TOP256EN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TOP256EN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TOP256EN)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGTOP256EN](http://oom.lt/SZKREGULATORSWITCHINGTOP256EN)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TOP256EN|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-TOP256EN|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGTOP256EN|
-|name|name|TOP256EN|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TOP252EN', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TOP256EN', 'kicadSymbolFootprint': 'Package_SIP:PowerIntegrations_eSIP-7C', 'kicadSymbolDatasheet': 'https://ac-dc.power.com/sites/default/files/product-docs/topswitch-hx_family_datasheet.pdf', 'kicadSymbolki_keywords': 'Eco Smart Off-Line Switcher, Extendend Power Range', 'kicadSymbolki_description': 'TOPSwitch-HX Family, 86W Output Power', 'kicadSymbolki_fp_filters': 'PowerIntegrations?eSIP?7C*'}]|
+|name|name|Regulator_Switching : TOP256EN|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'TOP252EN'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TOP256EN'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SIP</td></tr><tr><td>PowerIntegrations_eSIP-7C'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//ac-dc.power.com/sites/default/files/product-docs/topswitch-hx_family_datasheet.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Eco Smart Off-Line Switcher</td><td> Extendend Power Range'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'TOPSwitch-HX Family</td><td> 86W Output Power'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'PowerIntegrations?eSIP?7C*'</td></tr></table>]|
 ||||

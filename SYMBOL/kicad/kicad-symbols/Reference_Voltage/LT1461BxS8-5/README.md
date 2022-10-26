@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREFERENCEVOLTAGELT1461BXS85 > LT1461BxS8-5
+# SZKREFERENCEVOLTAGELT1461BXS85 > Reference_Voltage : LT1461BxS8-5
 
 - ID: SYMBOL-kicad-kicad-symbols-Reference_Voltage-LT1461BxS8-5
 - Hex ID: SZKREFERENCEVOLTAGELT1461BXS85
-- Name: LT1461BxS8-5
-- Description: LT1461BxS8-5
+- Name: Reference_Voltage : LT1461BxS8-5
+- Description: Reference_Voltage : LT1461BxS8-5
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-LT1461BxS8-5](http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-LT1461BxS8-5)
 - Short Link: [http://oom.lt/SZKREFERENCEVOLTAGELT1461BXS85](http://oom.lt/SZKREFERENCEVOLTAGELT1461BXS85)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LT1461BxS8-5|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Reference_Voltage-LT1461BxS8-5|
 |Hex ID (short code)|hexID|SZKREFERENCEVOLTAGELT1461BXS85|
-|name|name|LT1461BxS8-5|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LT1461AxS8-2.5', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LT1461BxS8-5', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/LT1461.pdf', 'kicadSymbolki_keywords': 'voltage reference precision', 'kicadSymbolki_description': 'Voltage Reference, +/-0.06%, 5V, 100mA, 5.5V-20V Vin, SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm*'}]|
+|name|name|Reference_Voltage : LT1461BxS8-5|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'LT1461AxS8-2.5'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LT1461BxS8-5'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-8_3.9x4.9mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/LT1461.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'voltage reference precision'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Voltage Reference</td><td> +/-0.06%</td><td> 5V</td><td> 100mA</td><td> 5.5V-20V Vin</td><td> SOIC-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*3.9x4.9mm*P1.27mm*'</td></tr></table>]|
 ||||

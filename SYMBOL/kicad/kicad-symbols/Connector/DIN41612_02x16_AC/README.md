@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKCNDIN416122X16AC > DIN41612_02x16_AC
+# SZKCNDIN416122X16AC > Connector : DIN41612_02x16_AC
 
 - ID: SYMBOL-kicad-kicad-symbols-Connector-DIN41612_02x16_AC
 - Hex ID: SZKCNDIN416122X16AC
-- Name: DIN41612_02x16_AC
-- Description: DIN41612_02x16_AC
+- Name: Connector : DIN41612_02x16_AC
+- Description: Connector : DIN41612_02x16_AC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-DIN41612_02x16_AC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-DIN41612_02x16_AC)
 - Short Link: [http://oom.lt/SZKCNDIN416122X16AC](http://oom.lt/SZKCNDIN416122X16AC)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DIN41612_02x16_AC|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-DIN41612_02x16_AC|
 |Hex ID (short code)|hexID|SZKCNDIN416122X16AC|
-|name|name|DIN41612_02x16_AC|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'DIN41612_02x16_AC', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'connector', 'kicadSymbolki_description': 'DIN41612 connector, double row (AC), 02x16, script generated (kicad-library-utils/schlib/autogen/connector/)', 'kicadSymbolki_fp_filters': 'DIN41612*2x*'}]|
+|name|name|Connector : DIN41612_02x16_AC|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'J'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'DIN41612_02x16_AC'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'connector'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'DIN41612 connector</td><td> double row (AC)</td><td> 02x16</td><td> script generated (kicad-library-utils/schlib/autogen/connector/)'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIN41612*2x*'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREFERENCEVOLTAGEMCP1541TO > MCP1541-TO
+# SZKREFERENCEVOLTAGEMCP1541TO > Reference_Voltage : MCP1541-TO
 
 - ID: SYMBOL-kicad-kicad-symbols-Reference_Voltage-MCP1541-TO
 - Hex ID: SZKREFERENCEVOLTAGEMCP1541TO
-- Name: MCP1541-TO
-- Description: MCP1541-TO
+- Name: Reference_Voltage : MCP1541-TO
+- Description: Reference_Voltage : MCP1541-TO
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-MCP1541-TO](http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-MCP1541-TO)
 - Short Link: [http://oom.lt/SZKREFERENCEVOLTAGEMCP1541TO](http://oom.lt/SZKREFERENCEVOLTAGEMCP1541TO)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MCP1541-TO|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Reference_Voltage-MCP1541-TO|
 |Hex ID (short code)|hexID|SZKREFERENCEVOLTAGEMCP1541TO|
-|name|name|MCP1541-TO|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MCP1525-TO', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MCP1541-TO', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-92_Inline', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/devicedoc/21653b.pdf', 'kicadSymbolki_keywords': 'Voltage Reference 4.096V', 'kicadSymbolki_description': '4.096V Voltage Reference, TO-92', 'kicadSymbolki_fp_filters': 'TO*92*'}]|
+|name|name|Reference_Voltage : MCP1541-TO|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'MCP1525-TO'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MCP1541-TO'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_THT</td></tr><tr><td>TO-92_Inline'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/devicedoc/21653b.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Voltage Reference 4.096V'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '4.096V Voltage Reference</td><td> TO-92'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TO*92*'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKFILBNX25 > BNX025
+# SZKFILBNX25 > Filter : BNX025
 
 - ID: SYMBOL-kicad-kicad-symbols-Filter-BNX025
 - Hex ID: SZKFILBNX25
-- Name: BNX025
-- Description: BNX025
+- Name: Filter : BNX025
+- Description: Filter : BNX025
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Filter-BNX025](http://oom.lt/SYMBOL-kicad-kicad-symbols-Filter-BNX025)
 - Short Link: [http://oom.lt/SZKFILBNX25](http://oom.lt/SZKFILBNX25)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BNX025|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Filter-BNX025|
 |Hex ID (short code)|hexID|SZKFILBNX25|
-|name|name|BNX025|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'FL', 'kicadSymbolValue': 'BNX025', 'kicadSymbolFootprint': 'Filter:Filter_Murata_BNX025', 'kicadSymbolDatasheet': 'https://www.murata.com/en-us/products/productdetail.aspx?cate=luNoiseSupprFilteBlockType&partno=BNX025H01%23', 'kicadSymbolki_keywords': 'EMI Filter SMD Murata', 'kicadSymbolki_description': 'EMI Filter SMD, Murata BNX025', 'kicadSymbolki_fp_filters': 'Filter*Murata*BNX025*'}]|
+|name|name|Filter : BNX025|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'FL'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'BNX025'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Filter</td></tr><tr><td>Filter_Murata_BNX025'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.murata.com/en-us/products/productdetail.aspx?cate=luNoiseSupprFilteBlockType&partno=BNX025H01%23'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'EMI Filter SMD Murata'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'EMI Filter SMD</td><td> Murata BNX025'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Filter*Murata*BNX025*'</td></tr></table>]|
 ||||

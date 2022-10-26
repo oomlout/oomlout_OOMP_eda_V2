@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUMCHIPATMEGAATMEGA644V1M > ATmega644V-10M
+# SZKMCUMCHIPATMEGAATMEGA644V1M > MCU_Microchip_ATmega : ATmega644V-10M
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega644V-10M
 - Hex ID: SZKMCUMCHIPATMEGAATMEGA644V1M
-- Name: ATmega644V-10M
-- Description: ATmega644V-10M
+- Name: MCU_Microchip_ATmega : ATmega644V-10M
+- Description: MCU_Microchip_ATmega : ATmega644V-10M
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega644V-10M](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega644V-10M)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATMEGAATMEGA644V1M](http://oom.lt/SZKMCUMCHIPATMEGAATMEGA644V1M)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ATmega644V-10M|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega644V-10M|
 |Hex ID (short code)|hexID|SZKMCUMCHIPATMEGAATMEGA644V1M|
-|name|name|ATmega644V-10M|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ATmega644V-10M', 'kicadSymbolFootprint': 'Package_DFN_QFN:QFN-44-1EP_7x7mm_P0.5mm_EP5.2x5.2mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/doc2593.pdf', 'kicadSymbolki_keywords': 'AVR 8bit Microcontroller MegaAVR', 'kicadSymbolki_description': '10MHz, 64kB Flash, 4kB SRAM, 2kB EEPROM, JTAG, QFN-44', 'kicadSymbolki_fp_filters': 'QFN*1EP*7x7mm*P0.5mm*'}]|
+|name|name|MCU_Microchip_ATmega : ATmega644V-10M|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ATmega644V-10M'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>QFN-44-1EP_7x7mm_P0.5mm_EP5.2x5.2mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/doc2593.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'AVR 8bit Microcontroller MegaAVR'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '10MHz</td><td> 64kB Flash</td><td> 4kB SRAM</td><td> 2kB EEPROM</td><td> JTAG</td><td> QFN-44'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'QFN*1EP*7x7mm*P0.5mm*'</td></tr></table>]|
 ||||

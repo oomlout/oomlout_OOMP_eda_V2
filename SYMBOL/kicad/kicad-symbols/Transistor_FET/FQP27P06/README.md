@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORFETFQP27P6 > FQP27P06
+# SZKTRANSISTORFETFQP27P6 > Transistor_FET : FQP27P06
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-FQP27P06
 - Hex ID: SZKTRANSISTORFETFQP27P6
-- Name: FQP27P06
-- Description: FQP27P06
+- Name: Transistor_FET : FQP27P06
+- Description: Transistor_FET : FQP27P06
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-FQP27P06](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-FQP27P06)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETFQP27P6](http://oom.lt/SZKTRANSISTORFETFQP27P6)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|FQP27P06|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-FQP27P06|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETFQP27P6|
-|name|name|FQP27P06|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'IRF9540N', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'FQP27P06', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-220-3_Vertical', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pub/Collateral/FQP27P06-D.PDF', 'kicadSymbolki_keywords': 'QFET P-Channel MOSFET', 'kicadSymbolki_description': '-27A Id, -60V Vds, QFET P-Channel MOSFET, TO-220', 'kicadSymbolki_fp_filters': 'TO?220*'}]|
+|name|name|Transistor_FET : FQP27P06|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'IRF9540N'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'FQP27P06'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_THT</td></tr><tr><td>TO-220-3_Vertical'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.onsemi.com/pub/Collateral/FQP27P06-D.PDF'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'QFET P-Channel MOSFET'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '-27A Id</td><td> -60V Vds</td><td> QFET P-Channel MOSFET</td><td> TO-220'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TO?220*'</td></tr></table>]|
 ||||

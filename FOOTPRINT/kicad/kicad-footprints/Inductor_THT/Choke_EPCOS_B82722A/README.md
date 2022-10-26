@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_THT-Choke_EPCOS_B82722A|
 |Hex ID (short code)|hexID|FZKINCHOKEEPCOSB82722A|
 |name|name|Inductor_THT : Choke_EPCOS_B82722A|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Choke_EPCOS_B82722A', 'description': 'Current-Compensated Ring Core Double Chokes, EPCOS, B82722A, 22.3mmx22.7mm, https://en.tdk.eu/inf/30/db/ind_2008/b82722a_j.pdf', 'tags': 'chokes epcos tht', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_THT.3dshapes/Choke_EPCOS_B82722A.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Choke_EPCOS_B82722A'</td><td> 'description'</td></tr><tr><td> 'Current-Compensated Ring Core Double Chokes</td><td> EPCOS</td><td> B82722A</td><td> 22.3mmx22.7mm</td><td> https</td></tr><tr><td>//en.tdk.eu/inf/30/db/ind_2008/b82722a_j.pdf'</td><td> 'tags'</td></tr><tr><td> 'chokes epcos tht'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Inductor_THT.3dshapes/Choke_EPCOS_B82722A.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

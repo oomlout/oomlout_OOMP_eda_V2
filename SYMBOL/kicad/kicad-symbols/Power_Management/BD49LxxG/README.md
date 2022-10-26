@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKPOWERMANAGEMENTBD49LXXG > BD49LxxG
+# SZKPOWERMANAGEMENTBD49LXXG > Power_Management : BD49LxxG
 
 - ID: SYMBOL-kicad-kicad-symbols-Power_Management-BD49LxxG
 - Hex ID: SZKPOWERMANAGEMENTBD49LXXG
-- Name: BD49LxxG
-- Description: BD49LxxG
+- Name: Power_Management : BD49LxxG
+- Description: Power_Management : BD49LxxG
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-BD49LxxG](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-BD49LxxG)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTBD49LXXG](http://oom.lt/SZKPOWERMANAGEMENTBD49LXXG)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BD49LxxG|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Management-BD49LxxG|
 |Hex ID (short code)|hexID|SZKPOWERMANAGEMENTBD49LXXG|
-|name|name|BD49LxxG|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BD48LxxG', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'BD49LxxG', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23', 'kicadSymbolDatasheet': 'https://www.rohm.de/datasheet/BD4830FVE/bd48xxg-e', 'kicadSymbolki_keywords': 'voltage detector cmos SSOP3', 'kicadSymbolki_description': 'Standard CMOS Voltage Detector IC, CMOS Output, SSOP3(3pin GND)', 'kicadSymbolki_fp_filters': '*SOT-23*'}]|
+|name|name|Power_Management : BD49LxxG|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'BD48LxxG'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'BD49LxxG'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-23'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.rohm.de/datasheet/BD4830FVE/bd48xxg-e'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'voltage detector cmos SSOP3'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Standard CMOS Voltage Detector IC</td><td> CMOS Output</td><td> SSOP3(3pin GND)'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> '*SOT-23*'</td></tr></table>]|
 ||||

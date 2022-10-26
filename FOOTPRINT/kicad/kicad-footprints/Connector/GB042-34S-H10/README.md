@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector-GB042-34S-H10|
 |Hex ID (short code)|hexID|FZKCNGB4234SH1|
 |name|name|Connector : GB042-34S-H10|
-|Footprint Kicad|footprintKicadDetails|{'name': 'GB042-34S-H10', 'description': 'http://www.lsmtron.com/pdf/Connector&Antenna_catalog.PDF', 'tags': '34pin SMD connector ', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector.3dshapes/GB042-34S-H10.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'GB042-34S-H10'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//www.lsmtron.com/pdf/Connector&Antenna_catalog.PDF'</td><td> 'tags'</td></tr><tr><td> '34pin SMD connector '</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector.3dshapes/GB042-34S-H10.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SIP-PowerIntegrations_eSIP-7C|
 |Hex ID (short code)|hexID|FZKSIPPOWERINTEGRATIONSESIP7C|
 |name|name|Package_SIP : PowerIntegrations_eSIP-7C|
-|Footprint Kicad|footprintKicadDetails|{'name': 'PowerIntegrations_eSIP-7C', 'description': 'eSIP-7C Vertical Flat Package with Heatsink Tab, https://ac-dc.power.com/sites/default/files/product-docs/topswitch-jx_family_datasheet.pdf', 'tags': 'Power Integrations E Package', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SIP.3dshapes/PowerIntegrations_eSIP-7C.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'PowerIntegrations_eSIP-7C'</td><td> 'description'</td></tr><tr><td> 'eSIP-7C Vertical Flat Package with Heatsink Tab</td><td> https</td></tr><tr><td>//ac-dc.power.com/sites/default/files/product-docs/topswitch-jx_family_datasheet.pdf'</td><td> 'tags'</td></tr><tr><td> 'Power Integrations E Package'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_SIP.3dshapes/PowerIntegrations_eSIP-7C.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_SUR_BM05B-SURS-TF_1x05-1MP_P0.80mm_Vertical|
 |Hex ID (short code)|hexID|FZKCNJSTJSTSURBM5BSURSTF1X51MPP8VERTICAL|
 |name|name|Connector_JST : JST_SUR_BM05B-SURS-TF_1x05-1MP_P0.80mm_Vertical|
-|Footprint Kicad|footprintKicadDetails|{'name': 'JST_SUR_BM05B-SURS-TF_1x05-1MP_P0.80mm_Vertical', 'description': 'JST SUR series connector, BM05B-SURS-TF (http://www.jst-mfg.com/product/pdf/eng/eSUR.pdf), generated with kicad-footprint-generator', 'tags': 'connector JST SUR side entry', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_JST.3dshapes/JST_SUR_BM05B-SURS-TF_1x05-1MP_P0.80mm_Vertical.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'JST_SUR_BM05B-SURS-TF_1x05-1MP_P0.80mm_Vertical'</td><td> 'description'</td></tr><tr><td> 'JST SUR series connector</td><td> BM05B-SURS-TF (http</td></tr><tr><td>//www.jst-mfg.com/product/pdf/eng/eSUR.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'connector JST SUR side entry'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_JST.3dshapes/JST_SUR_BM05B-SURS-TF_1x05-1MP_P0.80mm_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

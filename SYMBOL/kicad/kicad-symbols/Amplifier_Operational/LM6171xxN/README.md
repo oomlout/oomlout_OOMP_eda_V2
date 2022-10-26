@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKAMPLIFIEROPERATIONALLM6171XXN > LM6171xxN
+# SZKAMPLIFIEROPERATIONALLM6171XXN > Amplifier_Operational : LM6171xxN
 
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LM6171xxN
 - Hex ID: SZKAMPLIFIEROPERATIONALLM6171XXN
-- Name: LM6171xxN
-- Description: LM6171xxN
+- Name: Amplifier_Operational : LM6171xxN
+- Description: Amplifier_Operational : LM6171xxN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LM6171xxN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LM6171xxN)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALLM6171XXN](http://oom.lt/SZKAMPLIFIEROPERATIONALLM6171XXN)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM6171xxN|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LM6171xxN|
 |Hex ID (short code)|hexID|SZKAMPLIFIEROPERATIONALLM6171XXN|
-|name|name|LM6171xxN|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MCP601-xP', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM6171xxN', 'kicadSymbolFootprint': 'Package_DIP:DIP-8_W7.62mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lm6171.pdf', 'kicadSymbolki_keywords': 'single opamp', 'kicadSymbolki_description': 'Single High Speed Low Power Low Distortion Voltage Feedback Amplifier, DIP-8', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
+|name|name|Amplifier_Operational : LM6171xxN|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'MCP601-xP'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LM6171xxN'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>DIP-8_W7.62mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/lm6171.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'single opamp'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Single High Speed Low Power Low Distortion Voltage Feedback Amplifier</td><td> DIP-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W7.62mm*'</td></tr></table>]|
 ||||

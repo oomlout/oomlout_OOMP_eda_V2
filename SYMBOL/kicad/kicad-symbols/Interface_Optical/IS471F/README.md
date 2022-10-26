@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKINTERFACEOPTICALIS471F > IS471F
+# SZKINTERFACEOPTICALIS471F > Interface_Optical : IS471F
 
 - ID: SYMBOL-kicad-kicad-symbols-Interface_Optical-IS471F
 - Hex ID: SZKINTERFACEOPTICALIS471F
-- Name: IS471F
-- Description: IS471F
+- Name: Interface_Optical : IS471F
+- Description: Interface_Optical : IS471F
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Optical-IS471F](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Optical-IS471F)
 - Short Link: [http://oom.lt/SZKINTERFACEOPTICALIS471F](http://oom.lt/SZKINTERFACEOPTICALIS471F)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IS471F|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_Optical-IS471F|
 |Hex ID (short code)|hexID|SZKINTERFACEOPTICALIS471F|
-|name|name|IS471F|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'IS471F', 'kicadSymbolFootprint': 'OptoDevice:Sharp_IS471F', 'kicadSymbolDatasheet': 'http://www.micropik.com/PDF/tsop17xx.pdf', 'kicadSymbolki_keywords': 'opto IR receiver', 'kicadSymbolki_description': 'Photo Modules for PCM Remote Control Systems', 'kicadSymbolki_fp_filters': 'Sharp*IS471F*'}]|
+|name|name|Interface_Optical : IS471F|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'IS471F'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'OptoDevice</td></tr><tr><td>Sharp_IS471F'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.micropik.com/PDF/tsop17xx.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'opto IR receiver'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Photo Modules for PCM Remote Control Systems'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Sharp*IS471F*'</td></tr></table>]|
 ||||

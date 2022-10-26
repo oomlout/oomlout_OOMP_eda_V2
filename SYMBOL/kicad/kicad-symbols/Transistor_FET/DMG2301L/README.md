@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORFETDMG231L > DMG2301L
+# SZKTRANSISTORFETDMG231L > Transistor_FET : DMG2301L
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-DMG2301L
 - Hex ID: SZKTRANSISTORFETDMG231L
-- Name: DMG2301L
-- Description: DMG2301L
+- Name: Transistor_FET : DMG2301L
+- Description: Transistor_FET : DMG2301L
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-DMG2301L](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-DMG2301L)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETDMG231L](http://oom.lt/SZKTRANSISTORFETDMG231L)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DMG2301L|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-DMG2301L|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETDMG231L|
-|name|name|DMG2301L|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TP0610T', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'DMG2301L', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23', 'kicadSymbolDatasheet': 'https://www.diodes.com/assets/Datasheets/DMG2301L.pdf', 'kicadSymbolki_keywords': 'P-Channel MOSFET', 'kicadSymbolki_description': '-3A Id, -20V Vds, P-Channel MOSFET, SOT-23', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
+|name|name|Transistor_FET : DMG2301L|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'TP0610T'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'DMG2301L'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-23'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.diodes.com/assets/Datasheets/DMG2301L.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'P-Channel MOSFET'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '-3A Id</td><td> -20V Vds</td><td> P-Channel MOSFET</td><td> SOT-23'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23*'</td></tr></table>]|
 ||||

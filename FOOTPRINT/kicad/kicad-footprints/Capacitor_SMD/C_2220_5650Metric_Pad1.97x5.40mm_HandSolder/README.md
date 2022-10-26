@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_2220_5650Metric_Pad1.97x5.40mm_HandSolder|
 |Hex ID (short code)|hexID|FZKCAPACITORSMC222565METRICPAD197X54HANDSOLDER|
 |name|name|Capacitor_SMD : C_2220_5650Metric_Pad1.97x5.40mm_HandSolder|
-|Footprint Kicad|footprintKicadDetails|{'name': 'C_2220_5650Metric_Pad1.97x5.40mm_HandSolder', 'description': 'Capacitor SMD 2220 (5650 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size from: http://datasheets.avx.com/AVX-HV_MLCC.pdf), generated with kicad-footprint-generator', 'tags': 'capacitor handsolder', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_2220_5650Metric.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'C_2220_5650Metric_Pad1.97x5.40mm_HandSolder'</td><td> 'description'</td></tr><tr><td> 'Capacitor SMD 2220 (5650 Metric)</td><td> square (rectangular) end terminal</td><td> IPC_7351 nominal with elongated pad for handsoldering. (Body size from</td></tr><tr><td> http</td></tr><tr><td>//datasheets.avx.com/AVX-HV_MLCC.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'capacitor handsolder'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Capacitor_SMD.3dshapes/C_2220_5650Metric.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

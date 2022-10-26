@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKCNDB25FEMALE > DB25_Female
+# SZKCNDB25FEMALE > Connector : DB25_Female
 
 - ID: SYMBOL-kicad-kicad-symbols-Connector-DB25_Female
 - Hex ID: SZKCNDB25FEMALE
-- Name: DB25_Female
-- Description: DB25_Female
+- Name: Connector : DB25_Female
+- Description: Connector : DB25_Female
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-DB25_Female](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-DB25_Female)
 - Short Link: [http://oom.lt/SZKCNDB25FEMALE](http://oom.lt/SZKCNDB25FEMALE)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DB25_Female|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-DB25_Female|
 |Hex ID (short code)|hexID|SZKCNDB25FEMALE|
-|name|name|DB25_Female|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'DB25_Female', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ' ~', 'kicadSymbolki_keywords': 'female D-SUB connector', 'kicadSymbolki_description': '25-pin female D-SUB connector', 'kicadSymbolki_fp_filters': 'DSUB*Female*'}]|
+|name|name|Connector : DB25_Female|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'J'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'DB25_Female'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> ' ~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'female D-SUB connector'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '25-pin female D-SUB connector'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DSUB*Female*'</td></tr></table>]|
 ||||

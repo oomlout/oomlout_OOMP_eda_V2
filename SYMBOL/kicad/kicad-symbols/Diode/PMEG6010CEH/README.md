@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDIODEPMEG61CEH > PMEG6010CEH
+# SZKDIODEPMEG61CEH > Diode : PMEG6010CEH
 
 - ID: SYMBOL-kicad-kicad-symbols-Diode-PMEG6010CEH
 - Hex ID: SZKDIODEPMEG61CEH
-- Name: PMEG6010CEH
-- Description: PMEG6010CEH
+- Name: Diode : PMEG6010CEH
+- Description: Diode : PMEG6010CEH
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-PMEG6010CEH](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-PMEG6010CEH)
 - Short Link: [http://oom.lt/SZKDIODEPMEG61CEH](http://oom.lt/SZKDIODEPMEG61CEH)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PMEG6010CEH|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-PMEG6010CEH|
 |Hex ID (short code)|hexID|SZKDIODEPMEG61CEH|
-|name|name|PMEG6010CEH|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'PMEG2005EH', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'PMEG6010CEH', 'kicadSymbolFootprint': 'Diode_SMD:D_SOD-123F', 'kicadSymbolDatasheet': 'https://assets.nexperia.com/documents/data-sheet/PMEG6010CEH_PMEG6010CEJ.pdf', 'kicadSymbolki_keywords': 'forward voltage diode', 'kicadSymbolki_description': '60V, 1A very low Vf MEGA Schottky barrier rectifier, SOD-123F', 'kicadSymbolki_fp_filters': 'D*SOD?123F*'}]|
+|name|name|Diode : PMEG6010CEH|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'PMEG2005EH'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'PMEG6010CEH'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Diode_SMD</td></tr><tr><td>D_SOD-123F'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//assets.nexperia.com/documents/data-sheet/PMEG6010CEH_PMEG6010CEJ.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'forward voltage diode'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '60V</td><td> 1A very low Vf MEGA Schottky barrier rectifier</td><td> SOD-123F'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'D*SOD?123F*'</td></tr></table>]|
 ||||

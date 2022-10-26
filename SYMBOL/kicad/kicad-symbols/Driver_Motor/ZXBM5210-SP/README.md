@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDRIVERMOTORZXBM521SP > ZXBM5210-SP
+# SZKDRIVERMOTORZXBM521SP > Driver_Motor : ZXBM5210-SP
 
 - ID: SYMBOL-kicad-kicad-symbols-Driver_Motor-ZXBM5210-SP
 - Hex ID: SZKDRIVERMOTORZXBM521SP
-- Name: ZXBM5210-SP
-- Description: ZXBM5210-SP
+- Name: Driver_Motor : ZXBM5210-SP
+- Description: Driver_Motor : ZXBM5210-SP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Motor-ZXBM5210-SP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Motor-ZXBM5210-SP)
 - Short Link: [http://oom.lt/SZKDRIVERMOTORZXBM521SP](http://oom.lt/SZKDRIVERMOTORZXBM521SP)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ZXBM5210-SP|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Driver_Motor-ZXBM5210-SP|
 |Hex ID (short code)|hexID|SZKDRIVERMOTORZXBM521SP|
-|name|name|ZXBM5210-SP|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ZXBM5210-SP', 'kicadSymbolFootprint': 'Package_SO:Diodes_SO-8EP', 'kicadSymbolDatasheet': 'https://www.diodes.com/assets/Datasheets/ZXBM5210.pdf', 'kicadSymbolki_keywords': 'H-bridge, motor driver, PWM, single coil', 'kicadSymbolki_description': 'Reversible DC motor drive with speed control, 3-18V, 0.85A, SOIC-8EP', 'kicadSymbolki_fp_filters': 'Diodes*SO*EP*'}]|
+|name|name|Driver_Motor : ZXBM5210-SP|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ZXBM5210-SP'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>Diodes_SO-8EP'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.diodes.com/assets/Datasheets/ZXBM5210.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'H-bridge</td><td> motor driver</td><td> PWM</td><td> single coil'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Reversible DC motor drive with speed control</td><td> 3-18V</td><td> 0.85A</td><td> SOIC-8EP'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Diodes*SO*EP*'</td></tr></table>]|
 ||||

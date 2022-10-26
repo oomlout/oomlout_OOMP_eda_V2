@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKSENTEMPERATURETMP411 > TMP411
+# SZKSENTEMPERATURETMP411 > Sensor_Temperature : TMP411
 
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Temperature-TMP411
 - Hex ID: SZKSENTEMPERATURETMP411
-- Name: TMP411
-- Description: TMP411
+- Name: Sensor_Temperature : TMP411
+- Description: Sensor_Temperature : TMP411
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-TMP411](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-TMP411)
 - Short Link: [http://oom.lt/SZKSENTEMPERATURETMP411](http://oom.lt/SZKSENTEMPERATURETMP411)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TMP411|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Temperature-TMP411|
 |Hex ID (short code)|hexID|SZKSENTEMPERATURETMP411|
-|name|name|TMP411|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TMP411', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com.cn/cn/lit/ds/symlink/tmp411.pdf', 'kicadSymbolki_keywords': 'Temperature sensor remote local i2c', 'kicadSymbolki_description': '- Remote and Local TEMPERATURE SENSOR', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm* VSSOP*3.0x3.0mm*P0.65mm*'}]|
+|name|name|Sensor_Temperature : TMP411|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TMP411'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com.cn/cn/lit/ds/symlink/tmp411.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Temperature sensor remote local i2c'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '- Remote and Local TEMPERATURE SENSOR'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*3.9x4.9mm*P1.27mm* VSSOP*3.0x3.0mm*P0.65mm*'</td></tr></table>]|
 ||||

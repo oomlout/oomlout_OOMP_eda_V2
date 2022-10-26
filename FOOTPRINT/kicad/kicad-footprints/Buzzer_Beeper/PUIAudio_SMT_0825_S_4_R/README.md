@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Buzzer_Beeper-PUIAudio_SMT_0825_S_4_R|
 |Hex ID (short code)|hexID|FZKBZPUIAUDIOS825S4R|
 |name|name|Buzzer_Beeper : PUIAudio_SMT_0825_S_4_R|
-|Footprint Kicad|footprintKicadDetails|{'name': 'PUIAudio_SMT_0825_S_4_R', 'description': 'SMD 8540, http://www.puiaudio.com/product-detail.aspx?partnumber=SMT-0825-S-4-R', 'tags': 'SMD 8540', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Buzzer_Beeper.3dshapes/PUIAudio_SMT_0825_S_4_R.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'PUIAudio_SMT_0825_S_4_R'</td><td> 'description'</td></tr><tr><td> 'SMD 8540</td><td> http</td></tr><tr><td>//www.puiaudio.com/product-detail.aspx?partnumber=SMT-0825-S-4-R'</td><td> 'tags'</td></tr><tr><td> 'SMD 8540'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Buzzer_Beeper.3dshapes/PUIAudio_SMT_0825_S_4_R.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

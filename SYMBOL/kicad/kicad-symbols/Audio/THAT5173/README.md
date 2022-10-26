@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKAUDIOTHAT5173 > THAT5173
+# SZKAUDIOTHAT5173 > Audio : THAT5173
 
 - ID: SYMBOL-kicad-kicad-symbols-Audio-THAT5173
 - Hex ID: SZKAUDIOTHAT5173
-- Name: THAT5173
-- Description: THAT5173
+- Name: Audio : THAT5173
+- Description: Audio : THAT5173
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-THAT5173](http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-THAT5173)
 - Short Link: [http://oom.lt/SZKAUDIOTHAT5173](http://oom.lt/SZKAUDIOTHAT5173)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|THAT5173|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Audio-THAT5173|
 |Hex ID (short code)|hexID|SZKAUDIOTHAT5173|
-|name|name|THAT5173|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'THAT5173', 'kicadSymbolFootprint': 'Package_DFN_QFN:QFN-24-1EP_5x5mm_P0.65mm_EP3.4x3.4mm', 'kicadSymbolDatasheet': 'http://www.thatcorp.com/datashts/THAT_5173_Datasheet.pdf', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'mic preamp gain controller', 'kicadSymbolki_description': 'Audio Preamplifier Digital Controller IC, QFN-24', 'kicadSymbolki_fp_filters': 'QFN*1EP*5x5mm*P0.65mm*'}]|
+|name|name|Audio : THAT5173|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'THAT5173'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>QFN-24-1EP_5x5mm_P0.65mm_EP3.4x3.4mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.thatcorp.com/datashts/THAT_5173_Datasheet.pdf'</td><td> 'kicadSymbolki_locked'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'mic preamp gain controller'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Audio Preamplifier Digital Controller IC</td><td> QFN-24'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'QFN*1EP*5x5mm*P0.65mm*'</td></tr></table>]|
 ||||

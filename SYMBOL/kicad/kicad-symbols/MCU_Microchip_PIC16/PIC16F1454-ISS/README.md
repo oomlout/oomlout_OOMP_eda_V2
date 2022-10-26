@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUMCHIPPIC16PIC16F1454ISS > PIC16F1454-ISS
+# SZKMCUMCHIPPIC16PIC16F1454ISS > MCU_Microchip_PIC16 : PIC16F1454-ISS
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F1454-ISS
 - Hex ID: SZKMCUMCHIPPIC16PIC16F1454ISS
-- Name: PIC16F1454-ISS
-- Description: PIC16F1454-ISS
+- Name: MCU_Microchip_PIC16 : PIC16F1454-ISS
+- Description: MCU_Microchip_PIC16 : PIC16F1454-ISS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F1454-ISS](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F1454-ISS)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC16PIC16F1454ISS](http://oom.lt/SZKMCUMCHIPPIC16PIC16F1454ISS)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PIC16F1454-ISS|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F1454-ISS|
 |Hex ID (short code)|hexID|SZKMCUMCHIPPIC16PIC16F1454ISS|
-|name|name|PIC16F1454-ISS|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'PIC16F1454-IP', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PIC16F1454-ISS', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_keywords': 'FLASH-Based 8-Bit CMOS Microcontroller Low Power', 'kicadSymbolki_description': '8192W FLASH, 1024B SRAM, PDIP-14', 'kicadSymbolki_fp_filters': 'DIP* PDIP* SO*'}]|
+|name|name|MCU_Microchip_PIC16 : PIC16F1454-ISS|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'PIC16F1454-IP'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'PIC16F1454-ISS'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'FLASH-Based 8-Bit CMOS Microcontroller Low Power'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '8192W FLASH</td><td> 1024B SRAM</td><td> PDIP-14'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP* PDIP* SO*'</td></tr></table>]|
 ||||

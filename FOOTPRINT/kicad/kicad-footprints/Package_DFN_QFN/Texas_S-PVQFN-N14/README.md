@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_S-PVQFN-N14|
 |Hex ID (short code)|hexID|FZKDFNTEXASSPVQFNN14|
 |name|name|Package_DFN_QFN : Texas_S-PVQFN-N14|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Texas_S-PVQFN-N14', 'description': 'Texas_S-PVQFN-N14  http://www.ti.com/lit/ds/symlink/txb0104.pdf', 'tags': 'Texas_S-PVQFN-N14_4.3x4.3_Pitch0.5mm_ThermalPad', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Texas_S-PVQFN-N14.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Texas_S-PVQFN-N14'</td><td> 'description'</td></tr><tr><td> 'Texas_S-PVQFN-N14  http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/txb0104.pdf'</td><td> 'tags'</td></tr><tr><td> 'Texas_S-PVQFN-N14_4.3x4.3_Pitch0.5mm_ThermalPad'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DFN_QFN.3dshapes/Texas_S-PVQFN-N14.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

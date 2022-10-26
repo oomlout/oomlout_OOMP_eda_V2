@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKPOWERSUPERVISORMAX811SEUST > MAX811SEUS-T
+# SZKPOWERSUPERVISORMAX811SEUST > Power_Supervisor : MAX811SEUS-T
 
 - ID: SYMBOL-kicad-kicad-symbols-Power_Supervisor-MAX811SEUS-T
 - Hex ID: SZKPOWERSUPERVISORMAX811SEUST
-- Name: MAX811SEUS-T
-- Description: MAX811SEUS-T
+- Name: Power_Supervisor : MAX811SEUS-T
+- Description: Power_Supervisor : MAX811SEUS-T
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Supervisor-MAX811SEUS-T](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Supervisor-MAX811SEUS-T)
 - Short Link: [http://oom.lt/SZKPOWERSUPERVISORMAX811SEUST](http://oom.lt/SZKPOWERSUPERVISORMAX811SEUST)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MAX811SEUS-T|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Supervisor-MAX811SEUS-T|
 |Hex ID (short code)|hexID|SZKPOWERSUPERVISORMAX811SEUST|
-|name|name|MAX811SEUS-T|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MIC811LUY', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MAX811SEUS-T', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-143', 'kicadSymbolDatasheet': 'https://datasheets.maximintegrated.com/en/ds/MAX811-MAX812.pdf', 'kicadSymbolki_keywords': 'Supervisor Reset', 'kicadSymbolki_description': 'Power supply supervisor, Manual reset, Threshold 2.93V, SOT-143', 'kicadSymbolki_fp_filters': 'SOT*143*'}]|
+|name|name|Power_Supervisor : MAX811SEUS-T|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'MIC811LUY'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MAX811SEUS-T'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-143'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//datasheets.maximintegrated.com/en/ds/MAX811-MAX812.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Supervisor Reset'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Power supply supervisor</td><td> Manual reset</td><td> Threshold 2.93V</td><td> SOT-143'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT*143*'</td></tr></table>]|
 ||||

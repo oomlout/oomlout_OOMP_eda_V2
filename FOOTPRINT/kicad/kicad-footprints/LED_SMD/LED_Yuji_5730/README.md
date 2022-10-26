@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Yuji_5730|
 |Hex ID (short code)|hexID|FZKLSMLYUJI573|
 |name|name|LED_SMD : LED_Yuji_5730|
-|Footprint Kicad|footprintKicadDetails|{'name': 'LED_Yuji_5730', 'description': 'LED,Yuji,5730,https://cdn.shopify.com/s/files/1/0344/6401/files/YJWJ014-1.1_YJ-BC-5730L-G02.pdf', 'tags': 'LED Yuji 5730', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED_Yuji_5730.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'LED_Yuji_5730'</td><td> 'description'</td></tr><tr><td> 'LED</td><td>Yuji</td><td>5730</td><td>https</td></tr><tr><td>//cdn.shopify.com/s/files/1/0344/6401/files/YJWJ014-1.1_YJ-BC-5730L-G02.pdf'</td><td> 'tags'</td></tr><tr><td> 'LED Yuji 5730'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/LED_SMD.3dshapes/LED_Yuji_5730.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

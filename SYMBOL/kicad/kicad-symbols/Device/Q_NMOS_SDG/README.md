@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDEVICEQNMOSSDG > Q_NMOS_SDG
+# SZKDEVICEQNMOSSDG > Device : Q_NMOS_SDG
 
 - ID: SYMBOL-kicad-kicad-symbols-Device-Q_NMOS_SDG
 - Hex ID: SZKDEVICEQNMOSSDG
-- Name: Q_NMOS_SDG
-- Description: Q_NMOS_SDG
+- Name: Device : Q_NMOS_SDG
+- Description: Device : Q_NMOS_SDG
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Q_NMOS_SDG](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Q_NMOS_SDG)
 - Short Link: [http://oom.lt/SZKDEVICEQNMOSSDG](http://oom.lt/SZKDEVICEQNMOSSDG)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Q_NMOS_SDG|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-Q_NMOS_SDG|
 |Hex ID (short code)|hexID|SZKDEVICEQNMOSSDG|
-|name|name|Q_NMOS_SDG|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'Q_NMOS_SDG', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'transistor NMOS N-MOS N-MOSFET', 'kicadSymbolki_description': 'N-MOSFET transistor, source/drain/gate'}]|
+|name|name|Device : Q_NMOS_SDG|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Q_NMOS_SDG'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'transistor NMOS N-MOS N-MOSFET'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'N-MOSFET transistor</td><td> source/drain/gate'</td></tr></table>]|
 ||||

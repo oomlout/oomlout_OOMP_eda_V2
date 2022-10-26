@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKAMPLIFIERAUDIOIRS2965S > IRS20965S
+# SZKAMPLIFIERAUDIOIRS2965S > Amplifier_Audio : IRS20965S
 
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Audio-IRS20965S
 - Hex ID: SZKAMPLIFIERAUDIOIRS2965S
-- Name: IRS20965S
-- Description: IRS20965S
+- Name: Amplifier_Audio : IRS20965S
+- Description: Amplifier_Audio : IRS20965S
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-IRS20965S](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-IRS20965S)
 - Short Link: [http://oom.lt/SZKAMPLIFIERAUDIOIRS2965S](http://oom.lt/SZKAMPLIFIERAUDIOIRS2965S)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IRS20965S|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Audio-IRS20965S|
 |Hex ID (short code)|hexID|SZKAMPLIFIERAUDIOIRS2965S|
-|name|name|IRS20965S|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'IRS20965S', 'kicadSymbolFootprint': 'Package_SO:SOIC-16_3.9x9.9mm_P1.27mm', 'kicadSymbolDatasheet': 'https://www.infineon.com/dgdl/irs20965spbf.pdf?fileId=5546d462533600a4015356761d8b279b', 'kicadSymbolki_keywords': 'Gate Driver Class D', 'kicadSymbolki_description': 'Class D Audio Driver, +/-100V, 2.0/2.0A, SOIC-16', 'kicadSymbolki_fp_filters': 'SOIC*3.9x9.9mm*P1.27mm*'}]|
+|name|name|Amplifier_Audio : IRS20965S|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'IRS20965S'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-16_3.9x9.9mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.infineon.com/dgdl/irs20965spbf.pdf?fileId=5546d462533600a4015356761d8b279b'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Gate Driver Class D'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Class D Audio Driver</td><td> +/-100V</td><td> 2.0/2.0A</td><td> SOIC-16'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*3.9x9.9mm*P1.27mm*'</td></tr></table>]|
 ||||

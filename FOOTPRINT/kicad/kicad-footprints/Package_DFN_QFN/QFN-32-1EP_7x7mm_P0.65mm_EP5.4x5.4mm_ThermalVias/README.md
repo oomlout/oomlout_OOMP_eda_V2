@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-QFN-32-1EP_7x7mm_P0.65mm_EP5.4x5.4mm_ThermalVias|
 |Hex ID (short code)|hexID|FZKDFNQFN321EP7X7P65EP54X54THERMALVIAS|
 |name|name|Package_DFN_QFN : QFN-32-1EP_7x7mm_P0.65mm_EP5.4x5.4mm_ThermalVias|
-|Footprint Kicad|footprintKicadDetails|{'name': 'QFN-32-1EP_7x7mm_P0.65mm_EP5.4x5.4mm_ThermalVias', 'description': 'QFN, 32 Pin (http://www.thatcorp.com/datashts/THAT_5171_Datasheet.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py', 'tags': 'QFN NoLead', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/QFN-32-1EP_7x7mm_P0.65mm_EP5.4x5.4mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'QFN-32-1EP_7x7mm_P0.65mm_EP5.4x5.4mm_ThermalVias'</td><td> 'description'</td></tr><tr><td> 'QFN</td><td> 32 Pin (http</td></tr><tr><td>//www.thatcorp.com/datashts/THAT_5171_Datasheet.pdf)</td><td> generated with kicad-footprint-generator ipc_noLead_generator.py'</td><td> 'tags'</td></tr><tr><td> 'QFN NoLead'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DFN_QFN.3dshapes/QFN-32-1EP_7x7mm_P0.65mm_EP5.4x5.4mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

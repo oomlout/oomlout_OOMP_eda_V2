@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_HC50_Vertical|
 |Hex ID (short code)|hexID|FZKXXHC5VERTICAL|
 |name|name|Crystal : Crystal_HC50_Vertical|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Crystal_HC50_Vertical', 'description': 'Crystal THT HC-50, http://www.crovencrystals.com/croven_pdf/HC-50_Crystal_Holder_Rev_00.pdf', 'tags': 'THT crystalHC-50', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Crystal_HC50_Vertical.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Crystal_HC50_Vertical'</td><td> 'description'</td></tr><tr><td> 'Crystal THT HC-50</td><td> http</td></tr><tr><td>//www.crovencrystals.com/croven_pdf/HC-50_Crystal_Holder_Rev_00.pdf'</td><td> 'tags'</td></tr><tr><td> 'THT crystalHC-50'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Crystal.3dshapes/Crystal_HC50_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

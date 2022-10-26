@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUSTSTM32L4+STM32L4R9ZGJX > STM32L4R9ZGJx
+# SZKMCUSTSTM32L4+STM32L4R9ZGJX > MCU_ST_STM32L4+ : STM32L4R9ZGJx
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L4+-STM32L4R9ZGJx
 - Hex ID: SZKMCUSTSTM32L4+STM32L4R9ZGJX
-- Name: STM32L4R9ZGJx
-- Description: STM32L4R9ZGJx
+- Name: MCU_ST_STM32L4+ : STM32L4R9ZGJx
+- Description: MCU_ST_STM32L4+ : STM32L4R9ZGJx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L4+-STM32L4R9ZGJx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L4+-STM32L4R9ZGJx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32L4+STM32L4R9ZGJX](http://oom.lt/SZKMCUSTSTM32L4+STM32L4R9ZGJX)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|STM32L4R9ZGJx|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L4+-STM32L4R9ZGJx|
 |Hex ID (short code)|hexID|SZKMCUSTSTM32L4+STM32L4R9ZGJX|
-|name|name|STM32L4R9ZGJx|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'STM32L4R9ZGJx', 'kicadSymbolFootprint': 'Package_BGA:UFBGA-144_10x10mm_Layout12x12_P0.8mm', 'kicadSymbolDatasheet': 'http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00366448.pdf', 'kicadSymbolki_keywords': 'ARM Cortex-M4 STM32L4+ STM32L4R9/S9', 'kicadSymbolki_description': 'ARM Cortex-M4 MCU, 1024KB flash, 640KB RAM, 120MHz, 1.71-3.6V, 112 GPIO, UFBGA-144', 'kicadSymbolki_fp_filters': 'UFBGA*10x10mm*Layout12x12*P0.8mm*'}]|
+|name|name|MCU_ST_STM32L4+ : STM32L4R9ZGJx|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'STM32L4R9ZGJx'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_BGA</td></tr><tr><td>UFBGA-144_10x10mm_Layout12x12_P0.8mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00366448.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'ARM Cortex-M4 STM32L4+ STM32L4R9/S9'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'ARM Cortex-M4 MCU</td><td> 1024KB flash</td><td> 640KB RAM</td><td> 120MHz</td><td> 1.71-3.6V</td><td> 112 GPIO</td><td> UFBGA-144'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'UFBGA*10x10mm*Layout12x12*P0.8mm*'</td></tr></table>]|
 ||||

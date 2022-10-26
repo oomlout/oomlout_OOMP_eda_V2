@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKOCSTXC7C > TXC-7C
+# SZKOCSTXC7C > Oscillator : TXC-7C
 
 - ID: SYMBOL-kicad-kicad-symbols-Oscillator-TXC-7C
 - Hex ID: SZKOCSTXC7C
-- Name: TXC-7C
-- Description: TXC-7C
+- Name: Oscillator : TXC-7C
+- Description: Oscillator : TXC-7C
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-TXC-7C](http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-TXC-7C)
 - Short Link: [http://oom.lt/SZKOCSTXC7C](http://oom.lt/SZKOCSTXC7C)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TXC-7C|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Oscillator-TXC-7C|
 |Hex ID (short code)|hexID|SZKOCSTXC7C|
-|name|name|TXC-7C|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'X', 'kicadSymbolValue': 'TXC-7C', 'kicadSymbolFootprint': 'Oscillator:Oscillator_SMD_TXC_7C-4Pin_5.0x3.2mm', 'kicadSymbolDatasheet': 'http://www.txccorp.com/download/products/osc/7C_o.pdf', 'kicadSymbolki_keywords': 'CMOS SMD Crystal Clock Oscillator', 'kicadSymbolki_description': 'CMOS SMD Crystal Clock Oscillator, TXC', 'kicadSymbolki_fp_filters': 'Oscillator*SMD*TXC*7C*5.0x3.2mm*'}]|
+|name|name|Oscillator : TXC-7C|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'X'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TXC-7C'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Oscillator</td></tr><tr><td>Oscillator_SMD_TXC_7C-4Pin_5.0x3.2mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.txccorp.com/download/products/osc/7C_o.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'CMOS SMD Crystal Clock Oscillator'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'CMOS SMD Crystal Clock Oscillator</td><td> TXC'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Oscillator*SMD*TXC*7C*5.0x3.2mm*'</td></tr></table>]|
 ||||

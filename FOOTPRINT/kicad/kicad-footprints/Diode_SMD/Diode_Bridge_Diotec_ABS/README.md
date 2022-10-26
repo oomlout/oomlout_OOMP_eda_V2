@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Diode_SMD-Diode_Bridge_Diotec_ABS|
 |Hex ID (short code)|hexID|FZKDIODESMDIODEBRIDGEDIOTECABS|
 |name|name|Diode_SMD : Diode_Bridge_Diotec_ABS|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Diode_Bridge_Diotec_ABS', 'description': 'SMD diode bridge ABS (Diotec), see https://diotec.com/tl_files/diotec/files/pdf/datasheets/abs2.pdf', 'tags': 'ABS MBLS', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/Diode_Bridge_Diotec_ABS.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Diode_Bridge_Diotec_ABS'</td><td> 'description'</td></tr><tr><td> 'SMD diode bridge ABS (Diotec)</td><td> see https</td></tr><tr><td>//diotec.com/tl_files/diotec/files/pdf/datasheets/abs2.pdf'</td><td> 'tags'</td></tr><tr><td> 'ABS MBLS'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Diode_SMD.3dshapes/Diode_Bridge_Diotec_ABS.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

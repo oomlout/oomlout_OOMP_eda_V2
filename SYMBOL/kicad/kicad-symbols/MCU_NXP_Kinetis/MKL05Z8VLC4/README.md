@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUNXPKINETISMKL5Z8VLC4 > MKL05Z8VLC4
+# SZKMCUNXPKINETISMKL5Z8VLC4 > MCU_NXP_Kinetis : MKL05Z8VLC4
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_NXP_Kinetis-MKL05Z8VLC4
 - Hex ID: SZKMCUNXPKINETISMKL5Z8VLC4
-- Name: MKL05Z8VLC4
-- Description: MKL05Z8VLC4
+- Name: MCU_NXP_Kinetis : MKL05Z8VLC4
+- Description: MCU_NXP_Kinetis : MKL05Z8VLC4
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_Kinetis-MKL05Z8VLC4](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_Kinetis-MKL05Z8VLC4)
 - Short Link: [http://oom.lt/SZKMCUNXPKINETISMKL5Z8VLC4](http://oom.lt/SZKMCUNXPKINETISMKL5Z8VLC4)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MKL05Z8VLC4|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_NXP_Kinetis-MKL05Z8VLC4|
 |Hex ID (short code)|hexID|SZKMCUNXPKINETISMKL5Z8VLC4|
-|name|name|MKL05Z8VLC4|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MKL05Z32VLC4', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MKL05Z8VLC4', 'kicadSymbolFootprint': 'Package_QFP:LQFP-32_7x7mm_P0.8mm', 'kicadSymbolDatasheet': 'http://www.nxp.com/docs/en/data-sheet/KL05P48M48SF1.pdf', 'kicadSymbolki_keywords': 'Kinetis KL05 ARM Cortex M0+', 'kicadSymbolki_description': 'Kinetis KL05 series, 48-MHz/32-bit ARM Cortex-M0+, 8 kB flash, 1 kB SRAM, LQFP-32', 'kicadSymbolki_fp_filters': 'LQFP*7x7mm*P0.8mm*'}]|
+|name|name|MCU_NXP_Kinetis : MKL05Z8VLC4|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'MKL05Z32VLC4'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MKL05Z8VLC4'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_QFP</td></tr><tr><td>LQFP-32_7x7mm_P0.8mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.nxp.com/docs/en/data-sheet/KL05P48M48SF1.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Kinetis KL05 ARM Cortex M0+'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Kinetis KL05 series</td><td> 48-MHz/32-bit ARM Cortex-M0+</td><td> 8 kB flash</td><td> 1 kB SRAM</td><td> LQFP-32'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'LQFP*7x7mm*P0.8mm*'</td></tr></table>]|
 ||||

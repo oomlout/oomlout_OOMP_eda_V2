@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDRIVERMOTORDRV8847PWP > DRV8847PWP
+# SZKDRIVERMOTORDRV8847PWP > Driver_Motor : DRV8847PWP
 
 - ID: SYMBOL-kicad-kicad-symbols-Driver_Motor-DRV8847PWP
 - Hex ID: SZKDRIVERMOTORDRV8847PWP
-- Name: DRV8847PWP
-- Description: DRV8847PWP
+- Name: Driver_Motor : DRV8847PWP
+- Description: Driver_Motor : DRV8847PWP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Motor-DRV8847PWP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Motor-DRV8847PWP)
 - Short Link: [http://oom.lt/SZKDRIVERMOTORDRV8847PWP](http://oom.lt/SZKDRIVERMOTORDRV8847PWP)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DRV8847PWP|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Driver_Motor-DRV8847PWP|
 |Hex ID (short code)|hexID|SZKDRIVERMOTORDRV8847PWP|
-|name|name|DRV8847PWP|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'DRV8847PWP', 'kicadSymbolFootprint': 'Package_SO:HTSSOP-16-1EP_4.4x5mm_P0.65mm_EP3.4x5mm_Mask2.46x2.31mm_ThermalVias', 'kicadSymbolDatasheet': 'https://www.ti.com/lit/ds/symlink/drv8847.pdf', 'kicadSymbolki_keywords': 'Dual H-Bridge motor driver', 'kicadSymbolki_description': 'Dual H-Bridge Motor Driver, 1A, HTSSOP-16', 'kicadSymbolki_fp_filters': 'HTSSOP*1EP*4.4x5mm*P0.65mm*'}]|
+|name|name|Driver_Motor : DRV8847PWP|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'DRV8847PWP'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>HTSSOP-16-1EP_4.4x5mm_P0.65mm_EP3.4x5mm_Mask2.46x2.31mm_ThermalVias'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.ti.com/lit/ds/symlink/drv8847.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Dual H-Bridge motor driver'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Dual H-Bridge Motor Driver</td><td> 1A</td><td> HTSSOP-16'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'HTSSOP*1EP*4.4x5mm*P0.65mm*'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKSENTEMPERATURETSIC26SO8 > TSIC206-SO8
+# SZKSENTEMPERATURETSIC26SO8 > Sensor_Temperature : TSIC206-SO8
 
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Temperature-TSIC206-SO8
 - Hex ID: SZKSENTEMPERATURETSIC26SO8
-- Name: TSIC206-SO8
-- Description: TSIC206-SO8
+- Name: Sensor_Temperature : TSIC206-SO8
+- Description: Sensor_Temperature : TSIC206-SO8
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-TSIC206-SO8](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-TSIC206-SO8)
 - Short Link: [http://oom.lt/SZKSENTEMPERATURETSIC26SO8](http://oom.lt/SZKSENTEMPERATURETSIC26SO8)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TSIC206-SO8|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Temperature-TSIC206-SO8|
 |Hex ID (short code)|hexID|SZKSENTEMPERATURETSIC26SO8|
-|name|name|TSIC206-SO8|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TSIC206-SO8', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm', 'kicadSymbolDatasheet': 'https://shop.bb-sensors.com/out/media/Datasheet_Digital_Semiconductor_temperatur_sensor_TSIC.pdf', 'kicadSymbolki_keywords': 'temperature digital', 'kicadSymbolki_description': 'Digital temperature sensor, range -50 ... +150 °C, 0.5 K accuracy, SO-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm*'}]|
+|name|name|Sensor_Temperature : TSIC206-SO8|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TSIC206-SO8'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-8_3.9x4.9mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//shop.bb-sensors.com/out/media/Datasheet_Digital_Semiconductor_temperatur_sensor_TSIC.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'temperature digital'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Digital temperature sensor</td><td> range -50 ... +150 °C</td><td> 0.5 K accuracy</td><td> SO-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*3.9x4.9mm*P1.27mm*'</td></tr></table>]|
 ||||

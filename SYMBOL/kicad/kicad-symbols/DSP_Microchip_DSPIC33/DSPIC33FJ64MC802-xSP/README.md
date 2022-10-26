@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDSPMCHIPDSPIC33DSPIC33FJ64MC82XSP > DSPIC33FJ64MC802-xSP
+# SZKDSPMCHIPDSPIC33DSPIC33FJ64MC82XSP > DSP_Microchip_DSPIC33 : DSPIC33FJ64MC802-xSP
 
 - ID: SYMBOL-kicad-kicad-symbols-DSP_Microchip_DSPIC33-DSPIC33FJ64MC802-xSP
 - Hex ID: SZKDSPMCHIPDSPIC33DSPIC33FJ64MC82XSP
-- Name: DSPIC33FJ64MC802-xSP
-- Description: DSPIC33FJ64MC802-xSP
+- Name: DSP_Microchip_DSPIC33 : DSPIC33FJ64MC802-xSP
+- Description: DSP_Microchip_DSPIC33 : DSPIC33FJ64MC802-xSP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-DSP_Microchip_DSPIC33-DSPIC33FJ64MC802-xSP](http://oom.lt/SYMBOL-kicad-kicad-symbols-DSP_Microchip_DSPIC33-DSPIC33FJ64MC802-xSP)
 - Short Link: [http://oom.lt/SZKDSPMCHIPDSPIC33DSPIC33FJ64MC82XSP](http://oom.lt/SZKDSPMCHIPDSPIC33DSPIC33FJ64MC82XSP)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DSPIC33FJ64MC802-xSP|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-DSP_Microchip_DSPIC33-DSPIC33FJ64MC802-xSP|
 |Hex ID (short code)|hexID|SZKDSPMCHIPDSPIC33DSPIC33FJ64MC82XSP|
-|name|name|DSPIC33FJ64MC802-xSP|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'DSPIC33FJ64MC802-xSP', 'kicadSymbolFootprint': 'Package_DIP:DIP-28_W7.62mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/70291G.pdf', 'kicadSymbolki_keywords': '16-bit Digital Signal Controller Microchip dsPIC', 'kicadSymbolki_description': '40 MIPS, 64k Flash, 16k SRAM, DIP-28', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
+|name|name|DSP_Microchip_DSPIC33 : DSPIC33FJ64MC802-xSP|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'DSPIC33FJ64MC802-xSP'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>DIP-28_W7.62mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/70291G.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> '16-bit Digital Signal Controller Microchip dsPIC'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '40 MIPS</td><td> 64k Flash</td><td> 16k SRAM</td><td> DIP-28'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W7.62mm*'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKCPUNXPIMXMCIMX6Q5EYM > MCIMX6Q5EYM
+# SZKCPUNXPIMXMCIMX6Q5EYM > CPU_NXP_IMX : MCIMX6Q5EYM
 
 - ID: SYMBOL-kicad-kicad-symbols-CPU_NXP_IMX-MCIMX6Q5EYM
 - Hex ID: SZKCPUNXPIMXMCIMX6Q5EYM
-- Name: MCIMX6Q5EYM
-- Description: MCIMX6Q5EYM
+- Name: CPU_NXP_IMX : MCIMX6Q5EYM
+- Description: CPU_NXP_IMX : MCIMX6Q5EYM
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-CPU_NXP_IMX-MCIMX6Q5EYM](http://oom.lt/SYMBOL-kicad-kicad-symbols-CPU_NXP_IMX-MCIMX6Q5EYM)
 - Short Link: [http://oom.lt/SZKCPUNXPIMXMCIMX6Q5EYM](http://oom.lt/SZKCPUNXPIMXMCIMX6Q5EYM)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MCIMX6Q5EYM|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-CPU_NXP_IMX-MCIMX6Q5EYM|
 |Hex ID (short code)|hexID|SZKCPUNXPIMXMCIMX6Q5EYM|
-|name|name|MCIMX6Q5EYM|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MCIMX6QP5EYM', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MCIMX6Q5EYM', 'kicadSymbolFootprint': 'Package_BGA:BGA-624_21.0x21.0mm_Layout25x25_P0.8mm', 'kicadSymbolDatasheet': 'https://www.nxp.com/docs/en/data-sheet/IMX6DQCEC.pdf', 'kicadSymbolki_keywords': 'Quad-Core ARM Cortex A9 SOC', 'kicadSymbolki_description': 'i.MX 6Quad Application Processor for Consumer Products, BGA-624', 'kicadSymbolki_fp_filters': 'BGA*21.0x21.0mm*P0.8mm*'}]|
+|name|name|CPU_NXP_IMX : MCIMX6Q5EYM|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'MCIMX6QP5EYM'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MCIMX6Q5EYM'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_BGA</td></tr><tr><td>BGA-624_21.0x21.0mm_Layout25x25_P0.8mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.nxp.com/docs/en/data-sheet/IMX6DQCEC.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Quad-Core ARM Cortex A9 SOC'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'i.MX 6Quad Application Processor for Consumer Products</td><td> BGA-624'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'BGA*21.0x21.0mm*P0.8mm*'</td></tr></table>]|
 ||||

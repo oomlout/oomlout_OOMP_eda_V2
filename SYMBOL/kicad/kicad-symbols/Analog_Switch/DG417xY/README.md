@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKANALOGSWITCHDG417XY > DG417xY
+# SZKANALOGSWITCHDG417XY > Analog_Switch : DG417xY
 
 - ID: SYMBOL-kicad-kicad-symbols-Analog_Switch-DG417xY
 - Hex ID: SZKANALOGSWITCHDG417XY
-- Name: DG417xY
-- Description: DG417xY
+- Name: Analog_Switch : DG417xY
+- Description: Analog_Switch : DG417xY
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-DG417xY](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-DG417xY)
 - Short Link: [http://oom.lt/SZKANALOGSWITCHDG417XY](http://oom.lt/SZKANALOGSWITCHDG417XY)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DG417xY|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_Switch-DG417xY|
 |Hex ID (short code)|hexID|SZKANALOGSWITCHDG417XY|
-|name|name|DG417xY|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'DG417xY', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm', 'kicadSymbolDatasheet': 'https://datasheets.maximintegrated.com/en/ds/DG417-DG419.pdf', 'kicadSymbolki_keywords': 'CMOS Analog Switch', 'kicadSymbolki_description': 'Single SPST Monolithic CMOS Analog Switch, normally ON, 20Ohm Ron, SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm*'}]|
+|name|name|Analog_Switch : DG417xY|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'DG417xY'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-8_3.9x4.9mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//datasheets.maximintegrated.com/en/ds/DG417-DG419.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'CMOS Analog Switch'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Single SPST Monolithic CMOS Analog Switch</td><td> normally ON</td><td> 20Ohm Ron</td><td> SOIC-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*3.9x4.9mm*P1.27mm*'</td></tr></table>]|
 ||||

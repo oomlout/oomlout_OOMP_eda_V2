@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSHEADI1LPI61H6L > HEAD-I01-L-PI06-01-H06L
+# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSHEADI1LPI61H6L > oomlout_OOMP_parts : HEAD-I01-L-PI06-01-H06L
 
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-I01-L-PI06-01-H06L
 - Hex ID: SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSHEADI1LPI61H6L
-- Name: HEAD-I01-L-PI06-01-H06L
-- Description: HEAD-I01-L-PI06-01-H06L
+- Name: oomlout_OOMP_parts : HEAD-I01-L-PI06-01-H06L
+- Description: oomlout_OOMP_parts : HEAD-I01-L-PI06-01-H06L
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-I01-L-PI06-01-H06L](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-I01-L-PI06-01-H06L)
 - Short Link: [http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSHEADI1LPI61H6L](http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSHEADI1LPI61H6L)
   
@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|HEAD-I01-L-PI06-01-H06L|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-I01-L-PI06-01-H06L|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSHEADI1LPI61H6L|
-|name|name|HEAD-I01-L-PI06-01-H06L|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'HEAD-I01-L-PI06-01-H06L', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:HEAD-I01-L-PI06-01-H06L', 'kicadSymbolDatasheet': 'oom.lt/H06L', 'kicadSymbolki_keywords': 'connector', 'kicadSymbolki_description': 'hexID: H06L;Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)', 'kicadSymbolki_fp_filters': 'Connector*:*_1x??_*'}]|
+|name|name|oomlout_OOMP_parts : HEAD-I01-L-PI06-01-H06L|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'J'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'HEAD-I01-L-PI06-01-H06L'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'oomlout_OOMP_parts</td></tr><tr><td>HEAD-I01-L-PI06-01-H06L'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'oom.lt/H06L'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'connector'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'hexID</td></tr><tr><td> H06L;Generic connector</td><td> single row</td><td> 01x06</td><td> script generated (kicad-library-utils/schlib/autogen/connector/)'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Connector*</td></tr><tr><td>*_1x??_*'</td></tr></table>]|
 ||||

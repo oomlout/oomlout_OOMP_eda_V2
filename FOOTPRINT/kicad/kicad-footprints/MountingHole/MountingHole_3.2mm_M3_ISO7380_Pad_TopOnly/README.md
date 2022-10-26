@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_3.2mm_M3_ISO7380_Pad_TopOnly|
 |Hex ID (short code)|hexID|FZKHOLHOL32M3ISO738PADTOPONLY|
 |name|name|MountingHole : MountingHole_3.2mm_M3_ISO7380_Pad_TopOnly|
-|Footprint Kicad|footprintKicadDetails|{'name': 'MountingHole_3.2mm_M3_ISO7380_Pad_TopOnly', 'description': 'Mounting Hole 3.2mm, M3, ISO7380', 'tags': 'mounting hole 3.2mm m3 iso7380', 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'MountingHole_3.2mm_M3_ISO7380_Pad_TopOnly'</td><td> 'description'</td></tr><tr><td> 'Mounting Hole 3.2mm</td><td> M3</td><td> ISO7380'</td><td> 'tags'</td></tr><tr><td> 'mounting hole 3.2mm m3 iso7380'</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

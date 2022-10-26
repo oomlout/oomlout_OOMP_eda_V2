@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_TE-Connectivity-TE_826576-3_1x03_P3.96mm_Vertical|
 |Hex ID (short code)|hexID|FZKCNTECONNECTIVITYTE82657631X3P396VERTICAL|
 |name|name|Connector_TE-Connectivity : TE_826576-3_1x03_P3.96mm_Vertical|
-|Footprint Kicad|footprintKicadDetails|{'name': 'TE_826576-3_1x03_P3.96mm_Vertical', 'description': 'TE, 826576-3, 3 Pins (https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=826576&DocType=Customer+Drawing&DocLang=English), generated with kicad-footprint-generator', 'tags': 'connector TE 826576 vertical', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_TE-Connectivity.3dshapes/TE_826576-3_1x03_P3.96mm_Vertical.wrl', 'pins': {'type': 'thru_hole', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'TE_826576-3_1x03_P3.96mm_Vertical'</td><td> 'description'</td></tr><tr><td> 'TE</td><td> 826576-3</td><td> 3 Pins (https</td></tr><tr><td>//www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=826576&DocType=Customer+Drawing&DocLang=English)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'connector TE 826576 vertical'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_TE-Connectivity.3dshapes/TE_826576-3_1x03_P3.96mm_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SO-SSOP-24_5.3x8.2mm_P0.65mm|
 |Hex ID (short code)|hexID|FZKSOSS2453X82P65|
 |name|name|Package_SO : SSOP-24_5.3x8.2mm_P0.65mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'SSOP-24_5.3x8.2mm_P0.65mm', 'description': '24-Lead Plastic Shrink Small Outline (SS)-5.30 mm Body [SSOP] (see Microchip Packaging Specification 00000049BS.pdf)', 'tags': 'SSOP 0.65', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/SSOP-24_5.3x8.2mm_P0.65mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SSOP-24_5.3x8.2mm_P0.65mm'</td><td> 'description'</td></tr><tr><td> '24-Lead Plastic Shrink Small Outline (SS)-5.30 mm Body [SSOP] (see Microchip Packaging Specification 00000049BS.pdf)'</td><td> 'tags'</td></tr><tr><td> 'SSOP 0.65'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_SO.3dshapes/SSOP-24_5.3x8.2mm_P0.65mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

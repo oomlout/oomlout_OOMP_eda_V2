@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Headphone_Jack_6.35mm_SN49B12B|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSHEADPHONEJ635SN49B12B|
 |name|name|digikey-footprints : Headphone_Jack_6.35mm_SN49B12B|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Headphone_Jack_6.35mm_SN49B12B', 'tags': None, 'attributeType': None, 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Headphone_Jack_6.35mm_SN49B12B'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

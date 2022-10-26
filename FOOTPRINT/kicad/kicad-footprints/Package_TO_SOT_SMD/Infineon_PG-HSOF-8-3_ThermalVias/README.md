@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-Infineon_PG-HSOF-8-3_ThermalVias|
 |Hex ID (short code)|hexID|FZKPACKAGETOSOTSMINFINEONPGHSOF83THERMALVIAS|
 |name|name|Package_TO_SOT_SMD : Infineon_PG-HSOF-8-3_ThermalVias|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Infineon_PG-HSOF-8-3_ThermalVias', 'description': 'HSOF-8-3 power MOSFET (http://www.infineon.com/cms/en/product/packages/PG-HSOF/PG-HSOF-8-3/)', 'tags': 'mosfet hsof', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/Infineon_PG-HSOF-8-3.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Infineon_PG-HSOF-8-3_ThermalVias'</td><td> 'description'</td></tr><tr><td> 'HSOF-8-3 power MOSFET (http</td></tr><tr><td>//www.infineon.com/cms/en/product/packages/PG-HSOF/PG-HSOF-8-3/)'</td><td> 'tags'</td></tr><tr><td> 'mosfet hsof'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_TO_SOT_SMD.3dshapes/Infineon_PG-HSOF-8-3.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

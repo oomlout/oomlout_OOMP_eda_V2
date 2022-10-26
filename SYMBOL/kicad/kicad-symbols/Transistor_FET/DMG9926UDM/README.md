@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORFETDMG9926UDM > DMG9926UDM
+# SZKTRANSISTORFETDMG9926UDM > Transistor_FET : DMG9926UDM
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-DMG9926UDM
 - Hex ID: SZKTRANSISTORFETDMG9926UDM
-- Name: DMG9926UDM
-- Description: DMG9926UDM
+- Name: Transistor_FET : DMG9926UDM
+- Description: Transistor_FET : DMG9926UDM
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-DMG9926UDM](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-DMG9926UDM)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETDMG9926UDM](http://oom.lt/SZKTRANSISTORFETDMG9926UDM)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DMG9926UDM|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-DMG9926UDM|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETDMG9926UDM|
-|name|name|DMG9926UDM|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'DMG9926UDM', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-6', 'kicadSymbolDatasheet': 'https://www.diodes.com/assets/Datasheets/ds31770.pdf', 'kicadSymbolki_keywords': 'Dual Half Bridge N-Channel MOSFET Logic Level Common Drain', 'kicadSymbolki_description': '4.2A Id, 20V Vds, Common-Drain, Dual Half Bridge N-Channel MOSFET, 28mOhm Ron, SOT-23-6', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
+|name|name|Transistor_FET : DMG9926UDM|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'DMG9926UDM'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-23-6'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.diodes.com/assets/Datasheets/ds31770.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Dual Half Bridge N-Channel MOSFET Logic Level Common Drain'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '4.2A Id</td><td> 20V Vds</td><td> Common-Drain</td><td> Dual Half Bridge N-Channel MOSFET</td><td> 28mOhm Ron</td><td> SOT-23-6'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23*'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKANALOGADCMCP34 > MCP3004
+# SZKANALOGADCMCP34 > Analog_ADC : MCP3004
 
 - ID: SYMBOL-kicad-kicad-symbols-Analog_ADC-MCP3004
 - Hex ID: SZKANALOGADCMCP34
-- Name: MCP3004
-- Description: MCP3004
+- Name: Analog_ADC : MCP3004
+- Description: Analog_ADC : MCP3004
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-MCP3004](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-MCP3004)
 - Short Link: [http://oom.lt/SZKANALOGADCMCP34](http://oom.lt/SZKANALOGADCMCP34)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MCP3004|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_ADC-MCP3004|
 |Hex ID (short code)|hexID|SZKANALOGADCMCP34|
-|name|name|MCP3004|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MCP3004', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/21295C.pdf', 'kicadSymbolki_keywords': '10-Bit ADC SPI 4CH', 'kicadSymbolki_description': '4-Channel 10-Bit A/D Converters with SPI Interface', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm* SOIC*3.9x8.7mm*P1.27mm* TSSOP*4.4x5mm*P0.65mm*'}]|
+|name|name|Analog_ADC : MCP3004|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MCP3004'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/21295C.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> '10-Bit ADC SPI 4CH'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '4-Channel 10-Bit A/D Converters with SPI Interface'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W7.62mm* SOIC*3.9x8.7mm*P1.27mm* TSSOP*4.4x5mm*P0.65mm*'</td></tr></table>]|
 ||||

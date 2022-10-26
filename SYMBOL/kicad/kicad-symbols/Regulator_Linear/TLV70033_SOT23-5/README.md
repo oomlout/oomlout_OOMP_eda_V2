@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORLINEARTLV733SOT235 > TLV70033_SOT23-5
+# SZKREGULATORLINEARTLV733SOT235 > Regulator_Linear : TLV70033_SOT23-5
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-TLV70033_SOT23-5
 - Hex ID: SZKREGULATORLINEARTLV733SOT235
-- Name: TLV70033_SOT23-5
-- Description: TLV70033_SOT23-5
+- Name: Regulator_Linear : TLV70033_SOT23-5
+- Description: Regulator_Linear : TLV70033_SOT23-5
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TLV70033_SOT23-5](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TLV70033_SOT23-5)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARTLV733SOT235](http://oom.lt/SZKREGULATORLINEARTLV733SOT235)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TLV70033_SOT23-5|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-TLV70033_SOT23-5|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARTLV733SOT235|
-|name|name|TLV70033_SOT23-5|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TLV70012_SOT23-5', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TLV70033_SOT23-5', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-5', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tlv700.pdf', 'kicadSymbolki_keywords': '200mA LDO Regulator Fixed Positive', 'kicadSymbolki_description': '200mA Low Dropout Voltage Regulator, Fixed Output 3.3V, SOT-23-5', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
+|name|name|Regulator_Linear : TLV70033_SOT23-5|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'TLV70012_SOT23-5'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TLV70033_SOT23-5'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-23-5'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/tlv700.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> '200mA LDO Regulator Fixed Positive'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '200mA Low Dropout Voltage Regulator</td><td> Fixed Output 3.3V</td><td> SOT-23-5'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23*'</td></tr></table>]|
 ||||

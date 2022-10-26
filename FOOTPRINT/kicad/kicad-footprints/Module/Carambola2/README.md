@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Module-Carambola2|
 |Hex ID (short code)|hexID|FZKMOCARAMBOLA2|
 |name|name|Module : Carambola2|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Carambola2', 'description': '8devices Carambola2, OpenWRT, industrial SoM computer, https://www.8devices.com/media/products/carambola2/downloads/carambola2-datasheet.pdf', 'tags': 'carambola2 8devices', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Module.3dshapes/Carambola2.wrl', 'pins': {'type': 'smd', 'shape': 'custom'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Carambola2'</td><td> 'description'</td></tr><tr><td> '8devices Carambola2</td><td> OpenWRT</td><td> industrial SoM computer</td><td> https</td></tr><tr><td>//www.8devices.com/media/products/carambola2/downloads/carambola2-datasheet.pdf'</td><td> 'tags'</td></tr><tr><td> 'carambola2 8devices'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Module.3dshapes/Carambola2.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'custom'</td></tr></table></td></tr></table>|
 ||||
 
 

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_DPDT_FRT5|
 |Hex ID (short code)|hexID|FZKRELRELAYDPDTFRT5|
 |name|name|Relay_THT : Relay_DPDT_FRT5|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Relay_DPDT_FRT5', 'description': 'IM Signal Relay DPDT FRT5 narrow footprint', 'tags': 'Relay DPDT IM-relay FRT5', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Relay_THT.3dshapes/Relay_DPDT_FRT5.wrl', 'pins': {'type': 'thru_hole', 'shape': 'oval'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Relay_DPDT_FRT5'</td><td> 'description'</td></tr><tr><td> 'IM Signal Relay DPDT FRT5 narrow footprint'</td><td> 'tags'</td></tr><tr><td> 'Relay DPDT IM-relay FRT5'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Relay_THT.3dshapes/Relay_DPDT_FRT5.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'oval'</td></tr></table></td></tr></table>|
 ||||
 
 

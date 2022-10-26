@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUMCHIPPIC12PIC12LF184IP > PIC12LF1840-IP
+# SZKMCUMCHIPPIC12PIC12LF184IP > MCU_Microchip_PIC12 : PIC12LF1840-IP
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC12-PIC12LF1840-IP
 - Hex ID: SZKMCUMCHIPPIC12PIC12LF184IP
-- Name: PIC12LF1840-IP
-- Description: PIC12LF1840-IP
+- Name: MCU_Microchip_PIC12 : PIC12LF1840-IP
+- Description: MCU_Microchip_PIC12 : PIC12LF1840-IP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC12-PIC12LF1840-IP](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC12-PIC12LF1840-IP)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC12PIC12LF184IP](http://oom.lt/SZKMCUMCHIPPIC12PIC12LF184IP)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PIC12LF1840-IP|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC12-PIC12LF1840-IP|
 |Hex ID (short code)|hexID|SZKMCUMCHIPPIC12PIC12LF184IP|
-|name|name|PIC12LF1840-IP|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'PIC12F1840-IP', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PIC12LF1840-IP', 'kicadSymbolFootprint': 'Package_DIP:DIP-8_W7.62mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/41441B.pdf', 'kicadSymbolki_keywords': 'FLASH-Based 8-Bit CMOS Microcontroller XLP', 'kicadSymbolki_description': '4kW FLASH, 256B SRAM, 256B EEPROM, PDIP8', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
+|name|name|MCU_Microchip_PIC12 : PIC12LF1840-IP|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'PIC12F1840-IP'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'PIC12LF1840-IP'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>DIP-8_W7.62mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/41441B.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'FLASH-Based 8-Bit CMOS Microcontroller XLP'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '4kW FLASH</td><td> 256B SRAM</td><td> 256B EEPROM</td><td> PDIP8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W7.62mm*'</td></tr></table>]|
 ||||

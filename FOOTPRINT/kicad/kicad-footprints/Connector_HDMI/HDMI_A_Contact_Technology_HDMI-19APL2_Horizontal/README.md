@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_HDMI-HDMI_A_Contact_Technology_HDMI-19APL2_Horizontal|
 |Hex ID (short code)|hexID|FZKCNHDMIHDMIACONTACTTECHNOLOGYHDMI19APL2HORIZONTAL|
 |name|name|Connector_HDMI : HDMI_A_Contact_Technology_HDMI-19APL2_Horizontal|
-|Footprint Kicad|footprintKicadDetails|{'name': 'HDMI_A_Contact_Technology_HDMI-19APL2_Horizontal', 'description': 'HDMI Contact Technology Type A http://www.contactswitch.com/en/download.aspx?id=1449', 'tags': 'HDMI Contact Technology Type A', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_HDMI.3dshapes/HDMI_A_Contact_Technology_HDMI-19APL2_Horizontal.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'HDMI_A_Contact_Technology_HDMI-19APL2_Horizontal'</td><td> 'description'</td></tr><tr><td> 'HDMI Contact Technology Type A http</td></tr><tr><td>//www.contactswitch.com/en/download.aspx?id=1449'</td><td> 'tags'</td></tr><tr><td> 'HDMI Contact Technology Type A'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_HDMI.3dshapes/HDMI_A_Contact_Technology_HDMI-19APL2_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

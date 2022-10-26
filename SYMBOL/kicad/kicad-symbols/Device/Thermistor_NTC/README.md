@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDEVICETHERMISTORNTC > Thermistor_NTC
+# SZKDEVICETHERMISTORNTC > Device : Thermistor_NTC
 
 - ID: SYMBOL-kicad-kicad-symbols-Device-Thermistor_NTC
 - Hex ID: SZKDEVICETHERMISTORNTC
-- Name: Thermistor_NTC
-- Description: Thermistor_NTC
+- Name: Device : Thermistor_NTC
+- Description: Device : Thermistor_NTC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Thermistor_NTC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Thermistor_NTC)
 - Short Link: [http://oom.lt/SZKDEVICETHERMISTORNTC](http://oom.lt/SZKDEVICETHERMISTORNTC)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Thermistor_NTC|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-Thermistor_NTC|
 |Hex ID (short code)|hexID|SZKDEVICETHERMISTORNTC|
-|name|name|Thermistor_NTC|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'TH', 'kicadSymbolValue': 'Thermistor_NTC', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'thermistor NTC resistor sensor RTD', 'kicadSymbolki_description': 'Temperature dependent resistor, negative temperature coefficient', 'kicadSymbolki_fp_filters': '*NTC* *Thermistor* PIN?ARRAY* bornier* *Terminal?Block* R_*'}]|
+|name|name|Device : Thermistor_NTC|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'TH'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Thermistor_NTC'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'thermistor NTC resistor sensor RTD'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Temperature dependent resistor</td><td> negative temperature coefficient'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> '*NTC* *Thermistor* PIN?ARRAY* bornier* *Terminal?Block* R_*'</td></tr></table>]|
 ||||

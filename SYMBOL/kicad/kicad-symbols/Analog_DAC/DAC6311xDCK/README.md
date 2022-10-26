@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKANALOGDACDAC6311XDCK > DAC6311xDCK
+# SZKANALOGDACDAC6311XDCK > Analog_DAC : DAC6311xDCK
 
 - ID: SYMBOL-kicad-kicad-symbols-Analog_DAC-DAC6311xDCK
 - Hex ID: SZKANALOGDACDAC6311XDCK
-- Name: DAC6311xDCK
-- Description: DAC6311xDCK
+- Name: Analog_DAC : DAC6311xDCK
+- Description: Analog_DAC : DAC6311xDCK
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-DAC6311xDCK](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-DAC6311xDCK)
 - Short Link: [http://oom.lt/SZKANALOGDACDAC6311XDCK](http://oom.lt/SZKANALOGDACDAC6311XDCK)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DAC6311xDCK|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_DAC-DAC6311xDCK|
 |Hex ID (short code)|hexID|SZKANALOGDACDAC6311XDCK|
-|name|name|DAC6311xDCK|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'DAC5311xDCK', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'DAC6311xDCK', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-363_SC-70-6', 'kicadSymbolDatasheet': 'https://www.ti.com/lit/ds/symlink/dac5311.pdf', 'kicadSymbolki_keywords': 'DAC SPI 1-channel', 'kicadSymbolki_description': '10-Bit, Single-Channel, Voltage Output, Serial Interface Digital-to-Analog Converters, SC-70', 'kicadSymbolki_fp_filters': 'SOT?363*'}]|
+|name|name|Analog_DAC : DAC6311xDCK|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'DAC5311xDCK'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'DAC6311xDCK'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-363_SC-70-6'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.ti.com/lit/ds/symlink/dac5311.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'DAC SPI 1-channel'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '10-Bit</td><td> Single-Channel</td><td> Voltage Output</td><td> Serial Interface Digital-to-Analog Converters</td><td> SC-70'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?363*'</td></tr></table>]|
 ||||

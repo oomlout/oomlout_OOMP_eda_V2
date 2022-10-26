@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKBATMANAGEMENTBQ2413 > BQ24013
+# SZKBATMANAGEMENTBQ2413 > Battery_Management : BQ24013
 
 - ID: SYMBOL-kicad-kicad-symbols-Battery_Management-BQ24013
 - Hex ID: SZKBATMANAGEMENTBQ2413
-- Name: BQ24013
-- Description: BQ24013
+- Name: Battery_Management : BQ24013
+- Description: Battery_Management : BQ24013
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-BQ24013](http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-BQ24013)
 - Short Link: [http://oom.lt/SZKBATMANAGEMENTBQ2413](http://oom.lt/SZKBATMANAGEMENTBQ2413)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BQ24013|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Battery_Management-BQ24013|
 |Hex ID (short code)|hexID|SZKBATMANAGEMENTBQ2413|
-|name|name|BQ24013|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'BQ24013', 'kicadSymbolFootprint': 'Package_SON:Texas_DRC0010J_ThermalVias', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/bq24012.pdf', 'kicadSymbolki_keywords': 'Batter Charger Li-Ion', 'kicadSymbolki_description': 'Single-Chip Li-Ion Charge Management IC, VSON-10', 'kicadSymbolki_fp_filters': 'Texas*DRC0010J*'}]|
+|name|name|Battery_Management : BQ24013|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'BQ24013'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SON</td></tr><tr><td>Texas_DRC0010J_ThermalVias'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/bq24012.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Batter Charger Li-Ion'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Single-Chip Li-Ion Charge Management IC</td><td> VSON-10'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Texas*DRC0010J*'</td></tr></table>]|
 ||||

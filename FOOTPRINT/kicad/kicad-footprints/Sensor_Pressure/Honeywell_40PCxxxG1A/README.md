@@ -29,5 +29,5 @@ NO IMAGE
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Sensor_Pressure-Honeywell_40PCxxxG1A|
 |Hex ID (short code)|hexID|FZKSENPRESSUREHONEYWELL4PCXXXG1A|
 |name|name|Sensor_Pressure : Honeywell_40PCxxxG1A|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Honeywell_40PCxxxG1A', 'description': 'https://www.honeywellscportal.com/index.php?ci_id=138832', 'tags': 'pressure sensor automotive honeywell', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Sensor_Pressure.3dshapes/Honeywell_40PCxxxG1A.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Honeywell_40PCxxxG1A'</td><td> 'description'</td></tr><tr><td> 'https</td></tr><tr><td>//www.honeywellscportal.com/index.php?ci_id=138832'</td><td> 'tags'</td></tr><tr><td> 'pressure sensor automotive honeywell'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Sensor_Pressure.3dshapes/Honeywell_40PCxxxG1A.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

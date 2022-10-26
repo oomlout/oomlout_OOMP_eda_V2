@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKISOLATORADUM7641A > ADuM7641A
+# SZKISOLATORADUM7641A > Isolator : ADuM7641A
 
 - ID: SYMBOL-kicad-kicad-symbols-Isolator-ADuM7641A
 - Hex ID: SZKISOLATORADUM7641A
-- Name: ADuM7641A
-- Description: ADuM7641A
+- Name: Isolator : ADuM7641A
+- Description: Isolator : ADuM7641A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-ADuM7641A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-ADuM7641A)
 - Short Link: [http://oom.lt/SZKISOLATORADUM7641A](http://oom.lt/SZKISOLATORADUM7641A)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ADuM7641A|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Isolator-ADuM7641A|
 |Hex ID (short code)|hexID|SZKISOLATORADUM7641A|
-|name|name|ADuM7641A|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ADuM7641C', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ADuM7641A', 'kicadSymbolFootprint': 'Package_SO:QSOP-20_3.9x8.7mm_P0.635mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/ADuM7640_7641_7642_7643.pdf', 'kicadSymbolki_keywords': '6-Channels Hex Digital Isolator 1Mbps', 'kicadSymbolki_description': 'Low Power Six-Channel 5/1 Digital Isolator, 1Mbps 25ns, Fail-Safe High, QSOP-20', 'kicadSymbolki_fp_filters': 'QSOP*3.9x8.7mm*P0.635mm*'}]|
+|name|name|Isolator : ADuM7641A|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'ADuM7641C'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ADuM7641A'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>QSOP-20_3.9x8.7mm_P0.635mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/ADuM7640_7641_7642_7643.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> '6-Channels Hex Digital Isolator 1Mbps'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Low Power Six-Channel 5/1 Digital Isolator</td><td> 1Mbps 25ns</td><td> Fail-Safe High</td><td> QSOP-20'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'QSOP*3.9x8.7mm*P0.635mm*'</td></tr></table>]|
 ||||

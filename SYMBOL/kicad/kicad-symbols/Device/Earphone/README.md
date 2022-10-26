@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDEVICEEARPHONE > Earphone
+# SZKDEVICEEARPHONE > Device : Earphone
 
 - ID: SYMBOL-kicad-kicad-symbols-Device-Earphone
 - Hex ID: SZKDEVICEEARPHONE
-- Name: Earphone
-- Description: Earphone
+- Name: Device : Earphone
+- Description: Device : Earphone
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Earphone](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Earphone)
 - Short Link: [http://oom.lt/SZKDEVICEEARPHONE](http://oom.lt/SZKDEVICEEARPHONE)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Earphone|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-Earphone|
 |Hex ID (short code)|hexID|SZKDEVICEEARPHONE|
-|name|name|Earphone|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'LS', 'kicadSymbolValue': 'Earphone', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'earphone speaker headphone', 'kicadSymbolki_description': 'Earphone, polarized'}]|
+|name|name|Device : Earphone|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'LS'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Earphone'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'earphone speaker headphone'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Earphone</td><td> polarized'</td></tr></table>]|
 ||||

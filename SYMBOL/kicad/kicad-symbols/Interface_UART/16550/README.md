@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKINTERFACEUART1655 > 16550
+# SZKINTERFACEUART1655 > Interface_UART : 16550
 
 - ID: SYMBOL-kicad-kicad-symbols-Interface_UART-16550
 - Hex ID: SZKINTERFACEUART1655
-- Name: 16550
-- Description: 16550
+- Name: Interface_UART : 16550
+- Description: Interface_UART : 16550
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-16550](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-16550)
 - Short Link: [http://oom.lt/SZKINTERFACEUART1655](http://oom.lt/SZKINTERFACEUART1655)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|16550|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_UART-16550|
 |Hex ID (short code)|hexID|SZKINTERFACEUART1655|
-|name|name|16550|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '16550', 'kicadSymbolFootprint': 'Package_DIP:DIP-40_W15.24mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/pc16550d.pdf', 'kicadSymbolki_keywords': '1ch UART FIFO', 'kicadSymbolki_description': 'PC16550D, Universal Asynchronous Receiver/Transmitter with FIFOs, PDIP-40', 'kicadSymbolki_fp_filters': 'DIP*W15.24mm*'}]|
+|name|name|Interface_UART : 16550|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> '16550'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>DIP-40_W15.24mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/pc16550d.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> '1ch UART FIFO'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'PC16550D</td><td> Universal Asynchronous Receiver/Transmitter with FIFOs</td><td> PDIP-40'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W15.24mm*'</td></tr></table>]|
 ||||

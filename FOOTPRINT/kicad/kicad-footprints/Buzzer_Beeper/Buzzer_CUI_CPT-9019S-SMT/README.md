@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Buzzer_Beeper-Buzzer_CUI_CPT-9019S-SMT|
 |Hex ID (short code)|hexID|FZKBZBUZZERCUICPT919SS|
 |name|name|Buzzer_Beeper : Buzzer_CUI_CPT-9019S-SMT|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Buzzer_CUI_CPT-9019S-SMT', 'description': 'https://www.cui.com/product/resource/cpt-9019s-smt.pdf', 'tags': 'buzzer piezo', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Buzzer_Beeper.3dshapes/Buzzer_CUI_CPT-9019S-SMT.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Buzzer_CUI_CPT-9019S-SMT'</td><td> 'description'</td></tr><tr><td> 'https</td></tr><tr><td>//www.cui.com/product/resource/cpt-9019s-smt.pdf'</td><td> 'tags'</td></tr><tr><td> 'buzzer piezo'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Buzzer_Beeper.3dshapes/Buzzer_CUI_CPT-9019S-SMT.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

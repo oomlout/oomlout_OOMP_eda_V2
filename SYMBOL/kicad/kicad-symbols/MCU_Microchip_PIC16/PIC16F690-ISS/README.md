@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUMCHIPPIC16PIC16F69ISS > PIC16F690-ISS
+# SZKMCUMCHIPPIC16PIC16F69ISS > MCU_Microchip_PIC16 : PIC16F690-ISS
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F690-ISS
 - Hex ID: SZKMCUMCHIPPIC16PIC16F69ISS
-- Name: PIC16F690-ISS
-- Description: PIC16F690-ISS
+- Name: MCU_Microchip_PIC16 : PIC16F690-ISS
+- Description: MCU_Microchip_PIC16 : PIC16F690-ISS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F690-ISS](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F690-ISS)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC16PIC16F69ISS](http://oom.lt/SZKMCUMCHIPPIC16PIC16F69ISS)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PIC16F690-ISS|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F690-ISS|
 |Hex ID (short code)|hexID|SZKMCUMCHIPPIC16PIC16F69ISS|
-|name|name|PIC16F690-ISS|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PIC16F690-ISS', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/41262E.pdf', 'kicadSymbolki_keywords': 'Flash-Based 8-Bit CMOS Microcontroller nanoWatt', 'kicadSymbolki_description': 'PIC16F690, 4096W Flash, 256B SRAM, 256B EEPROM, SSOP20', 'kicadSymbolki_fp_filters': 'SSOP*'}]|
+|name|name|MCU_Microchip_PIC16 : PIC16F690-ISS|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'PIC16F690-ISS'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/41262E.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Flash-Based 8-Bit CMOS Microcontroller nanoWatt'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'PIC16F690</td><td> 4096W Flash</td><td> 256B SRAM</td><td> 256B EEPROM</td><td> SSOP20'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SSOP*'</td></tr></table>]|
 ||||

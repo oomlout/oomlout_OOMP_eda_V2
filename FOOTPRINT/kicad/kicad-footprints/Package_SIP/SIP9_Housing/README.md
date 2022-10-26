@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SIP-SIP9_Housing|
 |Hex ID (short code)|hexID|FZKSIPSIP9HOUSING|
 |name|name|Package_SIP : SIP9_Housing|
-|Footprint Kicad|footprintKicadDetails|{'name': 'SIP9_Housing', 'description': 'SIP9', 'tags': 'SIP9', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SIP.3dshapes/SIP9_Housing.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SIP9_Housing'</td><td> 'description'</td></tr><tr><td> 'SIP9'</td><td> 'tags'</td></tr><tr><td> 'SIP9'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_SIP.3dshapes/SIP9_Housing.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

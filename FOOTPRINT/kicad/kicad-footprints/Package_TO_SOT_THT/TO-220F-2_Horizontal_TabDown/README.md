@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-220F-2_Horizontal_TabDown|
 |Hex ID (short code)|hexID|FZKSOTTO22F2HORIZONTALTABDOWN|
 |name|name|Package_TO_SOT_THT : TO-220F-2_Horizontal_TabDown|
-|Footprint Kicad|footprintKicadDetails|{'name': 'TO-220F-2_Horizontal_TabDown', 'description': 'TO-220F-2, Horizontal, RM 5.08mm, see http://www.onsemi.com/pub/Collateral/FFPF10F150S-D.pdf', 'tags': 'TO-220F-2 Horizontal RM 5.08mm', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/TO-220F-2_Horizontal_TabDown.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'oval'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'TO-220F-2_Horizontal_TabDown'</td><td> 'description'</td></tr><tr><td> 'TO-220F-2</td><td> Horizontal</td><td> RM 5.08mm</td><td> see http</td></tr><tr><td>//www.onsemi.com/pub/Collateral/FFPF10F150S-D.pdf'</td><td> 'tags'</td></tr><tr><td> 'TO-220F-2 Horizontal RM 5.08mm'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_TO_SOT_THT.3dshapes/TO-220F-2_Horizontal_TabDown.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'oval'</td></tr></table></td></tr></table>|
 ||||
 
 

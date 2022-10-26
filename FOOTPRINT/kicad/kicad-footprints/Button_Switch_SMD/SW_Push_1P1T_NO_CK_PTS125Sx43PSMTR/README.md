@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_Push_1P1T_NO_CK_PTS125Sx43PSMTR|
 |Hex ID (short code)|hexID|FZKBSWITCHSMSWPUSH1P1TNOCKPTS125SX43PSMTR|
 |name|name|Button_Switch_SMD : SW_Push_1P1T_NO_CK_PTS125Sx43PSMTR|
-|Footprint Kicad|footprintKicadDetails|{'name': 'SW_Push_1P1T_NO_CK_PTS125Sx43PSMTR', 'description': 'C&K Switches 1P1T SMD PTS125 Series 12mm Tact Switch with Pegs, https://www.ckswitches.com/media/1462/pts125.pdf', 'tags': 'Button Tactile Switch SPST 1P1T', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_Push_1P1T_NO_CK_PTS125Sx43PSMTR.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SW_Push_1P1T_NO_CK_PTS125Sx43PSMTR'</td><td> 'description'</td></tr><tr><td> 'C&K Switches 1P1T SMD PTS125 Series 12mm Tact Switch with Pegs</td><td> https</td></tr><tr><td>//www.ckswitches.com/media/1462/pts125.pdf'</td><td> 'tags'</td></tr><tr><td> 'Button Tactile Switch SPST 1P1T'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Button_Switch_SMD.3dshapes/SW_Push_1P1T_NO_CK_PTS125Sx43PSMTR.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

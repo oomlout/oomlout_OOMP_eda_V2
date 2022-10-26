@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SON-Texas_S-PVSON-N8_ThermalVias|
 |Hex ID (short code)|hexID|FZKSONTEXASSPVSONN8THERMALVIAS|
 |name|name|Package_SON : Texas_S-PVSON-N8_ThermalVias|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Texas_S-PVSON-N8_ThermalVias', 'description': '8-Lead Plastic VSON, 3x3mm Body, 0.65mm Pitch, S-PVSON-N8, http://www.ti.com/lit/ds/symlink/opa2333.pdf', 'tags': 'DFN 0.65 S-PVSON-N8', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SON.3dshapes/Texas_S-PVSON-N8.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Texas_S-PVSON-N8_ThermalVias'</td><td> 'description'</td></tr><tr><td> '8-Lead Plastic VSON</td><td> 3x3mm Body</td><td> 0.65mm Pitch</td><td> S-PVSON-N8</td><td> http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/opa2333.pdf'</td><td> 'tags'</td></tr><tr><td> 'DFN 0.65 S-PVSON-N8'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_SON.3dshapes/Texas_S-PVSON-N8.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

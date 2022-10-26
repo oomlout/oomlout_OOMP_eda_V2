@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector-Banana_Jack_2Pin|
 |Hex ID (short code)|hexID|FZKCNBANANAJ2PIN|
 |name|name|Connector : Banana_Jack_2Pin|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Banana_Jack_2Pin', 'description': 'Dual banana socket, footprint - 2 x 6mm drills', 'tags': 'banana socket', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector.3dshapes/Banana_Jack_2Pin.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Banana_Jack_2Pin'</td><td> 'description'</td></tr><tr><td> 'Dual banana socket</td><td> footprint - 2 x 6mm drills'</td><td> 'tags'</td></tr><tr><td> 'banana socket'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector.3dshapes/Banana_Jack_2Pin.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

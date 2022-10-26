@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKPSPICEMNMOS > MNMOS
+# SZKPSPICEMNMOS > pspice : MNMOS
 
 - ID: SYMBOL-kicad-kicad-symbols-pspice-MNMOS
 - Hex ID: SZKPSPICEMNMOS
-- Name: MNMOS
-- Description: MNMOS
+- Name: pspice : MNMOS
+- Description: pspice : MNMOS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-pspice-MNMOS](http://oom.lt/SYMBOL-kicad-kicad-symbols-pspice-MNMOS)
 - Short Link: [http://oom.lt/SZKPSPICEMNMOS](http://oom.lt/SZKPSPICEMNMOS)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MNMOS|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-pspice-MNMOS|
 |Hex ID (short code)|hexID|SZKPSPICEMNMOS|
-|name|name|MNMOS|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'M', 'kicadSymbolValue': 'MNMOS', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'mosfet nmos simulation', 'kicadSymbolki_description': 'N-channel MOSFET symbol for simulation only'}]|
+|name|name|pspice : MNMOS|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'M'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MNMOS'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'mosfet nmos simulation'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'N-channel MOSFET symbol for simulation only'</td></tr></table>]|
 ||||

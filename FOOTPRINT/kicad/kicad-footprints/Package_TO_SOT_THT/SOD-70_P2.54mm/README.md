@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-SOD-70_P2.54mm|
 |Hex ID (short code)|hexID|FZKSOTSOD7P254|
 |name|name|Package_TO_SOT_THT : SOD-70_P2.54mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'SOD-70_P2.54mm', 'description': 'Plastic near cylindrical package Sod-70 see: https://www.nxp.com/docs/en/data-sheet/KTY81_SER.pdf  [StepUp generated footprint]', 'tags': 'Sod-70', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/SOD-70_P2.54mm.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SOD-70_P2.54mm'</td><td> 'description'</td></tr><tr><td> 'Plastic near cylindrical package Sod-70 see</td></tr><tr><td> https</td></tr><tr><td>//www.nxp.com/docs/en/data-sheet/KTY81_SER.pdf  [StepUp generated footprint]'</td><td> 'tags'</td></tr><tr><td> 'Sod-70'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_TO_SOT_THT.3dshapes/SOD-70_P2.54mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

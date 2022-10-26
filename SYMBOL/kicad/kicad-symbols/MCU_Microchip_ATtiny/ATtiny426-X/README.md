@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUMCHIPATTINYATTINY426X > ATtiny426-X
+# SZKMCUMCHIPATTINYATTINY426X > MCU_Microchip_ATtiny : ATtiny426-X
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny426-X
 - Hex ID: SZKMCUMCHIPATTINYATTINY426X
-- Name: ATtiny426-X
-- Description: ATtiny426-X
+- Name: MCU_Microchip_ATtiny : ATtiny426-X
+- Description: MCU_Microchip_ATtiny : ATtiny426-X
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny426-X](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny426-X)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATTINYATTINY426X](http://oom.lt/SZKMCUMCHIPATTINYATTINY426X)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ATtiny426-X|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny426-X|
 |Hex ID (short code)|hexID|SZKMCUMCHIPATTINYATTINY426X|
-|name|name|ATtiny426-X|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ATtiny406-S', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ATtiny426-X', 'kicadSymbolFootprint': 'Package_SO:SSOP-20_5.3x7.2mm_P0.65mm', 'kicadSymbolDatasheet': 'https://ww1.microchip.com/downloads/en/DeviceDoc/ATtiny424-426-427-824-826-827-DataSheet-DS40002311A.pdf', 'kicadSymbolki_keywords': 'AVR 8bit Microcontroller tinyAVR', 'kicadSymbolki_description': '20MHz, 4kB Flash, 512B SRAM, 128B EEPROM, SSOP-20', 'kicadSymbolki_fp_filters': 'SSOP*5.3x7.2mm*P0.65mm*'}]|
+|name|name|MCU_Microchip_ATtiny : ATtiny426-X|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'ATtiny406-S'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ATtiny426-X'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SSOP-20_5.3x7.2mm_P0.65mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/ATtiny424-426-427-824-826-827-DataSheet-DS40002311A.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'AVR 8bit Microcontroller tinyAVR'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '20MHz</td><td> 4kB Flash</td><td> 512B SRAM</td><td> 128B EEPROM</td><td> SSOP-20'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SSOP*5.3x7.2mm*P0.65mm*'</td></tr></table>]|
 ||||

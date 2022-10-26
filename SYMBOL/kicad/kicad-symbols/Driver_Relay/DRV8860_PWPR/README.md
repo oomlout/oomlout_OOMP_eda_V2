@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDRIVERRELAYDRV886PWPR > DRV8860_PWPR
+# SZKDRIVERRELAYDRV886PWPR > Driver_Relay : DRV8860_PWPR
 
 - ID: SYMBOL-kicad-kicad-symbols-Driver_Relay-DRV8860_PWPR
 - Hex ID: SZKDRIVERRELAYDRV886PWPR
-- Name: DRV8860_PWPR
-- Description: DRV8860_PWPR
+- Name: Driver_Relay : DRV8860_PWPR
+- Description: Driver_Relay : DRV8860_PWPR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Relay-DRV8860_PWPR](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Relay-DRV8860_PWPR)
 - Short Link: [http://oom.lt/SZKDRIVERRELAYDRV886PWPR](http://oom.lt/SZKDRIVERRELAYDRV886PWPR)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DRV8860_PWPR|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Driver_Relay-DRV8860_PWPR|
 |Hex ID (short code)|hexID|SZKDRIVERRELAYDRV886PWPR|
-|name|name|DRV8860_PWPR|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'DRV8860_PWPR', 'kicadSymbolFootprint': 'Package_SO:TSSOP-16-1EP_4.4x5mm_P0.65mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/drv8860.pdf', 'kicadSymbolki_keywords': 'Relay Driver', 'kicadSymbolki_description': '8-Channel Serial Interface Low-Side Driver', 'kicadSymbolki_fp_filters': 'TSSOP*4.4x5mm*P0.65mm*'}]|
+|name|name|Driver_Relay : DRV8860_PWPR|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'DRV8860_PWPR'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>TSSOP-16-1EP_4.4x5mm_P0.65mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/drv8860.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Relay Driver'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '8-Channel Serial Interface Low-Side Driver'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TSSOP*4.4x5mm*P0.65mm*'</td></tr></table>]|
 ||||

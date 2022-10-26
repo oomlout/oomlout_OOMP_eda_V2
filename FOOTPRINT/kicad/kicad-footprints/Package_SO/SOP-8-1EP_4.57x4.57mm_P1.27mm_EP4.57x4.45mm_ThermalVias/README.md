@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SO-SOP-8-1EP_4.57x4.57mm_P1.27mm_EP4.57x4.45mm_ThermalVias|
 |Hex ID (short code)|hexID|FZKSOS81EP457X457P127EP457X445THERMALVIAS|
 |name|name|Package_SO : SOP-8-1EP_4.57x4.57mm_P1.27mm_EP4.57x4.45mm_ThermalVias|
-|Footprint Kicad|footprintKicadDetails|{'name': 'SOP-8-1EP_4.57x4.57mm_P1.27mm_EP4.57x4.45mm_ThermalVias', 'description': 'SOP, 8 Pin (https://ww2.minicircuits.com/case_style/XX112.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py', 'tags': 'SOP SO', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/SOP-8-1EP_4.57x4.57mm_P1.27mm_EP4.57x4.45mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SOP-8-1EP_4.57x4.57mm_P1.27mm_EP4.57x4.45mm_ThermalVias'</td><td> 'description'</td></tr><tr><td> 'SOP</td><td> 8 Pin (https</td></tr><tr><td>//ww2.minicircuits.com/case_style/XX112.pdf)</td><td> generated with kicad-footprint-generator ipc_gullwing_generator.py'</td><td> 'tags'</td></tr><tr><td> 'SOP SO'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_SO.3dshapes/SOP-8-1EP_4.57x4.57mm_P1.27mm_EP4.57x4.45mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

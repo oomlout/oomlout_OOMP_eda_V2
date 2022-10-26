@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SO-HTSSOP-20-1EP_4.4x6.5mm_P0.65mm_EP2.74x3.86mm|
 |Hex ID (short code)|hexID|FZKSOHTSS21EP44X65P65EP274X386|
 |name|name|Package_SO : HTSSOP-20-1EP_4.4x6.5mm_P0.65mm_EP2.74x3.86mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'HTSSOP-20-1EP_4.4x6.5mm_P0.65mm_EP2.74x3.86mm', 'description': 'HTSSOP, 20 Pin (https://www.analog.com/media/en/technical-documentation/data-sheets/4011fb.pdf#page=24), generated with kicad-footprint-generator ipc_gullwing_generator.py', 'tags': 'HTSSOP SO', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/HTSSOP-20-1EP_4.4x6.5mm_P0.65mm_EP2.74x3.86mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'HTSSOP-20-1EP_4.4x6.5mm_P0.65mm_EP2.74x3.86mm'</td><td> 'description'</td></tr><tr><td> 'HTSSOP</td><td> 20 Pin (https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/4011fb.pdf#page=24)</td><td> generated with kicad-footprint-generator ipc_gullwing_generator.py'</td><td> 'tags'</td></tr><tr><td> 'HTSSOP SO'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_SO.3dshapes/HTSSOP-20-1EP_4.4x6.5mm_P0.65mm_EP2.74x3.86mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

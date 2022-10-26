@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_RGB_Wuerth-PLCC4_3.2x2.8mm_150141M173100|
 |Hex ID (short code)|hexID|FZKLSMLRGBWUERTHPLCC432X2815141M1731|
 |name|name|LED_SMD : LED_RGB_Wuerth-PLCC4_3.2x2.8mm_150141M173100|
-|Footprint Kicad|footprintKicadDetails|{'name': 'LED_RGB_Wuerth-PLCC4_3.2x2.8mm_150141M173100', 'description': '3.2mm x 2.8mm PLCC4 LED, https://www.we-online.de/katalog/datasheet/150141M173100.pdf', 'tags': 'LED RGB Wurth PLCC-4', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED_RGB_Wuerth-PLCC4_3.2x2.8mm_150141M173100.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'LED_RGB_Wuerth-PLCC4_3.2x2.8mm_150141M173100'</td><td> 'description'</td></tr><tr><td> '3.2mm x 2.8mm PLCC4 LED</td><td> https</td></tr><tr><td>//www.we-online.de/katalog/datasheet/150141M173100.pdf'</td><td> 'tags'</td></tr><tr><td> 'LED RGB Wurth PLCC-4'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/LED_SMD.3dshapes/LED_RGB_Wuerth-PLCC4_3.2x2.8mm_150141M173100.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

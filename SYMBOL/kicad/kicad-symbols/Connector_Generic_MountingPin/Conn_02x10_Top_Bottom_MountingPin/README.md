@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKCNGENERICMOUNTINGPINCONN2X1TOPBOTTOMMOUNTINGPIN > Conn_02x10_Top_Bottom_MountingPin
+# SZKCNGENERICMOUNTINGPINCONN2X1TOPBOTTOMMOUNTINGPIN > Connector_Generic_MountingPin : Conn_02x10_Top_Bottom_MountingPin
 
 - ID: SYMBOL-kicad-kicad-symbols-Connector_Generic_MountingPin-Conn_02x10_Top_Bottom_MountingPin
 - Hex ID: SZKCNGENERICMOUNTINGPINCONN2X1TOPBOTTOMMOUNTINGPIN
-- Name: Conn_02x10_Top_Bottom_MountingPin
-- Description: Conn_02x10_Top_Bottom_MountingPin
+- Name: Connector_Generic_MountingPin : Conn_02x10_Top_Bottom_MountingPin
+- Description: Connector_Generic_MountingPin : Conn_02x10_Top_Bottom_MountingPin
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector_Generic_MountingPin-Conn_02x10_Top_Bottom_MountingPin](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector_Generic_MountingPin-Conn_02x10_Top_Bottom_MountingPin)
 - Short Link: [http://oom.lt/SZKCNGENERICMOUNTINGPINCONN2X1TOPBOTTOMMOUNTINGPIN](http://oom.lt/SZKCNGENERICMOUNTINGPINCONN2X1TOPBOTTOMMOUNTINGPIN)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Conn_02x10_Top_Bottom_MountingPin|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector_Generic_MountingPin-Conn_02x10_Top_Bottom_MountingPin|
 |Hex ID (short code)|hexID|SZKCNGENERICMOUNTINGPINCONN2X1TOPBOTTOMMOUNTINGPIN|
-|name|name|Conn_02x10_Top_Bottom_MountingPin|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'Conn_02x10_Top_Bottom_MountingPin', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'connector', 'kicadSymbolki_description': 'Generic connectable mounting pin connector, double row, 02x10, top/bottom pin numbering scheme (row 1: 1...pins_per_row, row2: pins_per_row+1 ... num_pins), script generated (kicad-library-utils/schlib/autogen/connector/)', 'kicadSymbolki_fp_filters': 'Connector*:*_2x??-1MP*'}]|
+|name|name|Connector_Generic_MountingPin : Conn_02x10_Top_Bottom_MountingPin|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'J'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Conn_02x10_Top_Bottom_MountingPin'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'connector'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Generic connectable mounting pin connector</td><td> double row</td><td> 02x10</td><td> top/bottom pin numbering scheme (row 1</td></tr><tr><td> 1...pins_per_row</td><td> row2</td></tr><tr><td> pins_per_row+1 ... num_pins)</td><td> script generated (kicad-library-utils/schlib/autogen/connector/)'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Connector*</td></tr><tr><td>*_2x??-1MP*'</td></tr></table>]|
 ||||

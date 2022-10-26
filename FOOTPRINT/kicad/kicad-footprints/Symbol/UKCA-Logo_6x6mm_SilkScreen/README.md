@@ -29,5 +29,5 @@ NO IMAGE
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Symbol-UKCA-Logo_6x6mm_SilkScreen|
 |Hex ID (short code)|hexID|FZKSZUKCAL6X6SILKSCREEN|
 |name|name|Symbol : UKCA-Logo_6x6mm_SilkScreen|
-|Footprint Kicad|footprintKicadDetails|{'name': 'UKCA-Logo_6x6mm_SilkScreen', 'description': 'UKCA marking', 'tags': 'Logo UKCA marking', 'attributeType': None, 'pins': {}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'UKCA-Logo_6x6mm_SilkScreen'</td><td> 'description'</td></tr><tr><td> 'UKCA marking'</td><td> 'tags'</td></tr><tr><td> 'Logo UKCA marking'</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td></td></tr></table></td></tr></table>|
 ||||

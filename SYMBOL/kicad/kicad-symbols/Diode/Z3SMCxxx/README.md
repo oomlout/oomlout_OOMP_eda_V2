@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDIODEZ3SMCXXX > Z3SMCxxx
+# SZKDIODEZ3SMCXXX > Diode : Z3SMCxxx
 
 - ID: SYMBOL-kicad-kicad-symbols-Diode-Z3SMCxxx
 - Hex ID: SZKDIODEZ3SMCXXX
-- Name: Z3SMCxxx
-- Description: Z3SMCxxx
+- Name: Diode : Z3SMCxxx
+- Description: Diode : Z3SMCxxx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-Z3SMCxxx](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-Z3SMCxxx)
 - Short Link: [http://oom.lt/SZKDIODEZ3SMCXXX](http://oom.lt/SZKDIODEZ3SMCXXX)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Z3SMCxxx|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-Z3SMCxxx|
 |Hex ID (short code)|hexID|SZKDIODEZ3SMCXXX|
-|name|name|Z3SMCxxx|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ZPYxx', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'Z3SMCxxx', 'kicadSymbolFootprint': 'Diode_SMD:D_SMC', 'kicadSymbolDatasheet': 'https://diotec.com/tl_files/diotec/files/pdf/datasheets/z3smc1.pdf', 'kicadSymbolki_keywords': 'zener diode', 'kicadSymbolki_description': '3000mW Zener Diode, SMC(DO-214AB)', 'kicadSymbolki_fp_filters': 'D?SMC*'}]|
+|name|name|Diode : Z3SMCxxx|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'ZPYxx'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Z3SMCxxx'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Diode_SMD</td></tr><tr><td>D_SMC'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//diotec.com/tl_files/diotec/files/pdf/datasheets/z3smc1.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'zener diode'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '3000mW Zener Diode</td><td> SMC(DO-214AB)'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'D?SMC*'</td></tr></table>]|
 ||||

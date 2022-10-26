@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SO-SO-20_12.8x7.5mm_P1.27mm|
 |Hex ID (short code)|hexID|FZKSOSO2128X75P127|
 |name|name|Package_SO : SO-20_12.8x7.5mm_P1.27mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'SO-20_12.8x7.5mm_P1.27mm', 'description': 'SO-20, 12.8x7.5mm, https://www.nxp.com/docs/en/data-sheet/SA605.pdf', 'tags': 'S0-20 ', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/SO-20_12.8x7.5mm_P1.27mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SO-20_12.8x7.5mm_P1.27mm'</td><td> 'description'</td></tr><tr><td> 'SO-20</td><td> 12.8x7.5mm</td><td> https</td></tr><tr><td>//www.nxp.com/docs/en/data-sheet/SA605.pdf'</td><td> 'tags'</td></tr><tr><td> 'S0-20 '</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_SO.3dshapes/SO-20_12.8x7.5mm_P1.27mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

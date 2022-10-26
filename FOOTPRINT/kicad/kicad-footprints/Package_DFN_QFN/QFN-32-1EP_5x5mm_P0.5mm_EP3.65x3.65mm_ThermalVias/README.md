@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-QFN-32-1EP_5x5mm_P0.5mm_EP3.65x3.65mm_ThermalVias|
 |Hex ID (short code)|hexID|FZKDFNQFN321EP5X5P5EP365X365THERMALVIAS|
 |name|name|Package_DFN_QFN : QFN-32-1EP_5x5mm_P0.5mm_EP3.65x3.65mm_ThermalVias|
-|Footprint Kicad|footprintKicadDetails|{'name': 'QFN-32-1EP_5x5mm_P0.5mm_EP3.65x3.65mm_ThermalVias', 'description': 'QFN, 32 Pin (https://www.exar.com/ds/mxl7704.pdf#page=35), generated with kicad-footprint-generator ipc_noLead_generator.py', 'tags': 'QFN NoLead', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/QFN-32-1EP_5x5mm_P0.5mm_EP3.65x3.65mm.wrl', 'pins': {'type': 'smd', 'shape': 'custom'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'QFN-32-1EP_5x5mm_P0.5mm_EP3.65x3.65mm_ThermalVias'</td><td> 'description'</td></tr><tr><td> 'QFN</td><td> 32 Pin (https</td></tr><tr><td>//www.exar.com/ds/mxl7704.pdf#page=35)</td><td> generated with kicad-footprint-generator ipc_noLead_generator.py'</td><td> 'tags'</td></tr><tr><td> 'QFN NoLead'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DFN_QFN.3dshapes/QFN-32-1EP_5x5mm_P0.5mm_EP3.65x3.65mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'custom'</td></tr></table></td></tr></table>|
 ||||
 
 

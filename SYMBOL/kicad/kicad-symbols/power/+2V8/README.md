@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKPOWER+2V8 > +2V8
+# SZKPOWER+2V8 > power : +2V8
 
 - ID: SYMBOL-kicad-kicad-symbols-power-+2V8
 - Hex ID: SZKPOWER+2V8
-- Name: +2V8
-- Description: +2V8
+- Name: power : +2V8
+- Description: power : +2V8
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-power-+2V8](http://oom.lt/SYMBOL-kicad-kicad-symbols-power-+2V8)
 - Short Link: [http://oom.lt/SZKPOWER+2V8](http://oom.lt/SZKPOWER+2V8)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|+2V8|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-power-+2V8|
 |Hex ID (short code)|hexID|SZKPOWER+2V8|
-|name|name|+2V8|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': '#PWR', 'kicadSymbolValue': '+2V8', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_keywords': 'power-flag', 'kicadSymbolki_description': 'Power symbol creates a global label with name "+2V8"'}]|
+|name|name|power : +2V8|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> '#PWR'</td><td> 'kicadSymbolValue'</td></tr><tr><td> '+2V8'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'power-flag'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Power symbol creates a global label with name "+2V8"'</td></tr></table>]|
 ||||

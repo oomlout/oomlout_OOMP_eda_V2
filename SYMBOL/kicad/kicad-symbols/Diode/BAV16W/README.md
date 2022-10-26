@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDIODEBAV16W > BAV16W
+# SZKDIODEBAV16W > Diode : BAV16W
 
 - ID: SYMBOL-kicad-kicad-symbols-Diode-BAV16W
 - Hex ID: SZKDIODEBAV16W
-- Name: BAV16W
-- Description: BAV16W
+- Name: Diode : BAV16W
+- Description: Diode : BAV16W
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BAV16W](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BAV16W)
 - Short Link: [http://oom.lt/SZKDIODEBAV16W](http://oom.lt/SZKDIODEBAV16W)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BAV16W|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-BAV16W|
 |Hex ID (short code)|hexID|SZKDIODEBAV16W|
-|name|name|BAV16W|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '1N4001', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'BAV16W', 'kicadSymbolFootprint': 'Diode_SMD:D_SOD-123', 'kicadSymbolDatasheet': 'https://www.diodes.com/assets/Datasheets/ds30086.pdf', 'kicadSymbolki_keywords': 'diode', 'kicadSymbolki_description': '75V 0.15A Fast Switching Diode, SOD-123', 'kicadSymbolki_fp_filters': 'D*SOD?123*'}]|
+|name|name|Diode : BAV16W|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> '1N4001'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'BAV16W'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Diode_SMD</td></tr><tr><td>D_SOD-123'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.diodes.com/assets/Datasheets/ds30086.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'diode'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '75V 0.15A Fast Switching Diode</td><td> SOD-123'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'D*SOD?123*'</td></tr></table>]|
 ||||

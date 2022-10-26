@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-WQFN-16-1EP_3x3mm_P0.5mm_EP1.75x1.75mm|
 |Hex ID (short code)|hexID|FZKDFNWQFN161EP3X3P5EP175X175|
 |name|name|Package_DFN_QFN : WQFN-16-1EP_3x3mm_P0.5mm_EP1.75x1.75mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'WQFN-16-1EP_3x3mm_P0.5mm_EP1.75x1.75mm', 'description': 'WQFN, 16 Pin (https://www.onsemi.com/pub/Collateral/FUSB307B-D.PDF#page=56), generated with kicad-footprint-generator ipc_noLead_generator.py', 'tags': 'WQFN NoLead', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/WQFN-16-1EP_3x3mm_P0.5mm_EP1.75x1.75mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'WQFN-16-1EP_3x3mm_P0.5mm_EP1.75x1.75mm'</td><td> 'description'</td></tr><tr><td> 'WQFN</td><td> 16 Pin (https</td></tr><tr><td>//www.onsemi.com/pub/Collateral/FUSB307B-D.PDF#page=56)</td><td> generated with kicad-footprint-generator ipc_noLead_generator.py'</td><td> 'tags'</td></tr><tr><td> 'WQFN NoLead'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DFN_QFN.3dshapes/WQFN-16-1EP_3x3mm_P0.5mm_EP1.75x1.75mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-DFN-6-1EP_2x2mm_P0.65mm_EP1x1.6mm|
 |Hex ID (short code)|hexID|FZKDFNDFN61EP2X2P65EP1X16|
 |name|name|Package_DFN_QFN : DFN-6-1EP_2x2mm_P0.65mm_EP1x1.6mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'DFN-6-1EP_2x2mm_P0.65mm_EP1x1.6mm', 'description': '6-Lead Plastic Dual Flat, No Lead Package (MA) - 2x2x0.9 mm Body [DFN] (see Microchip Packaging Specification 00000049BS.pdf)', 'tags': 'DFN 0.65', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/DFN-6-1EP_2x2mm_P0.65mm_EP1x1.6mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'DFN-6-1EP_2x2mm_P0.65mm_EP1x1.6mm'</td><td> 'description'</td></tr><tr><td> '6-Lead Plastic Dual Flat</td><td> No Lead Package (MA) - 2x2x0.9 mm Body [DFN] (see Microchip Packaging Specification 00000049BS.pdf)'</td><td> 'tags'</td></tr><tr><td> 'DFN 0.65'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DFN_QFN.3dshapes/DFN-6-1EP_2x2mm_P0.65mm_EP1x1.6mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

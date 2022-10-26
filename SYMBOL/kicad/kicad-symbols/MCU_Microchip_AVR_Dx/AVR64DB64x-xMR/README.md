@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUMCHIPAVRDXAVR64DB64XXMR > AVR64DB64x-xMR
+# SZKMCUMCHIPAVRDXAVR64DB64XXMR > MCU_Microchip_AVR_Dx : AVR64DB64x-xMR
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_AVR_Dx-AVR64DB64x-xMR
 - Hex ID: SZKMCUMCHIPAVRDXAVR64DB64XXMR
-- Name: AVR64DB64x-xMR
-- Description: AVR64DB64x-xMR
+- Name: MCU_Microchip_AVR_Dx : AVR64DB64x-xMR
+- Description: MCU_Microchip_AVR_Dx : AVR64DB64x-xMR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_AVR_Dx-AVR64DB64x-xMR](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_AVR_Dx-AVR64DB64x-xMR)
 - Short Link: [http://oom.lt/SZKMCUMCHIPAVRDXAVR64DB64XXMR](http://oom.lt/SZKMCUMCHIPAVRDXAVR64DB64XXMR)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AVR64DB64x-xMR|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_AVR_Dx-AVR64DB64x-xMR|
 |Hex ID (short code)|hexID|SZKMCUMCHIPAVRDXAVR64DB64XXMR|
-|name|name|AVR64DB64x-xMR|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AVR64DB64x-xMR', 'kicadSymbolFootprint': 'Package_DFN_QFN:VQFN-64-1EP_9x9mm_P0.5mm_EP7.15x7.15mm', 'kicadSymbolDatasheet': 'https://ww1.microchip.com/downloads/en/DeviceDoc/AVR64DB28-32-48-64-DataSheet-DS40002300A.pdf', 'kicadSymbolki_keywords': 'AVR 8bit Microcontroller AVR-DB', 'kicadSymbolki_description': '24MHz, 64kB Flash, 8kB SRAM, EEPROM with Op Amps and Multi-Voltage I/O, VQFN-64', 'kicadSymbolki_fp_filters': 'VQFN*1EP*9x9mm*P0.5mm*EP7.15x7.15mm*'}]|
+|name|name|MCU_Microchip_AVR_Dx : AVR64DB64x-xMR|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'AVR64DB64x-xMR'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>VQFN-64-1EP_9x9mm_P0.5mm_EP7.15x7.15mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/AVR64DB28-32-48-64-DataSheet-DS40002300A.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'AVR 8bit Microcontroller AVR-DB'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '24MHz</td><td> 64kB Flash</td><td> 8kB SRAM</td><td> EEPROM with Op Amps and Multi-Voltage I/O</td><td> VQFN-64'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'VQFN*1EP*9x9mm*P0.5mm*EP7.15x7.15mm*'</td></tr></table>]|
 ||||

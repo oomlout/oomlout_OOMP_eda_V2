@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKINTERFACEEXPANSIONPCA9544APW > PCA9544APW
+# SZKINTERFACEEXPANSIONPCA9544APW > Interface_Expansion : PCA9544APW
 
 - ID: SYMBOL-kicad-kicad-symbols-Interface_Expansion-PCA9544APW
 - Hex ID: SZKINTERFACEEXPANSIONPCA9544APW
-- Name: PCA9544APW
-- Description: PCA9544APW
+- Name: Interface_Expansion : PCA9544APW
+- Description: Interface_Expansion : PCA9544APW
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Expansion-PCA9544APW](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Expansion-PCA9544APW)
 - Short Link: [http://oom.lt/SZKINTERFACEEXPANSIONPCA9544APW](http://oom.lt/SZKINTERFACEEXPANSIONPCA9544APW)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PCA9544APW|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_Expansion-PCA9544APW|
 |Hex ID (short code)|hexID|SZKINTERFACEEXPANSIONPCA9544APW|
-|name|name|PCA9544APW|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PCA9544APW', 'kicadSymbolFootprint': 'Package_SO:TSSOP-20_4.4x6.5mm_P0.65mm', 'kicadSymbolDatasheet': 'http://www.nxp.com/documents/data_sheet/PCA9544A.pdf', 'kicadSymbolki_keywords': 'i2c multiplexer', 'kicadSymbolki_description': '4-channel I2C-bus multiplexer with interrupt logic, TSSOP-20', 'kicadSymbolki_fp_filters': 'TSSOP*4.4x6.5mm*P0.65mm*'}]|
+|name|name|Interface_Expansion : PCA9544APW|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'PCA9544APW'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>TSSOP-20_4.4x6.5mm_P0.65mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.nxp.com/documents/data_sheet/PCA9544A.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'i2c multiplexer'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '4-channel I2C-bus multiplexer with interrupt logic</td><td> TSSOP-20'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TSSOP*4.4x6.5mm*P0.65mm*'</td></tr></table>]|
 ||||

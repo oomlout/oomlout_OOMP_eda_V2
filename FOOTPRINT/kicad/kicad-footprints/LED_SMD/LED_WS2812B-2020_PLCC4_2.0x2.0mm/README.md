@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_WS2812B-2020_PLCC4_2.0x2.0mm|
 |Hex ID (short code)|hexID|FZKLSMLWS2812B22PLCC42X2|
 |name|name|LED_SMD : LED_WS2812B-2020_PLCC4_2.0x2.0mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'LED_WS2812B-2020_PLCC4_2.0x2.0mm', 'description': 'Addressable RGB LED NeoPixel Nano, 12 mA, https://cdn-shop.adafruit.com/product-files/4684/4684_WS2812B-2020_V1.3_EN.pdf', 'tags': 'LED RGB NeoPixel Nano 2020', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED_WS2812B-2020_PLCC4_2.0x2.0mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'LED_WS2812B-2020_PLCC4_2.0x2.0mm'</td><td> 'description'</td></tr><tr><td> 'Addressable RGB LED NeoPixel Nano</td><td> 12 mA</td><td> https</td></tr><tr><td>//cdn-shop.adafruit.com/product-files/4684/4684_WS2812B-2020_V1.3_EN.pdf'</td><td> 'tags'</td></tr><tr><td> 'LED RGB NeoPixel Nano 2020'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/LED_SMD.3dshapes/LED_WS2812B-2020_PLCC4_2.0x2.0mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

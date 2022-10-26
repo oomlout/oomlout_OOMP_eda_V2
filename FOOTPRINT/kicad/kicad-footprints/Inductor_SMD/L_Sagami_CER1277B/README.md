@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Sagami_CER1277B|
 |Hex ID (short code)|hexID|FZKINDUCTORSMLSAGAMICER1277B|
 |name|name|Inductor_SMD : L_Sagami_CER1277B|
-|Footprint Kicad|footprintKicadDetails|{'name': 'L_Sagami_CER1277B', 'description': 'Inductor, Sagami, h=8.0mm, http://www.sagami-elec.co.jp/file/CER1242B-CER1257B-CER1277B.pdf', 'tags': 'inductor sagami cer12xxb smd', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Sagami_CER1277B.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'L_Sagami_CER1277B'</td><td> 'description'</td></tr><tr><td> 'Inductor</td><td> Sagami</td><td> h=8.0mm</td><td> http</td></tr><tr><td>//www.sagami-elec.co.jp/file/CER1242B-CER1257B-CER1277B.pdf'</td><td> 'tags'</td></tr><tr><td> 'inductor sagami cer12xxb smd'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Inductor_SMD.3dshapes/L_Sagami_CER1277B.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

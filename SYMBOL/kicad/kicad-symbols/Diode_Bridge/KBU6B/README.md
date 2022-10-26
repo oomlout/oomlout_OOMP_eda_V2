@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDIODEBRIDGEKBU6B > KBU6B
+# SZKDIODEBRIDGEKBU6B > Diode_Bridge : KBU6B
 
 - ID: SYMBOL-kicad-kicad-symbols-Diode_Bridge-KBU6B
 - Hex ID: SZKDIODEBRIDGEKBU6B
-- Name: KBU6B
-- Description: KBU6B
+- Name: Diode_Bridge : KBU6B
+- Description: Diode_Bridge : KBU6B
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-KBU6B](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-KBU6B)
 - Short Link: [http://oom.lt/SZKDIODEBRIDGEKBU6B](http://oom.lt/SZKDIODEBRIDGEKBU6B)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|KBU6B|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode_Bridge-KBU6B|
 |Hex ID (short code)|hexID|SZKDIODEBRIDGEKBU6B|
-|name|name|KBU6B|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'KBU4A', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'KBU6B', 'kicadSymbolFootprint': 'Diode_THT:Diode_Bridge_Vishay_KBU', 'kicadSymbolDatasheet': 'http://www.vishay.com/docs/88656/kbu6.pdf', 'kicadSymbolki_keywords': 'rectifier acdc', 'kicadSymbolki_description': 'Single-Phase Bridge Rectifier, 70V Vrms, 6.0A If, KBU package', 'kicadSymbolki_fp_filters': 'Diode*Bridge*Vishay*KBU*'}]|
+|name|name|Diode_Bridge : KBU6B|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'KBU4A'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'KBU6B'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Diode_THT</td></tr><tr><td>Diode_Bridge_Vishay_KBU'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.vishay.com/docs/88656/kbu6.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'rectifier acdc'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Single-Phase Bridge Rectifier</td><td> 70V Vrms</td><td> 6.0A If</td><td> KBU package'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Diode*Bridge*Vishay*KBU*'</td></tr></table>]|
 ||||

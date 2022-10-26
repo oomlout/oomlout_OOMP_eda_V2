@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE63XO821R6O82 > RESE-0603-X-O820-01-R6O820
+# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE63XO821R6O82 > oomlout_OOMP_parts : RESE-0603-X-O820-01-R6O820
 
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O820-01-R6O820
 - Hex ID: SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE63XO821R6O82
-- Name: RESE-0603-X-O820-01-R6O820
-- Description: RESE-0603-X-O820-01-R6O820
+- Name: oomlout_OOMP_parts : RESE-0603-X-O820-01-R6O820
+- Description: oomlout_OOMP_parts : RESE-0603-X-O820-01-R6O820
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O820-01-R6O820](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O820-01-R6O820)
 - Short Link: [http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE63XO821R6O82](http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE63XO821R6O82)
   
@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|RESE-0603-X-O820-01-R6O820|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O820-01-R6O820|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE63XO821R6O82|
-|name|name|RESE-0603-X-O820-01-R6O820|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'R', 'kicadSymbolValue': 'RESE-0603-X-O820-01-R6O820', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:RESE-0603-X-O820-01-R6O820', 'kicadSymbolDatasheet': 'oom.lt/R6O820', 'kicadSymbolki_keywords': 'R res resistor', 'kicadSymbolki_description': 'hexID: R6O820;PARTL C-JLCC;C23255;MANUF C-XXXX;0603WAF820JT5E;Resistor', 'kicadSymbolki_fp_filters': 'R_*'}]|
+|name|name|oomlout_OOMP_parts : RESE-0603-X-O820-01-R6O820|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'R'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'RESE-0603-X-O820-01-R6O820'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'oomlout_OOMP_parts</td></tr><tr><td>RESE-0603-X-O820-01-R6O820'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'oom.lt/R6O820'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'R res resistor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'hexID</td></tr><tr><td> R6O820;PARTL C-JLCC;C23255;MANUF C-XXXX;0603WAF820JT5E;Resistor'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'R_*'</td></tr></table>]|
 ||||

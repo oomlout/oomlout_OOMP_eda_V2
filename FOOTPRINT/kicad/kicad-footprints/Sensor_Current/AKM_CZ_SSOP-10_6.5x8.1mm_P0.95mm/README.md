@@ -29,5 +29,5 @@ NO IMAGE
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Sensor_Current-AKM_CZ_SSOP-10_6.5x8.1mm_P0.95mm|
 |Hex ID (short code)|hexID|FZKSENCURRENTAKMCZSS165X81P95|
 |name|name|Sensor_Current : AKM_CZ_SSOP-10_6.5x8.1mm_P0.95mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'AKM_CZ_SSOP-10_6.5x8.1mm_P0.95mm', 'description': 'AKM CZ-381x current sensor, 6.5x8.1mm body, 0.95mm pitch (http://www.akm.com/akm/en/product/detail/0009/)', 'tags': 'akm cz-381x 10', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Sensor_Current.3dshapes/AKM_CZ_SSOP-10_6.5x8.1mm_P0.95mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'AKM_CZ_SSOP-10_6.5x8.1mm_P0.95mm'</td><td> 'description'</td></tr><tr><td> 'AKM CZ-381x current sensor</td><td> 6.5x8.1mm body</td><td> 0.95mm pitch (http</td></tr><tr><td>//www.akm.com/akm/en/product/detail/0009/)'</td><td> 'tags'</td></tr><tr><td> 'akm cz-381x 10'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Sensor_Current.3dshapes/AKM_CZ_SSOP-10_6.5x8.1mm_P0.95mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

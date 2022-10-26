@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORLINEARLM35TO3 > LM350_TO3
+# SZKREGULATORLINEARLM35TO3 > Regulator_Linear : LM350_TO3
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-LM350_TO3
 - Hex ID: SZKREGULATORLINEARLM35TO3
-- Name: LM350_TO3
-- Description: LM350_TO3
+- Name: Regulator_Linear : LM350_TO3
+- Description: Regulator_Linear : LM350_TO3
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LM350_TO3](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LM350_TO3)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARLM35TO3](http://oom.lt/SZKREGULATORLINEARLM35TO3)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM350_TO3|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-LM350_TO3|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARLM35TO3|
-|name|name|LM350_TO3|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LM317_TO3', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM350_TO3', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-3', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lm350a.pdf', 'kicadSymbolki_keywords': 'Adjustable Voltage Regulator 3A Positive', 'kicadSymbolki_description': '3A 33V Adjustable Linear Regulator, TO-3', 'kicadSymbolki_fp_filters': 'TO?3*'}]|
+|name|name|Regulator_Linear : LM350_TO3|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'LM317_TO3'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LM350_TO3'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_THT</td></tr><tr><td>TO-3'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/lm350a.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Adjustable Voltage Regulator 3A Positive'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '3A 33V Adjustable Linear Regulator</td><td> TO-3'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TO?3*'</td></tr></table>]|
 ||||

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_MEC_5GSH9|
 |Hex ID (short code)|hexID|FZKBSWITCHSMSWMEC5GSH9|
 |name|name|Button_Switch_SMD : SW_MEC_5GSH9|
-|Footprint Kicad|footprintKicadDetails|{'name': 'SW_MEC_5GSH9', 'description': 'MEC 5G single pole normally-open tactile switch', 'tags': 'switch normally-open pushbutton push-button', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_MEC_5GSH9.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SW_MEC_5GSH9'</td><td> 'description'</td></tr><tr><td> 'MEC 5G single pole normally-open tactile switch'</td><td> 'tags'</td></tr><tr><td> 'switch normally-open pushbutton push-button'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Button_Switch_SMD.3dshapes/SW_MEC_5GSH9.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

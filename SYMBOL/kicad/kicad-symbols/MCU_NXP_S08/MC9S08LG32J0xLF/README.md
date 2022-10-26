@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUNXPS8MC9S8LG32JXLF > MC9S08LG32J0xLF
+# SZKMCUNXPS8MC9S8LG32JXLF > MCU_NXP_S08 : MC9S08LG32J0xLF
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_NXP_S08-MC9S08LG32J0xLF
 - Hex ID: SZKMCUNXPS8MC9S8LG32JXLF
-- Name: MC9S08LG32J0xLF
-- Description: MC9S08LG32J0xLF
+- Name: MCU_NXP_S08 : MC9S08LG32J0xLF
+- Description: MCU_NXP_S08 : MC9S08LG32J0xLF
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_S08-MC9S08LG32J0xLF](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_S08-MC9S08LG32J0xLF)
 - Short Link: [http://oom.lt/SZKMCUNXPS8MC9S8LG32JXLF](http://oom.lt/SZKMCUNXPS8MC9S8LG32JXLF)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MC9S08LG32J0xLF|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_NXP_S08-MC9S08LG32J0xLF|
 |Hex ID (short code)|hexID|SZKMCUNXPS8MC9S8LG32JXLF|
-|name|name|MC9S08LG32J0xLF|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'IC', 'kicadSymbolValue': 'MC9S08LG32J0xLF', 'kicadSymbolFootprint': 'Package_QFP:TQFP-48-1EP_7x7mm_P0.5mm_EP3.5x3.5mm', 'kicadSymbolDatasheet': 'http://cache.nxp.com/files/microcontrollers/doc/ref_manual/MC9S08LG32RM.pdf', 'kicadSymbolki_keywords': 'NXP S08 Microcontroller', 'kicadSymbolki_description': '8-bit Segment LCD Microcontroller, S08 core, 32kB Flash, 1984B RAM, LQFP-48', 'kicadSymbolki_fp_filters': 'TQFP*7x7mm*P0.5mm*'}]|
+|name|name|MCU_NXP_S08 : MC9S08LG32J0xLF|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'IC'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MC9S08LG32J0xLF'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_QFP</td></tr><tr><td>TQFP-48-1EP_7x7mm_P0.5mm_EP3.5x3.5mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//cache.nxp.com/files/microcontrollers/doc/ref_manual/MC9S08LG32RM.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'NXP S08 Microcontroller'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '8-bit Segment LCD Microcontroller</td><td> S08 core</td><td> 32kB Flash</td><td> 1984B RAM</td><td> LQFP-48'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TQFP*7x7mm*P0.5mm*'</td></tr></table>]|
 ||||

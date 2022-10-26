@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-OptoDevice-LaserDiode_TO56-3|
 |Hex ID (short code)|hexID|FZKOPLASERDIODETO563|
 |name|name|OptoDevice : LaserDiode_TO56-3|
-|Footprint Kicad|footprintKicadDetails|{'name': 'LaserDiode_TO56-3', 'description': 'Laser Diode, TO-56, 3pin', 'tags': 'Laser Diode TO56', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/LaserDiode_TO56-3.wrl', 'pins': {'type': 'thru_hole', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'LaserDiode_TO56-3'</td><td> 'description'</td></tr><tr><td> 'Laser Diode</td><td> TO-56</td><td> 3pin'</td><td> 'tags'</td></tr><tr><td> 'Laser Diode TO56'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/OptoDevice.3dshapes/LaserDiode_TO56-3.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

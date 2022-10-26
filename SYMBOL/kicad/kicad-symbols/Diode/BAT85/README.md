@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDIODEBAT85 > BAT85
+# SZKDIODEBAT85 > Diode : BAT85
 
 - ID: SYMBOL-kicad-kicad-symbols-Diode-BAT85
 - Hex ID: SZKDIODEBAT85
-- Name: BAT85
-- Description: BAT85
+- Name: Diode : BAT85
+- Description: Diode : BAT85
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BAT85](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BAT85)
 - Short Link: [http://oom.lt/SZKDIODEBAT85](http://oom.lt/SZKDIODEBAT85)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BAT85|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-BAT85|
 |Hex ID (short code)|hexID|SZKDIODEBAT85|
-|name|name|BAT85|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '1N6263', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'BAT85', 'kicadSymbolFootprint': 'Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal', 'kicadSymbolDatasheet': 'https://assets.nexperia.com/documents/data-sheet/BAT85.pdf', 'kicadSymbolki_keywords': 'diode Schottky', 'kicadSymbolki_description': '30V 0.2A Schottky barrier single diode, DO-35', 'kicadSymbolki_fp_filters': 'D*DO?35*'}]|
+|name|name|Diode : BAT85|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> '1N6263'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'BAT85'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Diode_THT</td></tr><tr><td>D_DO-35_SOD27_P7.62mm_Horizontal'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//assets.nexperia.com/documents/data-sheet/BAT85.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'diode Schottky'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '30V 0.2A Schottky barrier single diode</td><td> DO-35'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'D*DO?35*'</td></tr></table>]|
 ||||

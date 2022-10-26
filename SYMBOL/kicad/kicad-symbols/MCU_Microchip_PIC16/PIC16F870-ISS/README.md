@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUMCHIPPIC16PIC16F87ISS > PIC16F870-ISS
+# SZKMCUMCHIPPIC16PIC16F87ISS > MCU_Microchip_PIC16 : PIC16F870-ISS
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F870-ISS
 - Hex ID: SZKMCUMCHIPPIC16PIC16F87ISS
-- Name: PIC16F870-ISS
-- Description: PIC16F870-ISS
+- Name: MCU_Microchip_PIC16 : PIC16F870-ISS
+- Description: MCU_Microchip_PIC16 : PIC16F870-ISS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F870-ISS](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F870-ISS)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC16PIC16F87ISS](http://oom.lt/SZKMCUMCHIPPIC16PIC16F87ISS)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PIC16F870-ISS|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F870-ISS|
 |Hex ID (short code)|hexID|SZKMCUMCHIPPIC16PIC16F87ISS|
-|name|name|PIC16F870-ISS|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PIC16F870-ISS', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/30569b.pdf', 'kicadSymbolki_keywords': 'Flash-Based 8-Bit CMOS Microcontroller', 'kicadSymbolki_description': 'PIC16F870, 2K Flash, 128B SRAM, 64B EEPROM, SSOP28', 'kicadSymbolki_fp_filters': 'SSOP*'}]|
+|name|name|MCU_Microchip_PIC16 : PIC16F870-ISS|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'PIC16F870-ISS'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/30569b.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Flash-Based 8-Bit CMOS Microcontroller'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'PIC16F870</td><td> 2K Flash</td><td> 128B SRAM</td><td> 64B EEPROM</td><td> SSOP28'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SSOP*'</td></tr></table>]|
 ||||

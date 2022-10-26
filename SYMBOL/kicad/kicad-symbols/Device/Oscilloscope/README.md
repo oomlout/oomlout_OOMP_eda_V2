@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDEVICEOSCILLOSCOPE > Oscilloscope
+# SZKDEVICEOSCILLOSCOPE > Device : Oscilloscope
 
 - ID: SYMBOL-kicad-kicad-symbols-Device-Oscilloscope
 - Hex ID: SZKDEVICEOSCILLOSCOPE
-- Name: Oscilloscope
-- Description: Oscilloscope
+- Name: Device : Oscilloscope
+- Description: Device : Oscilloscope
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Oscilloscope](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Oscilloscope)
 - Short Link: [http://oom.lt/SZKDEVICEOSCILLOSCOPE](http://oom.lt/SZKDEVICEOSCILLOSCOPE)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Oscilloscope|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-Oscilloscope|
 |Hex ID (short code)|hexID|SZKDEVICEOSCILLOSCOPE|
-|name|name|Oscilloscope|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'MES', 'kicadSymbolValue': 'Oscilloscope', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'oscilloscope', 'kicadSymbolki_description': 'Oscilloscope'}]|
+|name|name|Device : Oscilloscope|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'MES'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Oscilloscope'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'oscilloscope'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Oscilloscope'</td></tr></table>]|
 ||||

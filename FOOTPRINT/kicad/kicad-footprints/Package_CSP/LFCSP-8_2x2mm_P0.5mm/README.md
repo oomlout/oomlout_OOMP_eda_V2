@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_CSP-LFCSP-8_2x2mm_P0.5mm|
 |Hex ID (short code)|hexID|FZKCSPLFCSP82X2P5|
 |name|name|Package_CSP : LFCSP-8_2x2mm_P0.5mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'LFCSP-8_2x2mm_P0.5mm', 'description': 'LFCSP 8pin Pitch 0.5mm, http://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp_8_6.pdf', 'tags': 'LFCSP 8pin 2x2mm Pitch 0.5mm', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_CSP.3dshapes/LFCSP-8_2x2mm_P0.5mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'LFCSP-8_2x2mm_P0.5mm'</td><td> 'description'</td></tr><tr><td> 'LFCSP 8pin Pitch 0.5mm</td><td> http</td></tr><tr><td>//www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp_8_6.pdf'</td><td> 'tags'</td></tr><tr><td> 'LFCSP 8pin 2x2mm Pitch 0.5mm'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_CSP.3dshapes/LFCSP-8_2x2mm_P0.5mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

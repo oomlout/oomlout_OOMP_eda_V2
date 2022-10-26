@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_BGA-Fujitsu_WLP-15_2.28x3.092mm_Layout3x5_P0.4mm|
 |Hex ID (short code)|hexID|FZKBGAFUJITSUWLP15228X392LAYOUT3X5P4|
 |name|name|Package_BGA : Fujitsu_WLP-15_2.28x3.092mm_Layout3x5_P0.4mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Fujitsu_WLP-15_2.28x3.092mm_Layout3x5_P0.4mm', 'description': 'WLP-15, 3x5 raster, 2.28x3.092mm package, pitch 0.4mm; http://www.fujitsu.com/global/documents/products/devices/semiconductor/fram/lineup/MB85RS1MT-DS501-00022-7v0-E.pdf', 'tags': 'BGA 8 0.4', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/Fujitsu_WLP-15_2.28x3.092mm_Layout3x5_P0.4mm.wrl', 'pins': {'type': 'smd', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Fujitsu_WLP-15_2.28x3.092mm_Layout3x5_P0.4mm'</td><td> 'description'</td></tr><tr><td> 'WLP-15</td><td> 3x5 raster</td><td> 2.28x3.092mm package</td><td> pitch 0.4mm; http</td></tr><tr><td>//www.fujitsu.com/global/documents/products/devices/semiconductor/fram/lineup/MB85RS1MT-DS501-00022-7v0-E.pdf'</td><td> 'tags'</td></tr><tr><td> 'BGA 8 0.4'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_BGA.3dshapes/Fujitsu_WLP-15_2.28x3.092mm_Layout3x5_P0.4mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

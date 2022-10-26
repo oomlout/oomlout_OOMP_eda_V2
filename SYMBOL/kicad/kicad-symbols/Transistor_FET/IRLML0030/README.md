@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORFETIRLML3 > IRLML0030
+# SZKTRANSISTORFETIRLML3 > Transistor_FET : IRLML0030
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-IRLML0030
 - Hex ID: SZKTRANSISTORFETIRLML3
-- Name: IRLML0030
-- Description: IRLML0030
+- Name: Transistor_FET : IRLML0030
+- Description: Transistor_FET : IRLML0030
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRLML0030](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRLML0030)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETIRLML3](http://oom.lt/SZKTRANSISTORFETIRLML3)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IRLML0030|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-IRLML0030|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETIRLML3|
-|name|name|IRLML0030|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BSS138', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'IRLML0030', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23', 'kicadSymbolDatasheet': 'https://www.infineon.com/dgdl/irlml0030pbf.pdf?fileId=5546d462533600a401535664773825df', 'kicadSymbolki_keywords': 'N-Channel HEXFET MOSFET Logic-Level', 'kicadSymbolki_description': '5.3A Id, 30V Vds, 27mOhm Rds, N-Channel HEXFET Power MOSFET, SOT-23', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
+|name|name|Transistor_FET : IRLML0030|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'BSS138'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'IRLML0030'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-23'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.infineon.com/dgdl/irlml0030pbf.pdf?fileId=5546d462533600a401535664773825df'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'N-Channel HEXFET MOSFET Logic-Level'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '5.3A Id</td><td> 30V Vds</td><td> 27mOhm Rds</td><td> N-Channel HEXFET Power MOSFET</td><td> SOT-23'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23*'</td></tr></table>]|
 ||||

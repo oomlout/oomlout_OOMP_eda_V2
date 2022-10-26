@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKISOLATORTLP2914 > TLP291-4
+# SZKISOLATORTLP2914 > Isolator : TLP291-4
 
 - ID: SYMBOL-kicad-kicad-symbols-Isolator-TLP291-4
 - Hex ID: SZKISOLATORTLP2914
-- Name: TLP291-4
-- Description: TLP291-4
+- Name: Isolator : TLP291-4
+- Description: Isolator : TLP291-4
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-TLP291-4](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-TLP291-4)
 - Short Link: [http://oom.lt/SZKISOLATORTLP2914](http://oom.lt/SZKISOLATORTLP2914)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TLP291-4|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Isolator-TLP291-4|
 |Hex ID (short code)|hexID|SZKISOLATORTLP2914|
-|name|name|TLP291-4|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TLP291-4', 'kicadSymbolFootprint': 'Package_SO:SOIC-16_4.55x10.3mm_P1.27mm', 'kicadSymbolDatasheet': 'https://toshiba.semicon-storage.com/info/docget.jsp?did=12858&prodName=TLP291-4', 'kicadSymbolki_keywords': 'NPN DC Quad Optocoupler', 'kicadSymbolki_description': 'Quad DC Optocoupler, Vce 80V, CTR 50-100%, SOP16', 'kicadSymbolki_fp_filters': 'SOIC*4.55x10.3mm*P1.27mm*'}]|
+|name|name|Isolator : TLP291-4|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TLP291-4'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-16_4.55x10.3mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//toshiba.semicon-storage.com/info/docget.jsp?did=12858&prodName=TLP291-4'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'NPN DC Quad Optocoupler'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Quad DC Optocoupler</td><td> Vce 80V</td><td> CTR 50-100%</td><td> SOP16'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*4.55x10.3mm*P1.27mm*'</td></tr></table>]|
 ||||

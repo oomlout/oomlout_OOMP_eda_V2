@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORFETIRF836M > IRF8306M
+# SZKTRANSISTORFETIRF836M > Transistor_FET : IRF8306M
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF8306M
 - Hex ID: SZKTRANSISTORFETIRF836M
-- Name: IRF8306M
-- Description: IRF8306M
+- Name: Transistor_FET : IRF8306M
+- Description: Transistor_FET : IRF8306M
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF8306M](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF8306M)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETIRF836M](http://oom.lt/SZKTRANSISTORFETIRF836M)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IRF8306M|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF8306M|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETIRF836M|
-|name|name|IRF8306M|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BSB008NE2LX', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'IRF8306M', 'kicadSymbolFootprint': 'Package_DirectFET:DirectFET_MX', 'kicadSymbolDatasheet': 'https://www.infineon.com/dgdl/irf8306mpbf.pdf?fileId=5546d462533600a40153560d29371d5f', 'kicadSymbolki_keywords': 'N-Channel MOSFET', 'kicadSymbolki_description': '23A Id, 30V Vds, 2.5mOhm Rds, N-Channel MOSFET, DirectFET MX', 'kicadSymbolki_fp_filters': 'DirectFET*MX*'}]|
+|name|name|Transistor_FET : IRF8306M|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'BSB008NE2LX'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'IRF8306M'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DirectFET</td></tr><tr><td>DirectFET_MX'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.infineon.com/dgdl/irf8306mpbf.pdf?fileId=5546d462533600a40153560d29371d5f'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'N-Channel MOSFET'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '23A Id</td><td> 30V Vds</td><td> 2.5mOhm Rds</td><td> N-Channel MOSFET</td><td> DirectFET MX'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DirectFET*MX*'</td></tr></table>]|
 ||||

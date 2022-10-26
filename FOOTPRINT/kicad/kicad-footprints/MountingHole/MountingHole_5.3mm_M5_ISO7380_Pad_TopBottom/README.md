@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_5.3mm_M5_ISO7380_Pad_TopBottom|
 |Hex ID (short code)|hexID|FZKHOLHOL53M5ISO738PADTOPBOTTOM|
 |name|name|MountingHole : MountingHole_5.3mm_M5_ISO7380_Pad_TopBottom|
-|Footprint Kicad|footprintKicadDetails|{'name': 'MountingHole_5.3mm_M5_ISO7380_Pad_TopBottom', 'description': 'Mounting Hole 5.3mm, M5, ISO7380', 'tags': 'mounting hole 5.3mm m5 iso7380', 'attributeType': None, 'pins': {'type': 'connect', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'MountingHole_5.3mm_M5_ISO7380_Pad_TopBottom'</td><td> 'description'</td></tr><tr><td> 'Mounting Hole 5.3mm</td><td> M5</td><td> ISO7380'</td><td> 'tags'</td></tr><tr><td> 'mounting hole 5.3mm m5 iso7380'</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'connect'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

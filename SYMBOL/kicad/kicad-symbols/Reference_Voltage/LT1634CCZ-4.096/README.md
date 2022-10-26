@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREFERENCEVOLTAGELT1634CCZ496 > LT1634CCZ-4.096
+# SZKREFERENCEVOLTAGELT1634CCZ496 > Reference_Voltage : LT1634CCZ-4.096
 
 - ID: SYMBOL-kicad-kicad-symbols-Reference_Voltage-LT1634CCZ-4.096
 - Hex ID: SZKREFERENCEVOLTAGELT1634CCZ496
-- Name: LT1634CCZ-4.096
-- Description: LT1634CCZ-4.096
+- Name: Reference_Voltage : LT1634CCZ-4.096
+- Description: Reference_Voltage : LT1634CCZ-4.096
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-LT1634CCZ-4.096](http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-LT1634CCZ-4.096)
 - Short Link: [http://oom.lt/SZKREFERENCEVOLTAGELT1634CCZ496](http://oom.lt/SZKREFERENCEVOLTAGELT1634CCZ496)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LT1634CCZ-4.096|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Reference_Voltage-LT1634CCZ-4.096|
 |Hex ID (short code)|hexID|SZKREFERENCEVOLTAGELT1634CCZ496|
-|name|name|LT1634CCZ-4.096|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LT1634CCZ-1.25', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LT1634CCZ-4.096', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-92_Inline', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/1634ff.pdf', 'kicadSymbolki_keywords': 'voltage reference Micropower', 'kicadSymbolki_description': '4.096V Micropower Precision Shunt Voltage Reference, TO-92', 'kicadSymbolki_fp_filters': 'TO?92*'}]|
+|name|name|Reference_Voltage : LT1634CCZ-4.096|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'LT1634CCZ-1.25'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LT1634CCZ-4.096'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_THT</td></tr><tr><td>TO-92_Inline'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/1634ff.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'voltage reference Micropower'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '4.096V Micropower Precision Shunt Voltage Reference</td><td> TO-92'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TO?92*'</td></tr></table>]|
 ||||

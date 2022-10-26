@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-ICL_THT_P17.1mm|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSICLTHTP171|
 |name|name|digikey-footprints : ICL_THT_P17.1mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'ICL_THT_P17.1mm', 'description': 'https://www.ametherm.com/datasheets/as322r025', 'tags': None, 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'ICL_THT_P17.1mm'</td><td> 'description'</td></tr><tr><td> 'https</td></tr><tr><td>//www.ametherm.com/datasheets/as322r025'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

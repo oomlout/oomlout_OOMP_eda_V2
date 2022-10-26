@@ -29,5 +29,5 @@ NO IMAGE
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-RF_GSM-SIMCom_SIM800C|
 |Hex ID (short code)|hexID|FZKGSMSIMCOMSIM8C|
 |name|name|RF_GSM : SIMCom_SIM800C|
-|Footprint Kicad|footprintKicadDetails|{'name': 'SIMCom_SIM800C', 'description': 'Quad-Band GSM/GPRS module, 17.6x15.7x2.3mm, http://simcom.ee/documents/SIM800C/SIM800C_Hardware_Design_V1.05.pdf', 'tags': 'GSM Module SIM800C', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/RF_GSM.3dshapes/SIMCom_SIM800C.wrl', 'pins': {'type': 'smd', 'shape': 'oval'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SIMCom_SIM800C'</td><td> 'description'</td></tr><tr><td> 'Quad-Band GSM/GPRS module</td><td> 17.6x15.7x2.3mm</td><td> http</td></tr><tr><td>//simcom.ee/documents/SIM800C/SIM800C_Hardware_Design_V1.05.pdf'</td><td> 'tags'</td></tr><tr><td> 'GSM Module SIM800C'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/RF_GSM.3dshapes/SIMCom_SIM800C.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'oval'</td></tr></table></td></tr></table>|
 ||||

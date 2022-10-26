@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDIODEBYV7915 > BYV79-150
+# SZKDIODEBYV7915 > Diode : BYV79-150
 
 - ID: SYMBOL-kicad-kicad-symbols-Diode-BYV79-150
 - Hex ID: SZKDIODEBYV7915
-- Name: BYV79-150
-- Description: BYV79-150
+- Name: Diode : BYV79-150
+- Description: Diode : BYV79-150
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BYV79-150](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BYV79-150)
 - Short Link: [http://oom.lt/SZKDIODEBYV7915](http://oom.lt/SZKDIODEBYV7915)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BYV79-150|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-BYV79-150|
 |Hex ID (short code)|hexID|SZKDIODEBYV7915|
-|name|name|BYV79-150|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BYV79-100', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'BYV79-150', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-220-2_Vertical', 'kicadSymbolDatasheet': 'http://pdf.datasheetcatalog.com/datasheet/philips/BYV79-100.pdf', 'kicadSymbolki_keywords': 'diode', 'kicadSymbolki_description': '150V 14A Ultrafast Rectifier Diode, TO-220', 'kicadSymbolki_fp_filters': 'TO?220*'}]|
+|name|name|Diode : BYV79-150|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'BYV79-100'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'BYV79-150'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_THT</td></tr><tr><td>TO-220-2_Vertical'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//pdf.datasheetcatalog.com/datasheet/philips/BYV79-100.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'diode'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '150V 14A Ultrafast Rectifier Diode</td><td> TO-220'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TO?220*'</td></tr></table>]|
 ||||

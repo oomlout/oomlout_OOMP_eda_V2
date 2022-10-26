@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUMCHIPSAMDATSAMD11D14AU > ATSAMD11D14A-U
+# SZKMCUMCHIPSAMDATSAMD11D14AU > MCU_Microchip_SAMD : ATSAMD11D14A-U
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_SAMD-ATSAMD11D14A-U
 - Hex ID: SZKMCUMCHIPSAMDATSAMD11D14AU
-- Name: ATSAMD11D14A-U
-- Description: ATSAMD11D14A-U
+- Name: MCU_Microchip_SAMD : ATSAMD11D14A-U
+- Description: MCU_Microchip_SAMD : ATSAMD11D14A-U
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_SAMD-ATSAMD11D14A-U](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_SAMD-ATSAMD11D14A-U)
 - Short Link: [http://oom.lt/SZKMCUMCHIPSAMDATSAMD11D14AU](http://oom.lt/SZKMCUMCHIPSAMDATSAMD11D14AU)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ATSAMD11D14A-U|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_SAMD-ATSAMD11D14A-U|
 |Hex ID (short code)|hexID|SZKMCUMCHIPSAMDATSAMD11D14AU|
-|name|name|ATSAMD11D14A-U|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ATSAMD10D14A-U', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ATSAMD11D14A-U', 'kicadSymbolFootprint': 'Package_CSP:WLCSP-20_1.934x2.434mm_Layout4x5_P0.4mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-42363-SAM-D11_Datasheet.pdf', 'kicadSymbolki_keywords': '32-bit ARM Cortex-M0+ MCU Microcontroller', 'kicadSymbolki_description': 'ARM Cortex-M0+ MCU, 48MHz, 16KB Flash, 4KB RAM, 1.6-3.6V, 18 GPIO, WLCSP-20', 'kicadSymbolki_fp_filters': 'WLCSP*1.934x2.434mm*Layout4x5*P0.4mm*'}]|
+|name|name|MCU_Microchip_SAMD : ATSAMD11D14A-U|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'ATSAMD10D14A-U'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ATSAMD11D14A-U'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_CSP</td></tr><tr><td>WLCSP-20_1.934x2.434mm_Layout4x5_P0.4mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/Atmel-42363-SAM-D11_Datasheet.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> '32-bit ARM Cortex-M0+ MCU Microcontroller'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'ARM Cortex-M0+ MCU</td><td> 48MHz</td><td> 16KB Flash</td><td> 4KB RAM</td><td> 1.6-3.6V</td><td> 18 GPIO</td><td> WLCSP-20'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'WLCSP*1.934x2.434mm*Layout4x5*P0.4mm*'</td></tr></table>]|
 ||||

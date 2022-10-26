@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKISOLATORLTV814 > LTV-814
+# SZKISOLATORLTV814 > Isolator : LTV-814
 
 - ID: SYMBOL-kicad-kicad-symbols-Isolator-LTV-814
 - Hex ID: SZKISOLATORLTV814
-- Name: LTV-814
-- Description: LTV-814
+- Name: Isolator : LTV-814
+- Description: Isolator : LTV-814
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-LTV-814](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-LTV-814)
 - Short Link: [http://oom.lt/SZKISOLATORLTV814](http://oom.lt/SZKISOLATORLTV814)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LTV-814|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Isolator-LTV-814|
 |Hex ID (short code)|hexID|SZKISOLATORLTV814|
-|name|name|LTV-814|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LTV-814', 'kicadSymbolFootprint': 'Package_DIP:DIP-4_W7.62mm', 'kicadSymbolDatasheet': 'https://optoelectronics.liteon.com/upload/download/DS-70-96-0013/LTV-8X4%20series%20201509.pdf', 'kicadSymbolki_keywords': 'NPN AC DC Optocoupler', 'kicadSymbolki_description': 'AC/DC Optocoupler, Vce 35V, CTR 20%, DIP4', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
+|name|name|Isolator : LTV-814|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LTV-814'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>DIP-4_W7.62mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//optoelectronics.liteon.com/upload/download/DS-70-96-0013/LTV-8X4%20series%20201509.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'NPN AC DC Optocoupler'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'AC/DC Optocoupler</td><td> Vce 35V</td><td> CTR 20%</td><td> DIP4'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W7.62mm*'</td></tr></table>]|
 ||||

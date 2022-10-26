@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SO-PowerIntegrations_SO-8C|
 |Hex ID (short code)|hexID|FZKSOPOWERINTEGRATIONSSO8C|
 |name|name|Package_SO : PowerIntegrations_SO-8C|
-|Footprint Kicad|footprintKicadDetails|{'name': 'PowerIntegrations_SO-8C', 'description': 'Power-Integrations variant of 8-Lead Plastic Small Outline (SN) - Narrow, 3.90 mm Body [SOIC], see https://www.mouser.com/ds/2/328/linkswitch-pl_family_datasheet-12517.pdf', 'tags': 'SOIC 1.27', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/PowerIntegrations_SO-8C.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'PowerIntegrations_SO-8C'</td><td> 'description'</td></tr><tr><td> 'Power-Integrations variant of 8-Lead Plastic Small Outline (SN) - Narrow</td><td> 3.90 mm Body [SOIC]</td><td> see https</td></tr><tr><td>//www.mouser.com/ds/2/328/linkswitch-pl_family_datasheet-12517.pdf'</td><td> 'tags'</td></tr><tr><td> 'SOIC 1.27'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_SO.3dshapes/PowerIntegrations_SO-8C.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

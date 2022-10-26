@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUMCHIPSAMDATSAMD51J2AM > ATSAMD51J20A-M
+# SZKMCUMCHIPSAMDATSAMD51J2AM > MCU_Microchip_SAMD : ATSAMD51J20A-M
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_SAMD-ATSAMD51J20A-M
 - Hex ID: SZKMCUMCHIPSAMDATSAMD51J2AM
-- Name: ATSAMD51J20A-M
-- Description: ATSAMD51J20A-M
+- Name: MCU_Microchip_SAMD : ATSAMD51J20A-M
+- Description: MCU_Microchip_SAMD : ATSAMD51J20A-M
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_SAMD-ATSAMD51J20A-M](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_SAMD-ATSAMD51J20A-M)
 - Short Link: [http://oom.lt/SZKMCUMCHIPSAMDATSAMD51J2AM](http://oom.lt/SZKMCUMCHIPSAMDATSAMD51J2AM)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ATSAMD51J20A-M|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_SAMD-ATSAMD51J20A-M|
 |Hex ID (short code)|hexID|SZKMCUMCHIPSAMDATSAMD51J2AM|
-|name|name|ATSAMD51J20A-M|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ATSAMD51J18A-M', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ATSAMD51J20A-M', 'kicadSymbolFootprint': 'Package_DFN_QFN:QFN-64-1EP_9x9mm_P0.5mm_EP4.7x4.7mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/60001507E.pdf', 'kicadSymbolki_keywords': '32-bit ARM Cortex-M4F MCU Microcontroller', 'kicadSymbolki_description': 'SAM D51 Microchip SMART ARM Cortex-M4F-based MCU, 1024K Flash, 256K SRAM, VQFN-64', 'kicadSymbolki_fp_filters': 'QFN*1EP*9x9mm*P0.5mm*'}]|
+|name|name|MCU_Microchip_SAMD : ATSAMD51J20A-M|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'ATSAMD51J18A-M'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ATSAMD51J20A-M'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>QFN-64-1EP_9x9mm_P0.5mm_EP4.7x4.7mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/60001507E.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> '32-bit ARM Cortex-M4F MCU Microcontroller'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'SAM D51 Microchip SMART ARM Cortex-M4F-based MCU</td><td> 1024K Flash</td><td> 256K SRAM</td><td> VQFN-64'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'QFN*1EP*9x9mm*P0.5mm*'</td></tr></table>]|
 ||||

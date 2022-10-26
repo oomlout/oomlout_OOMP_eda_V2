@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_SPDT_PCM12|
 |Hex ID (short code)|hexID|FZKBSWITCHSMSWSPDTPCM12|
 |name|name|Button_Switch_SMD : SW_SPDT_PCM12|
-|Footprint Kicad|footprintKicadDetails|{'name': 'SW_SPDT_PCM12', 'description': 'Ultraminiature Surface Mount Slide Switch, right-angle, https://www.ckswitches.com/media/1424/pcm.pdf', 'tags': None, 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_SPDT_PCM12.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SW_SPDT_PCM12'</td><td> 'description'</td></tr><tr><td> 'Ultraminiature Surface Mount Slide Switch</td><td> right-angle</td><td> https</td></tr><tr><td>//www.ckswitches.com/media/1424/pcm.pdf'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Button_Switch_SMD.3dshapes/SW_SPDT_PCM12.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORSWITCHINGPAM235AABADJ > PAM2305AABADJ
+# SZKREGULATORSWITCHINGPAM235AABADJ > Regulator_Switching : PAM2305AABADJ
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-PAM2305AABADJ
 - Hex ID: SZKREGULATORSWITCHINGPAM235AABADJ
-- Name: PAM2305AABADJ
-- Description: PAM2305AABADJ
+- Name: Regulator_Switching : PAM2305AABADJ
+- Description: Regulator_Switching : PAM2305AABADJ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-PAM2305AABADJ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-PAM2305AABADJ)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGPAM235AABADJ](http://oom.lt/SZKREGULATORSWITCHINGPAM235AABADJ)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PAM2305AABADJ|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-PAM2305AABADJ|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGPAM235AABADJ|
-|name|name|PAM2305AABADJ|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'PAM2305AAB330', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PAM2305AABADJ', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TSOT-23-5', 'kicadSymbolDatasheet': 'https://www.diodes.com/assets/Datasheets/PAM2305.pdf', 'kicadSymbolki_keywords': 'Voltage regulator switching buck fixed output analog', 'kicadSymbolki_description': '1A, Step-Down DC/DC-Converter, Adjustable Output Voltage, 1.5MHz, TSOT-23', 'kicadSymbolki_fp_filters': 'TSOT?23*'}]|
+|name|name|Regulator_Switching : PAM2305AABADJ|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'PAM2305AAB330'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'PAM2305AABADJ'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>TSOT-23-5'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.diodes.com/assets/Datasheets/PAM2305.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Voltage regulator switching buck fixed output analog'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '1A</td><td> Step-Down DC/DC-Converter</td><td> Adjustable Output Voltage</td><td> 1.5MHz</td><td> TSOT-23'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TSOT?23*'</td></tr></table>]|
 ||||

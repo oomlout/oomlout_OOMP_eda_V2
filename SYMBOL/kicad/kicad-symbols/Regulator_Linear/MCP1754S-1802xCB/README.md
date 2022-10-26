@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORLINEARMCP1754S182XCB > MCP1754S-1802xCB
+# SZKREGULATORLINEARMCP1754S182XCB > Regulator_Linear : MCP1754S-1802xCB
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-MCP1754S-1802xCB
 - Hex ID: SZKREGULATORLINEARMCP1754S182XCB
-- Name: MCP1754S-1802xCB
-- Description: MCP1754S-1802xCB
+- Name: Regulator_Linear : MCP1754S-1802xCB
+- Description: Regulator_Linear : MCP1754S-1802xCB
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-MCP1754S-1802xCB](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-MCP1754S-1802xCB)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARMCP1754S182XCB](http://oom.lt/SZKREGULATORLINEARMCP1754S182XCB)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MCP1754S-1802xCB|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-MCP1754S-1802xCB|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARMCP1754S182XCB|
-|name|name|MCP1754S-1802xCB|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MCP1754S-5002xCB', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MCP1754S-1802xCB', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/20002276C.pdf', 'kicadSymbolki_keywords': 'Regulator LDO', 'kicadSymbolki_description': 'Fixed 150mA Low Dropout Voltage Regulator, Positive, 1.8V output, SOT-23', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
+|name|name|Regulator_Linear : MCP1754S-1802xCB|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'MCP1754S-5002xCB'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MCP1754S-1802xCB'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-23'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/20002276C.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Regulator LDO'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Fixed 150mA Low Dropout Voltage Regulator</td><td> Positive</td><td> 1.8V output</td><td> SOT-23'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23*'</td></tr></table>]|
 ||||

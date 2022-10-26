@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SO-QSOP-24_3.9x8.7mm_P0.635mm|
 |Hex ID (short code)|hexID|FZKSOQS2439X87P635|
 |name|name|Package_SO : QSOP-24_3.9x8.7mm_P0.635mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'QSOP-24_3.9x8.7mm_P0.635mm', 'description': '24-Lead Plastic Shrink Small Outline Narrow Body (QR)-.150" Body [QSOP] (see Microchip Packaging Specification 00000049CH.pdf)', 'tags': 'QSOP 0.635', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/QSOP-24_3.9x8.7mm_P0.635mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'QSOP-24_3.9x8.7mm_P0.635mm'</td><td> 'description'</td></tr><tr><td> '24-Lead Plastic Shrink Small Outline Narrow Body (QR)-.150" Body [QSOP] (see Microchip Packaging Specification 00000049CH.pdf)'</td><td> 'tags'</td></tr><tr><td> 'QSOP 0.635'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_SO.3dshapes/QSOP-24_3.9x8.7mm_P0.635mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

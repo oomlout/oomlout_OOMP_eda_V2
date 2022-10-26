@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Neosid_Air-Coil_SML_5turn_HAM0531A|
 |Hex ID (short code)|hexID|FZKINDUCTORSMLNEOSIDAIRCOILSML5TURNHAM531A|
 |name|name|Inductor_SMD : L_Neosid_Air-Coil_SML_5turn_HAM0531A|
-|Footprint Kicad|footprintKicadDetails|{'name': 'L_Neosid_Air-Coil_SML_5turn_HAM0531A', 'description': 'Neosid, Air-Coil, SML, 5turn, HAM0531A,', 'tags': 'Neosid Air-Coil SML 5turn HAM0531A', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Neosid_Air-Coil_SML_5turn_HAM0531A.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'L_Neosid_Air-Coil_SML_5turn_HAM0531A'</td><td> 'description'</td></tr><tr><td> 'Neosid</td><td> Air-Coil</td><td> SML</td><td> 5turn</td><td> HAM0531A</td><td>'</td><td> 'tags'</td></tr><tr><td> 'Neosid Air-Coil SML 5turn HAM0531A'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Inductor_SMD.3dshapes/L_Neosid_Air-Coil_SML_5turn_HAM0531A.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

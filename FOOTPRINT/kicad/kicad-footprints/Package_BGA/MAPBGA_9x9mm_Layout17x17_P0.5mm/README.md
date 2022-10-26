@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_BGA-MAPBGA_9x9mm_Layout17x17_P0.5mm|
 |Hex ID (short code)|hexID|FZKBGAMAPBGA9X9LAYOUT17X17P5|
 |name|name|Package_BGA : MAPBGA_9x9mm_Layout17x17_P0.5mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'MAPBGA_9x9mm_Layout17x17_P0.5mm', 'description': 'MAPBGA 9x9x1.11 PKG, 9.0x9.0mm, 272 Ball, 17x17 Layout, 0.5mm Pitch, https://www.nxp.com/docs/en/package-information/98ASA00869D.pdf#page=1', 'tags': 'BGA 272 0.5', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/MAPBGA_9x9mm_Layout17x17_P0.5mm.wrl', 'pins': {'type': 'smd', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'MAPBGA_9x9mm_Layout17x17_P0.5mm'</td><td> 'description'</td></tr><tr><td> 'MAPBGA 9x9x1.11 PKG</td><td> 9.0x9.0mm</td><td> 272 Ball</td><td> 17x17 Layout</td><td> 0.5mm Pitch</td><td> https</td></tr><tr><td>//www.nxp.com/docs/en/package-information/98ASA00869D.pdf#page=1'</td><td> 'tags'</td></tr><tr><td> 'BGA 272 0.5'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_BGA.3dshapes/MAPBGA_9x9mm_Layout17x17_P0.5mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

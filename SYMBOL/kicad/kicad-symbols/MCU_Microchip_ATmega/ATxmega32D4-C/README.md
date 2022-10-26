@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUMCHIPATMEGAATXMEGA32D4C > ATxmega32D4-C
+# SZKMCUMCHIPATMEGAATXMEGA32D4C > MCU_Microchip_ATmega : ATxmega32D4-C
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATxmega32D4-C
 - Hex ID: SZKMCUMCHIPATMEGAATXMEGA32D4C
-- Name: ATxmega32D4-C
-- Description: ATxmega32D4-C
+- Name: MCU_Microchip_ATmega : ATxmega32D4-C
+- Description: MCU_Microchip_ATmega : ATxmega32D4-C
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATxmega32D4-C](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATxmega32D4-C)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATMEGAATXMEGA32D4C](http://oom.lt/SZKMCUMCHIPATMEGAATXMEGA32D4C)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ATxmega32D4-C|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATxmega32D4-C|
 |Hex ID (short code)|hexID|SZKMCUMCHIPATMEGAATXMEGA32D4C|
-|name|name|ATxmega32D4-C|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ATxmega16D4-C', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ATxmega32D4-C', 'kicadSymbolFootprint': 'Package_BGA:VFBGA-49_5.0x5.0mm_Layout7x7_P0.65mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-8135-8-and-16-bit-AVR-microcontroller-ATxmega16D4-32D4-64D4-128D4_datasheet.pdf', 'kicadSymbolki_keywords': 'AVR 8/16bit Microcontroller XMegaAVR', 'kicadSymbolki_description': '32MHz, 32kB Flash, 4kB Boot, 4kB SRAM, 1kB EEPROM, JTAG, VFBGA-49', 'kicadSymbolki_fp_filters': 'VFBGA*5.0x5.0mm*Layout7x7*P0.65mm*'}]|
+|name|name|MCU_Microchip_ATmega : ATxmega32D4-C|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'ATxmega16D4-C'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ATxmega32D4-C'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_BGA</td></tr><tr><td>VFBGA-49_5.0x5.0mm_Layout7x7_P0.65mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/Atmel-8135-8-and-16-bit-AVR-microcontroller-ATxmega16D4-32D4-64D4-128D4_datasheet.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'AVR 8/16bit Microcontroller XMegaAVR'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '32MHz</td><td> 32kB Flash</td><td> 4kB Boot</td><td> 4kB SRAM</td><td> 1kB EEPROM</td><td> JTAG</td><td> VFBGA-49'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'VFBGA*5.0x5.0mm*Layout7x7*P0.65mm*'</td></tr></table>]|
 ||||

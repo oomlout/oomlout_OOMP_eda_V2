@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKAMPLIFIERINSTRUMENTATIONLTC11XSW > LTC1100xSW
+# SZKAMPLIFIERINSTRUMENTATIONLTC11XSW > Amplifier_Instrumentation : LTC1100xSW
 
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Instrumentation-LTC1100xSW
 - Hex ID: SZKAMPLIFIERINSTRUMENTATIONLTC11XSW
-- Name: LTC1100xSW
-- Description: LTC1100xSW
+- Name: Amplifier_Instrumentation : LTC1100xSW
+- Description: Amplifier_Instrumentation : LTC1100xSW
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Instrumentation-LTC1100xSW](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Instrumentation-LTC1100xSW)
 - Short Link: [http://oom.lt/SZKAMPLIFIERINSTRUMENTATIONLTC11XSW](http://oom.lt/SZKAMPLIFIERINSTRUMENTATIONLTC11XSW)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LTC1100xSW|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Instrumentation-LTC1100xSW|
 |Hex ID (short code)|hexID|SZKAMPLIFIERINSTRUMENTATIONLTC11XSW|
-|name|name|LTC1100xSW|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LTC1100xSW', 'kicadSymbolFootprint': 'Package_SO:SOIC-16W_7.5x10.3mm_P1.27mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/1100fc.pdf', 'kicadSymbolki_keywords': 'single instrumentation amp', 'kicadSymbolki_description': 'Single Precision, Zero-Drift Instrumentation Amplifier, Gain = 10/100, SOIC-16W', 'kicadSymbolki_fp_filters': 'SOIC*7.5x10.3mm*P1.27mm*'}]|
+|name|name|Amplifier_Instrumentation : LTC1100xSW|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LTC1100xSW'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-16W_7.5x10.3mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/1100fc.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'single instrumentation amp'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Single Precision</td><td> Zero-Drift Instrumentation Amplifier</td><td> Gain = 10/100</td><td> SOIC-16W'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*7.5x10.3mm*P1.27mm*'</td></tr></table>]|
 ||||

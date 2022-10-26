@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-USB-C_Male_EdgeMnt_DX07P024MJ1R1500|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSUCMALEEDGEMNTDX7P24MJ1R15|
 |name|name|digikey-footprints : USB-C_Male_EdgeMnt_DX07P024MJ1R1500|
-|Footprint Kicad|footprintKicadDetails|{'name': 'USB-C_Male_EdgeMnt_DX07P024MJ1R1500', 'description': 'http://www.jae.com/z-en/pdf_download_exec.cfm?param=MB-0301-2E_DX07_PLUG.pdf', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'USB-C_Male_EdgeMnt_DX07P024MJ1R1500'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//www.jae.com/z-en/pdf_download_exec.cfm?param=MB-0301-2E_DX07_PLUG.pdf'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_QFP-TQFP-48-1EP_7x7mm_P0.5mm_EP3.5x3.5mm|
 |Hex ID (short code)|hexID|FZKQFPTQFP481EP7X7P5EP35X35|
 |name|name|Package_QFP : TQFP-48-1EP_7x7mm_P0.5mm_EP3.5x3.5mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'TQFP-48-1EP_7x7mm_P0.5mm_EP3.5x3.5mm', 'description': '48-Lead Thin Quad Flatpack (PT) - 7x7x1.0 mm Body [TQFP] With Exposed Pad (see Microchip Packaging Specification 00000049BS.pdf)', 'tags': 'QFP 0.5', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_QFP.3dshapes/TQFP-48-1EP_7x7mm_P0.5mm_EP3.5x3.5mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'TQFP-48-1EP_7x7mm_P0.5mm_EP3.5x3.5mm'</td><td> 'description'</td></tr><tr><td> '48-Lead Thin Quad Flatpack (PT) - 7x7x1.0 mm Body [TQFP] With Exposed Pad (see Microchip Packaging Specification 00000049BS.pdf)'</td><td> 'tags'</td></tr><tr><td> 'QFP 0.5'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_QFP.3dshapes/TQFP-48-1EP_7x7mm_P0.5mm_EP3.5x3.5mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

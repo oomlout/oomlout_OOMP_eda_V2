@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKISOLATORTLP627 > TLP627
+# SZKISOLATORTLP627 > Isolator : TLP627
 
 - ID: SYMBOL-kicad-kicad-symbols-Isolator-TLP627
 - Hex ID: SZKISOLATORTLP627
-- Name: TLP627
-- Description: TLP627
+- Name: Isolator : TLP627
+- Description: Isolator : TLP627
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-TLP627](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-TLP627)
 - Short Link: [http://oom.lt/SZKISOLATORTLP627](http://oom.lt/SZKISOLATORTLP627)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TLP627|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Isolator-TLP627|
 |Hex ID (short code)|hexID|SZKISOLATORTLP627|
-|name|name|TLP627|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TLP627', 'kicadSymbolFootprint': 'Package_DIP:DIP-4_W7.62mm', 'kicadSymbolDatasheet': 'https://toshiba.semicon-storage.com/info/docget.jsp?did=16914&prodName=TLP627', 'kicadSymbolki_keywords': 'NPN Darlington DC Optocoupler', 'kicadSymbolki_description': 'DC Darlington Optocoupler, Vce 300V, CTR 1000%, DIP4', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
+|name|name|Isolator : TLP627|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TLP627'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>DIP-4_W7.62mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//toshiba.semicon-storage.com/info/docget.jsp?did=16914&prodName=TLP627'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'NPN Darlington DC Optocoupler'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'DC Darlington Optocoupler</td><td> Vce 300V</td><td> CTR 1000%</td><td> DIP4'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W7.62mm*'</td></tr></table>]|
 ||||

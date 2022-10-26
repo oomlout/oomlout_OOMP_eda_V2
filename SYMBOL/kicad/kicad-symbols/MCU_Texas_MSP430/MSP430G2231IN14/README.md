@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUTEXASMSP43MSP43G2231IN14 > MSP430G2231IN14
+# SZKMCUTEXASMSP43MSP43G2231IN14 > MCU_Texas_MSP430 : MSP430G2231IN14
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Texas_MSP430-MSP430G2231IN14
 - Hex ID: SZKMCUTEXASMSP43MSP43G2231IN14
-- Name: MSP430G2231IN14
-- Description: MSP430G2231IN14
+- Name: MCU_Texas_MSP430 : MSP430G2231IN14
+- Description: MCU_Texas_MSP430 : MSP430G2231IN14
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Texas_MSP430-MSP430G2231IN14](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Texas_MSP430-MSP430G2231IN14)
 - Short Link: [http://oom.lt/SZKMCUTEXASMSP43MSP43G2231IN14](http://oom.lt/SZKMCUTEXASMSP43MSP43G2231IN14)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MSP430G2231IN14|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Texas_MSP430-MSP430G2231IN14|
 |Hex ID (short code)|hexID|SZKMCUTEXASMSP43MSP43G2231IN14|
-|name|name|MSP430G2231IN14|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MSP430G2131IN14', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MSP430G2231IN14', 'kicadSymbolFootprint': 'Package_SO:TSSOP-14_4.4x5mm_P0.65mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/msp430g2231.pdf', 'kicadSymbolki_keywords': 'TI MSP430 16-bit mixed signal microcontroller', 'kicadSymbolki_description': '2kB Flash, 128B RAM, DIP-14', 'kicadSymbolki_fp_filters': 'TSSOP*4.4x5mm*P0.65mm*'}]|
+|name|name|MCU_Texas_MSP430 : MSP430G2231IN14|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'MSP430G2131IN14'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MSP430G2231IN14'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>TSSOP-14_4.4x5mm_P0.65mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/msp430g2231.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'TI MSP430 16-bit mixed signal microcontroller'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '2kB Flash</td><td> 128B RAM</td><td> DIP-14'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TSSOP*4.4x5mm*P0.65mm*'</td></tr></table>]|
 ||||

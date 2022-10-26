@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SIP-SIP-9_21.54x3mm_P2.54mm|
 |Hex ID (short code)|hexID|FZKSIPSIP92154X3P254|
 |name|name|Package_SIP : SIP-9_21.54x3mm_P2.54mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'SIP-9_21.54x3mm_P2.54mm', 'description': 'SIP 9-pin ()', 'tags': 'SIP8', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SIP.3dshapes/SIP-9_21.54x3mm_P2.54mm.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SIP-9_21.54x3mm_P2.54mm'</td><td> 'description'</td></tr><tr><td> 'SIP 9-pin ()'</td><td> 'tags'</td></tr><tr><td> 'SIP8'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_SIP.3dshapes/SIP-9_21.54x3mm_P2.54mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

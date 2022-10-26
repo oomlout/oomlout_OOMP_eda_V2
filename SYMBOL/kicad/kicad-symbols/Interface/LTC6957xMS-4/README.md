@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKINTERFACELTC6957XMS4 > LTC6957xMS-4
+# SZKINTERFACELTC6957XMS4 > Interface : LTC6957xMS-4
 
 - ID: SYMBOL-kicad-kicad-symbols-Interface-LTC6957xMS-4
 - Hex ID: SZKINTERFACELTC6957XMS4
-- Name: LTC6957xMS-4
-- Description: LTC6957xMS-4
+- Name: Interface : LTC6957xMS-4
+- Description: Interface : LTC6957xMS-4
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-LTC6957xMS-4](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-LTC6957xMS-4)
 - Short Link: [http://oom.lt/SZKINTERFACELTC6957XMS4](http://oom.lt/SZKINTERFACELTC6957XMS4)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LTC6957xMS-4|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface-LTC6957xMS-4|
 |Hex ID (short code)|hexID|SZKINTERFACELTC6957XMS4|
-|name|name|LTC6957xMS-4|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LTC6957xMS-3', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LTC6957xMS-4', 'kicadSymbolFootprint': 'Package_SO:MSOP-12_3x4mm_P0.65mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/6957fb.pdf', 'kicadSymbolki_keywords': 'LTC clock converter', 'kicadSymbolki_description': 'Low Phase Noise, Dual Output Buffer/Driver/Logic Converter, CMOS Complementary Outputs, MSOP-12', 'kicadSymbolki_fp_filters': 'MSOP*3x4mm*P0.65mm*'}]|
+|name|name|Interface : LTC6957xMS-4|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'LTC6957xMS-3'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LTC6957xMS-4'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>MSOP-12_3x4mm_P0.65mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/6957fb.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'LTC clock converter'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Low Phase Noise</td><td> Dual Output Buffer/Driver/Logic Converter</td><td> CMOS Complementary Outputs</td><td> MSOP-12'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'MSOP*3x4mm*P0.65mm*'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKINTERFACEUARTMAX351 > MAX3051
+# SZKINTERFACEUARTMAX351 > Interface_UART : MAX3051
 
 - ID: SYMBOL-kicad-kicad-symbols-Interface_UART-MAX3051
 - Hex ID: SZKINTERFACEUARTMAX351
-- Name: MAX3051
-- Description: MAX3051
+- Name: Interface_UART : MAX3051
+- Description: Interface_UART : MAX3051
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-MAX3051](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-MAX3051)
 - Short Link: [http://oom.lt/SZKINTERFACEUARTMAX351](http://oom.lt/SZKINTERFACEUARTMAX351)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MAX3051|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_UART-MAX3051|
 |Hex ID (short code)|hexID|SZKINTERFACEUARTMAX351|
-|name|name|MAX3051|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MAX3051', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://datasheets.maximintegrated.com/en/ds/MAX3051.pdf', 'kicadSymbolki_keywords': 'High-Speed CAN Transceiver', 'kicadSymbolki_description': 'High-Speed CAN Transceiver, 1Mbps, 3.3V supply', 'kicadSymbolki_fp_filters': 'SOT?23* SOIC*'}]|
+|name|name|Interface_UART : MAX3051|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MAX3051'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//datasheets.maximintegrated.com/en/ds/MAX3051.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'High-Speed CAN Transceiver'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'High-Speed CAN Transceiver</td><td> 1Mbps</td><td> 3.3V supply'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23* SOIC*'</td></tr></table>]|
 ||||

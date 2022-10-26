@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKINTERFACEEXPANSIONPCA9555DB > PCA9555DB
+# SZKINTERFACEEXPANSIONPCA9555DB > Interface_Expansion : PCA9555DB
 
 - ID: SYMBOL-kicad-kicad-symbols-Interface_Expansion-PCA9555DB
 - Hex ID: SZKINTERFACEEXPANSIONPCA9555DB
-- Name: PCA9555DB
-- Description: PCA9555DB
+- Name: Interface_Expansion : PCA9555DB
+- Description: Interface_Expansion : PCA9555DB
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Expansion-PCA9555DB](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Expansion-PCA9555DB)
 - Short Link: [http://oom.lt/SZKINTERFACEEXPANSIONPCA9555DB](http://oom.lt/SZKINTERFACEEXPANSIONPCA9555DB)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PCA9555DB|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_Expansion-PCA9555DB|
 |Hex ID (short code)|hexID|SZKINTERFACEEXPANSIONPCA9555DB|
-|name|name|PCA9555DB|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PCA9555DB', 'kicadSymbolFootprint': 'Package_SO:SSOP-24_5.3x8.2mm_P0.65mm', 'kicadSymbolDatasheet': 'https://www.nxp.com/docs/en/data-sheet/PCA9555.pdf', 'kicadSymbolki_keywords': 'I2C TWI IO expander', 'kicadSymbolki_description': 'IO expander 16 GPIO, I2C 400kHz, Interrupt, 2.3 - 5.5V, SSOP-24', 'kicadSymbolki_fp_filters': 'SSOP*5.3x8.2mm*P0.65mm*'}]|
+|name|name|Interface_Expansion : PCA9555DB|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'PCA9555DB'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SSOP-24_5.3x8.2mm_P0.65mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.nxp.com/docs/en/data-sheet/PCA9555.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'I2C TWI IO expander'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'IO expander 16 GPIO</td><td> I2C 400kHz</td><td> Interrupt</td><td> 2.3 - 5.5V</td><td> SSOP-24'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SSOP*5.3x8.2mm*P0.65mm*'</td></tr></table>]|
 ||||

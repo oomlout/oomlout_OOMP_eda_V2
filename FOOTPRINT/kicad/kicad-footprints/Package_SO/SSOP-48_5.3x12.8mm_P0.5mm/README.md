@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SO-SSOP-48_5.3x12.8mm_P0.5mm|
 |Hex ID (short code)|hexID|FZKSOSS4853X128P5|
 |name|name|Package_SO : SSOP-48_5.3x12.8mm_P0.5mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'SSOP-48_5.3x12.8mm_P0.5mm', 'description': 'SSOP, 48 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/ltc-legacy-ssop/05081887_A_G48.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py', 'tags': 'SSOP SO', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/SSOP-48_5.3x12.8mm_P0.5mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SSOP-48_5.3x12.8mm_P0.5mm'</td><td> 'description'</td></tr><tr><td> 'SSOP</td><td> 48 Pin (https</td></tr><tr><td>//www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/ltc-legacy-ssop/05081887_A_G48.pdf)</td><td> generated with kicad-footprint-generator ipc_gullwing_generator.py'</td><td> 'tags'</td></tr><tr><td> 'SSOP SO'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_SO.3dshapes/SSOP-48_5.3x12.8mm_P0.5mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

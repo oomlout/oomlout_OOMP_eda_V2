@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKPOWERMANAGEMENTBD48XXFVE > BD48xxFVE
+# SZKPOWERMANAGEMENTBD48XXFVE > Power_Management : BD48xxFVE
 
 - ID: SYMBOL-kicad-kicad-symbols-Power_Management-BD48xxFVE
 - Hex ID: SZKPOWERMANAGEMENTBD48XXFVE
-- Name: BD48xxFVE
-- Description: BD48xxFVE
+- Name: Power_Management : BD48xxFVE
+- Description: Power_Management : BD48xxFVE
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-BD48xxFVE](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-BD48xxFVE)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTBD48XXFVE](http://oom.lt/SZKPOWERMANAGEMENTBD48XXFVE)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BD48xxFVE|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Management-BD48xxFVE|
 |Hex ID (short code)|hexID|SZKPOWERMANAGEMENTBD48XXFVE|
-|name|name|BD48xxFVE|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'BD48xxFVE', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:VSOF5', 'kicadSymbolDatasheet': 'https://www.rohm.de/datasheet/BD4830FVE/bd48xxg-e', 'kicadSymbolki_keywords': 'voltage detector open drain VSOF5', 'kicadSymbolki_description': 'Standard CMOS Voltage Detector IC, Open Drain Output, VSOF5', 'kicadSymbolki_fp_filters': '*VSOF*5*'}]|
+|name|name|Power_Management : BD48xxFVE|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'BD48xxFVE'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>VSOF5'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.rohm.de/datasheet/BD4830FVE/bd48xxg-e'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'voltage detector open drain VSOF5'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Standard CMOS Voltage Detector IC</td><td> Open Drain Output</td><td> VSOF5'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> '*VSOF*5*'</td></tr></table>]|
 ||||

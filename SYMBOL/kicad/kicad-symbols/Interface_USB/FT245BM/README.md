@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKINTERFACEUFT245BM > FT245BM
+# SZKINTERFACEUFT245BM > Interface_USB : FT245BM
 
 - ID: SYMBOL-kicad-kicad-symbols-Interface_USB-FT245BM
 - Hex ID: SZKINTERFACEUFT245BM
-- Name: FT245BM
-- Description: FT245BM
+- Name: Interface_USB : FT245BM
+- Description: Interface_USB : FT245BM
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-FT245BM](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-FT245BM)
 - Short Link: [http://oom.lt/SZKINTERFACEUFT245BM](http://oom.lt/SZKINTERFACEUFT245BM)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|FT245BM|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_USB-FT245BM|
 |Hex ID (short code)|hexID|SZKINTERFACEUFT245BM|
-|name|name|FT245BM|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'FT245BM', 'kicadSymbolFootprint': 'Package_QFP:LQFP-32_7x7mm_P0.8mm', 'kicadSymbolDatasheet': 'https://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT245BM.pdf', 'kicadSymbolki_keywords': 'FTDI USB FIFO Interface Converter', 'kicadSymbolki_description': 'Full Speed USB to 8-Bit FIFO, LQFP-32', 'kicadSymbolki_fp_filters': 'LQFP*7x7mm*P0.8mm*'}]|
+|name|name|Interface_USB : FT245BM|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'FT245BM'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_QFP</td></tr><tr><td>LQFP-32_7x7mm_P0.8mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT245BM.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'FTDI USB FIFO Interface Converter'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Full Speed USB to 8-Bit FIFO</td><td> LQFP-32'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'LQFP*7x7mm*P0.8mm*'</td></tr></table>]|
 ||||

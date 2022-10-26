@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUMCHIPSAMDATSAMD21E17LM > ATSAMD21E17L-M
+# SZKMCUMCHIPSAMDATSAMD21E17LM > MCU_Microchip_SAMD : ATSAMD21E17L-M
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_SAMD-ATSAMD21E17L-M
 - Hex ID: SZKMCUMCHIPSAMDATSAMD21E17LM
-- Name: ATSAMD21E17L-M
-- Description: ATSAMD21E17L-M
+- Name: MCU_Microchip_SAMD : ATSAMD21E17L-M
+- Description: MCU_Microchip_SAMD : ATSAMD21E17L-M
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_SAMD-ATSAMD21E17L-M](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_SAMD-ATSAMD21E17L-M)
 - Short Link: [http://oom.lt/SZKMCUMCHIPSAMDATSAMD21E17LM](http://oom.lt/SZKMCUMCHIPSAMDATSAMD21E17LM)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ATSAMD21E17L-M|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_SAMD-ATSAMD21E17L-M|
 |Hex ID (short code)|hexID|SZKMCUMCHIPSAMDATSAMD21E17LM|
-|name|name|ATSAMD21E17L-M|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ATSAMD21E15L-M', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ATSAMD21E17L-M', 'kicadSymbolFootprint': 'Package_DFN_QFN:QFN-32-1EP_5x5mm_P0.5mm_EP3.6x3.6mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/SAM_D21_DA1_Family_Data%20Sheet_DS40001882E.pdf', 'kicadSymbolki_keywords': '32-bit ARM Cortex-M0+ MCU Microcontroller', 'kicadSymbolki_description': 'SAM D21 Microchip SMART ARM-based Flash MCU, 48Mhz, 128K Flash w/ 4K RWW, 16K SRAM, Pinout Optimized for Analog & PWM, QFN-32', 'kicadSymbolki_fp_filters': 'QFN*5x5mm*P0.5mm*'}]|
+|name|name|MCU_Microchip_SAMD : ATSAMD21E17L-M|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'ATSAMD21E15L-M'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ATSAMD21E17L-M'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>QFN-32-1EP_5x5mm_P0.5mm_EP3.6x3.6mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/SAM_D21_DA1_Family_Data%20Sheet_DS40001882E.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> '32-bit ARM Cortex-M0+ MCU Microcontroller'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'SAM D21 Microchip SMART ARM-based Flash MCU</td><td> 48Mhz</td><td> 128K Flash w/ 4K RWW</td><td> 16K SRAM</td><td> Pinout Optimized for Analog & PWM</td><td> QFN-32'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'QFN*5x5mm*P0.5mm*'</td></tr></table>]|
 ||||

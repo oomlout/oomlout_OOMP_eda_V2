@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE42XO51267R42512A > RESE-0402-X-O512-67-R42512A
+# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE42XO51267R42512A > oomlout_OOMP_parts : RESE-0402-X-O512-67-R42512A
 
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O512-67-R42512A
 - Hex ID: SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE42XO51267R42512A
-- Name: RESE-0402-X-O512-67-R42512A
-- Description: RESE-0402-X-O512-67-R42512A
+- Name: oomlout_OOMP_parts : RESE-0402-X-O512-67-R42512A
+- Description: oomlout_OOMP_parts : RESE-0402-X-O512-67-R42512A
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O512-67-R42512A](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O512-67-R42512A)
 - Short Link: [http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE42XO51267R42512A](http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE42XO51267R42512A)
   
@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|RESE-0402-X-O512-67-R42512A|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O512-67-R42512A|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE42XO51267R42512A|
-|name|name|RESE-0402-X-O512-67-R42512A|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'R', 'kicadSymbolValue': 'RESE-0402-X-O512-67-R42512A', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:RESE-0402-X-O512-67-R42512A', 'kicadSymbolDatasheet': 'oom.lt/R42512A', 'kicadSymbolki_keywords': 'R res resistor', 'kicadSymbolki_description': 'hexID: R42512A;Resistor', 'kicadSymbolki_fp_filters': 'R_*'}]|
+|name|name|oomlout_OOMP_parts : RESE-0402-X-O512-67-R42512A|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'R'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'RESE-0402-X-O512-67-R42512A'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'oomlout_OOMP_parts</td></tr><tr><td>RESE-0402-X-O512-67-R42512A'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'oom.lt/R42512A'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'R res resistor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'hexID</td></tr><tr><td> R42512A;Resistor'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'R_*'</td></tr></table>]|
 ||||

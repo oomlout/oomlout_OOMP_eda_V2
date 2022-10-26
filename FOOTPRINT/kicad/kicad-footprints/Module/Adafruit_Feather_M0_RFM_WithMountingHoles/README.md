@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Module-Adafruit_Feather_M0_RFM_WithMountingHoles|
 |Hex ID (short code)|hexID|FZKMOADAFEATHERMRFMWITOUNTINGH|
 |name|name|Module : Adafruit_Feather_M0_RFM_WithMountingHoles|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Adafruit_Feather_M0_RFM_WithMountingHoles', 'description': 'Footprint for the Adafruit Feather M0 RFM series of boards, e.g. https://learn.adafruit.com/adafruit-feather-m0-radio-with-rfm69-packet-radio', 'tags': ' Adafruit Feather M0 RFM', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Module.3dshapes/Adafruit_Feather_M0_RFM.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Adafruit_Feather_M0_RFM_WithMountingHoles'</td><td> 'description'</td></tr><tr><td> 'Footprint for the Adafruit Feather M0 RFM series of boards</td><td> e.g. https</td></tr><tr><td>//learn.adafruit.com/adafruit-feather-m0-radio-with-rfm69-packet-radio'</td><td> 'tags'</td></tr><tr><td> ' Adafruit Feather M0 RFM'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Module.3dshapes/Adafruit_Feather_M0_RFM.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

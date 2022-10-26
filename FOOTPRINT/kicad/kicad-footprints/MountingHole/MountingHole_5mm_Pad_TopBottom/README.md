@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_5mm_Pad_TopBottom|
 |Hex ID (short code)|hexID|FZKHOLHOL5PADTOPBOTTOM|
 |name|name|MountingHole : MountingHole_5mm_Pad_TopBottom|
-|Footprint Kicad|footprintKicadDetails|{'name': 'MountingHole_5mm_Pad_TopBottom', 'description': 'Mounting Hole 5mm', 'tags': 'mounting hole 5mm', 'attributeType': None, 'pins': {'type': 'connect', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'MountingHole_5mm_Pad_TopBottom'</td><td> 'description'</td></tr><tr><td> 'Mounting Hole 5mm'</td><td> 'tags'</td></tr><tr><td> 'mounting hole 5mm'</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'connect'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDEVICEHALLGENERATOR > HallGenerator
+# SZKDEVICEHALLGENERATOR > Device : HallGenerator
 
 - ID: SYMBOL-kicad-kicad-symbols-Device-HallGenerator
 - Hex ID: SZKDEVICEHALLGENERATOR
-- Name: HallGenerator
-- Description: HallGenerator
+- Name: Device : HallGenerator
+- Description: Device : HallGenerator
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-HallGenerator](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-HallGenerator)
 - Short Link: [http://oom.lt/SZKDEVICEHALLGENERATOR](http://oom.lt/SZKDEVICEHALLGENERATOR)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|HallGenerator|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-HallGenerator|
 |Hex ID (short code)|hexID|SZKDEVICEHALLGENERATOR|
-|name|name|HallGenerator|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'HG', 'kicadSymbolValue': 'HallGenerator', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'Hall generator magnet', 'kicadSymbolki_description': 'Hall effect generator'}]|
+|name|name|Device : HallGenerator|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'HG'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'HallGenerator'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Hall generator magnet'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Hall effect generator'</td></tr></table>]|
 ||||

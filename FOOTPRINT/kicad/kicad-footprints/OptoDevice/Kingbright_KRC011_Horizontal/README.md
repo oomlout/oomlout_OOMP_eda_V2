@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-OptoDevice-Kingbright_KRC011_Horizontal|
 |Hex ID (short code)|hexID|FZKOPKINGBRIGHTKRC11HORIZONTAL|
 |name|name|OptoDevice : Kingbright_KRC011_Horizontal|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Kingbright_KRC011_Horizontal', 'description': 'Subminiature Reflective Optical Sensor, http://www.kingbright.com/attachments/file/psearch/000/00/00/KRC011(Ver.15).pdf', 'tags': 'Subminiature Reflective Optical Sensor', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/Kingbright_KRC011_Horizontal.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Kingbright_KRC011_Horizontal'</td><td> 'description'</td></tr><tr><td> 'Subminiature Reflective Optical Sensor</td><td> http</td></tr><tr><td>//www.kingbright.com/attachments/file/psearch/000/00/00/KRC011(Ver.15).pdf'</td><td> 'tags'</td></tr><tr><td> 'Subminiature Reflective Optical Sensor'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/OptoDevice.3dshapes/Kingbright_KRC011_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUMCHIPPIC16PIC16F1526IMR > PIC16F1526-IMR
+# SZKMCUMCHIPPIC16PIC16F1526IMR > MCU_Microchip_PIC16 : PIC16F1526-IMR
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F1526-IMR
 - Hex ID: SZKMCUMCHIPPIC16PIC16F1526IMR
-- Name: PIC16F1526-IMR
-- Description: PIC16F1526-IMR
+- Name: MCU_Microchip_PIC16 : PIC16F1526-IMR
+- Description: MCU_Microchip_PIC16 : PIC16F1526-IMR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F1526-IMR](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F1526-IMR)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC16PIC16F1526IMR](http://oom.lt/SZKMCUMCHIPPIC16PIC16F1526IMR)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PIC16F1526-IMR|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F1526-IMR|
 |Hex ID (short code)|hexID|SZKMCUMCHIPPIC16PIC16F1526IMR|
-|name|name|PIC16F1526-IMR|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'PIC16F1526-IPT', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PIC16F1526-IMR', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/41458B.pdf', 'kicadSymbolki_keywords': 'FLASH-Based 8-Bit CMOS Microcontroller XLP', 'kicadSymbolki_description': 'PIC16F1526, 8192W FLASH, 768B SRAM, UQFN-64', 'kicadSymbolki_fp_filters': 'TQFP* QFN*'}]|
+|name|name|MCU_Microchip_PIC16 : PIC16F1526-IMR|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'PIC16F1526-IPT'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'PIC16F1526-IMR'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/41458B.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'FLASH-Based 8-Bit CMOS Microcontroller XLP'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'PIC16F1526</td><td> 8192W FLASH</td><td> 768B SRAM</td><td> UQFN-64'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TQFP* QFN*'</td></tr></table>]|
 ||||

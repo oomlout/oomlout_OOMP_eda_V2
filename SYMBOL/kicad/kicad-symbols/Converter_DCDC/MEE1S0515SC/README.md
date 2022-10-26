@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKCONMEE1S515SC > MEE1S0515SC
+# SZKCONMEE1S515SC > Converter_DCDC : MEE1S0515SC
 
 - ID: SYMBOL-kicad-kicad-symbols-Converter_DCDC-MEE1S0515SC
 - Hex ID: SZKCONMEE1S515SC
-- Name: MEE1S0515SC
-- Description: MEE1S0515SC
+- Name: Converter_DCDC : MEE1S0515SC
+- Description: Converter_DCDC : MEE1S0515SC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-MEE1S0515SC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-MEE1S0515SC)
 - Short Link: [http://oom.lt/SZKCONMEE1S515SC](http://oom.lt/SZKCONMEE1S515SC)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MEE1S0515SC|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Converter_DCDC-MEE1S0515SC|
 |Hex ID (short code)|hexID|SZKCONMEE1S515SC|
-|name|name|MEE1S0515SC|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MEE1S0303SC', 'kicadSymbolReference': 'PS', 'kicadSymbolValue': 'MEE1S0515SC', 'kicadSymbolFootprint': 'Converter_DCDC:Converter_DCDC_Murata_MEE1SxxxxSC_THT', 'kicadSymbolDatasheet': 'https://power.murata.com/pub/data/power/ncl/kdc_mee1.pdf', 'kicadSymbolki_keywords': 'murata DC/DC isolated converter', 'kicadSymbolki_description': '1W, 1000 VDC isolated DC/DC converter, 5V input, 15V output, SIP', 'kicadSymbolki_fp_filters': 'Converter*DCDC*Murata*MEE1SxxxxSC*THT*'}]|
+|name|name|Converter_DCDC : MEE1S0515SC|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'MEE1S0303SC'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'PS'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MEE1S0515SC'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Converter_DCDC</td></tr><tr><td>Converter_DCDC_Murata_MEE1SxxxxSC_THT'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//power.murata.com/pub/data/power/ncl/kdc_mee1.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'murata DC/DC isolated converter'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '1W</td><td> 1000 VDC isolated DC/DC converter</td><td> 5V input</td><td> 15V output</td><td> SIP'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Converter*DCDC*Murata*MEE1SxxxxSC*THT*'</td></tr></table>]|
 ||||

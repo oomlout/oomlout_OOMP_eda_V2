@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Kingbright_APHBM2012_2x1.25mm|
 |Hex ID (short code)|hexID|FZKLSMLKINGBRIGHTAPHBM2122X125|
 |name|name|LED_SMD : LED_Kingbright_APHBM2012_2x1.25mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'LED_Kingbright_APHBM2012_2x1.25mm', 'description': 'Dual LED SMD https://www.kingbrightusa.com/KCpack.asp?txtPack=APHBM2012', 'tags': 'LED Kingbright APHM2012', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED_Kingbright_APHBM2012_2x1.25mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'LED_Kingbright_APHBM2012_2x1.25mm'</td><td> 'description'</td></tr><tr><td> 'Dual LED SMD https</td></tr><tr><td>//www.kingbrightusa.com/KCpack.asp?txtPack=APHBM2012'</td><td> 'tags'</td></tr><tr><td> 'LED Kingbright APHM2012'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/LED_SMD.3dshapes/LED_Kingbright_APHBM2012_2x1.25mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

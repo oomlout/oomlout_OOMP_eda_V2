@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREFERENCECURRENTLT392XTS8 > LT3092xTS8
+# SZKREFERENCECURRENTLT392XTS8 > Reference_Current : LT3092xTS8
 
 - ID: SYMBOL-kicad-kicad-symbols-Reference_Current-LT3092xTS8
 - Hex ID: SZKREFERENCECURRENTLT392XTS8
-- Name: LT3092xTS8
-- Description: LT3092xTS8
+- Name: Reference_Current : LT3092xTS8
+- Description: Reference_Current : LT3092xTS8
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Current-LT3092xTS8](http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Current-LT3092xTS8)
 - Short Link: [http://oom.lt/SZKREFERENCECURRENTLT392XTS8](http://oom.lt/SZKREFERENCECURRENTLT392XTS8)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LT3092xTS8|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Reference_Current-LT3092xTS8|
 |Hex ID (short code)|hexID|SZKREFERENCECURRENTLT392XTS8|
-|name|name|LT3092xTS8|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LT3092xTS8', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TSOT-23-8', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/3092fc.pdf', 'kicadSymbolki_keywords': 'current source', 'kicadSymbolki_description': '200mA 2-Terminal Programmable Current Source, TSOT-23-8', 'kicadSymbolki_fp_filters': 'TSOT?23*'}]|
+|name|name|Reference_Current : LT3092xTS8|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LT3092xTS8'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>TSOT-23-8'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/3092fc.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'current source'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '200mA 2-Terminal Programmable Current Source</td><td> TSOT-23-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TSOT?23*'</td></tr></table>]|
 ||||

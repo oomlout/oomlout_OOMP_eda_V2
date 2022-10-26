@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SON-HUSON-3-1EP_2x2mm_P1.3mm_EP1.1x1.6mm|
 |Hex ID (short code)|hexID|FZKSONHUSON31EP2X2P13EP11X16|
 |name|name|Package_SON : HUSON-3-1EP_2x2mm_P1.3mm_EP1.1x1.6mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'HUSON-3-1EP_2x2mm_P1.3mm_EP1.1x1.6mm', 'description': 'HUSON, 3 Pin, SOT1061 (Ref: https://assets.nexperia.com/documents/data-sheet/PMEG2020CPA.pdf)', 'tags': 'huson nolead SOT1061', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SON.3dshapes/HUSON-3-1EP_2x2mm_P1.3mm_EP1.1x1.6mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'HUSON-3-1EP_2x2mm_P1.3mm_EP1.1x1.6mm'</td><td> 'description'</td></tr><tr><td> 'HUSON</td><td> 3 Pin</td><td> SOT1061 (Ref</td></tr><tr><td> https</td></tr><tr><td>//assets.nexperia.com/documents/data-sheet/PMEG2020CPA.pdf)'</td><td> 'tags'</td></tr><tr><td> 'huson nolead SOT1061'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_SON.3dshapes/HUSON-3-1EP_2x2mm_P1.3mm_EP1.1x1.6mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

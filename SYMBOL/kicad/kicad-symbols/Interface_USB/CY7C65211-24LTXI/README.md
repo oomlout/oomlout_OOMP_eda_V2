@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKINTERFACEUCY7C6521124LTXI > CY7C65211-24LTXI
+# SZKINTERFACEUCY7C6521124LTXI > Interface_USB : CY7C65211-24LTXI
 
 - ID: SYMBOL-kicad-kicad-symbols-Interface_USB-CY7C65211-24LTXI
 - Hex ID: SZKINTERFACEUCY7C6521124LTXI
-- Name: CY7C65211-24LTXI
-- Description: CY7C65211-24LTXI
+- Name: Interface_USB : CY7C65211-24LTXI
+- Description: Interface_USB : CY7C65211-24LTXI
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-CY7C65211-24LTXI](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-CY7C65211-24LTXI)
 - Short Link: [http://oom.lt/SZKINTERFACEUCY7C6521124LTXI](http://oom.lt/SZKINTERFACEUCY7C6521124LTXI)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|CY7C65211-24LTXI|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_USB-CY7C65211-24LTXI|
 |Hex ID (short code)|hexID|SZKINTERFACEUCY7C6521124LTXI|
-|name|name|CY7C65211-24LTXI|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'CY7C65211-24LTXI', 'kicadSymbolFootprint': 'Package_DFN_QFN:QFN-24-1EP_4x4mm_P0.5mm_EP2.6x2.6mm', 'kicadSymbolDatasheet': 'http://www.cypress.com/file/139886/download', 'kicadSymbolki_keywords': 'USB-Serial single channel bridge', 'kicadSymbolki_description': 'USB-Serial single channel bridge with capsense and BCD, +1.71V to +5.5V VDD, UART/I2C/SPI/RS232/RS422, QFN-24', 'kicadSymbolki_fp_filters': 'QFN*1EP*4x4mm*P0.5mm*'}]|
+|name|name|Interface_USB : CY7C65211-24LTXI|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'CY7C65211-24LTXI'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>QFN-24-1EP_4x4mm_P0.5mm_EP2.6x2.6mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.cypress.com/file/139886/download'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'USB-Serial single channel bridge'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'USB-Serial single channel bridge with capsense and BCD</td><td> +1.71V to +5.5V VDD</td><td> UART/I2C/SPI/RS232/RS422</td><td> QFN-24'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'QFN*1EP*4x4mm*P0.5mm*'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDRIVERFETAN3492B > AN34092B
+# SZKDRIVERFETAN3492B > Driver_FET : AN34092B
 
 - ID: SYMBOL-kicad-kicad-symbols-Driver_FET-AN34092B
 - Hex ID: SZKDRIVERFETAN3492B
-- Name: AN34092B
-- Description: AN34092B
+- Name: Driver_FET : AN34092B
+- Description: Driver_FET : AN34092B
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-AN34092B](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-AN34092B)
 - Short Link: [http://oom.lt/SZKDRIVERFETAN3492B](http://oom.lt/SZKDRIVERFETAN3492B)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AN34092B|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Driver_FET-AN34092B|
 |Hex ID (short code)|hexID|SZKDRIVERFETAN3492B|
-|name|name|AN34092B|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AN34092B', 'kicadSymbolFootprint': 'Package_DFN_QFN:Panasonic_HQFN-16-1EP_4x4mm_P0.65mm_EP2.9x2.9mm', 'kicadSymbolDatasheet': 'https://industrial.panasonic.com/content/data/SC/ds/ds4/AN34092B_E.pdf', 'kicadSymbolki_keywords': 'GaN Gate Driver', 'kicadSymbolki_description': 'Single-Channel GaN-Tr High-Speed Gate Driver, Output Current 6.0A, 24V, -5V Negative Gate Voltage, HQFN-16', 'kicadSymbolki_fp_filters': 'Panasonic*HQFN*1EP*4x4mm*P0.65mm*EP2.9x2.9mm*'}]|
+|name|name|Driver_FET : AN34092B|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'AN34092B'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>Panasonic_HQFN-16-1EP_4x4mm_P0.65mm_EP2.9x2.9mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//industrial.panasonic.com/content/data/SC/ds/ds4/AN34092B_E.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'GaN Gate Driver'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Single-Channel GaN-Tr High-Speed Gate Driver</td><td> Output Current 6.0A</td><td> 24V</td><td> -5V Negative Gate Voltage</td><td> HQFN-16'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Panasonic*HQFN*1EP*4x4mm*P0.65mm*EP2.9x2.9mm*'</td></tr></table>]|
 ||||

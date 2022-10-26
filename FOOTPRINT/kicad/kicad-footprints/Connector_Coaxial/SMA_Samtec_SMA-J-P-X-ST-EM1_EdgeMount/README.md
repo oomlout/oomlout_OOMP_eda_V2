@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Coaxial-SMA_Samtec_SMA-J-P-X-ST-EM1_EdgeMount|
 |Hex ID (short code)|hexID|FZKCNCOASSAMTECSJPXSTEM1EDGEMOUNT|
 |name|name|Connector_Coaxial : SMA_Samtec_SMA-J-P-X-ST-EM1_EdgeMount|
-|Footprint Kicad|footprintKicadDetails|{'name': 'SMA_Samtec_SMA-J-P-X-ST-EM1_EdgeMount', 'description': 'Connector SMA, 0Hz to 20GHz, 50Ohm, Edge Mount (http://suddendocs.samtec.com/prints/sma-j-p-x-st-em1-mkt.pdf)', 'tags': 'SMA Straight Samtec Edge Mount', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_Coaxial.3dshapes/SMA_Samtec_SMA-J-P-X-ST-EM1_EdgeMount.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SMA_Samtec_SMA-J-P-X-ST-EM1_EdgeMount'</td><td> 'description'</td></tr><tr><td> 'Connector SMA</td><td> 0Hz to 20GHz</td><td> 50Ohm</td><td> Edge Mount (http</td></tr><tr><td>//suddendocs.samtec.com/prints/sma-j-p-x-st-em1-mkt.pdf)'</td><td> 'tags'</td></tr><tr><td> 'SMA Straight Samtec Edge Mount'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_Coaxial.3dshapes/SMA_Samtec_SMA-J-P-X-ST-EM1_EdgeMount.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

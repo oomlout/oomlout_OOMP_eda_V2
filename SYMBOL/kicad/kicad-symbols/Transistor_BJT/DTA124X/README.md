@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORBJTDTA124X > DTA124X
+# SZKTRANSISTORBJTDTA124X > Transistor_BJT : DTA124X
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-DTA124X
 - Hex ID: SZKTRANSISTORBJTDTA124X
-- Name: DTA124X
-- Description: DTA124X
+- Name: Transistor_BJT : DTA124X
+- Description: Transistor_BJT : DTA124X
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-DTA124X](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-DTA124X)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTDTA124X](http://oom.lt/SZKTRANSISTORBJTDTA124X)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DTA124X|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_BJT-DTA124X|
 |Hex ID (short code)|hexID|SZKTRANSISTORBJTDTA124X|
-|name|name|DTA124X|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'DTA124X', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_keywords': 'ROHM Digital PNP Transistor', 'kicadSymbolki_description': 'Digital PNP Transistor, 22k/47k, SOT-23', 'kicadSymbolki_fp_filters': 'SOT?23* SC?59*'}]|
+|name|name|Transistor_BJT : DTA124X|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'DTA124X'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'ROHM Digital PNP Transistor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Digital PNP Transistor</td><td> 22k/47k</td><td> SOT-23'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23* SC?59*'</td></tr></table>]|
 ||||

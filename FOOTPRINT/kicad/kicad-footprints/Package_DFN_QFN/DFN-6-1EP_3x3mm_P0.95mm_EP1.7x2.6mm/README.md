@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-DFN-6-1EP_3x3mm_P0.95mm_EP1.7x2.6mm|
 |Hex ID (short code)|hexID|FZKDFNDFN61EP3X3P95EP17X26|
 |name|name|Package_DFN_QFN : DFN-6-1EP_3x3mm_P0.95mm_EP1.7x2.6mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'DFN-6-1EP_3x3mm_P0.95mm_EP1.7x2.6mm', 'description': 'DFN6 3*3 MM, 0.95 PITCH; CASE 506AH-01 (see ON Semiconductor 506AH.PDF)', 'tags': 'DFN 0.95', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/DFN-6-1EP_3x3mm_P0.95mm_EP1.7x2.6mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'DFN-6-1EP_3x3mm_P0.95mm_EP1.7x2.6mm'</td><td> 'description'</td></tr><tr><td> 'DFN6 3*3 MM</td><td> 0.95 PITCH; CASE 506AH-01 (see ON Semiconductor 506AH.PDF)'</td><td> 'tags'</td></tr><tr><td> 'DFN 0.95'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DFN_QFN.3dshapes/DFN-6-1EP_3x3mm_P0.95mm_EP1.7x2.6mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

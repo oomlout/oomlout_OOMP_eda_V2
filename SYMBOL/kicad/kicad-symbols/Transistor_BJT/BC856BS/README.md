@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORBJTBC856BS > BC856BS
+# SZKTRANSISTORBJTBC856BS > Transistor_BJT : BC856BS
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC856BS
 - Hex ID: SZKTRANSISTORBJTBC856BS
-- Name: BC856BS
-- Description: BC856BS
+- Name: Transistor_BJT : BC856BS
+- Description: Transistor_BJT : BC856BS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC856BS](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC856BS)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTBC856BS](http://oom.lt/SZKTRANSISTORBJTBC856BS)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BC856BS|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC856BS|
 |Hex ID (short code)|hexID|SZKTRANSISTORBJTBC856BS|
-|name|name|BC856BS|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'BC856BS', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-363_SC-70-6', 'kicadSymbolDatasheet': 'https://assets.nexperia.com/documents/data-sheet/BC856BS.pdf', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'PNP/PNP Transistor', 'kicadSymbolki_description': '100mA IC, 65V Vce, Dual PNP/PNP Transistors, SOT-363', 'kicadSymbolki_fp_filters': 'SOT?363*'}]|
+|name|name|Transistor_BJT : BC856BS|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'BC856BS'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-363_SC-70-6'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//assets.nexperia.com/documents/data-sheet/BC856BS.pdf'</td><td> 'kicadSymbolki_locked'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'PNP/PNP Transistor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '100mA IC</td><td> 65V Vce</td><td> Dual PNP/PNP Transistors</td><td> SOT-363'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?363*'</td></tr></table>]|
 ||||

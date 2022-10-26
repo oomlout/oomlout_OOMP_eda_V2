@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDIGRAPHICEADOGM128X6 > EA_DOGM128X-6
+# SZKDIGRAPHICEADOGM128X6 > Display_Graphic : EA_DOGM128X-6
 
 - ID: SYMBOL-kicad-kicad-symbols-Display_Graphic-EA_DOGM128X-6
 - Hex ID: SZKDIGRAPHICEADOGM128X6
-- Name: EA_DOGM128X-6
-- Description: EA_DOGM128X-6
+- Name: Display_Graphic : EA_DOGM128X-6
+- Description: Display_Graphic : EA_DOGM128X-6
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Graphic-EA_DOGM128X-6](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Graphic-EA_DOGM128X-6)
 - Short Link: [http://oom.lt/SZKDIGRAPHICEADOGM128X6](http://oom.lt/SZKDIGRAPHICEADOGM128X6)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|EA_DOGM128X-6|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Display_Graphic-EA_DOGM128X-6|
 |Hex ID (short code)|hexID|SZKDIGRAPHICEADOGM128X6|
-|name|name|EA_DOGM128X-6|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'EA_DOGM128X-6', 'kicadSymbolFootprint': 'Display:EA_DOGM128-6', 'kicadSymbolDatasheet': 'https://www.lcd-module.de/eng/pdf/grafik/dogm128e.pdf', 'kicadSymbolki_keywords': 'display LCD graphic', 'kicadSymbolki_description': 'EA DOGM128X-6 Graphical Display 128x64 optional backlight SPI 3.0-3.3V', 'kicadSymbolki_fp_filters': 'EA*DOGM128*6*'}]|
+|name|name|Display_Graphic : EA_DOGM128X-6|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'EA_DOGM128X-6'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Display</td></tr><tr><td>EA_DOGM128-6'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.lcd-module.de/eng/pdf/grafik/dogm128e.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'display LCD graphic'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'EA DOGM128X-6 Graphical Display 128x64 optional backlight SPI 3.0-3.3V'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'EA*DOGM128*6*'</td></tr></table>]|
 ||||

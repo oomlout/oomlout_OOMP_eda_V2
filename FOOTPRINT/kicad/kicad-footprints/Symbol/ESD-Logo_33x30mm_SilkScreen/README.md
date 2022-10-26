@@ -29,5 +29,5 @@ NO IMAGE
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Symbol-ESD-Logo_33x30mm_SilkScreen|
 |Hex ID (short code)|hexID|FZKSZESDL33X3SILKSCREEN|
 |name|name|Symbol : ESD-Logo_33x30mm_SilkScreen|
-|Footprint Kicad|footprintKicadDetails|{'name': 'ESD-Logo_33x30mm_SilkScreen', 'description': 'Electrostatic discharge Logo', 'tags': 'Logo ESD', 'attributeType': None, 'pins': {}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'ESD-Logo_33x30mm_SilkScreen'</td><td> 'description'</td></tr><tr><td> 'Electrostatic discharge Logo'</td><td> 'tags'</td></tr><tr><td> 'Logo ESD'</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td></td></tr></table></td></tr></table>|
 ||||

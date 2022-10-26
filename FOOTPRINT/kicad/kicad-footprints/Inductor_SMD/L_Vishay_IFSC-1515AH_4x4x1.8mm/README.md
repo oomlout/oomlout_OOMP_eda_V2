@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Vishay_IFSC-1515AH_4x4x1.8mm|
 |Hex ID (short code)|hexID|FZKINDUCTORSMLVISHAYIFSC1515AH4X4X18|
 |name|name|Inductor_SMD : L_Vishay_IFSC-1515AH_4x4x1.8mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'L_Vishay_IFSC-1515AH_4x4x1.8mm', 'description': 'Low Profile, High Current Inductors (https://www.vishay.com/docs/34295/sc15ah01.pdf)', 'tags': 'SMD Vishay Inductor Low Profile', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Vishay_IFSC-1515AH_4x4x1.8mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'L_Vishay_IFSC-1515AH_4x4x1.8mm'</td><td> 'description'</td></tr><tr><td> 'Low Profile</td><td> High Current Inductors (https</td></tr><tr><td>//www.vishay.com/docs/34295/sc15ah01.pdf)'</td><td> 'tags'</td></tr><tr><td> 'SMD Vishay Inductor Low Profile'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Inductor_SMD.3dshapes/L_Vishay_IFSC-1515AH_4x4x1.8mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

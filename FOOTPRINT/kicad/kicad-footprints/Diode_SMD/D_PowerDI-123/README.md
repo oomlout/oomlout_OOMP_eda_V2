@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_PowerDI-123|
 |Hex ID (short code)|hexID|FZKDIODESMDPOWERDI123|
 |name|name|Diode_SMD : D_PowerDI-123|
-|Footprint Kicad|footprintKicadDetails|{'name': 'D_PowerDI-123', 'description': 'http://www.diodes.com/_files/datasheets/ds30497.pdf', 'tags': 'PowerDI diode vishay', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_PowerDI-123.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'D_PowerDI-123'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//www.diodes.com/_files/datasheets/ds30497.pdf'</td><td> 'tags'</td></tr><tr><td> 'PowerDI diode vishay'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Diode_SMD.3dshapes/D_PowerDI-123.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

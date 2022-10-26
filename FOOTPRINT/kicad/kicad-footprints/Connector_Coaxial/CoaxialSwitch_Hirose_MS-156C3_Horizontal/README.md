@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Coaxial-CoaxialSwitch_Hirose_MS-156C3_Horizontal|
 |Hex ID (short code)|hexID|FZKCNCOACOAXIALSWITCHHIROSEMS156C3HORIZONTAL|
 |name|name|Connector_Coaxial : CoaxialSwitch_Hirose_MS-156C3_Horizontal|
-|Footprint Kicad|footprintKicadDetails|{'name': 'CoaxialSwitch_Hirose_MS-156C3_Horizontal', 'description': 'Subminiature Coaxial Switch 1.35mm High, DC to 11GHz', 'tags': 'Switch Coaxial RF', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_Coaxial.3dshapes/CoaxialSwitch_Hirose_MS-156C3_Horizontal.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'CoaxialSwitch_Hirose_MS-156C3_Horizontal'</td><td> 'description'</td></tr><tr><td> 'Subminiature Coaxial Switch 1.35mm High</td><td> DC to 11GHz'</td><td> 'tags'</td></tr><tr><td> 'Switch Coaxial RF'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_Coaxial.3dshapes/CoaxialSwitch_Hirose_MS-156C3_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

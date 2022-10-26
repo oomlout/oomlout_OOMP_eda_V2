@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKSENPROXIMITYBPR15F > BPR-105F
+# SZKSENPROXIMITYBPR15F > Sensor_Proximity : BPR-105F
 
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Proximity-BPR-105F
 - Hex ID: SZKSENPROXIMITYBPR15F
-- Name: BPR-105F
-- Description: BPR-105F
+- Name: Sensor_Proximity : BPR-105F
+- Description: Sensor_Proximity : BPR-105F
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Proximity-BPR-105F](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Proximity-BPR-105F)
 - Short Link: [http://oom.lt/SZKSENPROXIMITYBPR15F](http://oom.lt/SZKSENPROXIMITYBPR15F)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BPR-105F|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Proximity-BPR-105F|
 |Hex ID (short code)|hexID|SZKSENPROXIMITYBPR15F|
-|name|name|BPR-105F|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ITR8307-F43', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'BPR-105F', 'kicadSymbolFootprint': 'OptoDevice:Everlight_ITR8307F43', 'kicadSymbolDatasheet': 'http://www.ystone.com.tw/en/data/goods/IRPT/Photo%20Interrupters-Reflective%20Type.pdf', 'kicadSymbolki_keywords': 'Reflective Optical Sensor Opto', 'kicadSymbolki_description': 'Subminiature Reflective Optical Sensor, DIP-like THT-package', 'kicadSymbolki_fp_filters': 'Everlight*ITR8307F43*'}]|
+|name|name|Sensor_Proximity : BPR-105F|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'ITR8307-F43'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'BPR-105F'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'OptoDevice</td></tr><tr><td>Everlight_ITR8307F43'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ystone.com.tw/en/data/goods/IRPT/Photo%20Interrupters-Reflective%20Type.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Reflective Optical Sensor Opto'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Subminiature Reflective Optical Sensor</td><td> DIP-like THT-package'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Everlight*ITR8307F43*'</td></tr></table>]|
 ||||

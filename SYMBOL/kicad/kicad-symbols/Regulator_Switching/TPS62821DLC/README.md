@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORSWITCHINGTPS62821DLC > TPS62821DLC
+# SZKREGULATORSWITCHINGTPS62821DLC > Regulator_Switching : TPS62821DLC
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS62821DLC
 - Hex ID: SZKREGULATORSWITCHINGTPS62821DLC
-- Name: TPS62821DLC
-- Description: TPS62821DLC
+- Name: Regulator_Switching : TPS62821DLC
+- Description: Regulator_Switching : TPS62821DLC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS62821DLC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS62821DLC)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGTPS62821DLC](http://oom.lt/SZKREGULATORSWITCHINGTPS62821DLC)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TPS62821DLC|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS62821DLC|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGTPS62821DLC|
-|name|name|TPS62821DLC|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TPS62823DLC', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TPS62821DLC', 'kicadSymbolFootprint': 'Package_DFN_QFN:Texas_VSON-HR-8_1.5x2mm_P0.5mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tps62823.pdf', 'kicadSymbolki_keywords': 'step-down dc-dc buck regulator', 'kicadSymbolki_description': '1A Step-Down Converter with DCS-Control, adjustable output, 2.4-5.5V input voltage, QFN-8', 'kicadSymbolki_fp_filters': 'Texas*VSON*HR*1.5x2mm*P0.5mm*'}]|
+|name|name|Regulator_Switching : TPS62821DLC|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'TPS62823DLC'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TPS62821DLC'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>Texas_VSON-HR-8_1.5x2mm_P0.5mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/tps62823.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'step-down dc-dc buck regulator'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '1A Step-Down Converter with DCS-Control</td><td> adjustable output</td><td> 2.4-5.5V input voltage</td><td> QFN-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Texas*VSON*HR*1.5x2mm*P0.5mm*'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUMOARDNANOV2X > Arduino_Nano_v2.x
+# SZKMCUMOARDNANOV2X > MCU_Module : Arduino_Nano_v2.x
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Module-Arduino_Nano_v2.x
 - Hex ID: SZKMCUMOARDNANOV2X
-- Name: Arduino_Nano_v2.x
-- Description: Arduino_Nano_v2.x
+- Name: MCU_Module : Arduino_Nano_v2.x
+- Description: MCU_Module : Arduino_Nano_v2.x
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Module-Arduino_Nano_v2.x](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Module-Arduino_Nano_v2.x)
 - Short Link: [http://oom.lt/SZKMCUMOARDNANOV2X](http://oom.lt/SZKMCUMOARDNANOV2X)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Arduino_Nano_v2.x|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Module-Arduino_Nano_v2.x|
 |Hex ID (short code)|hexID|SZKMCUMOARDNANOV2X|
-|name|name|Arduino_Nano_v2.x|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'A', 'kicadSymbolValue': 'Arduino_Nano_v2.x', 'kicadSymbolFootprint': 'Module:Arduino_Nano', 'kicadSymbolDatasheet': 'https://www.arduino.cc/en/uploads/Main/ArduinoNanoManual23.pdf', 'kicadSymbolki_keywords': 'Arduino nano microcontroller module USB', 'kicadSymbolki_description': 'Arduino Nano v2.x', 'kicadSymbolki_fp_filters': 'Arduino*Nano*'}]|
+|name|name|MCU_Module : Arduino_Nano_v2.x|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'A'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Arduino_Nano_v2.x'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Module</td></tr><tr><td>Arduino_Nano'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.arduino.cc/en/uploads/Main/ArduinoNanoManual23.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Arduino nano microcontroller module USB'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Arduino Nano v2.x'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Arduino*Nano*'</td></tr></table>]|
 ||||

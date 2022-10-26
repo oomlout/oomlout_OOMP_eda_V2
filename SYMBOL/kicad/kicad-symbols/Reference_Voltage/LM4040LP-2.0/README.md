@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREFERENCEVOLTAGELM44LP2 > LM4040LP-2.0
+# SZKREFERENCEVOLTAGELM44LP2 > Reference_Voltage : LM4040LP-2.0
 
 - ID: SYMBOL-kicad-kicad-symbols-Reference_Voltage-LM4040LP-2.0
 - Hex ID: SZKREFERENCEVOLTAGELM44LP2
-- Name: LM4040LP-2.0
-- Description: LM4040LP-2.0
+- Name: Reference_Voltage : LM4040LP-2.0
+- Description: Reference_Voltage : LM4040LP-2.0
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-LM4040LP-2.0](http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-LM4040LP-2.0)
 - Short Link: [http://oom.lt/SZKREFERENCEVOLTAGELM44LP2](http://oom.lt/SZKREFERENCEVOLTAGELM44LP2)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM4040LP-2.0|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Reference_Voltage-LM4040LP-2.0|
 |Hex ID (short code)|hexID|SZKREFERENCEVOLTAGELM44LP2|
-|name|name|LM4040LP-2.0|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM4040LP-2.0', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-92_Inline', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lm4040-n.pdf', 'kicadSymbolki_keywords': 'diode device voltage reference shunt', 'kicadSymbolki_description': '2.048V Precision Micropower Shunt Voltage Reference, TO-92', 'kicadSymbolki_fp_filters': 'TO?92*Inline*'}]|
+|name|name|Reference_Voltage : LM4040LP-2.0|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LM4040LP-2.0'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_THT</td></tr><tr><td>TO-92_Inline'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/lm4040-n.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'diode device voltage reference shunt'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '2.048V Precision Micropower Shunt Voltage Reference</td><td> TO-92'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TO?92*Inline*'</td></tr></table>]|
 ||||

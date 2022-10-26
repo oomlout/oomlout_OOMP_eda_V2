@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKPOWERMANAGEMENTBTS741EPP > BTS7004-1EPP
+# SZKPOWERMANAGEMENTBTS741EPP > Power_Management : BTS7004-1EPP
 
 - ID: SYMBOL-kicad-kicad-symbols-Power_Management-BTS7004-1EPP
 - Hex ID: SZKPOWERMANAGEMENTBTS741EPP
-- Name: BTS7004-1EPP
-- Description: BTS7004-1EPP
+- Name: Power_Management : BTS7004-1EPP
+- Description: Power_Management : BTS7004-1EPP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-BTS7004-1EPP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-BTS7004-1EPP)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTBTS741EPP](http://oom.lt/SZKPOWERMANAGEMENTBTS741EPP)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BTS7004-1EPP|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Management-BTS7004-1EPP|
 |Hex ID (short code)|hexID|SZKPOWERMANAGEMENTBTS741EPP|
-|name|name|BTS7004-1EPP|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'BTS7004-1EPP', 'kicadSymbolFootprint': 'Package_SO:Infineon_PG-TSDSO-14-22', 'kicadSymbolDatasheet': 'https://www.infineon.com/dgdl/Infineon-BTS7004-1EPP-DS-v01_00-EN.pdf?fileId=5546d4626102d35a016147550a725555', 'kicadSymbolki_keywords': 'BTS7004', 'kicadSymbolki_description': 'Smart High-Side Power Switch, PROFET, One Channel, 12V, 15A, Rds(on) 4.4mΩ, PG-TSDSO-14-22', 'kicadSymbolki_fp_filters': 'Infineon*TSDSO*22*'}]|
+|name|name|Power_Management : BTS7004-1EPP|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'BTS7004-1EPP'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>Infineon_PG-TSDSO-14-22'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.infineon.com/dgdl/Infineon-BTS7004-1EPP-DS-v01_00-EN.pdf?fileId=5546d4626102d35a016147550a725555'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'BTS7004'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Smart High-Side Power Switch</td><td> PROFET</td><td> One Channel</td><td> 12V</td><td> 15A</td><td> Rds(on) 4.4mΩ</td><td> PG-TSDSO-14-22'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Infineon*TSDSO*22*'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUSTSTM32F7STM32F746VGHX > STM32F746VGHx
+# SZKMCUSTSTM32F7STM32F746VGHX > MCU_ST_STM32F7 : STM32F746VGHx
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F7-STM32F746VGHx
 - Hex ID: SZKMCUSTSTM32F7STM32F746VGHX
-- Name: STM32F746VGHx
-- Description: STM32F746VGHx
+- Name: MCU_ST_STM32F7 : STM32F746VGHx
+- Description: MCU_ST_STM32F7 : STM32F746VGHx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F7-STM32F746VGHx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F7-STM32F746VGHx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32F7STM32F746VGHX](http://oom.lt/SZKMCUSTSTM32F7STM32F746VGHX)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|STM32F746VGHx|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F7-STM32F746VGHx|
 |Hex ID (short code)|hexID|SZKMCUSTSTM32F7STM32F746VGHX|
-|name|name|STM32F746VGHx|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'STM32F746VEHx', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'STM32F746VGHx', 'kicadSymbolFootprint': 'Package_BGA:TFBGA-100_8x8mm_Layout10x10_P0.8mm', 'kicadSymbolDatasheet': 'http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00166116.pdf', 'kicadSymbolki_keywords': 'ARM Cortex-M7 STM32F7 STM32F7x6', 'kicadSymbolki_description': 'ARM Cortex-M7 MCU, 1024KB flash, 320KB RAM, 216MHz, 1.7-3.6V, 82 GPIO, TFBGA-100', 'kicadSymbolki_fp_filters': 'TFBGA*8x8mm*Layout10x10*P0.8mm*'}]|
+|name|name|MCU_ST_STM32F7 : STM32F746VGHx|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'STM32F746VEHx'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'STM32F746VGHx'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_BGA</td></tr><tr><td>TFBGA-100_8x8mm_Layout10x10_P0.8mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00166116.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'ARM Cortex-M7 STM32F7 STM32F7x6'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'ARM Cortex-M7 MCU</td><td> 1024KB flash</td><td> 320KB RAM</td><td> 216MHz</td><td> 1.7-3.6V</td><td> 82 GPIO</td><td> TFBGA-100'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TFBGA*8x8mm*Layout10x10*P0.8mm*'</td></tr></table>]|
 ||||

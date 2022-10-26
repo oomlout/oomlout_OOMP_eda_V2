@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_6.35mm_Neutrik_NRJ6HF-AU_Horizontal|
 |Hex ID (short code)|hexID|FZKCNAUDIOJ635NEUTRIKNRJ6HFAUHORIZONTAL|
 |name|name|Connector_Audio : Jack_6.35mm_Neutrik_NRJ6HF-AU_Horizontal|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Jack_6.35mm_Neutrik_NRJ6HF-AU_Horizontal', 'description': 'Slim Jacks, 6.35mm (1/4in) stereo jack, switched, gold plated contacts, fully threaded nose, https://www.neutrik.com/en/product/nrj6hf-au', 'tags': 'neutrik jack slim', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_Audio.3dshapes/Jack_6.35mm_Neutrik_NRJ6HF-AU_Horizontal.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Jack_6.35mm_Neutrik_NRJ6HF-AU_Horizontal'</td><td> 'description'</td></tr><tr><td> 'Slim Jacks</td><td> 6.35mm (1/4in) stereo jack</td><td> switched</td><td> gold plated contacts</td><td> fully threaded nose</td><td> https</td></tr><tr><td>//www.neutrik.com/en/product/nrj6hf-au'</td><td> 'tags'</td></tr><tr><td> 'neutrik jack slim'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_Audio.3dshapes/Jack_6.35mm_Neutrik_NRJ6HF-AU_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

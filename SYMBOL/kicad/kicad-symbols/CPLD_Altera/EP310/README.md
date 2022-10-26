@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKCPLDALTERAEP31 > EP310
+# SZKCPLDALTERAEP31 > CPLD_Altera : EP310
 
 - ID: SYMBOL-kicad-kicad-symbols-CPLD_Altera-EP310
 - Hex ID: SZKCPLDALTERAEP31
-- Name: EP310
-- Description: EP310
+- Name: CPLD_Altera : EP310
+- Description: CPLD_Altera : EP310
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-CPLD_Altera-EP310](http://oom.lt/SYMBOL-kicad-kicad-symbols-CPLD_Altera-EP310)
 - Short Link: [http://oom.lt/SZKCPLDALTERAEP31](http://oom.lt/SZKCPLDALTERAEP31)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|EP310|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-CPLD_Altera-EP310|
 |Hex ID (short code)|hexID|SZKCPLDALTERAEP31|
-|name|name|EP310|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'EP300', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'EP310', 'kicadSymbolFootprint': 'Package_DIP:DIP-20_W7.62mm', 'kicadSymbolDatasheet': 'https://www.usbid.com/assets/datasheets/A6/ep310%20-%20epld%20-%20altera.pdf', 'kicadSymbolki_keywords': 'EPLD', 'kicadSymbolki_description': 'EPLD, 8 Macrocell, DIP-20', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
+|name|name|CPLD_Altera : EP310|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'EP300'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'EP310'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>DIP-20_W7.62mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.usbid.com/assets/datasheets/A6/ep310%20-%20epld%20-%20altera.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'EPLD'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'EPLD</td><td> 8 Macrocell</td><td> DIP-20'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W7.62mm*'</td></tr></table>]|
 ||||

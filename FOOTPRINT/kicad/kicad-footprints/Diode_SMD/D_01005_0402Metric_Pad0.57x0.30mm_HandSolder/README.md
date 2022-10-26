@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_01005_0402Metric_Pad0.57x0.30mm_HandSolder|
 |Hex ID (short code)|hexID|FZKDIODESMD1542METRICPAD57X3HANDSOLDER|
 |name|name|Diode_SMD : D_01005_0402Metric_Pad0.57x0.30mm_HandSolder|
-|Footprint Kicad|footprintKicadDetails|{'name': 'D_01005_0402Metric_Pad0.57x0.30mm_HandSolder', 'description': 'Diode SMD 01005 (0402 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.vishay.com/docs/20056/crcw01005e3.pdf), generated with kicad-footprint-generator', 'tags': 'diode handsolder', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_01005_0402Metric.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'D_01005_0402Metric_Pad0.57x0.30mm_HandSolder'</td><td> 'description'</td></tr><tr><td> 'Diode SMD 01005 (0402 Metric)</td><td> square (rectangular) end terminal</td><td> IPC_7351 nominal</td><td> (Body size source</td></tr><tr><td> http</td></tr><tr><td>//www.vishay.com/docs/20056/crcw01005e3.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'diode handsolder'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Diode_SMD.3dshapes/D_01005_0402Metric.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

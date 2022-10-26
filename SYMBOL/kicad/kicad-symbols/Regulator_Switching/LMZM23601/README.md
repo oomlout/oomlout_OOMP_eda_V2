@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORSWITCHINGLMZM2361 > LMZM23601
+# SZKREGULATORSWITCHINGLMZM2361 > Regulator_Switching : LMZM23601
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-LMZM23601
 - Hex ID: SZKREGULATORSWITCHINGLMZM2361
-- Name: LMZM23601
-- Description: LMZM23601
+- Name: Regulator_Switching : LMZM23601
+- Description: Regulator_Switching : LMZM23601
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LMZM23601](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LMZM23601)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGLMZM2361](http://oom.lt/SZKREGULATORSWITCHINGLMZM2361)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LMZM23601|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-LMZM23601|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGLMZM2361|
-|name|name|LMZM23601|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LMZM23601', 'kicadSymbolFootprint': 'Package_LGA:Texas_SIL0010A_MicroSiP-10-1EP_3.8x3mm_P0.6mm_EP0.7x2.9mm_ThermalVias', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lmzm23601.pdf', 'kicadSymbolki_keywords': 'Step-Down DC/DC Module', 'kicadSymbolki_description': '1A Adjustable Step-Down DC/DC Power Module in 3.8x3mm, MicroSIP-10', 'kicadSymbolki_fp_filters': 'Texas*SIL*1EP*3.8x3mm*P0.6mm*'}]|
+|name|name|Regulator_Switching : LMZM23601|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LMZM23601'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_LGA</td></tr><tr><td>Texas_SIL0010A_MicroSiP-10-1EP_3.8x3mm_P0.6mm_EP0.7x2.9mm_ThermalVias'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/lmzm23601.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Step-Down DC/DC Module'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '1A Adjustable Step-Down DC/DC Power Module in 3.8x3mm</td><td> MicroSIP-10'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Texas*SIL*1EP*3.8x3mm*P0.6mm*'</td></tr></table>]|
 ||||

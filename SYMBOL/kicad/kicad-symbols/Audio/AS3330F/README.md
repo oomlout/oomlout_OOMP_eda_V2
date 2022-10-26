@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKAUDIOAS333F > AS3330F
+# SZKAUDIOAS333F > Audio : AS3330F
 
 - ID: SYMBOL-kicad-kicad-symbols-Audio-AS3330F
 - Hex ID: SZKAUDIOAS333F
-- Name: AS3330F
-- Description: AS3330F
+- Name: Audio : AS3330F
+- Description: Audio : AS3330F
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-AS3330F](http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-AS3330F)
 - Short Link: [http://oom.lt/SZKAUDIOAS333F](http://oom.lt/SZKAUDIOAS333F)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AS3330F|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Audio-AS3330F|
 |Hex ID (short code)|hexID|SZKAUDIOAS333F|
-|name|name|AS3330F|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AS3330F', 'kicadSymbolFootprint': 'Package_DFN_QFN:QFN-24-1EP_4x4mm_P0.5mm_EP2.7x2.7mm', 'kicadSymbolDatasheet': 'http://www.alfarzpp.lv/eng/sc/AS3330.pdf', 'kicadSymbolki_keywords': 'VCA CEM3330 ALFA', 'kicadSymbolki_description': 'Dual Voltage Controlled Amplifier (VCA), QFN-24', 'kicadSymbolki_fp_filters': 'QFN*1EP*4x4mm*P0.5mm*'}]|
+|name|name|Audio : AS3330F|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'AS3330F'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>QFN-24-1EP_4x4mm_P0.5mm_EP2.7x2.7mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.alfarzpp.lv/eng/sc/AS3330.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'VCA CEM3330 ALFA'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Dual Voltage Controlled Amplifier (VCA)</td><td> QFN-24'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'QFN*1EP*4x4mm*P0.5mm*'</td></tr></table>]|
 ||||

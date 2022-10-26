@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_BGA-Xilinx_FTGB196|
 |Hex ID (short code)|hexID|FZKBGAXILINXFTGB196|
 |name|name|Package_BGA : Xilinx_FTGB196|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Xilinx_FTGB196', 'description': 'Spartan-7 BGA, 14x14 grid, 15x15mm package, 1mm pitch; https://www.xilinx.com/support/documentation/user_guides/ug475_7Series_Pkg_Pinout.pdf#page=261, NSMD pad definition Appendix A', 'tags': 'BGA 196 1 FTGB196', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/Xilinx_FTGB196.wrl', 'pins': {'type': 'smd', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Xilinx_FTGB196'</td><td> 'description'</td></tr><tr><td> 'Spartan-7 BGA</td><td> 14x14 grid</td><td> 15x15mm package</td><td> 1mm pitch; https</td></tr><tr><td>//www.xilinx.com/support/documentation/user_guides/ug475_7Series_Pkg_Pinout.pdf#page=261</td><td> NSMD pad definition Appendix A'</td><td> 'tags'</td></tr><tr><td> 'BGA 196 1 FTGB196'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_BGA.3dshapes/Xilinx_FTGB196.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

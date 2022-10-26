@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDIODEBAT54CW > BAT54CW
+# SZKDIODEBAT54CW > Diode : BAT54CW
 
 - ID: SYMBOL-kicad-kicad-symbols-Diode-BAT54CW
 - Hex ID: SZKDIODEBAT54CW
-- Name: BAT54CW
-- Description: BAT54CW
+- Name: Diode : BAT54CW
+- Description: Diode : BAT54CW
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BAT54CW](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BAT54CW)
 - Short Link: [http://oom.lt/SZKDIODEBAT54CW](http://oom.lt/SZKDIODEBAT54CW)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BAT54CW|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-BAT54CW|
 |Hex ID (short code)|hexID|SZKDIODEBAT54CW|
-|name|name|BAT54CW|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'BAT54CW', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-323_SC-70', 'kicadSymbolDatasheet': 'https://assets.nexperia.com/documents/data-sheet/BAT54W_SER.pdf', 'kicadSymbolki_keywords': 'dual schottky diode', 'kicadSymbolki_description': 'Dual schottky barrier diode, common cathode, SOT-323', 'kicadSymbolki_fp_filters': 'SOT?323*'}]|
+|name|name|Diode : BAT54CW|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'BAT54CW'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-323_SC-70'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//assets.nexperia.com/documents/data-sheet/BAT54W_SER.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'dual schottky diode'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Dual schottky barrier diode</td><td> common cathode</td><td> SOT-323'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?323*'</td></tr></table>]|
 ||||

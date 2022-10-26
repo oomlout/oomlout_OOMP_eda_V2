@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKAMPLIFIEROPERATIONALADA4611XRJ > ADA4610-1xRJ
+# SZKAMPLIFIEROPERATIONALADA4611XRJ > Amplifier_Operational : ADA4610-1xRJ
 
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-ADA4610-1xRJ
 - Hex ID: SZKAMPLIFIEROPERATIONALADA4611XRJ
-- Name: ADA4610-1xRJ
-- Description: ADA4610-1xRJ
+- Name: Amplifier_Operational : ADA4610-1xRJ
+- Description: Amplifier_Operational : ADA4610-1xRJ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-ADA4610-1xRJ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-ADA4610-1xRJ)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALADA4611XRJ](http://oom.lt/SZKAMPLIFIEROPERATIONALADA4611XRJ)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ADA4610-1xRJ|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Operational-ADA4610-1xRJ|
 |Hex ID (short code)|hexID|SZKAMPLIFIEROPERATIONALADA4611XRJ|
-|name|name|ADA4610-1xRJ|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MCP6L91T-EOT', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ADA4610-1xRJ', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-5', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/ADA4610-1_4610-2_4610-4.pdf', 'kicadSymbolki_keywords': 'single opamp', 'kicadSymbolki_description': 'Low Noise, Precision, Rail-to-Rail Output, JFET Single Op Amp, SOT-23-5', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
+|name|name|Amplifier_Operational : ADA4610-1xRJ|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'MCP6L91T-EOT'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ADA4610-1xRJ'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-23-5'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/ADA4610-1_4610-2_4610-4.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'single opamp'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Low Noise</td><td> Precision</td><td> Rail-to-Rail Output</td><td> JFET Single Op Amp</td><td> SOT-23-5'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23*'</td></tr></table>]|
 ||||

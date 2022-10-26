@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPMOSMOCONNBRBOIBBCSZ1 > MODULE-CONN-BRBO-IBBC-SZ01
+# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPMOSMOCONNBRBOIBBCSZ1 > oomlout_OOMP_modules : MODULE-CONN-BRBO-IBBC-SZ01
 
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_modules-MODULE-CONN-BRBO-IBBC-SZ01
 - Hex ID: SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPMOSMOCONNBRBOIBBCSZ1
-- Name: MODULE-CONN-BRBO-IBBC-SZ01
-- Description: MODULE-CONN-BRBO-IBBC-SZ01
+- Name: oomlout_OOMP_modules : MODULE-CONN-BRBO-IBBC-SZ01
+- Description: oomlout_OOMP_modules : MODULE-CONN-BRBO-IBBC-SZ01
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_modules-MODULE-CONN-BRBO-IBBC-SZ01](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_modules-MODULE-CONN-BRBO-IBBC-SZ01)
 - Short Link: [http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPMOSMOCONNBRBOIBBCSZ1](http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPMOSMOCONNBRBOIBBCSZ1)
   
@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|MODULE-CONN-BRBO-IBBC-SZ01|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_modules-MODULE-CONN-BRBO-IBBC-SZ01|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPMOSMOCONNBRBOIBBCSZ1|
-|name|name|MODULE-CONN-BRBO-IBBC-SZ01|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MODULE-CONN-BRBO-IBBC-SZ01', 'kicadSymbolFootprint': 'oomlout_OOMP_modules:MODULE-CONN-BRBO-IBBC-SZ01', 'kicadSymbolDatasheet': 'oom.lt/MCBI1'}]|
+|name|name|oomlout_OOMP_modules : MODULE-CONN-BRBO-IBBC-SZ01|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MODULE-CONN-BRBO-IBBC-SZ01'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'oomlout_OOMP_modules</td></tr><tr><td>MODULE-CONN-BRBO-IBBC-SZ01'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'oom.lt/MCBI1'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMEMORYEEPROMAT24CS8SSHM > AT24CS08-SSHM
+# SZKMEMORYEEPROMAT24CS8SSHM > Memory_EEPROM : AT24CS08-SSHM
 
 - ID: SYMBOL-kicad-kicad-symbols-Memory_EEPROM-AT24CS08-SSHM
 - Hex ID: SZKMEMORYEEPROMAT24CS8SSHM
-- Name: AT24CS08-SSHM
-- Description: AT24CS08-SSHM
+- Name: Memory_EEPROM : AT24CS08-SSHM
+- Description: Memory_EEPROM : AT24CS08-SSHM
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_EEPROM-AT24CS08-SSHM](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_EEPROM-AT24CS08-SSHM)
 - Short Link: [http://oom.lt/SZKMEMORYEEPROMAT24CS8SSHM](http://oom.lt/SZKMEMORYEEPROMAT24CS8SSHM)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AT24CS08-SSHM|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Memory_EEPROM-AT24CS08-SSHM|
 |Hex ID (short code)|hexID|SZKMEMORYEEPROMAT24CS8SSHM|
-|name|name|AT24CS08-SSHM|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AT24CS08-SSHM', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-8766-SEEPROM-AT24CS04-08-Datasheet.pdf', 'kicadSymbolki_keywords': 'I2C Serial EEPROM Nonvolatile Memory', 'kicadSymbolki_description': 'I2C Serial EEPROM, 8Kb (1024x8) with Unique Serial Number, SO8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm*'}]|
+|name|name|Memory_EEPROM : AT24CS08-SSHM|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'AT24CS08-SSHM'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-8_3.9x4.9mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/Atmel-8766-SEEPROM-AT24CS04-08-Datasheet.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'I2C Serial EEPROM Nonvolatile Memory'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'I2C Serial EEPROM</td><td> 8Kb (1024x8) with Unique Serial Number</td><td> SO8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*3.9x4.9mm*P1.27mm*'</td></tr></table>]|
 ||||

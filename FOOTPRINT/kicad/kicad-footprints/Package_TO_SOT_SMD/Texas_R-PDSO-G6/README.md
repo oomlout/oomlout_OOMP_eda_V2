@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-Texas_R-PDSO-G6|
 |Hex ID (short code)|hexID|FZKPACKAGETOSOTSMTEXASRPDSOG6|
 |name|name|Package_TO_SOT_SMD : Texas_R-PDSO-G6|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Texas_R-PDSO-G6', 'description': 'R-PDSO-G6, http://www.ti.com/lit/ds/slis144b/slis144b.pdf', 'tags': 'R-PDSO-G6 SC-70-6', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-363_SC-70-6.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Texas_R-PDSO-G6'</td><td> 'description'</td></tr><tr><td> 'R-PDSO-G6</td><td> http</td></tr><tr><td>//www.ti.com/lit/ds/slis144b/slis144b.pdf'</td><td> 'tags'</td></tr><tr><td> 'R-PDSO-G6 SC-70-6'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_TO_SOT_SMD.3dshapes/SOT-363_SC-70-6.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

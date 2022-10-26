@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_LGA-NXP_LGA-8_3x5mm_P1.25mm_H1.2mm|
 |Hex ID (short code)|hexID|FZKLGANXPLGA83X5P125H12|
 |name|name|Package_LGA : NXP_LGA-8_3x5mm_P1.25mm_H1.2mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'NXP_LGA-8_3x5mm_P1.25mm_H1.2mm', 'description': 'NXP  LGA, 8 Pin (https://www.nxp.com/docs/en/data-sheet/MPL115A1.pdf#page=15), generated with kicad-footprint-generator ipc_noLead_generator.py', 'tags': 'NXP LGA NoLead', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_LGA.3dshapes/NXP_LGA-8_3x5mm_P1.25mm_H1.2mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'NXP_LGA-8_3x5mm_P1.25mm_H1.2mm'</td><td> 'description'</td></tr><tr><td> 'NXP  LGA</td><td> 8 Pin (https</td></tr><tr><td>//www.nxp.com/docs/en/data-sheet/MPL115A1.pdf#page=15)</td><td> generated with kicad-footprint-generator ipc_noLead_generator.py'</td><td> 'tags'</td></tr><tr><td> 'NXP LGA NoLead'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_LGA.3dshapes/NXP_LGA-8_3x5mm_P1.25mm_H1.2mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

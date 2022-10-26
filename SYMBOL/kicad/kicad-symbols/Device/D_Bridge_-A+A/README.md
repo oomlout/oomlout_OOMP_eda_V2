@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDEVICEDBRIDGEA+A > D_Bridge_-A+A
+# SZKDEVICEDBRIDGEA+A > Device : D_Bridge_-A+A
 
 - ID: SYMBOL-kicad-kicad-symbols-Device-D_Bridge_-A+A
 - Hex ID: SZKDEVICEDBRIDGEA+A
-- Name: D_Bridge_-A+A
-- Description: D_Bridge_-A+A
+- Name: Device : D_Bridge_-A+A
+- Description: Device : D_Bridge_-A+A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Bridge_-A+A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Bridge_-A+A)
 - Short Link: [http://oom.lt/SZKDEVICEDBRIDGEA+A](http://oom.lt/SZKDEVICEDBRIDGEA+A)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|D_Bridge_-A+A|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-D_Bridge_-A+A|
 |Hex ID (short code)|hexID|SZKDEVICEDBRIDGEA+A|
-|name|name|D_Bridge_-A+A|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'D_Bridge_-A+A', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'rectifier ACDC', 'kicadSymbolki_description': 'Diode bridge, -ve/AC/+ve/AC', 'kicadSymbolki_fp_filters': 'D*Bridge* D*Rectifier*'}]|
+|name|name|Device : D_Bridge_-A+A|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'D_Bridge_-A+A'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'rectifier ACDC'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Diode bridge</td><td> -ve/AC/+ve/AC'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'D*Bridge* D*Rectifier*'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKCNRJ1 > RJ10
+# SZKCNRJ1 > Connector : RJ10
 
 - ID: SYMBOL-kicad-kicad-symbols-Connector-RJ10
 - Hex ID: SZKCNRJ1
-- Name: RJ10
-- Description: RJ10
+- Name: Connector : RJ10
+- Description: Connector : RJ10
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-RJ10](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-RJ10)
 - Short Link: [http://oom.lt/SZKCNRJ1](http://oom.lt/SZKCNRJ1)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|RJ10|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-RJ10|
 |Hex ID (short code)|hexID|SZKCNRJ1|
-|name|name|RJ10|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '4P4C', 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'RJ10', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': '4P4C RJ female connector', 'kicadSymbolki_description': 'RJ connector, 4P4C (4 positions 4 connected)', 'kicadSymbolki_fp_filters': '4P4C* RJ9* RJ10* RJ22*'}]|
+|name|name|Connector : RJ10|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> '4P4C'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'J'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'RJ10'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> '4P4C RJ female connector'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'RJ connector</td><td> 4P4C (4 positions 4 connected)'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> '4P4C* RJ9* RJ10* RJ22*'</td></tr></table>]|
 ||||

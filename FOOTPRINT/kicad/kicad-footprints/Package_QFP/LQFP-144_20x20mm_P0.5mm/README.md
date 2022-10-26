@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_QFP-LQFP-144_20x20mm_P0.5mm|
 |Hex ID (short code)|hexID|FZKQFPLQFP1442X2P5|
 |name|name|Package_QFP : LQFP-144_20x20mm_P0.5mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'LQFP-144_20x20mm_P0.5mm', 'description': 'LQFP, 144 Pin (http://ww1.microchip.com/downloads/en/PackagingSpec/00000049BQ.pdf#page=425), generated with kicad-footprint-generator ipc_gullwing_generator.py', 'tags': 'LQFP QFP', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_QFP.3dshapes/LQFP-144_20x20mm_P0.5mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'LQFP-144_20x20mm_P0.5mm'</td><td> 'description'</td></tr><tr><td> 'LQFP</td><td> 144 Pin (http</td></tr><tr><td>//ww1.microchip.com/downloads/en/PackagingSpec/00000049BQ.pdf#page=425)</td><td> generated with kicad-footprint-generator ipc_gullwing_generator.py'</td><td> 'tags'</td></tr><tr><td> 'LQFP QFP'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_QFP.3dshapes/LQFP-144_20x20mm_P0.5mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

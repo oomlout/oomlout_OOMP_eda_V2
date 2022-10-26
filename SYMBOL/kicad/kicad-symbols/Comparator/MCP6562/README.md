@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKCOMPARATORMCP6562 > MCP6562
+# SZKCOMPARATORMCP6562 > Comparator : MCP6562
 
 - ID: SYMBOL-kicad-kicad-symbols-Comparator-MCP6562
 - Hex ID: SZKCOMPARATORMCP6562
-- Name: MCP6562
-- Description: MCP6562
+- Name: Comparator : MCP6562
+- Description: Comparator : MCP6562
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Comparator-MCP6562](http://oom.lt/SYMBOL-kicad-kicad-symbols-Comparator-MCP6562)
 - Short Link: [http://oom.lt/SZKCOMPARATORMCP6562](http://oom.lt/SZKCOMPARATORMCP6562)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MCP6562|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Comparator-MCP6562|
 |Hex ID (short code)|hexID|SZKCOMPARATORMCP6562|
-|name|name|MCP6562|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MCP6562', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/MCP6561-1R-1U-2-4-1.8V-Low-Power-Push-Pull-Output-Comparator-DS20002139E.pdf', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'cmp', 'kicadSymbolki_description': 'Dual 1.8V Low-Power Push-Pull Output Comparator, SOIC-8/MSOP-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm* MSOP*3x3mm*P0.65mm*'}]|
+|name|name|Comparator : MCP6562|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MCP6562'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/MCP6561-1R-1U-2-4-1.8V-Low-Power-Push-Pull-Output-Comparator-DS20002139E.pdf'</td><td> 'kicadSymbolki_locked'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'cmp'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Dual 1.8V Low-Power Push-Pull Output Comparator</td><td> SOIC-8/MSOP-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*3.9x4.9mm*P1.27mm* MSOP*3x3mm*P0.65mm*'</td></tr></table>]|
 ||||

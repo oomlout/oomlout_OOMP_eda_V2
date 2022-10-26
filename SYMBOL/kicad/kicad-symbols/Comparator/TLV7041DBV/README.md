@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKCOMPARATORTLV741DBV > TLV7041DBV
+# SZKCOMPARATORTLV741DBV > Comparator : TLV7041DBV
 
 - ID: SYMBOL-kicad-kicad-symbols-Comparator-TLV7041DBV
 - Hex ID: SZKCOMPARATORTLV741DBV
-- Name: TLV7041DBV
-- Description: TLV7041DBV
+- Name: Comparator : TLV7041DBV
+- Description: Comparator : TLV7041DBV
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Comparator-TLV7041DBV](http://oom.lt/SYMBOL-kicad-kicad-symbols-Comparator-TLV7041DBV)
 - Short Link: [http://oom.lt/SZKCOMPARATORTLV741DBV](http://oom.lt/SZKCOMPARATORTLV741DBV)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TLV7041DBV|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Comparator-TLV7041DBV|
 |Hex ID (short code)|hexID|SZKCOMPARATORTLV741DBV|
-|name|name|TLV7041DBV|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MCP6566', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TLV7041DBV', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.ti.com/lit/ds/symlink/tlv7041.pdf', 'kicadSymbolki_keywords': 'cmp collector', 'kicadSymbolki_description': 'Single, 1.6V-6.5V, 315nA Quiescent, Open-Drain Output, Comparator, SOT-23-5/SC-70', 'kicadSymbolki_fp_filters': 'SOT?23* *SC*70*'}]|
+|name|name|Comparator : TLV7041DBV|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'MCP6566'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TLV7041DBV'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.ti.com/lit/ds/symlink/tlv7041.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'cmp collector'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Single</td><td> 1.6V-6.5V</td><td> 315nA Quiescent</td><td> Open-Drain Output</td><td> Comparator</td><td> SOT-23-5/SC-70'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23* *SC*70*'</td></tr></table>]|
 ||||

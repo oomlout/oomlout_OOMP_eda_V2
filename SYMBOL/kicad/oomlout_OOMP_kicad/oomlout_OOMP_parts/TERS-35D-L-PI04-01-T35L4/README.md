@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSTERS35DLPI41T35L4 > TERS-35D-L-PI04-01-T35L4
+# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSTERS35DLPI41T35L4 > oomlout_OOMP_parts : TERS-35D-L-PI04-01-T35L4
 
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-TERS-35D-L-PI04-01-T35L4
 - Hex ID: SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSTERS35DLPI41T35L4
-- Name: TERS-35D-L-PI04-01-T35L4
-- Description: TERS-35D-L-PI04-01-T35L4
+- Name: oomlout_OOMP_parts : TERS-35D-L-PI04-01-T35L4
+- Description: oomlout_OOMP_parts : TERS-35D-L-PI04-01-T35L4
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-TERS-35D-L-PI04-01-T35L4](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-TERS-35D-L-PI04-01-T35L4)
 - Short Link: [http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSTERS35DLPI41T35L4](http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSTERS35DLPI41T35L4)
   
@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|TERS-35D-L-PI04-01-T35L4|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-TERS-35D-L-PI04-01-T35L4|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSTERS35DLPI41T35L4|
-|name|name|TERS-35D-L-PI04-01-T35L4|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'TERS-35D-L-PI04-01-T35L4', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:TERS-35D-L-PI04-01-T35L4', 'kicadSymbolDatasheet': 'oom.lt/T35L4', 'kicadSymbolki_keywords': 'screw terminal', 'kicadSymbolki_description': 'hexID: T35L4;Generic screw terminal, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)', 'kicadSymbolki_fp_filters': 'TerminalBlock*:*'}]|
+|name|name|oomlout_OOMP_parts : TERS-35D-L-PI04-01-T35L4|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'J'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TERS-35D-L-PI04-01-T35L4'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'oomlout_OOMP_parts</td></tr><tr><td>TERS-35D-L-PI04-01-T35L4'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'oom.lt/T35L4'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'screw terminal'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'hexID</td></tr><tr><td> T35L4;Generic screw terminal</td><td> single row</td><td> 01x04</td><td> script generated (kicad-library-utils/schlib/autogen/connector/)'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TerminalBlock*</td></tr><tr><td>*'</td></tr></table>]|
 ||||

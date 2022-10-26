@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_PCBEdge-Samtec_MECF-30-01-NP-L-DV_2x30_P1.27mm_Socket_Horizontal|
 |Hex ID (short code)|hexID|FZKCNPCBEDGESAMTECMECF31NPLDV2X3P127SOHORIZONTAL|
 |name|name|Connector_PCBEdge : Samtec_MECF-30-01-NP-L-DV_2x30_P1.27mm_Socket_Horizontal|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Samtec_MECF-30-01-NP-L-DV_2x30_P1.27mm_Socket_Horizontal', 'description': 'Highspeed card edge connector for 1.6mm PCBs with 30 contacts (not polarized)', 'tags': 'conn samtec card-edge high-speed', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_PCBEdge.3dshapes/Samtec_MECF-30-01-NP-L-DV_2x30_P1.27mm_Socket_Horizontal.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Samtec_MECF-30-01-NP-L-DV_2x30_P1.27mm_Socket_Horizontal'</td><td> 'description'</td></tr><tr><td> 'Highspeed card edge connector for 1.6mm PCBs with 30 contacts (not polarized)'</td><td> 'tags'</td></tr><tr><td> 'conn samtec card-edge high-speed'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_PCBEdge.3dshapes/Samtec_MECF-30-01-NP-L-DV_2x30_P1.27mm_Socket_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

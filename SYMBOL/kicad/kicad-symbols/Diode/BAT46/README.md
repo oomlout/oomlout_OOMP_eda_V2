@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDIODEBAT46 > BAT46
+# SZKDIODEBAT46 > Diode : BAT46
 
 - ID: SYMBOL-kicad-kicad-symbols-Diode-BAT46
 - Hex ID: SZKDIODEBAT46
-- Name: BAT46
-- Description: BAT46
+- Name: Diode : BAT46
+- Description: Diode : BAT46
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BAT46](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BAT46)
 - Short Link: [http://oom.lt/SZKDIODEBAT46](http://oom.lt/SZKDIODEBAT46)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BAT46|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-BAT46|
 |Hex ID (short code)|hexID|SZKDIODEBAT46|
-|name|name|BAT46|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '1N6263', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'BAT46', 'kicadSymbolFootprint': 'Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal', 'kicadSymbolDatasheet': 'http://www.vishay.com/docs/85662/bat46.pdf', 'kicadSymbolki_keywords': 'diode Schottky', 'kicadSymbolki_description': '100V 0.15A Small Signal Schottky Diode, DO-35', 'kicadSymbolki_fp_filters': 'D*DO?35*'}]|
+|name|name|Diode : BAT46|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> '1N6263'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'BAT46'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Diode_THT</td></tr><tr><td>D_DO-35_SOD27_P7.62mm_Horizontal'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.vishay.com/docs/85662/bat46.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'diode Schottky'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '100V 0.15A Small Signal Schottky Diode</td><td> DO-35'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'D*DO?35*'</td></tr></table>]|
 ||||

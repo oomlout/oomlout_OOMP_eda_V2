@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_PUD_B14B-PUDSS_2x07_P2.00mm_Vertical|
 |Hex ID (short code)|hexID|FZKCNJSTJSTPUDB14BPUDSS2X7P2VERTICAL|
 |name|name|Connector_JST : JST_PUD_B14B-PUDSS_2x07_P2.00mm_Vertical|
-|Footprint Kicad|footprintKicadDetails|{'name': 'JST_PUD_B14B-PUDSS_2x07_P2.00mm_Vertical', 'description': 'JST PUD series connector, B14B-PUDSS (http://www.jst-mfg.com/product/pdf/eng/ePUD.pdf), generated with kicad-footprint-generator', 'tags': 'connector JST PUD side entry', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_JST.3dshapes/JST_PUD_B14B-PUDSS_2x07_P2.00mm_Vertical.wrl', 'pins': {'type': 'thru_hole', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'JST_PUD_B14B-PUDSS_2x07_P2.00mm_Vertical'</td><td> 'description'</td></tr><tr><td> 'JST PUD series connector</td><td> B14B-PUDSS (http</td></tr><tr><td>//www.jst-mfg.com/product/pdf/eng/ePUD.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'connector JST PUD side entry'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_JST.3dshapes/JST_PUD_B14B-PUDSS_2x07_P2.00mm_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

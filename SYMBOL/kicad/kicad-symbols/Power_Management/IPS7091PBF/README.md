@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKPOWERMANAGEMENTIPS791PBF > IPS7091PBF
+# SZKPOWERMANAGEMENTIPS791PBF > Power_Management : IPS7091PBF
 
 - ID: SYMBOL-kicad-kicad-symbols-Power_Management-IPS7091PBF
 - Hex ID: SZKPOWERMANAGEMENTIPS791PBF
-- Name: IPS7091PBF
-- Description: IPS7091PBF
+- Name: Power_Management : IPS7091PBF
+- Description: Power_Management : IPS7091PBF
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-IPS7091PBF](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-IPS7091PBF)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTIPS791PBF](http://oom.lt/SZKPOWERMANAGEMENTIPS791PBF)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IPS7091PBF|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Management-IPS7091PBF|
 |Hex ID (short code)|hexID|SZKPOWERMANAGEMENTIPS791PBF|
-|name|name|IPS7091PBF|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'IPS7091PBF', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-220-5_Vertical', 'kicadSymbolDatasheet': 'http://www.irf.com/product-info/datasheets/data/ips7091.pdf', 'kicadSymbolki_keywords': 'Intelligent Power Switch High Side MOSFET', 'kicadSymbolki_description': '70V, 5A, Intelligent Power Switch High Side, TO-220-5', 'kicadSymbolki_fp_filters': 'TO?220*'}]|
+|name|name|Power_Management : IPS7091PBF|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'IPS7091PBF'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_THT</td></tr><tr><td>TO-220-5_Vertical'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.irf.com/product-info/datasheets/data/ips7091.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Intelligent Power Switch High Side MOSFET'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '70V</td><td> 5A</td><td> Intelligent Power Switch High Side</td><td> TO-220-5'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TO?220*'</td></tr></table>]|
 ||||

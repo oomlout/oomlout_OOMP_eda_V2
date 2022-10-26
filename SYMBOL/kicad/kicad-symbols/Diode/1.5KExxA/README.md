@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDIODE15KEXXA > 1.5KExxA
+# SZKDIODE15KEXXA > Diode : 1.5KExxA
 
 - ID: SYMBOL-kicad-kicad-symbols-Diode-1.5KExxA
 - Hex ID: SZKDIODE15KEXXA
-- Name: 1.5KExxA
-- Description: 1.5KExxA
+- Name: Diode : 1.5KExxA
+- Description: Diode : 1.5KExxA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-1.5KExxA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-1.5KExxA)
 - Short Link: [http://oom.lt/SZKDIODE15KEXXA](http://oom.lt/SZKDIODE15KEXXA)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|1.5KExxA|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-1.5KExxA|
 |Hex ID (short code)|hexID|SZKDIODE15KEXXA|
-|name|name|1.5KExxA|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': '1.5KExxA', 'kicadSymbolFootprint': 'Diode_THT:D_DO-201AE_P15.24mm_Horizontal', 'kicadSymbolDatasheet': 'https://www.vishay.com/docs/88301/15ke.pdf', 'kicadSymbolki_keywords': 'diode TVS voltage suppressor', 'kicadSymbolki_description': '1500W unidirectional TRANSZORB® Transient Voltage Suppressor, DO-201AE', 'kicadSymbolki_fp_filters': 'D?DO?201AE*'}]|
+|name|name|Diode : 1.5KExxA|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> '1.5KExxA'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Diode_THT</td></tr><tr><td>D_DO-201AE_P15.24mm_Horizontal'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.vishay.com/docs/88301/15ke.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'diode TVS voltage suppressor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '1500W unidirectional TRANSZORB® Transient Voltage Suppressor</td><td> DO-201AE'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'D?DO?201AE*'</td></tr></table>]|
 ||||

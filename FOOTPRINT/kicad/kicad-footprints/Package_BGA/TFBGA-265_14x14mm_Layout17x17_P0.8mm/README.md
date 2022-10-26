@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_BGA-TFBGA-265_14x14mm_Layout17x17_P0.8mm|
 |Hex ID (short code)|hexID|FZKBGATFBGA26514X14LAYOUT17X17P8|
 |name|name|Package_BGA : TFBGA-265_14x14mm_Layout17x17_P0.8mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'TFBGA-265_14x14mm_Layout17x17_P0.8mm', 'description': 'TFBGA-265, 17x17 raster, 14x14mm package, pitch 0.8mm; see section 7.8 of http://www.st.com/resource/en/datasheet/DM00387108.pdf', 'tags': 'BGA 265 0.8', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/TFBGA-265_14x14mm_Layout17x17_P0.8mm.wrl', 'pins': {'type': 'smd', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'TFBGA-265_14x14mm_Layout17x17_P0.8mm'</td><td> 'description'</td></tr><tr><td> 'TFBGA-265</td><td> 17x17 raster</td><td> 14x14mm package</td><td> pitch 0.8mm; see section 7.8 of http</td></tr><tr><td>//www.st.com/resource/en/datasheet/DM00387108.pdf'</td><td> 'tags'</td></tr><tr><td> 'BGA 265 0.8'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_BGA.3dshapes/TFBGA-265_14x14mm_Layout17x17_P0.8mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

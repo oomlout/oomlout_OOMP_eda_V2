@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Neosid_SM-NE127|
 |Hex ID (short code)|hexID|FZKINDUCTORSMLNEOSIDSMNE127|
 |name|name|Inductor_SMD : L_Neosid_SM-NE127|
-|Footprint Kicad|footprintKicadDetails|{'name': 'L_Neosid_SM-NE127', 'description': 'Neosid, Inductor, SM-NE127, Fixed inductor, SMD, https://neosid.de/import-data/product-pdf/neoFestind_SMNE127.pdf', 'tags': 'Neosid Inductor SM-NE127 Fixed inductor SMD', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Neosid_SM-NE127.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'L_Neosid_SM-NE127'</td><td> 'description'</td></tr><tr><td> 'Neosid</td><td> Inductor</td><td> SM-NE127</td><td> Fixed inductor</td><td> SMD</td><td> https</td></tr><tr><td>//neosid.de/import-data/product-pdf/neoFestind_SMNE127.pdf'</td><td> 'tags'</td></tr><tr><td> 'Neosid Inductor SM-NE127 Fixed inductor SMD'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Inductor_SMD.3dshapes/L_Neosid_SM-NE127.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

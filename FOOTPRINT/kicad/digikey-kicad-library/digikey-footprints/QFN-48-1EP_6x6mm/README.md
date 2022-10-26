@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-QFN-48-1EP_6x6mm|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSQFN481EP6X6|
 |name|name|digikey-footprints : QFN-48-1EP_6x6mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'QFN-48-1EP_6x6mm', 'description': 'https://www.decawave.com/sites/default/files/resources/DW1000-Datasheet-V2.12.pdf', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'oval'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'QFN-48-1EP_6x6mm'</td><td> 'description'</td></tr><tr><td> 'https</td></tr><tr><td>//www.decawave.com/sites/default/files/resources/DW1000-Datasheet-V2.12.pdf'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'oval'</td></tr></table></td></tr></table>|
 ||||
 
 

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Diode_THT-Diode_Bridge_Vishay_KBPM|
 |Hex ID (short code)|hexID|FZKDDIODEBRIDGEVISHAYKBPM|
 |name|name|Diode_THT : Diode_Bridge_Vishay_KBPM|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Diode_Bridge_Vishay_KBPM', 'description': 'Vishay KBM rectifier package, 3.95mm pitch (http://www.farnell.com/datasheets/2238158.pdf, http://www.cdil.com/s/kbp2005_.pdf)', 'tags': 'Vishay KBM rectifier diode bridge', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/Diode_Bridge_Vishay_KBPM.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Diode_Bridge_Vishay_KBPM'</td><td> 'description'</td></tr><tr><td> 'Vishay KBM rectifier package</td><td> 3.95mm pitch (http</td></tr><tr><td>//www.farnell.com/datasheets/2238158.pdf</td><td> http</td></tr><tr><td>//www.cdil.com/s/kbp2005_.pdf)'</td><td> 'tags'</td></tr><tr><td> 'Vishay KBM rectifier diode bridge'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Diode_THT.3dshapes/Diode_Bridge_Vishay_KBPM.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

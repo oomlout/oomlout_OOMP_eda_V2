@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKAMPLIFIERAUDIOLM384 > LM384
+# SZKAMPLIFIERAUDIOLM384 > Amplifier_Audio : LM384
 
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Audio-LM384
 - Hex ID: SZKAMPLIFIERAUDIOLM384
-- Name: LM384
-- Description: LM384
+- Name: Amplifier_Audio : LM384
+- Description: Amplifier_Audio : LM384
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-LM384](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-LM384)
 - Short Link: [http://oom.lt/SZKAMPLIFIERAUDIOLM384](http://oom.lt/SZKAMPLIFIERAUDIOLM384)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM384|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Audio-LM384|
 |Hex ID (short code)|hexID|SZKAMPLIFIERAUDIOLM384|
-|name|name|LM384|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM384', 'kicadSymbolFootprint': 'Package_DIP:DIP-14_W7.62mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lm384.pdf', 'kicadSymbolki_keywords': 'audio amplifier', 'kicadSymbolki_description': '5W Audio Power Amplifier, PDIP-14', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
+|name|name|Amplifier_Audio : LM384|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LM384'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>DIP-14_W7.62mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/lm384.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'audio amplifier'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '5W Audio Power Amplifier</td><td> PDIP-14'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W7.62mm*'</td></tr></table>]|
 ||||

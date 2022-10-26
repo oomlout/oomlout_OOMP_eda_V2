@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_PUSH_6mm|
 |Hex ID (short code)|hexID|FZKBSWPUSH6|
 |name|name|Button_Switch_THT : SW_PUSH_6mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'SW_PUSH_6mm', 'description': 'https://www.omron.com/ecb/products/pdf/en-b3f.pdf', 'tags': 'tact sw push 6mm', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_PUSH_6mm.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SW_PUSH_6mm'</td><td> 'description'</td></tr><tr><td> 'https</td></tr><tr><td>//www.omron.com/ecb/products/pdf/en-b3f.pdf'</td><td> 'tags'</td></tr><tr><td> 'tact sw push 6mm'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Button_Switch_THT.3dshapes/SW_PUSH_6mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

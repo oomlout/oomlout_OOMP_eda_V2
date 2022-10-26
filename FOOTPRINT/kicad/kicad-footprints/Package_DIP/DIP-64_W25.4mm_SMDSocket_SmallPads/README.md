@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DIP-DIP-64_W25.4mm_SMDSocket_SmallPads|
 |Hex ID (short code)|hexID|FZKDIPDIP64W254SMSOSLLPADS|
 |name|name|Package_DIP : DIP-64_W25.4mm_SMDSocket_SmallPads|
-|Footprint Kicad|footprintKicadDetails|{'name': 'DIP-64_W25.4mm_SMDSocket_SmallPads', 'description': '64-lead though-hole mounted DIP package, row spacing 25.4 mm (1000 mils), SMDSocket, SmallPads', 'tags': 'THT DIP DIL PDIP 2.54mm 25.4mm 1000mil SMDSocket SmallPads', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DIP.3dshapes/DIP-64_W25.4mm_SMDSocket.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'DIP-64_W25.4mm_SMDSocket_SmallPads'</td><td> 'description'</td></tr><tr><td> '64-lead though-hole mounted DIP package</td><td> row spacing 25.4 mm (1000 mils)</td><td> SMDSocket</td><td> SmallPads'</td><td> 'tags'</td></tr><tr><td> 'THT DIP DIL PDIP 2.54mm 25.4mm 1000mil SMDSocket SmallPads'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DIP.3dshapes/DIP-64_W25.4mm_SMDSocket.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

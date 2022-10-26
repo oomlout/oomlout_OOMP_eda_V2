@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-126-3_Vertical|
 |Hex ID (short code)|hexID|FZKSOTTO1263VERTICAL|
 |name|name|Package_TO_SOT_THT : TO-126-3_Vertical|
-|Footprint Kicad|footprintKicadDetails|{'name': 'TO-126-3_Vertical', 'description': 'TO-126-3, Vertical, RM 2.54mm, see https://www.diodes.com/assets/Package-Files/TO126.pdf', 'tags': 'TO-126-3 Vertical RM 2.54mm', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/TO-126-3_Vertical.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'TO-126-3_Vertical'</td><td> 'description'</td></tr><tr><td> 'TO-126-3</td><td> Vertical</td><td> RM 2.54mm</td><td> see https</td></tr><tr><td>//www.diodes.com/assets/Package-Files/TO126.pdf'</td><td> 'tags'</td></tr><tr><td> 'TO-126-3 Vertical RM 2.54mm'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_TO_SOT_THT.3dshapes/TO-126-3_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

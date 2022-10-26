@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_6.4mm_M6|
 |Hex ID (short code)|hexID|FZKHOLHOL64M6|
 |name|name|MountingHole : MountingHole_6.4mm_M6|
-|Footprint Kicad|footprintKicadDetails|{'name': 'MountingHole_6.4mm_M6', 'description': 'Mounting Hole 6.4mm, no annular, M6', 'tags': 'mounting hole 6.4mm no annular m6', 'attributeType': None, 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'MountingHole_6.4mm_M6'</td><td> 'description'</td></tr><tr><td> 'Mounting Hole 6.4mm</td><td> no annular</td><td> M6'</td><td> 'tags'</td></tr><tr><td> 'mounting hole 6.4mm no annular m6'</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

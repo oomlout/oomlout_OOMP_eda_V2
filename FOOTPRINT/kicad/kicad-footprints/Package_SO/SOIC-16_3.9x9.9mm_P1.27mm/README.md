@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SO-SOIC-16_3.9x9.9mm_P1.27mm|
 |Hex ID (short code)|hexID|FZKSOSOIC1639X99P127|
 |name|name|Package_SO : SOIC-16_3.9x9.9mm_P1.27mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'SOIC-16_3.9x9.9mm_P1.27mm', 'description': 'SOIC, 16 Pin (JEDEC MS-012AC, https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/soic_narrow-r/r_16.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py', 'tags': 'SOIC SO', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/SOIC-16_3.9x9.9mm_P1.27mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SOIC-16_3.9x9.9mm_P1.27mm'</td><td> 'description'</td></tr><tr><td> 'SOIC</td><td> 16 Pin (JEDEC MS-012AC</td><td> https</td></tr><tr><td>//www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/soic_narrow-r/r_16.pdf)</td><td> generated with kicad-footprint-generator ipc_gullwing_generator.py'</td><td> 'tags'</td></tr><tr><td> 'SOIC SO'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_SO.3dshapes/SOIC-16_3.9x9.9mm_P1.27mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

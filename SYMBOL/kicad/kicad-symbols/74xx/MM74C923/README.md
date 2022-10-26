@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZK74XX74C923 > MM74C923
+# SZK74XX74C923 > 74xx : MM74C923
 
 - ID: SYMBOL-kicad-kicad-symbols-74xx-MM74C923
 - Hex ID: SZK74XX74C923
-- Name: MM74C923
-- Description: MM74C923
+- Name: 74xx : MM74C923
+- Description: 74xx : MM74C923
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx-MM74C923](http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx-MM74C923)
 - Short Link: [http://oom.lt/SZK74XX74C923](http://oom.lt/SZK74XX74C923)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MM74C923|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xx-MM74C923|
 |Hex ID (short code)|hexID|SZK74XX74C923|
-|name|name|MM74C923|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MM74C923', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/gpn/snMM74C923', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'encoder', 'kicadSymbolki_description': '20-key encoder', 'kicadSymbolki_fp_filters': 'DIP?20*'}]|
+|name|name|74xx : MM74C923|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MM74C923'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/gpn/snMM74C923'</td><td> 'kicadSymbolki_locked'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'encoder'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '20-key encoder'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP?20*'</td></tr></table>]|
 ||||

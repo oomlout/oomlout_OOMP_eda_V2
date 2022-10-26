@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Pico-Clasp_202396-0807_1x08-1MP_P1.00mm_Horizontal|
 |Hex ID (short code)|hexID|FZKCNMXMXPICOCLASP22396871X81MPP1HORIZONTAL|
 |name|name|Connector_Molex : Molex_Pico-Clasp_202396-0807_1x08-1MP_P1.00mm_Horizontal|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Molex_Pico-Clasp_202396-0807_1x08-1MP_P1.00mm_Horizontal', 'description': 'Molex Pico-Clasp series connector, 202396-0807 (http://www.molex.com/pdm_docs/sd/2023960207_sd.pdf), generated with kicad-footprint-generator', 'tags': 'connector Molex Pico-Clasp top entry', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_Molex.3dshapes/Molex_Pico-Clasp_202396-0807_1x08-1MP_P1.00mm_Horizontal.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Molex_Pico-Clasp_202396-0807_1x08-1MP_P1.00mm_Horizontal'</td><td> 'description'</td></tr><tr><td> 'Molex Pico-Clasp series connector</td><td> 202396-0807 (http</td></tr><tr><td>//www.molex.com/pdm_docs/sd/2023960207_sd.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'connector Molex Pico-Clasp top entry'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_Molex.3dshapes/Molex_Pico-Clasp_202396-0807_1x08-1MP_P1.00mm_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

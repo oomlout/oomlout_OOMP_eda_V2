@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Card-microSD_HC_Hirose_DM3BT-DSF-PEJS|
 |Hex ID (short code)|hexID|FZKCNCARDMSDHCHIROSEDM3BTDSFPEJS|
 |name|name|Connector_Card : microSD_HC_Hirose_DM3BT-DSF-PEJS|
-|Footprint Kicad|footprintKicadDetails|{'name': 'microSD_HC_Hirose_DM3BT-DSF-PEJS', 'description': 'Micro SD, SMD, reverse on-board, right-angle, push-pull (https://www.hirose.com/product/en/download_file/key_name/DM3BT-DSF-PEJS/category/Drawing%20(2D)/doc_file_id/44097/?file_category_id=6&item_id=06090029900&is_series=)', 'tags': 'Micro SD', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_Card.3dshapes/microSD_HC_Hirose_DM3BT-DSF-PEJS.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'microSD_HC_Hirose_DM3BT-DSF-PEJS'</td><td> 'description'</td></tr><tr><td> 'Micro SD</td><td> SMD</td><td> reverse on-board</td><td> right-angle</td><td> push-pull (https</td></tr><tr><td>//www.hirose.com/product/en/download_file/key_name/DM3BT-DSF-PEJS/category/Drawing%20(2D)/doc_file_id/44097/?file_category_id=6&item_id=06090029900&is_series=)'</td><td> 'tags'</td></tr><tr><td> 'Micro SD'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_Card.3dshapes/microSD_HC_Hirose_DM3BT-DSF-PEJS.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

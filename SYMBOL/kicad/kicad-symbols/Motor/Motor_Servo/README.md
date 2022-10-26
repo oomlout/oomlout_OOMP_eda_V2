@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMOTORMOTORSERVO > Motor_Servo
+# SZKMOTORMOTORSERVO > Motor : Motor_Servo
 
 - ID: SYMBOL-kicad-kicad-symbols-Motor-Motor_Servo
 - Hex ID: SZKMOTORMOTORSERVO
-- Name: Motor_Servo
-- Description: Motor_Servo
+- Name: Motor : Motor_Servo
+- Description: Motor : Motor_Servo
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Motor-Motor_Servo](http://oom.lt/SYMBOL-kicad-kicad-symbols-Motor-Motor_Servo)
 - Short Link: [http://oom.lt/SZKMOTORMOTORSERVO](http://oom.lt/SZKMOTORMOTORSERVO)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Motor_Servo|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Motor-Motor_Servo|
 |Hex ID (short code)|hexID|SZKMOTORMOTORSERVO|
-|name|name|Motor_Servo|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'M', 'kicadSymbolValue': 'Motor_Servo', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://forums.parallax.com/uploads/attachments/46831/74481.png', 'kicadSymbolki_keywords': 'Servo Motor', 'kicadSymbolki_description': 'Servo Motor (Futaba, HiTec, JR connector)', 'kicadSymbolki_fp_filters': 'PinHeader*P2.54mm*'}]|
+|name|name|Motor : Motor_Servo|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'M'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Motor_Servo'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//forums.parallax.com/uploads/attachments/46831/74481.png'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Servo Motor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Servo Motor (Futaba</td><td> HiTec</td><td> JR connector)'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'PinHeader*P2.54mm*'</td></tr></table>]|
 ||||

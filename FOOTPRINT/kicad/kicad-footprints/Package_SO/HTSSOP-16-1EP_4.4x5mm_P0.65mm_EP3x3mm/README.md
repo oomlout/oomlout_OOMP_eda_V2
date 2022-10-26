@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SO-HTSSOP-16-1EP_4.4x5mm_P0.65mm_EP3x3mm|
 |Hex ID (short code)|hexID|FZKSOHTSS161EP44X5P65EP3X3|
 |name|name|Package_SO : HTSSOP-16-1EP_4.4x5mm_P0.65mm_EP3x3mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'HTSSOP-16-1EP_4.4x5mm_P0.65mm_EP3x3mm', 'description': 'HTSSOP, 16 Pin (https://www.st.com/resource/en/datasheet/stp08cp05.pdf#page=20), generated with kicad-footprint-generator ipc_gullwing_generator.py', 'tags': 'HTSSOP SO', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/HTSSOP-16-1EP_4.4x5mm_P0.65mm_EP3x3mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'HTSSOP-16-1EP_4.4x5mm_P0.65mm_EP3x3mm'</td><td> 'description'</td></tr><tr><td> 'HTSSOP</td><td> 16 Pin (https</td></tr><tr><td>//www.st.com/resource/en/datasheet/stp08cp05.pdf#page=20)</td><td> generated with kicad-footprint-generator ipc_gullwing_generator.py'</td><td> 'tags'</td></tr><tr><td> 'HTSSOP SO'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_SO.3dshapes/HTSSOP-16-1EP_4.4x5mm_P0.65mm_EP3x3mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_BGA-BGA-625_21.0x21.0mm_Layout25x25_P0.8mm|
 |Hex ID (short code)|hexID|FZKBGABGA62521X21LAYOUT25X25P8|
 |name|name|Package_BGA : BGA-625_21.0x21.0mm_Layout25x25_P0.8mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'BGA-625_21.0x21.0mm_Layout25x25_P0.8mm', 'description': 'BGA-625', 'tags': 'BGA-625', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/BGA-625_21.0x21.0mm_Layout25x25_P0.8mm.wrl', 'pins': {'type': 'smd', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'BGA-625_21.0x21.0mm_Layout25x25_P0.8mm'</td><td> 'description'</td></tr><tr><td> 'BGA-625'</td><td> 'tags'</td></tr><tr><td> 'BGA-625'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_BGA.3dshapes/BGA-625_21.0x21.0mm_Layout25x25_P0.8mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

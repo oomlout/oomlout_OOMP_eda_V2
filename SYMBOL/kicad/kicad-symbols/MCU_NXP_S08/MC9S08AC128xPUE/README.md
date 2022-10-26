@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUNXPS8MC9S8AC128XPUE > MC9S08AC128xPUE
+# SZKMCUNXPS8MC9S8AC128XPUE > MCU_NXP_S08 : MC9S08AC128xPUE
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_NXP_S08-MC9S08AC128xPUE
 - Hex ID: SZKMCUNXPS8MC9S8AC128XPUE
-- Name: MC9S08AC128xPUE
-- Description: MC9S08AC128xPUE
+- Name: MCU_NXP_S08 : MC9S08AC128xPUE
+- Description: MCU_NXP_S08 : MC9S08AC128xPUE
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_S08-MC9S08AC128xPUE](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_S08-MC9S08AC128xPUE)
 - Short Link: [http://oom.lt/SZKMCUNXPS8MC9S8AC128XPUE](http://oom.lt/SZKMCUNXPS8MC9S8AC128XPUE)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MC9S08AC128xPUE|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_NXP_S08-MC9S08AC128xPUE|
 |Hex ID (short code)|hexID|SZKMCUNXPS8MC9S8AC128XPUE|
-|name|name|MC9S08AC128xPUE|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'IC', 'kicadSymbolValue': 'MC9S08AC128xPUE', 'kicadSymbolFootprint': 'Package_QFP:LQFP-64_10x10mm_P0.5mm', 'kicadSymbolDatasheet': 'http://cache.nxp.com/files/microcontrollers/doc/data_sheet/MC9S08AC128.pdf', 'kicadSymbolki_keywords': 'NXP S08 Microcontroller', 'kicadSymbolki_description': '8-bit Flexis Microcontroller, S08 core, 128kB Flash, 8kB RAM, LQFP-64', 'kicadSymbolki_fp_filters': 'LQFP*10x10mm*P0.5mm*'}]|
+|name|name|MCU_NXP_S08 : MC9S08AC128xPUE|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'IC'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MC9S08AC128xPUE'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_QFP</td></tr><tr><td>LQFP-64_10x10mm_P0.5mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//cache.nxp.com/files/microcontrollers/doc/data_sheet/MC9S08AC128.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'NXP S08 Microcontroller'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '8-bit Flexis Microcontroller</td><td> S08 core</td><td> 128kB Flash</td><td> 8kB RAM</td><td> LQFP-64'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'LQFP*10x10mm*P0.5mm*'</td></tr></table>]|
 ||||

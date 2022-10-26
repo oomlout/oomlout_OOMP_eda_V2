@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKSENTEMPERATUREKT1 > KT100
+# SZKSENTEMPERATUREKT1 > Sensor_Temperature : KT100
 
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Temperature-KT100
 - Hex ID: SZKSENTEMPERATUREKT1
-- Name: KT100
-- Description: KT100
+- Name: Sensor_Temperature : KT100
+- Description: Sensor_Temperature : KT100
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-KT100](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-KT100)
 - Short Link: [http://oom.lt/SZKSENTEMPERATUREKT1](http://oom.lt/SZKSENTEMPERATUREKT1)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|KT100|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Temperature-KT100|
 |Hex ID (short code)|hexID|SZKSENTEMPERATUREKT1|
-|name|name|KT100|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'KTY81', 'kicadSymbolReference': 'TH', 'kicadSymbolValue': 'KT100', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.b-kainka.de/Daten/Sensor/kty10.pdf', 'kicadSymbolki_keywords': 'silicon temperature sensors', 'kicadSymbolki_description': 'KTY10/KT100 series silicon temperature sensors', 'kicadSymbolki_fp_filters': 'SOD?70*'}]|
+|name|name|Sensor_Temperature : KT100|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'KTY81'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'TH'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'KT100'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.b-kainka.de/Daten/Sensor/kty10.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'silicon temperature sensors'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'KTY10/KT100 series silicon temperature sensors'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOD?70*'</td></tr></table>]|
 ||||

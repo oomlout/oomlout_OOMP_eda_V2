@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORLINEARLD186DTTR > LD1086DTTR
+# SZKREGULATORLINEARLD186DTTR > Regulator_Linear : LD1086DTTR
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-LD1086DTTR
 - Hex ID: SZKREGULATORLINEARLD186DTTR
-- Name: LD1086DTTR
-- Description: LD1086DTTR
+- Name: Regulator_Linear : LD1086DTTR
+- Description: Regulator_Linear : LD1086DTTR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LD1086DTTR](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LD1086DTTR)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARLD186DTTR](http://oom.lt/SZKREGULATORLINEARLD186DTTR)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LD1086DTTR|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-LD1086DTTR|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARLD186DTTR|
-|name|name|LD1086DTTR|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LD1086DTTR', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TO-252-2', 'kicadSymbolDatasheet': 'https://www.st.com/resource/en/datasheet/ld1086.pdf', 'kicadSymbolki_keywords': 'Linear Regulator 1.5A Adjustable', 'kicadSymbolki_description': 'Positive, 1.5A 30V, Linear Regulator, Adjustable, TO-252', 'kicadSymbolki_fp_filters': 'TO?252?2*'}]|
+|name|name|Regulator_Linear : LD1086DTTR|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LD1086DTTR'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>TO-252-2'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.st.com/resource/en/datasheet/ld1086.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Linear Regulator 1.5A Adjustable'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Positive</td><td> 1.5A 30V</td><td> Linear Regulator</td><td> Adjustable</td><td> TO-252'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TO?252?2*'</td></tr></table>]|
 ||||

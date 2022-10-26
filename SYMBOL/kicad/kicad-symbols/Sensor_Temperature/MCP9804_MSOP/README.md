@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKSENTEMPERATUREMCP984MS > MCP9804_MSOP
+# SZKSENTEMPERATUREMCP984MS > Sensor_Temperature : MCP9804_MSOP
 
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Temperature-MCP9804_MSOP
 - Hex ID: SZKSENTEMPERATUREMCP984MS
-- Name: MCP9804_MSOP
-- Description: MCP9804_MSOP
+- Name: Sensor_Temperature : MCP9804_MSOP
+- Description: Sensor_Temperature : MCP9804_MSOP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-MCP9804_MSOP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-MCP9804_MSOP)
 - Short Link: [http://oom.lt/SZKSENTEMPERATUREMCP984MS](http://oom.lt/SZKSENTEMPERATUREMCP984MS)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MCP9804_MSOP|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Temperature-MCP9804_MSOP|
 |Hex ID (short code)|hexID|SZKSENTEMPERATUREMCP984MS|
-|name|name|MCP9804_MSOP|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MCP9804_MSOP', 'kicadSymbolFootprint': 'Package_SO:MSOP-8_3x3mm_P0.65mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/22203b.pdf', 'kicadSymbolki_keywords': 'temperature sensor I2C', 'kicadSymbolki_description': '+/-0.25C (+/-1C) Typical (Maximum), Digital Temperature Sensor, MSOP-8', 'kicadSymbolki_fp_filters': 'MSOP*3x3mm*P0.65mm*'}]|
+|name|name|Sensor_Temperature : MCP9804_MSOP|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MCP9804_MSOP'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>MSOP-8_3x3mm_P0.65mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/22203b.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'temperature sensor I2C'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '+/-0.25C (+/-1C) Typical (Maximum)</td><td> Digital Temperature Sensor</td><td> MSOP-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'MSOP*3x3mm*P0.65mm*'</td></tr></table>]|
 ||||

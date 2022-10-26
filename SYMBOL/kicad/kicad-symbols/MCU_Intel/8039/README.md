@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUINTEL839 > 8039
+# SZKMCUINTEL839 > MCU_Intel : 8039
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Intel-8039
 - Hex ID: SZKMCUINTEL839
-- Name: 8039
-- Description: 8039
+- Name: MCU_Intel : 8039
+- Description: MCU_Intel : 8039
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Intel-8039](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Intel-8039)
 - Short Link: [http://oom.lt/SZKMCUINTEL839](http://oom.lt/SZKMCUINTEL839)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|8039|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Intel-8039|
 |Hex ID (short code)|hexID|SZKMCUINTEL839|
-|name|name|8039|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '8035', 'kicadSymbolReference': 'U', 'kicadSymbolValue': '8039', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_keywords': 'MCS-48 uC Microcontroller', 'kicadSymbolki_description': 'MCS-48 8-bit Microcontroller, No (EP)ROM, 128B RAM, DIP-40', 'kicadSymbolki_fp_filters': 'DIP* PDIP*'}]|
+|name|name|MCU_Intel : 8039|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> '8035'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> '8039'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'MCS-48 uC Microcontroller'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'MCS-48 8-bit Microcontroller</td><td> No (EP)ROM</td><td> 128B RAM</td><td> DIP-40'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP* PDIP*'</td></tr></table>]|
 ||||

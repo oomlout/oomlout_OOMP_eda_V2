@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORLINEARLM184ADJ > LM1084-ADJ
+# SZKREGULATORLINEARLM184ADJ > Regulator_Linear : LM1084-ADJ
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-LM1084-ADJ
 - Hex ID: SZKREGULATORLINEARLM184ADJ
-- Name: LM1084-ADJ
-- Description: LM1084-ADJ
+- Name: Regulator_Linear : LM1084-ADJ
+- Description: Regulator_Linear : LM1084-ADJ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LM1084-ADJ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LM1084-ADJ)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARLM184ADJ](http://oom.lt/SZKREGULATORLINEARLM184ADJ)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM1084-ADJ|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-LM1084-ADJ|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARLM184ADJ|
-|name|name|LM1084-ADJ|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM1084-ADJ', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lm1084.pdf', 'kicadSymbolki_keywords': 'Adjustable Voltage Regulator 5A Positive', 'kicadSymbolki_description': '5A 29V Adjustable Linear Regulator, TO-220 / TO-263 (D2-PAK)', 'kicadSymbolki_fp_filters': 'TO?220* TO?263*'}]|
+|name|name|Regulator_Linear : LM1084-ADJ|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LM1084-ADJ'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/lm1084.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Adjustable Voltage Regulator 5A Positive'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '5A 29V Adjustable Linear Regulator</td><td> TO-220 / TO-263 (D2-PAK)'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TO?220* TO?263*'</td></tr></table>]|
 ||||

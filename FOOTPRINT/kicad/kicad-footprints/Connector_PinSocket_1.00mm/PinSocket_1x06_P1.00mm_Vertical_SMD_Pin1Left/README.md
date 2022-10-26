@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_PinSocket_1.00mm-PinSocket_1x06_P1.00mm_Vertical_SMD_Pin1Left|
 |Hex ID (short code)|hexID|FZKCNPINSO1PINSO1X6P1VERTICALSMPIN1LEFT|
 |name|name|Connector_PinSocket_1.00mm : PinSocket_1x06_P1.00mm_Vertical_SMD_Pin1Left|
-|Footprint Kicad|footprintKicadDetails|{'name': 'PinSocket_1x06_P1.00mm_Vertical_SMD_Pin1Left', 'description': 'surface-mounted straight socket strip, 1x06, 1.00mm pitch, single row, style 1 (pin 1 left) (https://gct.co/files/drawings/bc070.pdf), script generated', 'tags': 'Surface mounted socket strip SMD 1x06 1.00mm single row style1 pin1 left', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_PinSocket_1.00mm.3dshapes/PinSocket_1x06_P1.00mm_Vertical_SMD_Pin1Left.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'PinSocket_1x06_P1.00mm_Vertical_SMD_Pin1Left'</td><td> 'description'</td></tr><tr><td> 'surface-mounted straight socket strip</td><td> 1x06</td><td> 1.00mm pitch</td><td> single row</td><td> style 1 (pin 1 left) (https</td></tr><tr><td>//gct.co/files/drawings/bc070.pdf)</td><td> script generated'</td><td> 'tags'</td></tr><tr><td> 'Surface mounted socket strip SMD 1x06 1.00mm single row style1 pin1 left'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_PinSocket_1.00mm.3dshapes/PinSocket_1x06_P1.00mm_Vertical_SMD_Pin1Left.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

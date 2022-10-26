@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKAMPLIFIEROPERATIONALLT615XS5 > LT6015xS5
+# SZKAMPLIFIEROPERATIONALLT615XS5 > Amplifier_Operational : LT6015xS5
 
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LT6015xS5
 - Hex ID: SZKAMPLIFIEROPERATIONALLT615XS5
-- Name: LT6015xS5
-- Description: LT6015xS5
+- Name: Amplifier_Operational : LT6015xS5
+- Description: Amplifier_Operational : LT6015xS5
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LT6015xS5](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LT6015xS5)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALLT615XS5](http://oom.lt/SZKAMPLIFIEROPERATIONALLT615XS5)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LT6015xS5|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LT6015xS5|
 |Hex ID (short code)|hexID|SZKAMPLIFIEROPERATIONALLT615XS5|
-|name|name|LT6015xS5|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MCP6L91T-EOT', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LT6015xS5', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-5', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/601567ff.pdf', 'kicadSymbolki_keywords': 'single opamp', 'kicadSymbolki_description': '3.2MHz, 0.8V/us, Low Power, Over-The-Top Precision Op Amp, SOT-23-5', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
+|name|name|Amplifier_Operational : LT6015xS5|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'MCP6L91T-EOT'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LT6015xS5'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-23-5'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/601567ff.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'single opamp'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '3.2MHz</td><td> 0.8V/us</td><td> Low Power</td><td> Over-The-Top Precision Op Amp</td><td> SOT-23-5'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23*'</td></tr></table>]|
 ||||

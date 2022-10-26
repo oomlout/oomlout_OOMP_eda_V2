@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_XH_B5B-XH-AM_1x05_P2.50mm_Vertical|
 |Hex ID (short code)|hexID|FZKCNJSTJSTXHB5BXHAM1X5P25VERTICAL|
 |name|name|Connector_JST : JST_XH_B5B-XH-AM_1x05_P2.50mm_Vertical|
-|Footprint Kicad|footprintKicadDetails|{'name': 'JST_XH_B5B-XH-AM_1x05_P2.50mm_Vertical', 'description': 'JST XH series connector, B5B-XH-AM, with boss (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator', 'tags': 'connector JST XH vertical boss', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_JST.3dshapes/JST_XH_B5B-XH-AM_1x05_P2.50mm_Vertical.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'JST_XH_B5B-XH-AM_1x05_P2.50mm_Vertical'</td><td> 'description'</td></tr><tr><td> 'JST XH series connector</td><td> B5B-XH-AM</td><td> with boss (http</td></tr><tr><td>//www.jst-mfg.com/product/pdf/eng/eXH.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'connector JST XH vertical boss'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_JST.3dshapes/JST_XH_B5B-XH-AM_1x05_P2.50mm_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

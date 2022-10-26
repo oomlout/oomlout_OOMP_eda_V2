@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUMCHIPPIC18PIC18F252XSP > PIC18F2520-xSP
+# SZKMCUMCHIPPIC18PIC18F252XSP > MCU_Microchip_PIC18 : PIC18F2520-xSP
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18F2520-xSP
 - Hex ID: SZKMCUMCHIPPIC18PIC18F252XSP
-- Name: PIC18F2520-xSP
-- Description: PIC18F2520-xSP
+- Name: MCU_Microchip_PIC18 : PIC18F2520-xSP
+- Description: MCU_Microchip_PIC18 : PIC18F2520-xSP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18F2520-xSP](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18F2520-xSP)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC18PIC18F252XSP](http://oom.lt/SZKMCUMCHIPPIC18PIC18F252XSP)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PIC18F2520-xSP|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18F2520-xSP|
 |Hex ID (short code)|hexID|SZKMCUMCHIPPIC18PIC18F252XSP|
-|name|name|PIC18F2520-xSP|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'PIC18F2420-xSP', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PIC18F2520-xSP', 'kicadSymbolFootprint': 'Package_DIP:DIP-28_W15.24mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/39631E.pdf', 'kicadSymbolki_keywords': 'Flash-Based 8bit CMOS Microcontroller', 'kicadSymbolki_description': 'MCU 32k Flash, 1536B SRAM, 256B EEPROM, ADC, DIP-28', 'kicadSymbolki_fp_filters': 'DIP*W15.24mm*'}]|
+|name|name|MCU_Microchip_PIC18 : PIC18F2520-xSP|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'PIC18F2420-xSP'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'PIC18F2520-xSP'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>DIP-28_W15.24mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/39631E.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Flash-Based 8bit CMOS Microcontroller'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'MCU 32k Flash</td><td> 1536B SRAM</td><td> 256B EEPROM</td><td> ADC</td><td> DIP-28'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W15.24mm*'</td></tr></table>]|
 ||||

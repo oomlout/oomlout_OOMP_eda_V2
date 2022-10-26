@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_CommonMode_Wuerth_WE-CMB-L|
 |Hex ID (short code)|hexID|FZKINLCOONMODEWUERTHWECMBL|
 |name|name|Inductor_THT : L_CommonMode_Wuerth_WE-CMB-L|
-|Footprint Kicad|footprintKicadDetails|{'name': 'L_CommonMode_Wuerth_WE-CMB-L', 'description': 'Wuerth, WE-CMB, Bauform L,', 'tags': 'CommonModeChoke Gleichtaktdrossel ', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_THT.3dshapes/L_CommonMode_Wuerth_WE-CMB-L.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'L_CommonMode_Wuerth_WE-CMB-L'</td><td> 'description'</td></tr><tr><td> 'Wuerth</td><td> WE-CMB</td><td> Bauform L</td><td>'</td><td> 'tags'</td></tr><tr><td> 'CommonModeChoke Gleichtaktdrossel '</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Inductor_THT.3dshapes/L_CommonMode_Wuerth_WE-CMB-L.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-OptoDevice-Lightpipe_Mentor_1276.1004|
 |Hex ID (short code)|hexID|FZKOPLIGHTPIPEMENTOR127614|
 |name|name|OptoDevice : Lightpipe_Mentor_1276.1004|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Lightpipe_Mentor_1276.1004', 'description': 'https://www.mentor-bauelemente.de/katalog/ll/MENTOR-LL.pdf', 'tags': 'spherical light pipe 4 way 3mm PLCC-2 PLCC-4', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/Lightpipe_Mentor_1276.1004.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Lightpipe_Mentor_1276.1004'</td><td> 'description'</td></tr><tr><td> 'https</td></tr><tr><td>//www.mentor-bauelemente.de/katalog/ll/MENTOR-LL.pdf'</td><td> 'tags'</td></tr><tr><td> 'spherical light pipe 4 way 3mm PLCC-2 PLCC-4'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/OptoDevice.3dshapes/Lightpipe_Mentor_1276.1004.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

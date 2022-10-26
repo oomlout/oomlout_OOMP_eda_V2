@@ -29,5 +29,5 @@ NO IMAGE
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Transformer_Myrra_EF20_7408x|
 |Hex ID (short code)|hexID|FZKTRTRMYRRAEF2748X|
 |name|name|Transformer_THT : Transformer_Myrra_EF20_7408x|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Transformer_Myrra_EF20_7408x', 'description': 'EF20 flyback transformer,http://myrra.com/wp-content/uploads/2017/09/Datasheet-74087-74088-74089-rev-A.pdf', 'tags': 'transformer flyback SMPS', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Transformer_THT.3dshapes/Transformer_Myrra_EF20_no_pin3.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Transformer_Myrra_EF20_7408x'</td><td> 'description'</td></tr><tr><td> 'EF20 flyback transformer</td><td>http</td></tr><tr><td>//myrra.com/wp-content/uploads/2017/09/Datasheet-74087-74088-74089-rev-A.pdf'</td><td> 'tags'</td></tr><tr><td> 'transformer flyback SMPS'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Transformer_THT.3dshapes/Transformer_Myrra_EF20_no_pin3.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

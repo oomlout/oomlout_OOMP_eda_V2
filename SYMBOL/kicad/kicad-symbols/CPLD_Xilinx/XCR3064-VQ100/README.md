@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKCPLDXILINXXCR364VQ1 > XCR3064-VQ100
+# SZKCPLDXILINXXCR364VQ1 > CPLD_Xilinx : XCR3064-VQ100
 
 - ID: SYMBOL-kicad-kicad-symbols-CPLD_Xilinx-XCR3064-VQ100
 - Hex ID: SZKCPLDXILINXXCR364VQ1
-- Name: XCR3064-VQ100
-- Description: XCR3064-VQ100
+- Name: CPLD_Xilinx : XCR3064-VQ100
+- Description: CPLD_Xilinx : XCR3064-VQ100
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-CPLD_Xilinx-XCR3064-VQ100](http://oom.lt/SYMBOL-kicad-kicad-symbols-CPLD_Xilinx-XCR3064-VQ100)
 - Short Link: [http://oom.lt/SZKCPLDXILINXXCR364VQ1](http://oom.lt/SZKCPLDXILINXXCR364VQ1)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|XCR3064-VQ100|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-CPLD_Xilinx-XCR3064-VQ100|
 |Hex ID (short code)|hexID|SZKCPLDXILINXXCR364VQ1|
-|name|name|XCR3064-VQ100|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'XCR3064XL-VQ100', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'XCR3064-VQ100', 'kicadSymbolFootprint': 'Package_QFP:LQFP-100_14x14mm_P0.5mm', 'kicadSymbolDatasheet': 'https://www.xilinx.com/support/documentation/data_sheets/ds017.pdf', 'kicadSymbolki_keywords': 'CPLD', 'kicadSymbolki_description': 'Xilinx CoolRunner 64-Macrocell CPLD, 3.3V, VQFP-100, Obsolete', 'kicadSymbolki_fp_filters': 'LQFP*14x14mm*P0.5*'}]|
+|name|name|CPLD_Xilinx : XCR3064-VQ100|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'XCR3064XL-VQ100'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'XCR3064-VQ100'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_QFP</td></tr><tr><td>LQFP-100_14x14mm_P0.5mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.xilinx.com/support/documentation/data_sheets/ds017.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'CPLD'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Xilinx CoolRunner 64-Macrocell CPLD</td><td> 3.3V</td><td> VQFP-100</td><td> Obsolete'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'LQFP*14x14mm*P0.5*'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORLINEARAZ1117HADJ > AZ1117H-ADJ
+# SZKREGULATORLINEARAZ1117HADJ > Regulator_Linear : AZ1117H-ADJ
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-AZ1117H-ADJ
 - Hex ID: SZKREGULATORLINEARAZ1117HADJ
-- Name: AZ1117H-ADJ
-- Description: AZ1117H-ADJ
+- Name: Regulator_Linear : AZ1117H-ADJ
+- Description: Regulator_Linear : AZ1117H-ADJ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-AZ1117H-ADJ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-AZ1117H-ADJ)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARAZ1117HADJ](http://oom.lt/SZKREGULATORLINEARAZ1117HADJ)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AZ1117H-ADJ|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-AZ1117H-ADJ|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARAZ1117HADJ|
-|name|name|AZ1117H-ADJ|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LM317_SOT-223', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AZ1117H-ADJ', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-223-3_TabPin2', 'kicadSymbolDatasheet': 'https://www.diodes.com/assets/Datasheets/products_inactive_data/AZ1117.pdf', 'kicadSymbolki_keywords': 'Adjustable Voltage Regulator 1A Positive LDO', 'kicadSymbolki_description': '1A 20V Adjustable LDO Linear Regulator, SOT-223', 'kicadSymbolki_fp_filters': 'SOT?223*TabPin2*'}]|
+|name|name|Regulator_Linear : AZ1117H-ADJ|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'LM317_SOT-223'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'AZ1117H-ADJ'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-223-3_TabPin2'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.diodes.com/assets/Datasheets/products_inactive_data/AZ1117.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Adjustable Voltage Regulator 1A Positive LDO'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '1A 20V Adjustable LDO Linear Regulator</td><td> SOT-223'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?223*TabPin2*'</td></tr></table>]|
 ||||

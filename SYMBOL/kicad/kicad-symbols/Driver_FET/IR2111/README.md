@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDRIVERFETIR2111 > IR2111
+# SZKDRIVERFETIR2111 > Driver_FET : IR2111
 
 - ID: SYMBOL-kicad-kicad-symbols-Driver_FET-IR2111
 - Hex ID: SZKDRIVERFETIR2111
-- Name: IR2111
-- Description: IR2111
+- Name: Driver_FET : IR2111
+- Description: Driver_FET : IR2111
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-IR2111](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-IR2111)
 - Short Link: [http://oom.lt/SZKDRIVERFETIR2111](http://oom.lt/SZKDRIVERFETIR2111)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IR2111|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Driver_FET-IR2111|
 |Hex ID (short code)|hexID|SZKDRIVERFETIR2111|
-|name|name|IR2111|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'IR2111', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.infineon.com/dgdl/ir2111.pdf?fileId=5546d462533600a4015355c810e51682', 'kicadSymbolki_keywords': 'Gate Driver', 'kicadSymbolki_description': 'Half-Bridge Driver, 600V, 250/500mA, PDIP-8/SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm* DIP*W7.62mm*'}]|
+|name|name|Driver_FET : IR2111|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'IR2111'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.infineon.com/dgdl/ir2111.pdf?fileId=5546d462533600a4015355c810e51682'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Gate Driver'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Half-Bridge Driver</td><td> 600V</td><td> 250/500mA</td><td> PDIP-8/SOIC-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*3.9x4.9mm*P1.27mm* DIP*W7.62mm*'</td></tr></table>]|
 ||||

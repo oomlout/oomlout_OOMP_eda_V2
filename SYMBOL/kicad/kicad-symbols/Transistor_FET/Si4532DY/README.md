@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORFETSI4532DY > Si4532DY
+# SZKTRANSISTORFETSI4532DY > Transistor_FET : Si4532DY
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-Si4532DY
 - Hex ID: SZKTRANSISTORFETSI4532DY
-- Name: Si4532DY
-- Description: Si4532DY
+- Name: Transistor_FET : Si4532DY
+- Description: Transistor_FET : Si4532DY
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-Si4532DY](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-Si4532DY)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETSI4532DY](http://oom.lt/SZKTRANSISTORFETSI4532DY)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Si4532DY|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-Si4532DY|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETSI4532DY|
-|name|name|Si4532DY|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'IRF7309IPBF', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'Si4532DY', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pub/Collateral/SI4532DY-D.PDF', 'kicadSymbolki_keywords': 'Dual N-Channel P-Channel MOSFET', 'kicadSymbolki_description': '3.9A Id, 30V Vds, Dual N and P Channel MOSFET, 65mOhm Ron, 10V Vgs, SO8L', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm*'}]|
+|name|name|Transistor_FET : Si4532DY|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'IRF7309IPBF'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Si4532DY'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-8_3.9x4.9mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.onsemi.com/pub/Collateral/SI4532DY-D.PDF'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Dual N-Channel P-Channel MOSFET'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '3.9A Id</td><td> 30V Vds</td><td> Dual N and P Channel MOSFET</td><td> 65mOhm Ron</td><td> 10V Vgs</td><td> SO8L'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*3.9x4.9mm*P1.27mm*'</td></tr></table>]|
 ||||

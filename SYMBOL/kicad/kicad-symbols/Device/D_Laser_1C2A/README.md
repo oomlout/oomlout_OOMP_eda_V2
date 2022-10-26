@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDEVICEDLASER1C2A > D_Laser_1C2A
+# SZKDEVICEDLASER1C2A > Device : D_Laser_1C2A
 
 - ID: SYMBOL-kicad-kicad-symbols-Device-D_Laser_1C2A
 - Hex ID: SZKDEVICEDLASER1C2A
-- Name: D_Laser_1C2A
-- Description: D_Laser_1C2A
+- Name: Device : D_Laser_1C2A
+- Description: Device : D_Laser_1C2A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Laser_1C2A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Laser_1C2A)
 - Short Link: [http://oom.lt/SZKDEVICEDLASER1C2A](http://oom.lt/SZKDEVICEDLASER1C2A)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|D_Laser_1C2A|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-D_Laser_1C2A|
 |Hex ID (short code)|hexID|SZKDEVICEDLASER1C2A|
-|name|name|D_Laser_1C2A|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'LD', 'kicadSymbolValue': 'D_Laser_1C2A', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'opto laserdiode', 'kicadSymbolki_description': 'Laser diode, cathode on pin 1, anode on pin 2', 'kicadSymbolki_fp_filters': '*LaserDiode*'}]|
+|name|name|Device : D_Laser_1C2A|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'LD'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'D_Laser_1C2A'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'opto laserdiode'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Laser diode</td><td> cathode on pin 1</td><td> anode on pin 2'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> '*LaserDiode*'</td></tr></table>]|
 ||||

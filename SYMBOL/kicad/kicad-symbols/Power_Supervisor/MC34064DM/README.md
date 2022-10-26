@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKPOWERSUPERVISORMC3464DM > MC34064DM
+# SZKPOWERSUPERVISORMC3464DM > Power_Supervisor : MC34064DM
 
 - ID: SYMBOL-kicad-kicad-symbols-Power_Supervisor-MC34064DM
 - Hex ID: SZKPOWERSUPERVISORMC3464DM
-- Name: MC34064DM
-- Description: MC34064DM
+- Name: Power_Supervisor : MC34064DM
+- Description: Power_Supervisor : MC34064DM
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Supervisor-MC34064DM](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Supervisor-MC34064DM)
 - Short Link: [http://oom.lt/SZKPOWERSUPERVISORMC3464DM](http://oom.lt/SZKPOWERSUPERVISORMC3464DM)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MC34064DM|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Supervisor-MC34064DM|
 |Hex ID (short code)|hexID|SZKPOWERSUPERVISORMC3464DM|
-|name|name|MC34064DM|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MC34064DM', 'kicadSymbolFootprint': 'Package_SO:MSOP-8_3x3mm_P0.65mm', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pub/Collateral/MC34064-D.PDF', 'kicadSymbolki_keywords': 'Power Supervisor', 'kicadSymbolki_description': 'Undervoltage Sensing Circuit, MSOP-8', 'kicadSymbolki_fp_filters': 'MSOP*3x3mm*P0.65mm*'}]|
+|name|name|Power_Supervisor : MC34064DM|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MC34064DM'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>MSOP-8_3x3mm_P0.65mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.onsemi.com/pub/Collateral/MC34064-D.PDF'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Power Supervisor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Undervoltage Sensing Circuit</td><td> MSOP-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'MSOP*3x3mm*P0.65mm*'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKAMPLIFIEROPERATIONALCA38 > CA3080
+# SZKAMPLIFIEROPERATIONALCA38 > Amplifier_Operational : CA3080
 
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-CA3080
 - Hex ID: SZKAMPLIFIEROPERATIONALCA38
-- Name: CA3080
-- Description: CA3080
+- Name: Amplifier_Operational : CA3080
+- Description: Amplifier_Operational : CA3080
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-CA3080](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-CA3080)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALCA38](http://oom.lt/SZKAMPLIFIEROPERATIONALCA38)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|CA3080|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Operational-CA3080|
 |Hex ID (short code)|hexID|SZKAMPLIFIEROPERATIONALCA38|
-|name|name|CA3080|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'CA3080', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.intersil.com/content/dam/Intersil/documents/ca30/ca3080-a.pdf', 'kicadSymbolki_keywords': 'operational transconductance amplifier ota', 'kicadSymbolki_description': '2MHz, Operational Transconductance Amplifier (OTA), gM spread 2:1, DIP-8/SOIC-8', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm* SOIC*3.9x4.9mm*P1.27mm*'}]|
+|name|name|Amplifier_Operational : CA3080|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'CA3080'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.intersil.com/content/dam/Intersil/documents/ca30/ca3080-a.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'operational transconductance amplifier ota'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '2MHz</td><td> Operational Transconductance Amplifier (OTA)</td><td> gM spread 2</td></tr><tr><td>1</td><td> DIP-8/SOIC-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W7.62mm* SOIC*3.9x4.9mm*P1.27mm*'</td></tr></table>]|
 ||||

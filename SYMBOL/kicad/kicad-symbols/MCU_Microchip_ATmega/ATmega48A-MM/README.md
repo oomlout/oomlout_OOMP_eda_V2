@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUMCHIPATMEGAATMEGA48A > ATmega48A-MM
+# SZKMCUMCHIPATMEGAATMEGA48A > MCU_Microchip_ATmega : ATmega48A-MM
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega48A-MM
 - Hex ID: SZKMCUMCHIPATMEGAATMEGA48A
-- Name: ATmega48A-MM
-- Description: ATmega48A-MM
+- Name: MCU_Microchip_ATmega : ATmega48A-MM
+- Description: MCU_Microchip_ATmega : ATmega48A-MM
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega48A-MM](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega48A-MM)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATMEGAATMEGA48A](http://oom.lt/SZKMCUMCHIPATMEGAATMEGA48A)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ATmega48A-MM|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega48A-MM|
 |Hex ID (short code)|hexID|SZKMCUMCHIPATMEGAATMEGA48A|
-|name|name|ATmega48A-MM|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ATmega48PV-10MM', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ATmega48A-MM', 'kicadSymbolFootprint': 'Package_DFN_QFN:QFN-28-1EP_4x4mm_P0.45mm_EP2.4x2.4mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/ATmega48A_88A_168A-Data-Sheet-40002007A.pdf', 'kicadSymbolki_keywords': 'AVR 8bit Microcontroller MegaAVR', 'kicadSymbolki_description': '20MHz, 4kB Flash, 512B SRAM, 256B EEPROM, QFN-28', 'kicadSymbolki_fp_filters': 'QFN*1EP*4x4mm*P0.45mm*'}]|
+|name|name|MCU_Microchip_ATmega : ATmega48A-MM|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'ATmega48PV-10MM'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ATmega48A-MM'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>QFN-28-1EP_4x4mm_P0.45mm_EP2.4x2.4mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/ATmega48A_88A_168A-Data-Sheet-40002007A.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'AVR 8bit Microcontroller MegaAVR'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '20MHz</td><td> 4kB Flash</td><td> 512B SRAM</td><td> 256B EEPROM</td><td> QFN-28'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'QFN*1EP*4x4mm*P0.45mm*'</td></tr></table>]|
 ||||

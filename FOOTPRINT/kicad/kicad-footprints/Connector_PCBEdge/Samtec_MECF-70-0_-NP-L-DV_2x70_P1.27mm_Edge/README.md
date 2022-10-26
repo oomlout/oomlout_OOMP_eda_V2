@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_PCBEdge-Samtec_MECF-70-0_-NP-L-DV_2x70_P1.27mm_Edge|
 |Hex ID (short code)|hexID|FZKCNPCBEDGESAMTECMECF7NPLDV2X7P127EDGE|
 |name|name|Connector_PCBEdge : Samtec_MECF-70-0_-NP-L-DV_2x70_P1.27mm_Edge|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Samtec_MECF-70-0_-NP-L-DV_2x70_P1.27mm_Edge', 'description': 'Highspeed card edge connector for PCBs with 70 contacts (not polarized)', 'tags': 'conn samtec card-edge high-speed', 'attributeType': None, 'pins': {'type': 'connect', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Samtec_MECF-70-0_-NP-L-DV_2x70_P1.27mm_Edge'</td><td> 'description'</td></tr><tr><td> 'Highspeed card edge connector for PCBs with 70 contacts (not polarized)'</td><td> 'tags'</td></tr><tr><td> 'conn samtec card-edge high-speed'</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'connect'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

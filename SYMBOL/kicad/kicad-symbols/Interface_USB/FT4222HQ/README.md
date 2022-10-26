@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKINTERFACEUFT4222HQ > FT4222HQ
+# SZKINTERFACEUFT4222HQ > Interface_USB : FT4222HQ
 
 - ID: SYMBOL-kicad-kicad-symbols-Interface_USB-FT4222HQ
 - Hex ID: SZKINTERFACEUFT4222HQ
-- Name: FT4222HQ
-- Description: FT4222HQ
+- Name: Interface_USB : FT4222HQ
+- Description: Interface_USB : FT4222HQ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-FT4222HQ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-FT4222HQ)
 - Short Link: [http://oom.lt/SZKINTERFACEUFT4222HQ](http://oom.lt/SZKINTERFACEUFT4222HQ)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|FT4222HQ|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_USB-FT4222HQ|
 |Hex ID (short code)|hexID|SZKINTERFACEUFT4222HQ|
-|name|name|FT4222HQ|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'FT4222HQ', 'kicadSymbolFootprint': 'Package_DFN_QFN:VQFN-32-1EP_5x5mm_P0.5mm_EP3.1x3.1mm', 'kicadSymbolDatasheet': 'https://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT4222H.pdf', 'kicadSymbolki_keywords': 'USB SPI I2C FTDI Bridge Converter Interface', 'kicadSymbolki_description': 'USB 2.0 to Quad SPI or I2C Bridge, VQFN-32', 'kicadSymbolki_fp_filters': 'VQFN*5x5mm*P0.5mm*'}]|
+|name|name|Interface_USB : FT4222HQ|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'FT4222HQ'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>VQFN-32-1EP_5x5mm_P0.5mm_EP3.1x3.1mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT4222H.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'USB SPI I2C FTDI Bridge Converter Interface'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'USB 2.0 to Quad SPI or I2C Bridge</td><td> VQFN-32'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'VQFN*5x5mm*P0.5mm*'</td></tr></table>]|
 ||||

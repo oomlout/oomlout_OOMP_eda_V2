@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SON-HVSON-8-1EP_3x3mm_P0.65mm_EP1.6x2.4mm|
 |Hex ID (short code)|hexID|FZKSONHVSON81EP3X3P65EP16X24|
 |name|name|Package_SON : HVSON-8-1EP_3x3mm_P0.65mm_EP1.6x2.4mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'HVSON-8-1EP_3x3mm_P0.65mm_EP1.6x2.4mm', 'description': 'HVSON, 8 Pin (https://www.nxp.com/docs/en/data-sheet/TJA1051.pdf#page=16), generated with kicad-footprint-generator ipc_noLead_generator.py', 'tags': 'HVSON NoLead', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SON.3dshapes/HVSON-8-1EP_3x3mm_P0.65mm_EP1.6x2.4mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'HVSON-8-1EP_3x3mm_P0.65mm_EP1.6x2.4mm'</td><td> 'description'</td></tr><tr><td> 'HVSON</td><td> 8 Pin (https</td></tr><tr><td>//www.nxp.com/docs/en/data-sheet/TJA1051.pdf#page=16)</td><td> generated with kicad-footprint-generator ipc_noLead_generator.py'</td><td> 'tags'</td></tr><tr><td> 'HVSON NoLead'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_SON.3dshapes/HVSON-8-1EP_3x3mm_P0.65mm_EP1.6x2.4mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

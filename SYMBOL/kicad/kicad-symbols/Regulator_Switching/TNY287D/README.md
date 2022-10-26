@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORSWITCHINGTNY287D > TNY287D
+# SZKREGULATORSWITCHINGTNY287D > Regulator_Switching : TNY287D
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-TNY287D
 - Hex ID: SZKREGULATORSWITCHINGTNY287D
-- Name: TNY287D
-- Description: TNY287D
+- Name: Regulator_Switching : TNY287D
+- Description: Regulator_Switching : TNY287D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TNY287D](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TNY287D)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGTNY287D](http://oom.lt/SZKREGULATORSWITCHINGTNY287D)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TNY287D|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-TNY287D|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGTNY287D|
-|name|name|TNY287D|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TNY284D', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TNY287D', 'kicadSymbolFootprint': 'Package_SO:PowerIntegrations_SO-8C', 'kicadSymbolDatasheet': 'https://ac-dc.power.com/sites/default/files/product-docs/tinyswitch-4_family_datasheet.pdf', 'kicadSymbolki_keywords': 'Energy-Efficient, Off-Line Switcher With Line Compensated Overload Power', 'kicadSymbolki_description': 'TinySwitch-4 Family, 18W Output Power, SO-8C', 'kicadSymbolki_fp_filters': 'PowerIntegrations?SO?8C*'}]|
+|name|name|Regulator_Switching : TNY287D|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'TNY284D'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TNY287D'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>PowerIntegrations_SO-8C'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//ac-dc.power.com/sites/default/files/product-docs/tinyswitch-4_family_datasheet.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Energy-Efficient</td><td> Off-Line Switcher With Line Compensated Overload Power'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'TinySwitch-4 Family</td><td> 18W Output Power</td><td> SO-8C'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'PowerIntegrations?SO?8C*'</td></tr></table>]|
 ||||

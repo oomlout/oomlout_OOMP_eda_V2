@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKANALOGDACAD7228ACN > AD7228ACN
+# SZKANALOGDACAD7228ACN > Analog_DAC : AD7228ACN
 
 - ID: SYMBOL-kicad-kicad-symbols-Analog_DAC-AD7228ACN
 - Hex ID: SZKANALOGDACAD7228ACN
-- Name: AD7228ACN
-- Description: AD7228ACN
+- Name: Analog_DAC : AD7228ACN
+- Description: Analog_DAC : AD7228ACN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-AD7228ACN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-AD7228ACN)
 - Short Link: [http://oom.lt/SZKANALOGDACAD7228ACN](http://oom.lt/SZKANALOGDACAD7228ACN)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AD7228ACN|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_DAC-AD7228ACN|
 |Hex ID (short code)|hexID|SZKANALOGDACAD7228ACN|
-|name|name|AD7228ACN|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'AD7228ABN', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AD7228ACN', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.analog.com/static/imported-files/data_sheets/AD7228.pdf', 'kicadSymbolki_keywords': '8bit DAC 8CH', 'kicadSymbolki_description': '8bit DAC 8 Channel, Single Reference, DIP-24', 'kicadSymbolki_fp_filters': 'PDIP* DIP*'}]|
+|name|name|Analog_DAC : AD7228ACN|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'AD7228ABN'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'AD7228ACN'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/static/imported-files/data_sheets/AD7228.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> '8bit DAC 8CH'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '8bit DAC 8 Channel</td><td> Single Reference</td><td> DIP-24'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'PDIP* DIP*'</td></tr></table>]|
 ||||

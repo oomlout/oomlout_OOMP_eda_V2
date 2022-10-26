@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTIMERLM555X > LM555xMM
+# SZKTIMERLM555X > Timer : LM555xMM
 
 - ID: SYMBOL-kicad-kicad-symbols-Timer-LM555xMM
 - Hex ID: SZKTIMERLM555X
-- Name: LM555xMM
-- Description: LM555xMM
+- Name: Timer : LM555xMM
+- Description: Timer : LM555xMM
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer-LM555xMM](http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer-LM555xMM)
 - Short Link: [http://oom.lt/SZKTIMERLM555X](http://oom.lt/SZKTIMERLM555X)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM555xMM|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Timer-LM555xMM|
 |Hex ID (short code)|hexID|SZKTIMERLM555X|
-|name|name|LM555xMM|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM555xMM', 'kicadSymbolFootprint': 'Package_SO:VSSOP-8_3.0x3.0mm_P0.65mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lm555.pdf', 'kicadSymbolki_keywords': 'single timer 555', 'kicadSymbolki_description': 'Precision Timers, 555 compatible, VSSOP-8', 'kicadSymbolki_fp_filters': '*VSSOP*3.0x3.0mm*P0.65mm*'}]|
+|name|name|Timer : LM555xMM|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LM555xMM'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>VSSOP-8_3.0x3.0mm_P0.65mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/lm555.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'single timer 555'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Precision Timers</td><td> 555 compatible</td><td> VSSOP-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> '*VSSOP*3.0x3.0mm*P0.65mm*'</td></tr></table>]|
 ||||

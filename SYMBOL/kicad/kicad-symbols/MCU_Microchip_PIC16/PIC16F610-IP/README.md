@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUMCHIPPIC16PIC16F61IP > PIC16F610-IP
+# SZKMCUMCHIPPIC16PIC16F61IP > MCU_Microchip_PIC16 : PIC16F610-IP
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F610-IP
 - Hex ID: SZKMCUMCHIPPIC16PIC16F61IP
-- Name: PIC16F610-IP
-- Description: PIC16F610-IP
+- Name: MCU_Microchip_PIC16 : PIC16F610-IP
+- Description: MCU_Microchip_PIC16 : PIC16F610-IP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F610-IP](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F610-IP)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC16PIC16F61IP](http://oom.lt/SZKMCUMCHIPPIC16PIC16F61IP)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PIC16F610-IP|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F610-IP|
 |Hex ID (short code)|hexID|SZKMCUMCHIPPIC16PIC16F61IP|
-|name|name|PIC16F610-IP|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PIC16F610-IP', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/41288F.pdf', 'kicadSymbolki_keywords': 'FLASH-Based 8-Bit CMOS Microcontroller Low Power', 'kicadSymbolki_description': '1024W FLASH, 64B SRAM, PDIP-14', 'kicadSymbolki_fp_filters': 'DIP* PDIP* SO*'}]|
+|name|name|MCU_Microchip_PIC16 : PIC16F610-IP|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'PIC16F610-IP'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/41288F.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'FLASH-Based 8-Bit CMOS Microcontroller Low Power'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '1024W FLASH</td><td> 64B SRAM</td><td> PDIP-14'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP* PDIP* SO*'</td></tr></table>]|
 ||||

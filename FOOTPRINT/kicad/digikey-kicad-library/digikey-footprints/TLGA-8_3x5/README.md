@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TLGA-8_3x5|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSTLGA83X5|
 |name|name|digikey-footprints : TLGA-8_3x5|
-|Footprint Kicad|footprintKicadDetails|{'name': 'TLGA-8_3x5', 'description': 'http://www.nxp.com/docs/en/data-sheet/MPL115A1.pdf', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'TLGA-8_3x5'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//www.nxp.com/docs/en/data-sheet/MPL115A1.pdf'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

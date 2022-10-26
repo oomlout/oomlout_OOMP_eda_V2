@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKLHLCPJ1 > HLCP-J100
+# SZKLHLCPJ1 > LED : HLCP-J100
 
 - ID: SYMBOL-kicad-kicad-symbols-LED-HLCP-J100
 - Hex ID: SZKLHLCPJ1
-- Name: HLCP-J100
-- Description: HLCP-J100
+- Name: LED : HLCP-J100
+- Description: LED : HLCP-J100
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-LED-HLCP-J100](http://oom.lt/SYMBOL-kicad-kicad-symbols-LED-HLCP-J100)
 - Short Link: [http://oom.lt/SZKLHLCPJ1](http://oom.lt/SZKLHLCPJ1)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|HLCP-J100|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-LED-HLCP-J100|
 |Hex ID (short code)|hexID|SZKLHLCPJ1|
-|name|name|HLCP-J100|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'BAR', 'kicadSymbolValue': 'HLCP-J100', 'kicadSymbolFootprint': 'Display:HLCP-J100', 'kicadSymbolDatasheet': 'https://docs.broadcom.com/docs/AV02-1798EN', 'kicadSymbolki_keywords': 'display LED array', 'kicadSymbolki_description': '10-element LED arrays, AIGaAs Red', 'kicadSymbolki_fp_filters': 'HLCP*J100*'}]|
+|name|name|LED : HLCP-J100|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'BAR'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'HLCP-J100'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Display</td></tr><tr><td>HLCP-J100'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//docs.broadcom.com/docs/AV02-1798EN'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'display LED array'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '10-element LED arrays</td><td> AIGaAs Red'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'HLCP*J100*'</td></tr></table>]|
 ||||

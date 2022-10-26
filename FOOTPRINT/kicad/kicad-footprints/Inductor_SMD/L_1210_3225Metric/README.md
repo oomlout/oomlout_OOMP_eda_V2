@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_1210_3225Metric|
 |Hex ID (short code)|hexID|FZKINDUCTORSML1213225METRIC|
 |name|name|Inductor_SMD : L_1210_3225Metric|
-|Footprint Kicad|footprintKicadDetails|{'name': 'L_1210_3225Metric', 'description': 'Inductor SMD 1210 (3225 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator', 'tags': 'inductor', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_1210_3225Metric.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'L_1210_3225Metric'</td><td> 'description'</td></tr><tr><td> 'Inductor SMD 1210 (3225 Metric)</td><td> square (rectangular) end terminal</td><td> IPC_7351 nominal</td><td> (Body size source</td></tr><tr><td> http</td></tr><tr><td>//www.tortai-tech.com/upload/download/2011102023233369053.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'inductor'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Inductor_SMD.3dshapes/L_1210_3225Metric.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

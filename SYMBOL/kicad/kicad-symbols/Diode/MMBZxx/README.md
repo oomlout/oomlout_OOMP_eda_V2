@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDIODEBZXX > MMBZxx
+# SZKDIODEBZXX > Diode : MMBZxx
 
 - ID: SYMBOL-kicad-kicad-symbols-Diode-MMBZxx
 - Hex ID: SZKDIODEBZXX
-- Name: MMBZxx
-- Description: MMBZxx
+- Name: Diode : MMBZxx
+- Description: Diode : MMBZxx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-MMBZxx](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-MMBZxx)
 - Short Link: [http://oom.lt/SZKDIODEBZXX](http://oom.lt/SZKDIODEBZXX)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MMBZxx|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-MMBZxx|
 |Hex ID (short code)|hexID|SZKDIODEBZXX|
-|name|name|MMBZxx|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '2BZX84Cxx', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'MMBZxx', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23', 'kicadSymbolDatasheet': 'http://www.onsemi.com/pub/Collateral/MMBZ5V6ALT1-D.PDF', 'kicadSymbolki_keywords': 'dual zener diode', 'kicadSymbolki_description': 'Double Zener Diode, Common Anode, 225mW, SOT-23', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
+|name|name|Diode : MMBZxx|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> '2BZX84Cxx'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MMBZxx'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-23'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.onsemi.com/pub/Collateral/MMBZ5V6ALT1-D.PDF'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'dual zener diode'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Double Zener Diode</td><td> Common Anode</td><td> 225mW</td><td> SOT-23'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23*'</td></tr></table>]|
 ||||

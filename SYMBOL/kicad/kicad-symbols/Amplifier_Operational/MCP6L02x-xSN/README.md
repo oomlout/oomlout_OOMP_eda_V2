@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKAMPLIFIEROPERATIONALMCP6L2XXSN > MCP6L02x-xSN
+# SZKAMPLIFIEROPERATIONALMCP6L2XXSN > Amplifier_Operational : MCP6L02x-xSN
 
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-MCP6L02x-xSN
 - Hex ID: SZKAMPLIFIEROPERATIONALMCP6L2XXSN
-- Name: MCP6L02x-xSN
-- Description: MCP6L02x-xSN
+- Name: Amplifier_Operational : MCP6L02x-xSN
+- Description: Amplifier_Operational : MCP6L02x-xSN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-MCP6L02x-xSN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-MCP6L02x-xSN)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALMCP6L2XXSN](http://oom.lt/SZKAMPLIFIEROPERATIONALMCP6L2XXSN)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MCP6L02x-xSN|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Operational-MCP6L02x-xSN|
 |Hex ID (short code)|hexID|SZKAMPLIFIEROPERATIONALMCP6L2XXSN|
-|name|name|MCP6L02x-xSN|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'NCS2325D', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MCP6L02x-xSN', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/devicedoc/22140b.pdf', 'kicadSymbolki_keywords': 'opamp vfa r2r rtr', 'kicadSymbolki_description': 'Dual, 1 MHz, 85µA, Rail-to-Rail input and output SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm*'}]|
+|name|name|Amplifier_Operational : MCP6L02x-xSN|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'NCS2325D'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MCP6L02x-xSN'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-8_3.9x4.9mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/devicedoc/22140b.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'opamp vfa r2r rtr'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Dual</td><td> 1 MHz</td><td> 85µA</td><td> Rail-to-Rail input and output SOIC-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*3.9x4.9mm*P1.27mm*'</td></tr></table>]|
 ||||

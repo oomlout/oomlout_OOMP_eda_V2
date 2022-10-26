@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKSIMULATIONSPICEVAM > VAM
+# SZKSIMULATIONSPICEVAM > Simulation_SPICE : VAM
 
 - ID: SYMBOL-kicad-kicad-symbols-Simulation_SPICE-VAM
 - Hex ID: SZKSIMULATIONSPICEVAM
-- Name: VAM
-- Description: VAM
+- Name: Simulation_SPICE : VAM
+- Description: Simulation_SPICE : VAM
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Simulation_SPICE-VAM](http://oom.lt/SYMBOL-kicad-kicad-symbols-Simulation_SPICE-VAM)
 - Short Link: [http://oom.lt/SZKSIMULATIONSPICEVAM](http://oom.lt/SZKSIMULATIONSPICEVAM)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|VAM|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Simulation_SPICE-VAM|
 |Hex ID (short code)|hexID|SZKSIMULATIONSPICEVAM|
-|name|name|VAM|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'V', 'kicadSymbolValue': 'VAM', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolSpice_Netlist_Enabled': 'Y', 'kicadSymbolSpice_Primitive': 'V', 'kicadSymbolSpice_Model': 'am(1 0 100k 1k 1n)', 'kicadSymbolki_keywords': 'simulation amplitude modulated', 'kicadSymbolki_description': 'Voltage source, AM'}]|
+|name|name|Simulation_SPICE : VAM|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'V'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'VAM'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolSpice_Netlist_Enabled'</td></tr><tr><td> 'Y'</td><td> 'kicadSymbolSpice_Primitive'</td></tr><tr><td> 'V'</td><td> 'kicadSymbolSpice_Model'</td></tr><tr><td> 'am(1 0 100k 1k 1n)'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'simulation amplitude modulated'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Voltage source</td><td> AM'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKFPGAXILINXXC3S14AFG484 > XC3S1400A-FG484
+# SZKFPGAXILINXXC3S14AFG484 > FPGA_Xilinx : XC3S1400A-FG484
 
 - ID: SYMBOL-kicad-kicad-symbols-FPGA_Xilinx-XC3S1400A-FG484
 - Hex ID: SZKFPGAXILINXXC3S14AFG484
-- Name: XC3S1400A-FG484
-- Description: XC3S1400A-FG484
+- Name: FPGA_Xilinx : XC3S1400A-FG484
+- Description: FPGA_Xilinx : XC3S1400A-FG484
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx-XC3S1400A-FG484](http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx-XC3S1400A-FG484)
 - Short Link: [http://oom.lt/SZKFPGAXILINXXC3S14AFG484](http://oom.lt/SZKFPGAXILINXXC3S14AFG484)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|XC3S1400A-FG484|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-FPGA_Xilinx-XC3S1400A-FG484|
 |Hex ID (short code)|hexID|SZKFPGAXILINXXC3S14AFG484|
-|name|name|XC3S1400A-FG484|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'XC3S1400A-FG484', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_locked': '', 'kicadSymbolki_fp_filters': 'BGA484'}]|
+|name|name|FPGA_Xilinx : XC3S1400A-FG484|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'XC3S1400A-FG484'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_locked'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'BGA484'</td></tr></table>]|
 ||||

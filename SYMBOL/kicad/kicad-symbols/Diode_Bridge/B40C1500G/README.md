@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDIODEBRIDGEB4C15G > B40C1500G
+# SZKDIODEBRIDGEB4C15G > Diode_Bridge : B40C1500G
 
 - ID: SYMBOL-kicad-kicad-symbols-Diode_Bridge-B40C1500G
 - Hex ID: SZKDIODEBRIDGEB4C15G
-- Name: B40C1500G
-- Description: B40C1500G
+- Name: Diode_Bridge : B40C1500G
+- Description: Diode_Bridge : B40C1500G
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-B40C1500G](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-B40C1500G)
 - Short Link: [http://oom.lt/SZKDIODEBRIDGEB4C15G](http://oom.lt/SZKDIODEBRIDGEB4C15G)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|B40C1500G|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode_Bridge-B40C1500G|
 |Hex ID (short code)|hexID|SZKDIODEBRIDGEB4C15G|
-|name|name|B40C1500G|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'B40C1500G', 'kicadSymbolFootprint': 'Diode_THT:Diode_Bridge_Round_D9.8mm', 'kicadSymbolDatasheet': 'https://www.vishay.com/docs/88501/b40c1500g.pdf', 'kicadSymbolki_keywords': 'rectifier acdc', 'kicadSymbolki_description': 'Glass Passivated Single-Phase Bridge Rectifier, 40V Vrms, 1.5A If, WOG package', 'kicadSymbolki_fp_filters': 'D*Bridge*Round*D9.8mm*'}]|
+|name|name|Diode_Bridge : B40C1500G|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'B40C1500G'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Diode_THT</td></tr><tr><td>Diode_Bridge_Round_D9.8mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.vishay.com/docs/88501/b40c1500g.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'rectifier acdc'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Glass Passivated Single-Phase Bridge Rectifier</td><td> 40V Vrms</td><td> 1.5A If</td><td> WOG package'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'D*Bridge*Round*D9.8mm*'</td></tr></table>]|
 ||||

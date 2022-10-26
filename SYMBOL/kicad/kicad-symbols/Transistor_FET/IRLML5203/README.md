@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORFETIRLML523 > IRLML5203
+# SZKTRANSISTORFETIRLML523 > Transistor_FET : IRLML5203
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-IRLML5203
 - Hex ID: SZKTRANSISTORFETIRLML523
-- Name: IRLML5203
-- Description: IRLML5203
+- Name: Transistor_FET : IRLML5203
+- Description: Transistor_FET : IRLML5203
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRLML5203](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRLML5203)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETIRLML523](http://oom.lt/SZKTRANSISTORFETIRLML523)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IRLML5203|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-IRLML5203|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETIRLML523|
-|name|name|IRLML5203|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TP0610T', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'IRLML5203', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23', 'kicadSymbolDatasheet': 'https://www.infineon.com/dgdl/irlml5203pbf.pdf?fileId=5546d462533600a40153566868da261d', 'kicadSymbolki_keywords': 'P-Channel HEXFET MOSFET', 'kicadSymbolki_description': '-3.0A Id, -30V Vds, 98mOhm Rds, P-Channel HEXFET Power MOSFET, SOT-23', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
+|name|name|Transistor_FET : IRLML5203|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'TP0610T'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'IRLML5203'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-23'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.infineon.com/dgdl/irlml5203pbf.pdf?fileId=5546d462533600a40153566868da261d'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'P-Channel HEXFET MOSFET'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '-3.0A Id</td><td> -30V Vds</td><td> 98mOhm Rds</td><td> P-Channel HEXFET Power MOSFET</td><td> SOT-23'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23*'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKCNSCREWTERMINAL1X17 > Screw_Terminal_01x17
+# SZKCNSCREWTERMINAL1X17 > Connector : Screw_Terminal_01x17
 
 - ID: SYMBOL-kicad-kicad-symbols-Connector-Screw_Terminal_01x17
 - Hex ID: SZKCNSCREWTERMINAL1X17
-- Name: Screw_Terminal_01x17
-- Description: Screw_Terminal_01x17
+- Name: Connector : Screw_Terminal_01x17
+- Description: Connector : Screw_Terminal_01x17
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-Screw_Terminal_01x17](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-Screw_Terminal_01x17)
 - Short Link: [http://oom.lt/SZKCNSCREWTERMINAL1X17](http://oom.lt/SZKCNSCREWTERMINAL1X17)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Screw_Terminal_01x17|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-Screw_Terminal_01x17|
 |Hex ID (short code)|hexID|SZKCNSCREWTERMINAL1X17|
-|name|name|Screw_Terminal_01x17|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'Screw_Terminal_01x17', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'screw terminal', 'kicadSymbolki_description': 'Generic screw terminal, single row, 01x17, script generated (kicad-library-utils/schlib/autogen/connector/)', 'kicadSymbolki_fp_filters': 'TerminalBlock*:*'}]|
+|name|name|Connector : Screw_Terminal_01x17|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'J'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Screw_Terminal_01x17'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'screw terminal'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Generic screw terminal</td><td> single row</td><td> 01x17</td><td> script generated (kicad-library-utils/schlib/autogen/connector/)'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TerminalBlock*</td></tr><tr><td>*'</td></tr></table>]|
 ||||

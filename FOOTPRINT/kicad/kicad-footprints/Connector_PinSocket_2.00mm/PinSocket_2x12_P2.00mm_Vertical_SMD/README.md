@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_PinSocket_2.00mm-PinSocket_2x12_P2.00mm_Vertical_SMD|
 |Hex ID (short code)|hexID|FZKCNPINSO2PINSO2X12P2VERTICALSM|
 |name|name|Connector_PinSocket_2.00mm : PinSocket_2x12_P2.00mm_Vertical_SMD|
-|Footprint Kicad|footprintKicadDetails|{'name': 'PinSocket_2x12_P2.00mm_Vertical_SMD', 'description': 'surface-mounted straight socket strip, 2x12, 2.00mm pitch, double cols (from Kicad 4.0.7), script generated', 'tags': 'Surface mounted socket strip SMD 2x12 2.00mm double row', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_PinSocket_2.00mm.3dshapes/PinSocket_2x12_P2.00mm_Vertical_SMD.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'PinSocket_2x12_P2.00mm_Vertical_SMD'</td><td> 'description'</td></tr><tr><td> 'surface-mounted straight socket strip</td><td> 2x12</td><td> 2.00mm pitch</td><td> double cols (from Kicad 4.0.7)</td><td> script generated'</td><td> 'tags'</td></tr><tr><td> 'Surface mounted socket strip SMD 2x12 2.00mm double row'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_PinSocket_2.00mm.3dshapes/PinSocket_2x12_P2.00mm_Vertical_SMD.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

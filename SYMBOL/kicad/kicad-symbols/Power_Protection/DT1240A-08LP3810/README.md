@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKPOWERPROTECTIONDT124A8LP381 > DT1240A-08LP3810
+# SZKPOWERPROTECTIONDT124A8LP381 > Power_Protection : DT1240A-08LP3810
 
 - ID: SYMBOL-kicad-kicad-symbols-Power_Protection-DT1240A-08LP3810
 - Hex ID: SZKPOWERPROTECTIONDT124A8LP381
-- Name: DT1240A-08LP3810
-- Description: DT1240A-08LP3810
+- Name: Power_Protection : DT1240A-08LP3810
+- Description: Power_Protection : DT1240A-08LP3810
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-DT1240A-08LP3810](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-DT1240A-08LP3810)
 - Short Link: [http://oom.lt/SZKPOWERPROTECTIONDT124A8LP381](http://oom.lt/SZKPOWERPROTECTIONDT124A8LP381)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DT1240A-08LP3810|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Protection-DT1240A-08LP3810|
 |Hex ID (short code)|hexID|SZKPOWERPROTECTIONDT124A8LP381|
-|name|name|DT1240A-08LP3810|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'RCLAMP3328P', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'DT1240A-08LP3810', 'kicadSymbolFootprint': 'Package_DFN_QFN:UDFN-9_1.0x3.8mm_P0.5mm', 'kicadSymbolDatasheet': 'https://www.diodes.com/assets/Datasheets/DT1240A-08LP3810.pdf', 'kicadSymbolki_keywords': 'usb esd protection suppression transient', 'kicadSymbolki_description': 'Low Capacitance TVS Diode Array, 3.3V Standoff, 8 Channels, UDFN-9', 'kicadSymbolki_fp_filters': 'UDFN*1.0x3.8mm*P0.5mm*'}]|
+|name|name|Power_Protection : DT1240A-08LP3810|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'RCLAMP3328P'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'DT1240A-08LP3810'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>UDFN-9_1.0x3.8mm_P0.5mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.diodes.com/assets/Datasheets/DT1240A-08LP3810.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'usb esd protection suppression transient'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Low Capacitance TVS Diode Array</td><td> 3.3V Standoff</td><td> 8 Channels</td><td> UDFN-9'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'UDFN*1.0x3.8mm*P0.5mm*'</td></tr></table>]|
 ||||

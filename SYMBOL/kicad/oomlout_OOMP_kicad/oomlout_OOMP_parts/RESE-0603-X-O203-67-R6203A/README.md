@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE63XO2367R623A > RESE-0603-X-O203-67-R6203A
+# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE63XO2367R623A > oomlout_OOMP_parts : RESE-0603-X-O203-67-R6203A
 
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O203-67-R6203A
 - Hex ID: SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE63XO2367R623A
-- Name: RESE-0603-X-O203-67-R6203A
-- Description: RESE-0603-X-O203-67-R6203A
+- Name: oomlout_OOMP_parts : RESE-0603-X-O203-67-R6203A
+- Description: oomlout_OOMP_parts : RESE-0603-X-O203-67-R6203A
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O203-67-R6203A](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O203-67-R6203A)
 - Short Link: [http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE63XO2367R623A](http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE63XO2367R623A)
   
@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|RESE-0603-X-O203-67-R6203A|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O203-67-R6203A|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE63XO2367R623A|
-|name|name|RESE-0603-X-O203-67-R6203A|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'R', 'kicadSymbolValue': 'RESE-0603-X-O203-67-R6203A', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:RESE-0603-X-O203-67-R6203A', 'kicadSymbolDatasheet': 'oom.lt/R6203A', 'kicadSymbolki_keywords': 'R res resistor', 'kicadSymbolki_description': 'hexID: R6203A;Resistor', 'kicadSymbolki_fp_filters': 'R_*'}]|
+|name|name|oomlout_OOMP_parts : RESE-0603-X-O203-67-R6203A|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'R'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'RESE-0603-X-O203-67-R6203A'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'oomlout_OOMP_parts</td></tr><tr><td>RESE-0603-X-O203-67-R6203A'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'oom.lt/R6203A'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'R res resistor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'hexID</td></tr><tr><td> R6203A;Resistor'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'R_*'</td></tr></table>]|
 ||||

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Diode_SMD-Diode_Bridge_Diotec_SO-DIL-Slim|
 |Hex ID (short code)|hexID|FZKDIODESMDIODEBRIDGEDIOTECSODILSLIM|
 |name|name|Diode_SMD : Diode_Bridge_Diotec_SO-DIL-Slim|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Diode_Bridge_Diotec_SO-DIL-Slim', 'description': 'SMD diode bridge Diotec SO-DIL Slim, see https://diotec.com/tl_files/diotec/files/pdf/datasheets/b40fs.pdf', 'tags': 'DFS SO-DIL Slim', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/Diode_Bridge_Diotec_SO-DIL-Slim.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Diode_Bridge_Diotec_SO-DIL-Slim'</td><td> 'description'</td></tr><tr><td> 'SMD diode bridge Diotec SO-DIL Slim</td><td> see https</td></tr><tr><td>//diotec.com/tl_files/diotec/files/pdf/datasheets/b40fs.pdf'</td><td> 'tags'</td></tr><tr><td> 'DFS SO-DIL Slim'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Diode_SMD.3dshapes/Diode_Bridge_Diotec_SO-DIL-Slim.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

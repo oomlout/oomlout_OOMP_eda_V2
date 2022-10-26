@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKAMPLIFIEROPERATIONALLM318J > LM318J
+# SZKAMPLIFIEROPERATIONALLM318J > Amplifier_Operational : LM318J
 
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LM318J
 - Hex ID: SZKAMPLIFIEROPERATIONALLM318J
-- Name: LM318J
-- Description: LM318J
+- Name: Amplifier_Operational : LM318J
+- Description: Amplifier_Operational : LM318J
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LM318J](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LM318J)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALLM318J](http://oom.lt/SZKAMPLIFIEROPERATIONALLM318J)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM318J|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LM318J|
 |Hex ID (short code)|hexID|SZKAMPLIFIEROPERATIONALLM318J|
-|name|name|LM318J|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM318J', 'kicadSymbolFootprint': 'Package_DIP:DIP-14_W7.62mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lm318-n.pdf', 'kicadSymbolki_keywords': 'single opamp', 'kicadSymbolki_description': 'Operational Amplifier, DIP-14', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
+|name|name|Amplifier_Operational : LM318J|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LM318J'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>DIP-14_W7.62mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/lm318-n.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'single opamp'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Operational Amplifier</td><td> DIP-14'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W7.62mm*'</td></tr></table>]|
 ||||

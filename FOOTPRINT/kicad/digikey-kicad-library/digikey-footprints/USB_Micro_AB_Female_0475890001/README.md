@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-USB_Micro_AB_Female_0475890001|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSUMABFEMALE475891|
 |name|name|digikey-footprints : USB_Micro_AB_Female_0475890001|
-|Footprint Kicad|footprintKicadDetails|{'name': 'USB_Micro_AB_Female_0475890001', 'description': 'http://www.molex.com/pdm_docs/sd/475890001_sd.pdf', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'thru_hole', 'shape': 'oval'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'USB_Micro_AB_Female_0475890001'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//www.molex.com/pdm_docs/sd/475890001_sd.pdf'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'oval'</td></tr></table></td></tr></table>|
 ||||
 
 

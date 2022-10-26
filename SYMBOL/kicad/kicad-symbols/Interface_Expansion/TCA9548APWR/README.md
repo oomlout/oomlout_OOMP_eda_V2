@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKINTERFACEEXPANSIONTCA9548APWR > TCA9548APWR
+# SZKINTERFACEEXPANSIONTCA9548APWR > Interface_Expansion : TCA9548APWR
 
 - ID: SYMBOL-kicad-kicad-symbols-Interface_Expansion-TCA9548APWR
 - Hex ID: SZKINTERFACEEXPANSIONTCA9548APWR
-- Name: TCA9548APWR
-- Description: TCA9548APWR
+- Name: Interface_Expansion : TCA9548APWR
+- Description: Interface_Expansion : TCA9548APWR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Expansion-TCA9548APWR](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Expansion-TCA9548APWR)
 - Short Link: [http://oom.lt/SZKINTERFACEEXPANSIONTCA9548APWR](http://oom.lt/SZKINTERFACEEXPANSIONTCA9548APWR)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TCA9548APWR|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_Expansion-TCA9548APWR|
 |Hex ID (short code)|hexID|SZKINTERFACEEXPANSIONTCA9548APWR|
-|name|name|TCA9548APWR|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TCA9548APWR', 'kicadSymbolFootprint': 'Package_SO:TSSOP-24_4.4x7.8mm_P0.65mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tca9548a.pdf', 'kicadSymbolki_keywords': 'Low voltage 8-channel I2C switch with reset', 'kicadSymbolki_description': 'Low voltage 8-channel I2C switch with reset, TSSOP-24', 'kicadSymbolki_fp_filters': 'TSSOP*4.4x7.8mm*P0.65mm*'}]|
+|name|name|Interface_Expansion : TCA9548APWR|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TCA9548APWR'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>TSSOP-24_4.4x7.8mm_P0.65mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/tca9548a.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Low voltage 8-channel I2C switch with reset'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Low voltage 8-channel I2C switch with reset</td><td> TSSOP-24'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TSSOP*4.4x7.8mm*P0.65mm*'</td></tr></table>]|
 ||||

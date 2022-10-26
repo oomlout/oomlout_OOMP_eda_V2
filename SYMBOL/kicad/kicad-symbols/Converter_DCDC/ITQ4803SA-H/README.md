@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKCONITQ483SAH > ITQ4803SA-H
+# SZKCONITQ483SAH > Converter_DCDC : ITQ4803SA-H
 
 - ID: SYMBOL-kicad-kicad-symbols-Converter_DCDC-ITQ4803SA-H
 - Hex ID: SZKCONITQ483SAH
-- Name: ITQ4803SA-H
-- Description: ITQ4803SA-H
+- Name: Converter_DCDC : ITQ4803SA-H
+- Description: Converter_DCDC : ITQ4803SA-H
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-ITQ4803SA-H](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-ITQ4803SA-H)
 - Short Link: [http://oom.lt/SZKCONITQ483SAH](http://oom.lt/SZKCONITQ483SAH)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ITQ4803SA-H|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Converter_DCDC-ITQ4803SA-H|
 |Hex ID (short code)|hexID|SZKCONITQ483SAH|
-|name|name|ITQ4803SA-H|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ITQ2403SA-H', 'kicadSymbolReference': 'PS', 'kicadSymbolValue': 'ITQ4803SA-H', 'kicadSymbolFootprint': 'Converter_DCDC:Converter_DCDC_XP_POWER-ITQxxxxS-H_THT', 'kicadSymbolDatasheet': 'https://www.xppower.com/pdfs/SF_ITQ.pdf', 'kicadSymbolki_keywords': 'XP_POWER DC/DC isolated Converter module', 'kicadSymbolki_description': 'XP Power 6W, 3000 VDC Isolated DC/DC Converter Module, Single Output Voltage 3.3V, ±1500mA, 48V Input Voltage, SIP', 'kicadSymbolki_fp_filters': '*XP?POWER?ITQxxxxS?H*'}]|
+|name|name|Converter_DCDC : ITQ4803SA-H|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'ITQ2403SA-H'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'PS'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ITQ4803SA-H'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Converter_DCDC</td></tr><tr><td>Converter_DCDC_XP_POWER-ITQxxxxS-H_THT'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.xppower.com/pdfs/SF_ITQ.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'XP_POWER DC/DC isolated Converter module'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'XP Power 6W</td><td> 3000 VDC Isolated DC/DC Converter Module</td><td> Single Output Voltage 3.3V</td><td> ±1500mA</td><td> 48V Input Voltage</td><td> SIP'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> '*XP?POWER?ITQxxxxS?H*'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKSENOPTICALBP14 > BP104
+# SZKSENOPTICALBP14 > Sensor_Optical : BP104
 
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Optical-BP104
 - Hex ID: SZKSENOPTICALBP14
-- Name: BP104
-- Description: BP104
+- Name: Sensor_Optical : BP104
+- Description: Sensor_Optical : BP104
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-BP104](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-BP104)
 - Short Link: [http://oom.lt/SZKSENOPTICALBP14](http://oom.lt/SZKSENOPTICALBP14)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BP104|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Optical-BP104|
 |Hex ID (short code)|hexID|SZKSENOPTICALBP14|
-|name|name|BP104|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BPW34', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'BP104', 'kicadSymbolFootprint': 'OptoDevice:Osram_DIL2_4.3x4.65mm_P5.08mm', 'kicadSymbolDatasheet': 'http://www.vishay.com/docs/81500/81500.pdf', 'kicadSymbolki_keywords': 'opto PIN photodiode', 'kicadSymbolki_description': 'Silicon PIN Photodiode', 'kicadSymbolki_fp_filters': 'Osram*DIL2*4.3x4.65mm*P5.08*'}]|
+|name|name|Sensor_Optical : BP104|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'BPW34'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'BP104'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'OptoDevice</td></tr><tr><td>Osram_DIL2_4.3x4.65mm_P5.08mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.vishay.com/docs/81500/81500.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'opto PIN photodiode'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Silicon PIN Photodiode'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Osram*DIL2*4.3x4.65mm*P5.08*'</td></tr></table>]|
 ||||

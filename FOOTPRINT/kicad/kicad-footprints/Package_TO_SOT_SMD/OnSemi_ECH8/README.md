@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-OnSemi_ECH8|
 |Hex ID (short code)|hexID|FZKPACKAGETOSOTSMONSEMIECH8|
 |name|name|Package_TO_SOT_SMD : OnSemi_ECH8|
-|Footprint Kicad|footprintKicadDetails|{'name': 'OnSemi_ECH8', 'description': 'On Semiconductor ECH8, https://www.onsemi.com/pub/Collateral/318BF.PDF', 'tags': 'ECH8 SOT28-FL SOT-28-FL', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/OnSemi_ECH8.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'OnSemi_ECH8'</td><td> 'description'</td></tr><tr><td> 'On Semiconductor ECH8</td><td> https</td></tr><tr><td>//www.onsemi.com/pub/Collateral/318BF.PDF'</td><td> 'tags'</td></tr><tr><td> 'ECH8 SOT28-FL SOT-28-FL'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_TO_SOT_SMD.3dshapes/OnSemi_ECH8.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

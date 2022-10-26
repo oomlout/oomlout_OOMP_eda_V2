@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUTEXASLM3S6911EQC5 > LM3S6911-EQC50
+# SZKMCUTEXASLM3S6911EQC5 > MCU_Texas : LM3S6911-EQC50
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Texas-LM3S6911-EQC50
 - Hex ID: SZKMCUTEXASLM3S6911EQC5
-- Name: LM3S6911-EQC50
-- Description: LM3S6911-EQC50
+- Name: MCU_Texas : LM3S6911-EQC50
+- Description: MCU_Texas : LM3S6911-EQC50
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Texas-LM3S6911-EQC50](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Texas-LM3S6911-EQC50)
 - Short Link: [http://oom.lt/SZKMCUTEXASLM3S6911EQC5](http://oom.lt/SZKMCUTEXASLM3S6911EQC5)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM3S6911-EQC50|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Texas-LM3S6911-EQC50|
 |Hex ID (short code)|hexID|SZKMCUTEXASLM3S6911EQC5|
-|name|name|LM3S6911-EQC50|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM3S6911-EQC50', 'kicadSymbolFootprint': 'Package_QFP:LQFP-100_14x14mm_P0.5mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lm3s6911.pdf', 'kicadSymbolki_keywords': 'MCU ARM M3 Stellaris PHY ETH NRND', 'kicadSymbolki_description': 'Ti Stellaris ARM-M3 MCU Ethernet PHY, LQFP100', 'kicadSymbolki_fp_filters': 'LQFP*14x14mm*P0.5mm*'}]|
+|name|name|MCU_Texas : LM3S6911-EQC50|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LM3S6911-EQC50'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_QFP</td></tr><tr><td>LQFP-100_14x14mm_P0.5mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/lm3s6911.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'MCU ARM M3 Stellaris PHY ETH NRND'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Ti Stellaris ARM-M3 MCU Ethernet PHY</td><td> LQFP100'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'LQFP*14x14mm*P0.5mm*'</td></tr></table>]|
 ||||

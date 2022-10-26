@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKBATMANAGEMENTBQ7835DBT > BQ78350DBT
+# SZKBATMANAGEMENTBQ7835DBT > Battery_Management : BQ78350DBT
 
 - ID: SYMBOL-kicad-kicad-symbols-Battery_Management-BQ78350DBT
 - Hex ID: SZKBATMANAGEMENTBQ7835DBT
-- Name: BQ78350DBT
-- Description: BQ78350DBT
+- Name: Battery_Management : BQ78350DBT
+- Description: Battery_Management : BQ78350DBT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-BQ78350DBT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-BQ78350DBT)
 - Short Link: [http://oom.lt/SZKBATMANAGEMENTBQ7835DBT](http://oom.lt/SZKBATMANAGEMENTBQ7835DBT)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BQ78350DBT|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Battery_Management-BQ78350DBT|
 |Hex ID (short code)|hexID|SZKBATMANAGEMENTBQ7835DBT|
-|name|name|BQ78350DBT|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'BQ78350DBT', 'kicadSymbolFootprint': 'Package_SO:TSSOP-30_4.4x7.8mm_P0.5mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/bq78350.pdf', 'kicadSymbolki_keywords': 'battery, management, Li-Ion, Gauge, controller', 'kicadSymbolki_description': 'Lithium battery fuel gauge, battery management controller for BQ769x0, TSSOP-30', 'kicadSymbolki_fp_filters': 'TSSOP*4.4x7.8mm*P0.5mm*'}]|
+|name|name|Battery_Management : BQ78350DBT|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'BQ78350DBT'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>TSSOP-30_4.4x7.8mm_P0.5mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/bq78350.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'battery</td><td> management</td><td> Li-Ion</td><td> Gauge</td><td> controller'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Lithium battery fuel gauge</td><td> battery management controller for BQ769x0</td><td> TSSOP-30'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TSSOP*4.4x7.8mm*P0.5mm*'</td></tr></table>]|
 ||||

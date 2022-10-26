@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORFETIRF6713S > IRF6713S
+# SZKTRANSISTORFETIRF6713S > Transistor_FET : IRF6713S
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF6713S
 - Hex ID: SZKTRANSISTORFETIRF6713S
-- Name: IRF6713S
-- Description: IRF6713S
+- Name: Transistor_FET : IRF6713S
+- Description: Transistor_FET : IRF6713S
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF6713S](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF6713S)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETIRF6713S](http://oom.lt/SZKTRANSISTORFETIRF6713S)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IRF6713S|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF6713S|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETIRF6713S|
-|name|name|IRF6713S|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BSF030NE2LQ', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'IRF6713S', 'kicadSymbolFootprint': 'Package_DirectFET:DirectFET_SQ', 'kicadSymbolDatasheet': 'https://www.infineon.com/dgdl/irf6713spbf.pdf?fileId=5546d462533600a4015355ecfc5c1a7e', 'kicadSymbolki_keywords': 'N-Channel MOSFET', 'kicadSymbolki_description': '22A Id, 25V Vds, 3mOhm Rds, N-Channel MOSFET, DirectFET SQ', 'kicadSymbolki_fp_filters': 'DirectFET*SQ*'}]|
+|name|name|Transistor_FET : IRF6713S|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'BSF030NE2LQ'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'IRF6713S'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DirectFET</td></tr><tr><td>DirectFET_SQ'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.infineon.com/dgdl/irf6713spbf.pdf?fileId=5546d462533600a4015355ecfc5c1a7e'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'N-Channel MOSFET'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '22A Id</td><td> 25V Vds</td><td> 3mOhm Rds</td><td> N-Channel MOSFET</td><td> DirectFET SQ'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DirectFET*SQ*'</td></tr></table>]|
 ||||

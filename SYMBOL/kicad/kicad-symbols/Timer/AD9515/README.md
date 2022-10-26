@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTIMERAD9515 > AD9515
+# SZKTIMERAD9515 > Timer : AD9515
 
 - ID: SYMBOL-kicad-kicad-symbols-Timer-AD9515
 - Hex ID: SZKTIMERAD9515
-- Name: AD9515
-- Description: AD9515
+- Name: Timer : AD9515
+- Description: Timer : AD9515
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer-AD9515](http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer-AD9515)
 - Short Link: [http://oom.lt/SZKTIMERAD9515](http://oom.lt/SZKTIMERAD9515)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AD9515|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Timer-AD9515|
 |Hex ID (short code)|hexID|SZKTIMERAD9515|
-|name|name|AD9515|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AD9515', 'kicadSymbolFootprint': 'Package_CSP:LFCSP-32-1EP_5x5mm_P0.5mm_EP3.1x3.1mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/AD9515.pdf', 'kicadSymbolki_keywords': 'clock distribution LVPECL LVDS CMOS', 'kicadSymbolki_description': '1.6 GHz, 2 Outputs, Clock Distribution IC, Divider, Delay Adjust, LFCSP-32', 'kicadSymbolki_fp_filters': 'LFCSP*1EP*5x5mm*P0.5mm*'}]|
+|name|name|Timer : AD9515|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'AD9515'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_CSP</td></tr><tr><td>LFCSP-32-1EP_5x5mm_P0.5mm_EP3.1x3.1mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/AD9515.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'clock distribution LVPECL LVDS CMOS'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '1.6 GHz</td><td> 2 Outputs</td><td> Clock Distribution IC</td><td> Divider</td><td> Delay Adjust</td><td> LFCSP-32'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'LFCSP*1EP*5x5mm*P0.5mm*'</td></tr></table>]|
 ||||

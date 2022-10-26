@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMEMORYEPROM27C64 > 27C64
+# SZKMEMORYEPROM27C64 > Memory_EPROM : 27C64
 
 - ID: SYMBOL-kicad-kicad-symbols-Memory_EPROM-27C64
 - Hex ID: SZKMEMORYEPROM27C64
-- Name: 27C64
-- Description: 27C64
+- Name: Memory_EPROM : 27C64
+- Description: Memory_EPROM : 27C64
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_EPROM-27C64](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_EPROM-27C64)
 - Short Link: [http://oom.lt/SZKMEMORYEPROM27C64](http://oom.lt/SZKMEMORYEPROM27C64)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|27C64|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Memory_EPROM-27C64|
 |Hex ID (short code)|hexID|SZKMEMORYEPROM27C64|
-|name|name|27C64|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '27C64', 'kicadSymbolFootprint': 'Package_DIP:DIP-28_W15.24mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/11107M.pdf', 'kicadSymbolki_keywords': 'OTP EPROM 64KiBit', 'kicadSymbolki_description': 'OTP EPROM 64 KiBit, [Obsolete 2004-01]', 'kicadSymbolki_fp_filters': 'DIP*W15.24mm*'}]|
+|name|name|Memory_EPROM : 27C64|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> '27C64'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>DIP-28_W15.24mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/11107M.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'OTP EPROM 64KiBit'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'OTP EPROM 64 KiBit</td><td> [Obsolete 2004-01]'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W15.24mm*'</td></tr></table>]|
 ||||

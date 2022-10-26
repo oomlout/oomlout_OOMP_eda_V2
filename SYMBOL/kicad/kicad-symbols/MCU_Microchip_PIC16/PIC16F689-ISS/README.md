@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUMCHIPPIC16PIC16F689ISS > PIC16F689-ISS
+# SZKMCUMCHIPPIC16PIC16F689ISS > MCU_Microchip_PIC16 : PIC16F689-ISS
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F689-ISS
 - Hex ID: SZKMCUMCHIPPIC16PIC16F689ISS
-- Name: PIC16F689-ISS
-- Description: PIC16F689-ISS
+- Name: MCU_Microchip_PIC16 : PIC16F689-ISS
+- Description: MCU_Microchip_PIC16 : PIC16F689-ISS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F689-ISS](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F689-ISS)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC16PIC16F689ISS](http://oom.lt/SZKMCUMCHIPPIC16PIC16F689ISS)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PIC16F689-ISS|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F689-ISS|
 |Hex ID (short code)|hexID|SZKMCUMCHIPPIC16PIC16F689ISS|
-|name|name|PIC16F689-ISS|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'PIC16F687-ISS', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PIC16F689-ISS', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/41262E.pdf', 'kicadSymbolki_keywords': 'Flash-Based 8-Bit CMOS Microcontroller nanoWatt', 'kicadSymbolki_description': 'PIC16F689, 4096W Flash, 256B SRAM, 256B EEPROM, SSOP20', 'kicadSymbolki_fp_filters': 'SSOP*'}]|
+|name|name|MCU_Microchip_PIC16 : PIC16F689-ISS|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'PIC16F687-ISS'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'PIC16F689-ISS'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/41262E.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Flash-Based 8-Bit CMOS Microcontroller nanoWatt'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'PIC16F689</td><td> 4096W Flash</td><td> 256B SRAM</td><td> 256B EEPROM</td><td> SSOP20'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SSOP*'</td></tr></table>]|
 ||||

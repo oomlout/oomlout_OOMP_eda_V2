@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-18-4_Lens|
 |Hex ID (short code)|hexID|FZKSOTTO184LENS|
 |name|name|Package_TO_SOT_THT : TO-18-4_Lens|
-|Footprint Kicad|footprintKicadDetails|{'name': 'TO-18-4_Lens', 'description': 'TO-18-4_Lens, Lens', 'tags': 'TO-18-4_Lens Lens', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/TO-18-4_Lens.wrl', 'pins': {'type': 'thru_hole', 'shape': 'oval'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'TO-18-4_Lens'</td><td> 'description'</td></tr><tr><td> 'TO-18-4_Lens</td><td> Lens'</td><td> 'tags'</td></tr><tr><td> 'TO-18-4_Lens Lens'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_TO_SOT_THT.3dshapes/TO-18-4_Lens.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'oval'</td></tr></table></td></tr></table>|
 ||||
 
 

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKANALOGSWITCHDG419LEUAMAXIM > DG419LEUA_Maxim
+# SZKANALOGSWITCHDG419LEUAMAXIM > Analog_Switch : DG419LEUA_Maxim
 
 - ID: SYMBOL-kicad-kicad-symbols-Analog_Switch-DG419LEUA_Maxim
 - Hex ID: SZKANALOGSWITCHDG419LEUAMAXIM
-- Name: DG419LEUA_Maxim
-- Description: DG419LEUA_Maxim
+- Name: Analog_Switch : DG419LEUA_Maxim
+- Description: Analog_Switch : DG419LEUA_Maxim
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-DG419LEUA_Maxim](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-DG419LEUA_Maxim)
 - Short Link: [http://oom.lt/SZKANALOGSWITCHDG419LEUAMAXIM](http://oom.lt/SZKANALOGSWITCHDG419LEUAMAXIM)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DG419LEUA_Maxim|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_Switch-DG419LEUA_Maxim|
 |Hex ID (short code)|hexID|SZKANALOGSWITCHDG419LEUAMAXIM|
-|name|name|DG419LEUA_Maxim|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'DG419LEUA_Maxim', 'kicadSymbolFootprint': 'Package_SO:MSOP-8_3x3mm_P0.65mm', 'kicadSymbolDatasheet': 'https://datasheets.maximintegrated.com/en/ds/DG417-DG419.pdf', 'kicadSymbolki_keywords': 'CMOS Analog Switch', 'kicadSymbolki_description': 'Single SPDT 3V Logic Compatible CMOS Analog Switch, 35Ohm Ron, Maxim-variant without Vlogic, MSOP-8', 'kicadSymbolki_fp_filters': 'MSOP*3x3mm*P0.65mm*'}]|
+|name|name|Analog_Switch : DG419LEUA_Maxim|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'DG419LEUA_Maxim'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>MSOP-8_3x3mm_P0.65mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//datasheets.maximintegrated.com/en/ds/DG417-DG419.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'CMOS Analog Switch'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Single SPDT 3V Logic Compatible CMOS Analog Switch</td><td> 35Ohm Ron</td><td> Maxim-variant without Vlogic</td><td> MSOP-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'MSOP*3x3mm*P0.65mm*'</td></tr></table>]|
 ||||

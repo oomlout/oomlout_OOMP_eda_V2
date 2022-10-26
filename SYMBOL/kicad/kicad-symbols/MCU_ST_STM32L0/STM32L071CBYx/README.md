@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUSTSTM32LSTM32L71CBYX > STM32L071CBYx
+# SZKMCUSTSTM32LSTM32L71CBYX > MCU_ST_STM32L0 : STM32L071CBYx
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L0-STM32L071CBYx
 - Hex ID: SZKMCUSTSTM32LSTM32L71CBYX
-- Name: STM32L071CBYx
-- Description: STM32L071CBYx
+- Name: MCU_ST_STM32L0 : STM32L071CBYx
+- Description: MCU_ST_STM32L0 : STM32L071CBYx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L0-STM32L071CBYx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L0-STM32L071CBYx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32LSTM32L71CBYX](http://oom.lt/SZKMCUSTSTM32LSTM32L71CBYX)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|STM32L071CBYx|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L0-STM32L071CBYx|
 |Hex ID (short code)|hexID|SZKMCUSTSTM32LSTM32L71CBYX|
-|name|name|STM32L071CBYx|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'STM32L071CBYx', 'kicadSymbolFootprint': 'Package_CSP:ST_WLCSP-49_Die447', 'kicadSymbolDatasheet': 'http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00141136.pdf', 'kicadSymbolki_keywords': 'ARM Cortex-M0+ STM32L0 STM32L0x1', 'kicadSymbolki_description': 'ARM Cortex-M0+ MCU, 128KB flash, 20KB RAM, 32MHz, 1.65-3.6V, 40 GPIO, WLCSP-49', 'kicadSymbolki_fp_filters': 'ST_WLCSP*Die447*'}]|
+|name|name|MCU_ST_STM32L0 : STM32L071CBYx|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'STM32L071CBYx'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_CSP</td></tr><tr><td>ST_WLCSP-49_Die447'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00141136.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'ARM Cortex-M0+ STM32L0 STM32L0x1'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'ARM Cortex-M0+ MCU</td><td> 128KB flash</td><td> 20KB RAM</td><td> 32MHz</td><td> 1.65-3.6V</td><td> 40 GPIO</td><td> WLCSP-49'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'ST_WLCSP*Die447*'</td></tr></table>]|
 ||||

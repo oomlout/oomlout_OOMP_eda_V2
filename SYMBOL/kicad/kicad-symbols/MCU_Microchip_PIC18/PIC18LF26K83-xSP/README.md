@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUMCHIPPIC18PIC18LF26K83XSP > PIC18LF26K83-xSP
+# SZKMCUMCHIPPIC18PIC18LF26K83XSP > MCU_Microchip_PIC18 : PIC18LF26K83-xSP
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18LF26K83-xSP
 - Hex ID: SZKMCUMCHIPPIC18PIC18LF26K83XSP
-- Name: PIC18LF26K83-xSP
-- Description: PIC18LF26K83-xSP
+- Name: MCU_Microchip_PIC18 : PIC18LF26K83-xSP
+- Description: MCU_Microchip_PIC18 : PIC18LF26K83-xSP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18LF26K83-xSP](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18LF26K83-xSP)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC18PIC18LF26K83XSP](http://oom.lt/SZKMCUMCHIPPIC18PIC18LF26K83XSP)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PIC18LF26K83-xSP|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18LF26K83-xSP|
 |Hex ID (short code)|hexID|SZKMCUMCHIPPIC18PIC18LF26K83XSP|
-|name|name|PIC18LF26K83-xSP|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'PIC18F25K83-xSP', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PIC18LF26K83-xSP', 'kicadSymbolFootprint': 'Package_DIP:DIP-28_W7.62mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/40001943A.pdf', 'kicadSymbolki_keywords': 'microcontroller Microchip DMA WWDT DIA DCI XLP CLC CWG CCP NCO DSM CRC UART LIN DMX DALI SPI CAN I2C PPS SMT ADC2 CVD DAC', 'kicadSymbolki_description': '64K Flash, 4K RAM, 1K EEPROM, 1.8-3.6V, PIC18, low-power microcontroller with CAN, DIP-28', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
+|name|name|MCU_Microchip_PIC18 : PIC18LF26K83-xSP|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'PIC18F25K83-xSP'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'PIC18LF26K83-xSP'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>DIP-28_W7.62mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/40001943A.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'microcontroller Microchip DMA WWDT DIA DCI XLP CLC CWG CCP NCO DSM CRC UART LIN DMX DALI SPI CAN I2C PPS SMT ADC2 CVD DAC'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '64K Flash</td><td> 4K RAM</td><td> 1K EEPROM</td><td> 1.8-3.6V</td><td> PIC18</td><td> low-power microcontroller with CAN</td><td> DIP-28'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W7.62mm*'</td></tr></table>]|
 ||||

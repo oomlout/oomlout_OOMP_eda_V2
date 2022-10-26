@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKINTERFACECANLINMCP2562EP > MCP2562-E-P
+# SZKINTERFACECANLINMCP2562EP > Interface_CAN_LIN : MCP2562-E-P
 
 - ID: SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-MCP2562-E-P
 - Hex ID: SZKINTERFACECANLINMCP2562EP
-- Name: MCP2562-E-P
-- Description: MCP2562-E-P
+- Name: Interface_CAN_LIN : MCP2562-E-P
+- Description: Interface_CAN_LIN : MCP2562-E-P
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-MCP2562-E-P](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-MCP2562-E-P)
 - Short Link: [http://oom.lt/SZKINTERFACECANLINMCP2562EP](http://oom.lt/SZKINTERFACECANLINMCP2562EP)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MCP2562-E-P|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-MCP2562-E-P|
 |Hex ID (short code)|hexID|SZKINTERFACECANLINMCP2562EP|
-|name|name|MCP2562-E-P|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MCP2562-E-P', 'kicadSymbolFootprint': 'Package_DIP:DIP-8_W7.62mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/25167A.pdf', 'kicadSymbolki_keywords': 'High-Speed CAN Transceiver', 'kicadSymbolki_description': 'High-Speed CAN Transceiver, 1Mbps, 5V supply, Vio pin, -40C to +125C, DIP-8', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
+|name|name|Interface_CAN_LIN : MCP2562-E-P|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MCP2562-E-P'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>DIP-8_W7.62mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/25167A.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'High-Speed CAN Transceiver'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'High-Speed CAN Transceiver</td><td> 1Mbps</td><td> 5V supply</td><td> Vio pin</td><td> -40C to +125C</td><td> DIP-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W7.62mm*'</td></tr></table>]|
 ||||

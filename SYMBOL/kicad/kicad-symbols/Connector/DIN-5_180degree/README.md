@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKCNDIN518DEGREE > DIN-5_180degree
+# SZKCNDIN518DEGREE > Connector : DIN-5_180degree
 
 - ID: SYMBOL-kicad-kicad-symbols-Connector-DIN-5_180degree
 - Hex ID: SZKCNDIN518DEGREE
-- Name: DIN-5_180degree
-- Description: DIN-5_180degree
+- Name: Connector : DIN-5_180degree
+- Description: Connector : DIN-5_180degree
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-DIN-5_180degree](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-DIN-5_180degree)
 - Short Link: [http://oom.lt/SZKCNDIN518DEGREE](http://oom.lt/SZKCNDIN518DEGREE)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DIN-5_180degree|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-DIN-5_180degree|
 |Hex ID (short code)|hexID|SZKCNDIN518DEGREE|
-|name|name|DIN-5_180degree|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'DIN-5_180degree', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.mouser.com/ds/2/18/40_c091_abd_e-75918.pdf', 'kicadSymbolki_keywords': 'circular DIN connector stereo audio', 'kicadSymbolki_description': '5-pin DIN connector (5-pin DIN-5 stereo)', 'kicadSymbolki_fp_filters': 'DIN*'}]|
+|name|name|Connector : DIN-5_180degree|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'J'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'DIN-5_180degree'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.mouser.com/ds/2/18/40_c091_abd_e-75918.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'circular DIN connector stereo audio'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '5-pin DIN connector (5-pin DIN-5 stereo)'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIN*'</td></tr></table>]|
 ||||

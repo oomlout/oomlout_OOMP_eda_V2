@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKAMPLIFIEROPERATIONALOPA858XDSG > OPA858xDSG
+# SZKAMPLIFIEROPERATIONALOPA858XDSG > Amplifier_Operational : OPA858xDSG
 
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA858xDSG
 - Hex ID: SZKAMPLIFIEROPERATIONALOPA858XDSG
-- Name: OPA858xDSG
-- Description: OPA858xDSG
+- Name: Amplifier_Operational : OPA858xDSG
+- Description: Amplifier_Operational : OPA858xDSG
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA858xDSG](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA858xDSG)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALOPA858XDSG](http://oom.lt/SZKAMPLIFIEROPERATIONALOPA858XDSG)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|OPA858xDSG|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA858xDSG|
 |Hex ID (short code)|hexID|SZKAMPLIFIEROPERATIONALOPA858XDSG|
-|name|name|OPA858xDSG|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'OPA858xDSG', 'kicadSymbolFootprint': 'Package_SON:WSON-8-1EP_2x2mm_P0.5mm_EP0.9x1.6mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/opa858.pdf', 'kicadSymbolki_keywords': 'opamp VFA', 'kicadSymbolki_description': '5.5-GHz Gain Bandwidth Product, Gain of 7 V/V Stable, FET Input Amplifier, WSON-8', 'kicadSymbolki_fp_filters': 'WSON*1EP*2x2mm*P0.5mm*'}]|
+|name|name|Amplifier_Operational : OPA858xDSG|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'OPA858xDSG'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SON</td></tr><tr><td>WSON-8-1EP_2x2mm_P0.5mm_EP0.9x1.6mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/opa858.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'opamp VFA'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '5.5-GHz Gain Bandwidth Product</td><td> Gain of 7 V/V Stable</td><td> FET Input Amplifier</td><td> WSON-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'WSON*1EP*2x2mm*P0.5mm*'</td></tr></table>]|
 ||||

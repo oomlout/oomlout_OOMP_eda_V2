@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKAMPLIFIEROPERATIONALOPA269114 > OPA2691-14
+# SZKAMPLIFIEROPERATIONALOPA269114 > Amplifier_Operational : OPA2691-14
 
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA2691-14
 - Hex ID: SZKAMPLIFIEROPERATIONALOPA269114
-- Name: OPA2691-14
-- Description: OPA2691-14
+- Name: Amplifier_Operational : OPA2691-14
+- Description: Amplifier_Operational : OPA2691-14
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA2691-14](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA2691-14)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALOPA269114](http://oom.lt/SZKAMPLIFIEROPERATIONALOPA269114)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|OPA2691-14|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA2691-14|
 |Hex ID (short code)|hexID|SZKAMPLIFIEROPERATIONALOPA269114|
-|name|name|OPA2691-14|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'OPA2691-14', 'kicadSymbolFootprint': 'Package_SO:SOIC-14_3.9x8.7mm_P1.27mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/sbos224d/sbos224d.pdf', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'dual current feedback opamp', 'kicadSymbolki_description': 'Dual Wideband, Current-Feedback Operational Amplifier With Disable, SOIC-14', 'kicadSymbolki_fp_filters': 'SOIC*3.9x8.7mm*P1.27mm*'}]|
+|name|name|Amplifier_Operational : OPA2691-14|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'OPA2691-14'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-14_3.9x8.7mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/sbos224d/sbos224d.pdf'</td><td> 'kicadSymbolki_locked'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'dual current feedback opamp'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Dual Wideband</td><td> Current-Feedback Operational Amplifier With Disable</td><td> SOIC-14'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*3.9x8.7mm*P1.27mm*'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORSWITCHINGTPS5422DDC > TPS54202DDC
+# SZKREGULATORSWITCHINGTPS5422DDC > Regulator_Switching : TPS54202DDC
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS54202DDC
 - Hex ID: SZKREGULATORSWITCHINGTPS5422DDC
-- Name: TPS54202DDC
-- Description: TPS54202DDC
+- Name: Regulator_Switching : TPS54202DDC
+- Description: Regulator_Switching : TPS54202DDC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS54202DDC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS54202DDC)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGTPS5422DDC](http://oom.lt/SZKREGULATORSWITCHINGTPS5422DDC)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TPS54202DDC|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS54202DDC|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGTPS5422DDC|
-|name|name|TPS54202DDC|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TPS54302', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TPS54202DDC', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-6', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tps54202.pdf', 'kicadSymbolki_keywords': 'switching buck converter power-supply voltage regulator emi spread spectrum', 'kicadSymbolki_description': '2A, 4.5 to 28V Input, EMI Friendly integrated switch synchronous step-down regulator, pulse-skipping, SOT-23-6', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
+|name|name|Regulator_Switching : TPS54202DDC|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'TPS54302'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TPS54202DDC'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-23-6'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/tps54202.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'switching buck converter power-supply voltage regulator emi spread spectrum'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '2A</td><td> 4.5 to 28V Input</td><td> EMI Friendly integrated switch synchronous step-down regulator</td><td> pulse-skipping</td><td> SOT-23-6'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23*'</td></tr></table>]|
 ||||

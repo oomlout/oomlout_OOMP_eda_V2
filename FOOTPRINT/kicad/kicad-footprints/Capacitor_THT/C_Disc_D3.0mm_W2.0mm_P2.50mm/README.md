@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-C_Disc_D3.0mm_W2.0mm_P2.50mm|
 |Hex ID (short code)|hexID|FZKCCDISCD3W2P25|
 |name|name|Capacitor_THT : C_Disc_D3.0mm_W2.0mm_P2.50mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'C_Disc_D3.0mm_W2.0mm_P2.50mm', 'description': 'C, Disc series, Radial, pin pitch=2.50mm, , diameter*width=3*2mm^2, Capacitor', 'tags': 'C Disc series Radial pin pitch 2.50mm  diameter 3mm width 2mm Capacitor', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Capacitor_THT.3dshapes/C_Disc_D3.0mm_W2.0mm_P2.50mm.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'C_Disc_D3.0mm_W2.0mm_P2.50mm'</td><td> 'description'</td></tr><tr><td> 'C</td><td> Disc series</td><td> Radial</td><td> pin pitch=2.50mm</td><td> </td><td> diameter*width=3*2mm^2</td><td> Capacitor'</td><td> 'tags'</td></tr><tr><td> 'C Disc series Radial pin pitch 2.50mm  diameter 3mm width 2mm Capacitor'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Capacitor_THT.3dshapes/C_Disc_D3.0mm_W2.0mm_P2.50mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

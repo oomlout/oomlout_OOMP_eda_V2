@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTR54BL15B5 > 5400BL15B050
+# SZKTR54BL15B5 > Transformer : 5400BL15B050
 
 - ID: SYMBOL-kicad-kicad-symbols-Transformer-5400BL15B050
 - Hex ID: SZKTR54BL15B5
-- Name: 5400BL15B050
-- Description: 5400BL15B050
+- Name: Transformer : 5400BL15B050
+- Description: Transformer : 5400BL15B050
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-5400BL15B050](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-5400BL15B050)
 - Short Link: [http://oom.lt/SZKTR54BL15B5](http://oom.lt/SZKTR54BL15B5)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|5400BL15B050|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transformer-5400BL15B050|
 |Hex ID (short code)|hexID|SZKTR54BL15B5|
-|name|name|5400BL15B050|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '5400BL15B050', 'kicadSymbolFootprint': 'RF_Converter:Balun_Johanson_5400BL15B050E', 'kicadSymbolDatasheet': 'https://www.johansontechnology.com/datasheets/5400BL15B050/5400BL15B050.pdf', 'kicadSymbolki_keywords': 'balun rf transformer', 'kicadSymbolki_description': '4.9-5.9GHz 1:1 RF Transformer, Unbalanced to Balanced', 'kicadSymbolki_fp_filters': 'Balun*Johanson*5400BL15B050E*'}]|
+|name|name|Transformer : 5400BL15B050|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> '5400BL15B050'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'RF_Converter</td></tr><tr><td>Balun_Johanson_5400BL15B050E'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.johansontechnology.com/datasheets/5400BL15B050/5400BL15B050.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'balun rf transformer'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '4.9-5.9GHz 1</td></tr><tr><td>1 RF Transformer</td><td> Unbalanced to Balanced'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Balun*Johanson*5400BL15B050E*'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORSWITCHINGTOP27VG > TOP270VG
+# SZKREGULATORSWITCHINGTOP27VG > Regulator_Switching : TOP270VG
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-TOP270VG
 - Hex ID: SZKREGULATORSWITCHINGTOP27VG
-- Name: TOP270VG
-- Description: TOP270VG
+- Name: Regulator_Switching : TOP270VG
+- Description: Regulator_Switching : TOP270VG
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TOP270VG](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TOP270VG)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGTOP27VG](http://oom.lt/SZKREGULATORSWITCHINGTOP27VG)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TOP270VG|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-TOP270VG|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGTOP27VG|
-|name|name|TOP270VG|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TOP264VG', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TOP270VG', 'kicadSymbolFootprint': 'Package_DIP:PowerIntegrations_eDIP-12B', 'kicadSymbolDatasheet': 'https://ac-dc.power.com/sites/default/files/product-docs/topswitch-jx_family_datasheet.pdf', 'kicadSymbolki_keywords': 'Integrated Off-Line Switcher with EcoSmart™ Technology', 'kicadSymbolki_description': 'TOPSwitch-JX Family, 140W Output Power, eDIP-12B', 'kicadSymbolki_fp_filters': 'PowerIntegrations?eDIP?12*'}]|
+|name|name|Regulator_Switching : TOP270VG|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'TOP264VG'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TOP270VG'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>PowerIntegrations_eDIP-12B'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//ac-dc.power.com/sites/default/files/product-docs/topswitch-jx_family_datasheet.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Integrated Off-Line Switcher with EcoSmart™ Technology'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'TOPSwitch-JX Family</td><td> 140W Output Power</td><td> eDIP-12B'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'PowerIntegrations?eDIP?12*'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDRIVERMOTORPOLOLUBREAKOUTDRV8825 > Pololu_Breakout_DRV8825
+# SZKDRIVERMOTORPOLOLUBREAKOUTDRV8825 > Driver_Motor : Pololu_Breakout_DRV8825
 
 - ID: SYMBOL-kicad-kicad-symbols-Driver_Motor-Pololu_Breakout_DRV8825
 - Hex ID: SZKDRIVERMOTORPOLOLUBREAKOUTDRV8825
-- Name: Pololu_Breakout_DRV8825
-- Description: Pololu_Breakout_DRV8825
+- Name: Driver_Motor : Pololu_Breakout_DRV8825
+- Description: Driver_Motor : Pololu_Breakout_DRV8825
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Motor-Pololu_Breakout_DRV8825](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Motor-Pololu_Breakout_DRV8825)
 - Short Link: [http://oom.lt/SZKDRIVERMOTORPOLOLUBREAKOUTDRV8825](http://oom.lt/SZKDRIVERMOTORPOLOLUBREAKOUTDRV8825)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Pololu_Breakout_DRV8825|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Driver_Motor-Pololu_Breakout_DRV8825|
 |Hex ID (short code)|hexID|SZKDRIVERMOTORPOLOLUBREAKOUTDRV8825|
-|name|name|Pololu_Breakout_DRV8825|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'A', 'kicadSymbolValue': 'Pololu_Breakout_DRV8825', 'kicadSymbolFootprint': 'Module:Pololu_Breakout-16_15.2x20.3mm', 'kicadSymbolDatasheet': 'https://www.pololu.com/product/2982', 'kicadSymbolki_keywords': 'Pololu Breakout Board Stepper Driver DRV8825', 'kicadSymbolki_description': 'Pololu Breakout Board, Stepper Driver DRV8825', 'kicadSymbolki_fp_filters': 'Pololu*Breakout*15.2x20.3mm*'}]|
+|name|name|Driver_Motor : Pololu_Breakout_DRV8825|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'A'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Pololu_Breakout_DRV8825'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Module</td></tr><tr><td>Pololu_Breakout-16_15.2x20.3mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.pololu.com/product/2982'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Pololu Breakout Board Stepper Driver DRV8825'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Pololu Breakout Board</td><td> Stepper Driver DRV8825'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Pololu*Breakout*15.2x20.3mm*'</td></tr></table>]|
 ||||

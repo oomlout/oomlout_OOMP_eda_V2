@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Hirose-Hirose_BM24_BM24-40DS-2-0.35V_2x20_P0.35mm_PowerPin2_Vertical|
 |Hex ID (short code)|hexID|FZKCNHIROSEHIROSEBM24BM244DS235V2X2P35POWERPIN2VERTICAL|
 |name|name|Connector_Hirose : Hirose_BM24_BM24-40DS-2-0.35V_2x20_P0.35mm_PowerPin2_Vertical|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Hirose_BM24_BM24-40DS-2-0.35V_2x20_P0.35mm_PowerPin2_Vertical', 'description': 'Hirose BM24 series connector, BM24-40DS/2-0.35V (https://www.hirose.com/product/en/download_file/key_name/BM24/category/Catalog/doc_file_id/47680/?file_category_id=4&item_id=50&is_series=1)', 'tags': 'connector Hirose 40pin receptacle vertical', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_Hirose.3dshapes/Hirose_BM24_BM24-40DS-2-0.35V_2x20_P0.35mm_PowerPin2_Vertical.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Hirose_BM24_BM24-40DS-2-0.35V_2x20_P0.35mm_PowerPin2_Vertical'</td><td> 'description'</td></tr><tr><td> 'Hirose BM24 series connector</td><td> BM24-40DS/2-0.35V (https</td></tr><tr><td>//www.hirose.com/product/en/download_file/key_name/BM24/category/Catalog/doc_file_id/47680/?file_category_id=4&item_id=50&is_series=1)'</td><td> 'tags'</td></tr><tr><td> 'connector Hirose 40pin receptacle vertical'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_Hirose.3dshapes/Hirose_BM24_BM24-40DS-2-0.35V_2x20_P0.35mm_PowerPin2_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

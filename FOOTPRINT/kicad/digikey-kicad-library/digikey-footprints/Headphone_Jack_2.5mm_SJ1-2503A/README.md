@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Headphone_Jack_2.5mm_SJ1-2503A|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSHEADPHONEJ25SJ1253A|
 |name|name|digikey-footprints : Headphone_Jack_2.5mm_SJ1-2503A|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Headphone_Jack_2.5mm_SJ1-2503A', 'description': 'http://www.cui.com/product/resource/sj1-2503a.pdf', 'tags': None, 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Headphone_Jack_2.5mm_SJ1-2503A'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//www.cui.com/product/resource/sj1-2503a.pdf'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

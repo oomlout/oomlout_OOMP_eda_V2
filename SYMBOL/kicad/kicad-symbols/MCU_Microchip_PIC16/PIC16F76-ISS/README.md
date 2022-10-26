@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUMCHIPPIC16PIC16F76ISS > PIC16F76-ISS
+# SZKMCUMCHIPPIC16PIC16F76ISS > MCU_Microchip_PIC16 : PIC16F76-ISS
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F76-ISS
 - Hex ID: SZKMCUMCHIPPIC16PIC16F76ISS
-- Name: PIC16F76-ISS
-- Description: PIC16F76-ISS
+- Name: MCU_Microchip_PIC16 : PIC16F76-ISS
+- Description: MCU_Microchip_PIC16 : PIC16F76-ISS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F76-ISS](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F76-ISS)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC16PIC16F76ISS](http://oom.lt/SZKMCUMCHIPPIC16PIC16F76ISS)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PIC16F76-ISS|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F76-ISS|
 |Hex ID (short code)|hexID|SZKMCUMCHIPPIC16PIC16F76ISS|
-|name|name|PIC16F76-ISS|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'PIC16F73-ISS', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PIC16F76-ISS', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/30325b.pdf', 'kicadSymbolki_keywords': 'Flash-Based 8-Bit Microcontroller', 'kicadSymbolki_description': 'PIC16F76, 8K Flash, 368B SRAM, ADC, PWM, SSOP28', 'kicadSymbolki_fp_filters': 'SSOP*'}]|
+|name|name|MCU_Microchip_PIC16 : PIC16F76-ISS|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'PIC16F73-ISS'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'PIC16F76-ISS'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/30325b.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Flash-Based 8-Bit Microcontroller'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'PIC16F76</td><td> 8K Flash</td><td> 368B SRAM</td><td> ADC</td><td> PWM</td><td> SSOP28'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SSOP*'</td></tr></table>]|
 ||||

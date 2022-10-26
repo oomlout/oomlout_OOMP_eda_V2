@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Display_7Segment-Sx39-1xxxxx|
 |Hex ID (short code)|hexID|FZKDI7SSX391XXXXX|
 |name|name|Display_7Segment : Sx39-1xxxxx|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Sx39-1xxxxx', 'description': 'Single digit 7 segment LED display in red, yellow or green colour http://www.kingbrightusa.com/images/catalog/SPEC/sa39-11ewa.pdf', 'tags': 'One digit LED 7 segment SA39-11 SC39-11 SA39-12 SC39-12', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Display_7Segment.3dshapes/Sx39-1xxxxx.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Sx39-1xxxxx'</td><td> 'description'</td></tr><tr><td> 'Single digit 7 segment LED display in red</td><td> yellow or green colour http</td></tr><tr><td>//www.kingbrightusa.com/images/catalog/SPEC/sa39-11ewa.pdf'</td><td> 'tags'</td></tr><tr><td> 'One digit LED 7 segment SA39-11 SC39-11 SA39-12 SC39-12'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Display_7Segment.3dshapes/Sx39-1xxxxx.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

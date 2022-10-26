@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Dsub-DSUB-37_Female_EdgeMount_P2.77mm|
 |Hex ID (short code)|hexID|FZKCNDSUBDSUB37FEMALEEDGEMOUNTP277|
 |name|name|Connector_Dsub : DSUB-37_Female_EdgeMount_P2.77mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'DSUB-37_Female_EdgeMount_P2.77mm', 'description': '37-pin D-Sub connector, solder-cups edge-mounted, female, x-pin-pitch 2.77mm, distance of mounting holes 63.5mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf', 'tags': '37-pin D-Sub connector edge mount solder cup female x-pin-pitch 2.77mm mounting holes distance 63.5mm', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_Dsub.3dshapes/DSUB-37_Female_EdgeMount_P2.77mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'DSUB-37_Female_EdgeMount_P2.77mm'</td><td> 'description'</td></tr><tr><td> '37-pin D-Sub connector</td><td> solder-cups edge-mounted</td><td> female</td><td> x-pin-pitch 2.77mm</td><td> distance of mounting holes 63.5mm</td><td> see https</td></tr><tr><td>//disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf'</td><td> 'tags'</td></tr><tr><td> '37-pin D-Sub connector edge mount solder cup female x-pin-pitch 2.77mm mounting holes distance 63.5mm'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_Dsub.3dshapes/DSUB-37_Female_EdgeMount_P2.77mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

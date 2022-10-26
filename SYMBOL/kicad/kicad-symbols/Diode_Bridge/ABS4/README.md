@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDIODEBRIDGEABS4 > ABS4
+# SZKDIODEBRIDGEABS4 > Diode_Bridge : ABS4
 
 - ID: SYMBOL-kicad-kicad-symbols-Diode_Bridge-ABS4
 - Hex ID: SZKDIODEBRIDGEABS4
-- Name: ABS4
-- Description: ABS4
+- Name: Diode_Bridge : ABS4
+- Description: Diode_Bridge : ABS4
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-ABS4](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-ABS4)
 - Short Link: [http://oom.lt/SZKDIODEBRIDGEABS4](http://oom.lt/SZKDIODEBRIDGEABS4)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ABS4|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode_Bridge-ABS4|
 |Hex ID (short code)|hexID|SZKDIODEBRIDGEABS4|
-|name|name|ABS4|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ABS2', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'ABS4', 'kicadSymbolFootprint': 'Diode_SMD:Diode_Bridge_Diotec_ABS', 'kicadSymbolDatasheet': 'https://diotec.com/tl_files/diotec/files/pdf/datasheets/abs2.pdf', 'kicadSymbolki_keywords': 'rectifier acdc', 'kicadSymbolki_description': 'Miniature Glass Passivated Single-Phase Surface Mount Bridge Rectifiers, 280V Vrms, 0.8A If, ABS SMD package', 'kicadSymbolki_fp_filters': 'Diode*Bridge*Diotec*ABS*'}]|
+|name|name|Diode_Bridge : ABS4|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'ABS2'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ABS4'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Diode_SMD</td></tr><tr><td>Diode_Bridge_Diotec_ABS'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//diotec.com/tl_files/diotec/files/pdf/datasheets/abs2.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'rectifier acdc'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Miniature Glass Passivated Single-Phase Surface Mount Bridge Rectifiers</td><td> 280V Vrms</td><td> 0.8A If</td><td> ABS SMD package'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Diode*Bridge*Diotec*ABS*'</td></tr></table>]|
 ||||

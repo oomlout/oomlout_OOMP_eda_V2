@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Crystal-Resonator_SMD_Murata_CSTxExxV-3Pin_3.0x1.1mm|
 |Hex ID (short code)|hexID|FZKXRSCSTXEXXV3PIN3X11|
 |name|name|Crystal : Resonator_SMD_Murata_CSTxExxV-3Pin_3.0x1.1mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Resonator_SMD_Murata_CSTxExxV-3Pin_3.0x1.1mm', 'description': 'SMD Resomator/Filter Murata CSTCE, https://www.murata.com/en-eu/products/productdata/8801162264606/SPEC-CSTNE16M0VH3C000R0.pdf', 'tags': 'SMD SMT ceramic resonator filter', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Resonator_SMD_Murata_CSTxExxV-3Pin_3.0x1.1mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Resonator_SMD_Murata_CSTxExxV-3Pin_3.0x1.1mm'</td><td> 'description'</td></tr><tr><td> 'SMD Resomator/Filter Murata CSTCE</td><td> https</td></tr><tr><td>//www.murata.com/en-eu/products/productdata/8801162264606/SPEC-CSTNE16M0VH3C000R0.pdf'</td><td> 'tags'</td></tr><tr><td> 'SMD SMT ceramic resonator filter'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Crystal.3dshapes/Resonator_SMD_Murata_CSTxExxV-3Pin_3.0x1.1mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

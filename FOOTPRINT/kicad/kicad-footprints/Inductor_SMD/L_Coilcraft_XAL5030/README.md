@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Coilcraft_XAL5030|
 |Hex ID (short code)|hexID|FZKINDUCTORSMLCOILCRAFTXAL53|
 |name|name|Inductor_SMD : L_Coilcraft_XAL5030|
-|Footprint Kicad|footprintKicadDetails|{'name': 'L_Coilcraft_XAL5030', 'description': 'L_Coilcraft_XAL5030', 'tags': 'L Coilcraft XAL5030', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Coilcraft_XAL5030.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'L_Coilcraft_XAL5030'</td><td> 'description'</td></tr><tr><td> 'L_Coilcraft_XAL5030'</td><td> 'tags'</td></tr><tr><td> 'L Coilcraft XAL5030'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Inductor_SMD.3dshapes/L_Coilcraft_XAL5030.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

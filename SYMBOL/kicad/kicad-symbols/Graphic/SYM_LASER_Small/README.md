@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKGRAPHICSYMLASERSLL > SYM_LASER_Small
+# SZKGRAPHICSYMLASERSLL > Graphic : SYM_LASER_Small
 
 - ID: SYMBOL-kicad-kicad-symbols-Graphic-SYM_LASER_Small
 - Hex ID: SZKGRAPHICSYMLASERSLL
-- Name: SYM_LASER_Small
-- Description: SYM_LASER_Small
+- Name: Graphic : SYM_LASER_Small
+- Description: Graphic : SYM_LASER_Small
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Graphic-SYM_LASER_Small](http://oom.lt/SYMBOL-kicad-kicad-symbols-Graphic-SYM_LASER_Small)
 - Short Link: [http://oom.lt/SZKGRAPHICSYMLASERSLL](http://oom.lt/SZKGRAPHICSYMLASERSLL)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SYM_LASER_Small|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Graphic-SYM_LASER_Small|
 |Hex ID (short code)|hexID|SZKGRAPHICSYMLASERSLL|
-|name|name|SYM_LASER_Small|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': '#SYM', 'kicadSymbolValue': 'SYM_LASER_Small', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'symbol logo laser warning', 'kicadSymbolki_description': 'Laser radiation warning symbol, small'}]|
+|name|name|Graphic : SYM_LASER_Small|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> '#SYM'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'SYM_LASER_Small'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'symbol logo laser warning'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Laser radiation warning symbol</td><td> small'</td></tr></table>]|
 ||||

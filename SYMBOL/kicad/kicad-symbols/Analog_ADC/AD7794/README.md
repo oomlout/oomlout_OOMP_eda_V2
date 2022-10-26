@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKANALOGADCAD7794 > AD7794
+# SZKANALOGADCAD7794 > Analog_ADC : AD7794
 
 - ID: SYMBOL-kicad-kicad-symbols-Analog_ADC-AD7794
 - Hex ID: SZKANALOGADCAD7794
-- Name: AD7794
-- Description: AD7794
+- Name: Analog_ADC : AD7794
+- Description: Analog_ADC : AD7794
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-AD7794](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-AD7794)
 - Short Link: [http://oom.lt/SZKANALOGADCAD7794](http://oom.lt/SZKANALOGADCAD7794)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AD7794|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_ADC-AD7794|
 |Hex ID (short code)|hexID|SZKANALOGADCAD7794|
-|name|name|AD7794|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AD7794', 'kicadSymbolFootprint': 'Package_SO:TSSOP-24_4.4x7.8mm_P0.65mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/AD7794_7795.pdf', 'kicadSymbolki_keywords': 'adc 6ch 24bit serial', 'kicadSymbolki_description': '24-Bit, 6-Channel Sigma-Delta ADC, TSSOP-28', 'kicadSymbolki_fp_filters': 'TSSOP*4.4x7.8mm*P0.65mm*'}]|
+|name|name|Analog_ADC : AD7794|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'AD7794'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>TSSOP-24_4.4x7.8mm_P0.65mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/AD7794_7795.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'adc 6ch 24bit serial'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '24-Bit</td><td> 6-Channel Sigma-Delta ADC</td><td> TSSOP-28'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TSSOP*4.4x7.8mm*P0.65mm*'</td></tr></table>]|
 ||||

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-QFN-32-1EP_4x4mm_P0.4mm_EP2.9x2.9mm_ThermalVias|
 |Hex ID (short code)|hexID|FZKDFNQFN321EP4X4P4EP29X29THERMALVIAS|
 |name|name|Package_DFN_QFN : QFN-32-1EP_4x4mm_P0.4mm_EP2.9x2.9mm_ThermalVias|
-|Footprint Kicad|footprintKicadDetails|{'name': 'QFN-32-1EP_4x4mm_P0.4mm_EP2.9x2.9mm_ThermalVias', 'description': 'QFN, 32 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/atmel-8153-8-and-16-bit-avr-microcontroller-xmega-e-atxmega8e5-atxmega16e5-atxmega32e5_datasheet.pdf#page=70), generated with kicad-footprint-generator ipc_noLead_generator.py', 'tags': 'QFN NoLead', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/QFN-32-1EP_4x4mm_P0.4mm_EP2.9x2.9mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'QFN-32-1EP_4x4mm_P0.4mm_EP2.9x2.9mm_ThermalVias'</td><td> 'description'</td></tr><tr><td> 'QFN</td><td> 32 Pin (http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/atmel-8153-8-and-16-bit-avr-microcontroller-xmega-e-atxmega8e5-atxmega16e5-atxmega32e5_datasheet.pdf#page=70)</td><td> generated with kicad-footprint-generator ipc_noLead_generator.py'</td><td> 'tags'</td></tr><tr><td> 'QFN NoLead'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DFN_QFN.3dshapes/QFN-32-1EP_4x4mm_P0.4mm_EP2.9x2.9mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

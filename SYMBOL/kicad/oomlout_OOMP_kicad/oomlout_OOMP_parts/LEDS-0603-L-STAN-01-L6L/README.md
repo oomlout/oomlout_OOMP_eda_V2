@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSLS63LSTAN1L6L > LEDS-0603-L-STAN-01-L6L
+# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSLS63LSTAN1L6L > oomlout_OOMP_parts : LEDS-0603-L-STAN-01-L6L
 
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-LEDS-0603-L-STAN-01-L6L
 - Hex ID: SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSLS63LSTAN1L6L
-- Name: LEDS-0603-L-STAN-01-L6L
-- Description: LEDS-0603-L-STAN-01-L6L
+- Name: oomlout_OOMP_parts : LEDS-0603-L-STAN-01-L6L
+- Description: oomlout_OOMP_parts : LEDS-0603-L-STAN-01-L6L
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-LEDS-0603-L-STAN-01-L6L](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-LEDS-0603-L-STAN-01-L6L)
 - Short Link: [http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSLS63LSTAN1L6L](http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSLS63LSTAN1L6L)
   
@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|LEDS-0603-L-STAN-01-L6L|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-LEDS-0603-L-STAN-01-L6L|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSLS63LSTAN1L6L|
-|name|name|LEDS-0603-L-STAN-01-L6L|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'LEDS-0603-L-STAN-01-L6L', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:LEDS-0603-L-STAN-01-L6L', 'kicadSymbolDatasheet': 'oom.lt/L6L', 'kicadSymbolki_keywords': 'LED diode', 'kicadSymbolki_description': 'hexID: L6L;Light emitting diode', 'kicadSymbolki_fp_filters': 'LED* LED_SMD:* LED_THT:*'}]|
+|name|name|oomlout_OOMP_parts : LEDS-0603-L-STAN-01-L6L|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LEDS-0603-L-STAN-01-L6L'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'oomlout_OOMP_parts</td></tr><tr><td>LEDS-0603-L-STAN-01-L6L'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'oom.lt/L6L'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'LED diode'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'hexID</td></tr><tr><td> L6L;Light emitting diode'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'LED* LED_SMD</td></tr><tr><td>* LED_THT</td></tr><tr><td>*'</td></tr></table>]|
 ||||

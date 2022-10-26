@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDRIVERMOTORVNH2SP3 > VNH2SP30
+# SZKDRIVERMOTORVNH2SP3 > Driver_Motor : VNH2SP30
 
 - ID: SYMBOL-kicad-kicad-symbols-Driver_Motor-VNH2SP30
 - Hex ID: SZKDRIVERMOTORVNH2SP3
-- Name: VNH2SP30
-- Description: VNH2SP30
+- Name: Driver_Motor : VNH2SP30
+- Description: Driver_Motor : VNH2SP30
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Motor-VNH2SP30](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Motor-VNH2SP30)
 - Short Link: [http://oom.lt/SZKDRIVERMOTORVNH2SP3](http://oom.lt/SZKDRIVERMOTORVNH2SP3)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|VNH2SP30|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Driver_Motor-VNH2SP30|
 |Hex ID (short code)|hexID|SZKDRIVERMOTORVNH2SP3|
-|name|name|VNH2SP30|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'VNH2SP30', 'kicadSymbolFootprint': 'Package_SO:ST_MultiPowerSO-30', 'kicadSymbolDatasheet': 'http://www.st.com/content/ccc/resource/technical/document/datasheet/group2/66/b8/f5/2c/9a/66/41/c7/CD00043711/files/CD00043711.pdf/jcr:content/translations/en.CD00043711.pdf', 'kicadSymbolki_keywords': 'full-bridge h-bridge', 'kicadSymbolki_description': 'Full Bridge Motor Driver, 41V, 30A, -40 to 150C', 'kicadSymbolki_fp_filters': 'ST*MultiPowerSO*'}]|
+|name|name|Driver_Motor : VNH2SP30|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'VNH2SP30'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>ST_MultiPowerSO-30'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.st.com/content/ccc/resource/technical/document/datasheet/group2/66/b8/f5/2c/9a/66/41/c7/CD00043711/files/CD00043711.pdf/jcr</td></tr><tr><td>content/translations/en.CD00043711.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'full-bridge h-bridge'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Full Bridge Motor Driver</td><td> 41V</td><td> 30A</td><td> -40 to 150C'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'ST*MultiPowerSO*'</td></tr></table>]|
 ||||

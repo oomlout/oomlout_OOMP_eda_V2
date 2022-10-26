@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKSENPROXIMITYITR837 > ITR8307
+# SZKSENPROXIMITYITR837 > Sensor_Proximity : ITR8307
 
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Proximity-ITR8307
 - Hex ID: SZKSENPROXIMITYITR837
-- Name: ITR8307
-- Description: ITR8307
+- Name: Sensor_Proximity : ITR8307
+- Description: Sensor_Proximity : ITR8307
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Proximity-ITR8307](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Proximity-ITR8307)
 - Short Link: [http://oom.lt/SZKSENPROXIMITYITR837](http://oom.lt/SZKSENPROXIMITYITR837)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ITR8307|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Proximity-ITR8307|
 |Hex ID (short code)|hexID|SZKSENPROXIMITYITR837|
-|name|name|ITR8307|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ITR8307', 'kicadSymbolFootprint': 'OptoDevice:Everlight_ITR8307', 'kicadSymbolDatasheet': 'http://www.everlight.com/file/ProductFile/ITR8307.pdf', 'kicadSymbolki_keywords': 'Reflective Optical Sensor Opto', 'kicadSymbolki_description': 'Subminiature Reflective Optical Sensor, SMD-package with PCB-cutout', 'kicadSymbolki_fp_filters': 'Everlight*ITR8307*'}]|
+|name|name|Sensor_Proximity : ITR8307|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ITR8307'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'OptoDevice</td></tr><tr><td>Everlight_ITR8307'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.everlight.com/file/ProductFile/ITR8307.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Reflective Optical Sensor Opto'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Subminiature Reflective Optical Sensor</td><td> SMD-package with PCB-cutout'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Everlight*ITR8307*'</td></tr></table>]|
 ||||

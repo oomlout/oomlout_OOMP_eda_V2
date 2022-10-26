@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDIODEBRIDGEKBU8K > KBU8K
+# SZKDIODEBRIDGEKBU8K > Diode_Bridge : KBU8K
 
 - ID: SYMBOL-kicad-kicad-symbols-Diode_Bridge-KBU8K
 - Hex ID: SZKDIODEBRIDGEKBU8K
-- Name: KBU8K
-- Description: KBU8K
+- Name: Diode_Bridge : KBU8K
+- Description: Diode_Bridge : KBU8K
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-KBU8K](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-KBU8K)
 - Short Link: [http://oom.lt/SZKDIODEBRIDGEKBU8K](http://oom.lt/SZKDIODEBRIDGEKBU8K)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|KBU8K|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode_Bridge-KBU8K|
 |Hex ID (short code)|hexID|SZKDIODEBRIDGEKBU8K|
-|name|name|KBU8K|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'KBU4A', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'KBU8K', 'kicadSymbolFootprint': 'Diode_THT:Diode_Bridge_Vishay_KBU', 'kicadSymbolDatasheet': 'http://www.vishay.com/docs/88656/kbu8.pdf', 'kicadSymbolki_keywords': 'rectifier acdc', 'kicadSymbolki_description': 'Single-Phase Bridge Rectifier, 560V Vrms, 8.0A If, KBU package', 'kicadSymbolki_fp_filters': 'Diode*Bridge*Vishay*KBU*'}]|
+|name|name|Diode_Bridge : KBU8K|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'KBU4A'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'KBU8K'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Diode_THT</td></tr><tr><td>Diode_Bridge_Vishay_KBU'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.vishay.com/docs/88656/kbu8.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'rectifier acdc'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Single-Phase Bridge Rectifier</td><td> 560V Vrms</td><td> 8.0A If</td><td> KBU package'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Diode*Bridge*Vishay*KBU*'</td></tr></table>]|
 ||||

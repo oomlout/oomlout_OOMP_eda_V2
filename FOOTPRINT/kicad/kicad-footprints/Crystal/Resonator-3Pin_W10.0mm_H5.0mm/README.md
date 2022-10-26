@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Crystal-Resonator-3Pin_W10.0mm_H5.0mm|
 |Hex ID (short code)|hexID|FZKXR3PINW1H5|
 |name|name|Crystal : Resonator-3Pin_W10.0mm_H5.0mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Resonator-3Pin_W10.0mm_H5.0mm', 'description': 'Ceramic Resomator/Filter 10.0x5.0mm^2 RedFrequency MG/MT/MX series, http://www.red-frequency.com/download/datenblatt/redfrequency-datenblatt-ir-zta.pdf, length*width=10.0x5.0mm^2 package, package length=10.0mm, package width=5.0mm, 3 pins', 'tags': 'THT ceramic resonator filter', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Resonator-3Pin_W10.0mm_H5.0mm.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Resonator-3Pin_W10.0mm_H5.0mm'</td><td> 'description'</td></tr><tr><td> 'Ceramic Resomator/Filter 10.0x5.0mm^2 RedFrequency MG/MT/MX series</td><td> http</td></tr><tr><td>//www.red-frequency.com/download/datenblatt/redfrequency-datenblatt-ir-zta.pdf</td><td> length*width=10.0x5.0mm^2 package</td><td> package length=10.0mm</td><td> package width=5.0mm</td><td> 3 pins'</td><td> 'tags'</td></tr><tr><td> 'THT ceramic resonator filter'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Crystal.3dshapes/Resonator-3Pin_W10.0mm_H5.0mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

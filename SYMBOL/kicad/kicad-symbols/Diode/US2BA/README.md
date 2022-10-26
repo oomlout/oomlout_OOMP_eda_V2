@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDIODEUS2BA > US2BA
+# SZKDIODEUS2BA > Diode : US2BA
 
 - ID: SYMBOL-kicad-kicad-symbols-Diode-US2BA
 - Hex ID: SZKDIODEUS2BA
-- Name: US2BA
-- Description: US2BA
+- Name: Diode : US2BA
+- Description: Diode : US2BA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-US2BA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-US2BA)
 - Short Link: [http://oom.lt/SZKDIODEUS2BA](http://oom.lt/SZKDIODEUS2BA)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|US2BA|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-US2BA|
 |Hex ID (short code)|hexID|SZKDIODEUS2BA|
-|name|name|US2BA|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MRA4003T3G', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'US2BA', 'kicadSymbolFootprint': 'Diode_SMD:D_SMA', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pub/Collateral/US2AA-D.PDF', 'kicadSymbolki_keywords': 'Super Fast', 'kicadSymbolki_description': '100V, 1.5A, General Purpose Rectifier Diode, SMA(DO-214AC)', 'kicadSymbolki_fp_filters': 'D*SMA*'}]|
+|name|name|Diode : US2BA|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'MRA4003T3G'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'US2BA'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Diode_SMD</td></tr><tr><td>D_SMA'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.onsemi.com/pub/Collateral/US2AA-D.PDF'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Super Fast'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '100V</td><td> 1.5A</td><td> General Purpose Rectifier Diode</td><td> SMA(DO-214AC)'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'D*SMA*'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUMCHIPATMEGAATMEGA649PA > ATmega6490P-A
+# SZKMCUMCHIPATMEGAATMEGA649PA > MCU_Microchip_ATmega : ATmega6490P-A
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega6490P-A
 - Hex ID: SZKMCUMCHIPATMEGAATMEGA649PA
-- Name: ATmega6490P-A
-- Description: ATmega6490P-A
+- Name: MCU_Microchip_ATmega : ATmega6490P-A
+- Description: MCU_Microchip_ATmega : ATmega6490P-A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega6490P-A](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega6490P-A)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATMEGAATMEGA649PA](http://oom.lt/SZKMCUMCHIPATMEGAATMEGA649PA)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ATmega6490P-A|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega6490P-A|
 |Hex ID (short code)|hexID|SZKMCUMCHIPATMEGAATMEGA649PA|
-|name|name|ATmega6490P-A|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ATmega3290V-8A', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ATmega6490P-A', 'kicadSymbolFootprint': 'Package_QFP:TQFP-100_14x14mm_P0.5mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/atmel-8284-8-bit-avr-microcontroller-atmega169a_pa_329a_pa_3290a_pa_649a_p_6490a_p_datasheet.pdf', 'kicadSymbolki_keywords': 'AVR 8bit Microcontroller MegaAVR', 'kicadSymbolki_description': '20MHz, 64kB Flash, 4kB SRAM, 2kB EEPROM, JTAG, TQFP-100', 'kicadSymbolki_fp_filters': 'TQFP*14x14mm*P0.5mm*'}]|
+|name|name|MCU_Microchip_ATmega : ATmega6490P-A|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'ATmega3290V-8A'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ATmega6490P-A'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_QFP</td></tr><tr><td>TQFP-100_14x14mm_P0.5mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/atmel-8284-8-bit-avr-microcontroller-atmega169a_pa_329a_pa_3290a_pa_649a_p_6490a_p_datasheet.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'AVR 8bit Microcontroller MegaAVR'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '20MHz</td><td> 64kB Flash</td><td> 4kB SRAM</td><td> 2kB EEPROM</td><td> JTAG</td><td> TQFP-100'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TQFP*14x14mm*P0.5mm*'</td></tr></table>]|
 ||||

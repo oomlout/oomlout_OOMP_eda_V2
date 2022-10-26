@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKLOGICLEVELTRANSLATORTXS18EPW > TXS0108EPW
+# SZKLOGICLEVELTRANSLATORTXS18EPW > Logic_LevelTranslator : TXS0108EPW
 
 - ID: SYMBOL-kicad-kicad-symbols-Logic_LevelTranslator-TXS0108EPW
 - Hex ID: SZKLOGICLEVELTRANSLATORTXS18EPW
-- Name: TXS0108EPW
-- Description: TXS0108EPW
+- Name: Logic_LevelTranslator : TXS0108EPW
+- Description: Logic_LevelTranslator : TXS0108EPW
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Logic_LevelTranslator-TXS0108EPW](http://oom.lt/SYMBOL-kicad-kicad-symbols-Logic_LevelTranslator-TXS0108EPW)
 - Short Link: [http://oom.lt/SZKLOGICLEVELTRANSLATORTXS18EPW](http://oom.lt/SZKLOGICLEVELTRANSLATORTXS18EPW)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TXS0108EPW|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Logic_LevelTranslator-TXS0108EPW|
 |Hex ID (short code)|hexID|SZKLOGICLEVELTRANSLATORTXS18EPW|
-|name|name|TXS0108EPW|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TXS0108EPW', 'kicadSymbolFootprint': 'Package_SO:TSSOP-20_4.4x6.5mm_P0.65mm', 'kicadSymbolDatasheet': 'www.ti.com/lit/ds/symlink/txs0108e.pdf', 'kicadSymbolki_keywords': '8-bit', 'kicadSymbolki_description': 'Bidirectional  level-shifting voltage translator, TSSOP-20', 'kicadSymbolki_fp_filters': '*SSOP*4.4x6.5mm*P0.65mm*'}]|
+|name|name|Logic_LevelTranslator : TXS0108EPW|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TXS0108EPW'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>TSSOP-20_4.4x6.5mm_P0.65mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'www.ti.com/lit/ds/symlink/txs0108e.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> '8-bit'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Bidirectional  level-shifting voltage translator</td><td> TSSOP-20'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> '*SSOP*4.4x6.5mm*P0.65mm*'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKSENHUMIDITYSI72A2 > Si7020-A20
+# SZKSENHUMIDITYSI72A2 > Sensor_Humidity : Si7020-A20
 
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Humidity-Si7020-A20
 - Hex ID: SZKSENHUMIDITYSI72A2
-- Name: Si7020-A20
-- Description: Si7020-A20
+- Name: Sensor_Humidity : Si7020-A20
+- Description: Sensor_Humidity : Si7020-A20
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Humidity-Si7020-A20](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Humidity-Si7020-A20)
 - Short Link: [http://oom.lt/SZKSENHUMIDITYSI72A2](http://oom.lt/SZKSENHUMIDITYSI72A2)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Si7020-A20|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Humidity-Si7020-A20|
 |Hex ID (short code)|hexID|SZKSENHUMIDITYSI72A2|
-|name|name|Si7020-A20|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'Si7020-A20', 'kicadSymbolFootprint': 'Package_DFN_QFN:DFN-6-1EP_3x3mm_P1mm_EP1.5x2.4mm', 'kicadSymbolDatasheet': 'https://www.silabs.com/documents/public/data-sheets/Si7020-A20.pdf', 'kicadSymbolki_keywords': 'I2C Humidity Temperature Sensor', 'kicadSymbolki_description': 'I2C Humidity and Temperature Sensor, DFN-6', 'kicadSymbolki_fp_filters': 'DFN*1EP*3x3mm*P1mm*'}]|
+|name|name|Sensor_Humidity : Si7020-A20|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Si7020-A20'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>DFN-6-1EP_3x3mm_P1mm_EP1.5x2.4mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.silabs.com/documents/public/data-sheets/Si7020-A20.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'I2C Humidity Temperature Sensor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'I2C Humidity and Temperature Sensor</td><td> DFN-6'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DFN*1EP*3x3mm*P1mm*'</td></tr></table>]|
 ||||

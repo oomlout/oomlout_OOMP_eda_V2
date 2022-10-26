@@ -29,5 +29,5 @@ NO IMAGE
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-RF_Module-Modtronix_inAir9|
 |Hex ID (short code)|hexID|FZKRFMOMODTRONIXINAIR9|
 |name|name|RF_Module : Modtronix_inAir9|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Modtronix_inAir9', 'description': 'Modtronix Wireless SX1276 LoRa Module (http://modtronix.com/img/prod/imod/inair9/inair_dimensions.gif)', 'tags': 'Modtronix LoRa inAir inAir9 SX1276 RF 915MHz 868MHz Wireless', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/RF_Module.3dshapes/Modtronix_inAir9.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Modtronix_inAir9'</td><td> 'description'</td></tr><tr><td> 'Modtronix Wireless SX1276 LoRa Module (http</td></tr><tr><td>//modtronix.com/img/prod/imod/inair9/inair_dimensions.gif)'</td><td> 'tags'</td></tr><tr><td> 'Modtronix LoRa inAir inAir9 SX1276 RF 915MHz 868MHz Wireless'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/RF_Module.3dshapes/Modtronix_inAir9.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

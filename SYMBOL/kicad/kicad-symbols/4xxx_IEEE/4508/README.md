@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZK4XXXIEEE458 > 4508
+# SZK4XXXIEEE458 > 4xxx_IEEE : 4508
 
 - ID: SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4508
 - Hex ID: SZK4XXXIEEE458
-- Name: 4508
-- Description: 4508
+- Name: 4xxx_IEEE : 4508
+- Description: 4xxx_IEEE : 4508
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4508](http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4508)
 - Short Link: [http://oom.lt/SZK4XXXIEEE458](http://oom.lt/SZK4XXXIEEE458)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|4508|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4508|
 |Hex ID (short code)|hexID|SZK4XXXIEEE458|
-|name|name|4508|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '4508', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ''}]|
+|name|name|4xxx_IEEE : 4508|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> '4508'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> ''</td></tr></table>]|
 ||||

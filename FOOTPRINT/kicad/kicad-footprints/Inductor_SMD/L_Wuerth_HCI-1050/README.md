@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Wuerth_HCI-1050|
 |Hex ID (short code)|hexID|FZKINDUCTORSMLWUERTHHCI15|
 |name|name|Inductor_SMD : L_Wuerth_HCI-1050|
-|Footprint Kicad|footprintKicadDetails|{'name': 'L_Wuerth_HCI-1050', 'description': 'Inductor, Wuerth Elektronik, Wuerth_HCI-1050, 10.2mmx10.2mm', 'tags': 'inductor Wuerth hci smd', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Wuerth_HCI-1050.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'L_Wuerth_HCI-1050'</td><td> 'description'</td></tr><tr><td> 'Inductor</td><td> Wuerth Elektronik</td><td> Wuerth_HCI-1050</td><td> 10.2mmx10.2mm'</td><td> 'tags'</td></tr><tr><td> 'inductor Wuerth hci smd'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Inductor_SMD.3dshapes/L_Wuerth_HCI-1050.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

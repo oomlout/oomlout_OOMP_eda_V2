@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKSENMAGNETICAS548A > AS5048A
+# SZKSENMAGNETICAS548A > Sensor_Magnetic : AS5048A
 
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-AS5048A
 - Hex ID: SZKSENMAGNETICAS548A
-- Name: AS5048A
-- Description: AS5048A
+- Name: Sensor_Magnetic : AS5048A
+- Description: Sensor_Magnetic : AS5048A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-AS5048A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-AS5048A)
 - Short Link: [http://oom.lt/SZKSENMAGNETICAS548A](http://oom.lt/SZKSENMAGNETICAS548A)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AS5048A|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-AS5048A|
 |Hex ID (short code)|hexID|SZKSENMAGNETICAS548A|
-|name|name|AS5048A|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AS5048A', 'kicadSymbolFootprint': 'Package_SO:TSSOP-14_4.4x5mm_P0.65mm', 'kicadSymbolDatasheet': 'https://ams.com/documents/20143/36005/AS5048_DS000298_4-00.pdf', 'kicadSymbolki_keywords': 'sensor magnetic hall position rotation spi', 'kicadSymbolki_description': 'Magnetic position sensor, 14-bit, PWM output, SPI Interface, TSSOP-14', 'kicadSymbolki_fp_filters': 'TSSOP*4.4x5mm*P0.65mm*'}]|
+|name|name|Sensor_Magnetic : AS5048A|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'AS5048A'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>TSSOP-14_4.4x5mm_P0.65mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//ams.com/documents/20143/36005/AS5048_DS000298_4-00.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'sensor magnetic hall position rotation spi'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Magnetic position sensor</td><td> 14-bit</td><td> PWM output</td><td> SPI Interface</td><td> TSSOP-14'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TSSOP*4.4x5mm*P0.65mm*'</td></tr></table>]|
 ||||

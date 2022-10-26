@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-OptoDevice-Osram_SFH225|
 |Hex ID (short code)|hexID|FZKOPOSRAMSFH225|
 |name|name|OptoDevice : Osram_SFH225|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Osram_SFH225', 'description': 'PhotoDiode, SFH225, RM2.54', 'tags': 'PhotoDiode SFH225 RM2.54', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/Osram_SFH225.wrl', 'pins': {'type': 'thru_hole', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Osram_SFH225'</td><td> 'description'</td></tr><tr><td> 'PhotoDiode</td><td> SFH225</td><td> RM2.54'</td><td> 'tags'</td></tr><tr><td> 'PhotoDiode SFH225 RM2.54'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/OptoDevice.3dshapes/Osram_SFH225.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

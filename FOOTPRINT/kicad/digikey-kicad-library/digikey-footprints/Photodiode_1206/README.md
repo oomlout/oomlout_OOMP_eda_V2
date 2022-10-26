@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Photodiode_1206|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSPHOTODIODE126|
 |name|name|digikey-footprints : Photodiode_1206|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Photodiode_1206', 'description': 'http://media.digikey.com/pdf/Data%20Sheets/Lite-On%20PDFs/LTST-C230KFKT_5-24-06.pdf', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Photodiode_1206'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//media.digikey.com/pdf/Data%20Sheets/Lite-On%20PDFs/LTST-C230KFKT_5-24-06.pdf'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

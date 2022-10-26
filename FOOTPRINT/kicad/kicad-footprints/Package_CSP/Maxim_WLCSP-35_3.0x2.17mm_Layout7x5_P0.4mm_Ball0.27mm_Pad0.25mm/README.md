@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_CSP-Maxim_WLCSP-35_3.0x2.17mm_Layout7x5_P0.4mm_Ball0.27mm_Pad0.25mm|
 |Hex ID (short code)|hexID|FZKCSPMAXIMWLCSP353X217LAYOUT7X5P4BALL27PAD25|
 |name|name|Package_CSP : Maxim_WLCSP-35_3.0x2.17mm_Layout7x5_P0.4mm_Ball0.27mm_Pad0.25mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Maxim_WLCSP-35_3.0x2.17mm_Layout7x5_P0.4mm_Ball0.27mm_Pad0.25mm', 'description': 'WLCSP-35, 2.168x2.998mm, 35 Ball, 7x5 Layout, 0.4mm Pitch, https://pdfserv.maximintegrated.com/package_dwgs/21-100489.PDF', 'tags': 'CSP 35 0.4', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_CSP.3dshapes/Maxim_WLCSP-35_3.0x2.17mm_Layout7x5_P0.4mm_Ball0.27mm_Pad0.25mm.wrl', 'pins': {'type': 'smd', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Maxim_WLCSP-35_3.0x2.17mm_Layout7x5_P0.4mm_Ball0.27mm_Pad0.25mm'</td><td> 'description'</td></tr><tr><td> 'WLCSP-35</td><td> 2.168x2.998mm</td><td> 35 Ball</td><td> 7x5 Layout</td><td> 0.4mm Pitch</td><td> https</td></tr><tr><td>//pdfserv.maximintegrated.com/package_dwgs/21-100489.PDF'</td><td> 'tags'</td></tr><tr><td> 'CSP 35 0.4'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_CSP.3dshapes/Maxim_WLCSP-35_3.0x2.17mm_Layout7x5_P0.4mm_Ball0.27mm_Pad0.25mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

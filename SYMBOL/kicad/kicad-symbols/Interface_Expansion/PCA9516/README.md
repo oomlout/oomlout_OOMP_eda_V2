@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKINTERFACEEXPANSIONPCA9516 > PCA9516
+# SZKINTERFACEEXPANSIONPCA9516 > Interface_Expansion : PCA9516
 
 - ID: SYMBOL-kicad-kicad-symbols-Interface_Expansion-PCA9516
 - Hex ID: SZKINTERFACEEXPANSIONPCA9516
-- Name: PCA9516
-- Description: PCA9516
+- Name: Interface_Expansion : PCA9516
+- Description: Interface_Expansion : PCA9516
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Expansion-PCA9516](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Expansion-PCA9516)
 - Short Link: [http://oom.lt/SZKINTERFACEEXPANSIONPCA9516](http://oom.lt/SZKINTERFACEEXPANSIONPCA9516)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PCA9516|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_Expansion-PCA9516|
 |Hex ID (short code)|hexID|SZKINTERFACEEXPANSIONPCA9516|
-|name|name|PCA9516|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PCA9516', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.nxp.com/documents/data_sheet/PCA9518.pdf', 'kicadSymbolki_keywords': 'I2C Hub', 'kicadSymbolki_description': '5 channels I2C Hub, SO/TSSOP16', 'kicadSymbolki_fp_filters': 'SO* SOIC* TSSOP*'}]|
+|name|name|Interface_Expansion : PCA9516|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'PCA9516'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.nxp.com/documents/data_sheet/PCA9518.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'I2C Hub'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '5 channels I2C Hub</td><td> SO/TSSOP16'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SO* SOIC* TSSOP*'</td></tr></table>]|
 ||||

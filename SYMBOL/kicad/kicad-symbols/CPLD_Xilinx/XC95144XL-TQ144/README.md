@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKCPLDXILINXXC95144XLTQ144 > XC95144XL-TQ144
+# SZKCPLDXILINXXC95144XLTQ144 > CPLD_Xilinx : XC95144XL-TQ144
 
 - ID: SYMBOL-kicad-kicad-symbols-CPLD_Xilinx-XC95144XL-TQ144
 - Hex ID: SZKCPLDXILINXXC95144XLTQ144
-- Name: XC95144XL-TQ144
-- Description: XC95144XL-TQ144
+- Name: CPLD_Xilinx : XC95144XL-TQ144
+- Description: CPLD_Xilinx : XC95144XL-TQ144
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-CPLD_Xilinx-XC95144XL-TQ144](http://oom.lt/SYMBOL-kicad-kicad-symbols-CPLD_Xilinx-XC95144XL-TQ144)
 - Short Link: [http://oom.lt/SZKCPLDXILINXXC95144XLTQ144](http://oom.lt/SZKCPLDXILINXXC95144XLTQ144)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|XC95144XL-TQ144|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-CPLD_Xilinx-XC95144XL-TQ144|
 |Hex ID (short code)|hexID|SZKCPLDXILINXXC95144XLTQ144|
-|name|name|XC95144XL-TQ144|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'XC95144XL-TQ144', 'kicadSymbolFootprint': 'Package_QFP:TQFP-144_20x20mm_P0.5mm', 'kicadSymbolDatasheet': 'https://www.xilinx.com/support/documentation/data_sheets/ds056.pdf', 'kicadSymbolki_keywords': 'CPLD', 'kicadSymbolki_description': 'CPLD, 144 Macrocells, 3200 Usable Gates', 'kicadSymbolki_fp_filters': 'TQFP*20x20mm*P0.5mm*'}]|
+|name|name|CPLD_Xilinx : XC95144XL-TQ144|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'XC95144XL-TQ144'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_QFP</td></tr><tr><td>TQFP-144_20x20mm_P0.5mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.xilinx.com/support/documentation/data_sheets/ds056.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'CPLD'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'CPLD</td><td> 144 Macrocells</td><td> 3200 Usable Gates'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TQFP*20x20mm*P0.5mm*'</td></tr></table>]|
 ||||

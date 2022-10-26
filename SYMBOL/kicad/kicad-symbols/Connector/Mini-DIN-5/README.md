@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKCNMDIN5 > Mini-DIN-5
+# SZKCNMDIN5 > Connector : Mini-DIN-5
 
 - ID: SYMBOL-kicad-kicad-symbols-Connector-Mini-DIN-5
 - Hex ID: SZKCNMDIN5
-- Name: Mini-DIN-5
-- Description: Mini-DIN-5
+- Name: Connector : Mini-DIN-5
+- Description: Connector : Mini-DIN-5
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-Mini-DIN-5](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-Mini-DIN-5)
 - Short Link: [http://oom.lt/SZKCNMDIN5](http://oom.lt/SZKCNMDIN5)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Mini-DIN-5|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-Mini-DIN-5|
 |Hex ID (short code)|hexID|SZKCNMDIN5|
-|name|name|Mini-DIN-5|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'Mini-DIN-5', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://service.powerdynamics.com/ec/Catalog17/Section%2011.pdf', 'kicadSymbolki_keywords': 'Mini-DIN', 'kicadSymbolki_description': '5-pin Mini-DIN connector', 'kicadSymbolki_fp_filters': 'MINI?DIN*'}]|
+|name|name|Connector : Mini-DIN-5|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'J'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Mini-DIN-5'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//service.powerdynamics.com/ec/Catalog17/Section%2011.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Mini-DIN'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '5-pin Mini-DIN connector'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'MINI?DIN*'</td></tr></table>]|
 ||||

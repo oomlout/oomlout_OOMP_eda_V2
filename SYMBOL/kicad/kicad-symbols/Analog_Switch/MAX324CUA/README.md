@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKANALOGSWITCHMAX324CUA > MAX324CUA
+# SZKANALOGSWITCHMAX324CUA > Analog_Switch : MAX324CUA
 
 - ID: SYMBOL-kicad-kicad-symbols-Analog_Switch-MAX324CUA
 - Hex ID: SZKANALOGSWITCHMAX324CUA
-- Name: MAX324CUA
-- Description: MAX324CUA
+- Name: Analog_Switch : MAX324CUA
+- Description: Analog_Switch : MAX324CUA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-MAX324CUA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-MAX324CUA)
 - Short Link: [http://oom.lt/SZKANALOGSWITCHMAX324CUA](http://oom.lt/SZKANALOGSWITCHMAX324CUA)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MAX324CUA|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_Switch-MAX324CUA|
 |Hex ID (short code)|hexID|SZKANALOGSWITCHMAX324CUA|
-|name|name|MAX324CUA|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MAX324CUA', 'kicadSymbolFootprint': 'Package_SO:MSOP-8_3x3mm_P0.65mm', 'kicadSymbolDatasheet': 'https://datasheets.maximintegrated.com/en/ds/MAX323-MAX325.pdf', 'kicadSymbolki_keywords': 'CMOS Analog Switch', 'kicadSymbolki_description': 'Dual SPST CMOS Analog Switches, normally ON, 60Ohm Ron, MSOP-8', 'kicadSymbolki_fp_filters': 'MSOP*3x3mm*P0.65mm*'}]|
+|name|name|Analog_Switch : MAX324CUA|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MAX324CUA'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>MSOP-8_3x3mm_P0.65mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//datasheets.maximintegrated.com/en/ds/MAX323-MAX325.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'CMOS Analog Switch'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Dual SPST CMOS Analog Switches</td><td> normally ON</td><td> 60Ohm Ron</td><td> MSOP-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'MSOP*3x3mm*P0.65mm*'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREFERENCEVOLTAGELM4125IM525 > LM4125IM5-2.5
+# SZKREFERENCEVOLTAGELM4125IM525 > Reference_Voltage : LM4125IM5-2.5
 
 - ID: SYMBOL-kicad-kicad-symbols-Reference_Voltage-LM4125IM5-2.5
 - Hex ID: SZKREFERENCEVOLTAGELM4125IM525
-- Name: LM4125IM5-2.5
-- Description: LM4125IM5-2.5
+- Name: Reference_Voltage : LM4125IM5-2.5
+- Description: Reference_Voltage : LM4125IM5-2.5
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-LM4125IM5-2.5](http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-LM4125IM5-2.5)
 - Short Link: [http://oom.lt/SZKREFERENCEVOLTAGELM4125IM525](http://oom.lt/SZKREFERENCEVOLTAGELM4125IM525)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM4125IM5-2.5|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Reference_Voltage-LM4125IM5-2.5|
 |Hex ID (short code)|hexID|SZKREFERENCEVOLTAGELM4125IM525|
-|name|name|LM4125IM5-2.5|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LM4125AIM5-2.5', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM4125IM5-2.5', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-5', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lm4125.pdf', 'kicadSymbolki_keywords': 'Precision Micropower Low Dropout Voltage Reference 2.5V', 'kicadSymbolki_description': '2.5V ±0.5% Precision Micropower Low Dropout Voltage Reference, SOT-23-5', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
+|name|name|Reference_Voltage : LM4125IM5-2.5|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'LM4125AIM5-2.5'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LM4125IM5-2.5'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-23-5'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/lm4125.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Precision Micropower Low Dropout Voltage Reference 2.5V'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '2.5V ±0.5% Precision Micropower Low Dropout Voltage Reference</td><td> SOT-23-5'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23*'</td></tr></table>]|
 ||||

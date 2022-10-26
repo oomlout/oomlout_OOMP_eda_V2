@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORLINEARLM2937XT > LM2937xT
+# SZKREGULATORLINEARLM2937XT > Regulator_Linear : LM2937xT
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-LM2937xT
 - Hex ID: SZKREGULATORLINEARLM2937XT
-- Name: LM2937xT
-- Description: LM2937xT
+- Name: Regulator_Linear : LM2937xT
+- Description: Regulator_Linear : LM2937xT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LM2937xT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LM2937xT)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARLM2937XT](http://oom.lt/SZKREGULATORLINEARLM2937XT)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM2937xT|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-LM2937xT|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARLM2937XT|
-|name|name|LM2937xT|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LM7805_TO220', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM2937xT', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-220-3_Vertical', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lm2937.pdf', 'kicadSymbolki_keywords': 'Voltage Regulator Low Dropuout Positive LDO', 'kicadSymbolki_description': '500-mA Low Dropout Regulator, TO-220', 'kicadSymbolki_fp_filters': 'TO?220*'}]|
+|name|name|Regulator_Linear : LM2937xT|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'LM7805_TO220'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LM2937xT'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_THT</td></tr><tr><td>TO-220-3_Vertical'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/lm2937.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Voltage Regulator Low Dropuout Positive LDO'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '500-mA Low Dropout Regulator</td><td> TO-220'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TO?220*'</td></tr></table>]|
 ||||

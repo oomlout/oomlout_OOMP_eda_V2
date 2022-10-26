@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORFETDMN24H11DS > DMN24H11DS
+# SZKTRANSISTORFETDMN24H11DS > Transistor_FET : DMN24H11DS
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-DMN24H11DS
 - Hex ID: SZKTRANSISTORFETDMN24H11DS
-- Name: DMN24H11DS
-- Description: DMN24H11DS
+- Name: Transistor_FET : DMN24H11DS
+- Description: Transistor_FET : DMN24H11DS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-DMN24H11DS](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-DMN24H11DS)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETDMN24H11DS](http://oom.lt/SZKTRANSISTORFETDMN24H11DS)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DMN24H11DS|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-DMN24H11DS|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETDMN24H11DS|
-|name|name|DMN24H11DS|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BSS138', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'DMN24H11DS', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23', 'kicadSymbolDatasheet': 'http://www.diodes.com/assets/Datasheets/DMN24H11DS.pdf', 'kicadSymbolki_keywords': 'N-Channel MOSFET', 'kicadSymbolki_description': '0.27A Id, 240V Vds, N-Channel MOSFET, SOT-23', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
+|name|name|Transistor_FET : DMN24H11DS|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'BSS138'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'DMN24H11DS'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-23'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.diodes.com/assets/Datasheets/DMN24H11DS.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'N-Channel MOSFET'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '0.27A Id</td><td> 240V Vds</td><td> N-Channel MOSFET</td><td> SOT-23'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23*'</td></tr></table>]|
 ||||

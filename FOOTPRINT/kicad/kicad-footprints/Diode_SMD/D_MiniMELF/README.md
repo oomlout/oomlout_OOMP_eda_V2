@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_MiniMELF|
 |Hex ID (short code)|hexID|FZKDIODESMDMMELF|
 |name|name|Diode_SMD : D_MiniMELF|
-|Footprint Kicad|footprintKicadDetails|{'name': 'D_MiniMELF', 'description': 'Diode Mini-MELF (SOD-80)', 'tags': 'Diode Mini-MELF (SOD-80)', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_MiniMELF.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'D_MiniMELF'</td><td> 'description'</td></tr><tr><td> 'Diode Mini-MELF (SOD-80)'</td><td> 'tags'</td></tr><tr><td> 'Diode Mini-MELF (SOD-80)'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Diode_SMD.3dshapes/D_MiniMELF.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

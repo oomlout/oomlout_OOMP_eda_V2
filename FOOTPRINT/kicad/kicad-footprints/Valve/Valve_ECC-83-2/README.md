@@ -29,5 +29,5 @@ NO IMAGE
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Valve-Valve_ECC-83-2|
 |Hex ID (short code)|hexID|FZKVAVAECC832|
 |name|name|Valve : Valve_ECC-83-2|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Valve_ECC-83-2', 'description': 'Valve ECC-83-2 flat pins', 'tags': 'Valve ECC-83-2 flat pins', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Valve.3dshapes/Valve_ECC-83-2.wrl', 'pins': {'type': 'thru_hole', 'shape': 'oval'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Valve_ECC-83-2'</td><td> 'description'</td></tr><tr><td> 'Valve ECC-83-2 flat pins'</td><td> 'tags'</td></tr><tr><td> 'Valve ECC-83-2 flat pins'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Valve.3dshapes/Valve_ECC-83-2.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'oval'</td></tr></table></td></tr></table>|
 ||||

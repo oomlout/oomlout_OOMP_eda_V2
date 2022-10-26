@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDRIVERFETHIP482XP > HIP4082xP
+# SZKDRIVERFETHIP482XP > Driver_FET : HIP4082xP
 
 - ID: SYMBOL-kicad-kicad-symbols-Driver_FET-HIP4082xP
 - Hex ID: SZKDRIVERFETHIP482XP
-- Name: HIP4082xP
-- Description: HIP4082xP
+- Name: Driver_FET : HIP4082xP
+- Description: Driver_FET : HIP4082xP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-HIP4082xP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-HIP4082xP)
 - Short Link: [http://oom.lt/SZKDRIVERFETHIP482XP](http://oom.lt/SZKDRIVERFETHIP482XP)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|HIP4082xP|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Driver_FET-HIP4082xP|
 |Hex ID (short code)|hexID|SZKDRIVERFETHIP482XP|
-|name|name|HIP4082xP|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'HIP4082xP', 'kicadSymbolFootprint': 'Package_DIP:DIP-16_W7.62mm', 'kicadSymbolDatasheet': 'https://www.renesas.com/www/doc/datasheet/hip4082.pdf', 'kicadSymbolki_keywords': 'Driver H-bridge', 'kicadSymbolki_description': '80V, 1.25A Peak Current H-Bridge FET Driver, DIP-16', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
+|name|name|Driver_FET : HIP4082xP|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'HIP4082xP'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>DIP-16_W7.62mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.renesas.com/www/doc/datasheet/hip4082.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Driver H-bridge'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '80V</td><td> 1.25A Peak Current H-Bridge FET Driver</td><td> DIP-16'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W7.62mm*'</td></tr></table>]|
 ||||

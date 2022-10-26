@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKINTERFACEEXPANSIONTCA9544A > TCA9544A
+# SZKINTERFACEEXPANSIONTCA9544A > Interface_Expansion : TCA9544A
 
 - ID: SYMBOL-kicad-kicad-symbols-Interface_Expansion-TCA9544A
 - Hex ID: SZKINTERFACEEXPANSIONTCA9544A
-- Name: TCA9544A
-- Description: TCA9544A
+- Name: Interface_Expansion : TCA9544A
+- Description: Interface_Expansion : TCA9544A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Expansion-TCA9544A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Expansion-TCA9544A)
 - Short Link: [http://oom.lt/SZKINTERFACEEXPANSIONTCA9544A](http://oom.lt/SZKINTERFACEEXPANSIONTCA9544A)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TCA9544A|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_Expansion-TCA9544A|
 |Hex ID (short code)|hexID|SZKINTERFACEEXPANSIONTCA9544A|
-|name|name|TCA9544A|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TCA9544A', 'kicadSymbolFootprint': 'Package_SO:TSSOP-20_4.4x6.5mm_P0.65mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tca9544a.pdf', 'kicadSymbolki_keywords': 'I2C Hub', 'kicadSymbolki_description': 'I2C Hub, 4 Channels, Interrupts, TSSOP-20', 'kicadSymbolki_fp_filters': 'TSSOP*4.4x6.5mm*P0.65mm*'}]|
+|name|name|Interface_Expansion : TCA9544A|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TCA9544A'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>TSSOP-20_4.4x6.5mm_P0.65mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/tca9544a.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'I2C Hub'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'I2C Hub</td><td> 4 Channels</td><td> Interrupts</td><td> TSSOP-20'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TSSOP*4.4x6.5mm*P0.65mm*'</td></tr></table>]|
 ||||

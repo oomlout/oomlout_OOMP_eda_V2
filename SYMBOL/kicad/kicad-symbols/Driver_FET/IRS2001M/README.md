@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDRIVERFETIRS21M > IRS2001M
+# SZKDRIVERFETIRS21M > Driver_FET : IRS2001M
 
 - ID: SYMBOL-kicad-kicad-symbols-Driver_FET-IRS2001M
 - Hex ID: SZKDRIVERFETIRS21M
-- Name: IRS2001M
-- Description: IRS2001M
+- Name: Driver_FET : IRS2001M
+- Description: Driver_FET : IRS2001M
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-IRS2001M](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-IRS2001M)
 - Short Link: [http://oom.lt/SZKDRIVERFETIRS21M](http://oom.lt/SZKDRIVERFETIRS21M)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IRS2001M|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Driver_FET-IRS2001M|
 |Hex ID (short code)|hexID|SZKDRIVERFETIRS21M|
-|name|name|IRS2001M|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'IRS2001M', 'kicadSymbolFootprint': 'Package_DFN_QFN:Infineon_MLPQ-16-14-1EP_4x4mm_P0.5mm', 'kicadSymbolDatasheet': 'https://www.infineon.com/dgdl/irs2001mpbf.pdf?fileId=5546d462533600a4015356759e20277c', 'kicadSymbolki_keywords': 'Gate Driver', 'kicadSymbolki_description': 'High and Low Side Driver, 200V, 290/600mA, MLPQ-14', 'kicadSymbolki_fp_filters': 'Infineon*MLPQ*EP*4x4mm*P0.5mm*'}]|
+|name|name|Driver_FET : IRS2001M|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'IRS2001M'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>Infineon_MLPQ-16-14-1EP_4x4mm_P0.5mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.infineon.com/dgdl/irs2001mpbf.pdf?fileId=5546d462533600a4015356759e20277c'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Gate Driver'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'High and Low Side Driver</td><td> 200V</td><td> 290/600mA</td><td> MLPQ-14'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Infineon*MLPQ*EP*4x4mm*P0.5mm*'</td></tr></table>]|
 ||||

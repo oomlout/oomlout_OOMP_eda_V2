@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKOCSSG82JC > SG-8002JC
+# SZKOCSSG82JC > Oscillator : SG-8002JC
 
 - ID: SYMBOL-kicad-kicad-symbols-Oscillator-SG-8002JC
 - Hex ID: SZKOCSSG82JC
-- Name: SG-8002JC
-- Description: SG-8002JC
+- Name: Oscillator : SG-8002JC
+- Description: Oscillator : SG-8002JC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-SG-8002JC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-SG-8002JC)
 - Short Link: [http://oom.lt/SZKOCSSG82JC](http://oom.lt/SZKOCSSG82JC)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SG-8002JC|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Oscillator-SG-8002JC|
 |Hex ID (short code)|hexID|SZKOCSSG82JC|
-|name|name|SG-8002JC|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'X', 'kicadSymbolValue': 'SG-8002JC', 'kicadSymbolFootprint': 'Oscillator:Oscillator_SMD_SeikoEpson_SG8002JC-4Pin_10.5x5.0mm', 'kicadSymbolDatasheet': 'https://support.epson.biz/td/api/doc_check.php?mode=dl&lang=en&Parts=SG-8002DC', 'kicadSymbolki_keywords': 'Crystal Clock Oscillator', 'kicadSymbolki_description': 'CMOS Clock Oscillator', 'kicadSymbolki_fp_filters': 'Oscillator*SMD*SeikoEpson*SG8002JC*10.5x5.0mm*'}]|
+|name|name|Oscillator : SG-8002JC|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'X'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'SG-8002JC'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Oscillator</td></tr><tr><td>Oscillator_SMD_SeikoEpson_SG8002JC-4Pin_10.5x5.0mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//support.epson.biz/td/api/doc_check.php?mode=dl&lang=en&Parts=SG-8002DC'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Crystal Clock Oscillator'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'CMOS Clock Oscillator'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Oscillator*SMD*SeikoEpson*SG8002JC*10.5x5.0mm*'</td></tr></table>]|
 ||||

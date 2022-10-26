@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-WizNet_Module_WIZ810MJ|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSWIZNETMOWIZ81MJ|
 |name|name|digikey-footprints : WizNet_Module_WIZ810MJ|
-|Footprint Kicad|footprintKicadDetails|{'name': 'WizNet_Module_WIZ810MJ', 'description': 'http://wiznethome.cafe24.com/wp-content/uploads/wiznethome/Network%20Module/WIZ8XXMJ/Document/WIZ810MJ_DS_V130E.pdf', 'tags': None, 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'WizNet_Module_WIZ810MJ'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//wiznethome.cafe24.com/wp-content/uploads/wiznethome/Network%20Module/WIZ8XXMJ/Document/WIZ810MJ_DS_V130E.pdf'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-OptoDevice-Broadcom_LGA-8_2x2mm_P0.53mm|
 |Hex ID (short code)|hexID|FZKOPBROADCOMLGA82X2P53|
 |name|name|OptoDevice : Broadcom_LGA-8_2x2mm_P0.53mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Broadcom_LGA-8_2x2mm_P0.53mm', 'description': 'Broadcom  LGA, 8 Pin (https://docs.broadcom.com/docs/AV02-4755EN), generated with kicad-footprint-generator ipc_noLead_generator.py', 'tags': 'Broadcom LGA NoLead', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/Broadcom_LGA-8_2x2mm_P0.53mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Broadcom_LGA-8_2x2mm_P0.53mm'</td><td> 'description'</td></tr><tr><td> 'Broadcom  LGA</td><td> 8 Pin (https</td></tr><tr><td>//docs.broadcom.com/docs/AV02-4755EN)</td><td> generated with kicad-footprint-generator ipc_noLead_generator.py'</td><td> 'tags'</td></tr><tr><td> 'Broadcom LGA NoLead'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/OptoDevice.3dshapes/Broadcom_LGA-8_2x2mm_P0.53mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

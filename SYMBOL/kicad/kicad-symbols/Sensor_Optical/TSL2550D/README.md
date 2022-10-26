@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKSENOPTICALTSL255D > TSL2550D
+# SZKSENOPTICALTSL255D > Sensor_Optical : TSL2550D
 
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Optical-TSL2550D
 - Hex ID: SZKSENOPTICALTSL255D
-- Name: TSL2550D
-- Description: TSL2550D
+- Name: Sensor_Optical : TSL2550D
+- Description: Sensor_Optical : TSL2550D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-TSL2550D](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-TSL2550D)
 - Short Link: [http://oom.lt/SZKSENOPTICALTSL255D](http://oom.lt/SZKSENOPTICALTSL255D)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TSL2550D|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Optical-TSL2550D|
 |Hex ID (short code)|hexID|SZKSENOPTICALTSL255D|
-|name|name|TSL2550D|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TSL2550D', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm', 'kicadSymbolDatasheet': 'http://ams.com/eng/content/download/250130/975613/142977', 'kicadSymbolki_keywords': 'opto ambient light sensor', 'kicadSymbolki_description': 'Ambient Light Sensor with SMbus Interface, SO-8 interface', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm*'}]|
+|name|name|Sensor_Optical : TSL2550D|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TSL2550D'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-8_3.9x4.9mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ams.com/eng/content/download/250130/975613/142977'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'opto ambient light sensor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Ambient Light Sensor with SMbus Interface</td><td> SO-8 interface'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*3.9x4.9mm*P1.27mm*'</td></tr></table>]|
 ||||

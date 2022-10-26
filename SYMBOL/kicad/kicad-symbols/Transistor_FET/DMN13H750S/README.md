@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORFETDMN13H75S > DMN13H750S
+# SZKTRANSISTORFETDMN13H75S > Transistor_FET : DMN13H750S
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-DMN13H750S
 - Hex ID: SZKTRANSISTORFETDMN13H75S
-- Name: DMN13H750S
-- Description: DMN13H750S
+- Name: Transistor_FET : DMN13H750S
+- Description: Transistor_FET : DMN13H750S
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-DMN13H750S](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-DMN13H750S)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETDMN13H75S](http://oom.lt/SZKTRANSISTORFETDMN13H75S)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DMN13H750S|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-DMN13H750S|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETDMN13H75S|
-|name|name|DMN13H750S|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BSS138', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'DMN13H750S', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23', 'kicadSymbolDatasheet': 'http://www.diodes.com/assets/Datasheets/DMN13H750S.pdf', 'kicadSymbolki_keywords': 'N-Channel MOSFET', 'kicadSymbolki_description': '1A Id, 130V Vds, N-Channel MOSFET, SOT-23', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
+|name|name|Transistor_FET : DMN13H750S|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'BSS138'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'DMN13H750S'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-23'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.diodes.com/assets/Datasheets/DMN13H750S.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'N-Channel MOSFET'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '1A Id</td><td> 130V Vds</td><td> N-Channel MOSFET</td><td> SOT-23'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23*'</td></tr></table>]|
 ||||

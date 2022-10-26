@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORFETIRLB8721PBF > IRLB8721PBF
+# SZKTRANSISTORFETIRLB8721PBF > Transistor_FET : IRLB8721PBF
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-IRLB8721PBF
 - Hex ID: SZKTRANSISTORFETIRLB8721PBF
-- Name: IRLB8721PBF
-- Description: IRLB8721PBF
+- Name: Transistor_FET : IRLB8721PBF
+- Description: Transistor_FET : IRLB8721PBF
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRLB8721PBF](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRLB8721PBF)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETIRLB8721PBF](http://oom.lt/SZKTRANSISTORFETIRLB8721PBF)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IRLB8721PBF|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-IRLB8721PBF|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETIRLB8721PBF|
-|name|name|IRLB8721PBF|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BUZ11', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'IRLB8721PBF', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-220-3_Vertical', 'kicadSymbolDatasheet': 'http://www.infineon.com/dgdl/irlb8721pbf.pdf?fileId=5546d462533600a40153566056732591', 'kicadSymbolki_keywords': 'N-Channel HEXFET MOSFET Logic-Level', 'kicadSymbolki_description': '62A Id, 30V Vds, 8.7 mOhm Rds, N-Channel HEXFET Power MOSFET, TO-220', 'kicadSymbolki_fp_filters': 'TO?220*'}]|
+|name|name|Transistor_FET : IRLB8721PBF|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'BUZ11'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'IRLB8721PBF'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_THT</td></tr><tr><td>TO-220-3_Vertical'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.infineon.com/dgdl/irlb8721pbf.pdf?fileId=5546d462533600a40153566056732591'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'N-Channel HEXFET MOSFET Logic-Level'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '62A Id</td><td> 30V Vds</td><td> 8.7 mOhm Rds</td><td> N-Channel HEXFET Power MOSFET</td><td> TO-220'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TO?220*'</td></tr></table>]|
 ||||

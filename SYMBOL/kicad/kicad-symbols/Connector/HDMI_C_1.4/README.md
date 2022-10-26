@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKCNHDMIC14 > HDMI_C_1.4
+# SZKCNHDMIC14 > Connector : HDMI_C_1.4
 
 - ID: SYMBOL-kicad-kicad-symbols-Connector-HDMI_C_1.4
 - Hex ID: SZKCNHDMIC14
-- Name: HDMI_C_1.4
-- Description: HDMI_C_1.4
+- Name: Connector : HDMI_C_1.4
+- Description: Connector : HDMI_C_1.4
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-HDMI_C_1.4](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-HDMI_C_1.4)
 - Short Link: [http://oom.lt/SZKCNHDMIC14](http://oom.lt/SZKCNHDMIC14)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|HDMI_C_1.4|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-HDMI_C_1.4|
 |Hex ID (short code)|hexID|SZKCNHDMIC14|
-|name|name|HDMI_C_1.4|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'HDMI_C_1.4', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://pinoutguide.com/PortableDevices/mini_hdmi_pinout.shtml', 'kicadSymbolki_keywords': 'hdmi conn', 'kicadSymbolki_description': 'HDMI 1.4+ type C connector', 'kicadSymbolki_fp_filters': 'HDMI*C*'}]|
+|name|name|Connector : HDMI_C_1.4|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'J'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'HDMI_C_1.4'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//pinoutguide.com/PortableDevices/mini_hdmi_pinout.shtml'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'hdmi conn'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'HDMI 1.4+ type C connector'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'HDMI*C*'</td></tr></table>]|
 ||||

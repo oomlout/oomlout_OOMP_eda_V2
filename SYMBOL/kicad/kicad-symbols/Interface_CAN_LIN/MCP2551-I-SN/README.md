@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKINTERFACECANLINMCP2551ISN > MCP2551-I-SN
+# SZKINTERFACECANLINMCP2551ISN > Interface_CAN_LIN : MCP2551-I-SN
 
 - ID: SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-MCP2551-I-SN
 - Hex ID: SZKINTERFACECANLINMCP2551ISN
-- Name: MCP2551-I-SN
-- Description: MCP2551-I-SN
+- Name: Interface_CAN_LIN : MCP2551-I-SN
+- Description: Interface_CAN_LIN : MCP2551-I-SN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-MCP2551-I-SN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-MCP2551-I-SN)
 - Short Link: [http://oom.lt/SZKINTERFACECANLINMCP2551ISN](http://oom.lt/SZKINTERFACECANLINMCP2551ISN)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MCP2551-I-SN|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-MCP2551-I-SN|
 |Hex ID (short code)|hexID|SZKINTERFACECANLINMCP2551ISN|
-|name|name|MCP2551-I-SN|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MCP2551-I-SN', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/devicedoc/21667d.pdf', 'kicadSymbolki_keywords': 'High-Speed CAN Transceiver', 'kicadSymbolki_description': 'High-Speed CAN Transceiver, 1Mbps, 5V supply, SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm*'}]|
+|name|name|Interface_CAN_LIN : MCP2551-I-SN|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MCP2551-I-SN'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-8_3.9x4.9mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/devicedoc/21667d.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'High-Speed CAN Transceiver'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'High-Speed CAN Transceiver</td><td> 1Mbps</td><td> 5V supply</td><td> SOIC-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*3.9x4.9mm*P1.27mm*'</td></tr></table>]|
 ||||

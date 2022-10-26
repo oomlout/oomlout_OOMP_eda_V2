@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Diode_SMD-Nexperia_CFP3_SOD-123W|
 |Hex ID (short code)|hexID|FZKDIODESMNEXPERIACFP3SOD123W|
 |name|name|Diode_SMD : Nexperia_CFP3_SOD-123W|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Nexperia_CFP3_SOD-123W', 'description': 'Nexperia CFP3 (SOD-123W), https://assets.nexperia.com/documents/outline-drawing/SOD123W.pdf', 'tags': 'CFP3 SOD-123W', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/Nexperia_CFP3_SOD-123W.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Nexperia_CFP3_SOD-123W'</td><td> 'description'</td></tr><tr><td> 'Nexperia CFP3 (SOD-123W)</td><td> https</td></tr><tr><td>//assets.nexperia.com/documents/outline-drawing/SOD123W.pdf'</td><td> 'tags'</td></tr><tr><td> 'CFP3 SOD-123W'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Diode_SMD.3dshapes/Nexperia_CFP3_SOD-123W.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKPOWERMANAGEMENTLTC4412XS6 > LTC4412xS6
+# SZKPOWERMANAGEMENTLTC4412XS6 > Power_Management : LTC4412xS6
 
 - ID: SYMBOL-kicad-kicad-symbols-Power_Management-LTC4412xS6
 - Hex ID: SZKPOWERMANAGEMENTLTC4412XS6
-- Name: LTC4412xS6
-- Description: LTC4412xS6
+- Name: Power_Management : LTC4412xS6
+- Description: Power_Management : LTC4412xS6
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-LTC4412xS6](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-LTC4412xS6)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTLTC4412XS6](http://oom.lt/SZKPOWERMANAGEMENTLTC4412XS6)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LTC4412xS6|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Management-LTC4412xS6|
 |Hex ID (short code)|hexID|SZKPOWERMANAGEMENTLTC4412XS6|
-|name|name|LTC4412xS6|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LTC4412xS6', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TSOT-23-6', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/4412fb.pdf', 'kicadSymbolki_keywords': 'ideal-diode or-ing', 'kicadSymbolki_description': 'Low Loss PowerPath Controller, TSOT-23-6', 'kicadSymbolki_fp_filters': 'TSOT?23*'}]|
+|name|name|Power_Management : LTC4412xS6|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LTC4412xS6'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>TSOT-23-6'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/4412fb.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'ideal-diode or-ing'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Low Loss PowerPath Controller</td><td> TSOT-23-6'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TSOT?23*'</td></tr></table>]|
 ||||

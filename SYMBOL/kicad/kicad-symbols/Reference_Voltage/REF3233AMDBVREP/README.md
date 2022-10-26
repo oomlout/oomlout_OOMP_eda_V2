@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREFERENCEVOLTAGEREF3233AMDBVREP > REF3233AMDBVREP
+# SZKREFERENCEVOLTAGEREF3233AMDBVREP > Reference_Voltage : REF3233AMDBVREP
 
 - ID: SYMBOL-kicad-kicad-symbols-Reference_Voltage-REF3233AMDBVREP
 - Hex ID: SZKREFERENCEVOLTAGEREF3233AMDBVREP
-- Name: REF3233AMDBVREP
-- Description: REF3233AMDBVREP
+- Name: Reference_Voltage : REF3233AMDBVREP
+- Description: Reference_Voltage : REF3233AMDBVREP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-REF3233AMDBVREP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-REF3233AMDBVREP)
 - Short Link: [http://oom.lt/SZKREFERENCEVOLTAGEREF3233AMDBVREP](http://oom.lt/SZKREFERENCEVOLTAGEREF3233AMDBVREP)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|REF3233AMDBVREP|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Reference_Voltage-REF3233AMDBVREP|
 |Hex ID (short code)|hexID|SZKREFERENCEVOLTAGEREF3233AMDBVREP|
-|name|name|REF3233AMDBVREP|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'REF3212AMDBVREP', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'REF3233AMDBVREP', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-6', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/ref3240-ep.pdf', 'kicadSymbolki_keywords': 'Micropower Precision Voltage Reference 3.3V', 'kicadSymbolki_description': '3.3V 100μA Micropower Precision Voltage Reference, SOT-23-6', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
+|name|name|Reference_Voltage : REF3233AMDBVREP|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'REF3212AMDBVREP'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'REF3233AMDBVREP'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-23-6'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/ref3240-ep.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Micropower Precision Voltage Reference 3.3V'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '3.3V 100μA Micropower Precision Voltage Reference</td><td> SOT-23-6'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23*'</td></tr></table>]|
 ||||

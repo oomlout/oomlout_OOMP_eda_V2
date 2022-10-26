@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Display-EA_eDIPTFT70-XXX|
 |Hex ID (short code)|hexID|FZKDIEAEDIPTFT7XXX|
 |name|name|Display : EA_eDIPTFT70-XXX|
-|Footprint Kicad|footprintKicadDetails|{'name': 'EA_eDIPTFT70-XXX', 'description': 'TFT-graphical display 800x480 16-bit colours http://www.lcd-module.com/fileadmin/eng/pdf/grafik/ediptft70-ae.pdf', 'tags': 'TFT-graphical display 800x480 16-bit colours and touch display', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Display.3dshapes/EA_eDIPTFT70-XXX.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'EA_eDIPTFT70-XXX'</td><td> 'description'</td></tr><tr><td> 'TFT-graphical display 800x480 16-bit colours http</td></tr><tr><td>//www.lcd-module.com/fileadmin/eng/pdf/grafik/ediptft70-ae.pdf'</td><td> 'tags'</td></tr><tr><td> 'TFT-graphical display 800x480 16-bit colours and touch display'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Display.3dshapes/EA_eDIPTFT70-XXX.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

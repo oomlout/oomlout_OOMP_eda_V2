@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_MOF0009A|
 |Hex ID (short code)|hexID|FZKDFNTEXASMOF9A|
 |name|name|Package_DFN_QFN : Texas_MOF0009A|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Texas_MOF0009A', 'description': 'Texas Instruments, QFM MOF0009A, 6x8x2mm (http://www.ti.com/lit/ml/mpsi063a/mpsi063a.pdf)', 'tags': 'ti qfm mof0009a', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Texas_MOF0009A.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Texas_MOF0009A'</td><td> 'description'</td></tr><tr><td> 'Texas Instruments</td><td> QFM MOF0009A</td><td> 6x8x2mm (http</td></tr><tr><td>//www.ti.com/lit/ml/mpsi063a/mpsi063a.pdf)'</td><td> 'tags'</td></tr><tr><td> 'ti qfm mof0009a'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DFN_QFN.3dshapes/Texas_MOF0009A.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_LGA-LGA-28_5.2x3.8mm_P0.5mm|
 |Hex ID (short code)|hexID|FZKLGALGA2852X38P5|
 |name|name|Package_LGA : LGA-28_5.2x3.8mm_P0.5mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'LGA-28_5.2x3.8mm_P0.5mm', 'description': 'LGA 28 5.2x3.8mm Pitch 0.5mm', 'tags': 'LGA 28 5.2x3.8mm Pitch 0.5mm', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_LGA.3dshapes/LGA-28_5.2x3.8mm_P0.5mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'LGA-28_5.2x3.8mm_P0.5mm'</td><td> 'description'</td></tr><tr><td> 'LGA 28 5.2x3.8mm Pitch 0.5mm'</td><td> 'tags'</td></tr><tr><td> 'LGA 28 5.2x3.8mm Pitch 0.5mm'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_LGA.3dshapes/LGA-28_5.2x3.8mm_P0.5mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

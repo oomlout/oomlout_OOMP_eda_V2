@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZK74XXIEEE74LS64 > 74LS640
+# SZK74XXIEEE74LS64 > 74xx_IEEE : 74LS640
 
 - ID: SYMBOL-kicad-kicad-symbols-74xx_IEEE-74LS640
 - Hex ID: SZK74XXIEEE74LS64
-- Name: 74LS640
-- Description: 74LS640
+- Name: 74xx_IEEE : 74LS640
+- Description: 74xx_IEEE : 74LS640
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx_IEEE-74LS640](http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx_IEEE-74LS640)
 - Short Link: [http://oom.lt/SZK74XXIEEE74LS64](http://oom.lt/SZK74XXIEEE74LS64)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74LS640|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xx_IEEE-74LS640|
 |Hex ID (short code)|hexID|SZK74XXIEEE74LS64|
-|name|name|74LS640|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '74LS620', 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74LS640', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ''}]|
+|name|name|74xx_IEEE : 74LS640|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> '74LS620'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> '74LS640'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> ''</td></tr></table>]|
 ||||

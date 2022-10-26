@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKAMPLIFIERINSTRUMENTATIONAD823 > AD8230
+# SZKAMPLIFIERINSTRUMENTATIONAD823 > Amplifier_Instrumentation : AD8230
 
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Instrumentation-AD8230
 - Hex ID: SZKAMPLIFIERINSTRUMENTATIONAD823
-- Name: AD8230
-- Description: AD8230
+- Name: Amplifier_Instrumentation : AD8230
+- Description: Amplifier_Instrumentation : AD8230
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Instrumentation-AD8230](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Instrumentation-AD8230)
 - Short Link: [http://oom.lt/SZKAMPLIFIERINSTRUMENTATIONAD823](http://oom.lt/SZKAMPLIFIERINSTRUMENTATIONAD823)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AD8230|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Instrumentation-AD8230|
 |Hex ID (short code)|hexID|SZKAMPLIFIERINSTRUMENTATIONAD823|
-|name|name|AD8230|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AD8230', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/AD8230.pdf', 'kicadSymbolki_keywords': 'single instrumentation amplifier', 'kicadSymbolki_description': '16V Rail-to-Rail, Zero-Drift, Precision Instrumentation Amplifier, SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm*'}]|
+|name|name|Amplifier_Instrumentation : AD8230|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'AD8230'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-8_3.9x4.9mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/AD8230.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'single instrumentation amplifier'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '16V Rail-to-Rail</td><td> Zero-Drift</td><td> Precision Instrumentation Amplifier</td><td> SOIC-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*3.9x4.9mm*P1.27mm*'</td></tr></table>]|
 ||||

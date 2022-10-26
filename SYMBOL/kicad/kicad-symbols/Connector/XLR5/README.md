@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKCNXLR5 > XLR5
+# SZKCNXLR5 > Connector : XLR5
 
 - ID: SYMBOL-kicad-kicad-symbols-Connector-XLR5
 - Hex ID: SZKCNXLR5
-- Name: XLR5
-- Description: XLR5
+- Name: Connector : XLR5
+- Description: Connector : XLR5
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-XLR5](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-XLR5)
 - Short Link: [http://oom.lt/SZKCNXLR5](http://oom.lt/SZKCNXLR5)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|XLR5|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-XLR5|
 |Hex ID (short code)|hexID|SZKCNXLR5|
-|name|name|XLR5|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'XLR5', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ' ~', 'kicadSymbolki_keywords': 'xlr connector', 'kicadSymbolki_description': 'XLR Connector, Male or Female, 5 Pins', 'kicadSymbolki_fp_filters': 'Jack*XLR*'}]|
+|name|name|Connector : XLR5|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'J'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'XLR5'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> ' ~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'xlr connector'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'XLR Connector</td><td> Male or Female</td><td> 5 Pins'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Jack*XLR*'</td></tr></table>]|
 ||||

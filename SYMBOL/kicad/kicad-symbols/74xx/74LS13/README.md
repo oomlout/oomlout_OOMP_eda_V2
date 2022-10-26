@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZK74XX74LS13 > 74LS13
+# SZK74XX74LS13 > 74xx : 74LS13
 
 - ID: SYMBOL-kicad-kicad-symbols-74xx-74LS13
 - Hex ID: SZK74XX74LS13
-- Name: 74LS13
-- Description: 74LS13
+- Name: 74xx : 74LS13
+- Description: 74xx : 74LS13
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx-74LS13](http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx-74LS13)
 - Short Link: [http://oom.lt/SZK74XX74LS13](http://oom.lt/SZK74XX74LS13)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74LS13|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xx-74LS13|
 |Hex ID (short code)|hexID|SZK74XX74LS13|
-|name|name|74LS13|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74LS13', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/gpn/sn74LS13', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'TTL Nand4', 'kicadSymbolki_description': 'Dual 4-input NAND Schmitt trigger', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
+|name|name|74xx : 74LS13|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> '74LS13'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/gpn/sn74LS13'</td><td> 'kicadSymbolki_locked'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'TTL Nand4'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Dual 4-input NAND Schmitt trigger'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W7.62mm*'</td></tr></table>]|
 ||||

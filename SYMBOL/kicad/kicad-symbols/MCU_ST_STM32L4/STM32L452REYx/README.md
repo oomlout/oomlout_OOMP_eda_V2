@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUSTSTM32L4STM32L452REYX > STM32L452REYx
+# SZKMCUSTSTM32L4STM32L452REYX > MCU_ST_STM32L4 : STM32L452REYx
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L4-STM32L452REYx
 - Hex ID: SZKMCUSTSTM32L4STM32L452REYX
-- Name: STM32L452REYx
-- Description: STM32L452REYx
+- Name: MCU_ST_STM32L4 : STM32L452REYx
+- Description: MCU_ST_STM32L4 : STM32L452REYx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L4-STM32L452REYx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L4-STM32L452REYx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32L4STM32L452REYX](http://oom.lt/SZKMCUSTSTM32L4STM32L452REYX)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|STM32L452REYx|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L4-STM32L452REYx|
 |Hex ID (short code)|hexID|SZKMCUSTSTM32L4STM32L452REYX|
-|name|name|STM32L452REYx|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'STM32L452RCYx', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'STM32L452REYx', 'kicadSymbolFootprint': 'Package_CSP:ST_WLCSP-64_Die462', 'kicadSymbolDatasheet': 'http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00340549.pdf', 'kicadSymbolki_keywords': 'ARM Cortex-M4 STM32L4 STM32L4x2', 'kicadSymbolki_description': 'ARM Cortex-M4 MCU, 512KB flash, 160KB RAM, 80MHz, 1.71-3.6V, 52 GPIO, WLCSP-64', 'kicadSymbolki_fp_filters': 'ST_WLCSP*Die462*'}]|
+|name|name|MCU_ST_STM32L4 : STM32L452REYx|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'STM32L452RCYx'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'STM32L452REYx'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_CSP</td></tr><tr><td>ST_WLCSP-64_Die462'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00340549.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'ARM Cortex-M4 STM32L4 STM32L4x2'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'ARM Cortex-M4 MCU</td><td> 512KB flash</td><td> 160KB RAM</td><td> 80MHz</td><td> 1.71-3.6V</td><td> 52 GPIO</td><td> WLCSP-64'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'ST_WLCSP*Die462*'</td></tr></table>]|
 ||||

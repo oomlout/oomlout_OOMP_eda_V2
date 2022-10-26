@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKCONIA1224S > IA1224S
+# SZKCONIA1224S > Converter_DCDC : IA1224S
 
 - ID: SYMBOL-kicad-kicad-symbols-Converter_DCDC-IA1224S
 - Hex ID: SZKCONIA1224S
-- Name: IA1224S
-- Description: IA1224S
+- Name: Converter_DCDC : IA1224S
+- Description: Converter_DCDC : IA1224S
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-IA1224S](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-IA1224S)
 - Short Link: [http://oom.lt/SZKCONIA1224S](http://oom.lt/SZKCONIA1224S)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IA1224S|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Converter_DCDC-IA1224S|
 |Hex ID (short code)|hexID|SZKCONIA1224S|
-|name|name|IA1224S|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'IA0305S', 'kicadSymbolReference': 'PS', 'kicadSymbolValue': 'IA1224S', 'kicadSymbolFootprint': 'Converter_DCDC:Converter_DCDC_XP_POWER-IAxxxxS_THT', 'kicadSymbolDatasheet': 'https://www.xppower.com/pdfs/SF_IA.pdf', 'kicadSymbolki_keywords': 'XP_POWER DC/DC isolated Converter module', 'kicadSymbolki_description': 'XP Power 1W, 1000 VDC Isolated DC/DC Converter Module, Dual Output Voltage ±24V, ±21mA, 12V Input Voltage, SIP', 'kicadSymbolki_fp_filters': '*XP?POWER?IAxxxxS*'}]|
+|name|name|Converter_DCDC : IA1224S|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'IA0305S'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'PS'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'IA1224S'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Converter_DCDC</td></tr><tr><td>Converter_DCDC_XP_POWER-IAxxxxS_THT'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.xppower.com/pdfs/SF_IA.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'XP_POWER DC/DC isolated Converter module'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'XP Power 1W</td><td> 1000 VDC Isolated DC/DC Converter Module</td><td> Dual Output Voltage ±24V</td><td> ±21mA</td><td> 12V Input Voltage</td><td> SIP'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> '*XP?POWER?IAxxxxS*'</td></tr></table>]|
 ||||

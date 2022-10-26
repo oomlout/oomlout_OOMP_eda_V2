@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-PinHeader_1x4_P2.5mm_Drill1.1mm|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSPINHEADER1X4P25DRILL11|
 |name|name|digikey-footprints : PinHeader_1x4_P2.5mm_Drill1.1mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'PinHeader_1x4_P2.5mm_Drill1.1mm', 'description': 'http://www.jst-mfg.com/product/pdf/eng/eXH.pdf', 'tags': None, 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'PinHeader_1x4_P2.5mm_Drill1.1mm'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//www.jst-mfg.com/product/pdf/eng/eXH.pdf'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

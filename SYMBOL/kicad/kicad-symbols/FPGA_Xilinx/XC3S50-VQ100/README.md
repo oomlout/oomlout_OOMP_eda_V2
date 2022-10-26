@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKFPGAXILINXXC3S5VQ1 > XC3S50-VQ100
+# SZKFPGAXILINXXC3S5VQ1 > FPGA_Xilinx : XC3S50-VQ100
 
 - ID: SYMBOL-kicad-kicad-symbols-FPGA_Xilinx-XC3S50-VQ100
 - Hex ID: SZKFPGAXILINXXC3S5VQ1
-- Name: XC3S50-VQ100
-- Description: XC3S50-VQ100
+- Name: FPGA_Xilinx : XC3S50-VQ100
+- Description: FPGA_Xilinx : XC3S50-VQ100
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx-XC3S50-VQ100](http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx-XC3S50-VQ100)
 - Short Link: [http://oom.lt/SZKFPGAXILINXXC3S5VQ1](http://oom.lt/SZKFPGAXILINXXC3S5VQ1)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|XC3S50-VQ100|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-FPGA_Xilinx-XC3S50-VQ100|
 |Hex ID (short code)|hexID|SZKFPGAXILINXXC3S5VQ1|
-|name|name|XC3S50-VQ100|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'XC3S50-VQ100', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'xilinx/spartan2e/spartan2e.pdf', 'kicadSymbolki_keywords': 'FPGA', 'kicadSymbolki_description': 'spartan 2'}]|
+|name|name|FPGA_Xilinx : XC3S50-VQ100|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'XC3S50-VQ100'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'xilinx/spartan2e/spartan2e.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'FPGA'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'spartan 2'</td></tr></table>]|
 ||||

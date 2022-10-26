@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Buzzer_Beeper-Buzzer_TDK_PS1240P02BT_D12.2mm_H6.5mm|
 |Hex ID (short code)|hexID|FZKBZBUZZERTDKPS124P2BTD122H65|
 |name|name|Buzzer_Beeper : Buzzer_TDK_PS1240P02BT_D12.2mm_H6.5mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Buzzer_TDK_PS1240P02BT_D12.2mm_H6.5mm', 'description': 'Buzzer, D12.2mm height 6.5mm, https://product.tdk.com/info/en/catalog/datasheets/piezoelectronic_buzzer_ps_en.pdf', 'tags': 'buzzer', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Buzzer_Beeper.3dshapes/Buzzer_TDK_PS1240P02BT_D12.2mm_H6.5mm.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Buzzer_TDK_PS1240P02BT_D12.2mm_H6.5mm'</td><td> 'description'</td></tr><tr><td> 'Buzzer</td><td> D12.2mm height 6.5mm</td><td> https</td></tr><tr><td>//product.tdk.com/info/en/catalog/datasheets/piezoelectronic_buzzer_ps_en.pdf'</td><td> 'tags'</td></tr><tr><td> 'buzzer'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Buzzer_Beeper.3dshapes/Buzzer_TDK_PS1240P02BT_D12.2mm_H6.5mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKINTERFACEUARTADM2484E > ADM2484E
+# SZKINTERFACEUARTADM2484E > Interface_UART : ADM2484E
 
 - ID: SYMBOL-kicad-kicad-symbols-Interface_UART-ADM2484E
 - Hex ID: SZKINTERFACEUARTADM2484E
-- Name: ADM2484E
-- Description: ADM2484E
+- Name: Interface_UART : ADM2484E
+- Description: Interface_UART : ADM2484E
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-ADM2484E](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-ADM2484E)
 - Short Link: [http://oom.lt/SZKINTERFACEUARTADM2484E](http://oom.lt/SZKINTERFACEUARTADM2484E)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ADM2484E|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_UART-ADM2484E|
 |Hex ID (short code)|hexID|SZKINTERFACEUARTADM2484E|
-|name|name|ADM2484E|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ADM2484E', 'kicadSymbolFootprint': 'Package_SO:SOIC-16W_7.5x10.3mm_P1.27mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/ADM2484E.pdf', 'kicadSymbolki_keywords': 'RS485 Transceiver RS422 Transceiver', 'kicadSymbolki_description': 'Isolated RS485/RS422 Transceiver, Half-/Full-Duplex, 500kbps,SOIC-16W', 'kicadSymbolki_fp_filters': 'SOIC*7.5x10.3mm*P1.27mm*'}]|
+|name|name|Interface_UART : ADM2484E|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ADM2484E'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-16W_7.5x10.3mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/ADM2484E.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'RS485 Transceiver RS422 Transceiver'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Isolated RS485/RS422 Transceiver</td><td> Half-/Full-Duplex</td><td> 500kbps</td><td>SOIC-16W'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*7.5x10.3mm*P1.27mm*'</td></tr></table>]|
 ||||

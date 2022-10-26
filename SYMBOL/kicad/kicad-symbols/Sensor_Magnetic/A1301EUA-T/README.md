@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKSENMAGNETICA131EUAT > A1301EUA-T
+# SZKSENMAGNETICA131EUAT > Sensor_Magnetic : A1301EUA-T
 
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-A1301EUA-T
 - Hex ID: SZKSENMAGNETICA131EUAT
-- Name: A1301EUA-T
-- Description: A1301EUA-T
+- Name: Sensor_Magnetic : A1301EUA-T
+- Description: Sensor_Magnetic : A1301EUA-T
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-A1301EUA-T](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-A1301EUA-T)
 - Short Link: [http://oom.lt/SZKSENMAGNETICA131EUAT](http://oom.lt/SZKSENMAGNETICA131EUAT)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|A1301EUA-T|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-A1301EUA-T|
 |Hex ID (short code)|hexID|SZKSENMAGNETICA131EUAT|
-|name|name|A1301EUA-T|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'A1301KUA-T', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'A1301EUA-T', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.allegromicro.com/~/media/Files/Datasheets/A1301-2-Datasheet.ashx', 'kicadSymbolki_keywords': 'hall switch', 'kicadSymbolki_description': 'Linear Hall Effect Sensor, SIP 3pin'}]|
+|name|name|Sensor_Magnetic : A1301EUA-T|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'A1301KUA-T'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'A1301EUA-T'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.allegromicro.com/~/media/Files/Datasheets/A1301-2-Datasheet.ashx'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'hall switch'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Linear Hall Effect Sensor</td><td> SIP 3pin'</td></tr></table>]|
 ||||

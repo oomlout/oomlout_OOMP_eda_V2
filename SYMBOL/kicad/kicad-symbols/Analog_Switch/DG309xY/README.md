@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKANALOGSWITCHDG39XY > DG309xY
+# SZKANALOGSWITCHDG39XY > Analog_Switch : DG309xY
 
 - ID: SYMBOL-kicad-kicad-symbols-Analog_Switch-DG309xY
 - Hex ID: SZKANALOGSWITCHDG39XY
-- Name: DG309xY
-- Description: DG309xY
+- Name: Analog_Switch : DG309xY
+- Description: Analog_Switch : DG309xY
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-DG309xY](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-DG309xY)
 - Short Link: [http://oom.lt/SZKANALOGSWITCHDG39XY](http://oom.lt/SZKANALOGSWITCHDG39XY)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DG309xY|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_Switch-DG309xY|
 |Hex ID (short code)|hexID|SZKANALOGSWITCHDG39XY|
-|name|name|DG309xY|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'DG309xY', 'kicadSymbolFootprint': 'Package_SO:SOIC-16_3.9x9.9mm_P1.27mm', 'kicadSymbolDatasheet': 'http://pdf.datasheetcatalog.com/datasheets/70/494502_DS.pdf', 'kicadSymbolki_keywords': 'CMOS Analog Switch', 'kicadSymbolki_description': 'Quad SPST Analog Switches, normally ON, 60Ohm Ron, SOIC-16', 'kicadSymbolki_fp_filters': 'SOIC*3.9x9.9mm*P1.27mm*'}]|
+|name|name|Analog_Switch : DG309xY|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'DG309xY'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-16_3.9x9.9mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//pdf.datasheetcatalog.com/datasheets/70/494502_DS.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'CMOS Analog Switch'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Quad SPST Analog Switches</td><td> normally ON</td><td> 60Ohm Ron</td><td> SOIC-16'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*3.9x9.9mm*P1.27mm*'</td></tr></table>]|
 ||||

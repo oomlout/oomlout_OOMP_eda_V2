@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUMCHIPPIC32PIC32MK124GPE1XPT > PIC32MK1024GPE100-xPT
+# SZKMCUMCHIPPIC32PIC32MK124GPE1XPT > MCU_Microchip_PIC32 : PIC32MK1024GPE100-xPT
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC32-PIC32MK1024GPE100-xPT
 - Hex ID: SZKMCUMCHIPPIC32PIC32MK124GPE1XPT
-- Name: PIC32MK1024GPE100-xPT
-- Description: PIC32MK1024GPE100-xPT
+- Name: MCU_Microchip_PIC32 : PIC32MK1024GPE100-xPT
+- Description: MCU_Microchip_PIC32 : PIC32MK1024GPE100-xPT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC32-PIC32MK1024GPE100-xPT](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC32-PIC32MK1024GPE100-xPT)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC32PIC32MK124GPE1XPT](http://oom.lt/SZKMCUMCHIPPIC32PIC32MK124GPE1XPT)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PIC32MK1024GPE100-xPT|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC32-PIC32MK1024GPE100-xPT|
 |Hex ID (short code)|hexID|SZKMCUMCHIPPIC32PIC32MK124GPE1XPT|
-|name|name|PIC32MK1024GPE100-xPT|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'PIC32MK1024GPD100-xPT', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PIC32MK1024GPE100-xPT', 'kicadSymbolFootprint': 'Package_QFP:TQFP-100_12x12mm_P0.4mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/PIC32MK_GP_MC_Familly_Datasheet_60001402G.pdf', 'kicadSymbolki_keywords': '32-bit MIPS MCU Microcontroller', 'kicadSymbolki_description': 'MIPS MCU, 120MHz, 1MB Flash, 256KB RAM, 2.3-3.6V, USB, TQFP-100', 'kicadSymbolki_fp_filters': 'TQFP*12x12mm*P0.4mm*'}]|
+|name|name|MCU_Microchip_PIC32 : PIC32MK1024GPE100-xPT|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'PIC32MK1024GPD100-xPT'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'PIC32MK1024GPE100-xPT'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_QFP</td></tr><tr><td>TQFP-100_12x12mm_P0.4mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/PIC32MK_GP_MC_Familly_Datasheet_60001402G.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> '32-bit MIPS MCU Microcontroller'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'MIPS MCU</td><td> 120MHz</td><td> 1MB Flash</td><td> 256KB RAM</td><td> 2.3-3.6V</td><td> USB</td><td> TQFP-100'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TQFP*12x12mm*P0.4mm*'</td></tr></table>]|
 ||||

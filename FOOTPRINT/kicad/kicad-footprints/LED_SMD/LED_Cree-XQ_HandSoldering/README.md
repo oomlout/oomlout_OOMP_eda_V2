@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Cree-XQ_HandSoldering|
 |Hex ID (short code)|hexID|FZKLSMLCREEXQHANDSOLDERING|
 |name|name|LED_SMD : LED_Cree-XQ_HandSoldering|
-|Footprint Kicad|footprintKicadDetails|{'name': 'LED_Cree-XQ_HandSoldering', 'description': 'LED Cree-XQ handsoldering pads http://www.cree.com/~/media/Files/Cree/LED-Components-and-Modules/XLamp/Data-and-Binning/ds-XQB.pdf', 'tags': 'LED Cree XQ', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED_Cree-XQ.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'LED_Cree-XQ_HandSoldering'</td><td> 'description'</td></tr><tr><td> 'LED Cree-XQ handsoldering pads http</td></tr><tr><td>//www.cree.com/~/media/Files/Cree/LED-Components-and-Modules/XLamp/Data-and-Binning/ds-XQB.pdf'</td><td> 'tags'</td></tr><tr><td> 'LED Cree XQ'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/LED_SMD.3dshapes/LED_Cree-XQ.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

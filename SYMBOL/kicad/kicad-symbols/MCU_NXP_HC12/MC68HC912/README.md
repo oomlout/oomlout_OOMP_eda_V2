@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUNXPHC12MC68HC912 > MC68HC912
+# SZKMCUNXPHC12MC68HC912 > MCU_NXP_HC12 : MC68HC912
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_NXP_HC12-MC68HC912
 - Hex ID: SZKMCUNXPHC12MC68HC912
-- Name: MC68HC912
-- Description: MC68HC912
+- Name: MCU_NXP_HC12 : MC68HC912
+- Description: MCU_NXP_HC12 : MC68HC912
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_HC12-MC68HC912](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_HC12-MC68HC912)
 - Short Link: [http://oom.lt/SZKMCUNXPHC12MC68HC912](http://oom.lt/SZKMCUNXPHC12MC68HC912)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MC68HC912|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_NXP_HC12-MC68HC912|
 |Hex ID (short code)|hexID|SZKMCUNXPHC12MC68HC912|
-|name|name|MC68HC912|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MC68HC912', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_keywords': '68HC12 Microcontroller', 'kicadSymbolki_description': 'HC12 Microcontroller'}]|
+|name|name|MCU_NXP_HC12 : MC68HC912|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MC68HC912'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> '68HC12 Microcontroller'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'HC12 Microcontroller'</td></tr></table>]|
 ||||

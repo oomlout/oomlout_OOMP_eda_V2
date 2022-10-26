@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_SlimStack_53748-0208_2x10_P0.50mm_Vertical|
 |Hex ID (short code)|hexID|FZKCNMXMXSLIMSTACK53748282X1P5VERTICAL|
 |name|name|Connector_Molex : Molex_SlimStack_53748-0208_2x10_P0.50mm_Vertical|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Molex_SlimStack_53748-0208_2x10_P0.50mm_Vertical', 'description': 'Molex SlimStack Fine-Pitch SMT Board-to-Board Connectors, 53748-0208, 20 Pins (https://www.molex.com/pdm_docs/sd/537480308_sd.pdf), generated with kicad-footprint-generator', 'tags': 'connector Molex SlimStack vertical', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_Molex.3dshapes/Molex_SlimStack_53748-0208_2x10_P0.50mm_Vertical.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Molex_SlimStack_53748-0208_2x10_P0.50mm_Vertical'</td><td> 'description'</td></tr><tr><td> 'Molex SlimStack Fine-Pitch SMT Board-to-Board Connectors</td><td> 53748-0208</td><td> 20 Pins (https</td></tr><tr><td>//www.molex.com/pdm_docs/sd/537480308_sd.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'connector Molex SlimStack vertical'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_Molex.3dshapes/Molex_SlimStack_53748-0208_2x10_P0.50mm_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

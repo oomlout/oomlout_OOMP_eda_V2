@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Heatsink-Heatsink_AAVID_TV5G_TO220_Horizontal|
 |Hex ID (short code)|hexID|FZKHHAAVIDTV5GTO22HORIZONTAL|
 |name|name|Heatsink : Heatsink_AAVID_TV5G_TO220_Horizontal|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Heatsink_AAVID_TV5G_TO220_Horizontal', 'description': 'Heatsink TV5G TO-220 Horizontal, https://www.shopaavid.com/Product/TV-5G', 'tags': 'Heatsink TV5G TO-220 Horizontal ', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Heatsink.3dshapes/Heatsink_AAVID_TV5G_TO220_Horizontal.wrl', 'pins': {}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Heatsink_AAVID_TV5G_TO220_Horizontal'</td><td> 'description'</td></tr><tr><td> 'Heatsink TV5G TO-220 Horizontal</td><td> https</td></tr><tr><td>//www.shopaavid.com/Product/TV-5G'</td><td> 'tags'</td></tr><tr><td> 'Heatsink TV5G TO-220 Horizontal '</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Heatsink.3dshapes/Heatsink_AAVID_TV5G_TO220_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td></td></tr></table></td></tr></table>|
 ||||
 
 

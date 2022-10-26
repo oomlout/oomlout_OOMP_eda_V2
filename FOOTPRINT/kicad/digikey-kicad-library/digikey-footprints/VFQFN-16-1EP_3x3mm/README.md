@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-VFQFN-16-1EP_3x3mm|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSVFQFN161EP3X3|
 |name|name|digikey-footprints : VFQFN-16-1EP_3x3mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'VFQFN-16-1EP_3x3mm', 'description': 'http://www.psemi.com/pdf/datasheets/pe42423ds.pdf', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'VFQFN-16-1EP_3x3mm'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//www.psemi.com/pdf/datasheets/pe42423ds.pdf'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

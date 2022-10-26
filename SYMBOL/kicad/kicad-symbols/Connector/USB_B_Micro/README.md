@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKCNUBM > USB_B_Micro
+# SZKCNUBM > Connector : USB_B_Micro
 
 - ID: SYMBOL-kicad-kicad-symbols-Connector-USB_B_Micro
 - Hex ID: SZKCNUBM
-- Name: USB_B_Micro
-- Description: USB_B_Micro
+- Name: Connector : USB_B_Micro
+- Description: Connector : USB_B_Micro
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-USB_B_Micro](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-USB_B_Micro)
 - Short Link: [http://oom.lt/SZKCNUBM](http://oom.lt/SZKCNUBM)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|USB_B_Micro|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-USB_B_Micro|
 |Hex ID (short code)|hexID|SZKCNUBM|
-|name|name|USB_B_Micro|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'USB_B_Micro', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'connector USB micro', 'kicadSymbolki_description': 'USB Micro Type B connector', 'kicadSymbolki_fp_filters': 'USB*'}]|
+|name|name|Connector : USB_B_Micro|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'J'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'USB_B_Micro'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'connector USB micro'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'USB Micro Type B connector'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'USB*'</td></tr></table>]|
 ||||

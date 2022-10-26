@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SO-VSO-56_11.1x21.5mm_P0.75mm|
 |Hex ID (short code)|hexID|FZKSOVSO56111X215P75|
 |name|name|Package_SO : VSO-56_11.1x21.5mm_P0.75mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'VSO-56_11.1x21.5mm_P0.75mm', 'description': 'VSO56: plastic very small outline package; 56 leads (see NXP SSOP-TSSOP-VSO-REFLOW.pdf and sot190-1_po.pdf)', 'tags': 'SSOP 0.75', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/VSO-56_11.1x21.5mm_P0.75mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'VSO-56_11.1x21.5mm_P0.75mm'</td><td> 'description'</td></tr><tr><td> 'VSO56</td></tr><tr><td> plastic very small outline package; 56 leads (see NXP SSOP-TSSOP-VSO-REFLOW.pdf and sot190-1_po.pdf)'</td><td> 'tags'</td></tr><tr><td> 'SSOP 0.75'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_SO.3dshapes/VSO-56_11.1x21.5mm_P0.75mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

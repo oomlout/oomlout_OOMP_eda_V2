@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDIODEBRIDGEW1G > W10G
+# SZKDIODEBRIDGEW1G > Diode_Bridge : W10G
 
 - ID: SYMBOL-kicad-kicad-symbols-Diode_Bridge-W10G
 - Hex ID: SZKDIODEBRIDGEW1G
-- Name: W10G
-- Description: W10G
+- Name: Diode_Bridge : W10G
+- Description: Diode_Bridge : W10G
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-W10G](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-W10G)
 - Short Link: [http://oom.lt/SZKDIODEBRIDGEW1G](http://oom.lt/SZKDIODEBRIDGEW1G)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|W10G|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode_Bridge-W10G|
 |Hex ID (short code)|hexID|SZKDIODEBRIDGEW1G|
-|name|name|W10G|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'B40C1500G', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'W10G', 'kicadSymbolFootprint': 'Diode_THT:Diode_Bridge_Round_D9.8mm', 'kicadSymbolDatasheet': 'https://www.vishay.com/docs/88769/woo5g.pdf', 'kicadSymbolki_keywords': 'Bridge Rectifier acdc', 'kicadSymbolki_description': 'Glass Passivated Single-Phase Bridge Rectifier, 700V Vrms, 1.5A If, WOG package', 'kicadSymbolki_fp_filters': 'D*Bridge*Round*D9.8mm*'}]|
+|name|name|Diode_Bridge : W10G|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'B40C1500G'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'W10G'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Diode_THT</td></tr><tr><td>Diode_Bridge_Round_D9.8mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.vishay.com/docs/88769/woo5g.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Bridge Rectifier acdc'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Glass Passivated Single-Phase Bridge Rectifier</td><td> 700V Vrms</td><td> 1.5A If</td><td> WOG package'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'D*Bridge*Round*D9.8mm*'</td></tr></table>]|
 ||||

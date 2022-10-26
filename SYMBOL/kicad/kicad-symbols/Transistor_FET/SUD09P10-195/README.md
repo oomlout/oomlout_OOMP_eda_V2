@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORFETSUD9P1195 > SUD09P10-195
+# SZKTRANSISTORFETSUD9P1195 > Transistor_FET : SUD09P10-195
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-SUD09P10-195
 - Hex ID: SZKTRANSISTORFETSUD9P1195
-- Name: SUD09P10-195
-- Description: SUD09P10-195
+- Name: Transistor_FET : SUD09P10-195
+- Description: Transistor_FET : SUD09P10-195
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-SUD09P10-195](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-SUD09P10-195)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETSUD9P1195](http://oom.lt/SZKTRANSISTORFETSUD9P1195)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SUD09P10-195|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-SUD09P10-195|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETSUD9P1195|
-|name|name|SUD09P10-195|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'SUD19P06-60', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'SUD09P10-195', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TO-252-2', 'kicadSymbolDatasheet': 'https://www.vishay.com/docs/65903/SUD09P10.pdf', 'kicadSymbolki_keywords': 'TrenchFET P-Channel Power MOSFET', 'kicadSymbolki_description': '8.8A Id, 100V Vds, TrenchFET P-Channel Power MOSFET, 195mOhm Ron, 34.8nC Qg, -55 to 150 °C, TO-252-2', 'kicadSymbolki_fp_filters': 'TO?252*'}]|
+|name|name|Transistor_FET : SUD09P10-195|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'SUD19P06-60'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'SUD09P10-195'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>TO-252-2'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.vishay.com/docs/65903/SUD09P10.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'TrenchFET P-Channel Power MOSFET'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '8.8A Id</td><td> 100V Vds</td><td> TrenchFET P-Channel Power MOSFET</td><td> 195mOhm Ron</td><td> 34.8nC Qg</td><td> -55 to 150 °C</td><td> TO-252-2'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TO?252*'</td></tr></table>]|
 ||||

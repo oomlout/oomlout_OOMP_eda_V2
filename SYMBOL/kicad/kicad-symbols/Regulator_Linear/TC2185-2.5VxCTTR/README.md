@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORLINEARTC218525VXCTTR > TC2185-2.5VxCTTR
+# SZKREGULATORLINEARTC218525VXCTTR > Regulator_Linear : TC2185-2.5VxCTTR
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-TC2185-2.5VxCTTR
 - Hex ID: SZKREGULATORLINEARTC218525VXCTTR
-- Name: TC2185-2.5VxCTTR
-- Description: TC2185-2.5VxCTTR
+- Name: Regulator_Linear : TC2185-2.5VxCTTR
+- Description: Regulator_Linear : TC2185-2.5VxCTTR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TC2185-2.5VxCTTR](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TC2185-2.5VxCTTR)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARTC218525VXCTTR](http://oom.lt/SZKREGULATORLINEARTC218525VXCTTR)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TC2185-2.5VxCTTR|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-TC2185-2.5VxCTTR|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARTC218525VXCTTR|
-|name|name|TC2185-2.5VxCTTR|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LP2985-1.8', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TC2185-2.5VxCTTR', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-5', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/21662F.pdf', 'kicadSymbolki_keywords': 'low dropout 2.5V 150mA', 'kicadSymbolki_description': '2.5V 150mA CMOS LDO with Shutdown and Vref Bypass, SOT-23-5', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
+|name|name|Regulator_Linear : TC2185-2.5VxCTTR|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'LP2985-1.8'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TC2185-2.5VxCTTR'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-23-5'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/21662F.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'low dropout 2.5V 150mA'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '2.5V 150mA CMOS LDO with Shutdown and Vref Bypass</td><td> SOT-23-5'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23*'</td></tr></table>]|
 ||||

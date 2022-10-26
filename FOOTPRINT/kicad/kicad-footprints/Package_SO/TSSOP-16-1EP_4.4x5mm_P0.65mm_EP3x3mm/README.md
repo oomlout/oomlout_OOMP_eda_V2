@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SO-TSSOP-16-1EP_4.4x5mm_P0.65mm_EP3x3mm|
 |Hex ID (short code)|hexID|FZKSOTSS161EP44X5P65EP3X3|
 |name|name|Package_SO : TSSOP-16-1EP_4.4x5mm_P0.65mm_EP3x3mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'TSSOP-16-1EP_4.4x5mm_P0.65mm_EP3x3mm', 'description': 'TSSOP, 16 Pin (Allegro A4954 https://www.allegromicro.com/-/media/Files/Datasheets/A4954-Datasheet.ashx), generated with kicad-footprint-generator ipc_gullwing_generator.py', 'tags': 'TSSOP SO', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/TSSOP-16-1EP_4.4x5mm_P0.65mm_EP3x3mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'TSSOP-16-1EP_4.4x5mm_P0.65mm_EP3x3mm'</td><td> 'description'</td></tr><tr><td> 'TSSOP</td><td> 16 Pin (Allegro A4954 https</td></tr><tr><td>//www.allegromicro.com/-/media/Files/Datasheets/A4954-Datasheet.ashx)</td><td> generated with kicad-footprint-generator ipc_gullwing_generator.py'</td><td> 'tags'</td></tr><tr><td> 'TSSOP SO'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_SO.3dshapes/TSSOP-16-1EP_4.4x5mm_P0.65mm_EP3x3mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

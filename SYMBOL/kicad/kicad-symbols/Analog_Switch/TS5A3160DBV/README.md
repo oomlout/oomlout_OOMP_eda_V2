@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKANALOGSWITCHTS5A316DBV > TS5A3160DBV
+# SZKANALOGSWITCHTS5A316DBV > Analog_Switch : TS5A3160DBV
 
 - ID: SYMBOL-kicad-kicad-symbols-Analog_Switch-TS5A3160DBV
 - Hex ID: SZKANALOGSWITCHTS5A316DBV
-- Name: TS5A3160DBV
-- Description: TS5A3160DBV
+- Name: Analog_Switch : TS5A3160DBV
+- Description: Analog_Switch : TS5A3160DBV
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-TS5A3160DBV](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-TS5A3160DBV)
 - Short Link: [http://oom.lt/SZKANALOGSWITCHTS5A316DBV](http://oom.lt/SZKANALOGSWITCHTS5A316DBV)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TS5A3160DBV|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_Switch-TS5A3160DBV|
 |Hex ID (short code)|hexID|SZKANALOGSWITCHTS5A316DBV|
-|name|name|TS5A3160DBV|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TS5A3159DBV', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TS5A3160DBV', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-6', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/ts5a3160.pdf', 'kicadSymbolki_keywords': 'Analog Switch', 'kicadSymbolki_description': 'Single SPDT Analog Switch, 1.65-V to 5.5-V Single-Supply Operation, 1Ohm Ron, SOT-23-6', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
+|name|name|Analog_Switch : TS5A3160DBV|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'TS5A3159DBV'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TS5A3160DBV'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-23-6'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/ts5a3160.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Analog Switch'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Single SPDT Analog Switch</td><td> 1.65-V to 5.5-V Single-Supply Operation</td><td> 1Ohm Ron</td><td> SOT-23-6'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23*'</td></tr></table>]|
 ||||

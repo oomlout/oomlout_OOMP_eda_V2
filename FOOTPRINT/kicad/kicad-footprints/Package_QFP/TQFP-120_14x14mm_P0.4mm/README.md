@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_QFP-TQFP-120_14x14mm_P0.4mm|
 |Hex ID (short code)|hexID|FZKQFPTQFP1214X14P4|
 |name|name|Package_QFP : TQFP-120_14x14mm_P0.4mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'TQFP-120_14x14mm_P0.4mm', 'description': 'TQFP120 14x14 / TQFP120 CASE 932AZ (see ON Semiconductor 932AZ.PDF)', 'tags': 'QFP 0.4', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_QFP.3dshapes/TQFP-120_14x14mm_P0.4mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'TQFP-120_14x14mm_P0.4mm'</td><td> 'description'</td></tr><tr><td> 'TQFP120 14x14 / TQFP120 CASE 932AZ (see ON Semiconductor 932AZ.PDF)'</td><td> 'tags'</td></tr><tr><td> 'QFP 0.4'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_QFP.3dshapes/TQFP-120_14x14mm_P0.4mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

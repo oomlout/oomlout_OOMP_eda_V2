@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SO_J-Lead-TSOC-6_3.76x3.94mm_P1.27mm|
 |Hex ID (short code)|hexID|FZKSOJLEADTSOC6376X394P127|
 |name|name|Package_SO_J-Lead : TSOC-6_3.76x3.94mm_P1.27mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'TSOC-6_3.76x3.94mm_P1.27mm', 'description': 'Maxim Integrated TSOC-6 D6+1,https://datasheets.maximintegrated.com/en/ds/DS2401.pdf, https://pdfserv.maximintegrated.com/land_patterns/90-0321.PDF', 'tags': 'TSOC-6', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SO_J-Lead.3dshapes/TSOC-6_3.76x3.94mm_P1.27mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'TSOC-6_3.76x3.94mm_P1.27mm'</td><td> 'description'</td></tr><tr><td> 'Maxim Integrated TSOC-6 D6+1</td><td>https</td></tr><tr><td>//datasheets.maximintegrated.com/en/ds/DS2401.pdf</td><td> https</td></tr><tr><td>//pdfserv.maximintegrated.com/land_patterns/90-0321.PDF'</td><td> 'tags'</td></tr><tr><td> 'TSOC-6'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_SO_J-Lead.3dshapes/TSOC-6_3.76x3.94mm_P1.27mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

@@ -29,5 +29,5 @@ NO IMAGE
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Sensor_Current-LEM_CKSR|
 |Hex ID (short code)|hexID|FZKSENCURRENTLEMCKSR|
 |name|name|Sensor_Current : LEM_CKSR|
-|Footprint Kicad|footprintKicadDetails|{'name': 'LEM_CKSR', 'description': 'LEM CKSR 6/15/25/50/75-NP Current Transducer, https://www.lem.com/sites/default/files/products_datasheets/cksr_75-np.pdf', 'tags': 'current transducer LEM', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Sensor_Current.3dshapes/LEM_CKSR.wrl', 'pins': {'type': 'thru_hole', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'LEM_CKSR'</td><td> 'description'</td></tr><tr><td> 'LEM CKSR 6/15/25/50/75-NP Current Transducer</td><td> https</td></tr><tr><td>//www.lem.com/sites/default/files/products_datasheets/cksr_75-np.pdf'</td><td> 'tags'</td></tr><tr><td> 'current transducer LEM'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Sensor_Current.3dshapes/LEM_CKSR.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

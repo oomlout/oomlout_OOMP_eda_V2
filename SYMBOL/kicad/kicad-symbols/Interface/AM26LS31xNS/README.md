@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKINTERFACEAM26LS31XNS > AM26LS31xNS
+# SZKINTERFACEAM26LS31XNS > Interface : AM26LS31xNS
 
 - ID: SYMBOL-kicad-kicad-symbols-Interface-AM26LS31xNS
 - Hex ID: SZKINTERFACEAM26LS31XNS
-- Name: AM26LS31xNS
-- Description: AM26LS31xNS
+- Name: Interface : AM26LS31xNS
+- Description: Interface : AM26LS31xNS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-AM26LS31xNS](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-AM26LS31xNS)
 - Short Link: [http://oom.lt/SZKINTERFACEAM26LS31XNS](http://oom.lt/SZKINTERFACEAM26LS31XNS)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AM26LS31xNS|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface-AM26LS31xNS|
 |Hex ID (short code)|hexID|SZKINTERFACEAM26LS31XNS|
-|name|name|AM26LS31xNS|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'AM26LS31CD', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AM26LS31xNS', 'kicadSymbolFootprint': 'Package_SO:SO-16_5.3x10.2mm_P1.27mm', 'kicadSymbolDatasheet': 'https://www.ti.com/lit/ds/symlink/am26ls31.pdf', 'kicadSymbolki_keywords': 'driver rs485 rs422 differential', 'kicadSymbolki_description': '32Mbps 3.3V RS485 Quad Line Drivers, SO-16', 'kicadSymbolki_fp_filters': 'SO*5.3x10.2mm*P1.27mm*'}]|
+|name|name|Interface : AM26LS31xNS|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'AM26LS31CD'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'AM26LS31xNS'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SO-16_5.3x10.2mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.ti.com/lit/ds/symlink/am26ls31.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'driver rs485 rs422 differential'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '32Mbps 3.3V RS485 Quad Line Drivers</td><td> SO-16'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SO*5.3x10.2mm*P1.27mm*'</td></tr></table>]|
 ||||

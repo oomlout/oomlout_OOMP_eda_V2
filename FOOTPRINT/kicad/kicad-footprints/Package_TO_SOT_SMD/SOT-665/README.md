@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-665|
 |Hex ID (short code)|hexID|FZKPACKAGETOSOTSMSOT665|
 |name|name|Package_TO_SOT_SMD : SOT-665|
-|Footprint Kicad|footprintKicadDetails|{'name': 'SOT-665', 'description': 'SOT665', 'tags': 'SOT-665', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-665.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SOT-665'</td><td> 'description'</td></tr><tr><td> 'SOT665'</td><td> 'tags'</td></tr><tr><td> 'SOT-665'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_TO_SOT_SMD.3dshapes/SOT-665.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

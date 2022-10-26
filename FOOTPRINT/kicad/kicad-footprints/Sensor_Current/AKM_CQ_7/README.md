@@ -29,5 +29,5 @@ NO IMAGE
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Sensor_Current-AKM_CQ_7|
 |Hex ID (short code)|hexID|FZKSENCURRENTAKMCQ7|
 |name|name|Sensor_Current : AKM_CQ_7|
-|Footprint Kicad|footprintKicadDetails|{'name': 'AKM_CQ_7', 'description': 'AKM Current Sensor, 7 pin, THT (http://www.akm.com/akm/en/file/datasheet/CQ-236B.pdf)', 'tags': 'akm current sensor tht', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Sensor_Current.3dshapes/AKM_CQ_7.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'AKM_CQ_7'</td><td> 'description'</td></tr><tr><td> 'AKM Current Sensor</td><td> 7 pin</td><td> THT (http</td></tr><tr><td>//www.akm.com/akm/en/file/datasheet/CQ-236B.pdf)'</td><td> 'tags'</td></tr><tr><td> 'akm current sensor tht'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Sensor_Current.3dshapes/AKM_CQ_7.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_BGA-UFBGA-100_7x7mm_Layout12x12_P0.5mm|
 |Hex ID (short code)|hexID|FZKBGAUFBGA17X7LAYOUT12X12P5|
 |name|name|Package_BGA : UFBGA-100_7x7mm_Layout12x12_P0.5mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'UFBGA-100_7x7mm_Layout12x12_P0.5mm', 'description': 'UFBGA-100, 12x12 raster, 7x7mm package, pitch 0.5mm; see section 7.1 of http://www.st.com/resource/en/datasheet/stm32f103tb.pdf', 'tags': 'BGA 100 0.5', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/UFBGA-100_7x7mm_Layout12x12_P0.5mm.wrl', 'pins': {'type': 'smd', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'UFBGA-100_7x7mm_Layout12x12_P0.5mm'</td><td> 'description'</td></tr><tr><td> 'UFBGA-100</td><td> 12x12 raster</td><td> 7x7mm package</td><td> pitch 0.5mm; see section 7.1 of http</td></tr><tr><td>//www.st.com/resource/en/datasheet/stm32f103tb.pdf'</td><td> 'tags'</td></tr><tr><td> 'BGA 100 0.5'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_BGA.3dshapes/UFBGA-100_7x7mm_Layout12x12_P0.5mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

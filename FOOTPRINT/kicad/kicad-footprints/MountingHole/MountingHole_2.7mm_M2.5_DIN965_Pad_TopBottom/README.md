@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_2.7mm_M2.5_DIN965_Pad_TopBottom|
 |Hex ID (short code)|hexID|FZKHOLHOL27M25DIN965PADTOPBOTTOM|
 |name|name|MountingHole : MountingHole_2.7mm_M2.5_DIN965_Pad_TopBottom|
-|Footprint Kicad|footprintKicadDetails|{'name': 'MountingHole_2.7mm_M2.5_DIN965_Pad_TopBottom', 'description': 'Mounting Hole 2.7mm, M2.5, DIN965', 'tags': 'mounting hole 2.7mm m2.5 din965', 'attributeType': None, 'pins': {'type': 'connect', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'MountingHole_2.7mm_M2.5_DIN965_Pad_TopBottom'</td><td> 'description'</td></tr><tr><td> 'Mounting Hole 2.7mm</td><td> M2.5</td><td> DIN965'</td><td> 'tags'</td></tr><tr><td> 'mounting hole 2.7mm m2.5 din965'</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'connect'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

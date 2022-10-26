@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKPOWERSUPERVISORMC3464P > MC34064P
+# SZKPOWERSUPERVISORMC3464P > Power_Supervisor : MC34064P
 
 - ID: SYMBOL-kicad-kicad-symbols-Power_Supervisor-MC34064P
 - Hex ID: SZKPOWERSUPERVISORMC3464P
-- Name: MC34064P
-- Description: MC34064P
+- Name: Power_Supervisor : MC34064P
+- Description: Power_Supervisor : MC34064P
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Supervisor-MC34064P](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Supervisor-MC34064P)
 - Short Link: [http://oom.lt/SZKPOWERSUPERVISORMC3464P](http://oom.lt/SZKPOWERSUPERVISORMC3464P)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MC34064P|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Supervisor-MC34064P|
 |Hex ID (short code)|hexID|SZKPOWERSUPERVISORMC3464P|
-|name|name|MC34064P|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MC34064P', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-92L_Inline', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pub/Collateral/MC34064-D.PDF', 'kicadSymbolki_keywords': 'Power Supervisor', 'kicadSymbolki_description': 'Undervoltage Sensing Circuit, TO-92', 'kicadSymbolki_fp_filters': 'TO?92L?Inline*'}]|
+|name|name|Power_Supervisor : MC34064P|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MC34064P'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_THT</td></tr><tr><td>TO-92L_Inline'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.onsemi.com/pub/Collateral/MC34064-D.PDF'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Power Supervisor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Undervoltage Sensing Circuit</td><td> TO-92'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TO?92L?Inline*'</td></tr></table>]|
 ||||

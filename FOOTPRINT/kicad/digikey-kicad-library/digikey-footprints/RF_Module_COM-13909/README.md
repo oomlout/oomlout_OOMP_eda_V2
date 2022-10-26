@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-RF_Module_COM-13909|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSRFMOCOM1399|
 |name|name|digikey-footprints : RF_Module_COM-13909|
-|Footprint Kicad|footprintKicadDetails|{'name': 'RF_Module_COM-13909', 'description': 'https://cdn.sparkfun.com/datasheets/Wireless/General/RFM69HCW-V1.1.pdf', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'RF_Module_COM-13909'</td><td> 'description'</td></tr><tr><td> 'https</td></tr><tr><td>//cdn.sparkfun.com/datasheets/Wireless/General/RFM69HCW-V1.1.pdf'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKBATMANAGEMENTMAX17263XXTE > MAX17263xxTE
+# SZKBATMANAGEMENTMAX17263XXTE > Battery_Management : MAX17263xxTE
 
 - ID: SYMBOL-kicad-kicad-symbols-Battery_Management-MAX17263xxTE
 - Hex ID: SZKBATMANAGEMENTMAX17263XXTE
-- Name: MAX17263xxTE
-- Description: MAX17263xxTE
+- Name: Battery_Management : MAX17263xxTE
+- Description: Battery_Management : MAX17263xxTE
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-MAX17263xxTE](http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-MAX17263xxTE)
 - Short Link: [http://oom.lt/SZKBATMANAGEMENTMAX17263XXTE](http://oom.lt/SZKBATMANAGEMENTMAX17263XXTE)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MAX17263xxTE|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Battery_Management-MAX17263xxTE|
 |Hex ID (short code)|hexID|SZKBATMANAGEMENTMAX17263XXTE|
-|name|name|MAX17263xxTE|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MAX17263xxTE', 'kicadSymbolFootprint': 'Package_DFN_QFN:DFN-14-1EP_3x3mm_P0.4mm_EP1.78x2.35mm', 'kicadSymbolDatasheet': 'https://datasheets.maximintegrated.com/en/ds/MAX17263.pdf', 'kicadSymbolki_keywords': 'fuel-gauge', 'kicadSymbolki_description': 'Single/Multi-Cell Fuel Gauge, ModelGauge m5 EZ, Integrated LED Control, TDFN-14', 'kicadSymbolki_fp_filters': 'DFN*1EP*3x3mm*P0.4mm*'}]|
+|name|name|Battery_Management : MAX17263xxTE|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MAX17263xxTE'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>DFN-14-1EP_3x3mm_P0.4mm_EP1.78x2.35mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//datasheets.maximintegrated.com/en/ds/MAX17263.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'fuel-gauge'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Single/Multi-Cell Fuel Gauge</td><td> ModelGauge m5 EZ</td><td> Integrated LED Control</td><td> TDFN-14'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DFN*1EP*3x3mm*P0.4mm*'</td></tr></table>]|
 ||||

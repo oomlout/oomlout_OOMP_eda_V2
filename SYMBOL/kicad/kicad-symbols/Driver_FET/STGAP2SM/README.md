@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDRIVERFETSTGAP2SM > STGAP2SM
+# SZKDRIVERFETSTGAP2SM > Driver_FET : STGAP2SM
 
 - ID: SYMBOL-kicad-kicad-symbols-Driver_FET-STGAP2SM
 - Hex ID: SZKDRIVERFETSTGAP2SM
-- Name: STGAP2SM
-- Description: STGAP2SM
+- Name: Driver_FET : STGAP2SM
+- Description: Driver_FET : STGAP2SM
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-STGAP2SM](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-STGAP2SM)
 - Short Link: [http://oom.lt/SZKDRIVERFETSTGAP2SM](http://oom.lt/SZKDRIVERFETSTGAP2SM)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|STGAP2SM|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Driver_FET-STGAP2SM|
 |Hex ID (short code)|hexID|SZKDRIVERFETSTGAP2SM|
-|name|name|STGAP2SM|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'STGAP2SM', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm', 'kicadSymbolDatasheet': 'https://www.st.com/resource/en/datasheet/stgap2s.pdf', 'kicadSymbolki_keywords': 'isolated fet driver', 'kicadSymbolki_description': 'Galvanically isolated 4 A single gate driver, Dual Output, SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm*'}]|
+|name|name|Driver_FET : STGAP2SM|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'STGAP2SM'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-8_3.9x4.9mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.st.com/resource/en/datasheet/stgap2s.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'isolated fet driver'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Galvanically isolated 4 A single gate driver</td><td> Dual Output</td><td> SOIC-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*3.9x4.9mm*P1.27mm*'</td></tr></table>]|
 ||||

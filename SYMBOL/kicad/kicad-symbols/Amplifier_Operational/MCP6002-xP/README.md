@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKAMPLIFIEROPERATIONALMCP62XP > MCP6002-xP
+# SZKAMPLIFIEROPERATIONALMCP62XP > Amplifier_Operational : MCP6002-xP
 
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-MCP6002-xP
 - Hex ID: SZKAMPLIFIEROPERATIONALMCP62XP
-- Name: MCP6002-xP
-- Description: MCP6002-xP
+- Name: Amplifier_Operational : MCP6002-xP
+- Description: Amplifier_Operational : MCP6002-xP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-MCP6002-xP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-MCP6002-xP)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALMCP62XP](http://oom.lt/SZKAMPLIFIEROPERATIONALMCP62XP)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MCP6002-xP|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Operational-MCP6002-xP|
 |Hex ID (short code)|hexID|SZKAMPLIFIEROPERATIONALMCP62XP|
-|name|name|MCP6002-xP|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LM2904', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MCP6002-xP', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/21733j.pdf', 'kicadSymbolki_keywords': 'dual opamp', 'kicadSymbolki_description': '1MHz, Low-Power Op Amp, DIP-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm* DIP*W7.62mm* TO*99* OnSemi*Micro8* TSSOP*3x3mm*P0.65mm* TSSOP*4.4x3mm*P0.65mm* MSOP*3x3mm*P0.65mm* SSOP*3.9x4.9mm*P0.635mm* LFCSP*2x2mm*P0.5mm* *SIP* SOIC*5.3x6.2mm*P1.27mm*'}]|
+|name|name|Amplifier_Operational : MCP6002-xP|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'LM2904'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MCP6002-xP'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/21733j.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'dual opamp'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '1MHz</td><td> Low-Power Op Amp</td><td> DIP-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*3.9x4.9mm*P1.27mm* DIP*W7.62mm* TO*99* OnSemi*Micro8* TSSOP*3x3mm*P0.65mm* TSSOP*4.4x3mm*P0.65mm* MSOP*3x3mm*P0.65mm* SSOP*3.9x4.9mm*P0.635mm* LFCSP*2x2mm*P0.5mm* *SIP* SOIC*5.3x6.2mm*P1.27mm*'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUMCHIPPIC24PIC24FV32KA34IPT > PIC24FV32KA304-IPT
+# SZKMCUMCHIPPIC24PIC24FV32KA34IPT > MCU_Microchip_PIC24 : PIC24FV32KA304-IPT
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC24-PIC24FV32KA304-IPT
 - Hex ID: SZKMCUMCHIPPIC24PIC24FV32KA34IPT
-- Name: PIC24FV32KA304-IPT
-- Description: PIC24FV32KA304-IPT
+- Name: MCU_Microchip_PIC24 : PIC24FV32KA304-IPT
+- Description: MCU_Microchip_PIC24 : PIC24FV32KA304-IPT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC24-PIC24FV32KA304-IPT](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC24-PIC24FV32KA304-IPT)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC24PIC24FV32KA34IPT](http://oom.lt/SZKMCUMCHIPPIC24PIC24FV32KA34IPT)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PIC24FV32KA304-IPT|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC24-PIC24FV32KA304-IPT|
 |Hex ID (short code)|hexID|SZKMCUMCHIPPIC24PIC24FV32KA34IPT|
-|name|name|PIC24FV32KA304-IPT|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'IC', 'kicadSymbolValue': 'PIC24FV32KA304-IPT', 'kicadSymbolFootprint': 'Package_QFP:TQFP-44_10x10mm_P0.8mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/39995d.pdf', 'kicadSymbolki_keywords': 'Flash-Based 16-Bit Microcontroller', 'kicadSymbolki_description': '32K Flash, 2048B SRAM, 512B EEPROM, nanoWatt XLP, 12-bit ADC, PWM, RTCC, TQFP44', 'kicadSymbolki_fp_filters': 'TQFP*10x10mm*P0.8mm*'}]|
+|name|name|MCU_Microchip_PIC24 : PIC24FV32KA304-IPT|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'IC'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'PIC24FV32KA304-IPT'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_QFP</td></tr><tr><td>TQFP-44_10x10mm_P0.8mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/39995d.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Flash-Based 16-Bit Microcontroller'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '32K Flash</td><td> 2048B SRAM</td><td> 512B EEPROM</td><td> nanoWatt XLP</td><td> 12-bit ADC</td><td> PWM</td><td> RTCC</td><td> TQFP44'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TQFP*10x10mm*P0.8mm*'</td></tr></table>]|
 ||||

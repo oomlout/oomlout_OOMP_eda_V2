@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKAMPLIFIERBUFFERBUF62XD > BUF602xD
+# SZKAMPLIFIERBUFFERBUF62XD > Amplifier_Buffer : BUF602xD
 
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Buffer-BUF602xD
 - Hex ID: SZKAMPLIFIERBUFFERBUF62XD
-- Name: BUF602xD
-- Description: BUF602xD
+- Name: Amplifier_Buffer : BUF602xD
+- Description: Amplifier_Buffer : BUF602xD
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Buffer-BUF602xD](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Buffer-BUF602xD)
 - Short Link: [http://oom.lt/SZKAMPLIFIERBUFFERBUF62XD](http://oom.lt/SZKAMPLIFIERBUFFERBUF62XD)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BUF602xD|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Buffer-BUF602xD|
 |Hex ID (short code)|hexID|SZKAMPLIFIERBUFFERBUF62XD|
-|name|name|BUF602xD|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'BUF602xD', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/buf602.pdf', 'kicadSymbolki_keywords': 'buffer amplifier', 'kicadSymbolki_description': 'High-Speed, 1000 MHz, Closed-Loop Buffer, SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm*'}]|
+|name|name|Amplifier_Buffer : BUF602xD|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'BUF602xD'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-8_3.9x4.9mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/buf602.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'buffer amplifier'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'High-Speed</td><td> 1000 MHz</td><td> Closed-Loop Buffer</td><td> SOIC-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*3.9x4.9mm*P1.27mm*'</td></tr></table>]|
 ||||

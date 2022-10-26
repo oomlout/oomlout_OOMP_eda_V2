@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_BarrelJack-BarrelJack_CUI_PJ-102AH_Horizontal|
 |Hex ID (short code)|hexID|FZKCNBARRELJBARRELJCUIPJ12AHHORIZONTAL|
 |name|name|Connector_BarrelJack : BarrelJack_CUI_PJ-102AH_Horizontal|
-|Footprint Kicad|footprintKicadDetails|{'name': 'BarrelJack_CUI_PJ-102AH_Horizontal', 'description': 'Thin-pin DC Barrel Jack, https://cdn-shop.adafruit.com/datasheets/21mmdcjackDatasheet.pdf', 'tags': 'Power Jack', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_BarrelJack.3dshapes/BarrelJack_CUI_PJ-102AH_Horizontal.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'BarrelJack_CUI_PJ-102AH_Horizontal'</td><td> 'description'</td></tr><tr><td> 'Thin-pin DC Barrel Jack</td><td> https</td></tr><tr><td>//cdn-shop.adafruit.com/datasheets/21mmdcjackDatasheet.pdf'</td><td> 'tags'</td></tr><tr><td> 'Power Jack'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_BarrelJack.3dshapes/BarrelJack_CUI_PJ-102AH_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

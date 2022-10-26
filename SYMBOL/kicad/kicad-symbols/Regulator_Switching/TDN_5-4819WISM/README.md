@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORSWITCHINGTDN54819WISM > TDN_5-4819WISM
+# SZKREGULATORSWITCHINGTDN54819WISM > Regulator_Switching : TDN_5-4819WISM
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-TDN_5-4819WISM
 - Hex ID: SZKREGULATORSWITCHINGTDN54819WISM
-- Name: TDN_5-4819WISM
-- Description: TDN_5-4819WISM
+- Name: Regulator_Switching : TDN_5-4819WISM
+- Description: Regulator_Switching : TDN_5-4819WISM
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TDN_5-4819WISM](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TDN_5-4819WISM)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGTDN54819WISM](http://oom.lt/SZKREGULATORSWITCHINGTDN54819WISM)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TDN_5-4819WISM|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-TDN_5-4819WISM|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGTDN54819WISM|
-|name|name|TDN_5-4819WISM|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TDN_5-0910WISM', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TDN_5-4819WISM', 'kicadSymbolFootprint': 'Converter_DCDC:Converter_DCDC_TRACO_TDN_5-xxxxWISM_SMD', 'kicadSymbolDatasheet': 'https://assets.tracopower.com/20190626081517/TDN5WISM/documents/tdn5wism-datasheet.pdf', 'kicadSymbolki_keywords': 'dcdc traco 5W', 'kicadSymbolki_description': 'Input 18.0 to 75.0V, Output 9.0V', 'kicadSymbolki_fp_filters': 'Converter?DCDC?TRACO?TDN?5*WISM?SMD*'}]|
+|name|name|Regulator_Switching : TDN_5-4819WISM|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'TDN_5-0910WISM'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TDN_5-4819WISM'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Converter_DCDC</td></tr><tr><td>Converter_DCDC_TRACO_TDN_5-xxxxWISM_SMD'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//assets.tracopower.com/20190626081517/TDN5WISM/documents/tdn5wism-datasheet.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'dcdc traco 5W'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Input 18.0 to 75.0V</td><td> Output 9.0V'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Converter?DCDC?TRACO?TDN?5*WISM?SMD*'</td></tr></table>]|
 ||||

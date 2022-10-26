@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE42XO499D67R42499A > RESE-0402-X-O499D-67-R42499A
+# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE42XO499D67R42499A > oomlout_OOMP_parts : RESE-0402-X-O499D-67-R42499A
 
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O499D-67-R42499A
 - Hex ID: SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE42XO499D67R42499A
-- Name: RESE-0402-X-O499D-67-R42499A
-- Description: RESE-0402-X-O499D-67-R42499A
+- Name: oomlout_OOMP_parts : RESE-0402-X-O499D-67-R42499A
+- Description: oomlout_OOMP_parts : RESE-0402-X-O499D-67-R42499A
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O499D-67-R42499A](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O499D-67-R42499A)
 - Short Link: [http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE42XO499D67R42499A](http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE42XO499D67R42499A)
   
@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|RESE-0402-X-O499D-67-R42499A|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O499D-67-R42499A|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE42XO499D67R42499A|
-|name|name|RESE-0402-X-O499D-67-R42499A|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'R', 'kicadSymbolValue': 'RESE-0402-X-O499D-67-R42499A', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:RESE-0402-X-O499D-67-R42499A', 'kicadSymbolDatasheet': 'oom.lt/R42499A', 'kicadSymbolki_keywords': 'R res resistor', 'kicadSymbolki_description': 'hexID: R42499A;Resistor', 'kicadSymbolki_fp_filters': 'R_*'}]|
+|name|name|oomlout_OOMP_parts : RESE-0402-X-O499D-67-R42499A|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'R'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'RESE-0402-X-O499D-67-R42499A'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'oomlout_OOMP_parts</td></tr><tr><td>RESE-0402-X-O499D-67-R42499A'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'oom.lt/R42499A'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'R res resistor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'hexID</td></tr><tr><td> R42499A;Resistor'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'R_*'</td></tr></table>]|
 ||||

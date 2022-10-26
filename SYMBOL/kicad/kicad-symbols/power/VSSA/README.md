@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKPOWERVSSA > VSSA
+# SZKPOWERVSSA > power : VSSA
 
 - ID: SYMBOL-kicad-kicad-symbols-power-VSSA
 - Hex ID: SZKPOWERVSSA
-- Name: VSSA
-- Description: VSSA
+- Name: power : VSSA
+- Description: power : VSSA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-power-VSSA](http://oom.lt/SYMBOL-kicad-kicad-symbols-power-VSSA)
 - Short Link: [http://oom.lt/SZKPOWERVSSA](http://oom.lt/SZKPOWERVSSA)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|VSSA|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-power-VSSA|
 |Hex ID (short code)|hexID|SZKPOWERVSSA|
-|name|name|VSSA|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': '#PWR', 'kicadSymbolValue': 'VSSA', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_keywords': 'power-flag', 'kicadSymbolki_description': 'Power symbol creates a global label with name "VSSA"'}]|
+|name|name|power : VSSA|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> '#PWR'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'VSSA'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'power-flag'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Power symbol creates a global label with name "VSSA"'</td></tr></table>]|
 ||||

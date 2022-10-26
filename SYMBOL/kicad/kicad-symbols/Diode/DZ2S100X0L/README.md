@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDIODEDZ2S1XL > DZ2S100X0L
+# SZKDIODEDZ2S1XL > Diode : DZ2S100X0L
 
 - ID: SYMBOL-kicad-kicad-symbols-Diode-DZ2S100X0L
 - Hex ID: SZKDIODEDZ2S1XL
-- Name: DZ2S100X0L
-- Description: DZ2S100X0L
+- Name: Diode : DZ2S100X0L
+- Description: Diode : DZ2S100X0L
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-DZ2S100X0L](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-DZ2S100X0L)
 - Short Link: [http://oom.lt/SZKDIODEDZ2S1XL](http://oom.lt/SZKDIODEDZ2S1XL)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DZ2S100X0L|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-DZ2S100X0L|
 |Hex ID (short code)|hexID|SZKDIODEDZ2S1XL|
-|name|name|DZ2S100X0L|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ZPYxx', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'DZ2S100X0L', 'kicadSymbolFootprint': 'Diode_SMD:D_SOD-523', 'kicadSymbolDatasheet': 'https://industrial.panasonic.com/content/data/SC/ds/ds4/DZ2S10000L_E.pdf', 'kicadSymbolki_keywords': 'zener diode', 'kicadSymbolki_description': '150mW Silicon Planar Zener Diode, 10V, SOD-523', 'kicadSymbolki_fp_filters': 'D?SOD?523*'}]|
+|name|name|Diode : DZ2S100X0L|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'ZPYxx'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'DZ2S100X0L'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Diode_SMD</td></tr><tr><td>D_SOD-523'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//industrial.panasonic.com/content/data/SC/ds/ds4/DZ2S10000L_E.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'zener diode'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '150mW Silicon Planar Zener Diode</td><td> 10V</td><td> SOD-523'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'D?SOD?523*'</td></tr></table>]|
 ||||

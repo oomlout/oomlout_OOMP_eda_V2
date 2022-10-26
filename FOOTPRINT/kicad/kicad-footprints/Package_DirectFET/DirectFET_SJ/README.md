@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DirectFET-DirectFET_SJ|
 |Hex ID (short code)|hexID|FZKDFETDIRECTFETSJ|
 |name|name|Package_DirectFET : DirectFET_SJ|
-|Footprint Kicad|footprintKicadDetails|{'name': 'DirectFET_SJ', 'description': 'DirectFET SJ https://www.infineon.com/dgdl/Infineon-AN-1035-ApplicationNotes-v29_01-EN.pdf?fileId=5546d462533600a40153559159020f76#page=18', 'tags': 'DirectFET SJ MOSFET Infineon', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DirectFET.3dshapes/DirectFET_SJ.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'DirectFET_SJ'</td><td> 'description'</td></tr><tr><td> 'DirectFET SJ https</td></tr><tr><td>//www.infineon.com/dgdl/Infineon-AN-1035-ApplicationNotes-v29_01-EN.pdf?fileId=5546d462533600a40153559159020f76#page=18'</td><td> 'tags'</td></tr><tr><td> 'DirectFET SJ MOSFET Infineon'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DirectFET.3dshapes/DirectFET_SJ.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

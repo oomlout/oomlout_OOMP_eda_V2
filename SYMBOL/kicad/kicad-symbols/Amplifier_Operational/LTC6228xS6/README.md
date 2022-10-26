@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKAMPLIFIEROPERATIONALLTC6228XS6 > LTC6228xS6
+# SZKAMPLIFIEROPERATIONALLTC6228XS6 > Amplifier_Operational : LTC6228xS6
 
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LTC6228xS6
 - Hex ID: SZKAMPLIFIEROPERATIONALLTC6228XS6
-- Name: LTC6228xS6
-- Description: LTC6228xS6
+- Name: Amplifier_Operational : LTC6228xS6
+- Description: Amplifier_Operational : LTC6228xS6
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LTC6228xS6](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LTC6228xS6)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALLTC6228XS6](http://oom.lt/SZKAMPLIFIEROPERATIONALLTC6228XS6)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LTC6228xS6|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LTC6228xS6|
 |Hex ID (short code)|hexID|SZKAMPLIFIEROPERATIONALLTC6228XS6|
-|name|name|LTC6228xS6|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LTC6228xS6', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TSOT-23-6', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/LTC6228-6229.pdf', 'kicadSymbolki_keywords': 'single opamp', 'kicadSymbolki_description': 'Low Distortion Rail-to-Rail Output Op Amp with Shutdown, TSOT-23-6', 'kicadSymbolki_fp_filters': 'TSOT?23*'}]|
+|name|name|Amplifier_Operational : LTC6228xS6|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LTC6228xS6'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>TSOT-23-6'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/LTC6228-6229.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'single opamp'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Low Distortion Rail-to-Rail Output Op Amp with Shutdown</td><td> TSOT-23-6'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TSOT?23*'</td></tr></table>]|
 ||||

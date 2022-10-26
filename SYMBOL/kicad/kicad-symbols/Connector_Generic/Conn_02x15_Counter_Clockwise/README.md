@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKCNGENERICCONN2X15COUNTERCLWISE > Conn_02x15_Counter_Clockwise
+# SZKCNGENERICCONN2X15COUNTERCLWISE > Connector_Generic : Conn_02x15_Counter_Clockwise
 
 - ID: SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x15_Counter_Clockwise
 - Hex ID: SZKCNGENERICCONN2X15COUNTERCLWISE
-- Name: Conn_02x15_Counter_Clockwise
-- Description: Conn_02x15_Counter_Clockwise
+- Name: Connector_Generic : Conn_02x15_Counter_Clockwise
+- Description: Connector_Generic : Conn_02x15_Counter_Clockwise
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x15_Counter_Clockwise](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x15_Counter_Clockwise)
 - Short Link: [http://oom.lt/SZKCNGENERICCONN2X15COUNTERCLWISE](http://oom.lt/SZKCNGENERICCONN2X15COUNTERCLWISE)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Conn_02x15_Counter_Clockwise|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x15_Counter_Clockwise|
 |Hex ID (short code)|hexID|SZKCNGENERICCONN2X15COUNTERCLWISE|
-|name|name|Conn_02x15_Counter_Clockwise|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'Conn_02x15_Counter_Clockwise', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'connector', 'kicadSymbolki_description': 'Generic connector, double row, 02x15, counter clockwise pin numbering scheme (similar to DIP package numbering), script generated (kicad-library-utils/schlib/autogen/connector/)', 'kicadSymbolki_fp_filters': 'Connector*:*_2x??_*'}]|
+|name|name|Connector_Generic : Conn_02x15_Counter_Clockwise|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'J'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Conn_02x15_Counter_Clockwise'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'connector'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Generic connector</td><td> double row</td><td> 02x15</td><td> counter clockwise pin numbering scheme (similar to DIP package numbering)</td><td> script generated (kicad-library-utils/schlib/autogen/connector/)'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Connector*</td></tr><tr><td>*_2x??_*'</td></tr></table>]|
 ||||

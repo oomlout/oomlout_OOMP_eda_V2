@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB3_A_Molex_48393-001|
 |Hex ID (short code)|hexID|FZKCNUU3AMX483931|
 |name|name|Connector_USB : USB3_A_Molex_48393-001|
-|Footprint Kicad|footprintKicadDetails|{'name': 'USB3_A_Molex_48393-001', 'description': 'USB 3.0, type A, right angle (http://www.molex.com/pdm_docs/sd/483930003_sd.pdf)', 'tags': 'USB 3.0 type A right angle', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_USB.3dshapes/USB3_A_Molex_48393-001.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'USB3_A_Molex_48393-001'</td><td> 'description'</td></tr><tr><td> 'USB 3.0</td><td> type A</td><td> right angle (http</td></tr><tr><td>//www.molex.com/pdm_docs/sd/483930003_sd.pdf)'</td><td> 'tags'</td></tr><tr><td> 'USB 3.0 type A right angle'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_USB.3dshapes/USB3_A_Molex_48393-001.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

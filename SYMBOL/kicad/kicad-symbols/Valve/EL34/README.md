@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKVAEL34 > EL34
+# SZKVAEL34 > Valve : EL34
 
 - ID: SYMBOL-kicad-kicad-symbols-Valve-EL34
 - Hex ID: SZKVAEL34
-- Name: EL34
-- Description: EL34
+- Name: Valve : EL34
+- Description: Valve : EL34
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Valve-EL34](http://oom.lt/SYMBOL-kicad-kicad-symbols-Valve-EL34)
 - Short Link: [http://oom.lt/SZKVAEL34](http://oom.lt/SZKVAEL34)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|EL34|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Valve-EL34|
 |Hex ID (short code)|hexID|SZKVAEL34|
-|name|name|EL34|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'EL34', 'kicadSymbolFootprint': 'Valve:Valve_Octal', 'kicadSymbolDatasheet': 'http://www.r-type.org/pdfs/el34.pdf', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'pentode valve', 'kicadSymbolki_description': 'pentode, 25W', 'kicadSymbolki_fp_filters': 'VALVE*OCTAL*'}]|
+|name|name|Valve : EL34|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'EL34'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Valve</td></tr><tr><td>Valve_Octal'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.r-type.org/pdfs/el34.pdf'</td><td> 'kicadSymbolki_locked'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'pentode valve'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'pentode</td><td> 25W'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'VALVE*OCTAL*'</td></tr></table>]|
 ||||

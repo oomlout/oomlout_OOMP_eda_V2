@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-WDFN-6-2EP_4.0x2.6mm_P0.65mm|
 |Hex ID (short code)|hexID|FZKDFNWDFN62EP4X26P65|
 |name|name|Package_DFN_QFN : WDFN-6-2EP_4.0x2.6mm_P0.65mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'WDFN-6-2EP_4.0x2.6mm_P0.65mm', 'description': 'WDFN, 6 pin, 4.0x2.6, 0.65P; Two exposed pads, (https://www.onsemi.com/pub/Collateral/511BZ.PDF)', 'tags': 'DFN 0.65P dual flag', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/WDFN-6-2EP_4.0x2.6mm_P0.65mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'WDFN-6-2EP_4.0x2.6mm_P0.65mm'</td><td> 'description'</td></tr><tr><td> 'WDFN</td><td> 6 pin</td><td> 4.0x2.6</td><td> 0.65P; Two exposed pads</td><td> (https</td></tr><tr><td>//www.onsemi.com/pub/Collateral/511BZ.PDF)'</td><td> 'tags'</td></tr><tr><td> 'DFN 0.65P dual flag'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DFN_QFN.3dshapes/WDFN-6-2EP_4.0x2.6mm_P0.65mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

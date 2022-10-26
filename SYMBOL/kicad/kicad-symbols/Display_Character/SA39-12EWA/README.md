@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDICHARACTERSA3912EWA > SA39-12EWA
+# SZKDICHARACTERSA3912EWA > Display_Character : SA39-12EWA
 
 - ID: SYMBOL-kicad-kicad-symbols-Display_Character-SA39-12EWA
 - Hex ID: SZKDICHARACTERSA3912EWA
-- Name: SA39-12EWA
-- Description: SA39-12EWA
+- Name: Display_Character : SA39-12EWA
+- Description: Display_Character : SA39-12EWA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-SA39-12EWA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-SA39-12EWA)
 - Short Link: [http://oom.lt/SZKDICHARACTERSA3912EWA](http://oom.lt/SZKDICHARACTERSA3912EWA)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SA39-12EWA|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Display_Character-SA39-12EWA|
 |Hex ID (short code)|hexID|SZKDICHARACTERSA3912EWA|
-|name|name|SA39-12EWA|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'SA39-12EWA', 'kicadSymbolFootprint': 'Display_7Segment:Sx39-1xxxxx', 'kicadSymbolDatasheet': 'http://www.kingbrightusa.com/images/catalog/SPEC/sa39-12ewa.pdf', 'kicadSymbolki_keywords': 'display LED 7-segment', 'kicadSymbolki_description': 'Single digit 7 segment display, high efficiency red, common anode', 'kicadSymbolki_fp_filters': 'S?39?1*'}]|
+|name|name|Display_Character : SA39-12EWA|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'SA39-12EWA'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Display_7Segment</td></tr><tr><td>Sx39-1xxxxx'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.kingbrightusa.com/images/catalog/SPEC/sa39-12ewa.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'display LED 7-segment'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Single digit 7 segment display</td><td> high efficiency red</td><td> common anode'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'S?39?1*'</td></tr></table>]|
 ||||

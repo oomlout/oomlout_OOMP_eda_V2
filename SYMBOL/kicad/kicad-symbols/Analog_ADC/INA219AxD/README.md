@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKANALOGADCINA219AXD > INA219AxD
+# SZKANALOGADCINA219AXD > Analog_ADC : INA219AxD
 
 - ID: SYMBOL-kicad-kicad-symbols-Analog_ADC-INA219AxD
 - Hex ID: SZKANALOGADCINA219AXD
-- Name: INA219AxD
-- Description: INA219AxD
+- Name: Analog_ADC : INA219AxD
+- Description: Analog_ADC : INA219AxD
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-INA219AxD](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-INA219AxD)
 - Short Link: [http://oom.lt/SZKANALOGADCINA219AXD](http://oom.lt/SZKANALOGADCINA219AXD)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|INA219AxD|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_ADC-INA219AxD|
 |Hex ID (short code)|hexID|SZKANALOGADCINA219AXD|
-|name|name|INA219AxD|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'INA219AxD', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/ina219.pdf', 'kicadSymbolki_keywords': 'ADC I2C 16-Bit Oversampling Current Shunt', 'kicadSymbolki_description': 'Zero-Drift, Bidirectional Current/Power Monitor (0-26V) With I2C Interface, SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm*'}]|
+|name|name|Analog_ADC : INA219AxD|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'INA219AxD'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-8_3.9x4.9mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/ina219.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'ADC I2C 16-Bit Oversampling Current Shunt'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Zero-Drift</td><td> Bidirectional Current/Power Monitor (0-26V) With I2C Interface</td><td> SOIC-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*3.9x4.9mm*P1.27mm*'</td></tr></table>]|
 ||||

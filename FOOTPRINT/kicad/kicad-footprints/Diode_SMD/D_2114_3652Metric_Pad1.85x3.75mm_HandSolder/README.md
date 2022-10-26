@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_2114_3652Metric_Pad1.85x3.75mm_HandSolder|
 |Hex ID (short code)|hexID|FZKDIODESMD21143652METRICPAD185X375HANDSOLDER|
 |name|name|Diode_SMD : D_2114_3652Metric_Pad1.85x3.75mm_HandSolder|
-|Footprint Kicad|footprintKicadDetails|{'name': 'D_2114_3652Metric_Pad1.85x3.75mm_HandSolder', 'description': 'Diode SMD 2114 (3652 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size from: http://datasheets.avx.com/schottky.pdf), generated with kicad-footprint-generator', 'tags': 'diode handsolder', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_2114_3652Metric.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'D_2114_3652Metric_Pad1.85x3.75mm_HandSolder'</td><td> 'description'</td></tr><tr><td> 'Diode SMD 2114 (3652 Metric)</td><td> square (rectangular) end terminal</td><td> IPC_7351 nominal</td><td> (Body size from</td></tr><tr><td> http</td></tr><tr><td>//datasheets.avx.com/schottky.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'diode handsolder'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Diode_SMD.3dshapes/D_2114_3652Metric.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

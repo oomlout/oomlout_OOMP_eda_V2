@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-TO-269AA|
 |Hex ID (short code)|hexID|FZKPACKAGETOSOTSMTO269AA|
 |name|name|Package_TO_SOT_SMD : TO-269AA|
-|Footprint Kicad|footprintKicadDetails|{'name': 'TO-269AA', 'description': 'SMD package TO-269AA (e.g. diode bridge), see http://www.vishay.com/docs/88854/padlayouts.pdf', 'tags': 'TO-269AA MBS diode bridge', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/TO-269AA.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'TO-269AA'</td><td> 'description'</td></tr><tr><td> 'SMD package TO-269AA (e.g. diode bridge)</td><td> see http</td></tr><tr><td>//www.vishay.com/docs/88854/padlayouts.pdf'</td><td> 'tags'</td></tr><tr><td> 'TO-269AA MBS diode bridge'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_TO_SOT_SMD.3dshapes/TO-269AA.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

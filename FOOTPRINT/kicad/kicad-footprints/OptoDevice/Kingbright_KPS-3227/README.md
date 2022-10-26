@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-OptoDevice-Kingbright_KPS-3227|
 |Hex ID (short code)|hexID|FZKOPKINGBRIGHTKPS3227|
 |name|name|OptoDevice : Kingbright_KPS-3227|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Kingbright_KPS-3227', 'description': '3.2mmx2.7mm, light sensor, https://www.kingbright.com/attachments/file/psearch/000/00/00/KPS-3227SP1C(Ver.16).pdf', 'tags': 'KPS-3227 Ambient Light Photo Sensor', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/Kingbright_KPS-3227.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Kingbright_KPS-3227'</td><td> 'description'</td></tr><tr><td> '3.2mmx2.7mm</td><td> light sensor</td><td> https</td></tr><tr><td>//www.kingbright.com/attachments/file/psearch/000/00/00/KPS-3227SP1C(Ver.16).pdf'</td><td> 'tags'</td></tr><tr><td> 'KPS-3227 Ambient Light Photo Sensor'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/OptoDevice.3dshapes/Kingbright_KPS-3227.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

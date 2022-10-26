@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUMCHIPATMEGAATMEGA64916M > ATmega649-16M
+# SZKMCUMCHIPATMEGAATMEGA64916M > MCU_Microchip_ATmega : ATmega649-16M
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega649-16M
 - Hex ID: SZKMCUMCHIPATMEGAATMEGA64916M
-- Name: ATmega649-16M
-- Description: ATmega649-16M
+- Name: MCU_Microchip_ATmega : ATmega649-16M
+- Description: MCU_Microchip_ATmega : ATmega649-16M
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega649-16M](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega649-16M)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATMEGAATMEGA64916M](http://oom.lt/SZKMCUMCHIPATMEGAATMEGA64916M)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ATmega649-16M|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega649-16M|
 |Hex ID (short code)|hexID|SZKMCUMCHIPATMEGAATMEGA64916M|
-|name|name|ATmega649-16M|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ATmega329V-8M', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ATmega649-16M', 'kicadSymbolFootprint': 'Package_DFN_QFN:QFN-64-1EP_9x9mm_P0.5mm_EP5.4x5.4mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/doc2552.pdf', 'kicadSymbolki_keywords': 'AVR 8bit Microcontroller MegaAVR', 'kicadSymbolki_description': '16MHz, 64kB Flash, 4kB SRAM, 2kB EEPROM, JTAG, QFN-64', 'kicadSymbolki_fp_filters': 'QFN*1EP*9x9mm*P0.5mm*'}]|
+|name|name|MCU_Microchip_ATmega : ATmega649-16M|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'ATmega329V-8M'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ATmega649-16M'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>QFN-64-1EP_9x9mm_P0.5mm_EP5.4x5.4mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/doc2552.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'AVR 8bit Microcontroller MegaAVR'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '16MHz</td><td> 64kB Flash</td><td> 4kB SRAM</td><td> 2kB EEPROM</td><td> JTAG</td><td> QFN-64'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'QFN*1EP*9x9mm*P0.5mm*'</td></tr></table>]|
 ||||

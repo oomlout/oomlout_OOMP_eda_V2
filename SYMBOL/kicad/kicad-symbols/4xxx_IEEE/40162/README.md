@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZK4XXXIEEE4162 > 40162
+# SZK4XXXIEEE4162 > 4xxx_IEEE : 40162
 
 - ID: SYMBOL-kicad-kicad-symbols-4xxx_IEEE-40162
 - Hex ID: SZK4XXXIEEE4162
-- Name: 40162
-- Description: 40162
+- Name: 4xxx_IEEE : 40162
+- Description: 4xxx_IEEE : 40162
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx_IEEE-40162](http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx_IEEE-40162)
 - Short Link: [http://oom.lt/SZK4XXXIEEE4162](http://oom.lt/SZK4XXXIEEE4162)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|40162|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-4xxx_IEEE-40162|
 |Hex ID (short code)|hexID|SZK4XXXIEEE4162|
-|name|name|40162|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '4162', 'kicadSymbolReference': 'U', 'kicadSymbolValue': '40162', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ''}]|
+|name|name|4xxx_IEEE : 40162|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> '4162'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> '40162'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> ''</td></tr></table>]|
 ||||

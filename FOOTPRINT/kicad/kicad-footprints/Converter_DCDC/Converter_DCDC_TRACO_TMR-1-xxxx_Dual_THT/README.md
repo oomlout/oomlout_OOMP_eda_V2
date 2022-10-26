@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_TRACO_TMR-1-xxxx_Dual_THT|
 |Hex ID (short code)|hexID|FZKCONCONTRACOTMR1XXXXDUALTHT|
 |name|name|Converter_DCDC : Converter_DCDC_TRACO_TMR-1-xxxx_Dual_THT|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Converter_DCDC_TRACO_TMR-1-xxxx_Dual_THT', 'description': 'DCDC-Converter, TRACO, TMR 1-xxxx, Dual output, Rev. March 21.2016', 'tags': 'DCDC-Converter TRACO TMR1-xxxx Dual_output', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Converter_DCDC.3dshapes/Converter_DCDC_TRACO_TMR-1-xxxx_Dual_THT.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Converter_DCDC_TRACO_TMR-1-xxxx_Dual_THT'</td><td> 'description'</td></tr><tr><td> 'DCDC-Converter</td><td> TRACO</td><td> TMR 1-xxxx</td><td> Dual output</td><td> Rev. March 21.2016'</td><td> 'tags'</td></tr><tr><td> 'DCDC-Converter TRACO TMR1-xxxx Dual_output'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Converter_DCDC.3dshapes/Converter_DCDC_TRACO_TMR-1-xxxx_Dual_THT.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

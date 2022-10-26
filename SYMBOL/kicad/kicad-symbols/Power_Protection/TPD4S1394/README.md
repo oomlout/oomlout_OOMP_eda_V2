@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKPOWERPROTECTIONTPD4S1394 > TPD4S1394
+# SZKPOWERPROTECTIONTPD4S1394 > Power_Protection : TPD4S1394
 
 - ID: SYMBOL-kicad-kicad-symbols-Power_Protection-TPD4S1394
 - Hex ID: SZKPOWERPROTECTIONTPD4S1394
-- Name: TPD4S1394
-- Description: TPD4S1394
+- Name: Power_Protection : TPD4S1394
+- Description: Power_Protection : TPD4S1394
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-TPD4S1394](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-TPD4S1394)
 - Short Link: [http://oom.lt/SZKPOWERPROTECTIONTPD4S1394](http://oom.lt/SZKPOWERPROTECTIONTPD4S1394)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TPD4S1394|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Protection-TPD4S1394|
 |Hex ID (short code)|hexID|SZKPOWERPROTECTIONTPD4S1394|
-|name|name|TPD4S1394|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TPD4S1394', 'kicadSymbolFootprint': 'Package_SON:X2SON-8_1.4x1mm_P0.35mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tpd4s1394.pdf', 'kicadSymbolki_keywords': 'firewire ESD clamp', 'kicadSymbolki_description': 'Firewire ESD Clamp With Live-Insertion Detection Circuit, X2SON-8', 'kicadSymbolki_fp_filters': 'X2SON*1.4x1mm*P0.35mm*'}]|
+|name|name|Power_Protection : TPD4S1394|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TPD4S1394'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SON</td></tr><tr><td>X2SON-8_1.4x1mm_P0.35mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/tpd4s1394.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'firewire ESD clamp'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Firewire ESD Clamp With Live-Insertion Detection Circuit</td><td> X2SON-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'X2SON*1.4x1mm*P0.35mm*'</td></tr></table>]|
 ||||

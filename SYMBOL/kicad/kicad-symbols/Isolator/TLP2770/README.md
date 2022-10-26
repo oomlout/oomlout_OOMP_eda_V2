@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKISOLATORTLP277 > TLP2770
+# SZKISOLATORTLP277 > Isolator : TLP2770
 
 - ID: SYMBOL-kicad-kicad-symbols-Isolator-TLP2770
 - Hex ID: SZKISOLATORTLP277
-- Name: TLP2770
-- Description: TLP2770
+- Name: Isolator : TLP2770
+- Description: Isolator : TLP2770
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-TLP2770](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-TLP2770)
 - Short Link: [http://oom.lt/SZKISOLATORTLP277](http://oom.lt/SZKISOLATORTLP277)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TLP2770|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Isolator-TLP2770|
 |Hex ID (short code)|hexID|SZKISOLATORTLP277|
-|name|name|TLP2770|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TLP2770', 'kicadSymbolFootprint': 'Package_SO:SO-6L_10x3.84mm_P1.27mm', 'kicadSymbolDatasheet': 'https://toshiba.semicon-storage.com/info/docget.jsp?did=53548&prodName=TLP2770', 'kicadSymbolki_keywords': 'Photocouple highspeed non inverting push-pull output', 'kicadSymbolki_description': '20-Mbps low-power non inverting photocouple,5 kVrms, 2.7 to 5.5 Vdd, push-pull output, SO-6L', 'kicadSymbolki_fp_filters': 'SO*6L*10x3.84mm*P1.27mm*'}]|
+|name|name|Isolator : TLP2770|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TLP2770'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SO-6L_10x3.84mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//toshiba.semicon-storage.com/info/docget.jsp?did=53548&prodName=TLP2770'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Photocouple highspeed non inverting push-pull output'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '20-Mbps low-power non inverting photocouple</td><td>5 kVrms</td><td> 2.7 to 5.5 Vdd</td><td> push-pull output</td><td> SO-6L'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SO*6L*10x3.84mm*P1.27mm*'</td></tr></table>]|
 ||||

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Buzzer_Beeper-Speaker_CUI_CMR-1206S-67|
 |Hex ID (short code)|hexID|FZKBZSPEAKERCUICMR126S67|
 |name|name|Buzzer_Beeper : Speaker_CUI_CMR-1206S-67|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Speaker_CUI_CMR-1206S-67', 'description': 'Speaker, 30mW, 300-7000Hz, IP67 face, 12x6x2,25mm, https://www.cuidevices.com/product/resource/cmr-12062s-67.pdf', 'tags': 'speaker CUI', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Buzzer_Beeper.3dshapes/Speaker_CUI_CMR-1206S-67.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Speaker_CUI_CMR-1206S-67'</td><td> 'description'</td></tr><tr><td> 'Speaker</td><td> 30mW</td><td> 300-7000Hz</td><td> IP67 face</td><td> 12x6x2</td><td>25mm</td><td> https</td></tr><tr><td>//www.cuidevices.com/product/resource/cmr-12062s-67.pdf'</td><td> 'tags'</td></tr><tr><td> 'speaker CUI'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Buzzer_Beeper.3dshapes/Speaker_CUI_CMR-1206S-67.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

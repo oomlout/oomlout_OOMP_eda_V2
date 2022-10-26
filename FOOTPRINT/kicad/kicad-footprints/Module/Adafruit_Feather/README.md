@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Module-Adafruit_Feather|
 |Hex ID (short code)|hexID|FZKMOADAFEATHER|
 |name|name|Module : Adafruit_Feather|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Adafruit_Feather', 'description': 'Common footprint for the Adafruit Feather series of boards, https://learn.adafruit.com/adafruit-feather/feather-specification', 'tags': 'Adafruit Feather', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Module.3dshapes/Adafruit_Feather.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Adafruit_Feather'</td><td> 'description'</td></tr><tr><td> 'Common footprint for the Adafruit Feather series of boards</td><td> https</td></tr><tr><td>//learn.adafruit.com/adafruit-feather/feather-specification'</td><td> 'tags'</td></tr><tr><td> 'Adafruit Feather'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Module.3dshapes/Adafruit_Feather.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

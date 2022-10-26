@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKANALOGADCLTC1746 > LTC1746
+# SZKANALOGADCLTC1746 > Analog_ADC : LTC1746
 
 - ID: SYMBOL-kicad-kicad-symbols-Analog_ADC-LTC1746
 - Hex ID: SZKANALOGADCLTC1746
-- Name: LTC1746
-- Description: LTC1746
+- Name: Analog_ADC : LTC1746
+- Description: Analog_ADC : LTC1746
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-LTC1746](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-LTC1746)
 - Short Link: [http://oom.lt/SZKANALOGADCLTC1746](http://oom.lt/SZKANALOGADCLTC1746)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LTC1746|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_ADC-LTC1746|
 |Hex ID (short code)|hexID|SZKANALOGADCLTC1746|
-|name|name|LTC1746|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LTC1742', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LTC1746', 'kicadSymbolFootprint': 'Package_SO:TSSOP-48_6.1x12.5mm_P0.5mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/1746f.pdf', 'kicadSymbolki_keywords': 'ADC analog digital converter pipeline', 'kicadSymbolki_description': 'Low Power, 14-Bit, 25Msps, ADC, TSSOP-48', 'kicadSymbolki_fp_filters': 'TSSOP*6.1x12.5mm*P0.5mm*'}]|
+|name|name|Analog_ADC : LTC1746|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'LTC1742'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LTC1746'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>TSSOP-48_6.1x12.5mm_P0.5mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/1746f.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'ADC analog digital converter pipeline'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Low Power</td><td> 14-Bit</td><td> 25Msps</td><td> ADC</td><td> TSSOP-48'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TSSOP*6.1x12.5mm*P0.5mm*'</td></tr></table>]|
 ||||

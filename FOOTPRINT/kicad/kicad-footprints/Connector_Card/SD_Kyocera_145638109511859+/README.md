@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Card-SD_Kyocera_145638109511859+|
 |Hex ID (short code)|hexID|FZKCNCARDSDKYOCERA14563819511859+|
 |name|name|Connector_Card : SD_Kyocera_145638109511859+|
-|Footprint Kicad|footprintKicadDetails|{'name': 'SD_Kyocera_145638109511859+', 'description': 'SD Card Connector, Reverse Type, Outer Tail, Spring Eject Type (https://global.kyocera.com/prdct/electro/product/pdf/5638.pdf)', 'tags': 'sd card smt', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_Card.3dshapes/SD_Kyocera_145638109511859+.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SD_Kyocera_145638109511859+'</td><td> 'description'</td></tr><tr><td> 'SD Card Connector</td><td> Reverse Type</td><td> Outer Tail</td><td> Spring Eject Type (https</td></tr><tr><td>//global.kyocera.com/prdct/electro/product/pdf/5638.pdf)'</td><td> 'tags'</td></tr><tr><td> 'sd card smt'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_Card.3dshapes/SD_Kyocera_145638109511859+.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

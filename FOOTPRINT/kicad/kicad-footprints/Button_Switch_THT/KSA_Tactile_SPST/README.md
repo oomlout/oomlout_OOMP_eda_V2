@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-KSA_Tactile_SPST|
 |Hex ID (short code)|hexID|FZKBKSATACTILESPST|
 |name|name|Button_Switch_THT : KSA_Tactile_SPST|
-|Footprint Kicad|footprintKicadDetails|{'name': 'KSA_Tactile_SPST', 'description': 'KSA http://www.ckswitches.com/media/1457/ksa_ksl.pdf', 'tags': 'SWITCH SMD KSA SW', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Button_Switch_THT.3dshapes/KSA_Tactile_SPST.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'KSA_Tactile_SPST'</td><td> 'description'</td></tr><tr><td> 'KSA http</td></tr><tr><td>//www.ckswitches.com/media/1457/ksa_ksl.pdf'</td><td> 'tags'</td></tr><tr><td> 'SWITCH SMD KSA SW'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Button_Switch_THT.3dshapes/KSA_Tactile_SPST.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

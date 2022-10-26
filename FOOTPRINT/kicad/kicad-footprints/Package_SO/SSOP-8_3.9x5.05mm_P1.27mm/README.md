@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SO-SSOP-8_3.9x5.05mm_P1.27mm|
 |Hex ID (short code)|hexID|FZKSOSS839X55P127|
 |name|name|Package_SO : SSOP-8_3.9x5.05mm_P1.27mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'SSOP-8_3.9x5.05mm_P1.27mm', 'description': 'SSOP, 8 Pin (http://www.fujitsu.com/downloads/MICRO/fsa/pdf/products/memory/fram/MB85RS16-DS501-00014-6v0-E.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py', 'tags': 'SSOP SO', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/SSOP-8_3.9x5.05mm_P1.27mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SSOP-8_3.9x5.05mm_P1.27mm'</td><td> 'description'</td></tr><tr><td> 'SSOP</td><td> 8 Pin (http</td></tr><tr><td>//www.fujitsu.com/downloads/MICRO/fsa/pdf/products/memory/fram/MB85RS16-DS501-00014-6v0-E.pdf)</td><td> generated with kicad-footprint-generator ipc_gullwing_generator.py'</td><td> 'tags'</td></tr><tr><td> 'SSOP SO'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_SO.3dshapes/SSOP-8_3.9x5.05mm_P1.27mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

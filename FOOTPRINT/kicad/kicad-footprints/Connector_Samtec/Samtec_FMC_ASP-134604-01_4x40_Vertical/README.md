@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Samtec-Samtec_FMC_ASP-134604-01_4x40_Vertical|
 |Hex ID (short code)|hexID|FZKCNSAMTECSAMTECFMCASP1346414X4VERTICAL|
 |name|name|Connector_Samtec : Samtec_FMC_ASP-134604-01_4x40_Vertical|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Samtec_FMC_ASP-134604-01_4x40_Vertical', 'description': 'https://suddendocs.samtec.com/prints/asp-134604-01-mkt.pdf', 'tags': 'FMC LPC VITA ', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_Samtec.3dshapes/Samtec_FMC_ASP-134604-01_4x40_Vertical.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Samtec_FMC_ASP-134604-01_4x40_Vertical'</td><td> 'description'</td></tr><tr><td> 'https</td></tr><tr><td>//suddendocs.samtec.com/prints/asp-134604-01-mkt.pdf'</td><td> 'tags'</td></tr><tr><td> 'FMC LPC VITA '</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_Samtec.3dshapes/Samtec_FMC_ASP-134604-01_4x40_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

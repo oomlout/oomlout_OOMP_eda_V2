@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SON-VSON-10-1EP_3x3mm_P0.5mm_EP1.65x2.4mm_ThermalVias|
 |Hex ID (short code)|hexID|FZKSONVSON11EP3X3P5EP165X24THERMALVIAS|
 |name|name|Package_SON : VSON-10-1EP_3x3mm_P0.5mm_EP1.65x2.4mm_ThermalVias|
-|Footprint Kicad|footprintKicadDetails|{'name': 'VSON-10-1EP_3x3mm_P0.5mm_EP1.65x2.4mm_ThermalVias', 'description': 'VSON 10 Thermal on 11 3x3mm Pitch 0.5mm http://chip.tomsk.ru/chip/chipdoc.nsf/Package/D8A64DD165C2AAD9472579400024FC41!OpenDocument', 'tags': 'VSON 10 Thermal on 11 3x3mm Pitch 0.5mm', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SON.3dshapes/VSON-10-1EP_3x3mm_P0.5mm_EP1.65x2.4mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'VSON-10-1EP_3x3mm_P0.5mm_EP1.65x2.4mm_ThermalVias'</td><td> 'description'</td></tr><tr><td> 'VSON 10 Thermal on 11 3x3mm Pitch 0.5mm http</td></tr><tr><td>//chip.tomsk.ru/chip/chipdoc.nsf/Package/D8A64DD165C2AAD9472579400024FC41!OpenDocument'</td><td> 'tags'</td></tr><tr><td> 'VSON 10 Thermal on 11 3x3mm Pitch 0.5mm'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_SON.3dshapes/VSON-10-1EP_3x3mm_P0.5mm_EP1.65x2.4mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

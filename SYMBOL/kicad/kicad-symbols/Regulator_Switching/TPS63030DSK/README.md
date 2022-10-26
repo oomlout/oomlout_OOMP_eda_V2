@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORSWITCHINGTPS633DSK > TPS63030DSK
+# SZKREGULATORSWITCHINGTPS633DSK > Regulator_Switching : TPS63030DSK
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS63030DSK
 - Hex ID: SZKREGULATORSWITCHINGTPS633DSK
-- Name: TPS63030DSK
-- Description: TPS63030DSK
+- Name: Regulator_Switching : TPS63030DSK
+- Description: Regulator_Switching : TPS63030DSK
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS63030DSK](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS63030DSK)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGTPS633DSK](http://oom.lt/SZKREGULATORSWITCHINGTPS633DSK)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TPS63030DSK|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS63030DSK|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGTPS633DSK|
-|name|name|TPS63030DSK|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TPS63030DSK', 'kicadSymbolFootprint': 'Package_SON:WSON-10-1EP_2.5x2.5mm_P0.5mm_EP1.2x2mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tps63030.pdf', 'kicadSymbolki_keywords': 'Buck-Boost adjustable converter', 'kicadSymbolki_description': 'Buck-Boost Converter, 1.8-5.5V Input Voltage, 1A Switch Current, Adjustable Output Voltage, VSON-10 (DSK0010A)', 'kicadSymbolki_fp_filters': 'WSON*1EP*2.5x2.5mm*P0.5mm*EP1.2x2mm*'}]|
+|name|name|Regulator_Switching : TPS63030DSK|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TPS63030DSK'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SON</td></tr><tr><td>WSON-10-1EP_2.5x2.5mm_P0.5mm_EP1.2x2mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/tps63030.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Buck-Boost adjustable converter'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Buck-Boost Converter</td><td> 1.8-5.5V Input Voltage</td><td> 1A Switch Current</td><td> Adjustable Output Voltage</td><td> VSON-10 (DSK0010A)'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'WSON*1EP*2.5x2.5mm*P0.5mm*EP1.2x2mm*'</td></tr></table>]|
 ||||

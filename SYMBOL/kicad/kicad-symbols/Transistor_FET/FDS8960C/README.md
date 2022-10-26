@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORFETFDS896C > FDS8960C
+# SZKTRANSISTORFETFDS896C > Transistor_FET : FDS8960C
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-FDS8960C
 - Hex ID: SZKTRANSISTORFETFDS896C
-- Name: FDS8960C
-- Description: FDS8960C
+- Name: Transistor_FET : FDS8960C
+- Description: Transistor_FET : FDS8960C
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-FDS8960C](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-FDS8960C)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETFDS896C](http://oom.lt/SZKTRANSISTORFETFDS896C)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|FDS8960C|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-FDS8960C|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETFDS896C|
-|name|name|FDS8960C|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'IRF7309IPBF', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'FDS8960C', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm', 'kicadSymbolDatasheet': 'https://www.mouser.fr/datasheet/2/308/FDS8960C-D-1808807.pdf', 'kicadSymbolki_keywords': 'Dual N-Channel P-Channel MOSFET', 'kicadSymbolki_description': '7A Id, 35V Vds, Dual N and P Channel MOSFET, 24mOhm Ron, 10V Vgs, SO8L', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm*'}]|
+|name|name|Transistor_FET : FDS8960C|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'IRF7309IPBF'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'FDS8960C'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-8_3.9x4.9mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.mouser.fr/datasheet/2/308/FDS8960C-D-1808807.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Dual N-Channel P-Channel MOSFET'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '7A Id</td><td> 35V Vds</td><td> Dual N and P Channel MOSFET</td><td> 24mOhm Ron</td><td> 10V Vgs</td><td> SO8L'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*3.9x4.9mm*P1.27mm*'</td></tr></table>]|
 ||||

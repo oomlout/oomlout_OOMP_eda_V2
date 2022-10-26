@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-WQFN-32-1EP_5x5mm_P0.5mm_EP3.1x3.1mm|
 |Hex ID (short code)|hexID|FZKDFNWQFN321EP5X5P5EP31X31|
 |name|name|Package_DFN_QFN : WQFN-32-1EP_5x5mm_P0.5mm_EP3.1x3.1mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'WQFN-32-1EP_5x5mm_P0.5mm_EP3.1x3.1mm', 'description': 'QFN, 32-Leads, Body 5x5x0.8mm, Pitch 0.5mm, Thermal Pad 3.1x3.1mm; (see Texas Instruments LM25119 http://www.ti.com/lit/ds/symlink/lm25119.pdf)', 'tags': 'WQFN 0.5', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/WQFN-32-1EP_5x5mm_P0.5mm_EP3.1x3.1mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'WQFN-32-1EP_5x5mm_P0.5mm_EP3.1x3.1mm'</td><td> 'description'</td></tr><tr><td> 'QFN</td><td> 32-Leads</td><td> Body 5x5x0.8mm</td><td> Pitch 0.5mm</td><td> Thermal Pad 3.1x3.1mm; (see Texas Instruments LM25119 http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/lm25119.pdf)'</td><td> 'tags'</td></tr><tr><td> 'WQFN 0.5'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DFN_QFN.3dshapes/WQFN-32-1EP_5x5mm_P0.5mm_EP3.1x3.1mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

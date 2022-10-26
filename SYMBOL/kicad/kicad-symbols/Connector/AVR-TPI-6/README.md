@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKCNAVRTPI6 > AVR-TPI-6
+# SZKCNAVRTPI6 > Connector : AVR-TPI-6
 
 - ID: SYMBOL-kicad-kicad-symbols-Connector-AVR-TPI-6
 - Hex ID: SZKCNAVRTPI6
-- Name: AVR-TPI-6
-- Description: AVR-TPI-6
+- Name: Connector : AVR-TPI-6
+- Description: Connector : AVR-TPI-6
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-AVR-TPI-6](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-AVR-TPI-6)
 - Short Link: [http://oom.lt/SZKCNAVRTPI6](http://oom.lt/SZKCNAVRTPI6)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AVR-TPI-6|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-AVR-TPI-6|
 |Hex ID (short code)|hexID|SZKCNAVRTPI6|
-|name|name|AVR-TPI-6|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'AVR-TPI-6', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ' ~', 'kicadSymbolki_keywords': 'AVR TPI Connector', 'kicadSymbolki_description': 'Atmel 6-pin TPI connector', 'kicadSymbolki_fp_filters': 'IDC?Header*2x03* Pin?Header*2x03*'}]|
+|name|name|Connector : AVR-TPI-6|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'J'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'AVR-TPI-6'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> ' ~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'AVR TPI Connector'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Atmel 6-pin TPI connector'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'IDC?Header*2x03* Pin?Header*2x03*'</td></tr></table>]|
 ||||

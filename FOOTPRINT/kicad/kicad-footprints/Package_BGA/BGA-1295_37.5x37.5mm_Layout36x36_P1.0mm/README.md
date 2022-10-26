@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_BGA-BGA-1295_37.5x37.5mm_Layout36x36_P1.0mm|
 |Hex ID (short code)|hexID|FZKBGABGA1295375X375LAYOUT36X36P1|
 |name|name|Package_BGA : BGA-1295_37.5x37.5mm_Layout36x36_P1.0mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'BGA-1295_37.5x37.5mm_Layout36x36_P1.0mm', 'description': 'BGA-1295', 'tags': 'BGA-1295', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/BGA-1295_37.5x37.5mm_Layout36x36_P1.0mm.wrl', 'pins': {'type': 'smd', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'BGA-1295_37.5x37.5mm_Layout36x36_P1.0mm'</td><td> 'description'</td></tr><tr><td> 'BGA-1295'</td><td> 'tags'</td></tr><tr><td> 'BGA-1295'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_BGA.3dshapes/BGA-1295_37.5x37.5mm_Layout36x36_P1.0mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

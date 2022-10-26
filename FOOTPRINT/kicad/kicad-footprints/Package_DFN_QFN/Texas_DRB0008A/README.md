@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_DRB0008A|
 |Hex ID (short code)|hexID|FZKDFNTEXASDRB8A|
 |name|name|Package_DFN_QFN : Texas_DRB0008A|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Texas_DRB0008A', 'description': 'DFN-8, 3x3x1mm, http://www.ti.com/lit/ds/symlink/ucc24610.pdf', 'tags': 'DRB0008A', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Texas_DRB0008A.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Texas_DRB0008A'</td><td> 'description'</td></tr><tr><td> 'DFN-8</td><td> 3x3x1mm</td><td> http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/ucc24610.pdf'</td><td> 'tags'</td></tr><tr><td> 'DRB0008A'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DFN_QFN.3dshapes/Texas_DRB0008A.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

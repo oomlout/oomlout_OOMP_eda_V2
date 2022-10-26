@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKPOWERMANAGEMENTAUIPS781S > AUIPS7081S
+# SZKPOWERMANAGEMENTAUIPS781S > Power_Management : AUIPS7081S
 
 - ID: SYMBOL-kicad-kicad-symbols-Power_Management-AUIPS7081S
 - Hex ID: SZKPOWERMANAGEMENTAUIPS781S
-- Name: AUIPS7081S
-- Description: AUIPS7081S
+- Name: Power_Management : AUIPS7081S
+- Description: Power_Management : AUIPS7081S
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-AUIPS7081S](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-AUIPS7081S)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTAUIPS781S](http://oom.lt/SZKPOWERMANAGEMENTAUIPS781S)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AUIPS7081S|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Management-AUIPS7081S|
 |Hex ID (short code)|hexID|SZKPOWERMANAGEMENTAUIPS781S|
-|name|name|AUIPS7081S|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AUIPS7081S', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TO-263-4', 'kicadSymbolDatasheet': 'https://www.infineon.com/dgdl/auips7081.pdf?fileId=5546d462533600a4015355a7b8d5131e', 'kicadSymbolki_keywords': 'high side switch', 'kicadSymbolki_description': 'Intelligent Power High Side Switch, 70V, 5A, D2PAK-5L', 'kicadSymbolki_fp_filters': 'TO?263*'}]|
+|name|name|Power_Management : AUIPS7081S|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'AUIPS7081S'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>TO-263-4'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.infineon.com/dgdl/auips7081.pdf?fileId=5546d462533600a4015355a7b8d5131e'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'high side switch'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Intelligent Power High Side Switch</td><td> 70V</td><td> 5A</td><td> D2PAK-5L'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TO?263*'</td></tr></table>]|
 ||||

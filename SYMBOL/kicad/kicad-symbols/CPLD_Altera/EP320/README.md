@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKCPLDALTERAEP32 > EP320
+# SZKCPLDALTERAEP32 > CPLD_Altera : EP320
 
 - ID: SYMBOL-kicad-kicad-symbols-CPLD_Altera-EP320
 - Hex ID: SZKCPLDALTERAEP32
-- Name: EP320
-- Description: EP320
+- Name: CPLD_Altera : EP320
+- Description: CPLD_Altera : EP320
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-CPLD_Altera-EP320](http://oom.lt/SYMBOL-kicad-kicad-symbols-CPLD_Altera-EP320)
 - Short Link: [http://oom.lt/SZKCPLDALTERAEP32](http://oom.lt/SZKCPLDALTERAEP32)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|EP320|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-CPLD_Altera-EP320|
 |Hex ID (short code)|hexID|SZKCPLDALTERAEP32|
-|name|name|EP320|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'EP320', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'EPLD', 'kicadSymbolki_description': 'EPLD'}]|
+|name|name|CPLD_Altera : EP320|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'EP320'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'EPLD'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'EPLD'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUMONUCLEO144F722ZE > NUCLEO144-F722ZE
+# SZKMCUMONUCLEO144F722ZE > MCU_Module : NUCLEO144-F722ZE
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Module-NUCLEO144-F722ZE
 - Hex ID: SZKMCUMONUCLEO144F722ZE
-- Name: NUCLEO144-F722ZE
-- Description: NUCLEO144-F722ZE
+- Name: MCU_Module : NUCLEO144-F722ZE
+- Description: MCU_Module : NUCLEO144-F722ZE
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Module-NUCLEO144-F722ZE](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Module-NUCLEO144-F722ZE)
 - Short Link: [http://oom.lt/SZKMCUMONUCLEO144F722ZE](http://oom.lt/SZKMCUMONUCLEO144F722ZE)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|NUCLEO144-F722ZE|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Module-NUCLEO144-F722ZE|
 |Hex ID (short code)|hexID|SZKMCUMONUCLEO144F722ZE|
-|name|name|NUCLEO144-F722ZE|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'NUCLEO144-F429ZI', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'NUCLEO144-F722ZE', 'kicadSymbolFootprint': 'Module:ST_Morpho_Connector_144_STLink', 'kicadSymbolDatasheet': 'https://www.st.com/resource/en/user_manual/dm00244518-stm32-nucleo144-boards-stmicroelectronics.pdf', 'kicadSymbolki_keywords': 'STM32 Nucleo ST', 'kicadSymbolki_description': 'Nucleo 144 Development Board with STM32F722ZET6 MCU, 256kB RAM, 512Kb FLASH', 'kicadSymbolki_fp_filters': 'ST*Morpho*Connector*144*STLink*'}]|
+|name|name|MCU_Module : NUCLEO144-F722ZE|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'NUCLEO144-F429ZI'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'NUCLEO144-F722ZE'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Module</td></tr><tr><td>ST_Morpho_Connector_144_STLink'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.st.com/resource/en/user_manual/dm00244518-stm32-nucleo144-boards-stmicroelectronics.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'STM32 Nucleo ST'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Nucleo 144 Development Board with STM32F722ZET6 MCU</td><td> 256kB RAM</td><td> 512Kb FLASH'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'ST*Morpho*Connector*144*STLink*'</td></tr></table>]|
 ||||

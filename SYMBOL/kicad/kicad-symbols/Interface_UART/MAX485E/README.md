@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKINTERFACEUARTMAX485E > MAX485E
+# SZKINTERFACEUARTMAX485E > Interface_UART : MAX485E
 
 - ID: SYMBOL-kicad-kicad-symbols-Interface_UART-MAX485E
 - Hex ID: SZKINTERFACEUARTMAX485E
-- Name: MAX485E
-- Description: MAX485E
+- Name: Interface_UART : MAX485E
+- Description: Interface_UART : MAX485E
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-MAX485E](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-MAX485E)
 - Short Link: [http://oom.lt/SZKINTERFACEUARTMAX485E](http://oom.lt/SZKINTERFACEUARTMAX485E)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MAX485E|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_UART-MAX485E|
 |Hex ID (short code)|hexID|SZKINTERFACEUARTMAX485E|
-|name|name|MAX485E|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MAX481E', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MAX485E', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://datasheets.maximintegrated.com/en/ds/MAX1487E-MAX491E.pdf', 'kicadSymbolki_keywords': 'Half duplex RS-485/RS-422, 2.5 Mbps, ±15kV electro-static discharge (ESD) protection, no slew-rate, no low-power shutdown, with receiver/driver enable, 32 receiver drive kapacitity, DIP-8 and SOIC-8', 'kicadSymbolki_description': 'Half duplex RS-485/RS-422, 2.5 Mbps, ±15kV electro-static discharge (ESD) protection, no slew-rate, no low-power shutdown, with receiver/driver enable, 32 receiver drive kapacitity, DIP-8 and SOIC-8', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm* SOIC*3.9x4.9mm*P1.27mm*'}]|
+|name|name|Interface_UART : MAX485E|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'MAX481E'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MAX485E'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//datasheets.maximintegrated.com/en/ds/MAX1487E-MAX491E.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Half duplex RS-485/RS-422</td><td> 2.5 Mbps</td><td> ±15kV electro-static discharge (ESD) protection</td><td> no slew-rate</td><td> no low-power shutdown</td><td> with receiver/driver enable</td><td> 32 receiver drive kapacitity</td><td> DIP-8 and SOIC-8'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Half duplex RS-485/RS-422</td><td> 2.5 Mbps</td><td> ±15kV electro-static discharge (ESD) protection</td><td> no slew-rate</td><td> no low-power shutdown</td><td> with receiver/driver enable</td><td> 32 receiver drive kapacitity</td><td> DIP-8 and SOIC-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W7.62mm* SOIC*3.9x4.9mm*P1.27mm*'</td></tr></table>]|
 ||||

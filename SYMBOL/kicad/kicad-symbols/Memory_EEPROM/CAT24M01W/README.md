@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMEMORYEEPROMCAT24M1W > CAT24M01W
+# SZKMEMORYEEPROMCAT24M1W > Memory_EEPROM : CAT24M01W
 
 - ID: SYMBOL-kicad-kicad-symbols-Memory_EEPROM-CAT24M01W
 - Hex ID: SZKMEMORYEEPROMCAT24M1W
-- Name: CAT24M01W
-- Description: CAT24M01W
+- Name: Memory_EEPROM : CAT24M01W
+- Description: Memory_EEPROM : CAT24M01W
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_EEPROM-CAT24M01W](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_EEPROM-CAT24M01W)
 - Short Link: [http://oom.lt/SZKMEMORYEEPROMCAT24M1W](http://oom.lt/SZKMEMORYEEPROMCAT24M1W)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|CAT24M01W|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Memory_EEPROM-CAT24M01W|
 |Hex ID (short code)|hexID|SZKMEMORYEEPROMCAT24M1W|
-|name|name|CAT24M01W|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'CAT24M01W', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pub/Collateral/CAT24M01-D.PDF', 'kicadSymbolki_keywords': 'EEPROM 1Mb I2C', 'kicadSymbolki_description': '1 Mb I2C CMOS Serial EEPROM, SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm*'}]|
+|name|name|Memory_EEPROM : CAT24M01W|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'CAT24M01W'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-8_3.9x4.9mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.onsemi.com/pub/Collateral/CAT24M01-D.PDF'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'EEPROM 1Mb I2C'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '1 Mb I2C CMOS Serial EEPROM</td><td> SOIC-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*3.9x4.9mm*P1.27mm*'</td></tr></table>]|
 ||||

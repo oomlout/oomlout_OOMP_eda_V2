@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKRFMIXERADEX1 > ADEX-10
+# SZKRFMIXERADEX1 > RF_Mixer : ADEX-10
 
 - ID: SYMBOL-kicad-kicad-symbols-RF_Mixer-ADEX-10
 - Hex ID: SZKRFMIXERADEX1
-- Name: ADEX-10
-- Description: ADEX-10
+- Name: RF_Mixer : ADEX-10
+- Description: RF_Mixer : ADEX-10
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Mixer-ADEX-10](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Mixer-ADEX-10)
 - Short Link: [http://oom.lt/SZKRFMIXERADEX1](http://oom.lt/SZKRFMIXERADEX1)
   
@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|ADEX-10|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-RF_Mixer-ADEX-10|
 |Hex ID (short code)|hexID|SZKRFMIXERADEX1|
-|name|name|ADEX-10|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ADE-6', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ADEX-10', 'kicadSymbolFootprint': 'RF_Mini-Circuits:Mini-Circuits_CD542_LandPatternPL-052', 'kicadSymbolDatasheet': 'https://www.minicircuits.com/pdfs/ADEX-10.pdf', 'kicadSymbolki_keywords': 'mixer rf', 'kicadSymbolki_description': 'Mixer, +7 dBm LO, 10 to 1000 MHz, CD542', 'kicadSymbolki_fp_filters': 'Mini?Circuits*CD542*'}]|
+|name|name|RF_Mixer : ADEX-10|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'ADE-6'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ADEX-10'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'RF_Mini-Circuits</td></tr><tr><td>Mini-Circuits_CD542_LandPatternPL-052'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.minicircuits.com/pdfs/ADEX-10.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'mixer rf'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Mixer</td><td> +7 dBm LO</td><td> 10 to 1000 MHz</td><td> CD542'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Mini?Circuits*CD542*'</td></tr></table>]|
 ||||

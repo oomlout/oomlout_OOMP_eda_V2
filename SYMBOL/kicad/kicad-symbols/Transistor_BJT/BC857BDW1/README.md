@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORBJTBC857BDW1 > BC857BDW1
+# SZKTRANSISTORBJTBC857BDW1 > Transistor_BJT : BC857BDW1
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC857BDW1
 - Hex ID: SZKTRANSISTORBJTBC857BDW1
-- Name: BC857BDW1
-- Description: BC857BDW1
+- Name: Transistor_BJT : BC857BDW1
+- Description: Transistor_BJT : BC857BDW1
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC857BDW1](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC857BDW1)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTBC857BDW1](http://oom.lt/SZKTRANSISTORBJTBC857BDW1)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BC857BDW1|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC857BDW1|
 |Hex ID (short code)|hexID|SZKTRANSISTORBJTBC857BDW1|
-|name|name|BC857BDW1|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BC856BS', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'BC857BDW1', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-363_SC-70-6', 'kicadSymbolDatasheet': 'http://www.onsemi.com/pub_link/Collateral/BC856BDW1T1-D.PDF', 'kicadSymbolki_keywords': 'PNP/PNP Transistor', 'kicadSymbolki_description': '100mA IC, 45V Vce, Dual PNP/PNP Transistors, SOT-363', 'kicadSymbolki_fp_filters': 'SOT?363*'}]|
+|name|name|Transistor_BJT : BC857BDW1|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'BC856BS'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'BC857BDW1'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-363_SC-70-6'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.onsemi.com/pub_link/Collateral/BC856BDW1T1-D.PDF'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'PNP/PNP Transistor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '100mA IC</td><td> 45V Vce</td><td> Dual PNP/PNP Transistors</td><td> SOT-363'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?363*'</td></tr></table>]|
 ||||

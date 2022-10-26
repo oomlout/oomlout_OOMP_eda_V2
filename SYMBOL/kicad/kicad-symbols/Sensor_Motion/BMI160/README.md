@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKSENMOTIONBMI16 > BMI160
+# SZKSENMOTIONBMI16 > Sensor_Motion : BMI160
 
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Motion-BMI160
 - Hex ID: SZKSENMOTIONBMI16
-- Name: BMI160
-- Description: BMI160
+- Name: Sensor_Motion : BMI160
+- Description: Sensor_Motion : BMI160
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Motion-BMI160](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Motion-BMI160)
 - Short Link: [http://oom.lt/SZKSENMOTIONBMI16](http://oom.lt/SZKSENMOTIONBMI16)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BMI160|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Motion-BMI160|
 |Hex ID (short code)|hexID|SZKSENMOTIONBMI16|
-|name|name|BMI160|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'BMI160', 'kicadSymbolFootprint': 'Package_LGA:Bosch_LGA-14_3x2.5mm_P0.5mm', 'kicadSymbolDatasheet': 'https://ae-bst.resource.bosch.com/media/_tech/media/datasheets/BST-BMI160-DS000.pdf', 'kicadSymbolki_keywords': 'Bosh IMU small low power inertial measurement unit', 'kicadSymbolki_description': 'Small, low power inertial measurement unit, LGA-14', 'kicadSymbolki_fp_filters': 'Bosch*LGA*3x2.5mm*P0.5mm*'}]|
+|name|name|Sensor_Motion : BMI160|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'BMI160'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_LGA</td></tr><tr><td>Bosch_LGA-14_3x2.5mm_P0.5mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//ae-bst.resource.bosch.com/media/_tech/media/datasheets/BST-BMI160-DS000.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Bosh IMU small low power inertial measurement unit'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Small</td><td> low power inertial measurement unit</td><td> LGA-14'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Bosch*LGA*3x2.5mm*P0.5mm*'</td></tr></table>]|
 ||||

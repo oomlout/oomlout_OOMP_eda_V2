@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORBJTKTD1624 > KTD1624
+# SZKTRANSISTORBJTKTD1624 > Transistor_BJT : KTD1624
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-KTD1624
 - Hex ID: SZKTRANSISTORBJTKTD1624
-- Name: KTD1624
-- Description: KTD1624
+- Name: Transistor_BJT : KTD1624
+- Description: Transistor_BJT : KTD1624
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-KTD1624](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-KTD1624)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTKTD1624](http://oom.lt/SZKTRANSISTORBJTKTD1624)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|KTD1624|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_BJT-KTD1624|
 |Hex ID (short code)|hexID|SZKTRANSISTORBJTKTD1624|
-|name|name|KTD1624|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'KTD1624', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-89-3', 'kicadSymbolDatasheet': 'http://www2.kec.co.kr/data/databook/pdf/KTD/Eng/KTD1624.pdf', 'kicadSymbolki_keywords': 'Switching NPN Transistor', 'kicadSymbolki_description': 'Epitaxial Planar NPN Transistor, SOT-89', 'kicadSymbolki_fp_filters': 'SOT?89*'}]|
+|name|name|Transistor_BJT : KTD1624|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'KTD1624'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-89-3'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www2.kec.co.kr/data/databook/pdf/KTD/Eng/KTD1624.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Switching NPN Transistor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Epitaxial Planar NPN Transistor</td><td> SOT-89'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?89*'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORBJTMUN5211DW1 > MUN5211DW1
+# SZKTRANSISTORBJTMUN5211DW1 > Transistor_BJT : MUN5211DW1
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-MUN5211DW1
 - Hex ID: SZKTRANSISTORBJTMUN5211DW1
-- Name: MUN5211DW1
-- Description: MUN5211DW1
+- Name: Transistor_BJT : MUN5211DW1
+- Description: Transistor_BJT : MUN5211DW1
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-MUN5211DW1](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-MUN5211DW1)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTMUN5211DW1](http://oom.lt/SZKTRANSISTORBJTMUN5211DW1)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MUN5211DW1|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_BJT-MUN5211DW1|
 |Hex ID (short code)|hexID|SZKTRANSISTORBJTMUN5211DW1|
-|name|name|MUN5211DW1|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'MUN5211DW1', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-363_SC-70-6', 'kicadSymbolDatasheet': 'http://www.onsemi.com/pub/Collateral/DTC114ED-D.PDF', 'kicadSymbolki_keywords': 'Dual NPN Transistor', 'kicadSymbolki_description': '0.1A Ic, 50V Vce, Dual NPN Bias Resistor Transistors, SOT-363', 'kicadSymbolki_fp_filters': 'SOT*363*'}]|
+|name|name|Transistor_BJT : MUN5211DW1|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MUN5211DW1'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-363_SC-70-6'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.onsemi.com/pub/Collateral/DTC114ED-D.PDF'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Dual NPN Transistor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '0.1A Ic</td><td> 50V Vce</td><td> Dual NPN Bias Resistor Transistors</td><td> SOT-363'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT*363*'</td></tr></table>]|
 ||||

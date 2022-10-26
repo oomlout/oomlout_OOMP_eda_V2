@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Radial_D7.2mm_P3.00mm_Murata_1700|
 |Hex ID (short code)|hexID|FZKINLRD72P3M17|
 |name|name|Inductor_THT : L_Radial_D7.2mm_P3.00mm_Murata_1700|
-|Footprint Kicad|footprintKicadDetails|{'name': 'L_Radial_D7.2mm_P3.00mm_Murata_1700', 'description': 'Inductor, Radial series, Radial, pin pitch=3.00mm, , diameter=7.2mm, MuRATA, 1700, http://www.murata-ps.com/data/magnetics/kmp_1700.pdf', 'tags': 'Inductor Radial series Radial pin pitch 3.00mm  diameter 7.2mm MuRATA 1700', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Radial_D7.2mm_P3.00mm_Murata_1700.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'L_Radial_D7.2mm_P3.00mm_Murata_1700'</td><td> 'description'</td></tr><tr><td> 'Inductor</td><td> Radial series</td><td> Radial</td><td> pin pitch=3.00mm</td><td> </td><td> diameter=7.2mm</td><td> MuRATA</td><td> 1700</td><td> http</td></tr><tr><td>//www.murata-ps.com/data/magnetics/kmp_1700.pdf'</td><td> 'tags'</td></tr><tr><td> 'Inductor Radial series Radial pin pitch 3.00mm  diameter 7.2mm MuRATA 1700'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Inductor_THT.3dshapes/L_Radial_D7.2mm_P3.00mm_Murata_1700.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

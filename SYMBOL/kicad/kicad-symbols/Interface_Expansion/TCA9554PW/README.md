@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKINTERFACEEXPANSIONTCA9554PW > TCA9554PW
+# SZKINTERFACEEXPANSIONTCA9554PW > Interface_Expansion : TCA9554PW
 
 - ID: SYMBOL-kicad-kicad-symbols-Interface_Expansion-TCA9554PW
 - Hex ID: SZKINTERFACEEXPANSIONTCA9554PW
-- Name: TCA9554PW
-- Description: TCA9554PW
+- Name: Interface_Expansion : TCA9554PW
+- Description: Interface_Expansion : TCA9554PW
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Expansion-TCA9554PW](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Expansion-TCA9554PW)
 - Short Link: [http://oom.lt/SZKINTERFACEEXPANSIONTCA9554PW](http://oom.lt/SZKINTERFACEEXPANSIONTCA9554PW)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TCA9554PW|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_Expansion-TCA9554PW|
 |Hex ID (short code)|hexID|SZKINTERFACEEXPANSIONTCA9554PW|
-|name|name|TCA9554PW|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TCA9554PW', 'kicadSymbolFootprint': 'Package_SO:TSSOP-16_4.4x5mm_P0.65mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tca9554.pdf', 'kicadSymbolki_keywords': 'SMBUS I2C Expander', 'kicadSymbolki_description': '8 Bit Port/Expander, I2C SMBUS, Interrupt output, TSSOP-16', 'kicadSymbolki_fp_filters': 'TSSOP*4.4x5mm*P0.65mm*'}]|
+|name|name|Interface_Expansion : TCA9554PW|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TCA9554PW'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>TSSOP-16_4.4x5mm_P0.65mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/tca9554.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'SMBUS I2C Expander'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '8 Bit Port/Expander</td><td> I2C SMBUS</td><td> Interrupt output</td><td> TSSOP-16'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TSSOP*4.4x5mm*P0.65mm*'</td></tr></table>]|
 ||||

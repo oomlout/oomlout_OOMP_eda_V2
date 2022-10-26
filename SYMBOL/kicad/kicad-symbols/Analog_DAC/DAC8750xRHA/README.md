@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKANALOGDACDAC875XRHA > DAC8750xRHA
+# SZKANALOGDACDAC875XRHA > Analog_DAC : DAC8750xRHA
 
 - ID: SYMBOL-kicad-kicad-symbols-Analog_DAC-DAC8750xRHA
 - Hex ID: SZKANALOGDACDAC875XRHA
-- Name: DAC8750xRHA
-- Description: DAC8750xRHA
+- Name: Analog_DAC : DAC8750xRHA
+- Description: Analog_DAC : DAC8750xRHA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-DAC8750xRHA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-DAC8750xRHA)
 - Short Link: [http://oom.lt/SZKANALOGDACDAC875XRHA](http://oom.lt/SZKANALOGDACDAC875XRHA)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DAC8750xRHA|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_DAC-DAC8750xRHA|
 |Hex ID (short code)|hexID|SZKANALOGDACDAC875XRHA|
-|name|name|DAC8750xRHA|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'DAC8750xRHA', 'kicadSymbolFootprint': 'Package_DFN_QFN:Texas_S-PVQFN-N40_EP4.6x4.6mm_ThermalVias', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/dac7750.pdf', 'kicadSymbolki_keywords': 'DAC Current Loop 20mA', 'kicadSymbolki_description': 'Single-Channel, 16bit Programmable Current Output DAC for 4-mA to 20-mA Current Loop Applications, VQFN-40', 'kicadSymbolki_fp_filters': 'Texas*PVQFN*'}]|
+|name|name|Analog_DAC : DAC8750xRHA|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'DAC8750xRHA'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>Texas_S-PVQFN-N40_EP4.6x4.6mm_ThermalVias'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/dac7750.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'DAC Current Loop 20mA'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Single-Channel</td><td> 16bit Programmable Current Output DAC for 4-mA to 20-mA Current Loop Applications</td><td> VQFN-40'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Texas*PVQFN*'</td></tr></table>]|
 ||||

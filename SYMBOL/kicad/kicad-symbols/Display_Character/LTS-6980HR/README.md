@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDICHARACTERLTS698HR > LTS-6980HR
+# SZKDICHARACTERLTS698HR > Display_Character : LTS-6980HR
 
 - ID: SYMBOL-kicad-kicad-symbols-Display_Character-LTS-6980HR
 - Hex ID: SZKDICHARACTERLTS698HR
-- Name: LTS-6980HR
-- Description: LTS-6980HR
+- Name: Display_Character : LTS-6980HR
+- Description: Display_Character : LTS-6980HR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-LTS-6980HR](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-LTS-6980HR)
 - Short Link: [http://oom.lt/SZKDICHARACTERLTS698HR](http://oom.lt/SZKDICHARACTERLTS698HR)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LTS-6980HR|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Display_Character-LTS-6980HR|
 |Hex ID (short code)|hexID|SZKDICHARACTERLTS698HR|
-|name|name|LTS-6980HR|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'AFF', 'kicadSymbolValue': 'LTS-6980HR', 'kicadSymbolFootprint': 'Display_7Segment:7SegmentLED_LTS6760_LTS6780', 'kicadSymbolDatasheet': 'http://datasheet.octopart.com/LTS-6960HR-Lite-On-datasheet-11803242.pdf', 'kicadSymbolki_keywords': 'display LED 7-segment', 'kicadSymbolki_description': 'DISPLAY 7 SEGMENTS common K, high efficient red', 'kicadSymbolki_fp_filters': '7SegmentLED?LTS6760?LTS6780*'}]|
+|name|name|Display_Character : LTS-6980HR|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'AFF'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LTS-6980HR'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Display_7Segment</td></tr><tr><td>7SegmentLED_LTS6760_LTS6780'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//datasheet.octopart.com/LTS-6960HR-Lite-On-datasheet-11803242.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'display LED 7-segment'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'DISPLAY 7 SEGMENTS common K</td><td> high efficient red'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> '7SegmentLED?LTS6760?LTS6780*'</td></tr></table>]|
 ||||

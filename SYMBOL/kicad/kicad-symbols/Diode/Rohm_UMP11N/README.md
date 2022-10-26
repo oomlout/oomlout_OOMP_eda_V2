@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDIODEROHMUMP11N > Rohm_UMP11N
+# SZKDIODEROHMUMP11N > Diode : Rohm_UMP11N
 
 - ID: SYMBOL-kicad-kicad-symbols-Diode-Rohm_UMP11N
 - Hex ID: SZKDIODEROHMUMP11N
-- Name: Rohm_UMP11N
-- Description: Rohm_UMP11N
+- Name: Diode : Rohm_UMP11N
+- Description: Diode : Rohm_UMP11N
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-Rohm_UMP11N](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-Rohm_UMP11N)
 - Short Link: [http://oom.lt/SZKDIODEROHMUMP11N](http://oom.lt/SZKDIODEROHMUMP11N)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Rohm_UMP11N|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-Rohm_UMP11N|
 |Hex ID (short code)|hexID|SZKDIODEROHMUMP11N|
-|name|name|Rohm_UMP11N|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'Rohm_UMP11N', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-363_SC-70-6', 'kicadSymbolDatasheet': 'http://rohmfs.rohm.com/en/products/databook/datasheet/discrete/diode/switching/ump11n.pdf', 'kicadSymbolki_keywords': 'diode', 'kicadSymbolki_description': ' High-speed switching diodes 2 pair Com A', 'kicadSymbolki_fp_filters': 'SOT?363*'}]|
+|name|name|Diode : Rohm_UMP11N|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Rohm_UMP11N'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-363_SC-70-6'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//rohmfs.rohm.com/en/products/databook/datasheet/discrete/diode/switching/ump11n.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'diode'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> ' High-speed switching diodes 2 pair Com A'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?363*'</td></tr></table>]|
 ||||

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Jumper-SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm_NumberLabels|
 |Hex ID (short code)|hexID|FZKJSOLDERJ3P13OPENROUNDEDPAD1X15NUMBERLABELS|
 |name|name|Jumper : SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm_NumberLabels|
-|Footprint Kicad|footprintKicadDetails|{'name': 'SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm_NumberLabels', 'description': 'SMD Solder 3-pad Jumper, 1x1.5mm rounded Pads, 0.3mm gap, open, labeled with numbers', 'tags': 'solder jumper open', 'attributeType': None, 'pins': {'type': 'smd', 'shape': 'custom'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm_NumberLabels'</td><td> 'description'</td></tr><tr><td> 'SMD Solder 3-pad Jumper</td><td> 1x1.5mm rounded Pads</td><td> 0.3mm gap</td><td> open</td><td> labeled with numbers'</td><td> 'tags'</td></tr><tr><td> 'solder jumper open'</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'custom'</td></tr></table></td></tr></table>|
 ||||
 
 

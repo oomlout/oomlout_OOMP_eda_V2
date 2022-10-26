@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Converter_ACDC-Converter_ACDC_Recom_RAC20-xxDK_THT|
 |Hex ID (short code)|hexID|FZKCONCONRECOMRAC2XXDKTHT|
 |name|name|Converter_ACDC : Converter_ACDC_Recom_RAC20-xxDK_THT|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Converter_ACDC_Recom_RAC20-xxDK_THT', 'description': 'Recom RAC20-xxDK https://recom-power.com/pdf/Powerline_AC-DC/RAC20-K.pdf#page=6 Rev. 6/2020', 'tags': 'Recom RAC20-xxDK', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Converter_DCDC.3dshapes/Converter_ACDC_Recom_RAC20-xxDK_THT.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Converter_ACDC_Recom_RAC20-xxDK_THT'</td><td> 'description'</td></tr><tr><td> 'Recom RAC20-xxDK https</td></tr><tr><td>//recom-power.com/pdf/Powerline_AC-DC/RAC20-K.pdf#page=6 Rev. 6/2020'</td><td> 'tags'</td></tr><tr><td> 'Recom RAC20-xxDK'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Converter_DCDC.3dshapes/Converter_ACDC_Recom_RAC20-xxDK_THT.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

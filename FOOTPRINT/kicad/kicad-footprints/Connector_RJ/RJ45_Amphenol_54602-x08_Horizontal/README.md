@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_RJ-RJ45_Amphenol_54602-x08_Horizontal|
 |Hex ID (short code)|hexID|FZKCNRJRJ45AMPHENOL5462X8HORIZONTAL|
 |name|name|Connector_RJ : RJ45_Amphenol_54602-x08_Horizontal|
-|Footprint Kicad|footprintKicadDetails|{'name': 'RJ45_Amphenol_54602-x08_Horizontal', 'description': '8 Pol Shallow Latch Connector, Modjack, RJ45 (https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/c-bmj-0102.pdf)', 'tags': 'RJ45', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_RJ.3dshapes/RJ45_Amphenol_54602-x08_Horizontal.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'RJ45_Amphenol_54602-x08_Horizontal'</td><td> 'description'</td></tr><tr><td> '8 Pol Shallow Latch Connector</td><td> Modjack</td><td> RJ45 (https</td></tr><tr><td>//cdn.amphenol-icc.com/media/wysiwyg/files/drawing/c-bmj-0102.pdf)'</td><td> 'tags'</td></tr><tr><td> 'RJ45'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_RJ.3dshapes/RJ45_Amphenol_54602-x08_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUSILICONLABSEFM32HG38F64GCQFN24 > EFM32HG308F64G-C-QFN24
+# SZKMCUSILICONLABSEFM32HG38F64GCQFN24 > MCU_SiliconLabs : EFM32HG308F64G-C-QFN24
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_SiliconLabs-EFM32HG308F64G-C-QFN24
 - Hex ID: SZKMCUSILICONLABSEFM32HG38F64GCQFN24
-- Name: EFM32HG308F64G-C-QFN24
-- Description: EFM32HG308F64G-C-QFN24
+- Name: MCU_SiliconLabs : EFM32HG308F64G-C-QFN24
+- Description: MCU_SiliconLabs : EFM32HG308F64G-C-QFN24
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_SiliconLabs-EFM32HG308F64G-C-QFN24](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_SiliconLabs-EFM32HG308F64G-C-QFN24)
 - Short Link: [http://oom.lt/SZKMCUSILICONLABSEFM32HG38F64GCQFN24](http://oom.lt/SZKMCUSILICONLABSEFM32HG38F64GCQFN24)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|EFM32HG308F64G-C-QFN24|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_SiliconLabs-EFM32HG308F64G-C-QFN24|
 |Hex ID (short code)|hexID|SZKMCUSILICONLABSEFM32HG38F64GCQFN24|
-|name|name|EFM32HG308F64G-C-QFN24|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'EFM32HG308F32G-C-QFN24', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'EFM32HG308F64G-C-QFN24', 'kicadSymbolFootprint': 'Package_DFN_QFN:QFN-24-1EP_5x5mm_P0.65mm_EP3.6x3.6mm', 'kicadSymbolDatasheet': 'https://www.silabs.com/documents/public/data-sheets/efm32hg-datasheet.pdf', 'kicadSymbolki_keywords': 'MCU microcontroller silicon labs siliconlabs silabs EFM32 happy gecko', 'kicadSymbolki_description': '32-bit ARM Cortex-M0 microcontroller, 64 kB flash, 4 kB  RAM, Silicon Labs - Happy Gecko, QFN-24', 'kicadSymbolki_fp_filters': 'QFN*1EP*5x5mm*P0.65mm*'}]|
+|name|name|MCU_SiliconLabs : EFM32HG308F64G-C-QFN24|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'EFM32HG308F32G-C-QFN24'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'EFM32HG308F64G-C-QFN24'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>QFN-24-1EP_5x5mm_P0.65mm_EP3.6x3.6mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.silabs.com/documents/public/data-sheets/efm32hg-datasheet.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'MCU microcontroller silicon labs siliconlabs silabs EFM32 happy gecko'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '32-bit ARM Cortex-M0 microcontroller</td><td> 64 kB flash</td><td> 4 kB  RAM</td><td> Silicon Labs - Happy Gecko</td><td> QFN-24'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'QFN*1EP*5x5mm*P0.65mm*'</td></tr></table>]|
 ||||

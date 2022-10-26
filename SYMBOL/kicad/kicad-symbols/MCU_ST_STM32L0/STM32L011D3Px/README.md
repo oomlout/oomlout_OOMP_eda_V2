@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUSTSTM32LSTM32L11D3PX > STM32L011D3Px
+# SZKMCUSTSTM32LSTM32L11D3PX > MCU_ST_STM32L0 : STM32L011D3Px
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L0-STM32L011D3Px
 - Hex ID: SZKMCUSTSTM32LSTM32L11D3PX
-- Name: STM32L011D3Px
-- Description: STM32L011D3Px
+- Name: MCU_ST_STM32L0 : STM32L011D3Px
+- Description: MCU_ST_STM32L0 : STM32L011D3Px
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L0-STM32L011D3Px](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L0-STM32L011D3Px)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32LSTM32L11D3PX](http://oom.lt/SZKMCUSTSTM32LSTM32L11D3PX)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|STM32L011D3Px|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L0-STM32L011D3Px|
 |Hex ID (short code)|hexID|SZKMCUSTSTM32LSTM32L11D3PX|
-|name|name|STM32L011D3Px|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'STM32L011D3Px', 'kicadSymbolFootprint': 'Package_SO:TSSOP-14_4.4x5mm_P0.65mm', 'kicadSymbolDatasheet': 'http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00206508.pdf', 'kicadSymbolki_keywords': 'ARM Cortex-M0+ STM32L0 STM32L0x1', 'kicadSymbolki_description': 'ARM Cortex-M0+ MCU, 8KB flash, 2KB RAM, 32MHz, 1.65-3.6V, 11 GPIO, TSSOP-14', 'kicadSymbolki_fp_filters': 'TSSOP*4.4x5mm*P0.65mm*'}]|
+|name|name|MCU_ST_STM32L0 : STM32L011D3Px|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'STM32L011D3Px'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>TSSOP-14_4.4x5mm_P0.65mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00206508.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'ARM Cortex-M0+ STM32L0 STM32L0x1'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'ARM Cortex-M0+ MCU</td><td> 8KB flash</td><td> 2KB RAM</td><td> 32MHz</td><td> 1.65-3.6V</td><td> 11 GPIO</td><td> TSSOP-14'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TSSOP*4.4x5mm*P0.65mm*'</td></tr></table>]|
 ||||

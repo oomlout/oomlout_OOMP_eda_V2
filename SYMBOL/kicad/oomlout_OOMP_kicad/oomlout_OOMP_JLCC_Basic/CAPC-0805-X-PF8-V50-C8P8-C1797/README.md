@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICCAPC85XPF8V5C8P8C1797 > CAPC-0805-X-PF8-V50-C8P8-C1797
+# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICCAPC85XPF8V5C8P8C1797 > oomlout_OOMP_JLCC_Basic : CAPC-0805-X-PF8-V50-C8P8-C1797
 
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0805-X-PF8-V50-C8P8-C1797
 - Hex ID: SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICCAPC85XPF8V5C8P8C1797
-- Name: CAPC-0805-X-PF8-V50-C8P8-C1797
-- Description: CAPC-0805-X-PF8-V50-C8P8-C1797
+- Name: oomlout_OOMP_JLCC_Basic : CAPC-0805-X-PF8-V50-C8P8-C1797
+- Description: oomlout_OOMP_JLCC_Basic : CAPC-0805-X-PF8-V50-C8P8-C1797
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0805-X-PF8-V50-C8P8-C1797](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0805-X-PF8-V50-C8P8-C1797)
 - Short Link: [http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICCAPC85XPF8V5C8P8C1797](http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICCAPC85XPF8V5C8P8C1797)
   
@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|CAPC-0805-X-PF8-V50-C8P8-C1797|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0805-X-PF8-V50-C8P8-C1797|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICCAPC85XPF8V5C8P8C1797|
-|name|name|CAPC-0805-X-PF8-V50-C8P8-C1797|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'C', 'kicadSymbolValue': 'CAPC-0805-X-PF8-V50-C8P8-C1797', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:CAPC-0805-X-PF8-V50-C8P8-C1797', 'kicadSymbolDatasheet': 'oom.lt/C8P8', 'kicadSymbolki_keywords': 'cap capacitor', 'kicadSymbolki_description': 'hexID: C8P8;PARTL C-JLCC;C1797;MANUF C-XXXX;0805CG180J500NT;Unpolarized capacitor', 'kicadSymbolki_fp_filters': 'C_*'}]|
+|name|name|oomlout_OOMP_JLCC_Basic : CAPC-0805-X-PF8-V50-C8P8-C1797|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'C'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'CAPC-0805-X-PF8-V50-C8P8-C1797'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'oomlout_OOMP_parts</td></tr><tr><td>CAPC-0805-X-PF8-V50-C8P8-C1797'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'oom.lt/C8P8'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'cap capacitor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'hexID</td></tr><tr><td> C8P8;PARTL C-JLCC;C1797;MANUF C-XXXX;0805CG180J500NT;Unpolarized capacitor'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'C_*'</td></tr></table>]|
 ||||

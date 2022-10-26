@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKSENOPTICALSFH244 > SFH2440
+# SZKSENOPTICALSFH244 > Sensor_Optical : SFH2440
 
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Optical-SFH2440
 - Hex ID: SZKSENOPTICALSFH244
-- Name: SFH2440
-- Description: SFH2440
+- Name: Sensor_Optical : SFH2440
+- Description: Sensor_Optical : SFH2440
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-SFH2440](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-SFH2440)
 - Short Link: [http://oom.lt/SZKSENOPTICALSFH244](http://oom.lt/SZKSENOPTICALSFH244)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SFH2440|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Optical-SFH2440|
 |Hex ID (short code)|hexID|SZKSENOPTICALSFH244|
-|name|name|SFH2440|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BP104-SMD', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'SFH2440', 'kicadSymbolFootprint': 'OptoDevice:Osram_SFH2440', 'kicadSymbolDatasheet': 'https://dammedia.osram.info/media/resource/hires/osram-dam-5467146/SFH%202440_EN.pdf', 'kicadSymbolki_keywords': 'opto photodiode', 'kicadSymbolki_description': 'Silicon Photodiode, Vf 1V, Area 2.65x2.65mm', 'kicadSymbolki_fp_filters': 'Osram*SFH2440*'}]|
+|name|name|Sensor_Optical : SFH2440|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'BP104-SMD'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'SFH2440'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'OptoDevice</td></tr><tr><td>Osram_SFH2440'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//dammedia.osram.info/media/resource/hires/osram-dam-5467146/SFH%202440_EN.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'opto photodiode'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Silicon Photodiode</td><td> Vf 1V</td><td> Area 2.65x2.65mm'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Osram*SFH2440*'</td></tr></table>]|
 ||||

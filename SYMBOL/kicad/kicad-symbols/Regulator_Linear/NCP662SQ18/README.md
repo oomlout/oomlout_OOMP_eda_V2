@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORLINEARNCP662SQ18 > NCP662SQ18
+# SZKREGULATORLINEARNCP662SQ18 > Regulator_Linear : NCP662SQ18
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-NCP662SQ18
 - Hex ID: SZKREGULATORLINEARNCP662SQ18
-- Name: NCP662SQ18
-- Description: NCP662SQ18
+- Name: Regulator_Linear : NCP662SQ18
+- Description: Regulator_Linear : NCP662SQ18
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-NCP662SQ18](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-NCP662SQ18)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARNCP662SQ18](http://oom.lt/SZKREGULATORLINEARNCP662SQ18)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|NCP662SQ18|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-NCP662SQ18|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARNCP662SQ18|
-|name|name|NCP662SQ18|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'NCP662SQ15', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'NCP662SQ18', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SC-82AB', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pub/Collateral/NCP662-D.PDF', 'kicadSymbolki_keywords': 'LDO regulator voltage', 'kicadSymbolki_description': '100-mA, 12V Max. Input, Ultralow-IQ LDO, 1.8V, SC-82AB', 'kicadSymbolki_fp_filters': 'SC?82AB*'}]|
+|name|name|Regulator_Linear : NCP662SQ18|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'NCP662SQ15'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'NCP662SQ18'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SC-82AB'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.onsemi.com/pub/Collateral/NCP662-D.PDF'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'LDO regulator voltage'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '100-mA</td><td> 12V Max. Input</td><td> Ultralow-IQ LDO</td><td> 1.8V</td><td> SC-82AB'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SC?82AB*'</td></tr></table>]|
 ||||

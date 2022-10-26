@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKAUDIOPT2399 > PT2399
+# SZKAUDIOPT2399 > Audio : PT2399
 
 - ID: SYMBOL-kicad-kicad-symbols-Audio-PT2399
 - Hex ID: SZKAUDIOPT2399
-- Name: PT2399
-- Description: PT2399
+- Name: Audio : PT2399
+- Description: Audio : PT2399
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-PT2399](http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-PT2399)
 - Short Link: [http://oom.lt/SZKAUDIOPT2399](http://oom.lt/SZKAUDIOPT2399)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PT2399|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Audio-PT2399|
 |Hex ID (short code)|hexID|SZKAUDIOPT2399|
-|name|name|PT2399|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PT2399', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://sound.westhost.com/pt2399.pdf', 'kicadSymbolki_keywords': 'CMOS ADC DAC 44K Digital processing VCO', 'kicadSymbolki_description': 'Echo Processor IC', 'kicadSymbolki_fp_filters': 'DIP-16*'}]|
+|name|name|Audio : PT2399|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'PT2399'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//sound.westhost.com/pt2399.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'CMOS ADC DAC 44K Digital processing VCO'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Echo Processor IC'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP-16*'</td></tr></table>]|
 ||||

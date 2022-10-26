@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D20.0mm|
 |Hex ID (short code)|hexID|FZKLLD2|
 |name|name|LED_THT : LED_D20.0mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'LED_D20.0mm', 'description': 'LED, diameter 20.0mm, 2 pins, http://cdn-reichelt.de/documents/datenblatt/A500/DLC2-6GD%28V6%29.pdf', 'tags': 'LED diameter 20.0mm 2 pins', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/LED_THT.3dshapes/LED_D20.0mm.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'LED_D20.0mm'</td><td> 'description'</td></tr><tr><td> 'LED</td><td> diameter 20.0mm</td><td> 2 pins</td><td> http</td></tr><tr><td>//cdn-reichelt.de/documents/datenblatt/A500/DLC2-6GD%28V6%29.pdf'</td><td> 'tags'</td></tr><tr><td> 'LED diameter 20.0mm 2 pins'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/LED_THT.3dshapes/LED_D20.0mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

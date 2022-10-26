@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDIODEPMEG31EH > PMEG3010EH
+# SZKDIODEPMEG31EH > Diode : PMEG3010EH
 
 - ID: SYMBOL-kicad-kicad-symbols-Diode-PMEG3010EH
 - Hex ID: SZKDIODEPMEG31EH
-- Name: PMEG3010EH
-- Description: PMEG3010EH
+- Name: Diode : PMEG3010EH
+- Description: Diode : PMEG3010EH
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-PMEG3010EH](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-PMEG3010EH)
 - Short Link: [http://oom.lt/SZKDIODEPMEG31EH](http://oom.lt/SZKDIODEPMEG31EH)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PMEG3010EH|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-PMEG3010EH|
 |Hex ID (short code)|hexID|SZKDIODEPMEG31EH|
-|name|name|PMEG3010EH|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'PMEG2005EH', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'PMEG3010EH', 'kicadSymbolFootprint': 'Diode_SMD:D_SOD-123F', 'kicadSymbolDatasheet': 'https://assets.nexperia.com/documents/data-sheet/PMEG3010EH_EJ_ET.pdf', 'kicadSymbolki_keywords': 'forward voltage diode', 'kicadSymbolki_description': '30V, 1A very low Vf MEGA Schottky barrier rectifier, SOD-123F', 'kicadSymbolki_fp_filters': 'D*SOD?123F*'}]|
+|name|name|Diode : PMEG3010EH|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'PMEG2005EH'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'PMEG3010EH'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Diode_SMD</td></tr><tr><td>D_SOD-123F'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//assets.nexperia.com/documents/data-sheet/PMEG3010EH_EJ_ET.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'forward voltage diode'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '30V</td><td> 1A very low Vf MEGA Schottky barrier rectifier</td><td> SOD-123F'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'D*SOD?123F*'</td></tr></table>]|
 ||||

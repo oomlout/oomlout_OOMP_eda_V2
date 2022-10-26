@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKANALOGSWITCHDG884DN > DG884DN
+# SZKANALOGSWITCHDG884DN > Analog_Switch : DG884DN
 
 - ID: SYMBOL-kicad-kicad-symbols-Analog_Switch-DG884DN
 - Hex ID: SZKANALOGSWITCHDG884DN
-- Name: DG884DN
-- Description: DG884DN
+- Name: Analog_Switch : DG884DN
+- Description: Analog_Switch : DG884DN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-DG884DN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-DG884DN)
 - Short Link: [http://oom.lt/SZKANALOGSWITCHDG884DN](http://oom.lt/SZKANALOGSWITCHDG884DN)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DG884DN|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_Switch-DG884DN|
 |Hex ID (short code)|hexID|SZKANALOGSWITCHDG884DN|
-|name|name|DG884DN|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'DG884DN', 'kicadSymbolFootprint': 'Package_LCC:PLCC-44', 'kicadSymbolDatasheet': 'http://www.vishay.com/docs/70071/dg884.pdf', 'kicadSymbolki_keywords': 'CMOS Analog Switch Video Crosspoint', 'kicadSymbolki_description': '8 x 4 Wideband Video Crosspoint Array, 45Ohm Ron, PLCC-44', 'kicadSymbolki_fp_filters': 'PLCC?44*'}]|
+|name|name|Analog_Switch : DG884DN|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'DG884DN'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_LCC</td></tr><tr><td>PLCC-44'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.vishay.com/docs/70071/dg884.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'CMOS Analog Switch Video Crosspoint'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '8 x 4 Wideband Video Crosspoint Array</td><td> 45Ohm Ron</td><td> PLCC-44'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'PLCC?44*'</td></tr></table>]|
 ||||

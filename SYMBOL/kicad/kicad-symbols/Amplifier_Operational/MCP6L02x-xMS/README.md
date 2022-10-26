@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKAMPLIFIEROPERATIONALMCP6L2XXMS > MCP6L02x-xMS
+# SZKAMPLIFIEROPERATIONALMCP6L2XXMS > Amplifier_Operational : MCP6L02x-xMS
 
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-MCP6L02x-xMS
 - Hex ID: SZKAMPLIFIEROPERATIONALMCP6L2XXMS
-- Name: MCP6L02x-xMS
-- Description: MCP6L02x-xMS
+- Name: Amplifier_Operational : MCP6L02x-xMS
+- Description: Amplifier_Operational : MCP6L02x-xMS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-MCP6L02x-xMS](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-MCP6L02x-xMS)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALMCP6L2XXMS](http://oom.lt/SZKAMPLIFIEROPERATIONALMCP6L2XXMS)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MCP6L02x-xMS|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Operational-MCP6L02x-xMS|
 |Hex ID (short code)|hexID|SZKAMPLIFIEROPERATIONALMCP6L2XXMS|
-|name|name|MCP6L02x-xMS|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'NCS2325DM', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MCP6L02x-xMS', 'kicadSymbolFootprint': 'Package_SO:MSOP-8_3x3mm_P0.65mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/devicedoc/22140b.pdf', 'kicadSymbolki_keywords': 'opamp vfa r2r rtr', 'kicadSymbolki_description': 'Dual, 1 MHz, 85µA, Rail-to-Rail input and output, MSOP-8', 'kicadSymbolki_fp_filters': 'MSOP*3x3mm*P0.65mm*'}]|
+|name|name|Amplifier_Operational : MCP6L02x-xMS|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'NCS2325DM'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MCP6L02x-xMS'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>MSOP-8_3x3mm_P0.65mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/devicedoc/22140b.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'opamp vfa r2r rtr'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Dual</td><td> 1 MHz</td><td> 85µA</td><td> Rail-to-Rail input and output</td><td> MSOP-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'MSOP*3x3mm*P0.65mm*'</td></tr></table>]|
 ||||

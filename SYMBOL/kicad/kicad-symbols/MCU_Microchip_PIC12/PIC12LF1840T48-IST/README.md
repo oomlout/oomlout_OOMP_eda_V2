@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUMCHIPPIC12PIC12LF184T48IST > PIC12LF1840T48-IST
+# SZKMCUMCHIPPIC12PIC12LF184T48IST > MCU_Microchip_PIC12 : PIC12LF1840T48-IST
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC12-PIC12LF1840T48-IST
 - Hex ID: SZKMCUMCHIPPIC12PIC12LF184T48IST
-- Name: PIC12LF1840T48-IST
-- Description: PIC12LF1840T48-IST
+- Name: MCU_Microchip_PIC12 : PIC12LF1840T48-IST
+- Description: MCU_Microchip_PIC12 : PIC12LF1840T48-IST
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC12-PIC12LF1840T48-IST](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC12-PIC12LF1840T48-IST)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC12PIC12LF184T48IST](http://oom.lt/SZKMCUMCHIPPIC12PIC12LF184T48IST)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PIC12LF1840T48-IST|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC12-PIC12LF1840T48-IST|
 |Hex ID (short code)|hexID|SZKMCUMCHIPPIC12PIC12LF184T48IST|
-|name|name|PIC12LF1840T48-IST|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PIC12LF1840T48-IST', 'kicadSymbolFootprint': 'Package_SO:TSSOP-14_4.4x5mm_P0.65mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/41594B.pdf', 'kicadSymbolki_keywords': 'FLASH-Based 8-Bit CMOS Microcontroller XLP RF Transmitter', 'kicadSymbolki_description': 'PIC12LF1840T48, 4kW FLASH, 256B SRAM, 256B EEPROM, RF, TSSOP14', 'kicadSymbolki_fp_filters': 'TSSOP*4.4x5mm*P0.65mm*'}]|
+|name|name|MCU_Microchip_PIC12 : PIC12LF1840T48-IST|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'PIC12LF1840T48-IST'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>TSSOP-14_4.4x5mm_P0.65mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/41594B.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'FLASH-Based 8-Bit CMOS Microcontroller XLP RF Transmitter'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'PIC12LF1840T48</td><td> 4kW FLASH</td><td> 256B SRAM</td><td> 256B EEPROM</td><td> RF</td><td> TSSOP14'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TSSOP*4.4x5mm*P0.65mm*'</td></tr></table>]|
 ||||

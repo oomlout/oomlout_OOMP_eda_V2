@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKLOGICPROGRAABLEPAL24 > PAL24
+# SZKLOGICPROGRAABLEPAL24 > Logic_Programmable : PAL24
 
 - ID: SYMBOL-kicad-kicad-symbols-Logic_Programmable-PAL24
 - Hex ID: SZKLOGICPROGRAABLEPAL24
-- Name: PAL24
-- Description: PAL24
+- Name: Logic_Programmable : PAL24
+- Description: Logic_Programmable : PAL24
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Logic_Programmable-PAL24](http://oom.lt/SYMBOL-kicad-kicad-symbols-Logic_Programmable-PAL24)
 - Short Link: [http://oom.lt/SZKLOGICPROGRAABLEPAL24](http://oom.lt/SZKLOGICPROGRAABLEPAL24)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PAL24|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Logic_Programmable-PAL24|
 |Hex ID (short code)|hexID|SZKLOGICPROGRAABLEPAL24|
-|name|name|PAL24|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PAL24', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'logic programmable PAL', 'kicadSymbolki_description': 'generic 24-pin Programmable Array Logic (PAL) device'}]|
+|name|name|Logic_Programmable : PAL24|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'PAL24'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'logic programmable PAL'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'generic 24-pin Programmable Array Logic (PAL) device'</td></tr></table>]|
 ||||

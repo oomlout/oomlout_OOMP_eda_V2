@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUSTSTM32F4STM32F429BETX > STM32F429BETx
+# SZKMCUSTSTM32F4STM32F429BETX > MCU_ST_STM32F4 : STM32F429BETx
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F429BETx
 - Hex ID: SZKMCUSTSTM32F4STM32F429BETX
-- Name: STM32F429BETx
-- Description: STM32F429BETx
+- Name: MCU_ST_STM32F4 : STM32F429BETx
+- Description: MCU_ST_STM32F4 : STM32F429BETx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F429BETx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F429BETx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32F4STM32F429BETX](http://oom.lt/SZKMCUSTSTM32F4STM32F429BETX)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|STM32F429BETx|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F429BETx|
 |Hex ID (short code)|hexID|SZKMCUSTSTM32F4STM32F429BETX|
-|name|name|STM32F429BETx|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'STM32F429BETx', 'kicadSymbolFootprint': 'Package_QFP:LQFP-208_28x28mm_P0.5mm', 'kicadSymbolDatasheet': 'http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00071990.pdf', 'kicadSymbolki_keywords': 'ARM Cortex-M4 STM32F4 STM32F429/439', 'kicadSymbolki_description': 'ARM Cortex-M4 MCU, 512KB flash, 192KB RAM, 180MHz, 1.8-3.6V, 168 GPIO, LQFP-208', 'kicadSymbolki_fp_filters': 'LQFP*28x28mm*P0.5mm*'}]|
+|name|name|MCU_ST_STM32F4 : STM32F429BETx|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'STM32F429BETx'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_QFP</td></tr><tr><td>LQFP-208_28x28mm_P0.5mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00071990.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'ARM Cortex-M4 STM32F4 STM32F429/439'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'ARM Cortex-M4 MCU</td><td> 512KB flash</td><td> 192KB RAM</td><td> 180MHz</td><td> 1.8-3.6V</td><td> 168 GPIO</td><td> LQFP-208'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'LQFP*28x28mm*P0.5mm*'</td></tr></table>]|
 ||||

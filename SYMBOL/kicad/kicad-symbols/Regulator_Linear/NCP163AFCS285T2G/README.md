@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORLINEARNCP163AFCS285T2G > NCP163AFCS285T2G
+# SZKREGULATORLINEARNCP163AFCS285T2G > Regulator_Linear : NCP163AFCS285T2G
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-NCP163AFCS285T2G
 - Hex ID: SZKREGULATORLINEARNCP163AFCS285T2G
-- Name: NCP163AFCS285T2G
-- Description: NCP163AFCS285T2G
+- Name: Regulator_Linear : NCP163AFCS285T2G
+- Description: Regulator_Linear : NCP163AFCS285T2G
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-NCP163AFCS285T2G](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-NCP163AFCS285T2G)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARNCP163AFCS285T2G](http://oom.lt/SZKREGULATORLINEARNCP163AFCS285T2G)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|NCP163AFCS285T2G|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-NCP163AFCS285T2G|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARNCP163AFCS285T2G|
-|name|name|NCP163AFCS285T2G|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'NCP163AFCS120T2G', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'NCP163AFCS285T2G', 'kicadSymbolFootprint': 'Package_CSP:WLCSP-4_0.64x0.64mm_P0.35mm', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pdf/datasheet/ncp163-d.pdf', 'kicadSymbolki_keywords': 'LDO regulator voltage', 'kicadSymbolki_description': '250mA low-noise LDO, 2.2V-5.5V input, 2.85V output, WLCSP-4', 'kicadSymbolki_fp_filters': 'WLCSP*'}]|
+|name|name|Regulator_Linear : NCP163AFCS285T2G|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'NCP163AFCS120T2G'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'NCP163AFCS285T2G'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_CSP</td></tr><tr><td>WLCSP-4_0.64x0.64mm_P0.35mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.onsemi.com/pdf/datasheet/ncp163-d.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'LDO regulator voltage'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '250mA low-noise LDO</td><td> 2.2V-5.5V input</td><td> 2.85V output</td><td> WLCSP-4'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'WLCSP*'</td></tr></table>]|
 ||||

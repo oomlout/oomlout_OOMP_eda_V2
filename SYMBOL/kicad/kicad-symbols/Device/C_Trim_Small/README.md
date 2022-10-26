@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDEVICECTRIMSLL > C_Trim_Small
+# SZKDEVICECTRIMSLL > Device : C_Trim_Small
 
 - ID: SYMBOL-kicad-kicad-symbols-Device-C_Trim_Small
 - Hex ID: SZKDEVICECTRIMSLL
-- Name: C_Trim_Small
-- Description: C_Trim_Small
+- Name: Device : C_Trim_Small
+- Description: Device : C_Trim_Small
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-C_Trim_Small](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-C_Trim_Small)
 - Short Link: [http://oom.lt/SZKDEVICECTRIMSLL](http://oom.lt/SZKDEVICECTRIMSLL)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|C_Trim_Small|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-C_Trim_Small|
 |Hex ID (short code)|hexID|SZKDEVICECTRIMSLL|
-|name|name|C_Trim_Small|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'C', 'kicadSymbolValue': 'C_Trim_Small', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'trimmer variable capacitor', 'kicadSymbolki_description': 'Trimmable capacitor, small symbol', 'kicadSymbolki_fp_filters': 'C_*'}]|
+|name|name|Device : C_Trim_Small|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'C'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'C_Trim_Small'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'trimmer variable capacitor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Trimmable capacitor</td><td> small symbol'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'C_*'</td></tr></table>]|
 ||||

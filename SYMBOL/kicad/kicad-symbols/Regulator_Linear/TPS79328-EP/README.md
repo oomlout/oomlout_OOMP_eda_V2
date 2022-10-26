@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORLINEARTPS79328EP > TPS79328-EP
+# SZKREGULATORLINEARTPS79328EP > Regulator_Linear : TPS79328-EP
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS79328-EP
 - Hex ID: SZKREGULATORLINEARTPS79328EP
-- Name: TPS79328-EP
-- Description: TPS79328-EP
+- Name: Regulator_Linear : TPS79328-EP
+- Description: Regulator_Linear : TPS79328-EP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS79328-EP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS79328-EP)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARTPS79328EP](http://oom.lt/SZKREGULATORLINEARTPS79328EP)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TPS79328-EP|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS79328-EP|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARTPS79328EP|
-|name|name|TPS79328-EP|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TPS79318-EP', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TPS79328-EP', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-5', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tps79333-ep.pdf', 'kicadSymbolki_keywords': 'LDO Voltage Regulator 200mA', 'kicadSymbolki_description': '200mA UltraLow-Noise, High-Precision, Fast RF, Low Drop-out Voltage Regulator, Fixed Output 2.8V, SOT-23', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
+|name|name|Regulator_Linear : TPS79328-EP|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'TPS79318-EP'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TPS79328-EP'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-23-5'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/tps79333-ep.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'LDO Voltage Regulator 200mA'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '200mA UltraLow-Noise</td><td> High-Precision</td><td> Fast RF</td><td> Low Drop-out Voltage Regulator</td><td> Fixed Output 2.8V</td><td> SOT-23'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23*'</td></tr></table>]|
 ||||

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-QFN-24-1EP_4x4mm_P0.5mm_EP2.7x2.7mm|
 |Hex ID (short code)|hexID|FZKDFNQFN241EP4X4P5EP27X27|
 |name|name|Package_DFN_QFN : QFN-24-1EP_4x4mm_P0.5mm_EP2.7x2.7mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'QFN-24-1EP_4x4mm_P0.5mm_EP2.7x2.7mm', 'description': 'QFN, 24 Pin (http://www.alfarzpp.lv/eng/sc/AS3330.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py', 'tags': 'QFN NoLead', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/QFN-24-1EP_4x4mm_P0.5mm_EP2.7x2.7mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'QFN-24-1EP_4x4mm_P0.5mm_EP2.7x2.7mm'</td><td> 'description'</td></tr><tr><td> 'QFN</td><td> 24 Pin (http</td></tr><tr><td>//www.alfarzpp.lv/eng/sc/AS3330.pdf)</td><td> generated with kicad-footprint-generator ipc_noLead_generator.py'</td><td> 'tags'</td></tr><tr><td> 'QFN NoLead'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DFN_QFN.3dshapes/QFN-24-1EP_4x4mm_P0.5mm_EP2.7x2.7mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

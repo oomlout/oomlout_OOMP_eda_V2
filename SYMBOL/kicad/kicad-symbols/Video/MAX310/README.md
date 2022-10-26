@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKVIDEOMAX31 > MAX310
+# SZKVIDEOMAX31 > Video : MAX310
 
 - ID: SYMBOL-kicad-kicad-symbols-Video-MAX310
 - Hex ID: SZKVIDEOMAX31
-- Name: MAX310
-- Description: MAX310
+- Name: Video : MAX310
+- Description: Video : MAX310
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Video-MAX310](http://oom.lt/SYMBOL-kicad-kicad-symbols-Video-MAX310)
 - Short Link: [http://oom.lt/SZKVIDEOMAX31](http://oom.lt/SZKVIDEOMAX31)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MAX310|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Video-MAX310|
 |Hex ID (short code)|hexID|SZKVIDEOMAX31|
-|name|name|MAX310|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MAX310', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://datasheets.maximintegrated.com/en/ds/MAX310-MAX311.pdf', 'kicadSymbolki_keywords': 'video rf', 'kicadSymbolki_description': '8-Channel CMOS RF Video Multiplexer'}]|
+|name|name|Video : MAX310|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MAX310'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//datasheets.maximintegrated.com/en/ds/MAX310-MAX311.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'video rf'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '8-Channel CMOS RF Video Multiplexer'</td></tr></table>]|
 ||||

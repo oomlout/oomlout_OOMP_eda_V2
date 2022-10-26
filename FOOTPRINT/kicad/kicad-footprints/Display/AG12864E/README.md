@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Display-AG12864E|
 |Hex ID (short code)|hexID|FZKDIAG12864E|
 |name|name|Display : AG12864E|
-|Footprint Kicad|footprintKicadDetails|{'name': 'AG12864E', 'description': 'STN/FSTN LCD 128x64 dot https://www.digchip.com/datasheets/parts/datasheet/1121/AG-12864E-pdf.php', 'tags': 'AG12864E Graphics Display 128x64 Ampire', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Display.3dshapes/AG12864E.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'AG12864E'</td><td> 'description'</td></tr><tr><td> 'STN/FSTN LCD 128x64 dot https</td></tr><tr><td>//www.digchip.com/datasheets/parts/datasheet/1121/AG-12864E-pdf.php'</td><td> 'tags'</td></tr><tr><td> 'AG12864E Graphics Display 128x64 Ampire'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Display.3dshapes/AG12864E.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

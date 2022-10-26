@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDIODEBRIDGEB38C2315B > B380C2300-1500B
+# SZKDIODEBRIDGEB38C2315B > Diode_Bridge : B380C2300-1500B
 
 - ID: SYMBOL-kicad-kicad-symbols-Diode_Bridge-B380C2300-1500B
 - Hex ID: SZKDIODEBRIDGEB38C2315B
-- Name: B380C2300-1500B
-- Description: B380C2300-1500B
+- Name: Diode_Bridge : B380C2300-1500B
+- Description: Diode_Bridge : B380C2300-1500B
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-B380C2300-1500B](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-B380C2300-1500B)
 - Short Link: [http://oom.lt/SZKDIODEBRIDGEB38C2315B](http://oom.lt/SZKDIODEBRIDGEB38C2315B)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|B380C2300-1500B|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode_Bridge-B380C2300-1500B|
 |Hex ID (short code)|hexID|SZKDIODEBRIDGEB38C2315B|
-|name|name|B380C2300-1500B|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'B40C2300-1500B', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'B380C2300-1500B', 'kicadSymbolFootprint': 'Diode_THT:Diode_Bridge_19.0x3.5x10.0mm_P5.0mm', 'kicadSymbolDatasheet': 'https://diotec.com/tl_files/diotec/files/pdf/datasheets/b40c2300.pdf', 'kicadSymbolki_keywords': 'rectifier acdc', 'kicadSymbolki_description': 'Silicon Bridge Rectifier, 380V Vrms, 1.5A If, pins=-A+A, SIL-package', 'kicadSymbolki_fp_filters': 'D*Bridge*19.0x3.5x10.0mm*P5.0mm*'}]|
+|name|name|Diode_Bridge : B380C2300-1500B|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'B40C2300-1500B'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'B380C2300-1500B'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Diode_THT</td></tr><tr><td>Diode_Bridge_19.0x3.5x10.0mm_P5.0mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//diotec.com/tl_files/diotec/files/pdf/datasheets/b40c2300.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'rectifier acdc'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Silicon Bridge Rectifier</td><td> 380V Vrms</td><td> 1.5A If</td><td> pins=-A+A</td><td> SIL-package'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'D*Bridge*19.0x3.5x10.0mm*P5.0mm*'</td></tr></table>]|
 ||||

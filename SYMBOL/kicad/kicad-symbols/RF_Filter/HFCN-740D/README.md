@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKRFFILHFCN74D > HFCN-740D
+# SZKRFFILHFCN74D > RF_Filter : HFCN-740D
 
 - ID: SYMBOL-kicad-kicad-symbols-RF_Filter-HFCN-740D
 - Hex ID: SZKRFFILHFCN74D
-- Name: HFCN-740D
-- Description: HFCN-740D
+- Name: RF_Filter : HFCN-740D
+- Description: RF_Filter : HFCN-740D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-HFCN-740D](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-HFCN-740D)
 - Short Link: [http://oom.lt/SZKRFFILHFCN74D](http://oom.lt/SZKRFFILHFCN74D)
   
@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|HFCN-740D|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-RF_Filter-HFCN-740D|
 |Hex ID (short code)|hexID|SZKRFFILHFCN74D|
-|name|name|HFCN-740D|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'HFCN-440', 'kicadSymbolReference': 'FL', 'kicadSymbolValue': 'HFCN-740D', 'kicadSymbolFootprint': 'Filter:Filter_Mini-Circuits_FV1206', 'kicadSymbolDatasheet': 'https://www.minicircuits.com/pdfs/HFCN-740D+.pdf', 'kicadSymbolki_keywords': 'Mini-Circuits high pass filter', 'kicadSymbolki_description': '740MHz 50 Ohm Passive High Pass Filter, DC capable, FV1206', 'kicadSymbolki_fp_filters': 'Filter*Mini?Circuits*FV1206*'}]|
+|name|name|RF_Filter : HFCN-740D|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'HFCN-440'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'FL'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'HFCN-740D'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Filter</td></tr><tr><td>Filter_Mini-Circuits_FV1206'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.minicircuits.com/pdfs/HFCN-740D+.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Mini-Circuits high pass filter'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '740MHz 50 Ohm Passive High Pass Filter</td><td> DC capable</td><td> FV1206'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Filter*Mini?Circuits*FV1206*'</td></tr></table>]|
 ||||

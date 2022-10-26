@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKSENPROXIMITYBPR15 > BPR-105
+# SZKSENPROXIMITYBPR15 > Sensor_Proximity : BPR-105
 
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Proximity-BPR-105
 - Hex ID: SZKSENPROXIMITYBPR15
-- Name: BPR-105
-- Description: BPR-105
+- Name: Sensor_Proximity : BPR-105
+- Description: Sensor_Proximity : BPR-105
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Proximity-BPR-105](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Proximity-BPR-105)
 - Short Link: [http://oom.lt/SZKSENPROXIMITYBPR15](http://oom.lt/SZKSENPROXIMITYBPR15)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BPR-105|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Proximity-BPR-105|
 |Hex ID (short code)|hexID|SZKSENPROXIMITYBPR15|
-|name|name|BPR-105|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ITR8307', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'BPR-105', 'kicadSymbolFootprint': 'OptoDevice:Everlight_ITR8307', 'kicadSymbolDatasheet': 'http://www.ystone.com.tw/en/data/goods/IRPT/Photo%20Interrupters-Reflective%20Type.pdf', 'kicadSymbolki_keywords': 'Reflective Optical Sensor Opto', 'kicadSymbolki_description': 'Subminiature Reflective Optical Sensor, SMD-package with PCB-cutout', 'kicadSymbolki_fp_filters': 'Everlight*ITR8307*'}]|
+|name|name|Sensor_Proximity : BPR-105|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'ITR8307'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'BPR-105'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'OptoDevice</td></tr><tr><td>Everlight_ITR8307'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ystone.com.tw/en/data/goods/IRPT/Photo%20Interrupters-Reflective%20Type.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Reflective Optical Sensor Opto'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Subminiature Reflective Optical Sensor</td><td> SMD-package with PCB-cutout'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Everlight*ITR8307*'</td></tr></table>]|
 ||||

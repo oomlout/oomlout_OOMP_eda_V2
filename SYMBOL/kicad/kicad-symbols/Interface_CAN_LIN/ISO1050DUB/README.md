@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKINTERFACECANLINISO15DUB > ISO1050DUB
+# SZKINTERFACECANLINISO15DUB > Interface_CAN_LIN : ISO1050DUB
 
 - ID: SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-ISO1050DUB
 - Hex ID: SZKINTERFACECANLINISO15DUB
-- Name: ISO1050DUB
-- Description: ISO1050DUB
+- Name: Interface_CAN_LIN : ISO1050DUB
+- Description: Interface_CAN_LIN : ISO1050DUB
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-ISO1050DUB](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-ISO1050DUB)
 - Short Link: [http://oom.lt/SZKINTERFACECANLINISO15DUB](http://oom.lt/SZKINTERFACECANLINISO15DUB)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ISO1050DUB|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-ISO1050DUB|
 |Hex ID (short code)|hexID|SZKINTERFACECANLINISO15DUB|
-|name|name|ISO1050DUB|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ISO1050DUB', 'kicadSymbolFootprint': 'Package_SO:SOP-8_6.62x9.15mm_P2.54mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/iso1050.pdf', 'kicadSymbolki_keywords': 'CAN Isolated', 'kicadSymbolki_description': 'Isolated CAN Transceiver, SOP-8', 'kicadSymbolki_fp_filters': 'SOP*6.62x9.15mm*P2.54mm*'}]|
+|name|name|Interface_CAN_LIN : ISO1050DUB|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ISO1050DUB'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOP-8_6.62x9.15mm_P2.54mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/iso1050.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'CAN Isolated'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Isolated CAN Transceiver</td><td> SOP-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOP*6.62x9.15mm*P2.54mm*'</td></tr></table>]|
 ||||

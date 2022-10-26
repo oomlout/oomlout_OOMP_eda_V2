@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_C_Plug_JAE_DX07P024AJ1|
 |Hex ID (short code)|hexID|FZKCNUUCPLUGJAEDX7P24AJ1|
 |name|name|Connector_USB : USB_C_Plug_JAE_DX07P024AJ1|
-|Footprint Kicad|footprintKicadDetails|{'name': 'USB_C_Plug_JAE_DX07P024AJ1', 'description': 'Universal Serial Bus (USB) Shielded I/O Plug, Type C, Right Angle, Surface Mount, https://www.jae.com/en/searchfilter/?topics_keyword=DX07P024AJ1&mainItemSelect=1', 'tags': 'USB Type-C Plug Edge Mount', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_USB.3dshapes/USB_C_Plug_JAE_DX07P024AJ1.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'USB_C_Plug_JAE_DX07P024AJ1'</td><td> 'description'</td></tr><tr><td> 'Universal Serial Bus (USB) Shielded I/O Plug</td><td> Type C</td><td> Right Angle</td><td> Surface Mount</td><td> https</td></tr><tr><td>//www.jae.com/en/searchfilter/?topics_keyword=DX07P024AJ1&mainItemSelect=1'</td><td> 'tags'</td></tr><tr><td> 'USB Type-C Plug Edge Mount'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_USB.3dshapes/USB_C_Plug_JAE_DX07P024AJ1.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

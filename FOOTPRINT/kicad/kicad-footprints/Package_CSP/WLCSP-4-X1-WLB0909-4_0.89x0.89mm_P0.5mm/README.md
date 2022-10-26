@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_CSP-WLCSP-4-X1-WLB0909-4_0.89x0.89mm_P0.5mm|
 |Hex ID (short code)|hexID|FZKCSPWLCSP4X1WLB99489X89P5|
 |name|name|Package_CSP : WLCSP-4-X1-WLB0909-4_0.89x0.89mm_P0.5mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'WLCSP-4-X1-WLB0909-4_0.89x0.89mm_P0.5mm', 'description': 'X1-WLB0909, 0.89x0.89mm, 4 Ball, 2x2 Layout, 0.5mm Pitch, https://www.diodes.com/assets/Datasheets/AP22913.pdf', 'tags': 'CSP 4 0.5', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_CSP.3dshapes/WLCSP-4-X1-WLB0909-4_0.89x0.89mm_P0.5mm.wrl', 'pins': {'type': 'smd', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'WLCSP-4-X1-WLB0909-4_0.89x0.89mm_P0.5mm'</td><td> 'description'</td></tr><tr><td> 'X1-WLB0909</td><td> 0.89x0.89mm</td><td> 4 Ball</td><td> 2x2 Layout</td><td> 0.5mm Pitch</td><td> https</td></tr><tr><td>//www.diodes.com/assets/Datasheets/AP22913.pdf'</td><td> 'tags'</td></tr><tr><td> 'CSP 4 0.5'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_CSP.3dshapes/WLCSP-4-X1-WLB0909-4_0.89x0.89mm_P0.5mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

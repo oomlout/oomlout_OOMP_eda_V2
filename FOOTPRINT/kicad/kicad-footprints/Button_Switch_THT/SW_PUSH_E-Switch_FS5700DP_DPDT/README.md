@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_PUSH_E-Switch_FS5700DP_DPDT|
 |Hex ID (short code)|hexID|FZKBSWPUSHESWITCHFS57DPDPDT|
 |name|name|Button_Switch_THT : SW_PUSH_E-Switch_FS5700DP_DPDT|
-|Footprint Kicad|footprintKicadDetails|{'name': 'SW_PUSH_E-Switch_FS5700DP_DPDT', 'description': 'FS5700 series pushbutton footswitch, DPDT, https://www.e-switch.com/system/asset/product_line/data_sheet/226/FS5700.pdf', 'tags': 'switch DPDT footswitch', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_PUSH_E-Switch_FS5700DP_DPDT.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SW_PUSH_E-Switch_FS5700DP_DPDT'</td><td> 'description'</td></tr><tr><td> 'FS5700 series pushbutton footswitch</td><td> DPDT</td><td> https</td></tr><tr><td>//www.e-switch.com/system/asset/product_line/data_sheet/226/FS5700.pdf'</td><td> 'tags'</td></tr><tr><td> 'switch DPDT footswitch'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Button_Switch_THT.3dshapes/SW_PUSH_E-Switch_FS5700DP_DPDT.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

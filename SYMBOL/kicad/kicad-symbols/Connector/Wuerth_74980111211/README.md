@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKCNWUERTH7498111211 > Wuerth_74980111211
+# SZKCNWUERTH7498111211 > Connector : Wuerth_74980111211
 
 - ID: SYMBOL-kicad-kicad-symbols-Connector-Wuerth_74980111211
 - Hex ID: SZKCNWUERTH7498111211
-- Name: Wuerth_74980111211
-- Description: Wuerth_74980111211
+- Name: Connector : Wuerth_74980111211
+- Description: Connector : Wuerth_74980111211
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-Wuerth_74980111211](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-Wuerth_74980111211)
 - Short Link: [http://oom.lt/SZKCNWUERTH7498111211](http://oom.lt/SZKCNWUERTH7498111211)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Wuerth_74980111211|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-Wuerth_74980111211|
 |Hex ID (short code)|hexID|SZKCNWUERTH7498111211|
-|name|name|Wuerth_74980111211|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'Wuerth_74980111211', 'kicadSymbolFootprint': 'Connector_RJ:RJ45_Wuerth_74980111211_Horizontal', 'kicadSymbolDatasheet': 'https://www.we-online.de/katalog/datasheet/74980111211.pdf', 'kicadSymbolki_keywords': 'lan jack transformer smt', 'kicadSymbolki_description': 'LAN Transformer Jack, RJ45, 10/100 BaseT', 'kicadSymbolki_fp_filters': 'RJ45*Wuerth*74980111211*'}]|
+|name|name|Connector : Wuerth_74980111211|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'J'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Wuerth_74980111211'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Connector_RJ</td></tr><tr><td>RJ45_Wuerth_74980111211_Horizontal'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.we-online.de/katalog/datasheet/74980111211.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'lan jack transformer smt'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'LAN Transformer Jack</td><td> RJ45</td><td> 10/100 BaseT'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'RJ45*Wuerth*74980111211*'</td></tr></table>]|
 ||||

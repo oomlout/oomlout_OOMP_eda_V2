@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUMCHIPATTINYATTINY2313V1M > ATtiny2313V-10M
+# SZKMCUMCHIPATTINYATTINY2313V1M > MCU_Microchip_ATtiny : ATtiny2313V-10M
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny2313V-10M
 - Hex ID: SZKMCUMCHIPATTINYATTINY2313V1M
-- Name: ATtiny2313V-10M
-- Description: ATtiny2313V-10M
+- Name: MCU_Microchip_ATtiny : ATtiny2313V-10M
+- Description: MCU_Microchip_ATtiny : ATtiny2313V-10M
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny2313V-10M](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny2313V-10M)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATTINYATTINY2313V1M](http://oom.lt/SZKMCUMCHIPATTINYATTINY2313V1M)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ATtiny2313V-10M|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny2313V-10M|
 |Hex ID (short code)|hexID|SZKMCUMCHIPATTINYATTINY2313V1M|
-|name|name|ATtiny2313V-10M|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ATtiny2313V-10M', 'kicadSymbolFootprint': 'Package_DFN_QFN:MLF-20-1EP_4x4mm_P0.5mm_EP2.6x2.6mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-2543-AVR-ATtiny2313_Datasheet.pdf', 'kicadSymbolki_keywords': 'AVR 8bit Microcontroller tinyAVR', 'kicadSymbolki_description': '10MHz, 2kB Flash, 128B SRAM, 128B EEPROM, debugWIRE, QFN-20', 'kicadSymbolki_fp_filters': 'MLF*1EP*4x4mm*P0.5mm*'}]|
+|name|name|MCU_Microchip_ATtiny : ATtiny2313V-10M|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ATtiny2313V-10M'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>MLF-20-1EP_4x4mm_P0.5mm_EP2.6x2.6mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/Atmel-2543-AVR-ATtiny2313_Datasheet.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'AVR 8bit Microcontroller tinyAVR'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '10MHz</td><td> 2kB Flash</td><td> 128B SRAM</td><td> 128B EEPROM</td><td> debugWIRE</td><td> QFN-20'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'MLF*1EP*4x4mm*P0.5mm*'</td></tr></table>]|
 ||||

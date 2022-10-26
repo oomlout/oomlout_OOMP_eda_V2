@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDEVICEDELAYLINE > DelayLine
+# SZKDEVICEDELAYLINE > Device : DelayLine
 
 - ID: SYMBOL-kicad-kicad-symbols-Device-DelayLine
 - Hex ID: SZKDEVICEDELAYLINE
-- Name: DelayLine
-- Description: DelayLine
+- Name: Device : DelayLine
+- Description: Device : DelayLine
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-DelayLine](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-DelayLine)
 - Short Link: [http://oom.lt/SZKDEVICEDELAYLINE](http://oom.lt/SZKDEVICEDELAYLINE)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DelayLine|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-DelayLine|
 |Hex ID (short code)|hexID|SZKDEVICEDELAYLINE|
-|name|name|DelayLine|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'L', 'kicadSymbolValue': 'DelayLine', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'delay propagation retard impedance', 'kicadSymbolki_description': 'Delay line'}]|
+|name|name|Device : DelayLine|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'L'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'DelayLine'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'delay propagation retard impedance'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Delay line'</td></tr></table>]|
 ||||

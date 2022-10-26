@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDEVICERSHUNT > R_Shunt
+# SZKDEVICERSHUNT > Device : R_Shunt
 
 - ID: SYMBOL-kicad-kicad-symbols-Device-R_Shunt
 - Hex ID: SZKDEVICERSHUNT
-- Name: R_Shunt
-- Description: R_Shunt
+- Name: Device : R_Shunt
+- Description: Device : R_Shunt
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-R_Shunt](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-R_Shunt)
 - Short Link: [http://oom.lt/SZKDEVICERSHUNT](http://oom.lt/SZKDEVICERSHUNT)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|R_Shunt|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-R_Shunt|
 |Hex ID (short code)|hexID|SZKDEVICERSHUNT|
-|name|name|R_Shunt|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'R', 'kicadSymbolValue': 'R_Shunt', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'R res shunt resistor', 'kicadSymbolki_description': 'Shunt resistor', 'kicadSymbolki_fp_filters': 'R_*Shunt*'}]|
+|name|name|Device : R_Shunt|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'R'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'R_Shunt'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'R res shunt resistor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Shunt resistor'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'R_*Shunt*'</td></tr></table>]|
 ||||

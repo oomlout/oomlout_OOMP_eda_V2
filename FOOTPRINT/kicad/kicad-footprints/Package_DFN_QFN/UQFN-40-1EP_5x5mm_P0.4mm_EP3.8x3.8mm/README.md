@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-UQFN-40-1EP_5x5mm_P0.4mm_EP3.8x3.8mm|
 |Hex ID (short code)|hexID|FZKDFNUQFN41EP5X5P4EP38X38|
 |name|name|Package_DFN_QFN : UQFN-40-1EP_5x5mm_P0.4mm_EP3.8x3.8mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'UQFN-40-1EP_5x5mm_P0.4mm_EP3.8x3.8mm', 'description': 'UQFN, 40 Pin (http://ww1.microchip.com/downloads/en/PackagingSpec/00000049BQ.pdf#page=345), generated with kicad-footprint-generator ipc_noLead_generator.py', 'tags': 'UQFN NoLead', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/UQFN-40-1EP_5x5mm_P0.4mm_EP3.8x3.8mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'UQFN-40-1EP_5x5mm_P0.4mm_EP3.8x3.8mm'</td><td> 'description'</td></tr><tr><td> 'UQFN</td><td> 40 Pin (http</td></tr><tr><td>//ww1.microchip.com/downloads/en/PackagingSpec/00000049BQ.pdf#page=345)</td><td> generated with kicad-footprint-generator ipc_noLead_generator.py'</td><td> 'tags'</td></tr><tr><td> 'UQFN NoLead'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DFN_QFN.3dshapes/UQFN-40-1EP_5x5mm_P0.4mm_EP3.8x3.8mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

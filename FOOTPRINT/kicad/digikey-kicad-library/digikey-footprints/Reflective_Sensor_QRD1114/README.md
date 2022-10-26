@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Reflective_Sensor_QRD1114|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSREFLECTIVESENQRD1114|
 |name|name|digikey-footprints : Reflective_Sensor_QRD1114|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Reflective_Sensor_QRD1114', 'description': 'https://www.fairchildsemi.com/datasheets/QR/QRD1113.pdf', 'tags': None, 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Reflective_Sensor_QRD1114'</td><td> 'description'</td></tr><tr><td> 'https</td></tr><tr><td>//www.fairchildsemi.com/datasheets/QR/QRD1113.pdf'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

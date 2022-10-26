@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKAMPLIFIEROPERATIONALNCS2325D > NCS2325D
+# SZKAMPLIFIEROPERATIONALNCS2325D > Amplifier_Operational : NCS2325D
 
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-NCS2325D
 - Hex ID: SZKAMPLIFIEROPERATIONALNCS2325D
-- Name: NCS2325D
-- Description: NCS2325D
+- Name: Amplifier_Operational : NCS2325D
+- Description: Amplifier_Operational : NCS2325D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-NCS2325D](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-NCS2325D)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALNCS2325D](http://oom.lt/SZKAMPLIFIEROPERATIONALNCS2325D)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|NCS2325D|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Operational-NCS2325D|
 |Hex ID (short code)|hexID|SZKAMPLIFIEROPERATIONALNCS2325D|
-|name|name|NCS2325D|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'NCS2325D', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm', 'kicadSymbolDatasheet': 'http://www.onsemi.com/PowerSolutions/document/NCS325-D.PDF', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'dual opamp low-power', 'kicadSymbolki_description': 'Dual operational amplifier, 50uV Offset, 0.25uV/C, 35uA Zero-Drift, SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm*'}]|
+|name|name|Amplifier_Operational : NCS2325D|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'NCS2325D'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-8_3.9x4.9mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.onsemi.com/PowerSolutions/document/NCS325-D.PDF'</td><td> 'kicadSymbolki_locked'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'dual opamp low-power'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Dual operational amplifier</td><td> 50uV Offset</td><td> 0.25uV/C</td><td> 35uA Zero-Drift</td><td> SOIC-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*3.9x4.9mm*P1.27mm*'</td></tr></table>]|
 ||||

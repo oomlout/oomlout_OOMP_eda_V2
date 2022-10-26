@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORSWITCHINGLM2596T5 > LM2596T-5
+# SZKREGULATORSWITCHINGLM2596T5 > Regulator_Switching : LM2596T-5
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM2596T-5
 - Hex ID: SZKREGULATORSWITCHINGLM2596T5
-- Name: LM2596T-5
-- Description: LM2596T-5
+- Name: Regulator_Switching : LM2596T-5
+- Description: Regulator_Switching : LM2596T-5
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM2596T-5](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM2596T-5)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGLM2596T5](http://oom.lt/SZKREGULATORSWITCHINGLM2596T5)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM2596T-5|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM2596T-5|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGLM2596T5|
-|name|name|LM2596T-5|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LM2596T-12', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM2596T-5', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-220-5_P3.4x3.7mm_StaggerOdd_Lead3.8mm_Vertical', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lm2596.pdf', 'kicadSymbolki_keywords': 'Step-Down Voltage Regulator 5V 3A', 'kicadSymbolki_description': '5V 3A 150kHz Step-Down Voltage Regulator, TO-220', 'kicadSymbolki_fp_filters': 'TO?220*'}]|
+|name|name|Regulator_Switching : LM2596T-5|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'LM2596T-12'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LM2596T-5'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_THT</td></tr><tr><td>TO-220-5_P3.4x3.7mm_StaggerOdd_Lead3.8mm_Vertical'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/lm2596.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Step-Down Voltage Regulator 5V 3A'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '5V 3A 150kHz Step-Down Voltage Regulator</td><td> TO-220'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TO?220*'</td></tr></table>]|
 ||||

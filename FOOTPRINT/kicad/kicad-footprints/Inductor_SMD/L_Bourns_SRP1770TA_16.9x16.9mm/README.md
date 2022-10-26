@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Bourns_SRP1770TA_16.9x16.9mm|
 |Hex ID (short code)|hexID|FZKINDUCTORSMLBOURNSSRP177TA169X169|
 |name|name|Inductor_SMD : L_Bourns_SRP1770TA_16.9x16.9mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'L_Bourns_SRP1770TA_16.9x16.9mm', 'description': 'Bourns SRP1770TA series SMD Inductor http://www.bourns.com/docs/Product-Datasheets/SRP1770TA.pdf', 'tags': 'Bourns SRP1770TA series SMD Inductor ', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Bourns_SRP1770TA_16.9x16.9mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'L_Bourns_SRP1770TA_16.9x16.9mm'</td><td> 'description'</td></tr><tr><td> 'Bourns SRP1770TA series SMD Inductor http</td></tr><tr><td>//www.bourns.com/docs/Product-Datasheets/SRP1770TA.pdf'</td><td> 'tags'</td></tr><tr><td> 'Bourns SRP1770TA series SMD Inductor '</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Inductor_SMD.3dshapes/L_Bourns_SRP1770TA_16.9x16.9mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKINTERFACELTC6957XMS3 > LTC6957xMS-3
+# SZKINTERFACELTC6957XMS3 > Interface : LTC6957xMS-3
 
 - ID: SYMBOL-kicad-kicad-symbols-Interface-LTC6957xMS-3
 - Hex ID: SZKINTERFACELTC6957XMS3
-- Name: LTC6957xMS-3
-- Description: LTC6957xMS-3
+- Name: Interface : LTC6957xMS-3
+- Description: Interface : LTC6957xMS-3
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-LTC6957xMS-3](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-LTC6957xMS-3)
 - Short Link: [http://oom.lt/SZKINTERFACELTC6957XMS3](http://oom.lt/SZKINTERFACELTC6957XMS3)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LTC6957xMS-3|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface-LTC6957xMS-3|
 |Hex ID (short code)|hexID|SZKINTERFACELTC6957XMS3|
-|name|name|LTC6957xMS-3|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LTC6957xMS-3', 'kicadSymbolFootprint': 'Package_SO:MSOP-12_3x4mm_P0.65mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/6957fb.pdf', 'kicadSymbolki_keywords': 'LTC clock converter', 'kicadSymbolki_description': 'Low Phase Noise, Dual Output Buffer/Driver/Logic Converter, CMOS In-Phase Outputs, MSOP-12', 'kicadSymbolki_fp_filters': 'MSOP*3x4mm*P0.65mm*'}]|
+|name|name|Interface : LTC6957xMS-3|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LTC6957xMS-3'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>MSOP-12_3x4mm_P0.65mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/6957fb.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'LTC clock converter'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Low Phase Noise</td><td> Dual Output Buffer/Driver/Logic Converter</td><td> CMOS In-Phase Outputs</td><td> MSOP-12'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'MSOP*3x4mm*P0.65mm*'</td></tr></table>]|
 ||||

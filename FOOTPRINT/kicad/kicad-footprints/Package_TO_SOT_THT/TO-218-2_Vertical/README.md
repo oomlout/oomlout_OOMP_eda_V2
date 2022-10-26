@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-218-2_Vertical|
 |Hex ID (short code)|hexID|FZKSOTTO2182VERTICAL|
 |name|name|Package_TO_SOT_THT : TO-218-2_Vertical|
-|Footprint Kicad|footprintKicadDetails|{'name': 'TO-218-2_Vertical', 'description': 'TO-218-2, Vertical, RM 10.95mm, SOT-93, see https://www.vishay.com/docs/95214/fto218.pdf', 'tags': 'TO-218-2 Vertical RM 10.95mm SOT-93', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/TO-218-2_Vertical.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'TO-218-2_Vertical'</td><td> 'description'</td></tr><tr><td> 'TO-218-2</td><td> Vertical</td><td> RM 10.95mm</td><td> SOT-93</td><td> see https</td></tr><tr><td>//www.vishay.com/docs/95214/fto218.pdf'</td><td> 'tags'</td></tr><tr><td> 'TO-218-2 Vertical RM 10.95mm SOT-93'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_TO_SOT_THT.3dshapes/TO-218-2_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

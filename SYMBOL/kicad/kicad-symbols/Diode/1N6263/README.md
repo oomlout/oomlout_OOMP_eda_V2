@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDIODE1N6263 > 1N6263
+# SZKDIODE1N6263 > Diode : 1N6263
 
 - ID: SYMBOL-kicad-kicad-symbols-Diode-1N6263
 - Hex ID: SZKDIODE1N6263
-- Name: 1N6263
-- Description: 1N6263
+- Name: Diode : 1N6263
+- Description: Diode : 1N6263
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-1N6263](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-1N6263)
 - Short Link: [http://oom.lt/SZKDIODE1N6263](http://oom.lt/SZKDIODE1N6263)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|1N6263|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-1N6263|
 |Hex ID (short code)|hexID|SZKDIODE1N6263|
-|name|name|1N6263|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': '1N6263', 'kicadSymbolFootprint': 'Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal', 'kicadSymbolDatasheet': 'www.st.com/resource/en/datasheet/1n6263.pdf', 'kicadSymbolki_keywords': 'diode Schottky', 'kicadSymbolki_description': '60V 15mA Schottky diode, DO-35', 'kicadSymbolki_fp_filters': 'D*DO?35*'}]|
+|name|name|Diode : 1N6263|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> '1N6263'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Diode_THT</td></tr><tr><td>D_DO-35_SOD27_P7.62mm_Horizontal'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'www.st.com/resource/en/datasheet/1n6263.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'diode Schottky'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '60V 15mA Schottky diode</td><td> DO-35'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'D*DO?35*'</td></tr></table>]|
 ||||

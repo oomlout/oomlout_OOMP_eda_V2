@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Switch_Tactile_SMD_4.5x4.5mm_TL3315NF160Q|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSWITCHTACTILESM45X45TL3315NF16Q|
 |name|name|digikey-footprints : Switch_Tactile_SMD_4.5x4.5mm_TL3315NF160Q|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Switch_Tactile_SMD_4.5x4.5mm_TL3315NF160Q', 'description': 'http://spec_sheets.e-switch.com/specs/P010337.pdf', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Switch_Tactile_SMD_4.5x4.5mm_TL3315NF160Q'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//spec_sheets.e-switch.com/specs/P010337.pdf'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

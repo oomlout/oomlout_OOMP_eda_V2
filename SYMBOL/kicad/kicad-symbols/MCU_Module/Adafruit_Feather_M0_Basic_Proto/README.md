@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUMOADAFEATHERMBASICPROTO > Adafruit_Feather_M0_Basic_Proto
+# SZKMCUMOADAFEATHERMBASICPROTO > MCU_Module : Adafruit_Feather_M0_Basic_Proto
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Module-Adafruit_Feather_M0_Basic_Proto
 - Hex ID: SZKMCUMOADAFEATHERMBASICPROTO
-- Name: Adafruit_Feather_M0_Basic_Proto
-- Description: Adafruit_Feather_M0_Basic_Proto
+- Name: MCU_Module : Adafruit_Feather_M0_Basic_Proto
+- Description: MCU_Module : Adafruit_Feather_M0_Basic_Proto
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Module-Adafruit_Feather_M0_Basic_Proto](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Module-Adafruit_Feather_M0_Basic_Proto)
 - Short Link: [http://oom.lt/SZKMCUMOADAFEATHERMBASICPROTO](http://oom.lt/SZKMCUMOADAFEATHERMBASICPROTO)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Adafruit_Feather_M0_Basic_Proto|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Module-Adafruit_Feather_M0_Basic_Proto|
 |Hex ID (short code)|hexID|SZKMCUMOADAFEATHERMBASICPROTO|
-|name|name|Adafruit_Feather_M0_Basic_Proto|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'A', 'kicadSymbolValue': 'Adafruit_Feather_M0_Basic_Proto', 'kicadSymbolFootprint': 'Module:Adafruit_Feather', 'kicadSymbolDatasheet': 'https://cdn-learn.adafruit.com/downloads/pdf/adafruit-feather-m0-basic-proto.pdf', 'kicadSymbolki_keywords': 'Adafruit feather microcontroller module USB M0 SAMD21', 'kicadSymbolki_description': 'Microcontroller module with SAMD21 Cortex-M0 MCU', 'kicadSymbolki_fp_filters': 'Adafruit*Feather*'}]|
+|name|name|MCU_Module : Adafruit_Feather_M0_Basic_Proto|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'A'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Adafruit_Feather_M0_Basic_Proto'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Module</td></tr><tr><td>Adafruit_Feather'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//cdn-learn.adafruit.com/downloads/pdf/adafruit-feather-m0-basic-proto.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Adafruit feather microcontroller module USB M0 SAMD21'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Microcontroller module with SAMD21 Cortex-M0 MCU'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Adafruit*Feather*'</td></tr></table>]|
 ||||

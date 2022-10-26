@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKCONRAC224SK > RAC20-24SK
+# SZKCONRAC224SK > Converter_ACDC : RAC20-24SK
 
 - ID: SYMBOL-kicad-kicad-symbols-Converter_ACDC-RAC20-24SK
 - Hex ID: SZKCONRAC224SK
-- Name: RAC20-24SK
-- Description: RAC20-24SK
+- Name: Converter_ACDC : RAC20-24SK
+- Description: Converter_ACDC : RAC20-24SK
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_ACDC-RAC20-24SK](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_ACDC-RAC20-24SK)
 - Short Link: [http://oom.lt/SZKCONRAC224SK](http://oom.lt/SZKCONRAC224SK)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|RAC20-24SK|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Converter_ACDC-RAC20-24SK|
 |Hex ID (short code)|hexID|SZKCONRAC224SK|
-|name|name|RAC20-24SK|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'RAC20-05SK', 'kicadSymbolReference': 'PS', 'kicadSymbolValue': 'RAC20-24SK', 'kicadSymbolFootprint': 'Converter_ACDC:Converter_ACDC_Recom_RAC20-xxSK_THT', 'kicadSymbolDatasheet': 'https://recom-power.com/pdf/Powerline_AC-DC/RAC20-K.pdf', 'kicadSymbolki_keywords': 'ac dc power supply', 'kicadSymbolki_description': '20 Watt Single Output AC/DC power supply 24V 840mA', 'kicadSymbolki_fp_filters': 'Converter*ACDC*Recom*RAC20*SK*THT*'}]|
+|name|name|Converter_ACDC : RAC20-24SK|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'RAC20-05SK'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'PS'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'RAC20-24SK'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Converter_ACDC</td></tr><tr><td>Converter_ACDC_Recom_RAC20-xxSK_THT'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//recom-power.com/pdf/Powerline_AC-DC/RAC20-K.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'ac dc power supply'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '20 Watt Single Output AC/DC power supply 24V 840mA'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Converter*ACDC*Recom*RAC20*SK*THT*'</td></tr></table>]|
 ||||

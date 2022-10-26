@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKLAPA12 > APA102
+# SZKLAPA12 > LED : APA102
 
 - ID: SYMBOL-kicad-kicad-symbols-LED-APA102
 - Hex ID: SZKLAPA12
-- Name: APA102
-- Description: APA102
+- Name: LED : APA102
+- Description: LED : APA102
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-LED-APA102](http://oom.lt/SYMBOL-kicad-kicad-symbols-LED-APA102)
 - Short Link: [http://oom.lt/SZKLAPA12](http://oom.lt/SZKLAPA12)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|APA102|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-LED-APA102|
 |Hex ID (short code)|hexID|SZKLAPA12|
-|name|name|APA102|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'APA102', 'kicadSymbolFootprint': 'LED_SMD:LED_RGB_5050-6', 'kicadSymbolDatasheet': 'http://www.led-color.com/upload/201506/APA102%20LED.pdf', 'kicadSymbolki_keywords': 'RGB LED addressable 8bit pwm 5bit greyscale', 'kicadSymbolki_description': 'RGB LED with integrated controller', 'kicadSymbolki_fp_filters': 'LED*RGB*5050*'}]|
+|name|name|LED : APA102|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'APA102'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'LED_SMD</td></tr><tr><td>LED_RGB_5050-6'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.led-color.com/upload/201506/APA102%20LED.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'RGB LED addressable 8bit pwm 5bit greyscale'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'RGB LED with integrated controller'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'LED*RGB*5050*'</td></tr></table>]|
 ||||

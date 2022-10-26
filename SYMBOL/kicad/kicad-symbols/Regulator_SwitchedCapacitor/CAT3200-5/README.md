@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORSWITCHEDCAPACITORCAT325 > CAT3200-5
+# SZKREGULATORSWITCHEDCAPACITORCAT325 > Regulator_SwitchedCapacitor : CAT3200-5
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_SwitchedCapacitor-CAT3200-5
 - Hex ID: SZKREGULATORSWITCHEDCAPACITORCAT325
-- Name: CAT3200-5
-- Description: CAT3200-5
+- Name: Regulator_SwitchedCapacitor : CAT3200-5
+- Description: Regulator_SwitchedCapacitor : CAT3200-5
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_SwitchedCapacitor-CAT3200-5](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_SwitchedCapacitor-CAT3200-5)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHEDCAPACITORCAT325](http://oom.lt/SZKREGULATORSWITCHEDCAPACITORCAT325)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|CAT3200-5|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_SwitchedCapacitor-CAT3200-5|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHEDCAPACITORCAT325|
-|name|name|CAT3200-5|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'CAT3200-5', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-6', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pdf/datasheet/cat3200-d.pdf', 'kicadSymbolki_keywords': 'switched capacitor charge pump', 'kicadSymbolki_description': 'Low Noise Regulated Charge Pump DC-DC Converter, 5 V, 100 mA, SOT-23-6', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
+|name|name|Regulator_SwitchedCapacitor : CAT3200-5|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'CAT3200-5'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-23-6'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.onsemi.com/pdf/datasheet/cat3200-d.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'switched capacitor charge pump'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Low Noise Regulated Charge Pump DC-DC Converter</td><td> 5 V</td><td> 100 mA</td><td> SOT-23-6'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23*'</td></tr></table>]|
 ||||

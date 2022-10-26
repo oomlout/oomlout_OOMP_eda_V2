@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDEVICELAMPFLASH > Lamp_Flash
+# SZKDEVICELAMPFLASH > Device : Lamp_Flash
 
 - ID: SYMBOL-kicad-kicad-symbols-Device-Lamp_Flash
 - Hex ID: SZKDEVICELAMPFLASH
-- Name: Lamp_Flash
-- Description: Lamp_Flash
+- Name: Device : Lamp_Flash
+- Description: Device : Lamp_Flash
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Lamp_Flash](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Lamp_Flash)
 - Short Link: [http://oom.lt/SZKDEVICELAMPFLASH](http://oom.lt/SZKDEVICELAMPFLASH)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Lamp_Flash|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-Lamp_Flash|
 |Hex ID (short code)|hexID|SZKDEVICELAMPFLASH|
-|name|name|Lamp_Flash|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'LA', 'kicadSymbolValue': 'Lamp_Flash', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'flash lamp', 'kicadSymbolki_description': 'Flash lamp tube'}]|
+|name|name|Device : Lamp_Flash|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'LA'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Lamp_Flash'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'flash lamp'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Flash lamp tube'</td></tr></table>]|
 ||||

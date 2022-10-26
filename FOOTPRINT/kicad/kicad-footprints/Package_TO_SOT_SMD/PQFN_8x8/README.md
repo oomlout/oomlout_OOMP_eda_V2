@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-PQFN_8x8|
 |Hex ID (short code)|hexID|FZKPACKAGETOSOTSMPQFN8X8|
 |name|name|Package_TO_SOT_SMD : PQFN_8x8|
-|Footprint Kicad|footprintKicadDetails|{'name': 'PQFN_8x8', 'description': 'Low Profile 8x8mm PQFN, Dual Cool 88, https://www.onsemi.com/pub/Collateral/FDMT80080DC-D.pdf', 'tags': 'pqfn vdfn mosfet', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/PQFN_8x8.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'PQFN_8x8'</td><td> 'description'</td></tr><tr><td> 'Low Profile 8x8mm PQFN</td><td> Dual Cool 88</td><td> https</td></tr><tr><td>//www.onsemi.com/pub/Collateral/FDMT80080DC-D.pdf'</td><td> 'tags'</td></tr><tr><td> 'pqfn vdfn mosfet'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_TO_SOT_SMD.3dshapes/PQFN_8x8.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

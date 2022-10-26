@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Display-EA_DOGM128-6|
 |Hex ID (short code)|hexID|FZKDIEADOGM1286|
 |name|name|Display : EA_DOGM128-6|
-|Footprint Kicad|footprintKicadDetails|{'name': 'EA_DOGM128-6', 'description': 'Graphical,Display,LCD,128x64 https://www.lcd-module.de/eng/pdf/grafik/dogm128e.pdf', 'tags': 'EA DOGM128-6', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Display.3dshapes/EA_DOGM128-6.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'EA_DOGM128-6'</td><td> 'description'</td></tr><tr><td> 'Graphical</td><td>Display</td><td>LCD</td><td>128x64 https</td></tr><tr><td>//www.lcd-module.de/eng/pdf/grafik/dogm128e.pdf'</td><td> 'tags'</td></tr><tr><td> 'EA DOGM128-6'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Display.3dshapes/EA_DOGM128-6.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Hirose-Hirose_DF13C_CL535-0406-3-51_1x06-1MP_P1.25mm_Vertical|
 |Hex ID (short code)|hexID|FZKCNHIROSEHIROSEDF13CCL535463511X61MPP125VERTICAL|
 |name|name|Connector_Hirose : Hirose_DF13C_CL535-0406-3-51_1x06-1MP_P1.25mm_Vertical|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Hirose_DF13C_CL535-0406-3-51_1x06-1MP_P1.25mm_Vertical', 'description': 'Hirose DF13C SMD, CL535-0406-3-51, 6 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13C-10P-1.25V%2851%29/), generated with kicad-footprint-generator', 'tags': 'connector Hirose DF13C vertical', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_Hirose.3dshapes/Hirose_DF13C_CL535-0406-3-51_1x06-1MP_P1.25mm_Vertical.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Hirose_DF13C_CL535-0406-3-51_1x06-1MP_P1.25mm_Vertical'</td><td> 'description'</td></tr><tr><td> 'Hirose DF13C SMD</td><td> CL535-0406-3-51</td><td> 6 Pins per row (https</td></tr><tr><td>//www.hirose.com/product/en/products/DF13/DF13C-10P-1.25V%2851%29/)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'connector Hirose DF13C vertical'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_Hirose.3dshapes/Hirose_DF13C_CL535-0406-3-51_1x06-1MP_P1.25mm_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

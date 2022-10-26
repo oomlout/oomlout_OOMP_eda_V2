@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Mounting_Wuerth-Mounting_Wuerth_WA-SMST-2.25mm_H4mm_9774040943|
 |Hex ID (short code)|hexID|FZKMONMONWASMST225H497744943|
 |name|name|Mounting_Wuerth : Mounting_Wuerth_WA-SMST-2.25mm_H4mm_9774040943|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Mounting_Wuerth_WA-SMST-2.25mm_H4mm_9774040943', 'description': 'Mounting Hardware, inside through hole 2.25mm, height 4, Wuerth electronics 9774040943 (https://katalog.we-online.de/em/datasheet/9774040943.pdf), generated with kicad-footprint-generator', 'tags': 'Mounting 2.25mm 9774040943', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Mounting_Wuerth.3dshapes/Mounting_Wuerth_WA-SMST-2.25mm_H4mm_9774040943.wrl', 'pins': {'type': 'smd', 'shape': 'custom'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Mounting_Wuerth_WA-SMST-2.25mm_H4mm_9774040943'</td><td> 'description'</td></tr><tr><td> 'Mounting Hardware</td><td> inside through hole 2.25mm</td><td> height 4</td><td> Wuerth electronics 9774040943 (https</td></tr><tr><td>//katalog.we-online.de/em/datasheet/9774040943.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'Mounting 2.25mm 9774040943'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Mounting_Wuerth.3dshapes/Mounting_Wuerth_WA-SMST-2.25mm_H4mm_9774040943.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'custom'</td></tr></table></td></tr></table>|
 ||||
 
 

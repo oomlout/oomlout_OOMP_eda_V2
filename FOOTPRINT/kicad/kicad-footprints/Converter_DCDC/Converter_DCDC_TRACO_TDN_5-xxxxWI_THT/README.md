@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_TRACO_TDN_5-xxxxWI_THT|
 |Hex ID (short code)|hexID|FZKCONCONTRACOTDN5XXXXWITHT|
 |name|name|Converter_DCDC : Converter_DCDC_TRACO_TDN_5-xxxxWI_THT|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Converter_DCDC_TRACO_TDN_5-xxxxWI_THT', 'description': 'Traco TDN 5WI Series, 5W (https://www.tracopower.com/sites/default/files/products/datasheets/tdn5wi_datasheet.pdf#page=4)', 'tags': 'dcdc traco 5w', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Converter_DCDC.3dshapes/Converter_DCDC_TRACO_TDN_5-xxxxWI_THT.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Converter_DCDC_TRACO_TDN_5-xxxxWI_THT'</td><td> 'description'</td></tr><tr><td> 'Traco TDN 5WI Series</td><td> 5W (https</td></tr><tr><td>//www.tracopower.com/sites/default/files/products/datasheets/tdn5wi_datasheet.pdf#page=4)'</td><td> 'tags'</td></tr><tr><td> 'dcdc traco 5w'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Converter_DCDC.3dshapes/Converter_DCDC_TRACO_TDN_5-xxxxWI_THT.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

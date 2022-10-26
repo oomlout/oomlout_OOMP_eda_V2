@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKLTSAL44 > TSAL4400
+# SZKLTSAL44 > LED : TSAL4400
 
 - ID: SYMBOL-kicad-kicad-symbols-LED-TSAL4400
 - Hex ID: SZKLTSAL44
-- Name: TSAL4400
-- Description: TSAL4400
+- Name: LED : TSAL4400
+- Description: LED : TSAL4400
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-LED-TSAL4400](http://oom.lt/SYMBOL-kicad-kicad-symbols-LED-TSAL4400)
 - Short Link: [http://oom.lt/SZKLTSAL44](http://oom.lt/SZKLTSAL44)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TSAL4400|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-LED-TSAL4400|
 |Hex ID (short code)|hexID|SZKLTSAL44|
-|name|name|TSAL4400|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'SFH4356P', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'TSAL4400', 'kicadSymbolFootprint': 'LED_THT:LED_D3.0mm_IRBlack', 'kicadSymbolDatasheet': 'http://www.vishay.com/docs/81006/tsal4400.pdf', 'kicadSymbolki_keywords': 'opto IR LED', 'kicadSymbolki_description': 'Infrared LED , 3mm LED package', 'kicadSymbolki_fp_filters': 'LED*3.0mm*IRBlack*'}]|
+|name|name|LED : TSAL4400|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'SFH4356P'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TSAL4400'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'LED_THT</td></tr><tr><td>LED_D3.0mm_IRBlack'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.vishay.com/docs/81006/tsal4400.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'opto IR LED'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Infrared LED </td><td> 3mm LED package'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'LED*3.0mm*IRBlack*'</td></tr></table>]|
 ||||

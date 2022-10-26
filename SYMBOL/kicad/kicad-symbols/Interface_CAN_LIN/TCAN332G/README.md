@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKINTERFACECANLINTCAN332G > TCAN332G
+# SZKINTERFACECANLINTCAN332G > Interface_CAN_LIN : TCAN332G
 
 - ID: SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-TCAN332G
 - Hex ID: SZKINTERFACECANLINTCAN332G
-- Name: TCAN332G
-- Description: TCAN332G
+- Name: Interface_CAN_LIN : TCAN332G
+- Description: Interface_CAN_LIN : TCAN332G
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-TCAN332G](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-TCAN332G)
 - Short Link: [http://oom.lt/SZKINTERFACECANLINTCAN332G](http://oom.lt/SZKINTERFACECANLINTCAN332G)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TCAN332G|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-TCAN332G|
 |Hex ID (short code)|hexID|SZKINTERFACECANLINTCAN332G|
-|name|name|TCAN332G|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TCAN332', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TCAN332G', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tcan337.pdf', 'kicadSymbolki_keywords': 'High-Speed CAN Transceiver', 'kicadSymbolki_description': 'High-Speed CAN Transceiver with CAN FD, 5Mbps, 3.3V supply, SOT-23-8/SOIC-8', 'kicadSymbolki_fp_filters': '*TSOT?23* *SOIC*3.9x4.9mm*P1.27mm*'}]|
+|name|name|Interface_CAN_LIN : TCAN332G|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'TCAN332'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TCAN332G'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/tcan337.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'High-Speed CAN Transceiver'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'High-Speed CAN Transceiver with CAN FD</td><td> 5Mbps</td><td> 3.3V supply</td><td> SOT-23-8/SOIC-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> '*TSOT?23* *SOIC*3.9x4.9mm*P1.27mm*'</td></tr></table>]|
 ||||

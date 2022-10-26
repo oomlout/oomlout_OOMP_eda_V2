@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUMCHIPPIC12PIC12C59AISN > PIC12C509A-ISN
+# SZKMCUMCHIPPIC12PIC12C59AISN > MCU_Microchip_PIC12 : PIC12C509A-ISN
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC12-PIC12C509A-ISN
 - Hex ID: SZKMCUMCHIPPIC12PIC12C59AISN
-- Name: PIC12C509A-ISN
-- Description: PIC12C509A-ISN
+- Name: MCU_Microchip_PIC12 : PIC12C509A-ISN
+- Description: MCU_Microchip_PIC12 : PIC12C509A-ISN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC12-PIC12C509A-ISN](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC12-PIC12C509A-ISN)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC12PIC12C59AISN](http://oom.lt/SZKMCUMCHIPPIC12PIC12C59AISN)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PIC12C509A-ISN|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC12-PIC12C509A-ISN|
 |Hex ID (short code)|hexID|SZKMCUMCHIPPIC12PIC12C59AISN|
-|name|name|PIC12C509A-ISN|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'PIC12C509A-IP', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PIC12C509A-ISN', 'kicadSymbolFootprint': 'Package_DIP:DIP-8_W7.62mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/devicedoc/40139e.pdf', 'kicadSymbolki_keywords': '8-Bit CMOS Microcontroller', 'kicadSymbolki_description': 'PIC12C509A, 1024W EPROM, 41B SRAM, SO8', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
+|name|name|MCU_Microchip_PIC12 : PIC12C509A-ISN|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'PIC12C509A-IP'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'PIC12C509A-ISN'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>DIP-8_W7.62mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/devicedoc/40139e.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> '8-Bit CMOS Microcontroller'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'PIC12C509A</td><td> 1024W EPROM</td><td> 41B SRAM</td><td> SO8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W7.62mm*'</td></tr></table>]|
 ||||

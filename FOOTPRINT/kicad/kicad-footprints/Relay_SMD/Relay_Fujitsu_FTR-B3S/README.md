@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Relay_SMD-Relay_Fujitsu_FTR-B3S|
 |Hex ID (short code)|hexID|FZKRELAYSMRELAYFUJITSUFTRB3S|
 |name|name|Relay_SMD : Relay_Fujitsu_FTR-B3S|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Relay_Fujitsu_FTR-B3S', 'description': 'https://www.fujitsu.com/downloads/MICRO/fcai/relays/ftr-b3.pdf', 'tags': 'Fujitsh FTR B3S B3SA Relay J JLeg', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Relay_SMD.3dshapes/Relay_Fujitsu_FTR-B3S.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Relay_Fujitsu_FTR-B3S'</td><td> 'description'</td></tr><tr><td> 'https</td></tr><tr><td>//www.fujitsu.com/downloads/MICRO/fcai/relays/ftr-b3.pdf'</td><td> 'tags'</td></tr><tr><td> 'Fujitsh FTR B3S B3SA Relay J JLeg'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Relay_SMD.3dshapes/Relay_Fujitsu_FTR-B3S.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

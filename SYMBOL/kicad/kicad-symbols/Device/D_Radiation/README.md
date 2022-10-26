@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDEVICEDRADIATION > D_Radiation
+# SZKDEVICEDRADIATION > Device : D_Radiation
 
 - ID: SYMBOL-kicad-kicad-symbols-Device-D_Radiation
 - Hex ID: SZKDEVICEDRADIATION
-- Name: D_Radiation
-- Description: D_Radiation
+- Name: Device : D_Radiation
+- Description: Device : D_Radiation
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Radiation](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Radiation)
 - Short Link: [http://oom.lt/SZKDEVICEDRADIATION](http://oom.lt/SZKDEVICEDRADIATION)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|D_Radiation|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-D_Radiation|
 |Hex ID (short code)|hexID|SZKDEVICEDRADIATION|
-|name|name|D_Radiation|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'D_Radiation', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'radiation detector diode', 'kicadSymbolki_description': 'Semiconductor radiation detector'}]|
+|name|name|Device : D_Radiation|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'D_Radiation'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'radiation detector diode'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Semiconductor radiation detector'</td></tr></table>]|
 ||||

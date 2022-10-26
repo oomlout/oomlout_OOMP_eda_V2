@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_RJ-RJ12_Amphenol_54601|
 |Hex ID (short code)|hexID|FZKCNRJRJ12AMPHENOL5461|
 |name|name|Connector_RJ : RJ12_Amphenol_54601|
-|Footprint Kicad|footprintKicadDetails|{'name': 'RJ12_Amphenol_54601', 'description': 'RJ12 connector  https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/c-bmj-0082.pdf', 'tags': 'RJ12 connector', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_RJ.3dshapes/RJ12_Amphenol_54601.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'RJ12_Amphenol_54601'</td><td> 'description'</td></tr><tr><td> 'RJ12 connector  https</td></tr><tr><td>//cdn.amphenol-icc.com/media/wysiwyg/files/drawing/c-bmj-0082.pdf'</td><td> 'tags'</td></tr><tr><td> 'RJ12 connector'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_RJ.3dshapes/RJ12_Amphenol_54601.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

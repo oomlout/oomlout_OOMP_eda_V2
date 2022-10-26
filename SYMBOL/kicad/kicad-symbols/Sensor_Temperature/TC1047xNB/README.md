@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKSENTEMPERATURETC147XNB > TC1047xNB
+# SZKSENTEMPERATURETC147XNB > Sensor_Temperature : TC1047xNB
 
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Temperature-TC1047xNB
 - Hex ID: SZKSENTEMPERATURETC147XNB
-- Name: TC1047xNB
-- Description: TC1047xNB
+- Name: Sensor_Temperature : TC1047xNB
+- Description: Sensor_Temperature : TC1047xNB
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-TC1047xNB](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-TC1047xNB)
 - Short Link: [http://oom.lt/SZKSENTEMPERATURETC147XNB](http://oom.lt/SZKSENTEMPERATURETC147XNB)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TC1047xNB|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Temperature-TC1047xNB|
 |Hex ID (short code)|hexID|SZKSENTEMPERATURETC147XNB|
-|name|name|TC1047xNB|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MCP9700T-HTT', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TC1047xNB', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/21498D.pdf', 'kicadSymbolki_keywords': 'temperature sensor analog', 'kicadSymbolki_description': 'Precision Temperature-to-Voltage Converter, 10mV/ºC, -40ºC to +125ºC, ±2.0ºC (max), 2.7V to 4.4V, SOT-23', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
+|name|name|Sensor_Temperature : TC1047xNB|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'MCP9700T-HTT'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TC1047xNB'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-23'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/21498D.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'temperature sensor analog'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Precision Temperature-to-Voltage Converter</td><td> 10mV/ºC</td><td> -40ºC to +125ºC</td><td> ±2.0ºC (max)</td><td> 2.7V to 4.4V</td><td> SOT-23'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23*'</td></tr></table>]|
 ||||

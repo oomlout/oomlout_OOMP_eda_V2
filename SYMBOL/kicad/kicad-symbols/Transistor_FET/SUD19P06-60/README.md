@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORFETSUD19P66 > SUD19P06-60
+# SZKTRANSISTORFETSUD19P66 > Transistor_FET : SUD19P06-60
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-SUD19P06-60
 - Hex ID: SZKTRANSISTORFETSUD19P66
-- Name: SUD19P06-60
-- Description: SUD19P06-60
+- Name: Transistor_FET : SUD19P06-60
+- Description: Transistor_FET : SUD19P06-60
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-SUD19P06-60](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-SUD19P06-60)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETSUD19P66](http://oom.lt/SZKTRANSISTORFETSUD19P66)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SUD19P06-60|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-SUD19P06-60|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETSUD19P66|
-|name|name|SUD19P06-60|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'SUD19P06-60', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TO-252-2', 'kicadSymbolDatasheet': 'https://www.vishay.com/docs/69253/sud19p06.pdf', 'kicadSymbolki_keywords': 'TrenchFET P-Channel Power MOSFET', 'kicadSymbolki_description': '19A Id, 60V Vds, TrenchFET P-Channel Power MOSFET, 60mOhm Ron, 40nC Qg, -55 to 150 °C, TO-252-2', 'kicadSymbolki_fp_filters': 'TO?252*'}]|
+|name|name|Transistor_FET : SUD19P06-60|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'SUD19P06-60'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>TO-252-2'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.vishay.com/docs/69253/sud19p06.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'TrenchFET P-Channel Power MOSFET'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '19A Id</td><td> 60V Vds</td><td> TrenchFET P-Channel Power MOSFET</td><td> 60mOhm Ron</td><td> 40nC Qg</td><td> -55 to 150 °C</td><td> TO-252-2'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TO?252*'</td></tr></table>]|
 ||||

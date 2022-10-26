@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKINTERFACEOPTICALTS335XX > TSOP335xx
+# SZKINTERFACEOPTICALTS335XX > Interface_Optical : TSOP335xx
 
 - ID: SYMBOL-kicad-kicad-symbols-Interface_Optical-TSOP335xx
 - Hex ID: SZKINTERFACEOPTICALTS335XX
-- Name: TSOP335xx
-- Description: TSOP335xx
+- Name: Interface_Optical : TSOP335xx
+- Description: Interface_Optical : TSOP335xx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Optical-TSOP335xx](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Optical-TSOP335xx)
 - Short Link: [http://oom.lt/SZKINTERFACEOPTICALTS335XX](http://oom.lt/SZKINTERFACEOPTICALTS335XX)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TSOP335xx|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_Optical-TSOP335xx|
 |Hex ID (short code)|hexID|SZKINTERFACEOPTICALTS335XX|
-|name|name|TSOP335xx|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TSOP331xx', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TSOP335xx', 'kicadSymbolFootprint': 'OptoDevice:Vishay_MINIMOLD-3Pin', 'kicadSymbolDatasheet': 'http://www.vishay.com/docs/82742/tsop331.pdf', 'kicadSymbolki_keywords': 'opto IR receiver', 'kicadSymbolki_description': 'IR Receiver Modules for Remote Control Systems', 'kicadSymbolki_fp_filters': 'Vishay*MINIMOLD*'}]|
+|name|name|Interface_Optical : TSOP335xx|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'TSOP331xx'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TSOP335xx'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'OptoDevice</td></tr><tr><td>Vishay_MINIMOLD-3Pin'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.vishay.com/docs/82742/tsop331.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'opto IR receiver'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'IR Receiver Modules for Remote Control Systems'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Vishay*MINIMOLD*'</td></tr></table>]|
 ||||

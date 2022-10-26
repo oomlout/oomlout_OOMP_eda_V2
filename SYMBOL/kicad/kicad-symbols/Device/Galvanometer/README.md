@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDEVICEGALVANOMETER > Galvanometer
+# SZKDEVICEGALVANOMETER > Device : Galvanometer
 
 - ID: SYMBOL-kicad-kicad-symbols-Device-Galvanometer
 - Hex ID: SZKDEVICEGALVANOMETER
-- Name: Galvanometer
-- Description: Galvanometer
+- Name: Device : Galvanometer
+- Description: Device : Galvanometer
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Galvanometer](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Galvanometer)
 - Short Link: [http://oom.lt/SZKDEVICEGALVANOMETER](http://oom.lt/SZKDEVICEGALVANOMETER)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Galvanometer|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-Galvanometer|
 |Hex ID (short code)|hexID|SZKDEVICEGALVANOMETER|
-|name|name|Galvanometer|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'MES', 'kicadSymbolValue': 'Galvanometer', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'galvanometer', 'kicadSymbolki_description': 'Galvanometer'}]|
+|name|name|Device : Galvanometer|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'MES'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Galvanometer'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'galvanometer'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Galvanometer'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDEVICEDSCHOTTKYDUALSERIESKCA > D_Schottky_Dual_Series_KCA
+# SZKDEVICEDSCHOTTKYDUALSERIESKCA > Device : D_Schottky_Dual_Series_KCA
 
 - ID: SYMBOL-kicad-kicad-symbols-Device-D_Schottky_Dual_Series_KCA
 - Hex ID: SZKDEVICEDSCHOTTKYDUALSERIESKCA
-- Name: D_Schottky_Dual_Series_KCA
-- Description: D_Schottky_Dual_Series_KCA
+- Name: Device : D_Schottky_Dual_Series_KCA
+- Description: Device : D_Schottky_Dual_Series_KCA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Schottky_Dual_Series_KCA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Schottky_Dual_Series_KCA)
 - Short Link: [http://oom.lt/SZKDEVICEDSCHOTTKYDUALSERIESKCA](http://oom.lt/SZKDEVICEDSCHOTTKYDUALSERIESKCA)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|D_Schottky_Dual_Series_KCA|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-D_Schottky_Dual_Series_KCA|
 |Hex ID (short code)|hexID|SZKDEVICEDSCHOTTKYDUALSERIESKCA|
-|name|name|D_Schottky_Dual_Series_KCA|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'D_Schottky_Dual_Series_KCA', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'diode', 'kicadSymbolki_description': 'Dual Schottky diode, cathode/center/anode'}]|
+|name|name|Device : D_Schottky_Dual_Series_KCA|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'D_Schottky_Dual_Series_KCA'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'diode'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Dual Schottky diode</td><td> cathode/center/anode'</td></tr></table>]|
 ||||

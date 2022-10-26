@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Alpha_RD902F-40-00D_Dual_Vertical_CircularHoles|
 |Hex ID (short code)|hexID|FZKPPOTENTIOMETERALPHARD92F4DDUALVERTICALCIRCULARH|
 |name|name|Potentiometer_THT : Potentiometer_Alpha_RD902F-40-00D_Dual_Vertical_CircularHoles|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Potentiometer_Alpha_RD902F-40-00D_Dual_Vertical_CircularHoles', 'description': 'Potentiometer, vertical, 9mm, dual, http://www.taiwanalpha.com.tw/downloads?target=products&id=113', 'tags': 'potentiometer vertical 9mm dual', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Potentiometer_THT.3dshapes/Potentiometer_Alpha_RD902F-40-00D_Dual_Vertical.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Potentiometer_Alpha_RD902F-40-00D_Dual_Vertical_CircularHoles'</td><td> 'description'</td></tr><tr><td> 'Potentiometer</td><td> vertical</td><td> 9mm</td><td> dual</td><td> http</td></tr><tr><td>//www.taiwanalpha.com.tw/downloads?target=products&id=113'</td><td> 'tags'</td></tr><tr><td> 'potentiometer vertical 9mm dual'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Potentiometer_THT.3dshapes/Potentiometer_Alpha_RD902F-40-00D_Dual_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

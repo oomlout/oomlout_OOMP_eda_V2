@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_FFC-FPC-JAE_FF0851SA1_2Rows-51Pins_P0.40mm_Horizontal|
 |Hex ID (short code)|hexID|FZKCNFFCFPCJAEFF851SA12ROWS51PINSP4HORIZONTAL|
 |name|name|Connector_FFC-FPC : JAE_FF0851SA1_2Rows-51Pins_P0.40mm_Horizontal|
-|Footprint Kicad|footprintKicadDetails|{'name': 'JAE_FF0851SA1_2Rows-51Pins_P0.40mm_Horizontal', 'description': 'Molex JAE 0.2mm pitch, 1mm overall height FFC/FPC connector, FF0851SA1, 51 Circuits (http://www.jae.com/z-en/pdf_download_exec.cfm?param=SJ108178.pdf), generated with kicad-footprint-generator', 'tags': 'connector JAE  top entry', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_FFC-FPC.3dshapes/JAE_FF0851SA1_2Rows-51Pins_P0.40mm_Horizontal.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'JAE_FF0851SA1_2Rows-51Pins_P0.40mm_Horizontal'</td><td> 'description'</td></tr><tr><td> 'Molex JAE 0.2mm pitch</td><td> 1mm overall height FFC/FPC connector</td><td> FF0851SA1</td><td> 51 Circuits (http</td></tr><tr><td>//www.jae.com/z-en/pdf_download_exec.cfm?param=SJ108178.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'connector JAE  top entry'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_FFC-FPC.3dshapes/JAE_FF0851SA1_2Rows-51Pins_P0.40mm_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

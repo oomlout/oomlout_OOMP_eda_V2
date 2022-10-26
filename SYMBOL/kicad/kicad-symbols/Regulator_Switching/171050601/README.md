@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORSWITCHING171561 > 171050601
+# SZKREGULATORSWITCHING171561 > Regulator_Switching : 171050601
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-171050601
 - Hex ID: SZKREGULATORSWITCHING171561
-- Name: 171050601
-- Description: 171050601
+- Name: Regulator_Switching : 171050601
+- Description: Regulator_Switching : 171050601
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-171050601](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-171050601)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHING171561](http://oom.lt/SZKREGULATORSWITCHING171561)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|171050601|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-171050601|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHING171561|
-|name|name|171050601|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '171050601', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TO-263-7_TabPin8', 'kicadSymbolDatasheet': 'https://katalog.we-online.de/pm/datasheet/171050601.pdf', 'kicadSymbolki_keywords': 'power module regulator', 'kicadSymbolki_description': 'MagI3C Power Module, Variable Step Down Regulator Module, 6 to 36V Input Voltage, 0.8 to 6V, 5A Output, TO-263', 'kicadSymbolki_fp_filters': 'TO*263*TabPin8*'}]|
+|name|name|Regulator_Switching : 171050601|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> '171050601'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>TO-263-7_TabPin8'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//katalog.we-online.de/pm/datasheet/171050601.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'power module regulator'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'MagI3C Power Module</td><td> Variable Step Down Regulator Module</td><td> 6 to 36V Input Voltage</td><td> 0.8 to 6V</td><td> 5A Output</td><td> TO-263'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TO*263*TabPin8*'</td></tr></table>]|
 ||||

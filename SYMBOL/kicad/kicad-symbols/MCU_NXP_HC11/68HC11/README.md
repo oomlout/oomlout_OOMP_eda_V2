@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUNXPHC1168HC11 > 68HC11
+# SZKMCUNXPHC1168HC11 > MCU_NXP_HC11 : 68HC11
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_NXP_HC11-68HC11
 - Hex ID: SZKMCUNXPHC1168HC11
-- Name: 68HC11
-- Description: 68HC11
+- Name: MCU_NXP_HC11 : 68HC11
+- Description: MCU_NXP_HC11 : 68HC11
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_HC11-68HC11](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_HC11-68HC11)
 - Short Link: [http://oom.lt/SZKMCUNXPHC1168HC11](http://oom.lt/SZKMCUNXPHC1168HC11)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|68HC11|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_NXP_HC11-68HC11|
 |Hex ID (short code)|hexID|SZKMCUNXPHC1168HC11|
-|name|name|68HC11|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '68HC11', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_keywords': 'MCU Microcontroller HC11', 'kicadSymbolki_description': 'HC11 Microcontroller'}]|
+|name|name|MCU_NXP_HC11 : 68HC11|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> '68HC11'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'MCU Microcontroller HC11'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'HC11 Microcontroller'</td></tr></table>]|
 ||||

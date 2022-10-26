@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_QFP-TQFP-64_7x7mm_P0.4mm|
 |Hex ID (short code)|hexID|FZKQFPTQFP647X7P4|
 |name|name|Package_QFP : TQFP-64_7x7mm_P0.4mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'TQFP-64_7x7mm_P0.4mm', 'description': 'TQFP64 7x7, 0.4P CASE 932BH (see ON Semiconductor 932BH.PDF)', 'tags': 'QFP 0.4', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_QFP.3dshapes/TQFP-64_7x7mm_P0.4mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'TQFP-64_7x7mm_P0.4mm'</td><td> 'description'</td></tr><tr><td> 'TQFP64 7x7</td><td> 0.4P CASE 932BH (see ON Semiconductor 932BH.PDF)'</td><td> 'tags'</td></tr><tr><td> 'QFP 0.4'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_QFP.3dshapes/TQFP-64_7x7mm_P0.4mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Fuse-Fuseholder_Littelfuse_100_series_5x30mm|
 |Hex ID (short code)|hexID|FZKFUFUHOLDERLITTELFU1SERIES5X3|
 |name|name|Fuse : Fuseholder_Littelfuse_100_series_5x30mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Fuseholder_Littelfuse_100_series_5x30mm', 'description': 'Littelfuse clips, https://www.littelfuse.com/~/media/electronics/datasheets/fuse_clips/littelfuse_fuse_clip_100_445_030_520_datasheet.pdf.pdf', 'tags': 'Fuseholder clips', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Fuse.3dshapes/Fuseholder_Littelfuse_100_series_5x30mm.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Fuseholder_Littelfuse_100_series_5x30mm'</td><td> 'description'</td></tr><tr><td> 'Littelfuse clips</td><td> https</td></tr><tr><td>//www.littelfuse.com/~/media/electronics/datasheets/fuse_clips/littelfuse_fuse_clip_100_445_030_520_datasheet.pdf.pdf'</td><td> 'tags'</td></tr><tr><td> 'Fuseholder clips'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Fuse.3dshapes/Fuseholder_Littelfuse_100_series_5x30mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

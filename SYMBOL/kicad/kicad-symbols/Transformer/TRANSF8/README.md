@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRTRANSF8 > TRANSF8
+# SZKTRTRANSF8 > Transformer : TRANSF8
 
 - ID: SYMBOL-kicad-kicad-symbols-Transformer-TRANSF8
 - Hex ID: SZKTRTRANSF8
-- Name: TRANSF8
-- Description: TRANSF8
+- Name: Transformer : TRANSF8
+- Description: Transformer : TRANSF8
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-TRANSF8](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-TRANSF8)
 - Short Link: [http://oom.lt/SZKTRTRANSF8](http://oom.lt/SZKTRTRANSF8)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TRANSF8|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transformer-TRANSF8|
 |Hex ID (short code)|hexID|SZKTRTRANSF8|
-|name|name|TRANSF8|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'TR', 'kicadSymbolValue': 'TRANSF8', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ''}]|
+|name|name|Transformer : TRANSF8|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'TR'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TRANSF8'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> ''</td></tr></table>]|
 ||||

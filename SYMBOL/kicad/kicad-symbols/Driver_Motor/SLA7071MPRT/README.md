@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDRIVERMOTORSLA771MPRT > SLA7071MPRT
+# SZKDRIVERMOTORSLA771MPRT > Driver_Motor : SLA7071MPRT
 
 - ID: SYMBOL-kicad-kicad-symbols-Driver_Motor-SLA7071MPRT
 - Hex ID: SZKDRIVERMOTORSLA771MPRT
-- Name: SLA7071MPRT
-- Description: SLA7071MPRT
+- Name: Driver_Motor : SLA7071MPRT
+- Description: Driver_Motor : SLA7071MPRT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Motor-SLA7071MPRT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Motor-SLA7071MPRT)
 - Short Link: [http://oom.lt/SZKDRIVERMOTORSLA771MPRT](http://oom.lt/SZKDRIVERMOTORSLA771MPRT)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SLA7071MPRT|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Driver_Motor-SLA7071MPRT|
 |Hex ID (short code)|hexID|SZKDRIVERMOTORSLA771MPRT|
-|name|name|SLA7071MPRT|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'SLA7070MPRT', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'SLA7071MPRT', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.semicon.sanken-ele.co.jp/sk_content/sla7071mprt_ds_en.pdf', 'kicadSymbolki_keywords': 'Stepper driver', 'kicadSymbolki_description': 'Unipolar 2-phase stepper motor driver, Full and Half step, 1.5A', 'kicadSymbolki_fp_filters': 'ZIP23'}]|
+|name|name|Driver_Motor : SLA7071MPRT|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'SLA7070MPRT'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'SLA7071MPRT'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.semicon.sanken-ele.co.jp/sk_content/sla7071mprt_ds_en.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Stepper driver'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Unipolar 2-phase stepper motor driver</td><td> Full and Half step</td><td> 1.5A'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'ZIP23'</td></tr></table>]|
 ||||

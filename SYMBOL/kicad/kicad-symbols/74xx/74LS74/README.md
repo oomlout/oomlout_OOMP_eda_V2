@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZK74XX74LS74 > 74LS74
+# SZK74XX74LS74 > 74xx : 74LS74
 
 - ID: SYMBOL-kicad-kicad-symbols-74xx-74LS74
 - Hex ID: SZK74XX74LS74
-- Name: 74LS74
-- Description: 74LS74
+- Name: 74xx : 74LS74
+- Description: 74xx : 74LS74
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx-74LS74](http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx-74LS74)
 - Short Link: [http://oom.lt/SZK74XX74LS74](http://oom.lt/SZK74XX74LS74)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74LS74|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xx-74LS74|
 |Hex ID (short code)|hexID|SZK74XX74LS74|
-|name|name|74LS74|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74LS74', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '74xx/74hc_hct74.pdf', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'TTL DFF', 'kicadSymbolki_description': 'Dual D Flip-flop, Set & Reset', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
+|name|name|74xx : 74LS74|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> '74LS74'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '74xx/74hc_hct74.pdf'</td><td> 'kicadSymbolki_locked'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'TTL DFF'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Dual D Flip-flop</td><td> Set & Reset'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W7.62mm*'</td></tr></table>]|
 ||||

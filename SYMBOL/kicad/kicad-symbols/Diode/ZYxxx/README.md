@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDIODEZYXXX > ZYxxx
+# SZKDIODEZYXXX > Diode : ZYxxx
 
 - ID: SYMBOL-kicad-kicad-symbols-Diode-ZYxxx
 - Hex ID: SZKDIODEZYXXX
-- Name: ZYxxx
-- Description: ZYxxx
+- Name: Diode : ZYxxx
+- Description: Diode : ZYxxx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-ZYxxx](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-ZYxxx)
 - Short Link: [http://oom.lt/SZKDIODEZYXXX](http://oom.lt/SZKDIODEZYXXX)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ZYxxx|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-ZYxxx|
 |Hex ID (short code)|hexID|SZKDIODEZYXXX|
-|name|name|ZYxxx|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ZPYxx', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'ZYxxx', 'kicadSymbolFootprint': 'Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal', 'kicadSymbolDatasheet': 'https://diotec.com/tl_files/diotec/files/pdf/datasheets/zy1', 'kicadSymbolki_keywords': 'zener diode', 'kicadSymbolki_description': '2000mW Zener Diode, DO-41', 'kicadSymbolki_fp_filters': 'D*DO?41*'}]|
+|name|name|Diode : ZYxxx|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'ZPYxx'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ZYxxx'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Diode_THT</td></tr><tr><td>D_DO-41_SOD81_P10.16mm_Horizontal'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//diotec.com/tl_files/diotec/files/pdf/datasheets/zy1'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'zener diode'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '2000mW Zener Diode</td><td> DO-41'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'D*DO?41*'</td></tr></table>]|
 ||||

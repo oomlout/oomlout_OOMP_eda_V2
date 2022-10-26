@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_LiteOn_LTST-C19HE1WT|
 |Hex ID (short code)|hexID|FZKLSMLLITEONLTSTC19HE1WT|
 |name|name|LED_SMD : LED_LiteOn_LTST-C19HE1WT|
-|Footprint Kicad|footprintKicadDetails|{'name': 'LED_LiteOn_LTST-C19HE1WT', 'description': 'LiteOn RGB LED; https://optoelectronics.liteon.com/upload/download/DS22-2008-0044/LTST-C19HE1WT.pdf', 'tags': 'LED RGB Chip SMD', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED_LiteOn_LTST-C19HE1WT.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'LED_LiteOn_LTST-C19HE1WT'</td><td> 'description'</td></tr><tr><td> 'LiteOn RGB LED; https</td></tr><tr><td>//optoelectronics.liteon.com/upload/download/DS22-2008-0044/LTST-C19HE1WT.pdf'</td><td> 'tags'</td></tr><tr><td> 'LED RGB Chip SMD'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/LED_SMD.3dshapes/LED_LiteOn_LTST-C19HE1WT.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

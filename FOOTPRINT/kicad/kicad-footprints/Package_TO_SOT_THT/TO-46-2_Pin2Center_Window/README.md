@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-46-2_Pin2Center_Window|
 |Hex ID (short code)|hexID|FZKSOTTO462PIN2CENTERWINDOW|
 |name|name|Package_TO_SOT_THT : TO-46-2_Pin2Center_Window|
-|Footprint Kicad|footprintKicadDetails|{'name': 'TO-46-2_Pin2Center_Window', 'description': 'TO-46-2, Pin2 at center of package, Thorlabs photodiodes', 'tags': 'TO-46-2 Thorlabs', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/TO-46-2_Pin2Center_Window.wrl', 'pins': {'type': 'thru_hole', 'shape': 'oval'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'TO-46-2_Pin2Center_Window'</td><td> 'description'</td></tr><tr><td> 'TO-46-2</td><td> Pin2 at center of package</td><td> Thorlabs photodiodes'</td><td> 'tags'</td></tr><tr><td> 'TO-46-2 Thorlabs'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_TO_SOT_THT.3dshapes/TO-46-2_Pin2Center_Window.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'oval'</td></tr></table></td></tr></table>|
 ||||
 
 

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDIODESD12SOD323 > SD12_SOD323
+# SZKDIODESD12SOD323 > Diode : SD12_SOD323
 
 - ID: SYMBOL-kicad-kicad-symbols-Diode-SD12_SOD323
 - Hex ID: SZKDIODESD12SOD323
-- Name: SD12_SOD323
-- Description: SD12_SOD323
+- Name: Diode : SD12_SOD323
+- Description: Diode : SD12_SOD323
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-SD12_SOD323](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-SD12_SOD323)
 - Short Link: [http://oom.lt/SZKDIODESD12SOD323](http://oom.lt/SZKDIODESD12SOD323)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SD12_SOD323|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-SD12_SOD323|
 |Hex ID (short code)|hexID|SZKDIODESD12SOD323|
-|name|name|SD12_SOD323|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'SD05_SOD323', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'SD12_SOD323', 'kicadSymbolFootprint': 'Diode_SMD:D_SOD-323', 'kicadSymbolDatasheet': 'https://www.littelfuse.com/~/media/electronics/datasheets/tvs_diode_arrays/littelfuse_tvs_diode_array_sd_c_datasheet.pdf.pdf', 'kicadSymbolki_keywords': 'transient voltage suppressor thyrector transil', 'kicadSymbolki_description': '12V, 450W Discrete Bidirectional TVS Diode, SOD-323', 'kicadSymbolki_fp_filters': 'D?SOD?323*'}]|
+|name|name|Diode : SD12_SOD323|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'SD05_SOD323'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'SD12_SOD323'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Diode_SMD</td></tr><tr><td>D_SOD-323'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.littelfuse.com/~/media/electronics/datasheets/tvs_diode_arrays/littelfuse_tvs_diode_array_sd_c_datasheet.pdf.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'transient voltage suppressor thyrector transil'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '12V</td><td> 450W Discrete Bidirectional TVS Diode</td><td> SOD-323'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'D?SOD?323*'</td></tr></table>]|
 ||||

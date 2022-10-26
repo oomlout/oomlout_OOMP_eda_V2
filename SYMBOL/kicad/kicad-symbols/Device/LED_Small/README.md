@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDEVICELSLL > LED_Small
+# SZKDEVICELSLL > Device : LED_Small
 
 - ID: SYMBOL-kicad-kicad-symbols-Device-LED_Small
 - Hex ID: SZKDEVICELSLL
-- Name: LED_Small
-- Description: LED_Small
+- Name: Device : LED_Small
+- Description: Device : LED_Small
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-LED_Small](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-LED_Small)
 - Short Link: [http://oom.lt/SZKDEVICELSLL](http://oom.lt/SZKDEVICELSLL)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LED_Small|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-LED_Small|
 |Hex ID (short code)|hexID|SZKDEVICELSLL|
-|name|name|LED_Small|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'LED_Small', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'LED diode light-emitting-diode', 'kicadSymbolki_description': 'Light emitting diode, small symbol', 'kicadSymbolki_fp_filters': 'LED* LED_SMD:* LED_THT:*'}]|
+|name|name|Device : LED_Small|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LED_Small'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'LED diode light-emitting-diode'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Light emitting diode</td><td> small symbol'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'LED* LED_SMD</td></tr><tr><td>* LED_THT</td></tr><tr><td>*'</td></tr></table>]|
 ||||

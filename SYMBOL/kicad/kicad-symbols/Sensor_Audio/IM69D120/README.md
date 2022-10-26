@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKSENAUDIOIM69D12 > IM69D120
+# SZKSENAUDIOIM69D12 > Sensor_Audio : IM69D120
 
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Audio-IM69D120
 - Hex ID: SZKSENAUDIOIM69D12
-- Name: IM69D120
-- Description: IM69D120
+- Name: Sensor_Audio : IM69D120
+- Description: Sensor_Audio : IM69D120
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Audio-IM69D120](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Audio-IM69D120)
 - Short Link: [http://oom.lt/SZKSENAUDIOIM69D12](http://oom.lt/SZKSENAUDIOIM69D12)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IM69D120|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Audio-IM69D120|
 |Hex ID (short code)|hexID|SZKSENAUDIOIM69D12|
-|name|name|IM69D120|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'MK', 'kicadSymbolValue': 'IM69D120', 'kicadSymbolFootprint': 'Sensor_Audio:Infineon_PG-LLGA-5-1', 'kicadSymbolDatasheet': 'https://www.infineon.com/dgdl/Infineon-IM69D120-DS-v01_00-EN.pdf?fileId=5546d462602a9dc801607a0e41a01a2b', 'kicadSymbolki_keywords': 'mems microphone', 'kicadSymbolki_description': 'High performance digital XENSIV MEMS microphone, -26 dBFS Sensitivity, LLGA-5', 'kicadSymbolki_fp_filters': 'Infineon*PG*LLGA*'}]|
+|name|name|Sensor_Audio : IM69D120|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'MK'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'IM69D120'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Sensor_Audio</td></tr><tr><td>Infineon_PG-LLGA-5-1'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.infineon.com/dgdl/Infineon-IM69D120-DS-v01_00-EN.pdf?fileId=5546d462602a9dc801607a0e41a01a2b'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'mems microphone'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'High performance digital XENSIV MEMS microphone</td><td> -26 dBFS Sensitivity</td><td> LLGA-5'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Infineon*PG*LLGA*'</td></tr></table>]|
 ||||

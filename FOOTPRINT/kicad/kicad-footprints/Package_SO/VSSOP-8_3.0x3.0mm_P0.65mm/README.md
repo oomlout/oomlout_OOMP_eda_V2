@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SO-VSSOP-8_3.0x3.0mm_P0.65mm|
 |Hex ID (short code)|hexID|FZKSOVSS83X3P65|
 |name|name|Package_SO : VSSOP-8_3.0x3.0mm_P0.65mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'VSSOP-8_3.0x3.0mm_P0.65mm', 'description': 'VSSOP-8 3.0 x 3.0, http://www.ti.com/lit/ds/symlink/lm75b.pdf', 'tags': 'VSSOP-8 3.0 x 3.0', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/VSSOP-8_3.0x3.0mm_P0.65mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'VSSOP-8_3.0x3.0mm_P0.65mm'</td><td> 'description'</td></tr><tr><td> 'VSSOP-8 3.0 x 3.0</td><td> http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/lm75b.pdf'</td><td> 'tags'</td></tr><tr><td> 'VSSOP-8 3.0 x 3.0'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_SO.3dshapes/VSSOP-8_3.0x3.0mm_P0.65mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

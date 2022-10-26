@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDEVICERPOTENTIOMETERUS > R_Potentiometer_US
+# SZKDEVICERPOTENTIOMETERUS > Device : R_Potentiometer_US
 
 - ID: SYMBOL-kicad-kicad-symbols-Device-R_Potentiometer_US
 - Hex ID: SZKDEVICERPOTENTIOMETERUS
-- Name: R_Potentiometer_US
-- Description: R_Potentiometer_US
+- Name: Device : R_Potentiometer_US
+- Description: Device : R_Potentiometer_US
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-R_Potentiometer_US](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-R_Potentiometer_US)
 - Short Link: [http://oom.lt/SZKDEVICERPOTENTIOMETERUS](http://oom.lt/SZKDEVICERPOTENTIOMETERUS)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|R_Potentiometer_US|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-R_Potentiometer_US|
 |Hex ID (short code)|hexID|SZKDEVICERPOTENTIOMETERUS|
-|name|name|R_Potentiometer_US|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'RV', 'kicadSymbolValue': 'R_Potentiometer_US', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'resistor variable', 'kicadSymbolki_description': 'Potentiometer, US symbol', 'kicadSymbolki_fp_filters': 'Potentiometer*'}]|
+|name|name|Device : R_Potentiometer_US|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'RV'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'R_Potentiometer_US'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'resistor variable'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Potentiometer</td><td> US symbol'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Potentiometer*'</td></tr></table>]|
 ||||

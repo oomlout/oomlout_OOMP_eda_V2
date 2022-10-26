@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKPOWERMANAGEMENTLT16411 > LT1641-1
+# SZKPOWERMANAGEMENTLT16411 > Power_Management : LT1641-1
 
 - ID: SYMBOL-kicad-kicad-symbols-Power_Management-LT1641-1
 - Hex ID: SZKPOWERMANAGEMENTLT16411
-- Name: LT1641-1
-- Description: LT1641-1
+- Name: Power_Management : LT1641-1
+- Description: Power_Management : LT1641-1
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-LT1641-1](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-LT1641-1)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTLT16411](http://oom.lt/SZKPOWERMANAGEMENTLT16411)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LT1641-1|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Management-LT1641-1|
 |Hex ID (short code)|hexID|SZKPOWERMANAGEMENTLT16411|
-|name|name|LT1641-1|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LT1641-1', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/164112fc.pdf', 'kicadSymbolki_keywords': 'high-voltage hot-swap', 'kicadSymbolki_description': 'High voltage hot swap controller, +9V to +80V operation, with latching feature', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm*'}]|
+|name|name|Power_Management : LT1641-1|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LT1641-1'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-8_3.9x4.9mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/164112fc.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'high-voltage hot-swap'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'High voltage hot swap controller</td><td> +9V to +80V operation</td><td> with latching feature'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*3.9x4.9mm*P1.27mm*'</td></tr></table>]|
 ||||

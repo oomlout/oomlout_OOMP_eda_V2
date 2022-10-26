@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKAMPLIFIERDIFFERENCELM733H > LM733H
+# SZKAMPLIFIERDIFFERENCELM733H > Amplifier_Difference : LM733H
 
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Difference-LM733H
 - Hex ID: SZKAMPLIFIERDIFFERENCELM733H
-- Name: LM733H
-- Description: LM733H
+- Name: Amplifier_Difference : LM733H
+- Description: Amplifier_Difference : LM733H
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Difference-LM733H](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Difference-LM733H)
 - Short Link: [http://oom.lt/SZKAMPLIFIERDIFFERENCELM733H](http://oom.lt/SZKAMPLIFIERDIFFERENCELM733H)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM733H|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Difference-LM733H|
 |Hex ID (short code)|hexID|SZKAMPLIFIERDIFFERENCELM733H|
-|name|name|LM733H|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LM733CH', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM733H', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-5-10', 'kicadSymbolDatasheet': 'http://www.soemtron.org/downloads/disposals/lm733cn.pdf', 'kicadSymbolki_keywords': 'single differential video opamp', 'kicadSymbolki_description': 'Single Differential Amplifier, TO-5-10', 'kicadSymbolki_fp_filters': 'TO?5*'}]|
+|name|name|Amplifier_Difference : LM733H|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'LM733CH'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LM733H'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_THT</td></tr><tr><td>TO-5-10'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.soemtron.org/downloads/disposals/lm733cn.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'single differential video opamp'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Single Differential Amplifier</td><td> TO-5-10'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TO?5*'</td></tr></table>]|
 ||||

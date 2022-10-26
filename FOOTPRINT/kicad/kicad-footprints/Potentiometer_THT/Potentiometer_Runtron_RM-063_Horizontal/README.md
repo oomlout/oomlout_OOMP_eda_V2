@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Runtron_RM-063_Horizontal|
 |Hex ID (short code)|hexID|FZKPPOTENTIOMETERRUNTRONRM63HORIZONTAL|
 |name|name|Potentiometer_THT : Potentiometer_Runtron_RM-063_Horizontal|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Potentiometer_Runtron_RM-063_Horizontal', 'description': 'Potentiometer, horizontal, Trimmer, RM-063 http://www.runtron.com/down/PDF%20Datasheet/Carbon%20Film%20Potentiometer/RM065%20RM063.pdf', 'tags': 'Potentiometer Trimmer RM-063', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Potentiometer_THT.3dshapes/Potentiometer_Runtron_RM-063_Horizontal.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Potentiometer_Runtron_RM-063_Horizontal'</td><td> 'description'</td></tr><tr><td> 'Potentiometer</td><td> horizontal</td><td> Trimmer</td><td> RM-063 http</td></tr><tr><td>//www.runtron.com/down/PDF%20Datasheet/Carbon%20Film%20Potentiometer/RM065%20RM063.pdf'</td><td> 'tags'</td></tr><tr><td> 'Potentiometer Trimmer RM-063'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Potentiometer_THT.3dshapes/Potentiometer_Runtron_RM-063_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

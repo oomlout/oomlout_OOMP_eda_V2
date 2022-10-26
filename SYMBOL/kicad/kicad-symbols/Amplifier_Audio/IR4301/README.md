@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKAMPLIFIERAUDIOIR431 > IR4301
+# SZKAMPLIFIERAUDIOIR431 > Amplifier_Audio : IR4301
 
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Audio-IR4301
 - Hex ID: SZKAMPLIFIERAUDIOIR431
-- Name: IR4301
-- Description: IR4301
+- Name: Amplifier_Audio : IR4301
+- Description: Amplifier_Audio : IR4301
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-IR4301](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-IR4301)
 - Short Link: [http://oom.lt/SZKAMPLIFIERAUDIOIR431](http://oom.lt/SZKAMPLIFIERAUDIOIR431)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IR4301|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Audio-IR4301|
 |Hex ID (short code)|hexID|SZKAMPLIFIERAUDIOIR431|
-|name|name|IR4301|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'IR4301', 'kicadSymbolFootprint': 'Package_DFN_QFN:Infineon_PQFN-22-15-4EP_6x5mm_P0.65mm', 'kicadSymbolDatasheet': 'https://www.infineon.com/dgdl/ir4301.pdf?fileId=5546d462533600a4015355d5fc691819', 'kicadSymbolki_keywords': 'integrated class d amplifier', 'kicadSymbolki_description': 'PowIRaudio Integrated Analog Input Class D Audio Amplifier, 160W/4ohm, 80V, PQFN-22', 'kicadSymbolki_fp_filters': 'Infineon*PQFN*4EP*6x5mm*P0.65mm*'}]|
+|name|name|Amplifier_Audio : IR4301|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'IR4301'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>Infineon_PQFN-22-15-4EP_6x5mm_P0.65mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.infineon.com/dgdl/ir4301.pdf?fileId=5546d462533600a4015355d5fc691819'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'integrated class d amplifier'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'PowIRaudio Integrated Analog Input Class D Audio Amplifier</td><td> 160W/4ohm</td><td> 80V</td><td> PQFN-22'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Infineon*PQFN*4EP*6x5mm*P0.65mm*'</td></tr></table>]|
 ||||

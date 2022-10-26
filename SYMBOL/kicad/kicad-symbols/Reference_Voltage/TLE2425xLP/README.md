@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREFERENCEVOLTAGETLE2425XLP > TLE2425xLP
+# SZKREFERENCEVOLTAGETLE2425XLP > Reference_Voltage : TLE2425xLP
 
 - ID: SYMBOL-kicad-kicad-symbols-Reference_Voltage-TLE2425xLP
 - Hex ID: SZKREFERENCEVOLTAGETLE2425XLP
-- Name: TLE2425xLP
-- Description: TLE2425xLP
+- Name: Reference_Voltage : TLE2425xLP
+- Description: Reference_Voltage : TLE2425xLP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-TLE2425xLP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-TLE2425xLP)
 - Short Link: [http://oom.lt/SZKREFERENCEVOLTAGETLE2425XLP](http://oom.lt/SZKREFERENCEVOLTAGETLE2425XLP)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TLE2425xLP|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Reference_Voltage-TLE2425xLP|
 |Hex ID (short code)|hexID|SZKREFERENCEVOLTAGETLE2425XLP|
-|name|name|TLE2425xLP|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TLE2426xLP', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TLE2425xLP', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tle2425.pdf', 'kicadSymbolki_keywords': 'Rail splitter precision virtual ground 2.5V', 'kicadSymbolki_description': 'Precision virtual ground, 2.5V output, TO-92', 'kicadSymbolki_fp_filters': 'TO?92*'}]|
+|name|name|Reference_Voltage : TLE2425xLP|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'TLE2426xLP'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TLE2425xLP'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/tle2425.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Rail splitter precision virtual ground 2.5V'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Precision virtual ground</td><td> 2.5V output</td><td> TO-92'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TO?92*'</td></tr></table>]|
 ||||

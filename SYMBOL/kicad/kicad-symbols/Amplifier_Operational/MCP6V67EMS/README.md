@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKAMPLIFIEROPERATIONALMCP6V67EMS > MCP6V67EMS
+# SZKAMPLIFIEROPERATIONALMCP6V67EMS > Amplifier_Operational : MCP6V67EMS
 
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-MCP6V67EMS
 - Hex ID: SZKAMPLIFIEROPERATIONALMCP6V67EMS
-- Name: MCP6V67EMS
-- Description: MCP6V67EMS
+- Name: Amplifier_Operational : MCP6V67EMS
+- Description: Amplifier_Operational : MCP6V67EMS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-MCP6V67EMS](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-MCP6V67EMS)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALMCP6V67EMS](http://oom.lt/SZKAMPLIFIEROPERATIONALMCP6V67EMS)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MCP6V67EMS|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Operational-MCP6V67EMS|
 |Hex ID (short code)|hexID|SZKAMPLIFIEROPERATIONALMCP6V67EMS|
-|name|name|MCP6V67EMS|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LM2904', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MCP6V67EMS', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/MCP6V66-Family-Data-Sheet-DS20006266A.pdf', 'kicadSymbolki_keywords': 'dual opamp zero drift', 'kicadSymbolki_description': 'Dual Operational Amplifiers, Zero-Drift, 80 kHz Bandwidth, 1.8V to 5.5V, Rail-to-Rail, MSOP-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm* DIP*W7.62mm* TO*99* OnSemi*Micro8* TSSOP*3x3mm*P0.65mm* TSSOP*4.4x3mm*P0.65mm* MSOP*3x3mm*P0.65mm* SSOP*3.9x4.9mm*P0.635mm* LFCSP*2x2mm*P0.5mm* *SIP* SOIC*5.3x6.2mm*P1.27mm*'}]|
+|name|name|Amplifier_Operational : MCP6V67EMS|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'LM2904'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MCP6V67EMS'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/MCP6V66-Family-Data-Sheet-DS20006266A.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'dual opamp zero drift'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Dual Operational Amplifiers</td><td> Zero-Drift</td><td> 80 kHz Bandwidth</td><td> 1.8V to 5.5V</td><td> Rail-to-Rail</td><td> MSOP-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*3.9x4.9mm*P1.27mm* DIP*W7.62mm* TO*99* OnSemi*Micro8* TSSOP*3x3mm*P0.65mm* TSSOP*4.4x3mm*P0.65mm* MSOP*3x3mm*P0.65mm* SSOP*3.9x4.9mm*P0.635mm* LFCSP*2x2mm*P0.5mm* *SIP* SOIC*5.3x6.2mm*P1.27mm*'</td></tr></table>]|
 ||||

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_BGA-Texas_DSBGA-6_0.9x1.4mm_Layout2x3_P0.5mm|
 |Hex ID (short code)|hexID|FZKBGATEXASDSBGA69X14LAYOUT2X3P5|
 |name|name|Package_BGA : Texas_DSBGA-6_0.9x1.4mm_Layout2x3_P0.5mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Texas_DSBGA-6_0.9x1.4mm_Layout2x3_P0.5mm', 'description': 'Texas Instruments, DSBGA, 0.9x1.4mm, 6 bump 2x3 (perimeter) array, NSMD pad definition (http://www.ti.com/lit/ds/symlink/ts5a3159a.pdf)', 'tags': 'Texas Instruments DSBGA BGA YZP R-XBGA-N6', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/Texas_DSBGA-6_0.9x1.4mm_Layout2x3_P0.5mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Texas_DSBGA-6_0.9x1.4mm_Layout2x3_P0.5mm'</td><td> 'description'</td></tr><tr><td> 'Texas Instruments</td><td> DSBGA</td><td> 0.9x1.4mm</td><td> 6 bump 2x3 (perimeter) array</td><td> NSMD pad definition (http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/ts5a3159a.pdf)'</td><td> 'tags'</td></tr><tr><td> 'Texas Instruments DSBGA BGA YZP R-XBGA-N6'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_BGA.3dshapes/Texas_DSBGA-6_0.9x1.4mm_Layout2x3_P0.5mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

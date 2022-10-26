@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUMCHIPPIC12PIC12CE519IP > PIC12CE519-IP
+# SZKMCUMCHIPPIC12PIC12CE519IP > MCU_Microchip_PIC12 : PIC12CE519-IP
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC12-PIC12CE519-IP
 - Hex ID: SZKMCUMCHIPPIC12PIC12CE519IP
-- Name: PIC12CE519-IP
-- Description: PIC12CE519-IP
+- Name: MCU_Microchip_PIC12 : PIC12CE519-IP
+- Description: MCU_Microchip_PIC12 : PIC12CE519-IP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC12-PIC12CE519-IP](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC12-PIC12CE519-IP)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC12PIC12CE519IP](http://oom.lt/SZKMCUMCHIPPIC12PIC12CE519IP)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PIC12CE519-IP|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC12-PIC12CE519-IP|
 |Hex ID (short code)|hexID|SZKMCUMCHIPPIC12PIC12CE519IP|
-|name|name|PIC12CE519-IP|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PIC12CE519-IP', 'kicadSymbolFootprint': 'Package_DIP:DIP-8_W7.62mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/devicedoc/40139e.pdf', 'kicadSymbolki_keywords': '8-Bit CMOS Microcontroller', 'kicadSymbolki_description': '1024W EPROM, 41B SRAM, PDIP8', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
+|name|name|MCU_Microchip_PIC12 : PIC12CE519-IP|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'PIC12CE519-IP'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>DIP-8_W7.62mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/devicedoc/40139e.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> '8-Bit CMOS Microcontroller'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '1024W EPROM</td><td> 41B SRAM</td><td> PDIP8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W7.62mm*'</td></tr></table>]|
 ||||

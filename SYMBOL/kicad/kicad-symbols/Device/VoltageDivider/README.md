@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDEVICEVOLTAGEDIVIDER > VoltageDivider
+# SZKDEVICEVOLTAGEDIVIDER > Device : VoltageDivider
 
 - ID: SYMBOL-kicad-kicad-symbols-Device-VoltageDivider
 - Hex ID: SZKDEVICEVOLTAGEDIVIDER
-- Name: VoltageDivider
-- Description: VoltageDivider
+- Name: Device : VoltageDivider
+- Description: Device : VoltageDivider
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-VoltageDivider](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-VoltageDivider)
 - Short Link: [http://oom.lt/SZKDEVICEVOLTAGEDIVIDER](http://oom.lt/SZKDEVICEVOLTAGEDIVIDER)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|VoltageDivider|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-VoltageDivider|
 |Hex ID (short code)|hexID|SZKDEVICEVOLTAGEDIVIDER|
-|name|name|VoltageDivider|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'RN', 'kicadSymbolValue': 'VoltageDivider', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'R network voltage divider', 'kicadSymbolki_description': 'Voltage divider', 'kicadSymbolki_fp_filters': 'R?Array?SIP* SOT?23'}]|
+|name|name|Device : VoltageDivider|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'RN'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'VoltageDivider'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'R network voltage divider'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Voltage divider'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'R?Array?SIP* SOT?23'</td></tr></table>]|
 ||||

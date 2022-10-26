@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKRELAYSOLIDSTATEMOC333M > MOC3033M
+# SZKRELAYSOLIDSTATEMOC333M > Relay_SolidState : MOC3033M
 
 - ID: SYMBOL-kicad-kicad-symbols-Relay_SolidState-MOC3033M
 - Hex ID: SZKRELAYSOLIDSTATEMOC333M
-- Name: MOC3033M
-- Description: MOC3033M
+- Name: Relay_SolidState : MOC3033M
+- Description: Relay_SolidState : MOC3033M
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay_SolidState-MOC3033M](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay_SolidState-MOC3033M)
 - Short Link: [http://oom.lt/SZKRELAYSOLIDSTATEMOC333M](http://oom.lt/SZKRELAYSOLIDSTATEMOC333M)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MOC3033M|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Relay_SolidState-MOC3033M|
 |Hex ID (short code)|hexID|SZKRELAYSOLIDSTATEMOC333M|
-|name|name|MOC3033M|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MOC3031M', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MOC3033M', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pub/Collateral/MOC3043M-D.pdf', 'kicadSymbolki_keywords': 'Opto-Triac Opto Triac Zero Cross', 'kicadSymbolki_description': 'Zero Cross Opto-Triac, Vdrm 250V, Ift 5mA, DIP6', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm* SMDIP*W9.53mm* DIP*W10.16mm*'}]|
+|name|name|Relay_SolidState : MOC3033M|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'MOC3031M'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MOC3033M'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.onsemi.com/pub/Collateral/MOC3043M-D.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Opto-Triac Opto Triac Zero Cross'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Zero Cross Opto-Triac</td><td> Vdrm 250V</td><td> Ift 5mA</td><td> DIP6'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W7.62mm* SMDIP*W9.53mm* DIP*W10.16mm*'</td></tr></table>]|
 ||||

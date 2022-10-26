@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUSTSTM32F4STM32F429ZGYX > STM32F429ZGYx
+# SZKMCUSTSTM32F4STM32F429ZGYX > MCU_ST_STM32F4 : STM32F429ZGYx
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F429ZGYx
 - Hex ID: SZKMCUSTSTM32F4STM32F429ZGYX
-- Name: STM32F429ZGYx
-- Description: STM32F429ZGYx
+- Name: MCU_ST_STM32F4 : STM32F429ZGYx
+- Description: MCU_ST_STM32F4 : STM32F429ZGYx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F429ZGYx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F429ZGYx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32F4STM32F429ZGYX](http://oom.lt/SZKMCUSTSTM32F4STM32F429ZGYX)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|STM32F429ZGYx|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F429ZGYx|
 |Hex ID (short code)|hexID|SZKMCUSTSTM32F4STM32F429ZGYX|
-|name|name|STM32F429ZGYx|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'STM32F429ZGYx', 'kicadSymbolFootprint': 'Package_CSP:ST_WLCSP-143_Die419', 'kicadSymbolDatasheet': 'http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00071990.pdf', 'kicadSymbolki_keywords': 'ARM Cortex-M4 STM32F4 STM32F429/439', 'kicadSymbolki_description': 'ARM Cortex-M4 MCU, 1024KB flash, 192KB RAM, 180MHz, 1.8-3.6V, 114 GPIO, WLCSP-143', 'kicadSymbolki_fp_filters': 'ST_WLCSP*Die419*'}]|
+|name|name|MCU_ST_STM32F4 : STM32F429ZGYx|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'STM32F429ZGYx'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_CSP</td></tr><tr><td>ST_WLCSP-143_Die419'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00071990.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'ARM Cortex-M4 STM32F4 STM32F429/439'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'ARM Cortex-M4 MCU</td><td> 1024KB flash</td><td> 192KB RAM</td><td> 180MHz</td><td> 1.8-3.6V</td><td> 114 GPIO</td><td> WLCSP-143'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'ST_WLCSP*Die419*'</td></tr></table>]|
 ||||

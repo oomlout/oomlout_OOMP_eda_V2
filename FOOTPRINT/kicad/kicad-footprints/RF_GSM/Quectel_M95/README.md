@@ -29,5 +29,5 @@ NO IMAGE
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-RF_GSM-Quectel_M95|
 |Hex ID (short code)|hexID|FZKGSMQUECTELM95|
 |name|name|RF_GSM : Quectel_M95|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Quectel_M95', 'description': 'Quad-Band GSM/GPRS module, 19.9x23.6x2.65mm, https://www.quectel.com/UploadImage/Downlad/M95_Hardware_Design_V1.3.pdf', 'tags': 'GSM Module M95', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/RF_GSM.3dshapes/Quectel_M95.wrl', 'pins': {'type': 'smd', 'shape': 'oval'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Quectel_M95'</td><td> 'description'</td></tr><tr><td> 'Quad-Band GSM/GPRS module</td><td> 19.9x23.6x2.65mm</td><td> https</td></tr><tr><td>//www.quectel.com/UploadImage/Downlad/M95_Hardware_Design_V1.3.pdf'</td><td> 'tags'</td></tr><tr><td> 'GSM Module M95'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/RF_GSM.3dshapes/Quectel_M95.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'oval'</td></tr></table></td></tr></table>|
 ||||

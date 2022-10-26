@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZK74XXIEEE74251 > 74251
+# SZK74XXIEEE74251 > 74xx_IEEE : 74251
 
 - ID: SYMBOL-kicad-kicad-symbols-74xx_IEEE-74251
 - Hex ID: SZK74XXIEEE74251
-- Name: 74251
-- Description: 74251
+- Name: 74xx_IEEE : 74251
+- Description: 74xx_IEEE : 74251
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx_IEEE-74251](http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx_IEEE-74251)
 - Short Link: [http://oom.lt/SZK74XXIEEE74251](http://oom.lt/SZK74XXIEEE74251)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74251|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xx_IEEE-74251|
 |Hex ID (short code)|hexID|SZK74XXIEEE74251|
-|name|name|74251|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74251', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ''}]|
+|name|name|74xx_IEEE : 74251|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> '74251'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> ''</td></tr></table>]|
 ||||

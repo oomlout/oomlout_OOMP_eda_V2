@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-DFN-44-1EP_5x8.9mm_P0.4mm_EP3.7x8.4mm|
 |Hex ID (short code)|hexID|FZKDFNDFN441EP5X89P4EP37X84|
 |name|name|Package_DFN_QFN : DFN-44-1EP_5x8.9mm_P0.4mm_EP3.7x8.4mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'DFN-44-1EP_5x8.9mm_P0.4mm_EP3.7x8.4mm', 'description': 'DFN44 8.9x5, 0.4P; CASE 506BU-01 (see ON Semiconductor 506BU.PDF)', 'tags': 'DFN 0.4', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/DFN-44-1EP_5x8.9mm_P0.4mm_EP3.7x8.4mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'DFN-44-1EP_5x8.9mm_P0.4mm_EP3.7x8.4mm'</td><td> 'description'</td></tr><tr><td> 'DFN44 8.9x5</td><td> 0.4P; CASE 506BU-01 (see ON Semiconductor 506BU.PDF)'</td><td> 'tags'</td></tr><tr><td> 'DFN 0.4'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DFN_QFN.3dshapes/DFN-44-1EP_5x8.9mm_P0.4mm_EP3.7x8.4mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

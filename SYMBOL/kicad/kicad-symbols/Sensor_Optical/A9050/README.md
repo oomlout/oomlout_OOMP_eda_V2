@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKSENOPTICALA95 > A9050
+# SZKSENOPTICALA95 > Sensor_Optical : A9050
 
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Optical-A9050
 - Hex ID: SZKSENOPTICALA95
-- Name: A9050
-- Description: A9050
+- Name: Sensor_Optical : A9050
+- Description: Sensor_Optical : A9050
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-A9050](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-A9050)
 - Short Link: [http://oom.lt/SZKSENOPTICALA95](http://oom.lt/SZKSENOPTICALA95)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|A9050|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Optical-A9050|
 |Hex ID (short code)|hexID|SZKSENOPTICALA95|
-|name|name|A9050|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'R', 'kicadSymbolValue': 'A9050', 'kicadSymbolFootprint': 'OptoDevice:R_LDR_5.0x4.1mm_P3mm_Vertical', 'kicadSymbolDatasheet': 'http://cdn-reichelt.de/documents/datenblatt/A500/A90xxxx%23PE.pdf', 'kicadSymbolki_keywords': 'light dependent photo resistor LDR', 'kicadSymbolki_description': 'light dependent resistor', 'kicadSymbolki_fp_filters': 'R*LDR*5.0x4.1mm*P3mm*'}]|
+|name|name|Sensor_Optical : A9050|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'R'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'A9050'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'OptoDevice</td></tr><tr><td>R_LDR_5.0x4.1mm_P3mm_Vertical'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//cdn-reichelt.de/documents/datenblatt/A500/A90xxxx%23PE.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'light dependent photo resistor LDR'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'light dependent resistor'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'R*LDR*5.0x4.1mm*P3mm*'</td></tr></table>]|
 ||||

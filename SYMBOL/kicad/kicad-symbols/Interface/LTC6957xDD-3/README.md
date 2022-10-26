@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKINTERFACELTC6957XDD3 > LTC6957xDD-3
+# SZKINTERFACELTC6957XDD3 > Interface : LTC6957xDD-3
 
 - ID: SYMBOL-kicad-kicad-symbols-Interface-LTC6957xDD-3
 - Hex ID: SZKINTERFACELTC6957XDD3
-- Name: LTC6957xDD-3
-- Description: LTC6957xDD-3
+- Name: Interface : LTC6957xDD-3
+- Description: Interface : LTC6957xDD-3
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-LTC6957xDD-3](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-LTC6957xDD-3)
 - Short Link: [http://oom.lt/SZKINTERFACELTC6957XDD3](http://oom.lt/SZKINTERFACELTC6957XDD3)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LTC6957xDD-3|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface-LTC6957xDD-3|
 |Hex ID (short code)|hexID|SZKINTERFACELTC6957XDD3|
-|name|name|LTC6957xDD-3|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LTC6957xDD-3', 'kicadSymbolFootprint': 'Package_DFN_QFN:DFN-12-1EP_3x3mm_P0.45mm_EP1.66x2.38mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/6957fb.pdf', 'kicadSymbolki_keywords': 'LTC clock converter', 'kicadSymbolki_description': 'Low Phase Noise, Dual Output Buffer/Driver/Logic Converter, CMOS In-Phase Outputs, DFN-12', 'kicadSymbolki_fp_filters': 'DFN*3x3mm*P0.45mm*EP1.66x2.38mm*'}]|
+|name|name|Interface : LTC6957xDD-3|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LTC6957xDD-3'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>DFN-12-1EP_3x3mm_P0.45mm_EP1.66x2.38mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/6957fb.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'LTC clock converter'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Low Phase Noise</td><td> Dual Output Buffer/Driver/Logic Converter</td><td> CMOS In-Phase Outputs</td><td> DFN-12'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DFN*3x3mm*P0.45mm*EP1.66x2.38mm*'</td></tr></table>]|
 ||||

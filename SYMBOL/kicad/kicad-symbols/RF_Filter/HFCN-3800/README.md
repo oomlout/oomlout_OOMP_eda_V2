@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKRFFILHFCN38 > HFCN-3800
+# SZKRFFILHFCN38 > RF_Filter : HFCN-3800
 
 - ID: SYMBOL-kicad-kicad-symbols-RF_Filter-HFCN-3800
 - Hex ID: SZKRFFILHFCN38
-- Name: HFCN-3800
-- Description: HFCN-3800
+- Name: RF_Filter : HFCN-3800
+- Description: RF_Filter : HFCN-3800
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-HFCN-3800](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-HFCN-3800)
 - Short Link: [http://oom.lt/SZKRFFILHFCN38](http://oom.lt/SZKRFFILHFCN38)
   
@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|HFCN-3800|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-RF_Filter-HFCN-3800|
 |Hex ID (short code)|hexID|SZKRFFILHFCN38|
-|name|name|HFCN-3800|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'HFCN-672', 'kicadSymbolReference': 'FL', 'kicadSymbolValue': 'HFCN-3800', 'kicadSymbolFootprint': 'Filter:Filter_Mini-Circuits_FV1206-1', 'kicadSymbolDatasheet': 'https://www.minicircuits.com/pdfs/HFCN-3800+.pdf', 'kicadSymbolki_keywords': 'Mini-Circuits high pass filter', 'kicadSymbolki_description': '3800MHz 50 Ohm Passive High Pass Filter, FV1206-1', 'kicadSymbolki_fp_filters': 'Filter*Mini?Circuits*FV1206?1*'}]|
+|name|name|RF_Filter : HFCN-3800|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'HFCN-672'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'FL'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'HFCN-3800'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Filter</td></tr><tr><td>Filter_Mini-Circuits_FV1206-1'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.minicircuits.com/pdfs/HFCN-3800+.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Mini-Circuits high pass filter'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '3800MHz 50 Ohm Passive High Pass Filter</td><td> FV1206-1'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Filter*Mini?Circuits*FV1206?1*'</td></tr></table>]|
 ||||

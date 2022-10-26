@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUMOARDLEONARDO > Arduino_Leonardo
+# SZKMCUMOARDLEONARDO > MCU_Module : Arduino_Leonardo
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Module-Arduino_Leonardo
 - Hex ID: SZKMCUMOARDLEONARDO
-- Name: Arduino_Leonardo
-- Description: Arduino_Leonardo
+- Name: MCU_Module : Arduino_Leonardo
+- Description: MCU_Module : Arduino_Leonardo
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Module-Arduino_Leonardo](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Module-Arduino_Leonardo)
 - Short Link: [http://oom.lt/SZKMCUMOARDLEONARDO](http://oom.lt/SZKMCUMOARDLEONARDO)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Arduino_Leonardo|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Module-Arduino_Leonardo|
 |Hex ID (short code)|hexID|SZKMCUMOARDLEONARDO|
-|name|name|Arduino_Leonardo|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'A', 'kicadSymbolValue': 'Arduino_Leonardo', 'kicadSymbolFootprint': 'Module:Arduino_UNO_R3', 'kicadSymbolDatasheet': 'https://www.arduino.cc/en/Main/ArduinoBoardLeonardo', 'kicadSymbolki_keywords': 'Arduino LEONARDO Microcontroller Module Atmel AVR USB', 'kicadSymbolki_description': 'Arduino LEONARDO Microcontroller Module', 'kicadSymbolki_fp_filters': 'Arduino*UNO*R3*'}]|
+|name|name|MCU_Module : Arduino_Leonardo|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'A'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Arduino_Leonardo'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Module</td></tr><tr><td>Arduino_UNO_R3'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.arduino.cc/en/Main/ArduinoBoardLeonardo'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Arduino LEONARDO Microcontroller Module Atmel AVR USB'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Arduino LEONARDO Microcontroller Module'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Arduino*UNO*R3*'</td></tr></table>]|
 ||||

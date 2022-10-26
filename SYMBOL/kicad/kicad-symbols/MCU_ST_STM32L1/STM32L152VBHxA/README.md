@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUSTSTM32L1STM32L152VBHXA > STM32L152VBHxA
+# SZKMCUSTSTM32L1STM32L152VBHXA > MCU_ST_STM32L1 : STM32L152VBHxA
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L1-STM32L152VBHxA
 - Hex ID: SZKMCUSTSTM32L1STM32L152VBHXA
-- Name: STM32L152VBHxA
-- Description: STM32L152VBHxA
+- Name: MCU_ST_STM32L1 : STM32L152VBHxA
+- Description: MCU_ST_STM32L1 : STM32L152VBHxA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L1-STM32L152VBHxA](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L1-STM32L152VBHxA)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32L1STM32L152VBHXA](http://oom.lt/SZKMCUSTSTM32L1STM32L152VBHXA)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|STM32L152VBHxA|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L1-STM32L152VBHxA|
 |Hex ID (short code)|hexID|SZKMCUSTSTM32L1STM32L152VBHXA|
-|name|name|STM32L152VBHxA|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'STM32L152V8HxA', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'STM32L152VBHxA', 'kicadSymbolFootprint': 'Package_BGA:UFBGA-100_7x7mm_Layout12x12_P0.5mm', 'kicadSymbolDatasheet': 'http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00277537.pdf', 'kicadSymbolki_keywords': 'ARM Cortex-M3 STM32L1 STM32L151/152', 'kicadSymbolki_description': 'ARM Cortex-M3 MCU, 128KB flash, 32KB RAM, 32MHz, 1.65-3.6V, 83 GPIO, UFBGA-100', 'kicadSymbolki_fp_filters': 'UFBGA*7x7mm*Layout12x12*P0.5mm*'}]|
+|name|name|MCU_ST_STM32L1 : STM32L152VBHxA|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'STM32L152V8HxA'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'STM32L152VBHxA'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_BGA</td></tr><tr><td>UFBGA-100_7x7mm_Layout12x12_P0.5mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00277537.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'ARM Cortex-M3 STM32L1 STM32L151/152'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'ARM Cortex-M3 MCU</td><td> 128KB flash</td><td> 32KB RAM</td><td> 32MHz</td><td> 1.65-3.6V</td><td> 83 GPIO</td><td> UFBGA-100'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'UFBGA*7x7mm*Layout12x12*P0.5mm*'</td></tr></table>]|
 ||||

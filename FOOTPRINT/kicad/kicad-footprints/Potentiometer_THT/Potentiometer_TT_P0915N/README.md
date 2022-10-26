@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_TT_P0915N|
 |Hex ID (short code)|hexID|FZKPPOTENTIOMETERTTP915N|
 |name|name|Potentiometer_THT : Potentiometer_TT_P0915N|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Potentiometer_TT_P0915N', 'description': 'http://www.ttelectronics.com/sites/default/files/download-files/Datasheet_PanelPot_P09xSeries.pdf', 'tags': 'potentiometer vertical TT P0915N single', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Potentiometer_THT.3dshapes/Potentiometer_TT_P0915N.wrl', 'pins': {'type': 'thru_hole', 'shape': 'oval'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Potentiometer_TT_P0915N'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ttelectronics.com/sites/default/files/download-files/Datasheet_PanelPot_P09xSeries.pdf'</td><td> 'tags'</td></tr><tr><td> 'potentiometer vertical TT P0915N single'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Potentiometer_THT.3dshapes/Potentiometer_TT_P0915N.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'oval'</td></tr></table></td></tr></table>|
 ||||
 
 

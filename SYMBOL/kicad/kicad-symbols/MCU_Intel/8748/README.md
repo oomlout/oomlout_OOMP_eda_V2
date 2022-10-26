@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUINTEL8748 > 8748
+# SZKMCUINTEL8748 > MCU_Intel : 8748
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Intel-8748
 - Hex ID: SZKMCUINTEL8748
-- Name: 8748
-- Description: 8748
+- Name: MCU_Intel : 8748
+- Description: MCU_Intel : 8748
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Intel-8748](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Intel-8748)
 - Short Link: [http://oom.lt/SZKMCUINTEL8748](http://oom.lt/SZKMCUINTEL8748)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|8748|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Intel-8748|
 |Hex ID (short code)|hexID|SZKMCUINTEL8748|
-|name|name|8748|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '8748', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_keywords': 'MCS-48 uC Microcontroller', 'kicadSymbolki_description': 'i8748, MCS-48 8-bit Microcontroller with Internal EPROM, 1KB EPROM, 64B RAM, DIP-40', 'kicadSymbolki_fp_filters': 'DIP* PDIP*'}]|
+|name|name|MCU_Intel : 8748|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> '8748'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'MCS-48 uC Microcontroller'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'i8748</td><td> MCS-48 8-bit Microcontroller with Internal EPROM</td><td> 1KB EPROM</td><td> 64B RAM</td><td> DIP-40'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP* PDIP*'</td></tr></table>]|
 ||||

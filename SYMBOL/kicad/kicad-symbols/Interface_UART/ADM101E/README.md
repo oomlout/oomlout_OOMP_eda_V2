@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKINTERFACEUARTADM11E > ADM101E
+# SZKINTERFACEUARTADM11E > Interface_UART : ADM101E
 
 - ID: SYMBOL-kicad-kicad-symbols-Interface_UART-ADM101E
 - Hex ID: SZKINTERFACEUARTADM11E
-- Name: ADM101E
-- Description: ADM101E
+- Name: Interface_UART : ADM101E
+- Description: Interface_UART : ADM101E
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-ADM101E](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-ADM101E)
 - Short Link: [http://oom.lt/SZKINTERFACEUARTADM11E](http://oom.lt/SZKINTERFACEUARTADM11E)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ADM101E|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_UART-ADM101E|
 |Hex ID (short code)|hexID|SZKINTERFACEUARTADM11E|
-|name|name|ADM101E|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ADM101E', 'kicadSymbolFootprint': 'Package_SO:MSOP-10_3x3mm_P0.5mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/ADM101E.pdf', 'kicadSymbolki_keywords': 'rs232 uart transceiver line-driver', 'kicadSymbolki_description': 'Single RS232 driver/receiver, 5V supply, 460kb/s', 'kicadSymbolki_fp_filters': 'MSOP*'}]|
+|name|name|Interface_UART : ADM101E|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ADM101E'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>MSOP-10_3x3mm_P0.5mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/ADM101E.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'rs232 uart transceiver line-driver'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Single RS232 driver/receiver</td><td> 5V supply</td><td> 460kb/s'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'MSOP*'</td></tr></table>]|
 ||||

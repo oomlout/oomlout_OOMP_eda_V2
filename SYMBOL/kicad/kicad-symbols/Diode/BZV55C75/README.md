@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDIODEBZV55C75 > BZV55C75
+# SZKDIODEBZV55C75 > Diode : BZV55C75
 
 - ID: SYMBOL-kicad-kicad-symbols-Diode-BZV55C75
 - Hex ID: SZKDIODEBZV55C75
-- Name: BZV55C75
-- Description: BZV55C75
+- Name: Diode : BZV55C75
+- Description: Diode : BZV55C75
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BZV55C75](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BZV55C75)
 - Short Link: [http://oom.lt/SZKDIODEBZV55C75](http://oom.lt/SZKDIODEBZV55C75)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BZV55C75|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-BZV55C75|
 |Hex ID (short code)|hexID|SZKDIODEBZV55C75|
-|name|name|BZV55C75|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ZPYxx', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'BZV55C75', 'kicadSymbolFootprint': 'Diode_SMD:D_MiniMELF', 'kicadSymbolDatasheet': 'https://assets.nexperia.com/documents/data-sheet/BZV55_SER.pdf', 'kicadSymbolki_keywords': 'zener diode', 'kicadSymbolki_description': '75V, 500mW, 5%, Zener diode, MiniMELF', 'kicadSymbolki_fp_filters': 'D*MiniMELF*'}]|
+|name|name|Diode : BZV55C75|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'ZPYxx'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'BZV55C75'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Diode_SMD</td></tr><tr><td>D_MiniMELF'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//assets.nexperia.com/documents/data-sheet/BZV55_SER.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'zener diode'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '75V</td><td> 500mW</td><td> 5%</td><td> Zener diode</td><td> MiniMELF'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'D*MiniMELF*'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORSWITCHINGLNK325D > LNK3205D
+# SZKREGULATORSWITCHINGLNK325D > Regulator_Switching : LNK3205D
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK3205D
 - Hex ID: SZKREGULATORSWITCHINGLNK325D
-- Name: LNK3205D
-- Description: LNK3205D
+- Name: Regulator_Switching : LNK3205D
+- Description: Regulator_Switching : LNK3205D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK3205D](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK3205D)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGLNK325D](http://oom.lt/SZKREGULATORSWITCHINGLNK325D)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LNK3205D|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK3205D|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGLNK325D|
-|name|name|LNK3205D|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LNK3202D', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LNK3205D', 'kicadSymbolFootprint': 'Package_SO:PowerIntegrations_SO-8C', 'kicadSymbolDatasheet': 'https://ac-dc.power.com/sites/default/files/product-docs/LinkSwitch-TN2_family_datasheet.pdf', 'kicadSymbolki_keywords': 'Lowest Component Count, Energy-Efficient Off-Line Switcher IC', 'kicadSymbolki_description': 'LinkSwitch-TN Family, 270mA Output Current, SO-8C', 'kicadSymbolki_fp_filters': 'PowerIntegrations?SO?8C*'}]|
+|name|name|Regulator_Switching : LNK3205D|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'LNK3202D'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LNK3205D'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>PowerIntegrations_SO-8C'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//ac-dc.power.com/sites/default/files/product-docs/LinkSwitch-TN2_family_datasheet.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Lowest Component Count</td><td> Energy-Efficient Off-Line Switcher IC'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'LinkSwitch-TN Family</td><td> 270mA Output Current</td><td> SO-8C'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'PowerIntegrations?SO?8C*'</td></tr></table>]|
 ||||

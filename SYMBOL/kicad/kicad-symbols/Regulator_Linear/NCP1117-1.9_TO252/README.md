@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORLINEARNCP111719TO252 > NCP1117-1.9_TO252
+# SZKREGULATORLINEARNCP111719TO252 > Regulator_Linear : NCP1117-1.9_TO252
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-NCP1117-1.9_TO252
 - Hex ID: SZKREGULATORLINEARNCP111719TO252
-- Name: NCP1117-1.9_TO252
-- Description: NCP1117-1.9_TO252
+- Name: Regulator_Linear : NCP1117-1.9_TO252
+- Description: Regulator_Linear : NCP1117-1.9_TO252
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-NCP1117-1.9_TO252](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-NCP1117-1.9_TO252)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARNCP111719TO252](http://oom.lt/SZKREGULATORLINEARNCP111719TO252)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|NCP1117-1.9_TO252|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-NCP1117-1.9_TO252|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARNCP111719TO252|
-|name|name|NCP1117-1.9_TO252|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'NCP1117-12_TO252', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'NCP1117-1.9_TO252', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TO-252-2', 'kicadSymbolDatasheet': 'http://www.onsemi.com/pub_link/Collateral/NCP1117-D.PDF', 'kicadSymbolki_keywords': 'REGULATOR LDO 1.9V', 'kicadSymbolki_description': '1A Low drop-out regulator, Fixed Output 1.9V, TO-252 (DPAK)', 'kicadSymbolki_fp_filters': 'TO?252*'}]|
+|name|name|Regulator_Linear : NCP1117-1.9_TO252|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'NCP1117-12_TO252'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'NCP1117-1.9_TO252'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>TO-252-2'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.onsemi.com/pub_link/Collateral/NCP1117-D.PDF'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'REGULATOR LDO 1.9V'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '1A Low drop-out regulator</td><td> Fixed Output 1.9V</td><td> TO-252 (DPAK)'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TO?252*'</td></tr></table>]|
 ||||

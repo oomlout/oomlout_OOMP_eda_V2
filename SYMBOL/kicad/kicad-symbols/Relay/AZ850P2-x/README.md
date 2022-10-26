@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKRELAYAZ85P2X > AZ850P2-x
+# SZKRELAYAZ85P2X > Relay : AZ850P2-x
 
 - ID: SYMBOL-kicad-kicad-symbols-Relay-AZ850P2-x
 - Hex ID: SZKRELAYAZ85P2X
-- Name: AZ850P2-x
-- Description: AZ850P2-x
+- Name: Relay : AZ850P2-x
+- Description: Relay : AZ850P2-x
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-AZ850P2-x](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-AZ850P2-x)
 - Short Link: [http://oom.lt/SZKRELAYAZ85P2X](http://oom.lt/SZKRELAYAZ85P2X)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AZ850P2-x|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Relay-AZ850P2-x|
 |Hex ID (short code)|hexID|SZKRELAYAZ85P2X|
-|name|name|AZ850P2-x|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'K', 'kicadSymbolValue': 'AZ850P2-x', 'kicadSymbolFootprint': 'Relay_THT:Relay_DPDT_FRT5', 'kicadSymbolDatasheet': 'http://www.azettler.com/pdfs/az850.pdf', 'kicadSymbolki_keywords': 'Miniature Polarised Relay Dual Pole Bistable', 'kicadSymbolki_description': 'American Zettler, Microminiature Polarised Dual Pole Relay Bistable', 'kicadSymbolki_fp_filters': 'Relay*DPDT*FRT5*'}]|
+|name|name|Relay : AZ850P2-x|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'K'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'AZ850P2-x'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Relay_THT</td></tr><tr><td>Relay_DPDT_FRT5'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.azettler.com/pdfs/az850.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Miniature Polarised Relay Dual Pole Bistable'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'American Zettler</td><td> Microminiature Polarised Dual Pole Relay Bistable'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Relay*DPDT*FRT5*'</td></tr></table>]|
 ||||

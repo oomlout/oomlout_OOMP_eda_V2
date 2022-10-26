@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUSTSTM32F4STM32F417VGTX > STM32F417VGTx
+# SZKMCUSTSTM32F4STM32F417VGTX > MCU_ST_STM32F4 : STM32F417VGTx
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F417VGTx
 - Hex ID: SZKMCUSTSTM32F4STM32F417VGTX
-- Name: STM32F417VGTx
-- Description: STM32F417VGTx
+- Name: MCU_ST_STM32F4 : STM32F417VGTx
+- Description: MCU_ST_STM32F4 : STM32F417VGTx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F417VGTx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F417VGTx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32F4STM32F417VGTX](http://oom.lt/SZKMCUSTSTM32F4STM32F417VGTX)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|STM32F417VGTx|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F417VGTx|
 |Hex ID (short code)|hexID|SZKMCUSTSTM32F4STM32F417VGTX|
-|name|name|STM32F417VGTx|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'STM32F417VETx', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'STM32F417VGTx', 'kicadSymbolFootprint': 'Package_QFP:LQFP-100_14x14mm_P0.5mm', 'kicadSymbolDatasheet': 'http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00035129.pdf', 'kicadSymbolki_keywords': 'ARM Cortex-M4 STM32F4 STM32F407/417', 'kicadSymbolki_description': 'ARM Cortex-M4 MCU, 1024KB flash, 128KB RAM, 168MHz, 1.8-3.6V, 82 GPIO, LQFP-100', 'kicadSymbolki_fp_filters': 'LQFP*14x14mm*P0.5mm*'}]|
+|name|name|MCU_ST_STM32F4 : STM32F417VGTx|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'STM32F417VETx'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'STM32F417VGTx'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_QFP</td></tr><tr><td>LQFP-100_14x14mm_P0.5mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00035129.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'ARM Cortex-M4 STM32F4 STM32F407/417'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'ARM Cortex-M4 MCU</td><td> 1024KB flash</td><td> 128KB RAM</td><td> 168MHz</td><td> 1.8-3.6V</td><td> 82 GPIO</td><td> LQFP-100'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'LQFP*14x14mm*P0.5mm*'</td></tr></table>]|
 ||||

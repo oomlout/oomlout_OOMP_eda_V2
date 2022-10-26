@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKCNMXM3 > MXM3.0
+# SZKCNMXM3 > Connector : MXM3.0
 
 - ID: SYMBOL-kicad-kicad-symbols-Connector-MXM3.0
 - Hex ID: SZKCNMXM3
-- Name: MXM3.0
-- Description: MXM3.0
+- Name: Connector : MXM3.0
+- Description: Connector : MXM3.0
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-MXM3.0](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-MXM3.0)
 - Short Link: [http://oom.lt/SZKCNMXM3](http://oom.lt/SZKCNMXM3)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MXM3.0|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-MXM3.0|
 |Hex ID (short code)|hexID|SZKCNMXM3|
-|name|name|MXM3.0|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'MXM3.0', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'MXM connector', 'kicadSymbolki_description': 'MXM3.0 connector', 'kicadSymbolki_fp_filters': '*MM70*'}]|
+|name|name|Connector : MXM3.0|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'J'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MXM3.0'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'MXM connector'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'MXM3.0 connector'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> '*MM70*'</td></tr></table>]|
 ||||

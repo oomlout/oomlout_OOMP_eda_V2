@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SO-Texas_R-PDSO-N5|
 |Hex ID (short code)|hexID|FZKSOTEXASRPDSON5|
 |name|name|Package_SO : Texas_R-PDSO-N5|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Texas_R-PDSO-N5', 'description': 'Plastic Small outline http://www.ti.com/lit/ml/mpds158c/mpds158c.pdf', 'tags': 'SOT23 R-PDSO-N5', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/Texas_R-PDSO-N5.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Texas_R-PDSO-N5'</td><td> 'description'</td></tr><tr><td> 'Plastic Small outline http</td></tr><tr><td>//www.ti.com/lit/ml/mpds158c/mpds158c.pdf'</td><td> 'tags'</td></tr><tr><td> 'SOT23 R-PDSO-N5'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_SO.3dshapes/Texas_R-PDSO-N5.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

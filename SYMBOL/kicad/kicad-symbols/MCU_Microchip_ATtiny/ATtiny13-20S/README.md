@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUMCHIPATTINYATTINY132S > ATtiny13-20S
+# SZKMCUMCHIPATTINYATTINY132S > MCU_Microchip_ATtiny : ATtiny13-20S
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny13-20S
 - Hex ID: SZKMCUMCHIPATTINYATTINY132S
-- Name: ATtiny13-20S
-- Description: ATtiny13-20S
+- Name: MCU_Microchip_ATtiny : ATtiny13-20S
+- Description: MCU_Microchip_ATtiny : ATtiny13-20S
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny13-20S](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny13-20S)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATTINYATTINY132S](http://oom.lt/SZKMCUMCHIPATTINYATTINY132S)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ATtiny13-20S|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny13-20S|
 |Hex ID (short code)|hexID|SZKMCUMCHIPATTINYATTINY132S|
-|name|name|ATtiny13-20S|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ATtiny13V-10S', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ATtiny13-20S', 'kicadSymbolFootprint': 'Package_SO:SOIC-8W_5.3x5.3mm_P1.27mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/doc2535.pdf', 'kicadSymbolki_keywords': 'AVR 8bit Microcontroller tinyAVR', 'kicadSymbolki_description': '20MHz, 1kB Flash, 64B SRAM, 64B EEPROM, debugWIRE, SOIC-8W', 'kicadSymbolki_fp_filters': 'SOIC*5.3x5.3mm*P1.27mm*'}]|
+|name|name|MCU_Microchip_ATtiny : ATtiny13-20S|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'ATtiny13V-10S'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ATtiny13-20S'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-8W_5.3x5.3mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/doc2535.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'AVR 8bit Microcontroller tinyAVR'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '20MHz</td><td> 1kB Flash</td><td> 64B SRAM</td><td> 64B EEPROM</td><td> debugWIRE</td><td> SOIC-8W'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*5.3x5.3mm*P1.27mm*'</td></tr></table>]|
 ||||

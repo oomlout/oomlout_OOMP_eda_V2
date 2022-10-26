@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_BGA-WLP-4_0.83x0.83mm_P0.4mm|
 |Hex ID (short code)|hexID|FZKBGAWLP483X83P4|
 |name|name|Package_BGA : WLP-4_0.83x0.83mm_P0.4mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'WLP-4_0.83x0.83mm_P0.4mm', 'description': 'WLP-4_0.83x0.83mm_P0.4mm https://pdfserv.maximintegrated.com/package_dwgs/21-100107.PDF, https://www.maximintegrated.com/en/app-notes/index.mvp/id/1891', 'tags': 'WLP-4', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/WLP-4_0.83x0.83mm_P0.4mm.wrl', 'pins': {'type': 'smd', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'WLP-4_0.83x0.83mm_P0.4mm'</td><td> 'description'</td></tr><tr><td> 'WLP-4_0.83x0.83mm_P0.4mm https</td></tr><tr><td>//pdfserv.maximintegrated.com/package_dwgs/21-100107.PDF</td><td> https</td></tr><tr><td>//www.maximintegrated.com/en/app-notes/index.mvp/id/1891'</td><td> 'tags'</td></tr><tr><td> 'WLP-4'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_BGA.3dshapes/WLP-4_0.83x0.83mm_P0.4mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

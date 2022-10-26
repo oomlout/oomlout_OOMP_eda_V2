@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE42XO2211R4O221 > RESE-0402-X-O221-01-R4O221
+# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE42XO2211R4O221 > oomlout_OOMP_parts : RESE-0402-X-O221-01-R4O221
 
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O221-01-R4O221
 - Hex ID: SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE42XO2211R4O221
-- Name: RESE-0402-X-O221-01-R4O221
-- Description: RESE-0402-X-O221-01-R4O221
+- Name: oomlout_OOMP_parts : RESE-0402-X-O221-01-R4O221
+- Description: oomlout_OOMP_parts : RESE-0402-X-O221-01-R4O221
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O221-01-R4O221](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O221-01-R4O221)
 - Short Link: [http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE42XO2211R4O221](http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE42XO2211R4O221)
   
@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|RESE-0402-X-O221-01-R4O221|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O221-01-R4O221|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE42XO2211R4O221|
-|name|name|RESE-0402-X-O221-01-R4O221|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'R', 'kicadSymbolValue': 'RESE-0402-X-O221-01-R4O221', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:RESE-0402-X-O221-01-R4O221', 'kicadSymbolDatasheet': 'oom.lt/R4O221', 'kicadSymbolki_keywords': 'R res resistor', 'kicadSymbolki_description': 'hexID: R4O221;PARTL C-JLCC;C25091;MANUF C-XXXX;0402WGF2200TCE;Resistor', 'kicadSymbolki_fp_filters': 'R_*'}]|
+|name|name|oomlout_OOMP_parts : RESE-0402-X-O221-01-R4O221|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'R'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'RESE-0402-X-O221-01-R4O221'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'oomlout_OOMP_parts</td></tr><tr><td>RESE-0402-X-O221-01-R4O221'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'oom.lt/R4O221'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'R res resistor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'hexID</td></tr><tr><td> R4O221;PARTL C-JLCC;C25091;MANUF C-XXXX;0402WGF2200TCE;Resistor'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'R_*'</td></tr></table>]|
 ||||

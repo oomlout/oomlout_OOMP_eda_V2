@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Hirose-Hirose_DF52-2S-0.8H_1x02-1MP_P0.80mm_Horizontal|
 |Hex ID (short code)|hexID|FZKCNHIROSEHIROSEDF522S8H1X21MPP8HORIZONTAL|
 |name|name|Connector_Hirose : Hirose_DF52-2S-0.8H_1x02-1MP_P0.80mm_Horizontal|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Hirose_DF52-2S-0.8H_1x02-1MP_P0.80mm_Horizontal', 'description': 'Hirose  series connector, DF52-2S-0.8H (https://www.hirose.com/product/en/products/DF52/DF52-3S-0.8H%2821%29/), generated with kicad-footprint-generator', 'tags': 'connector Hirose  top entry', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_Hirose.3dshapes/Hirose_DF52-2S-0.8H_1x02-1MP_P0.80mm_Horizontal.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Hirose_DF52-2S-0.8H_1x02-1MP_P0.80mm_Horizontal'</td><td> 'description'</td></tr><tr><td> 'Hirose  series connector</td><td> DF52-2S-0.8H (https</td></tr><tr><td>//www.hirose.com/product/en/products/DF52/DF52-3S-0.8H%2821%29/)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'connector Hirose  top entry'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_Hirose.3dshapes/Hirose_DF52-2S-0.8H_1x02-1MP_P0.80mm_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

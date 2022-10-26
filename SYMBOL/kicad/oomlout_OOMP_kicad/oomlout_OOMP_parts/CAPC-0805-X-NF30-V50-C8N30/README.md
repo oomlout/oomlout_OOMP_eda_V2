@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC85XNF3V5C8N3 > CAPC-0805-X-NF30-V50-C8N30
+# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC85XNF3V5C8N3 > oomlout_OOMP_parts : CAPC-0805-X-NF30-V50-C8N30
 
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0805-X-NF30-V50-C8N30
 - Hex ID: SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC85XNF3V5C8N3
-- Name: CAPC-0805-X-NF30-V50-C8N30
-- Description: CAPC-0805-X-NF30-V50-C8N30
+- Name: oomlout_OOMP_parts : CAPC-0805-X-NF30-V50-C8N30
+- Description: oomlout_OOMP_parts : CAPC-0805-X-NF30-V50-C8N30
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0805-X-NF30-V50-C8N30](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0805-X-NF30-V50-C8N30)
 - Short Link: [http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC85XNF3V5C8N3](http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC85XNF3V5C8N3)
   
@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|CAPC-0805-X-NF30-V50-C8N30|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0805-X-NF30-V50-C8N30|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC85XNF3V5C8N3|
-|name|name|CAPC-0805-X-NF30-V50-C8N30|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'C', 'kicadSymbolValue': 'CAPC-0805-X-NF30-V50-C8N30', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:CAPC-0805-X-NF30-V50-C8N30', 'kicadSymbolDatasheet': 'oom.lt/C8N30', 'kicadSymbolki_keywords': 'cap capacitor', 'kicadSymbolki_description': 'hexID: C8N30;PARTL C-JLCC;C1740;MANUF C-XXXX;0805B334K500NT;Unpolarized capacitor', 'kicadSymbolki_fp_filters': 'C_*'}]|
+|name|name|oomlout_OOMP_parts : CAPC-0805-X-NF30-V50-C8N30|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'C'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'CAPC-0805-X-NF30-V50-C8N30'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'oomlout_OOMP_parts</td></tr><tr><td>CAPC-0805-X-NF30-V50-C8N30'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'oom.lt/C8N30'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'cap capacitor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'hexID</td></tr><tr><td> C8N30;PARTL C-JLCC;C1740;MANUF C-XXXX;0805B334K500NT;Unpolarized capacitor'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'C_*'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKPOWERMANAGEMENTIPS631SPBF > IPS6031SPBF
+# SZKPOWERMANAGEMENTIPS631SPBF > Power_Management : IPS6031SPBF
 
 - ID: SYMBOL-kicad-kicad-symbols-Power_Management-IPS6031SPBF
 - Hex ID: SZKPOWERMANAGEMENTIPS631SPBF
-- Name: IPS6031SPBF
-- Description: IPS6031SPBF
+- Name: Power_Management : IPS6031SPBF
+- Description: Power_Management : IPS6031SPBF
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-IPS6031SPBF](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-IPS6031SPBF)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTIPS631SPBF](http://oom.lt/SZKPOWERMANAGEMENTIPS631SPBF)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IPS6031SPBF|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Management-IPS6031SPBF|
 |Hex ID (short code)|hexID|SZKPOWERMANAGEMENTIPS631SPBF|
-|name|name|IPS6031SPBF|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'IPS6011SPBF', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'IPS6031SPBF', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TO-263-5_TabPin3', 'kicadSymbolDatasheet': 'http://www.irf.com/product-info/datasheets/data/ips6031pbf.pdf', 'kicadSymbolki_keywords': 'Intelligent Power Switch High Side MOSFET', 'kicadSymbolki_description': '39V, 16A, Intelligent Power Switch High Side, D2-PAK 5pin', 'kicadSymbolki_fp_filters': 'TO?263*'}]|
+|name|name|Power_Management : IPS6031SPBF|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'IPS6011SPBF'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'IPS6031SPBF'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>TO-263-5_TabPin3'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.irf.com/product-info/datasheets/data/ips6031pbf.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Intelligent Power Switch High Side MOSFET'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '39V</td><td> 16A</td><td> Intelligent Power Switch High Side</td><td> D2-PAK 5pin'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TO?263*'</td></tr></table>]|
 ||||

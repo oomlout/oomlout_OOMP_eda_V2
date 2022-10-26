@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUNXPMCOREC2114CFCPU > MMC2114CFCPU
+# SZKMCUNXPMCOREC2114CFCPU > MCU_NXP_MCore : MMC2114CFCPU
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_NXP_MCore-MMC2114CFCPU
 - Hex ID: SZKMCUNXPMCOREC2114CFCPU
-- Name: MMC2114CFCPU
-- Description: MMC2114CFCPU
+- Name: MCU_NXP_MCore : MMC2114CFCPU
+- Description: MCU_NXP_MCore : MMC2114CFCPU
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_MCore-MMC2114CFCPU](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_MCore-MMC2114CFCPU)
 - Short Link: [http://oom.lt/SZKMCUNXPMCOREC2114CFCPU](http://oom.lt/SZKMCUNXPMCOREC2114CFCPU)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MMC2114CFCPU|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_NXP_MCore-MMC2114CFCPU|
 |Hex ID (short code)|hexID|SZKMCUNXPMCOREC2114CFCPU|
-|name|name|MMC2114CFCPU|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MMC2114CFCPU', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'motorola/mmc2114.pdf', 'kicadSymbolki_description': 'Motorola M*CORE  upro 100 pins'}]|
+|name|name|MCU_NXP_MCore : MMC2114CFCPU|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MMC2114CFCPU'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'motorola/mmc2114.pdf'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Motorola M*CORE  upro 100 pins'</td></tr></table>]|
 ||||

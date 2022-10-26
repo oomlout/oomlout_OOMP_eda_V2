@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUMCHIPATTINYATTINY3227M > ATtiny3227-M
+# SZKMCUMCHIPATTINYATTINY3227M > MCU_Microchip_ATtiny : ATtiny3227-M
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny3227-M
 - Hex ID: SZKMCUMCHIPATTINYATTINY3227M
-- Name: ATtiny3227-M
-- Description: ATtiny3227-M
+- Name: MCU_Microchip_ATtiny : ATtiny3227-M
+- Description: MCU_Microchip_ATtiny : ATtiny3227-M
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny3227-M](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny3227-M)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATTINYATTINY3227M](http://oom.lt/SZKMCUMCHIPATTINYATTINY3227M)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ATtiny3227-M|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny3227-M|
 |Hex ID (short code)|hexID|SZKMCUMCHIPATTINYATTINY3227M|
-|name|name|ATtiny3227-M|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ATtiny807-M', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ATtiny3227-M', 'kicadSymbolFootprint': 'Package_DFN_QFN:QFN-24-1EP_4x4mm_P0.5mm_EP2.6x2.6mm', 'kicadSymbolDatasheet': 'https://ww1.microchip.com/downloads/en/DeviceDoc/ATtiny3224-3226-3227-Data-Sheet-DS40002345A.pdf', 'kicadSymbolki_keywords': 'AVR 8bit Microcontroller tinyAVR', 'kicadSymbolki_description': '20MHz, 32kB Flash, 3kB SRAM, 256B EEPROM, VQFN-24', 'kicadSymbolki_fp_filters': 'QFN*1EP*4x4mm*P0.5mm*'}]|
+|name|name|MCU_Microchip_ATtiny : ATtiny3227-M|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'ATtiny807-M'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ATtiny3227-M'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>QFN-24-1EP_4x4mm_P0.5mm_EP2.6x2.6mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/ATtiny3224-3226-3227-Data-Sheet-DS40002345A.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'AVR 8bit Microcontroller tinyAVR'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '20MHz</td><td> 32kB Flash</td><td> 3kB SRAM</td><td> 256B EEPROM</td><td> VQFN-24'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'QFN*1EP*4x4mm*P0.5mm*'</td></tr></table>]|
 ||||

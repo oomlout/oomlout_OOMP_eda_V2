@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDIODELL43 > LL43
+# SZKDIODELL43 > Diode : LL43
 
 - ID: SYMBOL-kicad-kicad-symbols-Diode-LL43
 - Hex ID: SZKDIODELL43
-- Name: LL43
-- Description: LL43
+- Name: Diode : LL43
+- Description: Diode : LL43
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-LL43](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-LL43)
 - Short Link: [http://oom.lt/SZKDIODELL43](http://oom.lt/SZKDIODELL43)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LL43|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-LL43|
 |Hex ID (short code)|hexID|SZKDIODELL43|
-|name|name|LL43|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LL41', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'LL43', 'kicadSymbolFootprint': 'Diode_SMD:D_MiniMELF', 'kicadSymbolDatasheet': 'http://www.vishay.com/docs/85672/ll42.pdf', 'kicadSymbolki_keywords': 'diode Schottky', 'kicadSymbolki_description': '30V 0.2A Small Signal Schottky diode, MiniMELF', 'kicadSymbolki_fp_filters': 'D*MiniMELF*'}]|
+|name|name|Diode : LL43|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'LL41'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LL43'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Diode_SMD</td></tr><tr><td>D_MiniMELF'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.vishay.com/docs/85672/ll42.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'diode Schottky'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '30V 0.2A Small Signal Schottky diode</td><td> MiniMELF'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'D*MiniMELF*'</td></tr></table>]|
 ||||

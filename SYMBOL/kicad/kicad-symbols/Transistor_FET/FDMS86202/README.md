@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORFETFDMS8622 > FDMS86202
+# SZKTRANSISTORFETFDMS8622 > Transistor_FET : FDMS86202
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-FDMS86202
 - Hex ID: SZKTRANSISTORFETFDMS8622
-- Name: FDMS86202
-- Description: FDMS86202
+- Name: Transistor_FET : FDMS86202
+- Description: Transistor_FET : FDMS86202
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-FDMS86202](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-FDMS86202)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETFDMS8622](http://oom.lt/SZKTRANSISTORFETFDMS8622)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|FDMS86202|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-FDMS86202|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETFDMS8622|
-|name|name|FDMS86202|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'CSD17578Q5A', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'FDMS86202', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TDSON-8-1', 'kicadSymbolDatasheet': 'https://www.mouser.fr/datasheet/2/308/FDMS86202-D-1808220.pdf', 'kicadSymbolki_keywords': 'shielded-gate-powertrench MOSFET fairchild', 'kicadSymbolki_description': '13.5A Id, 120V Vds, N-Channel Shielded Gate PowerTrench MOSFET, 7.2mOhm Ron, 64nC Qgmax, -55 to 150 °C, 5x6mm SON8', 'kicadSymbolki_fp_filters': 'TDSON*'}]|
+|name|name|Transistor_FET : FDMS86202|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'CSD17578Q5A'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'FDMS86202'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>TDSON-8-1'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.mouser.fr/datasheet/2/308/FDMS86202-D-1808220.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'shielded-gate-powertrench MOSFET fairchild'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '13.5A Id</td><td> 120V Vds</td><td> N-Channel Shielded Gate PowerTrench MOSFET</td><td> 7.2mOhm Ron</td><td> 64nC Qgmax</td><td> -55 to 150 °C</td><td> 5x6mm SON8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TDSON*'</td></tr></table>]|
 ||||

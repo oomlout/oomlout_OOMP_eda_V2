@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKAMPLIFIERINSTRUMENTATIONAD623BRZ > AD623BRZ
+# SZKAMPLIFIERINSTRUMENTATIONAD623BRZ > Amplifier_Instrumentation : AD623BRZ
 
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Instrumentation-AD623BRZ
 - Hex ID: SZKAMPLIFIERINSTRUMENTATIONAD623BRZ
-- Name: AD623BRZ
-- Description: AD623BRZ
+- Name: Amplifier_Instrumentation : AD623BRZ
+- Description: Amplifier_Instrumentation : AD623BRZ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Instrumentation-AD623BRZ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Instrumentation-AD623BRZ)
 - Short Link: [http://oom.lt/SZKAMPLIFIERINSTRUMENTATIONAD623BRZ](http://oom.lt/SZKAMPLIFIERINSTRUMENTATIONAD623BRZ)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AD623BRZ|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Instrumentation-AD623BRZ|
 |Hex ID (short code)|hexID|SZKAMPLIFIERINSTRUMENTATIONAD623BRZ|
-|name|name|AD623BRZ|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'AD623AR', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AD623BRZ', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/AD623.pdf', 'kicadSymbolki_keywords': 'ad623 instumentation amplifier soic-8', 'kicadSymbolki_description': 'Single Supply, Rail to Rail, Instumentation Amplifier, RoHS, SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC-8*'}]|
+|name|name|Amplifier_Instrumentation : AD623BRZ|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'AD623AR'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'AD623BRZ'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/AD623.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'ad623 instumentation amplifier soic-8'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Single Supply</td><td> Rail to Rail</td><td> Instumentation Amplifier</td><td> RoHS</td><td> SOIC-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC-8*'</td></tr></table>]|
 ||||

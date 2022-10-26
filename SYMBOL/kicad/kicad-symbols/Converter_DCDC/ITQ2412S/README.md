@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKCONITQ2412S > ITQ2412S
+# SZKCONITQ2412S > Converter_DCDC : ITQ2412S
 
 - ID: SYMBOL-kicad-kicad-symbols-Converter_DCDC-ITQ2412S
 - Hex ID: SZKCONITQ2412S
-- Name: ITQ2412S
-- Description: ITQ2412S
+- Name: Converter_DCDC : ITQ2412S
+- Description: Converter_DCDC : ITQ2412S
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-ITQ2412S](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-ITQ2412S)
 - Short Link: [http://oom.lt/SZKCONITQ2412S](http://oom.lt/SZKCONITQ2412S)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ITQ2412S|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Converter_DCDC-ITQ2412S|
 |Hex ID (short code)|hexID|SZKCONITQ2412S|
-|name|name|ITQ2412S|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ITX0505S-R', 'kicadSymbolReference': 'PS', 'kicadSymbolValue': 'ITQ2412S', 'kicadSymbolFootprint': 'Converter_DCDC:Converter_DCDC_XP_POWER-ITxxxxxS_THT', 'kicadSymbolDatasheet': 'https://www.xppower.com/pdfs/SF_ITQ.pdf', 'kicadSymbolki_keywords': 'XP_POWER DC/DC isolated Converter module', 'kicadSymbolki_description': 'XP Power 6W, 1000 VDC Isolated DC/DC Converter Module, Dual Output Voltage ±12V, ±250mA, 24V Input Voltage, SIP', 'kicadSymbolki_fp_filters': '*XP?POWER?ITxxxxx*'}]|
+|name|name|Converter_DCDC : ITQ2412S|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'ITX0505S-R'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'PS'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ITQ2412S'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Converter_DCDC</td></tr><tr><td>Converter_DCDC_XP_POWER-ITxxxxxS_THT'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.xppower.com/pdfs/SF_ITQ.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'XP_POWER DC/DC isolated Converter module'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'XP Power 6W</td><td> 1000 VDC Isolated DC/DC Converter Module</td><td> Dual Output Voltage ±12V</td><td> ±250mA</td><td> 24V Input Voltage</td><td> SIP'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> '*XP?POWER?ITxxxxx*'</td></tr></table>]|
 ||||

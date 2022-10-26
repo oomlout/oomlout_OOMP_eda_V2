@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKPSPICEMPMOS > MPMOS
+# SZKPSPICEMPMOS > pspice : MPMOS
 
 - ID: SYMBOL-kicad-kicad-symbols-pspice-MPMOS
 - Hex ID: SZKPSPICEMPMOS
-- Name: MPMOS
-- Description: MPMOS
+- Name: pspice : MPMOS
+- Description: pspice : MPMOS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-pspice-MPMOS](http://oom.lt/SYMBOL-kicad-kicad-symbols-pspice-MPMOS)
 - Short Link: [http://oom.lt/SZKPSPICEMPMOS](http://oom.lt/SZKPSPICEMPMOS)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MPMOS|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-pspice-MPMOS|
 |Hex ID (short code)|hexID|SZKPSPICEMPMOS|
-|name|name|MPMOS|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'M', 'kicadSymbolValue': 'MPMOS', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'mosfet pmos simulation', 'kicadSymbolki_description': 'P-channel MOSFET symbol for simulation only'}]|
+|name|name|pspice : MPMOS|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'M'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MPMOS'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'mosfet pmos simulation'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'P-channel MOSFET symbol for simulation only'</td></tr></table>]|
 ||||

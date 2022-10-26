@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUMCHIPPIC16PIC16F1459ISO > PIC16F1459-ISO
+# SZKMCUMCHIPPIC16PIC16F1459ISO > MCU_Microchip_PIC16 : PIC16F1459-ISO
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F1459-ISO
 - Hex ID: SZKMCUMCHIPPIC16PIC16F1459ISO
-- Name: PIC16F1459-ISO
-- Description: PIC16F1459-ISO
+- Name: MCU_Microchip_PIC16 : PIC16F1459-ISO
+- Description: MCU_Microchip_PIC16 : PIC16F1459-ISO
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F1459-ISO](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F1459-ISO)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC16PIC16F1459ISO](http://oom.lt/SZKMCUMCHIPPIC16PIC16F1459ISO)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PIC16F1459-ISO|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F1459-ISO|
 |Hex ID (short code)|hexID|SZKMCUMCHIPPIC16PIC16F1459ISO|
-|name|name|PIC16F1459-ISO|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'PIC16F1459-IP', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PIC16F1459-ISO', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_keywords': 'FLASH-Based 8-Bit CMOS Microcontroller Low Power', 'kicadSymbolki_description': 'PIC16F1454, 8192W FLASH, 1024B SRAM, PDIP-20', 'kicadSymbolki_fp_filters': 'DIP* PDIP* SO*'}]|
+|name|name|MCU_Microchip_PIC16 : PIC16F1459-ISO|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'PIC16F1459-IP'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'PIC16F1459-ISO'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'FLASH-Based 8-Bit CMOS Microcontroller Low Power'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'PIC16F1454</td><td> 8192W FLASH</td><td> 1024B SRAM</td><td> PDIP-20'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP* PDIP* SO*'</td></tr></table>]|
 ||||

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Diodes_UDFN-10_1.0x2.5mm_P0.5mm|
 |Hex ID (short code)|hexID|FZKDFNDIODESUDFN11X25P5|
 |name|name|Package_DFN_QFN : Diodes_UDFN-10_1.0x2.5mm_P0.5mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Diodes_UDFN-10_1.0x2.5mm_P0.5mm', 'description': 'U-DFN2510-10 package used by Diodes Incorporated (https://www.diodes.com/assets/Package-Files/U-DFN2510-10-Type-CJ.pdf)', 'tags': 'UDFN-10 U-DFN2510-10 Diodes', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Diodes_UDFN-10_1.0x2.5mm_P0.5mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Diodes_UDFN-10_1.0x2.5mm_P0.5mm'</td><td> 'description'</td></tr><tr><td> 'U-DFN2510-10 package used by Diodes Incorporated (https</td></tr><tr><td>//www.diodes.com/assets/Package-Files/U-DFN2510-10-Type-CJ.pdf)'</td><td> 'tags'</td></tr><tr><td> 'UDFN-10 U-DFN2510-10 Diodes'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DFN_QFN.3dshapes/Diodes_UDFN-10_1.0x2.5mm_P0.5mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

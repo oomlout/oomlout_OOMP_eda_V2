@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector-FanPinHeader_1x04_P2.54mm_Vertical|
 |Hex ID (short code)|hexID|FZKCNFANPINHEADER1X4P254VERTICAL|
 |name|name|Connector : FanPinHeader_1x04_P2.54mm_Vertical|
-|Footprint Kicad|footprintKicadDetails|{'name': 'FanPinHeader_1x04_P2.54mm_Vertical', 'description': '4-pin CPU fan Through hole pin header, e.g. for Wieson part number 2366C888-007 Molex 47053-1000, Foxconn HF27040-M1, Tyco 1470947-1 or equivalent, see http://www.formfactors.org/developer%5Cspecs%5Crev1_2_public.pdf', 'tags': 'pin header 4-pin CPU fan', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector.3dshapes/FanPinHeader_1x04_P2.54mm_Vertical.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'FanPinHeader_1x04_P2.54mm_Vertical'</td><td> 'description'</td></tr><tr><td> '4-pin CPU fan Through hole pin header</td><td> e.g. for Wieson part number 2366C888-007 Molex 47053-1000</td><td> Foxconn HF27040-M1</td><td> Tyco 1470947-1 or equivalent</td><td> see http</td></tr><tr><td>//www.formfactors.org/developer%5Cspecs%5Crev1_2_public.pdf'</td><td> 'tags'</td></tr><tr><td> 'pin header 4-pin CPU fan'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector.3dshapes/FanPinHeader_1x04_P2.54mm_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

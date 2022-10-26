@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDIODEBZV55B6V8 > BZV55B6V8
+# SZKDIODEBZV55B6V8 > Diode : BZV55B6V8
 
 - ID: SYMBOL-kicad-kicad-symbols-Diode-BZV55B6V8
 - Hex ID: SZKDIODEBZV55B6V8
-- Name: BZV55B6V8
-- Description: BZV55B6V8
+- Name: Diode : BZV55B6V8
+- Description: Diode : BZV55B6V8
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BZV55B6V8](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BZV55B6V8)
 - Short Link: [http://oom.lt/SZKDIODEBZV55B6V8](http://oom.lt/SZKDIODEBZV55B6V8)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BZV55B6V8|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-BZV55B6V8|
 |Hex ID (short code)|hexID|SZKDIODEBZV55B6V8|
-|name|name|BZV55B6V8|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ZPYxx', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'BZV55B6V8', 'kicadSymbolFootprint': 'Diode_SMD:D_MiniMELF', 'kicadSymbolDatasheet': 'https://assets.nexperia.com/documents/data-sheet/BZV55_SER.pdf', 'kicadSymbolki_keywords': 'zener diode', 'kicadSymbolki_description': '6.8V, 500mW, 2%, Zener diode, MiniMELF', 'kicadSymbolki_fp_filters': 'D*MiniMELF*'}]|
+|name|name|Diode : BZV55B6V8|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'ZPYxx'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'BZV55B6V8'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Diode_SMD</td></tr><tr><td>D_MiniMELF'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//assets.nexperia.com/documents/data-sheet/BZV55_SER.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'zener diode'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '6.8V</td><td> 500mW</td><td> 2%</td><td> Zener diode</td><td> MiniMELF'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'D*MiniMELF*'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDICHARACTERSA3911SRWA > SA39-11SRWA
+# SZKDICHARACTERSA3911SRWA > Display_Character : SA39-11SRWA
 
 - ID: SYMBOL-kicad-kicad-symbols-Display_Character-SA39-11SRWA
 - Hex ID: SZKDICHARACTERSA3911SRWA
-- Name: SA39-11SRWA
-- Description: SA39-11SRWA
+- Name: Display_Character : SA39-11SRWA
+- Description: Display_Character : SA39-11SRWA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-SA39-11SRWA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-SA39-11SRWA)
 - Short Link: [http://oom.lt/SZKDICHARACTERSA3911SRWA](http://oom.lt/SZKDICHARACTERSA3911SRWA)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SA39-11SRWA|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Display_Character-SA39-11SRWA|
 |Hex ID (short code)|hexID|SZKDICHARACTERSA3911SRWA|
-|name|name|SA39-11SRWA|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'SA39-11EWA', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'SA39-11SRWA', 'kicadSymbolFootprint': 'Display_7Segment:Sx39-1xxxxx', 'kicadSymbolDatasheet': 'http://www.kingbrightusa.com/images/catalog/SPEC/sa39-11srwa.pdf', 'kicadSymbolki_keywords': 'display LED 7-segment', 'kicadSymbolki_description': 'Single digit 7 segment display, super bright red, common anode', 'kicadSymbolki_fp_filters': 'S?39?1*'}]|
+|name|name|Display_Character : SA39-11SRWA|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'SA39-11EWA'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'SA39-11SRWA'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Display_7Segment</td></tr><tr><td>Sx39-1xxxxx'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.kingbrightusa.com/images/catalog/SPEC/sa39-11srwa.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'display LED 7-segment'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Single digit 7 segment display</td><td> super bright red</td><td> common anode'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'S?39?1*'</td></tr></table>]|
 ||||

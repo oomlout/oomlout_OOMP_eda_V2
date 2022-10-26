@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Inductor_13R106C|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSINDUCTOR13R16C|
 |name|name|digikey-footprints : Inductor_13R106C|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Inductor_13R106C', 'description': 'http://www.murata-ps.com/data/magnetics/kmp_1300r.pdf', 'tags': None, 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Inductor_13R106C'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//www.murata-ps.com/data/magnetics/kmp_1300r.pdf'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

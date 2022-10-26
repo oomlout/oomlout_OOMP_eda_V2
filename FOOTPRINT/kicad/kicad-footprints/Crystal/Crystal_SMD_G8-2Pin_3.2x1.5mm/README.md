@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_G8-2Pin_3.2x1.5mm|
 |Hex ID (short code)|hexID|FZKXXSMG82PIN32X15|
 |name|name|Crystal : Crystal_SMD_G8-2Pin_3.2x1.5mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Crystal_SMD_G8-2Pin_3.2x1.5mm', 'description': 'SMD Crystal G8, 3.2x1.5mm^2 package', 'tags': 'SMD SMT crystal', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Crystal_SMD_G8-2Pin_3.2x1.5mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Crystal_SMD_G8-2Pin_3.2x1.5mm'</td><td> 'description'</td></tr><tr><td> 'SMD Crystal G8</td><td> 3.2x1.5mm^2 package'</td><td> 'tags'</td></tr><tr><td> 'SMD SMT crystal'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Crystal.3dshapes/Crystal_SMD_G8-2Pin_3.2x1.5mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

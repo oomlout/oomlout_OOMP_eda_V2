@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESEW4XO1521R4152 > RESE-W04-X-O152-01-R4152
+# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESEW4XO1521R4152 > oomlout_OOMP_parts : RESE-W04-X-O152-01-R4152
 
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-W04-X-O152-01-R4152
 - Hex ID: SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESEW4XO1521R4152
-- Name: RESE-W04-X-O152-01-R4152
-- Description: RESE-W04-X-O152-01-R4152
+- Name: oomlout_OOMP_parts : RESE-W04-X-O152-01-R4152
+- Description: oomlout_OOMP_parts : RESE-W04-X-O152-01-R4152
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-W04-X-O152-01-R4152](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-W04-X-O152-01-R4152)
 - Short Link: [http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESEW4XO1521R4152](http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESEW4XO1521R4152)
   
@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|RESE-W04-X-O152-01-R4152|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-W04-X-O152-01-R4152|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESEW4XO1521R4152|
-|name|name|RESE-W04-X-O152-01-R4152|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'R', 'kicadSymbolValue': 'RESE-W04-X-O152-01-R4152', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:RESE-W04-X-O152-01-R4152', 'kicadSymbolDatasheet': 'oom.lt/R4152', 'kicadSymbolki_keywords': 'R res resistor', 'kicadSymbolki_description': 'hexID: R4152;Resistor', 'kicadSymbolki_fp_filters': 'R_*'}]|
+|name|name|oomlout_OOMP_parts : RESE-W04-X-O152-01-R4152|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'R'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'RESE-W04-X-O152-01-R4152'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'oomlout_OOMP_parts</td></tr><tr><td>RESE-W04-X-O152-01-R4152'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'oom.lt/R4152'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'R res resistor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'hexID</td></tr><tr><td> R4152;Resistor'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'R_*'</td></tr></table>]|
 ||||

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_MeanWell_NID30_THT|
 |Hex ID (short code)|hexID|FZKCONCONMEANWELLNID3THT|
 |name|name|Converter_DCDC : Converter_DCDC_MeanWell_NID30_THT|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Converter_DCDC_MeanWell_NID30_THT', 'description': 'Meanwell DCDC non-isolated converter SIP module, http://www.meanwell.com/webapp/product/search.aspx?prod=nid30', 'tags': 'DCDC non-isolated converter ', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Converter_DCDC.3dshapes/Converter_DCDC_MeanWell_NID30_THT.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Converter_DCDC_MeanWell_NID30_THT'</td><td> 'description'</td></tr><tr><td> 'Meanwell DCDC non-isolated converter SIP module</td><td> http</td></tr><tr><td>//www.meanwell.com/webapp/product/search.aspx?prod=nid30'</td><td> 'tags'</td></tr><tr><td> 'DCDC non-isolated converter '</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Converter_DCDC.3dshapes/Converter_DCDC_MeanWell_NID30_THT.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

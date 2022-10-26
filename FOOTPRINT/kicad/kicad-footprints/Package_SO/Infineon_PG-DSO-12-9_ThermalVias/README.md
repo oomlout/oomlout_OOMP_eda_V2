@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SO-Infineon_PG-DSO-12-9_ThermalVias|
 |Hex ID (short code)|hexID|FZKSOINFINEONPGDSO129THERMALVIAS|
 |name|name|Package_SO : Infineon_PG-DSO-12-9_ThermalVias|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Infineon_PG-DSO-12-9_ThermalVias', 'description': 'Infineon PG-DSO 12 pin, exposed pad: 4.5x8.1mm, with thermal vias (https://www.infineon.com/cms/en/product/packages/PG-DSO/PG-DSO-12-9/)', 'tags': 'PG-DSO', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/Infineon_PG-DSO-12-9.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Infineon_PG-DSO-12-9_ThermalVias'</td><td> 'description'</td></tr><tr><td> 'Infineon PG-DSO 12 pin</td><td> exposed pad</td></tr><tr><td> 4.5x8.1mm</td><td> with thermal vias (https</td></tr><tr><td>//www.infineon.com/cms/en/product/packages/PG-DSO/PG-DSO-12-9/)'</td><td> 'tags'</td></tr><tr><td> 'PG-DSO'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_SO.3dshapes/Infineon_PG-DSO-12-9.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

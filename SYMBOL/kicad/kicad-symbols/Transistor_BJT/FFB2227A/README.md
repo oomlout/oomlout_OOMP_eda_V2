@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORBJTFFB2227A > FFB2227A
+# SZKTRANSISTORBJTFFB2227A > Transistor_BJT : FFB2227A
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-FFB2227A
 - Hex ID: SZKTRANSISTORBJTFFB2227A
-- Name: FFB2227A
-- Description: FFB2227A
+- Name: Transistor_BJT : FFB2227A
+- Description: Transistor_BJT : FFB2227A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-FFB2227A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-FFB2227A)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTFFB2227A](http://oom.lt/SZKTRANSISTORBJTFFB2227A)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|FFB2227A|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_BJT-FFB2227A|
 |Hex ID (short code)|hexID|SZKTRANSISTORBJTFFB2227A|
-|name|name|FFB2227A|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BC846BPN', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'FFB2227A', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-363_SC-70-6', 'kicadSymbolDatasheet': 'http://www.onsemi.com/pub/Collateral/FMB2227A-D.PDF', 'kicadSymbolki_keywords': 'NPN/PNP Transistor', 'kicadSymbolki_description': '500mA IC, 30V Vce, Dual NPN/PNP Transistors, SC-70-6', 'kicadSymbolki_fp_filters': 'SOT?363*'}]|
+|name|name|Transistor_BJT : FFB2227A|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'BC846BPN'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'FFB2227A'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-363_SC-70-6'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.onsemi.com/pub/Collateral/FMB2227A-D.PDF'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'NPN/PNP Transistor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '500mA IC</td><td> 30V Vce</td><td> Dual NPN/PNP Transistors</td><td> SC-70-6'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?363*'</td></tr></table>]|
 ||||

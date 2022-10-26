@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC63XUF1V63DC6U1V63D > CAPC-0603-X-UF10-V63D-C6U010V63D
+# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC63XUF1V63DC6U1V63D > oomlout_OOMP_parts : CAPC-0603-X-UF10-V63D-C6U010V63D
 
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0603-X-UF10-V63D-C6U010V63D
 - Hex ID: SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC63XUF1V63DC6U1V63D
-- Name: CAPC-0603-X-UF10-V63D-C6U010V63D
-- Description: CAPC-0603-X-UF10-V63D-C6U010V63D
+- Name: oomlout_OOMP_parts : CAPC-0603-X-UF10-V63D-C6U010V63D
+- Description: oomlout_OOMP_parts : CAPC-0603-X-UF10-V63D-C6U010V63D
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0603-X-UF10-V63D-C6U010V63D](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0603-X-UF10-V63D-C6U010V63D)
 - Short Link: [http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC63XUF1V63DC6U1V63D](http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC63XUF1V63DC6U1V63D)
   
@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|CAPC-0603-X-UF10-V63D-C6U010V63D|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0603-X-UF10-V63D-C6U010V63D|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC63XUF1V63DC6U1V63D|
-|name|name|CAPC-0603-X-UF10-V63D-C6U010V63D|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'C', 'kicadSymbolValue': 'CAPC-0603-X-UF10-V63D-C6U010V63D', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:CAPC-0603-X-UF10-V63D-C6U010V63D', 'kicadSymbolDatasheet': 'oom.lt/C6U010V63D', 'kicadSymbolki_keywords': 'cap capacitor', 'kicadSymbolki_description': 'hexID: C6U010V63D;Unpolarized capacitor', 'kicadSymbolki_fp_filters': 'C_*'}]|
+|name|name|oomlout_OOMP_parts : CAPC-0603-X-UF10-V63D-C6U010V63D|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'C'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'CAPC-0603-X-UF10-V63D-C6U010V63D'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'oomlout_OOMP_parts</td></tr><tr><td>CAPC-0603-X-UF10-V63D-C6U010V63D'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'oom.lt/C6U010V63D'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'cap capacitor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'hexID</td></tr><tr><td> C6U010V63D;Unpolarized capacitor'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'C_*'</td></tr></table>]|
 ||||

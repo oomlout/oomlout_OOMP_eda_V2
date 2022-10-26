@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-PinHeader_2x5_P2.54mm_Drill1.2mm|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSPINHEADER2X5P254DRILL12|
 |name|name|digikey-footprints : PinHeader_2x5_P2.54mm_Drill1.2mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'PinHeader_2x5_P2.54mm_Drill1.2mm', 'description': 'http://www.on-shore.com/wp-content/uploads/2015/09/302-sxxx.pdf', 'tags': None, 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'PinHeader_2x5_P2.54mm_Drill1.2mm'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//www.on-shore.com/wp-content/uploads/2015/09/302-sxxx.pdf'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

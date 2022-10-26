@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKPOWER+1V5 > +1V5
+# SZKPOWER+1V5 > power : +1V5
 
 - ID: SYMBOL-kicad-kicad-symbols-power-+1V5
 - Hex ID: SZKPOWER+1V5
-- Name: +1V5
-- Description: +1V5
+- Name: power : +1V5
+- Description: power : +1V5
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-power-+1V5](http://oom.lt/SYMBOL-kicad-kicad-symbols-power-+1V5)
 - Short Link: [http://oom.lt/SZKPOWER+1V5](http://oom.lt/SZKPOWER+1V5)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|+1V5|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-power-+1V5|
 |Hex ID (short code)|hexID|SZKPOWER+1V5|
-|name|name|+1V5|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': '#PWR', 'kicadSymbolValue': '+1V5', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_keywords': 'power-flag', 'kicadSymbolki_description': 'Power symbol creates a global label with name "+1V5"'}]|
+|name|name|power : +1V5|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> '#PWR'</td><td> 'kicadSymbolValue'</td></tr><tr><td> '+1V5'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'power-flag'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Power symbol creates a global label with name "+1V5"'</td></tr></table>]|
 ||||

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_CommonMode_VAC_T60405-S6123-X140|
 |Hex ID (short code)|hexID|FZKINLCOONMODEVACT645S6123X14|
 |name|name|Inductor_THT : L_CommonMode_VAC_T60405-S6123-X140|
-|Footprint Kicad|footprintKicadDetails|{'name': 'L_CommonMode_VAC_T60405-S6123-X140', 'description': '3 Phase, CM Choke, https://vacuumschmelze.com/03_Documents/Datasheets%20-%20Drawings/Commom-Mode-Chokes/6123-X140.pdf', 'tags': 'common mode filter', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_THT.3dshapes/L_CommonMode_VAC_T60405-S6123-X140.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'L_CommonMode_VAC_T60405-S6123-X140'</td><td> 'description'</td></tr><tr><td> '3 Phase</td><td> CM Choke</td><td> https</td></tr><tr><td>//vacuumschmelze.com/03_Documents/Datasheets%20-%20Drawings/Commom-Mode-Chokes/6123-X140.pdf'</td><td> 'tags'</td></tr><tr><td> 'common mode filter'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Inductor_THT.3dshapes/L_CommonMode_VAC_T60405-S6123-X140.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

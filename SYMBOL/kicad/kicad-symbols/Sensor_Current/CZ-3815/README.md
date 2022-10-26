@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKSENCURRENTCZ3815 > CZ-3815
+# SZKSENCURRENTCZ3815 > Sensor_Current : CZ-3815
 
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Current-CZ-3815
 - Hex ID: SZKSENCURRENTCZ3815
-- Name: CZ-3815
-- Description: CZ-3815
+- Name: Sensor_Current : CZ-3815
+- Description: Sensor_Current : CZ-3815
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-CZ-3815](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-CZ-3815)
 - Short Link: [http://oom.lt/SZKSENCURRENTCZ3815](http://oom.lt/SZKSENCURRENTCZ3815)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|CZ-3815|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Current-CZ-3815|
 |Hex ID (short code)|hexID|SZKSENCURRENTCZ3815|
-|name|name|CZ-3815|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'CZ-3813', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'CZ-3815', 'kicadSymbolFootprint': 'Sensor_Current:AKM_CZ_SSOP-10_6.5x8.1mm_P0.95mm', 'kicadSymbolDatasheet': 'http://www.akm.com/akm/en/file/datasheet/CZ-3815.pdf', 'kicadSymbolki_keywords': 'hall effect current sensor', 'kicadSymbolki_description': 'Coreless Current Sensor, Bidirectional, -60.0A to +60.0A, 33mV/A, VSOP-24', 'kicadSymbolki_fp_filters': 'AKM*CZ*SSOP*6.5x8.1mm*P0.95mm*'}]|
+|name|name|Sensor_Current : CZ-3815|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'CZ-3813'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'CZ-3815'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Sensor_Current</td></tr><tr><td>AKM_CZ_SSOP-10_6.5x8.1mm_P0.95mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.akm.com/akm/en/file/datasheet/CZ-3815.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'hall effect current sensor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Coreless Current Sensor</td><td> Bidirectional</td><td> -60.0A to +60.0A</td><td> 33mV/A</td><td> VSOP-24'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'AKM*CZ*SSOP*6.5x8.1mm*P0.95mm*'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKOCSSI512A25X32 > Si512A_2.5x3.2mm
+# SZKOCSSI512A25X32 > Oscillator : Si512A_2.5x3.2mm
 
 - ID: SYMBOL-kicad-kicad-symbols-Oscillator-Si512A_2.5x3.2mm
 - Hex ID: SZKOCSSI512A25X32
-- Name: Si512A_2.5x3.2mm
-- Description: Si512A_2.5x3.2mm
+- Name: Oscillator : Si512A_2.5x3.2mm
+- Description: Oscillator : Si512A_2.5x3.2mm
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-Si512A_2.5x3.2mm](http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-Si512A_2.5x3.2mm)
 - Short Link: [http://oom.lt/SZKOCSSI512A25X32](http://oom.lt/SZKOCSSI512A25X32)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Si512A_2.5x3.2mm|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Oscillator-Si512A_2.5x3.2mm|
 |Hex ID (short code)|hexID|SZKOCSSI512A25X32|
-|name|name|Si512A_2.5x3.2mm|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'Si512A_2.5x3.2mm', 'kicadSymbolFootprint': 'Oscillator:Oscillator_SMD_Silicon_Labs_LGA-6_2.5x3.2mm_P1.25mm', 'kicadSymbolDatasheet': 'https://www.silabs.com/documents/public/data-sheets/si512-13.pdf', 'kicadSymbolki_keywords': 'Dual frequency crystal oscillator', 'kicadSymbolki_description': 'Dual frequency crystal oscillator (XO) 100 kHz to 250 MHz, Single-ended CMOS output', 'kicadSymbolki_fp_filters': 'Oscillator*SMD*Silicon*Labs*LGA*2.5x3.2mm*P1.25mm*'}]|
+|name|name|Oscillator : Si512A_2.5x3.2mm|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Si512A_2.5x3.2mm'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Oscillator</td></tr><tr><td>Oscillator_SMD_Silicon_Labs_LGA-6_2.5x3.2mm_P1.25mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.silabs.com/documents/public/data-sheets/si512-13.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Dual frequency crystal oscillator'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Dual frequency crystal oscillator (XO) 100 kHz to 250 MHz</td><td> Single-ended CMOS output'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Oscillator*SMD*Silicon*Labs*LGA*2.5x3.2mm*P1.25mm*'</td></tr></table>]|
 ||||

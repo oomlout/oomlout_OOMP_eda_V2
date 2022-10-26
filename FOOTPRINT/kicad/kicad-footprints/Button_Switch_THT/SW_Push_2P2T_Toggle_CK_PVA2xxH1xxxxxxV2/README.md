@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_Push_2P2T_Toggle_CK_PVA2xxH1xxxxxxV2|
 |Hex ID (short code)|hexID|FZKBSWPUSH2P2TTOGGLECKPVA2XXH1XXXXXXV2|
 |name|name|Button_Switch_THT : SW_Push_2P2T_Toggle_CK_PVA2xxH1xxxxxxV2|
-|Footprint Kicad|footprintKicadDetails|{'name': 'SW_Push_2P2T_Toggle_CK_PVA2xxH1xxxxxxV2', 'description': 'momentary / push-push button, h=17.5mm C&K PVA2 https://www.ckswitches.com/media/1343/pva.pdf', 'tags': 'tact sw push PVA2 DPDT', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_Push_2P2T_Toggle_CK_PVA2xxH1xxxxxxV2.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SW_Push_2P2T_Toggle_CK_PVA2xxH1xxxxxxV2'</td><td> 'description'</td></tr><tr><td> 'momentary / push-push button</td><td> h=17.5mm C&K PVA2 https</td></tr><tr><td>//www.ckswitches.com/media/1343/pva.pdf'</td><td> 'tags'</td></tr><tr><td> 'tact sw push PVA2 DPDT'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Button_Switch_THT.3dshapes/SW_Push_2P2T_Toggle_CK_PVA2xxH1xxxxxxV2.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

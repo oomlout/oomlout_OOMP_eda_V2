@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORLINEARMC79L15SO8 > MC79L15_SO8
+# SZKREGULATORLINEARMC79L15SO8 > Regulator_Linear : MC79L15_SO8
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-MC79L15_SO8
 - Hex ID: SZKREGULATORLINEARMC79L15SO8
-- Name: MC79L15_SO8
-- Description: MC79L15_SO8
+- Name: Regulator_Linear : MC79L15_SO8
+- Description: Regulator_Linear : MC79L15_SO8
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-MC79L15_SO8](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-MC79L15_SO8)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARMC79L15SO8](http://oom.lt/SZKREGULATORLINEARMC79L15SO8)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MC79L15_SO8|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-MC79L15_SO8|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARMC79L15SO8|
-|name|name|MC79L15_SO8|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MC79L05_SO8', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MC79L15_SO8', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lm79l.pdf', 'kicadSymbolki_keywords': 'Voltage Regulator 100mA Negative', 'kicadSymbolki_description': 'Negative 100mA -35V Linear Regulator, Fixed Output -15V, SO-8', 'kicadSymbolki_fp_filters': 'SOIC?8*3.9x4.9mm*P1.27mm*'}]|
+|name|name|Regulator_Linear : MC79L15_SO8|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'MC79L05_SO8'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MC79L15_SO8'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-8_3.9x4.9mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/lm79l.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Voltage Regulator 100mA Negative'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Negative 100mA -35V Linear Regulator</td><td> Fixed Output -15V</td><td> SO-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC?8*3.9x4.9mm*P1.27mm*'</td></tr></table>]|
 ||||

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_CSP-ST_WLCSP-168_Die434|
 |Hex ID (short code)|hexID|FZKCSPSTWLCSP168DIE434|
 |name|name|Package_CSP : ST_WLCSP-168_Die434|
-|Footprint Kicad|footprintKicadDetails|{'name': 'ST_WLCSP-168_Die434', 'description': 'WLCSP-168, 12x14 raster, 4.891x5.692mm package, pitch 0.4mm; see section 6.3 of http://www.st.com/resource/en/datasheet/stm32f469ni.pdf', 'tags': 'BGA 168 0.4', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_CSP.3dshapes/ST_WLCSP-168_Die434.wrl', 'pins': {'type': 'smd', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'ST_WLCSP-168_Die434'</td><td> 'description'</td></tr><tr><td> 'WLCSP-168</td><td> 12x14 raster</td><td> 4.891x5.692mm package</td><td> pitch 0.4mm; see section 6.3 of http</td></tr><tr><td>//www.st.com/resource/en/datasheet/stm32f469ni.pdf'</td><td> 'tags'</td></tr><tr><td> 'BGA 168 0.4'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_CSP.3dshapes/ST_WLCSP-168_Die434.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

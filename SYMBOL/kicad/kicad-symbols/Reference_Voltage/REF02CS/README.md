@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREFERENCEVOLTAGEREF2CS > REF02CS
+# SZKREFERENCEVOLTAGEREF2CS > Reference_Voltage : REF02CS
 
 - ID: SYMBOL-kicad-kicad-symbols-Reference_Voltage-REF02CS
 - Hex ID: SZKREFERENCEVOLTAGEREF2CS
-- Name: REF02CS
-- Description: REF02CS
+- Name: Reference_Voltage : REF02CS
+- Description: Reference_Voltage : REF02CS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-REF02CS](http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-REF02CS)
 - Short Link: [http://oom.lt/SZKREFERENCEVOLTAGEREF2CS](http://oom.lt/SZKREFERENCEVOLTAGEREF2CS)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|REF02CS|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Reference_Voltage-REF02CS|
 |Hex ID (short code)|hexID|SZKREFERENCEVOLTAGEREF2CS|
-|name|name|REF02CS|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'REF02AU', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'REF02CS', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/REF01_02_03.pdf', 'kicadSymbolki_keywords': 'Precision Voltage Reference 5V', 'kicadSymbolki_description': '5V ±50mV Precision Voltage Reference, SO-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm*'}]|
+|name|name|Reference_Voltage : REF02CS|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'REF02AU'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'REF02CS'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-8_3.9x4.9mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/REF01_02_03.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Precision Voltage Reference 5V'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '5V ±50mV Precision Voltage Reference</td><td> SO-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*3.9x4.9mm*P1.27mm*'</td></tr></table>]|
 ||||

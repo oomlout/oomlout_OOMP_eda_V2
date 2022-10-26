@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_Abracon_ABM7-2Pin_6.0x3.5mm|
 |Hex ID (short code)|hexID|FZKXXSMABRACONABM72PIN6X35|
 |name|name|Crystal : Crystal_SMD_Abracon_ABM7-2Pin_6.0x3.5mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Crystal_SMD_Abracon_ABM7-2Pin_6.0x3.5mm', 'description': 'SMD Crystal Abracon ABM7, https://abracon.com/Resonators/abm7.pdf', 'tags': 'SMD SMT crystal', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Crystal_SMD_Abracon_ABM7-2Pin_6.0x3.5mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Crystal_SMD_Abracon_ABM7-2Pin_6.0x3.5mm'</td><td> 'description'</td></tr><tr><td> 'SMD Crystal Abracon ABM7</td><td> https</td></tr><tr><td>//abracon.com/Resonators/abm7.pdf'</td><td> 'tags'</td></tr><tr><td> 'SMD SMT crystal'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Crystal.3dshapes/Crystal_SMD_Abracon_ABM7-2Pin_6.0x3.5mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

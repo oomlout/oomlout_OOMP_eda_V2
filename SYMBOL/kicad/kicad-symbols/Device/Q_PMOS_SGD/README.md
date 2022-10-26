@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDEVICEQPMOSSGD > Q_PMOS_SGD
+# SZKDEVICEQPMOSSGD > Device : Q_PMOS_SGD
 
 - ID: SYMBOL-kicad-kicad-symbols-Device-Q_PMOS_SGD
 - Hex ID: SZKDEVICEQPMOSSGD
-- Name: Q_PMOS_SGD
-- Description: Q_PMOS_SGD
+- Name: Device : Q_PMOS_SGD
+- Description: Device : Q_PMOS_SGD
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Q_PMOS_SGD](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Q_PMOS_SGD)
 - Short Link: [http://oom.lt/SZKDEVICEQPMOSSGD](http://oom.lt/SZKDEVICEQPMOSSGD)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Q_PMOS_SGD|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-Q_PMOS_SGD|
 |Hex ID (short code)|hexID|SZKDEVICEQPMOSSGD|
-|name|name|Q_PMOS_SGD|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'Q_PMOS_SGD', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'transistor PMOS P-MOS P-MOSFET', 'kicadSymbolki_description': 'P-MOSFET transistor, source/gate/drain'}]|
+|name|name|Device : Q_PMOS_SGD|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Q_PMOS_SGD'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'transistor PMOS P-MOS P-MOSFET'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'P-MOSFET transistor</td><td> source/gate/drain'</td></tr></table>]|
 ||||

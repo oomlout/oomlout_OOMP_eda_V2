@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Alps_RK097_Dual_Horizontal_Switch|
 |Hex ID (short code)|hexID|FZKPPOTENTIOMETERALPSRK97DUALHORIZONTALSWITCH|
 |name|name|Potentiometer_THT : Potentiometer_Alps_RK097_Dual_Horizontal_Switch|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Potentiometer_Alps_RK097_Dual_Horizontal_Switch', 'description': '1221-5R1211, Dual Pot, Horizontal, Switch, Alps RK097 Dual, https://tech.alpsalpine.com/prod/e/pdf/potentiometer/rotarypotentiometers/rk097/rk097.pdf', 'tags': 'Potentiometer horizontal Alps RK097 Dual Switch', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Potentiometer_THT.3dshapes/Potentiometer_Alps_RK097_Dual_Horizontal_Switch.wrl', 'pins': {'type': 'thru_hole', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Potentiometer_Alps_RK097_Dual_Horizontal_Switch'</td><td> 'description'</td></tr><tr><td> '1221-5R1211</td><td> Dual Pot</td><td> Horizontal</td><td> Switch</td><td> Alps RK097 Dual</td><td> https</td></tr><tr><td>//tech.alpsalpine.com/prod/e/pdf/potentiometer/rotarypotentiometers/rk097/rk097.pdf'</td><td> 'tags'</td></tr><tr><td> 'Potentiometer horizontal Alps RK097 Dual Switch'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Potentiometer_THT.3dshapes/Potentiometer_Alps_RK097_Dual_Horizontal_Switch.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

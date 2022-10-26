@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKAMPLIFIEROPERATIONALMCP6L4XST > MCP6L04-xST
+# SZKAMPLIFIEROPERATIONALMCP6L4XST > Amplifier_Operational : MCP6L04-xST
 
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-MCP6L04-xST
 - Hex ID: SZKAMPLIFIEROPERATIONALMCP6L4XST
-- Name: MCP6L04-xST
-- Description: MCP6L04-xST
+- Name: Amplifier_Operational : MCP6L04-xST
+- Description: Amplifier_Operational : MCP6L04-xST
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-MCP6L04-xST](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-MCP6L04-xST)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALMCP6L4XST](http://oom.lt/SZKAMPLIFIEROPERATIONALMCP6L4XST)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MCP6L04-xST|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Operational-MCP6L04-xST|
 |Hex ID (short code)|hexID|SZKAMPLIFIEROPERATIONALMCP6L4XST|
-|name|name|MCP6L04-xST|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'OPA4197xPW', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MCP6L04-xST', 'kicadSymbolFootprint': 'Package_SO:TSSOP-14_4.4x5mm_P0.65mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/devicedoc/22140b.pdf', 'kicadSymbolki_keywords': 'opamp vfa r2r rtr', 'kicadSymbolki_description': 'Quad, 1 MHz, 85µA, Rail-to-Rail input and output, TSSOP-14', 'kicadSymbolki_fp_filters': 'TSSOP*4.4x5mm*P0.65mm*'}]|
+|name|name|Amplifier_Operational : MCP6L04-xST|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'OPA4197xPW'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MCP6L04-xST'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>TSSOP-14_4.4x5mm_P0.65mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/devicedoc/22140b.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'opamp vfa r2r rtr'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Quad</td><td> 1 MHz</td><td> 85µA</td><td> Rail-to-Rail input and output</td><td> TSSOP-14'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TSSOP*4.4x5mm*P0.65mm*'</td></tr></table>]|
 ||||

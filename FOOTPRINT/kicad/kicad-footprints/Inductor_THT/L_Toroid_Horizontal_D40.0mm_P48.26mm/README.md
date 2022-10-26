@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Toroid_Horizontal_D40.0mm_P48.26mm|
 |Hex ID (short code)|hexID|FZKINLTOROIDHORIZONTALD4P4826|
 |name|name|Inductor_THT : L_Toroid_Horizontal_D40.0mm_P48.26mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'L_Toroid_Horizontal_D40.0mm_P48.26mm', 'description': 'L_Toroid, Horizontal series, Radial, pin pitch=48.26mm, , diameter=40mm', 'tags': 'L_Toroid Horizontal series Radial pin pitch 48.26mm  diameter 40mm', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Toroid_Horizontal_D40.0mm_P48.26mm.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'L_Toroid_Horizontal_D40.0mm_P48.26mm'</td><td> 'description'</td></tr><tr><td> 'L_Toroid</td><td> Horizontal series</td><td> Radial</td><td> pin pitch=48.26mm</td><td> </td><td> diameter=40mm'</td><td> 'tags'</td></tr><tr><td> 'L_Toroid Horizontal series Radial pin pitch 48.26mm  diameter 40mm'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Inductor_THT.3dshapes/L_Toroid_Horizontal_D40.0mm_P48.26mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

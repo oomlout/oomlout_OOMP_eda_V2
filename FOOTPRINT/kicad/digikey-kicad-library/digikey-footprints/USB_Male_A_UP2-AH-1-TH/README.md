@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-USB_Male_A_UP2-AH-1-TH|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSUMALEAUP2AH1TH|
 |name|name|digikey-footprints : USB_Male_A_UP2-AH-1-TH|
-|Footprint Kicad|footprintKicadDetails|{'name': 'USB_Male_A_UP2-AH-1-TH', 'description': 'http://www.cui.com/product/resource/up2-ah-th.pdf', 'tags': None, 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'oval'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'USB_Male_A_UP2-AH-1-TH'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//www.cui.com/product/resource/up2-ah-th.pdf'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'oval'</td></tr></table></td></tr></table>|
 ||||
 
 

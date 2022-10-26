@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMEMORYRAMIDT7132 > IDT7132
+# SZKMEMORYRAMIDT7132 > Memory_RAM : IDT7132
 
 - ID: SYMBOL-kicad-kicad-symbols-Memory_RAM-IDT7132
 - Hex ID: SZKMEMORYRAMIDT7132
-- Name: IDT7132
-- Description: IDT7132
+- Name: Memory_RAM : IDT7132
+- Description: Memory_RAM : IDT7132
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_RAM-IDT7132](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_RAM-IDT7132)
 - Short Link: [http://oom.lt/SZKMEMORYRAMIDT7132](http://oom.lt/SZKMEMORYRAMIDT7132)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IDT7132|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Memory_RAM-IDT7132|
 |Hex ID (short code)|hexID|SZKMEMORYRAMIDT7132|
-|name|name|IDT7132|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'IDT7132', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ''}]|
+|name|name|Memory_RAM : IDT7132|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'IDT7132'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> ''</td></tr></table>]|
 ||||

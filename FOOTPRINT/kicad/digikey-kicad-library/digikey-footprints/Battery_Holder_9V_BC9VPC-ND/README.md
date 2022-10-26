@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Battery_Holder_9V_BC9VPC-ND|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSBATHOLDER9VBC9VPCND|
 |name|name|digikey-footprints : Battery_Holder_9V_BC9VPC-ND|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Battery_Holder_9V_BC9VPC-ND', 'description': 'http://www.memoryprotectiondevices.com/datasheets/BC9VPC-datasheet.pdf', 'tags': None, 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'oval'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Battery_Holder_9V_BC9VPC-ND'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//www.memoryprotectiondevices.com/datasheets/BC9VPC-datasheet.pdf'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'oval'</td></tr></table></td></tr></table>|
 ||||
 
 

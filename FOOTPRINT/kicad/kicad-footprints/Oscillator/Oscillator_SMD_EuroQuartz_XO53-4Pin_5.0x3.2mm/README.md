@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_EuroQuartz_XO53-4Pin_5.0x3.2mm|
 |Hex ID (short code)|hexID|FZKOCSOCSSMEUROQUARTZXO534PIN5X32|
 |name|name|Oscillator : Oscillator_SMD_EuroQuartz_XO53-4Pin_5.0x3.2mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Oscillator_SMD_EuroQuartz_XO53-4Pin_5.0x3.2mm', 'description': 'Miniature Crystal Clock Oscillator EuroQuartz XO53 series, http://cdn-reichelt.de/documents/datenblatt/B400/XO53.pdf, 5.0x3.2mm^2 package', 'tags': 'SMD SMT crystal oscillator', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Oscillator.3dshapes/Oscillator_SMD_EuroQuartz_XO53-4Pin_5.0x3.2mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Oscillator_SMD_EuroQuartz_XO53-4Pin_5.0x3.2mm'</td><td> 'description'</td></tr><tr><td> 'Miniature Crystal Clock Oscillator EuroQuartz XO53 series</td><td> http</td></tr><tr><td>//cdn-reichelt.de/documents/datenblatt/B400/XO53.pdf</td><td> 5.0x3.2mm^2 package'</td><td> 'tags'</td></tr><tr><td> 'SMD SMT crystal oscillator'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Oscillator.3dshapes/Oscillator_SMD_EuroQuartz_XO53-4Pin_5.0x3.2mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

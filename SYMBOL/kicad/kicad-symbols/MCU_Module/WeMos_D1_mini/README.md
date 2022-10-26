@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUMOWEMOSD1M > WeMos_D1_mini
+# SZKMCUMOWEMOSD1M > MCU_Module : WeMos_D1_mini
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Module-WeMos_D1_mini
 - Hex ID: SZKMCUMOWEMOSD1M
-- Name: WeMos_D1_mini
-- Description: WeMos_D1_mini
+- Name: MCU_Module : WeMos_D1_mini
+- Description: MCU_Module : WeMos_D1_mini
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Module-WeMos_D1_mini](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Module-WeMos_D1_mini)
 - Short Link: [http://oom.lt/SZKMCUMOWEMOSD1M](http://oom.lt/SZKMCUMOWEMOSD1M)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|WeMos_D1_mini|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Module-WeMos_D1_mini|
 |Hex ID (short code)|hexID|SZKMCUMOWEMOSD1M|
-|name|name|WeMos_D1_mini|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'WeMos_D1_mini', 'kicadSymbolFootprint': 'Module:WEMOS_D1_mini_light', 'kicadSymbolDatasheet': 'https://wiki.wemos.cc/products:d1:d1_mini#documentation', 'kicadSymbolki_keywords': 'ESP8266 WiFi microcontroller ESP8266EX', 'kicadSymbolki_description': '32-bit microcontroller module with WiFi', 'kicadSymbolki_fp_filters': 'WEMOS*D1*mini*'}]|
+|name|name|MCU_Module : WeMos_D1_mini|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'WeMos_D1_mini'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Module</td></tr><tr><td>WEMOS_D1_mini_light'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//wiki.wemos.cc/products</td></tr><tr><td>d1</td></tr><tr><td>d1_mini#documentation'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'ESP8266 WiFi microcontroller ESP8266EX'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '32-bit microcontroller module with WiFi'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'WEMOS*D1*mini*'</td></tr></table>]|
 ||||

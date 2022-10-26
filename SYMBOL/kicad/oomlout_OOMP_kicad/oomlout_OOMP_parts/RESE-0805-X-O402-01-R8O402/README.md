@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE85XO421R8O42 > RESE-0805-X-O402-01-R8O402
+# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE85XO421R8O42 > oomlout_OOMP_parts : RESE-0805-X-O402-01-R8O402
 
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O402-01-R8O402
 - Hex ID: SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE85XO421R8O42
-- Name: RESE-0805-X-O402-01-R8O402
-- Description: RESE-0805-X-O402-01-R8O402
+- Name: oomlout_OOMP_parts : RESE-0805-X-O402-01-R8O402
+- Description: oomlout_OOMP_parts : RESE-0805-X-O402-01-R8O402
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O402-01-R8O402](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O402-01-R8O402)
 - Short Link: [http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE85XO421R8O42](http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE85XO421R8O42)
   
@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|RESE-0805-X-O402-01-R8O402|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O402-01-R8O402|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE85XO421R8O42|
-|name|name|RESE-0805-X-O402-01-R8O402|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'R', 'kicadSymbolValue': 'RESE-0805-X-O402-01-R8O402', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:RESE-0805-X-O402-01-R8O402', 'kicadSymbolDatasheet': 'oom.lt/R8O402', 'kicadSymbolki_keywords': 'R res resistor', 'kicadSymbolki_description': 'hexID: R8O402;PARTL C-JLCC;C17526;MANUF C-XXXX;0805W8F2401T5E;Resistor', 'kicadSymbolki_fp_filters': 'R_*'}]|
+|name|name|oomlout_OOMP_parts : RESE-0805-X-O402-01-R8O402|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'R'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'RESE-0805-X-O402-01-R8O402'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'oomlout_OOMP_parts</td></tr><tr><td>RESE-0805-X-O402-01-R8O402'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'oom.lt/R8O402'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'R res resistor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'hexID</td></tr><tr><td> R8O402;PARTL C-JLCC;C17526;MANUF C-XXXX;0805W8F2401T5E;Resistor'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'R_*'</td></tr></table>]|
 ||||

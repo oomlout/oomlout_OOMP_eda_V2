@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZK74XXIEEE74S14 > 74S140
+# SZK74XXIEEE74S14 > 74xx_IEEE : 74S140
 
 - ID: SYMBOL-kicad-kicad-symbols-74xx_IEEE-74S140
 - Hex ID: SZK74XXIEEE74S14
-- Name: 74S140
-- Description: 74S140
+- Name: 74xx_IEEE : 74S140
+- Description: 74xx_IEEE : 74S140
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx_IEEE-74S140](http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx_IEEE-74S140)
 - Short Link: [http://oom.lt/SZK74XXIEEE74S14](http://oom.lt/SZK74XXIEEE74S14)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74S140|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xx_IEEE-74S140|
 |Hex ID (short code)|hexID|SZK74XXIEEE74S14|
-|name|name|74S140|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74S140', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ''}]|
+|name|name|74xx_IEEE : 74S140|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> '74S140'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> ''</td></tr></table>]|
 ||||

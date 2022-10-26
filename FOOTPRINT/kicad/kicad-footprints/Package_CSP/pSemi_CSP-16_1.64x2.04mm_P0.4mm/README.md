@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_CSP-pSemi_CSP-16_1.64x2.04mm_P0.4mm|
 |Hex ID (short code)|hexID|FZKCSPPSEMICSP16164X24P4|
 |name|name|Package_CSP : pSemi_CSP-16_1.64x2.04mm_P0.4mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'pSemi_CSP-16_1.64x2.04mm_P0.4mm', 'description': 'pSemi CSP-16 1.64x2.04x0.285mm (http://www.psemi.com/pdf/datasheets/pe29101ds.pdf, http://www.psemi.com/pdf/app_notes/an77.pdf)', 'tags': 'psemi csp 16', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_CSP.3dshapes/pSemi_CSP-16_1.64x2.04mm_P0.4mm.wrl', 'pins': {'type': 'smd', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'pSemi_CSP-16_1.64x2.04mm_P0.4mm'</td><td> 'description'</td></tr><tr><td> 'pSemi CSP-16 1.64x2.04x0.285mm (http</td></tr><tr><td>//www.psemi.com/pdf/datasheets/pe29101ds.pdf</td><td> http</td></tr><tr><td>//www.psemi.com/pdf/app_notes/an77.pdf)'</td><td> 'tags'</td></tr><tr><td> 'psemi csp 16'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_CSP.3dshapes/pSemi_CSP-16_1.64x2.04mm_P0.4mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKFPGAMSEMIEX128TQ64 > EX128-TQ64
+# SZKFPGAMSEMIEX128TQ64 > FPGA_Microsemi : EX128-TQ64
 
 - ID: SYMBOL-kicad-kicad-symbols-FPGA_Microsemi-EX128-TQ64
 - Hex ID: SZKFPGAMSEMIEX128TQ64
-- Name: EX128-TQ64
-- Description: EX128-TQ64
+- Name: FPGA_Microsemi : EX128-TQ64
+- Description: FPGA_Microsemi : EX128-TQ64
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Microsemi-EX128-TQ64](http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Microsemi-EX128-TQ64)
 - Short Link: [http://oom.lt/SZKFPGAMSEMIEX128TQ64](http://oom.lt/SZKFPGAMSEMIEX128TQ64)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|EX128-TQ64|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-FPGA_Microsemi-EX128-TQ64|
 |Hex ID (short code)|hexID|SZKFPGAMSEMIEX128TQ64|
-|name|name|EX128-TQ64|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'EX128-TQ64', 'kicadSymbolFootprint': 'Package_QFP:TQFP-64_10x10mm_P0.5mm', 'kicadSymbolDatasheet': 'http://www.microsemi.com/document-portal/doc_download/130687-ex-datasheet', 'kicadSymbolki_keywords': 'Actel FPGA eX eX128', 'kicadSymbolki_description': 'Actel eX Family FPGA, 64pin QFP', 'kicadSymbolki_fp_filters': '*TQFP*10x10mm*P0.5mm*'}]|
+|name|name|FPGA_Microsemi : EX128-TQ64|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'EX128-TQ64'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_QFP</td></tr><tr><td>TQFP-64_10x10mm_P0.5mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.microsemi.com/document-portal/doc_download/130687-ex-datasheet'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Actel FPGA eX eX128'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Actel eX Family FPGA</td><td> 64pin QFP'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> '*TQFP*10x10mm*P0.5mm*'</td></tr></table>]|
 ||||

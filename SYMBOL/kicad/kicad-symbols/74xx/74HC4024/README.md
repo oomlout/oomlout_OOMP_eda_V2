@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZK74XX74HC424 > 74HC4024
+# SZK74XX74HC424 > 74xx : 74HC4024
 
 - ID: SYMBOL-kicad-kicad-symbols-74xx-74HC4024
 - Hex ID: SZK74XX74HC424
-- Name: 74HC4024
-- Description: 74HC4024
+- Name: 74xx : 74HC4024
+- Description: 74xx : 74HC4024
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx-74HC4024](http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx-74HC4024)
 - Short Link: [http://oom.lt/SZK74XX74HC424](http://oom.lt/SZK74XX74HC424)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74HC4024|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xx-74HC4024|
 |Hex ID (short code)|hexID|SZK74XX74HC424|
-|name|name|74HC4024|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74HC4024', 'kicadSymbolFootprint': 'Package_SO:SOIC-14_3.9x8.7mm_P1.27mm', 'kicadSymbolDatasheet': 'https://assets.nexperia.com/documents/data-sheet/74HC4024.pdf', 'kicadSymbolki_keywords': 'binary counter', 'kicadSymbolki_description': '7-stage binary ripple counter, SOIC-14', 'kicadSymbolki_fp_filters': 'SOIC*3.9x8.7mm*P1.27mm*'}]|
+|name|name|74xx : 74HC4024|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> '74HC4024'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-14_3.9x8.7mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//assets.nexperia.com/documents/data-sheet/74HC4024.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'binary counter'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '7-stage binary ripple counter</td><td> SOIC-14'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*3.9x8.7mm*P1.27mm*'</td></tr></table>]|
 ||||

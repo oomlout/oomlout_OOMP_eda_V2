@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_QFP-TQFP-48-1EP_7x7mm_P0.5mm_EP5x5mm|
 |Hex ID (short code)|hexID|FZKQFPTQFP481EP7X7P5EP5X5|
 |name|name|Package_QFP : TQFP-48-1EP_7x7mm_P0.5mm_EP5x5mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'TQFP-48-1EP_7x7mm_P0.5mm_EP5x5mm', 'description': 'TQFP, 48 Pin (https://www.trinamic.com/fileadmin/assets/Products/ICs_Documents/TMC2100_datasheet_Rev1.08.pdf (page 45)), generated with kicad-footprint-generator ipc_gullwing_generator.py', 'tags': 'TQFP QFP', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_QFP.3dshapes/TQFP-48-1EP_7x7mm_P0.5mm_EP5x5mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'TQFP-48-1EP_7x7mm_P0.5mm_EP5x5mm'</td><td> 'description'</td></tr><tr><td> 'TQFP</td><td> 48 Pin (https</td></tr><tr><td>//www.trinamic.com/fileadmin/assets/Products/ICs_Documents/TMC2100_datasheet_Rev1.08.pdf (page 45))</td><td> generated with kicad-footprint-generator ipc_gullwing_generator.py'</td><td> 'tags'</td></tr><tr><td> 'TQFP QFP'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_QFP.3dshapes/TQFP-48-1EP_7x7mm_P0.5mm_EP5x5mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

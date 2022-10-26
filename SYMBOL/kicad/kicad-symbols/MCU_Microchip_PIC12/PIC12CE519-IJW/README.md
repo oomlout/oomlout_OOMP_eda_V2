@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUMCHIPPIC12PIC12CE519IJW > PIC12CE519-IJW
+# SZKMCUMCHIPPIC12PIC12CE519IJW > MCU_Microchip_PIC12 : PIC12CE519-IJW
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC12-PIC12CE519-IJW
 - Hex ID: SZKMCUMCHIPPIC12PIC12CE519IJW
-- Name: PIC12CE519-IJW
-- Description: PIC12CE519-IJW
+- Name: MCU_Microchip_PIC12 : PIC12CE519-IJW
+- Description: MCU_Microchip_PIC12 : PIC12CE519-IJW
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC12-PIC12CE519-IJW](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC12-PIC12CE519-IJW)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC12PIC12CE519IJW](http://oom.lt/SZKMCUMCHIPPIC12PIC12CE519IJW)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PIC12CE519-IJW|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC12-PIC12CE519-IJW|
 |Hex ID (short code)|hexID|SZKMCUMCHIPPIC12PIC12CE519IJW|
-|name|name|PIC12CE519-IJW|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'PIC12CE519-IP', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PIC12CE519-IJW', 'kicadSymbolFootprint': 'Package_DIP:DIP-8_W7.62mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/devicedoc/40139e.pdf', 'kicadSymbolki_keywords': '8-Bit CMOS Microcontroller', 'kicadSymbolki_description': 'PIC12CE519, 1024W EPROM, 41B SRAM, CERDIP8 Windowed', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
+|name|name|MCU_Microchip_PIC12 : PIC12CE519-IJW|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'PIC12CE519-IP'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'PIC12CE519-IJW'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>DIP-8_W7.62mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/devicedoc/40139e.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> '8-Bit CMOS Microcontroller'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'PIC12CE519</td><td> 1024W EPROM</td><td> 41B SRAM</td><td> CERDIP8 Windowed'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W7.62mm*'</td></tr></table>]|
 ||||

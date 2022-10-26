@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUMCHIPPIC16PIC16F18346GZ > PIC16F18346-GZ
+# SZKMCUMCHIPPIC16PIC16F18346GZ > MCU_Microchip_PIC16 : PIC16F18346-GZ
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F18346-GZ
 - Hex ID: SZKMCUMCHIPPIC16PIC16F18346GZ
-- Name: PIC16F18346-GZ
-- Description: PIC16F18346-GZ
+- Name: MCU_Microchip_PIC16 : PIC16F18346-GZ
+- Description: MCU_Microchip_PIC16 : PIC16F18346-GZ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F18346-GZ](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F18346-GZ)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC16PIC16F18346GZ](http://oom.lt/SZKMCUMCHIPPIC16PIC16F18346GZ)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PIC16F18346-GZ|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F18346-GZ|
 |Hex ID (short code)|hexID|SZKMCUMCHIPPIC16PIC16F18346GZ|
-|name|name|PIC16F18346-GZ|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PIC16F18346-GZ', 'kicadSymbolFootprint': 'Package_DFN_QFN:UQFN-20-1EP_4x4mm_P0.5mm_EP2.8x2.8mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/40001839B.pdf', 'kicadSymbolki_keywords': 'FLASH-Based 8-Bit CMOS Microcontroller Low Power', 'kicadSymbolki_description': '16384W FLASH, 2048B RAM, 256B EEPROM, UQFN-20', 'kicadSymbolki_fp_filters': '*UQFN*4x4mm*P0.5mm*'}]|
+|name|name|MCU_Microchip_PIC16 : PIC16F18346-GZ|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'PIC16F18346-GZ'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>UQFN-20-1EP_4x4mm_P0.5mm_EP2.8x2.8mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/40001839B.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'FLASH-Based 8-Bit CMOS Microcontroller Low Power'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '16384W FLASH</td><td> 2048B RAM</td><td> 256B EEPROM</td><td> UQFN-20'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> '*UQFN*4x4mm*P0.5mm*'</td></tr></table>]|
 ||||

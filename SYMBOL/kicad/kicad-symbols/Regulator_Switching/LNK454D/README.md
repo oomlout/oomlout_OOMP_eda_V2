@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORSWITCHINGLNK454D > LNK454D
+# SZKREGULATORSWITCHINGLNK454D > Regulator_Switching : LNK454D
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK454D
 - Hex ID: SZKREGULATORSWITCHINGLNK454D
-- Name: LNK454D
-- Description: LNK454D
+- Name: Regulator_Switching : LNK454D
+- Description: Regulator_Switching : LNK454D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK454D](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK454D)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGLNK454D](http://oom.lt/SZKREGULATORSWITCHINGLNK454D)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LNK454D|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK454D|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGLNK454D|
-|name|name|LNK454D|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LNK454D', 'kicadSymbolFootprint': 'Package_SO:PowerIntegrations_SO-8C', 'kicadSymbolDatasheet': 'http://www.powerint.com/sites/default/files/product-docs/linkswitch-pl_family_datasheet.pdf', 'kicadSymbolki_keywords': 'LED Driver IC with TRIAC Dimming, Single-Stage PFC and Constant Current Control for Non-Isolated Applications', 'kicadSymbolki_description': 'LinkSwitch-PL Family, 3W Output Power, SO-8C', 'kicadSymbolki_fp_filters': 'PowerIntegrations?SO?8C*'}]|
+|name|name|Regulator_Switching : LNK454D|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LNK454D'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>PowerIntegrations_SO-8C'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.powerint.com/sites/default/files/product-docs/linkswitch-pl_family_datasheet.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'LED Driver IC with TRIAC Dimming</td><td> Single-Stage PFC and Constant Current Control for Non-Isolated Applications'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'LinkSwitch-PL Family</td><td> 3W Output Power</td><td> SO-8C'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'PowerIntegrations?SO?8C*'</td></tr></table>]|
 ||||

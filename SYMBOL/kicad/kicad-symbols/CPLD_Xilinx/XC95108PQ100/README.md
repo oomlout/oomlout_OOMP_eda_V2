@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKCPLDXILINXXC9518PQ1 > XC95108PQ100
+# SZKCPLDXILINXXC9518PQ1 > CPLD_Xilinx : XC95108PQ100
 
 - ID: SYMBOL-kicad-kicad-symbols-CPLD_Xilinx-XC95108PQ100
 - Hex ID: SZKCPLDXILINXXC9518PQ1
-- Name: XC95108PQ100
-- Description: XC95108PQ100
+- Name: CPLD_Xilinx : XC95108PQ100
+- Description: CPLD_Xilinx : XC95108PQ100
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-CPLD_Xilinx-XC95108PQ100](http://oom.lt/SYMBOL-kicad-kicad-symbols-CPLD_Xilinx-XC95108PQ100)
 - Short Link: [http://oom.lt/SZKCPLDXILINXXC9518PQ1](http://oom.lt/SZKCPLDXILINXXC9518PQ1)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|XC95108PQ100|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-CPLD_Xilinx-XC95108PQ100|
 |Hex ID (short code)|hexID|SZKCPLDXILINXXC9518PQ1|
-|name|name|XC95108PQ100|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'XC95108PQ100', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'xilinx/xc95108.pdf', 'kicadSymbolki_description': 'Xilinx CPLD, Obsolete'}]|
+|name|name|CPLD_Xilinx : XC95108PQ100|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'XC95108PQ100'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'xilinx/xc95108.pdf'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Xilinx CPLD</td><td> Obsolete'</td></tr></table>]|
 ||||

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SPH0645LM4H-B|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSPH645LM4HB|
 |name|name|digikey-footprints : SPH0645LM4H-B|
-|Footprint Kicad|footprintKicadDetails|{'name': 'SPH0645LM4H-B', 'description': 'http://www.digikey.com/products/en?keywords=423-1405-1-ND', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SPH0645LM4H-B'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//www.digikey.com/products/en?keywords=423-1405-1-ND'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

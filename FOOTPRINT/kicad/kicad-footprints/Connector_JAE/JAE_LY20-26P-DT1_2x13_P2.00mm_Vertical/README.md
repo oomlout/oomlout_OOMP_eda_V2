@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_JAE-JAE_LY20-26P-DT1_2x13_P2.00mm_Vertical|
 |Hex ID (short code)|hexID|FZKCNJAEJAELY226PDT12X13P2VERTICAL|
 |name|name|Connector_JAE : JAE_LY20-26P-DT1_2x13_P2.00mm_Vertical|
-|Footprint Kicad|footprintKicadDetails|{'name': 'JAE_LY20-26P-DT1_2x13_P2.00mm_Vertical', 'description': 'Molex LY 20 series connector, LY20-26P-DT1, 13 Circuits (http://www.jae.com/z-en/pdf_download_exec.cfm?param=SJ103130.pdf), generated with kicad-footprint-generator', 'tags': 'connector JAE  side entry', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_JAE.3dshapes/JAE_LY20-26P-DT1_2x13_P2.00mm_Vertical.wrl', 'pins': {'type': 'thru_hole', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'JAE_LY20-26P-DT1_2x13_P2.00mm_Vertical'</td><td> 'description'</td></tr><tr><td> 'Molex LY 20 series connector</td><td> LY20-26P-DT1</td><td> 13 Circuits (http</td></tr><tr><td>//www.jae.com/z-en/pdf_download_exec.cfm?param=SJ103130.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'connector JAE  side entry'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_JAE.3dshapes/JAE_LY20-26P-DT1_2x13_P2.00mm_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

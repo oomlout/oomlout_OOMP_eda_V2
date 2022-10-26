@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKFPGAXILINXVIRTEX5XC5VLX33FF176 > XC5VLX330-FF1760
+# SZKFPGAXILINXVIRTEX5XC5VLX33FF176 > FPGA_Xilinx_Virtex5 : XC5VLX330-FF1760
 
 - ID: SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Virtex5-XC5VLX330-FF1760
 - Hex ID: SZKFPGAXILINXVIRTEX5XC5VLX33FF176
-- Name: XC5VLX330-FF1760
-- Description: XC5VLX330-FF1760
+- Name: FPGA_Xilinx_Virtex5 : XC5VLX330-FF1760
+- Description: FPGA_Xilinx_Virtex5 : XC5VLX330-FF1760
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Virtex5-XC5VLX330-FF1760](http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Virtex5-XC5VLX330-FF1760)
 - Short Link: [http://oom.lt/SZKFPGAXILINXVIRTEX5XC5VLX33FF176](http://oom.lt/SZKFPGAXILINXVIRTEX5XC5VLX33FF176)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|XC5VLX330-FF1760|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Virtex5-XC5VLX330-FF1760|
 |Hex ID (short code)|hexID|SZKFPGAXILINXVIRTEX5XC5VLX33FF176|
-|name|name|XC5VLX330-FF1760|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'XC5VLX330-FF1760', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'FPGA', 'kicadSymbolki_description': 'Virtex 5 LX 330 XC5VLX330-FF1760'}]|
+|name|name|FPGA_Xilinx_Virtex5 : XC5VLX330-FF1760|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'XC5VLX330-FF1760'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_locked'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'FPGA'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Virtex 5 LX 330 XC5VLX330-FF1760'</td></tr></table>]|
 ||||

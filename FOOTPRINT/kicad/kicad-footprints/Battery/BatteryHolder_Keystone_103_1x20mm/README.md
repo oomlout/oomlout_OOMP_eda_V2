@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Battery-BatteryHolder_Keystone_103_1x20mm|
 |Hex ID (short code)|hexID|FZKBATBATHOLDERKEYSTONE131X2|
 |name|name|Battery : BatteryHolder_Keystone_103_1x20mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'BatteryHolder_Keystone_103_1x20mm', 'description': 'http://www.keyelco.com/product-pdf.cfm?p=719', 'tags': 'Keystone type 103 battery holder', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Battery.3dshapes/BatteryHolder_Keystone_103_1x20mm.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'BatteryHolder_Keystone_103_1x20mm'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//www.keyelco.com/product-pdf.cfm?p=719'</td><td> 'tags'</td></tr><tr><td> 'Keystone type 103 battery holder'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Battery.3dshapes/BatteryHolder_Keystone_103_1x20mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

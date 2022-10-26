@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUSILICONLABSC851F38GQ > C8051F380-GQ
+# SZKMCUSILICONLABSC851F38GQ > MCU_SiliconLabs : C8051F380-GQ
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_SiliconLabs-C8051F380-GQ
 - Hex ID: SZKMCUSILICONLABSC851F38GQ
-- Name: C8051F380-GQ
-- Description: C8051F380-GQ
+- Name: MCU_SiliconLabs : C8051F380-GQ
+- Description: MCU_SiliconLabs : C8051F380-GQ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_SiliconLabs-C8051F380-GQ](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_SiliconLabs-C8051F380-GQ)
 - Short Link: [http://oom.lt/SZKMCUSILICONLABSC851F38GQ](http://oom.lt/SZKMCUSILICONLABSC851F38GQ)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|C8051F380-GQ|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_SiliconLabs-C8051F380-GQ|
 |Hex ID (short code)|hexID|SZKMCUSILICONLABSC851F38GQ|
-|name|name|C8051F380-GQ|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'C8051F380-GQ', 'kicadSymbolFootprint': 'Package_QFP:TQFP-48_7x7mm_P0.5mm', 'kicadSymbolDatasheet': 'https://www.silabs.com/documents/public/data-sheets/C8051F38x.pdf', 'kicadSymbolki_keywords': '8051 microcontroller PCA UART USB SPI I2C ADC EMIF TQFP48', 'kicadSymbolki_description': 'Full Speed USB Flash MCU Family, 64k flash, 4352 ram, 40 IO, EMIF, ADC, Temperature, VREF, TQFP-48', 'kicadSymbolki_fp_filters': 'TQFP*7x7mm*P0.5mm*'}]|
+|name|name|MCU_SiliconLabs : C8051F380-GQ|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'C8051F380-GQ'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_QFP</td></tr><tr><td>TQFP-48_7x7mm_P0.5mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.silabs.com/documents/public/data-sheets/C8051F38x.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> '8051 microcontroller PCA UART USB SPI I2C ADC EMIF TQFP48'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Full Speed USB Flash MCU Family</td><td> 64k flash</td><td> 4352 ram</td><td> 40 IO</td><td> EMIF</td><td> ADC</td><td> Temperature</td><td> VREF</td><td> TQFP-48'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TQFP*7x7mm*P0.5mm*'</td></tr></table>]|
 ||||

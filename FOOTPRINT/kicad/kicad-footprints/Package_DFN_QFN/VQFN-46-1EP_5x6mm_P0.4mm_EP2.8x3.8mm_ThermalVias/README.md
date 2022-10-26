@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-VQFN-46-1EP_5x6mm_P0.4mm_EP2.8x3.8mm_ThermalVias|
 |Hex ID (short code)|hexID|FZKDFNVQFN461EP5X6P4EP28X38THERMALVIAS|
 |name|name|Package_DFN_QFN : VQFN-46-1EP_5x6mm_P0.4mm_EP2.8x3.8mm_ThermalVias|
-|Footprint Kicad|footprintKicadDetails|{'name': 'VQFN-46-1EP_5x6mm_P0.4mm_EP2.8x3.8mm_ThermalVias', 'description': 'VQFN, 46 Pin (http://www.ti.com/lit/ds/symlink/lp5036.pdf#page=59), generated with kicad-footprint-generator ipc_noLead_generator.py', 'tags': 'VQFN NoLead', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/VQFN-46-1EP_5x6mm_P0.4mm_EP2.8x3.8mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'VQFN-46-1EP_5x6mm_P0.4mm_EP2.8x3.8mm_ThermalVias'</td><td> 'description'</td></tr><tr><td> 'VQFN</td><td> 46 Pin (http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/lp5036.pdf#page=59)</td><td> generated with kicad-footprint-generator ipc_noLead_generator.py'</td><td> 'tags'</td></tr><tr><td> 'VQFN NoLead'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DFN_QFN.3dshapes/VQFN-46-1EP_5x6mm_P0.4mm_EP2.8x3.8mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

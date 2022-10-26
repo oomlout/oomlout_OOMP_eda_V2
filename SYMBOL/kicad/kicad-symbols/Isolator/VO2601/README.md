@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKISOLATORVO261 > VO2601
+# SZKISOLATORVO261 > Isolator : VO2601
 
 - ID: SYMBOL-kicad-kicad-symbols-Isolator-VO2601
 - Hex ID: SZKISOLATORVO261
-- Name: VO2601
-- Description: VO2601
+- Name: Isolator : VO2601
+- Description: Isolator : VO2601
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-VO2601](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-VO2601)
 - Short Link: [http://oom.lt/SZKISOLATORVO261](http://oom.lt/SZKISOLATORVO261)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|VO2601|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Isolator-VO2601|
 |Hex ID (short code)|hexID|SZKISOLATORVO261|
-|name|name|VO2601|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'HCPL-261A', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'VO2601', 'kicadSymbolFootprint': 'Package_DIP:DIP-8_W7.62mm', 'kicadSymbolDatasheet': 'https://www.vishay.com/doc?84732', 'kicadSymbolki_keywords': 'High speed optically coupled gates enable', 'kicadSymbolki_description': 'Single High Speed CMOS Compatible Optocoupler with enable, dV/dt 5000/us, VCM 50, max 7V VCC, DIP-8', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
+|name|name|Isolator : VO2601|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'HCPL-261A'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'VO2601'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>DIP-8_W7.62mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.vishay.com/doc?84732'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'High speed optically coupled gates enable'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Single High Speed CMOS Compatible Optocoupler with enable</td><td> dV/dt 5000/us</td><td> VCM 50</td><td> max 7V VCC</td><td> DIP-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W7.62mm*'</td></tr></table>]|
 ||||

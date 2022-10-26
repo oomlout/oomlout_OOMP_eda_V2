@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_ZE_SM13B-ZESS-TB_1x13-1MP_P1.50mm_Horizontal|
 |Hex ID (short code)|hexID|FZKCNJSTJSTZESM13BZESSTB1X131MPP15HORIZONTAL|
 |name|name|Connector_JST : JST_ZE_SM13B-ZESS-TB_1x13-1MP_P1.50mm_Horizontal|
-|Footprint Kicad|footprintKicadDetails|{'name': 'JST_ZE_SM13B-ZESS-TB_1x13-1MP_P1.50mm_Horizontal', 'description': 'JST ZE series connector, SM13B-ZESS-TB (http://www.jst-mfg.com/product/pdf/eng/eZE.pdf), generated with kicad-footprint-generator', 'tags': 'connector JST ZE horizontal', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_JST.3dshapes/JST_ZE_SM13B-ZESS-TB_1x13-1MP_P1.50mm_Horizontal.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'JST_ZE_SM13B-ZESS-TB_1x13-1MP_P1.50mm_Horizontal'</td><td> 'description'</td></tr><tr><td> 'JST ZE series connector</td><td> SM13B-ZESS-TB (http</td></tr><tr><td>//www.jst-mfg.com/product/pdf/eng/eZE.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'connector JST ZE horizontal'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_JST.3dshapes/JST_ZE_SM13B-ZESS-TB_1x13-1MP_P1.50mm_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZK4XXX471 > 4071
+# SZK4XXX471 > 4xxx : 4071
 
 - ID: SYMBOL-kicad-kicad-symbols-4xxx-4071
 - Hex ID: SZK4XXX471
-- Name: 4071
-- Description: 4071
+- Name: 4xxx : 4071
+- Description: 4xxx : 4071
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx-4071](http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx-4071)
 - Short Link: [http://oom.lt/SZK4XXX471](http://oom.lt/SZK4XXX471)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|4071|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-4xxx-4071|
 |Hex ID (short code)|hexID|SZK4XXX471|
-|name|name|4071|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '4071', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.intersil.com/content/dam/Intersil/documents/cd40/cd4071bms-72bms-75bms.pdf', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'CMOS OR2', 'kicadSymbolki_description': 'Quad Or 2 inputs', 'kicadSymbolki_fp_filters': 'DIP?14*'}]|
+|name|name|4xxx : 4071|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> '4071'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.intersil.com/content/dam/Intersil/documents/cd40/cd4071bms-72bms-75bms.pdf'</td><td> 'kicadSymbolki_locked'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'CMOS OR2'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Quad Or 2 inputs'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP?14*'</td></tr></table>]|
 ||||

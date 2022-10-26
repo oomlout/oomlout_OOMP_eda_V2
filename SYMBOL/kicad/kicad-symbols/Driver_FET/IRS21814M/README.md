@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDRIVERFETIRS21814M > IRS21814M
+# SZKDRIVERFETIRS21814M > Driver_FET : IRS21814M
 
 - ID: SYMBOL-kicad-kicad-symbols-Driver_FET-IRS21814M
 - Hex ID: SZKDRIVERFETIRS21814M
-- Name: IRS21814M
-- Description: IRS21814M
+- Name: Driver_FET : IRS21814M
+- Description: Driver_FET : IRS21814M
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-IRS21814M](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-IRS21814M)
 - Short Link: [http://oom.lt/SZKDRIVERFETIRS21814M](http://oom.lt/SZKDRIVERFETIRS21814M)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IRS21814M|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Driver_FET-IRS21814M|
 |Hex ID (short code)|hexID|SZKDRIVERFETIRS21814M|
-|name|name|IRS21814M|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'IRS21814M', 'kicadSymbolFootprint': 'Package_DFN_QFN:Infineon_MLPQ-16-14-1EP_4x4mm_P0.5mm', 'kicadSymbolDatasheet': 'https://www.infineon.com/dgdl/irs21814mpbf.pdf?fileId=5546d462533600a401535676c8a827d6', 'kicadSymbolki_keywords': 'Gate Driver', 'kicadSymbolki_description': 'High- and Low-Side Driver, 600V, 1.9/2.3A, MLPQ-14', 'kicadSymbolki_fp_filters': 'Infineon*MLPQ*EP*4x4mm*P0.5mm*'}]|
+|name|name|Driver_FET : IRS21814M|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'IRS21814M'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>Infineon_MLPQ-16-14-1EP_4x4mm_P0.5mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.infineon.com/dgdl/irs21814mpbf.pdf?fileId=5546d462533600a401535676c8a827d6'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Gate Driver'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'High- and Low-Side Driver</td><td> 600V</td><td> 1.9/2.3A</td><td> MLPQ-14'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Infineon*MLPQ*EP*4x4mm*P0.5mm*'</td></tr></table>]|
 ||||

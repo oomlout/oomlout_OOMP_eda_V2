@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-MLF-8-1EP_3x3mm_P0.65mm_EP1.55x2.3mm_ThermalVias|
 |Hex ID (short code)|hexID|FZKDFNMLF81EP3X3P65EP155X23THERMALVIAS|
 |name|name|Package_DFN_QFN : MLF-8-1EP_3x3mm_P0.65mm_EP1.55x2.3mm_ThermalVias|
-|Footprint Kicad|footprintKicadDetails|{'name': 'MLF-8-1EP_3x3mm_P0.65mm_EP1.55x2.3mm_ThermalVias', 'description': '8-Pin ePad 3mm x 3mm MLF - 3x3x0.85 mm Body (see Microchip datasheet http://ww1.microchip.com/downloads/en/DeviceDoc/mic5355_6.pdf)', 'tags': 'DFN MLF 0.65', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/MLF-8-1EP_3x3mm_P0.65mm_EP1.55x2.3mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'MLF-8-1EP_3x3mm_P0.65mm_EP1.55x2.3mm_ThermalVias'</td><td> 'description'</td></tr><tr><td> '8-Pin ePad 3mm x 3mm MLF - 3x3x0.85 mm Body (see Microchip datasheet http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/mic5355_6.pdf)'</td><td> 'tags'</td></tr><tr><td> 'DFN MLF 0.65'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DFN_QFN.3dshapes/MLF-8-1EP_3x3mm_P0.65mm_EP1.55x2.3mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

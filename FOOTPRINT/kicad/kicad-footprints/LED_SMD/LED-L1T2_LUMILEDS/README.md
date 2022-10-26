@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED-L1T2_LUMILEDS|
 |Hex ID (short code)|hexID|FZKLSMLL1T2LUMS|
 |name|name|LED_SMD : LED-L1T2_LUMILEDS|
-|Footprint Kicad|footprintKicadDetails|{'name': 'LED-L1T2_LUMILEDS', 'description': 'http://www.lumileds.com/uploads/438/DS133-pdf', 'tags': 'LUMILEDS LUXEON TX L1T2 LED', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED-L1T2_LUMILEDS.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'LED-L1T2_LUMILEDS'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//www.lumileds.com/uploads/438/DS133-pdf'</td><td> 'tags'</td></tr><tr><td> 'LUMILEDS LUXEON TX L1T2 LED'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/LED_SMD.3dshapes/LED-L1T2_LUMILEDS.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

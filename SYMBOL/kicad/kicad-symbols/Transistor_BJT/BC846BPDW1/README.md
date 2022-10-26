@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORBJTBC846BPDW1 > BC846BPDW1
+# SZKTRANSISTORBJTBC846BPDW1 > Transistor_BJT : BC846BPDW1
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC846BPDW1
 - Hex ID: SZKTRANSISTORBJTBC846BPDW1
-- Name: BC846BPDW1
-- Description: BC846BPDW1
+- Name: Transistor_BJT : BC846BPDW1
+- Description: Transistor_BJT : BC846BPDW1
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC846BPDW1](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC846BPDW1)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTBC846BPDW1](http://oom.lt/SZKTRANSISTORBJTBC846BPDW1)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BC846BPDW1|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC846BPDW1|
 |Hex ID (short code)|hexID|SZKTRANSISTORBJTBC846BPDW1|
-|name|name|BC846BPDW1|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BC846BPN', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'BC846BPDW1', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-363_SC-70-6', 'kicadSymbolDatasheet': 'http://www.onsemi.com/pub_link/Collateral/BC846BPDW1T1-D.PDF', 'kicadSymbolki_keywords': 'NPN/PNP Transistor', 'kicadSymbolki_description': '100mA IC, 65V Vce, Dual NPN/PNP Transistors, SOT-363', 'kicadSymbolki_fp_filters': 'SOT?363*'}]|
+|name|name|Transistor_BJT : BC846BPDW1|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'BC846BPN'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'BC846BPDW1'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-363_SC-70-6'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.onsemi.com/pub_link/Collateral/BC846BPDW1T1-D.PDF'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'NPN/PNP Transistor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '100mA IC</td><td> 65V Vce</td><td> Dual NPN/PNP Transistors</td><td> SOT-363'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?363*'</td></tr></table>]|
 ||||

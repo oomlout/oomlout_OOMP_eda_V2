@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORSWITCHINGADP233ARDZ5 > ADP2303ARDZ-5.0
+# SZKREGULATORSWITCHINGADP233ARDZ5 > Regulator_Switching : ADP2303ARDZ-5.0
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-ADP2303ARDZ-5.0
 - Hex ID: SZKREGULATORSWITCHINGADP233ARDZ5
-- Name: ADP2303ARDZ-5.0
-- Description: ADP2303ARDZ-5.0
+- Name: Regulator_Switching : ADP2303ARDZ-5.0
+- Description: Regulator_Switching : ADP2303ARDZ-5.0
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-ADP2303ARDZ-5.0](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-ADP2303ARDZ-5.0)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGADP233ARDZ5](http://oom.lt/SZKREGULATORSWITCHINGADP233ARDZ5)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ADP2303ARDZ-5.0|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-ADP2303ARDZ-5.0|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGADP233ARDZ5|
-|name|name|ADP2303ARDZ-5.0|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ADP2302ARDZ', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ADP2303ARDZ-5.0', 'kicadSymbolFootprint': 'Package_SO:SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.29x3mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/ADP2302_2303.pdf', 'kicadSymbolki_keywords': 'Step-Down Regulator', 'kicadSymbolki_description': 'Nonsynchronous Step-Down Regulator 3 Amp Vout 5.0v SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC*1EP*3.9x4.9mm*P1.27mm*'}]|
+|name|name|Regulator_Switching : ADP2303ARDZ-5.0|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'ADP2302ARDZ'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ADP2303ARDZ-5.0'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.29x3mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/ADP2302_2303.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Step-Down Regulator'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Nonsynchronous Step-Down Regulator 3 Amp Vout 5.0v SOIC-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*1EP*3.9x4.9mm*P1.27mm*'</td></tr></table>]|
 ||||

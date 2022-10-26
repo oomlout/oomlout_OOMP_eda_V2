@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKCONIRM215 > IRM-02-15
+# SZKCONIRM215 > Converter_ACDC : IRM-02-15
 
 - ID: SYMBOL-kicad-kicad-symbols-Converter_ACDC-IRM-02-15
 - Hex ID: SZKCONIRM215
-- Name: IRM-02-15
-- Description: IRM-02-15
+- Name: Converter_ACDC : IRM-02-15
+- Description: Converter_ACDC : IRM-02-15
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_ACDC-IRM-02-15](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_ACDC-IRM-02-15)
 - Short Link: [http://oom.lt/SZKCONIRM215](http://oom.lt/SZKCONIRM215)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IRM-02-15|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Converter_ACDC-IRM-02-15|
 |Hex ID (short code)|hexID|SZKCONIRM215|
-|name|name|IRM-02-15|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'IRM-02-3.3', 'kicadSymbolReference': 'PS', 'kicadSymbolValue': 'IRM-02-15', 'kicadSymbolFootprint': 'Converter_ACDC:Converter_ACDC_MeanWell_IRM-02-xx_THT', 'kicadSymbolDatasheet': 'https://www.meanwell.com/Upload/PDF/IRM-02/IRM-02-SPEC.PDF', 'kicadSymbolki_keywords': 'Miniature Module-type Power Supply MeanWell', 'kicadSymbolki_description': '15V, 133mA, 2W, Isolated, AC-DC, IRM02', 'kicadSymbolki_fp_filters': 'Converter*ACDC*MeanWell*IRM*02*THT*'}]|
+|name|name|Converter_ACDC : IRM-02-15|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'IRM-02-3.3'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'PS'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'IRM-02-15'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Converter_ACDC</td></tr><tr><td>Converter_ACDC_MeanWell_IRM-02-xx_THT'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.meanwell.com/Upload/PDF/IRM-02/IRM-02-SPEC.PDF'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Miniature Module-type Power Supply MeanWell'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '15V</td><td> 133mA</td><td> 2W</td><td> Isolated</td><td> AC-DC</td><td> IRM02'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Converter*ACDC*MeanWell*IRM*02*THT*'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKCONIH1212DH > IH1212DH
+# SZKCONIH1212DH > Converter_DCDC : IH1212DH
 
 - ID: SYMBOL-kicad-kicad-symbols-Converter_DCDC-IH1212DH
 - Hex ID: SZKCONIH1212DH
-- Name: IH1212DH
-- Description: IH1212DH
+- Name: Converter_DCDC : IH1212DH
+- Description: Converter_DCDC : IH1212DH
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-IH1212DH](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-IH1212DH)
 - Short Link: [http://oom.lt/SZKCONIH1212DH](http://oom.lt/SZKCONIH1212DH)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IH1212DH|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Converter_DCDC-IH1212DH|
 |Hex ID (short code)|hexID|SZKCONIH1212DH|
-|name|name|IH1212DH|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'IH0503DH', 'kicadSymbolReference': 'PS', 'kicadSymbolValue': 'IH1212DH', 'kicadSymbolFootprint': 'Converter_DCDC:Converter_DCDC_XP_POWER-IHxxxxDH_THT', 'kicadSymbolDatasheet': 'https://www.xppower.com/pdfs/SF_IH.pdf', 'kicadSymbolki_keywords': 'XP_POWER DC/DC isolated Converter module', 'kicadSymbolki_description': 'XP Power 2W, 3000-6000 VDC Isolated DC/DC Converter Module, Dual Output Voltage ±12V, ±84mA, 12V Input Voltage, DIP', 'kicadSymbolki_fp_filters': '*XP?POWER?IHxxxxDH*'}]|
+|name|name|Converter_DCDC : IH1212DH|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'IH0503DH'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'PS'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'IH1212DH'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Converter_DCDC</td></tr><tr><td>Converter_DCDC_XP_POWER-IHxxxxDH_THT'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.xppower.com/pdfs/SF_IH.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'XP_POWER DC/DC isolated Converter module'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'XP Power 2W</td><td> 3000-6000 VDC Isolated DC/DC Converter Module</td><td> Dual Output Voltage ±12V</td><td> ±84mA</td><td> 12V Input Voltage</td><td> DIP'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> '*XP?POWER?IHxxxxDH*'</td></tr></table>]|
 ||||

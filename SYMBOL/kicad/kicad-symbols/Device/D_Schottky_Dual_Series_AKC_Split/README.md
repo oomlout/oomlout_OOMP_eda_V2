@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDEVICEDSCHOTTKYDUALSERIESAKCSPLIT > D_Schottky_Dual_Series_AKC_Split
+# SZKDEVICEDSCHOTTKYDUALSERIESAKCSPLIT > Device : D_Schottky_Dual_Series_AKC_Split
 
 - ID: SYMBOL-kicad-kicad-symbols-Device-D_Schottky_Dual_Series_AKC_Split
 - Hex ID: SZKDEVICEDSCHOTTKYDUALSERIESAKCSPLIT
-- Name: D_Schottky_Dual_Series_AKC_Split
-- Description: D_Schottky_Dual_Series_AKC_Split
+- Name: Device : D_Schottky_Dual_Series_AKC_Split
+- Description: Device : D_Schottky_Dual_Series_AKC_Split
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Schottky_Dual_Series_AKC_Split](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Schottky_Dual_Series_AKC_Split)
 - Short Link: [http://oom.lt/SZKDEVICEDSCHOTTKYDUALSERIESAKCSPLIT](http://oom.lt/SZKDEVICEDSCHOTTKYDUALSERIESAKCSPLIT)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|D_Schottky_Dual_Series_AKC_Split|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-D_Schottky_Dual_Series_AKC_Split|
 |Hex ID (short code)|hexID|SZKDEVICEDSCHOTTKYDUALSERIESAKCSPLIT|
-|name|name|D_Schottky_Dual_Series_AKC_Split|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'D_Schottky_Dual_Series_AKC_Split', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'diode', 'kicadSymbolki_description': 'Dual Schottky diode, anode/cathode/center'}]|
+|name|name|Device : D_Schottky_Dual_Series_AKC_Split|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'D_Schottky_Dual_Series_AKC_Split'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_locked'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'diode'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Dual Schottky diode</td><td> anode/cathode/center'</td></tr></table>]|
 ||||

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-OptoDevice-R_LDR_5.0x4.1mm_P3mm_Vertical|
 |Hex ID (short code)|hexID|FZKOPRLDR5X41P3VERTICAL|
 |name|name|OptoDevice : R_LDR_5.0x4.1mm_P3mm_Vertical|
-|Footprint Kicad|footprintKicadDetails|{'name': 'R_LDR_5.0x4.1mm_P3mm_Vertical', 'description': 'Resistor, LDR 5x4.1mm, see http://cdn-reichelt.de/documents/datenblatt/A500/A90xxxx%23PE.pdf', 'tags': 'Resistor LDR5x4.1mm', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/R_LDR_5.0x4.1mm_P3mm_Vertical.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'R_LDR_5.0x4.1mm_P3mm_Vertical'</td><td> 'description'</td></tr><tr><td> 'Resistor</td><td> LDR 5x4.1mm</td><td> see http</td></tr><tr><td>//cdn-reichelt.de/documents/datenblatt/A500/A90xxxx%23PE.pdf'</td><td> 'tags'</td></tr><tr><td> 'Resistor LDR5x4.1mm'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/OptoDevice.3dshapes/R_LDR_5.0x4.1mm_P3mm_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

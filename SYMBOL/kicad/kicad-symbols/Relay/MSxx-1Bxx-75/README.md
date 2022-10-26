@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKRELAYMSXX1BXX75 > MSxx-1Bxx-75
+# SZKRELAYMSXX1BXX75 > Relay : MSxx-1Bxx-75
 
 - ID: SYMBOL-kicad-kicad-symbols-Relay-MSxx-1Bxx-75
 - Hex ID: SZKRELAYMSXX1BXX75
-- Name: MSxx-1Bxx-75
-- Description: MSxx-1Bxx-75
+- Name: Relay : MSxx-1Bxx-75
+- Description: Relay : MSxx-1Bxx-75
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-MSxx-1Bxx-75](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-MSxx-1Bxx-75)
 - Short Link: [http://oom.lt/SZKRELAYMSXX1BXX75](http://oom.lt/SZKRELAYMSXX1BXX75)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MSxx-1Bxx-75|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Relay-MSxx-1Bxx-75|
 |Hex ID (short code)|hexID|SZKRELAYMSXX1BXX75|
-|name|name|MSxx-1Bxx-75|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'K', 'kicadSymbolValue': 'MSxx-1Bxx-75', 'kicadSymbolFootprint': 'Relay_THT:Relay_SPST_StandexMeder_MS_Form1AB', 'kicadSymbolDatasheet': 'https://standexelectronics.com/de/produkte/ms-reed-relais/', 'kicadSymbolki_keywords': 'Single Pole Reed Relay SPST', 'kicadSymbolki_description': 'Standex Meder MS reed relay, SPST, Opening Contact', 'kicadSymbolki_fp_filters': 'Relay*SPST*StandexMeder*MS*Form1AB*'}]|
+|name|name|Relay : MSxx-1Bxx-75|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'K'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MSxx-1Bxx-75'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Relay_THT</td></tr><tr><td>Relay_SPST_StandexMeder_MS_Form1AB'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//standexelectronics.com/de/produkte/ms-reed-relais/'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Single Pole Reed Relay SPST'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Standex Meder MS reed relay</td><td> SPST</td><td> Opening Contact'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Relay*SPST*StandexMeder*MS*Form1AB*'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUINTEL886MAXMODE > 8086_Max_Mode
+# SZKMCUINTEL886MAXMODE > MCU_Intel : 8086_Max_Mode
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Intel-8086_Max_Mode
 - Hex ID: SZKMCUINTEL886MAXMODE
-- Name: 8086_Max_Mode
-- Description: 8086_Max_Mode
+- Name: MCU_Intel : 8086_Max_Mode
+- Description: MCU_Intel : 8086_Max_Mode
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Intel-8086_Max_Mode](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Intel-8086_Max_Mode)
 - Short Link: [http://oom.lt/SZKMCUINTEL886MAXMODE](http://oom.lt/SZKMCUINTEL886MAXMODE)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|8086_Max_Mode|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Intel-8086_Max_Mode|
 |Hex ID (short code)|hexID|SZKMCUINTEL886MAXMODE|
-|name|name|8086_Max_Mode|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '8086_Max_Mode', 'kicadSymbolFootprint': 'Package_DIP:DIP-40_W15.24mm', 'kicadSymbolDatasheet': 'http://datasheets.chipdb.org/Intel/x86/808x/datashts/8086/231455-006.pdf', 'kicadSymbolki_keywords': 'MPRO', 'kicadSymbolki_description': '8086 (maximum mode), 16-Bit HMOS Microprocessor, PDIP-40', 'kicadSymbolki_fp_filters': 'DIP*W15.24mm*'}]|
+|name|name|MCU_Intel : 8086_Max_Mode|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> '8086_Max_Mode'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>DIP-40_W15.24mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//datasheets.chipdb.org/Intel/x86/808x/datashts/8086/231455-006.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'MPRO'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '8086 (maximum mode)</td><td> 16-Bit HMOS Microprocessor</td><td> PDIP-40'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W15.24mm*'</td></tr></table>]|
 ||||

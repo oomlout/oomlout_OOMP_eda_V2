@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORSWITCHINGTPS6122DCK > TPS61220DCK
+# SZKREGULATORSWITCHINGTPS6122DCK > Regulator_Switching : TPS61220DCK
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS61220DCK
 - Hex ID: SZKREGULATORSWITCHINGTPS6122DCK
-- Name: TPS61220DCK
-- Description: TPS61220DCK
+- Name: Regulator_Switching : TPS61220DCK
+- Description: Regulator_Switching : TPS61220DCK
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS61220DCK](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS61220DCK)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGTPS6122DCK](http://oom.lt/SZKREGULATORSWITCHINGTPS6122DCK)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TPS61220DCK|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS61220DCK|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGTPS6122DCK|
-|name|name|TPS61220DCK|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TPS61220DCK', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:Texas_R-PDSO-G6', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tps61220.pdf', 'kicadSymbolki_keywords': 'Boost adjustable converter', 'kicadSymbolki_description': '400 mA Step-Up Converter, Adjustable Output Voltage, 0.7-5.5V Input Voltage, SC-70', 'kicadSymbolki_fp_filters': 'Texas*R*PDSO*G6*'}]|
+|name|name|Regulator_Switching : TPS61220DCK|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TPS61220DCK'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>Texas_R-PDSO-G6'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/tps61220.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Boost adjustable converter'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '400 mA Step-Up Converter</td><td> Adjustable Output Voltage</td><td> 0.7-5.5V Input Voltage</td><td> SC-70'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Texas*R*PDSO*G6*'</td></tr></table>]|
 ||||

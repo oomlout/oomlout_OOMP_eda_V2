@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORBJTDTB163T > DTB163T
+# SZKTRANSISTORBJTDTB163T > Transistor_BJT : DTB163T
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-DTB163T
 - Hex ID: SZKTRANSISTORBJTDTB163T
-- Name: DTB163T
-- Description: DTB163T
+- Name: Transistor_BJT : DTB163T
+- Description: Transistor_BJT : DTB163T
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-DTB163T](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-DTB163T)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTDTB163T](http://oom.lt/SZKTRANSISTORBJTDTB163T)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DTB163T|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_BJT-DTB163T|
 |Hex ID (short code)|hexID|SZKTRANSISTORBJTDTB163T|
-|name|name|DTB163T|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'DTB163T', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_keywords': 'ROHM Digital PNP Transistor', 'kicadSymbolki_description': 'Digital PNP Transistor, 6k8/NONE, SOT-23', 'kicadSymbolki_fp_filters': 'SOT?23* SC?59*'}]|
+|name|name|Transistor_BJT : DTB163T|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'DTB163T'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'ROHM Digital PNP Transistor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Digital PNP Transistor</td><td> 6k8/NONE</td><td> SOT-23'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23* SC?59*'</td></tr></table>]|
 ||||

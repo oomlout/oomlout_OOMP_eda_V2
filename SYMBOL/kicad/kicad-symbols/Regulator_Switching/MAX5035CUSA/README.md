@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORSWITCHINGMAX535CUSA > MAX5035CUSA
+# SZKREGULATORSWITCHINGMAX535CUSA > Regulator_Switching : MAX5035CUSA
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-MAX5035CUSA
 - Hex ID: SZKREGULATORSWITCHINGMAX535CUSA
-- Name: MAX5035CUSA
-- Description: MAX5035CUSA
+- Name: Regulator_Switching : MAX5035CUSA
+- Description: Regulator_Switching : MAX5035CUSA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-MAX5035CUSA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-MAX5035CUSA)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGMAX535CUSA](http://oom.lt/SZKREGULATORSWITCHINGMAX535CUSA)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MAX5035CUSA|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-MAX5035CUSA|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGMAX535CUSA|
-|name|name|MAX5035CUSA|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MAX5035AUSA', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MAX5035CUSA', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm', 'kicadSymbolDatasheet': 'http://datasheets.maximintegrated.com/en/ds/MAX5035.pdf', 'kicadSymbolki_keywords': '12V 1A Step-Down Converter 76V', 'kicadSymbolki_description': '1A, High-Efficiency Step-Down DC-DC Converter, 12V fixed output voltage, Vin 76V, SO-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm*'}]|
+|name|name|Regulator_Switching : MAX5035CUSA|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'MAX5035AUSA'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MAX5035CUSA'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-8_3.9x4.9mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//datasheets.maximintegrated.com/en/ds/MAX5035.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> '12V 1A Step-Down Converter 76V'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '1A</td><td> High-Efficiency Step-Down DC-DC Converter</td><td> 12V fixed output voltage</td><td> Vin 76V</td><td> SO-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*3.9x4.9mm*P1.27mm*'</td></tr></table>]|
 ||||

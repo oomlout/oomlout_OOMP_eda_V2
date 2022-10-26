@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_BGA-Xilinx_FFG1157_FFG1158|
 |Hex ID (short code)|hexID|FZKBGAXILINXFFG1157FFG1158|
 |name|name|Package_BGA : Xilinx_FFG1157_FFG1158|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Xilinx_FFG1157_FFG1158', 'description': 'Virtex-7 BGA, 34x34 grid, 35x35mm package, 1mm pitch; https://www.xilinx.com/support/documentation/user_guides/ug475_7Series_Pkg_Pinout.pdf#page=299, NSMD pad definition Appendix A', 'tags': 'BGA 1156 1 FF1157 FFG1157 FFV1157 FF1158 FFG1158 FFV1158', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/Xilinx_FFG1157_FFG1158.wrl', 'pins': {'type': 'smd', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Xilinx_FFG1157_FFG1158'</td><td> 'description'</td></tr><tr><td> 'Virtex-7 BGA</td><td> 34x34 grid</td><td> 35x35mm package</td><td> 1mm pitch; https</td></tr><tr><td>//www.xilinx.com/support/documentation/user_guides/ug475_7Series_Pkg_Pinout.pdf#page=299</td><td> NSMD pad definition Appendix A'</td><td> 'tags'</td></tr><tr><td> 'BGA 1156 1 FF1157 FFG1157 FFV1157 FF1158 FFG1158 FFV1158'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_BGA.3dshapes/Xilinx_FFG1157_FFG1158.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

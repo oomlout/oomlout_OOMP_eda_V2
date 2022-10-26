@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUNXPLPCLPC1225FBD48321 > LPC1225FBD48-321
+# SZKMCUNXPLPCLPC1225FBD48321 > MCU_NXP_LPC : LPC1225FBD48-321
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_NXP_LPC-LPC1225FBD48-321
 - Hex ID: SZKMCUNXPLPCLPC1225FBD48321
-- Name: LPC1225FBD48-321
-- Description: LPC1225FBD48-321
+- Name: MCU_NXP_LPC : LPC1225FBD48-321
+- Description: MCU_NXP_LPC : LPC1225FBD48-321
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_LPC-LPC1225FBD48-321](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_LPC-LPC1225FBD48-321)
 - Short Link: [http://oom.lt/SZKMCUNXPLPCLPC1225FBD48321](http://oom.lt/SZKMCUNXPLPCLPC1225FBD48321)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LPC1225FBD48-321|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_NXP_LPC-LPC1225FBD48-321|
 |Hex ID (short code)|hexID|SZKMCUNXPLPCLPC1225FBD48321|
-|name|name|LPC1225FBD48-321|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LPC1224FBD48-101', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LPC1225FBD48-321', 'kicadSymbolFootprint': 'Package_QFP:LQFP-48_7x7mm_P0.5mm', 'kicadSymbolDatasheet': 'https://www.nxp.com/docs/en/data-sheet/LPC122X.pdf', 'kicadSymbolki_keywords': 'ARM, 32-bit, Cortex-M0, M0, NXP, microcontroller', 'kicadSymbolki_description': 'LPC122x 32-bit ARM Cortex-M0 microcontroller, 80 kB FLASH, 8 kB SRAM, LQFP-48', 'kicadSymbolki_fp_filters': 'LQFP*7x7mm*P0.5mm*'}]|
+|name|name|MCU_NXP_LPC : LPC1225FBD48-321|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'LPC1224FBD48-101'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LPC1225FBD48-321'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_QFP</td></tr><tr><td>LQFP-48_7x7mm_P0.5mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.nxp.com/docs/en/data-sheet/LPC122X.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'ARM</td><td> 32-bit</td><td> Cortex-M0</td><td> M0</td><td> NXP</td><td> microcontroller'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'LPC122x 32-bit ARM Cortex-M0 microcontroller</td><td> 80 kB FLASH</td><td> 8 kB SRAM</td><td> LQFP-48'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'LQFP*7x7mm*P0.5mm*'</td></tr></table>]|
 ||||

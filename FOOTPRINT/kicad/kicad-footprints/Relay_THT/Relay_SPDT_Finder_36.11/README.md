@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_SPDT_Finder_36.11|
 |Hex ID (short code)|hexID|FZKRELRELAYSPDTFINDER3611|
 |name|name|Relay_THT : Relay_SPDT_Finder_36.11|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Relay_SPDT_Finder_36.11', 'description': 'FINDER 36.11, SPDT relay, 10A, https://gfinder.findernet.com/public/attachments/36/EN/S36EN.pdf', 'tags': 'spdt relay', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Relay_THT.3dshapes/Relay_SPDT_Finder_36.11.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Relay_SPDT_Finder_36.11'</td><td> 'description'</td></tr><tr><td> 'FINDER 36.11</td><td> SPDT relay</td><td> 10A</td><td> https</td></tr><tr><td>//gfinder.findernet.com/public/attachments/36/EN/S36EN.pdf'</td><td> 'tags'</td></tr><tr><td> 'spdt relay'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Relay_THT.3dshapes/Relay_SPDT_Finder_36.11.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKFILCHOKESCHAFFNERRN121521M6 > Choke_Schaffner_RN102-1.5-02-1M6
+# SZKFILCHOKESCHAFFNERRN121521M6 > Filter : Choke_Schaffner_RN102-1.5-02-1M6
 
 - ID: SYMBOL-kicad-kicad-symbols-Filter-Choke_Schaffner_RN102-1.5-02-1M6
 - Hex ID: SZKFILCHOKESCHAFFNERRN121521M6
-- Name: Choke_Schaffner_RN102-1.5-02-1M6
-- Description: Choke_Schaffner_RN102-1.5-02-1M6
+- Name: Filter : Choke_Schaffner_RN102-1.5-02-1M6
+- Description: Filter : Choke_Schaffner_RN102-1.5-02-1M6
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Filter-Choke_Schaffner_RN102-1.5-02-1M6](http://oom.lt/SYMBOL-kicad-kicad-symbols-Filter-Choke_Schaffner_RN102-1.5-02-1M6)
 - Short Link: [http://oom.lt/SZKFILCHOKESCHAFFNERRN121521M6](http://oom.lt/SZKFILCHOKESCHAFFNERRN121521M6)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Choke_Schaffner_RN102-1.5-02-1M6|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Filter-Choke_Schaffner_RN102-1.5-02-1M6|
 |Hex ID (short code)|hexID|SZKFILCHOKESCHAFFNERRN121521M6|
-|name|name|Choke_Schaffner_RN102-1.5-02-1M6|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'Choke_Schaffner_RN102-0.3-02-22M', 'kicadSymbolReference': 'FL', 'kicadSymbolValue': 'Choke_Schaffner_RN102-1.5-02-1M6', 'kicadSymbolFootprint': 'Inductor_THT:Choke_Schaffner_RN102-04-14.0x14.0mm', 'kicadSymbolDatasheet': 'https://www.schaffner.com/products/download/product/datasheet/rn-series-common-mode-chokes-new/', 'kicadSymbolki_keywords': 'common-mode common mode choke powerline power line filter', 'kicadSymbolki_description': 'Common mode choke, 1.5A, 300VAC, 1.6mH, 94mohm, RN-102', 'kicadSymbolki_fp_filters': 'Choke*Schaffner*RN102*'}]|
+|name|name|Filter : Choke_Schaffner_RN102-1.5-02-1M6|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'Choke_Schaffner_RN102-0.3-02-22M'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'FL'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Choke_Schaffner_RN102-1.5-02-1M6'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Inductor_THT</td></tr><tr><td>Choke_Schaffner_RN102-04-14.0x14.0mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.schaffner.com/products/download/product/datasheet/rn-series-common-mode-chokes-new/'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'common-mode common mode choke powerline power line filter'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Common mode choke</td><td> 1.5A</td><td> 300VAC</td><td> 1.6mH</td><td> 94mohm</td><td> RN-102'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Choke*Schaffner*RN102*'</td></tr></table>]|
 ||||

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-223-8|
 |Hex ID (short code)|hexID|FZKPACKAGETOSOTSMSOT2238|
 |name|name|Package_TO_SOT_SMD : SOT-223-8|
-|Footprint Kicad|footprintKicadDetails|{'name': 'SOT-223-8', 'description': 'module CMS SOT223 8 pins, https://www.diodes.com/assets/Datasheets/ZXSBMR16PT8.pdf', 'tags': 'CMS SOT', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-223-8.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SOT-223-8'</td><td> 'description'</td></tr><tr><td> 'module CMS SOT223 8 pins</td><td> https</td></tr><tr><td>//www.diodes.com/assets/Datasheets/ZXSBMR16PT8.pdf'</td><td> 'tags'</td></tr><tr><td> 'CMS SOT'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_TO_SOT_SMD.3dshapes/SOT-223-8.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-OptoDevice-Osram_BPW82|
 |Hex ID (short code)|hexID|FZKOPOSRAMBPW82|
 |name|name|OptoDevice : Osram_BPW82|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Osram_BPW82', 'description': 'PhotoDiode, BPW82, RM2.54', 'tags': 'PhotoDiode BPW82 RM2.54', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/Osram_BPW82.wrl', 'pins': {'type': 'thru_hole', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Osram_BPW82'</td><td> 'description'</td></tr><tr><td> 'PhotoDiode</td><td> BPW82</td><td> RM2.54'</td><td> 'tags'</td></tr><tr><td> 'PhotoDiode BPW82 RM2.54'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/OptoDevice.3dshapes/Osram_BPW82.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

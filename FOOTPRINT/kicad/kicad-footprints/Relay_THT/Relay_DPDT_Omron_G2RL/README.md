@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_DPDT_Omron_G2RL|
 |Hex ID (short code)|hexID|FZKRELRELAYDPDTOMRONG2RL|
 |name|name|Relay_THT : Relay_DPDT_Omron_G2RL|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Relay_DPDT_Omron_G2RL', 'description': 'Omron Relay DPDT, https://omronfs.omron.com/en_US/ecb/products/pdf/en-g2rl.pdf', 'tags': 'Omron Relay DPDT', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Relay_THT.3dshapes/Relay_DPDT_Omron_G2RL.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Relay_DPDT_Omron_G2RL'</td><td> 'description'</td></tr><tr><td> 'Omron Relay DPDT</td><td> https</td></tr><tr><td>//omronfs.omron.com/en_US/ecb/products/pdf/en-g2rl.pdf'</td><td> 'tags'</td></tr><tr><td> 'Omron Relay DPDT'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Relay_THT.3dshapes/Relay_DPDT_Omron_G2RL.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

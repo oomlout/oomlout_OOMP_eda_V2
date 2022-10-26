@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORPOWERMOMG125HXN2 > MG1250H-XN2MM
+# SZKTRANSISTORPOWERMOMG125HXN2 > Transistor_Power_Module : MG1250H-XN2MM
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_Power_Module-MG1250H-XN2MM
 - Hex ID: SZKTRANSISTORPOWERMOMG125HXN2
-- Name: MG1250H-XN2MM
-- Description: MG1250H-XN2MM
+- Name: Transistor_Power_Module : MG1250H-XN2MM
+- Description: Transistor_Power_Module : MG1250H-XN2MM
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_Power_Module-MG1250H-XN2MM](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_Power_Module-MG1250H-XN2MM)
 - Short Link: [http://oom.lt/SZKTRANSISTORPOWERMOMG125HXN2](http://oom.lt/SZKTRANSISTORPOWERMOMG125HXN2)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MG1250H-XN2MM|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_Power_Module-MG1250H-XN2MM|
 |Hex ID (short code)|hexID|SZKTRANSISTORPOWERMOMG125HXN2|
-|name|name|MG1250H-XN2MM|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'FS75R07N2E4', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MG1250H-XN2MM', 'kicadSymbolFootprint': 'Transistor_Power_Module:Littelfuse_Package_H_XN2MM', 'kicadSymbolDatasheet': 'https://www.littelfuse.com/~/media/electronics/datasheets/power_semiconductors/littelfuse_power_semiconductor_igbt_module_mg1250h_xn2mm_datasheet.pdf.pdf', 'kicadSymbolki_keywords': 'IGBT Power Module Trench Field Stop Technology', 'kicadSymbolki_description': '50A, 1200V, 260W x 6 , 3-phase, Freewheeling Diode, 5k NTC, Package-H (XN2MM)', 'kicadSymbolki_fp_filters': 'Littelfuse*Package*H*XN2MM*'}]|
+|name|name|Transistor_Power_Module : MG1250H-XN2MM|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'FS75R07N2E4'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MG1250H-XN2MM'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Transistor_Power_Module</td></tr><tr><td>Littelfuse_Package_H_XN2MM'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.littelfuse.com/~/media/electronics/datasheets/power_semiconductors/littelfuse_power_semiconductor_igbt_module_mg1250h_xn2mm_datasheet.pdf.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'IGBT Power Module Trench Field Stop Technology'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '50A</td><td> 1200V</td><td> 260W x 6 </td><td> 3-phase</td><td> Freewheeling Diode</td><td> 5k NTC</td><td> Package-H (XN2MM)'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Littelfuse*Package*H*XN2MM*'</td></tr></table>]|
 ||||

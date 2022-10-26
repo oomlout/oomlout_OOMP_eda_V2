@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-QFN-32-1EP_4x4mm_P0.4mm_EP2.65x2.65mm_ThermalVias|
 |Hex ID (short code)|hexID|FZKDFNQFN321EP4X4P4EP265X265THERMALVIAS|
 |name|name|Package_DFN_QFN : QFN-32-1EP_4x4mm_P0.4mm_EP2.65x2.65mm_ThermalVias|
-|Footprint Kicad|footprintKicadDetails|{'name': 'QFN-32-1EP_4x4mm_P0.4mm_EP2.65x2.65mm_ThermalVias', 'description': 'QFN, 32 Pin (https://www.renesas.com/eu/en/package-image/pdf/outdrawing/l32.4x4a.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py', 'tags': 'QFN NoLead', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/QFN-32-1EP_4x4mm_P0.4mm_EP2.65x2.65mm.wrl', 'pins': {'type': 'smd', 'shape': 'custom'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'QFN-32-1EP_4x4mm_P0.4mm_EP2.65x2.65mm_ThermalVias'</td><td> 'description'</td></tr><tr><td> 'QFN</td><td> 32 Pin (https</td></tr><tr><td>//www.renesas.com/eu/en/package-image/pdf/outdrawing/l32.4x4a.pdf)</td><td> generated with kicad-footprint-generator ipc_noLead_generator.py'</td><td> 'tags'</td></tr><tr><td> 'QFN NoLead'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DFN_QFN.3dshapes/QFN-32-1EP_4x4mm_P0.4mm_EP2.65x2.65mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'custom'</td></tr></table></td></tr></table>|
 ||||
 
 

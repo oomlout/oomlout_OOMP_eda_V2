@@ -29,5 +29,5 @@ NO IMAGE
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-RF_GSM-ublox_SARA-G3_LGA-96|
 |Hex ID (short code)|hexID|FZKGSMUBLOXSARAG3LGA96|
 |name|name|RF_GSM : ublox_SARA-G3_LGA-96|
-|Footprint Kicad|footprintKicadDetails|{'name': 'ublox_SARA-G3_LGA-96', 'description': 'ublox Sara GSM/HSPA modem, https://www.u-blox.com/sites/default/files/SARA-G3-U2_SysIntegrManual_%28UBX-13000995%29.pdf, pag.162', 'tags': 'ublox SARA-G3 SARA-U2 GSM HSPA', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/RF_GSM.3dshapes/ublox_SARA-G3_LGA-96.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'ublox_SARA-G3_LGA-96'</td><td> 'description'</td></tr><tr><td> 'ublox Sara GSM/HSPA modem</td><td> https</td></tr><tr><td>//www.u-blox.com/sites/default/files/SARA-G3-U2_SysIntegrManual_%28UBX-13000995%29.pdf</td><td> pag.162'</td><td> 'tags'</td></tr><tr><td> 'ublox SARA-G3 SARA-U2 GSM HSPA'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/RF_GSM.3dshapes/ublox_SARA-G3_LGA-96.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

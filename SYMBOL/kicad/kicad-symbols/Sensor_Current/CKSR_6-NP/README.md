@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKSENCURRENTCKSR6NP > CKSR_6-NP
+# SZKSENCURRENTCKSR6NP > Sensor_Current : CKSR_6-NP
 
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Current-CKSR_6-NP
 - Hex ID: SZKSENCURRENTCKSR6NP
-- Name: CKSR_6-NP
-- Description: CKSR_6-NP
+- Name: Sensor_Current : CKSR_6-NP
+- Description: Sensor_Current : CKSR_6-NP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-CKSR_6-NP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-CKSR_6-NP)
 - Short Link: [http://oom.lt/SZKSENCURRENTCKSR6NP](http://oom.lt/SZKSENCURRENTCKSR6NP)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|CKSR_6-NP|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Current-CKSR_6-NP|
 |Hex ID (short code)|hexID|SZKSENCURRENTCKSR6NP|
-|name|name|CKSR_6-NP|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'CKSR_15-NP', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'CKSR_6-NP', 'kicadSymbolFootprint': 'Sensor_Current:LEM_CKSR', 'kicadSymbolDatasheet': 'https://www.lem.com/sites/default/files/products_datasheets/cksr_series.pdf', 'kicadSymbolki_keywords': 'current transducer', 'kicadSymbolki_description': 'Current Transducer, 6A, Unipolar, 0-5V Output', 'kicadSymbolki_fp_filters': 'LEM*CKSR*'}]|
+|name|name|Sensor_Current : CKSR_6-NP|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'CKSR_15-NP'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'CKSR_6-NP'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Sensor_Current</td></tr><tr><td>LEM_CKSR'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.lem.com/sites/default/files/products_datasheets/cksr_series.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'current transducer'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Current Transducer</td><td> 6A</td><td> Unipolar</td><td> 0-5V Output'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'LEM*CKSR*'</td></tr></table>]|
 ||||

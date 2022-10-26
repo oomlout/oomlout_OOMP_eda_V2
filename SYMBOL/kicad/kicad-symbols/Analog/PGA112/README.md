@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKANALOGPGA112 > PGA112
+# SZKANALOGPGA112 > Analog : PGA112
 
 - ID: SYMBOL-kicad-kicad-symbols-Analog-PGA112
 - Hex ID: SZKANALOGPGA112
-- Name: PGA112
-- Description: PGA112
+- Name: Analog : PGA112
+- Description: Analog : PGA112
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog-PGA112](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog-PGA112)
 - Short Link: [http://oom.lt/SZKANALOGPGA112](http://oom.lt/SZKANALOGPGA112)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PGA112|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog-PGA112|
 |Hex ID (short code)|hexID|SZKANALOGPGA112|
-|name|name|PGA112|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PGA112', 'kicadSymbolFootprint': 'Package_SO:TSSOP-10_3x3mm_P0.5mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/sbos424c/sbos424c.pdf', 'kicadSymbolki_keywords': 'PGA SPI', 'kicadSymbolki_description': 'Zero-Drift Programmable Gain Amplifier With Mux, x1/x2/x4/x8/x16/x32/x64/x128 gains, VSSOP-10', 'kicadSymbolki_fp_filters': 'TSSOP*3x3mm*P0.5mm*'}]|
+|name|name|Analog : PGA112|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'PGA112'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>TSSOP-10_3x3mm_P0.5mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/sbos424c/sbos424c.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'PGA SPI'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Zero-Drift Programmable Gain Amplifier With Mux</td><td> x1/x2/x4/x8/x16/x32/x64/x128 gains</td><td> VSSOP-10'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TSSOP*3x3mm*P0.5mm*'</td></tr></table>]|
 ||||

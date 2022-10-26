@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREFERENCEVOLTAGEREF525ID > REF5025ID
+# SZKREFERENCEVOLTAGEREF525ID > Reference_Voltage : REF5025ID
 
 - ID: SYMBOL-kicad-kicad-symbols-Reference_Voltage-REF5025ID
 - Hex ID: SZKREFERENCEVOLTAGEREF525ID
-- Name: REF5025ID
-- Description: REF5025ID
+- Name: Reference_Voltage : REF5025ID
+- Description: Reference_Voltage : REF5025ID
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-REF5025ID](http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-REF5025ID)
 - Short Link: [http://oom.lt/SZKREFERENCEVOLTAGEREF525ID](http://oom.lt/SZKREFERENCEVOLTAGEREF525ID)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|REF5025ID|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Reference_Voltage-REF5025ID|
 |Hex ID (short code)|hexID|SZKREFERENCEVOLTAGEREF525ID|
-|name|name|REF5025ID|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'REF5020AD', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'REF5025ID', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/ref5030.pdf', 'kicadSymbolki_keywords': 'Low Noise Precision Voltage Reference 2.5V', 'kicadSymbolki_description': '2.5V 0.05% 10mA Low Noise Precision Voltage Reference, SO-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm*'}]|
+|name|name|Reference_Voltage : REF5025ID|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'REF5020AD'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'REF5025ID'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-8_3.9x4.9mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/ref5030.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Low Noise Precision Voltage Reference 2.5V'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '2.5V 0.05% 10mA Low Noise Precision Voltage Reference</td><td> SO-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*3.9x4.9mm*P1.27mm*'</td></tr></table>]|
 ||||

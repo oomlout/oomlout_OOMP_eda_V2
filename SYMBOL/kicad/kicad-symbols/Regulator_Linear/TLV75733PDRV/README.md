@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORLINEARTLV75733PDRV > TLV75733PDRV
+# SZKREGULATORLINEARTLV75733PDRV > Regulator_Linear : TLV75733PDRV
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-TLV75733PDRV
 - Hex ID: SZKREGULATORLINEARTLV75733PDRV
-- Name: TLV75733PDRV
-- Description: TLV75733PDRV
+- Name: Regulator_Linear : TLV75733PDRV
+- Description: Regulator_Linear : TLV75733PDRV
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TLV75733PDRV](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TLV75733PDRV)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARTLV75733PDRV](http://oom.lt/SZKREGULATORLINEARTLV75733PDRV)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TLV75733PDRV|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-TLV75733PDRV|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARTLV75733PDRV|
-|name|name|TLV75733PDRV|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TLV75509PDRV', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TLV75733PDRV', 'kicadSymbolFootprint': 'Package_SON:WSON-6-1EP_2x2mm_P0.65mm_EP1x1.6mm', 'kicadSymbolDatasheet': 'https://www.ti.com/lit/ds/symlink/tlv757p.pdf', 'kicadSymbolki_keywords': 'LDO Regulator Fixed Positive', 'kicadSymbolki_description': '1A Low IQ Small Size Low Dropout Voltage Regulator, Fixed Output 3.3V, WSON6', 'kicadSymbolki_fp_filters': 'WSON*1EP*2x2mm*P0.65mm*'}]|
+|name|name|Regulator_Linear : TLV75733PDRV|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'TLV75509PDRV'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TLV75733PDRV'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SON</td></tr><tr><td>WSON-6-1EP_2x2mm_P0.65mm_EP1x1.6mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.ti.com/lit/ds/symlink/tlv757p.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'LDO Regulator Fixed Positive'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '1A Low IQ Small Size Low Dropout Voltage Regulator</td><td> Fixed Output 3.3V</td><td> WSON6'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'WSON*1EP*2x2mm*P0.65mm*'</td></tr></table>]|
 ||||

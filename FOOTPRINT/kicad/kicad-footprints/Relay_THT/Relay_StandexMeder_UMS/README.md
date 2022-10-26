@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_StandexMeder_UMS|
 |Hex ID (short code)|hexID|FZKRELRELAYSTANDEXMEDERUMS|
 |name|name|Relay_THT : Relay_StandexMeder_UMS|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Relay_StandexMeder_UMS', 'description': 'Standex-Meder SIL-relais, UMS, see http://cdn-reichelt.de/documents/datenblatt/C300/UMS05_1A80_75L_DB.pdf', 'tags': 'Standex Meder SIL reed relais', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Relay_THT.3dshapes/Relay_StandexMeder_UMS.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Relay_StandexMeder_UMS'</td><td> 'description'</td></tr><tr><td> 'Standex-Meder SIL-relais</td><td> UMS</td><td> see http</td></tr><tr><td>//cdn-reichelt.de/documents/datenblatt/C300/UMS05_1A80_75L_DB.pdf'</td><td> 'tags'</td></tr><tr><td> 'Standex Meder SIL reed relais'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Relay_THT.3dshapes/Relay_StandexMeder_UMS.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

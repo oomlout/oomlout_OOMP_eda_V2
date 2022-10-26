@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_LiteOn_LTST-S326|
 |Hex ID (short code)|hexID|FZKLSMLLITEONLTSTS326|
 |name|name|LED_SMD : LED_LiteOn_LTST-S326|
-|Footprint Kicad|footprintKicadDetails|{'name': 'LED_LiteOn_LTST-S326', 'description': 'http://optoelectronics.liteon.com/upload/download/DS22-2000-287/LTST-S326KGJRKT.PDF', 'tags': 'LED SMD right angle  CCA', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED_LiteOn_LTST-S326.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'LED_LiteOn_LTST-S326'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//optoelectronics.liteon.com/upload/download/DS22-2000-287/LTST-S326KGJRKT.PDF'</td><td> 'tags'</td></tr><tr><td> 'LED SMD right angle  CCA'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/LED_SMD.3dshapes/LED_LiteOn_LTST-S326.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

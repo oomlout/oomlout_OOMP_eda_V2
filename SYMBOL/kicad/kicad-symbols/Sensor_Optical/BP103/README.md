@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKSENOPTICALBP13 > BP103
+# SZKSENOPTICALBP13 > Sensor_Optical : BP103
 
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Optical-BP103
 - Hex ID: SZKSENOPTICALBP13
-- Name: BP103
-- Description: BP103
+- Name: Sensor_Optical : BP103
+- Description: Sensor_Optical : BP103
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-BP103](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-BP103)
 - Short Link: [http://oom.lt/SZKSENOPTICALBP13](http://oom.lt/SZKSENOPTICALBP13)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BP103|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Optical-BP103|
 |Hex ID (short code)|hexID|SZKSENOPTICALBP13|
-|name|name|BP103|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'BP103', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-18-3_Lens', 'kicadSymbolDatasheet': 'http://www.osram-os.com/Graphics/XPic3/00101777_0.pdf/BP', 'kicadSymbolki_keywords': 'npn phototransistor', 'kicadSymbolki_description': 'NPN Phototransistor', 'kicadSymbolki_fp_filters': 'TO?18*Lens*'}]|
+|name|name|Sensor_Optical : BP103|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'BP103'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_THT</td></tr><tr><td>TO-18-3_Lens'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.osram-os.com/Graphics/XPic3/00101777_0.pdf/BP'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'npn phototransistor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'NPN Phototransistor'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TO?18*Lens*'</td></tr></table>]|
 ||||

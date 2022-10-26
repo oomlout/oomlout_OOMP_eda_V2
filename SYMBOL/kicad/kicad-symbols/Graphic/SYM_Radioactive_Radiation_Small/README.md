@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKGRAPHICSYMRADIOACTIVERADIATIONSLL > SYM_Radioactive_Radiation_Small
+# SZKGRAPHICSYMRADIOACTIVERADIATIONSLL > Graphic : SYM_Radioactive_Radiation_Small
 
 - ID: SYMBOL-kicad-kicad-symbols-Graphic-SYM_Radioactive_Radiation_Small
 - Hex ID: SZKGRAPHICSYMRADIOACTIVERADIATIONSLL
-- Name: SYM_Radioactive_Radiation_Small
-- Description: SYM_Radioactive_Radiation_Small
+- Name: Graphic : SYM_Radioactive_Radiation_Small
+- Description: Graphic : SYM_Radioactive_Radiation_Small
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Graphic-SYM_Radioactive_Radiation_Small](http://oom.lt/SYMBOL-kicad-kicad-symbols-Graphic-SYM_Radioactive_Radiation_Small)
 - Short Link: [http://oom.lt/SZKGRAPHICSYMRADIOACTIVERADIATIONSLL](http://oom.lt/SZKGRAPHICSYMRADIOACTIVERADIATIONSLL)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SYM_Radioactive_Radiation_Small|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Graphic-SYM_Radioactive_Radiation_Small|
 |Hex ID (short code)|hexID|SZKGRAPHICSYMRADIOACTIVERADIATIONSLL|
-|name|name|SYM_Radioactive_Radiation_Small|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': '#SYM', 'kicadSymbolValue': 'SYM_Radioactive_Radiation_Small', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'symbol logo radioactive radiation warning', 'kicadSymbolki_description': 'Radioactive/radiation warning symbol, small'}]|
+|name|name|Graphic : SYM_Radioactive_Radiation_Small|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> '#SYM'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'SYM_Radioactive_Radiation_Small'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'symbol logo radioactive radiation warning'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Radioactive/radiation warning symbol</td><td> small'</td></tr></table>]|
 ||||

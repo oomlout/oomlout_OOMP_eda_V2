@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SO-SOP-8_3.9x4.9mm_P1.27mm|
 |Hex ID (short code)|hexID|FZKSOS839X49P127|
 |name|name|Package_SO : SOP-8_3.9x4.9mm_P1.27mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'SOP-8_3.9x4.9mm_P1.27mm', 'description': 'SOP, 8 Pin (http://www.macronix.com/Lists/Datasheet/Attachments/7534/MX25R3235F,%20Wide%20Range,%2032Mb,%20v1.6.pdf#page=79), generated with kicad-footprint-generator ipc_gullwing_generator.py', 'tags': 'SOP SO', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/SOP-8_3.9x4.9mm_P1.27mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SOP-8_3.9x4.9mm_P1.27mm'</td><td> 'description'</td></tr><tr><td> 'SOP</td><td> 8 Pin (http</td></tr><tr><td>//www.macronix.com/Lists/Datasheet/Attachments/7534/MX25R3235F</td><td>%20Wide%20Range</td><td>%2032Mb</td><td>%20v1.6.pdf#page=79)</td><td> generated with kicad-footprint-generator ipc_gullwing_generator.py'</td><td> 'tags'</td></tr><tr><td> 'SOP SO'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_SO.3dshapes/SOP-8_3.9x4.9mm_P1.27mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

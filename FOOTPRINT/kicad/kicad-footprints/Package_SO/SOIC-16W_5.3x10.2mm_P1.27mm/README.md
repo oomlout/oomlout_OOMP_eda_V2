@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SO-SOIC-16W_5.3x10.2mm_P1.27mm|
 |Hex ID (short code)|hexID|FZKSOSOIC16W53X12P127|
 |name|name|Package_SO : SOIC-16W_5.3x10.2mm_P1.27mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'SOIC-16W_5.3x10.2mm_P1.27mm', 'description': '16-Lead Plastic Small Outline (SO) - Wide, 5.3 mm Body (http://www.ti.com/lit/ml/msop002a/msop002a.pdf)', 'tags': 'SOIC 1.27', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/SOIC-16W_5.3x10.2mm_P1.27mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SOIC-16W_5.3x10.2mm_P1.27mm'</td><td> 'description'</td></tr><tr><td> '16-Lead Plastic Small Outline (SO) - Wide</td><td> 5.3 mm Body (http</td></tr><tr><td>//www.ti.com/lit/ml/msop002a/msop002a.pdf)'</td><td> 'tags'</td></tr><tr><td> 'SOIC 1.27'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_SO.3dshapes/SOIC-16W_5.3x10.2mm_P1.27mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKPOWERPROTECTIONESDA6V15SC6 > ESDA6V1-5SC6
+# SZKPOWERPROTECTIONESDA6V15SC6 > Power_Protection : ESDA6V1-5SC6
 
 - ID: SYMBOL-kicad-kicad-symbols-Power_Protection-ESDA6V1-5SC6
 - Hex ID: SZKPOWERPROTECTIONESDA6V15SC6
-- Name: ESDA6V1-5SC6
-- Description: ESDA6V1-5SC6
+- Name: Power_Protection : ESDA6V1-5SC6
+- Description: Power_Protection : ESDA6V1-5SC6
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-ESDA6V1-5SC6](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-ESDA6V1-5SC6)
 - Short Link: [http://oom.lt/SZKPOWERPROTECTIONESDA6V15SC6](http://oom.lt/SZKPOWERPROTECTIONESDA6V15SC6)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ESDA6V1-5SC6|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Protection-ESDA6V1-5SC6|
 |Hex ID (short code)|hexID|SZKPOWERPROTECTIONESDA6V15SC6|
-|name|name|ESDA6V1-5SC6|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'ESDA6V1-5SC6', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-6', 'kicadSymbolDatasheet': 'www.st.com/resource/en/datasheet/esda6v1-5sc6.pdf', 'kicadSymbolki_keywords': 'ESD protection suppression transient', 'kicadSymbolki_description': 'Quintuple bidirectional transil, Suppressor for ESD protection, 6V1 Breakdown, SOT-23-6', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
+|name|name|Power_Protection : ESDA6V1-5SC6|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ESDA6V1-5SC6'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-23-6'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'www.st.com/resource/en/datasheet/esda6v1-5sc6.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'ESD protection suppression transient'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Quintuple bidirectional transil</td><td> Suppressor for ESD protection</td><td> 6V1 Breakdown</td><td> SOT-23-6'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23*'</td></tr></table>]|
 ||||

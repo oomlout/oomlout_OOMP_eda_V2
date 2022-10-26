@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKRELAYFINDER322 > FINDER-30.22
+# SZKRELAYFINDER322 > Relay : FINDER-30.22
 
 - ID: SYMBOL-kicad-kicad-symbols-Relay-FINDER-30.22
 - Hex ID: SZKRELAYFINDER322
-- Name: FINDER-30.22
-- Description: FINDER-30.22
+- Name: Relay : FINDER-30.22
+- Description: Relay : FINDER-30.22
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-FINDER-30.22](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-FINDER-30.22)
 - Short Link: [http://oom.lt/SZKRELAYFINDER322](http://oom.lt/SZKRELAYFINDER322)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|FINDER-30.22|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Relay-FINDER-30.22|
 |Hex ID (short code)|hexID|SZKRELAYFINDER322|
-|name|name|FINDER-30.22|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'K', 'kicadSymbolValue': 'FINDER-30.22', 'kicadSymbolFootprint': 'Relay_THT:Relay_DPDT_Finder_30.22', 'kicadSymbolDatasheet': 'http://gfinder.findernet.com/assets/Series/354/S30EN.pdf', 'kicadSymbolki_keywords': 'Dual Pole Relay', 'kicadSymbolki_description': 'FINDER 30.52, Dual Pole Relay, Subminiature 5mm Pitch, 2A', 'kicadSymbolki_fp_filters': 'Relay*DPDT*Finder*30.22*'}]|
+|name|name|Relay : FINDER-30.22|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'K'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'FINDER-30.22'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Relay_THT</td></tr><tr><td>Relay_DPDT_Finder_30.22'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//gfinder.findernet.com/assets/Series/354/S30EN.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Dual Pole Relay'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'FINDER 30.52</td><td> Dual Pole Relay</td><td> Subminiature 5mm Pitch</td><td> 2A'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Relay*DPDT*Finder*30.22*'</td></tr></table>]|
 ||||

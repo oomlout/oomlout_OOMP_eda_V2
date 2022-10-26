@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUINTEL888 > 8088
+# SZKMCUINTEL888 > MCU_Intel : 8088
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Intel-8088
 - Hex ID: SZKMCUINTEL888
-- Name: 8088
-- Description: 8088
+- Name: MCU_Intel : 8088
+- Description: MCU_Intel : 8088
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Intel-8088](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Intel-8088)
 - Short Link: [http://oom.lt/SZKMCUINTEL888](http://oom.lt/SZKMCUINTEL888)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|8088|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Intel-8088|
 |Hex ID (short code)|hexID|SZKMCUINTEL888|
-|name|name|8088|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '8088', 'kicadSymbolFootprint': 'Package_DIP:DIP-40_W15.24mm', 'kicadSymbolDatasheet': 'http://datasheets.chipdb.org/Intel/x86/808x/datashts/8088/231456-006.pdf', 'kicadSymbolki_keywords': 'MPRO', 'kicadSymbolki_description': '8088 (minimum mode), 8-Bit HMOS Microprocessor, PDIP-40', 'kicadSymbolki_fp_filters': 'DIP*W15.24mm*'}]|
+|name|name|MCU_Intel : 8088|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> '8088'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>DIP-40_W15.24mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//datasheets.chipdb.org/Intel/x86/808x/datashts/8088/231456-006.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'MPRO'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '8088 (minimum mode)</td><td> 8-Bit HMOS Microprocessor</td><td> PDIP-40'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W15.24mm*'</td></tr></table>]|
 ||||

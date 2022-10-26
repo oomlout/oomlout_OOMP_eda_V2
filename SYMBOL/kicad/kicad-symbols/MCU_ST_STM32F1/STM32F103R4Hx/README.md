@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUSTSTM32F1STM32F13R4HX > STM32F103R4Hx
+# SZKMCUSTSTM32F1STM32F13R4HX > MCU_ST_STM32F1 : STM32F103R4Hx
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F1-STM32F103R4Hx
 - Hex ID: SZKMCUSTSTM32F1STM32F13R4HX
-- Name: STM32F103R4Hx
-- Description: STM32F103R4Hx
+- Name: MCU_ST_STM32F1 : STM32F103R4Hx
+- Description: MCU_ST_STM32F1 : STM32F103R4Hx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F1-STM32F103R4Hx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F1-STM32F103R4Hx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32F1STM32F13R4HX](http://oom.lt/SZKMCUSTSTM32F1STM32F13R4HX)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|STM32F103R4Hx|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F1-STM32F103R4Hx|
 |Hex ID (short code)|hexID|SZKMCUSTSTM32F1STM32F13R4HX|
-|name|name|STM32F103R4Hx|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'STM32F103R4Hx', 'kicadSymbolFootprint': 'Package_BGA:TFBGA-64_5x5mm_Layout8x8_P0.5mm', 'kicadSymbolDatasheet': 'http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00210843.pdf', 'kicadSymbolki_keywords': 'ARM Cortex-M3 STM32F1 STM32F103', 'kicadSymbolki_description': 'ARM Cortex-M3 MCU, 16KB flash, 6KB RAM, 72MHz, 2-3.6V, 50 GPIO, TFBGA-64', 'kicadSymbolki_fp_filters': 'TFBGA*5x5mm*Layout8x8*P0.5mm*'}]|
+|name|name|MCU_ST_STM32F1 : STM32F103R4Hx|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'STM32F103R4Hx'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_BGA</td></tr><tr><td>TFBGA-64_5x5mm_Layout8x8_P0.5mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00210843.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'ARM Cortex-M3 STM32F1 STM32F103'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'ARM Cortex-M3 MCU</td><td> 16KB flash</td><td> 6KB RAM</td><td> 72MHz</td><td> 2-3.6V</td><td> 50 GPIO</td><td> TFBGA-64'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TFBGA*5x5mm*Layout8x8*P0.5mm*'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICCAPC85XUF47DV25C8U47DC1779 > 
+# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICCAPC85XUF47DV25C8U47DC1779 > oomlout_OOMP_JLCC_Basic : CAPC-0805-X-UF47D-V25-C8U47D-C1779
 
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0805-X-UF47D-V25-C8U47D-C1779
 - Hex ID: SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICCAPC85XUF47DV25C8U47DC1779
-- Name: 
-- Description: 
+- Name: oomlout_OOMP_JLCC_Basic : CAPC-0805-X-UF47D-V25-C8U47D-C1779
+- Description: oomlout_OOMP_JLCC_Basic : CAPC-0805-X-UF47D-V25-C8U47D-C1779
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0805-X-UF47D-V25-C8U47D-C1779](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0805-X-UF47D-V25-C8U47D-C1779)
 - Short Link: [http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICCAPC85XUF47DV25C8U47DC1779](http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICCAPC85XUF47DV25C8U47DC1779)
   
@@ -25,5 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|CAPC-0805-X-UF47D-V25-C8U47D-C1779|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0805-X-UF47D-V25-C8U47D-C1779|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICCAPC85XUF47DV25C8U47DC1779|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'C', 'kicadSymbolValue': 'CAPC-0805-X-UF47D-V25-C8U47D-C1779', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:CAPC-0805-X-UF47D-V25-C8U47D-C1779', 'kicadSymbolDatasheet': 'oom.lt/C8U47D', 'kicadSymbolki_keywords': 'cap capacitor', 'kicadSymbolki_description': 'hexID: C8U47D;PARTL C-JLCC;C1779;MANUF C-XXXX;CL21A475KAQNNNE;Unpolarized capacitor', 'kicadSymbolki_fp_filters': 'C_*', 'kicadSymbolPin1Name': '~', 'kicadSymbolPin1ElectricalType': '~'}]|
+|name|name|oomlout_OOMP_JLCC_Basic : CAPC-0805-X-UF47D-V25-C8U47D-C1779|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'C'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'CAPC-0805-X-UF47D-V25-C8U47D-C1779'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'oomlout_OOMP_parts</td></tr><tr><td>CAPC-0805-X-UF47D-V25-C8U47D-C1779'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'oom.lt/C8U47D'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'cap capacitor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'hexID</td></tr><tr><td> C8U47D;PARTL C-JLCC;C1779;MANUF C-XXXX;CL21A475KAQNNNE;Unpolarized capacitor'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'C_*'</td></tr></table>]|
 ||||

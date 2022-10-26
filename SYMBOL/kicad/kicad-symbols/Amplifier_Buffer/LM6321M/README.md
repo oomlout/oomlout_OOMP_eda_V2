@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKAMPLIFIERBUFFERLM6321M > LM6321M
+# SZKAMPLIFIERBUFFERLM6321M > Amplifier_Buffer : LM6321M
 
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Buffer-LM6321M
 - Hex ID: SZKAMPLIFIERBUFFERLM6321M
-- Name: LM6321M
-- Description: LM6321M
+- Name: Amplifier_Buffer : LM6321M
+- Description: Amplifier_Buffer : LM6321M
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Buffer-LM6321M](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Buffer-LM6321M)
 - Short Link: [http://oom.lt/SZKAMPLIFIERBUFFERLM6321M](http://oom.lt/SZKAMPLIFIERBUFFERLM6321M)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM6321M|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Buffer-LM6321M|
 |Hex ID (short code)|hexID|SZKAMPLIFIERBUFFERLM6321M|
-|name|name|LM6321M|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM6321M', 'kicadSymbolFootprint': 'Package_SO:SOIC-14_3.9x8.7mm_P1.27mm', 'kicadSymbolDatasheet': 'http://www.electronica60norte.com/mwfls/pdf/LM6221.pdf', 'kicadSymbolki_keywords': 'single buffer', 'kicadSymbolki_description': 'High Speed Buffer, SOIC-14', 'kicadSymbolki_fp_filters': 'SOIC*3.9x8.7mm*P1.27mm*'}]|
+|name|name|Amplifier_Buffer : LM6321M|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LM6321M'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-14_3.9x8.7mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.electronica60norte.com/mwfls/pdf/LM6221.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'single buffer'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'High Speed Buffer</td><td> SOIC-14'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*3.9x8.7mm*P1.27mm*'</td></tr></table>]|
 ||||

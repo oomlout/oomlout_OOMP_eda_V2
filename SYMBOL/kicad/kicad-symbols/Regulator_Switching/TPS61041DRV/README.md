@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORSWITCHINGTPS6141DRV > TPS61041DRV
+# SZKREGULATORSWITCHINGTPS6141DRV > Regulator_Switching : TPS61041DRV
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS61041DRV
 - Hex ID: SZKREGULATORSWITCHINGTPS6141DRV
-- Name: TPS61041DRV
-- Description: TPS61041DRV
+- Name: Regulator_Switching : TPS61041DRV
+- Description: Regulator_Switching : TPS61041DRV
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS61041DRV](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS61041DRV)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGTPS6141DRV](http://oom.lt/SZKREGULATORSWITCHINGTPS6141DRV)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TPS61041DRV|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS61041DRV|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGTPS6141DRV|
-|name|name|TPS61041DRV|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TPS61041DRV', 'kicadSymbolFootprint': 'Package_SON:WSON-6-1EP_2x2mm_P0.65mm_EP1x1.6mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tps61040.pdf', 'kicadSymbolki_keywords': 'Step-Up Boost DC-DC Regulator Adjustable', 'kicadSymbolki_description': 'Synchronous Boost Regulator, Adjustable Output up to 28V, 250 mA Switch Current Limit, WSON-6', 'kicadSymbolki_fp_filters': 'WSON*1EP*2x2mm*P0.65mm*'}]|
+|name|name|Regulator_Switching : TPS61041DRV|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TPS61041DRV'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SON</td></tr><tr><td>WSON-6-1EP_2x2mm_P0.65mm_EP1x1.6mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/tps61040.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Step-Up Boost DC-DC Regulator Adjustable'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Synchronous Boost Regulator</td><td> Adjustable Output up to 28V</td><td> 250 mA Switch Current Limit</td><td> WSON-6'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'WSON*1EP*2x2mm*P0.65mm*'</td></tr></table>]|
 ||||

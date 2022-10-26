@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Diode_THT-Diode_Bridge_15.7x15.7x6.3mm_P10.8mm|
 |Hex ID (short code)|hexID|FZKDDIODEBRIDGE157X157X63P18|
 |name|name|Diode_THT : Diode_Bridge_15.7x15.7x6.3mm_P10.8mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Diode_Bridge_15.7x15.7x6.3mm_P10.8mm', 'description': 'Single phase bridge rectifier case 15.7x15.7', 'tags': 'Diode Bridge', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/Diode_Bridge_15.7x15.7x6.3mm_P10.8mm.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Diode_Bridge_15.7x15.7x6.3mm_P10.8mm'</td><td> 'description'</td></tr><tr><td> 'Single phase bridge rectifier case 15.7x15.7'</td><td> 'tags'</td></tr><tr><td> 'Diode Bridge'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Diode_THT.3dshapes/Diode_Bridge_15.7x15.7x6.3mm_P10.8mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

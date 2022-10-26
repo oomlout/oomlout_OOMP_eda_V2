@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKAMPLIFIERINSTRUMENTATIONAD623ARM > AD623ARM
+# SZKAMPLIFIERINSTRUMENTATIONAD623ARM > Amplifier_Instrumentation : AD623ARM
 
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Instrumentation-AD623ARM
 - Hex ID: SZKAMPLIFIERINSTRUMENTATIONAD623ARM
-- Name: AD623ARM
-- Description: AD623ARM
+- Name: Amplifier_Instrumentation : AD623ARM
+- Description: Amplifier_Instrumentation : AD623ARM
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Instrumentation-AD623ARM](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Instrumentation-AD623ARM)
 - Short Link: [http://oom.lt/SZKAMPLIFIERINSTRUMENTATIONAD623ARM](http://oom.lt/SZKAMPLIFIERINSTRUMENTATIONAD623ARM)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AD623ARM|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Instrumentation-AD623ARM|
 |Hex ID (short code)|hexID|SZKAMPLIFIERINSTRUMENTATIONAD623ARM|
-|name|name|AD623ARM|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AD623ARM', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/AD623.pdf', 'kicadSymbolki_keywords': 'ad623 instumentation amplifier msop-8', 'kicadSymbolki_description': 'Single Supply, Rail to Rail, Instumentation Amplifier, MSOP-8', 'kicadSymbolki_fp_filters': 'MSOP-8*'}]|
+|name|name|Amplifier_Instrumentation : AD623ARM|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'AD623ARM'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/AD623.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'ad623 instumentation amplifier msop-8'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Single Supply</td><td> Rail to Rail</td><td> Instumentation Amplifier</td><td> MSOP-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'MSOP-8*'</td></tr></table>]|
 ||||

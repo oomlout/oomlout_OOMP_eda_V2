@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_J2100_B08B-J21DK-GGXR_2x04_P2.50x4.00mm_Vertical|
 |Hex ID (short code)|hexID|FZKCNJSTJSTJ21B8BJ21DKGGXR2X4P25X4VERTICAL|
 |name|name|Connector_JST : JST_J2100_B08B-J21DK-GGXR_2x04_P2.50x4.00mm_Vertical|
-|Footprint Kicad|footprintKicadDetails|{'name': 'JST_J2100_B08B-J21DK-GGXR_2x04_P2.50x4.00mm_Vertical', 'description': 'JST J2100 series connector, B08B-J21DK-GGXR (http://www.jst-mfg.com/product/pdf/eng/eJFA-J2000.pdf), generated with kicad-footprint-generator', 'tags': 'connector JST J2100 vertical', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_JST.3dshapes/JST_J2100_B08B-J21DK-GGXR_2x04_P2.50x4.00mm_Vertical.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'JST_J2100_B08B-J21DK-GGXR_2x04_P2.50x4.00mm_Vertical'</td><td> 'description'</td></tr><tr><td> 'JST J2100 series connector</td><td> B08B-J21DK-GGXR (http</td></tr><tr><td>//www.jst-mfg.com/product/pdf/eng/eJFA-J2000.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'connector JST J2100 vertical'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_JST.3dshapes/JST_J2100_B08B-J21DK-GGXR_2x04_P2.50x4.00mm_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDEVICELFERRITECOUPLSLL1324 > L_Ferrite_Coupled_Small_1324
+# SZKDEVICELFERRITECOUPLSLL1324 > Device : L_Ferrite_Coupled_Small_1324
 
 - ID: SYMBOL-kicad-kicad-symbols-Device-L_Ferrite_Coupled_Small_1324
 - Hex ID: SZKDEVICELFERRITECOUPLSLL1324
-- Name: L_Ferrite_Coupled_Small_1324
-- Description: L_Ferrite_Coupled_Small_1324
+- Name: Device : L_Ferrite_Coupled_Small_1324
+- Description: Device : L_Ferrite_Coupled_Small_1324
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-L_Ferrite_Coupled_Small_1324](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-L_Ferrite_Coupled_Small_1324)
 - Short Link: [http://oom.lt/SZKDEVICELFERRITECOUPLSLL1324](http://oom.lt/SZKDEVICELFERRITECOUPLSLL1324)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|L_Ferrite_Coupled_Small_1324|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-L_Ferrite_Coupled_Small_1324|
 |Hex ID (short code)|hexID|SZKDEVICELFERRITECOUPLSLL1324|
-|name|name|L_Ferrite_Coupled_Small_1324|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'L', 'kicadSymbolValue': 'L_Ferrite_Coupled_Small_1324', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'inductor choke coil reactor magnetic coupled', 'kicadSymbolki_description': 'Coupled inductor with ferrite core, small symbol', 'kicadSymbolki_fp_filters': 'Choke_* *Coil* Inductor_* L_*'}]|
+|name|name|Device : L_Ferrite_Coupled_Small_1324|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'L'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'L_Ferrite_Coupled_Small_1324'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'inductor choke coil reactor magnetic coupled'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Coupled inductor with ferrite core</td><td> small symbol'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Choke_* *Coil* Inductor_* L_*'</td></tr></table>]|
 ||||

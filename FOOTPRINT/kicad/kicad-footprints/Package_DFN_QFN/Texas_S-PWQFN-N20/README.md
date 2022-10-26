@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_S-PWQFN-N20|
 |Hex ID (short code)|hexID|FZKDFNTEXASSPWQFNN2|
 |name|name|Package_DFN_QFN : Texas_S-PWQFN-N20|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Texas_S-PWQFN-N20', 'description': '20-Pin Plastic Quad Flatpack No-Lead Package, Body 3.0x3.0x0.8mm, Texas Instruments (http://www.ti.com/lit/ds/symlink/tps22993.pdf)', 'tags': 'QFN 0.4', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Texas_S-PWQFN-N20.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Texas_S-PWQFN-N20'</td><td> 'description'</td></tr><tr><td> '20-Pin Plastic Quad Flatpack No-Lead Package</td><td> Body 3.0x3.0x0.8mm</td><td> Texas Instruments (http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/tps22993.pdf)'</td><td> 'tags'</td></tr><tr><td> 'QFN 0.4'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DFN_QFN.3dshapes/Texas_S-PWQFN-N20.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

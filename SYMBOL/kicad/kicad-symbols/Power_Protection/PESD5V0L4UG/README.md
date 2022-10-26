@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKPOWERPROTECTIONPESD5VL4UG > PESD5V0L4UG
+# SZKPOWERPROTECTIONPESD5VL4UG > Power_Protection : PESD5V0L4UG
 
 - ID: SYMBOL-kicad-kicad-symbols-Power_Protection-PESD5V0L4UG
 - Hex ID: SZKPOWERPROTECTIONPESD5VL4UG
-- Name: PESD5V0L4UG
-- Description: PESD5V0L4UG
+- Name: Power_Protection : PESD5V0L4UG
+- Description: Power_Protection : PESD5V0L4UG
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-PESD5V0L4UG](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-PESD5V0L4UG)
 - Short Link: [http://oom.lt/SZKPOWERPROTECTIONPESD5VL4UG](http://oom.lt/SZKPOWERPROTECTIONPESD5VL4UG)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PESD5V0L4UG|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Protection-PESD5V0L4UG|
 |Hex ID (short code)|hexID|SZKPOWERPROTECTIONPESD5VL4UG|
-|name|name|PESD5V0L4UG|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'PESD3V3L4UG', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'PESD5V0L4UG', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-353_SC-70-5', 'kicadSymbolDatasheet': 'https://assets.nexperia.com/documents/data-sheet/PESDXL4UF_G_W.pdf', 'kicadSymbolki_keywords': 'diode', 'kicadSymbolki_description': 'Low capacitance unidirectional quadruple ESD protection diode array, 5.0V, Common Anode, SOT-353', 'kicadSymbolki_fp_filters': 'SOT?353*'}]|
+|name|name|Power_Protection : PESD5V0L4UG|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'PESD3V3L4UG'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'PESD5V0L4UG'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-353_SC-70-5'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//assets.nexperia.com/documents/data-sheet/PESDXL4UF_G_W.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'diode'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Low capacitance unidirectional quadruple ESD protection diode array</td><td> 5.0V</td><td> Common Anode</td><td> SOT-353'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?353*'</td></tr></table>]|
 ||||

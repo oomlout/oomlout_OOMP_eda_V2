@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Module-Adafruit_HUZZAH_ESP8266_breakout_WithMountingHoles|
 |Hex ID (short code)|hexID|FZKMOADAHUZZAHESP8266BREAKOUTWITOUNTINGH|
 |name|name|Module : Adafruit_HUZZAH_ESP8266_breakout_WithMountingHoles|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Adafruit_HUZZAH_ESP8266_breakout_WithMountingHoles', 'description': '32-bit microcontroller module with WiFi, https://www.adafruit.com/product/2471', 'tags': 'ESP8266 WiFi microcontroller', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Module.3dshapes/Adafruit_HUZZAH_ESP8266_breakout_WithMountingHoles.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Adafruit_HUZZAH_ESP8266_breakout_WithMountingHoles'</td><td> 'description'</td></tr><tr><td> '32-bit microcontroller module with WiFi</td><td> https</td></tr><tr><td>//www.adafruit.com/product/2471'</td><td> 'tags'</td></tr><tr><td> 'ESP8266 WiFi microcontroller'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Module.3dshapes/Adafruit_HUZZAH_ESP8266_breakout_WithMountingHoles.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

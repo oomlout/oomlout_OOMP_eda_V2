@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE42XO9141R42914 > RESE-0402-X-O914-01-R42914
+# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE42XO9141R42914 > oomlout_OOMP_parts : RESE-0402-X-O914-01-R42914
 
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O914-01-R42914
 - Hex ID: SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE42XO9141R42914
-- Name: RESE-0402-X-O914-01-R42914
-- Description: RESE-0402-X-O914-01-R42914
+- Name: oomlout_OOMP_parts : RESE-0402-X-O914-01-R42914
+- Description: oomlout_OOMP_parts : RESE-0402-X-O914-01-R42914
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O914-01-R42914](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O914-01-R42914)
 - Short Link: [http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE42XO9141R42914](http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE42XO9141R42914)
   
@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|RESE-0402-X-O914-01-R42914|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O914-01-R42914|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE42XO9141R42914|
-|name|name|RESE-0402-X-O914-01-R42914|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'R', 'kicadSymbolValue': 'RESE-0402-X-O914-01-R42914', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:RESE-0402-X-O914-01-R42914', 'kicadSymbolDatasheet': 'oom.lt/R42914', 'kicadSymbolki_keywords': 'R res resistor', 'kicadSymbolki_description': 'hexID: R42914;Resistor', 'kicadSymbolki_fp_filters': 'R_*'}]|
+|name|name|oomlout_OOMP_parts : RESE-0402-X-O914-01-R42914|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'R'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'RESE-0402-X-O914-01-R42914'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'oomlout_OOMP_parts</td></tr><tr><td>RESE-0402-X-O914-01-R42914'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'oom.lt/R42914'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'R res resistor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'hexID</td></tr><tr><td> R42914;Resistor'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'R_*'</td></tr></table>]|
 ||||

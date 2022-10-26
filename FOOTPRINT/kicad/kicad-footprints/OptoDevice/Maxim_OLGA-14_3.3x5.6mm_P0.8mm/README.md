@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-OptoDevice-Maxim_OLGA-14_3.3x5.6mm_P0.8mm|
 |Hex ID (short code)|hexID|FZKOPMAXIMOLGA1433X56P8|
 |name|name|OptoDevice : Maxim_OLGA-14_3.3x5.6mm_P0.8mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Maxim_OLGA-14_3.3x5.6mm_P0.8mm', 'description': 'https://pdfserv.maximintegrated.com/land_patterns/90-0602.PDF', 'tags': 'OLGA-14 OESIP-14', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/Maxim_OLGA-14_3.3x5.6mm_P0.8mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Maxim_OLGA-14_3.3x5.6mm_P0.8mm'</td><td> 'description'</td></tr><tr><td> 'https</td></tr><tr><td>//pdfserv.maximintegrated.com/land_patterns/90-0602.PDF'</td><td> 'tags'</td></tr><tr><td> 'OLGA-14 OESIP-14'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/OptoDevice.3dshapes/Maxim_OLGA-14_3.3x5.6mm_P0.8mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

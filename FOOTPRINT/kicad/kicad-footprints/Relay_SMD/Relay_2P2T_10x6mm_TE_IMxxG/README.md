@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Relay_SMD-Relay_2P2T_10x6mm_TE_IMxxG|
 |Hex ID (short code)|hexID|FZKRELAYSMRELAY2P2T1X6TEIMXXG|
 |name|name|Relay_SMD : Relay_2P2T_10x6mm_TE_IMxxG|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Relay_2P2T_10x6mm_TE_IMxxG', 'description': 'Signal Relay, 10x6mm, 2 Form C, Gull Wings, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Data+Sheet%7F108-98001%7FZ.1%7Fpdf%7FEnglish%7FENG_DS_108-98001_Z.1.pdf', 'tags': 'TE IM-Series Relay DPDT Form C', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Relay_SMD.3dshapes/Relay_2P2T_10x6mm_TE_IMxxG.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Relay_2P2T_10x6mm_TE_IMxxG'</td><td> 'description'</td></tr><tr><td> 'Signal Relay</td><td> 10x6mm</td><td> 2 Form C</td><td> Gull Wings</td><td> https</td></tr><tr><td>//www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Data+Sheet%7F108-98001%7FZ.1%7Fpdf%7FEnglish%7FENG_DS_108-98001_Z.1.pdf'</td><td> 'tags'</td></tr><tr><td> 'TE IM-Series Relay DPDT Form C'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Relay_SMD.3dshapes/Relay_2P2T_10x6mm_TE_IMxxG.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORBJTBC516 > BC516
+# SZKTRANSISTORBJTBC516 > Transistor_BJT : BC516
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC516
 - Hex ID: SZKTRANSISTORBJTBC516
-- Name: BC516
-- Description: BC516
+- Name: Transistor_BJT : BC516
+- Description: Transistor_BJT : BC516
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC516](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC516)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTBC516](http://oom.lt/SZKTRANSISTORBJTBC516)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BC516|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC516|
 |Hex ID (short code)|hexID|SZKTRANSISTORBJTBC516|
-|name|name|BC516|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'BC516', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-92_Inline', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pub/Collateral/BC516-D.PDF', 'kicadSymbolki_keywords': 'PNP Darlington Darl Transistor', 'kicadSymbolki_description': '1A Ic, 30V Vce, Darlington PNP Transistor, TO-92', 'kicadSymbolki_fp_filters': 'TO?92*'}]|
+|name|name|Transistor_BJT : BC516|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'BC516'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_THT</td></tr><tr><td>TO-92_Inline'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.onsemi.com/pub/Collateral/BC516-D.PDF'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'PNP Darlington Darl Transistor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '1A Ic</td><td> 30V Vce</td><td> Darlington PNP Transistor</td><td> TO-92'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TO?92*'</td></tr></table>]|
 ||||

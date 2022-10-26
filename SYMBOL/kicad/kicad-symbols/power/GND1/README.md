@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKPOWERGND1 > GND1
+# SZKPOWERGND1 > power : GND1
 
 - ID: SYMBOL-kicad-kicad-symbols-power-GND1
 - Hex ID: SZKPOWERGND1
-- Name: GND1
-- Description: GND1
+- Name: power : GND1
+- Description: power : GND1
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-power-GND1](http://oom.lt/SYMBOL-kicad-kicad-symbols-power-GND1)
 - Short Link: [http://oom.lt/SZKPOWERGND1](http://oom.lt/SZKPOWERGND1)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|GND1|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-power-GND1|
 |Hex ID (short code)|hexID|SZKPOWERGND1|
-|name|name|GND1|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': '#PWR', 'kicadSymbolValue': 'GND1', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_keywords': 'power-flag', 'kicadSymbolki_description': 'Power symbol creates a global label with name "GND1" , ground'}]|
+|name|name|power : GND1|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> '#PWR'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'GND1'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'power-flag'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Power symbol creates a global label with name "GND1" </td><td> ground'</td></tr></table>]|
 ||||

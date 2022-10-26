@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDRIVERMOTORDRV881RTY > DRV8801RTY
+# SZKDRIVERMOTORDRV881RTY > Driver_Motor : DRV8801RTY
 
 - ID: SYMBOL-kicad-kicad-symbols-Driver_Motor-DRV8801RTY
 - Hex ID: SZKDRIVERMOTORDRV881RTY
-- Name: DRV8801RTY
-- Description: DRV8801RTY
+- Name: Driver_Motor : DRV8801RTY
+- Description: Driver_Motor : DRV8801RTY
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Motor-DRV8801RTY](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Motor-DRV8801RTY)
 - Short Link: [http://oom.lt/SZKDRIVERMOTORDRV881RTY](http://oom.lt/SZKDRIVERMOTORDRV881RTY)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DRV8801RTY|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Driver_Motor-DRV8801RTY|
 |Hex ID (short code)|hexID|SZKDRIVERMOTORDRV881RTY|
-|name|name|DRV8801RTY|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'DRV8801RTY', 'kicadSymbolFootprint': 'Package_DFN_QFN:Texas_S-PWQFN-N16_EP2.1x2.1mm_ThermalVias', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/drv8801.pdf', 'kicadSymbolki_keywords': 'H-Bridge Motor Driver', 'kicadSymbolki_description': 'H-Bridge Motor Driver, WQFN-16', 'kicadSymbolki_fp_filters': 'Texas*S?PWQFN?N*EP*'}]|
+|name|name|Driver_Motor : DRV8801RTY|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'DRV8801RTY'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>Texas_S-PWQFN-N16_EP2.1x2.1mm_ThermalVias'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/drv8801.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'H-Bridge Motor Driver'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'H-Bridge Motor Driver</td><td> WQFN-16'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Texas*S?PWQFN?N*EP*'</td></tr></table>]|
 ||||

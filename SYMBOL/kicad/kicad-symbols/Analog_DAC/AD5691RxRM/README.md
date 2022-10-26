@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKANALOGDACAD5691RXRM > AD5691RxRM
+# SZKANALOGDACAD5691RXRM > Analog_DAC : AD5691RxRM
 
 - ID: SYMBOL-kicad-kicad-symbols-Analog_DAC-AD5691RxRM
 - Hex ID: SZKANALOGDACAD5691RXRM
-- Name: AD5691RxRM
-- Description: AD5691RxRM
+- Name: Analog_DAC : AD5691RxRM
+- Description: Analog_DAC : AD5691RxRM
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-AD5691RxRM](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-AD5691RxRM)
 - Short Link: [http://oom.lt/SZKANALOGDACAD5691RXRM](http://oom.lt/SZKANALOGDACAD5691RXRM)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AD5691RxRM|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_DAC-AD5691RxRM|
 |Hex ID (short code)|hexID|SZKANALOGDACAD5691RXRM|
-|name|name|AD5691RxRM|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AD5691RxRM', 'kicadSymbolFootprint': 'Package_SO:MSOP-10_3x3mm_P0.5mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/AD5693R_5692R_5691R_5693.pdf', 'kicadSymbolki_keywords': 'serial DAC i2c digital analog converter', 'kicadSymbolki_description': 'Tiny, 12-Bit, I2C, nanoDAC+, 2 ppm/°C Reference, MSOP-10', 'kicadSymbolki_fp_filters': 'MSOP*3x3mm*P0.5mm*'}]|
+|name|name|Analog_DAC : AD5691RxRM|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'AD5691RxRM'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>MSOP-10_3x3mm_P0.5mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/AD5693R_5692R_5691R_5693.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'serial DAC i2c digital analog converter'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Tiny</td><td> 12-Bit</td><td> I2C</td><td> nanoDAC+</td><td> 2 ppm/°C Reference</td><td> MSOP-10'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'MSOP*3x3mm*P0.5mm*'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUMCHIPATMEGAATXMEGA256A3BUA > ATxmega256A3BU-A
+# SZKMCUMCHIPATMEGAATXMEGA256A3BUA > MCU_Microchip_ATmega : ATxmega256A3BU-A
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATxmega256A3BU-A
 - Hex ID: SZKMCUMCHIPATMEGAATXMEGA256A3BUA
-- Name: ATxmega256A3BU-A
-- Description: ATxmega256A3BU-A
+- Name: MCU_Microchip_ATmega : ATxmega256A3BU-A
+- Description: MCU_Microchip_ATmega : ATxmega256A3BU-A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATxmega256A3BU-A](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATxmega256A3BU-A)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATMEGAATXMEGA256A3BUA](http://oom.lt/SZKMCUMCHIPATMEGAATXMEGA256A3BUA)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ATxmega256A3BU-A|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATxmega256A3BU-A|
 |Hex ID (short code)|hexID|SZKMCUMCHIPATMEGAATXMEGA256A3BUA|
-|name|name|ATxmega256A3BU-A|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ATxmega256A3BU-A', 'kicadSymbolFootprint': 'Package_QFP:TQFP-64_14x14mm_P0.8mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-8362-8-and-16bit-AVR-microcontroller-ATxmega256A3BU_datasheet.pdf', 'kicadSymbolki_keywords': 'AVR 8/16bit Microcontroller XMegaAVR', 'kicadSymbolki_description': '32MHz, 256kB Flash, 8kB Boot, 16kB SRAM, 4kB EEPROM, JTAG, USB, TQFP-64', 'kicadSymbolki_fp_filters': 'TQFP*14x14mm*P0.8mm*'}]|
+|name|name|MCU_Microchip_ATmega : ATxmega256A3BU-A|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ATxmega256A3BU-A'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_QFP</td></tr><tr><td>TQFP-64_14x14mm_P0.8mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/Atmel-8362-8-and-16bit-AVR-microcontroller-ATxmega256A3BU_datasheet.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'AVR 8/16bit Microcontroller XMegaAVR'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '32MHz</td><td> 256kB Flash</td><td> 8kB Boot</td><td> 16kB SRAM</td><td> 4kB EEPROM</td><td> JTAG</td><td> USB</td><td> TQFP-64'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TQFP*14x14mm*P0.8mm*'</td></tr></table>]|
 ||||

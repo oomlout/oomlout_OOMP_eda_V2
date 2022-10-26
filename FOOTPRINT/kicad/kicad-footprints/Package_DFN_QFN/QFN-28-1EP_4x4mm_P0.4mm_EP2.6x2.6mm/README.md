@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-QFN-28-1EP_4x4mm_P0.4mm_EP2.6x2.6mm|
 |Hex ID (short code)|hexID|FZKDFNQFN281EP4X4P4EP26X26|
 |name|name|Package_DFN_QFN : QFN-28-1EP_4x4mm_P0.4mm_EP2.6x2.6mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'QFN-28-1EP_4x4mm_P0.4mm_EP2.6x2.6mm', 'description': 'QFN, 28 Pin (package code T2844-1; https://pdfserv.maximintegrated.com/package_dwgs/21-0139.PDF), generated with kicad-footprint-generator ipc_noLead_generator.py', 'tags': 'QFN NoLead', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/QFN-28-1EP_4x4mm_P0.4mm_EP2.6x2.6mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'QFN-28-1EP_4x4mm_P0.4mm_EP2.6x2.6mm'</td><td> 'description'</td></tr><tr><td> 'QFN</td><td> 28 Pin (package code T2844-1; https</td></tr><tr><td>//pdfserv.maximintegrated.com/package_dwgs/21-0139.PDF)</td><td> generated with kicad-footprint-generator ipc_noLead_generator.py'</td><td> 'tags'</td></tr><tr><td> 'QFN NoLead'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DFN_QFN.3dshapes/QFN-28-1EP_4x4mm_P0.4mm_EP2.6x2.6mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

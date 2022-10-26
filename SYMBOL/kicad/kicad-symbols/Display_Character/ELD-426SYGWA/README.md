@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDICHARACTERELD426SYGWA > ELD-426SYGWA
+# SZKDICHARACTERELD426SYGWA > Display_Character : ELD-426SYGWA
 
 - ID: SYMBOL-kicad-kicad-symbols-Display_Character-ELD-426SYGWA
 - Hex ID: SZKDICHARACTERELD426SYGWA
-- Name: ELD-426SYGWA
-- Description: ELD-426SYGWA
+- Name: Display_Character : ELD-426SYGWA
+- Description: Display_Character : ELD-426SYGWA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-ELD-426SYGWA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-ELD-426SYGWA)
 - Short Link: [http://oom.lt/SZKDICHARACTERELD426SYGWA](http://oom.lt/SZKDICHARACTERELD426SYGWA)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ELD-426SYGWA|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Display_Character-ELD-426SYGWA|
 |Hex ID (short code)|hexID|SZKDICHARACTERELD426SYGWA|
-|name|name|ELD-426SYGWA|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ELD-426SYGWA', 'kicadSymbolFootprint': 'Display_7Segment:ELD_426XXXX', 'kicadSymbolDatasheet': 'http://www.everlight.com/file/ProductFile/D426SYGWA-S530-E2.pdf', 'kicadSymbolki_keywords': 'display LED 7-segment', 'kicadSymbolki_description': 'Double 7 segment brilliant yellow green LED common anode', 'kicadSymbolki_fp_filters': '*ELD*426*'}]|
+|name|name|Display_Character : ELD-426SYGWA|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ELD-426SYGWA'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Display_7Segment</td></tr><tr><td>ELD_426XXXX'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.everlight.com/file/ProductFile/D426SYGWA-S530-E2.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'display LED 7-segment'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Double 7 segment brilliant yellow green LED common anode'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> '*ELD*426*'</td></tr></table>]|
 ||||

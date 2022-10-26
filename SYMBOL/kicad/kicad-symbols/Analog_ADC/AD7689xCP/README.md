@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKANALOGADCAD7689XCP > AD7689xCP
+# SZKANALOGADCAD7689XCP > Analog_ADC : AD7689xCP
 
 - ID: SYMBOL-kicad-kicad-symbols-Analog_ADC-AD7689xCP
 - Hex ID: SZKANALOGADCAD7689XCP
-- Name: AD7689xCP
-- Description: AD7689xCP
+- Name: Analog_ADC : AD7689xCP
+- Description: Analog_ADC : AD7689xCP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-AD7689xCP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-AD7689xCP)
 - Short Link: [http://oom.lt/SZKANALOGADCAD7689XCP](http://oom.lt/SZKANALOGADCAD7689XCP)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AD7689xCP|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_ADC-AD7689xCP|
 |Hex ID (short code)|hexID|SZKANALOGADCAD7689XCP|
-|name|name|AD7689xCP|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'AD7949BCP', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AD7689xCP', 'kicadSymbolFootprint': 'Package_CSP:LFCSP-20-1EP_4x4mm_P0.5mm_EP2.5x2.5mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/AD7682_7689.pdf', 'kicadSymbolki_keywords': 'ADC, SPI', 'kicadSymbolki_description': '16-Bit, 8-Channel, 250 kSPS PulSAR ADC, LFSCP-20', 'kicadSymbolki_fp_filters': 'LFCSP*1EP*4x4mm*P0.5mm*'}]|
+|name|name|Analog_ADC : AD7689xCP|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'AD7949BCP'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'AD7689xCP'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_CSP</td></tr><tr><td>LFCSP-20-1EP_4x4mm_P0.5mm_EP2.5x2.5mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/AD7682_7689.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'ADC</td><td> SPI'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '16-Bit</td><td> 8-Channel</td><td> 250 kSPS PulSAR ADC</td><td> LFSCP-20'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'LFCSP*1EP*4x4mm*P0.5mm*'</td></tr></table>]|
 ||||

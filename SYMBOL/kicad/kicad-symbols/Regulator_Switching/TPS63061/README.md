@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORSWITCHINGTPS6361 > TPS63061
+# SZKREGULATORSWITCHINGTPS6361 > Regulator_Switching : TPS63061
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS63061
 - Hex ID: SZKREGULATORSWITCHINGTPS6361
-- Name: TPS63061
-- Description: TPS63061
+- Name: Regulator_Switching : TPS63061
+- Description: Regulator_Switching : TPS63061
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS63061](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS63061)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGTPS6361](http://oom.lt/SZKREGULATORSWITCHINGTPS6361)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TPS63061|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS63061|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGTPS6361|
-|name|name|TPS63061|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TPS63061', 'kicadSymbolFootprint': 'Package_SON:Texas_S-PWSON-N10_ThermalVias', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tps63060.pdf', 'kicadSymbolki_keywords': 'Buck-Boost converter 5V', 'kicadSymbolki_description': 'Buck-Boost Converter, 2.5-12V Input Voltage, 2-A Switch Current, Fixed 5V Output Voltage, S-PWSON-10', 'kicadSymbolki_fp_filters': 'Texas*S*PWSON*N10*'}]|
+|name|name|Regulator_Switching : TPS63061|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TPS63061'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SON</td></tr><tr><td>Texas_S-PWSON-N10_ThermalVias'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/tps63060.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Buck-Boost converter 5V'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Buck-Boost Converter</td><td> 2.5-12V Input Voltage</td><td> 2-A Switch Current</td><td> Fixed 5V Output Voltage</td><td> S-PWSON-10'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Texas*S*PWSON*N10*'</td></tr></table>]|
 ||||

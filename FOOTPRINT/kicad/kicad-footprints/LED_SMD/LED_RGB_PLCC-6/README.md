@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_RGB_PLCC-6|
 |Hex ID (short code)|hexID|FZKLSMLRGBPLCC6|
 |name|name|LED_SMD : LED_RGB_PLCC-6|
-|Footprint Kicad|footprintKicadDetails|{'name': 'LED_RGB_PLCC-6', 'description': 'RGB LED PLCC-6', 'tags': 'RGB LED PLCC-6', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED_RGB_PLCC-6.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'LED_RGB_PLCC-6'</td><td> 'description'</td></tr><tr><td> 'RGB LED PLCC-6'</td><td> 'tags'</td></tr><tr><td> 'RGB LED PLCC-6'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/LED_SMD.3dshapes/LED_RGB_PLCC-6.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

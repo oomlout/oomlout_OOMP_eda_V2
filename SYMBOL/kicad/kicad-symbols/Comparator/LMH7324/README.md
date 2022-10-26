@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKCOMPARATORLMH7324 > LMH7324
+# SZKCOMPARATORLMH7324 > Comparator : LMH7324
 
 - ID: SYMBOL-kicad-kicad-symbols-Comparator-LMH7324
 - Hex ID: SZKCOMPARATORLMH7324
-- Name: LMH7324
-- Description: LMH7324
+- Name: Comparator : LMH7324
+- Description: Comparator : LMH7324
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Comparator-LMH7324](http://oom.lt/SYMBOL-kicad-kicad-symbols-Comparator-LMH7324)
 - Short Link: [http://oom.lt/SZKCOMPARATORLMH7324](http://oom.lt/SZKCOMPARATORLMH7324)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LMH7324|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Comparator-LMH7324|
 |Hex ID (short code)|hexID|SZKCOMPARATORLMH7324|
-|name|name|LMH7324|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LMH7324', 'kicadSymbolFootprint': 'Package_DFN_QFN:WQFN-32-1EP_5x5mm_P0.5mm_EP3.1x3.1mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lmh7324.pdf', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'cmp push-pull complementary', 'kicadSymbolki_description': 'Quad 700 ps High Speed Comparator with RSPECL Outputs, WQFN-32', 'kicadSymbolki_fp_filters': 'WQFN*1EP*5x5mm*P0.5mm*'}]|
+|name|name|Comparator : LMH7324|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LMH7324'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>WQFN-32-1EP_5x5mm_P0.5mm_EP3.1x3.1mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/lmh7324.pdf'</td><td> 'kicadSymbolki_locked'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'cmp push-pull complementary'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Quad 700 ps High Speed Comparator with RSPECL Outputs</td><td> WQFN-32'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'WQFN*1EP*5x5mm*P0.5mm*'</td></tr></table>]|
 ||||

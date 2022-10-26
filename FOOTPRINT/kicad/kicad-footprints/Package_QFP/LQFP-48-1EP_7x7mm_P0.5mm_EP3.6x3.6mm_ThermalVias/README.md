@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_QFP-LQFP-48-1EP_7x7mm_P0.5mm_EP3.6x3.6mm_ThermalVias|
 |Hex ID (short code)|hexID|FZKQFPLQFP481EP7X7P5EP36X36THERMALVIAS|
 |name|name|Package_QFP : LQFP-48-1EP_7x7mm_P0.5mm_EP3.6x3.6mm_ThermalVias|
-|Footprint Kicad|footprintKicadDetails|{'name': 'LQFP-48-1EP_7x7mm_P0.5mm_EP3.6x3.6mm_ThermalVias', 'description': 'LQFP, 48 Pin (http://www.analog.com/media/en/technical-documentation/data-sheets/LTC7810.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py', 'tags': 'LQFP QFP', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_QFP.3dshapes/LQFP-48-1EP_7x7mm_P0.5mm_EP3.6x3.6mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'LQFP-48-1EP_7x7mm_P0.5mm_EP3.6x3.6mm_ThermalVias'</td><td> 'description'</td></tr><tr><td> 'LQFP</td><td> 48 Pin (http</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/LTC7810.pdf)</td><td> generated with kicad-footprint-generator ipc_gullwing_generator.py'</td><td> 'tags'</td></tr><tr><td> 'LQFP QFP'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_QFP.3dshapes/LQFP-48-1EP_7x7mm_P0.5mm_EP3.6x3.6mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

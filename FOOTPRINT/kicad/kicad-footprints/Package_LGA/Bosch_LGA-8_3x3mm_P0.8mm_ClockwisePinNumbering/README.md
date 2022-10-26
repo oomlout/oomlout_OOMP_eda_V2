@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_LGA-Bosch_LGA-8_3x3mm_P0.8mm_ClockwisePinNumbering|
 |Hex ID (short code)|hexID|FZKLGABOSCHLGA83X3P8CLWISEPINNUMBERING|
 |name|name|Package_LGA : Bosch_LGA-8_3x3mm_P0.8mm_ClockwisePinNumbering|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Bosch_LGA-8_3x3mm_P0.8mm_ClockwisePinNumbering', 'description': 'Bosch  LGA, 8 Pin (https://ae-bst.resource.bosch.com/media/_tech/media/datasheets/BST-BME680-DS001-00.pdf#page=44), generated with kicad-footprint-generator ipc_noLead_generator.py', 'tags': 'Bosch LGA NoLead', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_LGA.3dshapes/Bosch_LGA-8_3x3mm_P0.8mm_ClockwisePinNumbering.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Bosch_LGA-8_3x3mm_P0.8mm_ClockwisePinNumbering'</td><td> 'description'</td></tr><tr><td> 'Bosch  LGA</td><td> 8 Pin (https</td></tr><tr><td>//ae-bst.resource.bosch.com/media/_tech/media/datasheets/BST-BME680-DS001-00.pdf#page=44)</td><td> generated with kicad-footprint-generator ipc_noLead_generator.py'</td><td> 'tags'</td></tr><tr><td> 'Bosch LGA NoLead'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_LGA.3dshapes/Bosch_LGA-8_3x3mm_P0.8mm_ClockwisePinNumbering.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

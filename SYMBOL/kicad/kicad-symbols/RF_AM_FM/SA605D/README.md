@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKRFAMFMSA65D > SA605D
+# SZKRFAMFMSA65D > RF_AM_FM : SA605D
 
 - ID: SYMBOL-kicad-kicad-symbols-RF_AM_FM-SA605D
 - Hex ID: SZKRFAMFMSA65D
-- Name: SA605D
-- Description: SA605D
+- Name: RF_AM_FM : SA605D
+- Description: RF_AM_FM : SA605D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_AM_FM-SA605D](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_AM_FM-SA605D)
 - Short Link: [http://oom.lt/SZKRFAMFMSA65D](http://oom.lt/SZKRFAMFMSA65D)
   
@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|SA605D|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-RF_AM_FM-SA605D|
 |Hex ID (short code)|hexID|SZKRFAMFMSA65D|
-|name|name|SA605D|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'SA605D', 'kicadSymbolFootprint': 'Package_SO:SO-20_12.8x7.5mm_P1.27mm', 'kicadSymbolDatasheet': 'https://www.nxp.com/docs/en/data-sheet/SA605.pdf', 'kicadSymbolki_keywords': 'High performance monolithic low-power FM IF system', 'kicadSymbolki_description': 'High performance monolithic low-power FM IF system, SO-20', 'kicadSymbolki_fp_filters': 'SO*12.8x7.5mm*P1.27mm*'}]|
+|name|name|RF_AM_FM : SA605D|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'SA605D'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SO-20_12.8x7.5mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.nxp.com/docs/en/data-sheet/SA605.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'High performance monolithic low-power FM IF system'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'High performance monolithic low-power FM IF system</td><td> SO-20'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SO*12.8x7.5mm*P1.27mm*'</td></tr></table>]|
 ||||

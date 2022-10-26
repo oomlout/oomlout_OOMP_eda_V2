@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORLINEARMIC2933WT > MIC29303WT
+# SZKREGULATORLINEARMIC2933WT > Regulator_Linear : MIC29303WT
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-MIC29303WT
 - Hex ID: SZKREGULATORLINEARMIC2933WT
-- Name: MIC29303WT
-- Description: MIC29303WT
+- Name: Regulator_Linear : MIC29303WT
+- Description: Regulator_Linear : MIC29303WT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-MIC29303WT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-MIC29303WT)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARMIC2933WT](http://oom.lt/SZKREGULATORLINEARMIC2933WT)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MIC29303WT|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-MIC29303WT|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARMIC2933WT|
-|name|name|MIC29303WT|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MIC29153WT', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MIC29303WT', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-220-5_P3.4x3.7mm_StaggerEven_Lead3.8mm_Vertical', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/devicedoc/20005685a.pdf', 'kicadSymbolki_keywords': '3A LDO linear voltage regulator adjustable positive', 'kicadSymbolki_description': '3A low dropout linear regulator, adjustable output, TO-220', 'kicadSymbolki_fp_filters': 'TO*220*'}]|
+|name|name|Regulator_Linear : MIC29303WT|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'MIC29153WT'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MIC29303WT'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_THT</td></tr><tr><td>TO-220-5_P3.4x3.7mm_StaggerEven_Lead3.8mm_Vertical'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/devicedoc/20005685a.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> '3A LDO linear voltage regulator adjustable positive'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '3A low dropout linear regulator</td><td> adjustable output</td><td> TO-220'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TO*220*'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORCONTROLLERIRS255L > IRS2505L
+# SZKREGULATORCONTROLLERIRS255L > Regulator_Controller : IRS2505L
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Controller-IRS2505L
 - Hex ID: SZKREGULATORCONTROLLERIRS255L
-- Name: IRS2505L
-- Description: IRS2505L
+- Name: Regulator_Controller : IRS2505L
+- Description: Regulator_Controller : IRS2505L
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-IRS2505L](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-IRS2505L)
 - Short Link: [http://oom.lt/SZKREGULATORCONTROLLERIRS255L](http://oom.lt/SZKREGULATORCONTROLLERIRS255L)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IRS2505L|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Controller-IRS2505L|
 |Hex ID (short code)|hexID|SZKREGULATORCONTROLLERIRS255L|
-|name|name|IRS2505L|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'IRS2505L', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-5', 'kicadSymbolDatasheet': 'https://www.infineon.com/dgdl/irs2505lpbf.pdf?fileId=5546d462533600a40153567ad42c2819', 'kicadSymbolki_keywords': 'pfc controller crcm dcm', 'kicadSymbolki_description': 'Boost PFC and SMPS Control IC, Critical Conduction Mode, SOT-23-5', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
+|name|name|Regulator_Controller : IRS2505L|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'IRS2505L'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-23-5'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.infineon.com/dgdl/irs2505lpbf.pdf?fileId=5546d462533600a40153567ad42c2819'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'pfc controller crcm dcm'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Boost PFC and SMPS Control IC</td><td> Critical Conduction Mode</td><td> SOT-23-5'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23*'</td></tr></table>]|
 ||||

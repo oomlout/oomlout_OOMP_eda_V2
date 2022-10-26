@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_1.00mm-PinHeader_2x04_P1.00mm_Vertical|
 |Hex ID (short code)|hexID|FZKCNPINHEADER1PINHEADER2X4P1VERTICAL|
 |name|name|Connector_PinHeader_1.00mm : PinHeader_2x04_P1.00mm_Vertical|
-|Footprint Kicad|footprintKicadDetails|{'name': 'PinHeader_2x04_P1.00mm_Vertical', 'description': 'Through hole straight pin header, 2x04, 1.00mm pitch, double rows', 'tags': 'Through hole pin header THT 2x04 1.00mm double row', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_PinHeader_1.00mm.3dshapes/PinHeader_2x04_P1.00mm_Vertical.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'PinHeader_2x04_P1.00mm_Vertical'</td><td> 'description'</td></tr><tr><td> 'Through hole straight pin header</td><td> 2x04</td><td> 1.00mm pitch</td><td> double rows'</td><td> 'tags'</td></tr><tr><td> 'Through hole pin header THT 2x04 1.00mm double row'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_PinHeader_1.00mm.3dshapes/PinHeader_2x04_P1.00mm_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

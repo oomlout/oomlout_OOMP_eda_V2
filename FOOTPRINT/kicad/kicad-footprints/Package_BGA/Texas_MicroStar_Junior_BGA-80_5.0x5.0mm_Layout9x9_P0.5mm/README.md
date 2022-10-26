@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_BGA-Texas_MicroStar_Junior_BGA-80_5.0x5.0mm_Layout9x9_P0.5mm|
 |Hex ID (short code)|hexID|FZKBGATEXASMSTARJUNIORBGA85X5LAYOUT9X9P5|
 |name|name|Package_BGA : Texas_MicroStar_Junior_BGA-80_5.0x5.0mm_Layout9x9_P0.5mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Texas_MicroStar_Junior_BGA-80_5.0x5.0mm_Layout9x9_P0.5mm', 'description': 'Texas Instruments, BGA Microstar Junior, 5x5mm, 80 ball 9x9 grid, NSMD pad definition (http://www.ti.com/lit/ds/symlink/tlv320aic23b.pdf, http://www.ti.com/lit/wp/ssyz015b/ssyz015b.pdf)', 'tags': 'Texas_Junior_BGA-80', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/Texas_MicroStar_Junior_BGA-80_5.0x5.0mm_Layout9x9_P0.5mm.wrl', 'pins': {'type': 'smd', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Texas_MicroStar_Junior_BGA-80_5.0x5.0mm_Layout9x9_P0.5mm'</td><td> 'description'</td></tr><tr><td> 'Texas Instruments</td><td> BGA Microstar Junior</td><td> 5x5mm</td><td> 80 ball 9x9 grid</td><td> NSMD pad definition (http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/tlv320aic23b.pdf</td><td> http</td></tr><tr><td>//www.ti.com/lit/wp/ssyz015b/ssyz015b.pdf)'</td><td> 'tags'</td></tr><tr><td> 'Texas_Junior_BGA-80'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_BGA.3dshapes/Texas_MicroStar_Junior_BGA-80_5.0x5.0mm_Layout9x9_P0.5mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

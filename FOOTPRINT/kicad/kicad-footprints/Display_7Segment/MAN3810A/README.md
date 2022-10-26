@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Display_7Segment-MAN3810A|
 |Hex ID (short code)|hexID|FZKDI7SMAN381A|
 |name|name|Display_7Segment : MAN3810A|
-|Footprint Kicad|footprintKicadDetails|{'name': 'MAN3810A', 'description': 'https://www.digchip.com/datasheets/parts/datasheet/161/MAN3640A-pdf.php', 'tags': 'One digit 7 segment yellow LED with right dot', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Display_7Segment.3dshapes/MAN3810A.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'MAN3810A'</td><td> 'description'</td></tr><tr><td> 'https</td></tr><tr><td>//www.digchip.com/datasheets/parts/datasheet/161/MAN3640A-pdf.php'</td><td> 'tags'</td></tr><tr><td> 'One digit 7 segment yellow LED with right dot'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Display_7Segment.3dshapes/MAN3810A.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

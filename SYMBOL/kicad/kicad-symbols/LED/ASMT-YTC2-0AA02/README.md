@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKLASMTYTC2AA2 > ASMT-YTC2-0AA02
+# SZKLASMTYTC2AA2 > LED : ASMT-YTC2-0AA02
 
 - ID: SYMBOL-kicad-kicad-symbols-LED-ASMT-YTC2-0AA02
 - Hex ID: SZKLASMTYTC2AA2
-- Name: ASMT-YTC2-0AA02
-- Description: ASMT-YTC2-0AA02
+- Name: LED : ASMT-YTC2-0AA02
+- Description: LED : ASMT-YTC2-0AA02
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-LED-ASMT-YTC2-0AA02](http://oom.lt/SYMBOL-kicad-kicad-symbols-LED-ASMT-YTC2-0AA02)
 - Short Link: [http://oom.lt/SZKLASMTYTC2AA2](http://oom.lt/SZKLASMTYTC2AA2)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ASMT-YTC2-0AA02|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-LED-ASMT-YTC2-0AA02|
 |Hex ID (short code)|hexID|SZKLASMTYTC2AA2|
-|name|name|ASMT-YTC2-0AA02|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'ASMT-YTC2-0AA02', 'kicadSymbolFootprint': 'LED_SMD:LED_Avago_PLCC6_3x2.8mm', 'kicadSymbolDatasheet': 'http://www.avagotech.com/docs/AV02-2589EN', 'kicadSymbolki_keywords': 'LED RGB', 'kicadSymbolki_description': 'Triple LED RVB (Avago Technology)', 'kicadSymbolki_fp_filters': 'LED?Avago?PLCC6?3x2.8mm*'}]|
+|name|name|LED : ASMT-YTC2-0AA02|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ASMT-YTC2-0AA02'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'LED_SMD</td></tr><tr><td>LED_Avago_PLCC6_3x2.8mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.avagotech.com/docs/AV02-2589EN'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'LED RGB'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Triple LED RVB (Avago Technology)'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'LED?Avago?PLCC6?3x2.8mm*'</td></tr></table>]|
 ||||

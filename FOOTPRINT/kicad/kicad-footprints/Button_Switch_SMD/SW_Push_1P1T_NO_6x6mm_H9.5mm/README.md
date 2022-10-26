@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_Push_1P1T_NO_6x6mm_H9.5mm|
 |Hex ID (short code)|hexID|FZKBSWITCHSMSWPUSH1P1TNO6X6H95|
 |name|name|Button_Switch_SMD : SW_Push_1P1T_NO_6x6mm_H9.5mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'SW_Push_1P1T_NO_6x6mm_H9.5mm', 'description': 'tactile push button, 6x6mm e.g. PTS645xx series, height=9.5mm', 'tags': 'tact sw push 6mm smd', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_PUSH_6mm_H9.5mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SW_Push_1P1T_NO_6x6mm_H9.5mm'</td><td> 'description'</td></tr><tr><td> 'tactile push button</td><td> 6x6mm e.g. PTS645xx series</td><td> height=9.5mm'</td><td> 'tags'</td></tr><tr><td> 'tact sw push 6mm smd'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Button_Switch_SMD.3dshapes/SW_PUSH_6mm_H9.5mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

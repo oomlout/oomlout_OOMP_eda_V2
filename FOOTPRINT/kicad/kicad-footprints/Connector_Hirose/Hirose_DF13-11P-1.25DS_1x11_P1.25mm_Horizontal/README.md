@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Hirose-Hirose_DF13-11P-1.25DS_1x11_P1.25mm_Horizontal|
 |Hex ID (short code)|hexID|FZKCNHIROSEHIROSEDF1311P125DS1X11P125HORIZONTAL|
 |name|name|Connector_Hirose : Hirose_DF13-11P-1.25DS_1x11_P1.25mm_Horizontal|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Hirose_DF13-11P-1.25DS_1x11_P1.25mm_Horizontal', 'description': 'Hirose DF13 through hole, DF13-11P-1.25DS, 11 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13-4P-1.25DS%2820%29/), generated with kicad-footprint-generator', 'tags': 'connector Hirose DF13 horizontal', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_Hirose.3dshapes/Hirose_DF13-11P-1.25DS_1x11_P1.25mm_Horizontal.wrl', 'pins': {'type': 'thru_hole', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Hirose_DF13-11P-1.25DS_1x11_P1.25mm_Horizontal'</td><td> 'description'</td></tr><tr><td> 'Hirose DF13 through hole</td><td> DF13-11P-1.25DS</td><td> 11 Pins per row (https</td></tr><tr><td>//www.hirose.com/product/en/products/DF13/DF13-4P-1.25DS%2820%29/)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'connector Hirose DF13 horizontal'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_Hirose.3dshapes/Hirose_DF13-11P-1.25DS_1x11_P1.25mm_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

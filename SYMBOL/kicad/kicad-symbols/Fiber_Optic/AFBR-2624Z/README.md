@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKFIBEROPTICAFBR2624Z > AFBR-2624Z
+# SZKFIBEROPTICAFBR2624Z > Fiber_Optic : AFBR-2624Z
 
 - ID: SYMBOL-kicad-kicad-symbols-Fiber_Optic-AFBR-2624Z
 - Hex ID: SZKFIBEROPTICAFBR2624Z
-- Name: AFBR-2624Z
-- Description: AFBR-2624Z
+- Name: Fiber_Optic : AFBR-2624Z
+- Description: Fiber_Optic : AFBR-2624Z
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Fiber_Optic-AFBR-2624Z](http://oom.lt/SYMBOL-kicad-kicad-symbols-Fiber_Optic-AFBR-2624Z)
 - Short Link: [http://oom.lt/SZKFIBEROPTICAFBR2624Z](http://oom.lt/SZKFIBEROPTICAFBR2624Z)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AFBR-2624Z|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Fiber_Optic-AFBR-2624Z|
 |Hex ID (short code)|hexID|SZKFIBEROPTICAFBR2624Z|
-|name|name|AFBR-2624Z|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'AFBR-2624Z', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://docs.broadcom.com/docs/AV02-4369EN', 'kicadSymbolki_keywords': 'fiber optic receiver', 'kicadSymbolki_description': 'Versatile Link Fiber Optic Receiver', 'kicadSymbolki_fp_filters': 'Broadcom*AFBR*16xxZ*'}]|
+|name|name|Fiber_Optic : AFBR-2624Z|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'J'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'AFBR-2624Z'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//docs.broadcom.com/docs/AV02-4369EN'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'fiber optic receiver'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Versatile Link Fiber Optic Receiver'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Broadcom*AFBR*16xxZ*'</td></tr></table>]|
 ||||

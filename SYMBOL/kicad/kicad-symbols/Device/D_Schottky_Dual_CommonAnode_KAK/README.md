@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDEVICEDSCHOTTKYDUALCOONANODEKAK > D_Schottky_Dual_CommonAnode_KAK
+# SZKDEVICEDSCHOTTKYDUALCOONANODEKAK > Device : D_Schottky_Dual_CommonAnode_KAK
 
 - ID: SYMBOL-kicad-kicad-symbols-Device-D_Schottky_Dual_CommonAnode_KAK
 - Hex ID: SZKDEVICEDSCHOTTKYDUALCOONANODEKAK
-- Name: D_Schottky_Dual_CommonAnode_KAK
-- Description: D_Schottky_Dual_CommonAnode_KAK
+- Name: Device : D_Schottky_Dual_CommonAnode_KAK
+- Description: Device : D_Schottky_Dual_CommonAnode_KAK
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Schottky_Dual_CommonAnode_KAK](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Schottky_Dual_CommonAnode_KAK)
 - Short Link: [http://oom.lt/SZKDEVICEDSCHOTTKYDUALCOONANODEKAK](http://oom.lt/SZKDEVICEDSCHOTTKYDUALCOONANODEKAK)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|D_Schottky_Dual_CommonAnode_KAK|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-D_Schottky_Dual_CommonAnode_KAK|
 |Hex ID (short code)|hexID|SZKDEVICEDSCHOTTKYDUALCOONANODEKAK|
-|name|name|D_Schottky_Dual_CommonAnode_KAK|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'D_Schottky_Dual_CommonAnode_KAK', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'diode', 'kicadSymbolki_description': 'Dual Schottky diode, common anode on pin 2'}]|
+|name|name|Device : D_Schottky_Dual_CommonAnode_KAK|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'D_Schottky_Dual_CommonAnode_KAK'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'diode'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Dual Schottky diode</td><td> common anode on pin 2'</td></tr></table>]|
 ||||

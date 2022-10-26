@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_MicroCrystal_CC8V-T1A-2Pin_2.0x1.2mm|
 |Hex ID (short code)|hexID|FZKXXSMMXCC8VT1A2PIN2X12|
 |name|name|Crystal : Crystal_SMD_MicroCrystal_CC8V-T1A-2Pin_2.0x1.2mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Crystal_SMD_MicroCrystal_CC8V-T1A-2Pin_2.0x1.2mm', 'description': 'SMD Crystal MicroCrystal CC8V-T1A/CM8V-T1A series https://www.microcrystal.com/fileadmin/Media/Products/32kHz/Datasheet/CC8V-T1A.pdf, 2.0x1.2mm^2 package', 'tags': 'SMD SMT crystal', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Crystal_SMD_MicroCrystal_CC8V-T1A-2Pin_2.0x1.2mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Crystal_SMD_MicroCrystal_CC8V-T1A-2Pin_2.0x1.2mm'</td><td> 'description'</td></tr><tr><td> 'SMD Crystal MicroCrystal CC8V-T1A/CM8V-T1A series https</td></tr><tr><td>//www.microcrystal.com/fileadmin/Media/Products/32kHz/Datasheet/CC8V-T1A.pdf</td><td> 2.0x1.2mm^2 package'</td><td> 'tags'</td></tr><tr><td> 'SMD SMT crystal'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Crystal.3dshapes/Crystal_SMD_MicroCrystal_CC8V-T1A-2Pin_2.0x1.2mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

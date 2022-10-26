@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_TE-Connectivity-TE_MATE-N-LOK_350211-1_1x04_P5.08mm_Vertical|
 |Hex ID (short code)|hexID|FZKCNTECONNECTIVITYTEMATENLOK3521111X4P58VERTICAL|
 |name|name|Connector_TE-Connectivity : TE_MATE-N-LOK_350211-1_1x04_P5.08mm_Vertical|
-|Footprint Kicad|footprintKicadDetails|{'name': 'TE_MATE-N-LOK_350211-1_1x04_P5.08mm_Vertical', 'description': 'https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F350211%7FU5%7Fpdf%7FEnglish%7FENG_CD_350211_U5.pdf%7F350211-1', 'tags': 'connector TE MATE-N-LOK top entry ATA PATA IDE 5.25 inch floppy drive power', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_TE-Connectivity.3dshapes/TE_MATE-N-LOK_350211-1_1x04_P5.08mm_Vertical.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'TE_MATE-N-LOK_350211-1_1x04_P5.08mm_Vertical'</td><td> 'description'</td></tr><tr><td> 'https</td></tr><tr><td>//www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F350211%7FU5%7Fpdf%7FEnglish%7FENG_CD_350211_U5.pdf%7F350211-1'</td><td> 'tags'</td></tr><tr><td> 'connector TE MATE-N-LOK top entry ATA PATA IDE 5.25 inch floppy drive power'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_TE-Connectivity.3dshapes/TE_MATE-N-LOK_350211-1_1x04_P5.08mm_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

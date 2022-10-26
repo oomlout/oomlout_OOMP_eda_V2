@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORFETFDN34P > FDN340P
+# SZKTRANSISTORFETFDN34P > Transistor_FET : FDN340P
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-FDN340P
 - Hex ID: SZKTRANSISTORFETFDN34P
-- Name: FDN340P
-- Description: FDN340P
+- Name: Transistor_FET : FDN340P
+- Description: Transistor_FET : FDN340P
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-FDN340P](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-FDN340P)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETFDN34P](http://oom.lt/SZKTRANSISTORFETFDN34P)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|FDN340P|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-FDN340P|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETFDN34P|
-|name|name|FDN340P|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TP0610T', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'FDN340P', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pub/Collateral/FDN340P-D.PDF', 'kicadSymbolki_keywords': 'P-Channel MOSFET', 'kicadSymbolki_description': '2A Id, 20V Vds, P-Channel MOSFET, 70mOhm Ron, SOT-23', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
+|name|name|Transistor_FET : FDN340P|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'TP0610T'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'FDN340P'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-23'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.onsemi.com/pub/Collateral/FDN340P-D.PDF'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'P-Channel MOSFET'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '2A Id</td><td> 20V Vds</td><td> P-Channel MOSFET</td><td> 70mOhm Ron</td><td> SOT-23'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23*'</td></tr></table>]|
 ||||

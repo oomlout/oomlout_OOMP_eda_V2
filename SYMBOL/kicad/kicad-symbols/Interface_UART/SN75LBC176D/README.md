@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKINTERFACEUARTSN75LBC176D > SN75LBC176D
+# SZKINTERFACEUARTSN75LBC176D > Interface_UART : SN75LBC176D
 
 - ID: SYMBOL-kicad-kicad-symbols-Interface_UART-SN75LBC176D
 - Hex ID: SZKINTERFACEUARTSN75LBC176D
-- Name: SN75LBC176D
-- Description: SN75LBC176D
+- Name: Interface_UART : SN75LBC176D
+- Description: Interface_UART : SN75LBC176D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-SN75LBC176D](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-SN75LBC176D)
 - Short Link: [http://oom.lt/SZKINTERFACEUARTSN75LBC176D](http://oom.lt/SZKINTERFACEUARTSN75LBC176D)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SN75LBC176D|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_UART-SN75LBC176D|
 |Hex ID (short code)|hexID|SZKINTERFACEUARTSN75LBC176D|
-|name|name|SN75LBC176D|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'SN75LBC176D', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/sn75lbc176.pdf', 'kicadSymbolki_keywords': 'Differential bus transceiver', 'kicadSymbolki_description': 'Differential bus transceiver, SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm*'}]|
+|name|name|Interface_UART : SN75LBC176D|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'SN75LBC176D'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-8_3.9x4.9mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/sn75lbc176.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Differential bus transceiver'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Differential bus transceiver</td><td> SOIC-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*3.9x4.9mm*P1.27mm*'</td></tr></table>]|
 ||||

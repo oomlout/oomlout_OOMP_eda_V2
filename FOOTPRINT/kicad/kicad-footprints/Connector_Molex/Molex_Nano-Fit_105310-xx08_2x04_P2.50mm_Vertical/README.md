@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Nano-Fit_105310-xx08_2x04_P2.50mm_Vertical|
 |Hex ID (short code)|hexID|FZKCNMXMXNANOFIT1531XX82X4P25VERTICAL|
 |name|name|Connector_Molex : Molex_Nano-Fit_105310-xx08_2x04_P2.50mm_Vertical|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Molex_Nano-Fit_105310-xx08_2x04_P2.50mm_Vertical', 'description': 'Molex Nano-Fit Power Connectors, 105310-xx08, 4 Pins per row (http://www.molex.com/pdm_docs/sd/1053101208_sd.pdf), generated with kicad-footprint-generator', 'tags': 'connector Molex Nano-Fit side entry', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_Molex.3dshapes/Molex_Nano-Fit_105310-xx08_2x04_P2.50mm_Vertical.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Molex_Nano-Fit_105310-xx08_2x04_P2.50mm_Vertical'</td><td> 'description'</td></tr><tr><td> 'Molex Nano-Fit Power Connectors</td><td> 105310-xx08</td><td> 4 Pins per row (http</td></tr><tr><td>//www.molex.com/pdm_docs/sd/1053101208_sd.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'connector Molex Nano-Fit side entry'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_Molex.3dshapes/Molex_Nano-Fit_105310-xx08_2x04_P2.50mm_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

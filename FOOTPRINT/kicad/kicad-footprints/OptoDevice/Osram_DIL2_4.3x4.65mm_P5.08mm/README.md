@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-OptoDevice-Osram_DIL2_4.3x4.65mm_P5.08mm|
 |Hex ID (short code)|hexID|FZKOPOSRAMDIL243X465P58|
 |name|name|OptoDevice : Osram_DIL2_4.3x4.65mm_P5.08mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Osram_DIL2_4.3x4.65mm_P5.08mm', 'description': 'PhotoDiode, plastic DIL, 4.3x4.65mm², RM5.08', 'tags': 'PhotoDiode plastic DIL RM5.08', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/Osram_DIL2_4.3x4.65mm_P5.08mm.wrl', 'pins': {'type': 'thru_hole', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Osram_DIL2_4.3x4.65mm_P5.08mm'</td><td> 'description'</td></tr><tr><td> 'PhotoDiode</td><td> plastic DIL</td><td> 4.3x4.65mm²</td><td> RM5.08'</td><td> 'tags'</td></tr><tr><td> 'PhotoDiode plastic DIL RM5.08'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/OptoDevice.3dshapes/Osram_DIL2_4.3x4.65mm_P5.08mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

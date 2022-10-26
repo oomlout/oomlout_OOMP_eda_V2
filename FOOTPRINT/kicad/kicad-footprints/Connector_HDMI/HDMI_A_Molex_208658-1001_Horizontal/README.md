@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_HDMI-HDMI_A_Molex_208658-1001_Horizontal|
 |Hex ID (short code)|hexID|FZKCNHDMIHDMIAMX2865811HORIZONTAL|
 |name|name|Connector_HDMI : HDMI_A_Molex_208658-1001_Horizontal|
-|Footprint Kicad|footprintKicadDetails|{'name': 'HDMI_A_Molex_208658-1001_Horizontal', 'description': 'HDMI Molex Type A https://www.molex.com/pdm_docs/sd/2086581001_sd.pdf', 'tags': 'HDMI Molex Type A', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_HDMI.3dshapes/HDMI_A_Molex_208658-1001_Horizontal.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'HDMI_A_Molex_208658-1001_Horizontal'</td><td> 'description'</td></tr><tr><td> 'HDMI Molex Type A https</td></tr><tr><td>//www.molex.com/pdm_docs/sd/2086581001_sd.pdf'</td><td> 'tags'</td></tr><tr><td> 'HDMI Molex Type A'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_HDMI.3dshapes/HDMI_A_Molex_208658-1001_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

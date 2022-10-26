@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Card-microSIM_JAE_SF53S006VCBR2000|
 |Hex ID (short code)|hexID|FZKCNCARDMSIMJAESF53S6VCBR2|
 |name|name|Connector_Card : microSIM_JAE_SF53S006VCBR2000|
-|Footprint Kicad|footprintKicadDetails|{'name': 'microSIM_JAE_SF53S006VCBR2000', 'description': 'https://www.jae.com/z-en/pdf_download_exec.cfm?param=SJ115712.pdf', 'tags': 'microSIM GSM Card', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_Card.3dshapes/microSIM_JAE_SF53S006VCBR2000.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'microSIM_JAE_SF53S006VCBR2000'</td><td> 'description'</td></tr><tr><td> 'https</td></tr><tr><td>//www.jae.com/z-en/pdf_download_exec.cfm?param=SJ115712.pdf'</td><td> 'tags'</td></tr><tr><td> 'microSIM GSM Card'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_Card.3dshapes/microSIM_JAE_SF53S006VCBR2000.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

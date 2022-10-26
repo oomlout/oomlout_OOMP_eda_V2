@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMEMORYFLASHAT25SL321U > AT25SL321-U
+# SZKMEMORYFLASHAT25SL321U > Memory_Flash : AT25SL321-U
 
 - ID: SYMBOL-kicad-kicad-symbols-Memory_Flash-AT25SL321-U
 - Hex ID: SZKMEMORYFLASHAT25SL321U
-- Name: AT25SL321-U
-- Description: AT25SL321-U
+- Name: Memory_Flash : AT25SL321-U
+- Description: Memory_Flash : AT25SL321-U
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_Flash-AT25SL321-U](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_Flash-AT25SL321-U)
 - Short Link: [http://oom.lt/SZKMEMORYFLASHAT25SL321U](http://oom.lt/SZKMEMORYFLASHAT25SL321U)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AT25SL321-U|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Memory_Flash-AT25SL321-U|
 |Hex ID (short code)|hexID|SZKMEMORYFLASHAT25SL321U|
-|name|name|AT25SL321-U|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AT25SL321-U', 'kicadSymbolFootprint': 'Package_CSP:WLCSP-8_1.551x2.284mm_P0.5mm', 'kicadSymbolDatasheet': 'https://www.adestotech.com/wp-content/uploads/AT25SL321_112.pdf', 'kicadSymbolki_keywords': 'SPI DSPI QSPI 32Mbit 1.7V', 'kicadSymbolki_description': '32-Mbit, 1.7V 2.5V Minimum SPI Serial Flash Memory with Dual-I/O and Quad-I/O Support, WLCSP-8', 'kicadSymbolki_fp_filters': 'WLCSP*1.551x2.284mm*P0.5mm*'}]|
+|name|name|Memory_Flash : AT25SL321-U|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'AT25SL321-U'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_CSP</td></tr><tr><td>WLCSP-8_1.551x2.284mm_P0.5mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.adestotech.com/wp-content/uploads/AT25SL321_112.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'SPI DSPI QSPI 32Mbit 1.7V'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '32-Mbit</td><td> 1.7V 2.5V Minimum SPI Serial Flash Memory with Dual-I/O and Quad-I/O Support</td><td> WLCSP-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'WLCSP*1.551x2.284mm*P0.5mm*'</td></tr></table>]|
 ||||

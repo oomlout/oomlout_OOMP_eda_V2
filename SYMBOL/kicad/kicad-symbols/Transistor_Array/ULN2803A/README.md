@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORARRAYULN283A > ULN2803A
+# SZKTRANSISTORARRAYULN283A > Transistor_Array : ULN2803A
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_Array-ULN2803A
 - Hex ID: SZKTRANSISTORARRAYULN283A
-- Name: ULN2803A
-- Description: ULN2803A
+- Name: Transistor_Array : ULN2803A
+- Description: Transistor_Array : ULN2803A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_Array-ULN2803A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_Array-ULN2803A)
 - Short Link: [http://oom.lt/SZKTRANSISTORARRAYULN283A](http://oom.lt/SZKTRANSISTORARRAYULN283A)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ULN2803A|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_Array-ULN2803A|
 |Hex ID (short code)|hexID|SZKTRANSISTORARRAYULN283A|
-|name|name|ULN2803A|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ULN2803A', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/uln2803a.pdf', 'kicadSymbolki_keywords': 'Darlington transistor array', 'kicadSymbolki_description': 'Darlington Transistor Arrays, SOIC18/DIP18', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm* SOIC*7.5x11.6mm*P1.27mm*'}]|
+|name|name|Transistor_Array : ULN2803A|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ULN2803A'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/uln2803a.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Darlington transistor array'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Darlington Transistor Arrays</td><td> SOIC18/DIP18'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W7.62mm* SOIC*7.5x11.6mm*P1.27mm*'</td></tr></table>]|
 ||||

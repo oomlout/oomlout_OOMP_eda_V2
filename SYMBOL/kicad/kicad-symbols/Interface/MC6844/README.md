@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKINTERFACEMC6844 > MC6844
+# SZKINTERFACEMC6844 > Interface : MC6844
 
 - ID: SYMBOL-kicad-kicad-symbols-Interface-MC6844
 - Hex ID: SZKINTERFACEMC6844
-- Name: MC6844
-- Description: MC6844
+- Name: Interface : MC6844
+- Description: Interface : MC6844
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-MC6844](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-MC6844)
 - Short Link: [http://oom.lt/SZKINTERFACEMC6844](http://oom.lt/SZKINTERFACEMC6844)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MC6844|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface-MC6844|
 |Hex ID (short code)|hexID|SZKINTERFACEMC6844|
-|name|name|MC6844|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MC6844', 'kicadSymbolFootprint': 'Package_DIP:DIP-40_W15.24mm', 'kicadSymbolDatasheet': 'http://pdf.datasheetcatalog.com/datasheets/560/501527_DS.pdf', 'kicadSymbolki_keywords': 'Direct Memory Access Controller', 'kicadSymbolki_description': 'Direct Memory Access Controller 1MHz, DIP-40', 'kicadSymbolki_fp_filters': 'DIP*W15.24mm*'}]|
+|name|name|Interface : MC6844|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MC6844'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>DIP-40_W15.24mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//pdf.datasheetcatalog.com/datasheets/560/501527_DS.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Direct Memory Access Controller'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Direct Memory Access Controller 1MHz</td><td> DIP-40'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W15.24mm*'</td></tr></table>]|
 ||||

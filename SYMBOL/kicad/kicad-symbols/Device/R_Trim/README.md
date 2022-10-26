@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDEVICERTRIM > R_Trim
+# SZKDEVICERTRIM > Device : R_Trim
 
 - ID: SYMBOL-kicad-kicad-symbols-Device-R_Trim
 - Hex ID: SZKDEVICERTRIM
-- Name: R_Trim
-- Description: R_Trim
+- Name: Device : R_Trim
+- Description: Device : R_Trim
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-R_Trim](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-R_Trim)
 - Short Link: [http://oom.lt/SZKDEVICERTRIM](http://oom.lt/SZKDEVICERTRIM)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|R_Trim|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-R_Trim|
 |Hex ID (short code)|hexID|SZKDEVICERTRIM|
-|name|name|R_Trim|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'R', 'kicadSymbolValue': 'R_Trim', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'R res resistor variable potentiometer trimmer', 'kicadSymbolki_description': 'Trimmable resistor (preset resistor)', 'kicadSymbolki_fp_filters': 'R_*'}]|
+|name|name|Device : R_Trim|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'R'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'R_Trim'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'R res resistor variable potentiometer trimmer'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Trimmable resistor (preset resistor)'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'R_*'</td></tr></table>]|
 ||||

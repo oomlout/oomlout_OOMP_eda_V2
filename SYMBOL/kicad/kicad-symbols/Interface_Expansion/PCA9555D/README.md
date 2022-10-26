@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKINTERFACEEXPANSIONPCA9555D > PCA9555D
+# SZKINTERFACEEXPANSIONPCA9555D > Interface_Expansion : PCA9555D
 
 - ID: SYMBOL-kicad-kicad-symbols-Interface_Expansion-PCA9555D
 - Hex ID: SZKINTERFACEEXPANSIONPCA9555D
-- Name: PCA9555D
-- Description: PCA9555D
+- Name: Interface_Expansion : PCA9555D
+- Description: Interface_Expansion : PCA9555D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Expansion-PCA9555D](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Expansion-PCA9555D)
 - Short Link: [http://oom.lt/SZKINTERFACEEXPANSIONPCA9555D](http://oom.lt/SZKINTERFACEEXPANSIONPCA9555D)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PCA9555D|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_Expansion-PCA9555D|
 |Hex ID (short code)|hexID|SZKINTERFACEEXPANSIONPCA9555D|
-|name|name|PCA9555D|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PCA9555D', 'kicadSymbolFootprint': 'Package_SO:SOIC-24W_7.5x15.4mm_P1.27mm', 'kicadSymbolDatasheet': 'https://www.nxp.com/docs/en/data-sheet/PCA9555.pdf', 'kicadSymbolki_keywords': 'I2C TWI IO expander', 'kicadSymbolki_description': 'IO expander 16 GPIO, I2C 400kHz, Interrupt, 2.3 - 5.5V, SOIC-24', 'kicadSymbolki_fp_filters': 'SOIC*7.5x15.4mm*P1.27mm*'}]|
+|name|name|Interface_Expansion : PCA9555D|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'PCA9555D'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-24W_7.5x15.4mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.nxp.com/docs/en/data-sheet/PCA9555.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'I2C TWI IO expander'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'IO expander 16 GPIO</td><td> I2C 400kHz</td><td> Interrupt</td><td> 2.3 - 5.5V</td><td> SOIC-24'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*7.5x15.4mm*P1.27mm*'</td></tr></table>]|
 ||||

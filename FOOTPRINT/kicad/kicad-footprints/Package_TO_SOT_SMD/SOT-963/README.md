@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-963|
 |Hex ID (short code)|hexID|FZKPACKAGETOSOTSMSOT963|
 |name|name|Package_TO_SOT_SMD : SOT-963|
-|Footprint Kicad|footprintKicadDetails|{'name': 'SOT-963', 'description': 'SOT 963 6 pins package 1x0.8mm pitch 0.35mm', 'tags': 'SOT 963 6 pins package 1x0.8mm pitch 0.35mm', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-963.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SOT-963'</td><td> 'description'</td></tr><tr><td> 'SOT 963 6 pins package 1x0.8mm pitch 0.35mm'</td><td> 'tags'</td></tr><tr><td> 'SOT 963 6 pins package 1x0.8mm pitch 0.35mm'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_TO_SOT_SMD.3dshapes/SOT-963.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

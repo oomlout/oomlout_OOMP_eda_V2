@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Axial_DIN0918_L18.0mm_D9.0mm_P22.86mm_Horizontal|
 |Hex ID (short code)|hexID|FZKRRAXIALDIN918L18D9P2286HORIZONTAL|
 |name|name|Resistor_THT : R_Axial_DIN0918_L18.0mm_D9.0mm_P22.86mm_Horizontal|
-|Footprint Kicad|footprintKicadDetails|{'name': 'R_Axial_DIN0918_L18.0mm_D9.0mm_P22.86mm_Horizontal', 'description': 'Resistor, Axial_DIN0918 series, Axial, Horizontal, pin pitch=22.86mm, 4W, length*diameter=18*9mm^2', 'tags': 'Resistor Axial_DIN0918 series Axial Horizontal pin pitch 22.86mm 4W length 18mm diameter 9mm', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_DIN0918_L18.0mm_D9.0mm_P22.86mm_Horizontal.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'R_Axial_DIN0918_L18.0mm_D9.0mm_P22.86mm_Horizontal'</td><td> 'description'</td></tr><tr><td> 'Resistor</td><td> Axial_DIN0918 series</td><td> Axial</td><td> Horizontal</td><td> pin pitch=22.86mm</td><td> 4W</td><td> length*diameter=18*9mm^2'</td><td> 'tags'</td></tr><tr><td> 'Resistor Axial_DIN0918 series Axial Horizontal pin pitch 22.86mm 4W length 18mm diameter 9mm'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Resistor_THT.3dshapes/R_Axial_DIN0918_L18.0mm_D9.0mm_P22.86mm_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

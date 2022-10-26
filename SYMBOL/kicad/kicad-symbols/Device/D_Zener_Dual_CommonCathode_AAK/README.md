@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDEVICEDZENERDUALCOONCATHODEAAK > D_Zener_Dual_CommonCathode_AAK
+# SZKDEVICEDZENERDUALCOONCATHODEAAK > Device : D_Zener_Dual_CommonCathode_AAK
 
 - ID: SYMBOL-kicad-kicad-symbols-Device-D_Zener_Dual_CommonCathode_AAK
 - Hex ID: SZKDEVICEDZENERDUALCOONCATHODEAAK
-- Name: D_Zener_Dual_CommonCathode_AAK
-- Description: D_Zener_Dual_CommonCathode_AAK
+- Name: Device : D_Zener_Dual_CommonCathode_AAK
+- Description: Device : D_Zener_Dual_CommonCathode_AAK
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Zener_Dual_CommonCathode_AAK](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Zener_Dual_CommonCathode_AAK)
 - Short Link: [http://oom.lt/SZKDEVICEDZENERDUALCOONCATHODEAAK](http://oom.lt/SZKDEVICEDZENERDUALCOONCATHODEAAK)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|D_Zener_Dual_CommonCathode_AAK|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-D_Zener_Dual_CommonCathode_AAK|
 |Hex ID (short code)|hexID|SZKDEVICEDZENERDUALCOONCATHODEAAK|
-|name|name|D_Zener_Dual_CommonCathode_AAK|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'D_Zener_Dual_CommonCathode_AAK', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'diode zener dual', 'kicadSymbolki_description': 'Dual Zener diode, common cathode on pin 3', 'kicadSymbolki_fp_filters': 'SOT* SC*'}]|
+|name|name|Device : D_Zener_Dual_CommonCathode_AAK|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'D_Zener_Dual_CommonCathode_AAK'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'diode zener dual'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Dual Zener diode</td><td> common cathode on pin 3'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT* SC*'</td></tr></table>]|
 ||||

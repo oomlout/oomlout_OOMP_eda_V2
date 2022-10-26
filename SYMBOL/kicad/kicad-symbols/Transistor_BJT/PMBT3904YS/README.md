@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORBJTPMBT394YS > PMBT3904YS
+# SZKTRANSISTORBJTPMBT394YS > Transistor_BJT : PMBT3904YS
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-PMBT3904YS
 - Hex ID: SZKTRANSISTORBJTPMBT394YS
-- Name: PMBT3904YS
-- Description: PMBT3904YS
+- Name: Transistor_BJT : PMBT3904YS
+- Description: Transistor_BJT : PMBT3904YS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-PMBT3904YS](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-PMBT3904YS)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTPMBT394YS](http://oom.lt/SZKTRANSISTORBJTPMBT394YS)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PMBT3904YS|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_BJT-PMBT3904YS|
 |Hex ID (short code)|hexID|SZKTRANSISTORBJTPMBT394YS|
-|name|name|PMBT3904YS|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BC846BS', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'PMBT3904YS', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-363_SC-70-6', 'kicadSymbolDatasheet': 'https://assets.nexperia.com/documents/data-sheet/PMBT3904YS.pdf', 'kicadSymbolki_keywords': 'NPN/NPN Transistor', 'kicadSymbolki_description': '200mA IC, 40V Vce, Dual NPN/NPN Transistors, SOT-363', 'kicadSymbolki_fp_filters': 'SOT?363*'}]|
+|name|name|Transistor_BJT : PMBT3904YS|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'BC846BS'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'PMBT3904YS'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-363_SC-70-6'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//assets.nexperia.com/documents/data-sheet/PMBT3904YS.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'NPN/NPN Transistor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '200mA IC</td><td> 40V Vce</td><td> Dual NPN/NPN Transistors</td><td> SOT-363'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?363*'</td></tr></table>]|
 ||||

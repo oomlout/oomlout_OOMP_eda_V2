@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKANALOGSWITCHDG418LDJ > DG418LDJ
+# SZKANALOGSWITCHDG418LDJ > Analog_Switch : DG418LDJ
 
 - ID: SYMBOL-kicad-kicad-symbols-Analog_Switch-DG418LDJ
 - Hex ID: SZKANALOGSWITCHDG418LDJ
-- Name: DG418LDJ
-- Description: DG418LDJ
+- Name: Analog_Switch : DG418LDJ
+- Description: Analog_Switch : DG418LDJ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-DG418LDJ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-DG418LDJ)
 - Short Link: [http://oom.lt/SZKANALOGSWITCHDG418LDJ](http://oom.lt/SZKANALOGSWITCHDG418LDJ)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DG418LDJ|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_Switch-DG418LDJ|
 |Hex ID (short code)|hexID|SZKANALOGSWITCHDG418LDJ|
-|name|name|DG418LDJ|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'DG418LDJ', 'kicadSymbolFootprint': 'Package_DIP:DIP-8_W7.62mm', 'kicadSymbolDatasheet': 'https://datasheets.maximintegrated.com/en/ds/DG417-DG419.pdf', 'kicadSymbolki_keywords': 'CMOS Analog Switch', 'kicadSymbolki_description': 'Single SPST 3V Logic Compatible CMOS Analog Switch, normally OFF, 35Ohm Ron, with Vlogic, DIP-8', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
+|name|name|Analog_Switch : DG418LDJ|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'DG418LDJ'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>DIP-8_W7.62mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//datasheets.maximintegrated.com/en/ds/DG417-DG419.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'CMOS Analog Switch'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Single SPST 3V Logic Compatible CMOS Analog Switch</td><td> normally OFF</td><td> 35Ohm Ron</td><td> with Vlogic</td><td> DIP-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W7.62mm*'</td></tr></table>]|
 ||||

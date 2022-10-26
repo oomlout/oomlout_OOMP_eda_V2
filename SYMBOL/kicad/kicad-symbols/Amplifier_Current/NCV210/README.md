@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKAMPLIFIERCURRENTNCV21 > NCV210
+# SZKAMPLIFIERCURRENTNCV21 > Amplifier_Current : NCV210
 
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Current-NCV210
 - Hex ID: SZKAMPLIFIERCURRENTNCV21
-- Name: NCV210
-- Description: NCV210
+- Name: Amplifier_Current : NCV210
+- Description: Amplifier_Current : NCV210
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Current-NCV210](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Current-NCV210)
 - Short Link: [http://oom.lt/SZKAMPLIFIERCURRENTNCV21](http://oom.lt/SZKAMPLIFIERCURRENTNCV21)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|NCV210|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Current-NCV210|
 |Hex ID (short code)|hexID|SZKAMPLIFIERCURRENTNCV21|
-|name|name|NCV210|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'NCS210', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'NCV210', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-363_SC-70-6', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pub/Collateral/NCS210R-D.PDF', 'kicadSymbolki_keywords': 'Current shunt monitor', 'kicadSymbolki_description': 'Current-Shunt Monitor, Voltage Output, Bi-Directional Zero-Drift, 200V/V Gain, SC-70-6', 'kicadSymbolki_fp_filters': '*SC?70*'}]|
+|name|name|Amplifier_Current : NCV210|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'NCS210'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'NCV210'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-363_SC-70-6'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.onsemi.com/pub/Collateral/NCS210R-D.PDF'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Current shunt monitor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Current-Shunt Monitor</td><td> Voltage Output</td><td> Bi-Directional Zero-Drift</td><td> 200V/V Gain</td><td> SC-70-6'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> '*SC?70*'</td></tr></table>]|
 ||||

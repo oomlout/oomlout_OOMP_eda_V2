@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_CSP-WLCSP-12_1.403x1.555mm_P0.4mm_Stagger|
 |Hex ID (short code)|hexID|FZKCSPWLCSP12143X1555P4STAGGER|
 |name|name|Package_CSP : WLCSP-12_1.403x1.555mm_P0.4mm_Stagger|
-|Footprint Kicad|footprintKicadDetails|{'name': 'WLCSP-12_1.403x1.555mm_P0.4mm_Stagger', 'description': 'WLCSP-12, 6x4 raster staggered array, 1.403x1.555mm package, pitch 0.4mm; http://ww1.microchip.com/downloads/en/devicedoc/atmel-8235-8-bit-avr-microcontroller-attiny20_datasheet.pdf#page=208', 'tags': 'CSP 12 0.2x0.346333', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_CSP.3dshapes/WLCSP-12_1.403x1.555mm_P0.4mm_Stagger.wrl', 'pins': {'type': 'smd', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'WLCSP-12_1.403x1.555mm_P0.4mm_Stagger'</td><td> 'description'</td></tr><tr><td> 'WLCSP-12</td><td> 6x4 raster staggered array</td><td> 1.403x1.555mm package</td><td> pitch 0.4mm; http</td></tr><tr><td>//ww1.microchip.com/downloads/en/devicedoc/atmel-8235-8-bit-avr-microcontroller-attiny20_datasheet.pdf#page=208'</td><td> 'tags'</td></tr><tr><td> 'CSP 12 0.2x0.346333'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_CSP.3dshapes/WLCSP-12_1.403x1.555mm_P0.4mm_Stagger.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

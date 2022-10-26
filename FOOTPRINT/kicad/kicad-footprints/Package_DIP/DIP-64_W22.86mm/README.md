@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DIP-DIP-64_W22.86mm|
 |Hex ID (short code)|hexID|FZKDIPDIP64W2286|
 |name|name|Package_DIP : DIP-64_W22.86mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'DIP-64_W22.86mm', 'description': '64-lead though-hole mounted DIP package, row spacing 22.86 mm (900 mils)', 'tags': 'THT DIP DIL PDIP 2.54mm 22.86mm 900mil', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DIP.3dshapes/DIP-64_W22.86mm.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'DIP-64_W22.86mm'</td><td> 'description'</td></tr><tr><td> '64-lead though-hole mounted DIP package</td><td> row spacing 22.86 mm (900 mils)'</td><td> 'tags'</td></tr><tr><td> 'THT DIP DIL PDIP 2.54mm 22.86mm 900mil'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DIP.3dshapes/DIP-64_W22.86mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

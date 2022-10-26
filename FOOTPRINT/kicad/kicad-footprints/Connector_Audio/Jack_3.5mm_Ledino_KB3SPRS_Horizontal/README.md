@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_3.5mm_Ledino_KB3SPRS_Horizontal|
 |Hex ID (short code)|hexID|FZKCNAUDIOJ35LINOKB3SPRSHORIZONTAL|
 |name|name|Connector_Audio : Jack_3.5mm_Ledino_KB3SPRS_Horizontal|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Jack_3.5mm_Ledino_KB3SPRS_Horizontal', 'description': 'https://www.reichelt.de/index.html?ACTION=7&LA=3&OPEN=0&INDEX=0&FILENAME=C160%252FKB3SPRS.pdf', 'tags': 'jack stereo TRS', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_Audio.3dshapes/Jack_3.5mm_Ledino_KB3SPRS_Horizontal.wrl', 'pins': {'type': 'thru_hole', 'shape': 'oval'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Jack_3.5mm_Ledino_KB3SPRS_Horizontal'</td><td> 'description'</td></tr><tr><td> 'https</td></tr><tr><td>//www.reichelt.de/index.html?ACTION=7&LA=3&OPEN=0&INDEX=0&FILENAME=C160%252FKB3SPRS.pdf'</td><td> 'tags'</td></tr><tr><td> 'jack stereo TRS'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_Audio.3dshapes/Jack_3.5mm_Ledino_KB3SPRS_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'oval'</td></tr></table></td></tr></table>|
 ||||
 
 

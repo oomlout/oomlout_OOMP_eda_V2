@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORCONTROLLERL6598 > L6598
+# SZKREGULATORCONTROLLERL6598 > Regulator_Controller : L6598
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Controller-L6598
 - Hex ID: SZKREGULATORCONTROLLERL6598
-- Name: L6598
-- Description: L6598
+- Name: Regulator_Controller : L6598
+- Description: Regulator_Controller : L6598
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-L6598](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-L6598)
 - Short Link: [http://oom.lt/SZKREGULATORCONTROLLERL6598](http://oom.lt/SZKREGULATORCONTROLLERL6598)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|L6598|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Controller-L6598|
 |Hex ID (short code)|hexID|SZKREGULATORCONTROLLERL6598|
-|name|name|L6598|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'L6598', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'www.st.com/resource/en/datasheet/l6598.pdf', 'kicadSymbolki_keywords': 'SMPS controller', 'kicadSymbolki_description': 'High Voltage Resonant Controller, DIP-16/SOIC-16', 'kicadSymbolki_fp_filters': 'SOIC*3.9x9.9mm*P1.27mm* DIP*W7.62mm*'}]|
+|name|name|Regulator_Controller : L6598|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'L6598'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'www.st.com/resource/en/datasheet/l6598.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'SMPS controller'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'High Voltage Resonant Controller</td><td> DIP-16/SOIC-16'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*3.9x9.9mm*P1.27mm* DIP*W7.62mm*'</td></tr></table>]|
 ||||

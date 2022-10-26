@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_FFC-FPC-Molex_52559-3652_2x18-1MP_P0.5mm_Vertical|
 |Hex ID (short code)|hexID|FZKCNFFCFPCMX5255936522X181MPP5VERTICAL|
 |name|name|Connector_FFC-FPC : Molex_52559-3652_2x18-1MP_P0.5mm_Vertical|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Molex_52559-3652_2x18-1MP_P0.5mm_Vertical', 'description': 'Molex 0.50mm Pitch Easy-On Type FFC/FPC, 52559-3652, 36 Circuits (https://www.molex.com/pdm_docs/sd/525593652_sd.pdf)', 'tags': 'connector Molex top entry', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_FFC-FPC.3dshapes/Molex_52559-3652_2Rows_36pins_1MP_P0.5mm_Vertical.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Molex_52559-3652_2x18-1MP_P0.5mm_Vertical'</td><td> 'description'</td></tr><tr><td> 'Molex 0.50mm Pitch Easy-On Type FFC/FPC</td><td> 52559-3652</td><td> 36 Circuits (https</td></tr><tr><td>//www.molex.com/pdm_docs/sd/525593652_sd.pdf)'</td><td> 'tags'</td></tr><tr><td> 'connector Molex top entry'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_FFC-FPC.3dshapes/Molex_52559-3652_2Rows_36pins_1MP_P0.5mm_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

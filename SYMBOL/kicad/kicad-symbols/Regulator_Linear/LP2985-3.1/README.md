@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORLINEARLP298531 > LP2985-3.1
+# SZKREGULATORLINEARLP298531 > Regulator_Linear : LP2985-3.1
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-LP2985-3.1
 - Hex ID: SZKREGULATORLINEARLP298531
-- Name: LP2985-3.1
-- Description: LP2985-3.1
+- Name: Regulator_Linear : LP2985-3.1
+- Description: Regulator_Linear : LP2985-3.1
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LP2985-3.1](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LP2985-3.1)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARLP298531](http://oom.lt/SZKREGULATORLINEARLP298531)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LP2985-3.1|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-LP2985-3.1|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARLP298531|
-|name|name|LP2985-3.1|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LP2985-1.8', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LP2985-3.1', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-5', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lp2985.pdf', 'kicadSymbolki_keywords': 'LDO regulator linear  SOT-23-5', 'kicadSymbolki_description': '150mA 16V Low-noise Low-dropout Regulator With Shutdown, 3.1V output voltage, SOT-23-5', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
+|name|name|Regulator_Linear : LP2985-3.1|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'LP2985-1.8'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LP2985-3.1'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-23-5'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/lp2985.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'LDO regulator linear  SOT-23-5'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '150mA 16V Low-noise Low-dropout Regulator With Shutdown</td><td> 3.1V output voltage</td><td> SOT-23-5'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23*'</td></tr></table>]|
 ||||

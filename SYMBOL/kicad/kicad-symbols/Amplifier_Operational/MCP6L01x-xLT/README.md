@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKAMPLIFIEROPERATIONALMCP6L1XXLT > MCP6L01x-xLT
+# SZKAMPLIFIEROPERATIONALMCP6L1XXLT > Amplifier_Operational : MCP6L01x-xLT
 
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-MCP6L01x-xLT
 - Hex ID: SZKAMPLIFIEROPERATIONALMCP6L1XXLT
-- Name: MCP6L01x-xLT
-- Description: MCP6L01x-xLT
+- Name: Amplifier_Operational : MCP6L01x-xLT
+- Description: Amplifier_Operational : MCP6L01x-xLT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-MCP6L01x-xLT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-MCP6L01x-xLT)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALMCP6L1XXLT](http://oom.lt/SZKAMPLIFIEROPERATIONALMCP6L1XXLT)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MCP6L01x-xLT|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Operational-MCP6L01x-xLT|
 |Hex ID (short code)|hexID|SZKAMPLIFIEROPERATIONALMCP6L1XXLT|
-|name|name|MCP6L01x-xLT|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MCP6001x-LT', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MCP6L01x-xLT', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-353_SC-70-5', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/devicedoc/22140b.pdf', 'kicadSymbolki_keywords': 'opamp vfa r2r rtr', 'kicadSymbolki_description': 'Single, 1 MHz, Rail-to-Rail input and output, SC-70-5', 'kicadSymbolki_fp_filters': '*SC?70*'}]|
+|name|name|Amplifier_Operational : MCP6L01x-xLT|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'MCP6001x-LT'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MCP6L01x-xLT'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-353_SC-70-5'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/devicedoc/22140b.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'opamp vfa r2r rtr'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Single</td><td> 1 MHz</td><td> Rail-to-Rail input and output</td><td> SC-70-5'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> '*SC?70*'</td></tr></table>]|
 ||||

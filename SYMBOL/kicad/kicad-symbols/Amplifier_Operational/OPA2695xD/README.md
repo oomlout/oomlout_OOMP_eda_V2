@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKAMPLIFIEROPERATIONALOPA2695XD > OPA2695xD
+# SZKAMPLIFIEROPERATIONALOPA2695XD > Amplifier_Operational : OPA2695xD
 
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA2695xD
 - Hex ID: SZKAMPLIFIEROPERATIONALOPA2695XD
-- Name: OPA2695xD
-- Description: OPA2695xD
+- Name: Amplifier_Operational : OPA2695xD
+- Description: Amplifier_Operational : OPA2695xD
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA2695xD](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA2695xD)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALOPA2695XD](http://oom.lt/SZKAMPLIFIEROPERATIONALOPA2695XD)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|OPA2695xD|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA2695xD|
 |Hex ID (short code)|hexID|SZKAMPLIFIEROPERATIONALOPA2695XD|
-|name|name|OPA2695xD|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'OPA2695xD', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/sbos354a/sbos354a.pdf', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'dual opamp', 'kicadSymbolki_description': 'Dual, Ultra-Wideband, Current-Feedback Operational Amplifier with Disable, SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm*'}]|
+|name|name|Amplifier_Operational : OPA2695xD|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'OPA2695xD'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-8_3.9x4.9mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/sbos354a/sbos354a.pdf'</td><td> 'kicadSymbolki_locked'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'dual opamp'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Dual</td><td> Ultra-Wideband</td><td> Current-Feedback Operational Amplifier with Disable</td><td> SOIC-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*3.9x4.9mm*P1.27mm*'</td></tr></table>]|
 ||||

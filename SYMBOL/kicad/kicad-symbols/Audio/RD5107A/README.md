@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKAUDIORD517A > RD5107A
+# SZKAUDIORD517A > Audio : RD5107A
 
 - ID: SYMBOL-kicad-kicad-symbols-Audio-RD5107A
 - Hex ID: SZKAUDIORD517A
-- Name: RD5107A
-- Description: RD5107A
+- Name: Audio : RD5107A
+- Description: Audio : RD5107A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-RD5107A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-RD5107A)
 - Short Link: [http://oom.lt/SZKAUDIORD517A](http://oom.lt/SZKAUDIORD517A)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|RD5107A|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Audio-RD5107A|
 |Hex ID (short code)|hexID|SZKAUDIORD517A|
-|name|name|RD5107A|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'RD5106A', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'RD5107A', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://pdf.datasheetarchive.com/indexerfiles/Scans-091/DSAHI00048836.pdf', 'kicadSymbolki_keywords': 'EG&G RETICON BBD N-channel silicon-gate', 'kicadSymbolki_description': 'Analog Delay Line 512 sample bucket brigade device, 1msec to more than 2seconds, input signal frequency range 0 to 170KHz, clock frequency range 500Hz to 1MHz', 'kicadSymbolki_fp_filters': 'DIP-8*'}]|
+|name|name|Audio : RD5107A|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'RD5106A'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'RD5107A'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//pdf.datasheetarchive.com/indexerfiles/Scans-091/DSAHI00048836.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'EG&G RETICON BBD N-channel silicon-gate'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Analog Delay Line 512 sample bucket brigade device</td><td> 1msec to more than 2seconds</td><td> input signal frequency range 0 to 170KHz</td><td> clock frequency range 500Hz to 1MHz'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP-8*'</td></tr></table>]|
 ||||

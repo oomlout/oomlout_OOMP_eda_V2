@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKFPGAXILINXSPARTAN6XC6SLX15FGG9 > XC6SLX150-FGG900
+# SZKFPGAXILINXSPARTAN6XC6SLX15FGG9 > FPGA_Xilinx_Spartan6 : XC6SLX150-FGG900
 
 - ID: SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Spartan6-XC6SLX150-FGG900
 - Hex ID: SZKFPGAXILINXSPARTAN6XC6SLX15FGG9
-- Name: XC6SLX150-FGG900
-- Description: XC6SLX150-FGG900
+- Name: FPGA_Xilinx_Spartan6 : XC6SLX150-FGG900
+- Description: FPGA_Xilinx_Spartan6 : XC6SLX150-FGG900
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Spartan6-XC6SLX150-FGG900](http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Spartan6-XC6SLX150-FGG900)
 - Short Link: [http://oom.lt/SZKFPGAXILINXSPARTAN6XC6SLX15FGG9](http://oom.lt/SZKFPGAXILINXSPARTAN6XC6SLX15FGG9)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|XC6SLX150-FGG900|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Spartan6-XC6SLX150-FGG900|
 |Hex ID (short code)|hexID|SZKFPGAXILINXSPARTAN6XC6SLX15FGG9|
-|name|name|XC6SLX150-FGG900|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'XC6SLX150-FGG900', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'FPGA', 'kicadSymbolki_description': 'Spartan 6 LX 150 XC6SLX150-FGG900'}]|
+|name|name|FPGA_Xilinx_Spartan6 : XC6SLX150-FGG900|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'XC6SLX150-FGG900'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_locked'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'FPGA'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Spartan 6 LX 150 XC6SLX150-FGG900'</td></tr></table>]|
 ||||

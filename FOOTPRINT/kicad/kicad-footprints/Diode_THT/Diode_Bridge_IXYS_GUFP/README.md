@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Diode_THT-Diode_Bridge_IXYS_GUFP|
 |Hex ID (short code)|hexID|FZKDDIODEBRIDGEIXYSGUFP|
 |name|name|Diode_THT : Diode_Bridge_IXYS_GUFP|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Diode_Bridge_IXYS_GUFP', 'description': 'Three phase, Bridge, Rectifier', 'tags': 'diode module', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/Diode_Bridge_IXYS_GUFP.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Diode_Bridge_IXYS_GUFP'</td><td> 'description'</td></tr><tr><td> 'Three phase</td><td> Bridge</td><td> Rectifier'</td><td> 'tags'</td></tr><tr><td> 'diode module'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Diode_THT.3dshapes/Diode_Bridge_IXYS_GUFP.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

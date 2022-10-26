@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORFETDMN333LDM > DMN3033LDM
+# SZKTRANSISTORFETDMN333LDM > Transistor_FET : DMN3033LDM
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-DMN3033LDM
 - Hex ID: SZKTRANSISTORFETDMN333LDM
-- Name: DMN3033LDM
-- Description: DMN3033LDM
+- Name: Transistor_FET : DMN3033LDM
+- Description: Transistor_FET : DMN3033LDM
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-DMN3033LDM](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-DMN3033LDM)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETDMN333LDM](http://oom.lt/SZKTRANSISTORFETDMN333LDM)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DMN3033LDM|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-DMN3033LDM|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETDMN333LDM|
-|name|name|DMN3033LDM|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'DMN3033LDM', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-6', 'kicadSymbolDatasheet': 'https://www.diodes.com/assets/Datasheets/ds31345.pdf', 'kicadSymbolki_keywords': 'N-Channel MOSFET', 'kicadSymbolki_description': '6.9A Id, 30V Vds, N-Channel MOSFET, SOT-23-6', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
+|name|name|Transistor_FET : DMN3033LDM|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'DMN3033LDM'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-23-6'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.diodes.com/assets/Datasheets/ds31345.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'N-Channel MOSFET'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '6.9A Id</td><td> 30V Vds</td><td> N-Channel MOSFET</td><td> SOT-23-6'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23*'</td></tr></table>]|
 ||||

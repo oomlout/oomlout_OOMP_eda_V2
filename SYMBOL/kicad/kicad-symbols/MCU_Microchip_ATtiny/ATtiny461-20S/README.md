@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUMCHIPATTINYATTINY4612S > ATtiny461-20S
+# SZKMCUMCHIPATTINYATTINY4612S > MCU_Microchip_ATtiny : ATtiny461-20S
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny461-20S
 - Hex ID: SZKMCUMCHIPATTINYATTINY4612S
-- Name: ATtiny461-20S
-- Description: ATtiny461-20S
+- Name: MCU_Microchip_ATtiny : ATtiny461-20S
+- Description: MCU_Microchip_ATtiny : ATtiny461-20S
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny461-20S](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny461-20S)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATTINYATTINY4612S](http://oom.lt/SZKMCUMCHIPATTINYATTINY4612S)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ATtiny461-20S|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny461-20S|
 |Hex ID (short code)|hexID|SZKMCUMCHIPATTINYATTINY4612S|
-|name|name|ATtiny461-20S|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ATtiny461V-10S', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ATtiny461-20S', 'kicadSymbolFootprint': 'Package_SO:SOIC-20W_7.5x12.8mm_P1.27mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/atmel-2588-8-bit-avr-microcontrollers-tinyavr-attiny261-attiny461-attiny861_datasheet.pdf', 'kicadSymbolki_keywords': 'AVR 8bit Microcontroller tinyAVR', 'kicadSymbolki_description': '20MHz, 4kB Flash, 256B SRAM, 256B EEPROM, SOIC-20', 'kicadSymbolki_fp_filters': 'SOIC*7.5x12.8mm*P1.27mm*'}]|
+|name|name|MCU_Microchip_ATtiny : ATtiny461-20S|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'ATtiny461V-10S'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ATtiny461-20S'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-20W_7.5x12.8mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/atmel-2588-8-bit-avr-microcontrollers-tinyavr-attiny261-attiny461-attiny861_datasheet.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'AVR 8bit Microcontroller tinyAVR'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '20MHz</td><td> 4kB Flash</td><td> 256B SRAM</td><td> 256B EEPROM</td><td> SOIC-20'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*7.5x12.8mm*P1.27mm*'</td></tr></table>]|
 ||||

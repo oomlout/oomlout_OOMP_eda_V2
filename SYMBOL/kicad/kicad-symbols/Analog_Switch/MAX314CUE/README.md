@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKANALOGSWITCHMAX314CUE > MAX314CUE
+# SZKANALOGSWITCHMAX314CUE > Analog_Switch : MAX314CUE
 
 - ID: SYMBOL-kicad-kicad-symbols-Analog_Switch-MAX314CUE
 - Hex ID: SZKANALOGSWITCHMAX314CUE
-- Name: MAX314CUE
-- Description: MAX314CUE
+- Name: Analog_Switch : MAX314CUE
+- Description: Analog_Switch : MAX314CUE
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-MAX314CUE](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-MAX314CUE)
 - Short Link: [http://oom.lt/SZKANALOGSWITCHMAX314CUE](http://oom.lt/SZKANALOGSWITCHMAX314CUE)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MAX314CUE|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_Switch-MAX314CUE|
 |Hex ID (short code)|hexID|SZKANALOGSWITCHMAX314CUE|
-|name|name|MAX314CUE|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'DG413xUE', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MAX314CUE', 'kicadSymbolFootprint': 'Package_SO:TSSOP-16_4.4x5mm_P0.65mm', 'kicadSymbolDatasheet': 'https://datasheets.maximintegrated.com/en/ds/MAX312-MAX314.pdf', 'kicadSymbolki_keywords': 'CMOS Analog Switch', 'kicadSymbolki_description': 'Quad SPST CMOS Analog Switches, normally 2xON + 2xOFF, 6.5Ohm Ron, TSSOP-16', 'kicadSymbolki_fp_filters': 'TSSOP*4.4x5mm*P0.65mm*'}]|
+|name|name|Analog_Switch : MAX314CUE|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'DG413xUE'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MAX314CUE'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>TSSOP-16_4.4x5mm_P0.65mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//datasheets.maximintegrated.com/en/ds/MAX312-MAX314.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'CMOS Analog Switch'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Quad SPST CMOS Analog Switches</td><td> normally 2xON + 2xOFF</td><td> 6.5Ohm Ron</td><td> TSSOP-16'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TSSOP*4.4x5mm*P0.65mm*'</td></tr></table>]|
 ||||

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_MicroCrystal_MS3V-T1R|
 |Hex ID (short code)|hexID|FZKXXSMMXMS3VT1R|
 |name|name|Crystal : Crystal_SMD_MicroCrystal_MS3V-T1R|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Crystal_SMD_MicroCrystal_MS3V-T1R', 'description': 'SMD Watch Crystal MicroCrystal MS3V-T1R 5.2mm length 1.4mm diameter http://www.microcrystal.com/images/_Product-Documentation/03_TF_metal_Packages/01_Datasheet/MS3V-T1R.pdf', 'tags': "['MS3V-T1R']", 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Crystal_SMD_MicroCrystal_MS3V-T1R.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Crystal_SMD_MicroCrystal_MS3V-T1R'</td><td> 'description'</td></tr><tr><td> 'SMD Watch Crystal MicroCrystal MS3V-T1R 5.2mm length 1.4mm diameter http</td></tr><tr><td>//www.microcrystal.com/images/_Product-Documentation/03_TF_metal_Packages/01_Datasheet/MS3V-T1R.pdf'</td><td> 'tags'</td></tr><tr><td> "['MS3V-T1R']"</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Crystal.3dshapes/Crystal_SMD_MicroCrystal_MS3V-T1R.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

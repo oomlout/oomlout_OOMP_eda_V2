@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKRELAYRT314A12 > RT314A12
+# SZKRELAYRT314A12 > Relay : RT314A12
 
 - ID: SYMBOL-kicad-kicad-symbols-Relay-RT314A12
 - Hex ID: SZKRELAYRT314A12
-- Name: RT314A12
-- Description: RT314A12
+- Name: Relay : RT314A12
+- Description: Relay : RT314A12
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-RT314A12](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-RT314A12)
 - Short Link: [http://oom.lt/SZKRELAYRT314A12](http://oom.lt/SZKRELAYRT314A12)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|RT314A12|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Relay-RT314A12|
 |Hex ID (short code)|hexID|SZKRELAYRT314A12|
-|name|name|RT314A12|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'RT314A03', 'kicadSymbolReference': 'K', 'kicadSymbolValue': 'RT314A12', 'kicadSymbolFootprint': 'Relay_THT:Relay_SPDT_Schrack-RT1-16A-FormC_RM5mm', 'kicadSymbolDatasheet': 'https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=RT1_bistable&DocType=DS&DocLang=English', 'kicadSymbolki_keywords': 'TE SPDT 1P2T CO bistable DC', 'kicadSymbolki_description': 'Schrack RT1 relay, bistable single pole dual throw, single DC coil, 12V', 'kicadSymbolki_fp_filters': 'Relay*SPDT*Schrack*RT1*16A*FormC*RM5mm*'}]|
+|name|name|Relay : RT314A12|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'RT314A03'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'K'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'RT314A12'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Relay_THT</td></tr><tr><td>Relay_SPDT_Schrack-RT1-16A-FormC_RM5mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=RT1_bistable&DocType=DS&DocLang=English'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'TE SPDT 1P2T CO bistable DC'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Schrack RT1 relay</td><td> bistable single pole dual throw</td><td> single DC coil</td><td> 12V'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Relay*SPDT*Schrack*RT1*16A*FormC*RM5mm*'</td></tr></table>]|
 ||||

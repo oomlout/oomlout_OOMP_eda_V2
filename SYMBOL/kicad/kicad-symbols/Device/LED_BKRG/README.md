@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDEVICELBKRG > LED_BKRG
+# SZKDEVICELBKRG > Device : LED_BKRG
 
 - ID: SYMBOL-kicad-kicad-symbols-Device-LED_BKRG
 - Hex ID: SZKDEVICELBKRG
-- Name: LED_BKRG
-- Description: LED_BKRG
+- Name: Device : LED_BKRG
+- Description: Device : LED_BKRG
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-LED_BKRG](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-LED_BKRG)
 - Short Link: [http://oom.lt/SZKDEVICELBKRG](http://oom.lt/SZKDEVICELBKRG)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LED_BKRG|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-LED_BKRG|
 |Hex ID (short code)|hexID|SZKDEVICELBKRG|
-|name|name|LED_BKRG|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'LED_BKRG', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'LED RGB diode', 'kicadSymbolki_description': 'RGB LED, blue/cathode/red/green', 'kicadSymbolki_fp_filters': 'LED* LED_SMD:* LED_THT:*'}]|
+|name|name|Device : LED_BKRG|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LED_BKRG'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'LED RGB diode'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'RGB LED</td><td> blue/cathode/red/green'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'LED* LED_SMD</td></tr><tr><td>* LED_THT</td></tr><tr><td>*'</td></tr></table>]|
 ||||

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Bourns-SRR1005|
 |Hex ID (short code)|hexID|FZKINDUCTORSMLBOURNSSRR15|
 |name|name|Inductor_SMD : L_Bourns-SRR1005|
-|Footprint Kicad|footprintKicadDetails|{'name': 'L_Bourns-SRR1005', 'description': 'Bourns SRR1005 series SMD inductor', 'tags': 'Bourns SRR1005 SMD inductor', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Bourns-SRR1005.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'L_Bourns-SRR1005'</td><td> 'description'</td></tr><tr><td> 'Bourns SRR1005 series SMD inductor'</td><td> 'tags'</td></tr><tr><td> 'Bourns SRR1005 SMD inductor'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Inductor_SMD.3dshapes/L_Bourns-SRR1005.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

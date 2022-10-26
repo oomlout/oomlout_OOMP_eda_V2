@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORSWITCHINGAP623Z6 > AP62300Z6
+# SZKREGULATORSWITCHINGAP623Z6 > Regulator_Switching : AP62300Z6
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-AP62300Z6
 - Hex ID: SZKREGULATORSWITCHINGAP623Z6
-- Name: AP62300Z6
-- Description: AP62300Z6
+- Name: Regulator_Switching : AP62300Z6
+- Description: Regulator_Switching : AP62300Z6
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-AP62300Z6](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-AP62300Z6)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGAP623Z6](http://oom.lt/SZKREGULATORSWITCHINGAP623Z6)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AP62300Z6|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-AP62300Z6|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGAP623Z6|
-|name|name|AP62300Z6|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'AP62150Z6', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AP62300Z6', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-563', 'kicadSymbolDatasheet': 'https://www.diodes.com/assets/Datasheets/AP62300_AP62301_AP62300T.pdf', 'kicadSymbolki_keywords': '3A 1.3MHz PWM Buck DC/DC', 'kicadSymbolki_description': '3A, 1.3MHz Buck DC/DC Converter, adjustable output voltage, SOT-563', 'kicadSymbolki_fp_filters': 'SOT?563*'}]|
+|name|name|Regulator_Switching : AP62300Z6|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'AP62150Z6'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'AP62300Z6'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-563'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.diodes.com/assets/Datasheets/AP62300_AP62301_AP62300T.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> '3A 1.3MHz PWM Buck DC/DC'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '3A</td><td> 1.3MHz Buck DC/DC Converter</td><td> adjustable output voltage</td><td> SOT-563'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?563*'</td></tr></table>]|
 ||||

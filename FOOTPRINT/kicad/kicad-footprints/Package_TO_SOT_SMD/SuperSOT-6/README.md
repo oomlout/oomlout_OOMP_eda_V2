@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SuperSOT-6|
 |Hex ID (short code)|hexID|FZKPACKAGETOSOTSMSUPERSOT6|
 |name|name|Package_TO_SOT_SMD : SuperSOT-6|
-|Footprint Kicad|footprintKicadDetails|{'name': 'SuperSOT-6', 'description': '6-pin SuperSOT package http://www.mouser.com/ds/2/149/FMB5551-889214.pdf', 'tags': 'SuperSOT-6 SSOT-6', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SuperSOT-6.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SuperSOT-6'</td><td> 'description'</td></tr><tr><td> '6-pin SuperSOT package http</td></tr><tr><td>//www.mouser.com/ds/2/149/FMB5551-889214.pdf'</td><td> 'tags'</td></tr><tr><td> 'SuperSOT-6 SSOT-6'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_TO_SOT_SMD.3dshapes/SuperSOT-6.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

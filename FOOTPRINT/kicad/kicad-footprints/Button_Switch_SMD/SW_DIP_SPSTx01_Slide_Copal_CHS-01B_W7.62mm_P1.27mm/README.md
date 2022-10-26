@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_DIP_SPSTx01_Slide_Copal_CHS-01B_W7.62mm_P1.27mm|
 |Hex ID (short code)|hexID|FZKBSWITCHSMSWDIPSPSTX1SLIDECOPALCHS1BW762P127|
 |name|name|Button_Switch_SMD : SW_DIP_SPSTx01_Slide_Copal_CHS-01B_W7.62mm_P1.27mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'SW_DIP_SPSTx01_Slide_Copal_CHS-01B_W7.62mm_P1.27mm', 'description': 'SMD 1x-dip-switch SPST Copal_CHS-01B, Slide, row spacing 7.62 mm (300 mils), body size  (see http://www.nidec-copal-electronics.com/e/catalog/switch/chs.pdf), SMD', 'tags': 'SMD DIP Switch SPST Slide 7.62mm 300mil SMD', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_DIP_SPSTx01_Slide_Copal_CHS-01B_W7.62mm_P1.27mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SW_DIP_SPSTx01_Slide_Copal_CHS-01B_W7.62mm_P1.27mm'</td><td> 'description'</td></tr><tr><td> 'SMD 1x-dip-switch SPST Copal_CHS-01B</td><td> Slide</td><td> row spacing 7.62 mm (300 mils)</td><td> body size  (see http</td></tr><tr><td>//www.nidec-copal-electronics.com/e/catalog/switch/chs.pdf)</td><td> SMD'</td><td> 'tags'</td></tr><tr><td> 'SMD DIP Switch SPST Slide 7.62mm 300mil SMD'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Button_Switch_SMD.3dshapes/SW_DIP_SPSTx01_Slide_Copal_CHS-01B_W7.62mm_P1.27mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

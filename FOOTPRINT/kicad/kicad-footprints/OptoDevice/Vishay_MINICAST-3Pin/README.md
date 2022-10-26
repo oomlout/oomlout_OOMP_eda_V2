@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-OptoDevice-Vishay_MINICAST-3Pin|
 |Hex ID (short code)|hexID|FZKOPVISHAYMCAST3PIN|
 |name|name|OptoDevice : Vishay_MINICAST-3Pin|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Vishay_MINICAST-3Pin', 'description': 'IR Receiver Vishay TSOP-xxxx, MINICAST package, see https://www.vishay.com/docs/82669/tsop32s40f.pdf', 'tags': 'IR Receiver Vishay TSOP-xxxx MINICAST', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/Vishay_MINICAST-3Pin.wrl', 'pins': {'type': 'thru_hole', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Vishay_MINICAST-3Pin'</td><td> 'description'</td></tr><tr><td> 'IR Receiver Vishay TSOP-xxxx</td><td> MINICAST package</td><td> see https</td></tr><tr><td>//www.vishay.com/docs/82669/tsop32s40f.pdf'</td><td> 'tags'</td></tr><tr><td> 'IR Receiver Vishay TSOP-xxxx MINICAST'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/OptoDevice.3dshapes/Vishay_MINICAST-3Pin.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

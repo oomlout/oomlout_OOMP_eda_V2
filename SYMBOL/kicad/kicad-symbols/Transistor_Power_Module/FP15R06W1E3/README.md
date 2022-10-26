@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORPOWERMOFP15R6W1E3 > FP15R06W1E3
+# SZKTRANSISTORPOWERMOFP15R6W1E3 > Transistor_Power_Module : FP15R06W1E3
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_Power_Module-FP15R06W1E3
 - Hex ID: SZKTRANSISTORPOWERMOFP15R6W1E3
-- Name: FP15R06W1E3
-- Description: FP15R06W1E3
+- Name: Transistor_Power_Module : FP15R06W1E3
+- Description: Transistor_Power_Module : FP15R06W1E3
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_Power_Module-FP15R06W1E3](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_Power_Module-FP15R06W1E3)
 - Short Link: [http://oom.lt/SZKTRANSISTORPOWERMOFP15R6W1E3](http://oom.lt/SZKTRANSISTORPOWERMOFP15R6W1E3)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|FP15R06W1E3|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_Power_Module-FP15R06W1E3|
 |Hex ID (short code)|hexID|SZKTRANSISTORPOWERMOFP15R6W1E3|
-|name|name|FP15R06W1E3|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'A2C25S12M3', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'FP15R06W1E3', 'kicadSymbolFootprint': 'Transistor_Power_Module:Infineon_EasyPIM-1B', 'kicadSymbolDatasheet': 'https://www.infineon.com/dgdl/Infineon-FP15R06W1E3-DS-v02_01-en_de.pdf?fileId=db3a304412b407950112b43321b15a77', 'kicadSymbolki_keywords': 'IGBT Power Module Trench Field Stop Technology', 'kicadSymbolki_description': '15A, 600V, 81W, 3-phase, Freewheeling Diode, Brake Chopper, Diode Rectifier, 5k NTC, EasyPIM-1B', 'kicadSymbolki_fp_filters': 'Infineon*EasyPIM*1B*'}]|
+|name|name|Transistor_Power_Module : FP15R06W1E3|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'A2C25S12M3'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'FP15R06W1E3'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Transistor_Power_Module</td></tr><tr><td>Infineon_EasyPIM-1B'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.infineon.com/dgdl/Infineon-FP15R06W1E3-DS-v02_01-en_de.pdf?fileId=db3a304412b407950112b43321b15a77'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'IGBT Power Module Trench Field Stop Technology'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '15A</td><td> 600V</td><td> 81W</td><td> 3-phase</td><td> Freewheeling Diode</td><td> Brake Chopper</td><td> Diode Rectifier</td><td> 5k NTC</td><td> EasyPIM-1B'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Infineon*EasyPIM*1B*'</td></tr></table>]|
 ||||

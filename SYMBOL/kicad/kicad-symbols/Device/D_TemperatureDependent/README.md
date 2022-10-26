@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDEVICEDTEMPERATUREDEPENDENT > D_TemperatureDependent
+# SZKDEVICEDTEMPERATUREDEPENDENT > Device : D_TemperatureDependent
 
 - ID: SYMBOL-kicad-kicad-symbols-Device-D_TemperatureDependent
 - Hex ID: SZKDEVICEDTEMPERATUREDEPENDENT
-- Name: D_TemperatureDependent
-- Description: D_TemperatureDependent
+- Name: Device : D_TemperatureDependent
+- Description: Device : D_TemperatureDependent
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_TemperatureDependent](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_TemperatureDependent)
 - Short Link: [http://oom.lt/SZKDEVICEDTEMPERATUREDEPENDENT](http://oom.lt/SZKDEVICEDTEMPERATUREDEPENDENT)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|D_TemperatureDependent|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-D_TemperatureDependent|
 |Hex ID (short code)|hexID|SZKDEVICEDTEMPERATUREDEPENDENT|
-|name|name|D_TemperatureDependent|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'D_TemperatureDependent', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'temperature sensor diode', 'kicadSymbolki_description': 'Temperature dependent diode', 'kicadSymbolki_fp_filters': 'TO-???* *_Diode_* *SingleDiode* D_*'}]|
+|name|name|Device : D_TemperatureDependent|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'D_TemperatureDependent'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'temperature sensor diode'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Temperature dependent diode'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TO-???* *_Diode_* *SingleDiode* D_*'</td></tr></table>]|
 ||||

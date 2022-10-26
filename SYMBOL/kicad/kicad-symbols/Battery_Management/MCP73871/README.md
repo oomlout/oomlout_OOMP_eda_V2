@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKBATMANAGEMENTMCP73871 > MCP73871
+# SZKBATMANAGEMENTMCP73871 > Battery_Management : MCP73871
 
 - ID: SYMBOL-kicad-kicad-symbols-Battery_Management-MCP73871
 - Hex ID: SZKBATMANAGEMENTMCP73871
-- Name: MCP73871
-- Description: MCP73871
+- Name: Battery_Management : MCP73871
+- Description: Battery_Management : MCP73871
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-MCP73871](http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-MCP73871)
 - Short Link: [http://oom.lt/SZKBATMANAGEMENTMCP73871](http://oom.lt/SZKBATMANAGEMENTMCP73871)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MCP73871|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Battery_Management-MCP73871|
 |Hex ID (short code)|hexID|SZKBATMANAGEMENTMCP73871|
-|name|name|MCP73871|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MCP73871', 'kicadSymbolFootprint': 'Package_DFN_QFN:QFN-20-1EP_4x4mm_P0.5mm_EP2.5x2.5mm', 'kicadSymbolDatasheet': 'http://www.mouser.com/ds/2/268/22090a-52174.pdf', 'kicadSymbolki_keywords': 'battery charger lithium', 'kicadSymbolki_description': 'Single cell, Li-Ion/Li-Po charge management controller', 'kicadSymbolki_fp_filters': 'QFN*4x4mm*P0.5mm*'}]|
+|name|name|Battery_Management : MCP73871|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MCP73871'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>QFN-20-1EP_4x4mm_P0.5mm_EP2.5x2.5mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.mouser.com/ds/2/268/22090a-52174.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'battery charger lithium'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Single cell</td><td> Li-Ion/Li-Po charge management controller'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'QFN*4x4mm*P0.5mm*'</td></tr></table>]|
 ||||

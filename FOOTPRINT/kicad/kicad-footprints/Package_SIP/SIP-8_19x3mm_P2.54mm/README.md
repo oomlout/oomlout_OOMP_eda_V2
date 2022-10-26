@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SIP-SIP-8_19x3mm_P2.54mm|
 |Hex ID (short code)|hexID|FZKSIPSIP819X3P254|
 |name|name|Package_SIP : SIP-8_19x3mm_P2.54mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'SIP-8_19x3mm_P2.54mm', 'description': 'SIP 8-pin (http://www.njr.com/semicon/PDF/package/SIP8_E.pdf)', 'tags': 'SIP8', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SIP.3dshapes/SIP-8_19x3mm_P2.54mm.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SIP-8_19x3mm_P2.54mm'</td><td> 'description'</td></tr><tr><td> 'SIP 8-pin (http</td></tr><tr><td>//www.njr.com/semicon/PDF/package/SIP8_E.pdf)'</td><td> 'tags'</td></tr><tr><td> 'SIP8'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_SIP.3dshapes/SIP-8_19x3mm_P2.54mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

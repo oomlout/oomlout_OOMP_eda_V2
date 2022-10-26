@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Toroid_Horizontal_D17.3mm_P15.24mm_Bourns_2000|
 |Hex ID (short code)|hexID|FZKINLTOROIDHORIZONTALD173P1524BOURNS2|
 |name|name|Inductor_THT : L_Toroid_Horizontal_D17.3mm_P15.24mm_Bourns_2000|
-|Footprint Kicad|footprintKicadDetails|{'name': 'L_Toroid_Horizontal_D17.3mm_P15.24mm_Bourns_2000', 'description': 'L_Toroid, Horizontal series, Radial, pin pitch=15.24mm, , diameter=17.3mm, Bourns, 2000, http://www.bourns.com/docs/Product-Datasheets/2000_series.pdf?sfvrsn=5', 'tags': 'L_Toroid Horizontal series Radial pin pitch 15.24mm  diameter 17.3mm Bourns 2000', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Toroid_Horizontal_D17.3mm_P15.24mm_Bourns_2000.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'L_Toroid_Horizontal_D17.3mm_P15.24mm_Bourns_2000'</td><td> 'description'</td></tr><tr><td> 'L_Toroid</td><td> Horizontal series</td><td> Radial</td><td> pin pitch=15.24mm</td><td> </td><td> diameter=17.3mm</td><td> Bourns</td><td> 2000</td><td> http</td></tr><tr><td>//www.bourns.com/docs/Product-Datasheets/2000_series.pdf?sfvrsn=5'</td><td> 'tags'</td></tr><tr><td> 'L_Toroid Horizontal series Radial pin pitch 15.24mm  diameter 17.3mm Bourns 2000'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Inductor_THT.3dshapes/L_Toroid_Horizontal_D17.3mm_P15.24mm_Bourns_2000.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

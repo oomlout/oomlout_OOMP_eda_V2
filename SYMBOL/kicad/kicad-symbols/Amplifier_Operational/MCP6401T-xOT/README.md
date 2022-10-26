@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKAMPLIFIEROPERATIONALMCP641TXOT > MCP6401T-xOT
+# SZKAMPLIFIEROPERATIONALMCP641TXOT > Amplifier_Operational : MCP6401T-xOT
 
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-MCP6401T-xOT
 - Hex ID: SZKAMPLIFIEROPERATIONALMCP641TXOT
-- Name: MCP6401T-xOT
-- Description: MCP6401T-xOT
+- Name: Amplifier_Operational : MCP6401T-xOT
+- Description: Amplifier_Operational : MCP6401T-xOT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-MCP6401T-xOT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-MCP6401T-xOT)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALMCP641TXOT](http://oom.lt/SZKAMPLIFIEROPERATIONALMCP641TXOT)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MCP6401T-xOT|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Operational-MCP6401T-xOT|
 |Hex ID (short code)|hexID|SZKAMPLIFIEROPERATIONALMCP641TXOT|
-|name|name|MCP6401T-xOT|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MCP6L91T-EOT', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MCP6401T-xOT', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-5', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/devicedoc/22229d.pdf', 'kicadSymbolki_keywords': 'single opamp', 'kicadSymbolki_description': '1 MHz, 45 µA Op Amps, SOT-23-5', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
+|name|name|Amplifier_Operational : MCP6401T-xOT|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'MCP6L91T-EOT'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MCP6401T-xOT'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-23-5'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/devicedoc/22229d.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'single opamp'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '1 MHz</td><td> 45 µA Op Amps</td><td> SOT-23-5'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23*'</td></tr></table>]|
 ||||

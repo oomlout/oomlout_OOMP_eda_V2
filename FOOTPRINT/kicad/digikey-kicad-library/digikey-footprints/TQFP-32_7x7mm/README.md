@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TQFP-32_7x7mm|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSTQFP327X7|
 |name|name|digikey-footprints : TQFP-32_7x7mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'TQFP-32_7x7mm', 'description': 'http://www.atmel.com/Images/Atmel-8826-SEEPROM-PCB-Mounting-Guidelines-Surface-Mount-Packages-ApplicationNote.pdf', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'TQFP-32_7x7mm'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//www.atmel.com/Images/Atmel-8826-SEEPROM-PCB-Mounting-Guidelines-Surface-Mount-Packages-ApplicationNote.pdf'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

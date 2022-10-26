@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKSENPROXIMITYSG17F > SG-107F
+# SZKSENPROXIMITYSG17F > Sensor_Proximity : SG-107F
 
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Proximity-SG-107F
 - Hex ID: SZKSENPROXIMITYSG17F
-- Name: SG-107F
-- Description: SG-107F
+- Name: Sensor_Proximity : SG-107F
+- Description: Sensor_Proximity : SG-107F
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Proximity-SG-107F](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Proximity-SG-107F)
 - Short Link: [http://oom.lt/SZKSENPROXIMITYSG17F](http://oom.lt/SZKSENPROXIMITYSG17F)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SG-107F|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Proximity-SG-107F|
 |Hex ID (short code)|hexID|SZKSENPROXIMITYSG17F|
-|name|name|SG-107F|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'SG-105F', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'SG-107F', 'kicadSymbolFootprint': 'OptoDevice:Kodenshi_SG105F', 'kicadSymbolDatasheet': 'https://www.pacer.co.uk/Assets/User/1055-SG-107F.pdf', 'kicadSymbolki_keywords': 'Reflective Optical Sensor Opto', 'kicadSymbolki_description': 'Subminiature Reflective Optical Sensor, DIP-lie THT-package', 'kicadSymbolki_fp_filters': 'Kodenshi*SG105F*'}]|
+|name|name|Sensor_Proximity : SG-107F|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'SG-105F'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'SG-107F'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'OptoDevice</td></tr><tr><td>Kodenshi_SG105F'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.pacer.co.uk/Assets/User/1055-SG-107F.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Reflective Optical Sensor Opto'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Subminiature Reflective Optical Sensor</td><td> DIP-lie THT-package'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Kodenshi*SG105F*'</td></tr></table>]|
 ||||

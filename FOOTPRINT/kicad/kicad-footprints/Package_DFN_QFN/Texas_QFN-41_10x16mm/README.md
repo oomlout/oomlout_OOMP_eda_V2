@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_QFN-41_10x16mm|
 |Hex ID (short code)|hexID|FZKDFNTEXASQFN411X16|
 |name|name|Package_DFN_QFN : Texas_QFN-41_10x16mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Texas_QFN-41_10x16mm', 'description': 'QFN, 41 Pin (http://www.ti.com/lit/ml/mpqf506/mpqf506.pdf)', 'tags': 'QFN DFN_QFN', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Texas_QFN-41_10x16mm.wrl', 'pins': {'type': 'smd', 'shape': 'custom'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Texas_QFN-41_10x16mm'</td><td> 'description'</td></tr><tr><td> 'QFN</td><td> 41 Pin (http</td></tr><tr><td>//www.ti.com/lit/ml/mpqf506/mpqf506.pdf)'</td><td> 'tags'</td></tr><tr><td> 'QFN DFN_QFN'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DFN_QFN.3dshapes/Texas_QFN-41_10x16mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'custom'</td></tr></table></td></tr></table>|
 ||||
 
 

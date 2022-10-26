@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-UDFN-6-1EP_2x2mm|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSUDFN61EP2X2|
 |name|name|digikey-footprints : UDFN-6-1EP_2x2mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'UDFN-6-1EP_2x2mm', 'description': 'http://datasheets.maximintegrated.com/en/ds/MAX44009.pdf', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'UDFN-6-1EP_2x2mm'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//datasheets.maximintegrated.com/en/ds/MAX44009.pdf'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSVREGSO235XKAP2112KV33DV235AP2112K33 > VREG-SO235-X-KAP2112K-V33D-V235AP2112K33
+# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSVREGSO235XKAP2112KV33DV235AP2112K33 > oomlout_OOMP_parts : VREG-SO235-X-KAP2112K-V33D-V235AP2112K33
 
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-VREG-SO235-X-KAP2112K-V33D-V235AP2112K33
 - Hex ID: SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSVREGSO235XKAP2112KV33DV235AP2112K33
-- Name: VREG-SO235-X-KAP2112K-V33D-V235AP2112K33
-- Description: VREG-SO235-X-KAP2112K-V33D-V235AP2112K33
+- Name: oomlout_OOMP_parts : VREG-SO235-X-KAP2112K-V33D-V235AP2112K33
+- Description: oomlout_OOMP_parts : VREG-SO235-X-KAP2112K-V33D-V235AP2112K33
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-VREG-SO235-X-KAP2112K-V33D-V235AP2112K33](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-VREG-SO235-X-KAP2112K-V33D-V235AP2112K33)
 - Short Link: [http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSVREGSO235XKAP2112KV33DV235AP2112K33](http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSVREGSO235XKAP2112KV33DV235AP2112K33)
   
@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|VREG-SO235-X-KAP2112K-V33D-V235AP2112K33|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-VREG-SO235-X-KAP2112K-V33D-V235AP2112K33|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSVREGSO235XKAP2112KV33DV235AP2112K33|
-|name|name|VREG-SO235-X-KAP2112K-V33D-V235AP2112K33|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'VREG-SO235-X-KAP2112K-V33D-V235AP2112K33', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:VREG-SO235-X-KAP2112K-V33D-V235AP2112K33', 'kicadSymbolDatasheet': 'oom.lt/V235AP2112K33', 'kicadSymbolki_keywords': 'linear regulator ldo fixed positive', 'kicadSymbolki_description': 'hexID: V235AP2112K33;600mA low dropout linear regulator, with enable pin, 3.8V-6V input voltage range, 3.3V fixed positive output, SOT-23-5', 'kicadSymbolki_fp_filters': 'SOT?23?5*'}]|
+|name|name|oomlout_OOMP_parts : VREG-SO235-X-KAP2112K-V33D-V235AP2112K33|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'VREG-SO235-X-KAP2112K-V33D-V235AP2112K33'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'oomlout_OOMP_parts</td></tr><tr><td>VREG-SO235-X-KAP2112K-V33D-V235AP2112K33'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'oom.lt/V235AP2112K33'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'linear regulator ldo fixed positive'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'hexID</td></tr><tr><td> V235AP2112K33;600mA low dropout linear regulator</td><td> with enable pin</td><td> 3.8V-6V input voltage range</td><td> 3.3V fixed positive output</td><td> SOT-23-5'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23?5*'</td></tr></table>]|
 ||||

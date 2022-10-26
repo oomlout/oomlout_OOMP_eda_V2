@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUMCHIPPIC12PIC12CE673IJW > PIC12CE673-IJW
+# SZKMCUMCHIPPIC12PIC12CE673IJW > MCU_Microchip_PIC12 : PIC12CE673-IJW
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC12-PIC12CE673-IJW
 - Hex ID: SZKMCUMCHIPPIC12PIC12CE673IJW
-- Name: PIC12CE673-IJW
-- Description: PIC12CE673-IJW
+- Name: MCU_Microchip_PIC12 : PIC12CE673-IJW
+- Description: MCU_Microchip_PIC12 : PIC12CE673-IJW
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC12-PIC12CE673-IJW](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC12-PIC12CE673-IJW)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC12PIC12CE673IJW](http://oom.lt/SZKMCUMCHIPPIC12PIC12CE673IJW)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PIC12CE673-IJW|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC12-PIC12CE673-IJW|
 |Hex ID (short code)|hexID|SZKMCUMCHIPPIC12PIC12CE673IJW|
-|name|name|PIC12CE673-IJW|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'PIC12CE673-IP', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PIC12CE673-IJW', 'kicadSymbolFootprint': 'Package_DIP:DIP-8_W7.62mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/30561b.pdf', 'kicadSymbolki_keywords': '8-Bit CMOS Microcontroller', 'kicadSymbolki_description': 'PIC12CE673, 1024W EPROM, 128B SRAM, 128B EEPROM, CERDIP8 Windowed', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
+|name|name|MCU_Microchip_PIC12 : PIC12CE673-IJW|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'PIC12CE673-IP'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'PIC12CE673-IJW'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>DIP-8_W7.62mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/30561b.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> '8-Bit CMOS Microcontroller'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'PIC12CE673</td><td> 1024W EPROM</td><td> 128B SRAM</td><td> 128B EEPROM</td><td> CERDIP8 Windowed'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W7.62mm*'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC42XPF39V5C42P39 > CAPC-0402-X-PF390-V50-C42P390
+# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC42XPF39V5C42P39 > oomlout_OOMP_parts : CAPC-0402-X-PF390-V50-C42P390
 
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0402-X-PF390-V50-C42P390
 - Hex ID: SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC42XPF39V5C42P39
-- Name: CAPC-0402-X-PF390-V50-C42P390
-- Description: CAPC-0402-X-PF390-V50-C42P390
+- Name: oomlout_OOMP_parts : CAPC-0402-X-PF390-V50-C42P390
+- Description: oomlout_OOMP_parts : CAPC-0402-X-PF390-V50-C42P390
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0402-X-PF390-V50-C42P390](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0402-X-PF390-V50-C42P390)
 - Short Link: [http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC42XPF39V5C42P39](http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC42XPF39V5C42P39)
   
@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|CAPC-0402-X-PF390-V50-C42P390|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0402-X-PF390-V50-C42P390|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC42XPF39V5C42P39|
-|name|name|CAPC-0402-X-PF390-V50-C42P390|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'C', 'kicadSymbolValue': 'CAPC-0402-X-PF390-V50-C42P390', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:CAPC-0402-X-PF390-V50-C42P390', 'kicadSymbolDatasheet': 'oom.lt/C42P390', 'kicadSymbolki_keywords': 'cap capacitor', 'kicadSymbolki_description': 'hexID: C42P390;Unpolarized capacitor', 'kicadSymbolki_fp_filters': 'C_*'}]|
+|name|name|oomlout_OOMP_parts : CAPC-0402-X-PF390-V50-C42P390|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'C'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'CAPC-0402-X-PF390-V50-C42P390'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'oomlout_OOMP_parts</td></tr><tr><td>CAPC-0402-X-PF390-V50-C42P390'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'oom.lt/C42P390'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'cap capacitor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'hexID</td></tr><tr><td> C42P390;Unpolarized capacitor'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'C_*'</td></tr></table>]|
 ||||

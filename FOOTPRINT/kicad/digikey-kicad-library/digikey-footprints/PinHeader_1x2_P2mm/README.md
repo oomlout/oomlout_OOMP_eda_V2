@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-PinHeader_1x2_P2mm|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSPINHEADER1X2P2|
 |name|name|digikey-footprints : PinHeader_1x2_P2mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'PinHeader_1x2_P2mm', 'description': 'http://www.jst-mfg.com/product/pdf/eng/ePH.pdf', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'trapezoid'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'PinHeader_1x2_P2mm'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//www.jst-mfg.com/product/pdf/eng/ePH.pdf'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'trapezoid'</td></tr></table></td></tr></table>|
 ||||
 
 

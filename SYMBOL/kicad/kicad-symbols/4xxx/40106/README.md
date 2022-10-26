@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZK4XXX416 > 40106
+# SZK4XXX416 > 4xxx : 40106
 
 - ID: SYMBOL-kicad-kicad-symbols-4xxx-40106
 - Hex ID: SZK4XXX416
-- Name: 40106
-- Description: 40106
+- Name: 4xxx : 40106
+- Description: 4xxx : 40106
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx-40106](http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx-40106)
 - Short Link: [http://oom.lt/SZK4XXX416](http://oom.lt/SZK4XXX416)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|40106|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-4xxx-40106|
 |Hex ID (short code)|hexID|SZK4XXX416|
-|name|name|40106|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '40106', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://assets.nexperia.com/documents/data-sheet/HEF40106B.pdf', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'CMOS', 'kicadSymbolki_description': 'Hex Schmitt trigger inverter', 'kicadSymbolki_fp_filters': 'DIP?14*'}]|
+|name|name|4xxx : 40106|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> '40106'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//assets.nexperia.com/documents/data-sheet/HEF40106B.pdf'</td><td> 'kicadSymbolki_locked'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'CMOS'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Hex Schmitt trigger inverter'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP?14*'</td></tr></table>]|
 ||||

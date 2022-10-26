@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORLINEARLP396633 > LP3966-3.3
+# SZKREGULATORLINEARLP396633 > Regulator_Linear : LP3966-3.3
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-LP3966-3.3
 - Hex ID: SZKREGULATORLINEARLP396633
-- Name: LP3966-3.3
-- Description: LP3966-3.3
+- Name: Regulator_Linear : LP3966-3.3
+- Description: Regulator_Linear : LP3966-3.3
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LP3966-3.3](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LP3966-3.3)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARLP396633](http://oom.lt/SZKREGULATORLINEARLP396633)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LP3966-3.3|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-LP3966-3.3|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARLP396633|
-|name|name|LP3966-3.3|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LP3966-1.8', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LP3966-3.3', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lp3966.pdf', 'kicadSymbolki_keywords': 'LDO Linear Regulator', 'kicadSymbolki_description': '3A Fast Ultra Low Dropout Linear Regulator, 3.3V output voltage, TO-220-5/TO-263-5', 'kicadSymbolki_fp_filters': 'TO?220*Vertical*StaggerOdd* TO?263*TabPin3*'}]|
+|name|name|Regulator_Linear : LP3966-3.3|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'LP3966-1.8'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LP3966-3.3'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/lp3966.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'LDO Linear Regulator'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '3A Fast Ultra Low Dropout Linear Regulator</td><td> 3.3V output voltage</td><td> TO-220-5/TO-263-5'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TO?220*Vertical*StaggerOdd* TO?263*TabPin3*'</td></tr></table>]|
 ||||

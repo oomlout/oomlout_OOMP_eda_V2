@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-DFN-6-1EP_3x3mm_P1mm_EP1.5x2.4mm|
 |Hex ID (short code)|hexID|FZKDFNDFN61EP3X3P1EP15X24|
 |name|name|Package_DFN_QFN : DFN-6-1EP_3x3mm_P1mm_EP1.5x2.4mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'DFN-6-1EP_3x3mm_P1mm_EP1.5x2.4mm', 'description': 'DFN, 6 Pin (https://www.silabs.com/documents/public/data-sheets/Si7020-A20.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py', 'tags': 'DFN NoLead', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/DFN-6-1EP_3x3mm_P1mm_EP1.5x2.4mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'DFN-6-1EP_3x3mm_P1mm_EP1.5x2.4mm'</td><td> 'description'</td></tr><tr><td> 'DFN</td><td> 6 Pin (https</td></tr><tr><td>//www.silabs.com/documents/public/data-sheets/Si7020-A20.pdf)</td><td> generated with kicad-footprint-generator ipc_noLead_generator.py'</td><td> 'tags'</td></tr><tr><td> 'DFN NoLead'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DFN_QFN.3dshapes/DFN-6-1EP_3x3mm_P1mm_EP1.5x2.4mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

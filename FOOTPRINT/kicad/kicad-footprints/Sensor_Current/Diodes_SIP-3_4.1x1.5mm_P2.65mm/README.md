@@ -29,5 +29,5 @@ NO IMAGE
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Sensor_Current-Diodes_SIP-3_4.1x1.5mm_P2.65mm|
 |Hex ID (short code)|hexID|FZKSENCURRENTDIODESSIP341X15P265|
 |name|name|Sensor_Current : Diodes_SIP-3_4.1x1.5mm_P2.65mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Diodes_SIP-3_4.1x1.5mm_P2.65mm', 'description': 'Diodes SIP-3 Ammo Pack, 2.65mm Pitch (https://www.diodes.com/assets/Package-Files/SIP-3-Ammo-Pack.pdf)', 'tags': 'Diodes SIP-3 Ammo Pack', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Sensor_Current.3dshapes/Diodes_SIP-3_4.1x1.5mm_P2.65mm.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Diodes_SIP-3_4.1x1.5mm_P2.65mm'</td><td> 'description'</td></tr><tr><td> 'Diodes SIP-3 Ammo Pack</td><td> 2.65mm Pitch (https</td></tr><tr><td>//www.diodes.com/assets/Package-Files/SIP-3-Ammo-Pack.pdf)'</td><td> 'tags'</td></tr><tr><td> 'Diodes SIP-3 Ammo Pack'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Sensor_Current.3dshapes/Diodes_SIP-3_4.1x1.5mm_P2.65mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

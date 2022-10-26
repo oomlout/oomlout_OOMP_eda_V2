@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUNXPLPCLPC112UK > LPC1102UK
+# SZKMCUNXPLPCLPC112UK > MCU_NXP_LPC : LPC1102UK
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_NXP_LPC-LPC1102UK
 - Hex ID: SZKMCUNXPLPCLPC112UK
-- Name: LPC1102UK
-- Description: LPC1102UK
+- Name: MCU_NXP_LPC : LPC1102UK
+- Description: MCU_NXP_LPC : LPC1102UK
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_LPC-LPC1102UK](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_LPC-LPC1102UK)
 - Short Link: [http://oom.lt/SZKMCUNXPLPCLPC112UK](http://oom.lt/SZKMCUNXPLPCLPC112UK)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LPC1102UK|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_NXP_LPC-LPC1102UK|
 |Hex ID (short code)|hexID|SZKMCUNXPLPCLPC112UK|
-|name|name|LPC1102UK|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LPC1102UK', 'kicadSymbolFootprint': 'Package_CSP:WLCSP-16_4x4_B2.17x2.32mm_P0.5mm', 'kicadSymbolDatasheet': 'http://www.nxp.com/documents/data_sheet/LPC1102_1104.pdf', 'kicadSymbolki_keywords': 'ARM, 32-bit, Cortex-M0, M0, NXP, microcontroller', 'kicadSymbolki_description': '32-bit ARM Cortex-M0 microcontroller, 32kB flash, 8kB SRAM', 'kicadSymbolki_fp_filters': 'WLCSP*4x4*B2.17x2.32mm*P0.5mm*'}]|
+|name|name|MCU_NXP_LPC : LPC1102UK|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LPC1102UK'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_CSP</td></tr><tr><td>WLCSP-16_4x4_B2.17x2.32mm_P0.5mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.nxp.com/documents/data_sheet/LPC1102_1104.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'ARM</td><td> 32-bit</td><td> Cortex-M0</td><td> M0</td><td> NXP</td><td> microcontroller'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '32-bit ARM Cortex-M0 microcontroller</td><td> 32kB flash</td><td> 8kB SRAM'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'WLCSP*4x4*B2.17x2.32mm*P0.5mm*'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSMCUUQFN1484ATTINY1MCAT84QF14 > MCUU-QFN14-84-ATTINY-01-MCAT84QF14
+# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSMCUUQFN1484ATTINY1MCAT84QF14 > oomlout_OOMP_parts : MCUU-QFN14-84-ATTINY-01-MCAT84QF14
 
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-MCUU-QFN14-84-ATTINY-01-MCAT84QF14
 - Hex ID: SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSMCUUQFN1484ATTINY1MCAT84QF14
-- Name: MCUU-QFN14-84-ATTINY-01-MCAT84QF14
-- Description: MCUU-QFN14-84-ATTINY-01-MCAT84QF14
+- Name: oomlout_OOMP_parts : MCUU-QFN14-84-ATTINY-01-MCAT84QF14
+- Description: oomlout_OOMP_parts : MCUU-QFN14-84-ATTINY-01-MCAT84QF14
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-MCUU-QFN14-84-ATTINY-01-MCAT84QF14](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-MCUU-QFN14-84-ATTINY-01-MCAT84QF14)
 - Short Link: [http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSMCUUQFN1484ATTINY1MCAT84QF14](http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSMCUUQFN1484ATTINY1MCAT84QF14)
   
@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|MCUU-QFN14-84-ATTINY-01-MCAT84QF14|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-MCUU-QFN14-84-ATTINY-01-MCAT84QF14|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSMCUUQFN1484ATTINY1MCAT84QF14|
-|name|name|MCUU-QFN14-84-ATTINY-01-MCAT84QF14|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MCUU-QFN14-84-ATTINY-01-MCAT84QF14', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:MCUU-QFN14-84-ATTINY-01-MCAT84QF14', 'kicadSymbolDatasheet': 'oom.lt/MCAT84QF14', 'kicadSymbolki_keywords': 'AVR 8bit Microcontroller tinyAVR', 'kicadSymbolki_description': 'hexID: MCAT84QF14;20MHz, 8kB Flash, 512B SRAM, 512B EEPROM, debugWIRE, QFN-20', 'kicadSymbolki_fp_filters': 'QFN*1EP*4x4mm*P0.5mm*'}]|
+|name|name|oomlout_OOMP_parts : MCUU-QFN14-84-ATTINY-01-MCAT84QF14|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MCUU-QFN14-84-ATTINY-01-MCAT84QF14'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'oomlout_OOMP_parts</td></tr><tr><td>MCUU-QFN14-84-ATTINY-01-MCAT84QF14'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'oom.lt/MCAT84QF14'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'AVR 8bit Microcontroller tinyAVR'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'hexID</td></tr><tr><td> MCAT84QF14;20MHz</td><td> 8kB Flash</td><td> 512B SRAM</td><td> 512B EEPROM</td><td> debugWIRE</td><td> QFN-20'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'QFN*1EP*4x4mm*P0.5mm*'</td></tr></table>]|
 ||||

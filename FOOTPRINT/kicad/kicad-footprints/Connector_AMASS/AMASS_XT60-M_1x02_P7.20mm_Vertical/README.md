@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_AMASS-AMASS_XT60-M_1x02_P7.20mm_Vertical|
 |Hex ID (short code)|hexID|FZKCNAMASSAMASSXT6M1X2P72VERTICAL|
 |name|name|Connector_AMASS : AMASS_XT60-M_1x02_P7.20mm_Vertical|
-|Footprint Kicad|footprintKicadDetails|{'name': 'AMASS_XT60-M_1x02_P7.20mm_Vertical', 'description': 'AMASS female XT60, through hole, vertical, https://www.tme.eu/Document/2d152ced3b7a446066e6c419d84bb460/XT60%20SPEC.pdf', 'tags': 'XT60 female vertical', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_AMASS.3dshapes/AMASS_XT60-M_1x02_P7.2mm_Vertical.wrl', 'pins': {'type': 'thru_hole', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'AMASS_XT60-M_1x02_P7.20mm_Vertical'</td><td> 'description'</td></tr><tr><td> 'AMASS female XT60</td><td> through hole</td><td> vertical</td><td> https</td></tr><tr><td>//www.tme.eu/Document/2d152ced3b7a446066e6c419d84bb460/XT60%20SPEC.pdf'</td><td> 'tags'</td></tr><tr><td> 'XT60 female vertical'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_AMASS.3dshapes/AMASS_XT60-M_1x02_P7.2mm_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

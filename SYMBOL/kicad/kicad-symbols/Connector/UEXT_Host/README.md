@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKCNUEXTHOST > UEXT_Host
+# SZKCNUEXTHOST > Connector : UEXT_Host
 
 - ID: SYMBOL-kicad-kicad-symbols-Connector-UEXT_Host
 - Hex ID: SZKCNUEXTHOST
-- Name: UEXT_Host
-- Description: UEXT_Host
+- Name: Connector : UEXT_Host
+- Description: Connector : UEXT_Host
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-UEXT_Host](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-UEXT_Host)
 - Short Link: [http://oom.lt/SZKCNUEXTHOST](http://oom.lt/SZKCNUEXTHOST)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|UEXT_Host|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-UEXT_Host|
 |Hex ID (short code)|hexID|SZKCNUEXTHOST|
-|name|name|UEXT_Host|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'UEXT_Host', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.olimex.com/Products/Modules/UEXT/resources/UEXT_rev_B.pdf', 'kicadSymbolki_keywords': 'UEXT, SPI, UART, I2C', 'kicadSymbolki_description': 'Universal EXTension (UEXT) is a connector layout which includes power and three serial buses: Asynchronous, I2C, and SPI', 'kicadSymbolki_fp_filters': '*Connector*:2x05*'}]|
+|name|name|Connector : UEXT_Host|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'J'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'UEXT_Host'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.olimex.com/Products/Modules/UEXT/resources/UEXT_rev_B.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'UEXT</td><td> SPI</td><td> UART</td><td> I2C'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Universal EXTension (UEXT) is a connector layout which includes power and three serial buses</td></tr><tr><td> Asynchronous</td><td> I2C</td><td> and SPI'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> '*Connector*</td></tr><tr><td>2x05*'</td></tr></table>]|
 ||||

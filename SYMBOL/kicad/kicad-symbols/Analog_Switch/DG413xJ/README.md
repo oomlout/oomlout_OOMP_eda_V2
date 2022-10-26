@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKANALOGSWITCHDG413XJ > DG413xJ
+# SZKANALOGSWITCHDG413XJ > Analog_Switch : DG413xJ
 
 - ID: SYMBOL-kicad-kicad-symbols-Analog_Switch-DG413xJ
 - Hex ID: SZKANALOGSWITCHDG413XJ
-- Name: DG413xJ
-- Description: DG413xJ
+- Name: Analog_Switch : DG413xJ
+- Description: Analog_Switch : DG413xJ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-DG413xJ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-DG413xJ)
 - Short Link: [http://oom.lt/SZKANALOGSWITCHDG413XJ](http://oom.lt/SZKANALOGSWITCHDG413XJ)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DG413xJ|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_Switch-DG413xJ|
 |Hex ID (short code)|hexID|SZKANALOGSWITCHDG413XJ|
-|name|name|DG413xJ|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'DG413xJ', 'kicadSymbolFootprint': 'Package_DIP:DIP-16_W7.62mm', 'kicadSymbolDatasheet': 'https://datasheets.maximintegrated.com/en/ds/DG411-DG413.pdf', 'kicadSymbolki_keywords': 'CMOS Analog Switch', 'kicadSymbolki_description': 'Quad SPST Monolithic CMOS Analog Switches, normally 2xON + 2xOFF, 17Ohm Ron, DIP-16', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
+|name|name|Analog_Switch : DG413xJ|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'DG413xJ'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>DIP-16_W7.62mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//datasheets.maximintegrated.com/en/ds/DG411-DG413.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'CMOS Analog Switch'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Quad SPST Monolithic CMOS Analog Switches</td><td> normally 2xON + 2xOFF</td><td> 17Ohm Ron</td><td> DIP-16'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W7.62mm*'</td></tr></table>]|
 ||||

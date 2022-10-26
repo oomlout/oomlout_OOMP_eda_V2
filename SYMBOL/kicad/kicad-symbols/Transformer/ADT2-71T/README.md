@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRADT271T > ADT2-71T
+# SZKTRADT271T > Transformer : ADT2-71T
 
 - ID: SYMBOL-kicad-kicad-symbols-Transformer-ADT2-71T
 - Hex ID: SZKTRADT271T
-- Name: ADT2-71T
-- Description: ADT2-71T
+- Name: Transformer : ADT2-71T
+- Description: Transformer : ADT2-71T
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-ADT2-71T](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-ADT2-71T)
 - Short Link: [http://oom.lt/SZKTRADT271T](http://oom.lt/SZKTRADT271T)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ADT2-71T|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transformer-ADT2-71T|
 |Hex ID (short code)|hexID|SZKTRADT271T|
-|name|name|ADT2-71T|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ADT1-6T', 'kicadSymbolReference': 'TR', 'kicadSymbolValue': 'ADT2-71T', 'kicadSymbolFootprint': 'RF_Mini-Circuits:Mini-Circuits_CD637_H5.23mm', 'kicadSymbolDatasheet': 'https://www.minicircuits.com/pdfs/ADT2-71T+.pdf', 'kicadSymbolki_keywords': 'Mini-Circuits RF Transformer', 'kicadSymbolki_description': '0.40-500MHz 1:2 RF Transformer, Unbalanced to Balanced Center Tap, CD542', 'kicadSymbolki_fp_filters': 'Mini?Circuits*CD637*'}]|
+|name|name|Transformer : ADT2-71T|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'ADT1-6T'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'TR'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ADT2-71T'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'RF_Mini-Circuits</td></tr><tr><td>Mini-Circuits_CD637_H5.23mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.minicircuits.com/pdfs/ADT2-71T+.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Mini-Circuits RF Transformer'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '0.40-500MHz 1</td></tr><tr><td>2 RF Transformer</td><td> Unbalanced to Balanced Center Tap</td><td> CD542'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Mini?Circuits*CD637*'</td></tr></table>]|
 ||||

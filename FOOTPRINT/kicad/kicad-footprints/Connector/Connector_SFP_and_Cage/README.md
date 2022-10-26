@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector-Connector_SFP_and_Cage|
 |Hex ID (short code)|hexID|FZKCNCNSFPANDCAGE|
 |name|name|Connector : Connector_SFP_and_Cage|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Connector_SFP_and_Cage', 'description': 'https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=2227302&DocType=Customer+Drawing&DocLang=English', 'tags': 'SFP+ SFP', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector.3dshapes/Connector_SFP_and_Cage.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Connector_SFP_and_Cage'</td><td> 'description'</td></tr><tr><td> 'https</td></tr><tr><td>//www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=2227302&DocType=Customer+Drawing&DocLang=English'</td><td> 'tags'</td></tr><tr><td> 'SFP+ SFP'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector.3dshapes/Connector_SFP_and_Cage.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

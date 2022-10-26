@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORFETIRF662 > IRF6620
+# SZKTRANSISTORFETIRF662 > Transistor_FET : IRF6620
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF6620
 - Hex ID: SZKTRANSISTORFETIRF662
-- Name: IRF6620
-- Description: IRF6620
+- Name: Transistor_FET : IRF6620
+- Description: Transistor_FET : IRF6620
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF6620](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF6620)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETIRF662](http://oom.lt/SZKTRANSISTORFETIRF662)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IRF6620|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF6620|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETIRF662|
-|name|name|IRF6620|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BSB008NE2LX', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'IRF6620', 'kicadSymbolFootprint': 'Package_DirectFET:DirectFET_MX', 'kicadSymbolDatasheet': 'https://www.infineon.com/dgdl/irf6620pbf.pdf?fileId=5546d462533600a4015355e8831d1a23', 'kicadSymbolki_keywords': 'N-Channel MOSFET', 'kicadSymbolki_description': '150A Id, 20V Vds, 2.7mOhm Rds, N-Channel MOSFET, DirectFET MX', 'kicadSymbolki_fp_filters': 'DirectFET*MX*'}]|
+|name|name|Transistor_FET : IRF6620|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'BSB008NE2LX'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'IRF6620'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DirectFET</td></tr><tr><td>DirectFET_MX'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.infineon.com/dgdl/irf6620pbf.pdf?fileId=5546d462533600a4015355e8831d1a23'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'N-Channel MOSFET'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '150A Id</td><td> 20V Vds</td><td> 2.7mOhm Rds</td><td> N-Channel MOSFET</td><td> DirectFET MX'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DirectFET*MX*'</td></tr></table>]|
 ||||

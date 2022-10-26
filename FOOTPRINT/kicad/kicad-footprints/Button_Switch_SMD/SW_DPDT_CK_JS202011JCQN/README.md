@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_DPDT_CK_JS202011JCQN|
 |Hex ID (short code)|hexID|FZKBSWITCHSMSWDPDTCKJS2211JCQN|
 |name|name|Button_Switch_SMD : SW_DPDT_CK_JS202011JCQN|
-|Footprint Kicad|footprintKicadDetails|{'name': 'SW_DPDT_CK_JS202011JCQN', 'description': 'Sub-miniature slide switch, vertical, SMT J bend https://dznh3ojzb2azq.cloudfront.net/products/Slide/JS/documents/datasheet.pdf', 'tags': 'switch DPDT SMT', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_DPDT_CK_JS202011JCQN.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SW_DPDT_CK_JS202011JCQN'</td><td> 'description'</td></tr><tr><td> 'Sub-miniature slide switch</td><td> vertical</td><td> SMT J bend https</td></tr><tr><td>//dznh3ojzb2azq.cloudfront.net/products/Slide/JS/documents/datasheet.pdf'</td><td> 'tags'</td></tr><tr><td> 'switch DPDT SMT'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Button_Switch_SMD.3dshapes/SW_DPDT_CK_JS202011JCQN.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

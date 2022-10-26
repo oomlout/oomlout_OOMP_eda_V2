@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKPOWERMANAGEMENTLTC4364IMS > LTC4364IMS
+# SZKPOWERMANAGEMENTLTC4364IMS > Power_Management : LTC4364IMS
 
 - ID: SYMBOL-kicad-kicad-symbols-Power_Management-LTC4364IMS
 - Hex ID: SZKPOWERMANAGEMENTLTC4364IMS
-- Name: LTC4364IMS
-- Description: LTC4364IMS
+- Name: Power_Management : LTC4364IMS
+- Description: Power_Management : LTC4364IMS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-LTC4364IMS](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-LTC4364IMS)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTLTC4364IMS](http://oom.lt/SZKPOWERMANAGEMENTLTC4364IMS)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LTC4364IMS|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Management-LTC4364IMS|
 |Hex ID (short code)|hexID|SZKPOWERMANAGEMENTLTC4364IMS|
-|name|name|LTC4364IMS|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LTC4364CMS', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LTC4364IMS', 'kicadSymbolFootprint': 'Package_SO:MSOP-16_3x4mm_P0.5mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/436412f.pdf', 'kicadSymbolki_keywords': 'surge overvoltage undervoltage reverse-polarity protection diode ORing MOSFET driver', 'kicadSymbolki_description': 'Surge stopper with ideal diode, UV and OV protection -40V to +80V in MSOP-16 package, -40°C to +85°C', 'kicadSymbolki_fp_filters': 'MSOP*3x4mm*P0.5mm*'}]|
+|name|name|Power_Management : LTC4364IMS|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'LTC4364CMS'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LTC4364IMS'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>MSOP-16_3x4mm_P0.5mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/436412f.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'surge overvoltage undervoltage reverse-polarity protection diode ORing MOSFET driver'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Surge stopper with ideal diode</td><td> UV and OV protection -40V to +80V in MSOP-16 package</td><td> -40°C to +85°C'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'MSOP*3x4mm*P0.5mm*'</td></tr></table>]|
 ||||

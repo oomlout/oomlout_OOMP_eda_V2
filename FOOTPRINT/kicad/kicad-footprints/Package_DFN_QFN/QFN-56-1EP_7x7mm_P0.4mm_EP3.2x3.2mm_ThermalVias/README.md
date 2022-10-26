@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm_ThermalVias|
 |Hex ID (short code)|hexID|FZKDFNQFN561EP7X7P4EP32X32THERMALVIAS|
 |name|name|Package_DFN_QFN : QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm_ThermalVias|
-|Footprint Kicad|footprintKicadDetails|{'name': 'QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm_ThermalVias', 'description': 'QFN, 56 Pin (https://datasheets.raspberrypi.com/rp2040/rp2040-datasheet.pdf#page=634), generated with kicad-footprint-generator ipc_noLead_generator.py', 'tags': 'QFN NoLead', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm_ThermalVias'</td><td> 'description'</td></tr><tr><td> 'QFN</td><td> 56 Pin (https</td></tr><tr><td>//datasheets.raspberrypi.com/rp2040/rp2040-datasheet.pdf#page=634)</td><td> generated with kicad-footprint-generator ipc_noLead_generator.py'</td><td> 'tags'</td></tr><tr><td> 'QFN NoLead'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DFN_QFN.3dshapes/QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

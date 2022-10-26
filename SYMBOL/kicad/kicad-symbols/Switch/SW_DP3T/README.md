@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKSWITCHSWDP3T > SW_DP3T
+# SZKSWITCHSWDP3T > Switch : SW_DP3T
 
 - ID: SYMBOL-kicad-kicad-symbols-Switch-SW_DP3T
 - Hex ID: SZKSWITCHSWDP3T
-- Name: SW_DP3T
-- Description: SW_DP3T
+- Name: Switch : SW_DP3T
+- Description: Switch : SW_DP3T
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Switch-SW_DP3T](http://oom.lt/SYMBOL-kicad-kicad-symbols-Switch-SW_DP3T)
 - Short Link: [http://oom.lt/SZKSWITCHSWDP3T](http://oom.lt/SZKSWITCHSWDP3T)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SW_DP3T|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Switch-SW_DP3T|
 |Hex ID (short code)|hexID|SZKSWITCHSWDP3T|
-|name|name|SW_DP3T|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'SW', 'kicadSymbolValue': 'SW_DP3T', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'switch dp3t ON-ON-ON', 'kicadSymbolki_description': 'Switch, three position, dual pole triple throw, 3 position switch, SP3T', 'kicadSymbolki_fp_filters': 'SW* DP3T*'}]|
+|name|name|Switch : SW_DP3T|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'SW'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'SW_DP3T'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'switch dp3t ON-ON-ON'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Switch</td><td> three position</td><td> dual pole triple throw</td><td> 3 position switch</td><td> SP3T'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SW* DP3T*'</td></tr></table>]|
 ||||

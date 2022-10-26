@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUTEXASTMS32LF246 > TMS320LF2406
+# SZKMCUTEXASTMS32LF246 > MCU_Texas : TMS320LF2406
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Texas-TMS320LF2406
 - Hex ID: SZKMCUTEXASTMS32LF246
-- Name: TMS320LF2406
-- Description: TMS320LF2406
+- Name: MCU_Texas : TMS320LF2406
+- Description: MCU_Texas : TMS320LF2406
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Texas-TMS320LF2406](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Texas-TMS320LF2406)
 - Short Link: [http://oom.lt/SZKMCUTEXASTMS32LF246](http://oom.lt/SZKMCUTEXASTMS32LF246)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TMS320LF2406|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Texas-TMS320LF2406|
 |Hex ID (short code)|hexID|SZKMCUTEXASTMS32LF246|
-|name|name|TMS320LF2406|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TMS320LF2406', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ''}]|
+|name|name|MCU_Texas : TMS320LF2406|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TMS320LF2406'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> ''</td></tr></table>]|
 ||||

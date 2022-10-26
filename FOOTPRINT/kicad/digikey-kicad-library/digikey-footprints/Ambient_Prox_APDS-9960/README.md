@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Ambient_Prox_APDS-9960|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSAMBIENTPROXAPDS996|
 |name|name|digikey-footprints : Ambient_Prox_APDS-9960|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Ambient_Prox_APDS-9960', 'description': 'file:///C:/Users/chad_rosencrans/Downloads/AV02-4191EN_DS_Ambient_Prox_APDS-9960_2015-11-13.pdf', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Ambient_Prox_APDS-9960'</td><td> 'description'</td></tr><tr><td> 'file</td></tr><tr><td>///C</td></tr><tr><td>/Users/chad_rosencrans/Downloads/AV02-4191EN_DS_Ambient_Prox_APDS-9960_2015-11-13.pdf'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDIODEC4D1512D > C4D15120D
+# SZKDIODEC4D1512D > Diode : C4D15120D
 
 - ID: SYMBOL-kicad-kicad-symbols-Diode-C4D15120D
 - Hex ID: SZKDIODEC4D1512D
-- Name: C4D15120D
-- Description: C4D15120D
+- Name: Diode : C4D15120D
+- Description: Diode : C4D15120D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-C4D15120D](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-C4D15120D)
 - Short Link: [http://oom.lt/SZKDIODEC4D1512D](http://oom.lt/SZKDIODEC4D1512D)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|C4D15120D|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-C4D15120D|
 |Hex ID (short code)|hexID|SZKDIODEC4D1512D|
-|name|name|C4D15120D|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'C3D16060D', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'C4D15120D', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-247-3_Vertical', 'kicadSymbolDatasheet': 'https://www.wolfspeed.com/media/downloads/848/C4D15120D.pdf', 'kicadSymbolki_keywords': 'sic diode', 'kicadSymbolki_description': '1200V, 15A, SiC Schottky Diode, TO-247-3', 'kicadSymbolki_fp_filters': 'TO?247*'}]|
+|name|name|Diode : C4D15120D|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'C3D16060D'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'C4D15120D'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_THT</td></tr><tr><td>TO-247-3_Vertical'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.wolfspeed.com/media/downloads/848/C4D15120D.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'sic diode'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '1200V</td><td> 15A</td><td> SiC Schottky Diode</td><td> TO-247-3'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TO?247*'</td></tr></table>]|
 ||||

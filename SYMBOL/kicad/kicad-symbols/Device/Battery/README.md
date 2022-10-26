@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDEVICEBAT > Battery
+# SZKDEVICEBAT > Device : Battery
 
 - ID: SYMBOL-kicad-kicad-symbols-Device-Battery
 - Hex ID: SZKDEVICEBAT
-- Name: Battery
-- Description: Battery
+- Name: Device : Battery
+- Description: Device : Battery
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Battery](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Battery)
 - Short Link: [http://oom.lt/SZKDEVICEBAT](http://oom.lt/SZKDEVICEBAT)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Battery|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-Battery|
 |Hex ID (short code)|hexID|SZKDEVICEBAT|
-|name|name|Battery|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'BT', 'kicadSymbolValue': 'Battery', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'batt voltage-source cell', 'kicadSymbolki_description': 'Multiple-cell battery'}]|
+|name|name|Device : Battery|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'BT'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Battery'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'batt voltage-source cell'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Multiple-cell battery'</td></tr></table>]|
 ||||

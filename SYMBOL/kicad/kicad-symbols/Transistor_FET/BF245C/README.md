@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORFETBF245C > BF245C
+# SZKTRANSISTORFETBF245C > Transistor_FET : BF245C
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-BF245C
 - Hex ID: SZKTRANSISTORFETBF245C
-- Name: BF245C
-- Description: BF245C
+- Name: Transistor_FET : BF245C
+- Description: Transistor_FET : BF245C
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BF245C](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BF245C)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETBF245C](http://oom.lt/SZKTRANSISTORFETBF245C)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BF245C|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-BF245C|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETBF245C|
-|name|name|BF245C|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BF245A', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'BF245C', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-92_Inline', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pub/Collateral/BF245A-D.PDF', 'kicadSymbolki_keywords': 'N-Channel FET Transistor Low Voltage', 'kicadSymbolki_description': '10mA Id, 30V Vgs, N-Channel FET Transistor, TO-92', 'kicadSymbolki_fp_filters': 'TO?92*'}]|
+|name|name|Transistor_FET : BF245C|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'BF245A'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'BF245C'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_THT</td></tr><tr><td>TO-92_Inline'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.onsemi.com/pub/Collateral/BF245A-D.PDF'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'N-Channel FET Transistor Low Voltage'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '10mA Id</td><td> 30V Vgs</td><td> N-Channel FET Transistor</td><td> TO-92'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TO?92*'</td></tr></table>]|
 ||||

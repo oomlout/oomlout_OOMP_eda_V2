@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKAUDIOTPA55 > TPA5050
+# SZKAUDIOTPA55 > Audio : TPA5050
 
 - ID: SYMBOL-kicad-kicad-symbols-Audio-TPA5050
 - Hex ID: SZKAUDIOTPA55
-- Name: TPA5050
-- Description: TPA5050
+- Name: Audio : TPA5050
+- Description: Audio : TPA5050
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-TPA5050](http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-TPA5050)
 - Short Link: [http://oom.lt/SZKAUDIOTPA55](http://oom.lt/SZKAUDIOTPA55)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TPA5050|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Audio-TPA5050|
 |Hex ID (short code)|hexID|SZKAUDIOTPA55|
-|name|name|TPA5050|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TPA5050', 'kicadSymbolFootprint': 'Package_DFN_QFN:Texas_S-PVQFN-N16_EP2.7x2.7mm_ThermalVias', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tpa5050.pdf', 'kicadSymbolki_keywords': 'audio delay', 'kicadSymbolki_description': 'Stereo Digital Audio Lip-Sync Delay Processor With I2C Control, QFN-16', 'kicadSymbolki_fp_filters': 'Texas?S?PVQFN?N*'}]|
+|name|name|Audio : TPA5050|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TPA5050'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>Texas_S-PVQFN-N16_EP2.7x2.7mm_ThermalVias'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/tpa5050.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'audio delay'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Stereo Digital Audio Lip-Sync Delay Processor With I2C Control</td><td> QFN-16'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Texas?S?PVQFN?N*'</td></tr></table>]|
 ||||

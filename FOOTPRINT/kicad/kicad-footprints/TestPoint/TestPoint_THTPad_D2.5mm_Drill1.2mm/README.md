@@ -29,5 +29,5 @@ NO IMAGE
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-TestPoint-TestPoint_THTPad_D2.5mm_Drill1.2mm|
 |Hex ID (short code)|hexID|FZKTPTPTHTPADD25DRILL12|
 |name|name|TestPoint : TestPoint_THTPad_D2.5mm_Drill1.2mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'TestPoint_THTPad_D2.5mm_Drill1.2mm', 'description': 'THT pad as test Point, diameter 2.5mm, hole diameter 1.2mm ', 'tags': 'test point THT pad', 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'TestPoint_THTPad_D2.5mm_Drill1.2mm'</td><td> 'description'</td></tr><tr><td> 'THT pad as test Point</td><td> diameter 2.5mm</td><td> hole diameter 1.2mm '</td><td> 'tags'</td></tr><tr><td> 'test point THT pad'</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

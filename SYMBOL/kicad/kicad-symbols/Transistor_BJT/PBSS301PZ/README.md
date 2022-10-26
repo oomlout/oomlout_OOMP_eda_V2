@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORBJTPBSS31PZ > PBSS301PZ
+# SZKTRANSISTORBJTPBSS31PZ > Transistor_BJT : PBSS301PZ
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-PBSS301PZ
 - Hex ID: SZKTRANSISTORBJTPBSS31PZ
-- Name: PBSS301PZ
-- Description: PBSS301PZ
+- Name: Transistor_BJT : PBSS301PZ
+- Description: Transistor_BJT : PBSS301PZ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-PBSS301PZ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-PBSS301PZ)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTPBSS31PZ](http://oom.lt/SZKTRANSISTORBJTPBSS31PZ)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PBSS301PZ|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_BJT-PBSS301PZ|
 |Hex ID (short code)|hexID|SZKTRANSISTORBJTPBSS31PZ|
-|name|name|PBSS301PZ|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'PZT3906', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'PBSS301PZ', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-223-3_TabPin2', 'kicadSymbolDatasheet': 'https://assets.nexperia.com/documents/data-sheet/PBSS301PZ.pdf', 'kicadSymbolki_keywords': 'PNP Transistor', 'kicadSymbolki_description': '-5.7A Ic, -12V Vce, Small Signal PNP Transistor, SOT-223', 'kicadSymbolki_fp_filters': 'SOT?223*'}]|
+|name|name|Transistor_BJT : PBSS301PZ|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'PZT3906'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'PBSS301PZ'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-223-3_TabPin2'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//assets.nexperia.com/documents/data-sheet/PBSS301PZ.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'PNP Transistor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '-5.7A Ic</td><td> -12V Vce</td><td> Small Signal PNP Transistor</td><td> SOT-223'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?223*'</td></tr></table>]|
 ||||

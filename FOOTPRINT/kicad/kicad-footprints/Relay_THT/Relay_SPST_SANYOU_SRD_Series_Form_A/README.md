@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_SPST_SANYOU_SRD_Series_Form_A|
 |Hex ID (short code)|hexID|FZKRELRELAYSPSTSANYOUSRDSERIESFORMA|
 |name|name|Relay_THT : Relay_SPST_SANYOU_SRD_Series_Form_A|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Relay_SPST_SANYOU_SRD_Series_Form_A', 'description': 'relay Sanyou SRD series Form A http://www.sanyourelay.ca/public/products/pdf/SRD.pdf', 'tags': 'relay Sanyu SRD form A', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Relay_THT.3dshapes/Relay_SPST_SANYOU_SRD_Series_Form_A.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Relay_SPST_SANYOU_SRD_Series_Form_A'</td><td> 'description'</td></tr><tr><td> 'relay Sanyou SRD series Form A http</td></tr><tr><td>//www.sanyourelay.ca/public/products/pdf/SRD.pdf'</td><td> 'tags'</td></tr><tr><td> 'relay Sanyu SRD form A'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Relay_THT.3dshapes/Relay_SPST_SANYOU_SRD_Series_Form_A.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

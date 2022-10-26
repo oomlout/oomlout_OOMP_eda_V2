@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Crystal-Resonator-2Pin_W7.0mm_H2.5mm|
 |Hex ID (short code)|hexID|FZKXR2PINW7H25|
 |name|name|Crystal : Resonator-2Pin_W7.0mm_H2.5mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Resonator-2Pin_W7.0mm_H2.5mm', 'description': 'Ceramic Resomator/Filter 7.0x2.5mm^2, length*width=7.0x2.5mm^2 package, package length=7.0mm, package width=2.5mm, 2 pins', 'tags': 'THT ceramic resonator filter', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Resonator-2Pin_W7.0mm_H2.5mm.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Resonator-2Pin_W7.0mm_H2.5mm'</td><td> 'description'</td></tr><tr><td> 'Ceramic Resomator/Filter 7.0x2.5mm^2</td><td> length*width=7.0x2.5mm^2 package</td><td> package length=7.0mm</td><td> package width=2.5mm</td><td> 2 pins'</td><td> 'tags'</td></tr><tr><td> 'THT ceramic resonator filter'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Crystal.3dshapes/Resonator-2Pin_W7.0mm_H2.5mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

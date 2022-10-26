@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKBATMANAGEMENTLTC411CFE > LTC4011CFE
+# SZKBATMANAGEMENTLTC411CFE > Battery_Management : LTC4011CFE
 
 - ID: SYMBOL-kicad-kicad-symbols-Battery_Management-LTC4011CFE
 - Hex ID: SZKBATMANAGEMENTLTC411CFE
-- Name: LTC4011CFE
-- Description: LTC4011CFE
+- Name: Battery_Management : LTC4011CFE
+- Description: Battery_Management : LTC4011CFE
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-LTC4011CFE](http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-LTC4011CFE)
 - Short Link: [http://oom.lt/SZKBATMANAGEMENTLTC411CFE](http://oom.lt/SZKBATMANAGEMENTLTC411CFE)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LTC4011CFE|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Battery_Management-LTC4011CFE|
 |Hex ID (short code)|hexID|SZKBATMANAGEMENTLTC411CFE|
-|name|name|LTC4011CFE|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LTC4011CFE', 'kicadSymbolFootprint': 'Package_SO:HTSSOP-20-1EP_4.4x6.5mm_P0.65mm_EP2.74x3.86mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/4011fb.pdf', 'kicadSymbolki_keywords': 'NiMH nickel battery charger', 'kicadSymbolki_description': 'High efficiency standalone NiMH battery charger, HTSSOP-20', 'kicadSymbolki_fp_filters': 'HTSSOP*1EP*4.4x6.5mm*P0.65mm*'}]|
+|name|name|Battery_Management : LTC4011CFE|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LTC4011CFE'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>HTSSOP-20-1EP_4.4x6.5mm_P0.65mm_EP2.74x3.86mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/4011fb.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'NiMH nickel battery charger'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'High efficiency standalone NiMH battery charger</td><td> HTSSOP-20'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'HTSSOP*1EP*4.4x6.5mm*P0.65mm*'</td></tr></table>]|
 ||||

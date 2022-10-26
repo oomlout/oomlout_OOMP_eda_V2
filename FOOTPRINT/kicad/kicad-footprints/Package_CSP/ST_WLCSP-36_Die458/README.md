@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_CSP-ST_WLCSP-36_Die458|
 |Hex ID (short code)|hexID|FZKCSPSTWLCSP36DIE458|
 |name|name|Package_CSP : ST_WLCSP-36_Die458|
-|Footprint Kicad|footprintKicadDetails|{'name': 'ST_WLCSP-36_Die458', 'description': 'WLCSP-36, 6x6 raster, 2.553x2.579mm package, pitch 0.4mm; see section 7.1 of http://www.st.com/resource/en/datasheet/stm32f410t8.pdf', 'tags': 'BGA 36 0.4', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_CSP.3dshapes/ST_WLCSP-36_Die458.wrl', 'pins': {'type': 'smd', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'ST_WLCSP-36_Die458'</td><td> 'description'</td></tr><tr><td> 'WLCSP-36</td><td> 6x6 raster</td><td> 2.553x2.579mm package</td><td> pitch 0.4mm; see section 7.1 of http</td></tr><tr><td>//www.st.com/resource/en/datasheet/stm32f410t8.pdf'</td><td> 'tags'</td></tr><tr><td> 'BGA 36 0.4'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_CSP.3dshapes/ST_WLCSP-36_Die458.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

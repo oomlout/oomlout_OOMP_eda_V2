@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUNORDICNRF5284 > nRF52840
+# SZKMCUNORDICNRF5284 > MCU_Nordic : nRF52840
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Nordic-nRF52840
 - Hex ID: SZKMCUNORDICNRF5284
-- Name: nRF52840
-- Description: nRF52840
+- Name: MCU_Nordic : nRF52840
+- Description: MCU_Nordic : nRF52840
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Nordic-nRF52840](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Nordic-nRF52840)
 - Short Link: [http://oom.lt/SZKMCUNORDICNRF5284](http://oom.lt/SZKMCUNORDICNRF5284)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|nRF52840|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Nordic-nRF52840|
 |Hex ID (short code)|hexID|SZKMCUNORDICNRF5284|
-|name|name|nRF52840|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'nRF52840', 'kicadSymbolFootprint': 'Package_DFN_QFN:Nordic_AQFN-73-1EP_7x7mm_P0.5mm', 'kicadSymbolDatasheet': 'http://infocenter.nordicsemi.com/topic/com.nordic.infocenter.nrf52/dita/nrf52/chips/nrf52840.html', 'kicadSymbolki_keywords': 'MCU, ARM, BLE, ANT, 2.4GHz, 802.15.4', 'kicadSymbolki_description': 'Multiprotocol BLE/ANT/2.4 GHz/802.15.4 Cortex-M4F SoC, AQFN-73', 'kicadSymbolki_fp_filters': 'Nordic*AQFN*1EP*7x7mm*P0.5mm*'}]|
+|name|name|MCU_Nordic : nRF52840|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'nRF52840'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>Nordic_AQFN-73-1EP_7x7mm_P0.5mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//infocenter.nordicsemi.com/topic/com.nordic.infocenter.nrf52/dita/nrf52/chips/nrf52840.html'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'MCU</td><td> ARM</td><td> BLE</td><td> ANT</td><td> 2.4GHz</td><td> 802.15.4'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Multiprotocol BLE/ANT/2.4 GHz/802.15.4 Cortex-M4F SoC</td><td> AQFN-73'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Nordic*AQFN*1EP*7x7mm*P0.5mm*'</td></tr></table>]|
 ||||

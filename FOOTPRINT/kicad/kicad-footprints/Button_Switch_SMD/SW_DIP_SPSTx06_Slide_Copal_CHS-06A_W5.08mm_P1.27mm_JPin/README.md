@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_DIP_SPSTx06_Slide_Copal_CHS-06A_W5.08mm_P1.27mm_JPin|
 |Hex ID (short code)|hexID|FZKBSWITCHSMSWDIPSPSTX6SLIDECOPALCHS6AW58P127JPIN|
 |name|name|Button_Switch_SMD : SW_DIP_SPSTx06_Slide_Copal_CHS-06A_W5.08mm_P1.27mm_JPin|
-|Footprint Kicad|footprintKicadDetails|{'name': 'SW_DIP_SPSTx06_Slide_Copal_CHS-06A_W5.08mm_P1.27mm_JPin', 'description': 'SMD 6x-dip-switch SPST Copal_CHS-06A, Slide, row spacing 5.08 mm (200 mils), body size  (see http://www.nidec-copal-electronics.com/e/catalog/switch/chs.pdf), SMD, JPin', 'tags': 'SMD DIP Switch SPST Slide 5.08mm 200mil SMD JPin', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_DIP_SPSTx06_Slide_Copal_CHS-06A_W5.08mm_P1.27mm_JPin.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SW_DIP_SPSTx06_Slide_Copal_CHS-06A_W5.08mm_P1.27mm_JPin'</td><td> 'description'</td></tr><tr><td> 'SMD 6x-dip-switch SPST Copal_CHS-06A</td><td> Slide</td><td> row spacing 5.08 mm (200 mils)</td><td> body size  (see http</td></tr><tr><td>//www.nidec-copal-electronics.com/e/catalog/switch/chs.pdf)</td><td> SMD</td><td> JPin'</td><td> 'tags'</td></tr><tr><td> 'SMD DIP Switch SPST Slide 5.08mm 200mil SMD JPin'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Button_Switch_SMD.3dshapes/SW_DIP_SPSTx06_Slide_Copal_CHS-06A_W5.08mm_P1.27mm_JPin.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

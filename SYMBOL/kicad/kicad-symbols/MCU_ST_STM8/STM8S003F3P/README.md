@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUSTSTM8STM8S3F3P > STM8S003F3P
+# SZKMCUSTSTM8STM8S3F3P > MCU_ST_STM8 : STM8S003F3P
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM8-STM8S003F3P
 - Hex ID: SZKMCUSTSTM8STM8S3F3P
-- Name: STM8S003F3P
-- Description: STM8S003F3P
+- Name: MCU_ST_STM8 : STM8S003F3P
+- Description: MCU_ST_STM8 : STM8S003F3P
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM8-STM8S003F3P](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM8-STM8S003F3P)
 - Short Link: [http://oom.lt/SZKMCUSTSTM8STM8S3F3P](http://oom.lt/SZKMCUSTSTM8STM8S3F3P)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|STM8S003F3P|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_ST_STM8-STM8S003F3P|
 |Hex ID (short code)|hexID|SZKMCUSTSTM8STM8S3F3P|
-|name|name|STM8S003F3P|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'STM8S003F3P', 'kicadSymbolFootprint': 'Package_SO:TSSOP-20_4.4x6.5mm_P0.65mm', 'kicadSymbolDatasheet': 'http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00024550.pdf', 'kicadSymbolki_keywords': 'STM8S Mainstream Value line 8-bit, 16MHz, 1k RAM, 128 EEPROM', 'kicadSymbolki_description': '16MHz, 8K Flash, 1K RAM, 128 EEPROM, USART, I²C, SPI, TSSOP-20', 'kicadSymbolki_fp_filters': 'TSSOP*4.4x6.5mm*P0.65mm*'}]|
+|name|name|MCU_ST_STM8 : STM8S003F3P|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'STM8S003F3P'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>TSSOP-20_4.4x6.5mm_P0.65mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00024550.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'STM8S Mainstream Value line 8-bit</td><td> 16MHz</td><td> 1k RAM</td><td> 128 EEPROM'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '16MHz</td><td> 8K Flash</td><td> 1K RAM</td><td> 128 EEPROM</td><td> USART</td><td> I²C</td><td> SPI</td><td> TSSOP-20'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TSSOP*4.4x6.5mm*P0.65mm*'</td></tr></table>]|
 ||||

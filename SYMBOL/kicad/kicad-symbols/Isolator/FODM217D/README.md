@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKISOLATORFODM217D > FODM217D
+# SZKISOLATORFODM217D > Isolator : FODM217D
 
 - ID: SYMBOL-kicad-kicad-symbols-Isolator-FODM217D
 - Hex ID: SZKISOLATORFODM217D
-- Name: FODM217D
-- Description: FODM217D
+- Name: Isolator : FODM217D
+- Description: Isolator : FODM217D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-FODM217D](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-FODM217D)
 - Short Link: [http://oom.lt/SZKISOLATORFODM217D](http://oom.lt/SZKISOLATORFODM217D)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|FODM217D|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Isolator-FODM217D|
 |Hex ID (short code)|hexID|SZKISOLATORFODM217D|
-|name|name|FODM217D|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'FODM217A', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'FODM217D', 'kicadSymbolFootprint': 'Package_SO:SOP-4_4.4x2.6mm_P1.27mm', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pub/Collateral/FODM214-D.PDF', 'kicadSymbolki_keywords': 'DC Phototransistor Optocoupler', 'kicadSymbolki_description': 'DC Optocoupler, Vce 80V, CTR 300-600%, SOP-4', 'kicadSymbolki_fp_filters': 'SOP*4.4x2.6mm*P1.27mm*'}]|
+|name|name|Isolator : FODM217D|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'FODM217A'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'FODM217D'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOP-4_4.4x2.6mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.onsemi.com/pub/Collateral/FODM214-D.PDF'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'DC Phototransistor Optocoupler'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'DC Optocoupler</td><td> Vce 80V</td><td> CTR 300-600%</td><td> SOP-4'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOP*4.4x2.6mm*P1.27mm*'</td></tr></table>]|
 ||||

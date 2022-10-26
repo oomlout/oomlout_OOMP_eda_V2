@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-89-3|
 |Hex ID (short code)|hexID|FZKPACKAGETOSOTSMSOT893|
 |name|name|Package_TO_SOT_SMD : SOT-89-3|
-|Footprint Kicad|footprintKicadDetails|{'name': 'SOT-89-3', 'description': 'SOT-89-3, http://ww1.microchip.com/downloads/en/DeviceDoc/3L_SOT-89_MB_C04-029C.pdf', 'tags': 'SOT-89-3', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-89-3.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SOT-89-3'</td><td> 'description'</td></tr><tr><td> 'SOT-89-3</td><td> http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/3L_SOT-89_MB_C04-029C.pdf'</td><td> 'tags'</td></tr><tr><td> 'SOT-89-3'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_TO_SOT_SMD.3dshapes/SOT-89-3.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

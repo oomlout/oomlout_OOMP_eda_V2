@@ -29,5 +29,5 @@ NO IMAGE
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-RF_GPS-ublox_LEA|
 |Hex ID (short code)|hexID|FZKGPSUBLOXLEA|
 |name|name|RF_GPS : ublox_LEA|
-|Footprint Kicad|footprintKicadDetails|{'name': 'ublox_LEA', 'description': 'ublox LEA 6/7/8, (https://www.u-blox.com/sites/default/files/LEA-M8S-M8T-FW3_HardwareIntegrationManual_%28UBX-15030060%29.pdf)', 'tags': 'GPS ublox LEA 6/7/8', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/RF_GPS.3dshapes/ublox_LEA.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'ublox_LEA'</td><td> 'description'</td></tr><tr><td> 'ublox LEA 6/7/8</td><td> (https</td></tr><tr><td>//www.u-blox.com/sites/default/files/LEA-M8S-M8T-FW3_HardwareIntegrationManual_%28UBX-15030060%29.pdf)'</td><td> 'tags'</td></tr><tr><td> 'GPS ublox LEA 6/7/8'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/RF_GPS.3dshapes/ublox_LEA.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

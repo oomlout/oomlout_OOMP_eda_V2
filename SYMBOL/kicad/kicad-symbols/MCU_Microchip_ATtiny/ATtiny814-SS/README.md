@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUMCHIPATTINYATTINY814SS > ATtiny814-SS
+# SZKMCUMCHIPATTINYATTINY814SS > MCU_Microchip_ATtiny : ATtiny814-SS
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny814-SS
 - Hex ID: SZKMCUMCHIPATTINYATTINY814SS
-- Name: ATtiny814-SS
-- Description: ATtiny814-SS
+- Name: MCU_Microchip_ATtiny : ATtiny814-SS
+- Description: MCU_Microchip_ATtiny : ATtiny814-SS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny814-SS](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny814-SS)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATTINYATTINY814SS](http://oom.lt/SZKMCUMCHIPATTINYATTINY814SS)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ATtiny814-SS|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny814-SS|
 |Hex ID (short code)|hexID|SZKMCUMCHIPATTINYATTINY814SS|
-|name|name|ATtiny814-SS|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ATtiny204-SS', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ATtiny814-SS', 'kicadSymbolFootprint': 'Package_SO:SOIC-14_3.9x8.7mm_P1.27mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/40001912A.pdf', 'kicadSymbolki_keywords': 'AVR 8bit Microcontroller tinyAVR', 'kicadSymbolki_description': '20MHz, 8kB Flash, 512B SRAM, 128B EEPROM, SOIC-14', 'kicadSymbolki_fp_filters': 'SOIC*3.9x8.7mm*P1.27mm*'}]|
+|name|name|MCU_Microchip_ATtiny : ATtiny814-SS|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'ATtiny204-SS'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ATtiny814-SS'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-14_3.9x8.7mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/40001912A.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'AVR 8bit Microcontroller tinyAVR'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '20MHz</td><td> 8kB Flash</td><td> 512B SRAM</td><td> 128B EEPROM</td><td> SOIC-14'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*3.9x8.7mm*P1.27mm*'</td></tr></table>]|
 ||||

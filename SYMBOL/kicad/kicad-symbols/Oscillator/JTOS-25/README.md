@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKOCSJTOS25 > JTOS-25
+# SZKOCSJTOS25 > Oscillator : JTOS-25
 
 - ID: SYMBOL-kicad-kicad-symbols-Oscillator-JTOS-25
 - Hex ID: SZKOCSJTOS25
-- Name: JTOS-25
-- Description: JTOS-25
+- Name: Oscillator : JTOS-25
+- Description: Oscillator : JTOS-25
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-JTOS-25](http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-JTOS-25)
 - Short Link: [http://oom.lt/SZKOCSJTOS25](http://oom.lt/SZKOCSJTOS25)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|JTOS-25|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Oscillator-JTOS-25|
 |Hex ID (short code)|hexID|SZKOCSJTOS25|
-|name|name|JTOS-25|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'JTOS-50', 'kicadSymbolReference': 'X', 'kicadSymbolValue': 'JTOS-25', 'kicadSymbolFootprint': 'RF_Mini-Circuits:Mini-Circuits_BK377_LandPatternPL-005', 'kicadSymbolDatasheet': 'https://www.minicircuits.com/pdfs/JTOS-25+.pdf', 'kicadSymbolki_keywords': 'VCXO', 'kicadSymbolki_description': 'Voltage Controlled Oscillator, 12.5 to 25 MHz, Mini-Circuits BK377', 'kicadSymbolki_fp_filters': 'Mini?Circuits*BK377*'}]|
+|name|name|Oscillator : JTOS-25|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'JTOS-50'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'X'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'JTOS-25'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'RF_Mini-Circuits</td></tr><tr><td>Mini-Circuits_BK377_LandPatternPL-005'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.minicircuits.com/pdfs/JTOS-25+.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'VCXO'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Voltage Controlled Oscillator</td><td> 12.5 to 25 MHz</td><td> Mini-Circuits BK377'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Mini?Circuits*BK377*'</td></tr></table>]|
 ||||

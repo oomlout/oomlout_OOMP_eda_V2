@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKSENOPTICALSFH3 > SFH300
+# SZKSENOPTICALSFH3 > Sensor_Optical : SFH300
 
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Optical-SFH300
 - Hex ID: SZKSENOPTICALSFH3
-- Name: SFH300
-- Description: SFH300
+- Name: Sensor_Optical : SFH300
+- Description: Sensor_Optical : SFH300
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-SFH300](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-SFH300)
 - Short Link: [http://oom.lt/SZKSENOPTICALSFH3](http://oom.lt/SZKSENOPTICALSFH3)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SFH300|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Optical-SFH300|
 |Hex ID (short code)|hexID|SZKSENOPTICALSFH3|
-|name|name|SFH300|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BPW40', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'SFH300', 'kicadSymbolFootprint': 'LED_THT:LED_D5.0mm_Clear', 'kicadSymbolDatasheet': 'http://www.osram-os.com/Graphics/XPic2/00101785_0.pdf', 'kicadSymbolki_keywords': 'NPN phototransistor', 'kicadSymbolki_description': 'silicon NPN phototransistor', 'kicadSymbolki_fp_filters': 'LED*D5.0mm*Clear*'}]|
+|name|name|Sensor_Optical : SFH300|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'BPW40'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'SFH300'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'LED_THT</td></tr><tr><td>LED_D5.0mm_Clear'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.osram-os.com/Graphics/XPic2/00101785_0.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'NPN phototransistor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'silicon NPN phototransistor'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'LED*D5.0mm*Clear*'</td></tr></table>]|
 ||||

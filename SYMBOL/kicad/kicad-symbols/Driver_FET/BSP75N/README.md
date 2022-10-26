@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDRIVERFETBSP75N > BSP75N
+# SZKDRIVERFETBSP75N > Driver_FET : BSP75N
 
 - ID: SYMBOL-kicad-kicad-symbols-Driver_FET-BSP75N
 - Hex ID: SZKDRIVERFETBSP75N
-- Name: BSP75N
-- Description: BSP75N
+- Name: Driver_FET : BSP75N
+- Description: Driver_FET : BSP75N
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-BSP75N](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-BSP75N)
 - Short Link: [http://oom.lt/SZKDRIVERFETBSP75N](http://oom.lt/SZKDRIVERFETBSP75N)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BSP75N|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Driver_FET-BSP75N|
 |Hex ID (short code)|hexID|SZKDRIVERFETBSP75N|
-|name|name|BSP75N|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'BSP75N', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-223', 'kicadSymbolDatasheet': 'https://www.infineon.com/dgdl/Infineon-BSP75N-DS-v01_04-en.pdf?fileId=db3a30431ed1d7b2011f471f5a0256d1', 'kicadSymbolki_keywords': 'MOSFET ESD Overcurrent', 'kicadSymbolki_description': 'Self-Protected Low Side Driver with Temperature and Current Limit, SOT−223', 'kicadSymbolki_fp_filters': 'SOT?223*'}]|
+|name|name|Driver_FET : BSP75N|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'BSP75N'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-223'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.infineon.com/dgdl/Infineon-BSP75N-DS-v01_04-en.pdf?fileId=db3a30431ed1d7b2011f471f5a0256d1'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'MOSFET ESD Overcurrent'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Self-Protected Low Side Driver with Temperature and Current Limit</td><td> SOT−223'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?223*'</td></tr></table>]|
 ||||

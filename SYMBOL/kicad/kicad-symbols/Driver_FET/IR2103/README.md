@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDRIVERFETIR213 > IR2103
+# SZKDRIVERFETIR213 > Driver_FET : IR2103
 
 - ID: SYMBOL-kicad-kicad-symbols-Driver_FET-IR2103
 - Hex ID: SZKDRIVERFETIR213
-- Name: IR2103
-- Description: IR2103
+- Name: Driver_FET : IR2103
+- Description: Driver_FET : IR2103
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-IR2103](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-IR2103)
 - Short Link: [http://oom.lt/SZKDRIVERFETIR213](http://oom.lt/SZKDRIVERFETIR213)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IR2103|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Driver_FET-IR2103|
 |Hex ID (short code)|hexID|SZKDRIVERFETIR213|
-|name|name|IR2103|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'IR2103', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.infineon.com/dgdl/ir2103.pdf?fileId=5546d462533600a4015355c7b54b166f', 'kicadSymbolki_keywords': 'Gate Driver', 'kicadSymbolki_description': 'Half-Bridge Driver, 600V, 210/360mA, PDIP-8/SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm* DIP*W7.62mm*'}]|
+|name|name|Driver_FET : IR2103|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'IR2103'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.infineon.com/dgdl/ir2103.pdf?fileId=5546d462533600a4015355c7b54b166f'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Gate Driver'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Half-Bridge Driver</td><td> 600V</td><td> 210/360mA</td><td> PDIP-8/SOIC-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*3.9x4.9mm*P1.27mm* DIP*W7.62mm*'</td></tr></table>]|
 ||||

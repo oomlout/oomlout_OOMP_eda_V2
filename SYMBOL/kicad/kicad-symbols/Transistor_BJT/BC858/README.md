@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORBJTBC858 > BC858
+# SZKTRANSISTORBJTBC858 > Transistor_BJT : BC858
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC858
 - Hex ID: SZKTRANSISTORBJTBC858
-- Name: BC858
-- Description: BC858
+- Name: Transistor_BJT : BC858
+- Description: Transistor_BJT : BC858
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC858](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC858)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTBC858](http://oom.lt/SZKTRANSISTORBJTBC858)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BC858|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC858|
 |Hex ID (short code)|hexID|SZKTRANSISTORBJTBC858|
-|name|name|BC858|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BC807', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'BC858', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pub/Collateral/BC860-D.pdf', 'kicadSymbolki_keywords': 'PNP transistor', 'kicadSymbolki_description': '0.1A Ic, 30V Vce, PNP Transistor, SOT-23', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
+|name|name|Transistor_BJT : BC858|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'BC807'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'BC858'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-23'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.onsemi.com/pub/Collateral/BC860-D.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'PNP transistor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '0.1A Ic</td><td> 30V Vce</td><td> PNP Transistor</td><td> SOT-23'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23*'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKSIMULATIONSPICEDIODE > DIODE
+# SZKSIMULATIONSPICEDIODE > Simulation_SPICE : DIODE
 
 - ID: SYMBOL-kicad-kicad-symbols-Simulation_SPICE-DIODE
 - Hex ID: SZKSIMULATIONSPICEDIODE
-- Name: DIODE
-- Description: DIODE
+- Name: Simulation_SPICE : DIODE
+- Description: Simulation_SPICE : DIODE
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Simulation_SPICE-DIODE](http://oom.lt/SYMBOL-kicad-kicad-symbols-Simulation_SPICE-DIODE)
 - Short Link: [http://oom.lt/SZKSIMULATIONSPICEDIODE](http://oom.lt/SZKSIMULATIONSPICEDIODE)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DIODE|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Simulation_SPICE-DIODE|
 |Hex ID (short code)|hexID|SZKSIMULATIONSPICEDIODE|
-|name|name|DIODE|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'DIODE', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolSpice_Netlist_Enabled': 'Y', 'kicadSymbolSpice_Primitive': 'D', 'kicadSymbolki_keywords': 'simulation', 'kicadSymbolki_description': 'Diode, anode on pin 1, for simulation only!'}]|
+|name|name|Simulation_SPICE : DIODE|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'DIODE'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolSpice_Netlist_Enabled'</td></tr><tr><td> 'Y'</td><td> 'kicadSymbolSpice_Primitive'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'simulation'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Diode</td><td> anode on pin 1</td><td> for simulation only!'</td></tr></table>]|
 ||||

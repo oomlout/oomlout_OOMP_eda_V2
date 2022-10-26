@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_Push_1P1T-MP_NO_Horizontal_Alps_SKRTLAE010|
 |Hex ID (short code)|hexID|FZKBSWITCHSMSWPUSH1P1TMPNOHORIZONTALALPSSKRTLAE1|
 |name|name|Button_Switch_SMD : SW_Push_1P1T-MP_NO_Horizontal_Alps_SKRTLAE010|
-|Footprint Kicad|footprintKicadDetails|{'name': 'SW_Push_1P1T-MP_NO_Horizontal_Alps_SKRTLAE010', 'description': 'Side push button (https://www.alps.com/prod/info/E/PDF/Tact/SurfaceMount/SKRT/SKRT.pdf)', 'tags': 'push horizontal SPST 1P1T', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_Push_1P1T-MP_NO_Horizontal_Alps_SKRTLAE010.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SW_Push_1P1T-MP_NO_Horizontal_Alps_SKRTLAE010'</td><td> 'description'</td></tr><tr><td> 'Side push button (https</td></tr><tr><td>//www.alps.com/prod/info/E/PDF/Tact/SurfaceMount/SKRT/SKRT.pdf)'</td><td> 'tags'</td></tr><tr><td> 'push horizontal SPST 1P1T'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Button_Switch_SMD.3dshapes/SW_Push_1P1T-MP_NO_Horizontal_Alps_SKRTLAE010.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

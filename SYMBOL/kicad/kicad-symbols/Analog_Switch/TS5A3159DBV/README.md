@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKANALOGSWITCHTS5A3159DBV > TS5A3159DBV
+# SZKANALOGSWITCHTS5A3159DBV > Analog_Switch : TS5A3159DBV
 
 - ID: SYMBOL-kicad-kicad-symbols-Analog_Switch-TS5A3159DBV
 - Hex ID: SZKANALOGSWITCHTS5A3159DBV
-- Name: TS5A3159DBV
-- Description: TS5A3159DBV
+- Name: Analog_Switch : TS5A3159DBV
+- Description: Analog_Switch : TS5A3159DBV
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-TS5A3159DBV](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-TS5A3159DBV)
 - Short Link: [http://oom.lt/SZKANALOGSWITCHTS5A3159DBV](http://oom.lt/SZKANALOGSWITCHTS5A3159DBV)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TS5A3159DBV|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_Switch-TS5A3159DBV|
 |Hex ID (short code)|hexID|SZKANALOGSWITCHTS5A3159DBV|
-|name|name|TS5A3159DBV|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TS5A3159DBV', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-6', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/ts5a3159.pdf', 'kicadSymbolki_keywords': 'Analog Switch', 'kicadSymbolki_description': 'Single SPDT Analog Switch, 1.65-V to 5.5-V Single-Supply Operation, 1Ohm Ron, SOT-23-6', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
+|name|name|Analog_Switch : TS5A3159DBV|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TS5A3159DBV'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-23-6'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/ts5a3159.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Analog Switch'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Single SPDT Analog Switch</td><td> 1.65-V to 5.5-V Single-Supply Operation</td><td> 1Ohm Ron</td><td> SOT-23-6'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23*'</td></tr></table>]|
 ||||

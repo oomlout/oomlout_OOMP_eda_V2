@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMEMORYEEPROMBR25SXXX > BR25Sxxx
+# SZKMEMORYEEPROMBR25SXXX > Memory_EEPROM : BR25Sxxx
 
 - ID: SYMBOL-kicad-kicad-symbols-Memory_EEPROM-BR25Sxxx
 - Hex ID: SZKMEMORYEEPROMBR25SXXX
-- Name: BR25Sxxx
-- Description: BR25Sxxx
+- Name: Memory_EEPROM : BR25Sxxx
+- Description: Memory_EEPROM : BR25Sxxx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_EEPROM-BR25Sxxx](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_EEPROM-BR25Sxxx)
 - Short Link: [http://oom.lt/SZKMEMORYEEPROMBR25SXXX](http://oom.lt/SZKMEMORYEEPROMBR25SXXX)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BR25Sxxx|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Memory_EEPROM-BR25Sxxx|
 |Hex ID (short code)|hexID|SZKMEMORYEEPROMBR25SXXX|
-|name|name|BR25Sxxx|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '25LCxxx', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'BR25Sxxx', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.rohm.com/web/global/products/-/product/BR25G128F-3', 'kicadSymbolki_keywords': 'EEPROM memory SPI serial', 'kicadSymbolki_description': 'ROHM Semiconductor SPI Serial EEPROM, DIP-8/SOIC-8/TSSOP-8', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm* SOIC*3.9x4.9mm* TSSOP*4.4x3mm*P0.65mm*'}]|
+|name|name|Memory_EEPROM : BR25Sxxx|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> '25LCxxx'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'BR25Sxxx'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.rohm.com/web/global/products/-/product/BR25G128F-3'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'EEPROM memory SPI serial'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'ROHM Semiconductor SPI Serial EEPROM</td><td> DIP-8/SOIC-8/TSSOP-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W7.62mm* SOIC*3.9x4.9mm* TSSOP*4.4x3mm*P0.65mm*'</td></tr></table>]|
 ||||

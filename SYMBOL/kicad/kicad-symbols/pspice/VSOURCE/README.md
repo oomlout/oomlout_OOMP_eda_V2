@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKPSPICEVSOURCE > VSOURCE
+# SZKPSPICEVSOURCE > pspice : VSOURCE
 
 - ID: SYMBOL-kicad-kicad-symbols-pspice-VSOURCE
 - Hex ID: SZKPSPICEVSOURCE
-- Name: VSOURCE
-- Description: VSOURCE
+- Name: pspice : VSOURCE
+- Description: pspice : VSOURCE
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-pspice-VSOURCE](http://oom.lt/SYMBOL-kicad-kicad-symbols-pspice-VSOURCE)
 - Short Link: [http://oom.lt/SZKPSPICEVSOURCE](http://oom.lt/SZKPSPICEVSOURCE)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|VSOURCE|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-pspice-VSOURCE|
 |Hex ID (short code)|hexID|SZKPSPICEVSOURCE|
-|name|name|VSOURCE|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'V', 'kicadSymbolValue': 'VSOURCE', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'simulation', 'kicadSymbolki_description': 'Voltage source symbol for simulation only'}]|
+|name|name|pspice : VSOURCE|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'V'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'VSOURCE'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'simulation'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Voltage source symbol for simulation only'</td></tr></table>]|
 ||||

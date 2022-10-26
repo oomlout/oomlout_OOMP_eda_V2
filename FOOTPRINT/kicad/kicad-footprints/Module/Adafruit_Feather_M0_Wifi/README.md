@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Module-Adafruit_Feather_M0_Wifi|
 |Hex ID (short code)|hexID|FZKMOADAFEATHERMWIFI|
 |name|name|Module : Adafruit_Feather_M0_Wifi|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Adafruit_Feather_M0_Wifi', 'description': 'Footprint for the Adafruit Feather M0 Wifi board, https://learn.adafruit.com/adafruit-feather-m0-wifi-atwinc1500/', 'tags': 'Adafruit Feather M0 Wifi', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Module.3dshapes/Adafruit_Feather_M0_Wifi.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Adafruit_Feather_M0_Wifi'</td><td> 'description'</td></tr><tr><td> 'Footprint for the Adafruit Feather M0 Wifi board</td><td> https</td></tr><tr><td>//learn.adafruit.com/adafruit-feather-m0-wifi-atwinc1500/'</td><td> 'tags'</td></tr><tr><td> 'Adafruit Feather M0 Wifi'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Module.3dshapes/Adafruit_Feather_M0_Wifi.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

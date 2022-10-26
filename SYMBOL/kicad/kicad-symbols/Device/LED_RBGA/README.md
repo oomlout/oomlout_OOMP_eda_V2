@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDEVICELRBGA > LED_RBGA
+# SZKDEVICELRBGA > Device : LED_RBGA
 
 - ID: SYMBOL-kicad-kicad-symbols-Device-LED_RBGA
 - Hex ID: SZKDEVICELRBGA
-- Name: LED_RBGA
-- Description: LED_RBGA
+- Name: Device : LED_RBGA
+- Description: Device : LED_RBGA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-LED_RBGA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-LED_RBGA)
 - Short Link: [http://oom.lt/SZKDEVICELRBGA](http://oom.lt/SZKDEVICELRBGA)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LED_RBGA|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-LED_RBGA|
 |Hex ID (short code)|hexID|SZKDEVICELRBGA|
-|name|name|LED_RBGA|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'LED_RBGA', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'LED RGB diode', 'kicadSymbolki_description': 'RGB LED, red/blue/green/anode', 'kicadSymbolki_fp_filters': 'LED* LED_SMD:* LED_THT:*'}]|
+|name|name|Device : LED_RBGA|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LED_RBGA'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'LED RGB diode'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'RGB LED</td><td> red/blue/green/anode'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'LED* LED_SMD</td></tr><tr><td>* LED_THT</td></tr><tr><td>*'</td></tr></table>]|
 ||||

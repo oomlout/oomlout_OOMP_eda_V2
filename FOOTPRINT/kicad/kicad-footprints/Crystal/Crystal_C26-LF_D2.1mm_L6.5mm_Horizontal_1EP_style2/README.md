@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_C26-LF_D2.1mm_L6.5mm_Horizontal_1EP_style2|
 |Hex ID (short code)|hexID|FZKXXC26LFD21L65HORIZONTAL1EPSTYLE2|
 |name|name|Crystal : Crystal_C26-LF_D2.1mm_L6.5mm_Horizontal_1EP_style2|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Crystal_C26-LF_D2.1mm_L6.5mm_Horizontal_1EP_style2', 'description': 'Crystal THT C26-LF 6.5mm length 2.06mm diameter', 'tags': "['C26-LF']", 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Crystal_C26-LF_D2.1mm_L6.5mm_Horizontal_1EP_style2.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Crystal_C26-LF_D2.1mm_L6.5mm_Horizontal_1EP_style2'</td><td> 'description'</td></tr><tr><td> 'Crystal THT C26-LF 6.5mm length 2.06mm diameter'</td><td> 'tags'</td></tr><tr><td> "['C26-LF']"</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Crystal.3dshapes/Crystal_C26-LF_D2.1mm_L6.5mm_Horizontal_1EP_style2.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

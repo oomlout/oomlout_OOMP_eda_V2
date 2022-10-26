@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORSWITCHINGAOZ1282CI > AOZ1282CI
+# SZKREGULATORSWITCHINGAOZ1282CI > Regulator_Switching : AOZ1282CI
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-AOZ1282CI
 - Hex ID: SZKREGULATORSWITCHINGAOZ1282CI
-- Name: AOZ1282CI
-- Description: AOZ1282CI
+- Name: Regulator_Switching : AOZ1282CI
+- Description: Regulator_Switching : AOZ1282CI
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-AOZ1282CI](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-AOZ1282CI)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGAOZ1282CI](http://oom.lt/SZKREGULATORSWITCHINGAOZ1282CI)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AOZ1282CI|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-AOZ1282CI|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGAOZ1282CI|
-|name|name|AOZ1282CI|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'AOZ1280CI', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AOZ1282CI', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-6', 'kicadSymbolDatasheet': 'http://aosmd.com/res/data_sheets/AOZ1282CI.pdf', 'kicadSymbolki_keywords': 'switching buck converter', 'kicadSymbolki_description': '1.2 A Simple Buck Regulator, 4.5-36V input, 450kHz', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
+|name|name|Regulator_Switching : AOZ1282CI|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'AOZ1280CI'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'AOZ1282CI'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-23-6'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//aosmd.com/res/data_sheets/AOZ1282CI.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'switching buck converter'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '1.2 A Simple Buck Regulator</td><td> 4.5-36V input</td><td> 450kHz'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23*'</td></tr></table>]|
 ||||

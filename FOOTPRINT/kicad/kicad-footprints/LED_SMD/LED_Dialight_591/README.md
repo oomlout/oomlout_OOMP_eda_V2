@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Dialight_591|
 |Hex ID (short code)|hexID|FZKLSMLDIALIGHT591|
 |name|name|LED_SMD : LED_Dialight_591|
-|Footprint Kicad|footprintKicadDetails|{'name': 'LED_Dialight_591', 'description': 'LED SMD 3mm Right Angle series (http://www.dialightsignalsandcomponents.com/Assets/Drawings/2D_Drawings_DrawingDetailedSpec/C17354.pdf)', 'tags': 'LED Dialight 591', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED_Dialight_591.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'LED_Dialight_591'</td><td> 'description'</td></tr><tr><td> 'LED SMD 3mm Right Angle series (http</td></tr><tr><td>//www.dialightsignalsandcomponents.com/Assets/Drawings/2D_Drawings_DrawingDetailedSpec/C17354.pdf)'</td><td> 'tags'</td></tr><tr><td> 'LED Dialight 591'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/LED_SMD.3dshapes/LED_Dialight_591.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

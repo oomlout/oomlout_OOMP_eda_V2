@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKSENPROXIMITYBPR25 > BPR-205
+# SZKSENPROXIMITYBPR25 > Sensor_Proximity : BPR-205
 
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Proximity-BPR-205
 - Hex ID: SZKSENPROXIMITYBPR25
-- Name: BPR-205
-- Description: BPR-205
+- Name: Sensor_Proximity : BPR-205
+- Description: Sensor_Proximity : BPR-205
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Proximity-BPR-205](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Proximity-BPR-205)
 - Short Link: [http://oom.lt/SZKSENPROXIMITYBPR25](http://oom.lt/SZKSENPROXIMITYBPR25)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BPR-205|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Proximity-BPR-205|
 |Hex ID (short code)|hexID|SZKSENPROXIMITYBPR25|
-|name|name|BPR-205|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'BPR-205', 'kicadSymbolFootprint': 'OptoDevice:Everlight_ITR8307', 'kicadSymbolDatasheet': 'http://www.ystone.com.tw/en/data/goods/IRPT/Photo%20Interrupters-Reflective%20Type.pdf', 'kicadSymbolki_keywords': 'Reflective Optical Sensor Opto', 'kicadSymbolki_description': 'Subminiature Reflective Optical Sensor, Darlington photo transistor, SMD-package with PCB-cutout', 'kicadSymbolki_fp_filters': 'Everlight*ITR8307*'}]|
+|name|name|Sensor_Proximity : BPR-205|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'BPR-205'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'OptoDevice</td></tr><tr><td>Everlight_ITR8307'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ystone.com.tw/en/data/goods/IRPT/Photo%20Interrupters-Reflective%20Type.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Reflective Optical Sensor Opto'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Subminiature Reflective Optical Sensor</td><td> Darlington photo transistor</td><td> SMD-package with PCB-cutout'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Everlight*ITR8307*'</td></tr></table>]|
 ||||

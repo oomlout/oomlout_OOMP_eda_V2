@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZK4XXX469 > 4069
+# SZK4XXX469 > 4xxx : 4069
 
 - ID: SYMBOL-kicad-kicad-symbols-4xxx-4069
 - Hex ID: SZK4XXX469
-- Name: 4069
-- Description: 4069
+- Name: 4xxx : 4069
+- Description: 4xxx : 4069
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx-4069](http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx-4069)
 - Short Link: [http://oom.lt/SZK4XXX469](http://oom.lt/SZK4XXX469)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|4069|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-4xxx-4069|
 |Hex ID (short code)|hexID|SZK4XXX469|
-|name|name|4069|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '4069', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.intersil.com/content/dam/Intersil/documents/cd40/cd4069ubms.pdf', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'CMOS NOT', 'kicadSymbolki_description': 'Hex inverter', 'kicadSymbolki_fp_filters': 'DIP?14*'}]|
+|name|name|4xxx : 4069|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> '4069'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.intersil.com/content/dam/Intersil/documents/cd40/cd4069ubms.pdf'</td><td> 'kicadSymbolki_locked'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'CMOS NOT'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Hex inverter'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP?14*'</td></tr></table>]|
 ||||

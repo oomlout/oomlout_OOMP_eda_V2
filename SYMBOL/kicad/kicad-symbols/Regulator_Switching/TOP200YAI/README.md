@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORSWITCHINGTOP2YAI > TOP200YAI
+# SZKREGULATORSWITCHINGTOP2YAI > Regulator_Switching : TOP200YAI
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-TOP200YAI
 - Hex ID: SZKREGULATORSWITCHINGTOP2YAI
-- Name: TOP200YAI
-- Description: TOP200YAI
+- Name: Regulator_Switching : TOP200YAI
+- Description: Regulator_Switching : TOP200YAI
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TOP200YAI](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TOP200YAI)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGTOP2YAI](http://oom.lt/SZKREGULATORSWITCHINGTOP2YAI)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TOP200YAI|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-TOP200YAI|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGTOP2YAI|
-|name|name|TOP200YAI|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TOP200YAI', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-220-3_Vertical', 'kicadSymbolDatasheet': 'http://www.powerint.com/sites/default/files/product-docs/top200-204214.pdf', 'kicadSymbolki_keywords': 'Three-terminal Off-line PWM Switch', 'kicadSymbolki_description': 'TOPSwitch Family, 12W Max Output Power, TO-220', 'kicadSymbolki_fp_filters': 'TO?220*'}]|
+|name|name|Regulator_Switching : TOP200YAI|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TOP200YAI'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_THT</td></tr><tr><td>TO-220-3_Vertical'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.powerint.com/sites/default/files/product-docs/top200-204214.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Three-terminal Off-line PWM Switch'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'TOPSwitch Family</td><td> 12W Max Output Power</td><td> TO-220'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TO?220*'</td></tr></table>]|
 ||||

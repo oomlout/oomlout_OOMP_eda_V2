@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKINTERFACEAD9951 > AD9951
+# SZKINTERFACEAD9951 > Interface : AD9951
 
 - ID: SYMBOL-kicad-kicad-symbols-Interface-AD9951
 - Hex ID: SZKINTERFACEAD9951
-- Name: AD9951
-- Description: AD9951
+- Name: Interface : AD9951
+- Description: Interface : AD9951
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-AD9951](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-AD9951)
 - Short Link: [http://oom.lt/SZKINTERFACEAD9951](http://oom.lt/SZKINTERFACEAD9951)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AD9951|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface-AD9951|
 |Hex ID (short code)|hexID|SZKINTERFACEAD9951|
-|name|name|AD9951|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AD9951', 'kicadSymbolFootprint': 'Package_QFP:TQFP-48-1EP_7x7mm_P0.5mm_EP3.5x3.5mm', 'kicadSymbolDatasheet': 'https://www.analog.com/static/imported-files/data_sheets/AD9951.pdf', 'kicadSymbolki_keywords': 'Direct Digital Synthesizer DDS', 'kicadSymbolki_description': '14-Bit Direct Digital Synthesizer with 400MSPS DAC, 1.8V, TQFP48', 'kicadSymbolki_fp_filters': 'TQFP*1EP*7x7mm*P0.5mm*'}]|
+|name|name|Interface : AD9951|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'AD9951'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_QFP</td></tr><tr><td>TQFP-48-1EP_7x7mm_P0.5mm_EP3.5x3.5mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/static/imported-files/data_sheets/AD9951.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Direct Digital Synthesizer DDS'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '14-Bit Direct Digital Synthesizer with 400MSPS DAC</td><td> 1.8V</td><td> TQFP48'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TQFP*1EP*7x7mm*P0.5mm*'</td></tr></table>]|
 ||||

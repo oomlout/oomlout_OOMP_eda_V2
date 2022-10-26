@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKRELAYSOLIDSTATEAQH2223 > AQH2223
+# SZKRELAYSOLIDSTATEAQH2223 > Relay_SolidState : AQH2223
 
 - ID: SYMBOL-kicad-kicad-symbols-Relay_SolidState-AQH2223
 - Hex ID: SZKRELAYSOLIDSTATEAQH2223
-- Name: AQH2223
-- Description: AQH2223
+- Name: Relay_SolidState : AQH2223
+- Description: Relay_SolidState : AQH2223
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay_SolidState-AQH2223](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay_SolidState-AQH2223)
 - Short Link: [http://oom.lt/SZKRELAYSOLIDSTATEAQH2223](http://oom.lt/SZKRELAYSOLIDSTATEAQH2223)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AQH2223|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Relay_SolidState-AQH2223|
 |Hex ID (short code)|hexID|SZKRELAYSOLIDSTATEAQH2223|
-|name|name|AQH2223|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'AQH0223', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AQH2223', 'kicadSymbolFootprint': 'Package_DIP:DIP-8-N7_W7.62mm', 'kicadSymbolDatasheet': 'https://b2b-api.panasonic.eu/file_stream/pids/fileversion/2787', 'kicadSymbolki_keywords': 'Opto-Triac Opto Triac Random Phase', 'kicadSymbolki_description': 'Random Phase Opto-Triac, Vdrm 600V, Ift 10mA, IT 900mA, DIP-7', 'kicadSymbolki_fp_filters': 'DIP*N7*W7.62mm*'}]|
+|name|name|Relay_SolidState : AQH2223|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'AQH0223'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'AQH2223'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>DIP-8-N7_W7.62mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//b2b-api.panasonic.eu/file_stream/pids/fileversion/2787'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Opto-Triac Opto Triac Random Phase'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Random Phase Opto-Triac</td><td> Vdrm 600V</td><td> Ift 10mA</td><td> IT 900mA</td><td> DIP-7'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*N7*W7.62mm*'</td></tr></table>]|
 ||||

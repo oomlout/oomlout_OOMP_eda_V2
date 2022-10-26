@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDEVICETHERMOCOUPLEBL > Thermocouple_Block
+# SZKDEVICETHERMOCOUPLEBL > Device : Thermocouple_Block
 
 - ID: SYMBOL-kicad-kicad-symbols-Device-Thermocouple_Block
 - Hex ID: SZKDEVICETHERMOCOUPLEBL
-- Name: Thermocouple_Block
-- Description: Thermocouple_Block
+- Name: Device : Thermocouple_Block
+- Description: Device : Thermocouple_Block
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Thermocouple_Block](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Thermocouple_Block)
 - Short Link: [http://oom.lt/SZKDEVICETHERMOCOUPLEBL](http://oom.lt/SZKDEVICETHERMOCOUPLEBL)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Thermocouple_Block|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-Thermocouple_Block|
 |Hex ID (short code)|hexID|SZKDEVICETHERMOCOUPLEBL|
-|name|name|Thermocouple_Block|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'TC', 'kicadSymbolValue': 'Thermocouple_Block', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'thermocouple temperature sensor cold junction', 'kicadSymbolki_description': 'Thermocouple with isothermal block', 'kicadSymbolki_fp_filters': 'PIN?ARRAY* bornier* *Terminal?Block* Thermo*Couple*'}]|
+|name|name|Device : Thermocouple_Block|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'TC'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Thermocouple_Block'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'thermocouple temperature sensor cold junction'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Thermocouple with isothermal block'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'PIN?ARRAY* bornier* *Terminal?Block* Thermo*Couple*'</td></tr></table>]|
 ||||

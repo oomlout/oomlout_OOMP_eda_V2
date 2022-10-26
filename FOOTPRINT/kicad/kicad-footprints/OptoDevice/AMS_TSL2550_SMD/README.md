@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-OptoDevice-AMS_TSL2550_SMD|
 |Hex ID (short code)|hexID|FZKOPAMSTSL255SM|
 |name|name|OptoDevice : AMS_TSL2550_SMD|
-|Footprint Kicad|footprintKicadDetails|{'name': 'AMS_TSL2550_SMD', 'description': 'http://ams.com/eng/content/download/250130/975613/142977', 'tags': 'TSL2550 ambient light sensor', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/AMS_TSL2550_SMD.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'AMS_TSL2550_SMD'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//ams.com/eng/content/download/250130/975613/142977'</td><td> 'tags'</td></tr><tr><td> 'TSL2550 ambient light sensor'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/OptoDevice.3dshapes/AMS_TSL2550_SMD.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

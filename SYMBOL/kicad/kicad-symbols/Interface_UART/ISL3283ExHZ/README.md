@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKINTERFACEUARTISL3283EXHZ > ISL3283ExHZ
+# SZKINTERFACEUARTISL3283EXHZ > Interface_UART : ISL3283ExHZ
 
 - ID: SYMBOL-kicad-kicad-symbols-Interface_UART-ISL3283ExHZ
 - Hex ID: SZKINTERFACEUARTISL3283EXHZ
-- Name: ISL3283ExHZ
-- Description: ISL3283ExHZ
+- Name: Interface_UART : ISL3283ExHZ
+- Description: Interface_UART : ISL3283ExHZ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-ISL3283ExHZ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-ISL3283ExHZ)
 - Short Link: [http://oom.lt/SZKINTERFACEUARTISL3283EXHZ](http://oom.lt/SZKINTERFACEUARTISL3283EXHZ)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ISL3283ExHZ|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_UART-ISL3283ExHZ|
 |Hex ID (short code)|hexID|SZKINTERFACEUARTISL3283EXHZ|
-|name|name|ISL3283ExHZ|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ISL3283ExHZ', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-6', 'kicadSymbolDatasheet': 'https://www.renesas.com/us/en/www/doc/datasheet/isl3280e-81e-82e-83e-84e-85e.pdf', 'kicadSymbolki_keywords': 'Interface Driver Receiver Transceiver', 'kicadSymbolki_description': 'RS485, RS422, 20Mbps Transceiver, 3.0V to 5.5V, SOT-23-6', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
+|name|name|Interface_UART : ISL3283ExHZ|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ISL3283ExHZ'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-23-6'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.renesas.com/us/en/www/doc/datasheet/isl3280e-81e-82e-83e-84e-85e.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Interface Driver Receiver Transceiver'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'RS485</td><td> RS422</td><td> 20Mbps Transceiver</td><td> 3.0V to 5.5V</td><td> SOT-23-6'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23*'</td></tr></table>]|
 ||||

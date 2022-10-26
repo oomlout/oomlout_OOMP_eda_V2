@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKCNPULSEJXD61NL > Pulse_JXD6-0001NL
+# SZKCNPULSEJXD61NL > Connector : Pulse_JXD6-0001NL
 
 - ID: SYMBOL-kicad-kicad-symbols-Connector-Pulse_JXD6-0001NL
 - Hex ID: SZKCNPULSEJXD61NL
-- Name: Pulse_JXD6-0001NL
-- Description: Pulse_JXD6-0001NL
+- Name: Connector : Pulse_JXD6-0001NL
+- Description: Connector : Pulse_JXD6-0001NL
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-Pulse_JXD6-0001NL](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-Pulse_JXD6-0001NL)
 - Short Link: [http://oom.lt/SZKCNPULSEJXD61NL](http://oom.lt/SZKCNPULSEJXD61NL)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Pulse_JXD6-0001NL|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-Pulse_JXD6-0001NL|
 |Hex ID (short code)|hexID|SZKCNPULSEJXD61NL|
-|name|name|Pulse_JXD6-0001NL|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'Pulse_JXD6-0001NL', 'kicadSymbolFootprint': 'Connector_RJ:RJ45_Pulse_JXD6-0001NL_Horizontal', 'kicadSymbolDatasheet': 'https://productfinder.pulseeng.com/doc_type/WEB301/doc_num/JXD6-0001NL/doc_part/JXD6-0001NL.pdf', 'kicadSymbolki_keywords': 'lan jack transformer', 'kicadSymbolki_description': 'LAN Transformer Jack, RJ45, 10/100 BaseT', 'kicadSymbolki_fp_filters': 'RJ45*Pulse*JXD6?0001NL*'}]|
+|name|name|Connector : Pulse_JXD6-0001NL|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'J'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Pulse_JXD6-0001NL'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Connector_RJ</td></tr><tr><td>RJ45_Pulse_JXD6-0001NL_Horizontal'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//productfinder.pulseeng.com/doc_type/WEB301/doc_num/JXD6-0001NL/doc_part/JXD6-0001NL.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'lan jack transformer'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'LAN Transformer Jack</td><td> RJ45</td><td> 10/100 BaseT'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'RJ45*Pulse*JXD6?0001NL*'</td></tr></table>]|
 ||||

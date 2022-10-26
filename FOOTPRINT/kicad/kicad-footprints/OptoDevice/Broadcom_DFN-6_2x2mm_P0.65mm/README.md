@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-OptoDevice-Broadcom_DFN-6_2x2mm_P0.65mm|
 |Hex ID (short code)|hexID|FZKOPBROADCOMDFN62X2P65|
 |name|name|OptoDevice : Broadcom_DFN-6_2x2mm_P0.65mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Broadcom_DFN-6_2x2mm_P0.65mm', 'description': 'Broadcom  DFN, 6 Pin (https://docs.broadcom.com/docs/AV02-4755EN), generated with kicad-footprint-generator ipc_noLead_generator.py', 'tags': 'Broadcom DFN NoLead', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/Broadcom_DFN-6_2x2mm_P0.65mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Broadcom_DFN-6_2x2mm_P0.65mm'</td><td> 'description'</td></tr><tr><td> 'Broadcom  DFN</td><td> 6 Pin (https</td></tr><tr><td>//docs.broadcom.com/docs/AV02-4755EN)</td><td> generated with kicad-footprint-generator ipc_noLead_generator.py'</td><td> 'tags'</td></tr><tr><td> 'Broadcom DFN NoLead'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/OptoDevice.3dshapes/Broadcom_DFN-6_2x2mm_P0.65mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

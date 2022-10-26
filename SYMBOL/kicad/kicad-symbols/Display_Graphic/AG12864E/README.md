@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDIGRAPHICAG12864E > AG12864E
+# SZKDIGRAPHICAG12864E > Display_Graphic : AG12864E
 
 - ID: SYMBOL-kicad-kicad-symbols-Display_Graphic-AG12864E
 - Hex ID: SZKDIGRAPHICAG12864E
-- Name: AG12864E
-- Description: AG12864E
+- Name: Display_Graphic : AG12864E
+- Description: Display_Graphic : AG12864E
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Graphic-AG12864E](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Graphic-AG12864E)
 - Short Link: [http://oom.lt/SZKDIGRAPHICAG12864E](http://oom.lt/SZKDIGRAPHICAG12864E)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AG12864E|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Display_Graphic-AG12864E|
 |Hex ID (short code)|hexID|SZKDIGRAPHICAG12864E|
-|name|name|AG12864E|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'DS', 'kicadSymbolValue': 'AG12864E', 'kicadSymbolFootprint': 'Display:AG12864E', 'kicadSymbolDatasheet': 'https://www.digchip.com/datasheets/parts/datasheet/1121/AG-12864E-pdf.php', 'kicadSymbolki_keywords': 'display LCD graphic', 'kicadSymbolki_description': 'Graphics Display 128x64px,  8b parallel, 1/64 Duty, 3.3V or 5V VDD', 'kicadSymbolki_fp_filters': '*AG12864E*'}]|
+|name|name|Display_Graphic : AG12864E|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'DS'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'AG12864E'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Display</td></tr><tr><td>AG12864E'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.digchip.com/datasheets/parts/datasheet/1121/AG-12864E-pdf.php'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'display LCD graphic'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Graphics Display 128x64px</td><td>  8b parallel</td><td> 1/64 Duty</td><td> 3.3V or 5V VDD'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> '*AG12864E*'</td></tr></table>]|
 ||||

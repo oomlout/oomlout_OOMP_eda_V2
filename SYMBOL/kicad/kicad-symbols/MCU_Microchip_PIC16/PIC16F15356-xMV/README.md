@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUMCHIPPIC16PIC16F15356XMV > PIC16F15356-xMV
+# SZKMCUMCHIPPIC16PIC16F15356XMV > MCU_Microchip_PIC16 : PIC16F15356-xMV
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F15356-xMV
 - Hex ID: SZKMCUMCHIPPIC16PIC16F15356XMV
-- Name: PIC16F15356-xMV
-- Description: PIC16F15356-xMV
+- Name: MCU_Microchip_PIC16 : PIC16F15356-xMV
+- Description: MCU_Microchip_PIC16 : PIC16F15356-xMV
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F15356-xMV](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F15356-xMV)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC16PIC16F15356XMV](http://oom.lt/SZKMCUMCHIPPIC16PIC16F15356XMV)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PIC16F15356-xMV|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F15356-xMV|
 |Hex ID (short code)|hexID|SZKMCUMCHIPPIC16PIC16F15356XMV|
-|name|name|PIC16F15356-xMV|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U?', 'kicadSymbolValue': 'PIC16F15356-xMV', 'kicadSymbolFootprint': 'Package_DFN_QFN:QFN-28-1EP_4x4mm_P0.4mm_EP2.3x2.3mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/PIC16LF15356-75-76-85-86-Data%20Sheet-40001866B.pdf', 'kicadSymbolki_keywords': 'FLASH-Based 8-Bit CMOS Microcontroller Low Power', 'kicadSymbolki_description': '16KW FLASH, 2048B SRAM, QFN-28(4x4mm)', 'kicadSymbolki_fp_filters': 'QFN*4x4mm*'}]|
+|name|name|MCU_Microchip_PIC16 : PIC16F15356-xMV|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U?'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'PIC16F15356-xMV'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>QFN-28-1EP_4x4mm_P0.4mm_EP2.3x2.3mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/PIC16LF15356-75-76-85-86-Data%20Sheet-40001866B.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'FLASH-Based 8-Bit CMOS Microcontroller Low Power'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '16KW FLASH</td><td> 2048B SRAM</td><td> QFN-28(4x4mm)'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'QFN*4x4mm*'</td></tr></table>]|
 ||||

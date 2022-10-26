@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKGRAPHICSYMRADIOWAVESSLL > SYM_Radio_Waves_Small
+# SZKGRAPHICSYMRADIOWAVESSLL > Graphic : SYM_Radio_Waves_Small
 
 - ID: SYMBOL-kicad-kicad-symbols-Graphic-SYM_Radio_Waves_Small
 - Hex ID: SZKGRAPHICSYMRADIOWAVESSLL
-- Name: SYM_Radio_Waves_Small
-- Description: SYM_Radio_Waves_Small
+- Name: Graphic : SYM_Radio_Waves_Small
+- Description: Graphic : SYM_Radio_Waves_Small
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Graphic-SYM_Radio_Waves_Small](http://oom.lt/SYMBOL-kicad-kicad-symbols-Graphic-SYM_Radio_Waves_Small)
 - Short Link: [http://oom.lt/SZKGRAPHICSYMRADIOWAVESSLL](http://oom.lt/SZKGRAPHICSYMRADIOWAVESSLL)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SYM_Radio_Waves_Small|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Graphic-SYM_Radio_Waves_Small|
 |Hex ID (short code)|hexID|SZKGRAPHICSYMRADIOWAVESSLL|
-|name|name|SYM_Radio_Waves_Small|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': '#SYM', 'kicadSymbolValue': 'SYM_Radio_Waves_Small', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'symbol logo radio waves warning radiation', 'kicadSymbolki_description': 'Radio waves warning symbol, small'}]|
+|name|name|Graphic : SYM_Radio_Waves_Small|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> '#SYM'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'SYM_Radio_Waves_Small'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'symbol logo radio waves warning radiation'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Radio waves warning symbol</td><td> small'</td></tr></table>]|
 ||||

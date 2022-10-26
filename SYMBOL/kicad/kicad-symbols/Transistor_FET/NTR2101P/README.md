@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORFETNTR211P > NTR2101P
+# SZKTRANSISTORFETNTR211P > Transistor_FET : NTR2101P
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-NTR2101P
 - Hex ID: SZKTRANSISTORFETNTR211P
-- Name: NTR2101P
-- Description: NTR2101P
+- Name: Transistor_FET : NTR2101P
+- Description: Transistor_FET : NTR2101P
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-NTR2101P](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-NTR2101P)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETNTR211P](http://oom.lt/SZKTRANSISTORFETNTR211P)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|NTR2101P|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-NTR2101P|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETNTR211P|
-|name|name|NTR2101P|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TP0610T', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'NTR2101P', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23', 'kicadSymbolDatasheet': 'http://www.onsemi.com/pub/Collateral/NTR2101P-D.PDF', 'kicadSymbolki_keywords': 'P-Channel MOSFET', 'kicadSymbolki_description': '-3.7A Id, -8V Vds, P-Channel MOSFET, SOT-23', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
+|name|name|Transistor_FET : NTR2101P|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'TP0610T'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'NTR2101P'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-23'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.onsemi.com/pub/Collateral/NTR2101P-D.PDF'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'P-Channel MOSFET'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '-3.7A Id</td><td> -8V Vds</td><td> P-Channel MOSFET</td><td> SOT-23'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23*'</td></tr></table>]|
 ||||

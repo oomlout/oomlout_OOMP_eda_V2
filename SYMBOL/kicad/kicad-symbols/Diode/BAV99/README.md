@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDIODEBAV99 > BAV99
+# SZKDIODEBAV99 > Diode : BAV99
 
 - ID: SYMBOL-kicad-kicad-symbols-Diode-BAV99
 - Hex ID: SZKDIODEBAV99
-- Name: BAV99
-- Description: BAV99
+- Name: Diode : BAV99
+- Description: Diode : BAV99
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BAV99](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BAV99)
 - Short Link: [http://oom.lt/SZKDIODEBAV99](http://oom.lt/SZKDIODEBAV99)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BAV99|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-BAV99|
 |Hex ID (short code)|hexID|SZKDIODEBAV99|
-|name|name|BAV99|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'BAV99', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23', 'kicadSymbolDatasheet': 'https://assets.nexperia.com/documents/data-sheet/BAV99_SER.pdf', 'kicadSymbolki_keywords': 'diode', 'kicadSymbolki_description': 'BAV99 High-speed switching diodes, SOT-23', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
+|name|name|Diode : BAV99|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'BAV99'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-23'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//assets.nexperia.com/documents/data-sheet/BAV99_SER.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'diode'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'BAV99 High-speed switching diodes</td><td> SOT-23'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23*'</td></tr></table>]|
 ||||

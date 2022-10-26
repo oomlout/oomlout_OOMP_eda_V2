@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-TQFN-24-1EP_4x4mm_P0.5mm_EP2.8x2.8mm_PullBack_ThermalVias|
 |Hex ID (short code)|hexID|FZKDFNTQFN241EP4X4P5EP28X28PULLBACKTHERMALVIAS|
 |name|name|Package_DFN_QFN : TQFN-24-1EP_4x4mm_P0.5mm_EP2.8x2.8mm_PullBack_ThermalVias|
-|Footprint Kicad|footprintKicadDetails|{'name': 'TQFN-24-1EP_4x4mm_P0.5mm_EP2.8x2.8mm_PullBack_ThermalVias', 'description': 'TQFN, 24 Pin (https://ams.com/documents/20143/36005/AS1115_DS000206_1-00.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py', 'tags': 'TQFN NoLead', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/TQFN-24-1EP_4x4mm_P0.5mm_EP2.8x2.8mm_PullBack.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'TQFN-24-1EP_4x4mm_P0.5mm_EP2.8x2.8mm_PullBack_ThermalVias'</td><td> 'description'</td></tr><tr><td> 'TQFN</td><td> 24 Pin (https</td></tr><tr><td>//ams.com/documents/20143/36005/AS1115_DS000206_1-00.pdf)</td><td> generated with kicad-footprint-generator ipc_noLead_generator.py'</td><td> 'tags'</td></tr><tr><td> 'TQFN NoLead'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DFN_QFN.3dshapes/TQFN-24-1EP_4x4mm_P0.5mm_EP2.8x2.8mm_PullBack.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

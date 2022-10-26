@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-TO-263-2_TabPin1|
 |Hex ID (short code)|hexID|FZKPACKAGETOSOTSMTO2632TABPIN1|
 |name|name|Package_TO_SOT_SMD : TO-263-2_TabPin1|
-|Footprint Kicad|footprintKicadDetails|{'name': 'TO-263-2_TabPin1', 'description': 'TO-263 / D2PAK / DDPAK SMD package, tab to pin 1, https://www.wolfspeed.com/media/downloads/137/C3D06060G.pdf', 'tags': 'D2PAK DDPAK TO-263 D2PAK-3 TO-263-3 SOT-404 diode', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/TO-263-2.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'TO-263-2_TabPin1'</td><td> 'description'</td></tr><tr><td> 'TO-263 / D2PAK / DDPAK SMD package</td><td> tab to pin 1</td><td> https</td></tr><tr><td>//www.wolfspeed.com/media/downloads/137/C3D06060G.pdf'</td><td> 'tags'</td></tr><tr><td> 'D2PAK DDPAK TO-263 D2PAK-3 TO-263-3 SOT-404 diode'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_TO_SOT_SMD.3dshapes/TO-263-2.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

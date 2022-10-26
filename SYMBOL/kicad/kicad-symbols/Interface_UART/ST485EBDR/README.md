@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKINTERFACEUARTST485EBDR > ST485EBDR
+# SZKINTERFACEUARTST485EBDR > Interface_UART : ST485EBDR
 
 - ID: SYMBOL-kicad-kicad-symbols-Interface_UART-ST485EBDR
 - Hex ID: SZKINTERFACEUARTST485EBDR
-- Name: ST485EBDR
-- Description: ST485EBDR
+- Name: Interface_UART : ST485EBDR
+- Description: Interface_UART : ST485EBDR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-ST485EBDR](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-ST485EBDR)
 - Short Link: [http://oom.lt/SZKINTERFACEUARTST485EBDR](http://oom.lt/SZKINTERFACEUARTST485EBDR)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ST485EBDR|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_UART-ST485EBDR|
 |Hex ID (short code)|hexID|SZKINTERFACEUARTST485EBDR|
-|name|name|ST485EBDR|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ST485EBDR', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm', 'kicadSymbolDatasheet': 'http://www.st.com/resource/en/datasheet/st485eb.pdf', 'kicadSymbolki_keywords': 'Half duplex RS-485/RS-422, 5 Mbps, ±15kV  256 transceiver bus', 'kicadSymbolki_description': 'Half duplex RS-485/RS-422, 5 Mbps, ±15kV electro-static discharge (ESD) protection, no slew-rate, with low-power shutdown, with receiver/driver enable, 256 transceiver on the bus - 40 to 85 °C, SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm*'}]|
+|name|name|Interface_UART : ST485EBDR|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ST485EBDR'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-8_3.9x4.9mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.st.com/resource/en/datasheet/st485eb.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Half duplex RS-485/RS-422</td><td> 5 Mbps</td><td> ±15kV  256 transceiver bus'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Half duplex RS-485/RS-422</td><td> 5 Mbps</td><td> ±15kV electro-static discharge (ESD) protection</td><td> no slew-rate</td><td> with low-power shutdown</td><td> with receiver/driver enable</td><td> 256 transceiver on the bus - 40 to 85 °C</td><td> SOIC-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*3.9x4.9mm*P1.27mm*'</td></tr></table>]|
 ||||

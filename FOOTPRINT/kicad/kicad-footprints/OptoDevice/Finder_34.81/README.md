@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-OptoDevice-Finder_34.81|
 |Hex ID (short code)|hexID|FZKOPFINDER3481|
 |name|name|OptoDevice : Finder_34.81|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Finder_34.81', 'description': 'Relay SPST, Finder Type 34.81 (opto relays/coupler), vertical/standing form, see https://gfinder.findernet.com/public/attachments/34/EN/S34USAEN.pdf', 'tags': 'Relay SPST Finder', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/Finder_34.81.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Finder_34.81'</td><td> 'description'</td></tr><tr><td> 'Relay SPST</td><td> Finder Type 34.81 (opto relays/coupler)</td><td> vertical/standing form</td><td> see https</td></tr><tr><td>//gfinder.findernet.com/public/attachments/34/EN/S34USAEN.pdf'</td><td> 'tags'</td></tr><tr><td> 'Relay SPST Finder'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/OptoDevice.3dshapes/Finder_34.81.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

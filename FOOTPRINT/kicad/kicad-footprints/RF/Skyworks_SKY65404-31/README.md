@@ -29,5 +29,5 @@ NO IMAGE
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-RF-Skyworks_SKY65404-31|
 |Hex ID (short code)|hexID|FZKRFSKYWORKSSKY654431|
 |name|name|RF : Skyworks_SKY65404-31|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Skyworks_SKY65404-31', 'description': 'http://www.skyworksinc.com/uploads/documents/SKY65404_31_201512K.pdf', 'tags': 'Skyworks', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/RF.3dshapes/Skyworks_SKY65404-31.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Skyworks_SKY65404-31'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//www.skyworksinc.com/uploads/documents/SKY65404_31_201512K.pdf'</td><td> 'tags'</td></tr><tr><td> 'Skyworks'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/RF.3dshapes/Skyworks_SKY65404-31.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

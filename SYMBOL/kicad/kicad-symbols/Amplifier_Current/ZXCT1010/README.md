@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKAMPLIFIERCURRENTZXCT11 > ZXCT1010
+# SZKAMPLIFIERCURRENTZXCT11 > Amplifier_Current : ZXCT1010
 
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Current-ZXCT1010
 - Hex ID: SZKAMPLIFIERCURRENTZXCT11
-- Name: ZXCT1010
-- Description: ZXCT1010
+- Name: Amplifier_Current : ZXCT1010
+- Description: Amplifier_Current : ZXCT1010
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Current-ZXCT1010](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Current-ZXCT1010)
 - Short Link: [http://oom.lt/SZKAMPLIFIERCURRENTZXCT11](http://oom.lt/SZKAMPLIFIERCURRENTZXCT11)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ZXCT1010|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Current-ZXCT1010|
 |Hex ID (short code)|hexID|SZKAMPLIFIERCURRENTZXCT11|
-|name|name|ZXCT1010|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ZXCT1010', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-5', 'kicadSymbolDatasheet': 'https://www.diodes.com/assets/Datasheets/ZXCT1010.pdf', 'kicadSymbolki_keywords': 'High side current monitor shunt', 'kicadSymbolki_description': 'Enhanced High-Side Current Monitors, SOT-23-5', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
+|name|name|Amplifier_Current : ZXCT1010|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ZXCT1010'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-23-5'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.diodes.com/assets/Datasheets/ZXCT1010.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'High side current monitor shunt'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Enhanced High-Side Current Monitors</td><td> SOT-23-5'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23*'</td></tr></table>]|
 ||||

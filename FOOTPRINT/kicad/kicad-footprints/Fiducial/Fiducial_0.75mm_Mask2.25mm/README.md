@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Fiducial-Fiducial_0.75mm_Mask2.25mm|
 |Hex ID (short code)|hexID|FZKFIDFID75MASK225|
 |name|name|Fiducial : Fiducial_0.75mm_Mask2.25mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Fiducial_0.75mm_Mask2.25mm', 'description': 'Circular Fiducial, 0.75mm bare copper, 2.25mm soldermask opening', 'tags': 'fiducial', 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Fiducial_0.75mm_Mask2.25mm'</td><td> 'description'</td></tr><tr><td> 'Circular Fiducial</td><td> 0.75mm bare copper</td><td> 2.25mm soldermask opening'</td><td> 'tags'</td></tr><tr><td> 'fiducial'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

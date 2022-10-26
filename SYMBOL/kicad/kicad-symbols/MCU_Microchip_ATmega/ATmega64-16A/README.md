@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUMCHIPATMEGAATMEGA6416A > ATmega64-16A
+# SZKMCUMCHIPATMEGAATMEGA6416A > MCU_Microchip_ATmega : ATmega64-16A
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega64-16A
 - Hex ID: SZKMCUMCHIPATMEGAATMEGA6416A
-- Name: ATmega64-16A
-- Description: ATmega64-16A
+- Name: MCU_Microchip_ATmega : ATmega64-16A
+- Description: MCU_Microchip_ATmega : ATmega64-16A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega64-16A](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega64-16A)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATMEGAATMEGA6416A](http://oom.lt/SZKMCUMCHIPATMEGAATMEGA6416A)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ATmega64-16A|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega64-16A|
 |Hex ID (short code)|hexID|SZKMCUMCHIPATMEGAATMEGA6416A|
-|name|name|ATmega64-16A|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ATmega64L-8A', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ATmega64-16A', 'kicadSymbolFootprint': 'Package_QFP:TQFP-64_14x14mm_P0.8mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/atmel-2490-8-bit-avr-microcontroller-atmega64-l_datasheet.pdf', 'kicadSymbolki_keywords': 'AVR 8bit Microcontroller MegaAVR', 'kicadSymbolki_description': '16MHz, 64kB Flash, 4kB SRAM, 2kB EEPROM, TQFP-64', 'kicadSymbolki_fp_filters': 'TQFP*14x14mm*P0.8mm*'}]|
+|name|name|MCU_Microchip_ATmega : ATmega64-16A|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'ATmega64L-8A'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ATmega64-16A'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_QFP</td></tr><tr><td>TQFP-64_14x14mm_P0.8mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/atmel-2490-8-bit-avr-microcontroller-atmega64-l_datasheet.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'AVR 8bit Microcontroller MegaAVR'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '16MHz</td><td> 64kB Flash</td><td> 4kB SRAM</td><td> 2kB EEPROM</td><td> TQFP-64'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TQFP*14x14mm*P0.8mm*'</td></tr></table>]|
 ||||

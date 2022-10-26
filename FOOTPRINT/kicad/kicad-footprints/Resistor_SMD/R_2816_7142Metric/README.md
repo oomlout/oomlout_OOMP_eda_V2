@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_2816_7142Metric|
 |Hex ID (short code)|hexID|FZKRESISTORSMR28167142METRIC|
 |name|name|Resistor_SMD : R_2816_7142Metric|
-|Footprint Kicad|footprintKicadDetails|{'name': 'R_2816_7142Metric', 'description': 'Resistor SMD 2816 (7142 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size from: https://www.vishay.com/docs/30100/wsl.pdf), generated with kicad-footprint-generator', 'tags': 'resistor', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_2816_7142Metric.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'R_2816_7142Metric'</td><td> 'description'</td></tr><tr><td> 'Resistor SMD 2816 (7142 Metric)</td><td> square (rectangular) end terminal</td><td> IPC_7351 nominal</td><td> (Body size from</td></tr><tr><td> https</td></tr><tr><td>//www.vishay.com/docs/30100/wsl.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'resistor'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Resistor_SMD.3dshapes/R_2816_7142Metric.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

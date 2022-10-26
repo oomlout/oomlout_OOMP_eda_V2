@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORFETIRF6621 > IRF6621
+# SZKTRANSISTORFETIRF6621 > Transistor_FET : IRF6621
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF6621
 - Hex ID: SZKTRANSISTORFETIRF6621
-- Name: IRF6621
-- Description: IRF6621
+- Name: Transistor_FET : IRF6621
+- Description: Transistor_FET : IRF6621
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF6621](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF6621)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETIRF6621](http://oom.lt/SZKTRANSISTORFETIRF6621)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IRF6621|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF6621|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETIRF6621|
-|name|name|IRF6621|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BSF030NE2LQ', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'IRF6621', 'kicadSymbolFootprint': 'Package_DirectFET:DirectFET_SQ', 'kicadSymbolDatasheet': 'https://www.infineon.com/dgdl/irf6621pbf.pdf?fileId=5546d462533600a4015355e8923b1a27', 'kicadSymbolki_keywords': 'N-Channel MOSFET', 'kicadSymbolki_description': '12A Id, 30V Vds, 9.1mOhm Rds, N-Channel MOSFET, DirectFET SQ', 'kicadSymbolki_fp_filters': 'DirectFET*SQ*'}]|
+|name|name|Transistor_FET : IRF6621|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'BSF030NE2LQ'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'IRF6621'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DirectFET</td></tr><tr><td>DirectFET_SQ'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.infineon.com/dgdl/irf6621pbf.pdf?fileId=5546d462533600a4015355e8923b1a27'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'N-Channel MOSFET'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '12A Id</td><td> 30V Vds</td><td> 9.1mOhm Rds</td><td> N-Channel MOSFET</td><td> DirectFET SQ'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DirectFET*SQ*'</td></tr></table>]|
 ||||

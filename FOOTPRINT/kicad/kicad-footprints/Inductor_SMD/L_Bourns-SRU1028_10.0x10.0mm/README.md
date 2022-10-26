@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Bourns-SRU1028_10.0x10.0mm|
 |Hex ID (short code)|hexID|FZKINDUCTORSMLBOURNSSRU1281X1|
 |name|name|Inductor_SMD : L_Bourns-SRU1028_10.0x10.0mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'L_Bourns-SRU1028_10.0x10.0mm', 'description': 'Bourns SRU1028 series SMD inductor, https://www.bourns.com/docs/Product-Datasheets/SRU1028.pdf', 'tags': 'Bourns SRU1028 SMD inductor', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Bourns-SRU1028_10.0x10.0mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'L_Bourns-SRU1028_10.0x10.0mm'</td><td> 'description'</td></tr><tr><td> 'Bourns SRU1028 series SMD inductor</td><td> https</td></tr><tr><td>//www.bourns.com/docs/Product-Datasheets/SRU1028.pdf'</td><td> 'tags'</td></tr><tr><td> 'Bourns SRU1028 SMD inductor'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Inductor_SMD.3dshapes/L_Bourns-SRU1028_10.0x10.0mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKAMPLIFIERAUDIOLM4752TS > LM4752TS
+# SZKAMPLIFIERAUDIOLM4752TS > Amplifier_Audio : LM4752TS
 
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Audio-LM4752TS
 - Hex ID: SZKAMPLIFIERAUDIOLM4752TS
-- Name: LM4752TS
-- Description: LM4752TS
+- Name: Amplifier_Audio : LM4752TS
+- Description: Amplifier_Audio : LM4752TS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-LM4752TS](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-LM4752TS)
 - Short Link: [http://oom.lt/SZKAMPLIFIERAUDIOLM4752TS](http://oom.lt/SZKAMPLIFIERAUDIOLM4752TS)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM4752TS|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Audio-LM4752TS|
 |Hex ID (short code)|hexID|SZKAMPLIFIERAUDIOLM4752TS|
-|name|name|LM4752TS|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM4752TS', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TO-263-7_TabPin4', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lm4752.pdf', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'audio amplifier 2ch', 'kicadSymbolki_description': 'Stereo 11W Audio Power Amplifier, TO-263-7', 'kicadSymbolki_fp_filters': 'TO?263*TabPin4*'}]|
+|name|name|Amplifier_Audio : LM4752TS|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LM4752TS'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>TO-263-7_TabPin4'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/lm4752.pdf'</td><td> 'kicadSymbolki_locked'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'audio amplifier 2ch'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Stereo 11W Audio Power Amplifier</td><td> TO-263-7'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TO?263*TabPin4*'</td></tr></table>]|
 ||||

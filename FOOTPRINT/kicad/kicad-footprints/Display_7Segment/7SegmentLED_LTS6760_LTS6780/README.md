@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Display_7Segment-7SegmentLED_LTS6760_LTS6780|
 |Hex ID (short code)|hexID|FZKDI7S7SLLTS676LTS678|
 |name|name|Display_7Segment : 7SegmentLED_LTS6760_LTS6780|
-|Footprint Kicad|footprintKicadDetails|{'name': '7SegmentLED_LTS6760_LTS6780', 'description': '7-Segment Display, LTS67x0, http://optoelectronics.liteon.com/upload/download/DS30-2001-355/S6760jd.pdf', 'tags': '7Segment LED LTS6760 LTS6780', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Display_7Segment.3dshapes/7SegmentLED_LTS6760_LTS6780.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> '7SegmentLED_LTS6760_LTS6780'</td><td> 'description'</td></tr><tr><td> '7-Segment Display</td><td> LTS67x0</td><td> http</td></tr><tr><td>//optoelectronics.liteon.com/upload/download/DS30-2001-355/S6760jd.pdf'</td><td> 'tags'</td></tr><tr><td> '7Segment LED LTS6760 LTS6780'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Display_7Segment.3dshapes/7SegmentLED_LTS6760_LTS6780.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

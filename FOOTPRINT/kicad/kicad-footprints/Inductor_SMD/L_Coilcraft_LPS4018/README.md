@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Coilcraft_LPS4018|
 |Hex ID (short code)|hexID|FZKINDUCTORSMLCOILCRAFTLPS418|
 |name|name|Inductor_SMD : L_Coilcraft_LPS4018|
-|Footprint Kicad|footprintKicadDetails|{'name': 'L_Coilcraft_LPS4018', 'description': 'SMD Inductor Coilcraft LPS4018 https://www.coilcraft.com/pdfs/lps4018.pdf', 'tags': 'L Coilcraft LPS4018', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Coilcraft_LPS4018.wrl', 'pins': {'type': 'smd', 'shape': 'custom'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'L_Coilcraft_LPS4018'</td><td> 'description'</td></tr><tr><td> 'SMD Inductor Coilcraft LPS4018 https</td></tr><tr><td>//www.coilcraft.com/pdfs/lps4018.pdf'</td><td> 'tags'</td></tr><tr><td> 'L Coilcraft LPS4018'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Inductor_SMD.3dshapes/L_Coilcraft_LPS4018.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'custom'</td></tr></table></td></tr></table>|
 ||||
 
 

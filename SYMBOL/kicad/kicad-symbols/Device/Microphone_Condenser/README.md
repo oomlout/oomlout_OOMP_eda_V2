@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDEVICEMPHONECONDENSER > Microphone_Condenser
+# SZKDEVICEMPHONECONDENSER > Device : Microphone_Condenser
 
 - ID: SYMBOL-kicad-kicad-symbols-Device-Microphone_Condenser
 - Hex ID: SZKDEVICEMPHONECONDENSER
-- Name: Microphone_Condenser
-- Description: Microphone_Condenser
+- Name: Device : Microphone_Condenser
+- Description: Device : Microphone_Condenser
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Microphone_Condenser](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Microphone_Condenser)
 - Short Link: [http://oom.lt/SZKDEVICEMPHONECONDENSER](http://oom.lt/SZKDEVICEMPHONECONDENSER)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Microphone_Condenser|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-Microphone_Condenser|
 |Hex ID (short code)|hexID|SZKDEVICEMPHONECONDENSER|
-|name|name|Microphone_Condenser|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'MK', 'kicadSymbolValue': 'Microphone_Condenser', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'capacitance condenser microphone', 'kicadSymbolki_description': 'Condenser microphone'}]|
+|name|name|Device : Microphone_Condenser|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'MK'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Microphone_Condenser'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'capacitance condenser microphone'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Condenser microphone'</td></tr></table>]|
 ||||

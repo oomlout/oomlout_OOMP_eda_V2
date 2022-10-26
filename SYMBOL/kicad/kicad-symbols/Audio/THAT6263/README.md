@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKAUDIOTHAT6263 > THAT6263
+# SZKAUDIOTHAT6263 > Audio : THAT6263
 
 - ID: SYMBOL-kicad-kicad-symbols-Audio-THAT6263
 - Hex ID: SZKAUDIOTHAT6263
-- Name: THAT6263
-- Description: THAT6263
+- Name: Audio : THAT6263
+- Description: Audio : THAT6263
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-THAT6263](http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-THAT6263)
 - Short Link: [http://oom.lt/SZKAUDIOTHAT6263](http://oom.lt/SZKAUDIOTHAT6263)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|THAT6263|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Audio-THAT6263|
 |Hex ID (short code)|hexID|SZKAUDIOTHAT6263|
-|name|name|THAT6263|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'THAT6261', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'THAT6263', 'kicadSymbolFootprint': 'Package_DFN_QFN:QFN-48-1EP_7x7mm_P0.5mm_EP5.45x5.45mm', 'kicadSymbolDatasheet': 'http://www.thatcorp.com/datashts/THAT_626x_Datasheet.pdf', 'kicadSymbolki_keywords': 'dual mic preamp', 'kicadSymbolki_description': '2-Channel Low-Noise Programmable-Gain Preamplifier - ADC Driver IC, 3dB Step, QFN-48', 'kicadSymbolki_fp_filters': 'QFN*1EP*7x7mm*P0.5mm*'}]|
+|name|name|Audio : THAT6263|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'THAT6261'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'THAT6263'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>QFN-48-1EP_7x7mm_P0.5mm_EP5.45x5.45mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.thatcorp.com/datashts/THAT_626x_Datasheet.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'dual mic preamp'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '2-Channel Low-Noise Programmable-Gain Preamplifier - ADC Driver IC</td><td> 3dB Step</td><td> QFN-48'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'QFN*1EP*7x7mm*P0.5mm*'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKSENTEMPERATUREMAX31865XAP > MAX31865xAP
+# SZKSENTEMPERATUREMAX31865XAP > Sensor_Temperature : MAX31865xAP
 
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Temperature-MAX31865xAP
 - Hex ID: SZKSENTEMPERATUREMAX31865XAP
-- Name: MAX31865xAP
-- Description: MAX31865xAP
+- Name: Sensor_Temperature : MAX31865xAP
+- Description: Sensor_Temperature : MAX31865xAP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-MAX31865xAP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-MAX31865xAP)
 - Short Link: [http://oom.lt/SZKSENTEMPERATUREMAX31865XAP](http://oom.lt/SZKSENTEMPERATUREMAX31865XAP)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MAX31865xAP|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Temperature-MAX31865xAP|
 |Hex ID (short code)|hexID|SZKSENTEMPERATUREMAX31865XAP|
-|name|name|MAX31865xAP|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MAX31865xAP', 'kicadSymbolFootprint': 'Package_SO:SSOP-20_5.3x7.2mm_P0.65mm', 'kicadSymbolDatasheet': 'https://datasheets.maximintegrated.com/en/ds/MAX31865.pdf', 'kicadSymbolki_keywords': 'RTD SPI Temperature', 'kicadSymbolki_description': 'RTD-to-Digital Converter, SSOP-20', 'kicadSymbolki_fp_filters': 'SSOP*P0.65mm*'}]|
+|name|name|Sensor_Temperature : MAX31865xAP|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MAX31865xAP'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SSOP-20_5.3x7.2mm_P0.65mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//datasheets.maximintegrated.com/en/ds/MAX31865.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'RTD SPI Temperature'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'RTD-to-Digital Converter</td><td> SSOP-20'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SSOP*P0.65mm*'</td></tr></table>]|
 ||||

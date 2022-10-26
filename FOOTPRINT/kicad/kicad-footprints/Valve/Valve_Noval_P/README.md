@@ -29,5 +29,5 @@ NO IMAGE
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Valve-Valve_Noval_P|
 |Hex ID (short code)|hexID|FZKVAVANOVALP|
 |name|name|Valve : Valve_Noval_P|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Valve_Noval_P', 'description': 'Valve NOVAL P', 'tags': 'Valve NOVAL P', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Valve.3dshapes/Valve_Noval_P.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Valve_Noval_P'</td><td> 'description'</td></tr><tr><td> 'Valve NOVAL P'</td><td> 'tags'</td></tr><tr><td> 'Valve NOVAL P'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Valve.3dshapes/Valve_Noval_P.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

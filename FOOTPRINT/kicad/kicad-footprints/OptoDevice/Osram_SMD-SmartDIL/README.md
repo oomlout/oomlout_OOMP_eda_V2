@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-OptoDevice-Osram_SMD-SmartDIL|
 |Hex ID (short code)|hexID|FZKOPOSRAMSMSRTDIL|
 |name|name|OptoDevice : Osram_SMD-SmartDIL|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Osram_SMD-SmartDIL', 'description': 'PhotoDiode, plastic SMD SmatDIL', 'tags': 'PhotoDiode plastic SMD SmatDIL', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/Osram_SMD-SmartDIL.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Osram_SMD-SmartDIL'</td><td> 'description'</td></tr><tr><td> 'PhotoDiode</td><td> plastic SMD SmatDIL'</td><td> 'tags'</td></tr><tr><td> 'PhotoDiode plastic SMD SmatDIL'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/OptoDevice.3dshapes/Osram_SMD-SmartDIL.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

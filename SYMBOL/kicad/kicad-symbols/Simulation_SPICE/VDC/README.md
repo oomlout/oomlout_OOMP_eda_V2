@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKSIMULATIONSPICEVDC > VDC
+# SZKSIMULATIONSPICEVDC > Simulation_SPICE : VDC
 
 - ID: SYMBOL-kicad-kicad-symbols-Simulation_SPICE-VDC
 - Hex ID: SZKSIMULATIONSPICEVDC
-- Name: VDC
-- Description: VDC
+- Name: Simulation_SPICE : VDC
+- Description: Simulation_SPICE : VDC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Simulation_SPICE-VDC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Simulation_SPICE-VDC)
 - Short Link: [http://oom.lt/SZKSIMULATIONSPICEVDC](http://oom.lt/SZKSIMULATIONSPICEVDC)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|VDC|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Simulation_SPICE-VDC|
 |Hex ID (short code)|hexID|SZKSIMULATIONSPICEVDC|
-|name|name|VDC|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'V', 'kicadSymbolValue': 'VDC', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolSpice_Netlist_Enabled': 'Y', 'kicadSymbolSpice_Primitive': 'V', 'kicadSymbolSpice_Model': 'dc(1)', 'kicadSymbolki_keywords': 'simulation', 'kicadSymbolki_description': 'Voltage source, DC'}]|
+|name|name|Simulation_SPICE : VDC|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'V'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'VDC'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolSpice_Netlist_Enabled'</td></tr><tr><td> 'Y'</td><td> 'kicadSymbolSpice_Primitive'</td></tr><tr><td> 'V'</td><td> 'kicadSymbolSpice_Model'</td></tr><tr><td> 'dc(1)'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'simulation'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Voltage source</td><td> DC'</td></tr></table>]|
 ||||

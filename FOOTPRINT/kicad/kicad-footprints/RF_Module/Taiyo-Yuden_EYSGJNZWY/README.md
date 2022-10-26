@@ -29,5 +29,5 @@ NO IMAGE
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-RF_Module-Taiyo-Yuden_EYSGJNZWY|
 |Hex ID (short code)|hexID|FZKRFMOTAIYOYUDENEYSGJNZWY|
 |name|name|RF_Module : Taiyo-Yuden_EYSGJNZWY|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Taiyo-Yuden_EYSGJNZWY', 'description': 'Taiyo Yuden NRF51822 Module Bluetooth https://www.yuden.co.jp/wireless_module/document/datareport2/en/TY_BLE_EYSGJNZ_DataReport_V1_9_20180530E.pdf', 'tags': 'Taiyo Yuden NRF51822 Module Bluetooth ', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/RF_Module.3dshapes/Taiyo-Yuden_EYSGJNZWY.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Taiyo-Yuden_EYSGJNZWY'</td><td> 'description'</td></tr><tr><td> 'Taiyo Yuden NRF51822 Module Bluetooth https</td></tr><tr><td>//www.yuden.co.jp/wireless_module/document/datareport2/en/TY_BLE_EYSGJNZ_DataReport_V1_9_20180530E.pdf'</td><td> 'tags'</td></tr><tr><td> 'Taiyo Yuden NRF51822 Module Bluetooth '</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/RF_Module.3dshapes/Taiyo-Yuden_EYSGJNZWY.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

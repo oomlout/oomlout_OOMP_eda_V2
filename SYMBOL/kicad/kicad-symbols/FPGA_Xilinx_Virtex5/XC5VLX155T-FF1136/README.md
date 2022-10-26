@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKFPGAXILINXVIRTEX5XC5VLX155TFF1136 > XC5VLX155T-FF1136
+# SZKFPGAXILINXVIRTEX5XC5VLX155TFF1136 > FPGA_Xilinx_Virtex5 : XC5VLX155T-FF1136
 
 - ID: SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Virtex5-XC5VLX155T-FF1136
 - Hex ID: SZKFPGAXILINXVIRTEX5XC5VLX155TFF1136
-- Name: XC5VLX155T-FF1136
-- Description: XC5VLX155T-FF1136
+- Name: FPGA_Xilinx_Virtex5 : XC5VLX155T-FF1136
+- Description: FPGA_Xilinx_Virtex5 : XC5VLX155T-FF1136
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Virtex5-XC5VLX155T-FF1136](http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Virtex5-XC5VLX155T-FF1136)
 - Short Link: [http://oom.lt/SZKFPGAXILINXVIRTEX5XC5VLX155TFF1136](http://oom.lt/SZKFPGAXILINXVIRTEX5XC5VLX155TFF1136)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|XC5VLX155T-FF1136|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Virtex5-XC5VLX155T-FF1136|
 |Hex ID (short code)|hexID|SZKFPGAXILINXVIRTEX5XC5VLX155TFF1136|
-|name|name|XC5VLX155T-FF1136|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'XC5VLX155T-FF1136', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'FPGA', 'kicadSymbolki_description': 'Virtex 5 LXT 155 XC5VLX155T-FF1136'}]|
+|name|name|FPGA_Xilinx_Virtex5 : XC5VLX155T-FF1136|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'XC5VLX155T-FF1136'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_locked'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'FPGA'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Virtex 5 LXT 155 XC5VLX155T-FF1136'</td></tr></table>]|
 ||||

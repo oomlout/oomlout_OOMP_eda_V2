@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SON-Texas_S-PWSON-N10|
 |Hex ID (short code)|hexID|FZKSONTEXASSPWSONN1|
 |name|name|Package_SON : Texas_S-PWSON-N10|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Texas_S-PWSON-N10', 'description': '3x3mm Body, 0.5mm Pitch, S-PWSON-N10, DSC, http://www.ti.com/lit/ds/symlink/tps63060.pdf', 'tags': '0.5 S-PWSON-N10 DSC', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SON.3dshapes/Texas_S-PWSON-N10.wrl', 'pins': {'type': 'smd', 'shape': 'oval'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Texas_S-PWSON-N10'</td><td> 'description'</td></tr><tr><td> '3x3mm Body</td><td> 0.5mm Pitch</td><td> S-PWSON-N10</td><td> DSC</td><td> http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/tps63060.pdf'</td><td> 'tags'</td></tr><tr><td> '0.5 S-PWSON-N10 DSC'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_SON.3dshapes/Texas_S-PWSON-N10.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'oval'</td></tr></table></td></tr></table>|
 ||||
 
 

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKCOMPARATORMCP6561R > MCP6561R
+# SZKCOMPARATORMCP6561R > Comparator : MCP6561R
 
 - ID: SYMBOL-kicad-kicad-symbols-Comparator-MCP6561R
 - Hex ID: SZKCOMPARATORMCP6561R
-- Name: MCP6561R
-- Description: MCP6561R
+- Name: Comparator : MCP6561R
+- Description: Comparator : MCP6561R
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Comparator-MCP6561R](http://oom.lt/SYMBOL-kicad-kicad-symbols-Comparator-MCP6561R)
 - Short Link: [http://oom.lt/SZKCOMPARATORMCP6561R](http://oom.lt/SZKCOMPARATORMCP6561R)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MCP6561R|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Comparator-MCP6561R|
 |Hex ID (short code)|hexID|SZKCOMPARATORMCP6561R|
-|name|name|MCP6561R|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MCP6561R', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-5', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/MCP6561-1R-1U-2-4-1.8V-Low-Power-Push-Pull-Output-Comparator-DS20002139E.pdf', 'kicadSymbolki_keywords': 'cmp', 'kicadSymbolki_description': 'Single 1.8V Low-Power Push-Pull Output Comparator, SOT-23-5', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
+|name|name|Comparator : MCP6561R|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MCP6561R'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-23-5'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/MCP6561-1R-1U-2-4-1.8V-Low-Power-Push-Pull-Output-Comparator-DS20002139E.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'cmp'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Single 1.8V Low-Power Push-Pull Output Comparator</td><td> SOT-23-5'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23*'</td></tr></table>]|
 ||||

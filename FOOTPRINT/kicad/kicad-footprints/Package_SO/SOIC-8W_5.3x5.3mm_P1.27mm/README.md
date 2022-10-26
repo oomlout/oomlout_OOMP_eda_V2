@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SO-SOIC-8W_5.3x5.3mm_P1.27mm|
 |Hex ID (short code)|hexID|FZKSOSOIC8W53X53P127|
 |name|name|Package_SO : SOIC-8W_5.3x5.3mm_P1.27mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'SOIC-8W_5.3x5.3mm_P1.27mm', 'description': '8-Lead Plastic Small Outline (SM) - 5.28 mm Body [SOIC] (http://ww1.microchip.com/downloads/en/PackagingSpec/00000049BQ.pdf)', 'tags': 'SOIC 1.27', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/SOIC-8W_5.3x5.3mm_P1.27mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SOIC-8W_5.3x5.3mm_P1.27mm'</td><td> 'description'</td></tr><tr><td> '8-Lead Plastic Small Outline (SM) - 5.28 mm Body [SOIC] (http</td></tr><tr><td>//ww1.microchip.com/downloads/en/PackagingSpec/00000049BQ.pdf)'</td><td> 'tags'</td></tr><tr><td> 'SOIC 1.27'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_SO.3dshapes/SOIC-8W_5.3x5.3mm_P1.27mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

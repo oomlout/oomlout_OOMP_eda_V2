@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKCONITX515SR > ITX0515S-R
+# SZKCONITX515SR > Converter_DCDC : ITX0515S-R
 
 - ID: SYMBOL-kicad-kicad-symbols-Converter_DCDC-ITX0515S-R
 - Hex ID: SZKCONITX515SR
-- Name: ITX0515S-R
-- Description: ITX0515S-R
+- Name: Converter_DCDC : ITX0515S-R
+- Description: Converter_DCDC : ITX0515S-R
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-ITX0515S-R](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-ITX0515S-R)
 - Short Link: [http://oom.lt/SZKCONITX515SR](http://oom.lt/SZKCONITX515SR)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ITX0515S-R|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Converter_DCDC-ITX0515S-R|
 |Hex ID (short code)|hexID|SZKCONITX515SR|
-|name|name|ITX0515S-R|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ITX0505S-R', 'kicadSymbolReference': 'PS', 'kicadSymbolValue': 'ITX0515S-R', 'kicadSymbolFootprint': 'Converter_DCDC:Converter_DCDC_XP_POWER-ITxxxxxS_THT', 'kicadSymbolDatasheet': 'https://www.xppower.com/pdfs/SF_ITX.pdf', 'kicadSymbolki_keywords': 'XP_POWER DC/DC isolated Converter module', 'kicadSymbolki_description': 'XP Power 6W, 1000 VDC Isolated DC/DC Converter Module, Remote Control, Fully Regulated Dual Output Voltage ±15V, ±200mA, 5V Input Voltage, SIP', 'kicadSymbolki_fp_filters': '*XP?POWER?ITxxxxx*'}]|
+|name|name|Converter_DCDC : ITX0515S-R|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'ITX0505S-R'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'PS'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ITX0515S-R'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Converter_DCDC</td></tr><tr><td>Converter_DCDC_XP_POWER-ITxxxxxS_THT'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.xppower.com/pdfs/SF_ITX.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'XP_POWER DC/DC isolated Converter module'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'XP Power 6W</td><td> 1000 VDC Isolated DC/DC Converter Module</td><td> Remote Control</td><td> Fully Regulated Dual Output Voltage ±15V</td><td> ±200mA</td><td> 5V Input Voltage</td><td> SIP'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> '*XP?POWER?ITxxxxx*'</td></tr></table>]|
 ||||

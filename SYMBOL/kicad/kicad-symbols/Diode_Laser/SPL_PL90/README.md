@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDIODELASERSPLPL9 > SPL_PL90
+# SZKDIODELASERSPLPL9 > Diode_Laser : SPL_PL90
 
 - ID: SYMBOL-kicad-kicad-symbols-Diode_Laser-SPL_PL90
 - Hex ID: SZKDIODELASERSPLPL9
-- Name: SPL_PL90
-- Description: SPL_PL90
+- Name: Diode_Laser : SPL_PL90
+- Description: Diode_Laser : SPL_PL90
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Laser-SPL_PL90](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Laser-SPL_PL90)
 - Short Link: [http://oom.lt/SZKDIODELASERSPLPL9](http://oom.lt/SZKDIODELASERSPLPL9)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SPL_PL90|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode_Laser-SPL_PL90|
 |Hex ID (short code)|hexID|SZKDIODELASERSPLPL9|
-|name|name|SPL_PL90|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'LD', 'kicadSymbolValue': 'SPL_PL90', 'kicadSymbolFootprint': 'LED_THT:LED_D5.0mm', 'kicadSymbolDatasheet': 'http://www.osram-os.com/Graphics/XPic0/00194565_0.pdf/SPL%20PL90.pdf', 'kicadSymbolki_keywords': 'opto laserdiode', 'kicadSymbolki_description': 'Pulsed Laser Diode in Plastic Package 25W Peak Power', 'kicadSymbolki_fp_filters': 'LED*5.0mm*'}]|
+|name|name|Diode_Laser : SPL_PL90|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'LD'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'SPL_PL90'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'LED_THT</td></tr><tr><td>LED_D5.0mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.osram-os.com/Graphics/XPic0/00194565_0.pdf/SPL%20PL90.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'opto laserdiode'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Pulsed Laser Diode in Plastic Package 25W Peak Power'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'LED*5.0mm*'</td></tr></table>]|
 ||||

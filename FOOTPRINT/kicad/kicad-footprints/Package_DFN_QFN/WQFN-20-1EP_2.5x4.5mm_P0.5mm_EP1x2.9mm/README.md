@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-WQFN-20-1EP_2.5x4.5mm_P0.5mm_EP1x2.9mm|
 |Hex ID (short code)|hexID|FZKDFNWQFN21EP25X45P5EP1X29|
 |name|name|Package_DFN_QFN : WQFN-20-1EP_2.5x4.5mm_P0.5mm_EP1x2.9mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'WQFN-20-1EP_2.5x4.5mm_P0.5mm_EP1x2.9mm', 'description': 'http://www.onsemi.com/pub/Collateral/510CD.PDF', 'tags': 'WQFN-20 4.5mm 2.5mm 0.5mm', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/WQFN-20-1EP_2.5x4.5mm_P0.5mm_EP1x2.9mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'WQFN-20-1EP_2.5x4.5mm_P0.5mm_EP1x2.9mm'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//www.onsemi.com/pub/Collateral/510CD.PDF'</td><td> 'tags'</td></tr><tr><td> 'WQFN-20 4.5mm 2.5mm 0.5mm'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DFN_QFN.3dshapes/WQFN-20-1EP_2.5x4.5mm_P0.5mm_EP1x2.9mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-NetTie-NetTie-3_THT_Pad1.0mm|
 |Hex ID (short code)|hexID|FZKNTNT3THTPAD1|
 |name|name|NetTie : NetTie-3_THT_Pad1.0mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'NetTie-3_THT_Pad1.0mm', 'description': 'Net tie, 3 pin, 1.0mm round THT pads', 'tags': 'net tie', 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'NetTie-3_THT_Pad1.0mm'</td><td> 'description'</td></tr><tr><td> 'Net tie</td><td> 3 pin</td><td> 1.0mm round THT pads'</td><td> 'tags'</td></tr><tr><td> 'net tie'</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

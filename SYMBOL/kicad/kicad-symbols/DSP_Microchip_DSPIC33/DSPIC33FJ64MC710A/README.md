@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDSPMCHIPDSPIC33DSPIC33FJ64MC71A > DSPIC33FJ64MC710A
+# SZKDSPMCHIPDSPIC33DSPIC33FJ64MC71A > DSP_Microchip_DSPIC33 : DSPIC33FJ64MC710A
 
 - ID: SYMBOL-kicad-kicad-symbols-DSP_Microchip_DSPIC33-DSPIC33FJ64MC710A
 - Hex ID: SZKDSPMCHIPDSPIC33DSPIC33FJ64MC71A
-- Name: DSPIC33FJ64MC710A
-- Description: DSPIC33FJ64MC710A
+- Name: DSP_Microchip_DSPIC33 : DSPIC33FJ64MC710A
+- Description: DSP_Microchip_DSPIC33 : DSPIC33FJ64MC710A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-DSP_Microchip_DSPIC33-DSPIC33FJ64MC710A](http://oom.lt/SYMBOL-kicad-kicad-symbols-DSP_Microchip_DSPIC33-DSPIC33FJ64MC710A)
 - Short Link: [http://oom.lt/SZKDSPMCHIPDSPIC33DSPIC33FJ64MC71A](http://oom.lt/SZKDSPMCHIPDSPIC33DSPIC33FJ64MC71A)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DSPIC33FJ64MC710A|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-DSP_Microchip_DSPIC33-DSPIC33FJ64MC710A|
 |Hex ID (short code)|hexID|SZKDSPMCHIPDSPIC33DSPIC33FJ64MC71A|
-|name|name|DSPIC33FJ64MC710A|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'DSPIC33FJ256MC710A', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'DSPIC33FJ64MC710A', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/70594C.pdf', 'kicadSymbolki_keywords': '16-bit Digital Signal Controller Microchip dsPIC', 'kicadSymbolki_description': 'High-Performance, 16-bit Digital Signal Controller, 40MIPS, 64k Flash, 16k SRAM, TQFP-100', 'kicadSymbolki_fp_filters': 'TQFP*12x12mm*P0.4mm* TQFP*14x14mm*P0.5mm*'}]|
+|name|name|DSP_Microchip_DSPIC33 : DSPIC33FJ64MC710A|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'DSPIC33FJ256MC710A'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'DSPIC33FJ64MC710A'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/70594C.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> '16-bit Digital Signal Controller Microchip dsPIC'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'High-Performance</td><td> 16-bit Digital Signal Controller</td><td> 40MIPS</td><td> 64k Flash</td><td> 16k SRAM</td><td> TQFP-100'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TQFP*12x12mm*P0.4mm* TQFP*14x14mm*P0.5mm*'</td></tr></table>]|
 ||||

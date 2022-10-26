@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKCONJTE624D3 > JTE0624D03
+# SZKCONJTE624D3 > Converter_DCDC : JTE0624D03
 
 - ID: SYMBOL-kicad-kicad-symbols-Converter_DCDC-JTE0624D03
 - Hex ID: SZKCONJTE624D3
-- Name: JTE0624D03
-- Description: JTE0624D03
+- Name: Converter_DCDC : JTE0624D03
+- Description: Converter_DCDC : JTE0624D03
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-JTE0624D03](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-JTE0624D03)
 - Short Link: [http://oom.lt/SZKCONJTE624D3](http://oom.lt/SZKCONJTE624D3)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|JTE0624D03|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Converter_DCDC-JTE0624D03|
 |Hex ID (short code)|hexID|SZKCONJTE624D3|
-|name|name|JTE0624D03|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'JTE0624D03', 'kicadSymbolFootprint': 'Converter_DCDC:Converter_DCDC_XP_POWER_JTExxxxDxx_THT', 'kicadSymbolDatasheet': 'https://www.xppower.com/Portals/0/pdfs/SF_JTE06.pdf', 'kicadSymbolki_keywords': 'XP_POWER isolated DC/DC Converter module', 'kicadSymbolki_description': 'XP Power 6W Isolated DC/DC Converter Module, Dual Output Voltage ±3.3V, 9-36V Input Voltage', 'kicadSymbolki_fp_filters': '*XP?POWER*JTExxxxDxx*'}]|
+|name|name|Converter_DCDC : JTE0624D03|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'JTE0624D03'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Converter_DCDC</td></tr><tr><td>Converter_DCDC_XP_POWER_JTExxxxDxx_THT'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.xppower.com/Portals/0/pdfs/SF_JTE06.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'XP_POWER isolated DC/DC Converter module'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'XP Power 6W Isolated DC/DC Converter Module</td><td> Dual Output Voltage ±3.3V</td><td> 9-36V Input Voltage'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> '*XP?POWER*JTExxxxDxx*'</td></tr></table>]|
 ||||

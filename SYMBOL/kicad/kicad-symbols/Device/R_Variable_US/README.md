@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDEVICERVARIABLEUS > R_Variable_US
+# SZKDEVICERVARIABLEUS > Device : R_Variable_US
 
 - ID: SYMBOL-kicad-kicad-symbols-Device-R_Variable_US
 - Hex ID: SZKDEVICERVARIABLEUS
-- Name: R_Variable_US
-- Description: R_Variable_US
+- Name: Device : R_Variable_US
+- Description: Device : R_Variable_US
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-R_Variable_US](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-R_Variable_US)
 - Short Link: [http://oom.lt/SZKDEVICERVARIABLEUS](http://oom.lt/SZKDEVICERVARIABLEUS)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|R_Variable_US|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-R_Variable_US|
 |Hex ID (short code)|hexID|SZKDEVICERVARIABLEUS|
-|name|name|R_Variable_US|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'R', 'kicadSymbolValue': 'R_Variable_US', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'R res resistor variable potentiometer rheostat', 'kicadSymbolki_description': 'Variable resistor, US symbol', 'kicadSymbolki_fp_filters': 'R_*'}]|
+|name|name|Device : R_Variable_US|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'R'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'R_Variable_US'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'R res resistor variable potentiometer rheostat'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Variable resistor</td><td> US symbol'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'R_*'</td></tr></table>]|
 ||||

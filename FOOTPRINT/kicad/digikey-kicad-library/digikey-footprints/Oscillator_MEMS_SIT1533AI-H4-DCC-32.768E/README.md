@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Oscillator_MEMS_SIT1533AI-H4-DCC-32.768E|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSOCSMEMSSIT1533AIH4DCC32768E|
 |name|name|digikey-footprints : Oscillator_MEMS_SIT1533AI-H4-DCC-32.768E|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Oscillator_MEMS_SIT1533AI-H4-DCC-32.768E', 'description': 'https://www.sitime.com/products/datasheets/sit1533/SiT1533-datasheet.pdf', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Oscillator_MEMS_SIT1533AI-H4-DCC-32.768E'</td><td> 'description'</td></tr><tr><td> 'https</td></tr><tr><td>//www.sitime.com/products/datasheets/sit1533/SiT1533-datasheet.pdf'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

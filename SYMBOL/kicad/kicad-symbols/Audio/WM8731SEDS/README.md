@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKAUDIOWM8731SEDS > WM8731SEDS
+# SZKAUDIOWM8731SEDS > Audio : WM8731SEDS
 
 - ID: SYMBOL-kicad-kicad-symbols-Audio-WM8731SEDS
 - Hex ID: SZKAUDIOWM8731SEDS
-- Name: WM8731SEDS
-- Description: WM8731SEDS
+- Name: Audio : WM8731SEDS
+- Description: Audio : WM8731SEDS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-WM8731SEDS](http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-WM8731SEDS)
 - Short Link: [http://oom.lt/SZKAUDIOWM8731SEDS](http://oom.lt/SZKAUDIOWM8731SEDS)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|WM8731SEDS|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Audio-WM8731SEDS|
 |Hex ID (short code)|hexID|SZKAUDIOWM8731SEDS|
-|name|name|WM8731SEDS|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'WM8731SEDS', 'kicadSymbolFootprint': 'Package_SO:SSOP-28_5.3x10.2mm_P0.65mm', 'kicadSymbolDatasheet': 'https://statics.cirrus.com/pubs/proDatasheet/WM8731_v4.9.pdf', 'kicadSymbolki_keywords': 'wolfson stereo audio codec adc dac headphone', 'kicadSymbolki_description': 'Portable Internet Audio CODEC with Headphone Driver and Programmable Sample Rates, SSOP-28', 'kicadSymbolki_fp_filters': 'SSOP*5.3x10.2mm*P0.65mm*'}]|
+|name|name|Audio : WM8731SEDS|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'WM8731SEDS'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SSOP-28_5.3x10.2mm_P0.65mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//statics.cirrus.com/pubs/proDatasheet/WM8731_v4.9.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'wolfson stereo audio codec adc dac headphone'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Portable Internet Audio CODEC with Headphone Driver and Programmable Sample Rates</td><td> SSOP-28'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SSOP*5.3x10.2mm*P0.65mm*'</td></tr></table>]|
 ||||

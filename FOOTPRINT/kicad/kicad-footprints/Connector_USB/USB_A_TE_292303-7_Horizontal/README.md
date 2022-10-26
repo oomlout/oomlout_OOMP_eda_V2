@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_A_TE_292303-7_Horizontal|
 |Hex ID (short code)|hexID|FZKCNUUATE292337HORIZONTAL|
 |name|name|Connector_USB : USB_A_TE_292303-7_Horizontal|
-|Footprint Kicad|footprintKicadDetails|{'name': 'USB_A_TE_292303-7_Horizontal', 'description': 'USB type A, Horizontal, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=292303&DocType=Customer+Drawing&DocLang=English', 'tags': 'USB_A Female Connector receptacle', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_USB.3dshapes/USB_A_TE_292303-7_Horizontal.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'USB_A_TE_292303-7_Horizontal'</td><td> 'description'</td></tr><tr><td> 'USB type A</td><td> Horizontal</td><td> https</td></tr><tr><td>//www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=292303&DocType=Customer+Drawing&DocLang=English'</td><td> 'tags'</td></tr><tr><td> 'USB_A Female Connector receptacle'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_USB.3dshapes/USB_A_TE_292303-7_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

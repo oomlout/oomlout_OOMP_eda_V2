@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKRELAYSOLIDSTATES116S2 > S116S02
+# SZKRELAYSOLIDSTATES116S2 > Relay_SolidState : S116S02
 
 - ID: SYMBOL-kicad-kicad-symbols-Relay_SolidState-S116S02
 - Hex ID: SZKRELAYSOLIDSTATES116S2
-- Name: S116S02
-- Description: S116S02
+- Name: Relay_SolidState : S116S02
+- Description: Relay_SolidState : S116S02
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay_SolidState-S116S02](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay_SolidState-S116S02)
 - Short Link: [http://oom.lt/SZKRELAYSOLIDSTATES116S2](http://oom.lt/SZKRELAYSOLIDSTATES116S2)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|S116S02|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Relay_SolidState-S116S02|
 |Hex ID (short code)|hexID|SZKRELAYSOLIDSTATES116S2|
-|name|name|S116S02|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'S102S02', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'S116S02', 'kicadSymbolFootprint': 'Package_SIP:SIP4_Sharp-SSR_P7.62mm_Straight', 'kicadSymbolDatasheet': 'http://www.sharp-world.com/products/device/lineup/data/pdf/datasheet/s116s02_e.pdf', 'kicadSymbolki_keywords': 'Opto-Triac Opto Triac Zero Cross Solid State Relays', 'kicadSymbolki_description': 'Zero Cross Opto-Triac, Vdrm 400V, Ift 8mA, IT 16A', 'kicadSymbolki_fp_filters': 'SIP4*Sharp*SSR*P7.62mm*'}]|
+|name|name|Relay_SolidState : S116S02|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'S102S02'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'S116S02'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SIP</td></tr><tr><td>SIP4_Sharp-SSR_P7.62mm_Straight'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.sharp-world.com/products/device/lineup/data/pdf/datasheet/s116s02_e.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Opto-Triac Opto Triac Zero Cross Solid State Relays'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Zero Cross Opto-Triac</td><td> Vdrm 400V</td><td> Ift 8mA</td><td> IT 16A'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SIP4*Sharp*SSR*P7.62mm*'</td></tr></table>]|
 ||||

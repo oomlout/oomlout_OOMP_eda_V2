@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKCNSPEAKONNL4SWITCH > SpeakON_NL4_Switch
+# SZKCNSPEAKONNL4SWITCH > Connector : SpeakON_NL4_Switch
 
 - ID: SYMBOL-kicad-kicad-symbols-Connector-SpeakON_NL4_Switch
 - Hex ID: SZKCNSPEAKONNL4SWITCH
-- Name: SpeakON_NL4_Switch
-- Description: SpeakON_NL4_Switch
+- Name: Connector : SpeakON_NL4_Switch
+- Description: Connector : SpeakON_NL4_Switch
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-SpeakON_NL4_Switch](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-SpeakON_NL4_Switch)
 - Short Link: [http://oom.lt/SZKCNSPEAKONNL4SWITCH](http://oom.lt/SZKCNSPEAKONNL4SWITCH)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SpeakON_NL4_Switch|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-SpeakON_NL4_Switch|
 |Hex ID (short code)|hexID|SZKCNSPEAKONNL4SWITCH|
-|name|name|SpeakON_NL4_Switch|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'SpeakON_NL4_Switch', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.neutrik.com/en/speakon/', 'kicadSymbolki_keywords': 'speakon connector', 'kicadSymbolki_description': 'speakON Connector, Male or Female, NL4, Switched Pins', 'kicadSymbolki_fp_filters': 'Jack*speakON*'}]|
+|name|name|Connector : SpeakON_NL4_Switch|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'J'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'SpeakON_NL4_Switch'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.neutrik.com/en/speakon/'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'speakon connector'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'speakON Connector</td><td> Male or Female</td><td> NL4</td><td> Switched Pins'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Jack*speakON*'</td></tr></table>]|
 ||||

@@ -29,5 +29,5 @@ NO IMAGE
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-RF_Converter-Balun_Johanson_0896BM15A0001|
 |Hex ID (short code)|hexID|FZKRFBALUNJOHANSON896BM15A1|
 |name|name|RF_Converter : Balun_Johanson_0896BM15A0001|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Balun_Johanson_0896BM15A0001', 'description': 'https://www.johansontechnology.com/datasheets/0896BM15A0001/0896BM15A0001.pdf', 'tags': 'balun RF', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/RF_Converter.3dshapes/Balun_Johanson_0896BM15A0001.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Balun_Johanson_0896BM15A0001'</td><td> 'description'</td></tr><tr><td> 'https</td></tr><tr><td>//www.johansontechnology.com/datasheets/0896BM15A0001/0896BM15A0001.pdf'</td><td> 'tags'</td></tr><tr><td> 'balun RF'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/RF_Converter.3dshapes/Balun_Johanson_0896BM15A0001.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

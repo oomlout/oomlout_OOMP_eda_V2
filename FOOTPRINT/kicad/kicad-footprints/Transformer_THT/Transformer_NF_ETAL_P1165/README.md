@@ -29,5 +29,5 @@ NO IMAGE
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Transformer_NF_ETAL_P1165|
 |Hex ID (short code)|hexID|FZKTRTRNFETALP1165|
 |name|name|Transformer_THT : Transformer_NF_ETAL_P1165|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Transformer_NF_ETAL_P1165', 'description': 'NF-Transformer,  ETAL, P1165,http://www.etalgroup.com/sites/default/files/products/P1165_February_2006.pdf', 'tags': 'NF-Transformer ETAL P1165 ', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Transformer_THT.3dshapes/Transformer_NF_ETAL_P1165.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Transformer_NF_ETAL_P1165'</td><td> 'description'</td></tr><tr><td> 'NF-Transformer</td><td>  ETAL</td><td> P1165</td><td>http</td></tr><tr><td>//www.etalgroup.com/sites/default/files/products/P1165_February_2006.pdf'</td><td> 'tags'</td></tr><tr><td> 'NF-Transformer ETAL P1165 '</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Transformer_THT.3dshapes/Transformer_NF_ETAL_P1165.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

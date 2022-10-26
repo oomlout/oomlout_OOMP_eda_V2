@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORFETPSMN5R26YL > PSMN5R2-60YL
+# SZKTRANSISTORFETPSMN5R26YL > Transistor_FET : PSMN5R2-60YL
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-PSMN5R2-60YL
 - Hex ID: SZKTRANSISTORFETPSMN5R26YL
-- Name: PSMN5R2-60YL
-- Description: PSMN5R2-60YL
+- Name: Transistor_FET : PSMN5R2-60YL
+- Description: Transistor_FET : PSMN5R2-60YL
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-PSMN5R2-60YL](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-PSMN5R2-60YL)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETPSMN5R26YL](http://oom.lt/SZKTRANSISTORFETPSMN5R26YL)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PSMN5R2-60YL|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-PSMN5R2-60YL|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETPSMN5R26YL|
-|name|name|PSMN5R2-60YL|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'PSMN5R2-60YL', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:LFPAK56', 'kicadSymbolDatasheet': 'https://assets.nexperia.com/documents/data-sheet/PSMN5R2-60YL.pdf', 'kicadSymbolki_keywords': 'N-Channel MOSFET', 'kicadSymbolki_description': '100A, 60V Vds, N-Channel MOSFET, 5.2mOhm Ron, LFPAK56', 'kicadSymbolki_fp_filters': 'LFPAK56*'}]|
+|name|name|Transistor_FET : PSMN5R2-60YL|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'PSMN5R2-60YL'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>LFPAK56'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//assets.nexperia.com/documents/data-sheet/PSMN5R2-60YL.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'N-Channel MOSFET'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '100A</td><td> 60V Vds</td><td> N-Channel MOSFET</td><td> 5.2mOhm Ron</td><td> LFPAK56'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'LFPAK56*'</td></tr></table>]|
 ||||

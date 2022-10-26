@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDIODES2JTR > S2JTR
+# SZKDIODES2JTR > Diode : S2JTR
 
 - ID: SYMBOL-kicad-kicad-symbols-Diode-S2JTR
 - Hex ID: SZKDIODES2JTR
-- Name: S2JTR
-- Description: S2JTR
+- Name: Diode : S2JTR
+- Description: Diode : S2JTR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-S2JTR](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-S2JTR)
 - Short Link: [http://oom.lt/SZKDIODES2JTR](http://oom.lt/SZKDIODES2JTR)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|S2JTR|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-S2JTR|
 |Hex ID (short code)|hexID|SZKDIODES2JTR|
-|name|name|S2JTR|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'S2JTR', 'kicadSymbolFootprint': 'Diode_SMD:D_SMB', 'kicadSymbolDatasheet': 'http://www.smc-diodes.com/propdf/S2A-S2M%20N0562%20REV.A.pdf', 'kicadSymbolki_keywords': 'diode', 'kicadSymbolki_description': '600V 2A General Purpose Rectifier Diode, SMB', 'kicadSymbolki_fp_filters': '*D?SMB*'}]|
+|name|name|Diode : S2JTR|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'S2JTR'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Diode_SMD</td></tr><tr><td>D_SMB'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.smc-diodes.com/propdf/S2A-S2M%20N0562%20REV.A.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'diode'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '600V 2A General Purpose Rectifier Diode</td><td> SMB'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> '*D?SMB*'</td></tr></table>]|
 ||||

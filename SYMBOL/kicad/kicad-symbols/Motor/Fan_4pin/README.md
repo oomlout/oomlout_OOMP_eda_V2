@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMOTORFAN4PIN > Fan_4pin
+# SZKMOTORFAN4PIN > Motor : Fan_4pin
 
 - ID: SYMBOL-kicad-kicad-symbols-Motor-Fan_4pin
 - Hex ID: SZKMOTORFAN4PIN
-- Name: Fan_4pin
-- Description: Fan_4pin
+- Name: Motor : Fan_4pin
+- Description: Motor : Fan_4pin
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Motor-Fan_4pin](http://oom.lt/SYMBOL-kicad-kicad-symbols-Motor-Fan_4pin)
 - Short Link: [http://oom.lt/SZKMOTORFAN4PIN](http://oom.lt/SZKMOTORFAN4PIN)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Fan_4pin|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Motor-Fan_4pin|
 |Hex ID (short code)|hexID|SZKMOTORFAN4PIN|
-|name|name|Fan_4pin|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'Fan_Tacho_PWM', 'kicadSymbolReference': 'M', 'kicadSymbolValue': 'Fan_4pin', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.formfactors.org/developer%5Cspecs%5Crev1_2_public.pdf', 'kicadSymbolki_keywords': 'Fan Motor tacho PWM', 'kicadSymbolki_description': 'Fan, tacho output, PWM input, 4-pin connector', 'kicadSymbolki_fp_filters': 'FanPinHeader*P2.54mm*Vertical* PinHeader*P2.54mm*Vertical* TerminalBlock*'}]|
+|name|name|Motor : Fan_4pin|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'Fan_Tacho_PWM'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'M'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Fan_4pin'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.formfactors.org/developer%5Cspecs%5Crev1_2_public.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Fan Motor tacho PWM'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Fan</td><td> tacho output</td><td> PWM input</td><td> 4-pin connector'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'FanPinHeader*P2.54mm*Vertical* PinHeader*P2.54mm*Vertical* TerminalBlock*'</td></tr></table>]|
 ||||

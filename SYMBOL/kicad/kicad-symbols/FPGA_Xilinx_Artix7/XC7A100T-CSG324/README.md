@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKFPGAXILINXARTIX7XC7A1TCSG324 > XC7A100T-CSG324
+# SZKFPGAXILINXARTIX7XC7A1TCSG324 > FPGA_Xilinx_Artix7 : XC7A100T-CSG324
 
 - ID: SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Artix7-XC7A100T-CSG324
 - Hex ID: SZKFPGAXILINXARTIX7XC7A1TCSG324
-- Name: XC7A100T-CSG324
-- Description: XC7A100T-CSG324
+- Name: FPGA_Xilinx_Artix7 : XC7A100T-CSG324
+- Description: FPGA_Xilinx_Artix7 : XC7A100T-CSG324
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Artix7-XC7A100T-CSG324](http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Artix7-XC7A100T-CSG324)
 - Short Link: [http://oom.lt/SZKFPGAXILINXARTIX7XC7A1TCSG324](http://oom.lt/SZKFPGAXILINXARTIX7XC7A1TCSG324)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|XC7A100T-CSG324|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Artix7-XC7A100T-CSG324|
 |Hex ID (short code)|hexID|SZKFPGAXILINXARTIX7XC7A1TCSG324|
-|name|name|XC7A100T-CSG324|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'XC7A100T-CSG324', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'FPGA', 'kicadSymbolki_description': 'Artix 7 T 100 XC7A100T-CSG324'}]|
+|name|name|FPGA_Xilinx_Artix7 : XC7A100T-CSG324|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'XC7A100T-CSG324'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_locked'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'FPGA'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Artix 7 T 100 XC7A100T-CSG324'</td></tr></table>]|
 ||||

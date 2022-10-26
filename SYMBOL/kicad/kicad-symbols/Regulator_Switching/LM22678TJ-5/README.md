@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORSWITCHINGLM22678TJ5 > LM22678TJ-5
+# SZKREGULATORSWITCHINGLM22678TJ5 > Regulator_Switching : LM22678TJ-5
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM22678TJ-5
 - Hex ID: SZKREGULATORSWITCHINGLM22678TJ5
-- Name: LM22678TJ-5
-- Description: LM22678TJ-5
+- Name: Regulator_Switching : LM22678TJ-5
+- Description: Regulator_Switching : LM22678TJ-5
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM22678TJ-5](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM22678TJ-5)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGLM22678TJ5](http://oom.lt/SZKREGULATORSWITCHINGLM22678TJ5)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM22678TJ-5|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM22678TJ-5|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGLM22678TJ5|
-|name|name|LM22678TJ-5|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LM22678TJ-ADJ', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM22678TJ-5', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TO-263-7_TabPin8', 'kicadSymbolDatasheet': 'https://www.ti.com/lit/ds/symlink/lm22678.pdf', 'kicadSymbolki_keywords': 'DC/DC Buck Converter 5A', 'kicadSymbolki_description': '5A Step-Down Switching Voltage Regulater, 4.5-42V Input, 5V Output, 500kHz Switching Frequency, TO-263', 'kicadSymbolki_fp_filters': 'TO?263*'}]|
+|name|name|Regulator_Switching : LM22678TJ-5|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'LM22678TJ-ADJ'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LM22678TJ-5'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>TO-263-7_TabPin8'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.ti.com/lit/ds/symlink/lm22678.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'DC/DC Buck Converter 5A'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '5A Step-Down Switching Voltage Regulater</td><td> 4.5-42V Input</td><td> 5V Output</td><td> 500kHz Switching Frequency</td><td> TO-263'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TO?263*'</td></tr></table>]|
 ||||

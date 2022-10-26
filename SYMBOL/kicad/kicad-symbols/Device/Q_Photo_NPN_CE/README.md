@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDEVICEQPHOTONPNCE > Q_Photo_NPN_CE
+# SZKDEVICEQPHOTONPNCE > Device : Q_Photo_NPN_CE
 
 - ID: SYMBOL-kicad-kicad-symbols-Device-Q_Photo_NPN_CE
 - Hex ID: SZKDEVICEQPHOTONPNCE
-- Name: Q_Photo_NPN_CE
-- Description: Q_Photo_NPN_CE
+- Name: Device : Q_Photo_NPN_CE
+- Description: Device : Q_Photo_NPN_CE
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Q_Photo_NPN_CE](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Q_Photo_NPN_CE)
 - Short Link: [http://oom.lt/SZKDEVICEQPHOTONPNCE](http://oom.lt/SZKDEVICEQPHOTONPNCE)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Q_Photo_NPN_CE|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-Q_Photo_NPN_CE|
 |Hex ID (short code)|hexID|SZKDEVICEQPHOTONPNCE|
-|name|name|Q_Photo_NPN_CE|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'Q_Photo_NPN', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'Q_Photo_NPN_CE', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'phototransistor NPN', 'kicadSymbolki_description': 'NPN phototransistor, collector/emitter'}]|
+|name|name|Device : Q_Photo_NPN_CE|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'Q_Photo_NPN'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Q_Photo_NPN_CE'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'phototransistor NPN'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'NPN phototransistor</td><td> collector/emitter'</td></tr></table>]|
 ||||

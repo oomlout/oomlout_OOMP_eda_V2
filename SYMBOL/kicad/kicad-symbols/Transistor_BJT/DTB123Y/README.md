@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORBJTDTB123Y > DTB123Y
+# SZKTRANSISTORBJTDTB123Y > Transistor_BJT : DTB123Y
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-DTB123Y
 - Hex ID: SZKTRANSISTORBJTDTB123Y
-- Name: DTB123Y
-- Description: DTB123Y
+- Name: Transistor_BJT : DTB123Y
+- Description: Transistor_BJT : DTB123Y
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-DTB123Y](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-DTB123Y)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTDTB123Y](http://oom.lt/SZKTRANSISTORBJTDTB123Y)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DTB123Y|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_BJT-DTB123Y|
 |Hex ID (short code)|hexID|SZKTRANSISTORBJTDTB123Y|
-|name|name|DTB123Y|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'DTB123Y', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_keywords': 'ROHM Digital PNP Transistor', 'kicadSymbolki_description': 'Digital PNP Transistor, 2k2/10k, SOT-23', 'kicadSymbolki_fp_filters': 'SOT?23* SC?59*'}]|
+|name|name|Transistor_BJT : DTB123Y|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'DTB123Y'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'ROHM Digital PNP Transistor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Digital PNP Transistor</td><td> 2k2/10k</td><td> SOT-23'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23* SC?59*'</td></tr></table>]|
 ||||

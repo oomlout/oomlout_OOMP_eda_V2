@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDIODE1N914 > 1N914
+# SZKDIODE1N914 > Diode : 1N914
 
 - ID: SYMBOL-kicad-kicad-symbols-Diode-1N914
 - Hex ID: SZKDIODE1N914
-- Name: 1N914
-- Description: 1N914
+- Name: Diode : 1N914
+- Description: Diode : 1N914
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-1N914](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-1N914)
 - Short Link: [http://oom.lt/SZKDIODE1N914](http://oom.lt/SZKDIODE1N914)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|1N914|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-1N914|
 |Hex ID (short code)|hexID|SZKDIODE1N914|
-|name|name|1N914|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '1N4001', 'kicadSymbolReference': 'D', 'kicadSymbolValue': '1N914', 'kicadSymbolFootprint': 'Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal', 'kicadSymbolDatasheet': 'http://www.vishay.com/docs/85622/1n914.pdf', 'kicadSymbolki_keywords': 'diode', 'kicadSymbolki_description': '100V 0.3A Small Signal Fast Switching Diode, DO-35', 'kicadSymbolki_fp_filters': 'D*DO?35*'}]|
+|name|name|Diode : 1N914|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> '1N4001'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> '1N914'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Diode_THT</td></tr><tr><td>D_DO-35_SOD27_P7.62mm_Horizontal'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.vishay.com/docs/85622/1n914.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'diode'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '100V 0.3A Small Signal Fast Switching Diode</td><td> DO-35'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'D*DO?35*'</td></tr></table>]|
 ||||

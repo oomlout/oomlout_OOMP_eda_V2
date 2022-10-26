@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-OptoDevice-Everlight_ITR8307F43|
 |Hex ID (short code)|hexID|FZKOPEVERLIGHTITR837F43|
 |name|name|OptoDevice : Everlight_ITR8307F43|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Everlight_ITR8307F43', 'description': 'package for Everlight ITR8307/F43, see https://everlighteurope.com/index.php?controller=attachment&id_attachment=5385', 'tags': 'refective opto couple photo coupler', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/Everlight_ITR8307F43.wrl', 'pins': {'type': 'thru_hole', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Everlight_ITR8307F43'</td><td> 'description'</td></tr><tr><td> 'package for Everlight ITR8307/F43</td><td> see https</td></tr><tr><td>//everlighteurope.com/index.php?controller=attachment&id_attachment=5385'</td><td> 'tags'</td></tr><tr><td> 'refective opto couple photo coupler'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/OptoDevice.3dshapes/Everlight_ITR8307F43.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

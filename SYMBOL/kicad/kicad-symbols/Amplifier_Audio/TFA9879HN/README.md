@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKAMPLIFIERAUDIOTFA9879HN > TFA9879HN
+# SZKAMPLIFIERAUDIOTFA9879HN > Amplifier_Audio : TFA9879HN
 
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Audio-TFA9879HN
 - Hex ID: SZKAMPLIFIERAUDIOTFA9879HN
-- Name: TFA9879HN
-- Description: TFA9879HN
+- Name: Amplifier_Audio : TFA9879HN
+- Description: Amplifier_Audio : TFA9879HN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-TFA9879HN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-TFA9879HN)
 - Short Link: [http://oom.lt/SZKAMPLIFIERAUDIOTFA9879HN](http://oom.lt/SZKAMPLIFIERAUDIOTFA9879HN)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TFA9879HN|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Audio-TFA9879HN|
 |Hex ID (short code)|hexID|SZKAMPLIFIERAUDIOTFA9879HN|
-|name|name|TFA9879HN|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TFA9879HN', 'kicadSymbolFootprint': 'Package_DFN_QFN:HVQFN-24-1EP_4x4mm_P0.5mm_EP2.6x2.6mm_ThermalVias', 'kicadSymbolDatasheet': 'https://www.nxp.com/docs/en/data-sheet/TFA9879.pdf', 'kicadSymbolki_keywords': 'Audio Amplifier Class D NXP Semiconductors', 'kicadSymbolki_description': 'Mono BTL class-D audio amplifier for portable applications with digital input, HVQFN-24', 'kicadSymbolki_fp_filters': 'HVQFN*1EP*4x4mm*P0.5mm*'}]|
+|name|name|Amplifier_Audio : TFA9879HN|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TFA9879HN'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>HVQFN-24-1EP_4x4mm_P0.5mm_EP2.6x2.6mm_ThermalVias'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.nxp.com/docs/en/data-sheet/TFA9879.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Audio Amplifier Class D NXP Semiconductors'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Mono BTL class-D audio amplifier for portable applications with digital input</td><td> HVQFN-24'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'HVQFN*1EP*4x4mm*P0.5mm*'</td></tr></table>]|
 ||||

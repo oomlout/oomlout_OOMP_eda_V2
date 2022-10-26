@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORLINEARLT311XDD > LT3011xDD
+# SZKREGULATORLINEARLT311XDD > Regulator_Linear : LT3011xDD
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT3011xDD
 - Hex ID: SZKREGULATORLINEARLT311XDD
-- Name: LT3011xDD
-- Description: LT3011xDD
+- Name: Regulator_Linear : LT3011xDD
+- Description: Regulator_Linear : LT3011xDD
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT3011xDD](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT3011xDD)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARLT311XDD](http://oom.lt/SZKREGULATORLINEARLT311XDD)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LT3011xDD|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT3011xDD|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARLT311XDD|
-|name|name|LT3011xDD|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LT3011xDD', 'kicadSymbolFootprint': 'Package_DFN_QFN:DFN-10-1EP_3x3mm_P0.5mm_EP1.65x2.38mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/3011f.pdf', 'kicadSymbolki_keywords': 'variable regulator', 'kicadSymbolki_description': '50mA, 3V to 80V Low Dropout Micropower Linear Regulator with PWRGD, DFN-10', 'kicadSymbolki_fp_filters': 'DFN*1EP*3x3mm*P0.5mm*'}]|
+|name|name|Regulator_Linear : LT3011xDD|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LT3011xDD'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>DFN-10-1EP_3x3mm_P0.5mm_EP1.65x2.38mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/3011f.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'variable regulator'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '50mA</td><td> 3V to 80V Low Dropout Micropower Linear Regulator with PWRGD</td><td> DFN-10'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DFN*1EP*3x3mm*P0.5mm*'</td></tr></table>]|
 ||||

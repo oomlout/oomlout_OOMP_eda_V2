@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMEMORYEEPROM93LCXXAXXOT > 93LCxxAxxOT
+# SZKMEMORYEEPROM93LCXXAXXOT > Memory_EEPROM : 93LCxxAxxOT
 
 - ID: SYMBOL-kicad-kicad-symbols-Memory_EEPROM-93LCxxAxxOT
 - Hex ID: SZKMEMORYEEPROM93LCXXAXXOT
-- Name: 93LCxxAxxOT
-- Description: 93LCxxAxxOT
+- Name: Memory_EEPROM : 93LCxxAxxOT
+- Description: Memory_EEPROM : 93LCxxAxxOT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_EEPROM-93LCxxAxxOT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_EEPROM-93LCxxAxxOT)
 - Short Link: [http://oom.lt/SZKMEMORYEEPROM93LCXXAXXOT](http://oom.lt/SZKMEMORYEEPROM93LCXXAXXOT)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|93LCxxAxxOT|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Memory_EEPROM-93LCxxAxxOT|
 |Hex ID (short code)|hexID|SZKMEMORYEEPROM93LCXXAXXOT|
-|name|name|93LCxxAxxOT|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '93LCxxAxxOT', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-6', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/20001749K.pdf', 'kicadSymbolki_keywords': 'EEPROM memory Microwire', 'kicadSymbolki_description': 'Serial EEPROM, 93 Series, 2.5V, SOT-23-6', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
+|name|name|Memory_EEPROM : 93LCxxAxxOT|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> '93LCxxAxxOT'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-23-6'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/20001749K.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'EEPROM memory Microwire'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Serial EEPROM</td><td> 93 Series</td><td> 2.5V</td><td> SOT-23-6'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23*'</td></tr></table>]|
 ||||

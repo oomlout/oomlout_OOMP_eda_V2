@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDIODEPMEG45V15EPD > PMEG045V150EPD
+# SZKDIODEPMEG45V15EPD > Diode : PMEG045V150EPD
 
 - ID: SYMBOL-kicad-kicad-symbols-Diode-PMEG045V150EPD
 - Hex ID: SZKDIODEPMEG45V15EPD
-- Name: PMEG045V150EPD
-- Description: PMEG045V150EPD
+- Name: Diode : PMEG045V150EPD
+- Description: Diode : PMEG045V150EPD
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-PMEG045V150EPD](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-PMEG045V150EPD)
 - Short Link: [http://oom.lt/SZKDIODEPMEG45V15EPD](http://oom.lt/SZKDIODEPMEG45V15EPD)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PMEG045V150EPD|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-PMEG045V150EPD|
 |Hex ID (short code)|hexID|SZKDIODEPMEG45V15EPD|
-|name|name|PMEG045V150EPD|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'PMEG45A10EPD', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'PMEG045V150EPD', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:Nexperia_CFP15_SOT-1289', 'kicadSymbolDatasheet': 'https://assets.nexperia.com/documents/data-sheet/PMEG045V150EPD.pdf', 'kicadSymbolki_keywords': 'forward voltage diode', 'kicadSymbolki_description': '45V, 15A low Vf MEGA Schottky barrier rectifier, SOT-1289', 'kicadSymbolki_fp_filters': 'Nexperia*CFP15*SOT?1289*'}]|
+|name|name|Diode : PMEG045V150EPD|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'PMEG45A10EPD'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'PMEG045V150EPD'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>Nexperia_CFP15_SOT-1289'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//assets.nexperia.com/documents/data-sheet/PMEG045V150EPD.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'forward voltage diode'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '45V</td><td> 15A low Vf MEGA Schottky barrier rectifier</td><td> SOT-1289'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Nexperia*CFP15*SOT?1289*'</td></tr></table>]|
 ||||

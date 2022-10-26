@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKSENMAGNETICAS555A > AS5055A
+# SZKSENMAGNETICAS555A > Sensor_Magnetic : AS5055A
 
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-AS5055A
 - Hex ID: SZKSENMAGNETICAS555A
-- Name: AS5055A
-- Description: AS5055A
+- Name: Sensor_Magnetic : AS5055A
+- Description: Sensor_Magnetic : AS5055A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-AS5055A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-AS5055A)
 - Short Link: [http://oom.lt/SZKSENMAGNETICAS555A](http://oom.lt/SZKSENMAGNETICAS555A)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AS5055A|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-AS5055A|
 |Hex ID (short code)|hexID|SZKSENMAGNETICAS555A|
-|name|name|AS5055A|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AS5055A', 'kicadSymbolFootprint': 'Package_DFN_QFN:QFN-16-1EP_4x4mm_P0.65mm_EP2.7x2.7mm_PullBack', 'kicadSymbolDatasheet': 'https://ams.com/documents/20143/36005/AS5055A_DS000304_2-00.pdf', 'kicadSymbolki_keywords': 'sensor magnetic hall position rotation spi', 'kicadSymbolki_description': 'Magnetic position sensor, 12-bit, SPI interface, QFN-16', 'kicadSymbolki_fp_filters': 'QFN*1EP*4x4mm*P0.65mm*PullBack*'}]|
+|name|name|Sensor_Magnetic : AS5055A|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'AS5055A'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>QFN-16-1EP_4x4mm_P0.65mm_EP2.7x2.7mm_PullBack'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//ams.com/documents/20143/36005/AS5055A_DS000304_2-00.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'sensor magnetic hall position rotation spi'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Magnetic position sensor</td><td> 12-bit</td><td> SPI interface</td><td> QFN-16'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'QFN*1EP*4x4mm*P0.65mm*PullBack*'</td></tr></table>]|
 ||||

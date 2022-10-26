@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDEVICELBGAR > LED_BGAR
+# SZKDEVICELBGAR > Device : LED_BGAR
 
 - ID: SYMBOL-kicad-kicad-symbols-Device-LED_BGAR
 - Hex ID: SZKDEVICELBGAR
-- Name: LED_BGAR
-- Description: LED_BGAR
+- Name: Device : LED_BGAR
+- Description: Device : LED_BGAR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-LED_BGAR](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-LED_BGAR)
 - Short Link: [http://oom.lt/SZKDEVICELBGAR](http://oom.lt/SZKDEVICELBGAR)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LED_BGAR|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-LED_BGAR|
 |Hex ID (short code)|hexID|SZKDEVICELBGAR|
-|name|name|LED_BGAR|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'LED_BGAR', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'LED RGB diode', 'kicadSymbolki_description': 'RGB LED, blue/green/anode/red', 'kicadSymbolki_fp_filters': 'LED* LED_SMD:* LED_THT:*'}]|
+|name|name|Device : LED_BGAR|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LED_BGAR'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'LED RGB diode'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'RGB LED</td><td> blue/green/anode/red'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'LED* LED_SMD</td></tr><tr><td>* LED_THT</td></tr><tr><td>*'</td></tr></table>]|
 ||||

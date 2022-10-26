@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKPOWERHT > HT
+# SZKPOWERHT > power : HT
 
 - ID: SYMBOL-kicad-kicad-symbols-power-HT
 - Hex ID: SZKPOWERHT
-- Name: HT
-- Description: HT
+- Name: power : HT
+- Description: power : HT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-power-HT](http://oom.lt/SYMBOL-kicad-kicad-symbols-power-HT)
 - Short Link: [http://oom.lt/SZKPOWERHT](http://oom.lt/SZKPOWERHT)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|HT|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-power-HT|
 |Hex ID (short code)|hexID|SZKPOWERHT|
-|name|name|HT|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': '#PWR', 'kicadSymbolValue': 'HT', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_keywords': 'power-flag', 'kicadSymbolki_description': 'Power symbol creates a global label with name "HT"'}]|
+|name|name|power : HT|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> '#PWR'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'HT'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'power-flag'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Power symbol creates a global label with name "HT"'</td></tr></table>]|
 ||||

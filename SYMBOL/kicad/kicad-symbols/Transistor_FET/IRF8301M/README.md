@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORFETIRF831M > IRF8301M
+# SZKTRANSISTORFETIRF831M > Transistor_FET : IRF8301M
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF8301M
 - Hex ID: SZKTRANSISTORFETIRF831M
-- Name: IRF8301M
-- Description: IRF8301M
+- Name: Transistor_FET : IRF8301M
+- Description: Transistor_FET : IRF8301M
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF8301M](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF8301M)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETIRF831M](http://oom.lt/SZKTRANSISTORFETIRF831M)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IRF8301M|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF8301M|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETIRF831M|
-|name|name|IRF8301M|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'IRF6613', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'IRF8301M', 'kicadSymbolFootprint': 'Package_DirectFET:DirectFET_MT', 'kicadSymbolDatasheet': 'https://www.infineon.com/dgdl/irf8301mpbf.pdf?fileId=5546d462533600a40153560d0e7a1d58', 'kicadSymbolki_keywords': 'N-Channel MOSFET', 'kicadSymbolki_description': '34A Id, 30V Vds, 1.5mOhm Rds, N-Channel MOSFET, DirectFET MT', 'kicadSymbolki_fp_filters': 'DirectFET*MT*'}]|
+|name|name|Transistor_FET : IRF8301M|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'IRF6613'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'IRF8301M'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DirectFET</td></tr><tr><td>DirectFET_MT'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.infineon.com/dgdl/irf8301mpbf.pdf?fileId=5546d462533600a40153560d0e7a1d58'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'N-Channel MOSFET'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '34A Id</td><td> 30V Vds</td><td> 1.5mOhm Rds</td><td> N-Channel MOSFET</td><td> DirectFET MT'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DirectFET*MT*'</td></tr></table>]|
 ||||

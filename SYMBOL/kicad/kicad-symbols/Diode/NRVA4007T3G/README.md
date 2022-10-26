@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDIODENRVA47T3G > NRVA4007T3G
+# SZKDIODENRVA47T3G > Diode : NRVA4007T3G
 
 - ID: SYMBOL-kicad-kicad-symbols-Diode-NRVA4007T3G
 - Hex ID: SZKDIODENRVA47T3G
-- Name: NRVA4007T3G
-- Description: NRVA4007T3G
+- Name: Diode : NRVA4007T3G
+- Description: Diode : NRVA4007T3G
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-NRVA4007T3G](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-NRVA4007T3G)
 - Short Link: [http://oom.lt/SZKDIODENRVA47T3G](http://oom.lt/SZKDIODENRVA47T3G)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|NRVA4007T3G|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-NRVA4007T3G|
 |Hex ID (short code)|hexID|SZKDIODENRVA47T3G|
-|name|name|NRVA4007T3G|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MRA4003T3G', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'NRVA4007T3G', 'kicadSymbolFootprint': 'Diode_SMD:D_SMA', 'kicadSymbolDatasheet': 'http://www.onsemi.com/pub_link/Collateral/MRA4003T3-D.PDF', 'kicadSymbolki_keywords': 'AEC-Q101', 'kicadSymbolki_description': '1000V, 1A, General Purpose Rectifier Diode, SMA(DO-214AC)', 'kicadSymbolki_fp_filters': 'D*SMA*'}]|
+|name|name|Diode : NRVA4007T3G|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'MRA4003T3G'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'NRVA4007T3G'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Diode_SMD</td></tr><tr><td>D_SMA'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.onsemi.com/pub_link/Collateral/MRA4003T3-D.PDF'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'AEC-Q101'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '1000V</td><td> 1A</td><td> General Purpose Rectifier Diode</td><td> SMA(DO-214AC)'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'D*SMA*'</td></tr></table>]|
 ||||

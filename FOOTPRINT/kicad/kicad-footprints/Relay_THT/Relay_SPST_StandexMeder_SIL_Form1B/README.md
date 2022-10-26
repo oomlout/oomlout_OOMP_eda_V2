@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_SPST_StandexMeder_SIL_Form1B|
 |Hex ID (short code)|hexID|FZKRELRELAYSPSTSTANDEXMEDERSILFORM1B|
 |name|name|Relay_THT : Relay_SPST_StandexMeder_SIL_Form1B|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Relay_SPST_StandexMeder_SIL_Form1B', 'description': 'Standex-Meder SIL-relais, Form 1B, see https://standexelectronics.com/wp-content/uploads/datasheet_reed_relay_SIL.pdf', 'tags': 'Standex Meder SIL reed relais', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Relay_THT.3dshapes/Relay_SPST_StandexMeder_SIL_Form1B.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Relay_SPST_StandexMeder_SIL_Form1B'</td><td> 'description'</td></tr><tr><td> 'Standex-Meder SIL-relais</td><td> Form 1B</td><td> see https</td></tr><tr><td>//standexelectronics.com/wp-content/uploads/datasheet_reed_relay_SIL.pdf'</td><td> 'tags'</td></tr><tr><td> 'Standex Meder SIL reed relais'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Relay_THT.3dshapes/Relay_SPST_StandexMeder_SIL_Form1B.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

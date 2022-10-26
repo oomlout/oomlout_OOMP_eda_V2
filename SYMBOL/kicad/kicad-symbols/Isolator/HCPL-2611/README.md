@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKISOLATORHCPL2611 > HCPL-2611
+# SZKISOLATORHCPL2611 > Isolator : HCPL-2611
 
 - ID: SYMBOL-kicad-kicad-symbols-Isolator-HCPL-2611
 - Hex ID: SZKISOLATORHCPL2611
-- Name: HCPL-2611
-- Description: HCPL-2611
+- Name: Isolator : HCPL-2611
+- Description: Isolator : HCPL-2611
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-HCPL-2611](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-HCPL-2611)
 - Short Link: [http://oom.lt/SZKISOLATORHCPL2611](http://oom.lt/SZKISOLATORHCPL2611)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|HCPL-2611|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Isolator-HCPL-2611|
 |Hex ID (short code)|hexID|SZKISOLATORHCPL2611|
-|name|name|HCPL-2611|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'HCPL-261A', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'HCPL-2611', 'kicadSymbolFootprint': 'Package_DIP:DIP-8_W7.62mm', 'kicadSymbolDatasheet': 'https://docs.broadcom.com/docs/AV02-0940EN', 'kicadSymbolki_keywords': 'High speed optically coupled gates enable', 'kicadSymbolki_description': 'Single High Speed LSTTL/TTL Compatible Optocoupler with enable, dV/dt 15000/us, VCM 1000, max 7V VCC, DIP-8', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
+|name|name|Isolator : HCPL-2611|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'HCPL-261A'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'HCPL-2611'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>DIP-8_W7.62mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//docs.broadcom.com/docs/AV02-0940EN'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'High speed optically coupled gates enable'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Single High Speed LSTTL/TTL Compatible Optocoupler with enable</td><td> dV/dt 15000/us</td><td> VCM 1000</td><td> max 7V VCC</td><td> DIP-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W7.62mm*'</td></tr></table>]|
 ||||

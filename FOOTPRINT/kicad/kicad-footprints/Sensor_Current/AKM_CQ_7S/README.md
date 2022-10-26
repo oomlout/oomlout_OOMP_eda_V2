@@ -29,5 +29,5 @@ NO IMAGE
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Sensor_Current-AKM_CQ_7S|
 |Hex ID (short code)|hexID|FZKSENCURRENTAKMCQ7S|
 |name|name|Sensor_Current : AKM_CQ_7S|
-|Footprint Kicad|footprintKicadDetails|{'name': 'AKM_CQ_7S', 'description': 'AKM Current Sensor, 7 pin, SMD (http://www.akm.com/akm/en/file/datasheet/CQ-236B.pdf)', 'tags': 'akm current sensor smd', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Sensor_Current.3dshapes/AKM_CQ_7S.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'AKM_CQ_7S'</td><td> 'description'</td></tr><tr><td> 'AKM Current Sensor</td><td> 7 pin</td><td> SMD (http</td></tr><tr><td>//www.akm.com/akm/en/file/datasheet/CQ-236B.pdf)'</td><td> 'tags'</td></tr><tr><td> 'akm current sensor smd'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Sensor_Current.3dshapes/AKM_CQ_7S.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

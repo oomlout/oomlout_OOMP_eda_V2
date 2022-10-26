@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_BGA-Microchip_TFBGA-196_11x11mm_Layout14x14_P0.75mm_SMD|
 |Hex ID (short code)|hexID|FZKBGAMCHIPTFBGA19611X11LAYOUT14X14P75SM|
 |name|name|Package_BGA : Microchip_TFBGA-196_11x11mm_Layout14x14_P0.75mm_SMD|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Microchip_TFBGA-196_11x11mm_Layout14x14_P0.75mm_SMD', 'description': 'TFBGA-196, 11.0x11.0mm, 196 Ball, 14x14 Layout, 0.75mm Pitch, http://ww1.microchip.com/downloads/en/DeviceDoc/SAMA5D2-Series-Data-Sheet-DS60001476C.pdf#page=2956', 'tags': 'BGA 196 0.75', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/Microchip_TFBGA-196_11x11mm_Layout14x14_P0.75mm_SMD.wrl', 'pins': {'type': 'smd', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Microchip_TFBGA-196_11x11mm_Layout14x14_P0.75mm_SMD'</td><td> 'description'</td></tr><tr><td> 'TFBGA-196</td><td> 11.0x11.0mm</td><td> 196 Ball</td><td> 14x14 Layout</td><td> 0.75mm Pitch</td><td> http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/SAMA5D2-Series-Data-Sheet-DS60001476C.pdf#page=2956'</td><td> 'tags'</td></tr><tr><td> 'BGA 196 0.75'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_BGA.3dshapes/Microchip_TFBGA-196_11x11mm_Layout14x14_P0.75mm_SMD.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

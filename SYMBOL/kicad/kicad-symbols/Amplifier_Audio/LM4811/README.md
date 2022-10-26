@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKAMPLIFIERAUDIOLM4811 > LM4811
+# SZKAMPLIFIERAUDIOLM4811 > Amplifier_Audio : LM4811
 
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Audio-LM4811
 - Hex ID: SZKAMPLIFIERAUDIOLM4811
-- Name: LM4811
-- Description: LM4811
+- Name: Amplifier_Audio : LM4811
+- Description: Amplifier_Audio : LM4811
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-LM4811](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-LM4811)
 - Short Link: [http://oom.lt/SZKAMPLIFIERAUDIOLM4811](http://oom.lt/SZKAMPLIFIERAUDIOLM4811)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM4811|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Audio-LM4811|
 |Hex ID (short code)|hexID|SZKAMPLIFIERAUDIOLM4811|
-|name|name|LM4811|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM4811', 'kicadSymbolFootprint': 'Package_SO:TSSOP-10_3x3mm_P0.5mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lm4811.pdf', 'kicadSymbolki_keywords': 'audio amplifier headphone 2ch', 'kicadSymbolki_description': 'Boomer Dual 105mW Headphone Amplifier with Digital Volume Control and Shutdown Mode, VSSOP-10', 'kicadSymbolki_fp_filters': 'TSSOP*3x3mm*P0.5mm*'}]|
+|name|name|Amplifier_Audio : LM4811|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LM4811'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>TSSOP-10_3x3mm_P0.5mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/lm4811.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'audio amplifier headphone 2ch'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Boomer Dual 105mW Headphone Amplifier with Digital Volume Control and Shutdown Mode</td><td> VSSOP-10'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TSSOP*3x3mm*P0.5mm*'</td></tr></table>]|
 ||||

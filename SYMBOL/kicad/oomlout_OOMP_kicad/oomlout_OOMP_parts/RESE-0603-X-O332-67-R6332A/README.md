@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE63XO33267R6332A > RESE-0603-X-O332-67-R6332A
+# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE63XO33267R6332A > oomlout_OOMP_parts : RESE-0603-X-O332-67-R6332A
 
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O332-67-R6332A
 - Hex ID: SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE63XO33267R6332A
-- Name: RESE-0603-X-O332-67-R6332A
-- Description: RESE-0603-X-O332-67-R6332A
+- Name: oomlout_OOMP_parts : RESE-0603-X-O332-67-R6332A
+- Description: oomlout_OOMP_parts : RESE-0603-X-O332-67-R6332A
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O332-67-R6332A](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O332-67-R6332A)
 - Short Link: [http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE63XO33267R6332A](http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE63XO33267R6332A)
   
@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|RESE-0603-X-O332-67-R6332A|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O332-67-R6332A|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE63XO33267R6332A|
-|name|name|RESE-0603-X-O332-67-R6332A|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'R', 'kicadSymbolValue': 'RESE-0603-X-O332-67-R6332A', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:RESE-0603-X-O332-67-R6332A', 'kicadSymbolDatasheet': 'oom.lt/R6332A', 'kicadSymbolki_keywords': 'R res resistor', 'kicadSymbolki_description': 'hexID: R6332A;Resistor', 'kicadSymbolki_fp_filters': 'R_*'}]|
+|name|name|oomlout_OOMP_parts : RESE-0603-X-O332-67-R6332A|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'R'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'RESE-0603-X-O332-67-R6332A'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'oomlout_OOMP_parts</td></tr><tr><td>RESE-0603-X-O332-67-R6332A'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'oom.lt/R6332A'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'R res resistor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'hexID</td></tr><tr><td> R6332A;Resistor'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'R_*'</td></tr></table>]|
 ||||

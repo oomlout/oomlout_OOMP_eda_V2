@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDEVICEHEATER > Heater
+# SZKDEVICEHEATER > Device : Heater
 
 - ID: SYMBOL-kicad-kicad-symbols-Device-Heater
 - Hex ID: SZKDEVICEHEATER
-- Name: Heater
-- Description: Heater
+- Name: Device : Heater
+- Description: Device : Heater
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Heater](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Heater)
 - Short Link: [http://oom.lt/SZKDEVICEHEATER](http://oom.lt/SZKDEVICEHEATER)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Heater|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-Heater|
 |Hex ID (short code)|hexID|SZKDEVICEHEATER|
-|name|name|Heater|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'R', 'kicadSymbolValue': 'Heater', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'heater R resistor', 'kicadSymbolki_description': 'Resistive heater'}]|
+|name|name|Device : Heater|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'R'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Heater'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'heater R resistor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Resistive heater'</td></tr></table>]|
 ||||

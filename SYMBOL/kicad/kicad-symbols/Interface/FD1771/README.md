@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKINTERFACEFD1771 > FD1771
+# SZKINTERFACEFD1771 > Interface : FD1771
 
 - ID: SYMBOL-kicad-kicad-symbols-Interface-FD1771
 - Hex ID: SZKINTERFACEFD1771
-- Name: FD1771
-- Description: FD1771
+- Name: Interface : FD1771
+- Description: Interface : FD1771
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-FD1771](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-FD1771)
 - Short Link: [http://oom.lt/SZKINTERFACEFD1771](http://oom.lt/SZKINTERFACEFD1771)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|FD1771|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface-FD1771|
 |Hex ID (short code)|hexID|SZKINTERFACEFD1771|
-|name|name|FD1771|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'FD1771', 'kicadSymbolFootprint': 'Package_DIP:DIP-40_W15.24mm', 'kicadSymbolDatasheet': 'https://amaus.net/static/S100/western%20digital/datasheet/Western%20Digital%20FD1771%20Specification%20197710.pdf', 'kicadSymbolki_keywords': 'Floppy disk controller', 'kicadSymbolki_description': 'Floppy disk controller, DIP-40', 'kicadSymbolki_fp_filters': 'DIP*W15.24mm*'}]|
+|name|name|Interface : FD1771|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'FD1771'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>DIP-40_W15.24mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//amaus.net/static/S100/western%20digital/datasheet/Western%20Digital%20FD1771%20Specification%20197710.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Floppy disk controller'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Floppy disk controller</td><td> DIP-40'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W15.24mm*'</td></tr></table>]|
 ||||

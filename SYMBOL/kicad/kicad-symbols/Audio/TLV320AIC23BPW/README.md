@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKAUDIOTLV32AIC23BPW > TLV320AIC23BPW
+# SZKAUDIOTLV32AIC23BPW > Audio : TLV320AIC23BPW
 
 - ID: SYMBOL-kicad-kicad-symbols-Audio-TLV320AIC23BPW
 - Hex ID: SZKAUDIOTLV32AIC23BPW
-- Name: TLV320AIC23BPW
-- Description: TLV320AIC23BPW
+- Name: Audio : TLV320AIC23BPW
+- Description: Audio : TLV320AIC23BPW
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-TLV320AIC23BPW](http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-TLV320AIC23BPW)
 - Short Link: [http://oom.lt/SZKAUDIOTLV32AIC23BPW](http://oom.lt/SZKAUDIOTLV32AIC23BPW)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TLV320AIC23BPW|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Audio-TLV320AIC23BPW|
 |Hex ID (short code)|hexID|SZKAUDIOTLV32AIC23BPW|
-|name|name|TLV320AIC23BPW|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TLV320AIC23BPW', 'kicadSymbolFootprint': 'Package_SO:TSSOP-28_4.4x9.7mm_P0.65mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tlv320aic23b.pdf', 'kicadSymbolki_keywords': 'audio codec 2ch 96kHz headphone amplifier', 'kicadSymbolki_description': 'Stero Audio CODEC, 8- to 96-kHz, With Integrated Headphone Amplifier, TSSOP-28', 'kicadSymbolki_fp_filters': 'TSSOP*4.4x9.7mm*P0.65mm*'}]|
+|name|name|Audio : TLV320AIC23BPW|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TLV320AIC23BPW'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>TSSOP-28_4.4x9.7mm_P0.65mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/tlv320aic23b.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'audio codec 2ch 96kHz headphone amplifier'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Stero Audio CODEC</td><td> 8- to 96-kHz</td><td> With Integrated Headphone Amplifier</td><td> TSSOP-28'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TSSOP*4.4x9.7mm*P0.65mm*'</td></tr></table>]|
 ||||

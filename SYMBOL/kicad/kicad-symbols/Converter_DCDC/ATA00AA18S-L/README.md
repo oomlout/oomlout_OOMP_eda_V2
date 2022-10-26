@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKCONATAAA18SL > ATA00AA18S-L
+# SZKCONATAAA18SL > Converter_DCDC : ATA00AA18S-L
 
 - ID: SYMBOL-kicad-kicad-symbols-Converter_DCDC-ATA00AA18S-L
 - Hex ID: SZKCONATAAA18SL
-- Name: ATA00AA18S-L
-- Description: ATA00AA18S-L
+- Name: Converter_DCDC : ATA00AA18S-L
+- Description: Converter_DCDC : ATA00AA18S-L
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-ATA00AA18S-L](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-ATA00AA18S-L)
 - Short Link: [http://oom.lt/SZKCONATAAA18SL](http://oom.lt/SZKCONATAAA18SL)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ATA00AA18S-L|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Converter_DCDC-ATA00AA18S-L|
 |Hex ID (short code)|hexID|SZKCONATAAA18SL|
-|name|name|ATA00AA18S-L|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ATA00AA18S-L', 'kicadSymbolFootprint': 'Converter_DCDC:Converter_DCDC_Artesyn_ATA_SMD', 'kicadSymbolDatasheet': 'https://www.artesyn.com/power/assets/ata_series_ds_01apr2015_79c25814fd.pdf', 'kicadSymbolki_keywords': 'DC/DC converter dual', 'kicadSymbolki_description': 'Artesyn 3W Isolated DC/DC Converter Module, ±5V Output Voltage, 9-36V Input Voltage', 'kicadSymbolki_fp_filters': '*Artesyn*ATA*SMD*'}]|
+|name|name|Converter_DCDC : ATA00AA18S-L|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ATA00AA18S-L'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Converter_DCDC</td></tr><tr><td>Converter_DCDC_Artesyn_ATA_SMD'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.artesyn.com/power/assets/ata_series_ds_01apr2015_79c25814fd.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'DC/DC converter dual'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Artesyn 3W Isolated DC/DC Converter Module</td><td> ±5V Output Voltage</td><td> 9-36V Input Voltage'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> '*Artesyn*ATA*SMD*'</td></tr></table>]|
 ||||

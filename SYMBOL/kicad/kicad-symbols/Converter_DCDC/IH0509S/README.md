@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKCONIH59S > IH0509S
+# SZKCONIH59S > Converter_DCDC : IH0509S
 
 - ID: SYMBOL-kicad-kicad-symbols-Converter_DCDC-IH0509S
 - Hex ID: SZKCONIH59S
-- Name: IH0509S
-- Description: IH0509S
+- Name: Converter_DCDC : IH0509S
+- Description: Converter_DCDC : IH0509S
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-IH0509S](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-IH0509S)
 - Short Link: [http://oom.lt/SZKCONIH59S](http://oom.lt/SZKCONIH59S)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IH0509S|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Converter_DCDC-IH0509S|
 |Hex ID (short code)|hexID|SZKCONIH59S|
-|name|name|IH0509S|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'IH0503S', 'kicadSymbolReference': 'PS', 'kicadSymbolValue': 'IH0509S', 'kicadSymbolFootprint': 'Converter_DCDC:Converter_DCDC_XP_POWER-IHxxxxS_THT', 'kicadSymbolDatasheet': 'https://www.xppower.com/pdfs/SF_IH.pdf', 'kicadSymbolki_keywords': 'XP_POWER DC/DC isolated Converter module', 'kicadSymbolki_description': 'XP Power 2W, 1000 VDC Isolated DC/DC Converter Module, Dual Output Voltage ±9V, ±111mA, 5V Input Voltage, SIP', 'kicadSymbolki_fp_filters': '*XP?POWER?IHxxxxS*'}]|
+|name|name|Converter_DCDC : IH0509S|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'IH0503S'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'PS'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'IH0509S'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Converter_DCDC</td></tr><tr><td>Converter_DCDC_XP_POWER-IHxxxxS_THT'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.xppower.com/pdfs/SF_IH.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'XP_POWER DC/DC isolated Converter module'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'XP Power 2W</td><td> 1000 VDC Isolated DC/DC Converter Module</td><td> Dual Output Voltage ±9V</td><td> ±111mA</td><td> 5V Input Voltage</td><td> SIP'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> '*XP?POWER?IHxxxxS*'</td></tr></table>]|
 ||||

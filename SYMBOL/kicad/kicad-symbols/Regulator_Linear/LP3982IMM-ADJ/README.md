@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORLINEARLP3982IADJ > LP3982IMM-ADJ
+# SZKREGULATORLINEARLP3982IADJ > Regulator_Linear : LP3982IMM-ADJ
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-LP3982IMM-ADJ
 - Hex ID: SZKREGULATORLINEARLP3982IADJ
-- Name: LP3982IMM-ADJ
-- Description: LP3982IMM-ADJ
+- Name: Regulator_Linear : LP3982IMM-ADJ
+- Description: Regulator_Linear : LP3982IMM-ADJ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LP3982IMM-ADJ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LP3982IMM-ADJ)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARLP3982IADJ](http://oom.lt/SZKREGULATORLINEARLP3982IADJ)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LP3982IMM-ADJ|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-LP3982IMM-ADJ|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARLP3982IADJ|
-|name|name|LP3982IMM-ADJ|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LP3982IMM-ADJ', 'kicadSymbolFootprint': 'Package_SO:VSSOP-8_3.0x3.0mm_P0.65mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lp3982.pdf', 'kicadSymbolki_keywords': 'adjustable linear regulator', 'kicadSymbolki_description': '300mA, Micropower, Ultra-Low-Dropout, Low-Noise Adjustable CMOS Regulator, VSSOP-8', 'kicadSymbolki_fp_filters': 'VSSOP*3.0x3.0mm*P0.65mm*'}]|
+|name|name|Regulator_Linear : LP3982IMM-ADJ|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LP3982IMM-ADJ'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>VSSOP-8_3.0x3.0mm_P0.65mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/lp3982.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'adjustable linear regulator'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '300mA</td><td> Micropower</td><td> Ultra-Low-Dropout</td><td> Low-Noise Adjustable CMOS Regulator</td><td> VSSOP-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'VSSOP*3.0x3.0mm*P0.65mm*'</td></tr></table>]|
 ||||

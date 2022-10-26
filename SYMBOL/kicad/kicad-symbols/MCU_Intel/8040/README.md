@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUINTEL84 > 8040
+# SZKMCUINTEL84 > MCU_Intel : 8040
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Intel-8040
 - Hex ID: SZKMCUINTEL84
-- Name: 8040
-- Description: 8040
+- Name: MCU_Intel : 8040
+- Description: MCU_Intel : 8040
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Intel-8040](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Intel-8040)
 - Short Link: [http://oom.lt/SZKMCUINTEL84](http://oom.lt/SZKMCUINTEL84)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|8040|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Intel-8040|
 |Hex ID (short code)|hexID|SZKMCUINTEL84|
-|name|name|8040|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '8035', 'kicadSymbolReference': 'U', 'kicadSymbolValue': '8040', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_keywords': 'MCS-48 uC Microcontroller', 'kicadSymbolki_description': 'MCS-48 8-bit Microcontroller, No (EP)ROM, 256B RAM, DIP-40', 'kicadSymbolki_fp_filters': 'DIP* PDIP*'}]|
+|name|name|MCU_Intel : 8040|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> '8035'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> '8040'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'MCS-48 uC Microcontroller'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'MCS-48 8-bit Microcontroller</td><td> No (EP)ROM</td><td> 256B RAM</td><td> DIP-40'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP* PDIP*'</td></tr></table>]|
 ||||

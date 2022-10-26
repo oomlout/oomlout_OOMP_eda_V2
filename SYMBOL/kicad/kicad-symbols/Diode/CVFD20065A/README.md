@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDIODECVFD265A > CVFD20065A
+# SZKDIODECVFD265A > Diode : CVFD20065A
 
 - ID: SYMBOL-kicad-kicad-symbols-Diode-CVFD20065A
 - Hex ID: SZKDIODECVFD265A
-- Name: CVFD20065A
-- Description: CVFD20065A
+- Name: Diode : CVFD20065A
+- Description: Diode : CVFD20065A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-CVFD20065A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-CVFD20065A)
 - Short Link: [http://oom.lt/SZKDIODECVFD265A](http://oom.lt/SZKDIODECVFD265A)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|CVFD20065A|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-CVFD20065A|
 |Hex ID (short code)|hexID|SZKDIODECVFD265A|
-|name|name|CVFD20065A|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MBR735', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'CVFD20065A', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-220-2_Vertical', 'kicadSymbolDatasheet': 'https://www.wolfspeed.com/media/downloads/89/CVFD20065A.pdf', 'kicadSymbolki_keywords': 'sic diode', 'kicadSymbolki_description': '650V, 20A, SiC Schottky Diode, TO-220', 'kicadSymbolki_fp_filters': 'TO?220*'}]|
+|name|name|Diode : CVFD20065A|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'MBR735'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'CVFD20065A'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_THT</td></tr><tr><td>TO-220-2_Vertical'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.wolfspeed.com/media/downloads/89/CVFD20065A.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'sic diode'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '650V</td><td> 20A</td><td> SiC Schottky Diode</td><td> TO-220'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TO?220*'</td></tr></table>]|
 ||||

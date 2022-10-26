@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDIODE1N53XXB > 1N53xxB
+# SZKDIODE1N53XXB > Diode : 1N53xxB
 
 - ID: SYMBOL-kicad-kicad-symbols-Diode-1N53xxB
 - Hex ID: SZKDIODE1N53XXB
-- Name: 1N53xxB
-- Description: 1N53xxB
+- Name: Diode : 1N53xxB
+- Description: Diode : 1N53xxB
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-1N53xxB](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-1N53xxB)
 - Short Link: [http://oom.lt/SZKDIODE1N53XXB](http://oom.lt/SZKDIODE1N53XXB)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|1N53xxB|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-1N53xxB|
 |Hex ID (short code)|hexID|SZKDIODE1N53XXB|
-|name|name|1N53xxB|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ZPYxx', 'kicadSymbolReference': 'D', 'kicadSymbolValue': '1N53xxB', 'kicadSymbolFootprint': 'Diode_THT:D_DO-201_P15.24mm_Horizontal', 'kicadSymbolDatasheet': 'https://diotec.com/tl_files/diotec/files/pdf/datasheets/1n5345b.pdf', 'kicadSymbolki_keywords': 'zener diode', 'kicadSymbolki_description': '5000mW Zener Diode, DO-201', 'kicadSymbolki_fp_filters': 'D*DO?201*'}]|
+|name|name|Diode : 1N53xxB|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'ZPYxx'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> '1N53xxB'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Diode_THT</td></tr><tr><td>D_DO-201_P15.24mm_Horizontal'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//diotec.com/tl_files/diotec/files/pdf/datasheets/1n5345b.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'zener diode'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '5000mW Zener Diode</td><td> DO-201'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'D*DO?201*'</td></tr></table>]|
 ||||

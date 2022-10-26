@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.54mm-PinHeader_1x35_P2.54mm_Vertical_SMD_Pin1Right|
 |Hex ID (short code)|hexID|FZKCNPINHEADER254PINHEADER1X35P254VERTICALSMPIN1RIGHT|
 |name|name|Connector_PinHeader_2.54mm : PinHeader_1x35_P2.54mm_Vertical_SMD_Pin1Right|
-|Footprint Kicad|footprintKicadDetails|{'name': 'PinHeader_1x35_P2.54mm_Vertical_SMD_Pin1Right', 'description': 'surface-mounted straight pin header, 1x35, 2.54mm pitch, single row, style 2 (pin 1 right)', 'tags': 'Surface mounted pin header SMD 1x35 2.54mm single row style2 pin1 right', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x35_P2.54mm_Vertical_SMD_Pin1Right.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'PinHeader_1x35_P2.54mm_Vertical_SMD_Pin1Right'</td><td> 'description'</td></tr><tr><td> 'surface-mounted straight pin header</td><td> 1x35</td><td> 2.54mm pitch</td><td> single row</td><td> style 2 (pin 1 right)'</td><td> 'tags'</td></tr><tr><td> 'Surface mounted pin header SMD 1x35 2.54mm single row style2 pin1 right'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x35_P2.54mm_Vertical_SMD_Pin1Right.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

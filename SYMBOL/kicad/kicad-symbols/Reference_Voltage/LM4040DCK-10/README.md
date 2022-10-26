@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREFERENCEVOLTAGELM44DCK1 > LM4040DCK-10
+# SZKREFERENCEVOLTAGELM44DCK1 > Reference_Voltage : LM4040DCK-10
 
 - ID: SYMBOL-kicad-kicad-symbols-Reference_Voltage-LM4040DCK-10
 - Hex ID: SZKREFERENCEVOLTAGELM44DCK1
-- Name: LM4040DCK-10
-- Description: LM4040DCK-10
+- Name: Reference_Voltage : LM4040DCK-10
+- Description: Reference_Voltage : LM4040DCK-10
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-LM4040DCK-10](http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-LM4040DCK-10)
 - Short Link: [http://oom.lt/SZKREFERENCEVOLTAGELM44DCK1](http://oom.lt/SZKREFERENCEVOLTAGELM44DCK1)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM4040DCK-10|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Reference_Voltage-LM4040DCK-10|
 |Hex ID (short code)|hexID|SZKREFERENCEVOLTAGELM44DCK1|
-|name|name|LM4040DCK-10|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LM4040DCK-2.0', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM4040DCK-10', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-353_SC-70-5', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lm4040-n.pdf', 'kicadSymbolki_keywords': 'diode device voltage reference shunt', 'kicadSymbolki_description': '10.0V Precision Micropower Shunt Voltage Reference, SC-70', 'kicadSymbolki_fp_filters': 'SOT?353*'}]|
+|name|name|Reference_Voltage : LM4040DCK-10|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'LM4040DCK-2.0'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LM4040DCK-10'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-353_SC-70-5'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/lm4040-n.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'diode device voltage reference shunt'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '10.0V Precision Micropower Shunt Voltage Reference</td><td> SC-70'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?353*'</td></tr></table>]|
 ||||

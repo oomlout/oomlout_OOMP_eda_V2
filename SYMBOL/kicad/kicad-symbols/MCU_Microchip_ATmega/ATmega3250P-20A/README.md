@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUMCHIPATMEGAATMEGA325P2A > ATmega3250P-20A
+# SZKMCUMCHIPATMEGAATMEGA325P2A > MCU_Microchip_ATmega : ATmega3250P-20A
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega3250P-20A
 - Hex ID: SZKMCUMCHIPATMEGAATMEGA325P2A
-- Name: ATmega3250P-20A
-- Description: ATmega3250P-20A
+- Name: MCU_Microchip_ATmega : ATmega3250P-20A
+- Description: MCU_Microchip_ATmega : ATmega3250P-20A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega3250P-20A](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega3250P-20A)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATMEGAATMEGA325P2A](http://oom.lt/SZKMCUMCHIPATMEGAATMEGA325P2A)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ATmega3250P-20A|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega3250P-20A|
 |Hex ID (short code)|hexID|SZKMCUMCHIPATMEGAATMEGA325P2A|
-|name|name|ATmega3250P-20A|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ATmega3250V-8A', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ATmega3250P-20A', 'kicadSymbolFootprint': 'Package_QFP:TQFP-100_14x14mm_P0.5mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/doc8023.pdf', 'kicadSymbolki_keywords': 'AVR 8bit Microcontroller MegaAVR', 'kicadSymbolki_description': '20MHz, 32kB Flash, 2kB SRAM, 1kB EEPROM, JTAG, TQFP-100', 'kicadSymbolki_fp_filters': 'TQFP*14x14mm*P0.5mm*'}]|
+|name|name|MCU_Microchip_ATmega : ATmega3250P-20A|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'ATmega3250V-8A'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ATmega3250P-20A'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_QFP</td></tr><tr><td>TQFP-100_14x14mm_P0.5mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/doc8023.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'AVR 8bit Microcontroller MegaAVR'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '20MHz</td><td> 32kB Flash</td><td> 2kB SRAM</td><td> 1kB EEPROM</td><td> JTAG</td><td> TQFP-100'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TQFP*14x14mm*P0.5mm*'</td></tr></table>]|
 ||||

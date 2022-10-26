@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_2920_7451Metric|
 |Hex ID (short code)|hexID|FZKFUFU2927451METRIC|
 |name|name|Fuse : Fuse_2920_7451Metric|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Fuse_2920_7451Metric', 'description': 'Fuse SMD 2920 (7451 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size from: http://www.megastar.com/products/fusetronic/polyswitch/PDF/smd2920.pdf), generated with kicad-footprint-generator', 'tags': 'fuse', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Fuse.3dshapes/Fuse_2920_7451Metric.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Fuse_2920_7451Metric'</td><td> 'description'</td></tr><tr><td> 'Fuse SMD 2920 (7451 Metric)</td><td> square (rectangular) end terminal</td><td> IPC_7351 nominal</td><td> (Body size from</td></tr><tr><td> http</td></tr><tr><td>//www.megastar.com/products/fusetronic/polyswitch/PDF/smd2920.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'fuse'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Fuse.3dshapes/Fuse_2920_7451Metric.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

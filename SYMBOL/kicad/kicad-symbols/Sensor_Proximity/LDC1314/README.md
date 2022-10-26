@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKSENPROXIMITYLDC1314 > LDC1314
+# SZKSENPROXIMITYLDC1314 > Sensor_Proximity : LDC1314
 
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Proximity-LDC1314
 - Hex ID: SZKSENPROXIMITYLDC1314
-- Name: LDC1314
-- Description: LDC1314
+- Name: Sensor_Proximity : LDC1314
+- Description: Sensor_Proximity : LDC1314
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Proximity-LDC1314](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Proximity-LDC1314)
 - Short Link: [http://oom.lt/SZKSENPROXIMITYLDC1314](http://oom.lt/SZKSENPROXIMITYLDC1314)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LDC1314|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Proximity-LDC1314|
 |Hex ID (short code)|hexID|SZKSENPROXIMITYLDC1314|
-|name|name|LDC1314|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LDC1314', 'kicadSymbolFootprint': 'Package_DFN_QFN:WQFN-16-1EP_4x4mm_P0.5mm_EP2.6x2.6mm_ThermalVias', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/ldc1312.pdf', 'kicadSymbolki_keywords': 'inductance sensor', 'kicadSymbolki_description': 'Inductance to digital converter, 4-channel 12-bit, WQFN-16', 'kicadSymbolki_fp_filters': 'WQFN*1EP*4x4mm*P0.5mm*'}]|
+|name|name|Sensor_Proximity : LDC1314|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LDC1314'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>WQFN-16-1EP_4x4mm_P0.5mm_EP2.6x2.6mm_ThermalVias'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/ldc1312.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'inductance sensor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Inductance to digital converter</td><td> 4-channel 12-bit</td><td> WQFN-16'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'WQFN*1EP*4x4mm*P0.5mm*'</td></tr></table>]|
 ||||

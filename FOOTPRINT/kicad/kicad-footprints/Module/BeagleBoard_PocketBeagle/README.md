@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Module-BeagleBoard_PocketBeagle|
 |Hex ID (short code)|hexID|FZKMOBEAGLEBOARDPOCKETBEAGLE|
 |name|name|Module : BeagleBoard_PocketBeagle|
-|Footprint Kicad|footprintKicadDetails|{'name': 'BeagleBoard_PocketBeagle', 'description': 'PocketBeagle, https://github.com/beagleboard/pocketbeagle/wiki/System-Reference-Manual#71_Expansion_Header_Connectors', 'tags': 'PocketBeagle', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Module.3dshapes/BeagleBoard_PocketBeagle.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'BeagleBoard_PocketBeagle'</td><td> 'description'</td></tr><tr><td> 'PocketBeagle</td><td> https</td></tr><tr><td>//github.com/beagleboard/pocketbeagle/wiki/System-Reference-Manual#71_Expansion_Header_Connectors'</td><td> 'tags'</td></tr><tr><td> 'PocketBeagle'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Module.3dshapes/BeagleBoard_PocketBeagle.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

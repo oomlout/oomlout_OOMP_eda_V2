@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_CommonMode_PulseElectronics_PH9455xxx6NL_2|
 |Hex ID (short code)|hexID|FZKINLCOONMODEPULSEELECTRONICSPH9455XXX6NL2|
 |name|name|Inductor_THT : L_CommonMode_PulseElectronics_PH9455xxx6NL_2|
-|Footprint Kicad|footprintKicadDetails|{'name': 'L_CommonMode_PulseElectronics_PH9455xxx6NL_2', 'description': 'common mode, inductor, filter, https://productfinder.pulseelectronics.com/api/open/product-attachments/datasheet/ph9455.105nl', 'tags': 'cmode choke dual', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_THT.3dshapes/L_CommonMode_PulseElectronics_PH9455xxx6NL_2.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'L_CommonMode_PulseElectronics_PH9455xxx6NL_2'</td><td> 'description'</td></tr><tr><td> 'common mode</td><td> inductor</td><td> filter</td><td> https</td></tr><tr><td>//productfinder.pulseelectronics.com/api/open/product-attachments/datasheet/ph9455.105nl'</td><td> 'tags'</td></tr><tr><td> 'cmode choke dual'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Inductor_THT.3dshapes/L_CommonMode_PulseElectronics_PH9455xxx6NL_2.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

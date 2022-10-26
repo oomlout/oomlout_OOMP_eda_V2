@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUSTSTM32L4STM32L462CEUX > STM32L462CEUx
+# SZKMCUSTSTM32L4STM32L462CEUX > MCU_ST_STM32L4 : STM32L462CEUx
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L4-STM32L462CEUx
 - Hex ID: SZKMCUSTSTM32L4STM32L462CEUX
-- Name: STM32L462CEUx
-- Description: STM32L462CEUx
+- Name: MCU_ST_STM32L4 : STM32L462CEUx
+- Description: MCU_ST_STM32L4 : STM32L462CEUx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L4-STM32L462CEUx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L4-STM32L462CEUx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32L4STM32L462CEUX](http://oom.lt/SZKMCUSTSTM32L4STM32L462CEUX)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|STM32L462CEUx|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L4-STM32L462CEUx|
 |Hex ID (short code)|hexID|SZKMCUSTSTM32L4STM32L462CEUX|
-|name|name|STM32L462CEUx|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'STM32L462CEUx', 'kicadSymbolFootprint': 'Package_DFN_QFN:QFN-48-1EP_7x7mm_P0.5mm_EP5.6x5.6mm', 'kicadSymbolDatasheet': 'http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00340637.pdf', 'kicadSymbolki_keywords': 'ARM Cortex-M4 STM32L4 STM32L4x2', 'kicadSymbolki_description': 'ARM Cortex-M4 MCU, 512KB flash, 160KB RAM, 80MHz, 38 GPIO, UFQFPN-48', 'kicadSymbolki_fp_filters': 'QFN*1EP*7x7mm*P0.5mm*'}]|
+|name|name|MCU_ST_STM32L4 : STM32L462CEUx|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'STM32L462CEUx'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>QFN-48-1EP_7x7mm_P0.5mm_EP5.6x5.6mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00340637.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'ARM Cortex-M4 STM32L4 STM32L4x2'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'ARM Cortex-M4 MCU</td><td> 512KB flash</td><td> 160KB RAM</td><td> 80MHz</td><td> 38 GPIO</td><td> UFQFPN-48'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'QFN*1EP*7x7mm*P0.5mm*'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUNXPS8MC9S8SH16XTG > MC9S08SH16xTG
+# SZKMCUNXPS8MC9S8SH16XTG > MCU_NXP_S08 : MC9S08SH16xTG
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_NXP_S08-MC9S08SH16xTG
 - Hex ID: SZKMCUNXPS8MC9S8SH16XTG
-- Name: MC9S08SH16xTG
-- Description: MC9S08SH16xTG
+- Name: MCU_NXP_S08 : MC9S08SH16xTG
+- Description: MCU_NXP_S08 : MC9S08SH16xTG
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_S08-MC9S08SH16xTG](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_S08-MC9S08SH16xTG)
 - Short Link: [http://oom.lt/SZKMCUNXPS8MC9S8SH16XTG](http://oom.lt/SZKMCUNXPS8MC9S8SH16XTG)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MC9S08SH16xTG|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_NXP_S08-MC9S08SH16xTG|
 |Hex ID (short code)|hexID|SZKMCUNXPS8MC9S8SH16XTG|
-|name|name|MC9S08SH16xTG|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MC9S08SH32xTG', 'kicadSymbolReference': 'IC', 'kicadSymbolValue': 'MC9S08SH16xTG', 'kicadSymbolFootprint': 'Package_SO:TSSOP-16_4.4x5mm_P0.65mm', 'kicadSymbolDatasheet': 'http://cache.nxp.com/files/microcontrollers/doc/data_sheet/MC9S08SH32.pdf', 'kicadSymbolki_keywords': 'NXP S08 Microcontroller', 'kicadSymbolki_description': '8-bit General Purpose Microcontroller, S08 core, 16kB Flash, 1kB RAM, TSSOP-16', 'kicadSymbolki_fp_filters': 'TSSOP*4.4x5mm*P0.65mm*'}]|
+|name|name|MCU_NXP_S08 : MC9S08SH16xTG|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'MC9S08SH32xTG'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'IC'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MC9S08SH16xTG'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>TSSOP-16_4.4x5mm_P0.65mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//cache.nxp.com/files/microcontrollers/doc/data_sheet/MC9S08SH32.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'NXP S08 Microcontroller'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '8-bit General Purpose Microcontroller</td><td> S08 core</td><td> 16kB Flash</td><td> 1kB RAM</td><td> TSSOP-16'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TSSOP*4.4x5mm*P0.65mm*'</td></tr></table>]|
 ||||

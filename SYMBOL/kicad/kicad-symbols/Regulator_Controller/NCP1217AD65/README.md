@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORCONTROLLERNCP1217AD65 > NCP1217AD65
+# SZKREGULATORCONTROLLERNCP1217AD65 > Regulator_Controller : NCP1217AD65
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Controller-NCP1217AD65
 - Hex ID: SZKREGULATORCONTROLLERNCP1217AD65
-- Name: NCP1217AD65
-- Description: NCP1217AD65
+- Name: Regulator_Controller : NCP1217AD65
+- Description: Regulator_Controller : NCP1217AD65
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-NCP1217AD65](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-NCP1217AD65)
 - Short Link: [http://oom.lt/SZKREGULATORCONTROLLERNCP1217AD65](http://oom.lt/SZKREGULATORCONTROLLERNCP1217AD65)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|NCP1217AD65|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Controller-NCP1217AD65|
 |Hex ID (short code)|hexID|SZKREGULATORCONTROLLERNCP1217AD65|
-|name|name|NCP1217AD65|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'NCP1200D40', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'NCP1217AD65', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm', 'kicadSymbolDatasheet': 'http://www.onsemi.com/pub_link/Collateral/NCP1217-D.PDF', 'kicadSymbolki_keywords': 'SMPS Controller AC-DC', 'kicadSymbolki_description': 'Enhanced PWM Current-Mode Controller for High-Power Universal Off-Line Supplies, AC-DC, 65kHz, 1ms Soft Start, SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm*'}]|
+|name|name|Regulator_Controller : NCP1217AD65|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'NCP1200D40'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'NCP1217AD65'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-8_3.9x4.9mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.onsemi.com/pub_link/Collateral/NCP1217-D.PDF'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'SMPS Controller AC-DC'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Enhanced PWM Current-Mode Controller for High-Power Universal Off-Line Supplies</td><td> AC-DC</td><td> 65kHz</td><td> 1ms Soft Start</td><td> SOIC-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*3.9x4.9mm*P1.27mm*'</td></tr></table>]|
 ||||

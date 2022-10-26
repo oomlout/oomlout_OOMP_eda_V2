@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKPOWERMANAGEMENTLM747 > LM74700
+# SZKPOWERMANAGEMENTLM747 > Power_Management : LM74700
 
 - ID: SYMBOL-kicad-kicad-symbols-Power_Management-LM74700
 - Hex ID: SZKPOWERMANAGEMENTLM747
-- Name: LM74700
-- Description: LM74700
+- Name: Power_Management : LM74700
+- Description: Power_Management : LM74700
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-LM74700](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-LM74700)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTLM747](http://oom.lt/SZKPOWERMANAGEMENTLM747)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM74700|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Management-LM74700|
 |Hex ID (short code)|hexID|SZKPOWERMANAGEMENTLM747|
-|name|name|LM74700|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM74700', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-6', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/gpn/LM74700-Q1', 'kicadSymbolki_keywords': 'ideal-diode or-ing', 'kicadSymbolki_description': 'Low Iq reverse battery protection ideal diode controller, SOT-23-6', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
+|name|name|Power_Management : LM74700|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LM74700'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-23-6'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/gpn/LM74700-Q1'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'ideal-diode or-ing'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Low Iq reverse battery protection ideal diode controller</td><td> SOT-23-6'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23*'</td></tr></table>]|
 ||||

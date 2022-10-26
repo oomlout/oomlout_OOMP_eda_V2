@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORLINEARSPX292U33TO22 > SPX2920U-3.3_TO220
+# SZKREGULATORLINEARSPX292U33TO22 > Regulator_Linear : SPX2920U-3.3_TO220
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-SPX2920U-3.3_TO220
 - Hex ID: SZKREGULATORLINEARSPX292U33TO22
-- Name: SPX2920U-3.3_TO220
-- Description: SPX2920U-3.3_TO220
+- Name: Regulator_Linear : SPX2920U-3.3_TO220
+- Description: Regulator_Linear : SPX2920U-3.3_TO220
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-SPX2920U-3.3_TO220](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-SPX2920U-3.3_TO220)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARSPX292U33TO22](http://oom.lt/SZKREGULATORLINEARSPX292U33TO22)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SPX2920U-3.3_TO220|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-SPX2920U-3.3_TO220|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARSPX292U33TO22|
-|name|name|SPX2920U-3.3_TO220|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LM7805_TO220', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'SPX2920U-3.3_TO220', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-220-3_Vertical', 'kicadSymbolDatasheet': 'http://www.zlgmcu.com/Sipex/LDO/PDF/spx2920.pdf', 'kicadSymbolki_keywords': 'REGULATOR LDO 3.3V', 'kicadSymbolki_description': '400mA Low drop-out regulator, Fixed Output 3.3V, TO-220', 'kicadSymbolki_fp_filters': 'TO?220*'}]|
+|name|name|Regulator_Linear : SPX2920U-3.3_TO220|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'LM7805_TO220'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'SPX2920U-3.3_TO220'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_THT</td></tr><tr><td>TO-220-3_Vertical'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.zlgmcu.com/Sipex/LDO/PDF/spx2920.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'REGULATOR LDO 3.3V'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '400mA Low drop-out regulator</td><td> Fixed Output 3.3V</td><td> TO-220'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TO?220*'</td></tr></table>]|
 ||||

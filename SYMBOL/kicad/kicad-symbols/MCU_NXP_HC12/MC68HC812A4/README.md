@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUNXPHC12MC68HC812A4 > MC68HC812A4
+# SZKMCUNXPHC12MC68HC812A4 > MCU_NXP_HC12 : MC68HC812A4
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_NXP_HC12-MC68HC812A4
 - Hex ID: SZKMCUNXPHC12MC68HC812A4
-- Name: MC68HC812A4
-- Description: MC68HC812A4
+- Name: MCU_NXP_HC12 : MC68HC812A4
+- Description: MCU_NXP_HC12 : MC68HC812A4
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_HC12-MC68HC812A4](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_HC12-MC68HC812A4)
 - Short Link: [http://oom.lt/SZKMCUNXPHC12MC68HC812A4](http://oom.lt/SZKMCUNXPHC12MC68HC812A4)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MC68HC812A4|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_NXP_HC12-MC68HC812A4|
 |Hex ID (short code)|hexID|SZKMCUNXPHC12MC68HC812A4|
-|name|name|MC68HC812A4|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MC68HC812A4', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_keywords': '68HC12 Microcontroller', 'kicadSymbolki_description': 'HC12 Microcontroller 112 pins'}]|
+|name|name|MCU_NXP_HC12 : MC68HC812A4|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MC68HC812A4'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> '68HC12 Microcontroller'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'HC12 Microcontroller 112 pins'</td></tr></table>]|
 ||||

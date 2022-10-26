@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-MLPQ-16-1EP_4x4mm_P0.65mm_EP2.8x2.8mm|
 |Hex ID (short code)|hexID|FZKDFNMLPQ161EP4X4P65EP28X28|
 |name|name|Package_DFN_QFN : MLPQ-16-1EP_4x4mm_P0.65mm_EP2.8x2.8mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'MLPQ-16-1EP_4x4mm_P0.65mm_EP2.8x2.8mm', 'description': 'Micro Leadframe Package, 16 pin with exposed pad', 'tags': 'MLPQ- 0.65', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/MLPQ-16-1EP_4x4mm_P0.65mm_EP2.8x2.8mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'MLPQ-16-1EP_4x4mm_P0.65mm_EP2.8x2.8mm'</td><td> 'description'</td></tr><tr><td> 'Micro Leadframe Package</td><td> 16 pin with exposed pad'</td><td> 'tags'</td></tr><tr><td> 'MLPQ- 0.65'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DFN_QFN.3dshapes/MLPQ-16-1EP_4x4mm_P0.65mm_EP2.8x2.8mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

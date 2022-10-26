@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUMCHIPATMEGAATMEGA16L8A > ATmega16L-8A
+# SZKMCUMCHIPATMEGAATMEGA16L8A > MCU_Microchip_ATmega : ATmega16L-8A
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega16L-8A
 - Hex ID: SZKMCUMCHIPATMEGAATMEGA16L8A
-- Name: ATmega16L-8A
-- Description: ATmega16L-8A
+- Name: MCU_Microchip_ATmega : ATmega16L-8A
+- Description: MCU_Microchip_ATmega : ATmega16L-8A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega16L-8A](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega16L-8A)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATMEGAATMEGA16L8A](http://oom.lt/SZKMCUMCHIPATMEGAATMEGA16L8A)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ATmega16L-8A|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega16L-8A|
 |Hex ID (short code)|hexID|SZKMCUMCHIPATMEGAATMEGA16L8A|
-|name|name|ATmega16L-8A|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ATmega16L-8A', 'kicadSymbolFootprint': 'Package_QFP:TQFP-44_10x10mm_P0.8mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/doc2466.pdf', 'kicadSymbolki_keywords': 'AVR 8bit Microcontroller MegaAVR', 'kicadSymbolki_description': '8MHz, 16kB Flash, 1kB SRAM, 512B EEPROM, JTAG, TQFP-44', 'kicadSymbolki_fp_filters': 'TQFP*10x10mm*P0.8mm*'}]|
+|name|name|MCU_Microchip_ATmega : ATmega16L-8A|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ATmega16L-8A'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_QFP</td></tr><tr><td>TQFP-44_10x10mm_P0.8mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/doc2466.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'AVR 8bit Microcontroller MegaAVR'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '8MHz</td><td> 16kB Flash</td><td> 1kB SRAM</td><td> 512B EEPROM</td><td> JTAG</td><td> TQFP-44'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TQFP*10x10mm*P0.8mm*'</td></tr></table>]|
 ||||

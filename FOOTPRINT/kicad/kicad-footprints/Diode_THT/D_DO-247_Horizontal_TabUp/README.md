@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Diode_THT-D_DO-247_Horizontal_TabUp|
 |Hex ID (short code)|hexID|FZKDDDO247HORIZONTALTABUP|
 |name|name|Diode_THT : D_DO-247_Horizontal_TabUp|
-|Footprint Kicad|footprintKicadDetails|{'name': 'D_DO-247_Horizontal_TabUp', 'description': 'Diode, DO-247 series, Horizontal, TabUp, P 10.9mm', 'tags': 'diode rectifier', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-247_Horizontal_TabUp.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'oval'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'D_DO-247_Horizontal_TabUp'</td><td> 'description'</td></tr><tr><td> 'Diode</td><td> DO-247 series</td><td> Horizontal</td><td> TabUp</td><td> P 10.9mm'</td><td> 'tags'</td></tr><tr><td> 'diode rectifier'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Diode_THT.3dshapes/D_DO-247_Horizontal_TabUp.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'oval'</td></tr></table></td></tr></table>|
 ||||
 
 

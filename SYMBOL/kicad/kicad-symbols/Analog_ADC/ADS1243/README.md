@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKANALOGADCADS1243 > ADS1243
+# SZKANALOGADCADS1243 > Analog_ADC : ADS1243
 
 - ID: SYMBOL-kicad-kicad-symbols-Analog_ADC-ADS1243
 - Hex ID: SZKANALOGADCADS1243
-- Name: ADS1243
-- Description: ADS1243
+- Name: Analog_ADC : ADS1243
+- Description: Analog_ADC : ADS1243
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-ADS1243](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-ADS1243)
 - Short Link: [http://oom.lt/SZKANALOGADCADS1243](http://oom.lt/SZKANALOGADCADS1243)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ADS1243|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_ADC-ADS1243|
 |Hex ID (short code)|hexID|SZKANALOGADCADS1243|
-|name|name|ADS1243|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ADS1243', 'kicadSymbolFootprint': 'Package_SO:TSSOP-20_4.4x6.5mm_P0.65mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/ads1243.pdf', 'kicadSymbolki_keywords': '24bit ADC 8 Channels PGA SPI', 'kicadSymbolki_description': '24-bit ADC, 8 Channels, SPI compatible, PGA 1 to 128, TSSOP-20', 'kicadSymbolki_fp_filters': 'TSSOP*4.4x6.5mm*P0.65mm*'}]|
+|name|name|Analog_ADC : ADS1243|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ADS1243'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>TSSOP-20_4.4x6.5mm_P0.65mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/ads1243.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> '24bit ADC 8 Channels PGA SPI'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '24-bit ADC</td><td> 8 Channels</td><td> SPI compatible</td><td> PGA 1 to 128</td><td> TSSOP-20'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TSSOP*4.4x6.5mm*P0.65mm*'</td></tr></table>]|
 ||||

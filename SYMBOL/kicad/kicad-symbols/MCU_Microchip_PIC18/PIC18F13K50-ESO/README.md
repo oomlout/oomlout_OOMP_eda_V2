@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUMCHIPPIC18PIC18F13K5ESO > PIC18F13K50-ESO
+# SZKMCUMCHIPPIC18PIC18F13K5ESO > MCU_Microchip_PIC18 : PIC18F13K50-ESO
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18F13K50-ESO
 - Hex ID: SZKMCUMCHIPPIC18PIC18F13K5ESO
-- Name: PIC18F13K50-ESO
-- Description: PIC18F13K50-ESO
+- Name: MCU_Microchip_PIC18 : PIC18F13K50-ESO
+- Description: MCU_Microchip_PIC18 : PIC18F13K50-ESO
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18F13K50-ESO](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18F13K50-ESO)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC18PIC18F13K5ESO](http://oom.lt/SZKMCUMCHIPPIC18PIC18F13K5ESO)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PIC18F13K50-ESO|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18F13K50-ESO|
 |Hex ID (short code)|hexID|SZKMCUMCHIPPIC18PIC18F13K5ESO|
-|name|name|PIC18F13K50-ESO|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PIC18F13K50-ESO', 'kicadSymbolFootprint': 'Package_SO:SOIC-20W_7.5x12.8mm_P1.27mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/devicedoc/41350c.pdf', 'kicadSymbolki_keywords': 'Flash-Based 8bit CMOS Microcontroller XLP', 'kicadSymbolki_description': '8K Flash, 512 SRAM, 256 EEPROM, USB, nanoWatt XLP, SOIC20', 'kicadSymbolki_fp_filters': 'SOIC*W*7.5x12.8mm*P1.27mm*'}]|
+|name|name|MCU_Microchip_PIC18 : PIC18F13K50-ESO|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'PIC18F13K50-ESO'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-20W_7.5x12.8mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/devicedoc/41350c.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Flash-Based 8bit CMOS Microcontroller XLP'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '8K Flash</td><td> 512 SRAM</td><td> 256 EEPROM</td><td> USB</td><td> nanoWatt XLP</td><td> SOIC20'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*W*7.5x12.8mm*P1.27mm*'</td></tr></table>]|
 ||||

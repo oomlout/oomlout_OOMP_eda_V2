@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-LFPAK56|
 |Hex ID (short code)|hexID|FZKPACKAGETOSOTSMLFPAK56|
 |name|name|Package_TO_SOT_SMD : LFPAK56|
-|Footprint Kicad|footprintKicadDetails|{'name': 'LFPAK56', 'description': 'LFPAK56 https://assets.nexperia.com/documents/outline-drawing/SOT669.pdf', 'tags': 'LFPAK56 SOT-669 Power-SO8', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/LFPAK56.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'LFPAK56'</td><td> 'description'</td></tr><tr><td> 'LFPAK56 https</td></tr><tr><td>//assets.nexperia.com/documents/outline-drawing/SOT669.pdf'</td><td> 'tags'</td></tr><tr><td> 'LFPAK56 SOT-669 Power-SO8'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_TO_SOT_SMD.3dshapes/LFPAK56.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

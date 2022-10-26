@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKSWITCHSWSPDTMSM > SW_SPDT_MSM
+# SZKSWITCHSWSPDTMSM > Switch : SW_SPDT_MSM
 
 - ID: SYMBOL-kicad-kicad-symbols-Switch-SW_SPDT_MSM
 - Hex ID: SZKSWITCHSWSPDTMSM
-- Name: SW_SPDT_MSM
-- Description: SW_SPDT_MSM
+- Name: Switch : SW_SPDT_MSM
+- Description: Switch : SW_SPDT_MSM
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Switch-SW_SPDT_MSM](http://oom.lt/SYMBOL-kicad-kicad-symbols-Switch-SW_SPDT_MSM)
 - Short Link: [http://oom.lt/SZKSWITCHSWSPDTMSM](http://oom.lt/SZKSWITCHSWSPDTMSM)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SW_SPDT_MSM|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Switch-SW_SPDT_MSM|
 |Hex ID (short code)|hexID|SZKSWITCHSWSPDTMSM|
-|name|name|SW_SPDT_MSM|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'SW', 'kicadSymbolValue': 'SW_SPDT_MSM', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'switch spdt single-pole double-throw ON-OFF-ON', 'kicadSymbolki_description': 'Switch, single pole double throw, center OFF position'}]|
+|name|name|Switch : SW_SPDT_MSM|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'SW'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'SW_SPDT_MSM'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'switch spdt single-pole double-throw ON-OFF-ON'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Switch</td><td> single pole double throw</td><td> center OFF position'</td></tr></table>]|
 ||||

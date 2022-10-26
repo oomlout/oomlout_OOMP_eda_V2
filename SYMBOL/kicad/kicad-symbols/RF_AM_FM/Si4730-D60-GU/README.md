@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKRFAMFMSI473D6GU > Si4730-D60-GU
+# SZKRFAMFMSI473D6GU > RF_AM_FM : Si4730-D60-GU
 
 - ID: SYMBOL-kicad-kicad-symbols-RF_AM_FM-Si4730-D60-GU
 - Hex ID: SZKRFAMFMSI473D6GU
-- Name: Si4730-D60-GU
-- Description: Si4730-D60-GU
+- Name: RF_AM_FM : Si4730-D60-GU
+- Description: RF_AM_FM : Si4730-D60-GU
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_AM_FM-Si4730-D60-GU](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_AM_FM-Si4730-D60-GU)
 - Short Link: [http://oom.lt/SZKRFAMFMSI473D6GU](http://oom.lt/SZKRFAMFMSI473D6GU)
   
@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|Si4730-D60-GU|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-RF_AM_FM-Si4730-D60-GU|
 |Hex ID (short code)|hexID|SZKRFAMFMSI473D6GU|
-|name|name|Si4730-D60-GU|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'Si4735-D60-GU', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'Si4730-D60-GU', 'kicadSymbolFootprint': 'Package_SO:SSOP-24_3.9x8.7mm_P0.635mm', 'kicadSymbolDatasheet': 'http://www.silabs.com/Support%20Documents/TechnicalDocs/Si4730-31-34-35-D60.pdf', 'kicadSymbolki_keywords': 'Broadcast AM FM Radio Receiver', 'kicadSymbolki_description': 'AM/FM Broadcast Radio Receiver', 'kicadSymbolki_fp_filters': 'SSOP*3.9x8.7mm*P0.635mm*'}]|
+|name|name|RF_AM_FM : Si4730-D60-GU|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'Si4735-D60-GU'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Si4730-D60-GU'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SSOP-24_3.9x8.7mm_P0.635mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.silabs.com/Support%20Documents/TechnicalDocs/Si4730-31-34-35-D60.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Broadcast AM FM Radio Receiver'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'AM/FM Broadcast Radio Receiver'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SSOP*3.9x8.7mm*P0.635mm*'</td></tr></table>]|
 ||||

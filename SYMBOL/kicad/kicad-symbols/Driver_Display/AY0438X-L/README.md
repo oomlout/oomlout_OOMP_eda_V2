@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDRIVERDIAY438XL > AY0438X-L
+# SZKDRIVERDIAY438XL > Driver_Display : AY0438X-L
 
 - ID: SYMBOL-kicad-kicad-symbols-Driver_Display-AY0438X-L
 - Hex ID: SZKDRIVERDIAY438XL
-- Name: AY0438X-L
-- Description: AY0438X-L
+- Name: Driver_Display : AY0438X-L
+- Description: Driver_Display : AY0438X-L
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Display-AY0438X-L](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Display-AY0438X-L)
 - Short Link: [http://oom.lt/SZKDRIVERDIAY438XL](http://oom.lt/SZKDRIVERDIAY438XL)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AY0438X-L|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Driver_Display-AY0438X-L|
 |Hex ID (short code)|hexID|SZKDRIVERDIAY438XL|
-|name|name|AY0438X-L|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AY0438X-L', 'kicadSymbolFootprint': 'Package_LCC:PLCC-44', 'kicadSymbolDatasheet': 'http://www.farnell.com/datasheets/43336.pdf', 'kicadSymbolki_keywords': 'driver display', 'kicadSymbolki_description': '32-Segment CMOS LCD Driver, CMOS and TTL-compatible inputs, VDD +3.0V to +8.5V, PLCC-44', 'kicadSymbolki_fp_filters': 'PLCC*'}]|
+|name|name|Driver_Display : AY0438X-L|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'AY0438X-L'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_LCC</td></tr><tr><td>PLCC-44'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.farnell.com/datasheets/43336.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'driver display'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '32-Segment CMOS LCD Driver</td><td> CMOS and TTL-compatible inputs</td><td> VDD +3.0V to +8.5V</td><td> PLCC-44'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'PLCC*'</td></tr></table>]|
 ||||

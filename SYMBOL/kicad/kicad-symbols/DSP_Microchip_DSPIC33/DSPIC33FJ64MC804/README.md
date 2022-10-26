@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDSPMCHIPDSPIC33DSPIC33FJ64MC84 > DSPIC33FJ64MC804
+# SZKDSPMCHIPDSPIC33DSPIC33FJ64MC84 > DSP_Microchip_DSPIC33 : DSPIC33FJ64MC804
 
 - ID: SYMBOL-kicad-kicad-symbols-DSP_Microchip_DSPIC33-DSPIC33FJ64MC804
 - Hex ID: SZKDSPMCHIPDSPIC33DSPIC33FJ64MC84
-- Name: DSPIC33FJ64MC804
-- Description: DSPIC33FJ64MC804
+- Name: DSP_Microchip_DSPIC33 : DSPIC33FJ64MC804
+- Description: DSP_Microchip_DSPIC33 : DSPIC33FJ64MC804
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-DSP_Microchip_DSPIC33-DSPIC33FJ64MC804](http://oom.lt/SYMBOL-kicad-kicad-symbols-DSP_Microchip_DSPIC33-DSPIC33FJ64MC804)
 - Short Link: [http://oom.lt/SZKDSPMCHIPDSPIC33DSPIC33FJ64MC84](http://oom.lt/SZKDSPMCHIPDSPIC33DSPIC33FJ64MC84)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DSPIC33FJ64MC804|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-DSP_Microchip_DSPIC33-DSPIC33FJ64MC804|
 |Hex ID (short code)|hexID|SZKDSPMCHIPDSPIC33DSPIC33FJ64MC84|
-|name|name|DSPIC33FJ64MC804|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'DSPIC33FJ64MC804', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/70291G.pdf', 'kicadSymbolki_keywords': '16-bit Digital Signal Controller Microchip dsPIC Motor Control', 'kicadSymbolki_description': '40MIPS, 64k Flash, 16k SRAM, ECAN, 16-bit DAC', 'kicadSymbolki_fp_filters': 'QFN?44*1EP*8x8mm*P0.65mm* TQFP?44*10x10mm*P0.8mm*'}]|
+|name|name|DSP_Microchip_DSPIC33 : DSPIC33FJ64MC804|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'DSPIC33FJ64MC804'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/70291G.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> '16-bit Digital Signal Controller Microchip dsPIC Motor Control'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '40MIPS</td><td> 64k Flash</td><td> 16k SRAM</td><td> ECAN</td><td> 16-bit DAC'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'QFN?44*1EP*8x8mm*P0.65mm* TQFP?44*10x10mm*P0.8mm*'</td></tr></table>]|
 ||||

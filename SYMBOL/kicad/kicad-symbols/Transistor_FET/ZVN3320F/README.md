@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORFETZVN332F > ZVN3320F
+# SZKTRANSISTORFETZVN332F > Transistor_FET : ZVN3320F
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-ZVN3320F
 - Hex ID: SZKTRANSISTORFETZVN332F
-- Name: ZVN3320F
-- Description: ZVN3320F
+- Name: Transistor_FET : ZVN3320F
+- Description: Transistor_FET : ZVN3320F
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-ZVN3320F](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-ZVN3320F)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETZVN332F](http://oom.lt/SZKTRANSISTORFETZVN332F)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ZVN3320F|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-ZVN3320F|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETZVN332F|
-|name|name|ZVN3320F|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BSS138', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'ZVN3320F', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23', 'kicadSymbolDatasheet': 'http://www.diodes.com/assets/Datasheets/ZVN3320F.pdf', 'kicadSymbolki_keywords': 'N-Channel MOSFET', 'kicadSymbolki_description': '0.06A Id, 200V Vds, N-Channel MOSFET, SOT-23', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
+|name|name|Transistor_FET : ZVN3320F|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'BSS138'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ZVN3320F'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-23'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.diodes.com/assets/Datasheets/ZVN3320F.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'N-Channel MOSFET'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '0.06A Id</td><td> 200V Vds</td><td> N-Channel MOSFET</td><td> SOT-23'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23*'</td></tr></table>]|
 ||||

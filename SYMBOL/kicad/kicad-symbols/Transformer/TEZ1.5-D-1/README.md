@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRTEZ15D1 > TEZ1.5-D-1
+# SZKTRTEZ15D1 > Transformer : TEZ1.5-D-1
 
 - ID: SYMBOL-kicad-kicad-symbols-Transformer-TEZ1.5-D-1
 - Hex ID: SZKTRTEZ15D1
-- Name: TEZ1.5-D-1
-- Description: TEZ1.5-D-1
+- Name: Transformer : TEZ1.5-D-1
+- Description: Transformer : TEZ1.5-D-1
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-TEZ1.5-D-1](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-TEZ1.5-D-1)
 - Short Link: [http://oom.lt/SZKTRTEZ15D1](http://oom.lt/SZKTRTEZ15D1)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TEZ1.5-D-1|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transformer-TEZ1.5-D-1|
 |Hex ID (short code)|hexID|SZKTRTEZ15D1|
-|name|name|TEZ1.5-D-1|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'TR', 'kicadSymbolValue': 'TEZ1.5-D-1', 'kicadSymbolFootprint': 'Transformer_THT:Transformer_Breve_TEZ-28x33', 'kicadSymbolDatasheet': 'http://www.breve.pl/pdf/ANG/TEZ_ang.pdf', 'kicadSymbolki_keywords': '1.5VA PCB Transformer Single Secondary', 'kicadSymbolki_description': 'TEZ1.5/D/x, 1.5VA, Single Secondary, Cast Resin Transformer, PCB', 'kicadSymbolki_fp_filters': 'Transformer*Breve*TEZ*28x33*'}]|
+|name|name|Transformer : TEZ1.5-D-1|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'TR'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TEZ1.5-D-1'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Transformer_THT</td></tr><tr><td>Transformer_Breve_TEZ-28x33'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.breve.pl/pdf/ANG/TEZ_ang.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> '1.5VA PCB Transformer Single Secondary'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'TEZ1.5/D/x</td><td> 1.5VA</td><td> Single Secondary</td><td> Cast Resin Transformer</td><td> PCB'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Transformer*Breve*TEZ*28x33*'</td></tr></table>]|
 ||||

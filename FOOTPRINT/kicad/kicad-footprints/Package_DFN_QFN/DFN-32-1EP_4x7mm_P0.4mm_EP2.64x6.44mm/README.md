@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-DFN-32-1EP_4x7mm_P0.4mm_EP2.64x6.44mm|
 |Hex ID (short code)|hexID|FZKDFNDFN321EP4X7P4EP264X644|
 |name|name|Package_DFN_QFN : DFN-32-1EP_4x7mm_P0.4mm_EP2.64x6.44mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'DFN-32-1EP_4x7mm_P0.4mm_EP2.64x6.44mm', 'description': 'DKD Package; 32-Lead Plastic DFN (7mm x 4mm) (see Linear Technology DFN_32_05-08-1734.pdf)', 'tags': 'DFN 0.4', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/DFN-32-1EP_4x7mm_P0.4mm_EP2.64x6.44mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'DFN-32-1EP_4x7mm_P0.4mm_EP2.64x6.44mm'</td><td> 'description'</td></tr><tr><td> 'DKD Package; 32-Lead Plastic DFN (7mm x 4mm) (see Linear Technology DFN_32_05-08-1734.pdf)'</td><td> 'tags'</td></tr><tr><td> 'DFN 0.4'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DFN_QFN.3dshapes/DFN-32-1EP_4x7mm_P0.4mm_EP2.64x6.44mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

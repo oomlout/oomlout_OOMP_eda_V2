@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUSTSTM32F7STM32F777VITX > STM32F777VITx
+# SZKMCUSTSTM32F7STM32F777VITX > MCU_ST_STM32F7 : STM32F777VITx
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F7-STM32F777VITx
 - Hex ID: SZKMCUSTSTM32F7STM32F777VITX
-- Name: STM32F777VITx
-- Description: STM32F777VITx
+- Name: MCU_ST_STM32F7 : STM32F777VITx
+- Description: MCU_ST_STM32F7 : STM32F777VITx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F7-STM32F777VITx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F7-STM32F777VITx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32F7STM32F777VITX](http://oom.lt/SZKMCUSTSTM32F7STM32F777VITX)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|STM32F777VITx|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F7-STM32F777VITx|
 |Hex ID (short code)|hexID|SZKMCUSTSTM32F7STM32F777VITX|
-|name|name|STM32F777VITx|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'STM32F777VITx', 'kicadSymbolFootprint': 'Package_QFP:LQFP-100_14x14mm_P0.5mm', 'kicadSymbolDatasheet': 'http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00225424.pdf', 'kicadSymbolki_keywords': 'ARM Cortex-M7 STM32F7 STM32F7x7', 'kicadSymbolki_description': 'ARM Cortex-M7 MCU, 2048KB flash, 384KB RAM, 216MHz, 1.7-3.6V, 82 GPIO, LQFP-100', 'kicadSymbolki_fp_filters': 'LQFP*14x14mm*P0.5mm*'}]|
+|name|name|MCU_ST_STM32F7 : STM32F777VITx|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'STM32F777VITx'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_QFP</td></tr><tr><td>LQFP-100_14x14mm_P0.5mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00225424.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'ARM Cortex-M7 STM32F7 STM32F7x7'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'ARM Cortex-M7 MCU</td><td> 2048KB flash</td><td> 384KB RAM</td><td> 216MHz</td><td> 1.7-3.6V</td><td> 82 GPIO</td><td> LQFP-100'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'LQFP*14x14mm*P0.5mm*'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKINTERFACEEXPANSIONP82B96 > P82B96
+# SZKINTERFACEEXPANSIONP82B96 > Interface_Expansion : P82B96
 
 - ID: SYMBOL-kicad-kicad-symbols-Interface_Expansion-P82B96
 - Hex ID: SZKINTERFACEEXPANSIONP82B96
-- Name: P82B96
-- Description: P82B96
+- Name: Interface_Expansion : P82B96
+- Description: Interface_Expansion : P82B96
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Expansion-P82B96](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Expansion-P82B96)
 - Short Link: [http://oom.lt/SZKINTERFACEEXPANSIONP82B96](http://oom.lt/SZKINTERFACEEXPANSIONP82B96)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|P82B96|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_Expansion-P82B96|
 |Hex ID (short code)|hexID|SZKINTERFACEEXPANSIONP82B96|
-|name|name|P82B96|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'P82B96', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.nxp.com/documents/data_sheet/P82B96.pdf', 'kicadSymbolki_keywords': 'I2C Bus Buffer', 'kicadSymbolki_description': 'Dual I2C Bus Buffer, DIP8/SO8/TSSOP8', 'kicadSymbolki_fp_filters': 'DIP* PDIP* SOIC* SO* TSSOP*'}]|
+|name|name|Interface_Expansion : P82B96|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'P82B96'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.nxp.com/documents/data_sheet/P82B96.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'I2C Bus Buffer'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Dual I2C Bus Buffer</td><td> DIP8/SO8/TSSOP8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP* PDIP* SOIC* SO* TSSOP*'</td></tr></table>]|
 ||||

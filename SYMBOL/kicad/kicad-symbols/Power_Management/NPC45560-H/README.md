@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKPOWERMANAGEMENTNPC4556H > NPC45560-H
+# SZKPOWERMANAGEMENTNPC4556H > Power_Management : NPC45560-H
 
 - ID: SYMBOL-kicad-kicad-symbols-Power_Management-NPC45560-H
 - Hex ID: SZKPOWERMANAGEMENTNPC4556H
-- Name: NPC45560-H
-- Description: NPC45560-H
+- Name: Power_Management : NPC45560-H
+- Description: Power_Management : NPC45560-H
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-NPC45560-H](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-NPC45560-H)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTNPC4556H](http://oom.lt/SZKPOWERMANAGEMENTNPC4556H)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|NPC45560-H|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Management-NPC45560-H|
 |Hex ID (short code)|hexID|SZKPOWERMANAGEMENTNPC4556H|
-|name|name|NPC45560-H|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'NPC45560-H', 'kicadSymbolFootprint': 'Package_DFN_QFN:DFN-12-1EP_3x3mm_P0.5mm_EP2.05x2.86mm', 'kicadSymbolDatasheet': 'http://www.onsemi.com/pub/Collateral/NCP45560-D.PDF', 'kicadSymbolki_keywords': 'load switch', 'kicadSymbolki_description': 'Controlled load switch with low Ron, DFN-12', 'kicadSymbolki_fp_filters': 'DFN*1EP?3x3mm?P0.5mm*'}]|
+|name|name|Power_Management : NPC45560-H|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'NPC45560-H'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>DFN-12-1EP_3x3mm_P0.5mm_EP2.05x2.86mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.onsemi.com/pub/Collateral/NCP45560-D.PDF'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'load switch'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Controlled load switch with low Ron</td><td> DFN-12'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DFN*1EP?3x3mm?P0.5mm*'</td></tr></table>]|
 ||||

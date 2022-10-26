@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUMCHIPSAMLATSAML21E15BAUT > ATSAML21E15B-AUT
+# SZKMCUMCHIPSAMLATSAML21E15BAUT > MCU_Microchip_SAML : ATSAML21E15B-AUT
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_SAML-ATSAML21E15B-AUT
 - Hex ID: SZKMCUMCHIPSAMLATSAML21E15BAUT
-- Name: ATSAML21E15B-AUT
-- Description: ATSAML21E15B-AUT
+- Name: MCU_Microchip_SAML : ATSAML21E15B-AUT
+- Description: MCU_Microchip_SAML : ATSAML21E15B-AUT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_SAML-ATSAML21E15B-AUT](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_SAML-ATSAML21E15B-AUT)
 - Short Link: [http://oom.lt/SZKMCUMCHIPSAMLATSAML21E15BAUT](http://oom.lt/SZKMCUMCHIPSAMLATSAML21E15BAUT)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ATSAML21E15B-AUT|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_SAML-ATSAML21E15B-AUT|
 |Hex ID (short code)|hexID|SZKMCUMCHIPSAMLATSAML21E15BAUT|
-|name|name|ATSAML21E15B-AUT|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ATSAML21E15B-AUT', 'kicadSymbolFootprint': 'Package_QFP:TQFP-32_7x7mm_P0.8mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/60001477A.pdf', 'kicadSymbolki_keywords': '32-bit ARM Cortex-M0+ MCU Microcontroller', 'kicadSymbolki_description': 'SAM L21 Microchip SMART ARM-based Flash MCU, 48Mhz, 32K Flash, 4K SRAM, TQFP32', 'kicadSymbolki_fp_filters': 'TQFP*7x7mm*P0.8mm*'}]|
+|name|name|MCU_Microchip_SAML : ATSAML21E15B-AUT|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ATSAML21E15B-AUT'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_QFP</td></tr><tr><td>TQFP-32_7x7mm_P0.8mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/60001477A.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> '32-bit ARM Cortex-M0+ MCU Microcontroller'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'SAM L21 Microchip SMART ARM-based Flash MCU</td><td> 48Mhz</td><td> 32K Flash</td><td> 4K SRAM</td><td> TQFP32'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TQFP*7x7mm*P0.8mm*'</td></tr></table>]|
 ||||

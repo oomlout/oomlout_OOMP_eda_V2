@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_CSP-LFCSP-16-1EP_3x3mm_P0.5mm_EP1.7x1.7mm|
 |Hex ID (short code)|hexID|FZKCSPLFCSP161EP3X3P5EP17X17|
 |name|name|Package_CSP : LFCSP-16-1EP_3x3mm_P0.5mm_EP1.7x1.7mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'LFCSP-16-1EP_3x3mm_P0.5mm_EP1.7x1.7mm', 'description': 'LFCSP, 16 Pin (https://www.analog.com/media/en/technical-documentation/data-sheets/HMC7992.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py', 'tags': 'LFCSP NoLead', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_CSP.3dshapes/LFCSP-16-1EP_3x3mm_P0.5mm_EP1.7x1.7mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'LFCSP-16-1EP_3x3mm_P0.5mm_EP1.7x1.7mm'</td><td> 'description'</td></tr><tr><td> 'LFCSP</td><td> 16 Pin (https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/HMC7992.pdf)</td><td> generated with kicad-footprint-generator ipc_noLead_generator.py'</td><td> 'tags'</td></tr><tr><td> 'LFCSP NoLead'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_CSP.3dshapes/LFCSP-16-1EP_3x3mm_P0.5mm_EP1.7x1.7mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Piher_PT-10-H05_Horizontal|
 |Hex ID (short code)|hexID|FZKPPOTENTIOMETERPIHERPT1H5HORIZONTAL|
 |name|name|Potentiometer_THT : Potentiometer_Piher_PT-10-H05_Horizontal|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Potentiometer_Piher_PT-10-H05_Horizontal', 'description': 'Potentiometer, horizontal, Piher PT-10-H05, http://www.piher-nacesa.com/pdf/12-PT10v03.pdf', 'tags': 'Potentiometer horizontal Piher PT-10-H05', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Potentiometer_THT.3dshapes/Potentiometer_Piher_PT-10-H05_Horizontal.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Potentiometer_Piher_PT-10-H05_Horizontal'</td><td> 'description'</td></tr><tr><td> 'Potentiometer</td><td> horizontal</td><td> Piher PT-10-H05</td><td> http</td></tr><tr><td>//www.piher-nacesa.com/pdf/12-PT10v03.pdf'</td><td> 'tags'</td></tr><tr><td> 'Potentiometer horizontal Piher PT-10-H05'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Potentiometer_THT.3dshapes/Potentiometer_Piher_PT-10-H05_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

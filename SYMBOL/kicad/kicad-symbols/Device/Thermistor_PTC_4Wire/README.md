@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDEVICETHERMISTORPTC4WIRE > Thermistor_PTC_4Wire
+# SZKDEVICETHERMISTORPTC4WIRE > Device : Thermistor_PTC_4Wire
 
 - ID: SYMBOL-kicad-kicad-symbols-Device-Thermistor_PTC_4Wire
 - Hex ID: SZKDEVICETHERMISTORPTC4WIRE
-- Name: Thermistor_PTC_4Wire
-- Description: Thermistor_PTC_4Wire
+- Name: Device : Thermistor_PTC_4Wire
+- Description: Device : Thermistor_PTC_4Wire
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Thermistor_PTC_4Wire](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Thermistor_PTC_4Wire)
 - Short Link: [http://oom.lt/SZKDEVICETHERMISTORPTC4WIRE](http://oom.lt/SZKDEVICETHERMISTORPTC4WIRE)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Thermistor_PTC_4Wire|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-Thermistor_PTC_4Wire|
 |Hex ID (short code)|hexID|SZKDEVICETHERMISTORPTC4WIRE|
-|name|name|Thermistor_PTC_4Wire|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'TH', 'kicadSymbolValue': 'Thermistor_PTC_4Wire', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'resistor PTC thermistor sensor RTD', 'kicadSymbolki_description': 'Temperature dependent resistor, positive temperature coefficient, 4-wire interface', 'kicadSymbolki_fp_filters': 'PIN_ARRAY_4X1 bornier4 TerminalBlock*4pol'}]|
+|name|name|Device : Thermistor_PTC_4Wire|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'TH'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Thermistor_PTC_4Wire'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'resistor PTC thermistor sensor RTD'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Temperature dependent resistor</td><td> positive temperature coefficient</td><td> 4-wire interface'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'PIN_ARRAY_4X1 bornier4 TerminalBlock*4pol'</td></tr></table>]|
 ||||

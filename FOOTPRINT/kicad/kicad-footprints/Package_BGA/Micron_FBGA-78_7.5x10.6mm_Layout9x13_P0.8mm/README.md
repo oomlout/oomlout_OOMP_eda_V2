@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_BGA-Micron_FBGA-78_7.5x10.6mm_Layout9x13_P0.8mm|
 |Hex ID (short code)|hexID|FZKBGAMNFBGA7875X16LAYOUT9X13P8|
 |name|name|Package_BGA : Micron_FBGA-78_7.5x10.6mm_Layout9x13_P0.8mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Micron_FBGA-78_7.5x10.6mm_Layout9x13_P0.8mm', 'description': 'FBGA-78, 10.6x7.5mm, 78 Ball, 9x13 Layout, 0.8mm Pitch, https://www.micron.com/-/media/client/global/documents/products/data-sheet/dram/ddr3/4gb_ddr3l.pdf#page=24', 'tags': 'BGA 78 0.8', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/Micron_FBGA-78_7.5x10.6mm_Layout9x13_P0.8mm.wrl', 'pins': {'type': 'smd', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Micron_FBGA-78_7.5x10.6mm_Layout9x13_P0.8mm'</td><td> 'description'</td></tr><tr><td> 'FBGA-78</td><td> 10.6x7.5mm</td><td> 78 Ball</td><td> 9x13 Layout</td><td> 0.8mm Pitch</td><td> https</td></tr><tr><td>//www.micron.com/-/media/client/global/documents/products/data-sheet/dram/ddr3/4gb_ddr3l.pdf#page=24'</td><td> 'tags'</td></tr><tr><td> 'BGA 78 0.8'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_BGA.3dshapes/Micron_FBGA-78_7.5x10.6mm_Layout9x13_P0.8mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

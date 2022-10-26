@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKINTERFACELINEDRIVERDS883 > DS8830
+# SZKINTERFACELINEDRIVERDS883 > Interface_LineDriver : DS8830
 
 - ID: SYMBOL-kicad-kicad-symbols-Interface_LineDriver-DS8830
 - Hex ID: SZKINTERFACELINEDRIVERDS883
-- Name: DS8830
-- Description: DS8830
+- Name: Interface_LineDriver : DS8830
+- Description: Interface_LineDriver : DS8830
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_LineDriver-DS8830](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_LineDriver-DS8830)
 - Short Link: [http://oom.lt/SZKINTERFACELINEDRIVERDS883](http://oom.lt/SZKINTERFACELINEDRIVERDS883)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DS8830|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_LineDriver-DS8830|
 |Hex ID (short code)|hexID|SZKINTERFACELINEDRIVERDS883|
-|name|name|DS8830|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'DS7830', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'DS8830', 'kicadSymbolFootprint': 'Package_DIP:DIP-14_W7.62mm', 'kicadSymbolDatasheet': 'http://pdf1.alldatasheet.com/datasheet-pdf/view/8473/NSC/DS7830J.html', 'kicadSymbolki_keywords': 'Dual differential line driver', 'kicadSymbolki_description': 'Dual differential line driver and dual four-input NAND or dual four-input AND function, VDD +5V, DIP-14', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
+|name|name|Interface_LineDriver : DS8830|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'DS7830'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'DS8830'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>DIP-14_W7.62mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//pdf1.alldatasheet.com/datasheet-pdf/view/8473/NSC/DS7830J.html'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Dual differential line driver'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Dual differential line driver and dual four-input NAND or dual four-input AND function</td><td> VDD +5V</td><td> DIP-14'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W7.62mm*'</td></tr></table>]|
 ||||

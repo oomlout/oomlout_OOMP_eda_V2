@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKPOWERPROTECTIONSRV54 > SRV05-4
+# SZKPOWERPROTECTIONSRV54 > Power_Protection : SRV05-4
 
 - ID: SYMBOL-kicad-kicad-symbols-Power_Protection-SRV05-4
 - Hex ID: SZKPOWERPROTECTIONSRV54
-- Name: SRV05-4
-- Description: SRV05-4
+- Name: Power_Protection : SRV05-4
+- Description: Power_Protection : SRV05-4
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-SRV05-4](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-SRV05-4)
 - Short Link: [http://oom.lt/SZKPOWERPROTECTIONSRV54](http://oom.lt/SZKPOWERPROTECTIONSRV54)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SRV05-4|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Protection-SRV05-4|
 |Hex ID (short code)|hexID|SZKPOWERPROTECTIONSRV54|
-|name|name|SRV05-4|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'SRV05-4', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-6', 'kicadSymbolDatasheet': 'http://www.onsemi.com/pub/Collateral/SRV05-4-D.PDF', 'kicadSymbolki_keywords': 'ESD protection diodes', 'kicadSymbolki_description': 'ESD Protection Diodes with Low Clamping Voltage, SOT-23-6', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
+|name|name|Power_Protection : SRV05-4|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'SRV05-4'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-23-6'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.onsemi.com/pub/Collateral/SRV05-4-D.PDF'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'ESD protection diodes'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'ESD Protection Diodes with Low Clamping Voltage</td><td> SOT-23-6'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23*'</td></tr></table>]|
 ||||

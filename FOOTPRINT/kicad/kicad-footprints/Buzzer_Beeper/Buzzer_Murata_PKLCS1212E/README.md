@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Buzzer_Beeper-Buzzer_Murata_PKLCS1212E|
 |Hex ID (short code)|hexID|FZKBZBUZZERMPKLCS1212E|
 |name|name|Buzzer_Beeper : Buzzer_Murata_PKLCS1212E|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Buzzer_Murata_PKLCS1212E', 'description': 'Murata Buzzer https://www.murata.com/~/media/webrenewal/support/library/catalog/products/sound/p37e.ashx', 'tags': 'Murata Buzzer Beeper', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Buzzer_Beeper.3dshapes/Buzzer_Murata_PKLCS1212E.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Buzzer_Murata_PKLCS1212E'</td><td> 'description'</td></tr><tr><td> 'Murata Buzzer https</td></tr><tr><td>//www.murata.com/~/media/webrenewal/support/library/catalog/products/sound/p37e.ashx'</td><td> 'tags'</td></tr><tr><td> 'Murata Buzzer Beeper'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Buzzer_Beeper.3dshapes/Buzzer_Murata_PKLCS1212E.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

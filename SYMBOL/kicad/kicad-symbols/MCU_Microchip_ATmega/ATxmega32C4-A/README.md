@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUMCHIPATMEGAATXMEGA32C4A > ATxmega32C4-A
+# SZKMCUMCHIPATMEGAATXMEGA32C4A > MCU_Microchip_ATmega : ATxmega32C4-A
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATxmega32C4-A
 - Hex ID: SZKMCUMCHIPATMEGAATXMEGA32C4A
-- Name: ATxmega32C4-A
-- Description: ATxmega32C4-A
+- Name: MCU_Microchip_ATmega : ATxmega32C4-A
+- Description: MCU_Microchip_ATmega : ATxmega32C4-A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATxmega32C4-A](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATxmega32C4-A)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATMEGAATXMEGA32C4A](http://oom.lt/SZKMCUMCHIPATMEGAATXMEGA32C4A)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ATxmega32C4-A|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATxmega32C4-A|
 |Hex ID (short code)|hexID|SZKMCUMCHIPATMEGAATXMEGA32C4A|
-|name|name|ATxmega32C4-A|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ATxmega16C4-A', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ATxmega32C4-A', 'kicadSymbolFootprint': 'Package_QFP:TQFP-44_10x10mm_P0.8mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-8493-8-and-32-bit-AVR-XMEGA-Microcontrollers-ATxmega16C4-ATxmega32C4_Datasheet.pdf', 'kicadSymbolki_keywords': 'AVR 8/16bit Microcontroller XMegaAVR', 'kicadSymbolki_description': '32MHz, 32kB Flash, 4kB Boot, 4kB SRAM, 1kB EEPROM, JTAG, TQFP-44', 'kicadSymbolki_fp_filters': 'TQFP*10x10mm*P0.8mm*'}]|
+|name|name|MCU_Microchip_ATmega : ATxmega32C4-A|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'ATxmega16C4-A'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ATxmega32C4-A'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_QFP</td></tr><tr><td>TQFP-44_10x10mm_P0.8mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/Atmel-8493-8-and-32-bit-AVR-XMEGA-Microcontrollers-ATxmega16C4-ATxmega32C4_Datasheet.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'AVR 8/16bit Microcontroller XMegaAVR'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '32MHz</td><td> 32kB Flash</td><td> 4kB Boot</td><td> 4kB SRAM</td><td> 1kB EEPROM</td><td> JTAG</td><td> TQFP-44'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TQFP*10x10mm*P0.8mm*'</td></tr></table>]|
 ||||

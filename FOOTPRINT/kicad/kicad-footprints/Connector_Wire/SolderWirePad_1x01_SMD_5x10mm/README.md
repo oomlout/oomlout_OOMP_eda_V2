@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Wire-SolderWirePad_1x01_SMD_5x10mm|
 |Hex ID (short code)|hexID|FZKCNWIRESOLDERWIREPAD1X1SM5X1|
 |name|name|Connector_Wire : SolderWirePad_1x01_SMD_5x10mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'SolderWirePad_1x01_SMD_5x10mm', 'description': 'Wire Pad, Square, SMD Pad,  5mm x 10mm,', 'tags': 'MesurementPoint Square SMDPad 5mmx10mm ', 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SolderWirePad_1x01_SMD_5x10mm'</td><td> 'description'</td></tr><tr><td> 'Wire Pad</td><td> Square</td><td> SMD Pad</td><td>  5mm x 10mm</td><td>'</td><td> 'tags'</td></tr><tr><td> 'MesurementPoint Square SMDPad 5mmx10mm '</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

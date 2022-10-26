@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORLINEARTPS7A72RGW > TPS7A7200RGW
+# SZKREGULATORLINEARTPS7A72RGW > Regulator_Linear : TPS7A7200RGW
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS7A7200RGW
 - Hex ID: SZKREGULATORLINEARTPS7A72RGW
-- Name: TPS7A7200RGW
-- Description: TPS7A7200RGW
+- Name: Regulator_Linear : TPS7A7200RGW
+- Description: Regulator_Linear : TPS7A7200RGW
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS7A7200RGW](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS7A7200RGW)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARTPS7A72RGW](http://oom.lt/SZKREGULATORLINEARTPS7A72RGW)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TPS7A7200RGW|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS7A7200RGW|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARTPS7A72RGW|
-|name|name|TPS7A7200RGW|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TPS7A7200RGW', 'kicadSymbolFootprint': 'Package_DFN_QFN:Texas_S-PVQFN-N20_EP3.15x3.15mm_ThermalVias', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tps7a7200.pdf', 'kicadSymbolki_keywords': 'linear regulator ldo voltage', 'kicadSymbolki_description': '2A, Low-Dropout Voltage Regulator, 1.5-6.5V Input, Adjustable 0.9-5V Output, VQFN-20', 'kicadSymbolki_fp_filters': 'Texas*S?PVQFN*'}]|
+|name|name|Regulator_Linear : TPS7A7200RGW|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TPS7A7200RGW'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>Texas_S-PVQFN-N20_EP3.15x3.15mm_ThermalVias'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/tps7a7200.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'linear regulator ldo voltage'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '2A</td><td> Low-Dropout Voltage Regulator</td><td> 1.5-6.5V Input</td><td> Adjustable 0.9-5V Output</td><td> VQFN-20'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Texas*S?PVQFN*'</td></tr></table>]|
 ||||

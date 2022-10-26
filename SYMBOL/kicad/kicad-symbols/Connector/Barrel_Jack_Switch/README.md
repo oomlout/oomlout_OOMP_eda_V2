@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKCNBARRELJSWITCH > Barrel_Jack_Switch
+# SZKCNBARRELJSWITCH > Connector : Barrel_Jack_Switch
 
 - ID: SYMBOL-kicad-kicad-symbols-Connector-Barrel_Jack_Switch
 - Hex ID: SZKCNBARRELJSWITCH
-- Name: Barrel_Jack_Switch
-- Description: Barrel_Jack_Switch
+- Name: Connector : Barrel_Jack_Switch
+- Description: Connector : Barrel_Jack_Switch
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-Barrel_Jack_Switch](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-Barrel_Jack_Switch)
 - Short Link: [http://oom.lt/SZKCNBARRELJSWITCH](http://oom.lt/SZKCNBARRELJSWITCH)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Barrel_Jack_Switch|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-Barrel_Jack_Switch|
 |Hex ID (short code)|hexID|SZKCNBARRELJSWITCH|
-|name|name|Barrel_Jack_Switch|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'Barrel_Jack_Switch', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'DC power barrel jack connector', 'kicadSymbolki_description': 'DC Barrel Jack with an internal switch', 'kicadSymbolki_fp_filters': 'BarrelJack*'}]|
+|name|name|Connector : Barrel_Jack_Switch|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'J'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Barrel_Jack_Switch'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'DC power barrel jack connector'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'DC Barrel Jack with an internal switch'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'BarrelJack*'</td></tr></table>]|
 ||||

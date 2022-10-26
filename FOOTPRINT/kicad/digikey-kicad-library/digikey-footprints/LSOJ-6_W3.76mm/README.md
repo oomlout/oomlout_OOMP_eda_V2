@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-LSOJ-6_W3.76mm|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSLSOJ6W376|
 |name|name|digikey-footprints : LSOJ-6_W3.76mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'LSOJ-6_W3.76mm', 'description': 'http://pdfserv.maximintegrated.com/package_dwgs/21-0382.PDF', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'LSOJ-6_W3.76mm'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//pdfserv.maximintegrated.com/package_dwgs/21-0382.PDF'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

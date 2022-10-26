@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_Mini-B_Lumberg_2486_01_Horizontal|
 |Hex ID (short code)|hexID|FZKCNUUMBLUMBERG24861HORIZONTAL|
 |name|name|Connector_USB : USB_Mini-B_Lumberg_2486_01_Horizontal|
-|Footprint Kicad|footprintKicadDetails|{'name': 'USB_Mini-B_Lumberg_2486_01_Horizontal', 'description': 'USB Mini-B 5-pin SMD connector, http://downloads.lumberg.com/datenblaetter/en/2486_01.pdf', 'tags': 'USB USB_B USB_Mini connector', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_USB.3dshapes/USB_Mini-B_Lumberg_2486_01_Horizontal.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'USB_Mini-B_Lumberg_2486_01_Horizontal'</td><td> 'description'</td></tr><tr><td> 'USB Mini-B 5-pin SMD connector</td><td> http</td></tr><tr><td>//downloads.lumberg.com/datenblaetter/en/2486_01.pdf'</td><td> 'tags'</td></tr><tr><td> 'USB USB_B USB_Mini connector'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_USB.3dshapes/USB_Mini-B_Lumberg_2486_01_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

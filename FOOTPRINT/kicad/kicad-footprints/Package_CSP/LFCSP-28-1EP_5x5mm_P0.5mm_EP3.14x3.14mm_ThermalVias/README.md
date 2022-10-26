@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_CSP-LFCSP-28-1EP_5x5mm_P0.5mm_EP3.14x3.14mm_ThermalVias|
 |Hex ID (short code)|hexID|FZKCSPLFCSP281EP5X5P5EP314X314THERMALVIAS|
 |name|name|Package_CSP : LFCSP-28-1EP_5x5mm_P0.5mm_EP3.14x3.14mm_ThermalVias|
-|Footprint Kicad|footprintKicadDetails|{'name': 'LFCSP-28-1EP_5x5mm_P0.5mm_EP3.14x3.14mm_ThermalVias', 'description': 'LFCSP, 28 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp-28/CP_28_10.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py', 'tags': 'LFCSP NoLead', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_CSP.3dshapes/LFCSP-28-1EP_5x5mm_P0.5mm_EP3.14x3.14mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'LFCSP-28-1EP_5x5mm_P0.5mm_EP3.14x3.14mm_ThermalVias'</td><td> 'description'</td></tr><tr><td> 'LFCSP</td><td> 28 Pin (https</td></tr><tr><td>//www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp-28/CP_28_10.pdf)</td><td> generated with kicad-footprint-generator ipc_noLead_generator.py'</td><td> 'tags'</td></tr><tr><td> 'LFCSP NoLead'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_CSP.3dshapes/LFCSP-28-1EP_5x5mm_P0.5mm_EP3.14x3.14mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

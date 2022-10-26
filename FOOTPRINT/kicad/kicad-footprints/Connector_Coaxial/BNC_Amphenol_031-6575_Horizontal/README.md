@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Coaxial-BNC_Amphenol_031-6575_Horizontal|
 |Hex ID (short code)|hexID|FZKCNCOABNCAMPHENOL316575HORIZONTAL|
 |name|name|Connector_Coaxial : BNC_Amphenol_031-6575_Horizontal|
-|Footprint Kicad|footprintKicadDetails|{'name': 'BNC_Amphenol_031-6575_Horizontal', 'description': 'dual independently isolated BNC plug (https://www.amphenolrf.com/downloads/dl/file/id/2980/product/644/031_6575_customer_drawing.pdf)', 'tags': 'Dual BNC Amphenol Horizontal', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_Coaxial.3dshapes/BNC_Amphenol_031-6575_Horizontal.wrl', 'pins': {'type': 'thru_hole', 'shape': 'oval'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'BNC_Amphenol_031-6575_Horizontal'</td><td> 'description'</td></tr><tr><td> 'dual independently isolated BNC plug (https</td></tr><tr><td>//www.amphenolrf.com/downloads/dl/file/id/2980/product/644/031_6575_customer_drawing.pdf)'</td><td> 'tags'</td></tr><tr><td> 'Dual BNC Amphenol Horizontal'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_Coaxial.3dshapes/BNC_Amphenol_031-6575_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'oval'</td></tr></table></td></tr></table>|
 ||||
 
 

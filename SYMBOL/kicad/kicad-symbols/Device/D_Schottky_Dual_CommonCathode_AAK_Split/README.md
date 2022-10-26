@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDEVICEDSCHOTTKYDUALCOONCATHODEAAKSPLIT > D_Schottky_Dual_CommonCathode_AAK_Split
+# SZKDEVICEDSCHOTTKYDUALCOONCATHODEAAKSPLIT > Device : D_Schottky_Dual_CommonCathode_AAK_Split
 
 - ID: SYMBOL-kicad-kicad-symbols-Device-D_Schottky_Dual_CommonCathode_AAK_Split
 - Hex ID: SZKDEVICEDSCHOTTKYDUALCOONCATHODEAAKSPLIT
-- Name: D_Schottky_Dual_CommonCathode_AAK_Split
-- Description: D_Schottky_Dual_CommonCathode_AAK_Split
+- Name: Device : D_Schottky_Dual_CommonCathode_AAK_Split
+- Description: Device : D_Schottky_Dual_CommonCathode_AAK_Split
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Schottky_Dual_CommonCathode_AAK_Split](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Schottky_Dual_CommonCathode_AAK_Split)
 - Short Link: [http://oom.lt/SZKDEVICEDSCHOTTKYDUALCOONCATHODEAAKSPLIT](http://oom.lt/SZKDEVICEDSCHOTTKYDUALCOONCATHODEAAKSPLIT)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|D_Schottky_Dual_CommonCathode_AAK_Split|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-D_Schottky_Dual_CommonCathode_AAK_Split|
 |Hex ID (short code)|hexID|SZKDEVICEDSCHOTTKYDUALCOONCATHODEAAKSPLIT|
-|name|name|D_Schottky_Dual_CommonCathode_AAK_Split|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'D_Schottky_Dual_CommonCathode_AAK_Split', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'diode', 'kicadSymbolki_description': 'Dual Schottky diode, common anode on pin 1'}]|
+|name|name|Device : D_Schottky_Dual_CommonCathode_AAK_Split|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'D_Schottky_Dual_CommonCathode_AAK_Split'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_locked'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'diode'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Dual Schottky diode</td><td> common anode on pin 1'</td></tr></table>]|
 ||||

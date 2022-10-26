@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Potentiometer_SMD-Potentiometer_Bourns_PRS11S_Vertical|
 |Hex ID (short code)|hexID|FZKPOTENTIOMETERSMPOTENTIOMETERBOURNSPRS11SVERTICAL|
 |name|name|Potentiometer_SMD : Potentiometer_Bourns_PRS11S_Vertical|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Potentiometer_Bourns_PRS11S_Vertical', 'description': 'Potentiometer, vertical, Bourns PRS11S, http://www.bourns.com/docs/Product-Datasheets/PRS11S.pdf', 'tags': 'Potentiometer vertical Bourns PRS11S', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Potentiometer_SMD.3dshapes/Potentiometer_Bourns_PRS11S_Vertical.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Potentiometer_Bourns_PRS11S_Vertical'</td><td> 'description'</td></tr><tr><td> 'Potentiometer</td><td> vertical</td><td> Bourns PRS11S</td><td> http</td></tr><tr><td>//www.bourns.com/docs/Product-Datasheets/PRS11S.pdf'</td><td> 'tags'</td></tr><tr><td> 'Potentiometer vertical Bourns PRS11S'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Potentiometer_SMD.3dshapes/Potentiometer_Bourns_PRS11S_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

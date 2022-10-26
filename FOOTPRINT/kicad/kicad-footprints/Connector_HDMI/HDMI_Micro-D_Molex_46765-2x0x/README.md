@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_HDMI-HDMI_Micro-D_Molex_46765-2x0x|
 |Hex ID (short code)|hexID|FZKCNHDMIHDMIMDMX467652XX|
 |name|name|Connector_HDMI : HDMI_Micro-D_Molex_46765-2x0x|
-|Footprint Kicad|footprintKicadDetails|{'name': 'HDMI_Micro-D_Molex_46765-2x0x', 'description': 'HDMI, Micro, Type D, THT/SMD hybrid, 0.4mm pitch, 19 ckt, right angle (http://www.molex.com/pdm_docs/sd/467651301_sd.pdf)', 'tags': 'hdmi micro type d right angle tht smd hybrid ', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_HDMI.3dshapes/HDMI_Micro-D_Molex_46765-2x0x.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'HDMI_Micro-D_Molex_46765-2x0x'</td><td> 'description'</td></tr><tr><td> 'HDMI</td><td> Micro</td><td> Type D</td><td> THT/SMD hybrid</td><td> 0.4mm pitch</td><td> 19 ckt</td><td> right angle (http</td></tr><tr><td>//www.molex.com/pdm_docs/sd/467651301_sd.pdf)'</td><td> 'tags'</td></tr><tr><td> 'hdmi micro type d right angle tht smd hybrid '</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_HDMI.3dshapes/HDMI_Micro-D_Molex_46765-2x0x.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-WSON-8_2x2mm|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSWSON82X2|
 |name|name|digikey-footprints : WSON-8_2x2mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'WSON-8_2x2mm', 'description': 'http://www.ti.com/lit/ds/symlink/drv8837.pdf', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'WSON-8_2x2mm'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/drv8837.pdf'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

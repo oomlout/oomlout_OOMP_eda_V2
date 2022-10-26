@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-DFN-10-1EP_3x3mm_P0.5mm_EP1.75x2.7mm|
 |Hex ID (short code)|hexID|FZKDFNDFN11EP3X3P5EP175X27|
 |name|name|Package_DFN_QFN : DFN-10-1EP_3x3mm_P0.5mm_EP1.75x2.7mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'DFN-10-1EP_3x3mm_P0.5mm_EP1.75x2.7mm', 'description': '10-Lead Plastic Dual Flat No-Lead Package, 3x3mm Body (see Atmel Appnote 8826)', 'tags': 'DFN 0.5', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/DFN-10-1EP_3x3mm_P0.5mm_EP1.75x2.7mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'DFN-10-1EP_3x3mm_P0.5mm_EP1.75x2.7mm'</td><td> 'description'</td></tr><tr><td> '10-Lead Plastic Dual Flat No-Lead Package</td><td> 3x3mm Body (see Atmel Appnote 8826)'</td><td> 'tags'</td></tr><tr><td> 'DFN 0.5'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DFN_QFN.3dshapes/DFN-10-1EP_3x3mm_P0.5mm_EP1.75x2.7mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

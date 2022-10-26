@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE85XO2167R8521A > RESE-0805-X-O201-67-R85201A
+# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE85XO2167R8521A > oomlout_OOMP_parts : RESE-0805-X-O201-67-R85201A
 
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O201-67-R85201A
 - Hex ID: SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE85XO2167R8521A
-- Name: RESE-0805-X-O201-67-R85201A
-- Description: RESE-0805-X-O201-67-R85201A
+- Name: oomlout_OOMP_parts : RESE-0805-X-O201-67-R85201A
+- Description: oomlout_OOMP_parts : RESE-0805-X-O201-67-R85201A
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O201-67-R85201A](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O201-67-R85201A)
 - Short Link: [http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE85XO2167R8521A](http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE85XO2167R8521A)
   
@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|RESE-0805-X-O201-67-R85201A|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O201-67-R85201A|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE85XO2167R8521A|
-|name|name|RESE-0805-X-O201-67-R85201A|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'R', 'kicadSymbolValue': 'RESE-0805-X-O201-67-R85201A', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:RESE-0805-X-O201-67-R85201A', 'kicadSymbolDatasheet': 'oom.lt/R85201A', 'kicadSymbolki_keywords': 'R res resistor', 'kicadSymbolki_description': 'hexID: R85201A;Resistor', 'kicadSymbolki_fp_filters': 'R_*'}]|
+|name|name|oomlout_OOMP_parts : RESE-0805-X-O201-67-R85201A|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'R'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'RESE-0805-X-O201-67-R85201A'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'oomlout_OOMP_parts</td></tr><tr><td>RESE-0805-X-O201-67-R85201A'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'oom.lt/R85201A'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'R res resistor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'hexID</td></tr><tr><td> R85201A;Resistor'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'R_*'</td></tr></table>]|
 ||||

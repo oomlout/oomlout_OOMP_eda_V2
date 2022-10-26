@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDEVICEFREQUENCYCOUNTER > FrequencyCounter
+# SZKDEVICEFREQUENCYCOUNTER > Device : FrequencyCounter
 
 - ID: SYMBOL-kicad-kicad-symbols-Device-FrequencyCounter
 - Hex ID: SZKDEVICEFREQUENCYCOUNTER
-- Name: FrequencyCounter
-- Description: FrequencyCounter
+- Name: Device : FrequencyCounter
+- Description: Device : FrequencyCounter
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-FrequencyCounter](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-FrequencyCounter)
 - Short Link: [http://oom.lt/SZKDEVICEFREQUENCYCOUNTER](http://oom.lt/SZKDEVICEFREQUENCYCOUNTER)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|FrequencyCounter|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-FrequencyCounter|
 |Hex ID (short code)|hexID|SZKDEVICEFREQUENCYCOUNTER|
-|name|name|FrequencyCounter|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'MES', 'kicadSymbolValue': 'FrequencyCounter', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'frequency counter', 'kicadSymbolki_description': 'Frequency counter'}]|
+|name|name|Device : FrequencyCounter|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'MES'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'FrequencyCounter'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'frequency counter'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Frequency counter'</td></tr></table>]|
 ||||

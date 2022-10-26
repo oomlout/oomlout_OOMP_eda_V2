@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKPOWERVCOM > VCOM
+# SZKPOWERVCOM > power : VCOM
 
 - ID: SYMBOL-kicad-kicad-symbols-power-VCOM
 - Hex ID: SZKPOWERVCOM
-- Name: VCOM
-- Description: VCOM
+- Name: power : VCOM
+- Description: power : VCOM
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-power-VCOM](http://oom.lt/SYMBOL-kicad-kicad-symbols-power-VCOM)
 - Short Link: [http://oom.lt/SZKPOWERVCOM](http://oom.lt/SZKPOWERVCOM)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|VCOM|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-power-VCOM|
 |Hex ID (short code)|hexID|SZKPOWERVCOM|
-|name|name|VCOM|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': '#PWR', 'kicadSymbolValue': 'VCOM', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_keywords': 'power-flag', 'kicadSymbolki_description': 'Power symbol creates a global label with name "VCOM"'}]|
+|name|name|power : VCOM|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> '#PWR'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'VCOM'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'power-flag'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Power symbol creates a global label with name "VCOM"'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORSWITCHINGTMR11213 > TMR_1-1213
+# SZKREGULATORSWITCHINGTMR11213 > Regulator_Switching : TMR_1-1213
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-TMR_1-1213
 - Hex ID: SZKREGULATORSWITCHINGTMR11213
-- Name: TMR_1-1213
-- Description: TMR_1-1213
+- Name: Regulator_Switching : TMR_1-1213
+- Description: Regulator_Switching : TMR_1-1213
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TMR_1-1213](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TMR_1-1213)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGTMR11213](http://oom.lt/SZKREGULATORSWITCHINGTMR11213)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TMR_1-1213|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-TMR_1-1213|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGTMR11213|
-|name|name|TMR_1-1213|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TMR_1-0511', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TMR_1-1213', 'kicadSymbolFootprint': 'Converter_DCDC:Converter_DCDC_TRACO_TMR-1-xxxx_Single_THT', 'kicadSymbolDatasheet': 'http://assets.tracopower.com/TMR1/documents/tmr1-datasheet.pdf', 'kicadSymbolki_keywords': 'Murata isolated isolation dc-dc converter transformer', 'kicadSymbolki_description': '67mA Regulated 1W DC/DC converter with 1.5kV isolation, 9V-18V input, 15V fixed Output Voltage, SIP-6', 'kicadSymbolki_fp_filters': 'Converter*DCDC*TRACO*TMR?1*Single*'}]|
+|name|name|Regulator_Switching : TMR_1-1213|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'TMR_1-0511'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TMR_1-1213'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Converter_DCDC</td></tr><tr><td>Converter_DCDC_TRACO_TMR-1-xxxx_Single_THT'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//assets.tracopower.com/TMR1/documents/tmr1-datasheet.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Murata isolated isolation dc-dc converter transformer'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '67mA Regulated 1W DC/DC converter with 1.5kV isolation</td><td> 9V-18V input</td><td> 15V fixed Output Voltage</td><td> SIP-6'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Converter*DCDC*TRACO*TMR?1*Single*'</td></tr></table>]|
 ||||

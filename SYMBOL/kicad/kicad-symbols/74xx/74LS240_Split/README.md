@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZK74XX74LS24SPLIT > 74LS240_Split
+# SZK74XX74LS24SPLIT > 74xx : 74LS240_Split
 
 - ID: SYMBOL-kicad-kicad-symbols-74xx-74LS240_Split
 - Hex ID: SZK74XX74LS24SPLIT
-- Name: 74LS240_Split
-- Description: 74LS240_Split
+- Name: 74xx : 74LS240_Split
+- Description: 74xx : 74LS240_Split
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx-74LS240_Split](http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx-74LS240_Split)
 - Short Link: [http://oom.lt/SZK74XX74LS24SPLIT](http://oom.lt/SZK74XX74LS24SPLIT)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74LS240_Split|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xx-74LS240_Split|
 |Hex ID (short code)|hexID|SZK74XX74LS24SPLIT|
-|name|name|74LS240_Split|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74LS240_Split', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/sn74ls240.pdf', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': '7400 logic ttl low power schottky', 'kicadSymbolki_description': 'Octal Buffer and Line Driver With 3-State Output, active-low enables, inverting outputs, split symbol', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm* SOIC*7.5x12.8mm*P1.27mm* *SSOP*5.3x7.2mm*P0.65mm*'}]|
+|name|name|74xx : 74LS240_Split|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> '74LS240_Split'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/sn74ls240.pdf'</td><td> 'kicadSymbolki_locked'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> '7400 logic ttl low power schottky'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Octal Buffer and Line Driver With 3-State Output</td><td> active-low enables</td><td> inverting outputs</td><td> split symbol'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W7.62mm* SOIC*7.5x12.8mm*P1.27mm* *SSOP*5.3x7.2mm*P0.65mm*'</td></tr></table>]|
 ||||

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_JAE-JAE_MM70-314-310B1|
 |Hex ID (short code)|hexID|FZKCNJAEJAE731431B1|
 |name|name|Connector_JAE : JAE_MM70-314-310B1|
-|Footprint Kicad|footprintKicadDetails|{'name': 'JAE_MM70-314-310B1', 'description': 'http://www.heilind.com/marketing/documents/jae/JAE_MM70.pdf', 'tags': 'connector JAE MXM', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_JAE.3dshapes/JAE_MM70-314-310B1.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'JAE_MM70-314-310B1'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//www.heilind.com/marketing/documents/jae/JAE_MM70.pdf'</td><td> 'tags'</td></tr><tr><td> 'connector JAE MXM'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_JAE.3dshapes/JAE_MM70-314-310B1.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

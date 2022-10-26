@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKINTERFACEEXPANSIONTCA9555PWR > TCA9555PWR
+# SZKINTERFACEEXPANSIONTCA9555PWR > Interface_Expansion : TCA9555PWR
 
 - ID: SYMBOL-kicad-kicad-symbols-Interface_Expansion-TCA9555PWR
 - Hex ID: SZKINTERFACEEXPANSIONTCA9555PWR
-- Name: TCA9555PWR
-- Description: TCA9555PWR
+- Name: Interface_Expansion : TCA9555PWR
+- Description: Interface_Expansion : TCA9555PWR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Expansion-TCA9555PWR](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Expansion-TCA9555PWR)
 - Short Link: [http://oom.lt/SZKINTERFACEEXPANSIONTCA9555PWR](http://oom.lt/SZKINTERFACEEXPANSIONTCA9555PWR)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TCA9555PWR|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_Expansion-TCA9555PWR|
 |Hex ID (short code)|hexID|SZKINTERFACEEXPANSIONTCA9555PWR|
-|name|name|TCA9555PWR|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TCA9535PWR', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TCA9555PWR', 'kicadSymbolFootprint': 'Package_SO:TSSOP-24_4.4x7.8mm_P0.65mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tca9555.pdf', 'kicadSymbolki_keywords': 'ti parallel port', 'kicadSymbolki_description': '16-bit I/O expander, I2C and SMBus interface, interrupts, w/ pull-ups, TSSOP-24 package', 'kicadSymbolki_fp_filters': 'TSSOP*4.4x7.8mm*P0.65mm*'}]|
+|name|name|Interface_Expansion : TCA9555PWR|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'TCA9535PWR'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TCA9555PWR'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>TSSOP-24_4.4x7.8mm_P0.65mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/tca9555.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'ti parallel port'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '16-bit I/O expander</td><td> I2C and SMBus interface</td><td> interrupts</td><td> w/ pull-ups</td><td> TSSOP-24 package'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TSSOP*4.4x7.8mm*P0.65mm*'</td></tr></table>]|
 ||||

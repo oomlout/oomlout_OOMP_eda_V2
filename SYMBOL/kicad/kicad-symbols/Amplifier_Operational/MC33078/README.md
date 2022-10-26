@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKAMPLIFIEROPERATIONALMC3378 > MC33078
+# SZKAMPLIFIEROPERATIONALMC3378 > Amplifier_Operational : MC33078
 
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-MC33078
 - Hex ID: SZKAMPLIFIEROPERATIONALMC3378
-- Name: MC33078
-- Description: MC33078
+- Name: Amplifier_Operational : MC33078
+- Description: Amplifier_Operational : MC33078
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-MC33078](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-MC33078)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALMC3378](http://oom.lt/SZKAMPLIFIEROPERATIONALMC3378)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MC33078|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Operational-MC33078|
 |Hex ID (short code)|hexID|SZKAMPLIFIEROPERATIONALMC3378|
-|name|name|MC33078|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LM2904', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MC33078', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pub/Collateral/MC33078-D.PDF', 'kicadSymbolki_keywords': 'dual opamp', 'kicadSymbolki_description': 'Low Noise, Dual Operational Amplifiers, DIP-8/SOIC-8/SSOP-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm* DIP*W7.62mm* TO*99* OnSemi*Micro8* TSSOP*3x3mm*P0.65mm* TSSOP*4.4x3mm*P0.65mm* MSOP*3x3mm*P0.65mm* SSOP*3.9x4.9mm*P0.635mm* LFCSP*2x2mm*P0.5mm* *SIP* SOIC*5.3x6.2mm*P1.27mm*'}]|
+|name|name|Amplifier_Operational : MC33078|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'LM2904'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MC33078'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.onsemi.com/pub/Collateral/MC33078-D.PDF'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'dual opamp'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Low Noise</td><td> Dual Operational Amplifiers</td><td> DIP-8/SOIC-8/SSOP-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*3.9x4.9mm*P1.27mm* DIP*W7.62mm* TO*99* OnSemi*Micro8* TSSOP*3x3mm*P0.65mm* TSSOP*4.4x3mm*P0.65mm* MSOP*3x3mm*P0.65mm* SSOP*3.9x4.9mm*P0.635mm* LFCSP*2x2mm*P0.5mm* *SIP* SOIC*5.3x6.2mm*P1.27mm*'</td></tr></table>]|
 ||||

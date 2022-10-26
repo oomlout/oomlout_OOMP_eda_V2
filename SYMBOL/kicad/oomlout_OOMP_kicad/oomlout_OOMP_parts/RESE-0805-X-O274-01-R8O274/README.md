@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE85XO2741R8O274 > RESE-0805-X-O274-01-R8O274
+# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE85XO2741R8O274 > oomlout_OOMP_parts : RESE-0805-X-O274-01-R8O274
 
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O274-01-R8O274
 - Hex ID: SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE85XO2741R8O274
-- Name: RESE-0805-X-O274-01-R8O274
-- Description: RESE-0805-X-O274-01-R8O274
+- Name: oomlout_OOMP_parts : RESE-0805-X-O274-01-R8O274
+- Description: oomlout_OOMP_parts : RESE-0805-X-O274-01-R8O274
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O274-01-R8O274](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O274-01-R8O274)
 - Short Link: [http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE85XO2741R8O274](http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE85XO2741R8O274)
   
@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|RESE-0805-X-O274-01-R8O274|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O274-01-R8O274|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE85XO2741R8O274|
-|name|name|RESE-0805-X-O274-01-R8O274|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'R', 'kicadSymbolValue': 'RESE-0805-X-O274-01-R8O274', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:RESE-0805-X-O274-01-R8O274', 'kicadSymbolDatasheet': 'oom.lt/R8O274', 'kicadSymbolki_keywords': 'R res resistor', 'kicadSymbolki_description': 'hexID: R8O274;PARTL C-JLCC;C17589;MANUF C-XXXX;0805W8F2703T5E;Resistor', 'kicadSymbolki_fp_filters': 'R_*'}]|
+|name|name|oomlout_OOMP_parts : RESE-0805-X-O274-01-R8O274|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'R'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'RESE-0805-X-O274-01-R8O274'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'oomlout_OOMP_parts</td></tr><tr><td>RESE-0805-X-O274-01-R8O274'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'oom.lt/R8O274'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'R res resistor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'hexID</td></tr><tr><td> R8O274;PARTL C-JLCC;C17589;MANUF C-XXXX;0805W8F2703T5E;Resistor'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'R_*'</td></tr></table>]|
 ||||

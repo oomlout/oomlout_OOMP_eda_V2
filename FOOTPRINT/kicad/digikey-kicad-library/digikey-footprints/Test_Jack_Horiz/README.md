@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Test_Jack_Horiz|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSTESTJHORIZ|
 |name|name|digikey-footprints : Test_Jack_Horiz|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Test_Jack_Horiz', 'description': 'https://belfuse.com/resources/Johnson/drawings/dr-1051101001.pdf', 'tags': None, 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Test_Jack_Horiz'</td><td> 'description'</td></tr><tr><td> 'https</td></tr><tr><td>//belfuse.com/resources/Johnson/drawings/dr-1051101001.pdf'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

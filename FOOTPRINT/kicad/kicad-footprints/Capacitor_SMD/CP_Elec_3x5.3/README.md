@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-CP_Elec_3x5.3|
 |Hex ID (short code)|hexID|FZKCAPACITORSMCPELEC3X53|
 |name|name|Capacitor_SMD : CP_Elec_3x5.3|
-|Footprint Kicad|footprintKicadDetails|{'name': 'CP_Elec_3x5.3', 'description': 'SMT capacitor, aluminium electrolytic, 3x5.3, Cornell Dubilier Electronics ', 'tags': 'Capacitor Electrolytic', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/CP_Elec_3x5.3.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'CP_Elec_3x5.3'</td><td> 'description'</td></tr><tr><td> 'SMT capacitor</td><td> aluminium electrolytic</td><td> 3x5.3</td><td> Cornell Dubilier Electronics '</td><td> 'tags'</td></tr><tr><td> 'Capacitor Electrolytic'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Capacitor_SMD.3dshapes/CP_Elec_3x5.3.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

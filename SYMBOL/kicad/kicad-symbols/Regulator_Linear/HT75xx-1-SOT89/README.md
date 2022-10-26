@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORLINEARHT75XX1SOT89 > HT75xx-1-SOT89
+# SZKREGULATORLINEARHT75XX1SOT89 > Regulator_Linear : HT75xx-1-SOT89
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-HT75xx-1-SOT89
 - Hex ID: SZKREGULATORLINEARHT75XX1SOT89
-- Name: HT75xx-1-SOT89
-- Description: HT75xx-1-SOT89
+- Name: Regulator_Linear : HT75xx-1-SOT89
+- Description: Regulator_Linear : HT75xx-1-SOT89
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-HT75xx-1-SOT89](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-HT75xx-1-SOT89)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARHT75XX1SOT89](http://oom.lt/SZKREGULATORLINEARHT75XX1SOT89)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|HT75xx-1-SOT89|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-HT75xx-1-SOT89|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARHT75XX1SOT89|
-|name|name|HT75xx-1-SOT89|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'HT75xx-1-SOT89', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-89-3', 'kicadSymbolDatasheet': 'https://www.holtek.com/documents/10179/116711/HT75xx-1v250.pdf', 'kicadSymbolki_keywords': '100mA LDO Regulator Fixed Positive', 'kicadSymbolki_description': '100mA Low Dropout Voltage Regulator, Fixed Output, SOT89', 'kicadSymbolki_fp_filters': 'SOT?89*'}]|
+|name|name|Regulator_Linear : HT75xx-1-SOT89|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'HT75xx-1-SOT89'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-89-3'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.holtek.com/documents/10179/116711/HT75xx-1v250.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> '100mA LDO Regulator Fixed Positive'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '100mA Low Dropout Voltage Regulator</td><td> Fixed Output</td><td> SOT89'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?89*'</td></tr></table>]|
 ||||

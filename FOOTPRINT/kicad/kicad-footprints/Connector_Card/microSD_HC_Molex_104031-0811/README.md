@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Card-microSD_HC_Molex_104031-0811|
 |Hex ID (short code)|hexID|FZKCNCARDMSDHCMX1431811|
 |name|name|Connector_Card : microSD_HC_Molex_104031-0811|
-|Footprint Kicad|footprintKicadDetails|{'name': 'microSD_HC_Molex_104031-0811', 'description': '1.10mm Pitch microSD Memory Card Connector, Surface Mount, Push-Pull Type, 1.42mm Height, with Detect Switch (https://www.molex.com/pdm_docs/sd/1040310811_sd.pdf)', 'tags': 'microSD SD molex', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_Card.3dshapes/microSD_HC_Molex_104031-0811.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'microSD_HC_Molex_104031-0811'</td><td> 'description'</td></tr><tr><td> '1.10mm Pitch microSD Memory Card Connector</td><td> Surface Mount</td><td> Push-Pull Type</td><td> 1.42mm Height</td><td> with Detect Switch (https</td></tr><tr><td>//www.molex.com/pdm_docs/sd/1040310811_sd.pdf)'</td><td> 'tags'</td></tr><tr><td> 'microSD SD molex'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_Card.3dshapes/microSD_HC_Molex_104031-0811.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

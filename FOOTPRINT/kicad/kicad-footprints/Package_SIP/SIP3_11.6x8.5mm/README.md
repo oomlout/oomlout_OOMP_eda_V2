@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SIP-SIP3_11.6x8.5mm|
 |Hex ID (short code)|hexID|FZKSIPSIP3116X85|
 |name|name|Package_SIP : SIP3_11.6x8.5mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'SIP3_11.6x8.5mm', 'description': 'RECOM,R78EXX,https://www.recom-power.com/pdf/Innoline/R-78Exx-0.5.pdf', 'tags': 'SIP3 Regulator Module', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SIP.3dshapes/SIP3_11.6x8.5mm.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SIP3_11.6x8.5mm'</td><td> 'description'</td></tr><tr><td> 'RECOM</td><td>R78EXX</td><td>https</td></tr><tr><td>//www.recom-power.com/pdf/Innoline/R-78Exx-0.5.pdf'</td><td> 'tags'</td></tr><tr><td> 'SIP3 Regulator Module'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_SIP.3dshapes/SIP3_11.6x8.5mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

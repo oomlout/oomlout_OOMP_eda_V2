@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKOCSGTXOS14V > GTXO-S14V
+# SZKOCSGTXOS14V > Oscillator : GTXO-S14V
 
 - ID: SYMBOL-kicad-kicad-symbols-Oscillator-GTXO-S14V
 - Hex ID: SZKOCSGTXOS14V
-- Name: GTXO-S14V
-- Description: GTXO-S14V
+- Name: Oscillator : GTXO-S14V
+- Description: Oscillator : GTXO-S14V
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-GTXO-S14V](http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-GTXO-S14V)
 - Short Link: [http://oom.lt/SZKOCSGTXOS14V](http://oom.lt/SZKOCSGTXOS14V)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|GTXO-S14V|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Oscillator-GTXO-S14V|
 |Hex ID (short code)|hexID|SZKOCSGTXOS14V|
-|name|name|GTXO-S14V|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'OCXO-14', 'kicadSymbolReference': 'X', 'kicadSymbolValue': 'GTXO-S14V', 'kicadSymbolFootprint': 'Oscillator:Oscillator_DIP-14', 'kicadSymbolDatasheet': 'http://www.golledge.com/pdf/products/tcxos/gtxos14.pdf', 'kicadSymbolki_keywords': 'Crystal Clock Oscillator', 'kicadSymbolki_description': '3.3 & 5V Stratum 3 Sinewave TCXO, DIP14-style metal package', 'kicadSymbolki_fp_filters': 'Oscillator*DIP*14*'}]|
+|name|name|Oscillator : GTXO-S14V|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'OCXO-14'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'X'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'GTXO-S14V'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Oscillator</td></tr><tr><td>Oscillator_DIP-14'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.golledge.com/pdf/products/tcxos/gtxos14.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Crystal Clock Oscillator'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '3.3 & 5V Stratum 3 Sinewave TCXO</td><td> DIP14-style metal package'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Oscillator*DIP*14*'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORCONTROLLERNCP138A > NCP1380A
+# SZKREGULATORCONTROLLERNCP138A > Regulator_Controller : NCP1380A
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Controller-NCP1380A
 - Hex ID: SZKREGULATORCONTROLLERNCP138A
-- Name: NCP1380A
-- Description: NCP1380A
+- Name: Regulator_Controller : NCP1380A
+- Description: Regulator_Controller : NCP1380A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-NCP1380A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-NCP1380A)
 - Short Link: [http://oom.lt/SZKREGULATORCONTROLLERNCP138A](http://oom.lt/SZKREGULATORCONTROLLERNCP138A)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|NCP1380A|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Controller-NCP1380A|
 |Hex ID (short code)|hexID|SZKREGULATORCONTROLLERNCP138A|
-|name|name|NCP1380A|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'NCP1380A', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pub/Collateral/NCP1380-D.PDF', 'kicadSymbolki_keywords': 'SMPS Controller AC-DC', 'kicadSymbolki_description': 'Quasi-Resonant Current-Mode Controller for Off-Line Supplies, OVP/OTP, Latched OCP, SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm*'}]|
+|name|name|Regulator_Controller : NCP1380A|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'NCP1380A'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-8_3.9x4.9mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.onsemi.com/pub/Collateral/NCP1380-D.PDF'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'SMPS Controller AC-DC'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Quasi-Resonant Current-Mode Controller for Off-Line Supplies</td><td> OVP/OTP</td><td> Latched OCP</td><td> SOIC-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*3.9x4.9mm*P1.27mm*'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDIODEBRIDGEDMA4U18GU > DMA40U1800GU
+# SZKDIODEBRIDGEDMA4U18GU > Diode_Bridge : DMA40U1800GU
 
 - ID: SYMBOL-kicad-kicad-symbols-Diode_Bridge-DMA40U1800GU
 - Hex ID: SZKDIODEBRIDGEDMA4U18GU
-- Name: DMA40U1800GU
-- Description: DMA40U1800GU
+- Name: Diode_Bridge : DMA40U1800GU
+- Description: Diode_Bridge : DMA40U1800GU
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-DMA40U1800GU](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-DMA40U1800GU)
 - Short Link: [http://oom.lt/SZKDIODEBRIDGEDMA4U18GU](http://oom.lt/SZKDIODEBRIDGEDMA4U18GU)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DMA40U1800GU|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode_Bridge-DMA40U1800GU|
 |Hex ID (short code)|hexID|SZKDIODEBRIDGEDMA4U18GU|
-|name|name|DMA40U1800GU|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'GUO40-08NO1', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'DMA40U1800GU', 'kicadSymbolFootprint': 'Diode_THT:Diode_Bridge_IXYS_GUFP', 'kicadSymbolDatasheet': 'https://ixapps.ixys.com/Datasheet/DMA40U1800GU.pdf', 'kicadSymbolki_keywords': 'Three-Phase Bridge Rectifier', 'kicadSymbolki_description': '575V Vrms, 40A If, GUFP(X025B)', 'kicadSymbolki_fp_filters': 'Diode*Bridge*IXYS*GUFP*'}]|
+|name|name|Diode_Bridge : DMA40U1800GU|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'GUO40-08NO1'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'DMA40U1800GU'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Diode_THT</td></tr><tr><td>Diode_Bridge_IXYS_GUFP'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//ixapps.ixys.com/Datasheet/DMA40U1800GU.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Three-Phase Bridge Rectifier'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '575V Vrms</td><td> 40A If</td><td> GUFP(X025B)'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Diode*Bridge*IXYS*GUFP*'</td></tr></table>]|
 ||||

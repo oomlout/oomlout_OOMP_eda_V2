@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_DIP-8|
 |Hex ID (short code)|hexID|FZKOCSOCSDIP8|
 |name|name|Oscillator : Oscillator_DIP-8|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Oscillator_DIP-8', 'description': 'Oscillator, DIP8,http://cdn-reichelt.de/documents/datenblatt/B400/OSZI.pdf', 'tags': 'oscillator', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Oscillator.3dshapes/Oscillator_DIP-8.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Oscillator_DIP-8'</td><td> 'description'</td></tr><tr><td> 'Oscillator</td><td> DIP8</td><td>http</td></tr><tr><td>//cdn-reichelt.de/documents/datenblatt/B400/OSZI.pdf'</td><td> 'tags'</td></tr><tr><td> 'oscillator'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Oscillator.3dshapes/Oscillator_DIP-8.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

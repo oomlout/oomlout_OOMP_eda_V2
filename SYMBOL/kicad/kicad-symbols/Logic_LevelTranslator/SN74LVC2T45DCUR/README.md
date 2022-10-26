@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKLOGICLEVELTRANSLATORSN74LVC2T45DCUR > SN74LVC2T45DCUR
+# SZKLOGICLEVELTRANSLATORSN74LVC2T45DCUR > Logic_LevelTranslator : SN74LVC2T45DCUR
 
 - ID: SYMBOL-kicad-kicad-symbols-Logic_LevelTranslator-SN74LVC2T45DCUR
 - Hex ID: SZKLOGICLEVELTRANSLATORSN74LVC2T45DCUR
-- Name: SN74LVC2T45DCUR
-- Description: SN74LVC2T45DCUR
+- Name: Logic_LevelTranslator : SN74LVC2T45DCUR
+- Description: Logic_LevelTranslator : SN74LVC2T45DCUR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Logic_LevelTranslator-SN74LVC2T45DCUR](http://oom.lt/SYMBOL-kicad-kicad-symbols-Logic_LevelTranslator-SN74LVC2T45DCUR)
 - Short Link: [http://oom.lt/SZKLOGICLEVELTRANSLATORSN74LVC2T45DCUR](http://oom.lt/SZKLOGICLEVELTRANSLATORSN74LVC2T45DCUR)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SN74LVC2T45DCUR|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Logic_LevelTranslator-SN74LVC2T45DCUR|
 |Hex ID (short code)|hexID|SZKLOGICLEVELTRANSLATORSN74LVC2T45DCUR|
-|name|name|SN74LVC2T45DCUR|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'SN74LVC2T45DCUR', 'kicadSymbolFootprint': 'Package_SO:VSSOP-8_2.4x2.1mm_P0.5mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/sn74lvc2t45.pdf', 'kicadSymbolki_keywords': 'Level-Shifter CMOS-TTL-Translation', 'kicadSymbolki_description': 'Dual-Bit Dual-Supply Bus Transceiver With Configurable Voltage Translation and 3-State Outputs, VSSOP-8', 'kicadSymbolki_fp_filters': 'VSSOP*2.4x2.1mm*P0.5mm*'}]|
+|name|name|Logic_LevelTranslator : SN74LVC2T45DCUR|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'SN74LVC2T45DCUR'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>VSSOP-8_2.4x2.1mm_P0.5mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/sn74lvc2t45.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Level-Shifter CMOS-TTL-Translation'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Dual-Bit Dual-Supply Bus Transceiver With Configurable Voltage Translation and 3-State Outputs</td><td> VSSOP-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'VSSOP*2.4x2.1mm*P0.5mm*'</td></tr></table>]|
 ||||

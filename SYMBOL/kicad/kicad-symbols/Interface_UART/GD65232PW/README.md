@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKINTERFACEUARTGD65232PW > GD65232PW
+# SZKINTERFACEUARTGD65232PW > Interface_UART : GD65232PW
 
 - ID: SYMBOL-kicad-kicad-symbols-Interface_UART-GD65232PW
 - Hex ID: SZKINTERFACEUARTGD65232PW
-- Name: GD65232PW
-- Description: GD65232PW
+- Name: Interface_UART : GD65232PW
+- Description: Interface_UART : GD65232PW
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-GD65232PW](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-GD65232PW)
 - Short Link: [http://oom.lt/SZKINTERFACEUARTGD65232PW](http://oom.lt/SZKINTERFACEUARTGD65232PW)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|GD65232PW|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_UART-GD65232PW|
 |Hex ID (short code)|hexID|SZKINTERFACEUARTGD65232PW|
-|name|name|GD65232PW|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'GD65232PW', 'kicadSymbolFootprint': 'Package_SO:TSSOP-20_4.4x6.5mm_P0.65mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/gd75232.pdf', 'kicadSymbolki_keywords': 'RS232 UART Driver Receiver Interface', 'kicadSymbolki_description': 'Multiple RS-232 Driver and Receiver, TSSOP-20', 'kicadSymbolki_fp_filters': 'TSSOP*'}]|
+|name|name|Interface_UART : GD65232PW|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'GD65232PW'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>TSSOP-20_4.4x6.5mm_P0.65mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/gd75232.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'RS232 UART Driver Receiver Interface'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Multiple RS-232 Driver and Receiver</td><td> TSSOP-20'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TSSOP*'</td></tr></table>]|
 ||||

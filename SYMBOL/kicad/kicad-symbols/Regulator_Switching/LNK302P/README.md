@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORSWITCHINGLNK32P > LNK302P
+# SZKREGULATORSWITCHINGLNK32P > Regulator_Switching : LNK302P
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK302P
 - Hex ID: SZKREGULATORSWITCHINGLNK32P
-- Name: LNK302P
-- Description: LNK302P
+- Name: Regulator_Switching : LNK302P
+- Description: Regulator_Switching : LNK302P
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK302P](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK302P)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGLNK32P](http://oom.lt/SZKREGULATORSWITCHINGLNK32P)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LNK302P|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK302P|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGLNK32P|
-|name|name|LNK302P|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LNK302P', 'kicadSymbolFootprint': 'Package_DIP:PowerIntegrations_PDIP-8B', 'kicadSymbolDatasheet': 'http://www.powerint.com/sites/default/files/product-docs/lnk302_304-306.pdf', 'kicadSymbolki_keywords': 'Lowest Component Count, Energy-Efficient Off-Line Switcher IC', 'kicadSymbolki_description': 'LinkSwitch-TN Family, 80mA Output Current, DIP-8B', 'kicadSymbolki_fp_filters': 'PowerIntegrations?PDIP?8B*'}]|
+|name|name|Regulator_Switching : LNK302P|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LNK302P'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>PowerIntegrations_PDIP-8B'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.powerint.com/sites/default/files/product-docs/lnk302_304-306.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Lowest Component Count</td><td> Energy-Efficient Off-Line Switcher IC'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'LinkSwitch-TN Family</td><td> 80mA Output Current</td><td> DIP-8B'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'PowerIntegrations?PDIP?8B*'</td></tr></table>]|
 ||||

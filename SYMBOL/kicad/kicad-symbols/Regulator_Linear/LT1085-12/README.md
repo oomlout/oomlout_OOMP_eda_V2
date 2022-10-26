@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORLINEARLT18512 > LT1085-12
+# SZKREGULATORLINEARLT18512 > Regulator_Linear : LT1085-12
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT1085-12
 - Hex ID: SZKREGULATORLINEARLT18512
-- Name: LT1085-12
-- Description: LT1085-12
+- Name: Regulator_Linear : LT1085-12
+- Description: Regulator_Linear : LT1085-12
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT1085-12](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT1085-12)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARLT18512](http://oom.lt/SZKREGULATORLINEARLT18512)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LT1085-12|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT1085-12|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARLT18512|
-|name|name|LT1085-12|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LM1084-3.3', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LT1085-12', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/1083ffe.pdf', 'kicadSymbolki_keywords': 'Voltage Regulator Fixed 3.0A Positive LDO', 'kicadSymbolki_description': '3.0A 25V LDO Linear Regulator, Fixed Output 12V, TO-220/TO-263', 'kicadSymbolki_fp_filters': 'TO?220* TO?263*'}]|
+|name|name|Regulator_Linear : LT1085-12|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'LM1084-3.3'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LT1085-12'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/1083ffe.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Voltage Regulator Fixed 3.0A Positive LDO'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '3.0A 25V LDO Linear Regulator</td><td> Fixed Output 12V</td><td> TO-220/TO-263'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TO?220* TO?263*'</td></tr></table>]|
 ||||

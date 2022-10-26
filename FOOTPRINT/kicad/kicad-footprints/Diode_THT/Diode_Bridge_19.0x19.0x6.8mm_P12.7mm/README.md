@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Diode_THT-Diode_Bridge_19.0x19.0x6.8mm_P12.7mm|
 |Hex ID (short code)|hexID|FZKDDIODEBRIDGE19X19X68P127|
 |name|name|Diode_THT : Diode_Bridge_19.0x19.0x6.8mm_P12.7mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Diode_Bridge_19.0x19.0x6.8mm_P12.7mm', 'description': 'Single phase bridge rectifier case 19x19mm, pitch 12.7mm, see https://diotec.com/tl_files/diotec/files/pdf/datasheets/pb1000.pdf', 'tags': 'Diode Bridge PB10xx', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/Diode_Bridge_19.0x19.0x6.8mm_P12.7mm.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Diode_Bridge_19.0x19.0x6.8mm_P12.7mm'</td><td> 'description'</td></tr><tr><td> 'Single phase bridge rectifier case 19x19mm</td><td> pitch 12.7mm</td><td> see https</td></tr><tr><td>//diotec.com/tl_files/diotec/files/pdf/datasheets/pb1000.pdf'</td><td> 'tags'</td></tr><tr><td> 'Diode Bridge PB10xx'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Diode_THT.3dshapes/Diode_Bridge_19.0x19.0x6.8mm_P12.7mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

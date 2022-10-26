@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORFETIPD5R3KCE > IPD50R3K0CE
+# SZKTRANSISTORFETIPD5R3KCE > Transistor_FET : IPD50R3K0CE
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-IPD50R3K0CE
 - Hex ID: SZKTRANSISTORFETIPD5R3KCE
-- Name: IPD50R3K0CE
-- Description: IPD50R3K0CE
+- Name: Transistor_FET : IPD50R3K0CE
+- Description: Transistor_FET : IPD50R3K0CE
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IPD50R3K0CE](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IPD50R3K0CE)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETIPD5R3KCE](http://oom.lt/SZKTRANSISTORFETIPD5R3KCE)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IPD50R3K0CE|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-IPD50R3K0CE|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETIPD5R3KCE|
-|name|name|IPD50R3K0CE|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'IPD50R380CE', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'IPD50R3K0CE', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TO-252-2', 'kicadSymbolDatasheet': 'https://www.infineon.com/dgdl/IPx50R3K0CE_2_0.pdf?folderId=db3a3043163797a6011637d4bae7003b&fileId=db3a304339dcf4b10139e7e9ff592ce4', 'kicadSymbolki_keywords': 'CoolMOS Power MOSFET N-MOS', 'kicadSymbolki_description': '1.7A Id, 500V Vds, CoolMOS N-Channel Power MOSFET, 3Ohm Ron, 4.3nC Qg (typ), TO-252-2', 'kicadSymbolki_fp_filters': 'TO?252*'}]|
+|name|name|Transistor_FET : IPD50R3K0CE|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'IPD50R380CE'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'IPD50R3K0CE'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>TO-252-2'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.infineon.com/dgdl/IPx50R3K0CE_2_0.pdf?folderId=db3a3043163797a6011637d4bae7003b&fileId=db3a304339dcf4b10139e7e9ff592ce4'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'CoolMOS Power MOSFET N-MOS'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '1.7A Id</td><td> 500V Vds</td><td> CoolMOS N-Channel Power MOSFET</td><td> 3Ohm Ron</td><td> 4.3nC Qg (typ)</td><td> TO-252-2'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TO?252*'</td></tr></table>]|
 ||||

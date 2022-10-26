@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-WDFN-8-1EP_2x2.2mm_P0.5mm_EP0.80x0.54|
 |Hex ID (short code)|hexID|FZKDFNWDFN81EP2X22P5EP8X54|
 |name|name|Package_DFN_QFN : WDFN-8-1EP_2x2.2mm_P0.5mm_EP0.80x0.54|
-|Footprint Kicad|footprintKicadDetails|{'name': 'WDFN-8-1EP_2x2.2mm_P0.5mm_EP0.80x0.54', 'description': 'https://www.onsemi.com/pub/Collateral/511BN.PDF', 'tags': 'WDFN-8 1EP 2.2X2.0 0.5P', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/WDFN-8_2.2x2mm_P0.5mm_1EP.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'WDFN-8-1EP_2x2.2mm_P0.5mm_EP0.80x0.54'</td><td> 'description'</td></tr><tr><td> 'https</td></tr><tr><td>//www.onsemi.com/pub/Collateral/511BN.PDF'</td><td> 'tags'</td></tr><tr><td> 'WDFN-8 1EP 2.2X2.0 0.5P'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DFN_QFN.3dshapes/WDFN-8_2.2x2mm_P0.5mm_1EP.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

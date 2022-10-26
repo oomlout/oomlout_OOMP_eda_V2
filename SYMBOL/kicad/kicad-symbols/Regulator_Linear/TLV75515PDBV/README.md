@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORLINEARTLV75515PDBV > TLV75515PDBV
+# SZKREGULATORLINEARTLV75515PDBV > Regulator_Linear : TLV75515PDBV
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-TLV75515PDBV
 - Hex ID: SZKREGULATORLINEARTLV75515PDBV
-- Name: TLV75515PDBV
-- Description: TLV75515PDBV
+- Name: Regulator_Linear : TLV75515PDBV
+- Description: Regulator_Linear : TLV75515PDBV
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TLV75515PDBV](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TLV75515PDBV)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARTLV75515PDBV](http://oom.lt/SZKREGULATORLINEARTLV75515PDBV)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TLV75515PDBV|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-TLV75515PDBV|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARTLV75515PDBV|
-|name|name|TLV75515PDBV|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TLV70012_SOT23-5', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TLV75515PDBV', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-5', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tlv755p.pdf', 'kicadSymbolki_keywords': 'LDO Regulator Fixed Positive', 'kicadSymbolki_description': '500mA Low Dropout Voltage Regulator, Fixed Output 1.5V, SOT-23-5', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
+|name|name|Regulator_Linear : TLV75515PDBV|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'TLV70012_SOT23-5'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TLV75515PDBV'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-23-5'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/tlv755p.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'LDO Regulator Fixed Positive'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '500mA Low Dropout Voltage Regulator</td><td> Fixed Output 1.5V</td><td> SOT-23-5'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23*'</td></tr></table>]|
 ||||

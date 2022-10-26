@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_CommonMode_Delevan_4222|
 |Hex ID (short code)|hexID|FZKINDUCTORSMLCOONMODEDELEVAN4222|
 |name|name|Inductor_SMD : L_CommonMode_Delevan_4222|
-|Footprint Kicad|footprintKicadDetails|{'name': 'L_CommonMode_Delevan_4222', 'description': 'API Delevan, Surface Mount Common Mode Bead, 4222 4222R, http://www.delevan.com/seriesPDFs/4222.pdf', 'tags': 'surface mount common mode bead', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_CommonMode_Delevan_4222.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'L_CommonMode_Delevan_4222'</td><td> 'description'</td></tr><tr><td> 'API Delevan</td><td> Surface Mount Common Mode Bead</td><td> 4222 4222R</td><td> http</td></tr><tr><td>//www.delevan.com/seriesPDFs/4222.pdf'</td><td> 'tags'</td></tr><tr><td> 'surface mount common mode bead'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Inductor_SMD.3dshapes/L_CommonMode_Delevan_4222.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

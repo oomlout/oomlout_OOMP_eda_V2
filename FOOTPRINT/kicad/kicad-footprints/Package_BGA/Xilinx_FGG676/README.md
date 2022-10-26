@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_BGA-Xilinx_FGG676|
 |Hex ID (short code)|hexID|FZKBGAXILINXFGG676|
 |name|name|Package_BGA : Xilinx_FGG676|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Xilinx_FGG676', 'description': 'Artix-7 BGA, 26x26 grid, 27x27mm package, 1mm pitch; https://www.xilinx.com/support/documentation/user_guides/ug475_7Series_Pkg_Pinout.pdf#page=276, NSMD pad definition Appendix A', 'tags': 'BGA 676 1 FG676 FGG676', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/Xilinx_FGG676.wrl', 'pins': {'type': 'smd', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Xilinx_FGG676'</td><td> 'description'</td></tr><tr><td> 'Artix-7 BGA</td><td> 26x26 grid</td><td> 27x27mm package</td><td> 1mm pitch; https</td></tr><tr><td>//www.xilinx.com/support/documentation/user_guides/ug475_7Series_Pkg_Pinout.pdf#page=276</td><td> NSMD pad definition Appendix A'</td><td> 'tags'</td></tr><tr><td> 'BGA 676 1 FG676 FGG676'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_BGA.3dshapes/Xilinx_FGG676.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

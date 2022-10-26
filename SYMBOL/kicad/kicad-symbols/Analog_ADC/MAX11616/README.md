@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKANALOGADCMAX11616 > MAX11616
+# SZKANALOGADCMAX11616 > Analog_ADC : MAX11616
 
 - ID: SYMBOL-kicad-kicad-symbols-Analog_ADC-MAX11616
 - Hex ID: SZKANALOGADCMAX11616
-- Name: MAX11616
-- Description: MAX11616
+- Name: Analog_ADC : MAX11616
+- Description: Analog_ADC : MAX11616
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-MAX11616](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-MAX11616)
 - Short Link: [http://oom.lt/SZKANALOGADCMAX11616](http://oom.lt/SZKANALOGADCMAX11616)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MAX11616|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_ADC-MAX11616|
 |Hex ID (short code)|hexID|SZKANALOGADCMAX11616|
-|name|name|MAX11616|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MAX11616', 'kicadSymbolFootprint': 'Package_SO:QSOP-16_3.9x4.9mm_P0.635mm', 'kicadSymbolDatasheet': 'https://datasheets.maximintegrated.com/en/ds/MAX11612-MAX11617.pdf', 'kicadSymbolki_keywords': 'adc i2c 12ch', 'kicadSymbolki_description': '12-channel single-ended or 6-channel, differential, 12-bit ADC, I2C, 4.096V internal reference, 16-QSOP package', 'kicadSymbolki_fp_filters': 'QSOP*3.9x4.9mm*P0.635mm*'}]|
+|name|name|Analog_ADC : MAX11616|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MAX11616'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>QSOP-16_3.9x4.9mm_P0.635mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//datasheets.maximintegrated.com/en/ds/MAX11612-MAX11617.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'adc i2c 12ch'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '12-channel single-ended or 6-channel</td><td> differential</td><td> 12-bit ADC</td><td> I2C</td><td> 4.096V internal reference</td><td> 16-QSOP package'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'QSOP*3.9x4.9mm*P0.635mm*'</td></tr></table>]|
 ||||

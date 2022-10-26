@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKAMPLIFIERAUDIOSTK436SANYO > STK436_Sanyo
+# SZKAMPLIFIERAUDIOSTK436SANYO > Amplifier_Audio : STK436_Sanyo
 
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Audio-STK436_Sanyo
 - Hex ID: SZKAMPLIFIERAUDIOSTK436SANYO
-- Name: STK436_Sanyo
-- Description: STK436_Sanyo
+- Name: Amplifier_Audio : STK436_Sanyo
+- Description: Amplifier_Audio : STK436_Sanyo
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-STK436_Sanyo](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-STK436_Sanyo)
 - Short Link: [http://oom.lt/SZKAMPLIFIERAUDIOSTK436SANYO](http://oom.lt/SZKAMPLIFIERAUDIOSTK436SANYO)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|STK436_Sanyo|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Audio-STK436_Sanyo|
 |Hex ID (short code)|hexID|SZKAMPLIFIERAUDIOSTK436SANYO|
-|name|name|STK436_Sanyo|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'STK433_Sanyo', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'STK436_Sanyo', 'kicadSymbolFootprint': 'Package_SIP:Sanyo_STK4xx-15_59.2x8.0mm_P2.54mm', 'kicadSymbolDatasheet': 'http://datasheet.octopart.com/STK430-Sanyo-datasheet-107060.pdf', 'kicadSymbolki_keywords': 'audio amplifier 2ch', 'kicadSymbolki_description': '2-Channel 10 Wmin Audio Frequency Power Amplifier, 4010, SIP-15', 'kicadSymbolki_fp_filters': 'Sanyo*59.2x8.0mm*P2.54mm*'}]|
+|name|name|Amplifier_Audio : STK436_Sanyo|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'STK433_Sanyo'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'STK436_Sanyo'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SIP</td></tr><tr><td>Sanyo_STK4xx-15_59.2x8.0mm_P2.54mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//datasheet.octopart.com/STK430-Sanyo-datasheet-107060.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'audio amplifier 2ch'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '2-Channel 10 Wmin Audio Frequency Power Amplifier</td><td> 4010</td><td> SIP-15'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Sanyo*59.2x8.0mm*P2.54mm*'</td></tr></table>]|
 ||||

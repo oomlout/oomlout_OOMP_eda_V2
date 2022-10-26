@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKINTERFACEUARTGD75232DB > GD75232DB
+# SZKINTERFACEUARTGD75232DB > Interface_UART : GD75232DB
 
 - ID: SYMBOL-kicad-kicad-symbols-Interface_UART-GD75232DB
 - Hex ID: SZKINTERFACEUARTGD75232DB
-- Name: GD75232DB
-- Description: GD75232DB
+- Name: Interface_UART : GD75232DB
+- Description: Interface_UART : GD75232DB
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-GD75232DB](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-GD75232DB)
 - Short Link: [http://oom.lt/SZKINTERFACEUARTGD75232DB](http://oom.lt/SZKINTERFACEUARTGD75232DB)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|GD75232DB|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_UART-GD75232DB|
 |Hex ID (short code)|hexID|SZKINTERFACEUARTGD75232DB|
-|name|name|GD75232DB|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'GD65232DB', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'GD75232DB', 'kicadSymbolFootprint': 'Package_SO:SSOP-20_4.4x6.5mm_P0.65mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/gd75232.pdf', 'kicadSymbolki_keywords': 'RS232 UART Driver Receiver Interface', 'kicadSymbolki_description': 'Multiple RS-232 Driver and Receiver, SSOP-20', 'kicadSymbolki_fp_filters': 'SSOP*4.4x6.5mm*P0.65mm*'}]|
+|name|name|Interface_UART : GD75232DB|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'GD65232DB'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'GD75232DB'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SSOP-20_4.4x6.5mm_P0.65mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/gd75232.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'RS232 UART Driver Receiver Interface'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Multiple RS-232 Driver and Receiver</td><td> SSOP-20'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SSOP*4.4x6.5mm*P0.65mm*'</td></tr></table>]|
 ||||

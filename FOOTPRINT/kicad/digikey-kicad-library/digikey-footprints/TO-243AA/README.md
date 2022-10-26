@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TO-243AA|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSTO243AA|
 |name|name|digikey-footprints : TO-243AA|
-|Footprint Kicad|footprintKicadDetails|{'name': 'TO-243AA', 'description': 'http://www.digikey.com/products/en?keywords=863-1063-1-ND', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'TO-243AA'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//www.digikey.com/products/en?keywords=863-1063-1-ND'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUSTSTM8STM8S27R6 > STM8S207R6
+# SZKMCUSTSTM8STM8S27R6 > MCU_ST_STM8 : STM8S207R6
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM8-STM8S207R6
 - Hex ID: SZKMCUSTSTM8STM8S27R6
-- Name: STM8S207R6
-- Description: STM8S207R6
+- Name: MCU_ST_STM8 : STM8S207R6
+- Description: MCU_ST_STM8 : STM8S207R6
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM8-STM8S207R6](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM8-STM8S207R6)
 - Short Link: [http://oom.lt/SZKMCUSTSTM8STM8S27R6](http://oom.lt/SZKMCUSTSTM8STM8S27R6)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|STM8S207R6|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_ST_STM8-STM8S207R6|
 |Hex ID (short code)|hexID|SZKMCUSTSTM8STM8S27R6|
-|name|name|STM8S207R6|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'STM8S208RB', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'STM8S207R6', 'kicadSymbolFootprint': 'Package_QFP:LQFP-64_10x10mm_P0.5mm', 'kicadSymbolDatasheet': 'https://www.st.com/resource/en/datasheet/stm8s208rb.pdf', 'kicadSymbolki_keywords': 'STM8 Microcontroller Performance Line', 'kicadSymbolki_description': '24MHz, 32K Flash, 2K EEPROM, 10-bit ADC, 2 UARTs, SPI, I²C, LQFP-64', 'kicadSymbolki_fp_filters': 'LQFP*10x10mm*P0.5mm*'}]|
+|name|name|MCU_ST_STM8 : STM8S207R6|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'STM8S208RB'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'STM8S207R6'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_QFP</td></tr><tr><td>LQFP-64_10x10mm_P0.5mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.st.com/resource/en/datasheet/stm8s208rb.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'STM8 Microcontroller Performance Line'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '24MHz</td><td> 32K Flash</td><td> 2K EEPROM</td><td> 10-bit ADC</td><td> 2 UARTs</td><td> SPI</td><td> I²C</td><td> LQFP-64'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'LQFP*10x10mm*P0.5mm*'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORLINEARXC626PXXXMR > XC6206PxxxMR
+# SZKREGULATORLINEARXC626PXXXMR > Regulator_Linear : XC6206PxxxMR
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-XC6206PxxxMR
 - Hex ID: SZKREGULATORLINEARXC626PXXXMR
-- Name: XC6206PxxxMR
-- Description: XC6206PxxxMR
+- Name: Regulator_Linear : XC6206PxxxMR
+- Description: Regulator_Linear : XC6206PxxxMR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-XC6206PxxxMR](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-XC6206PxxxMR)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARXC626PXXXMR](http://oom.lt/SZKREGULATORLINEARXC626PXXXMR)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|XC6206PxxxMR|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-XC6206PxxxMR|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARXC626PXXXMR|
-|name|name|XC6206PxxxMR|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'APE8865N-12-HF-3', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'XC6206PxxxMR', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23', 'kicadSymbolDatasheet': 'https://www.torexsemi.com/file/xc6206/XC6206.pdf', 'kicadSymbolki_keywords': 'Torex LDO Voltage Regulator Fixed Positive', 'kicadSymbolki_description': 'Positive 60-250mA Low Dropout Regulator, Fixed Output, SOT-23', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
+|name|name|Regulator_Linear : XC6206PxxxMR|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'APE8865N-12-HF-3'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'XC6206PxxxMR'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-23'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.torexsemi.com/file/xc6206/XC6206.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Torex LDO Voltage Regulator Fixed Positive'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Positive 60-250mA Low Dropout Regulator</td><td> Fixed Output</td><td> SOT-23'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23*'</td></tr></table>]|
 ||||

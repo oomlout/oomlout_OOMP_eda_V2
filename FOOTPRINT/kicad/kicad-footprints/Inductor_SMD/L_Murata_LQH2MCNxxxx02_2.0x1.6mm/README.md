@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Murata_LQH2MCNxxxx02_2.0x1.6mm|
 |Hex ID (short code)|hexID|FZKINDUCTORSMLMLQH2MCNXXXX22X16|
 |name|name|Inductor_SMD : L_Murata_LQH2MCNxxxx02_2.0x1.6mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'L_Murata_LQH2MCNxxxx02_2.0x1.6mm', 'description': 'Inductor, Murata, LQH2MCN_02 series, 1.6x2.0x0.9mm (https://search.murata.co.jp/Ceramy/image/img/P02/JELF243A-0053.pdf)', 'tags': 'chip coil inductor Murata LQH2MC', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Murata_LQH2MCNxxxx02_2.0x1.6mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'L_Murata_LQH2MCNxxxx02_2.0x1.6mm'</td><td> 'description'</td></tr><tr><td> 'Inductor</td><td> Murata</td><td> LQH2MCN_02 series</td><td> 1.6x2.0x0.9mm (https</td></tr><tr><td>//search.murata.co.jp/Ceramy/image/img/P02/JELF243A-0053.pdf)'</td><td> 'tags'</td></tr><tr><td> 'chip coil inductor Murata LQH2MC'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Inductor_SMD.3dshapes/L_Murata_LQH2MCNxxxx02_2.0x1.6mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

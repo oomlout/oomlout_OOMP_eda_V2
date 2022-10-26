@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDEVICERSLL > R_Small
+# SZKDEVICERSLL > Device : R_Small
 
 - ID: SYMBOL-kicad-kicad-symbols-Device-R_Small
 - Hex ID: SZKDEVICERSLL
-- Name: R_Small
-- Description: R_Small
+- Name: Device : R_Small
+- Description: Device : R_Small
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-R_Small](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-R_Small)
 - Short Link: [http://oom.lt/SZKDEVICERSLL](http://oom.lt/SZKDEVICERSLL)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|R_Small|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-R_Small|
 |Hex ID (short code)|hexID|SZKDEVICERSLL|
-|name|name|R_Small|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'R', 'kicadSymbolValue': 'R_Small', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'R resistor', 'kicadSymbolki_description': 'Resistor, small symbol', 'kicadSymbolki_fp_filters': 'R_*'}]|
+|name|name|Device : R_Small|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'R'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'R_Small'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'R resistor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Resistor</td><td> small symbol'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'R_*'</td></tr></table>]|
 ||||

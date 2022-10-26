@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKSENOPTICALFLIRLEPTON > Flir_LEPTON
+# SZKSENOPTICALFLIRLEPTON > Sensor_Optical : Flir_LEPTON
 
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Optical-Flir_LEPTON
 - Hex ID: SZKSENOPTICALFLIRLEPTON
-- Name: Flir_LEPTON
-- Description: Flir_LEPTON
+- Name: Sensor_Optical : Flir_LEPTON
+- Description: Sensor_Optical : Flir_LEPTON
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-Flir_LEPTON](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-Flir_LEPTON)
 - Short Link: [http://oom.lt/SZKSENOPTICALFLIRLEPTON](http://oom.lt/SZKSENOPTICALFLIRLEPTON)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Flir_LEPTON|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Optical-Flir_LEPTON|
 |Hex ID (short code)|hexID|SZKSENOPTICALFLIRLEPTON|
-|name|name|Flir_LEPTON|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'Flir_LEPTON', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://cdn.sparkfun.com/datasheets/Sensors/Infrared/FLIR_Lepton_Data_Brief.pdf', 'kicadSymbolki_keywords': 'LWIR camera', 'kicadSymbolki_description': 'LWIR camera 8 to 14um 80x60 pixel', 'kicadSymbolki_fp_filters': '*105028*1001* *105028*2011*'}]|
+|name|name|Sensor_Optical : Flir_LEPTON|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Flir_LEPTON'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//cdn.sparkfun.com/datasheets/Sensors/Infrared/FLIR_Lepton_Data_Brief.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'LWIR camera'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'LWIR camera 8 to 14um 80x60 pixel'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> '*105028*1001* *105028*2011*'</td></tr></table>]|
 ||||

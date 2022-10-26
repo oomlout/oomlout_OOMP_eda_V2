@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKAUDIOMN35 > MN3005
+# SZKAUDIOMN35 > Audio : MN3005
 
 - ID: SYMBOL-kicad-kicad-symbols-Audio-MN3005
 - Hex ID: SZKAUDIOMN35
-- Name: MN3005
-- Description: MN3005
+- Name: Audio : MN3005
+- Description: Audio : MN3005
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-MN3005](http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-MN3005)
 - Short Link: [http://oom.lt/SZKAUDIOMN35](http://oom.lt/SZKAUDIOMN35)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MN3005|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Audio-MN3005|
 |Hex ID (short code)|hexID|SZKAUDIOMN35|
-|name|name|MN3005|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MN3005', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.experimentalistsanonymous.com/diy/Datasheets/MN3005.pdf', 'kicadSymbolki_keywords': 'Matsushita Panasonic BBD', 'kicadSymbolki_description': '4096-STAGE LONG DELAY BBD (bucket brigade device), delay time 20.48ms to 204.8ms, S/N 75dB, clock frequency range 10KHz to 100KHz', 'kicadSymbolki_fp_filters': 'DIP-8*'}]|
+|name|name|Audio : MN3005|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MN3005'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.experimentalistsanonymous.com/diy/Datasheets/MN3005.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Matsushita Panasonic BBD'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '4096-STAGE LONG DELAY BBD (bucket brigade device)</td><td> delay time 20.48ms to 204.8ms</td><td> S/N 75dB</td><td> clock frequency range 10KHz to 100KHz'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP-8*'</td></tr></table>]|
 ||||

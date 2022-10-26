@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDEVICEANTENNA > Antenna
+# SZKDEVICEANTENNA > Device : Antenna
 
 - ID: SYMBOL-kicad-kicad-symbols-Device-Antenna
 - Hex ID: SZKDEVICEANTENNA
-- Name: Antenna
-- Description: Antenna
+- Name: Device : Antenna
+- Description: Device : Antenna
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Antenna](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Antenna)
 - Short Link: [http://oom.lt/SZKDEVICEANTENNA](http://oom.lt/SZKDEVICEANTENNA)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Antenna|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-Antenna|
 |Hex ID (short code)|hexID|SZKDEVICEANTENNA|
-|name|name|Antenna|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'AE', 'kicadSymbolValue': 'Antenna', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'antenna', 'kicadSymbolki_description': 'Antenna'}]|
+|name|name|Device : Antenna|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'AE'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Antenna'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'antenna'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Antenna'</td></tr></table>]|
 ||||

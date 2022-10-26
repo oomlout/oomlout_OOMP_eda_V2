@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKINTERFACECANLINSN65HVD233 > SN65HVD233
+# SZKINTERFACECANLINSN65HVD233 > Interface_CAN_LIN : SN65HVD233
 
 - ID: SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-SN65HVD233
 - Hex ID: SZKINTERFACECANLINSN65HVD233
-- Name: SN65HVD233
-- Description: SN65HVD233
+- Name: Interface_CAN_LIN : SN65HVD233
+- Description: Interface_CAN_LIN : SN65HVD233
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-SN65HVD233](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-SN65HVD233)
 - Short Link: [http://oom.lt/SZKINTERFACECANLINSN65HVD233](http://oom.lt/SZKINTERFACECANLINSN65HVD233)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SN65HVD233|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-SN65HVD233|
 |Hex ID (short code)|hexID|SZKINTERFACECANLINSN65HVD233|
-|name|name|SN65HVD233|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'SN65HVD233', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/sn65hvd234.pdf', 'kicadSymbolki_keywords': 'can transeiver ti', 'kicadSymbolki_description': 'CAN Bus Transceiver, 3.3V, 1Mbps, Loopback feature, SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm*'}]|
+|name|name|Interface_CAN_LIN : SN65HVD233|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'SN65HVD233'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-8_3.9x4.9mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/sn65hvd234.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'can transeiver ti'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'CAN Bus Transceiver</td><td> 3.3V</td><td> 1Mbps</td><td> Loopback feature</td><td> SOIC-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*3.9x4.9mm*P1.27mm*'</td></tr></table>]|
 ||||

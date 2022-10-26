@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORBJTBC85 > BC850
+# SZKTRANSISTORBJTBC85 > Transistor_BJT : BC850
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC850
 - Hex ID: SZKTRANSISTORBJTBC85
-- Name: BC850
-- Description: BC850
+- Name: Transistor_BJT : BC850
+- Description: Transistor_BJT : BC850
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC850](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC850)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTBC85](http://oom.lt/SZKTRANSISTORBJTBC85)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BC850|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC850|
 |Hex ID (short code)|hexID|SZKTRANSISTORBJTBC85|
-|name|name|BC850|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BC817', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'BC850', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23', 'kicadSymbolDatasheet': 'http://www.infineon.com/dgdl/Infineon-BC847SERIES_BC848SERIES_BC849SERIES_BC850SERIES-DS-v01_01-en.pdf?fileId=db3a304314dca389011541d4630a1657', 'kicadSymbolki_keywords': 'NPN Small Signal Transistor', 'kicadSymbolki_description': '0.1A Ic, 45V Vce, NPN Transistor, SOT-23', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
+|name|name|Transistor_BJT : BC850|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'BC817'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'BC850'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-23'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.infineon.com/dgdl/Infineon-BC847SERIES_BC848SERIES_BC849SERIES_BC850SERIES-DS-v01_01-en.pdf?fileId=db3a304314dca389011541d4630a1657'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'NPN Small Signal Transistor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '0.1A Ic</td><td> 45V Vce</td><td> NPN Transistor</td><td> SOT-23'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23*'</td></tr></table>]|
 ||||

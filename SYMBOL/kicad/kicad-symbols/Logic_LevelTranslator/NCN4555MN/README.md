@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKLOGICLEVELTRANSLATORNCN4555MN > NCN4555MN
+# SZKLOGICLEVELTRANSLATORNCN4555MN > Logic_LevelTranslator : NCN4555MN
 
 - ID: SYMBOL-kicad-kicad-symbols-Logic_LevelTranslator-NCN4555MN
 - Hex ID: SZKLOGICLEVELTRANSLATORNCN4555MN
-- Name: NCN4555MN
-- Description: NCN4555MN
+- Name: Logic_LevelTranslator : NCN4555MN
+- Description: Logic_LevelTranslator : NCN4555MN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Logic_LevelTranslator-NCN4555MN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Logic_LevelTranslator-NCN4555MN)
 - Short Link: [http://oom.lt/SZKLOGICLEVELTRANSLATORNCN4555MN](http://oom.lt/SZKLOGICLEVELTRANSLATORNCN4555MN)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|NCN4555MN|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Logic_LevelTranslator-NCN4555MN|
 |Hex ID (short code)|hexID|SZKLOGICLEVELTRANSLATORNCN4555MN|
-|name|name|NCN4555MN|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'NCN4555MN', 'kicadSymbolFootprint': 'Package_DFN_QFN:QFN-16-1EP_3x3mm_P0.5mm_EP1.75x1.75mm', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pub/Collateral/NCN4555-D.PDF', 'kicadSymbolki_keywords': 'SIM Card Level Shifter', 'kicadSymbolki_description': 'SIM Card Power Supply and Level Shifter, QFN-16', 'kicadSymbolki_fp_filters': 'QFN*1EP*3x3mm*P0.5mm*'}]|
+|name|name|Logic_LevelTranslator : NCN4555MN|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'NCN4555MN'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>QFN-16-1EP_3x3mm_P0.5mm_EP1.75x1.75mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.onsemi.com/pub/Collateral/NCN4555-D.PDF'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'SIM Card Level Shifter'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'SIM Card Power Supply and Level Shifter</td><td> QFN-16'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'QFN*1EP*3x3mm*P0.5mm*'</td></tr></table>]|
 ||||

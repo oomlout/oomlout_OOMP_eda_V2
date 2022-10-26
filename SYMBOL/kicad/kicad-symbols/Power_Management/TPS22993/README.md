@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKPOWERMANAGEMENTTPS22993 > TPS22993
+# SZKPOWERMANAGEMENTTPS22993 > Power_Management : TPS22993
 
 - ID: SYMBOL-kicad-kicad-symbols-Power_Management-TPS22993
 - Hex ID: SZKPOWERMANAGEMENTTPS22993
-- Name: TPS22993
-- Description: TPS22993
+- Name: Power_Management : TPS22993
+- Description: Power_Management : TPS22993
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-TPS22993](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-TPS22993)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTTPS22993](http://oom.lt/SZKPOWERMANAGEMENTTPS22993)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TPS22993|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Management-TPS22993|
 |Hex ID (short code)|hexID|SZKPOWERMANAGEMENTTPS22993|
-|name|name|TPS22993|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TPS22993', 'kicadSymbolFootprint': 'Package_DFN_QFN:Texas_S-PWQFN-N20', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/gpn/tps22993', 'kicadSymbolki_keywords': 'quad channel power distribution/load switch', 'kicadSymbolki_description': 'Quad Channel Load Switch with GPIO and I2C Control, Bias voltage: 4.5V-17.2V, Input voltage: 1.0V-3.6V, Max 1.2A per channel, WQFN-20', 'kicadSymbolki_fp_filters': 'Texas*PWQFN*'}]|
+|name|name|Power_Management : TPS22993|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TPS22993'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>Texas_S-PWQFN-N20'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/gpn/tps22993'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'quad channel power distribution/load switch'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Quad Channel Load Switch with GPIO and I2C Control</td><td> Bias voltage</td></tr><tr><td> 4.5V-17.2V</td><td> Input voltage</td></tr><tr><td> 1.0V-3.6V</td><td> Max 1.2A per channel</td><td> WQFN-20'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Texas*PWQFN*'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKPOWERPROTECTIONWETVS82414881 > WE-TVS-824014881
+# SZKPOWERPROTECTIONWETVS82414881 > Power_Protection : WE-TVS-824014881
 
 - ID: SYMBOL-kicad-kicad-symbols-Power_Protection-WE-TVS-824014881
 - Hex ID: SZKPOWERPROTECTIONWETVS82414881
-- Name: WE-TVS-824014881
-- Description: WE-TVS-824014881
+- Name: Power_Protection : WE-TVS-824014881
+- Description: Power_Protection : WE-TVS-824014881
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-WE-TVS-824014881](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-WE-TVS-824014881)
 - Short Link: [http://oom.lt/SZKPOWERPROTECTIONWETVS82414881](http://oom.lt/SZKPOWERPROTECTIONWETVS82414881)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|WE-TVS-824014881|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Protection-WE-TVS-824014881|
 |Hex ID (short code)|hexID|SZKPOWERPROTECTIONWETVS82414881|
-|name|name|WE-TVS-824014881|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'RCLAMP3328P', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'WE-TVS-824014881', 'kicadSymbolFootprint': 'Package_DFN_QFN:UDFN-9_1.0x3.8mm_P0.5mm', 'kicadSymbolDatasheet': 'https://katalog.we-online.de/pbs/datasheet/824014881.pdf', 'kicadSymbolki_keywords': 'usb esd protection suppression transient', 'kicadSymbolki_description': 'TVS Diode Array, 1.2V Standoff, 8 Channels, UDFN-9', 'kicadSymbolki_fp_filters': 'UDFN*1.0x3.8mm*P0.5mm*'}]|
+|name|name|Power_Protection : WE-TVS-824014881|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'RCLAMP3328P'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'WE-TVS-824014881'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>UDFN-9_1.0x3.8mm_P0.5mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//katalog.we-online.de/pbs/datasheet/824014881.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'usb esd protection suppression transient'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'TVS Diode Array</td><td> 1.2V Standoff</td><td> 8 Channels</td><td> UDFN-9'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'UDFN*1.0x3.8mm*P0.5mm*'</td></tr></table>]|
 ||||

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_E-Switch_EG1224_SPDT_Angled|
 |Hex ID (short code)|hexID|FZKBSWESWITCHEG1224SPDTANGL|
 |name|name|Button_Switch_THT : SW_E-Switch_EG1224_SPDT_Angled|
-|Footprint Kicad|footprintKicadDetails|{'name': 'SW_E-Switch_EG1224_SPDT_Angled', 'description': 'E-Switch slide switch, EG series, SPDT, right angle, http://spec_sheets.e-switch.com/specs/P040042.pdf', 'tags': 'switch SPDT', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_E-Switch_EG1224_SPDT_Angled.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SW_E-Switch_EG1224_SPDT_Angled'</td><td> 'description'</td></tr><tr><td> 'E-Switch slide switch</td><td> EG series</td><td> SPDT</td><td> right angle</td><td> http</td></tr><tr><td>//spec_sheets.e-switch.com/specs/P040042.pdf'</td><td> 'tags'</td></tr><tr><td> 'switch SPDT'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Button_Switch_THT.3dshapes/SW_E-Switch_EG1224_SPDT_Angled.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

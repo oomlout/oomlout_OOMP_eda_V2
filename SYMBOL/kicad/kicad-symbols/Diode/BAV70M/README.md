@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDIODEBAV7M > BAV70M
+# SZKDIODEBAV7M > Diode : BAV70M
 
 - ID: SYMBOL-kicad-kicad-symbols-Diode-BAV70M
 - Hex ID: SZKDIODEBAV7M
-- Name: BAV70M
-- Description: BAV70M
+- Name: Diode : BAV70M
+- Description: Diode : BAV70M
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BAV70M](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BAV70M)
 - Short Link: [http://oom.lt/SZKDIODEBAV7M](http://oom.lt/SZKDIODEBAV7M)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BAV70M|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-BAV70M|
 |Hex ID (short code)|hexID|SZKDIODEBAV7M|
-|name|name|BAV70M|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'BAV70M', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-883', 'kicadSymbolDatasheet': 'https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf', 'kicadSymbolki_keywords': 'diode', 'kicadSymbolki_description': 'Dual 100V 150mA high-speed switching diodes, common cathode, SOT-883', 'kicadSymbolki_fp_filters': 'SOT?883*'}]|
+|name|name|Diode : BAV70M|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'BAV70M'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-883'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'diode'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Dual 100V 150mA high-speed switching diodes</td><td> common cathode</td><td> SOT-883'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?883*'</td></tr></table>]|
 ||||

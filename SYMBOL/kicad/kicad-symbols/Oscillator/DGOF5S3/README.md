@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKOCSDGOF5S3 > DGOF5S3
+# SZKOCSDGOF5S3 > Oscillator : DGOF5S3
 
 - ID: SYMBOL-kicad-kicad-symbols-Oscillator-DGOF5S3
 - Hex ID: SZKOCSDGOF5S3
-- Name: DGOF5S3
-- Description: DGOF5S3
+- Name: Oscillator : DGOF5S3
+- Description: Oscillator : DGOF5S3
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-DGOF5S3](http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-DGOF5S3)
 - Short Link: [http://oom.lt/SZKOCSDGOF5S3](http://oom.lt/SZKOCSDGOF5S3)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DGOF5S3|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Oscillator-DGOF5S3|
 |Hex ID (short code)|hexID|SZKOCSDGOF5S3|
-|name|name|DGOF5S3|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'X', 'kicadSymbolValue': 'DGOF5S3', 'kicadSymbolFootprint': 'Oscillator:Oscillator_DIP-14', 'kicadSymbolDatasheet': 'http://www.conwin.com/datasheets/cx/cx030.pdf', 'kicadSymbolki_keywords': 'Crystal Clock Oscillator', 'kicadSymbolki_description': 'HCMOS Crystal Clock Oscillator, DIP14-style metal package', 'kicadSymbolki_fp_filters': 'Oscillator*DIP*14*'}]|
+|name|name|Oscillator : DGOF5S3|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'X'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'DGOF5S3'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Oscillator</td></tr><tr><td>Oscillator_DIP-14'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.conwin.com/datasheets/cx/cx030.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Crystal Clock Oscillator'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'HCMOS Crystal Clock Oscillator</td><td> DIP14-style metal package'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Oscillator*DIP*14*'</td></tr></table>]|
 ||||

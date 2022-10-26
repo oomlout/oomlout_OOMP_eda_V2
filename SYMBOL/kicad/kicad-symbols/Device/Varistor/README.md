@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDEVICEV > Varistor
+# SZKDEVICEV > Device : Varistor
 
 - ID: SYMBOL-kicad-kicad-symbols-Device-Varistor
 - Hex ID: SZKDEVICEV
-- Name: Varistor
-- Description: Varistor
+- Name: Device : Varistor
+- Description: Device : Varistor
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Varistor](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Varistor)
 - Short Link: [http://oom.lt/SZKDEVICEV](http://oom.lt/SZKDEVICEV)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Varistor|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-Varistor|
 |Hex ID (short code)|hexID|SZKDEVICEV|
-|name|name|Varistor|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'RV', 'kicadSymbolValue': 'Varistor', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'VDR resistance', 'kicadSymbolki_description': 'Voltage dependent resistor', 'kicadSymbolki_fp_filters': 'RV_* Varistor*'}]|
+|name|name|Device : Varistor|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'RV'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Varistor'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'VDR resistance'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Voltage dependent resistor'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'RV_* Varistor*'</td></tr></table>]|
 ||||

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Coilcraft_XxL4020|
 |Hex ID (short code)|hexID|FZKINDUCTORSMLCOILCRAFTXXL42|
 |name|name|Inductor_SMD : L_Coilcraft_XxL4020|
-|Footprint Kicad|footprintKicadDetails|{'name': 'L_Coilcraft_XxL4020', 'description': 'L_Coilcraft_XxL4020 https://www.coilcraft.com/pdfs/xfl4020.pdf', 'tags': 'L Coilcraft XxL4020', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Coilcraft_XxL4020.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'L_Coilcraft_XxL4020'</td><td> 'description'</td></tr><tr><td> 'L_Coilcraft_XxL4020 https</td></tr><tr><td>//www.coilcraft.com/pdfs/xfl4020.pdf'</td><td> 'tags'</td></tr><tr><td> 'L Coilcraft XxL4020'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Inductor_SMD.3dshapes/L_Coilcraft_XxL4020.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

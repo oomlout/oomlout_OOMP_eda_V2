@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_CSP-LFCSP-64-1EP_9x9mm_P0.5mm_EP5.21x5.21mm|
 |Hex ID (short code)|hexID|FZKCSPLFCSP641EP9X9P5EP521X521|
 |name|name|Package_CSP : LFCSP-64-1EP_9x9mm_P0.5mm_EP5.21x5.21mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'LFCSP-64-1EP_9x9mm_P0.5mm_EP5.21x5.21mm', 'description': 'LFCSP, 64 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp_64_7.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py', 'tags': 'LFCSP NoLead', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_CSP.3dshapes/LFCSP-64-1EP_9x9mm_P0.5mm_EP5.21x5.21mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'LFCSP-64-1EP_9x9mm_P0.5mm_EP5.21x5.21mm'</td><td> 'description'</td></tr><tr><td> 'LFCSP</td><td> 64 Pin (https</td></tr><tr><td>//www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp_64_7.pdf)</td><td> generated with kicad-footprint-generator ipc_noLead_generator.py'</td><td> 'tags'</td></tr><tr><td> 'LFCSP NoLead'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_CSP.3dshapes/LFCSP-64-1EP_9x9mm_P0.5mm_EP5.21x5.21mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

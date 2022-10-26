@@ -29,5 +29,5 @@ NO IMAGE
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-RF_Module-BM78SPPS5xC2|
 |Hex ID (short code)|hexID|FZKRFMOBM78SPPS5XC2|
 |name|name|RF_Module : BM78SPPS5xC2|
-|Footprint Kicad|footprintKicadDetails|{'name': 'BM78SPPS5xC2', 'description': 'Bluetooth Dual-mode module with integral chip antenna (http://ww1.microchip.com/downloads/en/DeviceDoc/60001380C.pdf)', 'tags': 'Bluetooth BR/EDR BLE', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/RF_Module.3dshapes/BM78SPPS5xC2.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'BM78SPPS5xC2'</td><td> 'description'</td></tr><tr><td> 'Bluetooth Dual-mode module with integral chip antenna (http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/60001380C.pdf)'</td><td> 'tags'</td></tr><tr><td> 'Bluetooth BR/EDR BLE'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/RF_Module.3dshapes/BM78SPPS5xC2.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

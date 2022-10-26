@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDEVICERPACK7 > R_Pack07
+# SZKDEVICERPACK7 > Device : R_Pack07
 
 - ID: SYMBOL-kicad-kicad-symbols-Device-R_Pack07
 - Hex ID: SZKDEVICERPACK7
-- Name: R_Pack07
-- Description: R_Pack07
+- Name: Device : R_Pack07
+- Description: Device : R_Pack07
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-R_Pack07](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-R_Pack07)
 - Short Link: [http://oom.lt/SZKDEVICERPACK7](http://oom.lt/SZKDEVICERPACK7)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|R_Pack07|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-R_Pack07|
 |Hex ID (short code)|hexID|SZKDEVICERPACK7|
-|name|name|R_Pack07|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'RN', 'kicadSymbolValue': 'R_Pack07', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'R network parallel topology isolated', 'kicadSymbolki_description': '7 resistor network, parallel topology', 'kicadSymbolki_fp_filters': 'DIP* SOIC* R*Array*Concave* R*Array*Convex*'}]|
+|name|name|Device : R_Pack07|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'RN'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'R_Pack07'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'R network parallel topology isolated'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '7 resistor network</td><td> parallel topology'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP* SOIC* R*Array*Concave* R*Array*Convex*'</td></tr></table>]|
 ||||

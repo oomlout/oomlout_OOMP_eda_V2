@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDEVICEQNPNDARLINGTONBCE > Q_NPN_Darlington_BCE
+# SZKDEVICEQNPNDARLINGTONBCE > Device : Q_NPN_Darlington_BCE
 
 - ID: SYMBOL-kicad-kicad-symbols-Device-Q_NPN_Darlington_BCE
 - Hex ID: SZKDEVICEQNPNDARLINGTONBCE
-- Name: Q_NPN_Darlington_BCE
-- Description: Q_NPN_Darlington_BCE
+- Name: Device : Q_NPN_Darlington_BCE
+- Description: Device : Q_NPN_Darlington_BCE
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Q_NPN_Darlington_BCE](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Q_NPN_Darlington_BCE)
 - Short Link: [http://oom.lt/SZKDEVICEQNPNDARLINGTONBCE](http://oom.lt/SZKDEVICEQNPNDARLINGTONBCE)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Q_NPN_Darlington_BCE|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-Q_NPN_Darlington_BCE|
 |Hex ID (short code)|hexID|SZKDEVICEQNPNDARLINGTONBCE|
-|name|name|Q_NPN_Darlington_BCE|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'Q_NPN_Darlington_BCE', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'transistor NPN Darlington', 'kicadSymbolki_description': 'NPN Darlington transistor, base/collector/emitter'}]|
+|name|name|Device : Q_NPN_Darlington_BCE|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Q_NPN_Darlington_BCE'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'transistor NPN Darlington'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'NPN Darlington transistor</td><td> base/collector/emitter'</td></tr></table>]|
 ||||

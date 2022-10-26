@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Bourns_SRF1260|
 |Hex ID (short code)|hexID|FZKINDUCTORSMLBOURNSSRF126|
 |name|name|Inductor_SMD : L_Bourns_SRF1260|
-|Footprint Kicad|footprintKicadDetails|{'name': 'L_Bourns_SRF1260', 'description': 'Inductor, Bourns, SRF1260, 12.5mmx12.5mm (Script generated with StandardBox.py) (https://www.bourns.com/docs/Product-Datasheets/SRF1260.pdf)', 'tags': 'Inductor Bourns_SRF1260', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Bourns_SRF1260.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'L_Bourns_SRF1260'</td><td> 'description'</td></tr><tr><td> 'Inductor</td><td> Bourns</td><td> SRF1260</td><td> 12.5mmx12.5mm (Script generated with StandardBox.py) (https</td></tr><tr><td>//www.bourns.com/docs/Product-Datasheets/SRF1260.pdf)'</td><td> 'tags'</td></tr><tr><td> 'Inductor Bourns_SRF1260'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Inductor_SMD.3dshapes/L_Bourns_SRF1260.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

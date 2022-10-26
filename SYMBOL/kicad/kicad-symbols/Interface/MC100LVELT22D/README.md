@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKINTERFACEMC1LVELT22D > MC100LVELT22D
+# SZKINTERFACEMC1LVELT22D > Interface : MC100LVELT22D
 
 - ID: SYMBOL-kicad-kicad-symbols-Interface-MC100LVELT22D
 - Hex ID: SZKINTERFACEMC1LVELT22D
-- Name: MC100LVELT22D
-- Description: MC100LVELT22D
+- Name: Interface : MC100LVELT22D
+- Description: Interface : MC100LVELT22D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-MC100LVELT22D](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-MC100LVELT22D)
 - Short Link: [http://oom.lt/SZKINTERFACEMC1LVELT22D](http://oom.lt/SZKINTERFACEMC1LVELT22D)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MC100LVELT22D|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface-MC100LVELT22D|
 |Hex ID (short code)|hexID|SZKINTERFACEMC1LVELT22D|
-|name|name|MC100LVELT22D|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MC100EPT22D', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MC100LVELT22D', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pub/Collateral/MC100LVELT22-D.PDF', 'kicadSymbolki_keywords': 'PECL buffer interface', 'kicadSymbolki_description': '3.3 V Dual LVTTL/LVCMOS to Differential LVPECL Translator, SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm*'}]|
+|name|name|Interface : MC100LVELT22D|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'MC100EPT22D'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MC100LVELT22D'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-8_3.9x4.9mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.onsemi.com/pub/Collateral/MC100LVELT22-D.PDF'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'PECL buffer interface'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '3.3 V Dual LVTTL/LVCMOS to Differential LVPECL Translator</td><td> SOIC-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*3.9x4.9mm*P1.27mm*'</td></tr></table>]|
 ||||

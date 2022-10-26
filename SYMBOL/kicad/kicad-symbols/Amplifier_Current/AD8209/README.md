@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKAMPLIFIERCURRENTAD829 > AD8209
+# SZKAMPLIFIERCURRENTAD829 > Amplifier_Current : AD8209
 
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Current-AD8209
 - Hex ID: SZKAMPLIFIERCURRENTAD829
-- Name: AD8209
-- Description: AD8209
+- Name: Amplifier_Current : AD8209
+- Description: Amplifier_Current : AD8209
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Current-AD8209](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Current-AD8209)
 - Short Link: [http://oom.lt/SZKAMPLIFIERCURRENTAD829](http://oom.lt/SZKAMPLIFIERCURRENTAD829)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AD8209|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Current-AD8209|
 |Hex ID (short code)|hexID|SZKAMPLIFIERCURRENTAD829|
-|name|name|AD8209|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'AD8203', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AD8209', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/AD8209.pdf', 'kicadSymbolki_keywords': 'highside HS current sense amplifier linear buffered monitor preamp', 'kicadSymbolki_description': '45V High Voltage, Precision Difference Amplifier, 7V/V x 2V/V adjustable gain, bandwidth 80kHz, Vcc=5V, unidirectional, MSOP-8', 'kicadSymbolki_fp_filters': 'SOIC*P1.27mm* MSOP*P0.65mm*'}]|
+|name|name|Amplifier_Current : AD8209|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'AD8203'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'AD8209'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/AD8209.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'highside HS current sense amplifier linear buffered monitor preamp'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '45V High Voltage</td><td> Precision Difference Amplifier</td><td> 7V/V x 2V/V adjustable gain</td><td> bandwidth 80kHz</td><td> Vcc=5V</td><td> unidirectional</td><td> MSOP-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*P1.27mm* MSOP*P0.65mm*'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORBJTDTC114E > DTC114E
+# SZKTRANSISTORBJTDTC114E > Transistor_BJT : DTC114E
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-DTC114E
 - Hex ID: SZKTRANSISTORBJTDTC114E
-- Name: DTC114E
-- Description: DTC114E
+- Name: Transistor_BJT : DTC114E
+- Description: Transistor_BJT : DTC114E
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-DTC114E](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-DTC114E)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTDTC114E](http://oom.lt/SZKTRANSISTORBJTDTC114E)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DTC114E|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_BJT-DTC114E|
 |Hex ID (short code)|hexID|SZKTRANSISTORBJTDTC114E|
-|name|name|DTC114E|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'DTC114E', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_keywords': 'ROHM Digital NPN Transistor', 'kicadSymbolki_description': 'Digital NPN Transistor, 10k/10k, SOT-23', 'kicadSymbolki_fp_filters': 'SOT?23* SC?59*'}]|
+|name|name|Transistor_BJT : DTC114E|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'DTC114E'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'ROHM Digital NPN Transistor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Digital NPN Transistor</td><td> 10k/10k</td><td> SOT-23'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23* SC?59*'</td></tr></table>]|
 ||||

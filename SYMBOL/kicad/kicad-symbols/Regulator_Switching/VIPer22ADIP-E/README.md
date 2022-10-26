@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORSWITCHINGVIPER22ADIPE > VIPer22ADIP-E
+# SZKREGULATORSWITCHINGVIPER22ADIPE > Regulator_Switching : VIPer22ADIP-E
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-VIPer22ADIP-E
 - Hex ID: SZKREGULATORSWITCHINGVIPER22ADIPE
-- Name: VIPer22ADIP-E
-- Description: VIPer22ADIP-E
+- Name: Regulator_Switching : VIPer22ADIP-E
+- Description: Regulator_Switching : VIPer22ADIP-E
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-VIPer22ADIP-E](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-VIPer22ADIP-E)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGVIPER22ADIPE](http://oom.lt/SZKREGULATORSWITCHINGVIPER22ADIPE)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|VIPer22ADIP-E|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-VIPer22ADIP-E|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGVIPER22ADIPE|
-|name|name|VIPer22ADIP-E|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'VIPer22ADIP-E', 'kicadSymbolFootprint': 'Package_DIP:DIP-8_W7.62mm', 'kicadSymbolDatasheet': 'http://www.st.com/web/en/resource/technical/document/datasheet/CD00087939.pdf', 'kicadSymbolki_keywords': 'SMPS', 'kicadSymbolki_description': 'Low power OFF-line SMPS primary switcher', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
+|name|name|Regulator_Switching : VIPer22ADIP-E|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'VIPer22ADIP-E'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>DIP-8_W7.62mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.st.com/web/en/resource/technical/document/datasheet/CD00087939.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'SMPS'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Low power OFF-line SMPS primary switcher'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W7.62mm*'</td></tr></table>]|
 ||||

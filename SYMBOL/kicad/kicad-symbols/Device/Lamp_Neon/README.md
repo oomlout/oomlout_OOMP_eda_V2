@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDEVICELAMPNEON > Lamp_Neon
+# SZKDEVICELAMPNEON > Device : Lamp_Neon
 
 - ID: SYMBOL-kicad-kicad-symbols-Device-Lamp_Neon
 - Hex ID: SZKDEVICELAMPNEON
-- Name: Lamp_Neon
-- Description: Lamp_Neon
+- Name: Device : Lamp_Neon
+- Description: Device : Lamp_Neon
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Lamp_Neon](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Lamp_Neon)
 - Short Link: [http://oom.lt/SZKDEVICELAMPNEON](http://oom.lt/SZKDEVICELAMPNEON)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Lamp_Neon|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-Lamp_Neon|
 |Hex ID (short code)|hexID|SZKDEVICELAMPNEON|
-|name|name|Lamp_Neon|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'NE', 'kicadSymbolValue': 'Lamp_Neon', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'neon lamp', 'kicadSymbolki_description': 'Neon lamp'}]|
+|name|name|Device : Lamp_Neon|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'NE'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Lamp_Neon'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'neon lamp'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Neon lamp'</td></tr></table>]|
 ||||

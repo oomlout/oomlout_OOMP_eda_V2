@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORSWITCHINGTPS568215RNN > TPS568215RNN
+# SZKREGULATORSWITCHINGTPS568215RNN > Regulator_Switching : TPS568215RNN
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS568215RNN
 - Hex ID: SZKREGULATORSWITCHINGTPS568215RNN
-- Name: TPS568215RNN
-- Description: TPS568215RNN
+- Name: Regulator_Switching : TPS568215RNN
+- Description: Regulator_Switching : TPS568215RNN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS568215RNN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS568215RNN)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGTPS568215RNN](http://oom.lt/SZKREGULATORSWITCHINGTPS568215RNN)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TPS568215RNN|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS568215RNN|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGTPS568215RNN|
-|name|name|TPS568215RNN|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TPS568215RNN', 'kicadSymbolFootprint': 'Package_DFN_QFN:Texas_RNN0018A', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tps568215.pdf', 'kicadSymbolki_keywords': 'switching buck converter step-down', 'kicadSymbolki_description': '4.5V-17V Input, 8A Synchronous Step-Down SWIFT Converter, Adjustable Output, 400kHz/800kHz/1.2MHz Switching Frequency, Texas VQFN-18', 'kicadSymbolki_fp_filters': 'Texas*RNN0018A*'}]|
+|name|name|Regulator_Switching : TPS568215RNN|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TPS568215RNN'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>Texas_RNN0018A'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/tps568215.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'switching buck converter step-down'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '4.5V-17V Input</td><td> 8A Synchronous Step-Down SWIFT Converter</td><td> Adjustable Output</td><td> 400kHz/800kHz/1.2MHz Switching Frequency</td><td> Texas VQFN-18'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Texas*RNN0018A*'</td></tr></table>]|
 ||||

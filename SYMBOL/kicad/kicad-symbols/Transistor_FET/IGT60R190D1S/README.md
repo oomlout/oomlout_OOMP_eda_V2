@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORFETIGT6R19D1S > IGT60R190D1S
+# SZKTRANSISTORFETIGT6R19D1S > Transistor_FET : IGT60R190D1S
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-IGT60R190D1S
 - Hex ID: SZKTRANSISTORFETIGT6R19D1S
-- Name: IGT60R190D1S
-- Description: IGT60R190D1S
+- Name: Transistor_FET : IGT60R190D1S
+- Description: Transistor_FET : IGT60R190D1S
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IGT60R190D1S](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IGT60R190D1S)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETIGT6R19D1S](http://oom.lt/SZKTRANSISTORFETIGT6R19D1S)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IGT60R190D1S|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-IGT60R190D1S|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETIGT6R19D1S|
-|name|name|IGT60R190D1S|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'IGT60R070D1', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'IGT60R190D1S', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:Infineon_PG-HSOF-8-3_ThermalVias', 'kicadSymbolDatasheet': 'https://www.infineon.com/dgdl/Infineon-IGT60R190D1S-DataSheet-v03_01-EN.pdf?fileId=5546d46265f064ff016685fa29796520', 'kicadSymbolki_keywords': 'N-Channel GaN MOSFET', 'kicadSymbolki_description': '12.5A Id, 600V Vds, 190mOhm, N-Channel GaN MOSFET, HSOF-8', 'kicadSymbolki_fp_filters': 'Infineon*PG*HSOF*3*'}]|
+|name|name|Transistor_FET : IGT60R190D1S|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'IGT60R070D1'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'IGT60R190D1S'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>Infineon_PG-HSOF-8-3_ThermalVias'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.infineon.com/dgdl/Infineon-IGT60R190D1S-DataSheet-v03_01-EN.pdf?fileId=5546d46265f064ff016685fa29796520'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'N-Channel GaN MOSFET'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '12.5A Id</td><td> 600V Vds</td><td> 190mOhm</td><td> N-Channel GaN MOSFET</td><td> HSOF-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Infineon*PG*HSOF*3*'</td></tr></table>]|
 ||||

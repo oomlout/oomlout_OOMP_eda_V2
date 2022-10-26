@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKANALOGSWITCHMAX42ANS > MAX40200ANS
+# SZKANALOGSWITCHMAX42ANS > Analog_Switch : MAX40200ANS
 
 - ID: SYMBOL-kicad-kicad-symbols-Analog_Switch-MAX40200ANS
 - Hex ID: SZKANALOGSWITCHMAX42ANS
-- Name: MAX40200ANS
-- Description: MAX40200ANS
+- Name: Analog_Switch : MAX40200ANS
+- Description: Analog_Switch : MAX40200ANS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-MAX40200ANS](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-MAX40200ANS)
 - Short Link: [http://oom.lt/SZKANALOGSWITCHMAX42ANS](http://oom.lt/SZKANALOGSWITCHMAX42ANS)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MAX40200ANS|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_Switch-MAX40200ANS|
 |Hex ID (short code)|hexID|SZKANALOGSWITCHMAX42ANS|
-|name|name|MAX40200ANS|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MAX40200ANS', 'kicadSymbolFootprint': 'Package_BGA:WLP-4_0.73x0.73mm_Layout2x2_P0.35mm_Ball0.22mm_Pad0.2mm_NSMD', 'kicadSymbolDatasheet': 'https://datasheets.maximintegrated.com/en/ds/MAX40200.pdf', 'kicadSymbolki_keywords': 'current switch', 'kicadSymbolki_description': 'Ideal Diode, Ultra-Low Voltage Drop, 1.5-5.5V, 1A, WLP-4', 'kicadSymbolki_fp_filters': 'WLP*0.73x0.73mm*Layout2x2*P0.35mm*'}]|
+|name|name|Analog_Switch : MAX40200ANS|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MAX40200ANS'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_BGA</td></tr><tr><td>WLP-4_0.73x0.73mm_Layout2x2_P0.35mm_Ball0.22mm_Pad0.2mm_NSMD'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//datasheets.maximintegrated.com/en/ds/MAX40200.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'current switch'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Ideal Diode</td><td> Ultra-Low Voltage Drop</td><td> 1.5-5.5V</td><td> 1A</td><td> WLP-4'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'WLP*0.73x0.73mm*Layout2x2*P0.35mm*'</td></tr></table>]|
 ||||

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-OptoDevice-R_LDR_7x6mm_P5.1mm_Vertical|
 |Hex ID (short code)|hexID|FZKOPRLDR7X6P51VERTICAL|
 |name|name|OptoDevice : R_LDR_7x6mm_P5.1mm_Vertical|
-|Footprint Kicad|footprintKicadDetails|{'name': 'R_LDR_7x6mm_P5.1mm_Vertical', 'description': 'Resistor, LDR 7x6mm', 'tags': 'Resistor LDR7x6mm', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/R_LDR_7x6mm_P5.1mm_Vertical.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'R_LDR_7x6mm_P5.1mm_Vertical'</td><td> 'description'</td></tr><tr><td> 'Resistor</td><td> LDR 7x6mm'</td><td> 'tags'</td></tr><tr><td> 'Resistor LDR7x6mm'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/OptoDevice.3dshapes/R_LDR_7x6mm_P5.1mm_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

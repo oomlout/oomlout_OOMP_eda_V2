@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_QFP-LQFP-64-1EP_10x10mm_P0.5mm_EP5x5mm|
 |Hex ID (short code)|hexID|FZKQFPLQFP641EP1X1P5EP5X5|
 |name|name|Package_QFP : LQFP-64-1EP_10x10mm_P0.5mm_EP5x5mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'LQFP-64-1EP_10x10mm_P0.5mm_EP5x5mm', 'description': 'LQFP, 64 Pin (https://www.analog.com/media/en/technical-documentation/data-sheets/adv7611.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py', 'tags': 'LQFP QFP', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_QFP.3dshapes/LQFP-64-1EP_10x10mm_P0.5mm_EP5x5mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'LQFP-64-1EP_10x10mm_P0.5mm_EP5x5mm'</td><td> 'description'</td></tr><tr><td> 'LQFP</td><td> 64 Pin (https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/adv7611.pdf)</td><td> generated with kicad-footprint-generator ipc_gullwing_generator.py'</td><td> 'tags'</td></tr><tr><td> 'LQFP QFP'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_QFP.3dshapes/LQFP-64-1EP_10x10mm_P0.5mm_EP5x5mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

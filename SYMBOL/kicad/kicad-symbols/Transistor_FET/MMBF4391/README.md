@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORFETBF4391 > MMBF4391
+# SZKTRANSISTORFETBF4391 > Transistor_FET : MMBF4391
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-MMBF4391
 - Hex ID: SZKTRANSISTORFETBF4391
-- Name: MMBF4391
-- Description: MMBF4391
+- Name: Transistor_FET : MMBF4391
+- Description: Transistor_FET : MMBF4391
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-MMBF4391](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-MMBF4391)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETBF4391](http://oom.lt/SZKTRANSISTORFETBF4391)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MMBF4391|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-MMBF4391|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETBF4391|
-|name|name|MMBF4391|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BSR56', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'MMBF4391', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pub/Collateral/MMBF4391LT1-D.PDF', 'kicadSymbolki_keywords': 'N-Channel FET Transistor', 'kicadSymbolki_description': '50mA min, 30V, 30mOhm max, 4-10V Vgs(off), N-Channel JFET, SOT-23', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
+|name|name|Transistor_FET : MMBF4391|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'BSR56'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MMBF4391'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-23'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.onsemi.com/pub/Collateral/MMBF4391LT1-D.PDF'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'N-Channel FET Transistor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '50mA min</td><td> 30V</td><td> 30mOhm max</td><td> 4-10V Vgs(off)</td><td> N-Channel JFET</td><td> SOT-23'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23*'</td></tr></table>]|
 ||||

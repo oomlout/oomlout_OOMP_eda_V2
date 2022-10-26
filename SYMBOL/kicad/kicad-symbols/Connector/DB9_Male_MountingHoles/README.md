@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKCNDB9MALEHOLS > DB9_Male_MountingHoles
+# SZKCNDB9MALEHOLS > Connector : DB9_Male_MountingHoles
 
 - ID: SYMBOL-kicad-kicad-symbols-Connector-DB9_Male_MountingHoles
 - Hex ID: SZKCNDB9MALEHOLS
-- Name: DB9_Male_MountingHoles
-- Description: DB9_Male_MountingHoles
+- Name: Connector : DB9_Male_MountingHoles
+- Description: Connector : DB9_Male_MountingHoles
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-DB9_Male_MountingHoles](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-DB9_Male_MountingHoles)
 - Short Link: [http://oom.lt/SZKCNDB9MALEHOLS](http://oom.lt/SZKCNDB9MALEHOLS)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DB9_Male_MountingHoles|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-DB9_Male_MountingHoles|
 |Hex ID (short code)|hexID|SZKCNDB9MALEHOLS|
-|name|name|DB9_Male_MountingHoles|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'DB9_Male_MountingHoles', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ' ~', 'kicadSymbolki_keywords': 'connector male D-SUB', 'kicadSymbolki_description': '9-pin male D-SUB connector, Mounting Hole', 'kicadSymbolki_fp_filters': 'DSUB*Male*'}]|
+|name|name|Connector : DB9_Male_MountingHoles|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'J'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'DB9_Male_MountingHoles'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> ' ~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'connector male D-SUB'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '9-pin male D-SUB connector</td><td> Mounting Hole'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DSUB*Male*'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKAMPLIFIERAUDIOMAX985XTI > MAX9850xTI
+# SZKAMPLIFIERAUDIOMAX985XTI > Amplifier_Audio : MAX9850xTI
 
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Audio-MAX9850xTI
 - Hex ID: SZKAMPLIFIERAUDIOMAX985XTI
-- Name: MAX9850xTI
-- Description: MAX9850xTI
+- Name: Amplifier_Audio : MAX9850xTI
+- Description: Amplifier_Audio : MAX9850xTI
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-MAX9850xTI](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-MAX9850xTI)
 - Short Link: [http://oom.lt/SZKAMPLIFIERAUDIOMAX985XTI](http://oom.lt/SZKAMPLIFIERAUDIOMAX985XTI)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MAX9850xTI|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Audio-MAX9850xTI|
 |Hex ID (short code)|hexID|SZKAMPLIFIERAUDIOMAX985XTI|
-|name|name|MAX9850xTI|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MAX9850xTI', 'kicadSymbolFootprint': 'Package_DFN_QFN:TQFN-28-1EP_5x5mm_P0.5mm_EP3.25x3.25mm_ThermalVias', 'kicadSymbolDatasheet': 'https://datasheets.maximintegrated.com/en/ds/MAX9850.pdf', 'kicadSymbolki_keywords': 'audio ampflifier stereo i2s', 'kicadSymbolki_description': 'Stereo audio DAC with headphone amplifier, TQFN-28', 'kicadSymbolki_fp_filters': 'TQFN*1EP*5x5mm*P0.5mm*'}]|
+|name|name|Amplifier_Audio : MAX9850xTI|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MAX9850xTI'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>TQFN-28-1EP_5x5mm_P0.5mm_EP3.25x3.25mm_ThermalVias'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//datasheets.maximintegrated.com/en/ds/MAX9850.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'audio ampflifier stereo i2s'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Stereo audio DAC with headphone amplifier</td><td> TQFN-28'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TQFN*1EP*5x5mm*P0.5mm*'</td></tr></table>]|
 ||||

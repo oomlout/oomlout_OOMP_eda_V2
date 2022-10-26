@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SO-TSOP-I-28_11.8x8mm_P0.55mm|
 |Hex ID (short code)|hexID|FZKSOTSI28118X8P55|
 |name|name|Package_SO : TSOP-I-28_11.8x8mm_P0.55mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'TSOP-I-28_11.8x8mm_P0.55mm', 'description': 'TSOP I, 28 pins, 18.8x8mm body, 0.55mm pitch, IPC-calculated pads (http://ww1.microchip.com/downloads/en/devicedoc/doc0807.pdf)', 'tags': 'TSOP I 28 pins', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/TSOP-I-28_11.8x8mm_P0.55mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'TSOP-I-28_11.8x8mm_P0.55mm'</td><td> 'description'</td></tr><tr><td> 'TSOP I</td><td> 28 pins</td><td> 18.8x8mm body</td><td> 0.55mm pitch</td><td> IPC-calculated pads (http</td></tr><tr><td>//ww1.microchip.com/downloads/en/devicedoc/doc0807.pdf)'</td><td> 'tags'</td></tr><tr><td> 'TSOP I 28 pins'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_SO.3dshapes/TSOP-I-28_11.8x8mm_P0.55mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

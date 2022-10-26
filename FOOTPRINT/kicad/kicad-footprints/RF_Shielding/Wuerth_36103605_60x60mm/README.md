@@ -29,5 +29,5 @@ NO IMAGE
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-RF_Shielding-Wuerth_36103605_60x60mm|
 |Hex ID (short code)|hexID|FZKRFSWUERTH3613656X6|
 |name|name|RF_Shielding : Wuerth_36103605_60x60mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Wuerth_36103605_60x60mm', 'description': 'WE-SHC Shielding Cabinet SMD 60x60mm', 'tags': 'Shielding Cabinet', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/RF_Shielding.3dshapes/Wuerth_36103605_60x60mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Wuerth_36103605_60x60mm'</td><td> 'description'</td></tr><tr><td> 'WE-SHC Shielding Cabinet SMD 60x60mm'</td><td> 'tags'</td></tr><tr><td> 'Shielding Cabinet'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/RF_Shielding.3dshapes/Wuerth_36103605_60x60mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

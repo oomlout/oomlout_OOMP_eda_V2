@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D5.0mm_Horizontal_O1.27mm_Z3.0mm_IRGrey|
 |Hex ID (short code)|hexID|FZKLLD5HORIZONTALO127Z3IRGREY|
 |name|name|LED_THT : LED_D5.0mm_Horizontal_O1.27mm_Z3.0mm_IRGrey|
-|Footprint Kicad|footprintKicadDetails|{'name': 'LED_D5.0mm_Horizontal_O1.27mm_Z3.0mm_IRGrey', 'description': 'LED, diameter 5.0mm z-position of LED center 3.0mm, 2 pins', 'tags': 'LED diameter 5.0mm z-position of LED center 3.0mm 2 pins', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/LED_THT.3dshapes/LED_D5.0mm_Horizontal_O1.27mm_Z3.0mm_IRGrey.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'LED_D5.0mm_Horizontal_O1.27mm_Z3.0mm_IRGrey'</td><td> 'description'</td></tr><tr><td> 'LED</td><td> diameter 5.0mm z-position of LED center 3.0mm</td><td> 2 pins'</td><td> 'tags'</td></tr><tr><td> 'LED diameter 5.0mm z-position of LED center 3.0mm 2 pins'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/LED_THT.3dshapes/LED_D5.0mm_Horizontal_O1.27mm_Z3.0mm_IRGrey.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

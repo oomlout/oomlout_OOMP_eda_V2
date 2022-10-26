@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKAMPLIFIERAUDIOLM499 > LM4990MM
+# SZKAMPLIFIERAUDIOLM499 > Amplifier_Audio : LM4990MM
 
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Audio-LM4990MM
 - Hex ID: SZKAMPLIFIERAUDIOLM499
-- Name: LM4990MM
-- Description: LM4990MM
+- Name: Amplifier_Audio : LM4990MM
+- Description: Amplifier_Audio : LM4990MM
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-LM4990MM](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-LM4990MM)
 - Short Link: [http://oom.lt/SZKAMPLIFIERAUDIOLM499](http://oom.lt/SZKAMPLIFIERAUDIOLM499)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM4990MM|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Audio-LM4990MM|
 |Hex ID (short code)|hexID|SZKAMPLIFIERAUDIOLM499|
-|name|name|LM4990MM|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM4990MM', 'kicadSymbolFootprint': 'Package_SO:TSSOP-8_3x3mm_P0.65mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lm4990.pdf', 'kicadSymbolki_keywords': 'audio amplifier class d', 'kicadSymbolki_description': 'Boomer 2 Watt Audio Power Amplifier with Selectable Shutdown Logic Level, VSSOP-8', 'kicadSymbolki_fp_filters': 'TSSOP*3x3mm*P0.65mm*'}]|
+|name|name|Amplifier_Audio : LM4990MM|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LM4990MM'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>TSSOP-8_3x3mm_P0.65mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/lm4990.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'audio amplifier class d'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Boomer 2 Watt Audio Power Amplifier with Selectable Shutdown Logic Level</td><td> VSSOP-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TSSOP*3x3mm*P0.65mm*'</td></tr></table>]|
 ||||

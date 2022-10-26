@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORCONTROLLERL6563H > L6563H
+# SZKREGULATORCONTROLLERL6563H > Regulator_Controller : L6563H
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Controller-L6563H
 - Hex ID: SZKREGULATORCONTROLLERL6563H
-- Name: L6563H
-- Description: L6563H
+- Name: Regulator_Controller : L6563H
+- Description: Regulator_Controller : L6563H
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-L6563H](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-L6563H)
 - Short Link: [http://oom.lt/SZKREGULATORCONTROLLERL6563H](http://oom.lt/SZKREGULATORCONTROLLERL6563H)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|L6563H|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Controller-L6563H|
 |Hex ID (short code)|hexID|SZKREGULATORCONTROLLERL6563H|
-|name|name|L6563H|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'L6563H', 'kicadSymbolFootprint': 'Package_SO:SOIC-16_3.9x9.9mm_P1.27mm', 'kicadSymbolDatasheet': 'http://www.st.com/resource/en/datasheet/l6563h.pdf', 'kicadSymbolki_keywords': 'SMPS pfc controller', 'kicadSymbolki_description': 'High Voltage Start-Up Transition-Mode PFC, SOIC-16', 'kicadSymbolki_fp_filters': 'SOIC*3.9x9.9mm*P1.27mm*'}]|
+|name|name|Regulator_Controller : L6563H|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'L6563H'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-16_3.9x9.9mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.st.com/resource/en/datasheet/l6563h.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'SMPS pfc controller'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'High Voltage Start-Up Transition-Mode PFC</td><td> SOIC-16'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*3.9x9.9mm*P1.27mm*'</td></tr></table>]|
 ||||

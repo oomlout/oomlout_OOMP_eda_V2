@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDEVICEFU > Fuse
+# SZKDEVICEFU > Device : Fuse
 
 - ID: SYMBOL-kicad-kicad-symbols-Device-Fuse
 - Hex ID: SZKDEVICEFU
-- Name: Fuse
-- Description: Fuse
+- Name: Device : Fuse
+- Description: Device : Fuse
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Fuse](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Fuse)
 - Short Link: [http://oom.lt/SZKDEVICEFU](http://oom.lt/SZKDEVICEFU)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Fuse|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-Fuse|
 |Hex ID (short code)|hexID|SZKDEVICEFU|
-|name|name|Fuse|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'F', 'kicadSymbolValue': 'Fuse', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'fuse', 'kicadSymbolki_description': 'Fuse', 'kicadSymbolki_fp_filters': '*Fuse*'}]|
+|name|name|Device : Fuse|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'F'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Fuse'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'fuse'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Fuse'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> '*Fuse*'</td></tr></table>]|
 ||||

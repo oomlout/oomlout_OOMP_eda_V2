@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKSENCURRENTACS711XEXLT15AB > ACS711xEXLT-15AB
+# SZKSENCURRENTACS711XEXLT15AB > Sensor_Current : ACS711xEXLT-15AB
 
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS711xEXLT-15AB
 - Hex ID: SZKSENCURRENTACS711XEXLT15AB
-- Name: ACS711xEXLT-15AB
-- Description: ACS711xEXLT-15AB
+- Name: Sensor_Current : ACS711xEXLT-15AB
+- Description: Sensor_Current : ACS711xEXLT-15AB
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS711xEXLT-15AB](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS711xEXLT-15AB)
 - Short Link: [http://oom.lt/SZKSENCURRENTACS711XEXLT15AB](http://oom.lt/SZKSENCURRENTACS711XEXLT15AB)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ACS711xEXLT-15AB|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS711xEXLT-15AB|
 |Hex ID (short code)|hexID|SZKSENCURRENTACS711XEXLT15AB|
-|name|name|ACS711xEXLT-15AB|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ACS711xEXLT-15AB', 'kicadSymbolFootprint': 'Sensor_Current:Allegro_QFN-12-10-1EP_3x3mm_P0.5mm', 'kicadSymbolDatasheet': 'http://www.allegromicro.com/~/Media/Files/Datasheets/ACS711-Datasheet.ashx', 'kicadSymbolki_keywords': 'hall effect current monitor sensor isolated', 'kicadSymbolki_description': '±15A Bidirectional Hall-Effect Current Sensor, +3.3V supply, 90mV/A, QFN-12', 'kicadSymbolki_fp_filters': 'Allegro*QFN*EP*3x3mm*P0.5mm*'}]|
+|name|name|Sensor_Current : ACS711xEXLT-15AB|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ACS711xEXLT-15AB'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Sensor_Current</td></tr><tr><td>Allegro_QFN-12-10-1EP_3x3mm_P0.5mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.allegromicro.com/~/Media/Files/Datasheets/ACS711-Datasheet.ashx'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'hall effect current monitor sensor isolated'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '±15A Bidirectional Hall-Effect Current Sensor</td><td> +3.3V supply</td><td> 90mV/A</td><td> QFN-12'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Allegro*QFN*EP*3x3mm*P0.5mm*'</td></tr></table>]|
 ||||

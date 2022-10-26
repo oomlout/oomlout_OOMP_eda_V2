@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDEVICEMPHONEULTRASOUND > Microphone_Ultrasound
+# SZKDEVICEMPHONEULTRASOUND > Device : Microphone_Ultrasound
 
 - ID: SYMBOL-kicad-kicad-symbols-Device-Microphone_Ultrasound
 - Hex ID: SZKDEVICEMPHONEULTRASOUND
-- Name: Microphone_Ultrasound
-- Description: Microphone_Ultrasound
+- Name: Device : Microphone_Ultrasound
+- Description: Device : Microphone_Ultrasound
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Microphone_Ultrasound](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Microphone_Ultrasound)
 - Short Link: [http://oom.lt/SZKDEVICEMPHONEULTRASOUND](http://oom.lt/SZKDEVICEMPHONEULTRASOUND)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Microphone_Ultrasound|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-Microphone_Ultrasound|
 |Hex ID (short code)|hexID|SZKDEVICEMPHONEULTRASOUND|
-|name|name|Microphone_Ultrasound|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'Microphone_Crystal', 'kicadSymbolReference': 'MK', 'kicadSymbolValue': 'Microphone_Ultrasound', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'microphone ultrasound crystal', 'kicadSymbolki_description': 'Ultrasound receiver'}]|
+|name|name|Device : Microphone_Ultrasound|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'Microphone_Crystal'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'MK'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Microphone_Ultrasound'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'microphone ultrasound crystal'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Ultrasound receiver'</td></tr></table>]|
 ||||

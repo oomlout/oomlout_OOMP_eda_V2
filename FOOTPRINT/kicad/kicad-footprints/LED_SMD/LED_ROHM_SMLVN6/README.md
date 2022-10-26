@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_ROHM_SMLVN6|
 |Hex ID (short code)|hexID|FZKLSMLROHMSMLVN6|
 |name|name|LED_SMD : LED_ROHM_SMLVN6|
-|Footprint Kicad|footprintKicadDetails|{'name': 'LED_ROHM_SMLVN6', 'description': 'https://www.rohm.com/datasheet/SMLVN6RGB1U', 'tags': 'LED ROHM SMLVN6', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED_ROHM_SMLVN6.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'LED_ROHM_SMLVN6'</td><td> 'description'</td></tr><tr><td> 'https</td></tr><tr><td>//www.rohm.com/datasheet/SMLVN6RGB1U'</td><td> 'tags'</td></tr><tr><td> 'LED ROHM SMLVN6'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/LED_SMD.3dshapes/LED_ROHM_SMLVN6.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

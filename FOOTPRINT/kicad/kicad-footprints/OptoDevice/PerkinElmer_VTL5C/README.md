@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-OptoDevice-PerkinElmer_VTL5C|
 |Hex ID (short code)|hexID|FZKOPPERKINELMERVTL5C|
 |name|name|OptoDevice : PerkinElmer_VTL5C|
-|Footprint Kicad|footprintKicadDetails|{'name': 'PerkinElmer_VTL5C', 'description': 'Axial Vactrol (http://www.qsl.net/wa1ion/vactrol/vactrol.pdf)', 'tags': 'vactrol', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/PerkinElmer_VTL5C.wrl', 'pins': {'type': 'thru_hole', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'PerkinElmer_VTL5C'</td><td> 'description'</td></tr><tr><td> 'Axial Vactrol (http</td></tr><tr><td>//www.qsl.net/wa1ion/vactrol/vactrol.pdf)'</td><td> 'tags'</td></tr><tr><td> 'vactrol'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/OptoDevice.3dshapes/PerkinElmer_VTL5C.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

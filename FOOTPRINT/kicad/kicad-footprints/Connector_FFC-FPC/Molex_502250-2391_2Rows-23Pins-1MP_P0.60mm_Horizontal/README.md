@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_FFC-FPC-Molex_502250-2391_2Rows-23Pins-1MP_P0.60mm_Horizontal|
 |Hex ID (short code)|hexID|FZKCNFFCFPCMX522523912ROWS23PINS1MPP6HORIZONTAL|
 |name|name|Connector_FFC-FPC : Molex_502250-2391_2Rows-23Pins-1MP_P0.60mm_Horizontal|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Molex_502250-2391_2Rows-23Pins-1MP_P0.60mm_Horizontal', 'description': 'Molex Molex 0.30mm Pitch Easy-On BackFlip Type FFC/FPC, 502250-2391, 23 Circuits (http://www.molex.com/pdm_docs/sd/5022502391_sd.pdf), generated with kicad-footprint-generator', 'tags': 'connector Molex  top entry', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_FFC-FPC.3dshapes/Molex_502250-2391_2Rows-23Pins-1MP_P0.60mm_Horizontal.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Molex_502250-2391_2Rows-23Pins-1MP_P0.60mm_Horizontal'</td><td> 'description'</td></tr><tr><td> 'Molex Molex 0.30mm Pitch Easy-On BackFlip Type FFC/FPC</td><td> 502250-2391</td><td> 23 Circuits (http</td></tr><tr><td>//www.molex.com/pdm_docs/sd/5022502391_sd.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'connector Molex  top entry'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_FFC-FPC.3dshapes/Molex_502250-2391_2Rows-23Pins-1MP_P0.60mm_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

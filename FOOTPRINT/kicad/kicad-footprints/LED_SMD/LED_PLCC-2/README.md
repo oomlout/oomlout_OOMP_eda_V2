@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_PLCC-2|
 |Hex ID (short code)|hexID|FZKLSMLPLCC2|
 |name|name|LED_SMD : LED_PLCC-2|
-|Footprint Kicad|footprintKicadDetails|{'name': 'LED_PLCC-2', 'description': 'LED PLCC-2 SMD package', 'tags': 'LED PLCC-2 SMD', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED_PLCC-2.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'LED_PLCC-2'</td><td> 'description'</td></tr><tr><td> 'LED PLCC-2 SMD package'</td><td> 'tags'</td></tr><tr><td> 'LED PLCC-2 SMD'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/LED_SMD.3dshapes/LED_PLCC-2.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDIODELASERPL45B > PL450B
+# SZKDIODELASERPL45B > Diode_Laser : PL450B
 
 - ID: SYMBOL-kicad-kicad-symbols-Diode_Laser-PL450B
 - Hex ID: SZKDIODELASERPL45B
-- Name: PL450B
-- Description: PL450B
+- Name: Diode_Laser : PL450B
+- Description: Diode_Laser : PL450B
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Laser-PL450B](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Laser-PL450B)
 - Short Link: [http://oom.lt/SZKDIODELASERPL45B](http://oom.lt/SZKDIODELASERPL45B)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PL450B|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode_Laser-PL450B|
 |Hex ID (short code)|hexID|SZKDIODELASERPL45B|
-|name|name|PL450B|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'LD', 'kicadSymbolValue': 'PL450B', 'kicadSymbolFootprint': 'OptoDevice:LaserDiode_TO38ICut-3', 'kicadSymbolDatasheet': 'http://www.osram-os.com/Graphics/XPic5/00193831_0.pdf/PL%20450B.pdf', 'kicadSymbolki_keywords': 'opto laserdiode', 'kicadSymbolki_description': 'Blue Laser Diode (450nm), TO-38', 'kicadSymbolki_fp_filters': 'LaserDiode*TO38ICut*'}]|
+|name|name|Diode_Laser : PL450B|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'LD'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'PL450B'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'OptoDevice</td></tr><tr><td>LaserDiode_TO38ICut-3'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.osram-os.com/Graphics/XPic5/00193831_0.pdf/PL%20450B.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'opto laserdiode'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Blue Laser Diode (450nm)</td><td> TO-38'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'LaserDiode*TO38ICut*'</td></tr></table>]|
 ||||

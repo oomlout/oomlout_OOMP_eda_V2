@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKAMPLIFIERAUDIOSI8244BB > Si8244BB
+# SZKAMPLIFIERAUDIOSI8244BB > Amplifier_Audio : Si8244BB
 
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Audio-Si8244BB
 - Hex ID: SZKAMPLIFIERAUDIOSI8244BB
-- Name: Si8244BB
-- Description: Si8244BB
+- Name: Amplifier_Audio : Si8244BB
+- Description: Amplifier_Audio : Si8244BB
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-Si8244BB](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-Si8244BB)
 - Short Link: [http://oom.lt/SZKAMPLIFIERAUDIOSI8244BB](http://oom.lt/SZKAMPLIFIERAUDIOSI8244BB)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Si8244BB|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Audio-Si8244BB|
 |Hex ID (short code)|hexID|SZKAMPLIFIERAUDIOSI8244BB|
-|name|name|Si8244BB|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'Si8241BB', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'Si8244BB', 'kicadSymbolFootprint': 'Package_SO:SOIC-16_3.9x9.9mm_P1.27mm', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pub/Collateral/NCD5702-D.PDF', 'kicadSymbolki_keywords': 'class d gate driver', 'kicadSymbolki_description': 'Class D Audio Driver With Precision Dead-Time Generator, 8V UVLO, +/-750V, +4/-4A, SOIC-16', 'kicadSymbolki_fp_filters': 'SOIC*3.9x9.9*P1.27mm*'}]|
+|name|name|Amplifier_Audio : Si8244BB|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'Si8241BB'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Si8244BB'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-16_3.9x9.9mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.onsemi.com/pub/Collateral/NCD5702-D.PDF'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'class d gate driver'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Class D Audio Driver With Precision Dead-Time Generator</td><td> 8V UVLO</td><td> +/-750V</td><td> +4/-4A</td><td> SOIC-16'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*3.9x9.9*P1.27mm*'</td></tr></table>]|
 ||||

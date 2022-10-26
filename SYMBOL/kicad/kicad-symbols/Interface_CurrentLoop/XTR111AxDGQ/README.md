@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKINTERFACECURRENTLOOPXTR111AXDGQ > XTR111AxDGQ
+# SZKINTERFACECURRENTLOOPXTR111AXDGQ > Interface_CurrentLoop : XTR111AxDGQ
 
 - ID: SYMBOL-kicad-kicad-symbols-Interface_CurrentLoop-XTR111AxDGQ
 - Hex ID: SZKINTERFACECURRENTLOOPXTR111AXDGQ
-- Name: XTR111AxDGQ
-- Description: XTR111AxDGQ
+- Name: Interface_CurrentLoop : XTR111AxDGQ
+- Description: Interface_CurrentLoop : XTR111AxDGQ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_CurrentLoop-XTR111AxDGQ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_CurrentLoop-XTR111AxDGQ)
 - Short Link: [http://oom.lt/SZKINTERFACECURRENTLOOPXTR111AXDGQ](http://oom.lt/SZKINTERFACECURRENTLOOPXTR111AXDGQ)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|XTR111AxDGQ|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_CurrentLoop-XTR111AxDGQ|
 |Hex ID (short code)|hexID|SZKINTERFACECURRENTLOOPXTR111AXDGQ|
-|name|name|XTR111AxDGQ|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'XTR111AxDGQ', 'kicadSymbolFootprint': 'Package_SO:MSOP-10-1EP_3x3mm_P0.5mm_EP2.2x3.1mm_Mask1.83x1.89mm_ThermalVias', 'kicadSymbolDatasheet': 'https://www.ti.com/lit/ds/symlink/xtr111.pdf', 'kicadSymbolki_keywords': '0-20mA 4-20mA Current Loop Transmitter Voltage To Current', 'kicadSymbolki_description': '0-20mA/4-20mA Current Loop Transmitter, Precision Voltage-To-Current, MSOP-10', 'kicadSymbolki_fp_filters': 'MSOP*1EP*3x3mm*P0.5mm*'}]|
+|name|name|Interface_CurrentLoop : XTR111AxDGQ|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'XTR111AxDGQ'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>MSOP-10-1EP_3x3mm_P0.5mm_EP2.2x3.1mm_Mask1.83x1.89mm_ThermalVias'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.ti.com/lit/ds/symlink/xtr111.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> '0-20mA 4-20mA Current Loop Transmitter Voltage To Current'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '0-20mA/4-20mA Current Loop Transmitter</td><td> Precision Voltage-To-Current</td><td> MSOP-10'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'MSOP*1EP*3x3mm*P0.5mm*'</td></tr></table>]|
 ||||

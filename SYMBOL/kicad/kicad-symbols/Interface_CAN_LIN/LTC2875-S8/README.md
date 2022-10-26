@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKINTERFACECANLINLTC2875S8 > LTC2875-S8
+# SZKINTERFACECANLINLTC2875S8 > Interface_CAN_LIN : LTC2875-S8
 
 - ID: SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-LTC2875-S8
 - Hex ID: SZKINTERFACECANLINLTC2875S8
-- Name: LTC2875-S8
-- Description: LTC2875-S8
+- Name: Interface_CAN_LIN : LTC2875-S8
+- Description: Interface_CAN_LIN : LTC2875-S8
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-LTC2875-S8](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-LTC2875-S8)
 - Short Link: [http://oom.lt/SZKINTERFACECANLINLTC2875S8](http://oom.lt/SZKINTERFACECANLINLTC2875S8)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LTC2875-S8|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-LTC2875-S8|
 |Hex ID (short code)|hexID|SZKINTERFACECANLINLTC2875S8|
-|name|name|LTC2875-S8|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LTC2875-S8', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/2875f.pdf', 'kicadSymbolki_keywords': 'High-Speed CAN Transceiver', 'kicadSymbolki_description': 'High-Speed CAN Transceiver, 4Mbps, 3.3V or 5V supply, SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC*P1.27mm*'}]|
+|name|name|Interface_CAN_LIN : LTC2875-S8|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LTC2875-S8'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-8_3.9x4.9mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/2875f.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'High-Speed CAN Transceiver'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'High-Speed CAN Transceiver</td><td> 4Mbps</td><td> 3.3V or 5V supply</td><td> SOIC-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*P1.27mm*'</td></tr></table>]|
 ||||

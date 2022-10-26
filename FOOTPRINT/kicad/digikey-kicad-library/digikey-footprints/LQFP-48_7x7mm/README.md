@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-LQFP-48_7x7mm|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSLQFP487X7|
 |name|name|digikey-footprints : LQFP-48_7x7mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'LQFP-48_7x7mm', 'description': 'http://wizwiki.net/wiki/lib/exe/fetch.php?media=products:w5500:w5500_ds_v106e_141230.pdf', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'LQFP-48_7x7mm'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//wizwiki.net/wiki/lib/exe/fetch.php?media=products</td></tr><tr><td>w5500</td></tr><tr><td>w5500_ds_v106e_141230.pdf'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

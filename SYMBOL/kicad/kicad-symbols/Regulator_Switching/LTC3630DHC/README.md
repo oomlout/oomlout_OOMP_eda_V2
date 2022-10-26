@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORSWITCHINGLTC363DHC > LTC3630DHC
+# SZKREGULATORSWITCHINGLTC363DHC > Regulator_Switching : LTC3630DHC
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-LTC3630DHC
 - Hex ID: SZKREGULATORSWITCHINGLTC363DHC
-- Name: LTC3630DHC
-- Description: LTC3630DHC
+- Name: Regulator_Switching : LTC3630DHC
+- Description: Regulator_Switching : LTC3630DHC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LTC3630DHC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LTC3630DHC)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGLTC363DHC](http://oom.lt/SZKREGULATORSWITCHINGLTC363DHC)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LTC3630DHC|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-LTC3630DHC|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGLTC363DHC|
-|name|name|LTC3630DHC|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LTC3630DHC', 'kicadSymbolFootprint': 'Package_DFN_QFN:DFN-16-1EP_3x5mm_P0.5mm_EP1.66x4.4mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/3630fd.pdf', 'kicadSymbolki_keywords': 'buck dc-dc switcher switching', 'kicadSymbolki_description': '500mA High efficiency 65V synchronous step-down converter, DFN-16', 'kicadSymbolki_fp_filters': 'DFN*EP*3x5mm*P0.5mm*'}]|
+|name|name|Regulator_Switching : LTC3630DHC|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LTC3630DHC'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>DFN-16-1EP_3x5mm_P0.5mm_EP1.66x4.4mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/3630fd.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'buck dc-dc switcher switching'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '500mA High efficiency 65V synchronous step-down converter</td><td> DFN-16'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DFN*EP*3x5mm*P0.5mm*'</td></tr></table>]|
 ||||

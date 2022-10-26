@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_BGA-BGA-121_9.0x9.0mm_Layout11x11_P0.8mm_Ball0.4mm_Pad0.35mm_NSMD|
 |Hex ID (short code)|hexID|FZKBGABGA1219X9LAYOUT11X11P8BALL4PAD35NSM|
 |name|name|Package_BGA : BGA-121_9.0x9.0mm_Layout11x11_P0.8mm_Ball0.4mm_Pad0.35mm_NSMD|
-|Footprint Kicad|footprintKicadDetails|{'name': 'BGA-121_9.0x9.0mm_Layout11x11_P0.8mm_Ball0.4mm_Pad0.35mm_NSMD', 'description': '121-ball, 0.8mm BGA (based on http://www.latticesemi.com/view_document?document_id=213)', 'tags': 'BGA 0.8mm 9mm 121', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/BGA-121_9.0x9.0mm_Layout11x11_P0.8mm.wrl', 'pins': {'type': 'smd', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'BGA-121_9.0x9.0mm_Layout11x11_P0.8mm_Ball0.4mm_Pad0.35mm_NSMD'</td><td> 'description'</td></tr><tr><td> '121-ball</td><td> 0.8mm BGA (based on http</td></tr><tr><td>//www.latticesemi.com/view_document?document_id=213)'</td><td> 'tags'</td></tr><tr><td> 'BGA 0.8mm 9mm 121'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_BGA.3dshapes/BGA-121_9.0x9.0mm_Layout11x11_P0.8mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

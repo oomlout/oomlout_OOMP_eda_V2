@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORSWITCHINGTPS619 > TPS61090
+# SZKREGULATORSWITCHINGTPS619 > Regulator_Switching : TPS61090
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS61090
 - Hex ID: SZKREGULATORSWITCHINGTPS619
-- Name: TPS61090
-- Description: TPS61090
+- Name: Regulator_Switching : TPS61090
+- Description: Regulator_Switching : TPS61090
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS61090](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS61090)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGTPS619](http://oom.lt/SZKREGULATORSWITCHINGTPS619)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TPS61090|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS61090|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGTPS619|
-|name|name|TPS61090|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TPS61090', 'kicadSymbolFootprint': 'Package_DFN_QFN:Texas_S-PVQFN-N16_EP2.7x2.7mm_ThermalVias', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tps61090.pdf', 'kicadSymbolki_keywords': 'Adjustable 2A battery boost converter', 'kicadSymbolki_description': '2A Step-Up DC-DC Converter for Batteries, Isw up to 2500mA, Adjustable output voltage, QFN-16', 'kicadSymbolki_fp_filters': 'Texas*S?PVQFN?N*'}]|
+|name|name|Regulator_Switching : TPS61090|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TPS61090'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>Texas_S-PVQFN-N16_EP2.7x2.7mm_ThermalVias'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/tps61090.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Adjustable 2A battery boost converter'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '2A Step-Up DC-DC Converter for Batteries</td><td> Isw up to 2500mA</td><td> Adjustable output voltage</td><td> QFN-16'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Texas*S?PVQFN?N*'</td></tr></table>]|
 ||||

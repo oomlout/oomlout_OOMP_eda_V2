@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKPOWERPROTECTIONCDNBS8SLVU284 > CDNBS08-SLVU2.8-4
+# SZKPOWERPROTECTIONCDNBS8SLVU284 > Power_Protection : CDNBS08-SLVU2.8-4
 
 - ID: SYMBOL-kicad-kicad-symbols-Power_Protection-CDNBS08-SLVU2.8-4
 - Hex ID: SZKPOWERPROTECTIONCDNBS8SLVU284
-- Name: CDNBS08-SLVU2.8-4
-- Description: CDNBS08-SLVU2.8-4
+- Name: Power_Protection : CDNBS08-SLVU2.8-4
+- Description: Power_Protection : CDNBS08-SLVU2.8-4
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-CDNBS08-SLVU2.8-4](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-CDNBS08-SLVU2.8-4)
 - Short Link: [http://oom.lt/SZKPOWERPROTECTIONCDNBS8SLVU284](http://oom.lt/SZKPOWERPROTECTIONCDNBS8SLVU284)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|CDNBS08-SLVU2.8-4|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Protection-CDNBS08-SLVU2.8-4|
 |Hex ID (short code)|hexID|SZKPOWERPROTECTIONCDNBS8SLVU284|
-|name|name|CDNBS08-SLVU2.8-4|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'CDNBS08-SLVU2.8-4', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm', 'kicadSymbolDatasheet': 'https://www.bourns.com/pdfs/CDNBS08-SLVU28-4.pdf', 'kicadSymbolki_keywords': 'ESD protection suppression transient', 'kicadSymbolki_description': 'Quad bidirectional transil, Suppressor for ESD protection, 5V Standoff, 4 Channels, SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm*'}]|
+|name|name|Power_Protection : CDNBS08-SLVU2.8-4|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'CDNBS08-SLVU2.8-4'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-8_3.9x4.9mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.bourns.com/pdfs/CDNBS08-SLVU28-4.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'ESD protection suppression transient'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Quad bidirectional transil</td><td> Suppressor for ESD protection</td><td> 5V Standoff</td><td> 4 Channels</td><td> SOIC-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*3.9x4.9mm*P1.27mm*'</td></tr></table>]|
 ||||

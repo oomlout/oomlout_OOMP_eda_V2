@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKSENMOTIONLIS2DE12 > LIS2DE12
+# SZKSENMOTIONLIS2DE12 > Sensor_Motion : LIS2DE12
 
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Motion-LIS2DE12
 - Hex ID: SZKSENMOTIONLIS2DE12
-- Name: LIS2DE12
-- Description: LIS2DE12
+- Name: Sensor_Motion : LIS2DE12
+- Description: Sensor_Motion : LIS2DE12
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Motion-LIS2DE12](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Motion-LIS2DE12)
 - Short Link: [http://oom.lt/SZKSENMOTIONLIS2DE12](http://oom.lt/SZKSENMOTIONLIS2DE12)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LIS2DE12|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Motion-LIS2DE12|
 |Hex ID (short code)|hexID|SZKSENMOTIONLIS2DE12|
-|name|name|LIS2DE12|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LIS2HH12', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LIS2DE12', 'kicadSymbolFootprint': 'Package_LGA:LGA-12_2x2mm_P0.5mm', 'kicadSymbolDatasheet': 'https://www.st.com/resource/en/datasheet/lis2DE12.pdf', 'kicadSymbolki_keywords': '3-axis accelerometer spi mems', 'kicadSymbolki_description': '3-Axis Accelerometer, 2/4/8/16g range, I2C/SPI interface', 'kicadSymbolki_fp_filters': 'LGA*2x2mm*P0.5mm*'}]|
+|name|name|Sensor_Motion : LIS2DE12|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'LIS2HH12'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LIS2DE12'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_LGA</td></tr><tr><td>LGA-12_2x2mm_P0.5mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.st.com/resource/en/datasheet/lis2DE12.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> '3-axis accelerometer spi mems'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '3-Axis Accelerometer</td><td> 2/4/8/16g range</td><td> I2C/SPI interface'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'LGA*2x2mm*P0.5mm*'</td></tr></table>]|
 ||||

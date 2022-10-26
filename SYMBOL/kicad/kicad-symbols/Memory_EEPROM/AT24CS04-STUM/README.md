@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMEMORYEEPROMAT24CS4STUM > AT24CS04-STUM
+# SZKMEMORYEEPROMAT24CS4STUM > Memory_EEPROM : AT24CS04-STUM
 
 - ID: SYMBOL-kicad-kicad-symbols-Memory_EEPROM-AT24CS04-STUM
 - Hex ID: SZKMEMORYEEPROMAT24CS4STUM
-- Name: AT24CS04-STUM
-- Description: AT24CS04-STUM
+- Name: Memory_EEPROM : AT24CS04-STUM
+- Description: Memory_EEPROM : AT24CS04-STUM
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_EEPROM-AT24CS04-STUM](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_EEPROM-AT24CS04-STUM)
 - Short Link: [http://oom.lt/SZKMEMORYEEPROMAT24CS4STUM](http://oom.lt/SZKMEMORYEEPROMAT24CS4STUM)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AT24CS04-STUM|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Memory_EEPROM-AT24CS04-STUM|
 |Hex ID (short code)|hexID|SZKMEMORYEEPROMAT24CS4STUM|
-|name|name|AT24CS04-STUM|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'AT24CS01-STUM', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AT24CS04-STUM', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-5', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-8766-SEEPROM-AT24CS04-08-Datasheet.pdf', 'kicadSymbolki_keywords': 'I2C Serial EEPROM Nonvolatile Memory', 'kicadSymbolki_description': 'I2C Serial EEPROM, 4Kb (512x8) with Unique Serial Number, SOT-23-5', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
+|name|name|Memory_EEPROM : AT24CS04-STUM|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'AT24CS01-STUM'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'AT24CS04-STUM'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-23-5'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/Atmel-8766-SEEPROM-AT24CS04-08-Datasheet.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'I2C Serial EEPROM Nonvolatile Memory'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'I2C Serial EEPROM</td><td> 4Kb (512x8) with Unique Serial Number</td><td> SOT-23-5'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23*'</td></tr></table>]|
 ||||

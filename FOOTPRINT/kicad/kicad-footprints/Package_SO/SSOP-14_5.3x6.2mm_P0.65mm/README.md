@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SO-SSOP-14_5.3x6.2mm_P0.65mm|
 |Hex ID (short code)|hexID|FZKSOSS1453X62P65|
 |name|name|Package_SO : SSOP-14_5.3x6.2mm_P0.65mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'SSOP-14_5.3x6.2mm_P0.65mm', 'description': 'SSOP14: plastic shrink small outline package; 14 leads; body width 5.3 mm; (see NXP SSOP-TSSOP-VSO-REFLOW.pdf and sot337-1_po.pdf)', 'tags': 'SSOP 0.65', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/SSOP-14_5.3x6.2mm_P0.65mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SSOP-14_5.3x6.2mm_P0.65mm'</td><td> 'description'</td></tr><tr><td> 'SSOP14</td></tr><tr><td> plastic shrink small outline package; 14 leads; body width 5.3 mm; (see NXP SSOP-TSSOP-VSO-REFLOW.pdf and sot337-1_po.pdf)'</td><td> 'tags'</td></tr><tr><td> 'SSOP 0.65'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_SO.3dshapes/SSOP-14_5.3x6.2mm_P0.65mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

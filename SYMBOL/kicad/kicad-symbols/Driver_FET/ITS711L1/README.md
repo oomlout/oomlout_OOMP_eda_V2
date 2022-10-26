@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDRIVERFETITS711L1 > ITS711L1
+# SZKDRIVERFETITS711L1 > Driver_FET : ITS711L1
 
 - ID: SYMBOL-kicad-kicad-symbols-Driver_FET-ITS711L1
 - Hex ID: SZKDRIVERFETITS711L1
-- Name: ITS711L1
-- Description: ITS711L1
+- Name: Driver_FET : ITS711L1
+- Description: Driver_FET : ITS711L1
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-ITS711L1](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-ITS711L1)
 - Short Link: [http://oom.lt/SZKDRIVERFETITS711L1](http://oom.lt/SZKDRIVERFETITS711L1)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ITS711L1|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Driver_FET-ITS711L1|
 |Hex ID (short code)|hexID|SZKDRIVERFETITS711L1|
-|name|name|ITS711L1|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ITS724G', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ITS711L1', 'kicadSymbolFootprint': 'Package_SO:SOIC-20W_7.5x12.8mm_P1.27mm', 'kicadSymbolDatasheet': 'https://www.infineon.com/dgdl/Infineon-ITS711L1-DS-v01_03-en.pdf?fileId=db3a30432239cccd0122e560bae03c62', 'kicadSymbolki_keywords': 'driver fet quad', 'kicadSymbolki_description': 'Smart High-Side Power Switch for Industrial Applications, Four Channels, Rds 200mΩ, SOIC-20W', 'kicadSymbolki_fp_filters': 'SOIC*7.5x12.8mm*P1.27mm*'}]|
+|name|name|Driver_FET : ITS711L1|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'ITS724G'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ITS711L1'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-20W_7.5x12.8mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.infineon.com/dgdl/Infineon-ITS711L1-DS-v01_03-en.pdf?fileId=db3a30432239cccd0122e560bae03c62'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'driver fet quad'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Smart High-Side Power Switch for Industrial Applications</td><td> Four Channels</td><td> Rds 200mΩ</td><td> SOIC-20W'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*7.5x12.8mm*P1.27mm*'</td></tr></table>]|
 ||||

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_BGA-BGA-36_3.396x3.466mm_Layout6x6_P0.4mm_Ball0.25mm_Pad0.2mm_NSMD|
 |Hex ID (short code)|hexID|FZKBGABGA363396X3466LAYOUT6X6P4BALL25PAD2NSM|
 |name|name|Package_BGA : BGA-36_3.396x3.466mm_Layout6x6_P0.4mm_Ball0.25mm_Pad0.2mm_NSMD|
-|Footprint Kicad|footprintKicadDetails|{'name': 'BGA-36_3.396x3.466mm_Layout6x6_P0.4mm_Ball0.25mm_Pad0.2mm_NSMD', 'description': 'Altera V36, https://www.altera.com/content/dam/altera-www/global/en_US/pdfs/literature/packaging/04r00486-00.pdf', 'tags': 'Altera BGA-36 V36 VBGA', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/BGA-36_3.396x3.466mm_Layout6x6_P0.4mm_Ball0.25mm_Pad0.2mm_NSMD.wrl', 'pins': {'type': 'smd', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'BGA-36_3.396x3.466mm_Layout6x6_P0.4mm_Ball0.25mm_Pad0.2mm_NSMD'</td><td> 'description'</td></tr><tr><td> 'Altera V36</td><td> https</td></tr><tr><td>//www.altera.com/content/dam/altera-www/global/en_US/pdfs/literature/packaging/04r00486-00.pdf'</td><td> 'tags'</td></tr><tr><td> 'Altera BGA-36 V36 VBGA'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_BGA.3dshapes/BGA-36_3.396x3.466mm_Layout6x6_P0.4mm_Ball0.25mm_Pad0.2mm_NSMD.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

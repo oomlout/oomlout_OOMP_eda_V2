@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTIMERLMC555XN > LMC555xN
+# SZKTIMERLMC555XN > Timer : LMC555xN
 
 - ID: SYMBOL-kicad-kicad-symbols-Timer-LMC555xN
 - Hex ID: SZKTIMERLMC555XN
-- Name: LMC555xN
-- Description: LMC555xN
+- Name: Timer : LMC555xN
+- Description: Timer : LMC555xN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer-LMC555xN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer-LMC555xN)
 - Short Link: [http://oom.lt/SZKTIMERLMC555XN](http://oom.lt/SZKTIMERLMC555XN)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LMC555xN|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Timer-LMC555xN|
 |Hex ID (short code)|hexID|SZKTIMERLMC555XN|
-|name|name|LMC555xN|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'NE555P', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LMC555xN', 'kicadSymbolFootprint': 'Package_DIP:DIP-8_W7.62mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lmc555.pdf', 'kicadSymbolki_keywords': 'single timer 555', 'kicadSymbolki_description': 'CMOS Timer, 555 compatible, PDIP-8', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
+|name|name|Timer : LMC555xN|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'NE555P'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LMC555xN'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>DIP-8_W7.62mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/lmc555.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'single timer 555'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'CMOS Timer</td><td> 555 compatible</td><td> PDIP-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W7.62mm*'</td></tr></table>]|
 ||||

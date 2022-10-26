@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKSENTEMPERATUREDS28EA > DS28EA00
+# SZKSENTEMPERATUREDS28EA > Sensor_Temperature : DS28EA00
 
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Temperature-DS28EA00
 - Hex ID: SZKSENTEMPERATUREDS28EA
-- Name: DS28EA00
-- Description: DS28EA00
+- Name: Sensor_Temperature : DS28EA00
+- Description: Sensor_Temperature : DS28EA00
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-DS28EA00](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-DS28EA00)
 - Short Link: [http://oom.lt/SZKSENTEMPERATUREDS28EA](http://oom.lt/SZKSENTEMPERATUREDS28EA)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DS28EA00|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Temperature-DS28EA00|
 |Hex ID (short code)|hexID|SZKSENTEMPERATUREDS28EA|
-|name|name|DS28EA00|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'DS28EA00', 'kicadSymbolFootprint': 'Package_SO:MSOP-8_3x3mm_P0.65mm', 'kicadSymbolDatasheet': 'http://datasheets.maximintegrated.com/en/ds/DS28EA00.pdf', 'kicadSymbolki_keywords': '1Wire OneWire Maxim Dallas', 'kicadSymbolki_description': '1-Wire Digital Thermometer with Sequence Detect and PIO', 'kicadSymbolki_fp_filters': 'MSOP*3x3mm*P0.65mm*'}]|
+|name|name|Sensor_Temperature : DS28EA00|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'DS28EA00'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>MSOP-8_3x3mm_P0.65mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//datasheets.maximintegrated.com/en/ds/DS28EA00.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> '1Wire OneWire Maxim Dallas'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '1-Wire Digital Thermometer with Sequence Detect and PIO'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'MSOP*3x3mm*P0.65mm*'</td></tr></table>]|
 ||||

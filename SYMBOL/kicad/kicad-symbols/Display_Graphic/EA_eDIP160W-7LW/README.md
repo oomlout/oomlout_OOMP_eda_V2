@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDIGRAPHICEAEDIP16W7LW > EA_eDIP160W-7LW
+# SZKDIGRAPHICEAEDIP16W7LW > Display_Graphic : EA_eDIP160W-7LW
 
 - ID: SYMBOL-kicad-kicad-symbols-Display_Graphic-EA_eDIP160W-7LW
 - Hex ID: SZKDIGRAPHICEAEDIP16W7LW
-- Name: EA_eDIP160W-7LW
-- Description: EA_eDIP160W-7LW
+- Name: Display_Graphic : EA_eDIP160W-7LW
+- Description: Display_Graphic : EA_eDIP160W-7LW
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Graphic-EA_eDIP160W-7LW](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Graphic-EA_eDIP160W-7LW)
 - Short Link: [http://oom.lt/SZKDIGRAPHICEAEDIP16W7LW](http://oom.lt/SZKDIGRAPHICEAEDIP16W7LW)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|EA_eDIP160W-7LW|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Display_Graphic-EA_eDIP160W-7LW|
 |Hex ID (short code)|hexID|SZKDIGRAPHICEAEDIP16W7LW|
-|name|name|EA_eDIP160W-7LW|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'EA_eDIP160B-7LW', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'EA_eDIP160W-7LW', 'kicadSymbolFootprint': 'Display:EA_eDIP160-XXX', 'kicadSymbolDatasheet': 'http://www.lcd-module.com/fileadmin/eng/pdf/grafik/edip160-7e.pdf', 'kicadSymbolki_keywords': 'display LCD graphic', 'kicadSymbolki_description': 'LCD-graphical display 160x104 with LED backlight, positive mode FSTN, 3.3V - 5V VDD, RS-232, I2C or SPI', 'kicadSymbolki_fp_filters': '*EA*eDIP160*'}]|
+|name|name|Display_Graphic : EA_eDIP160W-7LW|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'EA_eDIP160B-7LW'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'EA_eDIP160W-7LW'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Display</td></tr><tr><td>EA_eDIP160-XXX'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.lcd-module.com/fileadmin/eng/pdf/grafik/edip160-7e.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'display LCD graphic'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'LCD-graphical display 160x104 with LED backlight</td><td> positive mode FSTN</td><td> 3.3V - 5V VDD</td><td> RS-232</td><td> I2C or SPI'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> '*EA*eDIP160*'</td></tr></table>]|
 ||||

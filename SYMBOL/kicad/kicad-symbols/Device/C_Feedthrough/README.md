@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDEVICECFEEDTHROUGH > C_Feedthrough
+# SZKDEVICECFEEDTHROUGH > Device : C_Feedthrough
 
 - ID: SYMBOL-kicad-kicad-symbols-Device-C_Feedthrough
 - Hex ID: SZKDEVICECFEEDTHROUGH
-- Name: C_Feedthrough
-- Description: C_Feedthrough
+- Name: Device : C_Feedthrough
+- Description: Device : C_Feedthrough
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-C_Feedthrough](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-C_Feedthrough)
 - Short Link: [http://oom.lt/SZKDEVICECFEEDTHROUGH](http://oom.lt/SZKDEVICECFEEDTHROUGH)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|C_Feedthrough|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-C_Feedthrough|
 |Hex ID (short code)|hexID|SZKDEVICECFEEDTHROUGH|
-|name|name|C_Feedthrough|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'C', 'kicadSymbolValue': 'C_Feedthrough', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'EMI filter feedthrough capacitor', 'kicadSymbolki_description': 'Feedthrough capacitor'}]|
+|name|name|Device : C_Feedthrough|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'C'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'C_Feedthrough'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'EMI filter feedthrough capacitor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Feedthrough capacitor'</td></tr></table>]|
 ||||

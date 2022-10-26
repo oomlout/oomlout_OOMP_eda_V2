@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRPA264NL > PA0264NL
+# SZKTRPA264NL > Transformer : PA0264NL
 
 - ID: SYMBOL-kicad-kicad-symbols-Transformer-PA0264NL
 - Hex ID: SZKTRPA264NL
-- Name: PA0264NL
-- Description: PA0264NL
+- Name: Transformer : PA0264NL
+- Description: Transformer : PA0264NL
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-PA0264NL](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-PA0264NL)
 - Short Link: [http://oom.lt/SZKTRPA264NL](http://oom.lt/SZKTRPA264NL)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PA0264NL|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transformer-PA0264NL|
 |Hex ID (short code)|hexID|SZKTRPA264NL|
-|name|name|PA0264NL|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'PA2004NL', 'kicadSymbolReference': 'T', 'kicadSymbolValue': 'PA0264NL', 'kicadSymbolFootprint': 'Transformer_SMD:Pulse_PA2004NL', 'kicadSymbolDatasheet': 'https://productfinder.pulseeng.com/products/datasheets/SPM2007_61.pdf', 'kicadSymbolki_keywords': 'pulse', 'kicadSymbolki_description': 'SMT Gate Drive Transformer, 1:1:1', 'kicadSymbolki_fp_filters': 'Pulse*PA2004NL*'}]|
+|name|name|Transformer : PA0264NL|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'PA2004NL'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'T'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'PA0264NL'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Transformer_SMD</td></tr><tr><td>Pulse_PA2004NL'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//productfinder.pulseeng.com/products/datasheets/SPM2007_61.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'pulse'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'SMT Gate Drive Transformer</td><td> 1</td></tr><tr><td>1</td></tr><tr><td>1'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Pulse*PA2004NL*'</td></tr></table>]|
 ||||

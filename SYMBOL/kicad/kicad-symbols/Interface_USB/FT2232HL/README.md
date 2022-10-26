@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKINTERFACEUFT2232HL > FT2232HL
+# SZKINTERFACEUFT2232HL > Interface_USB : FT2232HL
 
 - ID: SYMBOL-kicad-kicad-symbols-Interface_USB-FT2232HL
 - Hex ID: SZKINTERFACEUFT2232HL
-- Name: FT2232HL
-- Description: FT2232HL
+- Name: Interface_USB : FT2232HL
+- Description: Interface_USB : FT2232HL
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-FT2232HL](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-FT2232HL)
 - Short Link: [http://oom.lt/SZKINTERFACEUFT2232HL](http://oom.lt/SZKINTERFACEUFT2232HL)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|FT2232HL|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_USB-FT2232HL|
 |Hex ID (short code)|hexID|SZKINTERFACEUFT2232HL|
-|name|name|FT2232HL|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'FT2232HL', 'kicadSymbolFootprint': 'Package_QFP:LQFP-64_10x10mm_P0.5mm', 'kicadSymbolDatasheet': 'https://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT2232H.pdf', 'kicadSymbolki_keywords': 'USB Double UART FIFO', 'kicadSymbolki_description': 'Hi Speed Double Channel USB UART/FIFO, LQFP-64', 'kicadSymbolki_fp_filters': 'LQFP*10x10mm*P0.5mm*'}]|
+|name|name|Interface_USB : FT2232HL|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'FT2232HL'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_QFP</td></tr><tr><td>LQFP-64_10x10mm_P0.5mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT2232H.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'USB Double UART FIFO'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Hi Speed Double Channel USB UART/FIFO</td><td> LQFP-64'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'LQFP*10x10mm*P0.5mm*'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKFPGALATTICEICE5LP1KSG48 > ICE5LP1K-SG48
+# SZKFPGALATTICEICE5LP1KSG48 > FPGA_Lattice : ICE5LP1K-SG48
 
 - ID: SYMBOL-kicad-kicad-symbols-FPGA_Lattice-ICE5LP1K-SG48
 - Hex ID: SZKFPGALATTICEICE5LP1KSG48
-- Name: ICE5LP1K-SG48
-- Description: ICE5LP1K-SG48
+- Name: FPGA_Lattice : ICE5LP1K-SG48
+- Description: FPGA_Lattice : ICE5LP1K-SG48
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Lattice-ICE5LP1K-SG48](http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Lattice-ICE5LP1K-SG48)
 - Short Link: [http://oom.lt/SZKFPGALATTICEICE5LP1KSG48](http://oom.lt/SZKFPGALATTICEICE5LP1KSG48)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ICE5LP1K-SG48|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-FPGA_Lattice-ICE5LP1K-SG48|
 |Hex ID (short code)|hexID|SZKFPGALATTICEICE5LP1KSG48|
-|name|name|ICE5LP1K-SG48|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ICE40UP5K-SG48ITR', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ICE5LP1K-SG48', 'kicadSymbolFootprint': 'Package_DFN_QFN:QFN-48-1EP_7x7mm_P0.5mm_EP5.6x5.6mm', 'kicadSymbolDatasheet': 'http://www.latticesemi.com/Products/FPGAandCPLD/iCE40Ultra', 'kicadSymbolki_keywords': 'FPGA programmable logic', 'kicadSymbolki_description': 'iCE40 Ultra FPGA, 1100 LUTs, 1.2V, 48-pin QFN', 'kicadSymbolki_fp_filters': 'QFN*7x7mm*P0.5mm*EP5.6x5.6mm*'}]|
+|name|name|FPGA_Lattice : ICE5LP1K-SG48|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'ICE40UP5K-SG48ITR'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ICE5LP1K-SG48'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>QFN-48-1EP_7x7mm_P0.5mm_EP5.6x5.6mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.latticesemi.com/Products/FPGAandCPLD/iCE40Ultra'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'FPGA programmable logic'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'iCE40 Ultra FPGA</td><td> 1100 LUTs</td><td> 1.2V</td><td> 48-pin QFN'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'QFN*7x7mm*P0.5mm*EP5.6x5.6mm*'</td></tr></table>]|
 ||||

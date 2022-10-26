@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKAMPLIFIERCURRENTNCV213 > NCV213
+# SZKAMPLIFIERCURRENTNCV213 > Amplifier_Current : NCV213
 
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Current-NCV213
 - Hex ID: SZKAMPLIFIERCURRENTNCV213
-- Name: NCV213
-- Description: NCV213
+- Name: Amplifier_Current : NCV213
+- Description: Amplifier_Current : NCV213
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Current-NCV213](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Current-NCV213)
 - Short Link: [http://oom.lt/SZKAMPLIFIERCURRENTNCV213](http://oom.lt/SZKAMPLIFIERCURRENTNCV213)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|NCV213|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Current-NCV213|
 |Hex ID (short code)|hexID|SZKAMPLIFIERCURRENTNCV213|
-|name|name|NCV213|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'NCS210', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'NCV213', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-363_SC-70-6', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pub/Collateral/NCS210R-D.PDF', 'kicadSymbolki_keywords': 'Current shunt monitor', 'kicadSymbolki_description': 'Current-Shunt Monitor, Voltage Output, Bi-Directional Zero-Drift, 50V/V Gain, SC-70-6', 'kicadSymbolki_fp_filters': '*SC?70*'}]|
+|name|name|Amplifier_Current : NCV213|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'NCS210'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'NCV213'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-363_SC-70-6'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.onsemi.com/pub/Collateral/NCS210R-D.PDF'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Current shunt monitor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Current-Shunt Monitor</td><td> Voltage Output</td><td> Bi-Directional Zero-Drift</td><td> 50V/V Gain</td><td> SC-70-6'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> '*SC?70*'</td></tr></table>]|
 ||||

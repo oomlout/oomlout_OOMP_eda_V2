@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORSWITCHINGTOP268EG > TOP268EG
+# SZKREGULATORSWITCHINGTOP268EG > Regulator_Switching : TOP268EG
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-TOP268EG
 - Hex ID: SZKREGULATORSWITCHINGTOP268EG
-- Name: TOP268EG
-- Description: TOP268EG
+- Name: Regulator_Switching : TOP268EG
+- Description: Regulator_Switching : TOP268EG
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TOP268EG](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TOP268EG)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGTOP268EG](http://oom.lt/SZKREGULATORSWITCHINGTOP268EG)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TOP268EG|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-TOP268EG|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGTOP268EG|
-|name|name|TOP268EG|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TOP264EG', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TOP268EG', 'kicadSymbolFootprint': 'Package_SIP:PowerIntegrations_eSIP-7C', 'kicadSymbolDatasheet': 'https://ac-dc.power.com/sites/default/files/product-docs/topswitch-jx_family_datasheet.pdf', 'kicadSymbolki_keywords': 'Integrated Off-Line Switcher with EcoSmart™ Technology', 'kicadSymbolki_description': 'TOPSwitch-JX Family, 112W Output Power, eSIP-7C', 'kicadSymbolki_fp_filters': 'PowerIntegrations?eSIP?7C*'}]|
+|name|name|Regulator_Switching : TOP268EG|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'TOP264EG'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TOP268EG'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SIP</td></tr><tr><td>PowerIntegrations_eSIP-7C'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//ac-dc.power.com/sites/default/files/product-docs/topswitch-jx_family_datasheet.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Integrated Off-Line Switcher with EcoSmart™ Technology'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'TOPSwitch-JX Family</td><td> 112W Output Power</td><td> eSIP-7C'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'PowerIntegrations?eSIP?7C*'</td></tr></table>]|
 ||||

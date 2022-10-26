@@ -26,5 +26,5 @@ NO IMAGES
 |Full OOMP ID|oompID|FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_modules-MODULE-CONN-DADB-PI03-01|
 |Hex ID (short code)|hexID|FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPMOSMOCONNDADBPI31|
 |name|name|oomlout_OOMP_modules : MODULE-CONN-DADB-PI03-01|
-|Footprint Kicad|footprintKicadDetails|{'name': 'MODULE-CONN-DADB-PI03-01', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'MODULE-CONN-DADB-PI03-01'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

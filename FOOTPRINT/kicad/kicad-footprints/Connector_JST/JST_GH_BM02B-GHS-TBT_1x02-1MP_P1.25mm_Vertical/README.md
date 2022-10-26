@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_GH_BM02B-GHS-TBT_1x02-1MP_P1.25mm_Vertical|
 |Hex ID (short code)|hexID|FZKCNJSTJSTGHBM2BGHSTBT1X21MPP125VERTICAL|
 |name|name|Connector_JST : JST_GH_BM02B-GHS-TBT_1x02-1MP_P1.25mm_Vertical|
-|Footprint Kicad|footprintKicadDetails|{'name': 'JST_GH_BM02B-GHS-TBT_1x02-1MP_P1.25mm_Vertical', 'description': 'JST GH series connector, BM02B-GHS-TBT (http://www.jst-mfg.com/product/pdf/eng/eGH.pdf), generated with kicad-footprint-generator', 'tags': 'connector JST GH side entry', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_JST.3dshapes/JST_GH_BM02B-GHS-TBT_1x02-1MP_P1.25mm_Vertical.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'JST_GH_BM02B-GHS-TBT_1x02-1MP_P1.25mm_Vertical'</td><td> 'description'</td></tr><tr><td> 'JST GH series connector</td><td> BM02B-GHS-TBT (http</td></tr><tr><td>//www.jst-mfg.com/product/pdf/eng/eGH.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'connector JST GH side entry'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_JST.3dshapes/JST_GH_BM02B-GHS-TBT_1x02-1MP_P1.25mm_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

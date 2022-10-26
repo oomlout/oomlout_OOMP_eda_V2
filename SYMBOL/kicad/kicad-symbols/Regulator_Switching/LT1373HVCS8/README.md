@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORSWITCHINGLT1373HVCS8 > LT1373HVCS8
+# SZKREGULATORSWITCHINGLT1373HVCS8 > Regulator_Switching : LT1373HVCS8
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-LT1373HVCS8
 - Hex ID: SZKREGULATORSWITCHINGLT1373HVCS8
-- Name: LT1373HVCS8
-- Description: LT1373HVCS8
+- Name: Regulator_Switching : LT1373HVCS8
+- Description: Regulator_Switching : LT1373HVCS8
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LT1373HVCS8](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LT1373HVCS8)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGLT1373HVCS8](http://oom.lt/SZKREGULATORSWITCHINGLT1373HVCS8)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LT1373HVCS8|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-LT1373HVCS8|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGLT1373HVCS8|
-|name|name|LT1373HVCS8|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LT1372CS8', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LT1373HVCS8', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/1373fbs.pdf', 'kicadSymbolki_keywords': 'Switching Regulator Adjustable', 'kicadSymbolki_description': '1.5A Low Supply Current High Efficiency Switching Regulators, 250kHz, 42V Switch Voltage, Adjustable Output Voltage, SO-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm*'}]|
+|name|name|Regulator_Switching : LT1373HVCS8|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'LT1372CS8'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LT1373HVCS8'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-8_3.9x4.9mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/1373fbs.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Switching Regulator Adjustable'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '1.5A Low Supply Current High Efficiency Switching Regulators</td><td> 250kHz</td><td> 42V Switch Voltage</td><td> Adjustable Output Voltage</td><td> SO-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*3.9x4.9mm*P1.27mm*'</td></tr></table>]|
 ||||

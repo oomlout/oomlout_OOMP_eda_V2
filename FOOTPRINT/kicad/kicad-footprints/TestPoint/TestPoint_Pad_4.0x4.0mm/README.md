@@ -29,5 +29,5 @@ NO IMAGE
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-TestPoint-TestPoint_Pad_4.0x4.0mm|
 |Hex ID (short code)|hexID|FZKTPTPPAD4X4|
 |name|name|TestPoint : TestPoint_Pad_4.0x4.0mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'TestPoint_Pad_4.0x4.0mm', 'description': 'SMD rectangular pad as test Point, square 4.0mm side length', 'tags': 'test point SMD pad rectangle square', 'attributeType': None, 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'TestPoint_Pad_4.0x4.0mm'</td><td> 'description'</td></tr><tr><td> 'SMD rectangular pad as test Point</td><td> square 4.0mm side length'</td><td> 'tags'</td></tr><tr><td> 'test point SMD pad rectangle square'</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

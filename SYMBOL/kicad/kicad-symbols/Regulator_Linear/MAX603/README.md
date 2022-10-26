@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORLINEARMAX63 > MAX603
+# SZKREGULATORLINEARMAX63 > Regulator_Linear : MAX603
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-MAX603
 - Hex ID: SZKREGULATORLINEARMAX63
-- Name: MAX603
-- Description: MAX603
+- Name: Regulator_Linear : MAX603
+- Description: Regulator_Linear : MAX603
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-MAX603](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-MAX603)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARMAX63](http://oom.lt/SZKREGULATORLINEARMAX63)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MAX603|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-MAX603|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARMAX63|
-|name|name|MAX603|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MAX603', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://datasheets.maximintegrated.com/en/ds/MAX603-MAX604.pdf', 'kicadSymbolki_keywords': 'Linear LDO Regulator 500mA 5V fixed', 'kicadSymbolki_description': '500mA Linear LDO Regulator, Fixed Output 5V, DIP-8/SO-8', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm* SOIC*3.9x4.9mm*P1.27mm*'}]|
+|name|name|Regulator_Linear : MAX603|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MAX603'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//datasheets.maximintegrated.com/en/ds/MAX603-MAX604.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Linear LDO Regulator 500mA 5V fixed'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '500mA Linear LDO Regulator</td><td> Fixed Output 5V</td><td> DIP-8/SO-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W7.62mm* SOIC*3.9x4.9mm*P1.27mm*'</td></tr></table>]|
 ||||

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_FOX_FE-2Pin_7.5x5.0mm_HandSoldering|
 |Hex ID (short code)|hexID|FZKXXSMFOXFE2PIN75X5HANDSOLDERING|
 |name|name|Crystal : Crystal_SMD_FOX_FE-2Pin_7.5x5.0mm_HandSoldering|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Crystal_SMD_FOX_FE-2Pin_7.5x5.0mm_HandSoldering', 'description': 'crystal Ceramic Resin Sealed SMD http://www.foxonline.com/pdfs/fe.pdf, hand-soldering, 7.5x5.0mm^2 package', 'tags': 'SMD SMT crystal hand-soldering', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Crystal_SMD_FOX_FE-2Pin_7.5x5.0mm_HandSoldering.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Crystal_SMD_FOX_FE-2Pin_7.5x5.0mm_HandSoldering'</td><td> 'description'</td></tr><tr><td> 'crystal Ceramic Resin Sealed SMD http</td></tr><tr><td>//www.foxonline.com/pdfs/fe.pdf</td><td> hand-soldering</td><td> 7.5x5.0mm^2 package'</td><td> 'tags'</td></tr><tr><td> 'SMD SMT crystal hand-soldering'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Crystal.3dshapes/Crystal_SMD_FOX_FE-2Pin_7.5x5.0mm_HandSoldering.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

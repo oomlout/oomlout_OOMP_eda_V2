@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_RJ-RJ45_UDE_RB1-125B8G1A|
 |Hex ID (short code)|hexID|FZKCNRJRJ45UDERB1125B8G1A|
 |name|name|Connector_RJ : RJ45_UDE_RB1-125B8G1A|
-|Footprint Kicad|footprintKicadDetails|{'name': 'RJ45_UDE_RB1-125B8G1A', 'description': '1 Port RJ45 Connector Through Hole 10/100/1000 Base-T, https://datasheet.lcsc.com/szlcsc/1901091107_UDE-Corp-RB1-125B8G1A_C363353.pdf#page=3', 'tags': 'RJ45 ethernet', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_RJ.3dshapes/RJ45_UDE_RB1-125B8G1A.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'RJ45_UDE_RB1-125B8G1A'</td><td> 'description'</td></tr><tr><td> '1 Port RJ45 Connector Through Hole 10/100/1000 Base-T</td><td> https</td></tr><tr><td>//datasheet.lcsc.com/szlcsc/1901091107_UDE-Corp-RB1-125B8G1A_C363353.pdf#page=3'</td><td> 'tags'</td></tr><tr><td> 'RJ45 ethernet'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_RJ.3dshapes/RJ45_UDE_RB1-125B8G1A.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

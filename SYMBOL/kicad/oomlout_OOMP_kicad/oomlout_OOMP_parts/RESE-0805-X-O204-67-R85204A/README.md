@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE85XO2467R8524A > RESE-0805-X-O204-67-R85204A
+# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE85XO2467R8524A > oomlout_OOMP_parts : RESE-0805-X-O204-67-R85204A
 
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O204-67-R85204A
 - Hex ID: SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE85XO2467R8524A
-- Name: RESE-0805-X-O204-67-R85204A
-- Description: RESE-0805-X-O204-67-R85204A
+- Name: oomlout_OOMP_parts : RESE-0805-X-O204-67-R85204A
+- Description: oomlout_OOMP_parts : RESE-0805-X-O204-67-R85204A
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O204-67-R85204A](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O204-67-R85204A)
 - Short Link: [http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE85XO2467R8524A](http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE85XO2467R8524A)
   
@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|RESE-0805-X-O204-67-R85204A|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O204-67-R85204A|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE85XO2467R8524A|
-|name|name|RESE-0805-X-O204-67-R85204A|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'R', 'kicadSymbolValue': 'RESE-0805-X-O204-67-R85204A', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:RESE-0805-X-O204-67-R85204A', 'kicadSymbolDatasheet': 'oom.lt/R85204A', 'kicadSymbolki_keywords': 'R res resistor', 'kicadSymbolki_description': 'hexID: R85204A;Resistor', 'kicadSymbolki_fp_filters': 'R_*'}]|
+|name|name|oomlout_OOMP_parts : RESE-0805-X-O204-67-R85204A|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'R'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'RESE-0805-X-O204-67-R85204A'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'oomlout_OOMP_parts</td></tr><tr><td>RESE-0805-X-O204-67-R85204A'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'oom.lt/R85204A'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'R res resistor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'hexID</td></tr><tr><td> R85204A;Resistor'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'R_*'</td></tr></table>]|
 ||||

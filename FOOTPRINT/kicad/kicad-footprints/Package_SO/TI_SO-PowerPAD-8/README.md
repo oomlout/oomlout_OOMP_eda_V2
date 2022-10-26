@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SO-TI_SO-PowerPAD-8|
 |Hex ID (short code)|hexID|FZKSOTISOPOWERPAD8|
 |name|name|Package_SO : TI_SO-PowerPAD-8|
-|Footprint Kicad|footprintKicadDetails|{'name': 'TI_SO-PowerPAD-8', 'description': '8-Lead Plastic PSOP, Exposed Die Pad (TI DDA0008B, see http://www.ti.com/lit/ds/symlink/lm3404.pdf)', 'tags': 'SSOP 0.50 exposed pad', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/TI_SO-PowerPAD-8.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'TI_SO-PowerPAD-8'</td><td> 'description'</td></tr><tr><td> '8-Lead Plastic PSOP</td><td> Exposed Die Pad (TI DDA0008B</td><td> see http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/lm3404.pdf)'</td><td> 'tags'</td></tr><tr><td> 'SSOP 0.50 exposed pad'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_SO.3dshapes/TI_SO-PowerPAD-8.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

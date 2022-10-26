@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMEMORYEEPROMAT25XXXMA > AT25xxx-MA
+# SZKMEMORYEEPROMAT25XXXMA > Memory_EEPROM : AT25xxx-MA
 
 - ID: SYMBOL-kicad-kicad-symbols-Memory_EEPROM-AT25xxx-MA
 - Hex ID: SZKMEMORYEEPROMAT25XXXMA
-- Name: AT25xxx-MA
-- Description: AT25xxx-MA
+- Name: Memory_EEPROM : AT25xxx-MA
+- Description: Memory_EEPROM : AT25xxx-MA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_EEPROM-AT25xxx-MA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_EEPROM-AT25xxx-MA)
 - Short Link: [http://oom.lt/SZKMEMORYEEPROMAT25XXXMA](http://oom.lt/SZKMEMORYEEPROMAT25XXXMA)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AT25xxx-MA|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Memory_EEPROM-AT25xxx-MA|
 |Hex ID (short code)|hexID|SZKMEMORYEEPROMAT25XXXMA|
-|name|name|AT25xxx-MA|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '25LCxxx-MC', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AT25xxx-MA', 'kicadSymbolFootprint': 'Package_DFN_QFN:DFN-8-1EP_3x2mm_P0.5mm_EP1.75x1.45mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-8707-SEEPROM-AT25010B-020B-040B-Datasheet.pdf', 'kicadSymbolki_keywords': 'EEPROM memory SPI serial', 'kicadSymbolki_description': 'Microchip SPI Serial EEPROM, DFN8', 'kicadSymbolki_fp_filters': 'DFN*3x2mm*P0.5mm*'}]|
+|name|name|Memory_EEPROM : AT25xxx-MA|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> '25LCxxx-MC'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'AT25xxx-MA'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>DFN-8-1EP_3x2mm_P0.5mm_EP1.75x1.45mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/Atmel-8707-SEEPROM-AT25010B-020B-040B-Datasheet.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'EEPROM memory SPI serial'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Microchip SPI Serial EEPROM</td><td> DFN8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DFN*3x2mm*P0.5mm*'</td></tr></table>]|
 ||||

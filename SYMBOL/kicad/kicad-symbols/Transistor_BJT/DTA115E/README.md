@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORBJTDTA115E > DTA115E
+# SZKTRANSISTORBJTDTA115E > Transistor_BJT : DTA115E
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-DTA115E
 - Hex ID: SZKTRANSISTORBJTDTA115E
-- Name: DTA115E
-- Description: DTA115E
+- Name: Transistor_BJT : DTA115E
+- Description: Transistor_BJT : DTA115E
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-DTA115E](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-DTA115E)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTDTA115E](http://oom.lt/SZKTRANSISTORBJTDTA115E)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DTA115E|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_BJT-DTA115E|
 |Hex ID (short code)|hexID|SZKTRANSISTORBJTDTA115E|
-|name|name|DTA115E|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'DTA115E', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_keywords': 'ROHM Digital PNP Transistor', 'kicadSymbolki_description': 'Digital PNP Transistor, 100k/100k, SOT-23', 'kicadSymbolki_fp_filters': 'SOT?23* SC?59*'}]|
+|name|name|Transistor_BJT : DTA115E|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'DTA115E'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'ROHM Digital PNP Transistor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Digital PNP Transistor</td><td> 100k/100k</td><td> SOT-23'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23* SC?59*'</td></tr></table>]|
 ||||

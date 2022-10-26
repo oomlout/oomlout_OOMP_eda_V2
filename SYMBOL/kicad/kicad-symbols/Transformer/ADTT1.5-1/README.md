@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRADTT151 > ADTT1.5-1
+# SZKTRADTT151 > Transformer : ADTT1.5-1
 
 - ID: SYMBOL-kicad-kicad-symbols-Transformer-ADTT1.5-1
 - Hex ID: SZKTRADTT151
-- Name: ADTT1.5-1
-- Description: ADTT1.5-1
+- Name: Transformer : ADTT1.5-1
+- Description: Transformer : ADTT1.5-1
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-ADTT1.5-1](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-ADTT1.5-1)
 - Short Link: [http://oom.lt/SZKTRADTT151](http://oom.lt/SZKTRADTT151)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ADTT1.5-1|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transformer-ADTT1.5-1|
 |Hex ID (short code)|hexID|SZKTRADTT151|
-|name|name|ADTT1.5-1|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'TR', 'kicadSymbolValue': 'ADTT1.5-1', 'kicadSymbolFootprint': 'RF_Mini-Circuits:Mini-Circuits_CD636_H4.11mm', 'kicadSymbolDatasheet': 'https://www.minicircuits.com/pdfs/ADTT1.5-1+.pdf', 'kicadSymbolki_keywords': 'Mini-Circuits RF Transformer', 'kicadSymbolki_description': '0.25-300MHz 1:1.5 RF Transformer, Unbalanced to Balanced Center Tap at Primary/Secondary, CD636', 'kicadSymbolki_fp_filters': 'Mini?Circuits*CD636*'}]|
+|name|name|Transformer : ADTT1.5-1|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'TR'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ADTT1.5-1'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'RF_Mini-Circuits</td></tr><tr><td>Mini-Circuits_CD636_H4.11mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.minicircuits.com/pdfs/ADTT1.5-1+.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Mini-Circuits RF Transformer'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '0.25-300MHz 1</td></tr><tr><td>1.5 RF Transformer</td><td> Unbalanced to Balanced Center Tap at Primary/Secondary</td><td> CD636'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Mini?Circuits*CD636*'</td></tr></table>]|
 ||||

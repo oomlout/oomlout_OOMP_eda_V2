@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDIODEIDDD16G65C6 > IDDD16G65C6
+# SZKDIODEIDDD16G65C6 > Diode : IDDD16G65C6
 
 - ID: SYMBOL-kicad-kicad-symbols-Diode-IDDD16G65C6
 - Hex ID: SZKDIODEIDDD16G65C6
-- Name: IDDD16G65C6
-- Description: IDDD16G65C6
+- Name: Diode : IDDD16G65C6
+- Description: Diode : IDDD16G65C6
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-IDDD16G65C6](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-IDDD16G65C6)
 - Short Link: [http://oom.lt/SZKDIODEIDDD16G65C6](http://oom.lt/SZKDIODEIDDD16G65C6)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IDDD16G65C6|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-IDDD16G65C6|
 |Hex ID (short code)|hexID|SZKDIODEIDDD16G65C6|
-|name|name|IDDD16G65C6|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'IDDD04G65C6', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'IDDD16G65C6', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:Infineon_PG-HDSOP-10-1', 'kicadSymbolDatasheet': 'https://www.infineon.com/dgdl/Infineon-IDDD16G65C6-DS-v02_00-EN.pdf?fileId=5546d462625a528f01628f8711b50e0c', 'kicadSymbolki_keywords': 'sic diode', 'kicadSymbolki_description': '650V, 16A, SiC Schottky Diode, CoolSiC, PG-HDSOP-10-1 (DDPAK)', 'kicadSymbolki_fp_filters': 'Infineon*PG*HDSOP*'}]|
+|name|name|Diode : IDDD16G65C6|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'IDDD04G65C6'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'IDDD16G65C6'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>Infineon_PG-HDSOP-10-1'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.infineon.com/dgdl/Infineon-IDDD16G65C6-DS-v02_00-EN.pdf?fileId=5546d462625a528f01628f8711b50e0c'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'sic diode'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '650V</td><td> 16A</td><td> SiC Schottky Diode</td><td> CoolSiC</td><td> PG-HDSOP-10-1 (DDPAK)'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Infineon*PG*HDSOP*'</td></tr></table>]|
 ||||

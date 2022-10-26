@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKAMPLIFIERCURRENTBQ51DCK > BQ500100DCK
+# SZKAMPLIFIERCURRENTBQ51DCK > Amplifier_Current : BQ500100DCK
 
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Current-BQ500100DCK
 - Hex ID: SZKAMPLIFIERCURRENTBQ51DCK
-- Name: BQ500100DCK
-- Description: BQ500100DCK
+- Name: Amplifier_Current : BQ500100DCK
+- Description: Amplifier_Current : BQ500100DCK
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Current-BQ500100DCK](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Current-BQ500100DCK)
 - Short Link: [http://oom.lt/SZKAMPLIFIERCURRENTBQ51DCK](http://oom.lt/SZKAMPLIFIERCURRENTBQ51DCK)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BQ500100DCK|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Current-BQ500100DCK|
 |Hex ID (short code)|hexID|SZKAMPLIFIERCURRENTBQ51DCK|
-|name|name|BQ500100DCK|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'BQ500100DCK', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-363_SC-70-6', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/bq500100.pdf', 'kicadSymbolki_keywords': 'Current shunt monitor', 'kicadSymbolki_description': '20V High side current sensor, Voltage Output, 50V/V Gain, SC-70-6', 'kicadSymbolki_fp_filters': 'SOT?363*'}]|
+|name|name|Amplifier_Current : BQ500100DCK|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'BQ500100DCK'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-363_SC-70-6'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/bq500100.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Current shunt monitor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '20V High side current sensor</td><td> Voltage Output</td><td> 50V/V Gain</td><td> SC-70-6'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?363*'</td></tr></table>]|
 ||||

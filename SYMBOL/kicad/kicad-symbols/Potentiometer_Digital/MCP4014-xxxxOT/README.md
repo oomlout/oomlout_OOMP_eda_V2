@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKPOTENTIOMETERDIGITALMCP414XXXXOT > MCP4014-xxxxOT
+# SZKPOTENTIOMETERDIGITALMCP414XXXXOT > Potentiometer_Digital : MCP4014-xxxxOT
 
 - ID: SYMBOL-kicad-kicad-symbols-Potentiometer_Digital-MCP4014-xxxxOT
 - Hex ID: SZKPOTENTIOMETERDIGITALMCP414XXXXOT
-- Name: MCP4014-xxxxOT
-- Description: MCP4014-xxxxOT
+- Name: Potentiometer_Digital : MCP4014-xxxxOT
+- Description: Potentiometer_Digital : MCP4014-xxxxOT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Potentiometer_Digital-MCP4014-xxxxOT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Potentiometer_Digital-MCP4014-xxxxOT)
 - Short Link: [http://oom.lt/SZKPOTENTIOMETERDIGITALMCP414XXXXOT](http://oom.lt/SZKPOTENTIOMETERDIGITALMCP414XXXXOT)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MCP4014-xxxxOT|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Potentiometer_Digital-MCP4014-xxxxOT|
 |Hex ID (short code)|hexID|SZKPOTENTIOMETERDIGITALMCP414XXXXOT|
-|name|name|MCP4014-xxxxOT|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MCP4014-xxxxOT', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-5', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/21978c.pdf, SOT-23-5', 'kicadSymbolki_keywords': 'Digital Pot Potentiometer Up Down', 'kicadSymbolki_description': 'Low-Cost 64-Step Volatile Digital Potentiometer', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
+|name|name|Potentiometer_Digital : MCP4014-xxxxOT|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MCP4014-xxxxOT'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-23-5'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/21978c.pdf</td><td> SOT-23-5'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Digital Pot Potentiometer Up Down'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Low-Cost 64-Step Volatile Digital Potentiometer'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23*'</td></tr></table>]|
 ||||

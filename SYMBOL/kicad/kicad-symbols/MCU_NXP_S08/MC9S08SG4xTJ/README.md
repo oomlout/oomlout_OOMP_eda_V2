@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUNXPS8MC9S8SG4XTJ > MC9S08SG4xTJ
+# SZKMCUNXPS8MC9S8SG4XTJ > MCU_NXP_S08 : MC9S08SG4xTJ
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_NXP_S08-MC9S08SG4xTJ
 - Hex ID: SZKMCUNXPS8MC9S8SG4XTJ
-- Name: MC9S08SG4xTJ
-- Description: MC9S08SG4xTJ
+- Name: MCU_NXP_S08 : MC9S08SG4xTJ
+- Description: MCU_NXP_S08 : MC9S08SG4xTJ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_S08-MC9S08SG4xTJ](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_S08-MC9S08SG4xTJ)
 - Short Link: [http://oom.lt/SZKMCUNXPS8MC9S8SG4XTJ](http://oom.lt/SZKMCUNXPS8MC9S8SG4XTJ)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MC9S08SG4xTJ|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_NXP_S08-MC9S08SG4xTJ|
 |Hex ID (short code)|hexID|SZKMCUNXPS8MC9S8SG4XTJ|
-|name|name|MC9S08SG4xTJ|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MC9S08SG32xTJ', 'kicadSymbolReference': 'IC', 'kicadSymbolValue': 'MC9S08SG4xTJ', 'kicadSymbolFootprint': 'Package_SO:TSSOP-20_4.4x6.5mm_P0.65mm', 'kicadSymbolDatasheet': 'http://cache.nxp.com/files/microcontrollers/doc/data_sheet/MC9S08SG8.pdf', 'kicadSymbolki_keywords': 'NXP S08 Microcontroller', 'kicadSymbolki_description': '8-bit Small Package Microcontroller, S08 core, 4kB Flash, 256B RAM, TSSOP-20', 'kicadSymbolki_fp_filters': 'TSSOP*4.4x6.5mm*P0.65mm*'}]|
+|name|name|MCU_NXP_S08 : MC9S08SG4xTJ|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'MC9S08SG32xTJ'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'IC'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MC9S08SG4xTJ'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>TSSOP-20_4.4x6.5mm_P0.65mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//cache.nxp.com/files/microcontrollers/doc/data_sheet/MC9S08SG8.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'NXP S08 Microcontroller'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '8-bit Small Package Microcontroller</td><td> S08 core</td><td> 4kB Flash</td><td> 256B RAM</td><td> TSSOP-20'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TSSOP*4.4x6.5mm*P0.65mm*'</td></tr></table>]|
 ||||

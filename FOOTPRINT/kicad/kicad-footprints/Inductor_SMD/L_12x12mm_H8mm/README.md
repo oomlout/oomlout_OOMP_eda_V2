@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_12x12mm_H8mm|
 |Hex ID (short code)|hexID|FZKINDUCTORSML12X12H8|
 |name|name|Inductor_SMD : L_12x12mm_H8mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'L_12x12mm_H8mm', 'description': 'Choke, SMD, 12x12mm 8mm height', 'tags': 'Choke SMD', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_12x12mm_H8mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'L_12x12mm_H8mm'</td><td> 'description'</td></tr><tr><td> 'Choke</td><td> SMD</td><td> 12x12mm 8mm height'</td><td> 'tags'</td></tr><tr><td> 'Choke SMD'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Inductor_SMD.3dshapes/L_12x12mm_H8mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

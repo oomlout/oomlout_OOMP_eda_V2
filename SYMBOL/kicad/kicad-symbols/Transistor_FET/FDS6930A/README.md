@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORFETFDS693A > FDS6930A
+# SZKTRANSISTORFETFDS693A > Transistor_FET : FDS6930A
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-FDS6930A
 - Hex ID: SZKTRANSISTORFETFDS693A
-- Name: FDS6930A
-- Description: FDS6930A
+- Name: Transistor_FET : FDS6930A
+- Description: Transistor_FET : FDS6930A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-FDS6930A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-FDS6930A)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETFDS693A](http://oom.lt/SZKTRANSISTORFETFDS693A)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|FDS6930A|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-FDS6930A|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETFDS693A|
-|name|name|FDS6930A|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'FDS6890A', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'FDS6930A', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm', 'kicadSymbolDatasheet': 'http://www.onsemi.com/pub/Collateral/FDS6930A-D.PDF', 'kicadSymbolki_keywords': 'Dual N-Channel MOSFET', 'kicadSymbolki_description': '5.5A Id, 30V Vds, Dual N-Channel Logic Level MOSFET, 40mOhm Ron, SO-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm*'}]|
+|name|name|Transistor_FET : FDS6930A|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'FDS6890A'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'FDS6930A'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-8_3.9x4.9mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.onsemi.com/pub/Collateral/FDS6930A-D.PDF'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Dual N-Channel MOSFET'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '5.5A Id</td><td> 30V Vds</td><td> Dual N-Channel Logic Level MOSFET</td><td> 40mOhm Ron</td><td> SO-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*3.9x4.9mm*P1.27mm*'</td></tr></table>]|
 ||||

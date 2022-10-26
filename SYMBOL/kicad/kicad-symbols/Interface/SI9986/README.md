@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKINTERFACESI9986 > SI9986
+# SZKINTERFACESI9986 > Interface : SI9986
 
 - ID: SYMBOL-kicad-kicad-symbols-Interface-SI9986
 - Hex ID: SZKINTERFACESI9986
-- Name: SI9986
-- Description: SI9986
+- Name: Interface : SI9986
+- Description: Interface : SI9986
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-SI9986](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-SI9986)
 - Short Link: [http://oom.lt/SZKINTERFACESI9986](http://oom.lt/SZKINTERFACESI9986)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SI9986|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface-SI9986|
 |Hex ID (short code)|hexID|SZKINTERFACESI9986|
-|name|name|SI9986|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'SI9986', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm', 'kicadSymbolDatasheet': 'http://www.vishay.com/docs/70007/si9986.pdf', 'kicadSymbolki_keywords': 'integrated, buffered H-bridge', 'kicadSymbolki_description': 'Integrated, buffered H-bridge with TTL compatible inputs, 1A, 12V, SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm*'}]|
+|name|name|Interface : SI9986|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'SI9986'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-8_3.9x4.9mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.vishay.com/docs/70007/si9986.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'integrated</td><td> buffered H-bridge'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Integrated</td><td> buffered H-bridge with TTL compatible inputs</td><td> 1A</td><td> 12V</td><td> SOIC-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*3.9x4.9mm*P1.27mm*'</td></tr></table>]|
 ||||

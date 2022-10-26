@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKINTERFACECANLINMCP221AXXXXMD > MCP2021A-xxxxMD
+# SZKINTERFACECANLINMCP221AXXXXMD > Interface_CAN_LIN : MCP2021A-xxxxMD
 
 - ID: SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-MCP2021A-xxxxMD
 - Hex ID: SZKINTERFACECANLINMCP221AXXXXMD
-- Name: MCP2021A-xxxxMD
-- Description: MCP2021A-xxxxMD
+- Name: Interface_CAN_LIN : MCP2021A-xxxxMD
+- Description: Interface_CAN_LIN : MCP2021A-xxxxMD
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-MCP2021A-xxxxMD](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-MCP2021A-xxxxMD)
 - Short Link: [http://oom.lt/SZKINTERFACECANLINMCP221AXXXXMD](http://oom.lt/SZKINTERFACECANLINMCP221AXXXXMD)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MCP2021A-xxxxMD|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-MCP2021A-xxxxMD|
 |Hex ID (short code)|hexID|SZKINTERFACECANLINMCP221AXXXXMD|
-|name|name|MCP2021A-xxxxMD|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MCP2021A-xxxxMD', 'kicadSymbolFootprint': 'Package_DFN_QFN:DFN-8-1EP_4x4mm_P0.8mm_EP2.5x3.6mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/20002298C.pdf', 'kicadSymbolki_keywords': 'LIN Transceiver regulator', 'kicadSymbolki_description': 'LIN Transceiver with Voltage Regulator, 3.3V/5V, DFN-8', 'kicadSymbolki_fp_filters': 'DFN*4x4mm*P0.8mm*EP2.5x3.6mm*'}]|
+|name|name|Interface_CAN_LIN : MCP2021A-xxxxMD|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MCP2021A-xxxxMD'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>DFN-8-1EP_4x4mm_P0.8mm_EP2.5x3.6mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/20002298C.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'LIN Transceiver regulator'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'LIN Transceiver with Voltage Regulator</td><td> 3.3V/5V</td><td> DFN-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DFN*4x4mm*P0.8mm*EP2.5x3.6mm*'</td></tr></table>]|
 ||||

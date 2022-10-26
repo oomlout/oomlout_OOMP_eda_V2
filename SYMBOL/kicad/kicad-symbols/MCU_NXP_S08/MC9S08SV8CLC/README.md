@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUNXPS8MC9S8SV8CLC > MC9S08SV8CLC
+# SZKMCUNXPS8MC9S8SV8CLC > MCU_NXP_S08 : MC9S08SV8CLC
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_NXP_S08-MC9S08SV8CLC
 - Hex ID: SZKMCUNXPS8MC9S8SV8CLC
-- Name: MC9S08SV8CLC
-- Description: MC9S08SV8CLC
+- Name: MCU_NXP_S08 : MC9S08SV8CLC
+- Description: MCU_NXP_S08 : MC9S08SV8CLC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_S08-MC9S08SV8CLC](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_S08-MC9S08SV8CLC)
 - Short Link: [http://oom.lt/SZKMCUNXPS8MC9S8SV8CLC](http://oom.lt/SZKMCUNXPS8MC9S8SV8CLC)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MC9S08SV8CLC|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_NXP_S08-MC9S08SV8CLC|
 |Hex ID (short code)|hexID|SZKMCUNXPS8MC9S8SV8CLC|
-|name|name|MC9S08SV8CLC|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MC9S08SV16CLC', 'kicadSymbolReference': 'IC', 'kicadSymbolValue': 'MC9S08SV8CLC', 'kicadSymbolFootprint': 'Package_QFP:LQFP-32_7x7mm_P0.8mm', 'kicadSymbolDatasheet': 'http://cache.nxp.com/files/microcontrollers/doc/ref_manual/MC9S08SV16RM.pdf', 'kicadSymbolki_keywords': 'NXP S08 Microcontroller', 'kicadSymbolki_description': '8-bit General Purpose Best-in-Class performance Microcontroller, S08 core, 8kB Flash, 768B RAM, LQFP-32', 'kicadSymbolki_fp_filters': 'LQFP*7x7mm*P0.8mm*'}]|
+|name|name|MCU_NXP_S08 : MC9S08SV8CLC|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'MC9S08SV16CLC'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'IC'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MC9S08SV8CLC'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_QFP</td></tr><tr><td>LQFP-32_7x7mm_P0.8mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//cache.nxp.com/files/microcontrollers/doc/ref_manual/MC9S08SV16RM.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'NXP S08 Microcontroller'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '8-bit General Purpose Best-in-Class performance Microcontroller</td><td> S08 core</td><td> 8kB Flash</td><td> 768B RAM</td><td> LQFP-32'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'LQFP*7x7mm*P0.8mm*'</td></tr></table>]|
 ||||

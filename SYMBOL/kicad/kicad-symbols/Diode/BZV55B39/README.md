@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDIODEBZV55B39 > BZV55B39
+# SZKDIODEBZV55B39 > Diode : BZV55B39
 
 - ID: SYMBOL-kicad-kicad-symbols-Diode-BZV55B39
 - Hex ID: SZKDIODEBZV55B39
-- Name: BZV55B39
-- Description: BZV55B39
+- Name: Diode : BZV55B39
+- Description: Diode : BZV55B39
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BZV55B39](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BZV55B39)
 - Short Link: [http://oom.lt/SZKDIODEBZV55B39](http://oom.lt/SZKDIODEBZV55B39)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BZV55B39|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-BZV55B39|
 |Hex ID (short code)|hexID|SZKDIODEBZV55B39|
-|name|name|BZV55B39|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ZPYxx', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'BZV55B39', 'kicadSymbolFootprint': 'Diode_SMD:D_MiniMELF', 'kicadSymbolDatasheet': 'https://assets.nexperia.com/documents/data-sheet/BZV55_SER.pdf', 'kicadSymbolki_keywords': 'zener diode', 'kicadSymbolki_description': '39V, 500mW, 2%, Zener diode, MiniMELF', 'kicadSymbolki_fp_filters': 'D*MiniMELF*'}]|
+|name|name|Diode : BZV55B39|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'ZPYxx'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'BZV55B39'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Diode_SMD</td></tr><tr><td>D_MiniMELF'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//assets.nexperia.com/documents/data-sheet/BZV55_SER.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'zener diode'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '39V</td><td> 500mW</td><td> 2%</td><td> Zener diode</td><td> MiniMELF'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'D*MiniMELF*'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE63XO721R6O72 > RESE-0603-X-O702-01-R6O702
+# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE63XO721R6O72 > oomlout_OOMP_parts : RESE-0603-X-O702-01-R6O702
 
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O702-01-R6O702
 - Hex ID: SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE63XO721R6O72
-- Name: RESE-0603-X-O702-01-R6O702
-- Description: RESE-0603-X-O702-01-R6O702
+- Name: oomlout_OOMP_parts : RESE-0603-X-O702-01-R6O702
+- Description: oomlout_OOMP_parts : RESE-0603-X-O702-01-R6O702
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O702-01-R6O702](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O702-01-R6O702)
 - Short Link: [http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE63XO721R6O72](http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE63XO721R6O72)
   
@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|RESE-0603-X-O702-01-R6O702|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O702-01-R6O702|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE63XO721R6O72|
-|name|name|RESE-0603-X-O702-01-R6O702|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'R', 'kicadSymbolValue': 'RESE-0603-X-O702-01-R6O702', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:RESE-0603-X-O702-01-R6O702', 'kicadSymbolDatasheet': 'oom.lt/R6O702', 'kicadSymbolki_keywords': 'R res resistor', 'kicadSymbolki_description': 'hexID: R6O702;PARTL C-JLCC;C23162;MANUF C-XXXX;0603WAF4701T5E;Resistor', 'kicadSymbolki_fp_filters': 'R_*'}]|
+|name|name|oomlout_OOMP_parts : RESE-0603-X-O702-01-R6O702|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'R'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'RESE-0603-X-O702-01-R6O702'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'oomlout_OOMP_parts</td></tr><tr><td>RESE-0603-X-O702-01-R6O702'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'oom.lt/R6O702'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'R res resistor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'hexID</td></tr><tr><td> R6O702;PARTL C-JLCC;C23162;MANUF C-XXXX;0603WAF4701T5E;Resistor'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'R_*'</td></tr></table>]|
 ||||

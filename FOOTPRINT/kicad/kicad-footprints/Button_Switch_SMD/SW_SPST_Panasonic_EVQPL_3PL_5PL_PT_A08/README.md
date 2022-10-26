@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_SPST_Panasonic_EVQPL_3PL_5PL_PT_A08|
 |Hex ID (short code)|hexID|FZKBSWITCHSMSWSPSTPANASONICEVQPL3PL5PLPTA8|
 |name|name|Button_Switch_SMD : SW_SPST_Panasonic_EVQPL_3PL_5PL_PT_A08|
-|Footprint Kicad|footprintKicadDetails|{'name': 'SW_SPST_Panasonic_EVQPL_3PL_5PL_PT_A08', 'description': 'Light Touch Switch, http://industrial.panasonic.com/cdbs/www-data/pdf/ATK0000/ATK0000CE3.pdf', 'tags': 'SMD SMT SPST EVQPL EVQPT', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_SPST_Panasonic_EVQPL_3PL_5PL_PT_A08.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SW_SPST_Panasonic_EVQPL_3PL_5PL_PT_A08'</td><td> 'description'</td></tr><tr><td> 'Light Touch Switch</td><td> http</td></tr><tr><td>//industrial.panasonic.com/cdbs/www-data/pdf/ATK0000/ATK0000CE3.pdf'</td><td> 'tags'</td></tr><tr><td> 'SMD SMT SPST EVQPL EVQPT'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Button_Switch_SMD.3dshapes/SW_SPST_Panasonic_EVQPL_3PL_5PL_PT_A08.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

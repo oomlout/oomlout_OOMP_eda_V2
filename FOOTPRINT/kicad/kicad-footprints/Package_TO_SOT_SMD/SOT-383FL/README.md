@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-383FL|
 |Hex ID (short code)|hexID|FZKPACKAGETOSOTSMSOT383FL|
 |name|name|Package_TO_SOT_SMD : SOT-383FL|
-|Footprint Kicad|footprintKicadDetails|{'name': 'SOT-383FL', 'description': '8-pin SOT-383FL package, http://www.onsemi.com/pub_link/Collateral/ENA2267-D.PDF', 'tags': 'SOT-383FL', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-383FL.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SOT-383FL'</td><td> 'description'</td></tr><tr><td> '8-pin SOT-383FL package</td><td> http</td></tr><tr><td>//www.onsemi.com/pub_link/Collateral/ENA2267-D.PDF'</td><td> 'tags'</td></tr><tr><td> 'SOT-383FL'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_TO_SOT_SMD.3dshapes/SOT-383FL.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

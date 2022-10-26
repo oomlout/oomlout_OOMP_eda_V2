@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-92Flat|
 |Hex ID (short code)|hexID|FZKSOTTO92FLAT|
 |name|name|Package_TO_SOT_THT : TO-92Flat|
-|Footprint Kicad|footprintKicadDetails|{'name': 'TO-92Flat', 'description': 'TO-92Flat package, often used for hall sensors, drill 0.75mm (see e.g. http://www.ti.com/lit/ds/symlink/drv5023.pdf)', 'tags': 'to-92Flat hall sensor', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/TO-92Flat.wrl', 'pins': {'type': 'thru_hole', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'TO-92Flat'</td><td> 'description'</td></tr><tr><td> 'TO-92Flat package</td><td> often used for hall sensors</td><td> drill 0.75mm (see e.g. http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/drv5023.pdf)'</td><td> 'tags'</td></tr><tr><td> 'to-92Flat hall sensor'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_TO_SOT_THT.3dshapes/TO-92Flat.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

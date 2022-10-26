@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKFIL85BM14E16 > 0850BM14E0016
+# SZKFIL85BM14E16 > Filter : 0850BM14E0016
 
 - ID: SYMBOL-kicad-kicad-symbols-Filter-0850BM14E0016
 - Hex ID: SZKFIL85BM14E16
-- Name: 0850BM14E0016
-- Description: 0850BM14E0016
+- Name: Filter : 0850BM14E0016
+- Description: Filter : 0850BM14E0016
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Filter-0850BM14E0016](http://oom.lt/SYMBOL-kicad-kicad-symbols-Filter-0850BM14E0016)
 - Short Link: [http://oom.lt/SZKFIL85BM14E16](http://oom.lt/SZKFIL85BM14E16)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|0850BM14E0016|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Filter-0850BM14E0016|
 |Hex ID (short code)|hexID|SZKFIL85BM14E16|
-|name|name|0850BM14E0016|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'FL', 'kicadSymbolValue': '0850BM14E0016', 'kicadSymbolFootprint': 'RF_Converter:Balun_Johanson_1.6x0.8mm', 'kicadSymbolDatasheet': 'https://www.johansontechnology.com/datasheets/0850BM14E0016/0850BM14E0016.pdf', 'kicadSymbolki_keywords': 'Sub-GHz Balun', 'kicadSymbolki_description': 'Sub-GHz Impedance Matched Balun + LPF integrated Passive', 'kicadSymbolki_fp_filters': 'Balun*Johanson*1.6x0.8mm*'}]|
+|name|name|Filter : 0850BM14E0016|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'FL'</td><td> 'kicadSymbolValue'</td></tr><tr><td> '0850BM14E0016'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'RF_Converter</td></tr><tr><td>Balun_Johanson_1.6x0.8mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.johansontechnology.com/datasheets/0850BM14E0016/0850BM14E0016.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Sub-GHz Balun'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Sub-GHz Impedance Matched Balun + LPF integrated Passive'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Balun*Johanson*1.6x0.8mm*'</td></tr></table>]|
 ||||

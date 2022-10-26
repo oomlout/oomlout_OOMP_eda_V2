@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKAMPLIFIEROPERATIONALOPA33XXDCK > OPA330xxDCK
+# SZKAMPLIFIEROPERATIONALOPA33XXDCK > Amplifier_Operational : OPA330xxDCK
 
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA330xxDCK
 - Hex ID: SZKAMPLIFIEROPERATIONALOPA33XXDCK
-- Name: OPA330xxDCK
-- Description: OPA330xxDCK
+- Name: Amplifier_Operational : OPA330xxDCK
+- Description: Amplifier_Operational : OPA330xxDCK
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA330xxDCK](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA330xxDCK)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALOPA33XXDCK](http://oom.lt/SZKAMPLIFIEROPERATIONALOPA33XXDCK)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|OPA330xxDCK|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA330xxDCK|
 |Hex ID (short code)|hexID|SZKAMPLIFIEROPERATIONALOPA33XXDCK|
-|name|name|OPA330xxDCK|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LMV321', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'OPA330xxDCK', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/opa330.pdf', 'kicadSymbolki_keywords': 'single opamp', 'kicadSymbolki_description': '50μV V OS, 0.25μV/°C, 35μA CMOS OPERATIONAL AMPLIFIERS, Zerø-Drift Series, SC70', 'kicadSymbolki_fp_filters': 'SOT?23* *SC*70*'}]|
+|name|name|Amplifier_Operational : OPA330xxDCK|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'LMV321'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'OPA330xxDCK'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/opa330.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'single opamp'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '50μV V OS</td><td> 0.25μV/°C</td><td> 35μA CMOS OPERATIONAL AMPLIFIERS</td><td> Zerø-Drift Series</td><td> SC70'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23* *SC*70*'</td></tr></table>]|
 ||||

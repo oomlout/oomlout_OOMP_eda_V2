@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUSTSTM32L4STM32L433CCTX > STM32L433CCTx
+# SZKMCUSTSTM32L4STM32L433CCTX > MCU_ST_STM32L4 : STM32L433CCTx
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L4-STM32L433CCTx
 - Hex ID: SZKMCUSTSTM32L4STM32L433CCTX
-- Name: STM32L433CCTx
-- Description: STM32L433CCTx
+- Name: MCU_ST_STM32L4 : STM32L433CCTx
+- Description: MCU_ST_STM32L4 : STM32L433CCTx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L4-STM32L433CCTx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L4-STM32L433CCTx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32L4STM32L433CCTX](http://oom.lt/SZKMCUSTSTM32L4STM32L433CCTX)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|STM32L433CCTx|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L4-STM32L433CCTx|
 |Hex ID (short code)|hexID|SZKMCUSTSTM32L4STM32L433CCTX|
-|name|name|STM32L433CCTx|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'STM32L433CBTx', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'STM32L433CCTx', 'kicadSymbolFootprint': 'Package_QFP:LQFP-48_7x7mm_P0.5mm', 'kicadSymbolDatasheet': 'http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00257192.pdf', 'kicadSymbolki_keywords': 'ARM Cortex-M4 STM32L4 STM32L4x3', 'kicadSymbolki_description': 'ARM Cortex-M4 MCU, 256KB flash, 64KB RAM, 80MHz, 1.71-3.6V, 38 GPIO, LQFP-48', 'kicadSymbolki_fp_filters': 'LQFP*7x7mm*P0.5mm*'}]|
+|name|name|MCU_ST_STM32L4 : STM32L433CCTx|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'STM32L433CBTx'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'STM32L433CCTx'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_QFP</td></tr><tr><td>LQFP-48_7x7mm_P0.5mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00257192.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'ARM Cortex-M4 STM32L4 STM32L4x3'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'ARM Cortex-M4 MCU</td><td> 256KB flash</td><td> 64KB RAM</td><td> 80MHz</td><td> 1.71-3.6V</td><td> 38 GPIO</td><td> LQFP-48'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'LQFP*7x7mm*P0.5mm*'</td></tr></table>]|
 ||||

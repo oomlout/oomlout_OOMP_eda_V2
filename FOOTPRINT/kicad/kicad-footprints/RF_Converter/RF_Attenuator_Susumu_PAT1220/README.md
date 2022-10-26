@@ -29,5 +29,5 @@ NO IMAGE
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-RF_Converter-RF_Attenuator_Susumu_PAT1220|
 |Hex ID (short code)|hexID|FZKRFRFATTENUATORSUSUMUPAT122|
 |name|name|RF_Converter : RF_Attenuator_Susumu_PAT1220|
-|Footprint Kicad|footprintKicadDetails|{'name': 'RF_Attenuator_Susumu_PAT1220', 'description': 'http://www.susumu-usa.com/pdf/Foot_Print_38.pdf, https://www.susumu.co.jp/common/pdf/n_catalog_partition16_en.pdf', 'tags': '2mm 1.2mm', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/RF_Converter.3dshapes/RF_Attenuator_Susumu_PAT1220.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'RF_Attenuator_Susumu_PAT1220'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//www.susumu-usa.com/pdf/Foot_Print_38.pdf</td><td> https</td></tr><tr><td>//www.susumu.co.jp/common/pdf/n_catalog_partition16_en.pdf'</td><td> 'tags'</td></tr><tr><td> '2mm 1.2mm'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/RF_Converter.3dshapes/RF_Attenuator_Susumu_PAT1220.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

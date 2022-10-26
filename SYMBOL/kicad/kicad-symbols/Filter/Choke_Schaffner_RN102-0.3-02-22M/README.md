@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKFILCHOKESCHAFFNERRN123222M > Choke_Schaffner_RN102-0.3-02-22M
+# SZKFILCHOKESCHAFFNERRN123222M > Filter : Choke_Schaffner_RN102-0.3-02-22M
 
 - ID: SYMBOL-kicad-kicad-symbols-Filter-Choke_Schaffner_RN102-0.3-02-22M
 - Hex ID: SZKFILCHOKESCHAFFNERRN123222M
-- Name: Choke_Schaffner_RN102-0.3-02-22M
-- Description: Choke_Schaffner_RN102-0.3-02-22M
+- Name: Filter : Choke_Schaffner_RN102-0.3-02-22M
+- Description: Filter : Choke_Schaffner_RN102-0.3-02-22M
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Filter-Choke_Schaffner_RN102-0.3-02-22M](http://oom.lt/SYMBOL-kicad-kicad-symbols-Filter-Choke_Schaffner_RN102-0.3-02-22M)
 - Short Link: [http://oom.lt/SZKFILCHOKESCHAFFNERRN123222M](http://oom.lt/SZKFILCHOKESCHAFFNERRN123222M)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Choke_Schaffner_RN102-0.3-02-22M|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Filter-Choke_Schaffner_RN102-0.3-02-22M|
 |Hex ID (short code)|hexID|SZKFILCHOKESCHAFFNERRN123222M|
-|name|name|Choke_Schaffner_RN102-0.3-02-22M|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'FL', 'kicadSymbolValue': 'Choke_Schaffner_RN102-0.3-02-22M', 'kicadSymbolFootprint': 'Inductor_THT:Choke_Schaffner_RN102-04-14.0x14.0mm', 'kicadSymbolDatasheet': 'https://www.schaffner.com/products/download/product/datasheet/rn-series-common-mode-chokes-new/', 'kicadSymbolki_keywords': 'common-mode common mode choke powerline power line filter', 'kicadSymbolki_description': 'Common mode choke, 300mA, 300VAC, 22mH, 1.3 ohm, RN-102', 'kicadSymbolki_fp_filters': 'Choke*Schaffner*RN102*'}]|
+|name|name|Filter : Choke_Schaffner_RN102-0.3-02-22M|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'FL'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Choke_Schaffner_RN102-0.3-02-22M'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Inductor_THT</td></tr><tr><td>Choke_Schaffner_RN102-04-14.0x14.0mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.schaffner.com/products/download/product/datasheet/rn-series-common-mode-chokes-new/'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'common-mode common mode choke powerline power line filter'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Common mode choke</td><td> 300mA</td><td> 300VAC</td><td> 22mH</td><td> 1.3 ohm</td><td> RN-102'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Choke*Schaffner*RN102*'</td></tr></table>]|
 ||||

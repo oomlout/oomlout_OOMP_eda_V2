@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-LGA-14_3x5mm_RevA|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSLGA143X5REVA|
 |name|name|digikey-footprints : LGA-14_3x5mm_RevA|
-|Footprint Kicad|footprintKicadDetails|{'name': 'LGA-14_3x5mm_RevA', 'description': 'http://www.analog.com/media/en/technical-documentation/data-sheets/ADXL343.pdf', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'LGA-14_3x5mm_RevA'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/ADXL343.pdf'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

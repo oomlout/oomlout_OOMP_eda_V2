@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKCNAUDIOJ3SWITCHTR > AudioJack3_SwitchTR
+# SZKCNAUDIOJ3SWITCHTR > Connector : AudioJack3_SwitchTR
 
 - ID: SYMBOL-kicad-kicad-symbols-Connector-AudioJack3_SwitchTR
 - Hex ID: SZKCNAUDIOJ3SWITCHTR
-- Name: AudioJack3_SwitchTR
-- Description: AudioJack3_SwitchTR
+- Name: Connector : AudioJack3_SwitchTR
+- Description: Connector : AudioJack3_SwitchTR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-AudioJack3_SwitchTR](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-AudioJack3_SwitchTR)
 - Short Link: [http://oom.lt/SZKCNAUDIOJ3SWITCHTR](http://oom.lt/SZKCNAUDIOJ3SWITCHTR)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AudioJack3_SwitchTR|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-AudioJack3_SwitchTR|
 |Hex ID (short code)|hexID|SZKCNAUDIOJ3SWITCHTR|
-|name|name|AudioJack3_SwitchTR|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'AudioJack3_SwitchTR', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'audio jack receptacle stereo headphones phones TRS connector', 'kicadSymbolki_description': 'Audio Jack, 3 Poles (Stereo / TRS), Switched TR Poles (Normalling)', 'kicadSymbolki_fp_filters': 'Jack*'}]|
+|name|name|Connector : AudioJack3_SwitchTR|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'J'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'AudioJack3_SwitchTR'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'audio jack receptacle stereo headphones phones TRS connector'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Audio Jack</td><td> 3 Poles (Stereo / TRS)</td><td> Switched TR Poles (Normalling)'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Jack*'</td></tr></table>]|
 ||||

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Fuse-Fuseholder_Cylinder-5x20mm_Stelvio-Kontek_PTF78_Horizontal_Open|
 |Hex ID (short code)|hexID|FZKFUFUHOLDERCYLINDER5X2STELVIOKONTEKPTF78HORIZONTALOPEN|
 |name|name|Fuse : Fuseholder_Cylinder-5x20mm_Stelvio-Kontek_PTF78_Horizontal_Open|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Fuseholder_Cylinder-5x20mm_Stelvio-Kontek_PTF78_Horizontal_Open', 'description': 'https://www.tme.eu/en/Document/3b48dbe2b9714a62652c97b08fcd464b/PTF78.pdf', 'tags': 'Fuseholder horizontal open 5x20 Stelvio-Kontek PTF/78', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Fuse.3dshapes/Fuseholder_Cylinder-5x20mm_Stelvio-Kontek_PTF78_Horizontal_Open.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Fuseholder_Cylinder-5x20mm_Stelvio-Kontek_PTF78_Horizontal_Open'</td><td> 'description'</td></tr><tr><td> 'https</td></tr><tr><td>//www.tme.eu/en/Document/3b48dbe2b9714a62652c97b08fcd464b/PTF78.pdf'</td><td> 'tags'</td></tr><tr><td> 'Fuseholder horizontal open 5x20 Stelvio-Kontek PTF/78'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Fuse.3dshapes/Fuseholder_Cylinder-5x20mm_Stelvio-Kontek_PTF78_Horizontal_Open.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

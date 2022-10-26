@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-TDFN-8_1.4x1.6mm_P0.4mm|
 |Hex ID (short code)|hexID|FZKDFNTDFN814X16P4|
 |name|name|Package_DFN_QFN : TDFN-8_1.4x1.6mm_P0.4mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'TDFN-8_1.4x1.6mm_P0.4mm', 'description': 'TDFN, 8 Pin (https://www.silabs.com/documents/public/data-sheets/si7210-datasheet.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py', 'tags': 'TDFN NoLead', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/TDFN-8_1.4x1.6mm_P0.4mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'TDFN-8_1.4x1.6mm_P0.4mm'</td><td> 'description'</td></tr><tr><td> 'TDFN</td><td> 8 Pin (https</td></tr><tr><td>//www.silabs.com/documents/public/data-sheets/si7210-datasheet.pdf)</td><td> generated with kicad-footprint-generator ipc_noLead_generator.py'</td><td> 'tags'</td></tr><tr><td> 'TDFN NoLead'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DFN_QFN.3dshapes/TDFN-8_1.4x1.6mm_P0.4mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

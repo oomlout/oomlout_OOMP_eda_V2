@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Converter_ACDC-Converter_ACDC_MeanWell_IRM-03-xx_THT|
 |Hex ID (short code)|hexID|FZKCONCONMEANWELLIRM3XXTHT|
 |name|name|Converter_ACDC : Converter_ACDC_MeanWell_IRM-03-xx_THT|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Converter_ACDC_MeanWell_IRM-03-xx_THT', 'description': 'ACDC-Converter, 3W, Meanwell, IRM-03, THT, https://www.meanwell.com/Upload/PDF/IRM-03/IRM-03-SPEC.PDF', 'tags': 'ACDC-Converter 3W THT', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Converter_ACDC.3dshapes/Converter_ACDC_MeanWell_IRM-03-xx_THT.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Converter_ACDC_MeanWell_IRM-03-xx_THT'</td><td> 'description'</td></tr><tr><td> 'ACDC-Converter</td><td> 3W</td><td> Meanwell</td><td> IRM-03</td><td> THT</td><td> https</td></tr><tr><td>//www.meanwell.com/Upload/PDF/IRM-03/IRM-03-SPEC.PDF'</td><td> 'tags'</td></tr><tr><td> 'ACDC-Converter 3W THT'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Converter_ACDC.3dshapes/Converter_ACDC_MeanWell_IRM-03-xx_THT.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

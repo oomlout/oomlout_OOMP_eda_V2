@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUMCHIPPIC12PIC12F752IMC > PIC12F752-IMC
+# SZKMCUMCHIPPIC12PIC12F752IMC > MCU_Microchip_PIC12 : PIC12F752-IMC
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC12-PIC12F752-IMC
 - Hex ID: SZKMCUMCHIPPIC12PIC12F752IMC
-- Name: PIC12F752-IMC
-- Description: PIC12F752-IMC
+- Name: MCU_Microchip_PIC12 : PIC12F752-IMC
+- Description: MCU_Microchip_PIC12 : PIC12F752-IMC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC12-PIC12F752-IMC](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC12-PIC12F752-IMC)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC12PIC12F752IMC](http://oom.lt/SZKMCUMCHIPPIC12PIC12F752IMC)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PIC12F752-IMC|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC12-PIC12F752-IMC|
 |Hex ID (short code)|hexID|SZKMCUMCHIPPIC12PIC12F752IMC|
-|name|name|PIC12F752-IMC|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'PIC12F752-IP', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PIC12F752-IMC', 'kicadSymbolFootprint': 'Package_DIP:DIP-8_W7.62mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/41576B.pdf', 'kicadSymbolki_keywords': 'FLASH-Based 8-Bit CMOS Microcontroller', 'kicadSymbolki_description': 'PIC12F752, 1024W Flash, 64B SRAM, DFN8', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
+|name|name|MCU_Microchip_PIC12 : PIC12F752-IMC|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'PIC12F752-IP'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'PIC12F752-IMC'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>DIP-8_W7.62mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/41576B.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'FLASH-Based 8-Bit CMOS Microcontroller'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'PIC12F752</td><td> 1024W Flash</td><td> 64B SRAM</td><td> DFN8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W7.62mm*'</td></tr></table>]|
 ||||

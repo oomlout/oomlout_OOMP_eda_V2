@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_QFP-PQFP-80_14x20mm_P0.8mm|
 |Hex ID (short code)|hexID|FZKQFPPQFP814X2P8|
 |name|name|Package_QFP : PQFP-80_14x20mm_P0.8mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'PQFP-80_14x20mm_P0.8mm', 'description': 'PQFP80 14x20 / QIP80E CASE 122BS (see ON Semiconductor 122BS.PDF)', 'tags': 'QFP 0.8', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_QFP.3dshapes/PQFP-80_14x20mm_P0.8mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'PQFP-80_14x20mm_P0.8mm'</td><td> 'description'</td></tr><tr><td> 'PQFP80 14x20 / QIP80E CASE 122BS (see ON Semiconductor 122BS.PDF)'</td><td> 'tags'</td></tr><tr><td> 'QFP 0.8'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_QFP.3dshapes/PQFP-80_14x20mm_P0.8mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

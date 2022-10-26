@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKRELAYSOLIDSTATEAQH223 > AQH0223
+# SZKRELAYSOLIDSTATEAQH223 > Relay_SolidState : AQH0223
 
 - ID: SYMBOL-kicad-kicad-symbols-Relay_SolidState-AQH0223
 - Hex ID: SZKRELAYSOLIDSTATEAQH223
-- Name: AQH0223
-- Description: AQH0223
+- Name: Relay_SolidState : AQH0223
+- Description: Relay_SolidState : AQH0223
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay_SolidState-AQH0223](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay_SolidState-AQH0223)
 - Short Link: [http://oom.lt/SZKRELAYSOLIDSTATEAQH223](http://oom.lt/SZKRELAYSOLIDSTATEAQH223)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AQH0223|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Relay_SolidState-AQH0223|
 |Hex ID (short code)|hexID|SZKRELAYSOLIDSTATEAQH223|
-|name|name|AQH0223|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AQH0223', 'kicadSymbolFootprint': 'Package_DIP:DIP-8-N7_W7.62mm', 'kicadSymbolDatasheet': 'https://b2b-api.panasonic.eu/file_stream/pids/fileversion/2787', 'kicadSymbolki_keywords': 'Opto-Triac Opto Triac Random Phase', 'kicadSymbolki_description': 'Random Phase Opto-Triac, Vdrm 600V, Ift 10mA, IT 300mA, DIP-7', 'kicadSymbolki_fp_filters': 'DIP*N7*W7.62mm*'}]|
+|name|name|Relay_SolidState : AQH0223|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'AQH0223'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>DIP-8-N7_W7.62mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//b2b-api.panasonic.eu/file_stream/pids/fileversion/2787'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Opto-Triac Opto Triac Random Phase'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Random Phase Opto-Triac</td><td> Vdrm 600V</td><td> Ift 10mA</td><td> IT 300mA</td><td> DIP-7'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*N7*W7.62mm*'</td></tr></table>]|
 ||||

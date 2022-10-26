@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_Littelfuse-NANO2-451_453|
 |Hex ID (short code)|hexID|FZKFUFULITTELFUNANO2451453|
 |name|name|Fuse : Fuse_Littelfuse-NANO2-451_453|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Fuse_Littelfuse-NANO2-451_453', 'description': 'Littelfuse NANO2 https://www.littelfuse.com/~/media/electronics/datasheets/fuses/littelfuse_fuse_451_453_datasheet.pdf.pdf', 'tags': 'Fuse Nano2', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Fuse.3dshapes/Fuse_Littelfuse-NANO2-451_453.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Fuse_Littelfuse-NANO2-451_453'</td><td> 'description'</td></tr><tr><td> 'Littelfuse NANO2 https</td></tr><tr><td>//www.littelfuse.com/~/media/electronics/datasheets/fuses/littelfuse_fuse_451_453_datasheet.pdf.pdf'</td><td> 'tags'</td></tr><tr><td> 'Fuse Nano2'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Fuse.3dshapes/Fuse_Littelfuse-NANO2-451_453.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

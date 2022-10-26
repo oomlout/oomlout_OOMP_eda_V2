@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORFETBUK9M341EX > BUK9M34-100EX
+# SZKTRANSISTORFETBUK9M341EX > Transistor_FET : BUK9M34-100EX
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-BUK9M34-100EX
 - Hex ID: SZKTRANSISTORFETBUK9M341EX
-- Name: BUK9M34-100EX
-- Description: BUK9M34-100EX
+- Name: Transistor_FET : BUK9M34-100EX
+- Description: Transistor_FET : BUK9M34-100EX
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BUK9M34-100EX](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BUK9M34-100EX)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETBUK9M341EX](http://oom.lt/SZKTRANSISTORFETBUK9M341EX)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BUK9M34-100EX|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-BUK9M34-100EX|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETBUK9M341EX|
-|name|name|BUK9M34-100EX|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BUK9M53-60EX', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'BUK9M34-100EX', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:LFPAK33', 'kicadSymbolDatasheet': 'https://assets.nexperia.com/documents/data-sheet/BUK9M34-100E.pdf', 'kicadSymbolki_keywords': 'Power MOSFET N-MOS', 'kicadSymbolki_description': '29A Id, 100V Vds, N-Channel TrenchMOS MOSFET, 34mOhm Ron, 24.7nC Qqd, -55 to 175 °C, LFPAK33', 'kicadSymbolki_fp_filters': 'LFPAK33*'}]|
+|name|name|Transistor_FET : BUK9M34-100EX|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'BUK9M53-60EX'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'BUK9M34-100EX'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>LFPAK33'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//assets.nexperia.com/documents/data-sheet/BUK9M34-100E.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Power MOSFET N-MOS'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '29A Id</td><td> 100V Vds</td><td> N-Channel TrenchMOS MOSFET</td><td> 34mOhm Ron</td><td> 24.7nC Qqd</td><td> -55 to 175 °C</td><td> LFPAK33'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'LFPAK33*'</td></tr></table>]|
 ||||

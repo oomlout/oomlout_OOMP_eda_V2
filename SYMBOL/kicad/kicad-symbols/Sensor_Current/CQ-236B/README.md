@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKSENCURRENTCQ236B > CQ-236B
+# SZKSENCURRENTCQ236B > Sensor_Current : CQ-236B
 
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Current-CQ-236B
 - Hex ID: SZKSENCURRENTCQ236B
-- Name: CQ-236B
-- Description: CQ-236B
+- Name: Sensor_Current : CQ-236B
+- Description: Sensor_Current : CQ-236B
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-CQ-236B](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-CQ-236B)
 - Short Link: [http://oom.lt/SZKSENCURRENTCQ236B](http://oom.lt/SZKSENCURRENTCQ236B)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|CQ-236B|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Current-CQ-236B|
 |Hex ID (short code)|hexID|SZKSENCURRENTCQ236B|
-|name|name|CQ-236B|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'CQ-2063', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'CQ-236B', 'kicadSymbolFootprint': 'Sensor_Current:AKM_CQ_7', 'kicadSymbolDatasheet': 'http://www.akm.com/akm/en/file/datasheet/CQ-236B.pdf', 'kicadSymbolki_keywords': 'hall effect current sensor', 'kicadSymbolki_description': 'High-Speed Small-Sized Current Sensor, Unidirectional, 0A to +25A, 160mV/A, CQ-7', 'kicadSymbolki_fp_filters': 'AKM*CQ*'}]|
+|name|name|Sensor_Current : CQ-236B|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'CQ-2063'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'CQ-236B'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Sensor_Current</td></tr><tr><td>AKM_CQ_7'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.akm.com/akm/en/file/datasheet/CQ-236B.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'hall effect current sensor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'High-Speed Small-Sized Current Sensor</td><td> Unidirectional</td><td> 0A to +25A</td><td> 160mV/A</td><td> CQ-7'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'AKM*CQ*'</td></tr></table>]|
 ||||

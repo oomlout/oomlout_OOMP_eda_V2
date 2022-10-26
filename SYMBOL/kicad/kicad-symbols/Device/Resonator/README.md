@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDEVICER > Resonator
+# SZKDEVICER > Device : Resonator
 
 - ID: SYMBOL-kicad-kicad-symbols-Device-Resonator
 - Hex ID: SZKDEVICER
-- Name: Resonator
-- Description: Resonator
+- Name: Device : Resonator
+- Description: Device : Resonator
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Resonator](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Resonator)
 - Short Link: [http://oom.lt/SZKDEVICER](http://oom.lt/SZKDEVICER)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Resonator|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-Resonator|
 |Hex ID (short code)|hexID|SZKDEVICER|
-|name|name|Resonator|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Y', 'kicadSymbolValue': 'Resonator', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'ceramic resonator', 'kicadSymbolki_description': 'Three pin ceramic resonator', 'kicadSymbolki_fp_filters': 'Filter* Resonator*'}]|
+|name|name|Device : Resonator|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Y'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Resonator'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'ceramic resonator'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Three pin ceramic resonator'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Filter* Resonator*'</td></tr></table>]|
 ||||

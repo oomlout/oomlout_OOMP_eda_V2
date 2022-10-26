@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKSENCURRENTCQ29D > CQ-209D
+# SZKSENCURRENTCQ29D > Sensor_Current : CQ-209D
 
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Current-CQ-209D
 - Hex ID: SZKSENCURRENTCQ29D
-- Name: CQ-209D
-- Description: CQ-209D
+- Name: Sensor_Current : CQ-209D
+- Description: Sensor_Current : CQ-209D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-CQ-209D](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-CQ-209D)
 - Short Link: [http://oom.lt/SZKSENCURRENTCQ29D](http://oom.lt/SZKSENCURRENTCQ29D)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|CQ-209D|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Current-CQ-209D|
 |Hex ID (short code)|hexID|SZKSENCURRENTCQ29D|
-|name|name|CQ-209D|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'CQ-2092', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'CQ-209D', 'kicadSymbolFootprint': 'Sensor_Current:AKM_CQ_7S', 'kicadSymbolDatasheet': 'http://www.akm.com/akm/en/file/datasheet/CQ-209D.pdf', 'kicadSymbolki_keywords': 'hall effect current sensor', 'kicadSymbolki_description': 'High-Speed Small-Sized Current Sensor, Bidirectional, -41A to +41A, 50mV/A, CQ-7S', 'kicadSymbolki_fp_filters': 'AKM*CQ*S*'}]|
+|name|name|Sensor_Current : CQ-209D|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'CQ-2092'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'CQ-209D'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Sensor_Current</td></tr><tr><td>AKM_CQ_7S'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.akm.com/akm/en/file/datasheet/CQ-209D.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'hall effect current sensor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'High-Speed Small-Sized Current Sensor</td><td> Bidirectional</td><td> -41A to +41A</td><td> 50mV/A</td><td> CQ-7S'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'AKM*CQ*S*'</td></tr></table>]|
 ||||

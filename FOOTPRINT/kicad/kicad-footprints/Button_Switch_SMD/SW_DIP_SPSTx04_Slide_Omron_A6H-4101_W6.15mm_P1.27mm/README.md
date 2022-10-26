@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_DIP_SPSTx04_Slide_Omron_A6H-4101_W6.15mm_P1.27mm|
 |Hex ID (short code)|hexID|FZKBSWITCHSMSWDIPSPSTX4SLIDEOMRONA6H411W615P127|
 |name|name|Button_Switch_SMD : SW_DIP_SPSTx04_Slide_Omron_A6H-4101_W6.15mm_P1.27mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'SW_DIP_SPSTx04_Slide_Omron_A6H-4101_W6.15mm_P1.27mm', 'description': 'SMD 4x-dip-switch SPST Omron_A6H-4101, Slide, row spacing 6.15 mm (242 mils), body size  (see https://www.omron.com/ecb/products/pdf/en-a6h.pdf)', 'tags': 'SMD DIP Switch SPST Slide 6.15mm 242mil', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_DIP_SPSTx04_Slide_Omron_A6H-4101_W6.15mm_P1.27mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SW_DIP_SPSTx04_Slide_Omron_A6H-4101_W6.15mm_P1.27mm'</td><td> 'description'</td></tr><tr><td> 'SMD 4x-dip-switch SPST Omron_A6H-4101</td><td> Slide</td><td> row spacing 6.15 mm (242 mils)</td><td> body size  (see https</td></tr><tr><td>//www.omron.com/ecb/products/pdf/en-a6h.pdf)'</td><td> 'tags'</td></tr><tr><td> 'SMD DIP Switch SPST Slide 6.15mm 242mil'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Button_Switch_SMD.3dshapes/SW_DIP_SPSTx04_Slide_Omron_A6H-4101_W6.15mm_P1.27mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

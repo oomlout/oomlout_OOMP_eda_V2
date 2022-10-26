@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREFERENCEVOLTAGECJ432 > CJ432
+# SZKREFERENCEVOLTAGECJ432 > Reference_Voltage : CJ432
 
 - ID: SYMBOL-kicad-kicad-symbols-Reference_Voltage-CJ432
 - Hex ID: SZKREFERENCEVOLTAGECJ432
-- Name: CJ432
-- Description: CJ432
+- Name: Reference_Voltage : CJ432
+- Description: Reference_Voltage : CJ432
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-CJ432](http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-CJ432)
 - Short Link: [http://oom.lt/SZKREFERENCEVOLTAGECJ432](http://oom.lt/SZKREFERENCEVOLTAGECJ432)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|CJ432|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Reference_Voltage-CJ432|
 |Hex ID (short code)|hexID|SZKREFERENCEVOLTAGECJ432|
-|name|name|CJ432|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'CJ432', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23', 'kicadSymbolDatasheet': 'http://www.cj-elec.com/txUpfile/20134181474991806.pdf', 'kicadSymbolki_keywords': 'diode device shunt regulator', 'kicadSymbolki_description': 'Shunt Regulator, SOT-23', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
+|name|name|Reference_Voltage : CJ432|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'CJ432'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-23'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.cj-elec.com/txUpfile/20134181474991806.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'diode device shunt regulator'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Shunt Regulator</td><td> SOT-23'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23*'</td></tr></table>]|
 ||||

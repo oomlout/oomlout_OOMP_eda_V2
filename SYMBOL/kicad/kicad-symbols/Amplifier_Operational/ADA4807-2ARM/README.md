@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKAMPLIFIEROPERATIONALADA4872ARM > ADA4807-2ARM
+# SZKAMPLIFIEROPERATIONALADA4872ARM > Amplifier_Operational : ADA4807-2ARM
 
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-ADA4807-2ARM
 - Hex ID: SZKAMPLIFIEROPERATIONALADA4872ARM
-- Name: ADA4807-2ARM
-- Description: ADA4807-2ARM
+- Name: Amplifier_Operational : ADA4807-2ARM
+- Description: Amplifier_Operational : ADA4807-2ARM
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-ADA4807-2ARM](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-ADA4807-2ARM)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALADA4872ARM](http://oom.lt/SZKAMPLIFIEROPERATIONALADA4872ARM)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ADA4807-2ARM|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Operational-ADA4807-2ARM|
 |Hex ID (short code)|hexID|SZKAMPLIFIEROPERATIONALADA4872ARM|
-|name|name|ADA4807-2ARM|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LM2904', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ADA4807-2ARM', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/ADA4807-1_4807-2_4807-4.pdf', 'kicadSymbolki_keywords': 'dual opamp', 'kicadSymbolki_description': 'Dual Rail-to-Rail Input/Output Amplifiers, MSOP-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm* DIP*W7.62mm* TO*99* OnSemi*Micro8* TSSOP*3x3mm*P0.65mm* TSSOP*4.4x3mm*P0.65mm* MSOP*3x3mm*P0.65mm* SSOP*3.9x4.9mm*P0.635mm* LFCSP*2x2mm*P0.5mm* *SIP* SOIC*5.3x6.2mm*P1.27mm*'}]|
+|name|name|Amplifier_Operational : ADA4807-2ARM|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'LM2904'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ADA4807-2ARM'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/ADA4807-1_4807-2_4807-4.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'dual opamp'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Dual Rail-to-Rail Input/Output Amplifiers</td><td> MSOP-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*3.9x4.9mm*P1.27mm* DIP*W7.62mm* TO*99* OnSemi*Micro8* TSSOP*3x3mm*P0.65mm* TSSOP*4.4x3mm*P0.65mm* MSOP*3x3mm*P0.65mm* SSOP*3.9x4.9mm*P0.635mm* LFCSP*2x2mm*P0.5mm* *SIP* SOIC*5.3x6.2mm*P1.27mm*'</td></tr></table>]|
 ||||

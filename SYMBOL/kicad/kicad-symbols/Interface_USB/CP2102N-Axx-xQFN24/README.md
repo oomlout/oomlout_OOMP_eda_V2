@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKINTERFACEUCP212NAXXXQFN24 > CP2102N-Axx-xQFN24
+# SZKINTERFACEUCP212NAXXXQFN24 > Interface_USB : CP2102N-Axx-xQFN24
 
 - ID: SYMBOL-kicad-kicad-symbols-Interface_USB-CP2102N-Axx-xQFN24
 - Hex ID: SZKINTERFACEUCP212NAXXXQFN24
-- Name: CP2102N-Axx-xQFN24
-- Description: CP2102N-Axx-xQFN24
+- Name: Interface_USB : CP2102N-Axx-xQFN24
+- Description: Interface_USB : CP2102N-Axx-xQFN24
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-CP2102N-Axx-xQFN24](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-CP2102N-Axx-xQFN24)
 - Short Link: [http://oom.lt/SZKINTERFACEUCP212NAXXXQFN24](http://oom.lt/SZKINTERFACEUCP212NAXXXQFN24)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|CP2102N-Axx-xQFN24|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_USB-CP2102N-Axx-xQFN24|
 |Hex ID (short code)|hexID|SZKINTERFACEUCP212NAXXXQFN24|
-|name|name|CP2102N-Axx-xQFN24|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'CP2102N-Axx-xQFN24', 'kicadSymbolFootprint': 'Package_DFN_QFN:QFN-24-1EP_4x4mm_P0.5mm_EP2.6x2.6mm', 'kicadSymbolDatasheet': 'https://www.silabs.com/documents/public/data-sheets/cp2102n-datasheet.pdf', 'kicadSymbolki_keywords': 'USB UART bridge', 'kicadSymbolki_description': 'USB to UART master bridge, QFN-24', 'kicadSymbolki_fp_filters': 'QFN*4x4mm*P0.5mm*'}]|
+|name|name|Interface_USB : CP2102N-Axx-xQFN24|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'CP2102N-Axx-xQFN24'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>QFN-24-1EP_4x4mm_P0.5mm_EP2.6x2.6mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.silabs.com/documents/public/data-sheets/cp2102n-datasheet.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'USB UART bridge'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'USB to UART master bridge</td><td> QFN-24'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'QFN*4x4mm*P0.5mm*'</td></tr></table>]|
 ||||

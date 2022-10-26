@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDRIVERFETIR21 > IR2010
+# SZKDRIVERFETIR21 > Driver_FET : IR2010
 
 - ID: SYMBOL-kicad-kicad-symbols-Driver_FET-IR2010
 - Hex ID: SZKDRIVERFETIR21
-- Name: IR2010
-- Description: IR2010
+- Name: Driver_FET : IR2010
+- Description: Driver_FET : IR2010
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-IR2010](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-IR2010)
 - Short Link: [http://oom.lt/SZKDRIVERFETIR21](http://oom.lt/SZKDRIVERFETIR21)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IR2010|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Driver_FET-IR2010|
 |Hex ID (short code)|hexID|SZKDRIVERFETIR21|
-|name|name|IR2010|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'IR2010', 'kicadSymbolFootprint': 'Package_DIP:DIP-14_W7.62mm', 'kicadSymbolDatasheet': 'https://www.infineon.com/dgdl/ir2010.pdf?fileId=5546d462533600a4015355c48f901660', 'kicadSymbolki_keywords': 'Gate Driver', 'kicadSymbolki_description': 'High and Low Side Driver, 200V, 3.0/3.0A, PDIP-14', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
+|name|name|Driver_FET : IR2010|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'IR2010'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>DIP-14_W7.62mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.infineon.com/dgdl/ir2010.pdf?fileId=5546d462533600a4015355c48f901660'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Gate Driver'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'High and Low Side Driver</td><td> 200V</td><td> 3.0/3.0A</td><td> PDIP-14'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W7.62mm*'</td></tr></table>]|
 ||||

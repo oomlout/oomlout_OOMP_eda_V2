@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORSWITCHINGLM517MR > LM5017MR
+# SZKREGULATORSWITCHINGLM517MR > Regulator_Switching : LM5017MR
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM5017MR
 - Hex ID: SZKREGULATORSWITCHINGLM517MR
-- Name: LM5017MR
-- Description: LM5017MR
+- Name: Regulator_Switching : LM5017MR
+- Description: Regulator_Switching : LM5017MR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM5017MR](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM5017MR)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGLM517MR](http://oom.lt/SZKREGULATORSWITCHINGLM517MR)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM5017MR|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM5017MR|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGLM517MR|
-|name|name|LM5017MR|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM5017MR', 'kicadSymbolFootprint': 'Package_SO:SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.95x4.9mm_Mask2.71x3.4mm_ThermalVias', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lm5017.pdf', 'kicadSymbolki_keywords': 'Step-Down Switching Regulator High Voltage', 'kicadSymbolki_description': '600mA, 100V Step-Down Switching Regulator, PowerSO-8', 'kicadSymbolki_fp_filters': 'SOIC*1EP*3.9x4.9mm*P1.27mm*'}]|
+|name|name|Regulator_Switching : LM5017MR|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LM5017MR'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.95x4.9mm_Mask2.71x3.4mm_ThermalVias'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/lm5017.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Step-Down Switching Regulator High Voltage'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '600mA</td><td> 100V Step-Down Switching Regulator</td><td> PowerSO-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*1EP*3.9x4.9mm*P1.27mm*'</td></tr></table>]|
 ||||

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_MELF|
 |Hex ID (short code)|hexID|FZKDIODESMDMELF|
 |name|name|Diode_SMD : D_MELF|
-|Footprint Kicad|footprintKicadDetails|{'name': 'D_MELF', 'description': 'Diode, MELF,,', 'tags': 'Diode MELF ', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_MELF.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'D_MELF'</td><td> 'description'</td></tr><tr><td> 'Diode</td><td> MELF</td><td></td><td>'</td><td> 'tags'</td></tr><tr><td> 'Diode MELF '</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Diode_SMD.3dshapes/D_MELF.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

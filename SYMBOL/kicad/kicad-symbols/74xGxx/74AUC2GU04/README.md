@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZK74XGXX74AUC2GU4 > 74AUC2GU04
+# SZK74XGXX74AUC2GU4 > 74xGxx : 74AUC2GU04
 
 - ID: SYMBOL-kicad-kicad-symbols-74xGxx-74AUC2GU04
 - Hex ID: SZK74XGXX74AUC2GU4
-- Name: 74AUC2GU04
-- Description: 74AUC2GU04
+- Name: 74xGxx : 74AUC2GU04
+- Description: 74xGxx : 74AUC2GU04
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-74xGxx-74AUC2GU04](http://oom.lt/SYMBOL-kicad-kicad-symbols-74xGxx-74AUC2GU04)
 - Short Link: [http://oom.lt/SZK74XGXX74AUC2GU4](http://oom.lt/SZK74XGXX74AUC2GU4)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74AUC2GU04|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xGxx-74AUC2GU04|
 |Hex ID (short code)|hexID|SZK74XGXX74AUC2GU4|
-|name|name|74AUC2GU04|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '74LVC2G04', 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74AUC2GU04', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf', 'kicadSymbolki_keywords': 'Dual Gate NOT LVC CMOS', 'kicadSymbolki_description': '74AUC2G04, Dual NOT Gate, Low-Voltage CMOS', 'kicadSymbolki_fp_filters': 'SG-* SOT*'}]|
+|name|name|74xGxx : 74AUC2GU04|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> '74LVC2G04'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> '74AUC2GU04'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/sg/scyt129e/scyt129e.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Dual Gate NOT LVC CMOS'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '74AUC2G04</td><td> Dual NOT Gate</td><td> Low-Voltage CMOS'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SG-* SOT*'</td></tr></table>]|
 ||||

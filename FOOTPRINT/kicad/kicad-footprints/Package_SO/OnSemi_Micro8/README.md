@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SO-OnSemi_Micro8|
 |Hex ID (short code)|hexID|FZKSOONSEMIM8|
 |name|name|Package_SO : OnSemi_Micro8|
-|Footprint Kicad|footprintKicadDetails|{'name': 'OnSemi_Micro8', 'description': 'ON Semiconductor Micro8 (Case846A-02): https://www.onsemi.com/pub/Collateral/846A-02.PDF', 'tags': 'micro8', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/OnSemi_Micro8.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'OnSemi_Micro8'</td><td> 'description'</td></tr><tr><td> 'ON Semiconductor Micro8 (Case846A-02)</td></tr><tr><td> https</td></tr><tr><td>//www.onsemi.com/pub/Collateral/846A-02.PDF'</td><td> 'tags'</td></tr><tr><td> 'micro8'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_SO.3dshapes/OnSemi_Micro8.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

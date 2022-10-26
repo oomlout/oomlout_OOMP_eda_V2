@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKPOTENTIOMETERDIGITALMCP424XXXXOT > MCP4024-xxxxOT
+# SZKPOTENTIOMETERDIGITALMCP424XXXXOT > Potentiometer_Digital : MCP4024-xxxxOT
 
 - ID: SYMBOL-kicad-kicad-symbols-Potentiometer_Digital-MCP4024-xxxxOT
 - Hex ID: SZKPOTENTIOMETERDIGITALMCP424XXXXOT
-- Name: MCP4024-xxxxOT
-- Description: MCP4024-xxxxOT
+- Name: Potentiometer_Digital : MCP4024-xxxxOT
+- Description: Potentiometer_Digital : MCP4024-xxxxOT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Potentiometer_Digital-MCP4024-xxxxOT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Potentiometer_Digital-MCP4024-xxxxOT)
 - Short Link: [http://oom.lt/SZKPOTENTIOMETERDIGITALMCP424XXXXOT](http://oom.lt/SZKPOTENTIOMETERDIGITALMCP424XXXXOT)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MCP4024-xxxxOT|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Potentiometer_Digital-MCP4024-xxxxOT|
 |Hex ID (short code)|hexID|SZKPOTENTIOMETERDIGITALMCP424XXXXOT|
-|name|name|MCP4024-xxxxOT|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MCP4014-xxxxOT', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MCP4024-xxxxOT', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-5', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/21945e.pdf', 'kicadSymbolki_keywords': 'Digital Pot Potentiometer Up Down', 'kicadSymbolki_description': 'Low-Cost 64-Step Digital Potentiometer with WiperLock™ Technology, SOT-23-5', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
+|name|name|Potentiometer_Digital : MCP4024-xxxxOT|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'MCP4014-xxxxOT'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MCP4024-xxxxOT'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-23-5'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/21945e.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Digital Pot Potentiometer Up Down'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Low-Cost 64-Step Digital Potentiometer with WiperLock™ Technology</td><td> SOT-23-5'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23*'</td></tr></table>]|
 ||||

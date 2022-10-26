@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZK74XX74LS51 > 74LS51
+# SZK74XX74LS51 > 74xx : 74LS51
 
 - ID: SYMBOL-kicad-kicad-symbols-74xx-74LS51
 - Hex ID: SZK74XX74LS51
-- Name: 74LS51
-- Description: 74LS51
+- Name: 74xx : 74LS51
+- Description: 74xx : 74LS51
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx-74LS51](http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx-74LS51)
 - Short Link: [http://oom.lt/SZK74XX74LS51](http://oom.lt/SZK74XX74LS51)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74LS51|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xx-74LS51|
 |Hex ID (short code)|hexID|SZK74XX74LS51|
-|name|name|74LS51|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74LS51', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/sn74ls51.pdf', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'TTL ANDNOR', 'kicadSymbolki_description': 'Dual 3- and 2-input AND-NOR ( S = /(AB[C] + DE[F]) )', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
+|name|name|74xx : 74LS51|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> '74LS51'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/sn74ls51.pdf'</td><td> 'kicadSymbolki_locked'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'TTL ANDNOR'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Dual 3- and 2-input AND-NOR ( S = /(AB[C] + DE[F]) )'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W7.62mm*'</td></tr></table>]|
 ||||

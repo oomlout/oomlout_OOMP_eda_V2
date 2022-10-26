@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKPOWERPROTECTIONESDLC5VPB8 > ESDLC5V0PB8
+# SZKPOWERPROTECTIONESDLC5VPB8 > Power_Protection : ESDLC5V0PB8
 
 - ID: SYMBOL-kicad-kicad-symbols-Power_Protection-ESDLC5V0PB8
 - Hex ID: SZKPOWERPROTECTIONESDLC5VPB8
-- Name: ESDLC5V0PB8
-- Description: ESDLC5V0PB8
+- Name: Power_Protection : ESDLC5V0PB8
+- Description: Power_Protection : ESDLC5V0PB8
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-ESDLC5V0PB8](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-ESDLC5V0PB8)
 - Short Link: [http://oom.lt/SZKPOWERPROTECTIONESDLC5VPB8](http://oom.lt/SZKPOWERPROTECTIONESDLC5VPB8)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ESDLC5V0PB8|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Protection-ESDLC5V0PB8|
 |Hex ID (short code)|hexID|SZKPOWERPROTECTIONESDLC5VPB8|
-|name|name|ESDLC5V0PB8|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'RCLAMP3328P', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'ESDLC5V0PB8', 'kicadSymbolFootprint': 'Package_DFN_QFN:UDFN-9_1.0x3.8mm_P0.5mm', 'kicadSymbolDatasheet': 'https://www.mccsemi.com/pdf/Products/ESDLC5V0PB8(DFN3810-9)-A.pdf', 'kicadSymbolki_keywords': 'usb esd protection suppression transient', 'kicadSymbolki_description': 'TVS Diode Array, 5.0V Standoff, 8 Channels, UDFN-9', 'kicadSymbolki_fp_filters': 'UDFN*1.0x3.8mm*P0.5mm*'}]|
+|name|name|Power_Protection : ESDLC5V0PB8|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'RCLAMP3328P'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ESDLC5V0PB8'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>UDFN-9_1.0x3.8mm_P0.5mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.mccsemi.com/pdf/Products/ESDLC5V0PB8(DFN3810-9)-A.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'usb esd protection suppression transient'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'TVS Diode Array</td><td> 5.0V Standoff</td><td> 8 Channels</td><td> UDFN-9'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'UDFN*1.0x3.8mm*P0.5mm*'</td></tr></table>]|
 ||||

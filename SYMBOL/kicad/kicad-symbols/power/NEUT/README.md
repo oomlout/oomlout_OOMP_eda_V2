@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKPOWERNEUT > NEUT
+# SZKPOWERNEUT > power : NEUT
 
 - ID: SYMBOL-kicad-kicad-symbols-power-NEUT
 - Hex ID: SZKPOWERNEUT
-- Name: NEUT
-- Description: NEUT
+- Name: power : NEUT
+- Description: power : NEUT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-power-NEUT](http://oom.lt/SYMBOL-kicad-kicad-symbols-power-NEUT)
 - Short Link: [http://oom.lt/SZKPOWERNEUT](http://oom.lt/SZKPOWERNEUT)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|NEUT|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-power-NEUT|
 |Hex ID (short code)|hexID|SZKPOWERNEUT|
-|name|name|NEUT|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': '#PWR', 'kicadSymbolValue': 'NEUT', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_keywords': 'power-flag', 'kicadSymbolki_description': 'Power symbol creates a global label with name "NEUT"'}]|
+|name|name|power : NEUT|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> '#PWR'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'NEUT'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'power-flag'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Power symbol creates a global label with name "NEUT"'</td></tr></table>]|
 ||||

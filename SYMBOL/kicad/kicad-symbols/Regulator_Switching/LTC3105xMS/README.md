@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORSWITCHINGLTC315XMS > LTC3105xMS
+# SZKREGULATORSWITCHINGLTC315XMS > Regulator_Switching : LTC3105xMS
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-LTC3105xMS
 - Hex ID: SZKREGULATORSWITCHINGLTC315XMS
-- Name: LTC3105xMS
-- Description: LTC3105xMS
+- Name: Regulator_Switching : LTC3105xMS
+- Description: Regulator_Switching : LTC3105xMS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LTC3105xMS](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LTC3105xMS)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGLTC315XMS](http://oom.lt/SZKREGULATORSWITCHINGLTC315XMS)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LTC3105xMS|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-LTC3105xMS|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGLTC315XMS|
-|name|name|LTC3105xMS|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LTC3105xMS', 'kicadSymbolFootprint': 'Package_SO:MSOP-12_3x4mm_P0.65mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/3105fb.pdf', 'kicadSymbolki_keywords': 'Solar MPPT Maximum Power Point Control Converter Step-Up', 'kicadSymbolki_description': '400mA Step-Up DC/DC Converter with Maximum Power Point Control and 250mV Start-Up, MSOP-12', 'kicadSymbolki_fp_filters': 'MSOP*3x4mm*0.65mm*'}]|
+|name|name|Regulator_Switching : LTC3105xMS|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LTC3105xMS'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>MSOP-12_3x4mm_P0.65mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/3105fb.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Solar MPPT Maximum Power Point Control Converter Step-Up'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '400mA Step-Up DC/DC Converter with Maximum Power Point Control and 250mV Start-Up</td><td> MSOP-12'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'MSOP*3x4mm*0.65mm*'</td></tr></table>]|
 ||||

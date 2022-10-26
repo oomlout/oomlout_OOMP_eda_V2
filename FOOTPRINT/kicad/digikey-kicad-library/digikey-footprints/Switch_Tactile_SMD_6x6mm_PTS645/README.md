@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Switch_Tactile_SMD_6x6mm_PTS645|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSWITCHTACTILESM6X6PTS645|
 |name|name|digikey-footprints : Switch_Tactile_SMD_6x6mm_PTS645|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Switch_Tactile_SMD_6x6mm_PTS645', 'description': 'http://www.ckswitches.com/media/1471/pts645.pdf', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Switch_Tactile_SMD_6x6mm_PTS645'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ckswitches.com/media/1471/pts645.pdf'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

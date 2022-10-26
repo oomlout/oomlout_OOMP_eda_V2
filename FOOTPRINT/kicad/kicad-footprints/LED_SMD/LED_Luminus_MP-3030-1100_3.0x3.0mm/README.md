@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Luminus_MP-3030-1100_3.0x3.0mm|
 |Hex ID (short code)|hexID|FZKLSMLLUMINUSMP33113X3|
 |name|name|LED_SMD : LED_Luminus_MP-3030-1100_3.0x3.0mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'LED_Luminus_MP-3030-1100_3.0x3.0mm', 'description': 'Mid Power LED, Luminus MP-3030-1100, 3.0x3.0mm, 816mW, https://download.luminus.com/datasheets/Luminus_MP3030_1100_Datasheet.pdf', 'tags': 'LED Luminus MP-3030-1100', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED_Luminus_MP-3030-1100_3.0x3.0mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'LED_Luminus_MP-3030-1100_3.0x3.0mm'</td><td> 'description'</td></tr><tr><td> 'Mid Power LED</td><td> Luminus MP-3030-1100</td><td> 3.0x3.0mm</td><td> 816mW</td><td> https</td></tr><tr><td>//download.luminus.com/datasheets/Luminus_MP3030_1100_Datasheet.pdf'</td><td> 'tags'</td></tr><tr><td> 'LED Luminus MP-3030-1100'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/LED_SMD.3dshapes/LED_Luminus_MP-3030-1100_3.0x3.0mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

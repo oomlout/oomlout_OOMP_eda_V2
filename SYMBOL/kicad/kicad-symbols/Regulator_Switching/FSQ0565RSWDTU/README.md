@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORSWITCHINGFSQ565RSWDTU > FSQ0565RSWDTU
+# SZKREGULATORSWITCHINGFSQ565RSWDTU > Regulator_Switching : FSQ0565RSWDTU
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-FSQ0565RSWDTU
 - Hex ID: SZKREGULATORSWITCHINGFSQ565RSWDTU
-- Name: FSQ0565RSWDTU
-- Description: FSQ0565RSWDTU
+- Name: Regulator_Switching : FSQ0565RSWDTU
+- Description: Regulator_Switching : FSQ0565RSWDTU
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-FSQ0565RSWDTU](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-FSQ0565RSWDTU)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGFSQ565RSWDTU](http://oom.lt/SZKREGULATORSWITCHINGFSQ565RSWDTU)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|FSQ0565RSWDTU|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-FSQ0565RSWDTU|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGFSQ565RSWDTU|
-|name|name|FSQ0565RSWDTU|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'FSQ0565RSWDTU', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:Fairchild_TO-220F-6L', 'kicadSymbolDatasheet': 'http://www.onsemi.com/pub/Collateral/FSQ0565RS-D.PDF', 'kicadSymbolki_keywords': 'Quasi Resonant SMPS Controller 80W AC-DC', 'kicadSymbolki_description': '67kHz Quasi Resonant SMPS Controller w/ Soft Start, max. 80W AC-DC, TO-220F-6L', 'kicadSymbolki_fp_filters': 'Fairchild*TO*220F*6L*'}]|
+|name|name|Regulator_Switching : FSQ0565RSWDTU|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'FSQ0565RSWDTU'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_THT</td></tr><tr><td>Fairchild_TO-220F-6L'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.onsemi.com/pub/Collateral/FSQ0565RS-D.PDF'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Quasi Resonant SMPS Controller 80W AC-DC'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '67kHz Quasi Resonant SMPS Controller w/ Soft Start</td><td> max. 80W AC-DC</td><td> TO-220F-6L'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Fairchild*TO*220F*6L*'</td></tr></table>]|
 ||||

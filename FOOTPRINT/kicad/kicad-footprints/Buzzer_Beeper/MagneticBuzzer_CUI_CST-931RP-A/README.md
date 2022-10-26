@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Buzzer_Beeper-MagneticBuzzer_CUI_CST-931RP-A|
 |Hex ID (short code)|hexID|FZKBZMAGNETICBUZZERCUICST931RPA|
 |name|name|Buzzer_Beeper : MagneticBuzzer_CUI_CST-931RP-A|
-|Footprint Kicad|footprintKicadDetails|{'name': 'MagneticBuzzer_CUI_CST-931RP-A', 'description': 'CST-931RP-A, http://www.cui.com/product/resource/cst-931rp-a.pdf', 'tags': 'CST-931RP-A', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Buzzer_Beeper.3dshapes/MagneticBuzzer_CUI_CST-931RP-A.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'MagneticBuzzer_CUI_CST-931RP-A'</td><td> 'description'</td></tr><tr><td> 'CST-931RP-A</td><td> http</td></tr><tr><td>//www.cui.com/product/resource/cst-931rp-a.pdf'</td><td> 'tags'</td></tr><tr><td> 'CST-931RP-A'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Buzzer_Beeper.3dshapes/MagneticBuzzer_CUI_CST-931RP-A.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

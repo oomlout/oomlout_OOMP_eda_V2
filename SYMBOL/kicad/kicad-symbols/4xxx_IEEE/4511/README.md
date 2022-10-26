@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZK4XXXIEEE4511 > 4511
+# SZK4XXXIEEE4511 > 4xxx_IEEE : 4511
 
 - ID: SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4511
 - Hex ID: SZK4XXXIEEE4511
-- Name: 4511
-- Description: 4511
+- Name: 4xxx_IEEE : 4511
+- Description: 4xxx_IEEE : 4511
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4511](http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4511)
 - Short Link: [http://oom.lt/SZK4XXXIEEE4511](http://oom.lt/SZK4XXXIEEE4511)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|4511|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4511|
 |Hex ID (short code)|hexID|SZK4XXXIEEE4511|
-|name|name|4511|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '4511', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ''}]|
+|name|name|4xxx_IEEE : 4511|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> '4511'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> ''</td></tr></table>]|
 ||||

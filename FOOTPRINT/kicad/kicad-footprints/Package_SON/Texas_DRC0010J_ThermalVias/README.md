@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SON-Texas_DRC0010J_ThermalVias|
 |Hex ID (short code)|hexID|FZKSONTEXASDRC1JTHERMALVIAS|
 |name|name|Package_SON : Texas_DRC0010J_ThermalVias|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Texas_DRC0010J_ThermalVias', 'description': 'Texas DRC0010J, VSON10 3x3mm Body, 0.5mm Pitch,  http://www.ti.com/lit/ds/symlink/tps63000.pdf', 'tags': 'Texas VSON10 3x3mm', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SON.3dshapes/Texas_DRC0010J.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Texas_DRC0010J_ThermalVias'</td><td> 'description'</td></tr><tr><td> 'Texas DRC0010J</td><td> VSON10 3x3mm Body</td><td> 0.5mm Pitch</td><td>  http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/tps63000.pdf'</td><td> 'tags'</td></tr><tr><td> 'Texas VSON10 3x3mm'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_SON.3dshapes/Texas_DRC0010J.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

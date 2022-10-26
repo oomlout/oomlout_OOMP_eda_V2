@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICCAPC85XPF3V5C8P3C17115 > CAPC-0805-X-PF3-V50-C8P3-C107115
+# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICCAPC85XPF3V5C8P3C17115 > oomlout_OOMP_JLCC_Basic : CAPC-0805-X-PF3-V50-C8P3-C107115
 
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0805-X-PF3-V50-C8P3-C107115
 - Hex ID: SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICCAPC85XPF3V5C8P3C17115
-- Name: CAPC-0805-X-PF3-V50-C8P3-C107115
-- Description: CAPC-0805-X-PF3-V50-C8P3-C107115
+- Name: oomlout_OOMP_JLCC_Basic : CAPC-0805-X-PF3-V50-C8P3-C107115
+- Description: oomlout_OOMP_JLCC_Basic : CAPC-0805-X-PF3-V50-C8P3-C107115
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0805-X-PF3-V50-C8P3-C107115](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0805-X-PF3-V50-C8P3-C107115)
 - Short Link: [http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICCAPC85XPF3V5C8P3C17115](http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICCAPC85XPF3V5C8P3C17115)
   
@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|CAPC-0805-X-PF3-V50-C8P3-C107115|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0805-X-PF3-V50-C8P3-C107115|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICCAPC85XPF3V5C8P3C17115|
-|name|name|CAPC-0805-X-PF3-V50-C8P3-C107115|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'C', 'kicadSymbolValue': 'CAPC-0805-X-PF3-V50-C8P3-C107115', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:CAPC-0805-X-PF3-V50-C8P3-C107115', 'kicadSymbolDatasheet': 'oom.lt/C8P3', 'kicadSymbolki_keywords': 'cap capacitor', 'kicadSymbolki_description': 'hexID: C8P3;PARTL C-JLCC;C107115;MANUF C-XXXX;CC0805JRNPO9BN330;Unpolarized capacitor', 'kicadSymbolki_fp_filters': 'C_*'}]|
+|name|name|oomlout_OOMP_JLCC_Basic : CAPC-0805-X-PF3-V50-C8P3-C107115|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'C'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'CAPC-0805-X-PF3-V50-C8P3-C107115'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'oomlout_OOMP_parts</td></tr><tr><td>CAPC-0805-X-PF3-V50-C8P3-C107115'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'oom.lt/C8P3'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'cap capacitor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'hexID</td></tr><tr><td> C8P3;PARTL C-JLCC;C107115;MANUF C-XXXX;CC0805JRNPO9BN330;Unpolarized capacitor'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'C_*'</td></tr></table>]|
 ||||

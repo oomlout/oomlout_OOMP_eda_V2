@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-220-5_Horizontal_TabUp|
 |Hex ID (short code)|hexID|FZKSOTTO225HORIZONTALTABUP|
 |name|name|Package_TO_SOT_THT : TO-220-5_Horizontal_TabUp|
-|Footprint Kicad|footprintKicadDetails|{'name': 'TO-220-5_Horizontal_TabUp', 'description': 'TO-220-5, Horizontal, RM 1.7mm, Pentawatt, Multiwatt-5, see http://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/ltc-legacy-to-220/to-220_5_05-08-1421_straight_lead.pdf', 'tags': 'TO-220-5 Horizontal RM 1.7mm Pentawatt Multiwatt-5', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/TO-220-5_Horizontal_TabUp.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'oval'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'TO-220-5_Horizontal_TabUp'</td><td> 'description'</td></tr><tr><td> 'TO-220-5</td><td> Horizontal</td><td> RM 1.7mm</td><td> Pentawatt</td><td> Multiwatt-5</td><td> see http</td></tr><tr><td>//www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/ltc-legacy-to-220/to-220_5_05-08-1421_straight_lead.pdf'</td><td> 'tags'</td></tr><tr><td> 'TO-220-5 Horizontal RM 1.7mm Pentawatt Multiwatt-5'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_TO_SOT_THT.3dshapes/TO-220-5_Horizontal_TabUp.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'oval'</td></tr></table></td></tr></table>|
 ||||
 
 

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_XP_POWER-ITQxxxxS-H_THT|
 |Hex ID (short code)|hexID|FZKCONCONXPPOWERITQXXXXSHTHT|
 |name|name|Converter_DCDC : Converter_DCDC_XP_POWER-ITQxxxxS-H_THT|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Converter_DCDC_XP_POWER-ITQxxxxS-H_THT', 'description': 'XP_POWER  ITQxxxxS-H, SIP, (https://www.xppower.com/pdfs/SF_ITQ.pdf), generated with kicad-footprint-generator', 'tags': 'XP_POWER  ITQxxxxS-H SIP DCDC-Converter', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Converter_DCDC.3dshapes/Converter_DCDC_XP_POWER-ITQxxxxS-H_THT.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Converter_DCDC_XP_POWER-ITQxxxxS-H_THT'</td><td> 'description'</td></tr><tr><td> 'XP_POWER  ITQxxxxS-H</td><td> SIP</td><td> (https</td></tr><tr><td>//www.xppower.com/pdfs/SF_ITQ.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'XP_POWER  ITQxxxxS-H SIP DCDC-Converter'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Converter_DCDC.3dshapes/Converter_DCDC_XP_POWER-ITQxxxxS-H_THT.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

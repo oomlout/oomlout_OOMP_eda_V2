@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUMCHIPSAMEATSAME7N19AAN > ATSAME70N19A-AN
+# SZKMCUMCHIPSAMEATSAME7N19AAN > MCU_Microchip_SAME : ATSAME70N19A-AN
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_SAME-ATSAME70N19A-AN
 - Hex ID: SZKMCUMCHIPSAMEATSAME7N19AAN
-- Name: ATSAME70N19A-AN
-- Description: ATSAME70N19A-AN
+- Name: MCU_Microchip_SAME : ATSAME70N19A-AN
+- Description: MCU_Microchip_SAME : ATSAME70N19A-AN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_SAME-ATSAME70N19A-AN](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_SAME-ATSAME70N19A-AN)
 - Short Link: [http://oom.lt/SZKMCUMCHIPSAMEATSAME7N19AAN](http://oom.lt/SZKMCUMCHIPSAMEATSAME7N19AAN)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ATSAME70N19A-AN|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_SAME-ATSAME70N19A-AN|
 |Hex ID (short code)|hexID|SZKMCUMCHIPSAMEATSAME7N19AAN|
-|name|name|ATSAME70N19A-AN|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ATSAME70N21A-AN', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ATSAME70N19A-AN', 'kicadSymbolFootprint': 'Package_QFP:LQFP-100_14x14mm_P0.5mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/SAM-E70-S70-V70-V71-Family-Data-Sheet-DS60001527D.pdf', 'kicadSymbolki_keywords': '32-bit ARM Cortex-M7 MCU Microcontroller', 'kicadSymbolki_description': 'SAM E70 Microchip SMART ARM Cortex-M7-based MCU, 512K Flash, 256K SRAM, LQFP100', 'kicadSymbolki_fp_filters': 'LQFP*14x14mm*P0.5mm*'}]|
+|name|name|MCU_Microchip_SAME : ATSAME70N19A-AN|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'ATSAME70N21A-AN'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ATSAME70N19A-AN'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_QFP</td></tr><tr><td>LQFP-100_14x14mm_P0.5mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/SAM-E70-S70-V70-V71-Family-Data-Sheet-DS60001527D.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> '32-bit ARM Cortex-M7 MCU Microcontroller'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'SAM E70 Microchip SMART ARM Cortex-M7-based MCU</td><td> 512K Flash</td><td> 256K SRAM</td><td> LQFP100'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'LQFP*14x14mm*P0.5mm*'</td></tr></table>]|
 ||||

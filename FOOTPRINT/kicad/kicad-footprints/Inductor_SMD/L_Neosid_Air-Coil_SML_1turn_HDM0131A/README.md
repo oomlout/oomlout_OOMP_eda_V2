@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Neosid_Air-Coil_SML_1turn_HDM0131A|
 |Hex ID (short code)|hexID|FZKINDUCTORSMLNEOSIDAIRCOILSML1TURNHDM131A|
 |name|name|Inductor_SMD : L_Neosid_Air-Coil_SML_1turn_HDM0131A|
-|Footprint Kicad|footprintKicadDetails|{'name': 'L_Neosid_Air-Coil_SML_1turn_HDM0131A', 'description': 'Neosid, Air-Coil, SML, 1turn, HDM0131A,', 'tags': 'Neosid Air-Coil SML 1turn HDM0131A', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Neosid_Air-Coil_SML_1turn_HDM0131A.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'L_Neosid_Air-Coil_SML_1turn_HDM0131A'</td><td> 'description'</td></tr><tr><td> 'Neosid</td><td> Air-Coil</td><td> SML</td><td> 1turn</td><td> HDM0131A</td><td>'</td><td> 'tags'</td></tr><tr><td> 'Neosid Air-Coil SML 1turn HDM0131A'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Inductor_SMD.3dshapes/L_Neosid_Air-Coil_SML_1turn_HDM0131A.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORFETIRF7665S2 > IRF7665S2
+# SZKTRANSISTORFETIRF7665S2 > Transistor_FET : IRF7665S2
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF7665S2
 - Hex ID: SZKTRANSISTORFETIRF7665S2
-- Name: IRF7665S2
-- Description: IRF7665S2
+- Name: Transistor_FET : IRF7665S2
+- Description: Transistor_FET : IRF7665S2
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF7665S2](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF7665S2)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETIRF7665S2](http://oom.lt/SZKTRANSISTORFETIRF7665S2)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IRF7665S2|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF7665S2|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETIRF7665S2|
-|name|name|IRF7665S2|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'IRF7665S2', 'kicadSymbolFootprint': 'Package_DirectFET:DirectFET_SB', 'kicadSymbolDatasheet': 'https://www.infineon.com/dgdl/irf7665s2pbf.pdf?fileId=5546d462533600a401535603d3ba1c86', 'kicadSymbolki_keywords': 'N-Channel MOSFET', 'kicadSymbolki_description': '14.4A Id, 100V Vds, 62mOhm Rds, N-Channel MOSFET, DirectFET SB', 'kicadSymbolki_fp_filters': 'DirectFET*SB*'}]|
+|name|name|Transistor_FET : IRF7665S2|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'IRF7665S2'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DirectFET</td></tr><tr><td>DirectFET_SB'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.infineon.com/dgdl/irf7665s2pbf.pdf?fileId=5546d462533600a401535603d3ba1c86'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'N-Channel MOSFET'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '14.4A Id</td><td> 100V Vds</td><td> 62mOhm Rds</td><td> N-Channel MOSFET</td><td> DirectFET SB'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DirectFET*SB*'</td></tr></table>]|
 ||||

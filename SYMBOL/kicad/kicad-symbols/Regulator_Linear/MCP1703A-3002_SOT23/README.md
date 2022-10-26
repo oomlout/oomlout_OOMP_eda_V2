@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORLINEARMCP173A32SOT23 > MCP1703A-3002_SOT23
+# SZKREGULATORLINEARMCP173A32SOT23 > Regulator_Linear : MCP1703A-3002_SOT23
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-MCP1703A-3002_SOT23
 - Hex ID: SZKREGULATORLINEARMCP173A32SOT23
-- Name: MCP1703A-3002_SOT23
-- Description: MCP1703A-3002_SOT23
+- Name: Regulator_Linear : MCP1703A-3002_SOT23
+- Description: Regulator_Linear : MCP1703A-3002_SOT23
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-MCP1703A-3002_SOT23](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-MCP1703A-3002_SOT23)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARMCP173A32SOT23](http://oom.lt/SZKREGULATORLINEARMCP173A32SOT23)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MCP1703A-3002_SOT23|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-MCP1703A-3002_SOT23|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARMCP173A32SOT23|
-|name|name|MCP1703A-3002_SOT23|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MCP1703A-3302_SOT23', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MCP1703A-3002_SOT23', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/20005122B.pdf', 'kicadSymbolki_keywords': 'REGULATOR LDO', 'kicadSymbolki_description': 'Low Quiescent Current LDO Regulator, 3.0V, 250mA, Vin<=16V, SOT-23', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
+|name|name|Regulator_Linear : MCP1703A-3002_SOT23|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'MCP1703A-3302_SOT23'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MCP1703A-3002_SOT23'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-23'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/20005122B.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'REGULATOR LDO'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Low Quiescent Current LDO Regulator</td><td> 3.0V</td><td> 250mA</td><td> Vin<=16V</td><td> SOT-23'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23*'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESEW4XO6811R4681 > RESE-W04-X-O681-01-R4681
+# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESEW4XO6811R4681 > oomlout_OOMP_parts : RESE-W04-X-O681-01-R4681
 
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-W04-X-O681-01-R4681
 - Hex ID: SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESEW4XO6811R4681
-- Name: RESE-W04-X-O681-01-R4681
-- Description: RESE-W04-X-O681-01-R4681
+- Name: oomlout_OOMP_parts : RESE-W04-X-O681-01-R4681
+- Description: oomlout_OOMP_parts : RESE-W04-X-O681-01-R4681
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-W04-X-O681-01-R4681](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-W04-X-O681-01-R4681)
 - Short Link: [http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESEW4XO6811R4681](http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESEW4XO6811R4681)
   
@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|RESE-W04-X-O681-01-R4681|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-W04-X-O681-01-R4681|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESEW4XO6811R4681|
-|name|name|RESE-W04-X-O681-01-R4681|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'R', 'kicadSymbolValue': 'RESE-W04-X-O681-01-R4681', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:RESE-W04-X-O681-01-R4681', 'kicadSymbolDatasheet': 'oom.lt/R4681', 'kicadSymbolki_keywords': 'R res resistor', 'kicadSymbolki_description': 'hexID: R4681;Resistor', 'kicadSymbolki_fp_filters': 'R_*'}]|
+|name|name|oomlout_OOMP_parts : RESE-W04-X-O681-01-R4681|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'R'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'RESE-W04-X-O681-01-R4681'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'oomlout_OOMP_parts</td></tr><tr><td>RESE-W04-X-O681-01-R4681'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'oom.lt/R4681'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'R res resistor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'hexID</td></tr><tr><td> R4681;Resistor'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'R_*'</td></tr></table>]|
 ||||

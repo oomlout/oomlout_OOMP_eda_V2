@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZK74XGXX74AUP1G8 > 74AUP1G80
+# SZK74XGXX74AUP1G8 > 74xGxx : 74AUP1G80
 
 - ID: SYMBOL-kicad-kicad-symbols-74xGxx-74AUP1G80
 - Hex ID: SZK74XGXX74AUP1G8
-- Name: 74AUP1G80
-- Description: 74AUP1G80
+- Name: 74xGxx : 74AUP1G80
+- Description: 74xGxx : 74AUP1G80
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-74xGxx-74AUP1G80](http://oom.lt/SYMBOL-kicad-kicad-symbols-74xGxx-74AUP1G80)
 - Short Link: [http://oom.lt/SZK74XGXX74AUP1G8](http://oom.lt/SZK74XGXX74AUP1G8)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74AUP1G80|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xGxx-74AUP1G80|
 |Hex ID (short code)|hexID|SZK74XGXX74AUP1G8|
-|name|name|74AUP1G80|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '74LVC1G80', 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74AUP1G80', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf', 'kicadSymbolki_keywords': 'Single D Flip-Flop CMOS', 'kicadSymbolki_description': 'Single D Flip-Flop Iverted Output, Low-Voltage CMOS', 'kicadSymbolki_fp_filters': 'SOT* SG*'}]|
+|name|name|74xGxx : 74AUP1G80|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> '74LVC1G80'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> '74AUP1G80'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/sg/scyt129e/scyt129e.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Single D Flip-Flop CMOS'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Single D Flip-Flop Iverted Output</td><td> Low-Voltage CMOS'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT* SG*'</td></tr></table>]|
 ||||

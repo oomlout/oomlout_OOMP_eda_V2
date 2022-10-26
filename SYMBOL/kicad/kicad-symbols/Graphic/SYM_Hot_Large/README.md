@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKGRAPHICSYMHOTL > SYM_Hot_Large
+# SZKGRAPHICSYMHOTL > Graphic : SYM_Hot_Large
 
 - ID: SYMBOL-kicad-kicad-symbols-Graphic-SYM_Hot_Large
 - Hex ID: SZKGRAPHICSYMHOTL
-- Name: SYM_Hot_Large
-- Description: SYM_Hot_Large
+- Name: Graphic : SYM_Hot_Large
+- Description: Graphic : SYM_Hot_Large
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Graphic-SYM_Hot_Large](http://oom.lt/SYMBOL-kicad-kicad-symbols-Graphic-SYM_Hot_Large)
 - Short Link: [http://oom.lt/SZKGRAPHICSYMHOTL](http://oom.lt/SZKGRAPHICSYMHOTL)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SYM_Hot_Large|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Graphic-SYM_Hot_Large|
 |Hex ID (short code)|hexID|SZKGRAPHICSYMHOTL|
-|name|name|SYM_Hot_Large|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': '#SYM', 'kicadSymbolValue': 'SYM_Hot_Large', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'symbol logo hot surface warning heat', 'kicadSymbolki_description': 'Hot surface warning symbol, large'}]|
+|name|name|Graphic : SYM_Hot_Large|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> '#SYM'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'SYM_Hot_Large'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'symbol logo hot surface warning heat'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Hot surface warning symbol</td><td> large'</td></tr></table>]|
 ||||

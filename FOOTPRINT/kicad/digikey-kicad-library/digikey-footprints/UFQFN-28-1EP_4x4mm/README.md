@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-UFQFN-28-1EP_4x4mm|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSUFQFN281EP4X4|
 |name|name|digikey-footprints : UFQFN-28-1EP_4x4mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'UFQFN-28-1EP_4x4mm', 'description': 'http://www.semtech.com/images/datasheet/sx150x_89b.pdf', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'UFQFN-28-1EP_4x4mm'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//www.semtech.com/images/datasheet/sx150x_89b.pdf'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

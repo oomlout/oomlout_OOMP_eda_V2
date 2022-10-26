@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC126XUF47DV5C12U47D > CAPC-1206-X-UF47D-V50-C12U47D
+# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC126XUF47DV5C12U47D > oomlout_OOMP_parts : CAPC-1206-X-UF47D-V50-C12U47D
 
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-1206-X-UF47D-V50-C12U47D
 - Hex ID: SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC126XUF47DV5C12U47D
-- Name: CAPC-1206-X-UF47D-V50-C12U47D
-- Description: CAPC-1206-X-UF47D-V50-C12U47D
+- Name: oomlout_OOMP_parts : CAPC-1206-X-UF47D-V50-C12U47D
+- Description: oomlout_OOMP_parts : CAPC-1206-X-UF47D-V50-C12U47D
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-1206-X-UF47D-V50-C12U47D](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-1206-X-UF47D-V50-C12U47D)
 - Short Link: [http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC126XUF47DV5C12U47D](http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC126XUF47DV5C12U47D)
   
@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|CAPC-1206-X-UF47D-V50-C12U47D|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-1206-X-UF47D-V50-C12U47D|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC126XUF47DV5C12U47D|
-|name|name|CAPC-1206-X-UF47D-V50-C12U47D|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'C', 'kicadSymbolValue': 'CAPC-1206-X-UF47D-V50-C12U47D', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:CAPC-1206-X-UF47D-V50-C12U47D', 'kicadSymbolDatasheet': 'oom.lt/C12U47D', 'kicadSymbolki_keywords': 'cap capacitor', 'kicadSymbolki_description': 'hexID: C12U47D;PARTL C-JLCC;C29823;MANUF C-XXXX;1206B475K500NT;Unpolarized capacitor', 'kicadSymbolki_fp_filters': 'C_*'}]|
+|name|name|oomlout_OOMP_parts : CAPC-1206-X-UF47D-V50-C12U47D|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'C'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'CAPC-1206-X-UF47D-V50-C12U47D'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'oomlout_OOMP_parts</td></tr><tr><td>CAPC-1206-X-UF47D-V50-C12U47D'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'oom.lt/C12U47D'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'cap capacitor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'hexID</td></tr><tr><td> C12U47D;PARTL C-JLCC;C29823;MANUF C-XXXX;1206B475K500NT;Unpolarized capacitor'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'C_*'</td></tr></table>]|
 ||||

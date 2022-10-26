@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_BGA-UCBGA-49_3x3mm_Layout7x7_P0.4mm|
 |Hex ID (short code)|hexID|FZKBGAUCBGA493X3LAYOUT7X7P4|
 |name|name|Package_BGA : UCBGA-49_3x3mm_Layout7x7_P0.4mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'UCBGA-49_3x3mm_Layout7x7_P0.4mm', 'description': 'UCBGA-49, 7x7 raster, 3x3mm package, pitch 0.4mm; https://www.latticesemi.com/view_document?document_id=213', 'tags': 'BGA 49 0.4', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/UCBGA-49_3x3mm_Layout7x7_P0.4mm.wrl', 'pins': {'type': 'smd', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'UCBGA-49_3x3mm_Layout7x7_P0.4mm'</td><td> 'description'</td></tr><tr><td> 'UCBGA-49</td><td> 7x7 raster</td><td> 3x3mm package</td><td> pitch 0.4mm; https</td></tr><tr><td>//www.latticesemi.com/view_document?document_id=213'</td><td> 'tags'</td></tr><tr><td> 'BGA 49 0.4'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_BGA.3dshapes/UCBGA-49_3x3mm_Layout7x7_P0.4mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

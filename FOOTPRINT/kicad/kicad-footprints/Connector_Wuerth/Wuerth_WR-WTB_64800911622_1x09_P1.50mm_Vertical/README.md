@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Wuerth-Wuerth_WR-WTB_64800911622_1x09_P1.50mm_Vertical|
 |Hex ID (short code)|hexID|FZKCNWUERTHWUERTHWRWTB6489116221X9P15VERTICAL|
 |name|name|Connector_Wuerth : Wuerth_WR-WTB_64800911622_1x09_P1.50mm_Vertical|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Wuerth_WR-WTB_64800911622_1x09_P1.50mm_Vertical', 'description': 'Wuerth WR-WTB series connector, 64800911622 (https://katalog.we-online.com/em/datasheet/6480xx11622.pdf), generated with kicad-footprint-generator', 'tags': 'connector Wuerth WR-WTB vertical', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_Wuerth.3dshapes/Wuerth_WR-WTB_64800911622_1x09_P1.50mm_Vertical.wrl', 'pins': {'type': 'thru_hole', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Wuerth_WR-WTB_64800911622_1x09_P1.50mm_Vertical'</td><td> 'description'</td></tr><tr><td> 'Wuerth WR-WTB series connector</td><td> 64800911622 (https</td></tr><tr><td>//katalog.we-online.com/em/datasheet/6480xx11622.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'connector Wuerth WR-WTB vertical'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_Wuerth.3dshapes/Wuerth_WR-WTB_64800911622_1x09_P1.50mm_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

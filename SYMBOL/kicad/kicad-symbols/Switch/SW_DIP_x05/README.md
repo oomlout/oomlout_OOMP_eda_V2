@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKSWITCHSWDIPX5 > SW_DIP_x05
+# SZKSWITCHSWDIPX5 > Switch : SW_DIP_x05
 
 - ID: SYMBOL-kicad-kicad-symbols-Switch-SW_DIP_x05
 - Hex ID: SZKSWITCHSWDIPX5
-- Name: SW_DIP_x05
-- Description: SW_DIP_x05
+- Name: Switch : SW_DIP_x05
+- Description: Switch : SW_DIP_x05
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Switch-SW_DIP_x05](http://oom.lt/SYMBOL-kicad-kicad-symbols-Switch-SW_DIP_x05)
 - Short Link: [http://oom.lt/SZKSWITCHSWDIPX5](http://oom.lt/SZKSWITCHSWDIPX5)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SW_DIP_x05|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Switch-SW_DIP_x05|
 |Hex ID (short code)|hexID|SZKSWITCHSWDIPX5|
-|name|name|SW_DIP_x05|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'SW', 'kicadSymbolValue': 'SW_DIP_x05', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'dip switch', 'kicadSymbolki_description': '5x DIP Switch, Single Pole Single Throw (SPST) switch, small symbol', 'kicadSymbolki_fp_filters': 'SW?DIP?x5*'}]|
+|name|name|Switch : SW_DIP_x05|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'SW'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'SW_DIP_x05'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'dip switch'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '5x DIP Switch</td><td> Single Pole Single Throw (SPST) switch</td><td> small symbol'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SW?DIP?x5*'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMEMORYRAM628128DIP32SS32 > 628128_DIP32_SSOP32
+# SZKMEMORYRAM628128DIP32SS32 > Memory_RAM : 628128_DIP32_SSOP32
 
 - ID: SYMBOL-kicad-kicad-symbols-Memory_RAM-628128_DIP32_SSOP32
 - Hex ID: SZKMEMORYRAM628128DIP32SS32
-- Name: 628128_DIP32_SSOP32
-- Description: 628128_DIP32_SSOP32
+- Name: Memory_RAM : 628128_DIP32_SSOP32
+- Description: Memory_RAM : 628128_DIP32_SSOP32
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_RAM-628128_DIP32_SSOP32](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_RAM-628128_DIP32_SSOP32)
 - Short Link: [http://oom.lt/SZKMEMORYRAM628128DIP32SS32](http://oom.lt/SZKMEMORYRAM628128DIP32SS32)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|628128_DIP32_SSOP32|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Memory_RAM-628128_DIP32_SSOP32|
 |Hex ID (short code)|hexID|SZKMEMORYRAM628128DIP32SS32|
-|name|name|628128_DIP32_SSOP32|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '628128_DIP32_SSOP32', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.futurlec.com/Datasheet/Memory/628128.pdf', 'kicadSymbolki_keywords': 'RAM SRAM CMOS MEMORY', 'kicadSymbolki_description': '128K x 8 High-Speed CMOS Static RAM, 55/70ns, DIP-32/SSOP-32', 'kicadSymbolki_fp_filters': 'DIP*W15.24mm* SSOP*11.305x20.495mm*P1.27mm*'}]|
+|name|name|Memory_RAM : 628128_DIP32_SSOP32|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> '628128_DIP32_SSOP32'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.futurlec.com/Datasheet/Memory/628128.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'RAM SRAM CMOS MEMORY'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '128K x 8 High-Speed CMOS Static RAM</td><td> 55/70ns</td><td> DIP-32/SSOP-32'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W15.24mm* SSOP*11.305x20.495mm*P1.27mm*'</td></tr></table>]|
 ||||

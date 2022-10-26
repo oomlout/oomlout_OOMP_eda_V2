@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Toroid_Vertical_L48.8mm_W25.4mm_P20.80mm_Vishay_TJ8|
 |Hex ID (short code)|hexID|FZKINLTOROIDVERTICALL488W254P28VISHAYTJ8|
 |name|name|Inductor_THT : L_Toroid_Vertical_L48.8mm_W25.4mm_P20.80mm_Vishay_TJ8|
-|Footprint Kicad|footprintKicadDetails|{'name': 'L_Toroid_Vertical_L48.8mm_W25.4mm_P20.80mm_Vishay_TJ8', 'description': 'L_Toroid, Vertical series, Radial, pin pitch=20.80mm, , length*width=48.8*25.4mm^2, Vishay, TJ8, http://www.vishay.com/docs/34079/tj.pdf', 'tags': 'L_Toroid Vertical series Radial pin pitch 20.80mm  length 48.8mm width 25.4mm Vishay TJ8', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Toroid_Vertical_L48.8mm_W25.4mm_P20.80mm_Vishay_TJ8.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'L_Toroid_Vertical_L48.8mm_W25.4mm_P20.80mm_Vishay_TJ8'</td><td> 'description'</td></tr><tr><td> 'L_Toroid</td><td> Vertical series</td><td> Radial</td><td> pin pitch=20.80mm</td><td> </td><td> length*width=48.8*25.4mm^2</td><td> Vishay</td><td> TJ8</td><td> http</td></tr><tr><td>//www.vishay.com/docs/34079/tj.pdf'</td><td> 'tags'</td></tr><tr><td> 'L_Toroid Vertical series Radial pin pitch 20.80mm  length 48.8mm width 25.4mm Vishay TJ8'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Inductor_THT.3dshapes/L_Toroid_Vertical_L48.8mm_W25.4mm_P20.80mm_Vishay_TJ8.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_XLR_Neutrik_NC3MAMH-PH_Horizontal|
 |Hex ID (short code)|hexID|FZKCNAUDIOJXLRNEUTRIKNC3MAMHPHHORIZONTAL|
 |name|name|Connector_Audio : Jack_XLR_Neutrik_NC3MAMH-PH_Horizontal|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Jack_XLR_Neutrik_NC3MAMH-PH_Horizontal', 'description': 'A Series, Chassis connector Phoenix H male (A series layout), mates with Phoenix MSTB 2,5/3-ST, horizontal PCB mount, https://www.neutrik.com/en/product/nc3mamh-ph', 'tags': 'neutrik xlr a', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_Audio.3dshapes/Jack_XLR_Neutrik_NC3MAMH-PH_Horizontal.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Jack_XLR_Neutrik_NC3MAMH-PH_Horizontal'</td><td> 'description'</td></tr><tr><td> 'A Series</td><td> Chassis connector Phoenix H male (A series layout)</td><td> mates with Phoenix MSTB 2</td><td>5/3-ST</td><td> horizontal PCB mount</td><td> https</td></tr><tr><td>//www.neutrik.com/en/product/nc3mamh-ph'</td><td> 'tags'</td></tr><tr><td> 'neutrik xlr a'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_Audio.3dshapes/Jack_XLR_Neutrik_NC3MAMH-PH_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

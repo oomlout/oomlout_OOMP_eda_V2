@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_S-PVQFN-N36_EP4.4x4.4mm_ThermalVias|
 |Hex ID (short code)|hexID|FZKDFNTEXASSPVQFNN36EP44X44THERMALVIAS|
 |name|name|Package_DFN_QFN : Texas_S-PVQFN-N36_EP4.4x4.4mm_ThermalVias|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Texas_S-PVQFN-N36_EP4.4x4.4mm_ThermalVias', 'description': 'QFN, 36 Pin (http://www.ti.com/lit/ds/slvsba5d/slvsba5d.pdf#page=35), generated with kicad-footprint-generator ipc_noLead_generator.py', 'tags': 'QFN NoLead', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Texas_S-PVQFN-N36_EP4.4x4.4mm.wrl', 'pins': {'type': 'smd', 'shape': 'custom'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Texas_S-PVQFN-N36_EP4.4x4.4mm_ThermalVias'</td><td> 'description'</td></tr><tr><td> 'QFN</td><td> 36 Pin (http</td></tr><tr><td>//www.ti.com/lit/ds/slvsba5d/slvsba5d.pdf#page=35)</td><td> generated with kicad-footprint-generator ipc_noLead_generator.py'</td><td> 'tags'</td></tr><tr><td> 'QFN NoLead'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DFN_QFN.3dshapes/Texas_S-PVQFN-N36_EP4.4x4.4mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'custom'</td></tr></table></td></tr></table>|
 ||||
 
 

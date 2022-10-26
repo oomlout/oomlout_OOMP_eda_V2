@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUMCHIPPIC12PIC12CE519ISM > PIC12CE519-ISM
+# SZKMCUMCHIPPIC12PIC12CE519ISM > MCU_Microchip_PIC12 : PIC12CE519-ISM
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC12-PIC12CE519-ISM
 - Hex ID: SZKMCUMCHIPPIC12PIC12CE519ISM
-- Name: PIC12CE519-ISM
-- Description: PIC12CE519-ISM
+- Name: MCU_Microchip_PIC12 : PIC12CE519-ISM
+- Description: MCU_Microchip_PIC12 : PIC12CE519-ISM
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC12-PIC12CE519-ISM](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC12-PIC12CE519-ISM)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC12PIC12CE519ISM](http://oom.lt/SZKMCUMCHIPPIC12PIC12CE519ISM)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PIC12CE519-ISM|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC12-PIC12CE519-ISM|
 |Hex ID (short code)|hexID|SZKMCUMCHIPPIC12PIC12CE519ISM|
-|name|name|PIC12CE519-ISM|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'PIC12CE519-IP', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PIC12CE519-ISM', 'kicadSymbolFootprint': 'Package_DIP:DIP-8_W7.62mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/devicedoc/40139e.pdf', 'kicadSymbolki_keywords': '8-Bit CMOS Microcontroller', 'kicadSymbolki_description': '1024W EPROM, 41B SRAM, SO8 Wide', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
+|name|name|MCU_Microchip_PIC12 : PIC12CE519-ISM|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'PIC12CE519-IP'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'PIC12CE519-ISM'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>DIP-8_W7.62mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/devicedoc/40139e.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> '8-Bit CMOS Microcontroller'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '1024W EPROM</td><td> 41B SRAM</td><td> SO8 Wide'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W7.62mm*'</td></tr></table>]|
 ||||

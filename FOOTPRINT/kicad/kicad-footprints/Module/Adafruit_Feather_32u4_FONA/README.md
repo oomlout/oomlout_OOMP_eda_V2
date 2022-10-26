@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Module-Adafruit_Feather_32u4_FONA|
 |Hex ID (short code)|hexID|FZKMOADAFEATHER32U4FONA|
 |name|name|Module : Adafruit_Feather_32u4_FONA|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Adafruit_Feather_32u4_FONA', 'description': 'Footprint for the Adafruit Feather 32u4 FONA board, https://learn.adafruit.com/adafruit-feather-32u4-fona', 'tags': 'Adafruit Feather 32u4 FONA', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Module.3dshapes/Adafruit_Feather_32u4_FONA.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Adafruit_Feather_32u4_FONA'</td><td> 'description'</td></tr><tr><td> 'Footprint for the Adafruit Feather 32u4 FONA board</td><td> https</td></tr><tr><td>//learn.adafruit.com/adafruit-feather-32u4-fona'</td><td> 'tags'</td></tr><tr><td> 'Adafruit Feather 32u4 FONA'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Module.3dshapes/Adafruit_Feather_32u4_FONA.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

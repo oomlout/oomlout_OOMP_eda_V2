@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-QFN-48-1EP_6x6mm_P0.4mm_EP4.6x4.6mm|
 |Hex ID (short code)|hexID|FZKDFNQFN481EP6X6P4EP46X46|
 |name|name|Package_DFN_QFN : QFN-48-1EP_6x6mm_P0.4mm_EP4.6x4.6mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'QFN-48-1EP_6x6mm_P0.4mm_EP4.6x4.6mm', 'description': 'QFN, 48 Pin (http://infocenter.nordicsemi.com/pdf/nRF51822_PS_v3.3.pdf#page=67), generated with kicad-footprint-generator ipc_noLead_generator.py', 'tags': 'QFN NoLead', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/QFN-48-1EP_6x6mm_P0.4mm_EP4.6x4.6mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'QFN-48-1EP_6x6mm_P0.4mm_EP4.6x4.6mm'</td><td> 'description'</td></tr><tr><td> 'QFN</td><td> 48 Pin (http</td></tr><tr><td>//infocenter.nordicsemi.com/pdf/nRF51822_PS_v3.3.pdf#page=67)</td><td> generated with kicad-footprint-generator ipc_noLead_generator.py'</td><td> 'tags'</td></tr><tr><td> 'QFN NoLead'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DFN_QFN.3dshapes/QFN-48-1EP_6x6mm_P0.4mm_EP4.6x4.6mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

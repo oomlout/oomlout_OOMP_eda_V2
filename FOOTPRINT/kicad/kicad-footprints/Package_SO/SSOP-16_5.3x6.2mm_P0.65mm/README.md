@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SO-SSOP-16_5.3x6.2mm_P0.65mm|
 |Hex ID (short code)|hexID|FZKSOSS1653X62P65|
 |name|name|Package_SO : SSOP-16_5.3x6.2mm_P0.65mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'SSOP-16_5.3x6.2mm_P0.65mm', 'description': 'SSOP, 16 Pin (https://assets.nexperia.com/documents/data-sheet/74HC_HCT165.pdf#page=14), generated with kicad-footprint-generator ipc_gullwing_generator.py', 'tags': 'SSOP SO', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/SSOP-16_5.3x6.2mm_P0.65mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SSOP-16_5.3x6.2mm_P0.65mm'</td><td> 'description'</td></tr><tr><td> 'SSOP</td><td> 16 Pin (https</td></tr><tr><td>//assets.nexperia.com/documents/data-sheet/74HC_HCT165.pdf#page=14)</td><td> generated with kicad-footprint-generator ipc_gullwing_generator.py'</td><td> 'tags'</td></tr><tr><td> 'SSOP SO'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_SO.3dshapes/SSOP-16_5.3x6.2mm_P0.65mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

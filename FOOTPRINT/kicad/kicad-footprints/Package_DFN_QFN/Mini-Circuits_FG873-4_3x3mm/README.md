@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Mini-Circuits_FG873-4_3x3mm|
 |Hex ID (short code)|hexID|FZKDFNMCIRCUITSFG87343X3|
 |name|name|Package_DFN_QFN : Mini-Circuits_FG873-4_3x3mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Mini-Circuits_FG873-4_3x3mm', 'description': 'Mini Circuits Case style FG (https://ww2.minicircuits.com/case_style/FG873.pdf)', 'tags': 'FG873', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Mini-Circuits_FG873-4_3x3mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Mini-Circuits_FG873-4_3x3mm'</td><td> 'description'</td></tr><tr><td> 'Mini Circuits Case style FG (https</td></tr><tr><td>//ww2.minicircuits.com/case_style/FG873.pdf)'</td><td> 'tags'</td></tr><tr><td> 'FG873'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DFN_QFN.3dshapes/Mini-Circuits_FG873-4_3x3mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

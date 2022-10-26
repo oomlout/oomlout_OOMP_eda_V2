@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_Elec_4x5.4|
 |Hex ID (short code)|hexID|FZKCAPACITORSMCELEC4X54|
 |name|name|Capacitor_SMD : C_Elec_4x5.4|
-|Footprint Kicad|footprintKicadDetails|{'name': 'C_Elec_4x5.4', 'description': 'SMD capacitor, aluminum electrolytic nonpolar, 4.0x5.4mm', 'tags': 'capacitor electrolyic nonpolar', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_Elec_4x5.4.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'C_Elec_4x5.4'</td><td> 'description'</td></tr><tr><td> 'SMD capacitor</td><td> aluminum electrolytic nonpolar</td><td> 4.0x5.4mm'</td><td> 'tags'</td></tr><tr><td> 'capacitor electrolyic nonpolar'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Capacitor_SMD.3dshapes/C_Elec_4x5.4.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

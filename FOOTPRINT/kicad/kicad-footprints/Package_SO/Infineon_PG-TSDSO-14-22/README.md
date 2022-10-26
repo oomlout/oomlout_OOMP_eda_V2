@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SO-Infineon_PG-TSDSO-14-22|
 |Hex ID (short code)|hexID|FZKSOINFINEONPGTSDSO1422|
 |name|name|Package_SO : Infineon_PG-TSDSO-14-22|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Infineon_PG-TSDSO-14-22', 'description': 'Infineon_PG-TSDSO-14-22', 'tags': 'Infineon TSDSO 14-22 ', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/Infineon_PG-TSDSO-14-22.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Infineon_PG-TSDSO-14-22'</td><td> 'description'</td></tr><tr><td> 'Infineon_PG-TSDSO-14-22'</td><td> 'tags'</td></tr><tr><td> 'Infineon TSDSO 14-22 '</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_SO.3dshapes/Infineon_PG-TSDSO-14-22.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

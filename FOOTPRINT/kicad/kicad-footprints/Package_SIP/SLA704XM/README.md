@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SIP-SLA704XM|
 |Hex ID (short code)|hexID|FZKSIPSLA74XM|
 |name|name|Package_SIP : SLA704XM|
-|Footprint Kicad|footprintKicadDetails|{'name': 'SLA704XM', 'description': 'SIP SLA704XM (http://www.sumzi.com/upload/files/2007/07/2007073114282034189.PDF)', 'tags': 'SIP', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SIP.3dshapes/SLA704XM.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SLA704XM'</td><td> 'description'</td></tr><tr><td> 'SIP SLA704XM (http</td></tr><tr><td>//www.sumzi.com/upload/files/2007/07/2007073114282034189.PDF)'</td><td> 'tags'</td></tr><tr><td> 'SIP'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_SIP.3dshapes/SLA704XM.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

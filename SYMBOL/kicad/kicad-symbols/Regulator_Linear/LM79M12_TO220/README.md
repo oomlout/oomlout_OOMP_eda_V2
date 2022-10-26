@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORLINEARLM79M12TO22 > LM79M12_TO220
+# SZKREGULATORLINEARLM79M12TO22 > Regulator_Linear : LM79M12_TO220
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-LM79M12_TO220
 - Hex ID: SZKREGULATORLINEARLM79M12TO22
-- Name: LM79M12_TO220
-- Description: LM79M12_TO220
+- Name: Regulator_Linear : LM79M12_TO220
+- Description: Regulator_Linear : LM79M12_TO220
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LM79M12_TO220](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LM79M12_TO220)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARLM79M12TO22](http://oom.lt/SZKREGULATORLINEARLM79M12TO22)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM79M12_TO220|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-LM79M12_TO220|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARLM79M12TO22|
-|name|name|LM79M12_TO220|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LM7905_TO220', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM79M12_TO220', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-220-3_Vertical', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pub/Collateral/MC79M00-D.PDF', 'kicadSymbolki_keywords': 'Voltage Regulator 500mA Negative', 'kicadSymbolki_description': 'Negative 500mA 35V Linear Regulator, Fixed Output 12V, TO-220', 'kicadSymbolki_fp_filters': 'TO?220*'}]|
+|name|name|Regulator_Linear : LM79M12_TO220|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'LM7905_TO220'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LM79M12_TO220'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_THT</td></tr><tr><td>TO-220-3_Vertical'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.onsemi.com/pub/Collateral/MC79M00-D.PDF'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Voltage Regulator 500mA Negative'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Negative 500mA 35V Linear Regulator</td><td> Fixed Output 12V</td><td> TO-220'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TO?220*'</td></tr></table>]|
 ||||

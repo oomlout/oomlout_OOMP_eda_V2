@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKINTERFACECANLINLTC2875DD > LTC2875-DD
+# SZKINTERFACECANLINLTC2875DD > Interface_CAN_LIN : LTC2875-DD
 
 - ID: SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-LTC2875-DD
 - Hex ID: SZKINTERFACECANLINLTC2875DD
-- Name: LTC2875-DD
-- Description: LTC2875-DD
+- Name: Interface_CAN_LIN : LTC2875-DD
+- Description: Interface_CAN_LIN : LTC2875-DD
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-LTC2875-DD](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-LTC2875-DD)
 - Short Link: [http://oom.lt/SZKINTERFACECANLINLTC2875DD](http://oom.lt/SZKINTERFACECANLINLTC2875DD)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LTC2875-DD|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-LTC2875-DD|
 |Hex ID (short code)|hexID|SZKINTERFACECANLINLTC2875DD|
-|name|name|LTC2875-DD|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LTC2875-DD', 'kicadSymbolFootprint': 'Package_DFN_QFN:DFN-8-1EP_3x3mm_P0.5mm_EP1.66x2.38mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/2875f.pdf', 'kicadSymbolki_keywords': 'High-Speed CAN Transceiver', 'kicadSymbolki_description': 'High-Speed CAN Transceiver, 4Mbps, 3.3V or 5V supply, DFN-8', 'kicadSymbolki_fp_filters': 'DFN*1EP*3x3mm*P0.5mm*'}]|
+|name|name|Interface_CAN_LIN : LTC2875-DD|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LTC2875-DD'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>DFN-8-1EP_3x3mm_P0.5mm_EP1.66x2.38mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/2875f.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'High-Speed CAN Transceiver'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'High-Speed CAN Transceiver</td><td> 4Mbps</td><td> 3.3V or 5V supply</td><td> DFN-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DFN*1EP*3x3mm*P0.5mm*'</td></tr></table>]|
 ||||

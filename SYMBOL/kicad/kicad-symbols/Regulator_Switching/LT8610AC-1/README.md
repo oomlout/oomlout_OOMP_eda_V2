@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORSWITCHINGLT861AC1 > LT8610AC-1
+# SZKREGULATORSWITCHINGLT861AC1 > Regulator_Switching : LT8610AC-1
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-LT8610AC-1
 - Hex ID: SZKREGULATORSWITCHINGLT861AC1
-- Name: LT8610AC-1
-- Description: LT8610AC-1
+- Name: Regulator_Switching : LT8610AC-1
+- Description: Regulator_Switching : LT8610AC-1
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LT8610AC-1](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LT8610AC-1)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGLT861AC1](http://oom.lt/SZKREGULATORSWITCHINGLT861AC1)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LT8610AC-1|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-LT8610AC-1|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGLT861AC1|
-|name|name|LT8610AC-1|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LT8610AC', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LT8610AC-1', 'kicadSymbolFootprint': 'Package_SO:LTC_MSOP-16-1EP_3x4mm_P0.5mm_EP2.15x3.26mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/8610acfa.pdf', 'kicadSymbolki_keywords': 'high efficiency speed synchronous monolithic buck step-down switching regulator 42V 3.5A lower feedback voltage minimum vin internal compensation soft-start', 'kicadSymbolki_description': '42V, 3.5A Synchronous Step-Down Regulator with 2.5uA Quiescent Current, Internal Compensation for Improved Transient, Soft-Start at Dropout and Brownout, MSOP-16', 'kicadSymbolki_fp_filters': 'LTC*MSOP*16*1EP*3x4mm*P0.5mm*EP2.15x3.26mm*'}]|
+|name|name|Regulator_Switching : LT8610AC-1|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'LT8610AC'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LT8610AC-1'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>LTC_MSOP-16-1EP_3x4mm_P0.5mm_EP2.15x3.26mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/8610acfa.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'high efficiency speed synchronous monolithic buck step-down switching regulator 42V 3.5A lower feedback voltage minimum vin internal compensation soft-start'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '42V</td><td> 3.5A Synchronous Step-Down Regulator with 2.5uA Quiescent Current</td><td> Internal Compensation for Improved Transient</td><td> Soft-Start at Dropout and Brownout</td><td> MSOP-16'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'LTC*MSOP*16*1EP*3x4mm*P0.5mm*EP2.15x3.26mm*'</td></tr></table>]|
 ||||

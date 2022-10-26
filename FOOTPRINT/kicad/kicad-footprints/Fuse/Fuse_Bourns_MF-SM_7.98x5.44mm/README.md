@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_Bourns_MF-SM_7.98x5.44mm|
 |Hex ID (short code)|hexID|FZKFUFUBOURNSMFSM798X544|
 |name|name|Fuse : Fuse_Bourns_MF-SM_7.98x5.44mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Fuse_Bourns_MF-SM_7.98x5.44mm', 'description': 'https://www.bourns.com/docs/Product-Datasheets/mfsm.pdf', 'tags': 'bourns ptc resettable fuse polyfuse MF-SM MF-SMHT', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Fuse.3dshapes/Fuse_Bourns_MF-SM_7.98x5.44mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Fuse_Bourns_MF-SM_7.98x5.44mm'</td><td> 'description'</td></tr><tr><td> 'https</td></tr><tr><td>//www.bourns.com/docs/Product-Datasheets/mfsm.pdf'</td><td> 'tags'</td></tr><tr><td> 'bourns ptc resettable fuse polyfuse MF-SM MF-SMHT'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Fuse.3dshapes/Fuse_Bourns_MF-SM_7.98x5.44mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

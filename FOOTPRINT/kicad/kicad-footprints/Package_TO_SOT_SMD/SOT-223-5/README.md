@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-223-5|
 |Hex ID (short code)|hexID|FZKPACKAGETOSOTSMSOT2235|
 |name|name|Package_TO_SOT_SMD : SOT-223-5|
-|Footprint Kicad|footprintKicadDetails|{'name': 'SOT-223-5', 'description': 'module CMS SOT223 5 pins, http://ww1.microchip.com/downloads/en/DeviceDoc/51751a.pdf', 'tags': 'CMS SOT', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-223-5.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SOT-223-5'</td><td> 'description'</td></tr><tr><td> 'module CMS SOT223 5 pins</td><td> http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/51751a.pdf'</td><td> 'tags'</td></tr><tr><td> 'CMS SOT'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_TO_SOT_SMD.3dshapes/SOT-223-5.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

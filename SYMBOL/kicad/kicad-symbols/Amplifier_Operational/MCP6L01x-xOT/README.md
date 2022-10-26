@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKAMPLIFIEROPERATIONALMCP6L1XXOT > MCP6L01x-xOT
+# SZKAMPLIFIEROPERATIONALMCP6L1XXOT > Amplifier_Operational : MCP6L01x-xOT
 
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-MCP6L01x-xOT
 - Hex ID: SZKAMPLIFIEROPERATIONALMCP6L1XXOT
-- Name: MCP6L01x-xOT
-- Description: MCP6L01x-xOT
+- Name: Amplifier_Operational : MCP6L01x-xOT
+- Description: Amplifier_Operational : MCP6L01x-xOT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-MCP6L01x-xOT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-MCP6L01x-xOT)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALMCP6L1XXOT](http://oom.lt/SZKAMPLIFIEROPERATIONALMCP6L1XXOT)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MCP6L01x-xOT|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Operational-MCP6L01x-xOT|
 |Hex ID (short code)|hexID|SZKAMPLIFIEROPERATIONALMCP6L1XXOT|
-|name|name|MCP6L01x-xOT|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MCP6L91T-EOT', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MCP6L01x-xOT', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-5', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/devicedoc/22140b.pdf', 'kicadSymbolki_keywords': 'opamp vfa rtr r2r', 'kicadSymbolki_description': 'Single, 1 MHz, 85µA, Rail-to-Rail input and output, SOT-23-5', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
+|name|name|Amplifier_Operational : MCP6L01x-xOT|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'MCP6L91T-EOT'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MCP6L01x-xOT'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-23-5'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/devicedoc/22140b.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'opamp vfa rtr r2r'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Single</td><td> 1 MHz</td><td> 85µA</td><td> Rail-to-Rail input and output</td><td> SOT-23-5'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23*'</td></tr></table>]|
 ||||

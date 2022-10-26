@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Axial_DIN0614_L14.3mm_D5.7mm_P20.32mm_Horizontal|
 |Hex ID (short code)|hexID|FZKRRAXIALDIN614L143D57P232HORIZONTAL|
 |name|name|Resistor_THT : R_Axial_DIN0614_L14.3mm_D5.7mm_P20.32mm_Horizontal|
-|Footprint Kicad|footprintKicadDetails|{'name': 'R_Axial_DIN0614_L14.3mm_D5.7mm_P20.32mm_Horizontal', 'description': 'Resistor, Axial_DIN0614 series, Axial, Horizontal, pin pitch=20.32mm, 1.5W, length*diameter=14.3*5.7mm^2', 'tags': 'Resistor Axial_DIN0614 series Axial Horizontal pin pitch 20.32mm 1.5W length 14.3mm diameter 5.7mm', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_DIN0614_L14.3mm_D5.7mm_P20.32mm_Horizontal.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'R_Axial_DIN0614_L14.3mm_D5.7mm_P20.32mm_Horizontal'</td><td> 'description'</td></tr><tr><td> 'Resistor</td><td> Axial_DIN0614 series</td><td> Axial</td><td> Horizontal</td><td> pin pitch=20.32mm</td><td> 1.5W</td><td> length*diameter=14.3*5.7mm^2'</td><td> 'tags'</td></tr><tr><td> 'Resistor Axial_DIN0614 series Axial Horizontal pin pitch 20.32mm 1.5W length 14.3mm diameter 5.7mm'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Resistor_THT.3dshapes/R_Axial_DIN0614_L14.3mm_D5.7mm_P20.32mm_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

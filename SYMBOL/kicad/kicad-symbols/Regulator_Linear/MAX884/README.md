@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORLINEARMAX884 > MAX884
+# SZKREGULATORLINEARMAX884 > Regulator_Linear : MAX884
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-MAX884
 - Hex ID: SZKREGULATORLINEARMAX884
-- Name: MAX884
-- Description: MAX884
+- Name: Regulator_Linear : MAX884
+- Description: Regulator_Linear : MAX884
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-MAX884](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-MAX884)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARMAX884](http://oom.lt/SZKREGULATORLINEARMAX884)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MAX884|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-MAX884|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARMAX884|
-|name|name|MAX884|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MAX883', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MAX884', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://datasheets.maximintegrated.com/en/ds/MAX882-MAX884.pdf', 'kicadSymbolki_keywords': 'Linear LDO Regulator', 'kicadSymbolki_description': '200mA Linear LDO Regulator, Fixed Output 3.3V or Adjustable with Shutdown Mode, 0C to +70C, DIP-8/SO-8', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm* SOIC*3.9x4.9mm*P1.27mm*'}]|
+|name|name|Regulator_Linear : MAX884|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'MAX883'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MAX884'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//datasheets.maximintegrated.com/en/ds/MAX882-MAX884.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Linear LDO Regulator'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '200mA Linear LDO Regulator</td><td> Fixed Output 3.3V or Adjustable with Shutdown Mode</td><td> 0C to +70C</td><td> DIP-8/SO-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W7.62mm* SOIC*3.9x4.9mm*P1.27mm*'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDIODEPMEG31CEJ > PMEG3010CEJ
+# SZKDIODEPMEG31CEJ > Diode : PMEG3010CEJ
 
 - ID: SYMBOL-kicad-kicad-symbols-Diode-PMEG3010CEJ
 - Hex ID: SZKDIODEPMEG31CEJ
-- Name: PMEG3010CEJ
-- Description: PMEG3010CEJ
+- Name: Diode : PMEG3010CEJ
+- Description: Diode : PMEG3010CEJ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-PMEG3010CEJ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-PMEG3010CEJ)
 - Short Link: [http://oom.lt/SZKDIODEPMEG31CEJ](http://oom.lt/SZKDIODEPMEG31CEJ)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PMEG3010CEJ|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-PMEG3010CEJ|
 |Hex ID (short code)|hexID|SZKDIODEPMEG31CEJ|
-|name|name|PMEG3010CEJ|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'PMEG2005EJ', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'PMEG3010CEJ', 'kicadSymbolFootprint': 'Diode_SMD:D_SOD-323F', 'kicadSymbolDatasheet': 'https://assets.nexperia.com/documents/data-sheet/PMEG3010CEH_PMEG3010CEJ.pdf', 'kicadSymbolki_keywords': 'forward voltage diode', 'kicadSymbolki_description': '30V, 1A very low Vf MEGA Schottky barrier rectifier, SOD-323F', 'kicadSymbolki_fp_filters': 'D*SOD?323F*'}]|
+|name|name|Diode : PMEG3010CEJ|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'PMEG2005EJ'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'PMEG3010CEJ'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Diode_SMD</td></tr><tr><td>D_SOD-323F'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//assets.nexperia.com/documents/data-sheet/PMEG3010CEH_PMEG3010CEJ.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'forward voltage diode'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '30V</td><td> 1A very low Vf MEGA Schottky barrier rectifier</td><td> SOD-323F'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'D*SOD?323F*'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMEMORYFLASHAT25SF81XMHDX > AT25SF081-XMHD-X
+# SZKMEMORYFLASHAT25SF81XMHDX > Memory_Flash : AT25SF081-XMHD-X
 
 - ID: SYMBOL-kicad-kicad-symbols-Memory_Flash-AT25SF081-XMHD-X
 - Hex ID: SZKMEMORYFLASHAT25SF81XMHDX
-- Name: AT25SF081-XMHD-X
-- Description: AT25SF081-XMHD-X
+- Name: Memory_Flash : AT25SF081-XMHD-X
+- Description: Memory_Flash : AT25SF081-XMHD-X
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_Flash-AT25SF081-XMHD-X](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_Flash-AT25SF081-XMHD-X)
 - Short Link: [http://oom.lt/SZKMEMORYFLASHAT25SF81XMHDX](http://oom.lt/SZKMEMORYFLASHAT25SF81XMHDX)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AT25SF081-XMHD-X|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Memory_Flash-AT25SF081-XMHD-X|
 |Hex ID (short code)|hexID|SZKMEMORYFLASHAT25SF81XMHDX|
-|name|name|AT25SF081-XMHD-X|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AT25SF081-XMHD-X', 'kicadSymbolFootprint': 'Package_SO:TSSOP-8_4.4x3mm_P0.65mm', 'kicadSymbolDatasheet': 'https://www.adestotech.com/wp-content/uploads/DS-AT25SF081_045.pdf', 'kicadSymbolki_keywords': 'SPI DSPI QSPI 8Mbit 2.5V', 'kicadSymbolki_description': '8-Mbit, 2.5V Minimum SPI Serial Flash Memory with Dual-I/O and Quad-I/O Support, TSSOP-8', 'kicadSymbolki_fp_filters': 'TSSOP?8*4.4x3mm*P0.65mm*'}]|
+|name|name|Memory_Flash : AT25SF081-XMHD-X|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'AT25SF081-XMHD-X'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>TSSOP-8_4.4x3mm_P0.65mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.adestotech.com/wp-content/uploads/DS-AT25SF081_045.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'SPI DSPI QSPI 8Mbit 2.5V'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '8-Mbit</td><td> 2.5V Minimum SPI Serial Flash Memory with Dual-I/O and Quad-I/O Support</td><td> TSSOP-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TSSOP?8*4.4x3mm*P0.65mm*'</td></tr></table>]|
 ||||

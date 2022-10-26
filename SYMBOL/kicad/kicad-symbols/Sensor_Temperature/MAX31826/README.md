@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKSENTEMPERATUREMAX31826 > MAX31826
+# SZKSENTEMPERATUREMAX31826 > Sensor_Temperature : MAX31826
 
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Temperature-MAX31826
 - Hex ID: SZKSENTEMPERATUREMAX31826
-- Name: MAX31826
-- Description: MAX31826
+- Name: Sensor_Temperature : MAX31826
+- Description: Sensor_Temperature : MAX31826
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-MAX31826](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-MAX31826)
 - Short Link: [http://oom.lt/SZKSENTEMPERATUREMAX31826](http://oom.lt/SZKSENTEMPERATUREMAX31826)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MAX31826|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Temperature-MAX31826|
 |Hex ID (short code)|hexID|SZKSENTEMPERATUREMAX31826|
-|name|name|MAX31826|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MAX31826', 'kicadSymbolFootprint': 'Package_SO:MSOP-8_3x3mm_P0.65mm', 'kicadSymbolDatasheet': 'http://datasheets.maximintegrated.com/en/ds/MAX31826.pdf', 'kicadSymbolki_keywords': '1Wire OneWire Maxim Dallas', 'kicadSymbolki_description': '1-Wire Digital Temperature Sensor with 1Kb Lockable EEPROM MSOP-8', 'kicadSymbolki_fp_filters': 'MSOP*3x3mm*P0.65mm*'}]|
+|name|name|Sensor_Temperature : MAX31826|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MAX31826'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>MSOP-8_3x3mm_P0.65mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//datasheets.maximintegrated.com/en/ds/MAX31826.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> '1Wire OneWire Maxim Dallas'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '1-Wire Digital Temperature Sensor with 1Kb Lockable EEPROM MSOP-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'MSOP*3x3mm*P0.65mm*'</td></tr></table>]|
 ||||

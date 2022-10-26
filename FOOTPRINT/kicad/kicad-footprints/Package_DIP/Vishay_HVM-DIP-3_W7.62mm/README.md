@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DIP-Vishay_HVM-DIP-3_W7.62mm|
 |Hex ID (short code)|hexID|FZKDIPVISHAYHVMDIP3W762|
 |name|name|Package_DIP : Vishay_HVM-DIP-3_W7.62mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Vishay_HVM-DIP-3_W7.62mm', 'description': '3-lead though-hole mounted high-volatge DIP package (based on standard DIP-4), row spacing 7.62 mm (300 mils), see https://www.vishay.com/docs/91361/hexdip.pdf', 'tags': 'THT DIP DIL PDIP 2.54mm 7.62mm 300mil Vishay HVMDIP HEXDIP', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DIP.3dshapes/Vishay_HVM-DIP-3_W7.62mm.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Vishay_HVM-DIP-3_W7.62mm'</td><td> 'description'</td></tr><tr><td> '3-lead though-hole mounted high-volatge DIP package (based on standard DIP-4)</td><td> row spacing 7.62 mm (300 mils)</td><td> see https</td></tr><tr><td>//www.vishay.com/docs/91361/hexdip.pdf'</td><td> 'tags'</td></tr><tr><td> 'THT DIP DIL PDIP 2.54mm 7.62mm 300mil Vishay HVMDIP HEXDIP'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DIP.3dshapes/Vishay_HVM-DIP-3_W7.62mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

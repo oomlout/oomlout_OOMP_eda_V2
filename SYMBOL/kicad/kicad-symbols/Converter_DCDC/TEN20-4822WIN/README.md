@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKCONTEN24822WIN > TEN20-4822WIN
+# SZKCONTEN24822WIN > Converter_DCDC : TEN20-4822WIN
 
 - ID: SYMBOL-kicad-kicad-symbols-Converter_DCDC-TEN20-4822WIN
 - Hex ID: SZKCONTEN24822WIN
-- Name: TEN20-4822WIN
-- Description: TEN20-4822WIN
+- Name: Converter_DCDC : TEN20-4822WIN
+- Description: Converter_DCDC : TEN20-4822WIN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-TEN20-4822WIN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-TEN20-4822WIN)
 - Short Link: [http://oom.lt/SZKCONTEN24822WIN](http://oom.lt/SZKCONTEN24822WIN)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TEN20-4822WIN|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Converter_DCDC-TEN20-4822WIN|
 |Hex ID (short code)|hexID|SZKCONTEN24822WIN|
-|name|name|TEN20-4822WIN|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TEN20-2421WIN', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TEN20-4822WIN', 'kicadSymbolFootprint': 'Converter_DCDC:Converter_DCDC_TRACO_TEN20-xxxx_THT', 'kicadSymbolDatasheet': 'http://www.tracopower.com/products/ten20win.pdf', 'kicadSymbolki_keywords': 'Traco isolated DC/DC Converter module', 'kicadSymbolki_description': '835mA Isolated DC/DC Dual Supply Converter Module, fixed +-12V Output Voltage, 18-75V Input Voltage', 'kicadSymbolki_fp_filters': '*TRACO*TEN20*xxxx*'}]|
+|name|name|Converter_DCDC : TEN20-4822WIN|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'TEN20-2421WIN'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TEN20-4822WIN'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Converter_DCDC</td></tr><tr><td>Converter_DCDC_TRACO_TEN20-xxxx_THT'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.tracopower.com/products/ten20win.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Traco isolated DC/DC Converter module'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '835mA Isolated DC/DC Dual Supply Converter Module</td><td> fixed +-12V Output Voltage</td><td> 18-75V Input Voltage'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> '*TRACO*TEN20*xxxx*'</td></tr></table>]|
 ||||

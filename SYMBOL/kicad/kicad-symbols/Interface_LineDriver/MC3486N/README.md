@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKINTERFACELINEDRIVERMC3486N > MC3486N
+# SZKINTERFACELINEDRIVERMC3486N > Interface_LineDriver : MC3486N
 
 - ID: SYMBOL-kicad-kicad-symbols-Interface_LineDriver-MC3486N
 - Hex ID: SZKINTERFACELINEDRIVERMC3486N
-- Name: MC3486N
-- Description: MC3486N
+- Name: Interface_LineDriver : MC3486N
+- Description: Interface_LineDriver : MC3486N
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_LineDriver-MC3486N](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_LineDriver-MC3486N)
 - Short Link: [http://oom.lt/SZKINTERFACELINEDRIVERMC3486N](http://oom.lt/SZKINTERFACELINEDRIVERMC3486N)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MC3486N|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_LineDriver-MC3486N|
 |Hex ID (short code)|hexID|SZKINTERFACELINEDRIVERMC3486N|
-|name|name|MC3486N|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MC3486N', 'kicadSymbolFootprint': 'Package_DIP:DIP-14_W7.62mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/mc3486.pdf', 'kicadSymbolki_keywords': 'Quadruple differential line receiver', 'kicadSymbolki_description': 'Quadruple differential line receiver, SOIC-16', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
+|name|name|Interface_LineDriver : MC3486N|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MC3486N'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>DIP-14_W7.62mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/mc3486.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Quadruple differential line receiver'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Quadruple differential line receiver</td><td> SOIC-16'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W7.62mm*'</td></tr></table>]|
 ||||

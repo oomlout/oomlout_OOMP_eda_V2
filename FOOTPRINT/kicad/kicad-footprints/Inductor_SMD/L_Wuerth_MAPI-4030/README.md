@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Wuerth_MAPI-4030|
 |Hex ID (short code)|hexID|FZKINDUCTORSMLWUERTHMAPI43|
 |name|name|Inductor_SMD : L_Wuerth_MAPI-4030|
-|Footprint Kicad|footprintKicadDetails|{'name': 'L_Wuerth_MAPI-4030', 'description': 'Inductor, Wuerth Elektronik, Wuerth_MAPI-4030, 4.0mmx4.0mm', 'tags': 'inductor Wuerth smd', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Wuerth_MAPI-4030.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'L_Wuerth_MAPI-4030'</td><td> 'description'</td></tr><tr><td> 'Inductor</td><td> Wuerth Elektronik</td><td> Wuerth_MAPI-4030</td><td> 4.0mmx4.0mm'</td><td> 'tags'</td></tr><tr><td> 'inductor Wuerth smd'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Inductor_SMD.3dshapes/L_Wuerth_MAPI-4030.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_BGA-Maxim_WLP-12|
 |Hex ID (short code)|hexID|FZKBGAMAXIMWLP12|
 |name|name|Package_BGA : Maxim_WLP-12|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Maxim_WLP-12', 'description': 'Maxim_WLP-12 W121B2+1 http://pdfserv.maximintegrated.com/package_dwgs/21-0009.PDF', 'tags': 'Maxim_WLP-12', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/Maxim_WLP-12.wrl', 'pins': {'type': 'smd', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Maxim_WLP-12'</td><td> 'description'</td></tr><tr><td> 'Maxim_WLP-12 W121B2+1 http</td></tr><tr><td>//pdfserv.maximintegrated.com/package_dwgs/21-0009.PDF'</td><td> 'tags'</td></tr><tr><td> 'Maxim_WLP-12'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_BGA.3dshapes/Maxim_WLP-12.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

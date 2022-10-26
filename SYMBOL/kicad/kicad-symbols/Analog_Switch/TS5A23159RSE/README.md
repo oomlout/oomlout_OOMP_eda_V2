@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKANALOGSWITCHTS5A23159RSE > TS5A23159RSE
+# SZKANALOGSWITCHTS5A23159RSE > Analog_Switch : TS5A23159RSE
 
 - ID: SYMBOL-kicad-kicad-symbols-Analog_Switch-TS5A23159RSE
 - Hex ID: SZKANALOGSWITCHTS5A23159RSE
-- Name: TS5A23159RSE
-- Description: TS5A23159RSE
+- Name: Analog_Switch : TS5A23159RSE
+- Description: Analog_Switch : TS5A23159RSE
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-TS5A23159RSE](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-TS5A23159RSE)
 - Short Link: [http://oom.lt/SZKANALOGSWITCHTS5A23159RSE](http://oom.lt/SZKANALOGSWITCHTS5A23159RSE)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TS5A23159RSE|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_Switch-TS5A23159RSE|
 |Hex ID (short code)|hexID|SZKANALOGSWITCHTS5A23159RSE|
-|name|name|TS5A23159RSE|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TS5A23159RSE', 'kicadSymbolFootprint': 'Package_DFN_QFN:Texas_R-PUQFN-N10', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/ts5a23159.pdf', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'switch analog SPDT', 'kicadSymbolki_description': 'Dual SPDT 1ohm Bidirectional Analog Switch with Off protection, UQFN-10', 'kicadSymbolki_fp_filters': 'Texas?R*PUQFN*'}]|
+|name|name|Analog_Switch : TS5A23159RSE|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TS5A23159RSE'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>Texas_R-PUQFN-N10'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/ts5a23159.pdf'</td><td> 'kicadSymbolki_locked'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'switch analog SPDT'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Dual SPDT 1ohm Bidirectional Analog Switch with Off protection</td><td> UQFN-10'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Texas?R*PUQFN*'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKISOLATORADUM141XRW > ADuM1401xRW
+# SZKISOLATORADUM141XRW > Isolator : ADuM1401xRW
 
 - ID: SYMBOL-kicad-kicad-symbols-Isolator-ADuM1401xRW
 - Hex ID: SZKISOLATORADUM141XRW
-- Name: ADuM1401xRW
-- Description: ADuM1401xRW
+- Name: Isolator : ADuM1401xRW
+- Description: Isolator : ADuM1401xRW
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-ADuM1401xRW](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-ADuM1401xRW)
 - Short Link: [http://oom.lt/SZKISOLATORADUM141XRW](http://oom.lt/SZKISOLATORADUM141XRW)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ADuM1401xRW|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Isolator-ADuM1401xRW|
 |Hex ID (short code)|hexID|SZKISOLATORADUM141XRW|
-|name|name|ADuM1401xRW|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ADuM1401xRW', 'kicadSymbolFootprint': 'Package_SO:SOIC-16W_7.5x10.3mm_P1.27mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/ADUM1400_1401_1402.pdf', 'kicadSymbolki_keywords': 'Digital Isolator', 'kicadSymbolki_description': 'Quad Channel Digital Isolator, 10Mbps, SOIC-16', 'kicadSymbolki_fp_filters': 'SOIC*7.5x10.3mm*P1.27mm*'}]|
+|name|name|Isolator : ADuM1401xRW|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ADuM1401xRW'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-16W_7.5x10.3mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/ADUM1400_1401_1402.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Digital Isolator'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Quad Channel Digital Isolator</td><td> 10Mbps</td><td> SOIC-16'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*7.5x10.3mm*P1.27mm*'</td></tr></table>]|
 ||||

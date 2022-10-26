@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKSENPROXIMITYLG26L > LG206L
+# SZKSENPROXIMITYLG26L > Sensor_Proximity : LG206L
 
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Proximity-LG206L
 - Hex ID: SZKSENPROXIMITYLG26L
-- Name: LG206L
-- Description: LG206L
+- Name: Sensor_Proximity : LG206L
+- Description: Sensor_Proximity : LG206L
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Proximity-LG206L](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Proximity-LG206L)
 - Short Link: [http://oom.lt/SZKSENPROXIMITYLG26L](http://oom.lt/SZKSENPROXIMITYLG26L)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LG206L|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Proximity-LG206L|
 |Hex ID (short code)|hexID|SZKSENPROXIMITYLG26L|
-|name|name|LG206L|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LG206L', 'kicadSymbolFootprint': 'OptoDevice:Kodenshi_LG206L', 'kicadSymbolDatasheet': 'http://kodenshi.co.jp/products/pdf/sensor/photointerrupter_ic/LG206L.pdf', 'kicadSymbolki_keywords': 'Photointerrupter infrared LED with photo IC, inverting output, -0.5V to 17V VDD, -20 to +85 degree Celsius, LG206X', 'kicadSymbolki_description': 'Photointerrupter infrared LED with photo IC, inverting output, -0.5V to 17V VDD, -20 to +85 degree Celsius, LG206X', 'kicadSymbolki_fp_filters': 'Kodenshi?LG206L*'}]|
+|name|name|Sensor_Proximity : LG206L|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LG206L'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'OptoDevice</td></tr><tr><td>Kodenshi_LG206L'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//kodenshi.co.jp/products/pdf/sensor/photointerrupter_ic/LG206L.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Photointerrupter infrared LED with photo IC</td><td> inverting output</td><td> -0.5V to 17V VDD</td><td> -20 to +85 degree Celsius</td><td> LG206X'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Photointerrupter infrared LED with photo IC</td><td> inverting output</td><td> -0.5V to 17V VDD</td><td> -20 to +85 degree Celsius</td><td> LG206X'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Kodenshi?LG206L*'</td></tr></table>]|
 ||||

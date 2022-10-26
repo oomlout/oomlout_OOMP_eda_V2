@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORFETFDS2734 > FDS2734
+# SZKTRANSISTORFETFDS2734 > Transistor_FET : FDS2734
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-FDS2734
 - Hex ID: SZKTRANSISTORFETFDS2734
-- Name: FDS2734
-- Description: FDS2734
+- Name: Transistor_FET : FDS2734
+- Description: Transistor_FET : FDS2734
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-FDS2734](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-FDS2734)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETFDS2734](http://oom.lt/SZKTRANSISTORFETFDS2734)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|FDS2734|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-FDS2734|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETFDS2734|
-|name|name|FDS2734|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'IRF8721PBF-1', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'FDS2734', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm', 'kicadSymbolDatasheet': 'http://www.onsemi.com/pub/Collateral/FDS2734-D.pdf', 'kicadSymbolki_keywords': 'N-Channel MOSFET', 'kicadSymbolki_description': '3.0A Id, 250V Vds, N-Channel MOSFET, 117mOhm Ron, SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm*'}]|
+|name|name|Transistor_FET : FDS2734|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'IRF8721PBF-1'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'FDS2734'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-8_3.9x4.9mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.onsemi.com/pub/Collateral/FDS2734-D.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'N-Channel MOSFET'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '3.0A Id</td><td> 250V Vds</td><td> N-Channel MOSFET</td><td> 117mOhm Ron</td><td> SOIC-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*3.9x4.9mm*P1.27mm*'</td></tr></table>]|
 ||||

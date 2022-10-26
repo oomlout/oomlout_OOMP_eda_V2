@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORPOWERMOSTGIPS2K6 > STGIPS20K60
+# SZKTRANSISTORPOWERMOSTGIPS2K6 > Transistor_Power_Module : STGIPS20K60
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_Power_Module-STGIPS20K60
 - Hex ID: SZKTRANSISTORPOWERMOSTGIPS2K6
-- Name: STGIPS20K60
-- Description: STGIPS20K60
+- Name: Transistor_Power_Module : STGIPS20K60
+- Description: Transistor_Power_Module : STGIPS20K60
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_Power_Module-STGIPS20K60](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_Power_Module-STGIPS20K60)
 - Short Link: [http://oom.lt/SZKTRANSISTORPOWERMOSTGIPS2K6](http://oom.lt/SZKTRANSISTORPOWERMOSTGIPS2K6)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|STGIPS20K60|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_Power_Module-STGIPS20K60|
 |Hex ID (short code)|hexID|SZKTRANSISTORPOWERMOSTGIPS2K6|
-|name|name|STGIPS20K60|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'STGIPS20K60', 'kicadSymbolFootprint': 'Transistor_Power_Module:ST_SDIP-25L', 'kicadSymbolDatasheet': 'https://www.st.com/resource/en/datasheet/stgips20k60.pdf', 'kicadSymbolki_keywords': 'SLLIMM IPM inverter short-circuit rugged IGBT', 'kicadSymbolki_description': '18 A, 600 V, 20KHz, 52Wx6,  3-phase, Control Logic, Negative Input , Freewheeling Diode, Undervoltage Lockout, Interlocking, Shut down (SD), Comparator, SDIP-25L', 'kicadSymbolki_fp_filters': 'ST*SDIP*'}]|
+|name|name|Transistor_Power_Module : STGIPS20K60|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'STGIPS20K60'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Transistor_Power_Module</td></tr><tr><td>ST_SDIP-25L'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.st.com/resource/en/datasheet/stgips20k60.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'SLLIMM IPM inverter short-circuit rugged IGBT'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '18 A</td><td> 600 V</td><td> 20KHz</td><td> 52Wx6</td><td>  3-phase</td><td> Control Logic</td><td> Negative Input </td><td> Freewheeling Diode</td><td> Undervoltage Lockout</td><td> Interlocking</td><td> Shut down (SD)</td><td> Comparator</td><td> SDIP-25L'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'ST*SDIP*'</td></tr></table>]|
 ||||

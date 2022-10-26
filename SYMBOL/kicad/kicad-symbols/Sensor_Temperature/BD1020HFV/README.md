@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKSENTEMPERATUREBD12HFV > BD1020HFV
+# SZKSENTEMPERATUREBD12HFV > Sensor_Temperature : BD1020HFV
 
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Temperature-BD1020HFV
 - Hex ID: SZKSENTEMPERATUREBD12HFV
-- Name: BD1020HFV
-- Description: BD1020HFV
+- Name: Sensor_Temperature : BD1020HFV
+- Description: Sensor_Temperature : BD1020HFV
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-BD1020HFV](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-BD1020HFV)
 - Short Link: [http://oom.lt/SZKSENTEMPERATUREBD12HFV](http://oom.lt/SZKSENTEMPERATUREBD12HFV)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BD1020HFV|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Temperature-BD1020HFV|
 |Hex ID (short code)|hexID|SZKSENTEMPERATUREBD12HFV|
-|name|name|BD1020HFV|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'BD1020HFV', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:HVSOF5', 'kicadSymbolDatasheet': 'http://rohmfs.rohm.com/en/products/databook/datasheet/ic/sensor/temperature/bd1020hfv-e.pdf', 'kicadSymbolki_keywords': 'Temperature sensor', 'kicadSymbolki_description': 'Analog Output Temperature Sensor', 'kicadSymbolki_fp_filters': 'HVSOF5*'}]|
+|name|name|Sensor_Temperature : BD1020HFV|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'BD1020HFV'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>HVSOF5'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//rohmfs.rohm.com/en/products/databook/datasheet/ic/sensor/temperature/bd1020hfv-e.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Temperature sensor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Analog Output Temperature Sensor'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'HVSOF5*'</td></tr></table>]|
 ||||

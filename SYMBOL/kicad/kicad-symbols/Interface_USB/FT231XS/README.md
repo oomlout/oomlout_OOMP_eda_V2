@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKINTERFACEUFT231XS > FT231XS
+# SZKINTERFACEUFT231XS > Interface_USB : FT231XS
 
 - ID: SYMBOL-kicad-kicad-symbols-Interface_USB-FT231XS
 - Hex ID: SZKINTERFACEUFT231XS
-- Name: FT231XS
-- Description: FT231XS
+- Name: Interface_USB : FT231XS
+- Description: Interface_USB : FT231XS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-FT231XS](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-FT231XS)
 - Short Link: [http://oom.lt/SZKINTERFACEUFT231XS](http://oom.lt/SZKINTERFACEUFT231XS)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|FT231XS|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_USB-FT231XS|
 |Hex ID (short code)|hexID|SZKINTERFACEUFT231XS|
-|name|name|FT231XS|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'FT231XS', 'kicadSymbolFootprint': 'Package_SO:SSOP-20_3.9x8.7mm_P0.635mm', 'kicadSymbolDatasheet': 'https://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT231X.pdf', 'kicadSymbolki_keywords': 'FTDI USB UART interface converter', 'kicadSymbolki_description': 'Full Speed USB to Full Handshake UART, SSOP-20', 'kicadSymbolki_fp_filters': '*SSOP*3.9x8.7mm*P0.635mm*'}]|
+|name|name|Interface_USB : FT231XS|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'FT231XS'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SSOP-20_3.9x8.7mm_P0.635mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT231X.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'FTDI USB UART interface converter'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Full Speed USB to Full Handshake UART</td><td> SSOP-20'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> '*SSOP*3.9x8.7mm*P0.635mm*'</td></tr></table>]|
 ||||

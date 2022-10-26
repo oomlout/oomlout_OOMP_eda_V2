@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_ACP_CA14V-15_Vertical_Hole|
 |Hex ID (short code)|hexID|FZKPPOTENTIOMETERACPCA14V15VERTICALHOLE|
 |name|name|Potentiometer_THT : Potentiometer_ACP_CA14V-15_Vertical_Hole|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Potentiometer_ACP_CA14V-15_Vertical_Hole', 'description': 'Potentiometer, vertical, shaft hole, ACP CA14V-15, http://www.acptechnologies.com/wp-content/uploads/2017/10/03-ACP-CA14-CE14.pdf', 'tags': 'Potentiometer vertical hole ACP CA14V-15', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Potentiometer_THT.3dshapes/Potentiometer_ACP_CA14V-15_Vertical_Hole.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Potentiometer_ACP_CA14V-15_Vertical_Hole'</td><td> 'description'</td></tr><tr><td> 'Potentiometer</td><td> vertical</td><td> shaft hole</td><td> ACP CA14V-15</td><td> http</td></tr><tr><td>//www.acptechnologies.com/wp-content/uploads/2017/10/03-ACP-CA14-CE14.pdf'</td><td> 'tags'</td></tr><tr><td> 'Potentiometer vertical hole ACP CA14V-15'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Potentiometer_THT.3dshapes/Potentiometer_ACP_CA14V-15_Vertical_Hole.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

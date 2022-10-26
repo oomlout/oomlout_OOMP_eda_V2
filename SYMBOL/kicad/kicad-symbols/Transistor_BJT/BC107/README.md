@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORBJTBC17 > BC107
+# SZKTRANSISTORBJTBC17 > Transistor_BJT : BC107
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC107
 - Hex ID: SZKTRANSISTORBJTBC17
-- Name: BC107
-- Description: BC107
+- Name: Transistor_BJT : BC107
+- Description: Transistor_BJT : BC107
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC107](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC107)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTBC17](http://oom.lt/SZKTRANSISTORBJTBC17)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BC107|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC107|
 |Hex ID (short code)|hexID|SZKTRANSISTORBJTBC17|
-|name|name|BC107|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'BC107', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-18-3', 'kicadSymbolDatasheet': 'http://www.b-kainka.de/Daten/Transistor/BC108.pdf', 'kicadSymbolki_keywords': 'NPN low noise transistor', 'kicadSymbolki_description': '0.1A Ic, 50V Vce, Low Noise General Purpose NPN Transistor, TO-18', 'kicadSymbolki_fp_filters': 'TO?18*'}]|
+|name|name|Transistor_BJT : BC107|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'BC107'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_THT</td></tr><tr><td>TO-18-3'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.b-kainka.de/Daten/Transistor/BC108.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'NPN low noise transistor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '0.1A Ic</td><td> 50V Vce</td><td> Low Noise General Purpose NPN Transistor</td><td> TO-18'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TO?18*'</td></tr></table>]|
 ||||

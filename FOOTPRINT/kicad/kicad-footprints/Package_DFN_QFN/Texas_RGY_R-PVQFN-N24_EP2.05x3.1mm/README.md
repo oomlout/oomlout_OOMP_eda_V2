@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_RGY_R-PVQFN-N24_EP2.05x3.1mm|
 |Hex ID (short code)|hexID|FZKDFNTEXASRGYRPVQFNN24EP25X31|
 |name|name|Package_DFN_QFN : Texas_RGY_R-PVQFN-N24_EP2.05x3.1mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Texas_RGY_R-PVQFN-N24_EP2.05x3.1mm', 'description': 'QFN, 24 Pin (http://www.ti.com/lit/ds/symlink/bq24133.pdf#page=40)', 'tags': 'QFN NoLead', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Texas_RGY_R-PVQFN-N24_EP2.05x3.1mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Texas_RGY_R-PVQFN-N24_EP2.05x3.1mm'</td><td> 'description'</td></tr><tr><td> 'QFN</td><td> 24 Pin (http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/bq24133.pdf#page=40)'</td><td> 'tags'</td></tr><tr><td> 'QFN NoLead'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DFN_QFN.3dshapes/Texas_RGY_R-PVQFN-N24_EP2.05x3.1mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

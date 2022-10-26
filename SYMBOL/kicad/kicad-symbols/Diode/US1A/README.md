@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDIODEUS1A > US1A
+# SZKDIODEUS1A > Diode : US1A
 
 - ID: SYMBOL-kicad-kicad-symbols-Diode-US1A
 - Hex ID: SZKDIODEUS1A
-- Name: US1A
-- Description: US1A
+- Name: Diode : US1A
+- Description: Diode : US1A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-US1A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-US1A)
 - Short Link: [http://oom.lt/SZKDIODEUS1A](http://oom.lt/SZKDIODEUS1A)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|US1A|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-US1A|
 |Hex ID (short code)|hexID|SZKDIODEUS1A|
-|name|name|US1A|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MRA4003T3G', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'US1A', 'kicadSymbolFootprint': 'Diode_SMD:D_SMA', 'kicadSymbolDatasheet': 'https://www.diodes.com/assets/Datasheets/ds16008.pdf', 'kicadSymbolki_keywords': 'Ultra Fast', 'kicadSymbolki_description': '50V, 1A, General Purpose Rectifier Diode, SMA(DO-214AC)', 'kicadSymbolki_fp_filters': 'D*SMA*'}]|
+|name|name|Diode : US1A|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'MRA4003T3G'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'US1A'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Diode_SMD</td></tr><tr><td>D_SMA'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.diodes.com/assets/Datasheets/ds16008.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Ultra Fast'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '50V</td><td> 1A</td><td> General Purpose Rectifier Diode</td><td> SMA(DO-214AC)'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'D*SMA*'</td></tr></table>]|
 ||||

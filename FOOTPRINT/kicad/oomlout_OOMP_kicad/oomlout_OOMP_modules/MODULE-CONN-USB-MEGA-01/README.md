@@ -26,5 +26,5 @@ NO IMAGES
 |Full OOMP ID|oompID|FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_modules-MODULE-CONN-USB-MEGA-01|
 |Hex ID (short code)|hexID|FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPMOSMOCONNUMEGA1|
 |name|name|oomlout_OOMP_modules : MODULE-CONN-USB-MEGA-01|
-|Footprint Kicad|footprintKicadDetails|{'name': 'MODULE-CONN-USB-MEGA-01', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'np_thru_hole', 'shape': 'oval'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'MODULE-CONN-USB-MEGA-01'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'oval'</td></tr></table></td></tr></table>|
 ||||

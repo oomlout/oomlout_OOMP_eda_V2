@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Diode_SMD-Diode_Bridge_Diotec_MicroDil_3.0x3.0x1.8mm|
 |Hex ID (short code)|hexID|FZKDIODESMDIODEBRIDGEDIOTECMDIL3X3X18|
 |name|name|Diode_SMD : Diode_Bridge_Diotec_MicroDil_3.0x3.0x1.8mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Diode_Bridge_Diotec_MicroDil_3.0x3.0x1.8mm', 'description': 'SMD package Diotec Diotec MicroDil, body 3.0x3.0x1.8mm (e.g. diode bridge), see https://diotec.com/tl_files/diotec/files/pdf/datasheets/mys40.pdf', 'tags': 'Diotec MicroDil diode bridge', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/Diode_Bridge_Diotec_MicroDil_3.0x3.0x1.8mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Diode_Bridge_Diotec_MicroDil_3.0x3.0x1.8mm'</td><td> 'description'</td></tr><tr><td> 'SMD package Diotec Diotec MicroDil</td><td> body 3.0x3.0x1.8mm (e.g. diode bridge)</td><td> see https</td></tr><tr><td>//diotec.com/tl_files/diotec/files/pdf/datasheets/mys40.pdf'</td><td> 'tags'</td></tr><tr><td> 'Diotec MicroDil diode bridge'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Diode_SMD.3dshapes/Diode_Bridge_Diotec_MicroDil_3.0x3.0x1.8mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE42XO4711R4O471 > RESE-0402-X-O471-01-R4O471
+# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE42XO4711R4O471 > oomlout_OOMP_parts : RESE-0402-X-O471-01-R4O471
 
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O471-01-R4O471
 - Hex ID: SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE42XO4711R4O471
-- Name: RESE-0402-X-O471-01-R4O471
-- Description: RESE-0402-X-O471-01-R4O471
+- Name: oomlout_OOMP_parts : RESE-0402-X-O471-01-R4O471
+- Description: oomlout_OOMP_parts : RESE-0402-X-O471-01-R4O471
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O471-01-R4O471](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O471-01-R4O471)
 - Short Link: [http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE42XO4711R4O471](http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE42XO4711R4O471)
   
@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|RESE-0402-X-O471-01-R4O471|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O471-01-R4O471|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE42XO4711R4O471|
-|name|name|RESE-0402-X-O471-01-R4O471|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'R', 'kicadSymbolValue': 'RESE-0402-X-O471-01-R4O471', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:RESE-0402-X-O471-01-R4O471', 'kicadSymbolDatasheet': 'oom.lt/R4O471', 'kicadSymbolki_keywords': 'R res resistor', 'kicadSymbolki_description': 'hexID: R4O471;PARTL C-JLCC;C25117;MANUF C-XXXX;0402WGF4700TCE;Resistor', 'kicadSymbolki_fp_filters': 'R_*'}]|
+|name|name|oomlout_OOMP_parts : RESE-0402-X-O471-01-R4O471|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'R'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'RESE-0402-X-O471-01-R4O471'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'oomlout_OOMP_parts</td></tr><tr><td>RESE-0402-X-O471-01-R4O471'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'oom.lt/R4O471'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'R res resistor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'hexID</td></tr><tr><td> R4O471;PARTL C-JLCC;C25117;MANUF C-XXXX;0402WGF4700TCE;Resistor'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'R_*'</td></tr></table>]|
 ||||

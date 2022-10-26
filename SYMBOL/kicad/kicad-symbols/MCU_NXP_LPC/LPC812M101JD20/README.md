@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUNXPLPCLPC812M11JD2 > LPC812M101JD20
+# SZKMCUNXPLPCLPC812M11JD2 > MCU_NXP_LPC : LPC812M101JD20
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_NXP_LPC-LPC812M101JD20
 - Hex ID: SZKMCUNXPLPCLPC812M11JD2
-- Name: LPC812M101JD20
-- Description: LPC812M101JD20
+- Name: MCU_NXP_LPC : LPC812M101JD20
+- Description: MCU_NXP_LPC : LPC812M101JD20
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_LPC-LPC812M101JD20](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_LPC-LPC812M101JD20)
 - Short Link: [http://oom.lt/SZKMCUNXPLPCLPC812M11JD2](http://oom.lt/SZKMCUNXPLPCLPC812M11JD2)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LPC812M101JD20|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_NXP_LPC-LPC812M101JD20|
 |Hex ID (short code)|hexID|SZKMCUNXPLPCLPC812M11JD2|
-|name|name|LPC812M101JD20|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LPC812M101JD20', 'kicadSymbolFootprint': 'Package_SO:SOIC-20W_7.5x12.8mm_P1.27mm', 'kicadSymbolDatasheet': 'http://www.nxp.com/documents/data_sheet/LPC81XM.pdf', 'kicadSymbolki_keywords': 'ARM, 32-bit, Cortex-M0, M0, NXP, microcontroller', 'kicadSymbolki_description': '32-bit ARM Cortex-M0 microcontroller, 16kB flash, 4kB SRAM', 'kicadSymbolki_fp_filters': '*SOIC*7.5x12.8mm*P1.27mm*'}]|
+|name|name|MCU_NXP_LPC : LPC812M101JD20|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LPC812M101JD20'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-20W_7.5x12.8mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.nxp.com/documents/data_sheet/LPC81XM.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'ARM</td><td> 32-bit</td><td> Cortex-M0</td><td> M0</td><td> NXP</td><td> microcontroller'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '32-bit ARM Cortex-M0 microcontroller</td><td> 16kB flash</td><td> 4kB SRAM'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> '*SOIC*7.5x12.8mm*P1.27mm*'</td></tr></table>]|
 ||||

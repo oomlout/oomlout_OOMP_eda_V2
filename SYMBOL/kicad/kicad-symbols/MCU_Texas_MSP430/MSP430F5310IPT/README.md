@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUTEXASMSP43MSP43F531IPT > MSP430F5310IPT
+# SZKMCUTEXASMSP43MSP43F531IPT > MCU_Texas_MSP430 : MSP430F5310IPT
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Texas_MSP430-MSP430F5310IPT
 - Hex ID: SZKMCUTEXASMSP43MSP43F531IPT
-- Name: MSP430F5310IPT
-- Description: MSP430F5310IPT
+- Name: MCU_Texas_MSP430 : MSP430F5310IPT
+- Description: MCU_Texas_MSP430 : MSP430F5310IPT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Texas_MSP430-MSP430F5310IPT](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Texas_MSP430-MSP430F5310IPT)
 - Short Link: [http://oom.lt/SZKMCUTEXASMSP43MSP43F531IPT](http://oom.lt/SZKMCUTEXASMSP43MSP43F531IPT)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MSP430F5310IPT|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Texas_MSP430-MSP430F5310IPT|
 |Hex ID (short code)|hexID|SZKMCUTEXASMSP43MSP43F531IPT|
-|name|name|MSP430F5310IPT|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MSP430F5308IPT', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MSP430F5310IPT', 'kicadSymbolFootprint': 'Package_QFP:LQFP-48_7x7mm_P0.5mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/msp430f5310.pdf', 'kicadSymbolki_keywords': 'TI MSP430 16-bit mixed signal microcontroller', 'kicadSymbolki_description': '32kB Flash, 6kB RAM, LQFP-48', 'kicadSymbolki_fp_filters': 'LQFP*7x7mm*P0.5mm*'}]|
+|name|name|MCU_Texas_MSP430 : MSP430F5310IPT|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'MSP430F5308IPT'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MSP430F5310IPT'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_QFP</td></tr><tr><td>LQFP-48_7x7mm_P0.5mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/msp430f5310.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'TI MSP430 16-bit mixed signal microcontroller'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '32kB Flash</td><td> 6kB RAM</td><td> LQFP-48'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'LQFP*7x7mm*P0.5mm*'</td></tr></table>]|
 ||||

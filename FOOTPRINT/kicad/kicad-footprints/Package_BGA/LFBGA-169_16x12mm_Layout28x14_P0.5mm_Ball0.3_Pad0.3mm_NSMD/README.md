@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_BGA-LFBGA-169_16x12mm_Layout28x14_P0.5mm_Ball0.3_Pad0.3mm_NSMD|
 |Hex ID (short code)|hexID|FZKBGALFBGA16916X12LAYOUT28X14P5BALL3PAD3NSM|
 |name|name|Package_BGA : LFBGA-169_16x12mm_Layout28x14_P0.5mm_Ball0.3_Pad0.3mm_NSMD|
-|Footprint Kicad|footprintKicadDetails|{'name': 'LFBGA-169_16x12mm_Layout28x14_P0.5mm_Ball0.3_Pad0.3mm_NSMD', 'description': 'https://4donline.ihs.com/images/VipMasterIC/IC/SGST/SGSTS20279/SGSTS20279-1.pdf?hkey=EF798316E3902B6ED9A73243A3159BB0', 'tags': 'eMMC Flash LFBGA169', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/LFBGA-169_16x12mm_Layout28x14.wrl', 'pins': {'type': 'smd', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'LFBGA-169_16x12mm_Layout28x14_P0.5mm_Ball0.3_Pad0.3mm_NSMD'</td><td> 'description'</td></tr><tr><td> 'https</td></tr><tr><td>//4donline.ihs.com/images/VipMasterIC/IC/SGST/SGSTS20279/SGSTS20279-1.pdf?hkey=EF798316E3902B6ED9A73243A3159BB0'</td><td> 'tags'</td></tr><tr><td> 'eMMC Flash LFBGA169'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_BGA.3dshapes/LFBGA-169_16x12mm_Layout28x14.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

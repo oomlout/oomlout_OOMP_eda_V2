@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUCYPRESSCY8C4247LQIBL473 > CY8C4247LQI-BL473
+# SZKMCUCYPRESSCY8C4247LQIBL473 > MCU_Cypress : CY8C4247LQI-BL473
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Cypress-CY8C4247LQI-BL473
 - Hex ID: SZKMCUCYPRESSCY8C4247LQIBL473
-- Name: CY8C4247LQI-BL473
-- Description: CY8C4247LQI-BL473
+- Name: MCU_Cypress : CY8C4247LQI-BL473
+- Description: MCU_Cypress : CY8C4247LQI-BL473
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Cypress-CY8C4247LQI-BL473](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Cypress-CY8C4247LQI-BL473)
 - Short Link: [http://oom.lt/SZKMCUCYPRESSCY8C4247LQIBL473](http://oom.lt/SZKMCUCYPRESSCY8C4247LQIBL473)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|CY8C4247LQI-BL473|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Cypress-CY8C4247LQI-BL473|
 |Hex ID (short code)|hexID|SZKMCUCYPRESSCY8C4247LQIBL473|
-|name|name|CY8C4247LQI-BL473|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'CY8C4xx7LQI-4xx', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'CY8C4247LQI-BL473', 'kicadSymbolFootprint': 'Package_DFN_QFN:QFN-56-1EP_7x7mm_P0.4mm_EP5.6x5.6mm', 'kicadSymbolDatasheet': 'http://www.cypress.com/file/137466/download', 'kicadSymbolki_keywords': 'CYPRESS PSOC BLE CY8 CY8C4 ARM CORTEX M0 BLUETOOTH QFN', 'kicadSymbolki_description': ' 56-QFN, 48-MHz ARM® Cortex®-M0, 128KB Flash, 16kB SRAM, 4 UDB, NO CAP-SENSE, NO LCD DRIVE', 'kicadSymbolki_fp_filters': 'QFN*1EP*7x7mm*P0.4mm*'}]|
+|name|name|MCU_Cypress : CY8C4247LQI-BL473|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'CY8C4xx7LQI-4xx'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'CY8C4247LQI-BL473'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>QFN-56-1EP_7x7mm_P0.4mm_EP5.6x5.6mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.cypress.com/file/137466/download'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'CYPRESS PSOC BLE CY8 CY8C4 ARM CORTEX M0 BLUETOOTH QFN'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> ' 56-QFN</td><td> 48-MHz ARM® Cortex®-M0</td><td> 128KB Flash</td><td> 16kB SRAM</td><td> 4 UDB</td><td> NO CAP-SENSE</td><td> NO LCD DRIVE'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'QFN*1EP*7x7mm*P0.4mm*'</td></tr></table>]|
 ||||

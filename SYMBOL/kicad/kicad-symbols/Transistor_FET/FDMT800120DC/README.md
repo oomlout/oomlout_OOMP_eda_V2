@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORFETFDMT812DC > FDMT800120DC
+# SZKTRANSISTORFETFDMT812DC > Transistor_FET : FDMT800120DC
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-FDMT800120DC
 - Hex ID: SZKTRANSISTORFETFDMT812DC
-- Name: FDMT800120DC
-- Description: FDMT800120DC
+- Name: Transistor_FET : FDMT800120DC
+- Description: Transistor_FET : FDMT800120DC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-FDMT800120DC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-FDMT800120DC)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETFDMT812DC](http://oom.lt/SZKTRANSISTORFETFDMT812DC)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|FDMT800120DC|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-FDMT800120DC|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETFDMT812DC|
-|name|name|FDMT800120DC|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'FDMT80060DC', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'FDMT800120DC', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:PQFN_8x8', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pub/Collateral/FDMT800120DC-D.pdf', 'kicadSymbolki_keywords': 'dual-cool-powertrench MOSFET fairchild', 'kicadSymbolki_description': '20A Id, 120V Vds, N-Channel Dual cool 88 PowerTrench MOSFET, 4.2mOhm Ron, 107nC Qgmax, -55 to 150 °C, 8x8mm MLP', 'kicadSymbolki_fp_filters': 'PQFN*8x8*'}]|
+|name|name|Transistor_FET : FDMT800120DC|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'FDMT80060DC'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'FDMT800120DC'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>PQFN_8x8'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.onsemi.com/pub/Collateral/FDMT800120DC-D.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'dual-cool-powertrench MOSFET fairchild'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '20A Id</td><td> 120V Vds</td><td> N-Channel Dual cool 88 PowerTrench MOSFET</td><td> 4.2mOhm Ron</td><td> 107nC Qgmax</td><td> -55 to 150 °C</td><td> 8x8mm MLP'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'PQFN*8x8*'</td></tr></table>]|
 ||||

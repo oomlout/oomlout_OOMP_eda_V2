@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Diode_SMD-Diode_Bridge_OnSemi_SDIP-4L|
 |Hex ID (short code)|hexID|FZKDIODESMDIODEBRIDGEONSEMISDIP4L|
 |name|name|Diode_SMD : Diode_Bridge_OnSemi_SDIP-4L|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Diode_Bridge_OnSemi_SDIP-4L', 'description': 'SMD diode bridge OnSemi SDIP-4L, see https://www.onsemi.com/pdf/datasheet/df10s1-d.pdf', 'tags': 'OnSemi Diode Bridge SDIP-4L', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/Diode_Bridge_OnSemi_SDIP-4L.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Diode_Bridge_OnSemi_SDIP-4L'</td><td> 'description'</td></tr><tr><td> 'SMD diode bridge OnSemi SDIP-4L</td><td> see https</td></tr><tr><td>//www.onsemi.com/pdf/datasheet/df10s1-d.pdf'</td><td> 'tags'</td></tr><tr><td> 'OnSemi Diode Bridge SDIP-4L'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Diode_SMD.3dshapes/Diode_Bridge_OnSemi_SDIP-4L.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

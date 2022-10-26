@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_Abracon_ABM10-4Pin_2.5x2.0mm|
 |Hex ID (short code)|hexID|FZKXXSMABRACONABM14PIN25X2|
 |name|name|Crystal : Crystal_SMD_Abracon_ABM10-4Pin_2.5x2.0mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Crystal_SMD_Abracon_ABM10-4Pin_2.5x2.0mm', 'description': 'Abracon Miniature Ceramic Smd Crystal ABM10 http://www.abracon.com/Resonators/ABM10.pdf', 'tags': 'SMD SMT crystal Abracon ABM10', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Crystal_SMD_Abracon_ABM10-4Pin_2.5x2.0mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Crystal_SMD_Abracon_ABM10-4Pin_2.5x2.0mm'</td><td> 'description'</td></tr><tr><td> 'Abracon Miniature Ceramic Smd Crystal ABM10 http</td></tr><tr><td>//www.abracon.com/Resonators/ABM10.pdf'</td><td> 'tags'</td></tr><tr><td> 'SMD SMT crystal Abracon ABM10'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Crystal.3dshapes/Crystal_SMD_Abracon_ABM10-4Pin_2.5x2.0mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_QFP-VQFP-100_14x14mm_P0.5mm|
 |Hex ID (short code)|hexID|FZKQFPVQFP114X14P5|
 |name|name|Package_QFP : VQFP-100_14x14mm_P0.5mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'VQFP-100_14x14mm_P0.5mm', 'description': 'VQFP, 100 Pin (http://www.microsemi.com/index.php?option=com_docman&task=doc_download&gid=131095), generated with kicad-footprint-generator ipc_gullwing_generator.py', 'tags': 'VQFP QFP', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_QFP.3dshapes/VQFP-100_14x14mm_P0.5mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'VQFP-100_14x14mm_P0.5mm'</td><td> 'description'</td></tr><tr><td> 'VQFP</td><td> 100 Pin (http</td></tr><tr><td>//www.microsemi.com/index.php?option=com_docman&task=doc_download&gid=131095)</td><td> generated with kicad-footprint-generator ipc_gullwing_generator.py'</td><td> 'tags'</td></tr><tr><td> 'VQFP QFP'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_QFP.3dshapes/VQFP-100_14x14mm_P0.5mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

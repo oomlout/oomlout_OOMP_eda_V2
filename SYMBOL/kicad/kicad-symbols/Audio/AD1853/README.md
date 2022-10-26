@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKAUDIOAD1853 > AD1853
+# SZKAUDIOAD1853 > Audio : AD1853
 
 - ID: SYMBOL-kicad-kicad-symbols-Audio-AD1853
 - Hex ID: SZKAUDIOAD1853
-- Name: AD1853
-- Description: AD1853
+- Name: Audio : AD1853
+- Description: Audio : AD1853
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-AD1853](http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-AD1853)
 - Short Link: [http://oom.lt/SZKAUDIOAD1853](http://oom.lt/SZKAUDIOAD1853)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AD1853|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Audio-AD1853|
 |Hex ID (short code)|hexID|SZKAUDIOAD1853|
-|name|name|AD1853|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AD1853', 'kicadSymbolFootprint': 'Package_SO:SSOP-28_5.3x10.2mm_P0.65mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/AD1853.pdf', 'kicadSymbolki_keywords': 'audio dac 2ch 24bit 192kHz', 'kicadSymbolki_description': 'Stereo, 24-Bit, 192 kHz, Multibit Sigma-Delta DAC, SSOP-28', 'kicadSymbolki_fp_filters': 'SSOP*5.3x10.2mm*P0.65mm*'}]|
+|name|name|Audio : AD1853|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'AD1853'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SSOP-28_5.3x10.2mm_P0.65mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/AD1853.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'audio dac 2ch 24bit 192kHz'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Stereo</td><td> 24-Bit</td><td> 192 kHz</td><td> Multibit Sigma-Delta DAC</td><td> SSOP-28'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SSOP*5.3x10.2mm*P0.65mm*'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTIMERRTCDS3231M > DS3231M
+# SZKTIMERRTCDS3231M > Timer_RTC : DS3231M
 
 - ID: SYMBOL-kicad-kicad-symbols-Timer_RTC-DS3231M
 - Hex ID: SZKTIMERRTCDS3231M
-- Name: DS3231M
-- Description: DS3231M
+- Name: Timer_RTC : DS3231M
+- Description: Timer_RTC : DS3231M
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer_RTC-DS3231M](http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer_RTC-DS3231M)
 - Short Link: [http://oom.lt/SZKTIMERRTCDS3231M](http://oom.lt/SZKTIMERRTCDS3231M)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DS3231M|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Timer_RTC-DS3231M|
 |Hex ID (short code)|hexID|SZKTIMERRTCDS3231M|
-|name|name|DS3231M|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'DS3231M', 'kicadSymbolFootprint': 'Package_SO:SOIC-16W_7.5x10.3mm_P1.27mm', 'kicadSymbolDatasheet': 'http://datasheets.maximintegrated.com/en/ds/DS3231.pdf', 'kicadSymbolki_keywords': 'RTC TCXO Realtime Time Clock Crystal Oscillator I2C', 'kicadSymbolki_description': 'Extremely Accurate I2C-Integrated RTC/TCXO/Crystal SOIC-16', 'kicadSymbolki_fp_filters': 'SOIC*7.5x10.3mm*P1.27mm*'}]|
+|name|name|Timer_RTC : DS3231M|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'DS3231M'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-16W_7.5x10.3mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//datasheets.maximintegrated.com/en/ds/DS3231.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'RTC TCXO Realtime Time Clock Crystal Oscillator I2C'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Extremely Accurate I2C-Integrated RTC/TCXO/Crystal SOIC-16'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*7.5x10.3mm*P1.27mm*'</td></tr></table>]|
 ||||

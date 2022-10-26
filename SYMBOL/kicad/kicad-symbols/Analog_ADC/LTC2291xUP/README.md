@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKANALOGADCLTC2291XUP > LTC2291xUP
+# SZKANALOGADCLTC2291XUP > Analog_ADC : LTC2291xUP
 
 - ID: SYMBOL-kicad-kicad-symbols-Analog_ADC-LTC2291xUP
 - Hex ID: SZKANALOGADCLTC2291XUP
-- Name: LTC2291xUP
-- Description: LTC2291xUP
+- Name: Analog_ADC : LTC2291xUP
+- Description: Analog_ADC : LTC2291xUP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-LTC2291xUP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-LTC2291xUP)
 - Short Link: [http://oom.lt/SZKANALOGADCLTC2291XUP](http://oom.lt/SZKANALOGADCLTC2291XUP)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LTC2291xUP|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_ADC-LTC2291xUP|
 |Hex ID (short code)|hexID|SZKANALOGADCLTC2291XUP|
-|name|name|LTC2291xUP|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LTC2282xUP', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LTC2291xUP', 'kicadSymbolFootprint': 'Package_DFN_QFN:QFN-64-1EP_9x9mm_P0.5mm_EP7.15x7.15mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/229321fa.pdf', 'kicadSymbolki_keywords': 'ADC', 'kicadSymbolki_description': 'Dual-Channel, 12-Bit Low Power ADC, 25Msps, QFN-64', 'kicadSymbolki_fp_filters': 'QFN*1EP*9x9mm*P0.5mm*'}]|
+|name|name|Analog_ADC : LTC2291xUP|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'LTC2282xUP'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LTC2291xUP'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>QFN-64-1EP_9x9mm_P0.5mm_EP7.15x7.15mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/229321fa.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'ADC'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Dual-Channel</td><td> 12-Bit Low Power ADC</td><td> 25Msps</td><td> QFN-64'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'QFN*1EP*9x9mm*P0.5mm*'</td></tr></table>]|
 ||||

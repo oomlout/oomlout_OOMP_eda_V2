@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Fuse-Fuseholder_Blade_Mini_Keystone_3568|
 |Hex ID (short code)|hexID|FZKFUFUHOLDERBLADEMKEYSTONE3568|
 |name|name|Fuse : Fuseholder_Blade_Mini_Keystone_3568|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Fuseholder_Blade_Mini_Keystone_3568', 'description': 'fuse holder, car blade fuse mini, http://www.keyelco.com/product-pdf.cfm?p=306', 'tags': 'car blade fuse mini', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Fuse.3dshapes/Fuseholder_Blade_Mini_Keystone_3568.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Fuseholder_Blade_Mini_Keystone_3568'</td><td> 'description'</td></tr><tr><td> 'fuse holder</td><td> car blade fuse mini</td><td> http</td></tr><tr><td>//www.keyelco.com/product-pdf.cfm?p=306'</td><td> 'tags'</td></tr><tr><td> 'car blade fuse mini'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Fuse.3dshapes/Fuseholder_Blade_Mini_Keystone_3568.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

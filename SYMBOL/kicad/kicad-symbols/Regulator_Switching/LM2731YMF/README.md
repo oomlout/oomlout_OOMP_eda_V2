@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORSWITCHINGLM2731YMF > LM2731YMF
+# SZKREGULATORSWITCHINGLM2731YMF > Regulator_Switching : LM2731YMF
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM2731YMF
 - Hex ID: SZKREGULATORSWITCHINGLM2731YMF
-- Name: LM2731YMF
-- Description: LM2731YMF
+- Name: Regulator_Switching : LM2731YMF
+- Description: Regulator_Switching : LM2731YMF
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM2731YMF](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM2731YMF)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGLM2731YMF](http://oom.lt/SZKREGULATORSWITCHINGLM2731YMF)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM2731YMF|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM2731YMF|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGLM2731YMF|
-|name|name|LM2731YMF|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LMR10510XMF', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM2731YMF', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-5', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lm2731.pdf', 'kicadSymbolki_keywords': 'Miniature Step-Up Boost Voltage Regulator', 'kicadSymbolki_description': 'LM27313, 1.8A, 22Vout Boost Voltage Regulator, 600KHz Frequency,', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
+|name|name|Regulator_Switching : LM2731YMF|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'LMR10510XMF'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LM2731YMF'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-23-5'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/lm2731.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Miniature Step-Up Boost Voltage Regulator'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'LM27313</td><td> 1.8A</td><td> 22Vout Boost Voltage Regulator</td><td> 600KHz Frequency</td><td>'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23*'</td></tr></table>]|
 ||||

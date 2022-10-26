@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORFETDMN1H22L > DMN10H220L
+# SZKTRANSISTORFETDMN1H22L > Transistor_FET : DMN10H220L
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-DMN10H220L
 - Hex ID: SZKTRANSISTORFETDMN1H22L
-- Name: DMN10H220L
-- Description: DMN10H220L
+- Name: Transistor_FET : DMN10H220L
+- Description: Transistor_FET : DMN10H220L
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-DMN10H220L](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-DMN10H220L)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETDMN1H22L](http://oom.lt/SZKTRANSISTORFETDMN1H22L)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DMN10H220L|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-DMN10H220L|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETDMN1H22L|
-|name|name|DMN10H220L|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BSS138', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'DMN10H220L', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23', 'kicadSymbolDatasheet': 'http://www.diodes.com/assets/Datasheets/DMN10H220L.pdf', 'kicadSymbolki_keywords': 'N-Channel MOSFET', 'kicadSymbolki_description': '1.6A Id, 100V Vds, N-Channel MOSFET, SOT-23', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
+|name|name|Transistor_FET : DMN10H220L|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'BSS138'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'DMN10H220L'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-23'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.diodes.com/assets/Datasheets/DMN10H220L.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'N-Channel MOSFET'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '1.6A Id</td><td> 100V Vds</td><td> N-Channel MOSFET</td><td> SOT-23'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23*'</td></tr></table>]|
 ||||

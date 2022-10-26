@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SuperSOT-8|
 |Hex ID (short code)|hexID|FZKPACKAGETOSOTSMSUPERSOT8|
 |name|name|Package_TO_SOT_SMD : SuperSOT-8|
-|Footprint Kicad|footprintKicadDetails|{'name': 'SuperSOT-8', 'description': '8-pin SuperSOT package, http://www.icbank.com/icbank_data/semi_package/ssot8_dim.pdf', 'tags': 'SuperSOT-8 SSOT-8', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SuperSOT-8.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SuperSOT-8'</td><td> 'description'</td></tr><tr><td> '8-pin SuperSOT package</td><td> http</td></tr><tr><td>//www.icbank.com/icbank_data/semi_package/ssot8_dim.pdf'</td><td> 'tags'</td></tr><tr><td> 'SuperSOT-8 SSOT-8'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_TO_SOT_SMD.3dshapes/SuperSOT-8.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

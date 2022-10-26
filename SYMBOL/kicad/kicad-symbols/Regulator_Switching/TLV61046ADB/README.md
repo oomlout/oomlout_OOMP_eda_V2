@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORSWITCHINGTLV6146ADB > TLV61046ADB
+# SZKREGULATORSWITCHINGTLV6146ADB > Regulator_Switching : TLV61046ADB
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-TLV61046ADB
 - Hex ID: SZKREGULATORSWITCHINGTLV6146ADB
-- Name: TLV61046ADB
-- Description: TLV61046ADB
+- Name: Regulator_Switching : TLV61046ADB
+- Description: Regulator_Switching : TLV61046ADB
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TLV61046ADB](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TLV61046ADB)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGTLV6146ADB](http://oom.lt/SZKREGULATORSWITCHINGTLV6146ADB)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TLV61046ADB|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-TLV61046ADB|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGTLV6146ADB|
-|name|name|TLV61046ADB|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TLV61046ADB', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-6', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tlv61046a.pdf', 'kicadSymbolki_keywords': 'Step-Up DC-DC Converter', 'kicadSymbolki_description': '28-V Output Voltage Boost Converter with Power Diode and Isolation Switch, SOT-23-6', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
+|name|name|Regulator_Switching : TLV61046ADB|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TLV61046ADB'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-23-6'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/tlv61046a.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Step-Up DC-DC Converter'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '28-V Output Voltage Boost Converter with Power Diode and Isolation Switch</td><td> SOT-23-6'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23*'</td></tr></table>]|
 ||||

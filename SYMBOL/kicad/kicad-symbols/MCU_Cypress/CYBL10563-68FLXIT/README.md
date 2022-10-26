@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUCYPRESSCYBL156368FLXIT > CYBL10563-68FLXIT
+# SZKMCUCYPRESSCYBL156368FLXIT > MCU_Cypress : CYBL10563-68FLXIT
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Cypress-CYBL10563-68FLXIT
 - Hex ID: SZKMCUCYPRESSCYBL156368FLXIT
-- Name: CYBL10563-68FLXIT
-- Description: CYBL10563-68FLXIT
+- Name: MCU_Cypress : CYBL10563-68FLXIT
+- Description: MCU_Cypress : CYBL10563-68FLXIT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Cypress-CYBL10563-68FLXIT](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Cypress-CYBL10563-68FLXIT)
 - Short Link: [http://oom.lt/SZKMCUCYPRESSCYBL156368FLXIT](http://oom.lt/SZKMCUCYPRESSCYBL156368FLXIT)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|CYBL10563-68FLXIT|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Cypress-CYBL10563-68FLXIT|
 |Hex ID (short code)|hexID|SZKMCUCYPRESSCYBL156368FLXIT|
-|name|name|CYBL10563-68FLXIT|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'CYBL10563-68FNXIT', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'CYBL10563-68FLXIT', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.cypress.com/documentation/datasheets/cybl10x6x-family-datasheet-programmable-radio-chip-bluetooth-low-energy', 'kicadSymbolki_keywords': 'CYPRESS PROC BLE CY8BL ARM CORTEX M0 BLUETOOTH WLCSP', 'kicadSymbolki_description': '68-WLCSP, 48-MHz ARM® Cortex®-M0, 128KB Flash, 16kB SRAM, BLE 4.1, CAP-SENSE W/ GESTURES, 2 SCB, 4 TCPWM, I2S, 1 PWM , LCD, 1MSPS 12-BIT SAR', 'kicadSymbolki_fp_filters': 'WLCSP*'}]|
+|name|name|MCU_Cypress : CYBL10563-68FLXIT|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'CYBL10563-68FNXIT'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'CYBL10563-68FLXIT'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.cypress.com/documentation/datasheets/cybl10x6x-family-datasheet-programmable-radio-chip-bluetooth-low-energy'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'CYPRESS PROC BLE CY8BL ARM CORTEX M0 BLUETOOTH WLCSP'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '68-WLCSP</td><td> 48-MHz ARM® Cortex®-M0</td><td> 128KB Flash</td><td> 16kB SRAM</td><td> BLE 4.1</td><td> CAP-SENSE W/ GESTURES</td><td> 2 SCB</td><td> 4 TCPWM</td><td> I2S</td><td> 1 PWM </td><td> LCD</td><td> 1MSPS 12-BIT SAR'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'WLCSP*'</td></tr></table>]|
 ||||

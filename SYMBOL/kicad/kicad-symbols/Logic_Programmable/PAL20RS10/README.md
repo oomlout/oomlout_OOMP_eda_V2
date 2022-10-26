@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKLOGICPROGRAABLEPAL2RS1 > PAL20RS10
+# SZKLOGICPROGRAABLEPAL2RS1 > Logic_Programmable : PAL20RS10
 
 - ID: SYMBOL-kicad-kicad-symbols-Logic_Programmable-PAL20RS10
 - Hex ID: SZKLOGICPROGRAABLEPAL2RS1
-- Name: PAL20RS10
-- Description: PAL20RS10
+- Name: Logic_Programmable : PAL20RS10
+- Description: Logic_Programmable : PAL20RS10
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Logic_Programmable-PAL20RS10](http://oom.lt/SYMBOL-kicad-kicad-symbols-Logic_Programmable-PAL20RS10)
 - Short Link: [http://oom.lt/SZKLOGICPROGRAABLEPAL2RS1](http://oom.lt/SZKLOGICPROGRAABLEPAL2RS1)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PAL20RS10|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Logic_Programmable-PAL20RS10|
 |Hex ID (short code)|hexID|SZKLOGICPROGRAABLEPAL2RS1|
-|name|name|PAL20RS10|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PAL20RS10', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_keywords': 'PAL PLD 20RS10', 'kicadSymbolki_description': 'Programmable Logic Array, DIP-24 (Narrow)', 'kicadSymbolki_fp_filters': 'DIP* PDIP*'}]|
+|name|name|Logic_Programmable : PAL20RS10|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'PAL20RS10'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'PAL PLD 20RS10'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Programmable Logic Array</td><td> DIP-24 (Narrow)'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP* PDIP*'</td></tr></table>]|
 ||||

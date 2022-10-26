@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORCONTROLLERLM3478Q > LM3478QMM
+# SZKREGULATORCONTROLLERLM3478Q > Regulator_Controller : LM3478QMM
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Controller-LM3478QMM
 - Hex ID: SZKREGULATORCONTROLLERLM3478Q
-- Name: LM3478QMM
-- Description: LM3478QMM
+- Name: Regulator_Controller : LM3478QMM
+- Description: Regulator_Controller : LM3478QMM
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-LM3478QMM](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-LM3478QMM)
 - Short Link: [http://oom.lt/SZKREGULATORCONTROLLERLM3478Q](http://oom.lt/SZKREGULATORCONTROLLERLM3478Q)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM3478QMM|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Controller-LM3478QMM|
 |Hex ID (short code)|hexID|SZKREGULATORCONTROLLERLM3478Q|
-|name|name|LM3478QMM|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LM3478MA', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM3478QMM', 'kicadSymbolFootprint': 'Package_SO:VSSOP-8_3.0x3.0mm_P0.65mm', 'kicadSymbolDatasheet': 'https://www.ti.com/lit/gpn/lm3478q-q1', 'kicadSymbolki_keywords': 'Boost flyback SEPIC DC-DC controller Automotive', 'kicadSymbolki_description': '2.97~40V Wide Input Range Boost/SEPIC/Flyback DC-DC Controller, AEC-Q100 Qualified, VSSOP-8', 'kicadSymbolki_fp_filters': 'VSSOP-8_3.0x3.0mm_P0.65mm*'}]|
+|name|name|Regulator_Controller : LM3478QMM|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'LM3478MA'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LM3478QMM'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>VSSOP-8_3.0x3.0mm_P0.65mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.ti.com/lit/gpn/lm3478q-q1'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Boost flyback SEPIC DC-DC controller Automotive'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '2.97~40V Wide Input Range Boost/SEPIC/Flyback DC-DC Controller</td><td> AEC-Q100 Qualified</td><td> VSSOP-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'VSSOP-8_3.0x3.0mm_P0.65mm*'</td></tr></table>]|
 ||||

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SON-Texas_R-PWSON-N12_EP0.4x2mm|
 |Hex ID (short code)|hexID|FZKSONTEXASRPWSONN12EP4X2|
 |name|name|Package_SON : Texas_R-PWSON-N12_EP0.4x2mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Texas_R-PWSON-N12_EP0.4x2mm', 'description': 'http://www.ti.com/lit/ds/symlink/tpd6f003.pdf', 'tags': 'WSON SMD', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SON.3dshapes/Texas_R-PWSON-N12_EP0.4x2mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Texas_R-PWSON-N12_EP0.4x2mm'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/tpd6f003.pdf'</td><td> 'tags'</td></tr><tr><td> 'WSON SMD'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_SON.3dshapes/Texas_R-PWSON-N12_EP0.4x2mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKISOLATORLTV358T > LTV-358T
+# SZKISOLATORLTV358T > Isolator : LTV-358T
 
 - ID: SYMBOL-kicad-kicad-symbols-Isolator-LTV-358T
 - Hex ID: SZKISOLATORLTV358T
-- Name: LTV-358T
-- Description: LTV-358T
+- Name: Isolator : LTV-358T
+- Description: Isolator : LTV-358T
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-LTV-358T](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-LTV-358T)
 - Short Link: [http://oom.lt/SZKISOLATORLTV358T](http://oom.lt/SZKISOLATORLTV358T)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LTV-358T|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Isolator-LTV-358T|
 |Hex ID (short code)|hexID|SZKISOLATORLTV358T|
-|name|name|LTV-358T|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LTV-356T', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LTV-358T', 'kicadSymbolFootprint': 'Package_SO:SO-4_4.4x3.6mm_P2.54mm', 'kicadSymbolDatasheet': 'http://optoelectronics.liteon.com/upload/download/DS70-2001-022/S_110_LTV-358T%2020140520.pdf', 'kicadSymbolki_keywords': 'NPN DC Optocoupler', 'kicadSymbolki_description': 'DC Optocoupler, Vce 120V, CTR 50%, SO-4', 'kicadSymbolki_fp_filters': 'SO*4.4x3.6mm*P2.54mm*'}]|
+|name|name|Isolator : LTV-358T|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'LTV-356T'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LTV-358T'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SO-4_4.4x3.6mm_P2.54mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//optoelectronics.liteon.com/upload/download/DS70-2001-022/S_110_LTV-358T%2020140520.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'NPN DC Optocoupler'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'DC Optocoupler</td><td> Vce 120V</td><td> CTR 50%</td><td> SO-4'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SO*4.4x3.6mm*P2.54mm*'</td></tr></table>]|
 ||||

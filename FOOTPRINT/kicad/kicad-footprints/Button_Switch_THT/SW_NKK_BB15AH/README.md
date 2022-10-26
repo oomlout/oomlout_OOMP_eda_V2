@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_NKK_BB15AH|
 |Hex ID (short code)|hexID|FZKBSWNKKBB15AH|
 |name|name|Button_Switch_THT : SW_NKK_BB15AH|
-|Footprint Kicad|footprintKicadDetails|{'name': 'SW_NKK_BB15AH', 'description': 'https://www.nkkswitches.com/pdf/Bpushbuttons-1.pdf', 'tags': 'Pushbutton Right-angle', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_NKK_BB15AH.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SW_NKK_BB15AH'</td><td> 'description'</td></tr><tr><td> 'https</td></tr><tr><td>//www.nkkswitches.com/pdf/Bpushbuttons-1.pdf'</td><td> 'tags'</td></tr><tr><td> 'Pushbutton Right-angle'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Button_Switch_THT.3dshapes/SW_NKK_BB15AH.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORFETBSP89 > BSP89
+# SZKTRANSISTORFETBSP89 > Transistor_FET : BSP89
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-BSP89
 - Hex ID: SZKTRANSISTORFETBSP89
-- Name: BSP89
-- Description: BSP89
+- Name: Transistor_FET : BSP89
+- Description: Transistor_FET : BSP89
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BSP89](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BSP89)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETBSP89](http://oom.lt/SZKTRANSISTORFETBSP89)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BSP89|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-BSP89|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETBSP89|
-|name|name|BSP89|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'BSP89', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-223-3_TabPin2', 'kicadSymbolDatasheet': 'https://www.infineon.com/dgdl/Infineon-BSP89-DS-v02_02-en.pdf?fileId=db3a30433b47825b013b4b8a07f90d55', 'kicadSymbolki_keywords': 'N-Channel MOSFET', 'kicadSymbolki_description': '0.35A Id, 240V Vds, N-Channel Enhancement Mode MOSFET, SOT-223', 'kicadSymbolki_fp_filters': 'SOT?223*'}]|
+|name|name|Transistor_FET : BSP89|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'BSP89'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-223-3_TabPin2'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.infineon.com/dgdl/Infineon-BSP89-DS-v02_02-en.pdf?fileId=db3a30433b47825b013b4b8a07f90d55'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'N-Channel MOSFET'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '0.35A Id</td><td> 240V Vds</td><td> N-Channel Enhancement Mode MOSFET</td><td> SOT-223'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?223*'</td></tr></table>]|
 ||||

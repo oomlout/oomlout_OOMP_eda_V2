@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_IDC-IDC-Header_2x07_P2.54mm_Horizontal_Lock|
 |Hex ID (short code)|hexID|FZKCNIDCIDCHEADER2X7P254HORIZONTALL|
 |name|name|Connector_IDC : IDC-Header_2x07_P2.54mm_Horizontal_Lock|
-|Footprint Kicad|footprintKicadDetails|{'name': 'IDC-Header_2x07_P2.54mm_Horizontal_Lock', 'description': 'Connector IDC Locked, 10 contacts, compatible header: PANCON HE10 (Series 50, (https://www.reboul.fr/storage/00003af6.pdf)', 'tags': 'connector idc locked', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_IDC.3dshapes/IDC-Header_2x07_P2.54mm_Horizontal_Lock.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'IDC-Header_2x07_P2.54mm_Horizontal_Lock'</td><td> 'description'</td></tr><tr><td> 'Connector IDC Locked</td><td> 10 contacts</td><td> compatible header</td></tr><tr><td> PANCON HE10 (Series 50</td><td> (https</td></tr><tr><td>//www.reboul.fr/storage/00003af6.pdf)'</td><td> 'tags'</td></tr><tr><td> 'connector idc locked'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_IDC.3dshapes/IDC-Header_2x07_P2.54mm_Horizontal_Lock.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

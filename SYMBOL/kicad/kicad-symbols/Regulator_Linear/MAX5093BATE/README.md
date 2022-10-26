@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORLINEARMAX593BATE > MAX5093BATE
+# SZKREGULATORLINEARMAX593BATE > Regulator_Linear : MAX5093BATE
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-MAX5093BATE
 - Hex ID: SZKREGULATORLINEARMAX593BATE
-- Name: MAX5093BATE
-- Description: MAX5093BATE
+- Name: Regulator_Linear : MAX5093BATE
+- Description: Regulator_Linear : MAX5093BATE
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-MAX5093BATE](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-MAX5093BATE)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARMAX593BATE](http://oom.lt/SZKREGULATORLINEARMAX593BATE)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MAX5093BATE|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-MAX5093BATE|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARMAX593BATE|
-|name|name|MAX5093BATE|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MAX5092AATE', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MAX5093BATE', 'kicadSymbolFootprint': 'Package_DFN_QFN:QFN-16-1EP_5x5mm_P0.8mm_EP2.7x2.7mm', 'kicadSymbolDatasheet': 'http://datasheets.maximintegrated.com/en/ds/MAX5092-MAX5093.pdf', 'kicadSymbolki_keywords': 'High Voltage 72V Input LDO Boost Preregulator 250mA 5V', 'kicadSymbolki_description': '4V to 72V Input LDOs with Boost Preregulator, 250mA Output, 5V Preset Vout, TQFN-16', 'kicadSymbolki_fp_filters': 'QFN*5x5mm*P0.8mm*'}]|
+|name|name|Regulator_Linear : MAX5093BATE|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'MAX5092AATE'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MAX5093BATE'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>QFN-16-1EP_5x5mm_P0.8mm_EP2.7x2.7mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//datasheets.maximintegrated.com/en/ds/MAX5092-MAX5093.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'High Voltage 72V Input LDO Boost Preregulator 250mA 5V'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '4V to 72V Input LDOs with Boost Preregulator</td><td> 250mA Output</td><td> 5V Preset Vout</td><td> TQFN-16'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'QFN*5x5mm*P0.8mm*'</td></tr></table>]|
 ||||

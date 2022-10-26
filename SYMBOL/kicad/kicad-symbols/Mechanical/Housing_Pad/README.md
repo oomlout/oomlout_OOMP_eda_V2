@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMECHANICALHOUSINGPAD > Housing_Pad
+# SZKMECHANICALHOUSINGPAD > Mechanical : Housing_Pad
 
 - ID: SYMBOL-kicad-kicad-symbols-Mechanical-Housing_Pad
 - Hex ID: SZKMECHANICALHOUSINGPAD
-- Name: Housing_Pad
-- Description: Housing_Pad
+- Name: Mechanical : Housing_Pad
+- Description: Mechanical : Housing_Pad
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Mechanical-Housing_Pad](http://oom.lt/SYMBOL-kicad-kicad-symbols-Mechanical-Housing_Pad)
 - Short Link: [http://oom.lt/SZKMECHANICALHOUSINGPAD](http://oom.lt/SZKMECHANICALHOUSINGPAD)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Housing_Pad|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Mechanical-Housing_Pad|
 |Hex ID (short code)|hexID|SZKMECHANICALHOUSINGPAD|
-|name|name|Housing_Pad|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'N', 'kicadSymbolValue': 'Housing_Pad', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'housing enclosure shield', 'kicadSymbolki_description': 'Housing with connection pin'}]|
+|name|name|Mechanical : Housing_Pad|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'N'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Housing_Pad'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'housing enclosure shield'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Housing with connection pin'</td></tr></table>]|
 ||||

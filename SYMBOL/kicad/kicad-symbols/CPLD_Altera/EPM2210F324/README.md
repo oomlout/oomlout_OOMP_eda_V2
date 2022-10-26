@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKCPLDALTERAEPM221F324 > EPM2210F324
+# SZKCPLDALTERAEPM221F324 > CPLD_Altera : EPM2210F324
 
 - ID: SYMBOL-kicad-kicad-symbols-CPLD_Altera-EPM2210F324
 - Hex ID: SZKCPLDALTERAEPM221F324
-- Name: EPM2210F324
-- Description: EPM2210F324
+- Name: CPLD_Altera : EPM2210F324
+- Description: CPLD_Altera : EPM2210F324
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-CPLD_Altera-EPM2210F324](http://oom.lt/SYMBOL-kicad-kicad-symbols-CPLD_Altera-EPM2210F324)
 - Short Link: [http://oom.lt/SZKCPLDALTERAEPM221F324](http://oom.lt/SZKCPLDALTERAEPM221F324)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|EPM2210F324|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-CPLD_Altera-EPM2210F324|
 |Hex ID (short code)|hexID|SZKCPLDALTERAEPM221F324|
-|name|name|EPM2210F324|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'EPM2210F324', 'kicadSymbolFootprint': 'Package_BGA:BGA-324_19.0x19.0mm_Layout18x18_P1.0mm_Ball0.5mm_Pad0.4mm_NSMD', 'kicadSymbolDatasheet': 'https://www.altera.com/content/dam/altera-www/global/en_US/pdfs/literature/hb/max2/max2_mii5v1.pdf', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'MAX2 FBGA', 'kicadSymbolki_description': 'Altera MAX2 CPLD with 2210 LE', 'kicadSymbolki_fp_filters': '*BGA*P1.0mm*'}]|
+|name|name|CPLD_Altera : EPM2210F324|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'EPM2210F324'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_BGA</td></tr><tr><td>BGA-324_19.0x19.0mm_Layout18x18_P1.0mm_Ball0.5mm_Pad0.4mm_NSMD'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.altera.com/content/dam/altera-www/global/en_US/pdfs/literature/hb/max2/max2_mii5v1.pdf'</td><td> 'kicadSymbolki_locked'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'MAX2 FBGA'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Altera MAX2 CPLD with 2210 LE'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> '*BGA*P1.0mm*'</td></tr></table>]|
 ||||

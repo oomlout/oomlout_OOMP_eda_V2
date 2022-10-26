@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKANALOGMLX9314XDF > MLX90314xDF
+# SZKANALOGMLX9314XDF > Analog : MLX90314xDF
 
 - ID: SYMBOL-kicad-kicad-symbols-Analog-MLX90314xDF
 - Hex ID: SZKANALOGMLX9314XDF
-- Name: MLX90314xDF
-- Description: MLX90314xDF
+- Name: Analog : MLX90314xDF
+- Description: Analog : MLX90314xDF
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog-MLX90314xDF](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog-MLX90314xDF)
 - Short Link: [http://oom.lt/SZKANALOGMLX9314XDF](http://oom.lt/SZKANALOGMLX9314XDF)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MLX90314xDF|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog-MLX90314xDF|
 |Hex ID (short code)|hexID|SZKANALOGMLX9314XDF|
-|name|name|MLX90314xDF|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MLX90314xDF', 'kicadSymbolFootprint': 'Package_SO:SOIC-16W_7.5x10.3mm_P1.27mm', 'kicadSymbolDatasheet': 'https://www.melexis.com/-/media/files/documents/datasheets/mlx90314-datasheet-melexis.pdf', 'kicadSymbolki_keywords': 'sensor signal conditioning', 'kicadSymbolki_description': 'Programmable Sensor Interface (Signal Conditioner), SOIC-16W', 'kicadSymbolki_fp_filters': 'SOIC*7.5x10.3mm*P1.27mm*'}]|
+|name|name|Analog : MLX90314xDF|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MLX90314xDF'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-16W_7.5x10.3mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.melexis.com/-/media/files/documents/datasheets/mlx90314-datasheet-melexis.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'sensor signal conditioning'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Programmable Sensor Interface (Signal Conditioner)</td><td> SOIC-16W'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*7.5x10.3mm*P1.27mm*'</td></tr></table>]|
 ||||

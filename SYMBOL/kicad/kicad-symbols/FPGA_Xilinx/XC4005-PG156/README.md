@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKFPGAXILINXXC45PG156 > XC4005-PG156
+# SZKFPGAXILINXXC45PG156 > FPGA_Xilinx : XC4005-PG156
 
 - ID: SYMBOL-kicad-kicad-symbols-FPGA_Xilinx-XC4005-PG156
 - Hex ID: SZKFPGAXILINXXC45PG156
-- Name: XC4005-PG156
-- Description: XC4005-PG156
+- Name: FPGA_Xilinx : XC4005-PG156
+- Description: FPGA_Xilinx : XC4005-PG156
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx-XC4005-PG156](http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx-XC4005-PG156)
 - Short Link: [http://oom.lt/SZKFPGAXILINXXC45PG156](http://oom.lt/SZKFPGAXILINXXC45PG156)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|XC4005-PG156|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-FPGA_Xilinx-XC4005-PG156|
 |Hex ID (short code)|hexID|SZKFPGAXILINXXC45PG156|
-|name|name|XC4005-PG156|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'XC4005-PG156', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ''}]|
+|name|name|FPGA_Xilinx : XC4005-PG156|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'XC4005-PG156'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> ''</td></tr></table>]|
 ||||

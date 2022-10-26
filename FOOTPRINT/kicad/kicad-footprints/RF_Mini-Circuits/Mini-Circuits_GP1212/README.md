@@ -29,5 +29,5 @@ NO IMAGE
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-RF_Mini-Circuits-Mini-Circuits_GP1212|
 |Hex ID (short code)|hexID|FZKRFMCIRCUITSGP1212|
 |name|name|RF_Mini-Circuits : Mini-Circuits_GP1212|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Mini-Circuits_GP1212', 'description': 'Footprint for Mini-Circuits case GP1212 (https://ww2.minicircuits.com/case_style/GP731.pdf)', 'tags': 'mini-circuits GP1212', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/RF_Mini-Circuits.3dshapes/Mini-Circuits_GP1212.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Mini-Circuits_GP1212'</td><td> 'description'</td></tr><tr><td> 'Footprint for Mini-Circuits case GP1212 (https</td></tr><tr><td>//ww2.minicircuits.com/case_style/GP731.pdf)'</td><td> 'tags'</td></tr><tr><td> 'mini-circuits GP1212'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/RF_Mini-Circuits.3dshapes/Mini-Circuits_GP1212.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

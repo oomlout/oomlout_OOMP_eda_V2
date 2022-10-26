@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_Cincon_EC6Cxx_Single_THT|
 |Hex ID (short code)|hexID|FZKCONCONCINCONEC6CXXSINGLETHT|
 |name|name|Converter_DCDC : Converter_DCDC_Cincon_EC6Cxx_Single_THT|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Converter_DCDC_Cincon_EC6Cxx_Single_THT', 'description': 'DCDC-Converter, CINCON, EC6Cxx, single output, http://www.cincon.com/upload/media/data%20sheets/Data%20Sheet%20(DC)/C%20CASE/SPEC-EC6C-V12.pdf', 'tags': 'DCDC-Converter CINCON EC6Cxx single output', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Converter_DCDC.3dshapes/Converter_DCDC_Cincon_EC6Cxx_Single_THT.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Converter_DCDC_Cincon_EC6Cxx_Single_THT'</td><td> 'description'</td></tr><tr><td> 'DCDC-Converter</td><td> CINCON</td><td> EC6Cxx</td><td> single output</td><td> http</td></tr><tr><td>//www.cincon.com/upload/media/data%20sheets/Data%20Sheet%20(DC)/C%20CASE/SPEC-EC6C-V12.pdf'</td><td> 'tags'</td></tr><tr><td> 'DCDC-Converter CINCON EC6Cxx single output'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Converter_DCDC.3dshapes/Converter_DCDC_Cincon_EC6Cxx_Single_THT.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

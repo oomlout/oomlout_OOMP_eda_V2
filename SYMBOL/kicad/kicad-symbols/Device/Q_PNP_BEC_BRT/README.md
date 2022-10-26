@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDEVICEQPNPBECBRT > Q_PNP_BEC_BRT
+# SZKDEVICEQPNPBECBRT > Device : Q_PNP_BEC_BRT
 
 - ID: SYMBOL-kicad-kicad-symbols-Device-Q_PNP_BEC_BRT
 - Hex ID: SZKDEVICEQPNPBECBRT
-- Name: Q_PNP_BEC_BRT
-- Description: Q_PNP_BEC_BRT
+- Name: Device : Q_PNP_BEC_BRT
+- Description: Device : Q_PNP_BEC_BRT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Q_PNP_BEC_BRT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Q_PNP_BEC_BRT)
 - Short Link: [http://oom.lt/SZKDEVICEQPNPBECBRT](http://oom.lt/SZKDEVICEQPNPBECBRT)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Q_PNP_BEC_BRT|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-Q_PNP_BEC_BRT|
 |Hex ID (short code)|hexID|SZKDEVICEQPNPBECBRT|
-|name|name|Q_PNP_BEC_BRT|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'Q_PNP_BEC_BRT', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'transistor PNP', 'kicadSymbolki_description': 'PNP bias resistor transistor, base/emitter/collector'}]|
+|name|name|Device : Q_PNP_BEC_BRT|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Q_PNP_BEC_BRT'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'transistor PNP'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'PNP bias resistor transistor</td><td> base/emitter/collector'</td></tr></table>]|
 ||||

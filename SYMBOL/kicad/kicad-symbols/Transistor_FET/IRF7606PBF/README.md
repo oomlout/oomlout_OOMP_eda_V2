@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORFETIRF766PBF > IRF7606PBF
+# SZKTRANSISTORFETIRF766PBF > Transistor_FET : IRF7606PBF
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF7606PBF
 - Hex ID: SZKTRANSISTORFETIRF766PBF
-- Name: IRF7606PBF
-- Description: IRF7606PBF
+- Name: Transistor_FET : IRF7606PBF
+- Description: Transistor_FET : IRF7606PBF
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF7606PBF](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF7606PBF)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETIRF766PBF](http://oom.lt/SZKTRANSISTORFETIRF766PBF)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IRF7606PBF|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF7606PBF|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETIRF766PBF|
-|name|name|IRF7606PBF|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'IRF7606PBF', 'kicadSymbolFootprint': 'Package_SO:MSOP-8_3x3mm_P0.65mm', 'kicadSymbolDatasheet': 'http://www.irf.com/product-info/datasheets/data/irf7606pbf.pdf', 'kicadSymbolki_keywords': 'HexFET Power MOSFET P-MOS', 'kicadSymbolki_description': '-3.6A Id, -30V Vds, HexFET P-MOS Power MOSFET, Ronon 0.09R, Micro8', 'kicadSymbolki_fp_filters': 'MSOP*3x3mm*P0.65mm*'}]|
+|name|name|Transistor_FET : IRF7606PBF|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'IRF7606PBF'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>MSOP-8_3x3mm_P0.65mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.irf.com/product-info/datasheets/data/irf7606pbf.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'HexFET Power MOSFET P-MOS'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '-3.6A Id</td><td> -30V Vds</td><td> HexFET P-MOS Power MOSFET</td><td> Ronon 0.09R</td><td> Micro8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'MSOP*3x3mm*P0.65mm*'</td></tr></table>]|
 ||||

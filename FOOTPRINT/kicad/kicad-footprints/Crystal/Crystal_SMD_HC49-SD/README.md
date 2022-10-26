@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_HC49-SD|
 |Hex ID (short code)|hexID|FZKXXSMHC49SD|
 |name|name|Crystal : Crystal_SMD_HC49-SD|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Crystal_SMD_HC49-SD', 'description': 'SMD Crystal HC-49-SD http://cdn-reichelt.de/documents/datenblatt/B400/xxx-HC49-SMD.pdf, 11.4x4.7mm^2 package', 'tags': 'SMD SMT crystal', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Crystal_SMD_HC49-SD.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Crystal_SMD_HC49-SD'</td><td> 'description'</td></tr><tr><td> 'SMD Crystal HC-49-SD http</td></tr><tr><td>//cdn-reichelt.de/documents/datenblatt/B400/xxx-HC49-SMD.pdf</td><td> 11.4x4.7mm^2 package'</td><td> 'tags'</td></tr><tr><td> 'SMD SMT crystal'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Crystal.3dshapes/Crystal_SMD_HC49-SD.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

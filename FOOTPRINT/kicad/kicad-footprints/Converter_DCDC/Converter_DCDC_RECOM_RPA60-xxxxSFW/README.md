@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_RECOM_RPA60-xxxxSFW|
 |Hex ID (short code)|hexID|FZKCONCONRECOMRPA6XXXXSFW|
 |name|name|Converter_DCDC : Converter_DCDC_RECOM_RPA60-xxxxSFW|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Converter_DCDC_RECOM_RPA60-xxxxSFW', 'description': 'RPA60-FW 60W Isolated DC to DC Converters', 'tags': 'DCDC Regulator Single', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Converter_DCDC.3dshapes/Converter_DCDC_RECOM_RPA60-xxxxSFW.wrl', 'pins': {'type': 'thru_hole', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Converter_DCDC_RECOM_RPA60-xxxxSFW'</td><td> 'description'</td></tr><tr><td> 'RPA60-FW 60W Isolated DC to DC Converters'</td><td> 'tags'</td></tr><tr><td> 'DCDC Regulator Single'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Converter_DCDC.3dshapes/Converter_DCDC_RECOM_RPA60-xxxxSFW.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

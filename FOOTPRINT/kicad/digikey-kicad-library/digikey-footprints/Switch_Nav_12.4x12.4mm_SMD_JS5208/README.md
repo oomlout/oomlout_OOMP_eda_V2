@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Switch_Nav_12.4x12.4mm_SMD_JS5208|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSWITCHNAV124X124SMJS528|
 |name|name|digikey-footprints : Switch_Nav_12.4x12.4mm_SMD_JS5208|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Switch_Nav_12.4x12.4mm_SMD_JS5208', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Switch_Nav_12.4x12.4mm_SMD_JS5208'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

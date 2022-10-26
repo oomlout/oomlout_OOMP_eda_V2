@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORSWITCHINGAP652 > AP6502
+# SZKREGULATORSWITCHINGAP652 > Regulator_Switching : AP6502
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-AP6502
 - Hex ID: SZKREGULATORSWITCHINGAP652
-- Name: AP6502
-- Description: AP6502
+- Name: Regulator_Switching : AP6502
+- Description: Regulator_Switching : AP6502
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-AP6502](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-AP6502)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGAP652](http://oom.lt/SZKREGULATORSWITCHINGAP652)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AP6502|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-AP6502|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGAP652|
-|name|name|AP6502|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AP6502', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.diodes.com/assets/Datasheets/AP6502.pdf', 'kicadSymbolki_keywords': 'buck switching converter', 'kicadSymbolki_description': '340kHz 18V 2A Synchronous DC/DC Buck Converter', 'kicadSymbolki_fp_filters': 'Diodes_SO-8EP*'}]|
+|name|name|Regulator_Switching : AP6502|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'AP6502'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.diodes.com/assets/Datasheets/AP6502.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'buck switching converter'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '340kHz 18V 2A Synchronous DC/DC Buck Converter'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Diodes_SO-8EP*'</td></tr></table>]|
 ||||

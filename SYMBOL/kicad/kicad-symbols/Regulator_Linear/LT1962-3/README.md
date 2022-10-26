@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORLINEARLT19623 > LT1962-3
+# SZKREGULATORLINEARLT19623 > Regulator_Linear : LT1962-3
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT1962-3
 - Hex ID: SZKREGULATORLINEARLT19623
-- Name: LT1962-3
-- Description: LT1962-3
+- Name: Regulator_Linear : LT1962-3
+- Description: Regulator_Linear : LT1962-3
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT1962-3](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT1962-3)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARLT19623](http://oom.lt/SZKREGULATORLINEARLT19623)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LT1962-3|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT1962-3|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARLT19623|
-|name|name|LT1962-3|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LT1962-5', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LT1962-3', 'kicadSymbolFootprint': 'Package_SO:MSOP-8_3x3mm_P0.65mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/1962fb.pdf', 'kicadSymbolki_keywords': 'LDO 3V', 'kicadSymbolki_description': '3.0V, 300mA, Low Noise, Micropower LDO Regulator, MSOP-8', 'kicadSymbolki_fp_filters': 'MSOP*3x3mm*P0.65mm*'}]|
+|name|name|Regulator_Linear : LT1962-3|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'LT1962-5'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LT1962-3'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>MSOP-8_3x3mm_P0.65mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/1962fb.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'LDO 3V'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '3.0V</td><td> 300mA</td><td> Low Noise</td><td> Micropower LDO Regulator</td><td> MSOP-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'MSOP*3x3mm*P0.65mm*'</td></tr></table>]|
 ||||

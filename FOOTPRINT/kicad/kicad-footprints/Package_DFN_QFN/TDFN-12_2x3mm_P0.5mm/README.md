@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-TDFN-12_2x3mm_P0.5mm|
 |Hex ID (short code)|hexID|FZKDFNTDFN122X3P5|
 |name|name|Package_DFN_QFN : TDFN-12_2x3mm_P0.5mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'TDFN-12_2x3mm_P0.5mm', 'description': 'TDFN, 12 Pads, No exposed, http://www.st.com/resource/en/datasheet/stm6600.pdf', 'tags': 'DFN', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/TDFN-12_2x3mm_P0.5mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'TDFN-12_2x3mm_P0.5mm'</td><td> 'description'</td></tr><tr><td> 'TDFN</td><td> 12 Pads</td><td> No exposed</td><td> http</td></tr><tr><td>//www.st.com/resource/en/datasheet/stm6600.pdf'</td><td> 'tags'</td></tr><tr><td> 'DFN'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DFN_QFN.3dshapes/TDFN-12_2x3mm_P0.5mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

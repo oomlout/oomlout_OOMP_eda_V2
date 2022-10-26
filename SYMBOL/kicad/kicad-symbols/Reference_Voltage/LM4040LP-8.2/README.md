@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREFERENCEVOLTAGELM44LP82 > LM4040LP-8.2
+# SZKREFERENCEVOLTAGELM44LP82 > Reference_Voltage : LM4040LP-8.2
 
 - ID: SYMBOL-kicad-kicad-symbols-Reference_Voltage-LM4040LP-8.2
 - Hex ID: SZKREFERENCEVOLTAGELM44LP82
-- Name: LM4040LP-8.2
-- Description: LM4040LP-8.2
+- Name: Reference_Voltage : LM4040LP-8.2
+- Description: Reference_Voltage : LM4040LP-8.2
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-LM4040LP-8.2](http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-LM4040LP-8.2)
 - Short Link: [http://oom.lt/SZKREFERENCEVOLTAGELM44LP82](http://oom.lt/SZKREFERENCEVOLTAGELM44LP82)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM4040LP-8.2|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Reference_Voltage-LM4040LP-8.2|
 |Hex ID (short code)|hexID|SZKREFERENCEVOLTAGELM44LP82|
-|name|name|LM4040LP-8.2|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LM4040LP-2.0', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM4040LP-8.2', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-92_Inline', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lm4040-n.pdf', 'kicadSymbolki_keywords': 'diode device voltage reference shunt', 'kicadSymbolki_description': '8.192V Precision Micropower Shunt Voltage Reference, TO-92', 'kicadSymbolki_fp_filters': 'TO?92*Inline*'}]|
+|name|name|Reference_Voltage : LM4040LP-8.2|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'LM4040LP-2.0'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LM4040LP-8.2'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_THT</td></tr><tr><td>TO-92_Inline'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/lm4040-n.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'diode device voltage reference shunt'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '8.192V Precision Micropower Shunt Voltage Reference</td><td> TO-92'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TO?92*Inline*'</td></tr></table>]|
 ||||

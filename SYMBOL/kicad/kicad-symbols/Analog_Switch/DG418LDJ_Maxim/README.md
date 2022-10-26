@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKANALOGSWITCHDG418LDJMAXIM > DG418LDJ_Maxim
+# SZKANALOGSWITCHDG418LDJMAXIM > Analog_Switch : DG418LDJ_Maxim
 
 - ID: SYMBOL-kicad-kicad-symbols-Analog_Switch-DG418LDJ_Maxim
 - Hex ID: SZKANALOGSWITCHDG418LDJMAXIM
-- Name: DG418LDJ_Maxim
-- Description: DG418LDJ_Maxim
+- Name: Analog_Switch : DG418LDJ_Maxim
+- Description: Analog_Switch : DG418LDJ_Maxim
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-DG418LDJ_Maxim](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-DG418LDJ_Maxim)
 - Short Link: [http://oom.lt/SZKANALOGSWITCHDG418LDJMAXIM](http://oom.lt/SZKANALOGSWITCHDG418LDJMAXIM)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DG418LDJ_Maxim|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_Switch-DG418LDJ_Maxim|
 |Hex ID (short code)|hexID|SZKANALOGSWITCHDG418LDJMAXIM|
-|name|name|DG418LDJ_Maxim|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'DG418LDJ_Maxim', 'kicadSymbolFootprint': 'Package_DIP:DIP-8_W7.62mm', 'kicadSymbolDatasheet': 'https://datasheets.maximintegrated.com/en/ds/DG417-DG419.pdf', 'kicadSymbolki_keywords': 'CMOS Analog Switch', 'kicadSymbolki_description': 'Single SPST 3V Logic Compatible CMOS Analog Switch, normally OFF, 35Ohm Ron, Maxim-variant without Vlogic, DIP-8', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
+|name|name|Analog_Switch : DG418LDJ_Maxim|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'DG418LDJ_Maxim'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>DIP-8_W7.62mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//datasheets.maximintegrated.com/en/ds/DG417-DG419.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'CMOS Analog Switch'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Single SPST 3V Logic Compatible CMOS Analog Switch</td><td> normally OFF</td><td> 35Ohm Ron</td><td> Maxim-variant without Vlogic</td><td> DIP-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W7.62mm*'</td></tr></table>]|
 ||||

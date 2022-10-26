@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDEVICEDDUALSERIESCKASPLIT > D_Dual_Series_CKA_Split
+# SZKDEVICEDDUALSERIESCKASPLIT > Device : D_Dual_Series_CKA_Split
 
 - ID: SYMBOL-kicad-kicad-symbols-Device-D_Dual_Series_CKA_Split
 - Hex ID: SZKDEVICEDDUALSERIESCKASPLIT
-- Name: D_Dual_Series_CKA_Split
-- Description: D_Dual_Series_CKA_Split
+- Name: Device : D_Dual_Series_CKA_Split
+- Description: Device : D_Dual_Series_CKA_Split
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Dual_Series_CKA_Split](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Dual_Series_CKA_Split)
 - Short Link: [http://oom.lt/SZKDEVICEDDUALSERIESCKASPLIT](http://oom.lt/SZKDEVICEDDUALSERIESCKASPLIT)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|D_Dual_Series_CKA_Split|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-D_Dual_Series_CKA_Split|
 |Hex ID (short code)|hexID|SZKDEVICEDDUALSERIESCKASPLIT|
-|name|name|D_Dual_Series_CKA_Split|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'D_Dual_Series_CKA_Split', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'diode', 'kicadSymbolki_description': 'Dual diode, center/cathode/anode'}]|
+|name|name|Device : D_Dual_Series_CKA_Split|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'D_Dual_Series_CKA_Split'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_locked'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'diode'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Dual diode</td><td> center/cathode/anode'</td></tr></table>]|
 ||||

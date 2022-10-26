@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICRESE42XO421R4O42C25882 > RESE-0402-X-O402-01-R4O402-C25882
+# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICRESE42XO421R4O42C25882 > oomlout_OOMP_JLCC_Basic : RESE-0402-X-O402-01-R4O402-C25882
 
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-0402-X-O402-01-R4O402-C25882
 - Hex ID: SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICRESE42XO421R4O42C25882
-- Name: RESE-0402-X-O402-01-R4O402-C25882
-- Description: RESE-0402-X-O402-01-R4O402-C25882
+- Name: oomlout_OOMP_JLCC_Basic : RESE-0402-X-O402-01-R4O402-C25882
+- Description: oomlout_OOMP_JLCC_Basic : RESE-0402-X-O402-01-R4O402-C25882
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-0402-X-O402-01-R4O402-C25882](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-0402-X-O402-01-R4O402-C25882)
 - Short Link: [http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICRESE42XO421R4O42C25882](http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICRESE42XO421R4O42C25882)
   
@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|RESE-0402-X-O402-01-R4O402-C25882|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-0402-X-O402-01-R4O402-C25882|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICRESE42XO421R4O42C25882|
-|name|name|RESE-0402-X-O402-01-R4O402-C25882|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'R', 'kicadSymbolValue': 'RESE-0402-X-O402-01-R4O402-C25882', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:RESE-0402-X-O402-01-R4O402-C25882', 'kicadSymbolDatasheet': 'oom.lt/R4O402', 'kicadSymbolki_keywords': 'R res resistor', 'kicadSymbolki_description': 'hexID: R4O402;PARTL C-JLCC;C25882;MANUF C-XXXX;0402WGF2401TCE;Resistor', 'kicadSymbolki_fp_filters': 'R_*'}]|
+|name|name|oomlout_OOMP_JLCC_Basic : RESE-0402-X-O402-01-R4O402-C25882|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'R'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'RESE-0402-X-O402-01-R4O402-C25882'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'oomlout_OOMP_parts</td></tr><tr><td>RESE-0402-X-O402-01-R4O402-C25882'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'oom.lt/R4O402'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'R res resistor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'hexID</td></tr><tr><td> R4O402;PARTL C-JLCC;C25882;MANUF C-XXXX;0402WGF2401TCE;Resistor'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'R_*'</td></tr></table>]|
 ||||

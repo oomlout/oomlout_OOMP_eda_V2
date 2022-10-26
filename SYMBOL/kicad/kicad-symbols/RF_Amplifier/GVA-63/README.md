@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKRFAMPLIFIERGVA63 > GVA-63
+# SZKRFAMPLIFIERGVA63 > RF_Amplifier : GVA-63
 
 - ID: SYMBOL-kicad-kicad-symbols-RF_Amplifier-GVA-63
 - Hex ID: SZKRFAMPLIFIERGVA63
-- Name: GVA-63
-- Description: GVA-63
+- Name: RF_Amplifier : GVA-63
+- Description: RF_Amplifier : GVA-63
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Amplifier-GVA-63](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Amplifier-GVA-63)
 - Short Link: [http://oom.lt/SZKRFAMPLIFIERGVA63](http://oom.lt/SZKRFAMPLIFIERGVA63)
   
@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|GVA-63|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-RF_Amplifier-GVA-63|
 |Hex ID (short code)|hexID|SZKRFAMPLIFIERGVA63|
-|name|name|GVA-63|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'SPF5189Z', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'GVA-63', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-89-3', 'kicadSymbolDatasheet': 'https://www.minicircuits.com/pdfs/GVA-63+.pdf', 'kicadSymbolki_keywords': 'RF amplifier', 'kicadSymbolki_description': '10-6000MHz +20dB Gain Block, SOT-89', 'kicadSymbolki_fp_filters': 'SOT?89*'}]|
+|name|name|RF_Amplifier : GVA-63|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'SPF5189Z'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'GVA-63'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-89-3'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.minicircuits.com/pdfs/GVA-63+.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'RF amplifier'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '10-6000MHz +20dB Gain Block</td><td> SOT-89'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?89*'</td></tr></table>]|
 ||||

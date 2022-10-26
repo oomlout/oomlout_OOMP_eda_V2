@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKSENGAS413 > 004-0-0013
+# SZKSENGAS413 > Sensor_Gas : 004-0-0013
 
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Gas-004-0-0013
 - Hex ID: SZKSENGAS413
-- Name: 004-0-0013
-- Description: 004-0-0013
+- Name: Sensor_Gas : 004-0-0013
+- Description: Sensor_Gas : 004-0-0013
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Gas-004-0-0013](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Gas-004-0-0013)
 - Short Link: [http://oom.lt/SZKSENGAS413](http://oom.lt/SZKSENGAS413)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|004-0-0013|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Gas-004-0-0013|
 |Hex ID (short code)|hexID|SZKSENGAS413|
-|name|name|004-0-0013|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '004-0-0013', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://rmtplusstoragesenseair.blob.core.windows.net/docs/publicerat/PSP107.pdf', 'kicadSymbolki_keywords': 'Senseair co2 gas sensor pwm modbus', 'kicadSymbolki_description': 'S8 Residential, CO2 sensor, 400-2000 PPM, 1kHz PWM output, Modbus, THT', 'kicadSymbolki_fp_filters': 'Senseair*S8*'}]|
+|name|name|Sensor_Gas : 004-0-0013|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> '004-0-0013'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//rmtplusstoragesenseair.blob.core.windows.net/docs/publicerat/PSP107.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Senseair co2 gas sensor pwm modbus'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'S8 Residential</td><td> CO2 sensor</td><td> 400-2000 PPM</td><td> 1kHz PWM output</td><td> Modbus</td><td> THT'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Senseair*S8*'</td></tr></table>]|
 ||||

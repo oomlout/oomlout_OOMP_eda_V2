@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-QFN-44-1EP_9x9mm_P0.65mm_EP7.5x7.5mm|
 |Hex ID (short code)|hexID|FZKDFNQFN441EP9X9P65EP75X75|
 |name|name|Package_DFN_QFN : QFN-44-1EP_9x9mm_P0.65mm_EP7.5x7.5mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'QFN-44-1EP_9x9mm_P0.65mm_EP7.5x7.5mm', 'description': '44-Lead Plastic Quad Flat, No Lead Package - 9x9 mm Body [QFN]; see section 10.3 of https://www.parallax.com/sites/default/files/downloads/P8X32A-Propeller-Datasheet-v1.4.0_0.pdf', 'tags': 'QFN 0.65', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/QFN-44-1EP_9x9mm_P0.65mm_EP7.5x7.5mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'QFN-44-1EP_9x9mm_P0.65mm_EP7.5x7.5mm'</td><td> 'description'</td></tr><tr><td> '44-Lead Plastic Quad Flat</td><td> No Lead Package - 9x9 mm Body [QFN]; see section 10.3 of https</td></tr><tr><td>//www.parallax.com/sites/default/files/downloads/P8X32A-Propeller-Datasheet-v1.4.0_0.pdf'</td><td> 'tags'</td></tr><tr><td> 'QFN 0.65'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DFN_QFN.3dshapes/QFN-44-1EP_9x9mm_P0.65mm_EP7.5x7.5mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

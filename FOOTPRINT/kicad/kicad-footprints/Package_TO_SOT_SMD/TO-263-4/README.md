@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-TO-263-4|
 |Hex ID (short code)|hexID|FZKPACKAGETOSOTSMTO2634|
 |name|name|Package_TO_SOT_SMD : TO-263-4|
-|Footprint Kicad|footprintKicadDetails|{'name': 'TO-263-4', 'description': 'TO-263 / D2PAK / DDPAK SMD package, http://www.infineon.com/cms/en/product/packages/PG-TO263/PG-TO263-5-1/', 'tags': 'D2PAK DDPAK TO-263 D2PAK-5 TO-263-5 SOT-426', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/TO-263-4.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'TO-263-4'</td><td> 'description'</td></tr><tr><td> 'TO-263 / D2PAK / DDPAK SMD package</td><td> http</td></tr><tr><td>//www.infineon.com/cms/en/product/packages/PG-TO263/PG-TO263-5-1/'</td><td> 'tags'</td></tr><tr><td> 'D2PAK DDPAK TO-263 D2PAK-5 TO-263-5 SOT-426'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_TO_SOT_SMD.3dshapes/TO-263-4.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

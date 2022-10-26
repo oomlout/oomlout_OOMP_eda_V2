@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Bluetooth_Module_BC127|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSBLUETOOTHMOBC127|
 |name|name|digikey-footprints : Bluetooth_Module_BC127|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Bluetooth_Module_BC127', 'description': 'https://www.bluecreation.com/userfiles/DataSheet-BC127-latest3.pdf', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Bluetooth_Module_BC127'</td><td> 'description'</td></tr><tr><td> 'https</td></tr><tr><td>//www.bluecreation.com/userfiles/DataSheet-BC127-latest3.pdf'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

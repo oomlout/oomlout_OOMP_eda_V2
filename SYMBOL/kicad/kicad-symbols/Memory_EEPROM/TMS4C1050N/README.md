@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMEMORYEEPROMTMS4C15N > TMS4C1050N
+# SZKMEMORYEEPROMTMS4C15N > Memory_EEPROM : TMS4C1050N
 
 - ID: SYMBOL-kicad-kicad-symbols-Memory_EEPROM-TMS4C1050N
 - Hex ID: SZKMEMORYEEPROMTMS4C15N
-- Name: TMS4C1050N
-- Description: TMS4C1050N
+- Name: Memory_EEPROM : TMS4C1050N
+- Description: Memory_EEPROM : TMS4C1050N
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_EEPROM-TMS4C1050N](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_EEPROM-TMS4C1050N)
 - Short Link: [http://oom.lt/SZKMEMORYEEPROMTMS4C15N](http://oom.lt/SZKMEMORYEEPROMTMS4C15N)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TMS4C1050N|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Memory_EEPROM-TMS4C1050N|
 |Hex ID (short code)|hexID|SZKMEMORYEEPROMTMS4C15N|
-|name|name|TMS4C1050N|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TMS4C1050N', 'kicadSymbolFootprint': 'Package_DIP:DIP-16_W7.62mm', 'kicadSymbolDatasheet': 'http://www.datasheets360.com/pdf/3640170882560205603', 'kicadSymbolki_keywords': 'Field Memory', 'kicadSymbolki_description': 'Field Memory, 262264 x 4 bit, [Obsolete 1992-01]', 'kicadSymbolki_fp_filters': 'DIP*'}]|
+|name|name|Memory_EEPROM : TMS4C1050N|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TMS4C1050N'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>DIP-16_W7.62mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.datasheets360.com/pdf/3640170882560205603'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Field Memory'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Field Memory</td><td> 262264 x 4 bit</td><td> [Obsolete 1992-01]'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKGRAPHICSYMFLASHXL > SYM_Flash_XLarge
+# SZKGRAPHICSYMFLASHXL > Graphic : SYM_Flash_XLarge
 
 - ID: SYMBOL-kicad-kicad-symbols-Graphic-SYM_Flash_XLarge
 - Hex ID: SZKGRAPHICSYMFLASHXL
-- Name: SYM_Flash_XLarge
-- Description: SYM_Flash_XLarge
+- Name: Graphic : SYM_Flash_XLarge
+- Description: Graphic : SYM_Flash_XLarge
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Graphic-SYM_Flash_XLarge](http://oom.lt/SYMBOL-kicad-kicad-symbols-Graphic-SYM_Flash_XLarge)
 - Short Link: [http://oom.lt/SZKGRAPHICSYMFLASHXL](http://oom.lt/SZKGRAPHICSYMFLASHXL)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SYM_Flash_XLarge|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Graphic-SYM_Flash_XLarge|
 |Hex ID (short code)|hexID|SZKGRAPHICSYMFLASHXL|
-|name|name|SYM_Flash_XLarge|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': '#SYM', 'kicadSymbolValue': 'SYM_Flash_XLarge', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'graphic symbol flash VAC 220VAC 110VAC power', 'kicadSymbolki_description': 'Flash symbol, extra large'}]|
+|name|name|Graphic : SYM_Flash_XLarge|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> '#SYM'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'SYM_Flash_XLarge'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'graphic symbol flash VAC 220VAC 110VAC power'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Flash symbol</td><td> extra large'</td></tr></table>]|
 ||||

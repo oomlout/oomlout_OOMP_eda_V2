@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDIODEPMEG21EJ > PMEG2010EJ
+# SZKDIODEPMEG21EJ > Diode : PMEG2010EJ
 
 - ID: SYMBOL-kicad-kicad-symbols-Diode-PMEG2010EJ
 - Hex ID: SZKDIODEPMEG21EJ
-- Name: PMEG2010EJ
-- Description: PMEG2010EJ
+- Name: Diode : PMEG2010EJ
+- Description: Diode : PMEG2010EJ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-PMEG2010EJ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-PMEG2010EJ)
 - Short Link: [http://oom.lt/SZKDIODEPMEG21EJ](http://oom.lt/SZKDIODEPMEG21EJ)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PMEG2010EJ|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-PMEG2010EJ|
 |Hex ID (short code)|hexID|SZKDIODEPMEG21EJ|
-|name|name|PMEG2010EJ|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'PMEG2005EJ', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'PMEG2010EJ', 'kicadSymbolFootprint': 'Diode_SMD:D_SOD-323F', 'kicadSymbolDatasheet': 'https://assets.nexperia.com/documents/data-sheet/PMEG2010EH_EJ_ET.pdf', 'kicadSymbolki_keywords': 'forward voltage diode', 'kicadSymbolki_description': '20V, 1A very low Vf MEGA Schottky barrier rectifier, SOD-323F', 'kicadSymbolki_fp_filters': 'D*SOD?323F*'}]|
+|name|name|Diode : PMEG2010EJ|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'PMEG2005EJ'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'PMEG2010EJ'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Diode_SMD</td></tr><tr><td>D_SOD-323F'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//assets.nexperia.com/documents/data-sheet/PMEG2010EH_EJ_ET.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'forward voltage diode'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '20V</td><td> 1A very low Vf MEGA Schottky barrier rectifier</td><td> SOD-323F'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'D*SOD?323F*'</td></tr></table>]|
 ||||

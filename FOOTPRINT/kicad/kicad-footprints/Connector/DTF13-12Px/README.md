@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector-DTF13-12Px|
 |Hex ID (short code)|hexID|FZKCNDTF1312PX|
 |name|name|Connector : DTF13-12Px|
-|Footprint Kicad|footprintKicadDetails|{'name': 'DTF13-12Px', 'description': 'http://www.te.com/usa-en/product-DTF13-12PA-G003.html', 'tags': 'DEUTSCH DT header 12 pin ', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector.3dshapes/DTF13-12Px.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'DTF13-12Px'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//www.te.com/usa-en/product-DTF13-12PA-G003.html'</td><td> 'tags'</td></tr><tr><td> 'DEUTSCH DT header 12 pin '</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector.3dshapes/DTF13-12Px.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

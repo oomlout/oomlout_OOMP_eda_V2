@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRADT81T > ADT8-1T
+# SZKTRADT81T > Transformer : ADT8-1T
 
 - ID: SYMBOL-kicad-kicad-symbols-Transformer-ADT8-1T
 - Hex ID: SZKTRADT81T
-- Name: ADT8-1T
-- Description: ADT8-1T
+- Name: Transformer : ADT8-1T
+- Description: Transformer : ADT8-1T
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-ADT8-1T](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-ADT8-1T)
 - Short Link: [http://oom.lt/SZKTRADT81T](http://oom.lt/SZKTRADT81T)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ADT8-1T|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transformer-ADT8-1T|
 |Hex ID (short code)|hexID|SZKTRADT81T|
-|name|name|ADT8-1T|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ADT1-6T', 'kicadSymbolReference': 'TR', 'kicadSymbolValue': 'ADT8-1T', 'kicadSymbolFootprint': 'RF_Mini-Circuits:Mini-Circuits_CD637_H5.23mm', 'kicadSymbolDatasheet': 'https://www.minicircuits.com/pdfs/ADT8-1T+.pdf', 'kicadSymbolki_keywords': 'Mini-Circuits RF Transformer', 'kicadSymbolki_description': '8-775MHz 1:8 RF Transformer, Unbalanced to Balanced Center Tap, CD637', 'kicadSymbolki_fp_filters': 'Mini?Circuits*CD637*'}]|
+|name|name|Transformer : ADT8-1T|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'ADT1-6T'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'TR'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ADT8-1T'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'RF_Mini-Circuits</td></tr><tr><td>Mini-Circuits_CD637_H5.23mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.minicircuits.com/pdfs/ADT8-1T+.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Mini-Circuits RF Transformer'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '8-775MHz 1</td></tr><tr><td>8 RF Transformer</td><td> Unbalanced to Balanced Center Tap</td><td> CD637'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Mini?Circuits*CD637*'</td></tr></table>]|
 ||||

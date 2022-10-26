@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TDFN-8-1EP|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSTDFN81EP|
 |name|name|digikey-footprints : TDFN-8-1EP|
-|Footprint Kicad|footprintKicadDetails|{'name': 'TDFN-8-1EP', 'description': 'file:///C:/Users/alex_wegscheid/Downloads/EST02896_MR25H256-MR25H256A_Combined%20Datasheet_Rev1.4%20020117%20(5).pdf', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'TDFN-8-1EP'</td><td> 'description'</td></tr><tr><td> 'file</td></tr><tr><td>///C</td></tr><tr><td>/Users/alex_wegscheid/Downloads/EST02896_MR25H256-MR25H256A_Combined%20Datasheet_Rev1.4%20020117%20(5).pdf'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Diode_THT-Diode_Bridge_28.6x28.6x7.3mm_P18.0mm_P11.6mm|
 |Hex ID (short code)|hexID|FZKDDIODEBRIDGE286X286X73P18P116|
 |name|name|Diode_THT : Diode_Bridge_28.6x28.6x7.3mm_P18.0mm_P11.6mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Diode_Bridge_28.6x28.6x7.3mm_P18.0mm_P11.6mm', 'description': 'Single phase bridge rectifier case 28.6x28.6mm, pitch 18.0mm & 11.6mm, see https://diotec.com/tl_files/diotec/files/pdf/datasheets/kbpc1500fw.pdf', 'tags': 'Diode Bridge KBPCxxxxWP', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/Diode_Bridge_28.6x28.6x7.3mm_P18.0mm_P11.6mm.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Diode_Bridge_28.6x28.6x7.3mm_P18.0mm_P11.6mm'</td><td> 'description'</td></tr><tr><td> 'Single phase bridge rectifier case 28.6x28.6mm</td><td> pitch 18.0mm & 11.6mm</td><td> see https</td></tr><tr><td>//diotec.com/tl_files/diotec/files/pdf/datasheets/kbpc1500fw.pdf'</td><td> 'tags'</td></tr><tr><td> 'Diode Bridge KBPCxxxxWP'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Diode_THT.3dshapes/Diode_Bridge_28.6x28.6x7.3mm_P18.0mm_P11.6mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

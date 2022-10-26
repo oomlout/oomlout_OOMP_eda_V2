@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKCOMPARATORMAX941XPA > MAX941xPA
+# SZKCOMPARATORMAX941XPA > Comparator : MAX941xPA
 
 - ID: SYMBOL-kicad-kicad-symbols-Comparator-MAX941xPA
 - Hex ID: SZKCOMPARATORMAX941XPA
-- Name: MAX941xPA
-- Description: MAX941xPA
+- Name: Comparator : MAX941xPA
+- Description: Comparator : MAX941xPA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Comparator-MAX941xPA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Comparator-MAX941xPA)
 - Short Link: [http://oom.lt/SZKCOMPARATORMAX941XPA](http://oom.lt/SZKCOMPARATORMAX941XPA)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MAX941xPA|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Comparator-MAX941xPA|
 |Hex ID (short code)|hexID|SZKCOMPARATORMAX941XPA|
-|name|name|MAX941xPA|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MAX941xPA', 'kicadSymbolFootprint': 'Package_DIP:DIP-8_W7.62mm', 'kicadSymbolDatasheet': 'https://datasheets.maximintegrated.com/en/ds/MAX941-MAX944.pdf', 'kicadSymbolki_keywords': 'single comparator', 'kicadSymbolki_description': 'High-Speed, Low-Power, 3V/5V, Rail-to-Rail, Single-Supply Comparator, PDIP-8', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
+|name|name|Comparator : MAX941xPA|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MAX941xPA'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>DIP-8_W7.62mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//datasheets.maximintegrated.com/en/ds/MAX941-MAX944.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'single comparator'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'High-Speed</td><td> Low-Power</td><td> 3V/5V</td><td> Rail-to-Rail</td><td> Single-Supply Comparator</td><td> PDIP-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W7.62mm*'</td></tr></table>]|
 ||||

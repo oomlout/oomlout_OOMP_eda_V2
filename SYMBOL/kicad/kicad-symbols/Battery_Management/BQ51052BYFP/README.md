@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKBATMANAGEMENTBQ5152BYFP > BQ51052BYFP
+# SZKBATMANAGEMENTBQ5152BYFP > Battery_Management : BQ51052BYFP
 
 - ID: SYMBOL-kicad-kicad-symbols-Battery_Management-BQ51052BYFP
 - Hex ID: SZKBATMANAGEMENTBQ5152BYFP
-- Name: BQ51052BYFP
-- Description: BQ51052BYFP
+- Name: Battery_Management : BQ51052BYFP
+- Description: Battery_Management : BQ51052BYFP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-BQ51052BYFP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-BQ51052BYFP)
 - Short Link: [http://oom.lt/SZKBATMANAGEMENTBQ5152BYFP](http://oom.lt/SZKBATMANAGEMENTBQ5152BYFP)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BQ51052BYFP|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Battery_Management-BQ51052BYFP|
 |Hex ID (short code)|hexID|SZKBATMANAGEMENTBQ5152BYFP|
-|name|name|BQ51052BYFP|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BQ51050BYFP', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'BQ51052BYFP', 'kicadSymbolFootprint': 'Package_BGA:Texas_DSBGA-28_1.9x3.0mm_Layout4x7_P0.4mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/bq51052b.pdf', 'kicadSymbolki_keywords': 'Qi Wireless Power Receiver Battery Charger 4.40V', 'kicadSymbolki_description': 'Qi v1.2, Wireless Power Receiver and Battery Charger, Vout 4.40V, DSBGA-28', 'kicadSymbolki_fp_filters': 'Texas?DSBGA*1.9x3.0mm*P0.4mm*'}]|
+|name|name|Battery_Management : BQ51052BYFP|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'BQ51050BYFP'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'BQ51052BYFP'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_BGA</td></tr><tr><td>Texas_DSBGA-28_1.9x3.0mm_Layout4x7_P0.4mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/bq51052b.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Qi Wireless Power Receiver Battery Charger 4.40V'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Qi v1.2</td><td> Wireless Power Receiver and Battery Charger</td><td> Vout 4.40V</td><td> DSBGA-28'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Texas?DSBGA*1.9x3.0mm*P0.4mm*'</td></tr></table>]|
 ||||

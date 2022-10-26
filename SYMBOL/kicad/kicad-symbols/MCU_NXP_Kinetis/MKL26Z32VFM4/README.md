@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUNXPKINETISMKL26Z32VFM4 > MKL26Z32VFM4
+# SZKMCUNXPKINETISMKL26Z32VFM4 > MCU_NXP_Kinetis : MKL26Z32VFM4
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_NXP_Kinetis-MKL26Z32VFM4
 - Hex ID: SZKMCUNXPKINETISMKL26Z32VFM4
-- Name: MKL26Z32VFM4
-- Description: MKL26Z32VFM4
+- Name: MCU_NXP_Kinetis : MKL26Z32VFM4
+- Description: MCU_NXP_Kinetis : MKL26Z32VFM4
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_Kinetis-MKL26Z32VFM4](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_Kinetis-MKL26Z32VFM4)
 - Short Link: [http://oom.lt/SZKMCUNXPKINETISMKL26Z32VFM4](http://oom.lt/SZKMCUNXPKINETISMKL26Z32VFM4)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MKL26Z32VFM4|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_NXP_Kinetis-MKL26Z32VFM4|
 |Hex ID (short code)|hexID|SZKMCUNXPKINETISMKL26Z32VFM4|
-|name|name|MKL26Z32VFM4|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MKL26Z128VFM4', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MKL26Z32VFM4', 'kicadSymbolFootprint': 'Package_DFN_QFN:QFN-32-1EP_5x5mm_P0.5mm_EP3.45x3.45mm', 'kicadSymbolDatasheet': 'http://www.nxp.com/docs/en/data-sheet/KL26P64M48SF5.pdf', 'kicadSymbolki_keywords': 'Kinetis KL26 ARM Cortex M0+', 'kicadSymbolki_description': 'Kinetis KL26 series, 48-MHz/32-bit ARM Cortex-M0+, 32 kB flash, 4 kB SRAM, USB FS Device/OTG, QFN-32', 'kicadSymbolki_fp_filters': 'QFN*5x5mm*P0.5mm*'}]|
+|name|name|MCU_NXP_Kinetis : MKL26Z32VFM4|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'MKL26Z128VFM4'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MKL26Z32VFM4'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>QFN-32-1EP_5x5mm_P0.5mm_EP3.45x3.45mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.nxp.com/docs/en/data-sheet/KL26P64M48SF5.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Kinetis KL26 ARM Cortex M0+'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Kinetis KL26 series</td><td> 48-MHz/32-bit ARM Cortex-M0+</td><td> 32 kB flash</td><td> 4 kB SRAM</td><td> USB FS Device/OTG</td><td> QFN-32'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'QFN*5x5mm*P0.5mm*'</td></tr></table>]|
 ||||

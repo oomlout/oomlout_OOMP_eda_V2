@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORBJTBC161 > BC161
+# SZKTRANSISTORBJTBC161 > Transistor_BJT : BC161
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC161
 - Hex ID: SZKTRANSISTORBJTBC161
-- Name: BC161
-- Description: BC161
+- Name: Transistor_BJT : BC161
+- Description: Transistor_BJT : BC161
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC161](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC161)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTBC161](http://oom.lt/SZKTRANSISTORBJTBC161)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BC161|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC161|
 |Hex ID (short code)|hexID|SZKTRANSISTORBJTBC161|
-|name|name|BC161|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BC160', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'BC161', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-39-3', 'kicadSymbolDatasheet': 'http://www.farnell.com/datasheets/1697389.pdf', 'kicadSymbolki_keywords': 'power PNP Transistor', 'kicadSymbolki_description': '1A Ic, 60V Vce, Power PNP Transistor, TO-39', 'kicadSymbolki_fp_filters': 'TO?39*'}]|
+|name|name|Transistor_BJT : BC161|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'BC160'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'BC161'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_THT</td></tr><tr><td>TO-39-3'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.farnell.com/datasheets/1697389.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'power PNP Transistor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '1A Ic</td><td> 60V Vce</td><td> Power PNP Transistor</td><td> TO-39'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TO?39*'</td></tr></table>]|
 ||||

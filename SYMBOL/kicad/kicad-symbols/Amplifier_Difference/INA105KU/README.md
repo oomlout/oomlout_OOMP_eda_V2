@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKAMPLIFIERDIFFERENCEINA15KU > INA105KU
+# SZKAMPLIFIERDIFFERENCEINA15KU > Amplifier_Difference : INA105KU
 
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Difference-INA105KU
 - Hex ID: SZKAMPLIFIERDIFFERENCEINA15KU
-- Name: INA105KU
-- Description: INA105KU
+- Name: Amplifier_Difference : INA105KU
+- Description: Amplifier_Difference : INA105KU
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Difference-INA105KU](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Difference-INA105KU)
 - Short Link: [http://oom.lt/SZKAMPLIFIERDIFFERENCEINA15KU](http://oom.lt/SZKAMPLIFIERDIFFERENCEINA15KU)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|INA105KU|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Difference-INA105KU|
 |Hex ID (short code)|hexID|SZKAMPLIFIERDIFFERENCEINA15KU|
-|name|name|INA105KU|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'AD8276', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'INA105KU', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm', 'kicadSymbolDatasheet': 'https://www.ti.com/lit/ds/symlink/ina105.pdf', 'kicadSymbolki_keywords': 'difference amplifier', 'kicadSymbolki_description': 'Low Power, Wide Supply Range, Low Cost Unity-Gain Difference Amplifier, SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm*'}]|
+|name|name|Amplifier_Difference : INA105KU|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'AD8276'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'INA105KU'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-8_3.9x4.9mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.ti.com/lit/ds/symlink/ina105.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'difference amplifier'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Low Power</td><td> Wide Supply Range</td><td> Low Cost Unity-Gain Difference Amplifier</td><td> SOIC-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*3.9x4.9mm*P1.27mm*'</td></tr></table>]|
 ||||

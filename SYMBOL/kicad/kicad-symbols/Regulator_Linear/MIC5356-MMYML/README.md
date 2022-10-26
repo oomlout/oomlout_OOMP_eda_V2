@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORLINEARMIC5356YML > MIC5356-MMYML
+# SZKREGULATORLINEARMIC5356YML > Regulator_Linear : MIC5356-MMYML
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-MIC5356-MMYML
 - Hex ID: SZKREGULATORLINEARMIC5356YML
-- Name: MIC5356-MMYML
-- Description: MIC5356-MMYML
+- Name: Regulator_Linear : MIC5356-MMYML
+- Description: Regulator_Linear : MIC5356-MMYML
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-MIC5356-MMYML](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-MIC5356-MMYML)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARMIC5356YML](http://oom.lt/SZKREGULATORLINEARMIC5356YML)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MIC5356-MMYML|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-MIC5356-MMYML|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARMIC5356YML|
-|name|name|MIC5356-MMYML|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MIC5356-MMYML', 'kicadSymbolFootprint': 'Package_DFN_QFN:MLF-8-1EP_3x3mm_P0.65mm_EP1.55x2.3mm_ThermalVias', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/mic5355_6.pdf', 'kicadSymbolki_keywords': 'Dual LDO 500mA DFN-8', 'kicadSymbolki_description': 'Dual 500mA μCap Low Dropout Micropower Linear Regulator, 2.8V/2.8V, DFN-8', 'kicadSymbolki_fp_filters': 'MLF*3x3mm*P0.65mm*EP1.55x2.3mm*'}]|
+|name|name|Regulator_Linear : MIC5356-MMYML|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MIC5356-MMYML'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>MLF-8-1EP_3x3mm_P0.65mm_EP1.55x2.3mm_ThermalVias'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/mic5355_6.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Dual LDO 500mA DFN-8'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Dual 500mA μCap Low Dropout Micropower Linear Regulator</td><td> 2.8V/2.8V</td><td> DFN-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'MLF*3x3mm*P0.65mm*EP1.55x2.3mm*'</td></tr></table>]|
 ||||

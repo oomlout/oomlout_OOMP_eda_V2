@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKANALOGDACAD7226KP > AD7226KP
+# SZKANALOGDACAD7226KP > Analog_DAC : AD7226KP
 
 - ID: SYMBOL-kicad-kicad-symbols-Analog_DAC-AD7226KP
 - Hex ID: SZKANALOGDACAD7226KP
-- Name: AD7226KP
-- Description: AD7226KP
+- Name: Analog_DAC : AD7226KP
+- Description: Analog_DAC : AD7226KP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-AD7226KP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-AD7226KP)
 - Short Link: [http://oom.lt/SZKANALOGDACAD7226KP](http://oom.lt/SZKANALOGDACAD7226KP)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AD7226KP|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_DAC-AD7226KP|
 |Hex ID (short code)|hexID|SZKANALOGDACAD7226KP|
-|name|name|AD7226KP|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AD7226KP', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.analog.com/static/imported-files/data_sheets/AD7226.pdf', 'kicadSymbolki_keywords': '4CH DAC 8bit', 'kicadSymbolki_description': 'Quad 8bit DAC, 4 Channel, Single Reference Voltage, PLCC-20', 'kicadSymbolki_fp_filters': 'PLCC*'}]|
+|name|name|Analog_DAC : AD7226KP|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'AD7226KP'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/static/imported-files/data_sheets/AD7226.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> '4CH DAC 8bit'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Quad 8bit DAC</td><td> 4 Channel</td><td> Single Reference Voltage</td><td> PLCC-20'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'PLCC*'</td></tr></table>]|
 ||||

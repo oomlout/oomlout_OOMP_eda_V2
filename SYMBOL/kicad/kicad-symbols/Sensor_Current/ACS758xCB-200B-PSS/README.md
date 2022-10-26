@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKSENCURRENTACS758XCB2BPSS > ACS758xCB-200B-PSS
+# SZKSENCURRENTACS758XCB2BPSS > Sensor_Current : ACS758xCB-200B-PSS
 
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS758xCB-200B-PSS
 - Hex ID: SZKSENCURRENTACS758XCB2BPSS
-- Name: ACS758xCB-200B-PSS
-- Description: ACS758xCB-200B-PSS
+- Name: Sensor_Current : ACS758xCB-200B-PSS
+- Description: Sensor_Current : ACS758xCB-200B-PSS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS758xCB-200B-PSS](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS758xCB-200B-PSS)
 - Short Link: [http://oom.lt/SZKSENCURRENTACS758XCB2BPSS](http://oom.lt/SZKSENCURRENTACS758XCB2BPSS)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ACS758xCB-200B-PSS|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS758xCB-200B-PSS|
 |Hex ID (short code)|hexID|SZKSENCURRENTACS758XCB2BPSS|
-|name|name|ACS758xCB-200B-PSS|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ACS758xCB-150B-PSS', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ACS758xCB-200B-PSS', 'kicadSymbolFootprint': 'Sensor_Current:Allegro_CB_PSS', 'kicadSymbolDatasheet': 'http://www.allegromicro.com/~/media/Files/Datasheets/ACS758-Datasheet.ashx?la=en', 'kicadSymbolki_keywords': 'hall effect current monitor sensor isolated', 'kicadSymbolki_description': '±200A Bidirectional Hall-Effect Current Sensor, +5.0V supply, 10mV/A, CB-5 PSS', 'kicadSymbolki_fp_filters': 'Allegro*CB*PSS*'}]|
+|name|name|Sensor_Current : ACS758xCB-200B-PSS|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'ACS758xCB-150B-PSS'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ACS758xCB-200B-PSS'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Sensor_Current</td></tr><tr><td>Allegro_CB_PSS'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.allegromicro.com/~/media/Files/Datasheets/ACS758-Datasheet.ashx?la=en'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'hall effect current monitor sensor isolated'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '±200A Bidirectional Hall-Effect Current Sensor</td><td> +5.0V supply</td><td> 10mV/A</td><td> CB-5 PSS'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Allegro*CB*PSS*'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORLINEARMAX666 > MAX666
+# SZKREGULATORLINEARMAX666 > Regulator_Linear : MAX666
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-MAX666
 - Hex ID: SZKREGULATORLINEARMAX666
-- Name: MAX666
-- Description: MAX666
+- Name: Regulator_Linear : MAX666
+- Description: Regulator_Linear : MAX666
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-MAX666](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-MAX666)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARMAX666](http://oom.lt/SZKREGULATORLINEARMAX666)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MAX666|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-MAX666|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARMAX666|
-|name|name|MAX666|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MAX666', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://pdfserv.maximintegrated.com/en/ds/MAX663-MAX666.pdf', 'kicadSymbolki_keywords': 'Linear LDO Regulator 50mA 5V fixed', 'kicadSymbolki_description': '50mA Dual Mode 5V/Programmable Micropower Voltage Regulator, DIP-8/SO-8', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm* SOIC*3.9x4.9mm*P1.27mm*'}]|
+|name|name|Regulator_Linear : MAX666|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MAX666'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//pdfserv.maximintegrated.com/en/ds/MAX663-MAX666.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Linear LDO Regulator 50mA 5V fixed'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '50mA Dual Mode 5V/Programmable Micropower Voltage Regulator</td><td> DIP-8/SO-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W7.62mm* SOIC*3.9x4.9mm*P1.27mm*'</td></tr></table>]|
 ||||

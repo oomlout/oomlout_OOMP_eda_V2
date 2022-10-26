@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_FFC-FPC-Wuerth_68611214422_1x12-1MP_P1.0mm_Horizontal|
 |Hex ID (short code)|hexID|FZKCNFFCFPCWUERTH686112144221X121MPP1HORIZONTAL|
 |name|name|Connector_FFC-FPC : Wuerth_68611214422_1x12-1MP_P1.0mm_Horizontal|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Wuerth_68611214422_1x12-1MP_P1.0mm_Horizontal', 'description': 'http://katalog.we-online.de/em/datasheet/68611214422.pdf', 'tags': 'Wuerth FPC 68611214422 connector 12 bottom-side contacts 1.0mm pitch 1.0mm height SMT', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_FFC-FPC.3dshapes/Wuerth_68611214422_1x12-1MP_P1.0mm_Horizontal.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Wuerth_68611214422_1x12-1MP_P1.0mm_Horizontal'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//katalog.we-online.de/em/datasheet/68611214422.pdf'</td><td> 'tags'</td></tr><tr><td> 'Wuerth FPC 68611214422 connector 12 bottom-side contacts 1.0mm pitch 1.0mm height SMT'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_FFC-FPC.3dshapes/Wuerth_68611214422_1x12-1MP_P1.0mm_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

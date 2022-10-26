@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKAMPLIFIERAUDIOTDA7294 > TDA7294
+# SZKAMPLIFIERAUDIOTDA7294 > Amplifier_Audio : TDA7294
 
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Audio-TDA7294
 - Hex ID: SZKAMPLIFIERAUDIOTDA7294
-- Name: TDA7294
-- Description: TDA7294
+- Name: Amplifier_Audio : TDA7294
+- Description: Amplifier_Audio : TDA7294
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-TDA7294](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-TDA7294)
 - Short Link: [http://oom.lt/SZKAMPLIFIERAUDIOTDA7294](http://oom.lt/SZKAMPLIFIERAUDIOTDA7294)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TDA7294|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Audio-TDA7294|
 |Hex ID (short code)|hexID|SZKAMPLIFIERAUDIOTDA7294|
-|name|name|TDA7294|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TDA7293', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TDA7294', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-220-15_P2.54x2.54mm_StaggerOdd_Lead4.58mm_Vertical', 'kicadSymbolDatasheet': 'http://www.st.com/resource/en/datasheet/tda7294.pdf', 'kicadSymbolki_keywords': 'audio amplifier', 'kicadSymbolki_description': '100V - 100W DMOS Audio Amplifier with Mute/St-by, TO-220-15', 'kicadSymbolki_fp_filters': 'TO?220*StaggerOdd*'}]|
+|name|name|Amplifier_Audio : TDA7294|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'TDA7293'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TDA7294'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_THT</td></tr><tr><td>TO-220-15_P2.54x2.54mm_StaggerOdd_Lead4.58mm_Vertical'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.st.com/resource/en/datasheet/tda7294.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'audio amplifier'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '100V - 100W DMOS Audio Amplifier with Mute/St-by</td><td> TO-220-15'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TO?220*StaggerOdd*'</td></tr></table>]|
 ||||

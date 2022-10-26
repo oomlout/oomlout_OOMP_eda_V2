@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKGRAPHICSYMMAGNETL > SYM_Magnet_Large
+# SZKGRAPHICSYMMAGNETL > Graphic : SYM_Magnet_Large
 
 - ID: SYMBOL-kicad-kicad-symbols-Graphic-SYM_Magnet_Large
 - Hex ID: SZKGRAPHICSYMMAGNETL
-- Name: SYM_Magnet_Large
-- Description: SYM_Magnet_Large
+- Name: Graphic : SYM_Magnet_Large
+- Description: Graphic : SYM_Magnet_Large
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Graphic-SYM_Magnet_Large](http://oom.lt/SYMBOL-kicad-kicad-symbols-Graphic-SYM_Magnet_Large)
 - Short Link: [http://oom.lt/SZKGRAPHICSYMMAGNETL](http://oom.lt/SZKGRAPHICSYMMAGNETL)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SYM_Magnet_Large|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Graphic-SYM_Magnet_Large|
 |Hex ID (short code)|hexID|SZKGRAPHICSYMMAGNETL|
-|name|name|SYM_Magnet_Large|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': '#SYM', 'kicadSymbolValue': 'SYM_Magnet_Large', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'symbol logo magnetic field warning', 'kicadSymbolki_description': 'Magnetic field warning symbol, large'}]|
+|name|name|Graphic : SYM_Magnet_Large|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> '#SYM'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'SYM_Magnet_Large'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'symbol logo magnetic field warning'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Magnetic field warning symbol</td><td> large'</td></tr></table>]|
 ||||

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Coaxial-BNC_TEConnectivity_1478035_Horizontal|
 |Hex ID (short code)|hexID|FZKCNCOABNCTECONNECTIVITY147835HORIZONTAL|
 |name|name|Connector_Coaxial : BNC_TEConnectivity_1478035_Horizontal|
-|Footprint Kicad|footprintKicadDetails|{'name': 'BNC_TEConnectivity_1478035_Horizontal', 'description': 'BNC RF Interface, PCB mount 4 pin, Right Angle, Bayonet, 50Ohm, 4GHz, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1478035%7FB1%7Fpdf%7FEnglish%7FENG_CD_1478035_B1.pdf%7F1-1478035-0', 'tags': 'BNC RF interface bayonet 50ohm', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_Coaxial.3dshapes/BNC_TEConnectivity_1478035_Horizontal.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'BNC_TEConnectivity_1478035_Horizontal'</td><td> 'description'</td></tr><tr><td> 'BNC RF Interface</td><td> PCB mount 4 pin</td><td> Right Angle</td><td> Bayonet</td><td> 50Ohm</td><td> 4GHz</td><td> https</td></tr><tr><td>//www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1478035%7FB1%7Fpdf%7FEnglish%7FENG_CD_1478035_B1.pdf%7F1-1478035-0'</td><td> 'tags'</td></tr><tr><td> 'BNC RF interface bayonet 50ohm'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_Coaxial.3dshapes/BNC_TEConnectivity_1478035_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

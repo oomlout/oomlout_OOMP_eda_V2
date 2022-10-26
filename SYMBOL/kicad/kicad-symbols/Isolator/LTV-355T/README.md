@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKISOLATORLTV355T > LTV-355T
+# SZKISOLATORLTV355T > Isolator : LTV-355T
 
 - ID: SYMBOL-kicad-kicad-symbols-Isolator-LTV-355T
 - Hex ID: SZKISOLATORLTV355T
-- Name: LTV-355T
-- Description: LTV-355T
+- Name: Isolator : LTV-355T
+- Description: Isolator : LTV-355T
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-LTV-355T](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-LTV-355T)
 - Short Link: [http://oom.lt/SZKISOLATORLTV355T](http://oom.lt/SZKISOLATORLTV355T)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LTV-355T|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Isolator-LTV-355T|
 |Hex ID (short code)|hexID|SZKISOLATORLTV355T|
-|name|name|LTV-355T|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LTV-355T', 'kicadSymbolFootprint': 'Package_SO:SO-4_4.4x3.6mm_P2.54mm', 'kicadSymbolDatasheet': 'http://optoelectronics.liteon.com/upload/download/DS70-2001-006/S_110_LTV-355T%2020140520.pdf', 'kicadSymbolki_keywords': 'NPN Darlington DC Optocoupler', 'kicadSymbolki_description': 'DC Darlington Optocoupler, Vce 35V, CTR 600%, SO-4', 'kicadSymbolki_fp_filters': 'SO*4.4x3.6mm*P2.54mm*'}]|
+|name|name|Isolator : LTV-355T|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LTV-355T'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SO-4_4.4x3.6mm_P2.54mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//optoelectronics.liteon.com/upload/download/DS70-2001-006/S_110_LTV-355T%2020140520.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'NPN Darlington DC Optocoupler'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'DC Darlington Optocoupler</td><td> Vce 35V</td><td> CTR 600%</td><td> SO-4'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SO*4.4x3.6mm*P2.54mm*'</td></tr></table>]|
 ||||

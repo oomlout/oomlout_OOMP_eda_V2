@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORFETIRF778M > IRF7780M
+# SZKTRANSISTORFETIRF778M > Transistor_FET : IRF7780M
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF7780M
 - Hex ID: SZKTRANSISTORFETIRF778M
-- Name: IRF7780M
-- Description: IRF7780M
+- Name: Transistor_FET : IRF7780M
+- Description: Transistor_FET : IRF7780M
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF7780M](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF7780M)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETIRF778M](http://oom.lt/SZKTRANSISTORFETIRF778M)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IRF7780M|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF7780M|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETIRF778M|
-|name|name|IRF7780M|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'IRF60DM206', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'IRF7780M', 'kicadSymbolFootprint': 'Package_DirectFET:DirectFET_ME', 'kicadSymbolDatasheet': 'https://www.infineon.com/dgdl/irf7780mpbf.pdf?fileId=5546d462533600a401535607b41f1cba', 'kicadSymbolki_keywords': 'N-Channel MOSFET', 'kicadSymbolki_description': '89A Id, 75V Vds, 5.7mOhm Rds, N-Channel MOSFET, DirectFET ME', 'kicadSymbolki_fp_filters': 'DirectFET*ME*'}]|
+|name|name|Transistor_FET : IRF7780M|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'IRF60DM206'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'IRF7780M'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DirectFET</td></tr><tr><td>DirectFET_ME'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.infineon.com/dgdl/irf7780mpbf.pdf?fileId=5546d462533600a401535607b41f1cba'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'N-Channel MOSFET'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '89A Id</td><td> 75V Vds</td><td> 5.7mOhm Rds</td><td> N-Channel MOSFET</td><td> DirectFET ME'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DirectFET*ME*'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORFETIRL6297SD > IRL6297SD
+# SZKTRANSISTORFETIRL6297SD > Transistor_FET : IRL6297SD
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-IRL6297SD
 - Hex ID: SZKTRANSISTORFETIRL6297SD
-- Name: IRL6297SD
-- Description: IRL6297SD
+- Name: Transistor_FET : IRL6297SD
+- Description: Transistor_FET : IRL6297SD
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRL6297SD](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRL6297SD)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETIRL6297SD](http://oom.lt/SZKTRANSISTORFETIRL6297SD)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IRL6297SD|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-IRL6297SD|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETIRL6297SD|
-|name|name|IRL6297SD|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'IRF6802SD', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'IRL6297SD', 'kicadSymbolFootprint': 'Package_DirectFET:DirectFET_SA', 'kicadSymbolDatasheet': 'https://www.infineon.com/dgdl/irl6297sdpbf.pdf?fileId=5546d462533600a40153565ff22f2575', 'kicadSymbolki_keywords': 'Dual N-Channel HEXFET MOSFET Logic-Level', 'kicadSymbolki_description': '15A Id, 20V Vds, 4.9mOhm Rds, Dual N-Channel HEXFET Power MOSFET, DirectFET SA', 'kicadSymbolki_fp_filters': 'DirectFET*SA*'}]|
+|name|name|Transistor_FET : IRL6297SD|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'IRF6802SD'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'IRL6297SD'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DirectFET</td></tr><tr><td>DirectFET_SA'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.infineon.com/dgdl/irl6297sdpbf.pdf?fileId=5546d462533600a40153565ff22f2575'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Dual N-Channel HEXFET MOSFET Logic-Level'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '15A Id</td><td> 20V Vds</td><td> 4.9mOhm Rds</td><td> Dual N-Channel HEXFET Power MOSFET</td><td> DirectFET SA'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DirectFET*SA*'</td></tr></table>]|
 ||||

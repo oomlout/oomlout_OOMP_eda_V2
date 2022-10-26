@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDICHARACTERHDSPA153 > HDSP-A153
+# SZKDICHARACTERHDSPA153 > Display_Character : HDSP-A153
 
 - ID: SYMBOL-kicad-kicad-symbols-Display_Character-HDSP-A153
 - Hex ID: SZKDICHARACTERHDSPA153
-- Name: HDSP-A153
-- Description: HDSP-A153
+- Name: Display_Character : HDSP-A153
+- Description: Display_Character : HDSP-A153
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-HDSP-A153](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-HDSP-A153)
 - Short Link: [http://oom.lt/SZKDICHARACTERHDSPA153](http://oom.lt/SZKDICHARACTERHDSPA153)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|HDSP-A153|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Display_Character-HDSP-A153|
 |Hex ID (short code)|hexID|SZKDICHARACTERHDSPA153|
-|name|name|HDSP-A153|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'HDSP-A153', 'kicadSymbolFootprint': 'Display_7Segment:HDSP-A151', 'kicadSymbolDatasheet': 'https://docs.broadcom.com/docs/AV02-2553EN', 'kicadSymbolki_keywords': 'display LED 7-segment', 'kicadSymbolki_description': 'One digit 7 segment red, common cathode', 'kicadSymbolki_fp_filters': 'HDSP?A151*'}]|
+|name|name|Display_Character : HDSP-A153|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'HDSP-A153'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Display_7Segment</td></tr><tr><td>HDSP-A151'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//docs.broadcom.com/docs/AV02-2553EN'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'display LED 7-segment'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'One digit 7 segment red</td><td> common cathode'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'HDSP?A151*'</td></tr></table>]|
 ||||

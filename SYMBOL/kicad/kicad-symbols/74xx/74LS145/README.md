@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZK74XX74LS145 > 74LS145
+# SZK74XX74LS145 > 74xx : 74LS145
 
 - ID: SYMBOL-kicad-kicad-symbols-74xx-74LS145
 - Hex ID: SZK74XX74LS145
-- Name: 74LS145
-- Description: 74LS145
+- Name: 74xx : 74LS145
+- Description: 74xx : 74LS145
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx-74LS145](http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx-74LS145)
 - Short Link: [http://oom.lt/SZK74XX74LS145](http://oom.lt/SZK74XX74LS145)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74LS145|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xx-74LS145|
 |Hex ID (short code)|hexID|SZK74XX74LS145|
-|name|name|74LS145|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74LS145', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/gpn/sn74LS145', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'TTL DECOD10 OpenColl', 'kicadSymbolki_description': 'Decoder 1 to 10, Open Collector', 'kicadSymbolki_fp_filters': 'DIP?16*'}]|
+|name|name|74xx : 74LS145|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> '74LS145'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/gpn/sn74LS145'</td><td> 'kicadSymbolki_locked'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'TTL DECOD10 OpenColl'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Decoder 1 to 10</td><td> Open Collector'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP?16*'</td></tr></table>]|
 ||||

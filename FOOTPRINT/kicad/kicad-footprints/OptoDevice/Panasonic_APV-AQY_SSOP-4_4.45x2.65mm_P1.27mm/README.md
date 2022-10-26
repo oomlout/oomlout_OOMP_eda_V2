@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-OptoDevice-Panasonic_APV-AQY_SSOP-4_4.45x2.65mm_P1.27mm|
 |Hex ID (short code)|hexID|FZKOPPAPVAQYSS4445X265P127|
 |name|name|OptoDevice : Panasonic_APV-AQY_SSOP-4_4.45x2.65mm_P1.27mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Panasonic_APV-AQY_SSOP-4_4.45x2.65mm_P1.27mm', 'description': 'https://www.panasonic-electric-works.com/cps/rde/xbcr/pew_eu_en/technical_information_photomos_en.pdf', 'tags': 'SSOP4 APV21 AQY22', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/Panasonic_APV-AQY_SSOP-4_4.45x2.65mm_P1.27mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Panasonic_APV-AQY_SSOP-4_4.45x2.65mm_P1.27mm'</td><td> 'description'</td></tr><tr><td> 'https</td></tr><tr><td>//www.panasonic-electric-works.com/cps/rde/xbcr/pew_eu_en/technical_information_photomos_en.pdf'</td><td> 'tags'</td></tr><tr><td> 'SSOP4 APV21 AQY22'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/OptoDevice.3dshapes/Panasonic_APV-AQY_SSOP-4_4.45x2.65mm_P1.27mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

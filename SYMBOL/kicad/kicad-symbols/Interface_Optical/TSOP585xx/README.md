@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKINTERFACEOPTICALTS585XX > TSOP585xx
+# SZKINTERFACEOPTICALTS585XX > Interface_Optical : TSOP585xx
 
 - ID: SYMBOL-kicad-kicad-symbols-Interface_Optical-TSOP585xx
 - Hex ID: SZKINTERFACEOPTICALTS585XX
-- Name: TSOP585xx
-- Description: TSOP585xx
+- Name: Interface_Optical : TSOP585xx
+- Description: Interface_Optical : TSOP585xx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Optical-TSOP585xx](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Optical-TSOP585xx)
 - Short Link: [http://oom.lt/SZKINTERFACEOPTICALTS585XX](http://oom.lt/SZKINTERFACEOPTICALTS585XX)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TSOP585xx|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_Optical-TSOP585xx|
 |Hex ID (short code)|hexID|SZKINTERFACEOPTICALTS585XX|
-|name|name|TSOP585xx|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TSOP581xx', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TSOP585xx', 'kicadSymbolFootprint': 'OptoDevice:Vishay_MINICAST-3Pin', 'kicadSymbolDatasheet': 'http://www.vishay.com/docs/82462/tsop581.pdf', 'kicadSymbolki_keywords': 'opto IR receiver', 'kicadSymbolki_description': 'Photo Modules for PCM Remote Control Systems', 'kicadSymbolki_fp_filters': 'Vishay*MINICAST*'}]|
+|name|name|Interface_Optical : TSOP585xx|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'TSOP581xx'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TSOP585xx'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'OptoDevice</td></tr><tr><td>Vishay_MINICAST-3Pin'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.vishay.com/docs/82462/tsop581.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'opto IR receiver'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Photo Modules for PCM Remote Control Systems'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Vishay*MINICAST*'</td></tr></table>]|
 ||||

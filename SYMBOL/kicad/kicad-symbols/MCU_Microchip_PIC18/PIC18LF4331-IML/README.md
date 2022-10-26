@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUMCHIPPIC18PIC18LF4331IML > PIC18LF4331-IML
+# SZKMCUMCHIPPIC18PIC18LF4331IML > MCU_Microchip_PIC18 : PIC18LF4331-IML
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18LF4331-IML
 - Hex ID: SZKMCUMCHIPPIC18PIC18LF4331IML
-- Name: PIC18LF4331-IML
-- Description: PIC18LF4331-IML
+- Name: MCU_Microchip_PIC18 : PIC18LF4331-IML
+- Description: MCU_Microchip_PIC18 : PIC18LF4331-IML
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18LF4331-IML](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18LF4331-IML)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC18PIC18LF4331IML](http://oom.lt/SZKMCUMCHIPPIC18PIC18LF4331IML)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PIC18LF4331-IML|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18LF4331-IML|
 |Hex ID (short code)|hexID|SZKMCUMCHIPPIC18PIC18LF4331IML|
-|name|name|PIC18LF4331-IML|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'PIC18F4331-IML', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PIC18LF4331-IML', 'kicadSymbolFootprint': 'Package_DFN_QFN:QFN-44-1EP_8x8mm_P0.65mm_EP6.45x6.45mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/39616d.pdf', 'kicadSymbolki_keywords': 'Flash-Based 8-Bit Microcontroller XLP', 'kicadSymbolki_description': '8K Flash, 768B SRAM, 256B EEPROM, nanoWatt XLP, ADC, PWM, QFN44', 'kicadSymbolki_fp_filters': 'QFN*1EP*8x8mm*P0.65mm*'}]|
+|name|name|MCU_Microchip_PIC18 : PIC18LF4331-IML|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'PIC18F4331-IML'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'PIC18LF4331-IML'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>QFN-44-1EP_8x8mm_P0.65mm_EP6.45x6.45mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/39616d.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Flash-Based 8-Bit Microcontroller XLP'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '8K Flash</td><td> 768B SRAM</td><td> 256B EEPROM</td><td> nanoWatt XLP</td><td> ADC</td><td> PWM</td><td> QFN44'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'QFN*1EP*8x8mm*P0.65mm*'</td></tr></table>]|
 ||||

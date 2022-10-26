@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKRFBLUETOOTHMODNRF81 > MOD-nRF8001
+# SZKRFBLUETOOTHMODNRF81 > RF_Bluetooth : MOD-nRF8001
 
 - ID: SYMBOL-kicad-kicad-symbols-RF_Bluetooth-MOD-nRF8001
 - Hex ID: SZKRFBLUETOOTHMODNRF81
-- Name: MOD-nRF8001
-- Description: MOD-nRF8001
+- Name: RF_Bluetooth : MOD-nRF8001
+- Description: RF_Bluetooth : MOD-nRF8001
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Bluetooth-MOD-nRF8001](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Bluetooth-MOD-nRF8001)
 - Short Link: [http://oom.lt/SZKRFBLUETOOTHMODNRF81](http://oom.lt/SZKRFBLUETOOTHMODNRF81)
   
@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|MOD-nRF8001|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-RF_Bluetooth-MOD-nRF8001|
 |Hex ID (short code)|hexID|SZKRFBLUETOOTHMODNRF81|
-|name|name|MOD-nRF8001|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MOD-nRF8001', 'kicadSymbolFootprint': 'RF_Module:MOD-nRF8001', 'kicadSymbolDatasheet': 'https://www.olimex.com/Products/Modules/RF/MOD-nRF8001/', 'kicadSymbolki_keywords': 'Bluetooth Low Energy nRF8001', 'kicadSymbolki_description': 'Bluetooth Low Energy module based on nRF8001 chipset', 'kicadSymbolki_fp_filters': 'MOD?nRF8001*'}]|
+|name|name|RF_Bluetooth : MOD-nRF8001|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MOD-nRF8001'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'RF_Module</td></tr><tr><td>MOD-nRF8001'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.olimex.com/Products/Modules/RF/MOD-nRF8001/'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Bluetooth Low Energy nRF8001'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Bluetooth Low Energy module based on nRF8001 chipset'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'MOD?nRF8001*'</td></tr></table>]|
 ||||

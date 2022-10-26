@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORFETIRLZ34N > IRLZ34N
+# SZKTRANSISTORFETIRLZ34N > Transistor_FET : IRLZ34N
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-IRLZ34N
 - Hex ID: SZKTRANSISTORFETIRLZ34N
-- Name: IRLZ34N
-- Description: IRLZ34N
+- Name: Transistor_FET : IRLZ34N
+- Description: Transistor_FET : IRLZ34N
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRLZ34N](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRLZ34N)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETIRLZ34N](http://oom.lt/SZKTRANSISTORFETIRLZ34N)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IRLZ34N|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-IRLZ34N|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETIRLZ34N|
-|name|name|IRLZ34N|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BUZ11', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'IRLZ34N', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-220-3_Vertical', 'kicadSymbolDatasheet': 'http://www.infineon.com/dgdl/irlz34npbf.pdf?fileId=5546d462533600a40153567206892720', 'kicadSymbolki_keywords': 'N-Channel HEXFET MOSFET Logic-Level', 'kicadSymbolki_description': '30A Id, 55V Vds, 35mOhm Rds, N-Channel HEXFET Power MOSFET, TO-220AB', 'kicadSymbolki_fp_filters': 'TO?220*'}]|
+|name|name|Transistor_FET : IRLZ34N|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'BUZ11'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'IRLZ34N'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_THT</td></tr><tr><td>TO-220-3_Vertical'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.infineon.com/dgdl/irlz34npbf.pdf?fileId=5546d462533600a40153567206892720'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'N-Channel HEXFET MOSFET Logic-Level'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '30A Id</td><td> 55V Vds</td><td> 35mOhm Rds</td><td> N-Channel HEXFET Power MOSFET</td><td> TO-220AB'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TO?220*'</td></tr></table>]|
 ||||

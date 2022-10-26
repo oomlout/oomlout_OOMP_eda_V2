@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORSWITCHINGTPS6215A > TPS62150A
+# SZKREGULATORSWITCHINGTPS6215A > Regulator_Switching : TPS62150A
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS62150A
 - Hex ID: SZKREGULATORSWITCHINGTPS6215A
-- Name: TPS62150A
-- Description: TPS62150A
+- Name: Regulator_Switching : TPS62150A
+- Description: Regulator_Switching : TPS62150A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS62150A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS62150A)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGTPS6215A](http://oom.lt/SZKREGULATORSWITCHINGTPS6215A)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TPS62150A|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS62150A|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGTPS6215A|
-|name|name|TPS62150A|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TPS62130', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TPS62150A', 'kicadSymbolFootprint': 'Package_DFN_QFN:VQFN-16-1EP_3x3mm_P0.5mm_EP1.68x1.68mm_ThermalVias', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/TPS62150.pdf', 'kicadSymbolki_keywords': 'step-down dcdc', 'kicadSymbolki_description': '1A Step-Down Converter with DCS-Control, Adjustable Output Voltage, 3-17V Input Voltage, PG=LOW in Power-Down, QFN-16', 'kicadSymbolki_fp_filters': 'VQFN*1EP*3x3mm*P0.5mm*'}]|
+|name|name|Regulator_Switching : TPS62150A|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'TPS62130'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TPS62150A'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>VQFN-16-1EP_3x3mm_P0.5mm_EP1.68x1.68mm_ThermalVias'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/TPS62150.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'step-down dcdc'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '1A Step-Down Converter with DCS-Control</td><td> Adjustable Output Voltage</td><td> 3-17V Input Voltage</td><td> PG=LOW in Power-Down</td><td> QFN-16'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'VQFN*1EP*3x3mm*P0.5mm*'</td></tr></table>]|
 ||||

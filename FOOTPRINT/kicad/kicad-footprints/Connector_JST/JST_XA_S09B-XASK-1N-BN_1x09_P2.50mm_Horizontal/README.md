@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_XA_S09B-XASK-1N-BN_1x09_P2.50mm_Horizontal|
 |Hex ID (short code)|hexID|FZKCNJSTJSTXAS9BXASK1NBN1X9P25HORIZONTAL|
 |name|name|Connector_JST : JST_XA_S09B-XASK-1N-BN_1x09_P2.50mm_Horizontal|
-|Footprint Kicad|footprintKicadDetails|{'name': 'JST_XA_S09B-XASK-1N-BN_1x09_P2.50mm_Horizontal', 'description': 'JST XA series connector, S09B-XASK-1N-BN (http://www.jst-mfg.com/product/pdf/eng/eXA1.pdf), generated with kicad-footprint-generator', 'tags': 'connector JST XA horizontal', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_JST.3dshapes/JST_XA_S09B-XASK-1N-BN_1x09_P2.50mm_Horizontal.wrl', 'pins': {'type': 'thru_hole', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'JST_XA_S09B-XASK-1N-BN_1x09_P2.50mm_Horizontal'</td><td> 'description'</td></tr><tr><td> 'JST XA series connector</td><td> S09B-XASK-1N-BN (http</td></tr><tr><td>//www.jst-mfg.com/product/pdf/eng/eXA1.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'connector JST XA horizontal'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_JST.3dshapes/JST_XA_S09B-XASK-1N-BN_1x09_P2.50mm_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

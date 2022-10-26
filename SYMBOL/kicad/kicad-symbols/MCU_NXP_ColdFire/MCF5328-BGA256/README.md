@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUNXPCOLDFIREMCF5328BGA256 > MCF5328-BGA256
+# SZKMCUNXPCOLDFIREMCF5328BGA256 > MCU_NXP_ColdFire : MCF5328-BGA256
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_NXP_ColdFire-MCF5328-BGA256
 - Hex ID: SZKMCUNXPCOLDFIREMCF5328BGA256
-- Name: MCF5328-BGA256
-- Description: MCF5328-BGA256
+- Name: MCU_NXP_ColdFire : MCF5328-BGA256
+- Description: MCU_NXP_ColdFire : MCF5328-BGA256
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_ColdFire-MCF5328-BGA256](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_ColdFire-MCF5328-BGA256)
 - Short Link: [http://oom.lt/SZKMCUNXPCOLDFIREMCF5328BGA256](http://oom.lt/SZKMCUNXPCOLDFIREMCF5328BGA256)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MCF5328-BGA256|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_NXP_ColdFire-MCF5328-BGA256|
 |Hex ID (short code)|hexID|SZKMCUNXPCOLDFIREMCF5328BGA256|
-|name|name|MCF5328-BGA256|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MCF5328-BGA256', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ''}]|
+|name|name|MCU_NXP_ColdFire : MCF5328-BGA256|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MCF5328-BGA256'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> ''</td></tr></table>]|
 ||||

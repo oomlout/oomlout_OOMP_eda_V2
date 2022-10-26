@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUNXPKINETISMK2FN1MVMD12 > MK20FN1M0VMD12
+# SZKMCUNXPKINETISMK2FN1MVMD12 > MCU_NXP_Kinetis : MK20FN1M0VMD12
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_NXP_Kinetis-MK20FN1M0VMD12
 - Hex ID: SZKMCUNXPKINETISMK2FN1MVMD12
-- Name: MK20FN1M0VMD12
-- Description: MK20FN1M0VMD12
+- Name: MCU_NXP_Kinetis : MK20FN1M0VMD12
+- Description: MCU_NXP_Kinetis : MK20FN1M0VMD12
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_Kinetis-MK20FN1M0VMD12](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_Kinetis-MK20FN1M0VMD12)
 - Short Link: [http://oom.lt/SZKMCUNXPKINETISMK2FN1MVMD12](http://oom.lt/SZKMCUNXPKINETISMK2FN1MVMD12)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MK20FN1M0VMD12|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_NXP_Kinetis-MK20FN1M0VMD12|
 |Hex ID (short code)|hexID|SZKMCUNXPKINETISMK2FN1MVMD12|
-|name|name|MK20FN1M0VMD12|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MK20FX512VMD12', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MK20FN1M0VMD12', 'kicadSymbolFootprint': 'Package_BGA:BGA-144_13.0x13.0mm_Layout12x12_P1.0mm', 'kicadSymbolDatasheet': 'https://www.nxp.com/docs/en/data-sheet/K20P144M120SF3.pdf', 'kicadSymbolki_keywords': 'Kinetis K20 ARM Cortex M4', 'kicadSymbolki_description': 'Kinetis K20 series, 120-MHz/32-bit ARM Cortex-M4, 1024 kB flash, 128 kB SRAM, USB HS+FS Device/OTG, MAPBGA-144', 'kicadSymbolki_fp_filters': 'BGA*13.0x13.0mm*Layout12x12*P1.0mm*'}]|
+|name|name|MCU_NXP_Kinetis : MK20FN1M0VMD12|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'MK20FX512VMD12'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MK20FN1M0VMD12'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_BGA</td></tr><tr><td>BGA-144_13.0x13.0mm_Layout12x12_P1.0mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.nxp.com/docs/en/data-sheet/K20P144M120SF3.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Kinetis K20 ARM Cortex M4'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Kinetis K20 series</td><td> 120-MHz/32-bit ARM Cortex-M4</td><td> 1024 kB flash</td><td> 128 kB SRAM</td><td> USB HS+FS Device/OTG</td><td> MAPBGA-144'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'BGA*13.0x13.0mm*Layout12x12*P1.0mm*'</td></tr></table>]|
 ||||

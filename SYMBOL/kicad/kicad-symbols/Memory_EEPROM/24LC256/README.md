@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMEMORYEEPROM24LC256 > 24LC256
+# SZKMEMORYEEPROM24LC256 > Memory_EEPROM : 24LC256
 
 - ID: SYMBOL-kicad-kicad-symbols-Memory_EEPROM-24LC256
 - Hex ID: SZKMEMORYEEPROM24LC256
-- Name: 24LC256
-- Description: 24LC256
+- Name: Memory_EEPROM : 24LC256
+- Description: Memory_EEPROM : 24LC256
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_EEPROM-24LC256](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_EEPROM-24LC256)
 - Short Link: [http://oom.lt/SZKMEMORYEEPROM24LC256](http://oom.lt/SZKMEMORYEEPROM24LC256)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|24LC256|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Memory_EEPROM-24LC256|
 |Hex ID (short code)|hexID|SZKMEMORYEEPROM24LC256|
-|name|name|24LC256|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '24LC16', 'kicadSymbolReference': 'U', 'kicadSymbolValue': '24LC256', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/devicedoc/21203m.pdf', 'kicadSymbolki_keywords': 'I2C Serial EEPROM', 'kicadSymbolki_description': 'I2C Serial EEPROM, 256Kb, DIP-8/SOIC-8/TSSOP-8/DFN-8', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm* SOIC*3.9x4.9mm* TSSOP*4.4x3mm*P0.65mm* DFN*3x2mm*P0.5mm*'}]|
+|name|name|Memory_EEPROM : 24LC256|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> '24LC16'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> '24LC256'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/devicedoc/21203m.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'I2C Serial EEPROM'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'I2C Serial EEPROM</td><td> 256Kb</td><td> DIP-8/SOIC-8/TSSOP-8/DFN-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W7.62mm* SOIC*3.9x4.9mm* TSSOP*4.4x3mm*P0.65mm* DFN*3x2mm*P0.5mm*'</td></tr></table>]|
 ||||

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_PinSocket_2.54mm-PinSocket_1x22_P2.54mm_Horizontal|
 |Hex ID (short code)|hexID|FZKCNPINSO254PINSO1X22P254HORIZONTAL|
 |name|name|Connector_PinSocket_2.54mm : PinSocket_1x22_P2.54mm_Horizontal|
-|Footprint Kicad|footprintKicadDetails|{'name': 'PinSocket_1x22_P2.54mm_Horizontal', 'description': 'Through hole angled socket strip, 1x22, 2.54mm pitch, 8.51mm socket length, single row (from Kicad 4.0.7), script generated', 'tags': 'Through hole angled socket strip THT 1x22 2.54mm single row', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x22_P2.54mm_Horizontal.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'PinSocket_1x22_P2.54mm_Horizontal'</td><td> 'description'</td></tr><tr><td> 'Through hole angled socket strip</td><td> 1x22</td><td> 2.54mm pitch</td><td> 8.51mm socket length</td><td> single row (from Kicad 4.0.7)</td><td> script generated'</td><td> 'tags'</td></tr><tr><td> 'Through hole angled socket strip THT 1x22 2.54mm single row'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x22_P2.54mm_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

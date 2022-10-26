@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKSENOPTICALBPW85B > BPW85B
+# SZKSENOPTICALBPW85B > Sensor_Optical : BPW85B
 
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Optical-BPW85B
 - Hex ID: SZKSENOPTICALBPW85B
-- Name: BPW85B
-- Description: BPW85B
+- Name: Sensor_Optical : BPW85B
+- Description: Sensor_Optical : BPW85B
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-BPW85B](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-BPW85B)
 - Short Link: [http://oom.lt/SZKSENOPTICALBPW85B](http://oom.lt/SZKSENOPTICALBPW85B)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BPW85B|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Optical-BPW85B|
 |Hex ID (short code)|hexID|SZKSENOPTICALBPW85B|
-|name|name|BPW85B|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'SFH309', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'BPW85B', 'kicadSymbolFootprint': 'LED_THT:LED_D3.0mm_Clear', 'kicadSymbolDatasheet': 'https://www.vishay.com/docs/81531/bpw85a.pdf', 'kicadSymbolki_keywords': 'npn phototransistor', 'kicadSymbolki_description': 'Silicon NPN Phototransistor, Ica = 1.5-4mA, T-1', 'kicadSymbolki_fp_filters': 'LED*3.0mm*Clear*'}]|
+|name|name|Sensor_Optical : BPW85B|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'SFH309'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'BPW85B'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'LED_THT</td></tr><tr><td>LED_D3.0mm_Clear'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.vishay.com/docs/81531/bpw85a.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'npn phototransistor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Silicon NPN Phototransistor</td><td> Ica = 1.5-4mA</td><td> T-1'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'LED*3.0mm*Clear*'</td></tr></table>]|
 ||||

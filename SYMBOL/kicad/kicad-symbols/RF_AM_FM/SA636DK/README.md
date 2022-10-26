@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKRFAMFMSA636DK > SA636DK
+# SZKRFAMFMSA636DK > RF_AM_FM : SA636DK
 
 - ID: SYMBOL-kicad-kicad-symbols-RF_AM_FM-SA636DK
 - Hex ID: SZKRFAMFMSA636DK
-- Name: SA636DK
-- Description: SA636DK
+- Name: RF_AM_FM : SA636DK
+- Description: RF_AM_FM : SA636DK
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_AM_FM-SA636DK](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_AM_FM-SA636DK)
 - Short Link: [http://oom.lt/SZKRFAMFMSA636DK](http://oom.lt/SZKRFAMFMSA636DK)
   
@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|SA636DK|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-RF_AM_FM-SA636DK|
 |Hex ID (short code)|hexID|SZKRFAMFMSA636DK|
-|name|name|SA636DK|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'SA636DK', 'kicadSymbolFootprint': 'Package_SO:SSOP-20_4.4x6.5mm_P0.65mm', 'kicadSymbolDatasheet': 'https://www.nxp.com/docs/en/data-sheet/SA636.pdf', 'kicadSymbolki_keywords': 'Low-voltage, monolithic, FM, IF, RSSI', 'kicadSymbolki_description': 'Low-voltage, high performance, monolithic FM IF system with high-speed RSSI, SSOP-20', 'kicadSymbolki_fp_filters': 'SSOP*4.4x6.5mm*P0.65mm*'}]|
+|name|name|RF_AM_FM : SA636DK|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'SA636DK'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SSOP-20_4.4x6.5mm_P0.65mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.nxp.com/docs/en/data-sheet/SA636.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Low-voltage</td><td> monolithic</td><td> FM</td><td> IF</td><td> RSSI'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Low-voltage</td><td> high performance</td><td> monolithic FM IF system with high-speed RSSI</td><td> SSOP-20'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SSOP*4.4x6.5mm*P0.65mm*'</td></tr></table>]|
 ||||

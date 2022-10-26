@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Mounting_Wuerth-Mounting_Wuerth_WA-SMSI-M2_H3.5mm_9774035243|
 |Hex ID (short code)|hexID|FZKMONMONWASMSIM2H35977435243|
 |name|name|Mounting_Wuerth : Mounting_Wuerth_WA-SMSI-M2_H3.5mm_9774035243|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Mounting_Wuerth_WA-SMSI-M2_H3.5mm_9774035243', 'description': 'Mounting Hardware, inside through hole M2, height 3.5, Wuerth electronics 9774035243 (https://katalog.we-online.de/em/datasheet/9774035243.pdf), generated with kicad-footprint-generator', 'tags': 'Mounting M2 9774035243', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Mounting_Wuerth.3dshapes/Mounting_Wuerth_WA-SMSI-M2_H3.5mm_9774035243.wrl', 'pins': {'type': 'smd', 'shape': 'custom'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Mounting_Wuerth_WA-SMSI-M2_H3.5mm_9774035243'</td><td> 'description'</td></tr><tr><td> 'Mounting Hardware</td><td> inside through hole M2</td><td> height 3.5</td><td> Wuerth electronics 9774035243 (https</td></tr><tr><td>//katalog.we-online.de/em/datasheet/9774035243.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'Mounting M2 9774035243'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Mounting_Wuerth.3dshapes/Mounting_Wuerth_WA-SMSI-M2_H3.5mm_9774035243.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'custom'</td></tr></table></td></tr></table>|
 ||||
 
 

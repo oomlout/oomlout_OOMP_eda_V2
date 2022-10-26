@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKSENCURRENTCQ2333 > CQ-2333
+# SZKSENCURRENTCQ2333 > Sensor_Current : CQ-2333
 
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Current-CQ-2333
 - Hex ID: SZKSENCURRENTCQ2333
-- Name: CQ-2333
-- Description: CQ-2333
+- Name: Sensor_Current : CQ-2333
+- Description: Sensor_Current : CQ-2333
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-CQ-2333](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-CQ-2333)
 - Short Link: [http://oom.lt/SZKSENCURRENTCQ2333](http://oom.lt/SZKSENCURRENTCQ2333)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|CQ-2333|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Current-CQ-2333|
 |Hex ID (short code)|hexID|SZKSENCURRENTCQ2333|
-|name|name|CQ-2333|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'CQ-2063', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'CQ-2333', 'kicadSymbolFootprint': 'Sensor_Current:AKM_CQ_7', 'kicadSymbolDatasheet': 'http://www.akm.com/akm/en/file/datasheet/CQ-2333.pdf', 'kicadSymbolki_keywords': 'hall effect current sensor', 'kicadSymbolki_description': 'High-Speed Small Current Sensor, Bidirectional, -35A to +35A, 60mV/A, CQ-7', 'kicadSymbolki_fp_filters': 'AKM*CQ*'}]|
+|name|name|Sensor_Current : CQ-2333|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'CQ-2063'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'CQ-2333'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Sensor_Current</td></tr><tr><td>AKM_CQ_7'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.akm.com/akm/en/file/datasheet/CQ-2333.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'hall effect current sensor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'High-Speed Small Current Sensor</td><td> Bidirectional</td><td> -35A to +35A</td><td> 60mV/A</td><td> CQ-7'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'AKM*CQ*'</td></tr></table>]|
 ||||

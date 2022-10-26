@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZK74XGXX74AUC2G241 > 74AUC2G241
+# SZK74XGXX74AUC2G241 > 74xGxx : 74AUC2G241
 
 - ID: SYMBOL-kicad-kicad-symbols-74xGxx-74AUC2G241
 - Hex ID: SZK74XGXX74AUC2G241
-- Name: 74AUC2G241
-- Description: 74AUC2G241
+- Name: 74xGxx : 74AUC2G241
+- Description: 74xGxx : 74AUC2G241
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-74xGxx-74AUC2G241](http://oom.lt/SYMBOL-kicad-kicad-symbols-74xGxx-74AUC2G241)
 - Short Link: [http://oom.lt/SZK74XGXX74AUC2G241](http://oom.lt/SZK74XGXX74AUC2G241)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74AUC2G241|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xGxx-74AUC2G241|
 |Hex ID (short code)|hexID|SZK74XGXX74AUC2G241|
-|name|name|74AUC2G241|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '74LVC2G241', 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74AUC2G241', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf', 'kicadSymbolki_keywords': 'Dual Buff Tri-State LVC CMOS', 'kicadSymbolki_description': 'Dual Buffer Tri-State, Low-Voltage CMOS', 'kicadSymbolki_fp_filters': 'VSSOP*'}]|
+|name|name|74xGxx : 74AUC2G241|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> '74LVC2G241'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> '74AUC2G241'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/sg/scyt129e/scyt129e.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Dual Buff Tri-State LVC CMOS'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Dual Buffer Tri-State</td><td> Low-Voltage CMOS'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'VSSOP*'</td></tr></table>]|
 ||||

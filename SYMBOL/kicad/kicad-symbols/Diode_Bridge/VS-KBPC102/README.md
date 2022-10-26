@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDIODEBRIDGEVSKBPC12 > VS-KBPC102
+# SZKDIODEBRIDGEVSKBPC12 > Diode_Bridge : VS-KBPC102
 
 - ID: SYMBOL-kicad-kicad-symbols-Diode_Bridge-VS-KBPC102
 - Hex ID: SZKDIODEBRIDGEVSKBPC12
-- Name: VS-KBPC102
-- Description: VS-KBPC102
+- Name: Diode_Bridge : VS-KBPC102
+- Description: Diode_Bridge : VS-KBPC102
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-VS-KBPC102](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-VS-KBPC102)
 - Short Link: [http://oom.lt/SZKDIODEBRIDGEVSKBPC12](http://oom.lt/SZKDIODEBRIDGEVSKBPC12)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|VS-KBPC102|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode_Bridge-VS-KBPC102|
 |Hex ID (short code)|hexID|SZKDIODEBRIDGEVSKBPC12|
-|name|name|VS-KBPC102|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'VS-KBPC1005', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'VS-KBPC102', 'kicadSymbolFootprint': 'Diode_THT:Diode_Bridge_Vishay_KBPC1', 'kicadSymbolDatasheet': 'http://www.vishay.com/docs/93585/vs-kbpc1series.pdf', 'kicadSymbolki_keywords': 'rectifier acdc', 'kicadSymbolki_description': 'Single-Phase Bridge Rectifier, 80V Vrms, 3.0A If, KBPC1 package', 'kicadSymbolki_fp_filters': 'D*Bridge*Vishay*KBPC1*'}]|
+|name|name|Diode_Bridge : VS-KBPC102|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'VS-KBPC1005'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'VS-KBPC102'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Diode_THT</td></tr><tr><td>Diode_Bridge_Vishay_KBPC1'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.vishay.com/docs/93585/vs-kbpc1series.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'rectifier acdc'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Single-Phase Bridge Rectifier</td><td> 80V Vrms</td><td> 3.0A If</td><td> KBPC1 package'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'D*Bridge*Vishay*KBPC1*'</td></tr></table>]|
 ||||

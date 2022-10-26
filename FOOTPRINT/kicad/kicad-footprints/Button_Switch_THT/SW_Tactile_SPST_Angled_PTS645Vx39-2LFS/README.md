@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_Tactile_SPST_Angled_PTS645Vx39-2LFS|
 |Hex ID (short code)|hexID|FZKBSWTACTILESPSTANGLPTS645VX392LFS|
 |name|name|Button_Switch_THT : SW_Tactile_SPST_Angled_PTS645Vx39-2LFS|
-|Footprint Kicad|footprintKicadDetails|{'name': 'SW_Tactile_SPST_Angled_PTS645Vx39-2LFS', 'description': 'tactile switch SPST right angle, PTS645VL39-2 LFS', 'tags': 'tactile switch SPST angled PTS645VL39-2 LFS C&K Button', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_Tactile_SPST_Angled_PTS645Vx39-2LFS.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SW_Tactile_SPST_Angled_PTS645Vx39-2LFS'</td><td> 'description'</td></tr><tr><td> 'tactile switch SPST right angle</td><td> PTS645VL39-2 LFS'</td><td> 'tags'</td></tr><tr><td> 'tactile switch SPST angled PTS645VL39-2 LFS C&K Button'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Button_Switch_THT.3dshapes/SW_Tactile_SPST_Angled_PTS645Vx39-2LFS.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

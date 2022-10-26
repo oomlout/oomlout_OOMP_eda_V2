@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORLINEARLM29315TO22 > LM2931-5.0_TO220
+# SZKREGULATORLINEARLM29315TO22 > Regulator_Linear : LM2931-5.0_TO220
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-LM2931-5.0_TO220
 - Hex ID: SZKREGULATORLINEARLM29315TO22
-- Name: LM2931-5.0_TO220
-- Description: LM2931-5.0_TO220
+- Name: Regulator_Linear : LM2931-5.0_TO220
+- Description: Regulator_Linear : LM2931-5.0_TO220
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LM2931-5.0_TO220](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LM2931-5.0_TO220)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARLM29315TO22](http://oom.lt/SZKREGULATORLINEARLM29315TO22)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM2931-5.0_TO220|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-LM2931-5.0_TO220|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARLM29315TO22|
-|name|name|LM2931-5.0_TO220|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LM7805_TO220', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM2931-5.0_TO220', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-220-3_Vertical', 'kicadSymbolDatasheet': 'https://www.ti.com/lit/ds/symlink/lm2931-n.pdf', 'kicadSymbolki_keywords': 'Low Dropout Voltage Regulator 100mA Positive', 'kicadSymbolki_description': 'Positive 100 mA 60V Linear Low Dropout Regulator, Fixed Output 5V, TO-220', 'kicadSymbolki_fp_filters': 'TO?220*'}]|
+|name|name|Regulator_Linear : LM2931-5.0_TO220|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'LM7805_TO220'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LM2931-5.0_TO220'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_THT</td></tr><tr><td>TO-220-3_Vertical'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.ti.com/lit/ds/symlink/lm2931-n.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Low Dropout Voltage Regulator 100mA Positive'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Positive 100 mA 60V Linear Low Dropout Regulator</td><td> Fixed Output 5V</td><td> TO-220'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TO?220*'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORFETFDMS8655ET6 > FDMS86550ET60
+# SZKTRANSISTORFETFDMS8655ET6 > Transistor_FET : FDMS86550ET60
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-FDMS86550ET60
 - Hex ID: SZKTRANSISTORFETFDMS8655ET6
-- Name: FDMS86550ET60
-- Description: FDMS86550ET60
+- Name: Transistor_FET : FDMS86550ET60
+- Description: Transistor_FET : FDMS86550ET60
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-FDMS86550ET60](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-FDMS86550ET60)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETFDMS8655ET6](http://oom.lt/SZKTRANSISTORFETFDMS8655ET6)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|FDMS86550ET60|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-FDMS86550ET60|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETFDMS8655ET6|
-|name|name|FDMS86550ET60|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'CSD17578Q5A', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'FDMS86550ET60', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TDSON-8-1', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pub/Collateral/FDMS86550ET60-D.pdf', 'kicadSymbolki_keywords': 'powertrench MOSFET fairchild', 'kicadSymbolki_description': '32A Id, 60V Vds, N-Channel PowerTrench MOSFET, 1.65mOhm Ron, 154nC Qgmax, -55 to 175 °C, 5x6mm SON8', 'kicadSymbolki_fp_filters': 'TDSON*'}]|
+|name|name|Transistor_FET : FDMS86550ET60|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'CSD17578Q5A'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'FDMS86550ET60'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>TDSON-8-1'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.onsemi.com/pub/Collateral/FDMS86550ET60-D.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'powertrench MOSFET fairchild'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '32A Id</td><td> 60V Vds</td><td> N-Channel PowerTrench MOSFET</td><td> 1.65mOhm Ron</td><td> 154nC Qgmax</td><td> -55 to 175 °C</td><td> 5x6mm SON8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TDSON*'</td></tr></table>]|
 ||||

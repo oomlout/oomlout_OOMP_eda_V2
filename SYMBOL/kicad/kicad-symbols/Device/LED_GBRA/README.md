@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDEVICELGBRA > LED_GBRA
+# SZKDEVICELGBRA > Device : LED_GBRA
 
 - ID: SYMBOL-kicad-kicad-symbols-Device-LED_GBRA
 - Hex ID: SZKDEVICELGBRA
-- Name: LED_GBRA
-- Description: LED_GBRA
+- Name: Device : LED_GBRA
+- Description: Device : LED_GBRA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-LED_GBRA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-LED_GBRA)
 - Short Link: [http://oom.lt/SZKDEVICELGBRA](http://oom.lt/SZKDEVICELGBRA)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LED_GBRA|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-LED_GBRA|
 |Hex ID (short code)|hexID|SZKDEVICELGBRA|
-|name|name|LED_GBRA|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'LED_GBRA', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'LED RGB diode', 'kicadSymbolki_description': 'RGB LED, green/blue/red/anode', 'kicadSymbolki_fp_filters': 'LED* LED_SMD:* LED_THT:*'}]|
+|name|name|Device : LED_GBRA|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LED_GBRA'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'LED RGB diode'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'RGB LED</td><td> green/blue/red/anode'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'LED* LED_SMD</td></tr><tr><td>* LED_THT</td></tr><tr><td>*'</td></tr></table>]|
 ||||

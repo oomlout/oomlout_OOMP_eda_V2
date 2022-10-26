@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORSWITCHINGLM2596T12 > LM2596T-12
+# SZKREGULATORSWITCHINGLM2596T12 > Regulator_Switching : LM2596T-12
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM2596T-12
 - Hex ID: SZKREGULATORSWITCHINGLM2596T12
-- Name: LM2596T-12
-- Description: LM2596T-12
+- Name: Regulator_Switching : LM2596T-12
+- Description: Regulator_Switching : LM2596T-12
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM2596T-12](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM2596T-12)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGLM2596T12](http://oom.lt/SZKREGULATORSWITCHINGLM2596T12)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM2596T-12|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM2596T-12|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGLM2596T12|
-|name|name|LM2596T-12|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM2596T-12', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-220-5_P3.4x3.7mm_StaggerOdd_Lead3.8mm_Vertical', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lm2596.pdf', 'kicadSymbolki_keywords': 'Step-Down Voltage Regulator 12V 3A', 'kicadSymbolki_description': '12V 3A 150kHz Step-Down Voltage Regulator, TO-220', 'kicadSymbolki_fp_filters': 'TO?220*'}]|
+|name|name|Regulator_Switching : LM2596T-12|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LM2596T-12'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_THT</td></tr><tr><td>TO-220-5_P3.4x3.7mm_StaggerOdd_Lead3.8mm_Vertical'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/lm2596.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Step-Down Voltage Regulator 12V 3A'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '12V 3A 150kHz Step-Down Voltage Regulator</td><td> TO-220'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TO?220*'</td></tr></table>]|
 ||||

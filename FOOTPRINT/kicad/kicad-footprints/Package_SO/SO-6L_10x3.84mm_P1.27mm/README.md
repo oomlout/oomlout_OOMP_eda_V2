@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SO-SO-6L_10x3.84mm_P1.27mm|
 |Hex ID (short code)|hexID|FZKSOSO6L1X384P127|
 |name|name|Package_SO : SO-6L_10x3.84mm_P1.27mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'SO-6L_10x3.84mm_P1.27mm', 'description': '6-pin plasic small outline 7,5mm long https://toshiba.semicon-storage.com/info/docget.jsp?did=53548&prodName=TLP2770', 'tags': 'SO-6L', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/SO-6L_10x3.84mm_P1.27mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SO-6L_10x3.84mm_P1.27mm'</td><td> 'description'</td></tr><tr><td> '6-pin plasic small outline 7</td><td>5mm long https</td></tr><tr><td>//toshiba.semicon-storage.com/info/docget.jsp?did=53548&prodName=TLP2770'</td><td> 'tags'</td></tr><tr><td> 'SO-6L'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_SO.3dshapes/SO-6L_10x3.84mm_P1.27mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

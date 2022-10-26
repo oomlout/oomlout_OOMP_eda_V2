@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORBJTBCP51 > BCP51
+# SZKTRANSISTORBJTBCP51 > Transistor_BJT : BCP51
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-BCP51
 - Hex ID: SZKTRANSISTORBJTBCP51
-- Name: BCP51
-- Description: BCP51
+- Name: Transistor_BJT : BCP51
+- Description: Transistor_BJT : BCP51
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BCP51](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BCP51)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTBCP51](http://oom.lt/SZKTRANSISTORBJTBCP51)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BCP51|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_BJT-BCP51|
 |Hex ID (short code)|hexID|SZKTRANSISTORBJTBCP51|
-|name|name|BCP51|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'BCP51', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-223-3_TabPin2', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pub/Collateral/BCP51-D.pdf', 'kicadSymbolki_keywords': 'PNP Transistor', 'kicadSymbolki_description': '1A Ic, 45V Vce, PNP Medium Power Transistor, SOT-223', 'kicadSymbolki_fp_filters': 'SOT?223*'}]|
+|name|name|Transistor_BJT : BCP51|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'BCP51'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-223-3_TabPin2'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.onsemi.com/pub/Collateral/BCP51-D.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'PNP Transistor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '1A Ic</td><td> 45V Vce</td><td> PNP Medium Power Transistor</td><td> SOT-223'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?223*'</td></tr></table>]|
 ||||

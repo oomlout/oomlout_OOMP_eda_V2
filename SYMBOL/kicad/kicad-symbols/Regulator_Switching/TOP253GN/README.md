@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORSWITCHINGTOP253GN > TOP253GN
+# SZKREGULATORSWITCHINGTOP253GN > Regulator_Switching : TOP253GN
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-TOP253GN
 - Hex ID: SZKREGULATORSWITCHINGTOP253GN
-- Name: TOP253GN
-- Description: TOP253GN
+- Name: Regulator_Switching : TOP253GN
+- Description: Regulator_Switching : TOP253GN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TOP253GN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TOP253GN)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGTOP253GN](http://oom.lt/SZKREGULATORSWITCHINGTOP253GN)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TOP253GN|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-TOP253GN|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGTOP253GN|
-|name|name|TOP253GN|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TOP252GN', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TOP253GN', 'kicadSymbolFootprint': 'Package_DIP:PowerIntegrations_SMD-8C', 'kicadSymbolDatasheet': 'https://ac-dc.power.com/sites/default/files/product-docs/topswitch-hx_family_datasheet.pdf', 'kicadSymbolki_keywords': 'Eco Smart Off-Line Switcher, Extendend Power Range', 'kicadSymbolki_description': 'TOPSwitch-HX Family, 15W Output Power', 'kicadSymbolki_fp_filters': 'PowerIntegrations?SMD?8C*'}]|
+|name|name|Regulator_Switching : TOP253GN|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'TOP252GN'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TOP253GN'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>PowerIntegrations_SMD-8C'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//ac-dc.power.com/sites/default/files/product-docs/topswitch-hx_family_datasheet.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Eco Smart Off-Line Switcher</td><td> Extendend Power Range'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'TOPSwitch-HX Family</td><td> 15W Output Power'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'PowerIntegrations?SMD?8C*'</td></tr></table>]|
 ||||

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_SUR_SM22B-SURS-TF_1x22-1MP_P0.80mm_Horizontal|
 |Hex ID (short code)|hexID|FZKCNJSTJSTSURSM22BSURSTF1X221MPP8HORIZONTAL|
 |name|name|Connector_JST : JST_SUR_SM22B-SURS-TF_1x22-1MP_P0.80mm_Horizontal|
-|Footprint Kicad|footprintKicadDetails|{'name': 'JST_SUR_SM22B-SURS-TF_1x22-1MP_P0.80mm_Horizontal', 'description': 'JST SUR series connector, SM22B-SURS-TF (http://www.jst-mfg.com/product/pdf/eng/eSUR.pdf), generated with kicad-footprint-generator', 'tags': 'connector JST SUR top entry', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_JST.3dshapes/JST_SUR_SM22B-SURS-TF_1x22-1MP_P0.80mm_Horizontal.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'JST_SUR_SM22B-SURS-TF_1x22-1MP_P0.80mm_Horizontal'</td><td> 'description'</td></tr><tr><td> 'JST SUR series connector</td><td> SM22B-SURS-TF (http</td></tr><tr><td>//www.jst-mfg.com/product/pdf/eng/eSUR.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'connector JST SUR top entry'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_JST.3dshapes/JST_SUR_SM22B-SURS-TF_1x22-1MP_P0.80mm_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

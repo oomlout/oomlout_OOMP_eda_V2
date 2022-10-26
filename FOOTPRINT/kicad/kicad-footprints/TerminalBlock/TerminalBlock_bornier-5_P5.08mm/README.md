@@ -29,5 +29,5 @@ NO IMAGE
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-TerminalBlock-TerminalBlock_bornier-5_P5.08mm|
 |Hex ID (short code)|hexID|FZKTBTBBORNIER5P58|
 |name|name|TerminalBlock : TerminalBlock_bornier-5_P5.08mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'TerminalBlock_bornier-5_P5.08mm', 'description': 'simple 5-pin terminal block, pitch 5.08mm, revamped version of bornier5', 'tags': 'terminal block bornier5', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/TerminalBlock.3dshapes/TerminalBlock_bornier-5_P5.08mm.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'TerminalBlock_bornier-5_P5.08mm'</td><td> 'description'</td></tr><tr><td> 'simple 5-pin terminal block</td><td> pitch 5.08mm</td><td> revamped version of bornier5'</td><td> 'tags'</td></tr><tr><td> 'terminal block bornier5'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/TerminalBlock.3dshapes/TerminalBlock_bornier-5_P5.08mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

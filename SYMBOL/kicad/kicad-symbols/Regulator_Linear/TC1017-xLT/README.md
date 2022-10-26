@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORLINEARTC117XLT > TC1017-xLT
+# SZKREGULATORLINEARTC117XLT > Regulator_Linear : TC1017-xLT
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-TC1017-xLT
 - Hex ID: SZKREGULATORLINEARTC117XLT
-- Name: TC1017-xLT
-- Description: TC1017-xLT
+- Name: Regulator_Linear : TC1017-xLT
+- Description: Regulator_Linear : TC1017-xLT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TC1017-xLT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TC1017-xLT)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARTC117XLT](http://oom.lt/SZKREGULATORLINEARTC117XLT)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TC1017-xLT|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-TC1017-xLT|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARTC117XLT|
-|name|name|TC1017-xLT|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TC1017-xLT', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-353_SC-70-5', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/21813F.pdf', 'kicadSymbolki_keywords': 'LDO Linear Voltage Regulator', 'kicadSymbolki_description': '150mA, Tiny CMOS LDO With Shutdown, SC-70-5', 'kicadSymbolki_fp_filters': 'SOT*353*'}]|
+|name|name|Regulator_Linear : TC1017-xLT|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TC1017-xLT'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-353_SC-70-5'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/21813F.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'LDO Linear Voltage Regulator'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '150mA</td><td> Tiny CMOS LDO With Shutdown</td><td> SC-70-5'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT*353*'</td></tr></table>]|
 ||||

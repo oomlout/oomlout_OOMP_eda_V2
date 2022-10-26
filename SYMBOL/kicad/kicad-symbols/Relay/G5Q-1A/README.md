@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKRELAYG5Q1A > G5Q-1A
+# SZKRELAYG5Q1A > Relay : G5Q-1A
 
 - ID: SYMBOL-kicad-kicad-symbols-Relay-G5Q-1A
 - Hex ID: SZKRELAYG5Q1A
-- Name: G5Q-1A
-- Description: G5Q-1A
+- Name: Relay : G5Q-1A
+- Description: Relay : G5Q-1A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-G5Q-1A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-G5Q-1A)
 - Short Link: [http://oom.lt/SZKRELAYG5Q1A](http://oom.lt/SZKRELAYG5Q1A)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|G5Q-1A|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Relay-G5Q-1A|
 |Hex ID (short code)|hexID|SZKRELAYG5Q1A|
-|name|name|G5Q-1A|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'K', 'kicadSymbolValue': 'G5Q-1A', 'kicadSymbolFootprint': 'Relay_THT:Relay_SPST_Omron-G5Q-1A', 'kicadSymbolDatasheet': 'https://www.omron.com/ecb/products/pdf/en-g5q.pdf', 'kicadSymbolki_keywords': 'Miniature Single Pole Relay', 'kicadSymbolki_description': 'Omron G5Q relay, Miniature Single Pole, SPST-NO, 10A', 'kicadSymbolki_fp_filters': 'Relay*SPST*Omron*G5Q*'}]|
+|name|name|Relay : G5Q-1A|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'K'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'G5Q-1A'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Relay_THT</td></tr><tr><td>Relay_SPST_Omron-G5Q-1A'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.omron.com/ecb/products/pdf/en-g5q.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Miniature Single Pole Relay'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Omron G5Q relay</td><td> Miniature Single Pole</td><td> SPST-NO</td><td> 10A'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Relay*SPST*Omron*G5Q*'</td></tr></table>]|
 ||||

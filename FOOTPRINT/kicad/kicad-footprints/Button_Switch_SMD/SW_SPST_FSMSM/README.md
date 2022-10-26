@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_SPST_FSMSM|
 |Hex ID (short code)|hexID|FZKBSWITCHSMSWSPSTFSMSM|
 |name|name|Button_Switch_SMD : SW_SPST_FSMSM|
-|Footprint Kicad|footprintKicadDetails|{'name': 'SW_SPST_FSMSM', 'description': 'http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1437566-3&DocType=Customer+Drawing&DocLang=English', 'tags': 'SPST button tactile switch', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_SPST_FSMSM.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SW_SPST_FSMSM'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1437566-3&DocType=Customer+Drawing&DocLang=English'</td><td> 'tags'</td></tr><tr><td> 'SPST button tactile switch'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Button_Switch_SMD.3dshapes/SW_SPST_FSMSM.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

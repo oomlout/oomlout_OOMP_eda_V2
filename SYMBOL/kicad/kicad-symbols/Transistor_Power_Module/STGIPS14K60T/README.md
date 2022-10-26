@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORPOWERMOSTGIPS14K6T > STGIPS14K60T
+# SZKTRANSISTORPOWERMOSTGIPS14K6T > Transistor_Power_Module : STGIPS14K60T
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_Power_Module-STGIPS14K60T
 - Hex ID: SZKTRANSISTORPOWERMOSTGIPS14K6T
-- Name: STGIPS14K60T
-- Description: STGIPS14K60T
+- Name: Transistor_Power_Module : STGIPS14K60T
+- Description: Transistor_Power_Module : STGIPS14K60T
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_Power_Module-STGIPS14K60T](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_Power_Module-STGIPS14K60T)
 - Short Link: [http://oom.lt/SZKTRANSISTORPOWERMOSTGIPS14K6T](http://oom.lt/SZKTRANSISTORPOWERMOSTGIPS14K6T)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|STGIPS14K60T|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_Power_Module-STGIPS14K60T|
 |Hex ID (short code)|hexID|SZKTRANSISTORPOWERMOSTGIPS14K6T|
-|name|name|STGIPS14K60T|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'STGIPS14K60T', 'kicadSymbolFootprint': 'Transistor_Power_Module:ST_SDIP-25L', 'kicadSymbolDatasheet': 'https://www.st.com/resource/en/datasheet/stgips14k60t.pdf', 'kicadSymbolki_keywords': 'SLLIMM IPM inverter short-circuit rugged IGBT', 'kicadSymbolki_description': '14 A, 600 V, 20KHz, 42Wx6,  3-phase, Control Logic, Negative Input , Freewheeling Diode, Undervoltage Lockout, Interlocking, Shut down (SD), 4k7 NTC, SDIP-25L', 'kicadSymbolki_fp_filters': 'ST*SDIP*'}]|
+|name|name|Transistor_Power_Module : STGIPS14K60T|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'STGIPS14K60T'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Transistor_Power_Module</td></tr><tr><td>ST_SDIP-25L'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.st.com/resource/en/datasheet/stgips14k60t.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'SLLIMM IPM inverter short-circuit rugged IGBT'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '14 A</td><td> 600 V</td><td> 20KHz</td><td> 42Wx6</td><td>  3-phase</td><td> Control Logic</td><td> Negative Input </td><td> Freewheeling Diode</td><td> Undervoltage Lockout</td><td> Interlocking</td><td> Shut down (SD)</td><td> 4k7 NTC</td><td> SDIP-25L'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'ST*SDIP*'</td></tr></table>]|
 ||||

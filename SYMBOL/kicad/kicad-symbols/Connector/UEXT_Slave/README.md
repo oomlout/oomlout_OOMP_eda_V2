@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKCNUEXTSLAVE > UEXT_Slave
+# SZKCNUEXTSLAVE > Connector : UEXT_Slave
 
 - ID: SYMBOL-kicad-kicad-symbols-Connector-UEXT_Slave
 - Hex ID: SZKCNUEXTSLAVE
-- Name: UEXT_Slave
-- Description: UEXT_Slave
+- Name: Connector : UEXT_Slave
+- Description: Connector : UEXT_Slave
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-UEXT_Slave](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-UEXT_Slave)
 - Short Link: [http://oom.lt/SZKCNUEXTSLAVE](http://oom.lt/SZKCNUEXTSLAVE)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|UEXT_Slave|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-UEXT_Slave|
 |Hex ID (short code)|hexID|SZKCNUEXTSLAVE|
-|name|name|UEXT_Slave|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'UEXT_Slave', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.olimex.com/Products/Modules/UEXT/resources/UEXT_rev_B.pdf', 'kicadSymbolki_keywords': 'UEXT, SPI, UART, I2C', 'kicadSymbolki_description': 'Universal EXTension (UEXT) is a connector layout which includes power and three serial buses: Asynchronous, I2C, and SPI', 'kicadSymbolki_fp_filters': '*Connector*:2x05*'}]|
+|name|name|Connector : UEXT_Slave|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'J'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'UEXT_Slave'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.olimex.com/Products/Modules/UEXT/resources/UEXT_rev_B.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'UEXT</td><td> SPI</td><td> UART</td><td> I2C'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Universal EXTension (UEXT) is a connector layout which includes power and three serial buses</td></tr><tr><td> Asynchronous</td><td> I2C</td><td> and SPI'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> '*Connector*</td></tr><tr><td>2x05*'</td></tr></table>]|
 ||||

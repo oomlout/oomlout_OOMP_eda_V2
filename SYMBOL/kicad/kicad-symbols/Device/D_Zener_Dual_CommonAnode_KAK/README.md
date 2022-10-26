@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDEVICEDZENERDUALCOONANODEKAK > D_Zener_Dual_CommonAnode_KAK
+# SZKDEVICEDZENERDUALCOONANODEKAK > Device : D_Zener_Dual_CommonAnode_KAK
 
 - ID: SYMBOL-kicad-kicad-symbols-Device-D_Zener_Dual_CommonAnode_KAK
 - Hex ID: SZKDEVICEDZENERDUALCOONANODEKAK
-- Name: D_Zener_Dual_CommonAnode_KAK
-- Description: D_Zener_Dual_CommonAnode_KAK
+- Name: Device : D_Zener_Dual_CommonAnode_KAK
+- Description: Device : D_Zener_Dual_CommonAnode_KAK
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Zener_Dual_CommonAnode_KAK](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Zener_Dual_CommonAnode_KAK)
 - Short Link: [http://oom.lt/SZKDEVICEDZENERDUALCOONANODEKAK](http://oom.lt/SZKDEVICEDZENERDUALCOONANODEKAK)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|D_Zener_Dual_CommonAnode_KAK|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-D_Zener_Dual_CommonAnode_KAK|
 |Hex ID (short code)|hexID|SZKDEVICEDZENERDUALCOONANODEKAK|
-|name|name|D_Zener_Dual_CommonAnode_KAK|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'D_Zener_Dual_CommonAnode_KAK', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'diode zener dual', 'kicadSymbolki_description': 'Dual Zener diode, common anode on pin 2', 'kicadSymbolki_fp_filters': 'SOT* SC*'}]|
+|name|name|Device : D_Zener_Dual_CommonAnode_KAK|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'D_Zener_Dual_CommonAnode_KAK'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'diode zener dual'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Dual Zener diode</td><td> common anode on pin 2'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT* SC*'</td></tr></table>]|
 ||||

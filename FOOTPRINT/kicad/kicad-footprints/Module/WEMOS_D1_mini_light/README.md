@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Module-WEMOS_D1_mini_light|
 |Hex ID (short code)|hexID|FZKMOWEMOSD1MLIGHT|
 |name|name|Module : WEMOS_D1_mini_light|
-|Footprint Kicad|footprintKicadDetails|{'name': 'WEMOS_D1_mini_light', 'description': '16-pin module, column spacing 22.86 mm (900 mils), https://wiki.wemos.cc/products:d1:d1_mini, https://c1.staticflickr.com/1/734/31400410271_f278b087db_z.jpg', 'tags': 'ESP8266 WiFi microcontroller', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x08_P2.54mm_Vertical.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'WEMOS_D1_mini_light'</td><td> 'description'</td></tr><tr><td> '16-pin module</td><td> column spacing 22.86 mm (900 mils)</td><td> https</td></tr><tr><td>//wiki.wemos.cc/products</td></tr><tr><td>d1</td></tr><tr><td>d1_mini</td><td> https</td></tr><tr><td>//c1.staticflickr.com/1/734/31400410271_f278b087db_z.jpg'</td><td> 'tags'</td></tr><tr><td> 'ESP8266 WiFi microcontroller'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x08_P2.54mm_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

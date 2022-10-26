@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDEVICEDPHOTOFILL > D_Photo_Filled
+# SZKDEVICEDPHOTOFILL > Device : D_Photo_Filled
 
 - ID: SYMBOL-kicad-kicad-symbols-Device-D_Photo_Filled
 - Hex ID: SZKDEVICEDPHOTOFILL
-- Name: D_Photo_Filled
-- Description: D_Photo_Filled
+- Name: Device : D_Photo_Filled
+- Description: Device : D_Photo_Filled
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Photo_Filled](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Photo_Filled)
 - Short Link: [http://oom.lt/SZKDEVICEDPHOTOFILL](http://oom.lt/SZKDEVICEDPHOTOFILL)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|D_Photo_Filled|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-D_Photo_Filled|
 |Hex ID (short code)|hexID|SZKDEVICEDPHOTOFILL|
-|name|name|D_Photo_Filled|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'D_Photo_Filled', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'photodiode diode opto', 'kicadSymbolki_description': 'Photodiode, filled shape'}]|
+|name|name|Device : D_Photo_Filled|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'D_Photo_Filled'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'photodiode diode opto'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Photodiode</td><td> filled shape'</td></tr></table>]|
 ||||

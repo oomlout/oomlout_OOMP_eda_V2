@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRTR6IC2 > TR60_IC2
+# SZKTRTR6IC2 > Transformer : TR60_IC2
 
 - ID: SYMBOL-kicad-kicad-symbols-Transformer-TR60_IC2
 - Hex ID: SZKTRTR6IC2
-- Name: TR60_IC2
-- Description: TR60_IC2
+- Name: Transformer : TR60_IC2
+- Description: Transformer : TR60_IC2
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-TR60_IC2](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-TR60_IC2)
 - Short Link: [http://oom.lt/SZKTRTR6IC2](http://oom.lt/SZKTRTR6IC2)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TR60_IC2|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transformer-TR60_IC2|
 |Hex ID (short code)|hexID|SZKTRTR6IC2|
-|name|name|TR60_IC2|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'TR', 'kicadSymbolValue': 'TR60_IC2', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ''}]|
+|name|name|Transformer : TR60_IC2|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'TR'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TR60_IC2'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> ''</td></tr></table>]|
 ||||

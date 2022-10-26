@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_C_Receptacle_Amphenol_12401548E4-2A|
 |Hex ID (short code)|hexID|FZKCNUUCRECEPTACLEAMPHENOL1241548E42A|
 |name|name|Connector_USB : USB_C_Receptacle_Amphenol_12401548E4-2A|
-|Footprint Kicad|footprintKicadDetails|{'name': 'USB_C_Receptacle_Amphenol_12401548E4-2A', 'description': 'USB TYPE C, RA RCPT PCB, Hybrid, https://www.amphenolcanada.com/StockAvailabilityPrice.aspx?From=&PartNum=12401548E4%7e2A', 'tags': 'USB C Type-C Receptacle Hybrid', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_USB.3dshapes/USB_C_Receptacle_Amphenol_12401548E4-2A.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'USB_C_Receptacle_Amphenol_12401548E4-2A'</td><td> 'description'</td></tr><tr><td> 'USB TYPE C</td><td> RA RCPT PCB</td><td> Hybrid</td><td> https</td></tr><tr><td>//www.amphenolcanada.com/StockAvailabilityPrice.aspx?From=&PartNum=12401548E4%7e2A'</td><td> 'tags'</td></tr><tr><td> 'USB C Type-C Receptacle Hybrid'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_USB.3dshapes/USB_C_Receptacle_Amphenol_12401548E4-2A.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

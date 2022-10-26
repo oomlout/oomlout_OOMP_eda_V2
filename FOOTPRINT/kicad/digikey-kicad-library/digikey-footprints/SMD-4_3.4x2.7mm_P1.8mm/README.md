@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SMD-4_3.4x2.7mm_P1.8mm|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSM434X27P18|
 |name|name|digikey-footprints : SMD-4_3.4x2.7mm_P1.8mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'SMD-4_3.4x2.7mm_P1.8mm', 'description': 'https://www.fairchildsemi.com/datasheets/QR/QRE1113.pdf', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SMD-4_3.4x2.7mm_P1.8mm'</td><td> 'description'</td></tr><tr><td> 'https</td></tr><tr><td>//www.fairchildsemi.com/datasheets/QR/QRE1113.pdf'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-PinHeader_2x6_P2.54mm_Vertical_SMD|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSPINHEADER2X6P254VERTICALSM|
 |name|name|digikey-footprints : PinHeader_2x6_P2.54mm_Vertical_SMD|
-|Footprint Kicad|footprintKicadDetails|{'name': 'PinHeader_2x6_P2.54mm_Vertical_SMD', 'description': 'http://www.molex.com/pdm_docs/sd/015912120_sd.pdf', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'PinHeader_2x6_P2.54mm_Vertical_SMD'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//www.molex.com/pdm_docs/sd/015912120_sd.pdf'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

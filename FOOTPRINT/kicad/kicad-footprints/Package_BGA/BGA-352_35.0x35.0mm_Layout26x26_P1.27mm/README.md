@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_BGA-BGA-352_35.0x35.0mm_Layout26x26_P1.27mm|
 |Hex ID (short code)|hexID|FZKBGABGA35235X35LAYOUT26X26P127|
 |name|name|Package_BGA : BGA-352_35.0x35.0mm_Layout26x26_P1.27mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'BGA-352_35.0x35.0mm_Layout26x26_P1.27mm', 'description': 'BGA-352, https://www.fujitsu.com/downloads/MICRO/fma/pdfmcu/b352p05.pdf', 'tags': 'BGA-352', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/BGA-352_35.0x35.0mm_Layout26x26_P1.27mm.wrl', 'pins': {'type': 'smd', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'BGA-352_35.0x35.0mm_Layout26x26_P1.27mm'</td><td> 'description'</td></tr><tr><td> 'BGA-352</td><td> https</td></tr><tr><td>//www.fujitsu.com/downloads/MICRO/fma/pdfmcu/b352p05.pdf'</td><td> 'tags'</td></tr><tr><td> 'BGA-352'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_BGA.3dshapes/BGA-352_35.0x35.0mm_Layout26x26_P1.27mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

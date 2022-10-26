@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKSENPROXIMITYITR837L24TR8 > ITR8307-L24-TR8
+# SZKSENPROXIMITYITR837L24TR8 > Sensor_Proximity : ITR8307-L24-TR8
 
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Proximity-ITR8307-L24-TR8
 - Hex ID: SZKSENPROXIMITYITR837L24TR8
-- Name: ITR8307-L24-TR8
-- Description: ITR8307-L24-TR8
+- Name: Sensor_Proximity : ITR8307-L24-TR8
+- Description: Sensor_Proximity : ITR8307-L24-TR8
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Proximity-ITR8307-L24-TR8](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Proximity-ITR8307-L24-TR8)
 - Short Link: [http://oom.lt/SZKSENPROXIMITYITR837L24TR8](http://oom.lt/SZKSENPROXIMITYITR837L24TR8)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ITR8307-L24-TR8|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Proximity-ITR8307-L24-TR8|
 |Hex ID (short code)|hexID|SZKSENPROXIMITYITR837L24TR8|
-|name|name|ITR8307-L24-TR8|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ITR1201SR10AR', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ITR8307-L24-TR8', 'kicadSymbolFootprint': 'OptoDevice:Everlight_ITR1201SR10AR', 'kicadSymbolDatasheet': 'https://www.everlight.com/file/ProductFile/ITR8307-L24-TR8.pdf', 'kicadSymbolki_keywords': 'Reflective Optical Sensor Opto reflex coupler', 'kicadSymbolki_description': 'Miniature Reflective Optical Object Sensor, SMD-4', 'kicadSymbolki_fp_filters': 'Everlight*ITR1201SR10AR*'}]|
+|name|name|Sensor_Proximity : ITR8307-L24-TR8|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'ITR1201SR10AR'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ITR8307-L24-TR8'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'OptoDevice</td></tr><tr><td>Everlight_ITR1201SR10AR'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.everlight.com/file/ProductFile/ITR8307-L24-TR8.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Reflective Optical Sensor Opto reflex coupler'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Miniature Reflective Optical Object Sensor</td><td> SMD-4'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Everlight*ITR1201SR10AR*'</td></tr></table>]|
 ||||

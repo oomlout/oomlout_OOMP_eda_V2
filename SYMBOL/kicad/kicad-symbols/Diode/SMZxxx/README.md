@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDIODESMZXXX > SMZxxx
+# SZKDIODESMZXXX > Diode : SMZxxx
 
 - ID: SYMBOL-kicad-kicad-symbols-Diode-SMZxxx
 - Hex ID: SZKDIODESMZXXX
-- Name: SMZxxx
-- Description: SMZxxx
+- Name: Diode : SMZxxx
+- Description: Diode : SMZxxx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-SMZxxx](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-SMZxxx)
 - Short Link: [http://oom.lt/SZKDIODESMZXXX](http://oom.lt/SZKDIODESMZXXX)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SMZxxx|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-SMZxxx|
 |Hex ID (short code)|hexID|SZKDIODESMZXXX|
-|name|name|SMZxxx|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ZPYxx', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'SMZxxx', 'kicadSymbolFootprint': 'Diode_SMD:D_MELF', 'kicadSymbolDatasheet': 'https://diotec.com/tl_files/diotec/files/pdf/datasheets/smz1.pdf', 'kicadSymbolki_keywords': 'zener diode', 'kicadSymbolki_description': '2000mW Zener Diode, MELF', 'kicadSymbolki_fp_filters': 'D*MELF*'}]|
+|name|name|Diode : SMZxxx|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'ZPYxx'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'SMZxxx'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Diode_SMD</td></tr><tr><td>D_MELF'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//diotec.com/tl_files/diotec/files/pdf/datasheets/smz1.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'zener diode'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '2000mW Zener Diode</td><td> MELF'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'D*MELF*'</td></tr></table>]|
 ||||

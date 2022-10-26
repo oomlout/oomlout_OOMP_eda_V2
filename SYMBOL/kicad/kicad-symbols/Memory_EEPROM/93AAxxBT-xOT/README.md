@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMEMORYEEPROM93AAXXBTXOT > 93AAxxBT-xOT
+# SZKMEMORYEEPROM93AAXXBTXOT > Memory_EEPROM : 93AAxxBT-xOT
 
 - ID: SYMBOL-kicad-kicad-symbols-Memory_EEPROM-93AAxxBT-xOT
 - Hex ID: SZKMEMORYEEPROM93AAXXBTXOT
-- Name: 93AAxxBT-xOT
-- Description: 93AAxxBT-xOT
+- Name: Memory_EEPROM : 93AAxxBT-xOT
+- Description: Memory_EEPROM : 93AAxxBT-xOT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_EEPROM-93AAxxBT-xOT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_EEPROM-93AAxxBT-xOT)
 - Short Link: [http://oom.lt/SZKMEMORYEEPROM93AAXXBTXOT](http://oom.lt/SZKMEMORYEEPROM93AAXXBTXOT)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|93AAxxBT-xOT|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Memory_EEPROM-93AAxxBT-xOT|
 |Hex ID (short code)|hexID|SZKMEMORYEEPROM93AAXXBTXOT|
-|name|name|93AAxxBT-xOT|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '93AAxxAT-xOT', 'kicadSymbolReference': 'U', 'kicadSymbolValue': '93AAxxBT-xOT', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-6', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/20001749K.pdf', 'kicadSymbolki_keywords': 'EEPROM memory Microwire', 'kicadSymbolki_description': 'Serial EEPROM, 93 Series, 16-bit word, 1.8V, SOT-23', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
+|name|name|Memory_EEPROM : 93AAxxBT-xOT|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> '93AAxxAT-xOT'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> '93AAxxBT-xOT'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-23-6'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/20001749K.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'EEPROM memory Microwire'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Serial EEPROM</td><td> 93 Series</td><td> 16-bit word</td><td> 1.8V</td><td> SOT-23'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23*'</td></tr></table>]|
 ||||

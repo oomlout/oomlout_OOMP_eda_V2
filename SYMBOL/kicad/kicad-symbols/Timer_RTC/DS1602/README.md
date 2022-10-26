@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTIMERRTCDS162 > DS1602
+# SZKTIMERRTCDS162 > Timer_RTC : DS1602
 
 - ID: SYMBOL-kicad-kicad-symbols-Timer_RTC-DS1602
 - Hex ID: SZKTIMERRTCDS162
-- Name: DS1602
-- Description: DS1602
+- Name: Timer_RTC : DS1602
+- Description: Timer_RTC : DS1602
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer_RTC-DS1602](http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer_RTC-DS1602)
 - Short Link: [http://oom.lt/SZKTIMERRTCDS162](http://oom.lt/SZKTIMERRTCDS162)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DS1602|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Timer_RTC-DS1602|
 |Hex ID (short code)|hexID|SZKTIMERRTCDS162|
-|name|name|DS1602|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'DS1602', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://datasheets.maximintegrated.com/en/ds/DS1602.pdf', 'kicadSymbolki_keywords': 'Elapsed Time Counter', 'kicadSymbolki_description': 'Elapsed Time Counter, -40 to +85 C, 2.5V to 5.5V VCC, DIP-8, SO-8', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm* SO*5.3x6.2mm?P1.27mm*'}]|
+|name|name|Timer_RTC : DS1602|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'DS1602'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//datasheets.maximintegrated.com/en/ds/DS1602.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Elapsed Time Counter'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Elapsed Time Counter</td><td> -40 to +85 C</td><td> 2.5V to 5.5V VCC</td><td> DIP-8</td><td> SO-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W7.62mm* SO*5.3x6.2mm?P1.27mm*'</td></tr></table>]|
 ||||

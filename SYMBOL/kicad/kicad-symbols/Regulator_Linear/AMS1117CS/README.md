@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORLINEARAMS1117CS > AMS1117CS
+# SZKREGULATORLINEARAMS1117CS > Regulator_Linear : AMS1117CS
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-AMS1117CS
 - Hex ID: SZKREGULATORLINEARAMS1117CS
-- Name: AMS1117CS
-- Description: AMS1117CS
+- Name: Regulator_Linear : AMS1117CS
+- Description: Regulator_Linear : AMS1117CS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-AMS1117CS](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-AMS1117CS)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARAMS1117CS](http://oom.lt/SZKREGULATORLINEARAMS1117CS)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AMS1117CS|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-AMS1117CS|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARAMS1117CS|
-|name|name|AMS1117CS|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AMS1117CS', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm', 'kicadSymbolDatasheet': 'http://www.advanced-monolithic.com/pdf/ds1117.pdf', 'kicadSymbolki_keywords': 'linear regulator ldo fixed positive', 'kicadSymbolki_description': '1A Low Dropout regulator, positive, adjustable output, SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm*'}]|
+|name|name|Regulator_Linear : AMS1117CS|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'AMS1117CS'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-8_3.9x4.9mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.advanced-monolithic.com/pdf/ds1117.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'linear regulator ldo fixed positive'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '1A Low Dropout regulator</td><td> positive</td><td> adjustable output</td><td> SOIC-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*3.9x4.9mm*P1.27mm*'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUMCHIPATMEGAATMEGA6442A > ATmega644-20A
+# SZKMCUMCHIPATMEGAATMEGA6442A > MCU_Microchip_ATmega : ATmega644-20A
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega644-20A
 - Hex ID: SZKMCUMCHIPATMEGAATMEGA6442A
-- Name: ATmega644-20A
-- Description: ATmega644-20A
+- Name: MCU_Microchip_ATmega : ATmega644-20A
+- Description: MCU_Microchip_ATmega : ATmega644-20A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega644-20A](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega644-20A)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATMEGAATMEGA6442A](http://oom.lt/SZKMCUMCHIPATMEGAATMEGA6442A)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ATmega644-20A|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega644-20A|
 |Hex ID (short code)|hexID|SZKMCUMCHIPATMEGAATMEGA6442A|
-|name|name|ATmega644-20A|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ATmega644V-10A', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ATmega644-20A', 'kicadSymbolFootprint': 'Package_QFP:TQFP-44_10x10mm_P0.8mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/doc2593.pdf', 'kicadSymbolki_keywords': 'AVR 8bit Microcontroller MegaAVR', 'kicadSymbolki_description': '20MHz, 64kB Flash, 4kB SRAM, 2kB EEPROM, JTAG, TQFP-44', 'kicadSymbolki_fp_filters': 'TQFP*10x10mm*P0.8mm*'}]|
+|name|name|MCU_Microchip_ATmega : ATmega644-20A|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'ATmega644V-10A'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ATmega644-20A'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_QFP</td></tr><tr><td>TQFP-44_10x10mm_P0.8mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/doc2593.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'AVR 8bit Microcontroller MegaAVR'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '20MHz</td><td> 64kB Flash</td><td> 4kB SRAM</td><td> 2kB EEPROM</td><td> JTAG</td><td> TQFP-44'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TQFP*10x10mm*P0.8mm*'</td></tr></table>]|
 ||||

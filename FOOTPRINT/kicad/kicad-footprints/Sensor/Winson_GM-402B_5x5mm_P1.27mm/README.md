@@ -29,5 +29,5 @@ NO IMAGE
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Sensor-Winson_GM-402B_5x5mm_P1.27mm|
 |Hex ID (short code)|hexID|FZKSENWINSONGM42B5X5P127|
 |name|name|Sensor : Winson_GM-402B_5x5mm_P1.27mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Winson_GM-402B_5x5mm_P1.27mm', 'description': 'Winson GM-402B, 8 Pin (https://www.winsen-sensor.com/d/files/me2/mems--gm-402b--manual-v1_1.pdf)', 'tags': 'Winson', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Sensor.3dshapes/Winson_GM-402B_5x5mm_P1.27mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Winson_GM-402B_5x5mm_P1.27mm'</td><td> 'description'</td></tr><tr><td> 'Winson GM-402B</td><td> 8 Pin (https</td></tr><tr><td>//www.winsen-sensor.com/d/files/me2/mems--gm-402b--manual-v1_1.pdf)'</td><td> 'tags'</td></tr><tr><td> 'Winson'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Sensor.3dshapes/Winson_GM-402B_5x5mm_P1.27mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

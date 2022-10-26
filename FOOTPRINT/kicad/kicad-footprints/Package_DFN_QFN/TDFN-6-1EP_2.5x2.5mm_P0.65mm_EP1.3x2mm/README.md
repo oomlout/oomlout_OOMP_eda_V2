@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-TDFN-6-1EP_2.5x2.5mm_P0.65mm_EP1.3x2mm|
 |Hex ID (short code)|hexID|FZKDFNTDFN61EP25X25P65EP13X2|
 |name|name|Package_DFN_QFN : TDFN-6-1EP_2.5x2.5mm_P0.65mm_EP1.3x2mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'TDFN-6-1EP_2.5x2.5mm_P0.65mm_EP1.3x2mm', 'description': 'TDFN, 6 Pin (http://www.nve.com/Downloads/ab3.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py', 'tags': 'TDFN NoLead', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/TDFN-6-1EP_2.5x2.5mm_P0.65mm_EP1.3x2mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'TDFN-6-1EP_2.5x2.5mm_P0.65mm_EP1.3x2mm'</td><td> 'description'</td></tr><tr><td> 'TDFN</td><td> 6 Pin (http</td></tr><tr><td>//www.nve.com/Downloads/ab3.pdf)</td><td> generated with kicad-footprint-generator ipc_noLead_generator.py'</td><td> 'tags'</td></tr><tr><td> 'TDFN NoLead'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DFN_QFN.3dshapes/TDFN-6-1EP_2.5x2.5mm_P0.65mm_EP1.3x2mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

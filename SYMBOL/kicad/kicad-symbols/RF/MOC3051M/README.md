@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKRFMOC351M > MOC3051M
+# SZKRFMOC351M > RF : MOC3051M
 
 - ID: SYMBOL-kicad-kicad-symbols-RF-MOC3051M
 - Hex ID: SZKRFMOC351M
-- Name: MOC3051M
-- Description: MOC3051M
+- Name: RF : MOC3051M
+- Description: RF : MOC3051M
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF-MOC3051M](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF-MOC3051M)
 - Short Link: [http://oom.lt/SZKRFMOC351M](http://oom.lt/SZKRFMOC351M)
   
@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|MOC3051M|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-RF-MOC3051M|
 |Hex ID (short code)|hexID|SZKRFMOC351M|
-|name|name|MOC3051M|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MOC3010M', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MOC3051M', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pub/Collateral/MOC3052M-D.PDF', 'kicadSymbolki_keywords': 'Opto-Triac Opto Triac Random Phase', 'kicadSymbolki_description': 'Random Phase Opto-Triac, Vdrm 600V, Ift 15mA, DIP6', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm* SMDIP*W9.53mm* DIP*W10.16mm*'}]|
+|name|name|RF : MOC3051M|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'MOC3010M'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MOC3051M'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.onsemi.com/pub/Collateral/MOC3052M-D.PDF'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Opto-Triac Opto Triac Random Phase'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Random Phase Opto-Triac</td><td> Vdrm 600V</td><td> Ift 15mA</td><td> DIP6'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W7.62mm* SMDIP*W9.53mm* DIP*W10.16mm*'</td></tr></table>]|
 ||||

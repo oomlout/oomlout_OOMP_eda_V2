@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_XP_POWER-ISU02_SMD|
 |Hex ID (short code)|hexID|FZKCONCONXPPOWERISU2SM|
 |name|name|Converter_DCDC : Converter_DCDC_XP_POWER-ISU02_SMD|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Converter_DCDC_XP_POWER-ISU02_SMD', 'description': 'DCDC-Converter, XP POWER, ISU02 Series, 2W Single and Dual Output, 1500VDC Isolation, 19.0x17.0x8.7mm https://www.xppower.com/Portals/0/pdfs/SF_ISU02.pdf', 'tags': 'DCDC SMD XP POWER ISU02', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Converter_DCDC.3dshapes/Converter_DCDC_XP_POWER_ISU02-Series_SMD.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Converter_DCDC_XP_POWER-ISU02_SMD'</td><td> 'description'</td></tr><tr><td> 'DCDC-Converter</td><td> XP POWER</td><td> ISU02 Series</td><td> 2W Single and Dual Output</td><td> 1500VDC Isolation</td><td> 19.0x17.0x8.7mm https</td></tr><tr><td>//www.xppower.com/Portals/0/pdfs/SF_ISU02.pdf'</td><td> 'tags'</td></tr><tr><td> 'DCDC SMD XP POWER ISU02'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Converter_DCDC.3dshapes/Converter_DCDC_XP_POWER_ISU02-Series_SMD.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

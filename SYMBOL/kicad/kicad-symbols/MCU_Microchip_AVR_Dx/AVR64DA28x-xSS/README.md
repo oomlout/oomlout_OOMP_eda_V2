@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUMCHIPAVRDXAVR64DA28XXSS > AVR64DA28x-xSS
+# SZKMCUMCHIPAVRDXAVR64DA28XXSS > MCU_Microchip_AVR_Dx : AVR64DA28x-xSS
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_AVR_Dx-AVR64DA28x-xSS
 - Hex ID: SZKMCUMCHIPAVRDXAVR64DA28XXSS
-- Name: AVR64DA28x-xSS
-- Description: AVR64DA28x-xSS
+- Name: MCU_Microchip_AVR_Dx : AVR64DA28x-xSS
+- Description: MCU_Microchip_AVR_Dx : AVR64DA28x-xSS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_AVR_Dx-AVR64DA28x-xSS](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_AVR_Dx-AVR64DA28x-xSS)
 - Short Link: [http://oom.lt/SZKMCUMCHIPAVRDXAVR64DA28XXSS](http://oom.lt/SZKMCUMCHIPAVRDXAVR64DA28XXSS)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AVR64DA28x-xSS|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_AVR_Dx-AVR64DA28x-xSS|
 |Hex ID (short code)|hexID|SZKMCUMCHIPAVRDXAVR64DA28XXSS|
-|name|name|AVR64DA28x-xSS|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'AVR32DA28x-xSO', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AVR64DA28x-xSS', 'kicadSymbolFootprint': 'Package_SO:SSOP-28_5.3x10.2mm_P0.65mm', 'kicadSymbolDatasheet': 'https://ww1.microchip.com/downloads/en/DeviceDoc/AVR64DA28-32-48-64-Data-Sheet-40002233B.pdf', 'kicadSymbolki_keywords': 'AVR 8bit Microcontroller AVR-DA', 'kicadSymbolki_description': '24MHz, 64kB Flash, 8kB SRAM, EEPROM with Touch Sensing, SSOP-28', 'kicadSymbolki_fp_filters': 'SSOP*5.3x10.2mm*P0.65mm*'}]|
+|name|name|MCU_Microchip_AVR_Dx : AVR64DA28x-xSS|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'AVR32DA28x-xSO'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'AVR64DA28x-xSS'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SSOP-28_5.3x10.2mm_P0.65mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/AVR64DA28-32-48-64-Data-Sheet-40002233B.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'AVR 8bit Microcontroller AVR-DA'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '24MHz</td><td> 64kB Flash</td><td> 8kB SRAM</td><td> EEPROM with Touch Sensing</td><td> SSOP-28'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SSOP*5.3x10.2mm*P0.65mm*'</td></tr></table>]|
 ||||

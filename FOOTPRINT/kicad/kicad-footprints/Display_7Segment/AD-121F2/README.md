@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Display_7Segment-AD-121F2|
 |Hex ID (short code)|hexID|FZKDI7SAD121F2|
 |name|name|Display_7Segment : AD-121F2|
-|Footprint Kicad|footprintKicadDetails|{'name': 'AD-121F2', 'description': 'Single Digit 7-segment RGB LED Display, 1-inch digit height, common anode, http://usasyck.com/products/AD-121F2_cat_e.pdf', 'tags': 'RGB LED digit', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Display_7Segment.3dshapes/AD-121F2.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'AD-121F2'</td><td> 'description'</td></tr><tr><td> 'Single Digit 7-segment RGB LED Display</td><td> 1-inch digit height</td><td> common anode</td><td> http</td></tr><tr><td>//usasyck.com/products/AD-121F2_cat_e.pdf'</td><td> 'tags'</td></tr><tr><td> 'RGB LED digit'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Display_7Segment.3dshapes/AD-121F2.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

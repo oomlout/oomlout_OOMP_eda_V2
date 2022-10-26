@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKPOWERSUPERVISORMAX165XTI > MAX16050xTI
+# SZKPOWERSUPERVISORMAX165XTI > Power_Supervisor : MAX16050xTI
 
 - ID: SYMBOL-kicad-kicad-symbols-Power_Supervisor-MAX16050xTI
 - Hex ID: SZKPOWERSUPERVISORMAX165XTI
-- Name: MAX16050xTI
-- Description: MAX16050xTI
+- Name: Power_Supervisor : MAX16050xTI
+- Description: Power_Supervisor : MAX16050xTI
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Supervisor-MAX16050xTI](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Supervisor-MAX16050xTI)
 - Short Link: [http://oom.lt/SZKPOWERSUPERVISORMAX165XTI](http://oom.lt/SZKPOWERSUPERVISORMAX165XTI)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MAX16050xTI|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Supervisor-MAX16050xTI|
 |Hex ID (short code)|hexID|SZKPOWERSUPERVISORMAX165XTI|
-|name|name|MAX16050xTI|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MAX16050xTI', 'kicadSymbolFootprint': 'Package_DFN_QFN:QFN-28-1EP_4x4mm_P0.4mm_EP2.6x2.6mm', 'kicadSymbolDatasheet': 'https://datasheets.maximintegrated.com/en/ds/MAX16050-MAX16051.pdf', 'kicadSymbolki_keywords': 'power sequencing', 'kicadSymbolki_description': '5 Voltage Monitor/Sequencer with Reverse-Sequencing Capability, QFN-28', 'kicadSymbolki_fp_filters': 'QFN*1EP*4x4mm*P0.4mm*'}]|
+|name|name|Power_Supervisor : MAX16050xTI|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MAX16050xTI'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>QFN-28-1EP_4x4mm_P0.4mm_EP2.6x2.6mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//datasheets.maximintegrated.com/en/ds/MAX16050-MAX16051.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'power sequencing'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '5 Voltage Monitor/Sequencer with Reverse-Sequencing Capability</td><td> QFN-28'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'QFN*1EP*4x4mm*P0.4mm*'</td></tr></table>]|
 ||||

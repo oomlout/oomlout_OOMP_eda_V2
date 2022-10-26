@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUSTSTM32L4+STM32L4S5ZIYX > STM32L4S5ZIYx
+# SZKMCUSTSTM32L4+STM32L4S5ZIYX > MCU_ST_STM32L4+ : STM32L4S5ZIYx
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L4+-STM32L4S5ZIYx
 - Hex ID: SZKMCUSTSTM32L4+STM32L4S5ZIYX
-- Name: STM32L4S5ZIYx
-- Description: STM32L4S5ZIYx
+- Name: MCU_ST_STM32L4+ : STM32L4S5ZIYx
+- Description: MCU_ST_STM32L4+ : STM32L4S5ZIYx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L4+-STM32L4S5ZIYx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L4+-STM32L4S5ZIYx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32L4+STM32L4S5ZIYX](http://oom.lt/SZKMCUSTSTM32L4+STM32L4S5ZIYX)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|STM32L4S5ZIYx|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L4+-STM32L4S5ZIYx|
 |Hex ID (short code)|hexID|SZKMCUSTSTM32L4+STM32L4S5ZIYX|
-|name|name|STM32L4S5ZIYx|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'STM32L4S5ZIYx', 'kicadSymbolFootprint': 'Package_CSP:ST_WLCSP-144_Die470', 'kicadSymbolDatasheet': 'http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00366449.pdf', 'kicadSymbolki_keywords': 'ARM Cortex-M4 STM32L4+ STM32L4R5/S5', 'kicadSymbolki_description': 'ARM Cortex-M4 MCU, 2048KB flash, 640KB RAM, 120MHz, 1.71-3.6V, 110 GPIO, WLCSP-144', 'kicadSymbolki_fp_filters': 'ST_WLCSP*Die470*'}]|
+|name|name|MCU_ST_STM32L4+ : STM32L4S5ZIYx|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'STM32L4S5ZIYx'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_CSP</td></tr><tr><td>ST_WLCSP-144_Die470'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00366449.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'ARM Cortex-M4 STM32L4+ STM32L4R5/S5'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'ARM Cortex-M4 MCU</td><td> 2048KB flash</td><td> 640KB RAM</td><td> 120MHz</td><td> 1.71-3.6V</td><td> 110 GPIO</td><td> WLCSP-144'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'ST_WLCSP*Die470*'</td></tr></table>]|
 ||||

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Ethernet_Jack_54602-908LF|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSETHERNETJ546298LF|
 |name|name|digikey-footprints : Ethernet_Jack_54602-908LF|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Ethernet_Jack_54602-908LF', 'description': 'http://portal.fciconnect.com/Comergent//fci/drawing/c-bmj-0102.pdf', 'tags': None, 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Ethernet_Jack_54602-908LF'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//portal.fciconnect.com/Comergent//fci/drawing/c-bmj-0102.pdf'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Photodiode_Radial_5.1x3mm_P2.54mm|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSPHOTODIODER51X3P254|
 |name|name|digikey-footprints : Photodiode_Radial_5.1x3mm_P2.54mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Photodiode_Radial_5.1x3mm_P2.54mm', 'description': 'http://www.osram-os.com/Graphics/XPic1/00211421_0.pdf', 'tags': None, 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Photodiode_Radial_5.1x3mm_P2.54mm'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//www.osram-os.com/Graphics/XPic1/00211421_0.pdf'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

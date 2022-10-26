@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDIODEPMEG42ER > PMEG4020ER
+# SZKDIODEPMEG42ER > Diode : PMEG4020ER
 
 - ID: SYMBOL-kicad-kicad-symbols-Diode-PMEG4020ER
 - Hex ID: SZKDIODEPMEG42ER
-- Name: PMEG4020ER
-- Description: PMEG4020ER
+- Name: Diode : PMEG4020ER
+- Description: Diode : PMEG4020ER
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-PMEG4020ER](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-PMEG4020ER)
 - Short Link: [http://oom.lt/SZKDIODEPMEG42ER](http://oom.lt/SZKDIODEPMEG42ER)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PMEG4020ER|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-PMEG4020ER|
 |Hex ID (short code)|hexID|SZKDIODEPMEG42ER|
-|name|name|PMEG4020ER|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'PMEG40T10ER', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'PMEG4020ER', 'kicadSymbolFootprint': 'Diode_SMD:Nexperia_CFP3_SOD-123W', 'kicadSymbolDatasheet': 'https://assets.nexperia.com/documents/data-sheet/PMEG4020ER.pdf', 'kicadSymbolki_keywords': 'forward voltage diode', 'kicadSymbolki_description': '40V, 2A low Vf MEGA Schottky barrier rectifier, SOD-123W', 'kicadSymbolki_fp_filters': 'Nexperia*CFP3*SOD?123W*'}]|
+|name|name|Diode : PMEG4020ER|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'PMEG40T10ER'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'PMEG4020ER'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Diode_SMD</td></tr><tr><td>Nexperia_CFP3_SOD-123W'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//assets.nexperia.com/documents/data-sheet/PMEG4020ER.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'forward voltage diode'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '40V</td><td> 2A low Vf MEGA Schottky barrier rectifier</td><td> SOD-123W'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Nexperia*CFP3*SOD?123W*'</td></tr></table>]|
 ||||

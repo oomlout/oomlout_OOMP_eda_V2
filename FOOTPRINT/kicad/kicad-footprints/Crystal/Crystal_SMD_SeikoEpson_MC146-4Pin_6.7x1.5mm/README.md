@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_SeikoEpson_MC146-4Pin_6.7x1.5mm|
 |Hex ID (short code)|hexID|FZKXXSMSEIKOEPSONMC1464PIN67X15|
 |name|name|Crystal : Crystal_SMD_SeikoEpson_MC146-4Pin_6.7x1.5mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Crystal_SMD_SeikoEpson_MC146-4Pin_6.7x1.5mm', 'description': 'SMD Crystal Seiko Epson MC-146 https://support.epson.biz/td/api/doc_check.php?dl=brief_MC-156_en.pdf, 6.7x1.5mm^2 package', 'tags': 'SMD SMT crystal', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Crystal_SMD_SeikoEpson_MC146-4Pin_6.7x1.5mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Crystal_SMD_SeikoEpson_MC146-4Pin_6.7x1.5mm'</td><td> 'description'</td></tr><tr><td> 'SMD Crystal Seiko Epson MC-146 https</td></tr><tr><td>//support.epson.biz/td/api/doc_check.php?dl=brief_MC-156_en.pdf</td><td> 6.7x1.5mm^2 package'</td><td> 'tags'</td></tr><tr><td> 'SMD SMT crystal'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Crystal.3dshapes/Crystal_SMD_SeikoEpson_MC146-4Pin_6.7x1.5mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

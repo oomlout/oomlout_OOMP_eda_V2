@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMEMORYEEPROMAT25XXX > AT25xxx
+# SZKMEMORYEEPROMAT25XXX > Memory_EEPROM : AT25xxx
 
 - ID: SYMBOL-kicad-kicad-symbols-Memory_EEPROM-AT25xxx
 - Hex ID: SZKMEMORYEEPROMAT25XXX
-- Name: AT25xxx
-- Description: AT25xxx
+- Name: Memory_EEPROM : AT25xxx
+- Description: Memory_EEPROM : AT25xxx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_EEPROM-AT25xxx](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_EEPROM-AT25xxx)
 - Short Link: [http://oom.lt/SZKMEMORYEEPROMAT25XXX](http://oom.lt/SZKMEMORYEEPROMAT25XXX)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AT25xxx|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Memory_EEPROM-AT25xxx|
 |Hex ID (short code)|hexID|SZKMEMORYEEPROMAT25XXX|
-|name|name|AT25xxx|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '25LCxxx', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AT25xxx', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-8707-SEEPROM-AT25010B-020B-040B-Datasheet.pdf', 'kicadSymbolki_keywords': 'EEPROM memory SPI serial', 'kicadSymbolki_description': 'Microchip SPI Serial EEPROM, DIP-8/SOIC-8/TSSOP-8', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm* SOIC*3.9x4.9mm* TSSOP*4.4x3mm*P0.65mm*'}]|
+|name|name|Memory_EEPROM : AT25xxx|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> '25LCxxx'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'AT25xxx'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/Atmel-8707-SEEPROM-AT25010B-020B-040B-Datasheet.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'EEPROM memory SPI serial'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Microchip SPI Serial EEPROM</td><td> DIP-8/SOIC-8/TSSOP-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W7.62mm* SOIC*3.9x4.9mm* TSSOP*4.4x3mm*P0.65mm*'</td></tr></table>]|
 ||||

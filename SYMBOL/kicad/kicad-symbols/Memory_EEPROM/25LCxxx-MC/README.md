@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMEMORYEEPROM25LCXXXMC > 25LCxxx-MC
+# SZKMEMORYEEPROM25LCXXXMC > Memory_EEPROM : 25LCxxx-MC
 
 - ID: SYMBOL-kicad-kicad-symbols-Memory_EEPROM-25LCxxx-MC
 - Hex ID: SZKMEMORYEEPROM25LCXXXMC
-- Name: 25LCxxx-MC
-- Description: 25LCxxx-MC
+- Name: Memory_EEPROM : 25LCxxx-MC
+- Description: Memory_EEPROM : 25LCxxx-MC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_EEPROM-25LCxxx-MC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_EEPROM-25LCxxx-MC)
 - Short Link: [http://oom.lt/SZKMEMORYEEPROM25LCXXXMC](http://oom.lt/SZKMEMORYEEPROM25LCXXXMC)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|25LCxxx-MC|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Memory_EEPROM-25LCxxx-MC|
 |Hex ID (short code)|hexID|SZKMEMORYEEPROM25LCXXXMC|
-|name|name|25LCxxx-MC|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '25LCxxx-MC', 'kicadSymbolFootprint': 'Package_DFN_QFN:DFN-8-1EP_3x2mm_P0.5mm_EP1.75x1.45mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/21832H.pdf', 'kicadSymbolki_keywords': 'EEPROM memory SPI serial', 'kicadSymbolki_description': 'SPI Serial EEPROM, DFN8', 'kicadSymbolki_fp_filters': 'DFN*3x2mm*P0.5mm*'}]|
+|name|name|Memory_EEPROM : 25LCxxx-MC|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> '25LCxxx-MC'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>DFN-8-1EP_3x2mm_P0.5mm_EP1.75x1.45mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/21832H.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'EEPROM memory SPI serial'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'SPI Serial EEPROM</td><td> DFN8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DFN*3x2mm*P0.5mm*'</td></tr></table>]|
 ||||

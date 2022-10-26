@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUSTSTM32F7STM32F733VEYX > STM32F733VEYx
+# SZKMCUSTSTM32F7STM32F733VEYX > MCU_ST_STM32F7 : STM32F733VEYx
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F7-STM32F733VEYx
 - Hex ID: SZKMCUSTSTM32F7STM32F733VEYX
-- Name: STM32F733VEYx
-- Description: STM32F733VEYx
+- Name: MCU_ST_STM32F7 : STM32F733VEYx
+- Description: MCU_ST_STM32F7 : STM32F733VEYx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F7-STM32F733VEYx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F7-STM32F733VEYx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32F7STM32F733VEYX](http://oom.lt/SZKMCUSTSTM32F7STM32F733VEYX)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|STM32F733VEYx|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F7-STM32F733VEYx|
 |Hex ID (short code)|hexID|SZKMCUSTSTM32F7STM32F733VEYX|
-|name|name|STM32F733VEYx|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'STM32F733VEYx', 'kicadSymbolFootprint': 'Package_CSP:ST_WLCSP-100_Die452', 'kicadSymbolDatasheet': 'http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00330507.pdf', 'kicadSymbolki_keywords': 'ARM Cortex-M7 STM32F7 STM32F7x3', 'kicadSymbolki_description': 'ARM Cortex-M7 MCU, 512KB flash, 192KB RAM, 216MHz, 1.7-3.6V, 79 GPIO, WLCSP-100', 'kicadSymbolki_fp_filters': 'ST_WLCSP*Die452*'}]|
+|name|name|MCU_ST_STM32F7 : STM32F733VEYx|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'STM32F733VEYx'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_CSP</td></tr><tr><td>ST_WLCSP-100_Die452'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00330507.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'ARM Cortex-M7 STM32F7 STM32F7x3'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'ARM Cortex-M7 MCU</td><td> 512KB flash</td><td> 192KB RAM</td><td> 216MHz</td><td> 1.7-3.6V</td><td> 79 GPIO</td><td> WLCSP-100'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'ST_WLCSP*Die452*'</td></tr></table>]|
 ||||

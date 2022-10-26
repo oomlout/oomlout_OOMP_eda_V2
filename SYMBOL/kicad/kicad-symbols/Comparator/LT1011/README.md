@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKCOMPARATORLT111 > LT1011
+# SZKCOMPARATORLT111 > Comparator : LT1011
 
 - ID: SYMBOL-kicad-kicad-symbols-Comparator-LT1011
 - Hex ID: SZKCOMPARATORLT111
-- Name: LT1011
-- Description: LT1011
+- Name: Comparator : LT1011
+- Description: Comparator : LT1011
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Comparator-LT1011](http://oom.lt/SYMBOL-kicad-kicad-symbols-Comparator-LT1011)
 - Short Link: [http://oom.lt/SZKCOMPARATORLT111](http://oom.lt/SZKCOMPARATORLT111)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LT1011|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Comparator-LT1011|
 |Hex ID (short code)|hexID|SZKCOMPARATORLT111|
-|name|name|LT1011|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LM311', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LT1011', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/lt1011.pdf', 'kicadSymbolki_keywords': 'cmp open collector', 'kicadSymbolki_description': 'Voltage Comparator, DIP-8/SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm* DIP*W7.62mm*'}]|
+|name|name|Comparator : LT1011|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'LM311'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LT1011'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/lt1011.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'cmp open collector'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Voltage Comparator</td><td> DIP-8/SOIC-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*3.9x4.9mm*P1.27mm* DIP*W7.62mm*'</td></tr></table>]|
 ||||

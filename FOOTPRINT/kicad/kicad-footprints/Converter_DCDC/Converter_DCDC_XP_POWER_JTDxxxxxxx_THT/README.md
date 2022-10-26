@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_XP_POWER_JTDxxxxxxx_THT|
 |Hex ID (short code)|hexID|FZKCONCONXPPOWERJTDXXXXXXXTHT|
 |name|name|Converter_DCDC : Converter_DCDC_XP_POWER_JTDxxxxxxx_THT|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Converter_DCDC_XP_POWER_JTDxxxxxxx_THT', 'description': 'XP Power JTD Series DC-DC Converter', 'tags': 'DCDC Isolated', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Converter_DCDC.3dshapes/Converter_DCDC_XP_POWER_JTDxxxxxxx_THT.wrl', 'pins': {'type': 'thru_hole', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Converter_DCDC_XP_POWER_JTDxxxxxxx_THT'</td><td> 'description'</td></tr><tr><td> 'XP Power JTD Series DC-DC Converter'</td><td> 'tags'</td></tr><tr><td> 'DCDC Isolated'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Converter_DCDC.3dshapes/Converter_DCDC_XP_POWER_JTDxxxxxxx_THT.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_AUH_BM03B-AUHKS-GA-TB_1x03-1MP_P1.50mm_Vertical|
 |Hex ID (short code)|hexID|FZKCNJSTJSTAUHBM3BAUHKSGATB1X31MPP15VERTICAL|
 |name|name|Connector_JST : JST_AUH_BM03B-AUHKS-GA-TB_1x03-1MP_P1.50mm_Vertical|
-|Footprint Kicad|footprintKicadDetails|{'name': 'JST_AUH_BM03B-AUHKS-GA-TB_1x03-1MP_P1.50mm_Vertical', 'description': 'JST AUH series connector, BM03B-AUHKS-GA-TB (http://www.jst-mfg.com/product/pdf/eng/eAUH.pdf), generated with kicad-footprint-generator', 'tags': 'connector JST AUH side entry', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_JST.3dshapes/JST_AUH_BM03B-AUHKS-GA-TB_1x03-1MP_P1.50mm_Vertical.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'JST_AUH_BM03B-AUHKS-GA-TB_1x03-1MP_P1.50mm_Vertical'</td><td> 'description'</td></tr><tr><td> 'JST AUH series connector</td><td> BM03B-AUHKS-GA-TB (http</td></tr><tr><td>//www.jst-mfg.com/product/pdf/eng/eAUH.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'connector JST AUH side entry'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_JST.3dshapes/JST_AUH_BM03B-AUHKS-GA-TB_1x03-1MP_P1.50mm_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

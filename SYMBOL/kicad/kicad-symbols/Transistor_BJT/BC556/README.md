@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORBJTBC556 > BC556
+# SZKTRANSISTORBJTBC556 > Transistor_BJT : BC556
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC556
 - Hex ID: SZKTRANSISTORBJTBC556
-- Name: BC556
-- Description: BC556
+- Name: Transistor_BJT : BC556
+- Description: Transistor_BJT : BC556
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC556](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC556)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTBC556](http://oom.lt/SZKTRANSISTORBJTBC556)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BC556|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC556|
 |Hex ID (short code)|hexID|SZKTRANSISTORBJTBC556|
-|name|name|BC556|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BC557', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'BC556', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-92_Inline', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pub/Collateral/BC556BTA-D.pdf', 'kicadSymbolki_keywords': 'PNP Transistor', 'kicadSymbolki_description': '0.1A Ic, 65V Vce, PNP Small Signal Transistor, TO-92', 'kicadSymbolki_fp_filters': 'TO?92*'}]|
+|name|name|Transistor_BJT : BC556|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'BC557'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'BC556'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_THT</td></tr><tr><td>TO-92_Inline'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.onsemi.com/pub/Collateral/BC556BTA-D.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'PNP Transistor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '0.1A Ic</td><td> 65V Vce</td><td> PNP Small Signal Transistor</td><td> TO-92'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TO?92*'</td></tr></table>]|
 ||||

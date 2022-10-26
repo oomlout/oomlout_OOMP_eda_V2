@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKSENTEMPERATURETC147AXNB > TC1047AxNB
+# SZKSENTEMPERATURETC147AXNB > Sensor_Temperature : TC1047AxNB
 
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Temperature-TC1047AxNB
 - Hex ID: SZKSENTEMPERATURETC147AXNB
-- Name: TC1047AxNB
-- Description: TC1047AxNB
+- Name: Sensor_Temperature : TC1047AxNB
+- Description: Sensor_Temperature : TC1047AxNB
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-TC1047AxNB](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-TC1047AxNB)
 - Short Link: [http://oom.lt/SZKSENTEMPERATURETC147AXNB](http://oom.lt/SZKSENTEMPERATURETC147AXNB)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TC1047AxNB|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Temperature-TC1047AxNB|
 |Hex ID (short code)|hexID|SZKSENTEMPERATURETC147AXNB|
-|name|name|TC1047AxNB|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MCP9700T-HTT', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TC1047AxNB', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/21498D.pdf', 'kicadSymbolki_keywords': 'temperature sensor analog', 'kicadSymbolki_description': 'Precision Temperature-to-Voltage Converter, 10mV/ºC, -40ºC to +125ºC, ±2.0ºC (max), 2.5V to 5.5V, SOT-23', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
+|name|name|Sensor_Temperature : TC1047AxNB|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'MCP9700T-HTT'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TC1047AxNB'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-23'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/21498D.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'temperature sensor analog'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Precision Temperature-to-Voltage Converter</td><td> 10mV/ºC</td><td> -40ºC to +125ºC</td><td> ±2.0ºC (max)</td><td> 2.5V to 5.5V</td><td> SOT-23'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23*'</td></tr></table>]|
 ||||

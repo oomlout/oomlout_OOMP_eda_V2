@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKINTERFACEUFT231XQ > FT231XQ
+# SZKINTERFACEUFT231XQ > Interface_USB : FT231XQ
 
 - ID: SYMBOL-kicad-kicad-symbols-Interface_USB-FT231XQ
 - Hex ID: SZKINTERFACEUFT231XQ
-- Name: FT231XQ
-- Description: FT231XQ
+- Name: Interface_USB : FT231XQ
+- Description: Interface_USB : FT231XQ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-FT231XQ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-FT231XQ)
 - Short Link: [http://oom.lt/SZKINTERFACEUFT231XQ](http://oom.lt/SZKINTERFACEUFT231XQ)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|FT231XQ|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_USB-FT231XQ|
 |Hex ID (short code)|hexID|SZKINTERFACEUFT231XQ|
-|name|name|FT231XQ|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'FT231XQ', 'kicadSymbolFootprint': 'Package_DFN_QFN:QFN-20-1EP_4x4mm_P0.5mm_EP2.5x2.5mm', 'kicadSymbolDatasheet': 'https://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT231X.pdf', 'kicadSymbolki_keywords': 'FTDI USB UART interface converter', 'kicadSymbolki_description': 'Full Speed USB to Full Handshake UART, QFN-20', 'kicadSymbolki_fp_filters': 'QFN*4x4mm*P0.5mm*'}]|
+|name|name|Interface_USB : FT231XQ|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'FT231XQ'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>QFN-20-1EP_4x4mm_P0.5mm_EP2.5x2.5mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT231X.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'FTDI USB UART interface converter'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Full Speed USB to Full Handshake UART</td><td> QFN-20'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'QFN*4x4mm*P0.5mm*'</td></tr></table>]|
 ||||

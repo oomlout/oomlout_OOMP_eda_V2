@@ -29,5 +29,5 @@ NO IMAGE
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Socket-Wells_648-0482211SA01|
 |Hex ID (short code)|hexID|FZKSOWELLS648482211SA1|
 |name|name|Socket : Wells_648-0482211SA01|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Wells_648-0482211SA01', 'description': 'https://www.farnell.com/cad/316865.pdf?_ga=2.37208032.177107060.1530611323-249019997.1498114824', 'tags': '48pin TSOP Socket', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Socket.3dshapes/Wells_648-0482211SA01.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Wells_648-0482211SA01'</td><td> 'description'</td></tr><tr><td> 'https</td></tr><tr><td>//www.farnell.com/cad/316865.pdf?_ga=2.37208032.177107060.1530611323-249019997.1498114824'</td><td> 'tags'</td></tr><tr><td> '48pin TSOP Socket'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Socket.3dshapes/Wells_648-0482211SA01.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

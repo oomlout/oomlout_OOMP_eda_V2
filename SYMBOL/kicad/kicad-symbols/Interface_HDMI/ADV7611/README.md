@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKINTERFACEHDMIADV7611 > ADV7611
+# SZKINTERFACEHDMIADV7611 > Interface_HDMI : ADV7611
 
 - ID: SYMBOL-kicad-kicad-symbols-Interface_HDMI-ADV7611
 - Hex ID: SZKINTERFACEHDMIADV7611
-- Name: ADV7611
-- Description: ADV7611
+- Name: Interface_HDMI : ADV7611
+- Description: Interface_HDMI : ADV7611
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_HDMI-ADV7611](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_HDMI-ADV7611)
 - Short Link: [http://oom.lt/SZKINTERFACEHDMIADV7611](http://oom.lt/SZKINTERFACEHDMIADV7611)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ADV7611|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_HDMI-ADV7611|
 |Hex ID (short code)|hexID|SZKINTERFACEHDMIADV7611|
-|name|name|ADV7611|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ADV7611', 'kicadSymbolFootprint': 'Package_QFP:LQFP-64-1EP_10x10mm_P0.5mm_EP5x5mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/adv7611.pdf', 'kicadSymbolki_keywords': 'hdmi', 'kicadSymbolki_description': 'Low Power 165MHz HDMI Receiver, LQFP-64', 'kicadSymbolki_fp_filters': 'LQFP*1EP*10x10mm*P0.5mm*'}]|
+|name|name|Interface_HDMI : ADV7611|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ADV7611'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_QFP</td></tr><tr><td>LQFP-64-1EP_10x10mm_P0.5mm_EP5x5mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/adv7611.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'hdmi'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Low Power 165MHz HDMI Receiver</td><td> LQFP-64'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'LQFP*1EP*10x10mm*P0.5mm*'</td></tr></table>]|
 ||||

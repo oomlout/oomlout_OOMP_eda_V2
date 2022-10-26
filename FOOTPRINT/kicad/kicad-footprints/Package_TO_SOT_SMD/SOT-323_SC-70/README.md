@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-323_SC-70|
 |Hex ID (short code)|hexID|FZKPACKAGETOSOTSMSOT323SC7|
 |name|name|Package_TO_SOT_SMD : SOT-323_SC-70|
-|Footprint Kicad|footprintKicadDetails|{'name': 'SOT-323_SC-70', 'description': 'SOT-323, SC-70', 'tags': 'SOT-323 SC-70', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-323_SC-70.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SOT-323_SC-70'</td><td> 'description'</td></tr><tr><td> 'SOT-323</td><td> SC-70'</td><td> 'tags'</td></tr><tr><td> 'SOT-323 SC-70'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_TO_SOT_SMD.3dshapes/SOT-323_SC-70.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

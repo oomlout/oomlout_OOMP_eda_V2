@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKSENTEMPERATUREDS18S2 > DS18S20
+# SZKSENTEMPERATUREDS18S2 > Sensor_Temperature : DS18S20
 
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Temperature-DS18S20
 - Hex ID: SZKSENTEMPERATUREDS18S2
-- Name: DS18S20
-- Description: DS18S20
+- Name: Sensor_Temperature : DS18S20
+- Description: Sensor_Temperature : DS18S20
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-DS18S20](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-DS18S20)
 - Short Link: [http://oom.lt/SZKSENTEMPERATUREDS18S2](http://oom.lt/SZKSENTEMPERATUREDS18S2)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DS18S20|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Temperature-DS18S20|
 |Hex ID (short code)|hexID|SZKSENTEMPERATUREDS18S2|
-|name|name|DS18S20|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MAX31820', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'DS18S20', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-92_Inline', 'kicadSymbolDatasheet': 'http://datasheets.maximintegrated.com/en/ds/DS18S20.pdf', 'kicadSymbolki_keywords': 'OneWire 1Wire Maxim Dallas', 'kicadSymbolki_description': 'High-Precision 1-Wire Digital Thermometer TO-92', 'kicadSymbolki_fp_filters': 'TO*92*'}]|
+|name|name|Sensor_Temperature : DS18S20|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'MAX31820'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'DS18S20'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_THT</td></tr><tr><td>TO-92_Inline'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//datasheets.maximintegrated.com/en/ds/DS18S20.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'OneWire 1Wire Maxim Dallas'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'High-Precision 1-Wire Digital Thermometer TO-92'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TO*92*'</td></tr></table>]|
 ||||

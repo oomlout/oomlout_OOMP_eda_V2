@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORSWITCHINGLMR3362CDDA > LMR33620CDDA
+# SZKREGULATORSWITCHINGLMR3362CDDA > Regulator_Switching : LMR33620CDDA
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-LMR33620CDDA
 - Hex ID: SZKREGULATORSWITCHINGLMR3362CDDA
-- Name: LMR33620CDDA
-- Description: LMR33620CDDA
+- Name: Regulator_Switching : LMR33620CDDA
+- Description: Regulator_Switching : LMR33620CDDA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LMR33620CDDA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LMR33620CDDA)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGLMR3362CDDA](http://oom.lt/SZKREGULATORSWITCHINGLMR3362CDDA)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LMR33620CDDA|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-LMR33620CDDA|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGLMR3362CDDA|
-|name|name|LMR33620CDDA|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LMR33640ADDA', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LMR33620CDDA', 'kicadSymbolFootprint': 'Package_SO:Texas_HSOP-8-1EP_3.9x4.9mm_P1.27mm_ThermalVias', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lmr33640.pdf', 'kicadSymbolki_keywords': 'simple-switcher synchronous buck step-down voltage-regulator', 'kicadSymbolki_description': 'Simple Switcher Synchronous Buck Regulator, Vin=3.8-36V, Iout=2A, F=2100kHz, Adjustable output voltage, HSOP-8', 'kicadSymbolki_fp_filters': 'Texas*HSOP*1EP*'}]|
+|name|name|Regulator_Switching : LMR33620CDDA|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'LMR33640ADDA'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LMR33620CDDA'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>Texas_HSOP-8-1EP_3.9x4.9mm_P1.27mm_ThermalVias'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/lmr33640.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'simple-switcher synchronous buck step-down voltage-regulator'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Simple Switcher Synchronous Buck Regulator</td><td> Vin=3.8-36V</td><td> Iout=2A</td><td> F=2100kHz</td><td> Adjustable output voltage</td><td> HSOP-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Texas*HSOP*1EP*'</td></tr></table>]|
 ||||

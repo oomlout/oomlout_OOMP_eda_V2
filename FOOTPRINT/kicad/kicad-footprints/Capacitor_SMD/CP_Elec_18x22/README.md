@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-CP_Elec_18x22|
 |Hex ID (short code)|hexID|FZKCAPACITORSMCPELEC18X22|
 |name|name|Capacitor_SMD : CP_Elec_18x22|
-|Footprint Kicad|footprintKicadDetails|{'name': 'CP_Elec_18x22', 'description': 'SMD capacitor, aluminum electrolytic, Vishay 1821, 18.0x22.0mm, http://www.vishay.com/docs/28395/150crz.pdf', 'tags': 'capacitor electrolytic', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/CP_Elec_18x22.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'CP_Elec_18x22'</td><td> 'description'</td></tr><tr><td> 'SMD capacitor</td><td> aluminum electrolytic</td><td> Vishay 1821</td><td> 18.0x22.0mm</td><td> http</td></tr><tr><td>//www.vishay.com/docs/28395/150crz.pdf'</td><td> 'tags'</td></tr><tr><td> 'capacitor electrolytic'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Capacitor_SMD.3dshapes/CP_Elec_18x22.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

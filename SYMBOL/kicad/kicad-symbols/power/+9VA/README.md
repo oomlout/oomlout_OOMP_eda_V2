@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKPOWER+9VA > +9VA
+# SZKPOWER+9VA > power : +9VA
 
 - ID: SYMBOL-kicad-kicad-symbols-power-+9VA
 - Hex ID: SZKPOWER+9VA
-- Name: +9VA
-- Description: +9VA
+- Name: power : +9VA
+- Description: power : +9VA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-power-+9VA](http://oom.lt/SYMBOL-kicad-kicad-symbols-power-+9VA)
 - Short Link: [http://oom.lt/SZKPOWER+9VA](http://oom.lt/SZKPOWER+9VA)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|+9VA|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-power-+9VA|
 |Hex ID (short code)|hexID|SZKPOWER+9VA|
-|name|name|+9VA|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': '#PWR', 'kicadSymbolValue': '+9VA', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_keywords': 'power-flag', 'kicadSymbolki_description': 'Power symbol creates a global label with name "+9VA"'}]|
+|name|name|power : +9VA|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> '#PWR'</td><td> 'kicadSymbolValue'</td></tr><tr><td> '+9VA'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'power-flag'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Power symbol creates a global label with name "+9VA"'</td></tr></table>]|
 ||||

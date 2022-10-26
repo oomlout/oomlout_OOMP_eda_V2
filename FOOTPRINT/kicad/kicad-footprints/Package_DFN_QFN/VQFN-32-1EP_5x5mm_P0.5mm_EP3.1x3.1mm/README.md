@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-VQFN-32-1EP_5x5mm_P0.5mm_EP3.1x3.1mm|
 |Hex ID (short code)|hexID|FZKDFNVQFN321EP5X5P5EP31X31|
 |name|name|Package_DFN_QFN : VQFN-32-1EP_5x5mm_P0.5mm_EP3.1x3.1mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'VQFN-32-1EP_5x5mm_P0.5mm_EP3.1x3.1mm', 'description': 'VQFN, 32 Pin (http://ww1.microchip.com/downloads/en/devicedoc/atmel-9520-at42-qtouch-bsw-at42qt1110_datasheet.pdf#page=42), generated with kicad-footprint-generator ipc_noLead_generator.py', 'tags': 'VQFN NoLead', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/VQFN-32-1EP_5x5mm_P0.5mm_EP3.1x3.1mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'VQFN-32-1EP_5x5mm_P0.5mm_EP3.1x3.1mm'</td><td> 'description'</td></tr><tr><td> 'VQFN</td><td> 32 Pin (http</td></tr><tr><td>//ww1.microchip.com/downloads/en/devicedoc/atmel-9520-at42-qtouch-bsw-at42qt1110_datasheet.pdf#page=42)</td><td> generated with kicad-footprint-generator ipc_noLead_generator.py'</td><td> 'tags'</td></tr><tr><td> 'VQFN NoLead'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DFN_QFN.3dshapes/VQFN-32-1EP_5x5mm_P0.5mm_EP3.1x3.1mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

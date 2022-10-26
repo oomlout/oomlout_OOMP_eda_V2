@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDIODESTTH22D > STTH2002D
+# SZKDIODESTTH22D > Diode : STTH2002D
 
 - ID: SYMBOL-kicad-kicad-symbols-Diode-STTH2002D
 - Hex ID: SZKDIODESTTH22D
-- Name: STTH2002D
-- Description: STTH2002D
+- Name: Diode : STTH2002D
+- Description: Diode : STTH2002D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-STTH2002D](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-STTH2002D)
 - Short Link: [http://oom.lt/SZKDIODESTTH22D](http://oom.lt/SZKDIODESTTH22D)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|STTH2002D|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-STTH2002D|
 |Hex ID (short code)|hexID|SZKDIODESTTH22D|
-|name|name|STTH2002D|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'STTH2002D', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-220-2_Vertical', 'kicadSymbolDatasheet': 'https://www.st.com/resource/en/datasheet/stth2002.pdf', 'kicadSymbolki_keywords': 'diode', 'kicadSymbolki_description': '200V 20A Ultrafast Recovery Diode, TO-220', 'kicadSymbolki_fp_filters': 'TO?220*2*'}]|
+|name|name|Diode : STTH2002D|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'STTH2002D'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_THT</td></tr><tr><td>TO-220-2_Vertical'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.st.com/resource/en/datasheet/stth2002.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'diode'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '200V 20A Ultrafast Recovery Diode</td><td> TO-220'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TO?220*2*'</td></tr></table>]|
 ||||

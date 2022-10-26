@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKAMPLIFIEROPERATIONALLM675 > LM675
+# SZKAMPLIFIEROPERATIONALLM675 > Amplifier_Operational : LM675
 
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LM675
 - Hex ID: SZKAMPLIFIEROPERATIONALLM675
-- Name: LM675
-- Description: LM675
+- Name: Amplifier_Operational : LM675
+- Description: Amplifier_Operational : LM675
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LM675](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LM675)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALLM675](http://oom.lt/SZKAMPLIFIEROPERATIONALLM675)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM675|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LM675|
 |Hex ID (short code)|hexID|SZKAMPLIFIEROPERATIONALLM675|
-|name|name|LM675|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM675', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-220-5_P3.4x3.7mm_StaggerOdd_Lead3.8mm_Vertical', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lm675.pdf', 'kicadSymbolki_keywords': 'single opamp', 'kicadSymbolki_description': 'Power Operational Amplifier, TO-220-5', 'kicadSymbolki_fp_filters': 'TO?220?5*StaggerOdd*'}]|
+|name|name|Amplifier_Operational : LM675|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LM675'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_THT</td></tr><tr><td>TO-220-5_P3.4x3.7mm_StaggerOdd_Lead3.8mm_Vertical'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/lm675.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'single opamp'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Power Operational Amplifier</td><td> TO-220-5'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TO?220?5*StaggerOdd*'</td></tr></table>]|
 ||||

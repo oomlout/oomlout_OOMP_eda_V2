@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDIODE3ZXX > MM3Zxx
+# SZKDIODE3ZXX > Diode : MM3Zxx
 
 - ID: SYMBOL-kicad-kicad-symbols-Diode-MM3Zxx
 - Hex ID: SZKDIODE3ZXX
-- Name: MM3Zxx
-- Description: MM3Zxx
+- Name: Diode : MM3Zxx
+- Description: Diode : MM3Zxx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-MM3Zxx](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-MM3Zxx)
 - Short Link: [http://oom.lt/SZKDIODE3ZXX](http://oom.lt/SZKDIODE3ZXX)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MM3Zxx|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-MM3Zxx|
 |Hex ID (short code)|hexID|SZKDIODE3ZXX|
-|name|name|MM3Zxx|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ZPYxx', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'MM3Zxx', 'kicadSymbolFootprint': 'Diode_SMD:D_SOD-323F', 'kicadSymbolDatasheet': 'https://diotec.com/tl_files/diotec/files/pdf/datasheets/mm3z2v4.pdf', 'kicadSymbolki_keywords': 'zener diode', 'kicadSymbolki_description': '300mW Zener Diode, SOD-323F', 'kicadSymbolki_fp_filters': 'D?SOD?323F*'}]|
+|name|name|Diode : MM3Zxx|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'ZPYxx'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MM3Zxx'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Diode_SMD</td></tr><tr><td>D_SOD-323F'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//diotec.com/tl_files/diotec/files/pdf/datasheets/mm3z2v4.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'zener diode'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '300mW Zener Diode</td><td> SOD-323F'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'D?SOD?323F*'</td></tr></table>]|
 ||||

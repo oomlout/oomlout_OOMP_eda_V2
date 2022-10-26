@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICRESE85XO341R8O34C17616 > RESE-0805-X-O304-01-R8O304-C17616
+# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICRESE85XO341R8O34C17616 > oomlout_OOMP_JLCC_Basic : RESE-0805-X-O304-01-R8O304-C17616
 
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-0805-X-O304-01-R8O304-C17616
 - Hex ID: SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICRESE85XO341R8O34C17616
-- Name: RESE-0805-X-O304-01-R8O304-C17616
-- Description: RESE-0805-X-O304-01-R8O304-C17616
+- Name: oomlout_OOMP_JLCC_Basic : RESE-0805-X-O304-01-R8O304-C17616
+- Description: oomlout_OOMP_JLCC_Basic : RESE-0805-X-O304-01-R8O304-C17616
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-0805-X-O304-01-R8O304-C17616](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-0805-X-O304-01-R8O304-C17616)
 - Short Link: [http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICRESE85XO341R8O34C17616](http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICRESE85XO341R8O34C17616)
   
@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|RESE-0805-X-O304-01-R8O304-C17616|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-0805-X-O304-01-R8O304-C17616|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICRESE85XO341R8O34C17616|
-|name|name|RESE-0805-X-O304-01-R8O304-C17616|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'R', 'kicadSymbolValue': 'RESE-0805-X-O304-01-R8O304-C17616', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:RESE-0805-X-O304-01-R8O304-C17616', 'kicadSymbolDatasheet': 'oom.lt/R8O304', 'kicadSymbolki_keywords': 'R res resistor', 'kicadSymbolki_description': 'hexID: R8O304;PARTL C-JLCC;C17616;MANUF C-XXXX;0805W8F3003T5E;Resistor', 'kicadSymbolki_fp_filters': 'R_*'}]|
+|name|name|oomlout_OOMP_JLCC_Basic : RESE-0805-X-O304-01-R8O304-C17616|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'R'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'RESE-0805-X-O304-01-R8O304-C17616'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'oomlout_OOMP_parts</td></tr><tr><td>RESE-0805-X-O304-01-R8O304-C17616'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'oom.lt/R8O304'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'R res resistor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'hexID</td></tr><tr><td> R8O304;PARTL C-JLCC;C17616;MANUF C-XXXX;0805W8F3003T5E;Resistor'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'R_*'</td></tr></table>]|
 ||||

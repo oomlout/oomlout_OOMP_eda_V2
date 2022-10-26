@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_QFP-MQFP-44_10x10mm_P0.8mm|
 |Hex ID (short code)|hexID|FZKQFPMQFP441X1P8|
 |name|name|Package_QFP : MQFP-44_10x10mm_P0.8mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'MQFP-44_10x10mm_P0.8mm', 'description': 'MQFP, 44 Pin (https://www.analog.com/media/en/technical-documentation/data-sheets/ad7722.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py', 'tags': 'MQFP QFP', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_QFP.3dshapes/MQFP-44_10x10mm_P0.8mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'MQFP-44_10x10mm_P0.8mm'</td><td> 'description'</td></tr><tr><td> 'MQFP</td><td> 44 Pin (https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/ad7722.pdf)</td><td> generated with kicad-footprint-generator ipc_gullwing_generator.py'</td><td> 'tags'</td></tr><tr><td> 'MQFP QFP'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_QFP.3dshapes/MQFP-44_10x10mm_P0.8mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

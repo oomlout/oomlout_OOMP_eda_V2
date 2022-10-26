@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-TSOT-23-5|
 |Hex ID (short code)|hexID|FZKPACKAGETOSOTSMTSOT235|
 |name|name|Package_TO_SOT_SMD : TSOT-23-5|
-|Footprint Kicad|footprintKicadDetails|{'name': 'TSOT-23-5', 'description': 'TSOT, 5 Pin (https://www.jedec.org/sites/default/files/docs/MO-193D.pdf variant AB), generated with kicad-footprint-generator ipc_gullwing_generator.py', 'tags': 'TSOT TO_SOT_SMD', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/TSOT-23-5.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'TSOT-23-5'</td><td> 'description'</td></tr><tr><td> 'TSOT</td><td> 5 Pin (https</td></tr><tr><td>//www.jedec.org/sites/default/files/docs/MO-193D.pdf variant AB)</td><td> generated with kicad-footprint-generator ipc_gullwing_generator.py'</td><td> 'tags'</td></tr><tr><td> 'TSOT TO_SOT_SMD'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_TO_SOT_SMD.3dshapes/TSOT-23-5.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

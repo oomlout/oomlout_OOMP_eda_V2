@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DirectFET-DirectFET_MB|
 |Hex ID (short code)|hexID|FZKDFETDIRECTFETMB|
 |name|name|Package_DirectFET : DirectFET_MB|
-|Footprint Kicad|footprintKicadDetails|{'name': 'DirectFET_MB', 'description': 'DirectFET MB https://www.infineon.com/dgdl/Infineon-AN-1035-ApplicationNotes-v29_01-EN.pdf?fileId=5546d462533600a40153559159020f76#page=36', 'tags': 'DirectFET MB MOSFET Infineon', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DirectFET.3dshapes/DirectFET_MB.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'DirectFET_MB'</td><td> 'description'</td></tr><tr><td> 'DirectFET MB https</td></tr><tr><td>//www.infineon.com/dgdl/Infineon-AN-1035-ApplicationNotes-v29_01-EN.pdf?fileId=5546d462533600a40153559159020f76#page=36'</td><td> 'tags'</td></tr><tr><td> 'DirectFET MB MOSFET Infineon'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DirectFET.3dshapes/DirectFET_MB.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

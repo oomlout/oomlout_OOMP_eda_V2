@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZK74XX74HCT24 > 74HCT240
+# SZK74XX74HCT24 > 74xx : 74HCT240
 
 - ID: SYMBOL-kicad-kicad-symbols-74xx-74HCT240
 - Hex ID: SZK74XX74HCT24
-- Name: 74HCT240
-- Description: 74HCT240
+- Name: 74xx : 74HCT240
+- Description: 74xx : 74HCT240
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx-74HCT240](http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx-74HCT240)
 - Short Link: [http://oom.lt/SZK74XX74HCT24](http://oom.lt/SZK74XX74HCT24)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74HCT240|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xx-74HCT240|
 |Hex ID (short code)|hexID|SZK74XX74HCT24|
-|name|name|74HCT240|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '74HC240', 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74HCT240', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://assets.nexperia.com/documents/data-sheet/74HC_HCT240.pdf', 'kicadSymbolki_keywords': 'HCTMOS BUFFER 3State inv', 'kicadSymbolki_description': '8-bit buffer; 3-state; inverting', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm* SOIC*7.5x12.8mm*P1.27mm* TSSOP*4.4x6.5mm*P0.65mm* SSOP*4.4x6.5mm*P0.65mm*'}]|
+|name|name|74xx : 74HCT240|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> '74HC240'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> '74HCT240'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//assets.nexperia.com/documents/data-sheet/74HC_HCT240.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'HCTMOS BUFFER 3State inv'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '8-bit buffer; 3-state; inverting'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W7.62mm* SOIC*7.5x12.8mm*P1.27mm* TSSOP*4.4x6.5mm*P0.65mm* SSOP*4.4x6.5mm*P0.65mm*'</td></tr></table>]|
 ||||

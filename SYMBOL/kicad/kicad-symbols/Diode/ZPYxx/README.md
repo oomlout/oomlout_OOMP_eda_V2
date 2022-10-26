@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDIODEZPYXX > ZPYxx
+# SZKDIODEZPYXX > Diode : ZPYxx
 
 - ID: SYMBOL-kicad-kicad-symbols-Diode-ZPYxx
 - Hex ID: SZKDIODEZPYXX
-- Name: ZPYxx
-- Description: ZPYxx
+- Name: Diode : ZPYxx
+- Description: Diode : ZPYxx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-ZPYxx](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-ZPYxx)
 - Short Link: [http://oom.lt/SZKDIODEZPYXX](http://oom.lt/SZKDIODEZPYXX)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ZPYxx|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-ZPYxx|
 |Hex ID (short code)|hexID|SZKDIODEZPYXX|
-|name|name|ZPYxx|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'ZPYxx', 'kicadSymbolFootprint': 'Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal', 'kicadSymbolDatasheet': 'http://www.vishay.com/docs/85790/zpy3v9.pdf', 'kicadSymbolki_keywords': 'zener diode', 'kicadSymbolki_description': '1300mW Zener Diode, DO-41', 'kicadSymbolki_fp_filters': 'D*DO?41*'}]|
+|name|name|Diode : ZPYxx|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ZPYxx'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Diode_THT</td></tr><tr><td>D_DO-41_SOD81_P10.16mm_Horizontal'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.vishay.com/docs/85790/zpy3v9.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'zener diode'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '1300mW Zener Diode</td><td> DO-41'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'D*DO?41*'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMEMORYFLASHAT25SF81SSHDX > AT25SF081-SSHD-X
+# SZKMEMORYFLASHAT25SF81SSHDX > Memory_Flash : AT25SF081-SSHD-X
 
 - ID: SYMBOL-kicad-kicad-symbols-Memory_Flash-AT25SF081-SSHD-X
 - Hex ID: SZKMEMORYFLASHAT25SF81SSHDX
-- Name: AT25SF081-SSHD-X
-- Description: AT25SF081-SSHD-X
+- Name: Memory_Flash : AT25SF081-SSHD-X
+- Description: Memory_Flash : AT25SF081-SSHD-X
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_Flash-AT25SF081-SSHD-X](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_Flash-AT25SF081-SSHD-X)
 - Short Link: [http://oom.lt/SZKMEMORYFLASHAT25SF81SSHDX](http://oom.lt/SZKMEMORYFLASHAT25SF81SSHDX)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AT25SF081-SSHD-X|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Memory_Flash-AT25SF081-SSHD-X|
 |Hex ID (short code)|hexID|SZKMEMORYFLASHAT25SF81SSHDX|
-|name|name|AT25SF081-SSHD-X|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AT25SF081-SSHD-X', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm', 'kicadSymbolDatasheet': 'https://www.adestotech.com/wp-content/uploads/DS-AT25SF081_045.pdf', 'kicadSymbolki_keywords': 'SPI DSPI QSPI 8Mbit 2.5V', 'kicadSymbolki_description': '8-Mbit, 2.5V Minimum SPI Serial Flash Memory with Dual-I/O and Quad-I/O Support, SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC?8*3.9x4.9mm*P1.27mm*'}]|
+|name|name|Memory_Flash : AT25SF081-SSHD-X|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'AT25SF081-SSHD-X'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-8_3.9x4.9mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.adestotech.com/wp-content/uploads/DS-AT25SF081_045.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'SPI DSPI QSPI 8Mbit 2.5V'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '8-Mbit</td><td> 2.5V Minimum SPI Serial Flash Memory with Dual-I/O and Quad-I/O Support</td><td> SOIC-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC?8*3.9x4.9mm*P1.27mm*'</td></tr></table>]|
 ||||

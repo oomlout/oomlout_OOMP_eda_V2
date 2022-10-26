@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Calibration_Scale-Gauge_10mm_Type1_SilkScreenTop|
 |Hex ID (short code)|hexID|FZKCSGAUGE1TYPE1SILKSCREENTOP|
 |name|name|Calibration_Scale : Gauge_10mm_Type1_SilkScreenTop|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Gauge_10mm_Type1_SilkScreenTop', 'description': 'Gauge, Massstab, 10mm, SilkScreenTop, Type 1,', 'tags': 'Gauge Massstab 10mm SilkScreenTop Type 1', 'attributeType': None, 'pins': {}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Gauge_10mm_Type1_SilkScreenTop'</td><td> 'description'</td></tr><tr><td> 'Gauge</td><td> Massstab</td><td> 10mm</td><td> SilkScreenTop</td><td> Type 1</td><td>'</td><td> 'tags'</td></tr><tr><td> 'Gauge Massstab 10mm SilkScreenTop Type 1'</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td></td></tr></table></td></tr></table>|
 ||||
 
 

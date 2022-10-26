@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKFPGAMSEMIACT12PL44 > ACT1020PL44
+# SZKFPGAMSEMIACT12PL44 > FPGA_Microsemi : ACT1020PL44
 
 - ID: SYMBOL-kicad-kicad-symbols-FPGA_Microsemi-ACT1020PL44
 - Hex ID: SZKFPGAMSEMIACT12PL44
-- Name: ACT1020PL44
-- Description: ACT1020PL44
+- Name: FPGA_Microsemi : ACT1020PL44
+- Description: FPGA_Microsemi : ACT1020PL44
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Microsemi-ACT1020PL44](http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Microsemi-ACT1020PL44)
 - Short Link: [http://oom.lt/SZKFPGAMSEMIACT12PL44](http://oom.lt/SZKFPGAMSEMIACT12PL44)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ACT1020PL44|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-FPGA_Microsemi-ACT1020PL44|
 |Hex ID (short code)|hexID|SZKFPGAMSEMIACT12PL44|
-|name|name|ACT1020PL44|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ACT1020PL44', 'kicadSymbolFootprint': 'Package_LCC:PLCC-44_16.6x16.6mm_P1.27mm', 'kicadSymbolDatasheet': 'https://www.microsemi.com/document-portal/doc_download/130666-act-1-series-fpgas-datasheet', 'kicadSymbolki_keywords': 'Actel FPGA', 'kicadSymbolki_description': 'ACT1020-PL44, Actel ACT1 FPGA, PLCC-44', 'kicadSymbolki_fp_filters': '*PLCC*16.6x16.6mm*P1.27mm*'}]|
+|name|name|FPGA_Microsemi : ACT1020PL44|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ACT1020PL44'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_LCC</td></tr><tr><td>PLCC-44_16.6x16.6mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.microsemi.com/document-portal/doc_download/130666-act-1-series-fpgas-datasheet'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Actel FPGA'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'ACT1020-PL44</td><td> Actel ACT1 FPGA</td><td> PLCC-44'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> '*PLCC*16.6x16.6mm*P1.27mm*'</td></tr></table>]|
 ||||

@@ -26,5 +26,5 @@ NO IMAGES
 |Full OOMP ID|oompID|FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_modules-MODULE-CONN-RASP-PICO-2040|
 |Hex ID (short code)|hexID|FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPMOSMOCONNRASPPICO24|
 |name|name|oomlout_OOMP_modules : MODULE-CONN-RASP-PICO-2040|
-|Footprint Kicad|footprintKicadDetails|{'name': 'MODULE-CONN-RASP-PICO-2040', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'MODULE-CONN-RASP-PICO-2040'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

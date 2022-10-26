@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMOTORMOTORAC > Motor_AC
+# SZKMOTORMOTORAC > Motor : Motor_AC
 
 - ID: SYMBOL-kicad-kicad-symbols-Motor-Motor_AC
 - Hex ID: SZKMOTORMOTORAC
-- Name: Motor_AC
-- Description: Motor_AC
+- Name: Motor : Motor_AC
+- Description: Motor : Motor_AC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Motor-Motor_AC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Motor-Motor_AC)
 - Short Link: [http://oom.lt/SZKMOTORMOTORAC](http://oom.lt/SZKMOTORMOTORAC)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Motor_AC|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Motor-Motor_AC|
 |Hex ID (short code)|hexID|SZKMOTORMOTORAC|
-|name|name|Motor_AC|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'M', 'kicadSymbolValue': 'Motor_AC', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'AC Motor', 'kicadSymbolki_description': 'AC Motor', 'kicadSymbolki_fp_filters': 'PinHeader*P2.54mm* TerminalBlock*'}]|
+|name|name|Motor : Motor_AC|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'M'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Motor_AC'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'AC Motor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'AC Motor'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'PinHeader*P2.54mm* TerminalBlock*'</td></tr></table>]|
 ||||

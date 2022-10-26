@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Coaxial-SMA_Amphenol_901-143_Horizontal|
 |Hex ID (short code)|hexID|FZKCNCOASAMPHENOL91143HORIZONTAL|
 |name|name|Connector_Coaxial : SMA_Amphenol_901-143_Horizontal|
-|Footprint Kicad|footprintKicadDetails|{'name': 'SMA_Amphenol_901-143_Horizontal', 'description': ' Amphenol RF 901-143 https://www.amphenolrf.com/library/download/link/link_id/585682', 'tags': 'SMA THT Female Jack Horizontal', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_Coaxial.3dshapes/SMA_Amphenol_901-143_Horizontal.wrl', 'pins': {'type': 'thru_hole', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SMA_Amphenol_901-143_Horizontal'</td><td> 'description'</td></tr><tr><td> ' Amphenol RF 901-143 https</td></tr><tr><td>//www.amphenolrf.com/library/download/link/link_id/585682'</td><td> 'tags'</td></tr><tr><td> 'SMA THT Female Jack Horizontal'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_Coaxial.3dshapes/SMA_Amphenol_901-143_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

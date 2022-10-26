@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORCURRENTHV1K5G > HV100K5-G
+# SZKREGULATORCURRENTHV1K5G > Regulator_Current : HV100K5-G
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Current-HV100K5-G
 - Hex ID: SZKREGULATORCURRENTHV1K5G
-- Name: HV100K5-G
-- Description: HV100K5-G
+- Name: Regulator_Current : HV100K5-G
+- Description: Regulator_Current : HV100K5-G
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Current-HV100K5-G](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Current-HV100K5-G)
 - Short Link: [http://oom.lt/SZKREGULATORCURRENTHV1K5G](http://oom.lt/SZKREGULATORCURRENTHV1K5G)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|HV100K5-G|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Current-HV100K5-G|
 |Hex ID (short code)|hexID|SZKREGULATORCURRENTHV1K5G|
-|name|name|HV100K5-G|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'HV100K5-G', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-223-3_TabPin2', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/devicedoc/hv100%20b060513.pdf', 'kicadSymbolki_keywords': 'Hot-Swap Current Limiter', 'kicadSymbolki_description': 'Hot-Swap Current Limiter Controller, SOT223', 'kicadSymbolki_fp_filters': 'SOT?223*TabPin2*'}]|
+|name|name|Regulator_Current : HV100K5-G|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'HV100K5-G'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-223-3_TabPin2'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/devicedoc/hv100%20b060513.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Hot-Swap Current Limiter'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Hot-Swap Current Limiter Controller</td><td> SOT223'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?223*TabPin2*'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUSTSTM32FSTM32F72CBUX > STM32F072CBUx
+# SZKMCUSTSTM32FSTM32F72CBUX > MCU_ST_STM32F0 : STM32F072CBUx
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F0-STM32F072CBUx
 - Hex ID: SZKMCUSTSTM32FSTM32F72CBUX
-- Name: STM32F072CBUx
-- Description: STM32F072CBUx
+- Name: MCU_ST_STM32F0 : STM32F072CBUx
+- Description: MCU_ST_STM32F0 : STM32F072CBUx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F0-STM32F072CBUx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F0-STM32F072CBUx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32FSTM32F72CBUX](http://oom.lt/SZKMCUSTSTM32FSTM32F72CBUX)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|STM32F072CBUx|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F0-STM32F072CBUx|
 |Hex ID (short code)|hexID|SZKMCUSTSTM32FSTM32F72CBUX|
-|name|name|STM32F072CBUx|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'STM32F072C8Ux', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'STM32F072CBUx', 'kicadSymbolFootprint': 'Package_DFN_QFN:QFN-48-1EP_7x7mm_P0.5mm_EP5.6x5.6mm', 'kicadSymbolDatasheet': 'http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00090510.pdf', 'kicadSymbolki_keywords': 'ARM Cortex-M0 STM32F0 STM32F0x2', 'kicadSymbolki_description': 'ARM Cortex-M0 MCU, 128KB flash, 16KB RAM, 48MHz, 2-3.6V, 37 GPIO, UFQFPN-48', 'kicadSymbolki_fp_filters': 'QFN*1EP*7x7mm*P0.5mm*'}]|
+|name|name|MCU_ST_STM32F0 : STM32F072CBUx|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'STM32F072C8Ux'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'STM32F072CBUx'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>QFN-48-1EP_7x7mm_P0.5mm_EP5.6x5.6mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00090510.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'ARM Cortex-M0 STM32F0 STM32F0x2'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'ARM Cortex-M0 MCU</td><td> 128KB flash</td><td> 16KB RAM</td><td> 48MHz</td><td> 2-3.6V</td><td> 37 GPIO</td><td> UFQFPN-48'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'QFN*1EP*7x7mm*P0.5mm*'</td></tr></table>]|
 ||||

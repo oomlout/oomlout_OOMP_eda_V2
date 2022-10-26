@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE85XO2421R85242 > RESE-0805-X-O242-01-R85242
+# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE85XO2421R85242 > oomlout_OOMP_parts : RESE-0805-X-O242-01-R85242
 
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O242-01-R85242
 - Hex ID: SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE85XO2421R85242
-- Name: RESE-0805-X-O242-01-R85242
-- Description: RESE-0805-X-O242-01-R85242
+- Name: oomlout_OOMP_parts : RESE-0805-X-O242-01-R85242
+- Description: oomlout_OOMP_parts : RESE-0805-X-O242-01-R85242
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O242-01-R85242](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O242-01-R85242)
 - Short Link: [http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE85XO2421R85242](http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE85XO2421R85242)
   
@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|RESE-0805-X-O242-01-R85242|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O242-01-R85242|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE85XO2421R85242|
-|name|name|RESE-0805-X-O242-01-R85242|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'R', 'kicadSymbolValue': 'RESE-0805-X-O242-01-R85242', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:RESE-0805-X-O242-01-R85242', 'kicadSymbolDatasheet': 'oom.lt/R85242', 'kicadSymbolki_keywords': 'R res resistor', 'kicadSymbolki_description': 'hexID: R85242;Resistor', 'kicadSymbolki_fp_filters': 'R_*'}]|
+|name|name|oomlout_OOMP_parts : RESE-0805-X-O242-01-R85242|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'R'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'RESE-0805-X-O242-01-R85242'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'oomlout_OOMP_parts</td></tr><tr><td>RESE-0805-X-O242-01-R85242'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'oom.lt/R85242'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'R res resistor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'hexID</td></tr><tr><td> R85242;Resistor'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'R_*'</td></tr></table>]|
 ||||

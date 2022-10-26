@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKPOTENTIOMETERDIGITALMCP411 > MCP41010
+# SZKPOTENTIOMETERDIGITALMCP411 > Potentiometer_Digital : MCP41010
 
 - ID: SYMBOL-kicad-kicad-symbols-Potentiometer_Digital-MCP41010
 - Hex ID: SZKPOTENTIOMETERDIGITALMCP411
-- Name: MCP41010
-- Description: MCP41010
+- Name: Potentiometer_Digital : MCP41010
+- Description: Potentiometer_Digital : MCP41010
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Potentiometer_Digital-MCP41010](http://oom.lt/SYMBOL-kicad-kicad-symbols-Potentiometer_Digital-MCP41010)
 - Short Link: [http://oom.lt/SZKPOTENTIOMETERDIGITALMCP411](http://oom.lt/SZKPOTENTIOMETERDIGITALMCP411)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MCP41010|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Potentiometer_Digital-MCP41010|
 |Hex ID (short code)|hexID|SZKPOTENTIOMETERDIGITALMCP411|
-|name|name|MCP41010|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MCP41010', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/11195c.pdf', 'kicadSymbolki_keywords': 'R POT', 'kicadSymbolki_description': 'Single Digital Potentiometer, SPI interface, 256 taps, 10 kohm', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm* SOIC*P1.27mm*'}]|
+|name|name|Potentiometer_Digital : MCP41010|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MCP41010'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/11195c.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'R POT'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Single Digital Potentiometer</td><td> SPI interface</td><td> 256 taps</td><td> 10 kohm'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W7.62mm* SOIC*P1.27mm*'</td></tr></table>]|
 ||||

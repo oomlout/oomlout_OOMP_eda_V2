@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE42XO121R4O12 > RESE-0402-X-O102-01-R4O102
+# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE42XO121R4O12 > oomlout_OOMP_parts : RESE-0402-X-O102-01-R4O102
 
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O102-01-R4O102
 - Hex ID: SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE42XO121R4O12
-- Name: RESE-0402-X-O102-01-R4O102
-- Description: RESE-0402-X-O102-01-R4O102
+- Name: oomlout_OOMP_parts : RESE-0402-X-O102-01-R4O102
+- Description: oomlout_OOMP_parts : RESE-0402-X-O102-01-R4O102
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O102-01-R4O102](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O102-01-R4O102)
 - Short Link: [http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE42XO121R4O12](http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE42XO121R4O12)
   
@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|RESE-0402-X-O102-01-R4O102|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O102-01-R4O102|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE42XO121R4O12|
-|name|name|RESE-0402-X-O102-01-R4O102|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'R', 'kicadSymbolValue': 'RESE-0402-X-O102-01-R4O102', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:RESE-0402-X-O102-01-R4O102', 'kicadSymbolDatasheet': 'oom.lt/R4O102', 'kicadSymbolki_keywords': 'R res resistor', 'kicadSymbolki_description': 'hexID: R4O102;PARTL C-JLCC;C11702;MANUF C-XXXX;0402WGF1001TCE;Resistor', 'kicadSymbolki_fp_filters': 'R_*'}]|
+|name|name|oomlout_OOMP_parts : RESE-0402-X-O102-01-R4O102|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'R'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'RESE-0402-X-O102-01-R4O102'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'oomlout_OOMP_parts</td></tr><tr><td>RESE-0402-X-O102-01-R4O102'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'oom.lt/R4O102'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'R res resistor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'hexID</td></tr><tr><td> R4O102;PARTL C-JLCC;C11702;MANUF C-XXXX;0402WGF1001TCE;Resistor'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'R_*'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUMCHIPPIC16PIC16F1619XP > PIC16F1619-xP
+# SZKMCUMCHIPPIC16PIC16F1619XP > MCU_Microchip_PIC16 : PIC16F1619-xP
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F1619-xP
 - Hex ID: SZKMCUMCHIPPIC16PIC16F1619XP
-- Name: PIC16F1619-xP
-- Description: PIC16F1619-xP
+- Name: MCU_Microchip_PIC16 : PIC16F1619-xP
+- Description: MCU_Microchip_PIC16 : PIC16F1619-xP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F1619-xP](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F1619-xP)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC16PIC16F1619XP](http://oom.lt/SZKMCUMCHIPPIC16PIC16F1619XP)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PIC16F1619-xP|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F1619-xP|
 |Hex ID (short code)|hexID|SZKMCUMCHIPPIC16PIC16F1619XP|
-|name|name|PIC16F1619-xP|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PIC16F1619-xP', 'kicadSymbolFootprint': 'Package_DIP:DIP-20_W7.62mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/40001770D.pdf', 'kicadSymbolki_keywords': 'Flash-Based 8-Bit CMOS Microcontroller Low Power', 'kicadSymbolki_description': '8-bit Flash MCU, 32MHz, 14KB Flash, 1KB RAM, 1K High Endurance Flash (EEPROM), PDIP-20', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
+|name|name|MCU_Microchip_PIC16 : PIC16F1619-xP|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'PIC16F1619-xP'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>DIP-20_W7.62mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/40001770D.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Flash-Based 8-Bit CMOS Microcontroller Low Power'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '8-bit Flash MCU</td><td> 32MHz</td><td> 14KB Flash</td><td> 1KB RAM</td><td> 1K High Endurance Flash (EEPROM)</td><td> PDIP-20'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W7.62mm*'</td></tr></table>]|
 ||||

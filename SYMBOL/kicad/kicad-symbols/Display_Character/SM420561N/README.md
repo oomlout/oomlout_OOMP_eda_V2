@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDICHARACTERSM42561N > SM420561N
+# SZKDICHARACTERSM42561N > Display_Character : SM420561N
 
 - ID: SYMBOL-kicad-kicad-symbols-Display_Character-SM420561N
 - Hex ID: SZKDICHARACTERSM42561N
-- Name: SM420561N
-- Description: SM420561N
+- Name: Display_Character : SM420561N
+- Description: Display_Character : SM420561N
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-SM420561N](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-SM420561N)
 - Short Link: [http://oom.lt/SZKDICHARACTERSM42561N](http://oom.lt/SZKDICHARACTERSM42561N)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SM420561N|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Display_Character-SM420561N|
 |Hex ID (short code)|hexID|SZKDICHARACTERSM42561N|
-|name|name|SM420561N|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'SM420561N', 'kicadSymbolFootprint': 'Display_7Segment:7SegmentLED_LTS6760_LTS6780', 'kicadSymbolDatasheet': 'https://datasheet.lcsc.com/szlcsc/Wuxi-ARK-Tech-Elec-SM420561N_C141367.pdf', 'kicadSymbolki_keywords': 'display LED 7-segment', 'kicadSymbolki_description': 'One digit 7 segment blue LED, common cathode', 'kicadSymbolki_fp_filters': '7SegmentLED?LTS6760?LTS6780*'}]|
+|name|name|Display_Character : SM420561N|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'SM420561N'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Display_7Segment</td></tr><tr><td>7SegmentLED_LTS6760_LTS6780'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//datasheet.lcsc.com/szlcsc/Wuxi-ARK-Tech-Elec-SM420561N_C141367.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'display LED 7-segment'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'One digit 7 segment blue LED</td><td> common cathode'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> '7SegmentLED?LTS6760?LTS6780*'</td></tr></table>]|
 ||||

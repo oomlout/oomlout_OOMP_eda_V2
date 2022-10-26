@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORLINEARTPS73125DBV > TPS73125DBV
+# SZKREGULATORLINEARTPS73125DBV > Regulator_Linear : TPS73125DBV
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS73125DBV
 - Hex ID: SZKREGULATORLINEARTPS73125DBV
-- Name: TPS73125DBV
-- Description: TPS73125DBV
+- Name: Regulator_Linear : TPS73125DBV
+- Description: Regulator_Linear : TPS73125DBV
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS73125DBV](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS73125DBV)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARTPS73125DBV](http://oom.lt/SZKREGULATORLINEARTPS73125DBV)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TPS73125DBV|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS73125DBV|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARTPS73125DBV|
-|name|name|TPS73125DBV|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TPS73625DBV', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TPS73125DBV', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-5', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tps731.pdf', 'kicadSymbolki_keywords': 'Cap free Fixed LDO 150mA', 'kicadSymbolki_description': 'Cap free NMOS 150mA Low Drop 2.5V Regulator, SOT-23-5', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
+|name|name|Regulator_Linear : TPS73125DBV|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'TPS73625DBV'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TPS73125DBV'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-23-5'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/tps731.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Cap free Fixed LDO 150mA'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Cap free NMOS 150mA Low Drop 2.5V Regulator</td><td> SOT-23-5'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23*'</td></tr></table>]|
 ||||

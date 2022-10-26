@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUTEXASLM4F11H5QR > LM4F110H5QR
+# SZKMCUTEXASLM4F11H5QR > MCU_Texas : LM4F110H5QR
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Texas-LM4F110H5QR
 - Hex ID: SZKMCUTEXASLM4F11H5QR
-- Name: LM4F110H5QR
-- Description: LM4F110H5QR
+- Name: MCU_Texas : LM4F110H5QR
+- Description: MCU_Texas : LM4F110H5QR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Texas-LM4F110H5QR](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Texas-LM4F110H5QR)
 - Short Link: [http://oom.lt/SZKMCUTEXASLM4F11H5QR](http://oom.lt/SZKMCUTEXASLM4F11H5QR)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM4F110H5QR|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Texas-LM4F110H5QR|
 |Hex ID (short code)|hexID|SZKMCUTEXASLM4F11H5QR|
-|name|name|LM4F110H5QR|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TM4C1231C3PM', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM4F110H5QR', 'kicadSymbolFootprint': 'Package_QFP:LQFP-64_10x10mm_P0.5mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tm4c1231h6pm.pdf', 'kicadSymbolki_keywords': 'ARM Stellaris Cortex M4 MCU NRND', 'kicadSymbolki_description': 'Replaced by TM4C1231H6PM, LQFP64', 'kicadSymbolki_fp_filters': 'LQFP*10x10mm*P0.5*'}]|
+|name|name|MCU_Texas : LM4F110H5QR|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'TM4C1231C3PM'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LM4F110H5QR'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_QFP</td></tr><tr><td>LQFP-64_10x10mm_P0.5mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/tm4c1231h6pm.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'ARM Stellaris Cortex M4 MCU NRND'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Replaced by TM4C1231H6PM</td><td> LQFP64'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'LQFP*10x10mm*P0.5*'</td></tr></table>]|
 ||||

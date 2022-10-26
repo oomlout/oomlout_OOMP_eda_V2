@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDIODELASERPL52 > PL520
+# SZKDIODELASERPL52 > Diode_Laser : PL520
 
 - ID: SYMBOL-kicad-kicad-symbols-Diode_Laser-PL520
 - Hex ID: SZKDIODELASERPL52
-- Name: PL520
-- Description: PL520
+- Name: Diode_Laser : PL520
+- Description: Diode_Laser : PL520
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Laser-PL520](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Laser-PL520)
 - Short Link: [http://oom.lt/SZKDIODELASERPL52](http://oom.lt/SZKDIODELASERPL52)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PL520|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode_Laser-PL520|
 |Hex ID (short code)|hexID|SZKDIODELASERPL52|
-|name|name|PL520|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'PL450B', 'kicadSymbolReference': 'LD', 'kicadSymbolValue': 'PL520', 'kicadSymbolFootprint': 'OptoDevice:LaserDiode_TO38ICut-3', 'kicadSymbolDatasheet': 'http://www.osram-os.com/Graphics/XPic7/00234693_0.pdf/PL%20520.pdf', 'kicadSymbolki_keywords': 'opto laserdiode', 'kicadSymbolki_description': 'Green Laser Diode (520nm), TO-38', 'kicadSymbolki_fp_filters': 'LaserDiode*TO38ICut*'}]|
+|name|name|Diode_Laser : PL520|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'PL450B'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'LD'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'PL520'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'OptoDevice</td></tr><tr><td>LaserDiode_TO38ICut-3'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.osram-os.com/Graphics/XPic7/00234693_0.pdf/PL%20520.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'opto laserdiode'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Green Laser Diode (520nm)</td><td> TO-38'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'LaserDiode*TO38ICut*'</td></tr></table>]|
 ||||

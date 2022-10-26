@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKRELAYFINDER3611431 > FINDER-36.11-4301
+# SZKRELAYFINDER3611431 > Relay : FINDER-36.11-4301
 
 - ID: SYMBOL-kicad-kicad-symbols-Relay-FINDER-36.11-4301
 - Hex ID: SZKRELAYFINDER3611431
-- Name: FINDER-36.11-4301
-- Description: FINDER-36.11-4301
+- Name: Relay : FINDER-36.11-4301
+- Description: Relay : FINDER-36.11-4301
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-FINDER-36.11-4301](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-FINDER-36.11-4301)
 - Short Link: [http://oom.lt/SZKRELAYFINDER3611431](http://oom.lt/SZKRELAYFINDER3611431)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|FINDER-36.11-4301|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Relay-FINDER-36.11-4301|
 |Hex ID (short code)|hexID|SZKRELAYFINDER3611431|
-|name|name|FINDER-36.11-4301|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'FINDER-32.21-x300', 'kicadSymbolReference': 'K', 'kicadSymbolValue': 'FINDER-36.11-4301', 'kicadSymbolFootprint': 'Relay_THT:Relay_SPST_Finder_32.21-x300', 'kicadSymbolDatasheet': 'http://gfinder.findernet.com/assets/Series/356/S36EN.pdf', 'kicadSymbolki_keywords': 'Single Pole Relay SPST-NO Sugar Cube', 'kicadSymbolki_description': 'FINDER 36.11-4301, Single Pole Relay SPST-NO Sugar Cube, 10A', 'kicadSymbolki_fp_filters': 'Relay*SPST*Finder*32.21*x300*'}]|
+|name|name|Relay : FINDER-36.11-4301|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'FINDER-32.21-x300'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'K'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'FINDER-36.11-4301'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Relay_THT</td></tr><tr><td>Relay_SPST_Finder_32.21-x300'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//gfinder.findernet.com/assets/Series/356/S36EN.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Single Pole Relay SPST-NO Sugar Cube'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'FINDER 36.11-4301</td><td> Single Pole Relay SPST-NO Sugar Cube</td><td> 10A'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Relay*SPST*Finder*32.21*x300*'</td></tr></table>]|
 ||||

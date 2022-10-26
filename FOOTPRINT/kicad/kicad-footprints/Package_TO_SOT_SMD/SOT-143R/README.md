@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-143R|
 |Hex ID (short code)|hexID|FZKPACKAGETOSOTSMSOT143R|
 |name|name|Package_TO_SOT_SMD : SOT-143R|
-|Footprint Kicad|footprintKicadDetails|{'name': 'SOT-143R', 'description': 'SOT-143R, reverse pinning, https://www.nxp.com/docs/en/package-information/SOT143R.pdf', 'tags': 'SOT-143R Reverse', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-143R.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SOT-143R'</td><td> 'description'</td></tr><tr><td> 'SOT-143R</td><td> reverse pinning</td><td> https</td></tr><tr><td>//www.nxp.com/docs/en/package-information/SOT143R.pdf'</td><td> 'tags'</td></tr><tr><td> 'SOT-143R Reverse'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_TO_SOT_SMD.3dshapes/SOT-143R.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

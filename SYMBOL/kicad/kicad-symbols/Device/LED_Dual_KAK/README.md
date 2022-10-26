@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDEVICELDUALKAK > LED_Dual_KAK
+# SZKDEVICELDUALKAK > Device : LED_Dual_KAK
 
 - ID: SYMBOL-kicad-kicad-symbols-Device-LED_Dual_KAK
 - Hex ID: SZKDEVICELDUALKAK
-- Name: LED_Dual_KAK
-- Description: LED_Dual_KAK
+- Name: Device : LED_Dual_KAK
+- Description: Device : LED_Dual_KAK
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-LED_Dual_KAK](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-LED_Dual_KAK)
 - Short Link: [http://oom.lt/SZKDEVICELDUALKAK](http://oom.lt/SZKDEVICELDUALKAK)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LED_Dual_KAK|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-LED_Dual_KAK|
 |Hex ID (short code)|hexID|SZKDEVICELDUALKAK|
-|name|name|LED_Dual_KAK|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'LED_Dual_KAK', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'LED diode bicolor dual', 'kicadSymbolki_description': 'Dual LED, common anode on pin 2', 'kicadSymbolki_fp_filters': 'LED* LED_SMD:* LED_THT:*'}]|
+|name|name|Device : LED_Dual_KAK|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LED_Dual_KAK'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'LED diode bicolor dual'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Dual LED</td><td> common anode on pin 2'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'LED* LED_SMD</td></tr><tr><td>* LED_THT</td></tr><tr><td>*'</td></tr></table>]|
 ||||

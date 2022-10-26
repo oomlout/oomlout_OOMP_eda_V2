@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Term_Block_1x8_P5.08mm|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSTERMBL1X8P58|
 |name|name|digikey-footprints : Term_Block_1x8_P5.08mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Term_Block_1x8_P5.08mm', 'description': 'http://www.on-shore.com/wp-content/uploads/2015/09/osttcxx2162.pdf', 'tags': None, 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Term_Block_1x8_P5.08mm'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//www.on-shore.com/wp-content/uploads/2015/09/osttcxx2162.pdf'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

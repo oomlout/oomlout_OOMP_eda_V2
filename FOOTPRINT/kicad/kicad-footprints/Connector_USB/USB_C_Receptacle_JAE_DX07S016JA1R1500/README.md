@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_C_Receptacle_JAE_DX07S016JA1R1500|
 |Hex ID (short code)|hexID|FZKCNUUCRECEPTACLEJAEDX7S16JA1R15|
 |name|name|Connector_USB : USB_C_Receptacle_JAE_DX07S016JA1R1500|
-|Footprint Kicad|footprintKicadDetails|{'name': 'USB_C_Receptacle_JAE_DX07S016JA1R1500', 'description': 'USB TYPE C, USB 2.0, SMT, https://www.jae.com/en/connectors/series/detail/product/id=91780', 'tags': 'USB C Type-C Receptacle SMD USB 2.0', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_USB.3dshapes/USB_C_Receptacle_JAE_DX07S016JA1R1500.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'USB_C_Receptacle_JAE_DX07S016JA1R1500'</td><td> 'description'</td></tr><tr><td> 'USB TYPE C</td><td> USB 2.0</td><td> SMT</td><td> https</td></tr><tr><td>//www.jae.com/en/connectors/series/detail/product/id=91780'</td><td> 'tags'</td></tr><tr><td> 'USB C Type-C Receptacle SMD USB 2.0'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_USB.3dshapes/USB_C_Receptacle_JAE_DX07S016JA1R1500.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

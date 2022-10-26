@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_CSP-WLCSP-6_1.4x1.0mm_P0.4mm|
 |Hex ID (short code)|hexID|FZKCSPWLCSP614X1P4|
 |name|name|Package_CSP : WLCSP-6_1.4x1.0mm_P0.4mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'WLCSP-6_1.4x1.0mm_P0.4mm', 'description': '6pin Pitch 0.4mm', 'tags': '6pin Pitch 0.4mm WLCSP', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_CSP.3dshapes/WLCSP-6_1.4x1.0mm_P0.4mm.wrl', 'pins': {'type': 'smd', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'WLCSP-6_1.4x1.0mm_P0.4mm'</td><td> 'description'</td></tr><tr><td> '6pin Pitch 0.4mm'</td><td> 'tags'</td></tr><tr><td> '6pin Pitch 0.4mm WLCSP'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_CSP.3dshapes/WLCSP-6_1.4x1.0mm_P0.4mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

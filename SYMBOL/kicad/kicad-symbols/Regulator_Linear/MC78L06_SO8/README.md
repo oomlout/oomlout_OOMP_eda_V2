@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORLINEARMC78L6SO8 > MC78L06_SO8
+# SZKREGULATORLINEARMC78L6SO8 > Regulator_Linear : MC78L06_SO8
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-MC78L06_SO8
 - Hex ID: SZKREGULATORLINEARMC78L6SO8
-- Name: MC78L06_SO8
-- Description: MC78L06_SO8
+- Name: Regulator_Linear : MC78L06_SO8
+- Description: Regulator_Linear : MC78L06_SO8
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-MC78L06_SO8](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-MC78L06_SO8)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARMC78L6SO8](http://oom.lt/SZKREGULATORLINEARMC78L6SO8)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MC78L06_SO8|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-MC78L06_SO8|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARMC78L6SO8|
-|name|name|MC78L06_SO8|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MC78L05_SO8', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MC78L06_SO8', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pub/Collateral/MC78L00A-D.PDF', 'kicadSymbolki_keywords': 'Voltage Regulator 100mA Positive', 'kicadSymbolki_description': 'Positive 100mA 30V Linear Regulator, Fixed Output 6V, SO-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm*'}]|
+|name|name|Regulator_Linear : MC78L06_SO8|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'MC78L05_SO8'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MC78L06_SO8'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-8_3.9x4.9mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.onsemi.com/pub/Collateral/MC78L00A-D.PDF'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Voltage Regulator 100mA Positive'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Positive 100mA 30V Linear Regulator</td><td> Fixed Output 6V</td><td> SO-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*3.9x4.9mm*P1.27mm*'</td></tr></table>]|
 ||||

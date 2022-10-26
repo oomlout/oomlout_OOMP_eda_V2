@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_PCBEdge-4UCON_10156_2x40_P1.27mm_Socket_Horizontal|
 |Hex ID (short code)|hexID|FZKCNPCBEDGE4UCON11562X4P127SOHORIZONTAL|
 |name|name|Connector_PCBEdge : 4UCON_10156_2x40_P1.27mm_Socket_Horizontal|
-|Footprint Kicad|footprintKicadDetails|{'name': '4UCON_10156_2x40_P1.27mm_Socket_Horizontal', 'description': '4UCON 10156 Card edge socket with 80 contacts (40 each side), through-hole, http://www.4uconnector.com/online/object/4udrawing/10156.pdf', 'tags': '4UCON 10156 Card edge socket with 80 contacts', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_PCBEdge.3dshapes/4UCON_10156_2x40_P1.27mm_Socket_Horizontal.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> '4UCON_10156_2x40_P1.27mm_Socket_Horizontal'</td><td> 'description'</td></tr><tr><td> '4UCON 10156 Card edge socket with 80 contacts (40 each side)</td><td> through-hole</td><td> http</td></tr><tr><td>//www.4uconnector.com/online/object/4udrawing/10156.pdf'</td><td> 'tags'</td></tr><tr><td> '4UCON 10156 Card edge socket with 80 contacts'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_PCBEdge.3dshapes/4UCON_10156_2x40_P1.27mm_Socket_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

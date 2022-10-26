@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-QFN-20-1EP_3x3mm_P0.45mm_EP1.6x1.6mm|
 |Hex ID (short code)|hexID|FZKDFNQFN21EP3X3P45EP16X16|
 |name|name|Package_DFN_QFN : QFN-20-1EP_3x3mm_P0.45mm_EP1.6x1.6mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'QFN-20-1EP_3x3mm_P0.45mm_EP1.6x1.6mm', 'description': 'QFN, 20 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/atmel-8235-8-bit-avr-microcontroller-attiny20_datasheet.pdf#page=212), generated with kicad-footprint-generator ipc_noLead_generator.py', 'tags': 'QFN NoLead', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/QFN-20-1EP_3x3mm_P0.45mm_EP1.6x1.6mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'QFN-20-1EP_3x3mm_P0.45mm_EP1.6x1.6mm'</td><td> 'description'</td></tr><tr><td> 'QFN</td><td> 20 Pin (http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/atmel-8235-8-bit-avr-microcontroller-attiny20_datasheet.pdf#page=212)</td><td> generated with kicad-footprint-generator ipc_noLead_generator.py'</td><td> 'tags'</td></tr><tr><td> 'QFN NoLead'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DFN_QFN.3dshapes/QFN-20-1EP_3x3mm_P0.45mm_EP1.6x1.6mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

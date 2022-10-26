@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Fuse-Fuseholder_Clip-5x20mm_Schurter_CQM_Inline_P20.60x5.00mm_D1.00mm_Horizontal|
 |Hex ID (short code)|hexID|FZKFUFUHOLDERCLIP5X2SCHURTERCQMIP26X5D1HORIZONTAL|
 |name|name|Fuse : Fuseholder_Clip-5x20mm_Schurter_CQM_Inline_P20.60x5.00mm_D1.00mm_Horizontal|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Fuseholder_Clip-5x20mm_Schurter_CQM_Inline_P20.60x5.00mm_D1.00mm_Horizontal', 'description': 'Fuseholder Clips, 5x20mm Cylinder Fuse, Pins Inline, Horizontal, Schurter CQM (0752), https://www.schurter.com/en/datasheet/typ_CQM.pdf', 'tags': 'fuse clip open', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Fuse.3dshapes/Fuseholder_Clip-5x20mm_Schurter_CQM_Inline_P20.60x5.00mm_D1.00mm_Horizontal.wrl', 'pins': {'type': 'thru_hole', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Fuseholder_Clip-5x20mm_Schurter_CQM_Inline_P20.60x5.00mm_D1.00mm_Horizontal'</td><td> 'description'</td></tr><tr><td> 'Fuseholder Clips</td><td> 5x20mm Cylinder Fuse</td><td> Pins Inline</td><td> Horizontal</td><td> Schurter CQM (0752)</td><td> https</td></tr><tr><td>//www.schurter.com/en/datasheet/typ_CQM.pdf'</td><td> 'tags'</td></tr><tr><td> 'fuse clip open'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Fuse.3dshapes/Fuseholder_Clip-5x20mm_Schurter_CQM_Inline_P20.60x5.00mm_D1.00mm_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

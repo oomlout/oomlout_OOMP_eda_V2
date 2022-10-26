@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZK74XX74LS353 > 74LS353
+# SZK74XX74LS353 > 74xx : 74LS353
 
 - ID: SYMBOL-kicad-kicad-symbols-74xx-74LS353
 - Hex ID: SZK74XX74LS353
-- Name: 74LS353
-- Description: 74LS353
+- Name: 74xx : 74LS353
+- Description: 74xx : 74LS353
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx-74LS353](http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx-74LS353)
 - Short Link: [http://oom.lt/SZK74XX74LS353](http://oom.lt/SZK74XX74LS353)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74LS353|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xx-74LS353|
 |Hex ID (short code)|hexID|SZK74XX74LS353|
-|name|name|74LS353|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74LS353', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/gpn/sn74LS353', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'TTL MUX MUX2', 'kicadSymbolki_description': 'Dual 4 to 1 line Multiplexer, inverter', 'kicadSymbolki_fp_filters': 'DIP?16*'}]|
+|name|name|74xx : 74LS353|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> '74LS353'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/gpn/sn74LS353'</td><td> 'kicadSymbolki_locked'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'TTL MUX MUX2'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Dual 4 to 1 line Multiplexer</td><td> inverter'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP?16*'</td></tr></table>]|
 ||||

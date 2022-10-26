@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_RECOM_R-78S-0.1_THT|
 |Hex ID (short code)|hexID|FZKCONCONRECOMR78S1THT|
 |name|name|Converter_DCDC : Converter_DCDC_RECOM_R-78S-0.1_THT|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Converter_DCDC_RECOM_R-78S-0.1_THT', 'description': 'DCDC-Converter, RECOM, RECOM_R-78S-0.1, SIP-4, pitch 2.54mm, package size 11.6x8.5x10.4mm^3, https://www.recom-power.com/pdf/Innoline/R-78Sxx-0.1.pdf', 'tags': 'dc-dc recom buck sip-4 pitch 2.54mm', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Converter_DCDC.3dshapes/Converter_DCDC_RECOM_R-78S-0.1_THT.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Converter_DCDC_RECOM_R-78S-0.1_THT'</td><td> 'description'</td></tr><tr><td> 'DCDC-Converter</td><td> RECOM</td><td> RECOM_R-78S-0.1</td><td> SIP-4</td><td> pitch 2.54mm</td><td> package size 11.6x8.5x10.4mm^3</td><td> https</td></tr><tr><td>//www.recom-power.com/pdf/Innoline/R-78Sxx-0.1.pdf'</td><td> 'tags'</td></tr><tr><td> 'dc-dc recom buck sip-4 pitch 2.54mm'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Converter_DCDC.3dshapes/Converter_DCDC_RECOM_R-78S-0.1_THT.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

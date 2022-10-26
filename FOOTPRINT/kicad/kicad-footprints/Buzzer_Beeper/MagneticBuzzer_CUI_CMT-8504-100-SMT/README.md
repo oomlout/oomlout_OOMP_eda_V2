@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Buzzer_Beeper-MagneticBuzzer_CUI_CMT-8504-100-SMT|
 |Hex ID (short code)|hexID|FZKBZMAGNETICBUZZERCUICMT8541S|
 |name|name|Buzzer_Beeper : MagneticBuzzer_CUI_CMT-8504-100-SMT|
-|Footprint Kicad|footprintKicadDetails|{'name': 'MagneticBuzzer_CUI_CMT-8504-100-SMT', 'description': 'magnetic transducer buzzer, 5V, SPL of 100 dB at 10 cm, https://www.cuidevices.com/product/resource/pdf/cmt-8504-100-smt-tr.pdf', 'tags': 'CMT 8504', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Buzzer_Beeper.3dshapes/MagneticBuzzer_CUI_CMT-8504-100-SMT.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'MagneticBuzzer_CUI_CMT-8504-100-SMT'</td><td> 'description'</td></tr><tr><td> 'magnetic transducer buzzer</td><td> 5V</td><td> SPL of 100 dB at 10 cm</td><td> https</td></tr><tr><td>//www.cuidevices.com/product/resource/pdf/cmt-8504-100-smt-tr.pdf'</td><td> 'tags'</td></tr><tr><td> 'CMT 8504'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Buzzer_Beeper.3dshapes/MagneticBuzzer_CUI_CMT-8504-100-SMT.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

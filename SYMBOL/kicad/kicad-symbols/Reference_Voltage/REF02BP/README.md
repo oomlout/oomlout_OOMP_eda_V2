@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREFERENCEVOLTAGEREF2BP > REF02BP
+# SZKREFERENCEVOLTAGEREF2BP > Reference_Voltage : REF02BP
 
 - ID: SYMBOL-kicad-kicad-symbols-Reference_Voltage-REF02BP
 - Hex ID: SZKREFERENCEVOLTAGEREF2BP
-- Name: REF02BP
-- Description: REF02BP
+- Name: Reference_Voltage : REF02BP
+- Description: Reference_Voltage : REF02BP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-REF02BP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-REF02BP)
 - Short Link: [http://oom.lt/SZKREFERENCEVOLTAGEREF2BP](http://oom.lt/SZKREFERENCEVOLTAGEREF2BP)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|REF02BP|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Reference_Voltage-REF02BP|
 |Hex ID (short code)|hexID|SZKREFERENCEVOLTAGEREF2BP|
-|name|name|REF02BP|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'REF02AP', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'REF02BP', 'kicadSymbolFootprint': 'Package_DIP:DIP-8_W7.62mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/ref02.pdf', 'kicadSymbolki_keywords': 'Precision Voltage Reference 5V', 'kicadSymbolki_description': '5V ±10mV Precision Voltage Reference, PDIP-8', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
+|name|name|Reference_Voltage : REF02BP|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'REF02AP'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'REF02BP'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>DIP-8_W7.62mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/ref02.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Precision Voltage Reference 5V'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '5V ±10mV Precision Voltage Reference</td><td> PDIP-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W7.62mm*'</td></tr></table>]|
 ||||

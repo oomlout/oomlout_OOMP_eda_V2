@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUMCHIPPIC16PIC16F88IML > PIC16F88-IML
+# SZKMCUMCHIPPIC16PIC16F88IML > MCU_Microchip_PIC16 : PIC16F88-IML
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F88-IML
 - Hex ID: SZKMCUMCHIPPIC16PIC16F88IML
-- Name: PIC16F88-IML
-- Description: PIC16F88-IML
+- Name: MCU_Microchip_PIC16 : PIC16F88-IML
+- Description: MCU_Microchip_PIC16 : PIC16F88-IML
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F88-IML](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F88-IML)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC16PIC16F88IML](http://oom.lt/SZKMCUMCHIPPIC16PIC16F88IML)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PIC16F88-IML|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F88-IML|
 |Hex ID (short code)|hexID|SZKMCUMCHIPPIC16PIC16F88IML|
-|name|name|PIC16F88-IML|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PIC16F88-IML', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/30487D.pdf', 'kicadSymbolki_keywords': 'FLASH-Based 8-Bit CMOS Microcontroller', 'kicadSymbolki_description': 'PIC16F88, 4096W Flash, 368B SRAM, 256B EEPROM, QFN-28', 'kicadSymbolki_fp_filters': 'DIP* PDIP*'}]|
+|name|name|MCU_Microchip_PIC16 : PIC16F88-IML|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'PIC16F88-IML'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/30487D.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'FLASH-Based 8-Bit CMOS Microcontroller'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'PIC16F88</td><td> 4096W Flash</td><td> 368B SRAM</td><td> 256B EEPROM</td><td> QFN-28'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP* PDIP*'</td></tr></table>]|
 ||||

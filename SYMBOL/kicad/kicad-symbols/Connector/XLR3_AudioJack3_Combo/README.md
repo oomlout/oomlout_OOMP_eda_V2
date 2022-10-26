@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKCNXLR3AUDIOJ3COMBO > XLR3_AudioJack3_Combo
+# SZKCNXLR3AUDIOJ3COMBO > Connector : XLR3_AudioJack3_Combo
 
 - ID: SYMBOL-kicad-kicad-symbols-Connector-XLR3_AudioJack3_Combo
 - Hex ID: SZKCNXLR3AUDIOJ3COMBO
-- Name: XLR3_AudioJack3_Combo
-- Description: XLR3_AudioJack3_Combo
+- Name: Connector : XLR3_AudioJack3_Combo
+- Description: Connector : XLR3_AudioJack3_Combo
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-XLR3_AudioJack3_Combo](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-XLR3_AudioJack3_Combo)
 - Short Link: [http://oom.lt/SZKCNXLR3AUDIOJ3COMBO](http://oom.lt/SZKCNXLR3AUDIOJ3COMBO)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|XLR3_AudioJack3_Combo|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-XLR3_AudioJack3_Combo|
 |Hex ID (short code)|hexID|SZKCNXLR3AUDIOJ3COMBO|
-|name|name|XLR3_AudioJack3_Combo|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'XLR3_AudioJack3_Combo', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ' ~', 'kicadSymbolki_keywords': 'xlr connector', 'kicadSymbolki_description': 'XLR (Male or Female) and Audio Jack (Stereo / TRS) Combo Connector, Discrete Ground Pin', 'kicadSymbolki_fp_filters': 'Jack*XLR*6.35mm*'}]|
+|name|name|Connector : XLR3_AudioJack3_Combo|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'J'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'XLR3_AudioJack3_Combo'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> ' ~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'xlr connector'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'XLR (Male or Female) and Audio Jack (Stereo / TRS) Combo Connector</td><td> Discrete Ground Pin'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Jack*XLR*6.35mm*'</td></tr></table>]|
 ||||

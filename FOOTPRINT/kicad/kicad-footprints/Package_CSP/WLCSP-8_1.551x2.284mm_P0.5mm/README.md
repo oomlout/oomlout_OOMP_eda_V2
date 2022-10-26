@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_CSP-WLCSP-8_1.551x2.284mm_P0.5mm|
 |Hex ID (short code)|hexID|FZKCSPWLCSP81551X2284P5|
 |name|name|Package_CSP : WLCSP-8_1.551x2.284mm_P0.5mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'WLCSP-8_1.551x2.284mm_P0.5mm', 'description': 'WLCSP-8, 2.284x1.551mm, 8 Ball, 2x4 Layout, 0.5mm Pitch, https://www.adestotech.com/wp-content/uploads/AT25SL321_112.pdf#page=75', 'tags': 'CSP 8 0.5', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_CSP.3dshapes/WLCSP-8_1.551x2.284mm_P0.5mm.wrl', 'pins': {'type': 'smd', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'WLCSP-8_1.551x2.284mm_P0.5mm'</td><td> 'description'</td></tr><tr><td> 'WLCSP-8</td><td> 2.284x1.551mm</td><td> 8 Ball</td><td> 2x4 Layout</td><td> 0.5mm Pitch</td><td> https</td></tr><tr><td>//www.adestotech.com/wp-content/uploads/AT25SL321_112.pdf#page=75'</td><td> 'tags'</td></tr><tr><td> 'CSP 8 0.5'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_CSP.3dshapes/WLCSP-8_1.551x2.284mm_P0.5mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

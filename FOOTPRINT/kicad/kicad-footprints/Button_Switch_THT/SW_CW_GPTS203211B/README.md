@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_CW_GPTS203211B|
 |Hex ID (short code)|hexID|FZKBSWCWGPTS23211B|
 |name|name|Button_Switch_THT : SW_CW_GPTS203211B|
-|Footprint Kicad|footprintKicadDetails|{'name': 'SW_CW_GPTS203211B', 'description': 'SPST Off-On Pushbutton, 1A, 30V, CW Industries P/N GPTS203211B, http://switches-connectors-custom.cwind.com/Asset/GPTS203211BR2.pdf', 'tags': 'SPST button switch Off-On', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_CW_GPTS203211B.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SW_CW_GPTS203211B'</td><td> 'description'</td></tr><tr><td> 'SPST Off-On Pushbutton</td><td> 1A</td><td> 30V</td><td> CW Industries P/N GPTS203211B</td><td> http</td></tr><tr><td>//switches-connectors-custom.cwind.com/Asset/GPTS203211BR2.pdf'</td><td> 'tags'</td></tr><tr><td> 'SPST button switch Off-On'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Button_Switch_THT.3dshapes/SW_CW_GPTS203211B.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

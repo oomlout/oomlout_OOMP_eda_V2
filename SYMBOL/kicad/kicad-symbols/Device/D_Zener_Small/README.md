@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDEVICEDZENERSLL > D_Zener_Small
+# SZKDEVICEDZENERSLL > Device : D_Zener_Small
 
 - ID: SYMBOL-kicad-kicad-symbols-Device-D_Zener_Small
 - Hex ID: SZKDEVICEDZENERSLL
-- Name: D_Zener_Small
-- Description: D_Zener_Small
+- Name: Device : D_Zener_Small
+- Description: Device : D_Zener_Small
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Zener_Small](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Zener_Small)
 - Short Link: [http://oom.lt/SZKDEVICEDZENERSLL](http://oom.lt/SZKDEVICEDZENERSLL)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|D_Zener_Small|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-D_Zener_Small|
 |Hex ID (short code)|hexID|SZKDEVICEDZENERSLL|
-|name|name|D_Zener_Small|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'D_Zener_Small', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'diode', 'kicadSymbolki_description': 'Zener diode, small symbol', 'kicadSymbolki_fp_filters': 'TO-???* *_Diode_* *SingleDiode* D_*'}]|
+|name|name|Device : D_Zener_Small|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'D_Zener_Small'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'diode'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Zener diode</td><td> small symbol'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TO-???* *_Diode_* *SingleDiode* D_*'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKAMPLIFIERINSTRUMENTATIONAD623ANZ > AD623ANZ
+# SZKAMPLIFIERINSTRUMENTATIONAD623ANZ > Amplifier_Instrumentation : AD623ANZ
 
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Instrumentation-AD623ANZ
 - Hex ID: SZKAMPLIFIERINSTRUMENTATIONAD623ANZ
-- Name: AD623ANZ
-- Description: AD623ANZ
+- Name: Amplifier_Instrumentation : AD623ANZ
+- Description: Amplifier_Instrumentation : AD623ANZ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Instrumentation-AD623ANZ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Instrumentation-AD623ANZ)
 - Short Link: [http://oom.lt/SZKAMPLIFIERINSTRUMENTATIONAD623ANZ](http://oom.lt/SZKAMPLIFIERINSTRUMENTATIONAD623ANZ)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AD623ANZ|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Instrumentation-AD623ANZ|
 |Hex ID (short code)|hexID|SZKAMPLIFIERINSTRUMENTATIONAD623ANZ|
-|name|name|AD623ANZ|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'AD623AN', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AD623ANZ', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/AD623.pdf', 'kicadSymbolki_keywords': 'ad623 instumentation amplifier dip-8', 'kicadSymbolki_description': 'Single Supply, Rail to Rail, Instumentation Amplifier, RoHS, DIP-8', 'kicadSymbolki_fp_filters': 'DIP-8*'}]|
+|name|name|Amplifier_Instrumentation : AD623ANZ|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'AD623AN'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'AD623ANZ'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/AD623.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'ad623 instumentation amplifier dip-8'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Single Supply</td><td> Rail to Rail</td><td> Instumentation Amplifier</td><td> RoHS</td><td> DIP-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP-8*'</td></tr></table>]|
 ||||

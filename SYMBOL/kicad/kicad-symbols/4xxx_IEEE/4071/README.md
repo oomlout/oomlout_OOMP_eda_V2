@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZK4XXXIEEE471 > 4071
+# SZK4XXXIEEE471 > 4xxx_IEEE : 4071
 
 - ID: SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4071
 - Hex ID: SZK4XXXIEEE471
-- Name: 4071
-- Description: 4071
+- Name: 4xxx_IEEE : 4071
+- Description: 4xxx_IEEE : 4071
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4071](http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4071)
 - Short Link: [http://oom.lt/SZK4XXXIEEE471](http://oom.lt/SZK4XXXIEEE471)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|4071|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4071|
 |Hex ID (short code)|hexID|SZK4XXXIEEE471|
-|name|name|4071|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '4071', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ''}]|
+|name|name|4xxx_IEEE : 4071|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> '4071'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> ''</td></tr></table>]|
 ||||

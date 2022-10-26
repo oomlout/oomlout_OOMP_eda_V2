@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DirectFET-DirectFET_MT|
 |Hex ID (short code)|hexID|FZKDFETDIRECTFETMT|
 |name|name|Package_DirectFET : DirectFET_MT|
-|Footprint Kicad|footprintKicadDetails|{'name': 'DirectFET_MT', 'description': 'DirectFET MT https://www.infineon.com/dgdl/Infineon-AN-1035-ApplicationNotes-v29_01-EN.pdf?fileId=5546d462533600a40153559159020f76#page=26', 'tags': 'DirectFET MT MOSFET Infineon', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DirectFET.3dshapes/DirectFET_MT.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'DirectFET_MT'</td><td> 'description'</td></tr><tr><td> 'DirectFET MT https</td></tr><tr><td>//www.infineon.com/dgdl/Infineon-AN-1035-ApplicationNotes-v29_01-EN.pdf?fileId=5546d462533600a40153559159020f76#page=26'</td><td> 'tags'</td></tr><tr><td> 'DirectFET MT MOSFET Infineon'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DirectFET.3dshapes/DirectFET_MT.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

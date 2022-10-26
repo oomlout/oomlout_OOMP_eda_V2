@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSHEADJSTSHXPI19SMHSH19 > HEAD-JSTSH-X-PI19-SM-HSH19
+# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSHEADJSTSHXPI19SMHSH19 > oomlout_OOMP_parts : HEAD-JSTSH-X-PI19-SM-HSH19
 
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-JSTSH-X-PI19-SM-HSH19
 - Hex ID: SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSHEADJSTSHXPI19SMHSH19
-- Name: HEAD-JSTSH-X-PI19-SM-HSH19
-- Description: HEAD-JSTSH-X-PI19-SM-HSH19
+- Name: oomlout_OOMP_parts : HEAD-JSTSH-X-PI19-SM-HSH19
+- Description: oomlout_OOMP_parts : HEAD-JSTSH-X-PI19-SM-HSH19
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-JSTSH-X-PI19-SM-HSH19](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-JSTSH-X-PI19-SM-HSH19)
 - Short Link: [http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSHEADJSTSHXPI19SMHSH19](http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSHEADJSTSHXPI19SMHSH19)
   
@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|HEAD-JSTSH-X-PI19-SM-HSH19|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-JSTSH-X-PI19-SM-HSH19|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSHEADJSTSHXPI19SMHSH19|
-|name|name|HEAD-JSTSH-X-PI19-SM-HSH19|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'HEAD-JSTSH-X-PI19-SM-HSH19', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:HEAD-JSTSH-X-PI19-SM-HSH19', 'kicadSymbolDatasheet': 'oom.lt/HSH19', 'kicadSymbolki_keywords': 'connector', 'kicadSymbolki_description': 'hexID: HSH19;Generic connector, single row, 01x19, script generated (kicad-library-utils/schlib/autogen/connector/)', 'kicadSymbolki_fp_filters': 'Connector*:*_1x??_*'}]|
+|name|name|oomlout_OOMP_parts : HEAD-JSTSH-X-PI19-SM-HSH19|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'J'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'HEAD-JSTSH-X-PI19-SM-HSH19'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'oomlout_OOMP_parts</td></tr><tr><td>HEAD-JSTSH-X-PI19-SM-HSH19'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'oom.lt/HSH19'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'connector'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'hexID</td></tr><tr><td> HSH19;Generic connector</td><td> single row</td><td> 01x19</td><td> script generated (kicad-library-utils/schlib/autogen/connector/)'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Connector*</td></tr><tr><td>*_1x??_*'</td></tr></table>]|
 ||||

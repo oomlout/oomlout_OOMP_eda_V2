@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Cree-XHP70_6V|
 |Hex ID (short code)|hexID|FZKLSMLCREEXHP76V|
 |name|name|LED_SMD : LED_Cree-XHP70_6V|
-|Footprint Kicad|footprintKicadDetails|{'name': 'LED_Cree-XHP70_6V', 'description': 'Cree XHP70 LED, 6V version, http://www.cree.com/~/media/Files/Cree/LED%20Components%20and%20Modules/XLamp/Data%20and%20Binning/ds%20XHP70.pdf', 'tags': 'LED Cree XHP70', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED_Cree-XHP70_6V.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'LED_Cree-XHP70_6V'</td><td> 'description'</td></tr><tr><td> 'Cree XHP70 LED</td><td> 6V version</td><td> http</td></tr><tr><td>//www.cree.com/~/media/Files/Cree/LED%20Components%20and%20Modules/XLamp/Data%20and%20Binning/ds%20XHP70.pdf'</td><td> 'tags'</td></tr><tr><td> 'LED Cree XHP70'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/LED_SMD.3dshapes/LED_Cree-XHP70_6V.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

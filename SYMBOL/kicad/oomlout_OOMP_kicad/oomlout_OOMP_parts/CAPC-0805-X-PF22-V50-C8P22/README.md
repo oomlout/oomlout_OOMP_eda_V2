@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC85XPF22V5C8P22 > CAPC-0805-X-PF22-V50-C8P22
+# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC85XPF22V5C8P22 > oomlout_OOMP_parts : CAPC-0805-X-PF22-V50-C8P22
 
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0805-X-PF22-V50-C8P22
 - Hex ID: SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC85XPF22V5C8P22
-- Name: CAPC-0805-X-PF22-V50-C8P22
-- Description: CAPC-0805-X-PF22-V50-C8P22
+- Name: oomlout_OOMP_parts : CAPC-0805-X-PF22-V50-C8P22
+- Description: oomlout_OOMP_parts : CAPC-0805-X-PF22-V50-C8P22
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0805-X-PF22-V50-C8P22](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0805-X-PF22-V50-C8P22)
 - Short Link: [http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC85XPF22V5C8P22](http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC85XPF22V5C8P22)
   
@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|CAPC-0805-X-PF22-V50-C8P22|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0805-X-PF22-V50-C8P22|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC85XPF22V5C8P22|
-|name|name|CAPC-0805-X-PF22-V50-C8P22|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'C', 'kicadSymbolValue': 'CAPC-0805-X-PF22-V50-C8P22', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:CAPC-0805-X-PF22-V50-C8P22', 'kicadSymbolDatasheet': 'oom.lt/C8P22', 'kicadSymbolki_keywords': 'cap capacitor', 'kicadSymbolki_description': 'hexID: C8P22;PARTL C-JLCC;C1804;MANUF C-XXXX;CL21C220JBANNNC;Unpolarized capacitor', 'kicadSymbolki_fp_filters': 'C_*'}]|
+|name|name|oomlout_OOMP_parts : CAPC-0805-X-PF22-V50-C8P22|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'C'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'CAPC-0805-X-PF22-V50-C8P22'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'oomlout_OOMP_parts</td></tr><tr><td>CAPC-0805-X-PF22-V50-C8P22'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'oom.lt/C8P22'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'cap capacitor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'hexID</td></tr><tr><td> C8P22;PARTL C-JLCC;C1804;MANUF C-XXXX;CL21C220JBANNNC;Unpolarized capacitor'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'C_*'</td></tr></table>]|
 ||||

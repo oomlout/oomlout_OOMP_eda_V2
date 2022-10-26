@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORLINEARTPS78228DDC > TPS78228DDC
+# SZKREGULATORLINEARTPS78228DDC > Regulator_Linear : TPS78228DDC
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS78228DDC
 - Hex ID: SZKREGULATORLINEARTPS78228DDC
-- Name: TPS78228DDC
-- Description: TPS78228DDC
+- Name: Regulator_Linear : TPS78228DDC
+- Description: Regulator_Linear : TPS78228DDC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS78228DDC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS78228DDC)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARTPS78228DDC](http://oom.lt/SZKREGULATORLINEARTPS78228DDC)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TPS78228DDC|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS78228DDC|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARTPS78228DDC|
-|name|name|TPS78228DDC|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TPS78233DDC', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TPS78228DDC', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-5', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/gpn/tps782', 'kicadSymbolki_keywords': 'Single Output LDO Low-Iq', 'kicadSymbolki_description': '150-mA, 500nA Ultra-Low-IQ LDO, 2.8V, SOT-23-5', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
+|name|name|Regulator_Linear : TPS78228DDC|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'TPS78233DDC'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TPS78228DDC'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-23-5'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/gpn/tps782'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Single Output LDO Low-Iq'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '150-mA</td><td> 500nA Ultra-Low-IQ LDO</td><td> 2.8V</td><td> SOT-23-5'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23*'</td></tr></table>]|
 ||||

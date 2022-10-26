@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SIP-SIP4_Sharp-SSR_P7.62mm_Angled_NoHole|
 |Hex ID (short code)|hexID|FZKSIPSIP4SHARPSSRP762ANGLNOHOLE|
 |name|name|Package_SIP : SIP4_Sharp-SSR_P7.62mm_Angled_NoHole|
-|Footprint Kicad|footprintKicadDetails|{'name': 'SIP4_Sharp-SSR_P7.62mm_Angled_NoHole', 'description': 'SIP4 Footprint for SSR made by Sharp', 'tags': 'Solid State relais SSR Sharp', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SIP.3dshapes/SIP4_Sharp-SSR_P7.62mm_Angled.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SIP4_Sharp-SSR_P7.62mm_Angled_NoHole'</td><td> 'description'</td></tr><tr><td> 'SIP4 Footprint for SSR made by Sharp'</td><td> 'tags'</td></tr><tr><td> 'Solid State relais SSR Sharp'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_SIP.3dshapes/SIP4_Sharp-SSR_P7.62mm_Angled.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

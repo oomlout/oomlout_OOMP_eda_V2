@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKRELAYDIPXX1CXX51X > DIPxx-1Cxx-51x
+# SZKRELAYDIPXX1CXX51X > Relay : DIPxx-1Cxx-51x
 
 - ID: SYMBOL-kicad-kicad-symbols-Relay-DIPxx-1Cxx-51x
 - Hex ID: SZKRELAYDIPXX1CXX51X
-- Name: DIPxx-1Cxx-51x
-- Description: DIPxx-1Cxx-51x
+- Name: Relay : DIPxx-1Cxx-51x
+- Description: Relay : DIPxx-1Cxx-51x
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-DIPxx-1Cxx-51x](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-DIPxx-1Cxx-51x)
 - Short Link: [http://oom.lt/SZKRELAYDIPXX1CXX51X](http://oom.lt/SZKRELAYDIPXX1CXX51X)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DIPxx-1Cxx-51x|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Relay-DIPxx-1Cxx-51x|
 |Hex ID (short code)|hexID|SZKRELAYDIPXX1CXX51X|
-|name|name|DIPxx-1Cxx-51x|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'K', 'kicadSymbolValue': 'DIPxx-1Cxx-51x', 'kicadSymbolFootprint': 'Relay_THT:Relay_StandexMeder_DIP_LowProfile', 'kicadSymbolDatasheet': 'https://standexelectronics.com/wp-content/uploads/datasheet_reed_relay_DIP.pdf', 'kicadSymbolki_keywords': 'Single Pole Reed Relay SPDT', 'kicadSymbolki_description': 'Standex Meder DIP reed relay, SPDT', 'kicadSymbolki_fp_filters': 'Relay*StandexMeder*DIP*LowProfile*'}]|
+|name|name|Relay : DIPxx-1Cxx-51x|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'K'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'DIPxx-1Cxx-51x'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Relay_THT</td></tr><tr><td>Relay_StandexMeder_DIP_LowProfile'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//standexelectronics.com/wp-content/uploads/datasheet_reed_relay_DIP.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Single Pole Reed Relay SPDT'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Standex Meder DIP reed relay</td><td> SPDT'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Relay*StandexMeder*DIP*LowProfile*'</td></tr></table>]|
 ||||

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Taiyo-Yuden_NR-10050_9.8x10.0mm_HandSoldering|
 |Hex ID (short code)|hexID|FZKINDUCTORSMLTAIYOYUDENNR1598X1HANDSOLDERING|
 |name|name|Inductor_SMD : L_Taiyo-Yuden_NR-10050_9.8x10.0mm_HandSoldering|
-|Footprint Kicad|footprintKicadDetails|{'name': 'L_Taiyo-Yuden_NR-10050_9.8x10.0mm_HandSoldering', 'description': 'Inductor, Taiyo Yuden, NR series, Taiyo-Yuden_NR-10050, 9.8mmx10.0mm, https://ds.yuden.co.jp/TYCOMPAS/or/specSheet?pn=NR10050T1R3N', 'tags': 'inductor taiyo-yuden nr smd', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Taiyo-Yuden_NR-10050_9.8x10.0mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'L_Taiyo-Yuden_NR-10050_9.8x10.0mm_HandSoldering'</td><td> 'description'</td></tr><tr><td> 'Inductor</td><td> Taiyo Yuden</td><td> NR series</td><td> Taiyo-Yuden_NR-10050</td><td> 9.8mmx10.0mm</td><td> https</td></tr><tr><td>//ds.yuden.co.jp/TYCOMPAS/or/specSheet?pn=NR10050T1R3N'</td><td> 'tags'</td></tr><tr><td> 'inductor taiyo-yuden nr smd'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Inductor_SMD.3dshapes/L_Taiyo-Yuden_NR-10050_9.8x10.0mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

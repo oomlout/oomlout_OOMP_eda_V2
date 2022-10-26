@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_TRACO_TDN_5-xxxxWISM_SMD|
 |Hex ID (short code)|hexID|FZKCONCONTRACOTDN5XXXXWISMSM|
 |name|name|Converter_DCDC : Converter_DCDC_TRACO_TDN_5-xxxxWISM_SMD|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Converter_DCDC_TRACO_TDN_5-xxxxWISM_SMD', 'description': 'Traco TDN 5WISM Series, 5W, SMD (https://assets.tracopower.com/20200225170127/TDN5WISM/documents/tdn5wism-datasheet.pdf#page=3)', 'tags': 'dcdc traco 5w smd', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Converter_DCDC.3dshapes/Converter_DCDC_TRACO_TDN_5-xxxxWISM_SMD.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Converter_DCDC_TRACO_TDN_5-xxxxWISM_SMD'</td><td> 'description'</td></tr><tr><td> 'Traco TDN 5WISM Series</td><td> 5W</td><td> SMD (https</td></tr><tr><td>//assets.tracopower.com/20200225170127/TDN5WISM/documents/tdn5wism-datasheet.pdf#page=3)'</td><td> 'tags'</td></tr><tr><td> 'dcdc traco 5w smd'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Converter_DCDC.3dshapes/Converter_DCDC_TRACO_TDN_5-xxxxWISM_SMD.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

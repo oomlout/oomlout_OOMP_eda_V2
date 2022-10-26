@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-OptoDevice-Luna_NSL-32|
 |Hex ID (short code)|hexID|FZKOPLUNANSL32|
 |name|name|OptoDevice : Luna_NSL-32|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Luna_NSL-32', 'description': 'Optoisolator with LED and photoresistor', 'tags': 'optoisolator', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/Luna_NSL-32.wrl', 'pins': {'type': 'thru_hole', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Luna_NSL-32'</td><td> 'description'</td></tr><tr><td> 'Optoisolator with LED and photoresistor'</td><td> 'tags'</td></tr><tr><td> 'optoisolator'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/OptoDevice.3dshapes/Luna_NSL-32.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

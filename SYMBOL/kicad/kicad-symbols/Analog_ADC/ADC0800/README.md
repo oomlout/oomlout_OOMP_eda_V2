@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKANALOGADCADC8 > ADC0800
+# SZKANALOGADCADC8 > Analog_ADC : ADC0800
 
 - ID: SYMBOL-kicad-kicad-symbols-Analog_ADC-ADC0800
 - Hex ID: SZKANALOGADCADC8
-- Name: ADC0800
-- Description: ADC0800
+- Name: Analog_ADC : ADC0800
+- Description: Analog_ADC : ADC0800
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-ADC0800](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-ADC0800)
 - Short Link: [http://oom.lt/SZKANALOGADCADC8](http://oom.lt/SZKANALOGADCADC8)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ADC0800|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_ADC-ADC0800|
 |Hex ID (short code)|hexID|SZKANALOGADCADC8|
-|name|name|ADC0800|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ADC0800', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/snas562/snas562.pdf', 'kicadSymbolki_keywords': 'CAD', 'kicadSymbolki_description': 'Analog to Digital 8 bits converter, DIP-18 (Hermetic)'}]|
+|name|name|Analog_ADC : ADC0800|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ADC0800'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/snas562/snas562.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'CAD'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Analog to Digital 8 bits converter</td><td> DIP-18 (Hermetic)'</td></tr></table>]|
 ||||

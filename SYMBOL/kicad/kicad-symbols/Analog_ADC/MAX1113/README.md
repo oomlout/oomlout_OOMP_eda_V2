@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKANALOGADCMAX1113 > MAX1113
+# SZKANALOGADCMAX1113 > Analog_ADC : MAX1113
 
 - ID: SYMBOL-kicad-kicad-symbols-Analog_ADC-MAX1113
 - Hex ID: SZKANALOGADCMAX1113
-- Name: MAX1113
-- Description: MAX1113
+- Name: Analog_ADC : MAX1113
+- Description: Analog_ADC : MAX1113
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-MAX1113](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-MAX1113)
 - Short Link: [http://oom.lt/SZKANALOGADCMAX1113](http://oom.lt/SZKANALOGADCMAX1113)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MAX1113|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_ADC-MAX1113|
 |Hex ID (short code)|hexID|SZKANALOGADCMAX1113|
-|name|name|MAX1113|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MAX1113', 'kicadSymbolFootprint': 'Package_SO:QSOP-16_3.9x4.9mm_P0.635mm', 'kicadSymbolDatasheet': 'http://datasheets.maximintegrated.com/en/ds/MAX1112-MAX1113.pdf', 'kicadSymbolki_keywords': 'MAXIM ADC 5V 8-Bit SPI QSPI MICROWIRE', 'kicadSymbolki_description': '4-Channel Single-Ended or 2-Channel Differential 8-Bit ADC, QSOP-16', 'kicadSymbolki_fp_filters': 'QSOP*3.9x4.9mm*P0.635mm*'}]|
+|name|name|Analog_ADC : MAX1113|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MAX1113'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>QSOP-16_3.9x4.9mm_P0.635mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//datasheets.maximintegrated.com/en/ds/MAX1112-MAX1113.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'MAXIM ADC 5V 8-Bit SPI QSPI MICROWIRE'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '4-Channel Single-Ended or 2-Channel Differential 8-Bit ADC</td><td> QSOP-16'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'QSOP*3.9x4.9mm*P0.635mm*'</td></tr></table>]|
 ||||

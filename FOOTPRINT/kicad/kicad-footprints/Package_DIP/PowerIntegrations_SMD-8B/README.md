@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DIP-PowerIntegrations_SMD-8B|
 |Hex ID (short code)|hexID|FZKDIPPOWERINTEGRATIONSSM8B|
 |name|name|Package_DIP : PowerIntegrations_SMD-8B|
-|Footprint Kicad|footprintKicadDetails|{'name': 'PowerIntegrations_SMD-8B', 'description': 'PowerIntegrations variant of 8-lead surface-mounted (SMD) DIP package, row spacing 7.62 mm (300 mils), see https://www.power.com/sites/default/files/product-docs/lnk520.pdf', 'tags': 'SMD DIP DIL PDIP SMDIP 2.54mm 7.62mm 300mil', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DIP.3dshapes/PowerIntegrations_SMD-8B.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'PowerIntegrations_SMD-8B'</td><td> 'description'</td></tr><tr><td> 'PowerIntegrations variant of 8-lead surface-mounted (SMD) DIP package</td><td> row spacing 7.62 mm (300 mils)</td><td> see https</td></tr><tr><td>//www.power.com/sites/default/files/product-docs/lnk520.pdf'</td><td> 'tags'</td></tr><tr><td> 'SMD DIP DIL PDIP SMDIP 2.54mm 7.62mm 300mil'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DIP.3dshapes/PowerIntegrations_SMD-8B.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZK4XXXIEEE4374 > 40374
+# SZK4XXXIEEE4374 > 4xxx_IEEE : 40374
 
 - ID: SYMBOL-kicad-kicad-symbols-4xxx_IEEE-40374
 - Hex ID: SZK4XXXIEEE4374
-- Name: 40374
-- Description: 40374
+- Name: 4xxx_IEEE : 40374
+- Description: 4xxx_IEEE : 40374
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx_IEEE-40374](http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx_IEEE-40374)
 - Short Link: [http://oom.lt/SZK4XXXIEEE4374](http://oom.lt/SZK4XXXIEEE4374)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|40374|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-4xxx_IEEE-40374|
 |Hex ID (short code)|hexID|SZK4XXXIEEE4374|
-|name|name|40374|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '40374', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.digchip.com/datasheets/download_datasheet.php?id=369790&part-number=HEF40374BDB', 'kicadSymbolki_keywords': 'CMOS BUFFER 3State', 'kicadSymbolki_description': '8-bit D-flip-flop with 3-State outputs'}]|
+|name|name|4xxx_IEEE : 40374|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> '40374'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.digchip.com/datasheets/download_datasheet.php?id=369790&part-number=HEF40374BDB'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'CMOS BUFFER 3State'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '8-bit D-flip-flop with 3-State outputs'</td></tr></table>]|
 ||||

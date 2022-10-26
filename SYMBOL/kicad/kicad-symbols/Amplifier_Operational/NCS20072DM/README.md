@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKAMPLIFIEROPERATIONALNCS272DM > NCS20072DM
+# SZKAMPLIFIEROPERATIONALNCS272DM > Amplifier_Operational : NCS20072DM
 
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-NCS20072DM
 - Hex ID: SZKAMPLIFIEROPERATIONALNCS272DM
-- Name: NCS20072DM
-- Description: NCS20072DM
+- Name: Amplifier_Operational : NCS20072DM
+- Description: Amplifier_Operational : NCS20072DM
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-NCS20072DM](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-NCS20072DM)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALNCS272DM](http://oom.lt/SZKAMPLIFIEROPERATIONALNCS272DM)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|NCS20072DM|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Operational-NCS20072DM|
 |Hex ID (short code)|hexID|SZKAMPLIFIEROPERATIONALNCS272DM|
-|name|name|NCS20072DM|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'NCS2325DM', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'NCS20072DM', 'kicadSymbolFootprint': 'Package_SO:MSOP-8_3x3mm_P0.65mm', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pub/Collateral/NCS20071-D.PDF', 'kicadSymbolki_keywords': 'dual rail-to-rail output opamp vfa', 'kicadSymbolki_description': 'Dual, 2.8V/µs, Rail-to-Rail Output, MSOP-8', 'kicadSymbolki_fp_filters': 'MSOP*3x3mm*P0.65mm*'}]|
+|name|name|Amplifier_Operational : NCS20072DM|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'NCS2325DM'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'NCS20072DM'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>MSOP-8_3x3mm_P0.65mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.onsemi.com/pub/Collateral/NCS20071-D.PDF'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'dual rail-to-rail output opamp vfa'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Dual</td><td> 2.8V/µs</td><td> Rail-to-Rail Output</td><td> MSOP-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'MSOP*3x3mm*P0.65mm*'</td></tr></table>]|
 ||||

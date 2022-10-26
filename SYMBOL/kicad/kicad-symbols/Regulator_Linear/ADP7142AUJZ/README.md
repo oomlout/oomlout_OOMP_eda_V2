@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORLINEARADP7142AUJZ > ADP7142AUJZ
+# SZKREGULATORLINEARADP7142AUJZ > Regulator_Linear : ADP7142AUJZ
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-ADP7142AUJZ
 - Hex ID: SZKREGULATORLINEARADP7142AUJZ
-- Name: ADP7142AUJZ
-- Description: ADP7142AUJZ
+- Name: Regulator_Linear : ADP7142AUJZ
+- Description: Regulator_Linear : ADP7142AUJZ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-ADP7142AUJZ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-ADP7142AUJZ)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARADP7142AUJZ](http://oom.lt/SZKREGULATORLINEARADP7142AUJZ)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ADP7142AUJZ|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-ADP7142AUJZ|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARADP7142AUJZ|
-|name|name|ADP7142AUJZ|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ADP7142AUJZ', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TSOT-23-5', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/ADP7142.pdf', 'kicadSymbolki_keywords': 'linear regulator ldo adjustable positive', 'kicadSymbolki_description': '200mA, Low Noise, CMOS Low Dropout Regulator, Positive, Adjustable, TSOT-23-5', 'kicadSymbolki_fp_filters': 'TSOT?23*'}]|
+|name|name|Regulator_Linear : ADP7142AUJZ|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ADP7142AUJZ'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>TSOT-23-5'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/ADP7142.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'linear regulator ldo adjustable positive'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '200mA</td><td> Low Noise</td><td> CMOS Low Dropout Regulator</td><td> Positive</td><td> Adjustable</td><td> TSOT-23-5'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TSOT?23*'</td></tr></table>]|
 ||||

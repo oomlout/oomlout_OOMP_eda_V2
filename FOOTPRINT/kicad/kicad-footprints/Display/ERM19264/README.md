@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Display-ERM19264|
 |Hex ID (short code)|hexID|FZKDIERM19264|
 |name|name|Display : ERM19264|
-|Footprint Kicad|footprintKicadDetails|{'name': 'ERM19264', 'description': 'STN/FSTN LCD 192x64 dot https://www.buydisplay.com/download/manual/ERM19264-1_Series_Datasheet.pdf', 'tags': 'ERM19264 Graphics Display 192x64', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Display.3dshapes/ERM19264.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'ERM19264'</td><td> 'description'</td></tr><tr><td> 'STN/FSTN LCD 192x64 dot https</td></tr><tr><td>//www.buydisplay.com/download/manual/ERM19264-1_Series_Datasheet.pdf'</td><td> 'tags'</td></tr><tr><td> 'ERM19264 Graphics Display 192x64'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Display.3dshapes/ERM19264.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

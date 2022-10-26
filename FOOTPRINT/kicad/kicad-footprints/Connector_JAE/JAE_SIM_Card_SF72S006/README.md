@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_JAE-JAE_SIM_Card_SF72S006|
 |Hex ID (short code)|hexID|FZKCNJAEJAESIMCARDSF72S6|
 |name|name|Connector_JAE : JAE_SIM_Card_SF72S006|
-|Footprint Kicad|footprintKicadDetails|{'name': 'JAE_SIM_Card_SF72S006', 'description': 'SIM Card, Push-Push, https://www.jae.com/direct/topics/topics_file_download/topics_id=68892&ext_no=06&index=0&_lang=en&v=202003111511468456809', 'tags': 'SIM Card with Detect Switch', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_JAE.3dshapes/JAE_SIM_Card_SF72S006.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'JAE_SIM_Card_SF72S006'</td><td> 'description'</td></tr><tr><td> 'SIM Card</td><td> Push-Push</td><td> https</td></tr><tr><td>//www.jae.com/direct/topics/topics_file_download/topics_id=68892&ext_no=06&index=0&_lang=en&v=202003111511468456809'</td><td> 'tags'</td></tr><tr><td> 'SIM Card with Detect Switch'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_JAE.3dshapes/JAE_SIM_Card_SF72S006.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

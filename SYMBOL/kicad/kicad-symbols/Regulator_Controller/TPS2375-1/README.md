@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORCONTROLLERTPS23751 > TPS2375-1
+# SZKREGULATORCONTROLLERTPS23751 > Regulator_Controller : TPS2375-1
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Controller-TPS2375-1
 - Hex ID: SZKREGULATORCONTROLLERTPS23751
-- Name: TPS2375-1
-- Description: TPS2375-1
+- Name: Regulator_Controller : TPS2375-1
+- Description: Regulator_Controller : TPS2375-1
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-TPS2375-1](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-TPS2375-1)
 - Short Link: [http://oom.lt/SZKREGULATORCONTROLLERTPS23751](http://oom.lt/SZKREGULATORCONTROLLERTPS23751)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TPS2375-1|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Controller-TPS2375-1|
 |Hex ID (short code)|hexID|SZKREGULATORCONTROLLERTPS23751|
-|name|name|TPS2375-1|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TPS2375-1', 'kicadSymbolFootprint': 'Package_SO:TSSOP-8_4.4x3mm_P0.65mm', 'kicadSymbolDatasheet': 'https://www.ti.com/lit/gpn/tps2375-1', 'kicadSymbolki_keywords': 'IEEE802.3af PoE', 'kicadSymbolki_description': 'IEEE802.3af PoE Controller, Auto-Retry', 'kicadSymbolki_fp_filters': 'TSSOP*4.4x3mm*P0.65mm*'}]|
+|name|name|Regulator_Controller : TPS2375-1|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TPS2375-1'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>TSSOP-8_4.4x3mm_P0.65mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.ti.com/lit/gpn/tps2375-1'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'IEEE802.3af PoE'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'IEEE802.3af PoE Controller</td><td> Auto-Retry'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TSSOP*4.4x3mm*P0.65mm*'</td></tr></table>]|
 ||||

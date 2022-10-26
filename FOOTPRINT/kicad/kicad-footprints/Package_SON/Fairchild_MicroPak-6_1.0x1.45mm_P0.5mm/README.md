@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SON-Fairchild_MicroPak-6_1.0x1.45mm_P0.5mm|
 |Hex ID (short code)|hexID|FZKSONFAIRCHILDMPAK61X145P5|
 |name|name|Package_SON : Fairchild_MicroPak-6_1.0x1.45mm_P0.5mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Fairchild_MicroPak-6_1.0x1.45mm_P0.5mm', 'description': 'Fairchild-specific MicroPak-6 1.0x1.45mm Pitch 0.5mm https://www.nxp.com/docs/en/application-note/AN10343.pdff', 'tags': 'Fairchild-specific MicroPak-6 1.0x1.45mm Pitch 0.5mm', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SON.3dshapes/Fairchild_MicroPak-6_1.0x1.45mm_P0.5mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Fairchild_MicroPak-6_1.0x1.45mm_P0.5mm'</td><td> 'description'</td></tr><tr><td> 'Fairchild-specific MicroPak-6 1.0x1.45mm Pitch 0.5mm https</td></tr><tr><td>//www.nxp.com/docs/en/application-note/AN10343.pdff'</td><td> 'tags'</td></tr><tr><td> 'Fairchild-specific MicroPak-6 1.0x1.45mm Pitch 0.5mm'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_SON.3dshapes/Fairchild_MicroPak-6_1.0x1.45mm_P0.5mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

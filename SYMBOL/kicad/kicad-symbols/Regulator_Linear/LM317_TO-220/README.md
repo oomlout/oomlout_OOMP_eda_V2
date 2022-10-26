@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORLINEARLM317TO22 > LM317_TO-220
+# SZKREGULATORLINEARLM317TO22 > Regulator_Linear : LM317_TO-220
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-LM317_TO-220
 - Hex ID: SZKREGULATORLINEARLM317TO22
-- Name: LM317_TO-220
-- Description: LM317_TO-220
+- Name: Regulator_Linear : LM317_TO-220
+- Description: Regulator_Linear : LM317_TO-220
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LM317_TO-220](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LM317_TO-220)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARLM317TO22](http://oom.lt/SZKREGULATORLINEARLM317TO22)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM317_TO-220|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-LM317_TO-220|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARLM317TO22|
-|name|name|LM317_TO-220|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM317_TO-220', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-220-3_Vertical', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lm317.pdf', 'kicadSymbolki_keywords': 'Adjustable Voltage Regulator 1A Positive', 'kicadSymbolki_description': '1.5A 35V Adjustable Linear Regulator, TO-220', 'kicadSymbolki_fp_filters': 'TO?220*'}]|
+|name|name|Regulator_Linear : LM317_TO-220|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LM317_TO-220'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_THT</td></tr><tr><td>TO-220-3_Vertical'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/lm317.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Adjustable Voltage Regulator 1A Positive'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '1.5A 35V Adjustable Linear Regulator</td><td> TO-220'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TO?220*'</td></tr></table>]|
 ||||

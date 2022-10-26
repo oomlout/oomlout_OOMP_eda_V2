@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_PicoBlade_53398-1171_1x11-1MP_P1.25mm_Vertical|
 |Hex ID (short code)|hexID|FZKCNMXMXPICOBLADE5339811711X111MPP125VERTICAL|
 |name|name|Connector_Molex : Molex_PicoBlade_53398-1171_1x11-1MP_P1.25mm_Vertical|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Molex_PicoBlade_53398-1171_1x11-1MP_P1.25mm_Vertical', 'description': 'Molex PicoBlade series connector, 53398-1171 (http://www.molex.com/pdm_docs/sd/533980271_sd.pdf), generated with kicad-footprint-generator', 'tags': 'connector Molex PicoBlade side entry', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_Molex.3dshapes/Molex_PicoBlade_53398-1171_1x11-1MP_P1.25mm_Vertical.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Molex_PicoBlade_53398-1171_1x11-1MP_P1.25mm_Vertical'</td><td> 'description'</td></tr><tr><td> 'Molex PicoBlade series connector</td><td> 53398-1171 (http</td></tr><tr><td>//www.molex.com/pdm_docs/sd/533980271_sd.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'connector Molex PicoBlade side entry'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_Molex.3dshapes/Molex_PicoBlade_53398-1171_1x11-1MP_P1.25mm_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

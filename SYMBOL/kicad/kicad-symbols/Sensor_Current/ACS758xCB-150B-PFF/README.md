@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKSENCURRENTACS758XCB15BPFF > ACS758xCB-150B-PFF
+# SZKSENCURRENTACS758XCB15BPFF > Sensor_Current : ACS758xCB-150B-PFF
 
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS758xCB-150B-PFF
 - Hex ID: SZKSENCURRENTACS758XCB15BPFF
-- Name: ACS758xCB-150B-PFF
-- Description: ACS758xCB-150B-PFF
+- Name: Sensor_Current : ACS758xCB-150B-PFF
+- Description: Sensor_Current : ACS758xCB-150B-PFF
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS758xCB-150B-PFF](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS758xCB-150B-PFF)
 - Short Link: [http://oom.lt/SZKSENCURRENTACS758XCB15BPFF](http://oom.lt/SZKSENCURRENTACS758XCB15BPFF)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ACS758xCB-150B-PFF|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS758xCB-150B-PFF|
 |Hex ID (short code)|hexID|SZKSENCURRENTACS758XCB15BPFF|
-|name|name|ACS758xCB-150B-PFF|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ACS756xCB-050B-PFF', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ACS758xCB-150B-PFF', 'kicadSymbolFootprint': 'Sensor_Current:Allegro_CB_PFF', 'kicadSymbolDatasheet': 'http://www.allegromicro.com/~/media/Files/Datasheets/ACS758-Datasheet.ashx?la=en', 'kicadSymbolki_keywords': 'hall effect current monitor sensor isolated', 'kicadSymbolki_description': '±150A Bidirectional Hall-Effect Current Sensor, +5.0V supply, 13.3mV/A, CB-5 PFF', 'kicadSymbolki_fp_filters': 'Allegro*CB*PFF*'}]|
+|name|name|Sensor_Current : ACS758xCB-150B-PFF|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'ACS756xCB-050B-PFF'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ACS758xCB-150B-PFF'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Sensor_Current</td></tr><tr><td>Allegro_CB_PFF'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.allegromicro.com/~/media/Files/Datasheets/ACS758-Datasheet.ashx?la=en'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'hall effect current monitor sensor isolated'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '±150A Bidirectional Hall-Effect Current Sensor</td><td> +5.0V supply</td><td> 13.3mV/A</td><td> CB-5 PFF'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Allegro*CB*PFF*'</td></tr></table>]|
 ||||

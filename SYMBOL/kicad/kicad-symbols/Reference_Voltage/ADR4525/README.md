@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREFERENCEVOLTAGEADR4525 > ADR4525
+# SZKREFERENCEVOLTAGEADR4525 > Reference_Voltage : ADR4525
 
 - ID: SYMBOL-kicad-kicad-symbols-Reference_Voltage-ADR4525
 - Hex ID: SZKREFERENCEVOLTAGEADR4525
-- Name: ADR4525
-- Description: ADR4525
+- Name: Reference_Voltage : ADR4525
+- Description: Reference_Voltage : ADR4525
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-ADR4525](http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-ADR4525)
 - Short Link: [http://oom.lt/SZKREFERENCEVOLTAGEADR4525](http://oom.lt/SZKREFERENCEVOLTAGEADR4525)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ADR4525|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Reference_Voltage-ADR4525|
 |Hex ID (short code)|hexID|SZKREFERENCEVOLTAGEADR4525|
-|name|name|ADR4525|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MAX6035xSA25', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ADR4525', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/ADR4520_4525_4530_4533_4540_4550.pdf', 'kicadSymbolki_keywords': 'vref', 'kicadSymbolki_description': '2.5V, Ultralow Noise, High Accuracy Voltage Reference, SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm*'}]|
+|name|name|Reference_Voltage : ADR4525|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'MAX6035xSA25'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ADR4525'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-8_3.9x4.9mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/ADR4520_4525_4530_4533_4540_4550.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'vref'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '2.5V</td><td> Ultralow Noise</td><td> High Accuracy Voltage Reference</td><td> SOIC-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*3.9x4.9mm*P1.27mm*'</td></tr></table>]|
 ||||

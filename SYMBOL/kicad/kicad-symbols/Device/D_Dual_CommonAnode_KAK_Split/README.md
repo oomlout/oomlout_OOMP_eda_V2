@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDEVICEDDUALCOONANODEKAKSPLIT > D_Dual_CommonAnode_KAK_Split
+# SZKDEVICEDDUALCOONANODEKAKSPLIT > Device : D_Dual_CommonAnode_KAK_Split
 
 - ID: SYMBOL-kicad-kicad-symbols-Device-D_Dual_CommonAnode_KAK_Split
 - Hex ID: SZKDEVICEDDUALCOONANODEKAKSPLIT
-- Name: D_Dual_CommonAnode_KAK_Split
-- Description: D_Dual_CommonAnode_KAK_Split
+- Name: Device : D_Dual_CommonAnode_KAK_Split
+- Description: Device : D_Dual_CommonAnode_KAK_Split
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Dual_CommonAnode_KAK_Split](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Dual_CommonAnode_KAK_Split)
 - Short Link: [http://oom.lt/SZKDEVICEDDUALCOONANODEKAKSPLIT](http://oom.lt/SZKDEVICEDDUALCOONANODEKAKSPLIT)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|D_Dual_CommonAnode_KAK_Split|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-D_Dual_CommonAnode_KAK_Split|
 |Hex ID (short code)|hexID|SZKDEVICEDDUALCOONANODEKAKSPLIT|
-|name|name|D_Dual_CommonAnode_KAK_Split|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'D_Dual_CommonAnode_KAK_Split', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'diode', 'kicadSymbolki_description': 'Dual diode, common anode on pin 1'}]|
+|name|name|Device : D_Dual_CommonAnode_KAK_Split|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'D_Dual_CommonAnode_KAK_Split'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_locked'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'diode'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Dual diode</td><td> common anode on pin 1'</td></tr></table>]|
 ||||

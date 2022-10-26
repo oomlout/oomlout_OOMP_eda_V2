@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-LGA-14_2x2mm|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSLGA142X2|
 |name|name|digikey-footprints : LGA-14_2x2mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'LGA-14_2x2mm', 'description': 'http://www.st.com/content/ccc/resource/technical/document/datasheet/c1/e1/62/31/d2/b1/4d/bb/DM00042751.pdf/files/DM00042751.pdf/jcr:content/translations/en.DM00042751.pdf', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'LGA-14_2x2mm'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//www.st.com/content/ccc/resource/technical/document/datasheet/c1/e1/62/31/d2/b1/4d/bb/DM00042751.pdf/files/DM00042751.pdf/jcr</td></tr><tr><td>content/translations/en.DM00042751.pdf'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

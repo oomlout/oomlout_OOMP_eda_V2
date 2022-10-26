@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORSWITCHINGLT358XDD > LT3580xDD
+# SZKREGULATORSWITCHINGLT358XDD > Regulator_Switching : LT3580xDD
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-LT3580xDD
 - Hex ID: SZKREGULATORSWITCHINGLT358XDD
-- Name: LT3580xDD
-- Description: LT3580xDD
+- Name: Regulator_Switching : LT3580xDD
+- Description: Regulator_Switching : LT3580xDD
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LT3580xDD](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LT3580xDD)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGLT358XDD](http://oom.lt/SZKREGULATORSWITCHINGLT358XDD)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LT3580xDD|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-LT3580xDD|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGLT358XDD|
-|name|name|LT3580xDD|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LT3580xDD', 'kicadSymbolFootprint': 'Package_DFN_QFN:DFN-8-1EP_3x3mm_P0.5mm_EP1.66x2.38mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/3580fg.pdf', 'kicadSymbolki_keywords': 'boost inverting dc-dc', 'kicadSymbolki_description': 'Boost/Inverting DC/DC Converter with 2A Switch, Soft-Start, and Synchronization, DFN-8', 'kicadSymbolki_fp_filters': 'DFN*1EP*3x3mm*P0.5mm*'}]|
+|name|name|Regulator_Switching : LT3580xDD|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LT3580xDD'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>DFN-8-1EP_3x3mm_P0.5mm_EP1.66x2.38mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/3580fg.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'boost inverting dc-dc'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Boost/Inverting DC/DC Converter with 2A Switch</td><td> Soft-Start</td><td> and Synchronization</td><td> DFN-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DFN*1EP*3x3mm*P0.5mm*'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORSWITCHINGLTC3429B > LTC3429B
+# SZKREGULATORSWITCHINGLTC3429B > Regulator_Switching : LTC3429B
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-LTC3429B
 - Hex ID: SZKREGULATORSWITCHINGLTC3429B
-- Name: LTC3429B
-- Description: LTC3429B
+- Name: Regulator_Switching : LTC3429B
+- Description: Regulator_Switching : LTC3429B
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LTC3429B](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LTC3429B)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGLTC3429B](http://oom.lt/SZKREGULATORSWITCHINGLTC3429B)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LTC3429B|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-LTC3429B|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGLTC3429B|
-|name|name|LTC3429B|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LTC3429', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LTC3429B', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TSOT-23-6', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/3429fa.pdf', 'kicadSymbolki_keywords': 'boost step-up DC/DC synchronous', 'kicadSymbolki_description': '600mA, 500kHz Micropower Synchronous Boost Converter with Output Disconnect, Continuous Switching at Light Loads, TSOT-23-6', 'kicadSymbolki_fp_filters': 'TSOT?23*'}]|
+|name|name|Regulator_Switching : LTC3429B|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'LTC3429'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LTC3429B'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>TSOT-23-6'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/3429fa.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'boost step-up DC/DC synchronous'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '600mA</td><td> 500kHz Micropower Synchronous Boost Converter with Output Disconnect</td><td> Continuous Switching at Light Loads</td><td> TSOT-23-6'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TSOT?23*'</td></tr></table>]|
 ||||

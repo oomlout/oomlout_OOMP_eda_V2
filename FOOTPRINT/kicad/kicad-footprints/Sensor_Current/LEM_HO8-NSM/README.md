@@ -29,5 +29,5 @@ NO IMAGE
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Sensor_Current-LEM_HO8-NSM|
 |Hex ID (short code)|hexID|FZKSENCURRENTLEMHO8NSM|
 |name|name|Sensor_Current : LEM_HO8-NSM|
-|Footprint Kicad|footprintKicadDetails|{'name': 'LEM_HO8-NSM', 'description': 'LEM HO 8/15/25-NSM Current Transducer (https://www.lem.com/sites/default/files/products_datasheets/ho-nsm-0000_series.pdf)', 'tags': 'current transducer', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Sensor_Current.3dshapes/LEM_HO8-NSM.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'LEM_HO8-NSM'</td><td> 'description'</td></tr><tr><td> 'LEM HO 8/15/25-NSM Current Transducer (https</td></tr><tr><td>//www.lem.com/sites/default/files/products_datasheets/ho-nsm-0000_series.pdf)'</td><td> 'tags'</td></tr><tr><td> 'current transducer'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Sensor_Current.3dshapes/LEM_HO8-NSM.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

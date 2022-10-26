@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSHEADJSTSHXPI17SMHSH17 > HEAD-JSTSH-X-PI17-SM-HSH17
+# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSHEADJSTSHXPI17SMHSH17 > oomlout_OOMP_parts : HEAD-JSTSH-X-PI17-SM-HSH17
 
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-JSTSH-X-PI17-SM-HSH17
 - Hex ID: SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSHEADJSTSHXPI17SMHSH17
-- Name: HEAD-JSTSH-X-PI17-SM-HSH17
-- Description: HEAD-JSTSH-X-PI17-SM-HSH17
+- Name: oomlout_OOMP_parts : HEAD-JSTSH-X-PI17-SM-HSH17
+- Description: oomlout_OOMP_parts : HEAD-JSTSH-X-PI17-SM-HSH17
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-JSTSH-X-PI17-SM-HSH17](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-JSTSH-X-PI17-SM-HSH17)
 - Short Link: [http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSHEADJSTSHXPI17SMHSH17](http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSHEADJSTSHXPI17SMHSH17)
   
@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|HEAD-JSTSH-X-PI17-SM-HSH17|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-JSTSH-X-PI17-SM-HSH17|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSHEADJSTSHXPI17SMHSH17|
-|name|name|HEAD-JSTSH-X-PI17-SM-HSH17|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'HEAD-JSTSH-X-PI17-SM-HSH17', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:HEAD-JSTSH-X-PI17-SM-HSH17', 'kicadSymbolDatasheet': 'oom.lt/HSH17', 'kicadSymbolki_keywords': 'connector', 'kicadSymbolki_description': 'hexID: HSH17;Generic connector, single row, 01x17, script generated (kicad-library-utils/schlib/autogen/connector/)', 'kicadSymbolki_fp_filters': 'Connector*:*_1x??_*'}]|
+|name|name|oomlout_OOMP_parts : HEAD-JSTSH-X-PI17-SM-HSH17|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'J'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'HEAD-JSTSH-X-PI17-SM-HSH17'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'oomlout_OOMP_parts</td></tr><tr><td>HEAD-JSTSH-X-PI17-SM-HSH17'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'oom.lt/HSH17'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'connector'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'hexID</td></tr><tr><td> HSH17;Generic connector</td><td> single row</td><td> 01x17</td><td> script generated (kicad-library-utils/schlib/autogen/connector/)'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Connector*</td></tr><tr><td>*_1x??_*'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORFETCSD1631Q2 > CSD16301Q2
+# SZKTRANSISTORFETCSD1631Q2 > Transistor_FET : CSD16301Q2
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-CSD16301Q2
 - Hex ID: SZKTRANSISTORFETCSD1631Q2
-- Name: CSD16301Q2
-- Description: CSD16301Q2
+- Name: Transistor_FET : CSD16301Q2
+- Description: Transistor_FET : CSD16301Q2
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-CSD16301Q2](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-CSD16301Q2)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETCSD1631Q2](http://oom.lt/SZKTRANSISTORFETCSD1631Q2)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|CSD16301Q2|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-CSD16301Q2|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETCSD1631Q2|
-|name|name|CSD16301Q2|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'CSD16301Q2', 'kicadSymbolFootprint': 'Package_SON:Texas_DQK', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/csd16301q2.pdf', 'kicadSymbolki_keywords': 'NexFET Power MOSFET N-MOS', 'kicadSymbolki_description': '5A Id, 25V Vds, NexFET N-Channel Power MOSFET, 19mOhm Ron, SON-6', 'kicadSymbolki_fp_filters': 'Texas*DQK*'}]|
+|name|name|Transistor_FET : CSD16301Q2|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'CSD16301Q2'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SON</td></tr><tr><td>Texas_DQK'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/csd16301q2.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'NexFET Power MOSFET N-MOS'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '5A Id</td><td> 25V Vds</td><td> NexFET N-Channel Power MOSFET</td><td> 19mOhm Ron</td><td> SON-6'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Texas*DQK*'</td></tr></table>]|
 ||||

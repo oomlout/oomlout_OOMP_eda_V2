@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKANALOGSWITCHDG419XY > DG419xY
+# SZKANALOGSWITCHDG419XY > Analog_Switch : DG419xY
 
 - ID: SYMBOL-kicad-kicad-symbols-Analog_Switch-DG419xY
 - Hex ID: SZKANALOGSWITCHDG419XY
-- Name: DG419xY
-- Description: DG419xY
+- Name: Analog_Switch : DG419xY
+- Description: Analog_Switch : DG419xY
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-DG419xY](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-DG419xY)
 - Short Link: [http://oom.lt/SZKANALOGSWITCHDG419XY](http://oom.lt/SZKANALOGSWITCHDG419XY)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DG419xY|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_Switch-DG419xY|
 |Hex ID (short code)|hexID|SZKANALOGSWITCHDG419XY|
-|name|name|DG419xY|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'DG419xY', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm', 'kicadSymbolDatasheet': 'https://datasheets.maximintegrated.com/en/ds/DG417-DG419.pdf', 'kicadSymbolki_keywords': 'CMOS Analog Switch', 'kicadSymbolki_description': 'Single SPDT Monolithic CMOS Analog Switch, 20Ohm Ron, SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm*'}]|
+|name|name|Analog_Switch : DG419xY|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'DG419xY'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-8_3.9x4.9mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//datasheets.maximintegrated.com/en/ds/DG417-DG419.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'CMOS Analog Switch'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Single SPDT Monolithic CMOS Analog Switch</td><td> 20Ohm Ron</td><td> SOIC-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*3.9x4.9mm*P1.27mm*'</td></tr></table>]|
 ||||

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_Array_Convex_2x0606|
 |Hex ID (short code)|hexID|FZKRESISTORSMRARRAYCONVEX2X66|
 |name|name|Resistor_SMD : R_Array_Convex_2x0606|
-|Footprint Kicad|footprintKicadDetails|{'name': 'R_Array_Convex_2x0606', 'description': 'Precision Thin Film Chip Resistor Array, VISHAY (see http://www.vishay.com/docs/28770/acasat.pdf)', 'tags': 'resistor array', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_Array_Convex_2x0606.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'R_Array_Convex_2x0606'</td><td> 'description'</td></tr><tr><td> 'Precision Thin Film Chip Resistor Array</td><td> VISHAY (see http</td></tr><tr><td>//www.vishay.com/docs/28770/acasat.pdf)'</td><td> 'tags'</td></tr><tr><td> 'resistor array'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Resistor_SMD.3dshapes/R_Array_Convex_2x0606.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_SPDT_CK-JS102011SAQN|
 |Hex ID (short code)|hexID|FZKBSWITCHSMSWSPDTCKJS1211SAQN|
 |name|name|Button_Switch_SMD : SW_SPDT_CK-JS102011SAQN|
-|Footprint Kicad|footprintKicadDetails|{'name': 'SW_SPDT_CK-JS102011SAQN', 'description': 'Sub-miniature slide switch, right-angle, http://www.ckswitches.com/media/1422/js.pdf', 'tags': 'switch spdt', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_SPDT_CK-JS102011SAQN.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SW_SPDT_CK-JS102011SAQN'</td><td> 'description'</td></tr><tr><td> 'Sub-miniature slide switch</td><td> right-angle</td><td> http</td></tr><tr><td>//www.ckswitches.com/media/1422/js.pdf'</td><td> 'tags'</td></tr><tr><td> 'switch spdt'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Button_Switch_SMD.3dshapes/SW_SPDT_CK-JS102011SAQN.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKSENCURRENTA1367XKTTN5 > A1367xKTTN-5
+# SZKSENCURRENTA1367XKTTN5 > Sensor_Current : A1367xKTTN-5
 
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Current-A1367xKTTN-5
 - Hex ID: SZKSENCURRENTA1367XKTTN5
-- Name: A1367xKTTN-5
-- Description: A1367xKTTN-5
+- Name: Sensor_Current : A1367xKTTN-5
+- Description: Sensor_Current : A1367xKTTN-5
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-A1367xKTTN-5](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-A1367xKTTN-5)
 - Short Link: [http://oom.lt/SZKSENCURRENTA1367XKTTN5](http://oom.lt/SZKSENCURRENTA1367XKTTN5)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|A1367xKTTN-5|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Current-A1367xKTTN-5|
 |Hex ID (short code)|hexID|SZKSENCURRENTA1367XKTTN5|
-|name|name|A1367xKTTN-5|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'A1363xKTTN-1', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'A1367xKTTN-5', 'kicadSymbolFootprint': 'Sensor_Current:Allegro_SIP-4', 'kicadSymbolDatasheet': 'http://www.allegromicro.com/~/media/Files/Datasheets/A1367-Datasheet.ashx?la=en', 'kicadSymbolki_keywords': 'hall effect current monitor sensor isolated', 'kicadSymbolki_description': 'Programmable Linear Hall Effect Sensor, +2.9 to +6.4mV/G, SIP-4', 'kicadSymbolki_fp_filters': 'Allegro*SIP*'}]|
+|name|name|Sensor_Current : A1367xKTTN-5|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'A1363xKTTN-1'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'A1367xKTTN-5'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Sensor_Current</td></tr><tr><td>Allegro_SIP-4'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.allegromicro.com/~/media/Files/Datasheets/A1367-Datasheet.ashx?la=en'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'hall effect current monitor sensor isolated'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Programmable Linear Hall Effect Sensor</td><td> +2.9 to +6.4mV/G</td><td> SIP-4'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Allegro*SIP*'</td></tr></table>]|
 ||||

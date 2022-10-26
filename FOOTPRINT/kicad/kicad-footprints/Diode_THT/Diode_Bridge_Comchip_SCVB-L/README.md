@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Diode_THT-Diode_Bridge_Comchip_SCVB-L|
 |Hex ID (short code)|hexID|FZKDDIODEBRIDGECOMCHIPSCVBL|
 |name|name|Diode_THT : Diode_Bridge_Comchip_SCVB-L|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Diode_Bridge_Comchip_SCVB-L', 'description': 'Three phase, Bridge, Rectifier, https://www.comchiptech.com/admin/files/product/SC35VB80S-G%20Thru506369.%20SC35VB160S-G%20RevB.pdf', 'tags': 'diode module', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/Diode_Bridge_Comchip_SCVB-L.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Diode_Bridge_Comchip_SCVB-L'</td><td> 'description'</td></tr><tr><td> 'Three phase</td><td> Bridge</td><td> Rectifier</td><td> https</td></tr><tr><td>//www.comchiptech.com/admin/files/product/SC35VB80S-G%20Thru506369.%20SC35VB160S-G%20RevB.pdf'</td><td> 'tags'</td></tr><tr><td> 'diode module'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Diode_THT.3dshapes/Diode_Bridge_Comchip_SCVB-L.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

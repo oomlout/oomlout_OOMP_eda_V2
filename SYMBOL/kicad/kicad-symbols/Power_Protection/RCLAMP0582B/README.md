@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKPOWERPROTECTIONRCLAMP582B > RCLAMP0582B
+# SZKPOWERPROTECTIONRCLAMP582B > Power_Protection : RCLAMP0582B
 
 - ID: SYMBOL-kicad-kicad-symbols-Power_Protection-RCLAMP0582B
 - Hex ID: SZKPOWERPROTECTIONRCLAMP582B
-- Name: RCLAMP0582B
-- Description: RCLAMP0582B
+- Name: Power_Protection : RCLAMP0582B
+- Description: Power_Protection : RCLAMP0582B
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-RCLAMP0582B](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-RCLAMP0582B)
 - Short Link: [http://oom.lt/SZKPOWERPROTECTIONRCLAMP582B](http://oom.lt/SZKPOWERPROTECTIONRCLAMP582B)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|RCLAMP0582B|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Protection-RCLAMP0582B|
 |Hex ID (short code)|hexID|SZKPOWERPROTECTIONRCLAMP582B|
-|name|name|RCLAMP0582B|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'RCLAMP0502B', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'RCLAMP0582B', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-416', 'kicadSymbolDatasheet': 'https://www.semtech.com/products/circuit-protection/low-capacitance/rclamp0582b', 'kicadSymbolki_keywords': 'tvs unidirectional', 'kicadSymbolki_description': 'Low capacitance unidirectional dual ESD protection diode, SC-75', 'kicadSymbolki_fp_filters': 'SOT?416*'}]|
+|name|name|Power_Protection : RCLAMP0582B|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'RCLAMP0502B'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'RCLAMP0582B'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-416'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.semtech.com/products/circuit-protection/low-capacitance/rclamp0582b'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'tvs unidirectional'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Low capacitance unidirectional dual ESD protection diode</td><td> SC-75'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?416*'</td></tr></table>]|
 ||||

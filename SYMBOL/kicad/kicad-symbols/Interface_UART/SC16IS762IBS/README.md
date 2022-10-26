@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKINTERFACEUARTSC16IS762IBS > SC16IS762IBS
+# SZKINTERFACEUARTSC16IS762IBS > Interface_UART : SC16IS762IBS
 
 - ID: SYMBOL-kicad-kicad-symbols-Interface_UART-SC16IS762IBS
 - Hex ID: SZKINTERFACEUARTSC16IS762IBS
-- Name: SC16IS762IBS
-- Description: SC16IS762IBS
+- Name: Interface_UART : SC16IS762IBS
+- Description: Interface_UART : SC16IS762IBS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-SC16IS762IBS](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-SC16IS762IBS)
 - Short Link: [http://oom.lt/SZKINTERFACEUARTSC16IS762IBS](http://oom.lt/SZKINTERFACEUARTSC16IS762IBS)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SC16IS762IBS|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_UART-SC16IS762IBS|
 |Hex ID (short code)|hexID|SZKINTERFACEUARTSC16IS762IBS|
-|name|name|SC16IS762IBS|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'SC16IS752IBS', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'SC16IS762IBS', 'kicadSymbolFootprint': 'Package_DFN_QFN:VQFN-32-1EP_5x5mm_P0.5mm_EP3.1x3.1mm', 'kicadSymbolDatasheet': 'https://www.nxp.com/docs/en/data-sheet/SC16IS752_SC16IS762.pdf', 'kicadSymbolki_keywords': 'UART I2C/SPI 64B FIFO IrDA SIR', 'kicadSymbolki_description': 'Dual UART with I2C/SPI interface, 64 bytes of transmit and receive FIFOs, IrDA SIR built-in support, HVQFN-32', 'kicadSymbolki_fp_filters': 'VQFN*1EP*5x5mm*P0.5mm*'}]|
+|name|name|Interface_UART : SC16IS762IBS|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'SC16IS752IBS'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'SC16IS762IBS'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>VQFN-32-1EP_5x5mm_P0.5mm_EP3.1x3.1mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.nxp.com/docs/en/data-sheet/SC16IS752_SC16IS762.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'UART I2C/SPI 64B FIFO IrDA SIR'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Dual UART with I2C/SPI interface</td><td> 64 bytes of transmit and receive FIFOs</td><td> IrDA SIR built-in support</td><td> HVQFN-32'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'VQFN*1EP*5x5mm*P0.5mm*'</td></tr></table>]|
 ||||

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_CSP-LFCSP-16-1EP_4x4mm_P0.65mm_EP2.4x2.4mm_ThermalVias|
 |Hex ID (short code)|hexID|FZKCSPLFCSP161EP4X4P65EP24X24THERMALVIAS|
 |name|name|Package_CSP : LFCSP-16-1EP_4x4mm_P0.65mm_EP2.4x2.4mm_ThermalVias|
-|Footprint Kicad|footprintKicadDetails|{'name': 'LFCSP-16-1EP_4x4mm_P0.65mm_EP2.4x2.4mm_ThermalVias', 'description': 'LFCSP, 16 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp-16/cp-16-40.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py', 'tags': 'LFCSP NoLead', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_CSP.3dshapes/LFCSP-16-1EP_4x4mm_P0.65mm_EP2.4x2.4mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'LFCSP-16-1EP_4x4mm_P0.65mm_EP2.4x2.4mm_ThermalVias'</td><td> 'description'</td></tr><tr><td> 'LFCSP</td><td> 16 Pin (https</td></tr><tr><td>//www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp-16/cp-16-40.pdf)</td><td> generated with kicad-footprint-generator ipc_noLead_generator.py'</td><td> 'tags'</td></tr><tr><td> 'LFCSP NoLead'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_CSP.3dshapes/LFCSP-16-1EP_4x4mm_P0.65mm_EP2.4x2.4mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

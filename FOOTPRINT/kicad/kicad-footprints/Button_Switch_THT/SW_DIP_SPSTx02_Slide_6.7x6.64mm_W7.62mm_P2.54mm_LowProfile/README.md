@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_DIP_SPSTx02_Slide_6.7x6.64mm_W7.62mm_P2.54mm_LowProfile|
 |Hex ID (short code)|hexID|FZKBSWDIPSPSTX2SLIDE67X664W762P254LOWPROFILE|
 |name|name|Button_Switch_THT : SW_DIP_SPSTx02_Slide_6.7x6.64mm_W7.62mm_P2.54mm_LowProfile|
-|Footprint Kicad|footprintKicadDetails|{'name': 'SW_DIP_SPSTx02_Slide_6.7x6.64mm_W7.62mm_P2.54mm_LowProfile', 'description': '2x-dip-switch SPST , Slide, row spacing 7.62 mm (300 mils), body size 6.7x6.64mm (see e.g. https://www.ctscorp.com/wp-content/uploads/209-210.pdf), LowProfile', 'tags': 'DIP Switch SPST Slide 7.62mm 300mil LowProfile', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_DIP_SPSTx02_Slide_6.7x6.64mm_W7.62mm_P2.54mm_LowProfile.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SW_DIP_SPSTx02_Slide_6.7x6.64mm_W7.62mm_P2.54mm_LowProfile'</td><td> 'description'</td></tr><tr><td> '2x-dip-switch SPST </td><td> Slide</td><td> row spacing 7.62 mm (300 mils)</td><td> body size 6.7x6.64mm (see e.g. https</td></tr><tr><td>//www.ctscorp.com/wp-content/uploads/209-210.pdf)</td><td> LowProfile'</td><td> 'tags'</td></tr><tr><td> 'DIP Switch SPST Slide 7.62mm 300mil LowProfile'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Button_Switch_THT.3dshapes/SW_DIP_SPSTx02_Slide_6.7x6.64mm_W7.62mm_P2.54mm_LowProfile.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Module-ST_Morpho_Connector_144_STLink|
 |Hex ID (short code)|hexID|FZKMOSTMORPHOCN144STLINK|
 |name|name|Module : ST_Morpho_Connector_144_STLink|
-|Footprint Kicad|footprintKicadDetails|{'name': 'ST_Morpho_Connector_144_STLink', 'description': 'ST Morpho Connector 144 With STLink', 'tags': 'ST Morpho Connector 144 STLink', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Module.3dshapes/ST_Morpho_Connector_144_STLink.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'ST_Morpho_Connector_144_STLink'</td><td> 'description'</td></tr><tr><td> 'ST Morpho Connector 144 With STLink'</td><td> 'tags'</td></tr><tr><td> 'ST Morpho Connector 144 STLink'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Module.3dshapes/ST_Morpho_Connector_144_STLink.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

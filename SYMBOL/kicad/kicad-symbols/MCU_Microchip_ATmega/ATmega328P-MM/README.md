@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUMCHIPATMEGAATMEGA328P > ATmega328P-MM
+# SZKMCUMCHIPATMEGAATMEGA328P > MCU_Microchip_ATmega : ATmega328P-MM
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega328P-MM
 - Hex ID: SZKMCUMCHIPATMEGAATMEGA328P
-- Name: ATmega328P-MM
-- Description: ATmega328P-MM
+- Name: MCU_Microchip_ATmega : ATmega328P-MM
+- Description: MCU_Microchip_ATmega : ATmega328P-MM
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega328P-MM](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega328P-MM)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATMEGAATMEGA328P](http://oom.lt/SZKMCUMCHIPATMEGAATMEGA328P)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ATmega328P-MM|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega328P-MM|
 |Hex ID (short code)|hexID|SZKMCUMCHIPATMEGAATMEGA328P|
-|name|name|ATmega328P-MM|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ATmega48PV-10MM', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ATmega328P-MM', 'kicadSymbolFootprint': 'Package_DFN_QFN:QFN-28-1EP_4x4mm_P0.45mm_EP2.4x2.4mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/ATmega328_P%20AVR%20MCU%20with%20picoPower%20Technology%20Data%20Sheet%2040001984A.pdf', 'kicadSymbolki_keywords': 'AVR 8bit Microcontroller MegaAVR', 'kicadSymbolki_description': '20MHz, 32kB Flash, 2kB SRAM, 1kB EEPROM, QFN-28', 'kicadSymbolki_fp_filters': 'QFN*1EP*4x4mm*P0.45mm*'}]|
+|name|name|MCU_Microchip_ATmega : ATmega328P-MM|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'ATmega48PV-10MM'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ATmega328P-MM'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>QFN-28-1EP_4x4mm_P0.45mm_EP2.4x2.4mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/ATmega328_P%20AVR%20MCU%20with%20picoPower%20Technology%20Data%20Sheet%2040001984A.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'AVR 8bit Microcontroller MegaAVR'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '20MHz</td><td> 32kB Flash</td><td> 2kB SRAM</td><td> 1kB EEPROM</td><td> QFN-28'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'QFN*1EP*4x4mm*P0.45mm*'</td></tr></table>]|
 ||||

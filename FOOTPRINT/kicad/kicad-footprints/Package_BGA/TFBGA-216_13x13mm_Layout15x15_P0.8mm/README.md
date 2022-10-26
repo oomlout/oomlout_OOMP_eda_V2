@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_BGA-TFBGA-216_13x13mm_Layout15x15_P0.8mm|
 |Hex ID (short code)|hexID|FZKBGATFBGA21613X13LAYOUT15X15P8|
 |name|name|Package_BGA : TFBGA-216_13x13mm_Layout15x15_P0.8mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'TFBGA-216_13x13mm_Layout15x15_P0.8mm', 'description': 'TFBGA-216, 15x15 raster, 13x13mm package, pitch 0.8mm; see section 6.8 of http://www.st.com/resource/en/datasheet/stm32f746zg.pdf', 'tags': 'BGA 216 0.8', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/TFBGA-216_13x13mm_Layout15x15_P0.8mm.wrl', 'pins': {'type': 'smd', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'TFBGA-216_13x13mm_Layout15x15_P0.8mm'</td><td> 'description'</td></tr><tr><td> 'TFBGA-216</td><td> 15x15 raster</td><td> 13x13mm package</td><td> pitch 0.8mm; see section 6.8 of http</td></tr><tr><td>//www.st.com/resource/en/datasheet/stm32f746zg.pdf'</td><td> 'tags'</td></tr><tr><td> 'BGA 216 0.8'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_BGA.3dshapes/TFBGA-216_13x13mm_Layout15x15_P0.8mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

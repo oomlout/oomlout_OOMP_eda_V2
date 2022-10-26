@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SON-WSON-8-1EP_3x3mm_P0.5mm_EP1.45x2.4mm|
 |Hex ID (short code)|hexID|FZKSONWSON81EP3X3P5EP145X24|
 |name|name|Package_SON : WSON-8-1EP_3x3mm_P0.5mm_EP1.45x2.4mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'WSON-8-1EP_3x3mm_P0.5mm_EP1.45x2.4mm', 'description': 'WSON, 8 Pin (https://www.ti.com/lit/ds/symlink/ina333.pdf#page=30), generated with kicad-footprint-generator ipc_noLead_generator.py', 'tags': 'WSON NoLead', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SON.3dshapes/WSON-8-1EP_3x3mm_P0.5mm_EP1.45x2.4mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'WSON-8-1EP_3x3mm_P0.5mm_EP1.45x2.4mm'</td><td> 'description'</td></tr><tr><td> 'WSON</td><td> 8 Pin (https</td></tr><tr><td>//www.ti.com/lit/ds/symlink/ina333.pdf#page=30)</td><td> generated with kicad-footprint-generator ipc_noLead_generator.py'</td><td> 'tags'</td></tr><tr><td> 'WSON NoLead'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_SON.3dshapes/WSON-8-1EP_3x3mm_P0.5mm_EP1.45x2.4mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

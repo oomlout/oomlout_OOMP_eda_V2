@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORFETVN1LF > VN10LF
+# SZKTRANSISTORFETVN1LF > Transistor_FET : VN10LF
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-VN10LF
 - Hex ID: SZKTRANSISTORFETVN1LF
-- Name: VN10LF
-- Description: VN10LF
+- Name: Transistor_FET : VN10LF
+- Description: Transistor_FET : VN10LF
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-VN10LF](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-VN10LF)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETVN1LF](http://oom.lt/SZKTRANSISTORFETVN1LF)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|VN10LF|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-VN10LF|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETVN1LF|
-|name|name|VN10LF|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BSS138', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'VN10LF', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23', 'kicadSymbolDatasheet': 'http://www.diodes.com/assets/Datasheets/VN10LF.pdf', 'kicadSymbolki_keywords': 'N-Channel MOSFET', 'kicadSymbolki_description': '0.15A Id, 60V Vds, N-Channel MOSFET, SOT-23', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
+|name|name|Transistor_FET : VN10LF|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'BSS138'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'VN10LF'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-23'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.diodes.com/assets/Datasheets/VN10LF.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'N-Channel MOSFET'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '0.15A Id</td><td> 60V Vds</td><td> N-Channel MOSFET</td><td> SOT-23'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23*'</td></tr></table>]|
 ||||

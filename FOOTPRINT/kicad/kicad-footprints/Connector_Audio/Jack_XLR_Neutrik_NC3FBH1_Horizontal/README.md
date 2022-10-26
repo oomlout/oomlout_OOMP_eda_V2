@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_XLR_Neutrik_NC3FBH1_Horizontal|
 |Hex ID (short code)|hexID|FZKCNAUDIOJXLRNEUTRIKNC3FBH1HORIZONTAL|
 |name|name|Connector_Audio : Jack_XLR_Neutrik_NC3FBH1_Horizontal|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Jack_XLR_Neutrik_NC3FBH1_Horizontal', 'description': 'B Series, 3 pole female XLR receptacle, grounding: mating connector shell to pin1 and front panel, horizontal PCB mount, https://www.neutrik.com/en/product/nc3fbh1', 'tags': 'neutrik xlr b', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_Audio.3dshapes/Jack_XLR_Neutrik_NC3FBH1_Horizontal.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Jack_XLR_Neutrik_NC3FBH1_Horizontal'</td><td> 'description'</td></tr><tr><td> 'B Series</td><td> 3 pole female XLR receptacle</td><td> grounding</td></tr><tr><td> mating connector shell to pin1 and front panel</td><td> horizontal PCB mount</td><td> https</td></tr><tr><td>//www.neutrik.com/en/product/nc3fbh1'</td><td> 'tags'</td></tr><tr><td> 'neutrik xlr b'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_Audio.3dshapes/Jack_XLR_Neutrik_NC3FBH1_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

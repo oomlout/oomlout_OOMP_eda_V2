@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDRIVERFETIR2112 > IR2112
+# SZKDRIVERFETIR2112 > Driver_FET : IR2112
 
 - ID: SYMBOL-kicad-kicad-symbols-Driver_FET-IR2112
 - Hex ID: SZKDRIVERFETIR2112
-- Name: IR2112
-- Description: IR2112
+- Name: Driver_FET : IR2112
+- Description: Driver_FET : IR2112
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-IR2112](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-IR2112)
 - Short Link: [http://oom.lt/SZKDRIVERFETIR2112](http://oom.lt/SZKDRIVERFETIR2112)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IR2112|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Driver_FET-IR2112|
 |Hex ID (short code)|hexID|SZKDRIVERFETIR2112|
-|name|name|IR2112|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'IR2010', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'IR2112', 'kicadSymbolFootprint': 'Package_DIP:DIP-14_W7.62mm', 'kicadSymbolDatasheet': 'https://www.infineon.com/dgdl/ir2112.pdf?fileId=5546d462533600a4015355c81cb71685', 'kicadSymbolki_keywords': 'Gate Driver', 'kicadSymbolki_description': 'High and Low Side Driver, 600V, 250/500mA, PDIP-14', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
+|name|name|Driver_FET : IR2112|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'IR2010'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'IR2112'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>DIP-14_W7.62mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.infineon.com/dgdl/ir2112.pdf?fileId=5546d462533600a4015355c81cb71685'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Gate Driver'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'High and Low Side Driver</td><td> 600V</td><td> 250/500mA</td><td> PDIP-14'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W7.62mm*'</td></tr></table>]|
 ||||

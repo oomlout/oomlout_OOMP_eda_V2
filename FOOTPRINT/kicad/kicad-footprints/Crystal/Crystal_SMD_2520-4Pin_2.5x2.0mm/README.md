@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_2520-4Pin_2.5x2.0mm|
 |Hex ID (short code)|hexID|FZKXXSM2524PIN25X2|
 |name|name|Crystal : Crystal_SMD_2520-4Pin_2.5x2.0mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Crystal_SMD_2520-4Pin_2.5x2.0mm', 'description': 'SMD Crystal SERIES SMD2520/4 http://www.newxtal.com/UploadFiles/Images/2012-11-12-09-29-09-776.pdf, 2.5x2.0mm^2 package', 'tags': 'SMD SMT crystal', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Crystal_SMD_2520-4Pin_2.5x2.0mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Crystal_SMD_2520-4Pin_2.5x2.0mm'</td><td> 'description'</td></tr><tr><td> 'SMD Crystal SERIES SMD2520/4 http</td></tr><tr><td>//www.newxtal.com/UploadFiles/Images/2012-11-12-09-29-09-776.pdf</td><td> 2.5x2.0mm^2 package'</td><td> 'tags'</td></tr><tr><td> 'SMD SMT crystal'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Crystal.3dshapes/Crystal_SMD_2520-4Pin_2.5x2.0mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

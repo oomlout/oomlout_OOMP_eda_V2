@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTIMERRTCDS132SN+ > DS1302SN+
+# SZKTIMERRTCDS132SN+ > Timer_RTC : DS1302SN+
 
 - ID: SYMBOL-kicad-kicad-symbols-Timer_RTC-DS1302SN+
 - Hex ID: SZKTIMERRTCDS132SN+
-- Name: DS1302SN+
-- Description: DS1302SN+
+- Name: Timer_RTC : DS1302SN+
+- Description: Timer_RTC : DS1302SN+
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer_RTC-DS1302SN+](http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer_RTC-DS1302SN+)
 - Short Link: [http://oom.lt/SZKTIMERRTCDS132SN+](http://oom.lt/SZKTIMERRTCDS132SN+)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DS1302SN+|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Timer_RTC-DS1302SN+|
 |Hex ID (short code)|hexID|SZKTIMERRTCDS132SN+|
-|name|name|DS1302SN+|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'DS1302S+', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'DS1302SN+', 'kicadSymbolFootprint': 'Package_SO:SO-8_5.3x6.2mm_P1.27mm', 'kicadSymbolDatasheet': 'https://datasheets.maximintegrated.com/en/ds/DS1302.pdf', 'kicadSymbolki_keywords': 'RTC, Trickle-Charge Timekeeping Chip', 'kicadSymbolki_description': 'Trickle-Charge Timekeeping Chip, 2.0V to 5.5V VCC, -40°C to +85°C, SO-8', 'kicadSymbolki_fp_filters': 'SO*5.3x6.2mm?P1.27mm*'}]|
+|name|name|Timer_RTC : DS1302SN+|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'DS1302S+'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'DS1302SN+'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SO-8_5.3x6.2mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//datasheets.maximintegrated.com/en/ds/DS1302.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'RTC</td><td> Trickle-Charge Timekeeping Chip'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Trickle-Charge Timekeeping Chip</td><td> 2.0V to 5.5V VCC</td><td> -40°C to +85°C</td><td> SO-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SO*5.3x6.2mm?P1.27mm*'</td></tr></table>]|
 ||||

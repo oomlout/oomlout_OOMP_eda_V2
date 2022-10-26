@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_AMASS-AMASS_MR30PW-M_1x03_P3.50mm_Horizontal|
 |Hex ID (short code)|hexID|FZKCNAMASSAMASSMR3PWM1X3P35HORIZONTAL|
 |name|name|Connector_AMASS : AMASS_MR30PW-M_1x03_P3.50mm_Horizontal|
-|Footprint Kicad|footprintKicadDetails|{'name': 'AMASS_MR30PW-M_1x03_P3.50mm_Horizontal', 'description': 'Connector XT30 Horizontal PCB Male, https://www.tme.eu/en/Document/5e47640ba39fa492dbd4c0f4c8ae7b93/MR30PW%20SPEC.pdf', 'tags': 'RC Connector XT30', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_AMASS.3dshapes/AMASS_MR30PW-M_1x03_P3.50mm_Horizontal.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'AMASS_MR30PW-M_1x03_P3.50mm_Horizontal'</td><td> 'description'</td></tr><tr><td> 'Connector XT30 Horizontal PCB Male</td><td> https</td></tr><tr><td>//www.tme.eu/en/Document/5e47640ba39fa492dbd4c0f4c8ae7b93/MR30PW%20SPEC.pdf'</td><td> 'tags'</td></tr><tr><td> 'RC Connector XT30'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_AMASS.3dshapes/AMASS_MR30PW-M_1x03_P3.50mm_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Heatsink-Heatsink_35x26mm_1xFixation3mm_Fischer-SK486-35|
 |Hex ID (short code)|hexID|FZKHH35X261XFIXATION3FISCHERSK48635|
 |name|name|Heatsink : Heatsink_35x26mm_1xFixation3mm_Fischer-SK486-35|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Heatsink_35x26mm_1xFixation3mm_Fischer-SK486-35', 'description': 'Heatsink, 35mm x 26mm, 1x Fixation 3mm, Fischer SK486-35', 'tags': 'heatsink', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Heatsink.3dshapes/Heatsink_35x26mm_1xFixation3mm_Fischer-SK486-35.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Heatsink_35x26mm_1xFixation3mm_Fischer-SK486-35'</td><td> 'description'</td></tr><tr><td> 'Heatsink</td><td> 35mm x 26mm</td><td> 1x Fixation 3mm</td><td> Fischer SK486-35'</td><td> 'tags'</td></tr><tr><td> 'heatsink'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Heatsink.3dshapes/Heatsink_35x26mm_1xFixation3mm_Fischer-SK486-35.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

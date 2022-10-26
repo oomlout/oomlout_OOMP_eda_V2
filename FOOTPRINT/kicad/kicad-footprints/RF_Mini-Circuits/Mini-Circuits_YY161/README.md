@@ -29,5 +29,5 @@ NO IMAGE
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-RF_Mini-Circuits-Mini-Circuits_YY161|
 |Hex ID (short code)|hexID|FZKRFMCIRCUITSYY161|
 |name|name|RF_Mini-Circuits : Mini-Circuits_YY161|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Mini-Circuits_YY161', 'description': 'Footprint for Mini-Circuits case YY161 (https://ww2.minicircuits.com/case_style/YY161.pdf)', 'tags': 'Mini-Circuits YY161', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/RF_Mini-Circuits.3dshapes/Mini-Circuits_YY161.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Mini-Circuits_YY161'</td><td> 'description'</td></tr><tr><td> 'Footprint for Mini-Circuits case YY161 (https</td></tr><tr><td>//ww2.minicircuits.com/case_style/YY161.pdf)'</td><td> 'tags'</td></tr><tr><td> 'Mini-Circuits YY161'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/RF_Mini-Circuits.3dshapes/Mini-Circuits_YY161.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

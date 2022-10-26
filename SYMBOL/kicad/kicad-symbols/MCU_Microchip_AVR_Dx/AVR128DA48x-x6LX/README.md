@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUMCHIPAVRDXAVR128DA48XX6LX > AVR128DA48x-x6LX
+# SZKMCUMCHIPAVRDXAVR128DA48XX6LX > MCU_Microchip_AVR_Dx : AVR128DA48x-x6LX
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_AVR_Dx-AVR128DA48x-x6LX
 - Hex ID: SZKMCUMCHIPAVRDXAVR128DA48XX6LX
-- Name: AVR128DA48x-x6LX
-- Description: AVR128DA48x-x6LX
+- Name: MCU_Microchip_AVR_Dx : AVR128DA48x-x6LX
+- Description: MCU_Microchip_AVR_Dx : AVR128DA48x-x6LX
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_AVR_Dx-AVR128DA48x-x6LX](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_AVR_Dx-AVR128DA48x-x6LX)
 - Short Link: [http://oom.lt/SZKMCUMCHIPAVRDXAVR128DA48XX6LX](http://oom.lt/SZKMCUMCHIPAVRDXAVR128DA48XX6LX)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AVR128DA48x-x6LX|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_AVR_Dx-AVR128DA48x-x6LX|
 |Hex ID (short code)|hexID|SZKMCUMCHIPAVRDXAVR128DA48XX6LX|
-|name|name|AVR128DA48x-x6LX|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'AVR32DA48x-x6LX', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AVR128DA48x-x6LX', 'kicadSymbolFootprint': 'Package_DFN_QFN:QFN-48-1EP_6x6mm_P0.4mm_EP4.2x4.2mm', 'kicadSymbolDatasheet': 'https://ww1.microchip.com/downloads/en/DeviceDoc/AVR128DA28-32-48-64-DataSheet-DS40002183B.pdf', 'kicadSymbolki_keywords': 'AVR 8bit Microcontroller AVR-DA', 'kicadSymbolki_description': '24MHz, 128kB Flash, 16kB SRAM, EEPROM with Touch Sensing, VQFN-48', 'kicadSymbolki_fp_filters': 'QFN*1EP*6x6mm*P0.4mm*EP4.2x4.2mm*'}]|
+|name|name|MCU_Microchip_AVR_Dx : AVR128DA48x-x6LX|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'AVR32DA48x-x6LX'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'AVR128DA48x-x6LX'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>QFN-48-1EP_6x6mm_P0.4mm_EP4.2x4.2mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/AVR128DA28-32-48-64-DataSheet-DS40002183B.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'AVR 8bit Microcontroller AVR-DA'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '24MHz</td><td> 128kB Flash</td><td> 16kB SRAM</td><td> EEPROM with Touch Sensing</td><td> VQFN-48'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'QFN*1EP*6x6mm*P0.4mm*EP4.2x4.2mm*'</td></tr></table>]|
 ||||

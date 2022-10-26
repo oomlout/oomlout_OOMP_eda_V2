@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUTEXASMSP43MSP43F111AIRGE > MSP430F1101AIRGE
+# SZKMCUTEXASMSP43MSP43F111AIRGE > MCU_Texas_MSP430 : MSP430F1101AIRGE
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Texas_MSP430-MSP430F1101AIRGE
 - Hex ID: SZKMCUTEXASMSP43MSP43F111AIRGE
-- Name: MSP430F1101AIRGE
-- Description: MSP430F1101AIRGE
+- Name: MCU_Texas_MSP430 : MSP430F1101AIRGE
+- Description: MCU_Texas_MSP430 : MSP430F1101AIRGE
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Texas_MSP430-MSP430F1101AIRGE](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Texas_MSP430-MSP430F1101AIRGE)
 - Short Link: [http://oom.lt/SZKMCUTEXASMSP43MSP43F111AIRGE](http://oom.lt/SZKMCUTEXASMSP43MSP43F111AIRGE)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MSP430F1101AIRGE|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Texas_MSP430-MSP430F1101AIRGE|
 |Hex ID (short code)|hexID|SZKMCUTEXASMSP43MSP43F111AIRGE|
-|name|name|MSP430F1101AIRGE|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MSP430F1101AIRGE', 'kicadSymbolFootprint': 'Package_DFN_QFN:VQFN-24-1EP_4x4mm_P0.5mm_EP2.45x2.45mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/msp430f1101a.pdf', 'kicadSymbolki_keywords': 'TI MSP430 16-bit mixed signal microcontroller', 'kicadSymbolki_description': '1kB + 128B Flash, 128B RAM, QFN-24', 'kicadSymbolki_fp_filters': 'VQFN*1EP*4x4mm*P0.5mm*'}]|
+|name|name|MCU_Texas_MSP430 : MSP430F1101AIRGE|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MSP430F1101AIRGE'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>VQFN-24-1EP_4x4mm_P0.5mm_EP2.45x2.45mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/msp430f1101a.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'TI MSP430 16-bit mixed signal microcontroller'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '1kB + 128B Flash</td><td> 128B RAM</td><td> QFN-24'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'VQFN*1EP*4x4mm*P0.5mm*'</td></tr></table>]|
 ||||

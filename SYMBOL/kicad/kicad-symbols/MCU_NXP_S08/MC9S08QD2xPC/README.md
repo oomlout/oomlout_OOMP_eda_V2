@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUNXPS8MC9S8QD2XPC > MC9S08QD2xPC
+# SZKMCUNXPS8MC9S8QD2XPC > MCU_NXP_S08 : MC9S08QD2xPC
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_NXP_S08-MC9S08QD2xPC
 - Hex ID: SZKMCUNXPS8MC9S8QD2XPC
-- Name: MC9S08QD2xPC
-- Description: MC9S08QD2xPC
+- Name: MCU_NXP_S08 : MC9S08QD2xPC
+- Description: MCU_NXP_S08 : MC9S08QD2xPC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_S08-MC9S08QD2xPC](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_S08-MC9S08QD2xPC)
 - Short Link: [http://oom.lt/SZKMCUNXPS8MC9S8QD2XPC](http://oom.lt/SZKMCUNXPS8MC9S8QD2XPC)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MC9S08QD2xPC|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_NXP_S08-MC9S08QD2xPC|
 |Hex ID (short code)|hexID|SZKMCUNXPS8MC9S8QD2XPC|
-|name|name|MC9S08QD2xPC|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MC9S08QD4xPC', 'kicadSymbolReference': 'IC', 'kicadSymbolValue': 'MC9S08QD2xPC', 'kicadSymbolFootprint': 'Package_DIP:DIP-8_W7.62mm', 'kicadSymbolDatasheet': 'http://cache.nxp.com/files/microcontrollers/doc/data_sheet/MC9S08QD4.pdf', 'kicadSymbolki_keywords': 'NXP S08 Microcontroller', 'kicadSymbolki_description': '8-bit Small Package Microcontroller, S08 core, 2kB Flash, 128B RAM, DIP-8', 'kicadSymbolki_fp_filters': 'DIP*7.62mm*'}]|
+|name|name|MCU_NXP_S08 : MC9S08QD2xPC|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'MC9S08QD4xPC'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'IC'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MC9S08QD2xPC'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>DIP-8_W7.62mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//cache.nxp.com/files/microcontrollers/doc/data_sheet/MC9S08QD4.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'NXP S08 Microcontroller'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '8-bit Small Package Microcontroller</td><td> S08 core</td><td> 2kB Flash</td><td> 128B RAM</td><td> DIP-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*7.62mm*'</td></tr></table>]|
 ||||

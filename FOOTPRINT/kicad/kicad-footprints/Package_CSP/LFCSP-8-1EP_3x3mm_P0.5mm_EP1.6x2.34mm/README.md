@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_CSP-LFCSP-8-1EP_3x3mm_P0.5mm_EP1.6x2.34mm|
 |Hex ID (short code)|hexID|FZKCSPLFCSP81EP3X3P5EP16X234|
 |name|name|Package_CSP : LFCSP-8-1EP_3x3mm_P0.5mm_EP1.6x2.34mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'LFCSP-8-1EP_3x3mm_P0.5mm_EP1.6x2.34mm', 'description': 'LFCSP, 8 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/CP_8_11.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py', 'tags': 'LFCSP NoLead', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_CSP.3dshapes/LFCSP-8-1EP_3x3mm_P0.5mm_EP1.6x2.34mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'LFCSP-8-1EP_3x3mm_P0.5mm_EP1.6x2.34mm'</td><td> 'description'</td></tr><tr><td> 'LFCSP</td><td> 8 Pin (https</td></tr><tr><td>//www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/CP_8_11.pdf)</td><td> generated with kicad-footprint-generator ipc_noLead_generator.py'</td><td> 'tags'</td></tr><tr><td> 'LFCSP NoLead'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_CSP.3dshapes/LFCSP-8-1EP_3x3mm_P0.5mm_EP1.6x2.34mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

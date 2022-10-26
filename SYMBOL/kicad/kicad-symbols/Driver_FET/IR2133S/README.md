@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDRIVERFETIR2133S > IR2133S
+# SZKDRIVERFETIR2133S > Driver_FET : IR2133S
 
 - ID: SYMBOL-kicad-kicad-symbols-Driver_FET-IR2133S
 - Hex ID: SZKDRIVERFETIR2133S
-- Name: IR2133S
-- Description: IR2133S
+- Name: Driver_FET : IR2133S
+- Description: Driver_FET : IR2133S
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-IR2133S](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-IR2133S)
 - Short Link: [http://oom.lt/SZKDRIVERFETIR2133S](http://oom.lt/SZKDRIVERFETIR2133S)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IR2133S|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Driver_FET-IR2133S|
 |Hex ID (short code)|hexID|SZKDRIVERFETIR2133S|
-|name|name|IR2133S|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'IR2133S', 'kicadSymbolFootprint': 'Package_SO:SOIC-28W_7.5x17.9mm_P1.27mm', 'kicadSymbolDatasheet': 'https://www.infineon.com/dgdl/Infineon-IR2x33-IR2x35-DataSheet-v01_00-EN.pdf?fileId=5546d462533600a4015355c890ba169f', 'kicadSymbolki_keywords': '3 Phase Gate Driver', 'kicadSymbolki_description': '600V, Vout 10-20V, SOIC-28', 'kicadSymbolki_fp_filters': 'SOIC*7.5x17.9mm*P1.27mm*'}]|
+|name|name|Driver_FET : IR2133S|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'IR2133S'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-28W_7.5x17.9mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.infineon.com/dgdl/Infineon-IR2x33-IR2x35-DataSheet-v01_00-EN.pdf?fileId=5546d462533600a4015355c890ba169f'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> '3 Phase Gate Driver'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '600V</td><td> Vout 10-20V</td><td> SOIC-28'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*7.5x17.9mm*P1.27mm*'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKSENCURRENTCQ32A > CQ-320A
+# SZKSENCURRENTCQ32A > Sensor_Current : CQ-320A
 
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Current-CQ-320A
 - Hex ID: SZKSENCURRENTCQ32A
-- Name: CQ-320A
-- Description: CQ-320A
+- Name: Sensor_Current : CQ-320A
+- Description: Sensor_Current : CQ-320A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-CQ-320A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-CQ-320A)
 - Short Link: [http://oom.lt/SZKSENCURRENTCQ32A](http://oom.lt/SZKSENCURRENTCQ32A)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|CQ-320A|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Current-CQ-320A|
 |Hex ID (short code)|hexID|SZKSENCURRENTCQ32A|
-|name|name|CQ-320A|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'CQ-3200', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'CQ-320A', 'kicadSymbolFootprint': 'Sensor_Current:AKM_CQ_VSOP-24_5.6x7.9mm_P0.65mm', 'kicadSymbolDatasheet': 'http://www.akm.com/akm/en/file/datasheet/CQ-320A.pdf', 'kicadSymbolki_keywords': 'hall effect current sensor', 'kicadSymbolki_description': 'High-Speed Response Coreless Current Sensor, Bidirectional, -29.3A to +29.3A, 45mV/A, VSOP-24', 'kicadSymbolki_fp_filters': 'AKM*CQ*VSOP*5.6x7.9mm*P0.65mm*'}]|
+|name|name|Sensor_Current : CQ-320A|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'CQ-3200'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'CQ-320A'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Sensor_Current</td></tr><tr><td>AKM_CQ_VSOP-24_5.6x7.9mm_P0.65mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.akm.com/akm/en/file/datasheet/CQ-320A.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'hall effect current sensor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'High-Speed Response Coreless Current Sensor</td><td> Bidirectional</td><td> -29.3A to +29.3A</td><td> 45mV/A</td><td> VSOP-24'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'AKM*CQ*VSOP*5.6x7.9mm*P0.65mm*'</td></tr></table>]|
 ||||

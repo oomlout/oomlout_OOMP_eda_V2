@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_DIN-DIN41612_E_2x16_RowsAC_Female_Vertical_THT|
 |Hex ID (short code)|hexID|FZKCNDINDIN41612E2X16ROWSACFEMALEVERTICALTHT|
 |name|name|Connector_DIN : DIN41612_E_2x16_RowsAC_Female_Vertical_THT|
-|Footprint Kicad|footprintKicadDetails|{'name': 'DIN41612_E_2x16_RowsAC_Female_Vertical_THT', 'description': 'DIN41612 connector, type E, Vertical, 5 rows 32 pins wide, https://www.erni-x-press.com/de/downloads/kataloge/englische_kataloge/erni-din41612-iec60603-2-e.pdf', 'tags': 'DIN 41612 IEC 60603 E', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_DIN.3dshapes/DIN41612_E_2x16_RowsAC_Female_Vertical_THT.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'DIN41612_E_2x16_RowsAC_Female_Vertical_THT'</td><td> 'description'</td></tr><tr><td> 'DIN41612 connector</td><td> type E</td><td> Vertical</td><td> 5 rows 32 pins wide</td><td> https</td></tr><tr><td>//www.erni-x-press.com/de/downloads/kataloge/englische_kataloge/erni-din41612-iec60603-2-e.pdf'</td><td> 'tags'</td></tr><tr><td> 'DIN 41612 IEC 60603 E'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_DIN.3dshapes/DIN41612_E_2x16_RowsAC_Female_Vertical_THT.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

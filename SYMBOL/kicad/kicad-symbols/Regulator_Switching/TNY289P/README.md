@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORSWITCHINGTNY289P > TNY289P
+# SZKREGULATORSWITCHINGTNY289P > Regulator_Switching : TNY289P
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-TNY289P
 - Hex ID: SZKREGULATORSWITCHINGTNY289P
-- Name: TNY289P
-- Description: TNY289P
+- Name: Regulator_Switching : TNY289P
+- Description: Regulator_Switching : TNY289P
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TNY289P](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TNY289P)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGTNY289P](http://oom.lt/SZKREGULATORSWITCHINGTNY289P)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TNY289P|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-TNY289P|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGTNY289P|
-|name|name|TNY289P|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TNY284P', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TNY289P', 'kicadSymbolFootprint': 'Package_DIP:PowerIntegrations_PDIP-8C', 'kicadSymbolDatasheet': 'https://ac-dc.power.com/sites/default/files/product-docs/tinyswitch-4_family_datasheet.pdf', 'kicadSymbolki_keywords': 'Energy-Efficient, Off-Line Switcher With Line Compensated Overload Power', 'kicadSymbolki_description': 'TinySwitch-4 Family, 25W Output Power, PDIP-8C', 'kicadSymbolki_fp_filters': 'PowerIntegrations?PDIP?8C*'}]|
+|name|name|Regulator_Switching : TNY289P|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'TNY284P'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TNY289P'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>PowerIntegrations_PDIP-8C'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//ac-dc.power.com/sites/default/files/product-docs/tinyswitch-4_family_datasheet.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Energy-Efficient</td><td> Off-Line Switcher With Line Compensated Overload Power'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'TinySwitch-4 Family</td><td> 25W Output Power</td><td> PDIP-8C'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'PowerIntegrations?PDIP?8C*'</td></tr></table>]|
 ||||

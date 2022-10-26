@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKSIMULATIONSPICEISFFM > ISFFM
+# SZKSIMULATIONSPICEISFFM > Simulation_SPICE : ISFFM
 
 - ID: SYMBOL-kicad-kicad-symbols-Simulation_SPICE-ISFFM
 - Hex ID: SZKSIMULATIONSPICEISFFM
-- Name: ISFFM
-- Description: ISFFM
+- Name: Simulation_SPICE : ISFFM
+- Description: Simulation_SPICE : ISFFM
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Simulation_SPICE-ISFFM](http://oom.lt/SYMBOL-kicad-kicad-symbols-Simulation_SPICE-ISFFM)
 - Short Link: [http://oom.lt/SZKSIMULATIONSPICEISFFM](http://oom.lt/SZKSIMULATIONSPICEISFFM)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ISFFM|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Simulation_SPICE-ISFFM|
 |Hex ID (short code)|hexID|SZKSIMULATIONSPICEISFFM|
-|name|name|ISFFM|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'I', 'kicadSymbolValue': 'ISFFM', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolSpice_Netlist_Enabled': 'Y', 'kicadSymbolSpice_Primitive': 'I', 'kicadSymbolSpice_Model': 'sffm(0 1 100k 5 1k)', 'kicadSymbolki_keywords': 'simulation frequency modulated', 'kicadSymbolki_description': 'Current source, single-frequency FM'}]|
+|name|name|Simulation_SPICE : ISFFM|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'I'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ISFFM'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolSpice_Netlist_Enabled'</td></tr><tr><td> 'Y'</td><td> 'kicadSymbolSpice_Primitive'</td></tr><tr><td> 'I'</td><td> 'kicadSymbolSpice_Model'</td></tr><tr><td> 'sffm(0 1 100k 5 1k)'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'simulation frequency modulated'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Current source</td><td> single-frequency FM'</td></tr></table>]|
 ||||

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SON-NXP_XSON-16|
 |Hex ID (short code)|hexID|FZKSONNXPXSON16|
 |name|name|Package_SON : NXP_XSON-16|
-|Footprint Kicad|footprintKicadDetails|{'name': 'NXP_XSON-16', 'description': 'http://www.nxp.com/documents/outline_drawing/SOT1341-1.pdf', 'tags': 'NXP XSON SOT-1341', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SON.3dshapes/NXP_XSON-16.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'NXP_XSON-16'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//www.nxp.com/documents/outline_drawing/SOT1341-1.pdf'</td><td> 'tags'</td></tr><tr><td> 'NXP XSON SOT-1341'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_SON.3dshapes/NXP_XSON-16.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

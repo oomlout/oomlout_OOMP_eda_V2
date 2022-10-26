@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_BarrelJack-BarrelJack_GCT_DCJ200-10-A_Horizontal|
 |Hex ID (short code)|hexID|FZKCNBARRELJBARRELJGCTDCJ21AHORIZONTAL|
 |name|name|Connector_BarrelJack : BarrelJack_GCT_DCJ200-10-A_Horizontal|
-|Footprint Kicad|footprintKicadDetails|{'name': 'BarrelJack_GCT_DCJ200-10-A_Horizontal', 'description': 'Barrel jack connector (5.5 mm outer diameter, 2.05 inner diameter ), https://gct.co/files/drawings/dcj200-10.pdf', 'tags': 'connector barrel jack', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_BarrelJack.3dshapes/BarrelJack_GCT_DCJ200-10-A_Horizontal.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'BarrelJack_GCT_DCJ200-10-A_Horizontal'</td><td> 'description'</td></tr><tr><td> 'Barrel jack connector (5.5 mm outer diameter</td><td> 2.05 inner diameter )</td><td> https</td></tr><tr><td>//gct.co/files/drawings/dcj200-10.pdf'</td><td> 'tags'</td></tr><tr><td> 'connector barrel jack'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_BarrelJack.3dshapes/BarrelJack_GCT_DCJ200-10-A_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

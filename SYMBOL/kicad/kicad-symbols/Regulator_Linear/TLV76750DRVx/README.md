@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORLINEARTLV7675DRVX > TLV76750DRVx
+# SZKREGULATORLINEARTLV7675DRVX > Regulator_Linear : TLV76750DRVx
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-TLV76750DRVx
 - Hex ID: SZKREGULATORLINEARTLV7675DRVX
-- Name: TLV76750DRVx
-- Description: TLV76750DRVx
+- Name: Regulator_Linear : TLV76750DRVx
+- Description: Regulator_Linear : TLV76750DRVx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TLV76750DRVx](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TLV76750DRVx)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARTLV7675DRVX](http://oom.lt/SZKREGULATORLINEARTLV7675DRVX)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TLV76750DRVx|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-TLV76750DRVx|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARTLV7675DRVX|
-|name|name|TLV76750DRVx|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TLV76750DRVx', 'kicadSymbolFootprint': 'Package_SON:WSON-6-1EP_2x2mm_P0.65mm_EP1x1.6mm_ThermalVias', 'kicadSymbolDatasheet': 'www.ti.com/lit/gpn/TLV767', 'kicadSymbolki_keywords': '1A, 16V Precision Linear Voltage Regulator', 'kicadSymbolki_description': '1A, 16V Precision Linear Voltage Regulator, with enable pin, Fixed Output 5.0V, WSON-6', 'kicadSymbolki_fp_filters': 'WSON*1EP*2x2mm*P0.65*'}]|
+|name|name|Regulator_Linear : TLV76750DRVx|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TLV76750DRVx'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SON</td></tr><tr><td>WSON-6-1EP_2x2mm_P0.65mm_EP1x1.6mm_ThermalVias'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'www.ti.com/lit/gpn/TLV767'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> '1A</td><td> 16V Precision Linear Voltage Regulator'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '1A</td><td> 16V Precision Linear Voltage Regulator</td><td> with enable pin</td><td> Fixed Output 5.0V</td><td> WSON-6'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'WSON*1EP*2x2mm*P0.65*'</td></tr></table>]|
 ||||

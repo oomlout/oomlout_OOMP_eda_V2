@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_Shunt_Vishay_WSR2_WSR3_KelvinConnection|
 |Hex ID (short code)|hexID|FZKRESISTORSMRSHUNTVISHAYWSR2WSR3KELVINCONNECTION|
 |name|name|Resistor_SMD : R_Shunt_Vishay_WSR2_WSR3_KelvinConnection|
-|Footprint Kicad|footprintKicadDetails|{'name': 'R_Shunt_Vishay_WSR2_WSR3_KelvinConnection', 'description': 'Power Metal Strip Resistors 0.005 to 0.2, https://www.vishay.com/docs/30101/wsr.pdf', 'tags': 'SMD Shunt Resistor', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_Shunt_Vishay_WSR2_WSR3.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'R_Shunt_Vishay_WSR2_WSR3_KelvinConnection'</td><td> 'description'</td></tr><tr><td> 'Power Metal Strip Resistors 0.005 to 0.2</td><td> https</td></tr><tr><td>//www.vishay.com/docs/30101/wsr.pdf'</td><td> 'tags'</td></tr><tr><td> 'SMD Shunt Resistor'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Resistor_SMD.3dshapes/R_Shunt_Vishay_WSR2_WSR3.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

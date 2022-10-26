@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SON-RTC_SMD_MicroCrystal_C3_2.5x3.7mm|
 |Hex ID (short code)|hexID|FZKSONRTCSMMXC325X37|
 |name|name|Package_SON : RTC_SMD_MicroCrystal_C3_2.5x3.7mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'RTC_SMD_MicroCrystal_C3_2.5x3.7mm', 'description': 'MicroCrystal C3 2.5x3.7mm, https://www.microcrystal.com/fileadmin/Media/Products/RTC/Datasheet/RV-1805-C3.pdf', 'tags': 'RTC C3', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SON.3dshapes/RTC_SMD_MicroCrystal_C3_2.5x3.7mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'RTC_SMD_MicroCrystal_C3_2.5x3.7mm'</td><td> 'description'</td></tr><tr><td> 'MicroCrystal C3 2.5x3.7mm</td><td> https</td></tr><tr><td>//www.microcrystal.com/fileadmin/Media/Products/RTC/Datasheet/RV-1805-C3.pdf'</td><td> 'tags'</td></tr><tr><td> 'RTC C3'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_SON.3dshapes/RTC_SMD_MicroCrystal_C3_2.5x3.7mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

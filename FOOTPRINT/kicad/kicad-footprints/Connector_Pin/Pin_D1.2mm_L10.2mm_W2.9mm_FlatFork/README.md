@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Pin-Pin_D1.2mm_L10.2mm_W2.9mm_FlatFork|
 |Hex ID (short code)|hexID|FZKCNPINPIND12L12W29FLATFORK|
 |name|name|Connector_Pin : Pin_D1.2mm_L10.2mm_W2.9mm_FlatFork|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Pin_D1.2mm_L10.2mm_W2.9mm_FlatFork', 'description': 'solder Pin_ with flat with fork, hole diameter 1.2mm, length 11.3mm, width 3.0mm', 'tags': 'solder Pin_ with flat fork', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_Pin.3dshapes/Pin_D1.2mm_L10.2mm_W2.9mm_FlatFork.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Pin_D1.2mm_L10.2mm_W2.9mm_FlatFork'</td><td> 'description'</td></tr><tr><td> 'solder Pin_ with flat with fork</td><td> hole diameter 1.2mm</td><td> length 11.3mm</td><td> width 3.0mm'</td><td> 'tags'</td></tr><tr><td> 'solder Pin_ with flat fork'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_Pin.3dshapes/Pin_D1.2mm_L10.2mm_W2.9mm_FlatFork.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

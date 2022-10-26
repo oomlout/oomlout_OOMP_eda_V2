@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-DFN-6-1EP_1.2x1.2mm_P0.4mm_EP0.3x0.94mm_PullBack|
 |Hex ID (short code)|hexID|FZKDFNDFN61EP12X12P4EP3X94PULLBACK|
 |name|name|Package_DFN_QFN : DFN-6-1EP_1.2x1.2mm_P0.4mm_EP0.3x0.94mm_PullBack|
-|Footprint Kicad|footprintKicadDetails|{'name': 'DFN-6-1EP_1.2x1.2mm_P0.4mm_EP0.3x0.94mm_PullBack', 'description': 'DFN, 6 Pin (http://www.onsemi.com/pub/Collateral/NCP133-D.PDF), generated with kicad-footprint-generator ipc_noLead_generator.py', 'tags': 'DFN NoLead', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/DFN-6-1EP_1.2x1.2mm_P0.4mm_EP0.3x0.94mm_PullBack.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'DFN-6-1EP_1.2x1.2mm_P0.4mm_EP0.3x0.94mm_PullBack'</td><td> 'description'</td></tr><tr><td> 'DFN</td><td> 6 Pin (http</td></tr><tr><td>//www.onsemi.com/pub/Collateral/NCP133-D.PDF)</td><td> generated with kicad-footprint-generator ipc_noLead_generator.py'</td><td> 'tags'</td></tr><tr><td> 'DFN NoLead'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DFN_QFN.3dshapes/DFN-6-1EP_1.2x1.2mm_P0.4mm_EP0.3x0.94mm_PullBack.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

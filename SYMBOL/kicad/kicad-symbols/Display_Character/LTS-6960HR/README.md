@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDICHARACTERLTS696HR > LTS-6960HR
+# SZKDICHARACTERLTS696HR > Display_Character : LTS-6960HR
 
 - ID: SYMBOL-kicad-kicad-symbols-Display_Character-LTS-6960HR
 - Hex ID: SZKDICHARACTERLTS696HR
-- Name: LTS-6960HR
-- Description: LTS-6960HR
+- Name: Display_Character : LTS-6960HR
+- Description: Display_Character : LTS-6960HR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-LTS-6960HR](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-LTS-6960HR)
 - Short Link: [http://oom.lt/SZKDICHARACTERLTS696HR](http://oom.lt/SZKDICHARACTERLTS696HR)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LTS-6960HR|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Display_Character-LTS-6960HR|
 |Hex ID (short code)|hexID|SZKDICHARACTERLTS696HR|
-|name|name|LTS-6960HR|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'AFF', 'kicadSymbolValue': 'LTS-6960HR', 'kicadSymbolFootprint': 'Display_7Segment:7SegmentLED_LTS6760_LTS6780', 'kicadSymbolDatasheet': 'https://datasheet.octopart.com/LTS-6960HR-Lite-On-datasheet-11803242.pdf', 'kicadSymbolki_keywords': 'display LED 7-segment', 'kicadSymbolki_description': 'DISPLAY 7 SEGMENTS common A.', 'kicadSymbolki_fp_filters': '7SegmentLED?LTS6760?LTS6780*'}]|
+|name|name|Display_Character : LTS-6960HR|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'AFF'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LTS-6960HR'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Display_7Segment</td></tr><tr><td>7SegmentLED_LTS6760_LTS6780'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//datasheet.octopart.com/LTS-6960HR-Lite-On-datasheet-11803242.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'display LED 7-segment'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'DISPLAY 7 SEGMENTS common A.'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> '7SegmentLED?LTS6760?LTS6780*'</td></tr></table>]|
 ||||

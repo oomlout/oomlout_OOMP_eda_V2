@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZK4XXXIEEE454 > 4504
+# SZK4XXXIEEE454 > 4xxx_IEEE : 4504
 
 - ID: SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4504
 - Hex ID: SZK4XXXIEEE454
-- Name: 4504
-- Description: 4504
+- Name: 4xxx_IEEE : 4504
+- Description: 4xxx_IEEE : 4504
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4504](http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4504)
 - Short Link: [http://oom.lt/SZK4XXXIEEE454](http://oom.lt/SZK4XXXIEEE454)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|4504|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4504|
 |Hex ID (short code)|hexID|SZK4XXXIEEE454|
-|name|name|4504|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '4504', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/cd4504b.pdf', 'kicadSymbolki_keywords': 'cmos, level converter', 'kicadSymbolki_description': '4504 Hex Voltage-level Shifter'}]|
+|name|name|4xxx_IEEE : 4504|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> '4504'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/cd4504b.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'cmos</td><td> level converter'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '4504 Hex Voltage-level Shifter'</td></tr></table>]|
 ||||

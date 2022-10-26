@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZK74XXCD74HC467M > CD74HC4067M
+# SZK74XXCD74HC467M > 74xx : CD74HC4067M
 
 - ID: SYMBOL-kicad-kicad-symbols-74xx-CD74HC4067M
 - Hex ID: SZK74XXCD74HC467M
-- Name: CD74HC4067M
-- Description: CD74HC4067M
+- Name: 74xx : CD74HC4067M
+- Description: 74xx : CD74HC4067M
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx-CD74HC4067M](http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx-CD74HC4067M)
 - Short Link: [http://oom.lt/SZK74XXCD74HC467M](http://oom.lt/SZK74XXCD74HC467M)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|CD74HC4067M|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xx-CD74HC4067M|
 |Hex ID (short code)|hexID|SZK74XXCD74HC467M|
-|name|name|CD74HC4067M|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'CD74HC4067M', 'kicadSymbolFootprint': 'Package_SO:SOIC-24W_7.5x15.4mm_P1.27mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/cd74hc4067.pdf', 'kicadSymbolki_keywords': 'multiplexer demultiplexer mux demux', 'kicadSymbolki_description': 'High-Speed CMOS Logic 16-Channel Analog Multiplexer/Demultiplexer, SOIC-24', 'kicadSymbolki_fp_filters': 'SOIC*W*7.5x15.4mm*P1.27mm*'}]|
+|name|name|74xx : CD74HC4067M|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'CD74HC4067M'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-24W_7.5x15.4mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/cd74hc4067.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'multiplexer demultiplexer mux demux'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'High-Speed CMOS Logic 16-Channel Analog Multiplexer/Demultiplexer</td><td> SOIC-24'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*W*7.5x15.4mm*P1.27mm*'</td></tr></table>]|
 ||||

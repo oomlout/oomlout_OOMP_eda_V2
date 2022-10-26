@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKANALOGSWITCHADG633YRU > ADG633YRU
+# SZKANALOGSWITCHADG633YRU > Analog_Switch : ADG633YRU
 
 - ID: SYMBOL-kicad-kicad-symbols-Analog_Switch-ADG633YRU
 - Hex ID: SZKANALOGSWITCHADG633YRU
-- Name: ADG633YRU
-- Description: ADG633YRU
+- Name: Analog_Switch : ADG633YRU
+- Description: Analog_Switch : ADG633YRU
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-ADG633YRU](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-ADG633YRU)
 - Short Link: [http://oom.lt/SZKANALOGSWITCHADG633YRU](http://oom.lt/SZKANALOGSWITCHADG633YRU)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ADG633YRU|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_Switch-ADG633YRU|
 |Hex ID (short code)|hexID|SZKANALOGSWITCHADG633YRU|
-|name|name|ADG633YRU|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ADG633YRU', 'kicadSymbolFootprint': 'Package_SO:TSSOP-20_4.4x6.5mm_P0.65mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/ADG633.pdf', 'kicadSymbolki_keywords': 'CMOS Analog Switch', 'kicadSymbolki_description': 'Triple SPDT CMOS Analog Switch, 52Ohm Ron, TSSOP-16', 'kicadSymbolki_fp_filters': 'TSSOP*4.4x6.5mm*P0.65mm*'}]|
+|name|name|Analog_Switch : ADG633YRU|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ADG633YRU'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>TSSOP-20_4.4x6.5mm_P0.65mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/ADG633.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'CMOS Analog Switch'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Triple SPDT CMOS Analog Switch</td><td> 52Ohm Ron</td><td> TSSOP-16'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TSSOP*4.4x6.5mm*P0.65mm*'</td></tr></table>]|
 ||||

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SON-Texas_X2SON-4_1x1mm_P0.65mm|
 |Hex ID (short code)|hexID|FZKSONTEXASX2SON41X1P65|
 |name|name|Package_SON : Texas_X2SON-4_1x1mm_P0.65mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Texas_X2SON-4_1x1mm_P0.65mm', 'description': 'X2SON 5 pin 1x1mm package (Reference Datasheet: http://www.ti.com/lit/ds/sbvs193d/sbvs193d.pdf Reference part: TPS383x) [StepUp generated footprint]', 'tags': 'X2SON', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SON.3dshapes/Texas_X2SON-4_1x1mm_P0.65mm.wrl', 'pins': {'type': 'smd', 'shape': 'custom'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Texas_X2SON-4_1x1mm_P0.65mm'</td><td> 'description'</td></tr><tr><td> 'X2SON 5 pin 1x1mm package (Reference Datasheet</td></tr><tr><td> http</td></tr><tr><td>//www.ti.com/lit/ds/sbvs193d/sbvs193d.pdf Reference part</td></tr><tr><td> TPS383x) [StepUp generated footprint]'</td><td> 'tags'</td></tr><tr><td> 'X2SON'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_SON.3dshapes/Texas_X2SON-4_1x1mm_P0.65mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'custom'</td></tr></table></td></tr></table>|
 ||||
 
 

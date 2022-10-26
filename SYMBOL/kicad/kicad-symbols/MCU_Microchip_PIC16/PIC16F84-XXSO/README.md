@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUMCHIPPIC16PIC16F84XXSO > PIC16F84-XXSO
+# SZKMCUMCHIPPIC16PIC16F84XXSO > MCU_Microchip_PIC16 : PIC16F84-XXSO
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F84-XXSO
 - Hex ID: SZKMCUMCHIPPIC16PIC16F84XXSO
-- Name: PIC16F84-XXSO
-- Description: PIC16F84-XXSO
+- Name: MCU_Microchip_PIC16 : PIC16F84-XXSO
+- Description: MCU_Microchip_PIC16 : PIC16F84-XXSO
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F84-XXSO](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F84-XXSO)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC16PIC16F84XXSO](http://oom.lt/SZKMCUMCHIPPIC16PIC16F84XXSO)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PIC16F84-XXSO|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F84-XXSO|
 |Hex ID (short code)|hexID|SZKMCUMCHIPPIC16PIC16F84XXSO|
-|name|name|PIC16F84-XXSO|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'PIC16F83-XXSO', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PIC16F84-XXSO', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/30430c.pdf', 'kicadSymbolki_keywords': 'Flash-Based 8-Bit Microcontroller', 'kicadSymbolki_description': 'PIC16F84, 1KB Flash, 68B SRAM, 64B EEPROM, SOIC18', 'kicadSymbolki_fp_filters': 'SO*'}]|
+|name|name|MCU_Microchip_PIC16 : PIC16F84-XXSO|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'PIC16F83-XXSO'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'PIC16F84-XXSO'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/30430c.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Flash-Based 8-Bit Microcontroller'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'PIC16F84</td><td> 1KB Flash</td><td> 68B SRAM</td><td> 64B EEPROM</td><td> SOIC18'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SO*'</td></tr></table>]|
 ||||

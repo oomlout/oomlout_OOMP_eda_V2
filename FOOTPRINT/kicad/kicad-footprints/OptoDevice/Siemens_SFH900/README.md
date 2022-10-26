@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-OptoDevice-Siemens_SFH900|
 |Hex ID (short code)|hexID|FZKOPSIEMENSSFH9|
 |name|name|OptoDevice : Siemens_SFH900|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Siemens_SFH900', 'description': 'package for Siemens SFH900 reflex photo interrupter/coupler/object detector, see https://www.batronix.com/pdf/sfh900.pdf', 'tags': 'Siemens SFH900 reflex photo interrupter coupler object detector', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/Siemens_SFH900.wrl', 'pins': {'type': 'thru_hole', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Siemens_SFH900'</td><td> 'description'</td></tr><tr><td> 'package for Siemens SFH900 reflex photo interrupter/coupler/object detector</td><td> see https</td></tr><tr><td>//www.batronix.com/pdf/sfh900.pdf'</td><td> 'tags'</td></tr><tr><td> 'Siemens SFH900 reflex photo interrupter coupler object detector'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/OptoDevice.3dshapes/Siemens_SFH900.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

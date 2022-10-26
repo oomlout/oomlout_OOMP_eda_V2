@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORSWITCHINGLM2576HVT15 > LM2576HVT-15
+# SZKREGULATORSWITCHINGLM2576HVT15 > Regulator_Switching : LM2576HVT-15
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM2576HVT-15
 - Hex ID: SZKREGULATORSWITCHINGLM2576HVT15
-- Name: LM2576HVT-15
-- Description: LM2576HVT-15
+- Name: Regulator_Switching : LM2576HVT-15
+- Description: Regulator_Switching : LM2576HVT-15
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM2576HVT-15](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM2576HVT-15)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGLM2576HVT15](http://oom.lt/SZKREGULATORSWITCHINGLM2576HVT15)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM2576HVT-15|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM2576HVT-15|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGLM2576HVT15|
-|name|name|LM2576HVT-15|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LM2576HVT-12', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM2576HVT-15', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-220-5_Vertical', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lm2576.pdf', 'kicadSymbolki_keywords': 'Step-Down Voltage Regulator 15V 3A High Voltage', 'kicadSymbolki_description': '15V, 3A SIMPLE SWITCHER® Step-Down Voltage Regulator, High Voltage Input, TO-220-5', 'kicadSymbolki_fp_filters': 'TO?220*'}]|
+|name|name|Regulator_Switching : LM2576HVT-15|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'LM2576HVT-12'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LM2576HVT-15'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_THT</td></tr><tr><td>TO-220-5_Vertical'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/lm2576.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Step-Down Voltage Regulator 15V 3A High Voltage'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '15V</td><td> 3A SIMPLE SWITCHER® Step-Down Voltage Regulator</td><td> High Voltage Input</td><td> TO-220-5'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TO?220*'</td></tr></table>]|
 ||||

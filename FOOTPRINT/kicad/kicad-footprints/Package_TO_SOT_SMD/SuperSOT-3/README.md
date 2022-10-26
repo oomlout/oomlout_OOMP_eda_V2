@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SuperSOT-3|
 |Hex ID (short code)|hexID|FZKPACKAGETOSOTSMSUPERSOT3|
 |name|name|Package_TO_SOT_SMD : SuperSOT-3|
-|Footprint Kicad|footprintKicadDetails|{'name': 'SuperSOT-3', 'description': '3-pin SuperSOT package https://www.fairchildsemi.com/package-drawings/MA/MA03B.pdf', 'tags': 'SuperSOT-3 SSOT-3', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SuperSOT-3.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SuperSOT-3'</td><td> 'description'</td></tr><tr><td> '3-pin SuperSOT package https</td></tr><tr><td>//www.fairchildsemi.com/package-drawings/MA/MA03B.pdf'</td><td> 'tags'</td></tr><tr><td> 'SuperSOT-3 SSOT-3'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_TO_SOT_SMD.3dshapes/SuperSOT-3.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

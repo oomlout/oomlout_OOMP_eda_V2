@@ -29,5 +29,5 @@ NO IMAGE
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Symbol-CE-Logo_56.1x40mm_SilkScreen|
 |Hex ID (short code)|hexID|FZKSZCEL561X4SILKSCREEN|
 |name|name|Symbol : CE-Logo_56.1x40mm_SilkScreen|
-|Footprint Kicad|footprintKicadDetails|{'name': 'CE-Logo_56.1x40mm_SilkScreen', 'description': 'CE marking', 'tags': 'Logo CE certification', 'attributeType': None, 'pins': {}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'CE-Logo_56.1x40mm_SilkScreen'</td><td> 'description'</td></tr><tr><td> 'CE marking'</td><td> 'tags'</td></tr><tr><td> 'Logo CE certification'</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td></td></tr></table></td></tr></table>|
 ||||

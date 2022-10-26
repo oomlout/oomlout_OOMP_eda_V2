@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Diodes_UDFN2020-6_Type-F|
 |Hex ID (short code)|hexID|FZKDFNDIODESUDFN226TYPEF|
 |name|name|Package_DFN_QFN : Diodes_UDFN2020-6_Type-F|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Diodes_UDFN2020-6_Type-F', 'description': 'U-DFN2020-6 (Type F) (https://www.diodes.com/assets/Package-Files/U-DFN2020-6-Type-F.pdf) ', 'tags': 'U-DFN2020-6 (Type F)', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Diodes_UDFN2020-6_Type-F.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Diodes_UDFN2020-6_Type-F'</td><td> 'description'</td></tr><tr><td> 'U-DFN2020-6 (Type F) (https</td></tr><tr><td>//www.diodes.com/assets/Package-Files/U-DFN2020-6-Type-F.pdf) '</td><td> 'tags'</td></tr><tr><td> 'U-DFN2020-6 (Type F)'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DFN_QFN.3dshapes/Diodes_UDFN2020-6_Type-F.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

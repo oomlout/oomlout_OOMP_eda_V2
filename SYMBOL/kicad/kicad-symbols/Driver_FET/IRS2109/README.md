@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDRIVERFETIRS219 > IRS2109
+# SZKDRIVERFETIRS219 > Driver_FET : IRS2109
 
 - ID: SYMBOL-kicad-kicad-symbols-Driver_FET-IRS2109
 - Hex ID: SZKDRIVERFETIRS219
-- Name: IRS2109
-- Description: IRS2109
+- Name: Driver_FET : IRS2109
+- Description: Driver_FET : IRS2109
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-IRS2109](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-IRS2109)
 - Short Link: [http://oom.lt/SZKDRIVERFETIRS219](http://oom.lt/SZKDRIVERFETIRS219)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IRS2109|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Driver_FET-IRS2109|
 |Hex ID (short code)|hexID|SZKDRIVERFETIRS219|
-|name|name|IRS2109|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'IR2104', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'IRS2109', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.infineon.com/dgdl/irs2109.pdf?fileId=5546d462533600a401535676508f27ab', 'kicadSymbolki_keywords': 'Gate Driver', 'kicadSymbolki_description': 'Half-Bridge Driver, 600V, 290/600mA, PDIP-8/SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm* DIP*W7.62mm*'}]|
+|name|name|Driver_FET : IRS2109|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'IR2104'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'IRS2109'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.infineon.com/dgdl/irs2109.pdf?fileId=5546d462533600a401535676508f27ab'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Gate Driver'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Half-Bridge Driver</td><td> 600V</td><td> 290/600mA</td><td> PDIP-8/SOIC-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*3.9x4.9mm*P1.27mm* DIP*W7.62mm*'</td></tr></table>]|
 ||||

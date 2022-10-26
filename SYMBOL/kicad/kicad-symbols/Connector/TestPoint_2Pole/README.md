@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKCNTP2POLE > TestPoint_2Pole
+# SZKCNTP2POLE > Connector : TestPoint_2Pole
 
 - ID: SYMBOL-kicad-kicad-symbols-Connector-TestPoint_2Pole
 - Hex ID: SZKCNTP2POLE
-- Name: TestPoint_2Pole
-- Description: TestPoint_2Pole
+- Name: Connector : TestPoint_2Pole
+- Description: Connector : TestPoint_2Pole
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-TestPoint_2Pole](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-TestPoint_2Pole)
 - Short Link: [http://oom.lt/SZKCNTP2POLE](http://oom.lt/SZKCNTP2POLE)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TestPoint_2Pole|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-TestPoint_2Pole|
 |Hex ID (short code)|hexID|SZKCNTP2POLE|
-|name|name|TestPoint_2Pole|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'TP', 'kicadSymbolValue': 'TestPoint_2Pole', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'point tp', 'kicadSymbolki_description': '2-polar test point', 'kicadSymbolki_fp_filters': 'Pin* Test*'}]|
+|name|name|Connector : TestPoint_2Pole|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'TP'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TestPoint_2Pole'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'point tp'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '2-polar test point'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Pin* Test*'</td></tr></table>]|
 ||||

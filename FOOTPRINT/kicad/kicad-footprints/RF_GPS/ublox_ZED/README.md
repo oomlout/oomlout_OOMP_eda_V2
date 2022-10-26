@@ -29,5 +29,5 @@ NO IMAGE
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-RF_GPS-ublox_ZED|
 |Hex ID (short code)|hexID|FZKGPSUBLOXZED|
 |name|name|RF_GPS : ublox_ZED|
-|Footprint Kicad|footprintKicadDetails|{'name': 'ublox_ZED', 'description': 'ublox ZED-F9, https://www.u-blox.com/sites/default/files/ZED-F9P_DataSheet_%28UBX-17051259%29.pdf', 'tags': 'GPS GNSS ublox ZED', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/RF_GPS.3dshapes/ublox_ZED.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'ublox_ZED'</td><td> 'description'</td></tr><tr><td> 'ublox ZED-F9</td><td> https</td></tr><tr><td>//www.u-blox.com/sites/default/files/ZED-F9P_DataSheet_%28UBX-17051259%29.pdf'</td><td> 'tags'</td></tr><tr><td> 'GPS GNSS ublox ZED'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/RF_GPS.3dshapes/ublox_ZED.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

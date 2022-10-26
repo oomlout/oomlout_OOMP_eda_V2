@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Display-Adafruit_SSD1306|
 |Hex ID (short code)|hexID|FZKDIADASSD136|
 |name|name|Display : Adafruit_SSD1306|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Adafruit_SSD1306', 'description': 'Adafruit SSD1306 OLED 1.3 inch 128x64 I2C & SPI https://learn.adafruit.com/monochrome-oled-breakouts/downloads', 'tags': 'Adafruit SSD1306 OLED 1.3 inch 128x64 I2C & SPI ', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Display.3dshapes/Adafruit_SSD1306.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Adafruit_SSD1306'</td><td> 'description'</td></tr><tr><td> 'Adafruit SSD1306 OLED 1.3 inch 128x64 I2C & SPI https</td></tr><tr><td>//learn.adafruit.com/monochrome-oled-breakouts/downloads'</td><td> 'tags'</td></tr><tr><td> 'Adafruit SSD1306 OLED 1.3 inch 128x64 I2C & SPI '</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Display.3dshapes/Adafruit_SSD1306.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

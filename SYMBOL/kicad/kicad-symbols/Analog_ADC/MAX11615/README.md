@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKANALOGADCMAX11615 > MAX11615
+# SZKANALOGADCMAX11615 > Analog_ADC : MAX11615
 
 - ID: SYMBOL-kicad-kicad-symbols-Analog_ADC-MAX11615
 - Hex ID: SZKANALOGADCMAX11615
-- Name: MAX11615
-- Description: MAX11615
+- Name: Analog_ADC : MAX11615
+- Description: Analog_ADC : MAX11615
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-MAX11615](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-MAX11615)
 - Short Link: [http://oom.lt/SZKANALOGADCMAX11615](http://oom.lt/SZKANALOGADCMAX11615)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MAX11615|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_ADC-MAX11615|
 |Hex ID (short code)|hexID|SZKANALOGADCMAX11615|
-|name|name|MAX11615|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MAX11614', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MAX11615', 'kicadSymbolFootprint': 'Package_SO:QSOP-16_3.9x4.9mm_P0.635mm', 'kicadSymbolDatasheet': 'https://datasheets.maximintegrated.com/en/ds/MAX11612-MAX11617.pdf', 'kicadSymbolki_keywords': 'adc i2c 8ch', 'kicadSymbolki_description': '8-channel single-ended or 4-channel, differential, 12-bit ADC, I2C, 2.048V internal reference, 16-QSOP package', 'kicadSymbolki_fp_filters': 'QSOP*3.9x4.9mm*P0.635mm*'}]|
+|name|name|Analog_ADC : MAX11615|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'MAX11614'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MAX11615'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>QSOP-16_3.9x4.9mm_P0.635mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//datasheets.maximintegrated.com/en/ds/MAX11612-MAX11617.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'adc i2c 8ch'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '8-channel single-ended or 4-channel</td><td> differential</td><td> 12-bit ADC</td><td> I2C</td><td> 2.048V internal reference</td><td> 16-QSOP package'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'QSOP*3.9x4.9mm*P0.635mm*'</td></tr></table>]|
 ||||

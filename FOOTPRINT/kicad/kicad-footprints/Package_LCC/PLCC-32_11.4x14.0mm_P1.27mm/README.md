@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_LCC-PLCC-32_11.4x14.0mm_P1.27mm|
 |Hex ID (short code)|hexID|FZKLCCPLCC32114X14P127|
 |name|name|Package_LCC : PLCC-32_11.4x14.0mm_P1.27mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'PLCC-32_11.4x14.0mm_P1.27mm', 'description': 'PLCC, 32 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/doc0015.pdf), generated with kicad-footprint-generator ipc_plcc_jLead_generator.py', 'tags': 'PLCC LCC', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_LCC.3dshapes/PLCC-32_11.4x14.0mm_P1.27mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'PLCC-32_11.4x14.0mm_P1.27mm'</td><td> 'description'</td></tr><tr><td> 'PLCC</td><td> 32 Pin (http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/doc0015.pdf)</td><td> generated with kicad-footprint-generator ipc_plcc_jLead_generator.py'</td><td> 'tags'</td></tr><tr><td> 'PLCC LCC'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_LCC.3dshapes/PLCC-32_11.4x14.0mm_P1.27mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

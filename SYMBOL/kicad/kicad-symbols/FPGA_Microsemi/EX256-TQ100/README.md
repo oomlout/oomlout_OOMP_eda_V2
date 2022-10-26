@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKFPGAMSEMIEX256TQ1 > EX256-TQ100
+# SZKFPGAMSEMIEX256TQ1 > FPGA_Microsemi : EX256-TQ100
 
 - ID: SYMBOL-kicad-kicad-symbols-FPGA_Microsemi-EX256-TQ100
 - Hex ID: SZKFPGAMSEMIEX256TQ1
-- Name: EX256-TQ100
-- Description: EX256-TQ100
+- Name: FPGA_Microsemi : EX256-TQ100
+- Description: FPGA_Microsemi : EX256-TQ100
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Microsemi-EX256-TQ100](http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Microsemi-EX256-TQ100)
 - Short Link: [http://oom.lt/SZKFPGAMSEMIEX256TQ1](http://oom.lt/SZKFPGAMSEMIEX256TQ1)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|EX256-TQ100|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-FPGA_Microsemi-EX256-TQ100|
 |Hex ID (short code)|hexID|SZKFPGAMSEMIEX256TQ1|
-|name|name|EX256-TQ100|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'EX256-TQ100', 'kicadSymbolFootprint': 'Package_QFP:TQFP-100_14x14mm_P0.5mm', 'kicadSymbolDatasheet': 'http://www.microsemi.com/document-portal/doc_download/130687-ex-datasheet', 'kicadSymbolki_keywords': 'Actel FPGA eX eX256', 'kicadSymbolki_description': 'Actel eX FPGA Family, 100pin QFP', 'kicadSymbolki_fp_filters': '*QFP*14x14mm*P0.5mm*'}]|
+|name|name|FPGA_Microsemi : EX256-TQ100|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'EX256-TQ100'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_QFP</td></tr><tr><td>TQFP-100_14x14mm_P0.5mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.microsemi.com/document-portal/doc_download/130687-ex-datasheet'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Actel FPGA eX eX256'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Actel eX FPGA Family</td><td> 100pin QFP'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> '*QFP*14x14mm*P0.5mm*'</td></tr></table>]|
 ||||

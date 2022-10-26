@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_BGA-BGA-144_13.0x13.0mm_Layout12x12_P1.0mm|
 |Hex ID (short code)|hexID|FZKBGABGA14413X13LAYOUT12X12P1|
 |name|name|Package_BGA : BGA-144_13.0x13.0mm_Layout12x12_P1.0mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'BGA-144_13.0x13.0mm_Layout12x12_P1.0mm', 'description': 'BGA-144, http://www.topline.tv/drawings/pdf/BGA%201,0mm%20pitch/LBGA144T1.0-DC128.pdf', 'tags': 'BGA-144', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/BGA-144_13.0x13.0mm_Layout12x12_P1.0mm.wrl', 'pins': {'type': 'smd', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'BGA-144_13.0x13.0mm_Layout12x12_P1.0mm'</td><td> 'description'</td></tr><tr><td> 'BGA-144</td><td> http</td></tr><tr><td>//www.topline.tv/drawings/pdf/BGA%201</td><td>0mm%20pitch/LBGA144T1.0-DC128.pdf'</td><td> 'tags'</td></tr><tr><td> 'BGA-144'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_BGA.3dshapes/BGA-144_13.0x13.0mm_Layout12x12_P1.0mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

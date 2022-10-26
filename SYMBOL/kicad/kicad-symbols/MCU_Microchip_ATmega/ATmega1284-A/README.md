@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUMCHIPATMEGAATMEGA1284A > ATmega1284-A
+# SZKMCUMCHIPATMEGAATMEGA1284A > MCU_Microchip_ATmega : ATmega1284-A
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega1284-A
 - Hex ID: SZKMCUMCHIPATMEGAATMEGA1284A
-- Name: ATmega1284-A
-- Description: ATmega1284-A
+- Name: MCU_Microchip_ATmega : ATmega1284-A
+- Description: MCU_Microchip_ATmega : ATmega1284-A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega1284-A](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega1284-A)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATMEGAATMEGA1284A](http://oom.lt/SZKMCUMCHIPATMEGAATMEGA1284A)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ATmega1284-A|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega1284-A|
 |Hex ID (short code)|hexID|SZKMCUMCHIPATMEGAATMEGA1284A|
-|name|name|ATmega1284-A|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ATmega164A-A', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ATmega1284-A', 'kicadSymbolFootprint': 'Package_QFP:TQFP-44_10x10mm_P0.8mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-8272-8-bit-AVR-microcontroller-ATmega164A_PA-324A_PA-644A_PA-1284_P_datasheet.pdf', 'kicadSymbolki_keywords': 'AVR 8bit Microcontroller MegaAVR', 'kicadSymbolki_description': '20MHz, 128kB Flash, 16kB SRAM, 4kB EEPROM, JTAG, TQFP-44', 'kicadSymbolki_fp_filters': 'TQFP*10x10mm*P0.8mm*'}]|
+|name|name|MCU_Microchip_ATmega : ATmega1284-A|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'ATmega164A-A'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ATmega1284-A'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_QFP</td></tr><tr><td>TQFP-44_10x10mm_P0.8mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/Atmel-8272-8-bit-AVR-microcontroller-ATmega164A_PA-324A_PA-644A_PA-1284_P_datasheet.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'AVR 8bit Microcontroller MegaAVR'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '20MHz</td><td> 128kB Flash</td><td> 16kB SRAM</td><td> 4kB EEPROM</td><td> JTAG</td><td> TQFP-44'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TQFP*10x10mm*P0.8mm*'</td></tr></table>]|
 ||||

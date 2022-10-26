@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKINTERFACECANLINTJA143TK > TJA1043TK
+# SZKINTERFACECANLINTJA143TK > Interface_CAN_LIN : TJA1043TK
 
 - ID: SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-TJA1043TK
 - Hex ID: SZKINTERFACECANLINTJA143TK
-- Name: TJA1043TK
-- Description: TJA1043TK
+- Name: Interface_CAN_LIN : TJA1043TK
+- Description: Interface_CAN_LIN : TJA1043TK
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-TJA1043TK](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-TJA1043TK)
 - Short Link: [http://oom.lt/SZKINTERFACECANLINTJA143TK](http://oom.lt/SZKINTERFACECANLINTJA143TK)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TJA1043TK|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-TJA1043TK|
 |Hex ID (short code)|hexID|SZKINTERFACECANLINTJA143TK|
-|name|name|TJA1043TK|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TJA1043TK', 'kicadSymbolFootprint': 'Package_DFN_QFN:DFN-14-1EP_3x4.5mm_P0.65mm_EP1.65x4.25mm', 'kicadSymbolDatasheet': 'https://www.nxp.com/docs/en/data-sheet/TJA1043.pdf', 'kicadSymbolki_keywords': 'CAN FD High Speed CAN Transceiver Sleep Split-Pin VIO', 'kicadSymbolki_description': 'High-speed CAN-FD Transceiver with Sleep Mode, HVSON-14', 'kicadSymbolki_fp_filters': 'DFN*1EP*3x4.5mm*P0.65mm*'}]|
+|name|name|Interface_CAN_LIN : TJA1043TK|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TJA1043TK'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>DFN-14-1EP_3x4.5mm_P0.65mm_EP1.65x4.25mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.nxp.com/docs/en/data-sheet/TJA1043.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'CAN FD High Speed CAN Transceiver Sleep Split-Pin VIO'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'High-speed CAN-FD Transceiver with Sleep Mode</td><td> HVSON-14'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DFN*1EP*3x4.5mm*P0.65mm*'</td></tr></table>]|
 ||||

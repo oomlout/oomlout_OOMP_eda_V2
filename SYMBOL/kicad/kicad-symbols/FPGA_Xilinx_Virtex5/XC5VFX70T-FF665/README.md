@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKFPGAXILINXVIRTEX5XC5VFX7TFF665 > XC5VFX70T-FF665
+# SZKFPGAXILINXVIRTEX5XC5VFX7TFF665 > FPGA_Xilinx_Virtex5 : XC5VFX70T-FF665
 
 - ID: SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Virtex5-XC5VFX70T-FF665
 - Hex ID: SZKFPGAXILINXVIRTEX5XC5VFX7TFF665
-- Name: XC5VFX70T-FF665
-- Description: XC5VFX70T-FF665
+- Name: FPGA_Xilinx_Virtex5 : XC5VFX70T-FF665
+- Description: FPGA_Xilinx_Virtex5 : XC5VFX70T-FF665
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Virtex5-XC5VFX70T-FF665](http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Virtex5-XC5VFX70T-FF665)
 - Short Link: [http://oom.lt/SZKFPGAXILINXVIRTEX5XC5VFX7TFF665](http://oom.lt/SZKFPGAXILINXVIRTEX5XC5VFX7TFF665)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|XC5VFX70T-FF665|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Virtex5-XC5VFX70T-FF665|
 |Hex ID (short code)|hexID|SZKFPGAXILINXVIRTEX5XC5VFX7TFF665|
-|name|name|XC5VFX70T-FF665|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'XC5VFX70T-FF665', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'FPGA', 'kicadSymbolki_description': 'Virtex 5 FXT 70 XC5VFX70T-FF665'}]|
+|name|name|FPGA_Xilinx_Virtex5 : XC5VFX70T-FF665|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'XC5VFX70T-FF665'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_locked'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'FPGA'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Virtex 5 FXT 70 XC5VFX70T-FF665'</td></tr></table>]|
 ||||

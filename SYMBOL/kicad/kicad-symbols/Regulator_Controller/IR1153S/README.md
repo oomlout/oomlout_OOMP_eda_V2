@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORCONTROLLERIR1153S > IR1153S
+# SZKREGULATORCONTROLLERIR1153S > Regulator_Controller : IR1153S
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Controller-IR1153S
 - Hex ID: SZKREGULATORCONTROLLERIR1153S
-- Name: IR1153S
-- Description: IR1153S
+- Name: Regulator_Controller : IR1153S
+- Description: Regulator_Controller : IR1153S
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-IR1153S](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-IR1153S)
 - Short Link: [http://oom.lt/SZKREGULATORCONTROLLERIR1153S](http://oom.lt/SZKREGULATORCONTROLLERIR1153S)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IR1153S|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Controller-IR1153S|
 |Hex ID (short code)|hexID|SZKREGULATORCONTROLLERIR1153S|
-|name|name|IR1153S|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'IR1153S', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm', 'kicadSymbolDatasheet': 'https://www.infineon.com/dgdl/ir1153.pdf?fileId=5546d462533600a4015355c42a5b1649', 'kicadSymbolki_keywords': 'pfc controller ccm', 'kicadSymbolki_description': 'Fixed 22.2kHz Frequency, uPFC One Cycle Control IC With Brown-Out Protection, Continuous Conduction Mode, SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm*'}]|
+|name|name|Regulator_Controller : IR1153S|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'IR1153S'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-8_3.9x4.9mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.infineon.com/dgdl/ir1153.pdf?fileId=5546d462533600a4015355c42a5b1649'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'pfc controller ccm'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Fixed 22.2kHz Frequency</td><td> uPFC One Cycle Control IC With Brown-Out Protection</td><td> Continuous Conduction Mode</td><td> SOIC-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*3.9x4.9mm*P1.27mm*'</td></tr></table>]|
 ||||

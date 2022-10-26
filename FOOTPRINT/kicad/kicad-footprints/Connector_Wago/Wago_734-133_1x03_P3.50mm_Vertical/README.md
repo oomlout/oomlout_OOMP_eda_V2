@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Wago-Wago_734-133_1x03_P3.50mm_Vertical|
 |Hex ID (short code)|hexID|FZKCNWAGOWAGO7341331X3P35VERTICAL|
 |name|name|Connector_Wago : Wago_734-133_1x03_P3.50mm_Vertical|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Wago_734-133_1x03_P3.50mm_Vertical', 'description': 'Molex 734 Male header (for PCBs); Straight solder pin 1 x 1 mm, 734-133 , 3 Pins (http://www.farnell.com/datasheets/2157639.pdf), generated with kicad-footprint-generator', 'tags': 'connector Wago  side entry', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_Wago.3dshapes/Wago_734-133_1x03_P3.50mm_Vertical.wrl', 'pins': {'type': 'thru_hole', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Wago_734-133_1x03_P3.50mm_Vertical'</td><td> 'description'</td></tr><tr><td> 'Molex 734 Male header (for PCBs); Straight solder pin 1 x 1 mm</td><td> 734-133 </td><td> 3 Pins (http</td></tr><tr><td>//www.farnell.com/datasheets/2157639.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'connector Wago  side entry'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_Wago.3dshapes/Wago_734-133_1x03_P3.50mm_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

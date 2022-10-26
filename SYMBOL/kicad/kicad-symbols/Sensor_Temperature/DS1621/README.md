@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKSENTEMPERATUREDS1621 > DS1621
+# SZKSENTEMPERATUREDS1621 > Sensor_Temperature : DS1621
 
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Temperature-DS1621
 - Hex ID: SZKSENTEMPERATUREDS1621
-- Name: DS1621
-- Description: DS1621
+- Name: Sensor_Temperature : DS1621
+- Description: Sensor_Temperature : DS1621
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-DS1621](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-DS1621)
 - Short Link: [http://oom.lt/SZKSENTEMPERATUREDS1621](http://oom.lt/SZKSENTEMPERATUREDS1621)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DS1621|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Temperature-DS1621|
 |Hex ID (short code)|hexID|SZKSENTEMPERATUREDS1621|
-|name|name|DS1621|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'DS1621', 'kicadSymbolFootprint': 'Package_DIP:DIP-8_W7.62mm', 'kicadSymbolDatasheet': 'https://datasheets.maximintegrated.com/en/ds/DS1621.pdf', 'kicadSymbolki_keywords': 'OneWire 1-Wire 1Wire Maxim Dallas', 'kicadSymbolki_description': '1-Wire Digital Thermometer and Thermostat, DIP-8', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
+|name|name|Sensor_Temperature : DS1621|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'DS1621'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>DIP-8_W7.62mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//datasheets.maximintegrated.com/en/ds/DS1621.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'OneWire 1-Wire 1Wire Maxim Dallas'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '1-Wire Digital Thermometer and Thermostat</td><td> DIP-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W7.62mm*'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUMCHIPPIC16PIC16LF18325XGZ > PIC16LF18325-xGZ
+# SZKMCUMCHIPPIC16PIC16LF18325XGZ > MCU_Microchip_PIC16 : PIC16LF18325-xGZ
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16LF18325-xGZ
 - Hex ID: SZKMCUMCHIPPIC16PIC16LF18325XGZ
-- Name: PIC16LF18325-xGZ
-- Description: PIC16LF18325-xGZ
+- Name: MCU_Microchip_PIC16 : PIC16LF18325-xGZ
+- Description: MCU_Microchip_PIC16 : PIC16LF18325-xGZ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16LF18325-xGZ](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16LF18325-xGZ)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC16PIC16LF18325XGZ](http://oom.lt/SZKMCUMCHIPPIC16PIC16LF18325XGZ)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PIC16LF18325-xGZ|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16LF18325-xGZ|
 |Hex ID (short code)|hexID|SZKMCUMCHIPPIC16PIC16LF18325XGZ|
-|name|name|PIC16LF18325-xGZ|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'PIC16F18325-xGZ', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PIC16LF18325-xGZ', 'kicadSymbolFootprint': 'Package_DFN_QFN:UQFN-20-1EP_4x4mm_P0.5mm_EP2.8x2.8mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/40001795E.pdf', 'kicadSymbolki_keywords': 'FLASH-Based 8-Bit CMOS Microcontroller Low Power', 'kicadSymbolki_description': '8192W FLASH, 1024B SRAM, 256B EEPROM, QFN-20', 'kicadSymbolki_fp_filters': 'UQFN*1EP*4x4mm*P0.5mm*'}]|
+|name|name|MCU_Microchip_PIC16 : PIC16LF18325-xGZ|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'PIC16F18325-xGZ'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'PIC16LF18325-xGZ'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>UQFN-20-1EP_4x4mm_P0.5mm_EP2.8x2.8mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/40001795E.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'FLASH-Based 8-Bit CMOS Microcontroller Low Power'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '8192W FLASH</td><td> 1024B SRAM</td><td> 256B EEPROM</td><td> QFN-20'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'UQFN*1EP*4x4mm*P0.5mm*'</td></tr></table>]|
 ||||

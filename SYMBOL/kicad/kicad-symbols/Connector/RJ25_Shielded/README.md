@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKCNRJ25SHED > RJ25_Shielded
+# SZKCNRJ25SHED > Connector : RJ25_Shielded
 
 - ID: SYMBOL-kicad-kicad-symbols-Connector-RJ25_Shielded
 - Hex ID: SZKCNRJ25SHED
-- Name: RJ25_Shielded
-- Description: RJ25_Shielded
+- Name: Connector : RJ25_Shielded
+- Description: Connector : RJ25_Shielded
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-RJ25_Shielded](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-RJ25_Shielded)
 - Short Link: [http://oom.lt/SZKCNRJ25SHED](http://oom.lt/SZKCNRJ25SHED)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|RJ25_Shielded|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-RJ25_Shielded|
 |Hex ID (short code)|hexID|SZKCNRJ25SHED|
-|name|name|RJ25_Shielded|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '6P6C_Shielded', 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'RJ25_Shielded', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': '6P6C RJ female connector', 'kicadSymbolki_description': 'RJ connector, 6P6C (6 positions 6 connected), Shielded', 'kicadSymbolki_fp_filters': '6P6C* RJ12* RJ18* RJ25*'}]|
+|name|name|Connector : RJ25_Shielded|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> '6P6C_Shielded'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'J'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'RJ25_Shielded'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> '6P6C RJ female connector'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'RJ connector</td><td> 6P6C (6 positions 6 connected)</td><td> Shielded'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> '6P6C* RJ12* RJ18* RJ25*'</td></tr></table>]|
 ||||

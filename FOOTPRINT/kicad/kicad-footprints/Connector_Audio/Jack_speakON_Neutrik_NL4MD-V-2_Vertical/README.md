@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_speakON_Neutrik_NL4MD-V-2_Vertical|
 |Hex ID (short code)|hexID|FZKCNAUDIOJSPEAKONNEUTRIKNL4MDV2VERTICAL|
 |name|name|Connector_Audio : Jack_speakON_Neutrik_NL4MD-V-2_Vertical|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Jack_speakON_Neutrik_NL4MD-V-2_Vertical', 'description': 'speakON Chassis Connectors, 4 pole chassis connector, black D-size flange, mirrored self tapping screw holes (A-screw), vertical PCB mount, https://www.neutrik.com/en/product/nl4md-v-2', 'tags': 'neutrik speakon', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_Audio.3dshapes/Jack_speakON_Neutrik_NL4MD-V-2_Vertical.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Jack_speakON_Neutrik_NL4MD-V-2_Vertical'</td><td> 'description'</td></tr><tr><td> 'speakON Chassis Connectors</td><td> 4 pole chassis connector</td><td> black D-size flange</td><td> mirrored self tapping screw holes (A-screw)</td><td> vertical PCB mount</td><td> https</td></tr><tr><td>//www.neutrik.com/en/product/nl4md-v-2'</td><td> 'tags'</td></tr><tr><td> 'neutrik speakon'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_Audio.3dshapes/Jack_speakON_Neutrik_NL4MD-V-2_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

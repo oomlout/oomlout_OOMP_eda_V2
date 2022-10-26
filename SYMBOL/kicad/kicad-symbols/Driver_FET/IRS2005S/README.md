@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDRIVERFETIRS25S > IRS2005S
+# SZKDRIVERFETIRS25S > Driver_FET : IRS2005S
 
 - ID: SYMBOL-kicad-kicad-symbols-Driver_FET-IRS2005S
 - Hex ID: SZKDRIVERFETIRS25S
-- Name: IRS2005S
-- Description: IRS2005S
+- Name: Driver_FET : IRS2005S
+- Description: Driver_FET : IRS2005S
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-IRS2005S](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-IRS2005S)
 - Short Link: [http://oom.lt/SZKDRIVERFETIRS25S](http://oom.lt/SZKDRIVERFETIRS25S)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IRS2005S|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Driver_FET-IRS2005S|
 |Hex ID (short code)|hexID|SZKDRIVERFETIRS25S|
-|name|name|IRS2005S|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'IR25604S', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'IRS2005S', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm', 'kicadSymbolDatasheet': 'https://www.infineon.com/dgdl/Infineon-IRS2005S-DS-v02_00-EN.pdf?fileId=5546d462533600a4015364c4246229e1', 'kicadSymbolki_keywords': 'Gate Driver', 'kicadSymbolki_description': 'High and Low Side Driver, 200V, 290/600mA, SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm*'}]|
+|name|name|Driver_FET : IRS2005S|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'IR25604S'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'IRS2005S'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-8_3.9x4.9mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.infineon.com/dgdl/Infineon-IRS2005S-DS-v02_00-EN.pdf?fileId=5546d462533600a4015364c4246229e1'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Gate Driver'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'High and Low Side Driver</td><td> 200V</td><td> 290/600mA</td><td> SOIC-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*3.9x4.9mm*P1.27mm*'</td></tr></table>]|
 ||||

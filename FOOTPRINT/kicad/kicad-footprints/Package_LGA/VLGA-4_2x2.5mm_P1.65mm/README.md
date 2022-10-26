@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_LGA-VLGA-4_2x2.5mm_P1.65mm|
 |Hex ID (short code)|hexID|FZKLGAVLGA42X25P165|
 |name|name|Package_LGA : VLGA-4_2x2.5mm_P1.65mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'VLGA-4_2x2.5mm_P1.65mm', 'description': 'VLGA, 4 Pin (https://ww1.microchip.com/downloads/en/DeviceDoc/DSC60XX-Ultra-Small-Ultra-Low-Power-MEMS-Oscillator-DS20005625C.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py', 'tags': 'VLGA NoLead', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_LGA.3dshapes/VLGA-4_2x2.5mm_P1.65mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'VLGA-4_2x2.5mm_P1.65mm'</td><td> 'description'</td></tr><tr><td> 'VLGA</td><td> 4 Pin (https</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/DSC60XX-Ultra-Small-Ultra-Low-Power-MEMS-Oscillator-DS20005625C.pdf)</td><td> generated with kicad-footprint-generator ipc_noLead_generator.py'</td><td> 'tags'</td></tr><tr><td> 'VLGA NoLead'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_LGA.3dshapes/VLGA-4_2x2.5mm_P1.65mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

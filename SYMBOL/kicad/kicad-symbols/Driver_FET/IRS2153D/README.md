@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDRIVERFETIRS2153D > IRS2153D
+# SZKDRIVERFETIRS2153D > Driver_FET : IRS2153D
 
 - ID: SYMBOL-kicad-kicad-symbols-Driver_FET-IRS2153D
 - Hex ID: SZKDRIVERFETIRS2153D
-- Name: IRS2153D
-- Description: IRS2153D
+- Name: Driver_FET : IRS2153D
+- Description: Driver_FET : IRS2153D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-IRS2153D](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-IRS2153D)
 - Short Link: [http://oom.lt/SZKDRIVERFETIRS2153D](http://oom.lt/SZKDRIVERFETIRS2153D)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IRS2153D|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Driver_FET-IRS2153D|
 |Hex ID (short code)|hexID|SZKDRIVERFETIRS2153D|
-|name|name|IRS2153D|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'IR2153', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'IRS2153D', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.infineon.com/dgdl/irs2153d.pdf?fileId=5546d462533600a401535676951e27c3', 'kicadSymbolki_keywords': 'Oscillating Gate Driver', 'kicadSymbolki_description': 'Self-Oscillating Half-Bridge Driver IC, 600V, 180/260mA, PDIP-8/SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm* DIP*W7.62mm*'}]|
+|name|name|Driver_FET : IRS2153D|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'IR2153'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'IRS2153D'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.infineon.com/dgdl/irs2153d.pdf?fileId=5546d462533600a401535676951e27c3'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Oscillating Gate Driver'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Self-Oscillating Half-Bridge Driver IC</td><td> 600V</td><td> 180/260mA</td><td> PDIP-8/SOIC-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*3.9x4.9mm*P1.27mm* DIP*W7.62mm*'</td></tr></table>]|
 ||||

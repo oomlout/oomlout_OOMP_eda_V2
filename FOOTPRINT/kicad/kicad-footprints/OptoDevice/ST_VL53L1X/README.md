@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-OptoDevice-ST_VL53L1X|
 |Hex ID (short code)|hexID|FZKOPSTVL53L1X|
 |name|name|OptoDevice : ST_VL53L1X|
-|Footprint Kicad|footprintKicadDetails|{'name': 'ST_VL53L1X', 'description': 'https://www.st.com/resource/en/datasheet/vl53l1x.pdf', 'tags': 'laser-ranging sensor', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/ST_VL53L1X.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'ST_VL53L1X'</td><td> 'description'</td></tr><tr><td> 'https</td></tr><tr><td>//www.st.com/resource/en/datasheet/vl53l1x.pdf'</td><td> 'tags'</td></tr><tr><td> 'laser-ranging sensor'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/OptoDevice.3dshapes/ST_VL53L1X.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

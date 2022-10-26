@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUSTSTM32F1STM32F1C6TX > STM32F100C6Tx
+# SZKMCUSTSTM32F1STM32F1C6TX > MCU_ST_STM32F1 : STM32F100C6Tx
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F1-STM32F100C6Tx
 - Hex ID: SZKMCUSTSTM32F1STM32F1C6TX
-- Name: STM32F100C6Tx
-- Description: STM32F100C6Tx
+- Name: MCU_ST_STM32F1 : STM32F100C6Tx
+- Description: MCU_ST_STM32F1 : STM32F100C6Tx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F1-STM32F100C6Tx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F1-STM32F100C6Tx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32F1STM32F1C6TX](http://oom.lt/SZKMCUSTSTM32F1STM32F1C6TX)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|STM32F100C6Tx|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F1-STM32F100C6Tx|
 |Hex ID (short code)|hexID|SZKMCUSTSTM32F1STM32F1C6TX|
-|name|name|STM32F100C6Tx|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'STM32F100C4Tx', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'STM32F100C6Tx', 'kicadSymbolFootprint': 'Package_QFP:LQFP-48_7x7mm_P0.5mm', 'kicadSymbolDatasheet': 'http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00251732.pdf', 'kicadSymbolki_keywords': 'ARM Cortex-M3 STM32F1 STM32F100 Value Line', 'kicadSymbolki_description': 'ARM Cortex-M3 MCU, 32KB flash, 4KB RAM, 24MHz, 2-3.6V, 37 GPIO, LQFP-48', 'kicadSymbolki_fp_filters': 'LQFP*7x7mm*P0.5mm*'}]|
+|name|name|MCU_ST_STM32F1 : STM32F100C6Tx|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'STM32F100C4Tx'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'STM32F100C6Tx'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_QFP</td></tr><tr><td>LQFP-48_7x7mm_P0.5mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00251732.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'ARM Cortex-M3 STM32F1 STM32F100 Value Line'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'ARM Cortex-M3 MCU</td><td> 32KB flash</td><td> 4KB RAM</td><td> 24MHz</td><td> 2-3.6V</td><td> 37 GPIO</td><td> LQFP-48'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'LQFP*7x7mm*P0.5mm*'</td></tr></table>]|
 ||||

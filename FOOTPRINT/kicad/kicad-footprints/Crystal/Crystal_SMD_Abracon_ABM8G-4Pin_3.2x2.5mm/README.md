@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_Abracon_ABM8G-4Pin_3.2x2.5mm|
 |Hex ID (short code)|hexID|FZKXXSMABRACONABM8G4PIN32X25|
 |name|name|Crystal : Crystal_SMD_Abracon_ABM8G-4Pin_3.2x2.5mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Crystal_SMD_Abracon_ABM8G-4Pin_3.2x2.5mm', 'description': 'Abracon Miniature Ceramic Smd Crystal ABM8G http://www.abracon.com/Resonators/ABM8G.pdf, 3.2x2.5mm^2 package', 'tags': 'SMD SMT crystal', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Crystal_SMD_Abracon_ABM8G-4Pin_3.2x2.5mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Crystal_SMD_Abracon_ABM8G-4Pin_3.2x2.5mm'</td><td> 'description'</td></tr><tr><td> 'Abracon Miniature Ceramic Smd Crystal ABM8G http</td></tr><tr><td>//www.abracon.com/Resonators/ABM8G.pdf</td><td> 3.2x2.5mm^2 package'</td><td> 'tags'</td></tr><tr><td> 'SMD SMT crystal'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Crystal.3dshapes/Crystal_SMD_Abracon_ABM8G-4Pin_3.2x2.5mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKINTERFACEPCA936D > PCA9306D
+# SZKINTERFACEPCA936D > Interface : PCA9306D
 
 - ID: SYMBOL-kicad-kicad-symbols-Interface-PCA9306D
 - Hex ID: SZKINTERFACEPCA936D
-- Name: PCA9306D
-- Description: PCA9306D
+- Name: Interface : PCA9306D
+- Description: Interface : PCA9306D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-PCA9306D](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-PCA9306D)
 - Short Link: [http://oom.lt/SZKINTERFACEPCA936D](http://oom.lt/SZKINTERFACEPCA936D)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PCA9306D|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface-PCA9306D|
 |Hex ID (short code)|hexID|SZKINTERFACEPCA936D|
-|name|name|PCA9306D|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'PCA9306', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PCA9306D', 'kicadSymbolFootprint': 'Package_SO:SO-8_3.9x4.9mm_P1.27mm', 'kicadSymbolDatasheet': 'https://www.nxp.com/docs/en/data-sheet/PCA9306.pdf', 'kicadSymbolki_keywords': 'I2C SMBus', 'kicadSymbolki_description': 'Dual bidirectional I2C Bus and SMBus voltage level translator, SO-8', 'kicadSymbolki_fp_filters': 'SO*3.9x4.9mm*P1.27mm*'}]|
+|name|name|Interface : PCA9306D|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'PCA9306'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'PCA9306D'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SO-8_3.9x4.9mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.nxp.com/docs/en/data-sheet/PCA9306.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'I2C SMBus'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Dual bidirectional I2C Bus and SMBus voltage level translator</td><td> SO-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SO*3.9x4.9mm*P1.27mm*'</td></tr></table>]|
 ||||

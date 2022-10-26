@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORBJTBCV62 > BCV62
+# SZKTRANSISTORBJTBCV62 > Transistor_BJT : BCV62
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-BCV62
 - Hex ID: SZKTRANSISTORBJTBCV62
-- Name: BCV62
-- Description: BCV62
+- Name: Transistor_BJT : BCV62
+- Description: Transistor_BJT : BCV62
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BCV62](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BCV62)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTBCV62](http://oom.lt/SZKTRANSISTORBJTBCV62)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BCV62|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_BJT-BCV62|
 |Hex ID (short code)|hexID|SZKTRANSISTORBJTBCV62|
-|name|name|BCV62|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'BCV62', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-143', 'kicadSymbolDatasheet': 'https://assets.nexperia.com/documents/data-sheet/BCV62.pdf', 'kicadSymbolki_keywords': 'Transistor Double PNP', 'kicadSymbolki_description': '100mA IC, 30V Vce, Double PNP Transistors, Current mirror configuration, SOT-143', 'kicadSymbolki_fp_filters': 'SOT?143*'}]|
+|name|name|Transistor_BJT : BCV62|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'BCV62'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-143'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//assets.nexperia.com/documents/data-sheet/BCV62.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Transistor Double PNP'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '100mA IC</td><td> 30V Vce</td><td> Double PNP Transistors</td><td> Current mirror configuration</td><td> SOT-143'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?143*'</td></tr></table>]|
 ||||

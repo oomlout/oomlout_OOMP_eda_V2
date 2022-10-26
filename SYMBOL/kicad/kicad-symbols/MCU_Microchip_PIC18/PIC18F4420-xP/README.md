@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUMCHIPPIC18PIC18F442XP > PIC18F4420-xP
+# SZKMCUMCHIPPIC18PIC18F442XP > MCU_Microchip_PIC18 : PIC18F4420-xP
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18F4420-xP
 - Hex ID: SZKMCUMCHIPPIC18PIC18F442XP
-- Name: PIC18F4420-xP
-- Description: PIC18F4420-xP
+- Name: MCU_Microchip_PIC18 : PIC18F4420-xP
+- Description: MCU_Microchip_PIC18 : PIC18F4420-xP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18F4420-xP](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18F4420-xP)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC18PIC18F442XP](http://oom.lt/SZKMCUMCHIPPIC18PIC18F442XP)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PIC18F4420-xP|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18F4420-xP|
 |Hex ID (short code)|hexID|SZKMCUMCHIPPIC18PIC18F442XP|
-|name|name|PIC18F4420-xP|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PIC18F4420-xP', 'kicadSymbolFootprint': 'Package_DIP:DIP-40_W15.24mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/39631E.pdf', 'kicadSymbolki_keywords': 'Flash-Based 8bit CMOS Microcontroller', 'kicadSymbolki_description': '16K Flash, 768B SRAM, 256B EEPROM, ADC, DIP-40', 'kicadSymbolki_fp_filters': 'DIP*W15.24mm*'}]|
+|name|name|MCU_Microchip_PIC18 : PIC18F4420-xP|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'PIC18F4420-xP'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>DIP-40_W15.24mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/39631E.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Flash-Based 8bit CMOS Microcontroller'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '16K Flash</td><td> 768B SRAM</td><td> 256B EEPROM</td><td> ADC</td><td> DIP-40'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W15.24mm*'</td></tr></table>]|
 ||||

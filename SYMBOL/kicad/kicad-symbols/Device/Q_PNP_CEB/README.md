@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDEVICEQPNPCEB > Q_PNP_CEB
+# SZKDEVICEQPNPCEB > Device : Q_PNP_CEB
 
 - ID: SYMBOL-kicad-kicad-symbols-Device-Q_PNP_CEB
 - Hex ID: SZKDEVICEQPNPCEB
-- Name: Q_PNP_CEB
-- Description: Q_PNP_CEB
+- Name: Device : Q_PNP_CEB
+- Description: Device : Q_PNP_CEB
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Q_PNP_CEB](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Q_PNP_CEB)
 - Short Link: [http://oom.lt/SZKDEVICEQPNPCEB](http://oom.lt/SZKDEVICEQPNPCEB)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Q_PNP_CEB|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-Q_PNP_CEB|
 |Hex ID (short code)|hexID|SZKDEVICEQPNPCEB|
-|name|name|Q_PNP_CEB|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'Q_PNP_CEB', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'transistor PNP', 'kicadSymbolki_description': 'PNP transistor, collector/emitter/base'}]|
+|name|name|Device : Q_PNP_CEB|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Q_PNP_CEB'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'transistor PNP'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'PNP transistor</td><td> collector/emitter/base'</td></tr></table>]|
 ||||

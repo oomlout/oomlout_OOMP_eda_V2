@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Diode_THT-D_T-1_P5.08mm_Horizontal|
 |Hex ID (short code)|hexID|FZKDDT1P58HORIZONTAL|
 |name|name|Diode_THT : D_T-1_P5.08mm_Horizontal|
-|Footprint Kicad|footprintKicadDetails|{'name': 'D_T-1_P5.08mm_Horizontal', 'description': 'Diode, T-1 series, Axial, Horizontal, pin pitch=5.08mm, , length*diameter=3.2*2.6mm^2, , http://www.diodes.com/_files/packages/T-1.pdf', 'tags': 'Diode T-1 series Axial Horizontal pin pitch 5.08mm  length 3.2mm diameter 2.6mm', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_T-1_P5.08mm_Horizontal.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'D_T-1_P5.08mm_Horizontal'</td><td> 'description'</td></tr><tr><td> 'Diode</td><td> T-1 series</td><td> Axial</td><td> Horizontal</td><td> pin pitch=5.08mm</td><td> </td><td> length*diameter=3.2*2.6mm^2</td><td> </td><td> http</td></tr><tr><td>//www.diodes.com/_files/packages/T-1.pdf'</td><td> 'tags'</td></tr><tr><td> 'Diode T-1 series Axial Horizontal pin pitch 5.08mm  length 3.2mm diameter 2.6mm'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Diode_THT.3dshapes/D_T-1_P5.08mm_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

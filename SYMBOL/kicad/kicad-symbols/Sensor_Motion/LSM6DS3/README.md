@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKSENMOTIONLSM6DS3 > LSM6DS3
+# SZKSENMOTIONLSM6DS3 > Sensor_Motion : LSM6DS3
 
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Motion-LSM6DS3
 - Hex ID: SZKSENMOTIONLSM6DS3
-- Name: LSM6DS3
-- Description: LSM6DS3
+- Name: Sensor_Motion : LSM6DS3
+- Description: Sensor_Motion : LSM6DS3
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Motion-LSM6DS3](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Motion-LSM6DS3)
 - Short Link: [http://oom.lt/SZKSENMOTIONLSM6DS3](http://oom.lt/SZKSENMOTIONLSM6DS3)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LSM6DS3|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Motion-LSM6DS3|
 |Hex ID (short code)|hexID|SZKSENMOTIONLSM6DS3|
-|name|name|LSM6DS3|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LSM6DS3', 'kicadSymbolFootprint': 'Package_LGA:LGA-14_3x2.5mm_P0.5mm_LayoutBorder3x4y', 'kicadSymbolDatasheet': 'www.st.com/resource/en/datasheet/lsm6ds3.pdf', 'kicadSymbolki_keywords': 'Accelerometer Gyroscope MEMS', 'kicadSymbolki_description': 'I2C/SPI, iNEMO inertial module: always-on 3D accelerometer and 3D gyroscope', 'kicadSymbolki_fp_filters': 'LGA*3x2.5mm*P0.5mm*LayoutBorder3x4y*'}]|
+|name|name|Sensor_Motion : LSM6DS3|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LSM6DS3'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_LGA</td></tr><tr><td>LGA-14_3x2.5mm_P0.5mm_LayoutBorder3x4y'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'www.st.com/resource/en/datasheet/lsm6ds3.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Accelerometer Gyroscope MEMS'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'I2C/SPI</td><td> iNEMO inertial module</td></tr><tr><td> always-on 3D accelerometer and 3D gyroscope'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'LGA*3x2.5mm*P0.5mm*LayoutBorder3x4y*'</td></tr></table>]|
 ||||

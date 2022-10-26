@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORSWITCHINGMP171GJ > MP171GJ
+# SZKREGULATORSWITCHINGMP171GJ > Regulator_Switching : MP171GJ
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-MP171GJ
 - Hex ID: SZKREGULATORSWITCHINGMP171GJ
-- Name: MP171GJ
-- Description: MP171GJ
+- Name: Regulator_Switching : MP171GJ
+- Description: Regulator_Switching : MP171GJ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-MP171GJ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-MP171GJ)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGMP171GJ](http://oom.lt/SZKREGULATORSWITCHINGMP171GJ)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MP171GJ|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-MP171GJ|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGMP171GJ|
-|name|name|MP171GJ|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MP171GJ', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TSOT-23-5', 'kicadSymbolDatasheet': 'https://www.monolithicpower.com/pub/media/document/m/p/mp171_r1.01.pdf', 'kicadSymbolki_keywords': 'regulator switching adjustable', 'kicadSymbolki_description': '60mA Non-Isolated Off-Line Regulator, 700V Input Voltage, Adjustable Output Voltage, TSOT-23-5', 'kicadSymbolki_fp_filters': 'TSOT?23*'}]|
+|name|name|Regulator_Switching : MP171GJ|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MP171GJ'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>TSOT-23-5'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.monolithicpower.com/pub/media/document/m/p/mp171_r1.01.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'regulator switching adjustable'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '60mA Non-Isolated Off-Line Regulator</td><td> 700V Input Voltage</td><td> Adjustable Output Voltage</td><td> TSOT-23-5'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TSOT?23*'</td></tr></table>]|
 ||||

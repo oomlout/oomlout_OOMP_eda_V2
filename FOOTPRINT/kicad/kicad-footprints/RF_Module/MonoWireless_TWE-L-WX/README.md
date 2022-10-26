@@ -29,5 +29,5 @@ NO IMAGE
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-RF_Module-MonoWireless_TWE-L-WX|
 |Hex ID (short code)|hexID|FZKRFMOMONOWIRELESSTWELWX|
 |name|name|RF_Module : MonoWireless_TWE-L-WX|
-|Footprint Kicad|footprintKicadDetails|{'name': 'MonoWireless_TWE-L-WX', 'description': 'https://www.mono-wireless.com/jp/products/TWE-LITE/MW-PDS-TWELITE-JP.pdf', 'tags': 'TWE-L-WX', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/RF_Module.3dshapes/MonoWireless_TWE-L-WX.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'oval'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'MonoWireless_TWE-L-WX'</td><td> 'description'</td></tr><tr><td> 'https</td></tr><tr><td>//www.mono-wireless.com/jp/products/TWE-LITE/MW-PDS-TWELITE-JP.pdf'</td><td> 'tags'</td></tr><tr><td> 'TWE-L-WX'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/RF_Module.3dshapes/MonoWireless_TWE-L-WX.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'oval'</td></tr></table></td></tr></table>|
 ||||

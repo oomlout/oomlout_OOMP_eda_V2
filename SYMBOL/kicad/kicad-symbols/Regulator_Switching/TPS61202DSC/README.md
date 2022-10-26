@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORSWITCHINGTPS6122DSC > TPS61202DSC
+# SZKREGULATORSWITCHINGTPS6122DSC > Regulator_Switching : TPS61202DSC
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS61202DSC
 - Hex ID: SZKREGULATORSWITCHINGTPS6122DSC
-- Name: TPS61202DSC
-- Description: TPS61202DSC
+- Name: Regulator_Switching : TPS61202DSC
+- Description: Regulator_Switching : TPS61202DSC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS61202DSC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS61202DSC)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGTPS6122DSC](http://oom.lt/SZKREGULATORSWITCHINGTPS6122DSC)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TPS61202DSC|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS61202DSC|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGTPS6122DSC|
-|name|name|TPS61202DSC|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TPS61202DSC', 'kicadSymbolFootprint': 'Package_SON:Texas_DSC0010J_ThermalVias', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tps61200.pdf', 'kicadSymbolki_keywords': 'boost step-up DC/DC synchronous', 'kicadSymbolki_description': 'Low Input Voltage Synchronous Boost Converter With 1.3A Switches, Fixed 5V Output Voltage, 0.3-5.5V Input Voltage, WSON-10', 'kicadSymbolki_fp_filters': 'Texas*DSC0010J*ThermalVias*'}]|
+|name|name|Regulator_Switching : TPS61202DSC|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TPS61202DSC'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SON</td></tr><tr><td>Texas_DSC0010J_ThermalVias'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/tps61200.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'boost step-up DC/DC synchronous'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Low Input Voltage Synchronous Boost Converter With 1.3A Switches</td><td> Fixed 5V Output Voltage</td><td> 0.3-5.5V Input Voltage</td><td> WSON-10'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Texas*DSC0010J*ThermalVias*'</td></tr></table>]|
 ||||

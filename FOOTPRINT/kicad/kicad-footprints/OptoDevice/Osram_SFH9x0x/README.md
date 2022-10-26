@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-OptoDevice-Osram_SFH9x0x|
 |Hex ID (short code)|hexID|FZKOPOSRAMSFH9XX|
 |name|name|OptoDevice : Osram_SFH9x0x|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Osram_SFH9x0x', 'description': 'package for Osram SFH9x0x series of reflective photo interrupters/couplers, see http://www.osram-os.com/Graphics/XPic6/00200860_0.pdf', 'tags': 'reflective photo interrupter SMD', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/Osram_SFH9x0x.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Osram_SFH9x0x'</td><td> 'description'</td></tr><tr><td> 'package for Osram SFH9x0x series of reflective photo interrupters/couplers</td><td> see http</td></tr><tr><td>//www.osram-os.com/Graphics/XPic6/00200860_0.pdf'</td><td> 'tags'</td></tr><tr><td> 'reflective photo interrupter SMD'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/OptoDevice.3dshapes/Osram_SFH9x0x.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

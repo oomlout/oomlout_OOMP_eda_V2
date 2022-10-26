@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKCNTPFLAG > TestPoint_Flag
+# SZKCNTPFLAG > Connector : TestPoint_Flag
 
 - ID: SYMBOL-kicad-kicad-symbols-Connector-TestPoint_Flag
 - Hex ID: SZKCNTPFLAG
-- Name: TestPoint_Flag
-- Description: TestPoint_Flag
+- Name: Connector : TestPoint_Flag
+- Description: Connector : TestPoint_Flag
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-TestPoint_Flag](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-TestPoint_Flag)
 - Short Link: [http://oom.lt/SZKCNTPFLAG](http://oom.lt/SZKCNTPFLAG)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TestPoint_Flag|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-TestPoint_Flag|
 |Hex ID (short code)|hexID|SZKCNTPFLAG|
-|name|name|TestPoint_Flag|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'TP', 'kicadSymbolValue': 'TestPoint_Flag', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'test point tp', 'kicadSymbolki_description': 'test point (alternative flag-style design)', 'kicadSymbolki_fp_filters': 'Pin* Test*'}]|
+|name|name|Connector : TestPoint_Flag|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'TP'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TestPoint_Flag'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'test point tp'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'test point (alternative flag-style design)'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Pin* Test*'</td></tr></table>]|
 ||||

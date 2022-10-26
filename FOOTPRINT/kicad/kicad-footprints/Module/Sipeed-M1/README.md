@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Module-Sipeed-M1|
 |Hex ID (short code)|hexID|FZKMOSIPEEDM1|
 |name|name|Module : Sipeed-M1|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Sipeed-M1', 'description': 'AI accelerated MCU with optional wifi, https://dl.sipeed.com/MAIX/HDK/Sipeed-M1&M1W/Specifications', 'tags': 'AI Kendryte K210 RISC-V', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Module.3dshapes/Sipeed-M1.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Sipeed-M1'</td><td> 'description'</td></tr><tr><td> 'AI accelerated MCU with optional wifi</td><td> https</td></tr><tr><td>//dl.sipeed.com/MAIX/HDK/Sipeed-M1&M1W/Specifications'</td><td> 'tags'</td></tr><tr><td> 'AI Kendryte K210 RISC-V'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Module.3dshapes/Sipeed-M1.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORFETBSS83P > BSS83P
+# SZKTRANSISTORFETBSS83P > Transistor_FET : BSS83P
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-BSS83P
 - Hex ID: SZKTRANSISTORFETBSS83P
-- Name: BSS83P
-- Description: BSS83P
+- Name: Transistor_FET : BSS83P
+- Description: Transistor_FET : BSS83P
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BSS83P](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BSS83P)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETBSS83P](http://oom.lt/SZKTRANSISTORFETBSS83P)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BSS83P|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-BSS83P|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETBSS83P|
-|name|name|BSS83P|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TP0610T', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'BSS83P', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23', 'kicadSymbolDatasheet': 'http://www.farnell.com/datasheets/1835997.pdf', 'kicadSymbolki_keywords': 'P-Channel MOSFET', 'kicadSymbolki_description': '-0.33A Id, -60V Vds, P-Channel MOSFET, SOT-23', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
+|name|name|Transistor_FET : BSS83P|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'TP0610T'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'BSS83P'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-23'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.farnell.com/datasheets/1835997.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'P-Channel MOSFET'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '-0.33A Id</td><td> -60V Vds</td><td> P-Channel MOSFET</td><td> SOT-23'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23*'</td></tr></table>]|
 ||||

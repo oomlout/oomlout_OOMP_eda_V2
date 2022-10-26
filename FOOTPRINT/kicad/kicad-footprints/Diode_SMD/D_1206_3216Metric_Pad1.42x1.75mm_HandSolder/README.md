@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_1206_3216Metric_Pad1.42x1.75mm_HandSolder|
 |Hex ID (short code)|hexID|FZKDIODESMD1263216METRICPAD142X175HANDSOLDER|
 |name|name|Diode_SMD : D_1206_3216Metric_Pad1.42x1.75mm_HandSolder|
-|Footprint Kicad|footprintKicadDetails|{'name': 'D_1206_3216Metric_Pad1.42x1.75mm_HandSolder', 'description': 'Diode SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator', 'tags': 'diode handsolder', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_1206_3216Metric.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'D_1206_3216Metric_Pad1.42x1.75mm_HandSolder'</td><td> 'description'</td></tr><tr><td> 'Diode SMD 1206 (3216 Metric)</td><td> square (rectangular) end terminal</td><td> IPC_7351 nominal</td><td> (Body size source</td></tr><tr><td> http</td></tr><tr><td>//www.tortai-tech.com/upload/download/2011102023233369053.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'diode handsolder'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Diode_SMD.3dshapes/D_1206_3216Metric.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

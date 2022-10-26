@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDEVICETHERMISTOR > Thermistor
+# SZKDEVICETHERMISTOR > Device : Thermistor
 
 - ID: SYMBOL-kicad-kicad-symbols-Device-Thermistor
 - Hex ID: SZKDEVICETHERMISTOR
-- Name: Thermistor
-- Description: Thermistor
+- Name: Device : Thermistor
+- Description: Device : Thermistor
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Thermistor](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Thermistor)
 - Short Link: [http://oom.lt/SZKDEVICETHERMISTOR](http://oom.lt/SZKDEVICETHERMISTOR)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Thermistor|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-Thermistor|
 |Hex ID (short code)|hexID|SZKDEVICETHERMISTOR|
-|name|name|Thermistor|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'TH', 'kicadSymbolValue': 'Thermistor', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'R res thermistor', 'kicadSymbolki_description': 'Temperature dependent resistor', 'kicadSymbolki_fp_filters': 'R_*'}]|
+|name|name|Device : Thermistor|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'TH'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Thermistor'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'R res thermistor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Temperature dependent resistor'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'R_*'</td></tr></table>]|
 ||||

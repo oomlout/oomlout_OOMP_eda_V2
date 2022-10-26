@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKRELAYDIPXX1AXX12XD > DIPxx-1Axx-12xD
+# SZKRELAYDIPXX1AXX12XD > Relay : DIPxx-1Axx-12xD
 
 - ID: SYMBOL-kicad-kicad-symbols-Relay-DIPxx-1Axx-12xD
 - Hex ID: SZKRELAYDIPXX1AXX12XD
-- Name: DIPxx-1Axx-12xD
-- Description: DIPxx-1Axx-12xD
+- Name: Relay : DIPxx-1Axx-12xD
+- Description: Relay : DIPxx-1Axx-12xD
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-DIPxx-1Axx-12xD](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-DIPxx-1Axx-12xD)
 - Short Link: [http://oom.lt/SZKRELAYDIPXX1AXX12XD](http://oom.lt/SZKRELAYDIPXX1AXX12XD)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DIPxx-1Axx-12xD|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Relay-DIPxx-1Axx-12xD|
 |Hex ID (short code)|hexID|SZKRELAYDIPXX1AXX12XD|
-|name|name|DIPxx-1Axx-12xD|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'K', 'kicadSymbolValue': 'DIPxx-1Axx-12xD', 'kicadSymbolFootprint': 'Relay_THT:Relay_StandexMeder_DIP_LowProfile', 'kicadSymbolDatasheet': 'https://standexelectronics.com/wp-content/uploads/datasheet_reed_relay_DIP.pdf', 'kicadSymbolki_keywords': 'Single Pole Reed Relay SPST', 'kicadSymbolki_description': 'Standex Meder DIP reed relay, SPST, Closing Contact, including diode', 'kicadSymbolki_fp_filters': 'Relay*StandexMeder*DIP*LowProfile*'}]|
+|name|name|Relay : DIPxx-1Axx-12xD|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'K'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'DIPxx-1Axx-12xD'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Relay_THT</td></tr><tr><td>Relay_StandexMeder_DIP_LowProfile'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//standexelectronics.com/wp-content/uploads/datasheet_reed_relay_DIP.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Single Pole Reed Relay SPST'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Standex Meder DIP reed relay</td><td> SPST</td><td> Closing Contact</td><td> including diode'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Relay*StandexMeder*DIP*LowProfile*'</td></tr></table>]|
 ||||

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_BGA-UFBGA-132_7x7mm_P0.5mm|
 |Hex ID (short code)|hexID|FZKBGAUFBGA1327X7P5|
 |name|name|Package_BGA : UFBGA-132_7x7mm_P0.5mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'UFBGA-132_7x7mm_P0.5mm', 'description': 'UFBGA 132 Pins, 0.5mm Pitch, 0.3mm Ball, http://www.st.com/resource/en/datasheet/stm32l486qg.pdf', 'tags': 'ufbga bga small-pitch', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/UFBGA-132_7x7mm_P0.5mm.wrl', 'pins': {'type': 'smd', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'UFBGA-132_7x7mm_P0.5mm'</td><td> 'description'</td></tr><tr><td> 'UFBGA 132 Pins</td><td> 0.5mm Pitch</td><td> 0.3mm Ball</td><td> http</td></tr><tr><td>//www.st.com/resource/en/datasheet/stm32l486qg.pdf'</td><td> 'tags'</td></tr><tr><td> 'ufbga bga small-pitch'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_BGA.3dshapes/UFBGA-132_7x7mm_P0.5mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SO-ONSemi_SO-8FL_488AA|
 |Hex ID (short code)|hexID|FZKSOONSEMISO8FL488AA|
 |name|name|Package_SO : ONSemi_SO-8FL_488AA|
-|Footprint Kicad|footprintKicadDetails|{'name': 'ONSemi_SO-8FL_488AA', 'description': 'ON Semi DFN5 5x6mm 1.27P SO-8FL CASE 488A https://www.onsemi.com/pub/Collateral/488AA.PDF', 'tags': 'ON Semi DFN5 5x6mm 1.27P SO-8FL CASE 488A ', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/ONSemi_SO-8FL_488AA.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'ONSemi_SO-8FL_488AA'</td><td> 'description'</td></tr><tr><td> 'ON Semi DFN5 5x6mm 1.27P SO-8FL CASE 488A https</td></tr><tr><td>//www.onsemi.com/pub/Collateral/488AA.PDF'</td><td> 'tags'</td></tr><tr><td> 'ON Semi DFN5 5x6mm 1.27P SO-8FL CASE 488A '</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_SO.3dshapes/ONSemi_SO-8FL_488AA.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

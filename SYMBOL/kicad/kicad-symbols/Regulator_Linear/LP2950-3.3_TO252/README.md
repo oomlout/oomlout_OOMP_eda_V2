@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORLINEARLP29533TO252 > LP2950-3.3_TO252
+# SZKREGULATORLINEARLP29533TO252 > Regulator_Linear : LP2950-3.3_TO252
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-LP2950-3.3_TO252
 - Hex ID: SZKREGULATORLINEARLP29533TO252
-- Name: LP2950-3.3_TO252
-- Description: LP2950-3.3_TO252
+- Name: Regulator_Linear : LP2950-3.3_TO252
+- Description: Regulator_Linear : LP2950-3.3_TO252
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LP2950-3.3_TO252](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LP2950-3.3_TO252)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARLP29533TO252](http://oom.lt/SZKREGULATORLINEARLP29533TO252)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LP2950-3.3_TO252|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-LP2950-3.3_TO252|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARLP29533TO252|
-|name|name|LP2950-3.3_TO252|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LM78M05_TO252', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LP2950-3.3_TO252', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TO-252-2', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lp2950.pdf', 'kicadSymbolki_keywords': 'Micropower Voltage Regulator 100mA Positive', 'kicadSymbolki_description': 'Positive 100mA 30V Linear Micropower Voltage Regulator, Fixed Output 3.3V, TO-252', 'kicadSymbolki_fp_filters': 'TO?252*'}]|
+|name|name|Regulator_Linear : LP2950-3.3_TO252|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'LM78M05_TO252'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LP2950-3.3_TO252'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>TO-252-2'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/lp2950.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Micropower Voltage Regulator 100mA Positive'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Positive 100mA 30V Linear Micropower Voltage Regulator</td><td> Fixed Output 3.3V</td><td> TO-252'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TO?252*'</td></tr></table>]|
 ||||

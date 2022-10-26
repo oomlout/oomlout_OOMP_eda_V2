@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_EuroQuartz_MQ-4Pin_7.0x5.0mm|
 |Hex ID (short code)|hexID|FZKXXSMEUROQUARTZMQ4PIN7X5|
 |name|name|Crystal : Crystal_SMD_EuroQuartz_MQ-4Pin_7.0x5.0mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Crystal_SMD_EuroQuartz_MQ-4Pin_7.0x5.0mm', 'description': 'SMD Crystal EuroQuartz MQ series http://cdn-reichelt.de/documents/datenblatt/B400/MQ.pdf, 7.0x5.0mm^2 package', 'tags': 'SMD SMT crystal', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Crystal_SMD_EuroQuartz_MQ-4Pin_7.0x5.0mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Crystal_SMD_EuroQuartz_MQ-4Pin_7.0x5.0mm'</td><td> 'description'</td></tr><tr><td> 'SMD Crystal EuroQuartz MQ series http</td></tr><tr><td>//cdn-reichelt.de/documents/datenblatt/B400/MQ.pdf</td><td> 7.0x5.0mm^2 package'</td><td> 'tags'</td></tr><tr><td> 'SMD SMT crystal'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Crystal.3dshapes/Crystal_SMD_EuroQuartz_MQ-4Pin_7.0x5.0mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

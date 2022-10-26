@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORBJTBD249 > BD249
+# SZKTRANSISTORBJTBD249 > Transistor_BJT : BD249
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-BD249
 - Hex ID: SZKTRANSISTORBJTBD249
-- Name: BD249
-- Description: BD249
+- Name: Transistor_BJT : BD249
+- Description: Transistor_BJT : BD249
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BD249](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BD249)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTBD249](http://oom.lt/SZKTRANSISTORBJTBD249)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BD249|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_BJT-BD249|
 |Hex ID (short code)|hexID|SZKTRANSISTORBJTBD249|
-|name|name|BD249|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'BD249', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.mospec.com.tw/pdf/power/BD249.pdf', 'kicadSymbolki_keywords': 'Power NPN Transistor', 'kicadSymbolki_description': '25A Ic, 55V Vce, Silicon Power NPN Transistors, SOT-93/TO247', 'kicadSymbolki_fp_filters': 'TO?218* TO?247*'}]|
+|name|name|Transistor_BJT : BD249|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'BD249'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.mospec.com.tw/pdf/power/BD249.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Power NPN Transistor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '25A Ic</td><td> 55V Vce</td><td> Silicon Power NPN Transistors</td><td> SOT-93/TO247'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TO?218* TO?247*'</td></tr></table>]|
 ||||

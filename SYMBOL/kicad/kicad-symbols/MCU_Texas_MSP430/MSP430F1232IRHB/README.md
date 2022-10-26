@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUTEXASMSP43MSP43F1232IRHB > MSP430F1232IRHB
+# SZKMCUTEXASMSP43MSP43F1232IRHB > MCU_Texas_MSP430 : MSP430F1232IRHB
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Texas_MSP430-MSP430F1232IRHB
 - Hex ID: SZKMCUTEXASMSP43MSP43F1232IRHB
-- Name: MSP430F1232IRHB
-- Description: MSP430F1232IRHB
+- Name: MCU_Texas_MSP430 : MSP430F1232IRHB
+- Description: MCU_Texas_MSP430 : MSP430F1232IRHB
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Texas_MSP430-MSP430F1232IRHB](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Texas_MSP430-MSP430F1232IRHB)
 - Short Link: [http://oom.lt/SZKMCUTEXASMSP43MSP43F1232IRHB](http://oom.lt/SZKMCUTEXASMSP43MSP43F1232IRHB)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MSP430F1232IRHB|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Texas_MSP430-MSP430F1232IRHB|
 |Hex ID (short code)|hexID|SZKMCUTEXASMSP43MSP43F1232IRHB|
-|name|name|MSP430F1232IRHB|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MSP430F1222IRHB', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MSP430F1232IRHB', 'kicadSymbolFootprint': 'Package_DFN_QFN:Texas_S-PVQFN-N32_EP3.45x3.45mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/msp430f1232.pdf', 'kicadSymbolki_keywords': 'TI MSP430 16-bit mixed signal microcontroller', 'kicadSymbolki_description': '8kB + 256B Flash, 256B RAM, QFN-32', 'kicadSymbolki_fp_filters': 'Texas*S?PVQFN*'}]|
+|name|name|MCU_Texas_MSP430 : MSP430F1232IRHB|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'MSP430F1222IRHB'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MSP430F1232IRHB'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>Texas_S-PVQFN-N32_EP3.45x3.45mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/msp430f1232.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'TI MSP430 16-bit mixed signal microcontroller'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '8kB + 256B Flash</td><td> 256B RAM</td><td> QFN-32'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Texas*S?PVQFN*'</td></tr></table>]|
 ||||

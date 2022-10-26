@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_BGA-BGA-132_12x18mm_Layout11x17_P1.0mm|
 |Hex ID (short code)|hexID|FZKBGABGA13212X18LAYOUT11X17P1|
 |name|name|Package_BGA : BGA-132_12x18mm_Layout11x17_P1.0mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'BGA-132_12x18mm_Layout11x17_P1.0mm', 'description': 'BGA-132 11x17 12x18mm 1.0pitch', 'tags': 'BGA-132', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/BGA-132_12x18mm_Layout11x17_P1.0mm.wrl', 'pins': {'type': 'smd', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'BGA-132_12x18mm_Layout11x17_P1.0mm'</td><td> 'description'</td></tr><tr><td> 'BGA-132 11x17 12x18mm 1.0pitch'</td><td> 'tags'</td></tr><tr><td> 'BGA-132'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_BGA.3dshapes/BGA-132_12x18mm_Layout11x17_P1.0mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

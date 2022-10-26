@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDRIVERFETHCPL312 > HCPL-3120
+# SZKDRIVERFETHCPL312 > Driver_FET : HCPL-3120
 
 - ID: SYMBOL-kicad-kicad-symbols-Driver_FET-HCPL-3120
 - Hex ID: SZKDRIVERFETHCPL312
-- Name: HCPL-3120
-- Description: HCPL-3120
+- Name: Driver_FET : HCPL-3120
+- Description: Driver_FET : HCPL-3120
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-HCPL-3120](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-HCPL-3120)
 - Short Link: [http://oom.lt/SZKDRIVERFETHCPL312](http://oom.lt/SZKDRIVERFETHCPL312)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|HCPL-3120|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Driver_FET-HCPL-3120|
 |Hex ID (short code)|hexID|SZKDRIVERFETHCPL312|
-|name|name|HCPL-3120|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'HCPL-3120', 'kicadSymbolFootprint': 'Package_DIP:DIP-8_W7.62mm', 'kicadSymbolDatasheet': 'https://docs.broadcom.com/docs/AV02-0161EN', 'kicadSymbolki_keywords': 'MOSFET Driver IGBT Driver Optocoupler', 'kicadSymbolki_description': 'Gate Drive Optocoupler, Output Current 2.5/2.5A, PDIP-8', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
+|name|name|Driver_FET : HCPL-3120|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'HCPL-3120'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>DIP-8_W7.62mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//docs.broadcom.com/docs/AV02-0161EN'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'MOSFET Driver IGBT Driver Optocoupler'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Gate Drive Optocoupler</td><td> Output Current 2.5/2.5A</td><td> PDIP-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W7.62mm*'</td></tr></table>]|
 ||||

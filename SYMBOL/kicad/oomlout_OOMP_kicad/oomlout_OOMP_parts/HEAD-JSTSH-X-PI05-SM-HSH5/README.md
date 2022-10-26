@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSHEADJSTSHXPI5SMHSH5 > HEAD-JSTSH-X-PI05-SM-HSH5
+# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSHEADJSTSHXPI5SMHSH5 > oomlout_OOMP_parts : HEAD-JSTSH-X-PI05-SM-HSH5
 
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-JSTSH-X-PI05-SM-HSH5
 - Hex ID: SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSHEADJSTSHXPI5SMHSH5
-- Name: HEAD-JSTSH-X-PI05-SM-HSH5
-- Description: HEAD-JSTSH-X-PI05-SM-HSH5
+- Name: oomlout_OOMP_parts : HEAD-JSTSH-X-PI05-SM-HSH5
+- Description: oomlout_OOMP_parts : HEAD-JSTSH-X-PI05-SM-HSH5
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-JSTSH-X-PI05-SM-HSH5](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-JSTSH-X-PI05-SM-HSH5)
 - Short Link: [http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSHEADJSTSHXPI5SMHSH5](http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSHEADJSTSHXPI5SMHSH5)
   
@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|HEAD-JSTSH-X-PI05-SM-HSH5|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-JSTSH-X-PI05-SM-HSH5|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSHEADJSTSHXPI5SMHSH5|
-|name|name|HEAD-JSTSH-X-PI05-SM-HSH5|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'HEAD-JSTSH-X-PI05-SM-HSH5', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:HEAD-JSTSH-X-PI05-SM-HSH5', 'kicadSymbolDatasheet': 'oom.lt/HSH5', 'kicadSymbolki_keywords': 'connector', 'kicadSymbolki_description': 'hexID: HSH5;Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)', 'kicadSymbolki_fp_filters': 'Connector*:*_1x??_*'}]|
+|name|name|oomlout_OOMP_parts : HEAD-JSTSH-X-PI05-SM-HSH5|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'J'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'HEAD-JSTSH-X-PI05-SM-HSH5'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'oomlout_OOMP_parts</td></tr><tr><td>HEAD-JSTSH-X-PI05-SM-HSH5'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'oom.lt/HSH5'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'connector'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'hexID</td></tr><tr><td> HSH5;Generic connector</td><td> single row</td><td> 01x05</td><td> script generated (kicad-library-utils/schlib/autogen/connector/)'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Connector*</td></tr><tr><td>*_1x??_*'</td></tr></table>]|
 ||||

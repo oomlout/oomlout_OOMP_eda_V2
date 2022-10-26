@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUMCHIPPIC16PIC16F1454IML > PIC16F1454-IML
+# SZKMCUMCHIPPIC16PIC16F1454IML > MCU_Microchip_PIC16 : PIC16F1454-IML
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F1454-IML
 - Hex ID: SZKMCUMCHIPPIC16PIC16F1454IML
-- Name: PIC16F1454-IML
-- Description: PIC16F1454-IML
+- Name: MCU_Microchip_PIC16 : PIC16F1454-IML
+- Description: MCU_Microchip_PIC16 : PIC16F1454-IML
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F1454-IML](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F1454-IML)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC16PIC16F1454IML](http://oom.lt/SZKMCUMCHIPPIC16PIC16F1454IML)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PIC16F1454-IML|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F1454-IML|
 |Hex ID (short code)|hexID|SZKMCUMCHIPPIC16PIC16F1454IML|
-|name|name|PIC16F1454-IML|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PIC16F1454-IML', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/41639A.pdf', 'kicadSymbolki_keywords': 'FLASH-Based 8-Bit CMOS Microcontroller Low Power', 'kicadSymbolki_description': 'PIC16F1454, 8192W FLASH, 1024B SRAM, QFN-16', 'kicadSymbolki_fp_filters': 'QFN*'}]|
+|name|name|MCU_Microchip_PIC16 : PIC16F1454-IML|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'PIC16F1454-IML'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/41639A.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'FLASH-Based 8-Bit CMOS Microcontroller Low Power'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'PIC16F1454</td><td> 8192W FLASH</td><td> 1024B SRAM</td><td> QFN-16'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'QFN*'</td></tr></table>]|
 ||||

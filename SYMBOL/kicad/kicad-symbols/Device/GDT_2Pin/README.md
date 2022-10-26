@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDEVICEGDT2PIN > GDT_2Pin
+# SZKDEVICEGDT2PIN > Device : GDT_2Pin
 
 - ID: SYMBOL-kicad-kicad-symbols-Device-GDT_2Pin
 - Hex ID: SZKDEVICEGDT2PIN
-- Name: GDT_2Pin
-- Description: GDT_2Pin
+- Name: Device : GDT_2Pin
+- Description: Device : GDT_2Pin
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-GDT_2Pin](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-GDT_2Pin)
 - Short Link: [http://oom.lt/SZKDEVICEGDT2PIN](http://oom.lt/SZKDEVICEGDT2PIN)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|GDT_2Pin|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-GDT_2Pin|
 |Hex ID (short code)|hexID|SZKDEVICEGDT2PIN|
-|name|name|GDT_2Pin|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'GD', 'kicadSymbolValue': 'GDT_2Pin', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'gdt', 'kicadSymbolki_description': 'Gas Discharge Tube with 2 Pins'}]|
+|name|name|Device : GDT_2Pin|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'GD'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'GDT_2Pin'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'gdt'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Gas Discharge Tube with 2 Pins'</td></tr></table>]|
 ||||

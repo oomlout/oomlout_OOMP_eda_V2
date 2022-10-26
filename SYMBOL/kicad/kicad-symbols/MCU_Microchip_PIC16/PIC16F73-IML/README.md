@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUMCHIPPIC16PIC16F73IML > PIC16F73-IML
+# SZKMCUMCHIPPIC16PIC16F73IML > MCU_Microchip_PIC16 : PIC16F73-IML
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F73-IML
 - Hex ID: SZKMCUMCHIPPIC16PIC16F73IML
-- Name: PIC16F73-IML
-- Description: PIC16F73-IML
+- Name: MCU_Microchip_PIC16 : PIC16F73-IML
+- Description: MCU_Microchip_PIC16 : PIC16F73-IML
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F73-IML](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F73-IML)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC16PIC16F73IML](http://oom.lt/SZKMCUMCHIPPIC16PIC16F73IML)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PIC16F73-IML|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F73-IML|
 |Hex ID (short code)|hexID|SZKMCUMCHIPPIC16PIC16F73IML|
-|name|name|PIC16F73-IML|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PIC16F73-IML', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/30325b.pdf', 'kicadSymbolki_keywords': 'Flash-Based 8-Bit Microcontroller', 'kicadSymbolki_description': 'PIC16F73, 4K Flash, 192B SRAM, ADC, PWM, MLF28', 'kicadSymbolki_fp_filters': 'MLF*'}]|
+|name|name|MCU_Microchip_PIC16 : PIC16F73-IML|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'PIC16F73-IML'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/30325b.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Flash-Based 8-Bit Microcontroller'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'PIC16F73</td><td> 4K Flash</td><td> 192B SRAM</td><td> ADC</td><td> PWM</td><td> MLF28'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'MLF*'</td></tr></table>]|
 ||||

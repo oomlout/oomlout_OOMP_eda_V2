@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORLINEARLD186V18DG > LD1086V18-DG
+# SZKREGULATORLINEARLD186V18DG > Regulator_Linear : LD1086V18-DG
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-LD1086V18-DG
 - Hex ID: SZKREGULATORLINEARLD186V18DG
-- Name: LD1086V18-DG
-- Description: LD1086V18-DG
+- Name: Regulator_Linear : LD1086V18-DG
+- Description: Regulator_Linear : LD1086V18-DG
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LD1086V18-DG](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LD1086V18-DG)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARLD186V18DG](http://oom.lt/SZKREGULATORLINEARLD186V18DG)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LD1086V18-DG|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-LD1086V18-DG|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARLD186V18DG|
-|name|name|LD1086V18-DG|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LD1086V-DG', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LD1086V18-DG', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-220-3_Vertical', 'kicadSymbolDatasheet': 'https://www.st.com/resource/en/datasheet/ld1086.pdf', 'kicadSymbolki_keywords': 'Linear Regulator 1.5A Fixed Output', 'kicadSymbolki_description': 'Positive, 1.5A 30V, Linear Regulator, Fixed Output 1.8V, TO-220', 'kicadSymbolki_fp_filters': 'TO?220*'}]|
+|name|name|Regulator_Linear : LD1086V18-DG|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'LD1086V-DG'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LD1086V18-DG'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_THT</td></tr><tr><td>TO-220-3_Vertical'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.st.com/resource/en/datasheet/ld1086.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Linear Regulator 1.5A Fixed Output'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Positive</td><td> 1.5A 30V</td><td> Linear Regulator</td><td> Fixed Output 1.8V</td><td> TO-220'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TO?220*'</td></tr></table>]|
 ||||

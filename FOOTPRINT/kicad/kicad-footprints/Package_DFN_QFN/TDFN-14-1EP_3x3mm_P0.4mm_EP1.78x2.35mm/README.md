@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-TDFN-14-1EP_3x3mm_P0.4mm_EP1.78x2.35mm|
 |Hex ID (short code)|hexID|FZKDFNTDFN141EP3X3P4EP178X235|
 |name|name|Package_DFN_QFN : TDFN-14-1EP_3x3mm_P0.4mm_EP1.78x2.35mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'TDFN-14-1EP_3x3mm_P0.4mm_EP1.78x2.35mm', 'description': 'TDFN, 14 Pin (https://pdfserv.maximintegrated.com/package_dwgs/21-0137.PDF (T1433-2C)), generated with kicad-footprint-generator ipc_noLead_generator.py', 'tags': 'TDFN NoLead', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/TDFN-14-1EP_3x3mm_P0.4mm_EP1.78x2.35mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'TDFN-14-1EP_3x3mm_P0.4mm_EP1.78x2.35mm'</td><td> 'description'</td></tr><tr><td> 'TDFN</td><td> 14 Pin (https</td></tr><tr><td>//pdfserv.maximintegrated.com/package_dwgs/21-0137.PDF (T1433-2C))</td><td> generated with kicad-footprint-generator ipc_noLead_generator.py'</td><td> 'tags'</td></tr><tr><td> 'TDFN NoLead'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DFN_QFN.3dshapes/TDFN-14-1EP_3x3mm_P0.4mm_EP1.78x2.35mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

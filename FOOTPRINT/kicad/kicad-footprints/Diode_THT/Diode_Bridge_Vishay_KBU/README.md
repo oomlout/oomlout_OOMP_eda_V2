@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Diode_THT-Diode_Bridge_Vishay_KBU|
 |Hex ID (short code)|hexID|FZKDDIODEBRIDGEVISHAYKBU|
 |name|name|Diode_THT : Diode_Bridge_Vishay_KBU|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Diode_Bridge_Vishay_KBU', 'description': 'Vishay KBU rectifier package, 5.08mm pitch, see http://www.vishay.com/docs/88656/kbu4.pdf', 'tags': 'Vishay KBU rectifier diode bridge', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/Diode_Bridge_Vishay_KBU.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Diode_Bridge_Vishay_KBU'</td><td> 'description'</td></tr><tr><td> 'Vishay KBU rectifier package</td><td> 5.08mm pitch</td><td> see http</td></tr><tr><td>//www.vishay.com/docs/88656/kbu4.pdf'</td><td> 'tags'</td></tr><tr><td> 'Vishay KBU rectifier diode bridge'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Diode_THT.3dshapes/Diode_Bridge_Vishay_KBU.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_SunFuse-6HP|
 |Hex ID (short code)|hexID|FZKFUFUSUNFU6HP|
 |name|name|Fuse : Fuse_SunFuse-6HP|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Fuse_SunFuse-6HP', 'description': 'SunFuse Ceramic Slow Blow Fuse 6H_6HP.PDF', 'tags': 'UL/CSA 6x32mm Ceramic Slow Blow Fuse', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Fuse.3dshapes/Fuse_SunFuse-6HP.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Fuse_SunFuse-6HP'</td><td> 'description'</td></tr><tr><td> 'SunFuse Ceramic Slow Blow Fuse 6H_6HP.PDF'</td><td> 'tags'</td></tr><tr><td> 'UL/CSA 6x32mm Ceramic Slow Blow Fuse'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Fuse.3dshapes/Fuse_SunFuse-6HP.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

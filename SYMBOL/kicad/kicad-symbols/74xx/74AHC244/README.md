@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZK74XX74AHC244 > 74AHC244
+# SZK74XX74AHC244 > 74xx : 74AHC244
 
 - ID: SYMBOL-kicad-kicad-symbols-74xx-74AHC244
 - Hex ID: SZK74XX74AHC244
-- Name: 74AHC244
-- Description: 74AHC244
+- Name: 74xx : 74AHC244
+- Description: 74xx : 74AHC244
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx-74AHC244](http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx-74AHC244)
 - Short Link: [http://oom.lt/SZK74XX74AHC244](http://oom.lt/SZK74XX74AHC244)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74AHC244|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xx-74AHC244|
 |Hex ID (short code)|hexID|SZK74XX74AHC244|
-|name|name|74AHC244|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '74HC244', 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74AHC244', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://assets.nexperia.com/documents/data-sheet/74AHC_AHCT244.pdf', 'kicadSymbolki_keywords': 'AHCMOS BUFFER 3State', 'kicadSymbolki_description': '8-bit Buffer/Line Driver 3-state', 'kicadSymbolki_fp_filters': 'TSSOP*4.4x6.5mm*P0.65mm* SSOP*4.4x6.5mm*P0.65mm*'}]|
+|name|name|74xx : 74AHC244|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> '74HC244'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> '74AHC244'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//assets.nexperia.com/documents/data-sheet/74AHC_AHCT244.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'AHCMOS BUFFER 3State'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '8-bit Buffer/Line Driver 3-state'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TSSOP*4.4x6.5mm*P0.65mm* SSOP*4.4x6.5mm*P0.65mm*'</td></tr></table>]|
 ||||

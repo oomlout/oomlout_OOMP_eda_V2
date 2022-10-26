@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORLINEARLK112M25TR > LK112M25TR
+# SZKREGULATORLINEARLK112M25TR > Regulator_Linear : LK112M25TR
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-LK112M25TR
 - Hex ID: SZKREGULATORLINEARLK112M25TR
-- Name: LK112M25TR
-- Description: LK112M25TR
+- Name: Regulator_Linear : LK112M25TR
+- Description: Regulator_Linear : LK112M25TR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LK112M25TR](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LK112M25TR)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARLK112M25TR](http://oom.lt/SZKREGULATORLINEARLK112M25TR)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LK112M25TR|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-LK112M25TR|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARLK112M25TR|
-|name|name|LK112M25TR|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LK112M15TR', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LK112M25TR', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-5', 'kicadSymbolDatasheet': 'https://www.st.com/resource/ja/datasheet/lk112.pdf', 'kicadSymbolki_keywords': 'LDO regulator voltage', 'kicadSymbolki_description': 'Low noise and low drop voltage regulator with shutdown function, 150mA, Vout = 2.5V, SOT-23-5', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
+|name|name|Regulator_Linear : LK112M25TR|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'LK112M15TR'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LK112M25TR'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-23-5'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.st.com/resource/ja/datasheet/lk112.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'LDO regulator voltage'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Low noise and low drop voltage regulator with shutdown function</td><td> 150mA</td><td> Vout = 2.5V</td><td> SOT-23-5'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23*'</td></tr></table>]|
 ||||

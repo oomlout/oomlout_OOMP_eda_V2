@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_Array_Convex_8x0602|
 |Hex ID (short code)|hexID|FZKRESISTORSMRARRAYCONVEX8X62|
 |name|name|Resistor_SMD : R_Array_Convex_8x0602|
-|Footprint Kicad|footprintKicadDetails|{'name': 'R_Array_Convex_8x0602', 'description': 'Chip Resistor Network, ROHM MNR18 (see mnr_g.pdf)', 'tags': 'resistor array', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_Array_Convex_8x0602.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'R_Array_Convex_8x0602'</td><td> 'description'</td></tr><tr><td> 'Chip Resistor Network</td><td> ROHM MNR18 (see mnr_g.pdf)'</td><td> 'tags'</td></tr><tr><td> 'resistor array'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Resistor_SMD.3dshapes/R_Array_Convex_8x0602.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

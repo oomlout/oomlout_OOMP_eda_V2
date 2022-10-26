@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SO-MSOP-8-1EP_3x3mm_P0.65mm_EP1.68x1.88mm_ThermalVias|
 |Hex ID (short code)|hexID|FZKSOMS81EP3X3P65EP168X188THERMALVIAS|
 |name|name|Package_SO : MSOP-8-1EP_3x3mm_P0.65mm_EP1.68x1.88mm_ThermalVias|
-|Footprint Kicad|footprintKicadDetails|{'name': 'MSOP-8-1EP_3x3mm_P0.65mm_EP1.68x1.88mm_ThermalVias', 'description': 'MSOP, 8 Pin (https://www.analog.com/media/en/technical-documentation/data-sheets/4440fb.pdf#page=13), generated with kicad-footprint-generator ipc_gullwing_generator.py', 'tags': 'MSOP SO', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/MSOP-8-1EP_3x3mm_P0.65mm_EP1.68x1.88mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'MSOP-8-1EP_3x3mm_P0.65mm_EP1.68x1.88mm_ThermalVias'</td><td> 'description'</td></tr><tr><td> 'MSOP</td><td> 8 Pin (https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/4440fb.pdf#page=13)</td><td> generated with kicad-footprint-generator ipc_gullwing_generator.py'</td><td> 'tags'</td></tr><tr><td> 'MSOP SO'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_SO.3dshapes/MSOP-8-1EP_3x3mm_P0.65mm_EP1.68x1.88mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

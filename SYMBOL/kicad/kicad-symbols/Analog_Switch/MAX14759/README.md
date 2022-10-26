@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKANALOGSWITCHMAX14759 > MAX14759
+# SZKANALOGSWITCHMAX14759 > Analog_Switch : MAX14759
 
 - ID: SYMBOL-kicad-kicad-symbols-Analog_Switch-MAX14759
 - Hex ID: SZKANALOGSWITCHMAX14759
-- Name: MAX14759
-- Description: MAX14759
+- Name: Analog_Switch : MAX14759
+- Description: Analog_Switch : MAX14759
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-MAX14759](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-MAX14759)
 - Short Link: [http://oom.lt/SZKANALOGSWITCHMAX14759](http://oom.lt/SZKANALOGSWITCHMAX14759)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MAX14759|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_Switch-MAX14759|
 |Hex ID (short code)|hexID|SZKANALOGSWITCHMAX14759|
-|name|name|MAX14759|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MAX14759', 'kicadSymbolFootprint': 'Package_DFN_QFN:DFN-8-1EP_3x3mm_P0.65mm_EP1.55x2.4mm', 'kicadSymbolDatasheet': 'https://datasheets.maximintegrated.com/en/ds/MAX14759-MAX14763.pdf', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'analog switch low resistance above below rails', 'kicadSymbolki_description': 'Above- and Below-the-Rails Low On-Resistance Analog Switches, max 2 Ohms On-Resistance, TDFN-8', 'kicadSymbolki_fp_filters': 'DFN*3x3mm*P0.65mm*'}]|
+|name|name|Analog_Switch : MAX14759|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MAX14759'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>DFN-8-1EP_3x3mm_P0.65mm_EP1.55x2.4mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//datasheets.maximintegrated.com/en/ds/MAX14759-MAX14763.pdf'</td><td> 'kicadSymbolki_locked'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'analog switch low resistance above below rails'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Above- and Below-the-Rails Low On-Resistance Analog Switches</td><td> max 2 Ohms On-Resistance</td><td> TDFN-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DFN*3x3mm*P0.65mm*'</td></tr></table>]|
 ||||

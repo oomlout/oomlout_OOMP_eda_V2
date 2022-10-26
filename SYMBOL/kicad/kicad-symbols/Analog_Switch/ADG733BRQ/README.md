@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKANALOGSWITCHADG733BRQ > ADG733BRQ
+# SZKANALOGSWITCHADG733BRQ > Analog_Switch : ADG733BRQ
 
 - ID: SYMBOL-kicad-kicad-symbols-Analog_Switch-ADG733BRQ
 - Hex ID: SZKANALOGSWITCHADG733BRQ
-- Name: ADG733BRQ
-- Description: ADG733BRQ
+- Name: Analog_Switch : ADG733BRQ
+- Description: Analog_Switch : ADG733BRQ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-ADG733BRQ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-ADG733BRQ)
 - Short Link: [http://oom.lt/SZKANALOGSWITCHADG733BRQ](http://oom.lt/SZKANALOGSWITCHADG733BRQ)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ADG733BRQ|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_Switch-ADG733BRQ|
 |Hex ID (short code)|hexID|SZKANALOGSWITCHADG733BRQ|
-|name|name|ADG733BRQ|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ADG733BRQ', 'kicadSymbolFootprint': 'Package_SO:QSOP-16_3.9x4.9mm_P0.635mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/ADG733_734.pdf', 'kicadSymbolki_keywords': 'CMOS Analog Switch', 'kicadSymbolki_description': 'Triple SPDT CMOS Analog Switch, 2.5Ohm Ron, QSOP-16', 'kicadSymbolki_fp_filters': 'QSOP*3.9x4.9mm*P0.635mm*'}]|
+|name|name|Analog_Switch : ADG733BRQ|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ADG733BRQ'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>QSOP-16_3.9x4.9mm_P0.635mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/ADG733_734.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'CMOS Analog Switch'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Triple SPDT CMOS Analog Switch</td><td> 2.5Ohm Ron</td><td> QSOP-16'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'QSOP*3.9x4.9mm*P0.635mm*'</td></tr></table>]|
 ||||

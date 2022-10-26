@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKAMPLIFIEROPERATIONALNCS272DTB > NCS20072DTB
+# SZKAMPLIFIEROPERATIONALNCS272DTB > Amplifier_Operational : NCS20072DTB
 
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-NCS20072DTB
 - Hex ID: SZKAMPLIFIEROPERATIONALNCS272DTB
-- Name: NCS20072DTB
-- Description: NCS20072DTB
+- Name: Amplifier_Operational : NCS20072DTB
+- Description: Amplifier_Operational : NCS20072DTB
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-NCS20072DTB](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-NCS20072DTB)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALNCS272DTB](http://oom.lt/SZKAMPLIFIEROPERATIONALNCS272DTB)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|NCS20072DTB|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Operational-NCS20072DTB|
 |Hex ID (short code)|hexID|SZKAMPLIFIEROPERATIONALNCS272DTB|
-|name|name|NCS20072DTB|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'NCS20072DTB', 'kicadSymbolFootprint': 'Package_SO:TSSOP-8_4.4x3mm_P0.65mm', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pub/Collateral/NCS20071-D.PDF', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'dual rail-to-rail output opamp vfa', 'kicadSymbolki_description': 'Dual, 2.8V/µs, Rail-to-Rail Output, TSSOP-8', 'kicadSymbolki_fp_filters': 'TSSOP*4.4x3mm*P0.65mm*'}]|
+|name|name|Amplifier_Operational : NCS20072DTB|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'NCS20072DTB'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>TSSOP-8_4.4x3mm_P0.65mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.onsemi.com/pub/Collateral/NCS20071-D.PDF'</td><td> 'kicadSymbolki_locked'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'dual rail-to-rail output opamp vfa'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Dual</td><td> 2.8V/µs</td><td> Rail-to-Rail Output</td><td> TSSOP-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TSSOP*4.4x3mm*P0.65mm*'</td></tr></table>]|
 ||||

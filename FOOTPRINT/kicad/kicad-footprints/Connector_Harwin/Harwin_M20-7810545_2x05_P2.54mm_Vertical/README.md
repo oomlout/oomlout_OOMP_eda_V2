@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Harwin-Harwin_M20-7810545_2x05_P2.54mm_Vertical|
 |Hex ID (short code)|hexID|FZKCNHARWINHARWINM27815452X5P254VERTICAL|
 |name|name|Connector_Harwin : Harwin_M20-7810545_2x05_P2.54mm_Vertical|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Harwin_M20-7810545_2x05_P2.54mm_Vertical', 'description': 'Harwin Female Vertical Surface Mount Double Row 2.54mm (0.1 inch) Pitch PCB Connector, M20-7810545, 5 Pins per row (https://cdn.harwin.com/pdfs/M20-781.pdf), generated with kicad-footprint-generator', 'tags': 'connector Harwin M20 side entry', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_Harwin.3dshapes/Harwin_M20-7810545_2x05_P2.54mm_Vertical.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Harwin_M20-7810545_2x05_P2.54mm_Vertical'</td><td> 'description'</td></tr><tr><td> 'Harwin Female Vertical Surface Mount Double Row 2.54mm (0.1 inch) Pitch PCB Connector</td><td> M20-7810545</td><td> 5 Pins per row (https</td></tr><tr><td>//cdn.harwin.com/pdfs/M20-781.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'connector Harwin M20 side entry'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_Harwin.3dshapes/Harwin_M20-7810545_2x05_P2.54mm_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-OptoDevice-Hamamatsu_C12880|
 |Hex ID (short code)|hexID|FZKOPHAMAMATSUC1288|
 |name|name|OptoDevice : Hamamatsu_C12880|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Hamamatsu_C12880', 'description': 'Hamamatsu spectrometer, see http://www.hamamatsu.com/resources/pdf/ssd/c12880ma_kacc1226e.pdf', 'tags': 'opto spectrometer Hamamatsu', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/Hamamatsu_C12880.wrl', 'pins': {'type': 'thru_hole', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Hamamatsu_C12880'</td><td> 'description'</td></tr><tr><td> 'Hamamatsu spectrometer</td><td> see http</td></tr><tr><td>//www.hamamatsu.com/resources/pdf/ssd/c12880ma_kacc1226e.pdf'</td><td> 'tags'</td></tr><tr><td> 'opto spectrometer Hamamatsu'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/OptoDevice.3dshapes/Hamamatsu_C12880.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

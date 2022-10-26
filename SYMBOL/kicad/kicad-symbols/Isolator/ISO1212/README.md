@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKISOLATORISO1212 > ISO1212
+# SZKISOLATORISO1212 > Isolator : ISO1212
 
 - ID: SYMBOL-kicad-kicad-symbols-Isolator-ISO1212
 - Hex ID: SZKISOLATORISO1212
-- Name: ISO1212
-- Description: ISO1212
+- Name: Isolator : ISO1212
+- Description: Isolator : ISO1212
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-ISO1212](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-ISO1212)
 - Short Link: [http://oom.lt/SZKISOLATORISO1212](http://oom.lt/SZKISOLATORISO1212)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ISO1212|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Isolator-ISO1212|
 |Hex ID (short code)|hexID|SZKISOLATORISO1212|
-|name|name|ISO1212|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ISO1212', 'kicadSymbolFootprint': 'Package_SO:SSOP-16_3.9x4.9mm_P0.635mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/iso1212.pdf', 'kicadSymbolki_keywords': 'isolated digital input', 'kicadSymbolki_description': 'Isolated, 2 Channels, 24 to 60V Digital Inputs Receiver, SSOP-16', 'kicadSymbolki_fp_filters': 'SSOP*3.9x4.9mm*P0.635mm*'}]|
+|name|name|Isolator : ISO1212|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ISO1212'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SSOP-16_3.9x4.9mm_P0.635mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/iso1212.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'isolated digital input'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Isolated</td><td> 2 Channels</td><td> 24 to 60V Digital Inputs Receiver</td><td> SSOP-16'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SSOP*3.9x4.9mm*P0.635mm*'</td></tr></table>]|
 ||||

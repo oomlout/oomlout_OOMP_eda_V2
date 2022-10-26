@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORBJTBDW94A > BDW94A
+# SZKTRANSISTORBJTBDW94A > Transistor_BJT : BDW94A
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-BDW94A
 - Hex ID: SZKTRANSISTORBJTBDW94A
-- Name: BDW94A
-- Description: BDW94A
+- Name: Transistor_BJT : BDW94A
+- Description: Transistor_BJT : BDW94A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BDW94A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BDW94A)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTBDW94A](http://oom.lt/SZKTRANSISTORBJTBDW94A)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BDW94A|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_BJT-BDW94A|
 |Hex ID (short code)|hexID|SZKTRANSISTORBJTBDW94A|
-|name|name|BDW94A|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BDW94', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'BDW94A', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-220-3_Vertical', 'kicadSymbolDatasheet': 'http://www.bourns.com/data/global/pdfs/bdw94.pdf', 'kicadSymbolki_keywords': 'Darlington PNP Transistor', 'kicadSymbolki_description': '12A Ic, 60V Vce, Power Darlington PNP Transistor, TO-220', 'kicadSymbolki_fp_filters': 'TO?220*'}]|
+|name|name|Transistor_BJT : BDW94A|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'BDW94'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'BDW94A'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_THT</td></tr><tr><td>TO-220-3_Vertical'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.bourns.com/data/global/pdfs/bdw94.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Darlington PNP Transistor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '12A Ic</td><td> 60V Vce</td><td> Power Darlington PNP Transistor</td><td> TO-220'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TO?220*'</td></tr></table>]|
 ||||

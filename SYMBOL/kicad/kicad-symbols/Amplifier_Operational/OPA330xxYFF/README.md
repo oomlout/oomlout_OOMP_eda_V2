@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKAMPLIFIEROPERATIONALOPA33XXYFF > OPA330xxYFF
+# SZKAMPLIFIEROPERATIONALOPA33XXYFF > Amplifier_Operational : OPA330xxYFF
 
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA330xxYFF
 - Hex ID: SZKAMPLIFIEROPERATIONALOPA33XXYFF
-- Name: OPA330xxYFF
-- Description: OPA330xxYFF
+- Name: Amplifier_Operational : OPA330xxYFF
+- Description: Amplifier_Operational : OPA330xxYFF
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA330xxYFF](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA330xxYFF)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALOPA33XXYFF](http://oom.lt/SZKAMPLIFIEROPERATIONALOPA33XXYFF)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|OPA330xxYFF|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA330xxYFF|
 |Hex ID (short code)|hexID|SZKAMPLIFIEROPERATIONALOPA33XXYFF|
-|name|name|OPA330xxYFF|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'OPA330xxYFF', 'kicadSymbolFootprint': 'Package_BGA:Texas_DSBGA-5_0.822x1.116mm_Layout2x1x2_P0.4mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/opa330.pdf', 'kicadSymbolki_keywords': 'single opamp', 'kicadSymbolki_description': '50μV V OS, 0.25μV/°C, 35μA CMOS OPERATIONAL AMPLIFIERS, Zerø-Drift Series, DSBGA', 'kicadSymbolki_fp_filters': 'Texas*DSBGA*0.822x1.116mm*2x1x2*P0.4mm*'}]|
+|name|name|Amplifier_Operational : OPA330xxYFF|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'OPA330xxYFF'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_BGA</td></tr><tr><td>Texas_DSBGA-5_0.822x1.116mm_Layout2x1x2_P0.4mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/opa330.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'single opamp'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '50μV V OS</td><td> 0.25μV/°C</td><td> 35μA CMOS OPERATIONAL AMPLIFIERS</td><td> Zerø-Drift Series</td><td> DSBGA'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Texas*DSBGA*0.822x1.116mm*2x1x2*P0.4mm*'</td></tr></table>]|
 ||||

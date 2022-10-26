@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_VH_B2P3-VH_1x02_P7.92mm_Vertical|
 |Hex ID (short code)|hexID|FZKCNJSTJSTVHB2P3VH1X2P792VERTICAL|
 |name|name|Connector_JST : JST_VH_B2P3-VH_1x02_P7.92mm_Vertical|
-|Footprint Kicad|footprintKicadDetails|{'name': 'JST_VH_B2P3-VH_1x02_P7.92mm_Vertical', 'description': 'JST VH series connector, B2P3-VH (http://www.jst-mfg.com/product/pdf/eng/eVH.pdf), generated with kicad-footprint-generator', 'tags': 'connector JST VH vertical', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_JST.3dshapes/JST_VH_B2P3-VH_1x02_P7.92mm_Vertical.wrl', 'pins': {'type': 'thru_hole', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'JST_VH_B2P3-VH_1x02_P7.92mm_Vertical'</td><td> 'description'</td></tr><tr><td> 'JST VH series connector</td><td> B2P3-VH (http</td></tr><tr><td>//www.jst-mfg.com/product/pdf/eng/eVH.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'connector JST VH vertical'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_JST.3dshapes/JST_VH_B2P3-VH_1x02_P7.92mm_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORFETZXM61N2F > ZXM61N02F
+# SZKTRANSISTORFETZXM61N2F > Transistor_FET : ZXM61N02F
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-ZXM61N02F
 - Hex ID: SZKTRANSISTORFETZXM61N2F
-- Name: ZXM61N02F
-- Description: ZXM61N02F
+- Name: Transistor_FET : ZXM61N02F
+- Description: Transistor_FET : ZXM61N02F
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-ZXM61N02F](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-ZXM61N02F)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETZXM61N2F](http://oom.lt/SZKTRANSISTORFETZXM61N2F)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ZXM61N02F|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-ZXM61N02F|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETZXM61N2F|
-|name|name|ZXM61N02F|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BSS138', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'ZXM61N02F', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23', 'kicadSymbolDatasheet': 'http://www.diodes.com/assets/Datasheets/ZXM61N02F.pdf', 'kicadSymbolki_keywords': 'N-Channel MOSFET', 'kicadSymbolki_description': '1.7A Id, 20V Vds, N-Channel MOSFET, SOT-23', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
+|name|name|Transistor_FET : ZXM61N02F|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'BSS138'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ZXM61N02F'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-23'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.diodes.com/assets/Datasheets/ZXM61N02F.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'N-Channel MOSFET'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '1.7A Id</td><td> 20V Vds</td><td> N-Channel MOSFET</td><td> SOT-23'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23*'</td></tr></table>]|
 ||||

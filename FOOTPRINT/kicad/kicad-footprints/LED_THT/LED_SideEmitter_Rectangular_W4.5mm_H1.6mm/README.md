@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_SideEmitter_Rectangular_W4.5mm_H1.6mm|
 |Hex ID (short code)|hexID|FZKLLSIDEEMITTERRW45H16|
 |name|name|LED_THT : LED_SideEmitter_Rectangular_W4.5mm_H1.6mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'LED_SideEmitter_Rectangular_W4.5mm_H1.6mm', 'description': 'LED_SideEmitter_Rectangular, Rectangular, SideEmitter,  Rectangular size 4.5x1.6mm^2, 2 pins, http://cdn-reichelt.de/documents/datenblatt/A500/LED15MMGE_LED15MMGN%23KIN.pdf', 'tags': 'LED_SideEmitter_Rectangular Rectangular SideEmitter  Rectangular size 4.5x1.6mm^2 2 pins', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/LED_THT.3dshapes/LED_SideEmitter_Rectangular_W4.5mm_H1.6mm.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'LED_SideEmitter_Rectangular_W4.5mm_H1.6mm'</td><td> 'description'</td></tr><tr><td> 'LED_SideEmitter_Rectangular</td><td> Rectangular</td><td> SideEmitter</td><td>  Rectangular size 4.5x1.6mm^2</td><td> 2 pins</td><td> http</td></tr><tr><td>//cdn-reichelt.de/documents/datenblatt/A500/LED15MMGE_LED15MMGN%23KIN.pdf'</td><td> 'tags'</td></tr><tr><td> 'LED_SideEmitter_Rectangular Rectangular SideEmitter  Rectangular size 4.5x1.6mm^2 2 pins'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/LED_THT.3dshapes/LED_SideEmitter_Rectangular_W4.5mm_H1.6mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

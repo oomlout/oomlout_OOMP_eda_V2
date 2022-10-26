@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Potentiometer_SMD-Potentiometer_ACP_CA9-VSMD_Vertical|
 |Hex ID (short code)|hexID|FZKPOTENTIOMETERSMPOTENTIOMETERACPCA9VSMVERTICAL|
 |name|name|Potentiometer_SMD : Potentiometer_ACP_CA9-VSMD_Vertical|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Potentiometer_ACP_CA9-VSMD_Vertical', 'description': 'Potentiometer, vertical, ACP CA9-VSMD, http://www.acptechnologies.com/wp-content/uploads/2017/05/02-ACP-CA9-CE9.pdf', 'tags': 'Potentiometer vertical ACP CA9-VSMD', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Potentiometer_SMD.3dshapes/Potentiometer_ACP_CA9-VSMD_Vertical.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Potentiometer_ACP_CA9-VSMD_Vertical'</td><td> 'description'</td></tr><tr><td> 'Potentiometer</td><td> vertical</td><td> ACP CA9-VSMD</td><td> http</td></tr><tr><td>//www.acptechnologies.com/wp-content/uploads/2017/05/02-ACP-CA9-CE9.pdf'</td><td> 'tags'</td></tr><tr><td> 'Potentiometer vertical ACP CA9-VSMD'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Potentiometer_SMD.3dshapes/Potentiometer_ACP_CA9-VSMD_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

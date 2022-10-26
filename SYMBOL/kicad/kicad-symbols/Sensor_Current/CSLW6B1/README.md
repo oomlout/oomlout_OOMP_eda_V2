@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKSENCURRENTCSLW6B1 > CSLW6B1
+# SZKSENCURRENTCSLW6B1 > Sensor_Current : CSLW6B1
 
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Current-CSLW6B1
 - Hex ID: SZKSENCURRENTCSLW6B1
-- Name: CSLW6B1
-- Description: CSLW6B1
+- Name: Sensor_Current : CSLW6B1
+- Description: Sensor_Current : CSLW6B1
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-CSLW6B1](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-CSLW6B1)
 - Short Link: [http://oom.lt/SZKSENCURRENTCSLW6B1](http://oom.lt/SZKSENCURRENTCSLW6B1)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|CSLW6B1|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Current-CSLW6B1|
 |Hex ID (short code)|hexID|SZKSENCURRENTCSLW6B1|
-|name|name|CSLW6B1|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'CSLW6B1', 'kicadSymbolFootprint': 'Sensor_Current:Honeywell_CSLW', 'kicadSymbolDatasheet': 'https://sensing.honeywell.com/honeywell-sensing-cslw-series-product-sheet-005861-1-en.pdf', 'kicadSymbolki_keywords': 'hall current sensor', 'kicadSymbolki_description': 'Miniature Wired Open-Loop Current Sensors, 1A', 'kicadSymbolki_fp_filters': 'Honeywell*CSLW*'}]|
+|name|name|Sensor_Current : CSLW6B1|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'CSLW6B1'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Sensor_Current</td></tr><tr><td>Honeywell_CSLW'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//sensing.honeywell.com/honeywell-sensing-cslw-series-product-sheet-005861-1-en.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'hall current sensor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Miniature Wired Open-Loop Current Sensors</td><td> 1A'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Honeywell*CSLW*'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORCONTROLLERNCP1217AP65 > NCP1217AP65
+# SZKREGULATORCONTROLLERNCP1217AP65 > Regulator_Controller : NCP1217AP65
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Controller-NCP1217AP65
 - Hex ID: SZKREGULATORCONTROLLERNCP1217AP65
-- Name: NCP1217AP65
-- Description: NCP1217AP65
+- Name: Regulator_Controller : NCP1217AP65
+- Description: Regulator_Controller : NCP1217AP65
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-NCP1217AP65](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-NCP1217AP65)
 - Short Link: [http://oom.lt/SZKREGULATORCONTROLLERNCP1217AP65](http://oom.lt/SZKREGULATORCONTROLLERNCP1217AP65)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|NCP1217AP65|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Controller-NCP1217AP65|
 |Hex ID (short code)|hexID|SZKREGULATORCONTROLLERNCP1217AP65|
-|name|name|NCP1217AP65|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'NCP1200P40', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'NCP1217AP65', 'kicadSymbolFootprint': 'Package_DIP:DIP-8_W7.62mm', 'kicadSymbolDatasheet': 'http://www.onsemi.com/pub_link/Collateral/NCP1217-D.PDF', 'kicadSymbolki_keywords': 'SMPS Controller AC-DC', 'kicadSymbolki_description': 'Enhanced PWM Current-Mode Controller for High-Power Universal Off-Line Supplies, AC-DC, 65kHz, 1ms Soft Start, PDIP-8', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
+|name|name|Regulator_Controller : NCP1217AP65|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'NCP1200P40'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'NCP1217AP65'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>DIP-8_W7.62mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.onsemi.com/pub_link/Collateral/NCP1217-D.PDF'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'SMPS Controller AC-DC'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Enhanced PWM Current-Mode Controller for High-Power Universal Off-Line Supplies</td><td> AC-DC</td><td> 65kHz</td><td> 1ms Soft Start</td><td> PDIP-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W7.62mm*'</td></tr></table>]|
 ||||

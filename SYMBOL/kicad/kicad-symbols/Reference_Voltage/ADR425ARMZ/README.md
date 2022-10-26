@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREFERENCEVOLTAGEADR425ARMZ > ADR425ARMZ
+# SZKREFERENCEVOLTAGEADR425ARMZ > Reference_Voltage : ADR425ARMZ
 
 - ID: SYMBOL-kicad-kicad-symbols-Reference_Voltage-ADR425ARMZ
 - Hex ID: SZKREFERENCEVOLTAGEADR425ARMZ
-- Name: ADR425ARMZ
-- Description: ADR425ARMZ
+- Name: Reference_Voltage : ADR425ARMZ
+- Description: Reference_Voltage : ADR425ARMZ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-ADR425ARMZ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-ADR425ARMZ)
 - Short Link: [http://oom.lt/SZKREFERENCEVOLTAGEADR425ARMZ](http://oom.lt/SZKREFERENCEVOLTAGEADR425ARMZ)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ADR425ARMZ|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Reference_Voltage-ADR425ARMZ|
 |Hex ID (short code)|hexID|SZKREFERENCEVOLTAGEADR425ARMZ|
-|name|name|ADR425ARMZ|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ADR420ARMZ', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ADR425ARMZ', 'kicadSymbolFootprint': 'Package_SO:MSOP-8_3x3mm_P0.65mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/adr420_421_423_425.pdf', 'kicadSymbolki_keywords': '5V voltage reference', 'kicadSymbolki_description': '5.00V Voltage Reference, Ultraprecision, Low Noise, MSOP-8', 'kicadSymbolki_fp_filters': 'MSOP*3x3mm*P0.65mm*'}]|
+|name|name|Reference_Voltage : ADR425ARMZ|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'ADR420ARMZ'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ADR425ARMZ'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>MSOP-8_3x3mm_P0.65mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/adr420_421_423_425.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> '5V voltage reference'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '5.00V Voltage Reference</td><td> Ultraprecision</td><td> Low Noise</td><td> MSOP-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'MSOP*3x3mm*P0.65mm*'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORBJTBT5551L > MMBT5551L
+# SZKTRANSISTORBJTBT5551L > Transistor_BJT : MMBT5551L
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-MMBT5551L
 - Hex ID: SZKTRANSISTORBJTBT5551L
-- Name: MMBT5551L
-- Description: MMBT5551L
+- Name: Transistor_BJT : MMBT5551L
+- Description: Transistor_BJT : MMBT5551L
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-MMBT5551L](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-MMBT5551L)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTBT5551L](http://oom.lt/SZKTRANSISTORBJTBT5551L)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MMBT5551L|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_BJT-MMBT5551L|
 |Hex ID (short code)|hexID|SZKTRANSISTORBJTBT5551L|
-|name|name|MMBT5551L|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BC817', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'MMBT5551L', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23', 'kicadSymbolDatasheet': 'www.onsemi.com/pub/Collateral/MMBT5550LT1-D.PDF', 'kicadSymbolki_keywords': 'NPN Transistor', 'kicadSymbolki_description': '0.6A Ic, 160V Vce, NPN Transistor, SOT-23', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
+|name|name|Transistor_BJT : MMBT5551L|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'BC817'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MMBT5551L'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-23'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'www.onsemi.com/pub/Collateral/MMBT5550LT1-D.PDF'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'NPN Transistor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '0.6A Ic</td><td> 160V Vce</td><td> NPN Transistor</td><td> SOT-23'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23*'</td></tr></table>]|
 ||||

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Jumper_Micro-Miniature_P5.375mm|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSJMMATUREP5375|
 |name|name|digikey-footprints : Jumper_Micro-Miniature_P5.375mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Jumper_Micro-Miniature_P5.375mm', 'description': 'file:///C:/Users/chad_rosencrans/Downloads/5102.pdf', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Jumper_Micro-Miniature_P5.375mm'</td><td> 'description'</td></tr><tr><td> 'file</td></tr><tr><td>///C</td></tr><tr><td>/Users/chad_rosencrans/Downloads/5102.pdf'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORSWITCHINGMCP16312MNY > MCP16312MNY
+# SZKREGULATORSWITCHINGMCP16312MNY > Regulator_Switching : MCP16312MNY
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-MCP16312MNY
 - Hex ID: SZKREGULATORSWITCHINGMCP16312MNY
-- Name: MCP16312MNY
-- Description: MCP16312MNY
+- Name: Regulator_Switching : MCP16312MNY
+- Description: Regulator_Switching : MCP16312MNY
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-MCP16312MNY](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-MCP16312MNY)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGMCP16312MNY](http://oom.lt/SZKREGULATORSWITCHINGMCP16312MNY)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MCP16312MNY|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-MCP16312MNY|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGMCP16312MNY|
-|name|name|MCP16312MNY|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MCP16311MNY', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MCP16312MNY', 'kicadSymbolFootprint': 'Package_DFN_QFN:DFN-8-1EP_3x2mm_P0.5mm_EP1.75x1.45mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/20005255B.pdf', 'kicadSymbolki_keywords': 'switching buck converter power-supply voltage regulator', 'kicadSymbolki_description': '1A Output Voltage, 30V Input, integrated switch step-down regulator, PWM modulation, DFN-8', 'kicadSymbolki_fp_filters': 'DFN*1EP*3x2mm*P0.5mm*'}]|
+|name|name|Regulator_Switching : MCP16312MNY|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'MCP16311MNY'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MCP16312MNY'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>DFN-8-1EP_3x2mm_P0.5mm_EP1.75x1.45mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/20005255B.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'switching buck converter power-supply voltage regulator'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '1A Output Voltage</td><td> 30V Input</td><td> integrated switch step-down regulator</td><td> PWM modulation</td><td> DFN-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DFN*1EP*3x2mm*P0.5mm*'</td></tr></table>]|
 ||||

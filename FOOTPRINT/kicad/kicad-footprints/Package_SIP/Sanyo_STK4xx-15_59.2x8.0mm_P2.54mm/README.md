@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SIP-Sanyo_STK4xx-15_59.2x8.0mm_P2.54mm|
 |Hex ID (short code)|hexID|FZKSIPSANYOSTK4XX15592X8P254|
 |name|name|Package_SIP : Sanyo_STK4xx-15_59.2x8.0mm_P2.54mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Sanyo_STK4xx-15_59.2x8.0mm_P2.54mm', 'description': 'Sanyo SIP-15, 59.2mm x 8.0mm bosy size, STK-433E STK-435E STK-436E (http://datasheet.octopart.com/STK430-Sanyo-datasheet-107060.pdf)', 'tags': 'Sanyo SIP-15', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SIP.3dshapes/Sanyo_STK4xx-15_59.2x8.0mm_P2.54mm.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Sanyo_STK4xx-15_59.2x8.0mm_P2.54mm'</td><td> 'description'</td></tr><tr><td> 'Sanyo SIP-15</td><td> 59.2mm x 8.0mm bosy size</td><td> STK-433E STK-435E STK-436E (http</td></tr><tr><td>//datasheet.octopart.com/STK430-Sanyo-datasheet-107060.pdf)'</td><td> 'tags'</td></tr><tr><td> 'Sanyo SIP-15'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_SIP.3dshapes/Sanyo_STK4xx-15_59.2x8.0mm_P2.54mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

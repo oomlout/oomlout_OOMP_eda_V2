@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDEVICEQPJFETDGS > Q_PJFET_DGS
+# SZKDEVICEQPJFETDGS > Device : Q_PJFET_DGS
 
 - ID: SYMBOL-kicad-kicad-symbols-Device-Q_PJFET_DGS
 - Hex ID: SZKDEVICEQPJFETDGS
-- Name: Q_PJFET_DGS
-- Description: Q_PJFET_DGS
+- Name: Device : Q_PJFET_DGS
+- Description: Device : Q_PJFET_DGS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Q_PJFET_DGS](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Q_PJFET_DGS)
 - Short Link: [http://oom.lt/SZKDEVICEQPJFETDGS](http://oom.lt/SZKDEVICEQPJFETDGS)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Q_PJFET_DGS|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-Q_PJFET_DGS|
 |Hex ID (short code)|hexID|SZKDEVICEQPJFETDGS|
-|name|name|Q_PJFET_DGS|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'Q_PJFET_DGS', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'transistor PJFET P-JFET', 'kicadSymbolki_description': 'P-JFET transistor, drain/gate/source'}]|
+|name|name|Device : Q_PJFET_DGS|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Q_PJFET_DGS'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'transistor PJFET P-JFET'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'P-JFET transistor</td><td> drain/gate/source'</td></tr></table>]|
 ||||

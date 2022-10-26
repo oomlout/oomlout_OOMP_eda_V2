@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKCONJTD224S5 > JTD2024S05
+# SZKCONJTD224S5 > Converter_DCDC : JTD2024S05
 
 - ID: SYMBOL-kicad-kicad-symbols-Converter_DCDC-JTD2024S05
 - Hex ID: SZKCONJTD224S5
-- Name: JTD2024S05
-- Description: JTD2024S05
+- Name: Converter_DCDC : JTD2024S05
+- Description: Converter_DCDC : JTD2024S05
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-JTD2024S05](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-JTD2024S05)
 - Short Link: [http://oom.lt/SZKCONJTD224S5](http://oom.lt/SZKCONJTD224S5)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|JTD2024S05|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Converter_DCDC-JTD2024S05|
 |Hex ID (short code)|hexID|SZKCONJTD224S5|
-|name|name|JTD2024S05|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'JTD2024S3V3', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'JTD2024S05', 'kicadSymbolFootprint': 'Converter_DCDC:Converter_DCDC_XP_POWER_JTDxxxxxxx_THT', 'kicadSymbolDatasheet': 'https://www.xppower.com/portals/0/pdfs/SF_JTD20.pdf', 'kicadSymbolki_keywords': 'isolated isolation dc-dc converter step-down', 'kicadSymbolki_description': 'Isolated 20W 4:1 input DC/DC converter module, 9-36V input voltage, 5V output voltage, DIP', 'kicadSymbolki_fp_filters': 'Converter*DCDC*XP?POWER*JTDxxxxxxx*'}]|
+|name|name|Converter_DCDC : JTD2024S05|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'JTD2024S3V3'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'JTD2024S05'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Converter_DCDC</td></tr><tr><td>Converter_DCDC_XP_POWER_JTDxxxxxxx_THT'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.xppower.com/portals/0/pdfs/SF_JTD20.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'isolated isolation dc-dc converter step-down'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Isolated 20W 4</td></tr><tr><td>1 input DC/DC converter module</td><td> 9-36V input voltage</td><td> 5V output voltage</td><td> DIP'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Converter*DCDC*XP?POWER*JTDxxxxxxx*'</td></tr></table>]|
 ||||

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_Micro-B_Wuerth_614105150721_Vertical_CircularHoles|
 |Hex ID (short code)|hexID|FZKCNUUMBWUERTH6141515721VERTICALCIRCULARH|
 |name|name|Connector_USB : USB_Micro-B_Wuerth_614105150721_Vertical_CircularHoles|
-|Footprint Kicad|footprintKicadDetails|{'name': 'USB_Micro-B_Wuerth_614105150721_Vertical_CircularHoles', 'description': 'USB Micro-B receptacle, through-hole, vertical, http://katalog.we-online.de/em/datasheet/614105150721.pdf', 'tags': 'usb micro receptacle vertical', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_USB.3dshapes/USB_Micro-B_Wuerth_614105150721_Vertical_CircularHoles.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'USB_Micro-B_Wuerth_614105150721_Vertical_CircularHoles'</td><td> 'description'</td></tr><tr><td> 'USB Micro-B receptacle</td><td> through-hole</td><td> vertical</td><td> http</td></tr><tr><td>//katalog.we-online.de/em/datasheet/614105150721.pdf'</td><td> 'tags'</td></tr><tr><td> 'usb micro receptacle vertical'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_USB.3dshapes/USB_Micro-B_Wuerth_614105150721_Vertical_CircularHoles.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

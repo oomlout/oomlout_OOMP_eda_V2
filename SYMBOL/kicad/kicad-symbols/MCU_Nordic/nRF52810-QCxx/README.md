@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUNORDICNRF5281QCXX > nRF52810-QCxx
+# SZKMCUNORDICNRF5281QCXX > MCU_Nordic : nRF52810-QCxx
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Nordic-nRF52810-QCxx
 - Hex ID: SZKMCUNORDICNRF5281QCXX
-- Name: nRF52810-QCxx
-- Description: nRF52810-QCxx
+- Name: MCU_Nordic : nRF52810-QCxx
+- Description: MCU_Nordic : nRF52810-QCxx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Nordic-nRF52810-QCxx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Nordic-nRF52810-QCxx)
 - Short Link: [http://oom.lt/SZKMCUNORDICNRF5281QCXX](http://oom.lt/SZKMCUNORDICNRF5281QCXX)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|nRF52810-QCxx|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Nordic-nRF52810-QCxx|
 |Hex ID (short code)|hexID|SZKMCUNORDICNRF5281QCXX|
-|name|name|nRF52810-QCxx|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'nRF52810-QCxx', 'kicadSymbolFootprint': 'Package_DFN_QFN:QFN-32-1EP_5x5mm_P0.5mm_EP3.6x3.6mm', 'kicadSymbolDatasheet': 'http://infocenter.nordicsemi.com/pdf/nRF52810_PS_v1.1.pdf', 'kicadSymbolki_keywords': 'MCU, ARM, BLE, 2.4GHz', 'kicadSymbolki_description': 'Multiprotocol BLE/2.4GHz Cortex-M4 SoC, QFN-32', 'kicadSymbolki_fp_filters': 'QFN*1EP*5x5mm*P0.5mm*'}]|
+|name|name|MCU_Nordic : nRF52810-QCxx|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'nRF52810-QCxx'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>QFN-32-1EP_5x5mm_P0.5mm_EP3.6x3.6mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//infocenter.nordicsemi.com/pdf/nRF52810_PS_v1.1.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'MCU</td><td> ARM</td><td> BLE</td><td> 2.4GHz'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Multiprotocol BLE/2.4GHz Cortex-M4 SoC</td><td> QFN-32'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'QFN*1EP*5x5mm*P0.5mm*'</td></tr></table>]|
 ||||

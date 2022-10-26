@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZK74XX74AHC373 > 74AHC373
+# SZK74XX74AHC373 > 74xx : 74AHC373
 
 - ID: SYMBOL-kicad-kicad-symbols-74xx-74AHC373
 - Hex ID: SZK74XX74AHC373
-- Name: 74AHC373
-- Description: 74AHC373
+- Name: 74xx : 74AHC373
+- Description: 74xx : 74AHC373
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx-74AHC373](http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx-74AHC373)
 - Short Link: [http://oom.lt/SZK74XX74AHC373](http://oom.lt/SZK74XX74AHC373)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74AHC373|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xx-74AHC373|
 |Hex ID (short code)|hexID|SZK74XX74AHC373|
-|name|name|74AHC373|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '74LS373', 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74AHC373', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://assets.nexperia.com/documents/data-sheet/74AHC373.pdf', 'kicadSymbolki_keywords': 'AHCMOS REG DFF DFF8 LATCH', 'kicadSymbolki_description': '8-bit Latch, 3-state outputs', 'kicadSymbolki_fp_filters': 'DIP?20* SOIC?20* SO?20* SSOP?20* TSSOP?20*'}]|
+|name|name|74xx : 74AHC373|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> '74LS373'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> '74AHC373'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//assets.nexperia.com/documents/data-sheet/74AHC373.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'AHCMOS REG DFF DFF8 LATCH'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '8-bit Latch</td><td> 3-state outputs'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP?20* SOIC?20* SO?20* SSOP?20* TSSOP?20*'</td></tr></table>]|
 ||||

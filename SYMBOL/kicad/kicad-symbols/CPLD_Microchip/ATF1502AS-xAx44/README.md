@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKCPLDMCHIPATF152ASXAX44 > ATF1502AS-xAx44
+# SZKCPLDMCHIPATF152ASXAX44 > CPLD_Microchip : ATF1502AS-xAx44
 
 - ID: SYMBOL-kicad-kicad-symbols-CPLD_Microchip-ATF1502AS-xAx44
 - Hex ID: SZKCPLDMCHIPATF152ASXAX44
-- Name: ATF1502AS-xAx44
-- Description: ATF1502AS-xAx44
+- Name: CPLD_Microchip : ATF1502AS-xAx44
+- Description: CPLD_Microchip : ATF1502AS-xAx44
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-CPLD_Microchip-ATF1502AS-xAx44](http://oom.lt/SYMBOL-kicad-kicad-symbols-CPLD_Microchip-ATF1502AS-xAx44)
 - Short Link: [http://oom.lt/SZKCPLDMCHIPATF152ASXAX44](http://oom.lt/SZKCPLDMCHIPATF152ASXAX44)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ATF1502AS-xAx44|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-CPLD_Microchip-ATF1502AS-xAx44|
 |Hex ID (short code)|hexID|SZKCPLDMCHIPATF152ASXAX44|
-|name|name|ATF1502AS-xAx44|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ATF1502AS-xAx44', 'kicadSymbolFootprint': 'Package_QFP:TQFP-44_10x10mm_P0.8mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-0995-CPLD-ATF1502AS(L)-Datasheet.pdf', 'kicadSymbolki_keywords': 'CPLD', 'kicadSymbolki_description': 'Microchip CPLD, 32 Macrocell, 5 V, TQFP-44', 'kicadSymbolki_fp_filters': 'TQFP*10x10mm*P0.8mm*'}]|
+|name|name|CPLD_Microchip : ATF1502AS-xAx44|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ATF1502AS-xAx44'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_QFP</td></tr><tr><td>TQFP-44_10x10mm_P0.8mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/Atmel-0995-CPLD-ATF1502AS(L)-Datasheet.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'CPLD'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Microchip CPLD</td><td> 32 Macrocell</td><td> 5 V</td><td> TQFP-44'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TQFP*10x10mm*P0.8mm*'</td></tr></table>]|
 ||||

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SMD-14_Grideye|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSM14GRIDEYE|
 |name|name|digikey-footprints : SMD-14_Grideye|
-|Footprint Kicad|footprintKicadDetails|{'name': 'SMD-14_Grideye', 'description': 'https://industrial.panasonic.com/content/data/CP/PDF/built-in_sensor_catalog_e.pdf', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SMD-14_Grideye'</td><td> 'description'</td></tr><tr><td> 'https</td></tr><tr><td>//industrial.panasonic.com/content/data/CP/PDF/built-in_sensor_catalog_e.pdf'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

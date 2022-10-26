@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKCNBUSISA16BIT > Bus_ISA_16bit
+# SZKCNBUSISA16BIT > Connector : Bus_ISA_16bit
 
 - ID: SYMBOL-kicad-kicad-symbols-Connector-Bus_ISA_16bit
 - Hex ID: SZKCNBUSISA16BIT
-- Name: Bus_ISA_16bit
-- Description: Bus_ISA_16bit
+- Name: Connector : Bus_ISA_16bit
+- Description: Connector : Bus_ISA_16bit
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-Bus_ISA_16bit](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-Bus_ISA_16bit)
 - Short Link: [http://oom.lt/SZKCNBUSISA16BIT](http://oom.lt/SZKCNBUSISA16BIT)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Bus_ISA_16bit|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-Bus_ISA_16bit|
 |Hex ID (short code)|hexID|SZKCNBUSISA16BIT|
-|name|name|Bus_ISA_16bit|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'Bus_ISA_16bit', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://en.wikipedia.org/wiki/Industry_Standard_Architecture', 'kicadSymbolki_keywords': 'ISA', 'kicadSymbolki_description': '16-bit ISA-AT bus connector'}]|
+|name|name|Connector : Bus_ISA_16bit|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'J'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Bus_ISA_16bit'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//en.wikipedia.org/wiki/Industry_Standard_Architecture'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'ISA'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '16-bit ISA-AT bus connector'</td></tr></table>]|
 ||||

@@ -29,5 +29,5 @@ NO IMAGE
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-RF_Module-Microchip_RN4871|
 |Hex ID (short code)|hexID|FZKRFMOMCHIPRN4871|
 |name|name|RF_Module : Microchip_RN4871|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Microchip_RN4871', 'description': 'Microchip RN4871 footprint', 'tags': 'RN4871 BLE', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/RF_Module.3dshapes/Microchip_RN4871.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Microchip_RN4871'</td><td> 'description'</td></tr><tr><td> 'Microchip RN4871 footprint'</td><td> 'tags'</td></tr><tr><td> 'RN4871 BLE'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/RF_Module.3dshapes/Microchip_RN4871.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

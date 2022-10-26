@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDEVICELGBAR > LED_GBAR
+# SZKDEVICELGBAR > Device : LED_GBAR
 
 - ID: SYMBOL-kicad-kicad-symbols-Device-LED_GBAR
 - Hex ID: SZKDEVICELGBAR
-- Name: LED_GBAR
-- Description: LED_GBAR
+- Name: Device : LED_GBAR
+- Description: Device : LED_GBAR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-LED_GBAR](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-LED_GBAR)
 - Short Link: [http://oom.lt/SZKDEVICELGBAR](http://oom.lt/SZKDEVICELGBAR)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LED_GBAR|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-LED_GBAR|
 |Hex ID (short code)|hexID|SZKDEVICELGBAR|
-|name|name|LED_GBAR|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'LED_GBAR', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'LED RGB diode', 'kicadSymbolki_description': 'RGB LED, green/blue/anode/red', 'kicadSymbolki_fp_filters': 'LED* LED_SMD:* LED_THT:*'}]|
+|name|name|Device : LED_GBAR|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LED_GBAR'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'LED RGB diode'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'RGB LED</td><td> green/blue/anode/red'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'LED* LED_SMD</td></tr><tr><td>* LED_THT</td></tr><tr><td>*'</td></tr></table>]|
 ||||

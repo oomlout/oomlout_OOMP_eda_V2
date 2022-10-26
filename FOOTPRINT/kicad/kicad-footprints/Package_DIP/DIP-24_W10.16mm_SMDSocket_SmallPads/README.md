@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DIP-DIP-24_W10.16mm_SMDSocket_SmallPads|
 |Hex ID (short code)|hexID|FZKDIPDIP24W116SMSOSLLPADS|
 |name|name|Package_DIP : DIP-24_W10.16mm_SMDSocket_SmallPads|
-|Footprint Kicad|footprintKicadDetails|{'name': 'DIP-24_W10.16mm_SMDSocket_SmallPads', 'description': '24-lead though-hole mounted DIP package, row spacing 10.16 mm (400 mils), SMDSocket, SmallPads', 'tags': 'THT DIP DIL PDIP 2.54mm 10.16mm 400mil SMDSocket SmallPads', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DIP.3dshapes/DIP-24_W10.16mm_SMDSocket.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'DIP-24_W10.16mm_SMDSocket_SmallPads'</td><td> 'description'</td></tr><tr><td> '24-lead though-hole mounted DIP package</td><td> row spacing 10.16 mm (400 mils)</td><td> SMDSocket</td><td> SmallPads'</td><td> 'tags'</td></tr><tr><td> 'THT DIP DIL PDIP 2.54mm 10.16mm 400mil SMDSocket SmallPads'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DIP.3dshapes/DIP-24_W10.16mm_SMDSocket.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

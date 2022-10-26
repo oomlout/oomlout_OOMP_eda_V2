@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKINTERFACECANLINTJA151TE > TJA1051T-E
+# SZKINTERFACECANLINTJA151TE > Interface_CAN_LIN : TJA1051T-E
 
 - ID: SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-TJA1051T-E
 - Hex ID: SZKINTERFACECANLINTJA151TE
-- Name: TJA1051T-E
-- Description: TJA1051T-E
+- Name: Interface_CAN_LIN : TJA1051T-E
+- Description: Interface_CAN_LIN : TJA1051T-E
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-TJA1051T-E](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-TJA1051T-E)
 - Short Link: [http://oom.lt/SZKINTERFACECANLINTJA151TE](http://oom.lt/SZKINTERFACECANLINTJA151TE)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TJA1051T-E|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-TJA1051T-E|
 |Hex ID (short code)|hexID|SZKINTERFACECANLINTJA151TE|
-|name|name|TJA1051T-E|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TJA1051T-E', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm', 'kicadSymbolDatasheet': 'http://www.nxp.com/documents/data_sheet/TJA1051.pdf', 'kicadSymbolki_keywords': 'High-Speed CAN Transceiver', 'kicadSymbolki_description': 'High-Speed CAN Transceiver, enable pin, silent mode, SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm*'}]|
+|name|name|Interface_CAN_LIN : TJA1051T-E|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TJA1051T-E'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-8_3.9x4.9mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.nxp.com/documents/data_sheet/TJA1051.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'High-Speed CAN Transceiver'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'High-Speed CAN Transceiver</td><td> enable pin</td><td> silent mode</td><td> SOIC-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*3.9x4.9mm*P1.27mm*'</td></tr></table>]|
 ||||

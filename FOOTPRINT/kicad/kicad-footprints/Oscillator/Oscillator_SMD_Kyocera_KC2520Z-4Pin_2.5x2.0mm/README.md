@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_Kyocera_KC2520Z-4Pin_2.5x2.0mm|
 |Hex ID (short code)|hexID|FZKOCSOCSSMKYOCERAKC252Z4PIN25X2|
 |name|name|Oscillator : Oscillator_SMD_Kyocera_KC2520Z-4Pin_2.5x2.0mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Oscillator_SMD_Kyocera_KC2520Z-4Pin_2.5x2.0mm', 'description': 'https://global.kyocera.com/prdct/electro/product/pdf/clock_z_xz_e.pdf', 'tags': '2.5mm 2mm SMD', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Oscillator.3dshapes/Oscillator_SMD_Kyocera_KC2520Z-4Pin_2.5x2.0mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Oscillator_SMD_Kyocera_KC2520Z-4Pin_2.5x2.0mm'</td><td> 'description'</td></tr><tr><td> 'https</td></tr><tr><td>//global.kyocera.com/prdct/electro/product/pdf/clock_z_xz_e.pdf'</td><td> 'tags'</td></tr><tr><td> '2.5mm 2mm SMD'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Oscillator.3dshapes/Oscillator_SMD_Kyocera_KC2520Z-4Pin_2.5x2.0mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

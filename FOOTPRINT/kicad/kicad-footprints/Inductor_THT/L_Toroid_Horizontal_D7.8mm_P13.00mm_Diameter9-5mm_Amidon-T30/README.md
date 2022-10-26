@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Toroid_Horizontal_D7.8mm_P13.00mm_Diameter9-5mm_Amidon-T30|
 |Hex ID (short code)|hexID|FZKINLTOROIDHORIZONTALD78P13DIAMETER95AMIDONT3|
 |name|name|Inductor_THT : L_Toroid_Horizontal_D7.8mm_P13.00mm_Diameter9-5mm_Amidon-T30|
-|Footprint Kicad|footprintKicadDetails|{'name': 'L_Toroid_Horizontal_D7.8mm_P13.00mm_Diameter9-5mm_Amidon-T30', 'description': 'L_Toroid, Horizontal series, Radial, pin pitch=13.00mm, , diameter=7.7978mm, Diameter9-5mm, Amidon-T30', 'tags': 'L_Toroid Horizontal series Radial pin pitch 13.00mm  diameter 7.7978mm Diameter9-5mm Amidon-T30', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Toroid_Horizontal_D7.8mm_P13.00mm_Diameter9-5mm_Amidon-T30.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'L_Toroid_Horizontal_D7.8mm_P13.00mm_Diameter9-5mm_Amidon-T30'</td><td> 'description'</td></tr><tr><td> 'L_Toroid</td><td> Horizontal series</td><td> Radial</td><td> pin pitch=13.00mm</td><td> </td><td> diameter=7.7978mm</td><td> Diameter9-5mm</td><td> Amidon-T30'</td><td> 'tags'</td></tr><tr><td> 'L_Toroid Horizontal series Radial pin pitch 13.00mm  diameter 7.7978mm Diameter9-5mm Amidon-T30'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Inductor_THT.3dshapes/L_Toroid_Horizontal_D7.8mm_P13.00mm_Diameter9-5mm_Amidon-T30.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

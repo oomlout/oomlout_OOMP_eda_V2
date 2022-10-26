@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKPOWERPROTECTIONTPD2S17 > TPD2S017
+# SZKPOWERPROTECTIONTPD2S17 > Power_Protection : TPD2S017
 
 - ID: SYMBOL-kicad-kicad-symbols-Power_Protection-TPD2S017
 - Hex ID: SZKPOWERPROTECTIONTPD2S17
-- Name: TPD2S017
-- Description: TPD2S017
+- Name: Power_Protection : TPD2S017
+- Description: Power_Protection : TPD2S017
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-TPD2S017](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-TPD2S017)
 - Short Link: [http://oom.lt/SZKPOWERPROTECTIONTPD2S17](http://oom.lt/SZKPOWERPROTECTIONTPD2S17)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TPD2S017|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Protection-TPD2S017|
 |Hex ID (short code)|hexID|SZKPOWERPROTECTIONTPD2S17|
-|name|name|TPD2S017|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TPD2S017', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-6', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tpd2s017.pdf', 'kicadSymbolki_keywords': 'ESD protection', 'kicadSymbolki_description': '2-Channel Ultra-Low Clamp Voltage ESD Solution With Series-Resistor Isolation, SOT-23', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
+|name|name|Power_Protection : TPD2S017|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TPD2S017'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-23-6'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/tpd2s017.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'ESD protection'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '2-Channel Ultra-Low Clamp Voltage ESD Solution With Series-Resistor Isolation</td><td> SOT-23'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23*'</td></tr></table>]|
 ||||

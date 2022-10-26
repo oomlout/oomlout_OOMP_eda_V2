@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKINTERFACEFIN119M > FIN1019M
+# SZKINTERFACEFIN119M > Interface : FIN1019M
 
 - ID: SYMBOL-kicad-kicad-symbols-Interface-FIN1019M
 - Hex ID: SZKINTERFACEFIN119M
-- Name: FIN1019M
-- Description: FIN1019M
+- Name: Interface : FIN1019M
+- Description: Interface : FIN1019M
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-FIN1019M](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-FIN1019M)
 - Short Link: [http://oom.lt/SZKINTERFACEFIN119M](http://oom.lt/SZKINTERFACEFIN119M)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|FIN1019M|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface-FIN1019M|
 |Hex ID (short code)|hexID|SZKINTERFACEFIN119M|
-|name|name|FIN1019M|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'FIN1019M', 'kicadSymbolFootprint': 'Package_SO:SOIC-14_3.9x8.7mm_P1.27mm', 'kicadSymbolDatasheet': 'http://www.onsemi.com/pub/Collateral/FIN1019-D.pdf', 'kicadSymbolki_keywords': 'lvds driver receiver', 'kicadSymbolki_description': '3.3V LVDS High Speed Differential Driver/Receiver, 400Mbps, SOIC-14', 'kicadSymbolki_fp_filters': 'SOIC*3.9x8.7mm*P1.27mm*'}]|
+|name|name|Interface : FIN1019M|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'FIN1019M'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-14_3.9x8.7mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.onsemi.com/pub/Collateral/FIN1019-D.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'lvds driver receiver'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '3.3V LVDS High Speed Differential Driver/Receiver</td><td> 400Mbps</td><td> SOIC-14'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*3.9x8.7mm*P1.27mm*'</td></tr></table>]|
 ||||

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Module-A20_OLINUXINO_LIME2|
 |Hex ID (short code)|hexID|FZKMOA2OLINUXINOLIME2|
 |name|name|Module : A20_OLINUXINO_LIME2|
-|Footprint Kicad|footprintKicadDetails|{'name': 'A20_OLINUXINO_LIME2', 'description': 'A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet', 'tags': 'A20 Olimex Olinuxino LIME2 development board', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Module.3dshapes/A20_OLINUXINO_LIME2.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'A20_OLINUXINO_LIME2'</td><td> 'description'</td></tr><tr><td> 'A20 Olinuxino LIME2</td><td> 1.2GHz</td><td> 512-1024MB RAM</td><td> Micro-SD</td><td> NAND or eMMC</td><td> 1000Mbit Ethernet'</td><td> 'tags'</td></tr><tr><td> 'A20 Olimex Olinuxino LIME2 development board'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Module.3dshapes/A20_OLINUXINO_LIME2.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

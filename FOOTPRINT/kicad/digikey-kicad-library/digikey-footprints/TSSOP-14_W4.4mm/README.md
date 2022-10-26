@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TSSOP-14_W4.4mm|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSTSS14W44|
 |name|name|digikey-footprints : TSSOP-14_W4.4mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'TSSOP-14_W4.4mm', 'description': 'http://pdfserv.maximintegrated.com/land_patterns/90-0113.PDF', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'TSSOP-14_W4.4mm'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//pdfserv.maximintegrated.com/land_patterns/90-0113.PDF'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

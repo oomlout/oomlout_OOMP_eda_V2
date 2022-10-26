@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUMCHIPPIC16PIC16F1516ISO > PIC16F1516-ISO
+# SZKMCUMCHIPPIC16PIC16F1516ISO > MCU_Microchip_PIC16 : PIC16F1516-ISO
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F1516-ISO
 - Hex ID: SZKMCUMCHIPPIC16PIC16F1516ISO
-- Name: PIC16F1516-ISO
-- Description: PIC16F1516-ISO
+- Name: MCU_Microchip_PIC16 : PIC16F1516-ISO
+- Description: MCU_Microchip_PIC16 : PIC16F1516-ISO
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F1516-ISO](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F1516-ISO)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC16PIC16F1516ISO](http://oom.lt/SZKMCUMCHIPPIC16PIC16F1516ISO)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PIC16F1516-ISO|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F1516-ISO|
 |Hex ID (short code)|hexID|SZKMCUMCHIPPIC16PIC16F1516ISO|
-|name|name|PIC16F1516-ISO|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'PIC16F1516-ISP', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PIC16F1516-ISO', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/41452B.pdf', 'kicadSymbolki_keywords': 'FLASH-Based 8-Bit CMOS Microcontroller XLP', 'kicadSymbolki_description': 'PIC16F1516, 8192W FLASH, 512B SRAM, SO-28', 'kicadSymbolki_fp_filters': 'DIP* PDIP* SO* SSOP*'}]|
+|name|name|MCU_Microchip_PIC16 : PIC16F1516-ISO|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'PIC16F1516-ISP'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'PIC16F1516-ISO'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/41452B.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'FLASH-Based 8-Bit CMOS Microcontroller XLP'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'PIC16F1516</td><td> 8192W FLASH</td><td> 512B SRAM</td><td> SO-28'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP* PDIP* SO* SSOP*'</td></tr></table>]|
 ||||

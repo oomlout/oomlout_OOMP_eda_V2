@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-UFDFN-10_2.5x1mm|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSUFDFN125X1|
 |name|name|digikey-footprints : UFDFN-10_2.5x1mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'UFDFN-10_2.5x1mm', 'description': 'http://www.semtech.com/images/datasheet/rclamp0522p_0524p.pdf', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'UFDFN-10_2.5x1mm'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//www.semtech.com/images/datasheet/rclamp0522p_0524p.pdf'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

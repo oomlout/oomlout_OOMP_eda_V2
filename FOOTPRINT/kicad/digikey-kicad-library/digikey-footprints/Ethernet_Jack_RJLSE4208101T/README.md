@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Ethernet_Jack_RJLSE4208101T|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSETHERNETJRJLSE42811T|
 |name|name|digikey-footprints : Ethernet_Jack_RJLSE4208101T|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Ethernet_Jack_RJLSE4208101T', 'description': 'https://www.amphenolcanada.com/ProductSearch/drawings/AC/RJLSE4X0XX01X.pdf', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Ethernet_Jack_RJLSE4208101T'</td><td> 'description'</td></tr><tr><td> 'https</td></tr><tr><td>//www.amphenolcanada.com/ProductSearch/drawings/AC/RJLSE4X0XX01X.pdf'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

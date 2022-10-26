@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKAMPLIFIEROPERATIONALLMC6482 > LMC6482
+# SZKAMPLIFIEROPERATIONALLMC6482 > Amplifier_Operational : LMC6482
 
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LMC6482
 - Hex ID: SZKAMPLIFIEROPERATIONALLMC6482
-- Name: LMC6482
-- Description: LMC6482
+- Name: Amplifier_Operational : LMC6482
+- Description: Amplifier_Operational : LMC6482
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LMC6482](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LMC6482)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALLMC6482](http://oom.lt/SZKAMPLIFIEROPERATIONALLMC6482)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LMC6482|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LMC6482|
 |Hex ID (short code)|hexID|SZKAMPLIFIEROPERATIONALLMC6482|
-|name|name|LMC6482|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LM2904', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LMC6482', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lmc6482.pdf', 'kicadSymbolki_keywords': 'dual opamp', 'kicadSymbolki_description': 'Dual CMOS Rail-to-Rail Input and Output Operational Amplifier, DIP-8/SOIC-8, SSOP-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm* DIP*W7.62mm* TO*99* OnSemi*Micro8* TSSOP*3x3mm*P0.65mm* TSSOP*4.4x3mm*P0.65mm* MSOP*3x3mm*P0.65mm* SSOP*3.9x4.9mm*P0.635mm* LFCSP*2x2mm*P0.5mm* *SIP* SOIC*5.3x6.2mm*P1.27mm*'}]|
+|name|name|Amplifier_Operational : LMC6482|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'LM2904'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LMC6482'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/lmc6482.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'dual opamp'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Dual CMOS Rail-to-Rail Input and Output Operational Amplifier</td><td> DIP-8/SOIC-8</td><td> SSOP-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*3.9x4.9mm*P1.27mm* DIP*W7.62mm* TO*99* OnSemi*Micro8* TSSOP*3x3mm*P0.65mm* TSSOP*4.4x3mm*P0.65mm* MSOP*3x3mm*P0.65mm* SSOP*3.9x4.9mm*P0.635mm* LFCSP*2x2mm*P0.5mm* *SIP* SOIC*5.3x6.2mm*P1.27mm*'</td></tr></table>]|
 ||||

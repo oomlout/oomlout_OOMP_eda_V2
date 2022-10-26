@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-HVSOF6|
 |Hex ID (short code)|hexID|FZKPACKAGETOSOTSMHVSOF6|
 |name|name|Package_TO_SOT_SMD : HVSOF6|
-|Footprint Kicad|footprintKicadDetails|{'name': 'HVSOF6', 'description': 'HVSOF6, http://rohmfs.rohm.com/en/techdata_basic/ic/package/hvsof6_1-e.pdf, http://rohmfs.rohm.com/en/products/databook/datasheet/ic/audio_video/video_amplifier/bh76106hfv-e.pdf', 'tags': 'HVSOF6', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/HVSOF6.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'HVSOF6'</td><td> 'description'</td></tr><tr><td> 'HVSOF6</td><td> http</td></tr><tr><td>//rohmfs.rohm.com/en/techdata_basic/ic/package/hvsof6_1-e.pdf</td><td> http</td></tr><tr><td>//rohmfs.rohm.com/en/products/databook/datasheet/ic/audio_video/video_amplifier/bh76106hfv-e.pdf'</td><td> 'tags'</td></tr><tr><td> 'HVSOF6'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_TO_SOT_SMD.3dshapes/HVSOF6.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

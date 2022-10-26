@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_BGA-Xilinx_CLG400|
 |Hex ID (short code)|hexID|FZKBGAXILINXCLG4|
 |name|name|Package_BGA : Xilinx_CLG400|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Xilinx_CLG400', 'description': 'Zynq-7000 BGA, 20x20 grid, 17x17mm package, 0.8mm pitch; https://www.xilinx.com/support/documentation/user_guides/ug865-Zynq-7000-Pkg-Pinout.pdf#page=78, NSMD pad definition Appendix A', 'tags': 'BGA 400 0.8 CLG400 CL400', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/Xilinx_CLG400.wrl', 'pins': {'type': 'smd', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Xilinx_CLG400'</td><td> 'description'</td></tr><tr><td> 'Zynq-7000 BGA</td><td> 20x20 grid</td><td> 17x17mm package</td><td> 0.8mm pitch; https</td></tr><tr><td>//www.xilinx.com/support/documentation/user_guides/ug865-Zynq-7000-Pkg-Pinout.pdf#page=78</td><td> NSMD pad definition Appendix A'</td><td> 'tags'</td></tr><tr><td> 'BGA 400 0.8 CLG400 CL400'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_BGA.3dshapes/Xilinx_CLG400.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

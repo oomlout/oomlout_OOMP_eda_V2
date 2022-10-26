@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKAMPLIFIEROPERATIONALL272D > L272D
+# SZKAMPLIFIEROPERATIONALL272D > Amplifier_Operational : L272D
 
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-L272D
 - Hex ID: SZKAMPLIFIEROPERATIONALL272D
-- Name: L272D
-- Description: L272D
+- Name: Amplifier_Operational : L272D
+- Description: Amplifier_Operational : L272D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-L272D](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-L272D)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALL272D](http://oom.lt/SZKAMPLIFIEROPERATIONALL272D)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|L272D|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Operational-L272D|
 |Hex ID (short code)|hexID|SZKAMPLIFIEROPERATIONALL272D|
-|name|name|L272D|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'L272D', 'kicadSymbolFootprint': 'Package_SO:SOIC-16_3.9x9.9mm_P1.27mm', 'kicadSymbolDatasheet': 'www.st.com/resource/en/datasheet/l272.pdf', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'dual power opamp', 'kicadSymbolki_description': 'Dual Power Operation Amplifier, SOIC-16', 'kicadSymbolki_fp_filters': '*SOIC*3.9x9.9mm*P1.27mm*'}]|
+|name|name|Amplifier_Operational : L272D|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'L272D'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-16_3.9x9.9mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'www.st.com/resource/en/datasheet/l272.pdf'</td><td> 'kicadSymbolki_locked'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'dual power opamp'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Dual Power Operation Amplifier</td><td> SOIC-16'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> '*SOIC*3.9x9.9mm*P1.27mm*'</td></tr></table>]|
 ||||

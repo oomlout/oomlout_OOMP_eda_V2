@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUSTSTM32L4STM32L496QEIX > STM32L496QEIx
+# SZKMCUSTSTM32L4STM32L496QEIX > MCU_ST_STM32L4 : STM32L496QEIx
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L4-STM32L496QEIx
 - Hex ID: SZKMCUSTSTM32L4STM32L496QEIX
-- Name: STM32L496QEIx
-- Description: STM32L496QEIx
+- Name: MCU_ST_STM32L4 : STM32L496QEIx
+- Description: MCU_ST_STM32L4 : STM32L496QEIx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L4-STM32L496QEIx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L4-STM32L496QEIx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32L4STM32L496QEIX](http://oom.lt/SZKMCUSTSTM32L4STM32L496QEIX)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|STM32L496QEIx|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L4-STM32L496QEIx|
 |Hex ID (short code)|hexID|SZKMCUSTSTM32L4STM32L496QEIX|
-|name|name|STM32L496QEIx|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'STM32L496QEIx', 'kicadSymbolFootprint': 'Package_BGA:UFBGA-132_7x7mm_Layout12x12_P0.5mm', 'kicadSymbolDatasheet': 'http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00284211.pdf', 'kicadSymbolki_keywords': 'ARM Cortex-M4 STM32L4 STM32L4x6', 'kicadSymbolki_description': 'ARM Cortex-M4 MCU, 512KB flash, 320KB RAM, 80MHz, 1.71-3.6V, 110 GPIO, UFBGA-132', 'kicadSymbolki_fp_filters': 'UFBGA*7x7mm*Layout12x12*P0.5mm*'}]|
+|name|name|MCU_ST_STM32L4 : STM32L496QEIx|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'STM32L496QEIx'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_BGA</td></tr><tr><td>UFBGA-132_7x7mm_Layout12x12_P0.5mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00284211.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'ARM Cortex-M4 STM32L4 STM32L4x6'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'ARM Cortex-M4 MCU</td><td> 512KB flash</td><td> 320KB RAM</td><td> 80MHz</td><td> 1.71-3.6V</td><td> 110 GPIO</td><td> UFBGA-132'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'UFBGA*7x7mm*Layout12x12*P0.5mm*'</td></tr></table>]|
 ||||

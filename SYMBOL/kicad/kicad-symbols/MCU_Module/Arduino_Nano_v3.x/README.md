@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUMOARDNANOV3X > Arduino_Nano_v3.x
+# SZKMCUMOARDNANOV3X > MCU_Module : Arduino_Nano_v3.x
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Module-Arduino_Nano_v3.x
 - Hex ID: SZKMCUMOARDNANOV3X
-- Name: Arduino_Nano_v3.x
-- Description: Arduino_Nano_v3.x
+- Name: MCU_Module : Arduino_Nano_v3.x
+- Description: MCU_Module : Arduino_Nano_v3.x
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Module-Arduino_Nano_v3.x](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Module-Arduino_Nano_v3.x)
 - Short Link: [http://oom.lt/SZKMCUMOARDNANOV3X](http://oom.lt/SZKMCUMOARDNANOV3X)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Arduino_Nano_v3.x|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Module-Arduino_Nano_v3.x|
 |Hex ID (short code)|hexID|SZKMCUMOARDNANOV3X|
-|name|name|Arduino_Nano_v3.x|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'Arduino_Nano_v2.x', 'kicadSymbolReference': 'A', 'kicadSymbolValue': 'Arduino_Nano_v3.x', 'kicadSymbolFootprint': 'Module:Arduino_Nano', 'kicadSymbolDatasheet': 'http://www.mouser.com/pdfdocs/Gravitech_Arduino_Nano3_0.pdf', 'kicadSymbolki_keywords': 'Arduino nano microcontroller module USB', 'kicadSymbolki_description': 'Arduino Nano v3.x', 'kicadSymbolki_fp_filters': 'Arduino*Nano*'}]|
+|name|name|MCU_Module : Arduino_Nano_v3.x|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'Arduino_Nano_v2.x'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'A'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Arduino_Nano_v3.x'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Module</td></tr><tr><td>Arduino_Nano'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.mouser.com/pdfdocs/Gravitech_Arduino_Nano3_0.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Arduino nano microcontroller module USB'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Arduino Nano v3.x'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Arduino*Nano*'</td></tr></table>]|
 ||||

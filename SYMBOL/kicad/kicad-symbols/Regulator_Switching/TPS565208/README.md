@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORSWITCHINGTPS56528 > TPS565208
+# SZKREGULATORSWITCHINGTPS56528 > Regulator_Switching : TPS565208
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS565208
 - Hex ID: SZKREGULATORSWITCHINGTPS56528
-- Name: TPS565208
-- Description: TPS565208
+- Name: Regulator_Switching : TPS565208
+- Description: Regulator_Switching : TPS565208
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS565208](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS565208)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGTPS56528](http://oom.lt/SZKREGULATORSWITCHINGTPS56528)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TPS565208|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS565208|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGTPS56528|
-|name|name|TPS565208|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TPS562200', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TPS565208', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-6', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tps565208.pdf', 'kicadSymbolki_keywords': 'step-down dcdc voltage regulator', 'kicadSymbolki_description': '5A Synchronous Step-Down Voltage Regulator, Adjustable Output Voltage, 4.5-17V Input Voltage, SOT-23-6', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
+|name|name|Regulator_Switching : TPS565208|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'TPS562200'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TPS565208'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-23-6'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/tps565208.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'step-down dcdc voltage regulator'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '5A Synchronous Step-Down Voltage Regulator</td><td> Adjustable Output Voltage</td><td> 4.5-17V Input Voltage</td><td> SOT-23-6'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23*'</td></tr></table>]|
 ||||

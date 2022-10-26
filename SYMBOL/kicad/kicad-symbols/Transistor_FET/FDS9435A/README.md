@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORFETFDS9435A > FDS9435A
+# SZKTRANSISTORFETFDS9435A > Transistor_FET : FDS9435A
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-FDS9435A
 - Hex ID: SZKTRANSISTORFETFDS9435A
-- Name: FDS9435A
-- Description: FDS9435A
+- Name: Transistor_FET : FDS9435A
+- Description: Transistor_FET : FDS9435A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-FDS9435A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-FDS9435A)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETFDS9435A](http://oom.lt/SZKTRANSISTORFETFDS9435A)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|FDS9435A|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-FDS9435A|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETFDS9435A|
-|name|name|FDS9435A|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'IRF7404', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'FDS9435A', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pub/Collateral/FDS9435A-D.PDF', 'kicadSymbolki_keywords': 'P-Channel MOSFET', 'kicadSymbolki_description': '-5.3A Id, -30V Vds, P-Channel MOSFET, 50mOhm Ron, SO-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm*'}]|
+|name|name|Transistor_FET : FDS9435A|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'IRF7404'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'FDS9435A'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-8_3.9x4.9mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.onsemi.com/pub/Collateral/FDS9435A-D.PDF'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'P-Channel MOSFET'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '-5.3A Id</td><td> -30V Vds</td><td> P-Channel MOSFET</td><td> 50mOhm Ron</td><td> SO-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*3.9x4.9mm*P1.27mm*'</td></tr></table>]|
 ||||

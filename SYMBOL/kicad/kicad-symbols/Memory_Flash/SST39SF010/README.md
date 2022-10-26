@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMEMORYFLASHSST39SF1 > SST39SF010
+# SZKMEMORYFLASHSST39SF1 > Memory_Flash : SST39SF010
 
 - ID: SYMBOL-kicad-kicad-symbols-Memory_Flash-SST39SF010
 - Hex ID: SZKMEMORYFLASHSST39SF1
-- Name: SST39SF010
-- Description: SST39SF010
+- Name: Memory_Flash : SST39SF010
+- Description: Memory_Flash : SST39SF010
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_Flash-SST39SF010](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_Flash-SST39SF010)
 - Short Link: [http://oom.lt/SZKMEMORYFLASHSST39SF1](http://oom.lt/SZKMEMORYFLASHSST39SF1)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SST39SF010|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Memory_Flash-SST39SF010|
 |Hex ID (short code)|hexID|SZKMEMORYFLASHSST39SF1|
-|name|name|SST39SF010|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'SST39SF010', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/25022B.pdf', 'kicadSymbolki_keywords': '128k flash rom', 'kicadSymbolki_description': 'Silicon Storage Technology (SSF) 128k x 8 Flash ROM'}]|
+|name|name|Memory_Flash : SST39SF010|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'SST39SF010'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/25022B.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> '128k flash rom'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Silicon Storage Technology (SSF) 128k x 8 Flash ROM'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUSTSTM32GSTM32G71KXT > STM32G071KxT
+# SZKMCUSTSTM32GSTM32G71KXT > MCU_ST_STM32G0 : STM32G071KxT
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32G0-STM32G071KxT
 - Hex ID: SZKMCUSTSTM32GSTM32G71KXT
-- Name: STM32G071KxT
-- Description: STM32G071KxT
+- Name: MCU_ST_STM32G0 : STM32G071KxT
+- Description: MCU_ST_STM32G0 : STM32G071KxT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32G0-STM32G071KxT](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32G0-STM32G071KxT)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32GSTM32G71KXT](http://oom.lt/SZKMCUSTSTM32GSTM32G71KXT)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|STM32G071KxT|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_ST_STM32G0-STM32G071KxT|
 |Hex ID (short code)|hexID|SZKMCUSTSTM32GSTM32G71KXT|
-|name|name|STM32G071KxT|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'STM32G071KxT', 'kicadSymbolFootprint': 'Package_QFP:LQFP-32_7x7mm_P0.8mm', 'kicadSymbolDatasheet': 'https://www.st.com/resource/en/datasheet/stm32g071kb.pdf', 'kicadSymbolki_keywords': 'ARM Cortex-M0+ STM32G0 STM32G071', 'kicadSymbolki_description': 'ARM Cortex-M0+ MCU, 64/128 kB flash, 36 kB SRAM, 64 MHz, 1.7-3.6 V, 30 GPIO, LQFP-32', 'kicadSymbolki_fp_filters': 'LQFP*7x7mm*P0.8mm*'}]|
+|name|name|MCU_ST_STM32G0 : STM32G071KxT|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'STM32G071KxT'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_QFP</td></tr><tr><td>LQFP-32_7x7mm_P0.8mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.st.com/resource/en/datasheet/stm32g071kb.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'ARM Cortex-M0+ STM32G0 STM32G071'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'ARM Cortex-M0+ MCU</td><td> 64/128 kB flash</td><td> 36 kB SRAM</td><td> 64 MHz</td><td> 1.7-3.6 V</td><td> 30 GPIO</td><td> LQFP-32'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'LQFP*7x7mm*P0.8mm*'</td></tr></table>]|
 ||||

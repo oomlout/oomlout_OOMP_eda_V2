@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUMCHIPPIC16PIC16F818IML > PIC16F818-IML
+# SZKMCUMCHIPPIC16PIC16F818IML > MCU_Microchip_PIC16 : PIC16F818-IML
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F818-IML
 - Hex ID: SZKMCUMCHIPPIC16PIC16F818IML
-- Name: PIC16F818-IML
-- Description: PIC16F818-IML
+- Name: MCU_Microchip_PIC16 : PIC16F818-IML
+- Description: MCU_Microchip_PIC16 : PIC16F818-IML
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F818-IML](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F818-IML)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC16PIC16F818IML](http://oom.lt/SZKMCUMCHIPPIC16PIC16F818IML)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PIC16F818-IML|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F818-IML|
 |Hex ID (short code)|hexID|SZKMCUMCHIPPIC16PIC16F818IML|
-|name|name|PIC16F818-IML|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PIC16F818-IML', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/39598F.pdf', 'kicadSymbolki_keywords': 'Flash-Based 8-Bit Microcontroller nanoWatt', 'kicadSymbolki_description': 'PIC16F818, 1792B Flash, 128B SRAM, 128B EEPROM, ADC, QFN28', 'kicadSymbolki_fp_filters': 'QFN*'}]|
+|name|name|MCU_Microchip_PIC16 : PIC16F818-IML|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'PIC16F818-IML'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/39598F.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Flash-Based 8-Bit Microcontroller nanoWatt'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'PIC16F818</td><td> 1792B Flash</td><td> 128B SRAM</td><td> 128B EEPROM</td><td> ADC</td><td> QFN28'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'QFN*'</td></tr></table>]|
 ||||

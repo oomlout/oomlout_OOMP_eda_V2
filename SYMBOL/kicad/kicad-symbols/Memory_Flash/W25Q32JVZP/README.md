@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMEMORYFLASHW25Q32JVZP > W25Q32JVZP
+# SZKMEMORYFLASHW25Q32JVZP > Memory_Flash : W25Q32JVZP
 
 - ID: SYMBOL-kicad-kicad-symbols-Memory_Flash-W25Q32JVZP
 - Hex ID: SZKMEMORYFLASHW25Q32JVZP
-- Name: W25Q32JVZP
-- Description: W25Q32JVZP
+- Name: Memory_Flash : W25Q32JVZP
+- Description: Memory_Flash : W25Q32JVZP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_Flash-W25Q32JVZP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_Flash-W25Q32JVZP)
 - Short Link: [http://oom.lt/SZKMEMORYFLASHW25Q32JVZP](http://oom.lt/SZKMEMORYFLASHW25Q32JVZP)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|W25Q32JVZP|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Memory_Flash-W25Q32JVZP|
 |Hex ID (short code)|hexID|SZKMEMORYFLASHW25Q32JVZP|
-|name|name|W25Q32JVZP|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'W25Q32JVZP', 'kicadSymbolFootprint': 'Package_SON:WSON-8-1EP_6x5mm_P1.27mm_EP3.4x4.3mm', 'kicadSymbolDatasheet': 'http://www.winbond.com/resource-files/w25q32jv%20revg%2003272018%20plus.pdf', 'kicadSymbolki_keywords': 'flash memory SPI', 'kicadSymbolki_description': '32Mb Serial Flash Memory, Standard/Dual/Quad SPI, DFN-8', 'kicadSymbolki_fp_filters': 'WSON*1EP*6x5mm*P1.27mm*'}]|
+|name|name|Memory_Flash : W25Q32JVZP|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'W25Q32JVZP'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SON</td></tr><tr><td>WSON-8-1EP_6x5mm_P1.27mm_EP3.4x4.3mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.winbond.com/resource-files/w25q32jv%20revg%2003272018%20plus.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'flash memory SPI'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '32Mb Serial Flash Memory</td><td> Standard/Dual/Quad SPI</td><td> DFN-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'WSON*1EP*6x5mm*P1.27mm*'</td></tr></table>]|
 ||||

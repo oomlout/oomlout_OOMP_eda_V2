@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORSWITCHINGTNY264G > TNY264G
+# SZKREGULATORSWITCHINGTNY264G > Regulator_Switching : TNY264G
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-TNY264G
 - Hex ID: SZKREGULATORSWITCHINGTNY264G
-- Name: TNY264G
-- Description: TNY264G
+- Name: Regulator_Switching : TNY264G
+- Description: Regulator_Switching : TNY264G
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TNY264G](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TNY264G)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGTNY264G](http://oom.lt/SZKREGULATORSWITCHINGTNY264G)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TNY264G|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-TNY264G|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGTNY264G|
-|name|name|TNY264G|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TNY263G', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TNY264G', 'kicadSymbolFootprint': 'Package_DIP:PowerIntegrations_SMD-8B', 'kicadSymbolDatasheet': 'http://www.powerint.com/sites/default/files/product-docs/tny263_268.pdf', 'kicadSymbolki_keywords': 'Enhanced, Energy Efficient, Low Power Off-line Switcher', 'kicadSymbolki_description': 'TinySwitch-II Family, 6W Output Power, SMD-8B', 'kicadSymbolki_fp_filters': 'PowerIntegrations?SMD?8B*'}]|
+|name|name|Regulator_Switching : TNY264G|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'TNY263G'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TNY264G'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>PowerIntegrations_SMD-8B'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.powerint.com/sites/default/files/product-docs/tny263_268.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Enhanced</td><td> Energy Efficient</td><td> Low Power Off-line Switcher'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'TinySwitch-II Family</td><td> 6W Output Power</td><td> SMD-8B'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'PowerIntegrations?SMD?8B*'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKINTERFACECANLINADM353 > ADM3053
+# SZKINTERFACECANLINADM353 > Interface_CAN_LIN : ADM3053
 
 - ID: SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-ADM3053
 - Hex ID: SZKINTERFACECANLINADM353
-- Name: ADM3053
-- Description: ADM3053
+- Name: Interface_CAN_LIN : ADM3053
+- Description: Interface_CAN_LIN : ADM3053
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-ADM3053](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-ADM3053)
 - Short Link: [http://oom.lt/SZKINTERFACECANLINADM353](http://oom.lt/SZKINTERFACECANLINADM353)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ADM3053|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-ADM3053|
 |Hex ID (short code)|hexID|SZKINTERFACECANLINADM353|
-|name|name|ADM3053|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ADM3053', 'kicadSymbolFootprint': 'Package_SO:SOIC-20W_7.5x12.8mm_P1.27mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/ADM3053.pdf', 'kicadSymbolki_keywords': 'can transceiver isolated protected', 'kicadSymbolki_description': 'Isolated CAN Transceiver, integrated isolated DC-DC converter, 1Mbps', 'kicadSymbolki_fp_filters': 'SOIC*P1.27mm*'}]|
+|name|name|Interface_CAN_LIN : ADM3053|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ADM3053'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-20W_7.5x12.8mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/ADM3053.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'can transceiver isolated protected'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Isolated CAN Transceiver</td><td> integrated isolated DC-DC converter</td><td> 1Mbps'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*P1.27mm*'</td></tr></table>]|
 ||||

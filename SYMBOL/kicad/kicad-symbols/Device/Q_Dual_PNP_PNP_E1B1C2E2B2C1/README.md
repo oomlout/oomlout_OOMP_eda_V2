@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDEVICEQDUALPNPPNPE1B1C2E2B2C1 > Q_Dual_PNP_PNP_E1B1C2E2B2C1
+# SZKDEVICEQDUALPNPPNPE1B1C2E2B2C1 > Device : Q_Dual_PNP_PNP_E1B1C2E2B2C1
 
 - ID: SYMBOL-kicad-kicad-symbols-Device-Q_Dual_PNP_PNP_E1B1C2E2B2C1
 - Hex ID: SZKDEVICEQDUALPNPPNPE1B1C2E2B2C1
-- Name: Q_Dual_PNP_PNP_E1B1C2E2B2C1
-- Description: Q_Dual_PNP_PNP_E1B1C2E2B2C1
+- Name: Device : Q_Dual_PNP_PNP_E1B1C2E2B2C1
+- Description: Device : Q_Dual_PNP_PNP_E1B1C2E2B2C1
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Q_Dual_PNP_PNP_E1B1C2E2B2C1](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Q_Dual_PNP_PNP_E1B1C2E2B2C1)
 - Short Link: [http://oom.lt/SZKDEVICEQDUALPNPPNPE1B1C2E2B2C1](http://oom.lt/SZKDEVICEQDUALPNPPNPE1B1C2E2B2C1)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Q_Dual_PNP_PNP_E1B1C2E2B2C1|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-Q_Dual_PNP_PNP_E1B1C2E2B2C1|
 |Hex ID (short code)|hexID|SZKDEVICEQDUALPNPPNPE1B1C2E2B2C1|
-|name|name|Q_Dual_PNP_PNP_E1B1C2E2B2C1|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'Q_Dual_PNP_PNP_E1B1C2E2B2C1', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'transistor PNP', 'kicadSymbolki_description': 'Dual PNP transistor, 6 pin package', 'kicadSymbolki_fp_filters': 'SC?70* SC?88* SOT?363* SOT?23*'}]|
+|name|name|Device : Q_Dual_PNP_PNP_E1B1C2E2B2C1|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Q_Dual_PNP_PNP_E1B1C2E2B2C1'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_locked'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'transistor PNP'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Dual PNP transistor</td><td> 6 pin package'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SC?70* SC?88* SOT?363* SOT?23*'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKBATMANAGEMENTBQ7692PW > BQ76920PW
+# SZKBATMANAGEMENTBQ7692PW > Battery_Management : BQ76920PW
 
 - ID: SYMBOL-kicad-kicad-symbols-Battery_Management-BQ76920PW
 - Hex ID: SZKBATMANAGEMENTBQ7692PW
-- Name: BQ76920PW
-- Description: BQ76920PW
+- Name: Battery_Management : BQ76920PW
+- Description: Battery_Management : BQ76920PW
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-BQ76920PW](http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-BQ76920PW)
 - Short Link: [http://oom.lt/SZKBATMANAGEMENTBQ7692PW](http://oom.lt/SZKBATMANAGEMENTBQ7692PW)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BQ76920PW|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Battery_Management-BQ76920PW|
 |Hex ID (short code)|hexID|SZKBATMANAGEMENTBQ7692PW|
-|name|name|BQ76920PW|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'BQ76920PW', 'kicadSymbolFootprint': 'Package_SO:TSSOP-20_4.4x6.5mm_P0.65mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/bq76920.pdf', 'kicadSymbolki_keywords': 'lithium battery balance charge afe', 'kicadSymbolki_description': 'Lithium battery monitor, 3-5 cells, integrated balancing, I2C interface, TSSOP-20', 'kicadSymbolki_fp_filters': 'TSSOP*4.4x6.5mm*P0.65mm*'}]|
+|name|name|Battery_Management : BQ76920PW|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'BQ76920PW'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>TSSOP-20_4.4x6.5mm_P0.65mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/bq76920.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'lithium battery balance charge afe'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Lithium battery monitor</td><td> 3-5 cells</td><td> integrated balancing</td><td> I2C interface</td><td> TSSOP-20'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TSSOP*4.4x6.5mm*P0.65mm*'</td></tr></table>]|
 ||||

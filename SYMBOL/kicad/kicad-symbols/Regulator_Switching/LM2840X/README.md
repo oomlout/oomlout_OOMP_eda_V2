@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORSWITCHINGLM284X > LM2840X
+# SZKREGULATORSWITCHINGLM284X > Regulator_Switching : LM2840X
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM2840X
 - Hex ID: SZKREGULATORSWITCHINGLM284X
-- Name: LM2840X
-- Description: LM2840X
+- Name: Regulator_Switching : LM2840X
+- Description: Regulator_Switching : LM2840X
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM2840X](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM2840X)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGLM284X](http://oom.lt/SZKREGULATORSWITCHINGLM284X)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM2840X|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM2840X|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGLM284X|
-|name|name|LM2840X|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LM2734Y', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM2840X', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TSOT-23-6', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lm2842-q1.pdf', 'kicadSymbolki_keywords': 'Miniature Step-Down Buck Voltage Regulator', 'kicadSymbolki_description': '100mA 42V Input Step-Down DC-DC Regulator, Adjustable Output Voltage, 550kHz, TSOT-23-5', 'kicadSymbolki_fp_filters': 'TSOT?23*'}]|
+|name|name|Regulator_Switching : LM2840X|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'LM2734Y'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LM2840X'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>TSOT-23-6'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/lm2842-q1.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Miniature Step-Down Buck Voltage Regulator'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '100mA 42V Input Step-Down DC-DC Regulator</td><td> Adjustable Output Voltage</td><td> 550kHz</td><td> TSOT-23-5'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TSOT?23*'</td></tr></table>]|
 ||||

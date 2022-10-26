@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_DPDT_Fujitsu_FTR-F1C|
 |Hex ID (short code)|hexID|FZKRELRELAYDPDTFUJITSUFTRF1C|
 |name|name|Relay_THT : Relay_DPDT_Fujitsu_FTR-F1C|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Relay_DPDT_Fujitsu_FTR-F1C', 'description': 'https://www.fujitsu.com/downloads/MICRO/fcai/relays/ftr-f1.pdf', 'tags': 'relay dpdt fujitsu tht', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Relay_THT.3dshapes/Relay_DPDT_Fujitsu_FTR-F1C.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Relay_DPDT_Fujitsu_FTR-F1C'</td><td> 'description'</td></tr><tr><td> 'https</td></tr><tr><td>//www.fujitsu.com/downloads/MICRO/fcai/relays/ftr-f1.pdf'</td><td> 'tags'</td></tr><tr><td> 'relay dpdt fujitsu tht'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Relay_THT.3dshapes/Relay_DPDT_Fujitsu_FTR-F1C.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

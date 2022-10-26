@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDEVICEDDUALCOONANODEAKK > D_Dual_CommonAnode_AKK
+# SZKDEVICEDDUALCOONANODEAKK > Device : D_Dual_CommonAnode_AKK
 
 - ID: SYMBOL-kicad-kicad-symbols-Device-D_Dual_CommonAnode_AKK
 - Hex ID: SZKDEVICEDDUALCOONANODEAKK
-- Name: D_Dual_CommonAnode_AKK
-- Description: D_Dual_CommonAnode_AKK
+- Name: Device : D_Dual_CommonAnode_AKK
+- Description: Device : D_Dual_CommonAnode_AKK
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Dual_CommonAnode_AKK](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Dual_CommonAnode_AKK)
 - Short Link: [http://oom.lt/SZKDEVICEDDUALCOONANODEAKK](http://oom.lt/SZKDEVICEDDUALCOONANODEAKK)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|D_Dual_CommonAnode_AKK|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-D_Dual_CommonAnode_AKK|
 |Hex ID (short code)|hexID|SZKDEVICEDDUALCOONANODEAKK|
-|name|name|D_Dual_CommonAnode_AKK|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'D_Dual_CommonAnode_AKK', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'diode', 'kicadSymbolki_description': 'Dual diode, common anode on pin 1'}]|
+|name|name|Device : D_Dual_CommonAnode_AKK|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'D_Dual_CommonAnode_AKK'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'diode'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Dual diode</td><td> common anode on pin 1'</td></tr></table>]|
 ||||

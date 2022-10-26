@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKRELAYRTE2XFXX > RTE2xFxx
+# SZKRELAYRTE2XFXX > Relay : RTE2xFxx
 
 - ID: SYMBOL-kicad-kicad-symbols-Relay-RTE2xFxx
 - Hex ID: SZKRELAYRTE2XFXX
-- Name: RTE2xFxx
-- Description: RTE2xFxx
+- Name: Relay : RTE2xFxx
+- Description: Relay : RTE2xFxx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-RTE2xFxx](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-RTE2xFxx)
 - Short Link: [http://oom.lt/SZKRELAYRTE2XFXX](http://oom.lt/SZKRELAYRTE2XFXX)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|RTE2xFxx|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Relay-RTE2xFxx|
 |Hex ID (short code)|hexID|SZKRELAYRTE2XFXX|
-|name|name|RTE2xFxx|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'RT42xFxx', 'kicadSymbolReference': 'K', 'kicadSymbolValue': 'RTE2xFxx', 'kicadSymbolFootprint': 'Relay_THT:Relay_DPDT_Schrack-RT2-FormC-Dual-Coil_RM5mm', 'kicadSymbolDatasheet': 'http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Data+Sheet%7FRT2_bistable%7F1116%7Fpdf%7FEnglish%7FENG_DS_RT2_bistable_1116.pdf%7F1-1415537-8', 'kicadSymbolki_keywords': 'TE DPDT CO bistable DC', 'kicadSymbolki_description': 'Schrack RT2 relay, bistable dual pole dual throw, dual DC coils', 'kicadSymbolki_fp_filters': 'Relay*DPDT*RT2*FormC*'}]|
+|name|name|Relay : RTE2xFxx|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'RT42xFxx'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'K'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'RTE2xFxx'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Relay_THT</td></tr><tr><td>Relay_DPDT_Schrack-RT2-FormC-Dual-Coil_RM5mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Data+Sheet%7FRT2_bistable%7F1116%7Fpdf%7FEnglish%7FENG_DS_RT2_bistable_1116.pdf%7F1-1415537-8'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'TE DPDT CO bistable DC'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Schrack RT2 relay</td><td> bistable dual pole dual throw</td><td> dual DC coils'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Relay*DPDT*RT2*FormC*'</td></tr></table>]|
 ||||

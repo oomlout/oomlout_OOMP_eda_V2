@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKPOWERSUPERVISORTCM89 > TCM809
+# SZKPOWERSUPERVISORTCM89 > Power_Supervisor : TCM809
 
 - ID: SYMBOL-kicad-kicad-symbols-Power_Supervisor-TCM809
 - Hex ID: SZKPOWERSUPERVISORTCM89
-- Name: TCM809
-- Description: TCM809
+- Name: Power_Supervisor : TCM809
+- Description: Power_Supervisor : TCM809
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Supervisor-TCM809](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Supervisor-TCM809)
 - Short Link: [http://oom.lt/SZKPOWERSUPERVISORTCM89](http://oom.lt/SZKPOWERSUPERVISORTCM89)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TCM809|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Supervisor-TCM809|
 |Hex ID (short code)|hexID|SZKPOWERSUPERVISORTCM89|
-|name|name|TCM809|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TCM809', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/21661E.pdf', 'kicadSymbolki_keywords': 'supervisor reset push-pull', 'kicadSymbolki_description': 'Microcontroller reset monitor, active low output', 'kicadSymbolki_fp_filters': 'SOT?23* *SC?70*'}]|
+|name|name|Power_Supervisor : TCM809|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TCM809'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/21661E.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'supervisor reset push-pull'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Microcontroller reset monitor</td><td> active low output'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23* *SC?70*'</td></tr></table>]|
 ||||

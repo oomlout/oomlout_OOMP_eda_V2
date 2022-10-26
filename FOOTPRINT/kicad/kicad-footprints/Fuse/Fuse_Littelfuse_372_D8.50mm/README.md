@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_Littelfuse_372_D8.50mm|
 |Hex ID (short code)|hexID|FZKFUFULITTELFU372D85|
 |name|name|Fuse : Fuse_Littelfuse_372_D8.50mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Fuse_Littelfuse_372_D8.50mm', 'description': 'Fuse, Littelfuse, 372, 8.5x8mm, https://www.littelfuse.com/~/media/electronics/datasheets/fuses/littelfuse_fuse_372_datasheet.pdf.pdf', 'tags': 'fuse tht radial', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Fuse.3dshapes/Fuse_Littelfuse_372_D8.50mm.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Fuse_Littelfuse_372_D8.50mm'</td><td> 'description'</td></tr><tr><td> 'Fuse</td><td> Littelfuse</td><td> 372</td><td> 8.5x8mm</td><td> https</td></tr><tr><td>//www.littelfuse.com/~/media/electronics/datasheets/fuses/littelfuse_fuse_372_datasheet.pdf.pdf'</td><td> 'tags'</td></tr><tr><td> 'fuse tht radial'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Fuse.3dshapes/Fuse_Littelfuse_372_D8.50mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

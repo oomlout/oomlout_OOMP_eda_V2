@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPMOSMOCONNUMEGA1 > MODULE-CONN-USB-MEGA-01
+# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPMOSMOCONNUMEGA1 > oomlout_OOMP_modules : MODULE-CONN-USB-MEGA-01
 
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_modules-MODULE-CONN-USB-MEGA-01
 - Hex ID: SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPMOSMOCONNUMEGA1
-- Name: MODULE-CONN-USB-MEGA-01
-- Description: MODULE-CONN-USB-MEGA-01
+- Name: oomlout_OOMP_modules : MODULE-CONN-USB-MEGA-01
+- Description: oomlout_OOMP_modules : MODULE-CONN-USB-MEGA-01
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_modules-MODULE-CONN-USB-MEGA-01](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_modules-MODULE-CONN-USB-MEGA-01)
 - Short Link: [http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPMOSMOCONNUMEGA1](http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPMOSMOCONNUMEGA1)
   
@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|MODULE-CONN-USB-MEGA-01|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_modules-MODULE-CONN-USB-MEGA-01|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPMOSMOCONNUMEGA1|
-|name|name|MODULE-CONN-USB-MEGA-01|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MODULE-CONN-USB-MEGA-01', 'kicadSymbolFootprint': 'oomlout_OOMP_modules:MODULE-CONN-USB-MEGA-01', 'kicadSymbolDatasheet': 'oom.lt/MCUMEGA'}]|
+|name|name|oomlout_OOMP_modules : MODULE-CONN-USB-MEGA-01|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MODULE-CONN-USB-MEGA-01'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'oomlout_OOMP_modules</td></tr><tr><td>MODULE-CONN-USB-MEGA-01'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'oom.lt/MCUMEGA'</td></tr></table>]|
 ||||

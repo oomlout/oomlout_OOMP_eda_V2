@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTIMERRTCRV8523C3 > RV-8523-C3
+# SZKTIMERRTCRV8523C3 > Timer_RTC : RV-8523-C3
 
 - ID: SYMBOL-kicad-kicad-symbols-Timer_RTC-RV-8523-C3
 - Hex ID: SZKTIMERRTCRV8523C3
-- Name: RV-8523-C3
-- Description: RV-8523-C3
+- Name: Timer_RTC : RV-8523-C3
+- Description: Timer_RTC : RV-8523-C3
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer_RTC-RV-8523-C3](http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer_RTC-RV-8523-C3)
 - Short Link: [http://oom.lt/SZKTIMERRTCRV8523C3](http://oom.lt/SZKTIMERRTCRV8523C3)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|RV-8523-C3|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Timer_RTC-RV-8523-C3|
 |Hex ID (short code)|hexID|SZKTIMERRTCRV8523C3|
-|name|name|RV-8523-C3|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'RV-8523-C3', 'kicadSymbolFootprint': 'Package_SON:RTC_SMD_MicroCrystal_C3_2.5x3.7mm', 'kicadSymbolDatasheet': 'https://www.microcrystal.com/fileadmin/Media/Products/RTC/Datasheet/RV-8523-C3.pdf', 'kicadSymbolki_keywords': 'Low Power RTC I2C', 'kicadSymbolki_description': 'Realtime Clock/Calendar I2C Interface, Low Power, 1.2 V to 5.5 V, MicroCrystal C3', 'kicadSymbolki_fp_filters': 'RTC*SMD*MicroCrystal*C3*2.5x3.7mm*'}]|
+|name|name|Timer_RTC : RV-8523-C3|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'RV-8523-C3'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SON</td></tr><tr><td>RTC_SMD_MicroCrystal_C3_2.5x3.7mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.microcrystal.com/fileadmin/Media/Products/RTC/Datasheet/RV-8523-C3.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Low Power RTC I2C'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Realtime Clock/Calendar I2C Interface</td><td> Low Power</td><td> 1.2 V to 5.5 V</td><td> MicroCrystal C3'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'RTC*SMD*MicroCrystal*C3*2.5x3.7mm*'</td></tr></table>]|
 ||||

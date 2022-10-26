@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKANALOGSWITCHADG419BRM > ADG419BRM
+# SZKANALOGSWITCHADG419BRM > Analog_Switch : ADG419BRM
 
 - ID: SYMBOL-kicad-kicad-symbols-Analog_Switch-ADG419BRM
 - Hex ID: SZKANALOGSWITCHADG419BRM
-- Name: ADG419BRM
-- Description: ADG419BRM
+- Name: Analog_Switch : ADG419BRM
+- Description: Analog_Switch : ADG419BRM
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-ADG419BRM](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-ADG419BRM)
 - Short Link: [http://oom.lt/SZKANALOGSWITCHADG419BRM](http://oom.lt/SZKANALOGSWITCHADG419BRM)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ADG419BRM|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_Switch-ADG419BRM|
 |Hex ID (short code)|hexID|SZKANALOGSWITCHADG419BRM|
-|name|name|ADG419BRM|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ADG419BRM', 'kicadSymbolFootprint': 'Package_SO:MSOP-8_3x3mm_P0.65mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/ADG419.pdf', 'kicadSymbolki_keywords': 'CMOS Analog Switch', 'kicadSymbolki_description': 'Single SPDT Monolithic LC²MOS Analog Switch, 25Ohm Ron, MSOP-8', 'kicadSymbolki_fp_filters': 'MSOP*3x3mm*P0.65mm*'}]|
+|name|name|Analog_Switch : ADG419BRM|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ADG419BRM'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>MSOP-8_3x3mm_P0.65mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/ADG419.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'CMOS Analog Switch'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Single SPDT Monolithic LC²MOS Analog Switch</td><td> 25Ohm Ron</td><td> MSOP-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'MSOP*3x3mm*P0.65mm*'</td></tr></table>]|
 ||||

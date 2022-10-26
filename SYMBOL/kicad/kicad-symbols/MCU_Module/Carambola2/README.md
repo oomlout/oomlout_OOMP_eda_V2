@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUMOCARAMBOLA2 > Carambola2
+# SZKMCUMOCARAMBOLA2 > MCU_Module : Carambola2
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Module-Carambola2
 - Hex ID: SZKMCUMOCARAMBOLA2
-- Name: Carambola2
-- Description: Carambola2
+- Name: MCU_Module : Carambola2
+- Description: MCU_Module : Carambola2
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Module-Carambola2](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Module-Carambola2)
 - Short Link: [http://oom.lt/SZKMCUMOCARAMBOLA2](http://oom.lt/SZKMCUMOCARAMBOLA2)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Carambola2|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Module-Carambola2|
 |Hex ID (short code)|hexID|SZKMCUMOCARAMBOLA2|
-|name|name|Carambola2|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'Carambola2', 'kicadSymbolFootprint': 'Module:Carambola2', 'kicadSymbolDatasheet': 'https://www.8devices.com/media/products/carambola2/downloads/carambola2-datasheet.pdf', 'kicadSymbolki_keywords': 'carambola, 8devices, openwrt, board, wlan', 'kicadSymbolki_description': 'Qualcomm AR9331, 16MB Flash, 64MB RAM, USB, Serial, Ethernet, GPIO, OpenWRT, industrial SoM computer', 'kicadSymbolki_fp_filters': 'Carambola2*'}]|
+|name|name|MCU_Module : Carambola2|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Carambola2'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Module</td></tr><tr><td>Carambola2'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.8devices.com/media/products/carambola2/downloads/carambola2-datasheet.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'carambola</td><td> 8devices</td><td> openwrt</td><td> board</td><td> wlan'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Qualcomm AR9331</td><td> 16MB Flash</td><td> 64MB RAM</td><td> USB</td><td> Serial</td><td> Ethernet</td><td> GPIO</td><td> OpenWRT</td><td> industrial SoM computer'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Carambola2*'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZK74XX74LS249 > 74LS249
+# SZK74XX74LS249 > 74xx : 74LS249
 
 - ID: SYMBOL-kicad-kicad-symbols-74xx-74LS249
 - Hex ID: SZK74XX74LS249
-- Name: 74LS249
-- Description: 74LS249
+- Name: 74xx : 74LS249
+- Description: 74xx : 74LS249
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx-74LS249](http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx-74LS249)
 - Short Link: [http://oom.lt/SZK74XX74LS249](http://oom.lt/SZK74XX74LS249)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74LS249|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xx-74LS249|
 |Hex ID (short code)|hexID|SZK74XX74LS249|
-|name|name|74LS249|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '74LS248', 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74LS249', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/gpn/sn74LS249', 'kicadSymbolki_keywords': 'TTL DECOD OpenCol', 'kicadSymbolki_description': 'BCD to 7-segment Decoder, Open collector, Active High', 'kicadSymbolki_fp_filters': 'DIP?16*'}]|
+|name|name|74xx : 74LS249|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> '74LS248'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> '74LS249'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/gpn/sn74LS249'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'TTL DECOD OpenCol'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'BCD to 7-segment Decoder</td><td> Open collector</td><td> Active High'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP?16*'</td></tr></table>]|
 ||||

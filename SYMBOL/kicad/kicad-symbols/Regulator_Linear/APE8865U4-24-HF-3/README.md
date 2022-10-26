@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORLINEARAPE8865U424HF3 > APE8865U4-24-HF-3
+# SZKREGULATORLINEARAPE8865U424HF3 > Regulator_Linear : APE8865U4-24-HF-3
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-APE8865U4-24-HF-3
 - Hex ID: SZKREGULATORLINEARAPE8865U424HF3
-- Name: APE8865U4-24-HF-3
-- Description: APE8865U4-24-HF-3
+- Name: Regulator_Linear : APE8865U4-24-HF-3
+- Description: Regulator_Linear : APE8865U4-24-HF-3
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-APE8865U4-24-HF-3](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-APE8865U4-24-HF-3)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARAPE8865U424HF3](http://oom.lt/SZKREGULATORLINEARAPE8865U424HF3)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|APE8865U4-24-HF-3|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-APE8865U4-24-HF-3|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARAPE8865U424HF3|
-|name|name|APE8865U4-24-HF-3|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'APE8865U4-12-HF-3', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'APE8865U4-24-HF-3', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-343_SC-70-4', 'kicadSymbolDatasheet': 'http://www.tme.eu/fr/Document/ced3461ed31ea70a3c416fb648e0cde7/APE8865-3.pdf', 'kicadSymbolki_keywords': '300mA LDO Regulator Fixed Positive', 'kicadSymbolki_description': '300mA Low Dropout Voltage Regulator, Fixed Output 2.4V, SC-70-4', 'kicadSymbolki_fp_filters': '*SC?70*'}]|
+|name|name|Regulator_Linear : APE8865U4-24-HF-3|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'APE8865U4-12-HF-3'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'APE8865U4-24-HF-3'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-343_SC-70-4'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.tme.eu/fr/Document/ced3461ed31ea70a3c416fb648e0cde7/APE8865-3.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> '300mA LDO Regulator Fixed Positive'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '300mA Low Dropout Voltage Regulator</td><td> Fixed Output 2.4V</td><td> SC-70-4'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> '*SC?70*'</td></tr></table>]|
 ||||

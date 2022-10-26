@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZK74XX74LS166 > 74LS166
+# SZK74XX74LS166 > 74xx : 74LS166
 
 - ID: SYMBOL-kicad-kicad-symbols-74xx-74LS166
 - Hex ID: SZK74XX74LS166
-- Name: 74LS166
-- Description: 74LS166
+- Name: 74xx : 74LS166
+- Description: 74xx : 74LS166
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx-74LS166](http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx-74LS166)
 - Short Link: [http://oom.lt/SZK74XX74LS166](http://oom.lt/SZK74XX74LS166)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74LS166|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xx-74LS166|
 |Hex ID (short code)|hexID|SZK74XX74LS166|
-|name|name|74LS166|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74LS166', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/gpn/sn74LS166', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'TTL SR SR8', 'kicadSymbolki_description': 'Shift Register 8-bit, parallel load', 'kicadSymbolki_fp_filters': 'DIP?16*'}]|
+|name|name|74xx : 74LS166|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> '74LS166'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/gpn/sn74LS166'</td><td> 'kicadSymbolki_locked'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'TTL SR SR8'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Shift Register 8-bit</td><td> parallel load'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP?16*'</td></tr></table>]|
 ||||

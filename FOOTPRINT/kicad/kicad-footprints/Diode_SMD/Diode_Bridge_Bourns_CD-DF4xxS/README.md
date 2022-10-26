@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Diode_SMD-Diode_Bridge_Bourns_CD-DF4xxS|
 |Hex ID (short code)|hexID|FZKDIODESMDIODEBRIDGEBOURNSCDDF4XXS|
 |name|name|Diode_SMD : Diode_Bridge_Bourns_CD-DF4xxS|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Diode_Bridge_Bourns_CD-DF4xxS', 'description': '8.1x10.5mm, 4A, single phase bridge rectifier, https://www.bourns.com/docs/Product-Datasheets/CD-DF4xxSL.pdf', 'tags': 'Surface Mount Bridge Rectifier Diode', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/Diode_Bridge_Bourns_CD-DF4xxS.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Diode_Bridge_Bourns_CD-DF4xxS'</td><td> 'description'</td></tr><tr><td> '8.1x10.5mm</td><td> 4A</td><td> single phase bridge rectifier</td><td> https</td></tr><tr><td>//www.bourns.com/docs/Product-Datasheets/CD-DF4xxSL.pdf'</td><td> 'tags'</td></tr><tr><td> 'Surface Mount Bridge Rectifier Diode'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Diode_SMD.3dshapes/Diode_Bridge_Bourns_CD-DF4xxS.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

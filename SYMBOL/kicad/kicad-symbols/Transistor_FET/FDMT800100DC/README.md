@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORFETFDMT81DC > FDMT800100DC
+# SZKTRANSISTORFETFDMT81DC > Transistor_FET : FDMT800100DC
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-FDMT800100DC
 - Hex ID: SZKTRANSISTORFETFDMT81DC
-- Name: FDMT800100DC
-- Description: FDMT800100DC
+- Name: Transistor_FET : FDMT800100DC
+- Description: Transistor_FET : FDMT800100DC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-FDMT800100DC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-FDMT800100DC)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETFDMT81DC](http://oom.lt/SZKTRANSISTORFETFDMT81DC)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|FDMT800100DC|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-FDMT800100DC|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETFDMT81DC|
-|name|name|FDMT800100DC|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'FDMT80060DC', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'FDMT800100DC', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:PQFN_8x8', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pub/Collateral/FDMT800100DC-D.pdf', 'kicadSymbolki_keywords': 'dual-cool-powertrench MOSFET fairchild', 'kicadSymbolki_description': '24A Id, 100V Vds, N-Channel Dual Cool PowerTrench MOSFET, 2.95mOhm Ron, 111nC Qgmax, -55 to 150 °C, 8x8mm MLP', 'kicadSymbolki_fp_filters': 'PQFN*8x8*'}]|
+|name|name|Transistor_FET : FDMT800100DC|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'FDMT80060DC'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'FDMT800100DC'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>PQFN_8x8'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.onsemi.com/pub/Collateral/FDMT800100DC-D.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'dual-cool-powertrench MOSFET fairchild'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '24A Id</td><td> 100V Vds</td><td> N-Channel Dual Cool PowerTrench MOSFET</td><td> 2.95mOhm Ron</td><td> 111nC Qgmax</td><td> -55 to 150 °C</td><td> 8x8mm MLP'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'PQFN*8x8*'</td></tr></table>]|
 ||||

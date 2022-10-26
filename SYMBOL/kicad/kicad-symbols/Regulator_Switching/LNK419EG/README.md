@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORSWITCHINGLNK419EG > LNK419EG
+# SZKREGULATORSWITCHINGLNK419EG > Regulator_Switching : LNK419EG
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK419EG
 - Hex ID: SZKREGULATORSWITCHINGLNK419EG
-- Name: LNK419EG
-- Description: LNK419EG
+- Name: Regulator_Switching : LNK419EG
+- Description: Regulator_Switching : LNK419EG
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK419EG](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK419EG)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGLNK419EG](http://oom.lt/SZKREGULATORSWITCHINGLNK419EG)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LNK419EG|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK419EG|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGLNK419EG|
-|name|name|LNK419EG|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LNK403EG', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LNK419EG', 'kicadSymbolFootprint': 'Package_SIP:PowerIntegrations_eSIP-7C', 'kicadSymbolDatasheet': 'http://www.powerint.com/sites/default/files/product-docs/linkswitch-ph_family_datasheet.pdf', 'kicadSymbolki_keywords': 'LED Driver IC, Single-Stage PFC and Primary-Side Constant Current Control', 'kicadSymbolki_description': 'LinkSwitch-PH Family, 50W Output Power, eSIP-7C', 'kicadSymbolki_fp_filters': 'PowerIntegrations?eSIP?7C*'}]|
+|name|name|Regulator_Switching : LNK419EG|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'LNK403EG'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LNK419EG'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SIP</td></tr><tr><td>PowerIntegrations_eSIP-7C'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.powerint.com/sites/default/files/product-docs/linkswitch-ph_family_datasheet.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'LED Driver IC</td><td> Single-Stage PFC and Primary-Side Constant Current Control'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'LinkSwitch-PH Family</td><td> 50W Output Power</td><td> eSIP-7C'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'PowerIntegrations?eSIP?7C*'</td></tr></table>]|
 ||||

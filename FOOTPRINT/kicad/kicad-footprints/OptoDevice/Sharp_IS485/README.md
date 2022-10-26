@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-OptoDevice-Sharp_IS485|
 |Hex ID (short code)|hexID|FZKOPSHARPIS485|
 |name|name|OptoDevice : Sharp_IS485|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Sharp_IS485', 'description': 'Sharp OPIC, IS485, IS486, see http://microrato.ua.pt/main/Actividades/Estagios/Docs/IS485_6.pdf', 'tags': 'Sharp OPIC IS485 IS486', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/Sharp_IS485.wrl', 'pins': {'type': 'thru_hole', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Sharp_IS485'</td><td> 'description'</td></tr><tr><td> 'Sharp OPIC</td><td> IS485</td><td> IS486</td><td> see http</td></tr><tr><td>//microrato.ua.pt/main/Actividades/Estagios/Docs/IS485_6.pdf'</td><td> 'tags'</td></tr><tr><td> 'Sharp OPIC IS485 IS486'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/OptoDevice.3dshapes/Sharp_IS485.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

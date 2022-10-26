@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-OptoDevice-Sharp_IS471F|
 |Hex ID (short code)|hexID|FZKOPSHARPIS471F|
 |name|name|OptoDevice : Sharp_IS471F|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Sharp_IS471F', 'description': 'Sharp OPIC IS471F, see http://pdf.datasheetcatalog.com/datasheet/Sharp/mXvrzty.pdf', 'tags': 'Sharp OPIC IS471F', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/Sharp_IS471F.wrl', 'pins': {'type': 'thru_hole', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Sharp_IS471F'</td><td> 'description'</td></tr><tr><td> 'Sharp OPIC IS471F</td><td> see http</td></tr><tr><td>//pdf.datasheetcatalog.com/datasheet/Sharp/mXvrzty.pdf'</td><td> 'tags'</td></tr><tr><td> 'Sharp OPIC IS471F'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/OptoDevice.3dshapes/Sharp_IS471F.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

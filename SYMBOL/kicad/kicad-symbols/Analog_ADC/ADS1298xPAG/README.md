@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKANALOGADCADS1298XPAG > ADS1298xPAG
+# SZKANALOGADCADS1298XPAG > Analog_ADC : ADS1298xPAG
 
 - ID: SYMBOL-kicad-kicad-symbols-Analog_ADC-ADS1298xPAG
 - Hex ID: SZKANALOGADCADS1298XPAG
-- Name: ADS1298xPAG
-- Description: ADS1298xPAG
+- Name: Analog_ADC : ADS1298xPAG
+- Description: Analog_ADC : ADS1298xPAG
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-ADS1298xPAG](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-ADS1298xPAG)
 - Short Link: [http://oom.lt/SZKANALOGADCADS1298XPAG](http://oom.lt/SZKANALOGADCADS1298XPAG)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ADS1298xPAG|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_ADC-ADS1298xPAG|
 |Hex ID (short code)|hexID|SZKANALOGADCADS1298XPAG|
-|name|name|ADS1298xPAG|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ADS1298xPAG', 'kicadSymbolFootprint': 'Package_QFP:TQFP-64_10x10mm_P0.5mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/ads1298.pdf', 'kicadSymbolki_keywords': '24bit ADC 8 Channels PGA SPI Biopotential', 'kicadSymbolki_description': 'ADS1298 Low-Power, 8-Channel, 24-Bit Analog Front-End for Biopotential Measurements, TQFP-64', 'kicadSymbolki_fp_filters': 'TQFP*10x10mm*P0.5mm*'}]|
+|name|name|Analog_ADC : ADS1298xPAG|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ADS1298xPAG'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_QFP</td></tr><tr><td>TQFP-64_10x10mm_P0.5mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/ads1298.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> '24bit ADC 8 Channels PGA SPI Biopotential'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'ADS1298 Low-Power</td><td> 8-Channel</td><td> 24-Bit Analog Front-End for Biopotential Measurements</td><td> TQFP-64'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TQFP*10x10mm*P0.5mm*'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKAMPLIFIEROPERATIONALLMH6551MA > LMH6551MA
+# SZKAMPLIFIEROPERATIONALLMH6551MA > Amplifier_Operational : LMH6551MA
 
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LMH6551MA
 - Hex ID: SZKAMPLIFIEROPERATIONALLMH6551MA
-- Name: LMH6551MA
-- Description: LMH6551MA
+- Name: Amplifier_Operational : LMH6551MA
+- Description: Amplifier_Operational : LMH6551MA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LMH6551MA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LMH6551MA)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALLMH6551MA](http://oom.lt/SZKAMPLIFIEROPERATIONALLMH6551MA)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LMH6551MA|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LMH6551MA|
 |Hex ID (short code)|hexID|SZKAMPLIFIEROPERATIONALLMH6551MA|
-|name|name|LMH6551MA|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LMH6551MA', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lmh6551.pdf', 'kicadSymbolki_keywords': 'differential opamp operational amplifier', 'kicadSymbolki_description': 'Differential, High-Speed, Op Amp, SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm*'}]|
+|name|name|Amplifier_Operational : LMH6551MA|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LMH6551MA'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-8_3.9x4.9mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/lmh6551.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'differential opamp operational amplifier'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Differential</td><td> High-Speed</td><td> Op Amp</td><td> SOIC-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*3.9x4.9mm*P1.27mm*'</td></tr></table>]|
 ||||

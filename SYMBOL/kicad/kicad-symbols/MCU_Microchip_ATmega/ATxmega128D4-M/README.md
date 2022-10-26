@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUMCHIPATMEGAATXMEGA128D4M > ATxmega128D4-M
+# SZKMCUMCHIPATMEGAATXMEGA128D4M > MCU_Microchip_ATmega : ATxmega128D4-M
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATxmega128D4-M
 - Hex ID: SZKMCUMCHIPATMEGAATXMEGA128D4M
-- Name: ATxmega128D4-M
-- Description: ATxmega128D4-M
+- Name: MCU_Microchip_ATmega : ATxmega128D4-M
+- Description: MCU_Microchip_ATmega : ATxmega128D4-M
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATxmega128D4-M](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATxmega128D4-M)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATMEGAATXMEGA128D4M](http://oom.lt/SZKMCUMCHIPATMEGAATXMEGA128D4M)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ATxmega128D4-M|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATxmega128D4-M|
 |Hex ID (short code)|hexID|SZKMCUMCHIPATMEGAATXMEGA128D4M|
-|name|name|ATxmega128D4-M|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ATxmega16D4-M', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ATxmega128D4-M', 'kicadSymbolFootprint': 'Package_DFN_QFN:QFN-44-1EP_7x7mm_P0.5mm_EP5.2x5.2mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-8135-8-and-16-bit-AVR-microcontroller-ATxmega16D4-32D4-64D4-128D4_datasheet.pdf', 'kicadSymbolki_keywords': 'AVR 8/16bit Microcontroller XMegaAVR', 'kicadSymbolki_description': '32MHz, 128kB Flash, 8kB Boot, 8kB SRAM, 2kB EEPROM, JTAG, QFN-44', 'kicadSymbolki_fp_filters': 'QFN*1EP*7x7mm*P0.5mm*'}]|
+|name|name|MCU_Microchip_ATmega : ATxmega128D4-M|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'ATxmega16D4-M'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ATxmega128D4-M'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>QFN-44-1EP_7x7mm_P0.5mm_EP5.2x5.2mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/Atmel-8135-8-and-16-bit-AVR-microcontroller-ATxmega16D4-32D4-64D4-128D4_datasheet.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'AVR 8/16bit Microcontroller XMegaAVR'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '32MHz</td><td> 128kB Flash</td><td> 8kB Boot</td><td> 8kB SRAM</td><td> 2kB EEPROM</td><td> JTAG</td><td> QFN-44'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'QFN*1EP*7x7mm*P0.5mm*'</td></tr></table>]|
 ||||

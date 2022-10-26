@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKPOWERPROTECTIONNCP349MNAE > NCP349MNAE
+# SZKPOWERPROTECTIONNCP349MNAE > Power_Protection : NCP349MNAE
 
 - ID: SYMBOL-kicad-kicad-symbols-Power_Protection-NCP349MNAE
 - Hex ID: SZKPOWERPROTECTIONNCP349MNAE
-- Name: NCP349MNAE
-- Description: NCP349MNAE
+- Name: Power_Protection : NCP349MNAE
+- Description: Power_Protection : NCP349MNAE
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-NCP349MNAE](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-NCP349MNAE)
 - Short Link: [http://oom.lt/SZKPOWERPROTECTIONNCP349MNAE](http://oom.lt/SZKPOWERPROTECTIONNCP349MNAE)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|NCP349MNAE|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Protection-NCP349MNAE|
 |Hex ID (short code)|hexID|SZKPOWERPROTECTIONNCP349MNAE|
-|name|name|NCP349MNAE|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'NCP349MN', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'NCP349MNAE', 'kicadSymbolFootprint': 'Package_DFN_QFN:DFN-6-1EP_2x1.6mm_P0.5mm_EP1.15x1.3mm', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pdf/datasheet/ncp349-d.pdf', 'kicadSymbolki_keywords': 'overvoltage protection', 'kicadSymbolki_description': '28V Positive Overvoltage Protection Controller, DFN-6', 'kicadSymbolki_fp_filters': 'DFN*1EP*2x1.6mm*P0.5mm*'}]|
+|name|name|Power_Protection : NCP349MNAE|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'NCP349MN'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'NCP349MNAE'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>DFN-6-1EP_2x1.6mm_P0.5mm_EP1.15x1.3mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.onsemi.com/pdf/datasheet/ncp349-d.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'overvoltage protection'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '28V Positive Overvoltage Protection Controller</td><td> DFN-6'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DFN*1EP*2x1.6mm*P0.5mm*'</td></tr></table>]|
 ||||

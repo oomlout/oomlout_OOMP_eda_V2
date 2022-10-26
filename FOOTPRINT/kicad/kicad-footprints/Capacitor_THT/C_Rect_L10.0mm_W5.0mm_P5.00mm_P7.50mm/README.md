@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-C_Rect_L10.0mm_W5.0mm_P5.00mm_P7.50mm|
 |Hex ID (short code)|hexID|FZKCCRECTL1W5P5P75|
 |name|name|Capacitor_THT : C_Rect_L10.0mm_W5.0mm_P5.00mm_P7.50mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'C_Rect_L10.0mm_W5.0mm_P5.00mm_P7.50mm', 'description': 'C, Rect series, Radial, pin pitch=5.00mm 7.50mm, , length*width=10*5mm^2, Capacitor', 'tags': 'C Rect series Radial pin pitch 5.00mm 7.50mm  length 10mm width 5mm Capacitor', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Capacitor_THT.3dshapes/C_Rect_L10.0mm_W5.0mm_P5.00mm_P7.50mm.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'C_Rect_L10.0mm_W5.0mm_P5.00mm_P7.50mm'</td><td> 'description'</td></tr><tr><td> 'C</td><td> Rect series</td><td> Radial</td><td> pin pitch=5.00mm 7.50mm</td><td> </td><td> length*width=10*5mm^2</td><td> Capacitor'</td><td> 'tags'</td></tr><tr><td> 'C Rect series Radial pin pitch 5.00mm 7.50mm  length 10mm width 5mm Capacitor'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Capacitor_THT.3dshapes/C_Rect_L10.0mm_W5.0mm_P5.00mm_P7.50mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

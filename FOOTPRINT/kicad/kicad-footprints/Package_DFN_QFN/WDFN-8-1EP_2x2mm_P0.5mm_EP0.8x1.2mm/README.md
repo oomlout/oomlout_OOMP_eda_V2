@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-WDFN-8-1EP_2x2mm_P0.5mm_EP0.8x1.2mm|
 |Hex ID (short code)|hexID|FZKDFNWDFN81EP2X2P5EP8X12|
 |name|name|Package_DFN_QFN : WDFN-8-1EP_2x2mm_P0.5mm_EP0.8x1.2mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'WDFN-8-1EP_2x2mm_P0.5mm_EP0.8x1.2mm', 'description': 'WDFN, 8 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/20005474E.pdf#page=25), generated with kicad-footprint-generator ipc_noLead_generator.py', 'tags': 'WDFN NoLead', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/WDFN-8-1EP_2x2mm_P0.5mm_EP0.8x1.2mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'WDFN-8-1EP_2x2mm_P0.5mm_EP0.8x1.2mm'</td><td> 'description'</td></tr><tr><td> 'WDFN</td><td> 8 Pin (http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/20005474E.pdf#page=25)</td><td> generated with kicad-footprint-generator ipc_noLead_generator.py'</td><td> 'tags'</td></tr><tr><td> 'WDFN NoLead'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DFN_QFN.3dshapes/WDFN-8-1EP_2x2mm_P0.5mm_EP0.8x1.2mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKSWITCHSWROTARY4X3 > SW_Rotary4x3
+# SZKSWITCHSWROTARY4X3 > Switch : SW_Rotary4x3
 
 - ID: SYMBOL-kicad-kicad-symbols-Switch-SW_Rotary4x3
 - Hex ID: SZKSWITCHSWROTARY4X3
-- Name: SW_Rotary4x3
-- Description: SW_Rotary4x3
+- Name: Switch : SW_Rotary4x3
+- Description: Switch : SW_Rotary4x3
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Switch-SW_Rotary4x3](http://oom.lt/SYMBOL-kicad-kicad-symbols-Switch-SW_Rotary4x3)
 - Short Link: [http://oom.lt/SZKSWITCHSWROTARY4X3](http://oom.lt/SZKSWITCHSWROTARY4X3)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SW_Rotary4x3|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Switch-SW_Rotary4x3|
 |Hex ID (short code)|hexID|SZKSWITCHSWROTARY4X3|
-|name|name|SW_Rotary4x3|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'SW', 'kicadSymbolValue': 'SW_Rotary4x3', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://cdn-reichelt.de/documents/datenblatt/C200/DS-Serie%23LOR.pdf', 'kicadSymbolki_keywords': 'rotary switch', 'kicadSymbolki_description': '4 rotary switches with 3 positions'}]|
+|name|name|Switch : SW_Rotary4x3|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'SW'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'SW_Rotary4x3'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//cdn-reichelt.de/documents/datenblatt/C200/DS-Serie%23LOR.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'rotary switch'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '4 rotary switches with 3 positions'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKAUDIOCS4334 > CS4334
+# SZKAUDIOCS4334 > Audio : CS4334
 
 - ID: SYMBOL-kicad-kicad-symbols-Audio-CS4334
 - Hex ID: SZKAUDIOCS4334
-- Name: CS4334
-- Description: CS4334
+- Name: Audio : CS4334
+- Description: Audio : CS4334
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-CS4334](http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-CS4334)
 - Short Link: [http://oom.lt/SZKAUDIOCS4334](http://oom.lt/SZKAUDIOCS4334)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|CS4334|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Audio-CS4334|
 |Hex ID (short code)|hexID|SZKAUDIOCS4334|
-|name|name|CS4334|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'CS4334', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm', 'kicadSymbolDatasheet': 'https://statics.cirrus.com/pubs/proDatasheet/CS4334-5-8-9_F7.pdf', 'kicadSymbolki_keywords': 'stereo 2ch audio codec i2s 24bit 96kHz', 'kicadSymbolki_description': '24-Bit, 96kHz Stereo D/A Converter, SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm*'}]|
+|name|name|Audio : CS4334|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'CS4334'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-8_3.9x4.9mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//statics.cirrus.com/pubs/proDatasheet/CS4334-5-8-9_F7.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'stereo 2ch audio codec i2s 24bit 96kHz'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '24-Bit</td><td> 96kHz Stereo D/A Converter</td><td> SOIC-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*3.9x4.9mm*P1.27mm*'</td></tr></table>]|
 ||||

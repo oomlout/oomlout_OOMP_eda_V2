@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUMCHIPPIC18PIC18LF4553IPT > PIC18LF4553-IPT
+# SZKMCUMCHIPPIC18PIC18LF4553IPT > MCU_Microchip_PIC18 : PIC18LF4553-IPT
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18LF4553-IPT
 - Hex ID: SZKMCUMCHIPPIC18PIC18LF4553IPT
-- Name: PIC18LF4553-IPT
-- Description: PIC18LF4553-IPT
+- Name: MCU_Microchip_PIC18 : PIC18LF4553-IPT
+- Description: MCU_Microchip_PIC18 : PIC18LF4553-IPT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18LF4553-IPT](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18LF4553-IPT)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC18PIC18LF4553IPT](http://oom.lt/SZKMCUMCHIPPIC18PIC18LF4553IPT)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PIC18LF4553-IPT|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18LF4553-IPT|
 |Hex ID (short code)|hexID|SZKMCUMCHIPPIC18PIC18LF4553IPT|
-|name|name|PIC18LF4553-IPT|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'PIC18F4458-IPT', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PIC18LF4553-IPT', 'kicadSymbolFootprint': 'Package_QFP:TQFP-44_10x10mm_P0.8mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/39887c.pdf', 'kicadSymbolki_keywords': 'Flash-Based 8-Bit Microcontroller XLP', 'kicadSymbolki_description': '32K Flash, 2K SRAM, 256 EEPROM, USB, 12-Bit A/D, nanoWatt XLP, TQFP44', 'kicadSymbolki_fp_filters': 'TQFP*10x10mm*P0.8mm*'}]|
+|name|name|MCU_Microchip_PIC18 : PIC18LF4553-IPT|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'PIC18F4458-IPT'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'PIC18LF4553-IPT'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_QFP</td></tr><tr><td>TQFP-44_10x10mm_P0.8mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/39887c.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Flash-Based 8-Bit Microcontroller XLP'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '32K Flash</td><td> 2K SRAM</td><td> 256 EEPROM</td><td> USB</td><td> 12-Bit A/D</td><td> nanoWatt XLP</td><td> TQFP44'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TQFP*10x10mm*P0.8mm*'</td></tr></table>]|
 ||||

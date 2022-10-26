@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKSENCURRENTCQ321 > CQ-3201
+# SZKSENCURRENTCQ321 > Sensor_Current : CQ-3201
 
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Current-CQ-3201
 - Hex ID: SZKSENCURRENTCQ321
-- Name: CQ-3201
-- Description: CQ-3201
+- Name: Sensor_Current : CQ-3201
+- Description: Sensor_Current : CQ-3201
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-CQ-3201](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-CQ-3201)
 - Short Link: [http://oom.lt/SZKSENCURRENTCQ321](http://oom.lt/SZKSENCURRENTCQ321)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|CQ-3201|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Current-CQ-3201|
 |Hex ID (short code)|hexID|SZKSENCURRENTCQ321|
-|name|name|CQ-3201|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'CQ-3200', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'CQ-3201', 'kicadSymbolFootprint': 'Sensor_Current:AKM_CQ_VSOP-24_5.6x7.9mm_P0.65mm', 'kicadSymbolDatasheet': 'http://www.akm.com/akm/en/file/datasheet/CQ-3201.pdf', 'kicadSymbolki_keywords': 'hall effect current sensor', 'kicadSymbolki_description': 'High-Speed Response Coreless Current Sensor, Bidirectional, -10.1A to +10.1A, 130mV/A, VSOP-24', 'kicadSymbolki_fp_filters': 'AKM*CQ*VSOP*5.6x7.9mm*P0.65mm*'}]|
+|name|name|Sensor_Current : CQ-3201|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'CQ-3200'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'CQ-3201'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Sensor_Current</td></tr><tr><td>AKM_CQ_VSOP-24_5.6x7.9mm_P0.65mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.akm.com/akm/en/file/datasheet/CQ-3201.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'hall effect current sensor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'High-Speed Response Coreless Current Sensor</td><td> Bidirectional</td><td> -10.1A to +10.1A</td><td> 130mV/A</td><td> VSOP-24'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'AKM*CQ*VSOP*5.6x7.9mm*P0.65mm*'</td></tr></table>]|
 ||||

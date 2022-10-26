@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-DFN-12-1EP_4x4mm_P0.5mm_EP2.66x3.38mm|
 |Hex ID (short code)|hexID|FZKDFNDFN121EP4X4P5EP266X338|
 |name|name|Package_DFN_QFN : DFN-12-1EP_4x4mm_P0.5mm_EP2.66x3.38mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'DFN-12-1EP_4x4mm_P0.5mm_EP2.66x3.38mm', 'description': 'DF Package; 12-Lead Plastic DFN (4mm x 4mm) (see Linear Technology 05081733_A_DF12.pdf)', 'tags': 'DFN 0.5', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/DFN-12-1EP_4x4mm_P0.5mm_EP2.66x3.38mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'DFN-12-1EP_4x4mm_P0.5mm_EP2.66x3.38mm'</td><td> 'description'</td></tr><tr><td> 'DF Package; 12-Lead Plastic DFN (4mm x 4mm) (see Linear Technology 05081733_A_DF12.pdf)'</td><td> 'tags'</td></tr><tr><td> 'DFN 0.5'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DFN_QFN.3dshapes/DFN-12-1EP_4x4mm_P0.5mm_EP2.66x3.38mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

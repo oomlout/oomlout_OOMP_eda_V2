@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKRFBLUETOOTHRN42N > RN42N
+# SZKRFBLUETOOTHRN42N > RF_Bluetooth : RN42N
 
 - ID: SYMBOL-kicad-kicad-symbols-RF_Bluetooth-RN42N
 - Hex ID: SZKRFBLUETOOTHRN42N
-- Name: RN42N
-- Description: RN42N
+- Name: RF_Bluetooth : RN42N
+- Description: RF_Bluetooth : RN42N
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Bluetooth-RN42N](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Bluetooth-RN42N)
 - Short Link: [http://oom.lt/SZKRFBLUETOOTHRN42N](http://oom.lt/SZKRFBLUETOOTHRN42N)
   
@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|RN42N|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-RF_Bluetooth-RN42N|
 |Hex ID (short code)|hexID|SZKRFBLUETOOTHRN42N|
-|name|name|RN42N|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'RN42N', 'kicadSymbolFootprint': 'RF_Module:RN42N', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/rn-42-ds-v2.32r.pdf', 'kicadSymbolki_keywords': 'Bluetooth Module', 'kicadSymbolki_description': 'Class 2 Bluetooth Module without antenna', 'kicadSymbolki_fp_filters': 'RN42N*'}]|
+|name|name|RF_Bluetooth : RN42N|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'RN42N'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'RF_Module</td></tr><tr><td>RN42N'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/rn-42-ds-v2.32r.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Bluetooth Module'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Class 2 Bluetooth Module without antenna'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'RN42N*'</td></tr></table>]|
 ||||

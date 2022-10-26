@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKGSMSIM72C > SIM7020C
+# SZKGSMSIM72C > RF_GSM : SIM7020C
 
 - ID: SYMBOL-kicad-kicad-symbols-RF_GSM-SIM7020C
 - Hex ID: SZKGSMSIM72C
-- Name: SIM7020C
-- Description: SIM7020C
+- Name: RF_GSM : SIM7020C
+- Description: RF_GSM : SIM7020C
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_GSM-SIM7020C](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_GSM-SIM7020C)
 - Short Link: [http://oom.lt/SZKGSMSIM72C](http://oom.lt/SZKGSMSIM72C)
   
@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|SIM7020C|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-RF_GSM-SIM7020C|
 |Hex ID (short code)|hexID|SZKGSMSIM72C|
-|name|name|SIM7020C|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'SIM7020E', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'SIM7020C', 'kicadSymbolFootprint': 'RF_GSM:SIMCom_SIM800C', 'kicadSymbolDatasheet': 'https://simcom.ee/documents/SIM7020/SIM7020%20Hardware%20Design_V1.02.pdf', 'kicadSymbolki_keywords': 'NB-IoT Data SMS', 'kicadSymbolki_description': 'NB-IoT B1/B3/B5/B8, AT Command Set', 'kicadSymbolki_fp_filters': 'SIMCom*SIM800C*'}]|
+|name|name|RF_GSM : SIM7020C|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'SIM7020E'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'SIM7020C'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'RF_GSM</td></tr><tr><td>SIMCom_SIM800C'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//simcom.ee/documents/SIM7020/SIM7020%20Hardware%20Design_V1.02.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'NB-IoT Data SMS'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'NB-IoT B1/B3/B5/B8</td><td> AT Command Set'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SIMCom*SIM800C*'</td></tr></table>]|
 ||||

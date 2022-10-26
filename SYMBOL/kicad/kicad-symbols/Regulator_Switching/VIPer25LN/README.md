@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORSWITCHINGVIPER25LN > VIPer25LN
+# SZKREGULATORSWITCHINGVIPER25LN > Regulator_Switching : VIPer25LN
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-VIPer25LN
 - Hex ID: SZKREGULATORSWITCHINGVIPER25LN
-- Name: VIPer25LN
-- Description: VIPer25LN
+- Name: Regulator_Switching : VIPer25LN
+- Description: Regulator_Switching : VIPer25LN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-VIPer25LN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-VIPer25LN)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGVIPER25LN](http://oom.lt/SZKREGULATORSWITCHINGVIPER25LN)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|VIPer25LN|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-VIPer25LN|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGVIPER25LN|
-|name|name|VIPer25LN|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'VIPer25LN', 'kicadSymbolFootprint': 'Package_DIP:PowerIntegrations_PDIP-8B', 'kicadSymbolDatasheet': 'http://www.st.com/internet/com/TECHNICAL_RESOURCES/TECHNICAL_LITERATURE/DATASHEET/CD00231127.pdf', 'kicadSymbolki_keywords': 'SMPS Controller with MOSFET 12W AC-DC', 'kicadSymbolki_description': '12W SMPS Controller, AC-DC, PDIP-7', 'kicadSymbolki_fp_filters': '*PDIP*8B*'}]|
+|name|name|Regulator_Switching : VIPer25LN|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'VIPer25LN'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>PowerIntegrations_PDIP-8B'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.st.com/internet/com/TECHNICAL_RESOURCES/TECHNICAL_LITERATURE/DATASHEET/CD00231127.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'SMPS Controller with MOSFET 12W AC-DC'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '12W SMPS Controller</td><td> AC-DC</td><td> PDIP-7'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> '*PDIP*8B*'</td></tr></table>]|
 ||||

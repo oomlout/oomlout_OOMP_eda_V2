@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector-SpringContact_Harwin_S1941-46R|
 |Hex ID (short code)|hexID|FZKCNSPRINGCONTACTHARWINS194146R|
 |name|name|Connector : SpringContact_Harwin_S1941-46R|
-|Footprint Kicad|footprintKicadDetails|{'name': 'SpringContact_Harwin_S1941-46R', 'description': '7.25mm SMT Multi-directional Spring Contact (T+R), https://cdn.harwin.com/pdfs/S1941R.pdf', 'tags': 'spring contact emi emc shield', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector.3dshapes/SpringContact_Harwin_S1941-46R.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SpringContact_Harwin_S1941-46R'</td><td> 'description'</td></tr><tr><td> '7.25mm SMT Multi-directional Spring Contact (T+R)</td><td> https</td></tr><tr><td>//cdn.harwin.com/pdfs/S1941R.pdf'</td><td> 'tags'</td></tr><tr><td> 'spring contact emi emc shield'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector.3dshapes/SpringContact_Harwin_S1941-46R.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

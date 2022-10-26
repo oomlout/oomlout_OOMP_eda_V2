@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDSPANALOGDEVICESADAU172 > ADAU1702
+# SZKDSPANALOGDEVICESADAU172 > DSP_AnalogDevices : ADAU1702
 
 - ID: SYMBOL-kicad-kicad-symbols-DSP_AnalogDevices-ADAU1702
 - Hex ID: SZKDSPANALOGDEVICESADAU172
-- Name: ADAU1702
-- Description: ADAU1702
+- Name: DSP_AnalogDevices : ADAU1702
+- Description: DSP_AnalogDevices : ADAU1702
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-DSP_AnalogDevices-ADAU1702](http://oom.lt/SYMBOL-kicad-kicad-symbols-DSP_AnalogDevices-ADAU1702)
 - Short Link: [http://oom.lt/SZKDSPANALOGDEVICESADAU172](http://oom.lt/SZKDSPANALOGDEVICESADAU172)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ADAU1702|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-DSP_AnalogDevices-ADAU1702|
 |Hex ID (short code)|hexID|SZKDSPANALOGDEVICESADAU172|
-|name|name|ADAU1702|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ADAU1701', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ADAU1702', 'kicadSymbolFootprint': 'Package_QFP:LQFP-48_7x7mm_P0.5mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/ADAU1702.pdf', 'kicadSymbolki_keywords': 'sigmadsp audio adc dac', 'kicadSymbolki_description': 'SigmaDSP 28-/56-Bit Audio Processor with Two ADCs and Four DACs, 25 MIPS, 512kword Program RAM, 512kword Data RAM, LQFP-48', 'kicadSymbolki_fp_filters': 'LQFP*7x7mm*P0.5mm*'}]|
+|name|name|DSP_AnalogDevices : ADAU1702|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'ADAU1701'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ADAU1702'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_QFP</td></tr><tr><td>LQFP-48_7x7mm_P0.5mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/ADAU1702.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'sigmadsp audio adc dac'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'SigmaDSP 28-/56-Bit Audio Processor with Two ADCs and Four DACs</td><td> 25 MIPS</td><td> 512kword Program RAM</td><td> 512kword Data RAM</td><td> LQFP-48'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'LQFP*7x7mm*P0.5mm*'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKLOGICPROGRAABLEPAL16L8 > PAL16L8
+# SZKLOGICPROGRAABLEPAL16L8 > Logic_Programmable : PAL16L8
 
 - ID: SYMBOL-kicad-kicad-symbols-Logic_Programmable-PAL16L8
 - Hex ID: SZKLOGICPROGRAABLEPAL16L8
-- Name: PAL16L8
-- Description: PAL16L8
+- Name: Logic_Programmable : PAL16L8
+- Description: Logic_Programmable : PAL16L8
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Logic_Programmable-PAL16L8](http://oom.lt/SYMBOL-kicad-kicad-symbols-Logic_Programmable-PAL16L8)
 - Short Link: [http://oom.lt/SZKLOGICPROGRAABLEPAL16L8](http://oom.lt/SZKLOGICPROGRAABLEPAL16L8)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PAL16L8|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Logic_Programmable-PAL16L8|
 |Hex ID (short code)|hexID|SZKLOGICPROGRAABLEPAL16L8|
-|name|name|PAL16L8|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PAL16L8', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_keywords': 'PAL PLD 16L8', 'kicadSymbolki_description': 'Programmable Logic Array, DIP-20', 'kicadSymbolki_fp_filters': 'DIP* PDIP*'}]|
+|name|name|Logic_Programmable : PAL16L8|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'PAL16L8'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'PAL PLD 16L8'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Programmable Logic Array</td><td> DIP-20'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP* PDIP*'</td></tr></table>]|
 ||||

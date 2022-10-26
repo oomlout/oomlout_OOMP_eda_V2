@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZK74XGXX74AUC2G6 > 74AUC2G06
+# SZK74XGXX74AUC2G6 > 74xGxx : 74AUC2G06
 
 - ID: SYMBOL-kicad-kicad-symbols-74xGxx-74AUC2G06
 - Hex ID: SZK74XGXX74AUC2G6
-- Name: 74AUC2G06
-- Description: 74AUC2G06
+- Name: 74xGxx : 74AUC2G06
+- Description: 74xGxx : 74AUC2G06
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-74xGxx-74AUC2G06](http://oom.lt/SYMBOL-kicad-kicad-symbols-74xGxx-74AUC2G06)
 - Short Link: [http://oom.lt/SZK74XGXX74AUC2G6](http://oom.lt/SZK74XGXX74AUC2G6)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74AUC2G06|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xGxx-74AUC2G06|
 |Hex ID (short code)|hexID|SZK74XGXX74AUC2G6|
-|name|name|74AUC2G06|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '74LVC2G06', 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74AUC2G06', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf', 'kicadSymbolki_keywords': 'Dual Gate NOT Open Drain LVC CMOS', 'kicadSymbolki_description': 'Dual NOT Gate w/ Open Drain, Low-Voltage CMOS', 'kicadSymbolki_fp_filters': 'SG-* SOT*'}]|
+|name|name|74xGxx : 74AUC2G06|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> '74LVC2G06'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> '74AUC2G06'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/sg/scyt129e/scyt129e.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Dual Gate NOT Open Drain LVC CMOS'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Dual NOT Gate w/ Open Drain</td><td> Low-Voltage CMOS'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SG-* SOT*'</td></tr></table>]|
 ||||

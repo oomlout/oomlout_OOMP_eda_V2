@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDEVICEDZENERDUALCOONCATHODEKAASPLIT > D_Zener_Dual_CommonCathode_KAA_Split
+# SZKDEVICEDZENERDUALCOONCATHODEKAASPLIT > Device : D_Zener_Dual_CommonCathode_KAA_Split
 
 - ID: SYMBOL-kicad-kicad-symbols-Device-D_Zener_Dual_CommonCathode_KAA_Split
 - Hex ID: SZKDEVICEDZENERDUALCOONCATHODEKAASPLIT
-- Name: D_Zener_Dual_CommonCathode_KAA_Split
-- Description: D_Zener_Dual_CommonCathode_KAA_Split
+- Name: Device : D_Zener_Dual_CommonCathode_KAA_Split
+- Description: Device : D_Zener_Dual_CommonCathode_KAA_Split
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Zener_Dual_CommonCathode_KAA_Split](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Zener_Dual_CommonCathode_KAA_Split)
 - Short Link: [http://oom.lt/SZKDEVICEDZENERDUALCOONCATHODEKAASPLIT](http://oom.lt/SZKDEVICEDZENERDUALCOONCATHODEKAASPLIT)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|D_Zener_Dual_CommonCathode_KAA_Split|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-D_Zener_Dual_CommonCathode_KAA_Split|
 |Hex ID (short code)|hexID|SZKDEVICEDZENERDUALCOONCATHODEKAASPLIT|
-|name|name|D_Zener_Dual_CommonCathode_KAA_Split|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'D_Zener_Dual_CommonCathode_KAA_Split', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'diode', 'kicadSymbolki_description': 'Dual Zener diode, common anode on pin 1'}]|
+|name|name|Device : D_Zener_Dual_CommonCathode_KAA_Split|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'D_Zener_Dual_CommonCathode_KAA_Split'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_locked'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'diode'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Dual Zener diode</td><td> common anode on pin 1'</td></tr></table>]|
 ||||

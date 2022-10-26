@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-LFPAK33|
 |Hex ID (short code)|hexID|FZKPACKAGETOSOTSMLFPAK33|
 |name|name|Package_TO_SOT_SMD : LFPAK33|
-|Footprint Kicad|footprintKicadDetails|{'name': 'LFPAK33', 'description': 'LFPAK33 SOT-1210 https://assets.nexperia.com/documents/outline-drawing/SOT1210.pdf', 'tags': 'LFPAK33 SOT-1210', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/LFPAK33.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'LFPAK33'</td><td> 'description'</td></tr><tr><td> 'LFPAK33 SOT-1210 https</td></tr><tr><td>//assets.nexperia.com/documents/outline-drawing/SOT1210.pdf'</td><td> 'tags'</td></tr><tr><td> 'LFPAK33 SOT-1210'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_TO_SOT_SMD.3dshapes/LFPAK33.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

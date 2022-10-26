@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_Micro-AB_Molex_47590-0001|
 |Hex ID (short code)|hexID|FZKCNUUMABMX47591|
 |name|name|Connector_USB : USB_Micro-AB_Molex_47590-0001|
-|Footprint Kicad|footprintKicadDetails|{'name': 'USB_Micro-AB_Molex_47590-0001', 'description': 'Micro USB AB receptable, right-angle inverted (https://www.molex.com/pdm_docs/sd/475900001_sd.pdf)', 'tags': 'Micro AB USB SMD', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_USB.3dshapes/USB_Micro-AB_Molex_47590-0001.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'USB_Micro-AB_Molex_47590-0001'</td><td> 'description'</td></tr><tr><td> 'Micro USB AB receptable</td><td> right-angle inverted (https</td></tr><tr><td>//www.molex.com/pdm_docs/sd/475900001_sd.pdf)'</td><td> 'tags'</td></tr><tr><td> 'Micro AB USB SMD'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_USB.3dshapes/USB_Micro-AB_Molex_47590-0001.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

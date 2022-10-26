@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTIMERPL6111XXXT > PL611-01-xxxT
+# SZKTIMERPL6111XXXT > Timer : PL611-01-xxxT
 
 - ID: SYMBOL-kicad-kicad-symbols-Timer-PL611-01-xxxT
 - Hex ID: SZKTIMERPL6111XXXT
-- Name: PL611-01-xxxT
-- Description: PL611-01-xxxT
+- Name: Timer : PL611-01-xxxT
+- Description: Timer : PL611-01-xxxT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer-PL611-01-xxxT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer-PL611-01-xxxT)
 - Short Link: [http://oom.lt/SZKTIMERPL6111XXXT](http://oom.lt/SZKTIMERPL6111XXXT)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PL611-01-xxxT|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Timer-PL611-01-xxxT|
 |Hex ID (short code)|hexID|SZKTIMERPL6111XXXT|
-|name|name|PL611-01-xxxT|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PL611-01-xxxT', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-6', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/PL611-01.pdf', 'kicadSymbolki_keywords': 'clock generator dual programmable', 'kicadSymbolki_description': 'Programmable Clock, Dual Programmable Clock Outputs, Up To 200MHz, SOT-23-6', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
+|name|name|Timer : PL611-01-xxxT|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'PL611-01-xxxT'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-23-6'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/PL611-01.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'clock generator dual programmable'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Programmable Clock</td><td> Dual Programmable Clock Outputs</td><td> Up To 200MHz</td><td> SOT-23-6'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23*'</td></tr></table>]|
 ||||

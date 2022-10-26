@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_5.3mm_M5_DIN965_Pad|
 |Hex ID (short code)|hexID|FZKHOLHOL53M5DIN965PAD|
 |name|name|MountingHole : MountingHole_5.3mm_M5_DIN965_Pad|
-|Footprint Kicad|footprintKicadDetails|{'name': 'MountingHole_5.3mm_M5_DIN965_Pad', 'description': 'Mounting Hole 5.3mm, M5, DIN965', 'tags': 'mounting hole 5.3mm m5 din965', 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'MountingHole_5.3mm_M5_DIN965_Pad'</td><td> 'description'</td></tr><tr><td> 'Mounting Hole 5.3mm</td><td> M5</td><td> DIN965'</td><td> 'tags'</td></tr><tr><td> 'mounting hole 5.3mm m5 din965'</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKINTERFACEETHERNETW51 > W5100
+# SZKINTERFACEETHERNETW51 > Interface_Ethernet : W5100
 
 - ID: SYMBOL-kicad-kicad-symbols-Interface_Ethernet-W5100
 - Hex ID: SZKINTERFACEETHERNETW51
-- Name: W5100
-- Description: W5100
+- Name: Interface_Ethernet : W5100
+- Description: Interface_Ethernet : W5100
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Ethernet-W5100](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Ethernet-W5100)
 - Short Link: [http://oom.lt/SZKINTERFACEETHERNETW51](http://oom.lt/SZKINTERFACEETHERNETW51)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|W5100|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_Ethernet-W5100|
 |Hex ID (short code)|hexID|SZKINTERFACEETHERNETW51|
-|name|name|W5100|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'W5100', 'kicadSymbolFootprint': 'Package_QFP:LQFP-80_10x10mm_P0.4mm', 'kicadSymbolDatasheet': 'http://www.wiznet.io/wp-content/uploads/wiznethome/Chip/W5100/Document/W5100_Datasheet_v1.2.7.pdf', 'kicadSymbolki_keywords': 'Wiznet Ethernet controller', 'kicadSymbolki_description': '10/100Mb Ethernet controller with TCP/IP stack, LQFP-80', 'kicadSymbolki_fp_filters': 'LQFP*10x10mm*P0.4mm*'}]|
+|name|name|Interface_Ethernet : W5100|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'W5100'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_QFP</td></tr><tr><td>LQFP-80_10x10mm_P0.4mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.wiznet.io/wp-content/uploads/wiznethome/Chip/W5100/Document/W5100_Datasheet_v1.2.7.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Wiznet Ethernet controller'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '10/100Mb Ethernet controller with TCP/IP stack</td><td> LQFP-80'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'LQFP*10x10mm*P0.4mm*'</td></tr></table>]|
 ||||

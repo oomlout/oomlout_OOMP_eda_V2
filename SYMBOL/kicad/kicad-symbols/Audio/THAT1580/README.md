@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKAUDIOTHAT158 > THAT1580
+# SZKAUDIOTHAT158 > Audio : THAT1580
 
 - ID: SYMBOL-kicad-kicad-symbols-Audio-THAT1580
 - Hex ID: SZKAUDIOTHAT158
-- Name: THAT1580
-- Description: THAT1580
+- Name: Audio : THAT1580
+- Description: Audio : THAT1580
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-THAT1580](http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-THAT1580)
 - Short Link: [http://oom.lt/SZKAUDIOTHAT158](http://oom.lt/SZKAUDIOTHAT158)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|THAT1580|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Audio-THAT1580|
 |Hex ID (short code)|hexID|SZKAUDIOTHAT158|
-|name|name|THAT1580|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'THAT1580', 'kicadSymbolFootprint': 'Package_DFN_QFN:QFN-16-1EP_4x4mm_P0.65mm_EP2.1x2.1mm_ThermalVias', 'kicadSymbolDatasheet': 'http://www.thatcorp.com/datashts/THAT_1580_Datasheet.pdf', 'kicadSymbolki_keywords': 'diff amp mic preamp', 'kicadSymbolki_description': 'Low-Noise, Differential Audio Preamplifier IC, 0.005% THD+N, -134.8dBu EIN, QFN-16', 'kicadSymbolki_fp_filters': 'QFN*1EP*4x4mm*P0.65mm*'}]|
+|name|name|Audio : THAT1580|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'THAT1580'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>QFN-16-1EP_4x4mm_P0.65mm_EP2.1x2.1mm_ThermalVias'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.thatcorp.com/datashts/THAT_1580_Datasheet.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'diff amp mic preamp'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Low-Noise</td><td> Differential Audio Preamplifier IC</td><td> 0.005% THD+N</td><td> -134.8dBu EIN</td><td> QFN-16'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'QFN*1EP*4x4mm*P0.65mm*'</td></tr></table>]|
 ||||

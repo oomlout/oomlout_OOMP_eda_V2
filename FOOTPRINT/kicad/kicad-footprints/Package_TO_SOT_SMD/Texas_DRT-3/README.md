@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-Texas_DRT-3|
 |Hex ID (short code)|hexID|FZKPACKAGETOSOTSMTEXASDRT3|
 |name|name|Package_TO_SOT_SMD : Texas_DRT-3|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Texas_DRT-3', 'description': 'Texas Instrument DRT-3 1x0.8mm Pitch 0.7mm http://www.ti.com/lit/ds/symlink/tpd2eusb30.pdf', 'tags': 'DRT-3 1x0.8mm Pitch 0.7mm', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/Texas_DRT-3.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Texas_DRT-3'</td><td> 'description'</td></tr><tr><td> 'Texas Instrument DRT-3 1x0.8mm Pitch 0.7mm http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/tpd2eusb30.pdf'</td><td> 'tags'</td></tr><tr><td> 'DRT-3 1x0.8mm Pitch 0.7mm'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_TO_SOT_SMD.3dshapes/Texas_DRT-3.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

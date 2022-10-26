@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKANALOGDACAD7228ABP > AD7228ABP
+# SZKANALOGDACAD7228ABP > Analog_DAC : AD7228ABP
 
 - ID: SYMBOL-kicad-kicad-symbols-Analog_DAC-AD7228ABP
 - Hex ID: SZKANALOGDACAD7228ABP
-- Name: AD7228ABP
-- Description: AD7228ABP
+- Name: Analog_DAC : AD7228ABP
+- Description: Analog_DAC : AD7228ABP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-AD7228ABP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-AD7228ABP)
 - Short Link: [http://oom.lt/SZKANALOGDACAD7228ABP](http://oom.lt/SZKANALOGDACAD7228ABP)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AD7228ABP|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_DAC-AD7228ABP|
 |Hex ID (short code)|hexID|SZKANALOGDACAD7228ABP|
-|name|name|AD7228ABP|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AD7228ABP', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.analog.com/static/imported-files/data_sheets/AD7228.pdf', 'kicadSymbolki_keywords': '8bit DAC 8CH', 'kicadSymbolki_description': '8bit DAC 8 Channel, Single Reference, PLCC-28', 'kicadSymbolki_fp_filters': 'PLCC*'}]|
+|name|name|Analog_DAC : AD7228ABP|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'AD7228ABP'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/static/imported-files/data_sheets/AD7228.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> '8bit DAC 8CH'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '8bit DAC 8 Channel</td><td> Single Reference</td><td> PLCC-28'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'PLCC*'</td></tr></table>]|
 ||||

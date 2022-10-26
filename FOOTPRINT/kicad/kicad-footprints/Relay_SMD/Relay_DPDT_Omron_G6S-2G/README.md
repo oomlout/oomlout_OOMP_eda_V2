@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Relay_SMD-Relay_DPDT_Omron_G6S-2G|
 |Hex ID (short code)|hexID|FZKRELAYSMRELAYDPDTOMRONG6S2G|
 |name|name|Relay_SMD : Relay_DPDT_Omron_G6S-2G|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Relay_DPDT_Omron_G6S-2G', 'description': 'Relay Omron G6S-2G, see http://omronfs.omron.com/en_US/ecb/products/pdf/en-g6s.pdf', 'tags': 'Relay Omron G6S-2G', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Relay_SMD.3dshapes/Relay_DPDT_Omron_G6S-2G.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Relay_DPDT_Omron_G6S-2G'</td><td> 'description'</td></tr><tr><td> 'Relay Omron G6S-2G</td><td> see http</td></tr><tr><td>//omronfs.omron.com/en_US/ecb/products/pdf/en-g6s.pdf'</td><td> 'tags'</td></tr><tr><td> 'Relay Omron G6S-2G'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Relay_SMD.3dshapes/Relay_DPDT_Omron_G6S-2G.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

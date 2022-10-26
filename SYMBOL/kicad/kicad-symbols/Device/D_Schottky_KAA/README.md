@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDEVICEDSCHOTTKYKAA > D_Schottky_KAA
+# SZKDEVICEDSCHOTTKYKAA > Device : D_Schottky_KAA
 
 - ID: SYMBOL-kicad-kicad-symbols-Device-D_Schottky_KAA
 - Hex ID: SZKDEVICEDSCHOTTKYKAA
-- Name: D_Schottky_KAA
-- Description: D_Schottky_KAA
+- Name: Device : D_Schottky_KAA
+- Description: Device : D_Schottky_KAA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Schottky_KAA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Schottky_KAA)
 - Short Link: [http://oom.lt/SZKDEVICEDSCHOTTKYKAA](http://oom.lt/SZKDEVICEDSCHOTTKYKAA)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|D_Schottky_KAA|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-D_Schottky_KAA|
 |Hex ID (short code)|hexID|SZKDEVICEDSCHOTTKYKAA|
-|name|name|D_Schottky_KAA|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'D_Schottky_KAA', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'diode Schottky SCHDPAK', 'kicadSymbolki_description': 'Schottky diode, anode on pins 2 and 3', 'kicadSymbolki_fp_filters': 'TO-???* *_Diode_* *SingleDiode* D_*'}]|
+|name|name|Device : D_Schottky_KAA|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'D_Schottky_KAA'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'diode Schottky SCHDPAK'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Schottky diode</td><td> anode on pins 2 and 3'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TO-???* *_Diode_* *SingleDiode* D_*'</td></tr></table>]|
 ||||

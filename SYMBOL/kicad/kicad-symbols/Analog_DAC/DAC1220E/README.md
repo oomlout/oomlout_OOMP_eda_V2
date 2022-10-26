@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKANALOGDACDAC122E > DAC1220E
+# SZKANALOGDACDAC122E > Analog_DAC : DAC1220E
 
 - ID: SYMBOL-kicad-kicad-symbols-Analog_DAC-DAC1220E
 - Hex ID: SZKANALOGDACDAC122E
-- Name: DAC1220E
-- Description: DAC1220E
+- Name: Analog_DAC : DAC1220E
+- Description: Analog_DAC : DAC1220E
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-DAC1220E](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-DAC1220E)
 - Short Link: [http://oom.lt/SZKANALOGDACDAC122E](http://oom.lt/SZKANALOGDACDAC122E)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DAC1220E|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_DAC-DAC1220E|
 |Hex ID (short code)|hexID|SZKANALOGDACDAC122E|
-|name|name|DAC1220E|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'DAC1220E', 'kicadSymbolFootprint': 'Package_SO:SSOP-16_3.9x4.9mm_P0.635mm', 'kicadSymbolDatasheet': 'https://www.ti.com/lit/ds/symlink/dac1220.pdf', 'kicadSymbolki_keywords': 'DAC', 'kicadSymbolki_description': '20-Bit , Low-Power Digital-to-Analog Converter, SSOP-16', 'kicadSymbolki_fp_filters': 'SSOP*3.9x4.9mm*P0.635mm*'}]|
+|name|name|Analog_DAC : DAC1220E|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'DAC1220E'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SSOP-16_3.9x4.9mm_P0.635mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.ti.com/lit/ds/symlink/dac1220.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'DAC'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '20-Bit </td><td> Low-Power Digital-to-Analog Converter</td><td> SSOP-16'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SSOP*3.9x4.9mm*P0.635mm*'</td></tr></table>]|
 ||||

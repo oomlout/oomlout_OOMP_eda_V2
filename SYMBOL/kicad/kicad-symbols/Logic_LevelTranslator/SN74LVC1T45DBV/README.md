@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKLOGICLEVELTRANSLATORSN74LVC1T45DBV > SN74LVC1T45DBV
+# SZKLOGICLEVELTRANSLATORSN74LVC1T45DBV > Logic_LevelTranslator : SN74LVC1T45DBV
 
 - ID: SYMBOL-kicad-kicad-symbols-Logic_LevelTranslator-SN74LVC1T45DBV
 - Hex ID: SZKLOGICLEVELTRANSLATORSN74LVC1T45DBV
-- Name: SN74LVC1T45DBV
-- Description: SN74LVC1T45DBV
+- Name: Logic_LevelTranslator : SN74LVC1T45DBV
+- Description: Logic_LevelTranslator : SN74LVC1T45DBV
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Logic_LevelTranslator-SN74LVC1T45DBV](http://oom.lt/SYMBOL-kicad-kicad-symbols-Logic_LevelTranslator-SN74LVC1T45DBV)
 - Short Link: [http://oom.lt/SZKLOGICLEVELTRANSLATORSN74LVC1T45DBV](http://oom.lt/SZKLOGICLEVELTRANSLATORSN74LVC1T45DBV)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SN74LVC1T45DBV|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Logic_LevelTranslator-SN74LVC1T45DBV|
 |Hex ID (short code)|hexID|SZKLOGICLEVELTRANSLATORSN74LVC1T45DBV|
-|name|name|SN74LVC1T45DBV|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'SN74LVC1T45DBV', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-6', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/sn74lvc1t45.pdf', 'kicadSymbolki_keywords': 'Level-Shifter CMOS-TTL-Translation', 'kicadSymbolki_description': 'Single-Bit Dual-Supply Bus Transceiver With Configurable Voltage Translation and 3-State Outputs, SOT-23-6', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
+|name|name|Logic_LevelTranslator : SN74LVC1T45DBV|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'SN74LVC1T45DBV'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-23-6'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/sn74lvc1t45.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Level-Shifter CMOS-TTL-Translation'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Single-Bit Dual-Supply Bus Transceiver With Configurable Voltage Translation and 3-State Outputs</td><td> SOT-23-6'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23*'</td></tr></table>]|
 ||||

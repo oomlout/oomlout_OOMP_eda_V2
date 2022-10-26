@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORLINEARTLV73WSON6 > TLV70030_WSON6
+# SZKREGULATORLINEARTLV73WSON6 > Regulator_Linear : TLV70030_WSON6
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-TLV70030_WSON6
 - Hex ID: SZKREGULATORLINEARTLV73WSON6
-- Name: TLV70030_WSON6
-- Description: TLV70030_WSON6
+- Name: Regulator_Linear : TLV70030_WSON6
+- Description: Regulator_Linear : TLV70030_WSON6
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TLV70030_WSON6](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TLV70030_WSON6)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARTLV73WSON6](http://oom.lt/SZKREGULATORLINEARTLV73WSON6)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TLV70030_WSON6|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-TLV70030_WSON6|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARTLV73WSON6|
-|name|name|TLV70030_WSON6|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TLV70012_WSON6', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TLV70030_WSON6', 'kicadSymbolFootprint': 'Package_SON:WSON-6_1.5x1.5mm_P0.5mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tlv700.pdf', 'kicadSymbolki_keywords': '200mA LDO Regulator Fixed Positive', 'kicadSymbolki_description': '200mA Low Dropout Voltage Regulator, Fixed Output 3V, WSON6', 'kicadSymbolki_fp_filters': 'WSON*'}]|
+|name|name|Regulator_Linear : TLV70030_WSON6|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'TLV70012_WSON6'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TLV70030_WSON6'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SON</td></tr><tr><td>WSON-6_1.5x1.5mm_P0.5mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/tlv700.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> '200mA LDO Regulator Fixed Positive'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '200mA Low Dropout Voltage Regulator</td><td> Fixed Output 3V</td><td> WSON6'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'WSON*'</td></tr></table>]|
 ||||

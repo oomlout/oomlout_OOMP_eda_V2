@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKAMPLIFIERINSTRUMENTATIONAD8422ARZ > AD8422ARZ
+# SZKAMPLIFIERINSTRUMENTATIONAD8422ARZ > Amplifier_Instrumentation : AD8422ARZ
 
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Instrumentation-AD8422ARZ
 - Hex ID: SZKAMPLIFIERINSTRUMENTATIONAD8422ARZ
-- Name: AD8422ARZ
-- Description: AD8422ARZ
+- Name: Amplifier_Instrumentation : AD8422ARZ
+- Description: Amplifier_Instrumentation : AD8422ARZ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Instrumentation-AD8422ARZ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Instrumentation-AD8422ARZ)
 - Short Link: [http://oom.lt/SZKAMPLIFIERINSTRUMENTATIONAD8422ARZ](http://oom.lt/SZKAMPLIFIERINSTRUMENTATIONAD8422ARZ)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AD8422ARZ|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Instrumentation-AD8422ARZ|
 |Hex ID (short code)|hexID|SZKAMPLIFIERINSTRUMENTATIONAD8422ARZ|
-|name|name|AD8422ARZ|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AD8422ARZ', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/AD8422.pdf', 'kicadSymbolki_keywords': 'ad8422 instumentation amplifier soic-8', 'kicadSymbolki_description': 'Low Power, Rail to Rail, Instumentation Amplifier, SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC-8*'}]|
+|name|name|Amplifier_Instrumentation : AD8422ARZ|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'AD8422ARZ'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/AD8422.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'ad8422 instumentation amplifier soic-8'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Low Power</td><td> Rail to Rail</td><td> Instumentation Amplifier</td><td> SOIC-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC-8*'</td></tr></table>]|
 ||||

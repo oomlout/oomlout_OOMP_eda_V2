@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_Rectangular_W7.62mm_H4.55mm_P5.08mm_R3|
 |Hex ID (short code)|hexID|FZKLLRW762H455P58R3|
 |name|name|LED_THT : LED_Rectangular_W7.62mm_H4.55mm_P5.08mm_R3|
-|Footprint Kicad|footprintKicadDetails|{'name': 'LED_Rectangular_W7.62mm_H4.55mm_P5.08mm_R3', 'description': 'Datasheet can be found at https://www.gme.cz/data/attachments/dsh.511-795.1.pdf', 'tags': 'LED automotive super flux 7.62mm', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/LED_THT.3dshapes/LED_Rectangular_W7.62mm_H4.55mm_P5.08mm_R3.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'LED_Rectangular_W7.62mm_H4.55mm_P5.08mm_R3'</td><td> 'description'</td></tr><tr><td> 'Datasheet can be found at https</td></tr><tr><td>//www.gme.cz/data/attachments/dsh.511-795.1.pdf'</td><td> 'tags'</td></tr><tr><td> 'LED automotive super flux 7.62mm'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/LED_THT.3dshapes/LED_Rectangular_W7.62mm_H4.55mm_P5.08mm_R3.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

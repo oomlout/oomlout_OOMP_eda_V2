@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SO-HSOP-32-1EP_7.5x11mm_P0.65mm_EP4.7x4.7mm|
 |Hex ID (short code)|hexID|FZKSOHS321EP75X11P65EP47X47|
 |name|name|Package_SO : HSOP-32-1EP_7.5x11mm_P0.65mm_EP4.7x4.7mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'HSOP-32-1EP_7.5x11mm_P0.65mm_EP4.7x4.7mm', 'description': 'HSOP, 32 Pin (https://www.nxp.com/docs/en/package-information/SOT1746-3.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py', 'tags': 'HSOP SO', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/HSOP-32-1EP_7.5x11mm_P0.65mm_EP4.7x4.7mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'HSOP-32-1EP_7.5x11mm_P0.65mm_EP4.7x4.7mm'</td><td> 'description'</td></tr><tr><td> 'HSOP</td><td> 32 Pin (https</td></tr><tr><td>//www.nxp.com/docs/en/package-information/SOT1746-3.pdf)</td><td> generated with kicad-footprint-generator ipc_gullwing_generator.py'</td><td> 'tags'</td></tr><tr><td> 'HSOP SO'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_SO.3dshapes/HSOP-32-1EP_7.5x11mm_P0.65mm_EP4.7x4.7mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

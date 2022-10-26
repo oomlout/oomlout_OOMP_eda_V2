@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DIP-SMDIP-24_W11.48mm|
 |Hex ID (short code)|hexID|FZKDIPSMIP24W1148|
 |name|name|Package_DIP : SMDIP-24_W11.48mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'SMDIP-24_W11.48mm', 'description': '24-lead surface-mounted (SMD) DIP package, row spacing 11.48 mm (451 mils)', 'tags': 'SMD DIP DIL PDIP SMDIP 2.54mm 11.48mm 451mil', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DIP.3dshapes/SMDIP-24_W11.48mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SMDIP-24_W11.48mm'</td><td> 'description'</td></tr><tr><td> '24-lead surface-mounted (SMD) DIP package</td><td> row spacing 11.48 mm (451 mils)'</td><td> 'tags'</td></tr><tr><td> 'SMD DIP DIL PDIP SMDIP 2.54mm 11.48mm 451mil'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DIP.3dshapes/SMDIP-24_W11.48mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

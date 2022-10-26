@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-383F|
 |Hex ID (short code)|hexID|FZKPACKAGETOSOTSMSOT383F|
 |name|name|Package_TO_SOT_SMD : SOT-383F|
-|Footprint Kicad|footprintKicadDetails|{'name': 'SOT-383F', 'description': '8-pin SOT-383F, http://www.mouser.com/ds/2/80/CPDVR085V0C-HF-RevB-10783.pdf', 'tags': 'SOT-383F', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-383F.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SOT-383F'</td><td> 'description'</td></tr><tr><td> '8-pin SOT-383F</td><td> http</td></tr><tr><td>//www.mouser.com/ds/2/80/CPDVR085V0C-HF-RevB-10783.pdf'</td><td> 'tags'</td></tr><tr><td> 'SOT-383F'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_TO_SOT_SMD.3dshapes/SOT-383F.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

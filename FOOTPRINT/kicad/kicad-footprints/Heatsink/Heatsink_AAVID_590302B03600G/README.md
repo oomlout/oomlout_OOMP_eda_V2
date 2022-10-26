@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Heatsink-Heatsink_AAVID_590302B03600G|
 |Hex ID (short code)|hexID|FZKHHAAVID5932B36G|
 |name|name|Heatsink : Heatsink_AAVID_590302B03600G|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Heatsink_AAVID_590302B03600G', 'description': 'Heatsink, 25.4x25.4x42.54mm, TO-220, https://www.boydcorp.com/aavid-datasheets/Board-Level-Cooling-Channel-5903.pdf', 'tags': 'heatsink', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Heatsink.3dshapes/Heatsink_AAVID_590302B03600G.wrl', 'pins': {'type': 'thru_hole', 'shape': 'oval'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Heatsink_AAVID_590302B03600G'</td><td> 'description'</td></tr><tr><td> 'Heatsink</td><td> 25.4x25.4x42.54mm</td><td> TO-220</td><td> https</td></tr><tr><td>//www.boydcorp.com/aavid-datasheets/Board-Level-Cooling-Channel-5903.pdf'</td><td> 'tags'</td></tr><tr><td> 'heatsink'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Heatsink.3dshapes/Heatsink_AAVID_590302B03600G.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'oval'</td></tr></table></td></tr></table>|
 ||||
 
 

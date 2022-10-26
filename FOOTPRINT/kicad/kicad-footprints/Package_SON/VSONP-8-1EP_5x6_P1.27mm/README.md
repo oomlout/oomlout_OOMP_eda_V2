@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SON-VSONP-8-1EP_5x6_P1.27mm|
 |Hex ID (short code)|hexID|FZKSONVSONP81EP5X6P127|
 |name|name|Package_SON : VSONP-8-1EP_5x6_P1.27mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'VSONP-8-1EP_5x6_P1.27mm', 'description': 'SON, 8-Leads, Body 5x6x1mm, Pitch 1.27mm; (see Texas Instruments CSD18531Q5A http://www.ti.com/lit/ds/symlink/csd18531q5a.pdf)', 'tags': 'VSONP 1.27', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SON.3dshapes/VSONP-8-1EP_5x6_P1.27mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'VSONP-8-1EP_5x6_P1.27mm'</td><td> 'description'</td></tr><tr><td> 'SON</td><td> 8-Leads</td><td> Body 5x6x1mm</td><td> Pitch 1.27mm; (see Texas Instruments CSD18531Q5A http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/csd18531q5a.pdf)'</td><td> 'tags'</td></tr><tr><td> 'VSONP 1.27'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_SON.3dshapes/VSONP-8-1EP_5x6_P1.27mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

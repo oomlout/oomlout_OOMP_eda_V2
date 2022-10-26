@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SO-Texas_PWP0020A|
 |Hex ID (short code)|hexID|FZKSOTEXASPWP2A|
 |name|name|Package_SO : Texas_PWP0020A|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Texas_PWP0020A', 'description': '20-Pin Thermally Enhanced Thin Shrink Small-Outline Package, Body 4.4x6.5x1.1mm, Pad 3.0x4.2mm, Texas Instruments (see http://www.ti.com/lit/ds/symlink/lm5118.pdf)', 'tags': 'PWP HTSSOP 0.65mm', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/Texas_PWP0020A.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Texas_PWP0020A'</td><td> 'description'</td></tr><tr><td> '20-Pin Thermally Enhanced Thin Shrink Small-Outline Package</td><td> Body 4.4x6.5x1.1mm</td><td> Pad 3.0x4.2mm</td><td> Texas Instruments (see http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/lm5118.pdf)'</td><td> 'tags'</td></tr><tr><td> 'PWP HTSSOP 0.65mm'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_SO.3dshapes/Texas_PWP0020A.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

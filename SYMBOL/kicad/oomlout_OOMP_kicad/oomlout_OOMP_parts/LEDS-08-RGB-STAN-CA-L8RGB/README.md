@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSLS8RGBSTANCAL8RGB > LEDS-08-RGB-STAN-CA-L8RGB
+# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSLS8RGBSTANCAL8RGB > oomlout_OOMP_parts : LEDS-08-RGB-STAN-CA-L8RGB
 
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-LEDS-08-RGB-STAN-CA-L8RGB
 - Hex ID: SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSLS8RGBSTANCAL8RGB
-- Name: LEDS-08-RGB-STAN-CA-L8RGB
-- Description: LEDS-08-RGB-STAN-CA-L8RGB
+- Name: oomlout_OOMP_parts : LEDS-08-RGB-STAN-CA-L8RGB
+- Description: oomlout_OOMP_parts : LEDS-08-RGB-STAN-CA-L8RGB
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-LEDS-08-RGB-STAN-CA-L8RGB](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-LEDS-08-RGB-STAN-CA-L8RGB)
 - Short Link: [http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSLS8RGBSTANCAL8RGB](http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSLS8RGBSTANCAL8RGB)
   
@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|LEDS-08-RGB-STAN-CA-L8RGB|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-LEDS-08-RGB-STAN-CA-L8RGB|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSLS8RGBSTANCAL8RGB|
-|name|name|LEDS-08-RGB-STAN-CA-L8RGB|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'LEDS-08-RGB-STAN-CA-L8RGB', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:LEDS-08-RGB-STAN-CA-L8RGB', 'kicadSymbolDatasheet': 'oom.lt/L8RGB', 'kicadSymbolki_keywords': 'LED diode', 'kicadSymbolki_description': 'hexID: L8RGB;Light emitting diode', 'kicadSymbolki_fp_filters': 'LED* LED_SMD:* LED_THT:*'}]|
+|name|name|oomlout_OOMP_parts : LEDS-08-RGB-STAN-CA-L8RGB|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LEDS-08-RGB-STAN-CA-L8RGB'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'oomlout_OOMP_parts</td></tr><tr><td>LEDS-08-RGB-STAN-CA-L8RGB'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'oom.lt/L8RGB'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'LED diode'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'hexID</td></tr><tr><td> L8RGB;Light emitting diode'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'LED* LED_SMD</td></tr><tr><td>* LED_THT</td></tr><tr><td>*'</td></tr></table>]|
 ||||

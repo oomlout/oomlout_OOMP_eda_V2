@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKANALOGADCMAX1248 > MAX1248
+# SZKANALOGADCMAX1248 > Analog_ADC : MAX1248
 
 - ID: SYMBOL-kicad-kicad-symbols-Analog_ADC-MAX1248
 - Hex ID: SZKANALOGADCMAX1248
-- Name: MAX1248
-- Description: MAX1248
+- Name: Analog_ADC : MAX1248
+- Description: Analog_ADC : MAX1248
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-MAX1248](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-MAX1248)
 - Short Link: [http://oom.lt/SZKANALOGADCMAX1248](http://oom.lt/SZKANALOGADCMAX1248)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MAX1248|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_ADC-MAX1248|
 |Hex ID (short code)|hexID|SZKANALOGADCMAX1248|
-|name|name|MAX1248|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MAX1248', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://datasheets.maximintegrated.com/en/ds/MAX1248-MAX1249.pdf', 'kicadSymbolki_keywords': '10-Bit ADC Internal Reference Serial 4-Channel Maxim', 'kicadSymbolki_description': '4-Channel 10-Bit ADC with Serial Interface, +2.7V to +5.25V, Internal 2.5V Reference, Low-Power', 'kicadSymbolki_fp_filters': 'DIP* QSOP*'}]|
+|name|name|Analog_ADC : MAX1248|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MAX1248'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//datasheets.maximintegrated.com/en/ds/MAX1248-MAX1249.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> '10-Bit ADC Internal Reference Serial 4-Channel Maxim'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '4-Channel 10-Bit ADC with Serial Interface</td><td> +2.7V to +5.25V</td><td> Internal 2.5V Reference</td><td> Low-Power'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP* QSOP*'</td></tr></table>]|
 ||||

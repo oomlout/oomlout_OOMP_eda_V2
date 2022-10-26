@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKPOWERMANAGEMENTIRS25751L > IRS25751L
+# SZKPOWERMANAGEMENTIRS25751L > Power_Management : IRS25751L
 
 - ID: SYMBOL-kicad-kicad-symbols-Power_Management-IRS25751L
 - Hex ID: SZKPOWERMANAGEMENTIRS25751L
-- Name: IRS25751L
-- Description: IRS25751L
+- Name: Power_Management : IRS25751L
+- Description: Power_Management : IRS25751L
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-IRS25751L](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-IRS25751L)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTIRS25751L](http://oom.lt/SZKPOWERMANAGEMENTIRS25751L)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IRS25751L|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Management-IRS25751L|
 |Hex ID (short code)|hexID|SZKPOWERMANAGEMENTIRS25751L|
-|name|name|IRS25751L|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'IRS25751L', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-5', 'kicadSymbolDatasheet': 'https://www.infineon.com/dgdl/irs25751lpbf.pdf?fileId=5546d462533600a40153567b31da2837', 'kicadSymbolki_keywords': 'start up', 'kicadSymbolki_description': 'High-Voltage Start-Up IC, 480V, SOT-23-5', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
+|name|name|Power_Management : IRS25751L|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'IRS25751L'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-23-5'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.infineon.com/dgdl/irs25751lpbf.pdf?fileId=5546d462533600a40153567b31da2837'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'start up'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'High-Voltage Start-Up IC</td><td> 480V</td><td> SOT-23-5'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23*'</td></tr></table>]|
 ||||

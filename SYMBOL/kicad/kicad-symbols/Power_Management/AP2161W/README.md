@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKPOWERMANAGEMENTAP2161W > AP2161W
+# SZKPOWERMANAGEMENTAP2161W > Power_Management : AP2161W
 
 - ID: SYMBOL-kicad-kicad-symbols-Power_Management-AP2161W
 - Hex ID: SZKPOWERMANAGEMENTAP2161W
-- Name: AP2161W
-- Description: AP2161W
+- Name: Power_Management : AP2161W
+- Description: Power_Management : AP2161W
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-AP2161W](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-AP2161W)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTAP2161W](http://oom.lt/SZKPOWERMANAGEMENTAP2161W)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AP2161W|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Management-AP2161W|
 |Hex ID (short code)|hexID|SZKPOWERMANAGEMENTAP2161W|
-|name|name|AP2161W|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AP2161W', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-5', 'kicadSymbolDatasheet': 'https://www.diodes.com/assets/Datasheets/AP2161.pdf', 'kicadSymbolki_keywords': 'Limit USB Active Low', 'kicadSymbolki_description': 'Current limited power switch, single channel, SOT-23-5', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
+|name|name|Power_Management : AP2161W|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'AP2161W'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-23-5'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.diodes.com/assets/Datasheets/AP2161.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Limit USB Active Low'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Current limited power switch</td><td> single channel</td><td> SOT-23-5'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23*'</td></tr></table>]|
 ||||

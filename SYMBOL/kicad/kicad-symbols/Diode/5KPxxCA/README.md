@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDIODE5KPXXCA > 5KPxxCA
+# SZKDIODE5KPXXCA > Diode : 5KPxxCA
 
 - ID: SYMBOL-kicad-kicad-symbols-Diode-5KPxxCA
 - Hex ID: SZKDIODE5KPXXCA
-- Name: 5KPxxCA
-- Description: 5KPxxCA
+- Name: Diode : 5KPxxCA
+- Description: Diode : 5KPxxCA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-5KPxxCA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-5KPxxCA)
 - Short Link: [http://oom.lt/SZKDIODE5KPXXCA](http://oom.lt/SZKDIODE5KPXXCA)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|5KPxxCA|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-5KPxxCA|
 |Hex ID (short code)|hexID|SZKDIODE5KPXXCA|
-|name|name|5KPxxCA|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': '5KPxxCA', 'kicadSymbolFootprint': 'Diode_THT:D_P600_R-6_P20.00mm_Horizontal', 'kicadSymbolDatasheet': 'https://diotec.com/tl_files/diotec/files/pdf/datasheets/5kp65.pdf', 'kicadSymbolki_keywords': 'diode TVS voltage suppressor', 'kicadSymbolki_description': '5000W bidirectional Transient Voltage Suppressor, P-600', 'kicadSymbolki_fp_filters': 'D?P600*'}]|
+|name|name|Diode : 5KPxxCA|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> '5KPxxCA'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Diode_THT</td></tr><tr><td>D_P600_R-6_P20.00mm_Horizontal'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//diotec.com/tl_files/diotec/files/pdf/datasheets/5kp65.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'diode TVS voltage suppressor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '5000W bidirectional Transient Voltage Suppressor</td><td> P-600'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'D?P600*'</td></tr></table>]|
 ||||

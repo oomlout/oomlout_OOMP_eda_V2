@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKPOWERMANAGEMENTIPS611PBF > IPS6011PBF
+# SZKPOWERMANAGEMENTIPS611PBF > Power_Management : IPS6011PBF
 
 - ID: SYMBOL-kicad-kicad-symbols-Power_Management-IPS6011PBF
 - Hex ID: SZKPOWERMANAGEMENTIPS611PBF
-- Name: IPS6011PBF
-- Description: IPS6011PBF
+- Name: Power_Management : IPS6011PBF
+- Description: Power_Management : IPS6011PBF
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-IPS6011PBF](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-IPS6011PBF)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTIPS611PBF](http://oom.lt/SZKPOWERMANAGEMENTIPS611PBF)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IPS6011PBF|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Management-IPS6011PBF|
 |Hex ID (short code)|hexID|SZKPOWERMANAGEMENTIPS611PBF|
-|name|name|IPS6011PBF|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'IPS6011PBF', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-220-5_Vertical', 'kicadSymbolDatasheet': 'http://www.irf.com/product-info/datasheets/data/ips6011pbf.pdf', 'kicadSymbolki_keywords': 'Intelligent Power Switch High Side MOSFET', 'kicadSymbolki_description': '39V, 60A, Intelligent Power Switch High Side, TO-220-5', 'kicadSymbolki_fp_filters': 'TO?220*'}]|
+|name|name|Power_Management : IPS6011PBF|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'IPS6011PBF'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_THT</td></tr><tr><td>TO-220-5_Vertical'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.irf.com/product-info/datasheets/data/ips6011pbf.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Intelligent Power Switch High Side MOSFET'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '39V</td><td> 60A</td><td> Intelligent Power Switch High Side</td><td> TO-220-5'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TO?220*'</td></tr></table>]|
 ||||

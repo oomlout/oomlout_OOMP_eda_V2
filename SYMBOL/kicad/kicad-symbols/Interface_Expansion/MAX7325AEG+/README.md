@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKINTERFACEEXPANSIONMAX7325AEG+ > MAX7325AEG+
+# SZKINTERFACEEXPANSIONMAX7325AEG+ > Interface_Expansion : MAX7325AEG+
 
 - ID: SYMBOL-kicad-kicad-symbols-Interface_Expansion-MAX7325AEG+
 - Hex ID: SZKINTERFACEEXPANSIONMAX7325AEG+
-- Name: MAX7325AEG+
-- Description: MAX7325AEG+
+- Name: Interface_Expansion : MAX7325AEG+
+- Description: Interface_Expansion : MAX7325AEG+
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Expansion-MAX7325AEG+](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Expansion-MAX7325AEG+)
 - Short Link: [http://oom.lt/SZKINTERFACEEXPANSIONMAX7325AEG+](http://oom.lt/SZKINTERFACEEXPANSIONMAX7325AEG+)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MAX7325AEG+|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_Expansion-MAX7325AEG+|
 |Hex ID (short code)|hexID|SZKINTERFACEEXPANSIONMAX7325AEG+|
-|name|name|MAX7325AEG+|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MAX7325AEG+', 'kicadSymbolFootprint': 'Package_SO:QSOP-24_3.9x8.7mm_P0.635mm', 'kicadSymbolDatasheet': 'https://datasheets.maximintegrated.com/en/ds/MAX7325.pdf', 'kicadSymbolki_keywords': 'Expander I2C Parallel Port GPIO Maxim', 'kicadSymbolki_description': 'I2C Port Expander with 8 Push-Pull and 8 Open-Drain I/Os, QSOP-24', 'kicadSymbolki_fp_filters': 'QSOP*3.9x8.7*P0.635mm*'}]|
+|name|name|Interface_Expansion : MAX7325AEG+|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MAX7325AEG+'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>QSOP-24_3.9x8.7mm_P0.635mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//datasheets.maximintegrated.com/en/ds/MAX7325.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Expander I2C Parallel Port GPIO Maxim'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'I2C Port Expander with 8 Push-Pull and 8 Open-Drain I/Os</td><td> QSOP-24'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'QSOP*3.9x8.7*P0.635mm*'</td></tr></table>]|
 ||||

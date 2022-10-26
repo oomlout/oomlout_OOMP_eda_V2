@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKSWITCHSWDPSTTEMPERATURE > SW_DPST_Temperature
+# SZKSWITCHSWDPSTTEMPERATURE > Switch : SW_DPST_Temperature
 
 - ID: SYMBOL-kicad-kicad-symbols-Switch-SW_DPST_Temperature
 - Hex ID: SZKSWITCHSWDPSTTEMPERATURE
-- Name: SW_DPST_Temperature
-- Description: SW_DPST_Temperature
+- Name: Switch : SW_DPST_Temperature
+- Description: Switch : SW_DPST_Temperature
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Switch-SW_DPST_Temperature](http://oom.lt/SYMBOL-kicad-kicad-symbols-Switch-SW_DPST_Temperature)
 - Short Link: [http://oom.lt/SZKSWITCHSWDPSTTEMPERATURE](http://oom.lt/SZKSWITCHSWDPSTTEMPERATURE)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SW_DPST_Temperature|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Switch-SW_DPST_Temperature|
 |Hex ID (short code)|hexID|SZKSWITCHSWDPSTTEMPERATURE|
-|name|name|SW_DPST_Temperature|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'SW', 'kicadSymbolValue': 'SW_DPST_Temperature', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'temperature switch dual double-pole single-throw OFF-ON', 'kicadSymbolki_description': 'Double Pole Single Throw (DPST) Switch, temperature dependent'}]|
+|name|name|Switch : SW_DPST_Temperature|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'SW'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'SW_DPST_Temperature'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'temperature switch dual double-pole single-throw OFF-ON'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Double Pole Single Throw (DPST) Switch</td><td> temperature dependent'</td></tr></table>]|
 ||||

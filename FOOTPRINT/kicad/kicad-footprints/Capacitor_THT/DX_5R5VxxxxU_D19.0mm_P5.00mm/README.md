@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-DX_5R5VxxxxU_D19.0mm_P5.00mm|
 |Hex ID (short code)|hexID|FZKCDX5R5VXXXXUD19P5|
 |name|name|Capacitor_THT : DX_5R5VxxxxU_D19.0mm_P5.00mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'DX_5R5VxxxxU_D19.0mm_P5.00mm', 'description': 'CP, Radial series, Radial, pin pitch=5.00mm, diameter=19mm, Supercapacitor, http://www.elna.co.jp/en/capacitor/double_layer/catalog/pdf/dx_e.pdf', 'tags': 'CP Radial series Radial pin pitch 5.00mm diameter 19mm supercapacitor', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Capacitor_THT.3dshapes/DX_5R5VxxxxU_D19.0mm_P5.00mm.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'DX_5R5VxxxxU_D19.0mm_P5.00mm'</td><td> 'description'</td></tr><tr><td> 'CP</td><td> Radial series</td><td> Radial</td><td> pin pitch=5.00mm</td><td> diameter=19mm</td><td> Supercapacitor</td><td> http</td></tr><tr><td>//www.elna.co.jp/en/capacitor/double_layer/catalog/pdf/dx_e.pdf'</td><td> 'tags'</td></tr><tr><td> 'CP Radial series Radial pin pitch 5.00mm diameter 19mm supercapacitor'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Capacitor_THT.3dshapes/DX_5R5VxxxxU_D19.0mm_P5.00mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDEVICEQNIGBTCEG > Q_NIGBT_CEG
+# SZKDEVICEQNIGBTCEG > Device : Q_NIGBT_CEG
 
 - ID: SYMBOL-kicad-kicad-symbols-Device-Q_NIGBT_CEG
 - Hex ID: SZKDEVICEQNIGBTCEG
-- Name: Q_NIGBT_CEG
-- Description: Q_NIGBT_CEG
+- Name: Device : Q_NIGBT_CEG
+- Description: Device : Q_NIGBT_CEG
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Q_NIGBT_CEG](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Q_NIGBT_CEG)
 - Short Link: [http://oom.lt/SZKDEVICEQNIGBTCEG](http://oom.lt/SZKDEVICEQNIGBTCEG)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Q_NIGBT_CEG|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-Q_NIGBT_CEG|
 |Hex ID (short code)|hexID|SZKDEVICEQNIGBTCEG|
-|name|name|Q_NIGBT_CEG|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'Q_NIGBT_CEG', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'transistor IGBT N-IGBT', 'kicadSymbolki_description': 'N-IGBT transistor, collector/emitter/gate'}]|
+|name|name|Device : Q_NIGBT_CEG|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Q_NIGBT_CEG'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'transistor IGBT N-IGBT'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'N-IGBT transistor</td><td> collector/emitter/gate'</td></tr></table>]|
 ||||

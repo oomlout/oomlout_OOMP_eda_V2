@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORBJTDTA114G > DTA114G
+# SZKTRANSISTORBJTDTA114G > Transistor_BJT : DTA114G
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-DTA114G
 - Hex ID: SZKTRANSISTORBJTDTA114G
-- Name: DTA114G
-- Description: DTA114G
+- Name: Transistor_BJT : DTA114G
+- Description: Transistor_BJT : DTA114G
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-DTA114G](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-DTA114G)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTDTA114G](http://oom.lt/SZKTRANSISTORBJTDTA114G)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DTA114G|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_BJT-DTA114G|
 |Hex ID (short code)|hexID|SZKTRANSISTORBJTDTA114G|
-|name|name|DTA114G|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'DTA114G', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_keywords': 'ROHM Digital PNP Transistor', 'kicadSymbolki_description': 'Digital PNP Transistor, 0k/10k, SOT-23', 'kicadSymbolki_fp_filters': 'SOT?23* SC?59*'}]|
+|name|name|Transistor_BJT : DTA114G|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'DTA114G'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'ROHM Digital PNP Transistor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Digital PNP Transistor</td><td> 0k/10k</td><td> SOT-23'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23* SC?59*'</td></tr></table>]|
 ||||

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-Analog_KS-4|
 |Hex ID (short code)|hexID|FZKPACKAGETOSOTSMANALOGKS4|
 |name|name|Package_TO_SOT_SMD : Analog_KS-4|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Analog_KS-4', 'description': 'Analog Devices KS-4, http://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/sc70ks/ks_4.pdf', 'tags': 'Analog Devices KS-4 (like EIAJ SC-82)', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/Analog_KS-4.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Analog_KS-4'</td><td> 'description'</td></tr><tr><td> 'Analog Devices KS-4</td><td> http</td></tr><tr><td>//www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/sc70ks/ks_4.pdf'</td><td> 'tags'</td></tr><tr><td> 'Analog Devices KS-4 (like EIAJ SC-82)'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_TO_SOT_SMD.3dshapes/Analog_KS-4.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

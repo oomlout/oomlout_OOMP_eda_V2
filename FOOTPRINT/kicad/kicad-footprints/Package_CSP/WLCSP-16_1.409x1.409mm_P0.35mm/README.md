@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_CSP-WLCSP-16_1.409x1.409mm_P0.35mm|
 |Hex ID (short code)|hexID|FZKCSPWLCSP16149X149P35|
 |name|name|Package_CSP : WLCSP-16_1.409x1.409mm_P0.35mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'WLCSP-16_1.409x1.409mm_P0.35mm', 'description': 'WLCSP-16, 1.409x1.409mm, 16 Ball, 4x4 Layout, 0.35mm Pitch, http://www.latticesemi.com/view_document?document_id=213', 'tags': 'CSP 16 0.35', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_CSP.3dshapes/WLCSP-16_1.409x1.409mm_P0.35mm.wrl', 'pins': {'type': 'smd', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'WLCSP-16_1.409x1.409mm_P0.35mm'</td><td> 'description'</td></tr><tr><td> 'WLCSP-16</td><td> 1.409x1.409mm</td><td> 16 Ball</td><td> 4x4 Layout</td><td> 0.35mm Pitch</td><td> http</td></tr><tr><td>//www.latticesemi.com/view_document?document_id=213'</td><td> 'tags'</td></tr><tr><td> 'CSP 16 0.35'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_CSP.3dshapes/WLCSP-16_1.409x1.409mm_P0.35mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

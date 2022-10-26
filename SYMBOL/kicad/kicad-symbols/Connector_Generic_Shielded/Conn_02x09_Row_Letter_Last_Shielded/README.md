@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKCNGENERICSHEDCONN2X9ROWLETTERLASTSHED > Conn_02x09_Row_Letter_Last_Shielded
+# SZKCNGENERICSHEDCONN2X9ROWLETTERLASTSHED > Connector_Generic_Shielded : Conn_02x09_Row_Letter_Last_Shielded
 
 - ID: SYMBOL-kicad-kicad-symbols-Connector_Generic_Shielded-Conn_02x09_Row_Letter_Last_Shielded
 - Hex ID: SZKCNGENERICSHEDCONN2X9ROWLETTERLASTSHED
-- Name: Conn_02x09_Row_Letter_Last_Shielded
-- Description: Conn_02x09_Row_Letter_Last_Shielded
+- Name: Connector_Generic_Shielded : Conn_02x09_Row_Letter_Last_Shielded
+- Description: Connector_Generic_Shielded : Conn_02x09_Row_Letter_Last_Shielded
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector_Generic_Shielded-Conn_02x09_Row_Letter_Last_Shielded](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector_Generic_Shielded-Conn_02x09_Row_Letter_Last_Shielded)
 - Short Link: [http://oom.lt/SZKCNGENERICSHEDCONN2X9ROWLETTERLASTSHED](http://oom.lt/SZKCNGENERICSHEDCONN2X9ROWLETTERLASTSHED)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Conn_02x09_Row_Letter_Last_Shielded|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector_Generic_Shielded-Conn_02x09_Row_Letter_Last_Shielded|
 |Hex ID (short code)|hexID|SZKCNGENERICSHEDCONN2X9ROWLETTERLASTSHED|
-|name|name|Conn_02x09_Row_Letter_Last_Shielded|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'Conn_02x09_Row_Letter_Last_Shielded', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'connector', 'kicadSymbolki_description': 'Generic shielded connector, double row, 02x09, row letter last pin numbering scheme (pin number consists of a letter for the row and a number for the pin index in this row. 1a, ..., Na; 1b, ..., Nb)), script generated (kicad-library-utils/schlib/autogen/connector/)', 'kicadSymbolki_fp_filters': 'Connector*:*_2x??-1SH*'}]|
+|name|name|Connector_Generic_Shielded : Conn_02x09_Row_Letter_Last_Shielded|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'J'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Conn_02x09_Row_Letter_Last_Shielded'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'connector'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Generic shielded connector</td><td> double row</td><td> 02x09</td><td> row letter last pin numbering scheme (pin number consists of a letter for the row and a number for the pin index in this row. 1a</td><td> ...</td><td> Na; 1b</td><td> ...</td><td> Nb))</td><td> script generated (kicad-library-utils/schlib/autogen/connector/)'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Connector*</td></tr><tr><td>*_2x??-1SH*'</td></tr></table>]|
 ||||

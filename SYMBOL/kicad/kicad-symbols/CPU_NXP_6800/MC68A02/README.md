@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKCPUNXP68MC68A2 > MC68A02
+# SZKCPUNXP68MC68A2 > CPU_NXP_6800 : MC68A02
 
 - ID: SYMBOL-kicad-kicad-symbols-CPU_NXP_6800-MC68A02
 - Hex ID: SZKCPUNXP68MC68A2
-- Name: MC68A02
-- Description: MC68A02
+- Name: CPU_NXP_6800 : MC68A02
+- Description: CPU_NXP_6800 : MC68A02
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-CPU_NXP_6800-MC68A02](http://oom.lt/SYMBOL-kicad-kicad-symbols-CPU_NXP_6800-MC68A02)
 - Short Link: [http://oom.lt/SZKCPUNXP68MC68A2](http://oom.lt/SZKCPUNXP68MC68A2)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MC68A02|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-CPU_NXP_6800-MC68A02|
 |Hex ID (short code)|hexID|SZKCPUNXP68MC68A2|
-|name|name|MC68A02|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MC6802', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MC68A02', 'kicadSymbolFootprint': 'Package_DIP:DIP-40_W15.24mm', 'kicadSymbolDatasheet': 'https://www.jameco.com/Jameco/Products/ProdDS/43502.pdf', 'kicadSymbolki_keywords': 'MCU', 'kicadSymbolki_description': '8-Bit Microprocessing unit 1.5MHz, DIP-40', 'kicadSymbolki_fp_filters': 'DIP*W15.24mm*'}]|
+|name|name|CPU_NXP_6800 : MC68A02|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'MC6802'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MC68A02'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>DIP-40_W15.24mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.jameco.com/Jameco/Products/ProdDS/43502.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'MCU'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '8-Bit Microprocessing unit 1.5MHz</td><td> DIP-40'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W15.24mm*'</td></tr></table>]|
 ||||

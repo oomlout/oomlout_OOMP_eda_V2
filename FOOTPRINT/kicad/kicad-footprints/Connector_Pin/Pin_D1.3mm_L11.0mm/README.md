@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Pin-Pin_D1.3mm_L11.0mm|
 |Hex ID (short code)|hexID|FZKCNPINPIND13L11|
 |name|name|Connector_Pin : Pin_D1.3mm_L11.0mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Pin_D1.3mm_L11.0mm', 'description': 'solder Pin_ diameter 1.3mm, hole diameter 1.3mm, length 11.0mm', 'tags': 'solder Pin_ pressfit', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_Pin.3dshapes/Pin_D1.3mm_L11.0mm.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Pin_D1.3mm_L11.0mm'</td><td> 'description'</td></tr><tr><td> 'solder Pin_ diameter 1.3mm</td><td> hole diameter 1.3mm</td><td> length 11.0mm'</td><td> 'tags'</td></tr><tr><td> 'solder Pin_ pressfit'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_Pin.3dshapes/Pin_D1.3mm_L11.0mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

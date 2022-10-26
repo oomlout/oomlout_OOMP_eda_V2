@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_8.4mm_M8_Pad_TopBottom|
 |Hex ID (short code)|hexID|FZKHOLHOL84M8PADTOPBOTTOM|
 |name|name|MountingHole : MountingHole_8.4mm_M8_Pad_TopBottom|
-|Footprint Kicad|footprintKicadDetails|{'name': 'MountingHole_8.4mm_M8_Pad_TopBottom', 'description': 'Mounting Hole 8.4mm, M8', 'tags': 'mounting hole 8.4mm m8', 'attributeType': None, 'pins': {'type': 'connect', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'MountingHole_8.4mm_M8_Pad_TopBottom'</td><td> 'description'</td></tr><tr><td> 'Mounting Hole 8.4mm</td><td> M8'</td><td> 'tags'</td></tr><tr><td> 'mounting hole 8.4mm m8'</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'connect'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

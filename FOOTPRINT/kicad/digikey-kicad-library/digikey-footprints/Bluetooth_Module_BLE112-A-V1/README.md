@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Bluetooth_Module_BLE112-A-V1|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSBLUETOOTHMOBLE112AV1|
 |name|name|digikey-footprints : Bluetooth_Module_BLE112-A-V1|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Bluetooth_Module_BLE112-A-V1', 'description': 'http://media.digikey.com/pdf/Data%20Sheets/BlueGiga%20PDFs/BLE112.pdf', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'oval'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Bluetooth_Module_BLE112-A-V1'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//media.digikey.com/pdf/Data%20Sheets/BlueGiga%20PDFs/BLE112.pdf'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'oval'</td></tr></table></td></tr></table>|
 ||||
 
 

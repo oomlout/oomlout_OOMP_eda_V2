@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUMCHIPPIC18PIC18F27J53ISS > PIC18F27J53_ISS
+# SZKMCUMCHIPPIC18PIC18F27J53ISS > MCU_Microchip_PIC18 : PIC18F27J53_ISS
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18F27J53_ISS
 - Hex ID: SZKMCUMCHIPPIC18PIC18F27J53ISS
-- Name: PIC18F27J53_ISS
-- Description: PIC18F27J53_ISS
+- Name: MCU_Microchip_PIC18 : PIC18F27J53_ISS
+- Description: MCU_Microchip_PIC18 : PIC18F27J53_ISS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18F27J53_ISS](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18F27J53_ISS)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC18PIC18F27J53ISS](http://oom.lt/SZKMCUMCHIPPIC18PIC18F27J53ISS)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PIC18F27J53_ISS|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18F27J53_ISS|
 |Hex ID (short code)|hexID|SZKMCUMCHIPPIC18PIC18F27J53ISS|
-|name|name|PIC18F27J53_ISS|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PIC18F27J53_ISS', 'kicadSymbolFootprint': 'Package_SO:SSOP-28_5.3x10.2mm_P0.65mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/30009964C.pdf', 'kicadSymbolki_keywords': 'microcontroller PIC18 flash ECAN XLP nanoWatt', 'kicadSymbolki_description': '128K Flash, 3.8K RAM, PIC18 Microcontroller ADC PWM I2C USART USB RTCC, SSOP-28', 'kicadSymbolki_fp_filters': 'SSOP*5.3x10.2mm*P0.65mm*'}]|
+|name|name|MCU_Microchip_PIC18 : PIC18F27J53_ISS|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'PIC18F27J53_ISS'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SSOP-28_5.3x10.2mm_P0.65mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/30009964C.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'microcontroller PIC18 flash ECAN XLP nanoWatt'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '128K Flash</td><td> 3.8K RAM</td><td> PIC18 Microcontroller ADC PWM I2C USART USB RTCC</td><td> SSOP-28'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SSOP*5.3x10.2mm*P0.65mm*'</td></tr></table>]|
 ||||

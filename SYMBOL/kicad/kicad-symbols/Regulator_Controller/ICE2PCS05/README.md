@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORCONTROLLERICE2PCS5 > ICE2PCS05
+# SZKREGULATORCONTROLLERICE2PCS5 > Regulator_Controller : ICE2PCS05
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Controller-ICE2PCS05
 - Hex ID: SZKREGULATORCONTROLLERICE2PCS5
-- Name: ICE2PCS05
-- Description: ICE2PCS05
+- Name: Regulator_Controller : ICE2PCS05
+- Description: Regulator_Controller : ICE2PCS05
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-ICE2PCS05](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-ICE2PCS05)
 - Short Link: [http://oom.lt/SZKREGULATORCONTROLLERICE2PCS5](http://oom.lt/SZKREGULATORCONTROLLERICE2PCS5)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ICE2PCS05|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Controller-ICE2PCS05|
 |Hex ID (short code)|hexID|SZKREGULATORCONTROLLERICE2PCS5|
-|name|name|ICE2PCS05|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ICE1PCS01', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ICE2PCS05', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.infineon.com/dgdl/Infineon-ICE2PCS05-DS-v01_02-en.pdf?fileId=db3a30431c69a49d011cdfb46a834373', 'kicadSymbolki_keywords': 'SMPS pfc controller', 'kicadSymbolki_description': 'Standalone PFC Controller in CCM, DIP-8/SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm* DIP*W7.62mm*'}]|
+|name|name|Regulator_Controller : ICE2PCS05|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'ICE1PCS01'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ICE2PCS05'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.infineon.com/dgdl/Infineon-ICE2PCS05-DS-v01_02-en.pdf?fileId=db3a30431c69a49d011cdfb46a834373'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'SMPS pfc controller'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Standalone PFC Controller in CCM</td><td> DIP-8/SOIC-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*3.9x4.9mm*P1.27mm* DIP*W7.62mm*'</td></tr></table>]|
 ||||

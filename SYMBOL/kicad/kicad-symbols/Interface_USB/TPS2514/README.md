@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKINTERFACEUTPS2514 > TPS2514
+# SZKINTERFACEUTPS2514 > Interface_USB : TPS2514
 
 - ID: SYMBOL-kicad-kicad-symbols-Interface_USB-TPS2514
 - Hex ID: SZKINTERFACEUTPS2514
-- Name: TPS2514
-- Description: TPS2514
+- Name: Interface_USB : TPS2514
+- Description: Interface_USB : TPS2514
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-TPS2514](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-TPS2514)
 - Short Link: [http://oom.lt/SZKINTERFACEUTPS2514](http://oom.lt/SZKINTERFACEUTPS2514)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TPS2514|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_USB-TPS2514|
 |Hex ID (short code)|hexID|SZKINTERFACEUTPS2514|
-|name|name|TPS2514|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TPS2514', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-6', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tps2513.pdf', 'kicadSymbolki_keywords': 'USB Charge', 'kicadSymbolki_description': 'USB Dedicated Charging Port Controller', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
+|name|name|Interface_USB : TPS2514|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TPS2514'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-23-6'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/tps2513.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'USB Charge'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'USB Dedicated Charging Port Controller'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23*'</td></tr></table>]|
 ||||

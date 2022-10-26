@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKBATMANAGEMENTMC34673 > MC34673
+# SZKBATMANAGEMENTMC34673 > Battery_Management : MC34673
 
 - ID: SYMBOL-kicad-kicad-symbols-Battery_Management-MC34673
 - Hex ID: SZKBATMANAGEMENTMC34673
-- Name: MC34673
-- Description: MC34673
+- Name: Battery_Management : MC34673
+- Description: Battery_Management : MC34673
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-MC34673](http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-MC34673)
 - Short Link: [http://oom.lt/SZKBATMANAGEMENTMC34673](http://oom.lt/SZKBATMANAGEMENTMC34673)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MC34673|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Battery_Management-MC34673|
 |Hex ID (short code)|hexID|SZKBATMANAGEMENTMC34673|
-|name|name|MC34673|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MC34673', 'kicadSymbolFootprint': 'Package_DFN_QFN:DFN-8-1EP_3x2mm_P0.5mm_EP1.75x1.45mm', 'kicadSymbolDatasheet': 'http://www.nxp.com/docs/en/data-sheet/MC34673.pdf', 'kicadSymbolki_keywords': 'Lithium-Ion Battery Charger', 'kicadSymbolki_description': 'High Input Voltage 1.2A Charger for Single-cell Li-Ion Batteries, UDFN-8', 'kicadSymbolki_fp_filters': 'DFN*3x2mm*P0.5mm*'}]|
+|name|name|Battery_Management : MC34673|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MC34673'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>DFN-8-1EP_3x2mm_P0.5mm_EP1.75x1.45mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.nxp.com/docs/en/data-sheet/MC34673.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Lithium-Ion Battery Charger'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'High Input Voltage 1.2A Charger for Single-cell Li-Ion Batteries</td><td> UDFN-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DFN*3x2mm*P0.5mm*'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKCONTC7662AXPA > TC7662AxPA
+# SZKCONTC7662AXPA > Converter_DCDC : TC7662AxPA
 
 - ID: SYMBOL-kicad-kicad-symbols-Converter_DCDC-TC7662AxPA
 - Hex ID: SZKCONTC7662AXPA
-- Name: TC7662AxPA
-- Description: TC7662AxPA
+- Name: Converter_DCDC : TC7662AxPA
+- Description: Converter_DCDC : TC7662AxPA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-TC7662AxPA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-TC7662AxPA)
 - Short Link: [http://oom.lt/SZKCONTC7662AXPA](http://oom.lt/SZKCONTC7662AXPA)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TC7662AxPA|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Converter_DCDC-TC7662AxPA|
 |Hex ID (short code)|hexID|SZKCONTC7662AXPA|
-|name|name|TC7662AxPA|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TC7662AxPA', 'kicadSymbolFootprint': 'Package_DIP:DIP-8_W7.62mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/21468B.pdf', 'kicadSymbolki_keywords': 'charge pump DC-to-DC converter', 'kicadSymbolki_description': 'Charge Pump DC-to-DC Converter, 3 - 18V, 40mA, DIP-8', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
+|name|name|Converter_DCDC : TC7662AxPA|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TC7662AxPA'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>DIP-8_W7.62mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/21468B.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'charge pump DC-to-DC converter'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Charge Pump DC-to-DC Converter</td><td> 3 - 18V</td><td> 40mA</td><td> DIP-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W7.62mm*'</td></tr></table>]|
 ||||

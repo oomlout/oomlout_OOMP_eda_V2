@@ -29,5 +29,5 @@ NO IMAGE
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Sensor_Current-Honeywell_CSLW|
 |Hex ID (short code)|hexID|FZKSENCURRENTHONEYWELLCSLW|
 |name|name|Sensor_Current : Honeywell_CSLW|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Honeywell_CSLW', 'description': 'https://sensing.honeywell.com/honeywell-sensing-cslw-series-product-sheet-005861-1-en.pdf', 'tags': 'Miniature Wired Open-Loop Current Sensor', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Sensor_Current.3dshapes/Honeywell_CSLW.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Honeywell_CSLW'</td><td> 'description'</td></tr><tr><td> 'https</td></tr><tr><td>//sensing.honeywell.com/honeywell-sensing-cslw-series-product-sheet-005861-1-en.pdf'</td><td> 'tags'</td></tr><tr><td> 'Miniature Wired Open-Loop Current Sensor'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Sensor_Current.3dshapes/Honeywell_CSLW.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

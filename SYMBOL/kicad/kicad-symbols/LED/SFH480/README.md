@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKLSFH48 > SFH480
+# SZKLSFH48 > LED : SFH480
 
 - ID: SYMBOL-kicad-kicad-symbols-LED-SFH480
 - Hex ID: SZKLSFH48
-- Name: SFH480
-- Description: SFH480
+- Name: LED : SFH480
+- Description: LED : SFH480
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-LED-SFH480](http://oom.lt/SYMBOL-kicad-kicad-symbols-LED-SFH480)
 - Short Link: [http://oom.lt/SZKLSFH48](http://oom.lt/SZKLSFH48)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SFH480|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-LED-SFH480|
 |Hex ID (short code)|hexID|SZKLSFH48|
-|name|name|SFH480|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'SFH482', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'SFH480', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-18-2_Window', 'kicadSymbolDatasheet': 'http://www.osram-os.com/Graphics/XPic1/00083613_0.pdf', 'kicadSymbolki_keywords': 'IR LED Opto', 'kicadSymbolki_description': 'GaAlAs Infrared LED (880 nm), TO-18 package', 'kicadSymbolki_fp_filters': 'TO?18*Window*'}]|
+|name|name|LED : SFH480|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'SFH482'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'SFH480'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_THT</td></tr><tr><td>TO-18-2_Window'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.osram-os.com/Graphics/XPic1/00083613_0.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'IR LED Opto'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'GaAlAs Infrared LED (880 nm)</td><td> TO-18 package'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TO?18*Window*'</td></tr></table>]|
 ||||

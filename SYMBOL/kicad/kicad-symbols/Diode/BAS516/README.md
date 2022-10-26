@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDIODEBAS516 > BAS516
+# SZKDIODEBAS516 > Diode : BAS516
 
 - ID: SYMBOL-kicad-kicad-symbols-Diode-BAS516
 - Hex ID: SZKDIODEBAS516
-- Name: BAS516
-- Description: BAS516
+- Name: Diode : BAS516
+- Description: Diode : BAS516
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BAS516](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BAS516)
 - Short Link: [http://oom.lt/SZKDIODEBAS516](http://oom.lt/SZKDIODEBAS516)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BAS516|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-BAS516|
 |Hex ID (short code)|hexID|SZKDIODEBAS516|
-|name|name|BAS516|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '1N4001', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'BAS516', 'kicadSymbolFootprint': 'Diode_SMD:D_SOD-523', 'kicadSymbolDatasheet': 'https://assets.nexperia.com/documents/data-sheet/BAS16_SER.pdf', 'kicadSymbolki_keywords': 'diode', 'kicadSymbolki_description': '100V, 0.25A, High-speed Switching Diode, SOD-523', 'kicadSymbolki_fp_filters': 'D*SOD?523*'}]|
+|name|name|Diode : BAS516|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> '1N4001'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'BAS516'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Diode_SMD</td></tr><tr><td>D_SOD-523'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//assets.nexperia.com/documents/data-sheet/BAS16_SER.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'diode'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '100V</td><td> 0.25A</td><td> High-speed Switching Diode</td><td> SOD-523'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'D*SOD?523*'</td></tr></table>]|
 ||||

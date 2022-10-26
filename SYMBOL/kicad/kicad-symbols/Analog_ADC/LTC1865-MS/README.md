@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKANALOGADCLTC1865MS > LTC1865-MS
+# SZKANALOGADCLTC1865MS > Analog_ADC : LTC1865-MS
 
 - ID: SYMBOL-kicad-kicad-symbols-Analog_ADC-LTC1865-MS
 - Hex ID: SZKANALOGADCLTC1865MS
-- Name: LTC1865-MS
-- Description: LTC1865-MS
+- Name: Analog_ADC : LTC1865-MS
+- Description: Analog_ADC : LTC1865-MS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-LTC1865-MS](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-LTC1865-MS)
 - Short Link: [http://oom.lt/SZKANALOGADCLTC1865MS](http://oom.lt/SZKANALOGADCLTC1865MS)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LTC1865-MS|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_ADC-LTC1865-MS|
 |Hex ID (short code)|hexID|SZKANALOGADCLTC1865MS|
-|name|name|LTC1865-MS|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LTC1865L-MS', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LTC1865-MS', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/18645fb.pdf', 'kicadSymbolki_keywords': 'sigma-delta adc 2ch', 'kicadSymbolki_description': 'Dual channel 16-bit Analog to Digital Converter, 5V supply, 150ksps, SPI interface', 'kicadSymbolki_fp_filters': 'MSOP-10*'}]|
+|name|name|Analog_ADC : LTC1865-MS|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'LTC1865L-MS'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LTC1865-MS'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/18645fb.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'sigma-delta adc 2ch'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Dual channel 16-bit Analog to Digital Converter</td><td> 5V supply</td><td> 150ksps</td><td> SPI interface'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'MSOP-10*'</td></tr></table>]|
 ||||

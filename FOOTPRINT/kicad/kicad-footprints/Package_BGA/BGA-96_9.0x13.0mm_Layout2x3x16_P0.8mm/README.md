@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_BGA-BGA-96_9.0x13.0mm_Layout2x3x16_P0.8mm|
 |Hex ID (short code)|hexID|FZKBGABGA969X13LAYOUT2X3X16P8|
 |name|name|Package_BGA : BGA-96_9.0x13.0mm_Layout2x3x16_P0.8mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'BGA-96_9.0x13.0mm_Layout2x3x16_P0.8mm', 'description': 'BGA-96, http://www.mouser.com/ds/2/198/43-46TR16640B-81280BL-706483.pdf', 'tags': 'BGA-96', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/BGA-96_9.0x13.0mm_Layout2x3x16_P0.8mm.wrl', 'pins': {'type': 'smd', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'BGA-96_9.0x13.0mm_Layout2x3x16_P0.8mm'</td><td> 'description'</td></tr><tr><td> 'BGA-96</td><td> http</td></tr><tr><td>//www.mouser.com/ds/2/198/43-46TR16640B-81280BL-706483.pdf'</td><td> 'tags'</td></tr><tr><td> 'BGA-96'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_BGA.3dshapes/BGA-96_9.0x13.0mm_Layout2x3x16_P0.8mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

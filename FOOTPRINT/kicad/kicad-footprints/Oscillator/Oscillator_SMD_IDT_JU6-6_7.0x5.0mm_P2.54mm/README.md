@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_IDT_JU6-6_7.0x5.0mm_P2.54mm|
 |Hex ID (short code)|hexID|FZKOCSOCSSMIDTJU667X5P254|
 |name|name|Oscillator : Oscillator_SMD_IDT_JU6-6_7.0x5.0mm_P2.54mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Oscillator_SMD_IDT_JU6-6_7.0x5.0mm_P2.54mm', 'description': 'SMD Crystal Oscillator IDT https://www.idt.com/document/dst/xu-family-datasheet#page=17, 7.0x5.0mm', 'tags': 'SMD SMT crystal oscillator', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Oscillator.3dshapes/Oscillator_SMD_IDT_JU6-6_7.0x5.0mm_P2.54mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Oscillator_SMD_IDT_JU6-6_7.0x5.0mm_P2.54mm'</td><td> 'description'</td></tr><tr><td> 'SMD Crystal Oscillator IDT https</td></tr><tr><td>//www.idt.com/document/dst/xu-family-datasheet#page=17</td><td> 7.0x5.0mm'</td><td> 'tags'</td></tr><tr><td> 'SMD SMT crystal oscillator'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Oscillator.3dshapes/Oscillator_SMD_IDT_JU6-6_7.0x5.0mm_P2.54mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

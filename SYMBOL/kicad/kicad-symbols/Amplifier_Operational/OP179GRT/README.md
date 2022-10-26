@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKAMPLIFIEROPERATIONALOP179GRT > OP179GRT
+# SZKAMPLIFIEROPERATIONALOP179GRT > Amplifier_Operational : OP179GRT
 
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OP179GRT
 - Hex ID: SZKAMPLIFIEROPERATIONALOP179GRT
-- Name: OP179GRT
-- Description: OP179GRT
+- Name: Amplifier_Operational : OP179GRT
+- Description: Amplifier_Operational : OP179GRT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OP179GRT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OP179GRT)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALOP179GRT](http://oom.lt/SZKAMPLIFIEROPERATIONALOP179GRT)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|OP179GRT|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OP179GRT|
 |Hex ID (short code)|hexID|SZKAMPLIFIEROPERATIONALOP179GRT|
-|name|name|OP179GRT|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'OP179GRT', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-5', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/OP179_279.pdf', 'kicadSymbolki_keywords': 'single opamp', 'kicadSymbolki_description': 'Single Rail-to-Rail High Output Current Operational Amplifiers, SOT-23-5', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
+|name|name|Amplifier_Operational : OP179GRT|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'OP179GRT'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-23-5'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/OP179_279.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'single opamp'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Single Rail-to-Rail High Output Current Operational Amplifiers</td><td> SOT-23-5'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23*'</td></tr></table>]|
 ||||

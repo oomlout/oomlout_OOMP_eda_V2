@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICCAPC85XNF5V5C8N5C1717 > CAPC-0805-X-NF5-V50-C8N5-C1717
+# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICCAPC85XNF5V5C8N5C1717 > oomlout_OOMP_JLCC_Basic : CAPC-0805-X-NF5-V50-C8N5-C1717
 
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0805-X-NF5-V50-C8N5-C1717
 - Hex ID: SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICCAPC85XNF5V5C8N5C1717
-- Name: CAPC-0805-X-NF5-V50-C8N5-C1717
-- Description: CAPC-0805-X-NF5-V50-C8N5-C1717
+- Name: oomlout_OOMP_JLCC_Basic : CAPC-0805-X-NF5-V50-C8N5-C1717
+- Description: oomlout_OOMP_JLCC_Basic : CAPC-0805-X-NF5-V50-C8N5-C1717
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0805-X-NF5-V50-C8N5-C1717](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0805-X-NF5-V50-C8N5-C1717)
 - Short Link: [http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICCAPC85XNF5V5C8N5C1717](http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICCAPC85XNF5V5C8N5C1717)
   
@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|CAPC-0805-X-NF5-V50-C8N5-C1717|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0805-X-NF5-V50-C8N5-C1717|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICCAPC85XNF5V5C8N5C1717|
-|name|name|CAPC-0805-X-NF5-V50-C8N5-C1717|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'C', 'kicadSymbolValue': 'CAPC-0805-X-NF5-V50-C8N5-C1717', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:CAPC-0805-X-NF5-V50-C8N5-C1717', 'kicadSymbolDatasheet': 'oom.lt/C8N5', 'kicadSymbolki_keywords': 'cap capacitor', 'kicadSymbolki_description': 'hexID: C8N5;PARTL C-JLCC;C1717;MANUF C-XXXX;0805B152K500NT;Unpolarized capacitor', 'kicadSymbolki_fp_filters': 'C_*'}]|
+|name|name|oomlout_OOMP_JLCC_Basic : CAPC-0805-X-NF5-V50-C8N5-C1717|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'C'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'CAPC-0805-X-NF5-V50-C8N5-C1717'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'oomlout_OOMP_parts</td></tr><tr><td>CAPC-0805-X-NF5-V50-C8N5-C1717'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'oom.lt/C8N5'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'cap capacitor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'hexID</td></tr><tr><td> C8N5;PARTL C-JLCC;C1717;MANUF C-XXXX;0805B152K500NT;Unpolarized capacitor'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'C_*'</td></tr></table>]|
 ||||

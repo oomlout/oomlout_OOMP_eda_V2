@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKCONPBO3S24 > PBO-3-S24
+# SZKCONPBO3S24 > Converter_ACDC : PBO-3-S24
 
 - ID: SYMBOL-kicad-kicad-symbols-Converter_ACDC-PBO-3-S24
 - Hex ID: SZKCONPBO3S24
-- Name: PBO-3-S24
-- Description: PBO-3-S24
+- Name: Converter_ACDC : PBO-3-S24
+- Description: Converter_ACDC : PBO-3-S24
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_ACDC-PBO-3-S24](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_ACDC-PBO-3-S24)
 - Short Link: [http://oom.lt/SZKCONPBO3S24](http://oom.lt/SZKCONPBO3S24)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PBO-3-S24|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Converter_ACDC-PBO-3-S24|
 |Hex ID (short code)|hexID|SZKCONPBO3S24|
-|name|name|PBO-3-S24|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'PBO-3-S3.3', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PBO-3-S24', 'kicadSymbolFootprint': 'Converter_ACDC:Converter_ACDC_CUI_PBO-3-Sxx_THT_Vertical', 'kicadSymbolDatasheet': 'https://www.cui.com/product/resource/pbo-3.pdf', 'kicadSymbolki_keywords': 'ac dc power supply', 'kicadSymbolki_description': '24V 0.125A 3W miniature AC-DC module-type power supply', 'kicadSymbolki_fp_filters': 'Converter*ACDC*CUI*PBO*3*Sxx*THT*'}]|
+|name|name|Converter_ACDC : PBO-3-S24|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'PBO-3-S3.3'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'PBO-3-S24'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Converter_ACDC</td></tr><tr><td>Converter_ACDC_CUI_PBO-3-Sxx_THT_Vertical'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.cui.com/product/resource/pbo-3.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'ac dc power supply'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '24V 0.125A 3W miniature AC-DC module-type power supply'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Converter*ACDC*CUI*PBO*3*Sxx*THT*'</td></tr></table>]|
 ||||

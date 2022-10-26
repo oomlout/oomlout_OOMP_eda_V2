@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKINTERFACEMAX6816 > MAX6816
+# SZKINTERFACEMAX6816 > Interface : MAX6816
 
 - ID: SYMBOL-kicad-kicad-symbols-Interface-MAX6816
 - Hex ID: SZKINTERFACEMAX6816
-- Name: MAX6816
-- Description: MAX6816
+- Name: Interface : MAX6816
+- Description: Interface : MAX6816
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-MAX6816](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-MAX6816)
 - Short Link: [http://oom.lt/SZKINTERFACEMAX6816](http://oom.lt/SZKINTERFACEMAX6816)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MAX6816|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface-MAX6816|
 |Hex ID (short code)|hexID|SZKINTERFACEMAX6816|
-|name|name|MAX6816|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MAX6816', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-143', 'kicadSymbolDatasheet': 'https://datasheets.maximintegrated.com/en/ds/1896.pdf', 'kicadSymbolki_keywords': 'Switch Debouncer', 'kicadSymbolki_description': 'Single Switch  Debouncer, SOT-143', 'kicadSymbolki_fp_filters': 'SOT*143*'}]|
+|name|name|Interface : MAX6816|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MAX6816'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-143'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//datasheets.maximintegrated.com/en/ds/1896.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Switch Debouncer'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Single Switch  Debouncer</td><td> SOT-143'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT*143*'</td></tr></table>]|
 ||||

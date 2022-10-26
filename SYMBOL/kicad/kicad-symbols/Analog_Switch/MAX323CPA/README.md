@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKANALOGSWITCHMAX323CPA > MAX323CPA
+# SZKANALOGSWITCHMAX323CPA > Analog_Switch : MAX323CPA
 
 - ID: SYMBOL-kicad-kicad-symbols-Analog_Switch-MAX323CPA
 - Hex ID: SZKANALOGSWITCHMAX323CPA
-- Name: MAX323CPA
-- Description: MAX323CPA
+- Name: Analog_Switch : MAX323CPA
+- Description: Analog_Switch : MAX323CPA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-MAX323CPA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-MAX323CPA)
 - Short Link: [http://oom.lt/SZKANALOGSWITCHMAX323CPA](http://oom.lt/SZKANALOGSWITCHMAX323CPA)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MAX323CPA|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_Switch-MAX323CPA|
 |Hex ID (short code)|hexID|SZKANALOGSWITCHMAX323CPA|
-|name|name|MAX323CPA|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MAX323CPA', 'kicadSymbolFootprint': 'Package_DIP:DIP-8_W7.62mm', 'kicadSymbolDatasheet': 'https://datasheets.maximintegrated.com/en/ds/MAX323-MAX325.pdf', 'kicadSymbolki_keywords': 'CMOS Analog Switch', 'kicadSymbolki_description': 'Dual SPST CMOS Analog Switches, normally OFF, 60Ohm Ron, DIP-8', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
+|name|name|Analog_Switch : MAX323CPA|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MAX323CPA'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>DIP-8_W7.62mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//datasheets.maximintegrated.com/en/ds/MAX323-MAX325.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'CMOS Analog Switch'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Dual SPST CMOS Analog Switches</td><td> normally OFF</td><td> 60Ohm Ron</td><td> DIP-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W7.62mm*'</td></tr></table>]|
 ||||

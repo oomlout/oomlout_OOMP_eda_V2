@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUNXPKINETISMKE2Z16VLD4 > MKE02Z16VLD4
+# SZKMCUNXPKINETISMKE2Z16VLD4 > MCU_NXP_Kinetis : MKE02Z16VLD4
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_NXP_Kinetis-MKE02Z16VLD4
 - Hex ID: SZKMCUNXPKINETISMKE2Z16VLD4
-- Name: MKE02Z16VLD4
-- Description: MKE02Z16VLD4
+- Name: MCU_NXP_Kinetis : MKE02Z16VLD4
+- Description: MCU_NXP_Kinetis : MKE02Z16VLD4
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_Kinetis-MKE02Z16VLD4](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_Kinetis-MKE02Z16VLD4)
 - Short Link: [http://oom.lt/SZKMCUNXPKINETISMKE2Z16VLD4](http://oom.lt/SZKMCUNXPKINETISMKE2Z16VLD4)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MKE02Z16VLD4|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_NXP_Kinetis-MKE02Z16VLD4|
 |Hex ID (short code)|hexID|SZKMCUNXPKINETISMKE2Z16VLD4|
-|name|name|MKE02Z16VLD4|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MKE02Z64VLD4', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MKE02Z16VLD4', 'kicadSymbolFootprint': 'Package_QFP:LQFP-44_10x10mm_P0.8mm', 'kicadSymbolDatasheet': 'http://cache.nxp.com/files/microcontrollers/doc/ref_manual/MKE02P64M40SF0RM.pdf', 'kicadSymbolki_keywords': 'NXP Kinetis Microcontroller', 'kicadSymbolki_description': '40 MHz, Entry-Level, High-Robustness, ESD/EMC performance Microcontroller, Cortex-M0+ core, 16kB Flash, 2kB RAM, LQFP-44', 'kicadSymbolki_fp_filters': 'LQFP*10x10mm*P0.8mm*'}]|
+|name|name|MCU_NXP_Kinetis : MKE02Z16VLD4|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'MKE02Z64VLD4'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MKE02Z16VLD4'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_QFP</td></tr><tr><td>LQFP-44_10x10mm_P0.8mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//cache.nxp.com/files/microcontrollers/doc/ref_manual/MKE02P64M40SF0RM.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'NXP Kinetis Microcontroller'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '40 MHz</td><td> Entry-Level</td><td> High-Robustness</td><td> ESD/EMC performance Microcontroller</td><td> Cortex-M0+ core</td><td> 16kB Flash</td><td> 2kB RAM</td><td> LQFP-44'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'LQFP*10x10mm*P0.8mm*'</td></tr></table>]|
 ||||

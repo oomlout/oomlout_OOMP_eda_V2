@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORBJTBC817 > BC817
+# SZKTRANSISTORBJTBC817 > Transistor_BJT : BC817
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC817
 - Hex ID: SZKTRANSISTORBJTBC817
-- Name: BC817
-- Description: BC817
+- Name: Transistor_BJT : BC817
+- Description: Transistor_BJT : BC817
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC817](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC817)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTBC817](http://oom.lt/SZKTRANSISTORBJTBC817)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BC817|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC817|
 |Hex ID (short code)|hexID|SZKTRANSISTORBJTBC817|
-|name|name|BC817|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'BC817', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pub/Collateral/BC818-D.pdf', 'kicadSymbolki_keywords': 'NPN Transistor', 'kicadSymbolki_description': '0.8A Ic, 45V Vce, NPN Transistor, SOT-23', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
+|name|name|Transistor_BJT : BC817|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'BC817'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-23'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.onsemi.com/pub/Collateral/BC818-D.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'NPN Transistor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '0.8A Ic</td><td> 45V Vce</td><td> NPN Transistor</td><td> SOT-23'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23*'</td></tr></table>]|
 ||||

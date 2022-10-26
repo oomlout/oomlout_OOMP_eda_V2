@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKAMPLIFIERCURRENTAD825 > AD8205
+# SZKAMPLIFIERCURRENTAD825 > Amplifier_Current : AD8205
 
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Current-AD8205
 - Hex ID: SZKAMPLIFIERCURRENTAD825
-- Name: AD8205
-- Description: AD8205
+- Name: Amplifier_Current : AD8205
+- Description: Amplifier_Current : AD8205
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Current-AD8205](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Current-AD8205)
 - Short Link: [http://oom.lt/SZKAMPLIFIERCURRENTAD825](http://oom.lt/SZKAMPLIFIERCURRENTAD825)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AD8205|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Current-AD8205|
 |Hex ID (short code)|hexID|SZKAMPLIFIERCURRENTAD825|
-|name|name|AD8205|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'AD8210', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AD8205', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/AD8205.pdf', 'kicadSymbolki_keywords': 'highside HS difference amplifier linear buffered', 'kicadSymbolki_description': '65V Single-Supply, System Difference Amplifier, 50V/V gain, bandwidth 50kHz, Vcc=5V, SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm*'}]|
+|name|name|Amplifier_Current : AD8205|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'AD8210'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'AD8205'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-8_3.9x4.9mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/AD8205.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'highside HS difference amplifier linear buffered'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '65V Single-Supply</td><td> System Difference Amplifier</td><td> 50V/V gain</td><td> bandwidth 50kHz</td><td> Vcc=5V</td><td> SOIC-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*3.9x4.9mm*P1.27mm*'</td></tr></table>]|
 ||||

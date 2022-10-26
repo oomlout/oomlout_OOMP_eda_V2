@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SO-ETSSOP-20-1EP_4.4x6.5mm_P0.65mm_EP3x4.2mm|
 |Hex ID (short code)|hexID|FZKSOETSS21EP44X65P65EP3X42|
 |name|name|Package_SO : ETSSOP-20-1EP_4.4x6.5mm_P0.65mm_EP3x4.2mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'ETSSOP-20-1EP_4.4x6.5mm_P0.65mm_EP3x4.2mm', 'description': '20-Lead Plastic Thin Shrink Small Outline (ST)-4.4 mm Body with Exposed Pad [eTSSOP] (see Microchip Packaging Specification 00000049BS.pdf)', 'tags': 'SSOP 0.65', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/ETSSOP-20-1EP_4.4x6.5mm_P0.65mm_EP3x4.2mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'ETSSOP-20-1EP_4.4x6.5mm_P0.65mm_EP3x4.2mm'</td><td> 'description'</td></tr><tr><td> '20-Lead Plastic Thin Shrink Small Outline (ST)-4.4 mm Body with Exposed Pad [eTSSOP] (see Microchip Packaging Specification 00000049BS.pdf)'</td><td> 'tags'</td></tr><tr><td> 'SSOP 0.65'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_SO.3dshapes/ETSSOP-20-1EP_4.4x6.5mm_P0.65mm_EP3x4.2mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

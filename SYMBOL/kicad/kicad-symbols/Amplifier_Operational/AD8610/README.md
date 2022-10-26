@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKAMPLIFIEROPERATIONALAD861 > AD8610
+# SZKAMPLIFIEROPERATIONALAD861 > Amplifier_Operational : AD8610
 
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-AD8610
 - Hex ID: SZKAMPLIFIEROPERATIONALAD861
-- Name: AD8610
-- Description: AD8610
+- Name: Amplifier_Operational : AD8610
+- Description: Amplifier_Operational : AD8610
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-AD8610](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-AD8610)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALAD861](http://oom.lt/SZKAMPLIFIEROPERATIONALAD861)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AD8610|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Operational-AD8610|
 |Hex ID (short code)|hexID|SZKAMPLIFIEROPERATIONALAD861|
-|name|name|AD8610|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LM741', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AD8610', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/AD8610_8620.pdf', 'kicadSymbolki_keywords': 'single opamp', 'kicadSymbolki_description': 'Single Precision, Very Low Noise, Low Input Bias Current, Wide Bandwidth JFET Operational Amplifiers, SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm* DIP*W7.62mm* TSSOP*3x3mm*P0.65mm*'}]|
+|name|name|Amplifier_Operational : AD8610|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'LM741'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'AD8610'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/AD8610_8620.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'single opamp'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Single Precision</td><td> Very Low Noise</td><td> Low Input Bias Current</td><td> Wide Bandwidth JFET Operational Amplifiers</td><td> SOIC-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*3.9x4.9mm*P1.27mm* DIP*W7.62mm* TSSOP*3x3mm*P0.65mm*'</td></tr></table>]|
 ||||

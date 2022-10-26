@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-SIPAK-1EP_Horizontal_TabDown|
 |Hex ID (short code)|hexID|FZKSOTSIPAK1EPHORIZONTALTABDOWN|
 |name|name|Package_TO_SOT_THT : SIPAK-1EP_Horizontal_TabDown|
-|Footprint Kicad|footprintKicadDetails|{'name': 'SIPAK-1EP_Horizontal_TabDown', 'description': 'SIPAK, Horizontal, RM 2.286mm', 'tags': 'SIPAK Horizontal RM 2.286mm', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/SIPAK-1EP_Horizontal_TabDown.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SIPAK-1EP_Horizontal_TabDown'</td><td> 'description'</td></tr><tr><td> 'SIPAK</td><td> Horizontal</td><td> RM 2.286mm'</td><td> 'tags'</td></tr><tr><td> 'SIPAK Horizontal RM 2.286mm'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_TO_SOT_THT.3dshapes/SIPAK-1EP_Horizontal_TabDown.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

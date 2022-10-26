@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMEMORYFLASHW25Q32JVSS > W25Q32JVSS
+# SZKMEMORYFLASHW25Q32JVSS > Memory_Flash : W25Q32JVSS
 
 - ID: SYMBOL-kicad-kicad-symbols-Memory_Flash-W25Q32JVSS
 - Hex ID: SZKMEMORYFLASHW25Q32JVSS
-- Name: W25Q32JVSS
-- Description: W25Q32JVSS
+- Name: Memory_Flash : W25Q32JVSS
+- Description: Memory_Flash : W25Q32JVSS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_Flash-W25Q32JVSS](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_Flash-W25Q32JVSS)
 - Short Link: [http://oom.lt/SZKMEMORYFLASHW25Q32JVSS](http://oom.lt/SZKMEMORYFLASHW25Q32JVSS)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|W25Q32JVSS|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Memory_Flash-W25Q32JVSS|
 |Hex ID (short code)|hexID|SZKMEMORYFLASHW25Q32JVSS|
-|name|name|W25Q32JVSS|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'W25Q32JVSS', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_5.23x5.23mm_P1.27mm', 'kicadSymbolDatasheet': 'http://www.winbond.com/resource-files/w25q32jv%20revg%2003272018%20plus.pdf', 'kicadSymbolki_keywords': 'flash memory SPI', 'kicadSymbolki_description': '32Mb Serial Flash Memory, Standard/Dual/Quad SPI, SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC*5.23x5.23mm*P1.27mm*'}]|
+|name|name|Memory_Flash : W25Q32JVSS|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'W25Q32JVSS'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-8_5.23x5.23mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.winbond.com/resource-files/w25q32jv%20revg%2003272018%20plus.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'flash memory SPI'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '32Mb Serial Flash Memory</td><td> Standard/Dual/Quad SPI</td><td> SOIC-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*5.23x5.23mm*P1.27mm*'</td></tr></table>]|
 ||||

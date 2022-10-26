@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Toroid_Vertical_L35.1mm_W21.1mm_P18.50mm_Vishay_TJ6|
 |Hex ID (short code)|hexID|FZKINLTOROIDVERTICALL351W211P185VISHAYTJ6|
 |name|name|Inductor_THT : L_Toroid_Vertical_L35.1mm_W21.1mm_P18.50mm_Vishay_TJ6|
-|Footprint Kicad|footprintKicadDetails|{'name': 'L_Toroid_Vertical_L35.1mm_W21.1mm_P18.50mm_Vishay_TJ6', 'description': 'L_Toroid, Vertical series, Radial, pin pitch=18.50mm, , length*width=35.1*21.1mm^2, Vishay, TJ6, http://www.vishay.com/docs/34079/tj.pdf', 'tags': 'L_Toroid Vertical series Radial pin pitch 18.50mm  length 35.1mm width 21.1mm Vishay TJ6', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Toroid_Vertical_L35.1mm_W21.1mm_P18.50mm_Vishay_TJ6.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'L_Toroid_Vertical_L35.1mm_W21.1mm_P18.50mm_Vishay_TJ6'</td><td> 'description'</td></tr><tr><td> 'L_Toroid</td><td> Vertical series</td><td> Radial</td><td> pin pitch=18.50mm</td><td> </td><td> length*width=35.1*21.1mm^2</td><td> Vishay</td><td> TJ6</td><td> http</td></tr><tr><td>//www.vishay.com/docs/34079/tj.pdf'</td><td> 'tags'</td></tr><tr><td> 'L_Toroid Vertical series Radial pin pitch 18.50mm  length 35.1mm width 21.1mm Vishay TJ6'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Inductor_THT.3dshapes/L_Toroid_Vertical_L35.1mm_W21.1mm_P18.50mm_Vishay_TJ6.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

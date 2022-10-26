@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDEVICETHERMISTORNTC4WIRE > Thermistor_NTC_4Wire
+# SZKDEVICETHERMISTORNTC4WIRE > Device : Thermistor_NTC_4Wire
 
 - ID: SYMBOL-kicad-kicad-symbols-Device-Thermistor_NTC_4Wire
 - Hex ID: SZKDEVICETHERMISTORNTC4WIRE
-- Name: Thermistor_NTC_4Wire
-- Description: Thermistor_NTC_4Wire
+- Name: Device : Thermistor_NTC_4Wire
+- Description: Device : Thermistor_NTC_4Wire
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Thermistor_NTC_4Wire](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Thermistor_NTC_4Wire)
 - Short Link: [http://oom.lt/SZKDEVICETHERMISTORNTC4WIRE](http://oom.lt/SZKDEVICETHERMISTORNTC4WIRE)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Thermistor_NTC_4Wire|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-Thermistor_NTC_4Wire|
 |Hex ID (short code)|hexID|SZKDEVICETHERMISTORNTC4WIRE|
-|name|name|Thermistor_NTC_4Wire|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'TH', 'kicadSymbolValue': 'Thermistor_NTC_4Wire', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'thermistor NTC resistor sensor RTD', 'kicadSymbolki_description': 'Temperature dependent resistor, negative temperature coefficient, 4-wire interface', 'kicadSymbolki_fp_filters': '*NTC* *Thermistor* PIN?ARRAY* bornier* *Terminal?Block*'}]|
+|name|name|Device : Thermistor_NTC_4Wire|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'TH'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Thermistor_NTC_4Wire'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'thermistor NTC resistor sensor RTD'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Temperature dependent resistor</td><td> negative temperature coefficient</td><td> 4-wire interface'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> '*NTC* *Thermistor* PIN?ARRAY* bornier* *Terminal?Block*'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDEVICERFSHTWOPIECES > RFShield_TwoPieces
+# SZKDEVICERFSHTWOPIECES > Device : RFShield_TwoPieces
 
 - ID: SYMBOL-kicad-kicad-symbols-Device-RFShield_TwoPieces
 - Hex ID: SZKDEVICERFSHTWOPIECES
-- Name: RFShield_TwoPieces
-- Description: RFShield_TwoPieces
+- Name: Device : RFShield_TwoPieces
+- Description: Device : RFShield_TwoPieces
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-RFShield_TwoPieces](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-RFShield_TwoPieces)
 - Short Link: [http://oom.lt/SZKDEVICERFSHTWOPIECES](http://oom.lt/SZKDEVICERFSHTWOPIECES)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|RFShield_TwoPieces|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-RFShield_TwoPieces|
 |Hex ID (short code)|hexID|SZKDEVICERFSHTWOPIECES|
-|name|name|RFShield_TwoPieces|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'RFShield_TwoPieces', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'RF EMI shielding cabinet', 'kicadSymbolki_description': 'Two-piece EMI RF shielding cabinet'}]|
+|name|name|Device : RFShield_TwoPieces|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'J'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'RFShield_TwoPieces'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'RF EMI shielding cabinet'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Two-piece EMI RF shielding cabinet'</td></tr></table>]|
 ||||

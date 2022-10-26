@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUMCHIPATMEGAATMEGA168PA > ATmega168PA-MM
+# SZKMCUMCHIPATMEGAATMEGA168PA > MCU_Microchip_ATmega : ATmega168PA-MM
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega168PA-MM
 - Hex ID: SZKMCUMCHIPATMEGAATMEGA168PA
-- Name: ATmega168PA-MM
-- Description: ATmega168PA-MM
+- Name: MCU_Microchip_ATmega : ATmega168PA-MM
+- Description: MCU_Microchip_ATmega : ATmega168PA-MM
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega168PA-MM](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega168PA-MM)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATMEGAATMEGA168PA](http://oom.lt/SZKMCUMCHIPATMEGAATMEGA168PA)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ATmega168PA-MM|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega168PA-MM|
 |Hex ID (short code)|hexID|SZKMCUMCHIPATMEGAATMEGA168PA|
-|name|name|ATmega168PA-MM|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ATmega48PV-10MM', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ATmega168PA-MM', 'kicadSymbolFootprint': 'Package_DFN_QFN:QFN-28-1EP_4x4mm_P0.45mm_EP2.4x2.4mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/ATmega48PA_88PA_168PA-Data-Sheet-40002011A.pdf', 'kicadSymbolki_keywords': 'AVR 8bit Microcontroller MegaAVR PicoPower', 'kicadSymbolki_description': '20MHz, 16kB Flash, 1kB SRAM, 512B EEPROM, QFN-28', 'kicadSymbolki_fp_filters': 'QFN*1EP*4x4mm*P0.45mm*'}]|
+|name|name|MCU_Microchip_ATmega : ATmega168PA-MM|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'ATmega48PV-10MM'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ATmega168PA-MM'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>QFN-28-1EP_4x4mm_P0.45mm_EP2.4x2.4mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/ATmega48PA_88PA_168PA-Data-Sheet-40002011A.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'AVR 8bit Microcontroller MegaAVR PicoPower'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '20MHz</td><td> 16kB Flash</td><td> 1kB SRAM</td><td> 512B EEPROM</td><td> QFN-28'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'QFN*1EP*4x4mm*P0.45mm*'</td></tr></table>]|
 ||||

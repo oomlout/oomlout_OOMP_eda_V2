@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Mounting_Wuerth-Mounting_Wuerth_WA-SMSI-4.5mm_H4mm_9774040482|
 |Hex ID (short code)|hexID|FZKMONMONWASMSI45H497744482|
 |name|name|Mounting_Wuerth : Mounting_Wuerth_WA-SMSI-4.5mm_H4mm_9774040482|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Mounting_Wuerth_WA-SMSI-4.5mm_H4mm_9774040482', 'description': 'Mounting Hardware, inside through hole 4.5mm, height 4, Wuerth electronics 9774040482 (https://katalog.we-online.de/em/datasheet/9774040482.pdf), generated with kicad-footprint-generator', 'tags': 'Mounting 4.5mm 9774040482', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Mounting_Wuerth.3dshapes/Mounting_Wuerth_WA-SMSI-4.5mm_H4mm_9774040482.wrl', 'pins': {'type': 'smd', 'shape': 'custom'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Mounting_Wuerth_WA-SMSI-4.5mm_H4mm_9774040482'</td><td> 'description'</td></tr><tr><td> 'Mounting Hardware</td><td> inside through hole 4.5mm</td><td> height 4</td><td> Wuerth electronics 9774040482 (https</td></tr><tr><td>//katalog.we-online.de/em/datasheet/9774040482.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'Mounting 4.5mm 9774040482'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Mounting_Wuerth.3dshapes/Mounting_Wuerth_WA-SMSI-4.5mm_H4mm_9774040482.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'custom'</td></tr></table></td></tr></table>|
 ||||
 
 

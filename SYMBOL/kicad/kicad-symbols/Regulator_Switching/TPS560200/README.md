@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORSWITCHINGTPS562 > TPS560200
+# SZKREGULATORSWITCHINGTPS562 > Regulator_Switching : TPS560200
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS560200
 - Hex ID: SZKREGULATORSWITCHINGTPS562
-- Name: TPS560200
-- Description: TPS560200
+- Name: Regulator_Switching : TPS560200
+- Description: Regulator_Switching : TPS560200
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS560200](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS560200)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGTPS562](http://oom.lt/SZKREGULATORSWITCHINGTPS562)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TPS560200|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS560200|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGTPS562|
-|name|name|TPS560200|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TPS560200', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-5', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tps560200.pdf', 'kicadSymbolki_keywords': 'Voltage regulator switching buck fixed output analog', 'kicadSymbolki_description': '500mA, Synchronous Step-Down Converter With, Adjustable Output Voltage, 4.5-17V Input Voltage, SOT-23-5', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
+|name|name|Regulator_Switching : TPS560200|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TPS560200'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-23-5'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/tps560200.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Voltage regulator switching buck fixed output analog'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '500mA</td><td> Synchronous Step-Down Converter With</td><td> Adjustable Output Voltage</td><td> 4.5-17V Input Voltage</td><td> SOT-23-5'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23*'</td></tr></table>]|
 ||||

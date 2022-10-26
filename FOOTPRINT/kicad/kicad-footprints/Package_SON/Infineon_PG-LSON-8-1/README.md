@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SON-Infineon_PG-LSON-8-1|
 |Hex ID (short code)|hexID|FZKSONINFINEONPGLSON81|
 |name|name|Package_SON : Infineon_PG-LSON-8-1|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Infineon_PG-LSON-8-1', 'description': 'https://www.infineon.com/cms/en/product/packages/PG-LSON/PG-LSON-8-1/', 'tags': 'PG-LSON-8-1', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SON.3dshapes/Infineon_PG-LSON-8-1.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Infineon_PG-LSON-8-1'</td><td> 'description'</td></tr><tr><td> 'https</td></tr><tr><td>//www.infineon.com/cms/en/product/packages/PG-LSON/PG-LSON-8-1/'</td><td> 'tags'</td></tr><tr><td> 'PG-LSON-8-1'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_SON.3dshapes/Infineon_PG-LSON-8-1.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

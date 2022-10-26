@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SON-Texas_S-PDSO-N12|
 |Hex ID (short code)|hexID|FZKSONTEXASSPDSON12|
 |name|name|Package_SON : Texas_S-PDSO-N12|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Texas_S-PDSO-N12', 'description': 'http://www.ti.com/lit/ds/symlink/bq27441-g1.pdf', 'tags': 'SON thermal pads', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SON.3dshapes/Texas_S-PDSO-N12.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Texas_S-PDSO-N12'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/bq27441-g1.pdf'</td><td> 'tags'</td></tr><tr><td> 'SON thermal pads'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_SON.3dshapes/Texas_S-PDSO-N12.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

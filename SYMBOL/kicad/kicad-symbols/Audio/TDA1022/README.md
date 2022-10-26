@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKAUDIOTDA122 > TDA1022
+# SZKAUDIOTDA122 > Audio : TDA1022
 
 - ID: SYMBOL-kicad-kicad-symbols-Audio-TDA1022
 - Hex ID: SZKAUDIOTDA122
-- Name: TDA1022
-- Description: TDA1022
+- Name: Audio : TDA1022
+- Description: Audio : TDA1022
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-TDA1022](http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-TDA1022)
 - Short Link: [http://oom.lt/SZKAUDIOTDA122](http://oom.lt/SZKAUDIOTDA122)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TDA1022|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Audio-TDA1022|
 |Hex ID (short code)|hexID|SZKAUDIOTDA122|
-|name|name|TDA1022|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TDA1022', 'kicadSymbolFootprint': 'Package_DIP:DIP-16_W7.62mm', 'kicadSymbolDatasheet': 'http://thmq.mysteria.cz/em1022/TDA1022.pdf', 'kicadSymbolki_keywords': 'PHILIPS BBD MOS monolithic delay analogue', 'kicadSymbolki_description': 'BUCKET BRIGADE DELAY LINE FOR ANALOGUE SIGNALS, 512 stages, delay time 0.512ms to 51.2ms, signal frequency range 0 to 45KHz, clock frequency range 5KHz to 500KHz, DIP-16', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
+|name|name|Audio : TDA1022|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TDA1022'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>DIP-16_W7.62mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//thmq.mysteria.cz/em1022/TDA1022.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'PHILIPS BBD MOS monolithic delay analogue'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'BUCKET BRIGADE DELAY LINE FOR ANALOGUE SIGNALS</td><td> 512 stages</td><td> delay time 0.512ms to 51.2ms</td><td> signal frequency range 0 to 45KHz</td><td> clock frequency range 5KHz to 500KHz</td><td> DIP-16'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W7.62mm*'</td></tr></table>]|
 ||||

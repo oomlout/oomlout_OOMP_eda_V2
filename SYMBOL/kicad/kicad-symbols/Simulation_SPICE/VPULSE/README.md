@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKSIMULATIONSPICEVPULSE > VPULSE
+# SZKSIMULATIONSPICEVPULSE > Simulation_SPICE : VPULSE
 
 - ID: SYMBOL-kicad-kicad-symbols-Simulation_SPICE-VPULSE
 - Hex ID: SZKSIMULATIONSPICEVPULSE
-- Name: VPULSE
-- Description: VPULSE
+- Name: Simulation_SPICE : VPULSE
+- Description: Simulation_SPICE : VPULSE
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Simulation_SPICE-VPULSE](http://oom.lt/SYMBOL-kicad-kicad-symbols-Simulation_SPICE-VPULSE)
 - Short Link: [http://oom.lt/SZKSIMULATIONSPICEVPULSE](http://oom.lt/SZKSIMULATIONSPICEVPULSE)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|VPULSE|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Simulation_SPICE-VPULSE|
 |Hex ID (short code)|hexID|SZKSIMULATIONSPICEVPULSE|
-|name|name|VPULSE|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'V', 'kicadSymbolValue': 'VPULSE', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolSpice_Netlist_Enabled': 'Y', 'kicadSymbolSpice_Primitive': 'V', 'kicadSymbolSpice_Model': 'pulse(0 1 2n 2n 2n 50n 100n)', 'kicadSymbolki_keywords': 'simulation', 'kicadSymbolki_description': 'Voltage source, pulse'}]|
+|name|name|Simulation_SPICE : VPULSE|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'V'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'VPULSE'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolSpice_Netlist_Enabled'</td></tr><tr><td> 'Y'</td><td> 'kicadSymbolSpice_Primitive'</td></tr><tr><td> 'V'</td><td> 'kicadSymbolSpice_Model'</td></tr><tr><td> 'pulse(0 1 2n 2n 2n 50n 100n)'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'simulation'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Voltage source</td><td> pulse'</td></tr></table>]|
 ||||

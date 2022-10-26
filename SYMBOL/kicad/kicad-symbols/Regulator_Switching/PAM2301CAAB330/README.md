@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORSWITCHINGPAM231CAAB33 > PAM2301CAAB330
+# SZKREGULATORSWITCHINGPAM231CAAB33 > Regulator_Switching : PAM2301CAAB330
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-PAM2301CAAB330
 - Hex ID: SZKREGULATORSWITCHINGPAM231CAAB33
-- Name: PAM2301CAAB330
-- Description: PAM2301CAAB330
+- Name: Regulator_Switching : PAM2301CAAB330
+- Description: Regulator_Switching : PAM2301CAAB330
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-PAM2301CAAB330](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-PAM2301CAAB330)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGPAM231CAAB33](http://oom.lt/SZKREGULATORSWITCHINGPAM231CAAB33)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PAM2301CAAB330|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-PAM2301CAAB330|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGPAM231CAAB33|
-|name|name|PAM2301CAAB330|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PAM2301CAAB330', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TSOT-23-5', 'kicadSymbolDatasheet': 'https://www.diodes.com/assets/Datasheets/products_inactive_data/PAM2301.pdf', 'kicadSymbolki_keywords': 'Voltage regulator switching buck fixed output analog', 'kicadSymbolki_description': '800mA, Step-Down DC/DC-Converter, 3.3V Fixed Output Voltage, 1.5MHz, TSOT-23-5', 'kicadSymbolki_fp_filters': 'TSOT?23*'}]|
+|name|name|Regulator_Switching : PAM2301CAAB330|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'PAM2301CAAB330'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>TSOT-23-5'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.diodes.com/assets/Datasheets/products_inactive_data/PAM2301.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Voltage regulator switching buck fixed output analog'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '800mA</td><td> Step-Down DC/DC-Converter</td><td> 3.3V Fixed Output Voltage</td><td> 1.5MHz</td><td> TSOT-23-5'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TSOT?23*'</td></tr></table>]|
 ||||

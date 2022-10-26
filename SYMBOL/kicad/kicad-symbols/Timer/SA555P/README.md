@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTIMERSA555P > SA555P
+# SZKTIMERSA555P > Timer : SA555P
 
 - ID: SYMBOL-kicad-kicad-symbols-Timer-SA555P
 - Hex ID: SZKTIMERSA555P
-- Name: SA555P
-- Description: SA555P
+- Name: Timer : SA555P
+- Description: Timer : SA555P
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer-SA555P](http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer-SA555P)
 - Short Link: [http://oom.lt/SZKTIMERSA555P](http://oom.lt/SZKTIMERSA555P)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SA555P|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Timer-SA555P|
 |Hex ID (short code)|hexID|SZKTIMERSA555P|
-|name|name|SA555P|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'NE555P', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'SA555P', 'kicadSymbolFootprint': 'Package_DIP:DIP-8_W7.62mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/ne555.pdf', 'kicadSymbolki_keywords': 'single timer 555', 'kicadSymbolki_description': 'Precision Timers, 555 compatible, PDIP-8', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
+|name|name|Timer : SA555P|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'NE555P'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'SA555P'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>DIP-8_W7.62mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/ne555.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'single timer 555'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Precision Timers</td><td> 555 compatible</td><td> PDIP-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W7.62mm*'</td></tr></table>]|
 ||||

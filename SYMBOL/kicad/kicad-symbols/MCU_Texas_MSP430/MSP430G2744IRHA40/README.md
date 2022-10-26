@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUTEXASMSP43MSP43G2744IRHA4 > MSP430G2744IRHA40
+# SZKMCUTEXASMSP43MSP43G2744IRHA4 > MCU_Texas_MSP430 : MSP430G2744IRHA40
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Texas_MSP430-MSP430G2744IRHA40
 - Hex ID: SZKMCUTEXASMSP43MSP43G2744IRHA4
-- Name: MSP430G2744IRHA40
-- Description: MSP430G2744IRHA40
+- Name: MCU_Texas_MSP430 : MSP430G2744IRHA40
+- Description: MCU_Texas_MSP430 : MSP430G2744IRHA40
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Texas_MSP430-MSP430G2744IRHA40](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Texas_MSP430-MSP430G2744IRHA40)
 - Short Link: [http://oom.lt/SZKMCUTEXASMSP43MSP43G2744IRHA4](http://oom.lt/SZKMCUTEXASMSP43MSP43G2744IRHA4)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MSP430G2744IRHA40|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Texas_MSP430-MSP430G2744IRHA40|
 |Hex ID (short code)|hexID|SZKMCUTEXASMSP43MSP43G2744IRHA4|
-|name|name|MSP430G2744IRHA40|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MSP430G2444IRHA40', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MSP430G2744IRHA40', 'kicadSymbolFootprint': 'Package_DFN_QFN:Texas_S-PVQFN-N40_EP4.15x4.15mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/msp430g2744.pdf', 'kicadSymbolki_keywords': 'TI MSP430 16-bit mixed signal microcontroller', 'kicadSymbolki_description': '32kB + 256B Flash, 1kB RAM, QFN-40', 'kicadSymbolki_fp_filters': 'Texas*S?PVQFN*'}]|
+|name|name|MCU_Texas_MSP430 : MSP430G2744IRHA40|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'MSP430G2444IRHA40'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MSP430G2744IRHA40'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>Texas_S-PVQFN-N40_EP4.15x4.15mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/msp430g2744.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'TI MSP430 16-bit mixed signal microcontroller'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '32kB + 256B Flash</td><td> 1kB RAM</td><td> QFN-40'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Texas*S?PVQFN*'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDSPMOTOROLADSP5631 > DSP56301
+# SZKDSPMOTOROLADSP5631 > DSP_Motorola : DSP56301
 
 - ID: SYMBOL-kicad-kicad-symbols-DSP_Motorola-DSP56301
 - Hex ID: SZKDSPMOTOROLADSP5631
-- Name: DSP56301
-- Description: DSP56301
+- Name: DSP_Motorola : DSP56301
+- Description: DSP_Motorola : DSP56301
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-DSP_Motorola-DSP56301](http://oom.lt/SYMBOL-kicad-kicad-symbols-DSP_Motorola-DSP56301)
 - Short Link: [http://oom.lt/SZKDSPMOTOROLADSP5631](http://oom.lt/SZKDSPMOTOROLADSP5631)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DSP56301|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-DSP_Motorola-DSP56301|
 |Hex ID (short code)|hexID|SZKDSPMOTOROLADSP5631|
-|name|name|DSP56301|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'DSP56301', 'kicadSymbolFootprint': 'Package_QFP:PQFP-208_28x28mm_P0.5mm', 'kicadSymbolDatasheet': 'https://www.nxp.com/docs/en/data-sheet/DSP56301DS.pdf', 'kicadSymbolki_keywords': 'DSP PCI', 'kicadSymbolki_description': '24-Bit Digital Signal Processor with PCI bus interface', 'kicadSymbolki_fp_filters': 'PQFP*28x28mm*P0.5mm*'}]|
+|name|name|DSP_Motorola : DSP56301|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'DSP56301'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_QFP</td></tr><tr><td>PQFP-208_28x28mm_P0.5mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.nxp.com/docs/en/data-sheet/DSP56301DS.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'DSP PCI'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '24-Bit Digital Signal Processor with PCI bus interface'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'PQFP*28x28mm*P0.5mm*'</td></tr></table>]|
 ||||

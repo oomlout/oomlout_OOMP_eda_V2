@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZK74XX74LS42 > 74LS42
+# SZK74XX74LS42 > 74xx : 74LS42
 
 - ID: SYMBOL-kicad-kicad-symbols-74xx-74LS42
 - Hex ID: SZK74XX74LS42
-- Name: 74LS42
-- Description: 74LS42
+- Name: 74xx : 74LS42
+- Description: 74xx : 74LS42
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx-74LS42](http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx-74LS42)
 - Short Link: [http://oom.lt/SZK74XX74LS42](http://oom.lt/SZK74XX74LS42)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74LS42|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xx-74LS42|
 |Hex ID (short code)|hexID|SZK74XX74LS42|
-|name|name|74LS42|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74LS42', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/gpn/sn74LS42', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'TTL DECOD DECOD10', 'kicadSymbolki_description': '4 to 10 line Decoder', 'kicadSymbolki_fp_filters': 'DIP?16*'}]|
+|name|name|74xx : 74LS42|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> '74LS42'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/gpn/sn74LS42'</td><td> 'kicadSymbolki_locked'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'TTL DECOD DECOD10'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '4 to 10 line Decoder'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP?16*'</td></tr></table>]|
 ||||

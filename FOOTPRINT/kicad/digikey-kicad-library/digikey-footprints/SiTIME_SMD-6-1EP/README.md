@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SiTIME_SMD-6-1EP|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSITIMESM61EP|
 |name|name|digikey-footprints : SiTIME_SMD-6-1EP|
-|Footprint Kicad|footprintKicadDetails|{'name': 'SiTIME_SMD-6-1EP', 'description': 'https://www.sitime.com/products/datasheets/sit9102/SiT9102-datasheet.pdf', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SiTIME_SMD-6-1EP'</td><td> 'description'</td></tr><tr><td> 'https</td></tr><tr><td>//www.sitime.com/products/datasheets/sit9102/SiT9102-datasheet.pdf'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

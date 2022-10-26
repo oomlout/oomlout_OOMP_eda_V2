@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Phoenix_MSTB-PhoenixContact_MSTBVA_2,5_15-G_1x15_P5.00mm_Vertical|
 |Hex ID (short code)|hexID|FZKCNPHOENIXMSTBPHOENIXCONTACTMSTBVA2515G1X15P5VERTICAL|
 |name|name|Connector_Phoenix_MSTB : PhoenixContact_MSTBVA_2,5_15-G_1x15_P5.00mm_Vertical|
-|Footprint Kicad|footprintKicadDetails|{'name': 'PhoenixContact_MSTBVA_2,5_15-G_1x15_P5.00mm_Vertical', 'description': 'Generic Phoenix Contact connector footprint for: MSTBVA_2,5/15-G; number of pins: 15; pin pitch: 5.00mm; Vertical \|\| order number: 1755639 12A', 'tags': 'phoenix_contact connector MSTBVA_01x15_G_5.00mm', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_Phoenix_MSTB.3dshapes/PhoenixContact_MSTBVA_2,5_15-G_1x15_P5.00mm_Vertical.wrl', 'pins': {'type': 'thru_hole', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'PhoenixContact_MSTBVA_2</td><td>5_15-G_1x15_P5.00mm_Vertical'</td><td> 'description'</td></tr><tr><td> 'Generic Phoenix Contact connector footprint for</td></tr><tr><td> MSTBVA_2</td><td>5/15-G; number of pins</td></tr><tr><td> 15; pin pitch</td></tr><tr><td> 5.00mm; Vertical \|\| order number</td></tr><tr><td> 1755639 12A'</td><td> 'tags'</td></tr><tr><td> 'phoenix_contact connector MSTBVA_01x15_G_5.00mm'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_Phoenix_MSTB.3dshapes/PhoenixContact_MSTBVA_2</td><td>5_15-G_1x15_P5.00mm_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKPSPICEGSOURCE > GSOURCE
+# SZKPSPICEGSOURCE > pspice : GSOURCE
 
 - ID: SYMBOL-kicad-kicad-symbols-pspice-GSOURCE
 - Hex ID: SZKPSPICEGSOURCE
-- Name: GSOURCE
-- Description: GSOURCE
+- Name: pspice : GSOURCE
+- Description: pspice : GSOURCE
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-pspice-GSOURCE](http://oom.lt/SYMBOL-kicad-kicad-symbols-pspice-GSOURCE)
 - Short Link: [http://oom.lt/SZKPSPICEGSOURCE](http://oom.lt/SZKPSPICEGSOURCE)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|GSOURCE|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-pspice-GSOURCE|
 |Hex ID (short code)|hexID|SZKPSPICEGSOURCE|
-|name|name|GSOURCE|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'G', 'kicadSymbolValue': 'GSOURCE', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.pspice.com/source/controlled-sources', 'kicadSymbolki_keywords': 'simulation', 'kicadSymbolki_description': 'Voltage-dependent Current source symbol for simulation only'}]|
+|name|name|pspice : GSOURCE|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'G'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'GSOURCE'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.pspice.com/source/controlled-sources'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'simulation'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Voltage-dependent Current source symbol for simulation only'</td></tr></table>]|
 ||||

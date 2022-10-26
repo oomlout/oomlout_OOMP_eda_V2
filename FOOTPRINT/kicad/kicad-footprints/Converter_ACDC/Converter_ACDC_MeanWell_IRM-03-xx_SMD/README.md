@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Converter_ACDC-Converter_ACDC_MeanWell_IRM-03-xx_SMD|
 |Hex ID (short code)|hexID|FZKCONCONMEANWELLIRM3XXSM|
 |name|name|Converter_ACDC : Converter_ACDC_MeanWell_IRM-03-xx_SMD|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Converter_ACDC_MeanWell_IRM-03-xx_SMD', 'description': 'ACDC-Converter, 3W, Meanwell, IRM-03, SMD, http://www.meanwell.com/webapp/product/search.aspx?prod=IRM-03', 'tags': 'ACDC-Converter 3W', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Converter_ACDC.3dshapes/Converter_ACDC_MeanWell_IRM-03-xx_SMD.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Converter_ACDC_MeanWell_IRM-03-xx_SMD'</td><td> 'description'</td></tr><tr><td> 'ACDC-Converter</td><td> 3W</td><td> Meanwell</td><td> IRM-03</td><td> SMD</td><td> http</td></tr><tr><td>//www.meanwell.com/webapp/product/search.aspx?prod=IRM-03'</td><td> 'tags'</td></tr><tr><td> 'ACDC-Converter 3W'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Converter_ACDC.3dshapes/Converter_ACDC_MeanWell_IRM-03-xx_SMD.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

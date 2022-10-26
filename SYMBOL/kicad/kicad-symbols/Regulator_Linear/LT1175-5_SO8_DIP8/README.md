@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORLINEARLT11755SO8DIP8 > LT1175-5_SO8_DIP8
+# SZKREGULATORLINEARLT11755SO8DIP8 > Regulator_Linear : LT1175-5_SO8_DIP8
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT1175-5_SO8_DIP8
 - Hex ID: SZKREGULATORLINEARLT11755SO8DIP8
-- Name: LT1175-5_SO8_DIP8
-- Description: LT1175-5_SO8_DIP8
+- Name: Regulator_Linear : LT1175-5_SO8_DIP8
+- Description: Regulator_Linear : LT1175-5_SO8_DIP8
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT1175-5_SO8_DIP8](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT1175-5_SO8_DIP8)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARLT11755SO8DIP8](http://oom.lt/SZKREGULATORLINEARLT11755SO8DIP8)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LT1175-5_SO8_DIP8|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT1175-5_SO8_DIP8|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARLT11755SO8DIP8|
-|name|name|LT1175-5_SO8_DIP8|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LT1175-5_SO8_DIP8', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/1175ff.pdf', 'kicadSymbolki_keywords': 'linear regulator LDO negative fixed', 'kicadSymbolki_description': '500mA Negative Low Dropout Micropower Regulator, fixed output voltage -5V, SO-8/DIP-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm* DIP*W7.62mm*'}]|
+|name|name|Regulator_Linear : LT1175-5_SO8_DIP8|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LT1175-5_SO8_DIP8'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/1175ff.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'linear regulator LDO negative fixed'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '500mA Negative Low Dropout Micropower Regulator</td><td> fixed output voltage -5V</td><td> SO-8/DIP-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*3.9x4.9mm*P1.27mm* DIP*W7.62mm*'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKCONRAC45SGB > RAC04-05SGB
+# SZKCONRAC45SGB > Converter_ACDC : RAC04-05SGB
 
 - ID: SYMBOL-kicad-kicad-symbols-Converter_ACDC-RAC04-05SGB
 - Hex ID: SZKCONRAC45SGB
-- Name: RAC04-05SGB
-- Description: RAC04-05SGB
+- Name: Converter_ACDC : RAC04-05SGB
+- Description: Converter_ACDC : RAC04-05SGB
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_ACDC-RAC04-05SGB](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_ACDC-RAC04-05SGB)
 - Short Link: [http://oom.lt/SZKCONRAC45SGB](http://oom.lt/SZKCONRAC45SGB)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|RAC04-05SGB|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Converter_ACDC-RAC04-05SGB|
 |Hex ID (short code)|hexID|SZKCONRAC45SGB|
-|name|name|RAC04-05SGB|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'RAC04-xxSGB', 'kicadSymbolReference': 'PS', 'kicadSymbolValue': 'RAC04-05SGB', 'kicadSymbolFootprint': 'Converter_ACDC:Converter_ACDC_RECOM_RAC04-xxSGx_THT', 'kicadSymbolDatasheet': 'https://www.recom-power.com/pdf/Powerline-AC-DC/RAC04-GB.pdf', 'kicadSymbolki_keywords': 'ac dc power supply', 'kicadSymbolki_description': '4 Watt Single Output EMC Class B - 5V 800mA', 'kicadSymbolki_fp_filters': 'Converter*ACDC*RECOM*RAC04*SG*'}]|
+|name|name|Converter_ACDC : RAC04-05SGB|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'RAC04-xxSGB'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'PS'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'RAC04-05SGB'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Converter_ACDC</td></tr><tr><td>Converter_ACDC_RECOM_RAC04-xxSGx_THT'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.recom-power.com/pdf/Powerline-AC-DC/RAC04-GB.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'ac dc power supply'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '4 Watt Single Output EMC Class B - 5V 800mA'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Converter*ACDC*RECOM*RAC04*SG*'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKRELAYSOLIDSTATEMOC312M > MOC3012M
+# SZKRELAYSOLIDSTATEMOC312M > Relay_SolidState : MOC3012M
 
 - ID: SYMBOL-kicad-kicad-symbols-Relay_SolidState-MOC3012M
 - Hex ID: SZKRELAYSOLIDSTATEMOC312M
-- Name: MOC3012M
-- Description: MOC3012M
+- Name: Relay_SolidState : MOC3012M
+- Description: Relay_SolidState : MOC3012M
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay_SolidState-MOC3012M](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay_SolidState-MOC3012M)
 - Short Link: [http://oom.lt/SZKRELAYSOLIDSTATEMOC312M](http://oom.lt/SZKRELAYSOLIDSTATEMOC312M)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MOC3012M|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Relay_SolidState-MOC3012M|
 |Hex ID (short code)|hexID|SZKRELAYSOLIDSTATEMOC312M|
-|name|name|MOC3012M|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MOC3010M', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MOC3012M', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pub/Collateral/MOC3023M-D.PDF', 'kicadSymbolki_keywords': 'Opto-Triac Opto Triac Random Phase', 'kicadSymbolki_description': 'Random Phase Opto-Triac, Vdrm 250V, Ift 5mA, DIP6', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm* SMDIP*W9.53mm* DIP*W10.16mm*'}]|
+|name|name|Relay_SolidState : MOC3012M|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'MOC3010M'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MOC3012M'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.onsemi.com/pub/Collateral/MOC3023M-D.PDF'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Opto-Triac Opto Triac Random Phase'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Random Phase Opto-Triac</td><td> Vdrm 250V</td><td> Ift 5mA</td><td> DIP6'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W7.62mm* SMDIP*W9.53mm* DIP*W10.16mm*'</td></tr></table>]|
 ||||

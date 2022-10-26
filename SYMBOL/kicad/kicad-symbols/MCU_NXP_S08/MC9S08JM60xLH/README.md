@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUNXPS8MC9S8JM6XLH > MC9S08JM60xLH
+# SZKMCUNXPS8MC9S8JM6XLH > MCU_NXP_S08 : MC9S08JM60xLH
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_NXP_S08-MC9S08JM60xLH
 - Hex ID: SZKMCUNXPS8MC9S8JM6XLH
-- Name: MC9S08JM60xLH
-- Description: MC9S08JM60xLH
+- Name: MCU_NXP_S08 : MC9S08JM60xLH
+- Description: MCU_NXP_S08 : MC9S08JM60xLH
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_S08-MC9S08JM60xLH](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_S08-MC9S08JM60xLH)
 - Short Link: [http://oom.lt/SZKMCUNXPS8MC9S8JM6XLH](http://oom.lt/SZKMCUNXPS8MC9S8JM6XLH)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MC9S08JM60xLH|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_NXP_S08-MC9S08JM60xLH|
 |Hex ID (short code)|hexID|SZKMCUNXPS8MC9S8JM6XLH|
-|name|name|MC9S08JM60xLH|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'IC', 'kicadSymbolValue': 'MC9S08JM60xLH', 'kicadSymbolFootprint': 'Package_QFP:LQFP-64_10x10mm_P0.5mm', 'kicadSymbolDatasheet': 'http://cache.nxp.com/files/microcontrollers/doc/data_sheet/MC9S08JM60.pdf', 'kicadSymbolki_keywords': 'NXP S08 Microcontroller', 'kicadSymbolki_description': '8-bit USB Cost-Effective Microcontroller, S08 core, 60kB Flash, 4kB RAM, LQFP-64', 'kicadSymbolki_fp_filters': 'LQFP*10x10mm*P0.5mm*'}]|
+|name|name|MCU_NXP_S08 : MC9S08JM60xLH|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'IC'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MC9S08JM60xLH'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_QFP</td></tr><tr><td>LQFP-64_10x10mm_P0.5mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//cache.nxp.com/files/microcontrollers/doc/data_sheet/MC9S08JM60.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'NXP S08 Microcontroller'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '8-bit USB Cost-Effective Microcontroller</td><td> S08 core</td><td> 60kB Flash</td><td> 4kB RAM</td><td> LQFP-64'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'LQFP*10x10mm*P0.5mm*'</td></tr></table>]|
 ||||

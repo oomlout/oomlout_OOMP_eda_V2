@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORSWITCHINGMCP1651 > MCP1651
+# SZKREGULATORSWITCHINGMCP1651 > Regulator_Switching : MCP1651
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-MCP1651
 - Hex ID: SZKREGULATORSWITCHINGMCP1651
-- Name: MCP1651
-- Description: MCP1651
+- Name: Regulator_Switching : MCP1651
+- Description: Regulator_Switching : MCP1651
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-MCP1651](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-MCP1651)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGMCP1651](http://oom.lt/SZKREGULATORSWITCHINGMCP1651)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MCP1651|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-MCP1651|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGMCP1651|
-|name|name|MCP1651|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MCP1651', 'kicadSymbolFootprint': 'Package_SO:MSOP-8_3x3mm_P0.65mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/21876B.pdf', 'kicadSymbolki_keywords': 'boost controller', 'kicadSymbolki_description': '750 kHz Boost Controller, 3.3-100V output voltage, 5W, Low Battery Detection, MSOP-8', 'kicadSymbolki_fp_filters': 'MSOP*3x3mm*P0.65mm*'}]|
+|name|name|Regulator_Switching : MCP1651|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MCP1651'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>MSOP-8_3x3mm_P0.65mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/21876B.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'boost controller'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '750 kHz Boost Controller</td><td> 3.3-100V output voltage</td><td> 5W</td><td> Low Battery Detection</td><td> MSOP-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'MSOP*3x3mm*P0.65mm*'</td></tr></table>]|
 ||||

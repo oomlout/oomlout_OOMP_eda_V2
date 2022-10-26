@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDEVICETHERMISTORPTC > Thermistor_PTC
+# SZKDEVICETHERMISTORPTC > Device : Thermistor_PTC
 
 - ID: SYMBOL-kicad-kicad-symbols-Device-Thermistor_PTC
 - Hex ID: SZKDEVICETHERMISTORPTC
-- Name: Thermistor_PTC
-- Description: Thermistor_PTC
+- Name: Device : Thermistor_PTC
+- Description: Device : Thermistor_PTC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Thermistor_PTC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Thermistor_PTC)
 - Short Link: [http://oom.lt/SZKDEVICETHERMISTORPTC](http://oom.lt/SZKDEVICETHERMISTORPTC)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Thermistor_PTC|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-Thermistor_PTC|
 |Hex ID (short code)|hexID|SZKDEVICETHERMISTORPTC|
-|name|name|Thermistor_PTC|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'TH', 'kicadSymbolValue': 'Thermistor_PTC', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'resistor PTC thermistor sensor RTD', 'kicadSymbolki_description': 'Temperature dependent resistor, positive temperature coefficient', 'kicadSymbolki_fp_filters': '*PTC* *Thermistor* PIN?ARRAY* bornier* *Terminal?Block* R_*'}]|
+|name|name|Device : Thermistor_PTC|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'TH'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Thermistor_PTC'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'resistor PTC thermistor sensor RTD'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Temperature dependent resistor</td><td> positive temperature coefficient'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> '*PTC* *Thermistor* PIN?ARRAY* bornier* *Terminal?Block* R_*'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKSENCURRENTHO6NP > HO60-NP
+# SZKSENCURRENTHO6NP > Sensor_Current : HO60-NP
 
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Current-HO60-NP
 - Hex ID: SZKSENCURRENTHO6NP
-- Name: HO60-NP
-- Description: HO60-NP
+- Name: Sensor_Current : HO60-NP
+- Description: Sensor_Current : HO60-NP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-HO60-NP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-HO60-NP)
 - Short Link: [http://oom.lt/SZKSENCURRENTHO6NP](http://oom.lt/SZKSENCURRENTHO6NP)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|HO60-NP|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Current-HO60-NP|
 |Hex ID (short code)|hexID|SZKSENCURRENTHO6NP|
-|name|name|HO60-NP|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'HO40-NP', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'HO60-NP', 'kicadSymbolFootprint': 'Sensor_Current:LEM_HO40-NP', 'kicadSymbolDatasheet': 'https://www.lem.com/sites/default/files/products_datasheets/ho-np_0100__1100_series.pdf', 'kicadSymbolki_keywords': 'current transducer', 'kicadSymbolki_description': 'Current Transducer, 60A, Unipolar, 5V', 'kicadSymbolki_fp_filters': 'LEM*HO40*NP*'}]|
+|name|name|Sensor_Current : HO60-NP|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'HO40-NP'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'HO60-NP'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Sensor_Current</td></tr><tr><td>LEM_HO40-NP'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.lem.com/sites/default/files/products_datasheets/ho-np_0100__1100_series.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'current transducer'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Current Transducer</td><td> 60A</td><td> Unipolar</td><td> 5V'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'LEM*HO40*NP*'</td></tr></table>]|
 ||||

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Bourns_SRP2313AA|
 |Hex ID (short code)|hexID|FZKINDUCTORSMLBOURNSSRP2313AA|
 |name|name|Inductor_SMD : L_Bourns_SRP2313AA|
-|Footprint Kicad|footprintKicadDetails|{'name': 'L_Bourns_SRP2313AA', 'description': 'Bourns SRR1260 series SMD inductor http://www.bourns.com/docs/product-datasheets/srp2313aa.pdf', 'tags': 'Bourns SRR1260 SMD inductor', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Bourns_SRP2313AA.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'L_Bourns_SRP2313AA'</td><td> 'description'</td></tr><tr><td> 'Bourns SRR1260 series SMD inductor http</td></tr><tr><td>//www.bourns.com/docs/product-datasheets/srp2313aa.pdf'</td><td> 'tags'</td></tr><tr><td> 'Bourns SRR1260 SMD inductor'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Inductor_SMD.3dshapes/L_Bourns_SRP2313AA.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

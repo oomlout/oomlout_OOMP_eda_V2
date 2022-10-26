@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_DS10_D1.0mm_L4.3mm_Horizontal_1EP_style1|
 |Hex ID (short code)|hexID|FZKXXDS1D1L43HORIZONTAL1EPSTYLE1|
 |name|name|Crystal : Crystal_DS10_D1.0mm_L4.3mm_Horizontal_1EP_style1|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Crystal_DS10_D1.0mm_L4.3mm_Horizontal_1EP_style1', 'description': 'Crystal THT DS10 4.3mm length 1.0mm diameter http://www.microcrystal.com/images/_Product-Documentation/03_TF_metal_Packages/01_Datasheet/DS-Series.pdf', 'tags': "['DS10']", 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Crystal_DS10_D1.0mm_L4.3mm_Horizontal_1EP_style1.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Crystal_DS10_D1.0mm_L4.3mm_Horizontal_1EP_style1'</td><td> 'description'</td></tr><tr><td> 'Crystal THT DS10 4.3mm length 1.0mm diameter http</td></tr><tr><td>//www.microcrystal.com/images/_Product-Documentation/03_TF_metal_Packages/01_Datasheet/DS-Series.pdf'</td><td> 'tags'</td></tr><tr><td> "['DS10']"</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Crystal.3dshapes/Crystal_DS10_D1.0mm_L4.3mm_Horizontal_1EP_style1.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

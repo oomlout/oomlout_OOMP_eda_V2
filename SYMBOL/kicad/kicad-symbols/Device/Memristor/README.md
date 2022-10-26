@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDEVICEMEMRISTOR > Memristor
+# SZKDEVICEMEMRISTOR > Device : Memristor
 
 - ID: SYMBOL-kicad-kicad-symbols-Device-Memristor
 - Hex ID: SZKDEVICEMEMRISTOR
-- Name: Memristor
-- Description: Memristor
+- Name: Device : Memristor
+- Description: Device : Memristor
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Memristor](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Memristor)
 - Short Link: [http://oom.lt/SZKDEVICEMEMRISTOR](http://oom.lt/SZKDEVICEMEMRISTOR)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Memristor|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-Memristor|
 |Hex ID (short code)|hexID|SZKDEVICEMEMRISTOR|
-|name|name|Memristor|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'MR', 'kicadSymbolValue': 'Memristor', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'memristor', 'kicadSymbolki_description': 'Memristor'}]|
+|name|name|Device : Memristor|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'MR'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Memristor'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'memristor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Memristor'</td></tr></table>]|
 ||||

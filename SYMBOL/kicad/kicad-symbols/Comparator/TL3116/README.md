@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKCOMPARATORTL3116 > TL3116
+# SZKCOMPARATORTL3116 > Comparator : TL3116
 
 - ID: SYMBOL-kicad-kicad-symbols-Comparator-TL3116
 - Hex ID: SZKCOMPARATORTL3116
-- Name: TL3116
-- Description: TL3116
+- Name: Comparator : TL3116
+- Description: Comparator : TL3116
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Comparator-TL3116](http://oom.lt/SYMBOL-kicad-kicad-symbols-Comparator-TL3116)
 - Short Link: [http://oom.lt/SZKCOMPARATORTL3116](http://oom.lt/SZKCOMPARATORTL3116)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TL3116|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Comparator-TL3116|
 |Hex ID (short code)|hexID|SZKCOMPARATORTL3116|
-|name|name|TL3116|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TL3116', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tl3116.pdf', 'kicadSymbolki_keywords': 'cmp push-pull complementary', 'kicadSymbolki_description': 'Single Ultra-Fast Low-Power Precision Comparators, SOIC-8/TSSOP-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm* TSSOP*4.4x3mm*P0.65mm*'}]|
+|name|name|Comparator : TL3116|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TL3116'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/tl3116.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'cmp push-pull complementary'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Single Ultra-Fast Low-Power Precision Comparators</td><td> SOIC-8/TSSOP-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*3.9x4.9mm*P1.27mm* TSSOP*4.4x3mm*P0.65mm*'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORFETFDMT8152DC > FDMT800152DC
+# SZKTRANSISTORFETFDMT8152DC > Transistor_FET : FDMT800152DC
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-FDMT800152DC
 - Hex ID: SZKTRANSISTORFETFDMT8152DC
-- Name: FDMT800152DC
-- Description: FDMT800152DC
+- Name: Transistor_FET : FDMT800152DC
+- Description: Transistor_FET : FDMT800152DC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-FDMT800152DC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-FDMT800152DC)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETFDMT8152DC](http://oom.lt/SZKTRANSISTORFETFDMT8152DC)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|FDMT800152DC|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-FDMT800152DC|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETFDMT8152DC|
-|name|name|FDMT800152DC|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'FDMT80060DC', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'FDMT800152DC', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:PQFN_8x8', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pub/Collateral/FDMT800152DC-D.pdf', 'kicadSymbolki_keywords': 'dual-cool-powertrench MOSFET fairchild', 'kicadSymbolki_description': '13A Id, 150V Vds, N-Channel Dual Cool PowerTrench MOSFET, 9.0mOhm Ron, 83nC Qgmax, -55 to 150 °C, 8x8mm MLP', 'kicadSymbolki_fp_filters': 'PQFN*8x8*'}]|
+|name|name|Transistor_FET : FDMT800152DC|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'FDMT80060DC'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'FDMT800152DC'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>PQFN_8x8'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.onsemi.com/pub/Collateral/FDMT800152DC-D.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'dual-cool-powertrench MOSFET fairchild'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '13A Id</td><td> 150V Vds</td><td> N-Channel Dual Cool PowerTrench MOSFET</td><td> 9.0mOhm Ron</td><td> 83nC Qgmax</td><td> -55 to 150 °C</td><td> 8x8mm MLP'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'PQFN*8x8*'</td></tr></table>]|
 ||||

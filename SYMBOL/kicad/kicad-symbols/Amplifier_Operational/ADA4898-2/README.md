@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKAMPLIFIEROPERATIONALADA48982 > ADA4898-2
+# SZKAMPLIFIEROPERATIONALADA48982 > Amplifier_Operational : ADA4898-2
 
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-ADA4898-2
 - Hex ID: SZKAMPLIFIEROPERATIONALADA48982
-- Name: ADA4898-2
-- Description: ADA4898-2
+- Name: Amplifier_Operational : ADA4898-2
+- Description: Amplifier_Operational : ADA4898-2
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-ADA4898-2](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-ADA4898-2)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALADA48982](http://oom.lt/SZKAMPLIFIEROPERATIONALADA48982)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ADA4898-2|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Operational-ADA4898-2|
 |Hex ID (short code)|hexID|SZKAMPLIFIEROPERATIONALADA48982|
-|name|name|ADA4898-2|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ADA4898-2', 'kicadSymbolFootprint': 'Package_SO:SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.41x3.81mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/ada4898-1_4898-2.pdf', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'opamp dual low noise low distortion', 'kicadSymbolki_description': 'Dual High Voltage, Low Noise, Low Distortion, Unity-Gain Stable, High Speed Op Amp, SOIC-8-1EP', 'kicadSymbolki_fp_filters': 'SOIC*1EP*3.9x4.9mm*P1.27mm*'}]|
+|name|name|Amplifier_Operational : ADA4898-2|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ADA4898-2'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.41x3.81mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/ada4898-1_4898-2.pdf'</td><td> 'kicadSymbolki_locked'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'opamp dual low noise low distortion'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Dual High Voltage</td><td> Low Noise</td><td> Low Distortion</td><td> Unity-Gain Stable</td><td> High Speed Op Amp</td><td> SOIC-8-1EP'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*1EP*3.9x4.9mm*P1.27mm*'</td></tr></table>]|
 ||||

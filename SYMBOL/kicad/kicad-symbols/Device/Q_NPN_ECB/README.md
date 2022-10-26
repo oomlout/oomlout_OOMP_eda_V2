@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDEVICEQNPNECB > Q_NPN_ECB
+# SZKDEVICEQNPNECB > Device : Q_NPN_ECB
 
 - ID: SYMBOL-kicad-kicad-symbols-Device-Q_NPN_ECB
 - Hex ID: SZKDEVICEQNPNECB
-- Name: Q_NPN_ECB
-- Description: Q_NPN_ECB
+- Name: Device : Q_NPN_ECB
+- Description: Device : Q_NPN_ECB
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Q_NPN_ECB](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Q_NPN_ECB)
 - Short Link: [http://oom.lt/SZKDEVICEQNPNECB](http://oom.lt/SZKDEVICEQNPNECB)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Q_NPN_ECB|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-Q_NPN_ECB|
 |Hex ID (short code)|hexID|SZKDEVICEQNPNECB|
-|name|name|Q_NPN_ECB|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'Q_NPN_ECB', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'transistor NPN', 'kicadSymbolki_description': 'NPN transistor, emitter/collector/base'}]|
+|name|name|Device : Q_NPN_ECB|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Q_NPN_ECB'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'transistor NPN'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'NPN transistor</td><td> emitter/collector/base'</td></tr></table>]|
 ||||

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Toggle_Switch_100SP1T1B4M2QE|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSTOGGLESWITCH1SP1T1B4M2QE|
 |name|name|digikey-footprints : Toggle_Switch_100SP1T1B4M2QE|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Toggle_Switch_100SP1T1B4M2QE', 'description': 'http://spec_sheets.e-switch.com/specs/T111597.pdf', 'tags': None, 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Toggle_Switch_100SP1T1B4M2QE'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//spec_sheets.e-switch.com/specs/T111597.pdf'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

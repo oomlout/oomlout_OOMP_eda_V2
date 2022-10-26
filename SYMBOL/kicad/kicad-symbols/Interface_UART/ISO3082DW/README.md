@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKINTERFACEUARTISO382DW > ISO3082DW
+# SZKINTERFACEUARTISO382DW > Interface_UART : ISO3082DW
 
 - ID: SYMBOL-kicad-kicad-symbols-Interface_UART-ISO3082DW
 - Hex ID: SZKINTERFACEUARTISO382DW
-- Name: ISO3082DW
-- Description: ISO3082DW
+- Name: Interface_UART : ISO3082DW
+- Description: Interface_UART : ISO3082DW
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-ISO3082DW](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-ISO3082DW)
 - Short Link: [http://oom.lt/SZKINTERFACEUARTISO382DW](http://oom.lt/SZKINTERFACEUARTISO382DW)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ISO3082DW|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_UART-ISO3082DW|
 |Hex ID (short code)|hexID|SZKINTERFACEUARTISO382DW|
-|name|name|ISO3082DW|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ISO3082DW', 'kicadSymbolFootprint': 'Package_SO:SOIC-16W_7.5x10.3mm_P1.27mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/iso3082.pdf', 'kicadSymbolki_keywords': 'RS-485', 'kicadSymbolki_description': '200 kbps, Isolated 5-V Half-Duplex RS-485 transceiver, SOIC-16', 'kicadSymbolki_fp_filters': 'SOIC*7.5x10.3mm*P1.27mm*'}]|
+|name|name|Interface_UART : ISO3082DW|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ISO3082DW'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-16W_7.5x10.3mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/iso3082.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'RS-485'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '200 kbps</td><td> Isolated 5-V Half-Duplex RS-485 transceiver</td><td> SOIC-16'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*7.5x10.3mm*P1.27mm*'</td></tr></table>]|
 ||||

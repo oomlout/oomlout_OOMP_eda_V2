@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_DPDT_AXICOM_IMSeries_Pitch3.2mm|
 |Hex ID (short code)|hexID|FZKRELRELAYDPDTAXICOMIMSERIESPITCH32|
 |name|name|Relay_THT : Relay_DPDT_AXICOM_IMSeries_Pitch3.2mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Relay_DPDT_AXICOM_IMSeries_Pitch3.2mm', 'description': 'AXICOM IM-Series Relays, DPDR, Pitch 3.2mm, http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Specification+Or+Standard%7F108-98001%7FV%7Fpdf%7FEnglish%7FENG_SS_108-98001_V_IM_0614_v1.pdf%7F4-1462039-1', 'tags': 'AXICOM IM-Series Relay DPDR Pitch 3.2mm', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Relay_THT.3dshapes/Relay_DPDT_AXICOM_IMSeries_Pitch3.2mm.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Relay_DPDT_AXICOM_IMSeries_Pitch3.2mm'</td><td> 'description'</td></tr><tr><td> 'AXICOM IM-Series Relays</td><td> DPDR</td><td> Pitch 3.2mm</td><td> http</td></tr><tr><td>//www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Specification+Or+Standard%7F108-98001%7FV%7Fpdf%7FEnglish%7FENG_SS_108-98001_V_IM_0614_v1.pdf%7F4-1462039-1'</td><td> 'tags'</td></tr><tr><td> 'AXICOM IM-Series Relay DPDR Pitch 3.2mm'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Relay_THT.3dshapes/Relay_DPDT_AXICOM_IMSeries_Pitch3.2mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

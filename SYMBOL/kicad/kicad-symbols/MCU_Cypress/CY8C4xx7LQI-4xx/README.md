@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUCYPRESSCY8C4XX7LQI4XX > CY8C4xx7LQI-4xx
+# SZKMCUCYPRESSCY8C4XX7LQI4XX > MCU_Cypress : CY8C4xx7LQI-4xx
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Cypress-CY8C4xx7LQI-4xx
 - Hex ID: SZKMCUCYPRESSCY8C4XX7LQI4XX
-- Name: CY8C4xx7LQI-4xx
-- Description: CY8C4xx7LQI-4xx
+- Name: MCU_Cypress : CY8C4xx7LQI-4xx
+- Description: MCU_Cypress : CY8C4xx7LQI-4xx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Cypress-CY8C4xx7LQI-4xx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Cypress-CY8C4xx7LQI-4xx)
 - Short Link: [http://oom.lt/SZKMCUCYPRESSCY8C4XX7LQI4XX](http://oom.lt/SZKMCUCYPRESSCY8C4XX7LQI4XX)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|CY8C4xx7LQI-4xx|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Cypress-CY8C4xx7LQI-4xx|
 |Hex ID (short code)|hexID|SZKMCUCYPRESSCY8C4XX7LQI4XX|
-|name|name|CY8C4xx7LQI-4xx|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'CY8C4xx7LQI-4xx', 'kicadSymbolFootprint': 'Package_DFN_QFN:QFN-56-1EP_7x7mm_P0.4mm_EP5.6x5.6mm', 'kicadSymbolDatasheet': 'http://www.cypress.com/file/137466/download', 'kicadSymbolki_keywords': 'CYPRESS PSOC BLE CY8 CY8C4 ARM CORTEX M0 BLUETOOTH QFN', 'kicadSymbolki_description': 'Programmable System-on-Chip With Bluetooth Low Energy, 24/48-MHz ARM® Cortex®-M0 , 56-QFN', 'kicadSymbolki_fp_filters': 'QFN*1EP*7x7mm*P0.4mm*'}]|
+|name|name|MCU_Cypress : CY8C4xx7LQI-4xx|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'CY8C4xx7LQI-4xx'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>QFN-56-1EP_7x7mm_P0.4mm_EP5.6x5.6mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.cypress.com/file/137466/download'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'CYPRESS PSOC BLE CY8 CY8C4 ARM CORTEX M0 BLUETOOTH QFN'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Programmable System-on-Chip With Bluetooth Low Energy</td><td> 24/48-MHz ARM® Cortex®-M0 </td><td> 56-QFN'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'QFN*1EP*7x7mm*P0.4mm*'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKCNGENERICCONN2X1 > Conn_02x01
+# SZKCNGENERICCONN2X1 > Connector_Generic : Conn_02x01
 
 - ID: SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x01
 - Hex ID: SZKCNGENERICCONN2X1
-- Name: Conn_02x01
-- Description: Conn_02x01
+- Name: Connector_Generic : Conn_02x01
+- Description: Connector_Generic : Conn_02x01
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x01](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x01)
 - Short Link: [http://oom.lt/SZKCNGENERICCONN2X1](http://oom.lt/SZKCNGENERICCONN2X1)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Conn_02x01|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x01|
 |Hex ID (short code)|hexID|SZKCNGENERICCONN2X1|
-|name|name|Conn_02x01|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'Conn_02x01', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'connector', 'kicadSymbolki_description': 'Generic connector, double row, 02x01, this symbol is compatible with counter-clockwise, top-bottom and odd-even numbering schemes., script generated (kicad-library-utils/schlib/autogen/connector/)', 'kicadSymbolki_fp_filters': 'Connector*:*_2x??_*'}]|
+|name|name|Connector_Generic : Conn_02x01|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'J'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Conn_02x01'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'connector'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Generic connector</td><td> double row</td><td> 02x01</td><td> this symbol is compatible with counter-clockwise</td><td> top-bottom and odd-even numbering schemes.</td><td> script generated (kicad-library-utils/schlib/autogen/connector/)'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Connector*</td></tr><tr><td>*_2x??_*'</td></tr></table>]|
 ||||

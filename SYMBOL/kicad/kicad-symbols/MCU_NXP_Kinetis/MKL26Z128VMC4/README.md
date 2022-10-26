@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUNXPKINETISMKL26Z128VMC4 > MKL26Z128VMC4
+# SZKMCUNXPKINETISMKL26Z128VMC4 > MCU_NXP_Kinetis : MKL26Z128VMC4
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_NXP_Kinetis-MKL26Z128VMC4
 - Hex ID: SZKMCUNXPKINETISMKL26Z128VMC4
-- Name: MKL26Z128VMC4
-- Description: MKL26Z128VMC4
+- Name: MCU_NXP_Kinetis : MKL26Z128VMC4
+- Description: MCU_NXP_Kinetis : MKL26Z128VMC4
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_Kinetis-MKL26Z128VMC4](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_Kinetis-MKL26Z128VMC4)
 - Short Link: [http://oom.lt/SZKMCUNXPKINETISMKL26Z128VMC4](http://oom.lt/SZKMCUNXPKINETISMKL26Z128VMC4)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MKL26Z128VMC4|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_NXP_Kinetis-MKL26Z128VMC4|
 |Hex ID (short code)|hexID|SZKMCUNXPKINETISMKL26Z128VMC4|
-|name|name|MKL26Z128VMC4|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MKL26Z256VMC4', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MKL26Z128VMC4', 'kicadSymbolFootprint': 'Package_BGA:XFBGA-121_8x8mm_Layout11x11_P0.65mm', 'kicadSymbolDatasheet': 'http://www.nxp.com/docs/en/data-sheet/KL26P121M48SF4.pdf', 'kicadSymbolki_keywords': 'Kinetis KL26 ARM Cortex M0+', 'kicadSymbolki_description': 'Kinetis KL26 series, 48-MHz/32-bit ARM Cortex-M0+, 128 kB flash, 16 kB SRAM, USB FS Device/OTG, XFBGA-121', 'kicadSymbolki_fp_filters': 'XFBGA*8x8mm*P0.65mm*'}]|
+|name|name|MCU_NXP_Kinetis : MKL26Z128VMC4|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'MKL26Z256VMC4'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MKL26Z128VMC4'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_BGA</td></tr><tr><td>XFBGA-121_8x8mm_Layout11x11_P0.65mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.nxp.com/docs/en/data-sheet/KL26P121M48SF4.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Kinetis KL26 ARM Cortex M0+'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Kinetis KL26 series</td><td> 48-MHz/32-bit ARM Cortex-M0+</td><td> 128 kB flash</td><td> 16 kB SRAM</td><td> USB FS Device/OTG</td><td> XFBGA-121'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'XFBGA*8x8mm*P0.65mm*'</td></tr></table>]|
 ||||

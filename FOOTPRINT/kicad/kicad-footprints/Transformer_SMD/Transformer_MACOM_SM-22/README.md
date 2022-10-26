@@ -29,5 +29,5 @@ NO IMAGE
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Transformer_MACOM_SM-22|
 |Hex ID (short code)|hexID|FZKTRSMTRMACOMSM22|
 |name|name|Transformer_SMD : Transformer_MACOM_SM-22|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Transformer_MACOM_SM-22', 'description': 'https://cdn.macom.com/datasheets/ETC1-1-13.pdf', 'tags': 'RF Transformer', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Transformer_SMD.3dshapes/Transformer_MACOM_SM-22.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Transformer_MACOM_SM-22'</td><td> 'description'</td></tr><tr><td> 'https</td></tr><tr><td>//cdn.macom.com/datasheets/ETC1-1-13.pdf'</td><td> 'tags'</td></tr><tr><td> 'RF Transformer'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Transformer_SMD.3dshapes/Transformer_MACOM_SM-22.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

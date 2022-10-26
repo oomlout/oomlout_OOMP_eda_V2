@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_B_OST_USB-B1HSxx_Horizontal|
 |Hex ID (short code)|hexID|FZKCNUUBOSTUB1HSXXHORIZONTAL|
 |name|name|Connector_USB : USB_B_OST_USB-B1HSxx_Horizontal|
-|Footprint Kicad|footprintKicadDetails|{'name': 'USB_B_OST_USB-B1HSxx_Horizontal', 'description': 'USB B receptacle, Horizontal, through-hole, http://www.on-shore.com/wp-content/uploads/2015/09/usb-b1hsxx.pdf', 'tags': 'USB-B receptacle horizontal through-hole', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_USB.3dshapes/USB_B_OST_USB-B1HSxx_Horizontal.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'USB_B_OST_USB-B1HSxx_Horizontal'</td><td> 'description'</td></tr><tr><td> 'USB B receptacle</td><td> Horizontal</td><td> through-hole</td><td> http</td></tr><tr><td>//www.on-shore.com/wp-content/uploads/2015/09/usb-b1hsxx.pdf'</td><td> 'tags'</td></tr><tr><td> 'USB-B receptacle horizontal through-hole'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_USB.3dshapes/USB_B_OST_USB-B1HSxx_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

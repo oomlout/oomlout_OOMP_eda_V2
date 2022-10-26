@@ -29,5 +29,5 @@ NO IMAGE
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-RF_Module-RFDigital_RFD77101|
 |Hex ID (short code)|hexID|FZKRFMORFDIGITALRFD7711|
 |name|name|RF_Module : RFDigital_RFD77101|
-|Footprint Kicad|footprintKicadDetails|{'name': 'RFDigital_RFD77101', 'description': 'RFDigital RFD77101 Simblee', 'tags': 'RFDigital RFD77101 Simblee', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/RF_Module.3dshapes/RFDigital_RFD77101.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'RFDigital_RFD77101'</td><td> 'description'</td></tr><tr><td> 'RFDigital RFD77101 Simblee'</td><td> 'tags'</td></tr><tr><td> 'RFDigital RFD77101 Simblee'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/RF_Module.3dshapes/RFDigital_RFD77101.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREFERENCEVOLTAGELM4132XMF18 > LM4132xMF-1.8
+# SZKREFERENCEVOLTAGELM4132XMF18 > Reference_Voltage : LM4132xMF-1.8
 
 - ID: SYMBOL-kicad-kicad-symbols-Reference_Voltage-LM4132xMF-1.8
 - Hex ID: SZKREFERENCEVOLTAGELM4132XMF18
-- Name: LM4132xMF-1.8
-- Description: LM4132xMF-1.8
+- Name: Reference_Voltage : LM4132xMF-1.8
+- Description: Reference_Voltage : LM4132xMF-1.8
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-LM4132xMF-1.8](http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-LM4132xMF-1.8)
 - Short Link: [http://oom.lt/SZKREFERENCEVOLTAGELM4132XMF18](http://oom.lt/SZKREFERENCEVOLTAGELM4132XMF18)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM4132xMF-1.8|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Reference_Voltage-LM4132xMF-1.8|
 |Hex ID (short code)|hexID|SZKREFERENCEVOLTAGELM4132XMF18|
-|name|name|LM4132xMF-1.8|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM4132xMF-1.8', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-5', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lm4132.pdf', 'kicadSymbolki_keywords': 'Precision Low Dropout Voltage Reference 1.8V', 'kicadSymbolki_description': 'Precision Low Dropout Voltage Reference, 1.8V, ±0.05% to ±0.5%, SOT-23-5', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
+|name|name|Reference_Voltage : LM4132xMF-1.8|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LM4132xMF-1.8'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-23-5'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/lm4132.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Precision Low Dropout Voltage Reference 1.8V'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Precision Low Dropout Voltage Reference</td><td> 1.8V</td><td> ±0.05% to ±0.5%</td><td> SOT-23-5'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23*'</td></tr></table>]|
 ||||

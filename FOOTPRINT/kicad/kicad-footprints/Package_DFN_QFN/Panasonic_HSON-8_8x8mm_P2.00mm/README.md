@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Panasonic_HSON-8_8x8mm_P2.00mm|
 |Hex ID (short code)|hexID|FZKDFNPHSON88X8P2|
 |name|name|Package_DFN_QFN : Panasonic_HSON-8_8x8mm_P2.00mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Panasonic_HSON-8_8x8mm_P2.00mm', 'description': 'Panasonic HSON-8, 8x8x1.25mm (https://industrial.panasonic.com/content/data/SC/ds/ds7/c0/PKG_HSON008-A-0808XXI_EN.pdf)', 'tags': 'panasonic hson', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Panasonic_HSON-8_8x8mm_P2.00mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Panasonic_HSON-8_8x8mm_P2.00mm'</td><td> 'description'</td></tr><tr><td> 'Panasonic HSON-8</td><td> 8x8x1.25mm (https</td></tr><tr><td>//industrial.panasonic.com/content/data/SC/ds/ds7/c0/PKG_HSON008-A-0808XXI_EN.pdf)'</td><td> 'tags'</td></tr><tr><td> 'panasonic hson'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DFN_QFN.3dshapes/Panasonic_HSON-8_8x8mm_P2.00mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

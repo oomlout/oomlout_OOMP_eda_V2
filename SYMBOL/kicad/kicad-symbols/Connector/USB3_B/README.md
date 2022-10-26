@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKCNU3B > USB3_B
+# SZKCNU3B > Connector : USB3_B
 
 - ID: SYMBOL-kicad-kicad-symbols-Connector-USB3_B
 - Hex ID: SZKCNU3B
-- Name: USB3_B
-- Description: USB3_B
+- Name: Connector : USB3_B
+- Description: Connector : USB3_B
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-USB3_B](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-USB3_B)
 - Short Link: [http://oom.lt/SZKCNU3B](http://oom.lt/SZKCNU3B)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|USB3_B|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-USB3_B|
 |Hex ID (short code)|hexID|SZKCNU3B|
-|name|name|USB3_B|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'USB3_B', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'usb universal serial bus', 'kicadSymbolki_description': 'USB 3.0 B connector'}]|
+|name|name|Connector : USB3_B|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'J'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'USB3_B'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'usb universal serial bus'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'USB 3.0 B connector'</td></tr></table>]|
 ||||

@@ -29,5 +29,5 @@ NO IMAGE
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-RF_Antenna-Coilcraft_MA5532-AE_RFID|
 |Hex ID (short code)|hexID|FZKRFCOILCRAFTMA5532AERFID|
 |name|name|RF_Antenna : Coilcraft_MA5532-AE_RFID|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Coilcraft_MA5532-AE_RFID', 'description': 'RFID Transponder Coil', 'tags': 'antenna rfid coilcraft', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/RF_Antenna.3dshapes/Coilcraft_MA5532-AE_RFID.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Coilcraft_MA5532-AE_RFID'</td><td> 'description'</td></tr><tr><td> 'RFID Transponder Coil'</td><td> 'tags'</td></tr><tr><td> 'antenna rfid coilcraft'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/RF_Antenna.3dshapes/Coilcraft_MA5532-AE_RFID.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

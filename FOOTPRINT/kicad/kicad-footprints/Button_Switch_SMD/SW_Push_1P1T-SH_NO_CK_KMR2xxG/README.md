@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_Push_1P1T-SH_NO_CK_KMR2xxG|
 |Hex ID (short code)|hexID|FZKBSWITCHSMSWPUSH1P1TSHNOCKKMR2XXG|
 |name|name|Button_Switch_SMD : SW_Push_1P1T-SH_NO_CK_KMR2xxG|
-|Footprint Kicad|footprintKicadDetails|{'name': 'SW_Push_1P1T-SH_NO_CK_KMR2xxG', 'description': 'CK components KMR2 tactile switch with ground pin http://www.ckswitches.com/media/1479/kmr2.pdf', 'tags': 'tactile switch kmr2', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_Push_1P1T-SH_NO_CK_KMR2xxG.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SW_Push_1P1T-SH_NO_CK_KMR2xxG'</td><td> 'description'</td></tr><tr><td> 'CK components KMR2 tactile switch with ground pin http</td></tr><tr><td>//www.ckswitches.com/media/1479/kmr2.pdf'</td><td> 'tags'</td></tr><tr><td> 'tactile switch kmr2'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Button_Switch_SMD.3dshapes/SW_Push_1P1T-SH_NO_CK_KMR2xxG.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

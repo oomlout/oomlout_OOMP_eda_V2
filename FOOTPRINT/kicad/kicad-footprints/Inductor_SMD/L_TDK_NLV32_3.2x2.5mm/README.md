@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_TDK_NLV32_3.2x2.5mm|
 |Hex ID (short code)|hexID|FZKINDUCTORSMLTDKNLV3232X25|
 |name|name|Inductor_SMD : L_TDK_NLV32_3.2x2.5mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'L_TDK_NLV32_3.2x2.5mm', 'description': 'TDK NLV32, 3.2x2.5x2.2mm, https://product.tdk.com/info/en/catalog/datasheets/inductor_commercial_standard_nlv32-ef_en.pdf', 'tags': 'tdk nlv32 nlcv32 nlfv32', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_TDK_NLV32_3.2x2.5mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'L_TDK_NLV32_3.2x2.5mm'</td><td> 'description'</td></tr><tr><td> 'TDK NLV32</td><td> 3.2x2.5x2.2mm</td><td> https</td></tr><tr><td>//product.tdk.com/info/en/catalog/datasheets/inductor_commercial_standard_nlv32-ef_en.pdf'</td><td> 'tags'</td></tr><tr><td> 'tdk nlv32 nlcv32 nlfv32'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Inductor_SMD.3dshapes/L_TDK_NLV32_3.2x2.5mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

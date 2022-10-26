@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUMCHIPATMEGAATXMEGA384C3M > ATxmega384C3-M
+# SZKMCUMCHIPATMEGAATXMEGA384C3M > MCU_Microchip_ATmega : ATxmega384C3-M
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATxmega384C3-M
 - Hex ID: SZKMCUMCHIPATMEGAATXMEGA384C3M
-- Name: ATxmega384C3-M
-- Description: ATxmega384C3-M
+- Name: MCU_Microchip_ATmega : ATxmega384C3-M
+- Description: MCU_Microchip_ATmega : ATxmega384C3-M
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATxmega384C3-M](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATxmega384C3-M)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATMEGAATXMEGA384C3M](http://oom.lt/SZKMCUMCHIPATMEGAATXMEGA384C3M)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ATxmega384C3-M|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATxmega384C3-M|
 |Hex ID (short code)|hexID|SZKMCUMCHIPATMEGAATXMEGA384C3M|
-|name|name|ATxmega384C3-M|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ATxmega32C3-M', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ATxmega384C3-M', 'kicadSymbolFootprint': 'Package_DFN_QFN:QFN-64-1EP_9x9mm_P0.5mm_EP7.65x7.65mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-8361-8-and-16-bit-AVR-XMEGA-Microcontrollers-ATxmega384C3_Datasheet.pdf', 'kicadSymbolki_keywords': 'AVR 8/16bit Microcontroller XMegaAVR', 'kicadSymbolki_description': '32MHz, 384kB Flash, 8kB Boot, 32kB SRAM, 4kB EEPROM, JTAG, USB, QFN-64', 'kicadSymbolki_fp_filters': 'QFN*1EP*9x9mm*P0.5mm*'}]|
+|name|name|MCU_Microchip_ATmega : ATxmega384C3-M|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'ATxmega32C3-M'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ATxmega384C3-M'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>QFN-64-1EP_9x9mm_P0.5mm_EP7.65x7.65mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/Atmel-8361-8-and-16-bit-AVR-XMEGA-Microcontrollers-ATxmega384C3_Datasheet.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'AVR 8/16bit Microcontroller XMegaAVR'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '32MHz</td><td> 384kB Flash</td><td> 8kB Boot</td><td> 32kB SRAM</td><td> 4kB EEPROM</td><td> JTAG</td><td> USB</td><td> QFN-64'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'QFN*1EP*9x9mm*P0.5mm*'</td></tr></table>]|
 ||||

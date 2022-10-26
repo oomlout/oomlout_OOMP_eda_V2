@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMEMORYRAMIDT724 > IDT7204
+# SZKMEMORYRAMIDT724 > Memory_RAM : IDT7204
 
 - ID: SYMBOL-kicad-kicad-symbols-Memory_RAM-IDT7204
 - Hex ID: SZKMEMORYRAMIDT724
-- Name: IDT7204
-- Description: IDT7204
+- Name: Memory_RAM : IDT7204
+- Description: Memory_RAM : IDT7204
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_RAM-IDT7204](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_RAM-IDT7204)
 - Short Link: [http://oom.lt/SZKMEMORYRAMIDT724](http://oom.lt/SZKMEMORYRAMIDT724)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IDT7204|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Memory_RAM-IDT7204|
 |Hex ID (short code)|hexID|SZKMEMORYRAMIDT724|
-|name|name|IDT7204|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'IDT7204', 'kicadSymbolFootprint': 'Package_DIP:DIP-28_W7.62mm', 'kicadSymbolDatasheet': 'http://www.idt.com/document/7203-7208-datasheet', 'kicadSymbolki_keywords': 'asynchronous fifo memory', 'kicadSymbolki_description': '4096x9 CMOS Asynchronous FIFO, DIP-28', 'kicadSymbolki_fp_filters': 'DIP*7.62mm*'}]|
+|name|name|Memory_RAM : IDT7204|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'IDT7204'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>DIP-28_W7.62mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.idt.com/document/7203-7208-datasheet'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'asynchronous fifo memory'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '4096x9 CMOS Asynchronous FIFO</td><td> DIP-28'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*7.62mm*'</td></tr></table>]|
 ||||

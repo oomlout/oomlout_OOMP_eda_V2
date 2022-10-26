@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORFETBSB15N4NX3 > BSB015N04NX3
+# SZKTRANSISTORFETBSB15N4NX3 > Transistor_FET : BSB015N04NX3
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-BSB015N04NX3
 - Hex ID: SZKTRANSISTORFETBSB15N4NX3
-- Name: BSB015N04NX3
-- Description: BSB015N04NX3
+- Name: Transistor_FET : BSB015N04NX3
+- Description: Transistor_FET : BSB015N04NX3
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BSB015N04NX3](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BSB015N04NX3)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETBSB15N4NX3](http://oom.lt/SZKTRANSISTORFETBSB15N4NX3)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BSB015N04NX3|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-BSB015N04NX3|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETBSB15N4NX3|
-|name|name|BSB015N04NX3|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BSB008NE2LX', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'BSB015N04NX3', 'kicadSymbolFootprint': 'Package_DirectFET:DirectFET_MX', 'kicadSymbolDatasheet': 'https://www.infineon.com/dgdl/Infineon-BSB015N04NX3G-DS-v02_04-en.pdf?fileId=db3a304320d39d590121a03bbfcd7aac', 'kicadSymbolki_keywords': 'N-Channel MOSFET', 'kicadSymbolki_description': '180A Id, 40V Vds, 1.5mOhm Rds, N-Channel MOSFET, DirectFET MX', 'kicadSymbolki_fp_filters': 'DirectFET*MX*'}]|
+|name|name|Transistor_FET : BSB015N04NX3|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'BSB008NE2LX'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'BSB015N04NX3'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DirectFET</td></tr><tr><td>DirectFET_MX'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.infineon.com/dgdl/Infineon-BSB015N04NX3G-DS-v02_04-en.pdf?fileId=db3a304320d39d590121a03bbfcd7aac'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'N-Channel MOSFET'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '180A Id</td><td> 40V Vds</td><td> 1.5mOhm Rds</td><td> N-Channel MOSFET</td><td> DirectFET MX'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DirectFET*MX*'</td></tr></table>]|
 ||||

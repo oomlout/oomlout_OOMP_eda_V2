@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDICHARACTERHDSP788 > HDSP-7808
+# SZKDICHARACTERHDSP788 > Display_Character : HDSP-7808
 
 - ID: SYMBOL-kicad-kicad-symbols-Display_Character-HDSP-7808
 - Hex ID: SZKDICHARACTERHDSP788
-- Name: HDSP-7808
-- Description: HDSP-7808
+- Name: Display_Character : HDSP-7808
+- Description: Display_Character : HDSP-7808
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-HDSP-7808](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-HDSP-7808)
 - Short Link: [http://oom.lt/SZKDICHARACTERHDSP788](http://oom.lt/SZKDICHARACTERHDSP788)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|HDSP-7808|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Display_Character-HDSP-7808|
 |Hex ID (short code)|hexID|SZKDICHARACTERHDSP788|
-|name|name|HDSP-7808|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'HDSP-7808', 'kicadSymbolFootprint': 'Display_7Segment:HDSP-7807', 'kicadSymbolDatasheet': 'https://docs.broadcom.com/docs/AV02-2553EN', 'kicadSymbolki_keywords': 'display LED 7-segment', 'kicadSymbolki_description': '+-1 overflow 7 segment green, common cathode', 'kicadSymbolki_fp_filters': 'HDSP?7807*'}]|
+|name|name|Display_Character : HDSP-7808|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'HDSP-7808'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Display_7Segment</td></tr><tr><td>HDSP-7807'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//docs.broadcom.com/docs/AV02-2553EN'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'display LED 7-segment'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '+-1 overflow 7 segment green</td><td> common cathode'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'HDSP?7807*'</td></tr></table>]|
 ||||

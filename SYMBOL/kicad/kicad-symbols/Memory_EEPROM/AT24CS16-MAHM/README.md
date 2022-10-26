@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMEMORYEEPROMAT24CS16MAHM > AT24CS16-MAHM
+# SZKMEMORYEEPROMAT24CS16MAHM > Memory_EEPROM : AT24CS16-MAHM
 
 - ID: SYMBOL-kicad-kicad-symbols-Memory_EEPROM-AT24CS16-MAHM
 - Hex ID: SZKMEMORYEEPROMAT24CS16MAHM
-- Name: AT24CS16-MAHM
-- Description: AT24CS16-MAHM
+- Name: Memory_EEPROM : AT24CS16-MAHM
+- Description: Memory_EEPROM : AT24CS16-MAHM
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_EEPROM-AT24CS16-MAHM](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_EEPROM-AT24CS16-MAHM)
 - Short Link: [http://oom.lt/SZKMEMORYEEPROMAT24CS16MAHM](http://oom.lt/SZKMEMORYEEPROMAT24CS16MAHM)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AT24CS16-MAHM|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Memory_EEPROM-AT24CS16-MAHM|
 |Hex ID (short code)|hexID|SZKMEMORYEEPROMAT24CS16MAHM|
-|name|name|AT24CS16-MAHM|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AT24CS16-MAHM', 'kicadSymbolFootprint': 'Package_DFN_QFN:DFN-8-1EP_3x2mm_P0.5mm_EP1.3x1.5mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-8859-SEEPROM-AT24CS16-Datasheet.pdf', 'kicadSymbolki_keywords': 'I2C Serial EEPROM Nonvolatile Memory', 'kicadSymbolki_description': 'I2C Serial EEPROM, 16Kb (2048x8) with Unique Serial Number, UDFN8', 'kicadSymbolki_fp_filters': 'DFN*3x2mm*P0.5mm*'}]|
+|name|name|Memory_EEPROM : AT24CS16-MAHM|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'AT24CS16-MAHM'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>DFN-8-1EP_3x2mm_P0.5mm_EP1.3x1.5mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/Atmel-8859-SEEPROM-AT24CS16-Datasheet.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'I2C Serial EEPROM Nonvolatile Memory'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'I2C Serial EEPROM</td><td> 16Kb (2048x8) with Unique Serial Number</td><td> UDFN8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DFN*3x2mm*P0.5mm*'</td></tr></table>]|
 ||||

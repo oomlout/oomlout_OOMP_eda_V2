@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKAMPLIFIERAUDIOLME496 > LME49600
+# SZKAMPLIFIERAUDIOLME496 > Amplifier_Audio : LME49600
 
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Audio-LME49600
 - Hex ID: SZKAMPLIFIERAUDIOLME496
-- Name: LME49600
-- Description: LME49600
+- Name: Amplifier_Audio : LME49600
+- Description: Amplifier_Audio : LME49600
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-LME49600](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-LME49600)
 - Short Link: [http://oom.lt/SZKAMPLIFIERAUDIOLME496](http://oom.lt/SZKAMPLIFIERAUDIOLME496)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LME49600|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Audio-LME49600|
 |Hex ID (short code)|hexID|SZKAMPLIFIERAUDIOLME496|
-|name|name|LME49600|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LME49600', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TO-263-5_TabPin3', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lme49600.pdf', 'kicadSymbolki_keywords': 'audio buffer amplifier', 'kicadSymbolki_description': 'High-Performance, High-Fidelity, High-Current Headphone Buffer, 250mA, TO-263', 'kicadSymbolki_fp_filters': 'TO?263*'}]|
+|name|name|Amplifier_Audio : LME49600|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LME49600'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>TO-263-5_TabPin3'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/lme49600.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'audio buffer amplifier'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'High-Performance</td><td> High-Fidelity</td><td> High-Current Headphone Buffer</td><td> 250mA</td><td> TO-263'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TO?263*'</td></tr></table>]|
 ||||

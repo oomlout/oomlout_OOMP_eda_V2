@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKAMPLIFIERAUDIOSSM217P > SSM2017P
+# SZKAMPLIFIERAUDIOSSM217P > Amplifier_Audio : SSM2017P
 
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Audio-SSM2017P
 - Hex ID: SZKAMPLIFIERAUDIOSSM217P
-- Name: SSM2017P
-- Description: SSM2017P
+- Name: Amplifier_Audio : SSM2017P
+- Description: Amplifier_Audio : SSM2017P
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-SSM2017P](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-SSM2017P)
 - Short Link: [http://oom.lt/SZKAMPLIFIERAUDIOSSM217P](http://oom.lt/SZKAMPLIFIERAUDIOSSM217P)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SSM2017P|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Audio-SSM2017P|
 |Hex ID (short code)|hexID|SZKAMPLIFIERAUDIOSSM217P|
-|name|name|SSM2017P|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'SSM2017P', 'kicadSymbolFootprint': 'Package_DIP:DIP-8_W7.62mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/obsolete-data-sheets/139484016SSM2017.pdf', 'kicadSymbolki_keywords': 'audio preamplifier', 'kicadSymbolki_description': 'Self-Contained Audio Preamplifier, DIP-8', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
+|name|name|Amplifier_Audio : SSM2017P|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'SSM2017P'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>DIP-8_W7.62mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/obsolete-data-sheets/139484016SSM2017.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'audio preamplifier'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Self-Contained Audio Preamplifier</td><td> DIP-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W7.62mm*'</td></tr></table>]|
 ||||

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Relay_Reed_9007-05-00|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSRELAYREED975|
 |name|name|digikey-footprints : Relay_Reed_9007-05-00|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Relay_Reed_9007-05-00', 'description': 'https://media.digikey.com/pdf/Data%20Sheets/Coto%20Technology%20PDFS/9000_Spartan_Series.pdf', 'tags': None, 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Relay_Reed_9007-05-00'</td><td> 'description'</td></tr><tr><td> 'https</td></tr><tr><td>//media.digikey.com/pdf/Data%20Sheets/Coto%20Technology%20PDFS/9000_Spartan_Series.pdf'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORLINEARMIC536533YD5 > MIC5365-3.3YD5
+# SZKREGULATORLINEARMIC536533YD5 > Regulator_Linear : MIC5365-3.3YD5
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-MIC5365-3.3YD5
 - Hex ID: SZKREGULATORLINEARMIC536533YD5
-- Name: MIC5365-3.3YD5
-- Description: MIC5365-3.3YD5
+- Name: Regulator_Linear : MIC5365-3.3YD5
+- Description: Regulator_Linear : MIC5365-3.3YD5
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-MIC5365-3.3YD5](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-MIC5365-3.3YD5)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARMIC536533YD5](http://oom.lt/SZKREGULATORLINEARMIC536533YD5)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MIC5365-3.3YD5|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-MIC5365-3.3YD5|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARMIC536533YD5|
-|name|name|MIC5365-3.3YD5|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MIC5365-3.3YD5', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-5', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/mic5365.pdf', 'kicadSymbolki_keywords': 'Micrel LDO voltage regulator', 'kicadSymbolki_description': '150mA Low-dropout Voltage Regulator, Vout 3.3V, Vin up to 5.5V, SOT-23-5', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
+|name|name|Regulator_Linear : MIC5365-3.3YD5|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MIC5365-3.3YD5'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-23-5'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/mic5365.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Micrel LDO voltage regulator'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '150mA Low-dropout Voltage Regulator</td><td> Vout 3.3V</td><td> Vin up to 5.5V</td><td> SOT-23-5'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23*'</td></tr></table>]|
 ||||

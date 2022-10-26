@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_3.5mm|
 |Hex ID (short code)|hexID|FZKHOLHOL35|
 |name|name|MountingHole : MountingHole_3.5mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'MountingHole_3.5mm', 'description': 'Mounting Hole 3.5mm, no annular', 'tags': 'mounting hole 3.5mm no annular', 'attributeType': None, 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'MountingHole_3.5mm'</td><td> 'description'</td></tr><tr><td> 'Mounting Hole 3.5mm</td><td> no annular'</td><td> 'tags'</td></tr><tr><td> 'mounting hole 3.5mm no annular'</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

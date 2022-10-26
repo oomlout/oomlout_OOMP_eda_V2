@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKANALOGSWITCHDG441XJ > DG441xJ
+# SZKANALOGSWITCHDG441XJ > Analog_Switch : DG441xJ
 
 - ID: SYMBOL-kicad-kicad-symbols-Analog_Switch-DG441xJ
 - Hex ID: SZKANALOGSWITCHDG441XJ
-- Name: DG441xJ
-- Description: DG441xJ
+- Name: Analog_Switch : DG441xJ
+- Description: Analog_Switch : DG441xJ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-DG441xJ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-DG441xJ)
 - Short Link: [http://oom.lt/SZKANALOGSWITCHDG441XJ](http://oom.lt/SZKANALOGSWITCHDG441XJ)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DG441xJ|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_Switch-DG441xJ|
 |Hex ID (short code)|hexID|SZKANALOGSWITCHDG441XJ|
-|name|name|DG441xJ|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'DG309xJ', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'DG441xJ', 'kicadSymbolFootprint': 'Package_DIP:DIP-16_W7.62mm', 'kicadSymbolDatasheet': 'https://datasheets.maximintegrated.com/en/ds/DG441-DG442.pdf', 'kicadSymbolki_keywords': 'CMOS Analog Switch', 'kicadSymbolki_description': 'Quad SPST Analog Switches, normally ON, 60Ohm Ron, DIP-16', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
+|name|name|Analog_Switch : DG441xJ|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'DG309xJ'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'DG441xJ'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>DIP-16_W7.62mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//datasheets.maximintegrated.com/en/ds/DG441-DG442.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'CMOS Analog Switch'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Quad SPST Analog Switches</td><td> normally ON</td><td> 60Ohm Ron</td><td> DIP-16'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W7.62mm*'</td></tr></table>]|
 ||||

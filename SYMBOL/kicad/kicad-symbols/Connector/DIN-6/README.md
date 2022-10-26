@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKCNDIN6 > DIN-6
+# SZKCNDIN6 > Connector : DIN-6
 
 - ID: SYMBOL-kicad-kicad-symbols-Connector-DIN-6
 - Hex ID: SZKCNDIN6
-- Name: DIN-6
-- Description: DIN-6
+- Name: Connector : DIN-6
+- Description: Connector : DIN-6
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-DIN-6](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-DIN-6)
 - Short Link: [http://oom.lt/SZKCNDIN6](http://oom.lt/SZKCNDIN6)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DIN-6|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-DIN-6|
 |Hex ID (short code)|hexID|SZKCNDIN6|
-|name|name|DIN-6|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'DIN-6', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.mouser.com/ds/2/18/40_c091_abd_e-75918.pdf', 'kicadSymbolki_keywords': 'circular DIN connector', 'kicadSymbolki_description': '6-pin DIN connector', 'kicadSymbolki_fp_filters': 'DIN*'}]|
+|name|name|Connector : DIN-6|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'J'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'DIN-6'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.mouser.com/ds/2/18/40_c091_abd_e-75918.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'circular DIN connector'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '6-pin DIN connector'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIN*'</td></tr></table>]|
 ||||

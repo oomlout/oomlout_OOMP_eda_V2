@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKISOLATORMID4 > MID400
+# SZKISOLATORMID4 > Isolator : MID400
 
 - ID: SYMBOL-kicad-kicad-symbols-Isolator-MID400
 - Hex ID: SZKISOLATORMID4
-- Name: MID400
-- Description: MID400
+- Name: Isolator : MID400
+- Description: Isolator : MID400
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-MID400](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-MID400)
 - Short Link: [http://oom.lt/SZKISOLATORMID4](http://oom.lt/SZKISOLATORMID4)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MID400|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Isolator-MID400|
 |Hex ID (short code)|hexID|SZKISOLATORMID4|
-|name|name|MID400|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MID400', 'kicadSymbolFootprint': 'Package_DIP:DIP-8_W7.62mm', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pub/Collateral/MID400-D.pdf', 'kicadSymbolki_keywords': 'AC line monitor', 'kicadSymbolki_description': 'AC Line Monitor Logic-Out Device, DIP-8', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
+|name|name|Isolator : MID400|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MID400'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>DIP-8_W7.62mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.onsemi.com/pub/Collateral/MID400-D.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'AC line monitor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'AC Line Monitor Logic-Out Device</td><td> DIP-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W7.62mm*'</td></tr></table>]|
 ||||

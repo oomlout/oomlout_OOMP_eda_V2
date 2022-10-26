@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_NKK_GW12LJP|
 |Hex ID (short code)|hexID|FZKBSWNKKGW12LJP|
 |name|name|Button_Switch_THT : SW_NKK_GW12LJP|
-|Footprint Kicad|footprintKicadDetails|{'name': 'SW_NKK_GW12LJP', 'description': 'Switch, single pole double throw, illuminated paddle, http://www.nkkswitches.com/pdf/gwillum.pdf', 'tags': 'switch single-pole double-throw spdt ON-ON illuminated LED', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_NKK_GW12LJP.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SW_NKK_GW12LJP'</td><td> 'description'</td></tr><tr><td> 'Switch</td><td> single pole double throw</td><td> illuminated paddle</td><td> http</td></tr><tr><td>//www.nkkswitches.com/pdf/gwillum.pdf'</td><td> 'tags'</td></tr><tr><td> 'switch single-pole double-throw spdt ON-ON illuminated LED'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Button_Switch_THT.3dshapes/SW_NKK_GW12LJP.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

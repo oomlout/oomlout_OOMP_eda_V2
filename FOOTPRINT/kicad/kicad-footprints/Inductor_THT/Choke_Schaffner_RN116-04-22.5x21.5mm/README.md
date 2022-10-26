@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_THT-Choke_Schaffner_RN116-04-22.5x21.5mm|
 |Hex ID (short code)|hexID|FZKINCHOKESCHAFFNERRN1164225X215|
 |name|name|Inductor_THT : Choke_Schaffner_RN116-04-22.5x21.5mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Choke_Schaffner_RN116-04-22.5x21.5mm', 'description': 'Current-compensated Chokes, Schaffner, RN116-04, 22.5mmx21.5mm https://www.schaffner.com/products/download/product/datasheet/rn-series-common-mode-chokes-new/', 'tags': 'chokes schaffner tht', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_THT.3dshapes/Choke_Schaffner_RN116-04-22.5x21.5mm.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Choke_Schaffner_RN116-04-22.5x21.5mm'</td><td> 'description'</td></tr><tr><td> 'Current-compensated Chokes</td><td> Schaffner</td><td> RN116-04</td><td> 22.5mmx21.5mm https</td></tr><tr><td>//www.schaffner.com/products/download/product/datasheet/rn-series-common-mode-chokes-new/'</td><td> 'tags'</td></tr><tr><td> 'chokes schaffner tht'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Inductor_THT.3dshapes/Choke_Schaffner_RN116-04-22.5x21.5mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

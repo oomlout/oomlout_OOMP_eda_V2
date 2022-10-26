@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Axial_Power_L38.0mm_W6.4mm_P45.72mm|
 |Hex ID (short code)|hexID|FZKRRAXIALPOWERL38W64P4572|
 |name|name|Resistor_THT : R_Axial_Power_L38.0mm_W6.4mm_P45.72mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'R_Axial_Power_L38.0mm_W6.4mm_P45.72mm', 'description': 'Resistor, Axial_Power series, Box, pin pitch=45.72mm, 7W, length*width*height=38*6.4*6.4mm^3, http://cdn-reichelt.de/documents/datenblatt/B400/5WAXIAL_9WAXIAL_11WAXIAL_17WAXIAL%23YAG.pdf', 'tags': 'Resistor Axial_Power series Box pin pitch 45.72mm 7W length 38mm width 6.4mm height 6.4mm', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_Power_L38.0mm_W6.4mm_P45.72mm.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'R_Axial_Power_L38.0mm_W6.4mm_P45.72mm'</td><td> 'description'</td></tr><tr><td> 'Resistor</td><td> Axial_Power series</td><td> Box</td><td> pin pitch=45.72mm</td><td> 7W</td><td> length*width*height=38*6.4*6.4mm^3</td><td> http</td></tr><tr><td>//cdn-reichelt.de/documents/datenblatt/B400/5WAXIAL_9WAXIAL_11WAXIAL_17WAXIAL%23YAG.pdf'</td><td> 'tags'</td></tr><tr><td> 'Resistor Axial_Power series Box pin pitch 45.72mm 7W length 38mm width 6.4mm height 6.4mm'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Resistor_THT.3dshapes/R_Axial_Power_L38.0mm_W6.4mm_P45.72mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

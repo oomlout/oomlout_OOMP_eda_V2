@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDIODEPMEG1V6ELPD > PMEG100V060ELPD
+# SZKDIODEPMEG1V6ELPD > Diode : PMEG100V060ELPD
 
 - ID: SYMBOL-kicad-kicad-symbols-Diode-PMEG100V060ELPD
 - Hex ID: SZKDIODEPMEG1V6ELPD
-- Name: PMEG100V060ELPD
-- Description: PMEG100V060ELPD
+- Name: Diode : PMEG100V060ELPD
+- Description: Diode : PMEG100V060ELPD
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-PMEG100V060ELPD](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-PMEG100V060ELPD)
 - Short Link: [http://oom.lt/SZKDIODEPMEG1V6ELPD](http://oom.lt/SZKDIODEPMEG1V6ELPD)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PMEG100V060ELPD|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-PMEG100V060ELPD|
 |Hex ID (short code)|hexID|SZKDIODEPMEG1V6ELPD|
-|name|name|PMEG100V060ELPD|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'PMEG45A10EPD', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'PMEG100V060ELPD', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:Nexperia_CFP15_SOT-1289', 'kicadSymbolDatasheet': 'https://assets.nexperia.com/documents/data-sheet/PMEG100V060ELPD.pdf', 'kicadSymbolki_keywords': 'ir diode', 'kicadSymbolki_description': '100V, 6A low leakage current MEGA Schottky barrier rectifier, SOT-1289', 'kicadSymbolki_fp_filters': 'Nexperia*CFP15*SOT?1289*'}]|
+|name|name|Diode : PMEG100V060ELPD|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'PMEG45A10EPD'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'PMEG100V060ELPD'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>Nexperia_CFP15_SOT-1289'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//assets.nexperia.com/documents/data-sheet/PMEG100V060ELPD.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'ir diode'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '100V</td><td> 6A low leakage current MEGA Schottky barrier rectifier</td><td> SOT-1289'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Nexperia*CFP15*SOT?1289*'</td></tr></table>]|
 ||||

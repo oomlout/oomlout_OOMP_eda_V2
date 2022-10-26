@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKAMPLIFIERCURRENTAD8211 > AD8211
+# SZKAMPLIFIERCURRENTAD8211 > Amplifier_Current : AD8211
 
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Current-AD8211
 - Hex ID: SZKAMPLIFIERCURRENTAD8211
-- Name: AD8211
-- Description: AD8211
+- Name: Amplifier_Current : AD8211
+- Description: Amplifier_Current : AD8211
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Current-AD8211](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Current-AD8211)
 - Short Link: [http://oom.lt/SZKAMPLIFIERCURRENTAD8211](http://oom.lt/SZKAMPLIFIERCURRENTAD8211)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AD8211|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Current-AD8211|
 |Hex ID (short code)|hexID|SZKAMPLIFIERCURRENTAD8211|
-|name|name|AD8211|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AD8211', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-5', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/AD8211.pdf', 'kicadSymbolki_keywords': 'highside HS current sense amplifier linear buffered', 'kicadSymbolki_description': '65V High Voltage, Current Shunt Monitor, 20V/V gain, bandwidth 500kHz, Vcc=5V, SOT-23-5', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
+|name|name|Amplifier_Current : AD8211|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'AD8211'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-23-5'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/AD8211.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'highside HS current sense amplifier linear buffered'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '65V High Voltage</td><td> Current Shunt Monitor</td><td> 20V/V gain</td><td> bandwidth 500kHz</td><td> Vcc=5V</td><td> SOT-23-5'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23*'</td></tr></table>]|
 ||||

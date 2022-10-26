@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Toroid_Horizontal_D26.0mm_P5.08mm|
 |Hex ID (short code)|hexID|FZKINLTOROIDHORIZONTALD26P58|
 |name|name|Inductor_THT : L_Toroid_Horizontal_D26.0mm_P5.08mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'L_Toroid_Horizontal_D26.0mm_P5.08mm', 'description': 'inductor 26mm diameter toroid', 'tags': 'SELF INDUCTOR', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Toroid_Horizontal_D26.0mm_P5.08mm.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'L_Toroid_Horizontal_D26.0mm_P5.08mm'</td><td> 'description'</td></tr><tr><td> 'inductor 26mm diameter toroid'</td><td> 'tags'</td></tr><tr><td> 'SELF INDUCTOR'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Inductor_THT.3dshapes/L_Toroid_Horizontal_D26.0mm_P5.08mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

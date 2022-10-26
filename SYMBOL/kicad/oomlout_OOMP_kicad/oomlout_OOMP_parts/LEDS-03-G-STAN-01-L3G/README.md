@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSLS3GSTAN1L3G > LEDS-03-G-STAN-01-L3G
+# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSLS3GSTAN1L3G > oomlout_OOMP_parts : LEDS-03-G-STAN-01-L3G
 
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-LEDS-03-G-STAN-01-L3G
 - Hex ID: SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSLS3GSTAN1L3G
-- Name: LEDS-03-G-STAN-01-L3G
-- Description: LEDS-03-G-STAN-01-L3G
+- Name: oomlout_OOMP_parts : LEDS-03-G-STAN-01-L3G
+- Description: oomlout_OOMP_parts : LEDS-03-G-STAN-01-L3G
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-LEDS-03-G-STAN-01-L3G](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-LEDS-03-G-STAN-01-L3G)
 - Short Link: [http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSLS3GSTAN1L3G](http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSLS3GSTAN1L3G)
   
@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|LEDS-03-G-STAN-01-L3G|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-LEDS-03-G-STAN-01-L3G|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSLS3GSTAN1L3G|
-|name|name|LEDS-03-G-STAN-01-L3G|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'LEDS-03-G-STAN-01-L3G', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:LEDS-03-G-STAN-01-L3G', 'kicadSymbolDatasheet': 'oom.lt/L3G', 'kicadSymbolki_keywords': 'LED diode', 'kicadSymbolki_description': 'hexID: L3G;Light emitting diode', 'kicadSymbolki_fp_filters': 'LED* LED_SMD:* LED_THT:*'}]|
+|name|name|oomlout_OOMP_parts : LEDS-03-G-STAN-01-L3G|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LEDS-03-G-STAN-01-L3G'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'oomlout_OOMP_parts</td></tr><tr><td>LEDS-03-G-STAN-01-L3G'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'oom.lt/L3G'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'LED diode'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'hexID</td></tr><tr><td> L3G;Light emitting diode'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'LED* LED_SMD</td></tr><tr><td>* LED_THT</td></tr><tr><td>*'</td></tr></table>]|
 ||||

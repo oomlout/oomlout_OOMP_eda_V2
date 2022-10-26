@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Buzzer_Beeper-MagneticBuzzer_ProSignal_ABT-410-RC|
 |Hex ID (short code)|hexID|FZKBZMAGNETICBUZZERPROSIGNALABT41RC|
 |name|name|Buzzer_Beeper : MagneticBuzzer_ProSignal_ABT-410-RC|
-|Footprint Kicad|footprintKicadDetails|{'name': 'MagneticBuzzer_ProSignal_ABT-410-RC', 'description': 'Buzzer, Elektromagnetic Beeper, Summer, 1,5V-DC,', 'tags': 'Pro Signal ABT-410-RC ', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Buzzer_Beeper.3dshapes/MagneticBuzzer_ProSignal_ABT-410-RC.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'MagneticBuzzer_ProSignal_ABT-410-RC'</td><td> 'description'</td></tr><tr><td> 'Buzzer</td><td> Elektromagnetic Beeper</td><td> Summer</td><td> 1</td><td>5V-DC</td><td>'</td><td> 'tags'</td></tr><tr><td> 'Pro Signal ABT-410-RC '</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Buzzer_Beeper.3dshapes/MagneticBuzzer_ProSignal_ABT-410-RC.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

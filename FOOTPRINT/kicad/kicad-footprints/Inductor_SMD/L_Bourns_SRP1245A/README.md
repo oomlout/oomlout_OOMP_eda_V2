@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Bourns_SRP1245A|
 |Hex ID (short code)|hexID|FZKINDUCTORSMLBOURNSSRP1245A|
 |name|name|Inductor_SMD : L_Bourns_SRP1245A|
-|Footprint Kicad|footprintKicadDetails|{'name': 'L_Bourns_SRP1245A', 'description': 'Bourns SRP1245A series SMD inductor http://www.bourns.com/docs/Product-Datasheets/SRP1245A.pdf', 'tags': 'Bourns SRP1245A SMD inductor', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Bourns_SRP1245A.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'L_Bourns_SRP1245A'</td><td> 'description'</td></tr><tr><td> 'Bourns SRP1245A series SMD inductor http</td></tr><tr><td>//www.bourns.com/docs/Product-Datasheets/SRP1245A.pdf'</td><td> 'tags'</td></tr><tr><td> 'Bourns SRP1245A SMD inductor'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Inductor_SMD.3dshapes/L_Bourns_SRP1245A.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

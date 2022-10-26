@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-TSOT-23-6_HandSoldering|
 |Hex ID (short code)|hexID|FZKPACKAGETOSOTSMTSOT236HANDSOLDERING|
 |name|name|Package_TO_SOT_SMD : TSOT-23-6_HandSoldering|
-|Footprint Kicad|footprintKicadDetails|{'name': 'TSOT-23-6_HandSoldering', 'description': '6-pin TSOT23 package, http://cds.linear.com/docs/en/packaging/SOT_6_05-08-1636.pdf', 'tags': 'TSOT-23-6 MK06A TSOT-6 Hand-soldering', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/TSOT-23-6.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'TSOT-23-6_HandSoldering'</td><td> 'description'</td></tr><tr><td> '6-pin TSOT23 package</td><td> http</td></tr><tr><td>//cds.linear.com/docs/en/packaging/SOT_6_05-08-1636.pdf'</td><td> 'tags'</td></tr><tr><td> 'TSOT-23-6 MK06A TSOT-6 Hand-soldering'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_TO_SOT_SMD.3dshapes/TSOT-23-6.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

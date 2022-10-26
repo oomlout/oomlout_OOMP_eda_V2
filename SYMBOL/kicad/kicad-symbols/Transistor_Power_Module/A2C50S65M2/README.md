@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORPOWERMOA2C5S65M2 > A2C50S65M2
+# SZKTRANSISTORPOWERMOA2C5S65M2 > Transistor_Power_Module : A2C50S65M2
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_Power_Module-A2C50S65M2
 - Hex ID: SZKTRANSISTORPOWERMOA2C5S65M2
-- Name: A2C50S65M2
-- Description: A2C50S65M2
+- Name: Transistor_Power_Module : A2C50S65M2
+- Description: Transistor_Power_Module : A2C50S65M2
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_Power_Module-A2C50S65M2](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_Power_Module-A2C50S65M2)
 - Short Link: [http://oom.lt/SZKTRANSISTORPOWERMOA2C5S65M2](http://oom.lt/SZKTRANSISTORPOWERMOA2C5S65M2)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|A2C50S65M2|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_Power_Module-A2C50S65M2|
 |Hex ID (short code)|hexID|SZKTRANSISTORPOWERMOA2C5S65M2|
-|name|name|A2C50S65M2|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'A2C25S12M3', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'A2C50S65M2', 'kicadSymbolFootprint': 'Transistor_Power_Module:ST_ACEPACK-2-CIB', 'kicadSymbolDatasheet': 'https://www.st.com/resource/en/datasheet/a2c50s65m2.pdf', 'kicadSymbolki_keywords': 'IGBT Power Module Trench Field Stop Technology M series', 'kicadSymbolki_description': '50A, 650V, 20kHz, 208W x 6 , 3-phase, Freewheeling Diode, Brake Chopper, Diode Rectifier, 5k NTC, ACEPACK-2-CIB', 'kicadSymbolki_fp_filters': 'ST*ACEPACK*2*CIB*'}]|
+|name|name|Transistor_Power_Module : A2C50S65M2|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'A2C25S12M3'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'A2C50S65M2'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Transistor_Power_Module</td></tr><tr><td>ST_ACEPACK-2-CIB'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.st.com/resource/en/datasheet/a2c50s65m2.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'IGBT Power Module Trench Field Stop Technology M series'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '50A</td><td> 650V</td><td> 20kHz</td><td> 208W x 6 </td><td> 3-phase</td><td> Freewheeling Diode</td><td> Brake Chopper</td><td> Diode Rectifier</td><td> 5k NTC</td><td> ACEPACK-2-CIB'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'ST*ACEPACK*2*CIB*'</td></tr></table>]|
 ||||

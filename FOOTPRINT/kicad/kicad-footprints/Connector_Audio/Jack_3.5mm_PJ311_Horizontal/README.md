@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_3.5mm_PJ311_Horizontal|
 |Hex ID (short code)|hexID|FZKCNAUDIOJ35PJ311HORIZONTAL|
 |name|name|Connector_Audio : Jack_3.5mm_PJ311_Horizontal|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Jack_3.5mm_PJ311_Horizontal', 'description': 'PJ311 6pin SMD 3.5mm stereo headphones jack.', 'tags': 'headphones jack plug stereo 3.5mm PJ311', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_Audio.3dshapes/Jack_3.5mm_PJ311_Horizontal.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Jack_3.5mm_PJ311_Horizontal'</td><td> 'description'</td></tr><tr><td> 'PJ311 6pin SMD 3.5mm stereo headphones jack.'</td><td> 'tags'</td></tr><tr><td> 'headphones jack plug stereo 3.5mm PJ311'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_Audio.3dshapes/Jack_3.5mm_PJ311_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDRIVERMOTORA495K > A4950K
+# SZKDRIVERMOTORA495K > Driver_Motor : A4950K
 
 - ID: SYMBOL-kicad-kicad-symbols-Driver_Motor-A4950K
 - Hex ID: SZKDRIVERMOTORA495K
-- Name: A4950K
-- Description: A4950K
+- Name: Driver_Motor : A4950K
+- Description: Driver_Motor : A4950K
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Motor-A4950K](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Motor-A4950K)
 - Short Link: [http://oom.lt/SZKDRIVERMOTORA495K](http://oom.lt/SZKDRIVERMOTORA495K)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|A4950K|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Driver_Motor-A4950K|
 |Hex ID (short code)|hexID|SZKDRIVERMOTORA495K|
-|name|name|A4950K|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'A4950E', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'A4950K', 'kicadSymbolFootprint': 'Package_SO:SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.41x3.3mm', 'kicadSymbolDatasheet': 'http://www.allegromicro.com/~/media/Files/Datasheets/A4950-Datasheet.ashx', 'kicadSymbolki_keywords': 'full-bridge h-bridge', 'kicadSymbolki_description': 'Full-Bridge, DMOS PWM, Motor Driver, 40V, 3.5A, -40 to +125C', 'kicadSymbolki_fp_filters': 'SOIC-*1EP*'}]|
+|name|name|Driver_Motor : A4950K|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'A4950E'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'A4950K'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.41x3.3mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.allegromicro.com/~/media/Files/Datasheets/A4950-Datasheet.ashx'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'full-bridge h-bridge'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Full-Bridge</td><td> DMOS PWM</td><td> Motor Driver</td><td> 40V</td><td> 3.5A</td><td> -40 to +125C'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC-*1EP*'</td></tr></table>]|
 ||||

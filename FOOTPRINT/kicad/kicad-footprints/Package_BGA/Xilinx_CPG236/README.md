@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_BGA-Xilinx_CPG236|
 |Hex ID (short code)|hexID|FZKBGAXILINXCPG236|
 |name|name|Package_BGA : Xilinx_CPG236|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Xilinx_CPG236', 'description': 'Artix-7 BGA, 19x19 grid, 10x10mm package, 0.5mm pitch; https://www.xilinx.com/support/documentation/user_guides/ug475_7Series_Pkg_Pinout.pdf#page=266, NSMD pad definition Appendix A', 'tags': 'BGA 238 0.5 CP236 CPG236', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/Xilinx_CPG236.wrl', 'pins': {'type': 'smd', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Xilinx_CPG236'</td><td> 'description'</td></tr><tr><td> 'Artix-7 BGA</td><td> 19x19 grid</td><td> 10x10mm package</td><td> 0.5mm pitch; https</td></tr><tr><td>//www.xilinx.com/support/documentation/user_guides/ug475_7Series_Pkg_Pinout.pdf#page=266</td><td> NSMD pad definition Appendix A'</td><td> 'tags'</td></tr><tr><td> 'BGA 238 0.5 CP236 CPG236'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_BGA.3dshapes/Xilinx_CPG236.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

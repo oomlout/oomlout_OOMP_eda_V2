@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-OptoDevice-Broadcom_AFBR-16xxZ_Tilted|
 |Hex ID (short code)|hexID|FZKOPBROADCOMAFBR16XXZTILTED|
 |name|name|OptoDevice : Broadcom_AFBR-16xxZ_Tilted|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Broadcom_AFBR-16xxZ_Tilted', 'description': 'Fiber Optic Transmitter and Receiver, https://docs.broadcom.com/docs/AV02-4369EN', 'tags': 'Fiber Optic Transmitter and Receiver', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/Broadcom_AFBR-16xxZ_Tilted.wrl', 'pins': {'type': 'thru_hole', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Broadcom_AFBR-16xxZ_Tilted'</td><td> 'description'</td></tr><tr><td> 'Fiber Optic Transmitter and Receiver</td><td> https</td></tr><tr><td>//docs.broadcom.com/docs/AV02-4369EN'</td><td> 'tags'</td></tr><tr><td> 'Fiber Optic Transmitter and Receiver'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/OptoDevice.3dshapes/Broadcom_AFBR-16xxZ_Tilted.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

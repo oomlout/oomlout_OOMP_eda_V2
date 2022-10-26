@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-DFN-12-1EP_3x3mm_P0.5mm_EP2.05x2.86mm|
 |Hex ID (short code)|hexID|FZKDFNDFN121EP3X3P5EP25X286|
 |name|name|Package_DFN_QFN : DFN-12-1EP_3x3mm_P0.5mm_EP2.05x2.86mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'DFN-12-1EP_3x3mm_P0.5mm_EP2.05x2.86mm', 'description': '10-Lead Plastic Dual Flat, No Lead Package (MF) - 3x3x0.9 mm Body [DFN] (see Microchip Packaging Specification 00000049BS.pdf)', 'tags': 'DFN 0.5', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/DFN-12-1EP_3x3mm_P0.5mm_EP2.05x2.86mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'DFN-12-1EP_3x3mm_P0.5mm_EP2.05x2.86mm'</td><td> 'description'</td></tr><tr><td> '10-Lead Plastic Dual Flat</td><td> No Lead Package (MF) - 3x3x0.9 mm Body [DFN] (see Microchip Packaging Specification 00000049BS.pdf)'</td><td> 'tags'</td></tr><tr><td> 'DFN 0.5'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DFN_QFN.3dshapes/DFN-12-1EP_3x3mm_P0.5mm_EP2.05x2.86mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

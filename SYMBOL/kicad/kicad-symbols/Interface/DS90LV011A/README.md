@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKINTERFACEDS9LV11A > DS90LV011A
+# SZKINTERFACEDS9LV11A > Interface : DS90LV011A
 
 - ID: SYMBOL-kicad-kicad-symbols-Interface-DS90LV011A
 - Hex ID: SZKINTERFACEDS9LV11A
-- Name: DS90LV011A
-- Description: DS90LV011A
+- Name: Interface : DS90LV011A
+- Description: Interface : DS90LV011A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-DS90LV011A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-DS90LV011A)
 - Short Link: [http://oom.lt/SZKINTERFACEDS9LV11A](http://oom.lt/SZKINTERFACEDS9LV11A)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DS90LV011A|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface-DS90LV011A|
 |Hex ID (short code)|hexID|SZKINTERFACEDS9LV11A|
-|name|name|DS90LV011A|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'DS90LV011A', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-5', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/ds90lv011a.pdf', 'kicadSymbolki_keywords': 'LVDS Driver', 'kicadSymbolki_description': 'LVDS Single High Speed Differential Driver, 400Mbps, SOT-23-5', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
+|name|name|Interface : DS90LV011A|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'DS90LV011A'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-23-5'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/ds90lv011a.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'LVDS Driver'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'LVDS Single High Speed Differential Driver</td><td> 400Mbps</td><td> SOT-23-5'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23*'</td></tr></table>]|
 ||||

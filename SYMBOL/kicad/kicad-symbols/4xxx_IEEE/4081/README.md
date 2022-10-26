@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZK4XXXIEEE481 > 4081
+# SZK4XXXIEEE481 > 4xxx_IEEE : 4081
 
 - ID: SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4081
 - Hex ID: SZK4XXXIEEE481
-- Name: 4081
-- Description: 4081
+- Name: 4xxx_IEEE : 4081
+- Description: 4xxx_IEEE : 4081
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4081](http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4081)
 - Short Link: [http://oom.lt/SZK4XXXIEEE481](http://oom.lt/SZK4XXXIEEE481)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|4081|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4081|
 |Hex ID (short code)|hexID|SZK4XXXIEEE481|
-|name|name|4081|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '4081', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ''}]|
+|name|name|4xxx_IEEE : 4081|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> '4081'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> ''</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUMCHIPATMEGAATMEGA329AM > ATmega329A-M
+# SZKMCUMCHIPATMEGAATMEGA329AM > MCU_Microchip_ATmega : ATmega329A-M
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega329A-M
 - Hex ID: SZKMCUMCHIPATMEGAATMEGA329AM
-- Name: ATmega329A-M
-- Description: ATmega329A-M
+- Name: MCU_Microchip_ATmega : ATmega329A-M
+- Description: MCU_Microchip_ATmega : ATmega329A-M
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega329A-M](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega329A-M)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATMEGAATMEGA329AM](http://oom.lt/SZKMCUMCHIPATMEGAATMEGA329AM)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ATmega329A-M|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega329A-M|
 |Hex ID (short code)|hexID|SZKMCUMCHIPATMEGAATMEGA329AM|
-|name|name|ATmega329A-M|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ATmega169PV-8M', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ATmega329A-M', 'kicadSymbolFootprint': 'Package_DFN_QFN:QFN-64-1EP_9x9mm_P0.5mm_EP5.4x5.4mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/atmel-8284-8-bit-avr-microcontroller-atmega169a_pa_329a_pa_3290a_pa_649a_p_6490a_p_datasheet.pdf', 'kicadSymbolki_keywords': 'AVR 8bit Microcontroller MegaAVR LCD PicoPower', 'kicadSymbolki_description': '20MHz, 32kB Flash, 2kB SRAM, 1kB EEPROM, QFN-64', 'kicadSymbolki_fp_filters': 'QFN*1EP*9x9mm*P0.5mm*'}]|
+|name|name|MCU_Microchip_ATmega : ATmega329A-M|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'ATmega169PV-8M'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ATmega329A-M'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>QFN-64-1EP_9x9mm_P0.5mm_EP5.4x5.4mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/atmel-8284-8-bit-avr-microcontroller-atmega169a_pa_329a_pa_3290a_pa_649a_p_6490a_p_datasheet.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'AVR 8bit Microcontroller MegaAVR LCD PicoPower'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '20MHz</td><td> 32kB Flash</td><td> 2kB SRAM</td><td> 1kB EEPROM</td><td> QFN-64'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'QFN*1EP*9x9mm*P0.5mm*'</td></tr></table>]|
 ||||

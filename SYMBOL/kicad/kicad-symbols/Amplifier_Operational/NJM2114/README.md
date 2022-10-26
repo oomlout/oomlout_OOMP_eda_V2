@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKAMPLIFIEROPERATIONALNJM2114 > NJM2114
+# SZKAMPLIFIEROPERATIONALNJM2114 > Amplifier_Operational : NJM2114
 
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-NJM2114
 - Hex ID: SZKAMPLIFIEROPERATIONALNJM2114
-- Name: NJM2114
-- Description: NJM2114
+- Name: Amplifier_Operational : NJM2114
+- Description: Amplifier_Operational : NJM2114
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-NJM2114](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-NJM2114)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALNJM2114](http://oom.lt/SZKAMPLIFIEROPERATIONALNJM2114)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|NJM2114|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Operational-NJM2114|
 |Hex ID (short code)|hexID|SZKAMPLIFIEROPERATIONALNJM2114|
-|name|name|NJM2114|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LM2904', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'NJM2114', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.njr.com/semicon/PDF/NJM2114_E.pdf', 'kicadSymbolki_keywords': 'dual opamp', 'kicadSymbolki_description': 'Dual High Performance Low Noise Operational Amplifier, DIP-8/DMP-8/SIP-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm* DIP*W7.62mm* TO*99* OnSemi*Micro8* TSSOP*3x3mm*P0.65mm* TSSOP*4.4x3mm*P0.65mm* MSOP*3x3mm*P0.65mm* SSOP*3.9x4.9mm*P0.635mm* LFCSP*2x2mm*P0.5mm* *SIP* SOIC*5.3x6.2mm*P1.27mm*'}]|
+|name|name|Amplifier_Operational : NJM2114|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'LM2904'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'NJM2114'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.njr.com/semicon/PDF/NJM2114_E.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'dual opamp'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Dual High Performance Low Noise Operational Amplifier</td><td> DIP-8/DMP-8/SIP-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*3.9x4.9mm*P1.27mm* DIP*W7.62mm* TO*99* OnSemi*Micro8* TSSOP*3x3mm*P0.65mm* TSSOP*4.4x3mm*P0.65mm* MSOP*3x3mm*P0.65mm* SSOP*3.9x4.9mm*P0.635mm* LFCSP*2x2mm*P0.5mm* *SIP* SOIC*5.3x6.2mm*P1.27mm*'</td></tr></table>]|
 ||||

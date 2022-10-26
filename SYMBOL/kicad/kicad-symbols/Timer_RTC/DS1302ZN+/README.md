@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTIMERRTCDS132ZN+ > DS1302ZN+
+# SZKTIMERRTCDS132ZN+ > Timer_RTC : DS1302ZN+
 
 - ID: SYMBOL-kicad-kicad-symbols-Timer_RTC-DS1302ZN+
 - Hex ID: SZKTIMERRTCDS132ZN+
-- Name: DS1302ZN+
-- Description: DS1302ZN+
+- Name: Timer_RTC : DS1302ZN+
+- Description: Timer_RTC : DS1302ZN+
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer_RTC-DS1302ZN+](http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer_RTC-DS1302ZN+)
 - Short Link: [http://oom.lt/SZKTIMERRTCDS132ZN+](http://oom.lt/SZKTIMERRTCDS132ZN+)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DS1302ZN+|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Timer_RTC-DS1302ZN+|
 |Hex ID (short code)|hexID|SZKTIMERRTCDS132ZN+|
-|name|name|DS1302ZN+|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'DS1302Z+', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'DS1302ZN+', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm', 'kicadSymbolDatasheet': 'https://datasheets.maximintegrated.com/en/ds/DS1302.pdf', 'kicadSymbolki_keywords': 'RTC, Trickle-Charge Timekeeping Chip', 'kicadSymbolki_description': 'Trickle-Charge Timekeeping Chip, 2.0V to 5.5V VCC, -40°C to +85°C, SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm?P1.27mm*'}]|
+|name|name|Timer_RTC : DS1302ZN+|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'DS1302Z+'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'DS1302ZN+'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-8_3.9x4.9mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//datasheets.maximintegrated.com/en/ds/DS1302.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'RTC</td><td> Trickle-Charge Timekeeping Chip'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Trickle-Charge Timekeeping Chip</td><td> 2.0V to 5.5V VCC</td><td> -40°C to +85°C</td><td> SOIC-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*3.9x4.9mm?P1.27mm*'</td></tr></table>]|
 ||||

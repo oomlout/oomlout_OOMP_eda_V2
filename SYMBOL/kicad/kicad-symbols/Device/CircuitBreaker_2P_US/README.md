@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDEVICECIRCUITBREAKER2PUS > CircuitBreaker_2P_US
+# SZKDEVICECIRCUITBREAKER2PUS > Device : CircuitBreaker_2P_US
 
 - ID: SYMBOL-kicad-kicad-symbols-Device-CircuitBreaker_2P_US
 - Hex ID: SZKDEVICECIRCUITBREAKER2PUS
-- Name: CircuitBreaker_2P_US
-- Description: CircuitBreaker_2P_US
+- Name: Device : CircuitBreaker_2P_US
+- Description: Device : CircuitBreaker_2P_US
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-CircuitBreaker_2P_US](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-CircuitBreaker_2P_US)
 - Short Link: [http://oom.lt/SZKDEVICECIRCUITBREAKER2PUS](http://oom.lt/SZKDEVICECIRCUITBREAKER2PUS)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|CircuitBreaker_2P_US|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-CircuitBreaker_2P_US|
 |Hex ID (short code)|hexID|SZKDEVICECIRCUITBREAKER2PUS|
-|name|name|CircuitBreaker_2P_US|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'CB', 'kicadSymbolValue': 'CircuitBreaker_2P_US', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'CB 2P', 'kicadSymbolki_description': 'Double pole circuit breaker, US symbol'}]|
+|name|name|Device : CircuitBreaker_2P_US|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'CB'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'CircuitBreaker_2P_US'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'CB 2P'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Double pole circuit breaker</td><td> US symbol'</td></tr></table>]|
 ||||

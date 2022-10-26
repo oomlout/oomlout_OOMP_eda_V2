@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_FFC-FPC-Hirose_FH12-35S-0.5SH_1x35-1MP_P0.50mm_Horizontal|
 |Hex ID (short code)|hexID|FZKCNFFCFPCHIROSEFH1235S5SH1X351MPP5HORIZONTAL|
 |name|name|Connector_FFC-FPC : Hirose_FH12-35S-0.5SH_1x35-1MP_P0.50mm_Horizontal|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Hirose_FH12-35S-0.5SH_1x35-1MP_P0.50mm_Horizontal', 'description': 'Hirose FH12, FFC/FPC connector, FH12-35S-0.5SH, 35 Pins per row (https://www.hirose.com/product/en/products/FH12/FH12-24S-0.5SH(55)/), generated with kicad-footprint-generator', 'tags': 'connector Hirose FH12 horizontal', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_FFC-FPC.3dshapes/Hirose_FH12-35S-0.5SH_1x35-1MP_P0.50mm_Horizontal.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Hirose_FH12-35S-0.5SH_1x35-1MP_P0.50mm_Horizontal'</td><td> 'description'</td></tr><tr><td> 'Hirose FH12</td><td> FFC/FPC connector</td><td> FH12-35S-0.5SH</td><td> 35 Pins per row (https</td></tr><tr><td>//www.hirose.com/product/en/products/FH12/FH12-24S-0.5SH(55)/)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'connector Hirose FH12 horizontal'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_FFC-FPC.3dshapes/Hirose_FH12-35S-0.5SH_1x35-1MP_P0.50mm_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

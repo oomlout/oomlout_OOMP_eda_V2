@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKSENMOTIONICM2948 > ICM-20948
+# SZKSENMOTIONICM2948 > Sensor_Motion : ICM-20948
 
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Motion-ICM-20948
 - Hex ID: SZKSENMOTIONICM2948
-- Name: ICM-20948
-- Description: ICM-20948
+- Name: Sensor_Motion : ICM-20948
+- Description: Sensor_Motion : ICM-20948
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Motion-ICM-20948](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Motion-ICM-20948)
 - Short Link: [http://oom.lt/SZKSENMOTIONICM2948](http://oom.lt/SZKSENMOTIONICM2948)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ICM-20948|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Motion-ICM-20948|
 |Hex ID (short code)|hexID|SZKSENMOTIONICM2948|
-|name|name|ICM-20948|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ICM-20948', 'kicadSymbolFootprint': 'Sensor_Motion:InvenSense_QFN-24_3x3mm_P0.4mm', 'kicadSymbolDatasheet': 'http://www.invensense.com/wp-content/uploads/2016/06/DS-000189-ICM-20948-v1.3.pdf', 'kicadSymbolki_keywords': 'mems magnetometer', 'kicadSymbolki_description': 'InvenSense 9-Axis Motion Sensor, Accelerometer, Gyroscope, Compass, I2C/SPI, QFN-24', 'kicadSymbolki_fp_filters': 'InvenSense?QFN*3x3mm*P0.4mm*'}]|
+|name|name|Sensor_Motion : ICM-20948|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ICM-20948'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Sensor_Motion</td></tr><tr><td>InvenSense_QFN-24_3x3mm_P0.4mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.invensense.com/wp-content/uploads/2016/06/DS-000189-ICM-20948-v1.3.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'mems magnetometer'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'InvenSense 9-Axis Motion Sensor</td><td> Accelerometer</td><td> Gyroscope</td><td> Compass</td><td> I2C/SPI</td><td> QFN-24'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'InvenSense?QFN*3x3mm*P0.4mm*'</td></tr></table>]|
 ||||

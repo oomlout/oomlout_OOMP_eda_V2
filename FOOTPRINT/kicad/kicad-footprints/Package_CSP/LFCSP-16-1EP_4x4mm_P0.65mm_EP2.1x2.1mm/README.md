@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_CSP-LFCSP-16-1EP_4x4mm_P0.65mm_EP2.1x2.1mm|
 |Hex ID (short code)|hexID|FZKCSPLFCSP161EP4X4P65EP21X21|
 |name|name|Package_CSP : LFCSP-16-1EP_4x4mm_P0.65mm_EP2.1x2.1mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'LFCSP-16-1EP_4x4mm_P0.65mm_EP2.1x2.1mm', 'description': 'LFCSP, 16 pin, 4x4mm, 2.1mm sq pad (http://www.analog.com/media/en/technical-documentation/data-sheets/ADG633.pdf)', 'tags': 'LFCSP 16 0.65', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_CSP.3dshapes/LFCSP-16-1EP_4x4mm_P0.65mm_EP2.1x2.1mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'LFCSP-16-1EP_4x4mm_P0.65mm_EP2.1x2.1mm'</td><td> 'description'</td></tr><tr><td> 'LFCSP</td><td> 16 pin</td><td> 4x4mm</td><td> 2.1mm sq pad (http</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/ADG633.pdf)'</td><td> 'tags'</td></tr><tr><td> 'LFCSP 16 0.65'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_CSP.3dshapes/LFCSP-16-1EP_4x4mm_P0.65mm_EP2.1x2.1mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

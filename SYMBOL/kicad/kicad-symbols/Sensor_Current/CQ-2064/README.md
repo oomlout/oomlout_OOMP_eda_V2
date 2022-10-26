@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKSENCURRENTCQ264 > CQ-2064
+# SZKSENCURRENTCQ264 > Sensor_Current : CQ-2064
 
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Current-CQ-2064
 - Hex ID: SZKSENCURRENTCQ264
-- Name: CQ-2064
-- Description: CQ-2064
+- Name: Sensor_Current : CQ-2064
+- Description: Sensor_Current : CQ-2064
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-CQ-2064](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-CQ-2064)
 - Short Link: [http://oom.lt/SZKSENCURRENTCQ264](http://oom.lt/SZKSENCURRENTCQ264)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|CQ-2064|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Current-CQ-2064|
 |Hex ID (short code)|hexID|SZKSENCURRENTCQ264|
-|name|name|CQ-2064|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'CQ-2063', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'CQ-2064', 'kicadSymbolFootprint': 'Sensor_Current:AKM_CQ_7', 'kicadSymbolDatasheet': 'http://www.akm.com/akm/en/file/datasheet/CQ-2064.pdf', 'kicadSymbolki_keywords': 'hall effect current sensor', 'kicadSymbolki_description': 'High-Speed Small-Sized Current Sensor, Bidirectional, -54A to +54A, 40mV/A, CQ-7', 'kicadSymbolki_fp_filters': 'AKM*CQ*'}]|
+|name|name|Sensor_Current : CQ-2064|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'CQ-2063'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'CQ-2064'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Sensor_Current</td></tr><tr><td>AKM_CQ_7'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.akm.com/akm/en/file/datasheet/CQ-2064.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'hall effect current sensor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'High-Speed Small-Sized Current Sensor</td><td> Bidirectional</td><td> -54A to +54A</td><td> 40mV/A</td><td> CQ-7'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'AKM*CQ*'</td></tr></table>]|
 ||||

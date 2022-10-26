@@ -29,7 +29,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Card-microSD_HC_Molex_47219-2001|
 |Hex ID (short code)|hexID|FZKCNCARDMSDHCMX4721921|
 |name|name|Connector_Card : microSD_HC_Molex_47219-2001|
-|Footprint Kicad|footprintKicadDetails|{'name': 'microSD_HC_Molex_47219-2001', 'description': '1.10mm Pitch microSD Card Connector, Hinge Type, https://www.molex.com/pdm_docs/sd/472192001_sd.pdf', 'tags': 'Micro SD', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_Card.3dshapes/microSD_HC_Molex_47219-2001.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'microSD_HC_Molex_47219-2001'</td><td> 'description'</td></tr><tr><td> '1.10mm Pitch microSD Card Connector</td><td> Hinge Type</td><td> https</td></tr><tr><td>//www.molex.com/pdm_docs/sd/472192001_sd.pdf'</td><td> 'tags'</td></tr><tr><td> 'Micro SD'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_Card.3dshapes/microSD_HC_Molex_47219-2001.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_RWH0032A_ThermalVias|
 |Hex ID (short code)|hexID|FZKDFNTEXASRWH32ATHERMALVIAS|
 |name|name|Package_DFN_QFN : Texas_RWH0032A_ThermalVias|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Texas_RWH0032A_ThermalVias', 'description': 'Texas Instruments, RWH0032A, 8x8x0.9mm (http://www.ti.com/lit/ds/snosd10c/snosd10c.pdf)', 'tags': 'ti rwh0032a', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Texas_RWH0032A.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Texas_RWH0032A_ThermalVias'</td><td> 'description'</td></tr><tr><td> 'Texas Instruments</td><td> RWH0032A</td><td> 8x8x0.9mm (http</td></tr><tr><td>//www.ti.com/lit/ds/snosd10c/snosd10c.pdf)'</td><td> 'tags'</td></tr><tr><td> 'ti rwh0032a'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DFN_QFN.3dshapes/Texas_RWH0032A.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDRIVERDI8272 > 82720
+# SZKDRIVERDI8272 > Driver_Display : 82720
 
 - ID: SYMBOL-kicad-kicad-symbols-Driver_Display-82720
 - Hex ID: SZKDRIVERDI8272
-- Name: 82720
-- Description: 82720
+- Name: Driver_Display : 82720
+- Description: Driver_Display : 82720
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Display-82720](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Display-82720)
 - Short Link: [http://oom.lt/SZKDRIVERDI8272](http://oom.lt/SZKDRIVERDI8272)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|82720|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Driver_Display-82720|
 |Hex ID (short code)|hexID|SZKDRIVERDI8272|
-|name|name|82720|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '82720', 'kicadSymbolFootprint': 'Package_DIP:DIP-40_W15.24mm', 'kicadSymbolDatasheet': '', 'kicadSymbolki_keywords': 'Graphics Controller', 'kicadSymbolki_description': 'Graphics Display Controller, PDIP-40', 'kicadSymbolki_fp_filters': 'DIP*W15.24mm*'}]|
+|name|name|Driver_Display : 82720|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> '82720'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>DIP-40_W15.24mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Graphics Controller'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Graphics Display Controller</td><td> PDIP-40'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W15.24mm*'</td></tr></table>]|
 ||||

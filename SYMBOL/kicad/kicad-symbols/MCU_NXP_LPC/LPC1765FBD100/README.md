@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUNXPLPCLPC1765FBD1 > LPC1765FBD100
+# SZKMCUNXPLPCLPC1765FBD1 > MCU_NXP_LPC : LPC1765FBD100
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_NXP_LPC-LPC1765FBD100
 - Hex ID: SZKMCUNXPLPCLPC1765FBD1
-- Name: LPC1765FBD100
-- Description: LPC1765FBD100
+- Name: MCU_NXP_LPC : LPC1765FBD100
+- Description: MCU_NXP_LPC : LPC1765FBD100
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_LPC-LPC1765FBD100](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_LPC-LPC1765FBD100)
 - Short Link: [http://oom.lt/SZKMCUNXPLPCLPC1765FBD1](http://oom.lt/SZKMCUNXPLPCLPC1765FBD1)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LPC1765FBD100|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_NXP_LPC-LPC1765FBD100|
 |Hex ID (short code)|hexID|SZKMCUNXPLPCLPC1765FBD1|
-|name|name|LPC1765FBD100|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LPC1763FBD100', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LPC1765FBD100', 'kicadSymbolFootprint': 'Package_QFP:LQFP-100_14x14mm_P0.5mm', 'kicadSymbolDatasheet': 'http://www.nxp.com/documents/data_sheet/LPC1769_68_67_66_65_64_63.pdf', 'kicadSymbolki_keywords': 'ARM, 32-bit, Cortex-M3, M3, NXP, microcontroller', 'kicadSymbolki_description': '32-bit ARM Cortex-M3 microcontroller, 256KB flash, 64KB RAM, USB', 'kicadSymbolki_fp_filters': '*QFP*14x14mm*P0.5mm*'}]|
+|name|name|MCU_NXP_LPC : LPC1765FBD100|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'LPC1763FBD100'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LPC1765FBD100'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_QFP</td></tr><tr><td>LQFP-100_14x14mm_P0.5mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.nxp.com/documents/data_sheet/LPC1769_68_67_66_65_64_63.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'ARM</td><td> 32-bit</td><td> Cortex-M3</td><td> M3</td><td> NXP</td><td> microcontroller'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '32-bit ARM Cortex-M3 microcontroller</td><td> 256KB flash</td><td> 64KB RAM</td><td> USB'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> '*QFP*14x14mm*P0.5mm*'</td></tr></table>]|
 ||||

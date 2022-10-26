@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORSWITCHINGPAM235BJEADJ > PAM2305BJEADJ
+# SZKREGULATORSWITCHINGPAM235BJEADJ > Regulator_Switching : PAM2305BJEADJ
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-PAM2305BJEADJ
 - Hex ID: SZKREGULATORSWITCHINGPAM235BJEADJ
-- Name: PAM2305BJEADJ
-- Description: PAM2305BJEADJ
+- Name: Regulator_Switching : PAM2305BJEADJ
+- Description: Regulator_Switching : PAM2305BJEADJ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-PAM2305BJEADJ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-PAM2305BJEADJ)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGPAM235BJEADJ](http://oom.lt/SZKREGULATORSWITCHINGPAM235BJEADJ)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PAM2305BJEADJ|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-PAM2305BJEADJ|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGPAM235BJEADJ|
-|name|name|PAM2305BJEADJ|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'PAM2305BJE330', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PAM2305BJEADJ', 'kicadSymbolFootprint': 'Package_DFN_QFN:QFN-16-1EP_3x3mm_P0.5mm_EP1.7x1.7mm', 'kicadSymbolDatasheet': 'https://www.diodes.com/assets/Datasheets/PAM2305.pdf', 'kicadSymbolki_keywords': 'Voltage regulator switching buck fixed output analog', 'kicadSymbolki_description': '1A, Step-Down DC/DC-Converter, Adjustable Output Voltage, 1.5MHz, QFN-16', 'kicadSymbolki_fp_filters': 'QFN*EP*3x3mm*P0.5mm*'}]|
+|name|name|Regulator_Switching : PAM2305BJEADJ|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'PAM2305BJE330'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'PAM2305BJEADJ'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>QFN-16-1EP_3x3mm_P0.5mm_EP1.7x1.7mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.diodes.com/assets/Datasheets/PAM2305.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Voltage regulator switching buck fixed output analog'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '1A</td><td> Step-Down DC/DC-Converter</td><td> Adjustable Output Voltage</td><td> 1.5MHz</td><td> QFN-16'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'QFN*EP*3x3mm*P0.5mm*'</td></tr></table>]|
 ||||

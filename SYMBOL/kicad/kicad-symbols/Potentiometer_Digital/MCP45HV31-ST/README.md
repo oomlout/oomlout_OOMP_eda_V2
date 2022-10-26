@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKPOTENTIOMETERDIGITALMCP45HV31ST > MCP45HV31-ST
+# SZKPOTENTIOMETERDIGITALMCP45HV31ST > Potentiometer_Digital : MCP45HV31-ST
 
 - ID: SYMBOL-kicad-kicad-symbols-Potentiometer_Digital-MCP45HV31-ST
 - Hex ID: SZKPOTENTIOMETERDIGITALMCP45HV31ST
-- Name: MCP45HV31-ST
-- Description: MCP45HV31-ST
+- Name: Potentiometer_Digital : MCP45HV31-ST
+- Description: Potentiometer_Digital : MCP45HV31-ST
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Potentiometer_Digital-MCP45HV31-ST](http://oom.lt/SYMBOL-kicad-kicad-symbols-Potentiometer_Digital-MCP45HV31-ST)
 - Short Link: [http://oom.lt/SZKPOTENTIOMETERDIGITALMCP45HV31ST](http://oom.lt/SZKPOTENTIOMETERDIGITALMCP45HV31ST)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MCP45HV31-ST|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Potentiometer_Digital-MCP45HV31-ST|
 |Hex ID (short code)|hexID|SZKPOTENTIOMETERDIGITALMCP45HV31ST|
-|name|name|MCP45HV31-ST|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MCP45HV51-ST', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MCP45HV31-ST', 'kicadSymbolFootprint': 'Package_SO:TSSOP-14_4.4x5mm_P0.65mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/20005304A.pdf', 'kicadSymbolki_keywords': 'I2C Potentiometer pot digital', 'kicadSymbolki_description': '7/8-bit single +36V (+/-18V) digital pot, I2C serial interface, volatile memory, TSSOP-14', 'kicadSymbolki_fp_filters': 'TSSOP*4.4x5mm*P0.65mm*'}]|
+|name|name|Potentiometer_Digital : MCP45HV31-ST|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'MCP45HV51-ST'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MCP45HV31-ST'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>TSSOP-14_4.4x5mm_P0.65mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/20005304A.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'I2C Potentiometer pot digital'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '7/8-bit single +36V (+/-18V) digital pot</td><td> I2C serial interface</td><td> volatile memory</td><td> TSSOP-14'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TSSOP*4.4x5mm*P0.65mm*'</td></tr></table>]|
 ||||

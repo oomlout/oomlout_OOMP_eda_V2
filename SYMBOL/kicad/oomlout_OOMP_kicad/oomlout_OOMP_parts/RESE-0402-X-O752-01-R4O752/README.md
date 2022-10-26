@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE42XO7521R4O752 > RESE-0402-X-O752-01-R4O752
+# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE42XO7521R4O752 > oomlout_OOMP_parts : RESE-0402-X-O752-01-R4O752
 
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O752-01-R4O752
 - Hex ID: SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE42XO7521R4O752
-- Name: RESE-0402-X-O752-01-R4O752
-- Description: RESE-0402-X-O752-01-R4O752
+- Name: oomlout_OOMP_parts : RESE-0402-X-O752-01-R4O752
+- Description: oomlout_OOMP_parts : RESE-0402-X-O752-01-R4O752
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O752-01-R4O752](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O752-01-R4O752)
 - Short Link: [http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE42XO7521R4O752](http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE42XO7521R4O752)
   
@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|RESE-0402-X-O752-01-R4O752|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O752-01-R4O752|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE42XO7521R4O752|
-|name|name|RESE-0402-X-O752-01-R4O752|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'R', 'kicadSymbolValue': 'RESE-0402-X-O752-01-R4O752', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:RESE-0402-X-O752-01-R4O752', 'kicadSymbolDatasheet': 'oom.lt/R4O752', 'kicadSymbolki_keywords': 'R res resistor', 'kicadSymbolki_description': 'hexID: R4O752;PARTL C-JLCC;C25918;MANUF C-XXXX;0402WGF7501TCE;Resistor', 'kicadSymbolki_fp_filters': 'R_*'}]|
+|name|name|oomlout_OOMP_parts : RESE-0402-X-O752-01-R4O752|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'R'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'RESE-0402-X-O752-01-R4O752'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'oomlout_OOMP_parts</td></tr><tr><td>RESE-0402-X-O752-01-R4O752'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'oom.lt/R4O752'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'R res resistor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'hexID</td></tr><tr><td> R4O752;PARTL C-JLCC;C25918;MANUF C-XXXX;0402WGF7501TCE;Resistor'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'R_*'</td></tr></table>]|
 ||||

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DIP-DIP-64_W25.4mm_LongPads|
 |Hex ID (short code)|hexID|FZKDIPDIP64W254L|
 |name|name|Package_DIP : DIP-64_W25.4mm_LongPads|
-|Footprint Kicad|footprintKicadDetails|{'name': 'DIP-64_W25.4mm_LongPads', 'description': '64-lead though-hole mounted DIP package, row spacing 25.4 mm (1000 mils), LongPads', 'tags': 'THT DIP DIL PDIP 2.54mm 25.4mm 1000mil LongPads', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DIP.3dshapes/DIP-64_W25.4mm.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'DIP-64_W25.4mm_LongPads'</td><td> 'description'</td></tr><tr><td> '64-lead though-hole mounted DIP package</td><td> row spacing 25.4 mm (1000 mils)</td><td> LongPads'</td><td> 'tags'</td></tr><tr><td> 'THT DIP DIL PDIP 2.54mm 25.4mm 1000mil LongPads'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DIP.3dshapes/DIP-64_W25.4mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

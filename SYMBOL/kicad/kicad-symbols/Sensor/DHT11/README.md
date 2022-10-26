@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKSENDHT11 > DHT11
+# SZKSENDHT11 > Sensor : DHT11
 
 - ID: SYMBOL-kicad-kicad-symbols-Sensor-DHT11
 - Hex ID: SZKSENDHT11
-- Name: DHT11
-- Description: DHT11
+- Name: Sensor : DHT11
+- Description: Sensor : DHT11
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor-DHT11](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor-DHT11)
 - Short Link: [http://oom.lt/SZKSENDHT11](http://oom.lt/SZKSENDHT11)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DHT11|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor-DHT11|
 |Hex ID (short code)|hexID|SZKSENDHT11|
-|name|name|DHT11|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'DHT11', 'kicadSymbolFootprint': 'Sensor:Aosong_DHT11_5.5x12.0_P2.54mm', 'kicadSymbolDatasheet': 'http://akizukidenshi.com/download/ds/aosong/DHT11.pdf', 'kicadSymbolki_keywords': 'Digital temperature humidity sensor', 'kicadSymbolki_description': 'Temperature and humidity module', 'kicadSymbolki_fp_filters': 'Aosong*DHT11*5.5x12.0*P2.54mm*'}]|
+|name|name|Sensor : DHT11|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'DHT11'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Sensor</td></tr><tr><td>Aosong_DHT11_5.5x12.0_P2.54mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//akizukidenshi.com/download/ds/aosong/DHT11.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Digital temperature humidity sensor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Temperature and humidity module'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Aosong*DHT11*5.5x12.0*P2.54mm*'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDICHARACTERDA5611EWA > DA56-11EWA
+# SZKDICHARACTERDA5611EWA > Display_Character : DA56-11EWA
 
 - ID: SYMBOL-kicad-kicad-symbols-Display_Character-DA56-11EWA
 - Hex ID: SZKDICHARACTERDA5611EWA
-- Name: DA56-11EWA
-- Description: DA56-11EWA
+- Name: Display_Character : DA56-11EWA
+- Description: Display_Character : DA56-11EWA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-DA56-11EWA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-DA56-11EWA)
 - Short Link: [http://oom.lt/SZKDICHARACTERDA5611EWA](http://oom.lt/SZKDICHARACTERDA5611EWA)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DA56-11EWA|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Display_Character-DA56-11EWA|
 |Hex ID (short code)|hexID|SZKDICHARACTERDA5611EWA|
-|name|name|DA56-11EWA|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'DA56-11SURKWA', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'DA56-11EWA', 'kicadSymbolFootprint': 'Display_7Segment:DA56-11SURKWA', 'kicadSymbolDatasheet': 'http://www.kingbrightusa.com/images/catalog/SPEC/DA56-11EWA.pdf', 'kicadSymbolki_keywords': 'display LED 7-segment', 'kicadSymbolki_description': 'Double digit 7 segment high efficient red LED common anode', 'kicadSymbolki_fp_filters': '*DA56*11*'}]|
+|name|name|Display_Character : DA56-11EWA|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'DA56-11SURKWA'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'DA56-11EWA'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Display_7Segment</td></tr><tr><td>DA56-11SURKWA'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.kingbrightusa.com/images/catalog/SPEC/DA56-11EWA.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'display LED 7-segment'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Double digit 7 segment high efficient red LED common anode'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> '*DA56*11*'</td></tr></table>]|
 ||||

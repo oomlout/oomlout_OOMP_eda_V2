@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUTEXASMSP43MSP43G2744IDA38 > MSP430G2744IDA38
+# SZKMCUTEXASMSP43MSP43G2744IDA38 > MCU_Texas_MSP430 : MSP430G2744IDA38
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Texas_MSP430-MSP430G2744IDA38
 - Hex ID: SZKMCUTEXASMSP43MSP43G2744IDA38
-- Name: MSP430G2744IDA38
-- Description: MSP430G2744IDA38
+- Name: MCU_Texas_MSP430 : MSP430G2744IDA38
+- Description: MCU_Texas_MSP430 : MSP430G2744IDA38
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Texas_MSP430-MSP430G2744IDA38](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Texas_MSP430-MSP430G2744IDA38)
 - Short Link: [http://oom.lt/SZKMCUTEXASMSP43MSP43G2744IDA38](http://oom.lt/SZKMCUTEXASMSP43MSP43G2744IDA38)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MSP430G2744IDA38|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Texas_MSP430-MSP430G2744IDA38|
 |Hex ID (short code)|hexID|SZKMCUTEXASMSP43MSP43G2744IDA38|
-|name|name|MSP430G2744IDA38|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MSP430G2444IDA38', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MSP430G2744IDA38', 'kicadSymbolFootprint': 'Package_SO:TSSOP-38_6.1x12.5mm_P0.65mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/msp430g2744.pdf', 'kicadSymbolki_keywords': 'TI MSP430 16-bit mixed signal microcontroller', 'kicadSymbolki_description': '32kB + 256B Flash, 1kB RAM, TSSOP-38', 'kicadSymbolki_fp_filters': 'TSSOP*6.1x12.5mm*P0.65mm*'}]|
+|name|name|MCU_Texas_MSP430 : MSP430G2744IDA38|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'MSP430G2444IDA38'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MSP430G2744IDA38'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>TSSOP-38_6.1x12.5mm_P0.65mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/msp430g2744.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'TI MSP430 16-bit mixed signal microcontroller'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '32kB + 256B Flash</td><td> 1kB RAM</td><td> TSSOP-38'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TSSOP*6.1x12.5mm*P0.65mm*'</td></tr></table>]|
 ||||

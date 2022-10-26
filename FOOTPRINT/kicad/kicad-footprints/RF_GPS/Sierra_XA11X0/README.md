@@ -29,5 +29,5 @@ NO IMAGE
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-RF_GPS-Sierra_XA11X0|
 |Hex ID (short code)|hexID|FZKGPSSIERRAXA11X|
 |name|name|RF_GPS : Sierra_XA11X0|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Sierra_XA11X0', 'description': 'QFN-24, Pitch 1.20 no EP, https://source.sierrawireless.com/resources/airprime/hardware_specs_user_guides/airprime_xm1100_product_technical_specification', 'tags': 'QFN-24 P1.20', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/RF_GPS.3dshapes/Sierra_XA11X0.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Sierra_XA11X0'</td><td> 'description'</td></tr><tr><td> 'QFN-24</td><td> Pitch 1.20 no EP</td><td> https</td></tr><tr><td>//source.sierrawireless.com/resources/airprime/hardware_specs_user_guides/airprime_xm1100_product_technical_specification'</td><td> 'tags'</td></tr><tr><td> 'QFN-24 P1.20'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/RF_GPS.3dshapes/Sierra_XA11X0.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

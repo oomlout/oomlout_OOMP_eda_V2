@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZK74XX74LS138 > 74LS138
+# SZK74XX74LS138 > 74xx : 74LS138
 
 - ID: SYMBOL-kicad-kicad-symbols-74xx-74LS138
 - Hex ID: SZK74XX74LS138
-- Name: 74LS138
-- Description: 74LS138
+- Name: 74xx : 74LS138
+- Description: 74xx : 74LS138
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx-74LS138](http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx-74LS138)
 - Short Link: [http://oom.lt/SZK74XX74LS138](http://oom.lt/SZK74XX74LS138)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74LS138|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xx-74LS138|
 |Hex ID (short code)|hexID|SZK74XX74LS138|
-|name|name|74LS138|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74LS138', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/gpn/sn74LS138', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'TTL DECOD DECOD8', 'kicadSymbolki_description': 'Decoder 3 to 8 active low outputs', 'kicadSymbolki_fp_filters': 'DIP?16*'}]|
+|name|name|74xx : 74LS138|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> '74LS138'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/gpn/sn74LS138'</td><td> 'kicadSymbolki_locked'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'TTL DECOD DECOD8'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Decoder 3 to 8 active low outputs'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP?16*'</td></tr></table>]|
 ||||

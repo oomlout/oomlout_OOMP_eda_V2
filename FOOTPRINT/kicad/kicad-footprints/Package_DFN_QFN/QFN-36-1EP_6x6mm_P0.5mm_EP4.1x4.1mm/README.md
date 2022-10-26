@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-QFN-36-1EP_6x6mm_P0.5mm_EP4.1x4.1mm|
 |Hex ID (short code)|hexID|FZKDFNQFN361EP6X6P5EP41X41|
 |name|name|Package_DFN_QFN : QFN-36-1EP_6x6mm_P0.5mm_EP4.1x4.1mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'QFN-36-1EP_6x6mm_P0.5mm_EP4.1x4.1mm', 'description': 'QFN, 36 Pin (www.st.com/resource/en/datasheet/stm32f101t6.pdf#page=72), generated with kicad-footprint-generator ipc_noLead_generator.py', 'tags': 'QFN NoLead', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/QFN-36-1EP_6x6mm_P0.5mm_EP4.1x4.1mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'QFN-36-1EP_6x6mm_P0.5mm_EP4.1x4.1mm'</td><td> 'description'</td></tr><tr><td> 'QFN</td><td> 36 Pin (www.st.com/resource/en/datasheet/stm32f101t6.pdf#page=72)</td><td> generated with kicad-footprint-generator ipc_noLead_generator.py'</td><td> 'tags'</td></tr><tr><td> 'QFN NoLead'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DFN_QFN.3dshapes/QFN-36-1EP_6x6mm_P0.5mm_EP4.1x4.1mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

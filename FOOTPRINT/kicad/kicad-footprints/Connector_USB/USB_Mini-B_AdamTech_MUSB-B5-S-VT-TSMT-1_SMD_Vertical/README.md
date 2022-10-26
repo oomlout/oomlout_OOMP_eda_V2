@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_Mini-B_AdamTech_MUSB-B5-S-VT-TSMT-1_SMD_Vertical|
 |Hex ID (short code)|hexID|FZKCNUUMBADAMTECHMUB5SVTTSMT1SMVERTICAL|
 |name|name|Connector_USB : USB_Mini-B_AdamTech_MUSB-B5-S-VT-TSMT-1_SMD_Vertical|
-|Footprint Kicad|footprintKicadDetails|{'name': 'USB_Mini-B_AdamTech_MUSB-B5-S-VT-TSMT-1_SMD_Vertical', 'description': 'http://www.adam-tech.com/upload/MUSB-B5-S-VT-TSMT-1.pdf', 'tags': 'USB Mini-B', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_USB.3dshapes/USB_Mini-B_AdamTech_MUSB-B5-S-VT-TSMT-1_SMD_Vertical.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'USB_Mini-B_AdamTech_MUSB-B5-S-VT-TSMT-1_SMD_Vertical'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//www.adam-tech.com/upload/MUSB-B5-S-VT-TSMT-1.pdf'</td><td> 'tags'</td></tr><tr><td> 'USB Mini-B'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_USB.3dshapes/USB_Mini-B_AdamTech_MUSB-B5-S-VT-TSMT-1_SMD_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

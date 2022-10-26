@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREFERENCEVOLTAGEMCP1513XCH > MCP1501-30xCH
+# SZKREFERENCEVOLTAGEMCP1513XCH > Reference_Voltage : MCP1501-30xCH
 
 - ID: SYMBOL-kicad-kicad-symbols-Reference_Voltage-MCP1501-30xCH
 - Hex ID: SZKREFERENCEVOLTAGEMCP1513XCH
-- Name: MCP1501-30xCH
-- Description: MCP1501-30xCH
+- Name: Reference_Voltage : MCP1501-30xCH
+- Description: Reference_Voltage : MCP1501-30xCH
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-MCP1501-30xCH](http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-MCP1501-30xCH)
 - Short Link: [http://oom.lt/SZKREFERENCEVOLTAGEMCP1513XCH](http://oom.lt/SZKREFERENCEVOLTAGEMCP1513XCH)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MCP1501-30xCH|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Reference_Voltage-MCP1501-30xCH|
 |Hex ID (short code)|hexID|SZKREFERENCEVOLTAGEMCP1513XCH|
-|name|name|MCP1501-30xCH|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MCP1501-10xCH', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MCP1501-30xCH', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-6', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/20005474E.pdf', 'kicadSymbolki_keywords': 'precision buffered voltage reference 3V', 'kicadSymbolki_description': '3V, 0.1%, 20mA, Precision Voltage Reference, SOT-23-6', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
+|name|name|Reference_Voltage : MCP1501-30xCH|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'MCP1501-10xCH'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MCP1501-30xCH'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-23-6'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/20005474E.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'precision buffered voltage reference 3V'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '3V</td><td> 0.1%</td><td> 20mA</td><td> Precision Voltage Reference</td><td> SOT-23-6'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23*'</td></tr></table>]|
 ||||

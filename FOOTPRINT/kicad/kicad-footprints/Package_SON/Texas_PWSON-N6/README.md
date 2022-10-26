@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SON-Texas_PWSON-N6|
 |Hex ID (short code)|hexID|FZKSONTEXASPWSONN6|
 |name|name|Package_SON : Texas_PWSON-N6|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Texas_PWSON-N6', 'description': 'Plastic Small Outline No-Lead http://www.ti.com/lit/ml/mpds176e/mpds176e.pdf', 'tags': 'Plastic Small Outline No-Lead', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SON.3dshapes/Texas_PWSON-N6.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Texas_PWSON-N6'</td><td> 'description'</td></tr><tr><td> 'Plastic Small Outline No-Lead http</td></tr><tr><td>//www.ti.com/lit/ml/mpds176e/mpds176e.pdf'</td><td> 'tags'</td></tr><tr><td> 'Plastic Small Outline No-Lead'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_SON.3dshapes/Texas_PWSON-N6.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

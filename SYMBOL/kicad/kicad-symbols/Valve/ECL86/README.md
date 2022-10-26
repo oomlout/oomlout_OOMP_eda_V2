@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKVAECL86 > ECL86
+# SZKVAECL86 > Valve : ECL86
 
 - ID: SYMBOL-kicad-kicad-symbols-Valve-ECL86
 - Hex ID: SZKVAECL86
-- Name: ECL86
-- Description: ECL86
+- Name: Valve : ECL86
+- Description: Valve : ECL86
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Valve-ECL86](http://oom.lt/SYMBOL-kicad-kicad-symbols-Valve-ECL86)
 - Short Link: [http://oom.lt/SZKVAECL86](http://oom.lt/SZKVAECL86)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ECL86|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Valve-ECL86|
 |Hex ID (short code)|hexID|SZKVAECL86|
-|name|name|ECL86|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ECL86', 'kicadSymbolFootprint': 'Valve:Valve_Noval_P', 'kicadSymbolDatasheet': 'http://www.r-type.org/pdfs/ecl86.pdf', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'triode pentode valve', 'kicadSymbolki_description': 'triode pentode', 'kicadSymbolki_fp_filters': 'Valve*Noval*P*'}]|
+|name|name|Valve : ECL86|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ECL86'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Valve</td></tr><tr><td>Valve_Noval_P'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.r-type.org/pdfs/ecl86.pdf'</td><td> 'kicadSymbolki_locked'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'triode pentode valve'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'triode pentode'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Valve*Noval*P*'</td></tr></table>]|
 ||||

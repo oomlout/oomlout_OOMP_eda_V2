@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Module-Arduino_UNO_R3_WithMountingHoles|
 |Hex ID (short code)|hexID|FZKMOARDUNOR3WITOUNTINGH|
 |name|name|Module : Arduino_UNO_R3_WithMountingHoles|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Arduino_UNO_R3_WithMountingHoles', 'description': 'Arduino UNO R3, http://www.mouser.com/pdfdocs/Gravitech_Arduino_Nano3_0.pdf', 'tags': 'Arduino UNO R3', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Module.3dshapes/Arduino_UNO_R3_WithMountingHoles.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Arduino_UNO_R3_WithMountingHoles'</td><td> 'description'</td></tr><tr><td> 'Arduino UNO R3</td><td> http</td></tr><tr><td>//www.mouser.com/pdfdocs/Gravitech_Arduino_Nano3_0.pdf'</td><td> 'tags'</td></tr><tr><td> 'Arduino UNO R3'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Module.3dshapes/Arduino_UNO_R3_WithMountingHoles.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

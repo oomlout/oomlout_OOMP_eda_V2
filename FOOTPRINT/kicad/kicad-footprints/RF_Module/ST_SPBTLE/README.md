@@ -29,5 +29,5 @@ NO IMAGE
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-RF_Module-ST_SPBTLE|
 |Hex ID (short code)|hexID|FZKRFMOSTSPBTLE|
 |name|name|RF_Module : ST_SPBTLE|
-|Footprint Kicad|footprintKicadDetails|{'name': 'ST_SPBTLE', 'description': 'Bluetooth Low Energy Module', 'tags': 'ble module st bluetooth', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/RF_Module.3dshapes/ST_SPBTLE.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'ST_SPBTLE'</td><td> 'description'</td></tr><tr><td> 'Bluetooth Low Energy Module'</td><td> 'tags'</td></tr><tr><td> 'ble module st bluetooth'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/RF_Module.3dshapes/ST_SPBTLE.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

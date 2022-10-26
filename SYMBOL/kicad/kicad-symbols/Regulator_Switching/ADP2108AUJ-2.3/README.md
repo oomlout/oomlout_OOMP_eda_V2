@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORSWITCHINGADP218AUJ23 > ADP2108AUJ-2.3
+# SZKREGULATORSWITCHINGADP218AUJ23 > Regulator_Switching : ADP2108AUJ-2.3
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-ADP2108AUJ-2.3
 - Hex ID: SZKREGULATORSWITCHINGADP218AUJ23
-- Name: ADP2108AUJ-2.3
-- Description: ADP2108AUJ-2.3
+- Name: Regulator_Switching : ADP2108AUJ-2.3
+- Description: Regulator_Switching : ADP2108AUJ-2.3
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-ADP2108AUJ-2.3](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-ADP2108AUJ-2.3)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGADP218AUJ23](http://oom.lt/SZKREGULATORSWITCHINGADP218AUJ23)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ADP2108AUJ-2.3|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-ADP2108AUJ-2.3|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGADP218AUJ23|
-|name|name|ADP2108AUJ-2.3|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ADP2108AUJ-1.0', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ADP2108AUJ-2.3', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TSOT-23-5', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/ADP2108.pdf', 'kicadSymbolki_keywords': 'Voltage regulator switching buck fixed output analog', 'kicadSymbolki_description': '3MHz switching bucK regulator, 600mA 2.3V output voltage,', 'kicadSymbolki_fp_filters': 'TSOT?23*'}]|
+|name|name|Regulator_Switching : ADP2108AUJ-2.3|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'ADP2108AUJ-1.0'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ADP2108AUJ-2.3'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>TSOT-23-5'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/ADP2108.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Voltage regulator switching buck fixed output analog'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '3MHz switching bucK regulator</td><td> 600mA 2.3V output voltage</td><td>'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TSOT?23*'</td></tr></table>]|
 ||||

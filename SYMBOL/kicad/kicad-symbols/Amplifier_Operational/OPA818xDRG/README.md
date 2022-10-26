@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKAMPLIFIEROPERATIONALOPA818XDRG > OPA818xDRG
+# SZKAMPLIFIEROPERATIONALOPA818XDRG > Amplifier_Operational : OPA818xDRG
 
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA818xDRG
 - Hex ID: SZKAMPLIFIEROPERATIONALOPA818XDRG
-- Name: OPA818xDRG
-- Description: OPA818xDRG
+- Name: Amplifier_Operational : OPA818xDRG
+- Description: Amplifier_Operational : OPA818xDRG
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA818xDRG](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA818xDRG)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALOPA818XDRG](http://oom.lt/SZKAMPLIFIEROPERATIONALOPA818XDRG)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|OPA818xDRG|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA818xDRG|
 |Hex ID (short code)|hexID|SZKAMPLIFIEROPERATIONALOPA818XDRG|
-|name|name|OPA818xDRG|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'OPA818xDRG', 'kicadSymbolFootprint': 'Package_SON:WSON-8-1EP_3x3mm_P0.5mm_EP1.45x2.4mm', 'kicadSymbolDatasheet': 'https://www.ti.com/lit/ds/symlink/opa818.pdf', 'kicadSymbolki_keywords': 'opamp VFA', 'kicadSymbolki_description': ' 2.7 GHz, High-Voltage, FET-Input, Low Noise, Operational Amplifier, WSON-8', 'kicadSymbolki_fp_filters': 'WSON*1EP*3x3mm*EP1.45x2.4mm*'}]|
+|name|name|Amplifier_Operational : OPA818xDRG|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'OPA818xDRG'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SON</td></tr><tr><td>WSON-8-1EP_3x3mm_P0.5mm_EP1.45x2.4mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.ti.com/lit/ds/symlink/opa818.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'opamp VFA'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> ' 2.7 GHz</td><td> High-Voltage</td><td> FET-Input</td><td> Low Noise</td><td> Operational Amplifier</td><td> WSON-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'WSON*1EP*3x3mm*EP1.45x2.4mm*'</td></tr></table>]|
 ||||

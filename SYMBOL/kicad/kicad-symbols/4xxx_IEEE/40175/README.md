@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZK4XXXIEEE4175 > 40175
+# SZK4XXXIEEE4175 > 4xxx_IEEE : 40175
 
 - ID: SYMBOL-kicad-kicad-symbols-4xxx_IEEE-40175
 - Hex ID: SZK4XXXIEEE4175
-- Name: 40175
-- Description: 40175
+- Name: 4xxx_IEEE : 40175
+- Description: 4xxx_IEEE : 40175
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx_IEEE-40175](http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx_IEEE-40175)
 - Short Link: [http://oom.lt/SZK4XXXIEEE4175](http://oom.lt/SZK4XXXIEEE4175)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|40175|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-4xxx_IEEE-40175|
 |Hex ID (short code)|hexID|SZK4XXXIEEE4175|
-|name|name|40175|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '40175', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ''}]|
+|name|name|4xxx_IEEE : 40175|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> '40175'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> ''</td></tr></table>]|
 ||||

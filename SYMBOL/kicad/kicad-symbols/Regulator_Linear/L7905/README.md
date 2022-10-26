@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORLINEARL795 > L7905
+# SZKREGULATORLINEARL795 > Regulator_Linear : L7905
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-L7905
 - Hex ID: SZKREGULATORLINEARL795
-- Name: L7905
-- Description: L7905
+- Name: Regulator_Linear : L7905
+- Description: Regulator_Linear : L7905
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-L7905](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-L7905)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARL795](http://oom.lt/SZKREGULATORLINEARL795)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|L7905|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-L7905|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARL795|
-|name|name|L7905|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'L7905', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.st.com/content/ccc/resource/technical/document/datasheet/c9/16/86/41/c7/2b/45/f2/CD00000450.pdf/files/CD00000450.pdf/jcr:content/translations/en.CD00000450.pdf', 'kicadSymbolki_keywords': 'Voltage Regulator 1.5A Negative', 'kicadSymbolki_description': 'Negative 1.5A 35V Linear Regulator, Fixed Output -5V, TO-220/TO-263', 'kicadSymbolki_fp_filters': 'TO?220* TO?263*'}]|
+|name|name|Regulator_Linear : L7905|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'L7905'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.st.com/content/ccc/resource/technical/document/datasheet/c9/16/86/41/c7/2b/45/f2/CD00000450.pdf/files/CD00000450.pdf/jcr</td></tr><tr><td>content/translations/en.CD00000450.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Voltage Regulator 1.5A Negative'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Negative 1.5A 35V Linear Regulator</td><td> Fixed Output -5V</td><td> TO-220/TO-263'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TO?220* TO?263*'</td></tr></table>]|
 ||||

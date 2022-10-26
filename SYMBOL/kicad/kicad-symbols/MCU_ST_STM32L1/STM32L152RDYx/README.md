@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUSTSTM32L1STM32L152RDYX > STM32L152RDYx
+# SZKMCUSTSTM32L1STM32L152RDYX > MCU_ST_STM32L1 : STM32L152RDYx
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L1-STM32L152RDYx
 - Hex ID: SZKMCUSTSTM32L1STM32L152RDYX
-- Name: STM32L152RDYx
-- Description: STM32L152RDYx
+- Name: MCU_ST_STM32L1 : STM32L152RDYx
+- Description: MCU_ST_STM32L1 : STM32L152RDYx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L1-STM32L152RDYx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L1-STM32L152RDYx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32L1STM32L152RDYX](http://oom.lt/SZKMCUSTSTM32L1STM32L152RDYX)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|STM32L152RDYx|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L1-STM32L152RDYx|
 |Hex ID (short code)|hexID|SZKMCUSTSTM32L1STM32L152RDYX|
-|name|name|STM32L152RDYx|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'STM32L152RDYx', 'kicadSymbolFootprint': 'Package_CSP:ST_WLCSP-64_Die436', 'kicadSymbolDatasheet': 'http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00034689.pdf', 'kicadSymbolki_keywords': 'ARM Cortex-M3 STM32L1 STM32L151/152', 'kicadSymbolki_description': 'ARM Cortex-M3 MCU, 384KB flash, 48KB RAM, 32MHz, 1.65-3.6V, 51 GPIO, WLCSP-64', 'kicadSymbolki_fp_filters': 'ST_WLCSP*Die436*'}]|
+|name|name|MCU_ST_STM32L1 : STM32L152RDYx|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'STM32L152RDYx'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_CSP</td></tr><tr><td>ST_WLCSP-64_Die436'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00034689.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'ARM Cortex-M3 STM32L1 STM32L151/152'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'ARM Cortex-M3 MCU</td><td> 384KB flash</td><td> 48KB RAM</td><td> 32MHz</td><td> 1.65-3.6V</td><td> 51 GPIO</td><td> WLCSP-64'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'ST_WLCSP*Die436*'</td></tr></table>]|
 ||||

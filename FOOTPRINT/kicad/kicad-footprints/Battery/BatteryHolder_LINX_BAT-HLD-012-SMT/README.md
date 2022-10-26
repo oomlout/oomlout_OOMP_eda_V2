@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Battery-BatteryHolder_LINX_BAT-HLD-012-SMT|
 |Hex ID (short code)|hexID|FZKBATBATHOLDERLINXBATHLD12S|
 |name|name|Battery : BatteryHolder_LINX_BAT-HLD-012-SMT|
-|Footprint Kicad|footprintKicadDetails|{'name': 'BatteryHolder_LINX_BAT-HLD-012-SMT', 'description': 'SMT battery holder for CR1216/1220/1225, https://linxtechnologies.com/wp/wp-content/uploads/bat-hld-012-smt.pdf', 'tags': 'battery holder coin cell cr1216 cr1220 cr1225', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Battery.3dshapes/BatteryHolder_LINX_BAT-HLD-012-SMT.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'BatteryHolder_LINX_BAT-HLD-012-SMT'</td><td> 'description'</td></tr><tr><td> 'SMT battery holder for CR1216/1220/1225</td><td> https</td></tr><tr><td>//linxtechnologies.com/wp/wp-content/uploads/bat-hld-012-smt.pdf'</td><td> 'tags'</td></tr><tr><td> 'battery holder coin cell cr1216 cr1220 cr1225'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Battery.3dshapes/BatteryHolder_LINX_BAT-HLD-012-SMT.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

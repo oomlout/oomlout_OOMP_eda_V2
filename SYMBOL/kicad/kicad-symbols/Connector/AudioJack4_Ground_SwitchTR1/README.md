@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKCNAUDIOJ4GROUNDSWITCHTR1 > AudioJack4_Ground_SwitchTR1
+# SZKCNAUDIOJ4GROUNDSWITCHTR1 > Connector : AudioJack4_Ground_SwitchTR1
 
 - ID: SYMBOL-kicad-kicad-symbols-Connector-AudioJack4_Ground_SwitchTR1
 - Hex ID: SZKCNAUDIOJ4GROUNDSWITCHTR1
-- Name: AudioJack4_Ground_SwitchTR1
-- Description: AudioJack4_Ground_SwitchTR1
+- Name: Connector : AudioJack4_Ground_SwitchTR1
+- Description: Connector : AudioJack4_Ground_SwitchTR1
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-AudioJack4_Ground_SwitchTR1](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-AudioJack4_Ground_SwitchTR1)
 - Short Link: [http://oom.lt/SZKCNAUDIOJ4GROUNDSWITCHTR1](http://oom.lt/SZKCNAUDIOJ4GROUNDSWITCHTR1)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AudioJack4_Ground_SwitchTR1|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-AudioJack4_Ground_SwitchTR1|
 |Hex ID (short code)|hexID|SZKCNAUDIOJ4GROUNDSWITCHTR1|
-|name|name|AudioJack4_Ground_SwitchTR1|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'AudioJack4_Ground_SwitchTR1', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'audio jack receptacle stereo headphones phones TRS connector', 'kicadSymbolki_description': 'Audio Jack, 4 Poles (Stereo / TRRS), Grounded Sleeve, Switched TR1 Poles (Normalling)', 'kicadSymbolki_fp_filters': 'Jack*'}]|
+|name|name|Connector : AudioJack4_Ground_SwitchTR1|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'J'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'AudioJack4_Ground_SwitchTR1'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'audio jack receptacle stereo headphones phones TRS connector'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Audio Jack</td><td> 4 Poles (Stereo / TRRS)</td><td> Grounded Sleeve</td><td> Switched TR1 Poles (Normalling)'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Jack*'</td></tr></table>]|
 ||||

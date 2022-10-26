@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_CSP-ST_WLCSP-180_Die451|
 |Hex ID (short code)|hexID|FZKCSPSTWLCSP18DIE451|
 |name|name|Package_CSP : ST_WLCSP-180_Die451|
-|Footprint Kicad|footprintKicadDetails|{'name': 'ST_WLCSP-180_Die451', 'description': 'WLCSP-180, 13x14 raster, 5.537x6.095mm package, pitch 0.4mm; see section 6.6 of http://www.st.com/resource/en/datasheet/DM00273119.pdf', 'tags': 'BGA 180 0.4', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_CSP.3dshapes/ST_WLCSP-180_Die451.wrl', 'pins': {'type': 'smd', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'ST_WLCSP-180_Die451'</td><td> 'description'</td></tr><tr><td> 'WLCSP-180</td><td> 13x14 raster</td><td> 5.537x6.095mm package</td><td> pitch 0.4mm; see section 6.6 of http</td></tr><tr><td>//www.st.com/resource/en/datasheet/DM00273119.pdf'</td><td> 'tags'</td></tr><tr><td> 'BGA 180 0.4'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_CSP.3dshapes/ST_WLCSP-180_Die451.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

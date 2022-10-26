@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_SOD-523|
 |Hex ID (short code)|hexID|FZKDIODESMDSOD523|
 |name|name|Diode_SMD : D_SOD-523|
-|Footprint Kicad|footprintKicadDetails|{'name': 'D_SOD-523', 'description': 'http://www.diodes.com/datasheets/ap02001.pdf p.144', 'tags': 'Diode SOD523', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-523.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'D_SOD-523'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//www.diodes.com/datasheets/ap02001.pdf p.144'</td><td> 'tags'</td></tr><tr><td> 'Diode SOD523'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Diode_SMD.3dshapes/D_SOD-523.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

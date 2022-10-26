@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDEVICETR1P1SSO8 > Transformer_1P_1S_SO8
+# SZKDEVICETR1P1SSO8 > Device : Transformer_1P_1S_SO8
 
 - ID: SYMBOL-kicad-kicad-symbols-Device-Transformer_1P_1S_SO8
 - Hex ID: SZKDEVICETR1P1SSO8
-- Name: Transformer_1P_1S_SO8
-- Description: Transformer_1P_1S_SO8
+- Name: Device : Transformer_1P_1S_SO8
+- Description: Device : Transformer_1P_1S_SO8
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Transformer_1P_1S_SO8](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Transformer_1P_1S_SO8)
 - Short Link: [http://oom.lt/SZKDEVICETR1P1SSO8](http://oom.lt/SZKDEVICETR1P1SSO8)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Transformer_1P_1S_SO8|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-Transformer_1P_1S_SO8|
 |Hex ID (short code)|hexID|SZKDEVICETR1P1SSO8|
-|name|name|Transformer_1P_1S_SO8|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'T', 'kicadSymbolValue': 'Transformer_1P_1S_SO8', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'transformer coil magnet', 'kicadSymbolki_description': 'Transformer, single primary, single secondary, SO-8 package'}]|
+|name|name|Device : Transformer_1P_1S_SO8|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'T'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Transformer_1P_1S_SO8'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'transformer coil magnet'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Transformer</td><td> single primary</td><td> single secondary</td><td> SO-8 package'</td></tr></table>]|
 ||||

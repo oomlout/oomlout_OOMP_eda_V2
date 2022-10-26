@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_LGA-ST_HLGA-10_2.5x2.5mm_P0.6mm_LayoutBorder3x2y|
 |Hex ID (short code)|hexID|FZKLGASTHLGA125X25P6LAYOUTBORDER3X2Y|
 |name|name|Package_LGA : ST_HLGA-10_2.5x2.5mm_P0.6mm_LayoutBorder3x2y|
-|Footprint Kicad|footprintKicadDetails|{'name': 'ST_HLGA-10_2.5x2.5mm_P0.6mm_LayoutBorder3x2y', 'description': 'ST  HLGA, 10 Pin (https://www.st.com/resource/en/datasheet/lps25hb.pdf#page=46), generated with kicad-footprint-generator ipc_noLead_generator.py', 'tags': 'ST HLGA NoLead', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_LGA.3dshapes/ST_HLGA-10_2.5x2.5mm_P0.6mm_LayoutBorder3x2y.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'ST_HLGA-10_2.5x2.5mm_P0.6mm_LayoutBorder3x2y'</td><td> 'description'</td></tr><tr><td> 'ST  HLGA</td><td> 10 Pin (https</td></tr><tr><td>//www.st.com/resource/en/datasheet/lps25hb.pdf#page=46)</td><td> generated with kicad-footprint-generator ipc_noLead_generator.py'</td><td> 'tags'</td></tr><tr><td> 'ST HLGA NoLead'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_LGA.3dshapes/ST_HLGA-10_2.5x2.5mm_P0.6mm_LayoutBorder3x2y.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

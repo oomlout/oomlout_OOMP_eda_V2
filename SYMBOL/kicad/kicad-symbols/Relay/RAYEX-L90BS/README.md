@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKRELAYRAYEXL9BS > RAYEX-L90BS
+# SZKRELAYRAYEXL9BS > Relay : RAYEX-L90BS
 
 - ID: SYMBOL-kicad-kicad-symbols-Relay-RAYEX-L90BS
 - Hex ID: SZKRELAYRAYEXL9BS
-- Name: RAYEX-L90BS
-- Description: RAYEX-L90BS
+- Name: Relay : RAYEX-L90BS
+- Description: Relay : RAYEX-L90BS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-RAYEX-L90BS](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-RAYEX-L90BS)
 - Short Link: [http://oom.lt/SZKRELAYRAYEXL9BS](http://oom.lt/SZKRELAYRAYEXL9BS)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|RAYEX-L90BS|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Relay-RAYEX-L90BS|
 |Hex ID (short code)|hexID|SZKRELAYRAYEXL9BS|
-|name|name|RAYEX-L90BS|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'K', 'kicadSymbolValue': 'RAYEX-L90BS', 'kicadSymbolFootprint': 'Relay_THT:Relay_SPST_RAYEX-L90BS', 'kicadSymbolDatasheet': 'https://a3.sofastcdn.com/attachment/7jioKBjnRiiSrjrjknRiwS77gwbf3zmp/L90-SERIES.pdf', 'kicadSymbolki_keywords': '30A Single Pole Relay', 'kicadSymbolki_description': 'Power relay, Without Common Terminal between coil terminals, NC, SPST, 30A', 'kicadSymbolki_fp_filters': 'Relay*SPST*RAYEX*L90B*'}]|
+|name|name|Relay : RAYEX-L90BS|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'K'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'RAYEX-L90BS'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Relay_THT</td></tr><tr><td>Relay_SPST_RAYEX-L90BS'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//a3.sofastcdn.com/attachment/7jioKBjnRiiSrjrjknRiwS77gwbf3zmp/L90-SERIES.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> '30A Single Pole Relay'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Power relay</td><td> Without Common Terminal between coil terminals</td><td> NC</td><td> SPST</td><td> 30A'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Relay*SPST*RAYEX*L90B*'</td></tr></table>]|
 ||||

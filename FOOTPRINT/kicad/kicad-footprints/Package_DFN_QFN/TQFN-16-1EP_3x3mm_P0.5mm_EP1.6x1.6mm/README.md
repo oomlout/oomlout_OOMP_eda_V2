@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-TQFN-16-1EP_3x3mm_P0.5mm_EP1.6x1.6mm|
 |Hex ID (short code)|hexID|FZKDFNTQFN161EP3X3P5EP16X16|
 |name|name|Package_DFN_QFN : TQFN-16-1EP_3x3mm_P0.5mm_EP1.6x1.6mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'TQFN-16-1EP_3x3mm_P0.5mm_EP1.6x1.6mm', 'description': 'TQFN, 16 Pin (https://www.diodes.com/assets/Datasheets/PI6C5946002.pdf#page=12), generated with kicad-footprint-generator ipc_noLead_generator.py', 'tags': 'TQFN NoLead', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/TQFN-16-1EP_3x3mm_P0.5mm_EP1.6x1.6mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'TQFN-16-1EP_3x3mm_P0.5mm_EP1.6x1.6mm'</td><td> 'description'</td></tr><tr><td> 'TQFN</td><td> 16 Pin (https</td></tr><tr><td>//www.diodes.com/assets/Datasheets/PI6C5946002.pdf#page=12)</td><td> generated with kicad-footprint-generator ipc_noLead_generator.py'</td><td> 'tags'</td></tr><tr><td> 'TQFN NoLead'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DFN_QFN.3dshapes/TQFN-16-1EP_3x3mm_P0.5mm_EP1.6x1.6mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

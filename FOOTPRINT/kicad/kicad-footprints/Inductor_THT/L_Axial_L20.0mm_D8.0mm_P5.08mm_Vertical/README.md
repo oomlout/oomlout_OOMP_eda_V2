@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Axial_L20.0mm_D8.0mm_P5.08mm_Vertical|
 |Hex ID (short code)|hexID|FZKINLAXIALL2D8P58VERTICAL|
 |name|name|Inductor_THT : L_Axial_L20.0mm_D8.0mm_P5.08mm_Vertical|
-|Footprint Kicad|footprintKicadDetails|{'name': 'L_Axial_L20.0mm_D8.0mm_P5.08mm_Vertical', 'description': 'Inductor, Axial series, Axial, Vertical, pin pitch=5.08mm, , length*diameter=20*8mm^2', 'tags': 'Inductor Axial series Axial Vertical pin pitch 5.08mm  length 20mm diameter 8mm', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Axial_L20.0mm_D8.0mm_P5.08mm_Vertical.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'L_Axial_L20.0mm_D8.0mm_P5.08mm_Vertical'</td><td> 'description'</td></tr><tr><td> 'Inductor</td><td> Axial series</td><td> Axial</td><td> Vertical</td><td> pin pitch=5.08mm</td><td> </td><td> length*diameter=20*8mm^2'</td><td> 'tags'</td></tr><tr><td> 'Inductor Axial series Axial Vertical pin pitch 5.08mm  length 20mm diameter 8mm'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Inductor_THT.3dshapes/L_Axial_L20.0mm_D8.0mm_P5.08mm_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

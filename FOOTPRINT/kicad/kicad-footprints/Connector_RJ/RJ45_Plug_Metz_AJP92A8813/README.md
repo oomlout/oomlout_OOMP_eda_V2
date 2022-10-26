@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_RJ-RJ45_Plug_Metz_AJP92A8813|
 |Hex ID (short code)|hexID|FZKCNRJRJ45PLUGMETZAJP92A8813|
 |name|name|Connector_RJ : RJ45_Plug_Metz_AJP92A8813|
-|Footprint Kicad|footprintKicadDetails|{'name': 'RJ45_Plug_Metz_AJP92A8813', 'description': 'plug, ethernet, 8P8C, RJ45 Plug', 'tags': 'AJP92A8813 8P8C RJ45 ethernet plug', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_RJ.3dshapes/RJ45_Plug_Metz_AJP92A8813.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'RJ45_Plug_Metz_AJP92A8813'</td><td> 'description'</td></tr><tr><td> 'plug</td><td> ethernet</td><td> 8P8C</td><td> RJ45 Plug'</td><td> 'tags'</td></tr><tr><td> 'AJP92A8813 8P8C RJ45 ethernet plug'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_RJ.3dshapes/RJ45_Plug_Metz_AJP92A8813.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

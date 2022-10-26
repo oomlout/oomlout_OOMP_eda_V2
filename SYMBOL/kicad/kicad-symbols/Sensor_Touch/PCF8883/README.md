@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKSENTOUCHPCF8883 > PCF8883
+# SZKSENTOUCHPCF8883 > Sensor_Touch : PCF8883
 
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Touch-PCF8883
 - Hex ID: SZKSENTOUCHPCF8883
-- Name: PCF8883
-- Description: PCF8883
+- Name: Sensor_Touch : PCF8883
+- Description: Sensor_Touch : PCF8883
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Touch-PCF8883](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Touch-PCF8883)
 - Short Link: [http://oom.lt/SZKSENTOUCHPCF8883](http://oom.lt/SZKSENTOUCHPCF8883)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PCF8883|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Touch-PCF8883|
 |Hex ID (short code)|hexID|SZKSENTOUCHPCF8883|
-|name|name|PCF8883|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PCF8883', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.nxp.com/docs/en/data-sheet/PCF8883.pdf', 'kicadSymbolki_keywords': 'NXP capacitive touch sensor auto-calibration', 'kicadSymbolki_description': 'Capacitive touch/proximity switch with auto-calibration, SOIC-8/WLCSP-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm* NXP*WLCSP*PCF8883*'}]|
+|name|name|Sensor_Touch : PCF8883|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'PCF8883'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.nxp.com/docs/en/data-sheet/PCF8883.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'NXP capacitive touch sensor auto-calibration'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Capacitive touch/proximity switch with auto-calibration</td><td> SOIC-8/WLCSP-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*3.9x4.9mm*P1.27mm* NXP*WLCSP*PCF8883*'</td></tr></table>]|
 ||||

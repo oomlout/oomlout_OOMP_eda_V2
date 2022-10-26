@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDIODEBZT52BXX > BZT52Bxx
+# SZKDIODEBZT52BXX > Diode : BZT52Bxx
 
 - ID: SYMBOL-kicad-kicad-symbols-Diode-BZT52Bxx
 - Hex ID: SZKDIODEBZT52BXX
-- Name: BZT52Bxx
-- Description: BZT52Bxx
+- Name: Diode : BZT52Bxx
+- Description: Diode : BZT52Bxx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BZT52Bxx](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BZT52Bxx)
 - Short Link: [http://oom.lt/SZKDIODEBZT52BXX](http://oom.lt/SZKDIODEBZT52BXX)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BZT52Bxx|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-BZT52Bxx|
 |Hex ID (short code)|hexID|SZKDIODEBZT52BXX|
-|name|name|BZT52Bxx|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ZPYxx', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'BZT52Bxx', 'kicadSymbolFootprint': 'Diode_SMD:D_SOD-123F', 'kicadSymbolDatasheet': 'https://diotec.com/tl_files/diotec/files/pdf/datasheets/bzt52b2v4.pdf', 'kicadSymbolki_keywords': 'zener diode', 'kicadSymbolki_description': '500mW Zener Diode, SOD-123F', 'kicadSymbolki_fp_filters': 'D?SOD?123F*'}]|
+|name|name|Diode : BZT52Bxx|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'ZPYxx'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'BZT52Bxx'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Diode_SMD</td></tr><tr><td>D_SOD-123F'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//diotec.com/tl_files/diotec/files/pdf/datasheets/bzt52b2v4.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'zener diode'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '500mW Zener Diode</td><td> SOD-123F'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'D?SOD?123F*'</td></tr></table>]|
 ||||

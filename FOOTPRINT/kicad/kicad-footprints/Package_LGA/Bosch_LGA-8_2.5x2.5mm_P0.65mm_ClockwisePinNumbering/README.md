@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_LGA-Bosch_LGA-8_2.5x2.5mm_P0.65mm_ClockwisePinNumbering|
 |Hex ID (short code)|hexID|FZKLGABOSCHLGA825X25P65CLWISEPINNUMBERING|
 |name|name|Package_LGA : Bosch_LGA-8_2.5x2.5mm_P0.65mm_ClockwisePinNumbering|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Bosch_LGA-8_2.5x2.5mm_P0.65mm_ClockwisePinNumbering', 'description': 'LGA-8', 'tags': 'lga land grid array', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_LGA.3dshapes/Bosch_LGA-8_2.5x2.5mm_P0.65mm_ClockwisePinNumbering.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Bosch_LGA-8_2.5x2.5mm_P0.65mm_ClockwisePinNumbering'</td><td> 'description'</td></tr><tr><td> 'LGA-8'</td><td> 'tags'</td></tr><tr><td> 'lga land grid array'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_LGA.3dshapes/Bosch_LGA-8_2.5x2.5mm_P0.65mm_ClockwisePinNumbering.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

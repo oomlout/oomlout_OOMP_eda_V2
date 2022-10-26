@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKAMPLIFIERCURRENTZXCT19T8 > ZXCT1009T8
+# SZKAMPLIFIERCURRENTZXCT19T8 > Amplifier_Current : ZXCT1009T8
 
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Current-ZXCT1009T8
 - Hex ID: SZKAMPLIFIERCURRENTZXCT19T8
-- Name: ZXCT1009T8
-- Description: ZXCT1009T8
+- Name: Amplifier_Current : ZXCT1009T8
+- Description: Amplifier_Current : ZXCT1009T8
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Current-ZXCT1009T8](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Current-ZXCT1009T8)
 - Short Link: [http://oom.lt/SZKAMPLIFIERCURRENTZXCT19T8](http://oom.lt/SZKAMPLIFIERCURRENTZXCT19T8)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ZXCT1009T8|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Current-ZXCT1009T8|
 |Hex ID (short code)|hexID|SZKAMPLIFIERCURRENTZXCT19T8|
-|name|name|ZXCT1009T8|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ZXCT1009T8', 'kicadSymbolFootprint': 'Package_SO:Zetex_SM8', 'kicadSymbolDatasheet': 'https://www.diodes.com/assets/Datasheets/ZXCT1009.pdf', 'kicadSymbolki_keywords': 'High side current monitor shunt', 'kicadSymbolki_description': 'High-Side Current Monitor, SM8', 'kicadSymbolki_fp_filters': 'Zetex*SM8*'}]|
+|name|name|Amplifier_Current : ZXCT1009T8|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ZXCT1009T8'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>Zetex_SM8'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.diodes.com/assets/Datasheets/ZXCT1009.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'High side current monitor shunt'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'High-Side Current Monitor</td><td> SM8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Zetex*SM8*'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKSENPROXIMITYSG17 > SG-107
+# SZKSENPROXIMITYSG17 > Sensor_Proximity : SG-107
 
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Proximity-SG-107
 - Hex ID: SZKSENPROXIMITYSG17
-- Name: SG-107
-- Description: SG-107
+- Name: Sensor_Proximity : SG-107
+- Description: Sensor_Proximity : SG-107
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Proximity-SG-107](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Proximity-SG-107)
 - Short Link: [http://oom.lt/SZKSENPROXIMITYSG17](http://oom.lt/SZKSENPROXIMITYSG17)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SG-107|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Proximity-SG-107|
 |Hex ID (short code)|hexID|SZKSENPROXIMITYSG17|
-|name|name|SG-107|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'SG-105', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'SG-107', 'kicadSymbolFootprint': 'OptoDevice:Kodenshi_SG105', 'kicadSymbolDatasheet': 'http://www.kodenshi.co.jp/products/pdf/sensor/photointerrupter_ref/SG-107.pdf', 'kicadSymbolki_keywords': 'Reflective Optical Sensor Opto', 'kicadSymbolki_description': 'Subminiature Reflective Optical Sensor, SMD-package with PCB-cutout', 'kicadSymbolki_fp_filters': 'Kodenshi*SG105*'}]|
+|name|name|Sensor_Proximity : SG-107|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'SG-105'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'SG-107'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'OptoDevice</td></tr><tr><td>Kodenshi_SG105'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.kodenshi.co.jp/products/pdf/sensor/photointerrupter_ref/SG-107.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Reflective Optical Sensor Opto'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Subminiature Reflective Optical Sensor</td><td> SMD-package with PCB-cutout'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Kodenshi*SG105*'</td></tr></table>]|
 ||||

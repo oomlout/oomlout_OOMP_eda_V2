@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORLINEARTC155 > TC1055
+# SZKREGULATORLINEARTC155 > Regulator_Linear : TC1055
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-TC1055
 - Hex ID: SZKREGULATORLINEARTC155
-- Name: TC1055
-- Description: TC1055
+- Name: Regulator_Linear : TC1055
+- Description: Regulator_Linear : TC1055
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TC1055](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TC1055)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARTC155](http://oom.lt/SZKREGULATORLINEARTC155)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TC1055|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-TC1055|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARTC155|
-|name|name|TC1055|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TC1054', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TC1055', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-5', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/21350E.pdf', 'kicadSymbolki_keywords': 'LDO regulator voltage', 'kicadSymbolki_description': '100mA Low Dropout Regulator with ERROR output in 5-Pin SOT-23 package', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
+|name|name|Regulator_Linear : TC1055|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'TC1054'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TC1055'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-23-5'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/21350E.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'LDO regulator voltage'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '100mA Low Dropout Regulator with ERROR output in 5-Pin SOT-23 package'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23*'</td></tr></table>]|
 ||||

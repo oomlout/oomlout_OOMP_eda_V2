@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKFPGAXILINXVIRTEX6XC6VHX38TFF1924 > XC6VHX380T-FF1924
+# SZKFPGAXILINXVIRTEX6XC6VHX38TFF1924 > FPGA_Xilinx_Virtex6 : XC6VHX380T-FF1924
 
 - ID: SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Virtex6-XC6VHX380T-FF1924
 - Hex ID: SZKFPGAXILINXVIRTEX6XC6VHX38TFF1924
-- Name: XC6VHX380T-FF1924
-- Description: XC6VHX380T-FF1924
+- Name: FPGA_Xilinx_Virtex6 : XC6VHX380T-FF1924
+- Description: FPGA_Xilinx_Virtex6 : XC6VHX380T-FF1924
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Virtex6-XC6VHX380T-FF1924](http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Virtex6-XC6VHX380T-FF1924)
 - Short Link: [http://oom.lt/SZKFPGAXILINXVIRTEX6XC6VHX38TFF1924](http://oom.lt/SZKFPGAXILINXVIRTEX6XC6VHX38TFF1924)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|XC6VHX380T-FF1924|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Virtex6-XC6VHX380T-FF1924|
 |Hex ID (short code)|hexID|SZKFPGAXILINXVIRTEX6XC6VHX38TFF1924|
-|name|name|XC6VHX380T-FF1924|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'XC6VHX380T-FF1924', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'FPGA', 'kicadSymbolki_description': 'Virtex 6 HXT 380 XC6VHX380T-FF1924'}]|
+|name|name|FPGA_Xilinx_Virtex6 : XC6VHX380T-FF1924|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'XC6VHX380T-FF1924'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_locked'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'FPGA'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Virtex 6 HXT 380 XC6VHX380T-FF1924'</td></tr></table>]|
 ||||

@@ -29,5 +29,5 @@ NO IMAGE
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Symbol-KiCad-Logo2_12mm_Copper|
 |Hex ID (short code)|hexID|FZKSZKICADL212C|
 |name|name|Symbol : KiCad-Logo2_12mm_Copper|
-|Footprint Kicad|footprintKicadDetails|{'name': 'KiCad-Logo2_12mm_Copper', 'description': 'KiCad Logo', 'tags': 'Logo KiCad', 'attributeType': None, 'pins': {}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'KiCad-Logo2_12mm_Copper'</td><td> 'description'</td></tr><tr><td> 'KiCad Logo'</td><td> 'tags'</td></tr><tr><td> 'Logo KiCad'</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td></td></tr></table></td></tr></table>|
 ||||

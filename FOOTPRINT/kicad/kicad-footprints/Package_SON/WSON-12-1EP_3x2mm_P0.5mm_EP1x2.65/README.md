@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SON-WSON-12-1EP_3x2mm_P0.5mm_EP1x2.65|
 |Hex ID (short code)|hexID|FZKSONWSON121EP3X2P5EP1X265|
 |name|name|Package_SON : WSON-12-1EP_3x2mm_P0.5mm_EP1x2.65|
-|Footprint Kicad|footprintKicadDetails|{'name': 'WSON-12-1EP_3x2mm_P0.5mm_EP1x2.65', 'description': 'WSON-12 http://www.ti.com/lit/ds/symlink/lm27762.pdf', 'tags': 'WSON-12', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SON.3dshapes/WSON-12-1EP_3x2mm_P0.5mm_EP1x2.65.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'WSON-12-1EP_3x2mm_P0.5mm_EP1x2.65'</td><td> 'description'</td></tr><tr><td> 'WSON-12 http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/lm27762.pdf'</td><td> 'tags'</td></tr><tr><td> 'WSON-12'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_SON.3dshapes/WSON-12-1EP_3x2mm_P0.5mm_EP1x2.65.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

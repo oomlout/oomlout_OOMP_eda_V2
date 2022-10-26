@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESEW4XO47X1R447A > RESE-W04-X-O47X-01-R447A
+# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESEW4XO47X1R447A > oomlout_OOMP_parts : RESE-W04-X-O47X-01-R447A
 
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-W04-X-O47X-01-R447A
 - Hex ID: SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESEW4XO47X1R447A
-- Name: RESE-W04-X-O47X-01-R447A
-- Description: RESE-W04-X-O47X-01-R447A
+- Name: oomlout_OOMP_parts : RESE-W04-X-O47X-01-R447A
+- Description: oomlout_OOMP_parts : RESE-W04-X-O47X-01-R447A
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-W04-X-O47X-01-R447A](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-W04-X-O47X-01-R447A)
 - Short Link: [http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESEW4XO47X1R447A](http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESEW4XO47X1R447A)
   
@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|RESE-W04-X-O47X-01-R447A|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-W04-X-O47X-01-R447A|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESEW4XO47X1R447A|
-|name|name|RESE-W04-X-O47X-01-R447A|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'R', 'kicadSymbolValue': 'RESE-W04-X-O47X-01-R447A', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:RESE-W04-X-O47X-01-R447A', 'kicadSymbolDatasheet': 'oom.lt/R447A', 'kicadSymbolki_keywords': 'R res resistor', 'kicadSymbolki_description': 'hexID: R447A;Resistor', 'kicadSymbolki_fp_filters': 'R_*'}]|
+|name|name|oomlout_OOMP_parts : RESE-W04-X-O47X-01-R447A|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'R'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'RESE-W04-X-O47X-01-R447A'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'oomlout_OOMP_parts</td></tr><tr><td>RESE-W04-X-O47X-01-R447A'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'oom.lt/R447A'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'R res resistor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'hexID</td></tr><tr><td> R447A;Resistor'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'R_*'</td></tr></table>]|
 ||||

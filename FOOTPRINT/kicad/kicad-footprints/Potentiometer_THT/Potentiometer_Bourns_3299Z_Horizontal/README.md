@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Bourns_3299Z_Horizontal|
 |Hex ID (short code)|hexID|FZKPPOTENTIOMETERBOURNS3299ZHORIZONTAL|
 |name|name|Potentiometer_THT : Potentiometer_Bourns_3299Z_Horizontal|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Potentiometer_Bourns_3299Z_Horizontal', 'description': 'Potentiometer, horizontal, Bourns 3299Z, https://www.bourns.com/pdfs/3299.pdf', 'tags': 'Potentiometer horizontal Bourns 3299Z', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Potentiometer_THT.3dshapes/Potentiometer_Bourns_3299Z_Horizontal.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Potentiometer_Bourns_3299Z_Horizontal'</td><td> 'description'</td></tr><tr><td> 'Potentiometer</td><td> horizontal</td><td> Bourns 3299Z</td><td> https</td></tr><tr><td>//www.bourns.com/pdfs/3299.pdf'</td><td> 'tags'</td></tr><tr><td> 'Potentiometer horizontal Bourns 3299Z'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Potentiometer_THT.3dshapes/Potentiometer_Bourns_3299Z_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

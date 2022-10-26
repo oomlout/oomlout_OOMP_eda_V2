@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_XH_B13B-XH-A_1x13_P2.50mm_Vertical|
 |Hex ID (short code)|hexID|FZKCNJSTJSTXHB13BXHA1X13P25VERTICAL|
 |name|name|Connector_JST : JST_XH_B13B-XH-A_1x13_P2.50mm_Vertical|
-|Footprint Kicad|footprintKicadDetails|{'name': 'JST_XH_B13B-XH-A_1x13_P2.50mm_Vertical', 'description': 'JST XH series connector, B13B-XH-A (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator', 'tags': 'connector JST XH side entry', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_JST.3dshapes/JST_XH_B13B-XH-A_1x13_P2.50mm_Vertical.wrl', 'pins': {'type': 'thru_hole', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'JST_XH_B13B-XH-A_1x13_P2.50mm_Vertical'</td><td> 'description'</td></tr><tr><td> 'JST XH series connector</td><td> B13B-XH-A (http</td></tr><tr><td>//www.jst-mfg.com/product/pdf/eng/eXH.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'connector JST XH side entry'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_JST.3dshapes/JST_XH_B13B-XH-A_1x13_P2.50mm_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

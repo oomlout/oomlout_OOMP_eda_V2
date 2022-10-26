@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKAMPLIFIERCURRENTMAX471 > MAX471
+# SZKAMPLIFIERCURRENTMAX471 > Amplifier_Current : MAX471
 
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Current-MAX471
 - Hex ID: SZKAMPLIFIERCURRENTMAX471
-- Name: MAX471
-- Description: MAX471
+- Name: Amplifier_Current : MAX471
+- Description: Amplifier_Current : MAX471
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Current-MAX471](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Current-MAX471)
 - Short Link: [http://oom.lt/SZKAMPLIFIERCURRENTMAX471](http://oom.lt/SZKAMPLIFIERCURRENTMAX471)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MAX471|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Current-MAX471|
 |Hex ID (short code)|hexID|SZKAMPLIFIERCURRENTMAX471|
-|name|name|MAX471|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MAX471', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://pdfserv.maximintegrated.com/en/ds/MAX471-MAX472.pdf', 'kicadSymbolki_keywords': 'current sense amplifier', 'kicadSymbolki_description': 'Precision, High-Side, Current-Sense Amplifiers, DIP-8/SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm* DIP*W7.62mm*'}]|
+|name|name|Amplifier_Current : MAX471|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MAX471'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//pdfserv.maximintegrated.com/en/ds/MAX471-MAX472.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'current sense amplifier'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Precision</td><td> High-Side</td><td> Current-Sense Amplifiers</td><td> DIP-8/SOIC-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*3.9x4.9mm*P1.27mm* DIP*W7.62mm*'</td></tr></table>]|
 ||||

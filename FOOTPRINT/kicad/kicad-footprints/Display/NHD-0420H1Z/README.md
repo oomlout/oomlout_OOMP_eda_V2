@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Display-NHD-0420H1Z|
 |Hex ID (short code)|hexID|FZKDINHD42H1Z|
 |name|name|Display : NHD-0420H1Z|
-|Footprint Kicad|footprintKicadDetails|{'name': 'NHD-0420H1Z', 'description': 'NHD-0420H1Z LCD http://www.newhavendisplay.com/specs/NHD-0420H1Z-FSW-GBW-33V3.pdf', 'tags': 'NHD-0420H1Z LCD', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Display.3dshapes/NHD-0420H1Z.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'NHD-0420H1Z'</td><td> 'description'</td></tr><tr><td> 'NHD-0420H1Z LCD http</td></tr><tr><td>//www.newhavendisplay.com/specs/NHD-0420H1Z-FSW-GBW-33V3.pdf'</td><td> 'tags'</td></tr><tr><td> 'NHD-0420H1Z LCD'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Display.3dshapes/NHD-0420H1Z.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

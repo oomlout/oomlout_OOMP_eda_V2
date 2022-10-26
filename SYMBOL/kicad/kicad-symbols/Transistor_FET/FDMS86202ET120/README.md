@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORFETFDMS8622ET12 > FDMS86202ET120
+# SZKTRANSISTORFETFDMS8622ET12 > Transistor_FET : FDMS86202ET120
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-FDMS86202ET120
 - Hex ID: SZKTRANSISTORFETFDMS8622ET12
-- Name: FDMS86202ET120
-- Description: FDMS86202ET120
+- Name: Transistor_FET : FDMS86202ET120
+- Description: Transistor_FET : FDMS86202ET120
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-FDMS86202ET120](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-FDMS86202ET120)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETFDMS8622ET12](http://oom.lt/SZKTRANSISTORFETFDMS8622ET12)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|FDMS86202ET120|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-FDMS86202ET120|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETFDMS8622ET12|
-|name|name|FDMS86202ET120|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'CSD17578Q5A', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'FDMS86202ET120', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TDSON-8-1', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pub/Collateral/FDMS86202ET120-D.pdf', 'kicadSymbolki_keywords': 'shielded-gate-powertrench MOSFET fairchild', 'kicadSymbolki_description': '13.5A Id, 120V Vds, N-Channel Shielded Gate PowerTrench MOSFET, 7.2mOhm Ron, 64nC Qgmax, -55 to 175 °C, 5x6mm SON8', 'kicadSymbolki_fp_filters': 'TDSON*'}]|
+|name|name|Transistor_FET : FDMS86202ET120|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'CSD17578Q5A'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'FDMS86202ET120'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>TDSON-8-1'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.onsemi.com/pub/Collateral/FDMS86202ET120-D.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'shielded-gate-powertrench MOSFET fairchild'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '13.5A Id</td><td> 120V Vds</td><td> N-Channel Shielded Gate PowerTrench MOSFET</td><td> 7.2mOhm Ron</td><td> 64nC Qgmax</td><td> -55 to 175 °C</td><td> 5x6mm SON8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TDSON*'</td></tr></table>]|
 ||||

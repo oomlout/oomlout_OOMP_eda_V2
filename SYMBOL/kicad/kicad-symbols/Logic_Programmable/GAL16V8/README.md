@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKLOGICPROGRAABLEGAL16V8 > GAL16V8
+# SZKLOGICPROGRAABLEGAL16V8 > Logic_Programmable : GAL16V8
 
 - ID: SYMBOL-kicad-kicad-symbols-Logic_Programmable-GAL16V8
 - Hex ID: SZKLOGICPROGRAABLEGAL16V8
-- Name: GAL16V8
-- Description: GAL16V8
+- Name: Logic_Programmable : GAL16V8
+- Description: Logic_Programmable : GAL16V8
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Logic_Programmable-GAL16V8](http://oom.lt/SYMBOL-kicad-kicad-symbols-Logic_Programmable-GAL16V8)
 - Short Link: [http://oom.lt/SZKLOGICPROGRAABLEGAL16V8](http://oom.lt/SZKLOGICPROGRAABLEGAL16V8)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|GAL16V8|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Logic_Programmable-GAL16V8|
 |Hex ID (short code)|hexID|SZKLOGICPROGRAABLEGAL16V8|
-|name|name|GAL16V8|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'GAL16V8', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_keywords': 'GAL PLD 16V8', 'kicadSymbolki_description': 'Programmable Logic Array, DIP-20/SOIC-20/PLCC-20', 'kicadSymbolki_fp_filters': 'DIP* PDIP* SOIC* SO* PLCC*'}]|
+|name|name|Logic_Programmable : GAL16V8|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'GAL16V8'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'GAL PLD 16V8'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Programmable Logic Array</td><td> DIP-20/SOIC-20/PLCC-20'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP* PDIP* SOIC* SO* PLCC*'</td></tr></table>]|
 ||||

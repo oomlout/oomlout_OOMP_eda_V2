@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZK74XXIEEE74LS467 > 74LS467
+# SZK74XXIEEE74LS467 > 74xx_IEEE : 74LS467
 
 - ID: SYMBOL-kicad-kicad-symbols-74xx_IEEE-74LS467
 - Hex ID: SZK74XXIEEE74LS467
-- Name: 74LS467
-- Description: 74LS467
+- Name: 74xx_IEEE : 74LS467
+- Description: 74xx_IEEE : 74LS467
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx_IEEE-74LS467](http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx_IEEE-74LS467)
 - Short Link: [http://oom.lt/SZK74XXIEEE74LS467](http://oom.lt/SZK74XXIEEE74LS467)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74LS467|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xx_IEEE-74LS467|
 |Hex ID (short code)|hexID|SZK74XXIEEE74LS467|
-|name|name|74LS467|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74LS467', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ''}]|
+|name|name|74xx_IEEE : 74LS467|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> '74LS467'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> ''</td></tr></table>]|
 ||||

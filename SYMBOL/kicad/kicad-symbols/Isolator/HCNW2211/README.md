@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKISOLATORHCNW2211 > HCNW2211
+# SZKISOLATORHCNW2211 > Isolator : HCNW2211
 
 - ID: SYMBOL-kicad-kicad-symbols-Isolator-HCNW2211
 - Hex ID: SZKISOLATORHCNW2211
-- Name: HCNW2211
-- Description: HCNW2211
+- Name: Isolator : HCNW2211
+- Description: Isolator : HCNW2211
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-HCNW2211](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-HCNW2211)
 - Short Link: [http://oom.lt/SZKISOLATORHCNW2211](http://oom.lt/SZKISOLATORHCNW2211)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|HCNW2211|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Isolator-HCNW2211|
 |Hex ID (short code)|hexID|SZKISOLATORHCNW2211|
-|name|name|HCNW2211|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'HCNW2201', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'HCNW2211', 'kicadSymbolFootprint': 'Package_DIP:DIP-8_W10.16mm', 'kicadSymbolDatasheet': 'https://docs.broadcom.com/docs/AV02-0674EN', 'kicadSymbolki_keywords': 'opto coupler schmitt output', 'kicadSymbolki_description': 'Opto Coupler, 10kV/us, 1kV CMR, Schmitt trigger output, WDIP-8', 'kicadSymbolki_fp_filters': 'DIP*W10.16mm*'}]|
+|name|name|Isolator : HCNW2211|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'HCNW2201'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'HCNW2211'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>DIP-8_W10.16mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//docs.broadcom.com/docs/AV02-0674EN'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'opto coupler schmitt output'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Opto Coupler</td><td> 10kV/us</td><td> 1kV CMR</td><td> Schmitt trigger output</td><td> WDIP-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W10.16mm*'</td></tr></table>]|
 ||||

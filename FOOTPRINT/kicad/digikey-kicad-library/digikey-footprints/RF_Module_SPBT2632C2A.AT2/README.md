@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-RF_Module_SPBT2632C2A.AT2|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSRFMOSPBT2632C2AAT2|
 |name|name|digikey-footprints : RF_Module_SPBT2632C2A.AT2|
-|Footprint Kicad|footprintKicadDetails|{'name': 'RF_Module_SPBT2632C2A.AT2', 'description': 'http://www.st.com/content/ccc/resource/technical/document/datasheet/2c/4e/6f/76/81/4f/4b/d4/DM00048919.pdf/files/DM00048919.pdf/jcr:content/translations/en.DM00048919.pdf', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'RF_Module_SPBT2632C2A.AT2'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//www.st.com/content/ccc/resource/technical/document/datasheet/2c/4e/6f/76/81/4f/4b/d4/DM00048919.pdf/files/DM00048919.pdf/jcr</td></tr><tr><td>content/translations/en.DM00048919.pdf'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-C_Rect_L24.0mm_W12.2mm_P22.50mm_MKT|
 |Hex ID (short code)|hexID|FZKCCRECTL24W122P225MKT|
 |name|name|Capacitor_THT : C_Rect_L24.0mm_W12.2mm_P22.50mm_MKT|
-|Footprint Kicad|footprintKicadDetails|{'name': 'C_Rect_L24.0mm_W12.2mm_P22.50mm_MKT', 'description': 'C, Rect series, Radial, pin pitch=22.50mm, , length*width=24*12.2mm^2, Capacitor, https://en.tdk.eu/inf/20/20/db/fc_2009/MKT_B32560_564.pdf', 'tags': 'C Rect series Radial pin pitch 22.50mm  length 24mm width 12.2mm Capacitor', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Capacitor_THT.3dshapes/C_Rect_L24.0mm_W12.2mm_P22.50mm_MKT.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'C_Rect_L24.0mm_W12.2mm_P22.50mm_MKT'</td><td> 'description'</td></tr><tr><td> 'C</td><td> Rect series</td><td> Radial</td><td> pin pitch=22.50mm</td><td> </td><td> length*width=24*12.2mm^2</td><td> Capacitor</td><td> https</td></tr><tr><td>//en.tdk.eu/inf/20/20/db/fc_2009/MKT_B32560_564.pdf'</td><td> 'tags'</td></tr><tr><td> 'C Rect series Radial pin pitch 22.50mm  length 24mm width 12.2mm Capacitor'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Capacitor_THT.3dshapes/C_Rect_L24.0mm_W12.2mm_P22.50mm_MKT.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

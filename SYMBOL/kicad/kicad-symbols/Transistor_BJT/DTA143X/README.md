@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORBJTDTA143X > DTA143X
+# SZKTRANSISTORBJTDTA143X > Transistor_BJT : DTA143X
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-DTA143X
 - Hex ID: SZKTRANSISTORBJTDTA143X
-- Name: DTA143X
-- Description: DTA143X
+- Name: Transistor_BJT : DTA143X
+- Description: Transistor_BJT : DTA143X
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-DTA143X](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-DTA143X)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTDTA143X](http://oom.lt/SZKTRANSISTORBJTDTA143X)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DTA143X|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_BJT-DTA143X|
 |Hex ID (short code)|hexID|SZKTRANSISTORBJTDTA143X|
-|name|name|DTA143X|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'DTA143X', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_keywords': 'ROHM Digital PNP Transistor', 'kicadSymbolki_description': 'Digital PNP Transistor, 4k7/10k, SOT-23', 'kicadSymbolki_fp_filters': 'SOT?23* SC?59*'}]|
+|name|name|Transistor_BJT : DTA143X|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'DTA143X'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'ROHM Digital PNP Transistor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Digital PNP Transistor</td><td> 4k7/10k</td><td> SOT-23'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23* SC?59*'</td></tr></table>]|
 ||||

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_SOD-123|
 |Hex ID (short code)|hexID|FZKDIODESMDSOD123|
 |name|name|Diode_SMD : D_SOD-123|
-|Footprint Kicad|footprintKicadDetails|{'name': 'D_SOD-123', 'description': 'SOD-123', 'tags': 'SOD-123', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'D_SOD-123'</td><td> 'description'</td></tr><tr><td> 'SOD-123'</td><td> 'tags'</td></tr><tr><td> 'SOD-123'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Diode_SMD.3dshapes/D_SOD-123.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

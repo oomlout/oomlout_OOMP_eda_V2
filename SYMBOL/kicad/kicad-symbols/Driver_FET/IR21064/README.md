@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDRIVERFETIR2164 > IR21064
+# SZKDRIVERFETIR2164 > Driver_FET : IR21064
 
 - ID: SYMBOL-kicad-kicad-symbols-Driver_FET-IR21064
 - Hex ID: SZKDRIVERFETIR2164
-- Name: IR21064
-- Description: IR21064
+- Name: Driver_FET : IR21064
+- Description: Driver_FET : IR21064
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-IR21064](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-IR21064)
 - Short Link: [http://oom.lt/SZKDRIVERFETIR2164](http://oom.lt/SZKDRIVERFETIR2164)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IR21064|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Driver_FET-IR21064|
 |Hex ID (short code)|hexID|SZKDRIVERFETIR2164|
-|name|name|IR21064|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'IR21064', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.infineon.com/dgdl/ir2106.pdf?fileId=5546d462533600a4015355c7cfc51673', 'kicadSymbolki_keywords': 'Gate Driver', 'kicadSymbolki_description': 'High and Low Side Driver, 600V, 200/350mA, PDIP-14/SOIC-14', 'kicadSymbolki_fp_filters': 'SOIC*3.9x8.7mm*P1.27mm* DIP*W7.62mm*'}]|
+|name|name|Driver_FET : IR21064|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'IR21064'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.infineon.com/dgdl/ir2106.pdf?fileId=5546d462533600a4015355c7cfc51673'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Gate Driver'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'High and Low Side Driver</td><td> 600V</td><td> 200/350mA</td><td> PDIP-14/SOIC-14'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*3.9x8.7mm*P1.27mm* DIP*W7.62mm*'</td></tr></table>]|
 ||||

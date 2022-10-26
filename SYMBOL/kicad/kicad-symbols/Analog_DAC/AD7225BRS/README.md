@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKANALOGDACAD7225BRS > AD7225BRS
+# SZKANALOGDACAD7225BRS > Analog_DAC : AD7225BRS
 
 - ID: SYMBOL-kicad-kicad-symbols-Analog_DAC-AD7225BRS
 - Hex ID: SZKANALOGDACAD7225BRS
-- Name: AD7225BRS
-- Description: AD7225BRS
+- Name: Analog_DAC : AD7225BRS
+- Description: Analog_DAC : AD7225BRS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-AD7225BRS](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-AD7225BRS)
 - Short Link: [http://oom.lt/SZKANALOGDACAD7225BRS](http://oom.lt/SZKANALOGDACAD7225BRS)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AD7225BRS|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_DAC-AD7225BRS|
 |Hex ID (short code)|hexID|SZKANALOGDACAD7225BRS|
-|name|name|AD7225BRS|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AD7225BRS', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.analog.com/static/imported-files/data_sheets/AD7225.pdf', 'kicadSymbolki_keywords': '8bit DAC 4CH', 'kicadSymbolki_description': 'Quad 8bit DAC, Separate Reference Voltage, SSOP-24', 'kicadSymbolki_fp_filters': 'SSOP*'}]|
+|name|name|Analog_DAC : AD7225BRS|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'AD7225BRS'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/static/imported-files/data_sheets/AD7225.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> '8bit DAC 4CH'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Quad 8bit DAC</td><td> Separate Reference Voltage</td><td> SSOP-24'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SSOP*'</td></tr></table>]|
 ||||

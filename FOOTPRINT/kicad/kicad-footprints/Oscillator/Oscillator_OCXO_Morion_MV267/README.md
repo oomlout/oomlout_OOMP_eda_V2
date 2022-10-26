@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_OCXO_Morion_MV267|
 |Hex ID (short code)|hexID|FZKOCSOCSOCXOMORIONMV267|
 |name|name|Oscillator : Oscillator_OCXO_Morion_MV267|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Oscillator_OCXO_Morion_MV267', 'description': 'http://www.morion.com.ru/catalog_pdf/MV267.pdf', 'tags': 'OCXO', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Oscillator.3dshapes/Oscillator_OCXO_Morion_MV267.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Oscillator_OCXO_Morion_MV267'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//www.morion.com.ru/catalog_pdf/MV267.pdf'</td><td> 'tags'</td></tr><tr><td> 'OCXO'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Oscillator.3dshapes/Oscillator_OCXO_Morion_MV267.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

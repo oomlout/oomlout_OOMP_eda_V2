@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKVIDEOTDA9513 > TDA9513
+# SZKVIDEOTDA9513 > Video : TDA9513
 
 - ID: SYMBOL-kicad-kicad-symbols-Video-TDA9513
 - Hex ID: SZKVIDEOTDA9513
-- Name: TDA9513
-- Description: TDA9513
+- Name: Video : TDA9513
+- Description: Video : TDA9513
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Video-TDA9513](http://oom.lt/SYMBOL-kicad-kicad-symbols-Video-TDA9513)
 - Short Link: [http://oom.lt/SZKVIDEOTDA9513](http://oom.lt/SZKVIDEOTDA9513)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TDA9513|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Video-TDA9513|
 |Hex ID (short code)|hexID|SZKVIDEOTDA9513|
-|name|name|TDA9513|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TDA9500', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TDA9513', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ''}]|
+|name|name|Video : TDA9513|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'TDA9500'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TDA9513'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> ''</td></tr></table>]|
 ||||

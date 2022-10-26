@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORSWITCHINGLNK615PG > LNK615PG
+# SZKREGULATORSWITCHINGLNK615PG > Regulator_Switching : LNK615PG
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK615PG
 - Hex ID: SZKREGULATORSWITCHINGLNK615PG
-- Name: LNK615PG
-- Description: LNK615PG
+- Name: Regulator_Switching : LNK615PG
+- Description: Regulator_Switching : LNK615PG
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK615PG](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK615PG)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGLNK615PG](http://oom.lt/SZKREGULATORSWITCHINGLNK615PG)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LNK615PG|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK615PG|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGLNK615PG|
-|name|name|LNK615PG|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LNK603PG', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LNK615PG', 'kicadSymbolFootprint': 'Package_DIP:PowerIntegrations_PDIP-8C', 'kicadSymbolDatasheet': 'http://www.powerint.com/sites/default/files/product-docs/linkswitch-ii_family_datasheet.pdf', 'kicadSymbolki_keywords': 'Energy-Efficient, Accurate CV/CC Switcher for Adapters and Chargers', 'kicadSymbolki_description': 'LinkSwitch-II Family, 5.1W Output Power, DIP-8C', 'kicadSymbolki_fp_filters': 'PowerIntegrations?PDIP?8C*'}]|
+|name|name|Regulator_Switching : LNK615PG|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'LNK603PG'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LNK615PG'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>PowerIntegrations_PDIP-8C'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.powerint.com/sites/default/files/product-docs/linkswitch-ii_family_datasheet.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Energy-Efficient</td><td> Accurate CV/CC Switcher for Adapters and Chargers'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'LinkSwitch-II Family</td><td> 5.1W Output Power</td><td> DIP-8C'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'PowerIntegrations?PDIP?8C*'</td></tr></table>]|
 ||||

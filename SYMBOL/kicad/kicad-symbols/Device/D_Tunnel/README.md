@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDEVICEDTUNNEL > D_Tunnel
+# SZKDEVICEDTUNNEL > Device : D_Tunnel
 
 - ID: SYMBOL-kicad-kicad-symbols-Device-D_Tunnel
 - Hex ID: SZKDEVICEDTUNNEL
-- Name: D_Tunnel
-- Description: D_Tunnel
+- Name: Device : D_Tunnel
+- Description: Device : D_Tunnel
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Tunnel](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Tunnel)
 - Short Link: [http://oom.lt/SZKDEVICEDTUNNEL](http://oom.lt/SZKDEVICEDTUNNEL)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|D_Tunnel|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-D_Tunnel|
 |Hex ID (short code)|hexID|SZKDEVICEDTUNNEL|
-|name|name|D_Tunnel|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'D_Tunnel', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'tunnel diode', 'kicadSymbolki_description': 'Tunnel diode (Esaki diode)', 'kicadSymbolki_fp_filters': 'TO-???* *_Diode_* *SingleDiode* D_*'}]|
+|name|name|Device : D_Tunnel|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'D_Tunnel'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'tunnel diode'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Tunnel diode (Esaki diode)'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TO-???* *_Diode_* *SingleDiode* D_*'</td></tr></table>]|
 ||||

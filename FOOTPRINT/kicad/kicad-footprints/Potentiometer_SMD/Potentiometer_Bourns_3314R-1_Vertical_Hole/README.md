@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Potentiometer_SMD-Potentiometer_Bourns_3314R-1_Vertical_Hole|
 |Hex ID (short code)|hexID|FZKPOTENTIOMETERSMPOTENTIOMETERBOURNS3314R1VERTICALHOLE|
 |name|name|Potentiometer_SMD : Potentiometer_Bourns_3314R-1_Vertical_Hole|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Potentiometer_Bourns_3314R-1_Vertical_Hole', 'description': 'Potentiometer, vertical, shaft hole, Bourns 3314R-1, http://www.bourns.com/docs/Product-Datasheets/3314.pdf', 'tags': 'Potentiometer vertical hole Bourns 3314R-1', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Potentiometer_SMD.3dshapes/Potentiometer_Bourns_3314R-1_Vertical_Hole.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Potentiometer_Bourns_3314R-1_Vertical_Hole'</td><td> 'description'</td></tr><tr><td> 'Potentiometer</td><td> vertical</td><td> shaft hole</td><td> Bourns 3314R-1</td><td> http</td></tr><tr><td>//www.bourns.com/docs/Product-Datasheets/3314.pdf'</td><td> 'tags'</td></tr><tr><td> 'Potentiometer vertical hole Bourns 3314R-1'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Potentiometer_SMD.3dshapes/Potentiometer_Bourns_3314R-1_Vertical_Hole.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

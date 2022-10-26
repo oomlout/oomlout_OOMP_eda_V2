@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSSENSLG14XK3451SEN345 > SENS-LG14-X-K345-01-SEN345
+# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSSENSLG14XK3451SEN345 > oomlout_OOMP_parts : SENS-LG14-X-K345-01-SEN345
 
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-SENS-LG14-X-K345-01-SEN345
 - Hex ID: SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSSENSLG14XK3451SEN345
-- Name: SENS-LG14-X-K345-01-SEN345
-- Description: SENS-LG14-X-K345-01-SEN345
+- Name: oomlout_OOMP_parts : SENS-LG14-X-K345-01-SEN345
+- Description: oomlout_OOMP_parts : SENS-LG14-X-K345-01-SEN345
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-SENS-LG14-X-K345-01-SEN345](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-SENS-LG14-X-K345-01-SEN345)
 - Short Link: [http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSSENSLG14XK3451SEN345](http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSSENSLG14XK3451SEN345)
   
@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|SENS-LG14-X-K345-01-SEN345|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-SENS-LG14-X-K345-01-SEN345|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSSENSLG14XK3451SEN345|
-|name|name|SENS-LG14-X-K345-01-SEN345|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'SENS-LG14-X-K345-01-SEN345', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:SENS-LG14-X-K345-01-SEN345', 'kicadSymbolDatasheet': 'oom.lt/SEN345', 'kicadSymbolki_keywords': '3-axis accelerometer i2c spi mems', 'kicadSymbolki_description': 'hexID: SEN345;3-Axis MEMS Accelerometer, 2/4/8/16g range, I2C/SPI, LGA-14', 'kicadSymbolki_fp_filters': '*LGA*3x5mm*P0.8mm*'}]|
+|name|name|oomlout_OOMP_parts : SENS-LG14-X-K345-01-SEN345|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'SENS-LG14-X-K345-01-SEN345'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'oomlout_OOMP_parts</td></tr><tr><td>SENS-LG14-X-K345-01-SEN345'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'oom.lt/SEN345'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> '3-axis accelerometer i2c spi mems'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'hexID</td></tr><tr><td> SEN345;3-Axis MEMS Accelerometer</td><td> 2/4/8/16g range</td><td> I2C/SPI</td><td> LGA-14'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> '*LGA*3x5mm*P0.8mm*'</td></tr></table>]|
 ||||

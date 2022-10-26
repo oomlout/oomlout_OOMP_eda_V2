@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRTEZ4D2 > TEZ4.0-D-2
+# SZKTRTEZ4D2 > Transformer : TEZ4.0-D-2
 
 - ID: SYMBOL-kicad-kicad-symbols-Transformer-TEZ4.0-D-2
 - Hex ID: SZKTRTEZ4D2
-- Name: TEZ4.0-D-2
-- Description: TEZ4.0-D-2
+- Name: Transformer : TEZ4.0-D-2
+- Description: Transformer : TEZ4.0-D-2
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-TEZ4.0-D-2](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-TEZ4.0-D-2)
 - Short Link: [http://oom.lt/SZKTRTEZ4D2](http://oom.lt/SZKTRTEZ4D2)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TEZ4.0-D-2|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transformer-TEZ4.0-D-2|
 |Hex ID (short code)|hexID|SZKTRTEZ4D2|
-|name|name|TEZ4.0-D-2|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'TR', 'kicadSymbolValue': 'TEZ4.0-D-2', 'kicadSymbolFootprint': 'Transformer_THT:Transformer_Breve_TEZ-35x42', 'kicadSymbolDatasheet': 'http://www.breve.pl/pdf/ANG/TEZ_ang.pdf', 'kicadSymbolki_keywords': '4VA PCB Transformer Dual Secondary', 'kicadSymbolki_description': 'TEZ4.0/D/x-x, 4VA, Dual Secondary, Cast Resin Transformer, PCB', 'kicadSymbolki_fp_filters': 'Transformer*Breve*TEZ*35x42*'}]|
+|name|name|Transformer : TEZ4.0-D-2|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'TR'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TEZ4.0-D-2'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Transformer_THT</td></tr><tr><td>Transformer_Breve_TEZ-35x42'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.breve.pl/pdf/ANG/TEZ_ang.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> '4VA PCB Transformer Dual Secondary'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'TEZ4.0/D/x-x</td><td> 4VA</td><td> Dual Secondary</td><td> Cast Resin Transformer</td><td> PCB'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Transformer*Breve*TEZ*35x42*'</td></tr></table>]|
 ||||

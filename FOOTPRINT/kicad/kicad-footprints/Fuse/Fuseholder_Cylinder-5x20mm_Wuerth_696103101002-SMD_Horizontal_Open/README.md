@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Fuse-Fuseholder_Cylinder-5x20mm_Wuerth_696103101002-SMD_Horizontal_Open|
 |Hex ID (short code)|hexID|FZKFUFUHOLDERCYLINDER5X2WUERTH69613112SMHORIZONTALOPEN|
 |name|name|Fuse : Fuseholder_Cylinder-5x20mm_Wuerth_696103101002-SMD_Horizontal_Open|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Fuseholder_Cylinder-5x20mm_Wuerth_696103101002-SMD_Horizontal_Open', 'description': 'Fuseholder horizontal open 5x20mm 250V 10A Würth 696103101002', 'tags': 'Fuseholder horizontal open 5x20mm 250V 10A', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Fuse.3dshapes/Fuseholder_Cylinder-5x20mm_Wuerth_696103101002-SMD_Horizontal_Open.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Fuseholder_Cylinder-5x20mm_Wuerth_696103101002-SMD_Horizontal_Open'</td><td> 'description'</td></tr><tr><td> 'Fuseholder horizontal open 5x20mm 250V 10A Würth 696103101002'</td><td> 'tags'</td></tr><tr><td> 'Fuseholder horizontal open 5x20mm 250V 10A'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Fuse.3dshapes/Fuseholder_Cylinder-5x20mm_Wuerth_696103101002-SMD_Horizontal_Open.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

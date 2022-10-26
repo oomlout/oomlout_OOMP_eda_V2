@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKISOLATORLTV824 > LTV-824
+# SZKISOLATORLTV824 > Isolator : LTV-824
 
 - ID: SYMBOL-kicad-kicad-symbols-Isolator-LTV-824
 - Hex ID: SZKISOLATORLTV824
-- Name: LTV-824
-- Description: LTV-824
+- Name: Isolator : LTV-824
+- Description: Isolator : LTV-824
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-LTV-824](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-LTV-824)
 - Short Link: [http://oom.lt/SZKISOLATORLTV824](http://oom.lt/SZKISOLATORLTV824)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LTV-824|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Isolator-LTV-824|
 |Hex ID (short code)|hexID|SZKISOLATORLTV824|
-|name|name|LTV-824|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LTV-824', 'kicadSymbolFootprint': 'Package_DIP:DIP-8_W7.62mm', 'kicadSymbolDatasheet': 'http://optoelectronics.liteon.com/upload/download/DS-70-96-0013/S_110_LTV-814%20824%20844%20(M,%20S,%20S-TA,%20S-TA1,%20S-TP)%20Series.pdf', 'kicadSymbolki_keywords': 'Dual NPN AC DC Optocoupler', 'kicadSymbolki_description': 'Dual AC/DC Optocoupler, Vce 35V, CTR 20%, DIP8', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
+|name|name|Isolator : LTV-824|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LTV-824'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>DIP-8_W7.62mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//optoelectronics.liteon.com/upload/download/DS-70-96-0013/S_110_LTV-814%20824%20844%20(M</td><td>%20S</td><td>%20S-TA</td><td>%20S-TA1</td><td>%20S-TP)%20Series.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Dual NPN AC DC Optocoupler'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Dual AC/DC Optocoupler</td><td> Vce 35V</td><td> CTR 20%</td><td> DIP8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W7.62mm*'</td></tr></table>]|
 ||||

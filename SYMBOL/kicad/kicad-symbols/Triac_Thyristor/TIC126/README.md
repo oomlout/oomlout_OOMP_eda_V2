@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRIACTHYRISTORTIC126 > TIC126
+# SZKTRIACTHYRISTORTIC126 > Triac_Thyristor : TIC126
 
 - ID: SYMBOL-kicad-kicad-symbols-Triac_Thyristor-TIC126
 - Hex ID: SZKTRIACTHYRISTORTIC126
-- Name: TIC126
-- Description: TIC126
+- Name: Triac_Thyristor : TIC126
+- Description: Triac_Thyristor : TIC126
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Triac_Thyristor-TIC126](http://oom.lt/SYMBOL-kicad-kicad-symbols-Triac_Thyristor-TIC126)
 - Short Link: [http://oom.lt/SZKTRIACTHYRISTORTIC126](http://oom.lt/SZKTRIACTHYRISTORTIC126)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TIC126|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Triac_Thyristor-TIC126|
 |Hex ID (short code)|hexID|SZKTRIACTHYRISTORTIC126|
-|name|name|TIC126|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TIC106', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'TIC126', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-220-3_Vertical', 'kicadSymbolDatasheet': 'https://cdn-reichelt.de/documents/datenblatt/A400/TIC126.pdf', 'kicadSymbolki_keywords': 'thyristor', 'kicadSymbolki_description': '12A Ion, 400-800V Voff, Silicon Controlled Rectifier (Thyristor), TO-220', 'kicadSymbolki_fp_filters': 'TO?220*'}]|
+|name|name|Triac_Thyristor : TIC126|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'TIC106'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TIC126'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_THT</td></tr><tr><td>TO-220-3_Vertical'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//cdn-reichelt.de/documents/datenblatt/A400/TIC126.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'thyristor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '12A Ion</td><td> 400-800V Voff</td><td> Silicon Controlled Rectifier (Thyristor)</td><td> TO-220'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TO?220*'</td></tr></table>]|
 ||||

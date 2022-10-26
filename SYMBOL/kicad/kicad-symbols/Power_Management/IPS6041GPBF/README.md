@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKPOWERMANAGEMENTIPS641GPBF > IPS6041GPBF
+# SZKPOWERMANAGEMENTIPS641GPBF > Power_Management : IPS6041GPBF
 
 - ID: SYMBOL-kicad-kicad-symbols-Power_Management-IPS6041GPBF
 - Hex ID: SZKPOWERMANAGEMENTIPS641GPBF
-- Name: IPS6041GPBF
-- Description: IPS6041GPBF
+- Name: Power_Management : IPS6041GPBF
+- Description: Power_Management : IPS6041GPBF
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-IPS6041GPBF](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-IPS6041GPBF)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTIPS641GPBF](http://oom.lt/SZKPOWERMANAGEMENTIPS641GPBF)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IPS6041GPBF|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Management-IPS6041GPBF|
 |Hex ID (short code)|hexID|SZKPOWERMANAGEMENTIPS641GPBF|
-|name|name|IPS6041GPBF|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'IPS6041GPBF', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm', 'kicadSymbolDatasheet': 'http://www.irf.com/product-info/datasheets/data/ips6041pbf.pdf', 'kicadSymbolki_keywords': 'Intelligent Power Switch High Side MOSFET', 'kicadSymbolki_description': '39V, 5A, Intelligent Power Switch High Side, SO-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm*'}]|
+|name|name|Power_Management : IPS6041GPBF|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'IPS6041GPBF'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-8_3.9x4.9mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.irf.com/product-info/datasheets/data/ips6041pbf.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Intelligent Power Switch High Side MOSFET'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '39V</td><td> 5A</td><td> Intelligent Power Switch High Side</td><td> SO-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*3.9x4.9mm*P1.27mm*'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKINTERFACEUARTMAX3221 > MAX3221
+# SZKINTERFACEUARTMAX3221 > Interface_UART : MAX3221
 
 - ID: SYMBOL-kicad-kicad-symbols-Interface_UART-MAX3221
 - Hex ID: SZKINTERFACEUARTMAX3221
-- Name: MAX3221
-- Description: MAX3221
+- Name: Interface_UART : MAX3221
+- Description: Interface_UART : MAX3221
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-MAX3221](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-MAX3221)
 - Short Link: [http://oom.lt/SZKINTERFACEUARTMAX3221](http://oom.lt/SZKINTERFACEUARTMAX3221)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MAX3221|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_UART-MAX3221|
 |Hex ID (short code)|hexID|SZKINTERFACEUARTMAX3221|
-|name|name|MAX3221|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MAX3221', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/max3221.pdf', 'kicadSymbolki_keywords': 'serial UART RS232', 'kicadSymbolki_description': 'RS232 transceiver with 15kV ESD protection', 'kicadSymbolki_fp_filters': 'SSOP* TSSOP*'}]|
+|name|name|Interface_UART : MAX3221|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MAX3221'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/max3221.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'serial UART RS232'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'RS232 transceiver with 15kV ESD protection'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SSOP* TSSOP*'</td></tr></table>]|
 ||||

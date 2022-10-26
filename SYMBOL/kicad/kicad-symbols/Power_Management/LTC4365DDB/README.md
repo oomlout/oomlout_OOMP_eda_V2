@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKPOWERMANAGEMENTLTC4365DDB > LTC4365DDB
+# SZKPOWERMANAGEMENTLTC4365DDB > Power_Management : LTC4365DDB
 
 - ID: SYMBOL-kicad-kicad-symbols-Power_Management-LTC4365DDB
 - Hex ID: SZKPOWERMANAGEMENTLTC4365DDB
-- Name: LTC4365DDB
-- Description: LTC4365DDB
+- Name: Power_Management : LTC4365DDB
+- Description: Power_Management : LTC4365DDB
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-LTC4365DDB](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-LTC4365DDB)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTLTC4365DDB](http://oom.lt/SZKPOWERMANAGEMENTLTC4365DDB)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LTC4365DDB|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Management-LTC4365DDB|
 |Hex ID (short code)|hexID|SZKPOWERMANAGEMENTLTC4365DDB|
-|name|name|LTC4365DDB|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LTC4365DDB', 'kicadSymbolFootprint': 'Package_DFN_QFN:DFN-8-1EP_2x3mm_P0.5mm_EP0.61x2.2mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/4365fa.pdf', 'kicadSymbolki_keywords': 'overvoltage undervoltage reverse-polarity protection', 'kicadSymbolki_description': 'Overvoltage, Undervoltage and Reverse Supply Protection Controller, 3x2mm DFN-8 package, 50Hz/60Hz noise rejection', 'kicadSymbolki_fp_filters': 'DFN*1EP*2x3mm*P0.5mm*'}]|
+|name|name|Power_Management : LTC4365DDB|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LTC4365DDB'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>DFN-8-1EP_2x3mm_P0.5mm_EP0.61x2.2mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/4365fa.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'overvoltage undervoltage reverse-polarity protection'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Overvoltage</td><td> Undervoltage and Reverse Supply Protection Controller</td><td> 3x2mm DFN-8 package</td><td> 50Hz/60Hz noise rejection'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DFN*1EP*2x3mm*P0.5mm*'</td></tr></table>]|
 ||||

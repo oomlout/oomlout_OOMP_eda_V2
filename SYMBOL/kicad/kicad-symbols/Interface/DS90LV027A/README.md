@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKINTERFACEDS9LV27A > DS90LV027A
+# SZKINTERFACEDS9LV27A > Interface : DS90LV027A
 
 - ID: SYMBOL-kicad-kicad-symbols-Interface-DS90LV027A
 - Hex ID: SZKINTERFACEDS9LV27A
-- Name: DS90LV027A
-- Description: DS90LV027A
+- Name: Interface : DS90LV027A
+- Description: Interface : DS90LV027A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-DS90LV027A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-DS90LV027A)
 - Short Link: [http://oom.lt/SZKINTERFACEDS9LV27A](http://oom.lt/SZKINTERFACEDS9LV27A)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DS90LV027A|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface-DS90LV027A|
 |Hex ID (short code)|hexID|SZKINTERFACEDS9LV27A|
-|name|name|DS90LV027A|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'DS90LV027A', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/ds90lv027a.pdf', 'kicadSymbolki_keywords': 'Dual LVDS Driver', 'kicadSymbolki_description': 'LVDS Dual High Speed Differential Driver, >600MBps, SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm*'}]|
+|name|name|Interface : DS90LV027A|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'DS90LV027A'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-8_3.9x4.9mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/ds90lv027a.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Dual LVDS Driver'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'LVDS Dual High Speed Differential Driver</td><td> >600MBps</td><td> SOIC-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*3.9x4.9mm*P1.27mm*'</td></tr></table>]|
 ||||

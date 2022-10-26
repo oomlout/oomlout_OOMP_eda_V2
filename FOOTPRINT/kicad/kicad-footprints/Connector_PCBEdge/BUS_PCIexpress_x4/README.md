@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_PCBEdge-BUS_PCIexpress_x4|
 |Hex ID (short code)|hexID|FZKCNPCBEDGEBUSPCIEXPRESSX4|
 |name|name|Connector_PCBEdge : BUS_PCIexpress_x4|
-|Footprint Kicad|footprintKicadDetails|{'name': 'BUS_PCIexpress_x4', 'description': 'PCIexpress Bus Edge Connector x1 http://www.ritrontek.com/uploadfile/2016/1026/20161026105231124.pdf#page=70', 'tags': 'PCIe', 'attributeType': None, 'pins': {'type': 'connect', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'BUS_PCIexpress_x4'</td><td> 'description'</td></tr><tr><td> 'PCIexpress Bus Edge Connector x1 http</td></tr><tr><td>//www.ritrontek.com/uploadfile/2016/1026/20161026105231124.pdf#page=70'</td><td> 'tags'</td></tr><tr><td> 'PCIe'</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'connect'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

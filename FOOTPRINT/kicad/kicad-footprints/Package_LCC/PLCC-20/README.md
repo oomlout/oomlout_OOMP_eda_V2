@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_LCC-PLCC-20|
 |Hex ID (short code)|hexID|FZKLCCPLCC2|
 |name|name|Package_LCC : PLCC-20|
-|Footprint Kicad|footprintKicadDetails|{'name': 'PLCC-20', 'description': 'PLCC, 20 pins, surface mount', 'tags': 'plcc smt', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_LCC.3dshapes/PLCC-20.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'PLCC-20'</td><td> 'description'</td></tr><tr><td> 'PLCC</td><td> 20 pins</td><td> surface mount'</td><td> 'tags'</td></tr><tr><td> 'plcc smt'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_LCC.3dshapes/PLCC-20.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

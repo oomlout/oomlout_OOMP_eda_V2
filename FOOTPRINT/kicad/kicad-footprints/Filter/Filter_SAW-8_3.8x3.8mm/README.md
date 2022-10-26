@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Filter-Filter_SAW-8_3.8x3.8mm|
 |Hex ID (short code)|hexID|FZKFILFILSAW838X38|
 |name|name|Filter : Filter_SAW-8_3.8x3.8mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Filter_SAW-8_3.8x3.8mm', 'description': '8-pin 3.8x3.8mm SAW filter, https://www.golledge.com/media/1831/ma05497.pdf', 'tags': 'SAW filter 8-pin', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Filter.3dshapes/Filter_SAW-8_3.8x3.8mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Filter_SAW-8_3.8x3.8mm'</td><td> 'description'</td></tr><tr><td> '8-pin 3.8x3.8mm SAW filter</td><td> https</td></tr><tr><td>//www.golledge.com/media/1831/ma05497.pdf'</td><td> 'tags'</td></tr><tr><td> 'SAW filter 8-pin'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Filter.3dshapes/Filter_SAW-8_3.8x3.8mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

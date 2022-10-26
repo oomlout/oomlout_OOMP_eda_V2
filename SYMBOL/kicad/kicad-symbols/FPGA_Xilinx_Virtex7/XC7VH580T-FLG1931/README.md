@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKFPGAXILINXVIRTEX7XC7VH58TFLG1931 > XC7VH580T-FLG1931
+# SZKFPGAXILINXVIRTEX7XC7VH58TFLG1931 > FPGA_Xilinx_Virtex7 : XC7VH580T-FLG1931
 
 - ID: SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Virtex7-XC7VH580T-FLG1931
 - Hex ID: SZKFPGAXILINXVIRTEX7XC7VH58TFLG1931
-- Name: XC7VH580T-FLG1931
-- Description: XC7VH580T-FLG1931
+- Name: FPGA_Xilinx_Virtex7 : XC7VH580T-FLG1931
+- Description: FPGA_Xilinx_Virtex7 : XC7VH580T-FLG1931
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Virtex7-XC7VH580T-FLG1931](http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Virtex7-XC7VH580T-FLG1931)
 - Short Link: [http://oom.lt/SZKFPGAXILINXVIRTEX7XC7VH58TFLG1931](http://oom.lt/SZKFPGAXILINXVIRTEX7XC7VH58TFLG1931)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|XC7VH580T-FLG1931|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Virtex7-XC7VH580T-FLG1931|
 |Hex ID (short code)|hexID|SZKFPGAXILINXVIRTEX7XC7VH58TFLG1931|
-|name|name|XC7VH580T-FLG1931|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'XC7VH580T-FLG1931', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'FPGA', 'kicadSymbolki_description': 'Virtex 7 HT 580 XC7VH580T-FLG1931'}]|
+|name|name|FPGA_Xilinx_Virtex7 : XC7VH580T-FLG1931|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'XC7VH580T-FLG1931'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_locked'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'FPGA'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Virtex 7 HT 580 XC7VH580T-FLG1931'</td></tr></table>]|
 ||||

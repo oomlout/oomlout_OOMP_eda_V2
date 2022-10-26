@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKANALOGADCCA33 > CA3300
+# SZKANALOGADCCA33 > Analog_ADC : CA3300
 
 - ID: SYMBOL-kicad-kicad-symbols-Analog_ADC-CA3300
 - Hex ID: SZKANALOGADCCA33
-- Name: CA3300
-- Description: CA3300
+- Name: Analog_ADC : CA3300
+- Description: Analog_ADC : CA3300
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-CA3300](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-CA3300)
 - Short Link: [http://oom.lt/SZKANALOGADCCA33](http://oom.lt/SZKANALOGADCCA33)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|CA3300|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_ADC-CA3300|
 |Hex ID (short code)|hexID|SZKANALOGADCCA33|
-|name|name|CA3300|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'CA3300', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_keywords': 'ADC CAN', 'kicadSymbolki_description': 'Convertisseur A->D 6 bits rapide'}]|
+|name|name|Analog_ADC : CA3300|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'CA3300'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'ADC CAN'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Convertisseur A->D 6 bits rapide'</td></tr></table>]|
 ||||

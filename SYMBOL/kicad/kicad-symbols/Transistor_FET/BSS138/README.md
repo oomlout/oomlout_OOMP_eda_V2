@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORFETBSS138 > BSS138
+# SZKTRANSISTORFETBSS138 > Transistor_FET : BSS138
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-BSS138
 - Hex ID: SZKTRANSISTORFETBSS138
-- Name: BSS138
-- Description: BSS138
+- Name: Transistor_FET : BSS138
+- Description: Transistor_FET : BSS138
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BSS138](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BSS138)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETBSS138](http://oom.lt/SZKTRANSISTORFETBSS138)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BSS138|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-BSS138|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETBSS138|
-|name|name|BSS138|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'BSS138', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pub/Collateral/BSS138-D.PDF', 'kicadSymbolki_keywords': 'N-Channel MOSFET', 'kicadSymbolki_description': '50V Vds, 0.22A Id, N-Channel MOSFET, SOT-23', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
+|name|name|Transistor_FET : BSS138|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'BSS138'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-23'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.onsemi.com/pub/Collateral/BSS138-D.PDF'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'N-Channel MOSFET'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '50V Vds</td><td> 0.22A Id</td><td> N-Channel MOSFET</td><td> SOT-23'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23*'</td></tr></table>]|
 ||||

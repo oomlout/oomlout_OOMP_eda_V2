@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_SMC|
 |Hex ID (short code)|hexID|FZKDIODESMDSMC|
 |name|name|Diode_SMD : D_SMC|
-|Footprint Kicad|footprintKicadDetails|{'name': 'D_SMC', 'description': 'Diode SMC (DO-214AB)', 'tags': 'Diode SMC (DO-214AB)', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SMC.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'D_SMC'</td><td> 'description'</td></tr><tr><td> 'Diode SMC (DO-214AB)'</td><td> 'tags'</td></tr><tr><td> 'Diode SMC (DO-214AB)'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Diode_SMD.3dshapes/D_SMC.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

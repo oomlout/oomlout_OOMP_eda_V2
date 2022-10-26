@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKPOWERVBUS > VBUS
+# SZKPOWERVBUS > power : VBUS
 
 - ID: SYMBOL-kicad-kicad-symbols-power-VBUS
 - Hex ID: SZKPOWERVBUS
-- Name: VBUS
-- Description: VBUS
+- Name: power : VBUS
+- Description: power : VBUS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-power-VBUS](http://oom.lt/SYMBOL-kicad-kicad-symbols-power-VBUS)
 - Short Link: [http://oom.lt/SZKPOWERVBUS](http://oom.lt/SZKPOWERVBUS)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|VBUS|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-power-VBUS|
 |Hex ID (short code)|hexID|SZKPOWERVBUS|
-|name|name|VBUS|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': '#PWR', 'kicadSymbolValue': 'VBUS', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_keywords': 'power-flag', 'kicadSymbolki_description': 'Power symbol creates a global label with name "VBUS"'}]|
+|name|name|power : VBUS|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> '#PWR'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'VBUS'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'power-flag'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Power symbol creates a global label with name "VBUS"'</td></tr></table>]|
 ||||

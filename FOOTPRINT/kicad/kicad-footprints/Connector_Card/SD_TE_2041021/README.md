@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Card-SD_TE_2041021|
 |Hex ID (short code)|hexID|FZKCNCARDSDTE24121|
 |name|name|Connector_Card : SD_TE_2041021|
-|Footprint Kicad|footprintKicadDetails|{'name': 'SD_TE_2041021', 'description': 'SD card connector, top mount, SMT (http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F2041021%7FB%7Fpdf%7FEnglish%7FENG_CD_2041021_B_C_2041021_B.pdf%7F2041021-4)', 'tags': 'sd card', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_Card.3dshapes/SD_TE_2041021.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SD_TE_2041021'</td><td> 'description'</td></tr><tr><td> 'SD card connector</td><td> top mount</td><td> SMT (http</td></tr><tr><td>//www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F2041021%7FB%7Fpdf%7FEnglish%7FENG_CD_2041021_B_C_2041021_B.pdf%7F2041021-4)'</td><td> 'tags'</td></tr><tr><td> 'sd card'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_Card.3dshapes/SD_TE_2041021.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

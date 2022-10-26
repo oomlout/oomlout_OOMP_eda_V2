@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D5.0mm-4_RGB_Staggered_Pins|
 |Hex ID (short code)|hexID|FZKLLD54RGBSTAGGEREDPINS|
 |name|name|LED_THT : LED_D5.0mm-4_RGB_Staggered_Pins|
-|Footprint Kicad|footprintKicadDetails|{'name': 'LED_D5.0mm-4_RGB_Staggered_Pins', 'description': 'LED, diameter 5.0mm, 4 pins, WP154A4, https://www.kingbright.com/attachments/file/psearch/000/00/00/L-154A4SUREQBFZGEW(Ver.11A).pdf', 'tags': 'rgb led', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/LED_THT.3dshapes/LED_D5.0mm-4_RGB_Staggered_Pins.wrl', 'pins': {'type': 'thru_hole', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'LED_D5.0mm-4_RGB_Staggered_Pins'</td><td> 'description'</td></tr><tr><td> 'LED</td><td> diameter 5.0mm</td><td> 4 pins</td><td> WP154A4</td><td> https</td></tr><tr><td>//www.kingbright.com/attachments/file/psearch/000/00/00/L-154A4SUREQBFZGEW(Ver.11A).pdf'</td><td> 'tags'</td></tr><tr><td> 'rgb led'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/LED_THT.3dshapes/LED_D5.0mm-4_RGB_Staggered_Pins.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

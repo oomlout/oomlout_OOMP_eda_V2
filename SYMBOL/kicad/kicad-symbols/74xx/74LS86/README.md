@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZK74XX74LS86 > 74LS86
+# SZK74XX74LS86 > 74xx : 74LS86
 
 - ID: SYMBOL-kicad-kicad-symbols-74xx-74LS86
 - Hex ID: SZK74XX74LS86
-- Name: 74LS86
-- Description: 74LS86
+- Name: 74xx : 74LS86
+- Description: 74xx : 74LS86
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx-74LS86](http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx-74LS86)
 - Short Link: [http://oom.lt/SZK74XX74LS86](http://oom.lt/SZK74XX74LS86)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74LS86|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xx-74LS86|
 |Hex ID (short code)|hexID|SZK74XX74LS86|
-|name|name|74LS86|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74LS86', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '74xx/74ls86.pdf', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'TTL XOR2', 'kicadSymbolki_description': 'Quad 2-input XOR', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
+|name|name|74xx : 74LS86|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> '74LS86'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '74xx/74ls86.pdf'</td><td> 'kicadSymbolki_locked'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'TTL XOR2'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Quad 2-input XOR'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W7.62mm*'</td></tr></table>]|
 ||||

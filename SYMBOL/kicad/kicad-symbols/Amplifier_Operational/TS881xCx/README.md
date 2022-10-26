@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKAMPLIFIEROPERATIONALTS881XCX > TS881xCx
+# SZKAMPLIFIEROPERATIONALTS881XCX > Amplifier_Operational : TS881xCx
 
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-TS881xCx
 - Hex ID: SZKAMPLIFIEROPERATIONALTS881XCX
-- Name: TS881xCx
-- Description: TS881xCx
+- Name: Amplifier_Operational : TS881xCx
+- Description: Amplifier_Operational : TS881xCx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-TS881xCx](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-TS881xCx)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALTS881XCX](http://oom.lt/SZKAMPLIFIEROPERATIONALTS881XCX)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TS881xCx|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Operational-TS881xCx|
 |Hex ID (short code)|hexID|SZKAMPLIFIEROPERATIONALTS881XCX|
-|name|name|TS881xCx|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MCP6001x-LT', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TS881xCx', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-353_SC-70-5', 'kicadSymbolDatasheet': 'http://www.st.com/content/ccc/resource/technical/document/datasheet/a2/60/3e/5d/b2/c1/4a/e9/DM00057901.pdf/files/DM00057901.pdf/jcr:content/translations/en.DM00057901.pdf', 'kicadSymbolki_keywords': 'single comparator', 'kicadSymbolki_description': 'Rail-to-rail 0.9V nanopower comparator, SC-70-5', 'kicadSymbolki_fp_filters': '*SC?70*'}]|
+|name|name|Amplifier_Operational : TS881xCx|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'MCP6001x-LT'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TS881xCx'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-353_SC-70-5'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.st.com/content/ccc/resource/technical/document/datasheet/a2/60/3e/5d/b2/c1/4a/e9/DM00057901.pdf/files/DM00057901.pdf/jcr</td></tr><tr><td>content/translations/en.DM00057901.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'single comparator'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Rail-to-rail 0.9V nanopower comparator</td><td> SC-70-5'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> '*SC?70*'</td></tr></table>]|
 ||||

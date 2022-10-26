@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Microchip_DRQFN-64-1EP_7x7mm_P0.65mm_EP4.1x4.1mm_ThermalVias|
 |Hex ID (short code)|hexID|FZKDFNMCHIPDRQFN641EP7X7P65EP41X41THERMALVIAS|
 |name|name|Package_DFN_QFN : Microchip_DRQFN-64-1EP_7x7mm_P0.65mm_EP4.1x4.1mm_ThermalVias|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Microchip_DRQFN-64-1EP_7x7mm_P0.65mm_EP4.1x4.1mm_ThermalVias', 'description': 'QFN, 64 Pin, dual row (http://ww1.microchip.com/downloads/en/DeviceDoc/64L_VQFN_7x7_Dual_Row_%5BSVB%5D_C04-21420a.pdf)', 'tags': 'QFN dual row', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Microchip_DRQFN-64-1EP_7x7mm_P0.65mm_EP4.1x4.1mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Microchip_DRQFN-64-1EP_7x7mm_P0.65mm_EP4.1x4.1mm_ThermalVias'</td><td> 'description'</td></tr><tr><td> 'QFN</td><td> 64 Pin</td><td> dual row (http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/64L_VQFN_7x7_Dual_Row_%5BSVB%5D_C04-21420a.pdf)'</td><td> 'tags'</td></tr><tr><td> 'QFN dual row'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DFN_QFN.3dshapes/Microchip_DRQFN-64-1EP_7x7mm_P0.65mm_EP4.1x4.1mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

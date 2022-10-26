@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORBJTDTA123J > DTA123J
+# SZKTRANSISTORBJTDTA123J > Transistor_BJT : DTA123J
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-DTA123J
 - Hex ID: SZKTRANSISTORBJTDTA123J
-- Name: DTA123J
-- Description: DTA123J
+- Name: Transistor_BJT : DTA123J
+- Description: Transistor_BJT : DTA123J
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-DTA123J](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-DTA123J)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTDTA123J](http://oom.lt/SZKTRANSISTORBJTDTA123J)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DTA123J|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_BJT-DTA123J|
 |Hex ID (short code)|hexID|SZKTRANSISTORBJTDTA123J|
-|name|name|DTA123J|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'DTA123J', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_keywords': 'ROHM Digital PNP Transistor', 'kicadSymbolki_description': 'Digital PNP Transistor, 2k2/47k, SOT-23', 'kicadSymbolki_fp_filters': 'SOT?23* SC?59*'}]|
+|name|name|Transistor_BJT : DTA123J|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'DTA123J'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'ROHM Digital PNP Transistor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Digital PNP Transistor</td><td> 2k2/47k</td><td> SOT-23'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23* SC?59*'</td></tr></table>]|
 ||||

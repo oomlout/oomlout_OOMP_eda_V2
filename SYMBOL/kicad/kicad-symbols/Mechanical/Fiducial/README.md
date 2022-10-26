@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMECHANICALFID > Fiducial
+# SZKMECHANICALFID > Mechanical : Fiducial
 
 - ID: SYMBOL-kicad-kicad-symbols-Mechanical-Fiducial
 - Hex ID: SZKMECHANICALFID
-- Name: Fiducial
-- Description: Fiducial
+- Name: Mechanical : Fiducial
+- Description: Mechanical : Fiducial
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Mechanical-Fiducial](http://oom.lt/SYMBOL-kicad-kicad-symbols-Mechanical-Fiducial)
 - Short Link: [http://oom.lt/SZKMECHANICALFID](http://oom.lt/SZKMECHANICALFID)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Fiducial|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Mechanical-Fiducial|
 |Hex ID (short code)|hexID|SZKMECHANICALFID|
-|name|name|Fiducial|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'FID', 'kicadSymbolValue': 'Fiducial', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'fiducial marker', 'kicadSymbolki_description': 'Fiducial Marker', 'kicadSymbolki_fp_filters': 'Fiducial*'}]|
+|name|name|Mechanical : Fiducial|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'FID'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Fiducial'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'fiducial marker'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Fiducial Marker'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Fiducial*'</td></tr></table>]|
 ||||

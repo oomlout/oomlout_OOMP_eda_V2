@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_BGA-UFBGA-201_10x10mm_Layout15x15_P0.65mm|
 |Hex ID (short code)|hexID|FZKBGAUFBGA211X1LAYOUT15X15P65|
 |name|name|Package_BGA : UFBGA-201_10x10mm_Layout15x15_P0.65mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'UFBGA-201_10x10mm_Layout15x15_P0.65mm', 'description': 'UFBGA-201, 15x15 raster, 10x10mm package, pitch 0.65mm; see section 7.6 of http://www.st.com/resource/en/datasheet/stm32f207vg.pdf', 'tags': 'BGA 201 0.65', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/UFBGA-201_10x10mm_Layout15x15_P0.65mm.wrl', 'pins': {'type': 'smd', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'UFBGA-201_10x10mm_Layout15x15_P0.65mm'</td><td> 'description'</td></tr><tr><td> 'UFBGA-201</td><td> 15x15 raster</td><td> 10x10mm package</td><td> pitch 0.65mm; see section 7.6 of http</td></tr><tr><td>//www.st.com/resource/en/datasheet/stm32f207vg.pdf'</td><td> 'tags'</td></tr><tr><td> 'BGA 201 0.65'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_BGA.3dshapes/UFBGA-201_10x10mm_Layout15x15_P0.65mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

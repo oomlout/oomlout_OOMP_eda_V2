@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_3.5mm_PJ320D_Horizontal|
 |Hex ID (short code)|hexID|FZKCNAUDIOJ35PJ32DHORIZONTAL|
 |name|name|Connector_Audio : Jack_3.5mm_PJ320D_Horizontal|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Jack_3.5mm_PJ320D_Horizontal', 'description': 'Headphones with microphone connector, 3.5mm, 4 pins (http://www.qingpu-electronics.com/en/products/WQP-PJ320D-72.html)', 'tags': '3.5mm jack mic microphone phones headphones 4pins audio plug', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_Audio.3dshapes/Jack_3.5mm_PJ320D_Horizontal.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Jack_3.5mm_PJ320D_Horizontal'</td><td> 'description'</td></tr><tr><td> 'Headphones with microphone connector</td><td> 3.5mm</td><td> 4 pins (http</td></tr><tr><td>//www.qingpu-electronics.com/en/products/WQP-PJ320D-72.html)'</td><td> 'tags'</td></tr><tr><td> '3.5mm jack mic microphone phones headphones 4pins audio plug'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_Audio.3dshapes/Jack_3.5mm_PJ320D_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

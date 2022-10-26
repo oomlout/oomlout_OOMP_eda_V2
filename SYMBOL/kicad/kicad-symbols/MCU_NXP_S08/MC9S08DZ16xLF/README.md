@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUNXPS8MC9S8DZ16XLF > MC9S08DZ16xLF
+# SZKMCUNXPS8MC9S8DZ16XLF > MCU_NXP_S08 : MC9S08DZ16xLF
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_NXP_S08-MC9S08DZ16xLF
 - Hex ID: SZKMCUNXPS8MC9S8DZ16XLF
-- Name: MC9S08DZ16xLF
-- Description: MC9S08DZ16xLF
+- Name: MCU_NXP_S08 : MC9S08DZ16xLF
+- Description: MCU_NXP_S08 : MC9S08DZ16xLF
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_S08-MC9S08DZ16xLF](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_S08-MC9S08DZ16xLF)
 - Short Link: [http://oom.lt/SZKMCUNXPS8MC9S8DZ16XLF](http://oom.lt/SZKMCUNXPS8MC9S8DZ16XLF)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MC9S08DZ16xLF|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_NXP_S08-MC9S08DZ16xLF|
 |Hex ID (short code)|hexID|SZKMCUNXPS8MC9S8DZ16XLF|
-|name|name|MC9S08DZ16xLF|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MC9S08DZ128xLF', 'kicadSymbolReference': 'IC', 'kicadSymbolValue': 'MC9S08DZ16xLF', 'kicadSymbolFootprint': 'Package_QFP:LQFP-48_7x7mm_P0.5mm', 'kicadSymbolDatasheet': 'http://cache.nxp.com/files/microcontrollers/doc/data_sheet/MC9S08DZ60.pdf', 'kicadSymbolki_keywords': 'NXP S08 Microcontroller', 'kicadSymbolki_description': '8-bit Cost-Effective Microcontroller, S08 core, 16kB Flash, 1kB RAM, 512B EEPROM, LQFP-48', 'kicadSymbolki_fp_filters': 'LQFP*7x7mm*P0.5mm*'}]|
+|name|name|MCU_NXP_S08 : MC9S08DZ16xLF|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'MC9S08DZ128xLF'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'IC'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MC9S08DZ16xLF'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_QFP</td></tr><tr><td>LQFP-48_7x7mm_P0.5mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//cache.nxp.com/files/microcontrollers/doc/data_sheet/MC9S08DZ60.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'NXP S08 Microcontroller'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '8-bit Cost-Effective Microcontroller</td><td> S08 core</td><td> 16kB Flash</td><td> 1kB RAM</td><td> 512B EEPROM</td><td> LQFP-48'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'LQFP*7x7mm*P0.5mm*'</td></tr></table>]|
 ||||

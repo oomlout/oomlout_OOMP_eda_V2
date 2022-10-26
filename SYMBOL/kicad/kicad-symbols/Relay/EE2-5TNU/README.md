@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKRELAYEE25TNU > EE2-5TNU
+# SZKRELAYEE25TNU > Relay : EE2-5TNU
 
 - ID: SYMBOL-kicad-kicad-symbols-Relay-EE2-5TNU
 - Hex ID: SZKRELAYEE25TNU
-- Name: EE2-5TNU
-- Description: EE2-5TNU
+- Name: Relay : EE2-5TNU
+- Description: Relay : EE2-5TNU
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-EE2-5TNU](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-EE2-5TNU)
 - Short Link: [http://oom.lt/SZKRELAYEE25TNU](http://oom.lt/SZKRELAYEE25TNU)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|EE2-5TNU|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Relay-EE2-5TNU|
 |Hex ID (short code)|hexID|SZKRELAYEE25TNU|
-|name|name|EE2-5TNU|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'EE2-3TNU', 'kicadSymbolReference': 'K', 'kicadSymbolValue': 'EE2-5TNU', 'kicadSymbolFootprint': 'Relay_SMD:Relay_DPDT_Kemet_EE2_NU_DoubleCoil', 'kicadSymbolDatasheet': 'https://content.kemet.com/datasheets/KEM_R7002_EC2_EE2.pdf', 'kicadSymbolki_keywords': 'signal relay double pole double throw DPDT DC coil double dual coil latching', 'kicadSymbolki_description': 'General purpose signal relay, Kemet EE2 Series, DPDT (2 Form C), double coil latching, SMD, 60W/125VA, 220VDC/250VAC, 2A, 5V DC coil', 'kicadSymbolki_fp_filters': 'Relay*DPDT*Kemet*EE2*NU*DoubleCoil*'}]|
+|name|name|Relay : EE2-5TNU|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'EE2-3TNU'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'K'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'EE2-5TNU'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Relay_SMD</td></tr><tr><td>Relay_DPDT_Kemet_EE2_NU_DoubleCoil'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//content.kemet.com/datasheets/KEM_R7002_EC2_EE2.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'signal relay double pole double throw DPDT DC coil double dual coil latching'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'General purpose signal relay</td><td> Kemet EE2 Series</td><td> DPDT (2 Form C)</td><td> double coil latching</td><td> SMD</td><td> 60W/125VA</td><td> 220VDC/250VAC</td><td> 2A</td><td> 5V DC coil'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Relay*DPDT*Kemet*EE2*NU*DoubleCoil*'</td></tr></table>]|
 ||||

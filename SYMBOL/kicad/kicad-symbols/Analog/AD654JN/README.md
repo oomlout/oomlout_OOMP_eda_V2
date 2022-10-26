@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKANALOGAD654JN > AD654JN
+# SZKANALOGAD654JN > Analog : AD654JN
 
 - ID: SYMBOL-kicad-kicad-symbols-Analog-AD654JN
 - Hex ID: SZKANALOGAD654JN
-- Name: AD654JN
-- Description: AD654JN
+- Name: Analog : AD654JN
+- Description: Analog : AD654JN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog-AD654JN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog-AD654JN)
 - Short Link: [http://oom.lt/SZKANALOGAD654JN](http://oom.lt/SZKANALOGAD654JN)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AD654JN|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog-AD654JN|
 |Hex ID (short code)|hexID|SZKANALOGAD654JN|
-|name|name|AD654JN|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AD654JN', 'kicadSymbolFootprint': 'Package_DIP:DIP-8_W7.62mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/AD654.pdf', 'kicadSymbolki_keywords': 'v-to-f v-f', 'kicadSymbolki_description': 'Low Cost Monolithic Voltage-to-Frequency Converter, DIP-8', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
+|name|name|Analog : AD654JN|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'AD654JN'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>DIP-8_W7.62mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/AD654.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'v-to-f v-f'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Low Cost Monolithic Voltage-to-Frequency Converter</td><td> DIP-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W7.62mm*'</td></tr></table>]|
 ||||

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SSOP-20_W3.9mm|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSS2W39|
 |name|name|digikey-footprints : SSOP-20_W3.9mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'SSOP-20_W3.9mm', 'description': 'http://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT231X.pdf', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SSOP-20_W3.9mm'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT231X.pdf'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SC-70-8_Handsoldering|
 |Hex ID (short code)|hexID|FZKPACKAGETOSOTSMSC78HANDSOLDERING|
 |name|name|Package_TO_SOT_SMD : SC-70-8_Handsoldering|
-|Footprint Kicad|footprintKicadDetails|{'name': 'SC-70-8_Handsoldering', 'description': 'SC70-8, Handsoldering', 'tags': 'SC70-8 Handsoldering', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SC-70-8.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SC-70-8_Handsoldering'</td><td> 'description'</td></tr><tr><td> 'SC70-8</td><td> Handsoldering'</td><td> 'tags'</td></tr><tr><td> 'SC70-8 Handsoldering'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_TO_SOT_SMD.3dshapes/SC-70-8.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

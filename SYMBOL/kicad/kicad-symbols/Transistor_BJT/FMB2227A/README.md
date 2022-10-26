@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORBJTFMB2227A > FMB2227A
+# SZKTRANSISTORBJTFMB2227A > Transistor_BJT : FMB2227A
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-FMB2227A
 - Hex ID: SZKTRANSISTORBJTFMB2227A
-- Name: FMB2227A
-- Description: FMB2227A
+- Name: Transistor_BJT : FMB2227A
+- Description: Transistor_BJT : FMB2227A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-FMB2227A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-FMB2227A)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTFMB2227A](http://oom.lt/SZKTRANSISTORBJTFMB2227A)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|FMB2227A|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_BJT-FMB2227A|
 |Hex ID (short code)|hexID|SZKTRANSISTORBJTFMB2227A|
-|name|name|FMB2227A|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'FMB2227A', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SuperSOT-6', 'kicadSymbolDatasheet': 'http://www.onsemi.com/pub/Collateral/FMB2227A-D.PDF', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'NPN/PNP Transistor', 'kicadSymbolki_description': '500mA IC, 30V Vce, Dual NPN/PNP Transistors, SuperSOT-6', 'kicadSymbolki_fp_filters': 'SuperSOT*'}]|
+|name|name|Transistor_BJT : FMB2227A|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'FMB2227A'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SuperSOT-6'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.onsemi.com/pub/Collateral/FMB2227A-D.PDF'</td><td> 'kicadSymbolki_locked'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'NPN/PNP Transistor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '500mA IC</td><td> 30V Vce</td><td> Dual NPN/PNP Transistors</td><td> SuperSOT-6'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SuperSOT*'</td></tr></table>]|
 ||||

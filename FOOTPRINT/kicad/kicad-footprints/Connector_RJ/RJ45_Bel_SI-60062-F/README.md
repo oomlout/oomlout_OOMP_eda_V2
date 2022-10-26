@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_RJ-RJ45_Bel_SI-60062-F|
 |Hex ID (short code)|hexID|FZKCNRJRJ45BELSI662F|
 |name|name|Connector_RJ : RJ45_Bel_SI-60062-F|
-|Footprint Kicad|footprintKicadDetails|{'name': 'RJ45_Bel_SI-60062-F', 'description': '1 Port RJ45 Magjack Connector Through Hole 10/100 Base-T, AutoMDIX, https://belfuse.com/resources/drawings/magneticsolutions/dr-mag-si-60062-f.pdf', 'tags': 'RJ45 Magjack', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_RJ.3dshapes/RJ45_Bel_SI-60062-F.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'RJ45_Bel_SI-60062-F'</td><td> 'description'</td></tr><tr><td> '1 Port RJ45 Magjack Connector Through Hole 10/100 Base-T</td><td> AutoMDIX</td><td> https</td></tr><tr><td>//belfuse.com/resources/drawings/magneticsolutions/dr-mag-si-60062-f.pdf'</td><td> 'tags'</td></tr><tr><td> 'RJ45 Magjack'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_RJ.3dshapes/RJ45_Bel_SI-60062-F.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

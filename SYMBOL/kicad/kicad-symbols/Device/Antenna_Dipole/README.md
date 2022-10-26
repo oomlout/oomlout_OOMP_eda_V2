@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDEVICEANTENNADIPOLE > Antenna_Dipole
+# SZKDEVICEANTENNADIPOLE > Device : Antenna_Dipole
 
 - ID: SYMBOL-kicad-kicad-symbols-Device-Antenna_Dipole
 - Hex ID: SZKDEVICEANTENNADIPOLE
-- Name: Antenna_Dipole
-- Description: Antenna_Dipole
+- Name: Device : Antenna_Dipole
+- Description: Device : Antenna_Dipole
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Antenna_Dipole](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Antenna_Dipole)
 - Short Link: [http://oom.lt/SZKDEVICEANTENNADIPOLE](http://oom.lt/SZKDEVICEANTENNADIPOLE)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Antenna_Dipole|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-Antenna_Dipole|
 |Hex ID (short code)|hexID|SZKDEVICEANTENNADIPOLE|
-|name|name|Antenna_Dipole|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'AE', 'kicadSymbolValue': 'Antenna_Dipole', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'dipole antenna', 'kicadSymbolki_description': 'Dipole antenna'}]|
+|name|name|Device : Antenna_Dipole|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'AE'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Antenna_Dipole'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'dipole antenna'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Dipole antenna'</td></tr></table>]|
 ||||

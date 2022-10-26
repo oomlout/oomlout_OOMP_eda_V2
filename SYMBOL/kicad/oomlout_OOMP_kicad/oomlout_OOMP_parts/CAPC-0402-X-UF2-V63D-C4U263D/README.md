@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC42XUF2V63DC4U263D > CAPC-0402-X-UF2-V63D-C4U263D
+# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC42XUF2V63DC4U263D > oomlout_OOMP_parts : CAPC-0402-X-UF2-V63D-C4U263D
 
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0402-X-UF2-V63D-C4U263D
 - Hex ID: SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC42XUF2V63DC4U263D
-- Name: CAPC-0402-X-UF2-V63D-C4U263D
-- Description: CAPC-0402-X-UF2-V63D-C4U263D
+- Name: oomlout_OOMP_parts : CAPC-0402-X-UF2-V63D-C4U263D
+- Description: oomlout_OOMP_parts : CAPC-0402-X-UF2-V63D-C4U263D
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0402-X-UF2-V63D-C4U263D](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0402-X-UF2-V63D-C4U263D)
 - Short Link: [http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC42XUF2V63DC4U263D](http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC42XUF2V63DC4U263D)
   
@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|CAPC-0402-X-UF2-V63D-C4U263D|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0402-X-UF2-V63D-C4U263D|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC42XUF2V63DC4U263D|
-|name|name|CAPC-0402-X-UF2-V63D-C4U263D|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'C', 'kicadSymbolValue': 'CAPC-0402-X-UF2-V63D-C4U263D', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:CAPC-0402-X-UF2-V63D-C4U263D', 'kicadSymbolDatasheet': 'oom.lt/C4U263D', 'kicadSymbolki_keywords': 'cap capacitor', 'kicadSymbolki_description': 'hexID: C4U263D;PARTL C-JLCC;C12530;MANUF C-XXXX;CL05A225MQ5NSNC;Unpolarized capacitor', 'kicadSymbolki_fp_filters': 'C_*'}]|
+|name|name|oomlout_OOMP_parts : CAPC-0402-X-UF2-V63D-C4U263D|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'C'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'CAPC-0402-X-UF2-V63D-C4U263D'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'oomlout_OOMP_parts</td></tr><tr><td>CAPC-0402-X-UF2-V63D-C4U263D'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'oom.lt/C4U263D'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'cap capacitor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'hexID</td></tr><tr><td> C4U263D;PARTL C-JLCC;C12530;MANUF C-XXXX;CL05A225MQ5NSNC;Unpolarized capacitor'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'C_*'</td></tr></table>]|
 ||||

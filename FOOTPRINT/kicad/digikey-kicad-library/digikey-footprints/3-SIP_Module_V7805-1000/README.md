@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-3-SIP_Module_V7805-1000|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTS3SIPMOV7851|
 |name|name|digikey-footprints : 3-SIP_Module_V7805-1000|
-|Footprint Kicad|footprintKicadDetails|{'name': '3-SIP_Module_V7805-1000', 'description': 'http://www.cui.com/product/resource/v78xx-1000.pdf', 'tags': None, 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> '3-SIP_Module_V7805-1000'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//www.cui.com/product/resource/v78xx-1000.pdf'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

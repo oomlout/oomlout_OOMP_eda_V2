@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SO-HSOP-20-1EP_11.0x15.9mm_P1.27mm_SlugDown|
 |Hex ID (short code)|hexID|FZKSOHS21EP11X159P127SLUGDOWN|
 |name|name|Package_SO : HSOP-20-1EP_11.0x15.9mm_P1.27mm_SlugDown|
-|Footprint Kicad|footprintKicadDetails|{'name': 'HSOP-20-1EP_11.0x15.9mm_P1.27mm_SlugDown', 'description': 'HSOP 11.0x15.9mm Pitch 1.27mm Slug Down (PowerSO-20) [JEDEC MO-166] (http://www.st.com/resource/en/datasheet/tda7266d.pdf, www.st.com/resource/en/application_note/cd00003801.pdf)', 'tags': 'HSOP 11.0 x 15.9mm Pitch 1.27mm', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/HSOP-20-1EP_11.0x15.9mm_P1.27mm_SlugDown.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'HSOP-20-1EP_11.0x15.9mm_P1.27mm_SlugDown'</td><td> 'description'</td></tr><tr><td> 'HSOP 11.0x15.9mm Pitch 1.27mm Slug Down (PowerSO-20) [JEDEC MO-166] (http</td></tr><tr><td>//www.st.com/resource/en/datasheet/tda7266d.pdf</td><td> www.st.com/resource/en/application_note/cd00003801.pdf)'</td><td> 'tags'</td></tr><tr><td> 'HSOP 11.0 x 15.9mm Pitch 1.27mm'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_SO.3dshapes/HSOP-20-1EP_11.0x15.9mm_P1.27mm_SlugDown.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_QFP-EQFP-144-1EP_20x20mm_P0.5mm_EP8.93x8.7mm_ThermalVias|
 |Hex ID (short code)|hexID|FZKQFPEQFP1441EP2X2P5EP893X87THERMALVIAS|
 |name|name|Package_QFP : EQFP-144-1EP_20x20mm_P0.5mm_EP8.93x8.7mm_ThermalVias|
-|Footprint Kicad|footprintKicadDetails|{'name': 'EQFP-144-1EP_20x20mm_P0.5mm_EP8.93x8.7mm_ThermalVias', 'description': 'EQFP, 144 Pin (https://www.intel.com/content/dam/www/programmable/us/en/pdfs/literature/packaging/04r00479-02.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py', 'tags': 'EQFP QFP', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_QFP.3dshapes/EQFP-144-1EP_20x20mm_P0.5mm_EP8.93x8.7mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'EQFP-144-1EP_20x20mm_P0.5mm_EP8.93x8.7mm_ThermalVias'</td><td> 'description'</td></tr><tr><td> 'EQFP</td><td> 144 Pin (https</td></tr><tr><td>//www.intel.com/content/dam/www/programmable/us/en/pdfs/literature/packaging/04r00479-02.pdf)</td><td> generated with kicad-footprint-generator ipc_gullwing_generator.py'</td><td> 'tags'</td></tr><tr><td> 'EQFP QFP'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_QFP.3dshapes/EQFP-144-1EP_20x20mm_P0.5mm_EP8.93x8.7mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKCONITX2412SAH > ITX2412SA-H
+# SZKCONITX2412SAH > Converter_DCDC : ITX2412SA-H
 
 - ID: SYMBOL-kicad-kicad-symbols-Converter_DCDC-ITX2412SA-H
 - Hex ID: SZKCONITX2412SAH
-- Name: ITX2412SA-H
-- Description: ITX2412SA-H
+- Name: Converter_DCDC : ITX2412SA-H
+- Description: Converter_DCDC : ITX2412SA-H
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-ITX2412SA-H](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-ITX2412SA-H)
 - Short Link: [http://oom.lt/SZKCONITX2412SAH](http://oom.lt/SZKCONITX2412SAH)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ITX2412SA-H|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Converter_DCDC-ITX2412SA-H|
 |Hex ID (short code)|hexID|SZKCONITX2412SAH|
-|name|name|ITX2412SA-H|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ITX0503SA', 'kicadSymbolReference': 'PS', 'kicadSymbolValue': 'ITX2412SA-H', 'kicadSymbolFootprint': 'Converter_DCDC:Converter_DCDC_XP_POWER-ITXxxxxSA_THT', 'kicadSymbolDatasheet': 'https://www.xppower.com/pdfs/SF_ITX.pdf', 'kicadSymbolki_keywords': 'XP_POWER DC/DC isolated Converter module', 'kicadSymbolki_description': 'XP Power 6W, 3000 VDC Isolated DC/DC Converter Module, Fully Regulated Single Output Voltage 12V, ±500mA, 24V Input Voltage, SIP', 'kicadSymbolki_fp_filters': '*XP?POWER?ITXxxxxSA*'}]|
+|name|name|Converter_DCDC : ITX2412SA-H|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'ITX0503SA'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'PS'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ITX2412SA-H'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Converter_DCDC</td></tr><tr><td>Converter_DCDC_XP_POWER-ITXxxxxSA_THT'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.xppower.com/pdfs/SF_ITX.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'XP_POWER DC/DC isolated Converter module'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'XP Power 6W</td><td> 3000 VDC Isolated DC/DC Converter Module</td><td> Fully Regulated Single Output Voltage 12V</td><td> ±500mA</td><td> 24V Input Voltage</td><td> SIP'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> '*XP?POWER?ITXxxxxSA*'</td></tr></table>]|
 ||||

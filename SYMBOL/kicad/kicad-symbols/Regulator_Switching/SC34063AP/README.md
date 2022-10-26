@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORSWITCHINGSC3463AP > SC34063AP
+# SZKREGULATORSWITCHINGSC3463AP > Regulator_Switching : SC34063AP
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-SC34063AP
 - Hex ID: SZKREGULATORSWITCHINGSC3463AP
-- Name: SC34063AP
-- Description: SC34063AP
+- Name: Regulator_Switching : SC34063AP
+- Description: Regulator_Switching : SC34063AP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-SC34063AP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-SC34063AP)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGSC3463AP](http://oom.lt/SZKREGULATORSWITCHINGSC3463AP)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SC34063AP|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-SC34063AP|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGSC3463AP|
-|name|name|SC34063AP|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MC33063AP', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'SC34063AP', 'kicadSymbolFootprint': 'Package_DIP:DIP-8_W7.62mm', 'kicadSymbolDatasheet': 'http://www.onsemi.com/pub_link/Collateral/MC34063A-D.PDF', 'kicadSymbolki_keywords': 'smps buck boost inverting', 'kicadSymbolki_description': '1.5A, step-up/down/inverting switching regulator, 3-40V Vin, 100kHz, DIP-8', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
+|name|name|Regulator_Switching : SC34063AP|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'MC33063AP'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'SC34063AP'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>DIP-8_W7.62mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.onsemi.com/pub_link/Collateral/MC34063A-D.PDF'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'smps buck boost inverting'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '1.5A</td><td> step-up/down/inverting switching regulator</td><td> 3-40V Vin</td><td> 100kHz</td><td> DIP-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W7.62mm*'</td></tr></table>]|
 ||||

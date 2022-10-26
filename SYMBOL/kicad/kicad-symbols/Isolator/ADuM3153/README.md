@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKISOLATORADUM3153 > ADuM3153
+# SZKISOLATORADUM3153 > Isolator : ADuM3153
 
 - ID: SYMBOL-kicad-kicad-symbols-Isolator-ADuM3153
 - Hex ID: SZKISOLATORADUM3153
-- Name: ADuM3153
-- Description: ADuM3153
+- Name: Isolator : ADuM3153
+- Description: Isolator : ADuM3153
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-ADuM3153](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-ADuM3153)
 - Short Link: [http://oom.lt/SZKISOLATORADUM3153](http://oom.lt/SZKISOLATORADUM3153)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ADuM3153|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Isolator-ADuM3153|
 |Hex ID (short code)|hexID|SZKISOLATORADUM3153|
-|name|name|ADuM3153|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ADuM3153', 'kicadSymbolFootprint': 'Package_SO:SSOP-20_5.3x7.2mm_P0.65mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/ADuM3151_3152_3153.pdf', 'kicadSymbolki_keywords': 'spi isolated', 'kicadSymbolki_description': '3.75kV 7-Channel SPI Isolator, 3 Reverse Channels, SSOP-20', 'kicadSymbolki_fp_filters': 'SSOP*5.3x7.2mm*P0.65mm*'}]|
+|name|name|Isolator : ADuM3153|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ADuM3153'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SSOP-20_5.3x7.2mm_P0.65mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/ADuM3151_3152_3153.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'spi isolated'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '3.75kV 7-Channel SPI Isolator</td><td> 3 Reverse Channels</td><td> SSOP-20'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SSOP*5.3x7.2mm*P0.65mm*'</td></tr></table>]|
 ||||

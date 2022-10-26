@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKCNAVRISP6 > AVR-ISP-6
+# SZKCNAVRISP6 > Connector : AVR-ISP-6
 
 - ID: SYMBOL-kicad-kicad-symbols-Connector-AVR-ISP-6
 - Hex ID: SZKCNAVRISP6
-- Name: AVR-ISP-6
-- Description: AVR-ISP-6
+- Name: Connector : AVR-ISP-6
+- Description: Connector : AVR-ISP-6
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-AVR-ISP-6](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-AVR-ISP-6)
 - Short Link: [http://oom.lt/SZKCNAVRISP6](http://oom.lt/SZKCNAVRISP6)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AVR-ISP-6|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-AVR-ISP-6|
 |Hex ID (short code)|hexID|SZKCNAVRISP6|
-|name|name|AVR-ISP-6|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'AVR-ISP-6', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ' ~', 'kicadSymbolki_keywords': 'AVR ISP Connector', 'kicadSymbolki_description': 'Atmel 6-pin ISP connector', 'kicadSymbolki_fp_filters': 'IDC?Header*2x03* Pin?Header*2x03*'}]|
+|name|name|Connector : AVR-ISP-6|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'J'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'AVR-ISP-6'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> ' ~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'AVR ISP Connector'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Atmel 6-pin ISP connector'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'IDC?Header*2x03* Pin?Header*2x03*'</td></tr></table>]|
 ||||

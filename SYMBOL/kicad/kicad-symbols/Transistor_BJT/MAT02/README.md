@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORBJTMAT2 > MAT02
+# SZKTRANSISTORBJTMAT2 > Transistor_BJT : MAT02
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-MAT02
 - Hex ID: SZKTRANSISTORBJTMAT2
-- Name: MAT02
-- Description: MAT02
+- Name: Transistor_BJT : MAT02
+- Description: Transistor_BJT : MAT02
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-MAT02](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-MAT02)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTMAT2](http://oom.lt/SZKTRANSISTORBJTMAT2)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MAT02|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_BJT-MAT02|
 |Hex ID (short code)|hexID|SZKTRANSISTORBJTMAT2|
-|name|name|MAT02|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'MAT02', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-78-6', 'kicadSymbolDatasheet': 'http://www.elenota.pl/datasheet_download/93431/MAT02', 'kicadSymbolki_keywords': 'Precision Dual Monolithic Transistor Low Noise EOL', 'kicadSymbolki_description': '20mA Ic, 40V Vce, Precision Dual Monolithic Low Noise, Low Offset Transistor, TO-78', 'kicadSymbolki_fp_filters': 'TO?78*'}]|
+|name|name|Transistor_BJT : MAT02|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MAT02'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_THT</td></tr><tr><td>TO-78-6'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.elenota.pl/datasheet_download/93431/MAT02'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Precision Dual Monolithic Transistor Low Noise EOL'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '20mA Ic</td><td> 40V Vce</td><td> Precision Dual Monolithic Low Noise</td><td> Low Offset Transistor</td><td> TO-78'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TO?78*'</td></tr></table>]|
 ||||

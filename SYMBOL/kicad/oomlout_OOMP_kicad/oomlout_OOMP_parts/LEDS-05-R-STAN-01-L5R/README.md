@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSLS5RSTAN1L5R > LEDS-05-R-STAN-01-L5R
+# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSLS5RSTAN1L5R > oomlout_OOMP_parts : LEDS-05-R-STAN-01-L5R
 
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-LEDS-05-R-STAN-01-L5R
 - Hex ID: SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSLS5RSTAN1L5R
-- Name: LEDS-05-R-STAN-01-L5R
-- Description: LEDS-05-R-STAN-01-L5R
+- Name: oomlout_OOMP_parts : LEDS-05-R-STAN-01-L5R
+- Description: oomlout_OOMP_parts : LEDS-05-R-STAN-01-L5R
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-LEDS-05-R-STAN-01-L5R](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-LEDS-05-R-STAN-01-L5R)
 - Short Link: [http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSLS5RSTAN1L5R](http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSLS5RSTAN1L5R)
   
@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|LEDS-05-R-STAN-01-L5R|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-LEDS-05-R-STAN-01-L5R|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSLS5RSTAN1L5R|
-|name|name|LEDS-05-R-STAN-01-L5R|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'LEDS-05-R-STAN-01-L5R', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:LEDS-05-R-STAN-01-L5R', 'kicadSymbolDatasheet': 'oom.lt/L5R', 'kicadSymbolki_keywords': 'LED diode', 'kicadSymbolki_description': 'hexID: L5R;Light emitting diode', 'kicadSymbolki_fp_filters': 'LED* LED_SMD:* LED_THT:*'}]|
+|name|name|oomlout_OOMP_parts : LEDS-05-R-STAN-01-L5R|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LEDS-05-R-STAN-01-L5R'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'oomlout_OOMP_parts</td></tr><tr><td>LEDS-05-R-STAN-01-L5R'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'oom.lt/L5R'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'LED diode'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'hexID</td></tr><tr><td> L5R;Light emitting diode'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'LED* LED_SMD</td></tr><tr><td>* LED_THT</td></tr><tr><td>*'</td></tr></table>]|
 ||||

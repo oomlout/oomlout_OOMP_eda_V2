@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-CP_Axial_L25.0mm_D10.0mm_P30.00mm_Horizontal|
 |Hex ID (short code)|hexID|FZKCCPAXIALL25D1P3HORIZONTAL|
 |name|name|Capacitor_THT : CP_Axial_L25.0mm_D10.0mm_P30.00mm_Horizontal|
-|Footprint Kicad|footprintKicadDetails|{'name': 'CP_Axial_L25.0mm_D10.0mm_P30.00mm_Horizontal', 'description': 'CP, Axial series, Axial, Horizontal, pin pitch=30mm, , length*diameter=25*10mm^2, Electrolytic Capacitor, , http://www.vishay.com/docs/28325/021asm.pdf', 'tags': 'CP Axial series Axial Horizontal pin pitch 30mm  length 25mm diameter 10mm Electrolytic Capacitor', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Capacitor_THT.3dshapes/CP_Axial_L25.0mm_D10.0mm_P30.00mm_Horizontal.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'CP_Axial_L25.0mm_D10.0mm_P30.00mm_Horizontal'</td><td> 'description'</td></tr><tr><td> 'CP</td><td> Axial series</td><td> Axial</td><td> Horizontal</td><td> pin pitch=30mm</td><td> </td><td> length*diameter=25*10mm^2</td><td> Electrolytic Capacitor</td><td> </td><td> http</td></tr><tr><td>//www.vishay.com/docs/28325/021asm.pdf'</td><td> 'tags'</td></tr><tr><td> 'CP Axial series Axial Horizontal pin pitch 30mm  length 25mm diameter 10mm Electrolytic Capacitor'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Capacitor_THT.3dshapes/CP_Axial_L25.0mm_D10.0mm_P30.00mm_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

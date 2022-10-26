@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORCONTROLLERL6564T > L6564T
+# SZKREGULATORCONTROLLERL6564T > Regulator_Controller : L6564T
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Controller-L6564T
 - Hex ID: SZKREGULATORCONTROLLERL6564T
-- Name: L6564T
-- Description: L6564T
+- Name: Regulator_Controller : L6564T
+- Description: Regulator_Controller : L6564T
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-L6564T](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-L6564T)
 - Short Link: [http://oom.lt/SZKREGULATORCONTROLLERL6564T](http://oom.lt/SZKREGULATORCONTROLLERL6564T)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|L6564T|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Controller-L6564T|
 |Hex ID (short code)|hexID|SZKREGULATORCONTROLLERL6564T|
-|name|name|L6564T|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'L6564', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'L6564T', 'kicadSymbolFootprint': 'Package_SO:SSOP-10_3.9x4.9mm_P1.00mm', 'kicadSymbolDatasheet': 'http://www.st.com/resource/en/datasheet/l6564t.pdf', 'kicadSymbolki_keywords': 'SMPS pfc controller', 'kicadSymbolki_description': '10-Pin Transition-Mode PFC Controller for Outdoor Applications, SSOP-10', 'kicadSymbolki_fp_filters': 'SSOP*3.9x4.9mm*P1.00mm*'}]|
+|name|name|Regulator_Controller : L6564T|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'L6564'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'L6564T'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SSOP-10_3.9x4.9mm_P1.00mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.st.com/resource/en/datasheet/l6564t.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'SMPS pfc controller'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '10-Pin Transition-Mode PFC Controller for Outdoor Applications</td><td> SSOP-10'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SSOP*3.9x4.9mm*P1.00mm*'</td></tr></table>]|
 ||||

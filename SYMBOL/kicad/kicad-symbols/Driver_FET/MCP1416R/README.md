@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDRIVERFETMCP1416R > MCP1416R
+# SZKDRIVERFETMCP1416R > Driver_FET : MCP1416R
 
 - ID: SYMBOL-kicad-kicad-symbols-Driver_FET-MCP1416R
 - Hex ID: SZKDRIVERFETMCP1416R
-- Name: MCP1416R
-- Description: MCP1416R
+- Name: Driver_FET : MCP1416R
+- Description: Driver_FET : MCP1416R
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-MCP1416R](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-MCP1416R)
 - Short Link: [http://oom.lt/SZKDRIVERFETMCP1416R](http://oom.lt/SZKDRIVERFETMCP1416R)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MCP1416R|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Driver_FET-MCP1416R|
 |Hex ID (short code)|hexID|SZKDRIVERFETMCP1416R|
-|name|name|MCP1416R|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MCP1416R', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-5', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/20002092F.pdf', 'kicadSymbolki_keywords': 'mosfet gate driver', 'kicadSymbolki_description': '1.5A High speed power MOSFET driver with non-inverting output, SOT-23-5', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
+|name|name|Driver_FET : MCP1416R|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MCP1416R'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-23-5'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/20002092F.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'mosfet gate driver'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '1.5A High speed power MOSFET driver with non-inverting output</td><td> SOT-23-5'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23*'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREFERENCEVOLTAGEMAX6325 > MAX6325
+# SZKREFERENCEVOLTAGEMAX6325 > Reference_Voltage : MAX6325
 
 - ID: SYMBOL-kicad-kicad-symbols-Reference_Voltage-MAX6325
 - Hex ID: SZKREFERENCEVOLTAGEMAX6325
-- Name: MAX6325
-- Description: MAX6325
+- Name: Reference_Voltage : MAX6325
+- Description: Reference_Voltage : MAX6325
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-MAX6325](http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-MAX6325)
 - Short Link: [http://oom.lt/SZKREFERENCEVOLTAGEMAX6325](http://oom.lt/SZKREFERENCEVOLTAGEMAX6325)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MAX6325|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Reference_Voltage-MAX6325|
 |Hex ID (short code)|hexID|SZKREFERENCEVOLTAGEMAX6325|
-|name|name|MAX6325|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MAX6350', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MAX6325', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://datasheets.maximintegrated.com/en/ds/MAX6325-MAX6350.pdf', 'kicadSymbolki_keywords': 'precision voltage reference', 'kicadSymbolki_description': '0.5ppm/°C Low-Noise +2.5V Voltage Reference, SO-8/DIP-8', 'kicadSymbolki_fp_filters': 'SOIC*P1.27mm* DIP*W7.62mm*'}]|
+|name|name|Reference_Voltage : MAX6325|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'MAX6350'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MAX6325'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//datasheets.maximintegrated.com/en/ds/MAX6325-MAX6350.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'precision voltage reference'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '0.5ppm/°C Low-Noise +2.5V Voltage Reference</td><td> SO-8/DIP-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*P1.27mm* DIP*W7.62mm*'</td></tr></table>]|
 ||||

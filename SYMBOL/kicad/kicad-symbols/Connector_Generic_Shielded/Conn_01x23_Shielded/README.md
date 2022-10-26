@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKCNGENERICSHEDCONN1X23SHED > Conn_01x23_Shielded
+# SZKCNGENERICSHEDCONN1X23SHED > Connector_Generic_Shielded : Conn_01x23_Shielded
 
 - ID: SYMBOL-kicad-kicad-symbols-Connector_Generic_Shielded-Conn_01x23_Shielded
 - Hex ID: SZKCNGENERICSHEDCONN1X23SHED
-- Name: Conn_01x23_Shielded
-- Description: Conn_01x23_Shielded
+- Name: Connector_Generic_Shielded : Conn_01x23_Shielded
+- Description: Connector_Generic_Shielded : Conn_01x23_Shielded
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector_Generic_Shielded-Conn_01x23_Shielded](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector_Generic_Shielded-Conn_01x23_Shielded)
 - Short Link: [http://oom.lt/SZKCNGENERICSHEDCONN1X23SHED](http://oom.lt/SZKCNGENERICSHEDCONN1X23SHED)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Conn_01x23_Shielded|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector_Generic_Shielded-Conn_01x23_Shielded|
 |Hex ID (short code)|hexID|SZKCNGENERICSHEDCONN1X23SHED|
-|name|name|Conn_01x23_Shielded|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'Conn_01x23_Shielded', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'connector', 'kicadSymbolki_description': 'Generic shielded connector, single row, 01x23, script generated (kicad-library-utils/schlib/autogen/connector/)', 'kicadSymbolki_fp_filters': 'Connector*:*_1x??-1SH*'}]|
+|name|name|Connector_Generic_Shielded : Conn_01x23_Shielded|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'J'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Conn_01x23_Shielded'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'connector'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Generic shielded connector</td><td> single row</td><td> 01x23</td><td> script generated (kicad-library-utils/schlib/autogen/connector/)'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Connector*</td></tr><tr><td>*_1x??-1SH*'</td></tr></table>]|
 ||||

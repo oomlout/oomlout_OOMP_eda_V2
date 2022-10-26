@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKCNRJ33 > RJ33
+# SZKCNRJ33 > Connector : RJ33
 
 - ID: SYMBOL-kicad-kicad-symbols-Connector-RJ33
 - Hex ID: SZKCNRJ33
-- Name: RJ33
-- Description: RJ33
+- Name: Connector : RJ33
+- Description: Connector : RJ33
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-RJ33](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-RJ33)
 - Short Link: [http://oom.lt/SZKCNRJ33](http://oom.lt/SZKCNRJ33)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|RJ33|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-RJ33|
 |Hex ID (short code)|hexID|SZKCNRJ33|
-|name|name|RJ33|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '8P8C', 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'RJ33', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': '8P8C RJ female connector', 'kicadSymbolki_description': 'RJ connector, 8P8C (8 positions 8 connected)', 'kicadSymbolki_fp_filters': '8P8C* RJ31* RJ32* RJ33* RJ34* RJ35* RJ41* RJ45* RJ49* RJ61*'}]|
+|name|name|Connector : RJ33|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> '8P8C'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'J'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'RJ33'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> '8P8C RJ female connector'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'RJ connector</td><td> 8P8C (8 positions 8 connected)'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> '8P8C* RJ31* RJ32* RJ33* RJ34* RJ35* RJ41* RJ45* RJ49* RJ61*'</td></tr></table>]|
 ||||

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_TracoPower_TCK-047_5.2x5.8mm|
 |Hex ID (short code)|hexID|FZKINDUCTORSMLTRACOPOWERTCK4752X58|
 |name|name|Inductor_SMD : L_TracoPower_TCK-047_5.2x5.8mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'L_TracoPower_TCK-047_5.2x5.8mm', 'description': 'Inductor, Traco, TCK-047, 5.2x5.8mm, https://www.tracopower.com/products/tck047.pdf', 'tags': 'inductor smd traco', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_TracoPower_TCK-047.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'L_TracoPower_TCK-047_5.2x5.8mm'</td><td> 'description'</td></tr><tr><td> 'Inductor</td><td> Traco</td><td> TCK-047</td><td> 5.2x5.8mm</td><td> https</td></tr><tr><td>//www.tracopower.com/products/tck047.pdf'</td><td> 'tags'</td></tr><tr><td> 'inductor smd traco'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Inductor_SMD.3dshapes/L_TracoPower_TCK-047.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

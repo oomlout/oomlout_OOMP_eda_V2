@@ -29,5 +29,5 @@ NO IMAGE
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-RF_Converter-Balun_Johanson_1.6x0.8mm|
 |Hex ID (short code)|hexID|FZKRFBALUNJOHANSON16X8|
 |name|name|RF_Converter : Balun_Johanson_1.6x0.8mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Balun_Johanson_1.6x0.8mm', 'description': '6-pin 1.6x0.8 mm balun footprint', 'tags': 'Johanson balun filter', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/RF_Converter.3dshapes/Balun_Johanson_1.6x0.8mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Balun_Johanson_1.6x0.8mm'</td><td> 'description'</td></tr><tr><td> '6-pin 1.6x0.8 mm balun footprint'</td><td> 'tags'</td></tr><tr><td> 'Johanson balun filter'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/RF_Converter.3dshapes/Balun_Johanson_1.6x0.8mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Display-HDSP-48xx|
 |Hex ID (short code)|hexID|FZKDIHDSP48XX|
 |name|name|Display : HDSP-48xx|
-|Footprint Kicad|footprintKicadDetails|{'name': 'HDSP-48xx', 'description': '10-Element Bar Graph Array https://docs.broadcom.com/docs/AV02-1798EN', 'tags': '10-Element Bar Graph Array', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Display.3dshapes/HDSP-48xx.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'HDSP-48xx'</td><td> 'description'</td></tr><tr><td> '10-Element Bar Graph Array https</td></tr><tr><td>//docs.broadcom.com/docs/AV02-1798EN'</td><td> 'tags'</td></tr><tr><td> '10-Element Bar Graph Array'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Display.3dshapes/HDSP-48xx.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

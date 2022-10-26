@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-OnSemi_VCT-28_3.5x3.5mm_P0.4mm|
 |Hex ID (short code)|hexID|FZKDFNONSEMIVCT2835X35P4|
 |name|name|Package_DFN_QFN : OnSemi_VCT-28_3.5x3.5mm_P0.4mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'OnSemi_VCT-28_3.5x3.5mm_P0.4mm', 'description': 'OnSemi  VCT, 28 Pin (http://www.onsemi.com/pub/Collateral/601AE.PDF), generated with kicad-footprint-generator ipc_noLead_generator.py', 'tags': 'OnSemi VCT NoLead', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/OnSemi_VCT-28_3.5x3.5mm_P0.4mm.wrl', 'pins': {'type': 'smd', 'shape': 'custom'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'OnSemi_VCT-28_3.5x3.5mm_P0.4mm'</td><td> 'description'</td></tr><tr><td> 'OnSemi  VCT</td><td> 28 Pin (http</td></tr><tr><td>//www.onsemi.com/pub/Collateral/601AE.PDF)</td><td> generated with kicad-footprint-generator ipc_noLead_generator.py'</td><td> 'tags'</td></tr><tr><td> 'OnSemi VCT NoLead'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DFN_QFN.3dshapes/OnSemi_VCT-28_3.5x3.5mm_P0.4mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'custom'</td></tr></table></td></tr></table>|
 ||||
 
 

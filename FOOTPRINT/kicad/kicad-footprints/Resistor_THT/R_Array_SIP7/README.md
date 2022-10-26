@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Array_SIP7|
 |Hex ID (short code)|hexID|FZKRRARRAYSIP7|
 |name|name|Resistor_THT : R_Array_SIP7|
-|Footprint Kicad|footprintKicadDetails|{'name': 'R_Array_SIP7', 'description': '7-pin Resistor SIP pack', 'tags': 'R', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Array_SIP7.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'R_Array_SIP7'</td><td> 'description'</td></tr><tr><td> '7-pin Resistor SIP pack'</td><td> 'tags'</td></tr><tr><td> 'R'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Resistor_THT.3dshapes/R_Array_SIP7.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

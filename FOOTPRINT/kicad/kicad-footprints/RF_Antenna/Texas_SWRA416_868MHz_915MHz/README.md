@@ -29,5 +29,5 @@ NO IMAGE
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-RF_Antenna-Texas_SWRA416_868MHz_915MHz|
 |Hex ID (short code)|hexID|FZKRFTEXASSWRA416868MHZ915MHZ|
 |name|name|RF_Antenna : Texas_SWRA416_868MHz_915MHz|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Texas_SWRA416_868MHz_915MHz', 'description': 'http://www.ti.com/lit/an/swra416/swra416.pdf', 'tags': 'PCB antenna', 'attributeType': 'smd', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Texas_SWRA416_868MHz_915MHz'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/an/swra416/swra416.pdf'</td><td> 'tags'</td></tr><tr><td> 'PCB antenna'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

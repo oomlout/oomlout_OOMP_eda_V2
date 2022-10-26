@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Button_Switch_Keyboard-SW_Cherry_MX_2.25u_PCB|
 |Hex ID (short code)|hexID|FZKBSWCHERRYMX225UPCB|
 |name|name|Button_Switch_Keyboard : SW_Cherry_MX_2.25u_PCB|
-|Footprint Kicad|footprintKicadDetails|{'name': 'SW_Cherry_MX_2.25u_PCB', 'description': 'Cherry MX keyswitch, 2.25u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf', 'tags': 'Cherry MX keyswitch 2.25u PCB', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_2.25u_PCB.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SW_Cherry_MX_2.25u_PCB'</td><td> 'description'</td></tr><tr><td> 'Cherry MX keyswitch</td><td> 2.25u</td><td> PCB mount</td><td> http</td></tr><tr><td>//cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf'</td><td> 'tags'</td></tr><tr><td> 'Cherry MX keyswitch 2.25u PCB'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_2.25u_PCB.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

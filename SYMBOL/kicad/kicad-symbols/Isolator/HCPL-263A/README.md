@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKISOLATORHCPL263A > HCPL-263A
+# SZKISOLATORHCPL263A > Isolator : HCPL-263A
 
 - ID: SYMBOL-kicad-kicad-symbols-Isolator-HCPL-263A
 - Hex ID: SZKISOLATORHCPL263A
-- Name: HCPL-263A
-- Description: HCPL-263A
+- Name: Isolator : HCPL-263A
+- Description: Isolator : HCPL-263A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-HCPL-263A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-HCPL-263A)
 - Short Link: [http://oom.lt/SZKISOLATORHCPL263A](http://oom.lt/SZKISOLATORHCPL263A)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|HCPL-263A|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Isolator-HCPL-263A|
 |Hex ID (short code)|hexID|SZKISOLATORHCPL263A|
-|name|name|HCPL-263A|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'HCPL-263A', 'kicadSymbolFootprint': 'Package_DIP:DIP-8_W7.62mm', 'kicadSymbolDatasheet': 'http://docs.avagotech.com/docs/AV02-0391EN', 'kicadSymbolki_keywords': 'High speed optically coupled gates', 'kicadSymbolki_description': 'Dual High Speed HCMOS/LSTTL/TTL Compatible Optocoupler, dV/dt 1000/us, VCM 50, -0.5V to 7V VCC, DIP-8', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
+|name|name|Isolator : HCPL-263A|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'HCPL-263A'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>DIP-8_W7.62mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//docs.avagotech.com/docs/AV02-0391EN'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'High speed optically coupled gates'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Dual High Speed HCMOS/LSTTL/TTL Compatible Optocoupler</td><td> dV/dt 1000/us</td><td> VCM 50</td><td> -0.5V to 7V VCC</td><td> DIP-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W7.62mm*'</td></tr></table>]|
 ||||

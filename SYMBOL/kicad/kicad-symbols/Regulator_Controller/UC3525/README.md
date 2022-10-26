@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORCONTROLLERUC3525 > UC3525
+# SZKREGULATORCONTROLLERUC3525 > Regulator_Controller : UC3525
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Controller-UC3525
 - Hex ID: SZKREGULATORCONTROLLERUC3525
-- Name: UC3525
-- Description: UC3525
+- Name: Regulator_Controller : UC3525
+- Description: Regulator_Controller : UC3525
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-UC3525](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-UC3525)
 - Short Link: [http://oom.lt/SZKREGULATORCONTROLLERUC3525](http://oom.lt/SZKREGULATORCONTROLLERUC3525)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|UC3525|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Controller-UC3525|
 |Hex ID (short code)|hexID|SZKREGULATORCONTROLLERUC3525|
-|name|name|UC3525|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'UC3525', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/uc2525b.pdf', 'kicadSymbolki_keywords': 'SMPS PWM Controller', 'kicadSymbolki_description': 'Regulating Pulse Width Modulators, NOR Logic, PDIP-16/SOIC-16', 'kicadSymbolki_fp_filters': 'SOIC*16*7.5x10.3mm*P1.27mm* DIP*16*W7.62mm*'}]|
+|name|name|Regulator_Controller : UC3525|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'UC3525'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/uc2525b.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'SMPS PWM Controller'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Regulating Pulse Width Modulators</td><td> NOR Logic</td><td> PDIP-16/SOIC-16'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*16*7.5x10.3mm*P1.27mm* DIP*16*W7.62mm*'</td></tr></table>]|
 ||||

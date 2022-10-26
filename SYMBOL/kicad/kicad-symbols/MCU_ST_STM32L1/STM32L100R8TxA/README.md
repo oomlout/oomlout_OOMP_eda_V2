@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUSTSTM32L1STM32L1R8TXA > STM32L100R8TxA
+# SZKMCUSTSTM32L1STM32L1R8TXA > MCU_ST_STM32L1 : STM32L100R8TxA
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L1-STM32L100R8TxA
 - Hex ID: SZKMCUSTSTM32L1STM32L1R8TXA
-- Name: STM32L100R8TxA
-- Description: STM32L100R8TxA
+- Name: MCU_ST_STM32L1 : STM32L100R8TxA
+- Description: MCU_ST_STM32L1 : STM32L100R8TxA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L1-STM32L100R8TxA](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L1-STM32L100R8TxA)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32L1STM32L1R8TXA](http://oom.lt/SZKMCUSTSTM32L1STM32L1R8TXA)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|STM32L100R8TxA|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L1-STM32L100R8TxA|
 |Hex ID (short code)|hexID|SZKMCUSTSTM32L1STM32L1R8TXA|
-|name|name|STM32L100R8TxA|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'STM32L100R8TxA', 'kicadSymbolFootprint': 'Package_QFP:LQFP-64_10x10mm_P0.5mm', 'kicadSymbolDatasheet': 'http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00078075.pdf', 'kicadSymbolki_keywords': 'ARM Cortex-M3 STM32L1 STM32L100 Value Line', 'kicadSymbolki_description': 'ARM Cortex-M3 MCU, 64KB flash, 10KB RAM, 32MHz, 1.8-3.6V, 51 GPIO, LQFP-64', 'kicadSymbolki_fp_filters': 'LQFP*10x10mm*P0.5mm*'}]|
+|name|name|MCU_ST_STM32L1 : STM32L100R8TxA|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'STM32L100R8TxA'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_QFP</td></tr><tr><td>LQFP-64_10x10mm_P0.5mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00078075.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'ARM Cortex-M3 STM32L1 STM32L100 Value Line'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'ARM Cortex-M3 MCU</td><td> 64KB flash</td><td> 10KB RAM</td><td> 32MHz</td><td> 1.8-3.6V</td><td> 51 GPIO</td><td> LQFP-64'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'LQFP*10x10mm*P0.5mm*'</td></tr></table>]|
 ||||

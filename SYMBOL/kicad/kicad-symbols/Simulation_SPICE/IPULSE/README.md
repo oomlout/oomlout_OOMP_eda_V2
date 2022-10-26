@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKSIMULATIONSPICEIPULSE > IPULSE
+# SZKSIMULATIONSPICEIPULSE > Simulation_SPICE : IPULSE
 
 - ID: SYMBOL-kicad-kicad-symbols-Simulation_SPICE-IPULSE
 - Hex ID: SZKSIMULATIONSPICEIPULSE
-- Name: IPULSE
-- Description: IPULSE
+- Name: Simulation_SPICE : IPULSE
+- Description: Simulation_SPICE : IPULSE
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Simulation_SPICE-IPULSE](http://oom.lt/SYMBOL-kicad-kicad-symbols-Simulation_SPICE-IPULSE)
 - Short Link: [http://oom.lt/SZKSIMULATIONSPICEIPULSE](http://oom.lt/SZKSIMULATIONSPICEIPULSE)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IPULSE|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Simulation_SPICE-IPULSE|
 |Hex ID (short code)|hexID|SZKSIMULATIONSPICEIPULSE|
-|name|name|IPULSE|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'I', 'kicadSymbolValue': 'IPULSE', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolSpice_Netlist_Enabled': 'Y', 'kicadSymbolSpice_Primitive': 'I', 'kicadSymbolSpice_Model': 'pulse(0 1 2n 2n 2n 50n 100n)', 'kicadSymbolki_keywords': 'simulation', 'kicadSymbolki_description': 'Current source, pulse'}]|
+|name|name|Simulation_SPICE : IPULSE|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'I'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'IPULSE'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolSpice_Netlist_Enabled'</td></tr><tr><td> 'Y'</td><td> 'kicadSymbolSpice_Primitive'</td></tr><tr><td> 'I'</td><td> 'kicadSymbolSpice_Model'</td></tr><tr><td> 'pulse(0 1 2n 2n 2n 50n 100n)'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'simulation'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Current source</td><td> pulse'</td></tr></table>]|
 ||||

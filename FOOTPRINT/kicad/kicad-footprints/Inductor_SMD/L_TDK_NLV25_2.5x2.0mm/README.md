@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_TDK_NLV25_2.5x2.0mm|
 |Hex ID (short code)|hexID|FZKINDUCTORSMLTDKNLV2525X2|
 |name|name|Inductor_SMD : L_TDK_NLV25_2.5x2.0mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'L_TDK_NLV25_2.5x2.0mm', 'description': 'TDK NLV25, 2.5x2.0x1.8mm, https://product.tdk.com/info/en/catalog/datasheets/inductor_commercial_standard_nlv25-ef_en.pdf', 'tags': 'tdk nlv25 nlcv25 nlfv25', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_TDK_NLV25_2.5x2.0mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'L_TDK_NLV25_2.5x2.0mm'</td><td> 'description'</td></tr><tr><td> 'TDK NLV25</td><td> 2.5x2.0x1.8mm</td><td> https</td></tr><tr><td>//product.tdk.com/info/en/catalog/datasheets/inductor_commercial_standard_nlv25-ef_en.pdf'</td><td> 'tags'</td></tr><tr><td> 'tdk nlv25 nlcv25 nlfv25'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Inductor_SMD.3dshapes/L_TDK_NLV25_2.5x2.0mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

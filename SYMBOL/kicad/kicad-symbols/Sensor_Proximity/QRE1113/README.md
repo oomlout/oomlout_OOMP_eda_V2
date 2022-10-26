@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKSENPROXIMITYQRE1113 > QRE1113
+# SZKSENPROXIMITYQRE1113 > Sensor_Proximity : QRE1113
 
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Proximity-QRE1113
 - Hex ID: SZKSENPROXIMITYQRE1113
-- Name: QRE1113
-- Description: QRE1113
+- Name: Sensor_Proximity : QRE1113
+- Description: Sensor_Proximity : QRE1113
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Proximity-QRE1113](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Proximity-QRE1113)
 - Short Link: [http://oom.lt/SZKSENPROXIMITYQRE1113](http://oom.lt/SZKSENPROXIMITYQRE1113)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|QRE1113|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Proximity-QRE1113|
 |Hex ID (short code)|hexID|SZKSENPROXIMITYQRE1113|
-|name|name|QRE1113|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'QRE1113', 'kicadSymbolFootprint': 'OptoDevice:OnSemi_CASE100AQ', 'kicadSymbolDatasheet': 'http://www.onsemi.com/pub/Collateral/QRE1113-D.PDF', 'kicadSymbolki_keywords': 'Reflective Optical Sensor Opto reflex coupler', 'kicadSymbolki_description': 'Miniature Reflective Optical Object Sensor, DIP-like THT-package', 'kicadSymbolki_fp_filters': 'OnSemi*CASE100AQ*'}]|
+|name|name|Sensor_Proximity : QRE1113|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'QRE1113'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'OptoDevice</td></tr><tr><td>OnSemi_CASE100AQ'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.onsemi.com/pub/Collateral/QRE1113-D.PDF'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Reflective Optical Sensor Opto reflex coupler'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Miniature Reflective Optical Object Sensor</td><td> DIP-like THT-package'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'OnSemi*CASE100AQ*'</td></tr></table>]|
 ||||

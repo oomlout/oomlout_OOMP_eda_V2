@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_TRACO_TEN10-xxxx_Single_THT|
 |Hex ID (short code)|hexID|FZKCONCONTRACOTEN1XXXXSINGLETHT|
 |name|name|Converter_DCDC : Converter_DCDC_TRACO_TEN10-xxxx_Single_THT|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Converter_DCDC_TRACO_TEN10-xxxx_Single_THT', 'description': 'DCDC-Converter, TRACO, TEN10-xxxx, single output, https://assets.tracopower.com/20171102100522/TEN10/documents/ten10-datasheet.pdf', 'tags': 'DCDC-Converter TRACO TEN10-xxxx single output', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Converter_DCDC.3dshapes/Converter_DCDC_TRACO_TEN10-xxxx_Single_THT.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Converter_DCDC_TRACO_TEN10-xxxx_Single_THT'</td><td> 'description'</td></tr><tr><td> 'DCDC-Converter</td><td> TRACO</td><td> TEN10-xxxx</td><td> single output</td><td> https</td></tr><tr><td>//assets.tracopower.com/20171102100522/TEN10/documents/ten10-datasheet.pdf'</td><td> 'tags'</td></tr><tr><td> 'DCDC-Converter TRACO TEN10-xxxx single output'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Converter_DCDC.3dshapes/Converter_DCDC_TRACO_TEN10-xxxx_Single_THT.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

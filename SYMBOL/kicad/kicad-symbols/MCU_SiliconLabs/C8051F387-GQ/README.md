@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUSILICONLABSC851F387GQ > C8051F387-GQ
+# SZKMCUSILICONLABSC851F387GQ > MCU_SiliconLabs : C8051F387-GQ
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_SiliconLabs-C8051F387-GQ
 - Hex ID: SZKMCUSILICONLABSC851F387GQ
-- Name: C8051F387-GQ
-- Description: C8051F387-GQ
+- Name: MCU_SiliconLabs : C8051F387-GQ
+- Description: MCU_SiliconLabs : C8051F387-GQ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_SiliconLabs-C8051F387-GQ](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_SiliconLabs-C8051F387-GQ)
 - Short Link: [http://oom.lt/SZKMCUSILICONLABSC851F387GQ](http://oom.lt/SZKMCUSILICONLABSC851F387GQ)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|C8051F387-GQ|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_SiliconLabs-C8051F387-GQ|
 |Hex ID (short code)|hexID|SZKMCUSILICONLABSC851F387GQ|
-|name|name|C8051F387-GQ|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'C8051F381-GQ', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'C8051F387-GQ', 'kicadSymbolFootprint': 'Package_QFP:LQFP-32_7x7mm_P0.8mm', 'kicadSymbolDatasheet': 'https://www.silabs.com/documents/public/data-sheets/C8051F38x.pdf', 'kicadSymbolki_keywords': '8051 microcontroller PCA UART USB SPI I2C LQFP32', 'kicadSymbolki_description': 'Full Speed USB Flash MCU Family, 32k flash, 2304 ram, 25 IO, LQFP-32', 'kicadSymbolki_fp_filters': 'LQFP*7x7mm*P0.8mm*'}]|
+|name|name|MCU_SiliconLabs : C8051F387-GQ|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'C8051F381-GQ'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'C8051F387-GQ'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_QFP</td></tr><tr><td>LQFP-32_7x7mm_P0.8mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.silabs.com/documents/public/data-sheets/C8051F38x.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> '8051 microcontroller PCA UART USB SPI I2C LQFP32'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Full Speed USB Flash MCU Family</td><td> 32k flash</td><td> 2304 ram</td><td> 25 IO</td><td> LQFP-32'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'LQFP*7x7mm*P0.8mm*'</td></tr></table>]|
 ||||

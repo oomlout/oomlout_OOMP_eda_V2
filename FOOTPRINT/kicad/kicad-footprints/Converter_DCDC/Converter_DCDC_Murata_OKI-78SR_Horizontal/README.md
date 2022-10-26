@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_Murata_OKI-78SR_Horizontal|
 |Hex ID (short code)|hexID|FZKCONCONMOKI78SRHORIZONTAL|
 |name|name|Converter_DCDC : Converter_DCDC_Murata_OKI-78SR_Horizontal|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Converter_DCDC_Murata_OKI-78SR_Horizontal', 'description': 'https://power.murata.com/data/power/oki-78sr.pdf', 'tags': '78sr3.3 78sr5 78sr9 78sr12 78srXX', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Converter_DCDC.3dshapes/Converter_DCDC_Murata_OKI-78SR_horizontal.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Converter_DCDC_Murata_OKI-78SR_Horizontal'</td><td> 'description'</td></tr><tr><td> 'https</td></tr><tr><td>//power.murata.com/data/power/oki-78sr.pdf'</td><td> 'tags'</td></tr><tr><td> '78sr3.3 78sr5 78sr9 78sr12 78srXX'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Converter_DCDC.3dshapes/Converter_DCDC_Murata_OKI-78SR_horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

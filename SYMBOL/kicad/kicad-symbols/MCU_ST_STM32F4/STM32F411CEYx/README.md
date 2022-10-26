@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUSTSTM32F4STM32F411CEYX > STM32F411CEYx
+# SZKMCUSTSTM32F4STM32F411CEYX > MCU_ST_STM32F4 : STM32F411CEYx
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F411CEYx
 - Hex ID: SZKMCUSTSTM32F4STM32F411CEYX
-- Name: STM32F411CEYx
-- Description: STM32F411CEYx
+- Name: MCU_ST_STM32F4 : STM32F411CEYx
+- Description: MCU_ST_STM32F4 : STM32F411CEYx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F411CEYx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F411CEYx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32F4STM32F411CEYX](http://oom.lt/SZKMCUSTSTM32F4STM32F411CEYX)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|STM32F411CEYx|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F411CEYx|
 |Hex ID (short code)|hexID|SZKMCUSTSTM32F4STM32F411CEYX|
-|name|name|STM32F411CEYx|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'STM32F411CCYx', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'STM32F411CEYx', 'kicadSymbolFootprint': 'Package_CSP:ST_WLCSP-49_Die431', 'kicadSymbolDatasheet': 'http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00115249.pdf', 'kicadSymbolki_keywords': 'ARM Cortex-M4 STM32F4 STM32F411', 'kicadSymbolki_description': 'ARM Cortex-M4 MCU, 512KB flash, 128KB RAM, 100MHz, 1.7-3.6V, 36 GPIO, WLCSP-49', 'kicadSymbolki_fp_filters': 'ST_WLCSP*Die431*'}]|
+|name|name|MCU_ST_STM32F4 : STM32F411CEYx|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'STM32F411CCYx'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'STM32F411CEYx'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_CSP</td></tr><tr><td>ST_WLCSP-49_Die431'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00115249.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'ARM Cortex-M4 STM32F4 STM32F411'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'ARM Cortex-M4 MCU</td><td> 512KB flash</td><td> 128KB RAM</td><td> 100MHz</td><td> 1.7-3.6V</td><td> 36 GPIO</td><td> WLCSP-49'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'ST_WLCSP*Die431*'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKANALOGADCMCP3553ESN > MCP3553-ESN
+# SZKANALOGADCMCP3553ESN > Analog_ADC : MCP3553-ESN
 
 - ID: SYMBOL-kicad-kicad-symbols-Analog_ADC-MCP3553-ESN
 - Hex ID: SZKANALOGADCMCP3553ESN
-- Name: MCP3553-ESN
-- Description: MCP3553-ESN
+- Name: Analog_ADC : MCP3553-ESN
+- Description: Analog_ADC : MCP3553-ESN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-MCP3553-ESN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-MCP3553-ESN)
 - Short Link: [http://oom.lt/SZKANALOGADCMCP3553ESN](http://oom.lt/SZKANALOGADCMCP3553ESN)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MCP3553-ESN|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_ADC-MCP3553-ESN|
 |Hex ID (short code)|hexID|SZKANALOGADCMCP3553ESN|
-|name|name|MCP3553-ESN|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MCP3550-60-ESN', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MCP3553-ESN', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/devicedoc/21950c.pdf', 'kicadSymbolki_keywords': 'Sigma-Delta ADC Converter 22bit SPI 1ch', 'kicadSymbolki_description': 'Single Delta-Sigma 22bit Analog to Digital Converter, SPI Interface, MSOP-8', 'kicadSymbolki_fp_filters': 'SO*'}]|
+|name|name|Analog_ADC : MCP3553-ESN|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'MCP3550-60-ESN'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MCP3553-ESN'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/devicedoc/21950c.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Sigma-Delta ADC Converter 22bit SPI 1ch'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Single Delta-Sigma 22bit Analog to Digital Converter</td><td> SPI Interface</td><td> MSOP-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SO*'</td></tr></table>]|
 ||||

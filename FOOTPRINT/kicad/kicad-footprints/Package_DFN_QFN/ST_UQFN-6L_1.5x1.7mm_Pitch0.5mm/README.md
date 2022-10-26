@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-ST_UQFN-6L_1.5x1.7mm_Pitch0.5mm|
 |Hex ID (short code)|hexID|FZKDFNSTUQFN6L15X17PITCH5|
 |name|name|Package_DFN_QFN : ST_UQFN-6L_1.5x1.7mm_Pitch0.5mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'ST_UQFN-6L_1.5x1.7mm_Pitch0.5mm', 'description': 'ST UQFN 6 pin 0.5mm Pitch http://www.st.com/resource/en/datasheet/ecmf02-2amx6.pdf', 'tags': 'UQFN DFN 0.5 ST', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/ST_UQFN-6L_1.5x1.7mm_Pitch0.5mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'ST_UQFN-6L_1.5x1.7mm_Pitch0.5mm'</td><td> 'description'</td></tr><tr><td> 'ST UQFN 6 pin 0.5mm Pitch http</td></tr><tr><td>//www.st.com/resource/en/datasheet/ecmf02-2amx6.pdf'</td><td> 'tags'</td></tr><tr><td> 'UQFN DFN 0.5 ST'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DFN_QFN.3dshapes/ST_UQFN-6L_1.5x1.7mm_Pitch0.5mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

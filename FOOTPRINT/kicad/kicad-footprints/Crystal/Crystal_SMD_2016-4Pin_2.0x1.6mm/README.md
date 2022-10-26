@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_2016-4Pin_2.0x1.6mm|
 |Hex ID (short code)|hexID|FZKXXSM2164PIN2X16|
 |name|name|Crystal : Crystal_SMD_2016-4Pin_2.0x1.6mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Crystal_SMD_2016-4Pin_2.0x1.6mm', 'description': 'SMD Crystal SERIES SMD2016/4 http://www.q-crystal.com/upload/5/2015552223166229.pdf, 2.0x1.6mm^2 package', 'tags': 'SMD SMT crystal', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Crystal_SMD_2016-4Pin_2.0x1.6mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Crystal_SMD_2016-4Pin_2.0x1.6mm'</td><td> 'description'</td></tr><tr><td> 'SMD Crystal SERIES SMD2016/4 http</td></tr><tr><td>//www.q-crystal.com/upload/5/2015552223166229.pdf</td><td> 2.0x1.6mm^2 package'</td><td> 'tags'</td></tr><tr><td> 'SMD SMT crystal'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Crystal.3dshapes/Crystal_SMD_2016-4Pin_2.0x1.6mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

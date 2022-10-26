@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORLINEARL79L12SO8 > L79L12_SO8
+# SZKREGULATORLINEARL79L12SO8 > Regulator_Linear : L79L12_SO8
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-L79L12_SO8
 - Hex ID: SZKREGULATORLINEARL79L12SO8
-- Name: L79L12_SO8
-- Description: L79L12_SO8
+- Name: Regulator_Linear : L79L12_SO8
+- Description: Regulator_Linear : L79L12_SO8
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-L79L12_SO8](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-L79L12_SO8)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARL79L12SO8](http://oom.lt/SZKREGULATORLINEARL79L12SO8)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|L79L12_SO8|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-L79L12_SO8|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARL79L12SO8|
-|name|name|L79L12_SO8|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MC79L05_SO8', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'L79L12_SO8', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm', 'kicadSymbolDatasheet': 'http://www.farnell.com/datasheets/1827870.pdf', 'kicadSymbolki_keywords': 'Voltage Regulator 100mA Negative', 'kicadSymbolki_description': 'Negative 100mA -30V Linear Regulator, Fixed Output -5V, SO-8', 'kicadSymbolki_fp_filters': 'SOIC?8*3.9x4.9mm*P1.27mm*'}]|
+|name|name|Regulator_Linear : L79L12_SO8|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'MC79L05_SO8'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'L79L12_SO8'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-8_3.9x4.9mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.farnell.com/datasheets/1827870.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Voltage Regulator 100mA Negative'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Negative 100mA -30V Linear Regulator</td><td> Fixed Output -5V</td><td> SO-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC?8*3.9x4.9mm*P1.27mm*'</td></tr></table>]|
 ||||

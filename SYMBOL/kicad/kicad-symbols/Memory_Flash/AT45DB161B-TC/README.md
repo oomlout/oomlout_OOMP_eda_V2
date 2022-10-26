@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMEMORYFLASHAT45DB161BTC > AT45DB161B-TC
+# SZKMEMORYFLASHAT45DB161BTC > Memory_Flash : AT45DB161B-TC
 
 - ID: SYMBOL-kicad-kicad-symbols-Memory_Flash-AT45DB161B-TC
 - Hex ID: SZKMEMORYFLASHAT45DB161BTC
-- Name: AT45DB161B-TC
-- Description: AT45DB161B-TC
+- Name: Memory_Flash : AT45DB161B-TC
+- Description: Memory_Flash : AT45DB161B-TC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_Flash-AT45DB161B-TC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_Flash-AT45DB161B-TC)
 - Short Link: [http://oom.lt/SZKMEMORYFLASHAT45DB161BTC](http://oom.lt/SZKMEMORYFLASHAT45DB161BTC)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AT45DB161B-TC|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Memory_Flash-AT45DB161B-TC|
 |Hex ID (short code)|hexID|SZKMEMORYFLASHAT45DB161BTC|
-|name|name|AT45DB161B-TC|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'AT45DB161-TC', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AT45DB161B-TC', 'kicadSymbolFootprint': 'Package_SO:TSOP-28_11.8x8mm_P0.55mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/devicedoc/doc2224.pdf', 'kicadSymbolki_keywords': 'Atmel DataFlash', 'kicadSymbolki_description': '16Mb Serial DataFlash, 2.7V Vcc, TSOP-28', 'kicadSymbolki_fp_filters': 'TSOP?28*11.8x8mm*P0.55mm*'}]|
+|name|name|Memory_Flash : AT45DB161B-TC|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'AT45DB161-TC'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'AT45DB161B-TC'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>TSOP-28_11.8x8mm_P0.55mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/devicedoc/doc2224.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Atmel DataFlash'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '16Mb Serial DataFlash</td><td> 2.7V Vcc</td><td> TSOP-28'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TSOP?28*11.8x8mm*P0.55mm*'</td></tr></table>]|
 ||||

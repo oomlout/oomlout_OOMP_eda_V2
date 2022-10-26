@@ -29,5 +29,5 @@ NO IMAGE
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Sensor_Current-Allegro_SIP-4|
 |Hex ID (short code)|hexID|FZKSENCURRENTALLEGROSIP4|
 |name|name|Sensor_Current : Allegro_SIP-4|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Allegro_SIP-4', 'description': 'Allegro Microsystems SIP-4, 1.27mm Pitch (http://www.allegromicro.com/~/media/Files/Datasheets/A1363-Datasheet.ashx)', 'tags': 'Allegro SIP-4', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Sensor_Current.3dshapes/Allegro_SIP-4.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Allegro_SIP-4'</td><td> 'description'</td></tr><tr><td> 'Allegro Microsystems SIP-4</td><td> 1.27mm Pitch (http</td></tr><tr><td>//www.allegromicro.com/~/media/Files/Datasheets/A1363-Datasheet.ashx)'</td><td> 'tags'</td></tr><tr><td> 'Allegro SIP-4'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Sensor_Current.3dshapes/Allegro_SIP-4.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

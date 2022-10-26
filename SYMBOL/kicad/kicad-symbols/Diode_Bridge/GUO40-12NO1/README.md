@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDIODEBRIDGEGUO412NO1 > GUO40-12NO1
+# SZKDIODEBRIDGEGUO412NO1 > Diode_Bridge : GUO40-12NO1
 
 - ID: SYMBOL-kicad-kicad-symbols-Diode_Bridge-GUO40-12NO1
 - Hex ID: SZKDIODEBRIDGEGUO412NO1
-- Name: GUO40-12NO1
-- Description: GUO40-12NO1
+- Name: Diode_Bridge : GUO40-12NO1
+- Description: Diode_Bridge : GUO40-12NO1
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-GUO40-12NO1](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-GUO40-12NO1)
 - Short Link: [http://oom.lt/SZKDIODEBRIDGEGUO412NO1](http://oom.lt/SZKDIODEBRIDGEGUO412NO1)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|GUO40-12NO1|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode_Bridge-GUO40-12NO1|
 |Hex ID (short code)|hexID|SZKDIODEBRIDGEGUO412NO1|
-|name|name|GUO40-12NO1|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'GUO40-08NO1', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'GUO40-12NO1', 'kicadSymbolFootprint': 'Diode_THT:Diode_Bridge_IXYS_GUFP', 'kicadSymbolDatasheet': 'https://ixapps.ixys.com/DataSheet/GUO40-12NO1.pdf', 'kicadSymbolki_keywords': 'Three-Phase Bridge Rectifier', 'kicadSymbolki_description': '400V Vrms, 40A If, GUFP(X025B)', 'kicadSymbolki_fp_filters': 'Diode*Bridge*IXYS*GUFP*'}]|
+|name|name|Diode_Bridge : GUO40-12NO1|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'GUO40-08NO1'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'GUO40-12NO1'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Diode_THT</td></tr><tr><td>Diode_Bridge_IXYS_GUFP'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//ixapps.ixys.com/DataSheet/GUO40-12NO1.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Three-Phase Bridge Rectifier'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '400V Vrms</td><td> 40A If</td><td> GUFP(X025B)'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Diode*Bridge*IXYS*GUFP*'</td></tr></table>]|
 ||||

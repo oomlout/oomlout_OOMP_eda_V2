@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZK4XXXIEEE414 > 40104
+# SZK4XXXIEEE414 > 4xxx_IEEE : 40104
 
 - ID: SYMBOL-kicad-kicad-symbols-4xxx_IEEE-40104
 - Hex ID: SZK4XXXIEEE414
-- Name: 40104
-- Description: 40104
+- Name: 4xxx_IEEE : 40104
+- Description: 4xxx_IEEE : 40104
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx_IEEE-40104](http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx_IEEE-40104)
 - Short Link: [http://oom.lt/SZK4XXXIEEE414](http://oom.lt/SZK4XXXIEEE414)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|40104|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-4xxx_IEEE-40104|
 |Hex ID (short code)|hexID|SZK4XXXIEEE414|
-|name|name|40104|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '40104', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ''}]|
+|name|name|4xxx_IEEE : 40104|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> '40104'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> ''</td></tr></table>]|
 ||||

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_CSP-LFCSP-32-1EP_5x5mm_P0.5mm_EP3.25x3.25mm|
 |Hex ID (short code)|hexID|FZKCSPLFCSP321EP5X5P5EP325X325|
 |name|name|Package_CSP : LFCSP-32-1EP_5x5mm_P0.5mm_EP3.25x3.25mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'LFCSP-32-1EP_5x5mm_P0.5mm_EP3.25x3.25mm', 'description': '32-Lead Frame Chip Scale Package LFCSP (5mm x 5mm); (see http://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp-32/CP_32_27.pdf', 'tags': 'LFCSP 0.5', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_CSP.3dshapes/LFCSP-32-1EP_5x5mm_P0.5mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'LFCSP-32-1EP_5x5mm_P0.5mm_EP3.25x3.25mm'</td><td> 'description'</td></tr><tr><td> '32-Lead Frame Chip Scale Package LFCSP (5mm x 5mm); (see http</td></tr><tr><td>//www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp-32/CP_32_27.pdf'</td><td> 'tags'</td></tr><tr><td> 'LFCSP 0.5'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_CSP.3dshapes/LFCSP-32-1EP_5x5mm_P0.5mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

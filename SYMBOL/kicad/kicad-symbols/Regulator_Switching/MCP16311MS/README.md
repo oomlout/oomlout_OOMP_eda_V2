@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORSWITCHINGMCP16311MS > MCP16311MS
+# SZKREGULATORSWITCHINGMCP16311MS > Regulator_Switching : MCP16311MS
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-MCP16311MS
 - Hex ID: SZKREGULATORSWITCHINGMCP16311MS
-- Name: MCP16311MS
-- Description: MCP16311MS
+- Name: Regulator_Switching : MCP16311MS
+- Description: Regulator_Switching : MCP16311MS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-MCP16311MS](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-MCP16311MS)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGMCP16311MS](http://oom.lt/SZKREGULATORSWITCHINGMCP16311MS)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MCP16311MS|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-MCP16311MS|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGMCP16311MS|
-|name|name|MCP16311MS|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MCP16311MS', 'kicadSymbolFootprint': 'Package_SO:MSOP-8_3x3mm_P0.65mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/20005255B.pdf', 'kicadSymbolki_keywords': 'switching buck converter power-supply voltage regulator', 'kicadSymbolki_description': '30V Input, 1A Output Voltage, integrated switch step-down regulator, PFM/PWM modulation, MSOP-8', 'kicadSymbolki_fp_filters': 'MSOP*3x3mm*P0.65mm*'}]|
+|name|name|Regulator_Switching : MCP16311MS|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MCP16311MS'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>MSOP-8_3x3mm_P0.65mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/20005255B.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'switching buck converter power-supply voltage regulator'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '30V Input</td><td> 1A Output Voltage</td><td> integrated switch step-down regulator</td><td> PFM/PWM modulation</td><td> MSOP-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'MSOP*3x3mm*P0.65mm*'</td></tr></table>]|
 ||||

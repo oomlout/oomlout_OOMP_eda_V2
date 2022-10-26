@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKINTERFACEUARTADM2481XRW > ADM2481xRW
+# SZKINTERFACEUARTADM2481XRW > Interface_UART : ADM2481xRW
 
 - ID: SYMBOL-kicad-kicad-symbols-Interface_UART-ADM2481xRW
 - Hex ID: SZKINTERFACEUARTADM2481XRW
-- Name: ADM2481xRW
-- Description: ADM2481xRW
+- Name: Interface_UART : ADM2481xRW
+- Description: Interface_UART : ADM2481xRW
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-ADM2481xRW](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-ADM2481xRW)
 - Short Link: [http://oom.lt/SZKINTERFACEUARTADM2481XRW](http://oom.lt/SZKINTERFACEUARTADM2481XRW)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ADM2481xRW|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_UART-ADM2481xRW|
 |Hex ID (short code)|hexID|SZKINTERFACEUARTADM2481XRW|
-|name|name|ADM2481xRW|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ADM2481xRW', 'kicadSymbolFootprint': 'Package_SO:SOIC-16W_7.5x10.3mm_P1.27mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/adm2481.pdf', 'kicadSymbolki_keywords': 'rs-485 rs-422 eia485 eia-485 eia422 eia-422 serial differential', 'kicadSymbolki_description': 'Isolated RS485/RS422 Transceiver, Half-Duplex, 500kbps, SOIC-16W', 'kicadSymbolki_fp_filters': 'SOIC*7.5x10.3mm*P1.27mm*'}]|
+|name|name|Interface_UART : ADM2481xRW|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ADM2481xRW'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-16W_7.5x10.3mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/adm2481.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'rs-485 rs-422 eia485 eia-485 eia422 eia-422 serial differential'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Isolated RS485/RS422 Transceiver</td><td> Half-Duplex</td><td> 500kbps</td><td> SOIC-16W'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*7.5x10.3mm*P1.27mm*'</td></tr></table>]|
 ||||

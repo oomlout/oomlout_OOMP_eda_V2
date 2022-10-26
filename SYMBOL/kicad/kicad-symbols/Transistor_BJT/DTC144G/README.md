@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORBJTDTC144G > DTC144G
+# SZKTRANSISTORBJTDTC144G > Transistor_BJT : DTC144G
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-DTC144G
 - Hex ID: SZKTRANSISTORBJTDTC144G
-- Name: DTC144G
-- Description: DTC144G
+- Name: Transistor_BJT : DTC144G
+- Description: Transistor_BJT : DTC144G
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-DTC144G](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-DTC144G)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTDTC144G](http://oom.lt/SZKTRANSISTORBJTDTC144G)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DTC144G|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_BJT-DTC144G|
 |Hex ID (short code)|hexID|SZKTRANSISTORBJTDTC144G|
-|name|name|DTC144G|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'DTC144G', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_keywords': 'ROHM Digital NPN Transistor', 'kicadSymbolki_description': 'Digital NPN Transistor, 0k/47k, SOT-23', 'kicadSymbolki_fp_filters': 'SOT?23* SC?59*'}]|
+|name|name|Transistor_BJT : DTC144G|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'DTC144G'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'ROHM Digital NPN Transistor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Digital NPN Transistor</td><td> 0k/47k</td><td> SOT-23'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23* SC?59*'</td></tr></table>]|
 ||||

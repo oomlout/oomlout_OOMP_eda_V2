@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUMOSIPEEDM1 > Sipeed-M1
+# SZKMCUMOSIPEEDM1 > MCU_Module : Sipeed-M1
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Module-Sipeed-M1
 - Hex ID: SZKMCUMOSIPEEDM1
-- Name: Sipeed-M1
-- Description: Sipeed-M1
+- Name: MCU_Module : Sipeed-M1
+- Description: MCU_Module : Sipeed-M1
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Module-Sipeed-M1](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Module-Sipeed-M1)
 - Short Link: [http://oom.lt/SZKMCUMOSIPEEDM1](http://oom.lt/SZKMCUMOSIPEEDM1)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Sipeed-M1|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Module-Sipeed-M1|
 |Hex ID (short code)|hexID|SZKMCUMOSIPEEDM1|
-|name|name|Sipeed-M1|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'A', 'kicadSymbolValue': 'Sipeed-M1', 'kicadSymbolFootprint': 'Module:Sipeed-M1', 'kicadSymbolDatasheet': 'https://dl.sipeed.com/MAIX/HDK/Sipeed-M1&M1W/Specifications', 'kicadSymbolki_keywords': 'AI Kendryte K210 RISC-V', 'kicadSymbolki_description': 'AI accelerated RISC-V microcontroller', 'kicadSymbolki_fp_filters': 'Sipeed*M1*'}]|
+|name|name|MCU_Module : Sipeed-M1|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'A'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Sipeed-M1'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Module</td></tr><tr><td>Sipeed-M1'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//dl.sipeed.com/MAIX/HDK/Sipeed-M1&M1W/Specifications'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'AI Kendryte K210 RISC-V'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'AI accelerated RISC-V microcontroller'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Sipeed*M1*'</td></tr></table>]|
 ||||

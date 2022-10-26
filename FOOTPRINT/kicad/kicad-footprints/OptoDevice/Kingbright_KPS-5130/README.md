@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-OptoDevice-Kingbright_KPS-5130|
 |Hex ID (short code)|hexID|FZKOPKINGBRIGHTKPS513|
 |name|name|OptoDevice : Kingbright_KPS-5130|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Kingbright_KPS-5130', 'description': 'http://www.kingbright.com/attachments/file/psearch/000/00/00/KPS-5130PD7C(Ver.14).pdf', 'tags': 'KPS-5130 photodiode RGB sensor', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/Kingbright_KPS-5130.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Kingbright_KPS-5130'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//www.kingbright.com/attachments/file/psearch/000/00/00/KPS-5130PD7C(Ver.14).pdf'</td><td> 'tags'</td></tr><tr><td> 'KPS-5130 photodiode RGB sensor'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/OptoDevice.3dshapes/Kingbright_KPS-5130.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

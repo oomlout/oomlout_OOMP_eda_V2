@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORFETBSC15N1LSFG > BSC105N10LSFG
+# SZKTRANSISTORFETBSC15N1LSFG > Transistor_FET : BSC105N10LSFG
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-BSC105N10LSFG
 - Hex ID: SZKTRANSISTORFETBSC15N1LSFG
-- Name: BSC105N10LSFG
-- Description: BSC105N10LSFG
+- Name: Transistor_FET : BSC105N10LSFG
+- Description: Transistor_FET : BSC105N10LSFG
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BSC105N10LSFG](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BSC105N10LSFG)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETBSC15N1LSFG](http://oom.lt/SZKTRANSISTORFETBSC15N1LSFG)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BSC105N10LSFG|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-BSC105N10LSFG|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETBSC15N1LSFG|
-|name|name|BSC105N10LSFG|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'CSD17578Q5A', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'BSC105N10LSFG', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TDSON-8-1', 'kicadSymbolDatasheet': 'http://www.infineon.com/dgdl/Infineon-BSC105N10LSF-DS-v02_09-en.pdf?fileId=db3a30431b3e89eb011b499b2aa07b26', 'kicadSymbolki_keywords': 'OptiMOS Power MOSFET N-MOS', 'kicadSymbolki_description': '90A Id, 100V Vds, OptiMOS N-Channel Power MOSFET, 10.5mOhm Ron, Qg (typ) 40.0nC, PG-TDSON-8', 'kicadSymbolki_fp_filters': 'TDSON*'}]|
+|name|name|Transistor_FET : BSC105N10LSFG|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'CSD17578Q5A'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'BSC105N10LSFG'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>TDSON-8-1'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.infineon.com/dgdl/Infineon-BSC105N10LSF-DS-v02_09-en.pdf?fileId=db3a30431b3e89eb011b499b2aa07b26'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'OptiMOS Power MOSFET N-MOS'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '90A Id</td><td> 100V Vds</td><td> OptiMOS N-Channel Power MOSFET</td><td> 10.5mOhm Ron</td><td> Qg (typ) 40.0nC</td><td> PG-TDSON-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TDSON*'</td></tr></table>]|
 ||||

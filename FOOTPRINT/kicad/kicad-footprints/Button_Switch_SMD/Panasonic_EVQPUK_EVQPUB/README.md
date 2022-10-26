@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-Panasonic_EVQPUK_EVQPUB|
 |Hex ID (short code)|hexID|FZKBSWITCHSMPEVQPUKEVQPUB|
 |name|name|Button_Switch_SMD : Panasonic_EVQPUK_EVQPUB|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Panasonic_EVQPUK_EVQPUB', 'description': 'http://industrial.panasonic.com/cdbs/www-data/pdf/ATV0000/ATV0000CE5.pdf', 'tags': 'SMD SMT SPST EVQPUK EVQPUB', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/Panasonic_EVQPUK_EVQPUB.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Panasonic_EVQPUK_EVQPUB'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//industrial.panasonic.com/cdbs/www-data/pdf/ATV0000/ATV0000CE5.pdf'</td><td> 'tags'</td></tr><tr><td> 'SMD SMT SPST EVQPUK EVQPUB'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Button_Switch_SMD.3dshapes/Panasonic_EVQPUK_EVQPUB.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

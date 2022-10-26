@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORSWITCHINGMAX1562C > MAX15062C
+# SZKREGULATORSWITCHINGMAX1562C > Regulator_Switching : MAX15062C
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-MAX15062C
 - Hex ID: SZKREGULATORSWITCHINGMAX1562C
-- Name: MAX15062C
-- Description: MAX15062C
+- Name: Regulator_Switching : MAX15062C
+- Description: Regulator_Switching : MAX15062C
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-MAX15062C](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-MAX15062C)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGMAX1562C](http://oom.lt/SZKREGULATORSWITCHINGMAX1562C)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MAX15062C|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-MAX15062C|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGMAX1562C|
-|name|name|MAX15062C|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MAX15062A', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MAX15062C', 'kicadSymbolFootprint': 'Package_DFN_QFN:DFN-8_2x2mm_P0.5mm', 'kicadSymbolDatasheet': 'http://datasheets.maximintegrated.com/en/ds/MAX15062.pdf', 'kicadSymbolki_keywords': 'step-down dc-dc switching regulator', 'kicadSymbolki_description': '60V, 300mA, synchronous step-down dc-dc converter, adjustable output voltage, DFN-8', 'kicadSymbolki_fp_filters': 'DFN*2x2mm*P0.5mm*'}]|
+|name|name|Regulator_Switching : MAX15062C|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'MAX15062A'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MAX15062C'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>DFN-8_2x2mm_P0.5mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//datasheets.maximintegrated.com/en/ds/MAX15062.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'step-down dc-dc switching regulator'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '60V</td><td> 300mA</td><td> synchronous step-down dc-dc converter</td><td> adjustable output voltage</td><td> DFN-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DFN*2x2mm*P0.5mm*'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUNXPKINETISMKW21Z512VHT > MKW21Z512VHT
+# SZKMCUNXPKINETISMKW21Z512VHT > MCU_NXP_Kinetis : MKW21Z512VHT
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_NXP_Kinetis-MKW21Z512VHT
 - Hex ID: SZKMCUNXPKINETISMKW21Z512VHT
-- Name: MKW21Z512VHT
-- Description: MKW21Z512VHT
+- Name: MCU_NXP_Kinetis : MKW21Z512VHT
+- Description: MCU_NXP_Kinetis : MKW21Z512VHT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_Kinetis-MKW21Z512VHT](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_Kinetis-MKW21Z512VHT)
 - Short Link: [http://oom.lt/SZKMCUNXPKINETISMKW21Z512VHT](http://oom.lt/SZKMCUNXPKINETISMKW21Z512VHT)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MKW21Z512VHT|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_NXP_Kinetis-MKW21Z512VHT|
 |Hex ID (short code)|hexID|SZKMCUNXPKINETISMKW21Z512VHT|
-|name|name|MKW21Z512VHT|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MKW41Z512VHT', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MKW21Z512VHT', 'kicadSymbolFootprint': 'Package_DFN_QFN:NXP_LQFN-48-1EP_7x7mm_P0.5mm_EP3.5x3.5mm_16xMask0.45x0.45_ThermalVias', 'kicadSymbolDatasheet': 'https://www.nxp.com/docs/en/data-sheet/MKW41Z512.pdf', 'kicadSymbolki_keywords': 'Kinetis KW21Z ARM Cortex M0+', 'kicadSymbolki_description': 'Kinetis KW41Z-2.4 GHz, Arm Cortex-M0+, 512kB Flash, 128kB SRAM, generic FSK, LQFN-48', 'kicadSymbolki_fp_filters': 'NXP*LQFN*1EP*7x7mm*P0.5mm*'}]|
+|name|name|MCU_NXP_Kinetis : MKW21Z512VHT|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'MKW41Z512VHT'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MKW21Z512VHT'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>NXP_LQFN-48-1EP_7x7mm_P0.5mm_EP3.5x3.5mm_16xMask0.45x0.45_ThermalVias'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.nxp.com/docs/en/data-sheet/MKW41Z512.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Kinetis KW21Z ARM Cortex M0+'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Kinetis KW41Z-2.4 GHz</td><td> Arm Cortex-M0+</td><td> 512kB Flash</td><td> 128kB SRAM</td><td> generic FSK</td><td> LQFN-48'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'NXP*LQFN*1EP*7x7mm*P0.5mm*'</td></tr></table>]|
 ||||

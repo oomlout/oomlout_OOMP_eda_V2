@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUSILICONLABSEFM8LB12F64ECQFP32 > EFM8LB12F64E-C-QFP32
+# SZKMCUSILICONLABSEFM8LB12F64ECQFP32 > MCU_SiliconLabs : EFM8LB12F64E-C-QFP32
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_SiliconLabs-EFM8LB12F64E-C-QFP32
 - Hex ID: SZKMCUSILICONLABSEFM8LB12F64ECQFP32
-- Name: EFM8LB12F64E-C-QFP32
-- Description: EFM8LB12F64E-C-QFP32
+- Name: MCU_SiliconLabs : EFM8LB12F64E-C-QFP32
+- Description: MCU_SiliconLabs : EFM8LB12F64E-C-QFP32
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_SiliconLabs-EFM8LB12F64E-C-QFP32](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_SiliconLabs-EFM8LB12F64E-C-QFP32)
 - Short Link: [http://oom.lt/SZKMCUSILICONLABSEFM8LB12F64ECQFP32](http://oom.lt/SZKMCUSILICONLABSEFM8LB12F64ECQFP32)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|EFM8LB12F64E-C-QFP32|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_SiliconLabs-EFM8LB12F64E-C-QFP32|
 |Hex ID (short code)|hexID|SZKMCUSILICONLABSEFM8LB12F64ECQFP32|
-|name|name|EFM8LB12F64E-C-QFP32|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'EFM8LB12F32E-C-QFP32', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'EFM8LB12F64E-C-QFP32', 'kicadSymbolFootprint': 'Package_QFP:LQFP-32_7x7mm_P0.8mm', 'kicadSymbolDatasheet': 'https://www.silabs.com/documents/public/data-sheets/efm8lb1-datasheet.pdf', 'kicadSymbolki_keywords': '8051 microcontroller', 'kicadSymbolki_description': '8051-compatible microcontroller, 72 MHz, 2.2 to 3.6V, 64K flash, 2304B RAM, -40 to +105 C, QFP-32', 'kicadSymbolki_fp_filters': 'LQFP*7x7mm*P0.8mm*'}]|
+|name|name|MCU_SiliconLabs : EFM8LB12F64E-C-QFP32|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'EFM8LB12F32E-C-QFP32'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'EFM8LB12F64E-C-QFP32'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_QFP</td></tr><tr><td>LQFP-32_7x7mm_P0.8mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.silabs.com/documents/public/data-sheets/efm8lb1-datasheet.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> '8051 microcontroller'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '8051-compatible microcontroller</td><td> 72 MHz</td><td> 2.2 to 3.6V</td><td> 64K flash</td><td> 2304B RAM</td><td> -40 to +105 C</td><td> QFP-32'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'LQFP*7x7mm*P0.8mm*'</td></tr></table>]|
 ||||

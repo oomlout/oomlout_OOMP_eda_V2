@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDIODEBZX384XXXX > BZX384xxxx
+# SZKDIODEBZX384XXXX > Diode : BZX384xxxx
 
 - ID: SYMBOL-kicad-kicad-symbols-Diode-BZX384xxxx
 - Hex ID: SZKDIODEBZX384XXXX
-- Name: BZX384xxxx
-- Description: BZX384xxxx
+- Name: Diode : BZX384xxxx
+- Description: Diode : BZX384xxxx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BZX384xxxx](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BZX384xxxx)
 - Short Link: [http://oom.lt/SZKDIODEBZX384XXXX](http://oom.lt/SZKDIODEBZX384XXXX)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BZX384xxxx|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-BZX384xxxx|
 |Hex ID (short code)|hexID|SZKDIODEBZX384XXXX|
-|name|name|BZX384xxxx|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ZPYxx', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'BZX384xxxx', 'kicadSymbolFootprint': 'Diode_SMD:D_SOD-323', 'kicadSymbolDatasheet': 'https://www.vishay.com/docs/85764/bzx384.pdf', 'kicadSymbolki_keywords': 'zener diode', 'kicadSymbolki_description': '300mW Zener Diode, SOD-323', 'kicadSymbolki_fp_filters': 'D*SOD*323*'}]|
+|name|name|Diode : BZX384xxxx|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'ZPYxx'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'BZX384xxxx'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Diode_SMD</td></tr><tr><td>D_SOD-323'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.vishay.com/docs/85764/bzx384.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'zener diode'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '300mW Zener Diode</td><td> SOD-323'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'D*SOD*323*'</td></tr></table>]|
 ||||

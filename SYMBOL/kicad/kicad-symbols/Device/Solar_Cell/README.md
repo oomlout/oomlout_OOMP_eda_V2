@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDEVICESOLARCELL > Solar_Cell
+# SZKDEVICESOLARCELL > Device : Solar_Cell
 
 - ID: SYMBOL-kicad-kicad-symbols-Device-Solar_Cell
 - Hex ID: SZKDEVICESOLARCELL
-- Name: Solar_Cell
-- Description: Solar_Cell
+- Name: Device : Solar_Cell
+- Description: Device : Solar_Cell
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Solar_Cell](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Solar_Cell)
 - Short Link: [http://oom.lt/SZKDEVICESOLARCELL](http://oom.lt/SZKDEVICESOLARCELL)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Solar_Cell|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-Solar_Cell|
 |Hex ID (short code)|hexID|SZKDEVICESOLARCELL|
-|name|name|Solar_Cell|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'SC', 'kicadSymbolValue': 'Solar_Cell', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'solar cell', 'kicadSymbolki_description': 'Single solar cell'}]|
+|name|name|Device : Solar_Cell|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'SC'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Solar_Cell'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'solar cell'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Single solar cell'</td></tr></table>]|
 ||||

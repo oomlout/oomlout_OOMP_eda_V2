@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-89-5_Handsoldering|
 |Hex ID (short code)|hexID|FZKPACKAGETOSOTSMSOT895HANDSOLDERING|
 |name|name|Package_TO_SOT_SMD : SOT-89-5_Handsoldering|
-|Footprint Kicad|footprintKicadDetails|{'name': 'SOT-89-5_Handsoldering', 'description': 'SOT-89-5, http://www.e-devices.ricoh.co.jp/en/products/product_power/pkg/sot-89-5.pdf', 'tags': 'SOT-89-5', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-89-5.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SOT-89-5_Handsoldering'</td><td> 'description'</td></tr><tr><td> 'SOT-89-5</td><td> http</td></tr><tr><td>//www.e-devices.ricoh.co.jp/en/products/product_power/pkg/sot-89-5.pdf'</td><td> 'tags'</td></tr><tr><td> 'SOT-89-5'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_TO_SOT_SMD.3dshapes/SOT-89-5.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

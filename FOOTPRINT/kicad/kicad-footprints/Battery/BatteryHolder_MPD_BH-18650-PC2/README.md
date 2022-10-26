@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Battery-BatteryHolder_MPD_BH-18650-PC2|
 |Hex ID (short code)|hexID|FZKBATBATHOLDERMPDBH1865PC2|
 |name|name|Battery : BatteryHolder_MPD_BH-18650-PC2|
-|Footprint Kicad|footprintKicadDetails|{'name': 'BatteryHolder_MPD_BH-18650-PC2', 'description': '18650 Battery Holder (http://www.memoryprotectiondevices.com/datasheets/BK-18650-PC2-datasheet.pdf)', 'tags': '18650 Battery Holder', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Battery.3dshapes/BatteryHolder_MPD_BH-18650-PC2.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'BatteryHolder_MPD_BH-18650-PC2'</td><td> 'description'</td></tr><tr><td> '18650 Battery Holder (http</td></tr><tr><td>//www.memoryprotectiondevices.com/datasheets/BK-18650-PC2-datasheet.pdf)'</td><td> 'tags'</td></tr><tr><td> '18650 Battery Holder'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Battery.3dshapes/BatteryHolder_MPD_BH-18650-PC2.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

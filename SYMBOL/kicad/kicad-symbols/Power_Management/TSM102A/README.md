@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKPOWERMANAGEMENTTSM12A > TSM102A
+# SZKPOWERMANAGEMENTTSM12A > Power_Management : TSM102A
 
 - ID: SYMBOL-kicad-kicad-symbols-Power_Management-TSM102A
 - Hex ID: SZKPOWERMANAGEMENTTSM12A
-- Name: TSM102A
-- Description: TSM102A
+- Name: Power_Management : TSM102A
+- Description: Power_Management : TSM102A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-TSM102A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-TSM102A)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTTSM12A](http://oom.lt/SZKPOWERMANAGEMENTTSM12A)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TSM102A|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Management-TSM102A|
 |Hex ID (short code)|hexID|SZKPOWERMANAGEMENTTSM12A|
-|name|name|TSM102A|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TSM102', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TSM102A', 'kicadSymbolFootprint': 'Package_SO:SOIC-16_3.9x9.9mm_P1.27mm', 'kicadSymbolDatasheet': 'http://www.st.com/resource/en/datasheet/tsm102.pdf', 'kicadSymbolki_keywords': 'dual opamp comparator reference', 'kicadSymbolki_description': 'Dual Operational Amplifier and Dual Comparator and 0.4% Voltage Reference, SOIC-16', 'kicadSymbolki_fp_filters': 'SOIC*3.9x9.9mm*P1.27mm*'}]|
+|name|name|Power_Management : TSM102A|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'TSM102'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TSM102A'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-16_3.9x9.9mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.st.com/resource/en/datasheet/tsm102.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'dual opamp comparator reference'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Dual Operational Amplifier and Dual Comparator and 0.4% Voltage Reference</td><td> SOIC-16'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*3.9x9.9mm*P1.27mm*'</td></tr></table>]|
 ||||

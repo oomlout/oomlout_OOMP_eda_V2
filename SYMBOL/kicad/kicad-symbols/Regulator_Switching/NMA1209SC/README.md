@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORSWITCHINGNMA129SC > NMA1209SC
+# SZKREGULATORSWITCHINGNMA129SC > Regulator_Switching : NMA1209SC
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-NMA1209SC
 - Hex ID: SZKREGULATORSWITCHINGNMA129SC
-- Name: NMA1209SC
-- Description: NMA1209SC
+- Name: Regulator_Switching : NMA1209SC
+- Description: Regulator_Switching : NMA1209SC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-NMA1209SC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-NMA1209SC)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGNMA129SC](http://oom.lt/SZKREGULATORSWITCHINGNMA129SC)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|NMA1209SC|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-NMA1209SC|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGNMA129SC|
-|name|name|NMA1209SC|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'NMA0512SC', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'NMA1209SC', 'kicadSymbolFootprint': 'Converter_DCDC:Converter_DCDC_Murata_NMAxxxxSC_THT', 'kicadSymbolDatasheet': 'http://power.murata.com/data/power/ncl/kdc_nma.pdf', 'kicadSymbolki_keywords': 'Murata isolated isolation dc-dc converter', 'kicadSymbolki_description': '+/-55mA Isolated 1W Dual output DC/DC Converter Module, 12V Input Voltage, +/-9V Output Voltage, SIP3', 'kicadSymbolki_fp_filters': 'Converter*DCDC*Murata*NMAxxxxSC*'}]|
+|name|name|Regulator_Switching : NMA1209SC|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'NMA0512SC'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'NMA1209SC'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Converter_DCDC</td></tr><tr><td>Converter_DCDC_Murata_NMAxxxxSC_THT'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//power.murata.com/data/power/ncl/kdc_nma.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Murata isolated isolation dc-dc converter'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '+/-55mA Isolated 1W Dual output DC/DC Converter Module</td><td> 12V Input Voltage</td><td> +/-9V Output Voltage</td><td> SIP3'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Converter*DCDC*Murata*NMAxxxxSC*'</td></tr></table>]|
 ||||

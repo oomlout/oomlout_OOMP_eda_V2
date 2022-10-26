@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_CLIK-Mate_502386-0970_1x09-1MP_P1.25mm_Horizontal|
 |Hex ID (short code)|hexID|FZKCNMXMXCLIKMATE52386971X91MPP125HORIZONTAL|
 |name|name|Connector_Molex : Molex_CLIK-Mate_502386-0970_1x09-1MP_P1.25mm_Horizontal|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Molex_CLIK-Mate_502386-0970_1x09-1MP_P1.25mm_Horizontal', 'description': 'Molex CLIK-Mate series connector, 502386-0970 (http://www.molex.com/pdm_docs/sd/5023860270_sd.pdf), generated with kicad-footprint-generator', 'tags': 'connector Molex CLIK-Mate top entry', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_Molex.3dshapes/Molex_CLIK-Mate_502386-0970_1x09-1MP_P1.25mm_Horizontal.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Molex_CLIK-Mate_502386-0970_1x09-1MP_P1.25mm_Horizontal'</td><td> 'description'</td></tr><tr><td> 'Molex CLIK-Mate series connector</td><td> 502386-0970 (http</td></tr><tr><td>//www.molex.com/pdm_docs/sd/5023860270_sd.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'connector Molex CLIK-Mate top entry'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_Molex.3dshapes/Molex_CLIK-Mate_502386-0970_1x09-1MP_P1.25mm_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Display-EA_DOGXL160-7_Backlight|
 |Hex ID (short code)|hexID|FZKDIEADOGXL167BACKLIGHT|
 |name|name|Display : EA_DOGXL160-7_Backlight|
-|Footprint Kicad|footprintKicadDetails|{'name': 'EA_DOGXL160-7_Backlight', 'description': 'Grapchical,Display,LCD,160x104 http://www.lcd-module.com/eng/pdf/grafik/dogxl160-7e.pdf', 'tags': 'EA_DOGXL160-7_Backlight', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Display.3dshapes/EA_DOGXL160-7_Backlight.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'EA_DOGXL160-7_Backlight'</td><td> 'description'</td></tr><tr><td> 'Grapchical</td><td>Display</td><td>LCD</td><td>160x104 http</td></tr><tr><td>//www.lcd-module.com/eng/pdf/grafik/dogxl160-7e.pdf'</td><td> 'tags'</td></tr><tr><td> 'EA_DOGXL160-7_Backlight'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Display.3dshapes/EA_DOGXL160-7_Backlight.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

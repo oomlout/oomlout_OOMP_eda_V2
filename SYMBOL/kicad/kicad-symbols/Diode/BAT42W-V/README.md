@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDIODEBAT42WV > BAT42W-V
+# SZKDIODEBAT42WV > Diode : BAT42W-V
 
 - ID: SYMBOL-kicad-kicad-symbols-Diode-BAT42W-V
 - Hex ID: SZKDIODEBAT42WV
-- Name: BAT42W-V
-- Description: BAT42W-V
+- Name: Diode : BAT42W-V
+- Description: Diode : BAT42W-V
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BAT42W-V](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BAT42W-V)
 - Short Link: [http://oom.lt/SZKDIODEBAT42WV](http://oom.lt/SZKDIODEBAT42WV)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BAT42W-V|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-BAT42W-V|
 |Hex ID (short code)|hexID|SZKDIODEBAT42WV|
-|name|name|BAT42W-V|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BAT48ZFILM', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'BAT42W-V', 'kicadSymbolFootprint': 'Diode_SMD:D_SOD-123', 'kicadSymbolDatasheet': 'http://www.vishay.com/docs/85660/bat42.pdf', 'kicadSymbolki_keywords': 'diode Schottky', 'kicadSymbolki_description': '30V 0.2A Small Signal Schottky diode, SOD-123', 'kicadSymbolki_fp_filters': 'D*SOD?123*'}]|
+|name|name|Diode : BAT42W-V|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'BAT48ZFILM'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'BAT42W-V'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Diode_SMD</td></tr><tr><td>D_SOD-123'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.vishay.com/docs/85660/bat42.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'diode Schottky'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '30V 0.2A Small Signal Schottky diode</td><td> SOD-123'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'D*SOD?123*'</td></tr></table>]|
 ||||

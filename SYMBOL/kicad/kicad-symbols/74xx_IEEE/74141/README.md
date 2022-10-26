@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZK74XXIEEE74141 > 74141
+# SZK74XXIEEE74141 > 74xx_IEEE : 74141
 
 - ID: SYMBOL-kicad-kicad-symbols-74xx_IEEE-74141
 - Hex ID: SZK74XXIEEE74141
-- Name: 74141
-- Description: 74141
+- Name: 74xx_IEEE : 74141
+- Description: 74xx_IEEE : 74141
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx_IEEE-74141](http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx_IEEE-74141)
 - Short Link: [http://oom.lt/SZK74XXIEEE74141](http://oom.lt/SZK74XXIEEE74141)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74141|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xx_IEEE-74141|
 |Hex ID (short code)|hexID|SZK74XXIEEE74141|
-|name|name|74141|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74141', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ''}]|
+|name|name|74xx_IEEE : 74141|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> '74141'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> ''</td></tr></table>]|
 ||||

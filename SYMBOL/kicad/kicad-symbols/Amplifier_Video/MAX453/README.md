@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKAMPLIFIERVIDEOMAX453 > MAX453
+# SZKAMPLIFIERVIDEOMAX453 > Amplifier_Video : MAX453
 
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Video-MAX453
 - Hex ID: SZKAMPLIFIERVIDEOMAX453
-- Name: MAX453
-- Description: MAX453
+- Name: Amplifier_Video : MAX453
+- Description: Amplifier_Video : MAX453
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Video-MAX453](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Video-MAX453)
 - Short Link: [http://oom.lt/SZKAMPLIFIERVIDEOMAX453](http://oom.lt/SZKAMPLIFIERVIDEOMAX453)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MAX453|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Video-MAX453|
 |Hex ID (short code)|hexID|SZKAMPLIFIERVIDEOMAX453|
-|name|name|MAX453|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MAX453', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://datasheets.maximintegrated.com/en/ds/MAX452-MAX455.pdf', 'kicadSymbolki_keywords': 'amplifier', 'kicadSymbolki_description': 'CMOS video amplifier with input multiplexer, DIP-8/SOIC-8', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm* SOIC*3.9x4.9mm*P1.27mm*'}]|
+|name|name|Amplifier_Video : MAX453|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MAX453'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//datasheets.maximintegrated.com/en/ds/MAX452-MAX455.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'amplifier'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'CMOS video amplifier with input multiplexer</td><td> DIP-8/SOIC-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W7.62mm* SOIC*3.9x4.9mm*P1.27mm*'</td></tr></table>]|
 ||||

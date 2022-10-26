@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Nano-Fit_105313-xx07_1x07_P2.50mm_Horizontal|
 |Hex ID (short code)|hexID|FZKCNMXMXNANOFIT15313XX71X7P25HORIZONTAL|
 |name|name|Connector_Molex : Molex_Nano-Fit_105313-xx07_1x07_P2.50mm_Horizontal|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Molex_Nano-Fit_105313-xx07_1x07_P2.50mm_Horizontal', 'description': 'Molex Nano-Fit Power Connectors, 105313-xx07, 7 Pins per row (http://www.molex.com/pdm_docs/sd/1053131208_sd.pdf), generated with kicad-footprint-generator', 'tags': 'connector Molex Nano-Fit top entry', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_Molex.3dshapes/Molex_Nano-Fit_105313-xx07_1x07_P2.50mm_Horizontal.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Molex_Nano-Fit_105313-xx07_1x07_P2.50mm_Horizontal'</td><td> 'description'</td></tr><tr><td> 'Molex Nano-Fit Power Connectors</td><td> 105313-xx07</td><td> 7 Pins per row (http</td></tr><tr><td>//www.molex.com/pdm_docs/sd/1053131208_sd.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'connector Molex Nano-Fit top entry'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_Molex.3dshapes/Molex_Nano-Fit_105313-xx07_1x07_P2.50mm_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

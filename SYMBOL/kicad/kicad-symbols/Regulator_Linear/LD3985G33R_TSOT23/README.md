@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORLINEARLD3985G33RTSOT23 > LD3985G33R_TSOT23
+# SZKREGULATORLINEARLD3985G33RTSOT23 > Regulator_Linear : LD3985G33R_TSOT23
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-LD3985G33R_TSOT23
 - Hex ID: SZKREGULATORLINEARLD3985G33RTSOT23
-- Name: LD3985G33R_TSOT23
-- Description: LD3985G33R_TSOT23
+- Name: Regulator_Linear : LD3985G33R_TSOT23
+- Description: Regulator_Linear : LD3985G33R_TSOT23
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LD3985G33R_TSOT23](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LD3985G33R_TSOT23)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARLD3985G33RTSOT23](http://oom.lt/SZKREGULATORLINEARLD3985G33RTSOT23)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LD3985G33R_TSOT23|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-LD3985G33R_TSOT23|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARLD3985G33RTSOT23|
-|name|name|LD3985G33R_TSOT23|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LD3985G122R_TSOT23', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LD3985G33R_TSOT23', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TSOT-23-5', 'kicadSymbolDatasheet': 'http://www.st.com/internet/com/TECHNICAL_RESOURCES/TECHNICAL_LITERATURE/DATASHEET/CD00003395.pdf', 'kicadSymbolki_keywords': '150mA LDO Regulator Fixed Positive', 'kicadSymbolki_description': '150mA Low Dropout Voltage Regulator, Fixed Output 3.3V, TSOT-23-5', 'kicadSymbolki_fp_filters': 'TSOT?23*'}]|
+|name|name|Regulator_Linear : LD3985G33R_TSOT23|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'LD3985G122R_TSOT23'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LD3985G33R_TSOT23'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>TSOT-23-5'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.st.com/internet/com/TECHNICAL_RESOURCES/TECHNICAL_LITERATURE/DATASHEET/CD00003395.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> '150mA LDO Regulator Fixed Positive'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '150mA Low Dropout Voltage Regulator</td><td> Fixed Output 3.3V</td><td> TSOT-23-5'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TSOT?23*'</td></tr></table>]|
 ||||

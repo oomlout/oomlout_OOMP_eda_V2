@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKRELAYSANYOUSRDFORMA > SANYOU_SRD_Form_A
+# SZKRELAYSANYOUSRDFORMA > Relay : SANYOU_SRD_Form_A
 
 - ID: SYMBOL-kicad-kicad-symbols-Relay-SANYOU_SRD_Form_A
 - Hex ID: SZKRELAYSANYOUSRDFORMA
-- Name: SANYOU_SRD_Form_A
-- Description: SANYOU_SRD_Form_A
+- Name: Relay : SANYOU_SRD_Form_A
+- Description: Relay : SANYOU_SRD_Form_A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-SANYOU_SRD_Form_A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-SANYOU_SRD_Form_A)
 - Short Link: [http://oom.lt/SZKRELAYSANYOUSRDFORMA](http://oom.lt/SZKRELAYSANYOUSRDFORMA)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SANYOU_SRD_Form_A|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Relay-SANYOU_SRD_Form_A|
 |Hex ID (short code)|hexID|SZKRELAYSANYOUSRDFORMA|
-|name|name|SANYOU_SRD_Form_A|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'K', 'kicadSymbolValue': 'SANYOU_SRD_Form_A', 'kicadSymbolFootprint': 'Relay_THT:Relay_SPST_SANYOU_SRD_Series_Form_A', 'kicadSymbolDatasheet': 'http://www.sanyourelay.ca/public/products/pdf/SRD.pdf', 'kicadSymbolki_keywords': 'Single Pole Relay SPST', 'kicadSymbolki_description': 'Sanyo SRD relay, Single Pole Miniature Power Relay, Closing Contact', 'kicadSymbolki_fp_filters': 'Relay*SPST*SANYOU*SRD*Series*Form*A*'}]|
+|name|name|Relay : SANYOU_SRD_Form_A|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'K'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'SANYOU_SRD_Form_A'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Relay_THT</td></tr><tr><td>Relay_SPST_SANYOU_SRD_Series_Form_A'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.sanyourelay.ca/public/products/pdf/SRD.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Single Pole Relay SPST'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Sanyo SRD relay</td><td> Single Pole Miniature Power Relay</td><td> Closing Contact'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Relay*SPST*SANYOU*SRD*Series*Form*A*'</td></tr></table>]|
 ||||

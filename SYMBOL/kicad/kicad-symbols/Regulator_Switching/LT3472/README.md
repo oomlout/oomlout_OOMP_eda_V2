@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORSWITCHINGLT3472 > LT3472
+# SZKREGULATORSWITCHINGLT3472 > Regulator_Switching : LT3472
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-LT3472
 - Hex ID: SZKREGULATORSWITCHINGLT3472
-- Name: LT3472
-- Description: LT3472
+- Name: Regulator_Switching : LT3472
+- Description: Regulator_Switching : LT3472
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LT3472](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LT3472)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGLT3472](http://oom.lt/SZKREGULATORSWITCHINGLT3472)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LT3472|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-LT3472|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGLT3472|
-|name|name|LT3472|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LT3472', 'kicadSymbolFootprint': 'Package_DFN_QFN:DFN-10-1EP_3x3mm_P0.5mm_EP1.65x2.38mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/3472f.pdf', 'kicadSymbolki_keywords': 'DC/DC converter CCD Bias Boost', 'kicadSymbolki_description': 'Boost and Inverting DC/DC Converter for CCD Bias, DFN-10', 'kicadSymbolki_fp_filters': 'DFN*1EP*3x3mm*P0.5mm*'}]|
+|name|name|Regulator_Switching : LT3472|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LT3472'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>DFN-10-1EP_3x3mm_P0.5mm_EP1.65x2.38mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/3472f.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'DC/DC converter CCD Bias Boost'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Boost and Inverting DC/DC Converter for CCD Bias</td><td> DFN-10'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DFN*1EP*3x3mm*P0.5mm*'</td></tr></table>]|
 ||||

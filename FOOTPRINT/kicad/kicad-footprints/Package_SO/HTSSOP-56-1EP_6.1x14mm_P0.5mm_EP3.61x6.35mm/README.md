@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SO-HTSSOP-56-1EP_6.1x14mm_P0.5mm_EP3.61x6.35mm|
 |Hex ID (short code)|hexID|FZKSOHTSS561EP61X14P5EP361X635|
 |name|name|Package_SO : HTSSOP-56-1EP_6.1x14mm_P0.5mm_EP3.61x6.35mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'HTSSOP-56-1EP_6.1x14mm_P0.5mm_EP3.61x6.35mm', 'description': 'HTSSOP56: plastic thin shrink small outline package http://www.ti.com/lit/ds/symlink/drv8301.pdf', 'tags': 'HTSSOP 0.5', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/HTSSOP-56-1EP_6.1x14mm_P0.5mm_EP3.61x6.35mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'HTSSOP-56-1EP_6.1x14mm_P0.5mm_EP3.61x6.35mm'</td><td> 'description'</td></tr><tr><td> 'HTSSOP56</td></tr><tr><td> plastic thin shrink small outline package http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/drv8301.pdf'</td><td> 'tags'</td></tr><tr><td> 'HTSSOP 0.5'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_SO.3dshapes/HTSSOP-56-1EP_6.1x14mm_P0.5mm_EP3.61x6.35mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

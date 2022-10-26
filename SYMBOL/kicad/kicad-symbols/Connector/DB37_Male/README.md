@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKCNDB37MALE > DB37_Male
+# SZKCNDB37MALE > Connector : DB37_Male
 
 - ID: SYMBOL-kicad-kicad-symbols-Connector-DB37_Male
 - Hex ID: SZKCNDB37MALE
-- Name: DB37_Male
-- Description: DB37_Male
+- Name: Connector : DB37_Male
+- Description: Connector : DB37_Male
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-DB37_Male](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-DB37_Male)
 - Short Link: [http://oom.lt/SZKCNDB37MALE](http://oom.lt/SZKCNDB37MALE)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DB37_Male|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-DB37_Male|
 |Hex ID (short code)|hexID|SZKCNDB37MALE|
-|name|name|DB37_Male|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'DB37_Male', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ' ~', 'kicadSymbolki_keywords': 'male D-SUB connector', 'kicadSymbolki_description': '37-pin male D-SUB connector', 'kicadSymbolki_fp_filters': 'DSUB*Male*'}]|
+|name|name|Connector : DB37_Male|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'J'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'DB37_Male'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> ' ~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'male D-SUB connector'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '37-pin male D-SUB connector'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DSUB*Male*'</td></tr></table>]|
 ||||

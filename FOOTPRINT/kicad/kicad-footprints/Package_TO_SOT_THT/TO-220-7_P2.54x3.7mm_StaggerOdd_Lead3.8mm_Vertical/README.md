@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-220-7_P2.54x3.7mm_StaggerOdd_Lead3.8mm_Vertical|
 |Hex ID (short code)|hexID|FZKSOTTO227P254X37STAGGERODDLEAD38VERTICAL|
 |name|name|Package_TO_SOT_THT : TO-220-7_P2.54x3.7mm_StaggerOdd_Lead3.8mm_Vertical|
-|Footprint Kicad|footprintKicadDetails|{'name': 'TO-220-7_P2.54x3.7mm_StaggerOdd_Lead3.8mm_Vertical', 'description': 'TO-220-7, Vertical, RM 1.27mm, Multiwatt-7, staggered type-1', 'tags': 'TO-220-7 Vertical RM 1.27mm Multiwatt-7 staggered type-1', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/TO-220-7_P2.54x3.7mm_StaggerOdd_Lead3.8mm_Vertical.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'TO-220-7_P2.54x3.7mm_StaggerOdd_Lead3.8mm_Vertical'</td><td> 'description'</td></tr><tr><td> 'TO-220-7</td><td> Vertical</td><td> RM 1.27mm</td><td> Multiwatt-7</td><td> staggered type-1'</td><td> 'tags'</td></tr><tr><td> 'TO-220-7 Vertical RM 1.27mm Multiwatt-7 staggered type-1'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_TO_SOT_THT.3dshapes/TO-220-7_P2.54x3.7mm_StaggerOdd_Lead3.8mm_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

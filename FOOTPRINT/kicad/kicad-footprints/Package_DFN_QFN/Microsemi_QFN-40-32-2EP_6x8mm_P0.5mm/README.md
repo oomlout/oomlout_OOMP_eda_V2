@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Microsemi_QFN-40-32-2EP_6x8mm_P0.5mm|
 |Hex ID (short code)|hexID|FZKDFNMSEMIQFN4322EP6X8P5|
 |name|name|Package_DFN_QFN : Microsemi_QFN-40-32-2EP_6x8mm_P0.5mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Microsemi_QFN-40-32-2EP_6x8mm_P0.5mm', 'description': '40-Lead (32-Lead Populated) Plastic Quad Flat, No Lead Package - 6x8x0.9mm Body (https://www.microsemi.com/document-portal/doc_download/131677-pd70224-data-sheet)', 'tags': 'QFN 0.5', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Microsemi_QFN-40-32-2EP_6x8mm_P0.5mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Microsemi_QFN-40-32-2EP_6x8mm_P0.5mm'</td><td> 'description'</td></tr><tr><td> '40-Lead (32-Lead Populated) Plastic Quad Flat</td><td> No Lead Package - 6x8x0.9mm Body (https</td></tr><tr><td>//www.microsemi.com/document-portal/doc_download/131677-pd70224-data-sheet)'</td><td> 'tags'</td></tr><tr><td> 'QFN 0.5'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DFN_QFN.3dshapes/Microsemi_QFN-40-32-2EP_6x8mm_P0.5mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

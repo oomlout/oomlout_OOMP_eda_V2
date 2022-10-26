@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKCONITQ243SA > ITQ2403SA
+# SZKCONITQ243SA > Converter_DCDC : ITQ2403SA
 
 - ID: SYMBOL-kicad-kicad-symbols-Converter_DCDC-ITQ2403SA
 - Hex ID: SZKCONITQ243SA
-- Name: ITQ2403SA
-- Description: ITQ2403SA
+- Name: Converter_DCDC : ITQ2403SA
+- Description: Converter_DCDC : ITQ2403SA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-ITQ2403SA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-ITQ2403SA)
 - Short Link: [http://oom.lt/SZKCONITQ243SA](http://oom.lt/SZKCONITQ243SA)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ITQ2403SA|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Converter_DCDC-ITQ2403SA|
 |Hex ID (short code)|hexID|SZKCONITQ243SA|
-|name|name|ITQ2403SA|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ITX0503SA-R', 'kicadSymbolReference': 'PS', 'kicadSymbolValue': 'ITQ2403SA', 'kicadSymbolFootprint': 'Converter_DCDC:Converter_DCDC_XP_POWER-ITxxxxxS_THT', 'kicadSymbolDatasheet': 'https://www.xppower.com/pdfs/SF_ITQ.pdf', 'kicadSymbolki_keywords': 'XP_POWER DC/DC isolated Converter module', 'kicadSymbolki_description': 'XP Power 6W, 1000 VDC Isolated DC/DC Converter Module, Single Output Voltage 3.3V, ±1500mA, 24V Input Voltage, SIP', 'kicadSymbolki_fp_filters': '*XP?POWER?ITxxxxx*'}]|
+|name|name|Converter_DCDC : ITQ2403SA|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'ITX0503SA-R'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'PS'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ITQ2403SA'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Converter_DCDC</td></tr><tr><td>Converter_DCDC_XP_POWER-ITxxxxxS_THT'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.xppower.com/pdfs/SF_ITQ.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'XP_POWER DC/DC isolated Converter module'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'XP Power 6W</td><td> 1000 VDC Isolated DC/DC Converter Module</td><td> Single Output Voltage 3.3V</td><td> ±1500mA</td><td> 24V Input Voltage</td><td> SIP'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> '*XP?POWER?ITxxxxx*'</td></tr></table>]|
 ||||

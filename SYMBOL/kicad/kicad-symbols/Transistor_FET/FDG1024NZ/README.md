@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORFETFDG124NZ > FDG1024NZ
+# SZKTRANSISTORFETFDG124NZ > Transistor_FET : FDG1024NZ
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-FDG1024NZ
 - Hex ID: SZKTRANSISTORFETFDG124NZ
-- Name: FDG1024NZ
-- Description: FDG1024NZ
+- Name: Transistor_FET : FDG1024NZ
+- Description: Transistor_FET : FDG1024NZ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-FDG1024NZ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-FDG1024NZ)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETFDG124NZ](http://oom.lt/SZKTRANSISTORFETFDG124NZ)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|FDG1024NZ|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-FDG1024NZ|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETFDG124NZ|
-|name|name|FDG1024NZ|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'FDG1024NZ', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-363_SC-70-6', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pub/Collateral/FDG1024NZ-D.pdf', 'kicadSymbolki_keywords': 'Dual N-Channel MOSFET Logic Level', 'kicadSymbolki_description': '1.2A Id, 20V Vds, Dual N-Channel MOSFET, 175mOhm Ron, SC-70-6', 'kicadSymbolki_fp_filters': 'SOT?363*'}]|
+|name|name|Transistor_FET : FDG1024NZ|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'FDG1024NZ'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-363_SC-70-6'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.onsemi.com/pub/Collateral/FDG1024NZ-D.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Dual N-Channel MOSFET Logic Level'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '1.2A Id</td><td> 20V Vds</td><td> Dual N-Channel MOSFET</td><td> 175mOhm Ron</td><td> SC-70-6'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?363*'</td></tr></table>]|
 ||||

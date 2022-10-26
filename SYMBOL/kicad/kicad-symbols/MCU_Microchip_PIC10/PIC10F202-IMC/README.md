@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUMCHIPPIC1PIC1F22IMC > PIC10F202-IMC
+# SZKMCUMCHIPPIC1PIC1F22IMC > MCU_Microchip_PIC10 : PIC10F202-IMC
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC10-PIC10F202-IMC
 - Hex ID: SZKMCUMCHIPPIC1PIC1F22IMC
-- Name: PIC10F202-IMC
-- Description: PIC10F202-IMC
+- Name: MCU_Microchip_PIC10 : PIC10F202-IMC
+- Description: MCU_Microchip_PIC10 : PIC10F202-IMC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC10-PIC10F202-IMC](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC10-PIC10F202-IMC)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC1PIC1F22IMC](http://oom.lt/SZKMCUMCHIPPIC1PIC1F22IMC)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PIC10F202-IMC|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC10-PIC10F202-IMC|
 |Hex ID (short code)|hexID|SZKMCUMCHIPPIC1PIC1F22IMC|
-|name|name|PIC10F202-IMC|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'PIC10F200-IMC', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PIC10F202-IMC', 'kicadSymbolFootprint': 'Package_DFN_QFN:DFN-8-1EP_2x3mm_P0.5mm_EP0.61x2.2mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/41239D.pdf', 'kicadSymbolki_keywords': 'FLASH 8-Bit CMOS Microcontroller', 'kicadSymbolki_description': '512W Flash, 24B SRAM, DFN8', 'kicadSymbolki_fp_filters': 'DFN*8*1EP*2x3mm*P0.5mm*'}]|
+|name|name|MCU_Microchip_PIC10 : PIC10F202-IMC|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'PIC10F200-IMC'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'PIC10F202-IMC'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>DFN-8-1EP_2x3mm_P0.5mm_EP0.61x2.2mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/41239D.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'FLASH 8-Bit CMOS Microcontroller'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '512W Flash</td><td> 24B SRAM</td><td> DFN8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DFN*8*1EP*2x3mm*P0.5mm*'</td></tr></table>]|
 ||||

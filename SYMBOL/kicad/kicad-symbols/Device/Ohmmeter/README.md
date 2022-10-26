@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDEVICEOHETER > Ohmmeter
+# SZKDEVICEOHETER > Device : Ohmmeter
 
 - ID: SYMBOL-kicad-kicad-symbols-Device-Ohmmeter
 - Hex ID: SZKDEVICEOHETER
-- Name: Ohmmeter
-- Description: Ohmmeter
+- Name: Device : Ohmmeter
+- Description: Device : Ohmmeter
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Ohmmeter](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Ohmmeter)
 - Short Link: [http://oom.lt/SZKDEVICEOHETER](http://oom.lt/SZKDEVICEOHETER)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Ohmmeter|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-Ohmmeter|
 |Hex ID (short code)|hexID|SZKDEVICEOHETER|
-|name|name|Ohmmeter|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'MES', 'kicadSymbolValue': 'Ohmmeter', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'ohmmeter resistance', 'kicadSymbolki_description': 'Ohmmeter'}]|
+|name|name|Device : Ohmmeter|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'MES'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Ohmmeter'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'ohmmeter resistance'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Ohmmeter'</td></tr></table>]|
 ||||

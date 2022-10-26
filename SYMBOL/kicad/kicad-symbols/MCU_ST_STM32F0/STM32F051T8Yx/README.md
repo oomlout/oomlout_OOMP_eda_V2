@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUSTSTM32FSTM32F51T8YX > STM32F051T8Yx
+# SZKMCUSTSTM32FSTM32F51T8YX > MCU_ST_STM32F0 : STM32F051T8Yx
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F0-STM32F051T8Yx
 - Hex ID: SZKMCUSTSTM32FSTM32F51T8YX
-- Name: STM32F051T8Yx
-- Description: STM32F051T8Yx
+- Name: MCU_ST_STM32F0 : STM32F051T8Yx
+- Description: MCU_ST_STM32F0 : STM32F051T8Yx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F0-STM32F051T8Yx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F0-STM32F051T8Yx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32FSTM32F51T8YX](http://oom.lt/SZKMCUSTSTM32FSTM32F51T8YX)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|STM32F051T8Yx|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F0-STM32F051T8Yx|
 |Hex ID (short code)|hexID|SZKMCUSTSTM32FSTM32F51T8YX|
-|name|name|STM32F051T8Yx|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'STM32F051T8Yx', 'kicadSymbolFootprint': 'Package_CSP:ST_WLCSP-36_Die440', 'kicadSymbolDatasheet': 'http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00039193.pdf', 'kicadSymbolki_keywords': 'ARM Cortex-M0 STM32F0 STM32F0x1', 'kicadSymbolki_description': 'ARM Cortex-M0 MCU, 64KB flash, 8KB RAM, 48MHz, 2-3.6V, 29 GPIO, WLCSP-36', 'kicadSymbolki_fp_filters': 'ST_WLCSP*Die440*'}]|
+|name|name|MCU_ST_STM32F0 : STM32F051T8Yx|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'STM32F051T8Yx'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_CSP</td></tr><tr><td>ST_WLCSP-36_Die440'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00039193.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'ARM Cortex-M0 STM32F0 STM32F0x1'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'ARM Cortex-M0 MCU</td><td> 64KB flash</td><td> 8KB RAM</td><td> 48MHz</td><td> 2-3.6V</td><td> 29 GPIO</td><td> WLCSP-36'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'ST_WLCSP*Die440*'</td></tr></table>]|
 ||||

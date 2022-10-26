@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDEVICEFERRITEBEADSLL > FerriteBead_Small
+# SZKDEVICEFERRITEBEADSLL > Device : FerriteBead_Small
 
 - ID: SYMBOL-kicad-kicad-symbols-Device-FerriteBead_Small
 - Hex ID: SZKDEVICEFERRITEBEADSLL
-- Name: FerriteBead_Small
-- Description: FerriteBead_Small
+- Name: Device : FerriteBead_Small
+- Description: Device : FerriteBead_Small
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-FerriteBead_Small](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-FerriteBead_Small)
 - Short Link: [http://oom.lt/SZKDEVICEFERRITEBEADSLL](http://oom.lt/SZKDEVICEFERRITEBEADSLL)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|FerriteBead_Small|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-FerriteBead_Small|
 |Hex ID (short code)|hexID|SZKDEVICEFERRITEBEADSLL|
-|name|name|FerriteBead_Small|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'FB', 'kicadSymbolValue': 'FerriteBead_Small', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'L ferrite bead inductor filter', 'kicadSymbolki_description': 'Ferrite bead, small symbol', 'kicadSymbolki_fp_filters': 'Inductor_* L_* *Ferrite*'}]|
+|name|name|Device : FerriteBead_Small|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'FB'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'FerriteBead_Small'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'L ferrite bead inductor filter'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Ferrite bead</td><td> small symbol'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Inductor_* L_* *Ferrite*'</td></tr></table>]|
 ||||

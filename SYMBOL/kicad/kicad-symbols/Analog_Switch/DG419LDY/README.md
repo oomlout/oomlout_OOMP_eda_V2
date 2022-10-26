@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKANALOGSWITCHDG419LDY > DG419LDY
+# SZKANALOGSWITCHDG419LDY > Analog_Switch : DG419LDY
 
 - ID: SYMBOL-kicad-kicad-symbols-Analog_Switch-DG419LDY
 - Hex ID: SZKANALOGSWITCHDG419LDY
-- Name: DG419LDY
-- Description: DG419LDY
+- Name: Analog_Switch : DG419LDY
+- Description: Analog_Switch : DG419LDY
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-DG419LDY](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-DG419LDY)
 - Short Link: [http://oom.lt/SZKANALOGSWITCHDG419LDY](http://oom.lt/SZKANALOGSWITCHDG419LDY)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DG419LDY|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_Switch-DG419LDY|
 |Hex ID (short code)|hexID|SZKANALOGSWITCHDG419LDY|
-|name|name|DG419LDY|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'DG419LDY', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm', 'kicadSymbolDatasheet': 'https://datasheets.maximintegrated.com/en/ds/DG417-DG419.pdf', 'kicadSymbolki_keywords': 'CMOS Analog Switch', 'kicadSymbolki_description': 'Single SPDT 3V Logic Compatible CMOS Analog Switch, 35Ohm Ron, with Vlogic, SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm*'}]|
+|name|name|Analog_Switch : DG419LDY|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'DG419LDY'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-8_3.9x4.9mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//datasheets.maximintegrated.com/en/ds/DG417-DG419.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'CMOS Analog Switch'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Single SPDT 3V Logic Compatible CMOS Analog Switch</td><td> 35Ohm Ron</td><td> with Vlogic</td><td> SOIC-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*3.9x4.9mm*P1.27mm*'</td></tr></table>]|
 ||||

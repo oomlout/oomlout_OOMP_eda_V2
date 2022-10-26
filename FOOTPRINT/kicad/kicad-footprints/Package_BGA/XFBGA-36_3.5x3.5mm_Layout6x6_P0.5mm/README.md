@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_BGA-XFBGA-36_3.5x3.5mm_Layout6x6_P0.5mm|
 |Hex ID (short code)|hexID|FZKBGAXFBGA3635X35LAYOUT6X6P5|
 |name|name|Package_BGA : XFBGA-36_3.5x3.5mm_Layout6x6_P0.5mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'XFBGA-36_3.5x3.5mm_Layout6x6_P0.5mm', 'description': 'XFBGA-36, https://www.nxp.com/docs/en/package-information/SOT1555-1.pdf', 'tags': 'XFBGA-36', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/XFBGA-36_3.5x3.5mm_Layout6x6_P0.5mm.wrl', 'pins': {'type': 'smd', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'XFBGA-36_3.5x3.5mm_Layout6x6_P0.5mm'</td><td> 'description'</td></tr><tr><td> 'XFBGA-36</td><td> https</td></tr><tr><td>//www.nxp.com/docs/en/package-information/SOT1555-1.pdf'</td><td> 'tags'</td></tr><tr><td> 'XFBGA-36'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_BGA.3dshapes/XFBGA-36_3.5x3.5mm_Layout6x6_P0.5mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

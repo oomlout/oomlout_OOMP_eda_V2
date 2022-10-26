@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Axial_Power_L50.0mm_W9.0mm_P55.88mm|
 |Hex ID (short code)|hexID|FZKRRAXIALPOWERL5W9P5588|
 |name|name|Resistor_THT : R_Axial_Power_L50.0mm_W9.0mm_P55.88mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'R_Axial_Power_L50.0mm_W9.0mm_P55.88mm', 'description': 'Resistor, Axial_Power series, Box, pin pitch=55.88mm, 11W, length*width*height=50*9*9mm^3, http://cdn-reichelt.de/documents/datenblatt/B400/5WAXIAL_9WAXIAL_11WAXIAL_17WAXIAL%23YAG.pdf', 'tags': 'Resistor Axial_Power series Box pin pitch 55.88mm 11W length 50mm width 9mm height 9mm', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_Power_L50.0mm_W9.0mm_P55.88mm.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'R_Axial_Power_L50.0mm_W9.0mm_P55.88mm'</td><td> 'description'</td></tr><tr><td> 'Resistor</td><td> Axial_Power series</td><td> Box</td><td> pin pitch=55.88mm</td><td> 11W</td><td> length*width*height=50*9*9mm^3</td><td> http</td></tr><tr><td>//cdn-reichelt.de/documents/datenblatt/B400/5WAXIAL_9WAXIAL_11WAXIAL_17WAXIAL%23YAG.pdf'</td><td> 'tags'</td></tr><tr><td> 'Resistor Axial_Power series Box pin pitch 55.88mm 11W length 50mm width 9mm height 9mm'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Resistor_THT.3dshapes/R_Axial_Power_L50.0mm_W9.0mm_P55.88mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

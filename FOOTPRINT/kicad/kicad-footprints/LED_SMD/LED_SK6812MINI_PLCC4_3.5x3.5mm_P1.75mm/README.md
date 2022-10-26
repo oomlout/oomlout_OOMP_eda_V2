@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm|
 |Hex ID (short code)|hexID|FZKLSMLSK6812MPLCC435X35P175|
 |name|name|LED_SMD : LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm', 'description': 'https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf', 'tags': 'LED RGB NeoPixel Mini', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm'</td><td> 'description'</td></tr><tr><td> 'https</td></tr><tr><td>//cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf'</td><td> 'tags'</td></tr><tr><td> 'LED RGB NeoPixel Mini'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/LED_SMD.3dshapes/LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

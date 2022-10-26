@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_OCXO_ConnorWinfield_OH300|
 |Hex ID (short code)|hexID|FZKOCSOCSSMOCXOCONNORWINFIELDOH3|
 |name|name|Oscillator : Oscillator_SMD_OCXO_ConnorWinfield_OH300|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Oscillator_SMD_OCXO_ConnorWinfield_OH300', 'description': 'http://www.conwin.com/datasheets/cx/cx282.pdf', 'tags': 'OCXO', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Oscillator.3dshapes/Oscillator_SMD_OCXO_ConnorWinfield_OH300.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Oscillator_SMD_OCXO_ConnorWinfield_OH300'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//www.conwin.com/datasheets/cx/cx282.pdf'</td><td> 'tags'</td></tr><tr><td> 'OCXO'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Oscillator.3dshapes/Oscillator_SMD_OCXO_ConnorWinfield_OH300.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

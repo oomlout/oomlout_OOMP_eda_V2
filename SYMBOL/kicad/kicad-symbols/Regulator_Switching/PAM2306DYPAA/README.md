@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORSWITCHINGPAM236DYPAA > PAM2306DYPAA
+# SZKREGULATORSWITCHINGPAM236DYPAA > Regulator_Switching : PAM2306DYPAA
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-PAM2306DYPAA
 - Hex ID: SZKREGULATORSWITCHINGPAM236DYPAA
-- Name: PAM2306DYPAA
-- Description: PAM2306DYPAA
+- Name: Regulator_Switching : PAM2306DYPAA
+- Description: Regulator_Switching : PAM2306DYPAA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-PAM2306DYPAA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-PAM2306DYPAA)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGPAM236DYPAA](http://oom.lt/SZKREGULATORSWITCHINGPAM236DYPAA)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PAM2306DYPAA|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-PAM2306DYPAA|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGPAM236DYPAA|
-|name|name|PAM2306DYPAA|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'PAM2306AYPAA', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PAM2306DYPAA', 'kicadSymbolFootprint': 'Package_DFN_QFN:WDFN-12-1EP_3x3mm_P0.45mm_EP1.7x2.5mm', 'kicadSymbolDatasheet': 'https://www.diodes.com/assets/Datasheets/PAM2306D.pdf', 'kicadSymbolki_keywords': 'STEP-DOWN Dual channel 1A Out1 ADJ, Out2 ADJ', 'kicadSymbolki_description': '1A, Dual Step-Down DC/DC-Converter, Out1 ADJ, Out2 ADJ, 1.5MHz, W-DFN3x3', 'kicadSymbolki_fp_filters': 'WDFN*3x3mm?P0.45mm*'}]|
+|name|name|Regulator_Switching : PAM2306DYPAA|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'PAM2306AYPAA'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'PAM2306DYPAA'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>WDFN-12-1EP_3x3mm_P0.45mm_EP1.7x2.5mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.diodes.com/assets/Datasheets/PAM2306D.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'STEP-DOWN Dual channel 1A Out1 ADJ</td><td> Out2 ADJ'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '1A</td><td> Dual Step-Down DC/DC-Converter</td><td> Out1 ADJ</td><td> Out2 ADJ</td><td> 1.5MHz</td><td> W-DFN3x3'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'WDFN*3x3mm?P0.45mm*'</td></tr></table>]|
 ||||

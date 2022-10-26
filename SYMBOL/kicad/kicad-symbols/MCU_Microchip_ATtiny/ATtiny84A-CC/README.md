@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUMCHIPATTINYATTINY84ACC > ATtiny84A-CC
+# SZKMCUMCHIPATTINYATTINY84ACC > MCU_Microchip_ATtiny : ATtiny84A-CC
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny84A-CC
 - Hex ID: SZKMCUMCHIPATTINYATTINY84ACC
-- Name: ATtiny84A-CC
-- Description: ATtiny84A-CC
+- Name: MCU_Microchip_ATtiny : ATtiny84A-CC
+- Description: MCU_Microchip_ATtiny : ATtiny84A-CC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny84A-CC](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny84A-CC)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATTINYATTINY84ACC](http://oom.lt/SZKMCUMCHIPATTINYATTINY84ACC)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ATtiny84A-CC|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny84A-CC|
 |Hex ID (short code)|hexID|SZKMCUMCHIPATTINYATTINY84ACC|
-|name|name|ATtiny84A-CC|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ATtiny24A-CC', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ATtiny84A-CC', 'kicadSymbolFootprint': 'Package_BGA:UFBGA-15_3.0x3.0mm_Layout4x4_P0.65mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/doc8183.pdf', 'kicadSymbolki_keywords': 'AVR 8bit Microcontroller tinyAVR', 'kicadSymbolki_description': '20MHz, 8kB Flash, 512B SRAM, 512B EEPROM, debugWIRE, UFBGA-15', 'kicadSymbolki_fp_filters': 'UFBGA*3.0x3.0mm*Layout4x4*P0.65mm*'}]|
+|name|name|MCU_Microchip_ATtiny : ATtiny84A-CC|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'ATtiny24A-CC'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ATtiny84A-CC'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_BGA</td></tr><tr><td>UFBGA-15_3.0x3.0mm_Layout4x4_P0.65mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/doc8183.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'AVR 8bit Microcontroller tinyAVR'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '20MHz</td><td> 8kB Flash</td><td> 512B SRAM</td><td> 512B EEPROM</td><td> debugWIRE</td><td> UFBGA-15'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'UFBGA*3.0x3.0mm*Layout4x4*P0.65mm*'</td></tr></table>]|
 ||||

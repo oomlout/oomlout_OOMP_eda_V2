@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKISOLATORADUM121WT > ADuM1201WT
+# SZKISOLATORADUM121WT > Isolator : ADuM1201WT
 
 - ID: SYMBOL-kicad-kicad-symbols-Isolator-ADuM1201WT
 - Hex ID: SZKISOLATORADUM121WT
-- Name: ADuM1201WT
-- Description: ADuM1201WT
+- Name: Isolator : ADuM1201WT
+- Description: Isolator : ADuM1201WT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-ADuM1201WT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-ADuM1201WT)
 - Short Link: [http://oom.lt/SZKISOLATORADUM121WT](http://oom.lt/SZKISOLATORADUM121WT)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ADuM1201WT|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Isolator-ADuM1201WT|
 |Hex ID (short code)|hexID|SZKISOLATORADUM121WT|
-|name|name|ADuM1201WT|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ADuM1201AR', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ADuM1201WT', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm', 'kicadSymbolDatasheet': 'https://www.analog.com/static/imported-files/data_sheets/ADuM1200_1201.pdf', 'kicadSymbolki_keywords': '2Ch Dual Digital Isolator 10Mbps', 'kicadSymbolki_description': 'Dual-Channel Digital Isolator, 10Mbps 50ns, Hihgest Temp. Grade, bidirectional communication, 3V/5V level translation, SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm*'}]|
+|name|name|Isolator : ADuM1201WT|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'ADuM1201AR'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ADuM1201WT'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-8_3.9x4.9mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/static/imported-files/data_sheets/ADuM1200_1201.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> '2Ch Dual Digital Isolator 10Mbps'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Dual-Channel Digital Isolator</td><td> 10Mbps 50ns</td><td> Hihgest Temp. Grade</td><td> bidirectional communication</td><td> 3V/5V level translation</td><td> SOIC-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*3.9x4.9mm*P1.27mm*'</td></tr></table>]|
 ||||

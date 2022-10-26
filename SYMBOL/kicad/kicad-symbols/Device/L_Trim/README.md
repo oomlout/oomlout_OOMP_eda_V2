@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDEVICELTRIM > L_Trim
+# SZKDEVICELTRIM > Device : L_Trim
 
 - ID: SYMBOL-kicad-kicad-symbols-Device-L_Trim
 - Hex ID: SZKDEVICELTRIM
-- Name: L_Trim
-- Description: L_Trim
+- Name: Device : L_Trim
+- Description: Device : L_Trim
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-L_Trim](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-L_Trim)
 - Short Link: [http://oom.lt/SZKDEVICELTRIM](http://oom.lt/SZKDEVICELTRIM)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|L_Trim|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-L_Trim|
 |Hex ID (short code)|hexID|SZKDEVICELTRIM|
-|name|name|L_Trim|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'L', 'kicadSymbolValue': 'L_Trim', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'inductor choke coil reactor magnetic', 'kicadSymbolki_description': 'Variable inductor', 'kicadSymbolki_fp_filters': 'Inductor_* L_*'}]|
+|name|name|Device : L_Trim|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'L'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'L_Trim'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'inductor choke coil reactor magnetic'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Variable inductor'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Inductor_* L_*'</td></tr></table>]|
 ||||

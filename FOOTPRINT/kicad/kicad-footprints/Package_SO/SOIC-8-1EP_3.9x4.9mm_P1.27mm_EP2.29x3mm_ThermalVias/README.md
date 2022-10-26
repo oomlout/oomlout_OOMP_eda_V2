@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SO-SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.29x3mm_ThermalVias|
 |Hex ID (short code)|hexID|FZKSOSOIC81EP39X49P127EP229X3THERMALVIAS|
 |name|name|Package_SO : SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.29x3mm_ThermalVias|
-|Footprint Kicad|footprintKicadDetails|{'name': 'SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.29x3mm_ThermalVias', 'description': 'SOIC, 8 Pin (https://www.analog.com/media/en/technical-documentation/data-sheets/ada4898-1_4898-2.pdf#page=29), generated with kicad-footprint-generator ipc_gullwing_generator.py', 'tags': 'SOIC SO', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.29x3mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.29x3mm_ThermalVias'</td><td> 'description'</td></tr><tr><td> 'SOIC</td><td> 8 Pin (https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/ada4898-1_4898-2.pdf#page=29)</td><td> generated with kicad-footprint-generator ipc_gullwing_generator.py'</td><td> 'tags'</td></tr><tr><td> 'SOIC SO'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_SO.3dshapes/SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.29x3mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

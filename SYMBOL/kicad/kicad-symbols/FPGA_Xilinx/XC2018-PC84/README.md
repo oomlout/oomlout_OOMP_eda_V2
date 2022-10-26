@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKFPGAXILINXXC218PC84 > XC2018-PC84
+# SZKFPGAXILINXXC218PC84 > FPGA_Xilinx : XC2018-PC84
 
 - ID: SYMBOL-kicad-kicad-symbols-FPGA_Xilinx-XC2018-PC84
 - Hex ID: SZKFPGAXILINXXC218PC84
-- Name: XC2018-PC84
-- Description: XC2018-PC84
+- Name: FPGA_Xilinx : XC2018-PC84
+- Description: FPGA_Xilinx : XC2018-PC84
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx-XC2018-PC84](http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx-XC2018-PC84)
 - Short Link: [http://oom.lt/SZKFPGAXILINXXC218PC84](http://oom.lt/SZKFPGAXILINXXC218PC84)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|XC2018-PC84|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-FPGA_Xilinx-XC2018-PC84|
 |Hex ID (short code)|hexID|SZKFPGAXILINXXC218PC84|
-|name|name|XC2018-PC84|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'XC2018-PC84', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ''}]|
+|name|name|FPGA_Xilinx : XC2018-PC84|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'XC2018-PC84'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> ''</td></tr></table>]|
 ||||

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SO-MFSOP6-4_4.4x3.6mm_P1.27mm|
 |Hex ID (short code)|hexID|FZKSOMFS6444X36P127|
 |name|name|Package_SO : MFSOP6-4_4.4x3.6mm_P1.27mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'MFSOP6-4_4.4x3.6mm_P1.27mm', 'description': 'https://toshiba.semicon-storage.com/ap-en/design-support/package/detail.4pin%20MFSOP6.html', 'tags': 'MFSOP 4 pin SMD', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/MFSOP6-4_4.4x3.6mm_P1.27mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'MFSOP6-4_4.4x3.6mm_P1.27mm'</td><td> 'description'</td></tr><tr><td> 'https</td></tr><tr><td>//toshiba.semicon-storage.com/ap-en/design-support/package/detail.4pin%20MFSOP6.html'</td><td> 'tags'</td></tr><tr><td> 'MFSOP 4 pin SMD'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_SO.3dshapes/MFSOP6-4_4.4x3.6mm_P1.27mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

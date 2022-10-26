@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMEMORYRAMAS4C256M16D3 > AS4C256M16D3
+# SZKMEMORYRAMAS4C256M16D3 > Memory_RAM : AS4C256M16D3
 
 - ID: SYMBOL-kicad-kicad-symbols-Memory_RAM-AS4C256M16D3
 - Hex ID: SZKMEMORYRAMAS4C256M16D3
-- Name: AS4C256M16D3
-- Description: AS4C256M16D3
+- Name: Memory_RAM : AS4C256M16D3
+- Description: Memory_RAM : AS4C256M16D3
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_RAM-AS4C256M16D3](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_RAM-AS4C256M16D3)
 - Short Link: [http://oom.lt/SZKMEMORYRAMAS4C256M16D3](http://oom.lt/SZKMEMORYRAMAS4C256M16D3)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AS4C256M16D3|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Memory_RAM-AS4C256M16D3|
 |Hex ID (short code)|hexID|SZKMEMORYRAMAS4C256M16D3|
-|name|name|AS4C256M16D3|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AS4C256M16D3', 'kicadSymbolFootprint': 'Package_BGA:BGA-96_9.0x13.0mm_Layout2x3x16_P0.8mm', 'kicadSymbolDatasheet': 'https://www.alliancememory.com/wp-content/uploads/pdf/ddr3/4GB-AS4C256M16D3.pdf', 'kicadSymbolki_keywords': 'DDR3 DRAM MEMORY', 'kicadSymbolki_description': '4Gb (256Mx16 bit) Double Data Rate 3 Synchronous DRAM', 'kicadSymbolki_fp_filters': 'BGA*9.0x13.0mm*P0.8mm*'}]|
+|name|name|Memory_RAM : AS4C256M16D3|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'AS4C256M16D3'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_BGA</td></tr><tr><td>BGA-96_9.0x13.0mm_Layout2x3x16_P0.8mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.alliancememory.com/wp-content/uploads/pdf/ddr3/4GB-AS4C256M16D3.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'DDR3 DRAM MEMORY'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '4Gb (256Mx16 bit) Double Data Rate 3 Synchronous DRAM'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'BGA*9.0x13.0mm*P0.8mm*'</td></tr></table>]|
 ||||

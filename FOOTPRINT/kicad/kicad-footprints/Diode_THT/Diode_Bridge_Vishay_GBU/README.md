@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Diode_THT-Diode_Bridge_Vishay_GBU|
 |Hex ID (short code)|hexID|FZKDDIODEBRIDGEVISHAYGBU|
 |name|name|Diode_THT : Diode_Bridge_Vishay_GBU|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Diode_Bridge_Vishay_GBU', 'description': 'Vishay GBU rectifier package, 5.08mm pitch, see http://www.vishay.com/docs/88606/g3sba20.pdf', 'tags': 'Vishay GBU rectifier diode bridge', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/Diode_Bridge_Vishay_GBU.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Diode_Bridge_Vishay_GBU'</td><td> 'description'</td></tr><tr><td> 'Vishay GBU rectifier package</td><td> 5.08mm pitch</td><td> see http</td></tr><tr><td>//www.vishay.com/docs/88606/g3sba20.pdf'</td><td> 'tags'</td></tr><tr><td> 'Vishay GBU rectifier diode bridge'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Diode_THT.3dshapes/Diode_Bridge_Vishay_GBU.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

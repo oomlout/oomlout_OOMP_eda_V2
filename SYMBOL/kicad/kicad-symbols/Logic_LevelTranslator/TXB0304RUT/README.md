@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKLOGICLEVELTRANSLATORTXB34RUT > TXB0304RUT
+# SZKLOGICLEVELTRANSLATORTXB34RUT > Logic_LevelTranslator : TXB0304RUT
 
 - ID: SYMBOL-kicad-kicad-symbols-Logic_LevelTranslator-TXB0304RUT
 - Hex ID: SZKLOGICLEVELTRANSLATORTXB34RUT
-- Name: TXB0304RUT
-- Description: TXB0304RUT
+- Name: Logic_LevelTranslator : TXB0304RUT
+- Description: Logic_LevelTranslator : TXB0304RUT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Logic_LevelTranslator-TXB0304RUT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Logic_LevelTranslator-TXB0304RUT)
 - Short Link: [http://oom.lt/SZKLOGICLEVELTRANSLATORTXB34RUT](http://oom.lt/SZKLOGICLEVELTRANSLATORTXB34RUT)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TXB0304RUT|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Logic_LevelTranslator-TXB0304RUT|
 |Hex ID (short code)|hexID|SZKLOGICLEVELTRANSLATORTXB34RUT|
-|name|name|TXB0304RUT|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TXB0104RUT', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TXB0304RUT', 'kicadSymbolFootprint': 'Package_DFN_QFN:Texas_R_PUQFN-N12', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/txb0304.pdf', 'kicadSymbolki_keywords': 'Level-Shifter CMOS-TTL-Translation', 'kicadSymbolki_description': '4-Bit Bidirectional Voltage-Level Translator, Auto Direction Sensing, 0.9 - 3.6V APort, 0.9 - 3.6V BPort, Active High Output Enable, Texas_PUQFN-12', 'kicadSymbolki_fp_filters': 'Texas*R*PUQFN*N12*'}]|
+|name|name|Logic_LevelTranslator : TXB0304RUT|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'TXB0104RUT'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TXB0304RUT'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>Texas_R_PUQFN-N12'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/txb0304.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Level-Shifter CMOS-TTL-Translation'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '4-Bit Bidirectional Voltage-Level Translator</td><td> Auto Direction Sensing</td><td> 0.9 - 3.6V APort</td><td> 0.9 - 3.6V BPort</td><td> Active High Output Enable</td><td> Texas_PUQFN-12'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Texas*R*PUQFN*N12*'</td></tr></table>]|
 ||||

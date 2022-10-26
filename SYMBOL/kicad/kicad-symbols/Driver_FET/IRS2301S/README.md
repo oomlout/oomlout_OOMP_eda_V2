@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDRIVERFETIRS231S > IRS2301S
+# SZKDRIVERFETIRS231S > Driver_FET : IRS2301S
 
 - ID: SYMBOL-kicad-kicad-symbols-Driver_FET-IRS2301S
 - Hex ID: SZKDRIVERFETIRS231S
-- Name: IRS2301S
-- Description: IRS2301S
+- Name: Driver_FET : IRS2301S
+- Description: Driver_FET : IRS2301S
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-IRS2301S](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-IRS2301S)
 - Short Link: [http://oom.lt/SZKDRIVERFETIRS231S](http://oom.lt/SZKDRIVERFETIRS231S)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IRS2301S|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Driver_FET-IRS2301S|
 |Hex ID (short code)|hexID|SZKDRIVERFETIRS231S|
-|name|name|IRS2301S|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'IR25604S', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'IRS2301S', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm', 'kicadSymbolDatasheet': 'https://www.infineon.com/dgdl/irs2301pbf.pdf?fileId=5546d462533600a40153567a7ec527fe', 'kicadSymbolki_keywords': 'Gate Driver', 'kicadSymbolki_description': 'High and Low Side Driver, 600V, 200/350mA, SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm*'}]|
+|name|name|Driver_FET : IRS2301S|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'IR25604S'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'IRS2301S'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-8_3.9x4.9mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.infineon.com/dgdl/irs2301pbf.pdf?fileId=5546d462533600a40153567a7ec527fe'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Gate Driver'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'High and Low Side Driver</td><td> 600V</td><td> 200/350mA</td><td> SOIC-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*3.9x4.9mm*P1.27mm*'</td></tr></table>]|
 ||||

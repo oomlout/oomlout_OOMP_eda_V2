@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKVIDEOLM1881 > LM1881
+# SZKVIDEOLM1881 > Video : LM1881
 
 - ID: SYMBOL-kicad-kicad-symbols-Video-LM1881
 - Hex ID: SZKVIDEOLM1881
-- Name: LM1881
-- Description: LM1881
+- Name: Video : LM1881
+- Description: Video : LM1881
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Video-LM1881](http://oom.lt/SYMBOL-kicad-kicad-symbols-Video-LM1881)
 - Short Link: [http://oom.lt/SZKVIDEOLM1881](http://oom.lt/SZKVIDEOLM1881)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM1881|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Video-LM1881|
 |Hex ID (short code)|hexID|SZKVIDEOLM1881|
-|name|name|LM1881|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM1881', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ''}]|
+|name|name|Video : LM1881|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LM1881'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> ''</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORSWITCHINGLT3757EDD > LT3757EDD
+# SZKREGULATORSWITCHINGLT3757EDD > Regulator_Switching : LT3757EDD
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-LT3757EDD
 - Hex ID: SZKREGULATORSWITCHINGLT3757EDD
-- Name: LT3757EDD
-- Description: LT3757EDD
+- Name: Regulator_Switching : LT3757EDD
+- Description: Regulator_Switching : LT3757EDD
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LT3757EDD](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LT3757EDD)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGLT3757EDD](http://oom.lt/SZKREGULATORSWITCHINGLT3757EDD)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LT3757EDD|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-LT3757EDD|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGLT3757EDD|
-|name|name|LT3757EDD|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LT3757EDD', 'kicadSymbolFootprint': 'Package_DFN_QFN:DFN-10-1EP_3x3mm_P0.5mm_EP1.55x2.48mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/3757Afe.pdf', 'kicadSymbolki_keywords': 'Boost flyback SEPIC inverting DC/DC regulator', 'kicadSymbolki_description': 'Boost, flyback, SEPIC and inverting regulator. DFN-10', 'kicadSymbolki_fp_filters': 'DFN*EP*3x3mm*P0.5mm*'}]|
+|name|name|Regulator_Switching : LT3757EDD|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LT3757EDD'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>DFN-10-1EP_3x3mm_P0.5mm_EP1.55x2.48mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/3757Afe.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Boost flyback SEPIC inverting DC/DC regulator'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Boost</td><td> flyback</td><td> SEPIC and inverting regulator. DFN-10'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DFN*EP*3x3mm*P0.5mm*'</td></tr></table>]|
 ||||

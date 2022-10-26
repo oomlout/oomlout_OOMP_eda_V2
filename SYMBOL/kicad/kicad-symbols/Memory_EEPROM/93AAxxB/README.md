@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMEMORYEEPROM93AAXXB > 93AAxxB
+# SZKMEMORYEEPROM93AAXXB > Memory_EEPROM : 93AAxxB
 
 - ID: SYMBOL-kicad-kicad-symbols-Memory_EEPROM-93AAxxB
 - Hex ID: SZKMEMORYEEPROM93AAXXB
-- Name: 93AAxxB
-- Description: 93AAxxB
+- Name: Memory_EEPROM : 93AAxxB
+- Description: Memory_EEPROM : 93AAxxB
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_EEPROM-93AAxxB](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_EEPROM-93AAxxB)
 - Short Link: [http://oom.lt/SZKMEMORYEEPROM93AAXXB](http://oom.lt/SZKMEMORYEEPROM93AAXXB)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|93AAxxB|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Memory_EEPROM-93AAxxB|
 |Hex ID (short code)|hexID|SZKMEMORYEEPROM93AAXXB|
-|name|name|93AAxxB|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '93AAxxA', 'kicadSymbolReference': 'U', 'kicadSymbolValue': '93AAxxB', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/20001749K.pdf', 'kicadSymbolki_keywords': 'EEPROM memory Microwire', 'kicadSymbolki_description': 'Serial EEPROM, 93 Series, 1.8V, DIP-8/SOIC-8', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm* SOIC*3.9x4.9mm*'}]|
+|name|name|Memory_EEPROM : 93AAxxB|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> '93AAxxA'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> '93AAxxB'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/20001749K.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'EEPROM memory Microwire'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Serial EEPROM</td><td> 93 Series</td><td> 1.8V</td><td> DIP-8/SOIC-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W7.62mm* SOIC*3.9x4.9mm*'</td></tr></table>]|
 ||||

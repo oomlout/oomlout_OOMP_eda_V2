@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC42XPF7V5C4P7 > CAPC-0402-X-PF7-V50-C4P7
+# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC42XPF7V5C4P7 > oomlout_OOMP_parts : CAPC-0402-X-PF7-V50-C4P7
 
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0402-X-PF7-V50-C4P7
 - Hex ID: SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC42XPF7V5C4P7
-- Name: CAPC-0402-X-PF7-V50-C4P7
-- Description: CAPC-0402-X-PF7-V50-C4P7
+- Name: oomlout_OOMP_parts : CAPC-0402-X-PF7-V50-C4P7
+- Description: oomlout_OOMP_parts : CAPC-0402-X-PF7-V50-C4P7
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0402-X-PF7-V50-C4P7](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0402-X-PF7-V50-C4P7)
 - Short Link: [http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC42XPF7V5C4P7](http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC42XPF7V5C4P7)
   
@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|CAPC-0402-X-PF7-V50-C4P7|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0402-X-PF7-V50-C4P7|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC42XPF7V5C4P7|
-|name|name|CAPC-0402-X-PF7-V50-C4P7|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'C', 'kicadSymbolValue': 'CAPC-0402-X-PF7-V50-C4P7', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:CAPC-0402-X-PF7-V50-C4P7', 'kicadSymbolDatasheet': 'oom.lt/C4P7', 'kicadSymbolki_keywords': 'cap capacitor', 'kicadSymbolki_description': 'hexID: C4P7;PARTL C-JLCC;C1567;MANUF C-XXXX;0402CG470J500NT;Unpolarized capacitor', 'kicadSymbolki_fp_filters': 'C_*'}]|
+|name|name|oomlout_OOMP_parts : CAPC-0402-X-PF7-V50-C4P7|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'C'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'CAPC-0402-X-PF7-V50-C4P7'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'oomlout_OOMP_parts</td></tr><tr><td>CAPC-0402-X-PF7-V50-C4P7'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'oom.lt/C4P7'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'cap capacitor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'hexID</td></tr><tr><td> C4P7;PARTL C-JLCC;C1567;MANUF C-XXXX;0402CG470J500NT;Unpolarized capacitor'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'C_*'</td></tr></table>]|
 ||||

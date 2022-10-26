@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKFPGAXILINXSPARTAN6XC6SLX4CSG225 > XC6SLX4-CSG225
+# SZKFPGAXILINXSPARTAN6XC6SLX4CSG225 > FPGA_Xilinx_Spartan6 : XC6SLX4-CSG225
 
 - ID: SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Spartan6-XC6SLX4-CSG225
 - Hex ID: SZKFPGAXILINXSPARTAN6XC6SLX4CSG225
-- Name: XC6SLX4-CSG225
-- Description: XC6SLX4-CSG225
+- Name: FPGA_Xilinx_Spartan6 : XC6SLX4-CSG225
+- Description: FPGA_Xilinx_Spartan6 : XC6SLX4-CSG225
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Spartan6-XC6SLX4-CSG225](http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Spartan6-XC6SLX4-CSG225)
 - Short Link: [http://oom.lt/SZKFPGAXILINXSPARTAN6XC6SLX4CSG225](http://oom.lt/SZKFPGAXILINXSPARTAN6XC6SLX4CSG225)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|XC6SLX4-CSG225|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Spartan6-XC6SLX4-CSG225|
 |Hex ID (short code)|hexID|SZKFPGAXILINXSPARTAN6XC6SLX4CSG225|
-|name|name|XC6SLX4-CSG225|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'XC6SLX4-CSG225', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'FPGA', 'kicadSymbolki_description': 'Spartan 6 LX 4 XC6SLX4-CSG225'}]|
+|name|name|FPGA_Xilinx_Spartan6 : XC6SLX4-CSG225|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'XC6SLX4-CSG225'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_locked'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'FPGA'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Spartan 6 LX 4 XC6SLX4-CSG225'</td></tr></table>]|
 ||||

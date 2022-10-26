@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORLINEARAP1312 > AP131-20
+# SZKREGULATORLINEARAP1312 > Regulator_Linear : AP131-20
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-AP131-20
 - Hex ID: SZKREGULATORLINEARAP1312
-- Name: AP131-20
-- Description: AP131-20
+- Name: Regulator_Linear : AP131-20
+- Description: Regulator_Linear : AP131-20
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-AP131-20](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-AP131-20)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARAP1312](http://oom.lt/SZKREGULATORLINEARAP1312)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AP131-20|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-AP131-20|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARAP1312|
-|name|name|AP131-20|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'AP131-15', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AP131-20', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-5', 'kicadSymbolDatasheet': 'http://www.diodes.com/_files/datasheets/AP131.pdf', 'kicadSymbolki_keywords': 'linear regulator ldo fixed positive', 'kicadSymbolki_description': '300mA low dropout linear regulator, shutdown pin, 2.0V fixed positive output, SOT-23-5', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
+|name|name|Regulator_Linear : AP131-20|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'AP131-15'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'AP131-20'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-23-5'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.diodes.com/_files/datasheets/AP131.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'linear regulator ldo fixed positive'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '300mA low dropout linear regulator</td><td> shutdown pin</td><td> 2.0V fixed positive output</td><td> SOT-23-5'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23*'</td></tr></table>]|
 ||||

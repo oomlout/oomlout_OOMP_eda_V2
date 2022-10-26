@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORBJTFFB396 > FFB3906
+# SZKTRANSISTORBJTFFB396 > Transistor_BJT : FFB3906
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-FFB3906
 - Hex ID: SZKTRANSISTORBJTFFB396
-- Name: FFB3906
-- Description: FFB3906
+- Name: Transistor_BJT : FFB3906
+- Description: Transistor_BJT : FFB3906
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-FFB3906](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-FFB3906)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTFFB396](http://oom.lt/SZKTRANSISTORBJTFFB396)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|FFB3906|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_BJT-FFB3906|
 |Hex ID (short code)|hexID|SZKTRANSISTORBJTFFB396|
-|name|name|FFB3906|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BC856BS', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'FFB3906', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-363_SC-70-6', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pub/Collateral/MMPQ3906-D.pdf', 'kicadSymbolki_keywords': 'PNP/PNP Transistor', 'kicadSymbolki_description': '200mA IC, 40V Vce, Dual PNP/PNP Transistors, SOT-363', 'kicadSymbolki_fp_filters': 'SOT?363*'}]|
+|name|name|Transistor_BJT : FFB3906|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'BC856BS'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'FFB3906'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-363_SC-70-6'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.onsemi.com/pub/Collateral/MMPQ3906-D.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'PNP/PNP Transistor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '200mA IC</td><td> 40V Vce</td><td> Dual PNP/PNP Transistors</td><td> SOT-363'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?363*'</td></tr></table>]|
 ||||

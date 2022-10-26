@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_ECS_CSM3X-2Pin_7.6x4.1mm|
 |Hex ID (short code)|hexID|FZKXXSMECSCSM3X2PIN76X41|
 |name|name|Crystal : Crystal_SMD_ECS_CSM3X-2Pin_7.6x4.1mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Crystal_SMD_ECS_CSM3X-2Pin_7.6x4.1mm', 'description': 'http://www.ecsxtal.com/store/pdf/CSM-3X.pdf', 'tags': 'Crystal CSM-3X', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Crystal_SMD_ECS_CSM3X-2Pin_7.6x4.1mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Crystal_SMD_ECS_CSM3X-2Pin_7.6x4.1mm'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ecsxtal.com/store/pdf/CSM-3X.pdf'</td><td> 'tags'</td></tr><tr><td> 'Crystal CSM-3X'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Crystal.3dshapes/Crystal_SMD_ECS_CSM3X-2Pin_7.6x4.1mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

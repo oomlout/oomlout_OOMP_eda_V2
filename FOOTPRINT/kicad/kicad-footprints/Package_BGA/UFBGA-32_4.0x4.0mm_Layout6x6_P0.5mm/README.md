@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_BGA-UFBGA-32_4.0x4.0mm_Layout6x6_P0.5mm|
 |Hex ID (short code)|hexID|FZKBGAUFBGA324X4LAYOUT6X6P5|
 |name|name|Package_BGA : UFBGA-32_4.0x4.0mm_Layout6x6_P0.5mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'UFBGA-32_4.0x4.0mm_Layout6x6_P0.5mm', 'description': 'UFBGA-32, 6x6, 4x4mm package, pitch 0.5mm', 'tags': 'UFBGA-32', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/UFBGA-32_4.0x4.0mm_Layout6x6_P0.5mm.wrl', 'pins': {'type': 'smd', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'UFBGA-32_4.0x4.0mm_Layout6x6_P0.5mm'</td><td> 'description'</td></tr><tr><td> 'UFBGA-32</td><td> 6x6</td><td> 4x4mm package</td><td> pitch 0.5mm'</td><td> 'tags'</td></tr><tr><td> 'UFBGA-32'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_BGA.3dshapes/UFBGA-32_4.0x4.0mm_Layout6x6_P0.5mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

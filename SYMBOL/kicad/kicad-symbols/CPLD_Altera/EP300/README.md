@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKCPLDALTERAEP3 > EP300
+# SZKCPLDALTERAEP3 > CPLD_Altera : EP300
 
 - ID: SYMBOL-kicad-kicad-symbols-CPLD_Altera-EP300
 - Hex ID: SZKCPLDALTERAEP3
-- Name: EP300
-- Description: EP300
+- Name: CPLD_Altera : EP300
+- Description: CPLD_Altera : EP300
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-CPLD_Altera-EP300](http://oom.lt/SYMBOL-kicad-kicad-symbols-CPLD_Altera-EP300)
 - Short Link: [http://oom.lt/SZKCPLDALTERAEP3](http://oom.lt/SZKCPLDALTERAEP3)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|EP300|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-CPLD_Altera-EP300|
 |Hex ID (short code)|hexID|SZKCPLDALTERAEP3|
-|name|name|EP300|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'EP300', 'kicadSymbolFootprint': 'Package_DIP:DIP-20_W7.62mm', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'EPLD', 'kicadSymbolki_description': 'EPLD, DIP-20', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
+|name|name|CPLD_Altera : EP300|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'EP300'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>DIP-20_W7.62mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'EPLD'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'EPLD</td><td> DIP-20'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W7.62mm*'</td></tr></table>]|
 ||||

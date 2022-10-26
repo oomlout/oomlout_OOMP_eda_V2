@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKINTERFACETB5D2HDW > TB5D2HDW
+# SZKINTERFACETB5D2HDW > Interface : TB5D2HDW
 
 - ID: SYMBOL-kicad-kicad-symbols-Interface-TB5D2HDW
 - Hex ID: SZKINTERFACETB5D2HDW
-- Name: TB5D2HDW
-- Description: TB5D2HDW
+- Name: Interface : TB5D2HDW
+- Description: Interface : TB5D2HDW
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-TB5D2HDW](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-TB5D2HDW)
 - Short Link: [http://oom.lt/SZKINTERFACETB5D2HDW](http://oom.lt/SZKINTERFACETB5D2HDW)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TB5D2HDW|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface-TB5D2HDW|
 |Hex ID (short code)|hexID|SZKINTERFACETB5D2HDW|
-|name|name|TB5D2HDW|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TB5D1MDW', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TB5D2HDW', 'kicadSymbolFootprint': 'Package_SO:SOIC-16W_7.5x10.3mm_P1.27mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tb5d2h.pdf', 'kicadSymbolki_keywords': 'differential PECL driver', 'kicadSymbolki_description': 'Quad differential PECL driver', 'kicadSymbolki_fp_filters': 'SOIC*7.5x10.3mm*P1.27*'}]|
+|name|name|Interface : TB5D2HDW|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'TB5D1MDW'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TB5D2HDW'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-16W_7.5x10.3mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/tb5d2h.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'differential PECL driver'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Quad differential PECL driver'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*7.5x10.3mm*P1.27*'</td></tr></table>]|
 ||||

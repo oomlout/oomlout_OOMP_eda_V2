@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUSTSTM32F3STM32F378VCTX > STM32F378VCTx
+# SZKMCUSTSTM32F3STM32F378VCTX > MCU_ST_STM32F3 : STM32F378VCTx
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F3-STM32F378VCTx
 - Hex ID: SZKMCUSTSTM32F3STM32F378VCTX
-- Name: STM32F378VCTx
-- Description: STM32F378VCTx
+- Name: MCU_ST_STM32F3 : STM32F378VCTx
+- Description: MCU_ST_STM32F3 : STM32F378VCTx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F3-STM32F378VCTx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F3-STM32F378VCTx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32F3STM32F378VCTX](http://oom.lt/SZKMCUSTSTM32F3STM32F378VCTX)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|STM32F378VCTx|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F3-STM32F378VCTx|
 |Hex ID (short code)|hexID|SZKMCUSTSTM32F3STM32F378VCTX|
-|name|name|STM32F378VCTx|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'STM32F378VCTx', 'kicadSymbolFootprint': 'Package_QFP:LQFP-100_14x14mm_P0.5mm', 'kicadSymbolDatasheet': 'http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00101621.pdf', 'kicadSymbolki_keywords': 'ARM Cortex-M4 STM32F3 STM32F3x8', 'kicadSymbolki_description': 'ARM Cortex-M4 MCU, 256KB flash, 32KB RAM, 72MHz, 1.65-1.95V, 83 GPIO, LQFP-100', 'kicadSymbolki_fp_filters': 'LQFP*14x14mm*P0.5mm*'}]|
+|name|name|MCU_ST_STM32F3 : STM32F378VCTx|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'STM32F378VCTx'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_QFP</td></tr><tr><td>LQFP-100_14x14mm_P0.5mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00101621.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'ARM Cortex-M4 STM32F3 STM32F3x8'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'ARM Cortex-M4 MCU</td><td> 256KB flash</td><td> 32KB RAM</td><td> 72MHz</td><td> 1.65-1.95V</td><td> 83 GPIO</td><td> LQFP-100'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'LQFP*14x14mm*P0.5mm*'</td></tr></table>]|
 ||||

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_BarrelJack-BarrelJack_CUI_PJ-036AH-SMT_Horizontal|
 |Hex ID (short code)|hexID|FZKCNBARRELJBARRELJCUIPJ36AHSHORIZONTAL|
 |name|name|Connector_BarrelJack : BarrelJack_CUI_PJ-036AH-SMT_Horizontal|
-|Footprint Kicad|footprintKicadDetails|{'name': 'BarrelJack_CUI_PJ-036AH-SMT_Horizontal', 'description': 'Surface-mount DC Barrel Jack, http://www.cui.com/product/resource/pj-036ah-smt.pdf', 'tags': 'Power Jack SMT', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_BarrelJack.3dshapes/BarrelJack_CUI_PJ-036AH-SMT_Horizontal.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'BarrelJack_CUI_PJ-036AH-SMT_Horizontal'</td><td> 'description'</td></tr><tr><td> 'Surface-mount DC Barrel Jack</td><td> http</td></tr><tr><td>//www.cui.com/product/resource/pj-036ah-smt.pdf'</td><td> 'tags'</td></tr><tr><td> 'Power Jack SMT'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_BarrelJack.3dshapes/BarrelJack_CUI_PJ-036AH-SMT_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

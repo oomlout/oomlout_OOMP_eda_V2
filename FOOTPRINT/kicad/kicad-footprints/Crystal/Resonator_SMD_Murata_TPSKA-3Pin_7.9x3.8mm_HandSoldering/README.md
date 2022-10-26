@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Crystal-Resonator_SMD_Murata_TPSKA-3Pin_7.9x3.8mm_HandSoldering|
 |Hex ID (short code)|hexID|FZKXRSTPSKA3PIN79X38HANDSOLDERING|
 |name|name|Crystal : Resonator_SMD_Murata_TPSKA-3Pin_7.9x3.8mm_HandSoldering|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Resonator_SMD_Murata_TPSKA-3Pin_7.9x3.8mm_HandSoldering', 'description': 'SMD Resomator/Filter Murata TPSKA, http://cdn-reichelt.de/documents/datenblatt/B400/SFECV-107.pdf, hand-soldering, 7.9x3.8mm^2 package', 'tags': 'SMD SMT ceramic resonator filter filter hand-soldering', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Resonator_SMD_Murata_TPSKA-3Pin_7.9x3.8mm_HandSoldering.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Resonator_SMD_Murata_TPSKA-3Pin_7.9x3.8mm_HandSoldering'</td><td> 'description'</td></tr><tr><td> 'SMD Resomator/Filter Murata TPSKA</td><td> http</td></tr><tr><td>//cdn-reichelt.de/documents/datenblatt/B400/SFECV-107.pdf</td><td> hand-soldering</td><td> 7.9x3.8mm^2 package'</td><td> 'tags'</td></tr><tr><td> 'SMD SMT ceramic resonator filter filter hand-soldering'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Crystal.3dshapes/Resonator_SMD_Murata_TPSKA-3Pin_7.9x3.8mm_HandSoldering.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

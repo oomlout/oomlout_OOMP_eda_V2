@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Alps_RK163_Dual_Horizontal|
 |Hex ID (short code)|hexID|FZKPPOTENTIOMETERALPSRK163DUALHORIZONTAL|
 |name|name|Potentiometer_THT : Potentiometer_Alps_RK163_Dual_Horizontal|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Potentiometer_Alps_RK163_Dual_Horizontal', 'description': '12101A2 1210AX9 12A0B85 12A0BKR  Potentiometer, horizontal, Alps RK163 Dual, https://tech.alpsalpine.com/prod/e/pdf/potentiometer/rotarypotentiometers/rk16/rk16.pdf', 'tags': 'Potentiometer horizontal Alps RK163 Dual', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Potentiometer_THT.3dshapes/Potentiometer_Alps_RK163_Dual_Horizontal.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Potentiometer_Alps_RK163_Dual_Horizontal'</td><td> 'description'</td></tr><tr><td> '12101A2 1210AX9 12A0B85 12A0BKR  Potentiometer</td><td> horizontal</td><td> Alps RK163 Dual</td><td> https</td></tr><tr><td>//tech.alpsalpine.com/prod/e/pdf/potentiometer/rotarypotentiometers/rk16/rk16.pdf'</td><td> 'tags'</td></tr><tr><td> 'Potentiometer horizontal Alps RK163 Dual'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Potentiometer_THT.3dshapes/Potentiometer_Alps_RK163_Dual_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

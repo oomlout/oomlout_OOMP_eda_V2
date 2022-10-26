@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKANALOGADCAD7171 > AD7171
+# SZKANALOGADCAD7171 > Analog_ADC : AD7171
 
 - ID: SYMBOL-kicad-kicad-symbols-Analog_ADC-AD7171
 - Hex ID: SZKANALOGADCAD7171
-- Name: AD7171
-- Description: AD7171
+- Name: Analog_ADC : AD7171
+- Description: Analog_ADC : AD7171
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-AD7171](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-AD7171)
 - Short Link: [http://oom.lt/SZKANALOGADCAD7171](http://oom.lt/SZKANALOGADCAD7171)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AD7171|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_ADC-AD7171|
 |Hex ID (short code)|hexID|SZKANALOGADCAD7171|
-|name|name|AD7171|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AD7171', 'kicadSymbolFootprint': 'Package_DFN_QFN:DFN-10-1EP_3x3mm_P0.5mm_EP1.55x2.48mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/AD7171.pdf', 'kicadSymbolki_keywords': 'sigma delta adc spi 1ch', 'kicadSymbolki_description': 'Single channel Analog to Digital Converter, 16-bit, differential input, 125Hz, SPI interface', 'kicadSymbolki_fp_filters': 'DFN*1EP*3x3mm*P0.5mm*EP1.55x2.48mm*'}]|
+|name|name|Analog_ADC : AD7171|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'AD7171'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>DFN-10-1EP_3x3mm_P0.5mm_EP1.55x2.48mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/AD7171.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'sigma delta adc spi 1ch'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Single channel Analog to Digital Converter</td><td> 16-bit</td><td> differential input</td><td> 125Hz</td><td> SPI interface'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DFN*1EP*3x3mm*P0.5mm*EP1.55x2.48mm*'</td></tr></table>]|
 ||||

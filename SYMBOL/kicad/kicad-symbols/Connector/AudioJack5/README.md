@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKCNAUDIOJ5 > AudioJack5
+# SZKCNAUDIOJ5 > Connector : AudioJack5
 
 - ID: SYMBOL-kicad-kicad-symbols-Connector-AudioJack5
 - Hex ID: SZKCNAUDIOJ5
-- Name: AudioJack5
-- Description: AudioJack5
+- Name: Connector : AudioJack5
+- Description: Connector : AudioJack5
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-AudioJack5](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-AudioJack5)
 - Short Link: [http://oom.lt/SZKCNAUDIOJ5](http://oom.lt/SZKCNAUDIOJ5)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AudioJack5|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-AudioJack5|
 |Hex ID (short code)|hexID|SZKCNAUDIOJ5|
-|name|name|AudioJack5|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'AudioJack5', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'audio jack receptacle stereo headphones TRRRS connector', 'kicadSymbolki_description': 'Audio Jack, 5 Poles (TRRRS)', 'kicadSymbolki_fp_filters': 'Jack*'}]|
+|name|name|Connector : AudioJack5|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'J'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'AudioJack5'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'audio jack receptacle stereo headphones TRRRS connector'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Audio Jack</td><td> 5 Poles (TRRRS)'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Jack*'</td></tr></table>]|
 ||||

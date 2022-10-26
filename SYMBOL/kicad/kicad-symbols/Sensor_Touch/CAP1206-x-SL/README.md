@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKSENTOUCHCAP126XSL > CAP1206-x-SL
+# SZKSENTOUCHCAP126XSL > Sensor_Touch : CAP1206-x-SL
 
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Touch-CAP1206-x-SL
 - Hex ID: SZKSENTOUCHCAP126XSL
-- Name: CAP1206-x-SL
-- Description: CAP1206-x-SL
+- Name: Sensor_Touch : CAP1206-x-SL
+- Description: Sensor_Touch : CAP1206-x-SL
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Touch-CAP1206-x-SL](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Touch-CAP1206-x-SL)
 - Short Link: [http://oom.lt/SZKSENTOUCHCAP126XSL](http://oom.lt/SZKSENTOUCHCAP126XSL)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|CAP1206-x-SL|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Touch-CAP1206-x-SL|
 |Hex ID (short code)|hexID|SZKSENTOUCHCAP126XSL|
-|name|name|CAP1206-x-SL|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'CAP1206-x-SL', 'kicadSymbolFootprint': 'Package_SO:SOIC-14_3.9x8.7mm_P1.27mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/00001567B.pdf', 'kicadSymbolki_keywords': '6 Channel Capacitive Touch Sensor', 'kicadSymbolki_description': '6-Channel Capacitive Touch Sensor, SOIC-14', 'kicadSymbolki_fp_filters': 'SOIC?14*3.9x8.7mm*P1.27mm*'}]|
+|name|name|Sensor_Touch : CAP1206-x-SL|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'CAP1206-x-SL'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-14_3.9x8.7mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/00001567B.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> '6 Channel Capacitive Touch Sensor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '6-Channel Capacitive Touch Sensor</td><td> SOIC-14'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC?14*3.9x8.7mm*P1.27mm*'</td></tr></table>]|
 ||||

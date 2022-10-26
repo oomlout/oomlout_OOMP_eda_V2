@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKAMPLIFIEROPERATIONALLTC681XDD > LTC6081xDD
+# SZKAMPLIFIEROPERATIONALLTC681XDD > Amplifier_Operational : LTC6081xDD
 
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LTC6081xDD
 - Hex ID: SZKAMPLIFIEROPERATIONALLTC681XDD
-- Name: LTC6081xDD
-- Description: LTC6081xDD
+- Name: Amplifier_Operational : LTC6081xDD
+- Description: Amplifier_Operational : LTC6081xDD
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LTC6081xDD](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LTC6081xDD)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALLTC681XDD](http://oom.lt/SZKAMPLIFIEROPERATIONALLTC681XDD)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LTC6081xDD|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LTC6081xDD|
 |Hex ID (short code)|hexID|SZKAMPLIFIEROPERATIONALLTC681XDD|
-|name|name|LTC6081xDD|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LTC6081xDD', 'kicadSymbolFootprint': 'Package_DFN_QFN:DFN-10-1EP_3x3mm_P0.5mm_EP1.55x2.48mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/60812fd.pdf', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'dual opamp', 'kicadSymbolki_description': 'Precision Dual CMOS Rail-to-Rail Input/Output Amplifiers, DFN-10', 'kicadSymbolki_fp_filters': 'DFN*3x3mm*P0.5mm*'}]|
+|name|name|Amplifier_Operational : LTC6081xDD|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LTC6081xDD'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>DFN-10-1EP_3x3mm_P0.5mm_EP1.55x2.48mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/60812fd.pdf'</td><td> 'kicadSymbolki_locked'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'dual opamp'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Precision Dual CMOS Rail-to-Rail Input/Output Amplifiers</td><td> DFN-10'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DFN*3x3mm*P0.5mm*'</td></tr></table>]|
 ||||

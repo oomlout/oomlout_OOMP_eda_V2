@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Linear_UGK52_QFN-46-52|
 |Hex ID (short code)|hexID|FZKDFNLINEARUGK52QFN4652|
 |name|name|Package_DFN_QFN : Linear_UGK52_QFN-46-52|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Linear_UGK52_QFN-46-52', 'description': 'Linear UKG52(46) package, QFN-52-1EP variant (see http://cds.linear.com/docs/en/datasheet/3886fe.pdf)', 'tags': 'QFN 0.5', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Linear_UGK52_QFN-46-52.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Linear_UGK52_QFN-46-52'</td><td> 'description'</td></tr><tr><td> 'Linear UKG52(46) package</td><td> QFN-52-1EP variant (see http</td></tr><tr><td>//cds.linear.com/docs/en/datasheet/3886fe.pdf)'</td><td> 'tags'</td></tr><tr><td> 'QFN 0.5'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DFN_QFN.3dshapes/Linear_UGK52_QFN-46-52.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

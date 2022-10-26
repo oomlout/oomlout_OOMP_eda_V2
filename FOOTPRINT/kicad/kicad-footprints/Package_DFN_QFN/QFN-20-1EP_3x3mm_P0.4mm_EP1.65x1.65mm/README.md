@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-QFN-20-1EP_3x3mm_P0.4mm_EP1.65x1.65mm|
 |Hex ID (short code)|hexID|FZKDFNQFN21EP3X3P4EP165X165|
 |name|name|Package_DFN_QFN : QFN-20-1EP_3x3mm_P0.4mm_EP1.65x1.65mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'QFN-20-1EP_3x3mm_P0.4mm_EP1.65x1.65mm', 'description': 'QFN, 20 Pin (https://www.analog.com/media/en/technical-documentation/data-sheets/3553fc.pdf#page=34), generated with kicad-footprint-generator ipc_noLead_generator.py', 'tags': 'QFN NoLead', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/QFN-20-1EP_3x3mm_P0.4mm_EP1.65x1.65mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'QFN-20-1EP_3x3mm_P0.4mm_EP1.65x1.65mm'</td><td> 'description'</td></tr><tr><td> 'QFN</td><td> 20 Pin (https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/3553fc.pdf#page=34)</td><td> generated with kicad-footprint-generator ipc_noLead_generator.py'</td><td> 'tags'</td></tr><tr><td> 'QFN NoLead'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DFN_QFN.3dshapes/QFN-20-1EP_3x3mm_P0.4mm_EP1.65x1.65mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

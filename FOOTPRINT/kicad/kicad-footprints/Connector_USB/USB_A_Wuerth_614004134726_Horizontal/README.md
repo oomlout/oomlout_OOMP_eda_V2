@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_A_Wuerth_614004134726_Horizontal|
 |Hex ID (short code)|hexID|FZKCNUUAWUERTH6144134726HORIZONTAL|
 |name|name|Connector_USB : USB_A_Wuerth_614004134726_Horizontal|
-|Footprint Kicad|footprintKicadDetails|{'name': 'USB_A_Wuerth_614004134726_Horizontal', 'description': 'USB A connector https://www.we-online.com/catalog/datasheet/614004134726.pdf', 'tags': 'USB_A Female Connector receptacle', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_USB.3dshapes/USB_A_Wuerth_614004134726_Horizontal.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'USB_A_Wuerth_614004134726_Horizontal'</td><td> 'description'</td></tr><tr><td> 'USB A connector https</td></tr><tr><td>//www.we-online.com/catalog/datasheet/614004134726.pdf'</td><td> 'tags'</td></tr><tr><td> 'USB_A Female Connector receptacle'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_USB.3dshapes/USB_A_Wuerth_614004134726_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

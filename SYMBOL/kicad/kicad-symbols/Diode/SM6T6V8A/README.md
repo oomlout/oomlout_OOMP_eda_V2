@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDIODESM6T6V8A > SM6T6V8A
+# SZKDIODESM6T6V8A > Diode : SM6T6V8A
 
 - ID: SYMBOL-kicad-kicad-symbols-Diode-SM6T6V8A
 - Hex ID: SZKDIODESM6T6V8A
-- Name: SM6T6V8A
-- Description: SM6T6V8A
+- Name: Diode : SM6T6V8A
+- Description: Diode : SM6T6V8A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-SM6T6V8A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-SM6T6V8A)
 - Short Link: [http://oom.lt/SZKDIODESM6T6V8A](http://oom.lt/SZKDIODESM6T6V8A)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SM6T6V8A|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-SM6T6V8A|
 |Hex ID (short code)|hexID|SZKDIODESM6T6V8A|
-|name|name|SM6T6V8A|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'SM6T6V8A', 'kicadSymbolFootprint': 'Diode_SMD:D_SMB', 'kicadSymbolDatasheet': 'https://www.st.com/resource/en/datasheet/sm6t.pdf', 'kicadSymbolki_keywords': 'diode TVS voltage suppressor', 'kicadSymbolki_description': '600W unidirectional Transil Transient Voltage Suppressor, 6.8Vrwm, DO-214AA', 'kicadSymbolki_fp_filters': 'D*SMB*'}]|
+|name|name|Diode : SM6T6V8A|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'SM6T6V8A'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Diode_SMD</td></tr><tr><td>D_SMB'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.st.com/resource/en/datasheet/sm6t.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'diode TVS voltage suppressor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '600W unidirectional Transil Transient Voltage Suppressor</td><td> 6.8Vrwm</td><td> DO-214AA'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'D*SMB*'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKISOLATORTLP185XSE > TLP185xSE
+# SZKISOLATORTLP185XSE > Isolator : TLP185xSE
 
 - ID: SYMBOL-kicad-kicad-symbols-Isolator-TLP185xSE
 - Hex ID: SZKISOLATORTLP185XSE
-- Name: TLP185xSE
-- Description: TLP185xSE
+- Name: Isolator : TLP185xSE
+- Description: Isolator : TLP185xSE
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-TLP185xSE](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-TLP185xSE)
 - Short Link: [http://oom.lt/SZKISOLATORTLP185XSE](http://oom.lt/SZKISOLATORTLP185XSE)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TLP185xSE|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Isolator-TLP185xSE|
 |Hex ID (short code)|hexID|SZKISOLATORTLP185XSE|
-|name|name|TLP185xSE|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TLP185', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TLP185xSE', 'kicadSymbolFootprint': 'Package_SO:SOIC-4_4.55x3.7mm_P2.54mm', 'kicadSymbolDatasheet': 'https://toshiba.semicon-storage.com/info/docget.jsp?did=14111&prodName=TLP185(SE', 'kicadSymbolki_keywords': 'NPN DC Optocoupler', 'kicadSymbolki_description': 'DC Optocoupler, Vce 80V, CTR 50-100%, MFSOP6', 'kicadSymbolki_fp_filters': 'SOIC*4.55x3.7mm*P2.54mm*'}]|
+|name|name|Isolator : TLP185xSE|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'TLP185'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TLP185xSE'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-4_4.55x3.7mm_P2.54mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//toshiba.semicon-storage.com/info/docget.jsp?did=14111&prodName=TLP185(SE'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'NPN DC Optocoupler'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'DC Optocoupler</td><td> Vce 80V</td><td> CTR 50-100%</td><td> MFSOP6'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*4.55x3.7mm*P2.54mm*'</td></tr></table>]|
 ||||

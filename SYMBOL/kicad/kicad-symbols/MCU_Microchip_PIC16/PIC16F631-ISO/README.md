@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUMCHIPPIC16PIC16F631ISO > PIC16F631-ISO
+# SZKMCUMCHIPPIC16PIC16F631ISO > MCU_Microchip_PIC16 : PIC16F631-ISO
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F631-ISO
 - Hex ID: SZKMCUMCHIPPIC16PIC16F631ISO
-- Name: PIC16F631-ISO
-- Description: PIC16F631-ISO
+- Name: MCU_Microchip_PIC16 : PIC16F631-ISO
+- Description: MCU_Microchip_PIC16 : PIC16F631-ISO
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F631-ISO](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F631-ISO)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC16PIC16F631ISO](http://oom.lt/SZKMCUMCHIPPIC16PIC16F631ISO)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PIC16F631-ISO|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F631-ISO|
 |Hex ID (short code)|hexID|SZKMCUMCHIPPIC16PIC16F631ISO|
-|name|name|PIC16F631-ISO|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PIC16F631-ISO', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/41262E.pdf', 'kicadSymbolki_keywords': 'Flash-Based 8-Bit CMOS Microcontroller nanoWatt', 'kicadSymbolki_description': 'PIC16F631, 1024W Flash, 64B SRAM, 128B EEPROM, SO20', 'kicadSymbolki_fp_filters': 'SO*'}]|
+|name|name|MCU_Microchip_PIC16 : PIC16F631-ISO|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'PIC16F631-ISO'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/41262E.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Flash-Based 8-Bit CMOS Microcontroller nanoWatt'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'PIC16F631</td><td> 1024W Flash</td><td> 64B SRAM</td><td> 128B EEPROM</td><td> SO20'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SO*'</td></tr></table>]|
 ||||

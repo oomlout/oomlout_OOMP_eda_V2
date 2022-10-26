@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORLINEARLT315XQ25 > LT3015xQ-2.5
+# SZKREGULATORLINEARLT315XQ25 > Regulator_Linear : LT3015xQ-2.5
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT3015xQ-2.5
 - Hex ID: SZKREGULATORLINEARLT315XQ25
-- Name: LT3015xQ-2.5
-- Description: LT3015xQ-2.5
+- Name: Regulator_Linear : LT3015xQ-2.5
+- Description: Regulator_Linear : LT3015xQ-2.5
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT3015xQ-2.5](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT3015xQ-2.5)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARLT315XQ25](http://oom.lt/SZKREGULATORLINEARLT315XQ25)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LT3015xQ-2.5|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT3015xQ-2.5|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARLT315XQ25|
-|name|name|LT3015xQ-2.5|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LT3015xQ-2.5', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TO-263-5_TabPin3', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/3015fb.pdf', 'kicadSymbolki_keywords': 'negative voltage regulator', 'kicadSymbolki_description': '-2.5V, 1.5A, Low Noise, Negative Linear Regulator with Precision Current Limit, TO-263-5', 'kicadSymbolki_fp_filters': 'TO*263*'}]|
+|name|name|Regulator_Linear : LT3015xQ-2.5|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LT3015xQ-2.5'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>TO-263-5_TabPin3'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/3015fb.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'negative voltage regulator'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '-2.5V</td><td> 1.5A</td><td> Low Noise</td><td> Negative Linear Regulator with Precision Current Limit</td><td> TO-263-5'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TO*263*'</td></tr></table>]|
 ||||

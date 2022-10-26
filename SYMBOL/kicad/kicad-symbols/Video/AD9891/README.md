@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKVIDEOAD9891 > AD9891
+# SZKVIDEOAD9891 > Video : AD9891
 
 - ID: SYMBOL-kicad-kicad-symbols-Video-AD9891
 - Hex ID: SZKVIDEOAD9891
-- Name: AD9891
-- Description: AD9891
+- Name: Video : AD9891
+- Description: Video : AD9891
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Video-AD9891](http://oom.lt/SYMBOL-kicad-kicad-symbols-Video-AD9891)
 - Short Link: [http://oom.lt/SZKVIDEOAD9891](http://oom.lt/SZKVIDEOAD9891)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AD9891|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Video-AD9891|
 |Hex ID (short code)|hexID|SZKVIDEOAD9891|
-|name|name|AD9891|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AD9891', 'kicadSymbolFootprint': 'Package_BGA:BGA-64_9.0x9.0mm_Layout10x10_P0.8mm', 'kicadSymbolDatasheet': 'https://www.analog.com/static/imported-files/data_sheets/AD9891_9895.pdf', 'kicadSymbolki_keywords': 'CCD Signal Processor', 'kicadSymbolki_description': 'CCD Signal Processor, 20MHz 10bits, CSPBGA-64', 'kicadSymbolki_fp_filters': 'BGA*9.0x9.0mm*Layout10x10*P0.8mm*'}]|
+|name|name|Video : AD9891|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'AD9891'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_BGA</td></tr><tr><td>BGA-64_9.0x9.0mm_Layout10x10_P0.8mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/static/imported-files/data_sheets/AD9891_9895.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'CCD Signal Processor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'CCD Signal Processor</td><td> 20MHz 10bits</td><td> CSPBGA-64'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'BGA*9.0x9.0mm*Layout10x10*P0.8mm*'</td></tr></table>]|
 ||||

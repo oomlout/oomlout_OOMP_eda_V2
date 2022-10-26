@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZK4XXXIEEE424 > 4024
+# SZK4XXXIEEE424 > 4xxx_IEEE : 4024
 
 - ID: SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4024
 - Hex ID: SZK4XXXIEEE424
-- Name: 4024
-- Description: 4024
+- Name: 4xxx_IEEE : 4024
+- Description: 4xxx_IEEE : 4024
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4024](http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4024)
 - Short Link: [http://oom.lt/SZK4XXXIEEE424](http://oom.lt/SZK4XXXIEEE424)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|4024|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4024|
 |Hex ID (short code)|hexID|SZK4XXXIEEE424|
-|name|name|4024|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '4024', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ''}]|
+|name|name|4xxx_IEEE : 4024|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> '4024'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> ''</td></tr></table>]|
 ||||

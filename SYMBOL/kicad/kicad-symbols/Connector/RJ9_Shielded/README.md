@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKCNRJ9SHED > RJ9_Shielded
+# SZKCNRJ9SHED > Connector : RJ9_Shielded
 
 - ID: SYMBOL-kicad-kicad-symbols-Connector-RJ9_Shielded
 - Hex ID: SZKCNRJ9SHED
-- Name: RJ9_Shielded
-- Description: RJ9_Shielded
+- Name: Connector : RJ9_Shielded
+- Description: Connector : RJ9_Shielded
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-RJ9_Shielded](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-RJ9_Shielded)
 - Short Link: [http://oom.lt/SZKCNRJ9SHED](http://oom.lt/SZKCNRJ9SHED)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|RJ9_Shielded|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-RJ9_Shielded|
 |Hex ID (short code)|hexID|SZKCNRJ9SHED|
-|name|name|RJ9_Shielded|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '4P4C_Shielded', 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'RJ9_Shielded', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': '4P4C RJ female connector', 'kicadSymbolki_description': 'RJ connector, 4P4C (4 positions 4 connected), Shielded', 'kicadSymbolki_fp_filters': '4P4C* RJ9* RJ10* RJ22*'}]|
+|name|name|Connector : RJ9_Shielded|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> '4P4C_Shielded'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'J'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'RJ9_Shielded'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> '4P4C RJ female connector'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'RJ connector</td><td> 4P4C (4 positions 4 connected)</td><td> Shielded'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> '4P4C* RJ9* RJ10* RJ22*'</td></tr></table>]|
 ||||

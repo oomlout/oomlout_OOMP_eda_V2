@@ -29,5 +29,5 @@ NO IMAGE
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Sensor_Audio-Knowles_LGA-5_3.5x2.65mm|
 |Hex ID (short code)|hexID|FZKSENAUDIOKNOWLESLGA535X265|
 |name|name|Sensor_Audio : Knowles_LGA-5_3.5x2.65mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Knowles_LGA-5_3.5x2.65mm', 'description': 'https://www.knowles.com/docs/default-source/model-downloads/sph0641lu4h-1-revb.pdf', 'tags': 'MEMS Microphone LGA', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Sensor_Audio.3dshapes/Knowles_LGA-5_3.5x2.65mm.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Knowles_LGA-5_3.5x2.65mm'</td><td> 'description'</td></tr><tr><td> 'https</td></tr><tr><td>//www.knowles.com/docs/default-source/model-downloads/sph0641lu4h-1-revb.pdf'</td><td> 'tags'</td></tr><tr><td> 'MEMS Microphone LGA'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Sensor_Audio.3dshapes/Knowles_LGA-5_3.5x2.65mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

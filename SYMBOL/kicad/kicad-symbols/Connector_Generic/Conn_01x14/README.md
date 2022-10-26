@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKCNGENERICCONN1X14 > Conn_01x14
+# SZKCNGENERICCONN1X14 > Connector_Generic : Conn_01x14
 
 - ID: SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x14
 - Hex ID: SZKCNGENERICCONN1X14
-- Name: Conn_01x14
-- Description: Conn_01x14
+- Name: Connector_Generic : Conn_01x14
+- Description: Connector_Generic : Conn_01x14
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x14](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x14)
 - Short Link: [http://oom.lt/SZKCNGENERICCONN1X14](http://oom.lt/SZKCNGENERICCONN1X14)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Conn_01x14|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x14|
 |Hex ID (short code)|hexID|SZKCNGENERICCONN1X14|
-|name|name|Conn_01x14|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'Conn_01x14', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'connector', 'kicadSymbolki_description': 'Generic connector, single row, 01x14, script generated (kicad-library-utils/schlib/autogen/connector/)', 'kicadSymbolki_fp_filters': 'Connector*:*_1x??_*'}]|
+|name|name|Connector_Generic : Conn_01x14|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'J'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Conn_01x14'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'connector'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Generic connector</td><td> single row</td><td> 01x14</td><td> script generated (kicad-library-utils/schlib/autogen/connector/)'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Connector*</td></tr><tr><td>*_1x??_*'</td></tr></table>]|
 ||||

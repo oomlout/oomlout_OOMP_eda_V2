@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-TO-263-9_TabPin5|
 |Hex ID (short code)|hexID|FZKPACKAGETOSOTSMTO2639TABPIN5|
 |name|name|Package_TO_SOT_SMD : TO-263-9_TabPin5|
-|Footprint Kicad|footprintKicadDetails|{'name': 'TO-263-9_TabPin5', 'description': 'TO-263 / D2PAK / DDPAK SMD package, http://www.ti.com/lit/ds/symlink/lm4755.pdf', 'tags': 'D2PAK DDPAK TO-263 D2PAK-9 TO-263-9', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/TO-263-9_TabPin5.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'TO-263-9_TabPin5'</td><td> 'description'</td></tr><tr><td> 'TO-263 / D2PAK / DDPAK SMD package</td><td> http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/lm4755.pdf'</td><td> 'tags'</td></tr><tr><td> 'D2PAK DDPAK TO-263 D2PAK-9 TO-263-9'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_TO_SOT_SMD.3dshapes/TO-263-9_TabPin5.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

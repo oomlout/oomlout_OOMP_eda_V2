@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_5.3mm_M5_Pad_Via|
 |Hex ID (short code)|hexID|FZKHOLHOL53M5PADVIA|
 |name|name|MountingHole : MountingHole_5.3mm_M5_Pad_Via|
-|Footprint Kicad|footprintKicadDetails|{'name': 'MountingHole_5.3mm_M5_Pad_Via', 'description': 'Mounting Hole 5.3mm, M5', 'tags': 'mounting hole 5.3mm m5', 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'MountingHole_5.3mm_M5_Pad_Via'</td><td> 'description'</td></tr><tr><td> 'Mounting Hole 5.3mm</td><td> M5'</td><td> 'tags'</td></tr><tr><td> 'mounting hole 5.3mm m5'</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

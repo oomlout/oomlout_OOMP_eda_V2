@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKRELAYRM5XX21 > RM50-xx21
+# SZKRELAYRM5XX21 > Relay : RM50-xx21
 
 - ID: SYMBOL-kicad-kicad-symbols-Relay-RM50-xx21
 - Hex ID: SZKRELAYRM5XX21
-- Name: RM50-xx21
-- Description: RM50-xx21
+- Name: Relay : RM50-xx21
+- Description: Relay : RM50-xx21
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-RM50-xx21](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-RM50-xx21)
 - Short Link: [http://oom.lt/SZKRELAYRM5XX21](http://oom.lt/SZKRELAYRM5XX21)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|RM50-xx21|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Relay-RM50-xx21|
 |Hex ID (short code)|hexID|SZKRELAYRM5XX21|
-|name|name|RM50-xx21|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'FINDER-32.21-x300', 'kicadSymbolReference': 'K', 'kicadSymbolValue': 'RM50-xx21', 'kicadSymbolFootprint': 'Relay_THT:Relay_SPST_Finder_32.21-x300', 'kicadSymbolDatasheet': 'http://www.relpol.pl/en/content/download/13683/165953/file/e_RM50.pdf', 'kicadSymbolki_keywords': 'Single Pole Relay SPST-NO', 'kicadSymbolki_description': 'RELPOL, Single Pole Relay SPST-NO, 6A', 'kicadSymbolki_fp_filters': 'Relay*SPST*Finder*32.21*x300*'}]|
+|name|name|Relay : RM50-xx21|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'FINDER-32.21-x300'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'K'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'RM50-xx21'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Relay_THT</td></tr><tr><td>Relay_SPST_Finder_32.21-x300'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.relpol.pl/en/content/download/13683/165953/file/e_RM50.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Single Pole Relay SPST-NO'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'RELPOL</td><td> Single Pole Relay SPST-NO</td><td> 6A'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Relay*SPST*Finder*32.21*x300*'</td></tr></table>]|
 ||||

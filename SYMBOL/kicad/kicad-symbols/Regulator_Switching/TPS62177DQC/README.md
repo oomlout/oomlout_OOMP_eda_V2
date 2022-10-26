@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORSWITCHINGTPS62177DQC > TPS62177DQC
+# SZKREGULATORSWITCHINGTPS62177DQC > Regulator_Switching : TPS62177DQC
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS62177DQC
 - Hex ID: SZKREGULATORSWITCHINGTPS62177DQC
-- Name: TPS62177DQC
-- Description: TPS62177DQC
+- Name: Regulator_Switching : TPS62177DQC
+- Description: Regulator_Switching : TPS62177DQC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS62177DQC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS62177DQC)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGTPS62177DQC](http://oom.lt/SZKREGULATORSWITCHINGTPS62177DQC)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TPS62177DQC|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS62177DQC|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGTPS62177DQC|
-|name|name|TPS62177DQC|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TPS62177DQC', 'kicadSymbolFootprint': 'Package_SON:WSON-10-1EP_2x3mm_P0.5mm_EP0.84x2.4mm_ThermalVias', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tps62177.pdf', 'kicadSymbolki_keywords': 'step-down dc-dc buck regulator', 'kicadSymbolki_description': '500mA Step-Down Converter with Sleep Mode, fixed 3.3V Output Voltage, 4.75-28V input voltage, WSON-10', 'kicadSymbolki_fp_filters': 'WSON*EP*2x3mm*P0.5mm*'}]|
+|name|name|Regulator_Switching : TPS62177DQC|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TPS62177DQC'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SON</td></tr><tr><td>WSON-10-1EP_2x3mm_P0.5mm_EP0.84x2.4mm_ThermalVias'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/tps62177.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'step-down dc-dc buck regulator'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '500mA Step-Down Converter with Sleep Mode</td><td> fixed 3.3V Output Voltage</td><td> 4.75-28V input voltage</td><td> WSON-10'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'WSON*EP*2x3mm*P0.5mm*'</td></tr></table>]|
 ||||

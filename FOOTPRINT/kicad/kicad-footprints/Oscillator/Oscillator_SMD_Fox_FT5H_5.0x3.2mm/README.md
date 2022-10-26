@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_Fox_FT5H_5.0x3.2mm|
 |Hex ID (short code)|hexID|FZKOCSOCSSMFOXFT5H5X32|
 |name|name|Oscillator : Oscillator_SMD_Fox_FT5H_5.0x3.2mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Oscillator_SMD_Fox_FT5H_5.0x3.2mm', 'description': 'https://foxonline.com/wp-content/uploads/pdfs/T5HN_T5HV.pdf', 'tags': 'Fox TXCO temperature compensated oscillator', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Oscillator.3dshapes/Oscillator_SMD_Fox_FT5H_5.0x3.2mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Oscillator_SMD_Fox_FT5H_5.0x3.2mm'</td><td> 'description'</td></tr><tr><td> 'https</td></tr><tr><td>//foxonline.com/wp-content/uploads/pdfs/T5HN_T5HV.pdf'</td><td> 'tags'</td></tr><tr><td> 'Fox TXCO temperature compensated oscillator'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Oscillator.3dshapes/Oscillator_SMD_Fox_FT5H_5.0x3.2mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

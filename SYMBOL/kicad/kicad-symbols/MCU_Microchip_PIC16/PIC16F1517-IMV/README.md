@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUMCHIPPIC16PIC16F1517IMV > PIC16F1517-IMV
+# SZKMCUMCHIPPIC16PIC16F1517IMV > MCU_Microchip_PIC16 : PIC16F1517-IMV
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F1517-IMV
 - Hex ID: SZKMCUMCHIPPIC16PIC16F1517IMV
-- Name: PIC16F1517-IMV
-- Description: PIC16F1517-IMV
+- Name: MCU_Microchip_PIC16 : PIC16F1517-IMV
+- Description: MCU_Microchip_PIC16 : PIC16F1517-IMV
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F1517-IMV](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F1517-IMV)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC16PIC16F1517IMV](http://oom.lt/SZKMCUMCHIPPIC16PIC16F1517IMV)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PIC16F1517-IMV|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F1517-IMV|
 |Hex ID (short code)|hexID|SZKMCUMCHIPPIC16PIC16F1517IMV|
-|name|name|PIC16F1517-IMV|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PIC16F1517-IMV', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/41452B.pdf', 'kicadSymbolki_keywords': 'FLASH-Based 8-Bit CMOS Microcontroller XLP', 'kicadSymbolki_description': 'PIC16F1517, 8192W FLASH, 512B SRAM, UQFN-40', 'kicadSymbolki_fp_filters': 'UQFN*'}]|
+|name|name|MCU_Microchip_PIC16 : PIC16F1517-IMV|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'PIC16F1517-IMV'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/41452B.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'FLASH-Based 8-Bit CMOS Microcontroller XLP'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'PIC16F1517</td><td> 8192W FLASH</td><td> 512B SRAM</td><td> UQFN-40'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'UQFN*'</td></tr></table>]|
 ||||

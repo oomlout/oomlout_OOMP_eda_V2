@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_AVX_LMLP07A7|
 |Hex ID (short code)|hexID|FZKINDUCTORSMLAVXLMLP7A7|
 |name|name|Inductor_SMD : L_AVX_LMLP07A7|
-|Footprint Kicad|footprintKicadDetails|{'name': 'L_AVX_LMLP07A7', 'description': 'Inductor, AVX Kyocera, LMLP Series, style D, 6.6mmx7.3mm, 3.0mm height. (Script generated with StandardBox.py) (https://datasheets.avx.com/LMLPD.pdf)', 'tags': 'Inductor LMLP', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_AVX_LMLP07A7.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'L_AVX_LMLP07A7'</td><td> 'description'</td></tr><tr><td> 'Inductor</td><td> AVX Kyocera</td><td> LMLP Series</td><td> style D</td><td> 6.6mmx7.3mm</td><td> 3.0mm height. (Script generated with StandardBox.py) (https</td></tr><tr><td>//datasheets.avx.com/LMLPD.pdf)'</td><td> 'tags'</td></tr><tr><td> 'Inductor LMLP'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Inductor_SMD.3dshapes/L_AVX_LMLP07A7.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUSTSTM32F3STM32F33RDTX > STM32F303RDTx
+# SZKMCUSTSTM32F3STM32F33RDTX > MCU_ST_STM32F3 : STM32F303RDTx
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F3-STM32F303RDTx
 - Hex ID: SZKMCUSTSTM32F3STM32F33RDTX
-- Name: STM32F303RDTx
-- Description: STM32F303RDTx
+- Name: MCU_ST_STM32F3 : STM32F303RDTx
+- Description: MCU_ST_STM32F3 : STM32F303RDTx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F3-STM32F303RDTx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F3-STM32F303RDTx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32F3STM32F33RDTX](http://oom.lt/SZKMCUSTSTM32F3STM32F33RDTX)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|STM32F303RDTx|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F3-STM32F303RDTx|
 |Hex ID (short code)|hexID|SZKMCUSTSTM32F3STM32F33RDTX|
-|name|name|STM32F303RDTx|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'STM32F303RDTx', 'kicadSymbolFootprint': 'Package_QFP:LQFP-64_10x10mm_P0.5mm', 'kicadSymbolDatasheet': 'http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00118585.pdf', 'kicadSymbolki_keywords': 'ARM Cortex-M4 STM32F3 STM32F303', 'kicadSymbolki_description': 'ARM Cortex-M4 MCU, 384KB flash, 64KB RAM, 72MHz, 2-3.6V, 51 GPIO, LQFP-64', 'kicadSymbolki_fp_filters': 'LQFP*10x10mm*P0.5mm*'}]|
+|name|name|MCU_ST_STM32F3 : STM32F303RDTx|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'STM32F303RDTx'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_QFP</td></tr><tr><td>LQFP-64_10x10mm_P0.5mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00118585.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'ARM Cortex-M4 STM32F3 STM32F303'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'ARM Cortex-M4 MCU</td><td> 384KB flash</td><td> 64KB RAM</td><td> 72MHz</td><td> 2-3.6V</td><td> 51 GPIO</td><td> LQFP-64'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'LQFP*10x10mm*P0.5mm*'</td></tr></table>]|
 ||||

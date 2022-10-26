@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_SiTime_SiT9121-6Pin_3.2x2.5mm|
 |Hex ID (short code)|hexID|FZKOCSOCSSMSITIMESIT91216PIN32X25|
 |name|name|Oscillator : Oscillator_SMD_SiTime_SiT9121-6Pin_3.2x2.5mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Oscillator_SMD_SiTime_SiT9121-6Pin_3.2x2.5mm', 'description': '3.2x2.5mm, 1-220MHz High Performance Differential Oscillator SiTime SiT9121 https://www.sitime.com/datasheet/SiT9121', 'tags': 'SMD SMT crystal oscillator', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Oscillator.3dshapes/Oscillator_SMD_SiTime_SiT9121-6Pin_3.2x2.5mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Oscillator_SMD_SiTime_SiT9121-6Pin_3.2x2.5mm'</td><td> 'description'</td></tr><tr><td> '3.2x2.5mm</td><td> 1-220MHz High Performance Differential Oscillator SiTime SiT9121 https</td></tr><tr><td>//www.sitime.com/datasheet/SiT9121'</td><td> 'tags'</td></tr><tr><td> 'SMD SMT crystal oscillator'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Oscillator.3dshapes/Oscillator_SMD_SiTime_SiT9121-6Pin_3.2x2.5mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

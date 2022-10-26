@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORSWITCHINGLM2594M5 > LM2594M-5.0
+# SZKREGULATORSWITCHINGLM2594M5 > Regulator_Switching : LM2594M-5.0
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM2594M-5.0
 - Hex ID: SZKREGULATORSWITCHINGLM2594M5
-- Name: LM2594M-5.0
-- Description: LM2594M-5.0
+- Name: Regulator_Switching : LM2594M-5.0
+- Description: Regulator_Switching : LM2594M-5.0
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM2594M-5.0](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM2594M-5.0)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGLM2594M5](http://oom.lt/SZKREGULATORSWITCHINGLM2594M5)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM2594M-5.0|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM2594M-5.0|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGLM2594M5|
-|name|name|LM2594M-5.0|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LM2594M-3.3', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM2594M-5.0', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lm2594.pdf', 'kicadSymbolki_keywords': 'buck converter regulator step-down voltage simple switcher fixed', 'kicadSymbolki_description': '5.0V, 0.5A SIMPLE SWITCHER® Step-Down Voltage Regulator, Maximum VIN 45V, SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*'}]|
+|name|name|Regulator_Switching : LM2594M-5.0|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'LM2594M-3.3'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LM2594M-5.0'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-8_3.9x4.9mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/lm2594.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'buck converter regulator step-down voltage simple switcher fixed'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '5.0V</td><td> 0.5A SIMPLE SWITCHER® Step-Down Voltage Regulator</td><td> Maximum VIN 45V</td><td> SOIC-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*3.9x4.9mm*'</td></tr></table>]|
 ||||

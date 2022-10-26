@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKAMPLIFIEROPERATIONALAS1374 > AS13704
+# SZKAMPLIFIEROPERATIONALAS1374 > Amplifier_Operational : AS13704
 
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-AS13704
 - Hex ID: SZKAMPLIFIEROPERATIONALAS1374
-- Name: AS13704
-- Description: AS13704
+- Name: Amplifier_Operational : AS13704
+- Description: Amplifier_Operational : AS13704
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-AS13704](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-AS13704)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALAS1374](http://oom.lt/SZKAMPLIFIEROPERATIONALAS1374)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AS13704|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Operational-AS13704|
 |Hex ID (short code)|hexID|SZKAMPLIFIEROPERATIONALAS1374|
-|name|name|AS13704|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AS13704', 'kicadSymbolFootprint': 'Package_SO:SSOP-24_3.9x8.7mm_P0.635mm', 'kicadSymbolDatasheet': 'http://www.alfarzpp.lv/eng/sc/AS13704.pdf', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'operational transconductance amplifier OTA', 'kicadSymbolki_description': 'Quad Operational Transconductance Amplifiers (OTA), with linearizing diodes, SSOP24', 'kicadSymbolki_fp_filters': 'SSOP*3.9x8.7mm*P0.635mm*'}]|
+|name|name|Amplifier_Operational : AS13704|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'AS13704'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SSOP-24_3.9x8.7mm_P0.635mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.alfarzpp.lv/eng/sc/AS13704.pdf'</td><td> 'kicadSymbolki_locked'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'operational transconductance amplifier OTA'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Quad Operational Transconductance Amplifiers (OTA)</td><td> with linearizing diodes</td><td> SSOP24'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SSOP*3.9x8.7mm*P0.635mm*'</td></tr></table>]|
 ||||

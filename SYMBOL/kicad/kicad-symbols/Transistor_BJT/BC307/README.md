@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORBJTBC37 > BC307
+# SZKTRANSISTORBJTBC37 > Transistor_BJT : BC307
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC307
 - Hex ID: SZKTRANSISTORBJTBC37
-- Name: BC307
-- Description: BC307
+- Name: Transistor_BJT : BC307
+- Description: Transistor_BJT : BC307
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC307](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC307)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTBC37](http://oom.lt/SZKTRANSISTORBJTBC37)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BC307|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC307|
 |Hex ID (short code)|hexID|SZKTRANSISTORBJTBC37|
-|name|name|BC307|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'BC307', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-92_Inline', 'kicadSymbolDatasheet': 'http://www.onsemi.com/pub_link/Collateral/BC307-D.PDF', 'kicadSymbolki_keywords': 'Epitaxial Silicon PNP Transistor', 'kicadSymbolki_description': '100mA Ic, 45V Vce, Epitaxial Silicon PNP Transistor, TO-92', 'kicadSymbolki_fp_filters': 'TO?92*'}]|
+|name|name|Transistor_BJT : BC307|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'BC307'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_THT</td></tr><tr><td>TO-92_Inline'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.onsemi.com/pub_link/Collateral/BC307-D.PDF'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Epitaxial Silicon PNP Transistor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '100mA Ic</td><td> 45V Vce</td><td> Epitaxial Silicon PNP Transistor</td><td> TO-92'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TO?92*'</td></tr></table>]|
 ||||

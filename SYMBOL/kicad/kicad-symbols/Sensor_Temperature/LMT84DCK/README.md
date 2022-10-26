@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKSENTEMPERATURELMT84DCK > LMT84DCK
+# SZKSENTEMPERATURELMT84DCK > Sensor_Temperature : LMT84DCK
 
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Temperature-LMT84DCK
 - Hex ID: SZKSENTEMPERATURELMT84DCK
-- Name: LMT84DCK
-- Description: LMT84DCK
+- Name: Sensor_Temperature : LMT84DCK
+- Description: Sensor_Temperature : LMT84DCK
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-LMT84DCK](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-LMT84DCK)
 - Short Link: [http://oom.lt/SZKSENTEMPERATURELMT84DCK](http://oom.lt/SZKSENTEMPERATURELMT84DCK)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LMT84DCK|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Temperature-LMT84DCK|
 |Hex ID (short code)|hexID|SZKSENTEMPERATURELMT84DCK|
-|name|name|LMT84DCK|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LMT84DCK', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-353_SC-70-5', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lmt84.pdf', 'kicadSymbolki_keywords': 'temperature sensor thermistor ntc', 'kicadSymbolki_description': 'Analog temperature sensor, NTC, 0.4C accuracy, -5.5mV/C, -50C to +150C, 1.5 to 5.5V, SC-70-5', 'kicadSymbolki_fp_filters': 'SC-70-*'}]|
+|name|name|Sensor_Temperature : LMT84DCK|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LMT84DCK'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-353_SC-70-5'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/lmt84.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'temperature sensor thermistor ntc'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Analog temperature sensor</td><td> NTC</td><td> 0.4C accuracy</td><td> -5.5mV/C</td><td> -50C to +150C</td><td> 1.5 to 5.5V</td><td> SC-70-5'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SC-70-*'</td></tr></table>]|
 ||||

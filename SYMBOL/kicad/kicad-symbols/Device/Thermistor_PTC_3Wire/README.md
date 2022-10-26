@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDEVICETHERMISTORPTC3WIRE > Thermistor_PTC_3Wire
+# SZKDEVICETHERMISTORPTC3WIRE > Device : Thermistor_PTC_3Wire
 
 - ID: SYMBOL-kicad-kicad-symbols-Device-Thermistor_PTC_3Wire
 - Hex ID: SZKDEVICETHERMISTORPTC3WIRE
-- Name: Thermistor_PTC_3Wire
-- Description: Thermistor_PTC_3Wire
+- Name: Device : Thermistor_PTC_3Wire
+- Description: Device : Thermistor_PTC_3Wire
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Thermistor_PTC_3Wire](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Thermistor_PTC_3Wire)
 - Short Link: [http://oom.lt/SZKDEVICETHERMISTORPTC3WIRE](http://oom.lt/SZKDEVICETHERMISTORPTC3WIRE)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Thermistor_PTC_3Wire|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-Thermistor_PTC_3Wire|
 |Hex ID (short code)|hexID|SZKDEVICETHERMISTORPTC3WIRE|
-|name|name|Thermistor_PTC_3Wire|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'TH', 'kicadSymbolValue': 'Thermistor_PTC_3Wire', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'resistor PTC thermistor sensor RTD', 'kicadSymbolki_description': 'Temperature dependent resistor, positive temperature coefficient, 3-wire interface', 'kicadSymbolki_fp_filters': 'PIN_ARRAY_3X1 bornier3 TerminalBlock*3pol'}]|
+|name|name|Device : Thermistor_PTC_3Wire|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'TH'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Thermistor_PTC_3Wire'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'resistor PTC thermistor sensor RTD'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Temperature dependent resistor</td><td> positive temperature coefficient</td><td> 3-wire interface'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'PIN_ARRAY_3X1 bornier3 TerminalBlock*3pol'</td></tr></table>]|
 ||||

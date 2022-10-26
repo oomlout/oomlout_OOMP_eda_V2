@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKOCSSI5351BBGM > Si5351B-B-GM
+# SZKOCSSI5351BBGM > Oscillator : Si5351B-B-GM
 
 - ID: SYMBOL-kicad-kicad-symbols-Oscillator-Si5351B-B-GM
 - Hex ID: SZKOCSSI5351BBGM
-- Name: Si5351B-B-GM
-- Description: Si5351B-B-GM
+- Name: Oscillator : Si5351B-B-GM
+- Description: Oscillator : Si5351B-B-GM
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-Si5351B-B-GM](http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-Si5351B-B-GM)
 - Short Link: [http://oom.lt/SZKOCSSI5351BBGM](http://oom.lt/SZKOCSSI5351BBGM)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Si5351B-B-GM|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Oscillator-Si5351B-B-GM|
 |Hex ID (short code)|hexID|SZKOCSSI5351BBGM|
-|name|name|Si5351B-B-GM|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'Si5351B-B-GM', 'kicadSymbolFootprint': 'Package_DFN_QFN:QFN-20-1EP_4x4mm_P0.5mm_EP2.7x2.7mm', 'kicadSymbolDatasheet': 'https://www.silabs.com/documents/public/data-sheets/Si5351-B.pdf', 'kicadSymbolki_keywords': 'CMOS Synth Oscillator I2C VCXO', 'kicadSymbolki_description': 'I2C Programmable Any-Frequency CMOS Clock Generator + VCXO, QFN-20', 'kicadSymbolki_fp_filters': 'QFN*1EP*4x4mm*P0.5mm*'}]|
+|name|name|Oscillator : Si5351B-B-GM|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Si5351B-B-GM'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>QFN-20-1EP_4x4mm_P0.5mm_EP2.7x2.7mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.silabs.com/documents/public/data-sheets/Si5351-B.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'CMOS Synth Oscillator I2C VCXO'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'I2C Programmable Any-Frequency CMOS Clock Generator + VCXO</td><td> QFN-20'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'QFN*1EP*4x4mm*P0.5mm*'</td></tr></table>]|
 ||||

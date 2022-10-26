@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Alps_RK09K_Single_Horizontal|
 |Hex ID (short code)|hexID|FZKPPOTENTIOMETERALPSRK9KSINGLEHORIZONTAL|
 |name|name|Potentiometer_THT : Potentiometer_Alps_RK09K_Single_Horizontal|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Potentiometer_Alps_RK09K_Single_Horizontal', 'description': '111009J 1110AK4 11100DN 1110AAR 1110077 1110A0J 110AMJ 1110B26 D1110C1A Potentiometer, horizontal, Alps RK09K Single, https://tech.alpsalpine.com/prod/e/pdf/potentiometer/rotarypotentiometers/rk09k/rk09k.pdf', 'tags': 'Potentiometer horizontal Alps RK09K Single Snapin', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Potentiometer_THT.3dshapes/Potentiometer_Alps_RK09K_Single_Horizontal.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Potentiometer_Alps_RK09K_Single_Horizontal'</td><td> 'description'</td></tr><tr><td> '111009J 1110AK4 11100DN 1110AAR 1110077 1110A0J 110AMJ 1110B26 D1110C1A Potentiometer</td><td> horizontal</td><td> Alps RK09K Single</td><td> https</td></tr><tr><td>//tech.alpsalpine.com/prod/e/pdf/potentiometer/rotarypotentiometers/rk09k/rk09k.pdf'</td><td> 'tags'</td></tr><tr><td> 'Potentiometer horizontal Alps RK09K Single Snapin'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Potentiometer_THT.3dshapes/Potentiometer_Alps_RK09K_Single_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

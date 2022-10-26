@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_TRACO_TMR-1SM_SMD|
 |Hex ID (short code)|hexID|FZKCONCONTRACOTMR1SMSM|
 |name|name|Converter_DCDC : Converter_DCDC_TRACO_TMR-1SM_SMD|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Converter_DCDC_TRACO_TMR-1SM_SMD', 'description': 'http://assets.tracopower.com/TMR1SM/documents/tmr1sm-datasheet.pdf', 'tags': 'DCDC SMD TRACO TMR-1SM', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Converter_DCDC.3dshapes/Converter_DCDC_TRACO_TMR-1SM_SMD.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Converter_DCDC_TRACO_TMR-1SM_SMD'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//assets.tracopower.com/TMR1SM/documents/tmr1sm-datasheet.pdf'</td><td> 'tags'</td></tr><tr><td> 'DCDC SMD TRACO TMR-1SM'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Converter_DCDC.3dshapes/Converter_DCDC_TRACO_TMR-1SM_SMD.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

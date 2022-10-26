@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKJSOLDERJ2OPEN > SolderJumper_2_Open
+# SZKJSOLDERJ2OPEN > Jumper : SolderJumper_2_Open
 
 - ID: SYMBOL-kicad-kicad-symbols-Jumper-SolderJumper_2_Open
 - Hex ID: SZKJSOLDERJ2OPEN
-- Name: SolderJumper_2_Open
-- Description: SolderJumper_2_Open
+- Name: Jumper : SolderJumper_2_Open
+- Description: Jumper : SolderJumper_2_Open
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Jumper-SolderJumper_2_Open](http://oom.lt/SYMBOL-kicad-kicad-symbols-Jumper-SolderJumper_2_Open)
 - Short Link: [http://oom.lt/SZKJSOLDERJ2OPEN](http://oom.lt/SZKJSOLDERJ2OPEN)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SolderJumper_2_Open|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Jumper-SolderJumper_2_Open|
 |Hex ID (short code)|hexID|SZKJSOLDERJ2OPEN|
-|name|name|SolderJumper_2_Open|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'JP', 'kicadSymbolValue': 'SolderJumper_2_Open', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'solder jumper SPST', 'kicadSymbolki_description': 'Solder Jumper, 2-pole, open', 'kicadSymbolki_fp_filters': 'SolderJumper*Open*'}]|
+|name|name|Jumper : SolderJumper_2_Open|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'JP'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'SolderJumper_2_Open'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'solder jumper SPST'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Solder Jumper</td><td> 2-pole</td><td> open'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SolderJumper*Open*'</td></tr></table>]|
 ||||

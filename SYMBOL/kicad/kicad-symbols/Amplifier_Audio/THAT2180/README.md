@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKAMPLIFIERAUDIOTHAT218 > THAT2180
+# SZKAMPLIFIERAUDIOTHAT218 > Amplifier_Audio : THAT2180
 
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Audio-THAT2180
 - Hex ID: SZKAMPLIFIERAUDIOTHAT218
-- Name: THAT2180
-- Description: THAT2180
+- Name: Amplifier_Audio : THAT2180
+- Description: Amplifier_Audio : THAT2180
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-THAT2180](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-THAT2180)
 - Short Link: [http://oom.lt/SZKAMPLIFIERAUDIOTHAT218](http://oom.lt/SZKAMPLIFIERAUDIOTHAT218)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|THAT2180|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Audio-THAT2180|
 |Hex ID (short code)|hexID|SZKAMPLIFIERAUDIOTHAT218|
-|name|name|THAT2180|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'THAT2180', 'kicadSymbolFootprint': 'Package_SIP:SIP-8_19x3mm_P2.54mm', 'kicadSymbolDatasheet': 'http://www.thatcorp.com/datashts/THAT_2180-Series_Datasheet.pdf', 'kicadSymbolki_keywords': 'audio vca', 'kicadSymbolki_description': 'Blackmer Pre-Trimmed IC Voltage Controlled Amplifiers, SIP-8', 'kicadSymbolki_fp_filters': 'SIP*19x3mm*P2.54mm*'}]|
+|name|name|Amplifier_Audio : THAT2180|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'THAT2180'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SIP</td></tr><tr><td>SIP-8_19x3mm_P2.54mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.thatcorp.com/datashts/THAT_2180-Series_Datasheet.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'audio vca'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Blackmer Pre-Trimmed IC Voltage Controlled Amplifiers</td><td> SIP-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SIP*19x3mm*P2.54mm*'</td></tr></table>]|
 ||||

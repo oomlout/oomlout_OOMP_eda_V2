@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Display-HDSM-441B_HDSM-443B|
 |Hex ID (short code)|hexID|FZKDIHDSM441BHDSM443B|
 |name|name|Display : HDSM-441B_HDSM-443B|
-|Footprint Kicad|footprintKicadDetails|{'name': 'HDSM-441B_HDSM-443B', 'description': '2 Digit 7 segemnt blue LED, right hand decimal, https://docs.broadcom.com/docs/AV02-1589EN', 'tags': '2 Digit 7 segment blue LED', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Display.3dshapes/HDSM-441B_HDSM-443B.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'HDSM-441B_HDSM-443B'</td><td> 'description'</td></tr><tr><td> '2 Digit 7 segemnt blue LED</td><td> right hand decimal</td><td> https</td></tr><tr><td>//docs.broadcom.com/docs/AV02-1589EN'</td><td> 'tags'</td></tr><tr><td> '2 Digit 7 segment blue LED'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Display.3dshapes/HDSM-441B_HDSM-443B.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

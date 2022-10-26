@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDEVICECSLL > C_Small
+# SZKDEVICECSLL > Device : C_Small
 
 - ID: SYMBOL-kicad-kicad-symbols-Device-C_Small
 - Hex ID: SZKDEVICECSLL
-- Name: C_Small
-- Description: C_Small
+- Name: Device : C_Small
+- Description: Device : C_Small
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-C_Small](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-C_Small)
 - Short Link: [http://oom.lt/SZKDEVICECSLL](http://oom.lt/SZKDEVICECSLL)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|C_Small|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-C_Small|
 |Hex ID (short code)|hexID|SZKDEVICECSLL|
-|name|name|C_Small|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'C', 'kicadSymbolValue': 'C_Small', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'capacitor cap', 'kicadSymbolki_description': 'Unpolarized capacitor, small symbol', 'kicadSymbolki_fp_filters': 'C_*'}]|
+|name|name|Device : C_Small|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'C'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'C_Small'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'capacitor cap'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Unpolarized capacitor</td><td> small symbol'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'C_*'</td></tr></table>]|
 ||||

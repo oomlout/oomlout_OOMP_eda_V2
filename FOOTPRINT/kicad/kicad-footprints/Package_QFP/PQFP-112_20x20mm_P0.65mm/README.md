@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_QFP-PQFP-112_20x20mm_P0.65mm|
 |Hex ID (short code)|hexID|FZKQFPPQFP1122X2P65|
 |name|name|Package_QFP : PQFP-112_20x20mm_P0.65mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'PQFP-112_20x20mm_P0.65mm', 'description': 'PQFP, 112 pins, 20mm sq body, 0.65mm pitch (http://cache.freescale.com/files/shared/doc/package_info/98ASS23330W.pdf, http://www.nxp.com/docs/en/application-note/AN4388.pdf)', 'tags': 'PQFP 112', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_QFP.3dshapes/PQFP-112_20x20mm_P0.65mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'PQFP-112_20x20mm_P0.65mm'</td><td> 'description'</td></tr><tr><td> 'PQFP</td><td> 112 pins</td><td> 20mm sq body</td><td> 0.65mm pitch (http</td></tr><tr><td>//cache.freescale.com/files/shared/doc/package_info/98ASS23330W.pdf</td><td> http</td></tr><tr><td>//www.nxp.com/docs/en/application-note/AN4388.pdf)'</td><td> 'tags'</td></tr><tr><td> 'PQFP 112'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_QFP.3dshapes/PQFP-112_20x20mm_P0.65mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

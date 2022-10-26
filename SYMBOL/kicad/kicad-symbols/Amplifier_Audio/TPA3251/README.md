@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKAMPLIFIERAUDIOTPA3251 > TPA3251
+# SZKAMPLIFIERAUDIOTPA3251 > Amplifier_Audio : TPA3251
 
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Audio-TPA3251
 - Hex ID: SZKAMPLIFIERAUDIOTPA3251
-- Name: TPA3251
-- Description: TPA3251
+- Name: Amplifier_Audio : TPA3251
+- Description: Amplifier_Audio : TPA3251
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-TPA3251](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-TPA3251)
 - Short Link: [http://oom.lt/SZKAMPLIFIERAUDIOTPA3251](http://oom.lt/SZKAMPLIFIERAUDIOTPA3251)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TPA3251|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Audio-TPA3251|
 |Hex ID (short code)|hexID|SZKAMPLIFIERAUDIOTPA3251|
-|name|name|TPA3251|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TPA3251', 'kicadSymbolFootprint': 'Package_SO:HTSSOP-44_6.1x14mm_P0.635mm_TopEP4.14x7.01mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tpa3251.pdf', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'stereo class d amplifier', 'kicadSymbolki_description': '175-W Stereo, 350-W Mono PurePath Ultra-HD Analog-Input Class-D Amplifier, HTSSOP-44', 'kicadSymbolki_fp_filters': 'HTSSOP*6.1x14mm*P0.635mm*'}]|
+|name|name|Amplifier_Audio : TPA3251|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TPA3251'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>HTSSOP-44_6.1x14mm_P0.635mm_TopEP4.14x7.01mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/tpa3251.pdf'</td><td> 'kicadSymbolki_locked'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'stereo class d amplifier'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '175-W Stereo</td><td> 350-W Mono PurePath Ultra-HD Analog-Input Class-D Amplifier</td><td> HTSSOP-44'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'HTSSOP*6.1x14mm*P0.635mm*'</td></tr></table>]|
 ||||

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Module-Adafruit_Feather_WICED_WithMountingHoles|
 |Hex ID (short code)|hexID|FZKMOADAFEATHERWICEDWITOUNTINGH|
 |name|name|Module : Adafruit_Feather_WICED_WithMountingHoles|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Adafruit_Feather_WICED_WithMountingHoles', 'description': 'Footprint for the Adafruit Feather WICED Wifi board, https://learn.adafruit.com/introducing-the-adafruit-wiced-feather-wifi', 'tags': 'Adafruit Feather WICED Wifi', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Module.3dshapes/Adafruit_Feather_WICED.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Adafruit_Feather_WICED_WithMountingHoles'</td><td> 'description'</td></tr><tr><td> 'Footprint for the Adafruit Feather WICED Wifi board</td><td> https</td></tr><tr><td>//learn.adafruit.com/introducing-the-adafruit-wiced-feather-wifi'</td><td> 'tags'</td></tr><tr><td> 'Adafruit Feather WICED Wifi'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Module.3dshapes/Adafruit_Feather_WICED.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

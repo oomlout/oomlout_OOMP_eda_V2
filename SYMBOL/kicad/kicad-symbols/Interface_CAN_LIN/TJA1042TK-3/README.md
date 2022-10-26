@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKINTERFACECANLINTJA142TK3 > TJA1042TK-3
+# SZKINTERFACECANLINTJA142TK3 > Interface_CAN_LIN : TJA1042TK-3
 
 - ID: SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-TJA1042TK-3
 - Hex ID: SZKINTERFACECANLINTJA142TK3
-- Name: TJA1042TK-3
-- Description: TJA1042TK-3
+- Name: Interface_CAN_LIN : TJA1042TK-3
+- Description: Interface_CAN_LIN : TJA1042TK-3
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-TJA1042TK-3](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-TJA1042TK-3)
 - Short Link: [http://oom.lt/SZKINTERFACECANLINTJA142TK3](http://oom.lt/SZKINTERFACECANLINTJA142TK3)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TJA1042TK-3|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-TJA1042TK-3|
 |Hex ID (short code)|hexID|SZKINTERFACECANLINTJA142TK3|
-|name|name|TJA1042TK-3|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TJA1049TK-3', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TJA1042TK-3', 'kicadSymbolFootprint': 'Package_DFN_QFN:DFN-8-1EP_3x3mm_P0.65mm_EP1.55x2.4mm', 'kicadSymbolDatasheet': 'http://www.nxp.com/documents/data_sheet/TJA1042.pdf', 'kicadSymbolki_keywords': 'High-Speed CAN Transceiver HVSON-8', 'kicadSymbolki_description': 'High-Speed CAN Transceiver, separate VIO, standby mode, DFN-8-1EP', 'kicadSymbolki_fp_filters': 'DFN*1EP*3x3mm*P0.65mm* HVSON*'}]|
+|name|name|Interface_CAN_LIN : TJA1042TK-3|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'TJA1049TK-3'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TJA1042TK-3'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>DFN-8-1EP_3x3mm_P0.65mm_EP1.55x2.4mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.nxp.com/documents/data_sheet/TJA1042.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'High-Speed CAN Transceiver HVSON-8'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'High-Speed CAN Transceiver</td><td> separate VIO</td><td> standby mode</td><td> DFN-8-1EP'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DFN*1EP*3x3mm*P0.65mm* HVSON*'</td></tr></table>]|
 ||||

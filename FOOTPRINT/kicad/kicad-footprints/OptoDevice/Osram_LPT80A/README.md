@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-OptoDevice-Osram_LPT80A|
 |Hex ID (short code)|hexID|FZKOPOSRAMLPT8A|
 |name|name|OptoDevice : Osram_LPT80A|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Osram_LPT80A', 'description': 'PhotoTransistor, sidelooker package, RM2.54', 'tags': 'PhotoTransistor sidelooker package RM2.54', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/Osram_LPT80A.wrl', 'pins': {'type': 'thru_hole', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Osram_LPT80A'</td><td> 'description'</td></tr><tr><td> 'PhotoTransistor</td><td> sidelooker package</td><td> RM2.54'</td><td> 'tags'</td></tr><tr><td> 'PhotoTransistor sidelooker package RM2.54'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/OptoDevice.3dshapes/Osram_LPT80A.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

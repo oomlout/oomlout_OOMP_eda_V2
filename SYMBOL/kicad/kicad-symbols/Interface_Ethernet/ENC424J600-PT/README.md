@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKINTERFACEETHERNETENC424J6PT > ENC424J600-PT
+# SZKINTERFACEETHERNETENC424J6PT > Interface_Ethernet : ENC424J600-PT
 
 - ID: SYMBOL-kicad-kicad-symbols-Interface_Ethernet-ENC424J600-PT
 - Hex ID: SZKINTERFACEETHERNETENC424J6PT
-- Name: ENC424J600-PT
-- Description: ENC424J600-PT
+- Name: Interface_Ethernet : ENC424J600-PT
+- Description: Interface_Ethernet : ENC424J600-PT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Ethernet-ENC424J600-PT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Ethernet-ENC424J600-PT)
 - Short Link: [http://oom.lt/SZKINTERFACEETHERNETENC424J6PT](http://oom.lt/SZKINTERFACEETHERNETENC424J6PT)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ENC424J600-PT|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_Ethernet-ENC424J600-PT|
 |Hex ID (short code)|hexID|SZKINTERFACEETHERNETENC424J6PT|
-|name|name|ENC424J600-PT|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ENC424J600-PT', 'kicadSymbolFootprint': 'Package_QFP:TQFP-44_10x10mm_P0.8mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/39935c.pdf', 'kicadSymbolki_keywords': 'ENC Ethernet', 'kicadSymbolki_description': 'Stand-Alone 10/100 Ethernet Controller with SPI or Parallel Interface, TQFP-44', 'kicadSymbolki_fp_filters': 'TQFP*44*10x10mm*P0.8mm*'}]|
+|name|name|Interface_Ethernet : ENC424J600-PT|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ENC424J600-PT'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_QFP</td></tr><tr><td>TQFP-44_10x10mm_P0.8mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/39935c.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'ENC Ethernet'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Stand-Alone 10/100 Ethernet Controller with SPI or Parallel Interface</td><td> TQFP-44'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TQFP*44*10x10mm*P0.8mm*'</td></tr></table>]|
 ||||

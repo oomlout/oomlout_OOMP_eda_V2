@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-DFN-8-1EP_2x2mm_P0.5mm_EP0.7x1.3mm|
 |Hex ID (short code)|hexID|FZKDFNDFN81EP2X2P5EP7X13|
 |name|name|Package_DFN_QFN : DFN-8-1EP_2x2mm_P0.5mm_EP0.7x1.3mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'DFN-8-1EP_2x2mm_P0.5mm_EP0.7x1.3mm', 'description': 'DFN, 8 Pin (https://www.onsemi.com/pub/Collateral/NUF4401MN-D.PDF#page=6), generated with kicad-footprint-generator ipc_noLead_generator.py', 'tags': 'DFN NoLead', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/DFN-8-1EP_2x2mm_P0.5mm_EP0.7x1.3mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'DFN-8-1EP_2x2mm_P0.5mm_EP0.7x1.3mm'</td><td> 'description'</td></tr><tr><td> 'DFN</td><td> 8 Pin (https</td></tr><tr><td>//www.onsemi.com/pub/Collateral/NUF4401MN-D.PDF#page=6)</td><td> generated with kicad-footprint-generator ipc_noLead_generator.py'</td><td> 'tags'</td></tr><tr><td> 'DFN NoLead'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DFN_QFN.3dshapes/DFN-8-1EP_2x2mm_P0.5mm_EP0.7x1.3mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

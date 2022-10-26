@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-220-8_Vertical|
 |Hex ID (short code)|hexID|FZKSOTTO228VERTICAL|
 |name|name|Package_TO_SOT_THT : TO-220-8_Vertical|
-|Footprint Kicad|footprintKicadDetails|{'name': 'TO-220-8_Vertical', 'description': 'TO-220-8 (Multiwatt8), Vertical, 2.54mm Pitch (http://www.st.com/resource/en/datasheet/tda7264.pdf)', 'tags': 'TO-220-9 Vertical 2.54mm Pitch Multiwatt 8', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/TO-220-8_Vertical.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'TO-220-8_Vertical'</td><td> 'description'</td></tr><tr><td> 'TO-220-8 (Multiwatt8)</td><td> Vertical</td><td> 2.54mm Pitch (http</td></tr><tr><td>//www.st.com/resource/en/datasheet/tda7264.pdf)'</td><td> 'tags'</td></tr><tr><td> 'TO-220-9 Vertical 2.54mm Pitch Multiwatt 8'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_TO_SOT_THT.3dshapes/TO-220-8_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

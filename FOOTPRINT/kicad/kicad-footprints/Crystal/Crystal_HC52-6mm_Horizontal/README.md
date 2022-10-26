@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_HC52-6mm_Horizontal|
 |Hex ID (short code)|hexID|FZKXXHC526HORIZONTAL|
 |name|name|Crystal : Crystal_HC52-6mm_Horizontal|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Crystal_HC52-6mm_Horizontal', 'description': 'Crystal THT HC-51/6mm http://www.kvg-gmbh.de/assets/uploads/files/product_pdfs/XS71xx.pdf', 'tags': 'THT crystal', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Crystal_HC52-6mm_Horizontal.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Crystal_HC52-6mm_Horizontal'</td><td> 'description'</td></tr><tr><td> 'Crystal THT HC-51/6mm http</td></tr><tr><td>//www.kvg-gmbh.de/assets/uploads/files/product_pdfs/XS71xx.pdf'</td><td> 'tags'</td></tr><tr><td> 'THT crystal'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Crystal.3dshapes/Crystal_HC52-6mm_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

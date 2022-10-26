@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKAMPLIFIERCURRENTINA284 > INA284
+# SZKAMPLIFIERCURRENTINA284 > Amplifier_Current : INA284
 
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Current-INA284
 - Hex ID: SZKAMPLIFIERCURRENTINA284
-- Name: INA284
-- Description: INA284
+- Name: Amplifier_Current : INA284
+- Description: Amplifier_Current : INA284
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Current-INA284](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Current-INA284)
 - Short Link: [http://oom.lt/SZKAMPLIFIERCURRENTINA284](http://oom.lt/SZKAMPLIFIERCURRENTINA284)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|INA284|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Current-INA284|
 |Hex ID (short code)|hexID|SZKAMPLIFIERCURRENTINA284|
-|name|name|INA284|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'INA282', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'INA284', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/ina282.pdf', 'kicadSymbolki_keywords': 'current monitor shunt sensor bidirectional', 'kicadSymbolki_description': 'High-Accuracy, Wide Common-Mode Range, Bidirectional Current Shunt Monitors, Zero-Drift Series, 500V/V, SOIC-8/VSSOP-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm* MSOP*3x3mm*P0.65mm*'}]|
+|name|name|Amplifier_Current : INA284|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'INA282'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'INA284'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/ina282.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'current monitor shunt sensor bidirectional'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'High-Accuracy</td><td> Wide Common-Mode Range</td><td> Bidirectional Current Shunt Monitors</td><td> Zero-Drift Series</td><td> 500V/V</td><td> SOIC-8/VSSOP-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*3.9x4.9mm*P1.27mm* MSOP*3x3mm*P0.65mm*'</td></tr></table>]|
 ||||

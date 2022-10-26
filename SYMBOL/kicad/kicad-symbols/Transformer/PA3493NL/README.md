@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRPA3493NL > PA3493NL
+# SZKTRPA3493NL > Transformer : PA3493NL
 
 - ID: SYMBOL-kicad-kicad-symbols-Transformer-PA3493NL
 - Hex ID: SZKTRPA3493NL
-- Name: PA3493NL
-- Description: PA3493NL
+- Name: Transformer : PA3493NL
+- Description: Transformer : PA3493NL
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-PA3493NL](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-PA3493NL)
 - Short Link: [http://oom.lt/SZKTRPA3493NL](http://oom.lt/SZKTRPA3493NL)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PA3493NL|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transformer-PA3493NL|
 |Hex ID (short code)|hexID|SZKTRPA3493NL|
-|name|name|PA3493NL|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'T', 'kicadSymbolValue': 'PA3493NL', 'kicadSymbolFootprint': 'Transformer_SMD:Pulse_PA3493NL', 'kicadSymbolDatasheet': 'https://productfinder.pulseeng.com/products/datasheets/SPM2007_61.pdf', 'kicadSymbolki_keywords': 'pulse', 'kicadSymbolki_description': 'SMT Gate Drive Transformer, 1.25:1', 'kicadSymbolki_fp_filters': 'Pulse*PA3493NL*'}]|
+|name|name|Transformer : PA3493NL|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'T'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'PA3493NL'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Transformer_SMD</td></tr><tr><td>Pulse_PA3493NL'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//productfinder.pulseeng.com/products/datasheets/SPM2007_61.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'pulse'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'SMT Gate Drive Transformer</td><td> 1.25</td></tr><tr><td>1'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Pulse*PA3493NL*'</td></tr></table>]|
 ||||

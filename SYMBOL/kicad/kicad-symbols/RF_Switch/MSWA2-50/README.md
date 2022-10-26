@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKRFSWITCHMSWA25 > MSWA2-50
+# SZKRFSWITCHMSWA25 > RF_Switch : MSWA2-50
 
 - ID: SYMBOL-kicad-kicad-symbols-RF_Switch-MSWA2-50
 - Hex ID: SZKRFSWITCHMSWA25
-- Name: MSWA2-50
-- Description: MSWA2-50
+- Name: RF_Switch : MSWA2-50
+- Description: RF_Switch : MSWA2-50
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Switch-MSWA2-50](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Switch-MSWA2-50)
 - Short Link: [http://oom.lt/SZKRFSWITCHMSWA25](http://oom.lt/SZKRFSWITCHMSWA25)
   
@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|MSWA2-50|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-RF_Switch-MSWA2-50|
 |Hex ID (short code)|hexID|SZKRFSWITCHMSWA25|
-|name|name|MSWA2-50|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MSWA2-50', 'kicadSymbolFootprint': 'Package_DFN_QFN:QFN-12-1EP_3x3mm_P0.51mm_EP1.45x1.45mm', 'kicadSymbolDatasheet': 'https://www.minicircuits.com/pdfs/MSWA2-50+.pdf', 'kicadSymbolki_keywords': 'RF SPDT switch', 'kicadSymbolki_description': 'SPDT DC-5.0GHz absorbative switch, 50 Ohm, QFN-12', 'kicadSymbolki_fp_filters': 'QFN*1EP*3x3mm*P0.51mm*'}]|
+|name|name|RF_Switch : MSWA2-50|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MSWA2-50'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>QFN-12-1EP_3x3mm_P0.51mm_EP1.45x1.45mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.minicircuits.com/pdfs/MSWA2-50+.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'RF SPDT switch'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'SPDT DC-5.0GHz absorbative switch</td><td> 50 Ohm</td><td> QFN-12'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'QFN*1EP*3x3mm*P0.51mm*'</td></tr></table>]|
 ||||

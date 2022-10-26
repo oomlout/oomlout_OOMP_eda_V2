@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORPOWERMOSTGIPS1K6A2 > STGIPS10K60A2
+# SZKTRANSISTORPOWERMOSTGIPS1K6A2 > Transistor_Power_Module : STGIPS10K60A2
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_Power_Module-STGIPS10K60A2
 - Hex ID: SZKTRANSISTORPOWERMOSTGIPS1K6A2
-- Name: STGIPS10K60A2
-- Description: STGIPS10K60A2
+- Name: Transistor_Power_Module : STGIPS10K60A2
+- Description: Transistor_Power_Module : STGIPS10K60A2
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_Power_Module-STGIPS10K60A2](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_Power_Module-STGIPS10K60A2)
 - Short Link: [http://oom.lt/SZKTRANSISTORPOWERMOSTGIPS1K6A2](http://oom.lt/SZKTRANSISTORPOWERMOSTGIPS1K6A2)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|STGIPS10K60A2|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_Power_Module-STGIPS10K60A2|
 |Hex ID (short code)|hexID|SZKTRANSISTORPOWERMOSTGIPS1K6A2|
-|name|name|STGIPS10K60A2|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'STGIPS10K60A', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'STGIPS10K60A2', 'kicadSymbolFootprint': 'Transistor_Power_Module:ST_SDIP-25L', 'kicadSymbolDatasheet': 'https://www.st.com/resource/en/datasheet/stgips10k60a2.pdf', 'kicadSymbolki_keywords': 'SLLIMM IPM inverter short-circuit rugged IGBT', 'kicadSymbolki_description': '10 A, 600 V, 20KHz, 33Wx6, 3-phase, Control Logic, Positive Input , Freewheeling Diodes, Undervoltage Lockout, Interlocking, 4k7 NTC, SDIP-25L', 'kicadSymbolki_fp_filters': 'ST*SDIP*'}]|
+|name|name|Transistor_Power_Module : STGIPS10K60A2|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'STGIPS10K60A'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'STGIPS10K60A2'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Transistor_Power_Module</td></tr><tr><td>ST_SDIP-25L'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.st.com/resource/en/datasheet/stgips10k60a2.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'SLLIMM IPM inverter short-circuit rugged IGBT'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '10 A</td><td> 600 V</td><td> 20KHz</td><td> 33Wx6</td><td> 3-phase</td><td> Control Logic</td><td> Positive Input </td><td> Freewheeling Diodes</td><td> Undervoltage Lockout</td><td> Interlocking</td><td> 4k7 NTC</td><td> SDIP-25L'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'ST*SDIP*'</td></tr></table>]|
 ||||

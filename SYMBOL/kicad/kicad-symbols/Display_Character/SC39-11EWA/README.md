@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDICHARACTERSC3911EWA > SC39-11EWA
+# SZKDICHARACTERSC3911EWA > Display_Character : SC39-11EWA
 
 - ID: SYMBOL-kicad-kicad-symbols-Display_Character-SC39-11EWA
 - Hex ID: SZKDICHARACTERSC3911EWA
-- Name: SC39-11EWA
-- Description: SC39-11EWA
+- Name: Display_Character : SC39-11EWA
+- Description: Display_Character : SC39-11EWA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-SC39-11EWA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-SC39-11EWA)
 - Short Link: [http://oom.lt/SZKDICHARACTERSC3911EWA](http://oom.lt/SZKDICHARACTERSC3911EWA)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SC39-11EWA|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Display_Character-SC39-11EWA|
 |Hex ID (short code)|hexID|SZKDICHARACTERSC3911EWA|
-|name|name|SC39-11EWA|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'SC39-11EWA', 'kicadSymbolFootprint': 'Display_7Segment:Sx39-1xxxxx', 'kicadSymbolDatasheet': 'http://www.kingbrightusa.com/images/catalog/SPEC/sc39-11ewa.pdf', 'kicadSymbolki_keywords': 'display LED 7-segment', 'kicadSymbolki_description': 'Single digit 7 segment display, high efficiency red, common cathode', 'kicadSymbolki_fp_filters': 'S?39?1*'}]|
+|name|name|Display_Character : SC39-11EWA|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'SC39-11EWA'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Display_7Segment</td></tr><tr><td>Sx39-1xxxxx'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.kingbrightusa.com/images/catalog/SPEC/sc39-11ewa.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'display LED 7-segment'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Single digit 7 segment display</td><td> high efficiency red</td><td> common cathode'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'S?39?1*'</td></tr></table>]|
 ||||

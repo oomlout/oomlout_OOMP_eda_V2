@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Vishay_IHLP-6767|
 |Hex ID (short code)|hexID|FZKINDUCTORSMLVISHAYIHLP6767|
 |name|name|Inductor_SMD : L_Vishay_IHLP-6767|
-|Footprint Kicad|footprintKicadDetails|{'name': 'L_Vishay_IHLP-6767', 'description': 'Inductor, Vishay, IHLP series, 17.0mmx17.0mm', 'tags': 'inductor vishay ihlp smd', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Vishay_IHLP-6767.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'L_Vishay_IHLP-6767'</td><td> 'description'</td></tr><tr><td> 'Inductor</td><td> Vishay</td><td> IHLP series</td><td> 17.0mmx17.0mm'</td><td> 'tags'</td></tr><tr><td> 'inductor vishay ihlp smd'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Inductor_SMD.3dshapes/L_Vishay_IHLP-6767.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

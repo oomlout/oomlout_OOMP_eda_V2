@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Mounting_Wuerth-Mounting_Wuerth_WA-SMSE-ExternalM3_H15mm_9771150360|
 |Hex ID (short code)|hexID|FZKMONMONWASMSEEXTERNALM3H1597711536|
 |name|name|Mounting_Wuerth : Mounting_Wuerth_WA-SMSE-ExternalM3_H15mm_9771150360|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Mounting_Wuerth_WA-SMSE-ExternalM3_H15mm_9771150360', 'description': 'Mounting Hardware, external M3, height 15, Wuerth electronics 9771150360 (https://katalog.we-online.com/em/datasheet/9771150360.pdf), generated with kicad-footprint-generator', 'tags': 'Mounting M3 9771150360', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Mounting_Wuerth.3dshapes/Mounting_Wuerth_WA-SMSE-ExternalM3_H15mm_9771150360.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Mounting_Wuerth_WA-SMSE-ExternalM3_H15mm_9771150360'</td><td> 'description'</td></tr><tr><td> 'Mounting Hardware</td><td> external M3</td><td> height 15</td><td> Wuerth electronics 9771150360 (https</td></tr><tr><td>//katalog.we-online.com/em/datasheet/9771150360.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'Mounting M3 9771150360'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Mounting_Wuerth.3dshapes/Mounting_Wuerth_WA-SMSE-ExternalM3_H15mm_9771150360.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

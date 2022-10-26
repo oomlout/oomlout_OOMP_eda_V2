@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKSENCURRENTCQ26A > CQ-206A
+# SZKSENCURRENTCQ26A > Sensor_Current : CQ-206A
 
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Current-CQ-206A
 - Hex ID: SZKSENCURRENTCQ26A
-- Name: CQ-206A
-- Description: CQ-206A
+- Name: Sensor_Current : CQ-206A
+- Description: Sensor_Current : CQ-206A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-CQ-206A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-CQ-206A)
 - Short Link: [http://oom.lt/SZKSENCURRENTCQ26A](http://oom.lt/SZKSENCURRENTCQ26A)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|CQ-206A|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Current-CQ-206A|
 |Hex ID (short code)|hexID|SZKSENCURRENTCQ26A|
-|name|name|CQ-206A|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'CQ-2063', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'CQ-206A', 'kicadSymbolFootprint': 'Sensor_Current:AKM_CQ_7', 'kicadSymbolDatasheet': 'http://www.akm.com/akm/en/file/datasheet/CQ-206A.pdf', 'kicadSymbolki_keywords': 'hall effect current sensor', 'kicadSymbolki_description': 'High-Speed Small-Sized Current Sensor, Bidirectional, -46A to +46A, 45mV/A, CQ-7', 'kicadSymbolki_fp_filters': 'AKM*CQ*'}]|
+|name|name|Sensor_Current : CQ-206A|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'CQ-2063'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'CQ-206A'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Sensor_Current</td></tr><tr><td>AKM_CQ_7'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.akm.com/akm/en/file/datasheet/CQ-206A.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'hall effect current sensor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'High-Speed Small-Sized Current Sensor</td><td> Bidirectional</td><td> -46A to +46A</td><td> 45mV/A</td><td> CQ-7'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'AKM*CQ*'</td></tr></table>]|
 ||||

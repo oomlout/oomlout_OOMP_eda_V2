@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKPOWERMANAGEMENTBTS6142D > BTS6142D
+# SZKPOWERMANAGEMENTBTS6142D > Power_Management : BTS6142D
 
 - ID: SYMBOL-kicad-kicad-symbols-Power_Management-BTS6142D
 - Hex ID: SZKPOWERMANAGEMENTBTS6142D
-- Name: BTS6142D
-- Description: BTS6142D
+- Name: Power_Management : BTS6142D
+- Description: Power_Management : BTS6142D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-BTS6142D](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-BTS6142D)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTBTS6142D](http://oom.lt/SZKPOWERMANAGEMENTBTS6142D)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BTS6142D|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Management-BTS6142D|
 |Hex ID (short code)|hexID|SZKPOWERMANAGEMENTBTS6142D|
-|name|name|BTS6142D|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BTS50080-1TEA', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'BTS6142D', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TO-252-4', 'kicadSymbolDatasheet': 'http://www.infineon.com/dgdl/Infineon-BTS6142D-DS-v01_01-EN.pdf?fileId=5546d4625a888733015aa3da1e0e1026', 'kicadSymbolki_keywords': 'infineon power switch', 'kicadSymbolki_description': 'Smart High-Side Power Switch, PROFET, Single, 12mOhm, 7A, 24V, TO252-5', 'kicadSymbolki_fp_filters': 'TO*252*'}]|
+|name|name|Power_Management : BTS6142D|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'BTS50080-1TEA'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'BTS6142D'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>TO-252-4'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.infineon.com/dgdl/Infineon-BTS6142D-DS-v01_01-EN.pdf?fileId=5546d4625a888733015aa3da1e0e1026'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'infineon power switch'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Smart High-Side Power Switch</td><td> PROFET</td><td> Single</td><td> 12mOhm</td><td> 7A</td><td> 24V</td><td> TO252-5'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TO*252*'</td></tr></table>]|
 ||||

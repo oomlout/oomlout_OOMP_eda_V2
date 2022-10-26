@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDEVICEROTARYENCODERSWITCH > RotaryEncoder_Switch
+# SZKDEVICEROTARYENCODERSWITCH > Device : RotaryEncoder_Switch
 
 - ID: SYMBOL-kicad-kicad-symbols-Device-RotaryEncoder_Switch
 - Hex ID: SZKDEVICEROTARYENCODERSWITCH
-- Name: RotaryEncoder_Switch
-- Description: RotaryEncoder_Switch
+- Name: Device : RotaryEncoder_Switch
+- Description: Device : RotaryEncoder_Switch
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-RotaryEncoder_Switch](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-RotaryEncoder_Switch)
 - Short Link: [http://oom.lt/SZKDEVICEROTARYENCODERSWITCH](http://oom.lt/SZKDEVICEROTARYENCODERSWITCH)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|RotaryEncoder_Switch|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-RotaryEncoder_Switch|
 |Hex ID (short code)|hexID|SZKDEVICEROTARYENCODERSWITCH|
-|name|name|RotaryEncoder_Switch|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'SW', 'kicadSymbolValue': 'RotaryEncoder_Switch', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'rotary switch encoder switch push button', 'kicadSymbolki_description': 'Rotary encoder, dual channel, incremental quadrate outputs, with switch', 'kicadSymbolki_fp_filters': 'RotaryEncoder*Switch*'}]|
+|name|name|Device : RotaryEncoder_Switch|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'SW'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'RotaryEncoder_Switch'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'rotary switch encoder switch push button'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Rotary encoder</td><td> dual channel</td><td> incremental quadrate outputs</td><td> with switch'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'RotaryEncoder*Switch*'</td></tr></table>]|
 ||||

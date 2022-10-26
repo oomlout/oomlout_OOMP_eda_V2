@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUNXPS8MC9S8DZ6XLC > MC9S08DZ60xLC
+# SZKMCUNXPS8MC9S8DZ6XLC > MCU_NXP_S08 : MC9S08DZ60xLC
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_NXP_S08-MC9S08DZ60xLC
 - Hex ID: SZKMCUNXPS8MC9S8DZ6XLC
-- Name: MC9S08DZ60xLC
-- Description: MC9S08DZ60xLC
+- Name: MCU_NXP_S08 : MC9S08DZ60xLC
+- Description: MCU_NXP_S08 : MC9S08DZ60xLC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_S08-MC9S08DZ60xLC](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_S08-MC9S08DZ60xLC)
 - Short Link: [http://oom.lt/SZKMCUNXPS8MC9S8DZ6XLC](http://oom.lt/SZKMCUNXPS8MC9S8DZ6XLC)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MC9S08DZ60xLC|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_NXP_S08-MC9S08DZ60xLC|
 |Hex ID (short code)|hexID|SZKMCUNXPS8MC9S8DZ6XLC|
-|name|name|MC9S08DZ60xLC|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'IC', 'kicadSymbolValue': 'MC9S08DZ60xLC', 'kicadSymbolFootprint': 'Package_QFP:LQFP-32_7x7mm_P0.8mm', 'kicadSymbolDatasheet': 'http://cache.nxp.com/files/microcontrollers/doc/data_sheet/MC9S08DZ60.pdf', 'kicadSymbolki_keywords': 'NXP S08 Microcontroller', 'kicadSymbolki_description': '8-bit Cost-Effective Microcontroller, S08 core, 60kB Flash, 4kB RAM, 2kB EEPROM, LQFP-32', 'kicadSymbolki_fp_filters': 'LQFP*7x7mm*P0.8mm*'}]|
+|name|name|MCU_NXP_S08 : MC9S08DZ60xLC|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'IC'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MC9S08DZ60xLC'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_QFP</td></tr><tr><td>LQFP-32_7x7mm_P0.8mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//cache.nxp.com/files/microcontrollers/doc/data_sheet/MC9S08DZ60.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'NXP S08 Microcontroller'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '8-bit Cost-Effective Microcontroller</td><td> S08 core</td><td> 60kB Flash</td><td> 4kB RAM</td><td> 2kB EEPROM</td><td> LQFP-32'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'LQFP*7x7mm*P0.8mm*'</td></tr></table>]|
 ||||

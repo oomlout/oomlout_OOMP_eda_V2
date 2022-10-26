@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_TXC_AX_8045-2Pin_8.0x4.5mm|
 |Hex ID (short code)|hexID|FZKXXSMTXCAX8452PIN8X45|
 |name|name|Crystal : Crystal_SMD_TXC_AX_8045-2Pin_8.0x4.5mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Crystal_SMD_TXC_AX_8045-2Pin_8.0x4.5mm', 'description': 'http://www.txccrystal.com/images/pdf/ax-automotive.pdf', 'tags': 'SMD SMT crystal', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Crystal_SMD_TXC_AX_8045-2Pin_8.0x4.5mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Crystal_SMD_TXC_AX_8045-2Pin_8.0x4.5mm'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//www.txccrystal.com/images/pdf/ax-automotive.pdf'</td><td> 'tags'</td></tr><tr><td> 'SMD SMT crystal'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Crystal.3dshapes/Crystal_SMD_TXC_AX_8045-2Pin_8.0x4.5mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

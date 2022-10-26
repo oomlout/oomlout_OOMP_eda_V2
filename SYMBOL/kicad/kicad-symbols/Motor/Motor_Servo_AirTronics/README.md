@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMOTORMOTORSERVOAIRTRONICS > Motor_Servo_AirTronics
+# SZKMOTORMOTORSERVOAIRTRONICS > Motor : Motor_Servo_AirTronics
 
 - ID: SYMBOL-kicad-kicad-symbols-Motor-Motor_Servo_AirTronics
 - Hex ID: SZKMOTORMOTORSERVOAIRTRONICS
-- Name: Motor_Servo_AirTronics
-- Description: Motor_Servo_AirTronics
+- Name: Motor : Motor_Servo_AirTronics
+- Description: Motor : Motor_Servo_AirTronics
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Motor-Motor_Servo_AirTronics](http://oom.lt/SYMBOL-kicad-kicad-symbols-Motor-Motor_Servo_AirTronics)
 - Short Link: [http://oom.lt/SZKMOTORMOTORSERVOAIRTRONICS](http://oom.lt/SZKMOTORMOTORSERVOAIRTRONICS)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Motor_Servo_AirTronics|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Motor-Motor_Servo_AirTronics|
 |Hex ID (short code)|hexID|SZKMOTORMOTORSERVOAIRTRONICS|
-|name|name|Motor_Servo_AirTronics|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'M', 'kicadSymbolValue': 'Motor_Servo_AirTronics', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://forums.parallax.com/uploads/attachments/46831/74481.png', 'kicadSymbolki_keywords': 'Servo Motor', 'kicadSymbolki_description': 'Servo Motor (AirTronics connector)', 'kicadSymbolki_fp_filters': 'PinHeader*P2.54mm*'}]|
+|name|name|Motor : Motor_Servo_AirTronics|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'M'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Motor_Servo_AirTronics'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//forums.parallax.com/uploads/attachments/46831/74481.png'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Servo Motor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Servo Motor (AirTronics connector)'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'PinHeader*P2.54mm*'</td></tr></table>]|
 ||||

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_SELF1418|
 |Hex ID (short code)|hexID|FZKINLSELF1418|
 |name|name|Inductor_THT : L_SELF1418|
-|Footprint Kicad|footprintKicadDetails|{'name': 'L_SELF1418', 'description': 'Self Ferrite 14 - 18', 'tags': 'SELF', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_THT.3dshapes/L_SELF1418.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'L_SELF1418'</td><td> 'description'</td></tr><tr><td> 'Self Ferrite 14 - 18'</td><td> 'tags'</td></tr><tr><td> 'SELF'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Inductor_THT.3dshapes/L_SELF1418.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

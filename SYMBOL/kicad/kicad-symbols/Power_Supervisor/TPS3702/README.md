@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKPOWERSUPERVISORTPS372 > TPS3702
+# SZKPOWERSUPERVISORTPS372 > Power_Supervisor : TPS3702
 
 - ID: SYMBOL-kicad-kicad-symbols-Power_Supervisor-TPS3702
 - Hex ID: SZKPOWERSUPERVISORTPS372
-- Name: TPS3702
-- Description: TPS3702
+- Name: Power_Supervisor : TPS3702
+- Description: Power_Supervisor : TPS3702
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Supervisor-TPS3702](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Supervisor-TPS3702)
 - Short Link: [http://oom.lt/SZKPOWERSUPERVISORTPS372](http://oom.lt/SZKPOWERSUPERVISORTPS372)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TPS3702|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Supervisor-TPS3702|
 |Hex ID (short code)|hexID|SZKPOWERSUPERVISORTPS372|
-|name|name|TPS3702|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TPS3702', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-6', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tps3702.pdf', 'kicadSymbolki_keywords': 'protection overvoltage unvervoltage monitor', 'kicadSymbolki_description': 'High-Accuracy, Overvoltage and Undervoltage Monitor, SOT-23-6', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
+|name|name|Power_Supervisor : TPS3702|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TPS3702'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-23-6'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/tps3702.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'protection overvoltage unvervoltage monitor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'High-Accuracy</td><td> Overvoltage and Undervoltage Monitor</td><td> SOT-23-6'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23*'</td></tr></table>]|
 ||||

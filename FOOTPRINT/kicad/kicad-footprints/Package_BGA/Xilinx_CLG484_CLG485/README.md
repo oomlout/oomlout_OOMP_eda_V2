@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_BGA-Xilinx_CLG484_CLG485|
 |Hex ID (short code)|hexID|FZKBGAXILINXCLG484CLG485|
 |name|name|Package_BGA : Xilinx_CLG484_CLG485|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Xilinx_CLG484_CLG485', 'description': 'Zynq-7000 BGA, 22x22 grid, 19x19mm package, 0.8mm pitch; https://www.xilinx.com/support/documentation/user_guides/ug865-Zynq-7000-Pkg-Pinout.pdf#page=79, NSMD pad definition Appendix A', 'tags': 'BGA 484 0.8 CLG484 CL484 CLG485 CL485', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/Xilinx_CLG484_CLG485.wrl', 'pins': {'type': 'smd', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Xilinx_CLG484_CLG485'</td><td> 'description'</td></tr><tr><td> 'Zynq-7000 BGA</td><td> 22x22 grid</td><td> 19x19mm package</td><td> 0.8mm pitch; https</td></tr><tr><td>//www.xilinx.com/support/documentation/user_guides/ug865-Zynq-7000-Pkg-Pinout.pdf#page=79</td><td> NSMD pad definition Appendix A'</td><td> 'tags'</td></tr><tr><td> 'BGA 484 0.8 CLG484 CL484 CLG485 CL485'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_BGA.3dshapes/Xilinx_CLG484_CLG485.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

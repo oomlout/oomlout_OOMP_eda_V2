@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-Heraeus_TO-92-2|
 |Hex ID (short code)|hexID|FZKSOTHERAEUSTO922|
 |name|name|Package_TO_SOT_THT : Heraeus_TO-92-2|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Heraeus_TO-92-2', 'description': 'TO-92 2-pin variant by Heraeus, drill 0.75mm (http://www.produktinfo.conrad.com/datenblaetter/175000-199999/181293-da-01-de-TO92_Temperatursensor_PT1000_32209225.pdf)', 'tags': 'to-92', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/Heraeus_TO-92-2.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Heraeus_TO-92-2'</td><td> 'description'</td></tr><tr><td> 'TO-92 2-pin variant by Heraeus</td><td> drill 0.75mm (http</td></tr><tr><td>//www.produktinfo.conrad.com/datenblaetter/175000-199999/181293-da-01-de-TO92_Temperatursensor_PT1000_32209225.pdf)'</td><td> 'tags'</td></tr><tr><td> 'to-92'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_TO_SOT_THT.3dshapes/Heraeus_TO-92-2.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

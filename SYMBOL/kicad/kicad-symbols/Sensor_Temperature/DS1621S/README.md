@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKSENTEMPERATUREDS1621S > DS1621S
+# SZKSENTEMPERATUREDS1621S > Sensor_Temperature : DS1621S
 
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Temperature-DS1621S
 - Hex ID: SZKSENTEMPERATUREDS1621S
-- Name: DS1621S
-- Description: DS1621S
+- Name: Sensor_Temperature : DS1621S
+- Description: Sensor_Temperature : DS1621S
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-DS1621S](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-DS1621S)
 - Short Link: [http://oom.lt/SZKSENTEMPERATUREDS1621S](http://oom.lt/SZKSENTEMPERATUREDS1621S)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DS1621S|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Temperature-DS1621S|
 |Hex ID (short code)|hexID|SZKSENTEMPERATUREDS1621S|
-|name|name|DS1621S|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'DS1621S', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm', 'kicadSymbolDatasheet': 'https://datasheets.maximintegrated.com/en/ds/DS1621.pdf', 'kicadSymbolki_keywords': 'OneWire 1-Wire 1Wire Maxim Dallas', 'kicadSymbolki_description': '1-Wire Digital Thermometer and Thermostat, SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm*'}]|
+|name|name|Sensor_Temperature : DS1621S|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'DS1621S'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-8_3.9x4.9mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//datasheets.maximintegrated.com/en/ds/DS1621.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'OneWire 1-Wire 1Wire Maxim Dallas'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '1-Wire Digital Thermometer and Thermostat</td><td> SOIC-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*3.9x4.9mm*P1.27mm*'</td></tr></table>]|
 ||||

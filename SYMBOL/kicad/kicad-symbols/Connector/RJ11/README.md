@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKCNRJ11 > RJ11
+# SZKCNRJ11 > Connector : RJ11
 
 - ID: SYMBOL-kicad-kicad-symbols-Connector-RJ11
 - Hex ID: SZKCNRJ11
-- Name: RJ11
-- Description: RJ11
+- Name: Connector : RJ11
+- Description: Connector : RJ11
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-RJ11](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-RJ11)
 - Short Link: [http://oom.lt/SZKCNRJ11](http://oom.lt/SZKCNRJ11)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|RJ11|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-RJ11|
 |Hex ID (short code)|hexID|SZKCNRJ11|
-|name|name|RJ11|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '6P2C', 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'RJ11', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': '6P2C RJ female connector', 'kicadSymbolki_description': 'RJ connector, 6P2C (6 positions 2 connected)', 'kicadSymbolki_fp_filters': '6P2C* RJ11*'}]|
+|name|name|Connector : RJ11|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> '6P2C'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'J'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'RJ11'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> '6P2C RJ female connector'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'RJ connector</td><td> 6P2C (6 positions 2 connected)'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> '6P2C* RJ11*'</td></tr></table>]|
 ||||

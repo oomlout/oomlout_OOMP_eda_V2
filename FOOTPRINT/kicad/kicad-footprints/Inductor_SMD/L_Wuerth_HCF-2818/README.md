@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Wuerth_HCF-2818|
 |Hex ID (short code)|hexID|FZKINDUCTORSMLWUERTHHCF2818|
 |name|name|Inductor_SMD : L_Wuerth_HCF-2818|
-|Footprint Kicad|footprintKicadDetails|{'name': 'L_Wuerth_HCF-2818', 'description': '7443640330, http://katalog.we-online.de/pbs/datasheet/7443640330.pdf', 'tags': 'inductor shielded wuerth hcf', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Wuerth_HCF-2818.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'L_Wuerth_HCF-2818'</td><td> 'description'</td></tr><tr><td> '7443640330</td><td> http</td></tr><tr><td>//katalog.we-online.de/pbs/datasheet/7443640330.pdf'</td><td> 'tags'</td></tr><tr><td> 'inductor shielded wuerth hcf'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Inductor_SMD.3dshapes/L_Wuerth_HCF-2818.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

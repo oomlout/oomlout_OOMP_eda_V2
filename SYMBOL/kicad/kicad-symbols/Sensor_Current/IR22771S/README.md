@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKSENCURRENTIR22771S > IR22771S
+# SZKSENCURRENTIR22771S > Sensor_Current : IR22771S
 
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Current-IR22771S
 - Hex ID: SZKSENCURRENTIR22771S
-- Name: IR22771S
-- Description: IR22771S
+- Name: Sensor_Current : IR22771S
+- Description: Sensor_Current : IR22771S
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-IR22771S](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-IR22771S)
 - Short Link: [http://oom.lt/SZKSENCURRENTIR22771S](http://oom.lt/SZKSENCURRENTIR22771S)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IR22771S|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Current-IR22771S|
 |Hex ID (short code)|hexID|SZKSENCURRENTIR22771S|
-|name|name|IR22771S|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'IR21771S', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'IR22771S', 'kicadSymbolFootprint': 'Package_SO:SOIC-16W_7.5x10.3mm_P1.27mm', 'kicadSymbolDatasheet': 'https://www.infineon.com/dgdl/ir21771s.pdf?fileId=5546d462533600a4015355c9222c16c8', 'kicadSymbolki_keywords': 'half bridge current sense', 'kicadSymbolki_description': 'Phase Current Sensor IC for AC Motor Control, PWM output, 1200V, SOIC-16W', 'kicadSymbolki_fp_filters': 'SOIC*W*7.5x10.3mm*P1.27mm*'}]|
+|name|name|Sensor_Current : IR22771S|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'IR21771S'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'IR22771S'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-16W_7.5x10.3mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.infineon.com/dgdl/ir21771s.pdf?fileId=5546d462533600a4015355c9222c16c8'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'half bridge current sense'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Phase Current Sensor IC for AC Motor Control</td><td> PWM output</td><td> 1200V</td><td> SOIC-16W'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*W*7.5x10.3mm*P1.27mm*'</td></tr></table>]|
 ||||

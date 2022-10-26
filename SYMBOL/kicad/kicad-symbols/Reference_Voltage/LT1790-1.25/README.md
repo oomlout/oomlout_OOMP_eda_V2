@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREFERENCEVOLTAGELT179125 > LT1790-1.25
+# SZKREFERENCEVOLTAGELT179125 > Reference_Voltage : LT1790-1.25
 
 - ID: SYMBOL-kicad-kicad-symbols-Reference_Voltage-LT1790-1.25
 - Hex ID: SZKREFERENCEVOLTAGELT179125
-- Name: LT1790-1.25
-- Description: LT1790-1.25
+- Name: Reference_Voltage : LT1790-1.25
+- Description: Reference_Voltage : LT1790-1.25
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-LT1790-1.25](http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-LT1790-1.25)
 - Short Link: [http://oom.lt/SZKREFERENCEVOLTAGELT179125](http://oom.lt/SZKREFERENCEVOLTAGELT179125)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LT1790-1.25|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Reference_Voltage-LT1790-1.25|
 |Hex ID (short code)|hexID|SZKREFERENCEVOLTAGELT179125|
-|name|name|LT1790-1.25|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LT1790-1.25', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TSOT-23-6', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/1790fc.pdf', 'kicadSymbolki_keywords': 'voltage reference Micropower', 'kicadSymbolki_description': '1.25V Voltage Reference, Low Dropout, Micropower, TSOT-23-6', 'kicadSymbolki_fp_filters': 'TSOT?23?6*'}]|
+|name|name|Reference_Voltage : LT1790-1.25|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LT1790-1.25'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>TSOT-23-6'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/1790fc.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'voltage reference Micropower'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '1.25V Voltage Reference</td><td> Low Dropout</td><td> Micropower</td><td> TSOT-23-6'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TSOT?23?6*'</td></tr></table>]|
 ||||

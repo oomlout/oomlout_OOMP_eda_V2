@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUMOARDNANOEVERY > Arduino_Nano_Every
+# SZKMCUMOARDNANOEVERY > MCU_Module : Arduino_Nano_Every
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Module-Arduino_Nano_Every
 - Hex ID: SZKMCUMOARDNANOEVERY
-- Name: Arduino_Nano_Every
-- Description: Arduino_Nano_Every
+- Name: MCU_Module : Arduino_Nano_Every
+- Description: MCU_Module : Arduino_Nano_Every
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Module-Arduino_Nano_Every](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Module-Arduino_Nano_Every)
 - Short Link: [http://oom.lt/SZKMCUMOARDNANOEVERY](http://oom.lt/SZKMCUMOARDNANOEVERY)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Arduino_Nano_Every|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Module-Arduino_Nano_Every|
 |Hex ID (short code)|hexID|SZKMCUMOARDNANOEVERY|
-|name|name|Arduino_Nano_Every|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'A', 'kicadSymbolValue': 'Arduino_Nano_Every', 'kicadSymbolFootprint': 'Module:Arduino_Nano', 'kicadSymbolDatasheet': 'https://content.arduino.cc/assets/NANOEveryV3.0_sch.pdf', 'kicadSymbolki_keywords': 'Arduino nano microcontroller module USB UPDI AATMega4809 AVR', 'kicadSymbolki_description': 'Arduino Nano Every', 'kicadSymbolki_fp_filters': 'Arduino*Nano*'}]|
+|name|name|MCU_Module : Arduino_Nano_Every|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'A'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Arduino_Nano_Every'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Module</td></tr><tr><td>Arduino_Nano'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//content.arduino.cc/assets/NANOEveryV3.0_sch.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Arduino nano microcontroller module USB UPDI AATMega4809 AVR'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Arduino Nano Every'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Arduino*Nano*'</td></tr></table>]|
 ||||

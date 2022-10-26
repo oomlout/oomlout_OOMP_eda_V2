@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKAMPLIFIEROPERATIONALTLV94XRUCR > TLV9004xRUCR
+# SZKAMPLIFIEROPERATIONALTLV94XRUCR > Amplifier_Operational : TLV9004xRUCR
 
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-TLV9004xRUCR
 - Hex ID: SZKAMPLIFIEROPERATIONALTLV94XRUCR
-- Name: TLV9004xRUCR
-- Description: TLV9004xRUCR
+- Name: Amplifier_Operational : TLV9004xRUCR
+- Description: Amplifier_Operational : TLV9004xRUCR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-TLV9004xRUCR](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-TLV9004xRUCR)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALTLV94XRUCR](http://oom.lt/SZKAMPLIFIEROPERATIONALTLV94XRUCR)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TLV9004xRUCR|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Operational-TLV9004xRUCR|
 |Hex ID (short code)|hexID|SZKAMPLIFIEROPERATIONALTLV94XRUCR|
-|name|name|TLV9004xRUCR|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TLV9004xRUCR', 'kicadSymbolFootprint': 'Package_DFN_QFN:Texas_S-PX2QFN-14', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tlv9004.pdf', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'quad opamp', 'kicadSymbolki_description': 'Low-Power, Quad-Operational Amplifiers, Texas S-PX2QFN-14', 'kicadSymbolki_fp_filters': 'Texas*S*PX2QFN*'}]|
+|name|name|Amplifier_Operational : TLV9004xRUCR|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TLV9004xRUCR'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>Texas_S-PX2QFN-14'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/tlv9004.pdf'</td><td> 'kicadSymbolki_locked'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'quad opamp'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Low-Power</td><td> Quad-Operational Amplifiers</td><td> Texas S-PX2QFN-14'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Texas*S*PX2QFN*'</td></tr></table>]|
 ||||

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-OPLGA-6_VEML6070|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSOPLGA6VEML67|
 |name|name|digikey-footprints : OPLGA-6_VEML6070|
-|Footprint Kicad|footprintKicadDetails|{'name': 'OPLGA-6_VEML6070', 'description': 'http://www.vishay.com/docs/84277/veml6070.pdf', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'OPLGA-6_VEML6070'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//www.vishay.com/docs/84277/veml6070.pdf'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

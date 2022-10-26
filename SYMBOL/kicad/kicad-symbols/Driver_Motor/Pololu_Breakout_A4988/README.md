@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDRIVERMOTORPOLOLUBREAKOUTA4988 > Pololu_Breakout_A4988
+# SZKDRIVERMOTORPOLOLUBREAKOUTA4988 > Driver_Motor : Pololu_Breakout_A4988
 
 - ID: SYMBOL-kicad-kicad-symbols-Driver_Motor-Pololu_Breakout_A4988
 - Hex ID: SZKDRIVERMOTORPOLOLUBREAKOUTA4988
-- Name: Pololu_Breakout_A4988
-- Description: Pololu_Breakout_A4988
+- Name: Driver_Motor : Pololu_Breakout_A4988
+- Description: Driver_Motor : Pololu_Breakout_A4988
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Motor-Pololu_Breakout_A4988](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Motor-Pololu_Breakout_A4988)
 - Short Link: [http://oom.lt/SZKDRIVERMOTORPOLOLUBREAKOUTA4988](http://oom.lt/SZKDRIVERMOTORPOLOLUBREAKOUTA4988)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Pololu_Breakout_A4988|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Driver_Motor-Pololu_Breakout_A4988|
 |Hex ID (short code)|hexID|SZKDRIVERMOTORPOLOLUBREAKOUTA4988|
-|name|name|Pololu_Breakout_A4988|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'A', 'kicadSymbolValue': 'Pololu_Breakout_A4988', 'kicadSymbolFootprint': 'Module:Pololu_Breakout-16_15.2x20.3mm', 'kicadSymbolDatasheet': 'https://www.pololu.com/product/2980/pictures', 'kicadSymbolki_keywords': 'Pololu Breakout Board Stepper Driver A4988', 'kicadSymbolki_description': 'Pololu Breakout Board, Stepper Driver A4988', 'kicadSymbolki_fp_filters': 'Pololu*Breakout*15.2x20.3mm*'}]|
+|name|name|Driver_Motor : Pololu_Breakout_A4988|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'A'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Pololu_Breakout_A4988'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Module</td></tr><tr><td>Pololu_Breakout-16_15.2x20.3mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.pololu.com/product/2980/pictures'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Pololu Breakout Board Stepper Driver A4988'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Pololu Breakout Board</td><td> Stepper Driver A4988'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Pololu*Breakout*15.2x20.3mm*'</td></tr></table>]|
 ||||

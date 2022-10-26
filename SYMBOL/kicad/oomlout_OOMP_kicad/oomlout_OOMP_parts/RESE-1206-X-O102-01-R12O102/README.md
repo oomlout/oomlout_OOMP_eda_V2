@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE126XO121R12O12 > RESE-1206-X-O102-01-R12O102
+# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE126XO121R12O12 > oomlout_OOMP_parts : RESE-1206-X-O102-01-R12O102
 
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-1206-X-O102-01-R12O102
 - Hex ID: SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE126XO121R12O12
-- Name: RESE-1206-X-O102-01-R12O102
-- Description: RESE-1206-X-O102-01-R12O102
+- Name: oomlout_OOMP_parts : RESE-1206-X-O102-01-R12O102
+- Description: oomlout_OOMP_parts : RESE-1206-X-O102-01-R12O102
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-1206-X-O102-01-R12O102](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-1206-X-O102-01-R12O102)
 - Short Link: [http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE126XO121R12O12](http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE126XO121R12O12)
   
@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|RESE-1206-X-O102-01-R12O102|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-1206-X-O102-01-R12O102|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE126XO121R12O12|
-|name|name|RESE-1206-X-O102-01-R12O102|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'R', 'kicadSymbolValue': 'RESE-1206-X-O102-01-R12O102', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:RESE-1206-X-O102-01-R12O102', 'kicadSymbolDatasheet': 'oom.lt/R12O102', 'kicadSymbolki_keywords': 'R res resistor', 'kicadSymbolki_description': 'hexID: R12O102;PARTL C-JLCC;C4410;MANUF C-XXXX;1206W4F1001T5;Resistor', 'kicadSymbolki_fp_filters': 'R_*'}]|
+|name|name|oomlout_OOMP_parts : RESE-1206-X-O102-01-R12O102|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'R'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'RESE-1206-X-O102-01-R12O102'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'oomlout_OOMP_parts</td></tr><tr><td>RESE-1206-X-O102-01-R12O102'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'oom.lt/R12O102'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'R res resistor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'hexID</td></tr><tr><td> R12O102;PARTL C-JLCC;C4410;MANUF C-XXXX;1206W4F1001T5;Resistor'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'R_*'</td></tr></table>]|
 ||||

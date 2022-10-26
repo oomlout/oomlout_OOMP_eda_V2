@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKJSOLDERJ3BRIDGED12 > SolderJumper_3_Bridged12
+# SZKJSOLDERJ3BRIDGED12 > Jumper : SolderJumper_3_Bridged12
 
 - ID: SYMBOL-kicad-kicad-symbols-Jumper-SolderJumper_3_Bridged12
 - Hex ID: SZKJSOLDERJ3BRIDGED12
-- Name: SolderJumper_3_Bridged12
-- Description: SolderJumper_3_Bridged12
+- Name: Jumper : SolderJumper_3_Bridged12
+- Description: Jumper : SolderJumper_3_Bridged12
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Jumper-SolderJumper_3_Bridged12](http://oom.lt/SYMBOL-kicad-kicad-symbols-Jumper-SolderJumper_3_Bridged12)
 - Short Link: [http://oom.lt/SZKJSOLDERJ3BRIDGED12](http://oom.lt/SZKJSOLDERJ3BRIDGED12)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SolderJumper_3_Bridged12|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Jumper-SolderJumper_3_Bridged12|
 |Hex ID (short code)|hexID|SZKJSOLDERJ3BRIDGED12|
-|name|name|SolderJumper_3_Bridged12|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'JP', 'kicadSymbolValue': 'SolderJumper_3_Bridged12', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'Solder Jumper SPDT', 'kicadSymbolki_description': '3-pole Solder Jumper, pins 1+2 closed/bridged', 'kicadSymbolki_fp_filters': 'SolderJumper*Bridged12*'}]|
+|name|name|Jumper : SolderJumper_3_Bridged12|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'JP'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'SolderJumper_3_Bridged12'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Solder Jumper SPDT'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '3-pole Solder Jumper</td><td> pins 1+2 closed/bridged'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SolderJumper*Bridged12*'</td></tr></table>]|
 ||||

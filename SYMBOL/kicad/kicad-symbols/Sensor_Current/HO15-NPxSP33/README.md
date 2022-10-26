@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKSENCURRENTHO15NPXSP33 > HO15-NPxSP33
+# SZKSENCURRENTHO15NPXSP33 > Sensor_Current : HO15-NPxSP33
 
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Current-HO15-NPxSP33
 - Hex ID: SZKSENCURRENTHO15NPXSP33
-- Name: HO15-NPxSP33
-- Description: HO15-NPxSP33
+- Name: Sensor_Current : HO15-NPxSP33
+- Description: Sensor_Current : HO15-NPxSP33
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-HO15-NPxSP33](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-HO15-NPxSP33)
 - Short Link: [http://oom.lt/SZKSENCURRENTHO15NPXSP33](http://oom.lt/SZKSENCURRENTHO15NPXSP33)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|HO15-NPxSP33|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Current-HO15-NPxSP33|
 |Hex ID (short code)|hexID|SZKSENCURRENTHO15NPXSP33|
-|name|name|HO15-NPxSP33|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'HO8-NPxSP33', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'HO15-NPxSP33', 'kicadSymbolFootprint': 'Sensor_Current:LEM_HO8-NP', 'kicadSymbolDatasheet': 'https://www.lem.com/sites/default/files/products_datasheets/ho-np_sp33-1000_series.pdf', 'kicadSymbolki_keywords': 'current transducer', 'kicadSymbolki_description': 'Current Transducer, 15A, Unipolar, 3.3V', 'kicadSymbolki_fp_filters': 'LEM*HO8*NP*'}]|
+|name|name|Sensor_Current : HO15-NPxSP33|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'HO8-NPxSP33'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'HO15-NPxSP33'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Sensor_Current</td></tr><tr><td>LEM_HO8-NP'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.lem.com/sites/default/files/products_datasheets/ho-np_sp33-1000_series.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'current transducer'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Current Transducer</td><td> 15A</td><td> Unipolar</td><td> 3.3V'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'LEM*HO8*NP*'</td></tr></table>]|
 ||||

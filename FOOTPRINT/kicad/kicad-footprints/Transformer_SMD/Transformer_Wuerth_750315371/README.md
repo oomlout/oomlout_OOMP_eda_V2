@@ -29,5 +29,5 @@ NO IMAGE
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Transformer_Wuerth_750315371|
 |Hex ID (short code)|hexID|FZKTRSMTRWUERTH75315371|
 |name|name|Transformer_SMD : Transformer_Wuerth_750315371|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Transformer_Wuerth_750315371', 'description': 'Power Transformer, horizontal core with bobbin, 6 pin, 2.54mm pitch, 11.24mm row spacing, 12.6x8.3x4.1mm', 'tags': 'transformer flyback', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Transformer_SMD.3dshapes/Transformer_Wuerth_750315371.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Transformer_Wuerth_750315371'</td><td> 'description'</td></tr><tr><td> 'Power Transformer</td><td> horizontal core with bobbin</td><td> 6 pin</td><td> 2.54mm pitch</td><td> 11.24mm row spacing</td><td> 12.6x8.3x4.1mm'</td><td> 'tags'</td></tr><tr><td> 'transformer flyback'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Transformer_SMD.3dshapes/Transformer_Wuerth_750315371.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

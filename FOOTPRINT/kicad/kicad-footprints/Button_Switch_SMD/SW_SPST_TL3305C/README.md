@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_SPST_TL3305C|
 |Hex ID (short code)|hexID|FZKBSWITCHSMSWSPSTTL335C|
 |name|name|Button_Switch_SMD : SW_SPST_TL3305C|
-|Footprint Kicad|footprintKicadDetails|{'name': 'SW_SPST_TL3305C', 'description': 'https://www.e-switch.com/system/asset/product_line/data_sheet/213/TL3305.pdf', 'tags': 'TL3305 Series Tact Switch', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_SPST_TL3305C.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SW_SPST_TL3305C'</td><td> 'description'</td></tr><tr><td> 'https</td></tr><tr><td>//www.e-switch.com/system/asset/product_line/data_sheet/213/TL3305.pdf'</td><td> 'tags'</td></tr><tr><td> 'TL3305 Series Tact Switch'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Button_Switch_SMD.3dshapes/SW_SPST_TL3305C.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

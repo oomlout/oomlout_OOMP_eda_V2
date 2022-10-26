@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRTR6FC > TR60_FC
+# SZKTRTR6FC > Transformer : TR60_FC
 
 - ID: SYMBOL-kicad-kicad-symbols-Transformer-TR60_FC
 - Hex ID: SZKTRTR6FC
-- Name: TR60_FC
-- Description: TR60_FC
+- Name: Transformer : TR60_FC
+- Description: Transformer : TR60_FC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-TR60_FC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-TR60_FC)
 - Short Link: [http://oom.lt/SZKTRTR6FC](http://oom.lt/SZKTRTR6FC)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TR60_FC|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transformer-TR60_FC|
 |Hex ID (short code)|hexID|SZKTRTR6FC|
-|name|name|TR60_FC|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'TR', 'kicadSymbolValue': 'TR60_FC', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ''}]|
+|name|name|Transformer : TR60_FC|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'TR'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TR60_FC'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> ''</td></tr></table>]|
 ||||

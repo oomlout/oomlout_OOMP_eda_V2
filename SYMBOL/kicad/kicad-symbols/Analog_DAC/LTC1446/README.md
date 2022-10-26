@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKANALOGDACLTC1446 > LTC1446
+# SZKANALOGDACLTC1446 > Analog_DAC : LTC1446
 
 - ID: SYMBOL-kicad-kicad-symbols-Analog_DAC-LTC1446
 - Hex ID: SZKANALOGDACLTC1446
-- Name: LTC1446
-- Description: LTC1446
+- Name: Analog_DAC : LTC1446
+- Description: Analog_DAC : LTC1446
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-LTC1446](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-LTC1446)
 - Short Link: [http://oom.lt/SZKANALOGDACLTC1446](http://oom.lt/SZKANALOGDACLTC1446)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LTC1446|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_DAC-LTC1446|
 |Hex ID (short code)|hexID|SZKANALOGDACLTC1446|
-|name|name|LTC1446|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LTC1446', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/1446fa.pdf', 'kicadSymbolki_keywords': '12-Bit DAC SPI Reference 2ch', 'kicadSymbolki_description': '2-Channel 12-Bit Rail-To-Rail D/A Converters with SPI Interface and Internal Reference (4.096V)', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm* SOIC*3.9x4.9mm*P1.27mm*'}]|
+|name|name|Analog_DAC : LTC1446|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LTC1446'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/1446fa.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> '12-Bit DAC SPI Reference 2ch'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '2-Channel 12-Bit Rail-To-Rail D/A Converters with SPI Interface and Internal Reference (4.096V)'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W7.62mm* SOIC*3.9x4.9mm*P1.27mm*'</td></tr></table>]|
 ||||

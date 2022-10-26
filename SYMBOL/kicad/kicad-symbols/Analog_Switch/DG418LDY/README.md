@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKANALOGSWITCHDG418LDY > DG418LDY
+# SZKANALOGSWITCHDG418LDY > Analog_Switch : DG418LDY
 
 - ID: SYMBOL-kicad-kicad-symbols-Analog_Switch-DG418LDY
 - Hex ID: SZKANALOGSWITCHDG418LDY
-- Name: DG418LDY
-- Description: DG418LDY
+- Name: Analog_Switch : DG418LDY
+- Description: Analog_Switch : DG418LDY
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-DG418LDY](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-DG418LDY)
 - Short Link: [http://oom.lt/SZKANALOGSWITCHDG418LDY](http://oom.lt/SZKANALOGSWITCHDG418LDY)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DG418LDY|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_Switch-DG418LDY|
 |Hex ID (short code)|hexID|SZKANALOGSWITCHDG418LDY|
-|name|name|DG418LDY|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'DG418LDY', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm', 'kicadSymbolDatasheet': 'https://datasheets.maximintegrated.com/en/ds/DG417-DG419.pdf', 'kicadSymbolki_keywords': 'CMOS Analog Switch', 'kicadSymbolki_description': 'Single SPST 3V Logic Compatible CMOS Analog Switch, normally OFF, 35Ohm Ron, with Vlogic, SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm*'}]|
+|name|name|Analog_Switch : DG418LDY|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'DG418LDY'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-8_3.9x4.9mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//datasheets.maximintegrated.com/en/ds/DG417-DG419.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'CMOS Analog Switch'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Single SPST 3V Logic Compatible CMOS Analog Switch</td><td> normally OFF</td><td> 35Ohm Ron</td><td> with Vlogic</td><td> SOIC-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*3.9x4.9mm*P1.27mm*'</td></tr></table>]|
 ||||

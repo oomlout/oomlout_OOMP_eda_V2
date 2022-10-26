@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKANALOGADCLTC239QFN > LTC2309_QFN
+# SZKANALOGADCLTC239QFN > Analog_ADC : LTC2309_QFN
 
 - ID: SYMBOL-kicad-kicad-symbols-Analog_ADC-LTC2309_QFN
 - Hex ID: SZKANALOGADCLTC239QFN
-- Name: LTC2309_QFN
-- Description: LTC2309_QFN
+- Name: Analog_ADC : LTC2309_QFN
+- Description: Analog_ADC : LTC2309_QFN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-LTC2309_QFN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-LTC2309_QFN)
 - Short Link: [http://oom.lt/SZKANALOGADCLTC239QFN](http://oom.lt/SZKANALOGADCLTC239QFN)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LTC2309_QFN|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_ADC-LTC2309_QFN|
 |Hex ID (short code)|hexID|SZKANALOGADCLTC239QFN|
-|name|name|LTC2309_QFN|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LTC2309_QFN', 'kicadSymbolFootprint': 'Package_DFN_QFN:QFN-24-1EP_4x4mm_P0.5mm_EP2.6x2.6mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/2309fd.pdf', 'kicadSymbolki_keywords': 'LT ADC 12bit I2C SAR QFN', 'kicadSymbolki_description': '8 Channels, 12-Bit SAR ADC, I2C interface, QFN-24 package', 'kicadSymbolki_fp_filters': 'QFN*1EP*4x4mm*0.5mm*'}]|
+|name|name|Analog_ADC : LTC2309_QFN|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LTC2309_QFN'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>QFN-24-1EP_4x4mm_P0.5mm_EP2.6x2.6mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/2309fd.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'LT ADC 12bit I2C SAR QFN'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '8 Channels</td><td> 12-Bit SAR ADC</td><td> I2C interface</td><td> QFN-24 package'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'QFN*1EP*4x4mm*0.5mm*'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREFERENCEVOLTAGEMCP1541TT > MCP1541-TT
+# SZKREFERENCEVOLTAGEMCP1541TT > Reference_Voltage : MCP1541-TT
 
 - ID: SYMBOL-kicad-kicad-symbols-Reference_Voltage-MCP1541-TT
 - Hex ID: SZKREFERENCEVOLTAGEMCP1541TT
-- Name: MCP1541-TT
-- Description: MCP1541-TT
+- Name: Reference_Voltage : MCP1541-TT
+- Description: Reference_Voltage : MCP1541-TT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-MCP1541-TT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-MCP1541-TT)
 - Short Link: [http://oom.lt/SZKREFERENCEVOLTAGEMCP1541TT](http://oom.lt/SZKREFERENCEVOLTAGEMCP1541TT)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MCP1541-TT|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Reference_Voltage-MCP1541-TT|
 |Hex ID (short code)|hexID|SZKREFERENCEVOLTAGEMCP1541TT|
-|name|name|MCP1541-TT|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MCP1525-TT', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MCP1541-TT', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/devicedoc/21653b.pdf', 'kicadSymbolki_keywords': 'Voltage Reference 4.096V', 'kicadSymbolki_description': '4.096V Voltage Reference, SOT-23', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
+|name|name|Reference_Voltage : MCP1541-TT|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'MCP1525-TT'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MCP1541-TT'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-23'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/devicedoc/21653b.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Voltage Reference 4.096V'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '4.096V Voltage Reference</td><td> SOT-23'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23*'</td></tr></table>]|
 ||||

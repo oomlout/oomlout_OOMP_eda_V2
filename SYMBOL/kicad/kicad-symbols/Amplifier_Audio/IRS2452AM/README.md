@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKAMPLIFIERAUDIOIRS2452AM > IRS2452AM
+# SZKAMPLIFIERAUDIOIRS2452AM > Amplifier_Audio : IRS2452AM
 
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Audio-IRS2452AM
 - Hex ID: SZKAMPLIFIERAUDIOIRS2452AM
-- Name: IRS2452AM
-- Description: IRS2452AM
+- Name: Amplifier_Audio : IRS2452AM
+- Description: Amplifier_Audio : IRS2452AM
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-IRS2452AM](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-IRS2452AM)
 - Short Link: [http://oom.lt/SZKAMPLIFIERAUDIOIRS2452AM](http://oom.lt/SZKAMPLIFIERAUDIOIRS2452AM)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IRS2452AM|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Audio-IRS2452AM|
 |Hex ID (short code)|hexID|SZKAMPLIFIERAUDIOIRS2452AM|
-|name|name|IRS2452AM|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'IRS2452AM', 'kicadSymbolFootprint': 'Package_DFN_QFN:Infineon_MLPQ-40-32-1EP_7x7mm_P0.5mm', 'kicadSymbolDatasheet': 'https://www.infineon.com/dgdl/Infineon-IRS2452AM-DS-v01_00-EN.pdf?fileId=5546d462584d1d4a01584ee4f1f00713', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'Gate Driver Class D 2ch', 'kicadSymbolki_description': 'Class D Audio IC, PWM Modulator, +/-200V, 0.5/0.6A, MLPQ-32', 'kicadSymbolki_fp_filters': 'Infineon*MLPQ*1EP*7x7mm*P0.5mm*'}]|
+|name|name|Amplifier_Audio : IRS2452AM|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'IRS2452AM'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>Infineon_MLPQ-40-32-1EP_7x7mm_P0.5mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.infineon.com/dgdl/Infineon-IRS2452AM-DS-v01_00-EN.pdf?fileId=5546d462584d1d4a01584ee4f1f00713'</td><td> 'kicadSymbolki_locked'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Gate Driver Class D 2ch'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Class D Audio IC</td><td> PWM Modulator</td><td> +/-200V</td><td> 0.5/0.6A</td><td> MLPQ-32'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Infineon*MLPQ*1EP*7x7mm*P0.5mm*'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUMCHIPPIC16PIC16F871IL > PIC16F871-IL
+# SZKMCUMCHIPPIC16PIC16F871IL > MCU_Microchip_PIC16 : PIC16F871-IL
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F871-IL
 - Hex ID: SZKMCUMCHIPPIC16PIC16F871IL
-- Name: PIC16F871-IL
-- Description: PIC16F871-IL
+- Name: MCU_Microchip_PIC16 : PIC16F871-IL
+- Description: MCU_Microchip_PIC16 : PIC16F871-IL
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F871-IL](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F871-IL)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC16PIC16F871IL](http://oom.lt/SZKMCUMCHIPPIC16PIC16F871IL)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PIC16F871-IL|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F871-IL|
 |Hex ID (short code)|hexID|SZKMCUMCHIPPIC16PIC16F871IL|
-|name|name|PIC16F871-IL|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PIC16F871-IL', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/30569b.pdf', 'kicadSymbolki_keywords': 'Flash-Based 8-Bit CMOS Microcontroller', 'kicadSymbolki_description': '2K Flash, 128B SRAM, 64B EEPROM, PLCC44', 'kicadSymbolki_fp_filters': 'PLCC*'}]|
+|name|name|MCU_Microchip_PIC16 : PIC16F871-IL|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'PIC16F871-IL'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/30569b.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Flash-Based 8-Bit CMOS Microcontroller'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '2K Flash</td><td> 128B SRAM</td><td> 64B EEPROM</td><td> PLCC44'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'PLCC*'</td></tr></table>]|
 ||||

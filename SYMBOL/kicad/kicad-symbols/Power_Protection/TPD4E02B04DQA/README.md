@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKPOWERPROTECTIONTPD4E2B4DQA > TPD4E02B04DQA
+# SZKPOWERPROTECTIONTPD4E2B4DQA > Power_Protection : TPD4E02B04DQA
 
 - ID: SYMBOL-kicad-kicad-symbols-Power_Protection-TPD4E02B04DQA
 - Hex ID: SZKPOWERPROTECTIONTPD4E2B4DQA
-- Name: TPD4E02B04DQA
-- Description: TPD4E02B04DQA
+- Name: Power_Protection : TPD4E02B04DQA
+- Description: Power_Protection : TPD4E02B04DQA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-TPD4E02B04DQA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-TPD4E02B04DQA)
 - Short Link: [http://oom.lt/SZKPOWERPROTECTIONTPD4E2B4DQA](http://oom.lt/SZKPOWERPROTECTIONTPD4E2B4DQA)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TPD4E02B04DQA|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Protection-TPD4E02B04DQA|
 |Hex ID (short code)|hexID|SZKPOWERPROTECTIONTPD4E2B4DQA|
-|name|name|TPD4E02B04DQA|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TPD4E02B04DQA', 'kicadSymbolFootprint': 'Package_SON:USON-10_2.5x1.0mm_P0.5mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tpd4e02b04.pdf', 'kicadSymbolki_keywords': 'ESD protection USB HDMI', 'kicadSymbolki_description': '4-Channel ESD Protection Diode for USB Type-C and HDMI 2.0, USON-10', 'kicadSymbolki_fp_filters': 'USON*2.5x1.0mm*P0.5mm*'}]|
+|name|name|Power_Protection : TPD4E02B04DQA|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TPD4E02B04DQA'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SON</td></tr><tr><td>USON-10_2.5x1.0mm_P0.5mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/tpd4e02b04.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'ESD protection USB HDMI'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '4-Channel ESD Protection Diode for USB Type-C and HDMI 2.0</td><td> USON-10'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'USON*2.5x1.0mm*P0.5mm*'</td></tr></table>]|
 ||||

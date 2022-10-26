@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUMCHIPPIC16PIC16F1619XGZ > PIC16F1619-xGZ
+# SZKMCUMCHIPPIC16PIC16F1619XGZ > MCU_Microchip_PIC16 : PIC16F1619-xGZ
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F1619-xGZ
 - Hex ID: SZKMCUMCHIPPIC16PIC16F1619XGZ
-- Name: PIC16F1619-xGZ
-- Description: PIC16F1619-xGZ
+- Name: MCU_Microchip_PIC16 : PIC16F1619-xGZ
+- Description: MCU_Microchip_PIC16 : PIC16F1619-xGZ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F1619-xGZ](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F1619-xGZ)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC16PIC16F1619XGZ](http://oom.lt/SZKMCUMCHIPPIC16PIC16F1619XGZ)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PIC16F1619-xGZ|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F1619-xGZ|
 |Hex ID (short code)|hexID|SZKMCUMCHIPPIC16PIC16F1619XGZ|
-|name|name|PIC16F1619-xGZ|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PIC16F1619-xGZ', 'kicadSymbolFootprint': 'Package_DFN_QFN:UQFN-20-1EP_4x4mm_P0.5mm_EP2.8x2.8mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/40001770D.pdf', 'kicadSymbolki_keywords': 'Flash-Based 8-Bit CMOS Microcontroller Low Power', 'kicadSymbolki_description': '8-bit Flash MCU, 32MHz, 14KB Flash, 1KB RAM, 1K High Endurance Flash (EEPROM), UQFN-20', 'kicadSymbolki_fp_filters': 'UQFN*1EP*4x4mm*P0.5mm*'}]|
+|name|name|MCU_Microchip_PIC16 : PIC16F1619-xGZ|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'PIC16F1619-xGZ'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>UQFN-20-1EP_4x4mm_P0.5mm_EP2.8x2.8mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/40001770D.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Flash-Based 8-Bit CMOS Microcontroller Low Power'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '8-bit Flash MCU</td><td> 32MHz</td><td> 14KB Flash</td><td> 1KB RAM</td><td> 1K High Endurance Flash (EEPROM)</td><td> UQFN-20'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'UQFN*1EP*4x4mm*P0.5mm*'</td></tr></table>]|
 ||||

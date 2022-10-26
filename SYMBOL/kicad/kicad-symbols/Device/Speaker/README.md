@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDEVICESPEAKER > Speaker
+# SZKDEVICESPEAKER > Device : Speaker
 
 - ID: SYMBOL-kicad-kicad-symbols-Device-Speaker
 - Hex ID: SZKDEVICESPEAKER
-- Name: Speaker
-- Description: Speaker
+- Name: Device : Speaker
+- Description: Device : Speaker
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Speaker](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Speaker)
 - Short Link: [http://oom.lt/SZKDEVICESPEAKER](http://oom.lt/SZKDEVICESPEAKER)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Speaker|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-Speaker|
 |Hex ID (short code)|hexID|SZKDEVICESPEAKER|
-|name|name|Speaker|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'LS', 'kicadSymbolValue': 'Speaker', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'speaker sound', 'kicadSymbolki_description': 'Speaker'}]|
+|name|name|Device : Speaker|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'LS'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Speaker'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'speaker sound'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Speaker'</td></tr></table>]|
 ||||

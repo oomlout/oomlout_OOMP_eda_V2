@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKAMPLIFIEROPERATIONALOP179GS > OP179GS
+# SZKAMPLIFIEROPERATIONALOP179GS > Amplifier_Operational : OP179GS
 
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OP179GS
 - Hex ID: SZKAMPLIFIEROPERATIONALOP179GS
-- Name: OP179GS
-- Description: OP179GS
+- Name: Amplifier_Operational : OP179GS
+- Description: Amplifier_Operational : OP179GS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OP179GS](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OP179GS)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALOP179GS](http://oom.lt/SZKAMPLIFIEROPERATIONALOP179GS)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|OP179GS|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OP179GS|
 |Hex ID (short code)|hexID|SZKAMPLIFIEROPERATIONALOP179GS|
-|name|name|OP179GS|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'OP179GS', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/OP179_279.pdf', 'kicadSymbolki_keywords': 'single opamp', 'kicadSymbolki_description': 'Single Rail-to-Rail High Output Current Operational Amplifiers, SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm*'}]|
+|name|name|Amplifier_Operational : OP179GS|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'OP179GS'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-8_3.9x4.9mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/OP179_279.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'single opamp'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Single Rail-to-Rail High Output Current Operational Amplifiers</td><td> SOIC-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*3.9x4.9mm*P1.27mm*'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKCNJK654219 > JK0654219
+# SZKCNJK654219 > Connector : JK0654219
 
 - ID: SYMBOL-kicad-kicad-symbols-Connector-JK0654219
 - Hex ID: SZKCNJK654219
-- Name: JK0654219
-- Description: JK0654219
+- Name: Connector : JK0654219
+- Description: Connector : JK0654219
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-JK0654219](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-JK0654219)
 - Short Link: [http://oom.lt/SZKCNJK654219](http://oom.lt/SZKCNJK654219)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|JK0654219|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-JK0654219|
 |Hex ID (short code)|hexID|SZKCNJK654219|
-|name|name|JK0654219|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'JK0654219', 'kicadSymbolFootprint': 'Connector_RJ:RJ45_Pulse_JK0654219NL_Horizontal', 'kicadSymbolDatasheet': 'https://media.digikey.com/pdf/Data%20Sheets/Pulse%20PDFs/JK%20Series.pdf', 'kicadSymbolki_keywords': '8P8C RJ female connector', 'kicadSymbolki_description': ' 1 Port RJ45 Magjack Connector Through Hole 10/100/1000 Base-T, AutoMDIX', 'kicadSymbolki_fp_filters': 'RJ45*Pulse*JK0654219NL*'}]|
+|name|name|Connector : JK0654219|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'J'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'JK0654219'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Connector_RJ</td></tr><tr><td>RJ45_Pulse_JK0654219NL_Horizontal'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//media.digikey.com/pdf/Data%20Sheets/Pulse%20PDFs/JK%20Series.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> '8P8C RJ female connector'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> ' 1 Port RJ45 Magjack Connector Through Hole 10/100/1000 Base-T</td><td> AutoMDIX'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'RJ45*Pulse*JK0654219NL*'</td></tr></table>]|
 ||||

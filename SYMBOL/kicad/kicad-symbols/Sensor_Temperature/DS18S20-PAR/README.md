@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKSENTEMPERATUREDS18S2PAR > DS18S20-PAR
+# SZKSENTEMPERATUREDS18S2PAR > Sensor_Temperature : DS18S20-PAR
 
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Temperature-DS18S20-PAR
 - Hex ID: SZKSENTEMPERATUREDS18S2PAR
-- Name: DS18S20-PAR
-- Description: DS18S20-PAR
+- Name: Sensor_Temperature : DS18S20-PAR
+- Description: Sensor_Temperature : DS18S20-PAR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-DS18S20-PAR](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-DS18S20-PAR)
 - Short Link: [http://oom.lt/SZKSENTEMPERATUREDS18S2PAR](http://oom.lt/SZKSENTEMPERATUREDS18S2PAR)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DS18S20-PAR|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Temperature-DS18S20-PAR|
 |Hex ID (short code)|hexID|SZKSENTEMPERATUREDS18S2PAR|
-|name|name|DS18S20-PAR|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MAX31820PAR', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'DS18S20-PAR', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-92_Inline', 'kicadSymbolDatasheet': 'http://datasheets.maximintegrated.com/en/ds/DS18S20-PAR.pdf', 'kicadSymbolki_keywords': 'OneWire 1Wire Maxim Dallas', 'kicadSymbolki_description': '1-Wire Parasite-Power Digital Thermometer TO-92', 'kicadSymbolki_fp_filters': 'TO*92*'}]|
+|name|name|Sensor_Temperature : DS18S20-PAR|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'MAX31820PAR'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'DS18S20-PAR'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_THT</td></tr><tr><td>TO-92_Inline'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//datasheets.maximintegrated.com/en/ds/DS18S20-PAR.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'OneWire 1Wire Maxim Dallas'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '1-Wire Parasite-Power Digital Thermometer TO-92'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TO*92*'</td></tr></table>]|
 ||||

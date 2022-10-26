@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Neosid_Air-Coil_SML_4turn_HDM0431A|
 |Hex ID (short code)|hexID|FZKINDUCTORSMLNEOSIDAIRCOILSML4TURNHDM431A|
 |name|name|Inductor_SMD : L_Neosid_Air-Coil_SML_4turn_HDM0431A|
-|Footprint Kicad|footprintKicadDetails|{'name': 'L_Neosid_Air-Coil_SML_4turn_HDM0431A', 'description': 'Neosid, Air-Coil, SML, 4turn, HDM0431A,', 'tags': 'Neosid Air-Coil SML 4turn HDM0431A', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Neosid_Air-Coil_SML_4turn_HDM0431A.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'L_Neosid_Air-Coil_SML_4turn_HDM0431A'</td><td> 'description'</td></tr><tr><td> 'Neosid</td><td> Air-Coil</td><td> SML</td><td> 4turn</td><td> HDM0431A</td><td>'</td><td> 'tags'</td></tr><tr><td> 'Neosid Air-Coil SML 4turn HDM0431A'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Inductor_SMD.3dshapes/L_Neosid_Air-Coil_SML_4turn_HDM0431A.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

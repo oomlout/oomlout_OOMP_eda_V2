@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZK74XXIEEE744 > 7404
+# SZK74XXIEEE744 > 74xx_IEEE : 7404
 
 - ID: SYMBOL-kicad-kicad-symbols-74xx_IEEE-7404
 - Hex ID: SZK74XXIEEE744
-- Name: 7404
-- Description: 7404
+- Name: 74xx_IEEE : 7404
+- Description: 74xx_IEEE : 7404
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx_IEEE-7404](http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx_IEEE-7404)
 - Short Link: [http://oom.lt/SZK74XXIEEE744](http://oom.lt/SZK74XXIEEE744)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|7404|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xx_IEEE-7404|
 |Hex ID (short code)|hexID|SZK74XXIEEE744|
-|name|name|7404|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '7404', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ''}]|
+|name|name|74xx_IEEE : 7404|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> '7404'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> ''</td></tr></table>]|
 ||||

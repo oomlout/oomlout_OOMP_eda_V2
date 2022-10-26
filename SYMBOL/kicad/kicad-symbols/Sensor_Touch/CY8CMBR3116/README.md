@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKSENTOUCHCY8CMBR3116 > CY8CMBR3116
+# SZKSENTOUCHCY8CMBR3116 > Sensor_Touch : CY8CMBR3116
 
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Touch-CY8CMBR3116
 - Hex ID: SZKSENTOUCHCY8CMBR3116
-- Name: CY8CMBR3116
-- Description: CY8CMBR3116
+- Name: Sensor_Touch : CY8CMBR3116
+- Description: Sensor_Touch : CY8CMBR3116
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Touch-CY8CMBR3116](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Touch-CY8CMBR3116)
 - Short Link: [http://oom.lt/SZKSENTOUCHCY8CMBR3116](http://oom.lt/SZKSENTOUCHCY8CMBR3116)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|CY8CMBR3116|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Touch-CY8CMBR3116|
 |Hex ID (short code)|hexID|SZKSENTOUCHCY8CMBR3116|
-|name|name|CY8CMBR3116|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'CY8CMBR3116', 'kicadSymbolFootprint': 'Package_DFN_QFN:QFN-24-1EP_4x4mm_P0.5mm_EP2.6x2.6mm', 'kicadSymbolDatasheet': 'http://www.cypress.com/?docID=49119', 'kicadSymbolki_keywords': 'Touch Sensor 16ch', 'kicadSymbolki_description': 'CapSense Controller, 16 Sensors, QFN-24+EP', 'kicadSymbolki_fp_filters': 'QFN*1EP*4x4mm*P0.5mm*'}]|
+|name|name|Sensor_Touch : CY8CMBR3116|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'CY8CMBR3116'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>QFN-24-1EP_4x4mm_P0.5mm_EP2.6x2.6mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.cypress.com/?docID=49119'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Touch Sensor 16ch'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'CapSense Controller</td><td> 16 Sensors</td><td> QFN-24+EP'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'QFN*1EP*4x4mm*P0.5mm*'</td></tr></table>]|
 ||||

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Display-NHD-C0220BiZ|
 |Hex ID (short code)|hexID|FZKDINHDC22BIZ|
 |name|name|Display : NHD-C0220BiZ|
-|Footprint Kicad|footprintKicadDetails|{'name': 'NHD-C0220BiZ', 'description': 'NHD-C0220BiZ LCD http://www.newhavendisplay.com/specs/NHD-C0220BiZ-FSW-FBW-3V3M.pdf', 'tags': 'NHD-C0220BiZ LCD', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Display.3dshapes/NHD-C0220BiZ.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'NHD-C0220BiZ'</td><td> 'description'</td></tr><tr><td> 'NHD-C0220BiZ LCD http</td></tr><tr><td>//www.newhavendisplay.com/specs/NHD-C0220BiZ-FSW-FBW-3V3M.pdf'</td><td> 'tags'</td></tr><tr><td> 'NHD-C0220BiZ LCD'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Display.3dshapes/NHD-C0220BiZ.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

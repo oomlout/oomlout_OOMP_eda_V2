@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DIP-DIP-5-6_W10.16mm_LongPads|
 |Hex ID (short code)|hexID|FZKDIPDIP56W116L|
 |name|name|Package_DIP : DIP-5-6_W10.16mm_LongPads|
-|Footprint Kicad|footprintKicadDetails|{'name': 'DIP-5-6_W10.16mm_LongPads', 'description': '5-lead though-hole mounted DIP package, row spacing 10.16 mm (400 mils), LongPads', 'tags': 'THT DIP DIL PDIP 2.54mm 10.16mm 400mil LongPads', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DIP.3dshapes/DIP-5-6_W10.16mm.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'DIP-5-6_W10.16mm_LongPads'</td><td> 'description'</td></tr><tr><td> '5-lead though-hole mounted DIP package</td><td> row spacing 10.16 mm (400 mils)</td><td> LongPads'</td><td> 'tags'</td></tr><tr><td> 'THT DIP DIL PDIP 2.54mm 10.16mm 400mil LongPads'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DIP.3dshapes/DIP-5-6_W10.16mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

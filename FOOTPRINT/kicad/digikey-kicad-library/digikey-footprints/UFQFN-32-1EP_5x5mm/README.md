@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-UFQFN-32-1EP_5x5mm|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSUFQFN321EP5X5|
 |name|name|digikey-footprints : UFQFN-32-1EP_5x5mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'UFQFN-32-1EP_5x5mm', 'description': 'file:///C:/Users/alex_wegscheid/Downloads/csr1010-data-sheet%20(4).pdf', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'UFQFN-32-1EP_5x5mm'</td><td> 'description'</td></tr><tr><td> 'file</td></tr><tr><td>///C</td></tr><tr><td>/Users/alex_wegscheid/Downloads/csr1010-data-sheet%20(4).pdf'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

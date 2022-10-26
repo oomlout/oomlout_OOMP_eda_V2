@@ -29,5 +29,5 @@ NO IMAGE
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-RF_Module-IQRF_TRx2DA_KON-SIM-01|
 |Hex ID (short code)|hexID|FZKRFMOIQRFTRX2DAKONSIM1|
 |name|name|RF_Module : IQRF_TRx2DA_KON-SIM-01|
-|Footprint Kicad|footprintKicadDetails|{'name': 'IQRF_TRx2DA_KON-SIM-01', 'description': '8 pin SIM connector for IQRF TR-x2DA(T) modules, http://iqrf.org/weben/downloads.php?id=104', 'tags': 'IQRF_KON-SIM-01 IQRF_TRx2DA', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/RF_Module.3dshapes/IQRF_TRx2DA_KON-SIM-01.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'IQRF_TRx2DA_KON-SIM-01'</td><td> 'description'</td></tr><tr><td> '8 pin SIM connector for IQRF TR-x2DA(T) modules</td><td> http</td></tr><tr><td>//iqrf.org/weben/downloads.php?id=104'</td><td> 'tags'</td></tr><tr><td> 'IQRF_KON-SIM-01 IQRF_TRx2DA'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/RF_Module.3dshapes/IQRF_TRx2DA_KON-SIM-01.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

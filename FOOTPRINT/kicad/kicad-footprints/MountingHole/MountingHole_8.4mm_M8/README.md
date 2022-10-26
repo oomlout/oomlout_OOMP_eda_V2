@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_8.4mm_M8|
 |Hex ID (short code)|hexID|FZKHOLHOL84M8|
 |name|name|MountingHole : MountingHole_8.4mm_M8|
-|Footprint Kicad|footprintKicadDetails|{'name': 'MountingHole_8.4mm_M8', 'description': 'Mounting Hole 8.4mm, no annular, M8', 'tags': 'mounting hole 8.4mm no annular m8', 'attributeType': None, 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'MountingHole_8.4mm_M8'</td><td> 'description'</td></tr><tr><td> 'Mounting Hole 8.4mm</td><td> no annular</td><td> M8'</td><td> 'tags'</td></tr><tr><td> 'mounting hole 8.4mm no annular m8'</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

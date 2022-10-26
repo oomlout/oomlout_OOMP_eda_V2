@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Cellular_Modem_NL-SW-LTE-GELS3-C|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSCELLULARMODEMNLSWLTEGELS3C|
 |name|name|digikey-footprints : Cellular_Modem_NL-SW-LTE-GELS3-C|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Cellular_Modem_NL-SW-LTE-GELS3-C', 'description': 'http://nimbelink.com/Documentation/Skywire/4G_LTE_Cat_1/30122_NL-SW-LTE-GELS3_Datasheet.pdf', 'tags': None, 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Cellular_Modem_NL-SW-LTE-GELS3-C'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//nimbelink.com/Documentation/Skywire/4G_LTE_Cat_1/30122_NL-SW-LTE-GELS3_Datasheet.pdf'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORARRAYULN23 > ULN2003
+# SZKTRANSISTORARRAYULN23 > Transistor_Array : ULN2003
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_Array-ULN2003
 - Hex ID: SZKTRANSISTORARRAYULN23
-- Name: ULN2003
-- Description: ULN2003
+- Name: Transistor_Array : ULN2003
+- Description: Transistor_Array : ULN2003
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_Array-ULN2003](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_Array-ULN2003)
 - Short Link: [http://oom.lt/SZKTRANSISTORARRAYULN23](http://oom.lt/SZKTRANSISTORARRAYULN23)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ULN2003|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_Array-ULN2003|
 |Hex ID (short code)|hexID|SZKTRANSISTORARRAYULN23|
-|name|name|ULN2003|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ULN2003', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/uln2003a.pdf', 'kicadSymbolki_keywords': 'darlington transistor array', 'kicadSymbolki_description': 'High Voltage, High Current Darlington Transistor Arrays, SOIC16/SOIC16W/DIP16/TSSOP16', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm* SOIC*3.9x9.9mm*P1.27mm* SSOP*4.4x5.2mm*P0.65mm* TSSOP*4.4x5mm*P0.65mm* SOIC*W*5.3x10.2mm*P1.27mm*'}]|
+|name|name|Transistor_Array : ULN2003|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ULN2003'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/uln2003a.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'darlington transistor array'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'High Voltage</td><td> High Current Darlington Transistor Arrays</td><td> SOIC16/SOIC16W/DIP16/TSSOP16'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W7.62mm* SOIC*3.9x9.9mm*P1.27mm* SSOP*4.4x5.2mm*P0.65mm* TSSOP*4.4x5mm*P0.65mm* SOIC*W*5.3x10.2mm*P1.27mm*'</td></tr></table>]|
 ||||

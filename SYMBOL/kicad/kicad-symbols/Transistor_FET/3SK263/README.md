@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORFET3SK263 > 3SK263
+# SZKTRANSISTORFET3SK263 > Transistor_FET : 3SK263
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-3SK263
 - Hex ID: SZKTRANSISTORFET3SK263
-- Name: 3SK263
-- Description: 3SK263
+- Name: Transistor_FET : 3SK263
+- Description: Transistor_FET : 3SK263
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-3SK263](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-3SK263)
 - Short Link: [http://oom.lt/SZKTRANSISTORFET3SK263](http://oom.lt/SZKTRANSISTORFET3SK263)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|3SK263|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-3SK263|
 |Hex ID (short code)|hexID|SZKTRANSISTORFET3SK263|
-|name|name|3SK263|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': '3SK263', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-143', 'kicadSymbolDatasheet': 'http://www.onsemi.com/pub_link/Collateral/EN4423-D.PDF', 'kicadSymbolki_keywords': 'N-Channel MOSFET Dual Gate', 'kicadSymbolki_description': '30mA Id, 15V Vds, N-Channel Dual Gate MOSFET, SOT-143/343', 'kicadSymbolki_fp_filters': 'SOT?143*'}]|
+|name|name|Transistor_FET : 3SK263|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> '3SK263'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-143'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.onsemi.com/pub_link/Collateral/EN4423-D.PDF'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'N-Channel MOSFET Dual Gate'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '30mA Id</td><td> 15V Vds</td><td> N-Channel Dual Gate MOSFET</td><td> SOT-143/343'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?143*'</td></tr></table>]|
 ||||

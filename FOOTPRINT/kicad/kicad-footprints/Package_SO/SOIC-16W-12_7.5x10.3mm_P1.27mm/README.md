@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SO-SOIC-16W-12_7.5x10.3mm_P1.27mm|
 |Hex ID (short code)|hexID|FZKSOSOIC16W1275X13P127|
 |name|name|Package_SO : SOIC-16W-12_7.5x10.3mm_P1.27mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'SOIC-16W-12_7.5x10.3mm_P1.27mm', 'description': 'SOIC-16 With 12 Pin Placed - Wide, 7.50 mm Body [SOIC] (https://docs.broadcom.com/docs/AV02-0169EN)', 'tags': 'SOIC 1.27 16 12 Wide', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/SOIC-16W-12_7.5x10.3mm_P1.27mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SOIC-16W-12_7.5x10.3mm_P1.27mm'</td><td> 'description'</td></tr><tr><td> 'SOIC-16 With 12 Pin Placed - Wide</td><td> 7.50 mm Body [SOIC] (https</td></tr><tr><td>//docs.broadcom.com/docs/AV02-0169EN)'</td><td> 'tags'</td></tr><tr><td> 'SOIC 1.27 16 12 Wide'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_SO.3dshapes/SOIC-16W-12_7.5x10.3mm_P1.27mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

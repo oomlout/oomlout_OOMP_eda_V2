@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Display-EA_eDIP160-XXX|
 |Hex ID (short code)|hexID|FZKDIEAEDIP16XXX|
 |name|name|Display : EA_eDIP160-XXX|
-|Footprint Kicad|footprintKicadDetails|{'name': 'EA_eDIP160-XXX', 'description': 'LCD-graphical display with LED backlight 160x104 RS-232 I2C or SPI http://www.lcd-module.com/fileadmin/eng/pdf/grafik/edip160-7e.pdf', 'tags': 'LCD-graphical display with LED backlight 160x104 RS-232 I2C or SPI', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Display.3dshapes/EA_eDIP160-XXX.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'EA_eDIP160-XXX'</td><td> 'description'</td></tr><tr><td> 'LCD-graphical display with LED backlight 160x104 RS-232 I2C or SPI http</td></tr><tr><td>//www.lcd-module.com/fileadmin/eng/pdf/grafik/edip160-7e.pdf'</td><td> 'tags'</td></tr><tr><td> 'LCD-graphical display with LED backlight 160x104 RS-232 I2C or SPI'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Display.3dshapes/EA_eDIP160-XXX.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

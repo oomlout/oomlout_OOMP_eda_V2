@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKAMPLIFIEROPERATIONALNCS272D > NCS20072D
+# SZKAMPLIFIEROPERATIONALNCS272D > Amplifier_Operational : NCS20072D
 
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-NCS20072D
 - Hex ID: SZKAMPLIFIEROPERATIONALNCS272D
-- Name: NCS20072D
-- Description: NCS20072D
+- Name: Amplifier_Operational : NCS20072D
+- Description: Amplifier_Operational : NCS20072D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-NCS20072D](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-NCS20072D)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALNCS272D](http://oom.lt/SZKAMPLIFIEROPERATIONALNCS272D)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|NCS20072D|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Operational-NCS20072D|
 |Hex ID (short code)|hexID|SZKAMPLIFIEROPERATIONALNCS272D|
-|name|name|NCS20072D|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'NCS2325D', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'NCS20072D', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pub/Collateral/NCS20071-D.PDF', 'kicadSymbolki_keywords': 'dual rail-to-rail output opamp vfa', 'kicadSymbolki_description': 'Dual, 2.8V/µs, Rail-to-Rail Output, SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm*'}]|
+|name|name|Amplifier_Operational : NCS20072D|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'NCS2325D'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'NCS20072D'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-8_3.9x4.9mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.onsemi.com/pub/Collateral/NCS20071-D.PDF'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'dual rail-to-rail output opamp vfa'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Dual</td><td> 2.8V/µs</td><td> Rail-to-Rail Output</td><td> SOIC-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*3.9x4.9mm*P1.27mm*'</td></tr></table>]|
 ||||

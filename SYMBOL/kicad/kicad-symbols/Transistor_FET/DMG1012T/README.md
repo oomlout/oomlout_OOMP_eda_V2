@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORFETDMG112T > DMG1012T
+# SZKTRANSISTORFETDMG112T > Transistor_FET : DMG1012T
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-DMG1012T
 - Hex ID: SZKTRANSISTORFETDMG112T
-- Name: DMG1012T
-- Description: DMG1012T
+- Name: Transistor_FET : DMG1012T
+- Description: Transistor_FET : DMG1012T
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-DMG1012T](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-DMG1012T)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETDMG112T](http://oom.lt/SZKTRANSISTORFETDMG112T)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DMG1012T|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-DMG1012T|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETDMG112T|
-|name|name|DMG1012T|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'DMG1012T', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-523', 'kicadSymbolDatasheet': 'https://www.diodes.com/assets/Datasheets/ds31783.pdf', 'kicadSymbolki_keywords': 'N-Channel MOSFET', 'kicadSymbolki_description': '20V Vds, 0.63 Id, N-Channel MOSFET with ESD protection, SOT-523', 'kicadSymbolki_fp_filters': 'SOT?523*'}]|
+|name|name|Transistor_FET : DMG1012T|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'DMG1012T'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-523'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.diodes.com/assets/Datasheets/ds31783.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'N-Channel MOSFET'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '20V Vds</td><td> 0.63 Id</td><td> N-Channel MOSFET with ESD protection</td><td> SOT-523'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?523*'</td></tr></table>]|
 ||||

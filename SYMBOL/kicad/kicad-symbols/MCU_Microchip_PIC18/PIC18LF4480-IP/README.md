@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUMCHIPPIC18PIC18LF448IP > PIC18LF4480-IP
+# SZKMCUMCHIPPIC18PIC18LF448IP > MCU_Microchip_PIC18 : PIC18LF4480-IP
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18LF4480-IP
 - Hex ID: SZKMCUMCHIPPIC18PIC18LF448IP
-- Name: PIC18LF4480-IP
-- Description: PIC18LF4480-IP
+- Name: MCU_Microchip_PIC18 : PIC18LF4480-IP
+- Description: MCU_Microchip_PIC18 : PIC18LF4480-IP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18LF4480-IP](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18LF4480-IP)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC18PIC18LF448IP](http://oom.lt/SZKMCUMCHIPPIC18PIC18LF448IP)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PIC18LF4480-IP|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18LF4480-IP|
 |Hex ID (short code)|hexID|SZKMCUMCHIPPIC18PIC18LF448IP|
-|name|name|PIC18LF4480-IP|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'PIC18F4580-IP', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PIC18LF4480-IP', 'kicadSymbolFootprint': 'Package_DIP:DIP-40_W15.24mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/39637d.pdf', 'kicadSymbolki_keywords': 'Flash-Based 8-Bit Microcontroller CAN', 'kicadSymbolki_description': '32K Flash, 768B SRAM, 256 EEPROM, ECAN, DIP40', 'kicadSymbolki_fp_filters': 'DIP*W15.24mm* PDIP*W15.24mm*'}]|
+|name|name|MCU_Microchip_PIC18 : PIC18LF4480-IP|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'PIC18F4580-IP'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'PIC18LF4480-IP'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>DIP-40_W15.24mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/39637d.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Flash-Based 8-Bit Microcontroller CAN'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '32K Flash</td><td> 768B SRAM</td><td> 256 EEPROM</td><td> ECAN</td><td> DIP40'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W15.24mm* PDIP*W15.24mm*'</td></tr></table>]|
 ||||

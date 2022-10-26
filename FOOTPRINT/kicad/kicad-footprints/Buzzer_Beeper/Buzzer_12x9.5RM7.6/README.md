@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Buzzer_Beeper-Buzzer_12x9.5RM7.6|
 |Hex ID (short code)|hexID|FZKBZBUZZER12X95RM76|
 |name|name|Buzzer_Beeper : Buzzer_12x9.5RM7.6|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Buzzer_12x9.5RM7.6', 'description': 'Generic Buzzer, D12mm height 9.5mm with RM7.6mm', 'tags': 'buzzer', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Buzzer_Beeper.3dshapes/Buzzer_12x9.5RM7.6.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Buzzer_12x9.5RM7.6'</td><td> 'description'</td></tr><tr><td> 'Generic Buzzer</td><td> D12mm height 9.5mm with RM7.6mm'</td><td> 'tags'</td></tr><tr><td> 'buzzer'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Buzzer_Beeper.3dshapes/Buzzer_12x9.5RM7.6.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

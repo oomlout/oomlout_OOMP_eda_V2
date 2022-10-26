@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Pulse_PA4344|
 |Hex ID (short code)|hexID|FZKINDUCTORSMLPULSEPA4344|
 |name|name|Inductor_SMD : L_Pulse_PA4344|
-|Footprint Kicad|footprintKicadDetails|{'name': 'L_Pulse_PA4344', 'description': 'Pulse PA4344 / PM4344 Series SMD Inductors https://productfinder.pulseelectronics.com/api/public/uploads/product-attachments/datasheet_p771_1608107700.pdf', 'tags': 'Pulse PA4344 PM4344 Series SMD Inductors', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Pulse_PA4344.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'L_Pulse_PA4344'</td><td> 'description'</td></tr><tr><td> 'Pulse PA4344 / PM4344 Series SMD Inductors https</td></tr><tr><td>//productfinder.pulseelectronics.com/api/public/uploads/product-attachments/datasheet_p771_1608107700.pdf'</td><td> 'tags'</td></tr><tr><td> 'Pulse PA4344 PM4344 Series SMD Inductors'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Inductor_SMD.3dshapes/L_Pulse_PA4344.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

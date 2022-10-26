@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_VCCLite_5381H5_6.35x6.35mm|
 |Hex ID (short code)|hexID|FZKLLVCCLITE5381H5635X635|
 |name|name|LED_THT : LED_VCCLite_5381H5_6.35x6.35mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'LED_VCCLite_5381H5_6.35x6.35mm', 'description': 'Green 5381 Series LED VCCLite https://vcclite.com/wp-content/uploads/wpallimport/files/files/5381Series.pdf http://static.vcclite.com/pdf/Mounting%20Hole%20Pattern%202.pdf', 'tags': 'Green 5381 Series LED', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/LED_THT.3dshapes/LED_VCCLite_5381H5_6.35x6.35mm.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'LED_VCCLite_5381H5_6.35x6.35mm'</td><td> 'description'</td></tr><tr><td> 'Green 5381 Series LED VCCLite https</td></tr><tr><td>//vcclite.com/wp-content/uploads/wpallimport/files/files/5381Series.pdf http</td></tr><tr><td>//static.vcclite.com/pdf/Mounting%20Hole%20Pattern%202.pdf'</td><td> 'tags'</td></tr><tr><td> 'Green 5381 Series LED'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/LED_THT.3dshapes/LED_VCCLite_5381H5_6.35x6.35mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

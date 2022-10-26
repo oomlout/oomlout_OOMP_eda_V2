@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKANALOGSWITCHDG418XJ > DG418xJ
+# SZKANALOGSWITCHDG418XJ > Analog_Switch : DG418xJ
 
 - ID: SYMBOL-kicad-kicad-symbols-Analog_Switch-DG418xJ
 - Hex ID: SZKANALOGSWITCHDG418XJ
-- Name: DG418xJ
-- Description: DG418xJ
+- Name: Analog_Switch : DG418xJ
+- Description: Analog_Switch : DG418xJ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-DG418xJ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-DG418xJ)
 - Short Link: [http://oom.lt/SZKANALOGSWITCHDG418XJ](http://oom.lt/SZKANALOGSWITCHDG418XJ)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DG418xJ|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_Switch-DG418xJ|
 |Hex ID (short code)|hexID|SZKANALOGSWITCHDG418XJ|
-|name|name|DG418xJ|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'DG418xJ', 'kicadSymbolFootprint': 'Package_DIP:DIP-8_W7.62mm', 'kicadSymbolDatasheet': 'https://datasheets.maximintegrated.com/en/ds/DG417-DG419.pdf', 'kicadSymbolki_keywords': 'CMOS Analog Switch', 'kicadSymbolki_description': 'Single SPST Monolithic CMOS Analog Switch, normally OFF, 20Ohm Ron, DIP-8', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
+|name|name|Analog_Switch : DG418xJ|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'DG418xJ'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>DIP-8_W7.62mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//datasheets.maximintegrated.com/en/ds/DG417-DG419.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'CMOS Analog Switch'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Single SPST Monolithic CMOS Analog Switch</td><td> normally OFF</td><td> 20Ohm Ron</td><td> DIP-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W7.62mm*'</td></tr></table>]|
 ||||

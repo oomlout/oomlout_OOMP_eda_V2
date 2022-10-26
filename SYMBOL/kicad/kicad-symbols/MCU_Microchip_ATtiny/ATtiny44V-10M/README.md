@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUMCHIPATTINYATTINY44V1M > ATtiny44V-10M
+# SZKMCUMCHIPATTINYATTINY44V1M > MCU_Microchip_ATtiny : ATtiny44V-10M
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny44V-10M
 - Hex ID: SZKMCUMCHIPATTINYATTINY44V1M
-- Name: ATtiny44V-10M
-- Description: ATtiny44V-10M
+- Name: MCU_Microchip_ATtiny : ATtiny44V-10M
+- Description: MCU_Microchip_ATtiny : ATtiny44V-10M
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny44V-10M](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny44V-10M)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATTINYATTINY44V1M](http://oom.lt/SZKMCUMCHIPATTINYATTINY44V1M)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ATtiny44V-10M|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny44V-10M|
 |Hex ID (short code)|hexID|SZKMCUMCHIPATTINYATTINY44V1M|
-|name|name|ATtiny44V-10M|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ATtiny24V-10M', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ATtiny44V-10M', 'kicadSymbolFootprint': 'Package_DFN_QFN:QFN-20-1EP_4x4mm_P0.5mm_EP2.6x2.6mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/doc8006.pdf', 'kicadSymbolki_keywords': 'AVR 8bit Microcontroller tinyAVR', 'kicadSymbolki_description': '10MHz, 4kB Flash, 256B SRAM, 256B EEPROM, debugWIRE, QFN-20', 'kicadSymbolki_fp_filters': 'QFN*1EP*4x4mm*P0.5mm*'}]|
+|name|name|MCU_Microchip_ATtiny : ATtiny44V-10M|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'ATtiny24V-10M'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ATtiny44V-10M'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>QFN-20-1EP_4x4mm_P0.5mm_EP2.6x2.6mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/doc8006.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'AVR 8bit Microcontroller tinyAVR'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '10MHz</td><td> 4kB Flash</td><td> 256B SRAM</td><td> 256B EEPROM</td><td> debugWIRE</td><td> QFN-20'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'QFN*1EP*4x4mm*P0.5mm*'</td></tr></table>]|
 ||||

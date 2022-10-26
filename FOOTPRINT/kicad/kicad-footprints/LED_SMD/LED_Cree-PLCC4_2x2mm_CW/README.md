@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Cree-PLCC4_2x2mm_CW|
 |Hex ID (short code)|hexID|FZKLSMLCREEPLCC42X2CW|
 |name|name|LED_SMD : LED_Cree-PLCC4_2x2mm_CW|
-|Footprint Kicad|footprintKicadDetails|{'name': 'LED_Cree-PLCC4_2x2mm_CW', 'description': '2.0mm x 2.0mm PLCC4 LED, http://www.cree.com/~/media/Files/Cree/LED-Components-and-Modules/HB/Data-Sheets/CLMVBFKA.pdf', 'tags': 'LED Cree PLCC-4', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED_Cree-PLCC4_2x2mm_CW.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'LED_Cree-PLCC4_2x2mm_CW'</td><td> 'description'</td></tr><tr><td> '2.0mm x 2.0mm PLCC4 LED</td><td> http</td></tr><tr><td>//www.cree.com/~/media/Files/Cree/LED-Components-and-Modules/HB/Data-Sheets/CLMVBFKA.pdf'</td><td> 'tags'</td></tr><tr><td> 'LED Cree PLCC-4'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/LED_SMD.3dshapes/LED_Cree-PLCC4_2x2mm_CW.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

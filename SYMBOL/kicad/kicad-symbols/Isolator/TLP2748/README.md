@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKISOLATORTLP2748 > TLP2748
+# SZKISOLATORTLP2748 > Isolator : TLP2748
 
 - ID: SYMBOL-kicad-kicad-symbols-Isolator-TLP2748
 - Hex ID: SZKISOLATORTLP2748
-- Name: TLP2748
-- Description: TLP2748
+- Name: Isolator : TLP2748
+- Description: Isolator : TLP2748
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-TLP2748](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-TLP2748)
 - Short Link: [http://oom.lt/SZKISOLATORTLP2748](http://oom.lt/SZKISOLATORTLP2748)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TLP2748|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Isolator-TLP2748|
 |Hex ID (short code)|hexID|SZKISOLATORTLP2748|
-|name|name|TLP2748|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TLP2748', 'kicadSymbolFootprint': 'Package_SO:SO-6L_10x3.84mm_P1.27mm', 'kicadSymbolDatasheet': 'https://toshiba.semicon-storage.com/info/docget.jsp?did=29407&prodName=TLP2748', 'kicadSymbolki_keywords': 'Photocouple highspeed inverting push-pull output', 'kicadSymbolki_description': '10-Mbps inverting photocouple,5 kVrms, 4.5 - 30 Vdd, push-pull output, SO-6L', 'kicadSymbolki_fp_filters': 'SO*6L*10x3.84mm*P1.27mm*'}]|
+|name|name|Isolator : TLP2748|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TLP2748'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SO-6L_10x3.84mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//toshiba.semicon-storage.com/info/docget.jsp?did=29407&prodName=TLP2748'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Photocouple highspeed inverting push-pull output'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '10-Mbps inverting photocouple</td><td>5 kVrms</td><td> 4.5 - 30 Vdd</td><td> push-pull output</td><td> SO-6L'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SO*6L*10x3.84mm*P1.27mm*'</td></tr></table>]|
 ||||

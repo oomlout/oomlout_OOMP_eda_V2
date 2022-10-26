@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-92S_Wide|
 |Hex ID (short code)|hexID|FZKSOTTO92SWIDE|
 |name|name|Package_TO_SOT_THT : TO-92S_Wide|
-|Footprint Kicad|footprintKicadDetails|{'name': 'TO-92S_Wide', 'description': 'TO-92S_Wide package, drill 0.75mm (https://www.diodes.com/assets/Package-Files/TO92S%20(Type%20B).pdf)', 'tags': 'TO-92S_Wide transistor', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/TO-92S_Wide.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'TO-92S_Wide'</td><td> 'description'</td></tr><tr><td> 'TO-92S_Wide package</td><td> drill 0.75mm (https</td></tr><tr><td>//www.diodes.com/assets/Package-Files/TO92S%20(Type%20B).pdf)'</td><td> 'tags'</td></tr><tr><td> 'TO-92S_Wide transistor'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_TO_SOT_THT.3dshapes/TO-92S_Wide.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-USB_Micro_B_Female_10118193-0001LF|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSUMBFEMALE11181931LF|
 |name|name|digikey-footprints : USB_Micro_B_Female_10118193-0001LF|
-|Footprint Kicad|footprintKicadDetails|{'name': 'USB_Micro_B_Female_10118193-0001LF', 'description': 'http://portal.fciconnect.com/Comergent//fci/drawing/10118193.pdf', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'USB_Micro_B_Female_10118193-0001LF'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//portal.fciconnect.com/Comergent//fci/drawing/10118193.pdf'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Coaxial-SMA_Amphenol_132289_EdgeMount|
 |Hex ID (short code)|hexID|FZKCNCOASAMPHENOL132289EDGEMOUNT|
 |name|name|Connector_Coaxial : SMA_Amphenol_132289_EdgeMount|
-|Footprint Kicad|footprintKicadDetails|{'name': 'SMA_Amphenol_132289_EdgeMount', 'description': 'http://www.amphenolrf.com/132289.html', 'tags': 'SMA', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_Coaxial.3dshapes/SMA_Amphenol_132289_EdgeMount.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SMA_Amphenol_132289_EdgeMount'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//www.amphenolrf.com/132289.html'</td><td> 'tags'</td></tr><tr><td> 'SMA'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_Coaxial.3dshapes/SMA_Amphenol_132289_EdgeMount.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

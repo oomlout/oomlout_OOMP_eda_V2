@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_3mm_Pad|
 |Hex ID (short code)|hexID|FZKHOLHOL3PAD|
 |name|name|MountingHole : MountingHole_3mm_Pad|
-|Footprint Kicad|footprintKicadDetails|{'name': 'MountingHole_3mm_Pad', 'description': 'Mounting Hole 3mm', 'tags': 'mounting hole 3mm', 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'MountingHole_3mm_Pad'</td><td> 'description'</td></tr><tr><td> 'Mounting Hole 3mm'</td><td> 'tags'</td></tr><tr><td> 'mounting hole 3mm'</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUMCHIPATTINYATTINY442P > ATtiny44-20P
+# SZKMCUMCHIPATTINYATTINY442P > MCU_Microchip_ATtiny : ATtiny44-20P
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny44-20P
 - Hex ID: SZKMCUMCHIPATTINYATTINY442P
-- Name: ATtiny44-20P
-- Description: ATtiny44-20P
+- Name: MCU_Microchip_ATtiny : ATtiny44-20P
+- Description: MCU_Microchip_ATtiny : ATtiny44-20P
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny44-20P](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny44-20P)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATTINYATTINY442P](http://oom.lt/SZKMCUMCHIPATTINYATTINY442P)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ATtiny44-20P|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny44-20P|
 |Hex ID (short code)|hexID|SZKMCUMCHIPATTINYATTINY442P|
-|name|name|ATtiny44-20P|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ATtiny24V-10P', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ATtiny44-20P', 'kicadSymbolFootprint': 'Package_DIP:DIP-14_W7.62mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/doc8006.pdf', 'kicadSymbolki_keywords': 'AVR 8bit Microcontroller tinyAVR', 'kicadSymbolki_description': '20MHz, 4kB Flash, 256B SRAM, 256B EEPROM, debugWIRE, DIP-14', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
+|name|name|MCU_Microchip_ATtiny : ATtiny44-20P|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'ATtiny24V-10P'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ATtiny44-20P'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>DIP-14_W7.62mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/doc8006.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'AVR 8bit Microcontroller tinyAVR'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '20MHz</td><td> 4kB Flash</td><td> 256B SRAM</td><td> 256B EEPROM</td><td> debugWIRE</td><td> DIP-14'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W7.62mm*'</td></tr></table>]|
 ||||

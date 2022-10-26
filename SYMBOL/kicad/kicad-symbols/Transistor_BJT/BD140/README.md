@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORBJTBD14 > BD140
+# SZKTRANSISTORBJTBD14 > Transistor_BJT : BD140
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-BD140
 - Hex ID: SZKTRANSISTORBJTBD14
-- Name: BD140
-- Description: BD140
+- Name: Transistor_BJT : BD140
+- Description: Transistor_BJT : BD140
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BD140](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BD140)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTBD14](http://oom.lt/SZKTRANSISTORBJTBD14)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BD140|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_BJT-BD140|
 |Hex ID (short code)|hexID|SZKTRANSISTORBJTBD14|
-|name|name|BD140|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'BD140', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-126-3_Vertical', 'kicadSymbolDatasheet': 'http://www.st.com/internet/com/TECHNICAL_RESOURCES/TECHNICAL_LITERATURE/DATASHEET/CD00001225.pdf', 'kicadSymbolki_keywords': 'Low Voltage Transistor', 'kicadSymbolki_description': '1.5A Ic, 80V Vce, Low Voltage Transistor, TO-126', 'kicadSymbolki_fp_filters': 'TO?126*'}]|
+|name|name|Transistor_BJT : BD140|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'BD140'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_THT</td></tr><tr><td>TO-126-3_Vertical'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.st.com/internet/com/TECHNICAL_RESOURCES/TECHNICAL_LITERATURE/DATASHEET/CD00001225.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Low Voltage Transistor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '1.5A Ic</td><td> 80V Vce</td><td> Low Voltage Transistor</td><td> TO-126'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TO?126*'</td></tr></table>]|
 ||||

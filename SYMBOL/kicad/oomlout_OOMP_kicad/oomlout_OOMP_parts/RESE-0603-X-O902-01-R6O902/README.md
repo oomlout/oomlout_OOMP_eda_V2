@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE63XO921R6O92 > RESE-0603-X-O902-01-R6O902
+# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE63XO921R6O92 > oomlout_OOMP_parts : RESE-0603-X-O902-01-R6O902
 
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O902-01-R6O902
 - Hex ID: SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE63XO921R6O92
-- Name: RESE-0603-X-O902-01-R6O902
-- Description: RESE-0603-X-O902-01-R6O902
+- Name: oomlout_OOMP_parts : RESE-0603-X-O902-01-R6O902
+- Description: oomlout_OOMP_parts : RESE-0603-X-O902-01-R6O902
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O902-01-R6O902](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O902-01-R6O902)
 - Short Link: [http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE63XO921R6O92](http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE63XO921R6O92)
   
@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|RESE-0603-X-O902-01-R6O902|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O902-01-R6O902|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE63XO921R6O92|
-|name|name|RESE-0603-X-O902-01-R6O902|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'R', 'kicadSymbolValue': 'RESE-0603-X-O902-01-R6O902', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:RESE-0603-X-O902-01-R6O902', 'kicadSymbolDatasheet': 'oom.lt/R6O902', 'kicadSymbolki_keywords': 'R res resistor', 'kicadSymbolki_description': 'hexID: R6O902;PARTL C-JLCC;C23018;MANUF C-XXXX;0603WAF3901T5E;Resistor', 'kicadSymbolki_fp_filters': 'R_*'}]|
+|name|name|oomlout_OOMP_parts : RESE-0603-X-O902-01-R6O902|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'R'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'RESE-0603-X-O902-01-R6O902'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'oomlout_OOMP_parts</td></tr><tr><td>RESE-0603-X-O902-01-R6O902'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'oom.lt/R6O902'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'R res resistor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'hexID</td></tr><tr><td> R6O902;PARTL C-JLCC;C23018;MANUF C-XXXX;0603WAF3901T5E;Resistor'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'R_*'</td></tr></table>]|
 ||||

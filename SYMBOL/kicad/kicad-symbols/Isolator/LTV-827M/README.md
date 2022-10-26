@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKISOLATORLTV827M > LTV-827M
+# SZKISOLATORLTV827M > Isolator : LTV-827M
 
 - ID: SYMBOL-kicad-kicad-symbols-Isolator-LTV-827M
 - Hex ID: SZKISOLATORLTV827M
-- Name: LTV-827M
-- Description: LTV-827M
+- Name: Isolator : LTV-827M
+- Description: Isolator : LTV-827M
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-LTV-827M](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-LTV-827M)
 - Short Link: [http://oom.lt/SZKISOLATORLTV827M](http://oom.lt/SZKISOLATORLTV827M)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LTV-827M|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Isolator-LTV-827M|
 |Hex ID (short code)|hexID|SZKISOLATORLTV827M|
-|name|name|LTV-827M|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LTV-827M', 'kicadSymbolFootprint': 'Package_DIP:DIP-8_W10.16mm', 'kicadSymbolDatasheet': 'http://www.us.liteon.com/downloads/LTV-817-827-847.PDF', 'kicadSymbolki_keywords': 'NPN DC Optocoupler', 'kicadSymbolki_description': 'DC Optocoupler, Vce 35V, CTR 50%, DIP-8', 'kicadSymbolki_fp_filters': 'DIP*W10.16mm*'}]|
+|name|name|Isolator : LTV-827M|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LTV-827M'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>DIP-8_W10.16mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.us.liteon.com/downloads/LTV-817-827-847.PDF'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'NPN DC Optocoupler'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'DC Optocoupler</td><td> Vce 35V</td><td> CTR 50%</td><td> DIP-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W10.16mm*'</td></tr></table>]|
 ||||

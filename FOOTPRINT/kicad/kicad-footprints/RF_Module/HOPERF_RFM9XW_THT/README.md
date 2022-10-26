@@ -29,5 +29,5 @@ NO IMAGE
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-RF_Module-HOPERF_RFM9XW_THT|
 |Hex ID (short code)|hexID|FZKRFMOHOPERFRFM9XWTHT|
 |name|name|RF_Module : HOPERF_RFM9XW_THT|
-|Footprint Kicad|footprintKicadDetails|{'name': 'HOPERF_RFM9XW_THT', 'description': 'Low Power Long Range Transceiver Module THT-16 (https://www.hoperf.com/data/upload/portal/20181127/5bfcbea20e9ef.pdf)', 'tags': 'Low Power Long Range Transceiver Module LoRa', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/RF_Module.3dshapes/HOPERF_RFM9XW_THT.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'HOPERF_RFM9XW_THT'</td><td> 'description'</td></tr><tr><td> 'Low Power Long Range Transceiver Module THT-16 (https</td></tr><tr><td>//www.hoperf.com/data/upload/portal/20181127/5bfcbea20e9ef.pdf)'</td><td> 'tags'</td></tr><tr><td> 'Low Power Long Range Transceiver Module LoRa'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/RF_Module.3dshapes/HOPERF_RFM9XW_THT.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Toroid_Vertical_L16.0mm_W8.0mm_P7.62mm|
 |Hex ID (short code)|hexID|FZKINLTOROIDVERTICALL16W8P762|
 |name|name|Inductor_THT : L_Toroid_Vertical_L16.0mm_W8.0mm_P7.62mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'L_Toroid_Vertical_L16.0mm_W8.0mm_P7.62mm', 'description': 'L_Toroid, Vertical series, Radial, pin pitch=7.62mm, , length*width=16*8mm^2', 'tags': 'L_Toroid Vertical series Radial pin pitch 7.62mm  length 16mm width 8mm', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Toroid_Vertical_L16.0mm_W8.0mm_P7.62mm.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'L_Toroid_Vertical_L16.0mm_W8.0mm_P7.62mm'</td><td> 'description'</td></tr><tr><td> 'L_Toroid</td><td> Vertical series</td><td> Radial</td><td> pin pitch=7.62mm</td><td> </td><td> length*width=16*8mm^2'</td><td> 'tags'</td></tr><tr><td> 'L_Toroid Vertical series Radial pin pitch 7.62mm  length 16mm width 8mm'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Inductor_THT.3dshapes/L_Toroid_Vertical_L16.0mm_W8.0mm_P7.62mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

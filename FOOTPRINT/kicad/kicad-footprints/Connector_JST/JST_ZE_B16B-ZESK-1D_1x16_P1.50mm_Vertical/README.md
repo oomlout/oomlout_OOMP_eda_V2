@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_ZE_B16B-ZESK-1D_1x16_P1.50mm_Vertical|
 |Hex ID (short code)|hexID|FZKCNJSTJSTZEB16BZESK1D1X16P15VERTICAL|
 |name|name|Connector_JST : JST_ZE_B16B-ZESK-1D_1x16_P1.50mm_Vertical|
-|Footprint Kicad|footprintKicadDetails|{'name': 'JST_ZE_B16B-ZESK-1D_1x16_P1.50mm_Vertical', 'description': 'JST ZE series connector, B16B-ZESK-1D, with boss (http://www.jst-mfg.com/product/pdf/eng/eZE.pdf), generated with kicad-footprint-generator', 'tags': 'connector JST ZE side entry boss', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_JST.3dshapes/JST_ZE_B16B-ZESK-1D_1x16_P1.50mm_Vertical.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'JST_ZE_B16B-ZESK-1D_1x16_P1.50mm_Vertical'</td><td> 'description'</td></tr><tr><td> 'JST ZE series connector</td><td> B16B-ZESK-1D</td><td> with boss (http</td></tr><tr><td>//www.jst-mfg.com/product/pdf/eng/eZE.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'connector JST ZE side entry boss'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_JST.3dshapes/JST_ZE_B16B-ZESK-1D_1x16_P1.50mm_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

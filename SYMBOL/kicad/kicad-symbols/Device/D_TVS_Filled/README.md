@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDEVICEDTVSFILL > D_TVS_Filled
+# SZKDEVICEDTVSFILL > Device : D_TVS_Filled
 
 - ID: SYMBOL-kicad-kicad-symbols-Device-D_TVS_Filled
 - Hex ID: SZKDEVICEDTVSFILL
-- Name: D_TVS_Filled
-- Description: D_TVS_Filled
+- Name: Device : D_TVS_Filled
+- Description: Device : D_TVS_Filled
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_TVS_Filled](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_TVS_Filled)
 - Short Link: [http://oom.lt/SZKDEVICEDTVSFILL](http://oom.lt/SZKDEVICEDTVSFILL)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|D_TVS_Filled|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-D_TVS_Filled|
 |Hex ID (short code)|hexID|SZKDEVICEDTVSFILL|
-|name|name|D_TVS_Filled|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'D_TVS_Filled', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'diode TVS thyrector', 'kicadSymbolki_description': 'Bidirectional transient-voltage-suppression diode, filled shape', 'kicadSymbolki_fp_filters': 'TO-???* *_Diode_* *SingleDiode* D_*'}]|
+|name|name|Device : D_TVS_Filled|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'D_TVS_Filled'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'diode TVS thyrector'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Bidirectional transient-voltage-suppression diode</td><td> filled shape'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TO-???* *_Diode_* *SingleDiode* D_*'</td></tr></table>]|
 ||||

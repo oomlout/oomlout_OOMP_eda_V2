@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUNXPS8MC9S8QG8XFKE > MC9S08QG8xFKE
+# SZKMCUNXPS8MC9S8QG8XFKE > MCU_NXP_S08 : MC9S08QG8xFKE
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_NXP_S08-MC9S08QG8xFKE
 - Hex ID: SZKMCUNXPS8MC9S8QG8XFKE
-- Name: MC9S08QG8xFKE
-- Description: MC9S08QG8xFKE
+- Name: MCU_NXP_S08 : MC9S08QG8xFKE
+- Description: MCU_NXP_S08 : MC9S08QG8xFKE
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_S08-MC9S08QG8xFKE](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_S08-MC9S08QG8xFKE)
 - Short Link: [http://oom.lt/SZKMCUNXPS8MC9S8QG8XFKE](http://oom.lt/SZKMCUNXPS8MC9S8QG8XFKE)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MC9S08QG8xFKE|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_NXP_S08-MC9S08QG8xFKE|
 |Hex ID (short code)|hexID|SZKMCUNXPS8MC9S8QG8XFKE|
-|name|name|MC9S08QG8xFKE|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'IC', 'kicadSymbolValue': 'MC9S08QG8xFKE', 'kicadSymbolFootprint': 'Package_DFN_QFN:QFN-24-1EP_4x4mm_P0.5mm_EP2.6x2.6mm', 'kicadSymbolDatasheet': 'http://cache.nxp.com/files/microcontrollers/doc/data_sheet/MC9S08QG8.pdf', 'kicadSymbolki_keywords': 'NXP S08 Microcontroller', 'kicadSymbolki_description': '8-bit Small Package Microcontroller, S08 core, 8kB Flash, 512B RAM, QFN-24', 'kicadSymbolki_fp_filters': 'QFN*4x4mm*P0.5mm*'}]|
+|name|name|MCU_NXP_S08 : MC9S08QG8xFKE|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'IC'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MC9S08QG8xFKE'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>QFN-24-1EP_4x4mm_P0.5mm_EP2.6x2.6mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//cache.nxp.com/files/microcontrollers/doc/data_sheet/MC9S08QG8.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'NXP S08 Microcontroller'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '8-bit Small Package Microcontroller</td><td> S08 core</td><td> 8kB Flash</td><td> 512B RAM</td><td> QFN-24'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'QFN*4x4mm*P0.5mm*'</td></tr></table>]|
 ||||

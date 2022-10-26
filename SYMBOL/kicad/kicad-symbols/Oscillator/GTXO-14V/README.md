@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKOCSGTXO14V > GTXO-14V
+# SZKOCSGTXO14V > Oscillator : GTXO-14V
 
 - ID: SYMBOL-kicad-kicad-symbols-Oscillator-GTXO-14V
 - Hex ID: SZKOCSGTXO14V
-- Name: GTXO-14V
-- Description: GTXO-14V
+- Name: Oscillator : GTXO-14V
+- Description: Oscillator : GTXO-14V
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-GTXO-14V](http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-GTXO-14V)
 - Short Link: [http://oom.lt/SZKOCSGTXO14V](http://oom.lt/SZKOCSGTXO14V)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|GTXO-14V|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Oscillator-GTXO-14V|
 |Hex ID (short code)|hexID|SZKOCSGTXO14V|
-|name|name|GTXO-14V|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'OCXO-14', 'kicadSymbolReference': 'X', 'kicadSymbolValue': 'GTXO-14V', 'kicadSymbolFootprint': 'Oscillator:Oscillator_DIP-14', 'kicadSymbolDatasheet': 'http://www.golledge.com/pdf/products/tcxos/gtxo14.pdf', 'kicadSymbolki_keywords': 'Crystal Clock Oscillator', 'kicadSymbolki_description': 'Voltage-Controlled Crystal Clock Oscillator, DIP14-style metal package', 'kicadSymbolki_fp_filters': 'Oscillator*DIP*14*'}]|
+|name|name|Oscillator : GTXO-14V|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'OCXO-14'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'X'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'GTXO-14V'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Oscillator</td></tr><tr><td>Oscillator_DIP-14'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.golledge.com/pdf/products/tcxos/gtxo14.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Crystal Clock Oscillator'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Voltage-Controlled Crystal Clock Oscillator</td><td> DIP14-style metal package'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Oscillator*DIP*14*'</td></tr></table>]|
 ||||

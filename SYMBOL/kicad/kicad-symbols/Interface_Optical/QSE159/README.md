@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKINTERFACEOPTICALQSE159 > QSE159
+# SZKINTERFACEOPTICALQSE159 > Interface_Optical : QSE159
 
 - ID: SYMBOL-kicad-kicad-symbols-Interface_Optical-QSE159
 - Hex ID: SZKINTERFACEOPTICALQSE159
-- Name: QSE159
-- Description: QSE159
+- Name: Interface_Optical : QSE159
+- Description: Interface_Optical : QSE159
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Optical-QSE159](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Optical-QSE159)
 - Short Link: [http://oom.lt/SZKINTERFACEOPTICALQSE159](http://oom.lt/SZKINTERFACEOPTICALQSE159)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|QSE159|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_Optical-QSE159|
 |Hex ID (short code)|hexID|SZKINTERFACEOPTICALQSE159|
-|name|name|QSE159|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'QSE159', 'kicadSymbolFootprint': 'OptoDevice:ONSemi_QSE15x', 'kicadSymbolDatasheet': 'http://www.onsemi.com/pub/Collateral/QSE159-D.pdf', 'kicadSymbolki_keywords': 'opto IR', 'kicadSymbolki_description': 'Plastic Silicon Photosensor', 'kicadSymbolki_fp_filters': '*QSE15*'}]|
+|name|name|Interface_Optical : QSE159|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'QSE159'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'OptoDevice</td></tr><tr><td>ONSemi_QSE15x'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.onsemi.com/pub/Collateral/QSE159-D.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'opto IR'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Plastic Silicon Photosensor'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> '*QSE15*'</td></tr></table>]|
 ||||

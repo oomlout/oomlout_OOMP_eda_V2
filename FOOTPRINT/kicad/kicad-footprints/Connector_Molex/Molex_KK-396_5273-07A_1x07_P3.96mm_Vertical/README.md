@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_KK-396_5273-07A_1x07_P3.96mm_Vertical|
 |Hex ID (short code)|hexID|FZKCNMXMXKK39652737A1X7P396VERTICAL|
 |name|name|Connector_Molex : Molex_KK-396_5273-07A_1x07_P3.96mm_Vertical|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Molex_KK-396_5273-07A_1x07_P3.96mm_Vertical', 'description': 'Molex KK 396 Interconnect System, old/engineering part number: 5273-07A example for new part number: 09-65-2078, 7 Pins (https://www.molex.com/pdm_docs/sd/009652028_sd.pdf), generated with kicad-footprint-generator', 'tags': 'connector Molex KK-396 vertical', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_Molex.3dshapes/Molex_KK-396_5273-07A_1x07_P3.96mm_Vertical.wrl', 'pins': {'type': 'thru_hole', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Molex_KK-396_5273-07A_1x07_P3.96mm_Vertical'</td><td> 'description'</td></tr><tr><td> 'Molex KK 396 Interconnect System</td><td> old/engineering part number</td></tr><tr><td> 5273-07A example for new part number</td></tr><tr><td> 09-65-2078</td><td> 7 Pins (https</td></tr><tr><td>//www.molex.com/pdm_docs/sd/009652028_sd.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'connector Molex KK-396 vertical'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_Molex.3dshapes/Molex_KK-396_5273-07A_1x07_P3.96mm_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

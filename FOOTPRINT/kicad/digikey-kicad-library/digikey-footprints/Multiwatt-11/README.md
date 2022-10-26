@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Multiwatt-11|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSMULTIWATT11|
 |name|name|digikey-footprints : Multiwatt-11|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Multiwatt-11', 'description': 'http://www.st.com/content/ccc/resource/technical/document/datasheet/ab/d6/fa/99/84/36/49/ee/CD00000017.pdf/files/CD00000017.pdf/jcr:content/translations/en.CD00000017.pdf', 'tags': None, 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Multiwatt-11'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//www.st.com/content/ccc/resource/technical/document/datasheet/ab/d6/fa/99/84/36/49/ee/CD00000017.pdf/files/CD00000017.pdf/jcr</td></tr><tr><td>content/translations/en.CD00000017.pdf'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

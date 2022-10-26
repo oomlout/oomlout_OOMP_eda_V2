@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKSENOPTICALBPW82 > BPW82
+# SZKSENOPTICALBPW82 > Sensor_Optical : BPW82
 
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Optical-BPW82
 - Hex ID: SZKSENOPTICALBPW82
-- Name: BPW82
-- Description: BPW82
+- Name: Sensor_Optical : BPW82
+- Description: Sensor_Optical : BPW82
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-BPW82](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-BPW82)
 - Short Link: [http://oom.lt/SZKSENOPTICALBPW82](http://oom.lt/SZKSENOPTICALBPW82)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BPW82|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Optical-BPW82|
 |Hex ID (short code)|hexID|SZKSENOPTICALBPW82|
-|name|name|BPW82|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'BPW82', 'kicadSymbolFootprint': 'OptoDevice:Osram_BPW82', 'kicadSymbolDatasheet': 'http://www.vishay.com/docs/81529/bpw82.pdf', 'kicadSymbolki_keywords': 'opto photo diode', 'kicadSymbolki_description': 'Silicon PIN Photodiode with Daylight Blocking Filter', 'kicadSymbolki_fp_filters': 'Osram*BPW82*'}]|
+|name|name|Sensor_Optical : BPW82|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'BPW82'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'OptoDevice</td></tr><tr><td>Osram_BPW82'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.vishay.com/docs/81529/bpw82.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'opto photo diode'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Silicon PIN Photodiode with Daylight Blocking Filter'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Osram*BPW82*'</td></tr></table>]|
 ||||

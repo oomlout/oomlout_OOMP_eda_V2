@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_ZE_S03B-ZESK-2D_1x03_P1.50mm_Horizontal|
 |Hex ID (short code)|hexID|FZKCNJSTJSTZES3BZESK2D1X3P15HORIZONTAL|
 |name|name|Connector_JST : JST_ZE_S03B-ZESK-2D_1x03_P1.50mm_Horizontal|
-|Footprint Kicad|footprintKicadDetails|{'name': 'JST_ZE_S03B-ZESK-2D_1x03_P1.50mm_Horizontal', 'description': 'JST ZE series connector, S03B-ZESK-2D (http://www.jst-mfg.com/product/pdf/eng/eZE.pdf), generated with kicad-footprint-generator', 'tags': 'connector JST ZE top entry', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_JST.3dshapes/JST_ZE_S03B-ZESK-2D_1x03_P1.50mm_Horizontal.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'JST_ZE_S03B-ZESK-2D_1x03_P1.50mm_Horizontal'</td><td> 'description'</td></tr><tr><td> 'JST ZE series connector</td><td> S03B-ZESK-2D (http</td></tr><tr><td>//www.jst-mfg.com/product/pdf/eng/eZE.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'connector JST ZE top entry'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_JST.3dshapes/JST_ZE_S03B-ZESK-2D_1x03_P1.50mm_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

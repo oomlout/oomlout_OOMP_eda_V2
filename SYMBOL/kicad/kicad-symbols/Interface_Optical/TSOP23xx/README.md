@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKINTERFACEOPTICALTS23XX > TSOP23xx
+# SZKINTERFACEOPTICALTS23XX > Interface_Optical : TSOP23xx
 
 - ID: SYMBOL-kicad-kicad-symbols-Interface_Optical-TSOP23xx
 - Hex ID: SZKINTERFACEOPTICALTS23XX
-- Name: TSOP23xx
-- Description: TSOP23xx
+- Name: Interface_Optical : TSOP23xx
+- Description: Interface_Optical : TSOP23xx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Optical-TSOP23xx](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Optical-TSOP23xx)
 - Short Link: [http://oom.lt/SZKINTERFACEOPTICALTS23XX](http://oom.lt/SZKINTERFACEOPTICALTS23XX)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TSOP23xx|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_Optical-TSOP23xx|
 |Hex ID (short code)|hexID|SZKINTERFACEOPTICALTS23XX|
-|name|name|TSOP23xx|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TSOP32S40F', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TSOP23xx', 'kicadSymbolFootprint': 'OptoDevice:Vishay_MOLD-3Pin', 'kicadSymbolDatasheet': 'http://www.vishay.com/docs/82460/tsop45.pdf', 'kicadSymbolki_keywords': 'opto IR receiver', 'kicadSymbolki_description': 'IR Receiver Modules for Remote Control Systems', 'kicadSymbolki_fp_filters': 'Vishay*MOLD*'}]|
+|name|name|Interface_Optical : TSOP23xx|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'TSOP32S40F'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TSOP23xx'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'OptoDevice</td></tr><tr><td>Vishay_MOLD-3Pin'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.vishay.com/docs/82460/tsop45.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'opto IR receiver'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'IR Receiver Modules for Remote Control Systems'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Vishay*MOLD*'</td></tr></table>]|
 ||||

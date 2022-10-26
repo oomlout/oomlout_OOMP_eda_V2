@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-ROHM_DFN0604-3|
 |Hex ID (short code)|hexID|FZKDFNROHMDFN643|
 |name|name|Package_DFN_QFN : ROHM_DFN0604-3|
-|Footprint Kicad|footprintKicadDetails|{'name': 'ROHM_DFN0604-3', 'description': 'DFN package size 0604 3 pins', 'tags': 'DFN package size 0604 3 pins', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/ROHM_DFN0604-3.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'ROHM_DFN0604-3'</td><td> 'description'</td></tr><tr><td> 'DFN package size 0604 3 pins'</td><td> 'tags'</td></tr><tr><td> 'DFN package size 0604 3 pins'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DFN_QFN.3dshapes/ROHM_DFN0604-3.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICCAPC63XNF8V5C6N8C31658 > CAPC-0603-X-NF8-V50-C6N8-C31658
+# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICCAPC63XNF8V5C6N8C31658 > oomlout_OOMP_JLCC_Basic : CAPC-0603-X-NF8-V50-C6N8-C31658
 
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0603-X-NF8-V50-C6N8-C31658
 - Hex ID: SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICCAPC63XNF8V5C6N8C31658
-- Name: CAPC-0603-X-NF8-V50-C6N8-C31658
-- Description: CAPC-0603-X-NF8-V50-C6N8-C31658
+- Name: oomlout_OOMP_JLCC_Basic : CAPC-0603-X-NF8-V50-C6N8-C31658
+- Description: oomlout_OOMP_JLCC_Basic : CAPC-0603-X-NF8-V50-C6N8-C31658
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0603-X-NF8-V50-C6N8-C31658](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0603-X-NF8-V50-C6N8-C31658)
 - Short Link: [http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICCAPC63XNF8V5C6N8C31658](http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICCAPC63XNF8V5C6N8C31658)
   
@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|CAPC-0603-X-NF8-V50-C6N8-C31658|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0603-X-NF8-V50-C6N8-C31658|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICCAPC63XNF8V5C6N8C31658|
-|name|name|CAPC-0603-X-NF8-V50-C6N8-C31658|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'C', 'kicadSymbolValue': 'CAPC-0603-X-NF8-V50-C6N8-C31658', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:CAPC-0603-X-NF8-V50-C6N8-C31658', 'kicadSymbolDatasheet': 'oom.lt/C6N8', 'kicadSymbolki_keywords': 'cap capacitor', 'kicadSymbolki_description': 'hexID: C6N8;PARTL C-JLCC;C31658;MANUF C-XXXX;CL10B683KB8NNNC;Unpolarized capacitor', 'kicadSymbolki_fp_filters': 'C_*'}]|
+|name|name|oomlout_OOMP_JLCC_Basic : CAPC-0603-X-NF8-V50-C6N8-C31658|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'C'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'CAPC-0603-X-NF8-V50-C6N8-C31658'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'oomlout_OOMP_parts</td></tr><tr><td>CAPC-0603-X-NF8-V50-C6N8-C31658'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'oom.lt/C6N8'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'cap capacitor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'hexID</td></tr><tr><td> C6N8;PARTL C-JLCC;C31658;MANUF C-XXXX;CL10B683KB8NNNC;Unpolarized capacitor'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'C_*'</td></tr></table>]|
 ||||

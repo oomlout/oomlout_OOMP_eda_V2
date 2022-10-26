@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKVAEF86 > EF86
+# SZKVAEF86 > Valve : EF86
 
 - ID: SYMBOL-kicad-kicad-symbols-Valve-EF86
 - Hex ID: SZKVAEF86
-- Name: EF86
-- Description: EF86
+- Name: Valve : EF86
+- Description: Valve : EF86
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Valve-EF86](http://oom.lt/SYMBOL-kicad-kicad-symbols-Valve-EF86)
 - Short Link: [http://oom.lt/SZKVAEF86](http://oom.lt/SZKVAEF86)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|EF86|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Valve-EF86|
 |Hex ID (short code)|hexID|SZKVAEF86|
-|name|name|EF86|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'EF83', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'EF86', 'kicadSymbolFootprint': 'Valve:Valve_Noval_P', 'kicadSymbolDatasheet': '', 'kicadSymbolki_keywords': 'pentode valve', 'kicadSymbolki_description': 'pentode', 'kicadSymbolki_fp_filters': 'VALVE*NOVAL*P*'}]|
+|name|name|Valve : EF86|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'EF83'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'EF86'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Valve</td></tr><tr><td>Valve_Noval_P'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'pentode valve'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'pentode'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'VALVE*NOVAL*P*'</td></tr></table>]|
 ||||

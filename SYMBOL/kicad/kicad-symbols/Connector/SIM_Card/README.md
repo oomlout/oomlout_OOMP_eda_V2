@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKCNSIMCARD > SIM_Card
+# SZKCNSIMCARD > Connector : SIM_Card
 
 - ID: SYMBOL-kicad-kicad-symbols-Connector-SIM_Card
 - Hex ID: SZKCNSIMCARD
-- Name: SIM_Card
-- Description: SIM_Card
+- Name: Connector : SIM_Card
+- Description: Connector : SIM_Card
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-SIM_Card](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-SIM_Card)
 - Short Link: [http://oom.lt/SZKCNSIMCARD](http://oom.lt/SZKCNSIMCARD)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SIM_Card|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-SIM_Card|
 |Hex ID (short code)|hexID|SZKCNSIMCARD|
-|name|name|SIM_Card|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'SIM_Card', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ' ~', 'kicadSymbolki_keywords': 'SIM card UICC', 'kicadSymbolki_description': 'SIM Card', 'kicadSymbolki_fp_filters': '*SIM*Card*Holder*'}]|
+|name|name|Connector : SIM_Card|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'J'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'SIM_Card'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> ' ~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'SIM card UICC'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'SIM Card'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> '*SIM*Card*Holder*'</td></tr></table>]|
 ||||

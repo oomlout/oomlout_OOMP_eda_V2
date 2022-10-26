@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICCAPC63XNF47DV5C6N47DC53987 > CAPC-0603-X-NF47D-V50-C6N47D-C53987
+# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICCAPC63XNF47DV5C6N47DC53987 > oomlout_OOMP_JLCC_Basic : CAPC-0603-X-NF47D-V50-C6N47D-C53987
 
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0603-X-NF47D-V50-C6N47D-C53987
 - Hex ID: SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICCAPC63XNF47DV5C6N47DC53987
-- Name: CAPC-0603-X-NF47D-V50-C6N47D-C53987
-- Description: CAPC-0603-X-NF47D-V50-C6N47D-C53987
+- Name: oomlout_OOMP_JLCC_Basic : CAPC-0603-X-NF47D-V50-C6N47D-C53987
+- Description: oomlout_OOMP_JLCC_Basic : CAPC-0603-X-NF47D-V50-C6N47D-C53987
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0603-X-NF47D-V50-C6N47D-C53987](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0603-X-NF47D-V50-C6N47D-C53987)
 - Short Link: [http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICCAPC63XNF47DV5C6N47DC53987](http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICCAPC63XNF47DV5C6N47DC53987)
   
@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|CAPC-0603-X-NF47D-V50-C6N47D-C53987|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0603-X-NF47D-V50-C6N47D-C53987|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICCAPC63XNF47DV5C6N47DC53987|
-|name|name|CAPC-0603-X-NF47D-V50-C6N47D-C53987|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'C', 'kicadSymbolValue': 'CAPC-0603-X-NF47D-V50-C6N47D-C53987', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:CAPC-0603-X-NF47D-V50-C6N47D-C53987', 'kicadSymbolDatasheet': 'oom.lt/C6N47D', 'kicadSymbolki_keywords': 'cap capacitor', 'kicadSymbolki_description': 'hexID: C6N47D;PARTL C-JLCC;C53987;MANUF C-XXXX;0603B472K500NT;Unpolarized capacitor', 'kicadSymbolki_fp_filters': 'C_*'}]|
+|name|name|oomlout_OOMP_JLCC_Basic : CAPC-0603-X-NF47D-V50-C6N47D-C53987|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'C'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'CAPC-0603-X-NF47D-V50-C6N47D-C53987'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'oomlout_OOMP_parts</td></tr><tr><td>CAPC-0603-X-NF47D-V50-C6N47D-C53987'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'oom.lt/C6N47D'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'cap capacitor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'hexID</td></tr><tr><td> C6N47D;PARTL C-JLCC;C53987;MANUF C-XXXX;0603B472K500NT;Unpolarized capacitor'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'C_*'</td></tr></table>]|
 ||||

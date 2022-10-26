@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKOCSTCXO3 > TCXO3
+# SZKOCSTCXO3 > Oscillator : TCXO3
 
 - ID: SYMBOL-kicad-kicad-symbols-Oscillator-TCXO3
 - Hex ID: SZKOCSTCXO3
-- Name: TCXO3
-- Description: TCXO3
+- Name: Oscillator : TCXO3
+- Description: Oscillator : TCXO3
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-TCXO3](http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-TCXO3)
 - Short Link: [http://oom.lt/SZKOCSTCXO3](http://oom.lt/SZKOCSTCXO3)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TCXO3|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Oscillator-TCXO3|
 |Hex ID (short code)|hexID|SZKOCSTCXO3|
-|name|name|TCXO3|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'X', 'kicadSymbolValue': 'TCXO3', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.hcelectronics.cz/PDF/TCXO3_A.pdf', 'kicadSymbolki_keywords': 'Temperature compensated crystal oscillator', 'kicadSymbolki_description': 'Temperature compensated crystal oscillator'}]|
+|name|name|Oscillator : TCXO3|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'X'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TCXO3'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.hcelectronics.cz/PDF/TCXO3_A.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Temperature compensated crystal oscillator'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Temperature compensated crystal oscillator'</td></tr></table>]|
 ||||

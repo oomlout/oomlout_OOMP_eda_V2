@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC85XUF1V25C85U1 > CAPC-0805-X-UF1-V25-C85U001
+# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC85XUF1V25C85U1 > oomlout_OOMP_parts : CAPC-0805-X-UF1-V25-C85U001
 
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0805-X-UF1-V25-C85U001
 - Hex ID: SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC85XUF1V25C85U1
-- Name: CAPC-0805-X-UF1-V25-C85U001
-- Description: CAPC-0805-X-UF1-V25-C85U001
+- Name: oomlout_OOMP_parts : CAPC-0805-X-UF1-V25-C85U001
+- Description: oomlout_OOMP_parts : CAPC-0805-X-UF1-V25-C85U001
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0805-X-UF1-V25-C85U001](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0805-X-UF1-V25-C85U001)
 - Short Link: [http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC85XUF1V25C85U1](http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC85XUF1V25C85U1)
   
@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|CAPC-0805-X-UF1-V25-C85U001|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0805-X-UF1-V25-C85U001|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC85XUF1V25C85U1|
-|name|name|CAPC-0805-X-UF1-V25-C85U001|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'C', 'kicadSymbolValue': 'CAPC-0805-X-UF1-V25-C85U001', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:CAPC-0805-X-UF1-V25-C85U001', 'kicadSymbolDatasheet': 'oom.lt/C85U001', 'kicadSymbolki_keywords': 'cap capacitor', 'kicadSymbolki_description': 'hexID: C85U001;Unpolarized capacitor', 'kicadSymbolki_fp_filters': 'C_*'}]|
+|name|name|oomlout_OOMP_parts : CAPC-0805-X-UF1-V25-C85U001|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'C'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'CAPC-0805-X-UF1-V25-C85U001'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'oomlout_OOMP_parts</td></tr><tr><td>CAPC-0805-X-UF1-V25-C85U001'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'oom.lt/C85U001'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'cap capacitor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'hexID</td></tr><tr><td> C85U001;Unpolarized capacitor'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'C_*'</td></tr></table>]|
 ||||

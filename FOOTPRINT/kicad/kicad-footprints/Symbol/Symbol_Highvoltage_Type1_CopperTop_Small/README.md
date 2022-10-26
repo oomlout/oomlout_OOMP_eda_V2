@@ -29,5 +29,5 @@ NO IMAGE
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Symbol-Symbol_Highvoltage_Type1_CopperTop_Small|
 |Hex ID (short code)|hexID|FZKSZSYHIGHVOLTAGETYPE1CTOPSLL|
 |name|name|Symbol : Symbol_Highvoltage_Type1_CopperTop_Small|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Symbol_Highvoltage_Type1_CopperTop_Small', 'description': 'Symbol, Highvoltage, Type 1, Copper Top, Small,', 'tags': 'Symbol, Highvoltage, Type 1, Copper Top, Small,', 'attributeType': None, 'pins': {}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Symbol_Highvoltage_Type1_CopperTop_Small'</td><td> 'description'</td></tr><tr><td> 'Symbol</td><td> Highvoltage</td><td> Type 1</td><td> Copper Top</td><td> Small</td><td>'</td><td> 'tags'</td></tr><tr><td> 'Symbol</td><td> Highvoltage</td><td> Type 1</td><td> Copper Top</td><td> Small</td><td>'</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td></td></tr></table></td></tr></table>|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZK74XXIEEE7447 > 7447
+# SZK74XXIEEE7447 > 74xx_IEEE : 7447
 
 - ID: SYMBOL-kicad-kicad-symbols-74xx_IEEE-7447
 - Hex ID: SZK74XXIEEE7447
-- Name: 7447
-- Description: 7447
+- Name: 74xx_IEEE : 7447
+- Description: 74xx_IEEE : 7447
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx_IEEE-7447](http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx_IEEE-7447)
 - Short Link: [http://oom.lt/SZK74XXIEEE7447](http://oom.lt/SZK74XXIEEE7447)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|7447|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xx_IEEE-7447|
 |Hex ID (short code)|hexID|SZK74XXIEEE7447|
-|name|name|7447|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '7446', 'kicadSymbolReference': 'U', 'kicadSymbolValue': '7447', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ''}]|
+|name|name|74xx_IEEE : 7447|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> '7446'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> '7447'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> ''</td></tr></table>]|
 ||||

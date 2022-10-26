@@ -29,5 +29,5 @@ NO IMAGE
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Transformer_CHK_UI30-4VA_Flat|
 |Hex ID (short code)|hexID|FZKTRTRCHKUI34VAFLAT|
 |name|name|Transformer_THT : Transformer_CHK_UI30-4VA_Flat|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Transformer_CHK_UI30-4VA_Flat', 'description': 'Trafo, Flattrafo, CHK, UI30, 4VA,', 'tags': 'Trafo Flattrafo CHK UI30 4VA ', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Transformer_THT.3dshapes/Transformer_CHK_UI30-4VA_Flat.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Transformer_CHK_UI30-4VA_Flat'</td><td> 'description'</td></tr><tr><td> 'Trafo</td><td> Flattrafo</td><td> CHK</td><td> UI30</td><td> 4VA</td><td>'</td><td> 'tags'</td></tr><tr><td> 'Trafo Flattrafo CHK UI30 4VA '</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Transformer_THT.3dshapes/Transformer_CHK_UI30-4VA_Flat.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Filter-Filter_1109-5_1.1x0.9mm|
 |Hex ID (short code)|hexID|FZKFILFIL119511X9|
 |name|name|Filter : Filter_1109-5_1.1x0.9mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Filter_1109-5_1.1x0.9mm', 'description': '5-pin SAW filter package - 1.1x0.9 mm Body; (see https://www.murata.com/~/media/webrenewal/support/library/catalog/products/filter/rf/p73e.ashx?la=en-gb)', 'tags': 'Filter 5', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Filter.3dshapes/Filter_1109-5_1.1x0.9mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Filter_1109-5_1.1x0.9mm'</td><td> 'description'</td></tr><tr><td> '5-pin SAW filter package - 1.1x0.9 mm Body; (see https</td></tr><tr><td>//www.murata.com/~/media/webrenewal/support/library/catalog/products/filter/rf/p73e.ashx?la=en-gb)'</td><td> 'tags'</td></tr><tr><td> 'Filter 5'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Filter.3dshapes/Filter_1109-5_1.1x0.9mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

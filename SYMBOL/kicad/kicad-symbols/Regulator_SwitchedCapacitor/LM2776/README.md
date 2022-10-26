@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORSWITCHEDCAPACITORLM2776 > LM2776
+# SZKREGULATORSWITCHEDCAPACITORLM2776 > Regulator_SwitchedCapacitor : LM2776
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_SwitchedCapacitor-LM2776
 - Hex ID: SZKREGULATORSWITCHEDCAPACITORLM2776
-- Name: LM2776
-- Description: LM2776
+- Name: Regulator_SwitchedCapacitor : LM2776
+- Description: Regulator_SwitchedCapacitor : LM2776
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_SwitchedCapacitor-LM2776](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_SwitchedCapacitor-LM2776)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHEDCAPACITORLM2776](http://oom.lt/SZKREGULATORSWITCHEDCAPACITORLM2776)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM2776|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_SwitchedCapacitor-LM2776|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHEDCAPACITORLM2776|
-|name|name|LM2776|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM2776', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-6', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lm2776.pdf', 'kicadSymbolki_keywords': 'Switched capacitor inverter', 'kicadSymbolki_description': 'Switched capacitor inverter, inverts positive voltage +2.7 to +5.5V to negative, 200mA, SOT-23-6', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
+|name|name|Regulator_SwitchedCapacitor : LM2776|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LM2776'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-23-6'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/lm2776.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Switched capacitor inverter'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Switched capacitor inverter</td><td> inverts positive voltage +2.7 to +5.5V to negative</td><td> 200mA</td><td> SOT-23-6'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23*'</td></tr></table>]|
 ||||

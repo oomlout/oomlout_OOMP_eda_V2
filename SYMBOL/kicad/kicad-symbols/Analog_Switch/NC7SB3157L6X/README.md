@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKANALOGSWITCHNC7SB3157L6X > NC7SB3157L6X
+# SZKANALOGSWITCHNC7SB3157L6X > Analog_Switch : NC7SB3157L6X
 
 - ID: SYMBOL-kicad-kicad-symbols-Analog_Switch-NC7SB3157L6X
 - Hex ID: SZKANALOGSWITCHNC7SB3157L6X
-- Name: NC7SB3157L6X
-- Description: NC7SB3157L6X
+- Name: Analog_Switch : NC7SB3157L6X
+- Description: Analog_Switch : NC7SB3157L6X
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-NC7SB3157L6X](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-NC7SB3157L6X)
 - Short Link: [http://oom.lt/SZKANALOGSWITCHNC7SB3157L6X](http://oom.lt/SZKANALOGSWITCHNC7SB3157L6X)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|NC7SB3157L6X|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_Switch-NC7SB3157L6X|
 |Hex ID (short code)|hexID|SZKANALOGSWITCHNC7SB3157L6X|
-|name|name|NC7SB3157L6X|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'NC7SB3157L6X', 'kicadSymbolFootprint': 'Package_SON:Fairchild_MicroPak-6_1.0x1.45mm_P0.5mm', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pub/Collateral/NC7SB3157-D.PDF', 'kicadSymbolki_keywords': 'CMOS Analog Switch', 'kicadSymbolki_description': 'Single SPDT Low-Voltage Analog Switch or 2:1 Multiplexer/De-Multiplexer Bus Switch, 10Ohm Ron, MicroPak-6', 'kicadSymbolki_fp_filters': 'Fairchild*MicroPak*1.0x1.45mm*P0.5mm*'}]|
+|name|name|Analog_Switch : NC7SB3157L6X|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'NC7SB3157L6X'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SON</td></tr><tr><td>Fairchild_MicroPak-6_1.0x1.45mm_P0.5mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.onsemi.com/pub/Collateral/NC7SB3157-D.PDF'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'CMOS Analog Switch'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Single SPDT Low-Voltage Analog Switch or 2</td></tr><tr><td>1 Multiplexer/De-Multiplexer Bus Switch</td><td> 10Ohm Ron</td><td> MicroPak-6'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Fairchild*MicroPak*1.0x1.45mm*P0.5mm*'</td></tr></table>]|
 ||||

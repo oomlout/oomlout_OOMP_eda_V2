@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Harwin-Harwin_M20-89009xx_1x09_P2.54mm_Horizontal|
 |Hex ID (short code)|hexID|FZKCNHARWINHARWINM2899XX1X9P254HORIZONTAL|
 |name|name|Connector_Harwin : Harwin_M20-89009xx_1x09_P2.54mm_Horizontal|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Harwin_M20-89009xx_1x09_P2.54mm_Horizontal', 'description': 'Harwin Male Horizontal Surface Mount Single Row 2.54mm (0.1 inch) Pitch PCB Connector, M20-89009xx, 9 Pins per row (https://cdn.harwin.com/pdfs/M20-890.pdf), generated with kicad-footprint-generator', 'tags': 'connector Harwin M20-890 horizontal', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_Harwin.3dshapes/Harwin_M20-89009xx_1x09_P2.54mm_Horizontal.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Harwin_M20-89009xx_1x09_P2.54mm_Horizontal'</td><td> 'description'</td></tr><tr><td> 'Harwin Male Horizontal Surface Mount Single Row 2.54mm (0.1 inch) Pitch PCB Connector</td><td> M20-89009xx</td><td> 9 Pins per row (https</td></tr><tr><td>//cdn.harwin.com/pdfs/M20-890.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'connector Harwin M20-890 horizontal'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_Harwin.3dshapes/Harwin_M20-89009xx_1x09_P2.54mm_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

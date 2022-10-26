@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKPOWERMANAGEMENTTPS2281DRV > TPS22810DRV
+# SZKPOWERMANAGEMENTTPS2281DRV > Power_Management : TPS22810DRV
 
 - ID: SYMBOL-kicad-kicad-symbols-Power_Management-TPS22810DRV
 - Hex ID: SZKPOWERMANAGEMENTTPS2281DRV
-- Name: TPS22810DRV
-- Description: TPS22810DRV
+- Name: Power_Management : TPS22810DRV
+- Description: Power_Management : TPS22810DRV
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-TPS22810DRV](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-TPS22810DRV)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTTPS2281DRV](http://oom.lt/SZKPOWERMANAGEMENTTPS2281DRV)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TPS22810DRV|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Management-TPS22810DRV|
 |Hex ID (short code)|hexID|SZKPOWERMANAGEMENTTPS2281DRV|
-|name|name|TPS22810DRV|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TPS22810DRV', 'kicadSymbolFootprint': 'Package_SON:WSON-6-1EP_2x2mm_P0.65mm_EP1x1.6mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tps22810.pdf', 'kicadSymbolki_keywords': 'load switch thermal protection', 'kicadSymbolki_description': '2.7-18V, 79mohms On-Resistance Load Switch With Thermal Protection, WSON-6', 'kicadSymbolki_fp_filters': 'WSON*1EP*2x2mm*P0.65mm*'}]|
+|name|name|Power_Management : TPS22810DRV|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TPS22810DRV'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SON</td></tr><tr><td>WSON-6-1EP_2x2mm_P0.65mm_EP1x1.6mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/tps22810.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'load switch thermal protection'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '2.7-18V</td><td> 79mohms On-Resistance Load Switch With Thermal Protection</td><td> WSON-6'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'WSON*1EP*2x2mm*P0.65mm*'</td></tr></table>]|
 ||||

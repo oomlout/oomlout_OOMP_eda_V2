@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDRIVERMOTORSLA776MPRT > SLA7076MPRT
+# SZKDRIVERMOTORSLA776MPRT > Driver_Motor : SLA7076MPRT
 
 - ID: SYMBOL-kicad-kicad-symbols-Driver_Motor-SLA7076MPRT
 - Hex ID: SZKDRIVERMOTORSLA776MPRT
-- Name: SLA7076MPRT
-- Description: SLA7076MPRT
+- Name: Driver_Motor : SLA7076MPRT
+- Description: Driver_Motor : SLA7076MPRT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Motor-SLA7076MPRT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Motor-SLA7076MPRT)
 - Short Link: [http://oom.lt/SZKDRIVERMOTORSLA776MPRT](http://oom.lt/SZKDRIVERMOTORSLA776MPRT)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SLA7076MPRT|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Driver_Motor-SLA7076MPRT|
 |Hex ID (short code)|hexID|SZKDRIVERMOTORSLA776MPRT|
-|name|name|SLA7076MPRT|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'SLA7075MPRT', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'SLA7076MPRT', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.semicon.sanken-ele.co.jp/sk_content/sla7076mprt_ds_en.pdf', 'kicadSymbolki_keywords': 'Stepper driver', 'kicadSymbolki_description': 'Unipolar 2-phase stepper motor driver, Microstep, 1.5A', 'kicadSymbolki_fp_filters': 'ZIP23'}]|
+|name|name|Driver_Motor : SLA7076MPRT|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'SLA7075MPRT'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'SLA7076MPRT'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.semicon.sanken-ele.co.jp/sk_content/sla7076mprt_ds_en.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Stepper driver'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Unipolar 2-phase stepper motor driver</td><td> Microstep</td><td> 1.5A'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'ZIP23'</td></tr></table>]|
 ||||

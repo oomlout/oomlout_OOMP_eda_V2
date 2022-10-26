@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORSWITCHEDCAPACITORLMC766 > LMC7660
+# SZKREGULATORSWITCHEDCAPACITORLMC766 > Regulator_SwitchedCapacitor : LMC7660
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_SwitchedCapacitor-LMC7660
 - Hex ID: SZKREGULATORSWITCHEDCAPACITORLMC766
-- Name: LMC7660
-- Description: LMC7660
+- Name: Regulator_SwitchedCapacitor : LMC7660
+- Description: Regulator_SwitchedCapacitor : LMC7660
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_SwitchedCapacitor-LMC7660](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_SwitchedCapacitor-LMC7660)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHEDCAPACITORLMC766](http://oom.lt/SZKREGULATORSWITCHEDCAPACITORLMC766)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LMC7660|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_SwitchedCapacitor-LMC7660|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHEDCAPACITORLMC766|
-|name|name|LMC7660|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LMC7660', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lmc7660.pdf', 'kicadSymbolki_keywords': 'Voltage converter', 'kicadSymbolki_description': 'Voltage converter from +1.5V to +10V to +1.5V to +10V, SO-8/DIP-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm* DIP*W7.62mm*'}]|
+|name|name|Regulator_SwitchedCapacitor : LMC7660|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LMC7660'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/lmc7660.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Voltage converter'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Voltage converter from +1.5V to +10V to +1.5V to +10V</td><td> SO-8/DIP-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*3.9x4.9mm*P1.27mm* DIP*W7.62mm*'</td></tr></table>]|
 ||||

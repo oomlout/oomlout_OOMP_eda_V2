@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SON-Fairchild_DualPower33-6_3x3mm|
 |Hex ID (short code)|hexID|FZKSONFAIRCHILDDUALPOWER3363X3|
 |name|name|Package_SON : Fairchild_DualPower33-6_3x3mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Fairchild_DualPower33-6_3x3mm', 'description': 'Fairchild Power33 MOSFET package, 3x3mm (see https://www.fairchildsemi.com/datasheets/FD/FDMC8032L.pdf)', 'tags': 'mosfet', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SON.3dshapes/Fairchild_DualPower33-6_3x3mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Fairchild_DualPower33-6_3x3mm'</td><td> 'description'</td></tr><tr><td> 'Fairchild Power33 MOSFET package</td><td> 3x3mm (see https</td></tr><tr><td>//www.fairchildsemi.com/datasheets/FD/FDMC8032L.pdf)'</td><td> 'tags'</td></tr><tr><td> 'mosfet'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_SON.3dshapes/Fairchild_DualPower33-6_3x3mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

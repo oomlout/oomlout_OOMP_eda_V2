@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKANALOGDACMAX5741 > MAX5741
+# SZKANALOGDACMAX5741 > Analog_DAC : MAX5741
 
 - ID: SYMBOL-kicad-kicad-symbols-Analog_DAC-MAX5741
 - Hex ID: SZKANALOGDACMAX5741
-- Name: MAX5741
-- Description: MAX5741
+- Name: Analog_DAC : MAX5741
+- Description: Analog_DAC : MAX5741
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-MAX5741](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-MAX5741)
 - Short Link: [http://oom.lt/SZKANALOGDACMAX5741](http://oom.lt/SZKANALOGDACMAX5741)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MAX5741|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_DAC-MAX5741|
 |Hex ID (short code)|hexID|SZKANALOGDACMAX5741|
-|name|name|MAX5741|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MAX5741', 'kicadSymbolFootprint': 'Package_SO:MSOP-10_3x3mm_P0.5mm', 'kicadSymbolDatasheet': 'https://datasheets.maximintegrated.com/en/ds/MAX5741.pdf', 'kicadSymbolki_keywords': 'DA 8 Bit 4 ch', 'kicadSymbolki_description': 'Digital to analog, 10 Bit, 4 ch, 2.7 - 5.5 VDD, SPI, uMAX-10', 'kicadSymbolki_fp_filters': 'MSOP*3x3mm?P0.5mm*'}]|
+|name|name|Analog_DAC : MAX5741|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MAX5741'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>MSOP-10_3x3mm_P0.5mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//datasheets.maximintegrated.com/en/ds/MAX5741.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'DA 8 Bit 4 ch'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Digital to analog</td><td> 10 Bit</td><td> 4 ch</td><td> 2.7 - 5.5 VDD</td><td> SPI</td><td> uMAX-10'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'MSOP*3x3mm?P0.5mm*'</td></tr></table>]|
 ||||

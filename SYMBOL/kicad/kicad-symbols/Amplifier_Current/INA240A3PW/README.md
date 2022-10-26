@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKAMPLIFIERCURRENTINA24A3PW > INA240A3PW
+# SZKAMPLIFIERCURRENTINA24A3PW > Amplifier_Current : INA240A3PW
 
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Current-INA240A3PW
 - Hex ID: SZKAMPLIFIERCURRENTINA24A3PW
-- Name: INA240A3PW
-- Description: INA240A3PW
+- Name: Amplifier_Current : INA240A3PW
+- Description: Amplifier_Current : INA240A3PW
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Current-INA240A3PW](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Current-INA240A3PW)
 - Short Link: [http://oom.lt/SZKAMPLIFIERCURRENTINA24A3PW](http://oom.lt/SZKAMPLIFIERCURRENTINA24A3PW)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|INA240A3PW|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Current-INA240A3PW|
 |Hex ID (short code)|hexID|SZKAMPLIFIERCURRENTINA24A3PW|
-|name|name|INA240A3PW|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'INA240A1PW', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'INA240A3PW', 'kicadSymbolFootprint': 'Package_SO:TSSOP-8_4.4x3mm_P0.65mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/ina240.pdf', 'kicadSymbolki_keywords': 'current monitor shunt sensor bidirectional high low', 'kicadSymbolki_description': 'High- and Low-Side, Bidirectional, Zero-Drift, Current-Sense Amplifier With Enhanced PWM Rejection, 100V/V, TSSOP-8', 'kicadSymbolki_fp_filters': 'TSSOP*4.4x3mm*P0.65mm*'}]|
+|name|name|Amplifier_Current : INA240A3PW|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'INA240A1PW'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'INA240A3PW'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>TSSOP-8_4.4x3mm_P0.65mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/ina240.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'current monitor shunt sensor bidirectional high low'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'High- and Low-Side</td><td> Bidirectional</td><td> Zero-Drift</td><td> Current-Sense Amplifier With Enhanced PWM Rejection</td><td> 100V/V</td><td> TSSOP-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TSSOP*4.4x3mm*P0.65mm*'</td></tr></table>]|
 ||||

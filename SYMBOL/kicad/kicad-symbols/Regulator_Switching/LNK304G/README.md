@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORSWITCHINGLNK34G > LNK304G
+# SZKREGULATORSWITCHINGLNK34G > Regulator_Switching : LNK304G
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK304G
 - Hex ID: SZKREGULATORSWITCHINGLNK34G
-- Name: LNK304G
-- Description: LNK304G
+- Name: Regulator_Switching : LNK304G
+- Description: Regulator_Switching : LNK304G
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK304G](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK304G)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGLNK34G](http://oom.lt/SZKREGULATORSWITCHINGLNK34G)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LNK304G|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK304G|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGLNK34G|
-|name|name|LNK304G|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LNK302G', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LNK304G', 'kicadSymbolFootprint': 'Package_DIP:PowerIntegrations_SMD-8B', 'kicadSymbolDatasheet': 'http://www.powerint.com/sites/default/files/product-docs/lnk302_304-306.pdf', 'kicadSymbolki_keywords': 'Lowest Component Count, Energy-Efficient Off-Line Switcher IC', 'kicadSymbolki_description': 'LinkSwitch-TN Family, 170mA Output Current, SMD-8B', 'kicadSymbolki_fp_filters': 'PowerIntegrations?SMD?8B*'}]|
+|name|name|Regulator_Switching : LNK304G|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'LNK302G'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LNK304G'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>PowerIntegrations_SMD-8B'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.powerint.com/sites/default/files/product-docs/lnk302_304-306.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Lowest Component Count</td><td> Energy-Efficient Off-Line Switcher IC'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'LinkSwitch-TN Family</td><td> 170mA Output Current</td><td> SMD-8B'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'PowerIntegrations?SMD?8B*'</td></tr></table>]|
 ||||

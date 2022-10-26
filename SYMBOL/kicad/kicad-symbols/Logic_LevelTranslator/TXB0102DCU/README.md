@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKLOGICLEVELTRANSLATORTXB12DCU > TXB0102DCU
+# SZKLOGICLEVELTRANSLATORTXB12DCU > Logic_LevelTranslator : TXB0102DCU
 
 - ID: SYMBOL-kicad-kicad-symbols-Logic_LevelTranslator-TXB0102DCU
 - Hex ID: SZKLOGICLEVELTRANSLATORTXB12DCU
-- Name: TXB0102DCU
-- Description: TXB0102DCU
+- Name: Logic_LevelTranslator : TXB0102DCU
+- Description: Logic_LevelTranslator : TXB0102DCU
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Logic_LevelTranslator-TXB0102DCU](http://oom.lt/SYMBOL-kicad-kicad-symbols-Logic_LevelTranslator-TXB0102DCU)
 - Short Link: [http://oom.lt/SZKLOGICLEVELTRANSLATORTXB12DCU](http://oom.lt/SZKLOGICLEVELTRANSLATORTXB12DCU)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TXB0102DCU|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Logic_LevelTranslator-TXB0102DCU|
 |Hex ID (short code)|hexID|SZKLOGICLEVELTRANSLATORTXB12DCU|
-|name|name|TXB0102DCU|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TXB0102DCU', 'kicadSymbolFootprint': 'Package_SO:VSSOP-8_2.4x2.1mm_P0.5mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/txb0102.pdf', 'kicadSymbolki_keywords': 'Level-Shifter CMOS-TTL-Translation', 'kicadSymbolki_description': '2-Bit Bidirectional Voltage-Level Translator in VSSOP Package With Auto Direction Sensing and ±15-kV ESD Protection', 'kicadSymbolki_fp_filters': 'VSSOP*P0.5mm*'}]|
+|name|name|Logic_LevelTranslator : TXB0102DCU|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TXB0102DCU'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>VSSOP-8_2.4x2.1mm_P0.5mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/txb0102.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Level-Shifter CMOS-TTL-Translation'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '2-Bit Bidirectional Voltage-Level Translator in VSSOP Package With Auto Direction Sensing and ±15-kV ESD Protection'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'VSSOP*P0.5mm*'</td></tr></table>]|
 ||||

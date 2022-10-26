@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUNXPKINETISMKL24Z32VLH4 > MKL24Z32VLH4
+# SZKMCUNXPKINETISMKL24Z32VLH4 > MCU_NXP_Kinetis : MKL24Z32VLH4
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_NXP_Kinetis-MKL24Z32VLH4
 - Hex ID: SZKMCUNXPKINETISMKL24Z32VLH4
-- Name: MKL24Z32VLH4
-- Description: MKL24Z32VLH4
+- Name: MCU_NXP_Kinetis : MKL24Z32VLH4
+- Description: MCU_NXP_Kinetis : MKL24Z32VLH4
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_Kinetis-MKL24Z32VLH4](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_Kinetis-MKL24Z32VLH4)
 - Short Link: [http://oom.lt/SZKMCUNXPKINETISMKL24Z32VLH4](http://oom.lt/SZKMCUNXPKINETISMKL24Z32VLH4)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MKL24Z32VLH4|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_NXP_Kinetis-MKL24Z32VLH4|
 |Hex ID (short code)|hexID|SZKMCUNXPKINETISMKL24Z32VLH4|
-|name|name|MKL24Z32VLH4|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MKL24Z64VLH4', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MKL24Z32VLH4', 'kicadSymbolFootprint': 'Package_QFP:LQFP-64_10x10mm_P0.5mm', 'kicadSymbolDatasheet': 'http://www.nxp.com/docs/en/data-sheet/KL24P80M48SF0.pdf', 'kicadSymbolki_keywords': 'Kinetis KL24 ARM Cortex M0+', 'kicadSymbolki_description': 'Kinetis KL24 series, 48-MHz/32-bit ARM Cortex-M0+, 32 kB flash, 4 kB SRAM, USB FS Device/OTG, LQFP-64', 'kicadSymbolki_fp_filters': 'LQFP*10x10mm*P0.5mm*'}]|
+|name|name|MCU_NXP_Kinetis : MKL24Z32VLH4|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'MKL24Z64VLH4'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MKL24Z32VLH4'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_QFP</td></tr><tr><td>LQFP-64_10x10mm_P0.5mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.nxp.com/docs/en/data-sheet/KL24P80M48SF0.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Kinetis KL24 ARM Cortex M0+'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Kinetis KL24 series</td><td> 48-MHz/32-bit ARM Cortex-M0+</td><td> 32 kB flash</td><td> 4 kB SRAM</td><td> USB FS Device/OTG</td><td> LQFP-64'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'LQFP*10x10mm*P0.5mm*'</td></tr></table>]|
 ||||

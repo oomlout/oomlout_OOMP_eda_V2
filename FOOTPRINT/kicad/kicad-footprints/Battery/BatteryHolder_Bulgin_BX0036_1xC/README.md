@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Battery-BatteryHolder_Bulgin_BX0036_1xC|
 |Hex ID (short code)|hexID|FZKBATBATHOLDERBULGINBX361XC|
 |name|name|Battery : BatteryHolder_Bulgin_BX0036_1xC|
-|Footprint Kicad|footprintKicadDetails|{'name': 'BatteryHolder_Bulgin_BX0036_1xC', 'description': 'Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)', 'tags': 'Bulgin BX0036', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Battery.3dshapes/BatteryHolder_Bulgin_BX0036_1xC.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'BatteryHolder_Bulgin_BX0036_1xC'</td><td> 'description'</td></tr><tr><td> 'Bulgin Battery Holder</td><td> BX0036</td><td> Battery Type C (https</td></tr><tr><td>//www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)'</td><td> 'tags'</td></tr><tr><td> 'Bulgin BX0036'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Battery.3dshapes/BatteryHolder_Bulgin_BX0036_1xC.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

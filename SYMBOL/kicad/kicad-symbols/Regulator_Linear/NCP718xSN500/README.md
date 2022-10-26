@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORLINEARNCP718XSN5 > NCP718xSN500
+# SZKREGULATORLINEARNCP718XSN5 > Regulator_Linear : NCP718xSN500
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-NCP718xSN500
 - Hex ID: SZKREGULATORLINEARNCP718XSN5
-- Name: NCP718xSN500
-- Description: NCP718xSN500
+- Name: Regulator_Linear : NCP718xSN500
+- Description: Regulator_Linear : NCP718xSN500
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-NCP718xSN500](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-NCP718xSN500)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARNCP718XSN5](http://oom.lt/SZKREGULATORLINEARNCP718XSN5)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|NCP718xSN500|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-NCP718xSN500|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARNCP718XSN5|
-|name|name|NCP718xSN500|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LP5907MFX-1.2', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'NCP718xSN500', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-5', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pub/Collateral/NCP718-D.PDF', 'kicadSymbolki_keywords': 'Single Output LDO Wide Input', 'kicadSymbolki_description': '300-mA, Wide Input Voltage, Low-IQ LDO, 5.0V, SOT-23', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
+|name|name|Regulator_Linear : NCP718xSN500|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'LP5907MFX-1.2'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'NCP718xSN500'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-23-5'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.onsemi.com/pub/Collateral/NCP718-D.PDF'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Single Output LDO Wide Input'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '300-mA</td><td> Wide Input Voltage</td><td> Low-IQ LDO</td><td> 5.0V</td><td> SOT-23'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23*'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKINTERFACEPCA96DP > PCA9600DP
+# SZKINTERFACEPCA96DP > Interface : PCA9600DP
 
 - ID: SYMBOL-kicad-kicad-symbols-Interface-PCA9600DP
 - Hex ID: SZKINTERFACEPCA96DP
-- Name: PCA9600DP
-- Description: PCA9600DP
+- Name: Interface : PCA9600DP
+- Description: Interface : PCA9600DP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-PCA9600DP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-PCA9600DP)
 - Short Link: [http://oom.lt/SZKINTERFACEPCA96DP](http://oom.lt/SZKINTERFACEPCA96DP)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PCA9600DP|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface-PCA9600DP|
 |Hex ID (short code)|hexID|SZKINTERFACEPCA96DP|
-|name|name|PCA9600DP|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PCA9600DP', 'kicadSymbolFootprint': 'Package_SO:TSSOP-8_3x3mm_P0.65mm', 'kicadSymbolDatasheet': 'https://www.nxp.com/docs/en/data-sheet/PCA9600.pdf', 'kicadSymbolki_keywords': 'I2C buffer', 'kicadSymbolki_description': 'Dual bidirectional bus buffer, TSSOP-8', 'kicadSymbolki_fp_filters': 'TSSOP*3x3mm*P0.65mm*'}]|
+|name|name|Interface : PCA9600DP|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'PCA9600DP'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>TSSOP-8_3x3mm_P0.65mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.nxp.com/docs/en/data-sheet/PCA9600.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'I2C buffer'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Dual bidirectional bus buffer</td><td> TSSOP-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TSSOP*3x3mm*P0.65mm*'</td></tr></table>]|
 ||||

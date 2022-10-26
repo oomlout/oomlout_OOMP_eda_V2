@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_SPDT_Finder_32.21-x000|
 |Hex ID (short code)|hexID|FZKRELRELAYSPDTFINDER3221X|
 |name|name|Relay_THT : Relay_SPDT_Finder_32.21-x000|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Relay_SPDT_Finder_32.21-x000', 'description': 'Finder 32.21-x000 Relay, SPDT, https://gfinder.findernet.com/assets/Series/355/S32EN.pdf', 'tags': 'AXICOM IM-Series Relay SPDT', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Relay_THT.3dshapes/Relay_SPDT_Finder_32.21-x000.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Relay_SPDT_Finder_32.21-x000'</td><td> 'description'</td></tr><tr><td> 'Finder 32.21-x000 Relay</td><td> SPDT</td><td> https</td></tr><tr><td>//gfinder.findernet.com/assets/Series/355/S32EN.pdf'</td><td> 'tags'</td></tr><tr><td> 'AXICOM IM-Series Relay SPDT'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Relay_THT.3dshapes/Relay_SPDT_Finder_32.21-x000.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

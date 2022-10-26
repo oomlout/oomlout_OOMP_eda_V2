@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Neosid_MicroCoil_Ms36-L|
 |Hex ID (short code)|hexID|FZKINDUCTORSMLNEOSIDMCOILMS36L|
 |name|name|Inductor_SMD : L_Neosid_MicroCoil_Ms36-L|
-|Footprint Kicad|footprintKicadDetails|{'name': 'L_Neosid_MicroCoil_Ms36-L', 'description': 'Neosid, Micro Coil, Inductor, Ms36-L, SMD, Fixed inductor, anti clockwise, https://neosid.de/en/products/inductors/rod-core-chokes/smd-rod-core-chokes/52026/ms-36/7-h?c=94', 'tags': 'Neosid Micro Coil Inductor Ms36-L SMD Fixed inductor anti clockwise', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Neosid_MicroCoil_Ms36-L.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'L_Neosid_MicroCoil_Ms36-L'</td><td> 'description'</td></tr><tr><td> 'Neosid</td><td> Micro Coil</td><td> Inductor</td><td> Ms36-L</td><td> SMD</td><td> Fixed inductor</td><td> anti clockwise</td><td> https</td></tr><tr><td>//neosid.de/en/products/inductors/rod-core-chokes/smd-rod-core-chokes/52026/ms-36/7-h?c=94'</td><td> 'tags'</td></tr><tr><td> 'Neosid Micro Coil Inductor Ms36-L SMD Fixed inductor anti clockwise'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Inductor_SMD.3dshapes/L_Neosid_MicroCoil_Ms36-L.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

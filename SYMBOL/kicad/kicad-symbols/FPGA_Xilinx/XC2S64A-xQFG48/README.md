@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKFPGAXILINXXC2S64AXQFG48 > XC2S64A-xQFG48
+# SZKFPGAXILINXXC2S64AXQFG48 > FPGA_Xilinx : XC2S64A-xQFG48
 
 - ID: SYMBOL-kicad-kicad-symbols-FPGA_Xilinx-XC2S64A-xQFG48
 - Hex ID: SZKFPGAXILINXXC2S64AXQFG48
-- Name: XC2S64A-xQFG48
-- Description: XC2S64A-xQFG48
+- Name: FPGA_Xilinx : XC2S64A-xQFG48
+- Description: FPGA_Xilinx : XC2S64A-xQFG48
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx-XC2S64A-xQFG48](http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx-XC2S64A-xQFG48)
 - Short Link: [http://oom.lt/SZKFPGAXILINXXC2S64AXQFG48](http://oom.lt/SZKFPGAXILINXXC2S64AXQFG48)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|XC2S64A-xQFG48|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-FPGA_Xilinx-XC2S64A-xQFG48|
 |Hex ID (short code)|hexID|SZKFPGAXILINXXC2S64AXQFG48|
-|name|name|XC2S64A-xQFG48|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'XC2S64A-xQFG48', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'xilinx/xc2c64.pdf', 'kicadSymbolki_description': 'Xilinx CoolRunner'}]|
+|name|name|FPGA_Xilinx : XC2S64A-xQFG48|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'XC2S64A-xQFG48'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'xilinx/xc2c64.pdf'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Xilinx CoolRunner'</td></tr></table>]|
 ||||

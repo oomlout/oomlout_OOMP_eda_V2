@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORBJTDTD122J > DTD122J
+# SZKTRANSISTORBJTDTD122J > Transistor_BJT : DTD122J
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-DTD122J
 - Hex ID: SZKTRANSISTORBJTDTD122J
-- Name: DTD122J
-- Description: DTD122J
+- Name: Transistor_BJT : DTD122J
+- Description: Transistor_BJT : DTD122J
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-DTD122J](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-DTD122J)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTDTD122J](http://oom.lt/SZKTRANSISTORBJTDTD122J)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DTD122J|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_BJT-DTD122J|
 |Hex ID (short code)|hexID|SZKTRANSISTORBJTDTD122J|
-|name|name|DTD122J|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'DTD122J', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_keywords': 'ROHM Digital NPN Transistor', 'kicadSymbolki_description': 'Digital NPN Transistor, 0k22/4k7, SOT-23', 'kicadSymbolki_fp_filters': 'SOT?23* SC?59*'}]|
+|name|name|Transistor_BJT : DTD122J|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'DTD122J'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'ROHM Digital NPN Transistor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Digital NPN Transistor</td><td> 0k22/4k7</td><td> SOT-23'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23* SC?59*'</td></tr></table>]|
 ||||

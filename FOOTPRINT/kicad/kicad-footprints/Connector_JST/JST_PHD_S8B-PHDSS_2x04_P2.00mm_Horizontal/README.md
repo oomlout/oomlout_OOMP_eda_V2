@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_PHD_S8B-PHDSS_2x04_P2.00mm_Horizontal|
 |Hex ID (short code)|hexID|FZKCNJSTJSTPHDS8BPHDSS2X4P2HORIZONTAL|
 |name|name|Connector_JST : JST_PHD_S8B-PHDSS_2x04_P2.00mm_Horizontal|
-|Footprint Kicad|footprintKicadDetails|{'name': 'JST_PHD_S8B-PHDSS_2x04_P2.00mm_Horizontal', 'description': 'JST PHD series connector, S8B-PHDSS (http://www.jst-mfg.com/product/pdf/eng/ePHD.pdf), generated with kicad-footprint-generator', 'tags': 'connector JST PHD horizontal', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_JST.3dshapes/JST_PHD_S8B-PHDSS_2x04_P2.00mm_Horizontal.wrl', 'pins': {'type': 'thru_hole', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'JST_PHD_S8B-PHDSS_2x04_P2.00mm_Horizontal'</td><td> 'description'</td></tr><tr><td> 'JST PHD series connector</td><td> S8B-PHDSS (http</td></tr><tr><td>//www.jst-mfg.com/product/pdf/eng/ePHD.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'connector JST PHD horizontal'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_JST.3dshapes/JST_PHD_S8B-PHDSS_2x04_P2.00mm_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

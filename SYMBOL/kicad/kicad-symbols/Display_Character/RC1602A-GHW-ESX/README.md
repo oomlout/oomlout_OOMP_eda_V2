@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDICHARACTERRC162AGHWESX > RC1602A-GHW-ESX
+# SZKDICHARACTERRC162AGHWESX > Display_Character : RC1602A-GHW-ESX
 
 - ID: SYMBOL-kicad-kicad-symbols-Display_Character-RC1602A-GHW-ESX
 - Hex ID: SZKDICHARACTERRC162AGHWESX
-- Name: RC1602A-GHW-ESX
-- Description: RC1602A-GHW-ESX
+- Name: Display_Character : RC1602A-GHW-ESX
+- Description: Display_Character : RC1602A-GHW-ESX
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-RC1602A-GHW-ESX](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-RC1602A-GHW-ESX)
 - Short Link: [http://oom.lt/SZKDICHARACTERRC162AGHWESX](http://oom.lt/SZKDICHARACTERRC162AGHWESX)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|RC1602A-GHW-ESX|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Display_Character-RC1602A-GHW-ESX|
 |Hex ID (short code)|hexID|SZKDICHARACTERRC162AGHWESX|
-|name|name|RC1602A-GHW-ESX|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'RC1602A-GHW-ESX', 'kicadSymbolFootprint': 'Display:RC1602A', 'kicadSymbolDatasheet': 'http://www.raystar-optronics.com/down.php?ProID=18', 'kicadSymbolki_keywords': 'display LCD dot-matrix', 'kicadSymbolki_description': 'LCD 16x2 Alphanumeric 16pin Gray Backlight', 'kicadSymbolki_fp_filters': 'RC1602A*'}]|
+|name|name|Display_Character : RC1602A-GHW-ESX|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'RC1602A-GHW-ESX'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Display</td></tr><tr><td>RC1602A'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.raystar-optronics.com/down.php?ProID=18'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'display LCD dot-matrix'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'LCD 16x2 Alphanumeric 16pin Gray Backlight'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'RC1602A*'</td></tr></table>]|
 ||||

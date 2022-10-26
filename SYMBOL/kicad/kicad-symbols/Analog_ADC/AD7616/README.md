@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKANALOGADCAD7616 > AD7616
+# SZKANALOGADCAD7616 > Analog_ADC : AD7616
 
 - ID: SYMBOL-kicad-kicad-symbols-Analog_ADC-AD7616
 - Hex ID: SZKANALOGADCAD7616
-- Name: AD7616
-- Description: AD7616
+- Name: Analog_ADC : AD7616
+- Description: Analog_ADC : AD7616
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-AD7616](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-AD7616)
 - Short Link: [http://oom.lt/SZKANALOGADCAD7616](http://oom.lt/SZKANALOGADCAD7616)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AD7616|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_ADC-AD7616|
 |Hex ID (short code)|hexID|SZKANALOGADCAD7616|
-|name|name|AD7616|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AD7616', 'kicadSymbolFootprint': 'Package_QFP:LQFP-80_14x14mm_P0.65mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/AD7616.pdf', 'kicadSymbolki_keywords': '16bit DAS ADC 16channel 1MSPS', 'kicadSymbolki_description': '16-Channel DAS with 16-Bit, Bipolar Input, Dual Simultaneous Sampling ADC, 2x1MSPS ADC, Serial and parallel IO, LQFP-80', 'kicadSymbolki_fp_filters': 'LQFP*14x14mm*P0.65mm*'}]|
+|name|name|Analog_ADC : AD7616|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'AD7616'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_QFP</td></tr><tr><td>LQFP-80_14x14mm_P0.65mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/AD7616.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> '16bit DAS ADC 16channel 1MSPS'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '16-Channel DAS with 16-Bit</td><td> Bipolar Input</td><td> Dual Simultaneous Sampling ADC</td><td> 2x1MSPS ADC</td><td> Serial and parallel IO</td><td> LQFP-80'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'LQFP*14x14mm*P0.65mm*'</td></tr></table>]|
 ||||

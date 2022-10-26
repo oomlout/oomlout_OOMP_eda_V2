@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKJJ3BRIDGED12 > Jumper_3_Bridged12
+# SZKJJ3BRIDGED12 > Jumper : Jumper_3_Bridged12
 
 - ID: SYMBOL-kicad-kicad-symbols-Jumper-Jumper_3_Bridged12
 - Hex ID: SZKJJ3BRIDGED12
-- Name: Jumper_3_Bridged12
-- Description: Jumper_3_Bridged12
+- Name: Jumper : Jumper_3_Bridged12
+- Description: Jumper : Jumper_3_Bridged12
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Jumper-Jumper_3_Bridged12](http://oom.lt/SYMBOL-kicad-kicad-symbols-Jumper-Jumper_3_Bridged12)
 - Short Link: [http://oom.lt/SZKJJ3BRIDGED12](http://oom.lt/SZKJJ3BRIDGED12)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Jumper_3_Bridged12|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Jumper-Jumper_3_Bridged12|
 |Hex ID (short code)|hexID|SZKJJ3BRIDGED12|
-|name|name|Jumper_3_Bridged12|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'JP', 'kicadSymbolValue': 'Jumper_3_Bridged12', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'Jumper SPDT', 'kicadSymbolki_description': 'Jumper, 3-pole, pins 1+2 closed/bridged', 'kicadSymbolki_fp_filters': 'Jumper* TestPoint*3Pads* TestPoint*Bridge*'}]|
+|name|name|Jumper : Jumper_3_Bridged12|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'JP'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Jumper_3_Bridged12'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Jumper SPDT'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Jumper</td><td> 3-pole</td><td> pins 1+2 closed/bridged'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Jumper* TestPoint*3Pads* TestPoint*Bridge*'</td></tr></table>]|
 ||||

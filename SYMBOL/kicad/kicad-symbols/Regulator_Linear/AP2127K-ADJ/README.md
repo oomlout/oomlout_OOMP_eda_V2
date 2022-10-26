@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORLINEARAP2127KADJ > AP2127K-ADJ
+# SZKREGULATORLINEARAP2127KADJ > Regulator_Linear : AP2127K-ADJ
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-AP2127K-ADJ
 - Hex ID: SZKREGULATORLINEARAP2127KADJ
-- Name: AP2127K-ADJ
-- Description: AP2127K-ADJ
+- Name: Regulator_Linear : AP2127K-ADJ
+- Description: Regulator_Linear : AP2127K-ADJ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-AP2127K-ADJ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-AP2127K-ADJ)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARAP2127KADJ](http://oom.lt/SZKREGULATORLINEARAP2127KADJ)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AP2127K-ADJ|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-AP2127K-ADJ|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARAP2127KADJ|
-|name|name|AP2127K-ADJ|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'AP2204K-ADJ', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AP2127K-ADJ', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-5', 'kicadSymbolDatasheet': 'https://www.diodes.com/assets/Datasheets/AP2127.pdf', 'kicadSymbolki_keywords': 'linear regulator ldo adjustable positive', 'kicadSymbolki_description': '300mA low dropout adjustable linear regulator, shutdown pin, 2.5V-6V input voltage, SOT-23-5 package', 'kicadSymbolki_fp_filters': 'SOT?23?5*'}]|
+|name|name|Regulator_Linear : AP2127K-ADJ|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'AP2204K-ADJ'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'AP2127K-ADJ'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-23-5'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.diodes.com/assets/Datasheets/AP2127.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'linear regulator ldo adjustable positive'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '300mA low dropout adjustable linear regulator</td><td> shutdown pin</td><td> 2.5V-6V input voltage</td><td> SOT-23-5 package'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23?5*'</td></tr></table>]|
 ||||

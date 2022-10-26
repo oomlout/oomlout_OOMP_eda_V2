@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORSWITCHINGKA5H265RCTU > KA5H0265RCTU
+# SZKREGULATORSWITCHINGKA5H265RCTU > Regulator_Switching : KA5H0265RCTU
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-KA5H0265RCTU
 - Hex ID: SZKREGULATORSWITCHINGKA5H265RCTU
-- Name: KA5H0265RCTU
-- Description: KA5H0265RCTU
+- Name: Regulator_Switching : KA5H0265RCTU
+- Description: Regulator_Switching : KA5H0265RCTU
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-KA5H0265RCTU](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-KA5H0265RCTU)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGKA5H265RCTU](http://oom.lt/SZKREGULATORSWITCHINGKA5H265RCTU)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|KA5H0265RCTU|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-KA5H0265RCTU|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGKA5H265RCTU|
-|name|name|KA5H0265RCTU|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'KA5H0265RCTU', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:ONSemi_TO-220-5L', 'kicadSymbolDatasheet': 'http://www.onsemi.com/pub/Collateral/KA5L0265R-D.PDF', 'kicadSymbolki_keywords': 'SMPS Controller AC-DC', 'kicadSymbolki_description': '100kHz SMPS Controller w/ Soft Start, AC-DC, TO-220F-5L', 'kicadSymbolki_fp_filters': '*TO*220*5L*'}]|
+|name|name|Regulator_Switching : KA5H0265RCTU|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'KA5H0265RCTU'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_THT</td></tr><tr><td>ONSemi_TO-220-5L'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.onsemi.com/pub/Collateral/KA5L0265R-D.PDF'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'SMPS Controller AC-DC'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '100kHz SMPS Controller w/ Soft Start</td><td> AC-DC</td><td> TO-220F-5L'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> '*TO*220*5L*'</td></tr></table>]|
 ||||

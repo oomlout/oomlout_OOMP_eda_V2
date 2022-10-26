@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKINTERFACECANLINMCP2558FDXMNY > MCP2558FD-xMNY
+# SZKINTERFACECANLINMCP2558FDXMNY > Interface_CAN_LIN : MCP2558FD-xMNY
 
 - ID: SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-MCP2558FD-xMNY
 - Hex ID: SZKINTERFACECANLINMCP2558FDXMNY
-- Name: MCP2558FD-xMNY
-- Description: MCP2558FD-xMNY
+- Name: Interface_CAN_LIN : MCP2558FD-xMNY
+- Description: Interface_CAN_LIN : MCP2558FD-xMNY
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-MCP2558FD-xMNY](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-MCP2558FD-xMNY)
 - Short Link: [http://oom.lt/SZKINTERFACECANLINMCP2558FDXMNY](http://oom.lt/SZKINTERFACECANLINMCP2558FDXMNY)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MCP2558FD-xMNY|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-MCP2558FD-xMNY|
 |Hex ID (short code)|hexID|SZKINTERFACECANLINMCP2558FDXMNY|
-|name|name|MCP2558FD-xMNY|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MCP2558FD-xMNY', 'kicadSymbolFootprint': 'Package_DFN_QFN:TDFN-8-1EP_3x2mm_P0.5mm_EP1.80x1.65mm', 'kicadSymbolDatasheet': 'https://ww1.microchip.com/downloads/en/DeviceDoc/20005533A.pdf', 'kicadSymbolki_keywords': 'CAN FD Transceiver', 'kicadSymbolki_description': 'CAN FD Transceiver with Silent Mode, up to 8 Mbps, TDFN-8', 'kicadSymbolki_fp_filters': 'TDFN*1EP*3x2mm*P0.5mm*'}]|
+|name|name|Interface_CAN_LIN : MCP2558FD-xMNY|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MCP2558FD-xMNY'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>TDFN-8-1EP_3x2mm_P0.5mm_EP1.80x1.65mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/20005533A.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'CAN FD Transceiver'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'CAN FD Transceiver with Silent Mode</td><td> up to 8 Mbps</td><td> TDFN-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TDFN*1EP*3x2mm*P0.5mm*'</td></tr></table>]|
 ||||

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Display-LCD-016N002L|
 |Hex ID (short code)|hexID|FZKDILCD16N2L|
 |name|name|Display : LCD-016N002L|
-|Footprint Kicad|footprintKicadDetails|{'name': 'LCD-016N002L', 'description': '16 x 2 Character LCD, http://www.vishay.com/product?docid=37299', 'tags': 'LCD-016N002L 16 x 2 Character LCD', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Display.3dshapes/LCD-016N002L.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'LCD-016N002L'</td><td> 'description'</td></tr><tr><td> '16 x 2 Character LCD</td><td> http</td></tr><tr><td>//www.vishay.com/product?docid=37299'</td><td> 'tags'</td></tr><tr><td> 'LCD-016N002L 16 x 2 Character LCD'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Display.3dshapes/LCD-016N002L.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

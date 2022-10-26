@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORLINEARIFX2541TBV5 > IFX25401TBV50
+# SZKREGULATORLINEARIFX2541TBV5 > Regulator_Linear : IFX25401TBV50
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-IFX25401TBV50
 - Hex ID: SZKREGULATORLINEARIFX2541TBV5
-- Name: IFX25401TBV50
-- Description: IFX25401TBV50
+- Name: Regulator_Linear : IFX25401TBV50
+- Description: Regulator_Linear : IFX25401TBV50
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-IFX25401TBV50](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-IFX25401TBV50)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARIFX2541TBV5](http://oom.lt/SZKREGULATORLINEARIFX2541TBV5)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IFX25401TBV50|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-IFX25401TBV50|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARIFX2541TBV5|
-|name|name|IFX25401TBV50|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'IFX25401TBV50', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TO-263-5_TabPin3', 'kicadSymbolDatasheet': 'https://www.infineon.com/dgdl/Infineon-IFX25401-DS-v01_02-en.pdf?fileId=db3a304320d39d590120f62a690569f7', 'kicadSymbolki_keywords': 'fixed ldo positive voltage regulator', 'kicadSymbolki_description': 'Fixed 5V LDO Linear Voltage Regulator (TO-263-5)', 'kicadSymbolki_fp_filters': 'TO?263*TabPin3*'}]|
+|name|name|Regulator_Linear : IFX25401TBV50|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'IFX25401TBV50'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>TO-263-5_TabPin3'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.infineon.com/dgdl/Infineon-IFX25401-DS-v01_02-en.pdf?fileId=db3a304320d39d590120f62a690569f7'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'fixed ldo positive voltage regulator'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Fixed 5V LDO Linear Voltage Regulator (TO-263-5)'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TO?263*TabPin3*'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICRESE85XO2431R8O243C17575 > RESE-0805-X-O243-01-R8O243-C17575
+# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICRESE85XO2431R8O243C17575 > oomlout_OOMP_JLCC_Basic : RESE-0805-X-O243-01-R8O243-C17575
 
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-0805-X-O243-01-R8O243-C17575
 - Hex ID: SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICRESE85XO2431R8O243C17575
-- Name: RESE-0805-X-O243-01-R8O243-C17575
-- Description: RESE-0805-X-O243-01-R8O243-C17575
+- Name: oomlout_OOMP_JLCC_Basic : RESE-0805-X-O243-01-R8O243-C17575
+- Description: oomlout_OOMP_JLCC_Basic : RESE-0805-X-O243-01-R8O243-C17575
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-0805-X-O243-01-R8O243-C17575](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-0805-X-O243-01-R8O243-C17575)
 - Short Link: [http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICRESE85XO2431R8O243C17575](http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICRESE85XO2431R8O243C17575)
   
@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|RESE-0805-X-O243-01-R8O243-C17575|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-0805-X-O243-01-R8O243-C17575|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICRESE85XO2431R8O243C17575|
-|name|name|RESE-0805-X-O243-01-R8O243-C17575|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'R', 'kicadSymbolValue': 'RESE-0805-X-O243-01-R8O243-C17575', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:RESE-0805-X-O243-01-R8O243-C17575', 'kicadSymbolDatasheet': 'oom.lt/R8O243', 'kicadSymbolki_keywords': 'R res resistor', 'kicadSymbolki_description': 'hexID: R8O243;PARTL C-JLCC;C17575;MANUF C-XXXX;0805W8F2402T5E;Resistor', 'kicadSymbolki_fp_filters': 'R_*'}]|
+|name|name|oomlout_OOMP_JLCC_Basic : RESE-0805-X-O243-01-R8O243-C17575|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'R'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'RESE-0805-X-O243-01-R8O243-C17575'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'oomlout_OOMP_parts</td></tr><tr><td>RESE-0805-X-O243-01-R8O243-C17575'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'oom.lt/R8O243'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'R res resistor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'hexID</td></tr><tr><td> R8O243;PARTL C-JLCC;C17575;MANUF C-XXXX;0805W8F2402T5E;Resistor'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'R_*'</td></tr></table>]|
 ||||

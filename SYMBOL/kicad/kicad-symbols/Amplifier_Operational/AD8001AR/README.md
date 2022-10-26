@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKAMPLIFIEROPERATIONALAD81AR > AD8001AR
+# SZKAMPLIFIEROPERATIONALAD81AR > Amplifier_Operational : AD8001AR
 
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-AD8001AR
 - Hex ID: SZKAMPLIFIEROPERATIONALAD81AR
-- Name: AD8001AR
-- Description: AD8001AR
+- Name: Amplifier_Operational : AD8001AR
+- Description: Amplifier_Operational : AD8001AR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-AD8001AR](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-AD8001AR)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALAD81AR](http://oom.lt/SZKAMPLIFIEROPERATIONALAD81AR)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AD8001AR|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Operational-AD8001AR|
 |Hex ID (short code)|hexID|SZKAMPLIFIEROPERATIONALAD81AR|
-|name|name|AD8001AR|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'OPA333xxD', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AD8001AR', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/ad8001.pdf', 'kicadSymbolki_keywords': 'single opamp', 'kicadSymbolki_description': 'Current Feedback Amplifier, 800 MHz, 50mW, SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm*'}]|
+|name|name|Amplifier_Operational : AD8001AR|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'OPA333xxD'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'AD8001AR'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-8_3.9x4.9mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/ad8001.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'single opamp'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Current Feedback Amplifier</td><td> 800 MHz</td><td> 50mW</td><td> SOIC-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*3.9x4.9mm*P1.27mm*'</td></tr></table>]|
 ||||

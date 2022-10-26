@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-OptoDevice-Hamamatsu_S13360-30CS|
 |Hex ID (short code)|hexID|FZKOPHAMAMATSUS13363CS|
 |name|name|OptoDevice : Hamamatsu_S13360-30CS|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Hamamatsu_S13360-30CS', 'description': 'SiPM, 2pin', 'tags': 'Hamamatsu SiPM', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/Hamamatsu_S13360-30CS.wrl', 'pins': {'type': 'thru_hole', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Hamamatsu_S13360-30CS'</td><td> 'description'</td></tr><tr><td> 'SiPM</td><td> 2pin'</td><td> 'tags'</td></tr><tr><td> 'Hamamatsu SiPM'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/OptoDevice.3dshapes/Hamamatsu_S13360-30CS.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

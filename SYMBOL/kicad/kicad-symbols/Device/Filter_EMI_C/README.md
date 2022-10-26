@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDEVICEFILEMIC > Filter_EMI_C
+# SZKDEVICEFILEMIC > Device : Filter_EMI_C
 
 - ID: SYMBOL-kicad-kicad-symbols-Device-Filter_EMI_C
 - Hex ID: SZKDEVICEFILEMIC
-- Name: Filter_EMI_C
-- Description: Filter_EMI_C
+- Name: Device : Filter_EMI_C
+- Description: Device : Filter_EMI_C
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Filter_EMI_C](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Filter_EMI_C)
 - Short Link: [http://oom.lt/SZKDEVICEFILEMIC](http://oom.lt/SZKDEVICEFILEMIC)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Filter_EMI_C|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-Filter_EMI_C|
 |Hex ID (short code)|hexID|SZKDEVICEFILEMIC|
-|name|name|Filter_EMI_C|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'C_Feedthrough', 'kicadSymbolReference': 'C', 'kicadSymbolValue': 'Filter_EMI_C', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.murata.com/~/media/webrenewal/support/library/catalog/products/emc/emifil/c31e.ashx?la=en-gb', 'kicadSymbolki_keywords': 'EMI filter feedthrough capacitor', 'kicadSymbolki_description': 'EMI filter, single capacitor'}]|
+|name|name|Device : Filter_EMI_C|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'C_Feedthrough'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'C'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Filter_EMI_C'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.murata.com/~/media/webrenewal/support/library/catalog/products/emc/emifil/c31e.ashx?la=en-gb'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'EMI filter feedthrough capacitor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'EMI filter</td><td> single capacitor'</td></tr></table>]|
 ||||

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Display_7Segment-SA15-11xxx|
 |Hex ID (short code)|hexID|FZKDI7SSA1511XXX|
 |name|name|Display_7Segment : SA15-11xxx|
-|Footprint Kicad|footprintKicadDetails|{'name': 'SA15-11xxx', 'description': 'http://www.kingbrightusa.com/images/catalog/SPEC/SA15-11SRWA.pdf', 'tags': 'SA15-11xxx single digit 7 segment display 38.1mm 1.5inch', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Display_7Segment.3dshapes/SA15-11xxx.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SA15-11xxx'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//www.kingbrightusa.com/images/catalog/SPEC/SA15-11SRWA.pdf'</td><td> 'tags'</td></tr><tr><td> 'SA15-11xxx single digit 7 segment display 38.1mm 1.5inch'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Display_7Segment.3dshapes/SA15-11xxx.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

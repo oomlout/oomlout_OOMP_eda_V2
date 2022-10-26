@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKAMPLIFIEROPERATIONALOPA2196XD > OPA2196xD
+# SZKAMPLIFIEROPERATIONALOPA2196XD > Amplifier_Operational : OPA2196xD
 
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA2196xD
 - Hex ID: SZKAMPLIFIEROPERATIONALOPA2196XD
-- Name: OPA2196xD
-- Description: OPA2196xD
+- Name: Amplifier_Operational : OPA2196xD
+- Description: Amplifier_Operational : OPA2196xD
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA2196xD](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA2196xD)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALOPA2196XD](http://oom.lt/SZKAMPLIFIEROPERATIONALOPA2196XD)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|OPA2196xD|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA2196xD|
 |Hex ID (short code)|hexID|SZKAMPLIFIEROPERATIONALOPA2196XD|
-|name|name|OPA2196xD|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'NCS2325D', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'OPA2196xD', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/opa4196.pdf', 'kicadSymbolki_keywords': 'dual opamp low-power', 'kicadSymbolki_description': 'Dual, Low-Power, Low Offset Voltage, Rail-to-Rail Operational Amplifier, SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm*'}]|
+|name|name|Amplifier_Operational : OPA2196xD|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'NCS2325D'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'OPA2196xD'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-8_3.9x4.9mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/opa4196.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'dual opamp low-power'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Dual</td><td> Low-Power</td><td> Low Offset Voltage</td><td> Rail-to-Rail Operational Amplifier</td><td> SOIC-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*3.9x4.9mm*P1.27mm*'</td></tr></table>]|
 ||||

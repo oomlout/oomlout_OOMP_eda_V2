@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_BGA-BGA-400_21.0x21.0mm_Layout20x20_P1.0mm|
 |Hex ID (short code)|hexID|FZKBGABGA421X21LAYOUT2X2P1|
 |name|name|Package_BGA : BGA-400_21.0x21.0mm_Layout20x20_P1.0mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'BGA-400_21.0x21.0mm_Layout20x20_P1.0mm', 'description': 'BGA-400, https://www.xilinx.com/support/documentation/package_specs/fg400.pdf', 'tags': 'BGA-400', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/BGA-400_21.0x21.0mm_Layout20x20_P1.0mm.wrl', 'pins': {'type': 'smd', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'BGA-400_21.0x21.0mm_Layout20x20_P1.0mm'</td><td> 'description'</td></tr><tr><td> 'BGA-400</td><td> https</td></tr><tr><td>//www.xilinx.com/support/documentation/package_specs/fg400.pdf'</td><td> 'tags'</td></tr><tr><td> 'BGA-400'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_BGA.3dshapes/BGA-400_21.0x21.0mm_Layout20x20_P1.0mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

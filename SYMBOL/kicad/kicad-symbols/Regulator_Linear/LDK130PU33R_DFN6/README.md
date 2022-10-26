@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORLINEARLDK13PU33RDFN6 > LDK130PU33R_DFN6
+# SZKREGULATORLINEARLDK13PU33RDFN6 > Regulator_Linear : LDK130PU33R_DFN6
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-LDK130PU33R_DFN6
 - Hex ID: SZKREGULATORLINEARLDK13PU33RDFN6
-- Name: LDK130PU33R_DFN6
-- Description: LDK130PU33R_DFN6
+- Name: Regulator_Linear : LDK130PU33R_DFN6
+- Description: Regulator_Linear : LDK130PU33R_DFN6
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LDK130PU33R_DFN6](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LDK130PU33R_DFN6)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARLDK13PU33RDFN6](http://oom.lt/SZKREGULATORLINEARLDK13PU33RDFN6)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LDK130PU33R_DFN6|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-LDK130PU33R_DFN6|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARLDK13PU33RDFN6|
-|name|name|LDK130PU33R_DFN6|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LDK130PU08R_DFN6', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LDK130PU33R_DFN6', 'kicadSymbolFootprint': 'Package_DFN_QFN:DFN-6_1.3x1.2mm_P0.4mm', 'kicadSymbolDatasheet': 'http://www.st.com/content/ccc/resource/technical/document/datasheet/29/10/f7/87/2f/66/47/f4/DM00076097.pdf/files/DM00076097.pdf/jcr:content/translations/en.DM00076097.pdf', 'kicadSymbolki_keywords': 'linear regulator ldo fixed positive low noise low quienscent current', 'kicadSymbolki_description': '300mA low dropout linear regulator, low quiescent current very, low noise, shutdown pin, fixed 3.3V positive output, DFN-6', 'kicadSymbolki_fp_filters': 'DFN*1.3x1.2mm*P0.4mm*'}]|
+|name|name|Regulator_Linear : LDK130PU33R_DFN6|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'LDK130PU08R_DFN6'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LDK130PU33R_DFN6'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>DFN-6_1.3x1.2mm_P0.4mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.st.com/content/ccc/resource/technical/document/datasheet/29/10/f7/87/2f/66/47/f4/DM00076097.pdf/files/DM00076097.pdf/jcr</td></tr><tr><td>content/translations/en.DM00076097.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'linear regulator ldo fixed positive low noise low quienscent current'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '300mA low dropout linear regulator</td><td> low quiescent current very</td><td> low noise</td><td> shutdown pin</td><td> fixed 3.3V positive output</td><td> DFN-6'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DFN*1.3x1.2mm*P0.4mm*'</td></tr></table>]|
 ||||

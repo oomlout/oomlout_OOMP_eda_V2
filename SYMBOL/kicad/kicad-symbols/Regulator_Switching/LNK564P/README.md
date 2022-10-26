@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORSWITCHINGLNK564P > LNK564P
+# SZKREGULATORSWITCHINGLNK564P > Regulator_Switching : LNK564P
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK564P
 - Hex ID: SZKREGULATORSWITCHINGLNK564P
-- Name: LNK564P
-- Description: LNK564P
+- Name: Regulator_Switching : LNK564P
+- Description: Regulator_Switching : LNK564P
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK564P](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK564P)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGLNK564P](http://oom.lt/SZKREGULATORSWITCHINGLNK564P)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LNK564P|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK564P|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGLNK564P|
-|name|name|LNK564P|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LNK562P', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LNK564P', 'kicadSymbolFootprint': 'Package_DIP:PowerIntegrations_PDIP-8B', 'kicadSymbolDatasheet': 'http://www.powerint.com/sites/default/files/product-docs/linklp_family_datasheet.pdf', 'kicadSymbolki_keywords': 'Energy Efficient Off-Line Switcher IC for Linear Transformer Replacement', 'kicadSymbolki_description': 'LinkSwitch-LP Family, 3W Output Power, DIP-8B', 'kicadSymbolki_fp_filters': 'PowerIntegrations?PDIP?8B*'}]|
+|name|name|Regulator_Switching : LNK564P|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'LNK562P'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LNK564P'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>PowerIntegrations_PDIP-8B'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.powerint.com/sites/default/files/product-docs/linklp_family_datasheet.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Energy Efficient Off-Line Switcher IC for Linear Transformer Replacement'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'LinkSwitch-LP Family</td><td> 3W Output Power</td><td> DIP-8B'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'PowerIntegrations?PDIP?8B*'</td></tr></table>]|
 ||||

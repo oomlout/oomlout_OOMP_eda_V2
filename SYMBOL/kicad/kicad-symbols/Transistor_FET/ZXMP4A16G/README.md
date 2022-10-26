@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORFETZXMP4A16G > ZXMP4A16G
+# SZKTRANSISTORFETZXMP4A16G > Transistor_FET : ZXMP4A16G
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-ZXMP4A16G
 - Hex ID: SZKTRANSISTORFETZXMP4A16G
-- Name: ZXMP4A16G
-- Description: ZXMP4A16G
+- Name: Transistor_FET : ZXMP4A16G
+- Description: Transistor_FET : ZXMP4A16G
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-ZXMP4A16G](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-ZXMP4A16G)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETZXMP4A16G](http://oom.lt/SZKTRANSISTORFETZXMP4A16G)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ZXMP4A16G|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-ZXMP4A16G|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETZXMP4A16G|
-|name|name|ZXMP4A16G|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'ZXMP4A16G', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-223-3_TabPin2', 'kicadSymbolDatasheet': 'https://www.diodes.com/assets/Datasheets/ZXMP4A16G.pdf', 'kicadSymbolki_keywords': 'P-Channel MOSFET', 'kicadSymbolki_description': '-6.4A Id, -40V Vds, P-Channel MOSFET, SOT-223', 'kicadSymbolki_fp_filters': 'SOT?223*'}]|
+|name|name|Transistor_FET : ZXMP4A16G|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ZXMP4A16G'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-223-3_TabPin2'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.diodes.com/assets/Datasheets/ZXMP4A16G.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'P-Channel MOSFET'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '-6.4A Id</td><td> -40V Vds</td><td> P-Channel MOSFET</td><td> SOT-223'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?223*'</td></tr></table>]|
 ||||

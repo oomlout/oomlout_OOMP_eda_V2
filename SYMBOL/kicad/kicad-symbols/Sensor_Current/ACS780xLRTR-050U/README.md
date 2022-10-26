@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKSENCURRENTACS78XLRTR5U > ACS780xLRTR-050U
+# SZKSENCURRENTACS78XLRTR5U > Sensor_Current : ACS780xLRTR-050U
 
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS780xLRTR-050U
 - Hex ID: SZKSENCURRENTACS78XLRTR5U
-- Name: ACS780xLRTR-050U
-- Description: ACS780xLRTR-050U
+- Name: Sensor_Current : ACS780xLRTR-050U
+- Description: Sensor_Current : ACS780xLRTR-050U
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS780xLRTR-050U](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS780xLRTR-050U)
 - Short Link: [http://oom.lt/SZKSENCURRENTACS78XLRTR5U](http://oom.lt/SZKSENCURRENTACS78XLRTR5U)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ACS780xLRTR-050U|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS780xLRTR-050U|
 |Hex ID (short code)|hexID|SZKSENCURRENTACS78XLRTR5U|
-|name|name|ACS780xLRTR-050U|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ACS780xLRTR-050B', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ACS780xLRTR-050U', 'kicadSymbolFootprint': 'Sensor_Current:Allegro_PSOF-7_4.8x6.4mm_P1.60mm', 'kicadSymbolDatasheet': 'http://www.allegromicro.com/~/media/Files/Datasheets/ACS780-Datasheet.ashx?la=en', 'kicadSymbolki_keywords': 'hall effect current monitor sensor isolated', 'kicadSymbolki_description': '50A Unidirectional Hall-Effect Current Sensor, +5.0V supply, 60mV/A, PSOF-7', 'kicadSymbolki_fp_filters': 'Allegro*PSOF*4.8x6.4mm*P1.60mm*'}]|
+|name|name|Sensor_Current : ACS780xLRTR-050U|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'ACS780xLRTR-050B'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ACS780xLRTR-050U'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Sensor_Current</td></tr><tr><td>Allegro_PSOF-7_4.8x6.4mm_P1.60mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.allegromicro.com/~/media/Files/Datasheets/ACS780-Datasheet.ashx?la=en'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'hall effect current monitor sensor isolated'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '50A Unidirectional Hall-Effect Current Sensor</td><td> +5.0V supply</td><td> 60mV/A</td><td> PSOF-7'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Allegro*PSOF*4.8x6.4mm*P1.60mm*'</td></tr></table>]|
 ||||

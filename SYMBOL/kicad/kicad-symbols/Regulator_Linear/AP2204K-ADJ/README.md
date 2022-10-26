@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORLINEARAP224KADJ > AP2204K-ADJ
+# SZKREGULATORLINEARAP224KADJ > Regulator_Linear : AP2204K-ADJ
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-AP2204K-ADJ
 - Hex ID: SZKREGULATORLINEARAP224KADJ
-- Name: AP2204K-ADJ
-- Description: AP2204K-ADJ
+- Name: Regulator_Linear : AP2204K-ADJ
+- Description: Regulator_Linear : AP2204K-ADJ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-AP2204K-ADJ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-AP2204K-ADJ)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARAP224KADJ](http://oom.lt/SZKREGULATORLINEARAP224KADJ)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AP2204K-ADJ|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-AP2204K-ADJ|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARAP224KADJ|
-|name|name|AP2204K-ADJ|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AP2204K-ADJ', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-5', 'kicadSymbolDatasheet': 'https://www.diodes.com/assets/Datasheets/AP2204.pdf', 'kicadSymbolki_keywords': 'linear regulator ldo adjustable positive', 'kicadSymbolki_description': '150mA low dropout adjustable linear regulator, wide input voltage range, SOT-23-5 package', 'kicadSymbolki_fp_filters': 'SOT?23?5*'}]|
+|name|name|Regulator_Linear : AP2204K-ADJ|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'AP2204K-ADJ'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-23-5'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.diodes.com/assets/Datasheets/AP2204.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'linear regulator ldo adjustable positive'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '150mA low dropout adjustable linear regulator</td><td> wide input voltage range</td><td> SOT-23-5 package'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23?5*'</td></tr></table>]|
 ||||

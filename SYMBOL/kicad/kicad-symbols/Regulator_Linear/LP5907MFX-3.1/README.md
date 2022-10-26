@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORLINEARLP597MFX31 > LP5907MFX-3.1
+# SZKREGULATORLINEARLP597MFX31 > Regulator_Linear : LP5907MFX-3.1
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-LP5907MFX-3.1
 - Hex ID: SZKREGULATORLINEARLP597MFX31
-- Name: LP5907MFX-3.1
-- Description: LP5907MFX-3.1
+- Name: Regulator_Linear : LP5907MFX-3.1
+- Description: Regulator_Linear : LP5907MFX-3.1
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LP5907MFX-3.1](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LP5907MFX-3.1)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARLP597MFX31](http://oom.lt/SZKREGULATORLINEARLP597MFX31)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LP5907MFX-3.1|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-LP5907MFX-3.1|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARLP597MFX31|
-|name|name|LP5907MFX-3.1|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LP5907MFX-1.2', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LP5907MFX-3.1', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-5', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lp5907.pdf', 'kicadSymbolki_keywords': 'Single Output LDO Low-Noise', 'kicadSymbolki_description': '250-mA Ultra-Low-Noise Low-IQ LDO, 3.1V, SOT-23', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
+|name|name|Regulator_Linear : LP5907MFX-3.1|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'LP5907MFX-1.2'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LP5907MFX-3.1'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-23-5'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/lp5907.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Single Output LDO Low-Noise'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '250-mA Ultra-Low-Noise Low-IQ LDO</td><td> 3.1V</td><td> SOT-23'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23*'</td></tr></table>]|
 ||||

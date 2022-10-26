@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKINTERFACECANLINPCA82C251 > PCA82C251
+# SZKINTERFACECANLINPCA82C251 > Interface_CAN_LIN : PCA82C251
 
 - ID: SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-PCA82C251
 - Hex ID: SZKINTERFACECANLINPCA82C251
-- Name: PCA82C251
-- Description: PCA82C251
+- Name: Interface_CAN_LIN : PCA82C251
+- Description: Interface_CAN_LIN : PCA82C251
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-PCA82C251](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-PCA82C251)
 - Short Link: [http://oom.lt/SZKINTERFACECANLINPCA82C251](http://oom.lt/SZKINTERFACECANLINPCA82C251)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PCA82C251|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-PCA82C251|
 |Hex ID (short code)|hexID|SZKINTERFACECANLINPCA82C251|
-|name|name|PCA82C251|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PCA82C251', 'kicadSymbolFootprint': 'Package_SO:SO-8_3.9x4.9mm_P1.27mm', 'kicadSymbolDatasheet': 'http://www.nxp.com/documents/data_sheet/PCA82C251.pdf', 'kicadSymbolki_keywords': 'BUS CAN', 'kicadSymbolki_description': 'CAN Transceiver for 24V Systems, SO-8', 'kicadSymbolki_fp_filters': 'SO*3.9x4.9mm*P1.27mm*'}]|
+|name|name|Interface_CAN_LIN : PCA82C251|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'PCA82C251'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SO-8_3.9x4.9mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.nxp.com/documents/data_sheet/PCA82C251.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'BUS CAN'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'CAN Transceiver for 24V Systems</td><td> SO-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SO*3.9x4.9mm*P1.27mm*'</td></tr></table>]|
 ||||

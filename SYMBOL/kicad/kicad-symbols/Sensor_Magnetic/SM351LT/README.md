@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKSENMAGNETICSM351LT > SM351LT
+# SZKSENMAGNETICSM351LT > Sensor_Magnetic : SM351LT
 
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-SM351LT
 - Hex ID: SZKSENMAGNETICSM351LT
-- Name: SM351LT
-- Description: SM351LT
+- Name: Sensor_Magnetic : SM351LT
+- Description: Sensor_Magnetic : SM351LT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-SM351LT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-SM351LT)
 - Short Link: [http://oom.lt/SZKSENMAGNETICSM351LT](http://oom.lt/SZKSENMAGNETICSM351LT)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SM351LT|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-SM351LT|
 |Hex ID (short code)|hexID|SZKSENMAGNETICSM351LT|
-|name|name|SM351LT|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'SM351LT', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23', 'kicadSymbolDatasheet': 'https://sensing.honeywell.com/honeywell-sensing-nanopower-series-product-sheet-50095501-a-en.pdf', 'kicadSymbolki_keywords': 'Hall Effect Switch Sensor', 'kicadSymbolki_description': 'Hall Effect Switch, SOT-23', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
+|name|name|Sensor_Magnetic : SM351LT|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'SM351LT'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-23'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//sensing.honeywell.com/honeywell-sensing-nanopower-series-product-sheet-50095501-a-en.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Hall Effect Switch Sensor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Hall Effect Switch</td><td> SOT-23'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23*'</td></tr></table>]|
 ||||

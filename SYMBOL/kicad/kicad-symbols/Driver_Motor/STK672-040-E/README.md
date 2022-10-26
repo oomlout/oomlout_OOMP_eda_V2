@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDRIVERMOTORSTK6724E > STK672-040-E
+# SZKDRIVERMOTORSTK6724E > Driver_Motor : STK672-040-E
 
 - ID: SYMBOL-kicad-kicad-symbols-Driver_Motor-STK672-040-E
 - Hex ID: SZKDRIVERMOTORSTK6724E
-- Name: STK672-040-E
-- Description: STK672-040-E
+- Name: Driver_Motor : STK672-040-E
+- Description: Driver_Motor : STK672-040-E
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Motor-STK672-040-E](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Motor-STK672-040-E)
 - Short Link: [http://oom.lt/SZKDRIVERMOTORSTK6724E](http://oom.lt/SZKDRIVERMOTORSTK6724E)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|STK672-040-E|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Driver_Motor-STK672-040-E|
 |Hex ID (short code)|hexID|SZKDRIVERMOTORSTK6724E|
-|name|name|STK672-040-E|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'STK672-040-E', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.onsemi.com/pub_link/Collateral/EN5227-D.PDF', 'kicadSymbolki_keywords': 'Stepper driver', 'kicadSymbolki_description': 'Stepper motor driver with microstepping controller, 1.5A', 'kicadSymbolki_fp_filters': 'STK672-040-E'}]|
+|name|name|Driver_Motor : STK672-040-E|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'STK672-040-E'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.onsemi.com/pub_link/Collateral/EN5227-D.PDF'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Stepper driver'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Stepper motor driver with microstepping controller</td><td> 1.5A'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'STK672-040-E'</td></tr></table>]|
 ||||

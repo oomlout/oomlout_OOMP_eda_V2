@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Diode_THT-Diode_Bridge_DIP-4_W7.62mm_P5.08mm|
 |Hex ID (short code)|hexID|FZKDDIODEBRIDGEDIP4W762P58|
 |name|name|Diode_THT : Diode_Bridge_DIP-4_W7.62mm_P5.08mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Diode_Bridge_DIP-4_W7.62mm_P5.08mm', 'description': '4-lead dip package for diode bridges, row spacing 7.62 mm (300 mils), see http://cdn-reichelt.de/documents/datenblatt/A400/HDBL101G_20SERIES-TSC.pdf', 'tags': 'DIL DIP PDIP 5.08mm 7.62mm 300mil', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/Diode_Bridge_DIP-4_W7.62mm_P5.08mm.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Diode_Bridge_DIP-4_W7.62mm_P5.08mm'</td><td> 'description'</td></tr><tr><td> '4-lead dip package for diode bridges</td><td> row spacing 7.62 mm (300 mils)</td><td> see http</td></tr><tr><td>//cdn-reichelt.de/documents/datenblatt/A400/HDBL101G_20SERIES-TSC.pdf'</td><td> 'tags'</td></tr><tr><td> 'DIL DIP PDIP 5.08mm 7.62mm 300mil'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Diode_THT.3dshapes/Diode_Bridge_DIP-4_W7.62mm_P5.08mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

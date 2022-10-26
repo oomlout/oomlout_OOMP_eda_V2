@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-223|
 |Hex ID (short code)|hexID|FZKPACKAGETOSOTSMSOT223|
 |name|name|Package_TO_SOT_SMD : SOT-223|
-|Footprint Kicad|footprintKicadDetails|{'name': 'SOT-223', 'description': 'module CMS SOT223 4 pins', 'tags': 'CMS SOT', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-223.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SOT-223'</td><td> 'description'</td></tr><tr><td> 'module CMS SOT223 4 pins'</td><td> 'tags'</td></tr><tr><td> 'CMS SOT'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_TO_SOT_SMD.3dshapes/SOT-223.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

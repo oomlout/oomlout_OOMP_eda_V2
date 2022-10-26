@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DIP-DIP-8-N7_W7.62mm|
 |Hex ID (short code)|hexID|FZKDIPDIP8N7W762|
 |name|name|Package_DIP : DIP-8-N7_W7.62mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'DIP-8-N7_W7.62mm', 'description': '8-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), missing pin 7', 'tags': 'THT DIP DIL PDIP 2.54mm 7.62mm 300mil', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DIP.3dshapes/DIP-8-N7_W7.62mm.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'DIP-8-N7_W7.62mm'</td><td> 'description'</td></tr><tr><td> '8-lead though-hole mounted DIP package</td><td> row spacing 7.62 mm (300 mils)</td><td> missing pin 7'</td><td> 'tags'</td></tr><tr><td> 'THT DIP DIL PDIP 2.54mm 7.62mm 300mil'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DIP.3dshapes/DIP-8-N7_W7.62mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

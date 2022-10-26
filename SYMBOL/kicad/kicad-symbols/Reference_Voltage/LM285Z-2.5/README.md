@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREFERENCEVOLTAGELM285Z25 > LM285Z-2.5
+# SZKREFERENCEVOLTAGELM285Z25 > Reference_Voltage : LM285Z-2.5
 
 - ID: SYMBOL-kicad-kicad-symbols-Reference_Voltage-LM285Z-2.5
 - Hex ID: SZKREFERENCEVOLTAGELM285Z25
-- Name: LM285Z-2.5
-- Description: LM285Z-2.5
+- Name: Reference_Voltage : LM285Z-2.5
+- Description: Reference_Voltage : LM285Z-2.5
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-LM285Z-2.5](http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-LM285Z-2.5)
 - Short Link: [http://oom.lt/SZKREFERENCEVOLTAGELM285Z25](http://oom.lt/SZKREFERENCEVOLTAGELM285Z25)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM285Z-2.5|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Reference_Voltage-LM285Z-2.5|
 |Hex ID (short code)|hexID|SZKREFERENCEVOLTAGELM285Z25|
-|name|name|LM285Z-2.5|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM285Z-2.5', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-92_Inline', 'kicadSymbolDatasheet': 'http://www.onsemi.com/pub_link/Collateral/LM285-D.PDF', 'kicadSymbolki_keywords': 'diode device voltage reference', 'kicadSymbolki_description': '2.5V Micropower Voltage Reference Diodes, TO-92', 'kicadSymbolki_fp_filters': 'TO?92*Inline*'}]|
+|name|name|Reference_Voltage : LM285Z-2.5|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LM285Z-2.5'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_THT</td></tr><tr><td>TO-92_Inline'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.onsemi.com/pub_link/Collateral/LM285-D.PDF'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'diode device voltage reference'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '2.5V Micropower Voltage Reference Diodes</td><td> TO-92'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TO?92*Inline*'</td></tr></table>]|
 ||||

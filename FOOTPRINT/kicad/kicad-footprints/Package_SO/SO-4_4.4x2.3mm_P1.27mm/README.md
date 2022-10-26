@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SO-SO-4_4.4x2.3mm_P1.27mm|
 |Hex ID (short code)|hexID|FZKSOSO444X23P127|
 |name|name|Package_SO : SO-4_4.4x2.3mm_P1.27mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'SO-4_4.4x2.3mm_P1.27mm', 'description': '4-Lead Plastic Small Outline (SO), see http://datasheet.octopart.com/OPIA403BTRE-Optek-datasheet-5328560.pdf', 'tags': 'SO SOIC 1.27', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/SO-4_4.4x2.3mm_P1.27mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SO-4_4.4x2.3mm_P1.27mm'</td><td> 'description'</td></tr><tr><td> '4-Lead Plastic Small Outline (SO)</td><td> see http</td></tr><tr><td>//datasheet.octopart.com/OPIA403BTRE-Optek-datasheet-5328560.pdf'</td><td> 'tags'</td></tr><tr><td> 'SO SOIC 1.27'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_SO.3dshapes/SO-4_4.4x2.3mm_P1.27mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDEVICEQSCRGKA > Q_SCR_GKA
+# SZKDEVICEQSCRGKA > Device : Q_SCR_GKA
 
 - ID: SYMBOL-kicad-kicad-symbols-Device-Q_SCR_GKA
 - Hex ID: SZKDEVICEQSCRGKA
-- Name: Q_SCR_GKA
-- Description: Q_SCR_GKA
+- Name: Device : Q_SCR_GKA
+- Description: Device : Q_SCR_GKA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Q_SCR_GKA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Q_SCR_GKA)
 - Short Link: [http://oom.lt/SZKDEVICEQSCRGKA](http://oom.lt/SZKDEVICEQSCRGKA)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Q_SCR_GKA|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-Q_SCR_GKA|
 |Hex ID (short code)|hexID|SZKDEVICEQSCRGKA|
-|name|name|Q_SCR_GKA|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'Q_SCR_GKA', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'SCR thyristor', 'kicadSymbolki_description': 'Silicon controlled rectifier, gate/cathode/anode'}]|
+|name|name|Device : Q_SCR_GKA|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Q_SCR_GKA'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'SCR thyristor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Silicon controlled rectifier</td><td> gate/cathode/anode'</td></tr></table>]|
 ||||

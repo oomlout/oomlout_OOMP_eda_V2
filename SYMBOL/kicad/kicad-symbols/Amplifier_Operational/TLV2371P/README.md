@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKAMPLIFIEROPERATIONALTLV2371P > TLV2371P
+# SZKAMPLIFIEROPERATIONALTLV2371P > Amplifier_Operational : TLV2371P
 
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-TLV2371P
 - Hex ID: SZKAMPLIFIEROPERATIONALTLV2371P
-- Name: TLV2371P
-- Description: TLV2371P
+- Name: Amplifier_Operational : TLV2371P
+- Description: Amplifier_Operational : TLV2371P
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-TLV2371P](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-TLV2371P)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALTLV2371P](http://oom.lt/SZKAMPLIFIEROPERATIONALTLV2371P)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TLV2371P|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Operational-TLV2371P|
 |Hex ID (short code)|hexID|SZKAMPLIFIEROPERATIONALTLV2371P|
-|name|name|TLV2371P|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MCP601-xP', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TLV2371P', 'kicadSymbolFootprint': 'Package_DIP:DIP-8_W7.62mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tlv2375.pdf', 'kicadSymbolki_keywords': 'single opamp', 'kicadSymbolki_description': 'Rail-to-Rail Input/Output Operational Amplifier, PDIP-8', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
+|name|name|Amplifier_Operational : TLV2371P|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'MCP601-xP'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TLV2371P'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>DIP-8_W7.62mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/tlv2375.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'single opamp'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Rail-to-Rail Input/Output Operational Amplifier</td><td> PDIP-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W7.62mm*'</td></tr></table>]|
 ||||

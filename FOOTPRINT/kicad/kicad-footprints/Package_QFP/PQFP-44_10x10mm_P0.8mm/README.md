@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_QFP-PQFP-44_10x10mm_P0.8mm|
 |Hex ID (short code)|hexID|FZKQFPPQFP441X1P8|
 |name|name|Package_QFP : PQFP-44_10x10mm_P0.8mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'PQFP-44_10x10mm_P0.8mm', 'description': '44-Lead Plastic Quad Flatpack - 10x10x2.5mm Body (http://www.onsemi.com/pub/Collateral/122BK.PDF)', 'tags': 'PQFP 0.8', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_QFP.3dshapes/PQFP-44_10x10mm_P0.8mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'PQFP-44_10x10mm_P0.8mm'</td><td> 'description'</td></tr><tr><td> '44-Lead Plastic Quad Flatpack - 10x10x2.5mm Body (http</td></tr><tr><td>//www.onsemi.com/pub/Collateral/122BK.PDF)'</td><td> 'tags'</td></tr><tr><td> 'PQFP 0.8'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_QFP.3dshapes/PQFP-44_10x10mm_P0.8mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

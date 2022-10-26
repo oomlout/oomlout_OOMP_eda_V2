@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKISOLATOREL814 > EL814
+# SZKISOLATOREL814 > Isolator : EL814
 
 - ID: SYMBOL-kicad-kicad-symbols-Isolator-EL814
 - Hex ID: SZKISOLATOREL814
-- Name: EL814
-- Description: EL814
+- Name: Isolator : EL814
+- Description: Isolator : EL814
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-EL814](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-EL814)
 - Short Link: [http://oom.lt/SZKISOLATOREL814](http://oom.lt/SZKISOLATOREL814)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|EL814|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Isolator-EL814|
 |Hex ID (short code)|hexID|SZKISOLATOREL814|
-|name|name|EL814|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'EL814', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.everlight.com/file/ProductFile/EL814.pdf', 'kicadSymbolki_keywords': 'NPN AC DC Optocoupler', 'kicadSymbolki_description': 'AC/DC NPN Optocoupler, DIP4/SMD4', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm* DIP*W10.16mm* SMDIP*W9.53mm*'}]|
+|name|name|Isolator : EL814|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'EL814'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.everlight.com/file/ProductFile/EL814.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'NPN AC DC Optocoupler'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'AC/DC NPN Optocoupler</td><td> DIP4/SMD4'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W7.62mm* DIP*W10.16mm* SMDIP*W9.53mm*'</td></tr></table>]|
 ||||

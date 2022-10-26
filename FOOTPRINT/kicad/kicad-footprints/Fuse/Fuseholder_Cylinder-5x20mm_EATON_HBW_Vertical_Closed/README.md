@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Fuse-Fuseholder_Cylinder-5x20mm_EATON_HBW_Vertical_Closed|
 |Hex ID (short code)|hexID|FZKFUFUHOLDERCYLINDER5X2EATONHBWVERTICALCLOSED|
 |name|name|Fuse : Fuseholder_Cylinder-5x20mm_EATON_HBW_Vertical_Closed|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Fuseholder_Cylinder-5x20mm_EATON_HBW_Vertical_Closed', 'description': '5 mm x 20 mm fuse holders; Vertical w/o Stability Pins; 250V; 6.3-16A (http://www.cooperindustries.com/content/dam/public/bussmann/Electronics/Resources/product-datasheets/Bus_Elx_DS_2118_HB_PCB_Series.pdf)', 'tags': 'fuse holder vertical 5x20mm', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Fuse.3dshapes/Fuseholder_Cylinder-5x20mm_EATON_HBW_Vertical_Closed.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Fuseholder_Cylinder-5x20mm_EATON_HBW_Vertical_Closed'</td><td> 'description'</td></tr><tr><td> '5 mm x 20 mm fuse holders; Vertical w/o Stability Pins; 250V; 6.3-16A (http</td></tr><tr><td>//www.cooperindustries.com/content/dam/public/bussmann/Electronics/Resources/product-datasheets/Bus_Elx_DS_2118_HB_PCB_Series.pdf)'</td><td> 'tags'</td></tr><tr><td> 'fuse holder vertical 5x20mm'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Fuse.3dshapes/Fuseholder_Cylinder-5x20mm_EATON_HBW_Vertical_Closed.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

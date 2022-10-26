@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTIMERPLLSI5342AD > Si5342A-D
+# SZKTIMERPLLSI5342AD > Timer_PLL : Si5342A-D
 
 - ID: SYMBOL-kicad-kicad-symbols-Timer_PLL-Si5342A-D
 - Hex ID: SZKTIMERPLLSI5342AD
-- Name: Si5342A-D
-- Description: Si5342A-D
+- Name: Timer_PLL : Si5342A-D
+- Description: Timer_PLL : Si5342A-D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer_PLL-Si5342A-D](http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer_PLL-Si5342A-D)
 - Short Link: [http://oom.lt/SZKTIMERPLLSI5342AD](http://oom.lt/SZKTIMERPLLSI5342AD)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Si5342A-D|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Timer_PLL-Si5342A-D|
 |Hex ID (short code)|hexID|SZKTIMERPLLSI5342AD|
-|name|name|Si5342A-D|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'Si5342A-D', 'kicadSymbolFootprint': 'Package_DFN_QFN:QFN-44-1EP_7x7mm_P0.5mm_EP5.2x5.2mm', 'kicadSymbolDatasheet': 'https://www.silabs.com/documents/public/data-sheets/Si5345-44-42-D-DataSheet.pdf', 'kicadSymbolki_keywords': 'Clock Jitter Attenuator Multiplier', 'kicadSymbolki_description': 'Jitter Attenuator/Clock Multiplier, 2 channel, Fractional, 0.001-1028 MHz, QFN-44', 'kicadSymbolki_fp_filters': 'QFN*1EP*7x7mm*P0.5mm*'}]|
+|name|name|Timer_PLL : Si5342A-D|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Si5342A-D'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>QFN-44-1EP_7x7mm_P0.5mm_EP5.2x5.2mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.silabs.com/documents/public/data-sheets/Si5345-44-42-D-DataSheet.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Clock Jitter Attenuator Multiplier'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Jitter Attenuator/Clock Multiplier</td><td> 2 channel</td><td> Fractional</td><td> 0.001-1028 MHz</td><td> QFN-44'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'QFN*1EP*7x7mm*P0.5mm*'</td></tr></table>]|
 ||||

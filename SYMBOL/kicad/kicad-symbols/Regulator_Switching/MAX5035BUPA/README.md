@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORSWITCHINGMAX535BUPA > MAX5035BUPA
+# SZKREGULATORSWITCHINGMAX535BUPA > Regulator_Switching : MAX5035BUPA
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-MAX5035BUPA
 - Hex ID: SZKREGULATORSWITCHINGMAX535BUPA
-- Name: MAX5035BUPA
-- Description: MAX5035BUPA
+- Name: Regulator_Switching : MAX5035BUPA
+- Description: Regulator_Switching : MAX5035BUPA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-MAX5035BUPA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-MAX5035BUPA)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGMAX535BUPA](http://oom.lt/SZKREGULATORSWITCHINGMAX535BUPA)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MAX5035BUPA|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-MAX5035BUPA|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGMAX535BUPA|
-|name|name|MAX5035BUPA|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MAX5035AUPA', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MAX5035BUPA', 'kicadSymbolFootprint': 'Package_DIP:DIP-8_W7.62mm', 'kicadSymbolDatasheet': 'http://datasheets.maximintegrated.com/en/ds/MAX5035.pdf', 'kicadSymbolki_keywords': '5V 1A Step-Down Converter 76V', 'kicadSymbolki_description': '1A, High-Efficiency Step-Down DC-DC Converter, 5V fixed output voltage, Vin 76V, PDIP-8', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
+|name|name|Regulator_Switching : MAX5035BUPA|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'MAX5035AUPA'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MAX5035BUPA'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>DIP-8_W7.62mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//datasheets.maximintegrated.com/en/ds/MAX5035.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> '5V 1A Step-Down Converter 76V'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '1A</td><td> High-Efficiency Step-Down DC-DC Converter</td><td> 5V fixed output voltage</td><td> Vin 76V</td><td> PDIP-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W7.62mm*'</td></tr></table>]|
 ||||

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Neosid_SMs95_SMs95p|
 |Hex ID (short code)|hexID|FZKINDUCTORSMLNEOSIDSMS95SMS95P|
 |name|name|Inductor_SMD : L_Neosid_SMs95_SMs95p|
-|Footprint Kicad|footprintKicadDetails|{'name': 'L_Neosid_SMs95_SMs95p', 'description': 'Neosid, Inductor, SMs95, Fixed inductor, SMD, magnetically shielded, https://neosid.de/import-data/product-pdf/neoFestind_SMs95SMs95p.pdf', 'tags': 'Neosid Inductor SMs95 Fixed inductor SMD magnetically shielded', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Neosid_SMs95_SMs95p.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'L_Neosid_SMs95_SMs95p'</td><td> 'description'</td></tr><tr><td> 'Neosid</td><td> Inductor</td><td> SMs95</td><td> Fixed inductor</td><td> SMD</td><td> magnetically shielded</td><td> https</td></tr><tr><td>//neosid.de/import-data/product-pdf/neoFestind_SMs95SMs95p.pdf'</td><td> 'tags'</td></tr><tr><td> 'Neosid Inductor SMs95 Fixed inductor SMD magnetically shielded'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Inductor_SMD.3dshapes/L_Neosid_SMs95_SMs95p.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

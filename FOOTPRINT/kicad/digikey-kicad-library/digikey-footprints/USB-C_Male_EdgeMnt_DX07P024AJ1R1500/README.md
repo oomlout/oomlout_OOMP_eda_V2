@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-USB-C_Male_EdgeMnt_DX07P024AJ1R1500|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSUCMALEEDGEMNTDX7P24AJ1R15|
 |name|name|digikey-footprints : USB-C_Male_EdgeMnt_DX07P024AJ1R1500|
-|Footprint Kicad|footprintKicadDetails|{'name': 'USB-C_Male_EdgeMnt_DX07P024AJ1R1500', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'USB-C_Male_EdgeMnt_DX07P024AJ1R1500'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

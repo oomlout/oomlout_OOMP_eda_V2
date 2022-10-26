@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORLINEARMC7952 > MC7905.2
+# SZKREGULATORLINEARMC7952 > Regulator_Linear : MC7905.2
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-MC7905.2
 - Hex ID: SZKREGULATORLINEARMC7952
-- Name: MC7905.2
-- Description: MC7905.2
+- Name: Regulator_Linear : MC7905.2
+- Description: Regulator_Linear : MC7905.2
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-MC7905.2](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-MC7905.2)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARMC7952](http://oom.lt/SZKREGULATORLINEARMC7952)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MC7905.2|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-MC7905.2|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARMC7952|
-|name|name|MC7905.2|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'L7905', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MC7905.2', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.onsemi.com/pub/Collateral/MC7900-D.PDF', 'kicadSymbolki_keywords': 'Voltage Regulator 1.5A Negative', 'kicadSymbolki_description': 'Negative 1A 35V Linear Regulator, Fixed Output -5.2V, TO-220/TO-263', 'kicadSymbolki_fp_filters': 'TO?220* TO?263*'}]|
+|name|name|Regulator_Linear : MC7905.2|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'L7905'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MC7905.2'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.onsemi.com/pub/Collateral/MC7900-D.PDF'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Voltage Regulator 1.5A Negative'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Negative 1A 35V Linear Regulator</td><td> Fixed Output -5.2V</td><td> TO-220/TO-263'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TO?220* TO?263*'</td></tr></table>]|
 ||||

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Sagami_CWR1257C|
 |Hex ID (short code)|hexID|FZKINDUCTORSMLSAGAMICWR1257C|
 |name|name|Inductor_SMD : L_Sagami_CWR1257C|
-|Footprint Kicad|footprintKicadDetails|{'name': 'L_Sagami_CWR1257C', 'description': 'Sagami power inductor, CWR1242C, H=6.0mm (http://www.sagami-elec.co.jp/file/16Car_SMDCwr.pdf)', 'tags': 'inductor sagami cwr12xx smd', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Sagami_CWR1257C.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'L_Sagami_CWR1257C'</td><td> 'description'</td></tr><tr><td> 'Sagami power inductor</td><td> CWR1242C</td><td> H=6.0mm (http</td></tr><tr><td>//www.sagami-elec.co.jp/file/16Car_SMDCwr.pdf)'</td><td> 'tags'</td></tr><tr><td> 'inductor sagami cwr12xx smd'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Inductor_SMD.3dshapes/L_Sagami_CWR1257C.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

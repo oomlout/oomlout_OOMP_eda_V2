@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZK74XGXX74LVC3G6 > 74LVC3G06
+# SZK74XGXX74LVC3G6 > 74xGxx : 74LVC3G06
 
 - ID: SYMBOL-kicad-kicad-symbols-74xGxx-74LVC3G06
 - Hex ID: SZK74XGXX74LVC3G6
-- Name: 74LVC3G06
-- Description: 74LVC3G06
+- Name: 74xGxx : 74LVC3G06
+- Description: 74xGxx : 74LVC3G06
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-74xGxx-74LVC3G06](http://oom.lt/SYMBOL-kicad-kicad-symbols-74xGxx-74LVC3G06)
 - Short Link: [http://oom.lt/SZK74XGXX74LVC3G6](http://oom.lt/SZK74XGXX74LVC3G6)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74LVC3G06|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xGxx-74LVC3G06|
 |Hex ID (short code)|hexID|SZK74XGXX74LVC3G6|
-|name|name|74LVC3G06|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74LVC3G06', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf', 'kicadSymbolki_keywords': 'Triple Gate NOT Open Drain LVC CMOS', 'kicadSymbolki_description': 'Triple NOT Gate w/ Open Drain, Low-Voltage CMOS', 'kicadSymbolki_fp_filters': 'SSOP* VSSOP*'}]|
+|name|name|74xGxx : 74LVC3G06|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> '74LVC3G06'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/sg/scyt129e/scyt129e.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Triple Gate NOT Open Drain LVC CMOS'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Triple NOT Gate w/ Open Drain</td><td> Low-Voltage CMOS'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SSOP* VSSOP*'</td></tr></table>]|
 ||||

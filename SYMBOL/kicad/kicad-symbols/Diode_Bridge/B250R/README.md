@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDIODEBRIDGEB25R > B250R
+# SZKDIODEBRIDGEB25R > Diode_Bridge : B250R
 
 - ID: SYMBOL-kicad-kicad-symbols-Diode_Bridge-B250R
 - Hex ID: SZKDIODEBRIDGEB25R
-- Name: B250R
-- Description: B250R
+- Name: Diode_Bridge : B250R
+- Description: Diode_Bridge : B250R
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-B250R](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-B250R)
 - Short Link: [http://oom.lt/SZKDIODEBRIDGEB25R](http://oom.lt/SZKDIODEBRIDGEB25R)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|B250R|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode_Bridge-B250R|
 |Hex ID (short code)|hexID|SZKDIODEBRIDGEB25R|
-|name|name|B250R|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'B40R', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'B250R', 'kicadSymbolFootprint': 'Diode_THT:Diode_Bridge_Round_D9.0mm', 'kicadSymbolDatasheet': 'https://diotec.com/tl_files/diotec/files/pdf/datasheets/b40r.pdf', 'kicadSymbolki_keywords': 'rectifier acdc', 'kicadSymbolki_description': 'Single-Phase Bridge Rectifier, 250V Vrms, 1.6A If, WOG-like package', 'kicadSymbolki_fp_filters': 'D*Bridge*Round*D9.0mm*'}]|
+|name|name|Diode_Bridge : B250R|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'B40R'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'B250R'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Diode_THT</td></tr><tr><td>Diode_Bridge_Round_D9.0mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//diotec.com/tl_files/diotec/files/pdf/datasheets/b40r.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'rectifier acdc'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Single-Phase Bridge Rectifier</td><td> 250V Vrms</td><td> 1.6A If</td><td> WOG-like package'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'D*Bridge*Round*D9.0mm*'</td></tr></table>]|
 ||||

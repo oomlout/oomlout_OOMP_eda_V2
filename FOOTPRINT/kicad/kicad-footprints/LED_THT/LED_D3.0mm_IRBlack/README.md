@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D3.0mm_IRBlack|
 |Hex ID (short code)|hexID|FZKLLD3IRBLACK|
 |name|name|LED_THT : LED_D3.0mm_IRBlack|
-|Footprint Kicad|footprintKicadDetails|{'name': 'LED_D3.0mm_IRBlack', 'description': 'IR-ED, diameter 3.0mm, 2 pins, color: black', 'tags': 'IR infrared LED diameter 3.0mm 2 pins black', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/LED_THT.3dshapes/LED_D3.0mm_IRBlack.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'LED_D3.0mm_IRBlack'</td><td> 'description'</td></tr><tr><td> 'IR-ED</td><td> diameter 3.0mm</td><td> 2 pins</td><td> color</td></tr><tr><td> black'</td><td> 'tags'</td></tr><tr><td> 'IR infrared LED diameter 3.0mm 2 pins black'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/LED_THT.3dshapes/LED_D3.0mm_IRBlack.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

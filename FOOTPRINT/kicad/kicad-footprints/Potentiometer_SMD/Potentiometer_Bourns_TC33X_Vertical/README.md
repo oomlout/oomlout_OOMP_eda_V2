@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Potentiometer_SMD-Potentiometer_Bourns_TC33X_Vertical|
 |Hex ID (short code)|hexID|FZKPOTENTIOMETERSMPOTENTIOMETERBOURNSTC33XVERTICAL|
 |name|name|Potentiometer_SMD : Potentiometer_Bourns_TC33X_Vertical|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Potentiometer_Bourns_TC33X_Vertical', 'description': 'Potentiometer, Bourns, TC33X, Vertical, https://www.bourns.com/pdfs/TC33.pdf', 'tags': 'Potentiometer Bourns TC33X Vertical', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Potentiometer_SMD.3dshapes/Potentiometer_Bourns_TC33X_Vertical.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Potentiometer_Bourns_TC33X_Vertical'</td><td> 'description'</td></tr><tr><td> 'Potentiometer</td><td> Bourns</td><td> TC33X</td><td> Vertical</td><td> https</td></tr><tr><td>//www.bourns.com/pdfs/TC33.pdf'</td><td> 'tags'</td></tr><tr><td> 'Potentiometer Bourns TC33X Vertical'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Potentiometer_SMD.3dshapes/Potentiometer_Bourns_TC33X_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

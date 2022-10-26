@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORBJTPMBT2222AYS > PMBT2222AYS
+# SZKTRANSISTORBJTPMBT2222AYS > Transistor_BJT : PMBT2222AYS
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-PMBT2222AYS
 - Hex ID: SZKTRANSISTORBJTPMBT2222AYS
-- Name: PMBT2222AYS
-- Description: PMBT2222AYS
+- Name: Transistor_BJT : PMBT2222AYS
+- Description: Transistor_BJT : PMBT2222AYS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-PMBT2222AYS](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-PMBT2222AYS)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTPMBT2222AYS](http://oom.lt/SZKTRANSISTORBJTPMBT2222AYS)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PMBT2222AYS|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_BJT-PMBT2222AYS|
 |Hex ID (short code)|hexID|SZKTRANSISTORBJTPMBT2222AYS|
-|name|name|PMBT2222AYS|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BC846BS', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'PMBT2222AYS', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-363_SC-70-6', 'kicadSymbolDatasheet': 'https://assets.nexperia.com/documents/data-sheet/PMBT2222AYS.pdf', 'kicadSymbolki_keywords': 'NPN/NPN Transistor', 'kicadSymbolki_description': '600mA IC, 40V Vce, Dual NPN/NPN Transistors, SOT-363', 'kicadSymbolki_fp_filters': 'SOT?363*'}]|
+|name|name|Transistor_BJT : PMBT2222AYS|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'BC846BS'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'PMBT2222AYS'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-363_SC-70-6'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//assets.nexperia.com/documents/data-sheet/PMBT2222AYS.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'NPN/NPN Transistor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '600mA IC</td><td> 40V Vce</td><td> Dual NPN/NPN Transistors</td><td> SOT-363'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?363*'</td></tr></table>]|
 ||||

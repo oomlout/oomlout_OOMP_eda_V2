@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORFETDMG344L > DMG3404L
+# SZKTRANSISTORFETDMG344L > Transistor_FET : DMG3404L
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-DMG3404L
 - Hex ID: SZKTRANSISTORFETDMG344L
-- Name: DMG3404L
-- Description: DMG3404L
+- Name: Transistor_FET : DMG3404L
+- Description: Transistor_FET : DMG3404L
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-DMG3404L](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-DMG3404L)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETDMG344L](http://oom.lt/SZKTRANSISTORFETDMG344L)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DMG3404L|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-DMG3404L|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETDMG344L|
-|name|name|DMG3404L|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BSS138', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'DMG3404L', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23', 'kicadSymbolDatasheet': 'http://www.diodes.com/assets/Datasheets/DMG3404L.pdf', 'kicadSymbolki_keywords': 'N-Channel MOSFET', 'kicadSymbolki_description': '5.8A Id, 30V Vds, N-Channel MOSFET, SOT-23', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
+|name|name|Transistor_FET : DMG3404L|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'BSS138'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'DMG3404L'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-23'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.diodes.com/assets/Datasheets/DMG3404L.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'N-Channel MOSFET'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '5.8A Id</td><td> 30V Vds</td><td> N-Channel MOSFET</td><td> SOT-23'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23*'</td></tr></table>]|
 ||||

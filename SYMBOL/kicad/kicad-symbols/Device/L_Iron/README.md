@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDEVICELIRON > L_Iron
+# SZKDEVICELIRON > Device : L_Iron
 
 - ID: SYMBOL-kicad-kicad-symbols-Device-L_Iron
 - Hex ID: SZKDEVICELIRON
-- Name: L_Iron
-- Description: L_Iron
+- Name: Device : L_Iron
+- Description: Device : L_Iron
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-L_Iron](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-L_Iron)
 - Short Link: [http://oom.lt/SZKDEVICELIRON](http://oom.lt/SZKDEVICELIRON)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|L_Iron|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-L_Iron|
 |Hex ID (short code)|hexID|SZKDEVICELIRON|
-|name|name|L_Iron|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'L', 'kicadSymbolValue': 'L_Iron', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'inductor choke coil reactor magnetic', 'kicadSymbolki_description': 'Inductor with iron core', 'kicadSymbolki_fp_filters': 'Choke_* *Coil* Inductor_* L_*'}]|
+|name|name|Device : L_Iron|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'L'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'L_Iron'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'inductor choke coil reactor magnetic'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Inductor with iron core'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Choke_* *Coil* Inductor_* L_*'</td></tr></table>]|
 ||||

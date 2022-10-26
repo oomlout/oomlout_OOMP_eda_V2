@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_S-PWQFN-N16_EP2.1x2.1mm|
 |Hex ID (short code)|hexID|FZKDFNTEXASSPWQFNN16EP21X21|
 |name|name|Package_DFN_QFN : Texas_S-PWQFN-N16_EP2.1x2.1mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Texas_S-PWQFN-N16_EP2.1x2.1mm', 'description': 'QFN, 16 Pin (http://www.ti.com/lit/ds/symlink/drv8801.pdf#page=31 MO-220 variation VGGC), generated with kicad-footprint-generator ipc_noLead_generator.py', 'tags': 'QFN NoLead', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Texas_S-PWQFN-N16_EP2.1x2.1mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Texas_S-PWQFN-N16_EP2.1x2.1mm'</td><td> 'description'</td></tr><tr><td> 'QFN</td><td> 16 Pin (http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/drv8801.pdf#page=31 MO-220 variation VGGC)</td><td> generated with kicad-footprint-generator ipc_noLead_generator.py'</td><td> 'tags'</td></tr><tr><td> 'QFN NoLead'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DFN_QFN.3dshapes/Texas_S-PWQFN-N16_EP2.1x2.1mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

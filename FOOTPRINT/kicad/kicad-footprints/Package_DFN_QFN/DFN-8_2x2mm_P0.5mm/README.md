@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-DFN-8_2x2mm_P0.5mm|
 |Hex ID (short code)|hexID|FZKDFNDFN82X2P5|
 |name|name|Package_DFN_QFN : DFN-8_2x2mm_P0.5mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'DFN-8_2x2mm_P0.5mm', 'description': 'DFN8 2x2, 0.5P; No exposed pad - Ref http://pdfserv.maximintegrated.com/land_patterns/90-0349.PDF', 'tags': 'DFN 0.5', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/DFN-8_2x2mm_P0.5mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'DFN-8_2x2mm_P0.5mm'</td><td> 'description'</td></tr><tr><td> 'DFN8 2x2</td><td> 0.5P; No exposed pad - Ref http</td></tr><tr><td>//pdfserv.maximintegrated.com/land_patterns/90-0349.PDF'</td><td> 'tags'</td></tr><tr><td> 'DFN 0.5'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DFN_QFN.3dshapes/DFN-8_2x2mm_P0.5mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

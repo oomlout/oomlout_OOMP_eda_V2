@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKPOWER+5VL > +5VL
+# SZKPOWER+5VL > power : +5VL
 
 - ID: SYMBOL-kicad-kicad-symbols-power-+5VL
 - Hex ID: SZKPOWER+5VL
-- Name: +5VL
-- Description: +5VL
+- Name: power : +5VL
+- Description: power : +5VL
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-power-+5VL](http://oom.lt/SYMBOL-kicad-kicad-symbols-power-+5VL)
 - Short Link: [http://oom.lt/SZKPOWER+5VL](http://oom.lt/SZKPOWER+5VL)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|+5VL|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-power-+5VL|
 |Hex ID (short code)|hexID|SZKPOWER+5VL|
-|name|name|+5VL|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': '#PWR', 'kicadSymbolValue': '+5VL', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_keywords': 'power-flag', 'kicadSymbolki_description': 'Power symbol creates a global label with name "+5VL"'}]|
+|name|name|power : +5VL|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> '#PWR'</td><td> 'kicadSymbolValue'</td></tr><tr><td> '+5VL'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'power-flag'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Power symbol creates a global label with name "+5VL"'</td></tr></table>]|
 ||||

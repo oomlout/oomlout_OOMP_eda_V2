@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKSWITCHSWREEDOPENER > SW_Reed_Opener
+# SZKSWITCHSWREEDOPENER > Switch : SW_Reed_Opener
 
 - ID: SYMBOL-kicad-kicad-symbols-Switch-SW_Reed_Opener
 - Hex ID: SZKSWITCHSWREEDOPENER
-- Name: SW_Reed_Opener
-- Description: SW_Reed_Opener
+- Name: Switch : SW_Reed_Opener
+- Description: Switch : SW_Reed_Opener
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Switch-SW_Reed_Opener](http://oom.lt/SYMBOL-kicad-kicad-symbols-Switch-SW_Reed_Opener)
 - Short Link: [http://oom.lt/SZKSWITCHSWREEDOPENER](http://oom.lt/SZKSWITCHSWREEDOPENER)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SW_Reed_Opener|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Switch-SW_Reed_Opener|
 |Hex ID (short code)|hexID|SZKSWITCHSWREEDOPENER|
-|name|name|SW_Reed_Opener|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'SW', 'kicadSymbolValue': 'SW_Reed_Opener', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'reed magnetic switch', 'kicadSymbolki_description': 'reed switch, default-closed'}]|
+|name|name|Switch : SW_Reed_Opener|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'SW'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'SW_Reed_Opener'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'reed magnetic switch'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'reed switch</td><td> default-closed'</td></tr></table>]|
 ||||

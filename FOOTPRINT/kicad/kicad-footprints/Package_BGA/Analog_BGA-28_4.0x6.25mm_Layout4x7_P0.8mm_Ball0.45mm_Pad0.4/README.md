@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_BGA-Analog_BGA-28_4.0x6.25mm_Layout4x7_P0.8mm_Ball0.45mm_Pad0.4|
 |Hex ID (short code)|hexID|FZKBGAANALOGBGA284X625LAYOUT4X7P8BALL45PAD4|
 |name|name|Package_BGA : Analog_BGA-28_4.0x6.25mm_Layout4x7_P0.8mm_Ball0.45mm_Pad0.4|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Analog_BGA-28_4.0x6.25mm_Layout4x7_P0.8mm_Ball0.45mm_Pad0.4', 'description': 'Analog BGA-28 4.0mm x 6.25mm package, pitch 0.4mm pad, based on https://www.analog.com/media/en/technical-documentation/data-sheets/8063fa.pdf', 'tags': 'BGA 28 0.8', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/Analog_BGA-28_4.0x6.25mm_Layout4x7_P0.8mm_Ball0.45mm_Pad0.4.wrl', 'pins': {'type': 'smd', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Analog_BGA-28_4.0x6.25mm_Layout4x7_P0.8mm_Ball0.45mm_Pad0.4'</td><td> 'description'</td></tr><tr><td> 'Analog BGA-28 4.0mm x 6.25mm package</td><td> pitch 0.4mm pad</td><td> based on https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/8063fa.pdf'</td><td> 'tags'</td></tr><tr><td> 'BGA 28 0.8'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_BGA.3dshapes/Analog_BGA-28_4.0x6.25mm_Layout4x7_P0.8mm_Ball0.45mm_Pad0.4.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

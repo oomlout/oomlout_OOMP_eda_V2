@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-363_SC-70-6_Handsoldering|
 |Hex ID (short code)|hexID|FZKPACKAGETOSOTSMSOT363SC76HANDSOLDERING|
 |name|name|Package_TO_SOT_SMD : SOT-363_SC-70-6_Handsoldering|
-|Footprint Kicad|footprintKicadDetails|{'name': 'SOT-363_SC-70-6_Handsoldering', 'description': 'SOT-363, SC-70-6, Handsoldering', 'tags': 'SOT-363 SC-70-6 Handsoldering', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-363_SC-70-6.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SOT-363_SC-70-6_Handsoldering'</td><td> 'description'</td></tr><tr><td> 'SOT-363</td><td> SC-70-6</td><td> Handsoldering'</td><td> 'tags'</td></tr><tr><td> 'SOT-363 SC-70-6 Handsoldering'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_TO_SOT_SMD.3dshapes/SOT-363_SC-70-6.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

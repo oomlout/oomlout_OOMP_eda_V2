@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUMCHIPAVRAT9U1286A > AT90USB1286-A
+# SZKMCUMCHIPAVRAT9U1286A > MCU_Microchip_AVR : AT90USB1286-A
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_AVR-AT90USB1286-A
 - Hex ID: SZKMCUMCHIPAVRAT9U1286A
-- Name: AT90USB1286-A
-- Description: AT90USB1286-A
+- Name: MCU_Microchip_AVR : AT90USB1286-A
+- Description: MCU_Microchip_AVR : AT90USB1286-A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_AVR-AT90USB1286-A](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_AVR-AT90USB1286-A)
 - Short Link: [http://oom.lt/SZKMCUMCHIPAVRAT9U1286A](http://oom.lt/SZKMCUMCHIPAVRAT9U1286A)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AT90USB1286-A|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_AVR-AT90USB1286-A|
 |Hex ID (short code)|hexID|SZKMCUMCHIPAVRAT9U1286A|
-|name|name|AT90USB1286-A|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'AT90USB646-A', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AT90USB1286-A', 'kicadSymbolFootprint': 'Package_QFP:TQFP-64_14x14mm_P0.8mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/doc7593.pdf', 'kicadSymbolki_keywords': 'AVR 8bit Microcontroller USB', 'kicadSymbolki_description': '16MHz, 128kB Flash, 8kB SRAM, 4kB EEPROM, USB 2.0, TQFP-64', 'kicadSymbolki_fp_filters': 'TQFP*14x14mm*P0.8mm*'}]|
+|name|name|MCU_Microchip_AVR : AT90USB1286-A|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'AT90USB646-A'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'AT90USB1286-A'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_QFP</td></tr><tr><td>TQFP-64_14x14mm_P0.8mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/doc7593.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'AVR 8bit Microcontroller USB'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '16MHz</td><td> 128kB Flash</td><td> 8kB SRAM</td><td> 4kB EEPROM</td><td> USB 2.0</td><td> TQFP-64'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TQFP*14x14mm*P0.8mm*'</td></tr></table>]|
 ||||

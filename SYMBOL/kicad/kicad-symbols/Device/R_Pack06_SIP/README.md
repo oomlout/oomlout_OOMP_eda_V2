@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDEVICERPACK6SIP > R_Pack06_SIP
+# SZKDEVICERPACK6SIP > Device : R_Pack06_SIP
 
 - ID: SYMBOL-kicad-kicad-symbols-Device-R_Pack06_SIP
 - Hex ID: SZKDEVICERPACK6SIP
-- Name: R_Pack06_SIP
-- Description: R_Pack06_SIP
+- Name: Device : R_Pack06_SIP
+- Description: Device : R_Pack06_SIP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-R_Pack06_SIP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-R_Pack06_SIP)
 - Short Link: [http://oom.lt/SZKDEVICERPACK6SIP](http://oom.lt/SZKDEVICERPACK6SIP)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|R_Pack06_SIP|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-R_Pack06_SIP|
 |Hex ID (short code)|hexID|SZKDEVICERPACK6SIP|
-|name|name|R_Pack06_SIP|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'RN', 'kicadSymbolValue': 'R_Pack06_SIP', 'kicadSymbolFootprint': 'Resistor_THT:R_Array_SIP12', 'kicadSymbolDatasheet': 'http://www.vishay.com/docs/31509/csc.pdf', 'kicadSymbolki_keywords': 'R network parallel topology isolated', 'kicadSymbolki_description': '6 resistor network, parallel topology, SIP package', 'kicadSymbolki_fp_filters': 'R?Array?SIP*'}]|
+|name|name|Device : R_Pack06_SIP|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'RN'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'R_Pack06_SIP'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Resistor_THT</td></tr><tr><td>R_Array_SIP12'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.vishay.com/docs/31509/csc.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'R network parallel topology isolated'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '6 resistor network</td><td> parallel topology</td><td> SIP package'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'R?Array?SIP*'</td></tr></table>]|
 ||||

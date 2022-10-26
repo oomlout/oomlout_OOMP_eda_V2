@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKINTERFACEOPTICALTS331XX > TSOP331xx
+# SZKINTERFACEOPTICALTS331XX > Interface_Optical : TSOP331xx
 
 - ID: SYMBOL-kicad-kicad-symbols-Interface_Optical-TSOP331xx
 - Hex ID: SZKINTERFACEOPTICALTS331XX
-- Name: TSOP331xx
-- Description: TSOP331xx
+- Name: Interface_Optical : TSOP331xx
+- Description: Interface_Optical : TSOP331xx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Optical-TSOP331xx](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Optical-TSOP331xx)
 - Short Link: [http://oom.lt/SZKINTERFACEOPTICALTS331XX](http://oom.lt/SZKINTERFACEOPTICALTS331XX)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TSOP331xx|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_Optical-TSOP331xx|
 |Hex ID (short code)|hexID|SZKINTERFACEOPTICALTS331XX|
-|name|name|TSOP331xx|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TSOP331xx', 'kicadSymbolFootprint': 'OptoDevice:Vishay_MINIMOLD-3Pin', 'kicadSymbolDatasheet': 'http://www.vishay.com/docs/82742/tsop331.pdf', 'kicadSymbolki_keywords': 'opto IR receiver', 'kicadSymbolki_description': 'IR Receiver Modules for Remote Control Systems', 'kicadSymbolki_fp_filters': 'Vishay*MINIMOLD*'}]|
+|name|name|Interface_Optical : TSOP331xx|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TSOP331xx'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'OptoDevice</td></tr><tr><td>Vishay_MINIMOLD-3Pin'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.vishay.com/docs/82742/tsop331.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'opto IR receiver'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'IR Receiver Modules for Remote Control Systems'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Vishay*MINIMOLD*'</td></tr></table>]|
 ||||

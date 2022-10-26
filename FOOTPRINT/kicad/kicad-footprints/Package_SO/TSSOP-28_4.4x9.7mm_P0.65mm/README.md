@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SO-TSSOP-28_4.4x9.7mm_P0.65mm|
 |Hex ID (short code)|hexID|FZKSOTSS2844X97P65|
 |name|name|Package_SO : TSSOP-28_4.4x9.7mm_P0.65mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'TSSOP-28_4.4x9.7mm_P0.65mm', 'description': 'TSSOP, 28 Pin (JEDEC MO-153 Var AE https://www.jedec.org/document_search?search_api_views_fulltext=MO-153), generated with kicad-footprint-generator ipc_gullwing_generator.py', 'tags': 'TSSOP SO', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/TSSOP-28_4.4x9.7mm_P0.65mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'TSSOP-28_4.4x9.7mm_P0.65mm'</td><td> 'description'</td></tr><tr><td> 'TSSOP</td><td> 28 Pin (JEDEC MO-153 Var AE https</td></tr><tr><td>//www.jedec.org/document_search?search_api_views_fulltext=MO-153)</td><td> generated with kicad-footprint-generator ipc_gullwing_generator.py'</td><td> 'tags'</td></tr><tr><td> 'TSSOP SO'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_SO.3dshapes/TSSOP-28_4.4x9.7mm_P0.65mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKANALOGADCLTC1864L > LTC1864L
+# SZKANALOGADCLTC1864L > Analog_ADC : LTC1864L
 
 - ID: SYMBOL-kicad-kicad-symbols-Analog_ADC-LTC1864L
 - Hex ID: SZKANALOGADCLTC1864L
-- Name: LTC1864L
-- Description: LTC1864L
+- Name: Analog_ADC : LTC1864L
+- Description: Analog_ADC : LTC1864L
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-LTC1864L](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-LTC1864L)
 - Short Link: [http://oom.lt/SZKANALOGADCLTC1864L](http://oom.lt/SZKANALOGADCLTC1864L)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LTC1864L|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_ADC-LTC1864L|
 |Hex ID (short code)|hexID|SZKANALOGADCLTC1864L|
-|name|name|LTC1864L|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LTC1864L', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/18645lfs.pdf', 'kicadSymbolki_keywords': 'sigma-delta adc spi 1ch', 'kicadSymbolki_description': 'Single channel 16-bit Analog to Digital Converter, 3V supply, differential input, 150ksps, SPI interface', 'kicadSymbolki_fp_filters': 'MSOP*3x3mm*P0.65mm* SOIC*3.9x4.9mm*P1.27mm*'}]|
+|name|name|Analog_ADC : LTC1864L|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LTC1864L'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/18645lfs.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'sigma-delta adc spi 1ch'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Single channel 16-bit Analog to Digital Converter</td><td> 3V supply</td><td> differential input</td><td> 150ksps</td><td> SPI interface'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'MSOP*3x3mm*P0.65mm* SOIC*3.9x4.9mm*P1.27mm*'</td></tr></table>]|
 ||||

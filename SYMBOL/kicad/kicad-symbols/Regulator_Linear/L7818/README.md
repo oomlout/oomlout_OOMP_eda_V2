@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORLINEARL7818 > L7818
+# SZKREGULATORLINEARL7818 > Regulator_Linear : L7818
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-L7818
 - Hex ID: SZKREGULATORLINEARL7818
-- Name: L7818
-- Description: L7818
+- Name: Regulator_Linear : L7818
+- Description: Regulator_Linear : L7818
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-L7818](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-L7818)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARL7818](http://oom.lt/SZKREGULATORLINEARL7818)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|L7818|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-L7818|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARL7818|
-|name|name|L7818|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'L7805', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'L7818', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.st.com/content/ccc/resource/technical/document/datasheet/41/4f/b3/b0/12/d4/47/88/CD00000444.pdf/files/CD00000444.pdf/jcr:content/translations/en.CD00000444.pdf', 'kicadSymbolki_keywords': 'Voltage Regulator 1.5A Positive', 'kicadSymbolki_description': 'Positive 1.5A 35V Linear Regulator, Fixed Output 18V, TO-220/TO-263/TO-252', 'kicadSymbolki_fp_filters': 'TO?252* TO?263* TO?220*'}]|
+|name|name|Regulator_Linear : L7818|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'L7805'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'L7818'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.st.com/content/ccc/resource/technical/document/datasheet/41/4f/b3/b0/12/d4/47/88/CD00000444.pdf/files/CD00000444.pdf/jcr</td></tr><tr><td>content/translations/en.CD00000444.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Voltage Regulator 1.5A Positive'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Positive 1.5A 35V Linear Regulator</td><td> Fixed Output 18V</td><td> TO-220/TO-263/TO-252'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TO?252* TO?263* TO?220*'</td></tr></table>]|
 ||||

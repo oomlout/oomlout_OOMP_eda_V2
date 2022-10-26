@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUMCHIPATMEGAATXMEGA128B3MC > ATxmega128B3-MC
+# SZKMCUMCHIPATMEGAATXMEGA128B3MC > MCU_Microchip_ATmega : ATxmega128B3-MC
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATxmega128B3-MC
 - Hex ID: SZKMCUMCHIPATMEGAATXMEGA128B3MC
-- Name: ATxmega128B3-MC
-- Description: ATxmega128B3-MC
+- Name: MCU_Microchip_ATmega : ATxmega128B3-MC
+- Description: MCU_Microchip_ATmega : ATxmega128B3-MC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATxmega128B3-MC](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATxmega128B3-MC)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATMEGAATXMEGA128B3MC](http://oom.lt/SZKMCUMCHIPATMEGAATXMEGA128B3MC)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ATxmega128B3-MC|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATxmega128B3-MC|
 |Hex ID (short code)|hexID|SZKMCUMCHIPATMEGAATXMEGA128B3MC|
-|name|name|ATxmega128B3-MC|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ATxmega128B3-MC', 'kicadSymbolFootprint': 'Package_DFN_QFN:Microchip_DRQFN-64-1EP_7x7mm_P0.65mm_EP4.1x4.1mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-8074-8-and-16-bit-AVR-Microcontroller-XMEGA-B-ATxmega64B3-ATxmega128B3_Datasheet.pdf', 'kicadSymbolki_keywords': 'AVR 8/16bit Microcontroller XMegaAVR', 'kicadSymbolki_description': '32MHz, 128kB Flash, 8kB Boot, 8kB SRAM, 2kB EEPROM, JTAG, USB, LCD, DRQFN-64', 'kicadSymbolki_fp_filters': 'Microchip*DRQFN*1EP*7x7mm*P0.65mm*'}]|
+|name|name|MCU_Microchip_ATmega : ATxmega128B3-MC|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ATxmega128B3-MC'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>Microchip_DRQFN-64-1EP_7x7mm_P0.65mm_EP4.1x4.1mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/Atmel-8074-8-and-16-bit-AVR-Microcontroller-XMEGA-B-ATxmega64B3-ATxmega128B3_Datasheet.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'AVR 8/16bit Microcontroller XMegaAVR'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '32MHz</td><td> 128kB Flash</td><td> 8kB Boot</td><td> 8kB SRAM</td><td> 2kB EEPROM</td><td> JTAG</td><td> USB</td><td> LCD</td><td> DRQFN-64'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Microchip*DRQFN*1EP*7x7mm*P0.65mm*'</td></tr></table>]|
 ||||

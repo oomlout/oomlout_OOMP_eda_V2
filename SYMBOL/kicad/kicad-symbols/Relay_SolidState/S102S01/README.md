@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKRELAYSOLIDSTATES12S1 > S102S01
+# SZKRELAYSOLIDSTATES12S1 > Relay_SolidState : S102S01
 
 - ID: SYMBOL-kicad-kicad-symbols-Relay_SolidState-S102S01
 - Hex ID: SZKRELAYSOLIDSTATES12S1
-- Name: S102S01
-- Description: S102S01
+- Name: Relay_SolidState : S102S01
+- Description: Relay_SolidState : S102S01
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay_SolidState-S102S01](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay_SolidState-S102S01)
 - Short Link: [http://oom.lt/SZKRELAYSOLIDSTATES12S1](http://oom.lt/SZKRELAYSOLIDSTATES12S1)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|S102S01|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Relay_SolidState-S102S01|
 |Hex ID (short code)|hexID|SZKRELAYSOLIDSTATES12S1|
-|name|name|S102S01|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'S102S01', 'kicadSymbolFootprint': 'Package_SIP:SIP4_Sharp-SSR_P7.62mm_Straight', 'kicadSymbolDatasheet': 'http://www.sharp-world.com/products/device/lineup/data/pdf/datasheet/s102s01_e.pdf', 'kicadSymbolki_keywords': 'Opto-Triac Opto Triac Random Phase Solid State Relays', 'kicadSymbolki_description': 'Random Phase Opto-Triac, Vdrm 400V, Ift 8mA, IT 8A', 'kicadSymbolki_fp_filters': 'SIP4*Sharp*SSR*P7.62mm*'}]|
+|name|name|Relay_SolidState : S102S01|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'S102S01'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SIP</td></tr><tr><td>SIP4_Sharp-SSR_P7.62mm_Straight'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.sharp-world.com/products/device/lineup/data/pdf/datasheet/s102s01_e.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Opto-Triac Opto Triac Random Phase Solid State Relays'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Random Phase Opto-Triac</td><td> Vdrm 400V</td><td> Ift 8mA</td><td> IT 8A'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SIP4*Sharp*SSR*P7.62mm*'</td></tr></table>]|
 ||||

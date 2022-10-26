@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKAMPLIFIERAUDIOTDA7265B > TDA7265B
+# SZKAMPLIFIERAUDIOTDA7265B > Amplifier_Audio : TDA7265B
 
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Audio-TDA7265B
 - Hex ID: SZKAMPLIFIERAUDIOTDA7265B
-- Name: TDA7265B
-- Description: TDA7265B
+- Name: Amplifier_Audio : TDA7265B
+- Description: Amplifier_Audio : TDA7265B
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-TDA7265B](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-TDA7265B)
 - Short Link: [http://oom.lt/SZKAMPLIFIERAUDIOTDA7265B](http://oom.lt/SZKAMPLIFIERAUDIOTDA7265B)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TDA7265B|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Audio-TDA7265B|
 |Hex ID (short code)|hexID|SZKAMPLIFIERAUDIOTDA7265B|
-|name|name|TDA7265B|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TDA7265', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TDA7265B', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-220-11_P3.4x5.08mm_StaggerOdd_Lead4.85mm_Vertical', 'kicadSymbolDatasheet': 'http://www.st.com/resource/en/datasheet/tda7265b.pdf', 'kicadSymbolki_keywords': 'audio amplifier 2ch', 'kicadSymbolki_description': '30W + 30W Stereo Amplifier with Mute and Standby, TO-220-11', 'kicadSymbolki_fp_filters': 'TO?220*StaggerOdd*'}]|
+|name|name|Amplifier_Audio : TDA7265B|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'TDA7265'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TDA7265B'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_THT</td></tr><tr><td>TO-220-11_P3.4x5.08mm_StaggerOdd_Lead4.85mm_Vertical'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.st.com/resource/en/datasheet/tda7265b.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'audio amplifier 2ch'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '30W + 30W Stereo Amplifier with Mute and Standby</td><td> TO-220-11'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TO?220*StaggerOdd*'</td></tr></table>]|
 ||||

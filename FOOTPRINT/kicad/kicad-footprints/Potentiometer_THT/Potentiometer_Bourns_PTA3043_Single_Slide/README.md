@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Bourns_PTA3043_Single_Slide|
 |Hex ID (short code)|hexID|FZKPPOTENTIOMETERBOURNSPTA343SINGLESLIDE|
 |name|name|Potentiometer_THT : Potentiometer_Bourns_PTA3043_Single_Slide|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Potentiometer_Bourns_PTA3043_Single_Slide', 'description': 'Bourns single-gang slide potentiometer, 30.0mm travel, https://www.bourns.com/docs/Product-Datasheets/pta.pdf', 'tags': 'Bourns single-gang slide potentiometer 30.0mm', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Potentiometer_THT.3dshapes/Potentiometer_Bourns_PTA3043_Single_Slide.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Potentiometer_Bourns_PTA3043_Single_Slide'</td><td> 'description'</td></tr><tr><td> 'Bourns single-gang slide potentiometer</td><td> 30.0mm travel</td><td> https</td></tr><tr><td>//www.bourns.com/docs/Product-Datasheets/pta.pdf'</td><td> 'tags'</td></tr><tr><td> 'Bourns single-gang slide potentiometer 30.0mm'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Potentiometer_THT.3dshapes/Potentiometer_Bourns_PTA3043_Single_Slide.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

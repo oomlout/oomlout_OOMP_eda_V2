@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKPOWERMANAGEMENTBD48LXXG > BD48LxxG
+# SZKPOWERMANAGEMENTBD48LXXG > Power_Management : BD48LxxG
 
 - ID: SYMBOL-kicad-kicad-symbols-Power_Management-BD48LxxG
 - Hex ID: SZKPOWERMANAGEMENTBD48LXXG
-- Name: BD48LxxG
-- Description: BD48LxxG
+- Name: Power_Management : BD48LxxG
+- Description: Power_Management : BD48LxxG
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-BD48LxxG](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-BD48LxxG)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTBD48LXXG](http://oom.lt/SZKPOWERMANAGEMENTBD48LXXG)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BD48LxxG|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Management-BD48LxxG|
 |Hex ID (short code)|hexID|SZKPOWERMANAGEMENTBD48LXXG|
-|name|name|BD48LxxG|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'BD48LxxG', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23', 'kicadSymbolDatasheet': 'https://www.rohm.de/datasheet/BD4830FVE/bd48xxg-e', 'kicadSymbolki_keywords': 'voltage detector open drain SSOP3', 'kicadSymbolki_description': 'Standard CMOS Voltage Detector IC, Open Drain Output, SSOP3(3pin GND)', 'kicadSymbolki_fp_filters': '*SOT-23*'}]|
+|name|name|Power_Management : BD48LxxG|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'BD48LxxG'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-23'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.rohm.de/datasheet/BD4830FVE/bd48xxg-e'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'voltage detector open drain SSOP3'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Standard CMOS Voltage Detector IC</td><td> Open Drain Output</td><td> SSOP3(3pin GND)'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> '*SOT-23*'</td></tr></table>]|
 ||||

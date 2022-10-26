@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-HDMI_A_Female_2000-1-2-41-00-BK|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSHDMIAFEMALE21241BK|
 |name|name|digikey-footprints : HDMI_A_Female_2000-1-2-41-00-BK|
-|Footprint Kicad|footprintKicadDetails|{'name': 'HDMI_A_Female_2000-1-2-41-00-BK', 'description': 'http://media.digikey.com/pdf/Data%20Sheets/CNC%20Tech%20PDFs/HDMI_A_Female_2000-1-2-41-00-BK_Dwg.pdf', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'HDMI_A_Female_2000-1-2-41-00-BK'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//media.digikey.com/pdf/Data%20Sheets/CNC%20Tech%20PDFs/HDMI_A_Female_2000-1-2-41-00-BK_Dwg.pdf'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

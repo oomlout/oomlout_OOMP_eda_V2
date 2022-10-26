@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKANALOGSWITCHMAX319XPA > MAX319xPA
+# SZKANALOGSWITCHMAX319XPA > Analog_Switch : MAX319xPA
 
 - ID: SYMBOL-kicad-kicad-symbols-Analog_Switch-MAX319xPA
 - Hex ID: SZKANALOGSWITCHMAX319XPA
-- Name: MAX319xPA
-- Description: MAX319xPA
+- Name: Analog_Switch : MAX319xPA
+- Description: Analog_Switch : MAX319xPA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-MAX319xPA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-MAX319xPA)
 - Short Link: [http://oom.lt/SZKANALOGSWITCHMAX319XPA](http://oom.lt/SZKANALOGSWITCHMAX319XPA)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MAX319xPA|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_Switch-MAX319xPA|
 |Hex ID (short code)|hexID|SZKANALOGSWITCHMAX319XPA|
-|name|name|MAX319xPA|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'DG419xJ', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MAX319xPA', 'kicadSymbolFootprint': 'Package_DIP:DIP-8_W7.62mm', 'kicadSymbolDatasheet': 'https://datasheets.maximintegrated.com/en/ds/MAX317-MAX319.pdf', 'kicadSymbolki_keywords': 'CMOS Analog Switch', 'kicadSymbolki_description': 'Single SPDT Monolithic CMOS Analog Switch, 20Ohm Ron, DIP-8', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
+|name|name|Analog_Switch : MAX319xPA|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'DG419xJ'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MAX319xPA'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>DIP-8_W7.62mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//datasheets.maximintegrated.com/en/ds/MAX317-MAX319.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'CMOS Analog Switch'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Single SPDT Monolithic CMOS Analog Switch</td><td> 20Ohm Ron</td><td> DIP-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W7.62mm*'</td></tr></table>]|
 ||||

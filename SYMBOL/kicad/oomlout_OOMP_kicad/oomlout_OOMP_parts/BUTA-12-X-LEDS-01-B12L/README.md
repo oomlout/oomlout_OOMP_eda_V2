@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSBUTA12XLS1B12L > BUTA-12-X-LEDS-01-B12L
+# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSBUTA12XLS1B12L > oomlout_OOMP_parts : BUTA-12-X-LEDS-01-B12L
 
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-BUTA-12-X-LEDS-01-B12L
 - Hex ID: SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSBUTA12XLS1B12L
-- Name: BUTA-12-X-LEDS-01-B12L
-- Description: BUTA-12-X-LEDS-01-B12L
+- Name: oomlout_OOMP_parts : BUTA-12-X-LEDS-01-B12L
+- Description: oomlout_OOMP_parts : BUTA-12-X-LEDS-01-B12L
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-BUTA-12-X-LEDS-01-B12L](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-BUTA-12-X-LEDS-01-B12L)
 - Short Link: [http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSBUTA12XLS1B12L](http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSBUTA12XLS1B12L)
   
@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|BUTA-12-X-LEDS-01-B12L|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-BUTA-12-X-LEDS-01-B12L|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSBUTA12XLS1B12L|
-|name|name|BUTA-12-X-LEDS-01-B12L|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'SW', 'kicadSymbolValue': 'BUTA-12-X-LEDS-01-B12L', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:BUTA-12-X-LEDS-01-B12L', 'kicadSymbolDatasheet': 'oom.lt/B12L', 'kicadSymbolki_keywords': 'switch normally-open pushbutton push-button', 'kicadSymbolki_description': 'hexID: B12L;Push button switch, generic, two pins'}]|
+|name|name|oomlout_OOMP_parts : BUTA-12-X-LEDS-01-B12L|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'SW'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'BUTA-12-X-LEDS-01-B12L'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'oomlout_OOMP_parts</td></tr><tr><td>BUTA-12-X-LEDS-01-B12L'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'oom.lt/B12L'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'switch normally-open pushbutton push-button'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'hexID</td></tr><tr><td> B12L;Push button switch</td><td> generic</td><td> two pins'</td></tr></table>]|
 ||||

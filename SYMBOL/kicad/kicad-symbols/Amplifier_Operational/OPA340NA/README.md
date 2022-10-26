@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKAMPLIFIEROPERATIONALOPA34NA > OPA340NA
+# SZKAMPLIFIEROPERATIONALOPA34NA > Amplifier_Operational : OPA340NA
 
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA340NA
 - Hex ID: SZKAMPLIFIEROPERATIONALOPA34NA
-- Name: OPA340NA
-- Description: OPA340NA
+- Name: Amplifier_Operational : OPA340NA
+- Description: Amplifier_Operational : OPA340NA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA340NA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA340NA)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALOPA34NA](http://oom.lt/SZKAMPLIFIEROPERATIONALOPA34NA)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|OPA340NA|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA340NA|
 |Hex ID (short code)|hexID|SZKAMPLIFIEROPERATIONALOPA34NA|
-|name|name|OPA340NA|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MCP6L91T-EOT', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'OPA340NA', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-5', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/opa340.pdf', 'kicadSymbolki_keywords': 'single opamp', 'kicadSymbolki_description': 'Single Single-Supply, Rail-to-Rail Operational Amplifier, MicroAmplifier Series, SOT-23-5', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
+|name|name|Amplifier_Operational : OPA340NA|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'MCP6L91T-EOT'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'OPA340NA'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-23-5'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/opa340.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'single opamp'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Single Single-Supply</td><td> Rail-to-Rail Operational Amplifier</td><td> MicroAmplifier Series</td><td> SOT-23-5'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23*'</td></tr></table>]|
 ||||

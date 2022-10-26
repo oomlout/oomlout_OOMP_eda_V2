@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SO-SO-4_4.4x3.9mm_P2.54mm|
 |Hex ID (short code)|hexID|FZKSOSO444X39P254|
 |name|name|Package_SO : SO-4_4.4x3.9mm_P2.54mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'SO-4_4.4x3.9mm_P2.54mm', 'description': 'SO, 4 Pin (https://toshiba.semicon-storage.com/info/docget.jsp?did=10047&prodName=TLP3123), generated with kicad-footprint-generator ipc_gullwing_generator.py', 'tags': 'SO SO', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/SO-4_4.4x3.9mm_P2.54mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SO-4_4.4x3.9mm_P2.54mm'</td><td> 'description'</td></tr><tr><td> 'SO</td><td> 4 Pin (https</td></tr><tr><td>//toshiba.semicon-storage.com/info/docget.jsp?did=10047&prodName=TLP3123)</td><td> generated with kicad-footprint-generator ipc_gullwing_generator.py'</td><td> 'tags'</td></tr><tr><td> 'SO SO'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_SO.3dshapes/SO-4_4.4x3.9mm_P2.54mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

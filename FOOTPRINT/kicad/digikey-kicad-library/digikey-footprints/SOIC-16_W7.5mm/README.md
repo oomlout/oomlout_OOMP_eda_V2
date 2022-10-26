@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SOIC-16_W7.5mm|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSOIC16W75|
 |name|name|digikey-footprints : SOIC-16_W7.5mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'SOIC-16_W7.5mm', 'description': 'https://www.infineon.com/dgdl/ir2110.pdf?fileId=5546d462533600a4015355c80333167e', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SOIC-16_W7.5mm'</td><td> 'description'</td></tr><tr><td> 'https</td></tr><tr><td>//www.infineon.com/dgdl/ir2110.pdf?fileId=5546d462533600a4015355c80333167e'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

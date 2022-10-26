@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKOCSASVXXXMHZ > ASV-xxxMHz
+# SZKOCSASVXXXMHZ > Oscillator : ASV-xxxMHz
 
 - ID: SYMBOL-kicad-kicad-symbols-Oscillator-ASV-xxxMHz
 - Hex ID: SZKOCSASVXXXMHZ
-- Name: ASV-xxxMHz
-- Description: ASV-xxxMHz
+- Name: Oscillator : ASV-xxxMHz
+- Description: Oscillator : ASV-xxxMHz
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-ASV-xxxMHz](http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-ASV-xxxMHz)
 - Short Link: [http://oom.lt/SZKOCSASVXXXMHZ](http://oom.lt/SZKOCSASVXXXMHZ)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ASV-xxxMHz|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Oscillator-ASV-xxxMHz|
 |Hex ID (short code)|hexID|SZKOCSASVXXXMHZ|
-|name|name|ASV-xxxMHz|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'X', 'kicadSymbolValue': 'ASV-xxxMHz', 'kicadSymbolFootprint': 'Oscillator:Oscillator_SMD_Abracon_ASV-4Pin_7.0x5.1mm', 'kicadSymbolDatasheet': 'http://www.abracon.com/Oscillators/ASV.pdf', 'kicadSymbolki_keywords': '3.3V HCMOS SMD Crystal Clock Oscillator', 'kicadSymbolki_description': '3.3V HCMOS SMD Crystal Clock Oscillator, Abracon', 'kicadSymbolki_fp_filters': 'Oscillator*SMD*Abracon*ASV*7.0x5.1mm*'}]|
+|name|name|Oscillator : ASV-xxxMHz|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'X'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ASV-xxxMHz'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Oscillator</td></tr><tr><td>Oscillator_SMD_Abracon_ASV-4Pin_7.0x5.1mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.abracon.com/Oscillators/ASV.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> '3.3V HCMOS SMD Crystal Clock Oscillator'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '3.3V HCMOS SMD Crystal Clock Oscillator</td><td> Abracon'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Oscillator*SMD*Abracon*ASV*7.0x5.1mm*'</td></tr></table>]|
 ||||

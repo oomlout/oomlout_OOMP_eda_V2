@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZK74XX74LS19 > 74LS109
+# SZK74XX74LS19 > 74xx : 74LS109
 
 - ID: SYMBOL-kicad-kicad-symbols-74xx-74LS109
 - Hex ID: SZK74XX74LS19
-- Name: 74LS109
-- Description: 74LS109
+- Name: 74xx : 74LS109
+- Description: 74xx : 74LS109
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx-74LS109](http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx-74LS109)
 - Short Link: [http://oom.lt/SZK74XX74LS19](http://oom.lt/SZK74XX74LS19)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74LS109|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xx-74LS109|
 |Hex ID (short code)|hexID|SZK74XX74LS19|
-|name|name|74LS109|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74LS109', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/gpn/sn74LS109', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'TTL JK', 'kicadSymbolki_description': 'Dual JK Flip-Flop, Set & Reset', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
+|name|name|74xx : 74LS109|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> '74LS109'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/gpn/sn74LS109'</td><td> 'kicadSymbolki_locked'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'TTL JK'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Dual JK Flip-Flop</td><td> Set & Reset'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W7.62mm*'</td></tr></table>]|
 ||||

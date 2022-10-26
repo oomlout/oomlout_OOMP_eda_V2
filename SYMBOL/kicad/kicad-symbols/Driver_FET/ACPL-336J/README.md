@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDRIVERFETACPL336J > ACPL-336J
+# SZKDRIVERFETACPL336J > Driver_FET : ACPL-336J
 
 - ID: SYMBOL-kicad-kicad-symbols-Driver_FET-ACPL-336J
 - Hex ID: SZKDRIVERFETACPL336J
-- Name: ACPL-336J
-- Description: ACPL-336J
+- Name: Driver_FET : ACPL-336J
+- Description: Driver_FET : ACPL-336J
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-ACPL-336J](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-ACPL-336J)
 - Short Link: [http://oom.lt/SZKDRIVERFETACPL336J](http://oom.lt/SZKDRIVERFETACPL336J)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ACPL-336J|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Driver_FET-ACPL-336J|
 |Hex ID (short code)|hexID|SZKDRIVERFETACPL336J|
-|name|name|ACPL-336J|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ACPL-336J', 'kicadSymbolFootprint': 'Package_SO:SOIC-16W_7.5x10.3mm_P1.27mm', 'kicadSymbolDatasheet': 'https://docs.broadcom.com/docs/AV02-4391EN', 'kicadSymbolki_keywords': 'Gate Driver IGBT', 'kicadSymbolki_description': '2.5A Gate Drive Optocoupler with Integrated LED Driver, Active Miller Clamp, DESAT Detection, and Fault & UVLO Status Feedback, SOIC-16', 'kicadSymbolki_fp_filters': 'SOIC*7.5x10.3*P1.27mm*'}]|
+|name|name|Driver_FET : ACPL-336J|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ACPL-336J'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-16W_7.5x10.3mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//docs.broadcom.com/docs/AV02-4391EN'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Gate Driver IGBT'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '2.5A Gate Drive Optocoupler with Integrated LED Driver</td><td> Active Miller Clamp</td><td> DESAT Detection</td><td> and Fault & UVLO Status Feedback</td><td> SOIC-16'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*7.5x10.3*P1.27mm*'</td></tr></table>]|
 ||||

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_RJ-RJ25_Wayconn_MJEA-660X1_Horizontal|
 |Hex ID (short code)|hexID|FZKCNRJRJ25WAYCONNMJEA66X1HORIZONTAL|
 |name|name|Connector_RJ : RJ25_Wayconn_MJEA-660X1_Horizontal|
-|Footprint Kicad|footprintKicadDetails|{'name': 'RJ25_Wayconn_MJEA-660X1_Horizontal', 'description': 'RJ25 6P6C Socket 90 degrees, https://wayconn.com/wp-content/themes/way/datasheet/MJEA-660X1XXX_RJ25_6P6C_PCB_RA.pdf', 'tags': 'RJ12 RJ18 RJ25 jack connector 6P6C', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_RJ.3dshapes/RJ25_Wayconn_MJEA-660X1_Horizontal.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'RJ25_Wayconn_MJEA-660X1_Horizontal'</td><td> 'description'</td></tr><tr><td> 'RJ25 6P6C Socket 90 degrees</td><td> https</td></tr><tr><td>//wayconn.com/wp-content/themes/way/datasheet/MJEA-660X1XXX_RJ25_6P6C_PCB_RA.pdf'</td><td> 'tags'</td></tr><tr><td> 'RJ12 RJ18 RJ25 jack connector 6P6C'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_RJ.3dshapes/RJ25_Wayconn_MJEA-660X1_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

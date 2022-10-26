@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-DSUB-9_Receptical_A-DF_09_A_KG-T2S|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSDSUB9RECEPTICALADF9AKGT2S|
 |name|name|digikey-footprints : DSUB-9_Receptical_A-DF_09_A_KG-T2S|
-|Footprint Kicad|footprintKicadDetails|{'name': 'DSUB-9_Receptical_A-DF_09_A_KG-T2S', 'description': 'http://www.assmann-wsw.com/fileadmin/datasheets/ASS_4888_CO.pdf', 'tags': None, 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'DSUB-9_Receptical_A-DF_09_A_KG-T2S'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//www.assmann-wsw.com/fileadmin/datasheets/ASS_4888_CO.pdf'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

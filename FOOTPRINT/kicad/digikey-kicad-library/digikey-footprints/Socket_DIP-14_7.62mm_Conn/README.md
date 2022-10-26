@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Socket_DIP-14_7.62mm_Conn|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSODIP14762CONN|
 |name|name|digikey-footprints : Socket_DIP-14_7.62mm_Conn|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Socket_DIP-14_7.62mm_Conn', 'description': 'http://www.assmann-wsw.com/fileadmin/datasheets/ASS_0810_CO.pdf', 'tags': None, 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Socket_DIP-14_7.62mm_Conn'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//www.assmann-wsw.com/fileadmin/datasheets/ASS_0810_CO.pdf'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

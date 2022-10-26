@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMEMORYFLASHW25Q128JVS > W25Q128JVS
+# SZKMEMORYFLASHW25Q128JVS > Memory_Flash : W25Q128JVS
 
 - ID: SYMBOL-kicad-kicad-symbols-Memory_Flash-W25Q128JVS
 - Hex ID: SZKMEMORYFLASHW25Q128JVS
-- Name: W25Q128JVS
-- Description: W25Q128JVS
+- Name: Memory_Flash : W25Q128JVS
+- Description: Memory_Flash : W25Q128JVS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_Flash-W25Q128JVS](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_Flash-W25Q128JVS)
 - Short Link: [http://oom.lt/SZKMEMORYFLASHW25Q128JVS](http://oom.lt/SZKMEMORYFLASHW25Q128JVS)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|W25Q128JVS|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Memory_Flash-W25Q128JVS|
 |Hex ID (short code)|hexID|SZKMEMORYFLASHW25Q128JVS|
-|name|name|W25Q128JVS|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'W25Q32JVSS', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'W25Q128JVS', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_5.23x5.23mm_P1.27mm', 'kicadSymbolDatasheet': 'http://www.winbond.com/resource-files/w25q128jv_dtr%20revc%2003272018%20plus.pdf', 'kicadSymbolki_keywords': 'flash memory SPI QPI DTR', 'kicadSymbolki_description': '128Mb Serial Flash Memory, Standard/Dual/Quad SPI, SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC*5.23x5.23mm*P1.27mm*'}]|
+|name|name|Memory_Flash : W25Q128JVS|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'W25Q32JVSS'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'W25Q128JVS'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-8_5.23x5.23mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.winbond.com/resource-files/w25q128jv_dtr%20revc%2003272018%20plus.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'flash memory SPI QPI DTR'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '128Mb Serial Flash Memory</td><td> Standard/Dual/Quad SPI</td><td> SOIC-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*5.23x5.23mm*P1.27mm*'</td></tr></table>]|
 ||||

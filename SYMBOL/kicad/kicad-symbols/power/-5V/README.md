@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKPOWER5V > -5V
+# SZKPOWER5V > power : -5V
 
 - ID: SYMBOL-kicad-kicad-symbols-power--5V
 - Hex ID: SZKPOWER5V
-- Name: -5V
-- Description: -5V
+- Name: power : -5V
+- Description: power : -5V
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-power--5V](http://oom.lt/SYMBOL-kicad-kicad-symbols-power--5V)
 - Short Link: [http://oom.lt/SZKPOWER5V](http://oom.lt/SZKPOWER5V)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|-5V|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-power--5V|
 |Hex ID (short code)|hexID|SZKPOWER5V|
-|name|name|-5V|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': '#PWR', 'kicadSymbolValue': '-5V', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_keywords': 'power-flag', 'kicadSymbolki_description': 'Power symbol creates a global label with name "-5V"'}]|
+|name|name|power : -5V|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> '#PWR'</td><td> 'kicadSymbolValue'</td></tr><tr><td> '-5V'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'power-flag'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Power symbol creates a global label with name "-5V"'</td></tr></table>]|
 ||||

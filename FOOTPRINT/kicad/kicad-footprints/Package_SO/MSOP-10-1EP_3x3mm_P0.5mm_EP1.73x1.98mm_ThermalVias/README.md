@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SO-MSOP-10-1EP_3x3mm_P0.5mm_EP1.73x1.98mm_ThermalVias|
 |Hex ID (short code)|hexID|FZKSOMS11EP3X3P5EP173X198THERMALVIAS|
 |name|name|Package_SO : MSOP-10-1EP_3x3mm_P0.5mm_EP1.73x1.98mm_ThermalVias|
-|Footprint Kicad|footprintKicadDetails|{'name': 'MSOP-10-1EP_3x3mm_P0.5mm_EP1.73x1.98mm_ThermalVias', 'description': 'MSOP, 10 Pin (www.allegromicro.com/~/media/Files/Datasheets/A4952-3-Datasheet.ashx?la=en#page=10), generated with kicad-footprint-generator ipc_gullwing_generator.py', 'tags': 'MSOP SO', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/MSOP-10-1EP_3x3mm_P0.5mm_EP1.73x1.98mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'MSOP-10-1EP_3x3mm_P0.5mm_EP1.73x1.98mm_ThermalVias'</td><td> 'description'</td></tr><tr><td> 'MSOP</td><td> 10 Pin (www.allegromicro.com/~/media/Files/Datasheets/A4952-3-Datasheet.ashx?la=en#page=10)</td><td> generated with kicad-footprint-generator ipc_gullwing_generator.py'</td><td> 'tags'</td></tr><tr><td> 'MSOP SO'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_SO.3dshapes/MSOP-10-1EP_3x3mm_P0.5mm_EP1.73x1.98mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

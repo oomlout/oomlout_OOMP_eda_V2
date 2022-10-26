@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKAMPLIFIEROPERATIONALTSV914 > TSV914
+# SZKAMPLIFIEROPERATIONALTSV914 > Amplifier_Operational : TSV914
 
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-TSV914
 - Hex ID: SZKAMPLIFIEROPERATIONALTSV914
-- Name: TSV914
-- Description: TSV914
+- Name: Amplifier_Operational : TSV914
+- Description: Amplifier_Operational : TSV914
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-TSV914](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-TSV914)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALTSV914](http://oom.lt/SZKAMPLIFIEROPERATIONALTSV914)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TSV914|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Operational-TSV914|
 |Hex ID (short code)|hexID|SZKAMPLIFIEROPERATIONALTSV914|
-|name|name|TSV914|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LM2902', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TSV914', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'www.st.com/resource/en/datasheet/tsv911.pdf', 'kicadSymbolki_keywords': 'quad opamp', 'kicadSymbolki_description': 'Quad rail-to-rail input/output 8 MHz operational amplifiers, SOIC-14/TSSOP-14', 'kicadSymbolki_fp_filters': 'SOIC*3.9x8.7mm*P1.27mm* DIP*W7.62mm* TSSOP*4.4x5mm*P0.65mm* SSOP*5.3x6.2mm*P0.65mm* MSOP*3x3mm*P0.5mm*'}]|
+|name|name|Amplifier_Operational : TSV914|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'LM2902'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TSV914'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'www.st.com/resource/en/datasheet/tsv911.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'quad opamp'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Quad rail-to-rail input/output 8 MHz operational amplifiers</td><td> SOIC-14/TSSOP-14'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*3.9x8.7mm*P1.27mm* DIP*W7.62mm* TSSOP*4.4x5mm*P0.65mm* SSOP*5.3x6.2mm*P0.65mm* MSOP*3x3mm*P0.5mm*'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORLINEARLT1963AXST33 > LT1963AxST-3.3
+# SZKREGULATORLINEARLT1963AXST33 > Regulator_Linear : LT1963AxST-3.3
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT1963AxST-3.3
 - Hex ID: SZKREGULATORLINEARLT1963AXST33
-- Name: LT1963AxST-3.3
-- Description: LT1963AxST-3.3
+- Name: Regulator_Linear : LT1963AxST-3.3
+- Description: Regulator_Linear : LT1963AxST-3.3
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT1963AxST-3.3](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT1963AxST-3.3)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARLT1963AXST33](http://oom.lt/SZKREGULATORLINEARLT1963AXST33)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LT1963AxST-3.3|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT1963AxST-3.3|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARLT1963AXST33|
-|name|name|LT1963AxST-3.3|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LT1963AxST-1.5', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LT1963AxST-3.3', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-223-3_TabPin2', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/1963aff.pdf', 'kicadSymbolki_keywords': 'LDO voltage regulator fixed', 'kicadSymbolki_description': '3.3V, 1.5A, Low Noise, Fast Transient Response LDO Regulator, SOT-223', 'kicadSymbolki_fp_filters': 'SOT*223*'}]|
+|name|name|Regulator_Linear : LT1963AxST-3.3|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'LT1963AxST-1.5'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LT1963AxST-3.3'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-223-3_TabPin2'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/1963aff.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'LDO voltage regulator fixed'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '3.3V</td><td> 1.5A</td><td> Low Noise</td><td> Fast Transient Response LDO Regulator</td><td> SOT-223'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT*223*'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKINTERFACEUARTMAX3226 > MAX3226
+# SZKINTERFACEUARTMAX3226 > Interface_UART : MAX3226
 
 - ID: SYMBOL-kicad-kicad-symbols-Interface_UART-MAX3226
 - Hex ID: SZKINTERFACEUARTMAX3226
-- Name: MAX3226
-- Description: MAX3226
+- Name: Interface_UART : MAX3226
+- Description: Interface_UART : MAX3226
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-MAX3226](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-MAX3226)
 - Short Link: [http://oom.lt/SZKINTERFACEUARTMAX3226](http://oom.lt/SZKINTERFACEUARTMAX3226)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MAX3226|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_UART-MAX3226|
 |Hex ID (short code)|hexID|SZKINTERFACEUARTMAX3226|
-|name|name|MAX3226|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MAX3226', 'kicadSymbolFootprint': 'Package_SO:SSOP-16_5.3x6.2mm_P0.65mm', 'kicadSymbolDatasheet': 'https://datasheets.maximintegrated.com/en/ds/MAX3224-MAX3245.pdf', 'kicadSymbolki_keywords': 'rs232 uart transceiver', 'kicadSymbolki_description': 'Single RS232 driver/receiver, 3.0V to 5V supply, 250kb/s, AutoShutdown Plus, SSOP-16 package', 'kicadSymbolki_fp_filters': 'SSOP*5.3x6.2mm*P0.65mm*'}]|
+|name|name|Interface_UART : MAX3226|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MAX3226'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SSOP-16_5.3x6.2mm_P0.65mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//datasheets.maximintegrated.com/en/ds/MAX3224-MAX3245.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'rs232 uart transceiver'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Single RS232 driver/receiver</td><td> 3.0V to 5V supply</td><td> 250kb/s</td><td> AutoShutdown Plus</td><td> SSOP-16 package'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SSOP*5.3x6.2mm*P0.65mm*'</td></tr></table>]|
 ||||

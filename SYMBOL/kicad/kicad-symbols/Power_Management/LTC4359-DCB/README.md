@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKPOWERMANAGEMENTLTC4359DCB > LTC4359-DCB
+# SZKPOWERMANAGEMENTLTC4359DCB > Power_Management : LTC4359-DCB
 
 - ID: SYMBOL-kicad-kicad-symbols-Power_Management-LTC4359-DCB
 - Hex ID: SZKPOWERMANAGEMENTLTC4359DCB
-- Name: LTC4359-DCB
-- Description: LTC4359-DCB
+- Name: Power_Management : LTC4359-DCB
+- Description: Power_Management : LTC4359-DCB
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-LTC4359-DCB](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-LTC4359-DCB)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTLTC4359DCB](http://oom.lt/SZKPOWERMANAGEMENTLTC4359DCB)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LTC4359-DCB|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Management-LTC4359-DCB|
 |Hex ID (short code)|hexID|SZKPOWERMANAGEMENTLTC4359DCB|
-|name|name|LTC4359-DCB|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LTC4359-DCB', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/ltc4359.pdf', 'kicadSymbolki_keywords': 'ideal-diode or-ing reverse-protection', 'kicadSymbolki_description': 'Ideal diode controller with reverse input protection, DFN-6 package', 'kicadSymbolki_fp_filters': 'DFN*1EP*3x2mm*P0.65mm*'}]|
+|name|name|Power_Management : LTC4359-DCB|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LTC4359-DCB'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/ltc4359.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'ideal-diode or-ing reverse-protection'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Ideal diode controller with reverse input protection</td><td> DFN-6 package'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DFN*1EP*3x2mm*P0.65mm*'</td></tr></table>]|
 ||||

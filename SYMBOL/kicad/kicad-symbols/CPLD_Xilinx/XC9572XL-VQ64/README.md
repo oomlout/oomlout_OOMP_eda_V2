@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKCPLDXILINXXC9572XLVQ64 > XC9572XL-VQ64
+# SZKCPLDXILINXXC9572XLVQ64 > CPLD_Xilinx : XC9572XL-VQ64
 
 - ID: SYMBOL-kicad-kicad-symbols-CPLD_Xilinx-XC9572XL-VQ64
 - Hex ID: SZKCPLDXILINXXC9572XLVQ64
-- Name: XC9572XL-VQ64
-- Description: XC9572XL-VQ64
+- Name: CPLD_Xilinx : XC9572XL-VQ64
+- Description: CPLD_Xilinx : XC9572XL-VQ64
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-CPLD_Xilinx-XC9572XL-VQ64](http://oom.lt/SYMBOL-kicad-kicad-symbols-CPLD_Xilinx-XC9572XL-VQ64)
 - Short Link: [http://oom.lt/SZKCPLDXILINXXC9572XLVQ64](http://oom.lt/SZKCPLDXILINXXC9572XLVQ64)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|XC9572XL-VQ64|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-CPLD_Xilinx-XC9572XL-VQ64|
 |Hex ID (short code)|hexID|SZKCPLDXILINXXC9572XLVQ64|
-|name|name|XC9572XL-VQ64|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'XC9572XL-VQ64', 'kicadSymbolFootprint': 'Package_QFP:TQFP-64_10x10mm_P0.5mm', 'kicadSymbolDatasheet': 'http://www.xilinx.com/support/documentation/data_sheets/ds057.pdf', 'kicadSymbolki_keywords': 'CPLD', 'kicadSymbolki_description': 'CPLD, 72 Macrocells, 1600 Usable Gates', 'kicadSymbolki_fp_filters': 'TQFP*10x10mm*P0.5mm*'}]|
+|name|name|CPLD_Xilinx : XC9572XL-VQ64|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'XC9572XL-VQ64'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_QFP</td></tr><tr><td>TQFP-64_10x10mm_P0.5mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.xilinx.com/support/documentation/data_sheets/ds057.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'CPLD'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'CPLD</td><td> 72 Macrocells</td><td> 1600 Usable Gates'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TQFP*10x10mm*P0.5mm*'</td></tr></table>]|
 ||||

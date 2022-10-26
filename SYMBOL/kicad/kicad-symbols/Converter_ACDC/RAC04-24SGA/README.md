@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKCONRAC424SGA > RAC04-24SGA
+# SZKCONRAC424SGA > Converter_ACDC : RAC04-24SGA
 
 - ID: SYMBOL-kicad-kicad-symbols-Converter_ACDC-RAC04-24SGA
 - Hex ID: SZKCONRAC424SGA
-- Name: RAC04-24SGA
-- Description: RAC04-24SGA
+- Name: Converter_ACDC : RAC04-24SGA
+- Description: Converter_ACDC : RAC04-24SGA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_ACDC-RAC04-24SGA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_ACDC-RAC04-24SGA)
 - Short Link: [http://oom.lt/SZKCONRAC424SGA](http://oom.lt/SZKCONRAC424SGA)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|RAC04-24SGA|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Converter_ACDC-RAC04-24SGA|
 |Hex ID (short code)|hexID|SZKCONRAC424SGA|
-|name|name|RAC04-24SGA|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'RAC04-xxSGA', 'kicadSymbolReference': 'PS', 'kicadSymbolValue': 'RAC04-24SGA', 'kicadSymbolFootprint': 'Converter_ACDC:Converter_ACDC_RECOM_RAC04-xxSGx_THT', 'kicadSymbolDatasheet': 'https://www.recom-power.com/pdf/Powerline-AC-DC/RAC04-GA.pdf', 'kicadSymbolki_keywords': 'ac dc power supply', 'kicadSymbolki_description': '4 Watt Single Output EMC Class A - 24V 170mA', 'kicadSymbolki_fp_filters': 'Converter*ACDC*RECOM*RAC04*SG*'}]|
+|name|name|Converter_ACDC : RAC04-24SGA|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'RAC04-xxSGA'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'PS'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'RAC04-24SGA'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Converter_ACDC</td></tr><tr><td>Converter_ACDC_RECOM_RAC04-xxSGx_THT'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.recom-power.com/pdf/Powerline-AC-DC/RAC04-GA.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'ac dc power supply'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '4 Watt Single Output EMC Class A - 24V 170mA'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Converter*ACDC*RECOM*RAC04*SG*'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKAMPLIFIERAUDIOOPA1622 > OPA1622
+# SZKAMPLIFIERAUDIOOPA1622 > Amplifier_Audio : OPA1622
 
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Audio-OPA1622
 - Hex ID: SZKAMPLIFIERAUDIOOPA1622
-- Name: OPA1622
-- Description: OPA1622
+- Name: Amplifier_Audio : OPA1622
+- Description: Amplifier_Audio : OPA1622
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-OPA1622](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-OPA1622)
 - Short Link: [http://oom.lt/SZKAMPLIFIERAUDIOOPA1622](http://oom.lt/SZKAMPLIFIERAUDIOOPA1622)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|OPA1622|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Audio-OPA1622|
 |Hex ID (short code)|hexID|SZKAMPLIFIERAUDIOOPA1622|
-|name|name|OPA1622|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'OPA1622', 'kicadSymbolFootprint': 'Package_SON:Texas_S-PVSON-N10', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/opa1622.pdf', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'dual opamp audio', 'kicadSymbolki_description': 'High-Fidelity, Bipolar-Input, Audio Operational Amplifier, VSON-10', 'kicadSymbolki_fp_filters': 'Texas*PVSON*'}]|
+|name|name|Amplifier_Audio : OPA1622|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'OPA1622'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SON</td></tr><tr><td>Texas_S-PVSON-N10'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/opa1622.pdf'</td><td> 'kicadSymbolki_locked'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'dual opamp audio'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'High-Fidelity</td><td> Bipolar-Input</td><td> Audio Operational Amplifier</td><td> VSON-10'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Texas*PVSON*'</td></tr></table>]|
 ||||

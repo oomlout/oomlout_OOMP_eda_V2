@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORCONTROLLERUCC246121DBV > UCC24612-1DBV
+# SZKREGULATORCONTROLLERUCC246121DBV > Regulator_Controller : UCC24612-1DBV
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Controller-UCC24612-1DBV
 - Hex ID: SZKREGULATORCONTROLLERUCC246121DBV
-- Name: UCC24612-1DBV
-- Description: UCC24612-1DBV
+- Name: Regulator_Controller : UCC24612-1DBV
+- Description: Regulator_Controller : UCC24612-1DBV
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-UCC24612-1DBV](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-UCC24612-1DBV)
 - Short Link: [http://oom.lt/SZKREGULATORCONTROLLERUCC246121DBV](http://oom.lt/SZKREGULATORCONTROLLERUCC246121DBV)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|UCC24612-1DBV|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Controller-UCC24612-1DBV|
 |Hex ID (short code)|hexID|SZKREGULATORCONTROLLERUCC246121DBV|
-|name|name|UCC24612-1DBV|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'UCC24612-1DBV', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-5', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/ucc24612.pdf', 'kicadSymbolki_keywords': 'synchronous rectifier controller', 'kicadSymbolki_description': 'High Frequency Synchronous Rectifier Controller, 1MHz, Min On Time = 375ns, SOT-23-5', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
+|name|name|Regulator_Controller : UCC24612-1DBV|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'UCC24612-1DBV'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-23-5'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/ucc24612.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'synchronous rectifier controller'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'High Frequency Synchronous Rectifier Controller</td><td> 1MHz</td><td> Min On Time = 375ns</td><td> SOT-23-5'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23*'</td></tr></table>]|
 ||||

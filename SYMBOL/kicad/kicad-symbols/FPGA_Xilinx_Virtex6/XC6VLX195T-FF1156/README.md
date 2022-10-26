@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKFPGAXILINXVIRTEX6XC6VLX195TFF1156 > XC6VLX195T-FF1156
+# SZKFPGAXILINXVIRTEX6XC6VLX195TFF1156 > FPGA_Xilinx_Virtex6 : XC6VLX195T-FF1156
 
 - ID: SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Virtex6-XC6VLX195T-FF1156
 - Hex ID: SZKFPGAXILINXVIRTEX6XC6VLX195TFF1156
-- Name: XC6VLX195T-FF1156
-- Description: XC6VLX195T-FF1156
+- Name: FPGA_Xilinx_Virtex6 : XC6VLX195T-FF1156
+- Description: FPGA_Xilinx_Virtex6 : XC6VLX195T-FF1156
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Virtex6-XC6VLX195T-FF1156](http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Virtex6-XC6VLX195T-FF1156)
 - Short Link: [http://oom.lt/SZKFPGAXILINXVIRTEX6XC6VLX195TFF1156](http://oom.lt/SZKFPGAXILINXVIRTEX6XC6VLX195TFF1156)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|XC6VLX195T-FF1156|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Virtex6-XC6VLX195T-FF1156|
 |Hex ID (short code)|hexID|SZKFPGAXILINXVIRTEX6XC6VLX195TFF1156|
-|name|name|XC6VLX195T-FF1156|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'XC6VLX195T-FF1156', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'FPGA', 'kicadSymbolki_description': 'Virtex 6 LXT 195 XC6VLX195T-FF1156'}]|
+|name|name|FPGA_Xilinx_Virtex6 : XC6VLX195T-FF1156|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'XC6VLX195T-FF1156'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_locked'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'FPGA'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Virtex 6 LXT 195 XC6VLX195T-FF1156'</td></tr></table>]|
 ||||

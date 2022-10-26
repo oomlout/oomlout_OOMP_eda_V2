@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMEMORYRAMIDT76PF > IDT7006PF
+# SZKMEMORYRAMIDT76PF > Memory_RAM : IDT7006PF
 
 - ID: SYMBOL-kicad-kicad-symbols-Memory_RAM-IDT7006PF
 - Hex ID: SZKMEMORYRAMIDT76PF
-- Name: IDT7006PF
-- Description: IDT7006PF
+- Name: Memory_RAM : IDT7006PF
+- Description: Memory_RAM : IDT7006PF
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_RAM-IDT7006PF](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_RAM-IDT7006PF)
 - Short Link: [http://oom.lt/SZKMEMORYRAMIDT76PF](http://oom.lt/SZKMEMORYRAMIDT76PF)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IDT7006PF|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Memory_RAM-IDT7006PF|
 |Hex ID (short code)|hexID|SZKMEMORYRAMIDT76PF|
-|name|name|IDT7006PF|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'IDT7006PF', 'kicadSymbolFootprint': 'Package_QFP:TQFP-64_14x14mm_P0.8mm', 'kicadSymbolDatasheet': 'https://www.idt.com/document/dst/7006-data-sheet', 'kicadSymbolki_keywords': 'dual-port ram', 'kicadSymbolki_description': '16K x 8 Dual-Port SRAM, TQFP-64', 'kicadSymbolki_fp_filters': 'TQFP*14x14mm*P0.8mm*'}]|
+|name|name|Memory_RAM : IDT7006PF|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'IDT7006PF'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_QFP</td></tr><tr><td>TQFP-64_14x14mm_P0.8mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.idt.com/document/dst/7006-data-sheet'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'dual-port ram'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '16K x 8 Dual-Port SRAM</td><td> TQFP-64'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TQFP*14x14mm*P0.8mm*'</td></tr></table>]|
 ||||

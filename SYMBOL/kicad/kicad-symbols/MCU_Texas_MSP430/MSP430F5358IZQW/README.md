@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUTEXASMSP43MSP43F5358IZQW > MSP430F5358IZQW
+# SZKMCUTEXASMSP43MSP43F5358IZQW > MCU_Texas_MSP430 : MSP430F5358IZQW
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Texas_MSP430-MSP430F5358IZQW
 - Hex ID: SZKMCUTEXASMSP43MSP43F5358IZQW
-- Name: MSP430F5358IZQW
-- Description: MSP430F5358IZQW
+- Name: MCU_Texas_MSP430 : MSP430F5358IZQW
+- Description: MCU_Texas_MSP430 : MSP430F5358IZQW
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Texas_MSP430-MSP430F5358IZQW](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Texas_MSP430-MSP430F5358IZQW)
 - Short Link: [http://oom.lt/SZKMCUTEXASMSP43MSP43F5358IZQW](http://oom.lt/SZKMCUTEXASMSP43MSP43F5358IZQW)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MSP430F5358IZQW|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Texas_MSP430-MSP430F5358IZQW|
 |Hex ID (short code)|hexID|SZKMCUTEXASMSP43MSP43F5358IZQW|
-|name|name|MSP430F5358IZQW|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MSP430F5358IZQW', 'kicadSymbolFootprint': 'Package_BGA:Texas_MicroStar_Junior_BGA-113_7.0x7.0mm_Layout12x12_P0.5mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/msp430f5358.pdf', 'kicadSymbolki_keywords': 'TI MSP430 16-bit mixed signal microcontroller', 'kicadSymbolki_description': '384kB Flash, 34kB RAM, BGA-113', 'kicadSymbolki_fp_filters': 'Texas*MicroStar*Junior*BGA*7.0x7.0mm*Layout12x12*P0.5mm*'}]|
+|name|name|MCU_Texas_MSP430 : MSP430F5358IZQW|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MSP430F5358IZQW'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_BGA</td></tr><tr><td>Texas_MicroStar_Junior_BGA-113_7.0x7.0mm_Layout12x12_P0.5mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/msp430f5358.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'TI MSP430 16-bit mixed signal microcontroller'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '384kB Flash</td><td> 34kB RAM</td><td> BGA-113'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Texas*MicroStar*Junior*BGA*7.0x7.0mm*Layout12x12*P0.5mm*'</td></tr></table>]|
 ||||

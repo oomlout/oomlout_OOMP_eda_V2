@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKINTERFACECANLINTJA151T > TJA1051T
+# SZKINTERFACECANLINTJA151T > Interface_CAN_LIN : TJA1051T
 
 - ID: SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-TJA1051T
 - Hex ID: SZKINTERFACECANLINTJA151T
-- Name: TJA1051T
-- Description: TJA1051T
+- Name: Interface_CAN_LIN : TJA1051T
+- Description: Interface_CAN_LIN : TJA1051T
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-TJA1051T](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-TJA1051T)
 - Short Link: [http://oom.lt/SZKINTERFACECANLINTJA151T](http://oom.lt/SZKINTERFACECANLINTJA151T)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TJA1051T|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-TJA1051T|
 |Hex ID (short code)|hexID|SZKINTERFACECANLINTJA151T|
-|name|name|TJA1051T|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TJA1051T', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm', 'kicadSymbolDatasheet': 'http://www.nxp.com/documents/data_sheet/TJA1051.pdf', 'kicadSymbolki_keywords': 'High-Speed CAN Transceiver', 'kicadSymbolki_description': 'High-Speed CAN Transceiver, silent mode, SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm*'}]|
+|name|name|Interface_CAN_LIN : TJA1051T|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TJA1051T'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-8_3.9x4.9mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.nxp.com/documents/data_sheet/TJA1051.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'High-Speed CAN Transceiver'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'High-Speed CAN Transceiver</td><td> silent mode</td><td> SOIC-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*3.9x4.9mm*P1.27mm*'</td></tr></table>]|
 ||||

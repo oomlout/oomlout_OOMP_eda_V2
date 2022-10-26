@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORLINEARBDJGA3WEFJ > BDJ0GA3WEFJ
+# SZKREGULATORLINEARBDJGA3WEFJ > Regulator_Linear : BDJ0GA3WEFJ
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-BDJ0GA3WEFJ
 - Hex ID: SZKREGULATORLINEARBDJGA3WEFJ
-- Name: BDJ0GA3WEFJ
-- Description: BDJ0GA3WEFJ
+- Name: Regulator_Linear : BDJ0GA3WEFJ
+- Description: Regulator_Linear : BDJ0GA3WEFJ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-BDJ0GA3WEFJ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-BDJ0GA3WEFJ)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARBDJGA3WEFJ](http://oom.lt/SZKREGULATORLINEARBDJGA3WEFJ)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BDJ0GA3WEFJ|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-BDJ0GA3WEFJ|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARBDJGA3WEFJ|
-|name|name|BDJ0GA3WEFJ|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BD15GA5WEFJ', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'BDJ0GA3WEFJ', 'kicadSymbolFootprint': 'Package_SO:HTSOP-8-1EP_3.9x4.9mm_P1.27mm_EP2.4x3.2mm', 'kicadSymbolDatasheet': 'http://rohmfs.rohm.com/en/products/databook/datasheet/ic/power/linear_regulator/bdxxga3wefj-e.pdf', 'kicadSymbolki_keywords': 'linear regulator fixed positive over voltage protection thermal shutdown', 'kicadSymbolki_description': '300mA, 10V LDO regulator with OVP & TSP, HTSOP-8', 'kicadSymbolki_fp_filters': 'HTSOP*1EP*3.9x4.9mm*P1.27mm*'}]|
+|name|name|Regulator_Linear : BDJ0GA3WEFJ|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'BD15GA5WEFJ'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'BDJ0GA3WEFJ'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>HTSOP-8-1EP_3.9x4.9mm_P1.27mm_EP2.4x3.2mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//rohmfs.rohm.com/en/products/databook/datasheet/ic/power/linear_regulator/bdxxga3wefj-e.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'linear regulator fixed positive over voltage protection thermal shutdown'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '300mA</td><td> 10V LDO regulator with OVP & TSP</td><td> HTSOP-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'HTSOP*1EP*3.9x4.9mm*P1.27mm*'</td></tr></table>]|
 ||||

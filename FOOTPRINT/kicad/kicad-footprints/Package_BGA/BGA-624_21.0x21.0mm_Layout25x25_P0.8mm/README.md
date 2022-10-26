@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_BGA-BGA-624_21.0x21.0mm_Layout25x25_P0.8mm|
 |Hex ID (short code)|hexID|FZKBGABGA62421X21LAYOUT25X25P8|
 |name|name|Package_BGA : BGA-624_21.0x21.0mm_Layout25x25_P0.8mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'BGA-624_21.0x21.0mm_Layout25x25_P0.8mm', 'description': 'BGA-624, 25x25 grid, 21x21mm package, pitch 0.8mm; https://www.nxp.com/docs/en/package-information/SOT1529-1.pdf', 'tags': 'BGA 624 0.8', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/BGA-624_21.0x21.0mm_Layout25x25_P0.8mm.wrl', 'pins': {'type': 'smd', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'BGA-624_21.0x21.0mm_Layout25x25_P0.8mm'</td><td> 'description'</td></tr><tr><td> 'BGA-624</td><td> 25x25 grid</td><td> 21x21mm package</td><td> pitch 0.8mm; https</td></tr><tr><td>//www.nxp.com/docs/en/package-information/SOT1529-1.pdf'</td><td> 'tags'</td></tr><tr><td> 'BGA 624 0.8'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_BGA.3dshapes/BGA-624_21.0x21.0mm_Layout25x25_P0.8mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

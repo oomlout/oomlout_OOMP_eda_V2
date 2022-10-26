@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORBJTTIP12 > TIP120
+# SZKTRANSISTORBJTTIP12 > Transistor_BJT : TIP120
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-TIP120
 - Hex ID: SZKTRANSISTORBJTTIP12
-- Name: TIP120
-- Description: TIP120
+- Name: Transistor_BJT : TIP120
+- Description: Transistor_BJT : TIP120
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-TIP120](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-TIP120)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTTIP12](http://oom.lt/SZKTRANSISTORBJTTIP12)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TIP120|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_BJT-TIP120|
 |Hex ID (short code)|hexID|SZKTRANSISTORBJTTIP12|
-|name|name|TIP120|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'TIP120', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-220-3_Vertical', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pub/Collateral/TIP120-D.PDF', 'kicadSymbolki_keywords': 'Darlington Power NPN Transistor', 'kicadSymbolki_description': '5A Ic, 60V Vce, Silicon Darlington Power NPN Transistor, TO-220', 'kicadSymbolki_fp_filters': 'TO?220*'}]|
+|name|name|Transistor_BJT : TIP120|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TIP120'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_THT</td></tr><tr><td>TO-220-3_Vertical'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.onsemi.com/pub/Collateral/TIP120-D.PDF'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Darlington Power NPN Transistor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '5A Ic</td><td> 60V Vce</td><td> Silicon Darlington Power NPN Transistor</td><td> TO-220'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TO?220*'</td></tr></table>]|
 ||||

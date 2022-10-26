@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-TO-277B|
 |Hex ID (short code)|hexID|FZKPACKAGETOSOTSMTO277B|
 |name|name|Package_TO_SOT_SMD : TO-277B|
-|Footprint Kicad|footprintKicadDetails|{'name': 'TO-277B', 'description': 'TO-227B https://media.digikey.com/pdf/Data%20Sheets/Littelfuse%20PDFs/DST2050S.pdf', 'tags': 'TO-277B', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/TO-277B.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'TO-277B'</td><td> 'description'</td></tr><tr><td> 'TO-227B https</td></tr><tr><td>//media.digikey.com/pdf/Data%20Sheets/Littelfuse%20PDFs/DST2050S.pdf'</td><td> 'tags'</td></tr><tr><td> 'TO-277B'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_TO_SOT_SMD.3dshapes/TO-277B.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

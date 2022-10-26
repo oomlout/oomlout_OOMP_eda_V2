@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDEVICEQNIGBTECGC > Q_NIGBT_ECGC
+# SZKDEVICEQNIGBTECGC > Device : Q_NIGBT_ECGC
 
 - ID: SYMBOL-kicad-kicad-symbols-Device-Q_NIGBT_ECGC
 - Hex ID: SZKDEVICEQNIGBTECGC
-- Name: Q_NIGBT_ECGC
-- Description: Q_NIGBT_ECGC
+- Name: Device : Q_NIGBT_ECGC
+- Description: Device : Q_NIGBT_ECGC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Q_NIGBT_ECGC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Q_NIGBT_ECGC)
 - Short Link: [http://oom.lt/SZKDEVICEQNIGBTECGC](http://oom.lt/SZKDEVICEQNIGBTECGC)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Q_NIGBT_ECGC|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-Q_NIGBT_ECGC|
 |Hex ID (short code)|hexID|SZKDEVICEQNIGBTECGC|
-|name|name|Q_NIGBT_ECGC|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'Q_NIGBT_ECGC', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'transistor IGBT N-IGBT', 'kicadSymbolki_description': 'N-IGBT transistor, emitter/collector/gate, collector connected to mounting plane'}]|
+|name|name|Device : Q_NIGBT_ECGC|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Q_NIGBT_ECGC'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'transistor IGBT N-IGBT'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'N-IGBT transistor</td><td> emitter/collector/gate</td><td> collector connected to mounting plane'</td></tr></table>]|
 ||||

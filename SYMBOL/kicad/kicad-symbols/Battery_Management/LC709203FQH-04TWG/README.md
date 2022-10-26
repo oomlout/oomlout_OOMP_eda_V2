@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKBATMANAGEMENTLC7923FQH4TWG > LC709203FQH-04TWG
+# SZKBATMANAGEMENTLC7923FQH4TWG > Battery_Management : LC709203FQH-04TWG
 
 - ID: SYMBOL-kicad-kicad-symbols-Battery_Management-LC709203FQH-04TWG
 - Hex ID: SZKBATMANAGEMENTLC7923FQH4TWG
-- Name: LC709203FQH-04TWG
-- Description: LC709203FQH-04TWG
+- Name: Battery_Management : LC709203FQH-04TWG
+- Description: Battery_Management : LC709203FQH-04TWG
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-LC709203FQH-04TWG](http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-LC709203FQH-04TWG)
 - Short Link: [http://oom.lt/SZKBATMANAGEMENTLC7923FQH4TWG](http://oom.lt/SZKBATMANAGEMENTLC7923FQH4TWG)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LC709203FQH-04TWG|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Battery_Management-LC709203FQH-04TWG|
 |Hex ID (short code)|hexID|SZKBATMANAGEMENTLC7923FQH4TWG|
-|name|name|LC709203FQH-04TWG|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LC709203FQH-01TWG', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LC709203FQH-04TWG', 'kicadSymbolFootprint': 'Package_DFN_QFN:WDFN-8-1EP_4x3mm_P0.65mm_EP2.4x1.8mm', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pub/Collateral/LC709203F-D.PDF', 'kicadSymbolki_keywords': 'Battery gauge I2C', 'kicadSymbolki_description': 'Single LiPo battery fuel gauge, I2C, type 04, WDFN-8', 'kicadSymbolki_fp_filters': 'WDFN*1EP*4x3mm*P0.65mm*'}]|
+|name|name|Battery_Management : LC709203FQH-04TWG|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'LC709203FQH-01TWG'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LC709203FQH-04TWG'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>WDFN-8-1EP_4x3mm_P0.65mm_EP2.4x1.8mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.onsemi.com/pub/Collateral/LC709203F-D.PDF'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Battery gauge I2C'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Single LiPo battery fuel gauge</td><td> I2C</td><td> type 04</td><td> WDFN-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'WDFN*1EP*4x3mm*P0.65mm*'</td></tr></table>]|
 ||||

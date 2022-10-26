@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_BGA-LFBGA-144_10x10mm_Layout12x12_P0.8mm|
 |Hex ID (short code)|hexID|FZKBGALFBGA1441X1LAYOUT12X12P8|
 |name|name|Package_BGA : LFBGA-144_10x10mm_Layout12x12_P0.8mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'LFBGA-144_10x10mm_Layout12x12_P0.8mm', 'description': 'LFBGA-144, 12x12 raster, 10x10mm package, pitch 0.8mm; see section 6.1 of http://www.st.com/resource/en/datasheet/stm32f103ze.pdf', 'tags': 'BGA 144 0.8', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/LFBGA-144_10x10mm_Layout12x12_P0.8mm.wrl', 'pins': {'type': 'smd', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'LFBGA-144_10x10mm_Layout12x12_P0.8mm'</td><td> 'description'</td></tr><tr><td> 'LFBGA-144</td><td> 12x12 raster</td><td> 10x10mm package</td><td> pitch 0.8mm; see section 6.1 of http</td></tr><tr><td>//www.st.com/resource/en/datasheet/stm32f103ze.pdf'</td><td> 'tags'</td></tr><tr><td> 'BGA 144 0.8'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_BGA.3dshapes/LFBGA-144_10x10mm_Layout12x12_P0.8mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

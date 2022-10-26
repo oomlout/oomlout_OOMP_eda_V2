@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_S-PVQFN-N64_EP4.25x4.25mm|
 |Hex ID (short code)|hexID|FZKDFNTEXASSPVQFNN64EP425X425|
 |name|name|Package_DFN_QFN : Texas_S-PVQFN-N64_EP4.25x4.25mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Texas_S-PVQFN-N64_EP4.25x4.25mm', 'description': 'QFN, 64 Pin (http://www.ti.com/lit/ds/symlink/msp430f5217.pdf#page=120), generated with kicad-footprint-generator ipc_noLead_generator.py', 'tags': 'QFN NoLead', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Texas_S-PVQFN-N64_EP4.25x4.25mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Texas_S-PVQFN-N64_EP4.25x4.25mm'</td><td> 'description'</td></tr><tr><td> 'QFN</td><td> 64 Pin (http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/msp430f5217.pdf#page=120)</td><td> generated with kicad-footprint-generator ipc_noLead_generator.py'</td><td> 'tags'</td></tr><tr><td> 'QFN NoLead'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DFN_QFN.3dshapes/Texas_S-PVQFN-N64_EP4.25x4.25mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKINTERFACEZ842 > Z8420
+# SZKINTERFACEZ842 > Interface : Z8420
 
 - ID: SYMBOL-kicad-kicad-symbols-Interface-Z8420
 - Hex ID: SZKINTERFACEZ842
-- Name: Z8420
-- Description: Z8420
+- Name: Interface : Z8420
+- Description: Interface : Z8420
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-Z8420](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-Z8420)
 - Short Link: [http://oom.lt/SZKINTERFACEZ842](http://oom.lt/SZKINTERFACEZ842)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Z8420|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface-Z8420|
 |Hex ID (short code)|hexID|SZKINTERFACEZ842|
-|name|name|Z8420|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'Z8420', 'kicadSymbolFootprint': 'Package_DIP:DIP-40_W15.24mm', 'kicadSymbolDatasheet': 'https://www.zilog.com/appnotes_download.php?FromPage=DirectLink&dn=PS0180&ft=Product%20Specification%20(Data%20Sheet)%20%20&f=YUhSMGNEb3ZMM2QzZHk1NmFXeHZaeTVqYjIwdlpHOWpjeTk2T0RBdmNITXdNVGd3TG5Ca1pnPT0=', 'kicadSymbolki_keywords': 'Z80 PIO parallel', 'kicadSymbolki_description': 'Parallel I/O, DIP-40', 'kicadSymbolki_fp_filters': 'DIP*W15.24mm*'}]|
+|name|name|Interface : Z8420|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Z8420'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>DIP-40_W15.24mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.zilog.com/appnotes_download.php?FromPage=DirectLink&dn=PS0180&ft=Product%20Specification%20(Data%20Sheet)%20%20&f=YUhSMGNEb3ZMM2QzZHk1NmFXeHZaeTVqYjIwdlpHOWpjeTk2T0RBdmNITXdNVGd3TG5Ca1pnPT0='</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Z80 PIO parallel'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Parallel I/O</td><td> DIP-40'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W15.24mm*'</td></tr></table>]|
 ||||

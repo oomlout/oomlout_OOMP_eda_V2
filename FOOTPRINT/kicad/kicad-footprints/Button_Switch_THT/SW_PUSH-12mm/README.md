@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_PUSH-12mm|
 |Hex ID (short code)|hexID|FZKBSWPUSH12|
 |name|name|Button_Switch_THT : SW_PUSH-12mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'SW_PUSH-12mm', 'description': 'SW PUSH 12mm https://www.e-switch.com/system/asset/product_line/data_sheet/143/TL1100.pdf', 'tags': 'tact sw push 12mm', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_PUSH-12mm.wrl', 'pins': {'type': 'thru_hole', 'shape': 'oval'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SW_PUSH-12mm'</td><td> 'description'</td></tr><tr><td> 'SW PUSH 12mm https</td></tr><tr><td>//www.e-switch.com/system/asset/product_line/data_sheet/143/TL1100.pdf'</td><td> 'tags'</td></tr><tr><td> 'tact sw push 12mm'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Button_Switch_THT.3dshapes/SW_PUSH-12mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'oval'</td></tr></table></td></tr></table>|
 ||||
 
 

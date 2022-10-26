@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORBJT2SC1815 > 2SC1815
+# SZKTRANSISTORBJT2SC1815 > Transistor_BJT : 2SC1815
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-2SC1815
 - Hex ID: SZKTRANSISTORBJT2SC1815
-- Name: 2SC1815
-- Description: 2SC1815
+- Name: Transistor_BJT : 2SC1815
+- Description: Transistor_BJT : 2SC1815
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-2SC1815](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-2SC1815)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJT2SC1815](http://oom.lt/SZKTRANSISTORBJT2SC1815)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|2SC1815|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_BJT-2SC1815|
 |Hex ID (short code)|hexID|SZKTRANSISTORBJT2SC1815|
-|name|name|2SC1815|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': '2SC1815', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-92_Inline', 'kicadSymbolDatasheet': 'https://media.digikey.com/pdf/Data%20Sheets/Toshiba%20PDFs/2SC1815.pdf', 'kicadSymbolki_keywords': 'Low Noise Audio NPN Transistor', 'kicadSymbolki_description': '0.15A Ic, 50V Vce, Low Noise Audio NPN Transistor, TO-92', 'kicadSymbolki_fp_filters': 'TO?92*'}]|
+|name|name|Transistor_BJT : 2SC1815|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> '2SC1815'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_THT</td></tr><tr><td>TO-92_Inline'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//media.digikey.com/pdf/Data%20Sheets/Toshiba%20PDFs/2SC1815.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Low Noise Audio NPN Transistor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '0.15A Ic</td><td> 50V Vce</td><td> Low Noise Audio NPN Transistor</td><td> TO-92'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TO?92*'</td></tr></table>]|
 ||||

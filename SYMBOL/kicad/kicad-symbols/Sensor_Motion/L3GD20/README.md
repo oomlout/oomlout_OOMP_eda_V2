@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKSENMOTIONL3GD2 > L3GD20
+# SZKSENMOTIONL3GD2 > Sensor_Motion : L3GD20
 
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Motion-L3GD20
 - Hex ID: SZKSENMOTIONL3GD2
-- Name: L3GD20
-- Description: L3GD20
+- Name: Sensor_Motion : L3GD20
+- Description: Sensor_Motion : L3GD20
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Motion-L3GD20](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Motion-L3GD20)
 - Short Link: [http://oom.lt/SZKSENMOTIONL3GD2](http://oom.lt/SZKSENMOTIONL3GD2)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|L3GD20|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Motion-L3GD20|
 |Hex ID (short code)|hexID|SZKSENMOTIONL3GD2|
-|name|name|L3GD20|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'L3GD20', 'kicadSymbolFootprint': 'Package_LGA:LGA-16_4x4mm_P0.65mm_LayoutBorder4x4y', 'kicadSymbolDatasheet': 'http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00036465.pdf', 'kicadSymbolki_keywords': '3-Axis MEMS Gyroscope', 'kicadSymbolki_description': '[Not recommended for new designs] 16-bit 3 Axis Digital MEMS Gyroscope, LGA-16', 'kicadSymbolki_fp_filters': 'LGA*4x4mm*P0.65mm*LayoutBorder4x4y*'}]|
+|name|name|Sensor_Motion : L3GD20|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'L3GD20'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_LGA</td></tr><tr><td>LGA-16_4x4mm_P0.65mm_LayoutBorder4x4y'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00036465.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> '3-Axis MEMS Gyroscope'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '[Not recommended for new designs] 16-bit 3 Axis Digital MEMS Gyroscope</td><td> LGA-16'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'LGA*4x4mm*P0.65mm*LayoutBorder4x4y*'</td></tr></table>]|
 ||||

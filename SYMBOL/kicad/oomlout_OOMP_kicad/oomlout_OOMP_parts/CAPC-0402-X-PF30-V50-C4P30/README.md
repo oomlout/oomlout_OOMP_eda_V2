@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC42XPF3V5C4P3 > CAPC-0402-X-PF30-V50-C4P30
+# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC42XPF3V5C4P3 > oomlout_OOMP_parts : CAPC-0402-X-PF30-V50-C4P30
 
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0402-X-PF30-V50-C4P30
 - Hex ID: SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC42XPF3V5C4P3
-- Name: CAPC-0402-X-PF30-V50-C4P30
-- Description: CAPC-0402-X-PF30-V50-C4P30
+- Name: oomlout_OOMP_parts : CAPC-0402-X-PF30-V50-C4P30
+- Description: oomlout_OOMP_parts : CAPC-0402-X-PF30-V50-C4P30
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0402-X-PF30-V50-C4P30](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0402-X-PF30-V50-C4P30)
 - Short Link: [http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC42XPF3V5C4P3](http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC42XPF3V5C4P3)
   
@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|CAPC-0402-X-PF30-V50-C4P30|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0402-X-PF30-V50-C4P30|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC42XPF3V5C4P3|
-|name|name|CAPC-0402-X-PF30-V50-C4P30|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'C', 'kicadSymbolValue': 'CAPC-0402-X-PF30-V50-C4P30', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:CAPC-0402-X-PF30-V50-C4P30', 'kicadSymbolDatasheet': 'oom.lt/C4P30', 'kicadSymbolki_keywords': 'cap capacitor', 'kicadSymbolki_description': 'hexID: C4P30;PARTL C-JLCC;C13533;MANUF C-XXXX;CL05C331JB5NNNC;Unpolarized capacitor', 'kicadSymbolki_fp_filters': 'C_*'}]|
+|name|name|oomlout_OOMP_parts : CAPC-0402-X-PF30-V50-C4P30|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'C'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'CAPC-0402-X-PF30-V50-C4P30'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'oomlout_OOMP_parts</td></tr><tr><td>CAPC-0402-X-PF30-V50-C4P30'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'oom.lt/C4P30'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'cap capacitor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'hexID</td></tr><tr><td> C4P30;PARTL C-JLCC;C13533;MANUF C-XXXX;CL05C331JB5NNNC;Unpolarized capacitor'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'C_*'</td></tr></table>]|
 ||||

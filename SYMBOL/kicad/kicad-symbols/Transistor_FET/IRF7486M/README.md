@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORFETIRF7486M > IRF7486M
+# SZKTRANSISTORFETIRF7486M > Transistor_FET : IRF7486M
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF7486M
 - Hex ID: SZKTRANSISTORFETIRF7486M
-- Name: IRF7486M
-- Description: IRF7486M
+- Name: Transistor_FET : IRF7486M
+- Description: Transistor_FET : IRF7486M
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF7486M](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF7486M)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETIRF7486M](http://oom.lt/SZKTRANSISTORFETIRF7486M)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IRF7486M|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF7486M|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETIRF7486M|
-|name|name|IRF7486M|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'IRF60DM206', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'IRF7486M', 'kicadSymbolFootprint': 'Package_DirectFET:DirectFET_ME', 'kicadSymbolDatasheet': 'https://www.infineon.com/dgdl/Infineon-IRL7486M-DS-v01_00-EN.pdf?fileId=5546d46258fc0bc10158fec7a83a0629', 'kicadSymbolki_keywords': 'N-Channel MOSFET', 'kicadSymbolki_description': '209A Id, 40V Vds, 1.25mOhm Rds, N-Channel MOSFET, DirectFET ME', 'kicadSymbolki_fp_filters': 'DirectFET*ME*'}]|
+|name|name|Transistor_FET : IRF7486M|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'IRF60DM206'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'IRF7486M'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DirectFET</td></tr><tr><td>DirectFET_ME'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.infineon.com/dgdl/Infineon-IRL7486M-DS-v01_00-EN.pdf?fileId=5546d46258fc0bc10158fec7a83a0629'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'N-Channel MOSFET'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '209A Id</td><td> 40V Vds</td><td> 1.25mOhm Rds</td><td> N-Channel MOSFET</td><td> DirectFET ME'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DirectFET*ME*'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORLINEARXC622B331MR > XC6220B331MR
+# SZKREGULATORLINEARXC622B331MR > Regulator_Linear : XC6220B331MR
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-XC6220B331MR
 - Hex ID: SZKREGULATORLINEARXC622B331MR
-- Name: XC6220B331MR
-- Description: XC6220B331MR
+- Name: Regulator_Linear : XC6220B331MR
+- Description: Regulator_Linear : XC6220B331MR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-XC6220B331MR](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-XC6220B331MR)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARXC622B331MR](http://oom.lt/SZKREGULATORLINEARXC622B331MR)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|XC6220B331MR|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-XC6220B331MR|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARXC622B331MR|
-|name|name|XC6220B331MR|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'XC6220B331MR', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-5', 'kicadSymbolDatasheet': 'https://www.torexsemi.com/file/xc6220/XC6220.pdf', 'kicadSymbolki_keywords': 'LDO Voltage Regulator 1A', 'kicadSymbolki_description': '1A, Low Drop-out Voltage Regulator, Fixed Output 3.3V, SOT-23-5', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
+|name|name|Regulator_Linear : XC6220B331MR|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'XC6220B331MR'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-23-5'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.torexsemi.com/file/xc6220/XC6220.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'LDO Voltage Regulator 1A'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '1A</td><td> Low Drop-out Voltage Regulator</td><td> Fixed Output 3.3V</td><td> SOT-23-5'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23*'</td></tr></table>]|
 ||||

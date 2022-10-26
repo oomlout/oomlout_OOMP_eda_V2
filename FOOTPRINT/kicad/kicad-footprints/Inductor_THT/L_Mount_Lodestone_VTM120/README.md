@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Mount_Lodestone_VTM120|
 |Hex ID (short code)|hexID|FZKINLMOUNTLODESTONEVTM12|
 |name|name|Inductor_THT : L_Mount_Lodestone_VTM120|
-|Footprint Kicad|footprintKicadDetails|{'name': 'L_Mount_Lodestone_VTM120', 'description': 'Lodestone Pacific, 30.48mm diameter vertical toroid mount, 16AWG/1.27mm holes, http://www.lodestonepacific.com/CatKpdf/VTM_Series.pdf', 'tags': 'vertical inductor toroid mount', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Mount_Lodestone_VTM120.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'L_Mount_Lodestone_VTM120'</td><td> 'description'</td></tr><tr><td> 'Lodestone Pacific</td><td> 30.48mm diameter vertical toroid mount</td><td> 16AWG/1.27mm holes</td><td> http</td></tr><tr><td>//www.lodestonepacific.com/CatKpdf/VTM_Series.pdf'</td><td> 'tags'</td></tr><tr><td> 'vertical inductor toroid mount'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Inductor_THT.3dshapes/L_Mount_Lodestone_VTM120.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

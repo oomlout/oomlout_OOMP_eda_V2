@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDIODEMBR745 > MBR745
+# SZKDIODEMBR745 > Diode : MBR745
 
 - ID: SYMBOL-kicad-kicad-symbols-Diode-MBR745
 - Hex ID: SZKDIODEMBR745
-- Name: MBR745
-- Description: MBR745
+- Name: Diode : MBR745
+- Description: Diode : MBR745
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-MBR745](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-MBR745)
 - Short Link: [http://oom.lt/SZKDIODEMBR745](http://oom.lt/SZKDIODEMBR745)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MBR745|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-MBR745|
 |Hex ID (short code)|hexID|SZKDIODEMBR745|
-|name|name|MBR745|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MBR735', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'MBR745', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-220-2_Vertical', 'kicadSymbolDatasheet': 'http://www.onsemi.com/pub_link/Collateral/MBR735-D.PDF', 'kicadSymbolki_keywords': 'diode Schottky', 'kicadSymbolki_description': '45V 7.5A Schottky Barrier Rectifier Diode, TO-220', 'kicadSymbolki_fp_filters': 'TO?220*'}]|
+|name|name|Diode : MBR745|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'MBR735'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MBR745'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_THT</td></tr><tr><td>TO-220-2_Vertical'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.onsemi.com/pub_link/Collateral/MBR735-D.PDF'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'diode Schottky'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '45V 7.5A Schottky Barrier Rectifier Diode</td><td> TO-220'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TO?220*'</td></tr></table>]|
 ||||

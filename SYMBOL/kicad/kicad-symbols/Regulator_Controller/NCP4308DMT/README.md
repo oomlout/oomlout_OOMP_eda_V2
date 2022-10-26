@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORCONTROLLERNCP438DMT > NCP4308DMT
+# SZKREGULATORCONTROLLERNCP438DMT > Regulator_Controller : NCP4308DMT
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Controller-NCP4308DMT
 - Hex ID: SZKREGULATORCONTROLLERNCP438DMT
-- Name: NCP4308DMT
-- Description: NCP4308DMT
+- Name: Regulator_Controller : NCP4308DMT
+- Description: Regulator_Controller : NCP4308DMT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-NCP4308DMT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-NCP4308DMT)
 - Short Link: [http://oom.lt/SZKREGULATORCONTROLLERNCP438DMT](http://oom.lt/SZKREGULATORCONTROLLERNCP438DMT)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|NCP4308DMT|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Controller-NCP4308DMT|
 |Hex ID (short code)|hexID|SZKREGULATORCONTROLLERNCP438DMT|
-|name|name|NCP4308DMT|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'NCP4308AMT', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'NCP4308DMT', 'kicadSymbolFootprint': 'Package_DFN_QFN:OnSemi_DFN-8_2x2mm_P0.5mm', 'kicadSymbolDatasheet': 'http://www.onsemi.com/pub/Collateral/NCP4308-D.PDF', 'kicadSymbolki_keywords': 'synchronous rectifier controller', 'kicadSymbolki_description': 'Synchronous Rectifier Controller, 4A/8A, 4V UVLO, WDFN-8', 'kicadSymbolki_fp_filters': 'OnSemi*DFN*2x2mm*P0.5mm*'}]|
+|name|name|Regulator_Controller : NCP4308DMT|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'NCP4308AMT'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'NCP4308DMT'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>OnSemi_DFN-8_2x2mm_P0.5mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.onsemi.com/pub/Collateral/NCP4308-D.PDF'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'synchronous rectifier controller'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Synchronous Rectifier Controller</td><td> 4A/8A</td><td> 4V UVLO</td><td> WDFN-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'OnSemi*DFN*2x2mm*P0.5mm*'</td></tr></table>]|
 ||||

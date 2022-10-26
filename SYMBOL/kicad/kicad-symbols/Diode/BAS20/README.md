@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDIODEBAS2 > BAS20
+# SZKDIODEBAS2 > Diode : BAS20
 
 - ID: SYMBOL-kicad-kicad-symbols-Diode-BAS20
 - Hex ID: SZKDIODEBAS2
-- Name: BAS20
-- Description: BAS20
+- Name: Diode : BAS20
+- Description: Diode : BAS20
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BAS20](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BAS20)
 - Short Link: [http://oom.lt/SZKDIODEBAS2](http://oom.lt/SZKDIODEBAS2)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BAS20|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-BAS20|
 |Hex ID (short code)|hexID|SZKDIODEBAS2|
-|name|name|BAS20|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BAS16W', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'BAS20', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23', 'kicadSymbolDatasheet': 'https://www.diodes.com/assets/Datasheets/Ds12004.pdf', 'kicadSymbolki_keywords': 'diode', 'kicadSymbolki_description': '200V, 0.4A, High-speed Switching Diode, SOT-23', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
+|name|name|Diode : BAS20|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'BAS16W'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'BAS20'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-23'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.diodes.com/assets/Datasheets/Ds12004.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'diode'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '200V</td><td> 0.4A</td><td> High-speed Switching Diode</td><td> SOT-23'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23*'</td></tr></table>]|
 ||||

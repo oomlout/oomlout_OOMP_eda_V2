@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDICHARACTERCA5612EWA > CA56-12EWA
+# SZKDICHARACTERCA5612EWA > Display_Character : CA56-12EWA
 
 - ID: SYMBOL-kicad-kicad-symbols-Display_Character-CA56-12EWA
 - Hex ID: SZKDICHARACTERCA5612EWA
-- Name: CA56-12EWA
-- Description: CA56-12EWA
+- Name: Display_Character : CA56-12EWA
+- Description: Display_Character : CA56-12EWA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-CA56-12EWA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-CA56-12EWA)
 - Short Link: [http://oom.lt/SZKDICHARACTERCA5612EWA](http://oom.lt/SZKDICHARACTERCA5612EWA)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|CA56-12EWA|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Display_Character-CA56-12EWA|
 |Hex ID (short code)|hexID|SZKDICHARACTERCA5612EWA|
-|name|name|CA56-12EWA|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'CA56-12EWA', 'kicadSymbolFootprint': 'Display_7Segment:CA56-12EWA', 'kicadSymbolDatasheet': 'http://www.kingbrightusa.com/images/catalog/SPEC/CA56-12EWA.pdf', 'kicadSymbolki_keywords': 'display LED 7-segment', 'kicadSymbolki_description': '4 digit 7 segment high efficiency red LED, common anode', 'kicadSymbolki_fp_filters': '*CA56*12EWA*'}]|
+|name|name|Display_Character : CA56-12EWA|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'CA56-12EWA'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Display_7Segment</td></tr><tr><td>CA56-12EWA'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.kingbrightusa.com/images/catalog/SPEC/CA56-12EWA.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'display LED 7-segment'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '4 digit 7 segment high efficiency red LED</td><td> common anode'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> '*CA56*12EWA*'</td></tr></table>]|
 ||||

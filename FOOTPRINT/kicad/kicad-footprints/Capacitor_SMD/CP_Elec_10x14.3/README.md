@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-CP_Elec_10x14.3|
 |Hex ID (short code)|hexID|FZKCAPACITORSMCPELEC1X143|
 |name|name|Capacitor_SMD : CP_Elec_10x14.3|
-|Footprint Kicad|footprintKicadDetails|{'name': 'CP_Elec_10x14.3', 'description': 'SMD capacitor, aluminum electrolytic, Vishay 1014, 10.0x14.3mm, http://www.vishay.com/docs/28395/150crz.pdf', 'tags': 'capacitor electrolytic', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/CP_Elec_10x14.3.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'CP_Elec_10x14.3'</td><td> 'description'</td></tr><tr><td> 'SMD capacitor</td><td> aluminum electrolytic</td><td> Vishay 1014</td><td> 10.0x14.3mm</td><td> http</td></tr><tr><td>//www.vishay.com/docs/28395/150crz.pdf'</td><td> 'tags'</td></tr><tr><td> 'capacitor electrolytic'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Capacitor_SMD.3dshapes/CP_Elec_10x14.3.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

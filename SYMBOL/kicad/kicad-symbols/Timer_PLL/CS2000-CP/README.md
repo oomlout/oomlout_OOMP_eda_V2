@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTIMERPLLCS2CP > CS2000-CP
+# SZKTIMERPLLCS2CP > Timer_PLL : CS2000-CP
 
 - ID: SYMBOL-kicad-kicad-symbols-Timer_PLL-CS2000-CP
 - Hex ID: SZKTIMERPLLCS2CP
-- Name: CS2000-CP
-- Description: CS2000-CP
+- Name: Timer_PLL : CS2000-CP
+- Description: Timer_PLL : CS2000-CP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer_PLL-CS2000-CP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer_PLL-CS2000-CP)
 - Short Link: [http://oom.lt/SZKTIMERPLLCS2CP](http://oom.lt/SZKTIMERPLLCS2CP)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|CS2000-CP|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Timer_PLL-CS2000-CP|
 |Hex ID (short code)|hexID|SZKTIMERPLLCS2CP|
-|name|name|CS2000-CP|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'CS2000-CP', 'kicadSymbolFootprint': 'Package_SO:MSOP-10_3x3mm_P0.5mm', 'kicadSymbolDatasheet': 'https://statics.cirrus.com/pubs/proDatasheet/CS2000-CP_F3.pdf', 'kicadSymbolki_keywords': 'Clock Synthesizer Multiplier', 'kicadSymbolki_description': 'Fractional-N Clock Synthesizer & Clock Multiplier, MSOP-10', 'kicadSymbolki_fp_filters': 'MSOP*3x3mm*P0.5mm*'}]|
+|name|name|Timer_PLL : CS2000-CP|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'CS2000-CP'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>MSOP-10_3x3mm_P0.5mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//statics.cirrus.com/pubs/proDatasheet/CS2000-CP_F3.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Clock Synthesizer Multiplier'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Fractional-N Clock Synthesizer & Clock Multiplier</td><td> MSOP-10'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'MSOP*3x3mm*P0.5mm*'</td></tr></table>]|
 ||||

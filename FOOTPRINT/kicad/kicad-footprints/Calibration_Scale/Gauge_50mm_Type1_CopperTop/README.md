@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Calibration_Scale-Gauge_50mm_Type1_CopperTop|
 |Hex ID (short code)|hexID|FZKCSGAUGE5TYPE1CTOP|
 |name|name|Calibration_Scale : Gauge_50mm_Type1_CopperTop|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Gauge_50mm_Type1_CopperTop', 'description': 'Gauge, Massstab, 50mm, CopperTop, Type 1,', 'tags': 'Gauge Massstab 50mm CopperTop Type 1', 'attributeType': None, 'pins': {}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Gauge_50mm_Type1_CopperTop'</td><td> 'description'</td></tr><tr><td> 'Gauge</td><td> Massstab</td><td> 50mm</td><td> CopperTop</td><td> Type 1</td><td>'</td><td> 'tags'</td></tr><tr><td> 'Gauge Massstab 50mm CopperTop Type 1'</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td></td></tr></table></td></tr></table>|
 ||||
 
 

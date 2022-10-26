@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_BGA-BGA-25_6.35x6.35mm_Layout5x5_P1.27mm|
 |Hex ID (short code)|hexID|FZKBGABGA25635X635LAYOUT5X5P127|
 |name|name|Package_BGA : BGA-25_6.35x6.35mm_Layout5x5_P1.27mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'BGA-25_6.35x6.35mm_Layout5x5_P1.27mm', 'description': 'BGA-25, http://cds.linear.com/docs/en/datasheet/4624fc.pdf', 'tags': 'BGA-25 uModule', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/BGA-25_6.35x6.35mm_Layout5x5_P1.27mm.wrl', 'pins': {'type': 'smd', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'BGA-25_6.35x6.35mm_Layout5x5_P1.27mm'</td><td> 'description'</td></tr><tr><td> 'BGA-25</td><td> http</td></tr><tr><td>//cds.linear.com/docs/en/datasheet/4624fc.pdf'</td><td> 'tags'</td></tr><tr><td> 'BGA-25 uModule'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_BGA.3dshapes/BGA-25_6.35x6.35mm_Layout5x5_P1.27mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

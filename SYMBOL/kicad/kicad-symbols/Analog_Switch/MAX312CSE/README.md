@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKANALOGSWITCHMAX312CSE > MAX312CSE
+# SZKANALOGSWITCHMAX312CSE > Analog_Switch : MAX312CSE
 
 - ID: SYMBOL-kicad-kicad-symbols-Analog_Switch-MAX312CSE
 - Hex ID: SZKANALOGSWITCHMAX312CSE
-- Name: MAX312CSE
-- Description: MAX312CSE
+- Name: Analog_Switch : MAX312CSE
+- Description: Analog_Switch : MAX312CSE
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-MAX312CSE](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-MAX312CSE)
 - Short Link: [http://oom.lt/SZKANALOGSWITCHMAX312CSE](http://oom.lt/SZKANALOGSWITCHMAX312CSE)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MAX312CSE|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_Switch-MAX312CSE|
 |Hex ID (short code)|hexID|SZKANALOGSWITCHMAX312CSE|
-|name|name|MAX312CSE|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'DG411xY', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MAX312CSE', 'kicadSymbolFootprint': 'Package_SO:SOIC-16_3.9x9.9mm_P1.27mm', 'kicadSymbolDatasheet': 'https://datasheets.maximintegrated.com/en/ds/MAX312-MAX314.pdf', 'kicadSymbolki_keywords': 'CMOS Analog Switch', 'kicadSymbolki_description': 'Quad SPST CMOS Analog Switches, normally ON, 6.5Ohm Ron, SOIC-16', 'kicadSymbolki_fp_filters': 'SOIC*3.9x9.9mm*P1.27mm*'}]|
+|name|name|Analog_Switch : MAX312CSE|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'DG411xY'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MAX312CSE'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-16_3.9x9.9mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//datasheets.maximintegrated.com/en/ds/MAX312-MAX314.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'CMOS Analog Switch'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Quad SPST CMOS Analog Switches</td><td> normally ON</td><td> 6.5Ohm Ron</td><td> SOIC-16'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*3.9x9.9mm*P1.27mm*'</td></tr></table>]|
 ||||

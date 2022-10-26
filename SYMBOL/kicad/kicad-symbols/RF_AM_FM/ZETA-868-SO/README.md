@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKRFAMFMZETA868SO > ZETA-868-SO
+# SZKRFAMFMZETA868SO > RF_AM_FM : ZETA-868-SO
 
 - ID: SYMBOL-kicad-kicad-symbols-RF_AM_FM-ZETA-868-SO
 - Hex ID: SZKRFAMFMZETA868SO
-- Name: ZETA-868-SO
-- Description: ZETA-868-SO
+- Name: RF_AM_FM : ZETA-868-SO
+- Description: RF_AM_FM : ZETA-868-SO
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_AM_FM-ZETA-868-SO](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_AM_FM-ZETA-868-SO)
 - Short Link: [http://oom.lt/SZKRFAMFMZETA868SO](http://oom.lt/SZKRFAMFMZETA868SO)
   
@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|ZETA-868-SO|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-RF_AM_FM-ZETA-868-SO|
 |Hex ID (short code)|hexID|SZKRFAMFMZETA868SO|
-|name|name|ZETA-868-SO|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ZETA-433-SO', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ZETA-868-SO', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.rfsolutions.co.uk/downloads/1456219226DS-ZETA.pdf', 'kicadSymbolki_keywords': 'RF TRANSCEIVER MODULE', 'kicadSymbolki_description': 'FM ZETA TRANSCEIVER MODULE, OPTIMISED FOR 868MHZ', 'kicadSymbolki_fp_filters': 'ZETA?433?SO?SMD* ZETA?433?SO?THT*'}]|
+|name|name|RF_AM_FM : ZETA-868-SO|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'ZETA-433-SO'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ZETA-868-SO'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.rfsolutions.co.uk/downloads/1456219226DS-ZETA.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'RF TRANSCEIVER MODULE'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'FM ZETA TRANSCEIVER MODULE</td><td> OPTIMISED FOR 868MHZ'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'ZETA?433?SO?SMD* ZETA?433?SO?THT*'</td></tr></table>]|
 ||||

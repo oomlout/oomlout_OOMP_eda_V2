@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKCPLDXILINXXC9536PC44 > XC9536PC44
+# SZKCPLDXILINXXC9536PC44 > CPLD_Xilinx : XC9536PC44
 
 - ID: SYMBOL-kicad-kicad-symbols-CPLD_Xilinx-XC9536PC44
 - Hex ID: SZKCPLDXILINXXC9536PC44
-- Name: XC9536PC44
-- Description: XC9536PC44
+- Name: CPLD_Xilinx : XC9536PC44
+- Description: CPLD_Xilinx : XC9536PC44
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-CPLD_Xilinx-XC9536PC44](http://oom.lt/SYMBOL-kicad-kicad-symbols-CPLD_Xilinx-XC9536PC44)
 - Short Link: [http://oom.lt/SZKCPLDXILINXXC9536PC44](http://oom.lt/SZKCPLDXILINXXC9536PC44)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|XC9536PC44|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-CPLD_Xilinx-XC9536PC44|
 |Hex ID (short code)|hexID|SZKCPLDXILINXXC9536PC44|
-|name|name|XC9536PC44|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'XC9536PC44', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'xilinx/xc9536.pdf', 'kicadSymbolki_description': 'Xilinx CPLD, Obsolete'}]|
+|name|name|CPLD_Xilinx : XC9536PC44|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'XC9536PC44'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'xilinx/xc9536.pdf'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Xilinx CPLD</td><td> Obsolete'</td></tr></table>]|
 ||||

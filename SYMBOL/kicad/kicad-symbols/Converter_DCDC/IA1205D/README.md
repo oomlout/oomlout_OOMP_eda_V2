@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKCONIA125D > IA1205D
+# SZKCONIA125D > Converter_DCDC : IA1205D
 
 - ID: SYMBOL-kicad-kicad-symbols-Converter_DCDC-IA1205D
 - Hex ID: SZKCONIA125D
-- Name: IA1205D
-- Description: IA1205D
+- Name: Converter_DCDC : IA1205D
+- Description: Converter_DCDC : IA1205D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-IA1205D](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-IA1205D)
 - Short Link: [http://oom.lt/SZKCONIA125D](http://oom.lt/SZKCONIA125D)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IA1205D|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Converter_DCDC-IA1205D|
 |Hex ID (short code)|hexID|SZKCONIA125D|
-|name|name|IA1205D|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'IA0305D', 'kicadSymbolReference': 'PS', 'kicadSymbolValue': 'IA1205D', 'kicadSymbolFootprint': 'Converter_DCDC:Converter_DCDC_XP_POWER-IAxxxxD_THT', 'kicadSymbolDatasheet': 'https://www.xppower.com/pdfs/SF_IA.pdf', 'kicadSymbolki_keywords': 'XP_POWER DC/DC isolated Converter module', 'kicadSymbolki_description': 'XP Power 1W, 1000 VDC Isolated DC/DC Converter Module, Dual Output Voltage ±5V, ±100mA, 12V Input Voltage, DIP', 'kicadSymbolki_fp_filters': '*XP?POWER?IAxxxxD*'}]|
+|name|name|Converter_DCDC : IA1205D|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'IA0305D'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'PS'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'IA1205D'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Converter_DCDC</td></tr><tr><td>Converter_DCDC_XP_POWER-IAxxxxD_THT'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.xppower.com/pdfs/SF_IA.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'XP_POWER DC/DC isolated Converter module'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'XP Power 1W</td><td> 1000 VDC Isolated DC/DC Converter Module</td><td> Dual Output Voltage ±5V</td><td> ±100mA</td><td> 12V Input Voltage</td><td> DIP'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> '*XP?POWER?IAxxxxD*'</td></tr></table>]|
 ||||

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_Powermite_AK|
 |Hex ID (short code)|hexID|FZKDIODESMDPOWERMITEAK|
 |name|name|Diode_SMD : D_Powermite_AK|
-|Footprint Kicad|footprintKicadDetails|{'name': 'D_Powermite_AK', 'description': 'Microsemi Powermite SMD power package (https://www.microsemi.com/packaging-information/partpackage/details?pid=5339, https://www.onsemi.com/pub/Collateral/457-04.PDF)', 'tags': 'Powermite', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_Powermite_AK.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'D_Powermite_AK'</td><td> 'description'</td></tr><tr><td> 'Microsemi Powermite SMD power package (https</td></tr><tr><td>//www.microsemi.com/packaging-information/partpackage/details?pid=5339</td><td> https</td></tr><tr><td>//www.onsemi.com/pub/Collateral/457-04.PDF)'</td><td> 'tags'</td></tr><tr><td> 'Powermite'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Diode_SMD.3dshapes/D_Powermite_AK.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

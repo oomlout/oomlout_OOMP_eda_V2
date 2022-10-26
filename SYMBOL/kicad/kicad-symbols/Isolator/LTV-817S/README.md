@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKISOLATORLTV817S > LTV-817S
+# SZKISOLATORLTV817S > Isolator : LTV-817S
 
 - ID: SYMBOL-kicad-kicad-symbols-Isolator-LTV-817S
 - Hex ID: SZKISOLATORLTV817S
-- Name: LTV-817S
-- Description: LTV-817S
+- Name: Isolator : LTV-817S
+- Description: Isolator : LTV-817S
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-LTV-817S](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-LTV-817S)
 - Short Link: [http://oom.lt/SZKISOLATORLTV817S](http://oom.lt/SZKISOLATORLTV817S)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LTV-817S|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Isolator-LTV-817S|
 |Hex ID (short code)|hexID|SZKISOLATORLTV817S|
-|name|name|LTV-817S|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LTV-817S', 'kicadSymbolFootprint': 'Package_DIP:SMDIP-4_W9.53mm', 'kicadSymbolDatasheet': 'http://www.us.liteon.com/downloads/LTV-817-827-847.PDF', 'kicadSymbolki_keywords': 'NPN DC Optocoupler', 'kicadSymbolki_description': 'DC Optocoupler, Vce 35V, CTR 50%, SMDIP-4', 'kicadSymbolki_fp_filters': 'SMDIP*W9.53mm*'}]|
+|name|name|Isolator : LTV-817S|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LTV-817S'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>SMDIP-4_W9.53mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.us.liteon.com/downloads/LTV-817-827-847.PDF'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'NPN DC Optocoupler'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'DC Optocoupler</td><td> Vce 35V</td><td> CTR 50%</td><td> SMDIP-4'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SMDIP*W9.53mm*'</td></tr></table>]|
 ||||

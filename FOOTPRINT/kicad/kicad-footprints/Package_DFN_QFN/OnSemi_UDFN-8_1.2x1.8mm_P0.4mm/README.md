@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-OnSemi_UDFN-8_1.2x1.8mm_P0.4mm|
 |Hex ID (short code)|hexID|FZKDFNONSEMIUDFN812X18P4|
 |name|name|Package_DFN_QFN : OnSemi_UDFN-8_1.2x1.8mm_P0.4mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'OnSemi_UDFN-8_1.2x1.8mm_P0.4mm', 'description': '8-Lead Plastic Dual Flat, No Lead Package, 1.2x1.8x1.55 mm Body [UDFN] (See http://www.onsemi.com/pub/Collateral/NLSV2T244-D.PDF)', 'tags': 'dfn udfn dual flat', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/OnSemi_UDFN-8_1.2x1.8mm_P0.4mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'OnSemi_UDFN-8_1.2x1.8mm_P0.4mm'</td><td> 'description'</td></tr><tr><td> '8-Lead Plastic Dual Flat</td><td> No Lead Package</td><td> 1.2x1.8x1.55 mm Body [UDFN] (See http</td></tr><tr><td>//www.onsemi.com/pub/Collateral/NLSV2T244-D.PDF)'</td><td> 'tags'</td></tr><tr><td> 'dfn udfn dual flat'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DFN_QFN.3dshapes/OnSemi_UDFN-8_1.2x1.8mm_P0.4mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

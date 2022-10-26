@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_6.35mm_Neutrik_NMJ4HFD3_Horizontal|
 |Hex ID (short code)|hexID|FZKCNAUDIOJ635NEUTRIKNMJ4HFD3HORIZONTAL|
 |name|name|Connector_Audio : Jack_6.35mm_Neutrik_NMJ4HFD3_Horizontal|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Jack_6.35mm_Neutrik_NMJ4HFD3_Horizontal', 'description': 'M Series, 6.35mm (1/4in) mono jack, switched, with a full threaded nose and offset PCB pins, https://www.neutrik.com/en/product/nmj4hfd3', 'tags': 'neutrik jack m', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_Audio.3dshapes/Jack_6.35mm_Neutrik_NMJ4HFD3_Horizontal.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Jack_6.35mm_Neutrik_NMJ4HFD3_Horizontal'</td><td> 'description'</td></tr><tr><td> 'M Series</td><td> 6.35mm (1/4in) mono jack</td><td> switched</td><td> with a full threaded nose and offset PCB pins</td><td> https</td></tr><tr><td>//www.neutrik.com/en/product/nmj4hfd3'</td><td> 'tags'</td></tr><tr><td> 'neutrik jack m'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_Audio.3dshapes/Jack_6.35mm_Neutrik_NMJ4HFD3_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

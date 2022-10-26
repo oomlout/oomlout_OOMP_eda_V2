@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SO-SOP-24_7.5x15.4mm_P1.27mm|
 |Hex ID (short code)|hexID|FZKSOS2475X154P127|
 |name|name|Package_SO : SOP-24_7.5x15.4mm_P1.27mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'SOP-24_7.5x15.4mm_P1.27mm', 'description': 'SOP, 24 Pin (http://www.issi.com/WW/pdf/31FL3218.pdf#page=14), generated with kicad-footprint-generator ipc_gullwing_generator.py', 'tags': 'SOP SO', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/SOP-24_7.5x15.4mm_P1.27mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SOP-24_7.5x15.4mm_P1.27mm'</td><td> 'description'</td></tr><tr><td> 'SOP</td><td> 24 Pin (http</td></tr><tr><td>//www.issi.com/WW/pdf/31FL3218.pdf#page=14)</td><td> generated with kicad-footprint-generator ipc_gullwing_generator.py'</td><td> 'tags'</td></tr><tr><td> 'SOP SO'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_SO.3dshapes/SOP-24_7.5x15.4mm_P1.27mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

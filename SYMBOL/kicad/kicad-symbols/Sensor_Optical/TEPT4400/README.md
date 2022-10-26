@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKSENOPTICALTEPT44 > TEPT4400
+# SZKSENOPTICALTEPT44 > Sensor_Optical : TEPT4400
 
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Optical-TEPT4400
 - Hex ID: SZKSENOPTICALTEPT44
-- Name: TEPT4400
-- Description: TEPT4400
+- Name: Sensor_Optical : TEPT4400
+- Description: Sensor_Optical : TEPT4400
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-TEPT4400](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-TEPT4400)
 - Short Link: [http://oom.lt/SZKSENOPTICALTEPT44](http://oom.lt/SZKSENOPTICALTEPT44)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TEPT4400|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Optical-TEPT4400|
 |Hex ID (short code)|hexID|SZKSENOPTICALTEPT44|
-|name|name|TEPT4400|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'SFH309', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'TEPT4400', 'kicadSymbolFootprint': 'LED_THT:LED_D3.0mm_Clear', 'kicadSymbolDatasheet': 'https://www.vishay.com/docs/81341/tept4400.pdf', 'kicadSymbolki_keywords': 'npn phototransistor ambient light sensor', 'kicadSymbolki_description': 'Ambient Light Sensor, NPN Epitaxial Planar Phototransistor, T-1', 'kicadSymbolki_fp_filters': 'LED*3.0mm*Clear*'}]|
+|name|name|Sensor_Optical : TEPT4400|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'SFH309'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TEPT4400'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'LED_THT</td></tr><tr><td>LED_D3.0mm_Clear'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.vishay.com/docs/81341/tept4400.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'npn phototransistor ambient light sensor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Ambient Light Sensor</td><td> NPN Epitaxial Planar Phototransistor</td><td> T-1'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'LED*3.0mm*Clear*'</td></tr></table>]|
 ||||

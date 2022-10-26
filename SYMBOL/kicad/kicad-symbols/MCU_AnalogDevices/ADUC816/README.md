@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUANALOGDEVICESADUC816 > ADUC816
+# SZKMCUANALOGDEVICESADUC816 > MCU_AnalogDevices : ADUC816
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_AnalogDevices-ADUC816
 - Hex ID: SZKMCUANALOGDEVICESADUC816
-- Name: ADUC816
-- Description: ADUC816
+- Name: MCU_AnalogDevices : ADUC816
+- Description: MCU_AnalogDevices : ADUC816
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_AnalogDevices-ADUC816](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_AnalogDevices-ADUC816)
 - Short Link: [http://oom.lt/SZKMCUANALOGDEVICESADUC816](http://oom.lt/SZKMCUANALOGDEVICESADUC816)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ADUC816|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_AnalogDevices-ADUC816|
 |Hex ID (short code)|hexID|SZKMCUANALOGDEVICESADUC816|
-|name|name|ADUC816|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ADUC816', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.analog.com/static/imported-files/data_sheets/ADUC816.pdf', 'kicadSymbolki_keywords': '8051 CORE MCU ADC DAC', 'kicadSymbolki_description': '8KB Flash, 256B SRAM, 640B EEPROM, 16-bit ADC, 12-bit DAC, MQFP-52', 'kicadSymbolki_fp_filters': 'MQFP*'}]|
+|name|name|MCU_AnalogDevices : ADUC816|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ADUC816'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/static/imported-files/data_sheets/ADUC816.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> '8051 CORE MCU ADC DAC'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '8KB Flash</td><td> 256B SRAM</td><td> 640B EEPROM</td><td> 16-bit ADC</td><td> 12-bit DAC</td><td> MQFP-52'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'MQFP*'</td></tr></table>]|
 ||||

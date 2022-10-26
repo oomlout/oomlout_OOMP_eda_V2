@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKPOWERMANAGEMENTCAP3DG > CAP300DG
+# SZKPOWERMANAGEMENTCAP3DG > Power_Management : CAP300DG
 
 - ID: SYMBOL-kicad-kicad-symbols-Power_Management-CAP300DG
 - Hex ID: SZKPOWERMANAGEMENTCAP3DG
-- Name: CAP300DG
-- Description: CAP300DG
+- Name: Power_Management : CAP300DG
+- Description: Power_Management : CAP300DG
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-CAP300DG](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-CAP300DG)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTCAP3DG](http://oom.lt/SZKPOWERMANAGEMENTCAP3DG)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|CAP300DG|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Management-CAP300DG|
 |Hex ID (short code)|hexID|SZKPOWERMANAGEMENTCAP3DG|
-|name|name|CAP300DG|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'CAP002DG', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'CAP300DG', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm', 'kicadSymbolDatasheet': 'https://ac-dc.power.com/sites/default/files/product_document/data_sheet/capzero-3_family_datasheet.pdf', 'kicadSymbolki_keywords': 'Automatic Capacitor Discarger', 'kicadSymbolki_description': 'CapZero Zero Loss Automatic Capacitor Discharge IC, 1000V, 100nF-6uF, >=54kOhm, SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm*'}]|
+|name|name|Power_Management : CAP300DG|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'CAP002DG'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'CAP300DG'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-8_3.9x4.9mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//ac-dc.power.com/sites/default/files/product_document/data_sheet/capzero-3_family_datasheet.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Automatic Capacitor Discarger'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'CapZero Zero Loss Automatic Capacitor Discharge IC</td><td> 1000V</td><td> 100nF-6uF</td><td> >=54kOhm</td><td> SOIC-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*3.9x4.9mm*P1.27mm*'</td></tr></table>]|
 ||||

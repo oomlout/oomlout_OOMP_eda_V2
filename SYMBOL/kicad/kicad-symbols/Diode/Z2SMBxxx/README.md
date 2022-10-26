@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDIODEZ2SMBXXX > Z2SMBxxx
+# SZKDIODEZ2SMBXXX > Diode : Z2SMBxxx
 
 - ID: SYMBOL-kicad-kicad-symbols-Diode-Z2SMBxxx
 - Hex ID: SZKDIODEZ2SMBXXX
-- Name: Z2SMBxxx
-- Description: Z2SMBxxx
+- Name: Diode : Z2SMBxxx
+- Description: Diode : Z2SMBxxx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-Z2SMBxxx](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-Z2SMBxxx)
 - Short Link: [http://oom.lt/SZKDIODEZ2SMBXXX](http://oom.lt/SZKDIODEZ2SMBXXX)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Z2SMBxxx|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-Z2SMBxxx|
 |Hex ID (short code)|hexID|SZKDIODEZ2SMBXXX|
-|name|name|Z2SMBxxx|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ZPYxx', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'Z2SMBxxx', 'kicadSymbolFootprint': 'Diode_SMD:D_SMB', 'kicadSymbolDatasheet': 'https://diotec.com/tl_files/diotec/files/pdf/datasheets/z2smb1.pdf', 'kicadSymbolki_keywords': 'zener diode', 'kicadSymbolki_description': '2000mW Zener Diode, SMB(DO-214AA)', 'kicadSymbolki_fp_filters': 'D?SMB*'}]|
+|name|name|Diode : Z2SMBxxx|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'ZPYxx'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Z2SMBxxx'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Diode_SMD</td></tr><tr><td>D_SMB'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//diotec.com/tl_files/diotec/files/pdf/datasheets/z2smb1.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'zener diode'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '2000mW Zener Diode</td><td> SMB(DO-214AA)'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'D?SMB*'</td></tr></table>]|
 ||||

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-CP_Elec_8x10|
 |Hex ID (short code)|hexID|FZKCAPACITORSMCPELEC8X1|
 |name|name|Capacitor_SMD : CP_Elec_8x10|
-|Footprint Kicad|footprintKicadDetails|{'name': 'CP_Elec_8x10', 'description': 'SMD capacitor, aluminum electrolytic, Nichicon, 8.0x10mm', 'tags': 'capacitor electrolytic', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/CP_Elec_8x10.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'CP_Elec_8x10'</td><td> 'description'</td></tr><tr><td> 'SMD capacitor</td><td> aluminum electrolytic</td><td> Nichicon</td><td> 8.0x10mm'</td><td> 'tags'</td></tr><tr><td> 'capacitor electrolytic'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Capacitor_SMD.3dshapes/CP_Elec_8x10.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

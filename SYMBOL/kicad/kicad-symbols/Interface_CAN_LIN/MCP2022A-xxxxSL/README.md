@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKINTERFACECANLINMCP222AXXXXSL > MCP2022A-xxxxSL
+# SZKINTERFACECANLINMCP222AXXXXSL > Interface_CAN_LIN : MCP2022A-xxxxSL
 
 - ID: SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-MCP2022A-xxxxSL
 - Hex ID: SZKINTERFACECANLINMCP222AXXXXSL
-- Name: MCP2022A-xxxxSL
-- Description: MCP2022A-xxxxSL
+- Name: Interface_CAN_LIN : MCP2022A-xxxxSL
+- Description: Interface_CAN_LIN : MCP2022A-xxxxSL
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-MCP2022A-xxxxSL](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-MCP2022A-xxxxSL)
 - Short Link: [http://oom.lt/SZKINTERFACECANLINMCP222AXXXXSL](http://oom.lt/SZKINTERFACECANLINMCP222AXXXXSL)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MCP2022A-xxxxSL|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-MCP2022A-xxxxSL|
 |Hex ID (short code)|hexID|SZKINTERFACECANLINMCP222AXXXXSL|
-|name|name|MCP2022A-xxxxSL|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MCP2022A-xxxxSL', 'kicadSymbolFootprint': 'Package_SO:SOIC-14_3.9x8.7mm_P1.27mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/20002298C.pdf', 'kicadSymbolki_keywords': 'LIN Transceiver regulator', 'kicadSymbolki_description': 'LIN Transceiver with Voltage Regulator, 3.3V/5V, SOIC-14', 'kicadSymbolki_fp_filters': 'SOIC*3.9x8.7mm*P1.27mm*'}]|
+|name|name|Interface_CAN_LIN : MCP2022A-xxxxSL|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MCP2022A-xxxxSL'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-14_3.9x8.7mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/20002298C.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'LIN Transceiver regulator'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'LIN Transceiver with Voltage Regulator</td><td> 3.3V/5V</td><td> SOIC-14'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*3.9x8.7mm*P1.27mm*'</td></tr></table>]|
 ||||

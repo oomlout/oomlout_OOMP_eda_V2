@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUMCHIPPIC16PIC16F158ISO > PIC16F1508-ISO
+# SZKMCUMCHIPPIC16PIC16F158ISO > MCU_Microchip_PIC16 : PIC16F1508-ISO
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F1508-ISO
 - Hex ID: SZKMCUMCHIPPIC16PIC16F158ISO
-- Name: PIC16F1508-ISO
-- Description: PIC16F1508-ISO
+- Name: MCU_Microchip_PIC16 : PIC16F1508-ISO
+- Description: MCU_Microchip_PIC16 : PIC16F1508-ISO
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F1508-ISO](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F1508-ISO)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC16PIC16F158ISO](http://oom.lt/SZKMCUMCHIPPIC16PIC16F158ISO)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PIC16F1508-ISO|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F1508-ISO|
 |Hex ID (short code)|hexID|SZKMCUMCHIPPIC16PIC16F158ISO|
-|name|name|PIC16F1508-ISO|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'PIC16F1508-IP', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PIC16F1508-ISO', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/41609A.pdf', 'kicadSymbolki_keywords': 'FLASH-Based 8-Bit CMOS Microcontroller XLP', 'kicadSymbolki_description': 'PIC16F1508, 4096W FLASH, 256B SRAM, SO-20', 'kicadSymbolki_fp_filters': 'DIP* PDIP* SO* SSOP*'}]|
+|name|name|MCU_Microchip_PIC16 : PIC16F1508-ISO|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'PIC16F1508-IP'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'PIC16F1508-ISO'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/41609A.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'FLASH-Based 8-Bit CMOS Microcontroller XLP'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'PIC16F1508</td><td> 4096W FLASH</td><td> 256B SRAM</td><td> SO-20'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP* PDIP* SO* SSOP*'</td></tr></table>]|
 ||||

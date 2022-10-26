@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_XP_POWER-IAxxxxD_THT|
 |Hex ID (short code)|hexID|FZKCONCONXPPOWERIAXXXXDTHT|
 |name|name|Converter_DCDC : Converter_DCDC_XP_POWER-IAxxxxD_THT|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Converter_DCDC_XP_POWER-IAxxxxD_THT', 'description': 'XP_POWER  IAxxxxD, DIP, (https://www.xppower.com/pdfs/SF_IA.pdf), generated with kicad-footprint-generator', 'tags': 'XP_POWER  IAxxxxD DIP DCDC-Converter', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Converter_DCDC.3dshapes/Converter_DCDC_XP_POWER-IAxxxxD_THT.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Converter_DCDC_XP_POWER-IAxxxxD_THT'</td><td> 'description'</td></tr><tr><td> 'XP_POWER  IAxxxxD</td><td> DIP</td><td> (https</td></tr><tr><td>//www.xppower.com/pdfs/SF_IA.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'XP_POWER  IAxxxxD DIP DCDC-Converter'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Converter_DCDC.3dshapes/Converter_DCDC_XP_POWER-IAxxxxD_THT.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

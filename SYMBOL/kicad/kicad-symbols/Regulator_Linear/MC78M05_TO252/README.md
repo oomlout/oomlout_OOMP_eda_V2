@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORLINEARMC78M5TO252 > MC78M05_TO252
+# SZKREGULATORLINEARMC78M5TO252 > Regulator_Linear : MC78M05_TO252
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-MC78M05_TO252
 - Hex ID: SZKREGULATORLINEARMC78M5TO252
-- Name: MC78M05_TO252
-- Description: MC78M05_TO252
+- Name: Regulator_Linear : MC78M05_TO252
+- Description: Regulator_Linear : MC78M05_TO252
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-MC78M05_TO252](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-MC78M05_TO252)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARMC78M5TO252](http://oom.lt/SZKREGULATORLINEARMC78M5TO252)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MC78M05_TO252|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-MC78M05_TO252|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARMC78M5TO252|
-|name|name|MC78M05_TO252|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LM78M05_TO252', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MC78M05_TO252', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TO-252-2', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pub/Collateral/MC78M00-D.PDF', 'kicadSymbolki_keywords': 'Voltage Regulator 500mA Positive', 'kicadSymbolki_description': 'Positive 500mA 35V Linear Regulator, Fixed Output 5V, TO-252 (D-PAK)', 'kicadSymbolki_fp_filters': 'TO?252*'}]|
+|name|name|Regulator_Linear : MC78M05_TO252|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'LM78M05_TO252'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MC78M05_TO252'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>TO-252-2'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.onsemi.com/pub/Collateral/MC78M00-D.PDF'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Voltage Regulator 500mA Positive'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Positive 500mA 35V Linear Regulator</td><td> Fixed Output 5V</td><td> TO-252 (D-PAK)'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TO?252*'</td></tr></table>]|
 ||||

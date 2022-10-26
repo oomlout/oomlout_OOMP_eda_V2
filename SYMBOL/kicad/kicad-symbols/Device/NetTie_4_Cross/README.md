@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDEVICENT4CROSS > NetTie_4_Cross
+# SZKDEVICENT4CROSS > Device : NetTie_4_Cross
 
 - ID: SYMBOL-kicad-kicad-symbols-Device-NetTie_4_Cross
 - Hex ID: SZKDEVICENT4CROSS
-- Name: NetTie_4_Cross
-- Description: NetTie_4_Cross
+- Name: Device : NetTie_4_Cross
+- Description: Device : NetTie_4_Cross
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-NetTie_4_Cross](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-NetTie_4_Cross)
 - Short Link: [http://oom.lt/SZKDEVICENT4CROSS](http://oom.lt/SZKDEVICENT4CROSS)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|NetTie_4_Cross|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-NetTie_4_Cross|
 |Hex ID (short code)|hexID|SZKDEVICENT4CROSS|
-|name|name|NetTie_4_Cross|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'NT', 'kicadSymbolValue': 'NetTie_4_Cross', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'net tie short', 'kicadSymbolki_description': 'Net tie, 4 pins, cross', 'kicadSymbolki_fp_filters': 'Net*Tie*'}]|
+|name|name|Device : NetTie_4_Cross|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'NT'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'NetTie_4_Cross'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'net tie short'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Net tie</td><td> 4 pins</td><td> cross'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Net*Tie*'</td></tr></table>]|
 ||||

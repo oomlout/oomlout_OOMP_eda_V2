@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Cree-PLCC6_4.7x1.5mm|
 |Hex ID (short code)|hexID|FZKLSMLCREEPLCC647X15|
 |name|name|LED_SMD : LED_Cree-PLCC6_4.7x1.5mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'LED_Cree-PLCC6_4.7x1.5mm', 'description': '4.7mm x 1.5mm PLCC6 LED, http://www.cree.com/led-components/media/documents/1381-QLS6AFKW.pdf', 'tags': 'LED Cree PLCC-6', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED_Cree-PLCC6_4.7x1.5mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'LED_Cree-PLCC6_4.7x1.5mm'</td><td> 'description'</td></tr><tr><td> '4.7mm x 1.5mm PLCC6 LED</td><td> http</td></tr><tr><td>//www.cree.com/led-components/media/documents/1381-QLS6AFKW.pdf'</td><td> 'tags'</td></tr><tr><td> 'LED Cree PLCC-6'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/LED_SMD.3dshapes/LED_Cree-PLCC6_4.7x1.5mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

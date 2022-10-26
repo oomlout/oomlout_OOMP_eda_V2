@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDIODEPMEG21ER > PMEG2010ER
+# SZKDIODEPMEG21ER > Diode : PMEG2010ER
 
 - ID: SYMBOL-kicad-kicad-symbols-Diode-PMEG2010ER
 - Hex ID: SZKDIODEPMEG21ER
-- Name: PMEG2010ER
-- Description: PMEG2010ER
+- Name: Diode : PMEG2010ER
+- Description: Diode : PMEG2010ER
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-PMEG2010ER](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-PMEG2010ER)
 - Short Link: [http://oom.lt/SZKDIODEPMEG21ER](http://oom.lt/SZKDIODEPMEG21ER)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PMEG2010ER|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-PMEG2010ER|
 |Hex ID (short code)|hexID|SZKDIODEPMEG21ER|
-|name|name|PMEG2010ER|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'PMEG40T10ER', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'PMEG2010ER', 'kicadSymbolFootprint': 'Diode_SMD:Nexperia_CFP3_SOD-123W', 'kicadSymbolDatasheet': 'https://assets.nexperia.com/documents/data-sheet/PMEG2010ER.pdf', 'kicadSymbolki_keywords': 'forward voltage diode', 'kicadSymbolki_description': '20V, 1A low Vf MEGA Schottky barrier rectifier, SOD-123W', 'kicadSymbolki_fp_filters': 'Nexperia*CFP3*SOD?123W*'}]|
+|name|name|Diode : PMEG2010ER|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'PMEG40T10ER'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'PMEG2010ER'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Diode_SMD</td></tr><tr><td>Nexperia_CFP3_SOD-123W'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//assets.nexperia.com/documents/data-sheet/PMEG2010ER.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'forward voltage diode'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '20V</td><td> 1A low Vf MEGA Schottky barrier rectifier</td><td> SOD-123W'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Nexperia*CFP3*SOD?123W*'</td></tr></table>]|
 ||||

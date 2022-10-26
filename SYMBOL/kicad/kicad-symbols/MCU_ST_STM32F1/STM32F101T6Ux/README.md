@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUSTSTM32F1STM32F11T6UX > STM32F101T6Ux
+# SZKMCUSTSTM32F1STM32F11T6UX > MCU_ST_STM32F1 : STM32F101T6Ux
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F1-STM32F101T6Ux
 - Hex ID: SZKMCUSTSTM32F1STM32F11T6UX
-- Name: STM32F101T6Ux
-- Description: STM32F101T6Ux
+- Name: MCU_ST_STM32F1 : STM32F101T6Ux
+- Description: MCU_ST_STM32F1 : STM32F101T6Ux
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F1-STM32F101T6Ux](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F1-STM32F101T6Ux)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32F1STM32F11T6UX](http://oom.lt/SZKMCUSTSTM32F1STM32F11T6UX)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|STM32F101T6Ux|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F1-STM32F101T6Ux|
 |Hex ID (short code)|hexID|SZKMCUSTSTM32F1STM32F11T6UX|
-|name|name|STM32F101T6Ux|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'STM32F101T4Ux', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'STM32F101T6Ux', 'kicadSymbolFootprint': 'Package_DFN_QFN:QFN-36-1EP_6x6mm_P0.5mm_EP4.1x4.1mm', 'kicadSymbolDatasheet': 'http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00210837.pdf', 'kicadSymbolki_keywords': 'ARM Cortex-M3 STM32F1 STM32F101', 'kicadSymbolki_description': 'ARM Cortex-M3 MCU, 32KB flash, 6KB RAM, 36MHz, 2-3.6V, 26 GPIO, VFQFPN-36', 'kicadSymbolki_fp_filters': 'QFN*1EP*6x6mm*P0.5mm*'}]|
+|name|name|MCU_ST_STM32F1 : STM32F101T6Ux|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'STM32F101T4Ux'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'STM32F101T6Ux'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>QFN-36-1EP_6x6mm_P0.5mm_EP4.1x4.1mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00210837.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'ARM Cortex-M3 STM32F1 STM32F101'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'ARM Cortex-M3 MCU</td><td> 32KB flash</td><td> 6KB RAM</td><td> 36MHz</td><td> 2-3.6V</td><td> 26 GPIO</td><td> VFQFPN-36'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'QFN*1EP*6x6mm*P0.5mm*'</td></tr></table>]|
 ||||

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Diode_SMD-Diode_Bridge_Vishay_DFS|
 |Hex ID (short code)|hexID|FZKDIODESMDIODEBRIDGEVISHAYDFS|
 |name|name|Diode_SMD : Diode_Bridge_Vishay_DFS|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Diode_Bridge_Vishay_DFS', 'description': 'SMD diode bridge DFS, see http://www.vishay.com/docs/88854/padlayouts.pdf', 'tags': 'DFS', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/Diode_Bridge_Vishay_DFS.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Diode_Bridge_Vishay_DFS'</td><td> 'description'</td></tr><tr><td> 'SMD diode bridge DFS</td><td> see http</td></tr><tr><td>//www.vishay.com/docs/88854/padlayouts.pdf'</td><td> 'tags'</td></tr><tr><td> 'DFS'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Diode_SMD.3dshapes/Diode_Bridge_Vishay_DFS.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

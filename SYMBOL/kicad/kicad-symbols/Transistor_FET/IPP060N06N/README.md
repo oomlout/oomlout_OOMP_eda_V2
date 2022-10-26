@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORFETIPP6N6N > IPP060N06N
+# SZKTRANSISTORFETIPP6N6N > Transistor_FET : IPP060N06N
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-IPP060N06N
 - Hex ID: SZKTRANSISTORFETIPP6N6N
-- Name: IPP060N06N
-- Description: IPP060N06N
+- Name: Transistor_FET : IPP060N06N
+- Description: Transistor_FET : IPP060N06N
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IPP060N06N](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IPP060N06N)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETIPP6N6N](http://oom.lt/SZKTRANSISTORFETIPP6N6N)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IPP060N06N|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-IPP060N06N|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETIPP6N6N|
-|name|name|IPP060N06N|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BUZ11', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'IPP060N06N', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-220-3_Vertical', 'kicadSymbolDatasheet': 'https://www.infineon.com/dgdl/Infineon-IPP060N06N-DS-v02_02-en.pdf?fileId=db3a30433727a44301372c06d9d7498a', 'kicadSymbolki_keywords': 'N-Channel Power MOSFET Infineon', 'kicadSymbolki_description': '45A Id, 60V Vds, Single N-Channel Power MOSFET, 6mOhm Ron, TO-220', 'kicadSymbolki_fp_filters': 'TO?220*'}]|
+|name|name|Transistor_FET : IPP060N06N|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'BUZ11'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'IPP060N06N'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_THT</td></tr><tr><td>TO-220-3_Vertical'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.infineon.com/dgdl/Infineon-IPP060N06N-DS-v02_02-en.pdf?fileId=db3a30433727a44301372c06d9d7498a'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'N-Channel Power MOSFET Infineon'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '45A Id</td><td> 60V Vds</td><td> Single N-Channel Power MOSFET</td><td> 6mOhm Ron</td><td> TO-220'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TO?220*'</td></tr></table>]|
 ||||

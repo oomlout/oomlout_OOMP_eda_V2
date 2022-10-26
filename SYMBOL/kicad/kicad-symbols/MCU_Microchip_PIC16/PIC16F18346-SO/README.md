@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUMCHIPPIC16PIC16F18346SO > PIC16F18346-SO
+# SZKMCUMCHIPPIC16PIC16F18346SO > MCU_Microchip_PIC16 : PIC16F18346-SO
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F18346-SO
 - Hex ID: SZKMCUMCHIPPIC16PIC16F18346SO
-- Name: PIC16F18346-SO
-- Description: PIC16F18346-SO
+- Name: MCU_Microchip_PIC16 : PIC16F18346-SO
+- Description: MCU_Microchip_PIC16 : PIC16F18346-SO
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F18346-SO](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F18346-SO)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC16PIC16F18346SO](http://oom.lt/SZKMCUMCHIPPIC16PIC16F18346SO)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PIC16F18346-SO|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F18346-SO|
 |Hex ID (short code)|hexID|SZKMCUMCHIPPIC16PIC16F18346SO|
-|name|name|PIC16F18346-SO|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PIC16F18346-SO', 'kicadSymbolFootprint': 'Package_SO:SOIC-20W_7.5x12.8mm_P1.27mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/40001839B.pdf', 'kicadSymbolki_keywords': 'FLASH-Based 8-Bit CMOS Microcontroller Low Power', 'kicadSymbolki_description': '16384W FLASH, 2048B RAM, 256B EEPROM, SOIC-20', 'kicadSymbolki_fp_filters': 'SOIC*7.5x12.8mm*P1.27mm*'}]|
+|name|name|MCU_Microchip_PIC16 : PIC16F18346-SO|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'PIC16F18346-SO'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-20W_7.5x12.8mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/40001839B.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'FLASH-Based 8-Bit CMOS Microcontroller Low Power'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '16384W FLASH</td><td> 2048B RAM</td><td> 256B EEPROM</td><td> SOIC-20'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*7.5x12.8mm*P1.27mm*'</td></tr></table>]|
 ||||

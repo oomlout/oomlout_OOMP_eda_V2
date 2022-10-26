@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKANALOGSWITCHDG441XY > DG441xY
+# SZKANALOGSWITCHDG441XY > Analog_Switch : DG441xY
 
 - ID: SYMBOL-kicad-kicad-symbols-Analog_Switch-DG441xY
 - Hex ID: SZKANALOGSWITCHDG441XY
-- Name: DG441xY
-- Description: DG441xY
+- Name: Analog_Switch : DG441xY
+- Description: Analog_Switch : DG441xY
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-DG441xY](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-DG441xY)
 - Short Link: [http://oom.lt/SZKANALOGSWITCHDG441XY](http://oom.lt/SZKANALOGSWITCHDG441XY)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DG441xY|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_Switch-DG441xY|
 |Hex ID (short code)|hexID|SZKANALOGSWITCHDG441XY|
-|name|name|DG441xY|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'DG309xY', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'DG441xY', 'kicadSymbolFootprint': 'Package_SO:SOIC-16_3.9x9.9mm_P1.27mm', 'kicadSymbolDatasheet': 'https://datasheets.maximintegrated.com/en/ds/DG441-DG442.pdf', 'kicadSymbolki_keywords': 'CMOS Analog Switch', 'kicadSymbolki_description': 'Quad SPST Analog Switches, normally ON, 60Ohm Ron, SOIC-16', 'kicadSymbolki_fp_filters': 'SOIC*3.9x9.9mm*P1.27mm*'}]|
+|name|name|Analog_Switch : DG441xY|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'DG309xY'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'DG441xY'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-16_3.9x9.9mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//datasheets.maximintegrated.com/en/ds/DG441-DG442.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'CMOS Analog Switch'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Quad SPST Analog Switches</td><td> normally ON</td><td> 60Ohm Ron</td><td> SOIC-16'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*3.9x9.9mm*P1.27mm*'</td></tr></table>]|
 ||||

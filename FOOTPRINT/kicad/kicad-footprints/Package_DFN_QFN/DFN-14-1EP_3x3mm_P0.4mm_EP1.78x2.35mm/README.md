@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-DFN-14-1EP_3x3mm_P0.4mm_EP1.78x2.35mm|
 |Hex ID (short code)|hexID|FZKDFNDFN141EP3X3P4EP178X235|
 |name|name|Package_DFN_QFN : DFN-14-1EP_3x3mm_P0.4mm_EP1.78x2.35mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'DFN-14-1EP_3x3mm_P0.4mm_EP1.78x2.35mm', 'description': 'DD Package; 14-Lead Plastic DFN (3mm x 3mm) (http://pdfserv.maximintegrated.com/land_patterns/90-0063.PDF)', 'tags': 'DFN 0.40', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/DFN-14-1EP_3x3mm_P0.4mm_EP1.78x2.35mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'DFN-14-1EP_3x3mm_P0.4mm_EP1.78x2.35mm'</td><td> 'description'</td></tr><tr><td> 'DD Package; 14-Lead Plastic DFN (3mm x 3mm) (http</td></tr><tr><td>//pdfserv.maximintegrated.com/land_patterns/90-0063.PDF)'</td><td> 'tags'</td></tr><tr><td> 'DFN 0.40'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DFN_QFN.3dshapes/DFN-14-1EP_3x3mm_P0.4mm_EP1.78x2.35mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUMCHIPPIC12PIC12F675ISN > PIC12F675-ISN
+# SZKMCUMCHIPPIC12PIC12F675ISN > MCU_Microchip_PIC12 : PIC12F675-ISN
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC12-PIC12F675-ISN
 - Hex ID: SZKMCUMCHIPPIC12PIC12F675ISN
-- Name: PIC12F675-ISN
-- Description: PIC12F675-ISN
+- Name: MCU_Microchip_PIC12 : PIC12F675-ISN
+- Description: MCU_Microchip_PIC12 : PIC12F675-ISN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC12-PIC12F675-ISN](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC12-PIC12F675-ISN)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC12PIC12F675ISN](http://oom.lt/SZKMCUMCHIPPIC12PIC12F675ISN)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PIC12F675-ISN|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC12-PIC12F675-ISN|
 |Hex ID (short code)|hexID|SZKMCUMCHIPPIC12PIC12F675ISN|
-|name|name|PIC12F675-ISN|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'PIC12F675-IP', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PIC12F675-ISN', 'kicadSymbolFootprint': 'Package_DIP:DIP-8_W7.62mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/41190G.pdf', 'kicadSymbolki_keywords': 'FLASH-Based 8-Bit CMOS Microcontroller', 'kicadSymbolki_description': 'PIC12F675, 1024W Flash, 64B SRAM, 128B EEPROM, SO8', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
+|name|name|MCU_Microchip_PIC12 : PIC12F675-ISN|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'PIC12F675-IP'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'PIC12F675-ISN'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>DIP-8_W7.62mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/41190G.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'FLASH-Based 8-Bit CMOS Microcontroller'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'PIC12F675</td><td> 1024W Flash</td><td> 64B SRAM</td><td> 128B EEPROM</td><td> SO8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W7.62mm*'</td></tr></table>]|
 ||||

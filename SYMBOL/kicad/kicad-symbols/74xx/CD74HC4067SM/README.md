@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZK74XXCD74HC467SM > CD74HC4067SM
+# SZK74XXCD74HC467SM > 74xx : CD74HC4067SM
 
 - ID: SYMBOL-kicad-kicad-symbols-74xx-CD74HC4067SM
 - Hex ID: SZK74XXCD74HC467SM
-- Name: CD74HC4067SM
-- Description: CD74HC4067SM
+- Name: 74xx : CD74HC4067SM
+- Description: 74xx : CD74HC4067SM
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx-CD74HC4067SM](http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx-CD74HC4067SM)
 - Short Link: [http://oom.lt/SZK74XXCD74HC467SM](http://oom.lt/SZK74XXCD74HC467SM)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|CD74HC4067SM|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xx-CD74HC4067SM|
 |Hex ID (short code)|hexID|SZK74XXCD74HC467SM|
-|name|name|CD74HC4067SM|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'CD74HC4067SM', 'kicadSymbolFootprint': 'Package_SO:SSOP-24_5.3x8.2mm_P0.65mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/cd74hc4067.pdf', 'kicadSymbolki_keywords': 'multiplexer demultiplexer mux demux', 'kicadSymbolki_description': 'High-Speed CMOS Logic 16-Channel Analog Multiplexer/Demultiplexer, SSOP-24', 'kicadSymbolki_fp_filters': 'SSOP*5.3x8.2mm*P0.65mm*'}]|
+|name|name|74xx : CD74HC4067SM|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'CD74HC4067SM'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SSOP-24_5.3x8.2mm_P0.65mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/cd74hc4067.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'multiplexer demultiplexer mux demux'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'High-Speed CMOS Logic 16-Channel Analog Multiplexer/Demultiplexer</td><td> SSOP-24'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SSOP*5.3x8.2mm*P0.65mm*'</td></tr></table>]|
 ||||

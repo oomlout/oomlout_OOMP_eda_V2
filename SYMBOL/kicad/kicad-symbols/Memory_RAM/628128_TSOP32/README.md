@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMEMORYRAM628128TS32 > 628128_TSOP32
+# SZKMEMORYRAM628128TS32 > Memory_RAM : 628128_TSOP32
 
 - ID: SYMBOL-kicad-kicad-symbols-Memory_RAM-628128_TSOP32
 - Hex ID: SZKMEMORYRAM628128TS32
-- Name: 628128_TSOP32
-- Description: 628128_TSOP32
+- Name: Memory_RAM : 628128_TSOP32
+- Description: Memory_RAM : 628128_TSOP32
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_RAM-628128_TSOP32](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_RAM-628128_TSOP32)
 - Short Link: [http://oom.lt/SZKMEMORYRAM628128TS32](http://oom.lt/SZKMEMORYRAM628128TS32)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|628128_TSOP32|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Memory_RAM-628128_TSOP32|
 |Hex ID (short code)|hexID|SZKMEMORYRAM628128TS32|
-|name|name|628128_TSOP32|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '628128_TSOP32', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.futurlec.com/Datasheet/Memory/628128.pdf', 'kicadSymbolki_keywords': 'RAM SRAM CMOS MEMORY', 'kicadSymbolki_description': '128K x 8 High-Speed CMOS Static RAM, 55/70ns, TSOP-I-32', 'kicadSymbolki_fp_filters': 'TSOP?I*11.8x8mm*P0.5mm* TSOP?I*18.4x8mm*P0.5mm*'}]|
+|name|name|Memory_RAM : 628128_TSOP32|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> '628128_TSOP32'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.futurlec.com/Datasheet/Memory/628128.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'RAM SRAM CMOS MEMORY'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '128K x 8 High-Speed CMOS Static RAM</td><td> 55/70ns</td><td> TSOP-I-32'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TSOP?I*11.8x8mm*P0.5mm* TSOP?I*18.4x8mm*P0.5mm*'</td></tr></table>]|
 ||||

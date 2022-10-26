@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORCONTROLLERUC3845SOIC8 > UC3845_SOIC8
+# SZKREGULATORCONTROLLERUC3845SOIC8 > Regulator_Controller : UC3845_SOIC8
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Controller-UC3845_SOIC8
 - Hex ID: SZKREGULATORCONTROLLERUC3845SOIC8
-- Name: UC3845_SOIC8
-- Description: UC3845_SOIC8
+- Name: Regulator_Controller : UC3845_SOIC8
+- Description: Regulator_Controller : UC3845_SOIC8
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-UC3845_SOIC8](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-UC3845_SOIC8)
 - Short Link: [http://oom.lt/SZKREGULATORCONTROLLERUC3845SOIC8](http://oom.lt/SZKREGULATORCONTROLLERUC3845SOIC8)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|UC3845_SOIC8|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Controller-UC3845_SOIC8|
 |Hex ID (short code)|hexID|SZKREGULATORCONTROLLERUC3845SOIC8|
-|name|name|UC3845_SOIC8|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'UC3842_SOIC8', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'UC3845_SOIC8', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/uc3842.pdf', 'kicadSymbolki_keywords': 'SMPS PWM Controller', 'kicadSymbolki_description': 'Current-Mode PWM Controllers, 50% Duty Cycle, 8.4V/7.6V UVLO, SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm*'}]|
+|name|name|Regulator_Controller : UC3845_SOIC8|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'UC3842_SOIC8'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'UC3845_SOIC8'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-8_3.9x4.9mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/uc3842.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'SMPS PWM Controller'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Current-Mode PWM Controllers</td><td> 50% Duty Cycle</td><td> 8.4V/7.6V UVLO</td><td> SOIC-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*3.9x4.9mm*P1.27mm*'</td></tr></table>]|
 ||||

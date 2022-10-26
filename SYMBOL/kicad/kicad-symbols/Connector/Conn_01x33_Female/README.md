@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKCNCONN1X33FEMALE > Conn_01x33_Female
+# SZKCNCONN1X33FEMALE > Connector : Conn_01x33_Female
 
 - ID: SYMBOL-kicad-kicad-symbols-Connector-Conn_01x33_Female
 - Hex ID: SZKCNCONN1X33FEMALE
-- Name: Conn_01x33_Female
-- Description: Conn_01x33_Female
+- Name: Connector : Conn_01x33_Female
+- Description: Connector : Conn_01x33_Female
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-Conn_01x33_Female](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-Conn_01x33_Female)
 - Short Link: [http://oom.lt/SZKCNCONN1X33FEMALE](http://oom.lt/SZKCNCONN1X33FEMALE)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Conn_01x33_Female|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-Conn_01x33_Female|
 |Hex ID (short code)|hexID|SZKCNCONN1X33FEMALE|
-|name|name|Conn_01x33_Female|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'Conn_01x33_Female', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'connector', 'kicadSymbolki_description': 'Generic connector, single row, 01x33, script generated (kicad-library-utils/schlib/autogen/connector/)', 'kicadSymbolki_fp_filters': 'Connector*:*_1x??_*'}]|
+|name|name|Connector : Conn_01x33_Female|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'J'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Conn_01x33_Female'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'connector'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Generic connector</td><td> single row</td><td> 01x33</td><td> script generated (kicad-library-utils/schlib/autogen/connector/)'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Connector*</td></tr><tr><td>*_1x??_*'</td></tr></table>]|
 ||||

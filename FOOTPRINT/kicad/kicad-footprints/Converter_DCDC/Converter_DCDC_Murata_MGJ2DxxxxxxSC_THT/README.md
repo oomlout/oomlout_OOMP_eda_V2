@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_Murata_MGJ2DxxxxxxSC_THT|
 |Hex ID (short code)|hexID|FZKCONCONMMGJ2DXXXXXXSCTHT|
 |name|name|Converter_DCDC : Converter_DCDC_Murata_MGJ2DxxxxxxSC_THT|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Converter_DCDC_Murata_MGJ2DxxxxxxSC_THT', 'description': 'Murata MGJ2DxxxxxxSC, 19.5x9.8x12.5mm, 5.2kVDC Isolated, 2W, SIP package style, https://power.murata.com/data/power/ncl/kdc_mgj2.pdf', 'tags': 'Murata MGJ2DxxxxxxSC', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Converter_DCDC.3dshapes/Converter_DCDC_Murata_MGJ2DxxxxxxSC_THT.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Converter_DCDC_Murata_MGJ2DxxxxxxSC_THT'</td><td> 'description'</td></tr><tr><td> 'Murata MGJ2DxxxxxxSC</td><td> 19.5x9.8x12.5mm</td><td> 5.2kVDC Isolated</td><td> 2W</td><td> SIP package style</td><td> https</td></tr><tr><td>//power.murata.com/data/power/ncl/kdc_mgj2.pdf'</td><td> 'tags'</td></tr><tr><td> 'Murata MGJ2DxxxxxxSC'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Converter_DCDC.3dshapes/Converter_DCDC_Murata_MGJ2DxxxxxxSC_THT.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

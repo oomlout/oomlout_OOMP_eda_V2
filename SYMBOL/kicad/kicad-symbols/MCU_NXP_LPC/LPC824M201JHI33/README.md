@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUNXPLPCLPC824M21JHI33 > LPC824M201JHI33
+# SZKMCUNXPLPCLPC824M21JHI33 > MCU_NXP_LPC : LPC824M201JHI33
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_NXP_LPC-LPC824M201JHI33
 - Hex ID: SZKMCUNXPLPCLPC824M21JHI33
-- Name: LPC824M201JHI33
-- Description: LPC824M201JHI33
+- Name: MCU_NXP_LPC : LPC824M201JHI33
+- Description: MCU_NXP_LPC : LPC824M201JHI33
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_LPC-LPC824M201JHI33](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_LPC-LPC824M201JHI33)
 - Short Link: [http://oom.lt/SZKMCUNXPLPCLPC824M21JHI33](http://oom.lt/SZKMCUNXPLPCLPC824M21JHI33)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LPC824M201JHI33|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_NXP_LPC-LPC824M201JHI33|
 |Hex ID (short code)|hexID|SZKMCUNXPLPCLPC824M21JHI33|
-|name|name|LPC824M201JHI33|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LPC822M101JHI33', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LPC824M201JHI33', 'kicadSymbolFootprint': 'Package_DFN_QFN:QFN-32-1EP_5x5mm_P0.5mm_EP3.45x3.45mm', 'kicadSymbolDatasheet': 'http://www.nxp.com/documents/data_sheet/LPC82X.pdf', 'kicadSymbolki_keywords': 'ARM, 32-bit, Cortex-M0, M0, NXP, microcontroller', 'kicadSymbolki_description': '32-bit ARM Cortex-M0 microcontroller, 32kB flash, 8kB SRAM', 'kicadSymbolki_fp_filters': '*QFN*5x5mm*P0.5mm*'}]|
+|name|name|MCU_NXP_LPC : LPC824M201JHI33|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'LPC822M101JHI33'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LPC824M201JHI33'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>QFN-32-1EP_5x5mm_P0.5mm_EP3.45x3.45mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.nxp.com/documents/data_sheet/LPC82X.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'ARM</td><td> 32-bit</td><td> Cortex-M0</td><td> M0</td><td> NXP</td><td> microcontroller'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '32-bit ARM Cortex-M0 microcontroller</td><td> 32kB flash</td><td> 8kB SRAM'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> '*QFN*5x5mm*P0.5mm*'</td></tr></table>]|
 ||||

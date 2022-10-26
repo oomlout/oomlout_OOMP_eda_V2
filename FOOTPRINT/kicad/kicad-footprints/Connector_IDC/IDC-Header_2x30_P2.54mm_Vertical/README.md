@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_IDC-IDC-Header_2x30_P2.54mm_Vertical|
 |Hex ID (short code)|hexID|FZKCNIDCIDCHEADER2X3P254VERTICAL|
 |name|name|Connector_IDC : IDC-Header_2x30_P2.54mm_Vertical|
-|Footprint Kicad|footprintKicadDetails|{'name': 'IDC-Header_2x30_P2.54mm_Vertical', 'description': 'Through hole IDC box header, 2x30, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0', 'tags': 'Through hole vertical IDC box header THT 2x30 2.54mm double row', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_IDC.3dshapes/IDC-Header_2x30_P2.54mm_Vertical.wrl', 'pins': {'type': 'thru_hole', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'IDC-Header_2x30_P2.54mm_Vertical'</td><td> 'description'</td></tr><tr><td> 'Through hole IDC box header</td><td> 2x30</td><td> 2.54mm pitch</td><td> DIN 41651 / IEC 60603-13</td><td> double rows</td><td> https</td></tr><tr><td>//docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0'</td><td> 'tags'</td></tr><tr><td> 'Through hole vertical IDC box header THT 2x30 2.54mm double row'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_IDC.3dshapes/IDC-Header_2x30_P2.54mm_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUSTSTM32F2STM32F27ZFTX > STM32F207ZFTx
+# SZKMCUSTSTM32F2STM32F27ZFTX > MCU_ST_STM32F2 : STM32F207ZFTx
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F2-STM32F207ZFTx
 - Hex ID: SZKMCUSTSTM32F2STM32F27ZFTX
-- Name: STM32F207ZFTx
-- Description: STM32F207ZFTx
+- Name: MCU_ST_STM32F2 : STM32F207ZFTx
+- Description: MCU_ST_STM32F2 : STM32F207ZFTx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F2-STM32F207ZFTx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F2-STM32F207ZFTx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32F2STM32F27ZFTX](http://oom.lt/SZKMCUSTSTM32F2STM32F27ZFTX)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|STM32F207ZFTx|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F2-STM32F207ZFTx|
 |Hex ID (short code)|hexID|SZKMCUSTSTM32F2STM32F27ZFTX|
-|name|name|STM32F207ZFTx|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'STM32F207ZCTx', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'STM32F207ZFTx', 'kicadSymbolFootprint': 'Package_QFP:LQFP-144_20x20mm_P0.5mm', 'kicadSymbolDatasheet': 'http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00237391.pdf', 'kicadSymbolki_keywords': 'ARM Cortex-M3 STM32F2 STM32F2x7', 'kicadSymbolki_description': 'ARM Cortex-M3 MCU, 768KB flash, 128KB RAM, 120MHz, 1.8-3.6V, 114 GPIO, LQFP-144', 'kicadSymbolki_fp_filters': 'LQFP*20x20mm*P0.5mm*'}]|
+|name|name|MCU_ST_STM32F2 : STM32F207ZFTx|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'STM32F207ZCTx'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'STM32F207ZFTx'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_QFP</td></tr><tr><td>LQFP-144_20x20mm_P0.5mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00237391.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'ARM Cortex-M3 STM32F2 STM32F2x7'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'ARM Cortex-M3 MCU</td><td> 768KB flash</td><td> 128KB RAM</td><td> 120MHz</td><td> 1.8-3.6V</td><td> 114 GPIO</td><td> LQFP-144'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'LQFP*20x20mm*P0.5mm*'</td></tr></table>]|
 ||||

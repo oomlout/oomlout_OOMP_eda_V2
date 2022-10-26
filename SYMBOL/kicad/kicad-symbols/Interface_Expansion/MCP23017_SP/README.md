@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKINTERFACEEXPANSIONMCP2317SP > MCP23017_SP
+# SZKINTERFACEEXPANSIONMCP2317SP > Interface_Expansion : MCP23017_SP
 
 - ID: SYMBOL-kicad-kicad-symbols-Interface_Expansion-MCP23017_SP
 - Hex ID: SZKINTERFACEEXPANSIONMCP2317SP
-- Name: MCP23017_SP
-- Description: MCP23017_SP
+- Name: Interface_Expansion : MCP23017_SP
+- Description: Interface_Expansion : MCP23017_SP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Expansion-MCP23017_SP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Expansion-MCP23017_SP)
 - Short Link: [http://oom.lt/SZKINTERFACEEXPANSIONMCP2317SP](http://oom.lt/SZKINTERFACEEXPANSIONMCP2317SP)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MCP23017_SP|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_Expansion-MCP23017_SP|
 |Hex ID (short code)|hexID|SZKINTERFACEEXPANSIONMCP2317SP|
-|name|name|MCP23017_SP|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MCP23017_SP', 'kicadSymbolFootprint': 'Package_DIP:DIP-28_W7.62mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/20001952C.pdf', 'kicadSymbolki_keywords': 'I2C parallel port expander', 'kicadSymbolki_description': '16-bit I/O expander, I2C, interrupts, w pull-ups, SPDIP-28', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
+|name|name|Interface_Expansion : MCP23017_SP|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MCP23017_SP'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>DIP-28_W7.62mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/20001952C.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'I2C parallel port expander'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '16-bit I/O expander</td><td> I2C</td><td> interrupts</td><td> w pull-ups</td><td> SPDIP-28'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W7.62mm*'</td></tr></table>]|
 ||||

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-CP_Radial_D8.0mm_P3.50mm|
 |Hex ID (short code)|hexID|FZKCCPRD8P35|
 |name|name|Capacitor_THT : CP_Radial_D8.0mm_P3.50mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'CP_Radial_D8.0mm_P3.50mm', 'description': 'CP, Radial series, Radial, pin pitch=3.50mm, , diameter=8mm, Electrolytic Capacitor', 'tags': 'CP Radial series Radial pin pitch 3.50mm  diameter 8mm Electrolytic Capacitor', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Capacitor_THT.3dshapes/CP_Radial_D8.0mm_P3.50mm.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'CP_Radial_D8.0mm_P3.50mm'</td><td> 'description'</td></tr><tr><td> 'CP</td><td> Radial series</td><td> Radial</td><td> pin pitch=3.50mm</td><td> </td><td> diameter=8mm</td><td> Electrolytic Capacitor'</td><td> 'tags'</td></tr><tr><td> 'CP Radial series Radial pin pitch 3.50mm  diameter 8mm Electrolytic Capacitor'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Capacitor_THT.3dshapes/CP_Radial_D8.0mm_P3.50mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

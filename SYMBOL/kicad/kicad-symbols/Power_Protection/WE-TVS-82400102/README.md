@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKPOWERPROTECTIONWETVS82412 > WE-TVS-82400102
+# SZKPOWERPROTECTIONWETVS82412 > Power_Protection : WE-TVS-82400102
 
 - ID: SYMBOL-kicad-kicad-symbols-Power_Protection-WE-TVS-82400102
 - Hex ID: SZKPOWERPROTECTIONWETVS82412
-- Name: WE-TVS-82400102
-- Description: WE-TVS-82400102
+- Name: Power_Protection : WE-TVS-82400102
+- Description: Power_Protection : WE-TVS-82400102
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-WE-TVS-82400102](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-WE-TVS-82400102)
 - Short Link: [http://oom.lt/SZKPOWERPROTECTIONWETVS82412](http://oom.lt/SZKPOWERPROTECTIONWETVS82412)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|WE-TVS-82400102|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Protection-WE-TVS-82400102|
 |Hex ID (short code)|hexID|SZKPOWERPROTECTIONWETVS82412|
-|name|name|WE-TVS-82400102|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'WE-TVS-82400102', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-6', 'kicadSymbolDatasheet': 'https://katalog.we-online.de/pbs/datasheet/82400102.pdf', 'kicadSymbolki_keywords': 'ESD Protection TVS High-speed USB', 'kicadSymbolki_description': 'Low Capacitance TVS Diode Array, 2 Channels, SOT-23-6', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
+|name|name|Power_Protection : WE-TVS-82400102|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'WE-TVS-82400102'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-23-6'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//katalog.we-online.de/pbs/datasheet/82400102.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'ESD Protection TVS High-speed USB'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Low Capacitance TVS Diode Array</td><td> 2 Channels</td><td> SOT-23-6'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23*'</td></tr></table>]|
 ||||

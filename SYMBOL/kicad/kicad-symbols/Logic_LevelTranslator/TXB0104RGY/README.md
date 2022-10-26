@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKLOGICLEVELTRANSLATORTXB14RGY > TXB0104RGY
+# SZKLOGICLEVELTRANSLATORTXB14RGY > Logic_LevelTranslator : TXB0104RGY
 
 - ID: SYMBOL-kicad-kicad-symbols-Logic_LevelTranslator-TXB0104RGY
 - Hex ID: SZKLOGICLEVELTRANSLATORTXB14RGY
-- Name: TXB0104RGY
-- Description: TXB0104RGY
+- Name: Logic_LevelTranslator : TXB0104RGY
+- Description: Logic_LevelTranslator : TXB0104RGY
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Logic_LevelTranslator-TXB0104RGY](http://oom.lt/SYMBOL-kicad-kicad-symbols-Logic_LevelTranslator-TXB0104RGY)
 - Short Link: [http://oom.lt/SZKLOGICLEVELTRANSLATORTXB14RGY](http://oom.lt/SZKLOGICLEVELTRANSLATORTXB14RGY)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TXB0104RGY|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Logic_LevelTranslator-TXB0104RGY|
 |Hex ID (short code)|hexID|SZKLOGICLEVELTRANSLATORTXB14RGY|
-|name|name|TXB0104RGY|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TXB0104RGY', 'kicadSymbolFootprint': 'Package_DFN_QFN:Texas_S-PVQFN-N14', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/txb0104.pdf', 'kicadSymbolki_keywords': 'Level-Shifter CMOS-TTL-Translation', 'kicadSymbolki_description': '4-Bit Bidirectional Voltage-Level Translator, Auto Direction Sensing and ±15-kV ESD Protection, 1.2 - 3.6V APort, 1.65 - 5.5V BPort, Texas_PVGFN-14', 'kicadSymbolki_fp_filters': 'Texas*S*PVQFN*N14*'}]|
+|name|name|Logic_LevelTranslator : TXB0104RGY|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TXB0104RGY'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>Texas_S-PVQFN-N14'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/txb0104.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Level-Shifter CMOS-TTL-Translation'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '4-Bit Bidirectional Voltage-Level Translator</td><td> Auto Direction Sensing and ±15-kV ESD Protection</td><td> 1.2 - 3.6V APort</td><td> 1.65 - 5.5V BPort</td><td> Texas_PVGFN-14'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Texas*S*PVQFN*N14*'</td></tr></table>]|
 ||||

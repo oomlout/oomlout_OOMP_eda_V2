@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKPOTENTIOMETERDIGITALAD529 > AD5290
+# SZKPOTENTIOMETERDIGITALAD529 > Potentiometer_Digital : AD5290
 
 - ID: SYMBOL-kicad-kicad-symbols-Potentiometer_Digital-AD5290
 - Hex ID: SZKPOTENTIOMETERDIGITALAD529
-- Name: AD5290
-- Description: AD5290
+- Name: Potentiometer_Digital : AD5290
+- Description: Potentiometer_Digital : AD5290
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Potentiometer_Digital-AD5290](http://oom.lt/SYMBOL-kicad-kicad-symbols-Potentiometer_Digital-AD5290)
 - Short Link: [http://oom.lt/SZKPOTENTIOMETERDIGITALAD529](http://oom.lt/SZKPOTENTIOMETERDIGITALAD529)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AD5290|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Potentiometer_Digital-AD5290|
 |Hex ID (short code)|hexID|SZKPOTENTIOMETERDIGITALAD529|
-|name|name|AD5290|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AD5290', 'kicadSymbolFootprint': 'Package_SO:MSOP-10_3x3mm_P0.5mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/AD5290.pdf', 'kicadSymbolki_keywords': 'R POT', 'kicadSymbolki_description': 'Digital Potentiometer  256 steps   (SPI control) +- 15V, MSOP-10', 'kicadSymbolki_fp_filters': 'MSOP*3x3mm*P0.5mm*'}]|
+|name|name|Potentiometer_Digital : AD5290|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'AD5290'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>MSOP-10_3x3mm_P0.5mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/AD5290.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'R POT'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Digital Potentiometer  256 steps   (SPI control) +- 15V</td><td> MSOP-10'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'MSOP*3x3mm*P0.5mm*'</td></tr></table>]|
 ||||

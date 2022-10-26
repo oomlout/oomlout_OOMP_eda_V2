@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUMCHIPPIC16PIC16F18346SS > PIC16F18346-SS_0
+# SZKMCUMCHIPPIC16PIC16F18346SS > MCU_Microchip_PIC16 : PIC16F18346-SS_0
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F18346-SS_0
 - Hex ID: SZKMCUMCHIPPIC16PIC16F18346SS
-- Name: PIC16F18346-SS_0
-- Description: PIC16F18346-SS_0
+- Name: MCU_Microchip_PIC16 : PIC16F18346-SS_0
+- Description: MCU_Microchip_PIC16 : PIC16F18346-SS_0
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F18346-SS_0](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F18346-SS_0)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC16PIC16F18346SS](http://oom.lt/SZKMCUMCHIPPIC16PIC16F18346SS)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PIC16F18346-SS_0|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F18346-SS_0|
 |Hex ID (short code)|hexID|SZKMCUMCHIPPIC16PIC16F18346SS|
-|name|name|PIC16F18346-SS_0|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PIC16F18346-SS_0', 'kicadSymbolFootprint': 'Package_SO:SSOP-20_5.3x7.2mm_P0.65mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/40001839B.pdf', 'kicadSymbolki_keywords': 'FLASH-Based 8-Bit CMOS Microcontroller Low Power', 'kicadSymbolki_description': '16384W FLASH, 2048B RAM, 256B EEPROM, SSOP-20', 'kicadSymbolki_fp_filters': 'SSOP*5.3x7.2mm*P0.65mm*'}]|
+|name|name|MCU_Microchip_PIC16 : PIC16F18346-SS_0|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'PIC16F18346-SS_0'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SSOP-20_5.3x7.2mm_P0.65mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/40001839B.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'FLASH-Based 8-Bit CMOS Microcontroller Low Power'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '16384W FLASH</td><td> 2048B RAM</td><td> 256B EEPROM</td><td> SSOP-20'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SSOP*5.3x7.2mm*P0.65mm*'</td></tr></table>]|
 ||||

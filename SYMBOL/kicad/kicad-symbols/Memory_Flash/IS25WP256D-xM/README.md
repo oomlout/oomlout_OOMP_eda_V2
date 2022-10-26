@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMEMORYFLASHIS25WP256DXM > IS25WP256D-xM
+# SZKMEMORYFLASHIS25WP256DXM > Memory_Flash : IS25WP256D-xM
 
 - ID: SYMBOL-kicad-kicad-symbols-Memory_Flash-IS25WP256D-xM
 - Hex ID: SZKMEMORYFLASHIS25WP256DXM
-- Name: IS25WP256D-xM
-- Description: IS25WP256D-xM
+- Name: Memory_Flash : IS25WP256D-xM
+- Description: Memory_Flash : IS25WP256D-xM
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_Flash-IS25WP256D-xM](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_Flash-IS25WP256D-xM)
 - Short Link: [http://oom.lt/SZKMEMORYFLASHIS25WP256DXM](http://oom.lt/SZKMEMORYFLASHIS25WP256DXM)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IS25WP256D-xM|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Memory_Flash-IS25WP256D-xM|
 |Hex ID (short code)|hexID|SZKMEMORYFLASHIS25WP256DXM|
-|name|name|IS25WP256D-xM|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'IS25WP256D-xM', 'kicadSymbolFootprint': 'Package_SO:SOIC-16W_7.5x10.3mm_P1.27mm', 'kicadSymbolDatasheet': 'http://www.issi.com/WW/pdf/IS25LP(WP)256D.pdf', 'kicadSymbolki_keywords': 'SPI DSPI QSPI NOR 256Mbit 1.8V', 'kicadSymbolki_description': '256-Mbit, 1.8V SPI Serial Flash Memory with Dual-I/O and Quad-I/O Support, SOIC-16', 'kicadSymbolki_fp_filters': 'SOIC*7.5x10.3mm*P1.27mm*'}]|
+|name|name|Memory_Flash : IS25WP256D-xM|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'IS25WP256D-xM'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-16W_7.5x10.3mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.issi.com/WW/pdf/IS25LP(WP)256D.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'SPI DSPI QSPI NOR 256Mbit 1.8V'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '256-Mbit</td><td> 1.8V SPI Serial Flash Memory with Dual-I/O and Quad-I/O Support</td><td> SOIC-16'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*7.5x10.3mm*P1.27mm*'</td></tr></table>]|
 ||||

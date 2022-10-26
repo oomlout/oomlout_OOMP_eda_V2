@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKCONRPMH515 > RPMH5.0-1.5
+# SZKCONRPMH515 > Converter_DCDC : RPMH5.0-1.5
 
 - ID: SYMBOL-kicad-kicad-symbols-Converter_DCDC-RPMH5.0-1.5
 - Hex ID: SZKCONRPMH515
-- Name: RPMH5.0-1.5
-- Description: RPMH5.0-1.5
+- Name: Converter_DCDC : RPMH5.0-1.5
+- Description: Converter_DCDC : RPMH5.0-1.5
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-RPMH5.0-1.5](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-RPMH5.0-1.5)
 - Short Link: [http://oom.lt/SZKCONRPMH515](http://oom.lt/SZKCONRPMH515)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|RPMH5.0-1.5|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Converter_DCDC-RPMH5.0-1.5|
 |Hex ID (short code)|hexID|SZKCONRPMH515|
-|name|name|RPMH5.0-1.5|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'RPMH3.3-1.5', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'RPMH5.0-1.5', 'kicadSymbolFootprint': 'Converter_DCDC:Converter_DCDC_RECOM_RPMx.x-x.0', 'kicadSymbolDatasheet': 'https://recom-power.com/pdf/Innoline/RPMH-1.5.pdf', 'kicadSymbolki_keywords': 'Recom DC-DC converter', 'kicadSymbolki_description': '1.5A non-isolated switching regulator power module, 7-60V input voltage, 5V output voltage', 'kicadSymbolki_fp_filters': 'Converter*DCDC*RECOM*RPM*'}]|
+|name|name|Converter_DCDC : RPMH5.0-1.5|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'RPMH3.3-1.5'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'RPMH5.0-1.5'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Converter_DCDC</td></tr><tr><td>Converter_DCDC_RECOM_RPMx.x-x.0'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//recom-power.com/pdf/Innoline/RPMH-1.5.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Recom DC-DC converter'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '1.5A non-isolated switching regulator power module</td><td> 7-60V input voltage</td><td> 5V output voltage'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Converter*DCDC*RECOM*RPM*'</td></tr></table>]|
 ||||

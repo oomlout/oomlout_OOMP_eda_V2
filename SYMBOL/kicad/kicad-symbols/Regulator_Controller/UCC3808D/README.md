@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORCONTROLLERUCC388D > UCC3808D
+# SZKREGULATORCONTROLLERUCC388D > Regulator_Controller : UCC3808D
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Controller-UCC3808D
 - Hex ID: SZKREGULATORCONTROLLERUCC388D
-- Name: UCC3808D
-- Description: UCC3808D
+- Name: Regulator_Controller : UCC3808D
+- Description: Regulator_Controller : UCC3808D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-UCC3808D](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-UCC3808D)
 - Short Link: [http://oom.lt/SZKREGULATORCONTROLLERUCC388D](http://oom.lt/SZKREGULATORCONTROLLERUCC388D)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|UCC3808D|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Controller-UCC3808D|
 |Hex ID (short code)|hexID|SZKREGULATORCONTROLLERUCC388D|
-|name|name|UCC3808D|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'UCC3808D', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/ucc3808-2.pdf', 'kicadSymbolki_keywords': 'SMPS PWM Controller', 'kicadSymbolki_description': 'Low Power Current Mode Push-Pull PWM, SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm*'}]|
+|name|name|Regulator_Controller : UCC3808D|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'UCC3808D'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-8_3.9x4.9mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/ucc3808-2.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'SMPS PWM Controller'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Low Power Current Mode Push-Pull PWM</td><td> SOIC-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*3.9x4.9mm*P1.27mm*'</td></tr></table>]|
 ||||

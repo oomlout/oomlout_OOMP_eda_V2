@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-QFN-56-1EP_7x7mm_P0.4mm_EP5.6x5.6mm|
 |Hex ID (short code)|hexID|FZKDFNQFN561EP7X7P4EP56X56|
 |name|name|Package_DFN_QFN : QFN-56-1EP_7x7mm_P0.4mm_EP5.6x5.6mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'QFN-56-1EP_7x7mm_P0.4mm_EP5.6x5.6mm', 'description': 'QFN, 56 Pin (http://www.cypress.com/file/416486/download#page=40), generated with kicad-footprint-generator ipc_noLead_generator.py', 'tags': 'QFN NoLead', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/QFN-56-1EP_7x7mm_P0.4mm_EP5.6x5.6mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'QFN-56-1EP_7x7mm_P0.4mm_EP5.6x5.6mm'</td><td> 'description'</td></tr><tr><td> 'QFN</td><td> 56 Pin (http</td></tr><tr><td>//www.cypress.com/file/416486/download#page=40)</td><td> generated with kicad-footprint-generator ipc_noLead_generator.py'</td><td> 'tags'</td></tr><tr><td> 'QFN NoLead'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DFN_QFN.3dshapes/QFN-56-1EP_7x7mm_P0.4mm_EP5.6x5.6mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

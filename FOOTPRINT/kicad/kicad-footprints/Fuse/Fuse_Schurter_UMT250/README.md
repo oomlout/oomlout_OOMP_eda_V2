@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_Schurter_UMT250|
 |Hex ID (short code)|hexID|FZKFUFUSCHURTERUMT25|
 |name|name|Fuse : Fuse_Schurter_UMT250|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Fuse_Schurter_UMT250', 'description': 'Surface Mount Fuse, 3 x 10.1 mm, Time-Lag T, 250 VAC, 125 VDC (https://us.schurter.com/bundles/snceschurter/epim/_ProdPool_/newDS/en/typ_UMT_250.pdf)', 'tags': 'Schurter fuse smd', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Fuse.3dshapes/Fuse_Schurter_UMT250.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Fuse_Schurter_UMT250'</td><td> 'description'</td></tr><tr><td> 'Surface Mount Fuse</td><td> 3 x 10.1 mm</td><td> Time-Lag T</td><td> 250 VAC</td><td> 125 VDC (https</td></tr><tr><td>//us.schurter.com/bundles/snceschurter/epim/_ProdPool_/newDS/en/typ_UMT_250.pdf)'</td><td> 'tags'</td></tr><tr><td> 'Schurter fuse smd'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Fuse.3dshapes/Fuse_Schurter_UMT250.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

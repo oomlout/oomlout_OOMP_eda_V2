@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SON-Infineon_PG-TISON-8-3|
 |Hex ID (short code)|hexID|FZKSONINFINEONPGTISON83|
 |name|name|Package_SON : Infineon_PG-TISON-8-3|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Infineon_PG-TISON-8-3', 'description': 'Infineon, PG-TISON-8-2, 5x6x1.15mm, 1.27mm Pitch, Exposed Paddle, https://www.infineon.com/cms/en/product/packages/PG-TISON/PG-TISON-8-2/', 'tags': 'tison', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SON.3dshapes/Infineon_PG-TISON-8-3.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Infineon_PG-TISON-8-3'</td><td> 'description'</td></tr><tr><td> 'Infineon</td><td> PG-TISON-8-2</td><td> 5x6x1.15mm</td><td> 1.27mm Pitch</td><td> Exposed Paddle</td><td> https</td></tr><tr><td>//www.infineon.com/cms/en/product/packages/PG-TISON/PG-TISON-8-2/'</td><td> 'tags'</td></tr><tr><td> 'tison'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_SON.3dshapes/Infineon_PG-TISON-8-3.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZK74XX74AHCT273 > 74AHCT273
+# SZK74XX74AHCT273 > 74xx : 74AHCT273
 
 - ID: SYMBOL-kicad-kicad-symbols-74xx-74AHCT273
 - Hex ID: SZK74XX74AHCT273
-- Name: 74AHCT273
-- Description: 74AHCT273
+- Name: 74xx : 74AHCT273
+- Description: 74xx : 74AHCT273
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx-74AHCT273](http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx-74AHCT273)
 - Short Link: [http://oom.lt/SZK74XX74AHCT273](http://oom.lt/SZK74XX74AHCT273)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74AHCT273|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xx-74AHCT273|
 |Hex ID (short code)|hexID|SZK74XX74AHCT273|
-|name|name|74AHCT273|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '74LS273', 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74AHCT273', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://assets.nexperia.com/documents/data-sheet/74AHC_AHCT273.pdf', 'kicadSymbolki_keywords': 'AHCTMOS DFF DFF8', 'kicadSymbolki_description': '8-bit D Flip-Flop, reset', 'kicadSymbolki_fp_filters': 'DIP?20* SO?20* SOIC?20*'}]|
+|name|name|74xx : 74AHCT273|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> '74LS273'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> '74AHCT273'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//assets.nexperia.com/documents/data-sheet/74AHC_AHCT273.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'AHCTMOS DFF DFF8'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '8-bit D Flip-Flop</td><td> reset'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP?20* SO?20* SOIC?20*'</td></tr></table>]|
 ||||

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Calibration_Scale-Gauge_100mm_Grid_Type1_CopperTop|
 |Hex ID (short code)|hexID|FZKCSGAUGE1GRIDTYPE1CTOP|
 |name|name|Calibration_Scale : Gauge_100mm_Grid_Type1_CopperTop|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Gauge_100mm_Grid_Type1_CopperTop', 'description': 'Gauge, Massstab, 100mm, Gitter, Grid, CopperTop, Type 1,', 'tags': 'Gauge Massstab 100mm Gitter Grid CopperTop Type 1', 'attributeType': None, 'pins': {}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Gauge_100mm_Grid_Type1_CopperTop'</td><td> 'description'</td></tr><tr><td> 'Gauge</td><td> Massstab</td><td> 100mm</td><td> Gitter</td><td> Grid</td><td> CopperTop</td><td> Type 1</td><td>'</td><td> 'tags'</td></tr><tr><td> 'Gauge Massstab 100mm Gitter Grid CopperTop Type 1'</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td></td></tr></table></td></tr></table>|
 ||||
 
 

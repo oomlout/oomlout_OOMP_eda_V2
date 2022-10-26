@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUNXPKINETISMKL16Z256VMP4 > MKL16Z256VMP4
+# SZKMCUNXPKINETISMKL16Z256VMP4 > MCU_NXP_Kinetis : MKL16Z256VMP4
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_NXP_Kinetis-MKL16Z256VMP4
 - Hex ID: SZKMCUNXPKINETISMKL16Z256VMP4
-- Name: MKL16Z256VMP4
-- Description: MKL16Z256VMP4
+- Name: MCU_NXP_Kinetis : MKL16Z256VMP4
+- Description: MCU_NXP_Kinetis : MKL16Z256VMP4
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_Kinetis-MKL16Z256VMP4](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_Kinetis-MKL16Z256VMP4)
 - Short Link: [http://oom.lt/SZKMCUNXPKINETISMKL16Z256VMP4](http://oom.lt/SZKMCUNXPKINETISMKL16Z256VMP4)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MKL16Z256VMP4|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_NXP_Kinetis-MKL16Z256VMP4|
 |Hex ID (short code)|hexID|SZKMCUNXPKINETISMKL16Z256VMP4|
-|name|name|MKL16Z256VMP4|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MKL16Z256VMP4', 'kicadSymbolFootprint': 'Package_BGA:XFBGA-64_5.0x5.0mm_Layout8x8_P0.5mm', 'kicadSymbolDatasheet': 'http://www.nxp.com/docs/en/data-sheet/KL16P64M48SF4.pdf', 'kicadSymbolki_keywords': 'Kinetis KL16 ARM Cortex M0+', 'kicadSymbolki_description': 'Kinetis KL16 series, 48-MHz/32-bit ARM Cortex-M0+, 256 kB flash, 32 kB SRAM, I²S, TSI, MAPBGA-64', 'kicadSymbolki_fp_filters': 'XFBGA*5.0x5.0mm*P0.5mm*'}]|
+|name|name|MCU_NXP_Kinetis : MKL16Z256VMP4|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MKL16Z256VMP4'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_BGA</td></tr><tr><td>XFBGA-64_5.0x5.0mm_Layout8x8_P0.5mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.nxp.com/docs/en/data-sheet/KL16P64M48SF4.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Kinetis KL16 ARM Cortex M0+'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Kinetis KL16 series</td><td> 48-MHz/32-bit ARM Cortex-M0+</td><td> 256 kB flash</td><td> 32 kB SRAM</td><td> I²S</td><td> TSI</td><td> MAPBGA-64'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'XFBGA*5.0x5.0mm*P0.5mm*'</td></tr></table>]|
 ||||

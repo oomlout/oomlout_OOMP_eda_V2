@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-TO-50-3_ShortPad-NoHole_Housing|
 |Hex ID (short code)|hexID|FZKPACKAGETOSOTSMTO53SHORTPADNHHOUSING|
 |name|name|Package_TO_SOT_SMD : TO-50-3_ShortPad-NoHole_Housing|
-|Footprint Kicad|footprintKicadDetails|{'name': 'TO-50-3_ShortPad-NoHole_Housing', 'description': 'TO-50-3 Macro T Package Style M236', 'tags': 'TO-50-3 Macro T Package Style M236', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/TO-50-3_ShortPad-NoHole_Housing.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'TO-50-3_ShortPad-NoHole_Housing'</td><td> 'description'</td></tr><tr><td> 'TO-50-3 Macro T Package Style M236'</td><td> 'tags'</td></tr><tr><td> 'TO-50-3 Macro T Package Style M236'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_TO_SOT_SMD.3dshapes/TO-50-3_ShortPad-NoHole_Housing.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

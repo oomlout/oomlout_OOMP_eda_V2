@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKSENOPTICALPMTX8DYN > PMTx08Dyn
+# SZKSENOPTICALPMTX8DYN > Sensor_Optical : PMTx08Dyn
 
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Optical-PMTx08Dyn
 - Hex ID: SZKSENOPTICALPMTX8DYN
-- Name: PMTx08Dyn
-- Description: PMTx08Dyn
+- Name: Sensor_Optical : PMTx08Dyn
+- Description: Sensor_Optical : PMTx08Dyn
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-PMTx08Dyn](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-PMTx08Dyn)
 - Short Link: [http://oom.lt/SZKSENOPTICALPMTX8DYN](http://oom.lt/SZKSENOPTICALPMTX8DYN)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PMTx08Dyn|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Optical-PMTx08Dyn|
 |Hex ID (short code)|hexID|SZKSENOPTICALPMTX8DYN|
-|name|name|PMTx08Dyn|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'PMT', 'kicadSymbolValue': 'PMTx08Dyn', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'PMT 8-stage', 'kicadSymbolki_description': '8-stage photomultiplier tube', 'kicadSymbolki_fp_filters': 'PMT*'}]|
+|name|name|Sensor_Optical : PMTx08Dyn|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'PMT'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'PMTx08Dyn'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'PMT 8-stage'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '8-stage photomultiplier tube'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'PMT*'</td></tr></table>]|
 ||||

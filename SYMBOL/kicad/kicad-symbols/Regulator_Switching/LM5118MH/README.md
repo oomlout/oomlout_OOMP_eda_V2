@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORSWITCHINGLM5118MH > LM5118MH
+# SZKREGULATORSWITCHINGLM5118MH > Regulator_Switching : LM5118MH
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM5118MH
 - Hex ID: SZKREGULATORSWITCHINGLM5118MH
-- Name: LM5118MH
-- Description: LM5118MH
+- Name: Regulator_Switching : LM5118MH
+- Description: Regulator_Switching : LM5118MH
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM5118MH](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM5118MH)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGLM5118MH](http://oom.lt/SZKREGULATORSWITCHINGLM5118MH)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM5118MH|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM5118MH|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGLM5118MH|
-|name|name|LM5118MH|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM5118MH', 'kicadSymbolFootprint': 'Package_SO:Texas_PWP0020A', 'kicadSymbolDatasheet': 'https://www.ti.com/lit/ds/symlink/lm5118.pdf', 'kicadSymbolki_keywords': 'Buck Boost step-up step-down', 'kicadSymbolki_description': 'Wide Voltage Range Buck-Boost Controller, HTSSOP-20', 'kicadSymbolki_fp_filters': 'Texas*PWP0020A*'}]|
+|name|name|Regulator_Switching : LM5118MH|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LM5118MH'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>Texas_PWP0020A'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.ti.com/lit/ds/symlink/lm5118.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Buck Boost step-up step-down'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Wide Voltage Range Buck-Boost Controller</td><td> HTSSOP-20'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Texas*PWP0020A*'</td></tr></table>]|
 ||||

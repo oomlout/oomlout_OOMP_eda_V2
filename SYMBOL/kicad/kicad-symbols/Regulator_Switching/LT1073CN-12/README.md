@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORSWITCHINGLT173CN12 > LT1073CN-12
+# SZKREGULATORSWITCHINGLT173CN12 > Regulator_Switching : LT1073CN-12
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-LT1073CN-12
 - Hex ID: SZKREGULATORSWITCHINGLT173CN12
-- Name: LT1073CN-12
-- Description: LT1073CN-12
+- Name: Regulator_Switching : LT1073CN-12
+- Description: Regulator_Switching : LT1073CN-12
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LT1073CN-12](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LT1073CN-12)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGLT173CN12](http://oom.lt/SZKREGULATORSWITCHINGLT173CN12)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LT1073CN-12|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-LT1073CN-12|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGLT173CN12|
-|name|name|LT1073CN-12|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LT1073CN-5', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LT1073CN-12', 'kicadSymbolFootprint': 'Package_DIP:DIP-8_W7.62mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/1073fa.pdf', 'kicadSymbolki_keywords': 'Micropower DC/DC Converter', 'kicadSymbolki_description': 'Micropower DC/DC Converter, Fixed 12V Output Voltage, DIP-8', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
+|name|name|Regulator_Switching : LT1073CN-12|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'LT1073CN-5'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LT1073CN-12'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>DIP-8_W7.62mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/1073fa.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Micropower DC/DC Converter'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Micropower DC/DC Converter</td><td> Fixed 12V Output Voltage</td><td> DIP-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W7.62mm*'</td></tr></table>]|
 ||||

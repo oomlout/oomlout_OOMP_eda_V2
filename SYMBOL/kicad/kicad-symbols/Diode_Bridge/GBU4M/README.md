@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDIODEBRIDGEGBU4M > GBU4M
+# SZKDIODEBRIDGEGBU4M > Diode_Bridge : GBU4M
 
 - ID: SYMBOL-kicad-kicad-symbols-Diode_Bridge-GBU4M
 - Hex ID: SZKDIODEBRIDGEGBU4M
-- Name: GBU4M
-- Description: GBU4M
+- Name: Diode_Bridge : GBU4M
+- Description: Diode_Bridge : GBU4M
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-GBU4M](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-GBU4M)
 - Short Link: [http://oom.lt/SZKDIODEBRIDGEGBU4M](http://oom.lt/SZKDIODEBRIDGEGBU4M)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|GBU4M|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode_Bridge-GBU4M|
 |Hex ID (short code)|hexID|SZKDIODEBRIDGEGBU4M|
-|name|name|GBU4M|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'GBU4A', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'GBU4M', 'kicadSymbolFootprint': 'Diode_THT:Diode_Bridge_Vishay_GBU', 'kicadSymbolDatasheet': 'http://www.vishay.com/docs/88656/gbu4a.pdf', 'kicadSymbolki_keywords': 'rectifier acdc', 'kicadSymbolki_description': 'Single-Phase Bridge Rectifier, 700V Vrms, 4.0A If, GBU package', 'kicadSymbolki_fp_filters': 'Diode*Bridge*Vishay*GBU*'}]|
+|name|name|Diode_Bridge : GBU4M|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'GBU4A'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'GBU4M'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Diode_THT</td></tr><tr><td>Diode_Bridge_Vishay_GBU'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.vishay.com/docs/88656/gbu4a.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'rectifier acdc'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Single-Phase Bridge Rectifier</td><td> 700V Vrms</td><td> 4.0A If</td><td> GBU package'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Diode*Bridge*Vishay*GBU*'</td></tr></table>]|
 ||||

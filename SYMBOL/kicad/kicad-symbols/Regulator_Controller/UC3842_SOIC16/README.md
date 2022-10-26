@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORCONTROLLERUC3842SOIC16 > UC3842_SOIC16
+# SZKREGULATORCONTROLLERUC3842SOIC16 > Regulator_Controller : UC3842_SOIC16
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Controller-UC3842_SOIC16
 - Hex ID: SZKREGULATORCONTROLLERUC3842SOIC16
-- Name: UC3842_SOIC16
-- Description: UC3842_SOIC16
+- Name: Regulator_Controller : UC3842_SOIC16
+- Description: Regulator_Controller : UC3842_SOIC16
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-UC3842_SOIC16](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-UC3842_SOIC16)
 - Short Link: [http://oom.lt/SZKREGULATORCONTROLLERUC3842SOIC16](http://oom.lt/SZKREGULATORCONTROLLERUC3842SOIC16)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|UC3842_SOIC16|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Controller-UC3842_SOIC16|
 |Hex ID (short code)|hexID|SZKREGULATORCONTROLLERUC3842SOIC16|
-|name|name|UC3842_SOIC16|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'UC3842_SOIC16', 'kicadSymbolFootprint': 'Package_SO:SOIC-16W_7.5x10.3mm_P1.27mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/uc2843a.pdf', 'kicadSymbolki_keywords': 'SMPS PWM Controller', 'kicadSymbolki_description': 'Current-Mode PWM Controllers, 100% Duty Cycle, 16V/10V UVLO, SOIC-16', 'kicadSymbolki_fp_filters': 'SOIC*7.5x10.3mm*P1.27mm*'}]|
+|name|name|Regulator_Controller : UC3842_SOIC16|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'UC3842_SOIC16'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-16W_7.5x10.3mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/uc2843a.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'SMPS PWM Controller'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Current-Mode PWM Controllers</td><td> 100% Duty Cycle</td><td> 16V/10V UVLO</td><td> SOIC-16'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*7.5x10.3mm*P1.27mm*'</td></tr></table>]|
 ||||

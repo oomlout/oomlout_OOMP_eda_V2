@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKINTERFACETELECOMFX614 > FX614
+# SZKINTERFACETELECOMFX614 > Interface_Telecom : FX614
 
 - ID: SYMBOL-kicad-kicad-symbols-Interface_Telecom-FX614
 - Hex ID: SZKINTERFACETELECOMFX614
-- Name: FX614
-- Description: FX614
+- Name: Interface_Telecom : FX614
+- Description: Interface_Telecom : FX614
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Telecom-FX614](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Telecom-FX614)
 - Short Link: [http://oom.lt/SZKINTERFACETELECOMFX614](http://oom.lt/SZKINTERFACETELECOMFX614)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|FX614|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_Telecom-FX614|
 |Hex ID (short code)|hexID|SZKINTERFACETELECOMFX614|
-|name|name|FX614|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'FX614', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.cmlmicro.com/wp-content/uploads/2017/06/FX614_ds.pdf', 'kicadSymbolki_keywords': 'Bell Modem', 'kicadSymbolki_description': 'Bell 202 Compatible Modem, DIP-16/SO-16', 'kicadSymbolki_fp_filters': 'DIP* PDIP* SO*'}]|
+|name|name|Interface_Telecom : FX614|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'FX614'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.cmlmicro.com/wp-content/uploads/2017/06/FX614_ds.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Bell Modem'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Bell 202 Compatible Modem</td><td> DIP-16/SO-16'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP* PDIP* SO*'</td></tr></table>]|
 ||||

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-OptoDevice-Everlight_ITR1201SR10AR|
 |Hex ID (short code)|hexID|FZKOPEVERLIGHTITR121SR1AR|
 |name|name|OptoDevice : Everlight_ITR1201SR10AR|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Everlight_ITR1201SR10AR', 'description': 'package for Everlight ITR1201SR10AR, light-direction upwards, see https://www.everlight.com/file/ProductFile/ITR1201SR10AR-TR.pdf', 'tags': 'reflective opto couple photo coupler', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/Everlight_ITR1201SR10AR.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Everlight_ITR1201SR10AR'</td><td> 'description'</td></tr><tr><td> 'package for Everlight ITR1201SR10AR</td><td> light-direction upwards</td><td> see https</td></tr><tr><td>//www.everlight.com/file/ProductFile/ITR1201SR10AR-TR.pdf'</td><td> 'tags'</td></tr><tr><td> 'reflective opto couple photo coupler'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/OptoDevice.3dshapes/Everlight_ITR1201SR10AR.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

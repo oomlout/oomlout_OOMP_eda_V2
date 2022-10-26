@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUSTSTM32F3STM32F373V8HX > STM32F373V8Hx
+# SZKMCUSTSTM32F3STM32F373V8HX > MCU_ST_STM32F3 : STM32F373V8Hx
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F3-STM32F373V8Hx
 - Hex ID: SZKMCUSTSTM32F3STM32F373V8HX
-- Name: STM32F373V8Hx
-- Description: STM32F373V8Hx
+- Name: MCU_ST_STM32F3 : STM32F373V8Hx
+- Description: MCU_ST_STM32F3 : STM32F373V8Hx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F3-STM32F373V8Hx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F3-STM32F373V8Hx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32F3STM32F373V8HX](http://oom.lt/SZKMCUSTSTM32F3STM32F373V8HX)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|STM32F373V8Hx|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F3-STM32F373V8Hx|
 |Hex ID (short code)|hexID|SZKMCUSTSTM32F3STM32F373V8HX|
-|name|name|STM32F373V8Hx|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'STM32F373V8Hx', 'kicadSymbolFootprint': 'Package_BGA:UFBGA-100_7x7mm_Layout12x12_P0.5mm', 'kicadSymbolDatasheet': 'http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00046749.pdf', 'kicadSymbolki_keywords': 'ARM Cortex-M4 STM32F3 STM32F373', 'kicadSymbolki_description': 'ARM Cortex-M4 MCU, 64KB flash, 16KB RAM, 72MHz, 2-3.6V, 84 GPIO, UFBGA-100', 'kicadSymbolki_fp_filters': 'UFBGA*7x7mm*Layout12x12*P0.5mm*'}]|
+|name|name|MCU_ST_STM32F3 : STM32F373V8Hx|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'STM32F373V8Hx'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_BGA</td></tr><tr><td>UFBGA-100_7x7mm_Layout12x12_P0.5mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00046749.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'ARM Cortex-M4 STM32F3 STM32F373'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'ARM Cortex-M4 MCU</td><td> 64KB flash</td><td> 16KB RAM</td><td> 72MHz</td><td> 2-3.6V</td><td> 84 GPIO</td><td> UFBGA-100'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'UFBGA*7x7mm*Layout12x12*P0.5mm*'</td></tr></table>]|
 ||||

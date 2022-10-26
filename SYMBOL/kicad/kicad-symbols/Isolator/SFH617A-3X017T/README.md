@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKISOLATORSFH617A3X17T > SFH617A-3X017T
+# SZKISOLATORSFH617A3X17T > Isolator : SFH617A-3X017T
 
 - ID: SYMBOL-kicad-kicad-symbols-Isolator-SFH617A-3X017T
 - Hex ID: SZKISOLATORSFH617A3X17T
-- Name: SFH617A-3X017T
-- Description: SFH617A-3X017T
+- Name: Isolator : SFH617A-3X017T
+- Description: Isolator : SFH617A-3X017T
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-SFH617A-3X017T](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-SFH617A-3X017T)
 - Short Link: [http://oom.lt/SZKISOLATORSFH617A3X17T](http://oom.lt/SZKISOLATORSFH617A3X17T)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SFH617A-3X017T|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Isolator-SFH617A-3X017T|
 |Hex ID (short code)|hexID|SZKISOLATORSFH617A3X17T|
-|name|name|SFH617A-3X017T|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'SFH617A-1X007T', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'SFH617A-3X017T', 'kicadSymbolFootprint': 'Package_DIP:SMDIP-4_W9.53mm_Clearance8mm', 'kicadSymbolDatasheet': 'http://www.vishay.com/docs/83740/sfh617a.pdf', 'kicadSymbolki_keywords': 'Optocoupler, Phototransistor Output, 5300 VRMS, VCEO 70V, CTR% 100-200', 'kicadSymbolki_description': 'Optocoupler, Phototransistor Output, 5300 VRMS, VCEO 70V, CTR% 100-200, -55 to +110 degree Celsius, VDE, UL, BSI, FIMKO, 8mm clearence SMD PDIP-4', 'kicadSymbolki_fp_filters': 'SMDIP*W9.53mm*Clearance8mm*'}]|
+|name|name|Isolator : SFH617A-3X017T|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'SFH617A-1X007T'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'SFH617A-3X017T'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>SMDIP-4_W9.53mm_Clearance8mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.vishay.com/docs/83740/sfh617a.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Optocoupler</td><td> Phototransistor Output</td><td> 5300 VRMS</td><td> VCEO 70V</td><td> CTR% 100-200'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Optocoupler</td><td> Phototransistor Output</td><td> 5300 VRMS</td><td> VCEO 70V</td><td> CTR% 100-200</td><td> -55 to +110 degree Celsius</td><td> VDE</td><td> UL</td><td> BSI</td><td> FIMKO</td><td> 8mm clearence SMD PDIP-4'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SMDIP*W9.53mm*Clearance8mm*'</td></tr></table>]|
 ||||

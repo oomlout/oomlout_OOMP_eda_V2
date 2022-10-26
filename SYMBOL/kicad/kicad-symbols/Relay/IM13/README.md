@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKRELAYIM13 > IM13
+# SZKRELAYIM13 > Relay : IM13
 
 - ID: SYMBOL-kicad-kicad-symbols-Relay-IM13
 - Hex ID: SZKRELAYIM13
-- Name: IM13
-- Description: IM13
+- Name: Relay : IM13
+- Description: Relay : IM13
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-IM13](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-IM13)
 - Short Link: [http://oom.lt/SZKRELAYIM13](http://oom.lt/SZKRELAYIM13)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IM13|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Relay-IM13|
 |Hex ID (short code)|hexID|SZKRELAYIM13|
-|name|name|IM13|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'IM11', 'kicadSymbolReference': 'K', 'kicadSymbolValue': 'IM13', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=108-98001&DocType=SS&DocLang=EN', 'kicadSymbolki_keywords': 'relay monastable sensitive', 'kicadSymbolki_description': 'IM Relay, sensitive version, monostable, switching current 2/5A, power 60W/62.5VA, voltage 220VDC/250VAC', 'kicadSymbolki_fp_filters': 'Relay*DPDT*AXICOM*IMSeries*'}]|
+|name|name|Relay : IM13|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'IM11'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'K'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'IM13'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=108-98001&DocType=SS&DocLang=EN'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'relay monastable sensitive'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'IM Relay</td><td> sensitive version</td><td> monostable</td><td> switching current 2/5A</td><td> power 60W/62.5VA</td><td> voltage 220VDC/250VAC'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Relay*DPDT*AXICOM*IMSeries*'</td></tr></table>]|
 ||||

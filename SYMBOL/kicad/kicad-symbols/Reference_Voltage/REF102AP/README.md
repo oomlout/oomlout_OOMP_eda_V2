@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREFERENCEVOLTAGEREF12AP > REF102AP
+# SZKREFERENCEVOLTAGEREF12AP > Reference_Voltage : REF102AP
 
 - ID: SYMBOL-kicad-kicad-symbols-Reference_Voltage-REF102AP
 - Hex ID: SZKREFERENCEVOLTAGEREF12AP
-- Name: REF102AP
-- Description: REF102AP
+- Name: Reference_Voltage : REF102AP
+- Description: Reference_Voltage : REF102AP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-REF102AP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-REF102AP)
 - Short Link: [http://oom.lt/SZKREFERENCEVOLTAGEREF12AP](http://oom.lt/SZKREFERENCEVOLTAGEREF12AP)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|REF102AP|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Reference_Voltage-REF102AP|
 |Hex ID (short code)|hexID|SZKREFERENCEVOLTAGEREF12AP|
-|name|name|REF102AP|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'REF102AP', 'kicadSymbolFootprint': 'Package_DIP:DIP-8_W7.62mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/ref102.pdf', 'kicadSymbolki_keywords': 'Precision Voltage Reference 10V', 'kicadSymbolki_description': '10V ±10mV Precision Voltage Reference, PDIP-8', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
+|name|name|Reference_Voltage : REF102AP|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'REF102AP'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>DIP-8_W7.62mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/ref102.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Precision Voltage Reference 10V'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '10V ±10mV Precision Voltage Reference</td><td> PDIP-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W7.62mm*'</td></tr></table>]|
 ||||

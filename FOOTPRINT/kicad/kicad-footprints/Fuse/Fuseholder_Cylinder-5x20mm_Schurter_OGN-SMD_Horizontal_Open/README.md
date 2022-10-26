@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Fuse-Fuseholder_Cylinder-5x20mm_Schurter_OGN-SMD_Horizontal_Open|
 |Hex ID (short code)|hexID|FZKFUFUHOLDERCYLINDER5X2SCHURTEROGNSMHORIZONTALOPEN|
 |name|name|Fuse : Fuseholder_Cylinder-5x20mm_Schurter_OGN-SMD_Horizontal_Open|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Fuseholder_Cylinder-5x20mm_Schurter_OGN-SMD_Horizontal_Open', 'description': 'Fuseholder horizontal open, 5x20mm, 500V, 16A (https://us.schurter.com/bundles/snceschurter/epim/_ProdPool_/newDS/en/typ_OGN-SMD.pdf)', 'tags': 'Fuseholder horizontal open 5x20 Schurter 0031.8221', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Fuse.3dshapes/Fuseholder_Cylinder-5x20mm_Schurter_OGN-SMD_Horizontal_Open.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Fuseholder_Cylinder-5x20mm_Schurter_OGN-SMD_Horizontal_Open'</td><td> 'description'</td></tr><tr><td> 'Fuseholder horizontal open</td><td> 5x20mm</td><td> 500V</td><td> 16A (https</td></tr><tr><td>//us.schurter.com/bundles/snceschurter/epim/_ProdPool_/newDS/en/typ_OGN-SMD.pdf)'</td><td> 'tags'</td></tr><tr><td> 'Fuseholder horizontal open 5x20 Schurter 0031.8221'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Fuse.3dshapes/Fuseholder_Cylinder-5x20mm_Schurter_OGN-SMD_Horizontal_Open.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

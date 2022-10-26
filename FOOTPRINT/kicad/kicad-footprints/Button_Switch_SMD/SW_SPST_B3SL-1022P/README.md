@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_SPST_B3SL-1022P|
 |Hex ID (short code)|hexID|FZKBSWITCHSMSWSPSTB3SL122P|
 |name|name|Button_Switch_SMD : SW_SPST_B3SL-1022P|
-|Footprint Kicad|footprintKicadDetails|{'name': 'SW_SPST_B3SL-1022P', 'description': 'Middle Stroke Tactile Switch, B3SL', 'tags': 'Middle Stroke Tactile Switch', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_SPST_B3SL-1022P.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SW_SPST_B3SL-1022P'</td><td> 'description'</td></tr><tr><td> 'Middle Stroke Tactile Switch</td><td> B3SL'</td><td> 'tags'</td></tr><tr><td> 'Middle Stroke Tactile Switch'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Button_Switch_SMD.3dshapes/SW_SPST_B3SL-1022P.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

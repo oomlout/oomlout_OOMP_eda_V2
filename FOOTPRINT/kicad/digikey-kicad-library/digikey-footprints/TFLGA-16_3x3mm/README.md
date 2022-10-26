@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TFLGA-16_3x3mm|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSTFLGA163X3|
 |name|name|digikey-footprints : TFLGA-16_3x3mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'TFLGA-16_3x3mm', 'description': 'http://www.st.com/content/ccc/resource/technical/document/datasheet/3e/48/02/c7/a4/e6/41/bb/DM00053090.pdf/files/DM00053090.pdf/jcr:content/translations/en.DM00053090.pdf', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'TFLGA-16_3x3mm'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//www.st.com/content/ccc/resource/technical/document/datasheet/3e/48/02/c7/a4/e6/41/bb/DM00053090.pdf/files/DM00053090.pdf/jcr</td></tr><tr><td>content/translations/en.DM00053090.pdf'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

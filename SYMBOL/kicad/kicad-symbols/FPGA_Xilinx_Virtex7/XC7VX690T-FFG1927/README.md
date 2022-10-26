@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKFPGAXILINXVIRTEX7XC7VX69TFFG1927 > XC7VX690T-FFG1927
+# SZKFPGAXILINXVIRTEX7XC7VX69TFFG1927 > FPGA_Xilinx_Virtex7 : XC7VX690T-FFG1927
 
 - ID: SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Virtex7-XC7VX690T-FFG1927
 - Hex ID: SZKFPGAXILINXVIRTEX7XC7VX69TFFG1927
-- Name: XC7VX690T-FFG1927
-- Description: XC7VX690T-FFG1927
+- Name: FPGA_Xilinx_Virtex7 : XC7VX690T-FFG1927
+- Description: FPGA_Xilinx_Virtex7 : XC7VX690T-FFG1927
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Virtex7-XC7VX690T-FFG1927](http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Virtex7-XC7VX690T-FFG1927)
 - Short Link: [http://oom.lt/SZKFPGAXILINXVIRTEX7XC7VX69TFFG1927](http://oom.lt/SZKFPGAXILINXVIRTEX7XC7VX69TFFG1927)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|XC7VX690T-FFG1927|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Virtex7-XC7VX690T-FFG1927|
 |Hex ID (short code)|hexID|SZKFPGAXILINXVIRTEX7XC7VX69TFFG1927|
-|name|name|XC7VX690T-FFG1927|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'XC7VX690T-FFG1927', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'FPGA', 'kicadSymbolki_description': 'Virtex 7 XT 690 XC7VX690T-FFG1927'}]|
+|name|name|FPGA_Xilinx_Virtex7 : XC7VX690T-FFG1927|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'XC7VX690T-FFG1927'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_locked'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'FPGA'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Virtex 7 XT 690 XC7VX690T-FFG1927'</td></tr></table>]|
 ||||

@@ -29,5 +29,5 @@ NO IMAGE
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Autotransformer_ZS1052-AC|
 |Hex ID (short code)|hexID|FZKTRAUTOTRZS152AC|
 |name|name|Transformer_THT : Autotransformer_ZS1052-AC|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Autotransformer_ZS1052-AC', 'description': 'Ignition coil for xenon flash, http://www.excelitas.com/downloads/ZS1052ACH.pdf', 'tags': 'ignition coil autotransformer', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Transformer_THT.3dshapes/Autotransformer_ZS1052-AC.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Autotransformer_ZS1052-AC'</td><td> 'description'</td></tr><tr><td> 'Ignition coil for xenon flash</td><td> http</td></tr><tr><td>//www.excelitas.com/downloads/ZS1052ACH.pdf'</td><td> 'tags'</td></tr><tr><td> 'ignition coil autotransformer'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Transformer_THT.3dshapes/Autotransformer_ZS1052-AC.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

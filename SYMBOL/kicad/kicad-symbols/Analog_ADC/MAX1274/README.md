@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKANALOGADCMAX1274 > MAX1274
+# SZKANALOGADCMAX1274 > Analog_ADC : MAX1274
 
 - ID: SYMBOL-kicad-kicad-symbols-Analog_ADC-MAX1274
 - Hex ID: SZKANALOGADCMAX1274
-- Name: MAX1274
-- Description: MAX1274
+- Name: Analog_ADC : MAX1274
+- Description: Analog_ADC : MAX1274
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-MAX1274](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-MAX1274)
 - Short Link: [http://oom.lt/SZKANALOGADCMAX1274](http://oom.lt/SZKANALOGADCMAX1274)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MAX1274|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_ADC-MAX1274|
 |Hex ID (short code)|hexID|SZKANALOGADCMAX1274|
-|name|name|MAX1274|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MAX1274', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://datasheets.maximintegrated.com/en/ds/MAX1274-MAX1275.pdf', 'kicadSymbolki_keywords': '12bit ADC 1CH diff differential', 'kicadSymbolki_description': '1.8Msps, Single-Supply, Low-Power, True-Differential, 12-Bit ADCs, bipolar input', 'kicadSymbolki_fp_filters': '*QFN*4x4mm*P0.8mm*'}]|
+|name|name|Analog_ADC : MAX1274|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MAX1274'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//datasheets.maximintegrated.com/en/ds/MAX1274-MAX1275.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> '12bit ADC 1CH diff differential'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '1.8Msps</td><td> Single-Supply</td><td> Low-Power</td><td> True-Differential</td><td> 12-Bit ADCs</td><td> bipolar input'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> '*QFN*4x4mm*P0.8mm*'</td></tr></table>]|
 ||||

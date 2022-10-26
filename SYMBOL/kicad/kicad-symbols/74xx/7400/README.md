@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZK74XX74 > 7400
+# SZK74XX74 > 74xx : 7400
 
 - ID: SYMBOL-kicad-kicad-symbols-74xx-7400
 - Hex ID: SZK74XX74
-- Name: 7400
-- Description: 7400
+- Name: 74xx : 7400
+- Description: 74xx : 7400
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx-7400](http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx-7400)
 - Short Link: [http://oom.lt/SZK74XX74](http://oom.lt/SZK74XX74)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|7400|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xx-7400|
 |Hex ID (short code)|hexID|SZK74XX74|
-|name|name|7400|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '74LS00', 'kicadSymbolReference': 'U', 'kicadSymbolValue': '7400', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/gpn/sn7400', 'kicadSymbolki_keywords': 'TTL nand 2-input', 'kicadSymbolki_description': 'quad 2-input NAND gate', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm* SO14*'}]|
+|name|name|74xx : 7400|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> '74LS00'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> '7400'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/gpn/sn7400'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'TTL nand 2-input'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'quad 2-input NAND gate'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W7.62mm* SO14*'</td></tr></table>]|
 ||||

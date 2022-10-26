@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMEMORYRAMKM62256CLP > KM62256CLP
+# SZKMEMORYRAMKM62256CLP > Memory_RAM : KM62256CLP
 
 - ID: SYMBOL-kicad-kicad-symbols-Memory_RAM-KM62256CLP
 - Hex ID: SZKMEMORYRAMKM62256CLP
-- Name: KM62256CLP
-- Description: KM62256CLP
+- Name: Memory_RAM : KM62256CLP
+- Description: Memory_RAM : KM62256CLP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_RAM-KM62256CLP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_RAM-KM62256CLP)
 - Short Link: [http://oom.lt/SZKMEMORYRAMKM62256CLP](http://oom.lt/SZKMEMORYRAMKM62256CLP)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|KM62256CLP|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Memory_RAM-KM62256CLP|
 |Hex ID (short code)|hexID|SZKMEMORYRAMKM62256CLP|
-|name|name|KM62256CLP|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'KM62256CLP', 'kicadSymbolFootprint': 'Package_DIP:DIP-28_W15.24mm', 'kicadSymbolDatasheet': 'https://www.futurlec.com/Datasheet/Memory/62256.pdf', 'kicadSymbolki_keywords': 'RAM SRAM CMOS MEMORY', 'kicadSymbolki_description': '32Kx8 bit Low Power CMOS Static RAM, 55/70ns, DIP-28', 'kicadSymbolki_fp_filters': 'DIP*W15.24mm*'}]|
+|name|name|Memory_RAM : KM62256CLP|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'KM62256CLP'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>DIP-28_W15.24mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.futurlec.com/Datasheet/Memory/62256.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'RAM SRAM CMOS MEMORY'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '32Kx8 bit Low Power CMOS Static RAM</td><td> 55/70ns</td><td> DIP-28'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W15.24mm*'</td></tr></table>]|
 ||||

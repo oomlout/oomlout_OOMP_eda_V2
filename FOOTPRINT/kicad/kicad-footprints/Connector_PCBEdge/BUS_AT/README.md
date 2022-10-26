@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_PCBEdge-BUS_AT|
 |Hex ID (short code)|hexID|FZKCNPCBEDGEBUSAT|
 |name|name|Connector_PCBEdge : BUS_AT|
-|Footprint Kicad|footprintKicadDetails|{'name': 'BUS_AT', 'description': 'AT ISA 16 bits Bus Edge Connector', 'tags': 'BUS ISA AT Edge connector', 'attributeType': None, 'pins': {'type': 'connect', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'BUS_AT'</td><td> 'description'</td></tr><tr><td> 'AT ISA 16 bits Bus Edge Connector'</td><td> 'tags'</td></tr><tr><td> 'BUS ISA AT Edge connector'</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'connect'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

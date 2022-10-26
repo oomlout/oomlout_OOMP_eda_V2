@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Axial_DIN0411_L9.9mm_D3.6mm_P7.62mm_Vertical|
 |Hex ID (short code)|hexID|FZKRRAXIALDIN411L99D36P762VERTICAL|
 |name|name|Resistor_THT : R_Axial_DIN0411_L9.9mm_D3.6mm_P7.62mm_Vertical|
-|Footprint Kicad|footprintKicadDetails|{'name': 'R_Axial_DIN0411_L9.9mm_D3.6mm_P7.62mm_Vertical', 'description': 'Resistor, Axial_DIN0411 series, Axial, Vertical, pin pitch=7.62mm, 1W, length*diameter=9.9*3.6mm^2', 'tags': 'Resistor Axial_DIN0411 series Axial Vertical pin pitch 7.62mm 1W length 9.9mm diameter 3.6mm', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_DIN0411_L9.9mm_D3.6mm_P7.62mm_Vertical.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'R_Axial_DIN0411_L9.9mm_D3.6mm_P7.62mm_Vertical'</td><td> 'description'</td></tr><tr><td> 'Resistor</td><td> Axial_DIN0411 series</td><td> Axial</td><td> Vertical</td><td> pin pitch=7.62mm</td><td> 1W</td><td> length*diameter=9.9*3.6mm^2'</td><td> 'tags'</td></tr><tr><td> 'Resistor Axial_DIN0411 series Axial Vertical pin pitch 7.62mm 1W length 9.9mm diameter 3.6mm'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Resistor_THT.3dshapes/R_Axial_DIN0411_L9.9mm_D3.6mm_P7.62mm_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC126XNF1V5C12N1 > CAPC-1206-X-NF100-V50-C12N100
+# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC126XNF1V5C12N1 > oomlout_OOMP_parts : CAPC-1206-X-NF100-V50-C12N100
 
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-1206-X-NF100-V50-C12N100
 - Hex ID: SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC126XNF1V5C12N1
-- Name: CAPC-1206-X-NF100-V50-C12N100
-- Description: CAPC-1206-X-NF100-V50-C12N100
+- Name: oomlout_OOMP_parts : CAPC-1206-X-NF100-V50-C12N100
+- Description: oomlout_OOMP_parts : CAPC-1206-X-NF100-V50-C12N100
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-1206-X-NF100-V50-C12N100](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-1206-X-NF100-V50-C12N100)
 - Short Link: [http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC126XNF1V5C12N1](http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC126XNF1V5C12N1)
   
@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|CAPC-1206-X-NF100-V50-C12N100|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-1206-X-NF100-V50-C12N100|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC126XNF1V5C12N1|
-|name|name|CAPC-1206-X-NF100-V50-C12N100|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'C', 'kicadSymbolValue': 'CAPC-1206-X-NF100-V50-C12N100', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:CAPC-1206-X-NF100-V50-C12N100', 'kicadSymbolDatasheet': 'oom.lt/C12N100', 'kicadSymbolki_keywords': 'cap capacitor', 'kicadSymbolki_description': 'hexID: C12N100;PARTL C-JLCC;C24497;MANUF C-XXXX;CL31B104KBCNNNC;Unpolarized capacitor', 'kicadSymbolki_fp_filters': 'C_*'}]|
+|name|name|oomlout_OOMP_parts : CAPC-1206-X-NF100-V50-C12N100|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'C'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'CAPC-1206-X-NF100-V50-C12N100'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'oomlout_OOMP_parts</td></tr><tr><td>CAPC-1206-X-NF100-V50-C12N100'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'oom.lt/C12N100'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'cap capacitor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'hexID</td></tr><tr><td> C12N100;PARTL C-JLCC;C24497;MANUF C-XXXX;CL31B104KBCNNNC;Unpolarized capacitor'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'C_*'</td></tr></table>]|
 ||||

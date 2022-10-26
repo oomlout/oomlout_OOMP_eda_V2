@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREFERENCEVOLTAGELT119XN8 > LT1019xN8
+# SZKREFERENCEVOLTAGELT119XN8 > Reference_Voltage : LT1019xN8
 
 - ID: SYMBOL-kicad-kicad-symbols-Reference_Voltage-LT1019xN8
 - Hex ID: SZKREFERENCEVOLTAGELT119XN8
-- Name: LT1019xN8
-- Description: LT1019xN8
+- Name: Reference_Voltage : LT1019xN8
+- Description: Reference_Voltage : LT1019xN8
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-LT1019xN8](http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-LT1019xN8)
 - Short Link: [http://oom.lt/SZKREFERENCEVOLTAGELT119XN8](http://oom.lt/SZKREFERENCEVOLTAGELT119XN8)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LT1019xN8|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Reference_Voltage-LT1019xN8|
 |Hex ID (short code)|hexID|SZKREFERENCEVOLTAGELT119XN8|
-|name|name|LT1019xN8|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LT1019xN8', 'kicadSymbolFootprint': 'Package_DIP:DIP-8_W7.62mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/1019fd.pdf', 'kicadSymbolki_keywords': 'voltage reference vref', 'kicadSymbolki_description': 'Precision Reference, Ultra Low Drift, DIP-8', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
+|name|name|Reference_Voltage : LT1019xN8|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LT1019xN8'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>DIP-8_W7.62mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/1019fd.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'voltage reference vref'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Precision Reference</td><td> Ultra Low Drift</td><td> DIP-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W7.62mm*'</td></tr></table>]|
 ||||

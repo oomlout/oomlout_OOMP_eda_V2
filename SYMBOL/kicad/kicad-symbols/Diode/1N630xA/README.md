@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDIODE1N63XA > 1N630xA
+# SZKDIODE1N63XA > Diode : 1N630xA
 
 - ID: SYMBOL-kicad-kicad-symbols-Diode-1N630xA
 - Hex ID: SZKDIODE1N63XA
-- Name: 1N630xA
-- Description: 1N630xA
+- Name: Diode : 1N630xA
+- Description: Diode : 1N630xA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-1N630xA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-1N630xA)
 - Short Link: [http://oom.lt/SZKDIODE1N63XA](http://oom.lt/SZKDIODE1N63XA)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|1N630xA|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-1N630xA|
 |Hex ID (short code)|hexID|SZKDIODE1N63XA|
-|name|name|1N630xA|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '1.5KExxA', 'kicadSymbolReference': 'D', 'kicadSymbolValue': '1N630xA', 'kicadSymbolFootprint': 'Diode_THT:D_DO-201AE_P15.24mm_Horizontal', 'kicadSymbolDatasheet': 'https://www.vishay.com/docs/88301/15ke.pdf', 'kicadSymbolki_keywords': 'diode TVS voltage suppressor', 'kicadSymbolki_description': '1500W unidirectional TRANSZORB® Transient Voltage Suppressor, DO-201AE', 'kicadSymbolki_fp_filters': 'D?DO?201AE*'}]|
+|name|name|Diode : 1N630xA|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> '1.5KExxA'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> '1N630xA'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Diode_THT</td></tr><tr><td>D_DO-201AE_P15.24mm_Horizontal'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.vishay.com/docs/88301/15ke.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'diode TVS voltage suppressor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '1500W unidirectional TRANSZORB® Transient Voltage Suppressor</td><td> DO-201AE'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'D?DO?201AE*'</td></tr></table>]|
 ||||

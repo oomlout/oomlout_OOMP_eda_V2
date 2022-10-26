@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKINTERFACEOPTICALIS485 > IS485
+# SZKINTERFACEOPTICALIS485 > Interface_Optical : IS485
 
 - ID: SYMBOL-kicad-kicad-symbols-Interface_Optical-IS485
 - Hex ID: SZKINTERFACEOPTICALIS485
-- Name: IS485
-- Description: IS485
+- Name: Interface_Optical : IS485
+- Description: Interface_Optical : IS485
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Optical-IS485](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Optical-IS485)
 - Short Link: [http://oom.lt/SZKINTERFACEOPTICALIS485](http://oom.lt/SZKINTERFACEOPTICALIS485)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IS485|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_Optical-IS485|
 |Hex ID (short code)|hexID|SZKINTERFACEOPTICALIS485|
-|name|name|IS485|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'IS485', 'kicadSymbolFootprint': 'OptoDevice:Sharp_IS485', 'kicadSymbolDatasheet': 'https://media.digikey.com/pdf/Data%20Sheets/Sharp%20PDFs/is485,486_e.pdf', 'kicadSymbolki_keywords': 'opto receiver amplifier light detector OPIC', 'kicadSymbolki_description': 'Built-in Amplifier Type OPIC Light Detector', 'kicadSymbolki_fp_filters': 'Sharp*IS485*'}]|
+|name|name|Interface_Optical : IS485|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'IS485'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'OptoDevice</td></tr><tr><td>Sharp_IS485'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//media.digikey.com/pdf/Data%20Sheets/Sharp%20PDFs/is485</td><td>486_e.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'opto receiver amplifier light detector OPIC'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Built-in Amplifier Type OPIC Light Detector'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Sharp*IS485*'</td></tr></table>]|
 ||||

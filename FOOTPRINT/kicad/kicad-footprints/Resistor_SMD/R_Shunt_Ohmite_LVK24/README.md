@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_Shunt_Ohmite_LVK24|
 |Hex ID (short code)|hexID|FZKRESISTORSMRSHUNTOHMITELVK24|
 |name|name|Resistor_SMD : R_Shunt_Ohmite_LVK24|
-|Footprint Kicad|footprintKicadDetails|{'name': 'R_Shunt_Ohmite_LVK24', 'description': '4 contacts shunt resistor,https://www.ohmite.com/assets/docs/res_lvk.pdf', 'tags': '4 contacts resistor smd', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_Shunt_Ohmite_LVK24.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'R_Shunt_Ohmite_LVK24'</td><td> 'description'</td></tr><tr><td> '4 contacts shunt resistor</td><td>https</td></tr><tr><td>//www.ohmite.com/assets/docs/res_lvk.pdf'</td><td> 'tags'</td></tr><tr><td> '4 contacts resistor smd'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Resistor_SMD.3dshapes/R_Shunt_Ohmite_LVK24.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

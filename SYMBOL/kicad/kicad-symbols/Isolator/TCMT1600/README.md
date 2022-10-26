@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKISOLATORTCMT16 > TCMT1600
+# SZKISOLATORTCMT16 > Isolator : TCMT1600
 
 - ID: SYMBOL-kicad-kicad-symbols-Isolator-TCMT1600
 - Hex ID: SZKISOLATORTCMT16
-- Name: TCMT1600
-- Description: TCMT1600
+- Name: Isolator : TCMT1600
+- Description: Isolator : TCMT1600
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-TCMT1600](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-TCMT1600)
 - Short Link: [http://oom.lt/SZKISOLATORTCMT16](http://oom.lt/SZKISOLATORTCMT16)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TCMT1600|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Isolator-TCMT1600|
 |Hex ID (short code)|hexID|SZKISOLATORTCMT16|
-|name|name|TCMT1600|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TLP290', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TCMT1600', 'kicadSymbolFootprint': 'Package_SO:SOP-4_4.4x2.6mm_P1.27mm', 'kicadSymbolDatasheet': 'http://www.vishay.com/docs/83512/tcmt1600.pdf', 'kicadSymbolki_keywords': 'NPN AC DC Phototransistor Optocoupler', 'kicadSymbolki_description': 'AC/DC Phototransistor Optocoupler, Vce 70V, CTR 80-300%, SOP4', 'kicadSymbolki_fp_filters': 'SOP*4*4.4x2.6mm*P1.27mm*'}]|
+|name|name|Isolator : TCMT1600|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'TLP290'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TCMT1600'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOP-4_4.4x2.6mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.vishay.com/docs/83512/tcmt1600.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'NPN AC DC Phototransistor Optocoupler'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'AC/DC Phototransistor Optocoupler</td><td> Vce 70V</td><td> CTR 80-300%</td><td> SOP4'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOP*4*4.4x2.6mm*P1.27mm*'</td></tr></table>]|
 ||||

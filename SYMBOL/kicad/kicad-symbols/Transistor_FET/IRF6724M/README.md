@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORFETIRF6724M > IRF6724M
+# SZKTRANSISTORFETIRF6724M > Transistor_FET : IRF6724M
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF6724M
 - Hex ID: SZKTRANSISTORFETIRF6724M
-- Name: IRF6724M
-- Description: IRF6724M
+- Name: Transistor_FET : IRF6724M
+- Description: Transistor_FET : IRF6724M
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF6724M](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF6724M)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETIRF6724M](http://oom.lt/SZKTRANSISTORFETIRF6724M)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IRF6724M|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF6724M|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETIRF6724M|
-|name|name|IRF6724M|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BSB008NE2LX', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'IRF6724M', 'kicadSymbolFootprint': 'Package_DirectFET:DirectFET_MX', 'kicadSymbolDatasheet': 'https://www.infineon.com/dgdl/irf6724mpbf.pdf?fileId=5546d462533600a4015355ed51a01a94', 'kicadSymbolki_keywords': 'N-Channel MOSFET', 'kicadSymbolki_description': '27A Id, 30V Vds, 2.5mOhm Rds, N-Channel MOSFET, DirectFET MX', 'kicadSymbolki_fp_filters': 'DirectFET*MX*'}]|
+|name|name|Transistor_FET : IRF6724M|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'BSB008NE2LX'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'IRF6724M'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DirectFET</td></tr><tr><td>DirectFET_MX'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.infineon.com/dgdl/irf6724mpbf.pdf?fileId=5546d462533600a4015355ed51a01a94'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'N-Channel MOSFET'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '27A Id</td><td> 30V Vds</td><td> 2.5mOhm Rds</td><td> N-Channel MOSFET</td><td> DirectFET MX'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DirectFET*MX*'</td></tr></table>]|
 ||||

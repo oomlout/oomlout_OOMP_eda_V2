@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZK74XX74LS9 > 74LS90
+# SZK74XX74LS9 > 74xx : 74LS90
 
 - ID: SYMBOL-kicad-kicad-symbols-74xx-74LS90
 - Hex ID: SZK74XX74LS9
-- Name: 74LS90
-- Description: 74LS90
+- Name: 74xx : 74LS90
+- Description: 74xx : 74LS90
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx-74LS90](http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx-74LS90)
 - Short Link: [http://oom.lt/SZK74XX74LS9](http://oom.lt/SZK74XX74LS9)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74LS90|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xx-74LS90|
 |Hex ID (short code)|hexID|SZK74XX74LS9|
-|name|name|74LS90|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74LS90', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/gpn/sn74LS90', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'TTL CNT CNT4', 'kicadSymbolki_description': 'BCD Counter ( div 2 & div 5 )', 'kicadSymbolki_fp_filters': 'DIP?12*'}]|
+|name|name|74xx : 74LS90|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> '74LS90'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/gpn/sn74LS90'</td><td> 'kicadSymbolki_locked'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'TTL CNT CNT4'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'BCD Counter ( div 2 & div 5 )'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP?12*'</td></tr></table>]|
 ||||

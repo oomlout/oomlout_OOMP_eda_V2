@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORSWITCHINGTOP29G > TOP209G
+# SZKREGULATORSWITCHINGTOP29G > Regulator_Switching : TOP209G
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-TOP209G
 - Hex ID: SZKREGULATORSWITCHINGTOP29G
-- Name: TOP209G
-- Description: TOP209G
+- Name: Regulator_Switching : TOP209G
+- Description: Regulator_Switching : TOP209G
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TOP209G](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TOP209G)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGTOP29G](http://oom.lt/SZKREGULATORSWITCHINGTOP29G)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TOP209G|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-TOP209G|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGTOP29G|
-|name|name|TOP209G|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TOP209G', 'kicadSymbolFootprint': 'Package_DIP:PowerIntegrations_SMD-8', 'kicadSymbolDatasheet': 'http://www.powerint.com/sites/default/files/product-docs/top209210.pdf', 'kicadSymbolki_keywords': 'Three-terminal Off-line PWM Switch', 'kicadSymbolki_description': 'TOPSwitch Family, 2W Max Output Power, SMD-8', 'kicadSymbolki_fp_filters': 'PowerIntegrations?SMD?8*'}]|
+|name|name|Regulator_Switching : TOP209G|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TOP209G'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>PowerIntegrations_SMD-8'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.powerint.com/sites/default/files/product-docs/top209210.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Three-terminal Off-line PWM Switch'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'TOPSwitch Family</td><td> 2W Max Output Power</td><td> SMD-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'PowerIntegrations?SMD?8*'</td></tr></table>]|
 ||||

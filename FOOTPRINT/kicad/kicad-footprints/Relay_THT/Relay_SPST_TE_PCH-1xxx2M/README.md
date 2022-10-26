@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_SPST_TE_PCH-1xxx2M|
 |Hex ID (short code)|hexID|FZKRELRELAYSPSTTEPCH1XXX2M|
 |name|name|Relay_THT : Relay_SPST_TE_PCH-1xxx2M|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Relay_SPST_TE_PCH-1xxx2M', 'description': 'Miniature PCB Relay, PCH Series, 1 Form A (NO), SPST http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Data+Sheet%7FPCH_series_relay_data_sheet_E%7F1215%7Fpdf%7FEnglish%7FENG_DS_PCH_series_relay_data_sheet_E_1215.pdf', 'tags': 'Relay SPST NO', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Relay_THT.3dshapes/Relay_SPST_TE_PCH-1xxx2M.wrl', 'pins': {'type': 'thru_hole', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Relay_SPST_TE_PCH-1xxx2M'</td><td> 'description'</td></tr><tr><td> 'Miniature PCB Relay</td><td> PCH Series</td><td> 1 Form A (NO)</td><td> SPST http</td></tr><tr><td>//www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Data+Sheet%7FPCH_series_relay_data_sheet_E%7F1215%7Fpdf%7FEnglish%7FENG_DS_PCH_series_relay_data_sheet_E_1215.pdf'</td><td> 'tags'</td></tr><tr><td> 'Relay SPST NO'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Relay_THT.3dshapes/Relay_SPST_TE_PCH-1xxx2M.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

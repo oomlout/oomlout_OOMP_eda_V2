@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-RJ45_Female_RB1-125BAG1A|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSRJ45FEMALERB1125BAG1A|
 |name|name|digikey-footprints : RJ45_Female_RB1-125BAG1A|
-|Footprint Kicad|footprintKicadDetails|{'name': 'RJ45_Female_RB1-125BAG1A', 'description': 'https://www.shopwiznet.com/index.php/lanotattachments/download/file/id/95/store/1/', 'tags': None, 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'RJ45_Female_RB1-125BAG1A'</td><td> 'description'</td></tr><tr><td> 'https</td></tr><tr><td>//www.shopwiznet.com/index.php/lanotattachments/download/file/id/95/store/1/'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

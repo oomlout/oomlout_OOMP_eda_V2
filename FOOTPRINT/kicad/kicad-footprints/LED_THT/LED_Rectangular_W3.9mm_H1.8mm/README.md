@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_Rectangular_W3.9mm_H1.8mm|
 |Hex ID (short code)|hexID|FZKLLRW39H18|
 |name|name|LED_THT : LED_Rectangular_W3.9mm_H1.8mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'LED_Rectangular_W3.9mm_H1.8mm', 'description': 'LED_Rectangular, Rectangular,  Rectangular size 3.9x1.8mm^2, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-2774GD(Ver.7B).pdf', 'tags': 'LED_Rectangular Rectangular  Rectangular size 3.9x1.8mm^2 2 pins', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/LED_THT.3dshapes/LED_Rectangular_W3.9mm_H1.8mm.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'LED_Rectangular_W3.9mm_H1.8mm'</td><td> 'description'</td></tr><tr><td> 'LED_Rectangular</td><td> Rectangular</td><td>  Rectangular size 3.9x1.8mm^2</td><td> 2 pins</td><td> http</td></tr><tr><td>//www.kingbright.com/attachments/file/psearch/000/00/00/L-2774GD(Ver.7B).pdf'</td><td> 'tags'</td></tr><tr><td> 'LED_Rectangular Rectangular  Rectangular size 3.9x1.8mm^2 2 pins'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/LED_THT.3dshapes/LED_Rectangular_W3.9mm_H1.8mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

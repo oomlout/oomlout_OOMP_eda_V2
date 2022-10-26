@@ -26,5 +26,5 @@ NO IMAGES
 |Full OOMP ID|oompID|FOOTPRINT-kicad-oomlout_OOMP_kicad-oobbOutlines-OOBB-BASE|
 |Hex ID (short code)|hexID|FZKICADOOMLOUTOOMPKICADOOBBOUTLINESOOBBBASE|
 |name|name|oobbOutlines : OOBB-BASE|
-|Footprint Kicad|footprintKicadDetails|{'name': 'OOBB-BASE', 'tags': None, 'attributeType': None, 'pins': {}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'OOBB-BASE'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td></td></tr></table></td></tr></table>|
 ||||

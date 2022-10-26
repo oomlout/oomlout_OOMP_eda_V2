@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORFETCSD19534Q5A > CSD19534Q5A
+# SZKTRANSISTORFETCSD19534Q5A > Transistor_FET : CSD19534Q5A
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-CSD19534Q5A
 - Hex ID: SZKTRANSISTORFETCSD19534Q5A
-- Name: CSD19534Q5A
-- Description: CSD19534Q5A
+- Name: Transistor_FET : CSD19534Q5A
+- Description: Transistor_FET : CSD19534Q5A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-CSD19534Q5A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-CSD19534Q5A)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETCSD19534Q5A](http://oom.lt/SZKTRANSISTORFETCSD19534Q5A)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|CSD19534Q5A|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-CSD19534Q5A|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETCSD19534Q5A|
-|name|name|CSD19534Q5A|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'CSD17578Q5A', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'CSD19534Q5A', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TDSON-8-1', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/gpn/csd19534q5a', 'kicadSymbolki_keywords': 'NexFET Power MOSFET N-MOS', 'kicadSymbolki_description': '50A Id, 100V Vds, NexFET N-Channel Power MOSFET, 15.1mOhm Ron, 17nC Qg(typ), SON8 5x6mm', 'kicadSymbolki_fp_filters': 'TDSON*'}]|
+|name|name|Transistor_FET : CSD19534Q5A|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'CSD17578Q5A'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'CSD19534Q5A'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>TDSON-8-1'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/gpn/csd19534q5a'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'NexFET Power MOSFET N-MOS'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '50A Id</td><td> 100V Vds</td><td> NexFET N-Channel Power MOSFET</td><td> 15.1mOhm Ron</td><td> 17nC Qg(typ)</td><td> SON8 5x6mm'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TDSON*'</td></tr></table>]|
 ||||

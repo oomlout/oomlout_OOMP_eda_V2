@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKINTERFACEEXPANSIONLTC4317 > LTC4317
+# SZKINTERFACEEXPANSIONLTC4317 > Interface_Expansion : LTC4317
 
 - ID: SYMBOL-kicad-kicad-symbols-Interface_Expansion-LTC4317
 - Hex ID: SZKINTERFACEEXPANSIONLTC4317
-- Name: LTC4317
-- Description: LTC4317
+- Name: Interface_Expansion : LTC4317
+- Description: Interface_Expansion : LTC4317
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Expansion-LTC4317](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Expansion-LTC4317)
 - Short Link: [http://oom.lt/SZKINTERFACEEXPANSIONLTC4317](http://oom.lt/SZKINTERFACEEXPANSIONLTC4317)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LTC4317|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_Expansion-LTC4317|
 |Hex ID (short code)|hexID|SZKINTERFACEEXPANSIONLTC4317|
-|name|name|LTC4317|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LTC4317', 'kicadSymbolFootprint': 'Package_DFN_QFN:DFN-16-1EP_3x5mm_P0.5mm_EP1.66x4.4mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/4317fa.pdf', 'kicadSymbolki_keywords': 'I2C Translator 4kV-ESD Level-Shifter Hot-Swap', 'kicadSymbolki_description': 'Dual I2C/SMBus Address-Translator, DFN-16', 'kicadSymbolki_fp_filters': 'DFN*1EP*3x5mm*P0.5mm*'}]|
+|name|name|Interface_Expansion : LTC4317|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LTC4317'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>DFN-16-1EP_3x5mm_P0.5mm_EP1.66x4.4mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/4317fa.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'I2C Translator 4kV-ESD Level-Shifter Hot-Swap'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Dual I2C/SMBus Address-Translator</td><td> DFN-16'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DFN*1EP*3x5mm*P0.5mm*'</td></tr></table>]|
 ||||

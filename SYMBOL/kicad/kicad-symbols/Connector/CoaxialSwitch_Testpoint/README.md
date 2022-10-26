@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKCNCOAXIALSWITCHTP > CoaxialSwitch_Testpoint
+# SZKCNCOAXIALSWITCHTP > Connector : CoaxialSwitch_Testpoint
 
 - ID: SYMBOL-kicad-kicad-symbols-Connector-CoaxialSwitch_Testpoint
 - Hex ID: SZKCNCOAXIALSWITCHTP
-- Name: CoaxialSwitch_Testpoint
-- Description: CoaxialSwitch_Testpoint
+- Name: Connector : CoaxialSwitch_Testpoint
+- Description: Connector : CoaxialSwitch_Testpoint
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-CoaxialSwitch_Testpoint](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-CoaxialSwitch_Testpoint)
 - Short Link: [http://oom.lt/SZKCNCOAXIALSWITCHTP](http://oom.lt/SZKCNCOAXIALSWITCHTP)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|CoaxialSwitch_Testpoint|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-CoaxialSwitch_Testpoint|
 |Hex ID (short code)|hexID|SZKCNCOAXIALSWITCHTP|
-|name|name|CoaxialSwitch_Testpoint|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'TP', 'kicadSymbolValue': 'CoaxialSwitch_Testpoint', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': ' Coaxial Switch RF testpoint', 'kicadSymbolki_description': 'Subminiature Coaxial Switch testpoint', 'kicadSymbolki_fp_filters': 'CoaxialSwitch*'}]|
+|name|name|Connector : CoaxialSwitch_Testpoint|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'TP'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'CoaxialSwitch_Testpoint'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> ' Coaxial Switch RF testpoint'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Subminiature Coaxial Switch testpoint'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'CoaxialSwitch*'</td></tr></table>]|
 ||||

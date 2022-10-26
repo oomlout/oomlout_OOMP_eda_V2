@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDIGRAPHICEADOGXL167 > EA_DOGXL160-7
+# SZKDIGRAPHICEADOGXL167 > Display_Graphic : EA_DOGXL160-7
 
 - ID: SYMBOL-kicad-kicad-symbols-Display_Graphic-EA_DOGXL160-7
 - Hex ID: SZKDIGRAPHICEADOGXL167
-- Name: EA_DOGXL160-7
-- Description: EA_DOGXL160-7
+- Name: Display_Graphic : EA_DOGXL160-7
+- Description: Display_Graphic : EA_DOGXL160-7
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Graphic-EA_DOGXL160-7](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Graphic-EA_DOGXL160-7)
 - Short Link: [http://oom.lt/SZKDIGRAPHICEADOGXL167](http://oom.lt/SZKDIGRAPHICEADOGXL167)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|EA_DOGXL160-7|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Display_Graphic-EA_DOGXL160-7|
 |Hex ID (short code)|hexID|SZKDIGRAPHICEADOGXL167|
-|name|name|EA_DOGXL160-7|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'EA_DOGXL160-7', 'kicadSymbolFootprint': 'Display:EA_DOGXL160-7', 'kicadSymbolDatasheet': 'http://www.lcd-module.com/eng/pdf/grafik/dogxl160-7e.pdf', 'kicadSymbolki_keywords': 'display LCD graphic', 'kicadSymbolki_description': 'EA DOGXL160-7 Graphical Display 160x104 no back light I2C SPI 2.7-3.3V', 'kicadSymbolki_fp_filters': 'EA*DOGXL160*7*'}]|
+|name|name|Display_Graphic : EA_DOGXL160-7|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'EA_DOGXL160-7'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Display</td></tr><tr><td>EA_DOGXL160-7'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.lcd-module.com/eng/pdf/grafik/dogxl160-7e.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'display LCD graphic'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'EA DOGXL160-7 Graphical Display 160x104 no back light I2C SPI 2.7-3.3V'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'EA*DOGXL160*7*'</td></tr></table>]|
 ||||

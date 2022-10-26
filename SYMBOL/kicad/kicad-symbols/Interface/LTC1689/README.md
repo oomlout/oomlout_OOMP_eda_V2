@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKINTERFACELTC1689 > LTC1689
+# SZKINTERFACELTC1689 > Interface : LTC1689
 
 - ID: SYMBOL-kicad-kicad-symbols-Interface-LTC1689
 - Hex ID: SZKINTERFACELTC1689
-- Name: LTC1689
-- Description: LTC1689
+- Name: Interface : LTC1689
+- Description: Interface : LTC1689
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-LTC1689](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-LTC1689)
 - Short Link: [http://oom.lt/SZKINTERFACELTC1689](http://oom.lt/SZKINTERFACELTC1689)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LTC1689|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface-LTC1689|
 |Hex ID (short code)|hexID|SZKINTERFACELTC1689|
-|name|name|LTC1689|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LTC1689', 'kicadSymbolFootprint': 'Package_SO:SOIC-16_3.9x9.9mm_P1.27mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/16889fa.pdf', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'driver rs485 rs422 differential', 'kicadSymbolki_description': '100Mbps RS485 Hot Swapable Quad Drivers', 'kicadSymbolki_fp_filters': 'SOIC*16*3.9x9.9mm*P1.27mm*'}]|
+|name|name|Interface : LTC1689|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LTC1689'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-16_3.9x9.9mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/16889fa.pdf'</td><td> 'kicadSymbolki_locked'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'driver rs485 rs422 differential'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '100Mbps RS485 Hot Swapable Quad Drivers'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*16*3.9x9.9mm*P1.27mm*'</td></tr></table>]|
 ||||

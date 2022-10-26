@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORLINEARTLV73315PDBV > TLV73315PDBV
+# SZKREGULATORLINEARTLV73315PDBV > Regulator_Linear : TLV73315PDBV
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-TLV73315PDBV
 - Hex ID: SZKREGULATORLINEARTLV73315PDBV
-- Name: TLV73315PDBV
-- Description: TLV73315PDBV
+- Name: Regulator_Linear : TLV73315PDBV
+- Description: Regulator_Linear : TLV73315PDBV
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TLV73315PDBV](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TLV73315PDBV)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARTLV73315PDBV](http://oom.lt/SZKREGULATORLINEARTLV73315PDBV)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TLV73315PDBV|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-TLV73315PDBV|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARTLV73315PDBV|
-|name|name|TLV73315PDBV|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LD39015M08R', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TLV73315PDBV', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-5', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tlv733p.pdf', 'kicadSymbolki_keywords': '300mA LDO Regulator Fixed Positive Capacitor-Free', 'kicadSymbolki_description': '300mA Capacitor-Free Low Dropout Voltage Regulator, Fixed Output 1.5V, SOT-23-5', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
+|name|name|Regulator_Linear : TLV73315PDBV|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'LD39015M08R'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TLV73315PDBV'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-23-5'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/tlv733p.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> '300mA LDO Regulator Fixed Positive Capacitor-Free'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '300mA Capacitor-Free Low Dropout Voltage Regulator</td><td> Fixed Output 1.5V</td><td> SOT-23-5'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23*'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTIMER8254 > 8254
+# SZKTIMER8254 > Timer : 8254
 
 - ID: SYMBOL-kicad-kicad-symbols-Timer-8254
 - Hex ID: SZKTIMER8254
-- Name: 8254
-- Description: 8254
+- Name: Timer : 8254
+- Description: Timer : 8254
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer-8254](http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer-8254)
 - Short Link: [http://oom.lt/SZKTIMER8254](http://oom.lt/SZKTIMER8254)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|8254|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Timer-8254|
 |Hex ID (short code)|hexID|SZKTIMER8254|
-|name|name|8254|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '82C54', 'kicadSymbolReference': 'U', 'kicadSymbolValue': '8254', 'kicadSymbolFootprint': 'Package_DIP:DIP-24_W15.24mm', 'kicadSymbolDatasheet': 'http://www.scs.stanford.edu/10wi-cs140/pintos/specs/8254.pdf', 'kicadSymbolki_keywords': 'Timer Counter', 'kicadSymbolki_description': 'Programmable Interval Timer, PDIP-24', 'kicadSymbolki_fp_filters': 'DIP*W15.24mm*'}]|
+|name|name|Timer : 8254|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> '82C54'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> '8254'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>DIP-24_W15.24mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.scs.stanford.edu/10wi-cs140/pintos/specs/8254.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Timer Counter'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Programmable Interval Timer</td><td> PDIP-24'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W15.24mm*'</td></tr></table>]|
 ||||

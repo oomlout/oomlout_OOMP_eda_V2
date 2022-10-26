@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKPOWERGNDREF > GNDREF
+# SZKPOWERGNDREF > power : GNDREF
 
 - ID: SYMBOL-kicad-kicad-symbols-power-GNDREF
 - Hex ID: SZKPOWERGNDREF
-- Name: GNDREF
-- Description: GNDREF
+- Name: power : GNDREF
+- Description: power : GNDREF
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-power-GNDREF](http://oom.lt/SYMBOL-kicad-kicad-symbols-power-GNDREF)
 - Short Link: [http://oom.lt/SZKPOWERGNDREF](http://oom.lt/SZKPOWERGNDREF)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|GNDREF|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-power-GNDREF|
 |Hex ID (short code)|hexID|SZKPOWERGNDREF|
-|name|name|GNDREF|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': '#PWR', 'kicadSymbolValue': 'GNDREF', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_keywords': 'power-flag', 'kicadSymbolki_description': 'Power symbol creates a global label with name "GNDREF" , reference supply ground'}]|
+|name|name|power : GNDREF|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> '#PWR'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'GNDREF'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'power-flag'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Power symbol creates a global label with name "GNDREF" </td><td> reference supply ground'</td></tr></table>]|
 ||||

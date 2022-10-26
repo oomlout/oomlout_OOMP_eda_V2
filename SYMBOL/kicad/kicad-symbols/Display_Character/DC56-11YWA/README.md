@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDICHARACTERDC5611YWA > DC56-11YWA
+# SZKDICHARACTERDC5611YWA > Display_Character : DC56-11YWA
 
 - ID: SYMBOL-kicad-kicad-symbols-Display_Character-DC56-11YWA
 - Hex ID: SZKDICHARACTERDC5611YWA
-- Name: DC56-11YWA
-- Description: DC56-11YWA
+- Name: Display_Character : DC56-11YWA
+- Description: Display_Character : DC56-11YWA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-DC56-11YWA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-DC56-11YWA)
 - Short Link: [http://oom.lt/SZKDICHARACTERDC5611YWA](http://oom.lt/SZKDICHARACTERDC5611YWA)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DC56-11YWA|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Display_Character-DC56-11YWA|
 |Hex ID (short code)|hexID|SZKDICHARACTERDC5611YWA|
-|name|name|DC56-11YWA|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'DC56-11SYKWA', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'DC56-11YWA', 'kicadSymbolFootprint': 'Display_7Segment:DA56-11SYKWA', 'kicadSymbolDatasheet': 'http://www.kingbrightusa.com/images/catalog/SPEC/DC56-11YWA.pdf', 'kicadSymbolki_keywords': 'display LED 7-segment', 'kicadSymbolki_description': 'Double digit 7 segment yellow LED common cathode', 'kicadSymbolki_fp_filters': '*DA56*11*'}]|
+|name|name|Display_Character : DC56-11YWA|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'DC56-11SYKWA'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'DC56-11YWA'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Display_7Segment</td></tr><tr><td>DA56-11SYKWA'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.kingbrightusa.com/images/catalog/SPEC/DC56-11YWA.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'display LED 7-segment'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Double digit 7 segment yellow LED common cathode'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> '*DA56*11*'</td></tr></table>]|
 ||||

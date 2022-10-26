@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKPOWERMANAGEMENTBTS724G > BTS724G
+# SZKPOWERMANAGEMENTBTS724G > Power_Management : BTS724G
 
 - ID: SYMBOL-kicad-kicad-symbols-Power_Management-BTS724G
 - Hex ID: SZKPOWERMANAGEMENTBTS724G
-- Name: BTS724G
-- Description: BTS724G
+- Name: Power_Management : BTS724G
+- Description: Power_Management : BTS724G
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-BTS724G](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-BTS724G)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTBTS724G](http://oom.lt/SZKPOWERMANAGEMENTBTS724G)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BTS724G|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Management-BTS724G|
 |Hex ID (short code)|hexID|SZKPOWERMANAGEMENTBTS724G|
-|name|name|BTS724G|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'BTS724G', 'kicadSymbolFootprint': 'Package_SO:Infineon_PG-DSO-20-32', 'kicadSymbolDatasheet': 'https://www.infineon.com/dgdl/Infineon-BTS724G-DS-v01_00-EN.pdf?fileId=5546d4625a888733015aa3a2f1030ff1', 'kicadSymbolki_keywords': 'High_Side_Switch Power', 'kicadSymbolki_description': 'Smart High-Side Power Switch, PROFET, 4 Channel, 90mOhm, 3.3A, 40V, DSO-20', 'kicadSymbolki_fp_filters': 'Infineon*PG*DSO*'}]|
+|name|name|Power_Management : BTS724G|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'BTS724G'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>Infineon_PG-DSO-20-32'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.infineon.com/dgdl/Infineon-BTS724G-DS-v01_00-EN.pdf?fileId=5546d4625a888733015aa3a2f1030ff1'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'High_Side_Switch Power'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Smart High-Side Power Switch</td><td> PROFET</td><td> 4 Channel</td><td> 90mOhm</td><td> 3.3A</td><td> 40V</td><td> DSO-20'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Infineon*PG*DSO*'</td></tr></table>]|
 ||||

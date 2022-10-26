@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDICHARACTERNHDC22BIZ > NHD-C0220BIZ
+# SZKDICHARACTERNHDC22BIZ > Display_Character : NHD-C0220BIZ
 
 - ID: SYMBOL-kicad-kicad-symbols-Display_Character-NHD-C0220BIZ
 - Hex ID: SZKDICHARACTERNHDC22BIZ
-- Name: NHD-C0220BIZ
-- Description: NHD-C0220BIZ
+- Name: Display_Character : NHD-C0220BIZ
+- Description: Display_Character : NHD-C0220BIZ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-NHD-C0220BIZ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-NHD-C0220BIZ)
 - Short Link: [http://oom.lt/SZKDICHARACTERNHDC22BIZ](http://oom.lt/SZKDICHARACTERNHDC22BIZ)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|NHD-C0220BIZ|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Display_Character-NHD-C0220BIZ|
 |Hex ID (short code)|hexID|SZKDICHARACTERNHDC22BIZ|
-|name|name|NHD-C0220BIZ|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'NHD-C0220BIZ', 'kicadSymbolFootprint': 'Display:NHD-C0220BiZ', 'kicadSymbolDatasheet': 'http://www.newhavendisplay.com/specs/NHD-C0220BiZ-FSW-FBW-3V3M.pdf', 'kicadSymbolki_keywords': 'display LCD 20x2', 'kicadSymbolki_description': 'LCD 20x2 Alphanumeric 10pin Blue/White/Green Backlight, i2c, 3.3V VDD', 'kicadSymbolki_fp_filters': 'NHD*C0220BiZ*'}]|
+|name|name|Display_Character : NHD-C0220BIZ|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'NHD-C0220BIZ'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Display</td></tr><tr><td>NHD-C0220BiZ'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.newhavendisplay.com/specs/NHD-C0220BiZ-FSW-FBW-3V3M.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'display LCD 20x2'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'LCD 20x2 Alphanumeric 10pin Blue/White/Green Backlight</td><td> i2c</td><td> 3.3V VDD'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'NHD*C0220BiZ*'</td></tr></table>]|
 ||||

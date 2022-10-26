@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Module-Adafruit_Feather_32u4_RFM_WithMountingHoles|
 |Hex ID (short code)|hexID|FZKMOADAFEATHER32U4RFMWITOUNTINGH|
 |name|name|Module : Adafruit_Feather_32u4_RFM_WithMountingHoles|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Adafruit_Feather_32u4_RFM_WithMountingHoles', 'description': 'Footprint for the Adafruit Feather 32u4 RFM series of boards, https://learn.adafruit.com/adafruit-feather-32u4-radio-with-rfm69hcw-module', 'tags': 'Adafruit Feather 32u4 RFM', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Module.3dshapes/Adafruit_Feather_32u4_RFM.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Adafruit_Feather_32u4_RFM_WithMountingHoles'</td><td> 'description'</td></tr><tr><td> 'Footprint for the Adafruit Feather 32u4 RFM series of boards</td><td> https</td></tr><tr><td>//learn.adafruit.com/adafruit-feather-32u4-radio-with-rfm69hcw-module'</td><td> 'tags'</td></tr><tr><td> 'Adafruit Feather 32u4 RFM'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Module.3dshapes/Adafruit_Feather_32u4_RFM.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

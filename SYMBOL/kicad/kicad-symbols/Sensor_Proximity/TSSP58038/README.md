@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKSENPROXIMITYTSSP5838 > TSSP58038
+# SZKSENPROXIMITYTSSP5838 > Sensor_Proximity : TSSP58038
 
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Proximity-TSSP58038
 - Hex ID: SZKSENPROXIMITYTSSP5838
-- Name: TSSP58038
-- Description: TSSP58038
+- Name: Sensor_Proximity : TSSP58038
+- Description: Sensor_Proximity : TSSP58038
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Proximity-TSSP58038](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Proximity-TSSP58038)
 - Short Link: [http://oom.lt/SZKSENPROXIMITYTSSP5838](http://oom.lt/SZKSENPROXIMITYTSSP5838)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TSSP58038|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Proximity-TSSP58038|
 |Hex ID (short code)|hexID|SZKSENPROXIMITYTSSP5838|
-|name|name|TSSP58038|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TSSP58P38', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TSSP58038', 'kicadSymbolFootprint': 'OptoDevice:Vishay_MINICAST-3Pin', 'kicadSymbolDatasheet': 'http://www.vishay.com/docs/82476/tssp58p38.pdf', 'kicadSymbolki_keywords': 'opto IR receiver proximity sensor', 'kicadSymbolki_description': 'IR Detector for Mid Range Proximity Sensor', 'kicadSymbolki_fp_filters': 'Vishay*MINICAST*'}]|
+|name|name|Sensor_Proximity : TSSP58038|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'TSSP58P38'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TSSP58038'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'OptoDevice</td></tr><tr><td>Vishay_MINICAST-3Pin'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.vishay.com/docs/82476/tssp58p38.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'opto IR receiver proximity sensor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'IR Detector for Mid Range Proximity Sensor'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Vishay*MINICAST*'</td></tr></table>]|
 ||||

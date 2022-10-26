@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-OptoDevice-Everlight_ITR8307_Reverse|
 |Hex ID (short code)|hexID|FZKOPEVERLIGHTITR837R|
 |name|name|OptoDevice : Everlight_ITR8307_Reverse|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Everlight_ITR8307_Reverse', 'description': 'package for Everlight ITR8307 with PCB cutout, light-direction downwards, see http://www.everlight.com/file/ProductFile/ITR8307.pdf', 'tags': 'refective opto couple photo coupler', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/Everlight_ITR8307_Reverse.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Everlight_ITR8307_Reverse'</td><td> 'description'</td></tr><tr><td> 'package for Everlight ITR8307 with PCB cutout</td><td> light-direction downwards</td><td> see http</td></tr><tr><td>//www.everlight.com/file/ProductFile/ITR8307.pdf'</td><td> 'tags'</td></tr><tr><td> 'refective opto couple photo coupler'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/OptoDevice.3dshapes/Everlight_ITR8307_Reverse.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

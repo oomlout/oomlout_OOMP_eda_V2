@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector-IHI_B6A-PCB-45_Vertical|
 |Hex ID (short code)|hexID|FZKCNIHIB6APCB45VERTICAL|
 |name|name|Connector : IHI_B6A-PCB-45_Vertical|
-|Footprint Kicad|footprintKicadDetails|{'name': 'IHI_B6A-PCB-45_Vertical', 'description': 'https://lugsdirect.com/PDF_Webprint/B6A-PCB-45-XX(-X).pdf', 'tags': 'connector IHI B6A-PCB-45', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector.3dshapes/IHI_B6A-PCB-45_Vertical.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'IHI_B6A-PCB-45_Vertical'</td><td> 'description'</td></tr><tr><td> 'https</td></tr><tr><td>//lugsdirect.com/PDF_Webprint/B6A-PCB-45-XX(-X).pdf'</td><td> 'tags'</td></tr><tr><td> 'connector IHI B6A-PCB-45'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector.3dshapes/IHI_B6A-PCB-45_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

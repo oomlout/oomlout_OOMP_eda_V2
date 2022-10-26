@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKCOMPARATORLMV7219M7 > LMV7219M7
+# SZKCOMPARATORLMV7219M7 > Comparator : LMV7219M7
 
 - ID: SYMBOL-kicad-kicad-symbols-Comparator-LMV7219M7
 - Hex ID: SZKCOMPARATORLMV7219M7
-- Name: LMV7219M7
-- Description: LMV7219M7
+- Name: Comparator : LMV7219M7
+- Description: Comparator : LMV7219M7
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Comparator-LMV7219M7](http://oom.lt/SYMBOL-kicad-kicad-symbols-Comparator-LMV7219M7)
 - Short Link: [http://oom.lt/SZKCOMPARATORLMV7219M7](http://oom.lt/SZKCOMPARATORLMV7219M7)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LMV7219M7|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Comparator-LMV7219M7|
 |Hex ID (short code)|hexID|SZKCOMPARATORLMV7219M7|
-|name|name|LMV7219M7|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MCP6561x-LT', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LMV7219M7', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-353_SC-70-5', 'kicadSymbolDatasheet': 'https://www.ti.com/lit/ds/symlink/lmv7219.pdf', 'kicadSymbolki_keywords': 'cmp', 'kicadSymbolki_description': 'Single Low-Power High-Speed Push-Pull Output Comparator, SC-70-5', 'kicadSymbolki_fp_filters': 'SOT?353*'}]|
+|name|name|Comparator : LMV7219M7|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'MCP6561x-LT'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LMV7219M7'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-353_SC-70-5'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.ti.com/lit/ds/symlink/lmv7219.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'cmp'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Single Low-Power High-Speed Push-Pull Output Comparator</td><td> SC-70-5'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?353*'</td></tr></table>]|
 ||||

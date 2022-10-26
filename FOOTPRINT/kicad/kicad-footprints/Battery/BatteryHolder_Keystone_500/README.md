@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Battery-BatteryHolder_Keystone_500|
 |Hex ID (short code)|hexID|FZKBATBATHOLDERKEYSTONE5|
 |name|name|Battery : BatteryHolder_Keystone_500|
-|Footprint Kicad|footprintKicadDetails|{'name': 'BatteryHolder_Keystone_500', 'description': 'Keystone #500, CR1220 battery holder, http://www.keyelco.com/product-pdf.cfm?p=710', 'tags': 'CR1220 battery holder', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Battery.3dshapes/BatteryHolder_Keystone_500.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'BatteryHolder_Keystone_500'</td><td> 'description'</td></tr><tr><td> 'Keystone #500</td><td> CR1220 battery holder</td><td> http</td></tr><tr><td>//www.keyelco.com/product-pdf.cfm?p=710'</td><td> 'tags'</td></tr><tr><td> 'CR1220 battery holder'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Battery.3dshapes/BatteryHolder_Keystone_500.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

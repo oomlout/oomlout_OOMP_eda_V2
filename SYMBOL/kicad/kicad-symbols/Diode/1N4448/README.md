@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDIODE1N4448 > 1N4448
+# SZKDIODE1N4448 > Diode : 1N4448
 
 - ID: SYMBOL-kicad-kicad-symbols-Diode-1N4448
 - Hex ID: SZKDIODE1N4448
-- Name: 1N4448
-- Description: 1N4448
+- Name: Diode : 1N4448
+- Description: Diode : 1N4448
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-1N4448](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-1N4448)
 - Short Link: [http://oom.lt/SZKDIODE1N4448](http://oom.lt/SZKDIODE1N4448)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|1N4448|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-1N4448|
 |Hex ID (short code)|hexID|SZKDIODE1N4448|
-|name|name|1N4448|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '1N4001', 'kicadSymbolReference': 'D', 'kicadSymbolValue': '1N4448', 'kicadSymbolFootprint': 'Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal', 'kicadSymbolDatasheet': 'https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf', 'kicadSymbolki_keywords': 'diode', 'kicadSymbolki_description': '100V 0.15A High-speed standard diode, DO-35', 'kicadSymbolki_fp_filters': 'D*DO?35*'}]|
+|name|name|Diode : 1N4448|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> '1N4001'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> '1N4448'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Diode_THT</td></tr><tr><td>D_DO-35_SOD27_P7.62mm_Horizontal'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'diode'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '100V 0.15A High-speed standard diode</td><td> DO-35'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'D*DO?35*'</td></tr></table>]|
 ||||

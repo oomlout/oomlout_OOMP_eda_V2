@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKCONTMLM513 > TMLM05103
+# SZKCONTMLM513 > Converter_ACDC : TMLM05103
 
 - ID: SYMBOL-kicad-kicad-symbols-Converter_ACDC-TMLM05103
 - Hex ID: SZKCONTMLM513
-- Name: TMLM05103
-- Description: TMLM05103
+- Name: Converter_ACDC : TMLM05103
+- Description: Converter_ACDC : TMLM05103
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_ACDC-TMLM05103](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_ACDC-TMLM05103)
 - Short Link: [http://oom.lt/SZKCONTMLM513](http://oom.lt/SZKCONTMLM513)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TMLM05103|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Converter_ACDC-TMLM05103|
 |Hex ID (short code)|hexID|SZKCONTMLM513|
-|name|name|TMLM05103|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'PS', 'kicadSymbolValue': 'TMLM05103', 'kicadSymbolFootprint': 'Converter_ACDC:Converter_ACDC_TRACO_TMLM-05_THT', 'kicadSymbolDatasheet': 'https://www.tracopower.com/products/tmlm.pdf', 'kicadSymbolki_keywords': 'Traco Power 5W AC-DC module power supply', 'kicadSymbolki_description': '3.3V 1250mA AC/DC low noise power module', 'kicadSymbolki_fp_filters': 'Converter*ACDC*TRACO*TMLM*05*'}]|
+|name|name|Converter_ACDC : TMLM05103|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'PS'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TMLM05103'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Converter_ACDC</td></tr><tr><td>Converter_ACDC_TRACO_TMLM-05_THT'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.tracopower.com/products/tmlm.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Traco Power 5W AC-DC module power supply'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '3.3V 1250mA AC/DC low noise power module'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Converter*ACDC*TRACO*TMLM*05*'</td></tr></table>]|
 ||||

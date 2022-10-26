@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKAUDIOSSI2144 > SSI2144
+# SZKAUDIOSSI2144 > Audio : SSI2144
 
 - ID: SYMBOL-kicad-kicad-symbols-Audio-SSI2144
 - Hex ID: SZKAUDIOSSI2144
-- Name: SSI2144
-- Description: SSI2144
+- Name: Audio : SSI2144
+- Description: Audio : SSI2144
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-SSI2144](http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-SSI2144)
 - Short Link: [http://oom.lt/SZKAUDIOSSI2144](http://oom.lt/SZKAUDIOSSI2144)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SSI2144|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Audio-SSI2144|
 |Hex ID (short code)|hexID|SZKAUDIOSSI2144|
-|name|name|SSI2144|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'SSI2144', 'kicadSymbolFootprint': 'Package_SO:SSOP-16_3.9x4.9mm_P0.635mm', 'kicadSymbolDatasheet': 'http://www.soundsemiconductor.com/downloads/ssi2144datasheet.pdf', 'kicadSymbolki_keywords': 'Sound Semiconductor VCF SSM2044', 'kicadSymbolki_description': 'Four-pole VCF, SSOP-16', 'kicadSymbolki_fp_filters': 'SSOP*3.9x4.9mm*P0.635mm*'}]|
+|name|name|Audio : SSI2144|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'SSI2144'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SSOP-16_3.9x4.9mm_P0.635mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.soundsemiconductor.com/downloads/ssi2144datasheet.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Sound Semiconductor VCF SSM2044'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Four-pole VCF</td><td> SSOP-16'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SSOP*3.9x4.9mm*P0.635mm*'</td></tr></table>]|
 ||||

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SON-WSON-10-1EP_4x3mm_P0.5mm_EP2.2x2mm|
 |Hex ID (short code)|hexID|FZKSONWSON11EP4X3P5EP22X2|
 |name|name|Package_SON : WSON-10-1EP_4x3mm_P0.5mm_EP2.2x2mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'WSON-10-1EP_4x3mm_P0.5mm_EP2.2x2mm', 'description': '10-Lead Plastic WSON, 4x3mm Body, 0.5mm Pitch (http://www.ti.com/lit/ds/symlink/lm4990.pdf)', 'tags': 'WSON 0.5', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SON.3dshapes/WSON-10-1EP_4x3mm_P0.5mm_EP2.2x2mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'WSON-10-1EP_4x3mm_P0.5mm_EP2.2x2mm'</td><td> 'description'</td></tr><tr><td> '10-Lead Plastic WSON</td><td> 4x3mm Body</td><td> 0.5mm Pitch (http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/lm4990.pdf)'</td><td> 'tags'</td></tr><tr><td> 'WSON 0.5'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_SON.3dshapes/WSON-10-1EP_4x3mm_P0.5mm_EP2.2x2mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

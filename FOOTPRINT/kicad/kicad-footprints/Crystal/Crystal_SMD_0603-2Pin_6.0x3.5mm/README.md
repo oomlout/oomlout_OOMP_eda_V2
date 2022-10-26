@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_0603-2Pin_6.0x3.5mm|
 |Hex ID (short code)|hexID|FZKXXSM632PIN6X35|
 |name|name|Crystal : Crystal_SMD_0603-2Pin_6.0x3.5mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Crystal_SMD_0603-2Pin_6.0x3.5mm', 'description': 'SMD Crystal SERIES SMD0603/2 http://www.petermann-technik.de/fileadmin/petermann/pdf/SMD0603-2.pdf, 6.0x3.5mm^2 package', 'tags': 'SMD SMT crystal', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Crystal_SMD_0603-2Pin_6.0x3.5mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Crystal_SMD_0603-2Pin_6.0x3.5mm'</td><td> 'description'</td></tr><tr><td> 'SMD Crystal SERIES SMD0603/2 http</td></tr><tr><td>//www.petermann-technik.de/fileadmin/petermann/pdf/SMD0603-2.pdf</td><td> 6.0x3.5mm^2 package'</td><td> 'tags'</td></tr><tr><td> 'SMD SMT crystal'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Crystal.3dshapes/Crystal_SMD_0603-2Pin_6.0x3.5mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

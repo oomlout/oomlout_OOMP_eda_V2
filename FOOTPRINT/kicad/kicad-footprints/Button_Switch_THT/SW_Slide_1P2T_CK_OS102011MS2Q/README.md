@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_Slide_1P2T_CK_OS102011MS2Q|
 |Hex ID (short code)|hexID|FZKBSWSLIDE1P2TCKOS1211MS2Q|
 |name|name|Button_Switch_THT : SW_Slide_1P2T_CK_OS102011MS2Q|
-|Footprint Kicad|footprintKicadDetails|{'name': 'SW_Slide_1P2T_CK_OS102011MS2Q', 'description': 'CuK miniature slide switch, OS series, SPDT, https://www.ckswitches.com/media/1428/os.pdf', 'tags': 'switch SPDT', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_Slide_1P2T_CK_OS102011MS2Q.wrl', 'pins': {'type': 'thru_hole', 'shape': 'oval'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SW_Slide_1P2T_CK_OS102011MS2Q'</td><td> 'description'</td></tr><tr><td> 'CuK miniature slide switch</td><td> OS series</td><td> SPDT</td><td> https</td></tr><tr><td>//www.ckswitches.com/media/1428/os.pdf'</td><td> 'tags'</td></tr><tr><td> 'switch SPDT'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Button_Switch_THT.3dshapes/SW_Slide_1P2T_CK_OS102011MS2Q.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'oval'</td></tr></table></td></tr></table>|
 ||||
 
 

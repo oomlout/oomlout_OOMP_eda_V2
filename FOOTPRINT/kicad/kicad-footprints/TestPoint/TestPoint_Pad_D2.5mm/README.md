@@ -29,5 +29,5 @@ NO IMAGE
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-TestPoint-TestPoint_Pad_D2.5mm|
 |Hex ID (short code)|hexID|FZKTPTPPADD25|
 |name|name|TestPoint : TestPoint_Pad_D2.5mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'TestPoint_Pad_D2.5mm', 'description': 'SMD pad as test Point, diameter 2.5mm', 'tags': 'test point SMD pad', 'attributeType': None, 'pins': {'type': 'smd', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'TestPoint_Pad_D2.5mm'</td><td> 'description'</td></tr><tr><td> 'SMD pad as test Point</td><td> diameter 2.5mm'</td><td> 'tags'</td></tr><tr><td> 'test point SMD pad'</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

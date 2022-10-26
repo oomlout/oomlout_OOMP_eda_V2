@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORBJTBD441 > BD441
+# SZKTRANSISTORBJTBD441 > Transistor_BJT : BD441
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-BD441
 - Hex ID: SZKTRANSISTORBJTBD441
-- Name: BD441
-- Description: BD441
+- Name: Transistor_BJT : BD441
+- Description: Transistor_BJT : BD441
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BD441](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BD441)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTBD441](http://oom.lt/SZKTRANSISTORBJTBD441)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BD441|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_BJT-BD441|
 |Hex ID (short code)|hexID|SZKTRANSISTORBJTBD441|
-|name|name|BD441|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BD433', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'BD441', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-126-3_Vertical', 'kicadSymbolDatasheet': 'http://www.cdil.com/datasheets/bd433_42.pdf', 'kicadSymbolki_keywords': 'Power NPN Transistor', 'kicadSymbolki_description': '4A Ic, 80V Vce, Power NPN Transistor, TO-126', 'kicadSymbolki_fp_filters': 'TO?126*'}]|
+|name|name|Transistor_BJT : BD441|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'BD433'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'BD441'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_THT</td></tr><tr><td>TO-126-3_Vertical'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.cdil.com/datasheets/bd433_42.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Power NPN Transistor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '4A Ic</td><td> 80V Vce</td><td> Power NPN Transistor</td><td> TO-126'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TO?126*'</td></tr></table>]|
 ||||

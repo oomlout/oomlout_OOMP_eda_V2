@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKSENPROXIMITYQRE1113GR > QRE1113GR
+# SZKSENPROXIMITYQRE1113GR > Sensor_Proximity : QRE1113GR
 
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Proximity-QRE1113GR
 - Hex ID: SZKSENPROXIMITYQRE1113GR
-- Name: QRE1113GR
-- Description: QRE1113GR
+- Name: Sensor_Proximity : QRE1113GR
+- Description: Sensor_Proximity : QRE1113GR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Proximity-QRE1113GR](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Proximity-QRE1113GR)
 - Short Link: [http://oom.lt/SZKSENPROXIMITYQRE1113GR](http://oom.lt/SZKSENPROXIMITYQRE1113GR)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|QRE1113GR|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Proximity-QRE1113GR|
 |Hex ID (short code)|hexID|SZKSENPROXIMITYQRE1113GR|
-|name|name|QRE1113GR|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'QRE1113GR', 'kicadSymbolFootprint': 'OptoDevice:OnSemi_CASE100CY', 'kicadSymbolDatasheet': 'http://www.onsemi.com/pub/Collateral/QRE1113-D.PDF', 'kicadSymbolki_keywords': 'Reflective Optical Sensor Opto reflex coupler', 'kicadSymbolki_description': 'Miniature Reflective Optical Object Sensor, SMD-4', 'kicadSymbolki_fp_filters': 'OnSemi*CASE100CY*'}]|
+|name|name|Sensor_Proximity : QRE1113GR|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'QRE1113GR'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'OptoDevice</td></tr><tr><td>OnSemi_CASE100CY'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.onsemi.com/pub/Collateral/QRE1113-D.PDF'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Reflective Optical Sensor Opto reflex coupler'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Miniature Reflective Optical Object Sensor</td><td> SMD-4'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'OnSemi*CASE100CY*'</td></tr></table>]|
 ||||

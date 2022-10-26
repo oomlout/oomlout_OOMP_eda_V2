@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORLINEARTPS7345 > TPS70345
+# SZKREGULATORLINEARTPS7345 > Regulator_Linear : TPS70345
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS70345
 - Hex ID: SZKREGULATORLINEARTPS7345
-- Name: TPS70345
-- Description: TPS70345
+- Name: Regulator_Linear : TPS70345
+- Description: Regulator_Linear : TPS70345
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS70345](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS70345)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARTPS7345](http://oom.lt/SZKREGULATORLINEARTPS7345)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TPS70345|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS70345|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARTPS7345|
-|name|name|TPS70345|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TPS70302', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TPS70345', 'kicadSymbolFootprint': 'Package_SO:HTSSOP-24-1EP_4.4x7.8mm_P0.65mm_EP3.4x7.8mm_Mask2.4x4.68mm_ThermalVias', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tps703.pdf', 'kicadSymbolki_keywords': 'dual ldo regulator', 'kicadSymbolki_description': 'Dual-Output, Low Dropout Voltage Regulators With Integrated SVS For Split Voltage Systems, Sequenced Outputs, 3.3V 1A/1.2V 2A, HTSSOP-24', 'kicadSymbolki_fp_filters': 'HTSSOP*4.4x7.8mm*P0.65mm*'}]|
+|name|name|Regulator_Linear : TPS70345|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'TPS70302'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TPS70345'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>HTSSOP-24-1EP_4.4x7.8mm_P0.65mm_EP3.4x7.8mm_Mask2.4x4.68mm_ThermalVias'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/tps703.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'dual ldo regulator'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Dual-Output</td><td> Low Dropout Voltage Regulators With Integrated SVS For Split Voltage Systems</td><td> Sequenced Outputs</td><td> 3.3V 1A/1.2V 2A</td><td> HTSSOP-24'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'HTSSOP*4.4x7.8mm*P0.65mm*'</td></tr></table>]|
 ||||

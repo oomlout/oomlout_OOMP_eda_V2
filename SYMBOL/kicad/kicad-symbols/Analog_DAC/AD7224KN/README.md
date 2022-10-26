@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKANALOGDACAD7224KN > AD7224KN
+# SZKANALOGDACAD7224KN > Analog_DAC : AD7224KN
 
 - ID: SYMBOL-kicad-kicad-symbols-Analog_DAC-AD7224KN
 - Hex ID: SZKANALOGDACAD7224KN
-- Name: AD7224KN
-- Description: AD7224KN
+- Name: Analog_DAC : AD7224KN
+- Description: Analog_DAC : AD7224KN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-AD7224KN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-AD7224KN)
 - Short Link: [http://oom.lt/SZKANALOGDACAD7224KN](http://oom.lt/SZKANALOGDACAD7224KN)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AD7224KN|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_DAC-AD7224KN|
 |Hex ID (short code)|hexID|SZKANALOGDACAD7224KN|
-|name|name|AD7224KN|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AD7224KN', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.analog.com/static/imported-files/data_sheets/AD7224.pdf', 'kicadSymbolki_keywords': '8bit DAC Dual Single Supply 1ch', 'kicadSymbolki_description': '8bit DAC, Dual or Single Supply, DIP-18', 'kicadSymbolki_fp_filters': 'DIP* PDIP*'}]|
+|name|name|Analog_DAC : AD7224KN|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'AD7224KN'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/static/imported-files/data_sheets/AD7224.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> '8bit DAC Dual Single Supply 1ch'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '8bit DAC</td><td> Dual or Single Supply</td><td> DIP-18'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP* PDIP*'</td></tr></table>]|
 ||||

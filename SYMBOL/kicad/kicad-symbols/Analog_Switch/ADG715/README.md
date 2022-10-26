@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKANALOGSWITCHADG715 > ADG715
+# SZKANALOGSWITCHADG715 > Analog_Switch : ADG715
 
 - ID: SYMBOL-kicad-kicad-symbols-Analog_Switch-ADG715
 - Hex ID: SZKANALOGSWITCHADG715
-- Name: ADG715
-- Description: ADG715
+- Name: Analog_Switch : ADG715
+- Description: Analog_Switch : ADG715
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-ADG715](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-ADG715)
 - Short Link: [http://oom.lt/SZKANALOGSWITCHADG715](http://oom.lt/SZKANALOGSWITCHADG715)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ADG715|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_Switch-ADG715|
 |Hex ID (short code)|hexID|SZKANALOGSWITCHADG715|
-|name|name|ADG715|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ADG715', 'kicadSymbolFootprint': 'Package_SO:TSSOP-24_4.4x7.8mm_P0.65mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/ADG714_715.pdf', 'kicadSymbolki_keywords': 'CMOS, Switch, I2C', 'kicadSymbolki_description': 'CMOS, Low Voltage, Serially Controlled, Octal SPST Switch, I2C interface, TSSOP-24', 'kicadSymbolki_fp_filters': 'TSSOP*4.4x7.8mm*P0.65mm*'}]|
+|name|name|Analog_Switch : ADG715|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ADG715'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>TSSOP-24_4.4x7.8mm_P0.65mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/ADG714_715.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'CMOS</td><td> Switch</td><td> I2C'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'CMOS</td><td> Low Voltage</td><td> Serially Controlled</td><td> Octal SPST Switch</td><td> I2C interface</td><td> TSSOP-24'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TSSOP*4.4x7.8mm*P0.65mm*'</td></tr></table>]|
 ||||

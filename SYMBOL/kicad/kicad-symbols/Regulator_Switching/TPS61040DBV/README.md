@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORSWITCHINGTPS614DBV > TPS61040DBV
+# SZKREGULATORSWITCHINGTPS614DBV > Regulator_Switching : TPS61040DBV
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS61040DBV
 - Hex ID: SZKREGULATORSWITCHINGTPS614DBV
-- Name: TPS61040DBV
-- Description: TPS61040DBV
+- Name: Regulator_Switching : TPS61040DBV
+- Description: Regulator_Switching : TPS61040DBV
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS61040DBV](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS61040DBV)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGTPS614DBV](http://oom.lt/SZKREGULATORSWITCHINGTPS614DBV)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TPS61040DBV|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS61040DBV|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGTPS614DBV|
-|name|name|TPS61040DBV|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TPS61041DDC', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TPS61040DBV', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-5', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tps61040.pdf', 'kicadSymbolki_keywords': 'Step-Up Boost DC-DC Regulator Adjustable', 'kicadSymbolki_description': 'Synchronous Boost Regulator, Adjustable Output up to 28V, 400 mA Switch Current Limit, SOT-23-5', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
+|name|name|Regulator_Switching : TPS61040DBV|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'TPS61041DDC'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TPS61040DBV'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-23-5'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/tps61040.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Step-Up Boost DC-DC Regulator Adjustable'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Synchronous Boost Regulator</td><td> Adjustable Output up to 28V</td><td> 400 mA Switch Current Limit</td><td> SOT-23-5'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23*'</td></tr></table>]|
 ||||

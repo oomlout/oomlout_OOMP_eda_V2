@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUMOARDUNOR3 > Arduino_UNO_R3
+# SZKMCUMOARDUNOR3 > MCU_Module : Arduino_UNO_R3
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Module-Arduino_UNO_R3
 - Hex ID: SZKMCUMOARDUNOR3
-- Name: Arduino_UNO_R3
-- Description: Arduino_UNO_R3
+- Name: MCU_Module : Arduino_UNO_R3
+- Description: MCU_Module : Arduino_UNO_R3
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Module-Arduino_UNO_R3](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Module-Arduino_UNO_R3)
 - Short Link: [http://oom.lt/SZKMCUMOARDUNOR3](http://oom.lt/SZKMCUMOARDUNOR3)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Arduino_UNO_R3|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Module-Arduino_UNO_R3|
 |Hex ID (short code)|hexID|SZKMCUMOARDUNOR3|
-|name|name|Arduino_UNO_R3|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'A', 'kicadSymbolValue': 'Arduino_UNO_R3', 'kicadSymbolFootprint': 'Module:Arduino_UNO_R3', 'kicadSymbolDatasheet': 'https://www.arduino.cc/en/Main/arduinoBoardUno', 'kicadSymbolki_keywords': 'Arduino UNO R3 Microcontroller Module Atmel AVR USB', 'kicadSymbolki_description': 'Arduino UNO Microcontroller Module, release 3', 'kicadSymbolki_fp_filters': 'Arduino*UNO*R3*'}]|
+|name|name|MCU_Module : Arduino_UNO_R3|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'A'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Arduino_UNO_R3'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Module</td></tr><tr><td>Arduino_UNO_R3'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.arduino.cc/en/Main/arduinoBoardUno'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Arduino UNO R3 Microcontroller Module Atmel AVR USB'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Arduino UNO Microcontroller Module</td><td> release 3'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Arduino*UNO*R3*'</td></tr></table>]|
 ||||

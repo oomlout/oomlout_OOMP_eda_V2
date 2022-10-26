@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDEVICECIRCUITBREAKER3PUS > CircuitBreaker_3P_US
+# SZKDEVICECIRCUITBREAKER3PUS > Device : CircuitBreaker_3P_US
 
 - ID: SYMBOL-kicad-kicad-symbols-Device-CircuitBreaker_3P_US
 - Hex ID: SZKDEVICECIRCUITBREAKER3PUS
-- Name: CircuitBreaker_3P_US
-- Description: CircuitBreaker_3P_US
+- Name: Device : CircuitBreaker_3P_US
+- Description: Device : CircuitBreaker_3P_US
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-CircuitBreaker_3P_US](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-CircuitBreaker_3P_US)
 - Short Link: [http://oom.lt/SZKDEVICECIRCUITBREAKER3PUS](http://oom.lt/SZKDEVICECIRCUITBREAKER3PUS)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|CircuitBreaker_3P_US|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-CircuitBreaker_3P_US|
 |Hex ID (short code)|hexID|SZKDEVICECIRCUITBREAKER3PUS|
-|name|name|CircuitBreaker_3P_US|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'CB', 'kicadSymbolValue': 'CircuitBreaker_3P_US', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'CB 3P', 'kicadSymbolki_description': 'Triple pole circuit breaker, US symbol'}]|
+|name|name|Device : CircuitBreaker_3P_US|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'CB'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'CircuitBreaker_3P_US'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'CB 3P'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Triple pole circuit breaker</td><td> US symbol'</td></tr></table>]|
 ||||

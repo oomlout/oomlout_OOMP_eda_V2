@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKAMPLIFIEROPERATIONALOPA89XDBV > OPA890xDBV
+# SZKAMPLIFIEROPERATIONALOPA89XDBV > Amplifier_Operational : OPA890xDBV
 
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA890xDBV
 - Hex ID: SZKAMPLIFIEROPERATIONALOPA89XDBV
-- Name: OPA890xDBV
-- Description: OPA890xDBV
+- Name: Amplifier_Operational : OPA890xDBV
+- Description: Amplifier_Operational : OPA890xDBV
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA890xDBV](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA890xDBV)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALOPA89XDBV](http://oom.lt/SZKAMPLIFIEROPERATIONALOPA89XDBV)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|OPA890xDBV|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA890xDBV|
 |Hex ID (short code)|hexID|SZKAMPLIFIEROPERATIONALOPA89XDBV|
-|name|name|OPA890xDBV|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'OPA890xDBV', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-6', 'kicadSymbolDatasheet': 'https://www.ti.com/lit/ds/symlink/opa890.pdf', 'kicadSymbolki_keywords': 'single opamp wideband low-power', 'kicadSymbolki_description': 'Single Low-Power, Wideband, Voltage-Feedback Operational Amplifier with Disable, SOT-23-6', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
+|name|name|Amplifier_Operational : OPA890xDBV|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'OPA890xDBV'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-23-6'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.ti.com/lit/ds/symlink/opa890.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'single opamp wideband low-power'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Single Low-Power</td><td> Wideband</td><td> Voltage-Feedback Operational Amplifier with Disable</td><td> SOT-23-6'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23*'</td></tr></table>]|
 ||||

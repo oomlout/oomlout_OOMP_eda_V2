@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKANALOGSWITCHMAX319XSA > MAX319xSA
+# SZKANALOGSWITCHMAX319XSA > Analog_Switch : MAX319xSA
 
 - ID: SYMBOL-kicad-kicad-symbols-Analog_Switch-MAX319xSA
 - Hex ID: SZKANALOGSWITCHMAX319XSA
-- Name: MAX319xSA
-- Description: MAX319xSA
+- Name: Analog_Switch : MAX319xSA
+- Description: Analog_Switch : MAX319xSA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-MAX319xSA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-MAX319xSA)
 - Short Link: [http://oom.lt/SZKANALOGSWITCHMAX319XSA](http://oom.lt/SZKANALOGSWITCHMAX319XSA)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MAX319xSA|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_Switch-MAX319xSA|
 |Hex ID (short code)|hexID|SZKANALOGSWITCHMAX319XSA|
-|name|name|MAX319xSA|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'DG419xY', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MAX319xSA', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm', 'kicadSymbolDatasheet': 'https://datasheets.maximintegrated.com/en/ds/MAX317-MAX319.pdf', 'kicadSymbolki_keywords': 'CMOS Analog Switch', 'kicadSymbolki_description': 'Single SPDT Monolithic CMOS Analog Switch, 20Ohm Ron, SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm*'}]|
+|name|name|Analog_Switch : MAX319xSA|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'DG419xY'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MAX319xSA'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-8_3.9x4.9mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//datasheets.maximintegrated.com/en/ds/MAX317-MAX319.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'CMOS Analog Switch'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Single SPDT Monolithic CMOS Analog Switch</td><td> 20Ohm Ron</td><td> SOIC-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*3.9x4.9mm*P1.27mm*'</td></tr></table>]|
 ||||

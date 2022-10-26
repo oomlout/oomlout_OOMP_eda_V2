@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Phoenix_MC-PhoenixContact_MC_1,5_9-G-3.81_1x09_P3.81mm_Horizontal|
 |Hex ID (short code)|hexID|FZKCNPHOENIXMCPHOENIXCONTACTMC159G3811X9P381HORIZONTAL|
 |name|name|Connector_Phoenix_MC : PhoenixContact_MC_1,5_9-G-3.81_1x09_P3.81mm_Horizontal|
-|Footprint Kicad|footprintKicadDetails|{'name': 'PhoenixContact_MC_1,5_9-G-3.81_1x09_P3.81mm_Horizontal', 'description': 'Generic Phoenix Contact connector footprint for: MC_1,5/9-G-3.81; number of pins: 09; pin pitch: 3.81mm; Angled \|\| order number: 1803345 8A 160V', 'tags': 'phoenix_contact connector MC_01x09_G_3.81mm', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_Phoenix_MC.3dshapes/PhoenixContact_MC_1,5_9-G-3.81_1x09_P3.81mm_Horizontal.wrl', 'pins': {'type': 'thru_hole', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'PhoenixContact_MC_1</td><td>5_9-G-3.81_1x09_P3.81mm_Horizontal'</td><td> 'description'</td></tr><tr><td> 'Generic Phoenix Contact connector footprint for</td></tr><tr><td> MC_1</td><td>5/9-G-3.81; number of pins</td></tr><tr><td> 09; pin pitch</td></tr><tr><td> 3.81mm; Angled \|\| order number</td></tr><tr><td> 1803345 8A 160V'</td><td> 'tags'</td></tr><tr><td> 'phoenix_contact connector MC_01x09_G_3.81mm'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_Phoenix_MC.3dshapes/PhoenixContact_MC_1</td><td>5_9-G-3.81_1x09_P3.81mm_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

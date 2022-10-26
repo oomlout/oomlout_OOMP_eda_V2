@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORSWITCHINGLM5882 > LM5088-2
+# SZKREGULATORSWITCHINGLM5882 > Regulator_Switching : LM5088-2
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM5088-2
 - Hex ID: SZKREGULATORSWITCHINGLM5882
-- Name: LM5088-2
-- Description: LM5088-2
+- Name: Regulator_Switching : LM5088-2
+- Description: Regulator_Switching : LM5088-2
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM5088-2](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM5088-2)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGLM5882](http://oom.lt/SZKREGULATORSWITCHINGLM5882)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM5088-2|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM5088-2|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGLM5882|
-|name|name|LM5088-2|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM5088-2', 'kicadSymbolFootprint': 'Package_SO:HTSSOP-16-1EP_4.4x5mm_P0.65mm_EP3.4x5mm_Mask3x3mm_ThermalVias', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lm5088.pdf', 'kicadSymbolki_keywords': 'step down buck high voltage', 'kicadSymbolki_description': 'Wide Input Range Non-Synchronous Buck Controller, Hiccup Mode Restart, 75V, HTSSOP-16', 'kicadSymbolki_fp_filters': 'HTSSOP*1EP*4.4x5mm*P0.65mm*'}]|
+|name|name|Regulator_Switching : LM5088-2|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LM5088-2'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>HTSSOP-16-1EP_4.4x5mm_P0.65mm_EP3.4x5mm_Mask3x3mm_ThermalVias'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/lm5088.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'step down buck high voltage'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Wide Input Range Non-Synchronous Buck Controller</td><td> Hiccup Mode Restart</td><td> 75V</td><td> HTSSOP-16'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'HTSSOP*1EP*4.4x5mm*P0.65mm*'</td></tr></table>]|
 ||||

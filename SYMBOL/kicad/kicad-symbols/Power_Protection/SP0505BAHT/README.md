@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKPOWERPROTECTIONSP55BAHT > SP0505BAHT
+# SZKPOWERPROTECTIONSP55BAHT > Power_Protection : SP0505BAHT
 
 - ID: SYMBOL-kicad-kicad-symbols-Power_Protection-SP0505BAHT
 - Hex ID: SZKPOWERPROTECTIONSP55BAHT
-- Name: SP0505BAHT
-- Description: SP0505BAHT
+- Name: Power_Protection : SP0505BAHT
+- Description: Power_Protection : SP0505BAHT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-SP0505BAHT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-SP0505BAHT)
 - Short Link: [http://oom.lt/SZKPOWERPROTECTIONSP55BAHT](http://oom.lt/SZKPOWERPROTECTIONSP55BAHT)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SP0505BAHT|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Protection-SP0505BAHT|
 |Hex ID (short code)|hexID|SZKPOWERPROTECTIONSP55BAHT|
-|name|name|SP0505BAHT|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'SP0505BAHT', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-6', 'kicadSymbolDatasheet': 'http://www.littelfuse.com/~/media/files/littelfuse/technical%20resources/documents/data%20sheets/sp05xxba.pdf', 'kicadSymbolki_keywords': 'usb esd protection suppression transient', 'kicadSymbolki_description': 'TVS Diode Array, 5.5V Standoff, 5 Channels, SOT-23-6 package', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
+|name|name|Power_Protection : SP0505BAHT|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'SP0505BAHT'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-23-6'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.littelfuse.com/~/media/files/littelfuse/technical%20resources/documents/data%20sheets/sp05xxba.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'usb esd protection suppression transient'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'TVS Diode Array</td><td> 5.5V Standoff</td><td> 5 Channels</td><td> SOT-23-6 package'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23*'</td></tr></table>]|
 ||||

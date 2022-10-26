@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_BGA-UCBGA-81_4x4mm_Layout9x9_P0.4mm|
 |Hex ID (short code)|hexID|FZKBGAUCBGA814X4LAYOUT9X9P4|
 |name|name|Package_BGA : UCBGA-81_4x4mm_Layout9x9_P0.4mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'UCBGA-81_4x4mm_Layout9x9_P0.4mm', 'description': 'UCBGA-81, 9x9 raster, 4x4mm package, pitch 0.4mm; https://www.latticesemi.com/view_document?document_id=213', 'tags': 'BGA 81 0.4', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/UCBGA-81_4x4mm_Layout9x9_P0.4mm.wrl', 'pins': {'type': 'smd', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'UCBGA-81_4x4mm_Layout9x9_P0.4mm'</td><td> 'description'</td></tr><tr><td> 'UCBGA-81</td><td> 9x9 raster</td><td> 4x4mm package</td><td> pitch 0.4mm; https</td></tr><tr><td>//www.latticesemi.com/view_document?document_id=213'</td><td> 'tags'</td></tr><tr><td> 'BGA 81 0.4'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_BGA.3dshapes/UCBGA-81_4x4mm_Layout9x9_P0.4mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

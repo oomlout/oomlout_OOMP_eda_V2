@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKSENGASLUMINOXLOXO2 > LuminOX_LOX-O2
+# SZKSENGASLUMINOXLOXO2 > Sensor_Gas : LuminOX_LOX-O2
 
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Gas-LuminOX_LOX-O2
 - Hex ID: SZKSENGASLUMINOXLOXO2
-- Name: LuminOX_LOX-O2
-- Description: LuminOX_LOX-O2
+- Name: Sensor_Gas : LuminOX_LOX-O2
+- Description: Sensor_Gas : LuminOX_LOX-O2
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Gas-LuminOX_LOX-O2](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Gas-LuminOX_LOX-O2)
 - Short Link: [http://oom.lt/SZKSENGASLUMINOXLOXO2](http://oom.lt/SZKSENGASLUMINOXLOXO2)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LuminOX_LOX-O2|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Gas-LuminOX_LOX-O2|
 |Hex ID (short code)|hexID|SZKSENGASLUMINOXLOXO2|
-|name|name|LuminOX_LOX-O2|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LuminOX_LOX-O2', 'kicadSymbolFootprint': 'Sensor:LuminOX_LOX-O2', 'kicadSymbolDatasheet': 'https://sstsensing.com/wp-content/uploads/2021/08/DS0030rev15_LuminOx.pdf', 'kicadSymbolki_keywords': 'O2 sensor', 'kicadSymbolki_description': 'SST LuminOX Luminescence-based O2 sensor', 'kicadSymbolki_fp_filters': 'LuminOX?LOX?O2*'}]|
+|name|name|Sensor_Gas : LuminOX_LOX-O2|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LuminOX_LOX-O2'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Sensor</td></tr><tr><td>LuminOX_LOX-O2'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//sstsensing.com/wp-content/uploads/2021/08/DS0030rev15_LuminOx.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'O2 sensor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'SST LuminOX Luminescence-based O2 sensor'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'LuminOX?LOX?O2*'</td></tr></table>]|
 ||||

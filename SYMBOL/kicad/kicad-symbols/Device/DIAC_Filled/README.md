@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDEVICEDIACFILL > DIAC_Filled
+# SZKDEVICEDIACFILL > Device : DIAC_Filled
 
 - ID: SYMBOL-kicad-kicad-symbols-Device-DIAC_Filled
 - Hex ID: SZKDEVICEDIACFILL
-- Name: DIAC_Filled
-- Description: DIAC_Filled
+- Name: Device : DIAC_Filled
+- Description: Device : DIAC_Filled
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-DIAC_Filled](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-DIAC_Filled)
 - Short Link: [http://oom.lt/SZKDEVICEDIACFILL](http://oom.lt/SZKDEVICEDIACFILL)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DIAC_Filled|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-DIAC_Filled|
 |Hex ID (short code)|hexID|SZKDEVICEDIACFILL|
-|name|name|DIAC_Filled|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'DIAC_Filled', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'AC diode DIAC', 'kicadSymbolki_description': 'Diode for alternating current, filled shape', 'kicadSymbolki_fp_filters': 'TO-???* *_Diode_* *SingleDiode* D_*'}]|
+|name|name|Device : DIAC_Filled|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'DIAC_Filled'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'AC diode DIAC'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Diode for alternating current</td><td> filled shape'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TO-???* *_Diode_* *SingleDiode* D_*'</td></tr></table>]|
 ||||

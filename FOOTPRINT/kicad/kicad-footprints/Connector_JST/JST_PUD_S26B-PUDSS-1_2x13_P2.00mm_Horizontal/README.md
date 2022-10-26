@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_PUD_S26B-PUDSS-1_2x13_P2.00mm_Horizontal|
 |Hex ID (short code)|hexID|FZKCNJSTJSTPUDS26BPUDSS12X13P2HORIZONTAL|
 |name|name|Connector_JST : JST_PUD_S26B-PUDSS-1_2x13_P2.00mm_Horizontal|
-|Footprint Kicad|footprintKicadDetails|{'name': 'JST_PUD_S26B-PUDSS-1_2x13_P2.00mm_Horizontal', 'description': 'JST PUD series connector, S26B-PUDSS-1 (http://www.jst-mfg.com/product/pdf/eng/ePUD.pdf), generated with kicad-footprint-generator', 'tags': 'connector JST PUD top entry', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_JST.3dshapes/JST_PUD_S26B-PUDSS-1_2x13_P2.00mm_Horizontal.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'JST_PUD_S26B-PUDSS-1_2x13_P2.00mm_Horizontal'</td><td> 'description'</td></tr><tr><td> 'JST PUD series connector</td><td> S26B-PUDSS-1 (http</td></tr><tr><td>//www.jst-mfg.com/product/pdf/eng/ePUD.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'connector JST PUD top entry'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_JST.3dshapes/JST_PUD_S26B-PUDSS-1_2x13_P2.00mm_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

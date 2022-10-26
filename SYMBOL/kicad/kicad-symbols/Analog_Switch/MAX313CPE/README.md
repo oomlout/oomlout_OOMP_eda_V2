@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKANALOGSWITCHMAX313CPE > MAX313CPE
+# SZKANALOGSWITCHMAX313CPE > Analog_Switch : MAX313CPE
 
 - ID: SYMBOL-kicad-kicad-symbols-Analog_Switch-MAX313CPE
 - Hex ID: SZKANALOGSWITCHMAX313CPE
-- Name: MAX313CPE
-- Description: MAX313CPE
+- Name: Analog_Switch : MAX313CPE
+- Description: Analog_Switch : MAX313CPE
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-MAX313CPE](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-MAX313CPE)
 - Short Link: [http://oom.lt/SZKANALOGSWITCHMAX313CPE](http://oom.lt/SZKANALOGSWITCHMAX313CPE)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MAX313CPE|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_Switch-MAX313CPE|
 |Hex ID (short code)|hexID|SZKANALOGSWITCHMAX313CPE|
-|name|name|MAX313CPE|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'DG412xJ', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MAX313CPE', 'kicadSymbolFootprint': 'Package_DIP:DIP-16_W7.62mm', 'kicadSymbolDatasheet': 'https://datasheets.maximintegrated.com/en/ds/MAX312-MAX314.pdf', 'kicadSymbolki_keywords': 'CMOS Analog Switch', 'kicadSymbolki_description': 'Quad SPST CMOS Analog Switches, normally OFF, 6.5Ohm Ron, DIP-16', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
+|name|name|Analog_Switch : MAX313CPE|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'DG412xJ'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MAX313CPE'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>DIP-16_W7.62mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//datasheets.maximintegrated.com/en/ds/MAX312-MAX314.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'CMOS Analog Switch'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Quad SPST CMOS Analog Switches</td><td> normally OFF</td><td> 6.5Ohm Ron</td><td> DIP-16'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W7.62mm*'</td></tr></table>]|
 ||||

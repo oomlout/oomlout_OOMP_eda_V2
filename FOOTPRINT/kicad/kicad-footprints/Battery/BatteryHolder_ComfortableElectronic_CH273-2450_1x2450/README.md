@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Battery-BatteryHolder_ComfortableElectronic_CH273-2450_1x2450|
 |Hex ID (short code)|hexID|FZKBATBATHOLDERCOMFORTABLEELECTRONICCH2732451X245|
 |name|name|Battery : BatteryHolder_ComfortableElectronic_CH273-2450_1x2450|
-|Footprint Kicad|footprintKicadDetails|{'name': 'BatteryHolder_ComfortableElectronic_CH273-2450_1x2450', 'description': 'Comfortable Electronic CR2450 battery holder, http://www.comf.com.tw/ProductDetail.asp?no=148', 'tags': 'Comfortable Electronic CR2450', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Battery.3dshapes/BatteryHolder_ComfortableElectronic_CH273-2450_1x2450.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'BatteryHolder_ComfortableElectronic_CH273-2450_1x2450'</td><td> 'description'</td></tr><tr><td> 'Comfortable Electronic CR2450 battery holder</td><td> http</td></tr><tr><td>//www.comf.com.tw/ProductDetail.asp?no=148'</td><td> 'tags'</td></tr><tr><td> 'Comfortable Electronic CR2450'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Battery.3dshapes/BatteryHolder_ComfortableElectronic_CH273-2450_1x2450.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

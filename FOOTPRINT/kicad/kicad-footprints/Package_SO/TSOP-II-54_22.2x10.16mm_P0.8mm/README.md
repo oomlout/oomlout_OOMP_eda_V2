@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SO-TSOP-II-54_22.2x10.16mm_P0.8mm|
 |Hex ID (short code)|hexID|FZKSOTSII54222X116P8|
 |name|name|Package_SO : TSOP-II-54_22.2x10.16mm_P0.8mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'TSOP-II-54_22.2x10.16mm_P0.8mm', 'description': '54-lead TSOP typ II package', 'tags': 'TSOPII TSOP2', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/TSOP-II-54_22.2x10.16mm_P0.8mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'TSOP-II-54_22.2x10.16mm_P0.8mm'</td><td> 'description'</td></tr><tr><td> '54-lead TSOP typ II package'</td><td> 'tags'</td></tr><tr><td> 'TSOPII TSOP2'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_SO.3dshapes/TSOP-II-54_22.2x10.16mm_P0.8mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

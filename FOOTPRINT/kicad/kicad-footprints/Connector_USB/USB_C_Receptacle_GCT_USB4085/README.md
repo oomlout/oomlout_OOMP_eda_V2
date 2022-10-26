@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_C_Receptacle_GCT_USB4085|
 |Hex ID (short code)|hexID|FZKCNUUCRECEPTACLEGCTU485|
 |name|name|Connector_USB : USB_C_Receptacle_GCT_USB4085|
-|Footprint Kicad|footprintKicadDetails|{'name': 'USB_C_Receptacle_GCT_USB4085', 'description': 'USB 2.0 Type C Receptacle, https://gct.co/Files/Drawings/USB4085.pdf', 'tags': 'USB Type-C Receptacle Through-hole Right angle', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_USB.3dshapes/USB_C_Receptacle_GCT_USB4085.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'USB_C_Receptacle_GCT_USB4085'</td><td> 'description'</td></tr><tr><td> 'USB 2.0 Type C Receptacle</td><td> https</td></tr><tr><td>//gct.co/Files/Drawings/USB4085.pdf'</td><td> 'tags'</td></tr><tr><td> 'USB Type-C Receptacle Through-hole Right angle'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_USB.3dshapes/USB_C_Receptacle_GCT_USB4085.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORBJTBC517 > BC517
+# SZKTRANSISTORBJTBC517 > Transistor_BJT : BC517
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC517
 - Hex ID: SZKTRANSISTORBJTBC517
-- Name: BC517
-- Description: BC517
+- Name: Transistor_BJT : BC517
+- Description: Transistor_BJT : BC517
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC517](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC517)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTBC517](http://oom.lt/SZKTRANSISTORBJTBC517)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BC517|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC517|
 |Hex ID (short code)|hexID|SZKTRANSISTORBJTBC517|
-|name|name|BC517|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'BC517', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-92_Inline', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pub/Collateral/BC517-D74Z-D.PDF', 'kicadSymbolki_keywords': 'NPN Darlington Darl Transistor', 'kicadSymbolki_description': '1A Ic, 30V Vce, Darlington NPN Transistor, TO-92', 'kicadSymbolki_fp_filters': 'TO?92*'}]|
+|name|name|Transistor_BJT : BC517|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'BC517'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_THT</td></tr><tr><td>TO-92_Inline'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.onsemi.com/pub/Collateral/BC517-D74Z-D.PDF'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'NPN Darlington Darl Transistor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '1A Ic</td><td> 30V Vce</td><td> Darlington NPN Transistor</td><td> TO-92'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TO?92*'</td></tr></table>]|
 ||||

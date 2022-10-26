@@ -29,5 +29,5 @@ NO IMAGE
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Symbol-Symbol_GNU-Logo_SilkscreenTop|
 |Hex ID (short code)|hexID|FZKSZSYGNULSILKSCREENTOP|
 |name|name|Symbol : Symbol_GNU-Logo_SilkscreenTop|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Symbol_GNU-Logo_SilkscreenTop', 'description': 'GNU-Logo, GNU-Head, GNU-Kopf, Silkscreen,', 'tags': 'GNU-Logo, GNU-Head, GNU-Kopf, Silkscreen,', 'attributeType': None, 'pins': {}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Symbol_GNU-Logo_SilkscreenTop'</td><td> 'description'</td></tr><tr><td> 'GNU-Logo</td><td> GNU-Head</td><td> GNU-Kopf</td><td> Silkscreen</td><td>'</td><td> 'tags'</td></tr><tr><td> 'GNU-Logo</td><td> GNU-Head</td><td> GNU-Kopf</td><td> Silkscreen</td><td>'</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td></td></tr></table></td></tr></table>|
 ||||

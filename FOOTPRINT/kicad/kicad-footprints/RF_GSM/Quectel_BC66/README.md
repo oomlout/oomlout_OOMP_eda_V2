@@ -29,5 +29,5 @@ NO IMAGE
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-RF_GSM-Quectel_BC66|
 |Hex ID (short code)|hexID|FZKGSMQUECTELBC66|
 |name|name|RF_GSM : Quectel_BC66|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Quectel_BC66', 'description': 'GSM NB-IoT module, 15.8x17.7x2mm, https://www.quectel.com/UploadImage/Downlad/Quectel_BC66_Hardware_Design_V1.1.pdf', 'tags': 'GSM NB-IoT Module BC66 M66', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/RF_GSM.3dshapes/Quectel_BC66.wrl', 'pins': {'type': 'smd', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Quectel_BC66'</td><td> 'description'</td></tr><tr><td> 'GSM NB-IoT module</td><td> 15.8x17.7x2mm</td><td> https</td></tr><tr><td>//www.quectel.com/UploadImage/Downlad/Quectel_BC66_Hardware_Design_V1.1.pdf'</td><td> 'tags'</td></tr><tr><td> 'GSM NB-IoT Module BC66 M66'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/RF_GSM.3dshapes/Quectel_BC66.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

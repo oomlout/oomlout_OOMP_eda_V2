@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKCNRJ45L > RJ45_LED
+# SZKCNRJ45L > Connector : RJ45_LED
 
 - ID: SYMBOL-kicad-kicad-symbols-Connector-RJ45_LED
 - Hex ID: SZKCNRJ45L
-- Name: RJ45_LED
-- Description: RJ45_LED
+- Name: Connector : RJ45_LED
+- Description: Connector : RJ45_LED
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-RJ45_LED](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-RJ45_LED)
 - Short Link: [http://oom.lt/SZKCNRJ45L](http://oom.lt/SZKCNRJ45L)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|RJ45_LED|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-RJ45_LED|
 |Hex ID (short code)|hexID|SZKCNRJ45L|
-|name|name|RJ45_LED|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '8P8C_LED', 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'RJ45_LED', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': '8P8C RJ female connector led', 'kicadSymbolki_description': 'RJ connector, 8P8C (8 positions 8 connected), two LEDs', 'kicadSymbolki_fp_filters': '8P8C* RJ45*'}]|
+|name|name|Connector : RJ45_LED|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> '8P8C_LED'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'J'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'RJ45_LED'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> '8P8C RJ female connector led'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'RJ connector</td><td> 8P8C (8 positions 8 connected)</td><td> two LEDs'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> '8P8C* RJ45*'</td></tr></table>]|
 ||||

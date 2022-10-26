@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Bourns_3299W_Vertical|
 |Hex ID (short code)|hexID|FZKPPOTENTIOMETERBOURNS3299WVERTICAL|
 |name|name|Potentiometer_THT : Potentiometer_Bourns_3299W_Vertical|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Potentiometer_Bourns_3299W_Vertical', 'description': 'Potentiometer, vertical, Bourns 3299W, https://www.bourns.com/pdfs/3299.pdf', 'tags': 'Potentiometer vertical Bourns 3299W', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Potentiometer_THT.3dshapes/Potentiometer_Bourns_3299W_Vertical.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Potentiometer_Bourns_3299W_Vertical'</td><td> 'description'</td></tr><tr><td> 'Potentiometer</td><td> vertical</td><td> Bourns 3299W</td><td> https</td></tr><tr><td>//www.bourns.com/pdfs/3299.pdf'</td><td> 'tags'</td></tr><tr><td> 'Potentiometer vertical Bourns 3299W'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Potentiometer_THT.3dshapes/Potentiometer_Bourns_3299W_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

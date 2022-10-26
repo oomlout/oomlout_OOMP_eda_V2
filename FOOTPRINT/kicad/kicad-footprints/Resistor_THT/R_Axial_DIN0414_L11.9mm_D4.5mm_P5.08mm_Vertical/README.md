@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Axial_DIN0414_L11.9mm_D4.5mm_P5.08mm_Vertical|
 |Hex ID (short code)|hexID|FZKRRAXIALDIN414L119D45P58VERTICAL|
 |name|name|Resistor_THT : R_Axial_DIN0414_L11.9mm_D4.5mm_P5.08mm_Vertical|
-|Footprint Kicad|footprintKicadDetails|{'name': 'R_Axial_DIN0414_L11.9mm_D4.5mm_P5.08mm_Vertical', 'description': 'Resistor, Axial_DIN0414 series, Axial, Vertical, pin pitch=5.08mm, 2W, length*diameter=11.9*4.5mm^2, http://www.vishay.com/docs/20128/wkxwrx.pdf', 'tags': 'Resistor Axial_DIN0414 series Axial Vertical pin pitch 5.08mm 2W length 11.9mm diameter 4.5mm', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_DIN0414_L11.9mm_D4.5mm_P5.08mm_Vertical.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'R_Axial_DIN0414_L11.9mm_D4.5mm_P5.08mm_Vertical'</td><td> 'description'</td></tr><tr><td> 'Resistor</td><td> Axial_DIN0414 series</td><td> Axial</td><td> Vertical</td><td> pin pitch=5.08mm</td><td> 2W</td><td> length*diameter=11.9*4.5mm^2</td><td> http</td></tr><tr><td>//www.vishay.com/docs/20128/wkxwrx.pdf'</td><td> 'tags'</td></tr><tr><td> 'Resistor Axial_DIN0414 series Axial Vertical pin pitch 5.08mm 2W length 11.9mm diameter 4.5mm'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Resistor_THT.3dshapes/R_Axial_DIN0414_L11.9mm_D4.5mm_P5.08mm_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

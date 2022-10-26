@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORLINEARNCV8114ASN18T1G > NCV8114ASN180T1G
+# SZKREGULATORLINEARNCV8114ASN18T1G > Regulator_Linear : NCV8114ASN180T1G
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-NCV8114ASN180T1G
 - Hex ID: SZKREGULATORLINEARNCV8114ASN18T1G
-- Name: NCV8114ASN180T1G
-- Description: NCV8114ASN180T1G
+- Name: Regulator_Linear : NCV8114ASN180T1G
+- Description: Regulator_Linear : NCV8114ASN180T1G
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-NCV8114ASN180T1G](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-NCV8114ASN180T1G)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARNCV8114ASN18T1G](http://oom.lt/SZKREGULATORLINEARNCV8114ASN18T1G)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|NCV8114ASN180T1G|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-NCV8114ASN180T1G|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARNCV8114ASN18T1G|
-|name|name|NCV8114ASN180T1G|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'NCV8114ASN120T1G', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'NCV8114ASN180T1G', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TSOT-23-5', 'kicadSymbolDatasheet': 'https://ru.mouser.com/datasheet/2/308/NCV8114-D-1107616.pdf', 'kicadSymbolki_keywords': 'linear regulator ldo fixed positive', 'kicadSymbolki_description': '300mA, Low Noise, Linear Regulator with output active discharge function, 1.7-5.5V input voltage range, 1.8V fixed positive output, TSOT-23-5', 'kicadSymbolki_fp_filters': 'TSOT?23*'}]|
+|name|name|Regulator_Linear : NCV8114ASN180T1G|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'NCV8114ASN120T1G'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'NCV8114ASN180T1G'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>TSOT-23-5'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//ru.mouser.com/datasheet/2/308/NCV8114-D-1107616.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'linear regulator ldo fixed positive'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '300mA</td><td> Low Noise</td><td> Linear Regulator with output active discharge function</td><td> 1.7-5.5V input voltage range</td><td> 1.8V fixed positive output</td><td> TSOT-23-5'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TSOT?23*'</td></tr></table>]|
 ||||

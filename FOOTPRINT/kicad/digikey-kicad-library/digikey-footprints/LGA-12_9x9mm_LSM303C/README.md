@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-LGA-12_9x9mm_LSM303C|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSLGA129X9LSM33C|
 |name|name|digikey-footprints : LGA-12_9x9mm_LSM303C|
-|Footprint Kicad|footprintKicadDetails|{'name': 'LGA-12_9x9mm_LSM303C', 'description': 'http://www.st.com/content/ccc/resource/technical/document/datasheet/59/aa/fb/3b/85/9e/4e/0a/DM00089896.pdf/files/DM00089896.pdf/jcr:content/translations/en.DM00089896.pdf', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'LGA-12_9x9mm_LSM303C'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//www.st.com/content/ccc/resource/technical/document/datasheet/59/aa/fb/3b/85/9e/4e/0a/DM00089896.pdf/files/DM00089896.pdf/jcr</td></tr><tr><td>content/translations/en.DM00089896.pdf'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Linear_DE14MA|
 |Hex ID (short code)|hexID|FZKDFNLINEARDE14MA|
 |name|name|Package_DFN_QFN : Linear_DE14MA|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Linear_DE14MA', 'description': '14-Lead Plastic DFN, 4mm x 3mm (http://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/ltc-legacy-dfn/05081731_C_DE14MA.pdf)', 'tags': 'DFN 0.5', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Linear_DE14MA.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Linear_DE14MA'</td><td> 'description'</td></tr><tr><td> '14-Lead Plastic DFN</td><td> 4mm x 3mm (http</td></tr><tr><td>//www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/ltc-legacy-dfn/05081731_C_DE14MA.pdf)'</td><td> 'tags'</td></tr><tr><td> 'DFN 0.5'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DFN_QFN.3dshapes/Linear_DE14MA.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

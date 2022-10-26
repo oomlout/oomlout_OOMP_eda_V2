@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SON-USON-20_2x4mm_P0.4mm|
 |Hex ID (short code)|hexID|FZKSONUSON22X4P4|
 |name|name|Package_SON : USON-20_2x4mm_P0.4mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'USON-20_2x4mm_P0.4mm', 'description': 'USON-20 2x4mm Pitch 0.4mm http://www.ti.com/lit/ds/symlink/txb0108.pdf', 'tags': 'USON-20 2x4mm Pitch 0.4mm', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SON.3dshapes/USON-20_2x4mm_P0.4mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'USON-20_2x4mm_P0.4mm'</td><td> 'description'</td></tr><tr><td> 'USON-20 2x4mm Pitch 0.4mm http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/txb0108.pdf'</td><td> 'tags'</td></tr><tr><td> 'USON-20 2x4mm Pitch 0.4mm'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_SON.3dshapes/USON-20_2x4mm_P0.4mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

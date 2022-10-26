@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_1008_2520Metric|
 |Hex ID (short code)|hexID|FZKINDUCTORSML18252METRIC|
 |name|name|Inductor_SMD : L_1008_2520Metric|
-|Footprint Kicad|footprintKicadDetails|{'name': 'L_1008_2520Metric', 'description': 'Inductor SMD 1008 (2520 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://ecsxtal.com/store/pdf/ECS-MPI2520-SMD-POWER-INDUCTOR.pdf), generated with kicad-footprint-generator', 'tags': 'inductor', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_1008_2520Metric.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'L_1008_2520Metric'</td><td> 'description'</td></tr><tr><td> 'Inductor SMD 1008 (2520 Metric)</td><td> square (rectangular) end terminal</td><td> IPC_7351 nominal</td><td> (Body size source</td></tr><tr><td> https</td></tr><tr><td>//ecsxtal.com/store/pdf/ECS-MPI2520-SMD-POWER-INDUCTOR.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'inductor'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Inductor_SMD.3dshapes/L_1008_2520Metric.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

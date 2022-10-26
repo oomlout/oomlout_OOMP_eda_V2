@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKAMPLIFIERAUDIOTDA7264 > TDA7264
+# SZKAMPLIFIERAUDIOTDA7264 > Amplifier_Audio : TDA7264
 
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Audio-TDA7264
 - Hex ID: SZKAMPLIFIERAUDIOTDA7264
-- Name: TDA7264
-- Description: TDA7264
+- Name: Amplifier_Audio : TDA7264
+- Description: Amplifier_Audio : TDA7264
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-TDA7264](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-TDA7264)
 - Short Link: [http://oom.lt/SZKAMPLIFIERAUDIOTDA7264](http://oom.lt/SZKAMPLIFIERAUDIOTDA7264)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TDA7264|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Audio-TDA7264|
 |Hex ID (short code)|hexID|SZKAMPLIFIERAUDIOTDA7264|
-|name|name|TDA7264|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TDA7264', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-220-8_Vertical', 'kicadSymbolDatasheet': 'http://www.st.com/resource/en/datasheet/tda7264.pdf', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'audio amplifier 2ch', 'kicadSymbolki_description': '25W + 25W stereo amplifier with mute and standby, TO-220-8', 'kicadSymbolki_fp_filters': 'TO?220*'}]|
+|name|name|Amplifier_Audio : TDA7264|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TDA7264'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_THT</td></tr><tr><td>TO-220-8_Vertical'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.st.com/resource/en/datasheet/tda7264.pdf'</td><td> 'kicadSymbolki_locked'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'audio amplifier 2ch'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '25W + 25W stereo amplifier with mute and standby</td><td> TO-220-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TO?220*'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKANALOGDACMCP4922EP > MCP4922-EP
+# SZKANALOGDACMCP4922EP > Analog_DAC : MCP4922-EP
 
 - ID: SYMBOL-kicad-kicad-symbols-Analog_DAC-MCP4922-EP
 - Hex ID: SZKANALOGDACMCP4922EP
-- Name: MCP4922-EP
-- Description: MCP4922-EP
+- Name: Analog_DAC : MCP4922-EP
+- Description: Analog_DAC : MCP4922-EP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-MCP4922-EP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-MCP4922-EP)
 - Short Link: [http://oom.lt/SZKANALOGDACMCP4922EP](http://oom.lt/SZKANALOGDACMCP4922EP)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MCP4922-EP|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_DAC-MCP4922-EP|
 |Hex ID (short code)|hexID|SZKANALOGDACMCP4922EP|
-|name|name|MCP4922-EP|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MCP4922-EP', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/devicedoc/21897a.pdf', 'kicadSymbolki_keywords': 'Dual DAC 1ch 12bit SPI', 'kicadSymbolki_description': 'Dual 12-bit Digital to Analog Converter, SPI Interface, PDIP-14', 'kicadSymbolki_fp_filters': 'DIP* PDIP* SO* SOIC* TSSOP*'}]|
+|name|name|Analog_DAC : MCP4922-EP|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MCP4922-EP'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/devicedoc/21897a.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Dual DAC 1ch 12bit SPI'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Dual 12-bit Digital to Analog Converter</td><td> SPI Interface</td><td> PDIP-14'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP* PDIP* SO* SOIC* TSSOP*'</td></tr></table>]|
 ||||

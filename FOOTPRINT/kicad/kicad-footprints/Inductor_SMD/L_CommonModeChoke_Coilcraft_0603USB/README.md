@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_CommonModeChoke_Coilcraft_0603USB|
 |Hex ID (short code)|hexID|FZKINDUCTORSMLCOONMODECHOKECOILCRAFT63U|
 |name|name|Inductor_SMD : L_CommonModeChoke_Coilcraft_0603USB|
-|Footprint Kicad|footprintKicadDetails|{'name': 'L_CommonModeChoke_Coilcraft_0603USB', 'description': 'Coilcraft 0603USB Series Common Mode Choke, https://www.coilcraft.com/pdfs/0603usb.pdf', 'tags': 'surface mount common mode bead', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_CommonModeChoke_Coilcraft_0603USB.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'L_CommonModeChoke_Coilcraft_0603USB'</td><td> 'description'</td></tr><tr><td> 'Coilcraft 0603USB Series Common Mode Choke</td><td> https</td></tr><tr><td>//www.coilcraft.com/pdfs/0603usb.pdf'</td><td> 'tags'</td></tr><tr><td> 'surface mount common mode bead'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Inductor_SMD.3dshapes/L_CommonModeChoke_Coilcraft_0603USB.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

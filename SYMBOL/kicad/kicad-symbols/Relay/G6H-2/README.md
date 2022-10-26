@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKRELAYG6H2 > G6H-2
+# SZKRELAYG6H2 > Relay : G6H-2
 
 - ID: SYMBOL-kicad-kicad-symbols-Relay-G6H-2
 - Hex ID: SZKRELAYG6H2
-- Name: G6H-2
-- Description: G6H-2
+- Name: Relay : G6H-2
+- Description: Relay : G6H-2
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-G6H-2](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-G6H-2)
 - Short Link: [http://oom.lt/SZKRELAYG6H2](http://oom.lt/SZKRELAYG6H2)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|G6H-2|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Relay-G6H-2|
 |Hex ID (short code)|hexID|SZKRELAYG6H2|
-|name|name|G6H-2|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'K', 'kicadSymbolValue': 'G6H-2', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://cdn-reichelt.de/documents/datenblatt/C300/G6H%23OMR.pdf', 'kicadSymbolki_keywords': 'relay monostable', 'kicadSymbolki_description': 'Omron Ultracompact, Ultrasensitive DPDT Relay, Single-side Stable', 'kicadSymbolki_fp_filters': 'Relay*Omron*G6H?2*'}]|
+|name|name|Relay : G6H-2|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'K'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'G6H-2'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//cdn-reichelt.de/documents/datenblatt/C300/G6H%23OMR.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'relay monostable'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Omron Ultracompact</td><td> Ultrasensitive DPDT Relay</td><td> Single-side Stable'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Relay*Omron*G6H?2*'</td></tr></table>]|
 ||||

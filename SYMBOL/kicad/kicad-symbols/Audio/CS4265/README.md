@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKAUDIOCS4265 > CS4265
+# SZKAUDIOCS4265 > Audio : CS4265
 
 - ID: SYMBOL-kicad-kicad-symbols-Audio-CS4265
 - Hex ID: SZKAUDIOCS4265
-- Name: CS4265
-- Description: CS4265
+- Name: Audio : CS4265
+- Description: Audio : CS4265
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-CS4265](http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-CS4265)
 - Short Link: [http://oom.lt/SZKAUDIOCS4265](http://oom.lt/SZKAUDIOCS4265)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|CS4265|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Audio-CS4265|
 |Hex ID (short code)|hexID|SZKAUDIOCS4265|
-|name|name|CS4265|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'CS4265', 'kicadSymbolFootprint': 'Package_DFN_QFN:QFN-32-1EP_5x5mm_P0.5mm_EP3.6x3.6mm', 'kicadSymbolDatasheet': 'https://statics.cirrus.com/pubs/proDatasheet/CS4265_F5.pdf', 'kicadSymbolki_keywords': 'Audio codec 24bit 192khz stereo', 'kicadSymbolki_description': '104 dB, 24-Bit, 192 kHz Stereo Audio CODEC, QFN-32', 'kicadSymbolki_fp_filters': 'QFN*1EP*5x5mm*0.5mm*'}]|
+|name|name|Audio : CS4265|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'CS4265'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>QFN-32-1EP_5x5mm_P0.5mm_EP3.6x3.6mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//statics.cirrus.com/pubs/proDatasheet/CS4265_F5.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Audio codec 24bit 192khz stereo'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '104 dB</td><td> 24-Bit</td><td> 192 kHz Stereo Audio CODEC</td><td> QFN-32'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'QFN*1EP*5x5mm*0.5mm*'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDEVICEROTARYENCODER > RotaryEncoder
+# SZKDEVICEROTARYENCODER > Device : RotaryEncoder
 
 - ID: SYMBOL-kicad-kicad-symbols-Device-RotaryEncoder
 - Hex ID: SZKDEVICEROTARYENCODER
-- Name: RotaryEncoder
-- Description: RotaryEncoder
+- Name: Device : RotaryEncoder
+- Description: Device : RotaryEncoder
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-RotaryEncoder](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-RotaryEncoder)
 - Short Link: [http://oom.lt/SZKDEVICEROTARYENCODER](http://oom.lt/SZKDEVICEROTARYENCODER)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|RotaryEncoder|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-RotaryEncoder|
 |Hex ID (short code)|hexID|SZKDEVICEROTARYENCODER|
-|name|name|RotaryEncoder|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'SW', 'kicadSymbolValue': 'RotaryEncoder', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'rotary switch encoder', 'kicadSymbolki_description': 'Rotary encoder, dual channel, incremental quadrate outputs', 'kicadSymbolki_fp_filters': 'RotaryEncoder*'}]|
+|name|name|Device : RotaryEncoder|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'SW'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'RotaryEncoder'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'rotary switch encoder'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Rotary encoder</td><td> dual channel</td><td> incremental quadrate outputs'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'RotaryEncoder*'</td></tr></table>]|
 ||||

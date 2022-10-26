@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Wuerth_WE-PD-Typ-M-Typ-S|
 |Hex ID (short code)|hexID|FZKINDUCTORSMLWUERTHWEPDTYPMTYPS|
 |name|name|Inductor_SMD : L_Wuerth_WE-PD-Typ-M-Typ-S|
-|Footprint Kicad|footprintKicadDetails|{'name': 'L_Wuerth_WE-PD-Typ-M-Typ-S', 'description': 'Shielded Power Inductor, Wuerth Elektronik, WE-PD, SMT, Typ M, Typ S, https://katalog.we-online.com/pbs/datasheet/744778005.pdf', 'tags': 'Choke Shielded Power Inductor WE-PD TypM TypS Wuerth', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Wuerth_WE-PD-Typ-M-Typ-S.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'L_Wuerth_WE-PD-Typ-M-Typ-S'</td><td> 'description'</td></tr><tr><td> 'Shielded Power Inductor</td><td> Wuerth Elektronik</td><td> WE-PD</td><td> SMT</td><td> Typ M</td><td> Typ S</td><td> https</td></tr><tr><td>//katalog.we-online.com/pbs/datasheet/744778005.pdf'</td><td> 'tags'</td></tr><tr><td> 'Choke Shielded Power Inductor WE-PD TypM TypS Wuerth'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Inductor_SMD.3dshapes/L_Wuerth_WE-PD-Typ-M-Typ-S.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

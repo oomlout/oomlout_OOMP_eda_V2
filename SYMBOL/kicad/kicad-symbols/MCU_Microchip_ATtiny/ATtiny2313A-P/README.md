@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUMCHIPATTINYATTINY2313AP > ATtiny2313A-P
+# SZKMCUMCHIPATTINYATTINY2313AP > MCU_Microchip_ATtiny : ATtiny2313A-P
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny2313A-P
 - Hex ID: SZKMCUMCHIPATTINYATTINY2313AP
-- Name: ATtiny2313A-P
-- Description: ATtiny2313A-P
+- Name: MCU_Microchip_ATtiny : ATtiny2313A-P
+- Description: MCU_Microchip_ATtiny : ATtiny2313A-P
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny2313A-P](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny2313A-P)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATTINYATTINY2313AP](http://oom.lt/SZKMCUMCHIPATTINYATTINY2313AP)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ATtiny2313A-P|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny2313A-P|
 |Hex ID (short code)|hexID|SZKMCUMCHIPATTINYATTINY2313AP|
-|name|name|ATtiny2313A-P|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ATtiny2313V-10P', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ATtiny2313A-P', 'kicadSymbolFootprint': 'Package_DIP:DIP-20_W7.62mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/doc8246.pdf', 'kicadSymbolki_keywords': 'AVR 8bit Microcontroller tinyAVR', 'kicadSymbolki_description': '20MHz, 2kB Flash, 128B SRAM, 128B EEPROM, DIP-20', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
+|name|name|MCU_Microchip_ATtiny : ATtiny2313A-P|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'ATtiny2313V-10P'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ATtiny2313A-P'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>DIP-20_W7.62mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/doc8246.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'AVR 8bit Microcontroller tinyAVR'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '20MHz</td><td> 2kB Flash</td><td> 128B SRAM</td><td> 128B EEPROM</td><td> DIP-20'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W7.62mm*'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKSENAUDIOMP45DT2 > MP45DT02
+# SZKSENAUDIOMP45DT2 > Sensor_Audio : MP45DT02
 
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Audio-MP45DT02
 - Hex ID: SZKSENAUDIOMP45DT2
-- Name: MP45DT02
-- Description: MP45DT02
+- Name: Sensor_Audio : MP45DT02
+- Description: Sensor_Audio : MP45DT02
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Audio-MP45DT02](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Audio-MP45DT02)
 - Short Link: [http://oom.lt/SZKSENAUDIOMP45DT2](http://oom.lt/SZKSENAUDIOMP45DT2)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MP45DT02|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Audio-MP45DT02|
 |Hex ID (short code)|hexID|SZKSENAUDIOMP45DT2|
-|name|name|MP45DT02|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'MK', 'kicadSymbolValue': 'MP45DT02', 'kicadSymbolFootprint': 'Sensor_Audio:ST_HLGA-6_3.76x4.72mm_P1.65mm', 'kicadSymbolDatasheet': 'http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00025467.pdf', 'kicadSymbolki_keywords': 'MEMS Microphone', 'kicadSymbolki_description': 'MEMS Omnidirectional Digital Microphone, HLGA-6', 'kicadSymbolki_fp_filters': 'ST*HLGA*3.76x4.72mm*P1.65mm*'}]|
+|name|name|Sensor_Audio : MP45DT02|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'MK'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MP45DT02'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Sensor_Audio</td></tr><tr><td>ST_HLGA-6_3.76x4.72mm_P1.65mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00025467.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'MEMS Microphone'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'MEMS Omnidirectional Digital Microphone</td><td> HLGA-6'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'ST*HLGA*3.76x4.72mm*P1.65mm*'</td></tr></table>]|
 ||||

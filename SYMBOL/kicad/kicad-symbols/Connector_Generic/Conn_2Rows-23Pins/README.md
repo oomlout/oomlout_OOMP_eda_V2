@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKCNGENERICCONN2ROWS23PINS > Conn_2Rows-23Pins
+# SZKCNGENERICCONN2ROWS23PINS > Connector_Generic : Conn_2Rows-23Pins
 
 - ID: SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_2Rows-23Pins
 - Hex ID: SZKCNGENERICCONN2ROWS23PINS
-- Name: Conn_2Rows-23Pins
-- Description: Conn_2Rows-23Pins
+- Name: Connector_Generic : Conn_2Rows-23Pins
+- Description: Connector_Generic : Conn_2Rows-23Pins
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_2Rows-23Pins](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_2Rows-23Pins)
 - Short Link: [http://oom.lt/SZKCNGENERICCONN2ROWS23PINS](http://oom.lt/SZKCNGENERICCONN2ROWS23PINS)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Conn_2Rows-23Pins|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_2Rows-23Pins|
 |Hex ID (short code)|hexID|SZKCNGENERICCONN2ROWS23PINS|
-|name|name|Conn_2Rows-23Pins|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'Conn_2Rows-23Pins', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'connector', 'kicadSymbolki_description': 'Generic connector, double row, 23 pins, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)', 'kicadSymbolki_fp_filters': 'Connector*:*2Rows*Pins__* *FCC*2Rows*Pins__*'}]|
+|name|name|Connector_Generic : Conn_2Rows-23Pins|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'J'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Conn_2Rows-23Pins'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'connector'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Generic connector</td><td> double row</td><td> 23 pins</td><td> odd/even pin numbering scheme (row 1 odd numbers</td><td> row 2 even numbers)</td><td> script generated (kicad-library-utils/schlib/autogen/connector/)'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Connector*</td></tr><tr><td>*2Rows*Pins__* *FCC*2Rows*Pins__*'</td></tr></table>]|
 ||||

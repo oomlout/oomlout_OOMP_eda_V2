@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_SATA_SAS-SAS-mini_TEConnectivity_1888174_Vertical|
 |Hex ID (short code)|hexID|FZKCNSATASASSASMTECONNECTIVITY1888174VERTICAL|
 |name|name|Connector_SATA_SAS : SAS-mini_TEConnectivity_1888174_Vertical|
-|Footprint Kicad|footprintKicadDetails|{'name': 'SAS-mini_TEConnectivity_1888174_Vertical', 'description': '36pin mini SAS connector, http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1888174&DocType=Customer+Drawing&DocLang=English', 'tags': 'SAS mini connector', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_SATA_SAS.3dshapes/SAS-mini_TEConnectivity_1888174_Vertical.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SAS-mini_TEConnectivity_1888174_Vertical'</td><td> 'description'</td></tr><tr><td> '36pin mini SAS connector</td><td> http</td></tr><tr><td>//www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1888174&DocType=Customer+Drawing&DocLang=English'</td><td> 'tags'</td></tr><tr><td> 'SAS mini connector'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_SATA_SAS.3dshapes/SAS-mini_TEConnectivity_1888174_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

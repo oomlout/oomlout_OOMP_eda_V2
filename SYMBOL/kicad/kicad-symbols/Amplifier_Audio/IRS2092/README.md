@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKAMPLIFIERAUDIOIRS292 > IRS2092
+# SZKAMPLIFIERAUDIOIRS292 > Amplifier_Audio : IRS2092
 
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Audio-IRS2092
 - Hex ID: SZKAMPLIFIERAUDIOIRS292
-- Name: IRS2092
-- Description: IRS2092
+- Name: Amplifier_Audio : IRS2092
+- Description: Amplifier_Audio : IRS2092
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-IRS2092](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-IRS2092)
 - Short Link: [http://oom.lt/SZKAMPLIFIERAUDIOIRS292](http://oom.lt/SZKAMPLIFIERAUDIOIRS292)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IRS2092|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Audio-IRS2092|
 |Hex ID (short code)|hexID|SZKAMPLIFIERAUDIOIRS292|
-|name|name|IRS2092|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'IRS2092', 'kicadSymbolFootprint': 'Package_DIP:DIP-16_W7.62mm', 'kicadSymbolDatasheet': 'http://www.infineon.com/dgdl/irs2092.pdf?fileId=5546d462533600a401535675f1be2790', 'kicadSymbolki_keywords': 'Gate Driver Class D', 'kicadSymbolki_description': 'Protected Digital Audio Amplifier, PWM Modulator, +/-100V, 1.0/1.2A, PDIP-16', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
+|name|name|Amplifier_Audio : IRS2092|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'IRS2092'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>DIP-16_W7.62mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.infineon.com/dgdl/irs2092.pdf?fileId=5546d462533600a401535675f1be2790'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Gate Driver Class D'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Protected Digital Audio Amplifier</td><td> PWM Modulator</td><td> +/-100V</td><td> 1.0/1.2A</td><td> PDIP-16'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W7.62mm*'</td></tr></table>]|
 ||||

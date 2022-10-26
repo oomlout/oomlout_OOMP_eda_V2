@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDIODEBRIDGEDF6M > DF06M
+# SZKDIODEBRIDGEDF6M > Diode_Bridge : DF06M
 
 - ID: SYMBOL-kicad-kicad-symbols-Diode_Bridge-DF06M
 - Hex ID: SZKDIODEBRIDGEDF6M
-- Name: DF06M
-- Description: DF06M
+- Name: Diode_Bridge : DF06M
+- Description: Diode_Bridge : DF06M
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-DF06M](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-DF06M)
 - Short Link: [http://oom.lt/SZKDIODEBRIDGEDF6M](http://oom.lt/SZKDIODEBRIDGEDF6M)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DF06M|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode_Bridge-DF06M|
 |Hex ID (short code)|hexID|SZKDIODEBRIDGEDF6M|
-|name|name|DF06M|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'B40C800DM', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'DF06M', 'kicadSymbolFootprint': 'Diode_THT:Diode_Bridge_DIP-4_W7.62mm_P5.08mm', 'kicadSymbolDatasheet': 'http://www.vishay.com/docs/88571/dfm.pdf', 'kicadSymbolki_keywords': 'rectifier acdc', 'kicadSymbolki_description': 'Miniature Glass Passivated Single-Phase Bridge Rectifiers, 420V Vrms, 1.0A If, DIP-4', 'kicadSymbolki_fp_filters': 'Diode*Bridge*DIP*W7.62mm*P5.08mm*'}]|
+|name|name|Diode_Bridge : DF06M|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'B40C800DM'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'DF06M'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Diode_THT</td></tr><tr><td>Diode_Bridge_DIP-4_W7.62mm_P5.08mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.vishay.com/docs/88571/dfm.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'rectifier acdc'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Miniature Glass Passivated Single-Phase Bridge Rectifiers</td><td> 420V Vrms</td><td> 1.0A If</td><td> DIP-4'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Diode*Bridge*DIP*W7.62mm*P5.08mm*'</td></tr></table>]|
 ||||

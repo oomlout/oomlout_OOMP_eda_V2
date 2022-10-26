@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Battery-BatteryHolder_MPD_BC2AAPC_2xAA|
 |Hex ID (short code)|hexID|FZKBATBATHOLDERMPDBC2AAPC2XAA|
 |name|name|Battery : BatteryHolder_MPD_BC2AAPC_2xAA|
-|Footprint Kicad|footprintKicadDetails|{'name': 'BatteryHolder_MPD_BC2AAPC_2xAA', 'description': '2xAA cell battery holder, Memory Protection Devices P/N BC2AAPC, http://www.memoryprotectiondevices.com/datasheets/BC2AAPC-datasheet.pdf', 'tags': 'AA battery cell holder', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Battery.3dshapes/BatteryHolder_MPD_BC2AAPC_2xAA.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'BatteryHolder_MPD_BC2AAPC_2xAA'</td><td> 'description'</td></tr><tr><td> '2xAA cell battery holder</td><td> Memory Protection Devices P/N BC2AAPC</td><td> http</td></tr><tr><td>//www.memoryprotectiondevices.com/datasheets/BC2AAPC-datasheet.pdf'</td><td> 'tags'</td></tr><tr><td> 'AA battery cell holder'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Battery.3dshapes/BatteryHolder_MPD_BC2AAPC_2xAA.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

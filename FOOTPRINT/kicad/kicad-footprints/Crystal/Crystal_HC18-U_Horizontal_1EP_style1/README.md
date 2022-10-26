@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_HC18-U_Horizontal_1EP_style1|
 |Hex ID (short code)|hexID|FZKXXHC18UHORIZONTAL1EPSTYLE1|
 |name|name|Crystal : Crystal_HC18-U_Horizontal_1EP_style1|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Crystal_HC18-U_Horizontal_1EP_style1', 'description': 'Crystal THT HC-18/U http://5hertz.com/pdfs/04404_D.pdf', 'tags': 'THT crystal', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Crystal_HC18-U_Horizontal_1EP_style1.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Crystal_HC18-U_Horizontal_1EP_style1'</td><td> 'description'</td></tr><tr><td> 'Crystal THT HC-18/U http</td></tr><tr><td>//5hertz.com/pdfs/04404_D.pdf'</td><td> 'tags'</td></tr><tr><td> 'THT crystal'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Crystal.3dshapes/Crystal_HC18-U_Horizontal_1EP_style1.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

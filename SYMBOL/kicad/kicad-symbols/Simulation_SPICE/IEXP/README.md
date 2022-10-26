@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKSIMULATIONSPICEIEXP > IEXP
+# SZKSIMULATIONSPICEIEXP > Simulation_SPICE : IEXP
 
 - ID: SYMBOL-kicad-kicad-symbols-Simulation_SPICE-IEXP
 - Hex ID: SZKSIMULATIONSPICEIEXP
-- Name: IEXP
-- Description: IEXP
+- Name: Simulation_SPICE : IEXP
+- Description: Simulation_SPICE : IEXP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Simulation_SPICE-IEXP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Simulation_SPICE-IEXP)
 - Short Link: [http://oom.lt/SZKSIMULATIONSPICEIEXP](http://oom.lt/SZKSIMULATIONSPICEIEXP)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IEXP|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Simulation_SPICE-IEXP|
 |Hex ID (short code)|hexID|SZKSIMULATIONSPICEIEXP|
-|name|name|IEXP|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'I', 'kicadSymbolValue': 'IEXP', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolSpice_Netlist_Enabled': 'Y', 'kicadSymbolSpice_Primitive': 'I', 'kicadSymbolSpice_Model': 'exp(0 1 2n 30n 60n 40n)', 'kicadSymbolki_keywords': 'simulation', 'kicadSymbolki_description': 'Current source, exponential'}]|
+|name|name|Simulation_SPICE : IEXP|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'I'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'IEXP'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolSpice_Netlist_Enabled'</td></tr><tr><td> 'Y'</td><td> 'kicadSymbolSpice_Primitive'</td></tr><tr><td> 'I'</td><td> 'kicadSymbolSpice_Model'</td></tr><tr><td> 'exp(0 1 2n 30n 60n 40n)'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'simulation'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Current source</td><td> exponential'</td></tr></table>]|
 ||||

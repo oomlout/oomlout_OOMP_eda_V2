@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-OptoDevice-Kodenshi_LG206D|
 |Hex ID (short code)|hexID|FZKOPKODENSHILG26D|
 |name|name|OptoDevice : Kodenshi_LG206D|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Kodenshi_LG206D', 'description': 'http://kodenshi.co.jp/products/pdf/sensor/photointerrupter_ic/LG206D.pdf', 'tags': 'Photointerrupter  infrared LED with photo IC', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/Kodenshi_LG206D.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Kodenshi_LG206D'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//kodenshi.co.jp/products/pdf/sensor/photointerrupter_ic/LG206D.pdf'</td><td> 'tags'</td></tr><tr><td> 'Photointerrupter  infrared LED with photo IC'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/OptoDevice.3dshapes/Kodenshi_LG206D.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

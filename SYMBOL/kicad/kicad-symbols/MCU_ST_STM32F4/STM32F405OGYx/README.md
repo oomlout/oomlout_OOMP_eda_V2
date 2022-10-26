@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUSTSTM32F4STM32F45OGYX > STM32F405OGYx
+# SZKMCUSTSTM32F4STM32F45OGYX > MCU_ST_STM32F4 : STM32F405OGYx
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F405OGYx
 - Hex ID: SZKMCUSTSTM32F4STM32F45OGYX
-- Name: STM32F405OGYx
-- Description: STM32F405OGYx
+- Name: MCU_ST_STM32F4 : STM32F405OGYx
+- Description: MCU_ST_STM32F4 : STM32F405OGYx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F405OGYx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F405OGYx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32F4STM32F45OGYX](http://oom.lt/SZKMCUSTSTM32F4STM32F45OGYX)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|STM32F405OGYx|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F405OGYx|
 |Hex ID (short code)|hexID|SZKMCUSTSTM32F4STM32F45OGYX|
-|name|name|STM32F405OGYx|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'STM32F405OEYx', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'STM32F405OGYx', 'kicadSymbolFootprint': 'Package_CSP:ST_WLCSP-90_Die413', 'kicadSymbolDatasheet': 'http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00037051.pdf', 'kicadSymbolki_keywords': 'ARM Cortex-M4 STM32F4 STM32F405/415', 'kicadSymbolki_description': 'ARM Cortex-M4 MCU, 1024KB flash, 128KB RAM, 168MHz, 1.8-3.6V, 72 GPIO, WLCSP-90', 'kicadSymbolki_fp_filters': 'ST_WLCSP*Die413*'}]|
+|name|name|MCU_ST_STM32F4 : STM32F405OGYx|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'STM32F405OEYx'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'STM32F405OGYx'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_CSP</td></tr><tr><td>ST_WLCSP-90_Die413'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00037051.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'ARM Cortex-M4 STM32F4 STM32F405/415'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'ARM Cortex-M4 MCU</td><td> 1024KB flash</td><td> 128KB RAM</td><td> 168MHz</td><td> 1.8-3.6V</td><td> 72 GPIO</td><td> WLCSP-90'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'ST_WLCSP*Die413*'</td></tr></table>]|
 ||||

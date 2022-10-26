@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKINTERFACEUARTSN75176AP > SN75176AP
+# SZKINTERFACEUARTSN75176AP > Interface_UART : SN75176AP
 
 - ID: SYMBOL-kicad-kicad-symbols-Interface_UART-SN75176AP
 - Hex ID: SZKINTERFACEUARTSN75176AP
-- Name: SN75176AP
-- Description: SN75176AP
+- Name: Interface_UART : SN75176AP
+- Description: Interface_UART : SN75176AP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-SN75176AP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-SN75176AP)
 - Short Link: [http://oom.lt/SZKINTERFACEUARTSN75176AP](http://oom.lt/SZKINTERFACEUARTSN75176AP)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SN75176AP|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_UART-SN75176AP|
 |Hex ID (short code)|hexID|SZKINTERFACEUARTSN75176AP|
-|name|name|SN75176AP|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'SN75LBC176P', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'SN75176AP', 'kicadSymbolFootprint': 'Package_DIP:DIP-8_W7.62mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/sn75176a.pdf', 'kicadSymbolki_keywords': 'Differential bus transceiver', 'kicadSymbolki_description': 'Differential RS-422/RS-485 bus transceiver, DIP-8', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
+|name|name|Interface_UART : SN75176AP|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'SN75LBC176P'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'SN75176AP'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>DIP-8_W7.62mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/sn75176a.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Differential bus transceiver'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Differential RS-422/RS-485 bus transceiver</td><td> DIP-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W7.62mm*'</td></tr></table>]|
 ||||

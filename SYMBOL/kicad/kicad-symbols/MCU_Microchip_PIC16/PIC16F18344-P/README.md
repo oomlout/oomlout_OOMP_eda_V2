@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUMCHIPPIC16PIC16F18344P > PIC16F18344-P
+# SZKMCUMCHIPPIC16PIC16F18344P > MCU_Microchip_PIC16 : PIC16F18344-P
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F18344-P
 - Hex ID: SZKMCUMCHIPPIC16PIC16F18344P
-- Name: PIC16F18344-P
-- Description: PIC16F18344-P
+- Name: MCU_Microchip_PIC16 : PIC16F18344-P
+- Description: MCU_Microchip_PIC16 : PIC16F18344-P
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F18344-P](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F18344-P)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC16PIC16F18344P](http://oom.lt/SZKMCUMCHIPPIC16PIC16F18344P)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PIC16F18344-P|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F18344-P|
 |Hex ID (short code)|hexID|SZKMCUMCHIPPIC16PIC16F18344P|
-|name|name|PIC16F18344-P|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PIC16F18344-P', 'kicadSymbolFootprint': 'Package_DIP:DIP-20_W7.62mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/devicedoc/40001800a.pdf', 'kicadSymbolki_keywords': 'FLASH-Based 8-Bit CMOS Microcontroller Low Power', 'kicadSymbolki_description': '4096W FLASH, 512B RAM, 256B EEPROM, PDIP-20', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
+|name|name|MCU_Microchip_PIC16 : PIC16F18344-P|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'PIC16F18344-P'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>DIP-20_W7.62mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/devicedoc/40001800a.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'FLASH-Based 8-Bit CMOS Microcontroller Low Power'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '4096W FLASH</td><td> 512B RAM</td><td> 256B EEPROM</td><td> PDIP-20'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W7.62mm*'</td></tr></table>]|
 ||||

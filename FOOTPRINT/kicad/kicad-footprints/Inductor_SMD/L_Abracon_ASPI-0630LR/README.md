@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Abracon_ASPI-0630LR|
 |Hex ID (short code)|hexID|FZKINDUCTORSMLABRACONASPI63LR|
 |name|name|Inductor_SMD : L_Abracon_ASPI-0630LR|
-|Footprint Kicad|footprintKicadDetails|{'name': 'L_Abracon_ASPI-0630LR', 'description': 'smd shielded power inductor https://abracon.com/Magnetics/power/ASPI-0630LR.pdf', 'tags': 'inductor abracon smd shielded', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Abracon_ASPI-0630LR.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'L_Abracon_ASPI-0630LR'</td><td> 'description'</td></tr><tr><td> 'smd shielded power inductor https</td></tr><tr><td>//abracon.com/Magnetics/power/ASPI-0630LR.pdf'</td><td> 'tags'</td></tr><tr><td> 'inductor abracon smd shielded'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Inductor_SMD.3dshapes/L_Abracon_ASPI-0630LR.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Module-Adafruit_Feather_WICED|
 |Hex ID (short code)|hexID|FZKMOADAFEATHERWICED|
 |name|name|Module : Adafruit_Feather_WICED|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Adafruit_Feather_WICED', 'description': 'Footprint for the Adafruit Feather WICED Wifi board, https://learn.adafruit.com/introducing-the-adafruit-wiced-feather-wifi', 'tags': 'Adafruit Feather WICED Wifi', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Module.3dshapes/Adafruit_Feather_WICED.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Adafruit_Feather_WICED'</td><td> 'description'</td></tr><tr><td> 'Footprint for the Adafruit Feather WICED Wifi board</td><td> https</td></tr><tr><td>//learn.adafruit.com/introducing-the-adafruit-wiced-feather-wifi'</td><td> 'tags'</td></tr><tr><td> 'Adafruit Feather WICED Wifi'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Module.3dshapes/Adafruit_Feather_WICED.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

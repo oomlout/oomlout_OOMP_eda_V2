@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKANALOGADCMAX1112 > MAX1112
+# SZKANALOGADCMAX1112 > Analog_ADC : MAX1112
 
 - ID: SYMBOL-kicad-kicad-symbols-Analog_ADC-MAX1112
 - Hex ID: SZKANALOGADCMAX1112
-- Name: MAX1112
-- Description: MAX1112
+- Name: Analog_ADC : MAX1112
+- Description: Analog_ADC : MAX1112
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-MAX1112](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-MAX1112)
 - Short Link: [http://oom.lt/SZKANALOGADCMAX1112](http://oom.lt/SZKANALOGADCMAX1112)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MAX1112|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_ADC-MAX1112|
 |Hex ID (short code)|hexID|SZKANALOGADCMAX1112|
-|name|name|MAX1112|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MAX1112', 'kicadSymbolFootprint': 'Package_SO:SSOP-20_5.3x7.2mm_P0.65mm', 'kicadSymbolDatasheet': 'http://datasheets.maximintegrated.com/en/ds/MAX1112-MAX1113.pdf', 'kicadSymbolki_keywords': 'MAXIM ADC 5V 8-Bit SPI QSPI MICROWIRE', 'kicadSymbolki_description': '8-Channel Single-Ended or 4-Channel Differential 8-Bit ADC, SSOP-20', 'kicadSymbolki_fp_filters': 'SSOP*5.3x7.2mm*P0.65mm*'}]|
+|name|name|Analog_ADC : MAX1112|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MAX1112'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SSOP-20_5.3x7.2mm_P0.65mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//datasheets.maximintegrated.com/en/ds/MAX1112-MAX1113.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'MAXIM ADC 5V 8-Bit SPI QSPI MICROWIRE'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '8-Channel Single-Ended or 4-Channel Differential 8-Bit ADC</td><td> SSOP-20'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SSOP*5.3x7.2mm*P0.65mm*'</td></tr></table>]|
 ||||

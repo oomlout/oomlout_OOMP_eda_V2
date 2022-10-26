@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_SPST_CK_KXT3|
 |Hex ID (short code)|hexID|FZKBSWITCHSMSWSPSTCKKXT3|
 |name|name|Button_Switch_SMD : SW_SPST_CK_KXT3|
-|Footprint Kicad|footprintKicadDetails|{'name': 'SW_SPST_CK_KXT3', 'description': 'https://www.ckswitches.com/media/1465/kxt3.pdf', 'tags': 'Switch SPST KXT3', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_SPST_CK_KXT3.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SW_SPST_CK_KXT3'</td><td> 'description'</td></tr><tr><td> 'https</td></tr><tr><td>//www.ckswitches.com/media/1465/kxt3.pdf'</td><td> 'tags'</td></tr><tr><td> 'Switch SPST KXT3'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Button_Switch_SMD.3dshapes/SW_SPST_CK_KXT3.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKANALOGADCLTC2451XTS8 > LTC2451xTS8
+# SZKANALOGADCLTC2451XTS8 > Analog_ADC : LTC2451xTS8
 
 - ID: SYMBOL-kicad-kicad-symbols-Analog_ADC-LTC2451xTS8
 - Hex ID: SZKANALOGADCLTC2451XTS8
-- Name: LTC2451xTS8
-- Description: LTC2451xTS8
+- Name: Analog_ADC : LTC2451xTS8
+- Description: Analog_ADC : LTC2451xTS8
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-LTC2451xTS8](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-LTC2451xTS8)
 - Short Link: [http://oom.lt/SZKANALOGADCLTC2451XTS8](http://oom.lt/SZKANALOGADCLTC2451XTS8)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LTC2451xTS8|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_ADC-LTC2451xTS8|
 |Hex ID (short code)|hexID|SZKANALOGADCLTC2451XTS8|
-|name|name|LTC2451xTS8|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LTC2451xTS8', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TSOT-23-8', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/2451fg.pdf', 'kicadSymbolki_keywords': 'analog to digital converter adc i2c twi single channel delta sigma 16 bit', 'kicadSymbolki_description': 'Analog to Digital Converter, Single Channel, 16-Bit, 30/60 SPS, 2.7V to 5.5V, I2C interface, TSOT-23-6', 'kicadSymbolki_fp_filters': 'TSOT?23*'}]|
+|name|name|Analog_ADC : LTC2451xTS8|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LTC2451xTS8'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>TSOT-23-8'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/2451fg.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'analog to digital converter adc i2c twi single channel delta sigma 16 bit'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Analog to Digital Converter</td><td> Single Channel</td><td> 16-Bit</td><td> 30/60 SPS</td><td> 2.7V to 5.5V</td><td> I2C interface</td><td> TSOT-23-6'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TSOT?23*'</td></tr></table>]|
 ||||

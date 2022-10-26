@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKINTERFACECURRENTLOOPXTR116U > XTR116U
+# SZKINTERFACECURRENTLOOPXTR116U > Interface_CurrentLoop : XTR116U
 
 - ID: SYMBOL-kicad-kicad-symbols-Interface_CurrentLoop-XTR116U
 - Hex ID: SZKINTERFACECURRENTLOOPXTR116U
-- Name: XTR116U
-- Description: XTR116U
+- Name: Interface_CurrentLoop : XTR116U
+- Description: Interface_CurrentLoop : XTR116U
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_CurrentLoop-XTR116U](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_CurrentLoop-XTR116U)
 - Short Link: [http://oom.lt/SZKINTERFACECURRENTLOOPXTR116U](http://oom.lt/SZKINTERFACECURRENTLOOPXTR116U)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|XTR116U|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_CurrentLoop-XTR116U|
 |Hex ID (short code)|hexID|SZKINTERFACECURRENTLOOPXTR116U|
-|name|name|XTR116U|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'XTR115U', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'XTR116U', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/xtr115.pdf', 'kicadSymbolki_keywords': '4-20mA Current Loop Transmitter', 'kicadSymbolki_description': '4-20mA Current Loop Transmitter, VREF 4.096V, SO-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm*'}]|
+|name|name|Interface_CurrentLoop : XTR116U|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'XTR115U'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'XTR116U'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-8_3.9x4.9mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/xtr115.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> '4-20mA Current Loop Transmitter'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '4-20mA Current Loop Transmitter</td><td> VREF 4.096V</td><td> SO-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*3.9x4.9mm*P1.27mm*'</td></tr></table>]|
 ||||

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_CSP-Analog_LFCSP-8-1EP_3x3mm_P0.5mm_EP1.53x1.85mm|
 |Hex ID (short code)|hexID|FZKCSPANALOGLFCSP81EP3X3P5EP153X185|
 |name|name|Package_CSP : Analog_LFCSP-8-1EP_3x3mm_P0.5mm_EP1.53x1.85mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Analog_LFCSP-8-1EP_3x3mm_P0.5mm_EP1.53x1.85mm', 'description': 'LFCSP, exposed pad, Analog Devices (http://www.analog.com/media/en/technical-documentation/data-sheets/ADL5542.pdf)', 'tags': 'LFCSP 8 0.5', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_CSP.3dshapes/LFCSP-8-1EP_3x3mm_P0.5mm_EP1.53x1.85mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Analog_LFCSP-8-1EP_3x3mm_P0.5mm_EP1.53x1.85mm'</td><td> 'description'</td></tr><tr><td> 'LFCSP</td><td> exposed pad</td><td> Analog Devices (http</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/ADL5542.pdf)'</td><td> 'tags'</td></tr><tr><td> 'LFCSP 8 0.5'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_CSP.3dshapes/LFCSP-8-1EP_3x3mm_P0.5mm_EP1.53x1.85mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Potentiometer_SMD-Potentiometer_Vishay_TS53YJ_Vertical|
 |Hex ID (short code)|hexID|FZKPOTENTIOMETERSMPOTENTIOMETERVISHAYTS53YJVERTICAL|
 |name|name|Potentiometer_SMD : Potentiometer_Vishay_TS53YJ_Vertical|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Potentiometer_Vishay_TS53YJ_Vertical', 'description': 'Potentiometer, vertical, Vishay TS53YJ, https://www.vishay.com/docs/51008/ts53.pdf', 'tags': 'Potentiometer vertical Vishay TS53YJ', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Potentiometer_SMD.3dshapes/Potentiometer_Vishay_TS53YJ_Vertical.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Potentiometer_Vishay_TS53YJ_Vertical'</td><td> 'description'</td></tr><tr><td> 'Potentiometer</td><td> vertical</td><td> Vishay TS53YJ</td><td> https</td></tr><tr><td>//www.vishay.com/docs/51008/ts53.pdf'</td><td> 'tags'</td></tr><tr><td> 'Potentiometer vertical Vishay TS53YJ'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Potentiometer_SMD.3dshapes/Potentiometer_Vishay_TS53YJ_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

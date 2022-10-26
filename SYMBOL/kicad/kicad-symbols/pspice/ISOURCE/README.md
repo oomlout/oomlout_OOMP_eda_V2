@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKPSPICEISOURCE > ISOURCE
+# SZKPSPICEISOURCE > pspice : ISOURCE
 
 - ID: SYMBOL-kicad-kicad-symbols-pspice-ISOURCE
 - Hex ID: SZKPSPICEISOURCE
-- Name: ISOURCE
-- Description: ISOURCE
+- Name: pspice : ISOURCE
+- Description: pspice : ISOURCE
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-pspice-ISOURCE](http://oom.lt/SYMBOL-kicad-kicad-symbols-pspice-ISOURCE)
 - Short Link: [http://oom.lt/SZKPSPICEISOURCE](http://oom.lt/SZKPSPICEISOURCE)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ISOURCE|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-pspice-ISOURCE|
 |Hex ID (short code)|hexID|SZKPSPICEISOURCE|
-|name|name|ISOURCE|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'I', 'kicadSymbolValue': 'ISOURCE', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'simulation', 'kicadSymbolki_description': 'Current source symbol for simulation only'}]|
+|name|name|pspice : ISOURCE|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'I'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ISOURCE'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'simulation'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Current source symbol for simulation only'</td></tr></table>]|
 ||||

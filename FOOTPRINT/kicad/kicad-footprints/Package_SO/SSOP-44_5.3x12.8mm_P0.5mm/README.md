@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SO-SSOP-44_5.3x12.8mm_P0.5mm|
 |Hex ID (short code)|hexID|FZKSOSS4453X128P5|
 |name|name|Package_SO : SSOP-44_5.3x12.8mm_P0.5mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'SSOP-44_5.3x12.8mm_P0.5mm', 'description': '44-Lead Plastic Shrink Small Outline (SS)-5.30 mm Body [SSOP] (http://cds.linear.com/docs/en/datasheet/680313fa.pdf)', 'tags': 'SSOP 0.5', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/SSOP-44_5.3x12.8mm_P0.5mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SSOP-44_5.3x12.8mm_P0.5mm'</td><td> 'description'</td></tr><tr><td> '44-Lead Plastic Shrink Small Outline (SS)-5.30 mm Body [SSOP] (http</td></tr><tr><td>//cds.linear.com/docs/en/datasheet/680313fa.pdf)'</td><td> 'tags'</td></tr><tr><td> 'SSOP 0.5'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_SO.3dshapes/SSOP-44_5.3x12.8mm_P0.5mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

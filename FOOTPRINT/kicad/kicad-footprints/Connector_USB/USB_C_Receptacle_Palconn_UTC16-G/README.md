@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_C_Receptacle_Palconn_UTC16-G|
 |Hex ID (short code)|hexID|FZKCNUUCRECEPTACLEPALCONNUTC16G|
 |name|name|Connector_USB : USB_C_Receptacle_Palconn_UTC16-G|
-|Footprint Kicad|footprintKicadDetails|{'name': 'USB_C_Receptacle_Palconn_UTC16-G', 'description': 'http://www.palpilot.com/wp-content/uploads/2017/05/UTC027-GKN-OR-Rev-A.pdf', 'tags': 'USB C Type-C Receptacle USB2.0', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_USB.3dshapes/USB_C_Receptacle_Palconn_UTC16-G.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'USB_C_Receptacle_Palconn_UTC16-G'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//www.palpilot.com/wp-content/uploads/2017/05/UTC027-GKN-OR-Rev-A.pdf'</td><td> 'tags'</td></tr><tr><td> 'USB C Type-C Receptacle USB2.0'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_USB.3dshapes/USB_C_Receptacle_Palconn_UTC16-G.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

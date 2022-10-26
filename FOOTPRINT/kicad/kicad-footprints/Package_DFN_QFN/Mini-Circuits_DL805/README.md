@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Mini-Circuits_DL805|
 |Hex ID (short code)|hexID|FZKDFNMCIRCUITSDL85|
 |name|name|Package_DFN_QFN : Mini-Circuits_DL805|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Mini-Circuits_DL805', 'description': 'https://ww2.minicircuits.com/case_style/DL805.pdf', 'tags': 'RF Switch', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Mini-Circuits_DL805.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Mini-Circuits_DL805'</td><td> 'description'</td></tr><tr><td> 'https</td></tr><tr><td>//ww2.minicircuits.com/case_style/DL805.pdf'</td><td> 'tags'</td></tr><tr><td> 'RF Switch'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DFN_QFN.3dshapes/Mini-Circuits_DL805.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

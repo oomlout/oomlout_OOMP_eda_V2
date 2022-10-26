@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKANALOGDACMCP4728 > MCP4728
+# SZKANALOGDACMCP4728 > Analog_DAC : MCP4728
 
 - ID: SYMBOL-kicad-kicad-symbols-Analog_DAC-MCP4728
 - Hex ID: SZKANALOGDACMCP4728
-- Name: MCP4728
-- Description: MCP4728
+- Name: Analog_DAC : MCP4728
+- Description: Analog_DAC : MCP4728
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-MCP4728](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-MCP4728)
 - Short Link: [http://oom.lt/SZKANALOGDACMCP4728](http://oom.lt/SZKANALOGDACMCP4728)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MCP4728|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_DAC-MCP4728|
 |Hex ID (short code)|hexID|SZKANALOGDACMCP4728|
-|name|name|MCP4728|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MCP4728', 'kicadSymbolFootprint': 'Package_SO:MSOP-10_3x3mm_P0.5mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/22187E.pdf', 'kicadSymbolki_keywords': 'dac i2c', 'kicadSymbolki_description': '12-bit digital to analog converter, quad output, 2.048V internal reference, integrated EEPROM, I2C interface', 'kicadSymbolki_fp_filters': '*SOP*3x3mm*P0.5mm*'}]|
+|name|name|Analog_DAC : MCP4728|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MCP4728'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>MSOP-10_3x3mm_P0.5mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/22187E.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'dac i2c'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '12-bit digital to analog converter</td><td> quad output</td><td> 2.048V internal reference</td><td> integrated EEPROM</td><td> I2C interface'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> '*SOP*3x3mm*P0.5mm*'</td></tr></table>]|
 ||||

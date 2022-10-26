@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_Micro-B_Molex-105133-0031|
 |Hex ID (short code)|hexID|FZKCNUUMBMX1513331|
 |name|name|Connector_USB : USB_Micro-B_Molex-105133-0031|
-|Footprint Kicad|footprintKicadDetails|{'name': 'USB_Micro-B_Molex-105133-0031', 'description': 'Molex Vertical Micro USB Typ-B (http://www.molex.com/pdm_docs/sd/1051330031_sd.pdf)', 'tags': 'Micro-USB SMD Typ-B Vertical', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_USB.3dshapes/USB_Micro-B_Molex-105133-0031.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'USB_Micro-B_Molex-105133-0031'</td><td> 'description'</td></tr><tr><td> 'Molex Vertical Micro USB Typ-B (http</td></tr><tr><td>//www.molex.com/pdm_docs/sd/1051330031_sd.pdf)'</td><td> 'tags'</td></tr><tr><td> 'Micro-USB SMD Typ-B Vertical'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_USB.3dshapes/USB_Micro-B_Molex-105133-0031.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

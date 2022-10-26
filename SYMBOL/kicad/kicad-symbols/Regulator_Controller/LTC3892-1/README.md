@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORCONTROLLERLTC38921 > LTC3892-1
+# SZKREGULATORCONTROLLERLTC38921 > Regulator_Controller : LTC3892-1
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Controller-LTC3892-1
 - Hex ID: SZKREGULATORCONTROLLERLTC38921
-- Name: LTC3892-1
-- Description: LTC3892-1
+- Name: Regulator_Controller : LTC3892-1
+- Description: Regulator_Controller : LTC3892-1
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-LTC3892-1](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-LTC3892-1)
 - Short Link: [http://oom.lt/SZKREGULATORCONTROLLERLTC38921](http://oom.lt/SZKREGULATORCONTROLLERLTC38921)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LTC3892-1|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Controller-LTC3892-1|
 |Hex ID (short code)|hexID|SZKREGULATORCONTROLLERLTC38921|
-|name|name|LTC3892-1|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LTC3892-1', 'kicadSymbolFootprint': 'Package_SO:TSSOP-28-1EP_4.4x9.7mm_P0.65mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/38921fc.pdf', 'kicadSymbolki_keywords': 'switching buck converter regulator dual-output', 'kicadSymbolki_description': '60V dual 2-phase synchronous step-down DC/DC controller, forced continuous conduction mode, TSSOP-28', 'kicadSymbolki_fp_filters': 'TSSOP*1EP*4.4x9.7mm*P0.65mm*'}]|
+|name|name|Regulator_Controller : LTC3892-1|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LTC3892-1'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>TSSOP-28-1EP_4.4x9.7mm_P0.65mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/38921fc.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'switching buck converter regulator dual-output'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '60V dual 2-phase synchronous step-down DC/DC controller</td><td> forced continuous conduction mode</td><td> TSSOP-28'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TSSOP*1EP*4.4x9.7mm*P0.65mm*'</td></tr></table>]|
 ||||

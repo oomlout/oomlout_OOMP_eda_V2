@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKSENOPTICALKPS513 > KPS-5130
+# SZKSENOPTICALKPS513 > Sensor_Optical : KPS-5130
 
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Optical-KPS-5130
 - Hex ID: SZKSENOPTICALKPS513
-- Name: KPS-5130
-- Description: KPS-5130
+- Name: Sensor_Optical : KPS-5130
+- Description: Sensor_Optical : KPS-5130
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-KPS-5130](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-KPS-5130)
 - Short Link: [http://oom.lt/SZKSENOPTICALKPS513](http://oom.lt/SZKSENOPTICALKPS513)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|KPS-5130|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Optical-KPS-5130|
 |Hex ID (short code)|hexID|SZKSENOPTICALKPS513|
-|name|name|KPS-5130|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'KPS-5130', 'kicadSymbolFootprint': 'OptoDevice:Kingbright_KPS-5130', 'kicadSymbolDatasheet': 'https://www.kingbright.com/attachments/file/psearch/000/00/00/KPS-5130PD7C(Ver.16).pdf', 'kicadSymbolki_keywords': 'opto photodiode RGB colour sensor', 'kicadSymbolki_description': 'RGB Colour Sensor, KPS-5130', 'kicadSymbolki_fp_filters': 'Kingbright*KPS?5130*'}]|
+|name|name|Sensor_Optical : KPS-5130|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'KPS-5130'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'OptoDevice</td></tr><tr><td>Kingbright_KPS-5130'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.kingbright.com/attachments/file/psearch/000/00/00/KPS-5130PD7C(Ver.16).pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'opto photodiode RGB colour sensor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'RGB Colour Sensor</td><td> KPS-5130'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Kingbright*KPS?5130*'</td></tr></table>]|
 ||||

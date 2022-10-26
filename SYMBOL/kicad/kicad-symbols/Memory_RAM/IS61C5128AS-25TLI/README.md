@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMEMORYRAMIS61C5128AS25TLI > IS61C5128AS-25TLI
+# SZKMEMORYRAMIS61C5128AS25TLI > Memory_RAM : IS61C5128AS-25TLI
 
 - ID: SYMBOL-kicad-kicad-symbols-Memory_RAM-IS61C5128AS-25TLI
 - Hex ID: SZKMEMORYRAMIS61C5128AS25TLI
-- Name: IS61C5128AS-25TLI
-- Description: IS61C5128AS-25TLI
+- Name: Memory_RAM : IS61C5128AS-25TLI
+- Description: Memory_RAM : IS61C5128AS-25TLI
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_RAM-IS61C5128AS-25TLI](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_RAM-IS61C5128AS-25TLI)
 - Short Link: [http://oom.lt/SZKMEMORYRAMIS61C5128AS25TLI](http://oom.lt/SZKMEMORYRAMIS61C5128AS25TLI)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IS61C5128AS-25TLI|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Memory_RAM-IS61C5128AS-25TLI|
 |Hex ID (short code)|hexID|SZKMEMORYRAMIS61C5128AS25TLI|
-|name|name|IS61C5128AS-25TLI|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'IS61C5128AS-25TLI', 'kicadSymbolFootprint': 'Package_SO:TSOP-II-32_21.0x10.2mm_P1.27mm', 'kicadSymbolDatasheet': 'http://www.issi.com/WW/pdf/61-64C5128AL.pdf', 'kicadSymbolki_keywords': 'SRAM MEMORY', 'kicadSymbolki_description': '512K x 8 HIGH-SPEED CMOS STATIC RAM, 25ns, TSOP II-32', 'kicadSymbolki_fp_filters': 'TSOP*21.0x10.2mm*P1.27mm*'}]|
+|name|name|Memory_RAM : IS61C5128AS-25TLI|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'IS61C5128AS-25TLI'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>TSOP-II-32_21.0x10.2mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.issi.com/WW/pdf/61-64C5128AL.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'SRAM MEMORY'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '512K x 8 HIGH-SPEED CMOS STATIC RAM</td><td> 25ns</td><td> TSOP II-32'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TSOP*21.0x10.2mm*P1.27mm*'</td></tr></table>]|
 ||||

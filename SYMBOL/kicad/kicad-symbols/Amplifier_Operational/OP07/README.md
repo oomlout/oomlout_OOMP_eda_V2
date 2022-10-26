@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKAMPLIFIEROPERATIONALOP7 > OP07
+# SZKAMPLIFIEROPERATIONALOP7 > Amplifier_Operational : OP07
 
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OP07
 - Hex ID: SZKAMPLIFIEROPERATIONALOP7
-- Name: OP07
-- Description: OP07
+- Name: Amplifier_Operational : OP07
+- Description: Amplifier_Operational : OP07
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OP07](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OP07)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALOP7](http://oom.lt/SZKAMPLIFIEROPERATIONALOP7)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|OP07|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OP07|
 |Hex ID (short code)|hexID|SZKAMPLIFIEROPERATIONALOP7|
-|name|name|OP07|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'OP07', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/OP07.pdf', 'kicadSymbolki_keywords': 'single opamp', 'kicadSymbolki_description': 'Single Ultra-Low Offset Voltage Operational Amplifier, DIP-8/SOIC-8', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm* SOIC*3.9x4.9mm*P1.27mm* TO*99*'}]|
+|name|name|Amplifier_Operational : OP07|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'OP07'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/OP07.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'single opamp'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Single Ultra-Low Offset Voltage Operational Amplifier</td><td> DIP-8/SOIC-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W7.62mm* SOIC*3.9x4.9mm*P1.27mm* TO*99*'</td></tr></table>]|
 ||||

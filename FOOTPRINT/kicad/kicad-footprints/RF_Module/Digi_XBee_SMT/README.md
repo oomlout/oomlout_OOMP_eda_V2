@@ -29,5 +29,5 @@ NO IMAGE
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-RF_Module-Digi_XBee_SMT|
 |Hex ID (short code)|hexID|FZKRFMODIGIXBEES|
 |name|name|RF_Module : Digi_XBee_SMT|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Digi_XBee_SMT', 'description': 'http://www.digi.com/resources/documentation/digidocs/pdfs/90002126.pdf http://ftp1.digi.com/support/documentation/90001020_F.pdf', 'tags': 'Digi XBee SMT RF', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/RF_Module.3dshapes/Digi_XBee_SMT.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Digi_XBee_SMT'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//www.digi.com/resources/documentation/digidocs/pdfs/90002126.pdf http</td></tr><tr><td>//ftp1.digi.com/support/documentation/90001020_F.pdf'</td><td> 'tags'</td></tr><tr><td> 'Digi XBee SMT RF'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/RF_Module.3dshapes/Digi_XBee_SMT.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

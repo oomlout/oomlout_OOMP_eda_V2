@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMEMORYEPROM27512 > 27512
+# SZKMEMORYEPROM27512 > Memory_EPROM : 27512
 
 - ID: SYMBOL-kicad-kicad-symbols-Memory_EPROM-27512
 - Hex ID: SZKMEMORYEPROM27512
-- Name: 27512
-- Description: 27512
+- Name: Memory_EPROM : 27512
+- Description: Memory_EPROM : 27512
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_EPROM-27512](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_EPROM-27512)
 - Short Link: [http://oom.lt/SZKMEMORYEPROM27512](http://oom.lt/SZKMEMORYEPROM27512)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|27512|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Memory_EPROM-27512|
 |Hex ID (short code)|hexID|SZKMEMORYEPROM27512|
-|name|name|27512|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '27C512', 'kicadSymbolReference': 'U', 'kicadSymbolValue': '27512', 'kicadSymbolFootprint': 'Package_DIP:DIP-28_W15.24mm', 'kicadSymbolDatasheet': 'http://pdf.datasheetcatalog.com/datasheets/120/227190_DS.pdf', 'kicadSymbolki_keywords': 'Erasable EPROM 512KiBit', 'kicadSymbolki_description': 'UV Erasable EPROM 512 KiBit, [Obsolete 2007-01]', 'kicadSymbolki_fp_filters': 'DIP*W15.24mm*'}]|
+|name|name|Memory_EPROM : 27512|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> '27C512'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> '27512'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>DIP-28_W15.24mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//pdf.datasheetcatalog.com/datasheets/120/227190_DS.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Erasable EPROM 512KiBit'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'UV Erasable EPROM 512 KiBit</td><td> [Obsolete 2007-01]'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W15.24mm*'</td></tr></table>]|
 ||||

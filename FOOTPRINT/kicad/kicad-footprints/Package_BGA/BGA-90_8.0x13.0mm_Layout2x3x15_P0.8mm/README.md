@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_BGA-BGA-90_8.0x13.0mm_Layout2x3x15_P0.8mm|
 |Hex ID (short code)|hexID|FZKBGABGA98X13LAYOUT2X3X15P8|
 |name|name|Package_BGA : BGA-90_8.0x13.0mm_Layout2x3x15_P0.8mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'BGA-90_8.0x13.0mm_Layout2x3x15_P0.8mm', 'description': 'BGA-90, http://www.issi.com/WW/pdf/42-45S32800J.pdf', 'tags': 'BGA-90', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/BGA-90_8.0x13.0mm_Layout2x3x15_P0.8mm.wrl', 'pins': {'type': 'smd', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'BGA-90_8.0x13.0mm_Layout2x3x15_P0.8mm'</td><td> 'description'</td></tr><tr><td> 'BGA-90</td><td> http</td></tr><tr><td>//www.issi.com/WW/pdf/42-45S32800J.pdf'</td><td> 'tags'</td></tr><tr><td> 'BGA-90'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_BGA.3dshapes/BGA-90_8.0x13.0mm_Layout2x3x15_P0.8mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

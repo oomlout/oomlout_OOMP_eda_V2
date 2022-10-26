@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-DFN-8-1EP_4x4mm_P0.8mm_EP2.3x3.24mm|
 |Hex ID (short code)|hexID|FZKDFNDFN81EP4X4P8EP23X324|
 |name|name|Package_DFN_QFN : DFN-8-1EP_4x4mm_P0.8mm_EP2.3x3.24mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'DFN-8-1EP_4x4mm_P0.8mm_EP2.3x3.24mm', 'description': 'DFN, 8 Pin (https://www.st.com/resource/en/datasheet/ld1086.pdf#page=35), generated with kicad-footprint-generator ipc_noLead_generator.py', 'tags': 'DFN NoLead', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/DFN-8-1EP_4x4mm_P0.8mm_EP2.3x3.24mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'DFN-8-1EP_4x4mm_P0.8mm_EP2.3x3.24mm'</td><td> 'description'</td></tr><tr><td> 'DFN</td><td> 8 Pin (https</td></tr><tr><td>//www.st.com/resource/en/datasheet/ld1086.pdf#page=35)</td><td> generated with kicad-footprint-generator ipc_noLead_generator.py'</td><td> 'tags'</td></tr><tr><td> 'DFN NoLead'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DFN_QFN.3dshapes/DFN-8-1EP_4x4mm_P0.8mm_EP2.3x3.24mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

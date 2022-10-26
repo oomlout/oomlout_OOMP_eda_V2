@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMEMORYEEPROMAT24CS32XHM > AT24CS32-XHM
+# SZKMEMORYEEPROMAT24CS32XHM > Memory_EEPROM : AT24CS32-XHM
 
 - ID: SYMBOL-kicad-kicad-symbols-Memory_EEPROM-AT24CS32-XHM
 - Hex ID: SZKMEMORYEEPROMAT24CS32XHM
-- Name: AT24CS32-XHM
-- Description: AT24CS32-XHM
+- Name: Memory_EEPROM : AT24CS32-XHM
+- Description: Memory_EEPROM : AT24CS32-XHM
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_EEPROM-AT24CS32-XHM](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_EEPROM-AT24CS32-XHM)
 - Short Link: [http://oom.lt/SZKMEMORYEEPROMAT24CS32XHM](http://oom.lt/SZKMEMORYEEPROMAT24CS32XHM)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AT24CS32-XHM|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Memory_EEPROM-AT24CS32-XHM|
 |Hex ID (short code)|hexID|SZKMEMORYEEPROMAT24CS32XHM|
-|name|name|AT24CS32-XHM|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AT24CS32-XHM', 'kicadSymbolFootprint': 'Package_SO:TSSOP-8_4.4x3mm_P0.65mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-8869-SEEPROM-AT24CS32-Datasheet.pdf', 'kicadSymbolki_keywords': 'I2C Serial EEPROM Nonvolatile Memory', 'kicadSymbolki_description': 'I2C Serial EEPROM, 32Kb (4096x8) with Unique Serial Number, TSSOP8', 'kicadSymbolki_fp_filters': 'TSSOP*4.4x3mm*P0.65mm*'}]|
+|name|name|Memory_EEPROM : AT24CS32-XHM|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'AT24CS32-XHM'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>TSSOP-8_4.4x3mm_P0.65mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/Atmel-8869-SEEPROM-AT24CS32-Datasheet.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'I2C Serial EEPROM Nonvolatile Memory'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'I2C Serial EEPROM</td><td> 32Kb (4096x8) with Unique Serial Number</td><td> TSSOP8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TSSOP*4.4x3mm*P0.65mm*'</td></tr></table>]|
 ||||

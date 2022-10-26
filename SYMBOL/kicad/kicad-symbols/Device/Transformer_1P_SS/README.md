@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDEVICETR1PSS > Transformer_1P_SS
+# SZKDEVICETR1PSS > Device : Transformer_1P_SS
 
 - ID: SYMBOL-kicad-kicad-symbols-Device-Transformer_1P_SS
 - Hex ID: SZKDEVICETR1PSS
-- Name: Transformer_1P_SS
-- Description: Transformer_1P_SS
+- Name: Device : Transformer_1P_SS
+- Description: Device : Transformer_1P_SS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Transformer_1P_SS](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Transformer_1P_SS)
 - Short Link: [http://oom.lt/SZKDEVICETR1PSS](http://oom.lt/SZKDEVICETR1PSS)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Transformer_1P_SS|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-Transformer_1P_SS|
 |Hex ID (short code)|hexID|SZKDEVICETR1PSS|
-|name|name|Transformer_1P_SS|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'T', 'kicadSymbolValue': 'Transformer_1P_SS', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'transformer coil magnet', 'kicadSymbolki_description': 'Transformer, single primary, split secondary'}]|
+|name|name|Device : Transformer_1P_SS|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'T'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Transformer_1P_SS'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'transformer coil magnet'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Transformer</td><td> single primary</td><td> split secondary'</td></tr></table>]|
 ||||

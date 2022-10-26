@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-92-2_Horizontal1|
 |Hex ID (short code)|hexID|FZKSOTTO922HORIZONTAL1|
 |name|name|Package_TO_SOT_THT : TO-92-2_Horizontal1|
-|Footprint Kicad|footprintKicadDetails|{'name': 'TO-92-2_Horizontal1', 'description': '2-pin TO-92 horizontal, leads molded, narrow, drill 0.75mm (see NXP sot054_po.pdf)', 'tags': 'to-92 sc-43 sc-43a sot54 PA33 temperature sensor diode', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/TO-92-2_Horizontal1.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'TO-92-2_Horizontal1'</td><td> 'description'</td></tr><tr><td> '2-pin TO-92 horizontal</td><td> leads molded</td><td> narrow</td><td> drill 0.75mm (see NXP sot054_po.pdf)'</td><td> 'tags'</td></tr><tr><td> 'to-92 sc-43 sc-43a sot54 PA33 temperature sensor diode'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_TO_SOT_THT.3dshapes/TO-92-2_Horizontal1.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

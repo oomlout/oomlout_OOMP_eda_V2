@@ -29,5 +29,5 @@ NO IMAGE
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-RF_Mini-Circuits-Mini-Circuits_HF1139|
 |Hex ID (short code)|hexID|FZKRFMCIRCUITSHF1139|
 |name|name|RF_Mini-Circuits : Mini-Circuits_HF1139|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Mini-Circuits_HF1139', 'description': 'Footprint for Mini-Circuits case HF1139 (https://ww2.minicircuits.com/case_style/HF1139.pdf)', 'tags': 'Mini-Circuits HF1139', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/RF_Mini-Circuits.3dshapes/Mini-Circuits_HF1139.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Mini-Circuits_HF1139'</td><td> 'description'</td></tr><tr><td> 'Footprint for Mini-Circuits case HF1139 (https</td></tr><tr><td>//ww2.minicircuits.com/case_style/HF1139.pdf)'</td><td> 'tags'</td></tr><tr><td> 'Mini-Circuits HF1139'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/RF_Mini-Circuits.3dshapes/Mini-Circuits_HF1139.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

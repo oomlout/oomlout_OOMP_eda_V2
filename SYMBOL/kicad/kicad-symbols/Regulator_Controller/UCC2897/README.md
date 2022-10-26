@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORCONTROLLERUCC2897 > UCC2897
+# SZKREGULATORCONTROLLERUCC2897 > Regulator_Controller : UCC2897
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Controller-UCC2897
 - Hex ID: SZKREGULATORCONTROLLERUCC2897
-- Name: UCC2897
-- Description: UCC2897
+- Name: Regulator_Controller : UCC2897
+- Description: Regulator_Controller : UCC2897
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-UCC2897](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-UCC2897)
 - Short Link: [http://oom.lt/SZKREGULATORCONTROLLERUCC2897](http://oom.lt/SZKREGULATORCONTROLLERUCC2897)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|UCC2897|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Controller-UCC2897|
 |Hex ID (short code)|hexID|SZKREGULATORCONTROLLERUCC2897|
-|name|name|UCC2897|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'UCC2897', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/ucc2897.pdf', 'kicadSymbolki_keywords': 'SMPS PWM Controller', 'kicadSymbolki_description': 'SMPS Advanced Current-Mode Active Clamp PWM Controller, TSSOP-20/QFN-20', 'kicadSymbolki_fp_filters': 'TSSOP*4.4x6.5mm*P0.65mm* QFN*4x4mm*P0.5mm*'}]|
+|name|name|Regulator_Controller : UCC2897|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'UCC2897'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/ucc2897.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'SMPS PWM Controller'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'SMPS Advanced Current-Mode Active Clamp PWM Controller</td><td> TSSOP-20/QFN-20'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TSSOP*4.4x6.5mm*P0.65mm* QFN*4x4mm*P0.5mm*'</td></tr></table>]|
 ||||

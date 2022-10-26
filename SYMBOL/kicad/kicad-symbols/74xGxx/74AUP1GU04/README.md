@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZK74XGXX74AUP1GU4 > 74AUP1GU04
+# SZK74XGXX74AUP1GU4 > 74xGxx : 74AUP1GU04
 
 - ID: SYMBOL-kicad-kicad-symbols-74xGxx-74AUP1GU04
 - Hex ID: SZK74XGXX74AUP1GU4
-- Name: 74AUP1GU04
-- Description: 74AUP1GU04
+- Name: 74xGxx : 74AUP1GU04
+- Description: 74xGxx : 74AUP1GU04
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-74xGxx-74AUP1GU04](http://oom.lt/SYMBOL-kicad-kicad-symbols-74xGxx-74AUP1GU04)
 - Short Link: [http://oom.lt/SZK74XGXX74AUP1GU4](http://oom.lt/SZK74XGXX74AUP1GU4)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74AUP1GU04|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xGxx-74AUP1GU04|
 |Hex ID (short code)|hexID|SZK74XGXX74AUP1GU4|
-|name|name|74AUP1GU04|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '74LVC1G04', 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74AUP1GU04', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf', 'kicadSymbolki_keywords': 'Single Gate NOT LVC CMOS', 'kicadSymbolki_description': '74AUP1G04, Single NOT Gate, Low-Voltage CMOS', 'kicadSymbolki_fp_filters': 'SOT* SG-*'}]|
+|name|name|74xGxx : 74AUP1GU04|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> '74LVC1G04'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> '74AUP1GU04'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/sg/scyt129e/scyt129e.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Single Gate NOT LVC CMOS'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '74AUP1G04</td><td> Single NOT Gate</td><td> Low-Voltage CMOS'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT* SG-*'</td></tr></table>]|
 ||||

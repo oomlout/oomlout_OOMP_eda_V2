@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKSENOPTICALBP14SM > BP104-SMD
+# SZKSENOPTICALBP14SM > Sensor_Optical : BP104-SMD
 
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Optical-BP104-SMD
 - Hex ID: SZKSENOPTICALBP14SM
-- Name: BP104-SMD
-- Description: BP104-SMD
+- Name: Sensor_Optical : BP104-SMD
+- Description: Sensor_Optical : BP104-SMD
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-BP104-SMD](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-BP104-SMD)
 - Short Link: [http://oom.lt/SZKSENOPTICALBP14SM](http://oom.lt/SZKSENOPTICALBP14SM)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BP104-SMD|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Optical-BP104-SMD|
 |Hex ID (short code)|hexID|SZKSENOPTICALBP14SM|
-|name|name|BP104-SMD|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'BP104-SMD', 'kicadSymbolFootprint': 'OptoDevice:Osram_BP104-SMD', 'kicadSymbolDatasheet': 'https://dammedia.osram.info/media/resource/hires/osram-dam-5989350/BP%20104%20FAS_EN.pdf', 'kicadSymbolki_keywords': 'opto photodiode', 'kicadSymbolki_description': 'Silicon PIN Photodiode,  Area 2.2x2.2mm', 'kicadSymbolki_fp_filters': 'Osram*BP104*'}]|
+|name|name|Sensor_Optical : BP104-SMD|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'BP104-SMD'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'OptoDevice</td></tr><tr><td>Osram_BP104-SMD'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//dammedia.osram.info/media/resource/hires/osram-dam-5989350/BP%20104%20FAS_EN.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'opto photodiode'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Silicon PIN Photodiode</td><td>  Area 2.2x2.2mm'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Osram*BP104*'</td></tr></table>]|
 ||||

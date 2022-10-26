@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUMCHIPPIC18PIC18F4553IP > PIC18F4553-IP
+# SZKMCUMCHIPPIC18PIC18F4553IP > MCU_Microchip_PIC18 : PIC18F4553-IP
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18F4553-IP
 - Hex ID: SZKMCUMCHIPPIC18PIC18F4553IP
-- Name: PIC18F4553-IP
-- Description: PIC18F4553-IP
+- Name: MCU_Microchip_PIC18 : PIC18F4553-IP
+- Description: MCU_Microchip_PIC18 : PIC18F4553-IP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18F4553-IP](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18F4553-IP)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC18PIC18F4553IP](http://oom.lt/SZKMCUMCHIPPIC18PIC18F4553IP)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PIC18F4553-IP|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18F4553-IP|
 |Hex ID (short code)|hexID|SZKMCUMCHIPPIC18PIC18F4553IP|
-|name|name|PIC18F4553-IP|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'PIC18F4458-IP', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PIC18F4553-IP', 'kicadSymbolFootprint': 'Package_DIP:DIP-40_W15.24mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/39887c.pdf', 'kicadSymbolki_keywords': 'Flash-Based 8-Bit Microcontroller XLP', 'kicadSymbolki_description': '32K Flash, 2K SRAM, 256 EEPROM, USB, 12-Bit A/D, nanoWatt XLP, DIP40', 'kicadSymbolki_fp_filters': 'DIP*W15.24mm* PDIP*W15.24mm*'}]|
+|name|name|MCU_Microchip_PIC18 : PIC18F4553-IP|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'PIC18F4458-IP'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'PIC18F4553-IP'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>DIP-40_W15.24mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/39887c.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Flash-Based 8-Bit Microcontroller XLP'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '32K Flash</td><td> 2K SRAM</td><td> 256 EEPROM</td><td> USB</td><td> 12-Bit A/D</td><td> nanoWatt XLP</td><td> DIP40'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W15.24mm* PDIP*W15.24mm*'</td></tr></table>]|
 ||||

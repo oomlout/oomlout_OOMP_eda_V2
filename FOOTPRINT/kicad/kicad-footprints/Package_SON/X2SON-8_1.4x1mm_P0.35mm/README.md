@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SON-X2SON-8_1.4x1mm_P0.35mm|
 |Hex ID (short code)|hexID|FZKSONX2SON814X1P35|
 |name|name|Package_SON : X2SON-8_1.4x1mm_P0.35mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'X2SON-8_1.4x1mm_P0.35mm', 'description': 'X2SON-8 1.4x1mm Pitch0.35mm http://www.ti.com/lit/ds/symlink/pca9306.pdf', 'tags': 'X2SON-8 1.4x1mm Pitch0.35mm', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SON.3dshapes/X2SON-8_1.4x1mm_P0.35mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'X2SON-8_1.4x1mm_P0.35mm'</td><td> 'description'</td></tr><tr><td> 'X2SON-8 1.4x1mm Pitch0.35mm http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/pca9306.pdf'</td><td> 'tags'</td></tr><tr><td> 'X2SON-8 1.4x1mm Pitch0.35mm'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_SON.3dshapes/X2SON-8_1.4x1mm_P0.35mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

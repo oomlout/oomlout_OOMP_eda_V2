@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKPOWERSUPERVISORMAX6355 > MAX6355
+# SZKPOWERSUPERVISORMAX6355 > Power_Supervisor : MAX6355
 
 - ID: SYMBOL-kicad-kicad-symbols-Power_Supervisor-MAX6355
 - Hex ID: SZKPOWERSUPERVISORMAX6355
-- Name: MAX6355
-- Description: MAX6355
+- Name: Power_Supervisor : MAX6355
+- Description: Power_Supervisor : MAX6355
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Supervisor-MAX6355](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Supervisor-MAX6355)
 - Short Link: [http://oom.lt/SZKPOWERSUPERVISORMAX6355](http://oom.lt/SZKPOWERSUPERVISORMAX6355)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MAX6355|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Supervisor-MAX6355|
 |Hex ID (short code)|hexID|SZKPOWERSUPERVISORMAX6355|
-|name|name|MAX6355|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MAX6355', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-6', 'kicadSymbolDatasheet': 'https://datasheets.maximintegrated.com/en/ds/MAX6351-MAX6360.pdf', 'kicadSymbolki_keywords': 'Power Supervisor', 'kicadSymbolki_description': 'Dual Voltage μP Supervisory Circuits, SOT-23-6', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
+|name|name|Power_Supervisor : MAX6355|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MAX6355'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-23-6'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//datasheets.maximintegrated.com/en/ds/MAX6351-MAX6360.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Power Supervisor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Dual Voltage μP Supervisory Circuits</td><td> SOT-23-6'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23*'</td></tr></table>]|
 ||||

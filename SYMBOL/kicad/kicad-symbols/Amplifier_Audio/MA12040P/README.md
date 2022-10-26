@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKAMPLIFIERAUDIOMA124P > MA12040P
+# SZKAMPLIFIERAUDIOMA124P > Amplifier_Audio : MA12040P
 
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Audio-MA12040P
 - Hex ID: SZKAMPLIFIERAUDIOMA124P
-- Name: MA12040P
-- Description: MA12040P
+- Name: Amplifier_Audio : MA12040P
+- Description: Amplifier_Audio : MA12040P
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-MA12040P](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-MA12040P)
 - Short Link: [http://oom.lt/SZKAMPLIFIERAUDIOMA124P](http://oom.lt/SZKAMPLIFIERAUDIOMA124P)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MA12040P|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Audio-MA12040P|
 |Hex ID (short code)|hexID|SZKAMPLIFIERAUDIOMA124P|
-|name|name|MA12040P|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MA12040P', 'kicadSymbolFootprint': 'Package_DFN_QFN:QFN-64-1EP_9x9mm_P0.5mm_EP5.45x5.45mm', 'kicadSymbolDatasheet': 'https://www.infineon.com/dgdl/Infineon-MA12040P-DS-v01_00-EN.pdf?fileId=5546d46264a8de7e0164b74ff0e561a2', 'kicadSymbolki_keywords': 'integrated class d amplifier', 'kicadSymbolki_description': 'Filterless and High-Efficiency +4V to +18V Audio Amplifier with I2S Digital Input, QFN-64', 'kicadSymbolki_fp_filters': 'QFN*1EP*9x9mm*P0.5mm*'}]|
+|name|name|Amplifier_Audio : MA12040P|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MA12040P'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>QFN-64-1EP_9x9mm_P0.5mm_EP5.45x5.45mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.infineon.com/dgdl/Infineon-MA12040P-DS-v01_00-EN.pdf?fileId=5546d46264a8de7e0164b74ff0e561a2'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'integrated class d amplifier'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Filterless and High-Efficiency +4V to +18V Audio Amplifier with I2S Digital Input</td><td> QFN-64'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'QFN*1EP*9x9mm*P0.5mm*'</td></tr></table>]|
 ||||

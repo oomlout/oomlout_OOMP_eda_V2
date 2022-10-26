@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKANALOGADCAD9283 > AD9283
+# SZKANALOGADCAD9283 > Analog_ADC : AD9283
 
 - ID: SYMBOL-kicad-kicad-symbols-Analog_ADC-AD9283
 - Hex ID: SZKANALOGADCAD9283
-- Name: AD9283
-- Description: AD9283
+- Name: Analog_ADC : AD9283
+- Description: Analog_ADC : AD9283
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-AD9283](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-AD9283)
 - Short Link: [http://oom.lt/SZKANALOGADCAD9283](http://oom.lt/SZKANALOGADCAD9283)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AD9283|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_ADC-AD9283|
 |Hex ID (short code)|hexID|SZKANALOGADCAD9283|
-|name|name|AD9283|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AD9283', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/AD9283.pdf', 'kicadSymbolki_keywords': 'ADC', 'kicadSymbolki_description': 'ADC 50MHz 8 bits, SSOP-20'}]|
+|name|name|Analog_ADC : AD9283|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'AD9283'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/AD9283.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'ADC'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'ADC 50MHz 8 bits</td><td> SSOP-20'</td></tr></table>]|
 ||||

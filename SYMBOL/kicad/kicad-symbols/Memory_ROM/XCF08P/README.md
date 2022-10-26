@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMEMORYROMXCF8P > XCF08P
+# SZKMEMORYROMXCF8P > Memory_ROM : XCF08P
 
 - ID: SYMBOL-kicad-kicad-symbols-Memory_ROM-XCF08P
 - Hex ID: SZKMEMORYROMXCF8P
-- Name: XCF08P
-- Description: XCF08P
+- Name: Memory_ROM : XCF08P
+- Description: Memory_ROM : XCF08P
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_ROM-XCF08P](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_ROM-XCF08P)
 - Short Link: [http://oom.lt/SZKMEMORYROMXCF8P](http://oom.lt/SZKMEMORYROMXCF8P)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|XCF08P|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Memory_ROM-XCF08P|
 |Hex ID (short code)|hexID|SZKMEMORYROMXCF8P|
-|name|name|XCF08P|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'XCF08P', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.xilinx.com/support/documentation/data_sheets/ds123.pdf', 'kicadSymbolki_keywords': 'PROM FLASH', 'kicadSymbolki_description': 'Platform Flash In-System PROM'}]|
+|name|name|Memory_ROM : XCF08P|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'XCF08P'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.xilinx.com/support/documentation/data_sheets/ds123.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'PROM FLASH'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Platform Flash In-System PROM'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORSWITCHINGMP233ADN > MP2303ADN
+# SZKREGULATORSWITCHINGMP233ADN > Regulator_Switching : MP2303ADN
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-MP2303ADN
 - Hex ID: SZKREGULATORSWITCHINGMP233ADN
-- Name: MP2303ADN
-- Description: MP2303ADN
+- Name: Regulator_Switching : MP2303ADN
+- Description: Regulator_Switching : MP2303ADN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-MP2303ADN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-MP2303ADN)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGMP233ADN](http://oom.lt/SZKREGULATORSWITCHINGMP233ADN)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MP2303ADN|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-MP2303ADN|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGMP233ADN|
-|name|name|MP2303ADN|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MP2303ADN', 'kicadSymbolFootprint': 'Package_SO:SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.62x3.51mm', 'kicadSymbolDatasheet': 'https://www.monolithicpower.com/pub/media/document/MP2303A_r1.1.pdf', 'kicadSymbolki_keywords': 'buck converter step down', 'kicadSymbolki_description': 'Synchronous Rectified 3A, 28V, 360kHz Step-Down Converter, SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC*1EP*3.9x4.9mm*P1.27mm*'}]|
+|name|name|Regulator_Switching : MP2303ADN|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MP2303ADN'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.62x3.51mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.monolithicpower.com/pub/media/document/MP2303A_r1.1.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'buck converter step down'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Synchronous Rectified 3A</td><td> 28V</td><td> 360kHz Step-Down Converter</td><td> SOIC-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*1EP*3.9x4.9mm*P1.27mm*'</td></tr></table>]|
 ||||

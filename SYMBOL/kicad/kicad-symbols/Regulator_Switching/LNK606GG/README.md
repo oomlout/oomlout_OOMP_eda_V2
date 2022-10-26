@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORSWITCHINGLNK66GG > LNK606GG
+# SZKREGULATORSWITCHINGLNK66GG > Regulator_Switching : LNK606GG
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK606GG
 - Hex ID: SZKREGULATORSWITCHINGLNK66GG
-- Name: LNK606GG
-- Description: LNK606GG
+- Name: Regulator_Switching : LNK606GG
+- Description: Regulator_Switching : LNK606GG
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK606GG](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK606GG)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGLNK66GG](http://oom.lt/SZKREGULATORSWITCHINGLNK66GG)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LNK606GG|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK606GG|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGLNK66GG|
-|name|name|LNK606GG|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LNK606GG', 'kicadSymbolFootprint': 'Package_DIP:PowerIntegrations_SMD-8C', 'kicadSymbolDatasheet': 'http://www.powerint.com/sites/default/files/product-docs/linkswitch-ii_family_datasheet.pdf', 'kicadSymbolki_keywords': 'Energy-Efficient, Accurate CV/CC Switcher for Adapters and Chargers', 'kicadSymbolki_description': 'LinkSwitch-II Family, 6.1W Output Power, SMD-8C', 'kicadSymbolki_fp_filters': 'PowerIntegrations?SMD?8C*'}]|
+|name|name|Regulator_Switching : LNK606GG|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LNK606GG'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>PowerIntegrations_SMD-8C'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.powerint.com/sites/default/files/product-docs/linkswitch-ii_family_datasheet.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Energy-Efficient</td><td> Accurate CV/CC Switcher for Adapters and Chargers'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'LinkSwitch-II Family</td><td> 6.1W Output Power</td><td> SMD-8C'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'PowerIntegrations?SMD?8C*'</td></tr></table>]|
 ||||

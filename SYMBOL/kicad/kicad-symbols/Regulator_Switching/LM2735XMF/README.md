@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORSWITCHINGLM2735XMF > LM2735XMF
+# SZKREGULATORSWITCHINGLM2735XMF > Regulator_Switching : LM2735XMF
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM2735XMF
 - Hex ID: SZKREGULATORSWITCHINGLM2735XMF
-- Name: LM2735XMF
-- Description: LM2735XMF
+- Name: Regulator_Switching : LM2735XMF
+- Description: Regulator_Switching : LM2735XMF
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM2735XMF](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM2735XMF)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGLM2735XMF](http://oom.lt/SZKREGULATORSWITCHINGLM2735XMF)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM2735XMF|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM2735XMF|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGLM2735XMF|
-|name|name|LM2735XMF|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LMR10510XMF', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM2735XMF', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-5', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lm2735.pdf', 'kicadSymbolki_keywords': 'Miniature Step-Up Boost Flyback SEPIC Voltage Regulator', 'kicadSymbolki_description': 'LM27313, 2.1A, 24Vout Boost/FlybacK/SEPIC Voltage Regulator, 520kHz/1.6MHz Frequency,', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
+|name|name|Regulator_Switching : LM2735XMF|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'LMR10510XMF'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LM2735XMF'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-23-5'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/lm2735.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Miniature Step-Up Boost Flyback SEPIC Voltage Regulator'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'LM27313</td><td> 2.1A</td><td> 24Vout Boost/FlybacK/SEPIC Voltage Regulator</td><td> 520kHz/1.6MHz Frequency</td><td>'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23*'</td></tr></table>]|
 ||||

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DIP-SMDIP-10_W9.53mm_Clearance8mm|
 |Hex ID (short code)|hexID|FZKDIPSMIP1W953CLEARANCE8|
 |name|name|Package_DIP : SMDIP-10_W9.53mm_Clearance8mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'SMDIP-10_W9.53mm_Clearance8mm', 'description': '10-lead surface-mounted (SMD) DIP package, row spacing 9.53 mm (375 mils), Clearance8mm', 'tags': 'SMD DIP DIL PDIP SMDIP 2.54mm 9.53mm 375mil Clearance8mm', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DIP.3dshapes/SMDIP-10_W9.53mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SMDIP-10_W9.53mm_Clearance8mm'</td><td> 'description'</td></tr><tr><td> '10-lead surface-mounted (SMD) DIP package</td><td> row spacing 9.53 mm (375 mils)</td><td> Clearance8mm'</td><td> 'tags'</td></tr><tr><td> 'SMD DIP DIL PDIP SMDIP 2.54mm 9.53mm 375mil Clearance8mm'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DIP.3dshapes/SMDIP-10_W9.53mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

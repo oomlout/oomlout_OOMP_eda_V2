@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORSWITCHINGLNK364D > LNK364D
+# SZKREGULATORSWITCHINGLNK364D > Regulator_Switching : LNK364D
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK364D
 - Hex ID: SZKREGULATORSWITCHINGLNK364D
-- Name: LNK364D
-- Description: LNK364D
+- Name: Regulator_Switching : LNK364D
+- Description: Regulator_Switching : LNK364D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK364D](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK364D)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGLNK364D](http://oom.lt/SZKREGULATORSWITCHINGLNK364D)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LNK364D|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK364D|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGLNK364D|
-|name|name|LNK364D|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LNK362D', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LNK364D', 'kicadSymbolFootprint': 'Package_SO:PowerIntegrations_SO-8C', 'kicadSymbolDatasheet': 'http://www.powerint.com/sites/default/files/product-docs/lnk362-364.pdf', 'kicadSymbolki_keywords': 'Energy Effi cient, Low Power Off-Line Switcher IC', 'kicadSymbolki_description': 'LinkSwitch-XT Family, 6W Output Power, SO-8C', 'kicadSymbolki_fp_filters': 'PowerIntegrations?SO?8C*'}]|
+|name|name|Regulator_Switching : LNK364D|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'LNK362D'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LNK364D'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>PowerIntegrations_SO-8C'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.powerint.com/sites/default/files/product-docs/lnk362-364.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Energy Effi cient</td><td> Low Power Off-Line Switcher IC'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'LinkSwitch-XT Family</td><td> 6W Output Power</td><td> SO-8C'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'PowerIntegrations?SO?8C*'</td></tr></table>]|
 ||||

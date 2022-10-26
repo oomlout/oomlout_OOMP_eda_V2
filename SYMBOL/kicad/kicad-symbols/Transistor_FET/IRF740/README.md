@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORFETIRF74 > IRF740
+# SZKTRANSISTORFETIRF74 > Transistor_FET : IRF740
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF740
 - Hex ID: SZKTRANSISTORFETIRF74
-- Name: IRF740
-- Description: IRF740
+- Name: Transistor_FET : IRF740
+- Description: Transistor_FET : IRF740
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF740](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF740)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETIRF74](http://oom.lt/SZKTRANSISTORFETIRF74)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IRF740|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF740|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETIRF74|
-|name|name|IRF740|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BUZ11', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'IRF740', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-220-3_Vertical', 'kicadSymbolDatasheet': 'http://www.vishay.com/docs/91054/91054.pdf', 'kicadSymbolki_keywords': 'N Channel', 'kicadSymbolki_description': '10A Id, 400V Vds, N-Channel Power MOSFET, 500mOhm Rds, TO-220AB', 'kicadSymbolki_fp_filters': 'TO?220*'}]|
+|name|name|Transistor_FET : IRF740|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'BUZ11'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'IRF740'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_THT</td></tr><tr><td>TO-220-3_Vertical'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.vishay.com/docs/91054/91054.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'N Channel'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '10A Id</td><td> 400V Vds</td><td> N-Channel Power MOSFET</td><td> 500mOhm Rds</td><td> TO-220AB'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TO?220*'</td></tr></table>]|
 ||||

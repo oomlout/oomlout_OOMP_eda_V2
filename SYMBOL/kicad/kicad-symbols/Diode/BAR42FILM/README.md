@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDIODEBAR42FILM > BAR42FILM
+# SZKDIODEBAR42FILM > Diode : BAR42FILM
 
 - ID: SYMBOL-kicad-kicad-symbols-Diode-BAR42FILM
 - Hex ID: SZKDIODEBAR42FILM
-- Name: BAR42FILM
-- Description: BAR42FILM
+- Name: Diode : BAR42FILM
+- Description: Diode : BAR42FILM
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BAR42FILM](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BAR42FILM)
 - Short Link: [http://oom.lt/SZKDIODEBAR42FILM](http://oom.lt/SZKDIODEBAR42FILM)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BAR42FILM|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-BAR42FILM|
 |Hex ID (short code)|hexID|SZKDIODEBAR42FILM|
-|name|name|BAR42FILM|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'BAR42FILM', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23', 'kicadSymbolDatasheet': 'www.st.com/resource/en/datasheet/bar42.pdf', 'kicadSymbolki_keywords': 'diode Schottky', 'kicadSymbolki_description': '30V 0.1A Small signal Schottky diode, SOT-23', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
+|name|name|Diode : BAR42FILM|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'BAR42FILM'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-23'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'www.st.com/resource/en/datasheet/bar42.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'diode Schottky'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '30V 0.1A Small signal Schottky diode</td><td> SOT-23'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23*'</td></tr></table>]|
 ||||

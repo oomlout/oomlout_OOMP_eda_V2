@@ -29,5 +29,5 @@ NO IMAGE
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-RF_Converter-Anaren_0805_2012Metric-6|
 |Hex ID (short code)|hexID|FZKRFANAREN85212METRIC6|
 |name|name|RF_Converter : Anaren_0805_2012Metric-6|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Anaren_0805_2012Metric-6', 'description': 'https://cdn.anaren.com/product-documents/Xinger/DirectionalCouplers/DC4759J5020AHF/DC4759J5020AHF_DataSheet(Rev_E).pdf', 'tags': 'coupler rf', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/RF_Converter.3dshapes/Anaren_0805_2012Metric-6.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Anaren_0805_2012Metric-6'</td><td> 'description'</td></tr><tr><td> 'https</td></tr><tr><td>//cdn.anaren.com/product-documents/Xinger/DirectionalCouplers/DC4759J5020AHF/DC4759J5020AHF_DataSheet(Rev_E).pdf'</td><td> 'tags'</td></tr><tr><td> 'coupler rf'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/RF_Converter.3dshapes/Anaren_0805_2012Metric-6.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

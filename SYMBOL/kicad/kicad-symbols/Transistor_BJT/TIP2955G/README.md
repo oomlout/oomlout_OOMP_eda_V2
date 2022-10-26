@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORBJTTIP2955G > TIP2955G
+# SZKTRANSISTORBJTTIP2955G > Transistor_BJT : TIP2955G
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-TIP2955G
 - Hex ID: SZKTRANSISTORBJTTIP2955G
-- Name: TIP2955G
-- Description: TIP2955G
+- Name: Transistor_BJT : TIP2955G
+- Description: Transistor_BJT : TIP2955G
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-TIP2955G](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-TIP2955G)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTTIP2955G](http://oom.lt/SZKTRANSISTORBJTTIP2955G)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TIP2955G|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_BJT-TIP2955G|
 |Hex ID (short code)|hexID|SZKTRANSISTORBJTTIP2955G|
-|name|name|TIP2955G|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'TIP2955G', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-247-3_Vertical', 'kicadSymbolDatasheet': 'http://www.onsemi.com/pub_link/Collateral/TIP3055-D.PDF', 'kicadSymbolki_keywords': 'power PNP Transistor', 'kicadSymbolki_description': '-15A Ic, -60V Vce, Power PNP Transistor, TO-247', 'kicadSymbolki_fp_filters': 'TO?247*'}]|
+|name|name|Transistor_BJT : TIP2955G|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TIP2955G'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_THT</td></tr><tr><td>TO-247-3_Vertical'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.onsemi.com/pub_link/Collateral/TIP3055-D.PDF'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'power PNP Transistor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '-15A Ic</td><td> -60V Vce</td><td> Power PNP Transistor</td><td> TO-247'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TO?247*'</td></tr></table>]|
 ||||

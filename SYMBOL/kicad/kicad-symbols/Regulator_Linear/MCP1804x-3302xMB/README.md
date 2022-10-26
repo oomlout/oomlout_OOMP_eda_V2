@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORLINEARMCP184X332XMB > MCP1804x-3302xMB
+# SZKREGULATORLINEARMCP184X332XMB > Regulator_Linear : MCP1804x-3302xMB
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-MCP1804x-3302xMB
 - Hex ID: SZKREGULATORLINEARMCP184X332XMB
-- Name: MCP1804x-3302xMB
-- Description: MCP1804x-3302xMB
+- Name: Regulator_Linear : MCP1804x-3302xMB
+- Description: Regulator_Linear : MCP1804x-3302xMB
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-MCP1804x-3302xMB](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-MCP1804x-3302xMB)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARMCP184X332XMB](http://oom.lt/SZKREGULATORLINEARMCP184X332XMB)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MCP1804x-3302xMB|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-MCP1804x-3302xMB|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARMCP184X332XMB|
-|name|name|MCP1804x-3302xMB|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MC78L05_SOT89', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MCP1804x-3302xMB', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-89-3', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/20002200D.pdf', 'kicadSymbolki_keywords': 'linear regulator ldo fixed positive', 'kicadSymbolki_description': '150mA, 28V LDO Regulator With Shutdown, 3.3V Fixed Output, SOT-89-3', 'kicadSymbolki_fp_filters': 'SOT?89*'}]|
+|name|name|Regulator_Linear : MCP1804x-3302xMB|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'MC78L05_SOT89'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MCP1804x-3302xMB'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-89-3'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/20002200D.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'linear regulator ldo fixed positive'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '150mA</td><td> 28V LDO Regulator With Shutdown</td><td> 3.3V Fixed Output</td><td> SOT-89-3'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?89*'</td></tr></table>]|
 ||||

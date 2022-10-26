@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORFETFDMT86DC > FDMT80060DC
+# SZKTRANSISTORFETFDMT86DC > Transistor_FET : FDMT80060DC
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-FDMT80060DC
 - Hex ID: SZKTRANSISTORFETFDMT86DC
-- Name: FDMT80060DC
-- Description: FDMT80060DC
+- Name: Transistor_FET : FDMT80060DC
+- Description: Transistor_FET : FDMT80060DC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-FDMT80060DC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-FDMT80060DC)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETFDMT86DC](http://oom.lt/SZKTRANSISTORFETFDMT86DC)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|FDMT80060DC|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-FDMT80060DC|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETFDMT86DC|
-|name|name|FDMT80060DC|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'FDMT80060DC', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:PQFN_8x8', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pub/Collateral/FDMT80060DC-D.pdf', 'kicadSymbolki_keywords': 'PowerTrench Power MOSFET N-MOS', 'kicadSymbolki_description': '43A Id, 60V Vds, PowerTrench N-Channel Power MOSFET, 6.9mOhm Ron, Qg (typ) 7.9nC 8x8mm MLP', 'kicadSymbolki_fp_filters': 'PQFN*8x8*'}]|
+|name|name|Transistor_FET : FDMT80060DC|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'FDMT80060DC'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>PQFN_8x8'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.onsemi.com/pub/Collateral/FDMT80060DC-D.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'PowerTrench Power MOSFET N-MOS'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '43A Id</td><td> 60V Vds</td><td> PowerTrench N-Channel Power MOSFET</td><td> 6.9mOhm Ron</td><td> Qg (typ) 7.9nC 8x8mm MLP'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'PQFN*8x8*'</td></tr></table>]|
 ||||

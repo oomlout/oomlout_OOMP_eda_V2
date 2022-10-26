@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICCAPC42XUF2V63DC4U263DC1253 > CAPC-0402-X-UF2-V63D-C4U263D-C12530
+# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICCAPC42XUF2V63DC4U263DC1253 > oomlout_OOMP_JLCC_Basic : CAPC-0402-X-UF2-V63D-C4U263D-C12530
 
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0402-X-UF2-V63D-C4U263D-C12530
 - Hex ID: SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICCAPC42XUF2V63DC4U263DC1253
-- Name: CAPC-0402-X-UF2-V63D-C4U263D-C12530
-- Description: CAPC-0402-X-UF2-V63D-C4U263D-C12530
+- Name: oomlout_OOMP_JLCC_Basic : CAPC-0402-X-UF2-V63D-C4U263D-C12530
+- Description: oomlout_OOMP_JLCC_Basic : CAPC-0402-X-UF2-V63D-C4U263D-C12530
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0402-X-UF2-V63D-C4U263D-C12530](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0402-X-UF2-V63D-C4U263D-C12530)
 - Short Link: [http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICCAPC42XUF2V63DC4U263DC1253](http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICCAPC42XUF2V63DC4U263DC1253)
   
@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|CAPC-0402-X-UF2-V63D-C4U263D-C12530|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0402-X-UF2-V63D-C4U263D-C12530|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICCAPC42XUF2V63DC4U263DC1253|
-|name|name|CAPC-0402-X-UF2-V63D-C4U263D-C12530|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'C', 'kicadSymbolValue': 'CAPC-0402-X-UF2-V63D-C4U263D-C12530', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:CAPC-0402-X-UF2-V63D-C4U263D-C12530', 'kicadSymbolDatasheet': 'oom.lt/C4U263D', 'kicadSymbolki_keywords': 'cap capacitor', 'kicadSymbolki_description': 'hexID: C4U263D;PARTL C-JLCC;C12530;MANUF C-XXXX;CL05A225MQ5NSNC;Unpolarized capacitor', 'kicadSymbolki_fp_filters': 'C_*'}]|
+|name|name|oomlout_OOMP_JLCC_Basic : CAPC-0402-X-UF2-V63D-C4U263D-C12530|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'C'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'CAPC-0402-X-UF2-V63D-C4U263D-C12530'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'oomlout_OOMP_parts</td></tr><tr><td>CAPC-0402-X-UF2-V63D-C4U263D-C12530'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'oom.lt/C4U263D'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'cap capacitor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'hexID</td></tr><tr><td> C4U263D;PARTL C-JLCC;C12530;MANUF C-XXXX;CL05A225MQ5NSNC;Unpolarized capacitor'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'C_*'</td></tr></table>]|
 ||||

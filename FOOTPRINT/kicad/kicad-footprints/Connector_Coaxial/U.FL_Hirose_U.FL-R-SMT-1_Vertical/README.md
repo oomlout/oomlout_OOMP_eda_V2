@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Coaxial-U.FL_Hirose_U.FL-R-SMT-1_Vertical|
 |Hex ID (short code)|hexID|FZKCNCOAUFLHIROSEUFLRS1VERTICAL|
 |name|name|Connector_Coaxial : U.FL_Hirose_U.FL-R-SMT-1_Vertical|
-|Footprint Kicad|footprintKicadDetails|{'name': 'U.FL_Hirose_U.FL-R-SMT-1_Vertical', 'description': 'Hirose U.FL Coaxial https://www.hirose.com/product/en/products/U.FL/U.FL-R-SMT-1%2810%29/', 'tags': 'Hirose U.FL Coaxial', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_Coaxial.3dshapes/U.FL_Hirose_U.FL-R-SMT-1_Vertical.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'U.FL_Hirose_U.FL-R-SMT-1_Vertical'</td><td> 'description'</td></tr><tr><td> 'Hirose U.FL Coaxial https</td></tr><tr><td>//www.hirose.com/product/en/products/U.FL/U.FL-R-SMT-1%2810%29/'</td><td> 'tags'</td></tr><tr><td> 'Hirose U.FL Coaxial'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_Coaxial.3dshapes/U.FL_Hirose_U.FL-R-SMT-1_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

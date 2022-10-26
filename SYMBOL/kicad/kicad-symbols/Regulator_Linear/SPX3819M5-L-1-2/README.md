@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORLINEARSPX3819M5L12 > SPX3819M5-L-1-2
+# SZKREGULATORLINEARSPX3819M5L12 > Regulator_Linear : SPX3819M5-L-1-2
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-SPX3819M5-L-1-2
 - Hex ID: SZKREGULATORLINEARSPX3819M5L12
-- Name: SPX3819M5-L-1-2
-- Description: SPX3819M5-L-1-2
+- Name: Regulator_Linear : SPX3819M5-L-1-2
+- Description: Regulator_Linear : SPX3819M5-L-1-2
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-SPX3819M5-L-1-2](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-SPX3819M5-L-1-2)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARSPX3819M5L12](http://oom.lt/SZKREGULATORLINEARSPX3819M5L12)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SPX3819M5-L-1-2|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-SPX3819M5-L-1-2|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARSPX3819M5L12|
-|name|name|SPX3819M5-L-1-2|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'AP131-15', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'SPX3819M5-L-1-2', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-5', 'kicadSymbolDatasheet': 'https://www.exar.com/content/document.ashx?id=22106&languageid=1033&type=Datasheet&partnumber=SPX3819&filename=SPX3819.pdf&part=SPX3819', 'kicadSymbolki_keywords': 'REGULATOR LDO 1.2V', 'kicadSymbolki_description': '500mA Low drop-out regulator, Fixed Output 1.2V, SOT-23-5', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
+|name|name|Regulator_Linear : SPX3819M5-L-1-2|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'AP131-15'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'SPX3819M5-L-1-2'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-23-5'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.exar.com/content/document.ashx?id=22106&languageid=1033&type=Datasheet&partnumber=SPX3819&filename=SPX3819.pdf&part=SPX3819'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'REGULATOR LDO 1.2V'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '500mA Low drop-out regulator</td><td> Fixed Output 1.2V</td><td> SOT-23-5'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23*'</td></tr></table>]|
 ||||

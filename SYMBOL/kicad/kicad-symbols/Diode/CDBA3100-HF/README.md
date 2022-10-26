@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDIODECDBA31HF > CDBA3100-HF
+# SZKDIODECDBA31HF > Diode : CDBA3100-HF
 
 - ID: SYMBOL-kicad-kicad-symbols-Diode-CDBA3100-HF
 - Hex ID: SZKDIODECDBA31HF
-- Name: CDBA3100-HF
-- Description: CDBA3100-HF
+- Name: Diode : CDBA3100-HF
+- Description: Diode : CDBA3100-HF
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-CDBA3100-HF](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-CDBA3100-HF)
 - Short Link: [http://oom.lt/SZKDIODECDBA31HF](http://oom.lt/SZKDIODECDBA31HF)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|CDBA3100-HF|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-CDBA3100-HF|
 |Hex ID (short code)|hexID|SZKDIODECDBA31HF|
-|name|name|CDBA3100-HF|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'B120-E3', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'CDBA3100-HF', 'kicadSymbolFootprint': 'Diode_SMD:D_SMA', 'kicadSymbolDatasheet': 'https://www.comchiptech.com/admin/files/product/CDBA340-HF%20Thru193640.%20CDBA3100-HF%20RevB.pdf', 'kicadSymbolki_keywords': 'diode Schottky', 'kicadSymbolki_description': '100V 3A Schottky Barrier Rectifier Diode, SMA(DO-214AC)', 'kicadSymbolki_fp_filters': 'D*SMA*'}]|
+|name|name|Diode : CDBA3100-HF|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'B120-E3'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'CDBA3100-HF'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Diode_SMD</td></tr><tr><td>D_SMA'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.comchiptech.com/admin/files/product/CDBA340-HF%20Thru193640.%20CDBA3100-HF%20RevB.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'diode Schottky'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '100V 3A Schottky Barrier Rectifier Diode</td><td> SMA(DO-214AC)'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'D*SMA*'</td></tr></table>]|
 ||||

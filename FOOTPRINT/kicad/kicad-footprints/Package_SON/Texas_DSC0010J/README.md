@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SON-Texas_DSC0010J|
 |Hex ID (short code)|hexID|FZKSONTEXASDSC1J|
 |name|name|Package_SON : Texas_DSC0010J|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Texas_DSC0010J', 'description': '3x3mm Body, 0.5mm Pitch, DSC0010J, WSON, http://www.ti.com/lit/ds/symlink/tps61201.pdf', 'tags': '0.5 DSC0010J WSON', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SON.3dshapes/Texas_S-DSC0010J.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Texas_DSC0010J'</td><td> 'description'</td></tr><tr><td> '3x3mm Body</td><td> 0.5mm Pitch</td><td> DSC0010J</td><td> WSON</td><td> http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/tps61201.pdf'</td><td> 'tags'</td></tr><tr><td> '0.5 DSC0010J WSON'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_SON.3dshapes/Texas_S-DSC0010J.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKCNAUDIOJ3GROUNDSWITCH > AudioJack3_Ground_Switch
+# SZKCNAUDIOJ3GROUNDSWITCH > Connector : AudioJack3_Ground_Switch
 
 - ID: SYMBOL-kicad-kicad-symbols-Connector-AudioJack3_Ground_Switch
 - Hex ID: SZKCNAUDIOJ3GROUNDSWITCH
-- Name: AudioJack3_Ground_Switch
-- Description: AudioJack3_Ground_Switch
+- Name: Connector : AudioJack3_Ground_Switch
+- Description: Connector : AudioJack3_Ground_Switch
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-AudioJack3_Ground_Switch](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-AudioJack3_Ground_Switch)
 - Short Link: [http://oom.lt/SZKCNAUDIOJ3GROUNDSWITCH](http://oom.lt/SZKCNAUDIOJ3GROUNDSWITCH)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AudioJack3_Ground_Switch|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-AudioJack3_Ground_Switch|
 |Hex ID (short code)|hexID|SZKCNAUDIOJ3GROUNDSWITCH|
-|name|name|AudioJack3_Ground_Switch|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'AudioJack3_Ground_Switch', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'audio jack receptacle stereo headphones phones TRS connector', 'kicadSymbolki_description': 'Audio Jack, 3 Poles (Stereo / TRS), Grounded Sleeve, Switched Poles (Normalling)', 'kicadSymbolki_fp_filters': 'Jack*'}]|
+|name|name|Connector : AudioJack3_Ground_Switch|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'J'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'AudioJack3_Ground_Switch'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'audio jack receptacle stereo headphones phones TRS connector'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Audio Jack</td><td> 3 Poles (Stereo / TRS)</td><td> Grounded Sleeve</td><td> Switched Poles (Normalling)'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Jack*'</td></tr></table>]|
 ||||

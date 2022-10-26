@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKANALOGLF398H > LF398H
+# SZKANALOGLF398H > Analog : LF398H
 
 - ID: SYMBOL-kicad-kicad-symbols-Analog-LF398H
 - Hex ID: SZKANALOGLF398H
-- Name: LF398H
-- Description: LF398H
+- Name: Analog : LF398H
+- Description: Analog : LF398H
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog-LF398H](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog-LF398H)
 - Short Link: [http://oom.lt/SZKANALOGLF398H](http://oom.lt/SZKANALOGLF398H)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LF398H|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog-LF398H|
 |Hex ID (short code)|hexID|SZKANALOGLF398H|
-|name|name|LF398H|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LF398H', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-99-8', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lf398-n.pdf', 'kicadSymbolki_keywords': 'sample hold buffer unity gain', 'kicadSymbolki_description': 'Sample And Hold Unity Gain Follower, TO-99-8', 'kicadSymbolki_fp_filters': '*TO*99*'}]|
+|name|name|Analog : LF398H|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LF398H'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_THT</td></tr><tr><td>TO-99-8'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/lf398-n.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'sample hold buffer unity gain'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Sample And Hold Unity Gain Follower</td><td> TO-99-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> '*TO*99*'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKCNGENERICMOUNTINGPINCONN2X1MOUNTINGPIN > Conn_02x01_MountingPin
+# SZKCNGENERICMOUNTINGPINCONN2X1MOUNTINGPIN > Connector_Generic_MountingPin : Conn_02x01_MountingPin
 
 - ID: SYMBOL-kicad-kicad-symbols-Connector_Generic_MountingPin-Conn_02x01_MountingPin
 - Hex ID: SZKCNGENERICMOUNTINGPINCONN2X1MOUNTINGPIN
-- Name: Conn_02x01_MountingPin
-- Description: Conn_02x01_MountingPin
+- Name: Connector_Generic_MountingPin : Conn_02x01_MountingPin
+- Description: Connector_Generic_MountingPin : Conn_02x01_MountingPin
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector_Generic_MountingPin-Conn_02x01_MountingPin](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector_Generic_MountingPin-Conn_02x01_MountingPin)
 - Short Link: [http://oom.lt/SZKCNGENERICMOUNTINGPINCONN2X1MOUNTINGPIN](http://oom.lt/SZKCNGENERICMOUNTINGPINCONN2X1MOUNTINGPIN)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Conn_02x01_MountingPin|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector_Generic_MountingPin-Conn_02x01_MountingPin|
 |Hex ID (short code)|hexID|SZKCNGENERICMOUNTINGPINCONN2X1MOUNTINGPIN|
-|name|name|Conn_02x01_MountingPin|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'Conn_02x01_MountingPin', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'connector', 'kicadSymbolki_description': 'Generic connectable mounting pin connector, double row, 02x01, this symbol is compatible with counter-clockwise, top-bottom and odd-even numbering schemes., script generated (kicad-library-utils/schlib/autogen/connector/)', 'kicadSymbolki_fp_filters': 'Connector*:*_2x??-1MP*'}]|
+|name|name|Connector_Generic_MountingPin : Conn_02x01_MountingPin|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'J'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Conn_02x01_MountingPin'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'connector'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Generic connectable mounting pin connector</td><td> double row</td><td> 02x01</td><td> this symbol is compatible with counter-clockwise</td><td> top-bottom and odd-even numbering schemes.</td><td> script generated (kicad-library-utils/schlib/autogen/connector/)'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Connector*</td></tr><tr><td>*_2x??-1MP*'</td></tr></table>]|
 ||||

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_RGB_Cree-PLCC-6_6x5mm_P2.1mm|
 |Hex ID (short code)|hexID|FZKLSMLRGBCREEPLCC66X5P21|
 |name|name|LED_SMD : LED_RGB_Cree-PLCC-6_6x5mm_P2.1mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'LED_RGB_Cree-PLCC-6_6x5mm_P2.1mm', 'description': 'http://www.farnell.com/datasheets/2003905.pdf', 'tags': 'LED RGB PLCC-6 CLP6C-FBK', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED_RGB_Cree-PLCC-6_6x5mm_P2.1mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'LED_RGB_Cree-PLCC-6_6x5mm_P2.1mm'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//www.farnell.com/datasheets/2003905.pdf'</td><td> 'tags'</td></tr><tr><td> 'LED RGB PLCC-6 CLP6C-FBK'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/LED_SMD.3dshapes/LED_RGB_Cree-PLCC-6_6x5mm_P2.1mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

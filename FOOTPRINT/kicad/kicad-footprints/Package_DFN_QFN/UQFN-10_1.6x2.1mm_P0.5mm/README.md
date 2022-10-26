@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-UQFN-10_1.6x2.1mm_P0.5mm|
 |Hex ID (short code)|hexID|FZKDFNUQFN116X21P5|
 |name|name|Package_DFN_QFN : UQFN-10_1.6x2.1mm_P0.5mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'UQFN-10_1.6x2.1mm_P0.5mm', 'description': 'UQFN, 10 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/00001725D.pdf (Page 12)), generated with kicad-footprint-generator ipc_noLead_generator.py', 'tags': 'UQFN NoLead', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/UQFN-10_1.6x2.1mm_P0.5mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'UQFN-10_1.6x2.1mm_P0.5mm'</td><td> 'description'</td></tr><tr><td> 'UQFN</td><td> 10 Pin (http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/00001725D.pdf (Page 12))</td><td> generated with kicad-footprint-generator ipc_noLead_generator.py'</td><td> 'tags'</td></tr><tr><td> 'UQFN NoLead'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DFN_QFN.3dshapes/UQFN-10_1.6x2.1mm_P0.5mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

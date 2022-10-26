@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORSWITCHINGTPS613225ADBV > TPS613225ADBV
+# SZKREGULATORSWITCHINGTPS613225ADBV > Regulator_Switching : TPS613225ADBV
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS613225ADBV
 - Hex ID: SZKREGULATORSWITCHINGTPS613225ADBV
-- Name: TPS613225ADBV
-- Description: TPS613225ADBV
+- Name: Regulator_Switching : TPS613225ADBV
+- Description: Regulator_Switching : TPS613225ADBV
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS613225ADBV](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS613225ADBV)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGTPS613225ADBV](http://oom.lt/SZKREGULATORSWITCHINGTPS613225ADBV)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TPS613225ADBV|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS613225ADBV|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGTPS613225ADBV|
-|name|name|TPS613225ADBV|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TPS613221ADBV', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TPS613225ADBV', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-5', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tps61322.pdf', 'kicadSymbolki_keywords': 'Boost converter', 'kicadSymbolki_description': '1.2A Step-Up Converter, 3V Output Voltage, 0.9-5.5V Input Voltage, SOT-23-5', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
+|name|name|Regulator_Switching : TPS613225ADBV|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'TPS613221ADBV'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TPS613225ADBV'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-23-5'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/tps61322.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Boost converter'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '1.2A Step-Up Converter</td><td> 3V Output Voltage</td><td> 0.9-5.5V Input Voltage</td><td> SOT-23-5'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23*'</td></tr></table>]|
 ||||

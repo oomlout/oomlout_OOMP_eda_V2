@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-UQFN-16-1EP_4x4mm_P0.65mm_EP2.6x2.6mm|
 |Hex ID (short code)|hexID|FZKDFNUQFN161EP4X4P65EP26X26|
 |name|name|Package_DFN_QFN : UQFN-16-1EP_4x4mm_P0.65mm_EP2.6x2.6mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'UQFN-16-1EP_4x4mm_P0.65mm_EP2.6x2.6mm', 'description': 'UQFN, 16 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/16L_UQFN_4x4x0_5mm_JQ_C04257A.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py', 'tags': 'UQFN NoLead', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/UQFN-16-1EP_4x4mm_P0.65mm_EP2.6x2.6mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'UQFN-16-1EP_4x4mm_P0.65mm_EP2.6x2.6mm'</td><td> 'description'</td></tr><tr><td> 'UQFN</td><td> 16 Pin (http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/16L_UQFN_4x4x0_5mm_JQ_C04257A.pdf)</td><td> generated with kicad-footprint-generator ipc_noLead_generator.py'</td><td> 'tags'</td></tr><tr><td> 'UQFN NoLead'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DFN_QFN.3dshapes/UQFN-16-1EP_4x4mm_P0.65mm_EP2.6x2.6mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

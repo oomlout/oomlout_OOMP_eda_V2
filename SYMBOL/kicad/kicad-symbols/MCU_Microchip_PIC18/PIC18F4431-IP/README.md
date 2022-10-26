@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUMCHIPPIC18PIC18F4431IP > PIC18F4431-IP
+# SZKMCUMCHIPPIC18PIC18F4431IP > MCU_Microchip_PIC18 : PIC18F4431-IP
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18F4431-IP
 - Hex ID: SZKMCUMCHIPPIC18PIC18F4431IP
-- Name: PIC18F4431-IP
-- Description: PIC18F4431-IP
+- Name: MCU_Microchip_PIC18 : PIC18F4431-IP
+- Description: MCU_Microchip_PIC18 : PIC18F4431-IP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18F4431-IP](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18F4431-IP)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC18PIC18F4431IP](http://oom.lt/SZKMCUMCHIPPIC18PIC18F4431IP)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PIC18F4431-IP|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18F4431-IP|
 |Hex ID (short code)|hexID|SZKMCUMCHIPPIC18PIC18F4431IP|
-|name|name|PIC18F4431-IP|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'PIC18F4331-IP', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PIC18F4431-IP', 'kicadSymbolFootprint': 'Package_DIP:DIP-40_W15.24mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/39616d.pdf', 'kicadSymbolki_keywords': 'Flash-Based 8-Bit Microcontroller XLP', 'kicadSymbolki_description': '16K Flash, 768B SRAM, 256B EEPROM, nanoWatt XLP, ADC, PWM, DIP40', 'kicadSymbolki_fp_filters': 'DIP*W15.24* PDIP*W15.24*'}]|
+|name|name|MCU_Microchip_PIC18 : PIC18F4431-IP|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'PIC18F4331-IP'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'PIC18F4431-IP'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>DIP-40_W15.24mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/39616d.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Flash-Based 8-Bit Microcontroller XLP'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '16K Flash</td><td> 768B SRAM</td><td> 256B EEPROM</td><td> nanoWatt XLP</td><td> ADC</td><td> PWM</td><td> DIP40'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W15.24* PDIP*W15.24*'</td></tr></table>]|
 ||||

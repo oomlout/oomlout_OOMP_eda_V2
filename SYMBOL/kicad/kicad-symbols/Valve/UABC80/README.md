@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKVAUABC8 > UABC80
+# SZKVAUABC8 > Valve : UABC80
 
 - ID: SYMBOL-kicad-kicad-symbols-Valve-UABC80
 - Hex ID: SZKVAUABC8
-- Name: UABC80
-- Description: UABC80
+- Name: Valve : UABC80
+- Description: Valve : UABC80
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Valve-UABC80](http://oom.lt/SYMBOL-kicad-kicad-symbols-Valve-UABC80)
 - Short Link: [http://oom.lt/SZKVAUABC8](http://oom.lt/SZKVAUABC8)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|UABC80|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Valve-UABC80|
 |Hex ID (short code)|hexID|SZKVAUABC8|
-|name|name|UABC80|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'EABC80', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'UABC80', 'kicadSymbolFootprint': 'Valve:Valve_Noval_P', 'kicadSymbolDatasheet': 'https://frank.pocnet.net/sheets/082/e/EABC80.pdf', 'kicadSymbolki_keywords': 'diode triode valve', 'kicadSymbolki_description': 'triple diode triode', 'kicadSymbolki_fp_filters': 'VALVE*NOVAL*P*'}]|
+|name|name|Valve : UABC80|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'EABC80'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'UABC80'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Valve</td></tr><tr><td>Valve_Noval_P'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//frank.pocnet.net/sheets/082/e/EABC80.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'diode triode valve'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'triple diode triode'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'VALVE*NOVAL*P*'</td></tr></table>]|
 ||||

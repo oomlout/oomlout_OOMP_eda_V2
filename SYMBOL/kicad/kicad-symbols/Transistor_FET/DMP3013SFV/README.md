@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORFETDMP313SFV > DMP3013SFV
+# SZKTRANSISTORFETDMP313SFV > Transistor_FET : DMP3013SFV
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-DMP3013SFV
 - Hex ID: SZKTRANSISTORFETDMP313SFV
-- Name: DMP3013SFV
-- Description: DMP3013SFV
+- Name: Transistor_FET : DMP3013SFV
+- Description: Transistor_FET : DMP3013SFV
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-DMP3013SFV](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-DMP3013SFV)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETDMP313SFV](http://oom.lt/SZKTRANSISTORFETDMP313SFV)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DMP3013SFV|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-DMP3013SFV|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETDMP313SFV|
-|name|name|DMP3013SFV|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'DMP3013SFV', 'kicadSymbolFootprint': 'Package_SON:Diodes_PowerDI3333-8', 'kicadSymbolDatasheet': 'https://www.diodes.com/assets/Datasheets/DMP3013SFV.pdf', 'kicadSymbolki_keywords': 'P-Channel MOSFET', 'kicadSymbolki_description': '-12A Id, -30V Vds, P-Channel Power MOSFET, 9.5mOhm Ron, 33.7nC Qg (typ), PowerDI3333-8', 'kicadSymbolki_fp_filters': 'Diodes*PowerDI3333*'}]|
+|name|name|Transistor_FET : DMP3013SFV|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'DMP3013SFV'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SON</td></tr><tr><td>Diodes_PowerDI3333-8'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.diodes.com/assets/Datasheets/DMP3013SFV.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'P-Channel MOSFET'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '-12A Id</td><td> -30V Vds</td><td> P-Channel Power MOSFET</td><td> 9.5mOhm Ron</td><td> 33.7nC Qg (typ)</td><td> PowerDI3333-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Diodes*PowerDI3333*'</td></tr></table>]|
 ||||

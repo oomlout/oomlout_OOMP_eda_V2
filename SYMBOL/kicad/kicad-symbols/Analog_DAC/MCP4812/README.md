@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKANALOGDACMCP4812 > MCP4812
+# SZKANALOGDACMCP4812 > Analog_DAC : MCP4812
 
 - ID: SYMBOL-kicad-kicad-symbols-Analog_DAC-MCP4812
 - Hex ID: SZKANALOGDACMCP4812
-- Name: MCP4812
-- Description: MCP4812
+- Name: Analog_DAC : MCP4812
+- Description: Analog_DAC : MCP4812
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-MCP4812](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-MCP4812)
 - Short Link: [http://oom.lt/SZKANALOGDACMCP4812](http://oom.lt/SZKANALOGDACMCP4812)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MCP4812|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_DAC-MCP4812|
 |Hex ID (short code)|hexID|SZKANALOGDACMCP4812|
-|name|name|MCP4812|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MCP4802', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MCP4812', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/20002249B.pdf', 'kicadSymbolki_keywords': '10-Bit DAC SPI Reference 2ch', 'kicadSymbolki_description': '2-Channel 10-Bit D/A Converters with SPI Interface and Internal Reference (2.048V)', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm* SOIC*3.9x4.9mm*P1.27mm* MSOP*3x3mm*P0.65mm*'}]|
+|name|name|Analog_DAC : MCP4812|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'MCP4802'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MCP4812'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/20002249B.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> '10-Bit DAC SPI Reference 2ch'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '2-Channel 10-Bit D/A Converters with SPI Interface and Internal Reference (2.048V)'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W7.62mm* SOIC*3.9x4.9mm*P1.27mm* MSOP*3x3mm*P0.65mm*'</td></tr></table>]|
 ||||

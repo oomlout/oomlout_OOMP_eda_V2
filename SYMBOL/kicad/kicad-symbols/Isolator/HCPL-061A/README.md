@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKISOLATORHCPL61A > HCPL-061A
+# SZKISOLATORHCPL61A > Isolator : HCPL-061A
 
 - ID: SYMBOL-kicad-kicad-symbols-Isolator-HCPL-061A
 - Hex ID: SZKISOLATORHCPL61A
-- Name: HCPL-061A
-- Description: HCPL-061A
+- Name: Isolator : HCPL-061A
+- Description: Isolator : HCPL-061A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-HCPL-061A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-HCPL-061A)
 - Short Link: [http://oom.lt/SZKISOLATORHCPL61A](http://oom.lt/SZKISOLATORHCPL61A)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|HCPL-061A|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Isolator-HCPL-061A|
 |Hex ID (short code)|hexID|SZKISOLATORHCPL61A|
-|name|name|HCPL-061A|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'HCPL-061A', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm', 'kicadSymbolDatasheet': 'http://docs.avagotech.com/docs/AV02-0391EN', 'kicadSymbolki_keywords': 'High speed optically coupled gates enable', 'kicadSymbolki_description': 'Single High Speed HCMOS/LSTTL/TTL Compatible Optocoupler with enable, dV/dt 1000/us, VCM 50, -0.5V to 7V VCC, SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm?P1.27mm*'}]|
+|name|name|Isolator : HCPL-061A|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'HCPL-061A'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-8_3.9x4.9mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//docs.avagotech.com/docs/AV02-0391EN'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'High speed optically coupled gates enable'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Single High Speed HCMOS/LSTTL/TTL Compatible Optocoupler with enable</td><td> dV/dt 1000/us</td><td> VCM 50</td><td> -0.5V to 7V VCC</td><td> SOIC-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*3.9x4.9mm?P1.27mm*'</td></tr></table>]|
 ||||

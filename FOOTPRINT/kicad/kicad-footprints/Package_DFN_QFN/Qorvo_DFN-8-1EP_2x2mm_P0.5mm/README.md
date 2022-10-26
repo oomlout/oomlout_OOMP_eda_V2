@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Qorvo_DFN-8-1EP_2x2mm_P0.5mm|
 |Hex ID (short code)|hexID|FZKDFNQORVODFN81EP2X2P5|
 |name|name|Package_DFN_QFN : Qorvo_DFN-8-1EP_2x2mm_P0.5mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Qorvo_DFN-8-1EP_2x2mm_P0.5mm', 'description': 'DFN 8 2x2mm, 0.5mm http://www.qorvo.com/products/d/da000896', 'tags': 'DFN 0.5 Qorvo 2x2mm', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Qorvo_DFN-8-1EP_2x2mm_P0.5mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Qorvo_DFN-8-1EP_2x2mm_P0.5mm'</td><td> 'description'</td></tr><tr><td> 'DFN 8 2x2mm</td><td> 0.5mm http</td></tr><tr><td>//www.qorvo.com/products/d/da000896'</td><td> 'tags'</td></tr><tr><td> 'DFN 0.5 Qorvo 2x2mm'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DFN_QFN.3dshapes/Qorvo_DFN-8-1EP_2x2mm_P0.5mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

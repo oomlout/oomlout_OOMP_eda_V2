@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDIODESTTH212S > STTH212S
+# SZKDIODESTTH212S > Diode : STTH212S
 
 - ID: SYMBOL-kicad-kicad-symbols-Diode-STTH212S
 - Hex ID: SZKDIODESTTH212S
-- Name: STTH212S
-- Description: STTH212S
+- Name: Diode : STTH212S
+- Description: Diode : STTH212S
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-STTH212S](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-STTH212S)
 - Short Link: [http://oom.lt/SZKDIODESTTH212S](http://oom.lt/SZKDIODESTTH212S)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|STTH212S|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-STTH212S|
 |Hex ID (short code)|hexID|SZKDIODESTTH212S|
-|name|name|STTH212S|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'STTH212S', 'kicadSymbolFootprint': 'Diode_SMD:D_SMC', 'kicadSymbolDatasheet': 'https://www.st.com/resource/en/datasheet/stth212.pdf', 'kicadSymbolki_keywords': 'diode', 'kicadSymbolki_description': '1200V 2A High Voltage Ultrafast Diode, SMC', 'kicadSymbolki_fp_filters': 'D?SMC*'}]|
+|name|name|Diode : STTH212S|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'STTH212S'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Diode_SMD</td></tr><tr><td>D_SMC'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.st.com/resource/en/datasheet/stth212.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'diode'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '1200V 2A High Voltage Ultrafast Diode</td><td> SMC'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'D?SMC*'</td></tr></table>]|
 ||||

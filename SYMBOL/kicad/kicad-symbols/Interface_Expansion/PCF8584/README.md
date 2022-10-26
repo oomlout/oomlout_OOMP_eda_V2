@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKINTERFACEEXPANSIONPCF8584 > PCF8584
+# SZKINTERFACEEXPANSIONPCF8584 > Interface_Expansion : PCF8584
 
 - ID: SYMBOL-kicad-kicad-symbols-Interface_Expansion-PCF8584
 - Hex ID: SZKINTERFACEEXPANSIONPCF8584
-- Name: PCF8584
-- Description: PCF8584
+- Name: Interface_Expansion : PCF8584
+- Description: Interface_Expansion : PCF8584
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Expansion-PCF8584](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Expansion-PCF8584)
 - Short Link: [http://oom.lt/SZKINTERFACEEXPANSIONPCF8584](http://oom.lt/SZKINTERFACEEXPANSIONPCF8584)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PCF8584|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_Expansion-PCF8584|
 |Hex ID (short code)|hexID|SZKINTERFACEEXPANSIONPCF8584|
-|name|name|PCF8584|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PCF8584', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.nxp.com/documents/data_sheet/PCF8584.pdf', 'kicadSymbolki_keywords': 'I2C Bus', 'kicadSymbolki_description': 'I2C Bus Controller, DIP/SOIC-20', 'kicadSymbolki_fp_filters': 'DIP* PDIP* SO* SOIC*'}]|
+|name|name|Interface_Expansion : PCF8584|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'PCF8584'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.nxp.com/documents/data_sheet/PCF8584.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'I2C Bus'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'I2C Bus Controller</td><td> DIP/SOIC-20'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP* PDIP* SO* SOIC*'</td></tr></table>]|
 ||||

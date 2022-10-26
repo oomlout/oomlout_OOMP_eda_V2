@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKINTERFACESN74LV8153N > SN74LV8153N
+# SZKINTERFACESN74LV8153N > Interface : SN74LV8153N
 
 - ID: SYMBOL-kicad-kicad-symbols-Interface-SN74LV8153N
 - Hex ID: SZKINTERFACESN74LV8153N
-- Name: SN74LV8153N
-- Description: SN74LV8153N
+- Name: Interface : SN74LV8153N
+- Description: Interface : SN74LV8153N
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-SN74LV8153N](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-SN74LV8153N)
 - Short Link: [http://oom.lt/SZKINTERFACESN74LV8153N](http://oom.lt/SZKINTERFACESN74LV8153N)
   
@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|SN74LV8153N|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface-SN74LV8153N|
 |Hex ID (short code)|hexID|SZKINTERFACESN74LV8153N|
-|name|name|SN74LV8153N|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'SN74LV8153N', 'kicadSymbolFootprint': 'Package_DIP:DIP-20_W7.62mm', 'kicadSymbolDatasheet': 'https://www.ti.com/lit/ds/symlink/sn74lv8153.pdf', 'kicadSymbolki_keywords': 'serial to parallel', 'kicadSymbolki_description': 'UART, Single wire input, Output 40mA, Open Collector or Push Pull, PDIP-20', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
+|name|name|Interface : SN74LV8153N|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'SN74LV8153N'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>DIP-20_W7.62mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.ti.com/lit/ds/symlink/sn74lv8153.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'serial to parallel'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'UART</td><td> Single wire input</td><td> Output 40mA</td><td> Open Collector or Push Pull</td><td> PDIP-20'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W7.62mm*'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUMCHIPATTINYATTINY85V1S > ATtiny85V-10S
+# SZKMCUMCHIPATTINYATTINY85V1S > MCU_Microchip_ATtiny : ATtiny85V-10S
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny85V-10S
 - Hex ID: SZKMCUMCHIPATTINYATTINY85V1S
-- Name: ATtiny85V-10S
-- Description: ATtiny85V-10S
+- Name: MCU_Microchip_ATtiny : ATtiny85V-10S
+- Description: MCU_Microchip_ATtiny : ATtiny85V-10S
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny85V-10S](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny85V-10S)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATTINYATTINY85V1S](http://oom.lt/SZKMCUMCHIPATTINYATTINY85V1S)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ATtiny85V-10S|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny85V-10S|
 |Hex ID (short code)|hexID|SZKMCUMCHIPATTINYATTINY85V1S|
-|name|name|ATtiny85V-10S|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ATtiny25V-10S', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ATtiny85V-10S', 'kicadSymbolFootprint': 'Package_SO:SOIC-8W_5.3x5.3mm_P1.27mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/atmel-2586-avr-8-bit-microcontroller-attiny25-attiny45-attiny85_datasheet.pdf', 'kicadSymbolki_keywords': 'AVR 8bit Microcontroller tinyAVR', 'kicadSymbolki_description': '10MHz, 8kB Flash, 512B SRAM, 512B EEPROM, debugWIRE, SOIC-8W', 'kicadSymbolki_fp_filters': 'SOIC*5.3x5.3mm*P1.27mm*'}]|
+|name|name|MCU_Microchip_ATtiny : ATtiny85V-10S|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'ATtiny25V-10S'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ATtiny85V-10S'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-8W_5.3x5.3mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/atmel-2586-avr-8-bit-microcontroller-attiny25-attiny45-attiny85_datasheet.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'AVR 8bit Microcontroller tinyAVR'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '10MHz</td><td> 8kB Flash</td><td> 512B SRAM</td><td> 512B EEPROM</td><td> debugWIRE</td><td> SOIC-8W'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*5.3x5.3mm*P1.27mm*'</td></tr></table>]|
 ||||

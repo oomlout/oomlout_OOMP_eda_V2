@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSHEADI1XPI1RS > HEAD-I01-X-PI10-RS-
+# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSHEADI1XPI1RS > oomlout_OOMP_parts : HEAD-I01-X-PI10-RS-
 
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-I01-X-PI10-RS-
 - Hex ID: SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSHEADI1XPI1RS
-- Name: HEAD-I01-X-PI10-RS-
-- Description: HEAD-I01-X-PI10-RS-
+- Name: oomlout_OOMP_parts : HEAD-I01-X-PI10-RS-
+- Description: oomlout_OOMP_parts : HEAD-I01-X-PI10-RS-
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-I01-X-PI10-RS-](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-I01-X-PI10-RS-)
 - Short Link: [http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSHEADI1XPI1RS](http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSHEADI1XPI1RS)
   
@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|HEAD-I01-X-PI10-RS-|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-I01-X-PI10-RS-|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSHEADI1XPI1RS|
-|name|name|HEAD-I01-X-PI10-RS-|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'HEAD-I01-X-PI10-RS-', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:HEAD-I01-X-PI10-RS-', 'kicadSymbolDatasheet': 'oom.lt/', 'kicadSymbolki_keywords': 'connector', 'kicadSymbolki_description': 'hexID: ;Generic connector, single row, 01x10, script generated (kicad-library-utils/schlib/autogen/connector/)', 'kicadSymbolki_fp_filters': 'Connector*:*_1x??_*'}]|
+|name|name|oomlout_OOMP_parts : HEAD-I01-X-PI10-RS-|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'J'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'HEAD-I01-X-PI10-RS-'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'oomlout_OOMP_parts</td></tr><tr><td>HEAD-I01-X-PI10-RS-'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'oom.lt/'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'connector'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'hexID</td></tr><tr><td> ;Generic connector</td><td> single row</td><td> 01x10</td><td> script generated (kicad-library-utils/schlib/autogen/connector/)'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Connector*</td></tr><tr><td>*_1x??_*'</td></tr></table>]|
 ||||

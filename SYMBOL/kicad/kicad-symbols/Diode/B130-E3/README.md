@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDIODEB13E3 > B130-E3
+# SZKDIODEB13E3 > Diode : B130-E3
 
 - ID: SYMBOL-kicad-kicad-symbols-Diode-B130-E3
 - Hex ID: SZKDIODEB13E3
-- Name: B130-E3
-- Description: B130-E3
+- Name: Diode : B130-E3
+- Description: Diode : B130-E3
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-B130-E3](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-B130-E3)
 - Short Link: [http://oom.lt/SZKDIODEB13E3](http://oom.lt/SZKDIODEB13E3)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|B130-E3|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-B130-E3|
 |Hex ID (short code)|hexID|SZKDIODEB13E3|
-|name|name|B130-E3|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'B120-E3', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'B130-E3', 'kicadSymbolFootprint': 'Diode_SMD:D_SMA', 'kicadSymbolDatasheet': 'http://www.vishay.com/docs/88946/b120.pdf', 'kicadSymbolki_keywords': 'diode Schottky', 'kicadSymbolki_description': '30V 1A Schottky Barrier Rectifier Diode, SMA(DO-214AC)', 'kicadSymbolki_fp_filters': 'D*SMA*'}]|
+|name|name|Diode : B130-E3|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'B120-E3'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'B130-E3'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Diode_SMD</td></tr><tr><td>D_SMA'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.vishay.com/docs/88946/b120.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'diode Schottky'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '30V 1A Schottky Barrier Rectifier Diode</td><td> SMA(DO-214AC)'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'D*SMA*'</td></tr></table>]|
 ||||

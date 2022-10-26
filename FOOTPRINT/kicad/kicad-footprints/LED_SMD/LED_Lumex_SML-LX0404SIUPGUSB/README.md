@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Lumex_SML-LX0404SIUPGUSB|
 |Hex ID (short code)|hexID|FZKLSMLLUMEXSMLLX44SIUPGU|
 |name|name|LED_SMD : LED_Lumex_SML-LX0404SIUPGUSB|
-|Footprint Kicad|footprintKicadDetails|{'name': 'LED_Lumex_SML-LX0404SIUPGUSB', 'description': 'Lumex RGB LED, clear, SMD, https://www.lumex.com/spec/SML-LX0404SIUPGUSB.pdf', 'tags': 'LED RGB', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED_Lumex_SML-LX0404SIUPGUSB.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'LED_Lumex_SML-LX0404SIUPGUSB'</td><td> 'description'</td></tr><tr><td> 'Lumex RGB LED</td><td> clear</td><td> SMD</td><td> https</td></tr><tr><td>//www.lumex.com/spec/SML-LX0404SIUPGUSB.pdf'</td><td> 'tags'</td></tr><tr><td> 'LED RGB'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/LED_SMD.3dshapes/LED_Lumex_SML-LX0404SIUPGUSB.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

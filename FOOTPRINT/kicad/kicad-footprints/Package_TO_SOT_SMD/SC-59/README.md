@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SC-59|
 |Hex ID (short code)|hexID|FZKPACKAGETOSOTSMSC59|
 |name|name|Package_TO_SOT_SMD : SC-59|
-|Footprint Kicad|footprintKicadDetails|{'name': 'SC-59', 'description': 'SC-59, https://lib.chipdip.ru/images/import_diod/original/SOT-23_SC-59.jpg', 'tags': 'SC-59', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SC-59.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SC-59'</td><td> 'description'</td></tr><tr><td> 'SC-59</td><td> https</td></tr><tr><td>//lib.chipdip.ru/images/import_diod/original/SOT-23_SC-59.jpg'</td><td> 'tags'</td></tr><tr><td> 'SC-59'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_TO_SOT_SMD.3dshapes/SC-59.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

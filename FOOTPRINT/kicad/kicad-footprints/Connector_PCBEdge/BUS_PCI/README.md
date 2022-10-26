@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_PCBEdge-BUS_PCI|
 |Hex ID (short code)|hexID|FZKCNPCBEDGEBUSPCI|
 |name|name|Connector_PCBEdge : BUS_PCI|
-|Footprint Kicad|footprintKicadDetails|{'name': 'BUS_PCI', 'description': 'PCI bus Edge Connector', 'tags': 'PCI bus Edge Connector', 'attributeType': None, 'pins': {'type': 'connect', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'BUS_PCI'</td><td> 'description'</td></tr><tr><td> 'PCI bus Edge Connector'</td><td> 'tags'</td></tr><tr><td> 'PCI bus Edge Connector'</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'connect'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

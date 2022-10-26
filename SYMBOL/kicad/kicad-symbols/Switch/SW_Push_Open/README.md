@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKSWITCHSWPUSHOPEN > SW_Push_Open
+# SZKSWITCHSWPUSHOPEN > Switch : SW_Push_Open
 
 - ID: SYMBOL-kicad-kicad-symbols-Switch-SW_Push_Open
 - Hex ID: SZKSWITCHSWPUSHOPEN
-- Name: SW_Push_Open
-- Description: SW_Push_Open
+- Name: Switch : SW_Push_Open
+- Description: Switch : SW_Push_Open
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Switch-SW_Push_Open](http://oom.lt/SYMBOL-kicad-kicad-symbols-Switch-SW_Push_Open)
 - Short Link: [http://oom.lt/SZKSWITCHSWPUSHOPEN](http://oom.lt/SZKSWITCHSWPUSHOPEN)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SW_Push_Open|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Switch-SW_Push_Open|
 |Hex ID (short code)|hexID|SZKSWITCHSWPUSHOPEN|
-|name|name|SW_Push_Open|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'SW', 'kicadSymbolValue': 'SW_Push_Open', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'switch normally-closed pushbutton push-button', 'kicadSymbolki_description': 'Push button switch, push-to-open, generic, two pins'}]|
+|name|name|Switch : SW_Push_Open|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'SW'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'SW_Push_Open'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'switch normally-closed pushbutton push-button'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Push button switch</td><td> push-to-open</td><td> generic</td><td> two pins'</td></tr></table>]|
 ||||

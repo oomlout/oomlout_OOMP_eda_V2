@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKSENMAGNETICAK7452 > AK7452
+# SZKSENMAGNETICAK7452 > Sensor_Magnetic : AK7452
 
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-AK7452
 - Hex ID: SZKSENMAGNETICAK7452
-- Name: AK7452
-- Description: AK7452
+- Name: Sensor_Magnetic : AK7452
+- Description: Sensor_Magnetic : AK7452
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-AK7452](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-AK7452)
 - Short Link: [http://oom.lt/SZKSENMAGNETICAK7452](http://oom.lt/SZKSENMAGNETICAK7452)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AK7452|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-AK7452|
 |Hex ID (short code)|hexID|SZKSENMAGNETICAK7452|
-|name|name|AK7452|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AK7452', 'kicadSymbolFootprint': 'Package_SO:TSSOP-16_4.4x5mm_P0.65mm', 'kicadSymbolDatasheet': 'https://www.akm.com/akm/en/file/datasheet/AK7452.pdf', 'kicadSymbolki_keywords': 'sensor magnetic hall position rotation spi', 'kicadSymbolki_description': 'Magnetic rotary angle sensor, 14-bit, SPI interface, ABZ, UVW, TSSOP-16', 'kicadSymbolki_fp_filters': 'TSSOP*4.4x5mm*P0.65mm*'}]|
+|name|name|Sensor_Magnetic : AK7452|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'AK7452'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>TSSOP-16_4.4x5mm_P0.65mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.akm.com/akm/en/file/datasheet/AK7452.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'sensor magnetic hall position rotation spi'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Magnetic rotary angle sensor</td><td> 14-bit</td><td> SPI interface</td><td> ABZ</td><td> UVW</td><td> TSSOP-16'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TSSOP*4.4x5mm*P0.65mm*'</td></tr></table>]|
 ||||

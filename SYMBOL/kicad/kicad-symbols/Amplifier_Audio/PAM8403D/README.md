@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKAMPLIFIERAUDIOPAM843D > PAM8403D
+# SZKAMPLIFIERAUDIOPAM843D > Amplifier_Audio : PAM8403D
 
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Audio-PAM8403D
 - Hex ID: SZKAMPLIFIERAUDIOPAM843D
-- Name: PAM8403D
-- Description: PAM8403D
+- Name: Amplifier_Audio : PAM8403D
+- Description: Amplifier_Audio : PAM8403D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-PAM8403D](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-PAM8403D)
 - Short Link: [http://oom.lt/SZKAMPLIFIERAUDIOPAM843D](http://oom.lt/SZKAMPLIFIERAUDIOPAM843D)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PAM8403D|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Audio-PAM8403D|
 |Hex ID (short code)|hexID|SZKAMPLIFIERAUDIOPAM843D|
-|name|name|PAM8403D|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PAM8403D', 'kicadSymbolFootprint': 'Package_SO:SOP-16_3.9x9.9mm_P1.27mm', 'kicadSymbolDatasheet': 'https://www.diodes.com/assets/Datasheets/PAM8403.pdf', 'kicadSymbolki_keywords': 'audio amplifier class d', 'kicadSymbolki_description': '3W Filterless Class-D Stereo Audio Amplifier, SOP-16', 'kicadSymbolki_fp_filters': 'SOP*3.9x9.9mm*P1.27mm*'}]|
+|name|name|Amplifier_Audio : PAM8403D|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'PAM8403D'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOP-16_3.9x9.9mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.diodes.com/assets/Datasheets/PAM8403.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'audio amplifier class d'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '3W Filterless Class-D Stereo Audio Amplifier</td><td> SOP-16'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOP*3.9x9.9mm*P1.27mm*'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKISOLATORADUM262N > ADuM262N
+# SZKISOLATORADUM262N > Isolator : ADuM262N
 
 - ID: SYMBOL-kicad-kicad-symbols-Isolator-ADuM262N
 - Hex ID: SZKISOLATORADUM262N
-- Name: ADuM262N
-- Description: ADuM262N
+- Name: Isolator : ADuM262N
+- Description: Isolator : ADuM262N
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-ADuM262N](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-ADuM262N)
 - Short Link: [http://oom.lt/SZKISOLATORADUM262N](http://oom.lt/SZKISOLATORADUM262N)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ADuM262N|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Isolator-ADuM262N|
 |Hex ID (short code)|hexID|SZKISOLATORADUM262N|
-|name|name|ADuM262N|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ADuM262N', 'kicadSymbolFootprint': 'Package_SO:SOIC-16W_7.5x12.8mm_P1.27mm', 'kicadSymbolDatasheet': 'http://www.analog.com/media/en/technical-documentation/data-sheets/ADuM260N-261N-262N-263N.pdf', 'kicadSymbolki_keywords': 'digital isolator galvanic isopower', 'kicadSymbolki_description': '5.0 kV RMS, 6-Channel Digital Isolator, 2 reverse channels, SOIC-16', 'kicadSymbolki_fp_filters': 'SOIC*7.5x12.8mm*P1.27mm*'}]|
+|name|name|Isolator : ADuM262N|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ADuM262N'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-16W_7.5x12.8mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/ADuM260N-261N-262N-263N.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'digital isolator galvanic isopower'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '5.0 kV RMS</td><td> 6-Channel Digital Isolator</td><td> 2 reverse channels</td><td> SOIC-16'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*7.5x12.8mm*P1.27mm*'</td></tr></table>]|
 ||||

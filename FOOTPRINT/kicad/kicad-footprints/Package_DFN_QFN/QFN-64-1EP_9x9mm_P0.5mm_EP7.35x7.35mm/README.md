@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-QFN-64-1EP_9x9mm_P0.5mm_EP7.35x7.35mm|
 |Hex ID (short code)|hexID|FZKDFNQFN641EP9X9P5EP735X735|
 |name|name|Package_DFN_QFN : QFN-64-1EP_9x9mm_P0.5mm_EP7.35x7.35mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'QFN-64-1EP_9x9mm_P0.5mm_EP7.35x7.35mm', 'description': '64-Lead Plastic Quad Flat, No Lead Package (MR) - 9x9x0.9 mm Body [QFN]; (see Microchip Packaging Specification 00000049BS.pdf)', 'tags': 'QFN 0.5', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/QFN-64-1EP_9x9mm_P0.5mm_EP7.35x7.35mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'QFN-64-1EP_9x9mm_P0.5mm_EP7.35x7.35mm'</td><td> 'description'</td></tr><tr><td> '64-Lead Plastic Quad Flat</td><td> No Lead Package (MR) - 9x9x0.9 mm Body [QFN]; (see Microchip Packaging Specification 00000049BS.pdf)'</td><td> 'tags'</td></tr><tr><td> 'QFN 0.5'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DFN_QFN.3dshapes/QFN-64-1EP_9x9mm_P0.5mm_EP7.35x7.35mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

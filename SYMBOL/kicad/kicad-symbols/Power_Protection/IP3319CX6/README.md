@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKPOWERPROTECTIONIP3319CX6 > IP3319CX6
+# SZKPOWERPROTECTIONIP3319CX6 > Power_Protection : IP3319CX6
 
 - ID: SYMBOL-kicad-kicad-symbols-Power_Protection-IP3319CX6
 - Hex ID: SZKPOWERPROTECTIONIP3319CX6
-- Name: IP3319CX6
-- Description: IP3319CX6
+- Name: Power_Protection : IP3319CX6
+- Description: Power_Protection : IP3319CX6
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-IP3319CX6](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-IP3319CX6)
 - Short Link: [http://oom.lt/SZKPOWERPROTECTIONIP3319CX6](http://oom.lt/SZKPOWERPROTECTIONIP3319CX6)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IP3319CX6|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Protection-IP3319CX6|
 |Hex ID (short code)|hexID|SZKPOWERPROTECTIONIP3319CX6|
-|name|name|IP3319CX6|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'IP3319CX6', 'kicadSymbolFootprint': 'Package_CSP:WLCSP-6_1.4x1.0mm_P0.4mm', 'kicadSymbolDatasheet': 'https://assets.nexperia.com/documents/data-sheet/IP3319CX6.pdf', 'kicadSymbolki_keywords': 'common mode filter ESD protection', 'kicadSymbolki_description': 'Single channel common mode filter with integrated ESD protection network', 'kicadSymbolki_fp_filters': 'WLCSP*1.4x1.0mm*P0.4mm*'}]|
+|name|name|Power_Protection : IP3319CX6|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'IP3319CX6'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_CSP</td></tr><tr><td>WLCSP-6_1.4x1.0mm_P0.4mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//assets.nexperia.com/documents/data-sheet/IP3319CX6.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'common mode filter ESD protection'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Single channel common mode filter with integrated ESD protection network'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'WLCSP*1.4x1.0mm*P0.4mm*'</td></tr></table>]|
 ||||

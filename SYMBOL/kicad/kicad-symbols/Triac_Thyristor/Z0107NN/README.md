@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRIACTHYRISTORZ17NN > Z0107NN
+# SZKTRIACTHYRISTORZ17NN > Triac_Thyristor : Z0107NN
 
 - ID: SYMBOL-kicad-kicad-symbols-Triac_Thyristor-Z0107NN
 - Hex ID: SZKTRIACTHYRISTORZ17NN
-- Name: Z0107NN
-- Description: Z0107NN
+- Name: Triac_Thyristor : Z0107NN
+- Description: Triac_Thyristor : Z0107NN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Triac_Thyristor-Z0107NN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Triac_Thyristor-Z0107NN)
 - Short Link: [http://oom.lt/SZKTRIACTHYRISTORZ17NN](http://oom.lt/SZKTRIACTHYRISTORZ17NN)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Z0107NN|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Triac_Thyristor-Z0107NN|
 |Hex ID (short code)|hexID|SZKTRIACTHYRISTORZ17NN|
-|name|name|Z0107NN|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'Z0103MN', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'Z0107NN', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-223', 'kicadSymbolDatasheet': 'http://www.st.com/resource/en/datasheet/z01.pdf', 'kicadSymbolki_keywords': '4Q Triac', 'kicadSymbolki_description': '4Q Triac, 1A RMS, 800V VDRM, 5mA Igt, 10mA Ih, SOT-223', 'kicadSymbolki_fp_filters': 'SOT*223*'}]|
+|name|name|Triac_Thyristor : Z0107NN|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'Z0103MN'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Z0107NN'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-223'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.st.com/resource/en/datasheet/z01.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> '4Q Triac'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '4Q Triac</td><td> 1A RMS</td><td> 800V VDRM</td><td> 5mA Igt</td><td> 10mA Ih</td><td> SOT-223'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT*223*'</td></tr></table>]|
 ||||

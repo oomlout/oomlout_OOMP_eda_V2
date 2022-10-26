@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_SPST_Schrack-RT1-FormA_RM3.5mm|
 |Hex ID (short code)|hexID|FZKRELRELAYSPSTSCHRACKRT1FORMARM35|
 |name|name|Relay_THT : Relay_SPST_Schrack-RT1-FormA_RM3.5mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Relay_SPST_Schrack-RT1-FormA_RM3.5mm', 'description': 'Relay SPST Schrack-RT1 RM3.5mm 8A 250V AC Form A', 'tags': 'Relay SPST Schrack-RT1 RM3.5mm 8A 250V AC Relay', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Relay_THT.3dshapes/Relay_SPST_Schrack-RT1-FormA_RM3.5mm.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Relay_SPST_Schrack-RT1-FormA_RM3.5mm'</td><td> 'description'</td></tr><tr><td> 'Relay SPST Schrack-RT1 RM3.5mm 8A 250V AC Form A'</td><td> 'tags'</td></tr><tr><td> 'Relay SPST Schrack-RT1 RM3.5mm 8A 250V AC Relay'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Relay_THT.3dshapes/Relay_SPST_Schrack-RT1-FormA_RM3.5mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

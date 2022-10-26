@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKPOWERVS > VS
+# SZKPOWERVS > power : VS
 
 - ID: SYMBOL-kicad-kicad-symbols-power-VS
 - Hex ID: SZKPOWERVS
-- Name: VS
-- Description: VS
+- Name: power : VS
+- Description: power : VS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-power-VS](http://oom.lt/SYMBOL-kicad-kicad-symbols-power-VS)
 - Short Link: [http://oom.lt/SZKPOWERVS](http://oom.lt/SZKPOWERVS)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|VS|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-power-VS|
 |Hex ID (short code)|hexID|SZKPOWERVS|
-|name|name|VS|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': '#PWR', 'kicadSymbolValue': 'VS', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_keywords': 'power-flag', 'kicadSymbolki_description': 'Power symbol creates a global label with name "VS"'}]|
+|name|name|power : VS|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> '#PWR'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'VS'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'power-flag'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Power symbol creates a global label with name "VS"'</td></tr></table>]|
 ||||

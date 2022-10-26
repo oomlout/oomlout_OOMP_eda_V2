@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Converter_ACDC-Converter_ACDC_TRACO_TMLM-05_THT|
 |Hex ID (short code)|hexID|FZKCONCONTRACOTMLM5THT|
 |name|name|Converter_ACDC : Converter_ACDC_TRACO_TMLM-05_THT|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Converter_ACDC_TRACO_TMLM-05_THT', 'description': 'ACDC-Converter, TRACO TMLM 05,https://www.tracopower.com/products/tmlm.pdf', 'tags': 'ACDC-Converter TRACO TMLM 05', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Converter_ACDC.3dshapes/Converter_ACDC_TRACO_TMLM-05_THT.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Converter_ACDC_TRACO_TMLM-05_THT'</td><td> 'description'</td></tr><tr><td> 'ACDC-Converter</td><td> TRACO TMLM 05</td><td>https</td></tr><tr><td>//www.tracopower.com/products/tmlm.pdf'</td><td> 'tags'</td></tr><tr><td> 'ACDC-Converter TRACO TMLM 05'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Converter_ACDC.3dshapes/Converter_ACDC_TRACO_TMLM-05_THT.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

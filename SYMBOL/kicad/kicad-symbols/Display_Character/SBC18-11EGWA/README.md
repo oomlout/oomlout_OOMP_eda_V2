@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDICHARACTERSBC1811EGWA > SBC18-11EGWA
+# SZKDICHARACTERSBC1811EGWA > Display_Character : SBC18-11EGWA
 
 - ID: SYMBOL-kicad-kicad-symbols-Display_Character-SBC18-11EGWA
 - Hex ID: SZKDICHARACTERSBC1811EGWA
-- Name: SBC18-11EGWA
-- Description: SBC18-11EGWA
+- Name: Display_Character : SBC18-11EGWA
+- Description: Display_Character : SBC18-11EGWA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-SBC18-11EGWA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-SBC18-11EGWA)
 - Short Link: [http://oom.lt/SZKDICHARACTERSBC1811EGWA](http://oom.lt/SZKDICHARACTERSBC1811EGWA)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SBC18-11EGWA|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Display_Character-SBC18-11EGWA|
 |Hex ID (short code)|hexID|SZKDICHARACTERSBC1811EGWA|
-|name|name|SBC18-11EGWA|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'SBC18-11SURKCGKWA', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'SBC18-11EGWA', 'kicadSymbolFootprint': 'Display_7Segment:SBC18-11SURKCGKWA', 'kicadSymbolDatasheet': 'http://www.kingbrightusa.com/images/catalog/SPEC/SBC18-11EGWA.pdf', 'kicadSymbolki_keywords': 'display LED 7-segment', 'kicadSymbolki_description': 'Single digit 7 segment hyper red and green LED display, common cathode', 'kicadSymbolki_fp_filters': '*SBC18*11*'}]|
+|name|name|Display_Character : SBC18-11EGWA|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'SBC18-11SURKCGKWA'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'SBC18-11EGWA'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Display_7Segment</td></tr><tr><td>SBC18-11SURKCGKWA'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.kingbrightusa.com/images/catalog/SPEC/SBC18-11EGWA.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'display LED 7-segment'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Single digit 7 segment hyper red and green LED display</td><td> common cathode'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> '*SBC18*11*'</td></tr></table>]|
 ||||

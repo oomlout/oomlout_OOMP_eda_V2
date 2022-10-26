@@ -29,5 +29,5 @@ NO IMAGE
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-RF_Module-HOPERF_RFM69HW|
 |Hex ID (short code)|hexID|FZKRFMOHOPERFRFM69HW|
 |name|name|RF_Module : HOPERF_RFM69HW|
-|Footprint Kicad|footprintKicadDetails|{'name': 'HOPERF_RFM69HW', 'description': 'Radio, RF, Module, http://www.hoperf.com/upload/rf/RFM69HW-V1.3.pdf', 'tags': 'Radio RF Module', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/RF_Module.3dshapes/HOPERF_RFM69HW.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'HOPERF_RFM69HW'</td><td> 'description'</td></tr><tr><td> 'Radio</td><td> RF</td><td> Module</td><td> http</td></tr><tr><td>//www.hoperf.com/upload/rf/RFM69HW-V1.3.pdf'</td><td> 'tags'</td></tr><tr><td> 'Radio RF Module'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/RF_Module.3dshapes/HOPERF_RFM69HW.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

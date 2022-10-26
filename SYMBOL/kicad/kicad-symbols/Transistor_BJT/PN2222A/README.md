@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORBJTPN2222A > PN2222A
+# SZKTRANSISTORBJTPN2222A > Transistor_BJT : PN2222A
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-PN2222A
 - Hex ID: SZKTRANSISTORBJTPN2222A
-- Name: PN2222A
-- Description: PN2222A
+- Name: Transistor_BJT : PN2222A
+- Description: Transistor_BJT : PN2222A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-PN2222A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-PN2222A)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTPN2222A](http://oom.lt/SZKTRANSISTORBJTPN2222A)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PN2222A|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_BJT-PN2222A|
 |Hex ID (short code)|hexID|SZKTRANSISTORBJTPN2222A|
-|name|name|PN2222A|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'PN2222A', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-92_Inline', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pub/Collateral/PN2222-D.PDF', 'kicadSymbolki_keywords': 'NPN Transistor', 'kicadSymbolki_description': '1A Ic, 40V Vce, NPN Transistor, General Purpose Transistor, TO-92', 'kicadSymbolki_fp_filters': 'TO?92*'}]|
+|name|name|Transistor_BJT : PN2222A|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'PN2222A'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_THT</td></tr><tr><td>TO-92_Inline'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.onsemi.com/pub/Collateral/PN2222-D.PDF'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'NPN Transistor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '1A Ic</td><td> 40V Vce</td><td> NPN Transistor</td><td> General Purpose Transistor</td><td> TO-92'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TO?92*'</td></tr></table>]|
 ||||

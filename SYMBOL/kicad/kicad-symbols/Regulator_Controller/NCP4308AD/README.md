@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORCONTROLLERNCP438AD > NCP4308AD
+# SZKREGULATORCONTROLLERNCP438AD > Regulator_Controller : NCP4308AD
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Controller-NCP4308AD
 - Hex ID: SZKREGULATORCONTROLLERNCP438AD
-- Name: NCP4308AD
-- Description: NCP4308AD
+- Name: Regulator_Controller : NCP4308AD
+- Description: Regulator_Controller : NCP4308AD
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-NCP4308AD](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-NCP4308AD)
 - Short Link: [http://oom.lt/SZKREGULATORCONTROLLERNCP438AD](http://oom.lt/SZKREGULATORCONTROLLERNCP438AD)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|NCP4308AD|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Controller-NCP4308AD|
 |Hex ID (short code)|hexID|SZKREGULATORCONTROLLERNCP438AD|
-|name|name|NCP4308AD|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'NCP4308AD', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm', 'kicadSymbolDatasheet': 'http://www.onsemi.com/pub/Collateral/NCP4308-D.PDF', 'kicadSymbolki_keywords': 'synchronous rectifier controller', 'kicadSymbolki_description': 'Synchronous Rectifier Controller, 4A/8A, 4V UVLO, GaN Capable, SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm*'}]|
+|name|name|Regulator_Controller : NCP4308AD|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'NCP4308AD'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-8_3.9x4.9mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.onsemi.com/pub/Collateral/NCP4308-D.PDF'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'synchronous rectifier controller'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Synchronous Rectifier Controller</td><td> 4A/8A</td><td> 4V UVLO</td><td> GaN Capable</td><td> SOIC-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*3.9x4.9mm*P1.27mm*'</td></tr></table>]|
 ||||

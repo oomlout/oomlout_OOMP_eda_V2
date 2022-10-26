@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUCYPRESSCY8C4245AZIM445 > CY8C4245AZI-M445
+# SZKMCUCYPRESSCY8C4245AZIM445 > MCU_Cypress : CY8C4245AZI-M445
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Cypress-CY8C4245AZI-M445
 - Hex ID: SZKMCUCYPRESSCY8C4245AZIM445
-- Name: CY8C4245AZI-M445
-- Description: CY8C4245AZI-M445
+- Name: MCU_Cypress : CY8C4245AZI-M445
+- Description: MCU_Cypress : CY8C4245AZI-M445
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Cypress-CY8C4245AZI-M445](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Cypress-CY8C4245AZI-M445)
 - Short Link: [http://oom.lt/SZKMCUCYPRESSCY8C4245AZIM445](http://oom.lt/SZKMCUCYPRESSCY8C4245AZIM445)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|CY8C4245AZI-M445|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Cypress-CY8C4245AZI-M445|
 |Hex ID (short code)|hexID|SZKMCUCYPRESSCY8C4245AZIM445|
-|name|name|CY8C4245AZI-M445|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'CY8C4245AZI-M445', 'kicadSymbolFootprint': 'Package_QFP:TQFP-64_10x10mm_P0.5mm', 'kicadSymbolDatasheet': 'https://www.cypress.com/file/139956/download', 'kicadSymbolki_keywords': 'Cypress Microcontroller Arm CapSense LCD', 'kicadSymbolki_description': 'PSoC 4200M series, 48MHz CPU, 32KB Flash, 4KB SRAM, 64-TQFP', 'kicadSymbolki_fp_filters': 'TQFP*10x10mm*P0.5mm*'}]|
+|name|name|MCU_Cypress : CY8C4245AZI-M445|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'CY8C4245AZI-M445'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_QFP</td></tr><tr><td>TQFP-64_10x10mm_P0.5mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.cypress.com/file/139956/download'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Cypress Microcontroller Arm CapSense LCD'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'PSoC 4200M series</td><td> 48MHz CPU</td><td> 32KB Flash</td><td> 4KB SRAM</td><td> 64-TQFP'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TQFP*10x10mm*P0.5mm*'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKRELAYFRT5 > FRT5
+# SZKRELAYFRT5 > Relay : FRT5
 
 - ID: SYMBOL-kicad-kicad-symbols-Relay-FRT5
 - Hex ID: SZKRELAYFRT5
-- Name: FRT5
-- Description: FRT5
+- Name: Relay : FRT5
+- Description: Relay : FRT5
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-FRT5](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-FRT5)
 - Short Link: [http://oom.lt/SZKRELAYFRT5](http://oom.lt/SZKRELAYFRT5)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|FRT5|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Relay-FRT5|
 |Hex ID (short code)|hexID|SZKRELAYFRT5|
-|name|name|FRT5|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'K', 'kicadSymbolValue': 'FRT5', 'kicadSymbolFootprint': 'Relay_THT:Relay_DPDT_FRT5', 'kicadSymbolDatasheet': 'https://www.elpro.org/de/index.php?controller=attachment&id_attachment=8663', 'kicadSymbolki_keywords': 'relay monostable', 'kicadSymbolki_description': 'FORWARD INDUSTRIAL, Miniature Dual Pole Relay, DIP-like package', 'kicadSymbolki_fp_filters': 'Relay*DPDT*FRT5*'}]|
+|name|name|Relay : FRT5|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'K'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'FRT5'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Relay_THT</td></tr><tr><td>Relay_DPDT_FRT5'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.elpro.org/de/index.php?controller=attachment&id_attachment=8663'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'relay monostable'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'FORWARD INDUSTRIAL</td><td> Miniature Dual Pole Relay</td><td> DIP-like package'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Relay*DPDT*FRT5*'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKAMPLIFIEROPERATIONALNCS271SN > NCS20071SN
+# SZKAMPLIFIEROPERATIONALNCS271SN > Amplifier_Operational : NCS20071SN
 
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-NCS20071SN
 - Hex ID: SZKAMPLIFIEROPERATIONALNCS271SN
-- Name: NCS20071SN
-- Description: NCS20071SN
+- Name: Amplifier_Operational : NCS20071SN
+- Description: Amplifier_Operational : NCS20071SN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-NCS20071SN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-NCS20071SN)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALNCS271SN](http://oom.lt/SZKAMPLIFIEROPERATIONALNCS271SN)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|NCS20071SN|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Operational-NCS20071SN|
 |Hex ID (short code)|hexID|SZKAMPLIFIEROPERATIONALNCS271SN|
-|name|name|NCS20071SN|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'NCS20071SN', 'kicadSymbolFootprint': 'Package_SO:TSOP-5_1.65x3.05mm_P0.95mm', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pub/Collateral/NCS20071-D.PDF', 'kicadSymbolki_keywords': 'OpAmp Rail-to-rail Output Single vfa', 'kicadSymbolki_description': 'Single, 2.8V/µs, Rail-to-Rail Output, TSOP-5', 'kicadSymbolki_fp_filters': 'TSOP*1.65x3.05mm*P0.95mm*'}]|
+|name|name|Amplifier_Operational : NCS20071SN|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'NCS20071SN'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>TSOP-5_1.65x3.05mm_P0.95mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.onsemi.com/pub/Collateral/NCS20071-D.PDF'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'OpAmp Rail-to-rail Output Single vfa'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Single</td><td> 2.8V/µs</td><td> Rail-to-Rail Output</td><td> TSOP-5'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TSOP*1.65x3.05mm*P0.95mm*'</td></tr></table>]|
 ||||

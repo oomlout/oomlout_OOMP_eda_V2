@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-DFN-8-1EP_2x3mm_P0.5mm_EP0.61x2.2mm|
 |Hex ID (short code)|hexID|FZKDFNDFN81EP2X3P5EP61X22|
 |name|name|Package_DFN_QFN : DFN-8-1EP_2x3mm_P0.5mm_EP0.61x2.2mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'DFN-8-1EP_2x3mm_P0.5mm_EP0.61x2.2mm', 'description': 'DDB Package; 8-Lead Plastic DFN (3mm x 2mm) (see Linear Technology DFN_8_05-08-1702.pdf)', 'tags': 'DFN 0.5', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/DFN-8-1EP_2x3mm_P0.5mm_EP0.61x2.2mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'DFN-8-1EP_2x3mm_P0.5mm_EP0.61x2.2mm'</td><td> 'description'</td></tr><tr><td> 'DDB Package; 8-Lead Plastic DFN (3mm x 2mm) (see Linear Technology DFN_8_05-08-1702.pdf)'</td><td> 'tags'</td></tr><tr><td> 'DFN 0.5'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DFN_QFN.3dshapes/DFN-8-1EP_2x3mm_P0.5mm_EP0.61x2.2mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

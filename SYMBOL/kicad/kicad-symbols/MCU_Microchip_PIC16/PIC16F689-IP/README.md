@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUMCHIPPIC16PIC16F689IP > PIC16F689-IP
+# SZKMCUMCHIPPIC16PIC16F689IP > MCU_Microchip_PIC16 : PIC16F689-IP
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F689-IP
 - Hex ID: SZKMCUMCHIPPIC16PIC16F689IP
-- Name: PIC16F689-IP
-- Description: PIC16F689-IP
+- Name: MCU_Microchip_PIC16 : PIC16F689-IP
+- Description: MCU_Microchip_PIC16 : PIC16F689-IP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F689-IP](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F689-IP)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC16PIC16F689IP](http://oom.lt/SZKMCUMCHIPPIC16PIC16F689IP)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PIC16F689-IP|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F689-IP|
 |Hex ID (short code)|hexID|SZKMCUMCHIPPIC16PIC16F689IP|
-|name|name|PIC16F689-IP|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'PIC16F687-IP', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PIC16F689-IP', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/41262E.pdf', 'kicadSymbolki_keywords': 'Flash-Based 8-Bit CMOS Microcontroller nanoWatt', 'kicadSymbolki_description': '4096W Flash, 256B SRAM, 256B EEPROM, DIP20', 'kicadSymbolki_fp_filters': 'DIP* PDIP*'}]|
+|name|name|MCU_Microchip_PIC16 : PIC16F689-IP|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'PIC16F687-IP'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'PIC16F689-IP'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/41262E.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Flash-Based 8-Bit CMOS Microcontroller nanoWatt'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '4096W Flash</td><td> 256B SRAM</td><td> 256B EEPROM</td><td> DIP20'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP* PDIP*'</td></tr></table>]|
 ||||

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Box_L14.0mm_W5.0mm_P9.00mm|
 |Hex ID (short code)|hexID|FZKRRBOXL14W5P9|
 |name|name|Resistor_THT : R_Box_L14.0mm_W5.0mm_P9.00mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'R_Box_L14.0mm_W5.0mm_P9.00mm', 'description': 'Resistor, Box series, Radial, pin pitch=9.00mm, 5W, length*width=14.0*5.0mm^2, http://www.produktinfo.conrad.com/datenblaetter/425000-449999/443860-da-01-de-METALLBAND_WIDERSTAND_0_1_OHM_5W_5Pr.pdf', 'tags': 'Resistor Box series Radial pin pitch 9.00mm 5W length 14.0mm width 5.0mm', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Box_L14.0mm_W5.0mm_P9.00mm.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'R_Box_L14.0mm_W5.0mm_P9.00mm'</td><td> 'description'</td></tr><tr><td> 'Resistor</td><td> Box series</td><td> Radial</td><td> pin pitch=9.00mm</td><td> 5W</td><td> length*width=14.0*5.0mm^2</td><td> http</td></tr><tr><td>//www.produktinfo.conrad.com/datenblaetter/425000-449999/443860-da-01-de-METALLBAND_WIDERSTAND_0_1_OHM_5W_5Pr.pdf'</td><td> 'tags'</td></tr><tr><td> 'Resistor Box series Radial pin pitch 9.00mm 5W length 14.0mm width 5.0mm'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Resistor_THT.3dshapes/R_Box_L14.0mm_W5.0mm_P9.00mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

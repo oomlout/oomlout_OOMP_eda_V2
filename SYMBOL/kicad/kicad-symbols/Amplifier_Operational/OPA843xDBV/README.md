@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKAMPLIFIEROPERATIONALOPA843XDBV > OPA843xDBV
+# SZKAMPLIFIEROPERATIONALOPA843XDBV > Amplifier_Operational : OPA843xDBV
 
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA843xDBV
 - Hex ID: SZKAMPLIFIEROPERATIONALOPA843XDBV
-- Name: OPA843xDBV
-- Description: OPA843xDBV
+- Name: Amplifier_Operational : OPA843xDBV
+- Description: Amplifier_Operational : OPA843xDBV
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA843xDBV](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA843xDBV)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALOPA843XDBV](http://oom.lt/SZKAMPLIFIEROPERATIONALOPA843XDBV)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|OPA843xDBV|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA843xDBV|
 |Hex ID (short code)|hexID|SZKAMPLIFIEROPERATIONALOPA843XDBV|
-|name|name|OPA843xDBV|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MCP6L91T-EOT', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'OPA843xDBV', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-5', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/opa843.pdf', 'kicadSymbolki_keywords': 'single opamp low distortion', 'kicadSymbolki_description': '800MHz, Wideband, Low Distortion, Medium Gain, Voltage-Feedback Operational Amplifier, SOT-23-5', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
+|name|name|Amplifier_Operational : OPA843xDBV|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'MCP6L91T-EOT'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'OPA843xDBV'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-23-5'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/opa843.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'single opamp low distortion'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '800MHz</td><td> Wideband</td><td> Low Distortion</td><td> Medium Gain</td><td> Voltage-Feedback Operational Amplifier</td><td> SOT-23-5'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23*'</td></tr></table>]|
 ||||

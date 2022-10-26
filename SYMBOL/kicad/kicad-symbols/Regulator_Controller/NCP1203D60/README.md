@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORCONTROLLERNCP123D6 > NCP1203D60
+# SZKREGULATORCONTROLLERNCP123D6 > Regulator_Controller : NCP1203D60
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Controller-NCP1203D60
 - Hex ID: SZKREGULATORCONTROLLERNCP123D6
-- Name: NCP1203D60
-- Description: NCP1203D60
+- Name: Regulator_Controller : NCP1203D60
+- Description: Regulator_Controller : NCP1203D60
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-NCP1203D60](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-NCP1203D60)
 - Short Link: [http://oom.lt/SZKREGULATORCONTROLLERNCP123D6](http://oom.lt/SZKREGULATORCONTROLLERNCP123D6)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|NCP1203D60|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Controller-NCP1203D60|
 |Hex ID (short code)|hexID|SZKREGULATORCONTROLLERNCP123D6|
-|name|name|NCP1203D60|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'NCP1200D40', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'NCP1203D60', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm', 'kicadSymbolDatasheet': 'http://www.onsemi.com/pub_link/Collateral/NCP1203-D.PDF', 'kicadSymbolki_keywords': 'SMPS Controller AC-DC', 'kicadSymbolki_description': 'PWM Current-Mode Controller for Universal Off-Line Supplies Featuring Standby and Short Circuit Protection, AC-DC, 60kHz, SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm*'}]|
+|name|name|Regulator_Controller : NCP1203D60|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'NCP1200D40'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'NCP1203D60'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-8_3.9x4.9mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.onsemi.com/pub_link/Collateral/NCP1203-D.PDF'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'SMPS Controller AC-DC'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'PWM Current-Mode Controller for Universal Off-Line Supplies Featuring Standby and Short Circuit Protection</td><td> AC-DC</td><td> 60kHz</td><td> SOIC-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*3.9x4.9mm*P1.27mm*'</td></tr></table>]|
 ||||

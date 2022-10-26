@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_Bothhand_CFUSxxxx_THT|
 |Hex ID (short code)|hexID|FZKCONCONBOTHHANDCFUSXXXXTHT|
 |name|name|Converter_DCDC : Converter_DCDC_Bothhand_CFUSxxxx_THT|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Converter_DCDC_Bothhand_CFUSxxxx_THT', 'description': 'DCDC-Converter, BOTHHAND, Type CFxxxx-Serie,  (Very dodgy url but was the only at hand), ', 'tags': 'DCDC-Converter BOTHHAND Type CFxxxx-Serie', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Converter_DCDC.3dshapes/Converter_DCDC_Bothhand_CFUSxxxx_THT.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Converter_DCDC_Bothhand_CFUSxxxx_THT'</td><td> 'description'</td></tr><tr><td> 'DCDC-Converter</td><td> BOTHHAND</td><td> Type CFxxxx-Serie</td><td>  (Very dodgy url but was the only at hand)</td><td> '</td><td> 'tags'</td></tr><tr><td> 'DCDC-Converter BOTHHAND Type CFxxxx-Serie'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Converter_DCDC.3dshapes/Converter_DCDC_Bothhand_CFUSxxxx_THT.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

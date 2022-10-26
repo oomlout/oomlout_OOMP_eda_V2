@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKPOWERMANAGEMENTIPS641RPBF > IPS6041RPBF
+# SZKPOWERMANAGEMENTIPS641RPBF > Power_Management : IPS6041RPBF
 
 - ID: SYMBOL-kicad-kicad-symbols-Power_Management-IPS6041RPBF
 - Hex ID: SZKPOWERMANAGEMENTIPS641RPBF
-- Name: IPS6041RPBF
-- Description: IPS6041RPBF
+- Name: Power_Management : IPS6041RPBF
+- Description: Power_Management : IPS6041RPBF
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-IPS6041RPBF](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-IPS6041RPBF)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTIPS641RPBF](http://oom.lt/SZKPOWERMANAGEMENTIPS641RPBF)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IPS6041RPBF|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Management-IPS6041RPBF|
 |Hex ID (short code)|hexID|SZKPOWERMANAGEMENTIPS641RPBF|
-|name|name|IPS6041RPBF|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'IPS6011RPBF', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'IPS6041RPBF', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TO-252-5_TabPin3', 'kicadSymbolDatasheet': 'http://www.irf.com/product-info/datasheets/data/ips6041pbf.pdf', 'kicadSymbolki_keywords': 'Intelligent Power Switch High Side MOSFET', 'kicadSymbolki_description': '39V, 5A, Intelligent Power Switch High Side, DPAK 5pin', 'kicadSymbolki_fp_filters': 'TO?252*'}]|
+|name|name|Power_Management : IPS6041RPBF|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'IPS6011RPBF'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'IPS6041RPBF'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>TO-252-5_TabPin3'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.irf.com/product-info/datasheets/data/ips6041pbf.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Intelligent Power Switch High Side MOSFET'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '39V</td><td> 5A</td><td> Intelligent Power Switch High Side</td><td> DPAK 5pin'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TO?252*'</td></tr></table>]|
 ||||

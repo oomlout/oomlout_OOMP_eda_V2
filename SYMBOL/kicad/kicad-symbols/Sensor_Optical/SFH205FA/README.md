@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKSENOPTICALSFH25FA > SFH205FA
+# SZKSENOPTICALSFH25FA > Sensor_Optical : SFH205FA
 
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Optical-SFH205FA
 - Hex ID: SZKSENOPTICALSFH25FA
-- Name: SFH205FA
-- Description: SFH205FA
+- Name: Sensor_Optical : SFH205FA
+- Description: Sensor_Optical : SFH205FA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-SFH205FA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-SFH205FA)
 - Short Link: [http://oom.lt/SZKSENOPTICALSFH25FA](http://oom.lt/SZKSENOPTICALSFH25FA)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SFH205FA|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Optical-SFH205FA|
 |Hex ID (short code)|hexID|SZKSENOPTICALSFH25FA|
-|name|name|SFH205FA|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'SFH205F', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'SFH205FA', 'kicadSymbolFootprint': 'OptoDevice:Osram_SFH205', 'kicadSymbolDatasheet': 'http://www.osram-os.com/Graphics/XPic9/00101665_0.pdf', 'kicadSymbolki_keywords': 'PIN Photodiode', 'kicadSymbolki_description': 'Silicon PIN Photodiode with Daylight Blocking Filter', 'kicadSymbolki_fp_filters': 'Osram*SFH205*'}]|
+|name|name|Sensor_Optical : SFH205FA|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'SFH205F'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'SFH205FA'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'OptoDevice</td></tr><tr><td>Osram_SFH205'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.osram-os.com/Graphics/XPic9/00101665_0.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'PIN Photodiode'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Silicon PIN Photodiode with Daylight Blocking Filter'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Osram*SFH205*'</td></tr></table>]|
 ||||

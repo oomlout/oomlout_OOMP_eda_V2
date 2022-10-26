@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDRIVERFETTLP25 > TLP250
+# SZKDRIVERFETTLP25 > Driver_FET : TLP250
 
 - ID: SYMBOL-kicad-kicad-symbols-Driver_FET-TLP250
 - Hex ID: SZKDRIVERFETTLP25
-- Name: TLP250
-- Description: TLP250
+- Name: Driver_FET : TLP250
+- Description: Driver_FET : TLP250
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-TLP250](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-TLP250)
 - Short Link: [http://oom.lt/SZKDRIVERFETTLP25](http://oom.lt/SZKDRIVERFETTLP25)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TLP250|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Driver_FET-TLP250|
 |Hex ID (short code)|hexID|SZKDRIVERFETTLP25|
-|name|name|TLP250|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TLP250', 'kicadSymbolFootprint': 'Package_DIP:DIP-8_W7.62mm', 'kicadSymbolDatasheet': 'http://toshiba.semicon-storage.com/info/docget.jsp?did=16821&prodName=TLP250', 'kicadSymbolki_keywords': 'MOSFET Driver IGBT Driver Optocoupler', 'kicadSymbolki_description': 'Gate Drive Optocoupler, Output Current 1.5/1.5A, DIP-8', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
+|name|name|Driver_FET : TLP250|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TLP250'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>DIP-8_W7.62mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//toshiba.semicon-storage.com/info/docget.jsp?did=16821&prodName=TLP250'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'MOSFET Driver IGBT Driver Optocoupler'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Gate Drive Optocoupler</td><td> Output Current 1.5/1.5A</td><td> DIP-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W7.62mm*'</td></tr></table>]|
 ||||

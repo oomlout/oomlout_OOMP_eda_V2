@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMEMORYEPROM27C128 > 27C128
+# SZKMEMORYEPROM27C128 > Memory_EPROM : 27C128
 
 - ID: SYMBOL-kicad-kicad-symbols-Memory_EPROM-27C128
 - Hex ID: SZKMEMORYEPROM27C128
-- Name: 27C128
-- Description: 27C128
+- Name: Memory_EPROM : 27C128
+- Description: Memory_EPROM : 27C128
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_EPROM-27C128](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_EPROM-27C128)
 - Short Link: [http://oom.lt/SZKMEMORYEPROM27C128](http://oom.lt/SZKMEMORYEPROM27C128)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|27C128|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Memory_EPROM-27C128|
 |Hex ID (short code)|hexID|SZKMEMORYEPROM27C128|
-|name|name|27C128|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '27C128', 'kicadSymbolFootprint': 'Package_DIP:DIP-28_W15.24mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/devicedoc/11003L.pdf', 'kicadSymbolki_keywords': 'OTP EPROM 128KiBit', 'kicadSymbolki_description': 'OTP EPROM 128 KiBit, [Obsolete 2004-01]', 'kicadSymbolki_fp_filters': 'DIP*W15.24mm*'}]|
+|name|name|Memory_EPROM : 27C128|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> '27C128'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>DIP-28_W15.24mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/devicedoc/11003L.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'OTP EPROM 128KiBit'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'OTP EPROM 128 KiBit</td><td> [Obsolete 2004-01]'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W15.24mm*'</td></tr></table>]|
 ||||

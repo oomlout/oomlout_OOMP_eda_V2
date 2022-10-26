@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Display_7Segment-LTC-4627Jx|
 |Hex ID (short code)|hexID|FZKDI7SLTC4627JX|
 |name|name|Display_7Segment : LTC-4627Jx|
-|Footprint Kicad|footprintKicadDetails|{'name': 'LTC-4627Jx', 'description': 'http://optoelectronics.liteon.com/upload/download/DS30-2001-393/C4627JG.pdf', 'tags': '4 digit 7 segment LED', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Display_7Segment.3dshapes/LTC-4627Jx.wrl', 'pins': {'type': 'thru_hole', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'LTC-4627Jx'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//optoelectronics.liteon.com/upload/download/DS30-2001-393/C4627JG.pdf'</td><td> 'tags'</td></tr><tr><td> '4 digit 7 segment LED'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Display_7Segment.3dshapes/LTC-4627Jx.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-C_Axial_L12.0mm_D7.5mm_P15.00mm_Horizontal|
 |Hex ID (short code)|hexID|FZKCCAXIALL12D75P15HORIZONTAL|
 |name|name|Capacitor_THT : C_Axial_L12.0mm_D7.5mm_P15.00mm_Horizontal|
-|Footprint Kicad|footprintKicadDetails|{'name': 'C_Axial_L12.0mm_D7.5mm_P15.00mm_Horizontal', 'description': 'C, Axial series, Axial, Horizontal, pin pitch=15mm, , length*diameter=12*7.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B300/STYROFLEX.pdf', 'tags': 'C Axial series Axial Horizontal pin pitch 15mm  length 12mm diameter 7.5mm', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Capacitor_THT.3dshapes/C_Axial_L12.0mm_D7.5mm_P15.00mm_Horizontal.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'C_Axial_L12.0mm_D7.5mm_P15.00mm_Horizontal'</td><td> 'description'</td></tr><tr><td> 'C</td><td> Axial series</td><td> Axial</td><td> Horizontal</td><td> pin pitch=15mm</td><td> </td><td> length*diameter=12*7.5mm^2</td><td> http</td></tr><tr><td>//cdn-reichelt.de/documents/datenblatt/B300/STYROFLEX.pdf'</td><td> 'tags'</td></tr><tr><td> 'C Axial series Axial Horizontal pin pitch 15mm  length 12mm diameter 7.5mm'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Capacitor_THT.3dshapes/C_Axial_L12.0mm_D7.5mm_P15.00mm_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

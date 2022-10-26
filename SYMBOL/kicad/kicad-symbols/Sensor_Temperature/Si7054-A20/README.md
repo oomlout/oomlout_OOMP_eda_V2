@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKSENTEMPERATURESI754A2 > Si7054-A20
+# SZKSENTEMPERATURESI754A2 > Sensor_Temperature : Si7054-A20
 
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Temperature-Si7054-A20
 - Hex ID: SZKSENTEMPERATURESI754A2
-- Name: Si7054-A20
-- Description: Si7054-A20
+- Name: Sensor_Temperature : Si7054-A20
+- Description: Sensor_Temperature : Si7054-A20
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-Si7054-A20](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-Si7054-A20)
 - Short Link: [http://oom.lt/SZKSENTEMPERATURESI754A2](http://oom.lt/SZKSENTEMPERATURESI754A2)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Si7054-A20|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Temperature-Si7054-A20|
 |Hex ID (short code)|hexID|SZKSENTEMPERATURESI754A2|
-|name|name|Si7054-A20|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'Si7050-A20', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'Si7054-A20', 'kicadSymbolFootprint': 'Package_DFN_QFN:DFN-6-1EP_3x3mm_P1mm_EP1.65x2.55mm', 'kicadSymbolDatasheet': 'https://www.silabs.com/documents/public/data-sheets/Si7050-1-3-4-5-A20.pdf', 'kicadSymbolki_keywords': 'I2C Temperature Sensor', 'kicadSymbolki_description': 'I2C Temperature Sensor, ±0.4ºC, DFN-6', 'kicadSymbolki_fp_filters': 'DFN*1EP*3x3mm*P1mm*'}]|
+|name|name|Sensor_Temperature : Si7054-A20|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'Si7050-A20'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Si7054-A20'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>DFN-6-1EP_3x3mm_P1mm_EP1.65x2.55mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.silabs.com/documents/public/data-sheets/Si7050-1-3-4-5-A20.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'I2C Temperature Sensor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'I2C Temperature Sensor</td><td> ±0.4ºC</td><td> DFN-6'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DFN*1EP*3x3mm*P1mm*'</td></tr></table>]|
 ||||

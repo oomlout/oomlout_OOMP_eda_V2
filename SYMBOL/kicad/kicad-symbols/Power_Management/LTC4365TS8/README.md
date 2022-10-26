@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKPOWERMANAGEMENTLTC4365TS8 > LTC4365TS8
+# SZKPOWERMANAGEMENTLTC4365TS8 > Power_Management : LTC4365TS8
 
 - ID: SYMBOL-kicad-kicad-symbols-Power_Management-LTC4365TS8
 - Hex ID: SZKPOWERMANAGEMENTLTC4365TS8
-- Name: LTC4365TS8
-- Description: LTC4365TS8
+- Name: Power_Management : LTC4365TS8
+- Description: Power_Management : LTC4365TS8
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-LTC4365TS8](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-LTC4365TS8)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTLTC4365TS8](http://oom.lt/SZKPOWERMANAGEMENTLTC4365TS8)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LTC4365TS8|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Management-LTC4365TS8|
 |Hex ID (short code)|hexID|SZKPOWERMANAGEMENTLTC4365TS8|
-|name|name|LTC4365TS8|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LTC4365TS8', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/4365fa.pdf', 'kicadSymbolki_keywords': 'overvoltage undervoltage reverse-polarity protection', 'kicadSymbolki_description': 'Overvoltage, Undervoltage and Reverse Supply Protection Controller, TSOT23-8 package, 50Hz/60Hz noise rejection', 'kicadSymbolki_fp_filters': '*SOT?23*'}]|
+|name|name|Power_Management : LTC4365TS8|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LTC4365TS8'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/4365fa.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'overvoltage undervoltage reverse-polarity protection'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Overvoltage</td><td> Undervoltage and Reverse Supply Protection Controller</td><td> TSOT23-8 package</td><td> 50Hz/60Hz noise rejection'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> '*SOT?23*'</td></tr></table>]|
 ||||

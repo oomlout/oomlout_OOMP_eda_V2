@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_Trimmer_Voltronics_JQ|
 |Hex ID (short code)|hexID|FZKCAPACITORSMCTRIERVOLTRONICSJQ|
 |name|name|Capacitor_SMD : C_Trimmer_Voltronics_JQ|
-|Footprint Kicad|footprintKicadDetails|{'name': 'C_Trimmer_Voltronics_JQ', 'description': 'trimmer capacitor SMD horizontal, http://www.knowlescapacitors.com/File%20Library/Voltronics/English/GlobalNavigation/Products/Trimmer%20Capacitors/CerChipTrimCap.pdf', 'tags': ' Voltronics JQ', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_Trimmer_Voltronics_JQ.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'C_Trimmer_Voltronics_JQ'</td><td> 'description'</td></tr><tr><td> 'trimmer capacitor SMD horizontal</td><td> http</td></tr><tr><td>//www.knowlescapacitors.com/File%20Library/Voltronics/English/GlobalNavigation/Products/Trimmer%20Capacitors/CerChipTrimCap.pdf'</td><td> 'tags'</td></tr><tr><td> ' Voltronics JQ'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Capacitor_SMD.3dshapes/C_Trimmer_Voltronics_JQ.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

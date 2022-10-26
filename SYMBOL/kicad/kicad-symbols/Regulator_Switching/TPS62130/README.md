@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORSWITCHINGTPS6213 > TPS62130
+# SZKREGULATORSWITCHINGTPS6213 > Regulator_Switching : TPS62130
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS62130
 - Hex ID: SZKREGULATORSWITCHINGTPS6213
-- Name: TPS62130
-- Description: TPS62130
+- Name: Regulator_Switching : TPS62130
+- Description: Regulator_Switching : TPS62130
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS62130](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS62130)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGTPS6213](http://oom.lt/SZKREGULATORSWITCHINGTPS6213)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TPS62130|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS62130|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGTPS6213|
-|name|name|TPS62130|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TPS62130', 'kicadSymbolFootprint': 'Package_DFN_QFN:VQFN-16-1EP_3x3mm_P0.5mm_EP1.68x1.68mm_ThermalVias', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tps62130.pdf', 'kicadSymbolki_keywords': 'step-down dcdc', 'kicadSymbolki_description': '3A Step-Down Converter with DCS-Control, Adjustable Output Voltage, 3-17V Input Voltage, QFN-16', 'kicadSymbolki_fp_filters': 'VQFN*1EP*3x3mm*P0.5mm*'}]|
+|name|name|Regulator_Switching : TPS62130|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TPS62130'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>VQFN-16-1EP_3x3mm_P0.5mm_EP1.68x1.68mm_ThermalVias'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/tps62130.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'step-down dcdc'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '3A Step-Down Converter with DCS-Control</td><td> Adjustable Output Voltage</td><td> 3-17V Input Voltage</td><td> QFN-16'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'VQFN*1EP*3x3mm*P0.5mm*'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTIMERTLC555XPW > TLC555xPW
+# SZKTIMERTLC555XPW > Timer : TLC555xPW
 
 - ID: SYMBOL-kicad-kicad-symbols-Timer-TLC555xPW
 - Hex ID: SZKTIMERTLC555XPW
-- Name: TLC555xPW
-- Description: TLC555xPW
+- Name: Timer : TLC555xPW
+- Description: Timer : TLC555xPW
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer-TLC555xPW](http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer-TLC555xPW)
 - Short Link: [http://oom.lt/SZKTIMERTLC555XPW](http://oom.lt/SZKTIMERTLC555XPW)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TLC555xPW|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Timer-TLC555xPW|
 |Hex ID (short code)|hexID|SZKTIMERTLC555XPW|
-|name|name|TLC555xPW|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TLC555xPW', 'kicadSymbolFootprint': 'Package_SO:TSSOP-14_4.4x5mm_P0.65mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tlc555.pdf', 'kicadSymbolki_keywords': 'single timer 555', 'kicadSymbolki_description': 'Single LinCMOS Timer, TSSOP-14', 'kicadSymbolki_fp_filters': 'TSSOP*4.4x5mm*P0.65mm*'}]|
+|name|name|Timer : TLC555xPW|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TLC555xPW'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>TSSOP-14_4.4x5mm_P0.65mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/tlc555.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'single timer 555'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Single LinCMOS Timer</td><td> TSSOP-14'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TSSOP*4.4x5mm*P0.65mm*'</td></tr></table>]|
 ||||

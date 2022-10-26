@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKINTERFACEFIN119MTC > FIN1019MTC
+# SZKINTERFACEFIN119MTC > Interface : FIN1019MTC
 
 - ID: SYMBOL-kicad-kicad-symbols-Interface-FIN1019MTC
 - Hex ID: SZKINTERFACEFIN119MTC
-- Name: FIN1019MTC
-- Description: FIN1019MTC
+- Name: Interface : FIN1019MTC
+- Description: Interface : FIN1019MTC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-FIN1019MTC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-FIN1019MTC)
 - Short Link: [http://oom.lt/SZKINTERFACEFIN119MTC](http://oom.lt/SZKINTERFACEFIN119MTC)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|FIN1019MTC|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface-FIN1019MTC|
 |Hex ID (short code)|hexID|SZKINTERFACEFIN119MTC|
-|name|name|FIN1019MTC|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'FIN1019MTC', 'kicadSymbolFootprint': 'Package_SO:TSSOP-14_4.4x5mm_P0.65mm', 'kicadSymbolDatasheet': 'http://www.onsemi.com/pub/Collateral/FIN1019-D.pdf', 'kicadSymbolki_keywords': 'lvds driver receiver', 'kicadSymbolki_description': '3.3V LVDS High Speed Differential Driver/Receiver, 400Mbps, TSSOP-14', 'kicadSymbolki_fp_filters': 'TSSOP*4.4x5mm*P0.65mm*'}]|
+|name|name|Interface : FIN1019MTC|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'FIN1019MTC'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>TSSOP-14_4.4x5mm_P0.65mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.onsemi.com/pub/Collateral/FIN1019-D.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'lvds driver receiver'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '3.3V LVDS High Speed Differential Driver/Receiver</td><td> 400Mbps</td><td> TSSOP-14'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TSSOP*4.4x5mm*P0.65mm*'</td></tr></table>]|
 ||||

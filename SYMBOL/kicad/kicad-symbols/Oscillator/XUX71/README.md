@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKOCSXUX71 > XUX71
+# SZKOCSXUX71 > Oscillator : XUX71
 
 - ID: SYMBOL-kicad-kicad-symbols-Oscillator-XUX71
 - Hex ID: SZKOCSXUX71
-- Name: XUX71
-- Description: XUX71
+- Name: Oscillator : XUX71
+- Description: Oscillator : XUX71
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-XUX71](http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-XUX71)
 - Short Link: [http://oom.lt/SZKOCSXUX71](http://oom.lt/SZKOCSXUX71)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|XUX71|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Oscillator-XUX71|
 |Hex ID (short code)|hexID|SZKOCSXUX71|
-|name|name|XUX71|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'XUX71', 'kicadSymbolFootprint': 'Oscillator:Oscillator_SMD_IDT_JU6-6_7.0x5.0mm_P2.54mm', 'kicadSymbolDatasheet': 'https://www.idt.com/document/dst/xu-family-datasheet', 'kicadSymbolki_keywords': 'OTP XHCMOS 1.8V VCXO', 'kicadSymbolki_description': 'Low phase noise, quartz-based PLL oscillator, 0.016-1500 MHz, complementary output', 'kicadSymbolki_fp_filters': 'Oscillator*JU6*'}]|
+|name|name|Oscillator : XUX71|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'XUX71'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Oscillator</td></tr><tr><td>Oscillator_SMD_IDT_JU6-6_7.0x5.0mm_P2.54mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.idt.com/document/dst/xu-family-datasheet'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'OTP XHCMOS 1.8V VCXO'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Low phase noise</td><td> quartz-based PLL oscillator</td><td> 0.016-1500 MHz</td><td> complementary output'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Oscillator*JU6*'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICCAPC42XNF7V1C4N71C47339 > CAPC-0402-X-NF70-V10-C4N7010-C47339
+# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICCAPC42XNF7V1C4N71C47339 > oomlout_OOMP_JLCC_Basic : CAPC-0402-X-NF70-V10-C4N7010-C47339
 
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0402-X-NF70-V10-C4N7010-C47339
 - Hex ID: SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICCAPC42XNF7V1C4N71C47339
-- Name: CAPC-0402-X-NF70-V10-C4N7010-C47339
-- Description: CAPC-0402-X-NF70-V10-C4N7010-C47339
+- Name: oomlout_OOMP_JLCC_Basic : CAPC-0402-X-NF70-V10-C4N7010-C47339
+- Description: oomlout_OOMP_JLCC_Basic : CAPC-0402-X-NF70-V10-C4N7010-C47339
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0402-X-NF70-V10-C4N7010-C47339](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0402-X-NF70-V10-C4N7010-C47339)
 - Short Link: [http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICCAPC42XNF7V1C4N71C47339](http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICCAPC42XNF7V1C4N71C47339)
   
@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|CAPC-0402-X-NF70-V10-C4N7010-C47339|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0402-X-NF70-V10-C4N7010-C47339|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICCAPC42XNF7V1C4N71C47339|
-|name|name|CAPC-0402-X-NF70-V10-C4N7010-C47339|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'C', 'kicadSymbolValue': 'CAPC-0402-X-NF70-V10-C4N7010-C47339', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:CAPC-0402-X-NF70-V10-C4N7010-C47339', 'kicadSymbolDatasheet': 'oom.lt/C4N7010', 'kicadSymbolki_keywords': 'cap capacitor', 'kicadSymbolki_description': 'hexID: C4N7010;PARTL C-JLCC;C47339;MANUF C-XXXX;CL05A474KP5NNNC;Unpolarized capacitor', 'kicadSymbolki_fp_filters': 'C_*'}]|
+|name|name|oomlout_OOMP_JLCC_Basic : CAPC-0402-X-NF70-V10-C4N7010-C47339|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'C'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'CAPC-0402-X-NF70-V10-C4N7010-C47339'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'oomlout_OOMP_parts</td></tr><tr><td>CAPC-0402-X-NF70-V10-C4N7010-C47339'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'oom.lt/C4N7010'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'cap capacitor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'hexID</td></tr><tr><td> C4N7010;PARTL C-JLCC;C47339;MANUF C-XXXX;CL05A474KP5NNNC;Unpolarized capacitor'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'C_*'</td></tr></table>]|
 ||||

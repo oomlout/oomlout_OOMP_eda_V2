@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDEVICEXGND2SLL > Crystal_GND2_Small
+# SZKDEVICEXGND2SLL > Device : Crystal_GND2_Small
 
 - ID: SYMBOL-kicad-kicad-symbols-Device-Crystal_GND2_Small
 - Hex ID: SZKDEVICEXGND2SLL
-- Name: Crystal_GND2_Small
-- Description: Crystal_GND2_Small
+- Name: Device : Crystal_GND2_Small
+- Description: Device : Crystal_GND2_Small
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Crystal_GND2_Small](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Crystal_GND2_Small)
 - Short Link: [http://oom.lt/SZKDEVICEXGND2SLL](http://oom.lt/SZKDEVICEXGND2SLL)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Crystal_GND2_Small|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-Crystal_GND2_Small|
 |Hex ID (short code)|hexID|SZKDEVICEXGND2SLL|
-|name|name|Crystal_GND2_Small|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Y', 'kicadSymbolValue': 'Crystal_GND2_Small', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'quartz ceramic resonator oscillator', 'kicadSymbolki_description': 'Three pin crystal, GND on pin 2, small symbol', 'kicadSymbolki_fp_filters': 'Crystal*'}]|
+|name|name|Device : Crystal_GND2_Small|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Y'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Crystal_GND2_Small'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'quartz ceramic resonator oscillator'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Three pin crystal</td><td> GND on pin 2</td><td> small symbol'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Crystal*'</td></tr></table>]|
 ||||

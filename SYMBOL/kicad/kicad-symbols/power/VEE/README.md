@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKPOWERVEE > VEE
+# SZKPOWERVEE > power : VEE
 
 - ID: SYMBOL-kicad-kicad-symbols-power-VEE
 - Hex ID: SZKPOWERVEE
-- Name: VEE
-- Description: VEE
+- Name: power : VEE
+- Description: power : VEE
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-power-VEE](http://oom.lt/SYMBOL-kicad-kicad-symbols-power-VEE)
 - Short Link: [http://oom.lt/SZKPOWERVEE](http://oom.lt/SZKPOWERVEE)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|VEE|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-power-VEE|
 |Hex ID (short code)|hexID|SZKPOWERVEE|
-|name|name|VEE|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': '#PWR', 'kicadSymbolValue': 'VEE', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_keywords': 'power-flag', 'kicadSymbolki_description': 'Power symbol creates a global label with name "VEE"'}]|
+|name|name|power : VEE|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> '#PWR'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'VEE'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'power-flag'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Power symbol creates a global label with name "VEE"'</td></tr></table>]|
 ||||

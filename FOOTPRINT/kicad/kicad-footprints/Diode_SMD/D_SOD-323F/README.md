@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_SOD-323F|
 |Hex ID (short code)|hexID|FZKDIODESMDSOD323F|
 |name|name|Diode_SMD : D_SOD-323F|
-|Footprint Kicad|footprintKicadDetails|{'name': 'D_SOD-323F', 'description': 'SOD-323F http://www.nxp.com/documents/outline_drawing/SOD323F.pdf', 'tags': 'SOD-323F', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-323F.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'D_SOD-323F'</td><td> 'description'</td></tr><tr><td> 'SOD-323F http</td></tr><tr><td>//www.nxp.com/documents/outline_drawing/SOD323F.pdf'</td><td> 'tags'</td></tr><tr><td> 'SOD-323F'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Diode_SMD.3dshapes/D_SOD-323F.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

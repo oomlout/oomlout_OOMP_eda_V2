@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSTERS35DGPI21ST32G > TERS-35D-G-PI02-01-ST302G
+# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSTERS35DGPI21ST32G > oomlout_OOMP_parts : TERS-35D-G-PI02-01-ST302G
 
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-TERS-35D-G-PI02-01-ST302G
 - Hex ID: SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSTERS35DGPI21ST32G
-- Name: TERS-35D-G-PI02-01-ST302G
-- Description: TERS-35D-G-PI02-01-ST302G
+- Name: oomlout_OOMP_parts : TERS-35D-G-PI02-01-ST302G
+- Description: oomlout_OOMP_parts : TERS-35D-G-PI02-01-ST302G
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-TERS-35D-G-PI02-01-ST302G](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-TERS-35D-G-PI02-01-ST302G)
 - Short Link: [http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSTERS35DGPI21ST32G](http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSTERS35DGPI21ST32G)
   
@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|TERS-35D-G-PI02-01-ST302G|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-TERS-35D-G-PI02-01-ST302G|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSTERS35DGPI21ST32G|
-|name|name|TERS-35D-G-PI02-01-ST302G|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'TERS-35D-G-PI02-01-ST302G', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:TERS-35D-G-PI02-01-ST302G', 'kicadSymbolDatasheet': 'oom.lt/ST302G', 'kicadSymbolki_keywords': 'screw terminal', 'kicadSymbolki_description': 'hexID: ST302G;Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)', 'kicadSymbolki_fp_filters': 'TerminalBlock*:*'}]|
+|name|name|oomlout_OOMP_parts : TERS-35D-G-PI02-01-ST302G|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'J'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TERS-35D-G-PI02-01-ST302G'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'oomlout_OOMP_parts</td></tr><tr><td>TERS-35D-G-PI02-01-ST302G'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'oom.lt/ST302G'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'screw terminal'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'hexID</td></tr><tr><td> ST302G;Generic screw terminal</td><td> single row</td><td> 01x02</td><td> script generated (kicad-library-utils/schlib/autogen/connector/)'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TerminalBlock*</td></tr><tr><td>*'</td></tr></table>]|
 ||||

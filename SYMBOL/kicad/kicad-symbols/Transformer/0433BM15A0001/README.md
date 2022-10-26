@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTR433BM15A1 > 0433BM15A0001
+# SZKTR433BM15A1 > Transformer : 0433BM15A0001
 
 - ID: SYMBOL-kicad-kicad-symbols-Transformer-0433BM15A0001
 - Hex ID: SZKTR433BM15A1
-- Name: 0433BM15A0001
-- Description: 0433BM15A0001
+- Name: Transformer : 0433BM15A0001
+- Description: Transformer : 0433BM15A0001
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-0433BM15A0001](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-0433BM15A0001)
 - Short Link: [http://oom.lt/SZKTR433BM15A1](http://oom.lt/SZKTR433BM15A1)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|0433BM15A0001|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transformer-0433BM15A0001|
 |Hex ID (short code)|hexID|SZKTR433BM15A1|
-|name|name|0433BM15A0001|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '0896BM15A0001', 'kicadSymbolReference': 'U', 'kicadSymbolValue': '0433BM15A0001', 'kicadSymbolFootprint': 'RF_Converter:Balun_Johanson_0896BM15A0001', 'kicadSymbolDatasheet': 'https://www.johansontechnology.com/datasheets/0433BM15A0001/0433BM15A0001.pdf', 'kicadSymbolki_keywords': 'balun rf transformer', 'kicadSymbolki_description': '430-435MHz 1:1 RF Transformer, Unbalanced to Balanced, with integrated DC blocking capacitor', 'kicadSymbolki_fp_filters': 'Balun*Johanson*0896BM15A0001*'}]|
+|name|name|Transformer : 0433BM15A0001|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> '0896BM15A0001'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> '0433BM15A0001'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'RF_Converter</td></tr><tr><td>Balun_Johanson_0896BM15A0001'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.johansontechnology.com/datasheets/0433BM15A0001/0433BM15A0001.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'balun rf transformer'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '430-435MHz 1</td></tr><tr><td>1 RF Transformer</td><td> Unbalanced to Balanced</td><td> with integrated DC blocking capacitor'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Balun*Johanson*0896BM15A0001*'</td></tr></table>]|
 ||||

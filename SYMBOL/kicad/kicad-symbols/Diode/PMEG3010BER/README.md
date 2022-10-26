@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDIODEPMEG31BER > PMEG3010BER
+# SZKDIODEPMEG31BER > Diode : PMEG3010BER
 
 - ID: SYMBOL-kicad-kicad-symbols-Diode-PMEG3010BER
 - Hex ID: SZKDIODEPMEG31BER
-- Name: PMEG3010BER
-- Description: PMEG3010BER
+- Name: Diode : PMEG3010BER
+- Description: Diode : PMEG3010BER
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-PMEG3010BER](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-PMEG3010BER)
 - Short Link: [http://oom.lt/SZKDIODEPMEG31BER](http://oom.lt/SZKDIODEPMEG31BER)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PMEG3010BER|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-PMEG3010BER|
 |Hex ID (short code)|hexID|SZKDIODEPMEG31BER|
-|name|name|PMEG3010BER|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'PMEG40T10ER', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'PMEG3010BER', 'kicadSymbolFootprint': 'Diode_SMD:Nexperia_CFP3_SOD-123W', 'kicadSymbolDatasheet': 'https://assets.nexperia.com/documents/data-sheet/PMEG3010BER.pdf', 'kicadSymbolki_keywords': 'forward voltage diode', 'kicadSymbolki_description': '30V, 1A low Vf MEGA Schottky barrier rectifier, SOD-123W', 'kicadSymbolki_fp_filters': 'Nexperia*CFP3*SOD?123W*'}]|
+|name|name|Diode : PMEG3010BER|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'PMEG40T10ER'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'PMEG3010BER'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Diode_SMD</td></tr><tr><td>Nexperia_CFP3_SOD-123W'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//assets.nexperia.com/documents/data-sheet/PMEG3010BER.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'forward voltage diode'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '30V</td><td> 1A low Vf MEGA Schottky barrier rectifier</td><td> SOD-123W'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Nexperia*CFP3*SOD?123W*'</td></tr></table>]|
 ||||

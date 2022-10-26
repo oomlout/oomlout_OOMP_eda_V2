@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Coaxial-SMA_Wurth_60312002114503_Vertical|
 |Hex ID (short code)|hexID|FZKCNCOASWURTH6312211453VERTICAL|
 |name|name|Connector_Coaxial : SMA_Wurth_60312002114503_Vertical|
-|Footprint Kicad|footprintKicadDetails|{'name': 'SMA_Wurth_60312002114503_Vertical', 'description': 'https://www.we-online.de/katalog/datasheet/60312002114503.pdf', 'tags': 'SMA THT Female Jack Vertical ExtendedLegs', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_Coaxial.3dshapes/SMA_Wurth_60312002114503_Vertical.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SMA_Wurth_60312002114503_Vertical'</td><td> 'description'</td></tr><tr><td> 'https</td></tr><tr><td>//www.we-online.de/katalog/datasheet/60312002114503.pdf'</td><td> 'tags'</td></tr><tr><td> 'SMA THT Female Jack Vertical ExtendedLegs'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_Coaxial.3dshapes/SMA_Wurth_60312002114503_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_CSP-ST_WLCSP-100_Die461|
 |Hex ID (short code)|hexID|FZKCSPSTWLCSP1DIE461|
 |name|name|Package_CSP : ST_WLCSP-100_Die461|
-|Footprint Kicad|footprintKicadDetails|{'name': 'ST_WLCSP-100_Die461', 'description': 'WLCSP-100, 10x10 raster, 4.618x4.142mm package, pitch 0.4mm; see section 7.5 of http://www.st.com/resource/en/datasheet/DM00284211.pdf', 'tags': 'BGA 100 0.4', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_CSP.3dshapes/ST_WLCSP-100_Die461.wrl', 'pins': {'type': 'smd', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'ST_WLCSP-100_Die461'</td><td> 'description'</td></tr><tr><td> 'WLCSP-100</td><td> 10x10 raster</td><td> 4.618x4.142mm package</td><td> pitch 0.4mm; see section 7.5 of http</td></tr><tr><td>//www.st.com/resource/en/datasheet/DM00284211.pdf'</td><td> 'tags'</td></tr><tr><td> 'BGA 100 0.4'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_CSP.3dshapes/ST_WLCSP-100_Die461.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

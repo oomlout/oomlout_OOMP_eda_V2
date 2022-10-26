@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-RF_SMA_BoardEdge_142-0701-801|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSRFSBOARDEDGE1427181|
 |name|name|digikey-footprints : RF_SMA_BoardEdge_142-0701-801|
-|Footprint Kicad|footprintKicadDetails|{'name': 'RF_SMA_BoardEdge_142-0701-801', 'description': 'https://belfuse.com/resources/Johnson/productinformation/pi-142-0701-801.pdf', 'tags': None, 'attributeType': None, 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'RF_SMA_BoardEdge_142-0701-801'</td><td> 'description'</td></tr><tr><td> 'https</td></tr><tr><td>//belfuse.com/resources/Johnson/productinformation/pi-142-0701-801.pdf'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

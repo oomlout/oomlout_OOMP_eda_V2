@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Neosid_SMs42|
 |Hex ID (short code)|hexID|FZKINDUCTORSMLNEOSIDSMS42|
 |name|name|Inductor_SMD : L_Neosid_SMs42|
-|Footprint Kicad|footprintKicadDetails|{'name': 'L_Neosid_SMs42', 'description': 'Neosid, Inductor, SMs42, Fixed inductor, SMD, magneticaly shielded, https://neosid.de/import-data/product-pdf/neoFestind_ma_SMs42.pdf', 'tags': 'Neosid Inductor SMs42 Fixed inductor SMD magneticaly shielded', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Neosid_SMs42.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'L_Neosid_SMs42'</td><td> 'description'</td></tr><tr><td> 'Neosid</td><td> Inductor</td><td> SMs42</td><td> Fixed inductor</td><td> SMD</td><td> magneticaly shielded</td><td> https</td></tr><tr><td>//neosid.de/import-data/product-pdf/neoFestind_ma_SMs42.pdf'</td><td> 'tags'</td></tr><tr><td> 'Neosid Inductor SMs42 Fixed inductor SMD magneticaly shielded'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Inductor_SMD.3dshapes/L_Neosid_SMs42.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

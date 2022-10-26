@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRADT21T1P > ADT2-1T-1P
+# SZKTRADT21T1P > Transformer : ADT2-1T-1P
 
 - ID: SYMBOL-kicad-kicad-symbols-Transformer-ADT2-1T-1P
 - Hex ID: SZKTRADT21T1P
-- Name: ADT2-1T-1P
-- Description: ADT2-1T-1P
+- Name: Transformer : ADT2-1T-1P
+- Description: Transformer : ADT2-1T-1P
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-ADT2-1T-1P](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-ADT2-1T-1P)
 - Short Link: [http://oom.lt/SZKTRADT21T1P](http://oom.lt/SZKTRADT21T1P)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ADT2-1T-1P|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transformer-ADT2-1T-1P|
 |Hex ID (short code)|hexID|SZKTRADT21T1P|
-|name|name|ADT2-1T-1P|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ADT1-1WT-1', 'kicadSymbolReference': 'TR', 'kicadSymbolValue': 'ADT2-1T-1P', 'kicadSymbolFootprint': 'RF_Mini-Circuits:Mini-Circuits_CD542_H2.84mm', 'kicadSymbolDatasheet': 'https://www.minicircuits.com/pdfs/ADT2-1T-1P+.pdf', 'kicadSymbolki_keywords': 'Mini-Circuits RF Transformer', 'kicadSymbolki_description': '8-600MHz 1:2 RF Transformer, Unbalanced to Balanced Center Tap, CD542', 'kicadSymbolki_fp_filters': 'Mini?Circuits*CD542*'}]|
+|name|name|Transformer : ADT2-1T-1P|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'ADT1-1WT-1'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'TR'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ADT2-1T-1P'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'RF_Mini-Circuits</td></tr><tr><td>Mini-Circuits_CD542_H2.84mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.minicircuits.com/pdfs/ADT2-1T-1P+.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Mini-Circuits RF Transformer'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '8-600MHz 1</td></tr><tr><td>2 RF Transformer</td><td> Unbalanced to Balanced Center Tap</td><td> CD542'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Mini?Circuits*CD542*'</td></tr></table>]|
 ||||

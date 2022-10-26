@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKRELAYHF37 > HF3-07
+# SZKRELAYHF37 > Relay : HF3-07
 
 - ID: SYMBOL-kicad-kicad-symbols-Relay-HF3-07
 - Hex ID: SZKRELAYHF37
-- Name: HF3-07
-- Description: HF3-07
+- Name: Relay : HF3-07
+- Description: Relay : HF3-07
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-HF3-07](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-HF3-07)
 - Short Link: [http://oom.lt/SZKRELAYHF37](http://oom.lt/SZKRELAYHF37)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|HF3-07|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Relay-HF3-07|
 |Hex ID (short code)|hexID|SZKRELAYHF37|
-|name|name|HF3-07|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'HF3-01', 'kicadSymbolReference': 'K', 'kicadSymbolValue': 'HF3-07', 'kicadSymbolFootprint': 'Relay_SMD:Relay_SPDT_AXICOM_HF3Series_75ohms_Pitch1.27mm', 'kicadSymbolDatasheet': 'http://hiqsdr.com/images/3/3e/Axicom-HF3.pdf', 'kicadSymbolki_keywords': 'Single Pole Relay SPDT', 'kicadSymbolki_description': 'AXICOM HF3 relay, 3GHz, SPDT RF Switching Relay, 75ohm, 24Vdc, Single-Side Stable', 'kicadSymbolki_fp_filters': 'Relay*SPDT*AXICOM*HF3Series*75ohms*Pitch1.27mm*'}]|
+|name|name|Relay : HF3-07|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'HF3-01'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'K'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'HF3-07'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Relay_SMD</td></tr><tr><td>Relay_SPDT_AXICOM_HF3Series_75ohms_Pitch1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//hiqsdr.com/images/3/3e/Axicom-HF3.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Single Pole Relay SPDT'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'AXICOM HF3 relay</td><td> 3GHz</td><td> SPDT RF Switching Relay</td><td> 75ohm</td><td> 24Vdc</td><td> Single-Side Stable'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Relay*SPDT*AXICOM*HF3Series*75ohms*Pitch1.27mm*'</td></tr></table>]|
 ||||

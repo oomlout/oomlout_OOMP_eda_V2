@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKCNDB37FEMALEHOLS > DB37_Female_MountingHoles
+# SZKCNDB37FEMALEHOLS > Connector : DB37_Female_MountingHoles
 
 - ID: SYMBOL-kicad-kicad-symbols-Connector-DB37_Female_MountingHoles
 - Hex ID: SZKCNDB37FEMALEHOLS
-- Name: DB37_Female_MountingHoles
-- Description: DB37_Female_MountingHoles
+- Name: Connector : DB37_Female_MountingHoles
+- Description: Connector : DB37_Female_MountingHoles
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-DB37_Female_MountingHoles](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-DB37_Female_MountingHoles)
 - Short Link: [http://oom.lt/SZKCNDB37FEMALEHOLS](http://oom.lt/SZKCNDB37FEMALEHOLS)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DB37_Female_MountingHoles|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-DB37_Female_MountingHoles|
 |Hex ID (short code)|hexID|SZKCNDB37FEMALEHOLS|
-|name|name|DB37_Female_MountingHoles|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'DB37_Female_MountingHoles', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ' ~', 'kicadSymbolki_keywords': 'female D-SUB connector', 'kicadSymbolki_description': '37-pin female D-SUB connector, Mounting Hole', 'kicadSymbolki_fp_filters': 'DSUB*Female*'}]|
+|name|name|Connector : DB37_Female_MountingHoles|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'J'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'DB37_Female_MountingHoles'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> ' ~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'female D-SUB connector'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '37-pin female D-SUB connector</td><td> Mounting Hole'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DSUB*Female*'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREFERENCEVOLTAGEISL217CIH32ZTK > ISL21070CIH320Z-TK
+# SZKREFERENCEVOLTAGEISL217CIH32ZTK > Reference_Voltage : ISL21070CIH320Z-TK
 
 - ID: SYMBOL-kicad-kicad-symbols-Reference_Voltage-ISL21070CIH320Z-TK
 - Hex ID: SZKREFERENCEVOLTAGEISL217CIH32ZTK
-- Name: ISL21070CIH320Z-TK
-- Description: ISL21070CIH320Z-TK
+- Name: Reference_Voltage : ISL21070CIH320Z-TK
+- Description: Reference_Voltage : ISL21070CIH320Z-TK
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-ISL21070CIH320Z-TK](http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-ISL21070CIH320Z-TK)
 - Short Link: [http://oom.lt/SZKREFERENCEVOLTAGEISL217CIH32ZTK](http://oom.lt/SZKREFERENCEVOLTAGEISL217CIH32ZTK)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ISL21070CIH320Z-TK|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Reference_Voltage-ISL21070CIH320Z-TK|
 |Hex ID (short code)|hexID|SZKREFERENCEVOLTAGEISL217CIH32ZTK|
-|name|name|ISL21070CIH320Z-TK|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ISL21070DIH306Z-TK', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ISL21070CIH320Z-TK', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23', 'kicadSymbolDatasheet': 'http://www.intersil.com/content/dam/Intersil/documents/fn75/fn7599.pdf', 'kicadSymbolki_keywords': 'Micropower Voltage Reference 2.0V', 'kicadSymbolki_description': '2.0V 25μA Micropower Voltage Reference, SOT-23', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
+|name|name|Reference_Voltage : ISL21070CIH320Z-TK|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'ISL21070DIH306Z-TK'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ISL21070CIH320Z-TK'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-23'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.intersil.com/content/dam/Intersil/documents/fn75/fn7599.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Micropower Voltage Reference 2.0V'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '2.0V 25μA Micropower Voltage Reference</td><td> SOT-23'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23*'</td></tr></table>]|
 ||||

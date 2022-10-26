@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKINTERFACEUARTADM2587E > ADM2587E
+# SZKINTERFACEUARTADM2587E > Interface_UART : ADM2587E
 
 - ID: SYMBOL-kicad-kicad-symbols-Interface_UART-ADM2587E
 - Hex ID: SZKINTERFACEUARTADM2587E
-- Name: ADM2587E
-- Description: ADM2587E
+- Name: Interface_UART : ADM2587E
+- Description: Interface_UART : ADM2587E
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-ADM2587E](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-ADM2587E)
 - Short Link: [http://oom.lt/SZKINTERFACEUARTADM2587E](http://oom.lt/SZKINTERFACEUARTADM2587E)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ADM2587E|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_UART-ADM2587E|
 |Hex ID (short code)|hexID|SZKINTERFACEUARTADM2587E|
-|name|name|ADM2587E|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ADM2587E', 'kicadSymbolFootprint': 'Package_SO:SOIC-20W_7.5x12.8mm_P1.27mm', 'kicadSymbolDatasheet': 'www.analog.com/media/en/technical-documentation/data-sheets/ADM2582E_2587E.pdf', 'kicadSymbolki_keywords': 'RS485 Transceiver,RS422 Transceiver', 'kicadSymbolki_description': 'Isolated RS485/RS422 Transceiver,Integrated Isolated DC-DC Converter, 500kbps,SO-20', 'kicadSymbolki_fp_filters': 'SOIC*7.5x12.8mm*P1.27mm*'}]|
+|name|name|Interface_UART : ADM2587E|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ADM2587E'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-20W_7.5x12.8mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'www.analog.com/media/en/technical-documentation/data-sheets/ADM2582E_2587E.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'RS485 Transceiver</td><td>RS422 Transceiver'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Isolated RS485/RS422 Transceiver</td><td>Integrated Isolated DC-DC Converter</td><td> 500kbps</td><td>SO-20'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*7.5x12.8mm*P1.27mm*'</td></tr></table>]|
 ||||

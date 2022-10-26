@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUMCHIPATTINYATTINY28V1M > ATtiny28V-1M
+# SZKMCUMCHIPATTINYATTINY28V1M > MCU_Microchip_ATtiny : ATtiny28V-1M
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny28V-1M
 - Hex ID: SZKMCUMCHIPATTINYATTINY28V1M
-- Name: ATtiny28V-1M
-- Description: ATtiny28V-1M
+- Name: MCU_Microchip_ATtiny : ATtiny28V-1M
+- Description: MCU_Microchip_ATtiny : ATtiny28V-1M
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny28V-1M](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny28V-1M)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATTINYATTINY28V1M](http://oom.lt/SZKMCUMCHIPATTINYATTINY28V1M)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ATtiny28V-1M|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny28V-1M|
 |Hex ID (short code)|hexID|SZKMCUMCHIPATTINYATTINY28V1M|
-|name|name|ATtiny28V-1M|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ATtiny28V-1M', 'kicadSymbolFootprint': 'Package_DFN_QFN:QFN-32-1EP_5x5mm_P0.5mm_EP3.1x3.1mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/doc1062.pdf', 'kicadSymbolki_keywords': 'AVR 8bit Microcontroller tinyAVR IR', 'kicadSymbolki_description': '1.2MHz, 2kB Flash, No SRAM, No EEPROM, QFN-32', 'kicadSymbolki_fp_filters': 'QFN*1EP*5x5mm*P0.5mm*'}]|
+|name|name|MCU_Microchip_ATtiny : ATtiny28V-1M|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ATtiny28V-1M'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>QFN-32-1EP_5x5mm_P0.5mm_EP3.1x3.1mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/doc1062.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'AVR 8bit Microcontroller tinyAVR IR'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '1.2MHz</td><td> 2kB Flash</td><td> No SRAM</td><td> No EEPROM</td><td> QFN-32'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'QFN*1EP*5x5mm*P0.5mm*'</td></tr></table>]|
 ||||

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Osram_Lx_P47F_D2mm_ReverseMount|
 |Hex ID (short code)|hexID|FZKLSMLOSRAMLXP47FD2RMOUNT|
 |name|name|LED_SMD : LED_Osram_Lx_P47F_D2mm_ReverseMount|
-|Footprint Kicad|footprintKicadDetails|{'name': 'LED_Osram_Lx_P47F_D2mm_ReverseMount', 'description': 'OSRAM, reverse-mount LED, SMD, 2mm diameter, http://www.farnell.com/datasheets/2711587.pdf', 'tags': 'LED ReverseMount Reverse', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED_Osram_Lx_P47F_D2mm_ReverseMount.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'LED_Osram_Lx_P47F_D2mm_ReverseMount'</td><td> 'description'</td></tr><tr><td> 'OSRAM</td><td> reverse-mount LED</td><td> SMD</td><td> 2mm diameter</td><td> http</td></tr><tr><td>//www.farnell.com/datasheets/2711587.pdf'</td><td> 'tags'</td></tr><tr><td> 'LED ReverseMount Reverse'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/LED_SMD.3dshapes/LED_Osram_Lx_P47F_D2mm_ReverseMount.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

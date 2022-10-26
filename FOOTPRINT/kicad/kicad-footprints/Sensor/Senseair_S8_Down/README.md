@@ -29,5 +29,5 @@ NO IMAGE
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Sensor-Senseair_S8_Down|
 |Hex ID (short code)|hexID|FZKSENSENSEAIRS8DOWN|
 |name|name|Sensor : Senseair_S8_Down|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Senseair_S8_Down', 'description': 'Sensair S8 Series CO2 sensor, 1kHz PWM output, Modbus, THT', 'tags': 'co2 gas sensor pwm modbus', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Sensor.3dshapes/Senseair_S8_Down.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Senseair_S8_Down'</td><td> 'description'</td></tr><tr><td> 'Sensair S8 Series CO2 sensor</td><td> 1kHz PWM output</td><td> Modbus</td><td> THT'</td><td> 'tags'</td></tr><tr><td> 'co2 gas sensor pwm modbus'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Sensor.3dshapes/Senseair_S8_Down.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

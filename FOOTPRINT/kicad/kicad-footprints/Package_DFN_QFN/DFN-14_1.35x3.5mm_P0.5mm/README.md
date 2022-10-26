@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-DFN-14_1.35x3.5mm_P0.5mm|
 |Hex ID (short code)|hexID|FZKDFNDFN14135X35P5|
 |name|name|Package_DFN_QFN : DFN-14_1.35x3.5mm_P0.5mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'DFN-14_1.35x3.5mm_P0.5mm', 'description': 'DFN, 14 Pin (https://m.littelfuse.com/~/media/electronics/datasheets/tvs_diode_arrays/littelfuse_tvs_diode_array_sp3012_datasheet.pdf.pdf#page=7), generated with kicad-footprint-generator ipc_noLead_generator.py', 'tags': 'DFN NoLead', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/DFN-14_1.35x3.5mm_P0.5mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'DFN-14_1.35x3.5mm_P0.5mm'</td><td> 'description'</td></tr><tr><td> 'DFN</td><td> 14 Pin (https</td></tr><tr><td>//m.littelfuse.com/~/media/electronics/datasheets/tvs_diode_arrays/littelfuse_tvs_diode_array_sp3012_datasheet.pdf.pdf#page=7)</td><td> generated with kicad-footprint-generator ipc_noLead_generator.py'</td><td> 'tags'</td></tr><tr><td> 'DFN NoLead'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DFN_QFN.3dshapes/DFN-14_1.35x3.5mm_P0.5mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

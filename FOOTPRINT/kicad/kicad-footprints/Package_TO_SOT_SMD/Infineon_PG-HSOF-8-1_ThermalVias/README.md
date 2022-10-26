@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-Infineon_PG-HSOF-8-1_ThermalVias|
 |Hex ID (short code)|hexID|FZKPACKAGETOSOTSMINFINEONPGHSOF81THERMALVIAS|
 |name|name|Package_TO_SOT_SMD : Infineon_PG-HSOF-8-1_ThermalVias|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Infineon_PG-HSOF-8-1_ThermalVias', 'description': 'HSOF-8-1 [TOLL] power MOSFET (http://www.infineon.com/cms/en/product/packages/PG-HSOF/PG-HSOF-8-1/)', 'tags': 'mosfet hsof toll thermal vias', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/Infineon_PG-HSOF-8-1.wrl', 'pins': {'type': 'smd', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Infineon_PG-HSOF-8-1_ThermalVias'</td><td> 'description'</td></tr><tr><td> 'HSOF-8-1 [TOLL] power MOSFET (http</td></tr><tr><td>//www.infineon.com/cms/en/product/packages/PG-HSOF/PG-HSOF-8-1/)'</td><td> 'tags'</td></tr><tr><td> 'mosfet hsof toll thermal vias'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_TO_SOT_SMD.3dshapes/Infineon_PG-HSOF-8-1.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

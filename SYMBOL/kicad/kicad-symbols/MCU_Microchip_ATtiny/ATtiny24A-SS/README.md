@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUMCHIPATTINYATTINY24ASS > ATtiny24A-SS
+# SZKMCUMCHIPATTINYATTINY24ASS > MCU_Microchip_ATtiny : ATtiny24A-SS
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny24A-SS
 - Hex ID: SZKMCUMCHIPATTINYATTINY24ASS
-- Name: ATtiny24A-SS
-- Description: ATtiny24A-SS
+- Name: MCU_Microchip_ATtiny : ATtiny24A-SS
+- Description: MCU_Microchip_ATtiny : ATtiny24A-SS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny24A-SS](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny24A-SS)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATTINYATTINY24ASS](http://oom.lt/SZKMCUMCHIPATTINYATTINY24ASS)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ATtiny24A-SS|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny24A-SS|
 |Hex ID (short code)|hexID|SZKMCUMCHIPATTINYATTINY24ASS|
-|name|name|ATtiny24A-SS|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ATtiny24V-10SS', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ATtiny24A-SS', 'kicadSymbolFootprint': 'Package_SO:SOIC-14_3.9x8.7mm_P1.27mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/doc8183.pdf', 'kicadSymbolki_keywords': 'AVR 8bit Microcontroller tinyAVR', 'kicadSymbolki_description': '20MHz, 2kB Flash, 128B SRAM, 128B EEPROM, debugWIRE, SOIC-14', 'kicadSymbolki_fp_filters': 'SOIC*3.9x8.7mm*P1.27mm*'}]|
+|name|name|MCU_Microchip_ATtiny : ATtiny24A-SS|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'ATtiny24V-10SS'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ATtiny24A-SS'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-14_3.9x8.7mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/doc8183.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'AVR 8bit Microcontroller tinyAVR'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '20MHz</td><td> 2kB Flash</td><td> 128B SRAM</td><td> 128B EEPROM</td><td> debugWIRE</td><td> SOIC-14'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*3.9x8.7mm*P1.27mm*'</td></tr></table>]|
 ||||

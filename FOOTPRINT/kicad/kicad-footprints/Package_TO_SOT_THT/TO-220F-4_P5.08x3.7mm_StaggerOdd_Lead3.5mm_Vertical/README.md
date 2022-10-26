@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-220F-4_P5.08x3.7mm_StaggerOdd_Lead3.5mm_Vertical|
 |Hex ID (short code)|hexID|FZKSOTTO22F4P58X37STAGGERODDLEAD35VERTICAL|
 |name|name|Package_TO_SOT_THT : TO-220F-4_P5.08x3.7mm_StaggerOdd_Lead3.5mm_Vertical|
-|Footprint Kicad|footprintKicadDetails|{'name': 'TO-220F-4_P5.08x3.7mm_StaggerOdd_Lead3.5mm_Vertical', 'description': 'TO-220F-4, Vertical, RM 2.54mm, staggered type-1, see https://www.njr.com/semicon/PDF/package/TO-220F-4_E.pdf', 'tags': 'TO-220F-4 Vertical RM 2.54mm staggered type-1', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/TO-220F-4_P5.08x3.7mm_StaggerOdd_Lead3.5mm_Vertical.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'TO-220F-4_P5.08x3.7mm_StaggerOdd_Lead3.5mm_Vertical'</td><td> 'description'</td></tr><tr><td> 'TO-220F-4</td><td> Vertical</td><td> RM 2.54mm</td><td> staggered type-1</td><td> see https</td></tr><tr><td>//www.njr.com/semicon/PDF/package/TO-220F-4_E.pdf'</td><td> 'tags'</td></tr><tr><td> 'TO-220F-4 Vertical RM 2.54mm staggered type-1'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_TO_SOT_THT.3dshapes/TO-220F-4_P5.08x3.7mm_StaggerOdd_Lead3.5mm_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

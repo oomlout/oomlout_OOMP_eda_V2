@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKAUDIOCS4272 > CS4272
+# SZKAUDIOCS4272 > Audio : CS4272
 
 - ID: SYMBOL-kicad-kicad-symbols-Audio-CS4272
 - Hex ID: SZKAUDIOCS4272
-- Name: CS4272
-- Description: CS4272
+- Name: Audio : CS4272
+- Description: Audio : CS4272
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-CS4272](http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-CS4272)
 - Short Link: [http://oom.lt/SZKAUDIOCS4272](http://oom.lt/SZKAUDIOCS4272)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|CS4272|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Audio-CS4272|
 |Hex ID (short code)|hexID|SZKAUDIOCS4272|
-|name|name|CS4272|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'CS4272', 'kicadSymbolFootprint': 'Package_SO:TSSOP-28_4.4x9.7mm_P0.65mm', 'kicadSymbolDatasheet': 'https://statics.cirrus.com/pubs/proDatasheet/CS4272_F1.pdf', 'kicadSymbolki_keywords': 'stereo 2ch audio codec i2s 24bit 192kHz', 'kicadSymbolki_description': '24-Bit, 192 kHz Stereo Audio CODEC, TSSOP-28', 'kicadSymbolki_fp_filters': 'TSSOP*4.4x9.7mm*P0.65mm*'}]|
+|name|name|Audio : CS4272|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'CS4272'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>TSSOP-28_4.4x9.7mm_P0.65mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//statics.cirrus.com/pubs/proDatasheet/CS4272_F1.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'stereo 2ch audio codec i2s 24bit 192kHz'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '24-Bit</td><td> 192 kHz Stereo Audio CODEC</td><td> TSSOP-28'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TSSOP*4.4x9.7mm*P0.65mm*'</td></tr></table>]|
 ||||

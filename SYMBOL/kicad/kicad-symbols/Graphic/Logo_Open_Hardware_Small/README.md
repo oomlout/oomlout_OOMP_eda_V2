@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKGRAPHICLOPENHARDWARESLL > Logo_Open_Hardware_Small
+# SZKGRAPHICLOPENHARDWARESLL > Graphic : Logo_Open_Hardware_Small
 
 - ID: SYMBOL-kicad-kicad-symbols-Graphic-Logo_Open_Hardware_Small
 - Hex ID: SZKGRAPHICLOPENHARDWARESLL
-- Name: Logo_Open_Hardware_Small
-- Description: Logo_Open_Hardware_Small
+- Name: Graphic : Logo_Open_Hardware_Small
+- Description: Graphic : Logo_Open_Hardware_Small
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Graphic-Logo_Open_Hardware_Small](http://oom.lt/SYMBOL-kicad-kicad-symbols-Graphic-Logo_Open_Hardware_Small)
 - Short Link: [http://oom.lt/SZKGRAPHICLOPENHARDWARESLL](http://oom.lt/SZKGRAPHICLOPENHARDWARESLL)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Logo_Open_Hardware_Small|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Graphic-Logo_Open_Hardware_Small|
 |Hex ID (short code)|hexID|SZKGRAPHICLOPENHARDWARESLL|
-|name|name|Logo_Open_Hardware_Small|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': '#LOGO', 'kicadSymbolValue': 'Logo_Open_Hardware_Small', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'Logo', 'kicadSymbolki_description': 'Open Hardware logo, small'}]|
+|name|name|Graphic : Logo_Open_Hardware_Small|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> '#LOGO'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Logo_Open_Hardware_Small'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Logo'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Open Hardware logo</td><td> small'</td></tr></table>]|
 ||||

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Card-SD_Hirose_DM1AA_SF_PEJ82|
 |Hex ID (short code)|hexID|FZKCNCARDSDHIROSEDM1AASFPEJ82|
 |name|name|Connector_Card : SD_Hirose_DM1AA_SF_PEJ82|
-|Footprint Kicad|footprintKicadDetails|{'name': 'SD_Hirose_DM1AA_SF_PEJ82', 'description': 'SD, SMD, top-mount, push-push (https://www.hirose.com/product/document?clcode=CL0609-0004-8-82&productname=DM1AA-SF-PEJ(82)&series=DM1&documenttype=2DDrawing&lang=en&documentid=0000915301)', 'tags': 'SD card connector', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_Card.3dshapes/SD_Hirose_DM1AA_SF_PEJ82.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SD_Hirose_DM1AA_SF_PEJ82'</td><td> 'description'</td></tr><tr><td> 'SD</td><td> SMD</td><td> top-mount</td><td> push-push (https</td></tr><tr><td>//www.hirose.com/product/document?clcode=CL0609-0004-8-82&productname=DM1AA-SF-PEJ(82)&series=DM1&documenttype=2DDrawing&lang=en&documentid=0000915301)'</td><td> 'tags'</td></tr><tr><td> 'SD card connector'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_Card.3dshapes/SD_Hirose_DM1AA_SF_PEJ82.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

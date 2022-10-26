@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_PCBEdge-Samtec_MECF-20-0_-L-DV_2x20_P1.27mm_Polarized_Edge|
 |Hex ID (short code)|hexID|FZKCNPCBEDGESAMTECMECF2LDV2X2P127POLARIZEDEDGE|
 |name|name|Connector_PCBEdge : Samtec_MECF-20-0_-L-DV_2x20_P1.27mm_Polarized_Edge|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Samtec_MECF-20-0_-L-DV_2x20_P1.27mm_Polarized_Edge', 'description': 'Highspeed card edge connector for PCBs with 20 contacts (polarized)', 'tags': 'conn samtec card-edge high-speed', 'attributeType': None, 'pins': {'type': 'connect', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Samtec_MECF-20-0_-L-DV_2x20_P1.27mm_Polarized_Edge'</td><td> 'description'</td></tr><tr><td> 'Highspeed card edge connector for PCBs with 20 contacts (polarized)'</td><td> 'tags'</td></tr><tr><td> 'conn samtec card-edge high-speed'</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'connect'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

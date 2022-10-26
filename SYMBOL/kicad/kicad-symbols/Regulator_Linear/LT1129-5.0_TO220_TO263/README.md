@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORLINEARLT11295TO22TO263 > LT1129-5.0_TO220_TO263
+# SZKREGULATORLINEARLT11295TO22TO263 > Regulator_Linear : LT1129-5.0_TO220_TO263
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT1129-5.0_TO220_TO263
 - Hex ID: SZKREGULATORLINEARLT11295TO22TO263
-- Name: LT1129-5.0_TO220_TO263
-- Description: LT1129-5.0_TO220_TO263
+- Name: Regulator_Linear : LT1129-5.0_TO220_TO263
+- Description: Regulator_Linear : LT1129-5.0_TO220_TO263
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT1129-5.0_TO220_TO263](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT1129-5.0_TO220_TO263)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARLT11295TO22TO263](http://oom.lt/SZKREGULATORLINEARLT11295TO22TO263)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LT1129-5.0_TO220_TO263|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT1129-5.0_TO220_TO263|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARLT11295TO22TO263|
-|name|name|LT1129-5.0_TO220_TO263|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LT1129-3.3_TO220_TO263', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LT1129-5.0_TO220_TO263', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/112935ff.pdf', 'kicadSymbolki_keywords': 'LDO Linear Regulator positive fixed', 'kicadSymbolki_description': '700mA Micropower Low Dropout Linear Regulator, 5.0V output voltage, TO-220-5/TO-263-5', 'kicadSymbolki_fp_filters': 'TO?220*Vertical*StaggerOdd* TO?263*TabPin3*'}]|
+|name|name|Regulator_Linear : LT1129-5.0_TO220_TO263|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'LT1129-3.3_TO220_TO263'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LT1129-5.0_TO220_TO263'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/112935ff.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'LDO Linear Regulator positive fixed'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '700mA Micropower Low Dropout Linear Regulator</td><td> 5.0V output voltage</td><td> TO-220-5/TO-263-5'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TO?220*Vertical*StaggerOdd* TO?263*TabPin3*'</td></tr></table>]|
 ||||

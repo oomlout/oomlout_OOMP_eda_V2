@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREFERENCEVOLTAGELT1634BCMS8125 > LT1634BCMS8-1.25
+# SZKREFERENCEVOLTAGELT1634BCMS8125 > Reference_Voltage : LT1634BCMS8-1.25
 
 - ID: SYMBOL-kicad-kicad-symbols-Reference_Voltage-LT1634BCMS8-1.25
 - Hex ID: SZKREFERENCEVOLTAGELT1634BCMS8125
-- Name: LT1634BCMS8-1.25
-- Description: LT1634BCMS8-1.25
+- Name: Reference_Voltage : LT1634BCMS8-1.25
+- Description: Reference_Voltage : LT1634BCMS8-1.25
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-LT1634BCMS8-1.25](http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-LT1634BCMS8-1.25)
 - Short Link: [http://oom.lt/SZKREFERENCEVOLTAGELT1634BCMS8125](http://oom.lt/SZKREFERENCEVOLTAGELT1634BCMS8125)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LT1634BCMS8-1.25|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Reference_Voltage-LT1634BCMS8-1.25|
 |Hex ID (short code)|hexID|SZKREFERENCEVOLTAGELT1634BCMS8125|
-|name|name|LT1634BCMS8-1.25|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LT1634BCMS8-1.25', 'kicadSymbolFootprint': 'Package_SO:MSOP-8_3x3mm_P0.65mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/1634ff.pdf', 'kicadSymbolki_keywords': 'voltage reference Micropower', 'kicadSymbolki_description': '1.25V Micropower Precision Shunt Voltage Reference, MSOP-8', 'kicadSymbolki_fp_filters': 'MSOP?8*3x3mm*P0.65mm*'}]|
+|name|name|Reference_Voltage : LT1634BCMS8-1.25|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LT1634BCMS8-1.25'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>MSOP-8_3x3mm_P0.65mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/1634ff.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'voltage reference Micropower'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '1.25V Micropower Precision Shunt Voltage Reference</td><td> MSOP-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'MSOP?8*3x3mm*P0.65mm*'</td></tr></table>]|
 ||||

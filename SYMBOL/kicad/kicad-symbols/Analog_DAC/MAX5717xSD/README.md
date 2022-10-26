@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKANALOGDACMAX5717XSD > MAX5717xSD
+# SZKANALOGDACMAX5717XSD > Analog_DAC : MAX5717xSD
 
 - ID: SYMBOL-kicad-kicad-symbols-Analog_DAC-MAX5717xSD
 - Hex ID: SZKANALOGDACMAX5717XSD
-- Name: MAX5717xSD
-- Description: MAX5717xSD
+- Name: Analog_DAC : MAX5717xSD
+- Description: Analog_DAC : MAX5717xSD
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-MAX5717xSD](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-MAX5717xSD)
 - Short Link: [http://oom.lt/SZKANALOGDACMAX5717XSD](http://oom.lt/SZKANALOGDACMAX5717XSD)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MAX5717xSD|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_DAC-MAX5717xSD|
 |Hex ID (short code)|hexID|SZKANALOGDACMAX5717XSD|
-|name|name|MAX5717xSD|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MAX5717xSD', 'kicadSymbolFootprint': 'Package_SO:SOIC-14_3.9x8.7mm_P1.27mm', 'kicadSymbolDatasheet': 'https://datasheets.maximintegrated.com/en/ds/MAX5717-MAX5719.pdf', 'kicadSymbolki_keywords': 'DAC', 'kicadSymbolki_description': '16-bit Voltage Digital-to-Analog converter, SOIC-14', 'kicadSymbolki_fp_filters': 'SOIC*3.9x8.7mm*P1.27mm*'}]|
+|name|name|Analog_DAC : MAX5717xSD|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MAX5717xSD'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-14_3.9x8.7mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//datasheets.maximintegrated.com/en/ds/MAX5717-MAX5719.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'DAC'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '16-bit Voltage Digital-to-Analog converter</td><td> SOIC-14'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*3.9x8.7mm*P1.27mm*'</td></tr></table>]|
 ||||

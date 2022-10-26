@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_CommonMode_Wuerth_WE-SL2|
 |Hex ID (short code)|hexID|FZKINDUCTORSMLCOONMODEWUERTHWESL2|
 |name|name|Inductor_SMD : L_CommonMode_Wuerth_WE-SL2|
-|Footprint Kicad|footprintKicadDetails|{'name': 'L_CommonMode_Wuerth_WE-SL2', 'description': 'http://katalog.we-online.de/en/pbs/WE-SL2?sid=5fbec16187#vs_t1:c1_ct:1', 'tags': 'Wuerth WE-SL2', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_CommonMode_Wuerth_WE-SL2.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'L_CommonMode_Wuerth_WE-SL2'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//katalog.we-online.de/en/pbs/WE-SL2?sid=5fbec16187#vs_t1</td></tr><tr><td>c1_ct</td></tr><tr><td>1'</td><td> 'tags'</td></tr><tr><td> 'Wuerth WE-SL2'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Inductor_SMD.3dshapes/L_CommonMode_Wuerth_WE-SL2.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

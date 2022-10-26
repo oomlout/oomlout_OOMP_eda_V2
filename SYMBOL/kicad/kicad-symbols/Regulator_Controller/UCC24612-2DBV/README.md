@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORCONTROLLERUCC246122DBV > UCC24612-2DBV
+# SZKREGULATORCONTROLLERUCC246122DBV > Regulator_Controller : UCC24612-2DBV
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Controller-UCC24612-2DBV
 - Hex ID: SZKREGULATORCONTROLLERUCC246122DBV
-- Name: UCC24612-2DBV
-- Description: UCC24612-2DBV
+- Name: Regulator_Controller : UCC24612-2DBV
+- Description: Regulator_Controller : UCC24612-2DBV
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-UCC24612-2DBV](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-UCC24612-2DBV)
 - Short Link: [http://oom.lt/SZKREGULATORCONTROLLERUCC246122DBV](http://oom.lt/SZKREGULATORCONTROLLERUCC246122DBV)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|UCC24612-2DBV|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Controller-UCC24612-2DBV|
 |Hex ID (short code)|hexID|SZKREGULATORCONTROLLERUCC246122DBV|
-|name|name|UCC24612-2DBV|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'UCC24612-1DBV', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'UCC24612-2DBV', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-5', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/ucc24612.pdf', 'kicadSymbolki_keywords': 'synchronous rectifier controller', 'kicadSymbolki_description': 'High Frequency Synchronous Rectifier Controller, 800kHz, Min On Time = 540ns, SOT-23-5', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
+|name|name|Regulator_Controller : UCC24612-2DBV|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'UCC24612-1DBV'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'UCC24612-2DBV'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-23-5'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/ucc24612.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'synchronous rectifier controller'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'High Frequency Synchronous Rectifier Controller</td><td> 800kHz</td><td> Min On Time = 540ns</td><td> SOT-23-5'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23*'</td></tr></table>]|
 ||||

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Sumida_CDMC6D28_7.25x6.5mm|
 |Hex ID (short code)|hexID|FZKINDUCTORSMLSUMIDACDMC6D28725X65|
 |name|name|Inductor_SMD : L_Sumida_CDMC6D28_7.25x6.5mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'L_Sumida_CDMC6D28_7.25x6.5mm', 'description': 'SMD Power Inductor (http://products.sumida.com/products/pdf/CDMC6D28.pdf)', 'tags': 'Inductor Sumida SMD CDMC6D28', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Sumida_CDMC6D28_7.25x6.5mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'L_Sumida_CDMC6D28_7.25x6.5mm'</td><td> 'description'</td></tr><tr><td> 'SMD Power Inductor (http</td></tr><tr><td>//products.sumida.com/products/pdf/CDMC6D28.pdf)'</td><td> 'tags'</td></tr><tr><td> 'Inductor Sumida SMD CDMC6D28'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Inductor_SMD.3dshapes/L_Sumida_CDMC6D28_7.25x6.5mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

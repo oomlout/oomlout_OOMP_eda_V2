@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORLINEARLM34815 > LM3480-15
+# SZKREGULATORLINEARLM34815 > Regulator_Linear : LM3480-15
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-LM3480-15
 - Hex ID: SZKREGULATORLINEARLM34815
-- Name: LM3480-15
-- Description: LM3480-15
+- Name: Regulator_Linear : LM3480-15
+- Description: Regulator_Linear : LM3480-15
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LM3480-15](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LM3480-15)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARLM34815](http://oom.lt/SZKREGULATORLINEARLM34815)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM3480-15|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-LM3480-15|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARLM34815|
-|name|name|LM3480-15|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LM3480-3.3', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM3480-15', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lm3480.pdf', 'kicadSymbolki_keywords': 'ldo linear fixed positive', 'kicadSymbolki_description': '100mA, Quasi Low Dropout Voltage Regulator, 15V positive fixed output, SOT-23 package', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
+|name|name|Regulator_Linear : LM3480-15|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'LM3480-3.3'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LM3480-15'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-23'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/lm3480.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'ldo linear fixed positive'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '100mA</td><td> Quasi Low Dropout Voltage Regulator</td><td> 15V positive fixed output</td><td> SOT-23 package'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23*'</td></tr></table>]|
 ||||

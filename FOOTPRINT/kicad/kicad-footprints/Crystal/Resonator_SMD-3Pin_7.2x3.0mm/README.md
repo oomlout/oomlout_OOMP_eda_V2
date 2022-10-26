@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Crystal-Resonator_SMD-3Pin_7.2x3.0mm|
 |Hex ID (short code)|hexID|FZKXRSM3PIN72X3|
 |name|name|Crystal : Resonator_SMD-3Pin_7.2x3.0mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Resonator_SMD-3Pin_7.2x3.0mm', 'description': 'SMD Resomator/Filter 7.2x3.0mm, Murata CSTCC8M00G53-R0; 8MHz resonator, SMD, Farnell (Element 14) #1170435, http://www.farnell.com/datasheets/19296.pdf?_ga=1.247244932.122297557.1475167906, 7.2x3.0mm^2 package', 'tags': 'SMD SMT ceramic resonator filter filter', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Resonator_SMD-3Pin_7.2x3.0mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Resonator_SMD-3Pin_7.2x3.0mm'</td><td> 'description'</td></tr><tr><td> 'SMD Resomator/Filter 7.2x3.0mm</td><td> Murata CSTCC8M00G53-R0; 8MHz resonator</td><td> SMD</td><td> Farnell (Element 14) #1170435</td><td> http</td></tr><tr><td>//www.farnell.com/datasheets/19296.pdf?_ga=1.247244932.122297557.1475167906</td><td> 7.2x3.0mm^2 package'</td><td> 'tags'</td></tr><tr><td> 'SMD SMT ceramic resonator filter filter'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Crystal.3dshapes/Resonator_SMD-3Pin_7.2x3.0mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

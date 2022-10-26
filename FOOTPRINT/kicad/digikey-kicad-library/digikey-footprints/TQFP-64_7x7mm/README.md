@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-TQFP-64_7x7mm|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSTQFP647X7|
 |name|name|digikey-footprints : TQFP-64_7x7mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'TQFP-64_7x7mm', 'description': 'http://www.nuvoton.com/resource-files/DS_NUC100_120%28DN%29_Series_EN_V1.02.pdf', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'TQFP-64_7x7mm'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//www.nuvoton.com/resource-files/DS_NUC100_120%28DN%29_Series_EN_V1.02.pdf'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

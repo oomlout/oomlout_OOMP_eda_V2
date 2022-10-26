@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORLINEARTLV7559PDRV > TLV75509PDRV
+# SZKREGULATORLINEARTLV7559PDRV > Regulator_Linear : TLV75509PDRV
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-TLV75509PDRV
 - Hex ID: SZKREGULATORLINEARTLV7559PDRV
-- Name: TLV75509PDRV
-- Description: TLV75509PDRV
+- Name: Regulator_Linear : TLV75509PDRV
+- Description: Regulator_Linear : TLV75509PDRV
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TLV75509PDRV](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TLV75509PDRV)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARTLV7559PDRV](http://oom.lt/SZKREGULATORLINEARTLV7559PDRV)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TLV75509PDRV|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-TLV75509PDRV|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARTLV7559PDRV|
-|name|name|TLV75509PDRV|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TLV75509PDRV', 'kicadSymbolFootprint': 'Package_SON:WSON-6-1EP_2x2mm_P0.65mm_EP1x1.6mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tlv755p.pdf', 'kicadSymbolki_keywords': 'LDO Regulator Fixed Positive', 'kicadSymbolki_description': '500mA Low Dropout Voltage Regulator, Fixed Output 0.9V, WSON6', 'kicadSymbolki_fp_filters': 'WSON*1EP*2x2mm*P0.65mm*'}]|
+|name|name|Regulator_Linear : TLV75509PDRV|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TLV75509PDRV'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SON</td></tr><tr><td>WSON-6-1EP_2x2mm_P0.65mm_EP1x1.6mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/tlv755p.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'LDO Regulator Fixed Positive'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '500mA Low Dropout Voltage Regulator</td><td> Fixed Output 0.9V</td><td> WSON6'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'WSON*1EP*2x2mm*P0.65mm*'</td></tr></table>]|
 ||||

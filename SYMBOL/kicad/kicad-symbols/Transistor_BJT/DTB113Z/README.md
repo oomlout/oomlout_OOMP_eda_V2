@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORBJTDTB113Z > DTB113Z
+# SZKTRANSISTORBJTDTB113Z > Transistor_BJT : DTB113Z
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-DTB113Z
 - Hex ID: SZKTRANSISTORBJTDTB113Z
-- Name: DTB113Z
-- Description: DTB113Z
+- Name: Transistor_BJT : DTB113Z
+- Description: Transistor_BJT : DTB113Z
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-DTB113Z](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-DTB113Z)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTDTB113Z](http://oom.lt/SZKTRANSISTORBJTDTB113Z)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DTB113Z|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_BJT-DTB113Z|
 |Hex ID (short code)|hexID|SZKTRANSISTORBJTDTB113Z|
-|name|name|DTB113Z|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'DTB113Z', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_keywords': 'ROHM Digital PNP Transistor', 'kicadSymbolki_description': 'Digital PNP Transistor, 1k/10k, SOT-23', 'kicadSymbolki_fp_filters': 'SOT?23* SC?59*'}]|
+|name|name|Transistor_BJT : DTB113Z|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'DTB113Z'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'ROHM Digital PNP Transistor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Digital PNP Transistor</td><td> 1k/10k</td><td> SOT-23'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23* SC?59*'</td></tr></table>]|
 ||||

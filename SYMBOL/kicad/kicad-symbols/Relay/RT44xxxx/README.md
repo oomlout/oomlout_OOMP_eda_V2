@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKRELAYRT44XXXX > RT44xxxx
+# SZKRELAYRT44XXXX > Relay : RT44xxxx
 
 - ID: SYMBOL-kicad-kicad-symbols-Relay-RT44xxxx
 - Hex ID: SZKRELAYRT44XXXX
-- Name: RT44xxxx
-- Description: RT44xxxx
+- Name: Relay : RT44xxxx
+- Description: Relay : RT44xxxx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-RT44xxxx](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-RT44xxxx)
 - Short Link: [http://oom.lt/SZKRELAYRT44XXXX](http://oom.lt/SZKRELAYRT44XXXX)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|RT44xxxx|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Relay-RT44xxxx|
 |Hex ID (short code)|hexID|SZKRELAYRT44XXXX|
-|name|name|RT44xxxx|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'K', 'kicadSymbolValue': 'RT44xxxx', 'kicadSymbolFootprint': 'Relay_THT:Relay_DPST_Schrack-RT2-FormA_RM5mm', 'kicadSymbolDatasheet': 'http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Data+Sheet%7FRT2%7F1014%7Fpdf%7FEnglish%7FENG_DS_RT2_1014.pdf%7F6-1393243-3', 'kicadSymbolki_keywords': 'TE DPST NO monostable', 'kicadSymbolki_description': 'Schrack RT2 relay, monostable dual pole normally open, DC or AC coil', 'kicadSymbolki_fp_filters': 'Relay*DPST*RT2*FormA*'}]|
+|name|name|Relay : RT44xxxx|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'K'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'RT44xxxx'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Relay_THT</td></tr><tr><td>Relay_DPST_Schrack-RT2-FormA_RM5mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Data+Sheet%7FRT2%7F1014%7Fpdf%7FEnglish%7FENG_DS_RT2_1014.pdf%7F6-1393243-3'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'TE DPST NO monostable'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Schrack RT2 relay</td><td> monostable dual pole normally open</td><td> DC or AC coil'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Relay*DPST*RT2*FormA*'</td></tr></table>]|
 ||||

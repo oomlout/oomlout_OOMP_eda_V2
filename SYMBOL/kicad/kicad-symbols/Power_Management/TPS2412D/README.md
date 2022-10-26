@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKPOWERMANAGEMENTTPS2412D > TPS2412D
+# SZKPOWERMANAGEMENTTPS2412D > Power_Management : TPS2412D
 
 - ID: SYMBOL-kicad-kicad-symbols-Power_Management-TPS2412D
 - Hex ID: SZKPOWERMANAGEMENTTPS2412D
-- Name: TPS2412D
-- Description: TPS2412D
+- Name: Power_Management : TPS2412D
+- Description: Power_Management : TPS2412D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-TPS2412D](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-TPS2412D)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTTPS2412D](http://oom.lt/SZKPOWERMANAGEMENTTPS2412D)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TPS2412D|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Management-TPS2412D|
 |Hex ID (short code)|hexID|SZKPOWERMANAGEMENTTPS2412D|
-|name|name|TPS2412D|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TPS2412D', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tps2412.pdf', 'kicadSymbolki_keywords': 'ideal-diode or-ing', 'kicadSymbolki_description': 'N+1 and ORing Power Rail Controller, SOIC-8', 'kicadSymbolki_fp_filters': 'TSSOP*4.4x3mm*P0.65mm* SOIC*3.9x4.9mm*P1.27mm*'}]|
+|name|name|Power_Management : TPS2412D|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TPS2412D'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/tps2412.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'ideal-diode or-ing'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'N+1 and ORing Power Rail Controller</td><td> SOIC-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TSSOP*4.4x3mm*P0.65mm* SOIC*3.9x4.9mm*P1.27mm*'</td></tr></table>]|
 ||||

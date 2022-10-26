@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSHEADI1XPI3OOEBH3OOEB > HEAD-I01-X-PI03-OOEB-H03OOEB
+# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSHEADI1XPI3OOEBH3OOEB > oomlout_OOMP_parts : HEAD-I01-X-PI03-OOEB-H03OOEB
 
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-I01-X-PI03-OOEB-H03OOEB
 - Hex ID: SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSHEADI1XPI3OOEBH3OOEB
-- Name: HEAD-I01-X-PI03-OOEB-H03OOEB
-- Description: HEAD-I01-X-PI03-OOEB-H03OOEB
+- Name: oomlout_OOMP_parts : HEAD-I01-X-PI03-OOEB-H03OOEB
+- Description: oomlout_OOMP_parts : HEAD-I01-X-PI03-OOEB-H03OOEB
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-I01-X-PI03-OOEB-H03OOEB](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-I01-X-PI03-OOEB-H03OOEB)
 - Short Link: [http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSHEADI1XPI3OOEBH3OOEB](http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSHEADI1XPI3OOEBH3OOEB)
   
@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|HEAD-I01-X-PI03-OOEB-H03OOEB|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-I01-X-PI03-OOEB-H03OOEB|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSHEADI1XPI3OOEBH3OOEB|
-|name|name|HEAD-I01-X-PI03-OOEB-H03OOEB|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'HEAD-I01-X-PI03-OOEB-H03OOEB', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:HEAD-I01-X-PI03-OOEB-H03OOEB', 'kicadSymbolDatasheet': 'oom.lt/H03OOEB', 'kicadSymbolki_keywords': 'connector', 'kicadSymbolki_description': 'hexID: H03OOEB;Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)', 'kicadSymbolki_fp_filters': 'Connector*:*_1x??_*'}]|
+|name|name|oomlout_OOMP_parts : HEAD-I01-X-PI03-OOEB-H03OOEB|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'J'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'HEAD-I01-X-PI03-OOEB-H03OOEB'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'oomlout_OOMP_parts</td></tr><tr><td>HEAD-I01-X-PI03-OOEB-H03OOEB'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'oom.lt/H03OOEB'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'connector'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'hexID</td></tr><tr><td> H03OOEB;Generic connector</td><td> single row</td><td> 01x03</td><td> script generated (kicad-library-utils/schlib/autogen/connector/)'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Connector*</td></tr><tr><td>*_1x??_*'</td></tr></table>]|
 ||||

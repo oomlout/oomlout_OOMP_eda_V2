@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKISOLATORANALOGACPLC79B > ACPL-C79B
+# SZKISOLATORANALOGACPLC79B > Isolator_Analog : ACPL-C79B
 
 - ID: SYMBOL-kicad-kicad-symbols-Isolator_Analog-ACPL-C79B
 - Hex ID: SZKISOLATORANALOGACPLC79B
-- Name: ACPL-C79B
-- Description: ACPL-C79B
+- Name: Isolator_Analog : ACPL-C79B
+- Description: Isolator_Analog : ACPL-C79B
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator_Analog-ACPL-C79B](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator_Analog-ACPL-C79B)
 - Short Link: [http://oom.lt/SZKISOLATORANALOGACPLC79B](http://oom.lt/SZKISOLATORANALOGACPLC79B)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ACPL-C79B|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Isolator_Analog-ACPL-C79B|
 |Hex ID (short code)|hexID|SZKISOLATORANALOGACPLC79B|
-|name|name|ACPL-C79B|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ACPL-C790', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ACPL-C79B', 'kicadSymbolFootprint': 'Package_SO:SSO-8_6.8x5.9mm_P1.27mm_Clearance8mm', 'kicadSymbolDatasheet': 'http://docs.avagotech.com/docs/AV02-2460EN', 'kicadSymbolki_keywords': 'Isolation Amplifer', 'kicadSymbolki_description': 'Precision Isolation Amplifer, ±0.5% Gain Tolerance, Bandwidth 200kHz, SSO-8', 'kicadSymbolki_fp_filters': 'SSO*6.8x5.9mm*P1.27mm*Clearance8mm*'}]|
+|name|name|Isolator_Analog : ACPL-C79B|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'ACPL-C790'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ACPL-C79B'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SSO-8_6.8x5.9mm_P1.27mm_Clearance8mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//docs.avagotech.com/docs/AV02-2460EN'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Isolation Amplifer'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Precision Isolation Amplifer</td><td> ±0.5% Gain Tolerance</td><td> Bandwidth 200kHz</td><td> SSO-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SSO*6.8x5.9mm*P1.27mm*Clearance8mm*'</td></tr></table>]|
 ||||

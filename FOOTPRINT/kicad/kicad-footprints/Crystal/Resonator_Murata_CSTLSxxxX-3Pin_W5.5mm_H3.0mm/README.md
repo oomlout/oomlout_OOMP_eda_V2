@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Crystal-Resonator_Murata_CSTLSxxxX-3Pin_W5.5mm_H3.0mm|
 |Hex ID (short code)|hexID|FZKXRMCSTLSXXXX3PINW55H3|
 |name|name|Crystal : Resonator_Murata_CSTLSxxxX-3Pin_W5.5mm_H3.0mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Resonator_Murata_CSTLSxxxX-3Pin_W5.5mm_H3.0mm', 'description': 'Ceramic Resomator/Filter Murata CSTLSxxxX, http://www.murata.com/~/media/webrenewal/support/library/catalog/products/timingdevice/ceralock/p17e.ashx, length*width=5.5x3.0mm^2 package, package length=5.5mm, package width=3.0mm, 3 pins', 'tags': 'THT ceramic resonator filter CSTLSxxxX', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Resonator_Murata_CSTLSxxxX-3Pin_W5.5mm_H3.0mm.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Resonator_Murata_CSTLSxxxX-3Pin_W5.5mm_H3.0mm'</td><td> 'description'</td></tr><tr><td> 'Ceramic Resomator/Filter Murata CSTLSxxxX</td><td> http</td></tr><tr><td>//www.murata.com/~/media/webrenewal/support/library/catalog/products/timingdevice/ceralock/p17e.ashx</td><td> length*width=5.5x3.0mm^2 package</td><td> package length=5.5mm</td><td> package width=3.0mm</td><td> 3 pins'</td><td> 'tags'</td></tr><tr><td> 'THT ceramic resonator filter CSTLSxxxX'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Crystal.3dshapes/Resonator_Murata_CSTLSxxxX-3Pin_W5.5mm_H3.0mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

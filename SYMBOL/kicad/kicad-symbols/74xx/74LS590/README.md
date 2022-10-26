@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZK74XX74LS59 > 74LS590
+# SZK74XX74LS59 > 74xx : 74LS590
 
 - ID: SYMBOL-kicad-kicad-symbols-74xx-74LS590
 - Hex ID: SZK74XX74LS59
-- Name: 74LS590
-- Description: 74LS590
+- Name: 74xx : 74LS590
+- Description: 74xx : 74LS590
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx-74LS590](http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx-74LS590)
 - Short Link: [http://oom.lt/SZK74XX74LS59](http://oom.lt/SZK74XX74LS59)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74LS590|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xx-74LS590|
 |Hex ID (short code)|hexID|SZK74XX74LS59|
-|name|name|74LS590|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '74HC590', 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74LS590', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/gpn/sn74ls590', 'kicadSymbolki_keywords': 'TTL Counter 3State', 'kicadSymbolki_description': '8-bit Binary Counter with Output Register 3-State Outputs, DIP-16/SOIC-16/SOIC-16W', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm* SOIC*3.9x9.9mm*P1.27mm* TSSOP*4.4x5mm*P0.65mm* SOIC*5.3x10.2mm*P1.27mm* SOIC*7.5x10.3mm*P1.27mm*'}]|
+|name|name|74xx : 74LS590|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> '74HC590'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> '74LS590'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/gpn/sn74ls590'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'TTL Counter 3State'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '8-bit Binary Counter with Output Register 3-State Outputs</td><td> DIP-16/SOIC-16/SOIC-16W'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W7.62mm* SOIC*3.9x9.9mm*P1.27mm* TSSOP*4.4x5mm*P0.65mm* SOIC*5.3x10.2mm*P1.27mm* SOIC*7.5x10.3mm*P1.27mm*'</td></tr></table>]|
 ||||

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_ASMB-KTF0-0A306|
 |Hex ID (short code)|hexID|FZKLSMLASMBKTFA36|
 |name|name|LED_SMD : LED_ASMB-KTF0-0A306|
-|Footprint Kicad|footprintKicadDetails|{'name': 'LED_ASMB-KTF0-0A306', 'description': '2220 Tricolor PLCC-4 LED, https://docs.broadcom.com/docs/ASMB-KTF0-0A306-DS100', 'tags': 'Tricolor LED', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED_ASMB-KTF0-0A306.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'LED_ASMB-KTF0-0A306'</td><td> 'description'</td></tr><tr><td> '2220 Tricolor PLCC-4 LED</td><td> https</td></tr><tr><td>//docs.broadcom.com/docs/ASMB-KTF0-0A306-DS100'</td><td> 'tags'</td></tr><tr><td> 'Tricolor LED'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/LED_SMD.3dshapes/LED_ASMB-KTF0-0A306.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

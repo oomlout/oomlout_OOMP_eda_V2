@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DIP-DIP-40_W25.4mm_Socket|
 |Hex ID (short code)|hexID|FZKDIPDIP4W254SO|
 |name|name|Package_DIP : DIP-40_W25.4mm_Socket|
-|Footprint Kicad|footprintKicadDetails|{'name': 'DIP-40_W25.4mm_Socket', 'description': '40-lead though-hole mounted DIP package, row spacing 25.4 mm (1000 mils), Socket', 'tags': 'THT DIP DIL PDIP 2.54mm 25.4mm 1000mil Socket', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DIP.3dshapes/DIP-40_W25.4mm_Socket.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'DIP-40_W25.4mm_Socket'</td><td> 'description'</td></tr><tr><td> '40-lead though-hole mounted DIP package</td><td> row spacing 25.4 mm (1000 mils)</td><td> Socket'</td><td> 'tags'</td></tr><tr><td> 'THT DIP DIL PDIP 2.54mm 25.4mm 1000mil Socket'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DIP.3dshapes/DIP-40_W25.4mm_Socket.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

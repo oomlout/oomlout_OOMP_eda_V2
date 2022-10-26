@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORFETFDMC832L > FDMC8032L
+# SZKTRANSISTORFETFDMC832L > Transistor_FET : FDMC8032L
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-FDMC8032L
 - Hex ID: SZKTRANSISTORFETFDMC832L
-- Name: FDMC8032L
-- Description: FDMC8032L
+- Name: Transistor_FET : FDMC8032L
+- Description: Transistor_FET : FDMC8032L
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-FDMC8032L](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-FDMC8032L)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETFDMC832L](http://oom.lt/SZKTRANSISTORFETFDMC832L)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|FDMC8032L|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-FDMC8032L|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETFDMC832L|
-|name|name|FDMC8032L|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'FDMC8032L', 'kicadSymbolFootprint': 'Package_SON:Fairchild_DualPower33-6_3x3mm', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pub/Collateral/FDMC8032L-D.PDF', 'kicadSymbolki_keywords': 'Dual N-Channel MOSFET', 'kicadSymbolki_description': '7A Id, 40V Vds, Dual N-Channel MOSFET, 20mOhm Ron, Power33 Package', 'kicadSymbolki_fp_filters': 'Fairchild*DualPower33*3x3mm*'}]|
+|name|name|Transistor_FET : FDMC8032L|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'FDMC8032L'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SON</td></tr><tr><td>Fairchild_DualPower33-6_3x3mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.onsemi.com/pub/Collateral/FDMC8032L-D.PDF'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Dual N-Channel MOSFET'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '7A Id</td><td> 40V Vds</td><td> Dual N-Channel MOSFET</td><td> 20mOhm Ron</td><td> Power33 Package'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Fairchild*DualPower33*3x3mm*'</td></tr></table>]|
 ||||

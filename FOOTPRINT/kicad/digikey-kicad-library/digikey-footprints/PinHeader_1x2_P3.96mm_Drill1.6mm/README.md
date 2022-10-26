@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-PinHeader_1x2_P3.96mm_Drill1.6mm|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSPINHEADER1X2P396DRILL16|
 |name|name|digikey-footprints : PinHeader_1x2_P3.96mm_Drill1.6mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'PinHeader_1x2_P3.96mm_Drill1.6mm', 'description': 'http://www.jst-mfg.com/product/pdf/eng/eVH.pdf', 'tags': None, 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'PinHeader_1x2_P3.96mm_Drill1.6mm'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//www.jst-mfg.com/product/pdf/eng/eVH.pdf'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

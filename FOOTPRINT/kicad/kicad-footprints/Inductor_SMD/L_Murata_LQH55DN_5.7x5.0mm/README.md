@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Murata_LQH55DN_5.7x5.0mm|
 |Hex ID (short code)|hexID|FZKINDUCTORSMLMLQH55DN57X5|
 |name|name|Inductor_SMD : L_Murata_LQH55DN_5.7x5.0mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'L_Murata_LQH55DN_5.7x5.0mm', 'description': 'Inductor, SMD, 5.7x5.0x4.7mm, https://search.murata.co.jp/Ceramy/image/img/P02/JELF243A-0045.pdf', 'tags': 'inductor smd', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Murata_LQH55DN_5.7x5.0mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'L_Murata_LQH55DN_5.7x5.0mm'</td><td> 'description'</td></tr><tr><td> 'Inductor</td><td> SMD</td><td> 5.7x5.0x4.7mm</td><td> https</td></tr><tr><td>//search.murata.co.jp/Ceramy/image/img/P02/JELF243A-0045.pdf'</td><td> 'tags'</td></tr><tr><td> 'inductor smd'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Inductor_SMD.3dshapes/L_Murata_LQH55DN_5.7x5.0mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

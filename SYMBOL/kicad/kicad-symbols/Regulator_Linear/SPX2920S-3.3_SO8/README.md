@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORLINEARSPX292S33SO8 > SPX2920S-3.3_SO8
+# SZKREGULATORLINEARSPX292S33SO8 > Regulator_Linear : SPX2920S-3.3_SO8
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-SPX2920S-3.3_SO8
 - Hex ID: SZKREGULATORLINEARSPX292S33SO8
-- Name: SPX2920S-3.3_SO8
-- Description: SPX2920S-3.3_SO8
+- Name: Regulator_Linear : SPX2920S-3.3_SO8
+- Description: Regulator_Linear : SPX2920S-3.3_SO8
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-SPX2920S-3.3_SO8](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-SPX2920S-3.3_SO8)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARSPX292S33SO8](http://oom.lt/SZKREGULATORLINEARSPX292S33SO8)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SPX2920S-3.3_SO8|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-SPX2920S-3.3_SO8|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARSPX292S33SO8|
-|name|name|SPX2920S-3.3_SO8|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'SPX2920S-3.3_SO8', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm', 'kicadSymbolDatasheet': 'http://www.zlgmcu.com/Sipex/LDO/PDF/spx2920.pdf', 'kicadSymbolki_keywords': 'LDO Voltage Regulator 400mA 3.3V Adjustable', 'kicadSymbolki_description': '400mA Fixed/Adjustable 1.2-20V Low Drop-out Voltage Regulator, SO-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm*'}]|
+|name|name|Regulator_Linear : SPX2920S-3.3_SO8|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'SPX2920S-3.3_SO8'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-8_3.9x4.9mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.zlgmcu.com/Sipex/LDO/PDF/spx2920.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'LDO Voltage Regulator 400mA 3.3V Adjustable'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '400mA Fixed/Adjustable 1.2-20V Low Drop-out Voltage Regulator</td><td> SO-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*3.9x4.9mm*P1.27mm*'</td></tr></table>]|
 ||||

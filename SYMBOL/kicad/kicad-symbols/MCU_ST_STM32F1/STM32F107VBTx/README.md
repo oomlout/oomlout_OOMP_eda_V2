@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUSTSTM32F1STM32F17VBTX > STM32F107VBTx
+# SZKMCUSTSTM32F1STM32F17VBTX > MCU_ST_STM32F1 : STM32F107VBTx
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F1-STM32F107VBTx
 - Hex ID: SZKMCUSTSTM32F1STM32F17VBTX
-- Name: STM32F107VBTx
-- Description: STM32F107VBTx
+- Name: MCU_ST_STM32F1 : STM32F107VBTx
+- Description: MCU_ST_STM32F1 : STM32F107VBTx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F1-STM32F107VBTx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F1-STM32F107VBTx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32F1STM32F17VBTX](http://oom.lt/SZKMCUSTSTM32F1STM32F17VBTX)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|STM32F107VBTx|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F1-STM32F107VBTx|
 |Hex ID (short code)|hexID|SZKMCUSTSTM32F1STM32F17VBTX|
-|name|name|STM32F107VBTx|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'STM32F107VBTx', 'kicadSymbolFootprint': 'Package_QFP:LQFP-100_14x14mm_P0.5mm', 'kicadSymbolDatasheet': 'http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00220364.pdf', 'kicadSymbolki_keywords': 'ARM Cortex-M3 STM32F1 STM32F105/107', 'kicadSymbolki_description': 'ARM Cortex-M3 MCU, 128KB flash, 64KB RAM, 72MHz, 2-3.6V, 82 GPIO, LQFP-100', 'kicadSymbolki_fp_filters': 'LQFP*14x14mm*P0.5mm*'}]|
+|name|name|MCU_ST_STM32F1 : STM32F107VBTx|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'STM32F107VBTx'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_QFP</td></tr><tr><td>LQFP-100_14x14mm_P0.5mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00220364.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'ARM Cortex-M3 STM32F1 STM32F105/107'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'ARM Cortex-M3 MCU</td><td> 128KB flash</td><td> 64KB RAM</td><td> 72MHz</td><td> 2-3.6V</td><td> 82 GPIO</td><td> LQFP-100'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'LQFP*14x14mm*P0.5mm*'</td></tr></table>]|
 ||||

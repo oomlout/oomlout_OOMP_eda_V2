@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORFETTP61L > TP0610L
+# SZKTRANSISTORFETTP61L > Transistor_FET : TP0610L
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-TP0610L
 - Hex ID: SZKTRANSISTORFETTP61L
-- Name: TP0610L
-- Description: TP0610L
+- Name: Transistor_FET : TP0610L
+- Description: Transistor_FET : TP0610L
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-TP0610L](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-TP0610L)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETTP61L](http://oom.lt/SZKTRANSISTORFETTP61L)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TP0610L|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-TP0610L|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETTP61L|
-|name|name|TP0610L|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'TP0610L', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-92L_Inline', 'kicadSymbolDatasheet': 'http://www.vishay.com/docs/70209/70209.pdf', 'kicadSymbolki_keywords': 'P-Channel MOSFET', 'kicadSymbolki_description': '-0.18A Id, -60V Vds, P-Channel MOSFET, TO-92', 'kicadSymbolki_fp_filters': 'TO?92L*'}]|
+|name|name|Transistor_FET : TP0610L|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TP0610L'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_THT</td></tr><tr><td>TO-92L_Inline'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.vishay.com/docs/70209/70209.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'P-Channel MOSFET'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '-0.18A Id</td><td> -60V Vds</td><td> P-Channel MOSFET</td><td> TO-92'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TO?92L*'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDICHARACTERMAN363A > MAN3630A
+# SZKDICHARACTERMAN363A > Display_Character : MAN3630A
 
 - ID: SYMBOL-kicad-kicad-symbols-Display_Character-MAN3630A
 - Hex ID: SZKDICHARACTERMAN363A
-- Name: MAN3630A
-- Description: MAN3630A
+- Name: Display_Character : MAN3630A
+- Description: Display_Character : MAN3630A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-MAN3630A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-MAN3630A)
 - Short Link: [http://oom.lt/SZKDICHARACTERMAN363A](http://oom.lt/SZKDICHARACTERMAN363A)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MAN3630A|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Display_Character-MAN3630A|
 |Hex ID (short code)|hexID|SZKDICHARACTERMAN363A|
-|name|name|MAN3630A|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MAN3630A', 'kicadSymbolFootprint': 'Display_7Segment:MAN3630A', 'kicadSymbolDatasheet': 'https://www.digchip.com/datasheets/parts/datasheet/161/MAN3640A-pdf.php', 'kicadSymbolki_keywords': 'display LED 7-segment', 'kicadSymbolki_description': 'Overflow 7 segment orange LED common anode', 'kicadSymbolki_fp_filters': '*MAN3630A*'}]|
+|name|name|Display_Character : MAN3630A|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MAN3630A'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Display_7Segment</td></tr><tr><td>MAN3630A'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.digchip.com/datasheets/parts/datasheet/161/MAN3640A-pdf.php'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'display LED 7-segment'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Overflow 7 segment orange LED common anode'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> '*MAN3630A*'</td></tr></table>]|
 ||||

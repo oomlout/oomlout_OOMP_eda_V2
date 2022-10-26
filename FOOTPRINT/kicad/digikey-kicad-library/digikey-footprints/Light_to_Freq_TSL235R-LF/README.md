@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Light_to_Freq_TSL235R-LF|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSLIGHTTOFREQTSL235RLF|
 |name|name|digikey-footprints : Light_to_Freq_TSL235R-LF|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Light_to_Freq_TSL235R-LF', 'description': 'file:///C:/Users/alex_wegscheid/Downloads/TSL235R_DS000120_2-00%20(6).pdf', 'tags': None, 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Light_to_Freq_TSL235R-LF'</td><td> 'description'</td></tr><tr><td> 'file</td></tr><tr><td>///C</td></tr><tr><td>/Users/alex_wegscheid/Downloads/TSL235R_DS000120_2-00%20(6).pdf'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

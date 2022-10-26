@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-OptoDevice-Lite-On_LTR-303ALS-01|
 |Hex ID (short code)|hexID|FZKOPLITEONLTR33ALS1|
 |name|name|OptoDevice : Lite-On_LTR-303ALS-01|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Lite-On_LTR-303ALS-01', 'description': 'ambient light sensor, i2c interface, 6-pin chipled package, http://optoelectronics.liteon.com/upload/download/DS86-2013-0004/LTR-303ALS-01_DS_V1.pdf', 'tags': 'ambient light sensor chipled', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/Lite-On_LTR-303ALS-01.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Lite-On_LTR-303ALS-01'</td><td> 'description'</td></tr><tr><td> 'ambient light sensor</td><td> i2c interface</td><td> 6-pin chipled package</td><td> http</td></tr><tr><td>//optoelectronics.liteon.com/upload/download/DS86-2013-0004/LTR-303ALS-01_DS_V1.pdf'</td><td> 'tags'</td></tr><tr><td> 'ambient light sensor chipled'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/OptoDevice.3dshapes/Lite-On_LTR-303ALS-01.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

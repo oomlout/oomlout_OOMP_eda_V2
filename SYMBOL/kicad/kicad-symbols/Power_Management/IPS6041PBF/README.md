@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKPOWERMANAGEMENTIPS641PBF > IPS6041PBF
+# SZKPOWERMANAGEMENTIPS641PBF > Power_Management : IPS6041PBF
 
 - ID: SYMBOL-kicad-kicad-symbols-Power_Management-IPS6041PBF
 - Hex ID: SZKPOWERMANAGEMENTIPS641PBF
-- Name: IPS6041PBF
-- Description: IPS6041PBF
+- Name: Power_Management : IPS6041PBF
+- Description: Power_Management : IPS6041PBF
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-IPS6041PBF](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-IPS6041PBF)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTIPS641PBF](http://oom.lt/SZKPOWERMANAGEMENTIPS641PBF)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IPS6041PBF|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Management-IPS6041PBF|
 |Hex ID (short code)|hexID|SZKPOWERMANAGEMENTIPS641PBF|
-|name|name|IPS6041PBF|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'IPS6011PBF', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'IPS6041PBF', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-220-5_Vertical', 'kicadSymbolDatasheet': 'http://www.irf.com/product-info/datasheets/data/ips6041pbf.pdf', 'kicadSymbolki_keywords': 'Intelligent Power Switch High Side MOSFET', 'kicadSymbolki_description': '39V, 5A, Intelligent Power Switch High Side, TO-220', 'kicadSymbolki_fp_filters': 'TO?220*'}]|
+|name|name|Power_Management : IPS6041PBF|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'IPS6011PBF'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'IPS6041PBF'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_THT</td></tr><tr><td>TO-220-5_Vertical'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.irf.com/product-info/datasheets/data/ips6041pbf.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Intelligent Power Switch High Side MOSFET'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '39V</td><td> 5A</td><td> Intelligent Power Switch High Side</td><td> TO-220'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TO?220*'</td></tr></table>]|
 ||||

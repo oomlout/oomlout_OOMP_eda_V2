@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SON-Diodes_PowerDI3333-8|
 |Hex ID (short code)|hexID|FZKSONDIODESPOWERDI33338|
 |name|name|Package_SON : Diodes_PowerDI3333-8|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Diodes_PowerDI3333-8', 'description': 'Diodes Incorporated PowerDI3333-8, Plastic Dual Flat No Lead Package, 3.3x3.3x0.8mm Body, https://www.diodes.com/assets/Package-Files/PowerDI3333-8.pdf', 'tags': 'PowerDI 0.65', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SON.3dshapes/Diodes_PowerDI3333-8.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Diodes_PowerDI3333-8'</td><td> 'description'</td></tr><tr><td> 'Diodes Incorporated PowerDI3333-8</td><td> Plastic Dual Flat No Lead Package</td><td> 3.3x3.3x0.8mm Body</td><td> https</td></tr><tr><td>//www.diodes.com/assets/Package-Files/PowerDI3333-8.pdf'</td><td> 'tags'</td></tr><tr><td> 'PowerDI 0.65'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_SON.3dshapes/Diodes_PowerDI3333-8.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

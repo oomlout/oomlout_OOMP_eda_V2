@@ -29,5 +29,5 @@ NO IMAGE
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Symbol-Symbol_CC-PublicDomain_CopperTop_Big|
 |Hex ID (short code)|hexID|FZKSZSYCCPUBLICDOMAINCTOPBIG|
 |name|name|Symbol : Symbol_CC-PublicDomain_CopperTop_Big|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Symbol_CC-PublicDomain_CopperTop_Big', 'description': 'Symbol, CC-PublicDomain, Copper Top, Big,', 'tags': 'Symbol, CC-PublicDomain, Copper Top, Big,', 'attributeType': None, 'pins': {}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Symbol_CC-PublicDomain_CopperTop_Big'</td><td> 'description'</td></tr><tr><td> 'Symbol</td><td> CC-PublicDomain</td><td> Copper Top</td><td> Big</td><td>'</td><td> 'tags'</td></tr><tr><td> 'Symbol</td><td> CC-PublicDomain</td><td> Copper Top</td><td> Big</td><td>'</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td></td></tr></table></td></tr></table>|
 ||||

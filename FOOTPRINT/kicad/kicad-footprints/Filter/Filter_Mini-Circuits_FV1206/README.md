@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Filter-Filter_Mini-Circuits_FV1206|
 |Hex ID (short code)|hexID|FZKFILFILMCIRCUITSFV126|
 |name|name|Filter : Filter_Mini-Circuits_FV1206|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Filter_Mini-Circuits_FV1206', 'description': 'Mini-Circuits Filter SMD 1206 https://ww2.minicircuits.com/case_style/FV1206.pdf', 'tags': 'Mini-Circuits Filter SMD 1206', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Filter.3dshapes/Filter_Mini-Circuits_FV1206.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Filter_Mini-Circuits_FV1206'</td><td> 'description'</td></tr><tr><td> 'Mini-Circuits Filter SMD 1206 https</td></tr><tr><td>//ww2.minicircuits.com/case_style/FV1206.pdf'</td><td> 'tags'</td></tr><tr><td> 'Mini-Circuits Filter SMD 1206'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Filter.3dshapes/Filter_Mini-Circuits_FV1206.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

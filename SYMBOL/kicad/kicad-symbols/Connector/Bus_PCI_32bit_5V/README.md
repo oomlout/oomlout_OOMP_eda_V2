@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKCNBUSPCI32BIT5V > Bus_PCI_32bit_5V
+# SZKCNBUSPCI32BIT5V > Connector : Bus_PCI_32bit_5V
 
 - ID: SYMBOL-kicad-kicad-symbols-Connector-Bus_PCI_32bit_5V
 - Hex ID: SZKCNBUSPCI32BIT5V
-- Name: Bus_PCI_32bit_5V
-- Description: Bus_PCI_32bit_5V
+- Name: Connector : Bus_PCI_32bit_5V
+- Description: Connector : Bus_PCI_32bit_5V
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-Bus_PCI_32bit_5V](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-Bus_PCI_32bit_5V)
 - Short Link: [http://oom.lt/SZKCNBUSPCI32BIT5V](http://oom.lt/SZKCNBUSPCI32BIT5V)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Bus_PCI_32bit_5V|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-Bus_PCI_32bit_5V|
 |Hex ID (short code)|hexID|SZKCNBUSPCI32BIT5V|
-|name|name|Bus_PCI_32bit_5V|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'Bus_PCI_32bit_5V', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://pinouts.ru/Slots/PCI_pinout.shtml', 'kicadSymbolki_keywords': 'PCI 5V', 'kicadSymbolki_description': 'PCI bus connector for 5V cards'}]|
+|name|name|Connector : Bus_PCI_32bit_5V|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'J'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Bus_PCI_32bit_5V'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//pinouts.ru/Slots/PCI_pinout.shtml'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'PCI 5V'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'PCI bus connector for 5V cards'</td></tr></table>]|
 ||||

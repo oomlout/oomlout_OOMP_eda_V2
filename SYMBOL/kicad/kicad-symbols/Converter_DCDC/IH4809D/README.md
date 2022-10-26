@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKCONIH489D > IH4809D
+# SZKCONIH489D > Converter_DCDC : IH4809D
 
 - ID: SYMBOL-kicad-kicad-symbols-Converter_DCDC-IH4809D
 - Hex ID: SZKCONIH489D
-- Name: IH4809D
-- Description: IH4809D
+- Name: Converter_DCDC : IH4809D
+- Description: Converter_DCDC : IH4809D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-IH4809D](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-IH4809D)
 - Short Link: [http://oom.lt/SZKCONIH489D](http://oom.lt/SZKCONIH489D)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IH4809D|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Converter_DCDC-IH4809D|
 |Hex ID (short code)|hexID|SZKCONIH489D|
-|name|name|IH4809D|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'IH0503D', 'kicadSymbolReference': 'PS', 'kicadSymbolValue': 'IH4809D', 'kicadSymbolFootprint': 'Converter_DCDC:Converter_DCDC_XP_POWER-IHxxxxD_THT', 'kicadSymbolDatasheet': 'https://www.xppower.com/pdfs/SF_IH.pdf', 'kicadSymbolki_keywords': 'XP_POWER DC/DC isolated Converter module', 'kicadSymbolki_description': 'XP Power 2W, 1000 VDC Isolated DC/DC Converter Module, Dual Output Voltage ±9V, ±111mA, 48V Input Voltage, DIP', 'kicadSymbolki_fp_filters': '*XP?POWER?IHxxxxD*'}]|
+|name|name|Converter_DCDC : IH4809D|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'IH0503D'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'PS'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'IH4809D'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Converter_DCDC</td></tr><tr><td>Converter_DCDC_XP_POWER-IHxxxxD_THT'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.xppower.com/pdfs/SF_IH.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'XP_POWER DC/DC isolated Converter module'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'XP Power 2W</td><td> 1000 VDC Isolated DC/DC Converter Module</td><td> Dual Output Voltage ±9V</td><td> ±111mA</td><td> 48V Input Voltage</td><td> DIP'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> '*XP?POWER?IHxxxxD*'</td></tr></table>]|
 ||||

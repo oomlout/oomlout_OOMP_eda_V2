@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Display-RC1602A|
 |Hex ID (short code)|hexID|FZKDIRC162A|
 |name|name|Display : RC1602A|
-|Footprint Kicad|footprintKicadDetails|{'name': 'RC1602A', 'description': 'http://www.raystar-optronics.com/down.php?ProID=18', 'tags': 'LCD 16x2 Alphanumeric 16pin', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Display.3dshapes/RC1602A.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'RC1602A'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//www.raystar-optronics.com/down.php?ProID=18'</td><td> 'tags'</td></tr><tr><td> 'LCD 16x2 Alphanumeric 16pin'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Display.3dshapes/RC1602A.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

@@ -29,5 +29,5 @@ NO IMAGE
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Symbol-OSHW-Logo2_14.6x12mm_Copper|
 |Hex ID (short code)|hexID|FZKSZOSHWL2146X12C|
 |name|name|Symbol : OSHW-Logo2_14.6x12mm_Copper|
-|Footprint Kicad|footprintKicadDetails|{'name': 'OSHW-Logo2_14.6x12mm_Copper', 'description': 'Open Source Hardware Symbol', 'tags': 'Logo Symbol OSHW', 'attributeType': None, 'pins': {}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'OSHW-Logo2_14.6x12mm_Copper'</td><td> 'description'</td></tr><tr><td> 'Open Source Hardware Symbol'</td><td> 'tags'</td></tr><tr><td> 'Logo Symbol OSHW'</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td></td></tr></table></td></tr></table>|
 ||||

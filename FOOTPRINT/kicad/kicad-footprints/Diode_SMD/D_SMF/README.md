@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_SMF|
 |Hex ID (short code)|hexID|FZKDIODESMDSMF|
 |name|name|Diode_SMD : D_SMF|
-|Footprint Kicad|footprintKicadDetails|{'name': 'D_SMF', 'description': 'Diode SMF (DO-219AB), http://www.vishay.com/docs/95572/smf_do-219ab.pdf', 'tags': 'Diode SMF (DO-214AB)', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SMF.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'D_SMF'</td><td> 'description'</td></tr><tr><td> 'Diode SMF (DO-219AB)</td><td> http</td></tr><tr><td>//www.vishay.com/docs/95572/smf_do-219ab.pdf'</td><td> 'tags'</td></tr><tr><td> 'Diode SMF (DO-214AB)'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Diode_SMD.3dshapes/D_SMF.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

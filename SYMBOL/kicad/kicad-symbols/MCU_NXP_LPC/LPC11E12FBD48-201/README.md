@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUNXPLPCLPC11E12FBD4821 > LPC11E12FBD48-201
+# SZKMCUNXPLPCLPC11E12FBD4821 > MCU_NXP_LPC : LPC11E12FBD48-201
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_NXP_LPC-LPC11E12FBD48-201
 - Hex ID: SZKMCUNXPLPCLPC11E12FBD4821
-- Name: LPC11E12FBD48-201
-- Description: LPC11E12FBD48-201
+- Name: MCU_NXP_LPC : LPC11E12FBD48-201
+- Description: MCU_NXP_LPC : LPC11E12FBD48-201
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_LPC-LPC11E12FBD48-201](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_LPC-LPC11E12FBD48-201)
 - Short Link: [http://oom.lt/SZKMCUNXPLPCLPC11E12FBD4821](http://oom.lt/SZKMCUNXPLPCLPC11E12FBD4821)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LPC11E12FBD48-201|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_NXP_LPC-LPC11E12FBD48-201|
 |Hex ID (short code)|hexID|SZKMCUNXPLPCLPC11E12FBD4821|
-|name|name|LPC11E12FBD48-201|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LPC11E12FBD48-201', 'kicadSymbolFootprint': 'Package_QFP:LQFP-48_7x7mm_P0.5mm', 'kicadSymbolDatasheet': 'http://www.nxp.com/documents/data_sheet/LPC11E1X.pdf', 'kicadSymbolki_keywords': 'nxp lpc arm microcontroller cortex', 'kicadSymbolki_description': 'LPC11E1x, 50MHz Cortex-M0 MCU, 16kB Flash, 1kB EEPROM, 6kB SRAM, USART, I2C, SSP, ADC, Power Profile, LQFP48', 'kicadSymbolki_fp_filters': '*QFP*7x7mm*P0.5mm*'}]|
+|name|name|MCU_NXP_LPC : LPC11E12FBD48-201|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LPC11E12FBD48-201'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_QFP</td></tr><tr><td>LQFP-48_7x7mm_P0.5mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.nxp.com/documents/data_sheet/LPC11E1X.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'nxp lpc arm microcontroller cortex'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'LPC11E1x</td><td> 50MHz Cortex-M0 MCU</td><td> 16kB Flash</td><td> 1kB EEPROM</td><td> 6kB SRAM</td><td> USART</td><td> I2C</td><td> SSP</td><td> ADC</td><td> Power Profile</td><td> LQFP48'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> '*QFP*7x7mm*P0.5mm*'</td></tr></table>]|
 ||||

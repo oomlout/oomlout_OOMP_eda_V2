@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector-Tag-Connect_TC2050-IDC-NL_2x05_P1.27mm_Vertical_with_bottom_clip|
 |Hex ID (short code)|hexID|FZKCNTAGCONNECTTC25IDCNL2X5P127VERTICALWITHBOTTOMCLIP|
 |name|name|Connector : Tag-Connect_TC2050-IDC-NL_2x05_P1.27mm_Vertical_with_bottom_clip|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Tag-Connect_TC2050-IDC-NL_2x05_P1.27mm_Vertical_with_bottom_clip', 'description': 'Tag-Connect programming header with bottom courtyard for TC2050-NL Clip board ; https://www.tag-connect.com/wp-content/uploads/bsk-pdf-manager/TC2050-IDC-NL_Datasheet_8.pdf https://www.tag-connect.com/wp-content/uploads/bsk-pdf-manager/TC2050-CLIP_Datasheet_25.pdf', 'tags': 'tag connect programming header pogo pins', 'attributeType': None, 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Tag-Connect_TC2050-IDC-NL_2x05_P1.27mm_Vertical_with_bottom_clip'</td><td> 'description'</td></tr><tr><td> 'Tag-Connect programming header with bottom courtyard for TC2050-NL Clip board ; https</td></tr><tr><td>//www.tag-connect.com/wp-content/uploads/bsk-pdf-manager/TC2050-IDC-NL_Datasheet_8.pdf https</td></tr><tr><td>//www.tag-connect.com/wp-content/uploads/bsk-pdf-manager/TC2050-CLIP_Datasheet_25.pdf'</td><td> 'tags'</td></tr><tr><td> 'tag connect programming header pogo pins'</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

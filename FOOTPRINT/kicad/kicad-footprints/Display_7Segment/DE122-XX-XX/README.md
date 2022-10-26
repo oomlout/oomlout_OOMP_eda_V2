@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Display_7Segment-DE122-XX-XX|
 |Hex ID (short code)|hexID|FZKDI7SDE122XXXX|
 |name|name|Display_7Segment : DE122-XX-XX|
-|Footprint Kicad|footprintKicadDetails|{'name': 'DE122-XX-XX', 'description': 'http://www.display-elektronik.de/filter/DE122-RS-20_635.pdf', 'tags': '6 digit 7 segment LCD ', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Display_7Segment.3dshapes/DE122-XX-XX.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'DE122-XX-XX'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//www.display-elektronik.de/filter/DE122-RS-20_635.pdf'</td><td> 'tags'</td></tr><tr><td> '6 digit 7 segment LCD '</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Display_7Segment.3dshapes/DE122-XX-XX.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

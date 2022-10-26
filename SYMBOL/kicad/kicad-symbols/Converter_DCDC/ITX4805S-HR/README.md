@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKCONITX485SHR > ITX4805S-HR
+# SZKCONITX485SHR > Converter_DCDC : ITX4805S-HR
 
 - ID: SYMBOL-kicad-kicad-symbols-Converter_DCDC-ITX4805S-HR
 - Hex ID: SZKCONITX485SHR
-- Name: ITX4805S-HR
-- Description: ITX4805S-HR
+- Name: Converter_DCDC : ITX4805S-HR
+- Description: Converter_DCDC : ITX4805S-HR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-ITX4805S-HR](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-ITX4805S-HR)
 - Short Link: [http://oom.lt/SZKCONITX485SHR](http://oom.lt/SZKCONITX485SHR)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ITX4805S-HR|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Converter_DCDC-ITX4805S-HR|
 |Hex ID (short code)|hexID|SZKCONITX485SHR|
-|name|name|ITX4805S-HR|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ITX0505S-R', 'kicadSymbolReference': 'PS', 'kicadSymbolValue': 'ITX4805S-HR', 'kicadSymbolFootprint': 'Converter_DCDC:Converter_DCDC_XP_POWER-ITxxxxxS_THT', 'kicadSymbolDatasheet': 'https://www.xppower.com/pdfs/SF_ITX.pdf', 'kicadSymbolki_keywords': 'XP_POWER DC/DC isolated Converter module', 'kicadSymbolki_description': 'XP Power 6W, 3000 VDC Isolated DC/DC Converter Module, Remote Control, Fully Regulated Dual Output Voltage ±5V, ±600mA, 48V Input Voltage, SIP', 'kicadSymbolki_fp_filters': '*XP?POWER?ITxxxxx*'}]|
+|name|name|Converter_DCDC : ITX4805S-HR|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'ITX0505S-R'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'PS'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ITX4805S-HR'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Converter_DCDC</td></tr><tr><td>Converter_DCDC_XP_POWER-ITxxxxxS_THT'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.xppower.com/pdfs/SF_ITX.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'XP_POWER DC/DC isolated Converter module'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'XP Power 6W</td><td> 3000 VDC Isolated DC/DC Converter Module</td><td> Remote Control</td><td> Fully Regulated Dual Output Voltage ±5V</td><td> ±600mA</td><td> 48V Input Voltage</td><td> SIP'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> '*XP?POWER?ITxxxxx*'</td></tr></table>]|
 ||||

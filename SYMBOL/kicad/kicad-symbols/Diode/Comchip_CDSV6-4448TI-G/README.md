@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDIODECOMCHIPCDSV64448TIG > Comchip_CDSV6-4448TI-G
+# SZKDIODECOMCHIPCDSV64448TIG > Diode : Comchip_CDSV6-4448TI-G
 
 - ID: SYMBOL-kicad-kicad-symbols-Diode-Comchip_CDSV6-4448TI-G
 - Hex ID: SZKDIODECOMCHIPCDSV64448TIG
-- Name: Comchip_CDSV6-4448TI-G
-- Description: Comchip_CDSV6-4448TI-G
+- Name: Diode : Comchip_CDSV6-4448TI-G
+- Description: Diode : Comchip_CDSV6-4448TI-G
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-Comchip_CDSV6-4448TI-G](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-Comchip_CDSV6-4448TI-G)
 - Short Link: [http://oom.lt/SZKDIODECOMCHIPCDSV64448TIG](http://oom.lt/SZKDIODECOMCHIPCDSV64448TIG)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Comchip_CDSV6-4448TI-G|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-Comchip_CDSV6-4448TI-G|
 |Hex ID (short code)|hexID|SZKDIODECOMCHIPCDSV64448TIG|
-|name|name|Comchip_CDSV6-4448TI-G|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BAS16TW', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'Comchip_CDSV6-4448TI-G', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-363_SC-70-6', 'kicadSymbolDatasheet': 'http://www.comchiptech.com/cms/UserFiles/CDSV6-4448XX-G%20RevC285574.pdf', 'kicadSymbolki_keywords': 'diode', 'kicadSymbolki_description': 'High speed switching diode array 3 independent', 'kicadSymbolki_fp_filters': '*SOT?363*'}]|
+|name|name|Diode : Comchip_CDSV6-4448TI-G|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'BAS16TW'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Comchip_CDSV6-4448TI-G'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-363_SC-70-6'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.comchiptech.com/cms/UserFiles/CDSV6-4448XX-G%20RevC285574.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'diode'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'High speed switching diode array 3 independent'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> '*SOT?363*'</td></tr></table>]|
 ||||

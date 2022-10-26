@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKOCSSG82CA > SG-8002CA
+# SZKOCSSG82CA > Oscillator : SG-8002CA
 
 - ID: SYMBOL-kicad-kicad-symbols-Oscillator-SG-8002CA
 - Hex ID: SZKOCSSG82CA
-- Name: SG-8002CA
-- Description: SG-8002CA
+- Name: Oscillator : SG-8002CA
+- Description: Oscillator : SG-8002CA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-SG-8002CA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-SG-8002CA)
 - Short Link: [http://oom.lt/SZKOCSSG82CA](http://oom.lt/SZKOCSSG82CA)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SG-8002CA|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Oscillator-SG-8002CA|
 |Hex ID (short code)|hexID|SZKOCSSG82CA|
-|name|name|SG-8002CA|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'X', 'kicadSymbolValue': 'SG-8002CA', 'kicadSymbolFootprint': 'Oscillator:Oscillator_SMD_SeikoEpson_SG8002CA-4Pin_7.0x5.0mm', 'kicadSymbolDatasheet': 'https://support.epson.biz/td/api/doc_check.php?mode=dl&lang=en&Parts=SG-8002DC', 'kicadSymbolki_keywords': 'Crystal Clock Oscillator', 'kicadSymbolki_description': 'CMOS Clock Oscillator 1 to 125 MHz', 'kicadSymbolki_fp_filters': 'Oscillator*SMD*SeikoEpson*SG8002CA*7.0x5.0mm*'}]|
+|name|name|Oscillator : SG-8002CA|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'X'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'SG-8002CA'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Oscillator</td></tr><tr><td>Oscillator_SMD_SeikoEpson_SG8002CA-4Pin_7.0x5.0mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//support.epson.biz/td/api/doc_check.php?mode=dl&lang=en&Parts=SG-8002DC'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Crystal Clock Oscillator'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'CMOS Clock Oscillator 1 to 125 MHz'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Oscillator*SMD*SeikoEpson*SG8002CA*7.0x5.0mm*'</td></tr></table>]|
 ||||

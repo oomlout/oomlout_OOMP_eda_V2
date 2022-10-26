@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKBATMANAGEMENTBQ2473RGT > BQ24073RGT
+# SZKBATMANAGEMENTBQ2473RGT > Battery_Management : BQ24073RGT
 
 - ID: SYMBOL-kicad-kicad-symbols-Battery_Management-BQ24073RGT
 - Hex ID: SZKBATMANAGEMENTBQ2473RGT
-- Name: BQ24073RGT
-- Description: BQ24073RGT
+- Name: Battery_Management : BQ24073RGT
+- Description: Battery_Management : BQ24073RGT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-BQ24073RGT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-BQ24073RGT)
 - Short Link: [http://oom.lt/SZKBATMANAGEMENTBQ2473RGT](http://oom.lt/SZKBATMANAGEMENTBQ2473RGT)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BQ24073RGT|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Battery_Management-BQ24073RGT|
 |Hex ID (short code)|hexID|SZKBATMANAGEMENTBQ2473RGT|
-|name|name|BQ24073RGT|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BQ24072RGT', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'BQ24073RGT', 'kicadSymbolFootprint': 'Package_DFN_QFN:VQFN-16-1EP_3x3mm_P0.5mm_EP1.6x1.6mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/bq24073.pdf', 'kicadSymbolki_keywords': 'USB Charge', 'kicadSymbolki_description': 'USB-Friendly Li-Ion Battery Charger and Power-Path Management, VQFN-16', 'kicadSymbolki_fp_filters': 'VQFN*1EP*3x3mm*P0.5mm*'}]|
+|name|name|Battery_Management : BQ24073RGT|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'BQ24072RGT'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'BQ24073RGT'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>VQFN-16-1EP_3x3mm_P0.5mm_EP1.6x1.6mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/bq24073.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'USB Charge'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'USB-Friendly Li-Ion Battery Charger and Power-Path Management</td><td> VQFN-16'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'VQFN*1EP*3x3mm*P0.5mm*'</td></tr></table>]|
 ||||

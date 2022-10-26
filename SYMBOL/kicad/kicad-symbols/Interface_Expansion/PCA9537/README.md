@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKINTERFACEEXPANSIONPCA9537 > PCA9537
+# SZKINTERFACEEXPANSIONPCA9537 > Interface_Expansion : PCA9537
 
 - ID: SYMBOL-kicad-kicad-symbols-Interface_Expansion-PCA9537
 - Hex ID: SZKINTERFACEEXPANSIONPCA9537
-- Name: PCA9537
-- Description: PCA9537
+- Name: Interface_Expansion : PCA9537
+- Description: Interface_Expansion : PCA9537
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Expansion-PCA9537](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Expansion-PCA9537)
 - Short Link: [http://oom.lt/SZKINTERFACEEXPANSIONPCA9537](http://oom.lt/SZKINTERFACEEXPANSIONPCA9537)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PCA9537|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_Expansion-PCA9537|
 |Hex ID (short code)|hexID|SZKINTERFACEEXPANSIONPCA9537|
-|name|name|PCA9537|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PCA9537', 'kicadSymbolFootprint': 'Package_SO:TSSOP-10_3x3mm_P0.5mm', 'kicadSymbolDatasheet': 'https://www.nxp.com/docs/en/data-sheet/PCA9537.pdf', 'kicadSymbolki_keywords': 'i2c io port', 'kicadSymbolki_description': '4-bit I2C-bus and SMBus IO port with interrupt and reset, TSSOP-10', 'kicadSymbolki_fp_filters': 'TSSOP*3x3mm*P0.5mm*'}]|
+|name|name|Interface_Expansion : PCA9537|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'PCA9537'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>TSSOP-10_3x3mm_P0.5mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.nxp.com/docs/en/data-sheet/PCA9537.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'i2c io port'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '4-bit I2C-bus and SMBus IO port with interrupt and reset</td><td> TSSOP-10'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TSSOP*3x3mm*P0.5mm*'</td></tr></table>]|
 ||||

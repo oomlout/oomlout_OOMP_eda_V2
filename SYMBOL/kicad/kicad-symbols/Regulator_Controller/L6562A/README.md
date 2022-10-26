@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORCONTROLLERL6562A > L6562A
+# SZKREGULATORCONTROLLERL6562A > Regulator_Controller : L6562A
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Controller-L6562A
 - Hex ID: SZKREGULATORCONTROLLERL6562A
-- Name: L6562A
-- Description: L6562A
+- Name: Regulator_Controller : L6562A
+- Description: Regulator_Controller : L6562A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-L6562A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-L6562A)
 - Short Link: [http://oom.lt/SZKREGULATORCONTROLLERL6562A](http://oom.lt/SZKREGULATORCONTROLLERL6562A)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|L6562A|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Controller-L6562A|
 |Hex ID (short code)|hexID|SZKREGULATORCONTROLLERL6562A|
-|name|name|L6562A|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'L6561', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'L6562A', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.st.com/resource/en/datasheet/l6562a.pdf', 'kicadSymbolki_keywords': 'SMPS pfc controller', 'kicadSymbolki_description': 'Transition-Mode PFC Controller, DIP-8/SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm* DIP*W7.62mm*'}]|
+|name|name|Regulator_Controller : L6562A|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'L6561'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'L6562A'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.st.com/resource/en/datasheet/l6562a.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'SMPS pfc controller'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Transition-Mode PFC Controller</td><td> DIP-8/SOIC-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*3.9x4.9mm*P1.27mm* DIP*W7.62mm*'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORSWITCHINGTNY287K > TNY287K
+# SZKREGULATORSWITCHINGTNY287K > Regulator_Switching : TNY287K
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-TNY287K
 - Hex ID: SZKREGULATORSWITCHINGTNY287K
-- Name: TNY287K
-- Description: TNY287K
+- Name: Regulator_Switching : TNY287K
+- Description: Regulator_Switching : TNY287K
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TNY287K](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TNY287K)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGTNY287K](http://oom.lt/SZKREGULATORSWITCHINGTNY287K)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TNY287K|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-TNY287K|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGTNY287K|
-|name|name|TNY287K|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TNY284K', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TNY287K', 'kicadSymbolFootprint': 'Package_SO:PowerIntegrations_eSOP-12B', 'kicadSymbolDatasheet': 'https://ac-dc.power.com/sites/default/files/product-docs/tinyswitch-4_family_datasheet.pdf', 'kicadSymbolki_keywords': 'Energy-Efficient, Off-Line Switcher With Line Compensated Overload Power', 'kicadSymbolki_description': 'TinySwitch-4 Family, 18W Output Power, eSOP-12B', 'kicadSymbolki_fp_filters': 'PowerIntegrations?eSOP?12B*'}]|
+|name|name|Regulator_Switching : TNY287K|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'TNY284K'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TNY287K'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>PowerIntegrations_eSOP-12B'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//ac-dc.power.com/sites/default/files/product-docs/tinyswitch-4_family_datasheet.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Energy-Efficient</td><td> Off-Line Switcher With Line Compensated Overload Power'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'TinySwitch-4 Family</td><td> 18W Output Power</td><td> eSOP-12B'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'PowerIntegrations?eSOP?12B*'</td></tr></table>]|
 ||||

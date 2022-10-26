@@ -29,5 +29,5 @@ NO IMAGE
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Transformer_CHK_EI42-5VA_2xSec|
 |Hex ID (short code)|hexID|FZKTRTRCHKEI425VA2XSEC|
 |name|name|Transformer_THT : Transformer_CHK_EI42-5VA_2xSec|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Transformer_CHK_EI42-5VA_2xSec', 'description': 'Trafo, Printtrafo, CHK, EI42, 5VA, 2x Sec,', 'tags': 'Trafo Printtrafo CHK EI42 5VA 2x Sec ', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Transformer_THT.3dshapes/Transformer_CHK_EI42-5VA_2xSec.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Transformer_CHK_EI42-5VA_2xSec'</td><td> 'description'</td></tr><tr><td> 'Trafo</td><td> Printtrafo</td><td> CHK</td><td> EI42</td><td> 5VA</td><td> 2x Sec</td><td>'</td><td> 'tags'</td></tr><tr><td> 'Trafo Printtrafo CHK EI42 5VA 2x Sec '</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Transformer_THT.3dshapes/Transformer_CHK_EI42-5VA_2xSec.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

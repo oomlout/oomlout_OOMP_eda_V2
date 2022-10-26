@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-LED_Breakout_Parallax_WS2812B|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSLBREAKOUTPARALLAXWS2812B|
 |name|name|digikey-footprints : LED_Breakout_Parallax_WS2812B|
-|Footprint Kicad|footprintKicadDetails|{'name': 'LED_Breakout_Parallax_WS2812B', 'description': 'https://www.parallax.com/product/28086', 'tags': None, 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'LED_Breakout_Parallax_WS2812B'</td><td> 'description'</td></tr><tr><td> 'https</td></tr><tr><td>//www.parallax.com/product/28086'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

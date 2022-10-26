@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKAUDIOCS427 > CS4270
+# SZKAUDIOCS427 > Audio : CS4270
 
 - ID: SYMBOL-kicad-kicad-symbols-Audio-CS4270
 - Hex ID: SZKAUDIOCS427
-- Name: CS4270
-- Description: CS4270
+- Name: Audio : CS4270
+- Description: Audio : CS4270
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-CS4270](http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-CS4270)
 - Short Link: [http://oom.lt/SZKAUDIOCS427](http://oom.lt/SZKAUDIOCS427)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|CS4270|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Audio-CS4270|
 |Hex ID (short code)|hexID|SZKAUDIOCS427|
-|name|name|CS4270|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'CS4270', 'kicadSymbolFootprint': 'Package_SO:TSSOP-24_4.4x7.8mm_P0.65mm', 'kicadSymbolDatasheet': 'https://statics.cirrus.com/pubs/proDatasheet/CS4270_F1.pdf', 'kicadSymbolki_keywords': 'Audio Codec', 'kicadSymbolki_description': '24-Bit, 192-kHz Stereo Audio CODEC, TSSOP-24', 'kicadSymbolki_fp_filters': 'TSSOP*4.4x7.8mm*P0.65mm*'}]|
+|name|name|Audio : CS4270|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'CS4270'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>TSSOP-24_4.4x7.8mm_P0.65mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//statics.cirrus.com/pubs/proDatasheet/CS4270_F1.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Audio Codec'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '24-Bit</td><td> 192-kHz Stereo Audio CODEC</td><td> TSSOP-24'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TSSOP*4.4x7.8mm*P0.65mm*'</td></tr></table>]|
 ||||

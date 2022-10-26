@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKBATMANAGEMENTMAX713MJE > MAX713MJE
+# SZKBATMANAGEMENTMAX713MJE > Battery_Management : MAX713MJE
 
 - ID: SYMBOL-kicad-kicad-symbols-Battery_Management-MAX713MJE
 - Hex ID: SZKBATMANAGEMENTMAX713MJE
-- Name: MAX713MJE
-- Description: MAX713MJE
+- Name: Battery_Management : MAX713MJE
+- Description: Battery_Management : MAX713MJE
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-MAX713MJE](http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-MAX713MJE)
 - Short Link: [http://oom.lt/SZKBATMANAGEMENTMAX713MJE](http://oom.lt/SZKBATMANAGEMENTMAX713MJE)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MAX713MJE|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Battery_Management-MAX713MJE|
 |Hex ID (short code)|hexID|SZKBATMANAGEMENTMAX713MJE|
-|name|name|MAX713MJE|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MAX712CPE', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MAX713MJE', 'kicadSymbolFootprint': 'Package_DIP:DIP-16_W7.62mm', 'kicadSymbolDatasheet': 'https://datasheets.maximintegrated.com/en/ds/MAX712-MAX713.pdf', 'kicadSymbolki_keywords': 'Fast-charge Nickel Cadmium (NiCd) from a DC source, ceramic, -55 to +125 Degree Celsius, PDIP-16', 'kicadSymbolki_description': 'Fast-charge Nickel Cadmium (NiCd) from a DC source, ceramic, -55 to +125 Degree Celsius, PDIP-16', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
+|name|name|Battery_Management : MAX713MJE|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'MAX712CPE'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MAX713MJE'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>DIP-16_W7.62mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//datasheets.maximintegrated.com/en/ds/MAX712-MAX713.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Fast-charge Nickel Cadmium (NiCd) from a DC source</td><td> ceramic</td><td> -55 to +125 Degree Celsius</td><td> PDIP-16'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Fast-charge Nickel Cadmium (NiCd) from a DC source</td><td> ceramic</td><td> -55 to +125 Degree Celsius</td><td> PDIP-16'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W7.62mm*'</td></tr></table>]|
 ||||

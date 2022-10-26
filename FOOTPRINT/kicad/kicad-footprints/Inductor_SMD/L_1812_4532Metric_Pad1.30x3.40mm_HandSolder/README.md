@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_1812_4532Metric_Pad1.30x3.40mm_HandSolder|
 |Hex ID (short code)|hexID|FZKINDUCTORSML18124532METRICPAD13X34HANDSOLDER|
 |name|name|Inductor_SMD : L_1812_4532Metric_Pad1.30x3.40mm_HandSolder|
-|Footprint Kicad|footprintKicadDetails|{'name': 'L_1812_4532Metric_Pad1.30x3.40mm_HandSolder', 'description': 'Inductor SMD 1812 (4532 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: https://www.nikhef.nl/pub/departments/mt/projects/detectorR_D/dtddice/ERJ2G.pdf), generated with kicad-footprint-generator', 'tags': 'inductor handsolder', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_1812_4532Metric.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'L_1812_4532Metric_Pad1.30x3.40mm_HandSolder'</td><td> 'description'</td></tr><tr><td> 'Inductor SMD 1812 (4532 Metric)</td><td> square (rectangular) end terminal</td><td> IPC_7351 nominal with elongated pad for handsoldering. (Body size source</td></tr><tr><td> https</td></tr><tr><td>//www.nikhef.nl/pub/departments/mt/projects/detectorR_D/dtddice/ERJ2G.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'inductor handsolder'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Inductor_SMD.3dshapes/L_1812_4532Metric.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Fuse-Fuseholder_Clip-5x20mm_Schurter_OG_Lateral_P15.00x5.00mm_D1.3mm_Horizontal|
 |Hex ID (short code)|hexID|FZKFUFUHOLDERCLIP5X2SCHURTEROGLATERALP15X5D13HORIZONTAL|
 |name|name|Fuse : Fuseholder_Clip-5x20mm_Schurter_OG_Lateral_P15.00x5.00mm_D1.3mm_Horizontal|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Fuseholder_Clip-5x20mm_Schurter_OG_Lateral_P15.00x5.00mm_D1.3mm_Horizontal', 'description': 'Fuseholder Clips, 5x20mm Cylinder Fuse, Pins Inline, Horizontal, Schurter OG, https://ch.schurter.com/en/datasheet/typ_OG__Clip__5x20.pdf', 'tags': 'fuse clip open', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Fuse.3dshapes/Fuseholder_Clip-5x20mm_Schurter_OG_Lateral_P15.00x5.00mm_D1.3mm_Horizontal.wrl', 'pins': {'type': 'thru_hole', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Fuseholder_Clip-5x20mm_Schurter_OG_Lateral_P15.00x5.00mm_D1.3mm_Horizontal'</td><td> 'description'</td></tr><tr><td> 'Fuseholder Clips</td><td> 5x20mm Cylinder Fuse</td><td> Pins Inline</td><td> Horizontal</td><td> Schurter OG</td><td> https</td></tr><tr><td>//ch.schurter.com/en/datasheet/typ_OG__Clip__5x20.pdf'</td><td> 'tags'</td></tr><tr><td> 'fuse clip open'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Fuse.3dshapes/Fuseholder_Clip-5x20mm_Schurter_OG_Lateral_P15.00x5.00mm_D1.3mm_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

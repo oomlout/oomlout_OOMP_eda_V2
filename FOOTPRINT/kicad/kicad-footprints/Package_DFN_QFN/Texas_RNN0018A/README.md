@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_RNN0018A|
 |Hex ID (short code)|hexID|FZKDFNTEXASRNN18A|
 |name|name|Package_DFN_QFN : Texas_RNN0018A|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Texas_RNN0018A', 'description': 'Texas Instruments, VQFN-HR RNN0018A (http://www.ti.com/lit/ds/symlink/tps568215.pdf)', 'tags': 'ti vqfn-hr rnn0018a', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Texas_RNN0018A.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Texas_RNN0018A'</td><td> 'description'</td></tr><tr><td> 'Texas Instruments</td><td> VQFN-HR RNN0018A (http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/tps568215.pdf)'</td><td> 'tags'</td></tr><tr><td> 'ti vqfn-hr rnn0018a'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DFN_QFN.3dshapes/Texas_RNN0018A.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

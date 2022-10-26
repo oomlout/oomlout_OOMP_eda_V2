@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-DFN-6_1.3x1.2mm_P0.4mm|
 |Hex ID (short code)|hexID|FZKDFNDFN613X12P4|
 |name|name|Package_DFN_QFN : DFN-6_1.3x1.2mm_P0.4mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'DFN-6_1.3x1.2mm_P0.4mm', 'description': '6-Lead Plastic DFN (1.3mm x 1.2mm) ', 'tags': 'DFN 0.4', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/DFN-6_1.3x1.2mm_P0.4mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'DFN-6_1.3x1.2mm_P0.4mm'</td><td> 'description'</td></tr><tr><td> '6-Lead Plastic DFN (1.3mm x 1.2mm) '</td><td> 'tags'</td></tr><tr><td> 'DFN 0.4'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DFN_QFN.3dshapes/DFN-6_1.3x1.2mm_P0.4mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

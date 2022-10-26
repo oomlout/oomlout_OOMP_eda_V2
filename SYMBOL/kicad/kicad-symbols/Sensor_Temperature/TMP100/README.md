@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKSENTEMPERATURETMP1 > TMP100
+# SZKSENTEMPERATURETMP1 > Sensor_Temperature : TMP100
 
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Temperature-TMP100
 - Hex ID: SZKSENTEMPERATURETMP1
-- Name: TMP100
-- Description: TMP100
+- Name: Sensor_Temperature : TMP100
+- Description: Sensor_Temperature : TMP100
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-TMP100](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-TMP100)
 - Short Link: [http://oom.lt/SZKSENTEMPERATURETMP1](http://oom.lt/SZKSENTEMPERATURETMP1)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TMP100|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Temperature-TMP100|
 |Hex ID (short code)|hexID|SZKSENTEMPERATURETMP1|
-|name|name|TMP100|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TMP100', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-6', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/gpn/tmp100', 'kicadSymbolki_keywords': 'temperature sensor i2c smbus', 'kicadSymbolki_description': 'Temperature Sensor with I2C/SMBus Interface, SOT-23-6', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
+|name|name|Sensor_Temperature : TMP100|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TMP100'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-23-6'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/gpn/tmp100'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'temperature sensor i2c smbus'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Temperature Sensor with I2C/SMBus Interface</td><td> SOT-23-6'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23*'</td></tr></table>]|
 ||||

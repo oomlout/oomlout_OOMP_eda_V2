@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDEVICEX > Crystal
+# SZKDEVICEX > Device : Crystal
 
 - ID: SYMBOL-kicad-kicad-symbols-Device-Crystal
 - Hex ID: SZKDEVICEX
-- Name: Crystal
-- Description: Crystal
+- Name: Device : Crystal
+- Description: Device : Crystal
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Crystal](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Crystal)
 - Short Link: [http://oom.lt/SZKDEVICEX](http://oom.lt/SZKDEVICEX)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Crystal|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-Crystal|
 |Hex ID (short code)|hexID|SZKDEVICEX|
-|name|name|Crystal|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Y', 'kicadSymbolValue': 'Crystal', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'quartz ceramic resonator oscillator', 'kicadSymbolki_description': 'Two pin crystal', 'kicadSymbolki_fp_filters': 'Crystal*'}]|
+|name|name|Device : Crystal|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Y'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Crystal'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'quartz ceramic resonator oscillator'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Two pin crystal'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Crystal*'</td></tr></table>]|
 ||||

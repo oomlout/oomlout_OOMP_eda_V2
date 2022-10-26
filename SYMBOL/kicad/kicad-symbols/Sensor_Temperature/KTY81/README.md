@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKSENTEMPERATUREKTY81 > KTY81
+# SZKSENTEMPERATUREKTY81 > Sensor_Temperature : KTY81
 
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Temperature-KTY81
 - Hex ID: SZKSENTEMPERATUREKTY81
-- Name: KTY81
-- Description: KTY81
+- Name: Sensor_Temperature : KTY81
+- Description: Sensor_Temperature : KTY81
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-KTY81](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-KTY81)
 - Short Link: [http://oom.lt/SZKSENTEMPERATUREKTY81](http://oom.lt/SZKSENTEMPERATUREKTY81)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|KTY81|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Temperature-KTY81|
 |Hex ID (short code)|hexID|SZKSENTEMPERATUREKTY81|
-|name|name|KTY81|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'TH', 'kicadSymbolValue': 'KTY81', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.nxp.com/documents/data_sheet/KTY81_SER.pdf', 'kicadSymbolki_keywords': 'silicon temperature sensors', 'kicadSymbolki_description': 'KTY81 series silicon temperature sensors', 'kicadSymbolki_fp_filters': 'SOD?70*'}]|
+|name|name|Sensor_Temperature : KTY81|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'TH'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'KTY81'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.nxp.com/documents/data_sheet/KTY81_SER.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'silicon temperature sensors'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'KTY81 series silicon temperature sensors'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOD?70*'</td></tr></table>]|
 ||||

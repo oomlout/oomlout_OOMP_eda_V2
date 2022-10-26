@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_Micro-B_Amphenol_10118194_Horizontal|
 |Hex ID (short code)|hexID|FZKCNUUMBAMPHENOL1118194HORIZONTAL|
 |name|name|Connector_USB : USB_Micro-B_Amphenol_10118194_Horizontal|
-|Footprint Kicad|footprintKicadDetails|{'name': 'USB_Micro-B_Amphenol_10118194_Horizontal', 'description': 'USB Micro-B receptacle, horizontal, SMD, 10118194, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/10118194.pdf', 'tags': 'USB Micro B horizontal SMD', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_USB.3dshapes/USB_Micro-B_Amphenol_10118194_Horizontal.wrl', 'pins': {'type': 'smd', 'shape': 'oval'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'USB_Micro-B_Amphenol_10118194_Horizontal'</td><td> 'description'</td></tr><tr><td> 'USB Micro-B receptacle</td><td> horizontal</td><td> SMD</td><td> 10118194</td><td> https</td></tr><tr><td>//cdn.amphenol-icc.com/media/wysiwyg/files/drawing/10118194.pdf'</td><td> 'tags'</td></tr><tr><td> 'USB Micro B horizontal SMD'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_USB.3dshapes/USB_Micro-B_Amphenol_10118194_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'oval'</td></tr></table></td></tr></table>|
 ||||
 
 

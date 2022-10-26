@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDEVICETRAUDIO > Transformer_Audio
+# SZKDEVICETRAUDIO > Device : Transformer_Audio
 
 - ID: SYMBOL-kicad-kicad-symbols-Device-Transformer_Audio
 - Hex ID: SZKDEVICETRAUDIO
-- Name: Transformer_Audio
-- Description: Transformer_Audio
+- Name: Device : Transformer_Audio
+- Description: Device : Transformer_Audio
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Transformer_Audio](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Transformer_Audio)
 - Short Link: [http://oom.lt/SZKDEVICETRAUDIO](http://oom.lt/SZKDEVICETRAUDIO)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Transformer_Audio|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-Transformer_Audio|
 |Hex ID (short code)|hexID|SZKDEVICETRAUDIO|
-|name|name|Transformer_Audio|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'T', 'kicadSymbolValue': 'Transformer_Audio', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'transformer coil magnet sound', 'kicadSymbolki_description': 'Audio transformer'}]|
+|name|name|Device : Transformer_Audio|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'T'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Transformer_Audio'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'transformer coil magnet sound'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Audio transformer'</td></tr></table>]|
 ||||

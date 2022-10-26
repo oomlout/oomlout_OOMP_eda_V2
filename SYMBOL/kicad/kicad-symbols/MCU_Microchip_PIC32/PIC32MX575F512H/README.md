@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUMCHIPPIC32PIC32MX575F512H > PIC32MX575F512H
+# SZKMCUMCHIPPIC32PIC32MX575F512H > MCU_Microchip_PIC32 : PIC32MX575F512H
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC32-PIC32MX575F512H
 - Hex ID: SZKMCUMCHIPPIC32PIC32MX575F512H
-- Name: PIC32MX575F512H
-- Description: PIC32MX575F512H
+- Name: MCU_Microchip_PIC32 : PIC32MX575F512H
+- Description: MCU_Microchip_PIC32 : PIC32MX575F512H
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC32-PIC32MX575F512H](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC32-PIC32MX575F512H)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC32PIC32MX575F512H](http://oom.lt/SZKMCUMCHIPPIC32PIC32MX575F512H)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PIC32MX575F512H|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC32-PIC32MX575F512H|
 |Hex ID (short code)|hexID|SZKMCUMCHIPPIC32PIC32MX575F512H|
-|name|name|PIC32MX575F512H|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'PIC32MX575F256H', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PIC32MX575F512H', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/61156G.pdf', 'kicadSymbolki_keywords': 'Microchip PIC32 Microcontroller MIPS', 'kicadSymbolki_description': '32-bit Microcontrollers (64KB Flash and 16KB SRAM TQFP-64 QFN-64) USB, CAN and Ethernet', 'kicadSymbolki_fp_filters': 'Package*QFP:QFP*10x10mm*P0.5mm* Package*DFN*QFN:QFN*1EP*9x9mm*P0.5mm*'}]|
+|name|name|MCU_Microchip_PIC32 : PIC32MX575F512H|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'PIC32MX575F256H'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'PIC32MX575F512H'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/61156G.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Microchip PIC32 Microcontroller MIPS'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '32-bit Microcontrollers (64KB Flash and 16KB SRAM TQFP-64 QFN-64) USB</td><td> CAN and Ethernet'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Package*QFP</td></tr><tr><td>QFP*10x10mm*P0.5mm* Package*DFN*QFN</td></tr><tr><td>QFN*1EP*9x9mm*P0.5mm*'</td></tr></table>]|
 ||||

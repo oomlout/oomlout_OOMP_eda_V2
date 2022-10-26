@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKAMPLIFIERAUDIOTDA25 > TDA2005
+# SZKAMPLIFIERAUDIOTDA25 > Amplifier_Audio : TDA2005
 
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Audio-TDA2005
 - Hex ID: SZKAMPLIFIERAUDIOTDA25
-- Name: TDA2005
-- Description: TDA2005
+- Name: Amplifier_Audio : TDA2005
+- Description: Amplifier_Audio : TDA2005
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-TDA2005](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-TDA2005)
 - Short Link: [http://oom.lt/SZKAMPLIFIERAUDIOTDA25](http://oom.lt/SZKAMPLIFIERAUDIOTDA25)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TDA2005|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Audio-TDA2005|
 |Hex ID (short code)|hexID|SZKAMPLIFIERAUDIOTDA25|
-|name|name|TDA2005|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TDA2005', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-220-11_P3.4x5.08mm_StaggerOdd_Lead4.85mm_Vertical', 'kicadSymbolDatasheet': 'http://www.st.com/resource/en/datasheet/cd00000124.pdf', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'audio amplifier', 'kicadSymbolki_description': '20W Bridge/Stereo Amplifier for Car Radio, TO-220-11', 'kicadSymbolki_fp_filters': 'TO?220*StaggerOdd*'}]|
+|name|name|Amplifier_Audio : TDA2005|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TDA2005'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_THT</td></tr><tr><td>TO-220-11_P3.4x5.08mm_StaggerOdd_Lead4.85mm_Vertical'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.st.com/resource/en/datasheet/cd00000124.pdf'</td><td> 'kicadSymbolki_locked'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'audio amplifier'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '20W Bridge/Stereo Amplifier for Car Radio</td><td> TO-220-11'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TO?220*StaggerOdd*'</td></tr></table>]|
 ||||

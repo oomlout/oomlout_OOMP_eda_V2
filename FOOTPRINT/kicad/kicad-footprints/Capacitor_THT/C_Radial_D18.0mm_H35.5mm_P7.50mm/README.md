@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-C_Radial_D18.0mm_H35.5mm_P7.50mm|
 |Hex ID (short code)|hexID|FZKCCRD18H355P75|
 |name|name|Capacitor_THT : C_Radial_D18.0mm_H35.5mm_P7.50mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'C_Radial_D18.0mm_H35.5mm_P7.50mm', 'description': 'C, Radial series, Radial, pin pitch=7.50mm, diameter=18mm, height=35.5mm, Non-Polar Electrolytic Capacitor', 'tags': 'C Radial series Radial pin pitch 7.50mm diameter 18mm height 35.5mm Non-Polar Electrolytic Capacitor', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Capacitor_THT.3dshapes/C_Radial_D18.0mm_H35.5mm_P7.50mm.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'C_Radial_D18.0mm_H35.5mm_P7.50mm'</td><td> 'description'</td></tr><tr><td> 'C</td><td> Radial series</td><td> Radial</td><td> pin pitch=7.50mm</td><td> diameter=18mm</td><td> height=35.5mm</td><td> Non-Polar Electrolytic Capacitor'</td><td> 'tags'</td></tr><tr><td> 'C Radial series Radial pin pitch 7.50mm diameter 18mm height 35.5mm Non-Polar Electrolytic Capacitor'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Capacitor_THT.3dshapes/C_Radial_D18.0mm_H35.5mm_P7.50mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

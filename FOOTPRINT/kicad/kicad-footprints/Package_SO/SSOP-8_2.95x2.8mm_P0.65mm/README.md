@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SO-SSOP-8_2.95x2.8mm_P0.65mm|
 |Hex ID (short code)|hexID|FZKSOSS8295X28P65|
 |name|name|Package_SO : SSOP-8_2.95x2.8mm_P0.65mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'SSOP-8_2.95x2.8mm_P0.65mm', 'description': 'SSOP-8 2.9 x2.8mm Pitch 0.65mm', 'tags': 'SSOP-8 2.95x2.8mm Pitch 0.65mm', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/SSOP-8_2.95x2.8mm_P0.65mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SSOP-8_2.95x2.8mm_P0.65mm'</td><td> 'description'</td></tr><tr><td> 'SSOP-8 2.9 x2.8mm Pitch 0.65mm'</td><td> 'tags'</td></tr><tr><td> 'SSOP-8 2.95x2.8mm Pitch 0.65mm'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_SO.3dshapes/SSOP-8_2.95x2.8mm_P0.65mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

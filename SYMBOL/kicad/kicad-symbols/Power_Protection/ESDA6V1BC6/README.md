@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKPOWERPROTECTIONESDA6V1BC6 > ESDA6V1BC6
+# SZKPOWERPROTECTIONESDA6V1BC6 > Power_Protection : ESDA6V1BC6
 
 - ID: SYMBOL-kicad-kicad-symbols-Power_Protection-ESDA6V1BC6
 - Hex ID: SZKPOWERPROTECTIONESDA6V1BC6
-- Name: ESDA6V1BC6
-- Description: ESDA6V1BC6
+- Name: Power_Protection : ESDA6V1BC6
+- Description: Power_Protection : ESDA6V1BC6
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-ESDA6V1BC6](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-ESDA6V1BC6)
 - Short Link: [http://oom.lt/SZKPOWERPROTECTIONESDA6V1BC6](http://oom.lt/SZKPOWERPROTECTIONESDA6V1BC6)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ESDA6V1BC6|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Protection-ESDA6V1BC6|
 |Hex ID (short code)|hexID|SZKPOWERPROTECTIONESDA6V1BC6|
-|name|name|ESDA6V1BC6|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'ESDA6V1BC6', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-6', 'kicadSymbolDatasheet': 'http://www.st.com/content/ccc/resource/technical/document/datasheet/21/07/21/e3/a8/df/42/a2/CD00001906.pdf/files/CD00001906.pdf/jcr:content/translations/en.CD00001906.pdf', 'kicadSymbolki_keywords': 'ESD protection suppression transient', 'kicadSymbolki_description': 'Quad bidirectional transil, Suppressor for ESD protection, 5V Standoff, 4 Channels, SOT-23-6', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
+|name|name|Power_Protection : ESDA6V1BC6|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ESDA6V1BC6'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-23-6'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.st.com/content/ccc/resource/technical/document/datasheet/21/07/21/e3/a8/df/42/a2/CD00001906.pdf/files/CD00001906.pdf/jcr</td></tr><tr><td>content/translations/en.CD00001906.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'ESD protection suppression transient'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Quad bidirectional transil</td><td> Suppressor for ESD protection</td><td> 5V Standoff</td><td> 4 Channels</td><td> SOT-23-6'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23*'</td></tr></table>]|
 ||||

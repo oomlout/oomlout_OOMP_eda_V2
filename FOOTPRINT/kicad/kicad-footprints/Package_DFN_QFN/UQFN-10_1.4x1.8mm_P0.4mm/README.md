@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-UQFN-10_1.4x1.8mm_P0.4mm|
 |Hex ID (short code)|hexID|FZKDFNUQFN114X18P4|
 |name|name|Package_DFN_QFN : UQFN-10_1.4x1.8mm_P0.4mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'UQFN-10_1.4x1.8mm_P0.4mm', 'description': 'UQFN 10pin, https://www.onsemi.com/pub/Collateral/488AT.PDF', 'tags': 'UQFN-10_1.4x1.8mm_P0.4mm', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/UQFN-10_1.4x1.8mm_P0.4mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'UQFN-10_1.4x1.8mm_P0.4mm'</td><td> 'description'</td></tr><tr><td> 'UQFN 10pin</td><td> https</td></tr><tr><td>//www.onsemi.com/pub/Collateral/488AT.PDF'</td><td> 'tags'</td></tr><tr><td> 'UQFN-10_1.4x1.8mm_P0.4mm'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DFN_QFN.3dshapes/UQFN-10_1.4x1.8mm_P0.4mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

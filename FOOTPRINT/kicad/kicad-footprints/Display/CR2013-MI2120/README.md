@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Display-CR2013-MI2120|
 |Hex ID (short code)|hexID|FZKDICR213MI212|
 |name|name|Display : CR2013-MI2120|
-|Footprint Kicad|footprintKicadDetails|{'name': 'CR2013-MI2120', 'description': 'CR2013-MI2120 ILI9341 LCD Breakout http://pan.baidu.com/s/11Y990', 'tags': 'CR2013-MI2120 ILI9341 LCD Breakout', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Display.3dshapes/CR2013-MI2120.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'CR2013-MI2120'</td><td> 'description'</td></tr><tr><td> 'CR2013-MI2120 ILI9341 LCD Breakout http</td></tr><tr><td>//pan.baidu.com/s/11Y990'</td><td> 'tags'</td></tr><tr><td> 'CR2013-MI2120 ILI9341 LCD Breakout'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Display.3dshapes/CR2013-MI2120.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSLS5GSTAN1L5G > LEDS-05-G-STAN-01-L5G
+# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSLS5GSTAN1L5G > oomlout_OOMP_parts : LEDS-05-G-STAN-01-L5G
 
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-LEDS-05-G-STAN-01-L5G
 - Hex ID: SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSLS5GSTAN1L5G
-- Name: LEDS-05-G-STAN-01-L5G
-- Description: LEDS-05-G-STAN-01-L5G
+- Name: oomlout_OOMP_parts : LEDS-05-G-STAN-01-L5G
+- Description: oomlout_OOMP_parts : LEDS-05-G-STAN-01-L5G
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-LEDS-05-G-STAN-01-L5G](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-LEDS-05-G-STAN-01-L5G)
 - Short Link: [http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSLS5GSTAN1L5G](http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSLS5GSTAN1L5G)
   
@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|LEDS-05-G-STAN-01-L5G|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-LEDS-05-G-STAN-01-L5G|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSLS5GSTAN1L5G|
-|name|name|LEDS-05-G-STAN-01-L5G|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'LEDS-05-G-STAN-01-L5G', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:LEDS-05-G-STAN-01-L5G', 'kicadSymbolDatasheet': 'oom.lt/L5G', 'kicadSymbolki_keywords': 'LED diode', 'kicadSymbolki_description': 'hexID: L5G;Light emitting diode', 'kicadSymbolki_fp_filters': 'LED* LED_SMD:* LED_THT:*'}]|
+|name|name|oomlout_OOMP_parts : LEDS-05-G-STAN-01-L5G|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LEDS-05-G-STAN-01-L5G'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'oomlout_OOMP_parts</td></tr><tr><td>LEDS-05-G-STAN-01-L5G'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'oom.lt/L5G'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'LED diode'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'hexID</td></tr><tr><td> L5G;Light emitting diode'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'LED* LED_SMD</td></tr><tr><td>* LED_THT</td></tr><tr><td>*'</td></tr></table>]|
 ||||

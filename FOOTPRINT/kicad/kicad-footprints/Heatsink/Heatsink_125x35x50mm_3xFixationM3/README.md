@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Heatsink-Heatsink_125x35x50mm_3xFixationM3|
 |Hex ID (short code)|hexID|FZKHH125X35X53XFIXATIONM3|
 |name|name|Heatsink : Heatsink_125x35x50mm_3xFixationM3|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Heatsink_125x35x50mm_3xFixationM3', 'description': 'Heatsink, 125x35x50mm, 3 fixation holes 3.2mm', 'tags': 'heatsink', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Heatsink.3dshapes/Heatsink_125x35x50mm_3xFixationM3.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Heatsink_125x35x50mm_3xFixationM3'</td><td> 'description'</td></tr><tr><td> 'Heatsink</td><td> 125x35x50mm</td><td> 3 fixation holes 3.2mm'</td><td> 'tags'</td></tr><tr><td> 'heatsink'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Heatsink.3dshapes/Heatsink_125x35x50mm_3xFixationM3.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

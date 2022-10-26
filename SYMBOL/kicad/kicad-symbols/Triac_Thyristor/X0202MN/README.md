@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRIACTHYRISTORX22MN > X0202MN
+# SZKTRIACTHYRISTORX22MN > Triac_Thyristor : X0202MN
 
 - ID: SYMBOL-kicad-kicad-symbols-Triac_Thyristor-X0202MN
 - Hex ID: SZKTRIACTHYRISTORX22MN
-- Name: X0202MN
-- Description: X0202MN
+- Name: Triac_Thyristor : X0202MN
+- Description: Triac_Thyristor : X0202MN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Triac_Thyristor-X0202MN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Triac_Thyristor-X0202MN)
 - Short Link: [http://oom.lt/SZKTRIACTHYRISTORX22MN](http://oom.lt/SZKTRIACTHYRISTORX22MN)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|X0202MN|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Triac_Thyristor-X0202MN|
 |Hex ID (short code)|hexID|SZKTRIACTHYRISTORX22MN|
-|name|name|X0202MN|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'X0202MN', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-223', 'kicadSymbolDatasheet': 'https://www.st.com/resource/en/datasheet/x02.pdf', 'kicadSymbolki_keywords': 'thyristor', 'kicadSymbolki_description': '1.25A Ion, 600 Voff, Silicon Controlled Rectifier (Thyristor), SOT-223', 'kicadSymbolki_fp_filters': 'SOT?223*'}]|
+|name|name|Triac_Thyristor : X0202MN|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'X0202MN'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-223'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.st.com/resource/en/datasheet/x02.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'thyristor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '1.25A Ion</td><td> 600 Voff</td><td> Silicon Controlled Rectifier (Thyristor)</td><td> SOT-223'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?223*'</td></tr></table>]|
 ||||

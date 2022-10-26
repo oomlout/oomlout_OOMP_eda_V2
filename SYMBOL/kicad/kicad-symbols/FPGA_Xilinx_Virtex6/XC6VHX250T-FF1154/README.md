@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKFPGAXILINXVIRTEX6XC6VHX25TFF1154 > XC6VHX250T-FF1154
+# SZKFPGAXILINXVIRTEX6XC6VHX25TFF1154 > FPGA_Xilinx_Virtex6 : XC6VHX250T-FF1154
 
 - ID: SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Virtex6-XC6VHX250T-FF1154
 - Hex ID: SZKFPGAXILINXVIRTEX6XC6VHX25TFF1154
-- Name: XC6VHX250T-FF1154
-- Description: XC6VHX250T-FF1154
+- Name: FPGA_Xilinx_Virtex6 : XC6VHX250T-FF1154
+- Description: FPGA_Xilinx_Virtex6 : XC6VHX250T-FF1154
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Virtex6-XC6VHX250T-FF1154](http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Virtex6-XC6VHX250T-FF1154)
 - Short Link: [http://oom.lt/SZKFPGAXILINXVIRTEX6XC6VHX25TFF1154](http://oom.lt/SZKFPGAXILINXVIRTEX6XC6VHX25TFF1154)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|XC6VHX250T-FF1154|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Virtex6-XC6VHX250T-FF1154|
 |Hex ID (short code)|hexID|SZKFPGAXILINXVIRTEX6XC6VHX25TFF1154|
-|name|name|XC6VHX250T-FF1154|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'XC6VHX250T-FF1154', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'FPGA', 'kicadSymbolki_description': 'Virtex 6 HXT 250 XC6VHX250T-FF1154'}]|
+|name|name|FPGA_Xilinx_Virtex6 : XC6VHX250T-FF1154|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'XC6VHX250T-FF1154'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_locked'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'FPGA'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Virtex 6 HXT 250 XC6VHX250T-FF1154'</td></tr></table>]|
 ||||

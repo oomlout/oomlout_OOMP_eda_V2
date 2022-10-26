@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZK74XX74LS22 > 74LS22
+# SZK74XX74LS22 > 74xx : 74LS22
 
 - ID: SYMBOL-kicad-kicad-symbols-74xx-74LS22
 - Hex ID: SZK74XX74LS22
-- Name: 74LS22
-- Description: 74LS22
+- Name: 74xx : 74LS22
+- Description: 74xx : 74LS22
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx-74LS22](http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx-74LS22)
 - Short Link: [http://oom.lt/SZK74XX74LS22](http://oom.lt/SZK74XX74LS22)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74LS22|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xx-74LS22|
 |Hex ID (short code)|hexID|SZK74XX74LS22|
-|name|name|74LS22|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '74LS20', 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74LS22', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/gpn/sn74LS22', 'kicadSymbolki_keywords': 'TTL Nand4 OpenColl', 'kicadSymbolki_description': 'Dual 4-input NAND Open Collector', 'kicadSymbolki_fp_filters': 'DIP?12*'}]|
+|name|name|74xx : 74LS22|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> '74LS20'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> '74LS22'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/gpn/sn74LS22'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'TTL Nand4 OpenColl'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Dual 4-input NAND Open Collector'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP?12*'</td></tr></table>]|
 ||||

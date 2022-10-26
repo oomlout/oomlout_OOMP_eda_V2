@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKRELAYRAYEXL9A > RAYEX-L90A
+# SZKRELAYRAYEXL9A > Relay : RAYEX-L90A
 
 - ID: SYMBOL-kicad-kicad-symbols-Relay-RAYEX-L90A
 - Hex ID: SZKRELAYRAYEXL9A
-- Name: RAYEX-L90A
-- Description: RAYEX-L90A
+- Name: Relay : RAYEX-L90A
+- Description: Relay : RAYEX-L90A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-RAYEX-L90A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-RAYEX-L90A)
 - Short Link: [http://oom.lt/SZKRELAYRAYEXL9A](http://oom.lt/SZKRELAYRAYEXL9A)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|RAYEX-L90A|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Relay-RAYEX-L90A|
 |Hex ID (short code)|hexID|SZKRELAYRAYEXL9A|
-|name|name|RAYEX-L90A|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'K', 'kicadSymbolValue': 'RAYEX-L90A', 'kicadSymbolFootprint': 'Relay_THT:Relay_SPST_RAYEX-L90A', 'kicadSymbolDatasheet': 'https://a3.sofastcdn.com/attachment/7jioKBjnRiiSrjrjknRiwS77gwbf3zmp/L90-SERIES.pdf', 'kicadSymbolki_keywords': '30A Single Pole Relay', 'kicadSymbolki_description': 'Power relay, NO, SPST, 30A', 'kicadSymbolki_fp_filters': 'Relay*SPST*RAYEX*L90A*'}]|
+|name|name|Relay : RAYEX-L90A|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'K'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'RAYEX-L90A'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Relay_THT</td></tr><tr><td>Relay_SPST_RAYEX-L90A'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//a3.sofastcdn.com/attachment/7jioKBjnRiiSrjrjknRiwS77gwbf3zmp/L90-SERIES.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> '30A Single Pole Relay'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Power relay</td><td> NO</td><td> SPST</td><td> 30A'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Relay*SPST*RAYEX*L90A*'</td></tr></table>]|
 ||||

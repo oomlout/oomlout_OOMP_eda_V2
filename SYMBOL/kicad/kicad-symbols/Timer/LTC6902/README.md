@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTIMERLTC692 > LTC6902
+# SZKTIMERLTC692 > Timer : LTC6902
 
 - ID: SYMBOL-kicad-kicad-symbols-Timer-LTC6902
 - Hex ID: SZKTIMERLTC692
-- Name: LTC6902
-- Description: LTC6902
+- Name: Timer : LTC6902
+- Description: Timer : LTC6902
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer-LTC6902](http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer-LTC6902)
 - Short Link: [http://oom.lt/SZKTIMERLTC692](http://oom.lt/SZKTIMERLTC692)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LTC6902|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Timer-LTC6902|
 |Hex ID (short code)|hexID|SZKTIMERLTC692|
-|name|name|LTC6902|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LTC6902', 'kicadSymbolFootprint': 'Package_SO:MSOP-10_3x3mm_P0.5mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/6902f.pdf', 'kicadSymbolki_keywords': 'clock generator dual triple quad signal', 'kicadSymbolki_description': 'Multiphase oscillator, spread spectrum frequency modulation, MSOP-10', 'kicadSymbolki_fp_filters': 'MSOP*3x3mm*P0.5mm*'}]|
+|name|name|Timer : LTC6902|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LTC6902'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>MSOP-10_3x3mm_P0.5mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/6902f.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'clock generator dual triple quad signal'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Multiphase oscillator</td><td> spread spectrum frequency modulation</td><td> MSOP-10'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'MSOP*3x3mm*P0.5mm*'</td></tr></table>]|
 ||||

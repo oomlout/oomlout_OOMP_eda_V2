@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKPOWERPROTECTIONTPD6F3 > TPD6F003
+# SZKPOWERPROTECTIONTPD6F3 > Power_Protection : TPD6F003
 
 - ID: SYMBOL-kicad-kicad-symbols-Power_Protection-TPD6F003
 - Hex ID: SZKPOWERPROTECTIONTPD6F3
-- Name: TPD6F003
-- Description: TPD6F003
+- Name: Power_Protection : TPD6F003
+- Description: Power_Protection : TPD6F003
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-TPD6F003](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-TPD6F003)
 - Short Link: [http://oom.lt/SZKPOWERPROTECTIONTPD6F3](http://oom.lt/SZKPOWERPROTECTIONTPD6F3)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TPD6F003|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Protection-TPD6F003|
 |Hex ID (short code)|hexID|SZKPOWERPROTECTIONTPD6F3|
-|name|name|TPD6F003|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TPD6F003', 'kicadSymbolFootprint': 'Package_SON:Texas_R-PWSON-N12_EP0.4x2mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tpd6f003.pdf', 'kicadSymbolki_keywords': 'EMI, ESD protection', 'kicadSymbolki_description': '6 channel EMI filters with integrated ESD protection', 'kicadSymbolki_fp_filters': '*WSON*EP0.4x2mm*'}]|
+|name|name|Power_Protection : TPD6F003|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TPD6F003'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SON</td></tr><tr><td>Texas_R-PWSON-N12_EP0.4x2mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/tpd6f003.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'EMI</td><td> ESD protection'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '6 channel EMI filters with integrated ESD protection'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> '*WSON*EP0.4x2mm*'</td></tr></table>]|
 ||||

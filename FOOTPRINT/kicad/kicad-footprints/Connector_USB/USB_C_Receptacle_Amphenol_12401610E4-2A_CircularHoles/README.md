@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_C_Receptacle_Amphenol_12401610E4-2A_CircularHoles|
 |Hex ID (short code)|hexID|FZKCNUUCRECEPTACLEAMPHENOL124161E42ACIRCULARH|
 |name|name|Connector_USB : USB_C_Receptacle_Amphenol_12401610E4-2A_CircularHoles|
-|Footprint Kicad|footprintKicadDetails|{'name': 'USB_C_Receptacle_Amphenol_12401610E4-2A_CircularHoles', 'description': 'USB TYPE C, RA RCPT PCB, SMT, https://www.amphenolcanada.com/StockAvailabilityPrice.aspx?From=&PartNum=12401610E4%7e2A', 'tags': 'USB C Type-C Receptacle SMD', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_USB.3dshapes/USB_C_Receptacle_Amphenol_12401610E4-2A.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'USB_C_Receptacle_Amphenol_12401610E4-2A_CircularHoles'</td><td> 'description'</td></tr><tr><td> 'USB TYPE C</td><td> RA RCPT PCB</td><td> SMT</td><td> https</td></tr><tr><td>//www.amphenolcanada.com/StockAvailabilityPrice.aspx?From=&PartNum=12401610E4%7e2A'</td><td> 'tags'</td></tr><tr><td> 'USB C Type-C Receptacle SMD'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_USB.3dshapes/USB_C_Receptacle_Amphenol_12401610E4-2A.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

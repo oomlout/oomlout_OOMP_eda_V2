@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Bourns_SDR1806|
 |Hex ID (short code)|hexID|FZKINDUCTORSMLBOURNSSDR186|
 |name|name|Inductor_SMD : L_Bourns_SDR1806|
-|Footprint Kicad|footprintKicadDetails|{'name': 'L_Bourns_SDR1806', 'description': 'https://www.bourns.com/docs/Product-Datasheets/SDR1806.pdf', 'tags': 'Bourns SDR1806', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Bourns_SDR1806.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'L_Bourns_SDR1806'</td><td> 'description'</td></tr><tr><td> 'https</td></tr><tr><td>//www.bourns.com/docs/Product-Datasheets/SDR1806.pdf'</td><td> 'tags'</td></tr><tr><td> 'Bourns SDR1806'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Inductor_SMD.3dshapes/L_Bourns_SDR1806.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

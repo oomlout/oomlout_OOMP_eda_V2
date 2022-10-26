@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORLINEARLF47TO22 > LF47_TO220
+# SZKREGULATORLINEARLF47TO22 > Regulator_Linear : LF47_TO220
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-LF47_TO220
 - Hex ID: SZKREGULATORLINEARLF47TO22
-- Name: LF47_TO220
-- Description: LF47_TO220
+- Name: Regulator_Linear : LF47_TO220
+- Description: Regulator_Linear : LF47_TO220
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LF47_TO220](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LF47_TO220)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARLF47TO22](http://oom.lt/SZKREGULATORLINEARLF47TO22)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LF47_TO220|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-LF47_TO220|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARLF47TO22|
-|name|name|LF47_TO220|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LM7805_TO220', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LF47_TO220', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-220-3_Vertical', 'kicadSymbolDatasheet': 'http://www.st.com/content/ccc/resource/technical/document/datasheet/c4/0e/7e/2a/be/bc/4c/bd/CD00000546.pdf/files/CD00000546.pdf/jcr:content/translations/en.CD00000546.pdf', 'kicadSymbolki_keywords': 'LDO regulator voltage', 'kicadSymbolki_description': 'Low-drop Voltage Regulator, Io up to 500mA, Fixed Vo 4.7V, TO-220', 'kicadSymbolki_fp_filters': 'TO?220*'}]|
+|name|name|Regulator_Linear : LF47_TO220|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'LM7805_TO220'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LF47_TO220'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_THT</td></tr><tr><td>TO-220-3_Vertical'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.st.com/content/ccc/resource/technical/document/datasheet/c4/0e/7e/2a/be/bc/4c/bd/CD00000546.pdf/files/CD00000546.pdf/jcr</td></tr><tr><td>content/translations/en.CD00000546.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'LDO regulator voltage'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Low-drop Voltage Regulator</td><td> Io up to 500mA</td><td> Fixed Vo 4.7V</td><td> TO-220'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TO?220*'</td></tr></table>]|
 ||||

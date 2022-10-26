@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDEVICEVOLTMETERDC > Voltmeter_DC
+# SZKDEVICEVOLTMETERDC > Device : Voltmeter_DC
 
 - ID: SYMBOL-kicad-kicad-symbols-Device-Voltmeter_DC
 - Hex ID: SZKDEVICEVOLTMETERDC
-- Name: Voltmeter_DC
-- Description: Voltmeter_DC
+- Name: Device : Voltmeter_DC
+- Description: Device : Voltmeter_DC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Voltmeter_DC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Voltmeter_DC)
 - Short Link: [http://oom.lt/SZKDEVICEVOLTMETERDC](http://oom.lt/SZKDEVICEVOLTMETERDC)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Voltmeter_DC|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-Voltmeter_DC|
 |Hex ID (short code)|hexID|SZKDEVICEVOLTMETERDC|
-|name|name|Voltmeter_DC|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'MES', 'kicadSymbolValue': 'Voltmeter_DC', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'voltmeter DC', 'kicadSymbolki_description': 'DC voltmeter'}]|
+|name|name|Device : Voltmeter_DC|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'MES'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Voltmeter_DC'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'voltmeter DC'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'DC voltmeter'</td></tr></table>]|
 ||||

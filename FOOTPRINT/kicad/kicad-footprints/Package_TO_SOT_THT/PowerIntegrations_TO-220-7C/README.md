@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-PowerIntegrations_TO-220-7C|
 |Hex ID (short code)|hexID|FZKSOTPOWERINTEGRATIONSTO227C|
 |name|name|Package_TO_SOT_THT : PowerIntegrations_TO-220-7C|
-|Footprint Kicad|footprintKicadDetails|{'name': 'PowerIntegrations_TO-220-7C', 'description': 'Non Isolated Modified TO-220 7pin Package, see http://www.farnell.com/datasheets/5793.pdf', 'tags': 'Power Integration Y Package', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/PowerIntegrations_TO-220-7C.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'PowerIntegrations_TO-220-7C'</td><td> 'description'</td></tr><tr><td> 'Non Isolated Modified TO-220 7pin Package</td><td> see http</td></tr><tr><td>//www.farnell.com/datasheets/5793.pdf'</td><td> 'tags'</td></tr><tr><td> 'Power Integration Y Package'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_TO_SOT_THT.3dshapes/PowerIntegrations_TO-220-7C.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

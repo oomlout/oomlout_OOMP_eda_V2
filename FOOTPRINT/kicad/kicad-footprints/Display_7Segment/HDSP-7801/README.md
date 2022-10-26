@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Display_7Segment-HDSP-7801|
 |Hex ID (short code)|hexID|FZKDI7SHDSP781|
 |name|name|Display_7Segment : HDSP-7801|
-|Footprint Kicad|footprintKicadDetails|{'name': 'HDSP-7801', 'description': 'One digit 7 segment green, https://docs.broadcom.com/docs/AV02-2553EN', 'tags': 'One digit 7 segment green', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Display_7Segment.3dshapes/HDSP-7801.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'HDSP-7801'</td><td> 'description'</td></tr><tr><td> 'One digit 7 segment green</td><td> https</td></tr><tr><td>//docs.broadcom.com/docs/AV02-2553EN'</td><td> 'tags'</td></tr><tr><td> 'One digit 7 segment green'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Display_7Segment.3dshapes/HDSP-7801.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

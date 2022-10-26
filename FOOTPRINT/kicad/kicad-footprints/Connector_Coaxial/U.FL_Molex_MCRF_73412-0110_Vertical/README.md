@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Coaxial-U.FL_Molex_MCRF_73412-0110_Vertical|
 |Hex ID (short code)|hexID|FZKCNCOAUFLMXMCRF7341211VERTICAL|
 |name|name|Connector_Coaxial : U.FL_Molex_MCRF_73412-0110_Vertical|
-|Footprint Kicad|footprintKicadDetails|{'name': 'U.FL_Molex_MCRF_73412-0110_Vertical', 'description': 'Molex Microcoaxial RF Connectors (MCRF), mates Hirose U.FL, (http://www.molex.com/pdm_docs/sd/734120110_sd.pdf)', 'tags': 'mcrf hirose ufl u.fl microcoaxial', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_Coaxial.3dshapes/U.FL_Molex_MCRF_73412-0110_Vertical.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'U.FL_Molex_MCRF_73412-0110_Vertical'</td><td> 'description'</td></tr><tr><td> 'Molex Microcoaxial RF Connectors (MCRF)</td><td> mates Hirose U.FL</td><td> (http</td></tr><tr><td>//www.molex.com/pdm_docs/sd/734120110_sd.pdf)'</td><td> 'tags'</td></tr><tr><td> 'mcrf hirose ufl u.fl microcoaxial'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_Coaxial.3dshapes/U.FL_Molex_MCRF_73412-0110_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

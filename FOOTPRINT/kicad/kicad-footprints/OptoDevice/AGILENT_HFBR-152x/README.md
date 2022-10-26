@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-OptoDevice-AGILENT_HFBR-152x|
 |Hex ID (short code)|hexID|FZKOPAGILENTHFBR152X|
 |name|name|OptoDevice : AGILENT_HFBR-152x|
-|Footprint Kicad|footprintKicadDetails|{'name': 'AGILENT_HFBR-152x', 'description': 'Fiberoptic Transmitter TX, HFBR series (https://docs.broadcom.com/docs/AV02-3283EN)', 'tags': 'Fiberoptic Transmitter', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/AGILENT_HFBR-152x.wrl', 'pins': {'type': 'thru_hole', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'AGILENT_HFBR-152x'</td><td> 'description'</td></tr><tr><td> 'Fiberoptic Transmitter TX</td><td> HFBR series (https</td></tr><tr><td>//docs.broadcom.com/docs/AV02-3283EN)'</td><td> 'tags'</td></tr><tr><td> 'Fiberoptic Transmitter'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/OptoDevice.3dshapes/AGILENT_HFBR-152x.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

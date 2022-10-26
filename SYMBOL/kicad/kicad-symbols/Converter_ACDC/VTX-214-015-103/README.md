@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKCONVTX2141513 > VTX-214-015-103
+# SZKCONVTX2141513 > Converter_ACDC : VTX-214-015-103
 
 - ID: SYMBOL-kicad-kicad-symbols-Converter_ACDC-VTX-214-015-103
 - Hex ID: SZKCONVTX2141513
-- Name: VTX-214-015-103
-- Description: VTX-214-015-103
+- Name: Converter_ACDC : VTX-214-015-103
+- Description: Converter_ACDC : VTX-214-015-103
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_ACDC-VTX-214-015-103](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_ACDC-VTX-214-015-103)
 - Short Link: [http://oom.lt/SZKCONVTX2141513](http://oom.lt/SZKCONVTX2141513)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|VTX-214-015-103|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Converter_ACDC-VTX-214-015-103|
 |Hex ID (short code)|hexID|SZKCONVTX2141513|
-|name|name|VTX-214-015-103|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'PS', 'kicadSymbolValue': 'VTX-214-015-103', 'kicadSymbolFootprint': 'Converter_ACDC:Converter_ACDC_Vigortronix_VTX-214-015-1xx_THT', 'kicadSymbolDatasheet': 'http://www.vigortronix.com/15WattSMPSPCBModuleAC-DC', 'kicadSymbolki_keywords': '3V 15W AC-DC module power supply', 'kicadSymbolki_description': '3V Vigortronix 15W ACDC Converters', 'kicadSymbolki_fp_filters': 'Converter*ACDC*Vigortronix*VTX*214*015*1xx*'}]|
+|name|name|Converter_ACDC : VTX-214-015-103|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'PS'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'VTX-214-015-103'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Converter_ACDC</td></tr><tr><td>Converter_ACDC_Vigortronix_VTX-214-015-1xx_THT'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.vigortronix.com/15WattSMPSPCBModuleAC-DC'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> '3V 15W AC-DC module power supply'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '3V Vigortronix 15W ACDC Converters'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Converter*ACDC*Vigortronix*VTX*214*015*1xx*'</td></tr></table>]|
 ||||

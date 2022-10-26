@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-VQFN-16-1EP_3x3mm_P0.5mm_EP1.1x1.1mm|
 |Hex ID (short code)|hexID|FZKDFNVQFN161EP3X3P5EP11X11|
 |name|name|Package_DFN_QFN : VQFN-16-1EP_3x3mm_P0.5mm_EP1.1x1.1mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'VQFN-16-1EP_3x3mm_P0.5mm_EP1.1x1.1mm', 'description': 'VQFN, 16 Pin (https://ww1.microchip.com/downloads/en/DeviceDoc/16L_VQFN-WFS_3x3mm_4MX_C04-00508a.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py', 'tags': 'VQFN NoLead', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/VQFN-16-1EP_3x3mm_P0.5mm_EP1.1x1.1mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'VQFN-16-1EP_3x3mm_P0.5mm_EP1.1x1.1mm'</td><td> 'description'</td></tr><tr><td> 'VQFN</td><td> 16 Pin (https</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/16L_VQFN-WFS_3x3mm_4MX_C04-00508a.pdf)</td><td> generated with kicad-footprint-generator ipc_noLead_generator.py'</td><td> 'tags'</td></tr><tr><td> 'VQFN NoLead'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DFN_QFN.3dshapes/VQFN-16-1EP_3x3mm_P0.5mm_EP1.1x1.1mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

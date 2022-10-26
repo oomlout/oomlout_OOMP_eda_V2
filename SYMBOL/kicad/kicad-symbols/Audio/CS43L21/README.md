@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKAUDIOCS43L21 > CS43L21
+# SZKAUDIOCS43L21 > Audio : CS43L21
 
 - ID: SYMBOL-kicad-kicad-symbols-Audio-CS43L21
 - Hex ID: SZKAUDIOCS43L21
-- Name: CS43L21
-- Description: CS43L21
+- Name: Audio : CS43L21
+- Description: Audio : CS43L21
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-CS43L21](http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-CS43L21)
 - Short Link: [http://oom.lt/SZKAUDIOCS43L21](http://oom.lt/SZKAUDIOCS43L21)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|CS43L21|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Audio-CS43L21|
 |Hex ID (short code)|hexID|SZKAUDIOCS43L21|
-|name|name|CS43L21|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'CS43L21', 'kicadSymbolFootprint': 'Package_DFN_QFN:QFN-32-1EP_5x5mm_P0.5mm_EP3.45x3.45mm', 'kicadSymbolDatasheet': 'https://d3uzseaevmutz1.cloudfront.net/pubs/proDatasheet/CS43L21_F1.pdf', 'kicadSymbolki_keywords': 'audio dac 2ch 24bit 96kHz', 'kicadSymbolki_description': 'Low-Power, Stereo Digital-to-Analog Converter, QFN-32', 'kicadSymbolki_fp_filters': 'QFN*5x5mm*P0.5mm*'}]|
+|name|name|Audio : CS43L21|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'CS43L21'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>QFN-32-1EP_5x5mm_P0.5mm_EP3.45x3.45mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//d3uzseaevmutz1.cloudfront.net/pubs/proDatasheet/CS43L21_F1.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'audio dac 2ch 24bit 96kHz'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Low-Power</td><td> Stereo Digital-to-Analog Converter</td><td> QFN-32'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'QFN*5x5mm*P0.5mm*'</td></tr></table>]|
 ||||

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_Blade_Mini_directSolder|
 |Hex ID (short code)|hexID|FZKFUFUBLADEMDIRECTSOLDER|
 |name|name|Fuse : Fuse_Blade_Mini_directSolder|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Fuse_Blade_Mini_directSolder', 'description': 'car blade fuse mini, direct solder', 'tags': 'car blade fuse mini', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Fuse.3dshapes/Fuse_Blade_Mini_directSolder.wrl', 'pins': {'type': 'thru_hole', 'shape': 'oval'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Fuse_Blade_Mini_directSolder'</td><td> 'description'</td></tr><tr><td> 'car blade fuse mini</td><td> direct solder'</td><td> 'tags'</td></tr><tr><td> 'car blade fuse mini'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Fuse.3dshapes/Fuse_Blade_Mini_directSolder.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'oval'</td></tr></table></td></tr></table>|
 ||||
 
 

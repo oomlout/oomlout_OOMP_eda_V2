@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKFPGAXILINXKINTEX7XC7K41TFBG676 > XC7K410T-FBG676
+# SZKFPGAXILINXKINTEX7XC7K41TFBG676 > FPGA_Xilinx_Kintex7 : XC7K410T-FBG676
 
 - ID: SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Kintex7-XC7K410T-FBG676
 - Hex ID: SZKFPGAXILINXKINTEX7XC7K41TFBG676
-- Name: XC7K410T-FBG676
-- Description: XC7K410T-FBG676
+- Name: FPGA_Xilinx_Kintex7 : XC7K410T-FBG676
+- Description: FPGA_Xilinx_Kintex7 : XC7K410T-FBG676
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Kintex7-XC7K410T-FBG676](http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Kintex7-XC7K410T-FBG676)
 - Short Link: [http://oom.lt/SZKFPGAXILINXKINTEX7XC7K41TFBG676](http://oom.lt/SZKFPGAXILINXKINTEX7XC7K41TFBG676)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|XC7K410T-FBG676|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Kintex7-XC7K410T-FBG676|
 |Hex ID (short code)|hexID|SZKFPGAXILINXKINTEX7XC7K41TFBG676|
-|name|name|XC7K410T-FBG676|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'XC7K410T-FBG676', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'FPGA', 'kicadSymbolki_description': 'Kintex 7 T 410 XC7K410T-FBG676'}]|
+|name|name|FPGA_Xilinx_Kintex7 : XC7K410T-FBG676|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'XC7K410T-FBG676'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_locked'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'FPGA'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Kintex 7 T 410 XC7K410T-FBG676'</td></tr></table>]|
 ||||

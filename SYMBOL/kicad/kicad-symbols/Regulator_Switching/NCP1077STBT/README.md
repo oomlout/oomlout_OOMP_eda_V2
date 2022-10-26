@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORSWITCHINGNCP177STBT > NCP1077STBT
+# SZKREGULATORSWITCHINGNCP177STBT > Regulator_Switching : NCP1077STBT
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-NCP1077STBT
 - Hex ID: SZKREGULATORSWITCHINGNCP177STBT
-- Name: NCP1077STBT
-- Description: NCP1077STBT
+- Name: Regulator_Switching : NCP1077STBT
+- Description: Regulator_Switching : NCP1077STBT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-NCP1077STBT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-NCP1077STBT)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGNCP177STBT](http://oom.lt/SZKREGULATORSWITCHINGNCP177STBT)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|NCP1077STBT|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-NCP1077STBT|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGNCP177STBT|
-|name|name|NCP1077STBT|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'NCP1070STAT', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'NCP1077STBT', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-223', 'kicadSymbolDatasheet': 'http://www.onsemi.com/pub/Collateral/NCP1070-D.PDF', 'kicadSymbolki_keywords': 'SMPS Converter', 'kicadSymbolki_description': 'High-Voltage Switcher for Low Power Offline SMPS, 700V Vds, 25W/15W, 230V/85-265V, 100kHz, 4.7Ohm Rds(on), 800mA Ipk, SOT-223', 'kicadSymbolki_fp_filters': 'SOT?223*'}]|
+|name|name|Regulator_Switching : NCP1077STBT|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'NCP1070STAT'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'NCP1077STBT'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-223'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.onsemi.com/pub/Collateral/NCP1070-D.PDF'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'SMPS Converter'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'High-Voltage Switcher for Low Power Offline SMPS</td><td> 700V Vds</td><td> 25W/15W</td><td> 230V/85-265V</td><td> 100kHz</td><td> 4.7Ohm Rds(on)</td><td> 800mA Ipk</td><td> SOT-223'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?223*'</td></tr></table>]|
 ||||

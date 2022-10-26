@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_Micro-B_Amphenol_10104110_Horizontal|
 |Hex ID (short code)|hexID|FZKCNUUMBAMPHENOL11411HORIZONTAL|
 |name|name|Connector_USB : USB_Micro-B_Amphenol_10104110_Horizontal|
-|Footprint Kicad|footprintKicadDetails|{'name': 'USB_Micro-B_Amphenol_10104110_Horizontal', 'description': 'USB Micro-B, horizontal, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/10104110.pdf', 'tags': 'USB Micro B horizontal', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_USB.3dshapes/USB_Micro-B_Amphenol_10104110_Horizontal.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'USB_Micro-B_Amphenol_10104110_Horizontal'</td><td> 'description'</td></tr><tr><td> 'USB Micro-B</td><td> horizontal</td><td> https</td></tr><tr><td>//cdn.amphenol-icc.com/media/wysiwyg/files/drawing/10104110.pdf'</td><td> 'tags'</td></tr><tr><td> 'USB Micro B horizontal'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_USB.3dshapes/USB_Micro-B_Amphenol_10104110_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

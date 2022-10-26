@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SO-TSSOP-28-1EP_4.4x9.7mm_P0.65mm|
 |Hex ID (short code)|hexID|FZKSOTSS281EP44X97P65|
 |name|name|Package_SO : TSSOP-28-1EP_4.4x9.7mm_P0.65mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'TSSOP-28-1EP_4.4x9.7mm_P0.65mm', 'description': 'TSSOP28: plastic thin shrink small outline package; 28 leads; body width 4.4 mm; Exposed Pad Variation; (see NXP SSOP-TSSOP-VSO-REFLOW.pdf and sot361-1_po.pdf)', 'tags': 'SSOP 0.65', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/TSSOP-28_4.4x9.7mm_Pitch0.65mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'TSSOP-28-1EP_4.4x9.7mm_P0.65mm'</td><td> 'description'</td></tr><tr><td> 'TSSOP28</td></tr><tr><td> plastic thin shrink small outline package; 28 leads; body width 4.4 mm; Exposed Pad Variation; (see NXP SSOP-TSSOP-VSO-REFLOW.pdf and sot361-1_po.pdf)'</td><td> 'tags'</td></tr><tr><td> 'SSOP 0.65'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_SO.3dshapes/TSSOP-28_4.4x9.7mm_Pitch0.65mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

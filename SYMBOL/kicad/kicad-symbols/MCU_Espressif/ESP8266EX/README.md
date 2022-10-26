@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUESPRESSIFESP8266EX > ESP8266EX
+# SZKMCUESPRESSIFESP8266EX > MCU_Espressif : ESP8266EX
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Espressif-ESP8266EX
 - Hex ID: SZKMCUESPRESSIFESP8266EX
-- Name: ESP8266EX
-- Description: ESP8266EX
+- Name: MCU_Espressif : ESP8266EX
+- Description: MCU_Espressif : ESP8266EX
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Espressif-ESP8266EX](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Espressif-ESP8266EX)
 - Short Link: [http://oom.lt/SZKMCUESPRESSIFESP8266EX](http://oom.lt/SZKMCUESPRESSIFESP8266EX)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ESP8266EX|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Espressif-ESP8266EX|
 |Hex ID (short code)|hexID|SZKMCUESPRESSIFESP8266EX|
-|name|name|ESP8266EX|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ESP8266EX', 'kicadSymbolFootprint': 'Package_DFN_QFN:QFN-32-1EP_5x5mm_P0.5mm_EP3.45x3.45mm', 'kicadSymbolDatasheet': 'http://espressif.com/sites/default/files/documentation/0a-esp8266ex_datasheet_en.pdf', 'kicadSymbolki_keywords': 'wifi soc', 'kicadSymbolki_description': 'Highly integrated Wi-Fi SoC, QFN-32', 'kicadSymbolki_fp_filters': 'QFN*1EP*5x5mm*P0.5mm*'}]|
+|name|name|MCU_Espressif : ESP8266EX|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ESP8266EX'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>QFN-32-1EP_5x5mm_P0.5mm_EP3.45x3.45mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//espressif.com/sites/default/files/documentation/0a-esp8266ex_datasheet_en.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'wifi soc'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Highly integrated Wi-Fi SoC</td><td> QFN-32'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'QFN*1EP*5x5mm*P0.5mm*'</td></tr></table>]|
 ||||

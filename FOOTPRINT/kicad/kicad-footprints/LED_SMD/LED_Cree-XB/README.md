@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Cree-XB|
 |Hex ID (short code)|hexID|FZKLSMLCREEXB|
 |name|name|LED_SMD : LED_Cree-XB|
-|Footprint Kicad|footprintKicadDetails|{'name': 'LED_Cree-XB', 'description': 'http://www.cree.com/~/media/Files/Cree/LED-Components-and-Modules/XLamp/Data-and-Binning/XLampXBD.pdf', 'tags': 'LED Cree XB', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED_Cree-XB.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'LED_Cree-XB'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//www.cree.com/~/media/Files/Cree/LED-Components-and-Modules/XLamp/Data-and-Binning/XLampXBD.pdf'</td><td> 'tags'</td></tr><tr><td> 'LED Cree XB'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/LED_SMD.3dshapes/LED_Cree-XB.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

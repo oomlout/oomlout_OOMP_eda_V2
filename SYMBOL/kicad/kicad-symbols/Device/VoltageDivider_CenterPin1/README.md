@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDEVICEVOLTAGEDIVIDERCENTERPIN1 > VoltageDivider_CenterPin1
+# SZKDEVICEVOLTAGEDIVIDERCENTERPIN1 > Device : VoltageDivider_CenterPin1
 
 - ID: SYMBOL-kicad-kicad-symbols-Device-VoltageDivider_CenterPin1
 - Hex ID: SZKDEVICEVOLTAGEDIVIDERCENTERPIN1
-- Name: VoltageDivider_CenterPin1
-- Description: VoltageDivider_CenterPin1
+- Name: Device : VoltageDivider_CenterPin1
+- Description: Device : VoltageDivider_CenterPin1
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-VoltageDivider_CenterPin1](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-VoltageDivider_CenterPin1)
 - Short Link: [http://oom.lt/SZKDEVICEVOLTAGEDIVIDERCENTERPIN1](http://oom.lt/SZKDEVICEVOLTAGEDIVIDERCENTERPIN1)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|VoltageDivider_CenterPin1|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-VoltageDivider_CenterPin1|
 |Hex ID (short code)|hexID|SZKDEVICEVOLTAGEDIVIDERCENTERPIN1|
-|name|name|VoltageDivider_CenterPin1|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'RN', 'kicadSymbolValue': 'VoltageDivider_CenterPin1', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'R network voltage divider', 'kicadSymbolki_description': 'Voltage divider, center on pin 1', 'kicadSymbolki_fp_filters': 'R?Array?SIP* SOT?23'}]|
+|name|name|Device : VoltageDivider_CenterPin1|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'RN'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'VoltageDivider_CenterPin1'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'R network voltage divider'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Voltage divider</td><td> center on pin 1'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'R?Array?SIP* SOT?23'</td></tr></table>]|
 ||||

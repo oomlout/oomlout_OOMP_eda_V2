@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_BelFuse_0ZRE0100FF_L18.7mm_W5.1mm|
 |Hex ID (short code)|hexID|FZKFUFUBELFUZRE1FFL187W51|
 |name|name|Fuse : Fuse_BelFuse_0ZRE0100FF_L18.7mm_W5.1mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Fuse_BelFuse_0ZRE0100FF_L18.7mm_W5.1mm', 'description': 'Fuse 0ZRE0100FF, BelFuse, Radial Leaded PTC,https://www.belfuse.com/resources/datasheets/circuitprotection/ds-cp-0zre-series.pdf', 'tags': '0ZRE BelFuse radial PTC', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Fuse.3dshapes/Fuse_BelFuse_0ZRE_0ZRE0100FF_L18.7mm_W5.1mm.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Fuse_BelFuse_0ZRE0100FF_L18.7mm_W5.1mm'</td><td> 'description'</td></tr><tr><td> 'Fuse 0ZRE0100FF</td><td> BelFuse</td><td> Radial Leaded PTC</td><td>https</td></tr><tr><td>//www.belfuse.com/resources/datasheets/circuitprotection/ds-cp-0zre-series.pdf'</td><td> 'tags'</td></tr><tr><td> '0ZRE BelFuse radial PTC'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Fuse.3dshapes/Fuse_BelFuse_0ZRE_0ZRE0100FF_L18.7mm_W5.1mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

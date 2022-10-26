@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKSENCURRENTHO8NP > HO8-NP
+# SZKSENCURRENTHO8NP > Sensor_Current : HO8-NP
 
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Current-HO8-NP
 - Hex ID: SZKSENCURRENTHO8NP
-- Name: HO8-NP
-- Description: HO8-NP
+- Name: Sensor_Current : HO8-NP
+- Description: Sensor_Current : HO8-NP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-HO8-NP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-HO8-NP)
 - Short Link: [http://oom.lt/SZKSENCURRENTHO8NP](http://oom.lt/SZKSENCURRENTHO8NP)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|HO8-NP|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Current-HO8-NP|
 |Hex ID (short code)|hexID|SZKSENCURRENTHO8NP|
-|name|name|HO8-NP|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'HO8-NP', 'kicadSymbolFootprint': 'Sensor_Current:LEM_HO8-NP', 'kicadSymbolDatasheet': 'https://www.lem.com/sites/default/files/products_datasheets/ho-np-0000_series.pdf', 'kicadSymbolki_keywords': 'current transducer', 'kicadSymbolki_description': 'Current Transducer, 8A, Unipolar, 5V', 'kicadSymbolki_fp_filters': 'LEM*HO8*NP*'}]|
+|name|name|Sensor_Current : HO8-NP|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'HO8-NP'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Sensor_Current</td></tr><tr><td>LEM_HO8-NP'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.lem.com/sites/default/files/products_datasheets/ho-np-0000_series.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'current transducer'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Current Transducer</td><td> 8A</td><td> Unipolar</td><td> 5V'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'LEM*HO8*NP*'</td></tr></table>]|
 ||||

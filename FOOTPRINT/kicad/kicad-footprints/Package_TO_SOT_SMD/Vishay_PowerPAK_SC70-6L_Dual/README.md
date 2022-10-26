@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-Vishay_PowerPAK_SC70-6L_Dual|
 |Hex ID (short code)|hexID|FZKPACKAGETOSOTSMVISHAYPOWERPAKSC76LDUAL|
 |name|name|Package_TO_SOT_SMD : Vishay_PowerPAK_SC70-6L_Dual|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Vishay_PowerPAK_SC70-6L_Dual', 'description': 'Vishay PowerPAK SC70 dual transistor package http://www.vishay.com/docs/70487/70487.pdf', 'tags': 'powerpak sc70 sc-70 dual', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/Vishay_PowerPAK_SC70-6L_Dual.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Vishay_PowerPAK_SC70-6L_Dual'</td><td> 'description'</td></tr><tr><td> 'Vishay PowerPAK SC70 dual transistor package http</td></tr><tr><td>//www.vishay.com/docs/70487/70487.pdf'</td><td> 'tags'</td></tr><tr><td> 'powerpak sc70 sc-70 dual'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_TO_SOT_SMD.3dshapes/Vishay_PowerPAK_SC70-6L_Dual.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDIODE1N5711 > 1N5711
+# SZKDIODE1N5711 > Diode : 1N5711
 
 - ID: SYMBOL-kicad-kicad-symbols-Diode-1N5711
 - Hex ID: SZKDIODE1N5711
-- Name: 1N5711
-- Description: 1N5711
+- Name: Diode : 1N5711
+- Description: Diode : 1N5711
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-1N5711](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-1N5711)
 - Short Link: [http://oom.lt/SZKDIODE1N5711](http://oom.lt/SZKDIODE1N5711)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|1N5711|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-1N5711|
 |Hex ID (short code)|hexID|SZKDIODE1N5711|
-|name|name|1N5711|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '1N6263', 'kicadSymbolReference': 'D', 'kicadSymbolValue': '1N5711', 'kicadSymbolFootprint': 'Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal', 'kicadSymbolDatasheet': 'https://www.microsemi.com/document-portal/doc_download/8865-lds-0040-datasheet', 'kicadSymbolki_keywords': 'diode Schottky', 'kicadSymbolki_description': '70V 33mA Schottky diode, DO-35', 'kicadSymbolki_fp_filters': 'D*DO?35*'}]|
+|name|name|Diode : 1N5711|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> '1N6263'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> '1N5711'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Diode_THT</td></tr><tr><td>D_DO-35_SOD27_P7.62mm_Horizontal'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.microsemi.com/document-portal/doc_download/8865-lds-0040-datasheet'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'diode Schottky'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '70V 33mA Schottky diode</td><td> DO-35'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'D*DO?35*'</td></tr></table>]|
 ||||

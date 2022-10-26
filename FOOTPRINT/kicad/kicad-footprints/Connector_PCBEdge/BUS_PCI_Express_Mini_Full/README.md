@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_PCBEdge-BUS_PCI_Express_Mini_Full|
 |Hex ID (short code)|hexID|FZKCNPCBEDGEBUSPCIEXPRESSMFULL|
 |name|name|Connector_PCBEdge : BUS_PCI_Express_Mini_Full|
-|Footprint Kicad|footprintKicadDetails|{'name': 'BUS_PCI_Express_Mini_Full', 'description': 'Mini-PCI Express bus connector full size with clips (https://s3.amazonaws.com/fit-iot/download/facet-cards/documents/PCI_Express_miniCard_Electromechanical_specs_rev1.2.pdf#page=24)', 'tags': 'mini pcie', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_PCBEdge.3dshapes/BUS_PCI_Express_Mini_Full.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'BUS_PCI_Express_Mini_Full'</td><td> 'description'</td></tr><tr><td> 'Mini-PCI Express bus connector full size with clips (https</td></tr><tr><td>//s3.amazonaws.com/fit-iot/download/facet-cards/documents/PCI_Express_miniCard_Electromechanical_specs_rev1.2.pdf#page=24)'</td><td> 'tags'</td></tr><tr><td> 'mini pcie'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_PCBEdge.3dshapes/BUS_PCI_Express_Mini_Full.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

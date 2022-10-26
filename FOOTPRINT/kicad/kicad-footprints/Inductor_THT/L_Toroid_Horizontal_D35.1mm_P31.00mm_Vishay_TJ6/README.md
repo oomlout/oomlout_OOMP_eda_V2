@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Toroid_Horizontal_D35.1mm_P31.00mm_Vishay_TJ6|
 |Hex ID (short code)|hexID|FZKINLTOROIDHORIZONTALD351P31VISHAYTJ6|
 |name|name|Inductor_THT : L_Toroid_Horizontal_D35.1mm_P31.00mm_Vishay_TJ6|
-|Footprint Kicad|footprintKicadDetails|{'name': 'L_Toroid_Horizontal_D35.1mm_P31.00mm_Vishay_TJ6', 'description': 'L_Toroid, Horizontal series, Radial, pin pitch=31.00mm, , diameter=35.1mm, Vishay, TJ6, http://www.vishay.com/docs/34079/tj.pdf', 'tags': 'L_Toroid Horizontal series Radial pin pitch 31.00mm  diameter 35.1mm Vishay TJ6', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Toroid_Horizontal_D35.1mm_P31.00mm_Vishay_TJ6.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'L_Toroid_Horizontal_D35.1mm_P31.00mm_Vishay_TJ6'</td><td> 'description'</td></tr><tr><td> 'L_Toroid</td><td> Horizontal series</td><td> Radial</td><td> pin pitch=31.00mm</td><td> </td><td> diameter=35.1mm</td><td> Vishay</td><td> TJ6</td><td> http</td></tr><tr><td>//www.vishay.com/docs/34079/tj.pdf'</td><td> 'tags'</td></tr><tr><td> 'L_Toroid Horizontal series Radial pin pitch 31.00mm  diameter 35.1mm Vishay TJ6'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Inductor_THT.3dshapes/L_Toroid_Horizontal_D35.1mm_P31.00mm_Vishay_TJ6.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

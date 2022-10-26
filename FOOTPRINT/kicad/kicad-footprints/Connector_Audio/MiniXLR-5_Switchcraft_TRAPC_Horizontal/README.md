@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Audio-MiniXLR-5_Switchcraft_TRAPC_Horizontal|
 |Hex ID (short code)|hexID|FZKCNAUDIOMXLR5SWITCHCRAFTTRAPCHORIZONTAL|
 |name|name|Connector_Audio : MiniXLR-5_Switchcraft_TRAPC_Horizontal|
-|Footprint Kicad|footprintKicadDetails|{'name': 'MiniXLR-5_Switchcraft_TRAPC_Horizontal', 'description': 'http://www.switchcraft.com/ProductSummary.aspx?Parent=620 http://www.switchcraft.com/Drawings/TRAPC_X-TRASM_X_SERIES_CD.PDF', 'tags': 'THT Mini XLR 5Pin right angle', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_Audio.3dshapes/MiniXLR-5_Switchcraft_TRAPC_Horizontal.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'MiniXLR-5_Switchcraft_TRAPC_Horizontal'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//www.switchcraft.com/ProductSummary.aspx?Parent=620 http</td></tr><tr><td>//www.switchcraft.com/Drawings/TRAPC_X-TRASM_X_SERIES_CD.PDF'</td><td> 'tags'</td></tr><tr><td> 'THT Mini XLR 5Pin right angle'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_Audio.3dshapes/MiniXLR-5_Switchcraft_TRAPC_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

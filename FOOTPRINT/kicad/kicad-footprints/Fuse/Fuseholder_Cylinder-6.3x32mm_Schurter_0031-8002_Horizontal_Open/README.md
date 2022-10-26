@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Fuse-Fuseholder_Cylinder-6.3x32mm_Schurter_0031-8002_Horizontal_Open|
 |Hex ID (short code)|hexID|FZKFUFUHOLDERCYLINDER63X32SCHURTER3182HORIZONTALOPEN|
 |name|name|Fuse : Fuseholder_Cylinder-6.3x32mm_Schurter_0031-8002_Horizontal_Open|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Fuseholder_Cylinder-6.3x32mm_Schurter_0031-8002_Horizontal_Open', 'description': 'Fuseholder, horizontal, open, 6.3x32, Schurter, 0031.8002, https://www.schurter.com/en/datasheet/typ_OG__Holder__6.3x32.pdf', 'tags': 'Fuseholder horizontal open 6.3x32 Schurter 0031.8002', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Fuse.3dshapes/Fuseholder_Cylinder-6.3x32mm_Schurter_0031-8002_Horizontal_Open.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Fuseholder_Cylinder-6.3x32mm_Schurter_0031-8002_Horizontal_Open'</td><td> 'description'</td></tr><tr><td> 'Fuseholder</td><td> horizontal</td><td> open</td><td> 6.3x32</td><td> Schurter</td><td> 0031.8002</td><td> https</td></tr><tr><td>//www.schurter.com/en/datasheet/typ_OG__Holder__6.3x32.pdf'</td><td> 'tags'</td></tr><tr><td> 'Fuseholder horizontal open 6.3x32 Schurter 0031.8002'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Fuse.3dshapes/Fuseholder_Cylinder-6.3x32mm_Schurter_0031-8002_Horizontal_Open.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

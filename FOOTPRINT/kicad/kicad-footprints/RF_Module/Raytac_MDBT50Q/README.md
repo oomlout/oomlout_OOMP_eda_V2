@@ -29,5 +29,5 @@ NO IMAGE
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-RF_Module-Raytac_MDBT50Q|
 |Hex ID (short code)|hexID|FZKRFMORAYTACMDBT5Q|
 |name|name|RF_Module : Raytac_MDBT50Q|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Raytac_MDBT50Q', 'description': 'Multiprotocol radio SoC module https://www.raytac.com/download/index.php?index_id=43', 'tags': 'wireless 2.4 GHz Bluetooth ble zigbee 802.15.4 thread nordic raytac nrf52840 nrf52833', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/RF_Module.3dshapes/Raytac_MDBT50Q.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Raytac_MDBT50Q'</td><td> 'description'</td></tr><tr><td> 'Multiprotocol radio SoC module https</td></tr><tr><td>//www.raytac.com/download/index.php?index_id=43'</td><td> 'tags'</td></tr><tr><td> 'wireless 2.4 GHz Bluetooth ble zigbee 802.15.4 thread nordic raytac nrf52840 nrf52833'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/RF_Module.3dshapes/Raytac_MDBT50Q.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKSENOPTICALSFH271 > SFH2701
+# SZKSENOPTICALSFH271 > Sensor_Optical : SFH2701
 
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Optical-SFH2701
 - Hex ID: SZKSENOPTICALSFH271
-- Name: SFH2701
-- Description: SFH2701
+- Name: Sensor_Optical : SFH2701
+- Description: Sensor_Optical : SFH2701
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-SFH2701](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-SFH2701)
 - Short Link: [http://oom.lt/SZKSENOPTICALSFH271](http://oom.lt/SZKSENOPTICALSFH271)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SFH2701|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Optical-SFH2701|
 |Hex ID (short code)|hexID|SZKSENOPTICALSFH271|
-|name|name|SFH2701|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'SFH2701', 'kicadSymbolFootprint': 'LED_SMD:LED_1206_3216Metric_Castellated', 'kicadSymbolDatasheet': 'http://www.osram-os.com/Graphics/XPic6/00201111_0.pdf/SFH%202701.pdf', 'kicadSymbolki_keywords': 'opto photodiode', 'kicadSymbolki_description': 'High Speed PIN Photodiode, SMD package', 'kicadSymbolki_fp_filters': 'LED*1206*'}]|
+|name|name|Sensor_Optical : SFH2701|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'SFH2701'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'LED_SMD</td></tr><tr><td>LED_1206_3216Metric_Castellated'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.osram-os.com/Graphics/XPic6/00201111_0.pdf/SFH%202701.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'opto photodiode'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'High Speed PIN Photodiode</td><td> SMD package'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'LED*1206*'</td></tr></table>]|
 ||||

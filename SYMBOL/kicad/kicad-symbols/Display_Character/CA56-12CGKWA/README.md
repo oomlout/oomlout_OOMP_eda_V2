@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDICHARACTERCA5612CGKWA > CA56-12CGKWA
+# SZKDICHARACTERCA5612CGKWA > Display_Character : CA56-12CGKWA
 
 - ID: SYMBOL-kicad-kicad-symbols-Display_Character-CA56-12CGKWA
 - Hex ID: SZKDICHARACTERCA5612CGKWA
-- Name: CA56-12CGKWA
-- Description: CA56-12CGKWA
+- Name: Display_Character : CA56-12CGKWA
+- Description: Display_Character : CA56-12CGKWA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-CA56-12CGKWA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-CA56-12CGKWA)
 - Short Link: [http://oom.lt/SZKDICHARACTERCA5612CGKWA](http://oom.lt/SZKDICHARACTERCA5612CGKWA)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|CA56-12CGKWA|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Display_Character-CA56-12CGKWA|
 |Hex ID (short code)|hexID|SZKDICHARACTERCA5612CGKWA|
-|name|name|CA56-12CGKWA|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'CA56-12CGKWA', 'kicadSymbolFootprint': 'Display_7Segment:CA56-12CGKWA', 'kicadSymbolDatasheet': 'http://www.kingbright.com/attachments/file/psearch/000/00/00/CA56-12CGKWA(Ver.9A).pdf', 'kicadSymbolki_keywords': 'display LED', 'kicadSymbolki_description': '4 digit 7 segment Green LED, common anode', 'kicadSymbolki_fp_filters': '*CA56*12CGKWA*'}]|
+|name|name|Display_Character : CA56-12CGKWA|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'CA56-12CGKWA'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Display_7Segment</td></tr><tr><td>CA56-12CGKWA'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.kingbright.com/attachments/file/psearch/000/00/00/CA56-12CGKWA(Ver.9A).pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'display LED'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '4 digit 7 segment Green LED</td><td> common anode'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> '*CA56*12CGKWA*'</td></tr></table>]|
 ||||

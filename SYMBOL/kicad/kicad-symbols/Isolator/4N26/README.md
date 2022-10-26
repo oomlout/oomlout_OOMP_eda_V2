@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKISOLATOR4N26 > 4N26
+# SZKISOLATOR4N26 > Isolator : 4N26
 
 - ID: SYMBOL-kicad-kicad-symbols-Isolator-4N26
 - Hex ID: SZKISOLATOR4N26
-- Name: 4N26
-- Description: 4N26
+- Name: Isolator : 4N26
+- Description: Isolator : 4N26
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-4N26](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-4N26)
 - Short Link: [http://oom.lt/SZKISOLATOR4N26](http://oom.lt/SZKISOLATOR4N26)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|4N26|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Isolator-4N26|
 |Hex ID (short code)|hexID|SZKISOLATOR4N26|
-|name|name|4N26|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '4N25', 'kicadSymbolReference': 'U', 'kicadSymbolValue': '4N26', 'kicadSymbolFootprint': 'Package_DIP:DIP-6_W7.62mm', 'kicadSymbolDatasheet': 'https://www.vishay.com/docs/83725/4n25.pdf', 'kicadSymbolki_keywords': 'NPN DC Optocoupler Base Connected', 'kicadSymbolki_description': 'DC Optocoupler Base Connected, Vce 30V, CTR 20%, Viso 1500V, DIP6', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
+|name|name|Isolator : 4N26|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> '4N25'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> '4N26'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>DIP-6_W7.62mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.vishay.com/docs/83725/4n25.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'NPN DC Optocoupler Base Connected'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'DC Optocoupler Base Connected</td><td> Vce 30V</td><td> CTR 20%</td><td> Viso 1500V</td><td> DIP6'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W7.62mm*'</td></tr></table>]|
 ||||

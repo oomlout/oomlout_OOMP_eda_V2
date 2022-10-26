@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SeikoEpson_SG-8002DB|
 |Hex ID (short code)|hexID|FZKOCSOCSSEIKOEPSONSG82DB|
 |name|name|Oscillator : Oscillator_SeikoEpson_SG-8002DB|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Oscillator_SeikoEpson_SG-8002DB', 'description': '14-lead dip package, row spacing 7.62 mm (300 mils)', 'tags': 'DIL DIP PDIP 2.54mm 7.62mm 300mil', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Oscillator.3dshapes/Oscillator_SeikoEpson_SG-8002DB.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Oscillator_SeikoEpson_SG-8002DB'</td><td> 'description'</td></tr><tr><td> '14-lead dip package</td><td> row spacing 7.62 mm (300 mils)'</td><td> 'tags'</td></tr><tr><td> 'DIL DIP PDIP 2.54mm 7.62mm 300mil'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Oscillator.3dshapes/Oscillator_SeikoEpson_SG-8002DB.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKPSPICEQPNP > QPNP
+# SZKPSPICEQPNP > pspice : QPNP
 
 - ID: SYMBOL-kicad-kicad-symbols-pspice-QPNP
 - Hex ID: SZKPSPICEQPNP
-- Name: QPNP
-- Description: QPNP
+- Name: pspice : QPNP
+- Description: pspice : QPNP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-pspice-QPNP](http://oom.lt/SYMBOL-kicad-kicad-symbols-pspice-QPNP)
 - Short Link: [http://oom.lt/SZKPSPICEQPNP](http://oom.lt/SZKPSPICEQPNP)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|QPNP|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-pspice-QPNP|
 |Hex ID (short code)|hexID|SZKPSPICEQPNP|
-|name|name|QPNP|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'QPNP', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'simulstaion', 'kicadSymbolki_description': 'Bipolar transistor symbol for simulation only'}]|
+|name|name|pspice : QPNP|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'QPNP'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'simulstaion'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Bipolar transistor symbol for simulation only'</td></tr></table>]|
 ||||

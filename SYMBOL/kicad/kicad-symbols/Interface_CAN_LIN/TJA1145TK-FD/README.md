@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKINTERFACECANLINTJA1145TKFD > TJA1145TK-FD
+# SZKINTERFACECANLINTJA1145TKFD > Interface_CAN_LIN : TJA1145TK-FD
 
 - ID: SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-TJA1145TK-FD
 - Hex ID: SZKINTERFACECANLINTJA1145TKFD
-- Name: TJA1145TK-FD
-- Description: TJA1145TK-FD
+- Name: Interface_CAN_LIN : TJA1145TK-FD
+- Description: Interface_CAN_LIN : TJA1145TK-FD
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-TJA1145TK-FD](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-TJA1145TK-FD)
 - Short Link: [http://oom.lt/SZKINTERFACECANLINTJA1145TKFD](http://oom.lt/SZKINTERFACECANLINTJA1145TKFD)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TJA1145TK-FD|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-TJA1145TK-FD|
 |Hex ID (short code)|hexID|SZKINTERFACECANLINTJA1145TKFD|
-|name|name|TJA1145TK-FD|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TJA1145TK', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TJA1145TK-FD', 'kicadSymbolFootprint': 'Package_DFN_QFN:DFN-14-1EP_3x4.5mm_P0.65mm_EP1.65x4.25mm', 'kicadSymbolDatasheet': 'https://www.nxp.com/docs/en/data-sheet/TJA1145.pdf', 'kicadSymbolki_keywords': 'CAN FD High Speed CAN Transceiver Sleep VIO Partial Networking SPI', 'kicadSymbolki_description': 'High-speed CAN transceiver for partial networking with FD-passive function, DFN-14', 'kicadSymbolki_fp_filters': 'DFN*1EP*3x4.5mm*P0.65mm*'}]|
+|name|name|Interface_CAN_LIN : TJA1145TK-FD|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'TJA1145TK'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TJA1145TK-FD'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>DFN-14-1EP_3x4.5mm_P0.65mm_EP1.65x4.25mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.nxp.com/docs/en/data-sheet/TJA1145.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'CAN FD High Speed CAN Transceiver Sleep VIO Partial Networking SPI'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'High-speed CAN transceiver for partial networking with FD-passive function</td><td> DFN-14'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DFN*1EP*3x4.5mm*P0.65mm*'</td></tr></table>]|
 ||||

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Diode_THT-Diode_Bridge_DIP-4_W5.08mm_P2.54mm|
 |Hex ID (short code)|hexID|FZKDDIODEBRIDGEDIP4W58P254|
 |name|name|Diode_THT : Diode_Bridge_DIP-4_W5.08mm_P2.54mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Diode_Bridge_DIP-4_W5.08mm_P2.54mm', 'description': '4-lead dip package for diode bridges, row spacing 5.08mm, pin-spacing 2.54mm, see http://www.vishay.com/docs/88898/b2m.pdf', 'tags': 'DIL DIP PDIP 5.08mm 2.54', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/Diode_Bridge_DIP-4_W5.08mm_P2.54mm.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Diode_Bridge_DIP-4_W5.08mm_P2.54mm'</td><td> 'description'</td></tr><tr><td> '4-lead dip package for diode bridges</td><td> row spacing 5.08mm</td><td> pin-spacing 2.54mm</td><td> see http</td></tr><tr><td>//www.vishay.com/docs/88898/b2m.pdf'</td><td> 'tags'</td></tr><tr><td> 'DIL DIP PDIP 5.08mm 2.54'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Diode_THT.3dshapes/Diode_Bridge_DIP-4_W5.08mm_P2.54mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

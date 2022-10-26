@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZK74XX74LS55 > 74LS55
+# SZK74XX74LS55 > 74xx : 74LS55
 
 - ID: SYMBOL-kicad-kicad-symbols-74xx-74LS55
 - Hex ID: SZK74XX74LS55
-- Name: 74LS55
-- Description: 74LS55
+- Name: 74xx : 74LS55
+- Description: 74xx : 74LS55
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx-74LS55](http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx-74LS55)
 - Short Link: [http://oom.lt/SZK74XX74LS55](http://oom.lt/SZK74XX74LS55)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74LS55|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xx-74LS55|
 |Hex ID (short code)|hexID|SZK74XX74LS55|
-|name|name|74LS55|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74LS55', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/gpn/sn74LS55', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'TTL ANDNOR', 'kicadSymbolki_description': 'AND-NOR ( S = / (ABCD + EFGH) )', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
+|name|name|74xx : 74LS55|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> '74LS55'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/gpn/sn74LS55'</td><td> 'kicadSymbolki_locked'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'TTL ANDNOR'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'AND-NOR ( S = / (ABCD + EFGH) )'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W7.62mm*'</td></tr></table>]|
 ||||

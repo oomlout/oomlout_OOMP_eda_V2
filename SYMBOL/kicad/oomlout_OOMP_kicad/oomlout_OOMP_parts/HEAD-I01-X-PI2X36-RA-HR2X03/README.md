@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSHEADI1XPI2X36RAHR2X3 > HEAD-I01-X-PI2X36-RA-HR2X03
+# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSHEADI1XPI2X36RAHR2X3 > oomlout_OOMP_parts : HEAD-I01-X-PI2X36-RA-HR2X03
 
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-I01-X-PI2X36-RA-HR2X03
 - Hex ID: SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSHEADI1XPI2X36RAHR2X3
-- Name: HEAD-I01-X-PI2X36-RA-HR2X03
-- Description: HEAD-I01-X-PI2X36-RA-HR2X03
+- Name: oomlout_OOMP_parts : HEAD-I01-X-PI2X36-RA-HR2X03
+- Description: oomlout_OOMP_parts : HEAD-I01-X-PI2X36-RA-HR2X03
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-I01-X-PI2X36-RA-HR2X03](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-I01-X-PI2X36-RA-HR2X03)
 - Short Link: [http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSHEADI1XPI2X36RAHR2X3](http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSHEADI1XPI2X36RAHR2X3)
   
@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|HEAD-I01-X-PI2X36-RA-HR2X03|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-I01-X-PI2X36-RA-HR2X03|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSHEADI1XPI2X36RAHR2X3|
-|name|name|HEAD-I01-X-PI2X36-RA-HR2X03|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'HEAD-I01-X-PI2X36-RA-HR2X03', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:HEAD-I01-X-PI2X36-RA-HR2X03', 'kicadSymbolDatasheet': 'oom.lt/HR2X03', 'kicadSymbolki_keywords': 'connector', 'kicadSymbolki_description': 'hexID: HR2X03;Generic connector, double row, 02x36, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)', 'kicadSymbolki_fp_filters': 'Connector*:*_2x??_*'}]|
+|name|name|oomlout_OOMP_parts : HEAD-I01-X-PI2X36-RA-HR2X03|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'J'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'HEAD-I01-X-PI2X36-RA-HR2X03'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'oomlout_OOMP_parts</td></tr><tr><td>HEAD-I01-X-PI2X36-RA-HR2X03'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'oom.lt/HR2X03'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'connector'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'hexID</td></tr><tr><td> HR2X03;Generic connector</td><td> double row</td><td> 02x36</td><td> odd/even pin numbering scheme (row 1 odd numbers</td><td> row 2 even numbers)</td><td> script generated (kicad-library-utils/schlib/autogen/connector/)'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Connector*</td></tr><tr><td>*_2x??_*'</td></tr></table>]|
 ||||

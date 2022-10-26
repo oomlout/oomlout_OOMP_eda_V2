@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKOCSMAX7375AXR45 > MAX7375AXR405
+# SZKOCSMAX7375AXR45 > Oscillator : MAX7375AXR405
 
 - ID: SYMBOL-kicad-kicad-symbols-Oscillator-MAX7375AXR405
 - Hex ID: SZKOCSMAX7375AXR45
-- Name: MAX7375AXR405
-- Description: MAX7375AXR405
+- Name: Oscillator : MAX7375AXR405
+- Description: Oscillator : MAX7375AXR405
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-MAX7375AXR405](http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-MAX7375AXR405)
 - Short Link: [http://oom.lt/SZKOCSMAX7375AXR45](http://oom.lt/SZKOCSMAX7375AXR45)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MAX7375AXR405|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Oscillator-MAX7375AXR405|
 |Hex ID (short code)|hexID|SZKOCSMAX7375AXR45|
-|name|name|MAX7375AXR405|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MAX7375AXR805', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MAX7375AXR405', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-323_SC-70', 'kicadSymbolDatasheet': 'https://datasheets.maximintegrated.com/en/ds/MAX7375.pdf', 'kicadSymbolki_keywords': 'Silicon Clock Oscillator 4MHz 4000kHz', 'kicadSymbolki_description': 'Silicon Clock Oscillator 4MHz, SC-70-3', 'kicadSymbolki_fp_filters': '*SC?70*'}]|
+|name|name|Oscillator : MAX7375AXR405|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'MAX7375AXR805'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MAX7375AXR405'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-323_SC-70'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//datasheets.maximintegrated.com/en/ds/MAX7375.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Silicon Clock Oscillator 4MHz 4000kHz'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Silicon Clock Oscillator 4MHz</td><td> SC-70-3'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> '*SC?70*'</td></tr></table>]|
 ||||

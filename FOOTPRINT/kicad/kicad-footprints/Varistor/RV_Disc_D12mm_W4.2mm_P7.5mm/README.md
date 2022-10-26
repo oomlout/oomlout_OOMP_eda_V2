@@ -29,5 +29,5 @@ NO IMAGE
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Varistor-RV_Disc_D12mm_W4.2mm_P7.5mm|
 |Hex ID (short code)|hexID|FZKVRVDISCD12W42P75|
 |name|name|Varistor : RV_Disc_D12mm_W4.2mm_P7.5mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'RV_Disc_D12mm_W4.2mm_P7.5mm', 'description': 'Varistor, diameter 12mm, width 4.2mm, pitch 7.5mm', 'tags': 'varistor SIOV', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Varistor.3dshapes/RV_Disc_D12mm_W4.2mm_P7.5mm.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'RV_Disc_D12mm_W4.2mm_P7.5mm'</td><td> 'description'</td></tr><tr><td> 'Varistor</td><td> diameter 12mm</td><td> width 4.2mm</td><td> pitch 7.5mm'</td><td> 'tags'</td></tr><tr><td> 'varistor SIOV'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Varistor.3dshapes/RV_Disc_D12mm_W4.2mm_P7.5mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

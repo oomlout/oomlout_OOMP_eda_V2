@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SO-PowerPAK_SO-8_Dual|
 |Hex ID (short code)|hexID|FZKSOPOWERPAKSO8DUAL|
 |name|name|Package_SO : PowerPAK_SO-8_Dual|
-|Footprint Kicad|footprintKicadDetails|{'name': 'PowerPAK_SO-8_Dual', 'description': 'PowerPAK SO-8 Dual (https://www.vishay.com/docs/71655/powerpak.pdf, https://www.vishay.com/docs/72600/72600.pdf)', 'tags': 'PowerPAK SO-8 Dual', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/PowerPAK_SO-8_Dual.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'PowerPAK_SO-8_Dual'</td><td> 'description'</td></tr><tr><td> 'PowerPAK SO-8 Dual (https</td></tr><tr><td>//www.vishay.com/docs/71655/powerpak.pdf</td><td> https</td></tr><tr><td>//www.vishay.com/docs/72600/72600.pdf)'</td><td> 'tags'</td></tr><tr><td> 'PowerPAK SO-8 Dual'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_SO.3dshapes/PowerPAK_SO-8_Dual.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

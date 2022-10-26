@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_Shunt_Vishay_WSK2512_6332Metric_T1.19mm|
 |Hex ID (short code)|hexID|FZKRESISTORSMRSHUNTVISHAYWSK25126332METRICT119|
 |name|name|Resistor_SMD : R_Shunt_Vishay_WSK2512_6332Metric_T1.19mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'R_Shunt_Vishay_WSK2512_6332Metric_T1.19mm', 'description': 'Shunt Resistor SMD 2512 (6332 Metric), 2.6mm thick, Vishay WKS2512, Terminal length (T) 1.19mm, 5 to 200 milli Ohm (http://http://www.vishay.com/docs/30108/wsk.pdf)', 'tags': 'resistor shunt WSK2512', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_Shunt_Vishay_WSK2512_6332Metric_T1.19mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'R_Shunt_Vishay_WSK2512_6332Metric_T1.19mm'</td><td> 'description'</td></tr><tr><td> 'Shunt Resistor SMD 2512 (6332 Metric)</td><td> 2.6mm thick</td><td> Vishay WKS2512</td><td> Terminal length (T) 1.19mm</td><td> 5 to 200 milli Ohm (http</td></tr><tr><td>//http</td></tr><tr><td>//www.vishay.com/docs/30108/wsk.pdf)'</td><td> 'tags'</td></tr><tr><td> 'resistor shunt WSK2512'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Resistor_SMD.3dshapes/R_Shunt_Vishay_WSK2512_6332Metric_T1.19mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

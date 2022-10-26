@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORBJTBC847 > BC847
+# SZKTRANSISTORBJTBC847 > Transistor_BJT : BC847
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC847
 - Hex ID: SZKTRANSISTORBJTBC847
-- Name: BC847
-- Description: BC847
+- Name: Transistor_BJT : BC847
+- Description: Transistor_BJT : BC847
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC847](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC847)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTBC847](http://oom.lt/SZKTRANSISTORBJTBC847)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BC847|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC847|
 |Hex ID (short code)|hexID|SZKTRANSISTORBJTBC847|
-|name|name|BC847|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BC817', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'BC847', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23', 'kicadSymbolDatasheet': 'http://www.infineon.com/dgdl/Infineon-BC847SERIES_BC848SERIES_BC849SERIES_BC850SERIES-DS-v01_01-en.pdf?fileId=db3a304314dca389011541d4630a1657', 'kicadSymbolki_keywords': 'NPN Small Signal Transistor', 'kicadSymbolki_description': '0.1A Ic, 45V Vce, NPN Transistor, SOT-23', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
+|name|name|Transistor_BJT : BC847|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'BC817'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'BC847'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-23'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.infineon.com/dgdl/Infineon-BC847SERIES_BC848SERIES_BC849SERIES_BC850SERIES-DS-v01_01-en.pdf?fileId=db3a304314dca389011541d4630a1657'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'NPN Small Signal Transistor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '0.1A Ic</td><td> 45V Vce</td><td> NPN Transistor</td><td> SOT-23'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23*'</td></tr></table>]|
 ||||

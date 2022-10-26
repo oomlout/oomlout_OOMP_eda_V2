@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORSWITCHINGLM56 > LM5006MM
+# SZKREGULATORSWITCHINGLM56 > Regulator_Switching : LM5006MM
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM5006MM
 - Hex ID: SZKREGULATORSWITCHINGLM56
-- Name: LM5006MM
-- Description: LM5006MM
+- Name: Regulator_Switching : LM5006MM
+- Description: Regulator_Switching : LM5006MM
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM5006MM](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM5006MM)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGLM56](http://oom.lt/SZKREGULATORSWITCHINGLM56)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM5006MM|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM5006MM|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGLM56|
-|name|name|LM5006MM|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM5006MM', 'kicadSymbolFootprint': 'Package_SO:MSOP-10_3x3mm_P0.5mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lm5006.pdf', 'kicadSymbolki_keywords': 'Constant On-Time Buck Switching Regulator', 'kicadSymbolki_description': '600mA, 80V Constant On-Time Buck Switching Regulator, MSOP-10', 'kicadSymbolki_fp_filters': 'MSOP*3x3mm*P0.5mm*'}]|
+|name|name|Regulator_Switching : LM5006MM|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LM5006MM'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>MSOP-10_3x3mm_P0.5mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/lm5006.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Constant On-Time Buck Switching Regulator'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '600mA</td><td> 80V Constant On-Time Buck Switching Regulator</td><td> MSOP-10'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'MSOP*3x3mm*P0.5mm*'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKOCSSG532CAN > SG-5032CAN
+# SZKOCSSG532CAN > Oscillator : SG-5032CAN
 
 - ID: SYMBOL-kicad-kicad-symbols-Oscillator-SG-5032CAN
 - Hex ID: SZKOCSSG532CAN
-- Name: SG-5032CAN
-- Description: SG-5032CAN
+- Name: Oscillator : SG-5032CAN
+- Description: Oscillator : SG-5032CAN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-SG-5032CAN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-SG-5032CAN)
 - Short Link: [http://oom.lt/SZKOCSSG532CAN](http://oom.lt/SZKOCSSG532CAN)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SG-5032CAN|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Oscillator-SG-5032CAN|
 |Hex ID (short code)|hexID|SZKOCSSG532CAN|
-|name|name|SG-5032CAN|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'X', 'kicadSymbolValue': 'SG-5032CAN', 'kicadSymbolFootprint': 'Oscillator:Oscillator_SMD_SeikoEpson_SG8002LB-4Pin_5.0x3.2mm', 'kicadSymbolDatasheet': 'https://support.epson.biz/td/api/doc_check.php?dl=brief_SG5032CAN&lang=en', 'kicadSymbolki_keywords': 'Crystal Clock Oscillator', 'kicadSymbolki_description': 'CMOS Clock Oscillator 1 to 75 MHz', 'kicadSymbolki_fp_filters': 'Oscillator*SMD*SeikoEpson*SG8002LB*5.0x3.2mm*'}]|
+|name|name|Oscillator : SG-5032CAN|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'X'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'SG-5032CAN'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Oscillator</td></tr><tr><td>Oscillator_SMD_SeikoEpson_SG8002LB-4Pin_5.0x3.2mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//support.epson.biz/td/api/doc_check.php?dl=brief_SG5032CAN&lang=en'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Crystal Clock Oscillator'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'CMOS Clock Oscillator 1 to 75 MHz'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Oscillator*SMD*SeikoEpson*SG8002LB*5.0x3.2mm*'</td></tr></table>]|
 ||||

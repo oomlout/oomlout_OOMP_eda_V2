@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_Tactile_Straight_KSL0Axx1LFTR|
 |Hex ID (short code)|hexID|FZKBSWTACTILESKSLAXX1LFTR|
 |name|name|Button_Switch_THT : SW_Tactile_Straight_KSL0Axx1LFTR|
-|Footprint Kicad|footprintKicadDetails|{'name': 'SW_Tactile_Straight_KSL0Axx1LFTR', 'description': 'SW PUSH SMALL http://www.ckswitches.com/media/1457/ksa_ksl.pdf', 'tags': 'SW PUSH SMALL Tactile C&K', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_Tactile_Straight_KSL0Axx1LFTR.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SW_Tactile_Straight_KSL0Axx1LFTR'</td><td> 'description'</td></tr><tr><td> 'SW PUSH SMALL http</td></tr><tr><td>//www.ckswitches.com/media/1457/ksa_ksl.pdf'</td><td> 'tags'</td></tr><tr><td> 'SW PUSH SMALL Tactile C&K'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Button_Switch_THT.3dshapes/SW_Tactile_Straight_KSL0Axx1LFTR.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

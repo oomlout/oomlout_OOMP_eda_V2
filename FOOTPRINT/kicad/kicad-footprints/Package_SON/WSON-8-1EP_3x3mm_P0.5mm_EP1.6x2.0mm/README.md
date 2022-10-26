@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SON-WSON-8-1EP_3x3mm_P0.5mm_EP1.6x2.0mm|
 |Hex ID (short code)|hexID|FZKSONWSON81EP3X3P5EP16X2|
 |name|name|Package_SON : WSON-8-1EP_3x3mm_P0.5mm_EP1.6x2.0mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'WSON-8-1EP_3x3mm_P0.5mm_EP1.6x2.0mm', 'description': '8-Lead Plastic WSON, 2x2mm Body, 0.5mm Pitch, WSON-8, http://www.ti.com/lit/ds/symlink/lm27761.pdf', 'tags': 'WSON 8 1EP', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SON.3dshapes/WSON-8-1EP_3x3mm_P0.5mm_EP1.6x2.0mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'WSON-8-1EP_3x3mm_P0.5mm_EP1.6x2.0mm'</td><td> 'description'</td></tr><tr><td> '8-Lead Plastic WSON</td><td> 2x2mm Body</td><td> 0.5mm Pitch</td><td> WSON-8</td><td> http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/lm27761.pdf'</td><td> 'tags'</td></tr><tr><td> 'WSON 8 1EP'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_SON.3dshapes/WSON-8-1EP_3x3mm_P0.5mm_EP1.6x2.0mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

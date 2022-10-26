@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Buzzer_Beeper-Indicator_PUI_AI-1440-TWT-24V-2-R|
 |Hex ID (short code)|hexID|FZKBZINDICATORPUIAI144TWT24V2R|
 |name|name|Buzzer_Beeper : Indicator_PUI_AI-1440-TWT-24V-2-R|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Indicator_PUI_AI-1440-TWT-24V-2-R', 'description': '14mm Indicator, https://www.puiaudio.com/media/SpecSheet/AI-1440-TWT-24V-2-R.pdf', 'tags': 'piezo buzzer self drive oscillator', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Buzzer_Beeper.3dshapes/Indicator_PUI_AI-1440-TWT-24V-2-R.wrl', 'pins': {'type': 'thru_hole', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Indicator_PUI_AI-1440-TWT-24V-2-R'</td><td> 'description'</td></tr><tr><td> '14mm Indicator</td><td> https</td></tr><tr><td>//www.puiaudio.com/media/SpecSheet/AI-1440-TWT-24V-2-R.pdf'</td><td> 'tags'</td></tr><tr><td> 'piezo buzzer self drive oscillator'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Buzzer_Beeper.3dshapes/Indicator_PUI_AI-1440-TWT-24V-2-R.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-VQFN-32-1EP_5x5mm_P0.5mm_EP3.15x3.15mm|
 |Hex ID (short code)|hexID|FZKDFNVQFN321EP5X5P5EP315X315|
 |name|name|Package_DFN_QFN : VQFN-32-1EP_5x5mm_P0.5mm_EP3.15x3.15mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'VQFN-32-1EP_5x5mm_P0.5mm_EP3.15x3.15mm', 'description': 'VQFN, 32 Pin (https://www.ti.com/lit/ds/slvs589d/slvs589d.pdf#page=33), generated with kicad-footprint-generator ipc_noLead_generator.py', 'tags': 'VQFN NoLead', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/VQFN-32-1EP_5x5mm_P0.5mm_EP3.15x3.15mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'VQFN-32-1EP_5x5mm_P0.5mm_EP3.15x3.15mm'</td><td> 'description'</td></tr><tr><td> 'VQFN</td><td> 32 Pin (https</td></tr><tr><td>//www.ti.com/lit/ds/slvs589d/slvs589d.pdf#page=33)</td><td> generated with kicad-footprint-generator ipc_noLead_generator.py'</td><td> 'tags'</td></tr><tr><td> 'VQFN NoLead'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DFN_QFN.3dshapes/VQFN-32-1EP_5x5mm_P0.5mm_EP3.15x3.15mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

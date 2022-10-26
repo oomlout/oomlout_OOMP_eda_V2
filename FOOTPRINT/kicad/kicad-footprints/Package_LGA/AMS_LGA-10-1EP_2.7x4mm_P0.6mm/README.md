@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_LGA-AMS_LGA-10-1EP_2.7x4mm_P0.6mm|
 |Hex ID (short code)|hexID|FZKLGAAMSLGA11EP27X4P6|
 |name|name|Package_LGA : AMS_LGA-10-1EP_2.7x4mm_P0.6mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'AMS_LGA-10-1EP_2.7x4mm_P0.6mm', 'description': 'LGA-10, http://ams.com/eng/content/download/951091/2269479/471718', 'tags': 'lga land grid array', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_LGA.3dshapes/AMS_LGA-10-1EP_2.7x4mm_P0.6mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'AMS_LGA-10-1EP_2.7x4mm_P0.6mm'</td><td> 'description'</td></tr><tr><td> 'LGA-10</td><td> http</td></tr><tr><td>//ams.com/eng/content/download/951091/2269479/471718'</td><td> 'tags'</td></tr><tr><td> 'lga land grid array'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_LGA.3dshapes/AMS_LGA-10-1EP_2.7x4mm_P0.6mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

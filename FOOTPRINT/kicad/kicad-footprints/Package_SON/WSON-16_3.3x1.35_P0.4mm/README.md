@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SON-WSON-16_3.3x1.35_P0.4mm|
 |Hex ID (short code)|hexID|FZKSONWSON1633X135P4|
 |name|name|Package_SON : WSON-16_3.3x1.35_P0.4mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'WSON-16_3.3x1.35_P0.4mm', 'description': 'WSON-16 3.3 x 1.35mm  Pitch 0.4mm http://www.chip.tomsk.ru/chip/chipdoc.nsf/Package/C67E729A4D6C883A4725793E004C8739!OpenDocument', 'tags': 'WSON-16 3.3 x 1.35mm  Pitch 0.4mm', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SON.3dshapes/WSON-16_3.3x1.35_P0.4mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'WSON-16_3.3x1.35_P0.4mm'</td><td> 'description'</td></tr><tr><td> 'WSON-16 3.3 x 1.35mm  Pitch 0.4mm http</td></tr><tr><td>//www.chip.tomsk.ru/chip/chipdoc.nsf/Package/C67E729A4D6C883A4725793E004C8739!OpenDocument'</td><td> 'tags'</td></tr><tr><td> 'WSON-16 3.3 x 1.35mm  Pitch 0.4mm'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_SON.3dshapes/WSON-16_3.3x1.35_P0.4mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

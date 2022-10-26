@@ -29,5 +29,5 @@ NO IMAGE
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-RF_Module-ESP32-S3-WROOM-1U|
 |Hex ID (short code)|hexID|FZKRFMOESP32S3WROOM1U|
 |name|name|RF_Module : ESP32-S3-WROOM-1U|
-|Footprint Kicad|footprintKicadDetails|{'name': 'ESP32-S3-WROOM-1U', 'description': '2.4 GHz Wi-Fi and Bluetooth module  https://www.espressif.com/sites/default/files/documentation/esp32-s3-wroom-1_wroom-1u_datasheet_en.pdf', 'tags': '2.4 GHz Wi-Fi and Bluetooth module', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/RF_Module.3dshapes/ESP32-S3-WROOM-1U.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'ESP32-S3-WROOM-1U'</td><td> 'description'</td></tr><tr><td> '2.4 GHz Wi-Fi and Bluetooth module  https</td></tr><tr><td>//www.espressif.com/sites/default/files/documentation/esp32-s3-wroom-1_wroom-1u_datasheet_en.pdf'</td><td> 'tags'</td></tr><tr><td> '2.4 GHz Wi-Fi and Bluetooth module'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/RF_Module.3dshapes/ESP32-S3-WROOM-1U.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

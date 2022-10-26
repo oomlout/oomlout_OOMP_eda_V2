@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKISOLATORTLP785F > TLP785F
+# SZKISOLATORTLP785F > Isolator : TLP785F
 
 - ID: SYMBOL-kicad-kicad-symbols-Isolator-TLP785F
 - Hex ID: SZKISOLATORTLP785F
-- Name: TLP785F
-- Description: TLP785F
+- Name: Isolator : TLP785F
+- Description: Isolator : TLP785F
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-TLP785F](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-TLP785F)
 - Short Link: [http://oom.lt/SZKISOLATORTLP785F](http://oom.lt/SZKISOLATORTLP785F)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TLP785F|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Isolator-TLP785F|
 |Hex ID (short code)|hexID|SZKISOLATORTLP785F|
-|name|name|TLP785F|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TLP785F', 'kicadSymbolFootprint': 'Package_DIP:DIP-4_W10.16mm', 'kicadSymbolDatasheet': 'https://toshiba.semicon-storage.com/info/docget.jsp?did=10569&prodName=TLP785F', 'kicadSymbolki_keywords': 'NPN DC Optocoupler', 'kicadSymbolki_description': 'DC Optocoupler, Vce 80V, CTR 50-200%, DIP4F', 'kicadSymbolki_fp_filters': 'DIP*W10.16mm*'}]|
+|name|name|Isolator : TLP785F|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TLP785F'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>DIP-4_W10.16mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//toshiba.semicon-storage.com/info/docget.jsp?did=10569&prodName=TLP785F'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'NPN DC Optocoupler'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'DC Optocoupler</td><td> Vce 80V</td><td> CTR 50-200%</td><td> DIP4F'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W10.16mm*'</td></tr></table>]|
 ||||

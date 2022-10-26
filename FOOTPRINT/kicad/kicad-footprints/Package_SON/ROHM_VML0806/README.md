@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SON-ROHM_VML0806|
 |Hex ID (short code)|hexID|FZKSONROHMVML86|
 |name|name|Package_SON : ROHM_VML0806|
-|Footprint Kicad|footprintKicadDetails|{'name': 'ROHM_VML0806', 'description': 'VML0806, Rohm (http://rohmfs.rohm.com/en/techdata_basic/transistor/soldering_condition/VML0806_Soldering_Condition.pdf, http://rohmfs.rohm.com/en/products/databook/package/spec/discrete/vml0806_tr-e.pdf)', 'tags': 'ROHM VML0806', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SON.3dshapes/ROHM_VML0806.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'ROHM_VML0806'</td><td> 'description'</td></tr><tr><td> 'VML0806</td><td> Rohm (http</td></tr><tr><td>//rohmfs.rohm.com/en/techdata_basic/transistor/soldering_condition/VML0806_Soldering_Condition.pdf</td><td> http</td></tr><tr><td>//rohmfs.rohm.com/en/products/databook/package/spec/discrete/vml0806_tr-e.pdf)'</td><td> 'tags'</td></tr><tr><td> 'ROHM VML0806'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_SON.3dshapes/ROHM_VML0806.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

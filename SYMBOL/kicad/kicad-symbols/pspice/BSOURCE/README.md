@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKPSPICEBSOURCE > BSOURCE
+# SZKPSPICEBSOURCE > pspice : BSOURCE
 
 - ID: SYMBOL-kicad-kicad-symbols-pspice-BSOURCE
 - Hex ID: SZKPSPICEBSOURCE
-- Name: BSOURCE
-- Description: BSOURCE
+- Name: pspice : BSOURCE
+- Description: pspice : BSOURCE
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-pspice-BSOURCE](http://oom.lt/SYMBOL-kicad-kicad-symbols-pspice-BSOURCE)
 - Short Link: [http://oom.lt/SZKPSPICEBSOURCE](http://oom.lt/SZKPSPICEBSOURCE)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BSOURCE|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-pspice-BSOURCE|
 |Hex ID (short code)|hexID|SZKPSPICEBSOURCE|
-|name|name|BSOURCE|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'B', 'kicadSymbolValue': 'BSOURCE', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://ltwiki.org/?title=B_sources_%28complete_reference%29', 'kicadSymbolki_keywords': 'simulation', 'kicadSymbolki_description': 'Arbitrary behavioral voltage or current source'}]|
+|name|name|pspice : BSOURCE|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'B'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'BSOURCE'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ltwiki.org/?title=B_sources_%28complete_reference%29'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'simulation'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Arbitrary behavioral voltage or current source'</td></tr></table>]|
 ||||

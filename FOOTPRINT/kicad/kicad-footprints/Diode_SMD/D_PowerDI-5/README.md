@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_PowerDI-5|
 |Hex ID (short code)|hexID|FZKDIODESMDPOWERDI5|
 |name|name|Diode_SMD : D_PowerDI-5|
-|Footprint Kicad|footprintKicadDetails|{'name': 'D_PowerDI-5', 'description': 'PowerDI,Diode,Vishay,https://www.diodes.com/assets/Package-Files/PowerDI5.pdf', 'tags': 'PowerDI diode vishay', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_PowerDI-5.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'D_PowerDI-5'</td><td> 'description'</td></tr><tr><td> 'PowerDI</td><td>Diode</td><td>Vishay</td><td>https</td></tr><tr><td>//www.diodes.com/assets/Package-Files/PowerDI5.pdf'</td><td> 'tags'</td></tr><tr><td> 'PowerDI diode vishay'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Diode_SMD.3dshapes/D_PowerDI-5.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKOCSCXODIP8 > CXO_DIP8
+# SZKOCSCXODIP8 > Oscillator : CXO_DIP8
 
 - ID: SYMBOL-kicad-kicad-symbols-Oscillator-CXO_DIP8
 - Hex ID: SZKOCSCXODIP8
-- Name: CXO_DIP8
-- Description: CXO_DIP8
+- Name: Oscillator : CXO_DIP8
+- Description: Oscillator : CXO_DIP8
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-CXO_DIP8](http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-CXO_DIP8)
 - Short Link: [http://oom.lt/SZKOCSCXODIP8](http://oom.lt/SZKOCSCXODIP8)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|CXO_DIP8|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Oscillator-CXO_DIP8|
 |Hex ID (short code)|hexID|SZKOCSCXODIP8|
-|name|name|CXO_DIP8|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'X', 'kicadSymbolValue': 'CXO_DIP8', 'kicadSymbolFootprint': 'Oscillator:Oscillator_DIP-8', 'kicadSymbolDatasheet': 'http://cdn-reichelt.de/documents/datenblatt/B400/OSZI.pdf', 'kicadSymbolki_keywords': 'Crystal Clock Oscillator', 'kicadSymbolki_description': 'Crystal Clock Oscillator, DIP8-style metal package', 'kicadSymbolki_fp_filters': 'Oscillator*DIP*8*'}]|
+|name|name|Oscillator : CXO_DIP8|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'X'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'CXO_DIP8'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Oscillator</td></tr><tr><td>Oscillator_DIP-8'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//cdn-reichelt.de/documents/datenblatt/B400/OSZI.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Crystal Clock Oscillator'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Crystal Clock Oscillator</td><td> DIP8-style metal package'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Oscillator*DIP*8*'</td></tr></table>]|
 ||||

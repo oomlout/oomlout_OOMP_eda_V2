@@ -29,5 +29,5 @@ NO IMAGE
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-RF_Module-ESP-WROOM-02|
 |Hex ID (short code)|hexID|FZKRFMOESPWROOM2|
 |name|name|RF_Module : ESP-WROOM-02|
-|Footprint Kicad|footprintKicadDetails|{'name': 'ESP-WROOM-02', 'description': 'https://www.espressif.com/sites/default/files/documentation/0c-esp-wroom-02_datasheet_en.pdf', 'tags': 'ESP WROOM-02 espressif esp8266ex', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/RF_Module.3dshapes/ESP-WROOM-02.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'ESP-WROOM-02'</td><td> 'description'</td></tr><tr><td> 'https</td></tr><tr><td>//www.espressif.com/sites/default/files/documentation/0c-esp-wroom-02_datasheet_en.pdf'</td><td> 'tags'</td></tr><tr><td> 'ESP WROOM-02 espressif esp8266ex'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/RF_Module.3dshapes/ESP-WROOM-02.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKLOGICLEVELTRANSLATORTXS12DCT > TXS0102DCT
+# SZKLOGICLEVELTRANSLATORTXS12DCT > Logic_LevelTranslator : TXS0102DCT
 
 - ID: SYMBOL-kicad-kicad-symbols-Logic_LevelTranslator-TXS0102DCT
 - Hex ID: SZKLOGICLEVELTRANSLATORTXS12DCT
-- Name: TXS0102DCT
-- Description: TXS0102DCT
+- Name: Logic_LevelTranslator : TXS0102DCT
+- Description: Logic_LevelTranslator : TXS0102DCT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Logic_LevelTranslator-TXS0102DCT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Logic_LevelTranslator-TXS0102DCT)
 - Short Link: [http://oom.lt/SZKLOGICLEVELTRANSLATORTXS12DCT](http://oom.lt/SZKLOGICLEVELTRANSLATORTXS12DCT)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TXS0102DCT|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Logic_LevelTranslator-TXS0102DCT|
 |Hex ID (short code)|hexID|SZKLOGICLEVELTRANSLATORTXS12DCT|
-|name|name|TXS0102DCT|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TXS0102DCT', 'kicadSymbolFootprint': 'Package_SO:SSOP-8_2.95x2.8mm_P0.65mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/gpn/txs0102', 'kicadSymbolki_keywords': 'Level-Shifter CMOS-TTL-Translation', 'kicadSymbolki_description': '2-Bit Bidirectional Voltage-Level Shifter for Open-Drain and Push-Pull Application, SSOP-8', 'kicadSymbolki_fp_filters': 'SSOP*2.95x2.8mm*P0.65mm*'}]|
+|name|name|Logic_LevelTranslator : TXS0102DCT|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TXS0102DCT'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SSOP-8_2.95x2.8mm_P0.65mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/gpn/txs0102'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Level-Shifter CMOS-TTL-Translation'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '2-Bit Bidirectional Voltage-Level Shifter for Open-Drain and Push-Pull Application</td><td> SSOP-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SSOP*2.95x2.8mm*P0.65mm*'</td></tr></table>]|
 ||||

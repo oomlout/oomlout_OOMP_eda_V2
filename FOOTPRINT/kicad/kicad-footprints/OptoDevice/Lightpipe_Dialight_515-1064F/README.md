@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-OptoDevice-Lightpipe_Dialight_515-1064F|
 |Hex ID (short code)|hexID|FZKOPLIGHTPIPEDIALIGHT515164F|
 |name|name|OptoDevice : Lightpipe_Dialight_515-1064F|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Lightpipe_Dialight_515-1064F', 'description': 'https://www.dialightsignalsandcomponents.com/515-optopipe-light-pipe-trilevel-2-5mm-rnd-flat-diff-lens-press-fit/#tab-resources', 'tags': 'lightpipe triple tower right angle 3mm', 'attributeType': None, 'threeDModel': '${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/Lightpipe_Dialight_515-1064F.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Lightpipe_Dialight_515-1064F'</td><td> 'description'</td></tr><tr><td> 'https</td></tr><tr><td>//www.dialightsignalsandcomponents.com/515-optopipe-light-pipe-trilevel-2-5mm-rnd-flat-diff-lens-press-fit/#tab-resources'</td><td> 'tags'</td></tr><tr><td> 'lightpipe triple tower right angle 3mm'</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/OptoDevice.3dshapes/Lightpipe_Dialight_515-1064F.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

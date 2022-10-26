@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKCONHS43 > HS-40003
+# SZKCONHS43 > Converter_ACDC : HS-40003
 
 - ID: SYMBOL-kicad-kicad-symbols-Converter_ACDC-HS-40003
 - Hex ID: SZKCONHS43
-- Name: HS-40003
-- Description: HS-40003
+- Name: Converter_ACDC : HS-40003
+- Description: Converter_ACDC : HS-40003
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_ACDC-HS-40003](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_ACDC-HS-40003)
 - Short Link: [http://oom.lt/SZKCONHS43](http://oom.lt/SZKCONHS43)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|HS-40003|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Converter_ACDC-HS-40003|
 |Hex ID (short code)|hexID|SZKCONHS43|
-|name|name|HS-40003|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'PS', 'kicadSymbolValue': 'HS-40003', 'kicadSymbolFootprint': 'Converter_ACDC:Converter_ACDC_Hahn_HS-400xx_THT', 'kicadSymbolDatasheet': 'http://www.tme.eu/de/Document/d4b3c52125889c3435af182c9515c76b/HS40003.pdf', 'kicadSymbolki_keywords': '3.3V 3W AC-DC module power supply', 'kicadSymbolki_description': '3.3V, 3W, AC-DC module power supply, Hahn', 'kicadSymbolki_fp_filters': 'Converter*ACDC*Hahn*HS*400xx*'}]|
+|name|name|Converter_ACDC : HS-40003|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'PS'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'HS-40003'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Converter_ACDC</td></tr><tr><td>Converter_ACDC_Hahn_HS-400xx_THT'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.tme.eu/de/Document/d4b3c52125889c3435af182c9515c76b/HS40003.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> '3.3V 3W AC-DC module power supply'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '3.3V</td><td> 3W</td><td> AC-DC module power supply</td><td> Hahn'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Converter*ACDC*Hahn*HS*400xx*'</td></tr></table>]|
 ||||

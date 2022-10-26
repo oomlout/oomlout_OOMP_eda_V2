@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_1206_3216Metric_ReverseMount_Hole1.8x2.4mm|
 |Hex ID (short code)|hexID|FZKLSML1263216METRICRMOUNTHOLE18X24|
 |name|name|LED_SMD : LED_1206_3216Metric_ReverseMount_Hole1.8x2.4mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'LED_1206_3216Metric_ReverseMount_Hole1.8x2.4mm', 'description': 'LED SMD 1206 (3216 Metric), reverse mount, square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator', 'tags': 'diode reverse', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED_1206_3216Metric_ReverseMount.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'oval'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'LED_1206_3216Metric_ReverseMount_Hole1.8x2.4mm'</td><td> 'description'</td></tr><tr><td> 'LED SMD 1206 (3216 Metric)</td><td> reverse mount</td><td> square (rectangular) end terminal</td><td> IPC_7351 nominal</td><td> (Body size source</td></tr><tr><td> http</td></tr><tr><td>//www.tortai-tech.com/upload/download/2011102023233369053.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'diode reverse'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/LED_SMD.3dshapes/LED_1206_3216Metric_ReverseMount.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'oval'</td></tr></table></td></tr></table>|
 ||||
 
 

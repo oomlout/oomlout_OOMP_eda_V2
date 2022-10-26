@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Potentiometer_SMD-Potentiometer_Bourns_3314J_Vertical|
 |Hex ID (short code)|hexID|FZKPOTENTIOMETERSMPOTENTIOMETERBOURNS3314JVERTICAL|
 |name|name|Potentiometer_SMD : Potentiometer_Bourns_3314J_Vertical|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Potentiometer_Bourns_3314J_Vertical', 'description': 'Potentiometer, vertical, Bourns 3314J, http://www.bourns.com/docs/Product-Datasheets/3314.pdf', 'tags': 'Potentiometer vertical Bourns 3314J', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Potentiometer_SMD.3dshapes/Potentiometer_Bourns_3314J_Vertical.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Potentiometer_Bourns_3314J_Vertical'</td><td> 'description'</td></tr><tr><td> 'Potentiometer</td><td> vertical</td><td> Bourns 3314J</td><td> http</td></tr><tr><td>//www.bourns.com/docs/Product-Datasheets/3314.pdf'</td><td> 'tags'</td></tr><tr><td> 'Potentiometer vertical Bourns 3314J'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Potentiometer_SMD.3dshapes/Potentiometer_Bourns_3314J_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

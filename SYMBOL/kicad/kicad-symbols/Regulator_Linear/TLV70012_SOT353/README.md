@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORLINEARTLV712SOT353 > TLV70012_SOT353
+# SZKREGULATORLINEARTLV712SOT353 > Regulator_Linear : TLV70012_SOT353
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-TLV70012_SOT353
 - Hex ID: SZKREGULATORLINEARTLV712SOT353
-- Name: TLV70012_SOT353
-- Description: TLV70012_SOT353
+- Name: Regulator_Linear : TLV70012_SOT353
+- Description: Regulator_Linear : TLV70012_SOT353
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TLV70012_SOT353](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TLV70012_SOT353)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARTLV712SOT353](http://oom.lt/SZKREGULATORLINEARTLV712SOT353)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TLV70012_SOT353|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-TLV70012_SOT353|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARTLV712SOT353|
-|name|name|TLV70012_SOT353|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TLV70012_SOT353', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-353_SC-70-5', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tlv700.pdf', 'kicadSymbolki_keywords': '200mA LDO Regulator Fixed Positive', 'kicadSymbolki_description': '200mA Low Dropout Voltage Regulator, Fixed Output 1.2V, SOT-23-5/SC-70-5/SOT-353', 'kicadSymbolki_fp_filters': 'SOT*353*'}]|
+|name|name|Regulator_Linear : TLV70012_SOT353|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TLV70012_SOT353'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-353_SC-70-5'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/tlv700.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> '200mA LDO Regulator Fixed Positive'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '200mA Low Dropout Voltage Regulator</td><td> Fixed Output 1.2V</td><td> SOT-23-5/SC-70-5/SOT-353'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT*353*'</td></tr></table>]|
 ||||

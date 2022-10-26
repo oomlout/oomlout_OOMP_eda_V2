@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Battery-BatteryHolder_Keystone_1042_1x18650|
 |Hex ID (short code)|hexID|FZKBATBATHOLDERKEYSTONE1421X1865|
 |name|name|Battery : BatteryHolder_Keystone_1042_1x18650|
-|Footprint Kicad|footprintKicadDetails|{'name': 'BatteryHolder_Keystone_1042_1x18650', 'description': 'Battery holder for 18650 cylindrical cells http://www.keyelco.com/product.cfm/product_id/918', 'tags': '18650 Keystone 1042 Li-ion', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Battery.3dshapes/BatteryHolder_Keystone_1042_1x18650.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'BatteryHolder_Keystone_1042_1x18650'</td><td> 'description'</td></tr><tr><td> 'Battery holder for 18650 cylindrical cells http</td></tr><tr><td>//www.keyelco.com/product.cfm/product_id/918'</td><td> 'tags'</td></tr><tr><td> '18650 Keystone 1042 Li-ion'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Battery.3dshapes/BatteryHolder_Keystone_1042_1x18650.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

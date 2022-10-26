@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREFERENCEVOLTAGEREF1EZ > REF01EZ
+# SZKREFERENCEVOLTAGEREF1EZ > Reference_Voltage : REF01EZ
 
 - ID: SYMBOL-kicad-kicad-symbols-Reference_Voltage-REF01EZ
 - Hex ID: SZKREFERENCEVOLTAGEREF1EZ
-- Name: REF01EZ
-- Description: REF01EZ
+- Name: Reference_Voltage : REF01EZ
+- Description: Reference_Voltage : REF01EZ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-REF01EZ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-REF01EZ)
 - Short Link: [http://oom.lt/SZKREFERENCEVOLTAGEREF1EZ](http://oom.lt/SZKREFERENCEVOLTAGEREF1EZ)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|REF01EZ|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Reference_Voltage-REF01EZ|
 |Hex ID (short code)|hexID|SZKREFERENCEVOLTAGEREF1EZ|
-|name|name|REF01EZ|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'REF02AP', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'REF01EZ', 'kicadSymbolFootprint': 'Package_DIP:DIP-8_W7.62mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/REF01_02_03.pdf', 'kicadSymbolki_keywords': 'Precision Voltage Reference 10V', 'kicadSymbolki_description': '10V ±30mV Precision Voltage Reference, CERDIP-8', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
+|name|name|Reference_Voltage : REF01EZ|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'REF02AP'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'REF01EZ'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>DIP-8_W7.62mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/REF01_02_03.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Precision Voltage Reference 10V'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '10V ±30mV Precision Voltage Reference</td><td> CERDIP-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W7.62mm*'</td></tr></table>]|
 ||||

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_CSP-LFCSP-VQ-24-1EP_4x4mm_P0.5mm_EP2.642x2.642mm|
 |Hex ID (short code)|hexID|FZKCSPLFCSPVQ241EP4X4P5EP2642X2642|
 |name|name|Package_CSP : LFCSP-VQ-24-1EP_4x4mm_P0.5mm_EP2.642x2.642mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'LFCSP-VQ-24-1EP_4x4mm_P0.5mm_EP2.642x2.642mm', 'description': 'LFCSP VQ, 24 pin, exposed pad, 4x4mm body, pitch 0.5mm (http://www.analog.com/media/en/package-pcb-resources/package/56702234806764cp_24_3.pdf, http://www.analog.com/media/en/technical-documentation/data-sheets/ADL5801.pdf)', 'tags': 'LFCSP 0.5', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_CSP.3dshapes/LFCSP-VQ-24-1EP_4x4mm_P0.5mm_EP2.642x2.642mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'LFCSP-VQ-24-1EP_4x4mm_P0.5mm_EP2.642x2.642mm'</td><td> 'description'</td></tr><tr><td> 'LFCSP VQ</td><td> 24 pin</td><td> exposed pad</td><td> 4x4mm body</td><td> pitch 0.5mm (http</td></tr><tr><td>//www.analog.com/media/en/package-pcb-resources/package/56702234806764cp_24_3.pdf</td><td> http</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/ADL5801.pdf)'</td><td> 'tags'</td></tr><tr><td> 'LFCSP 0.5'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_CSP.3dshapes/LFCSP-VQ-24-1EP_4x4mm_P0.5mm_EP2.642x2.642mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

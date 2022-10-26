@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDRIVERMOTORDRV8847RTE > DRV8847RTE
+# SZKDRIVERMOTORDRV8847RTE > Driver_Motor : DRV8847RTE
 
 - ID: SYMBOL-kicad-kicad-symbols-Driver_Motor-DRV8847RTE
 - Hex ID: SZKDRIVERMOTORDRV8847RTE
-- Name: DRV8847RTE
-- Description: DRV8847RTE
+- Name: Driver_Motor : DRV8847RTE
+- Description: Driver_Motor : DRV8847RTE
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Motor-DRV8847RTE](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Motor-DRV8847RTE)
 - Short Link: [http://oom.lt/SZKDRIVERMOTORDRV8847RTE](http://oom.lt/SZKDRIVERMOTORDRV8847RTE)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DRV8847RTE|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Driver_Motor-DRV8847RTE|
 |Hex ID (short code)|hexID|SZKDRIVERMOTORDRV8847RTE|
-|name|name|DRV8847RTE|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'DRV8847RTE', 'kicadSymbolFootprint': 'Package_DFN_QFN:QFN-16-1EP_3x3mm_P0.5mm_EP1.7x1.7mm_ThermalVias', 'kicadSymbolDatasheet': 'https://www.ti.com/lit/ds/symlink/drv8847.pdf', 'kicadSymbolki_keywords': 'Dual H-Bridge motor driver', 'kicadSymbolki_description': 'Dual H-Bridge Motor Driver, 1A, WQFN-16', 'kicadSymbolki_fp_filters': 'QFN*1EP*3x3mm*P0.5mm*'}]|
+|name|name|Driver_Motor : DRV8847RTE|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'DRV8847RTE'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>QFN-16-1EP_3x3mm_P0.5mm_EP1.7x1.7mm_ThermalVias'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.ti.com/lit/ds/symlink/drv8847.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Dual H-Bridge motor driver'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Dual H-Bridge Motor Driver</td><td> 1A</td><td> WQFN-16'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'QFN*1EP*3x3mm*P0.5mm*'</td></tr></table>]|
 ||||

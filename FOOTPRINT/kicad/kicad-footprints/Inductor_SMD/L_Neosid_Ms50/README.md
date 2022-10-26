@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Neosid_Ms50|
 |Hex ID (short code)|hexID|FZKINDUCTORSMLNEOSIDMS5|
 |name|name|Inductor_SMD : L_Neosid_Ms50|
-|Footprint Kicad|footprintKicadDetails|{'name': 'L_Neosid_Ms50', 'description': 'Neosid, Power Inductor, Ms50, SMD, Fixed inductor, https://neosid.de/import-data/product-pdf/neoFestind_Ms50.pdf', 'tags': 'Neosid Power Inductor Ms50 SMD Fixed inductor', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Neosid_Ms50.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'L_Neosid_Ms50'</td><td> 'description'</td></tr><tr><td> 'Neosid</td><td> Power Inductor</td><td> Ms50</td><td> SMD</td><td> Fixed inductor</td><td> https</td></tr><tr><td>//neosid.de/import-data/product-pdf/neoFestind_Ms50.pdf'</td><td> 'tags'</td></tr><tr><td> 'Neosid Power Inductor Ms50 SMD Fixed inductor'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Inductor_SMD.3dshapes/L_Neosid_Ms50.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

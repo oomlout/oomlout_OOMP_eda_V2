@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_PUSH_LCD_E3_SAxxxx|
 |Hex ID (short code)|hexID|FZKBSWPUSHLCDE3SAXXXX|
 |name|name|Button_Switch_THT : SW_PUSH_LCD_E3_SAxxxx|
-|Footprint Kicad|footprintKicadDetails|{'name': 'SW_PUSH_LCD_E3_SAxxxx', 'description': 'Switch with LCD screen E3 SAxxxx', 'tags': 'switch normally-open pushbutton push-button LCD', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_PUSH_LCD_E3_SAxxxx.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SW_PUSH_LCD_E3_SAxxxx'</td><td> 'description'</td></tr><tr><td> 'Switch with LCD screen E3 SAxxxx'</td><td> 'tags'</td></tr><tr><td> 'switch normally-open pushbutton push-button LCD'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Button_Switch_THT.3dshapes/SW_PUSH_LCD_E3_SAxxxx.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

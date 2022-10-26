@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_Artesyn_ATA_SMD|
 |Hex ID (short code)|hexID|FZKCONCONARTESYNATASM|
 |name|name|Converter_DCDC : Converter_DCDC_Artesyn_ATA_SMD|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Converter_DCDC_Artesyn_ATA_SMD', 'description': 'DCDC-Converter, Artesyn, ATA Series, 3W Single and Dual Output, 1500VDC Isolation, 24.0x13.7x8.0mm https://www.artesyn.com/power/assets/ata_series_ds_01apr2015_79c25814fd.pdf https://www.artesyn.com/power/assets/trn_dc-dc_ata_3w_series_releas1430412818_techref.pdf', 'tags': 'DCDC SMD', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Converter_DCDC.3dshapes/Converter_DCDC_Artesyn_ATA_SMD.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Converter_DCDC_Artesyn_ATA_SMD'</td><td> 'description'</td></tr><tr><td> 'DCDC-Converter</td><td> Artesyn</td><td> ATA Series</td><td> 3W Single and Dual Output</td><td> 1500VDC Isolation</td><td> 24.0x13.7x8.0mm https</td></tr><tr><td>//www.artesyn.com/power/assets/ata_series_ds_01apr2015_79c25814fd.pdf https</td></tr><tr><td>//www.artesyn.com/power/assets/trn_dc-dc_ata_3w_series_releas1430412818_techref.pdf'</td><td> 'tags'</td></tr><tr><td> 'DCDC SMD'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Converter_DCDC.3dshapes/Converter_DCDC_Artesyn_ATA_SMD.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

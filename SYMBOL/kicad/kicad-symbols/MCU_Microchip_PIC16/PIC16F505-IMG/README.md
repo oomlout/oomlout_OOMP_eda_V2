@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUMCHIPPIC16PIC16F55IMG > PIC16F505-IMG
+# SZKMCUMCHIPPIC16PIC16F55IMG > MCU_Microchip_PIC16 : PIC16F505-IMG
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F505-IMG
 - Hex ID: SZKMCUMCHIPPIC16PIC16F55IMG
-- Name: PIC16F505-IMG
-- Description: PIC16F505-IMG
+- Name: MCU_Microchip_PIC16 : PIC16F505-IMG
+- Description: MCU_Microchip_PIC16 : PIC16F505-IMG
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F505-IMG](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F505-IMG)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC16PIC16F55IMG](http://oom.lt/SZKMCUMCHIPPIC16PIC16F55IMG)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PIC16F505-IMG|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16F505-IMG|
 |Hex ID (short code)|hexID|SZKMCUMCHIPPIC16PIC16F55IMG|
-|name|name|PIC16F505-IMG|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PIC16F505-IMG', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/41236E.pdf', 'kicadSymbolki_keywords': 'FLASH-Based 8bit Microcontroller', 'kicadSymbolki_description': 'PIC16F505, 1024W FLASH, 72B SRAM, QFN16', 'kicadSymbolki_fp_filters': 'QFN*'}]|
+|name|name|MCU_Microchip_PIC16 : PIC16F505-IMG|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'PIC16F505-IMG'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/41236E.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'FLASH-Based 8bit Microcontroller'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'PIC16F505</td><td> 1024W FLASH</td><td> 72B SRAM</td><td> QFN16'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'QFN*'</td></tr></table>]|
 ||||

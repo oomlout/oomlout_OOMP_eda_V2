@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DIP-PowerIntegrations_PDIP-8C|
 |Hex ID (short code)|hexID|FZKDIPPOWERINTEGRATIONSPDIP8C|
 |name|name|Package_DIP : PowerIntegrations_PDIP-8C|
-|Footprint Kicad|footprintKicadDetails|{'name': 'PowerIntegrations_PDIP-8C', 'description': 'Power Integrations variant of 8-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), LongPads, see https://ac-dc.power.com/sites/default/files/product-docs/tinyswitch-iii_family_datasheet.pdf', 'tags': 'THT DIP DIL PDIP 2.54mm 7.62mm 300mil LongPads', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DIP.3dshapes/PowerIntegrations_PDIP-8C.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'PowerIntegrations_PDIP-8C'</td><td> 'description'</td></tr><tr><td> 'Power Integrations variant of 8-lead though-hole mounted DIP package</td><td> row spacing 7.62 mm (300 mils)</td><td> LongPads</td><td> see https</td></tr><tr><td>//ac-dc.power.com/sites/default/files/product-docs/tinyswitch-iii_family_datasheet.pdf'</td><td> 'tags'</td></tr><tr><td> 'THT DIP DIL PDIP 2.54mm 7.62mm 300mil LongPads'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DIP.3dshapes/PowerIntegrations_PDIP-8C.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

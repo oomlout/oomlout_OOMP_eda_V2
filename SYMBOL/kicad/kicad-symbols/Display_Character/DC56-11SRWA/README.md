@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDICHARACTERDC5611SRWA > DC56-11SRWA
+# SZKDICHARACTERDC5611SRWA > Display_Character : DC56-11SRWA
 
 - ID: SYMBOL-kicad-kicad-symbols-Display_Character-DC56-11SRWA
 - Hex ID: SZKDICHARACTERDC5611SRWA
-- Name: DC56-11SRWA
-- Description: DC56-11SRWA
+- Name: Display_Character : DC56-11SRWA
+- Description: Display_Character : DC56-11SRWA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-DC56-11SRWA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-DC56-11SRWA)
 - Short Link: [http://oom.lt/SZKDICHARACTERDC5611SRWA](http://oom.lt/SZKDICHARACTERDC5611SRWA)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DC56-11SRWA|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Display_Character-DC56-11SRWA|
 |Hex ID (short code)|hexID|SZKDICHARACTERDC5611SRWA|
-|name|name|DC56-11SRWA|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'DC56-11SURKWA', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'DC56-11SRWA', 'kicadSymbolFootprint': 'Display_7Segment:DA56-11SURKWA', 'kicadSymbolDatasheet': 'http://www.kingbrightusa.com/images/catalog/SPEC/DC56-11SRWA.pdf', 'kicadSymbolki_keywords': 'display LED 7-segment', 'kicadSymbolki_description': 'Double digit 7 segment super bright red LED common cathode', 'kicadSymbolki_fp_filters': '*DA56*11*'}]|
+|name|name|Display_Character : DC56-11SRWA|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'DC56-11SURKWA'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'DC56-11SRWA'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Display_7Segment</td></tr><tr><td>DA56-11SURKWA'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.kingbrightusa.com/images/catalog/SPEC/DC56-11SRWA.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'display LED 7-segment'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Double digit 7 segment super bright red LED common cathode'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> '*DA56*11*'</td></tr></table>]|
 ||||

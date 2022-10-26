@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORBJTUMH3N > UMH3N
+# SZKTRANSISTORBJTUMH3N > Transistor_BJT : UMH3N
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-UMH3N
 - Hex ID: SZKTRANSISTORBJTUMH3N
-- Name: UMH3N
-- Description: UMH3N
+- Name: Transistor_BJT : UMH3N
+- Description: Transistor_BJT : UMH3N
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-UMH3N](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-UMH3N)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTUMH3N](http://oom.lt/SZKTRANSISTORBJTUMH3N)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|UMH3N|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_BJT-UMH3N|
 |Hex ID (short code)|hexID|SZKTRANSISTORBJTUMH3N|
-|name|name|UMH3N|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'UMH3N', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-363_SC-70-6', 'kicadSymbolDatasheet': 'http://rohmfs.rohm.com/en/products/databook/datasheet/discrete/transistor/digital/emh3t2r-e.pdf', 'kicadSymbolki_keywords': 'Dual NPN Transistor', 'kicadSymbolki_description': '0.1A Ic, 50V Vce, Dual NPN Input Resistor Transistors, SOT-363', 'kicadSymbolki_fp_filters': 'SOT?363*'}]|
+|name|name|Transistor_BJT : UMH3N|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'UMH3N'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-363_SC-70-6'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//rohmfs.rohm.com/en/products/databook/datasheet/discrete/transistor/digital/emh3t2r-e.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Dual NPN Transistor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '0.1A Ic</td><td> 50V Vce</td><td> Dual NPN Input Resistor Transistors</td><td> SOT-363'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?363*'</td></tr></table>]|
 ||||

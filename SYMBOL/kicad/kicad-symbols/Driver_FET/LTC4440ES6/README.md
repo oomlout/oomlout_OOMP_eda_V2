@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDRIVERFETLTC444ES6 > LTC4440ES6
+# SZKDRIVERFETLTC444ES6 > Driver_FET : LTC4440ES6
 
 - ID: SYMBOL-kicad-kicad-symbols-Driver_FET-LTC4440ES6
 - Hex ID: SZKDRIVERFETLTC444ES6
-- Name: LTC4440ES6
-- Description: LTC4440ES6
+- Name: Driver_FET : LTC4440ES6
+- Description: Driver_FET : LTC4440ES6
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-LTC4440ES6](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-LTC4440ES6)
 - Short Link: [http://oom.lt/SZKDRIVERFETLTC444ES6](http://oom.lt/SZKDRIVERFETLTC444ES6)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LTC4440ES6|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Driver_FET-LTC4440ES6|
 |Hex ID (short code)|hexID|SZKDRIVERFETLTC444ES6|
-|name|name|LTC4440ES6|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LTC4440ES6', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-6', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/4440fb.pdf', 'kicadSymbolki_keywords': 'high-side mosfet-driver', 'kicadSymbolki_description': 'High-side, N-Channel, Mosfet driver, 80V input, -40°C to +85°C, SOT23-6', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
+|name|name|Driver_FET : LTC4440ES6|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LTC4440ES6'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-23-6'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/4440fb.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'high-side mosfet-driver'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'High-side</td><td> N-Channel</td><td> Mosfet driver</td><td> 80V input</td><td> -40°C to +85°C</td><td> SOT23-6'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23*'</td></tr></table>]|
 ||||

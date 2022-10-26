@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DIP-Toshiba_11-7A9|
 |Hex ID (short code)|hexID|FZKDIPTOSHIBA117A9|
 |name|name|Package_DIP : Toshiba_11-7A9|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Toshiba_11-7A9', 'description': 'Toshiba 11-7A9 package, like 6-lead dip package with missing pin 5, row spacing 7.62 mm (300 mils), https://toshiba.semicon-storage.com/info/docget.jsp?did=1421&prodName=TLP3021(S)', 'tags': 'Toshiba 11-7A9 DIL DIP PDIP 2.54mm 7.62mm 300mil', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DIP.3dshapes/Toshiba_11-7A9.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Toshiba_11-7A9'</td><td> 'description'</td></tr><tr><td> 'Toshiba 11-7A9 package</td><td> like 6-lead dip package with missing pin 5</td><td> row spacing 7.62 mm (300 mils)</td><td> https</td></tr><tr><td>//toshiba.semicon-storage.com/info/docget.jsp?did=1421&prodName=TLP3021(S)'</td><td> 'tags'</td></tr><tr><td> 'Toshiba 11-7A9 DIL DIP PDIP 2.54mm 7.62mm 300mil'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DIP.3dshapes/Toshiba_11-7A9.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

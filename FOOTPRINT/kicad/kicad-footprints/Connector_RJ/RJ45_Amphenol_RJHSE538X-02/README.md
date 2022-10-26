@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_RJ-RJ45_Amphenol_RJHSE538X-02|
 |Hex ID (short code)|hexID|FZKCNRJRJ45AMPHENOLRJHSE538X2|
 |name|name|Connector_RJ : RJ45_Amphenol_RJHSE538X-02|
-|Footprint Kicad|footprintKicadDetails|{'name': 'RJ45_Amphenol_RJHSE538X-02', 'description': 'Shielded, 2 LED, 2 Ports, http://www.amphenolinfocom.eu/NavData/Drawings/RJHSE-538X-02-REVC.pdf', 'tags': 'RJ45 8p8c dual ethernet cat5', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_RJ.3dshapes/RJ45_Amphenol_RJHSE538X-02.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'RJ45_Amphenol_RJHSE538X-02'</td><td> 'description'</td></tr><tr><td> 'Shielded</td><td> 2 LED</td><td> 2 Ports</td><td> http</td></tr><tr><td>//www.amphenolinfocom.eu/NavData/Drawings/RJHSE-538X-02-REVC.pdf'</td><td> 'tags'</td></tr><tr><td> 'RJ45 8p8c dual ethernet cat5'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_RJ.3dshapes/RJ45_Amphenol_RJHSE538X-02.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKCONJTD1548D15 > JTD1548D15
+# SZKCONJTD1548D15 > Converter_DCDC : JTD1548D15
 
 - ID: SYMBOL-kicad-kicad-symbols-Converter_DCDC-JTD1548D15
 - Hex ID: SZKCONJTD1548D15
-- Name: JTD1548D15
-- Description: JTD1548D15
+- Name: Converter_DCDC : JTD1548D15
+- Description: Converter_DCDC : JTD1548D15
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-JTD1548D15](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-JTD1548D15)
 - Short Link: [http://oom.lt/SZKCONJTD1548D15](http://oom.lt/SZKCONJTD1548D15)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|JTD1548D15|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Converter_DCDC-JTD1548D15|
 |Hex ID (short code)|hexID|SZKCONJTD1548D15|
-|name|name|JTD1548D15|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'JTD2024D05', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'JTD1548D15', 'kicadSymbolFootprint': 'Converter_DCDC:Converter_DCDC_XP_POWER_JTDxxxxxxx_THT', 'kicadSymbolDatasheet': 'https://www.xppower.com/portals/0/pdfs/SF_JTD15.pdf', 'kicadSymbolki_keywords': 'isolated isolation dc-dc converter step-down dual', 'kicadSymbolki_description': 'Isolated 15W 4:1 input DC/DC converter module, 18-75V input voltage, +/-15V output voltage, DIP', 'kicadSymbolki_fp_filters': 'Converter*DCDC*XP?POWER*JTDxxxxxxx*'}]|
+|name|name|Converter_DCDC : JTD1548D15|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'JTD2024D05'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'JTD1548D15'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Converter_DCDC</td></tr><tr><td>Converter_DCDC_XP_POWER_JTDxxxxxxx_THT'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.xppower.com/portals/0/pdfs/SF_JTD15.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'isolated isolation dc-dc converter step-down dual'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Isolated 15W 4</td></tr><tr><td>1 input DC/DC converter module</td><td> 18-75V input voltage</td><td> +/-15V output voltage</td><td> DIP'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Converter*DCDC*XP?POWER*JTDxxxxxxx*'</td></tr></table>]|
 ||||

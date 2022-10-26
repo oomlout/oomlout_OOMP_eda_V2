@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORFETIRF4DM229 > IRF40DM229
+# SZKTRANSISTORFETIRF4DM229 > Transistor_FET : IRF40DM229
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF40DM229
 - Hex ID: SZKTRANSISTORFETIRF4DM229
-- Name: IRF40DM229
-- Description: IRF40DM229
+- Name: Transistor_FET : IRF40DM229
+- Description: Transistor_FET : IRF40DM229
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF40DM229](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF40DM229)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETIRF4DM229](http://oom.lt/SZKTRANSISTORFETIRF4DM229)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IRF40DM229|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF40DM229|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETIRF4DM229|
-|name|name|IRF40DM229|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'IRF40DM229', 'kicadSymbolFootprint': 'Package_DirectFET:DirectFET_MF', 'kicadSymbolDatasheet': 'https://www.infineon.com/dgdl/Infineon-IRF40DM229-DS-v02_00-EN.pdf?fileId=5546d462557e6e890155a15c899160ea', 'kicadSymbolki_keywords': 'N-Channel MOSFET', 'kicadSymbolki_description': '159A Id, 40V Vds, 1.85mOhm Rds, N-Channel MOSFET, DirectFET MF', 'kicadSymbolki_fp_filters': 'DirectFET*MF*'}]|
+|name|name|Transistor_FET : IRF40DM229|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'IRF40DM229'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DirectFET</td></tr><tr><td>DirectFET_MF'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.infineon.com/dgdl/Infineon-IRF40DM229-DS-v02_00-EN.pdf?fileId=5546d462557e6e890155a15c899160ea'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'N-Channel MOSFET'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '159A Id</td><td> 40V Vds</td><td> 1.85mOhm Rds</td><td> N-Channel MOSFET</td><td> DirectFET MF'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DirectFET*MF*'</td></tr></table>]|
 ||||

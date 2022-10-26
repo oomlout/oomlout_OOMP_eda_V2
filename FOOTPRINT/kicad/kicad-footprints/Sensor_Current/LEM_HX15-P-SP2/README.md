@@ -29,5 +29,5 @@ NO IMAGE
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Sensor_Current-LEM_HX15-P-SP2|
 |Hex ID (short code)|hexID|FZKSENCURRENTLEMHX15PSP2|
 |name|name|Sensor_Current : LEM_HX15-P-SP2|
-|Footprint Kicad|footprintKicadDetails|{'name': 'LEM_HX15-P-SP2', 'description': 'LEM HX15-P-SP2 hall effect current transducer (https://www.lem.com/sites/default/files/products_datasheets/hx%203_50-p_sp2_e%20v07.pdf)', 'tags': 'hall current', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Sensor_Current.3dshapes/LEM_HX15-P-SP2.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'LEM_HX15-P-SP2'</td><td> 'description'</td></tr><tr><td> 'LEM HX15-P-SP2 hall effect current transducer (https</td></tr><tr><td>//www.lem.com/sites/default/files/products_datasheets/hx%203_50-p_sp2_e%20v07.pdf)'</td><td> 'tags'</td></tr><tr><td> 'hall current'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Sensor_Current.3dshapes/LEM_HX15-P-SP2.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

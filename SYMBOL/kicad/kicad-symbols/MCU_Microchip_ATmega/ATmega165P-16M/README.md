@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUMCHIPATMEGAATMEGA165P16M > ATmega165P-16M
+# SZKMCUMCHIPATMEGAATMEGA165P16M > MCU_Microchip_ATmega : ATmega165P-16M
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega165P-16M
 - Hex ID: SZKMCUMCHIPATMEGAATMEGA165P16M
-- Name: ATmega165P-16M
-- Description: ATmega165P-16M
+- Name: MCU_Microchip_ATmega : ATmega165P-16M
+- Description: MCU_Microchip_ATmega : ATmega165P-16M
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega165P-16M](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega165P-16M)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATMEGAATMEGA165P16M](http://oom.lt/SZKMCUMCHIPATMEGAATMEGA165P16M)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ATmega165P-16M|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega165P-16M|
 |Hex ID (short code)|hexID|SZKMCUMCHIPATMEGAATMEGA165P16M|
-|name|name|ATmega165P-16M|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ATmega165PV-8M', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ATmega165P-16M', 'kicadSymbolFootprint': 'Package_DFN_QFN:QFN-64-1EP_9x9mm_P0.5mm_EP5.4x5.4mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/doc8019.pdf', 'kicadSymbolki_keywords': 'AVR 8bit Microcontroller MegaAVR PicoPower', 'kicadSymbolki_description': '16MHz, 16kB Flash, 1kB SRAM, 512B EEPROM, QFN-64', 'kicadSymbolki_fp_filters': 'QFN*1EP*9x9mm*P0.5mm*'}]|
+|name|name|MCU_Microchip_ATmega : ATmega165P-16M|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'ATmega165PV-8M'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ATmega165P-16M'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>QFN-64-1EP_9x9mm_P0.5mm_EP5.4x5.4mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/doc8019.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'AVR 8bit Microcontroller MegaAVR PicoPower'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '16MHz</td><td> 16kB Flash</td><td> 1kB SRAM</td><td> 512B EEPROM</td><td> QFN-64'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'QFN*1EP*9x9mm*P0.5mm*'</td></tr></table>]|
 ||||

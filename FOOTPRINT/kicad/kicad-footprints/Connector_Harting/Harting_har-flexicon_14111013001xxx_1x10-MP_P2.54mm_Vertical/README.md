@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Harting-Harting_har-flexicon_14111013001xxx_1x10-MP_P2.54mm_Vertical|
 |Hex ID (short code)|hexID|FZKCNHARTINGHARTINGHARFLEXICON14111131XXX1X1MPP254VERTICAL|
 |name|name|Connector_Harting : Harting_har-flexicon_14111013001xxx_1x10-MP_P2.54mm_Vertical|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Harting_har-flexicon_14111013001xxx_1x10-MP_P2.54mm_Vertical', 'description': 'Harting har-flexicon series connector, 14111013001xxx (https://b2b.harting.com/files/download/PRD/PDF_TS/1411XX13001XXX_100228421DRW046C.pdf), generated with kicad-footprint-generator', 'tags': 'connector Harting har-flexicon vertical', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_Harting.3dshapes/Harting_har-flexicon_14111013001xxx_1x10-MP_P2.54mm_Vertical.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Harting_har-flexicon_14111013001xxx_1x10-MP_P2.54mm_Vertical'</td><td> 'description'</td></tr><tr><td> 'Harting har-flexicon series connector</td><td> 14111013001xxx (https</td></tr><tr><td>//b2b.harting.com/files/download/PRD/PDF_TS/1411XX13001XXX_100228421DRW046C.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'connector Harting har-flexicon vertical'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_Harting.3dshapes/Harting_har-flexicon_14111013001xxx_1x10-MP_P2.54mm_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

@@ -29,5 +29,5 @@ NO IMAGE
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Pulse_P0926NL|
 |Hex ID (short code)|hexID|FZKTRSMPULSEP926NL|
 |name|name|Transformer_SMD : Pulse_P0926NL|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Pulse_P0926NL', 'description': 'SMT Gate Drive Transformer, 1:1:1, 8.0x6.3x5.3mm (https://productfinder.pulseeng.com/products/datasheets/SPM2007_61.pdf)', 'tags': 'pulse pa0926nl', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Transformer_SMD.3dshapes/Pulse_P0926NL.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Pulse_P0926NL'</td><td> 'description'</td></tr><tr><td> 'SMT Gate Drive Transformer</td><td> 1</td></tr><tr><td>1</td></tr><tr><td>1</td><td> 8.0x6.3x5.3mm (https</td></tr><tr><td>//productfinder.pulseeng.com/products/datasheets/SPM2007_61.pdf)'</td><td> 'tags'</td></tr><tr><td> 'pulse pa0926nl'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Transformer_SMD.3dshapes/Pulse_P0926NL.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

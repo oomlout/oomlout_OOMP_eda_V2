@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Coaxial-SMA_Amphenol_132134-10_Vertical|
 |Hex ID (short code)|hexID|FZKCNCOASAMPHENOL1321341VERTICAL|
 |name|name|Connector_Coaxial : SMA_Amphenol_132134-10_Vertical|
-|Footprint Kicad|footprintKicadDetails|{'name': 'SMA_Amphenol_132134-10_Vertical', 'description': 'https://www.amphenolrf.com/downloads/dl/file/id/4007/product/2974/132134_10_customer_drawing.pdf', 'tags': 'SMA SMD Female Jack Vertical', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_Coaxial.3dshapes/SMA_Amphenol_132134-10_Vertical.wrl', 'pins': {'type': 'smd', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SMA_Amphenol_132134-10_Vertical'</td><td> 'description'</td></tr><tr><td> 'https</td></tr><tr><td>//www.amphenolrf.com/downloads/dl/file/id/4007/product/2974/132134_10_customer_drawing.pdf'</td><td> 'tags'</td></tr><tr><td> 'SMA SMD Female Jack Vertical'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_Coaxial.3dshapes/SMA_Amphenol_132134-10_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

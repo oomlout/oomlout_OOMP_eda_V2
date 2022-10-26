@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SO-TSOP-I-32_18.4x8mm_P0.5mm_Reverse|
 |Hex ID (short code)|hexID|FZKSOTSI32184X8P5R|
 |name|name|Package_SO : TSOP-I-32_18.4x8mm_P0.5mm_Reverse|
-|Footprint Kicad|footprintKicadDetails|{'name': 'TSOP-I-32_18.4x8mm_P0.5mm_Reverse', 'description': 'TSOP I, 32 pins, 18.4x8mm body (http://www.futurlec.com/Datasheet/Memory/628128.pdf), reverse mount', 'tags': 'TSOP I 32 reverse', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/TSOP-I-32_18.4x8mm_P0.5mm_Reverse.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'TSOP-I-32_18.4x8mm_P0.5mm_Reverse'</td><td> 'description'</td></tr><tr><td> 'TSOP I</td><td> 32 pins</td><td> 18.4x8mm body (http</td></tr><tr><td>//www.futurlec.com/Datasheet/Memory/628128.pdf)</td><td> reverse mount'</td><td> 'tags'</td></tr><tr><td> 'TSOP I 32 reverse'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_SO.3dshapes/TSOP-I-32_18.4x8mm_P0.5mm_Reverse.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

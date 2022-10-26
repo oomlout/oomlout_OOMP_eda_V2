@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKOCSASDMBXXXMHZ > ASDMB-xxxMHz
+# SZKOCSASDMBXXXMHZ > Oscillator : ASDMB-xxxMHz
 
 - ID: SYMBOL-kicad-kicad-symbols-Oscillator-ASDMB-xxxMHz
 - Hex ID: SZKOCSASDMBXXXMHZ
-- Name: ASDMB-xxxMHz
-- Description: ASDMB-xxxMHz
+- Name: Oscillator : ASDMB-xxxMHz
+- Description: Oscillator : ASDMB-xxxMHz
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-ASDMB-xxxMHz](http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-ASDMB-xxxMHz)
 - Short Link: [http://oom.lt/SZKOCSASDMBXXXMHZ](http://oom.lt/SZKOCSASDMBXXXMHZ)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ASDMB-xxxMHz|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Oscillator-ASDMB-xxxMHz|
 |Hex ID (short code)|hexID|SZKOCSASDMBXXXMHZ|
-|name|name|ASDMB-xxxMHz|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ASDMB-xxxMHz', 'kicadSymbolFootprint': 'Oscillator:Oscillator_SMD_Abracon_ASDMB-4Pin_2.5x2.0mm', 'kicadSymbolDatasheet': 'https://abracon.com/Oscillators/ASDMB.pdf', 'kicadSymbolki_keywords': '1.8-3.3V SMD Ultra Miniature Crystal Clock Oscillator', 'kicadSymbolki_description': '1.8-3.3V SMD Ultra Miniature Crystal Clock Oscillator, Abracon', 'kicadSymbolki_fp_filters': 'Oscillator*SMD*Abracon*ASDMB*2.5x2.0mm*'}]|
+|name|name|Oscillator : ASDMB-xxxMHz|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ASDMB-xxxMHz'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Oscillator</td></tr><tr><td>Oscillator_SMD_Abracon_ASDMB-4Pin_2.5x2.0mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//abracon.com/Oscillators/ASDMB.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> '1.8-3.3V SMD Ultra Miniature Crystal Clock Oscillator'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '1.8-3.3V SMD Ultra Miniature Crystal Clock Oscillator</td><td> Abracon'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Oscillator*SMD*Abracon*ASDMB*2.5x2.0mm*'</td></tr></table>]|
 ||||

@@ -29,5 +29,5 @@ NO IMAGE
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Sensor-LuminOX_LOX-O2|
 |Hex ID (short code)|hexID|FZKSENLUMINOXLOXO2|
 |name|name|Sensor : LuminOX_LOX-O2|
-|Footprint Kicad|footprintKicadDetails|{'name': 'LuminOX_LOX-O2', 'description': 'SST LuminOX Luminescence-based O2 sensor, https://sstsensing.com/wp-content/uploads/2021/08/DS0030rev15_LuminOx.pdf', 'tags': 'SST LuminOX O2', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Sensor.3dshapes/LuminOX_LOX-O2.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'LuminOX_LOX-O2'</td><td> 'description'</td></tr><tr><td> 'SST LuminOX Luminescence-based O2 sensor</td><td> https</td></tr><tr><td>//sstsensing.com/wp-content/uploads/2021/08/DS0030rev15_LuminOx.pdf'</td><td> 'tags'</td></tr><tr><td> 'SST LuminOX O2'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Sensor.3dshapes/LuminOX_LOX-O2.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

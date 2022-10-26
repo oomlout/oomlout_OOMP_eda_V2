@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUMOMAPLEM > Maple_Mini
+# SZKMCUMOMAPLEM > MCU_Module : Maple_Mini
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Module-Maple_Mini
 - Hex ID: SZKMCUMOMAPLEM
-- Name: Maple_Mini
-- Description: Maple_Mini
+- Name: MCU_Module : Maple_Mini
+- Description: MCU_Module : Maple_Mini
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Module-Maple_Mini](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Module-Maple_Mini)
 - Short Link: [http://oom.lt/SZKMCUMOMAPLEM](http://oom.lt/SZKMCUMOMAPLEM)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Maple_Mini|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Module-Maple_Mini|
 |Hex ID (short code)|hexID|SZKMCUMOMAPLEM|
-|name|name|Maple_Mini|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'A', 'kicadSymbolValue': 'Maple_Mini', 'kicadSymbolFootprint': 'Module:Maple_Mini', 'kicadSymbolDatasheet': 'http://docs.leaflabs.com/static.leaflabs.com/pub/leaflabs/maple-docs/0.0.12/hardware/maple-mini.html', 'kicadSymbolki_keywords': 'Maple Mini Microcontroller Module LeafLabs STM32 STM32F103', 'kicadSymbolki_description': 'Maple Mini Microcontroller Module by LeafLabs', 'kicadSymbolki_fp_filters': 'Maple*Mini*'}]|
+|name|name|MCU_Module : Maple_Mini|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'A'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Maple_Mini'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Module</td></tr><tr><td>Maple_Mini'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//docs.leaflabs.com/static.leaflabs.com/pub/leaflabs/maple-docs/0.0.12/hardware/maple-mini.html'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Maple Mini Microcontroller Module LeafLabs STM32 STM32F103'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Maple Mini Microcontroller Module by LeafLabs'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Maple*Mini*'</td></tr></table>]|
 ||||

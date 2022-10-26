@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SO-ST_PowerSSO-36_SlugUp|
 |Hex ID (short code)|hexID|FZKSOSTPOWERSSO36SLUGUP|
 |name|name|Package_SO : ST_PowerSSO-36_SlugUp|
-|Footprint Kicad|footprintKicadDetails|{'name': 'ST_PowerSSO-36_SlugUp', 'description': 'ST PowerSSO-36 1EP 7.5x10.3mm Pitch 0.8mm [JEDEC MO-271] (http://www.st.com/resource/en/datasheet/tda7492p.pdf, http://freedatasheets.com/downloads/Technical%20Note%20Powersso24%20TN0054.pdf)', 'tags': 'ST PowerSSO-36 1EP 7.5x10.3mm Pitch 0.8mm', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/ST_PowerSSO-36_SlugUp.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'ST_PowerSSO-36_SlugUp'</td><td> 'description'</td></tr><tr><td> 'ST PowerSSO-36 1EP 7.5x10.3mm Pitch 0.8mm [JEDEC MO-271] (http</td></tr><tr><td>//www.st.com/resource/en/datasheet/tda7492p.pdf</td><td> http</td></tr><tr><td>//freedatasheets.com/downloads/Technical%20Note%20Powersso24%20TN0054.pdf)'</td><td> 'tags'</td></tr><tr><td> 'ST PowerSSO-36 1EP 7.5x10.3mm Pitch 0.8mm'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_SO.3dshapes/ST_PowerSSO-36_SlugUp.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

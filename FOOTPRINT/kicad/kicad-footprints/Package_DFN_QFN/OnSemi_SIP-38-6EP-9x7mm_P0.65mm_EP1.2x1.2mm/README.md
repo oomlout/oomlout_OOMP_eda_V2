@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-OnSemi_SIP-38-6EP-9x7mm_P0.65mm_EP1.2x1.2mm|
 |Hex ID (short code)|hexID|FZKDFNONSEMISIP386EP9X7P65EP12X12|
 |name|name|Package_DFN_QFN : OnSemi_SIP-38-6EP-9x7mm_P0.65mm_EP1.2x1.2mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'OnSemi_SIP-38-6EP-9x7mm_P0.65mm_EP1.2x1.2mm', 'description': 'On Semiconductor, SIP-38, 9x7mm, (https://www.onsemi.com/pub/Collateral/AX-SIP-SFEU-D.PDF#page=19)', 'tags': 'On Semiconductor SIP', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/OnSemi_SIP-38-6EP-9x7mm_P0.65mm_EP1.2x1.2mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'OnSemi_SIP-38-6EP-9x7mm_P0.65mm_EP1.2x1.2mm'</td><td> 'description'</td></tr><tr><td> 'On Semiconductor</td><td> SIP-38</td><td> 9x7mm</td><td> (https</td></tr><tr><td>//www.onsemi.com/pub/Collateral/AX-SIP-SFEU-D.PDF#page=19)'</td><td> 'tags'</td></tr><tr><td> 'On Semiconductor SIP'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DFN_QFN.3dshapes/OnSemi_SIP-38-6EP-9x7mm_P0.65mm_EP1.2x1.2mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

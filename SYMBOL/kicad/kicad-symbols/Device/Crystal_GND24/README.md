@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDEVICEXGND24 > Crystal_GND24
+# SZKDEVICEXGND24 > Device : Crystal_GND24
 
 - ID: SYMBOL-kicad-kicad-symbols-Device-Crystal_GND24
 - Hex ID: SZKDEVICEXGND24
-- Name: Crystal_GND24
-- Description: Crystal_GND24
+- Name: Device : Crystal_GND24
+- Description: Device : Crystal_GND24
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Crystal_GND24](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Crystal_GND24)
 - Short Link: [http://oom.lt/SZKDEVICEXGND24](http://oom.lt/SZKDEVICEXGND24)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Crystal_GND24|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-Crystal_GND24|
 |Hex ID (short code)|hexID|SZKDEVICEXGND24|
-|name|name|Crystal_GND24|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Y', 'kicadSymbolValue': 'Crystal_GND24', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'quartz ceramic resonator oscillator', 'kicadSymbolki_description': 'Four pin crystal, GND on pins 2 and 4', 'kicadSymbolki_fp_filters': 'Crystal*'}]|
+|name|name|Device : Crystal_GND24|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Y'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Crystal_GND24'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'quartz ceramic resonator oscillator'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Four pin crystal</td><td> GND on pins 2 and 4'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Crystal*'</td></tr></table>]|
 ||||

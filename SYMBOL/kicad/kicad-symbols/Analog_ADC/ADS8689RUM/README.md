@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKANALOGADCADS8689RUM > ADS8689RUM
+# SZKANALOGADCADS8689RUM > Analog_ADC : ADS8689RUM
 
 - ID: SYMBOL-kicad-kicad-symbols-Analog_ADC-ADS8689RUM
 - Hex ID: SZKANALOGADCADS8689RUM
-- Name: ADS8689RUM
-- Description: ADS8689RUM
+- Name: Analog_ADC : ADS8689RUM
+- Description: Analog_ADC : ADS8689RUM
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-ADS8689RUM](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-ADS8689RUM)
 - Short Link: [http://oom.lt/SZKANALOGADCADS8689RUM](http://oom.lt/SZKANALOGADCADS8689RUM)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ADS8689RUM|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_ADC-ADS8689RUM|
 |Hex ID (short code)|hexID|SZKANALOGADCADS8689RUM|
-|name|name|ADS8689RUM|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ADS8681RUM', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ADS8689RUM', 'kicadSymbolFootprint': 'Package_DFN_QFN:QFN-16-1EP_4x4mm_P0.65mm_EP2.7x2.7mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/ads8681.pdf', 'kicadSymbolki_keywords': 'ADC SPI analog digital', 'kicadSymbolki_description': '16-Bit, High-Speed, Single-Supply, SAR ADC Data Acquisition System with Programmable, Bipolar Input Ranges, 100KSPS, QFN-16', 'kicadSymbolki_fp_filters': 'QFN*1EP*4x4mm*P0.65mm*EP2.7x2.7mm*'}]|
+|name|name|Analog_ADC : ADS8689RUM|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'ADS8681RUM'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ADS8689RUM'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>QFN-16-1EP_4x4mm_P0.65mm_EP2.7x2.7mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/ads8681.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'ADC SPI analog digital'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '16-Bit</td><td> High-Speed</td><td> Single-Supply</td><td> SAR ADC Data Acquisition System with Programmable</td><td> Bipolar Input Ranges</td><td> 100KSPS</td><td> QFN-16'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'QFN*1EP*4x4mm*P0.65mm*EP2.7x2.7mm*'</td></tr></table>]|
 ||||

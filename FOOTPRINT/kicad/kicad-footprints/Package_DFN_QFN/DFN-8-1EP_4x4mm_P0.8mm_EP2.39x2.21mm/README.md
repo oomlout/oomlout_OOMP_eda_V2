@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-DFN-8-1EP_4x4mm_P0.8mm_EP2.39x2.21mm|
 |Hex ID (short code)|hexID|FZKDFNDFN81EP4X4P8EP239X221|
 |name|name|Package_DFN_QFN : DFN-8-1EP_4x4mm_P0.8mm_EP2.39x2.21mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'DFN-8-1EP_4x4mm_P0.8mm_EP2.39x2.21mm', 'description': '8-Lead Plastic Dual Flat, No Lead Package (MD) - 4x4x0.9 mm Body [DFN] (http://www.onsemi.com/pub/Collateral/NCP4308-D.PDF)', 'tags': 'DFN 0.8', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/DFN-8-1EP_4x4mm_P0.8mm_EP2.39x2.21mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'DFN-8-1EP_4x4mm_P0.8mm_EP2.39x2.21mm'</td><td> 'description'</td></tr><tr><td> '8-Lead Plastic Dual Flat</td><td> No Lead Package (MD) - 4x4x0.9 mm Body [DFN] (http</td></tr><tr><td>//www.onsemi.com/pub/Collateral/NCP4308-D.PDF)'</td><td> 'tags'</td></tr><tr><td> 'DFN 0.8'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DFN_QFN.3dshapes/DFN-8-1EP_4x4mm_P0.8mm_EP2.39x2.21mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

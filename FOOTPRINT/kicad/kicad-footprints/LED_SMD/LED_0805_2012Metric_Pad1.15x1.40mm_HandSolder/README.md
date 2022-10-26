@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder|
 |Hex ID (short code)|hexID|FZKLSML85212METRICPAD115X14HANDSOLDER|
 |name|name|LED_SMD : LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder|
-|Footprint Kicad|footprintKicadDetails|{'name': 'LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder', 'description': 'LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator', 'tags': 'LED handsolder', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED_0805_2012Metric.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder'</td><td> 'description'</td></tr><tr><td> 'LED SMD 0805 (2012 Metric)</td><td> square (rectangular) end terminal</td><td> IPC_7351 nominal</td><td> (Body size source</td></tr><tr><td> https</td></tr><tr><td>//docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'LED handsolder'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/LED_SMD.3dshapes/LED_0805_2012Metric.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

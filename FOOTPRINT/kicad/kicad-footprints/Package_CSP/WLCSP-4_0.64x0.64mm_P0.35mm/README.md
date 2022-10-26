@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_CSP-WLCSP-4_0.64x0.64mm_P0.35mm|
 |Hex ID (short code)|hexID|FZKCSPWLCSP464X64P35|
 |name|name|Package_CSP : WLCSP-4_0.64x0.64mm_P0.35mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'WLCSP-4_0.64x0.64mm_P0.35mm', 'description': 'WLCSP-4, 0.64x0.64mm, 4 Ball, 2x2 Layout, 0.35mm Pitch, https://www.onsemi.com/pdf/datasheet/ncp163-d.pdf#page=23', 'tags': 'CSP 4 0.35', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_CSP.3dshapes/WLCSP-4_0.64x0.64mm_P0.35mm.wrl', 'pins': {'type': 'smd', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'WLCSP-4_0.64x0.64mm_P0.35mm'</td><td> 'description'</td></tr><tr><td> 'WLCSP-4</td><td> 0.64x0.64mm</td><td> 4 Ball</td><td> 2x2 Layout</td><td> 0.35mm Pitch</td><td> https</td></tr><tr><td>//www.onsemi.com/pdf/datasheet/ncp163-d.pdf#page=23'</td><td> 'tags'</td></tr><tr><td> 'CSP 4 0.35'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_CSP.3dshapes/WLCSP-4_0.64x0.64mm_P0.35mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

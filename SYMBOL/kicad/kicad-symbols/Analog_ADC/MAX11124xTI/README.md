@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKANALOGADCMAX11124XTI > MAX11124xTI
+# SZKANALOGADCMAX11124XTI > Analog_ADC : MAX11124xTI
 
 - ID: SYMBOL-kicad-kicad-symbols-Analog_ADC-MAX11124xTI
 - Hex ID: SZKANALOGADCMAX11124XTI
-- Name: MAX11124xTI
-- Description: MAX11124xTI
+- Name: Analog_ADC : MAX11124xTI
+- Description: Analog_ADC : MAX11124xTI
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-MAX11124xTI](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-MAX11124xTI)
 - Short Link: [http://oom.lt/SZKANALOGADCMAX11124XTI](http://oom.lt/SZKANALOGADCMAX11124XTI)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MAX11124xTI|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_ADC-MAX11124xTI|
 |Hex ID (short code)|hexID|SZKANALOGADCMAX11124XTI|
-|name|name|MAX11124xTI|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MAX11123xTI', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MAX11124xTI', 'kicadSymbolFootprint': 'Package_DFN_QFN:TQFN-28-1EP_5x5mm_P0.5mm_EP3.25x3.25mm', 'kicadSymbolDatasheet': 'https://datasheets.maximintegrated.com/en/ds/MAX11120-MAX11128.pdf', 'kicadSymbolki_keywords': 'MAXIM ADC 3.3V 10-Bit SPI', 'kicadSymbolki_description': '8-Channel 10-Bit 1.5MHz Full-Linear Bandwidth External Reference High-Speed Low-Power ADC, QFN-28', 'kicadSymbolki_fp_filters': '*QFN*1EP*5x5mm*P0.5mm*'}]|
+|name|name|Analog_ADC : MAX11124xTI|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'MAX11123xTI'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MAX11124xTI'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>TQFN-28-1EP_5x5mm_P0.5mm_EP3.25x3.25mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//datasheets.maximintegrated.com/en/ds/MAX11120-MAX11128.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'MAXIM ADC 3.3V 10-Bit SPI'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '8-Channel 10-Bit 1.5MHz Full-Linear Bandwidth External Reference High-Speed Low-Power ADC</td><td> QFN-28'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> '*QFN*1EP*5x5mm*P0.5mm*'</td></tr></table>]|
 ||||

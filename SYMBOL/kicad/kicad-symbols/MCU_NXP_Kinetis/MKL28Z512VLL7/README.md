@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUNXPKINETISMKL28Z512VLL7 > MKL28Z512VLL7
+# SZKMCUNXPKINETISMKL28Z512VLL7 > MCU_NXP_Kinetis : MKL28Z512VLL7
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_NXP_Kinetis-MKL28Z512VLL7
 - Hex ID: SZKMCUNXPKINETISMKL28Z512VLL7
-- Name: MKL28Z512VLL7
-- Description: MKL28Z512VLL7
+- Name: MCU_NXP_Kinetis : MKL28Z512VLL7
+- Description: MCU_NXP_Kinetis : MKL28Z512VLL7
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_Kinetis-MKL28Z512VLL7](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_Kinetis-MKL28Z512VLL7)
 - Short Link: [http://oom.lt/SZKMCUNXPKINETISMKL28Z512VLL7](http://oom.lt/SZKMCUNXPKINETISMKL28Z512VLL7)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MKL28Z512VLL7|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_NXP_Kinetis-MKL28Z512VLL7|
 |Hex ID (short code)|hexID|SZKMCUNXPKINETISMKL28Z512VLL7|
-|name|name|MKL28Z512VLL7|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MKL28Z512VLL7', 'kicadSymbolFootprint': 'Package_QFP:LQFP-100_14x14mm_P0.5mm', 'kicadSymbolDatasheet': 'http://www.nxp.com/docs/en/data-sheet/MKL28Z512Vxx7.pdf', 'kicadSymbolki_keywords': 'Kinetis KL28 ARM Cortex M0+', 'kicadSymbolki_description': 'Kinetis KL28 series, 72...96-MHz/32-bit ARM Cortex-M0+, 512 kB flash, 128 kB SRAM, USB FS Device (xtal-less), LQFP-100', 'kicadSymbolki_fp_filters': 'LQFP*14x14mm*P0.5mm*'}]|
+|name|name|MCU_NXP_Kinetis : MKL28Z512VLL7|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MKL28Z512VLL7'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_QFP</td></tr><tr><td>LQFP-100_14x14mm_P0.5mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.nxp.com/docs/en/data-sheet/MKL28Z512Vxx7.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Kinetis KL28 ARM Cortex M0+'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Kinetis KL28 series</td><td> 72...96-MHz/32-bit ARM Cortex-M0+</td><td> 512 kB flash</td><td> 128 kB SRAM</td><td> USB FS Device (xtal-less)</td><td> LQFP-100'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'LQFP*14x14mm*P0.5mm*'</td></tr></table>]|
 ||||

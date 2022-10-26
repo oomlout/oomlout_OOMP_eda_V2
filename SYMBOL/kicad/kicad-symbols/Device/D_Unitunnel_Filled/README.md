@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDEVICEDUNITUNNELFILL > D_Unitunnel_Filled
+# SZKDEVICEDUNITUNNELFILL > Device : D_Unitunnel_Filled
 
 - ID: SYMBOL-kicad-kicad-symbols-Device-D_Unitunnel_Filled
 - Hex ID: SZKDEVICEDUNITUNNELFILL
-- Name: D_Unitunnel_Filled
-- Description: D_Unitunnel_Filled
+- Name: Device : D_Unitunnel_Filled
+- Description: Device : D_Unitunnel_Filled
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Unitunnel_Filled](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Unitunnel_Filled)
 - Short Link: [http://oom.lt/SZKDEVICEDUNITUNNELFILL](http://oom.lt/SZKDEVICEDUNITUNNELFILL)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|D_Unitunnel_Filled|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-D_Unitunnel_Filled|
 |Hex ID (short code)|hexID|SZKDEVICEDUNITUNNELFILL|
-|name|name|D_Unitunnel_Filled|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'D_Unitunnel_Filled', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'unitunnel diode', 'kicadSymbolki_description': 'Unitunnel diode, filled shape', 'kicadSymbolki_fp_filters': 'TO-???* *_Diode_* *SingleDiode* D_*'}]|
+|name|name|Device : D_Unitunnel_Filled|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'D_Unitunnel_Filled'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'unitunnel diode'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Unitunnel diode</td><td> filled shape'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TO-???* *_Diode_* *SingleDiode* D_*'</td></tr></table>]|
 ||||

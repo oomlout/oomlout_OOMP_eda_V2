@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKLHDSP4832 > HDSP-4832
+# SZKLHDSP4832 > LED : HDSP-4832
 
 - ID: SYMBOL-kicad-kicad-symbols-LED-HDSP-4832
 - Hex ID: SZKLHDSP4832
-- Name: HDSP-4832
-- Description: HDSP-4832
+- Name: LED : HDSP-4832
+- Description: LED : HDSP-4832
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-LED-HDSP-4832](http://oom.lt/SYMBOL-kicad-kicad-symbols-LED-HDSP-4832)
 - Short Link: [http://oom.lt/SZKLHDSP4832](http://oom.lt/SZKLHDSP4832)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|HDSP-4832|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-LED-HDSP-4832|
 |Hex ID (short code)|hexID|SZKLHDSP4832|
-|name|name|HDSP-4832|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'BAR', 'kicadSymbolValue': 'HDSP-4832', 'kicadSymbolFootprint': 'Display:HDSP-4832', 'kicadSymbolDatasheet': 'https://docs.broadcom.com/docs/AV02-1798EN', 'kicadSymbolki_keywords': 'display LED array', 'kicadSymbolki_description': '10-element LED arrays, Mix of high efficient red, yellow and green', 'kicadSymbolki_fp_filters': 'HDSP?48*'}]|
+|name|name|LED : HDSP-4832|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'BAR'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'HDSP-4832'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Display</td></tr><tr><td>HDSP-4832'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//docs.broadcom.com/docs/AV02-1798EN'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'display LED array'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '10-element LED arrays</td><td> Mix of high efficient red</td><td> yellow and green'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'HDSP?48*'</td></tr></table>]|
 ||||

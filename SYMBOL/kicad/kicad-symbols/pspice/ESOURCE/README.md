@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKPSPICEESOURCE > ESOURCE
+# SZKPSPICEESOURCE > pspice : ESOURCE
 
 - ID: SYMBOL-kicad-kicad-symbols-pspice-ESOURCE
 - Hex ID: SZKPSPICEESOURCE
-- Name: ESOURCE
-- Description: ESOURCE
+- Name: pspice : ESOURCE
+- Description: pspice : ESOURCE
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-pspice-ESOURCE](http://oom.lt/SYMBOL-kicad-kicad-symbols-pspice-ESOURCE)
 - Short Link: [http://oom.lt/SZKPSPICEESOURCE](http://oom.lt/SZKPSPICEESOURCE)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ESOURCE|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-pspice-ESOURCE|
 |Hex ID (short code)|hexID|SZKPSPICEESOURCE|
-|name|name|ESOURCE|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'E', 'kicadSymbolValue': 'ESOURCE', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.pspice.com/source/controlled-sources', 'kicadSymbolki_keywords': 'simulation', 'kicadSymbolki_description': 'Voltage-dependent Voltage source symbol for simulation only'}]|
+|name|name|pspice : ESOURCE|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'E'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ESOURCE'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.pspice.com/source/controlled-sources'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'simulation'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Voltage-dependent Voltage source symbol for simulation only'</td></tr></table>]|
 ||||

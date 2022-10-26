@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Avago_PLCC6_3x2.8mm|
 |Hex ID (short code)|hexID|FZKLSMLAVAGOPLCC63X28|
 |name|name|LED_SMD : LED_Avago_PLCC6_3x2.8mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'LED_Avago_PLCC6_3x2.8mm', 'description': 'https://docs.broadcom.com/docs/AV02-3793EN', 'tags': 'LED Avago PLCC-6 ASMT-YTB7-0AA02', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED_Avago_PLCC6_3x2.8mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'LED_Avago_PLCC6_3x2.8mm'</td><td> 'description'</td></tr><tr><td> 'https</td></tr><tr><td>//docs.broadcom.com/docs/AV02-3793EN'</td><td> 'tags'</td></tr><tr><td> 'LED Avago PLCC-6 ASMT-YTB7-0AA02'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/LED_SMD.3dshapes/LED_Avago_PLCC6_3x2.8mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

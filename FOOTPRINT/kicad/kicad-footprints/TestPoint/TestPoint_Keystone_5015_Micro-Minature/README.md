@@ -29,5 +29,5 @@ NO IMAGE
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-TestPoint-TestPoint_Keystone_5015_Micro-Minature|
 |Hex ID (short code)|hexID|FZKTPTPKEYSTONE515INATURE|
 |name|name|TestPoint : TestPoint_Keystone_5015_Micro-Minature|
-|Footprint Kicad|footprintKicadDetails|{'name': 'TestPoint_Keystone_5015_Micro-Minature', 'description': 'SMT Test Point- Micro Miniature 5015, http://www.keyelco.com/product-pdf.cfm?p=1353', 'tags': 'Test Point', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/TestPoint.3dshapes/TestPoint_Keystone_5015_Micro-Minature.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'TestPoint_Keystone_5015_Micro-Minature'</td><td> 'description'</td></tr><tr><td> 'SMT Test Point- Micro Miniature 5015</td><td> http</td></tr><tr><td>//www.keyelco.com/product-pdf.cfm?p=1353'</td><td> 'tags'</td></tr><tr><td> 'Test Point'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/TestPoint.3dshapes/TestPoint_Keystone_5015_Micro-Minature.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

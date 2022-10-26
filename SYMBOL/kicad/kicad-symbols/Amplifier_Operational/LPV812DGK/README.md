@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKAMPLIFIEROPERATIONALLPV812DGK > LPV812DGK
+# SZKAMPLIFIEROPERATIONALLPV812DGK > Amplifier_Operational : LPV812DGK
 
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LPV812DGK
 - Hex ID: SZKAMPLIFIEROPERATIONALLPV812DGK
-- Name: LPV812DGK
-- Description: LPV812DGK
+- Name: Amplifier_Operational : LPV812DGK
+- Description: Amplifier_Operational : LPV812DGK
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LPV812DGK](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LPV812DGK)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALLPV812DGK](http://oom.lt/SZKAMPLIFIEROPERATIONALLPV812DGK)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LPV812DGK|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LPV812DGK|
 |Hex ID (short code)|hexID|SZKAMPLIFIEROPERATIONALLPV812DGK|
-|name|name|LPV812DGK|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'OPA2197xDGK', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LPV812DGK', 'kicadSymbolFootprint': 'Package_SO:VSSOP-8_3.0x3.0mm_P0.65mm', 'kicadSymbolDatasheet': 'https://www.ti.com/lit/ds/symlink/lpv812.pdf', 'kicadSymbolki_keywords': 'dual opamp low-power rail-to-rail', 'kicadSymbolki_description': 'Dual operational amplifier, 8kHz GBW, 425 nA/channel quiescent, 100 fA input bias, 300 uV offset max, 1 uV/C, VSSOP-8', 'kicadSymbolki_fp_filters': 'VSSOP*3.0x3.0mm*P0.65mm*'}]|
+|name|name|Amplifier_Operational : LPV812DGK|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'OPA2197xDGK'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LPV812DGK'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>VSSOP-8_3.0x3.0mm_P0.65mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.ti.com/lit/ds/symlink/lpv812.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'dual opamp low-power rail-to-rail'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Dual operational amplifier</td><td> 8kHz GBW</td><td> 425 nA/channel quiescent</td><td> 100 fA input bias</td><td> 300 uV offset max</td><td> 1 uV/C</td><td> VSSOP-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'VSSOP*3.0x3.0mm*P0.65mm*'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKCPLDXILINXXC9572XLTQ1 > XC9572XL-TQ100
+# SZKCPLDXILINXXC9572XLTQ1 > CPLD_Xilinx : XC9572XL-TQ100
 
 - ID: SYMBOL-kicad-kicad-symbols-CPLD_Xilinx-XC9572XL-TQ100
 - Hex ID: SZKCPLDXILINXXC9572XLTQ1
-- Name: XC9572XL-TQ100
-- Description: XC9572XL-TQ100
+- Name: CPLD_Xilinx : XC9572XL-TQ100
+- Description: CPLD_Xilinx : XC9572XL-TQ100
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-CPLD_Xilinx-XC9572XL-TQ100](http://oom.lt/SYMBOL-kicad-kicad-symbols-CPLD_Xilinx-XC9572XL-TQ100)
 - Short Link: [http://oom.lt/SZKCPLDXILINXXC9572XLTQ1](http://oom.lt/SZKCPLDXILINXXC9572XLTQ1)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|XC9572XL-TQ100|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-CPLD_Xilinx-XC9572XL-TQ100|
 |Hex ID (short code)|hexID|SZKCPLDXILINXXC9572XLTQ1|
-|name|name|XC9572XL-TQ100|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'XC9572XL-TQ100', 'kicadSymbolFootprint': 'Package_QFP:TQFP-100_14x14mm_P0.5mm', 'kicadSymbolDatasheet': 'http://www.xilinx.com/support/documentation/data_sheets/ds057.pdf', 'kicadSymbolki_keywords': 'CPLD', 'kicadSymbolki_description': 'CPLD, 72 Macrocells, 1600 Usable Gates', 'kicadSymbolki_fp_filters': 'TQFP*14x14mm*P0.5mm*'}]|
+|name|name|CPLD_Xilinx : XC9572XL-TQ100|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'XC9572XL-TQ100'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_QFP</td></tr><tr><td>TQFP-100_14x14mm_P0.5mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.xilinx.com/support/documentation/data_sheets/ds057.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'CPLD'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'CPLD</td><td> 72 Macrocells</td><td> 1600 Usable Gates'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TQFP*14x14mm*P0.5mm*'</td></tr></table>]|
 ||||

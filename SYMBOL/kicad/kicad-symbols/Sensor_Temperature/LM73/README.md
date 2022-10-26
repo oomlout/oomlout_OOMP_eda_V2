@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKSENTEMPERATURELM73 > LM73
+# SZKSENTEMPERATURELM73 > Sensor_Temperature : LM73
 
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Temperature-LM73
 - Hex ID: SZKSENTEMPERATURELM73
-- Name: LM73
-- Description: LM73
+- Name: Sensor_Temperature : LM73
+- Description: Sensor_Temperature : LM73
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-LM73](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-LM73)
 - Short Link: [http://oom.lt/SZKSENTEMPERATURELM73](http://oom.lt/SZKSENTEMPERATURELM73)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM73|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Temperature-LM73|
 |Hex ID (short code)|hexID|SZKSENTEMPERATURELM73|
-|name|name|LM73|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM73', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-6', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lm73.pdf', 'kicadSymbolki_keywords': 'digital temperature sensor', 'kicadSymbolki_description': '11 to 14 Bit digital temperature sensor with 2 wire interface, SOT23-6', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
+|name|name|Sensor_Temperature : LM73|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LM73'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-23-6'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/lm73.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'digital temperature sensor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '11 to 14 Bit digital temperature sensor with 2 wire interface</td><td> SOT23-6'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23*'</td></tr></table>]|
 ||||

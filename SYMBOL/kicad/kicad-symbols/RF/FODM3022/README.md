@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKRFFODM322 > FODM3022
+# SZKRFFODM322 > RF : FODM3022
 
 - ID: SYMBOL-kicad-kicad-symbols-RF-FODM3022
 - Hex ID: SZKRFFODM322
-- Name: FODM3022
-- Description: FODM3022
+- Name: RF : FODM3022
+- Description: RF : FODM3022
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF-FODM3022](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF-FODM3022)
 - Short Link: [http://oom.lt/SZKRFFODM322](http://oom.lt/SZKRFFODM322)
   
@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|FODM3022|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-RF-FODM3022|
 |Hex ID (short code)|hexID|SZKRFFODM322|
-|name|name|FODM3022|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'FODM3011', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'FODM3022', 'kicadSymbolFootprint': 'Package_DIP:SMDIP-4_W7.62mm', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pub/Collateral/FODM3053_NF098-D.PDF', 'kicadSymbolki_keywords': 'Opto-Triac Opto Triac Random Phase Mini-Flat', 'kicadSymbolki_description': 'Full Pitch Mini-Flat Random Phase Opto-Triac, Vdrm 400V, Ift 10mA, MFP 4L', 'kicadSymbolki_fp_filters': 'SMDIP*W7.62mm*'}]|
+|name|name|RF : FODM3022|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'FODM3011'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'FODM3022'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>SMDIP-4_W7.62mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.onsemi.com/pub/Collateral/FODM3053_NF098-D.PDF'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Opto-Triac Opto Triac Random Phase Mini-Flat'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Full Pitch Mini-Flat Random Phase Opto-Triac</td><td> Vdrm 400V</td><td> Ift 10mA</td><td> MFP 4L'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SMDIP*W7.62mm*'</td></tr></table>]|
 ||||

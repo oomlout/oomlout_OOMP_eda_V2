@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORCONTROLLERNCP138D > NCP1380D
+# SZKREGULATORCONTROLLERNCP138D > Regulator_Controller : NCP1380D
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Controller-NCP1380D
 - Hex ID: SZKREGULATORCONTROLLERNCP138D
-- Name: NCP1380D
-- Description: NCP1380D
+- Name: Regulator_Controller : NCP1380D
+- Description: Regulator_Controller : NCP1380D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-NCP1380D](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-NCP1380D)
 - Short Link: [http://oom.lt/SZKREGULATORCONTROLLERNCP138D](http://oom.lt/SZKREGULATORCONTROLLERNCP138D)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|NCP1380D|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Controller-NCP1380D|
 |Hex ID (short code)|hexID|SZKREGULATORCONTROLLERNCP138D|
-|name|name|NCP1380D|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'NCP1380A', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'NCP1380D', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pub/Collateral/NCP1380-D.PDF', 'kicadSymbolki_keywords': 'SMPS Controller AC-DC', 'kicadSymbolki_description': 'Quasi-Resonant Current-Mode Controller for Off-Line Supplies, UVP/OVP, Auto-Recovery OCP, SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm*'}]|
+|name|name|Regulator_Controller : NCP1380D|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'NCP1380A'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'NCP1380D'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-8_3.9x4.9mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.onsemi.com/pub/Collateral/NCP1380-D.PDF'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'SMPS Controller AC-DC'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Quasi-Resonant Current-Mode Controller for Off-Line Supplies</td><td> UVP/OVP</td><td> Auto-Recovery OCP</td><td> SOIC-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*3.9x4.9mm*P1.27mm*'</td></tr></table>]|
 ||||

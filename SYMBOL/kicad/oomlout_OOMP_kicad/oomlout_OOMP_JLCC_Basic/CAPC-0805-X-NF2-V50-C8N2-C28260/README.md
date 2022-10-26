@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICCAPC85XNF2V5C8N2C2826 > CAPC-0805-X-NF2-V50-C8N2-C28260
+# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICCAPC85XNF2V5C8N2C2826 > oomlout_OOMP_JLCC_Basic : CAPC-0805-X-NF2-V50-C8N2-C28260
 
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0805-X-NF2-V50-C8N2-C28260
 - Hex ID: SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICCAPC85XNF2V5C8N2C2826
-- Name: CAPC-0805-X-NF2-V50-C8N2-C28260
-- Description: CAPC-0805-X-NF2-V50-C8N2-C28260
+- Name: oomlout_OOMP_JLCC_Basic : CAPC-0805-X-NF2-V50-C8N2-C28260
+- Description: oomlout_OOMP_JLCC_Basic : CAPC-0805-X-NF2-V50-C8N2-C28260
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0805-X-NF2-V50-C8N2-C28260](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0805-X-NF2-V50-C8N2-C28260)
 - Short Link: [http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICCAPC85XNF2V5C8N2C2826](http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICCAPC85XNF2V5C8N2C2826)
   
@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|CAPC-0805-X-NF2-V50-C8N2-C28260|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0805-X-NF2-V50-C8N2-C28260|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICCAPC85XNF2V5C8N2C2826|
-|name|name|CAPC-0805-X-NF2-V50-C8N2-C28260|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'C', 'kicadSymbolValue': 'CAPC-0805-X-NF2-V50-C8N2-C28260', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:CAPC-0805-X-NF2-V50-C8N2-C28260', 'kicadSymbolDatasheet': 'oom.lt/C8N2', 'kicadSymbolki_keywords': 'cap capacitor', 'kicadSymbolki_description': 'hexID: C8N2;PARTL C-JLCC;C28260;MANUF C-XXXX;CL21C222JBFNNNE;Unpolarized capacitor', 'kicadSymbolki_fp_filters': 'C_*'}]|
+|name|name|oomlout_OOMP_JLCC_Basic : CAPC-0805-X-NF2-V50-C8N2-C28260|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'C'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'CAPC-0805-X-NF2-V50-C8N2-C28260'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'oomlout_OOMP_parts</td></tr><tr><td>CAPC-0805-X-NF2-V50-C8N2-C28260'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'oom.lt/C8N2'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'cap capacitor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'hexID</td></tr><tr><td> C8N2;PARTL C-JLCC;C28260;MANUF C-XXXX;CL21C222JBFNNNE;Unpolarized capacitor'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'C_*'</td></tr></table>]|
 ||||

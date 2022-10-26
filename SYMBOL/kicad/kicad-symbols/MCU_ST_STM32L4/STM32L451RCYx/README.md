@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUSTSTM32L4STM32L451RCYX > STM32L451RCYx
+# SZKMCUSTSTM32L4STM32L451RCYX > MCU_ST_STM32L4 : STM32L451RCYx
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L4-STM32L451RCYx
 - Hex ID: SZKMCUSTSTM32L4STM32L451RCYX
-- Name: STM32L451RCYx
-- Description: STM32L451RCYx
+- Name: MCU_ST_STM32L4 : STM32L451RCYx
+- Description: MCU_ST_STM32L4 : STM32L451RCYx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L4-STM32L451RCYx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L4-STM32L451RCYx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32L4STM32L451RCYX](http://oom.lt/SZKMCUSTSTM32L4STM32L451RCYX)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|STM32L451RCYx|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L4-STM32L451RCYx|
 |Hex ID (short code)|hexID|SZKMCUSTSTM32L4STM32L451RCYX|
-|name|name|STM32L451RCYx|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'STM32L451RCYx', 'kicadSymbolFootprint': 'Package_CSP:ST_WLCSP-64_Die462', 'kicadSymbolDatasheet': 'http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00340475.pdf', 'kicadSymbolki_keywords': 'ARM Cortex-M4 STM32L4 STM32L4x1', 'kicadSymbolki_description': 'ARM Cortex-M4 MCU, 256KB flash, 160KB RAM, 80MHz, 1.71-3.6V, 52 GPIO, WLCSP-64', 'kicadSymbolki_fp_filters': 'ST_WLCSP*Die462*'}]|
+|name|name|MCU_ST_STM32L4 : STM32L451RCYx|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'STM32L451RCYx'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_CSP</td></tr><tr><td>ST_WLCSP-64_Die462'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00340475.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'ARM Cortex-M4 STM32L4 STM32L4x1'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'ARM Cortex-M4 MCU</td><td> 256KB flash</td><td> 160KB RAM</td><td> 80MHz</td><td> 1.71-3.6V</td><td> 52 GPIO</td><td> WLCSP-64'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'ST_WLCSP*Die462*'</td></tr></table>]|
 ||||

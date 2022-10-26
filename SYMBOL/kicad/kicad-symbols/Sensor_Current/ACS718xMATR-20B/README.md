@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKSENCURRENTACS718XMATR2B > ACS718xMATR-20B
+# SZKSENCURRENTACS718XMATR2B > Sensor_Current : ACS718xMATR-20B
 
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS718xMATR-20B
 - Hex ID: SZKSENCURRENTACS718XMATR2B
-- Name: ACS718xMATR-20B
-- Description: ACS718xMATR-20B
+- Name: Sensor_Current : ACS718xMATR-20B
+- Description: Sensor_Current : ACS718xMATR-20B
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS718xMATR-20B](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS718xMATR-20B)
 - Short Link: [http://oom.lt/SZKSENCURRENTACS718XMATR2B](http://oom.lt/SZKSENCURRENTACS718XMATR2B)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ACS718xMATR-20B|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS718xMATR-20B|
 |Hex ID (short code)|hexID|SZKSENCURRENTACS718XMATR2B|
-|name|name|ACS718xMATR-20B|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ACS717xMATR-10B', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ACS718xMATR-20B', 'kicadSymbolFootprint': 'Package_SO:SOIC-16W_7.5x10.3mm_P1.27mm', 'kicadSymbolDatasheet': 'http://www.allegromicro.com/~/media/Files/Datasheets/ACS718-Datasheet.ashx?la=en', 'kicadSymbolki_keywords': 'hall effect current monitor sensor isolated', 'kicadSymbolki_description': '±20A Bidirectional, Hall-Effect Current Sensor, +5.0V supply, 100mV/A, SOIC-16W', 'kicadSymbolki_fp_filters': 'SOIC*7.5x10.3mm*P1.27mm*'}]|
+|name|name|Sensor_Current : ACS718xMATR-20B|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'ACS717xMATR-10B'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ACS718xMATR-20B'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-16W_7.5x10.3mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.allegromicro.com/~/media/Files/Datasheets/ACS718-Datasheet.ashx?la=en'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'hall effect current monitor sensor isolated'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '±20A Bidirectional</td><td> Hall-Effect Current Sensor</td><td> +5.0V supply</td><td> 100mV/A</td><td> SOIC-16W'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*7.5x10.3mm*P1.27mm*'</td></tr></table>]|
 ||||

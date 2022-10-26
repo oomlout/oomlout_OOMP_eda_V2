@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUMCHIPATMEGAATXMEGA256A3UA > ATxmega256A3U-A
+# SZKMCUMCHIPATMEGAATXMEGA256A3UA > MCU_Microchip_ATmega : ATxmega256A3U-A
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATxmega256A3U-A
 - Hex ID: SZKMCUMCHIPATMEGAATXMEGA256A3UA
-- Name: ATxmega256A3U-A
-- Description: ATxmega256A3U-A
+- Name: MCU_Microchip_ATmega : ATxmega256A3U-A
+- Description: MCU_Microchip_ATmega : ATxmega256A3U-A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATxmega256A3U-A](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATxmega256A3U-A)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATMEGAATXMEGA256A3UA](http://oom.lt/SZKMCUMCHIPATMEGAATXMEGA256A3UA)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ATxmega256A3U-A|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATxmega256A3U-A|
 |Hex ID (short code)|hexID|SZKMCUMCHIPATMEGAATXMEGA256A3UA|
-|name|name|ATxmega256A3U-A|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ATxmega64A3U-A', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ATxmega256A3U-A', 'kicadSymbolFootprint': 'Package_QFP:TQFP-64_14x14mm_P0.8mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-8386-8-and-16-bit-AVR-Microcontroller-ATxmega64A3U-128A3U-192A3U-256A3U_datasheet.pdf', 'kicadSymbolki_keywords': 'AVR 8/16bit Microcontroller XMegaAVR', 'kicadSymbolki_description': '32MHz, 256kB Flash, 8kB Boot, 16kB SRAM, 4kB EEPROM, JTAG, USB, TQFP-64', 'kicadSymbolki_fp_filters': 'TQFP*14x14mm*P0.8mm*'}]|
+|name|name|MCU_Microchip_ATmega : ATxmega256A3U-A|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'ATxmega64A3U-A'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ATxmega256A3U-A'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_QFP</td></tr><tr><td>TQFP-64_14x14mm_P0.8mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/Atmel-8386-8-and-16-bit-AVR-Microcontroller-ATxmega64A3U-128A3U-192A3U-256A3U_datasheet.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'AVR 8/16bit Microcontroller XMegaAVR'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '32MHz</td><td> 256kB Flash</td><td> 8kB Boot</td><td> 16kB SRAM</td><td> 4kB EEPROM</td><td> JTAG</td><td> USB</td><td> TQFP-64'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TQFP*14x14mm*P0.8mm*'</td></tr></table>]|
 ||||

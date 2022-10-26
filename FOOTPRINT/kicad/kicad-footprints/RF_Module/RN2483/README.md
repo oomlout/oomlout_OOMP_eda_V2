@@ -29,5 +29,5 @@ NO IMAGE
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-RF_Module-RN2483|
 |Hex ID (short code)|hexID|FZKRFMORN2483|
 |name|name|RF_Module : RN2483|
-|Footprint Kicad|footprintKicadDetails|{'name': 'RN2483', 'description': 'Low-Power Long Range LoRa Transceiver Module', 'tags': 'rf module lora lorawan', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/RF_Module.3dshapes/RN2483.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'RN2483'</td><td> 'description'</td></tr><tr><td> 'Low-Power Long Range LoRa Transceiver Module'</td><td> 'tags'</td></tr><tr><td> 'rf module lora lorawan'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/RF_Module.3dshapes/RN2483.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

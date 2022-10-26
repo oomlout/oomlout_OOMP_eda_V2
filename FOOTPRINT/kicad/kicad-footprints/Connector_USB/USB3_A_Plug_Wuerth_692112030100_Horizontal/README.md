@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB3_A_Plug_Wuerth_692112030100_Horizontal|
 |Hex ID (short code)|hexID|FZKCNUU3APLUGWUERTH69211231HORIZONTAL|
 |name|name|Connector_USB : USB3_A_Plug_Wuerth_692112030100_Horizontal|
-|Footprint Kicad|footprintKicadDetails|{'name': 'USB3_A_Plug_Wuerth_692112030100_Horizontal', 'description': 'USB3 type A Plug, Horizontal, http://katalog.we-online.de/em/datasheet/692112030100.pdf', 'tags': 'usb A plug horizontal', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_USB.3dshapes/USB3_A_Plug_Wuerth_692112030100_Horizontal.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'USB3_A_Plug_Wuerth_692112030100_Horizontal'</td><td> 'description'</td></tr><tr><td> 'USB3 type A Plug</td><td> Horizontal</td><td> http</td></tr><tr><td>//katalog.we-online.de/em/datasheet/692112030100.pdf'</td><td> 'tags'</td></tr><tr><td> 'usb A plug horizontal'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_USB.3dshapes/USB3_A_Plug_Wuerth_692112030100_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORLINEARMC7918 > MC7918
+# SZKREGULATORLINEARMC7918 > Regulator_Linear : MC7918
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-MC7918
 - Hex ID: SZKREGULATORLINEARMC7918
-- Name: MC7918
-- Description: MC7918
+- Name: Regulator_Linear : MC7918
+- Description: Regulator_Linear : MC7918
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-MC7918](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-MC7918)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARMC7918](http://oom.lt/SZKREGULATORLINEARMC7918)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MC7918|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-MC7918|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARMC7918|
-|name|name|MC7918|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'L7905', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MC7918', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.onsemi.com/pub/Collateral/MC7900-D.PDF', 'kicadSymbolki_keywords': 'Voltage Regulator 1.5A Negative', 'kicadSymbolki_description': 'Negative 1A 35V Linear Regulator, Fixed Output -18V, TO-220/TO-263', 'kicadSymbolki_fp_filters': 'TO?220* TO?263*'}]|
+|name|name|Regulator_Linear : MC7918|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'L7905'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MC7918'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.onsemi.com/pub/Collateral/MC7900-D.PDF'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Voltage Regulator 1.5A Negative'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Negative 1A 35V Linear Regulator</td><td> Fixed Output -18V</td><td> TO-220/TO-263'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TO?220* TO?263*'</td></tr></table>]|
 ||||

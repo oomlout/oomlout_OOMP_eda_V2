@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Phototransistor_SMD_4x2mm_TEMT6000X01|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSPHOTOTRANSISTORSM4X2TEMT6X1|
 |name|name|digikey-footprints : Phototransistor_SMD_4x2mm_TEMT6000X01|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Phototransistor_SMD_4x2mm_TEMT6000X01', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Phototransistor_SMD_4x2mm_TEMT6000X01'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_LGA-LGA-14_3x2.5mm_P0.5mm_LayoutBorder3x4y|
 |Hex ID (short code)|hexID|FZKLGALGA143X25P5LAYOUTBORDER3X4Y|
 |name|name|Package_LGA : LGA-14_3x2.5mm_P0.5mm_LayoutBorder3x4y|
-|Footprint Kicad|footprintKicadDetails|{'name': 'LGA-14_3x2.5mm_P0.5mm_LayoutBorder3x4y', 'description': 'LGA, 14 Pin (http://www.st.com/resource/en/datasheet/lsm6ds3.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py', 'tags': 'LGA NoLead', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_LGA.3dshapes/LGA-14_3x2.5mm_P0.5mm_LayoutBorder3x4y.wrl', 'pins': {'type': 'smd', 'shape': 'custom'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'LGA-14_3x2.5mm_P0.5mm_LayoutBorder3x4y'</td><td> 'description'</td></tr><tr><td> 'LGA</td><td> 14 Pin (http</td></tr><tr><td>//www.st.com/resource/en/datasheet/lsm6ds3.pdf)</td><td> generated with kicad-footprint-generator ipc_noLead_generator.py'</td><td> 'tags'</td></tr><tr><td> 'LGA NoLead'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_LGA.3dshapes/LGA-14_3x2.5mm_P0.5mm_LayoutBorder3x4y.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'custom'</td></tr></table></td></tr></table>|
 ||||
 
 

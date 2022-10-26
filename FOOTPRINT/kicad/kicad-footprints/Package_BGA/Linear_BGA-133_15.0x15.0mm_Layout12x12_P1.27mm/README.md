@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_BGA-Linear_BGA-133_15.0x15.0mm_Layout12x12_P1.27mm|
 |Hex ID (short code)|hexID|FZKBGALINEARBGA13315X15LAYOUT12X12P127|
 |name|name|Package_BGA : Linear_BGA-133_15.0x15.0mm_Layout12x12_P1.27mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Linear_BGA-133_15.0x15.0mm_Layout12x12_P1.27mm', 'description': 'Analog Devices (Linear Tech), 133-pin BGA uModule, 15.0x15.0x4.92mm, https://www.analog.com/media/en/technical-documentation/data-sheets/4637fc.pdf', 'tags': '133 pin bga', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/Linear_BGA-133_15.0x15.0mm_Layout12x12_P1.27mm.wrl', 'pins': {'type': 'smd', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Linear_BGA-133_15.0x15.0mm_Layout12x12_P1.27mm'</td><td> 'description'</td></tr><tr><td> 'Analog Devices (Linear Tech)</td><td> 133-pin BGA uModule</td><td> 15.0x15.0x4.92mm</td><td> https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/4637fc.pdf'</td><td> 'tags'</td></tr><tr><td> '133 pin bga'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_BGA.3dshapes/Linear_BGA-133_15.0x15.0mm_Layout12x12_P1.27mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

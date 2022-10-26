@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKSENMOTIONLIS3DH > LIS3DH
+# SZKSENMOTIONLIS3DH > Sensor_Motion : LIS3DH
 
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Motion-LIS3DH
 - Hex ID: SZKSENMOTIONLIS3DH
-- Name: LIS3DH
-- Description: LIS3DH
+- Name: Sensor_Motion : LIS3DH
+- Description: Sensor_Motion : LIS3DH
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Motion-LIS3DH](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Motion-LIS3DH)
 - Short Link: [http://oom.lt/SZKSENMOTIONLIS3DH](http://oom.lt/SZKSENMOTIONLIS3DH)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LIS3DH|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Motion-LIS3DH|
 |Hex ID (short code)|hexID|SZKSENMOTIONLIS3DH|
-|name|name|LIS3DH|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LIS3DH', 'kicadSymbolFootprint': 'Package_LGA:LGA-16_3x3mm_P0.5mm_LayoutBorder3x5y', 'kicadSymbolDatasheet': 'https://www.st.com/resource/en/datasheet/cd00274221.pdf', 'kicadSymbolki_keywords': '3-axis accelerometer i2c spi mems', 'kicadSymbolki_description': '3-Axis Accelerometer, 2/4/8/16g range, I2C/SPI interface, LGA-16', 'kicadSymbolki_fp_filters': 'LGA*3x3mm*P0.5mm*LayoutBorder3x5y*'}]|
+|name|name|Sensor_Motion : LIS3DH|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LIS3DH'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_LGA</td></tr><tr><td>LGA-16_3x3mm_P0.5mm_LayoutBorder3x5y'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.st.com/resource/en/datasheet/cd00274221.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> '3-axis accelerometer i2c spi mems'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '3-Axis Accelerometer</td><td> 2/4/8/16g range</td><td> I2C/SPI interface</td><td> LGA-16'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'LGA*3x3mm*P0.5mm*LayoutBorder3x5y*'</td></tr></table>]|
 ||||

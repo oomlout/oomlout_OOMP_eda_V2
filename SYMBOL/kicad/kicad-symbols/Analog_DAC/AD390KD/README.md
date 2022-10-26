@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKANALOGDACAD39KD > AD390KD
+# SZKANALOGDACAD39KD > Analog_DAC : AD390KD
 
 - ID: SYMBOL-kicad-kicad-symbols-Analog_DAC-AD390KD
 - Hex ID: SZKANALOGDACAD39KD
-- Name: AD390KD
-- Description: AD390KD
+- Name: Analog_DAC : AD390KD
+- Description: Analog_DAC : AD390KD
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-AD390KD](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-AD390KD)
 - Short Link: [http://oom.lt/SZKANALOGDACAD39KD](http://oom.lt/SZKANALOGDACAD39KD)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AD390KD|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_DAC-AD390KD|
 |Hex ID (short code)|hexID|SZKANALOGDACAD39KD|
-|name|name|AD390KD|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'AD390JD', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AD390KD', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.analog.com/static/imported-files/data_sheets/AD390MIL.pdf', 'kicadSymbolki_keywords': '4ch DAC 12bit', 'kicadSymbolki_description': 'Quad 12bit DAC, 2LSB Gain Error, DH-28'}]|
+|name|name|Analog_DAC : AD390KD|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'AD390JD'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'AD390KD'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/static/imported-files/data_sheets/AD390MIL.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> '4ch DAC 12bit'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Quad 12bit DAC</td><td> 2LSB Gain Error</td><td> DH-28'</td></tr></table>]|
 ||||

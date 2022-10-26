@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORLINEARTC126233 > TC1262-33
+# SZKREGULATORLINEARTC126233 > Regulator_Linear : TC1262-33
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-TC1262-33
 - Hex ID: SZKREGULATORLINEARTC126233
-- Name: TC1262-33
-- Description: TC1262-33
+- Name: Regulator_Linear : TC1262-33
+- Description: Regulator_Linear : TC1262-33
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TC1262-33](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TC1262-33)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARTC126233](http://oom.lt/SZKREGULATORLINEARTC126233)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TC1262-33|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-TC1262-33|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARTC126233|
-|name|name|TC1262-33|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TC1262-33', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/21373C.pdf', 'kicadSymbolki_keywords': 'Voltage Regulator 3.3V 500mA Positive CMOS LDO Microchip', 'kicadSymbolki_description': '500mA Low Dropout CMOS Voltage Regulator, Fixed Output 3.3V, TO-220/SOT-223/TO-263', 'kicadSymbolki_fp_filters': 'SOT?223* TO?220* TO?263*'}]|
+|name|name|Regulator_Linear : TC1262-33|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TC1262-33'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/21373C.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Voltage Regulator 3.3V 500mA Positive CMOS LDO Microchip'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '500mA Low Dropout CMOS Voltage Regulator</td><td> Fixed Output 3.3V</td><td> TO-220/SOT-223/TO-263'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?223* TO?220* TO?263*'</td></tr></table>]|
 ||||

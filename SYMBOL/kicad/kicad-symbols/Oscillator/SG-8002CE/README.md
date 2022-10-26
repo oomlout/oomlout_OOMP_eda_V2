@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKOCSSG82CE > SG-8002CE
+# SZKOCSSG82CE > Oscillator : SG-8002CE
 
 - ID: SYMBOL-kicad-kicad-symbols-Oscillator-SG-8002CE
 - Hex ID: SZKOCSSG82CE
-- Name: SG-8002CE
-- Description: SG-8002CE
+- Name: Oscillator : SG-8002CE
+- Description: Oscillator : SG-8002CE
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-SG-8002CE](http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-SG-8002CE)
 - Short Link: [http://oom.lt/SZKOCSSG82CE](http://oom.lt/SZKOCSSG82CE)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SG-8002CE|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Oscillator-SG-8002CE|
 |Hex ID (short code)|hexID|SZKOCSSG82CE|
-|name|name|SG-8002CE|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'X', 'kicadSymbolValue': 'SG-8002CE', 'kicadSymbolFootprint': 'Oscillator:Oscillator_SMD_SeikoEpson_SG8002CE-4Pin_3.2x2.5mm', 'kicadSymbolDatasheet': 'https://support.epson.biz/td/api/doc_check.php?mode=dl&lang=en&Parts=SG-8002DC', 'kicadSymbolki_keywords': 'Crystal Clock Oscillator', 'kicadSymbolki_description': 'CMOS Clock Oscillator', 'kicadSymbolki_fp_filters': 'Oscillator*SMD*SeikoEpson*SG8002CE*3.2x2.5mm*'}]|
+|name|name|Oscillator : SG-8002CE|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'X'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'SG-8002CE'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Oscillator</td></tr><tr><td>Oscillator_SMD_SeikoEpson_SG8002CE-4Pin_3.2x2.5mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//support.epson.biz/td/api/doc_check.php?mode=dl&lang=en&Parts=SG-8002DC'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Crystal Clock Oscillator'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'CMOS Clock Oscillator'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Oscillator*SMD*SeikoEpson*SG8002CE*3.2x2.5mm*'</td></tr></table>]|
 ||||

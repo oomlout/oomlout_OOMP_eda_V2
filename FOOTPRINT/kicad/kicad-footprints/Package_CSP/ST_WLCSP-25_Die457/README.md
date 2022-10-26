@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_CSP-ST_WLCSP-25_Die457|
 |Hex ID (short code)|hexID|FZKCSPSTWLCSP25DIE457|
 |name|name|Package_CSP : ST_WLCSP-25_Die457|
-|Footprint Kicad|footprintKicadDetails|{'name': 'ST_WLCSP-25_Die457', 'description': 'WLCSP-25, 5x5 raster, 2.133x2.070mm package, pitch 0.4mm; see section 7.3 of http://www.st.com/resource/en/datasheet/stm32l011k3.pdf', 'tags': 'BGA 25 0.4', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_CSP.3dshapes/ST_WLCSP-25_Die457.wrl', 'pins': {'type': 'smd', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'ST_WLCSP-25_Die457'</td><td> 'description'</td></tr><tr><td> 'WLCSP-25</td><td> 5x5 raster</td><td> 2.133x2.070mm package</td><td> pitch 0.4mm; see section 7.3 of http</td></tr><tr><td>//www.st.com/resource/en/datasheet/stm32l011k3.pdf'</td><td> 'tags'</td></tr><tr><td> 'BGA 25 0.4'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_CSP.3dshapes/ST_WLCSP-25_Die457.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

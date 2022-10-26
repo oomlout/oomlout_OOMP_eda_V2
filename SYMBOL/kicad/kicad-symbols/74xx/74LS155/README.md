@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZK74XX74LS155 > 74LS155
+# SZK74XX74LS155 > 74xx : 74LS155
 
 - ID: SYMBOL-kicad-kicad-symbols-74xx-74LS155
 - Hex ID: SZK74XX74LS155
-- Name: 74LS155
-- Description: 74LS155
+- Name: 74xx : 74LS155
+- Description: 74xx : 74LS155
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx-74LS155](http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx-74LS155)
 - Short Link: [http://oom.lt/SZK74XX74LS155](http://oom.lt/SZK74XX74LS155)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74LS155|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xx-74LS155|
 |Hex ID (short code)|hexID|SZK74XX74LS155|
-|name|name|74LS155|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74LS155', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/gpn/sn74LS155', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'TTL DECOD8 DECOD4 DEMUX4 DEMUX8 DEMUX DECOD', 'kicadSymbolki_description': 'Dual 2 to 4 lines Decoder/Demultiplexer', 'kicadSymbolki_fp_filters': 'DIP?16*'}]|
+|name|name|74xx : 74LS155|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> '74LS155'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/gpn/sn74LS155'</td><td> 'kicadSymbolki_locked'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'TTL DECOD8 DECOD4 DEMUX4 DEMUX8 DEMUX DECOD'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Dual 2 to 4 lines Decoder/Demultiplexer'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP?16*'</td></tr></table>]|
 ||||

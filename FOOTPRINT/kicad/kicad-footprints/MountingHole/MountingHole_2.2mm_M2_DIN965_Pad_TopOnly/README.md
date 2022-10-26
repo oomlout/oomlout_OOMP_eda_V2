@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_2.2mm_M2_DIN965_Pad_TopOnly|
 |Hex ID (short code)|hexID|FZKHOLHOL22M2DIN965PADTOPONLY|
 |name|name|MountingHole : MountingHole_2.2mm_M2_DIN965_Pad_TopOnly|
-|Footprint Kicad|footprintKicadDetails|{'name': 'MountingHole_2.2mm_M2_DIN965_Pad_TopOnly', 'description': 'Mounting Hole 2.2mm, M2, DIN965', 'tags': 'mounting hole 2.2mm m2 din965', 'attributeType': None, 'pins': {'type': 'connect', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'MountingHole_2.2mm_M2_DIN965_Pad_TopOnly'</td><td> 'description'</td></tr><tr><td> 'Mounting Hole 2.2mm</td><td> M2</td><td> DIN965'</td><td> 'tags'</td></tr><tr><td> 'mounting hole 2.2mm m2 din965'</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'connect'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

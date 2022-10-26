@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC126XNF1V1C1N1 > CAPC-1206-X-NF1-V1000-C1N001
+# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC126XNF1V1C1N1 > oomlout_OOMP_parts : CAPC-1206-X-NF1-V1000-C1N001
 
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-1206-X-NF1-V1000-C1N001
 - Hex ID: SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC126XNF1V1C1N1
-- Name: CAPC-1206-X-NF1-V1000-C1N001
-- Description: CAPC-1206-X-NF1-V1000-C1N001
+- Name: oomlout_OOMP_parts : CAPC-1206-X-NF1-V1000-C1N001
+- Description: oomlout_OOMP_parts : CAPC-1206-X-NF1-V1000-C1N001
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-1206-X-NF1-V1000-C1N001](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-1206-X-NF1-V1000-C1N001)
 - Short Link: [http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC126XNF1V1C1N1](http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC126XNF1V1C1N1)
   
@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|CAPC-1206-X-NF1-V1000-C1N001|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-1206-X-NF1-V1000-C1N001|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC126XNF1V1C1N1|
-|name|name|CAPC-1206-X-NF1-V1000-C1N001|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'C', 'kicadSymbolValue': 'CAPC-1206-X-NF1-V1000-C1N001', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:CAPC-1206-X-NF1-V1000-C1N001', 'kicadSymbolDatasheet': 'oom.lt/C1N001', 'kicadSymbolki_keywords': 'cap capacitor', 'kicadSymbolki_description': 'hexID: C1N001;Unpolarized capacitor', 'kicadSymbolki_fp_filters': 'C_*'}]|
+|name|name|oomlout_OOMP_parts : CAPC-1206-X-NF1-V1000-C1N001|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'C'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'CAPC-1206-X-NF1-V1000-C1N001'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'oomlout_OOMP_parts</td></tr><tr><td>CAPC-1206-X-NF1-V1000-C1N001'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'oom.lt/C1N001'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'cap capacitor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'hexID</td></tr><tr><td> C1N001;Unpolarized capacitor'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'C_*'</td></tr></table>]|
 ||||

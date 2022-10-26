@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUMCHIPPIC18PIC18F25K22XSP > PIC18F25K22-xSP
+# SZKMCUMCHIPPIC18PIC18F25K22XSP > MCU_Microchip_PIC18 : PIC18F25K22-xSP
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18F25K22-xSP
 - Hex ID: SZKMCUMCHIPPIC18PIC18F25K22XSP
-- Name: PIC18F25K22-xSP
-- Description: PIC18F25K22-xSP
+- Name: MCU_Microchip_PIC18 : PIC18F25K22-xSP
+- Description: MCU_Microchip_PIC18 : PIC18F25K22-xSP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18F25K22-xSP](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18F25K22-xSP)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC18PIC18F25K22XSP](http://oom.lt/SZKMCUMCHIPPIC18PIC18F25K22XSP)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PIC18F25K22-xSP|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18F25K22-xSP|
 |Hex ID (short code)|hexID|SZKMCUMCHIPPIC18PIC18F25K22XSP|
-|name|name|PIC18F25K22-xSP|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'PIC18F23K22-xSP', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PIC18F25K22-xSP', 'kicadSymbolFootprint': 'Package_DIP:DIP-28_W7.62mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/40001412G.pdf', 'kicadSymbolki_keywords': 'Flash-Based 8-Bit Microcontroller XLP', 'kicadSymbolki_description': '32K Flash, 1536B SRAM, 256B EEPROM, nanoWatt XLP, 2.3V to 5.5V, SPDIP28', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
+|name|name|MCU_Microchip_PIC18 : PIC18F25K22-xSP|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'PIC18F23K22-xSP'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'PIC18F25K22-xSP'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>DIP-28_W7.62mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/40001412G.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Flash-Based 8-Bit Microcontroller XLP'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '32K Flash</td><td> 1536B SRAM</td><td> 256B EEPROM</td><td> nanoWatt XLP</td><td> 2.3V to 5.5V</td><td> SPDIP28'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W7.62mm*'</td></tr></table>]|
 ||||

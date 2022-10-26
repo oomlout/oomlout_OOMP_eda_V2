@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKCN8P8CL > 8P8C_LED
+# SZKCN8P8CL > Connector : 8P8C_LED
 
 - ID: SYMBOL-kicad-kicad-symbols-Connector-8P8C_LED
 - Hex ID: SZKCN8P8CL
-- Name: 8P8C_LED
-- Description: 8P8C_LED
+- Name: Connector : 8P8C_LED
+- Description: Connector : 8P8C_LED
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-8P8C_LED](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-8P8C_LED)
 - Short Link: [http://oom.lt/SZKCN8P8CL](http://oom.lt/SZKCN8P8CL)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|8P8C_LED|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-8P8C_LED|
 |Hex ID (short code)|hexID|SZKCN8P8CL|
-|name|name|8P8C_LED|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': '8P8C_LED', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': '8P8C RJ female connector led', 'kicadSymbolki_description': 'RJ connector, 8P8C (8 positions 8 connected), two LEDs, RJ45', 'kicadSymbolki_fp_filters': '8P8C* RJ45*'}]|
+|name|name|Connector : 8P8C_LED|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'J'</td><td> 'kicadSymbolValue'</td></tr><tr><td> '8P8C_LED'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> '8P8C RJ female connector led'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'RJ connector</td><td> 8P8C (8 positions 8 connected)</td><td> two LEDs</td><td> RJ45'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> '8P8C* RJ45*'</td></tr></table>]|
 ||||

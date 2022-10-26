@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDEVICEELECTROMAGNETICACTOR > ElectromagneticActor
+# SZKDEVICEELECTROMAGNETICACTOR > Device : ElectromagneticActor
 
 - ID: SYMBOL-kicad-kicad-symbols-Device-ElectromagneticActor
 - Hex ID: SZKDEVICEELECTROMAGNETICACTOR
-- Name: ElectromagneticActor
-- Description: ElectromagneticActor
+- Name: Device : ElectromagneticActor
+- Description: Device : ElectromagneticActor
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-ElectromagneticActor](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-ElectromagneticActor)
 - Short Link: [http://oom.lt/SZKDEVICEELECTROMAGNETICACTOR](http://oom.lt/SZKDEVICEELECTROMAGNETICACTOR)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ElectromagneticActor|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-ElectromagneticActor|
 |Hex ID (short code)|hexID|SZKDEVICEELECTROMAGNETICACTOR|
-|name|name|ElectromagneticActor|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'L', 'kicadSymbolValue': 'ElectromagneticActor', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'electromagnet coil inductor', 'kicadSymbolki_description': 'Electromagnetic actor', 'kicadSymbolki_fp_filters': 'Inductor_* L_*'}]|
+|name|name|Device : ElectromagneticActor|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'L'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ElectromagneticActor'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'electromagnet coil inductor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Electromagnetic actor'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Inductor_* L_*'</td></tr></table>]|
 ||||

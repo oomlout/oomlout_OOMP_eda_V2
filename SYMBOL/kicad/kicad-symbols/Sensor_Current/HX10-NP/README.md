@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKSENCURRENTHX1NP > HX10-NP
+# SZKSENCURRENTHX1NP > Sensor_Current : HX10-NP
 
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Current-HX10-NP
 - Hex ID: SZKSENCURRENTHX1NP
-- Name: HX10-NP
-- Description: HX10-NP
+- Name: Sensor_Current : HX10-NP
+- Description: Sensor_Current : HX10-NP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-HX10-NP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-HX10-NP)
 - Short Link: [http://oom.lt/SZKSENCURRENTHX1NP](http://oom.lt/SZKSENCURRENTHX1NP)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|HX10-NP|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Current-HX10-NP|
 |Hex ID (short code)|hexID|SZKSENCURRENTHX1NP|
-|name|name|HX10-NP|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'HX10-NP', 'kicadSymbolFootprint': 'Sensor_Current:LEM_HX10-NP', 'kicadSymbolDatasheet': 'https://www.lem.com/sites/default/files/products_datasheets/hx%205_15-np_e%20v10.pdf', 'kicadSymbolki_keywords': 'current transducer', 'kicadSymbolki_description': 'Current Transducer, 10A, Bipolar, +/-15V', 'kicadSymbolki_fp_filters': 'LEM*HX10*NP*'}]|
+|name|name|Sensor_Current : HX10-NP|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'HX10-NP'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Sensor_Current</td></tr><tr><td>LEM_HX10-NP'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.lem.com/sites/default/files/products_datasheets/hx%205_15-np_e%20v10.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'current transducer'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Current Transducer</td><td> 10A</td><td> Bipolar</td><td> +/-15V'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'LEM*HX10*NP*'</td></tr></table>]|
 ||||

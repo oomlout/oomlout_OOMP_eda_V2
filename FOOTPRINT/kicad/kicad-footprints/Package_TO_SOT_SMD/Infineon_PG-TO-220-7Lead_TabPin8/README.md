@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-Infineon_PG-TO-220-7Lead_TabPin8|
 |Hex ID (short code)|hexID|FZKPACKAGETOSOTSMINFINEONPGTO227LEADTABPIN8|
 |name|name|Package_TO_SOT_SMD : Infineon_PG-TO-220-7Lead_TabPin8|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Infineon_PG-TO-220-7Lead_TabPin8', 'description': 'Infineon PG-TO-220-7, Tab as Pin 8, see e.g. https://www.infineon.com/dgdl/Infineon-BTS50055-1TMC-DS-v01_00-EN.pdf?fileId=5546d4625a888733015aa9b0007235e9', 'tags': 'Infineon PG-TO-220-7', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/Infineon_PG-TO-220-7Lead_TabPin8.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Infineon_PG-TO-220-7Lead_TabPin8'</td><td> 'description'</td></tr><tr><td> 'Infineon PG-TO-220-7</td><td> Tab as Pin 8</td><td> see e.g. https</td></tr><tr><td>//www.infineon.com/dgdl/Infineon-BTS50055-1TMC-DS-v01_00-EN.pdf?fileId=5546d4625a888733015aa9b0007235e9'</td><td> 'tags'</td></tr><tr><td> 'Infineon PG-TO-220-7'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_TO_SOT_SMD.3dshapes/Infineon_PG-TO-220-7Lead_TabPin8.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

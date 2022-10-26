@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_CuK_OS102011MA1QN1_SPDT_Angled|
 |Hex ID (short code)|hexID|FZKBSWCUKOS1211MA1QN1SPDTANGL|
 |name|name|Button_Switch_THT : SW_CuK_OS102011MA1QN1_SPDT_Angled|
-|Footprint Kicad|footprintKicadDetails|{'name': 'SW_CuK_OS102011MA1QN1_SPDT_Angled', 'description': 'CuK miniature slide switch, OS series, SPDT, right angle, http://www.ckswitches.com/media/1428/os.pdf', 'tags': 'switch SPDT', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_CuK_OS102011MA1QN1_SPDT_Angled.wrl', 'pins': {'type': 'thru_hole', 'shape': 'oval'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SW_CuK_OS102011MA1QN1_SPDT_Angled'</td><td> 'description'</td></tr><tr><td> 'CuK miniature slide switch</td><td> OS series</td><td> SPDT</td><td> right angle</td><td> http</td></tr><tr><td>//www.ckswitches.com/media/1428/os.pdf'</td><td> 'tags'</td></tr><tr><td> 'switch SPDT'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Button_Switch_THT.3dshapes/SW_CuK_OS102011MA1QN1_SPDT_Angled.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'oval'</td></tr></table></td></tr></table>|
 ||||
 
 

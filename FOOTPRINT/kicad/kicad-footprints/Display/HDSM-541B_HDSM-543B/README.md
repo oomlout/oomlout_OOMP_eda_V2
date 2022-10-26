@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Display-HDSM-541B_HDSM-543B|
 |Hex ID (short code)|hexID|FZKDIHDSM541BHDSM543B|
 |name|name|Display : HDSM-541B_HDSM-543B|
-|Footprint Kicad|footprintKicadDetails|{'name': 'HDSM-541B_HDSM-543B', 'description': '2 digit 7 segement blue LED with right hand decimal, https://docs.broadcom.com/docs/AV02-1588EN', 'tags': '2 digit 7 segement blue LED with right hand decimal', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Display.3dshapes/HDSM-541B_HDSM-543B.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'HDSM-541B_HDSM-543B'</td><td> 'description'</td></tr><tr><td> '2 digit 7 segement blue LED with right hand decimal</td><td> https</td></tr><tr><td>//docs.broadcom.com/docs/AV02-1588EN'</td><td> 'tags'</td></tr><tr><td> '2 digit 7 segement blue LED with right hand decimal'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Display.3dshapes/HDSM-541B_HDSM-543B.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

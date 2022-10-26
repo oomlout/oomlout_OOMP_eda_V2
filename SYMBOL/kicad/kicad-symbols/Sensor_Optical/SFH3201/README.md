@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKSENOPTICALSFH321 > SFH3201
+# SZKSENOPTICALSFH321 > Sensor_Optical : SFH3201
 
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Optical-SFH3201
 - Hex ID: SZKSENOPTICALSFH321
-- Name: SFH3201
-- Description: SFH3201
+- Name: Sensor_Optical : SFH3201
+- Description: Sensor_Optical : SFH3201
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-SFH3201](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-SFH3201)
 - Short Link: [http://oom.lt/SZKSENOPTICALSFH321](http://oom.lt/SZKSENOPTICALSFH321)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SFH3201|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Optical-SFH3201|
 |Hex ID (short code)|hexID|SZKSENOPTICALSFH321|
-|name|name|SFH3201|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'SFH3201', 'kicadSymbolFootprint': 'OptoDevice:Osram_SFH9x0x', 'kicadSymbolDatasheet': 'https://dammedia.osram.info/media/resource/hires/osram-dam-2495980/SFH%203201.pdf', 'kicadSymbolki_keywords': 'NPN phototransistor', 'kicadSymbolki_description': 'Silicon NPN phototransistor, SMD-6', 'kicadSymbolki_fp_filters': 'Osram*SFH9x0x*'}]|
+|name|name|Sensor_Optical : SFH3201|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'SFH3201'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'OptoDevice</td></tr><tr><td>Osram_SFH9x0x'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//dammedia.osram.info/media/resource/hires/osram-dam-2495980/SFH%203201.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'NPN phototransistor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Silicon NPN phototransistor</td><td> SMD-6'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Osram*SFH9x0x*'</td></tr></table>]|
 ||||

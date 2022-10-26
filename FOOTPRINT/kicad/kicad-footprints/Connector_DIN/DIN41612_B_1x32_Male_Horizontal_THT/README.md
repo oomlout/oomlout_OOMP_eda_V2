@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_DIN-DIN41612_B_1x32_Male_Horizontal_THT|
 |Hex ID (short code)|hexID|FZKCNDINDIN41612B1X32MALEHORIZONTALTHT|
 |name|name|Connector_DIN : DIN41612_B_1x32_Male_Horizontal_THT|
-|Footprint Kicad|footprintKicadDetails|{'name': 'DIN41612_B_1x32_Male_Horizontal_THT', 'description': 'DIN41612 connector, type B, Horizontal, 2 rows 32 pins wide, https://www.erni-x-press.com/de/downloads/kataloge/englische_kataloge/erni-din41612-iec60603-2-e.pdf', 'tags': 'DIN 41612 IEC 60603 B', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_DIN.3dshapes/DIN41612_B_1x32_Male_Horizontal_THT.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'DIN41612_B_1x32_Male_Horizontal_THT'</td><td> 'description'</td></tr><tr><td> 'DIN41612 connector</td><td> type B</td><td> Horizontal</td><td> 2 rows 32 pins wide</td><td> https</td></tr><tr><td>//www.erni-x-press.com/de/downloads/kataloge/englische_kataloge/erni-din41612-iec60603-2-e.pdf'</td><td> 'tags'</td></tr><tr><td> 'DIN 41612 IEC 60603 B'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_DIN.3dshapes/DIN41612_B_1x32_Male_Horizontal_THT.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

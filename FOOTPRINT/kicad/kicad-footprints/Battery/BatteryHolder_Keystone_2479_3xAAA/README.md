@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Battery-BatteryHolder_Keystone_2479_3xAAA|
 |Hex ID (short code)|hexID|FZKBATBATHOLDERKEYSTONE24793XAAA|
 |name|name|Battery : BatteryHolder_Keystone_2479_3xAAA|
-|Footprint Kicad|footprintKicadDetails|{'name': 'BatteryHolder_Keystone_2479_3xAAA', 'description': 'Keystone Battery Holder, 2479, Battery Type 3xAAA (Script generated with StandardBox.py) (Keystone Battery Holder, 2479, Battery Type 3xAAA)', 'tags': 'Keystone Battery Holder 2479 Battery Type 3xAAA', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Battery.3dshapes/BatteryHolder_Keystone_2479_3xAAA.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'BatteryHolder_Keystone_2479_3xAAA'</td><td> 'description'</td></tr><tr><td> 'Keystone Battery Holder</td><td> 2479</td><td> Battery Type 3xAAA (Script generated with StandardBox.py) (Keystone Battery Holder</td><td> 2479</td><td> Battery Type 3xAAA)'</td><td> 'tags'</td></tr><tr><td> 'Keystone Battery Holder 2479 Battery Type 3xAAA'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Battery.3dshapes/BatteryHolder_Keystone_2479_3xAAA.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

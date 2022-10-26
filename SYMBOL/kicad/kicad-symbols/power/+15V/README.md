@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKPOWER+15V > +15V
+# SZKPOWER+15V > power : +15V
 
 - ID: SYMBOL-kicad-kicad-symbols-power-+15V
 - Hex ID: SZKPOWER+15V
-- Name: +15V
-- Description: +15V
+- Name: power : +15V
+- Description: power : +15V
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-power-+15V](http://oom.lt/SYMBOL-kicad-kicad-symbols-power-+15V)
 - Short Link: [http://oom.lt/SZKPOWER+15V](http://oom.lt/SZKPOWER+15V)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|+15V|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-power-+15V|
 |Hex ID (short code)|hexID|SZKPOWER+15V|
-|name|name|+15V|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': '#PWR', 'kicadSymbolValue': '+15V', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_keywords': 'power-flag', 'kicadSymbolki_description': 'Power symbol creates a global label with name "+15V"'}]|
+|name|name|power : +15V|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> '#PWR'</td><td> 'kicadSymbolValue'</td></tr><tr><td> '+15V'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'power-flag'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Power symbol creates a global label with name "+15V"'</td></tr></table>]|
 ||||

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-UQFN-28-1EP_4x4mm_P0.4mm_EP2.35x2.35mm_ThermalVias|
 |Hex ID (short code)|hexID|FZKDFNUQFN281EP4X4P4EP235X235THERMALVIAS|
 |name|name|Package_DFN_QFN : UQFN-28-1EP_4x4mm_P0.4mm_EP2.35x2.35mm_ThermalVias|
-|Footprint Kicad|footprintKicadDetails|{'name': 'UQFN-28-1EP_4x4mm_P0.4mm_EP2.35x2.35mm_ThermalVias', 'description': 'UQFN, 28 Pin (http://ww1.microchip.com/downloads/en/PackagingSpec/00000049BQ.pdf#page=338), generated with kicad-footprint-generator ipc_noLead_generator.py', 'tags': 'UQFN NoLead', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/UQFN-28-1EP_4x4mm_P0.4mm_EP2.35x2.35mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'UQFN-28-1EP_4x4mm_P0.4mm_EP2.35x2.35mm_ThermalVias'</td><td> 'description'</td></tr><tr><td> 'UQFN</td><td> 28 Pin (http</td></tr><tr><td>//ww1.microchip.com/downloads/en/PackagingSpec/00000049BQ.pdf#page=338)</td><td> generated with kicad-footprint-generator ipc_noLead_generator.py'</td><td> 'tags'</td></tr><tr><td> 'UQFN NoLead'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DFN_QFN.3dshapes/UQFN-28-1EP_4x4mm_P0.4mm_EP2.35x2.35mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

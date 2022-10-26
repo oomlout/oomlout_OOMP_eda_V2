@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUMCHIPATTINYATTINY2313A > ATtiny2313A-MM
+# SZKMCUMCHIPATTINYATTINY2313A > MCU_Microchip_ATtiny : ATtiny2313A-MM
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny2313A-MM
 - Hex ID: SZKMCUMCHIPATTINYATTINY2313A
-- Name: ATtiny2313A-MM
-- Description: ATtiny2313A-MM
+- Name: MCU_Microchip_ATtiny : ATtiny2313A-MM
+- Description: MCU_Microchip_ATtiny : ATtiny2313A-MM
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny2313A-MM](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny2313A-MM)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATTINYATTINY2313A](http://oom.lt/SZKMCUMCHIPATTINYATTINY2313A)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ATtiny2313A-MM|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny2313A-MM|
 |Hex ID (short code)|hexID|SZKMCUMCHIPATTINYATTINY2313A|
-|name|name|ATtiny2313A-MM|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ATtiny2313A-MM', 'kicadSymbolFootprint': 'Package_DFN_QFN:VQFN-20-1EP_3x3mm_P0.45mm_EP1.55x1.55mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/doc8246.pdf', 'kicadSymbolki_keywords': 'AVR 8bit Microcontroller tinyAVR', 'kicadSymbolki_description': '20MHz, 2kB Flash, 128B SRAM, 128B EEPROM, QFN-20', 'kicadSymbolki_fp_filters': 'VQFN*1EP*3x3mm*P0.45mm*'}]|
+|name|name|MCU_Microchip_ATtiny : ATtiny2313A-MM|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ATtiny2313A-MM'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>VQFN-20-1EP_3x3mm_P0.45mm_EP1.55x1.55mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/doc8246.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'AVR 8bit Microcontroller tinyAVR'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '20MHz</td><td> 2kB Flash</td><td> 128B SRAM</td><td> 128B EEPROM</td><td> QFN-20'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'VQFN*1EP*3x3mm*P0.45mm*'</td></tr></table>]|
 ||||

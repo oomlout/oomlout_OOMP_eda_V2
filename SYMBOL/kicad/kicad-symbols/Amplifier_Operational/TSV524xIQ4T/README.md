@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKAMPLIFIEROPERATIONALTSV524XIQ4T > TSV524xIQ4T
+# SZKAMPLIFIEROPERATIONALTSV524XIQ4T > Amplifier_Operational : TSV524xIQ4T
 
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-TSV524xIQ4T
 - Hex ID: SZKAMPLIFIEROPERATIONALTSV524XIQ4T
-- Name: TSV524xIQ4T
-- Description: TSV524xIQ4T
+- Name: Amplifier_Operational : TSV524xIQ4T
+- Description: Amplifier_Operational : TSV524xIQ4T
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-TSV524xIQ4T](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-TSV524xIQ4T)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALTSV524XIQ4T](http://oom.lt/SZKAMPLIFIEROPERATIONALTSV524XIQ4T)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TSV524xIQ4T|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Operational-TSV524xIQ4T|
 |Hex ID (short code)|hexID|SZKAMPLIFIEROPERATIONALTSV524XIQ4T|
-|name|name|TSV524xIQ4T|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TSV524xIQ4T', 'kicadSymbolFootprint': 'Package_DFN_QFN:QFN-16-1EP_3x3mm_P0.5mm_EP1.7x1.7mm', 'kicadSymbolDatasheet': 'https://www.st.com/resource/en/datasheet/tsv521.pdf', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'quad opamp', 'kicadSymbolki_description': 'Quad CMOS Rail-to-Rail Input/Output Amplifier, 1.15MHz GBP, QFN-16', 'kicadSymbolki_fp_filters': 'QFN*3x3mm*P0.5mm*EP1.7x1.7mm*'}]|
+|name|name|Amplifier_Operational : TSV524xIQ4T|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TSV524xIQ4T'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>QFN-16-1EP_3x3mm_P0.5mm_EP1.7x1.7mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.st.com/resource/en/datasheet/tsv521.pdf'</td><td> 'kicadSymbolki_locked'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'quad opamp'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Quad CMOS Rail-to-Rail Input/Output Amplifier</td><td> 1.15MHz GBP</td><td> QFN-16'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'QFN*3x3mm*P0.5mm*EP1.7x1.7mm*'</td></tr></table>]|
 ||||

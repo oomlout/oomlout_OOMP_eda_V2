@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKSENCURRENTACS76XLC5C > ACS706xLC-05C
+# SZKSENCURRENTACS76XLC5C > Sensor_Current : ACS706xLC-05C
 
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS706xLC-05C
 - Hex ID: SZKSENCURRENTACS76XLC5C
-- Name: ACS706xLC-05C
-- Description: ACS706xLC-05C
+- Name: Sensor_Current : ACS706xLC-05C
+- Description: Sensor_Current : ACS706xLC-05C
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS706xLC-05C](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS706xLC-05C)
 - Short Link: [http://oom.lt/SZKSENCURRENTACS76XLC5C](http://oom.lt/SZKSENCURRENTACS76XLC5C)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ACS706xLC-05C|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS706xLC-05C|
 |Hex ID (short code)|hexID|SZKSENCURRENTACS76XLC5C|
-|name|name|ACS706xLC-05C|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ACS706xLC-05C', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm', 'kicadSymbolDatasheet': 'http://www.allegromicro.com/~/media/Files/Datasheets/ACS706ELC-05C-Datasheet.ashx', 'kicadSymbolki_keywords': 'hall effect current monitor sensor isolated obsolete', 'kicadSymbolki_description': '±15A Bidirectional Hall Effect Linear Current Sensor, +5.0V supply, 133mV/A, SOIC-8, OBSOLETE', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm*'}]|
+|name|name|Sensor_Current : ACS706xLC-05C|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ACS706xLC-05C'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-8_3.9x4.9mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.allegromicro.com/~/media/Files/Datasheets/ACS706ELC-05C-Datasheet.ashx'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'hall effect current monitor sensor isolated obsolete'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '±15A Bidirectional Hall Effect Linear Current Sensor</td><td> +5.0V supply</td><td> 133mV/A</td><td> SOIC-8</td><td> OBSOLETE'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*3.9x4.9mm*P1.27mm*'</td></tr></table>]|
 ||||

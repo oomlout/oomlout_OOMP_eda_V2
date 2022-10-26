@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKPOWERMANAGEMENTTSM13W > TSM103W
+# SZKPOWERMANAGEMENTTSM13W > Power_Management : TSM103W
 
 - ID: SYMBOL-kicad-kicad-symbols-Power_Management-TSM103W
 - Hex ID: SZKPOWERMANAGEMENTTSM13W
-- Name: TSM103W
-- Description: TSM103W
+- Name: Power_Management : TSM103W
+- Description: Power_Management : TSM103W
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-TSM103W](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-TSM103W)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTTSM13W](http://oom.lt/SZKPOWERMANAGEMENTTSM13W)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TSM103W|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Management-TSM103W|
 |Hex ID (short code)|hexID|SZKPOWERMANAGEMENTTSM13W|
-|name|name|TSM103W|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TSM103W', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm', 'kicadSymbolDatasheet': 'http://www.st.com/resource/en/datasheet/tsm103w.pdf', 'kicadSymbolki_keywords': 'dual opamp reference', 'kicadSymbolki_description': 'Dual Operational Amplifier and 2.5V 1% Voltage Reference, SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm*'}]|
+|name|name|Power_Management : TSM103W|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TSM103W'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-8_3.9x4.9mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.st.com/resource/en/datasheet/tsm103w.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'dual opamp reference'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Dual Operational Amplifier and 2.5V 1% Voltage Reference</td><td> SOIC-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*3.9x4.9mm*P1.27mm*'</td></tr></table>]|
 ||||

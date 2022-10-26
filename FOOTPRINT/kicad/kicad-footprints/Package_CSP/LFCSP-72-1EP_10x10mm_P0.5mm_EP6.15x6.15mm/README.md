@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_CSP-LFCSP-72-1EP_10x10mm_P0.5mm_EP6.15x6.15mm|
 |Hex ID (short code)|hexID|FZKCSPLFCSP721EP1X1P5EP615X615|
 |name|name|Package_CSP : LFCSP-72-1EP_10x10mm_P0.5mm_EP6.15x6.15mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'LFCSP-72-1EP_10x10mm_P0.5mm_EP6.15x6.15mm', 'description': '72-Lead Frame Chip Scale Package - 10x10x0.9 mm Body [LFCSP]; (see https://www.intersil.com/content/dam/Intersil/documents/l72_/l72.10x10c.pdf)', 'tags': 'LFCSP 0.5', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_CSP.3dshapes/LFCSP-72-1EP_10x10mm_P0.5mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'LFCSP-72-1EP_10x10mm_P0.5mm_EP6.15x6.15mm'</td><td> 'description'</td></tr><tr><td> '72-Lead Frame Chip Scale Package - 10x10x0.9 mm Body [LFCSP]; (see https</td></tr><tr><td>//www.intersil.com/content/dam/Intersil/documents/l72_/l72.10x10c.pdf)'</td><td> 'tags'</td></tr><tr><td> 'LFCSP 0.5'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_CSP.3dshapes/LFCSP-72-1EP_10x10mm_P0.5mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

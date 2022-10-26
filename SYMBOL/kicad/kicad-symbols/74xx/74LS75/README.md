@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZK74XX74LS75 > 74LS75
+# SZK74XX74LS75 > 74xx : 74LS75
 
 - ID: SYMBOL-kicad-kicad-symbols-74xx-74LS75
 - Hex ID: SZK74XX74LS75
-- Name: 74LS75
-- Description: 74LS75
+- Name: 74xx : 74LS75
+- Description: 74xx : 74LS75
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx-74LS75](http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx-74LS75)
 - Short Link: [http://oom.lt/SZK74XX74LS75](http://oom.lt/SZK74XX74LS75)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74LS75|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xx-74LS75|
 |Hex ID (short code)|hexID|SZK74XX74LS75|
-|name|name|74LS75|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74LS75', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/gpn/sn74LS75', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'TTL DFF Latch', 'kicadSymbolki_description': '4-bit Latch', 'kicadSymbolki_fp_filters': 'DIP?16*'}]|
+|name|name|74xx : 74LS75|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> '74LS75'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/gpn/sn74LS75'</td><td> 'kicadSymbolki_locked'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'TTL DFF Latch'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '4-bit Latch'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP?16*'</td></tr></table>]|
 ||||

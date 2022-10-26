@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKANALOGDACAD7225KN > AD7225KN
+# SZKANALOGDACAD7225KN > Analog_DAC : AD7225KN
 
 - ID: SYMBOL-kicad-kicad-symbols-Analog_DAC-AD7225KN
 - Hex ID: SZKANALOGDACAD7225KN
-- Name: AD7225KN
-- Description: AD7225KN
+- Name: Analog_DAC : AD7225KN
+- Description: Analog_DAC : AD7225KN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-AD7225KN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-AD7225KN)
 - Short Link: [http://oom.lt/SZKANALOGDACAD7225KN](http://oom.lt/SZKANALOGDACAD7225KN)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AD7225KN|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_DAC-AD7225KN|
 |Hex ID (short code)|hexID|SZKANALOGDACAD7225KN|
-|name|name|AD7225KN|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AD7225KN', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.analog.com/static/imported-files/data_sheets/AD7225.pdf', 'kicadSymbolki_keywords': '8bit DAC 4CH', 'kicadSymbolki_description': 'Quad 8bit DAC, Separate Reference Voltage, PDIP-24', 'kicadSymbolki_fp_filters': 'DIP* PDIP*'}]|
+|name|name|Analog_DAC : AD7225KN|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'AD7225KN'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/static/imported-files/data_sheets/AD7225.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> '8bit DAC 4CH'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Quad 8bit DAC</td><td> Separate Reference Voltage</td><td> PDIP-24'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP* PDIP*'</td></tr></table>]|
 ||||

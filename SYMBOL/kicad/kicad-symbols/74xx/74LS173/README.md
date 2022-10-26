@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZK74XX74LS173 > 74LS173
+# SZK74XX74LS173 > 74xx : 74LS173
 
 - ID: SYMBOL-kicad-kicad-symbols-74xx-74LS173
 - Hex ID: SZK74XX74LS173
-- Name: 74LS173
-- Description: 74LS173
+- Name: 74xx : 74LS173
+- Description: 74xx : 74LS173
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx-74LS173](http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx-74LS173)
 - Short Link: [http://oom.lt/SZK74XX74LS173](http://oom.lt/SZK74XX74LS173)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74LS173|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xx-74LS173|
 |Hex ID (short code)|hexID|SZK74XX74LS173|
-|name|name|74LS173|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74LS173', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/gpn/sn74LS173', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'TTL REG REG4 3State DFF', 'kicadSymbolki_description': '4-bit D-type Register, 3 state out', 'kicadSymbolki_fp_filters': 'DIP?16*'}]|
+|name|name|74xx : 74LS173|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> '74LS173'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/gpn/sn74LS173'</td><td> 'kicadSymbolki_locked'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'TTL REG REG4 3State DFF'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '4-bit D-type Register</td><td> 3 state out'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP?16*'</td></tr></table>]|
 ||||

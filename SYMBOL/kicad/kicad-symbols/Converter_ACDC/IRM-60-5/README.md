@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKCONIRM65 > IRM-60-5
+# SZKCONIRM65 > Converter_ACDC : IRM-60-5
 
 - ID: SYMBOL-kicad-kicad-symbols-Converter_ACDC-IRM-60-5
 - Hex ID: SZKCONIRM65
-- Name: IRM-60-5
-- Description: IRM-60-5
+- Name: Converter_ACDC : IRM-60-5
+- Description: Converter_ACDC : IRM-60-5
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_ACDC-IRM-60-5](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_ACDC-IRM-60-5)
 - Short Link: [http://oom.lt/SZKCONIRM65](http://oom.lt/SZKCONIRM65)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IRM-60-5|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Converter_ACDC-IRM-60-5|
 |Hex ID (short code)|hexID|SZKCONIRM65|
-|name|name|IRM-60-5|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'PS', 'kicadSymbolValue': 'IRM-60-5', 'kicadSymbolFootprint': 'Converter_ACDC:Converter_ACDC_MeanWell_IRM-60-xx_THT', 'kicadSymbolDatasheet': 'http://www.meanwellusa.com/productPdf.aspx?i=687', 'kicadSymbolki_keywords': 'Miniature Module-type Power Supply MeanWell', 'kicadSymbolki_description': '5V, 10A, 50W, Isolated, AC-DC, IRM60', 'kicadSymbolki_fp_filters': 'Converter*ACDC*MeanWell*IRM*60*THT*'}]|
+|name|name|Converter_ACDC : IRM-60-5|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'PS'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'IRM-60-5'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Converter_ACDC</td></tr><tr><td>Converter_ACDC_MeanWell_IRM-60-xx_THT'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.meanwellusa.com/productPdf.aspx?i=687'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Miniature Module-type Power Supply MeanWell'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '5V</td><td> 10A</td><td> 50W</td><td> Isolated</td><td> AC-DC</td><td> IRM60'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Converter*ACDC*MeanWell*IRM*60*THT*'</td></tr></table>]|
 ||||

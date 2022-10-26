@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-WQFN-16-1EP_4x4mm_P0.5mm_EP2.6x2.6mm|
 |Hex ID (short code)|hexID|FZKDFNWQFN161EP4X4P5EP26X26|
 |name|name|Package_DFN_QFN : WQFN-16-1EP_4x4mm_P0.5mm_EP2.6x2.6mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'WQFN-16-1EP_4x4mm_P0.5mm_EP2.6x2.6mm', 'description': 'WQFN, 16 Pin (http://www.ti.com/lit/ds/symlink/ldc1312.pdf#page=59), generated with kicad-footprint-generator ipc_noLead_generator.py', 'tags': 'WQFN NoLead', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/WQFN-16-1EP_4x4mm_P0.5mm_EP2.6x2.6mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'WQFN-16-1EP_4x4mm_P0.5mm_EP2.6x2.6mm'</td><td> 'description'</td></tr><tr><td> 'WQFN</td><td> 16 Pin (http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/ldc1312.pdf#page=59)</td><td> generated with kicad-footprint-generator ipc_noLead_generator.py'</td><td> 'tags'</td></tr><tr><td> 'WQFN NoLead'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DFN_QFN.3dshapes/WQFN-16-1EP_4x4mm_P0.5mm_EP2.6x2.6mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

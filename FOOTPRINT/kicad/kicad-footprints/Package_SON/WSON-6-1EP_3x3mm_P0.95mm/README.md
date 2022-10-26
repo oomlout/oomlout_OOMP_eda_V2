@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SON-WSON-6-1EP_3x3mm_P0.95mm|
 |Hex ID (short code)|hexID|FZKSONWSON61EP3X3P95|
 |name|name|Package_SON : WSON-6-1EP_3x3mm_P0.95mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'WSON-6-1EP_3x3mm_P0.95mm', 'description': 'WSON6 3*3 MM, 0.95 PITCH; http://www.ti.com/lit/ds/symlink/lmr62421.pdf', 'tags': 'WSON6 0.95', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SON.3dshapes/WSON-6-1EP_3x3mm_P0.95mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'WSON-6-1EP_3x3mm_P0.95mm'</td><td> 'description'</td></tr><tr><td> 'WSON6 3*3 MM</td><td> 0.95 PITCH; http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/lmr62421.pdf'</td><td> 'tags'</td></tr><tr><td> 'WSON6 0.95'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_SON.3dshapes/WSON-6-1EP_3x3mm_P0.95mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

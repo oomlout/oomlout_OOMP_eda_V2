@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_CSP-WLCSP-16_2.225x2.17mm_P0.5mm|
 |Hex ID (short code)|hexID|FZKCSPWLCSP162225X217P5|
 |name|name|Package_CSP : WLCSP-16_2.225x2.17mm_P0.5mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'WLCSP-16_2.225x2.17mm_P0.5mm', 'description': 'WLCSP-16 2.225x2.17mm, 2.17x2.225mm, 16 Ball, 4x4 Layout, 0.5mm Pitch, https://ww1.microchip.com/downloads/en/DeviceDoc/16B_WLCSP_CS_C04-06036c.pdf', 'tags': 'CSP 16 0.5', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_CSP.3dshapes/WLCSP-16_2.225x2.17mm_P0.5mm.wrl', 'pins': {'type': 'smd', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'WLCSP-16_2.225x2.17mm_P0.5mm'</td><td> 'description'</td></tr><tr><td> 'WLCSP-16 2.225x2.17mm</td><td> 2.17x2.225mm</td><td> 16 Ball</td><td> 4x4 Layout</td><td> 0.5mm Pitch</td><td> https</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/16B_WLCSP_CS_C04-06036c.pdf'</td><td> 'tags'</td></tr><tr><td> 'CSP 16 0.5'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_CSP.3dshapes/WLCSP-16_2.225x2.17mm_P0.5mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

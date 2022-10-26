@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Fuse-Fuseholder_Cylinder-5x20mm_Schurter_FPG4_Vertical_Closed|
 |Hex ID (short code)|hexID|FZKFUFUHOLDERCYLINDER5X2SCHURTERFPG4VERTICALCLOSED|
 |name|name|Fuse : Fuseholder_Cylinder-5x20mm_Schurter_FPG4_Vertical_Closed|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Fuseholder_Cylinder-5x20mm_Schurter_FPG4_Vertical_Closed', 'description': 'Shock-Safe Fuseholder, 5 x 20 mm, Slotted Cap/Fingergrip, vertical, IEC 60335-1; 250VAC/10A VDE; 500V/16A UL/CSA (https://us.schurter.com/bundles/snceschurter/epim/_ProdPool_/newDS/en/typ_FPG4.pdf)', 'tags': 'fuse holder vertical 5x20mm', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Fuse.3dshapes/Fuseholder_Cylinder-5x20mm_Schurter_FPG4_Vertical_Closed.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Fuseholder_Cylinder-5x20mm_Schurter_FPG4_Vertical_Closed'</td><td> 'description'</td></tr><tr><td> 'Shock-Safe Fuseholder</td><td> 5 x 20 mm</td><td> Slotted Cap/Fingergrip</td><td> vertical</td><td> IEC 60335-1; 250VAC/10A VDE; 500V/16A UL/CSA (https</td></tr><tr><td>//us.schurter.com/bundles/snceschurter/epim/_ProdPool_/newDS/en/typ_FPG4.pdf)'</td><td> 'tags'</td></tr><tr><td> 'fuse holder vertical 5x20mm'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Fuse.3dshapes/Fuseholder_Cylinder-5x20mm_Schurter_FPG4_Vertical_Closed.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

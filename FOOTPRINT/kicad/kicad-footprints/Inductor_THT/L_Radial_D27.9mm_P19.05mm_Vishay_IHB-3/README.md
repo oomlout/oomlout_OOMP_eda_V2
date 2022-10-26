@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Radial_D27.9mm_P19.05mm_Vishay_IHB-3|
 |Hex ID (short code)|hexID|FZKINLRD279P195VISHAYIHB3|
 |name|name|Inductor_THT : L_Radial_D27.9mm_P19.05mm_Vishay_IHB-3|
-|Footprint Kicad|footprintKicadDetails|{'name': 'L_Radial_D27.9mm_P19.05mm_Vishay_IHB-3', 'description': 'Inductor, Radial series, Radial, pin pitch=19.05mm, , diameter=27.9mm, Vishay, IHB-3, http://www.vishay.com/docs/34015/ihb.pdf', 'tags': 'Inductor Radial series Radial pin pitch 19.05mm  diameter 27.9mm Vishay IHB-3', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Radial_D27.9mm_P19.05mm_Vishay_IHB-3.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'L_Radial_D27.9mm_P19.05mm_Vishay_IHB-3'</td><td> 'description'</td></tr><tr><td> 'Inductor</td><td> Radial series</td><td> Radial</td><td> pin pitch=19.05mm</td><td> </td><td> diameter=27.9mm</td><td> Vishay</td><td> IHB-3</td><td> http</td></tr><tr><td>//www.vishay.com/docs/34015/ihb.pdf'</td><td> 'tags'</td></tr><tr><td> 'Inductor Radial series Radial pin pitch 19.05mm  diameter 27.9mm Vishay IHB-3'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Inductor_THT.3dshapes/L_Radial_D27.9mm_P19.05mm_Vishay_IHB-3.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

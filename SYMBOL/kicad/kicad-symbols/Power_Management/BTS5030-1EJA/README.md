@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKPOWERMANAGEMENTBTS531EJA > BTS5030-1EJA
+# SZKPOWERMANAGEMENTBTS531EJA > Power_Management : BTS5030-1EJA
 
 - ID: SYMBOL-kicad-kicad-symbols-Power_Management-BTS5030-1EJA
 - Hex ID: SZKPOWERMANAGEMENTBTS531EJA
-- Name: BTS5030-1EJA
-- Description: BTS5030-1EJA
+- Name: Power_Management : BTS5030-1EJA
+- Description: Power_Management : BTS5030-1EJA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-BTS5030-1EJA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-BTS5030-1EJA)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTBTS531EJA](http://oom.lt/SZKPOWERMANAGEMENTBTS531EJA)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BTS5030-1EJA|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Management-BTS5030-1EJA|
 |Hex ID (short code)|hexID|SZKPOWERMANAGEMENTBTS531EJA|
-|name|name|BTS5030-1EJA|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BTS40K2-1EJC', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'BTS5030-1EJA', 'kicadSymbolFootprint': 'Package_SO:Infineon_PG-DSO-8-43', 'kicadSymbolDatasheet': 'http://www.infineon.com/dgdl/Infineon-BTS5030-1EJA-DS-v02_20-EN.pdf?fileId=5546d46259d9a4bf015a84f3e686758a', 'kicadSymbolki_keywords': 'infineon power switch', 'kicadSymbolki_description': 'Smart High-Side Power Switch, PROFET, Single, 30mOhm, 5A, 28V, DSO-8', 'kicadSymbolki_fp_filters': 'Infineon*PG*DSO*43*'}]|
+|name|name|Power_Management : BTS5030-1EJA|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'BTS40K2-1EJC'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'BTS5030-1EJA'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>Infineon_PG-DSO-8-43'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.infineon.com/dgdl/Infineon-BTS5030-1EJA-DS-v02_20-EN.pdf?fileId=5546d46259d9a4bf015a84f3e686758a'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'infineon power switch'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Smart High-Side Power Switch</td><td> PROFET</td><td> Single</td><td> 30mOhm</td><td> 5A</td><td> 28V</td><td> DSO-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Infineon*PG*DSO*43*'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTIMERRTCPCF85363ATT > PCF85363ATT
+# SZKTIMERRTCPCF85363ATT > Timer_RTC : PCF85363ATT
 
 - ID: SYMBOL-kicad-kicad-symbols-Timer_RTC-PCF85363ATT
 - Hex ID: SZKTIMERRTCPCF85363ATT
-- Name: PCF85363ATT
-- Description: PCF85363ATT
+- Name: Timer_RTC : PCF85363ATT
+- Description: Timer_RTC : PCF85363ATT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer_RTC-PCF85363ATT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer_RTC-PCF85363ATT)
 - Short Link: [http://oom.lt/SZKTIMERRTCPCF85363ATT](http://oom.lt/SZKTIMERRTCPCF85363ATT)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PCF85363ATT|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Timer_RTC-PCF85363ATT|
 |Hex ID (short code)|hexID|SZKTIMERRTCPCF85363ATT|
-|name|name|PCF85363ATT|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'PCF85263ATT', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PCF85363ATT', 'kicadSymbolFootprint': 'Package_SO:TSSOP-8_3x3mm_P0.65mm', 'kicadSymbolDatasheet': 'https://www.nxp.com/docs/en/data-sheet/PCF85363A.pdf', 'kicadSymbolki_keywords': 'RTC RAM battery I2C', 'kicadSymbolki_description': 'Tiny Real-Time Clock/calendar with 64 byte RAM, alarm function, battery switch-over, time stamp input, I2C bus, TSSOP-8', 'kicadSymbolki_fp_filters': 'TSSOP*3x3mm*P0.65mm*'}]|
+|name|name|Timer_RTC : PCF85363ATT|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'PCF85263ATT'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'PCF85363ATT'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>TSSOP-8_3x3mm_P0.65mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.nxp.com/docs/en/data-sheet/PCF85363A.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'RTC RAM battery I2C'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Tiny Real-Time Clock/calendar with 64 byte RAM</td><td> alarm function</td><td> battery switch-over</td><td> time stamp input</td><td> I2C bus</td><td> TSSOP-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TSSOP*3x3mm*P0.65mm*'</td></tr></table>]|
 ||||

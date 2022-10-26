@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKPOWERSUPERVISORMAX691XPE > MAX691xPE
+# SZKPOWERSUPERVISORMAX691XPE > Power_Supervisor : MAX691xPE
 
 - ID: SYMBOL-kicad-kicad-symbols-Power_Supervisor-MAX691xPE
 - Hex ID: SZKPOWERSUPERVISORMAX691XPE
-- Name: MAX691xPE
-- Description: MAX691xPE
+- Name: Power_Supervisor : MAX691xPE
+- Description: Power_Supervisor : MAX691xPE
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Supervisor-MAX691xPE](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Supervisor-MAX691xPE)
 - Short Link: [http://oom.lt/SZKPOWERSUPERVISORMAX691XPE](http://oom.lt/SZKPOWERSUPERVISORMAX691XPE)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MAX691xPE|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Supervisor-MAX691xPE|
 |Hex ID (short code)|hexID|SZKPOWERSUPERVISORMAX691XPE|
-|name|name|MAX691xPE|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MAX691xPE', 'kicadSymbolFootprint': 'Package_DIP:DIP-16_W7.62mm', 'kicadSymbolDatasheet': 'https://datasheets.maximintegrated.com/en/ds/MAX690-MAX695.pdf', 'kicadSymbolki_keywords': 'Power Supervisor', 'kicadSymbolki_description': 'Microprocessor Supervisory Circuit, DIP-16', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
+|name|name|Power_Supervisor : MAX691xPE|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MAX691xPE'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>DIP-16_W7.62mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//datasheets.maximintegrated.com/en/ds/MAX690-MAX695.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Power Supervisor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Microprocessor Supervisory Circuit</td><td> DIP-16'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W7.62mm*'</td></tr></table>]|
 ||||

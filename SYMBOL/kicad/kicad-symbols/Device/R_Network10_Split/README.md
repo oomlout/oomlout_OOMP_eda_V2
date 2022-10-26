@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDEVICERNETWORK1SPLIT > R_Network10_Split
+# SZKDEVICERNETWORK1SPLIT > Device : R_Network10_Split
 
 - ID: SYMBOL-kicad-kicad-symbols-Device-R_Network10_Split
 - Hex ID: SZKDEVICERNETWORK1SPLIT
-- Name: R_Network10_Split
-- Description: R_Network10_Split
+- Name: Device : R_Network10_Split
+- Description: Device : R_Network10_Split
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-R_Network10_Split](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-R_Network10_Split)
 - Short Link: [http://oom.lt/SZKDEVICERNETWORK1SPLIT](http://oom.lt/SZKDEVICERNETWORK1SPLIT)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|R_Network10_Split|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-R_Network10_Split|
 |Hex ID (short code)|hexID|SZKDEVICERNETWORK1SPLIT|
-|name|name|R_Network10_Split|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'RN', 'kicadSymbolValue': 'R_Network10_Split', 'kicadSymbolFootprint': 'Resistor_THT:R_Array_SIP11', 'kicadSymbolDatasheet': 'http://www.vishay.com/docs/31509/csc.pdf', 'kicadSymbolki_keywords': 'R network star-topology', 'kicadSymbolki_description': '10 resistor network, star topology, bussed resistors, split', 'kicadSymbolki_fp_filters': 'R?Array?SIP*'}]|
+|name|name|Device : R_Network10_Split|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'RN'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'R_Network10_Split'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Resistor_THT</td></tr><tr><td>R_Array_SIP11'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.vishay.com/docs/31509/csc.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'R network star-topology'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '10 resistor network</td><td> star topology</td><td> bussed resistors</td><td> split'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'R?Array?SIP*'</td></tr></table>]|
 ||||

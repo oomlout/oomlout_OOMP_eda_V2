@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUMCHIPATTINYATTINY13AP > ATtiny13A-P
+# SZKMCUMCHIPATTINYATTINY13AP > MCU_Microchip_ATtiny : ATtiny13A-P
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny13A-P
 - Hex ID: SZKMCUMCHIPATTINYATTINY13AP
-- Name: ATtiny13A-P
-- Description: ATtiny13A-P
+- Name: MCU_Microchip_ATtiny : ATtiny13A-P
+- Description: MCU_Microchip_ATtiny : ATtiny13A-P
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny13A-P](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny13A-P)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATTINYATTINY13AP](http://oom.lt/SZKMCUMCHIPATTINYATTINY13AP)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ATtiny13A-P|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny13A-P|
 |Hex ID (short code)|hexID|SZKMCUMCHIPATTINYATTINY13AP|
-|name|name|ATtiny13A-P|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ATtiny13V-10P', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ATtiny13A-P', 'kicadSymbolFootprint': 'Package_DIP:DIP-8_W7.62mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/doc8126.pdf', 'kicadSymbolki_keywords': 'AVR 8bit Microcontroller tinyAVR', 'kicadSymbolki_description': '20MHz, 1kB Flash, 64B SRAM, 64B EEPROM, debugWIRE, DIP-8', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
+|name|name|MCU_Microchip_ATtiny : ATtiny13A-P|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'ATtiny13V-10P'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ATtiny13A-P'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>DIP-8_W7.62mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/doc8126.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'AVR 8bit Microcontroller tinyAVR'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '20MHz</td><td> 1kB Flash</td><td> 64B SRAM</td><td> 64B EEPROM</td><td> debugWIRE</td><td> DIP-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W7.62mm*'</td></tr></table>]|
 ||||

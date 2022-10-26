@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKGRAPHICSYMARROWXL > SYM_Arrow_XLarge
+# SZKGRAPHICSYMARROWXL > Graphic : SYM_Arrow_XLarge
 
 - ID: SYMBOL-kicad-kicad-symbols-Graphic-SYM_Arrow_XLarge
 - Hex ID: SZKGRAPHICSYMARROWXL
-- Name: SYM_Arrow_XLarge
-- Description: SYM_Arrow_XLarge
+- Name: Graphic : SYM_Arrow_XLarge
+- Description: Graphic : SYM_Arrow_XLarge
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Graphic-SYM_Arrow_XLarge](http://oom.lt/SYMBOL-kicad-kicad-symbols-Graphic-SYM_Arrow_XLarge)
 - Short Link: [http://oom.lt/SZKGRAPHICSYMARROWXL](http://oom.lt/SZKGRAPHICSYMARROWXL)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SYM_Arrow_XLarge|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Graphic-SYM_Arrow_XLarge|
 |Hex ID (short code)|hexID|SZKGRAPHICSYMARROWXL|
-|name|name|SYM_Arrow_XLarge|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': '#SYM', 'kicadSymbolValue': 'SYM_Arrow_XLarge', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'symbol arrow', 'kicadSymbolki_description': 'Filled arrow, 400mil'}]|
+|name|name|Graphic : SYM_Arrow_XLarge|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> '#SYM'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'SYM_Arrow_XLarge'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'symbol arrow'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Filled arrow</td><td> 400mil'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKAMPLIFIEROPERATIONALLMH6551 > LMH6551MM
+# SZKAMPLIFIEROPERATIONALLMH6551 > Amplifier_Operational : LMH6551MM
 
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LMH6551MM
 - Hex ID: SZKAMPLIFIEROPERATIONALLMH6551
-- Name: LMH6551MM
-- Description: LMH6551MM
+- Name: Amplifier_Operational : LMH6551MM
+- Description: Amplifier_Operational : LMH6551MM
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LMH6551MM](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LMH6551MM)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALLMH6551](http://oom.lt/SZKAMPLIFIEROPERATIONALLMH6551)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LMH6551MM|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LMH6551MM|
 |Hex ID (short code)|hexID|SZKAMPLIFIEROPERATIONALLMH6551|
-|name|name|LMH6551MM|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LMH6551MM', 'kicadSymbolFootprint': 'Package_SO:VSSOP-8_3.0x3.0mm_P0.65mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lmh6551.pdf', 'kicadSymbolki_keywords': 'differential opamp operational amplifier', 'kicadSymbolki_description': 'Differential, High-Speed, Op Amp, VSSOP-8', 'kicadSymbolki_fp_filters': 'VSSOP*3.0x3.0mm*P0.65mm*'}]|
+|name|name|Amplifier_Operational : LMH6551MM|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LMH6551MM'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>VSSOP-8_3.0x3.0mm_P0.65mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/lmh6551.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'differential opamp operational amplifier'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Differential</td><td> High-Speed</td><td> Op Amp</td><td> VSSOP-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'VSSOP*3.0x3.0mm*P0.65mm*'</td></tr></table>]|
 ||||

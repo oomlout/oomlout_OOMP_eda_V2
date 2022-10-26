@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUMCHIP851AT89C25124S > AT89C2051-24S
+# SZKMCUMCHIP851AT89C25124S > MCU_Microchip_8051 : AT89C2051-24S
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_8051-AT89C2051-24S
 - Hex ID: SZKMCUMCHIP851AT89C25124S
-- Name: AT89C2051-24S
-- Description: AT89C2051-24S
+- Name: MCU_Microchip_8051 : AT89C2051-24S
+- Description: MCU_Microchip_8051 : AT89C2051-24S
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_8051-AT89C2051-24S](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_8051-AT89C2051-24S)
 - Short Link: [http://oom.lt/SZKMCUMCHIP851AT89C25124S](http://oom.lt/SZKMCUMCHIP851AT89C25124S)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AT89C2051-24S|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_8051-AT89C2051-24S|
 |Hex ID (short code)|hexID|SZKMCUMCHIP851AT89C25124S|
-|name|name|AT89C2051-24S|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'AT89C2051-12S', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AT89C2051-24S', 'kicadSymbolFootprint': 'Package_SO:SOIC-20W_7.5x12.8mm_P1.27mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/doc0368.pdf', 'kicadSymbolki_keywords': 'MCS-51 8bit Flash Microcontroller', 'kicadSymbolki_description': '24MHz, 2kB Flash, 128B SRAM, SOIC-20', 'kicadSymbolki_fp_filters': 'SOIC*7.5x12.8mm*P1.27mm*'}]|
+|name|name|MCU_Microchip_8051 : AT89C2051-24S|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'AT89C2051-12S'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'AT89C2051-24S'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-20W_7.5x12.8mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/doc0368.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'MCS-51 8bit Flash Microcontroller'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '24MHz</td><td> 2kB Flash</td><td> 128B SRAM</td><td> SOIC-20'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*7.5x12.8mm*P1.27mm*'</td></tr></table>]|
 ||||

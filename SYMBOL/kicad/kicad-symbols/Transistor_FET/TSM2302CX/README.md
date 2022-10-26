@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORFETTSM232CX > TSM2302CX
+# SZKTRANSISTORFETTSM232CX > Transistor_FET : TSM2302CX
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-TSM2302CX
 - Hex ID: SZKTRANSISTORFETTSM232CX
-- Name: TSM2302CX
-- Description: TSM2302CX
+- Name: Transistor_FET : TSM2302CX
+- Description: Transistor_FET : TSM2302CX
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-TSM2302CX](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-TSM2302CX)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETTSM232CX](http://oom.lt/SZKTRANSISTORFETTSM232CX)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TSM2302CX|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-TSM2302CX|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETTSM232CX|
-|name|name|TSM2302CX|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BSS138', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'TSM2302CX', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23', 'kicadSymbolDatasheet': 'https://www.taiwansemi.com/products/datasheet/TSM2302CX_E1608.pdf', 'kicadSymbolki_keywords': 'N-Channel MOSFET', 'kicadSymbolki_description': '3.9A Id, 20V Vds, N-Channel MOSFET, SOT-23', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
+|name|name|Transistor_FET : TSM2302CX|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'BSS138'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TSM2302CX'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-23'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.taiwansemi.com/products/datasheet/TSM2302CX_E1608.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'N-Channel MOSFET'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '3.9A Id</td><td> 20V Vds</td><td> N-Channel MOSFET</td><td> SOT-23'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23*'</td></tr></table>]|
 ||||

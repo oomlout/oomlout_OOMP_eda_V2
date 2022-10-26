@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDIODE1N43 > 1N4003
+# SZKDIODE1N43 > Diode : 1N4003
 
 - ID: SYMBOL-kicad-kicad-symbols-Diode-1N4003
 - Hex ID: SZKDIODE1N43
-- Name: 1N4003
-- Description: 1N4003
+- Name: Diode : 1N4003
+- Description: Diode : 1N4003
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-1N4003](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-1N4003)
 - Short Link: [http://oom.lt/SZKDIODE1N43](http://oom.lt/SZKDIODE1N43)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|1N4003|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-1N4003|
 |Hex ID (short code)|hexID|SZKDIODE1N43|
-|name|name|1N4003|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '1N4001', 'kicadSymbolReference': 'D', 'kicadSymbolValue': '1N4003', 'kicadSymbolFootprint': 'Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal', 'kicadSymbolDatasheet': 'http://www.vishay.com/docs/88503/1n4001.pdf', 'kicadSymbolki_keywords': 'diode', 'kicadSymbolki_description': '200V 1A General Purpose Rectifier Diode, DO-41', 'kicadSymbolki_fp_filters': 'D*DO?41*'}]|
+|name|name|Diode : 1N4003|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> '1N4001'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> '1N4003'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Diode_THT</td></tr><tr><td>D_DO-41_SOD81_P10.16mm_Horizontal'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.vishay.com/docs/88503/1n4001.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'diode'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '200V 1A General Purpose Rectifier Diode</td><td> DO-41'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'D*DO?41*'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREFERENCECURRENTPSSI221SAY > PSSI2021SAY
+# SZKREFERENCECURRENTPSSI221SAY > Reference_Current : PSSI2021SAY
 
 - ID: SYMBOL-kicad-kicad-symbols-Reference_Current-PSSI2021SAY
 - Hex ID: SZKREFERENCECURRENTPSSI221SAY
-- Name: PSSI2021SAY
-- Description: PSSI2021SAY
+- Name: Reference_Current : PSSI2021SAY
+- Description: Reference_Current : PSSI2021SAY
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Current-PSSI2021SAY](http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Current-PSSI2021SAY)
 - Short Link: [http://oom.lt/SZKREFERENCECURRENTPSSI221SAY](http://oom.lt/SZKREFERENCECURRENTPSSI221SAY)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PSSI2021SAY|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Reference_Current-PSSI2021SAY|
 |Hex ID (short code)|hexID|SZKREFERENCECURRENTPSSI221SAY|
-|name|name|PSSI2021SAY|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PSSI2021SAY', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-353_SC-70-5', 'kicadSymbolDatasheet': 'https://assets.nexperia.com/documents/data-sheet/PSSI2021SAY.pdf', 'kicadSymbolki_keywords': 'iref adjustable', 'kicadSymbolki_description': 'Constant current source, Io 15µA to 50mA, SOT-353', 'kicadSymbolki_fp_filters': 'SOT?353*'}]|
+|name|name|Reference_Current : PSSI2021SAY|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'PSSI2021SAY'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-353_SC-70-5'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//assets.nexperia.com/documents/data-sheet/PSSI2021SAY.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'iref adjustable'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Constant current source</td><td> Io 15µA to 50mA</td><td> SOT-353'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?353*'</td></tr></table>]|
 ||||

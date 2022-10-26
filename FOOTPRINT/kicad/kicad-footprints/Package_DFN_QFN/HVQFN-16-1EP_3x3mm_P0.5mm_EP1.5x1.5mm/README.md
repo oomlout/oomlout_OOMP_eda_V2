@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-HVQFN-16-1EP_3x3mm_P0.5mm_EP1.5x1.5mm|
 |Hex ID (short code)|hexID|FZKDFNHVQFN161EP3X3P5EP15X15|
 |name|name|Package_DFN_QFN : HVQFN-16-1EP_3x3mm_P0.5mm_EP1.5x1.5mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'HVQFN-16-1EP_3x3mm_P0.5mm_EP1.5x1.5mm', 'description': 'HVQFN, 16 Pin (https://www.nxp.com/docs/en/package-information/SOT758-1.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py', 'tags': 'HVQFN NoLead', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/HVQFN-16-1EP_3x3mm_P0.5mm_EP1.5x1.5mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'HVQFN-16-1EP_3x3mm_P0.5mm_EP1.5x1.5mm'</td><td> 'description'</td></tr><tr><td> 'HVQFN</td><td> 16 Pin (https</td></tr><tr><td>//www.nxp.com/docs/en/package-information/SOT758-1.pdf)</td><td> generated with kicad-footprint-generator ipc_noLead_generator.py'</td><td> 'tags'</td></tr><tr><td> 'HVQFN NoLead'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DFN_QFN.3dshapes/HVQFN-16-1EP_3x3mm_P0.5mm_EP1.5x1.5mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORARRAYMC1413P > MC1413P
+# SZKTRANSISTORARRAYMC1413P > Transistor_Array : MC1413P
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_Array-MC1413P
 - Hex ID: SZKTRANSISTORARRAYMC1413P
-- Name: MC1413P
-- Description: MC1413P
+- Name: Transistor_Array : MC1413P
+- Description: Transistor_Array : MC1413P
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_Array-MC1413P](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_Array-MC1413P)
 - Short Link: [http://oom.lt/SZKTRANSISTORARRAYMC1413P](http://oom.lt/SZKTRANSISTORARRAYMC1413P)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MC1413P|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_Array-MC1413P|
 |Hex ID (short code)|hexID|SZKTRANSISTORARRAYMC1413P|
-|name|name|MC1413P|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MC1413D', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MC1413P', 'kicadSymbolFootprint': 'Package_DIP:DIP-16_W7.62mm', 'kicadSymbolDatasheet': 'http://www.onsemi.com/pub_link/Collateral/MC1413-D.PDF', 'kicadSymbolki_keywords': 'darlington transistor array', 'kicadSymbolki_description': 'High Voltage, High Current Darlington Transistor Arrays, PDIP-16', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
+|name|name|Transistor_Array : MC1413P|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'MC1413D'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MC1413P'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>DIP-16_W7.62mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.onsemi.com/pub_link/Collateral/MC1413-D.PDF'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'darlington transistor array'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'High Voltage</td><td> High Current Darlington Transistor Arrays</td><td> PDIP-16'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W7.62mm*'</td></tr></table>]|
 ||||

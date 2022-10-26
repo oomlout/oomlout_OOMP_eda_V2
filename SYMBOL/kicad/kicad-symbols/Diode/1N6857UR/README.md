@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDIODE1N6857UR > 1N6857UR
+# SZKDIODE1N6857UR > Diode : 1N6857UR
 
 - ID: SYMBOL-kicad-kicad-symbols-Diode-1N6857UR
 - Hex ID: SZKDIODE1N6857UR
-- Name: 1N6857UR
-- Description: 1N6857UR
+- Name: Diode : 1N6857UR
+- Description: Diode : 1N6857UR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-1N6857UR](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-1N6857UR)
 - Short Link: [http://oom.lt/SZKDIODE1N6857UR](http://oom.lt/SZKDIODE1N6857UR)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|1N6857UR|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-1N6857UR|
 |Hex ID (short code)|hexID|SZKDIODE1N6857UR|
-|name|name|1N6857UR|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '1N5711UR', 'kicadSymbolReference': 'D', 'kicadSymbolValue': '1N6857UR', 'kicadSymbolFootprint': 'Diode_SMD:D_MELF', 'kicadSymbolDatasheet': 'https://www.microsemi.com/document-portal/doc_download/131890-lds-0040-1-datasheet', 'kicadSymbolki_keywords': 'diode Schottky', 'kicadSymbolki_description': '20V 150mA Schottky diode, MELF(DO-213AA)', 'kicadSymbolki_fp_filters': 'D?MELF*'}]|
+|name|name|Diode : 1N6857UR|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> '1N5711UR'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> '1N6857UR'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Diode_SMD</td></tr><tr><td>D_MELF'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.microsemi.com/document-portal/doc_download/131890-lds-0040-1-datasheet'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'diode Schottky'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '20V 150mA Schottky diode</td><td> MELF(DO-213AA)'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'D?MELF*'</td></tr></table>]|
 ||||

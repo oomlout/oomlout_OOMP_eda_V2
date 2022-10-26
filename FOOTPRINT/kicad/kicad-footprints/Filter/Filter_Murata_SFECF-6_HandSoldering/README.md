@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Filter-Filter_Murata_SFECF-6_HandSoldering|
 |Hex ID (short code)|hexID|FZKFILFILMSFECF6HANDSOLDERING|
 |name|name|Filter : Filter_Murata_SFECF-6_HandSoldering|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Filter_Murata_SFECF-6_HandSoldering', 'description': 'SMD Type 10.7MHz Ceramic Filter https://www.murata.com/en-us/products/filter/cerafil/sfecf', 'tags': '10.7MHz smd ceramic', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Filter.3dshapes/Filter_Murata_SFECF-6.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Filter_Murata_SFECF-6_HandSoldering'</td><td> 'description'</td></tr><tr><td> 'SMD Type 10.7MHz Ceramic Filter https</td></tr><tr><td>//www.murata.com/en-us/products/filter/cerafil/sfecf'</td><td> 'tags'</td></tr><tr><td> '10.7MHz smd ceramic'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Filter.3dshapes/Filter_Murata_SFECF-6.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

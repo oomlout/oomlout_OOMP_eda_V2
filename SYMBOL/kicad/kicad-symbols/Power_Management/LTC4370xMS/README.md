@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKPOWERMANAGEMENTLTC437XMS > LTC4370xMS
+# SZKPOWERMANAGEMENTLTC437XMS > Power_Management : LTC4370xMS
 
 - ID: SYMBOL-kicad-kicad-symbols-Power_Management-LTC4370xMS
 - Hex ID: SZKPOWERMANAGEMENTLTC437XMS
-- Name: LTC4370xMS
-- Description: LTC4370xMS
+- Name: Power_Management : LTC4370xMS
+- Description: Power_Management : LTC4370xMS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-LTC4370xMS](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-LTC4370xMS)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTLTC437XMS](http://oom.lt/SZKPOWERMANAGEMENTLTC437XMS)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LTC4370xMS|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Management-LTC4370xMS|
 |Hex ID (short code)|hexID|SZKPOWERMANAGEMENTLTC437XMS|
-|name|name|LTC4370xMS|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LTC4370xMS', 'kicadSymbolFootprint': 'Package_SO:MSOP-16_3x4mm_P0.5mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/4370f.pdf', 'kicadSymbolki_keywords': 'ideal-diode or-ing current sharing load balancing', 'kicadSymbolki_description': 'OR Controller Current Sharing Controller N-Channel 2:1, MSOP-16', 'kicadSymbolki_fp_filters': 'MSOP*3x4mm*P0.5mm*'}]|
+|name|name|Power_Management : LTC4370xMS|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LTC4370xMS'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>MSOP-16_3x4mm_P0.5mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/4370f.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'ideal-diode or-ing current sharing load balancing'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'OR Controller Current Sharing Controller N-Channel 2</td></tr><tr><td>1</td><td> MSOP-16'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'MSOP*3x4mm*P0.5mm*'</td></tr></table>]|
 ||||

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Cypress_QFN-56-1EP_8x8mm_P0.5mm_EP6.22x6.22mm_ThermalVias|
 |Hex ID (short code)|hexID|FZKDFNCYPRESSQFN561EP8X8P5EP622X622THERMALVIAS|
 |name|name|Package_DFN_QFN : Cypress_QFN-56-1EP_8x8mm_P0.5mm_EP6.22x6.22mm_ThermalVias|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Cypress_QFN-56-1EP_8x8mm_P0.5mm_EP6.22x6.22mm_ThermalVias', 'description': '56-Lead Plastic Quad Flat, No Lead Package (ML) - 8x8x0.9 mm Body [QFN] (see datasheet at http://www.cypress.com/file/138911/download and app note at http://www.cypress.com/file/140006/download)', 'tags': 'QFN 0.5', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/QFN-56-1EP_8x8mm_P0.5mm_EP6.22x6.22mm_ThermalVias.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Cypress_QFN-56-1EP_8x8mm_P0.5mm_EP6.22x6.22mm_ThermalVias'</td><td> 'description'</td></tr><tr><td> '56-Lead Plastic Quad Flat</td><td> No Lead Package (ML) - 8x8x0.9 mm Body [QFN] (see datasheet at http</td></tr><tr><td>//www.cypress.com/file/138911/download and app note at http</td></tr><tr><td>//www.cypress.com/file/140006/download)'</td><td> 'tags'</td></tr><tr><td> 'QFN 0.5'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DFN_QFN.3dshapes/QFN-56-1EP_8x8mm_P0.5mm_EP6.22x6.22mm_ThermalVias.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

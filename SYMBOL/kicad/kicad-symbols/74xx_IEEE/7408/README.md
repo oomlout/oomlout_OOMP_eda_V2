@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZK74XXIEEE748 > 7408
+# SZK74XXIEEE748 > 74xx_IEEE : 7408
 
 - ID: SYMBOL-kicad-kicad-symbols-74xx_IEEE-7408
 - Hex ID: SZK74XXIEEE748
-- Name: 7408
-- Description: 7408
+- Name: 74xx_IEEE : 7408
+- Description: 74xx_IEEE : 7408
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx_IEEE-7408](http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx_IEEE-7408)
 - Short Link: [http://oom.lt/SZK74XXIEEE748](http://oom.lt/SZK74XXIEEE748)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|7408|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xx_IEEE-7408|
 |Hex ID (short code)|hexID|SZK74XXIEEE748|
-|name|name|7408|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '7408', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ''}]|
+|name|name|74xx_IEEE : 7408|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> '7408'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> ''</td></tr></table>]|
 ||||

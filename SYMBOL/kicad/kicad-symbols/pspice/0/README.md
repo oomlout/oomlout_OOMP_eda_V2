@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKPSPICE > 0
+# SZKPSPICE > pspice : 0
 
 - ID: SYMBOL-kicad-kicad-symbols-pspice-0
 - Hex ID: SZKPSPICE
-- Name: 0
-- Description: 0
+- Name: pspice : 0
+- Description: pspice : 0
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-pspice-0](http://oom.lt/SYMBOL-kicad-kicad-symbols-pspice-0)
 - Short Link: [http://oom.lt/SZKPSPICE](http://oom.lt/SZKPSPICE)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|0|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-pspice-0|
 |Hex ID (short code)|hexID|SZKPSPICE|
-|name|name|0|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': '#GND', 'kicadSymbolValue': '0', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'simulation', 'kicadSymbolki_description': '0V reference potential for simulation'}]|
+|name|name|pspice : 0|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> '#GND'</td><td> 'kicadSymbolValue'</td></tr><tr><td> '0'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'simulation'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '0V reference potential for simulation'</td></tr></table>]|
 ||||

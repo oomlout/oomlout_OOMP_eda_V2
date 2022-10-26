@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZK4XXX466 > 4066
+# SZK4XXX466 > 4xxx : 4066
 
 - ID: SYMBOL-kicad-kicad-symbols-4xxx-4066
 - Hex ID: SZK4XXX466
-- Name: 4066
-- Description: 4066
+- Name: 4xxx : 4066
+- Description: 4xxx : 4066
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx-4066](http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx-4066)
 - Short Link: [http://oom.lt/SZK4XXX466](http://oom.lt/SZK4XXX466)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|4066|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-4xxx-4066|
 |Hex ID (short code)|hexID|SZK4XXX466|
-|name|name|4066|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '4016', 'kicadSymbolReference': 'U', 'kicadSymbolValue': '4066', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/cd4066b.pdf', 'kicadSymbolki_keywords': 'CMOS SWITCH', 'kicadSymbolki_description': 'Quad Analog Switches', 'kicadSymbolki_fp_filters': 'DIP?14*'}]|
+|name|name|4xxx : 4066|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> '4016'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> '4066'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/cd4066b.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'CMOS SWITCH'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Quad Analog Switches'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP?14*'</td></tr></table>]|
 ||||

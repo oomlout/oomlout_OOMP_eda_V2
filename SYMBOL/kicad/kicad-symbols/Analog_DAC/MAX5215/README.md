@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKANALOGDACMAX5215 > MAX5215
+# SZKANALOGDACMAX5215 > Analog_DAC : MAX5215
 
 - ID: SYMBOL-kicad-kicad-symbols-Analog_DAC-MAX5215
 - Hex ID: SZKANALOGDACMAX5215
-- Name: MAX5215
-- Description: MAX5215
+- Name: Analog_DAC : MAX5215
+- Description: Analog_DAC : MAX5215
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-MAX5215](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-MAX5215)
 - Short Link: [http://oom.lt/SZKANALOGDACMAX5215](http://oom.lt/SZKANALOGDACMAX5215)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MAX5215|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_DAC-MAX5215|
 |Hex ID (short code)|hexID|SZKANALOGDACMAX5215|
-|name|name|MAX5215|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MAX5215', 'kicadSymbolFootprint': 'Package_SO:MSOP-8_3x3mm_P0.65mm', 'kicadSymbolDatasheet': 'https://datasheets.maximintegrated.com/en/ds/MAX5215-MAX5217.pdf', 'kicadSymbolki_keywords': 'DA 14 Bit 1 ch', 'kicadSymbolki_description': 'Digital to analog, 14 Bit, 1 ch, 2.7 - 5.5 VDD, I2C, uMAX-8', 'kicadSymbolki_fp_filters': 'MSOP*3x3mm*P0.65mm*'}]|
+|name|name|Analog_DAC : MAX5215|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MAX5215'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>MSOP-8_3x3mm_P0.65mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//datasheets.maximintegrated.com/en/ds/MAX5215-MAX5217.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'DA 14 Bit 1 ch'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Digital to analog</td><td> 14 Bit</td><td> 1 ch</td><td> 2.7 - 5.5 VDD</td><td> I2C</td><td> uMAX-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'MSOP*3x3mm*P0.65mm*'</td></tr></table>]|
 ||||

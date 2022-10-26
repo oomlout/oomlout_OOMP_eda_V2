@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_5032-2Pin_5.0x3.2mm|
 |Hex ID (short code)|hexID|FZKXXSM5322PIN5X32|
 |name|name|Crystal : Crystal_SMD_5032-2Pin_5.0x3.2mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Crystal_SMD_5032-2Pin_5.0x3.2mm', 'description': 'SMD Crystal SERIES SMD2520/2 http://www.icbase.com/File/PDF/HKC/HKC00061008.pdf, 5.0x3.2mm^2 package', 'tags': 'SMD SMT crystal', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Crystal_SMD_5032-2Pin_5.0x3.2mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Crystal_SMD_5032-2Pin_5.0x3.2mm'</td><td> 'description'</td></tr><tr><td> 'SMD Crystal SERIES SMD2520/2 http</td></tr><tr><td>//www.icbase.com/File/PDF/HKC/HKC00061008.pdf</td><td> 5.0x3.2mm^2 package'</td><td> 'tags'</td></tr><tr><td> 'SMD SMT crystal'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Crystal.3dshapes/Crystal_SMD_5032-2Pin_5.0x3.2mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

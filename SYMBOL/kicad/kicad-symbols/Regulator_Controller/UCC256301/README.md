@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORCONTROLLERUCC25631 > UCC256301
+# SZKREGULATORCONTROLLERUCC25631 > Regulator_Controller : UCC256301
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Controller-UCC256301
 - Hex ID: SZKREGULATORCONTROLLERUCC25631
-- Name: UCC256301
-- Description: UCC256301
+- Name: Regulator_Controller : UCC256301
+- Description: Regulator_Controller : UCC256301
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-UCC256301](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Controller-UCC256301)
 - Short Link: [http://oom.lt/SZKREGULATORCONTROLLERUCC25631](http://oom.lt/SZKREGULATORCONTROLLERUCC25631)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|UCC256301|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Controller-UCC256301|
 |Hex ID (short code)|hexID|SZKREGULATORCONTROLLERUCC25631|
-|name|name|UCC256301|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'UCC256301', 'kicadSymbolFootprint': 'Package_SO:SOIC-14-16_3.9x9.9mm_P1.27mm', 'kicadSymbolDatasheet': 'https://www.ti.com/lit/ds/symlink/ucc256301.pdf', 'kicadSymbolki_keywords': 'SMPS PWM Controller', 'kicadSymbolki_description': 'Hybrid Hysteretic LLC Resonant Controller, SOIC-16', 'kicadSymbolki_fp_filters': 'SOIC*3.9x9.9mm*P1.27mm*'}]|
+|name|name|Regulator_Controller : UCC256301|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'UCC256301'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-14-16_3.9x9.9mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.ti.com/lit/ds/symlink/ucc256301.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'SMPS PWM Controller'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Hybrid Hysteretic LLC Resonant Controller</td><td> SOIC-16'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*3.9x9.9mm*P1.27mm*'</td></tr></table>]|
 ||||

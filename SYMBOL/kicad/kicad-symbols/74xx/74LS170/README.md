@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZK74XX74LS17 > 74LS170
+# SZK74XX74LS17 > 74xx : 74LS170
 
 - ID: SYMBOL-kicad-kicad-symbols-74xx-74LS170
 - Hex ID: SZK74XX74LS17
-- Name: 74LS170
-- Description: 74LS170
+- Name: 74xx : 74LS170
+- Description: 74xx : 74LS170
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx-74LS170](http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx-74LS170)
 - Short Link: [http://oom.lt/SZK74XX74LS17](http://oom.lt/SZK74XX74LS17)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74LS170|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xx-74LS170|
 |Hex ID (short code)|hexID|SZK74XX74LS17|
-|name|name|74LS170|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74LS170', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/gpn/sn74LS170', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'TTL Register OpenCol', 'kicadSymbolki_description': '4 x 4 Register Files Open Collector', 'kicadSymbolki_fp_filters': 'DIP?16*'}]|
+|name|name|74xx : 74LS170|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> '74LS170'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/gpn/sn74LS170'</td><td> 'kicadSymbolki_locked'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'TTL Register OpenCol'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '4 x 4 Register Files Open Collector'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP?16*'</td></tr></table>]|
 ||||

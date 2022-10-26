@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRCST21 > CST2010
+# SZKTRCST21 > Transformer : CST2010
 
 - ID: SYMBOL-kicad-kicad-symbols-Transformer-CST2010
 - Hex ID: SZKTRCST21
-- Name: CST2010
-- Description: CST2010
+- Name: Transformer : CST2010
+- Description: Transformer : CST2010
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-CST2010](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-CST2010)
 - Short Link: [http://oom.lt/SZKTRCST21](http://oom.lt/SZKTRCST21)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|CST2010|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transformer-CST2010|
 |Hex ID (short code)|hexID|SZKTRCST21|
-|name|name|CST2010|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'T', 'kicadSymbolValue': 'CST2010', 'kicadSymbolFootprint': 'Transformer_SMD:Transformer_Coilcraft_CST2010', 'kicadSymbolDatasheet': 'https://www.coilcraft.com/pdfs/cst2010.pdf', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'current sense transformer', 'kicadSymbolki_description': 'Coilcraft Current Sense Transformer, SMD, 40A, 1:20 to 1:200', 'kicadSymbolki_fp_filters': 'Transformer*Coilcraft*CST2010*'}]|
+|name|name|Transformer : CST2010|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'T'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'CST2010'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Transformer_SMD</td></tr><tr><td>Transformer_Coilcraft_CST2010'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.coilcraft.com/pdfs/cst2010.pdf'</td><td> 'kicadSymbolki_locked'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'current sense transformer'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Coilcraft Current Sense Transformer</td><td> SMD</td><td> 40A</td><td> 1</td></tr><tr><td>20 to 1</td></tr><tr><td>200'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Transformer*Coilcraft*CST2010*'</td></tr></table>]|
 ||||

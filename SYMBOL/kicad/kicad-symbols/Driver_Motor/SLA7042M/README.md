@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDRIVERMOTORSLA742M > SLA7042M
+# SZKDRIVERMOTORSLA742M > Driver_Motor : SLA7042M
 
 - ID: SYMBOL-kicad-kicad-symbols-Driver_Motor-SLA7042M
 - Hex ID: SZKDRIVERMOTORSLA742M
-- Name: SLA7042M
-- Description: SLA7042M
+- Name: Driver_Motor : SLA7042M
+- Description: Driver_Motor : SLA7042M
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Motor-SLA7042M](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Motor-SLA7042M)
 - Short Link: [http://oom.lt/SZKDRIVERMOTORSLA742M](http://oom.lt/SZKDRIVERMOTORSLA742M)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SLA7042M|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Driver_Motor-SLA7042M|
 |Hex ID (short code)|hexID|SZKDRIVERMOTORSLA742M|
-|name|name|SLA7042M|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'SLA7044M', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'SLA7042M', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'www.sumzi.com/upload/files/2007/07/2007073114282034189.PDF', 'kicadSymbolki_keywords': 'Stepper driver', 'kicadSymbolki_description': 'Unipolar PWM high-current motor driver', 'kicadSymbolki_fp_filters': 'SLA704XM'}]|
+|name|name|Driver_Motor : SLA7042M|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'SLA7044M'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'SLA7042M'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'www.sumzi.com/upload/files/2007/07/2007073114282034189.PDF'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Stepper driver'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Unipolar PWM high-current motor driver'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SLA704XM'</td></tr></table>]|
 ||||

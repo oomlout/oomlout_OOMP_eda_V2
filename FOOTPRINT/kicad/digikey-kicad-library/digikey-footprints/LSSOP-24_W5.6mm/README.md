@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-LSSOP-24_W5.6mm|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSLSS24W56|
 |name|name|digikey-footprints : LSSOP-24_W5.6mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'LSSOP-24_W5.6mm', 'description': 'file:///C:/Users/alex_wegscheid/Downloads/TB6612FNG_datasheet_en_20141001%20(7).pdf', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'LSSOP-24_W5.6mm'</td><td> 'description'</td></tr><tr><td> 'file</td></tr><tr><td>///C</td></tr><tr><td>/Users/alex_wegscheid/Downloads/TB6612FNG_datasheet_en_20141001%20(7).pdf'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTIMERMC1455B > MC1455B
+# SZKTIMERMC1455B > Timer : MC1455B
 
 - ID: SYMBOL-kicad-kicad-symbols-Timer-MC1455B
 - Hex ID: SZKTIMERMC1455B
-- Name: MC1455B
-- Description: MC1455B
+- Name: Timer : MC1455B
+- Description: Timer : MC1455B
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer-MC1455B](http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer-MC1455B)
 - Short Link: [http://oom.lt/SZKTIMERMC1455B](http://oom.lt/SZKTIMERMC1455B)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MC1455B|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Timer-MC1455B|
 |Hex ID (short code)|hexID|SZKTIMERMC1455B|
-|name|name|MC1455B|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'NE555D', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MC1455B', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pub/Collateral/MC1455-D.PDF', 'kicadSymbolki_keywords': 'single timer 555', 'kicadSymbolki_description': 'Timer, 555 compatible, SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm*'}]|
+|name|name|Timer : MC1455B|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'NE555D'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MC1455B'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-8_3.9x4.9mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.onsemi.com/pub/Collateral/MC1455-D.PDF'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'single timer 555'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Timer</td><td> 555 compatible</td><td> SOIC-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*3.9x4.9mm*P1.27mm*'</td></tr></table>]|
 ||||

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-AMS_QFN-4-1EP_2x2mm_P0.95mm_EP0.7x1.6mm|
 |Hex ID (short code)|hexID|FZKDFNAMSQFN41EP2X2P95EP7X16|
 |name|name|Package_DFN_QFN : AMS_QFN-4-1EP_2x2mm_P0.95mm_EP0.7x1.6mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'AMS_QFN-4-1EP_2x2mm_P0.95mm_EP0.7x1.6mm', 'description': 'UFD Package, 4-Lead Plastic QFN (2mm x 2mm), http://ams.com/eng/content/download/950231/2267959/483138', 'tags': 'QFN 0.95', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/AMS_QFN-4-1EP_2x2mm_P0.95mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'AMS_QFN-4-1EP_2x2mm_P0.95mm_EP0.7x1.6mm'</td><td> 'description'</td></tr><tr><td> 'UFD Package</td><td> 4-Lead Plastic QFN (2mm x 2mm)</td><td> http</td></tr><tr><td>//ams.com/eng/content/download/950231/2267959/483138'</td><td> 'tags'</td></tr><tr><td> 'QFN 0.95'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DFN_QFN.3dshapes/AMS_QFN-4-1EP_2x2mm_P0.95mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

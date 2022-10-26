@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDEVICEAETERAC > Ammeter_AC
+# SZKDEVICEAETERAC > Device : Ammeter_AC
 
 - ID: SYMBOL-kicad-kicad-symbols-Device-Ammeter_AC
 - Hex ID: SZKDEVICEAETERAC
-- Name: Ammeter_AC
-- Description: Ammeter_AC
+- Name: Device : Ammeter_AC
+- Description: Device : Ammeter_AC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Ammeter_AC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Ammeter_AC)
 - Short Link: [http://oom.lt/SZKDEVICEAETERAC](http://oom.lt/SZKDEVICEAETERAC)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Ammeter_AC|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-Ammeter_AC|
 |Hex ID (short code)|hexID|SZKDEVICEAETERAC|
-|name|name|Ammeter_AC|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'MES', 'kicadSymbolValue': 'Ammeter_AC', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'ammeter AC ampere meter', 'kicadSymbolki_description': 'AC ammeter'}]|
+|name|name|Device : Ammeter_AC|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'MES'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Ammeter_AC'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'ammeter AC ampere meter'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'AC ammeter'</td></tr></table>]|
 ||||

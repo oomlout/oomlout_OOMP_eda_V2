@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-QFN-76-1EP_9x9mm_P0.4mm_EP3.8x3.8mm_ThermalVias|
 |Hex ID (short code)|hexID|FZKDFNQFN761EP9X9P4EP38X38THERMALVIAS|
 |name|name|Package_DFN_QFN : QFN-76-1EP_9x9mm_P0.4mm_EP3.8x3.8mm_ThermalVias|
-|Footprint Kicad|footprintKicadDetails|{'name': 'QFN-76-1EP_9x9mm_P0.4mm_EP3.8x3.8mm_ThermalVias', 'description': 'QFN, 76 Pin (https://www.marvell.com/documents/bqcwxsoiqfjkcjdjhkvc/#page=19), generated with kicad-footprint-generator ipc_noLead_generator.py', 'tags': 'QFN NoLead', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/QFN-76-1EP_9x9mm_P0.4mm_EP3.8x3.8mm.wrl', 'pins': {'type': 'smd', 'shape': 'custom'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'QFN-76-1EP_9x9mm_P0.4mm_EP3.8x3.8mm_ThermalVias'</td><td> 'description'</td></tr><tr><td> 'QFN</td><td> 76 Pin (https</td></tr><tr><td>//www.marvell.com/documents/bqcwxsoiqfjkcjdjhkvc/#page=19)</td><td> generated with kicad-footprint-generator ipc_noLead_generator.py'</td><td> 'tags'</td></tr><tr><td> 'QFN NoLead'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DFN_QFN.3dshapes/QFN-76-1EP_9x9mm_P0.4mm_EP3.8x3.8mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'custom'</td></tr></table></td></tr></table>|
 ||||
 
 

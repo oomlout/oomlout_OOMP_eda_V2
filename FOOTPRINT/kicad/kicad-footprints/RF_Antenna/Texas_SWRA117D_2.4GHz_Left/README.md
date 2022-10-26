@@ -29,5 +29,5 @@ NO IMAGE
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-RF_Antenna-Texas_SWRA117D_2.4GHz_Left|
 |Hex ID (short code)|hexID|FZKRFTEXASSWRA117D24GHZLEFT|
 |name|name|RF_Antenna : Texas_SWRA117D_2.4GHz_Left|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Texas_SWRA117D_2.4GHz_Left', 'description': 'http://www.ti.com/lit/an/swra117d/swra117d.pdf', 'tags': 'PCB antenna', 'attributeType': None, 'pins': {'type': 'connect', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Texas_SWRA117D_2.4GHz_Left'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/an/swra117d/swra117d.pdf'</td><td> 'tags'</td></tr><tr><td> 'PCB antenna'</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'connect'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

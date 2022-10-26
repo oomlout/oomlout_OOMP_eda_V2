@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Buzzer_Beeper-MagneticBuzzer_Kingstate_KCG0601|
 |Hex ID (short code)|hexID|FZKBZMAGNETICBUZZERKINGSTATEKCG61|
 |name|name|Buzzer_Beeper : MagneticBuzzer_Kingstate_KCG0601|
-|Footprint Kicad|footprintKicadDetails|{'name': 'MagneticBuzzer_Kingstate_KCG0601', 'description': 'Buzzer, Elektromagnetic Beeper, Summer,', 'tags': 'Kingstate KCG0601 ', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Buzzer_Beeper.3dshapes/MagneticBuzzer_Kingstate_KCG0601.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'MagneticBuzzer_Kingstate_KCG0601'</td><td> 'description'</td></tr><tr><td> 'Buzzer</td><td> Elektromagnetic Beeper</td><td> Summer</td><td>'</td><td> 'tags'</td></tr><tr><td> 'Kingstate KCG0601 '</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Buzzer_Beeper.3dshapes/MagneticBuzzer_Kingstate_KCG0601.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_Trimmer_Murata_TZB4-B|
 |Hex ID (short code)|hexID|FZKCAPACITORSMCTRIERMTZB4B|
 |name|name|Capacitor_SMD : C_Trimmer_Murata_TZB4-B|
-|Footprint Kicad|footprintKicadDetails|{'name': 'C_Trimmer_Murata_TZB4-B', 'description': 'trimmer capacitor SMD horizontal, http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/trimmer/t13e.ashx?la=en-gb', 'tags': ' Murata TZB4 TZB4-A', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_Trimmer_Murata_TZB4-B.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'C_Trimmer_Murata_TZB4-B'</td><td> 'description'</td></tr><tr><td> 'trimmer capacitor SMD horizontal</td><td> http</td></tr><tr><td>//www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/trimmer/t13e.ashx?la=en-gb'</td><td> 'tags'</td></tr><tr><td> ' Murata TZB4 TZB4-A'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Capacitor_SMD.3dshapes/C_Trimmer_Murata_TZB4-B.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

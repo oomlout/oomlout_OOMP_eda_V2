@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORFETIGT6R7D1 > IGT60R070D1
+# SZKTRANSISTORFETIGT6R7D1 > Transistor_FET : IGT60R070D1
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-IGT60R070D1
 - Hex ID: SZKTRANSISTORFETIGT6R7D1
-- Name: IGT60R070D1
-- Description: IGT60R070D1
+- Name: Transistor_FET : IGT60R070D1
+- Description: Transistor_FET : IGT60R070D1
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IGT60R070D1](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IGT60R070D1)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETIGT6R7D1](http://oom.lt/SZKTRANSISTORFETIGT6R7D1)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IGT60R070D1|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-IGT60R070D1|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETIGT6R7D1|
-|name|name|IGT60R070D1|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'IGT60R070D1', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:Infineon_PG-HSOF-8-3_ThermalVias', 'kicadSymbolDatasheet': 'https://www.infineon.com/dgdl/Infineon-IGT60R070D1-DataSheet-v02_01-EN.pdf?fileId=5546d46265f064ff016686028dd56526', 'kicadSymbolki_keywords': 'N-Channel GaN MOSFET', 'kicadSymbolki_description': '31A Id, 600V Vds, 70mOhm, N-Channel GaN MOSFET, HSOF-8', 'kicadSymbolki_fp_filters': 'Infineon*PG*HSOF*3*'}]|
+|name|name|Transistor_FET : IGT60R070D1|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'IGT60R070D1'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>Infineon_PG-HSOF-8-3_ThermalVias'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.infineon.com/dgdl/Infineon-IGT60R070D1-DataSheet-v02_01-EN.pdf?fileId=5546d46265f064ff016686028dd56526'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'N-Channel GaN MOSFET'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '31A Id</td><td> 600V Vds</td><td> 70mOhm</td><td> N-Channel GaN MOSFET</td><td> HSOF-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Infineon*PG*HSOF*3*'</td></tr></table>]|
 ||||

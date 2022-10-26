@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_DIP_SPSTx10_Piano_10.8x26.96mm_W7.62mm_P2.54mm|
 |Hex ID (short code)|hexID|FZKBSWDIPSPSTX1PIANO18X2696W762P254|
 |name|name|Button_Switch_THT : SW_DIP_SPSTx10_Piano_10.8x26.96mm_W7.62mm_P2.54mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'SW_DIP_SPSTx10_Piano_10.8x26.96mm_W7.62mm_P2.54mm', 'description': '10x-dip-switch SPST , Piano, row spacing 7.62 mm (300 mils), body size 10.8x26.96mm', 'tags': 'DIP Switch SPST Piano 7.62mm 300mil', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_DIP_SPSTx10_Piano_10.8x26.96mm_W7.62mm_P2.54mm.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SW_DIP_SPSTx10_Piano_10.8x26.96mm_W7.62mm_P2.54mm'</td><td> 'description'</td></tr><tr><td> '10x-dip-switch SPST </td><td> Piano</td><td> row spacing 7.62 mm (300 mils)</td><td> body size 10.8x26.96mm'</td><td> 'tags'</td></tr><tr><td> 'DIP Switch SPST Piano 7.62mm 300mil'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Button_Switch_THT.3dshapes/SW_DIP_SPSTx10_Piano_10.8x26.96mm_W7.62mm_P2.54mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

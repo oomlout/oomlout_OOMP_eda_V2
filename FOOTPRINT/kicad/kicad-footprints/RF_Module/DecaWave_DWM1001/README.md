@@ -29,5 +29,5 @@ NO IMAGE
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-RF_Module-DecaWave_DWM1001|
 |Hex ID (short code)|hexID|FZKRFMODECAWAVEDWM11|
 |name|name|RF_Module : DecaWave_DWM1001|
-|Footprint Kicad|footprintKicadDetails|{'name': 'DecaWave_DWM1001', 'description': 'https://www.decawave.com/sites/default/files/dwm1001_datasheet.pdf', 'tags': 'UWB module', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/RF_Module.3dshapes/DecaWave_DWM1001.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'DecaWave_DWM1001'</td><td> 'description'</td></tr><tr><td> 'https</td></tr><tr><td>//www.decawave.com/sites/default/files/dwm1001_datasheet.pdf'</td><td> 'tags'</td></tr><tr><td> 'UWB module'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/RF_Module.3dshapes/DecaWave_DWM1001.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

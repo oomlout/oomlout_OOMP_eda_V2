@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKINTERFACEUART825 > 8250
+# SZKINTERFACEUART825 > Interface_UART : 8250
 
 - ID: SYMBOL-kicad-kicad-symbols-Interface_UART-8250
 - Hex ID: SZKINTERFACEUART825
-- Name: 8250
-- Description: 8250
+- Name: Interface_UART : 8250
+- Description: Interface_UART : 8250
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-8250](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-8250)
 - Short Link: [http://oom.lt/SZKINTERFACEUART825](http://oom.lt/SZKINTERFACEUART825)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|8250|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_UART-8250|
 |Hex ID (short code)|hexID|SZKINTERFACEUART825|
-|name|name|8250|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '16450', 'kicadSymbolReference': 'U', 'kicadSymbolValue': '8250', 'kicadSymbolFootprint': 'Package_DIP:DIP-40_W15.24mm', 'kicadSymbolDatasheet': '', 'kicadSymbolki_keywords': '1ch UART', 'kicadSymbolki_description': 'PC8250A, Universal Asynchronous Receiver/Transmitter, PDIP-40', 'kicadSymbolki_fp_filters': 'DIP*W15.24mm*'}]|
+|name|name|Interface_UART : 8250|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> '16450'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> '8250'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>DIP-40_W15.24mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> '1ch UART'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'PC8250A</td><td> Universal Asynchronous Receiver/Transmitter</td><td> PDIP-40'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W15.24mm*'</td></tr></table>]|
 ||||

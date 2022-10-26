@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKGRAPHICSYMARROW45XL > SYM_Arrow45_XLarge
+# SZKGRAPHICSYMARROW45XL > Graphic : SYM_Arrow45_XLarge
 
 - ID: SYMBOL-kicad-kicad-symbols-Graphic-SYM_Arrow45_XLarge
 - Hex ID: SZKGRAPHICSYMARROW45XL
-- Name: SYM_Arrow45_XLarge
-- Description: SYM_Arrow45_XLarge
+- Name: Graphic : SYM_Arrow45_XLarge
+- Description: Graphic : SYM_Arrow45_XLarge
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Graphic-SYM_Arrow45_XLarge](http://oom.lt/SYMBOL-kicad-kicad-symbols-Graphic-SYM_Arrow45_XLarge)
 - Short Link: [http://oom.lt/SZKGRAPHICSYMARROW45XL](http://oom.lt/SZKGRAPHICSYMARROW45XL)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SYM_Arrow45_XLarge|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Graphic-SYM_Arrow45_XLarge|
 |Hex ID (short code)|hexID|SZKGRAPHICSYMARROW45XL|
-|name|name|SYM_Arrow45_XLarge|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': '#SYM', 'kicadSymbolValue': 'SYM_Arrow45_XLarge', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'symbol arrow 45° angled', 'kicadSymbolki_description': 'Filled 45° arrow, 400mil'}]|
+|name|name|Graphic : SYM_Arrow45_XLarge|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> '#SYM'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'SYM_Arrow45_XLarge'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'symbol arrow 45° angled'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Filled 45° arrow</td><td> 400mil'</td></tr></table>]|
 ||||

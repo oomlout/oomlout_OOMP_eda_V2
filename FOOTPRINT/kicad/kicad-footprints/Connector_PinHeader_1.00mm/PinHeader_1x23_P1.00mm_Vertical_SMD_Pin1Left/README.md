@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_1.00mm-PinHeader_1x23_P1.00mm_Vertical_SMD_Pin1Left|
 |Hex ID (short code)|hexID|FZKCNPINHEADER1PINHEADER1X23P1VERTICALSMPIN1LEFT|
 |name|name|Connector_PinHeader_1.00mm : PinHeader_1x23_P1.00mm_Vertical_SMD_Pin1Left|
-|Footprint Kicad|footprintKicadDetails|{'name': 'PinHeader_1x23_P1.00mm_Vertical_SMD_Pin1Left', 'description': 'surface-mounted straight pin header, 1x23, 1.00mm pitch, single row, style 1 (pin 1 left)', 'tags': 'Surface mounted pin header SMD 1x23 1.00mm single row style1 pin1 left', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_PinHeader_1.00mm.3dshapes/PinHeader_1x23_P1.00mm_Vertical_SMD_Pin1Left.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'PinHeader_1x23_P1.00mm_Vertical_SMD_Pin1Left'</td><td> 'description'</td></tr><tr><td> 'surface-mounted straight pin header</td><td> 1x23</td><td> 1.00mm pitch</td><td> single row</td><td> style 1 (pin 1 left)'</td><td> 'tags'</td></tr><tr><td> 'Surface mounted pin header SMD 1x23 1.00mm single row style1 pin1 left'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_PinHeader_1.00mm.3dshapes/PinHeader_1x23_P1.00mm_Vertical_SMD_Pin1Left.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

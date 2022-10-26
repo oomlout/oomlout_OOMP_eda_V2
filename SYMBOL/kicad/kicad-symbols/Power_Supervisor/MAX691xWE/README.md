@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKPOWERSUPERVISORMAX691XWE > MAX691xWE
+# SZKPOWERSUPERVISORMAX691XWE > Power_Supervisor : MAX691xWE
 
 - ID: SYMBOL-kicad-kicad-symbols-Power_Supervisor-MAX691xWE
 - Hex ID: SZKPOWERSUPERVISORMAX691XWE
-- Name: MAX691xWE
-- Description: MAX691xWE
+- Name: Power_Supervisor : MAX691xWE
+- Description: Power_Supervisor : MAX691xWE
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Supervisor-MAX691xWE](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Supervisor-MAX691xWE)
 - Short Link: [http://oom.lt/SZKPOWERSUPERVISORMAX691XWE](http://oom.lt/SZKPOWERSUPERVISORMAX691XWE)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MAX691xWE|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Supervisor-MAX691xWE|
 |Hex ID (short code)|hexID|SZKPOWERSUPERVISORMAX691XWE|
-|name|name|MAX691xWE|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MAX691xWE', 'kicadSymbolFootprint': 'Package_SO:SOIC-16W_7.5x10.3mm_P1.27mm', 'kicadSymbolDatasheet': 'https://datasheets.maximintegrated.com/en/ds/MAX690-MAX695.pdf', 'kicadSymbolki_keywords': 'Power Supervisor', 'kicadSymbolki_description': 'Microprocessor Supervisory Circuit, SOIC-16', 'kicadSymbolki_fp_filters': 'SOIC*7.5x10.3mm*P1.27mm*'}]|
+|name|name|Power_Supervisor : MAX691xWE|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MAX691xWE'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-16W_7.5x10.3mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//datasheets.maximintegrated.com/en/ds/MAX690-MAX695.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Power Supervisor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Microprocessor Supervisory Circuit</td><td> SOIC-16'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*7.5x10.3mm*P1.27mm*'</td></tr></table>]|
 ||||

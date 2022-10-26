@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKANALOGSWITCHMAX323CSA > MAX323CSA
+# SZKANALOGSWITCHMAX323CSA > Analog_Switch : MAX323CSA
 
 - ID: SYMBOL-kicad-kicad-symbols-Analog_Switch-MAX323CSA
 - Hex ID: SZKANALOGSWITCHMAX323CSA
-- Name: MAX323CSA
-- Description: MAX323CSA
+- Name: Analog_Switch : MAX323CSA
+- Description: Analog_Switch : MAX323CSA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-MAX323CSA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-MAX323CSA)
 - Short Link: [http://oom.lt/SZKANALOGSWITCHMAX323CSA](http://oom.lt/SZKANALOGSWITCHMAX323CSA)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MAX323CSA|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_Switch-MAX323CSA|
 |Hex ID (short code)|hexID|SZKANALOGSWITCHMAX323CSA|
-|name|name|MAX323CSA|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MAX323CSA', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm', 'kicadSymbolDatasheet': 'https://datasheets.maximintegrated.com/en/ds/MAX323-MAX325.pdf', 'kicadSymbolki_keywords': 'CMOS Analog Switch', 'kicadSymbolki_description': 'Dual SPST CMOS Analog Switches, normally OFF, 60Ohm Ron, SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm*'}]|
+|name|name|Analog_Switch : MAX323CSA|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MAX323CSA'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-8_3.9x4.9mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//datasheets.maximintegrated.com/en/ds/MAX323-MAX325.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'CMOS Analog Switch'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Dual SPST CMOS Analog Switches</td><td> normally OFF</td><td> 60Ohm Ron</td><td> SOIC-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*3.9x4.9mm*P1.27mm*'</td></tr></table>]|
 ||||

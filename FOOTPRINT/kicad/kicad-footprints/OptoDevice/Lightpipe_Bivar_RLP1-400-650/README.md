@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-OptoDevice-Lightpipe_Bivar_RLP1-400-650|
 |Hex ID (short code)|hexID|FZKOPLIGHTPIPEBIVARRLP1465|
 |name|name|OptoDevice : Lightpipe_Bivar_RLP1-400-650|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Lightpipe_Bivar_RLP1-400-650', 'description': '1-way, 2.8mm lightpipe, 10mm lens output height, 17mm protrusion, https://www.bivar.com/parts_content/Datasheets/RLP1-XXX-XXX.pdf', 'tags': 'planar light pipe 1 way 3mm ', 'attributeType': None, 'threeDModel': '${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/Lightpipe_Bivar_RLP1-400-650.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'oval'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Lightpipe_Bivar_RLP1-400-650'</td><td> 'description'</td></tr><tr><td> '1-way</td><td> 2.8mm lightpipe</td><td> 10mm lens output height</td><td> 17mm protrusion</td><td> https</td></tr><tr><td>//www.bivar.com/parts_content/Datasheets/RLP1-XXX-XXX.pdf'</td><td> 'tags'</td></tr><tr><td> 'planar light pipe 1 way 3mm '</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/OptoDevice.3dshapes/Lightpipe_Bivar_RLP1-400-650.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'oval'</td></tr></table></td></tr></table>|
 ||||
 
 

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Radial_D28.0mm_P29.20mm|
 |Hex ID (short code)|hexID|FZKINLRD28P292|
 |name|name|Inductor_THT : L_Radial_D28.0mm_P29.20mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'L_Radial_D28.0mm_P29.20mm', 'description': 'Inductor, Radial series, Radial, pin pitch=29.20mm, , diameter=28mm', 'tags': 'Inductor Radial series Radial pin pitch 29.20mm  diameter 28mm', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Radial_D28.0mm_P29.20mm.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'L_Radial_D28.0mm_P29.20mm'</td><td> 'description'</td></tr><tr><td> 'Inductor</td><td> Radial series</td><td> Radial</td><td> pin pitch=29.20mm</td><td> </td><td> diameter=28mm'</td><td> 'tags'</td></tr><tr><td> 'Inductor Radial series Radial pin pitch 29.20mm  diameter 28mm'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Inductor_THT.3dshapes/L_Radial_D28.0mm_P29.20mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

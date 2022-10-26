@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Omeg_PC16BU_Horizontal|
 |Hex ID (short code)|hexID|FZKPPOTENTIOMETEROMEGPC16BUHORIZONTAL|
 |name|name|Potentiometer_THT : Potentiometer_Omeg_PC16BU_Horizontal|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Potentiometer_Omeg_PC16BU_Horizontal', 'description': 'Potentiometer, horizontal, Omeg PC16BU, http://www.omeg.co.uk/pc6bubrc.htm', 'tags': 'Potentiometer horizontal Omeg PC16BU', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Potentiometer_THT.3dshapes/Potentiometer_Omeg_PC16BU_Horizontal.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Potentiometer_Omeg_PC16BU_Horizontal'</td><td> 'description'</td></tr><tr><td> 'Potentiometer</td><td> horizontal</td><td> Omeg PC16BU</td><td> http</td></tr><tr><td>//www.omeg.co.uk/pc6bubrc.htm'</td><td> 'tags'</td></tr><tr><td> 'Potentiometer horizontal Omeg PC16BU'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Potentiometer_THT.3dshapes/Potentiometer_Omeg_PC16BU_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKISOLATORHCPL63N > HCPL-063N
+# SZKISOLATORHCPL63N > Isolator : HCPL-063N
 
 - ID: SYMBOL-kicad-kicad-symbols-Isolator-HCPL-063N
 - Hex ID: SZKISOLATORHCPL63N
-- Name: HCPL-063N
-- Description: HCPL-063N
+- Name: Isolator : HCPL-063N
+- Description: Isolator : HCPL-063N
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-HCPL-063N](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-HCPL-063N)
 - Short Link: [http://oom.lt/SZKISOLATORHCPL63N](http://oom.lt/SZKISOLATORHCPL63N)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|HCPL-063N|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Isolator-HCPL-063N|
 |Hex ID (short code)|hexID|SZKISOLATORHCPL63N|
-|name|name|HCPL-063N|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'HCPL-063A', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'HCPL-063N', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm', 'kicadSymbolDatasheet': 'http://docs.avagotech.com/docs/AV02-0391EN', 'kicadSymbolki_keywords': 'High speed optically coupled gates', 'kicadSymbolki_description': 'Dual High Speed HCMOS/LSTTL/TTL Compatible Optocoupler, dV/dt 1000/us, VCM 1000, -0.5V to 7V VCC, SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm?P1.27mm*'}]|
+|name|name|Isolator : HCPL-063N|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'HCPL-063A'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'HCPL-063N'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-8_3.9x4.9mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//docs.avagotech.com/docs/AV02-0391EN'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'High speed optically coupled gates'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Dual High Speed HCMOS/LSTTL/TTL Compatible Optocoupler</td><td> dV/dt 1000/us</td><td> VCM 1000</td><td> -0.5V to 7V VCC</td><td> SOIC-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*3.9x4.9mm?P1.27mm*'</td></tr></table>]|
 ||||

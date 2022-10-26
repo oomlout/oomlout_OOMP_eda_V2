@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKCNRJ13SHED > RJ13_Shielded
+# SZKCNRJ13SHED > Connector : RJ13_Shielded
 
 - ID: SYMBOL-kicad-kicad-symbols-Connector-RJ13_Shielded
 - Hex ID: SZKCNRJ13SHED
-- Name: RJ13_Shielded
-- Description: RJ13_Shielded
+- Name: Connector : RJ13_Shielded
+- Description: Connector : RJ13_Shielded
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-RJ13_Shielded](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-RJ13_Shielded)
 - Short Link: [http://oom.lt/SZKCNRJ13SHED](http://oom.lt/SZKCNRJ13SHED)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|RJ13_Shielded|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-RJ13_Shielded|
 |Hex ID (short code)|hexID|SZKCNRJ13SHED|
-|name|name|RJ13_Shielded|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '6P4C_Shielded', 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'RJ13_Shielded', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': '6P4C RJ female connector', 'kicadSymbolki_description': 'RJ connector, 6P4C (6 positions 4 connected), Shielded', 'kicadSymbolki_fp_filters': '6P4C* RJ13* RJ14*'}]|
+|name|name|Connector : RJ13_Shielded|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> '6P4C_Shielded'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'J'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'RJ13_Shielded'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> '6P4C RJ female connector'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'RJ connector</td><td> 6P4C (6 positions 4 connected)</td><td> Shielded'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> '6P4C* RJ13* RJ14*'</td></tr></table>]|
 ||||

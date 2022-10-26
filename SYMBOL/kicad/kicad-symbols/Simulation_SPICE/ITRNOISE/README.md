@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKSIMULATIONSPICEITRNOISE > ITRNOISE
+# SZKSIMULATIONSPICEITRNOISE > Simulation_SPICE : ITRNOISE
 
 - ID: SYMBOL-kicad-kicad-symbols-Simulation_SPICE-ITRNOISE
 - Hex ID: SZKSIMULATIONSPICEITRNOISE
-- Name: ITRNOISE
-- Description: ITRNOISE
+- Name: Simulation_SPICE : ITRNOISE
+- Description: Simulation_SPICE : ITRNOISE
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Simulation_SPICE-ITRNOISE](http://oom.lt/SYMBOL-kicad-kicad-symbols-Simulation_SPICE-ITRNOISE)
 - Short Link: [http://oom.lt/SZKSIMULATIONSPICEITRNOISE](http://oom.lt/SZKSIMULATIONSPICEITRNOISE)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ITRNOISE|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Simulation_SPICE-ITRNOISE|
 |Hex ID (short code)|hexID|SZKSIMULATIONSPICEITRNOISE|
-|name|name|ITRNOISE|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'I', 'kicadSymbolValue': 'ITRNOISE', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolSpice_Netlist_Enabled': 'Y', 'kicadSymbolSpice_Primitive': 'I', 'kicadSymbolSpice_Model': 'trnoise(20n 0.5n 0 0)', 'kicadSymbolki_keywords': 'simulation', 'kicadSymbolki_description': 'Current source, transient noise'}]|
+|name|name|Simulation_SPICE : ITRNOISE|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'I'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ITRNOISE'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolSpice_Netlist_Enabled'</td></tr><tr><td> 'Y'</td><td> 'kicadSymbolSpice_Primitive'</td></tr><tr><td> 'I'</td><td> 'kicadSymbolSpice_Model'</td></tr><tr><td> 'trnoise(20n 0.5n 0 0)'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'simulation'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Current source</td><td> transient noise'</td></tr></table>]|
 ||||

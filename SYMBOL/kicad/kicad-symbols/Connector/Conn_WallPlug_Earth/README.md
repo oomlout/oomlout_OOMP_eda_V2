@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKCNCONNWALLPLUGEARTH > Conn_WallPlug_Earth
+# SZKCNCONNWALLPLUGEARTH > Connector : Conn_WallPlug_Earth
 
 - ID: SYMBOL-kicad-kicad-symbols-Connector-Conn_WallPlug_Earth
 - Hex ID: SZKCNCONNWALLPLUGEARTH
-- Name: Conn_WallPlug_Earth
-- Description: Conn_WallPlug_Earth
+- Name: Connector : Conn_WallPlug_Earth
+- Description: Connector : Conn_WallPlug_Earth
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-Conn_WallPlug_Earth](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-Conn_WallPlug_Earth)
 - Short Link: [http://oom.lt/SZKCNCONNWALLPLUGEARTH](http://oom.lt/SZKCNCONNWALLPLUGEARTH)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Conn_WallPlug_Earth|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-Conn_WallPlug_Earth|
 |Hex ID (short code)|hexID|SZKCNCONNWALLPLUGEARTH|
-|name|name|Conn_WallPlug_Earth|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'P', 'kicadSymbolValue': 'Conn_WallPlug_Earth', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'wall plug 110VAC 220VAC', 'kicadSymbolki_description': '3-pin general wall plug, with Earth wire (110VAC, 220VAC)'}]|
+|name|name|Connector : Conn_WallPlug_Earth|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'P'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Conn_WallPlug_Earth'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'wall plug 110VAC 220VAC'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '3-pin general wall plug</td><td> with Earth wire (110VAC</td><td> 220VAC)'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZK4XXXHEF493B > HEF4093B
+# SZK4XXXHEF493B > 4xxx : HEF4093B
 
 - ID: SYMBOL-kicad-kicad-symbols-4xxx-HEF4093B
 - Hex ID: SZK4XXXHEF493B
-- Name: HEF4093B
-- Description: HEF4093B
+- Name: 4xxx : HEF4093B
+- Description: 4xxx : HEF4093B
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx-HEF4093B](http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx-HEF4093B)
 - Short Link: [http://oom.lt/SZK4XXXHEF493B](http://oom.lt/SZK4XXXHEF493B)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|HEF4093B|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-4xxx-HEF4093B|
 |Hex ID (short code)|hexID|SZK4XXXHEF493B|
-|name|name|HEF4093B|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'HEF4093B', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://assets.nexperia.com/documents/data-sheet/HEF4093B.pdf', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'NAND2', 'kicadSymbolki_description': 'Quad 2-Input NAND Schmitt Trigger, SOIC-14', 'kicadSymbolki_fp_filters': 'SOIC*3.9x8.7mm*P1.27mm*'}]|
+|name|name|4xxx : HEF4093B|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'HEF4093B'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//assets.nexperia.com/documents/data-sheet/HEF4093B.pdf'</td><td> 'kicadSymbolki_locked'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'NAND2'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Quad 2-Input NAND Schmitt Trigger</td><td> SOIC-14'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*3.9x8.7mm*P1.27mm*'</td></tr></table>]|
 ||||

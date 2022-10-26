@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUMCHIPSAMDATSAMD21G15BA > ATSAMD21G15B-A
+# SZKMCUMCHIPSAMDATSAMD21G15BA > MCU_Microchip_SAMD : ATSAMD21G15B-A
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_SAMD-ATSAMD21G15B-A
 - Hex ID: SZKMCUMCHIPSAMDATSAMD21G15BA
-- Name: ATSAMD21G15B-A
-- Description: ATSAMD21G15B-A
+- Name: MCU_Microchip_SAMD : ATSAMD21G15B-A
+- Description: MCU_Microchip_SAMD : ATSAMD21G15B-A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_SAMD-ATSAMD21G15B-A](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_SAMD-ATSAMD21G15B-A)
 - Short Link: [http://oom.lt/SZKMCUMCHIPSAMDATSAMD21G15BA](http://oom.lt/SZKMCUMCHIPSAMDATSAMD21G15BA)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ATSAMD21G15B-A|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_SAMD-ATSAMD21G15B-A|
 |Hex ID (short code)|hexID|SZKMCUMCHIPSAMDATSAMD21G15BA|
-|name|name|ATSAMD21G15B-A|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ATSAMD21G15A-A', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ATSAMD21G15B-A', 'kicadSymbolFootprint': 'Package_QFP:TQFP-48_7x7mm_P0.5mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/SAM_D21_DA1_Family_Data%20Sheet_DS40001882E.pdf', 'kicadSymbolki_keywords': '32-bit ARM Cortex-M0+ MCU Microcontroller', 'kicadSymbolki_description': 'SAM D21 Microchip SMART ARM-based Flash MCU, 48Mhz, 32K Flash w/ 1K RWW, 4K SRAM, TQFP-48', 'kicadSymbolki_fp_filters': 'TQFP*7x7mm*P0.5mm*'}]|
+|name|name|MCU_Microchip_SAMD : ATSAMD21G15B-A|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'ATSAMD21G15A-A'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ATSAMD21G15B-A'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_QFP</td></tr><tr><td>TQFP-48_7x7mm_P0.5mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/SAM_D21_DA1_Family_Data%20Sheet_DS40001882E.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> '32-bit ARM Cortex-M0+ MCU Microcontroller'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'SAM D21 Microchip SMART ARM-based Flash MCU</td><td> 48Mhz</td><td> 32K Flash w/ 1K RWW</td><td> 4K SRAM</td><td> TQFP-48'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TQFP*7x7mm*P0.5mm*'</td></tr></table>]|
 ||||

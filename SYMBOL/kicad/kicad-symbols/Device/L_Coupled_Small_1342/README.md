@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDEVICELCOUPLSLL1342 > L_Coupled_Small_1342
+# SZKDEVICELCOUPLSLL1342 > Device : L_Coupled_Small_1342
 
 - ID: SYMBOL-kicad-kicad-symbols-Device-L_Coupled_Small_1342
 - Hex ID: SZKDEVICELCOUPLSLL1342
-- Name: L_Coupled_Small_1342
-- Description: L_Coupled_Small_1342
+- Name: Device : L_Coupled_Small_1342
+- Description: Device : L_Coupled_Small_1342
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-L_Coupled_Small_1342](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-L_Coupled_Small_1342)
 - Short Link: [http://oom.lt/SZKDEVICELCOUPLSLL1342](http://oom.lt/SZKDEVICELCOUPLSLL1342)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|L_Coupled_Small_1342|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-L_Coupled_Small_1342|
 |Hex ID (short code)|hexID|SZKDEVICELCOUPLSLL1342|
-|name|name|L_Coupled_Small_1342|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'L', 'kicadSymbolValue': 'L_Coupled_Small_1342', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'inductor choke coil reactor magnetic coupled', 'kicadSymbolki_description': 'Coupled inductor, small symbol', 'kicadSymbolki_fp_filters': 'Choke_* *Coil* Inductor_* L_*'}]|
+|name|name|Device : L_Coupled_Small_1342|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'L'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'L_Coupled_Small_1342'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'inductor choke coil reactor magnetic coupled'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Coupled inductor</td><td> small symbol'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Choke_* *Coil* Inductor_* L_*'</td></tr></table>]|
 ||||

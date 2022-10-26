@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKANALOGDACAD7224LR1 > AD7224LR-1
+# SZKANALOGDACAD7224LR1 > Analog_DAC : AD7224LR-1
 
 - ID: SYMBOL-kicad-kicad-symbols-Analog_DAC-AD7224LR-1
 - Hex ID: SZKANALOGDACAD7224LR1
-- Name: AD7224LR-1
-- Description: AD7224LR-1
+- Name: Analog_DAC : AD7224LR-1
+- Description: Analog_DAC : AD7224LR-1
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-AD7224LR-1](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-AD7224LR-1)
 - Short Link: [http://oom.lt/SZKANALOGDACAD7224LR1](http://oom.lt/SZKANALOGDACAD7224LR1)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AD7224LR-1|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_DAC-AD7224LR-1|
 |Hex ID (short code)|hexID|SZKANALOGDACAD7224LR1|
-|name|name|AD7224LR-1|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'AD7224KR-1', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AD7224LR-1', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.analog.com/static/imported-files/data_sheets/AD7224.pdf', 'kicadSymbolki_keywords': '8bit DAC Dual Single Supply', 'kicadSymbolki_description': '8bit DAC, Dual or Single Supply, SOIC-20', 'kicadSymbolki_fp_filters': 'SO*'}]|
+|name|name|Analog_DAC : AD7224LR-1|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'AD7224KR-1'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'AD7224LR-1'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/static/imported-files/data_sheets/AD7224.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> '8bit DAC Dual Single Supply'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '8bit DAC</td><td> Dual or Single Supply</td><td> SOIC-20'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SO*'</td></tr></table>]|
 ||||

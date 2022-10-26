@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKANALOGADCLTC1598IG > LTC1598IG
+# SZKANALOGADCLTC1598IG > Analog_ADC : LTC1598IG
 
 - ID: SYMBOL-kicad-kicad-symbols-Analog_ADC-LTC1598IG
 - Hex ID: SZKANALOGADCLTC1598IG
-- Name: LTC1598IG
-- Description: LTC1598IG
+- Name: Analog_ADC : LTC1598IG
+- Description: Analog_ADC : LTC1598IG
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-LTC1598IG](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-LTC1598IG)
 - Short Link: [http://oom.lt/SZKANALOGADCLTC1598IG](http://oom.lt/SZKANALOGADCLTC1598IG)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LTC1598IG|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_ADC-LTC1598IG|
 |Hex ID (short code)|hexID|SZKANALOGADCLTC1598IG|
-|name|name|LTC1598IG|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LTC1598CG', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LTC1598IG', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/15948fb.pdf', 'kicadSymbolki_keywords': '12bit ADC 4 Channel', 'kicadSymbolki_description': 'Micropower 12-bit 8 Channel ADC, Serial IO, SSOP-24', 'kicadSymbolki_fp_filters': 'SSOP*'}]|
+|name|name|Analog_ADC : LTC1598IG|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'LTC1598CG'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LTC1598IG'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/15948fb.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> '12bit ADC 4 Channel'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Micropower 12-bit 8 Channel ADC</td><td> Serial IO</td><td> SSOP-24'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SSOP*'</td></tr></table>]|
 ||||

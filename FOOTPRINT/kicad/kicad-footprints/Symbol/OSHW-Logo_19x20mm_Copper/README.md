@@ -29,5 +29,5 @@ NO IMAGE
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Symbol-OSHW-Logo_19x20mm_Copper|
 |Hex ID (short code)|hexID|FZKSZOSHWL19X2C|
 |name|name|Symbol : OSHW-Logo_19x20mm_Copper|
-|Footprint Kicad|footprintKicadDetails|{'name': 'OSHW-Logo_19x20mm_Copper', 'description': 'Open Source Hardware Logo', 'tags': 'Logo OSHW', 'attributeType': None, 'pins': {}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'OSHW-Logo_19x20mm_Copper'</td><td> 'description'</td></tr><tr><td> 'Open Source Hardware Logo'</td><td> 'tags'</td></tr><tr><td> 'Logo OSHW'</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td></td></tr></table></td></tr></table>|
 ||||

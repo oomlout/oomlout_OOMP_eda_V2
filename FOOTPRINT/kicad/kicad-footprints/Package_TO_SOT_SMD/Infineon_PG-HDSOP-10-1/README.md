@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-Infineon_PG-HDSOP-10-1|
 |Hex ID (short code)|hexID|FZKPACKAGETOSOTSMINFINEONPGHDS11|
 |name|name|Package_TO_SOT_SMD : Infineon_PG-HDSOP-10-1|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Infineon_PG-HDSOP-10-1', 'description': 'Infineon PG-HDSOP-10-1 (DDPAK), 20.96x6.5x2.3mm, slug up (https://www.infineon.com/cms/en/product/packages/PG-HDSOP/PG-HDSOP-10-1/)', 'tags': 'hdsop 10 ddpak', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/Infineon_PG-HDSOP-10-1.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Infineon_PG-HDSOP-10-1'</td><td> 'description'</td></tr><tr><td> 'Infineon PG-HDSOP-10-1 (DDPAK)</td><td> 20.96x6.5x2.3mm</td><td> slug up (https</td></tr><tr><td>//www.infineon.com/cms/en/product/packages/PG-HDSOP/PG-HDSOP-10-1/)'</td><td> 'tags'</td></tr><tr><td> 'hdsop 10 ddpak'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_TO_SOT_SMD.3dshapes/Infineon_PG-HDSOP-10-1.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

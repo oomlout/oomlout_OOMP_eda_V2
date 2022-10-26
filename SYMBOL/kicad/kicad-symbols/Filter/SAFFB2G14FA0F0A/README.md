@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKFILSAFFB2G14FAFA > SAFFB2G14FA0F0A
+# SZKFILSAFFB2G14FAFA > Filter : SAFFB2G14FA0F0A
 
 - ID: SYMBOL-kicad-kicad-symbols-Filter-SAFFB2G14FA0F0A
 - Hex ID: SZKFILSAFFB2G14FAFA
-- Name: SAFFB2G14FA0F0A
-- Description: SAFFB2G14FA0F0A
+- Name: Filter : SAFFB2G14FA0F0A
+- Description: Filter : SAFFB2G14FA0F0A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Filter-SAFFB2G14FA0F0A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Filter-SAFFB2G14FA0F0A)
 - Short Link: [http://oom.lt/SZKFILSAFFB2G14FAFA](http://oom.lt/SZKFILSAFFB2G14FAFA)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SAFFB2G14FA0F0A|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Filter-SAFFB2G14FA0F0A|
 |Hex ID (short code)|hexID|SZKFILSAFFB2G14FAFA|
-|name|name|SAFFB2G14FA0F0A|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'B39162B8813P810', 'kicadSymbolReference': 'FL', 'kicadSymbolValue': 'SAFFB2G14FA0F0A', 'kicadSymbolFootprint': 'Filter:Filter_1109-5_1.1x0.9mm', 'kicadSymbolDatasheet': 'https://www.murata.com/~/media/webrenewal/support/library/catalog/products/filter/rf/p73e.ashx?la=en', 'kicadSymbolki_keywords': 'SAW filter', 'kicadSymbolki_description': 'Murata 2140MHz SAW filter, SMD 1109', 'kicadSymbolki_fp_filters': 'Filter*1109*1.1x0.9mm*'}]|
+|name|name|Filter : SAFFB2G14FA0F0A|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'B39162B8813P810'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'FL'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'SAFFB2G14FA0F0A'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Filter</td></tr><tr><td>Filter_1109-5_1.1x0.9mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.murata.com/~/media/webrenewal/support/library/catalog/products/filter/rf/p73e.ashx?la=en'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'SAW filter'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Murata 2140MHz SAW filter</td><td> SMD 1109'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Filter*1109*1.1x0.9mm*'</td></tr></table>]|
 ||||

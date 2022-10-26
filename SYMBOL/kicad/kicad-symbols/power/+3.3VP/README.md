@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKPOWER+33VP > +3.3VP
+# SZKPOWER+33VP > power : +3.3VP
 
 - ID: SYMBOL-kicad-kicad-symbols-power-+3.3VP
 - Hex ID: SZKPOWER+33VP
-- Name: +3.3VP
-- Description: +3.3VP
+- Name: power : +3.3VP
+- Description: power : +3.3VP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-power-+3.3VP](http://oom.lt/SYMBOL-kicad-kicad-symbols-power-+3.3VP)
 - Short Link: [http://oom.lt/SZKPOWER+33VP](http://oom.lt/SZKPOWER+33VP)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|+3.3VP|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-power-+3.3VP|
 |Hex ID (short code)|hexID|SZKPOWER+33VP|
-|name|name|+3.3VP|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': '#PWR', 'kicadSymbolValue': '+3.3VP', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_keywords': 'power-flag', 'kicadSymbolki_description': 'Power symbol creates a global label with name "+3.3VP"'}]|
+|name|name|power : +3.3VP|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> '#PWR'</td><td> 'kicadSymbolValue'</td></tr><tr><td> '+3.3VP'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'power-flag'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Power symbol creates a global label with name "+3.3VP"'</td></tr></table>]|
 ||||

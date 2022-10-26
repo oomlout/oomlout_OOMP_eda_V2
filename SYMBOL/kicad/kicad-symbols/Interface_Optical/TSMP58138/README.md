@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKINTERFACEOPTICALTSMP58138 > TSMP58138
+# SZKINTERFACEOPTICALTSMP58138 > Interface_Optical : TSMP58138
 
 - ID: SYMBOL-kicad-kicad-symbols-Interface_Optical-TSMP58138
 - Hex ID: SZKINTERFACEOPTICALTSMP58138
-- Name: TSMP58138
-- Description: TSMP58138
+- Name: Interface_Optical : TSMP58138
+- Description: Interface_Optical : TSMP58138
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Optical-TSMP58138](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Optical-TSMP58138)
 - Short Link: [http://oom.lt/SZKINTERFACEOPTICALTSMP58138](http://oom.lt/SZKINTERFACEOPTICALTSMP58138)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TSMP58138|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_Optical-TSMP58138|
 |Hex ID (short code)|hexID|SZKINTERFACEOPTICALTSMP58138|
-|name|name|TSMP58138|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TSMP58138', 'kicadSymbolFootprint': 'OptoDevice:Vishay_MINICAST-3Pin', 'kicadSymbolDatasheet': 'http://www.vishay.com/docs/82486/tsmp58138.pdf', 'kicadSymbolki_keywords': 'opto IR repeater receiver', 'kicadSymbolki_description': 'Photo Module (Repeater) for PCM Remote Control Systems', 'kicadSymbolki_fp_filters': 'Vishay*MINICAST*'}]|
+|name|name|Interface_Optical : TSMP58138|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TSMP58138'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'OptoDevice</td></tr><tr><td>Vishay_MINICAST-3Pin'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.vishay.com/docs/82486/tsmp58138.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'opto IR repeater receiver'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Photo Module (Repeater) for PCM Remote Control Systems'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Vishay*MINICAST*'</td></tr></table>]|
 ||||

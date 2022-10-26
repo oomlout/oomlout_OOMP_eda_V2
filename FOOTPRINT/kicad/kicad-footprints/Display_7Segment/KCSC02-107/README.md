@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Display_7Segment-KCSC02-107|
 |Hex ID (short code)|hexID|FZKDI7SKCSC217|
 |name|name|Display_7Segment : KCSC02-107|
-|Footprint Kicad|footprintKicadDetails|{'name': 'KCSC02-107', 'description': 'http://www.kingbright.com/attachments/file/psearch/000/00/00/KCSC02-107(Ver.9A).pdf', 'tags': 'Single digit 7 segement super bright yellow LED', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Display_7Segment.3dshapes/KCSC02-107.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'KCSC02-107'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//www.kingbright.com/attachments/file/psearch/000/00/00/KCSC02-107(Ver.9A).pdf'</td><td> 'tags'</td></tr><tr><td> 'Single digit 7 segement super bright yellow LED'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Display_7Segment.3dshapes/KCSC02-107.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

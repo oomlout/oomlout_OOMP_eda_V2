@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORFETC2M2812D > C2M0280120D
+# SZKTRANSISTORFETC2M2812D > Transistor_FET : C2M0280120D
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-C2M0280120D
 - Hex ID: SZKTRANSISTORFETC2M2812D
-- Name: C2M0280120D
-- Description: C2M0280120D
+- Name: Transistor_FET : C2M0280120D
+- Description: Transistor_FET : C2M0280120D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-C2M0280120D](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-C2M0280120D)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETC2M2812D](http://oom.lt/SZKTRANSISTORFETC2M2812D)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|C2M0280120D|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-C2M0280120D|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETC2M2812D|
-|name|name|C2M0280120D|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'C3M0065090D', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'C2M0280120D', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-247-3_Vertical', 'kicadSymbolDatasheet': 'https://www.wolfspeed.com/media/downloads/171/C2M0280120D.pdf', 'kicadSymbolki_keywords': 'N-Channel SiC MOSFET', 'kicadSymbolki_description': '10A Id, 1200V Vds, 280mOhm, N-Channel SiC MOSFET, TO-247', 'kicadSymbolki_fp_filters': 'TO?247*'}]|
+|name|name|Transistor_FET : C2M0280120D|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'C3M0065090D'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'C2M0280120D'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_THT</td></tr><tr><td>TO-247-3_Vertical'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.wolfspeed.com/media/downloads/171/C2M0280120D.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'N-Channel SiC MOSFET'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '10A Id</td><td> 1200V Vds</td><td> 280mOhm</td><td> N-Channel SiC MOSFET</td><td> TO-247'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TO?247*'</td></tr></table>]|
 ||||

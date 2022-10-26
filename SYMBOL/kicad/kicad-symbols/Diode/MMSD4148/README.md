@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDIODESD4148 > MMSD4148
+# SZKDIODESD4148 > Diode : MMSD4148
 
 - ID: SYMBOL-kicad-kicad-symbols-Diode-MMSD4148
 - Hex ID: SZKDIODESD4148
-- Name: MMSD4148
-- Description: MMSD4148
+- Name: Diode : MMSD4148
+- Description: Diode : MMSD4148
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-MMSD4148](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-MMSD4148)
 - Short Link: [http://oom.lt/SZKDIODESD4148](http://oom.lt/SZKDIODESD4148)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MMSD4148|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-MMSD4148|
 |Hex ID (short code)|hexID|SZKDIODESD4148|
-|name|name|MMSD4148|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '1N4001', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'MMSD4148', 'kicadSymbolFootprint': 'Diode_SMD:D_SOD-123', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pub/Collateral/MMSD4148T1-D.PDF', 'kicadSymbolki_keywords': 'diode', 'kicadSymbolki_description': '100V 200mA Switching Diode, SOD-123', 'kicadSymbolki_fp_filters': 'D*SOD?123*'}]|
+|name|name|Diode : MMSD4148|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> '1N4001'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MMSD4148'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Diode_SMD</td></tr><tr><td>D_SOD-123'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.onsemi.com/pub/Collateral/MMSD4148T1-D.PDF'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'diode'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '100V 200mA Switching Diode</td><td> SOD-123'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'D*SOD?123*'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKRELAYFINDER3611 > FINDER-36.11
+# SZKRELAYFINDER3611 > Relay : FINDER-36.11
 
 - ID: SYMBOL-kicad-kicad-symbols-Relay-FINDER-36.11
 - Hex ID: SZKRELAYFINDER3611
-- Name: FINDER-36.11
-- Description: FINDER-36.11
+- Name: Relay : FINDER-36.11
+- Description: Relay : FINDER-36.11
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-FINDER-36.11](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-FINDER-36.11)
 - Short Link: [http://oom.lt/SZKRELAYFINDER3611](http://oom.lt/SZKRELAYFINDER3611)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|FINDER-36.11|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Relay-FINDER-36.11|
 |Hex ID (short code)|hexID|SZKRELAYFINDER3611|
-|name|name|FINDER-36.11|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'K', 'kicadSymbolValue': 'FINDER-36.11', 'kicadSymbolFootprint': 'Relay_THT:Relay_SPDT_Finder_36.11', 'kicadSymbolDatasheet': 'https://gfinder.findernet.com/public/attachments/36/EN/S36EN.pdf', 'kicadSymbolki_keywords': 'spdt relay', 'kicadSymbolki_description': 'FINDER 36.11, SPDT relay, 10A', 'kicadSymbolki_fp_filters': 'Relay*SPDT*Finder*36.11*'}]|
+|name|name|Relay : FINDER-36.11|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'K'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'FINDER-36.11'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Relay_THT</td></tr><tr><td>Relay_SPDT_Finder_36.11'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//gfinder.findernet.com/public/attachments/36/EN/S36EN.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'spdt relay'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'FINDER 36.11</td><td> SPDT relay</td><td> 10A'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Relay*SPDT*Finder*36.11*'</td></tr></table>]|
 ||||

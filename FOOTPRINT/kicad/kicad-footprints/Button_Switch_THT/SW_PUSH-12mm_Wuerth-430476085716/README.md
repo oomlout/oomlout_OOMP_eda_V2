@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_PUSH-12mm_Wuerth-430476085716|
 |Hex ID (short code)|hexID|FZKBSWPUSH12WUERTH4347685716|
 |name|name|Button_Switch_THT : SW_PUSH-12mm_Wuerth-430476085716|
-|Footprint Kicad|footprintKicadDetails|{'name': 'SW_PUSH-12mm_Wuerth-430476085716', 'description': 'SW PUSH 12mm http://katalog.we-online.de/em/datasheet/430476085716.pdf', 'tags': 'tact sw push 12mm', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_PUSH-12mm_Wuerth-430476085716.wrl', 'pins': {'type': 'thru_hole', 'shape': 'oval'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SW_PUSH-12mm_Wuerth-430476085716'</td><td> 'description'</td></tr><tr><td> 'SW PUSH 12mm http</td></tr><tr><td>//katalog.we-online.de/em/datasheet/430476085716.pdf'</td><td> 'tags'</td></tr><tr><td> 'tact sw push 12mm'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Button_Switch_THT.3dshapes/SW_PUSH-12mm_Wuerth-430476085716.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'oval'</td></tr></table></td></tr></table>|
 ||||
 
 

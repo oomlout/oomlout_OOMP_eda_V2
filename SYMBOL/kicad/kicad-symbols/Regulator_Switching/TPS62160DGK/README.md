@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORSWITCHINGTPS6216DGK > TPS62160DGK
+# SZKREGULATORSWITCHINGTPS6216DGK > Regulator_Switching : TPS62160DGK
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS62160DGK
 - Hex ID: SZKREGULATORSWITCHINGTPS6216DGK
-- Name: TPS62160DGK
-- Description: TPS62160DGK
+- Name: Regulator_Switching : TPS62160DGK
+- Description: Regulator_Switching : TPS62160DGK
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS62160DGK](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS62160DGK)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGTPS6216DGK](http://oom.lt/SZKREGULATORSWITCHINGTPS6216DGK)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TPS62160DGK|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS62160DGK|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGTPS6216DGK|
-|name|name|TPS62160DGK|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TPS62160DGK', 'kicadSymbolFootprint': 'Package_SO:MSOP-8_3x3mm_P0.65mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tps62160.pdf', 'kicadSymbolki_keywords': 'step-down dc-dc buck regulator', 'kicadSymbolki_description': '1A Step-Down Converter with DCS-Control, adjustable output, 3-17V input voltage, VSSOP-8', 'kicadSymbolki_fp_filters': 'MSOP*3x3mm*P0.65mm*'}]|
+|name|name|Regulator_Switching : TPS62160DGK|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TPS62160DGK'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>MSOP-8_3x3mm_P0.65mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/tps62160.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'step-down dc-dc buck regulator'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '1A Step-Down Converter with DCS-Control</td><td> adjustable output</td><td> 3-17V input voltage</td><td> VSSOP-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'MSOP*3x3mm*P0.65mm*'</td></tr></table>]|
 ||||

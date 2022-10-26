@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKSENTEMPERATUREMAX3182 > MAX31820
+# SZKSENTEMPERATUREMAX3182 > Sensor_Temperature : MAX31820
 
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Temperature-MAX31820
 - Hex ID: SZKSENTEMPERATUREMAX3182
-- Name: MAX31820
-- Description: MAX31820
+- Name: Sensor_Temperature : MAX31820
+- Description: Sensor_Temperature : MAX31820
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-MAX31820](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Temperature-MAX31820)
 - Short Link: [http://oom.lt/SZKSENTEMPERATUREMAX3182](http://oom.lt/SZKSENTEMPERATUREMAX3182)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MAX31820|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Temperature-MAX31820|
 |Hex ID (short code)|hexID|SZKSENTEMPERATUREMAX3182|
-|name|name|MAX31820|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MAX31820', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-92_Inline', 'kicadSymbolDatasheet': 'http://datasheets.maximintegrated.com/en/ds/MAX31820.pdf', 'kicadSymbolki_keywords': 'OneWire 1-Wire 1Wire Maxim Dallas', 'kicadSymbolki_description': '1-Wire Ambient Temperature Sensor TO-92', 'kicadSymbolki_fp_filters': 'TO*92*'}]|
+|name|name|Sensor_Temperature : MAX31820|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MAX31820'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_THT</td></tr><tr><td>TO-92_Inline'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//datasheets.maximintegrated.com/en/ds/MAX31820.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'OneWire 1-Wire 1Wire Maxim Dallas'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '1-Wire Ambient Temperature Sensor TO-92'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TO*92*'</td></tr></table>]|
 ||||

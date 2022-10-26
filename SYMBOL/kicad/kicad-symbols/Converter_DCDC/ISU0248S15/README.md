@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKCONISU248S15 > ISU0248S15
+# SZKCONISU248S15 > Converter_DCDC : ISU0248S15
 
 - ID: SYMBOL-kicad-kicad-symbols-Converter_DCDC-ISU0248S15
 - Hex ID: SZKCONISU248S15
-- Name: ISU0248S15
-- Description: ISU0248S15
+- Name: Converter_DCDC : ISU0248S15
+- Description: Converter_DCDC : ISU0248S15
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-ISU0248S15](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-ISU0248S15)
 - Short Link: [http://oom.lt/SZKCONISU248S15](http://oom.lt/SZKCONISU248S15)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ISU0248S15|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Converter_DCDC-ISU0248S15|
 |Hex ID (short code)|hexID|SZKCONISU248S15|
-|name|name|ISU0248S15|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ISU0205S05', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ISU0248S15', 'kicadSymbolFootprint': 'Converter_DCDC:Converter_DCDC_XP_POWER-ISU02_SMD', 'kicadSymbolDatasheet': 'https://www.xppower.com/Portals/0/pdfs/SF_ISU02.pdf', 'kicadSymbolki_keywords': 'DC/DC Converter', 'kicadSymbolki_description': 'XP Power 2W Isolated DC/DC Converter Module, 15V Output Voltage, 18-75V Input Voltage', 'kicadSymbolki_fp_filters': '*XP?POWER*ISU02*SMD*'}]|
+|name|name|Converter_DCDC : ISU0248S15|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'ISU0205S05'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ISU0248S15'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Converter_DCDC</td></tr><tr><td>Converter_DCDC_XP_POWER-ISU02_SMD'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.xppower.com/Portals/0/pdfs/SF_ISU02.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'DC/DC Converter'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'XP Power 2W Isolated DC/DC Converter Module</td><td> 15V Output Voltage</td><td> 18-75V Input Voltage'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> '*XP?POWER*ISU02*SMD*'</td></tr></table>]|
 ||||

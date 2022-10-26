@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_CSP-LFCSP-32-1EP_5x5mm_P0.5mm_EP3.1x3.1mm_ThermalVias|
 |Hex ID (short code)|hexID|FZKCSPLFCSP321EP5X5P5EP31X31THERMALVIAS|
 |name|name|Package_CSP : LFCSP-32-1EP_5x5mm_P0.5mm_EP3.1x3.1mm_ThermalVias|
-|Footprint Kicad|footprintKicadDetails|{'name': 'LFCSP-32-1EP_5x5mm_P0.5mm_EP3.1x3.1mm_ThermalVias', 'description': 'LFCSP, 32 Pin (https://www.analog.com/media/en/package-pcb-resources/package/414143737956480539664569cp_32_2.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py', 'tags': 'LFCSP NoLead', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_CSP.3dshapes/LFCSP-32-1EP_5x5mm_P0.5mm_EP3.1x3.1mm.wrl', 'pins': {'type': 'smd', 'shape': 'custom'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'LFCSP-32-1EP_5x5mm_P0.5mm_EP3.1x3.1mm_ThermalVias'</td><td> 'description'</td></tr><tr><td> 'LFCSP</td><td> 32 Pin (https</td></tr><tr><td>//www.analog.com/media/en/package-pcb-resources/package/414143737956480539664569cp_32_2.pdf)</td><td> generated with kicad-footprint-generator ipc_noLead_generator.py'</td><td> 'tags'</td></tr><tr><td> 'LFCSP NoLead'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_CSP.3dshapes/LFCSP-32-1EP_5x5mm_P0.5mm_EP3.1x3.1mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'custom'</td></tr></table></td></tr></table>|
 ||||
 
 

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUNXPS8MC9S8JM16XGT > MC9S08JM16xGT
+# SZKMCUNXPS8MC9S8JM16XGT > MCU_NXP_S08 : MC9S08JM16xGT
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_NXP_S08-MC9S08JM16xGT
 - Hex ID: SZKMCUNXPS8MC9S8JM16XGT
-- Name: MC9S08JM16xGT
-- Description: MC9S08JM16xGT
+- Name: MCU_NXP_S08 : MC9S08JM16xGT
+- Description: MCU_NXP_S08 : MC9S08JM16xGT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_S08-MC9S08JM16xGT](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_S08-MC9S08JM16xGT)
 - Short Link: [http://oom.lt/SZKMCUNXPS8MC9S8JM16XGT](http://oom.lt/SZKMCUNXPS8MC9S8JM16XGT)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MC9S08JM16xGT|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_NXP_S08-MC9S08JM16xGT|
 |Hex ID (short code)|hexID|SZKMCUNXPS8MC9S8JM16XGT|
-|name|name|MC9S08JM16xGT|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MC9S08JM60xGT', 'kicadSymbolReference': 'IC', 'kicadSymbolValue': 'MC9S08JM16xGT', 'kicadSymbolFootprint': 'Package_DFN_QFN:QFN-48-1EP_7x7mm_P0.5mm_EP5.15x5.15mm', 'kicadSymbolDatasheet': 'http://cache.nxp.com/files/microcontrollers/doc/data_sheet/MC9S08JM16.pdf', 'kicadSymbolki_keywords': 'NXP S08 Microcontroller', 'kicadSymbolki_description': '8-bit USB Cost-Effective Microcontroller, S08 core, 16kB Flash, 1kB RAM, QFN-48', 'kicadSymbolki_fp_filters': 'QFN*7x7mm*P0.5mm*'}]|
+|name|name|MCU_NXP_S08 : MC9S08JM16xGT|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'MC9S08JM60xGT'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'IC'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MC9S08JM16xGT'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>QFN-48-1EP_7x7mm_P0.5mm_EP5.15x5.15mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//cache.nxp.com/files/microcontrollers/doc/data_sheet/MC9S08JM16.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'NXP S08 Microcontroller'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '8-bit USB Cost-Effective Microcontroller</td><td> S08 core</td><td> 16kB Flash</td><td> 1kB RAM</td><td> QFN-48'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'QFN*7x7mm*P0.5mm*'</td></tr></table>]|
 ||||

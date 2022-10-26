@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Display_7Segment-SBC18-11SURKCGKWA|
 |Hex ID (short code)|hexID|FZKDI7SSBC1811SURKCGKWA|
 |name|name|Display_7Segment : SBC18-11SURKCGKWA|
-|Footprint Kicad|footprintKicadDetails|{'name': 'SBC18-11SURKCGKWA', 'description': 'http://www.kingbright.com/attachments/file/psearch/000/00/00/SBC18-11SURKCGKWA(Ver.6A).pdf', 'tags': 'single digit 7 segemnt red/green LED', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Display_7Segment.3dshapes/SBC18-11SURKCGKWA.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SBC18-11SURKCGKWA'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//www.kingbright.com/attachments/file/psearch/000/00/00/SBC18-11SURKCGKWA(Ver.6A).pdf'</td><td> 'tags'</td></tr><tr><td> 'single digit 7 segemnt red/green LED'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Display_7Segment.3dshapes/SBC18-11SURKCGKWA.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

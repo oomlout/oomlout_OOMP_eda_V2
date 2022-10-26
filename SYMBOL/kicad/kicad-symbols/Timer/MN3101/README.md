@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTIMERMN311 > MN3101
+# SZKTIMERMN311 > Timer : MN3101
 
 - ID: SYMBOL-kicad-kicad-symbols-Timer-MN3101
 - Hex ID: SZKTIMERMN311
-- Name: MN3101
-- Description: MN3101
+- Name: Timer : MN3101
+- Description: Timer : MN3101
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer-MN3101](http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer-MN3101)
 - Short Link: [http://oom.lt/SZKTIMERMN311](http://oom.lt/SZKTIMERMN311)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MN3101|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Timer-MN3101|
 |Hex ID (short code)|hexID|SZKTIMERMN311|
-|name|name|MN3101|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MN3101', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.experimentalistsanonymous.com/diy/Datasheets/MN3101.pdf', 'kicadSymbolki_keywords': 'Matsushita Panasonic BBD CMOS', 'kicadSymbolki_description': 'Clock Generator Driver/Driver for MN3000 Series BBD (bucket brigade device), -8V to -16V, DIP-8', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
+|name|name|Timer : MN3101|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MN3101'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.experimentalistsanonymous.com/diy/Datasheets/MN3101.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Matsushita Panasonic BBD CMOS'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Clock Generator Driver/Driver for MN3000 Series BBD (bucket brigade device)</td><td> -8V to -16V</td><td> DIP-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W7.62mm*'</td></tr></table>]|
 ||||

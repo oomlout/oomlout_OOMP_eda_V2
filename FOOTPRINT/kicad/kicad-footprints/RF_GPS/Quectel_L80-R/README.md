@@ -29,5 +29,5 @@ NO IMAGE
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-RF_GPS-Quectel_L80-R|
 |Hex ID (short code)|hexID|FZKGPSQUECTELL8R|
 |name|name|RF_GPS : Quectel_L80-R|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Quectel_L80-R', 'description': 'Quectel L80-R GPS Module, Patch on Top, https://www.quectel.com/UploadImage/Downlad/Quectel_L80-R_Hardware_Design_V1.2.pdf', 'tags': 'quectel GPS GNSS', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/RF_GPS.3dshapes/Quectel_L80-R.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Quectel_L80-R'</td><td> 'description'</td></tr><tr><td> 'Quectel L80-R GPS Module</td><td> Patch on Top</td><td> https</td></tr><tr><td>//www.quectel.com/UploadImage/Downlad/Quectel_L80-R_Hardware_Design_V1.2.pdf'</td><td> 'tags'</td></tr><tr><td> 'quectel GPS GNSS'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/RF_GPS.3dshapes/Quectel_L80-R.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

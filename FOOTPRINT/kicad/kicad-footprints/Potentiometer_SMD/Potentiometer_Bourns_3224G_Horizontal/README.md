@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Potentiometer_SMD-Potentiometer_Bourns_3224G_Horizontal|
 |Hex ID (short code)|hexID|FZKPOTENTIOMETERSMPOTENTIOMETERBOURNS3224GHORIZONTAL|
 |name|name|Potentiometer_SMD : Potentiometer_Bourns_3224G_Horizontal|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Potentiometer_Bourns_3224G_Horizontal', 'description': 'Potentiometer, horizontal, Bourns 3224G, https://www.bourns.com/docs/Product-Datasheets/3224.pdf', 'tags': 'Potentiometer horizontal Bourns 3224G', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Potentiometer_SMD.3dshapes/Potentiometer_Bourns_3224G_Horizontal.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Potentiometer_Bourns_3224G_Horizontal'</td><td> 'description'</td></tr><tr><td> 'Potentiometer</td><td> horizontal</td><td> Bourns 3224G</td><td> https</td></tr><tr><td>//www.bourns.com/docs/Product-Datasheets/3224.pdf'</td><td> 'tags'</td></tr><tr><td> 'Potentiometer horizontal Bourns 3224G'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Potentiometer_SMD.3dshapes/Potentiometer_Bourns_3224G_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

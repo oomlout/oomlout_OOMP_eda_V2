@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSLS5PTINT1LT5P > LEDS-05-P-TINT-01-LT5P
+# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSLS5PTINT1LT5P > oomlout_OOMP_parts : LEDS-05-P-TINT-01-LT5P
 
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-LEDS-05-P-TINT-01-LT5P
 - Hex ID: SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSLS5PTINT1LT5P
-- Name: LEDS-05-P-TINT-01-LT5P
-- Description: LEDS-05-P-TINT-01-LT5P
+- Name: oomlout_OOMP_parts : LEDS-05-P-TINT-01-LT5P
+- Description: oomlout_OOMP_parts : LEDS-05-P-TINT-01-LT5P
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-LEDS-05-P-TINT-01-LT5P](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-LEDS-05-P-TINT-01-LT5P)
 - Short Link: [http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSLS5PTINT1LT5P](http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSLS5PTINT1LT5P)
   
@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|LEDS-05-P-TINT-01-LT5P|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-LEDS-05-P-TINT-01-LT5P|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSLS5PTINT1LT5P|
-|name|name|LEDS-05-P-TINT-01-LT5P|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'LEDS-05-P-TINT-01-LT5P', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:LEDS-05-P-TINT-01-LT5P', 'kicadSymbolDatasheet': 'oom.lt/LT5P', 'kicadSymbolki_keywords': 'LED diode', 'kicadSymbolki_description': 'hexID: LT5P;Light emitting diode', 'kicadSymbolki_fp_filters': 'LED* LED_SMD:* LED_THT:*'}]|
+|name|name|oomlout_OOMP_parts : LEDS-05-P-TINT-01-LT5P|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LEDS-05-P-TINT-01-LT5P'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'oomlout_OOMP_parts</td></tr><tr><td>LEDS-05-P-TINT-01-LT5P'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'oom.lt/LT5P'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'LED diode'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'hexID</td></tr><tr><td> LT5P;Light emitting diode'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'LED* LED_SMD</td></tr><tr><td>* LED_THT</td></tr><tr><td>*'</td></tr></table>]|
 ||||

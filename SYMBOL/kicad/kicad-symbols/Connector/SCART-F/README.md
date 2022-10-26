@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKCNSCARTF > SCART-F
+# SZKCNSCARTF > Connector : SCART-F
 
 - ID: SYMBOL-kicad-kicad-symbols-Connector-SCART-F
 - Hex ID: SZKCNSCARTF
-- Name: SCART-F
-- Description: SCART-F
+- Name: Connector : SCART-F
+- Description: Connector : SCART-F
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-SCART-F](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-SCART-F)
 - Short Link: [http://oom.lt/SZKCNSCARTF](http://oom.lt/SZKCNSCARTF)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SCART-F|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-SCART-F|
 |Hex ID (short code)|hexID|SZKCNSCARTF|
-|name|name|SCART-F|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'SCART-F', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ' ~', 'kicadSymbolki_keywords': 'connector', 'kicadSymbolki_description': 'Prise Peritel'}]|
+|name|name|Connector : SCART-F|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'J'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'SCART-F'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> ' ~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'connector'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Prise Peritel'</td></tr></table>]|
 ||||

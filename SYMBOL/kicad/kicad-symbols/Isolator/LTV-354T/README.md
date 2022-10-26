@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKISOLATORLTV354T > LTV-354T
+# SZKISOLATORLTV354T > Isolator : LTV-354T
 
 - ID: SYMBOL-kicad-kicad-symbols-Isolator-LTV-354T
 - Hex ID: SZKISOLATORLTV354T
-- Name: LTV-354T
-- Description: LTV-354T
+- Name: Isolator : LTV-354T
+- Description: Isolator : LTV-354T
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-LTV-354T](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-LTV-354T)
 - Short Link: [http://oom.lt/SZKISOLATORLTV354T](http://oom.lt/SZKISOLATORLTV354T)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LTV-354T|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Isolator-LTV-354T|
 |Hex ID (short code)|hexID|SZKISOLATORLTV354T|
-|name|name|LTV-354T|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LTV-354T', 'kicadSymbolFootprint': 'Package_SO:SO-4_4.4x3.6mm_P2.54mm', 'kicadSymbolDatasheet': 'http://optoelectronics.liteon.com/upload/download/DS70-2001-004/S_110_LTV-354T%2020140520.pdf', 'kicadSymbolki_keywords': 'NPN AC DC Optocoupler', 'kicadSymbolki_description': 'AC/DC Optocoupler, Vce 35V, CTR 20%, SO-4', 'kicadSymbolki_fp_filters': 'SO*4.4x3.6mm*P2.54mm*'}]|
+|name|name|Isolator : LTV-354T|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LTV-354T'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SO-4_4.4x3.6mm_P2.54mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//optoelectronics.liteon.com/upload/download/DS70-2001-004/S_110_LTV-354T%2020140520.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'NPN AC DC Optocoupler'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'AC/DC Optocoupler</td><td> Vce 35V</td><td> CTR 20%</td><td> SO-4'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SO*4.4x3.6mm*P2.54mm*'</td></tr></table>]|
 ||||

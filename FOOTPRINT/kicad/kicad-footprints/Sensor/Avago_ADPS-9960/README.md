@@ -29,5 +29,5 @@ NO IMAGE
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Sensor-Avago_ADPS-9960|
 |Hex ID (short code)|hexID|FZKSENAVAGOADPS996|
 |name|name|Sensor : Avago_ADPS-9960|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Avago_ADPS-9960', 'description': 'Digital Proximity, Ambient Light, RGB and Gesture Sensor (https://docs.broadcom.com/doc/AV02-4191EN)', 'tags': 'DFN Sensor optical IR', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Sensor.3dshapes/Avago_ADPS-9960.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Avago_ADPS-9960'</td><td> 'description'</td></tr><tr><td> 'Digital Proximity</td><td> Ambient Light</td><td> RGB and Gesture Sensor (https</td></tr><tr><td>//docs.broadcom.com/doc/AV02-4191EN)'</td><td> 'tags'</td></tr><tr><td> 'DFN Sensor optical IR'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Sensor.3dshapes/Avago_ADPS-9960.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

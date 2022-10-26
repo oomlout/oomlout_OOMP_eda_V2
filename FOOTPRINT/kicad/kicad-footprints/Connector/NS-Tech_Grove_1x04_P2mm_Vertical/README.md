@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector-NS-Tech_Grove_1x04_P2mm_Vertical|
 |Hex ID (short code)|hexID|FZKCNNSTECHGROVE1X4P2VERTICAL|
 |name|name|Connector : NS-Tech_Grove_1x04_P2mm_Vertical|
-|Footprint Kicad|footprintKicadDetails|{'name': 'NS-Tech_Grove_1x04_P2mm_Vertical', 'description': 'https://statics3.seeedstudio.com/images/opl/datasheet/3470130P1.pdf', 'tags': 'Grove-1x04', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector.3dshapes/NS-Tech_Grove_1x04_P2mm_Vertical.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'NS-Tech_Grove_1x04_P2mm_Vertical'</td><td> 'description'</td></tr><tr><td> 'https</td></tr><tr><td>//statics3.seeedstudio.com/images/opl/datasheet/3470130P1.pdf'</td><td> 'tags'</td></tr><tr><td> 'Grove-1x04'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector.3dshapes/NS-Tech_Grove_1x04_P2mm_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Radial_D21.0mm_P15.24mm_Vishay_IHB-2|
 |Hex ID (short code)|hexID|FZKINLRD21P1524VISHAYIHB2|
 |name|name|Inductor_THT : L_Radial_D21.0mm_P15.24mm_Vishay_IHB-2|
-|Footprint Kicad|footprintKicadDetails|{'name': 'L_Radial_D21.0mm_P15.24mm_Vishay_IHB-2', 'description': 'Inductor, Radial series, Radial, pin pitch=15.24mm, , diameter=21mm, Vishay, IHB-2, http://www.vishay.com/docs/34015/ihb.pdf', 'tags': 'Inductor Radial series Radial pin pitch 15.24mm  diameter 21mm Vishay IHB-2', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Radial_D21.0mm_P15.24mm_Vishay_IHB-2.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'L_Radial_D21.0mm_P15.24mm_Vishay_IHB-2'</td><td> 'description'</td></tr><tr><td> 'Inductor</td><td> Radial series</td><td> Radial</td><td> pin pitch=15.24mm</td><td> </td><td> diameter=21mm</td><td> Vishay</td><td> IHB-2</td><td> http</td></tr><tr><td>//www.vishay.com/docs/34015/ihb.pdf'</td><td> 'tags'</td></tr><tr><td> 'Inductor Radial series Radial pin pitch 15.24mm  diameter 21mm Vishay IHB-2'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Inductor_THT.3dshapes/L_Radial_D21.0mm_P15.24mm_Vishay_IHB-2.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

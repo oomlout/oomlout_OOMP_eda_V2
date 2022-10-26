@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Battery-BatteryHolder_MPD_BC2003_1x2032|
 |Hex ID (short code)|hexID|FZKBATBATHOLDERMPDBC231X232|
 |name|name|Battery : BatteryHolder_MPD_BC2003_1x2032|
-|Footprint Kicad|footprintKicadDetails|{'name': 'BatteryHolder_MPD_BC2003_1x2032', 'description': 'http://www.memoryprotectiondevices.com/datasheets/BC-2003-datasheet.pdf', 'tags': 'BC2003 CR2032 2032 Battery Holder', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Battery.3dshapes/BatteryHolder_MPD_BC2003_1x2032.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'BatteryHolder_MPD_BC2003_1x2032'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//www.memoryprotectiondevices.com/datasheets/BC-2003-datasheet.pdf'</td><td> 'tags'</td></tr><tr><td> 'BC2003 CR2032 2032 Battery Holder'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Battery.3dshapes/BatteryHolder_MPD_BC2003_1x2032.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

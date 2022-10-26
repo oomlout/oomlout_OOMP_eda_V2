@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDEVICEDSLLFILL > D_Small_Filled
+# SZKDEVICEDSLLFILL > Device : D_Small_Filled
 
 - ID: SYMBOL-kicad-kicad-symbols-Device-D_Small_Filled
 - Hex ID: SZKDEVICEDSLLFILL
-- Name: D_Small_Filled
-- Description: D_Small_Filled
+- Name: Device : D_Small_Filled
+- Description: Device : D_Small_Filled
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Small_Filled](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Small_Filled)
 - Short Link: [http://oom.lt/SZKDEVICEDSLLFILL](http://oom.lt/SZKDEVICEDSLLFILL)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|D_Small_Filled|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-D_Small_Filled|
 |Hex ID (short code)|hexID|SZKDEVICEDSLLFILL|
-|name|name|D_Small_Filled|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'D_Small_Filled', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'diode', 'kicadSymbolki_description': 'Diode, small symbol, filled shape', 'kicadSymbolki_fp_filters': 'TO-???* *_Diode_* *SingleDiode* D_*'}]|
+|name|name|Device : D_Small_Filled|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'D_Small_Filled'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'diode'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Diode</td><td> small symbol</td><td> filled shape'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TO-???* *_Diode_* *SingleDiode* D_*'</td></tr></table>]|
 ||||

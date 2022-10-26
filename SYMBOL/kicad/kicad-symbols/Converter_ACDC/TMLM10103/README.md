@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKCONTMLM113 > TMLM10103
+# SZKCONTMLM113 > Converter_ACDC : TMLM10103
 
 - ID: SYMBOL-kicad-kicad-symbols-Converter_ACDC-TMLM10103
 - Hex ID: SZKCONTMLM113
-- Name: TMLM10103
-- Description: TMLM10103
+- Name: Converter_ACDC : TMLM10103
+- Description: Converter_ACDC : TMLM10103
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_ACDC-TMLM10103](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_ACDC-TMLM10103)
 - Short Link: [http://oom.lt/SZKCONTMLM113](http://oom.lt/SZKCONTMLM113)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TMLM10103|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Converter_ACDC-TMLM10103|
 |Hex ID (short code)|hexID|SZKCONTMLM113|
-|name|name|TMLM10103|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'PS', 'kicadSymbolValue': 'TMLM10103', 'kicadSymbolFootprint': 'Converter_ACDC:Converter_ACDC_TRACO_TMLM-10-20_THT', 'kicadSymbolDatasheet': 'https://www.tracopower.com/products/tmlm.pdf', 'kicadSymbolki_keywords': 'Traco Power 10W AC-DC module power supply', 'kicadSymbolki_description': '3.3V 2500mA AC/DC low noise power module', 'kicadSymbolki_fp_filters': 'Converter*ACDC*TRACO*TMLM*10*'}]|
+|name|name|Converter_ACDC : TMLM10103|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'PS'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TMLM10103'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Converter_ACDC</td></tr><tr><td>Converter_ACDC_TRACO_TMLM-10-20_THT'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.tracopower.com/products/tmlm.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Traco Power 10W AC-DC module power supply'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '3.3V 2500mA AC/DC low noise power module'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Converter*ACDC*TRACO*TMLM*10*'</td></tr></table>]|
 ||||

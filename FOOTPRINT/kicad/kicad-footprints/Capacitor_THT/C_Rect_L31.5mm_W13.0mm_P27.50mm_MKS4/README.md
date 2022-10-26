@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-C_Rect_L31.5mm_W13.0mm_P27.50mm_MKS4|
 |Hex ID (short code)|hexID|FZKCCRECTL315W13P275MKS4|
 |name|name|Capacitor_THT : C_Rect_L31.5mm_W13.0mm_P27.50mm_MKS4|
-|Footprint Kicad|footprintKicadDetails|{'name': 'C_Rect_L31.5mm_W13.0mm_P27.50mm_MKS4', 'description': 'C, Rect series, Radial, pin pitch=27.50mm, , length*width=31.5*13mm^2, Capacitor, http://www.wima.com/EN/WIMA_MKS_4.pdf', 'tags': 'C Rect series Radial pin pitch 27.50mm  length 31.5mm width 13mm Capacitor', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Capacitor_THT.3dshapes/C_Rect_L31.5mm_W13.0mm_P27.50mm_MKS4.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'C_Rect_L31.5mm_W13.0mm_P27.50mm_MKS4'</td><td> 'description'</td></tr><tr><td> 'C</td><td> Rect series</td><td> Radial</td><td> pin pitch=27.50mm</td><td> </td><td> length*width=31.5*13mm^2</td><td> Capacitor</td><td> http</td></tr><tr><td>//www.wima.com/EN/WIMA_MKS_4.pdf'</td><td> 'tags'</td></tr><tr><td> 'C Rect series Radial pin pitch 27.50mm  length 31.5mm width 13mm Capacitor'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Capacitor_THT.3dshapes/C_Rect_L31.5mm_W13.0mm_P27.50mm_MKS4.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

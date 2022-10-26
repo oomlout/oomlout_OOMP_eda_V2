@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDEVICEDSCHOTTKYDUALSERIESKCAPARALLEL > D_Schottky_Dual_Series_KCA_Parallel
+# SZKDEVICEDSCHOTTKYDUALSERIESKCAPARALLEL > Device : D_Schottky_Dual_Series_KCA_Parallel
 
 - ID: SYMBOL-kicad-kicad-symbols-Device-D_Schottky_Dual_Series_KCA_Parallel
 - Hex ID: SZKDEVICEDSCHOTTKYDUALSERIESKCAPARALLEL
-- Name: D_Schottky_Dual_Series_KCA_Parallel
-- Description: D_Schottky_Dual_Series_KCA_Parallel
+- Name: Device : D_Schottky_Dual_Series_KCA_Parallel
+- Description: Device : D_Schottky_Dual_Series_KCA_Parallel
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Schottky_Dual_Series_KCA_Parallel](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Schottky_Dual_Series_KCA_Parallel)
 - Short Link: [http://oom.lt/SZKDEVICEDSCHOTTKYDUALSERIESKCAPARALLEL](http://oom.lt/SZKDEVICEDSCHOTTKYDUALSERIESKCAPARALLEL)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|D_Schottky_Dual_Series_KCA_Parallel|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-D_Schottky_Dual_Series_KCA_Parallel|
 |Hex ID (short code)|hexID|SZKDEVICEDSCHOTTKYDUALSERIESKCAPARALLEL|
-|name|name|D_Schottky_Dual_Series_KCA_Parallel|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'D_Schottky_Dual_Series_KCA_Parallel', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'diode', 'kicadSymbolki_description': 'Dual Schottky diode, cathode/center/anode'}]|
+|name|name|Device : D_Schottky_Dual_Series_KCA_Parallel|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'D_Schottky_Dual_Series_KCA_Parallel'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'diode'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Dual Schottky diode</td><td> cathode/center/anode'</td></tr></table>]|
 ||||

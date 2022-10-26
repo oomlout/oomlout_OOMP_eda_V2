@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDICHARACTERLTC4627JS > LTC-4627JS
+# SZKDICHARACTERLTC4627JS > Display_Character : LTC-4627JS
 
 - ID: SYMBOL-kicad-kicad-symbols-Display_Character-LTC-4627JS
 - Hex ID: SZKDICHARACTERLTC4627JS
-- Name: LTC-4627JS
-- Description: LTC-4627JS
+- Name: Display_Character : LTC-4627JS
+- Description: Display_Character : LTC-4627JS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-LTC-4627JS](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-LTC-4627JS)
 - Short Link: [http://oom.lt/SZKDICHARACTERLTC4627JS](http://oom.lt/SZKDICHARACTERLTC4627JS)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LTC-4627JS|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Display_Character-LTC-4627JS|
 |Hex ID (short code)|hexID|SZKDICHARACTERLTC4627JS|
-|name|name|LTC-4627JS|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LTC-4627JG', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LTC-4627JS', 'kicadSymbolFootprint': 'Display_7Segment:LTC-4627Jx', 'kicadSymbolDatasheet': 'http://optoelectronics.liteon.com/upload/download/DS30-2000-186/LTC-4627JS.pdf', 'kicadSymbolki_keywords': 'display LED 7-segment', 'kicadSymbolki_description': '4 digit 7 segment yellow, common anode', 'kicadSymbolki_fp_filters': 'LTC?4627J*'}]|
+|name|name|Display_Character : LTC-4627JS|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'LTC-4627JG'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LTC-4627JS'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Display_7Segment</td></tr><tr><td>LTC-4627Jx'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//optoelectronics.liteon.com/upload/download/DS30-2000-186/LTC-4627JS.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'display LED 7-segment'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '4 digit 7 segment yellow</td><td> common anode'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'LTC?4627J*'</td></tr></table>]|
 ||||

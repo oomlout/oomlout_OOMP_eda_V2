@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKAMPLIFIERAUDIOTPA6132A2RTE > TPA6132A2RTE
+# SZKAMPLIFIERAUDIOTPA6132A2RTE > Amplifier_Audio : TPA6132A2RTE
 
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Audio-TPA6132A2RTE
 - Hex ID: SZKAMPLIFIERAUDIOTPA6132A2RTE
-- Name: TPA6132A2RTE
-- Description: TPA6132A2RTE
+- Name: Amplifier_Audio : TPA6132A2RTE
+- Description: Amplifier_Audio : TPA6132A2RTE
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-TPA6132A2RTE](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-TPA6132A2RTE)
 - Short Link: [http://oom.lt/SZKAMPLIFIERAUDIOTPA6132A2RTE](http://oom.lt/SZKAMPLIFIERAUDIOTPA6132A2RTE)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TPA6132A2RTE|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Audio-TPA6132A2RTE|
 |Hex ID (short code)|hexID|SZKAMPLIFIERAUDIOTPA6132A2RTE|
-|name|name|TPA6132A2RTE|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TPA6132A2RTE', 'kicadSymbolFootprint': 'Package_DFN_QFN:WQFN-16-1EP_3x3mm_P0.5mm_EP1.6x1.6mm_ThermalVias', 'kicadSymbolDatasheet': 'https://www.ti.com/lit/ds/symlink/tpa6132a2.pdf', 'kicadSymbolki_keywords': 'DirectPath audio amplifier Stereo', 'kicadSymbolki_description': '25mW, Stereo, DirectPath Audio Amplifier, WQFN-16', 'kicadSymbolki_fp_filters': 'WQFN*1EP*3x3mm*P0.5mm*'}]|
+|name|name|Amplifier_Audio : TPA6132A2RTE|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TPA6132A2RTE'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>WQFN-16-1EP_3x3mm_P0.5mm_EP1.6x1.6mm_ThermalVias'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.ti.com/lit/ds/symlink/tpa6132a2.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'DirectPath audio amplifier Stereo'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '25mW</td><td> Stereo</td><td> DirectPath Audio Amplifier</td><td> WQFN-16'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'WQFN*1EP*3x3mm*P0.5mm*'</td></tr></table>]|
 ||||

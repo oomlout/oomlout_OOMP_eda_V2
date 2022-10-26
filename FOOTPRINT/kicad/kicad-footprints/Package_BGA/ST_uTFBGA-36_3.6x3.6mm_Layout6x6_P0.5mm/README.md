@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_BGA-ST_uTFBGA-36_3.6x3.6mm_Layout6x6_P0.5mm|
 |Hex ID (short code)|hexID|FZKBGASTUTFBGA3636X36LAYOUT6X6P5|
 |name|name|Package_BGA : ST_uTFBGA-36_3.6x3.6mm_Layout6x6_P0.5mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'ST_uTFBGA-36_3.6x3.6mm_Layout6x6_P0.5mm', 'description': 'ST uTFBGA-36, 0.25mm pad, 3.6x3.6mm, 36 Ball, 6x6 Layout, 0.5mm Pitch, https://www.st.com/resource/en/datasheet/stulpi01a.pdf', 'tags': 'BGA 36 0.5', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/ST_uTFBGA-36_3.6x3.6mm_Layout6x6_P0.5mm.wrl', 'pins': {'type': 'smd', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'ST_uTFBGA-36_3.6x3.6mm_Layout6x6_P0.5mm'</td><td> 'description'</td></tr><tr><td> 'ST uTFBGA-36</td><td> 0.25mm pad</td><td> 3.6x3.6mm</td><td> 36 Ball</td><td> 6x6 Layout</td><td> 0.5mm Pitch</td><td> https</td></tr><tr><td>//www.st.com/resource/en/datasheet/stulpi01a.pdf'</td><td> 'tags'</td></tr><tr><td> 'BGA 36 0.5'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_BGA.3dshapes/ST_uTFBGA-36_3.6x3.6mm_Layout6x6_P0.5mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

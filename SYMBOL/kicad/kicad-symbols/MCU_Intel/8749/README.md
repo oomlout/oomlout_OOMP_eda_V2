@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUINTEL8749 > 8749
+# SZKMCUINTEL8749 > MCU_Intel : 8749
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Intel-8749
 - Hex ID: SZKMCUINTEL8749
-- Name: 8749
-- Description: 8749
+- Name: MCU_Intel : 8749
+- Description: MCU_Intel : 8749
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Intel-8749](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Intel-8749)
 - Short Link: [http://oom.lt/SZKMCUINTEL8749](http://oom.lt/SZKMCUINTEL8749)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|8749|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Intel-8749|
 |Hex ID (short code)|hexID|SZKMCUINTEL8749|
-|name|name|8749|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '8748', 'kicadSymbolReference': 'U', 'kicadSymbolValue': '8749', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_keywords': 'MCS-48 uC Microcontroller', 'kicadSymbolki_description': 'i8748, MCS-48 8-bit Microcontroller with Internal EPROM, 2KB EPROM, 128B RAM, DIP-40', 'kicadSymbolki_fp_filters': 'DIP* PDIP*'}]|
+|name|name|MCU_Intel : 8749|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> '8748'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> '8749'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'MCS-48 uC Microcontroller'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'i8748</td><td> MCS-48 8-bit Microcontroller with Internal EPROM</td><td> 2KB EPROM</td><td> 128B RAM</td><td> DIP-40'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP* PDIP*'</td></tr></table>]|
 ||||

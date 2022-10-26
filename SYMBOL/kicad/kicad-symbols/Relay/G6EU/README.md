@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKRELAYG6EU > G6EU
+# SZKRELAYG6EU > Relay : G6EU
 
 - ID: SYMBOL-kicad-kicad-symbols-Relay-G6EU
 - Hex ID: SZKRELAYG6EU
-- Name: G6EU
-- Description: G6EU
+- Name: Relay : G6EU
+- Description: Relay : G6EU
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-G6EU](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-G6EU)
 - Short Link: [http://oom.lt/SZKRELAYG6EU](http://oom.lt/SZKRELAYG6EU)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|G6EU|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Relay-G6EU|
 |Hex ID (short code)|hexID|SZKRELAYG6EU|
-|name|name|G6EU|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'K', 'kicadSymbolValue': 'G6EU', 'kicadSymbolFootprint': 'Relay_THT:Relay_SPDT_Omron_G6E', 'kicadSymbolDatasheet': 'https://www.omron.com/ecb/products/pdf/en-g6e.pdf', 'kicadSymbolki_keywords': 'Single Pole Relay SPDT', 'kicadSymbolki_description': 'Omron G6E relay, Subminiature, Sensitive SPDT Signal Switching Relay, Single-winding latching', 'kicadSymbolki_fp_filters': 'Relay*SPDT*Omron*G6E*'}]|
+|name|name|Relay : G6EU|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'K'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'G6EU'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Relay_THT</td></tr><tr><td>Relay_SPDT_Omron_G6E'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.omron.com/ecb/products/pdf/en-g6e.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Single Pole Relay SPDT'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Omron G6E relay</td><td> Subminiature</td><td> Sensitive SPDT Signal Switching Relay</td><td> Single-winding latching'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Relay*SPDT*Omron*G6E*'</td></tr></table>]|
 ||||

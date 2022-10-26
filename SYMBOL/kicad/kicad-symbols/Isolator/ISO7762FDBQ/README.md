@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKISOLATORISO7762FDBQ > ISO7762FDBQ
+# SZKISOLATORISO7762FDBQ > Isolator : ISO7762FDBQ
 
 - ID: SYMBOL-kicad-kicad-symbols-Isolator-ISO7762FDBQ
 - Hex ID: SZKISOLATORISO7762FDBQ
-- Name: ISO7762FDBQ
-- Description: ISO7762FDBQ
+- Name: Isolator : ISO7762FDBQ
+- Description: Isolator : ISO7762FDBQ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-ISO7762FDBQ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-ISO7762FDBQ)
 - Short Link: [http://oom.lt/SZKISOLATORISO7762FDBQ](http://oom.lt/SZKISOLATORISO7762FDBQ)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ISO7762FDBQ|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Isolator-ISO7762FDBQ|
 |Hex ID (short code)|hexID|SZKISOLATORISO7762FDBQ|
-|name|name|ISO7762FDBQ|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ISO7762DBQ', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ISO7762FDBQ', 'kicadSymbolFootprint': 'Package_SO:SSOP-16_3.9x4.9mm_P0.635mm', 'kicadSymbolDatasheet': 'https://www.ti.com/lit/ds/symlink/iso7763.pdf?ts=1596905577895', 'kicadSymbolki_keywords': '6 channel digital isolator', 'kicadSymbolki_description': 'Default low, High-speed, robust EMC, reinforced, six-channel, digital, isolator, SSOP-16', 'kicadSymbolki_fp_filters': 'SSOP*3.9x4.9mm*P0.635mm*'}]|
+|name|name|Isolator : ISO7762FDBQ|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'ISO7762DBQ'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ISO7762FDBQ'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SSOP-16_3.9x4.9mm_P0.635mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.ti.com/lit/ds/symlink/iso7763.pdf?ts=1596905577895'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> '6 channel digital isolator'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Default low</td><td> High-speed</td><td> robust EMC</td><td> reinforced</td><td> six-channel</td><td> digital</td><td> isolator</td><td> SSOP-16'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SSOP*3.9x4.9mm*P0.635mm*'</td></tr></table>]|
 ||||

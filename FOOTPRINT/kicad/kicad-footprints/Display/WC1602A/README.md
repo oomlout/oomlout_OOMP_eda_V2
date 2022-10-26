@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Display-WC1602A|
 |Hex ID (short code)|hexID|FZKDIWC162A|
 |name|name|Display : WC1602A|
-|Footprint Kicad|footprintKicadDetails|{'name': 'WC1602A', 'description': 'LCD 16x2 http://www.wincomlcd.com/pdf/WC1602A-SFYLYHTC06.pdf', 'tags': 'LCD 16x2 Alphanumeric 16pin', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Display.3dshapes/WC1602A.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'WC1602A'</td><td> 'description'</td></tr><tr><td> 'LCD 16x2 http</td></tr><tr><td>//www.wincomlcd.com/pdf/WC1602A-SFYLYHTC06.pdf'</td><td> 'tags'</td></tr><tr><td> 'LCD 16x2 Alphanumeric 16pin'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Display.3dshapes/WC1602A.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

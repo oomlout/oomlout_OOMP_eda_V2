@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Bourns_SRR1208_12.7x12.7mm|
 |Hex ID (short code)|hexID|FZKINDUCTORSMLBOURNSSRR128127X127|
 |name|name|Inductor_SMD : L_Bourns_SRR1208_12.7x12.7mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'L_Bourns_SRR1208_12.7x12.7mm', 'description': 'Bourns SRP1208 series SMD inductor https://www.bourns.com/pdfs/SRR1208.pdf', 'tags': 'Bourns SRP1208 SMD inductor', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Bourns_SRR1208_12.7x12.7mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'L_Bourns_SRR1208_12.7x12.7mm'</td><td> 'description'</td></tr><tr><td> 'Bourns SRP1208 series SMD inductor https</td></tr><tr><td>//www.bourns.com/pdfs/SRR1208.pdf'</td><td> 'tags'</td></tr><tr><td> 'Bourns SRP1208 SMD inductor'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Inductor_SMD.3dshapes/L_Bourns_SRR1208_12.7x12.7mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

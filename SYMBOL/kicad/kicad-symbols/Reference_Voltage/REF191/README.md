@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREFERENCEVOLTAGEREF191 > REF191
+# SZKREFERENCEVOLTAGEREF191 > Reference_Voltage : REF191
 
 - ID: SYMBOL-kicad-kicad-symbols-Reference_Voltage-REF191
 - Hex ID: SZKREFERENCEVOLTAGEREF191
-- Name: REF191
-- Description: REF191
+- Name: Reference_Voltage : REF191
+- Description: Reference_Voltage : REF191
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-REF191](http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-REF191)
 - Short Link: [http://oom.lt/SZKREFERENCEVOLTAGEREF191](http://oom.lt/SZKREFERENCEVOLTAGEREF191)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|REF191|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Reference_Voltage-REF191|
 |Hex ID (short code)|hexID|SZKREFERENCEVOLTAGEREF191|
-|name|name|REF191|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'REF191', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.analog.com/static/imported-files/data_sheets/REF19xSeries.pdf', 'kicadSymbolki_keywords': 'Precision voltage references', 'kicadSymbolki_description': 'Precision voltage references 2.048V, DIP-8/SO-8/TSSOP-8', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm* SOIC*3.9x4.9m*P1.27mm* TSSOP*4.4x3mm*P0.65mm*'}]|
+|name|name|Reference_Voltage : REF191|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'REF191'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/static/imported-files/data_sheets/REF19xSeries.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Precision voltage references'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Precision voltage references 2.048V</td><td> DIP-8/SO-8/TSSOP-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W7.62mm* SOIC*3.9x4.9m*P1.27mm* TSSOP*4.4x3mm*P0.65mm*'</td></tr></table>]|
 ||||

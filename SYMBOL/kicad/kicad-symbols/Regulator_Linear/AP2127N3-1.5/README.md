@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORLINEARAP2127N315 > AP2127N3-1.5
+# SZKREGULATORLINEARAP2127N315 > Regulator_Linear : AP2127N3-1.5
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-AP2127N3-1.5
 - Hex ID: SZKREGULATORLINEARAP2127N315
-- Name: AP2127N3-1.5
-- Description: AP2127N3-1.5
+- Name: Regulator_Linear : AP2127N3-1.5
+- Description: Regulator_Linear : AP2127N3-1.5
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-AP2127N3-1.5](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-AP2127N3-1.5)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARAP2127N315](http://oom.lt/SZKREGULATORLINEARAP2127N315)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AP2127N3-1.5|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-AP2127N3-1.5|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARAP2127N315|
-|name|name|AP2127N3-1.5|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'AP2127N3-1.2', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AP2127N3-1.5', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TSOT-23', 'kicadSymbolDatasheet': 'https://www.diodes.com/assets/Datasheets/AP2127.pdf', 'kicadSymbolki_keywords': 'linear regulator ldo fixed positive', 'kicadSymbolki_description': '300mA low dropout linear regulator, shutdown pin, 2.5V-6V input voltage, 1.5V fixed positive output, SOT-23-3 package', 'kicadSymbolki_fp_filters': 'TSOT?23*'}]|
+|name|name|Regulator_Linear : AP2127N3-1.5|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'AP2127N3-1.2'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'AP2127N3-1.5'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>TSOT-23'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.diodes.com/assets/Datasheets/AP2127.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'linear regulator ldo fixed positive'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '300mA low dropout linear regulator</td><td> shutdown pin</td><td> 2.5V-6V input voltage</td><td> 1.5V fixed positive output</td><td> SOT-23-3 package'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TSOT?23*'</td></tr></table>]|
 ||||

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-OptoDevice-Everlight_ITR9608-F|
 |Hex ID (short code)|hexID|FZKOPEVERLIGHTITR968F|
 |name|name|OptoDevice : Everlight_ITR9608-F|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Everlight_ITR9608-F', 'description': 'Fork-type photointerrupter (https://everlighteurope.com/index.php?controller=attachment&id_attachment=5389)', 'tags': 'Photointerrupter infrared LED', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/Everlight_ITR9608-F.wrl', 'pins': {'type': 'thru_hole', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Everlight_ITR9608-F'</td><td> 'description'</td></tr><tr><td> 'Fork-type photointerrupter (https</td></tr><tr><td>//everlighteurope.com/index.php?controller=attachment&id_attachment=5389)'</td><td> 'tags'</td></tr><tr><td> 'Photointerrupter infrared LED'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/OptoDevice.3dshapes/Everlight_ITR9608-F.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

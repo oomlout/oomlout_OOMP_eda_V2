@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_C_Receptacle_GCT_USB4115-03-C|
 |Hex ID (short code)|hexID|FZKCNUUCRECEPTACLEGCTU41153C|
 |name|name|Connector_USB : USB_C_Receptacle_GCT_USB4115-03-C|
-|Footprint Kicad|footprintKicadDetails|{'name': 'USB_C_Receptacle_GCT_USB4115-03-C', 'description': 'USB TYPE C, VERT RCPT PCB, SMT, https://gct.co/files/drawings/usb4115.pdf', 'tags': 'USB C Type-C Receptacle SMD', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_USB.3dshapes/USB_C_Receptacle_GCT_USB4115-03-C.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'USB_C_Receptacle_GCT_USB4115-03-C'</td><td> 'description'</td></tr><tr><td> 'USB TYPE C</td><td> VERT RCPT PCB</td><td> SMT</td><td> https</td></tr><tr><td>//gct.co/files/drawings/usb4115.pdf'</td><td> 'tags'</td></tr><tr><td> 'USB C Type-C Receptacle SMD'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_USB.3dshapes/USB_C_Receptacle_GCT_USB4115-03-C.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

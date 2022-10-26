@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZK74XX74AHCT374 > 74AHCT374
+# SZK74XX74AHCT374 > 74xx : 74AHCT374
 
 - ID: SYMBOL-kicad-kicad-symbols-74xx-74AHCT374
 - Hex ID: SZK74XX74AHCT374
-- Name: 74AHCT374
-- Description: 74AHCT374
+- Name: 74xx : 74AHCT374
+- Description: 74xx : 74AHCT374
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx-74AHCT374](http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx-74AHCT374)
 - Short Link: [http://oom.lt/SZK74XX74AHCT374](http://oom.lt/SZK74XX74AHCT374)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74AHCT374|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xx-74AHCT374|
 |Hex ID (short code)|hexID|SZK74XX74AHCT374|
-|name|name|74AHCT374|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '74LS374', 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74AHCT374', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://assets.nexperia.com/documents/data-sheet/74AHC_AHCT374.pdf', 'kicadSymbolki_keywords': 'AHCTMOS DFF DFF8 REG 3State', 'kicadSymbolki_description': '8-bit Register, 3-state outputs', 'kicadSymbolki_fp_filters': 'DIP?20* SOIC?20* SO?20*'}]|
+|name|name|74xx : 74AHCT374|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> '74LS374'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> '74AHCT374'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//assets.nexperia.com/documents/data-sheet/74AHC_AHCT374.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'AHCTMOS DFF DFF8 REG 3State'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '8-bit Register</td><td> 3-state outputs'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP?20* SOIC?20* SO?20*'</td></tr></table>]|
 ||||

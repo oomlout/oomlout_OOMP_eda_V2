@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORFETBSC196N1NSG > BSC196N10NSG
+# SZKTRANSISTORFETBSC196N1NSG > Transistor_FET : BSC196N10NSG
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-BSC196N10NSG
 - Hex ID: SZKTRANSISTORFETBSC196N1NSG
-- Name: BSC196N10NSG
-- Description: BSC196N10NSG
+- Name: Transistor_FET : BSC196N10NSG
+- Description: Transistor_FET : BSC196N10NSG
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BSC196N10NSG](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BSC196N10NSG)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETBSC196N1NSG](http://oom.lt/SZKTRANSISTORFETBSC196N1NSG)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BSC196N10NSG|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-BSC196N10NSG|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETBSC196N1NSG|
-|name|name|BSC196N10NSG|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'CSD17578Q5A', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'BSC196N10NSG', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TDSON-8-1', 'kicadSymbolDatasheet': 'http://www.infineon.com/dgdl/Infineon-BSC196N10NS-DS-v01_07-en.pdf?fileId=db3a3043163797a601164800549d071f', 'kicadSymbolki_keywords': 'OptiMOS Power MOSFET N-MOS', 'kicadSymbolki_description': '45A Id, 100V Vds, OptiMOS N-Channel Power MOSFET, 19.6mOhm Ron, Qg (typ) 25.0nC, PG-TDSON-8', 'kicadSymbolki_fp_filters': 'TDSON*'}]|
+|name|name|Transistor_FET : BSC196N10NSG|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'CSD17578Q5A'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'BSC196N10NSG'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>TDSON-8-1'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.infineon.com/dgdl/Infineon-BSC196N10NS-DS-v01_07-en.pdf?fileId=db3a3043163797a601164800549d071f'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'OptiMOS Power MOSFET N-MOS'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '45A Id</td><td> 100V Vds</td><td> OptiMOS N-Channel Power MOSFET</td><td> 19.6mOhm Ron</td><td> Qg (typ) 25.0nC</td><td> PG-TDSON-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TDSON*'</td></tr></table>]|
 ||||

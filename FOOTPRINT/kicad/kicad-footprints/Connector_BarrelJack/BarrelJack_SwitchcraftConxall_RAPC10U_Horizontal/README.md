@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_BarrelJack-BarrelJack_SwitchcraftConxall_RAPC10U_Horizontal|
 |Hex ID (short code)|hexID|FZKCNBARRELJBARRELJSWITCHCRAFTCONXALLRAPC1UHORIZONTAL|
 |name|name|Connector_BarrelJack : BarrelJack_SwitchcraftConxall_RAPC10U_Horizontal|
-|Footprint Kicad|footprintKicadDetails|{'name': 'BarrelJack_SwitchcraftConxall_RAPC10U_Horizontal', 'description': 'DC Power Jack, 13A, 24V, Panel Mount,Through-hole, https://www.switchcraft.com/Drawings/RAPC10U_CD.pdf', 'tags': 'barreljack switchcraftconxall dc power', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_BarrelJack.3dshapes/BarrelJack_SwitchcraftConxall_RAPC10U_Horizontal.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'BarrelJack_SwitchcraftConxall_RAPC10U_Horizontal'</td><td> 'description'</td></tr><tr><td> 'DC Power Jack</td><td> 13A</td><td> 24V</td><td> Panel Mount</td><td>Through-hole</td><td> https</td></tr><tr><td>//www.switchcraft.com/Drawings/RAPC10U_CD.pdf'</td><td> 'tags'</td></tr><tr><td> 'barreljack switchcraftconxall dc power'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_BarrelJack.3dshapes/BarrelJack_SwitchcraftConxall_RAPC10U_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

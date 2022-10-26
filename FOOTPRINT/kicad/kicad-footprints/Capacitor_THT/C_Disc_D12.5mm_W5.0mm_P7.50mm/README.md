@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-C_Disc_D12.5mm_W5.0mm_P7.50mm|
 |Hex ID (short code)|hexID|FZKCCDISCD125W5P75|
 |name|name|Capacitor_THT : C_Disc_D12.5mm_W5.0mm_P7.50mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'C_Disc_D12.5mm_W5.0mm_P7.50mm', 'description': 'C, Disc series, Radial, pin pitch=7.50mm, , diameter*width=12.5*5.0mm^2, Capacitor, http://www.vishay.com/docs/28535/vy2series.pdf', 'tags': 'C Disc series Radial pin pitch 7.50mm  diameter 12.5mm width 5.0mm Capacitor', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Capacitor_THT.3dshapes/C_Disc_D12.5mm_W5.0mm_P7.50mm.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'C_Disc_D12.5mm_W5.0mm_P7.50mm'</td><td> 'description'</td></tr><tr><td> 'C</td><td> Disc series</td><td> Radial</td><td> pin pitch=7.50mm</td><td> </td><td> diameter*width=12.5*5.0mm^2</td><td> Capacitor</td><td> http</td></tr><tr><td>//www.vishay.com/docs/28535/vy2series.pdf'</td><td> 'tags'</td></tr><tr><td> 'C Disc series Radial pin pitch 7.50mm  diameter 12.5mm width 5.0mm Capacitor'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Capacitor_THT.3dshapes/C_Disc_D12.5mm_W5.0mm_P7.50mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

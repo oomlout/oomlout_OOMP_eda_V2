@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Switch_Toggle_ATE1D-2M3-10-Z|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSWITCHTOGGLEATE1D2M31Z|
 |name|name|digikey-footprints : Switch_Toggle_ATE1D-2M3-10-Z|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Switch_Toggle_ATE1D-2M3-10-Z', 'description': 'https://www.nidec-copal-electronics.com/e/catalog/switch/ate.pdf', 'tags': None, 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Switch_Toggle_ATE1D-2M3-10-Z'</td><td> 'description'</td></tr><tr><td> 'https</td></tr><tr><td>//www.nidec-copal-electronics.com/e/catalog/switch/ate.pdf'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

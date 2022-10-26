@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Button_Switch_Keyboard-SW_Matias_1.50u|
 |Hex ID (short code)|hexID|FZKBSWMATIAS15U|
 |name|name|Button_Switch_Keyboard : SW_Matias_1.50u|
-|Footprint Kicad|footprintKicadDetails|{'name': 'SW_Matias_1.50u', 'description': 'Matias/ALPS keyswitch, 1.50u, http://matias.ca/switches/', 'tags': 'Matias ALPS keyswitch 1.50u', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Matias_1.50u.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SW_Matias_1.50u'</td><td> 'description'</td></tr><tr><td> 'Matias/ALPS keyswitch</td><td> 1.50u</td><td> http</td></tr><tr><td>//matias.ca/switches/'</td><td> 'tags'</td></tr><tr><td> 'Matias ALPS keyswitch 1.50u'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Button_Switch_Keyboard.3dshapes/SW_Matias_1.50u.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

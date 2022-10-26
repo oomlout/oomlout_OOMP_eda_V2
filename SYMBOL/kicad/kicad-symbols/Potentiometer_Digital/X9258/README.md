@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKPOTENTIOMETERDIGITALX9258 > X9258
+# SZKPOTENTIOMETERDIGITALX9258 > Potentiometer_Digital : X9258
 
 - ID: SYMBOL-kicad-kicad-symbols-Potentiometer_Digital-X9258
 - Hex ID: SZKPOTENTIOMETERDIGITALX9258
-- Name: X9258
-- Description: X9258
+- Name: Potentiometer_Digital : X9258
+- Description: Potentiometer_Digital : X9258
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Potentiometer_Digital-X9258](http://oom.lt/SYMBOL-kicad-kicad-symbols-Potentiometer_Digital-X9258)
 - Short Link: [http://oom.lt/SZKPOTENTIOMETERDIGITALX9258](http://oom.lt/SZKPOTENTIOMETERDIGITALX9258)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|X9258|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Potentiometer_Digital-X9258|
 |Hex ID (short code)|hexID|SZKPOTENTIOMETERDIGITALX9258|
-|name|name|X9258|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'X9258', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.intersil.com/content/dam/intersil/documents/x925/x9258.pdf', 'kicadSymbolki_keywords': 'potentiometer resistor variable digital', 'kicadSymbolki_description': 'Quad 50k Digital Potentiometer, 256 steps, TSSOP-24/SOIC-24', 'kicadSymbolki_fp_filters': 'SOIC*7.5x15.4mm*P1.27mm* TSSOP*4.4x7.8mm*P0.65mm*'}]|
+|name|name|Potentiometer_Digital : X9258|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'X9258'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.intersil.com/content/dam/intersil/documents/x925/x9258.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'potentiometer resistor variable digital'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Quad 50k Digital Potentiometer</td><td> 256 steps</td><td> TSSOP-24/SOIC-24'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*7.5x15.4mm*P1.27mm* TSSOP*4.4x7.8mm*P0.65mm*'</td></tr></table>]|
 ||||

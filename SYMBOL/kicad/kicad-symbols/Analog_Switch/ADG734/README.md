@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKANALOGSWITCHADG734 > ADG734
+# SZKANALOGSWITCHADG734 > Analog_Switch : ADG734
 
 - ID: SYMBOL-kicad-kicad-symbols-Analog_Switch-ADG734
 - Hex ID: SZKANALOGSWITCHADG734
-- Name: ADG734
-- Description: ADG734
+- Name: Analog_Switch : ADG734
+- Description: Analog_Switch : ADG734
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-ADG734](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-ADG734)
 - Short Link: [http://oom.lt/SZKANALOGSWITCHADG734](http://oom.lt/SZKANALOGSWITCHADG734)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ADG734|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_Switch-ADG734|
 |Hex ID (short code)|hexID|SZKANALOGSWITCHADG734|
-|name|name|ADG734|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ADG734', 'kicadSymbolFootprint': 'Package_SO:TSSOP-20_4.4x6.5mm_P0.65mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/ADG733_734.pdf', 'kicadSymbolki_keywords': 'CMOS Analog Switch', 'kicadSymbolki_description': 'Quad SPDT CMOS Analog Switch, 2.5Ohm Ron, TSSOP-20', 'kicadSymbolki_fp_filters': 'TSSOP*4.4x6.5mm*P0.65mm*'}]|
+|name|name|Analog_Switch : ADG734|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ADG734'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>TSSOP-20_4.4x6.5mm_P0.65mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/ADG733_734.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'CMOS Analog Switch'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Quad SPDT CMOS Analog Switch</td><td> 2.5Ohm Ron</td><td> TSSOP-20'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TSSOP*4.4x6.5mm*P0.65mm*'</td></tr></table>]|
 ||||

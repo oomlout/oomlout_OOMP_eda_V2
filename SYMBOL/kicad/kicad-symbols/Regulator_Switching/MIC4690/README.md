@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORSWITCHINGMIC469 > MIC4690
+# SZKREGULATORSWITCHINGMIC469 > Regulator_Switching : MIC4690
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-MIC4690
 - Hex ID: SZKREGULATORSWITCHINGMIC469
-- Name: MIC4690
-- Description: MIC4690
+- Name: Regulator_Switching : MIC4690
+- Description: Regulator_Switching : MIC4690
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-MIC4690](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-MIC4690)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGMIC469](http://oom.lt/SZKREGULATORSWITCHINGMIC469)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MIC4690|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-MIC4690|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGMIC469|
-|name|name|MIC4690|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MIC4690', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/mic4690.pdf', 'kicadSymbolki_keywords': 'regulator switching adjustable', 'kicadSymbolki_description': '1A, 500kHz SuperSwitcher Buck Regulator, 4-34V Input Voltage, Adjustable Output Voltage, SO-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm*'}]|
+|name|name|Regulator_Switching : MIC4690|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MIC4690'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-8_3.9x4.9mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/mic4690.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'regulator switching adjustable'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '1A</td><td> 500kHz SuperSwitcher Buck Regulator</td><td> 4-34V Input Voltage</td><td> Adjustable Output Voltage</td><td> SO-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*3.9x4.9mm*P1.27mm*'</td></tr></table>]|
 ||||

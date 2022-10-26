@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_CSP-ST_WLCSP-81_Die421|
 |Hex ID (short code)|hexID|FZKCSPSTWLCSP81DIE421|
 |name|name|Package_CSP : ST_WLCSP-81_Die421|
-|Footprint Kicad|footprintKicadDetails|{'name': 'ST_WLCSP-81_Die421', 'description': 'WLCSP-81, 9x9 raster, 3.693x3.815mm package, pitch 0.4mm; see section 7.6 of http://www.st.com/resource/en/datasheet/stm32f446ze.pdf', 'tags': 'BGA 81 0.4', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_CSP.3dshapes/ST_WLCSP-81_Die421.wrl', 'pins': {'type': 'smd', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'ST_WLCSP-81_Die421'</td><td> 'description'</td></tr><tr><td> 'WLCSP-81</td><td> 9x9 raster</td><td> 3.693x3.815mm package</td><td> pitch 0.4mm; see section 7.6 of http</td></tr><tr><td>//www.st.com/resource/en/datasheet/stm32f446ze.pdf'</td><td> 'tags'</td></tr><tr><td> 'BGA 81 0.4'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_CSP.3dshapes/ST_WLCSP-81_Die421.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

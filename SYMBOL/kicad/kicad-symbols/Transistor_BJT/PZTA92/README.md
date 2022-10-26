@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORBJTPZTA92 > PZTA92
+# SZKTRANSISTORBJTPZTA92 > Transistor_BJT : PZTA92
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-PZTA92
 - Hex ID: SZKTRANSISTORBJTPZTA92
-- Name: PZTA92
-- Description: PZTA92
+- Name: Transistor_BJT : PZTA92
+- Description: Transistor_BJT : PZTA92
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-PZTA92](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-PZTA92)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTPZTA92](http://oom.lt/SZKTRANSISTORBJTPZTA92)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PZTA92|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_BJT-PZTA92|
 |Hex ID (short code)|hexID|SZKTRANSISTORBJTPZTA92|
-|name|name|PZTA92|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'PZTA92', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-223-3_TabPin2', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pub/Collateral/PZTA92T1-D.PDF', 'kicadSymbolki_keywords': 'PNP High Voltage Transistor', 'kicadSymbolki_description': '0.5A Ic, 300V Vce, PNP High Voltage Transistor, SOT-223', 'kicadSymbolki_fp_filters': 'SOT?223*'}]|
+|name|name|Transistor_BJT : PZTA92|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'PZTA92'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-223-3_TabPin2'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.onsemi.com/pub/Collateral/PZTA92T1-D.PDF'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'PNP High Voltage Transistor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '0.5A Ic</td><td> 300V Vce</td><td> PNP High Voltage Transistor</td><td> SOT-223'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?223*'</td></tr></table>]|
 ||||

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0815_2038Metric_Pad1.20x4.05mm_HandSolder|
 |Hex ID (short code)|hexID|FZKRESISTORSMR815238METRICPAD12X45HANDSOLDER|
 |name|name|Resistor_SMD : R_0815_2038Metric_Pad1.20x4.05mm_HandSolder|
-|Footprint Kicad|footprintKicadDetails|{'name': 'R_0815_2038Metric_Pad1.20x4.05mm_HandSolder', 'description': 'Resistor SMD 0815 (2038 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: https://www.susumu.co.jp/common/pdf/n_catalog_partition07_en.pdf), generated with kicad-footprint-generator', 'tags': 'resistor handsolder', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0815_2038Metric.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'R_0815_2038Metric_Pad1.20x4.05mm_HandSolder'</td><td> 'description'</td></tr><tr><td> 'Resistor SMD 0815 (2038 Metric)</td><td> square (rectangular) end terminal</td><td> IPC_7351 nominal with elongated pad for handsoldering. (Body size source</td></tr><tr><td> https</td></tr><tr><td>//www.susumu.co.jp/common/pdf/n_catalog_partition07_en.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'resistor handsolder'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Resistor_SMD.3dshapes/R_0815_2038Metric.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKSIMULATIONSPICEVTRNOISE > VTRNOISE
+# SZKSIMULATIONSPICEVTRNOISE > Simulation_SPICE : VTRNOISE
 
 - ID: SYMBOL-kicad-kicad-symbols-Simulation_SPICE-VTRNOISE
 - Hex ID: SZKSIMULATIONSPICEVTRNOISE
-- Name: VTRNOISE
-- Description: VTRNOISE
+- Name: Simulation_SPICE : VTRNOISE
+- Description: Simulation_SPICE : VTRNOISE
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Simulation_SPICE-VTRNOISE](http://oom.lt/SYMBOL-kicad-kicad-symbols-Simulation_SPICE-VTRNOISE)
 - Short Link: [http://oom.lt/SZKSIMULATIONSPICEVTRNOISE](http://oom.lt/SZKSIMULATIONSPICEVTRNOISE)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|VTRNOISE|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Simulation_SPICE-VTRNOISE|
 |Hex ID (short code)|hexID|SZKSIMULATIONSPICEVTRNOISE|
-|name|name|VTRNOISE|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'V', 'kicadSymbolValue': 'VTRNOISE', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolSpice_Netlist_Enabled': 'Y', 'kicadSymbolSpice_Primitive': 'V', 'kicadSymbolSpice_Model': 'trnoise(20n 0.5n 0 0)', 'kicadSymbolki_keywords': 'simulation', 'kicadSymbolki_description': 'Voltage source, transient noise'}]|
+|name|name|Simulation_SPICE : VTRNOISE|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'V'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'VTRNOISE'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolSpice_Netlist_Enabled'</td></tr><tr><td> 'Y'</td><td> 'kicadSymbolSpice_Primitive'</td></tr><tr><td> 'V'</td><td> 'kicadSymbolSpice_Model'</td></tr><tr><td> 'trnoise(20n 0.5n 0 0)'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'simulation'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Voltage source</td><td> transient noise'</td></tr></table>]|
 ||||

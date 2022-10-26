@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKISOLATORPC827 > PC827
+# SZKISOLATORPC827 > Isolator : PC827
 
 - ID: SYMBOL-kicad-kicad-symbols-Isolator-PC827
 - Hex ID: SZKISOLATORPC827
-- Name: PC827
-- Description: PC827
+- Name: Isolator : PC827
+- Description: Isolator : PC827
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-PC827](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-PC827)
 - Short Link: [http://oom.lt/SZKISOLATORPC827](http://oom.lt/SZKISOLATORPC827)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PC827|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Isolator-PC827|
 |Hex ID (short code)|hexID|SZKISOLATORPC827|
-|name|name|PC827|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PC827', 'kicadSymbolFootprint': 'Package_DIP:DIP-8_W7.62mm', 'kicadSymbolDatasheet': 'http://optoelectronics.liteon.com/upload/download/DS-70-96-0016/LTV-8X7%20series.PDF', 'kicadSymbolki_keywords': 'NPN DC Dual Optocoupler', 'kicadSymbolki_description': 'Dual DC Optocoupler, Vce 35V, CTR 50%, DIP-8', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
+|name|name|Isolator : PC827|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'PC827'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>DIP-8_W7.62mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//optoelectronics.liteon.com/upload/download/DS-70-96-0016/LTV-8X7%20series.PDF'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'NPN DC Dual Optocoupler'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Dual DC Optocoupler</td><td> Vce 35V</td><td> CTR 50%</td><td> DIP-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W7.62mm*'</td></tr></table>]|
 ||||

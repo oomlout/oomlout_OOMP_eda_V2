@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_AMASS-AMASS_XT30UPB-F_1x02_P5.0mm_Vertical|
 |Hex ID (short code)|hexID|FZKCNAMASSAMASSXT3UPBF1X2P5VERTICAL|
 |name|name|Connector_AMASS : AMASS_XT30UPB-F_1x02_P5.0mm_Vertical|
-|Footprint Kicad|footprintKicadDetails|{'name': 'AMASS_XT30UPB-F_1x02_P5.0mm_Vertical', 'description': 'Connector XT30 Vertical PCB Female, https://www.tme.eu/en/Document/4acc913878197f8c2e30d4b8cdc47230/XT30UPB%20SPEC.pdf', 'tags': 'RC Connector XT30', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_AMASS.3dshapes/AMASS_XT30UPB-F_1x02_P5.0mm_Vertical.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'AMASS_XT30UPB-F_1x02_P5.0mm_Vertical'</td><td> 'description'</td></tr><tr><td> 'Connector XT30 Vertical PCB Female</td><td> https</td></tr><tr><td>//www.tme.eu/en/Document/4acc913878197f8c2e30d4b8cdc47230/XT30UPB%20SPEC.pdf'</td><td> 'tags'</td></tr><tr><td> 'RC Connector XT30'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_AMASS.3dshapes/AMASS_XT30UPB-F_1x02_P5.0mm_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDEVICEQTRIACA1A2G > Q_TRIAC_A1A2G
+# SZKDEVICEQTRIACA1A2G > Device : Q_TRIAC_A1A2G
 
 - ID: SYMBOL-kicad-kicad-symbols-Device-Q_TRIAC_A1A2G
 - Hex ID: SZKDEVICEQTRIACA1A2G
-- Name: Q_TRIAC_A1A2G
-- Description: Q_TRIAC_A1A2G
+- Name: Device : Q_TRIAC_A1A2G
+- Description: Device : Q_TRIAC_A1A2G
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Q_TRIAC_A1A2G](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-Q_TRIAC_A1A2G)
 - Short Link: [http://oom.lt/SZKDEVICEQTRIACA1A2G](http://oom.lt/SZKDEVICEQTRIACA1A2G)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Q_TRIAC_A1A2G|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-Q_TRIAC_A1A2G|
 |Hex ID (short code)|hexID|SZKDEVICEQTRIACA1A2G|
-|name|name|Q_TRIAC_A1A2G|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'Q_TRIAC_A1A2G', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'TRIAC', 'kicadSymbolki_description': 'Triode for alternating current, anode1/anode2/gate'}]|
+|name|name|Device : Q_TRIAC_A1A2G|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Q_TRIAC_A1A2G'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'TRIAC'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Triode for alternating current</td><td> anode1/anode2/gate'</td></tr></table>]|
 ||||

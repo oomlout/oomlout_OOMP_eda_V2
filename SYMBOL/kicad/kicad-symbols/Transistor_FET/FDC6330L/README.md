@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORFETFDC633L > FDC6330L
+# SZKTRANSISTORFETFDC633L > Transistor_FET : FDC6330L
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-FDC6330L
 - Hex ID: SZKTRANSISTORFETFDC633L
-- Name: FDC6330L
-- Description: FDC6330L
+- Name: Transistor_FET : FDC6330L
+- Description: Transistor_FET : FDC6330L
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-FDC6330L](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-FDC6330L)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETFDC633L](http://oom.lt/SZKTRANSISTORFETFDC633L)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|FDC6330L|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-FDC6330L|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETFDC633L|
-|name|name|FDC6330L|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'FDC6330L', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TSOT-23-6', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pub/Collateral/FDC6330L-D.PDF', 'kicadSymbolki_keywords': 'complementary mosfet', 'kicadSymbolki_description': '-2.3A, 20V Vds, Integrated load switch, P-Channel MOSFET driven by small N-Channel MOSFET, TSOT-23-6', 'kicadSymbolki_fp_filters': 'TSOT?23*'}]|
+|name|name|Transistor_FET : FDC6330L|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'FDC6330L'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>TSOT-23-6'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.onsemi.com/pub/Collateral/FDC6330L-D.PDF'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'complementary mosfet'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '-2.3A</td><td> 20V Vds</td><td> Integrated load switch</td><td> P-Channel MOSFET driven by small N-Channel MOSFET</td><td> TSOT-23-6'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TSOT?23*'</td></tr></table>]|
 ||||

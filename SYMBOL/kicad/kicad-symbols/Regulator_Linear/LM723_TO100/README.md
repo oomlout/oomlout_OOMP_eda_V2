@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORLINEARLM723TO1 > LM723_TO100
+# SZKREGULATORLINEARLM723TO1 > Regulator_Linear : LM723_TO100
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-LM723_TO100
 - Hex ID: SZKREGULATORLINEARLM723TO1
-- Name: LM723_TO100
-- Description: LM723_TO100
+- Name: Regulator_Linear : LM723_TO100
+- Description: Regulator_Linear : LM723_TO100
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LM723_TO100](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LM723_TO100)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARLM723TO1](http://oom.lt/SZKREGULATORLINEARLM723TO1)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LM723_TO100|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-LM723_TO100|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARLM723TO1|
-|name|name|LM723_TO100|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LM723_TO100', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-100-10', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lm723.pdf', 'kicadSymbolki_keywords': 'POWER REGUL', 'kicadSymbolki_description': 'Linear Regulator (adjustable), TO-100', 'kicadSymbolki_fp_filters': 'TO?100*'}]|
+|name|name|Regulator_Linear : LM723_TO100|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LM723_TO100'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_THT</td></tr><tr><td>TO-100-10'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/lm723.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'POWER REGUL'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Linear Regulator (adjustable)</td><td> TO-100'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TO?100*'</td></tr></table>]|
 ||||

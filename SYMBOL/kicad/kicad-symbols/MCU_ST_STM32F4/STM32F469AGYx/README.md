@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUSTSTM32F4STM32F469AGYX > STM32F469AGYx
+# SZKMCUSTSTM32F4STM32F469AGYX > MCU_ST_STM32F4 : STM32F469AGYx
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F469AGYx
 - Hex ID: SZKMCUSTSTM32F4STM32F469AGYX
-- Name: STM32F469AGYx
-- Description: STM32F469AGYx
+- Name: MCU_ST_STM32F4 : STM32F469AGYx
+- Description: MCU_ST_STM32F4 : STM32F469AGYx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F469AGYx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F469AGYx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32F4STM32F469AGYX](http://oom.lt/SZKMCUSTSTM32F4STM32F469AGYX)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|STM32F469AGYx|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F469AGYx|
 |Hex ID (short code)|hexID|SZKMCUSTSTM32F4STM32F469AGYX|
-|name|name|STM32F469AGYx|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'STM32F469AEYx', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'STM32F469AGYx', 'kicadSymbolFootprint': 'Package_CSP:ST_WLCSP-168_Die434', 'kicadSymbolDatasheet': 'http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00219980.pdf', 'kicadSymbolki_keywords': 'ARM Cortex-M4 STM32F4 STM32F469/479', 'kicadSymbolki_description': 'ARM Cortex-M4 MCU, 1024KB flash, 320KB RAM, 180MHz, 1.7-3.6V, 128 GPIO, WLCSP-168', 'kicadSymbolki_fp_filters': 'ST_WLCSP*Die434*'}]|
+|name|name|MCU_ST_STM32F4 : STM32F469AGYx|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'STM32F469AEYx'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'STM32F469AGYx'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_CSP</td></tr><tr><td>ST_WLCSP-168_Die434'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00219980.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'ARM Cortex-M4 STM32F4 STM32F469/479'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'ARM Cortex-M4 MCU</td><td> 1024KB flash</td><td> 320KB RAM</td><td> 180MHz</td><td> 1.7-3.6V</td><td> 128 GPIO</td><td> WLCSP-168'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'ST_WLCSP*Die434*'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKAMPLIFIEROPERATIONALLF257 > LF257
+# SZKAMPLIFIEROPERATIONALLF257 > Amplifier_Operational : LF257
 
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LF257
 - Hex ID: SZKAMPLIFIEROPERATIONALLF257
-- Name: LF257
-- Description: LF257
+- Name: Amplifier_Operational : LF257
+- Description: Amplifier_Operational : LF257
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LF257](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LF257)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALLF257](http://oom.lt/SZKAMPLIFIEROPERATIONALLF257)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LF257|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LF257|
 |Hex ID (short code)|hexID|SZKAMPLIFIEROPERATIONALLF257|
-|name|name|LF257|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LM741', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LF257', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lf357.pdf', 'kicadSymbolki_keywords': 'single jfet opamp', 'kicadSymbolki_description': 'Single JFET Input Operational Amplifiers, DIP-8/SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm* DIP*W7.62mm* TSSOP*3x3mm*P0.65mm*'}]|
+|name|name|Amplifier_Operational : LF257|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'LM741'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LF257'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/lf357.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'single jfet opamp'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Single JFET Input Operational Amplifiers</td><td> DIP-8/SOIC-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*3.9x4.9mm*P1.27mm* DIP*W7.62mm* TSSOP*3x3mm*P0.65mm*'</td></tr></table>]|
 ||||

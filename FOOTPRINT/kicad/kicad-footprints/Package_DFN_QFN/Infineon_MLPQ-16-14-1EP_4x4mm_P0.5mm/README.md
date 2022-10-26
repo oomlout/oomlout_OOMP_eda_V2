@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Infineon_MLPQ-16-14-1EP_4x4mm_P0.5mm|
 |Hex ID (short code)|hexID|FZKDFNINFINEONMLPQ16141EP4X4P5|
 |name|name|Package_DFN_QFN : Infineon_MLPQ-16-14-1EP_4x4mm_P0.5mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Infineon_MLPQ-16-14-1EP_4x4mm_P0.5mm', 'description': 'MLPQ 32 leads, 7x7mm, 0.127mm stencil (https://www.infineon.com/dgdl/Infineon-AN1170-AN-v05_00-EN.pdf?fileId=5546d462533600a40153559ac3e51134)', 'tags': 'mlpq 32 7x7mm', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Infineon_MLPQ-16-14-1EP_4x4mm_P0.5mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Infineon_MLPQ-16-14-1EP_4x4mm_P0.5mm'</td><td> 'description'</td></tr><tr><td> 'MLPQ 32 leads</td><td> 7x7mm</td><td> 0.127mm stencil (https</td></tr><tr><td>//www.infineon.com/dgdl/Infineon-AN1170-AN-v05_00-EN.pdf?fileId=5546d462533600a40153559ac3e51134)'</td><td> 'tags'</td></tr><tr><td> 'mlpq 32 7x7mm'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DFN_QFN.3dshapes/Infineon_MLPQ-16-14-1EP_4x4mm_P0.5mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

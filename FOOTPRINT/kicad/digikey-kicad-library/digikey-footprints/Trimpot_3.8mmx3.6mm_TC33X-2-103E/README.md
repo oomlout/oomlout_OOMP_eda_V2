@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Trimpot_3.8mmx3.6mm_TC33X-2-103E|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSTRIMPOT38X36TC33X213E|
 |name|name|digikey-footprints : Trimpot_3.8mmx3.6mm_TC33X-2-103E|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Trimpot_3.8mmx3.6mm_TC33X-2-103E', 'description': 'http://www.bourns.com/docs/Product-Datasheets/TC33.pdf', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Trimpot_3.8mmx3.6mm_TC33X-2-103E'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//www.bourns.com/docs/Product-Datasheets/TC33.pdf'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

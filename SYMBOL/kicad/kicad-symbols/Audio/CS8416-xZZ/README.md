@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKAUDIOCS8416XZZ > CS8416-xZZ
+# SZKAUDIOCS8416XZZ > Audio : CS8416-xZZ
 
 - ID: SYMBOL-kicad-kicad-symbols-Audio-CS8416-xZZ
 - Hex ID: SZKAUDIOCS8416XZZ
-- Name: CS8416-xZZ
-- Description: CS8416-xZZ
+- Name: Audio : CS8416-xZZ
+- Description: Audio : CS8416-xZZ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-CS8416-xZZ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-CS8416-xZZ)
 - Short Link: [http://oom.lt/SZKAUDIOCS8416XZZ](http://oom.lt/SZKAUDIOCS8416XZZ)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|CS8416-xZZ|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Audio-CS8416-xZZ|
 |Hex ID (short code)|hexID|SZKAUDIOCS8416XZZ|
-|name|name|CS8416-xZZ|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'CS8416-xSZ', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'CS8416-xZZ', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://d3uzseaevmutz1.cloudfront.net/pubs/proDatasheet/CS8416_F3.pdf', 'kicadSymbolki_keywords': 'audio digital interface receiver', 'kicadSymbolki_description': '192 kHz Digital Audio Interface Receiver, TSSOP-28', 'kicadSymbolki_fp_filters': 'SOIC*7.5x17.9mm*P1.27mm* TSSOP*4.4x9.7mm*P0.65mm*'}]|
+|name|name|Audio : CS8416-xZZ|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'CS8416-xSZ'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'CS8416-xZZ'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//d3uzseaevmutz1.cloudfront.net/pubs/proDatasheet/CS8416_F3.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'audio digital interface receiver'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '192 kHz Digital Audio Interface Receiver</td><td> TSSOP-28'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*7.5x17.9mm*P1.27mm* TSSOP*4.4x9.7mm*P0.65mm*'</td></tr></table>]|
 ||||

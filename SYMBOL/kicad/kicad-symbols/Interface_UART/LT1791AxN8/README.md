@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKINTERFACEUARTLT1791AXN8 > LT1791AxN8
+# SZKINTERFACEUARTLT1791AXN8 > Interface_UART : LT1791AxN8
 
 - ID: SYMBOL-kicad-kicad-symbols-Interface_UART-LT1791AxN8
 - Hex ID: SZKINTERFACEUARTLT1791AXN8
-- Name: LT1791AxN8
-- Description: LT1791AxN8
+- Name: Interface_UART : LT1791AxN8
+- Description: Interface_UART : LT1791AxN8
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-LT1791AxN8](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-LT1791AxN8)
 - Short Link: [http://oom.lt/SZKINTERFACEUARTLT1791AXN8](http://oom.lt/SZKINTERFACEUARTLT1791AXN8)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LT1791AxN8|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_UART-LT1791AxN8|
 |Hex ID (short code)|hexID|SZKINTERFACEUARTLT1791AXN8|
-|name|name|LT1791AxN8|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LT1791xN8', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LT1791AxN8', 'kicadSymbolFootprint': 'Package_DIP:DIP-14_W7.62mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/LT1785-1785A-1791-1791A.pdf', 'kicadSymbolki_keywords': 'RS485 RS422 transceiver full duplex', 'kicadSymbolki_description': 'RS-485, RS-422 Full duplex 250kbps transceiver, fail-safe receiver, DIP-14', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
+|name|name|Interface_UART : LT1791AxN8|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'LT1791xN8'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LT1791AxN8'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>DIP-14_W7.62mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/LT1785-1785A-1791-1791A.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'RS485 RS422 transceiver full duplex'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'RS-485</td><td> RS-422 Full duplex 250kbps transceiver</td><td> fail-safe receiver</td><td> DIP-14'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W7.62mm*'</td></tr></table>]|
 ||||

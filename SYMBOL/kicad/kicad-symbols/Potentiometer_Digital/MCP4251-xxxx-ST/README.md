@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKPOTENTIOMETERDIGITALMCP4251XXXXST > MCP4251-xxxx-ST
+# SZKPOTENTIOMETERDIGITALMCP4251XXXXST > Potentiometer_Digital : MCP4251-xxxx-ST
 
 - ID: SYMBOL-kicad-kicad-symbols-Potentiometer_Digital-MCP4251-xxxx-ST
 - Hex ID: SZKPOTENTIOMETERDIGITALMCP4251XXXXST
-- Name: MCP4251-xxxx-ST
-- Description: MCP4251-xxxx-ST
+- Name: Potentiometer_Digital : MCP4251-xxxx-ST
+- Description: Potentiometer_Digital : MCP4251-xxxx-ST
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Potentiometer_Digital-MCP4251-xxxx-ST](http://oom.lt/SYMBOL-kicad-kicad-symbols-Potentiometer_Digital-MCP4251-xxxx-ST)
 - Short Link: [http://oom.lt/SZKPOTENTIOMETERDIGITALMCP4251XXXXST](http://oom.lt/SZKPOTENTIOMETERDIGITALMCP4251XXXXST)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MCP4251-xxxx-ST|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Potentiometer_Digital-MCP4251-xxxx-ST|
 |Hex ID (short code)|hexID|SZKPOTENTIOMETERDIGITALMCP4251XXXXST|
-|name|name|MCP4251-xxxx-ST|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MCP4251-xxxx-ST', 'kicadSymbolFootprint': 'Package_SO:TSSOP-14_4.4x5mm_P0.65mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/devicedoc/22060b.pdf', 'kicadSymbolki_keywords': 'Digital Pot Potentiometer', 'kicadSymbolki_description': 'Dual 8 Bit Digital Pot, SPI, Volatile Memory, TSSOP-14', 'kicadSymbolki_fp_filters': 'TSSOP*4.4x5mm*P0.65mm*'}]|
+|name|name|Potentiometer_Digital : MCP4251-xxxx-ST|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MCP4251-xxxx-ST'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>TSSOP-14_4.4x5mm_P0.65mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/devicedoc/22060b.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Digital Pot Potentiometer'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Dual 8 Bit Digital Pot</td><td> SPI</td><td> Volatile Memory</td><td> TSSOP-14'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TSSOP*4.4x5mm*P0.65mm*'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKAMPLIFIERAUDIOSSM218 > SSM2018
+# SZKAMPLIFIERAUDIOSSM218 > Amplifier_Audio : SSM2018
 
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Audio-SSM2018
 - Hex ID: SZKAMPLIFIERAUDIOSSM218
-- Name: SSM2018
-- Description: SSM2018
+- Name: Amplifier_Audio : SSM2018
+- Description: Amplifier_Audio : SSM2018
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-SSM2018](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-SSM2018)
 - Short Link: [http://oom.lt/SZKAMPLIFIERAUDIOSSM218](http://oom.lt/SZKAMPLIFIERAUDIOSSM218)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SSM2018|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Audio-SSM2018|
 |Hex ID (short code)|hexID|SZKAMPLIFIERAUDIOSSM218|
-|name|name|SSM2018|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'SSM2018', 'kicadSymbolFootprint': 'Package_DIP:DIP-16_W7.62mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/SSM2018.pdf', 'kicadSymbolki_keywords': 'audio VCA', 'kicadSymbolki_description': 'Trimless Voltage Controlled Amplifier, DIP-16', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
+|name|name|Amplifier_Audio : SSM2018|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'SSM2018'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>DIP-16_W7.62mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/SSM2018.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'audio VCA'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Trimless Voltage Controlled Amplifier</td><td> DIP-16'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W7.62mm*'</td></tr></table>]|
 ||||

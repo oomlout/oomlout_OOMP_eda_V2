@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKSENMAGNETICDRV533FAXDBZ > DRV5033FAxDBZ
+# SZKSENMAGNETICDRV533FAXDBZ > Sensor_Magnetic : DRV5033FAxDBZ
 
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-DRV5033FAxDBZ
 - Hex ID: SZKSENMAGNETICDRV533FAXDBZ
-- Name: DRV5033FAxDBZ
-- Description: DRV5033FAxDBZ
+- Name: Sensor_Magnetic : DRV5033FAxDBZ
+- Description: Sensor_Magnetic : DRV5033FAxDBZ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-DRV5033FAxDBZ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-DRV5033FAxDBZ)
 - Short Link: [http://oom.lt/SZKSENMAGNETICDRV533FAXDBZ](http://oom.lt/SZKSENMAGNETICDRV533FAXDBZ)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DRV5033FAxDBZ|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-DRV5033FAxDBZ|
 |Hex ID (short code)|hexID|SZKSENMAGNETICDRV533FAXDBZ|
-|name|name|DRV5033FAxDBZ|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'DRV5055A1xDBZxQ1', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'DRV5033FAxDBZ', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23', 'kicadSymbolDatasheet': 'https://www.ti.com/lit/ds/symlink/drv5033.pdf', 'kicadSymbolki_keywords': 'Digital Omnipolar Switch Hall Effect Sensor', 'kicadSymbolki_description': '±3.5 / ±2 mT, 20-kHz, 2-38V, SOT-23', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
+|name|name|Sensor_Magnetic : DRV5033FAxDBZ|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'DRV5055A1xDBZxQ1'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'DRV5033FAxDBZ'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-23'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.ti.com/lit/ds/symlink/drv5033.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Digital Omnipolar Switch Hall Effect Sensor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '±3.5 / ±2 mT</td><td> 20-kHz</td><td> 2-38V</td><td> SOT-23'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23*'</td></tr></table>]|
 ||||

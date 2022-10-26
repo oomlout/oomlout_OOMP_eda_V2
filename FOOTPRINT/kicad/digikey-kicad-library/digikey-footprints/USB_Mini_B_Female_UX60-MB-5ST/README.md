@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-USB_Mini_B_Female_UX60-MB-5ST|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSUMBFEMALEUX6MB5ST|
 |name|name|digikey-footprints : USB_Mini_B_Female_UX60-MB-5ST|
-|Footprint Kicad|footprintKicadDetails|{'name': 'USB_Mini_B_Female_UX60-MB-5ST', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'USB_Mini_B_Female_UX60-MB-5ST'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

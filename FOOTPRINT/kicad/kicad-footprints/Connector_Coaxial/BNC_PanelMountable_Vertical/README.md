@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Coaxial-BNC_PanelMountable_Vertical|
 |Hex ID (short code)|hexID|FZKCNCOABNCPANELMOUNTABLEVERTICAL|
 |name|name|Connector_Coaxial : BNC_PanelMountable_Vertical|
-|Footprint Kicad|footprintKicadDetails|{'name': 'BNC_PanelMountable_Vertical', 'description': 'Panel-mountable BNC connector mounted through PCB, vertical', 'tags': 'BNC connector', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_Coaxial.3dshapes/BNC_PanelMountable_Vertical.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'BNC_PanelMountable_Vertical'</td><td> 'description'</td></tr><tr><td> 'Panel-mountable BNC connector mounted through PCB</td><td> vertical'</td><td> 'tags'</td></tr><tr><td> 'BNC connector'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_Coaxial.3dshapes/BNC_PanelMountable_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-OptoDevice-Vishay_CNY70|
 |Hex ID (short code)|hexID|FZKOPVISHAYCNY7|
 |name|name|OptoDevice : Vishay_CNY70|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Vishay_CNY70', 'description': 'package for Vishay CNY70 refective photo coupler/interrupter', 'tags': 'Vishay CNY70 refective photo coupler', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/Vishay_CNY70.wrl', 'pins': {'type': 'thru_hole', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Vishay_CNY70'</td><td> 'description'</td></tr><tr><td> 'package for Vishay CNY70 refective photo coupler/interrupter'</td><td> 'tags'</td></tr><tr><td> 'Vishay CNY70 refective photo coupler'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/OptoDevice.3dshapes/Vishay_CNY70.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

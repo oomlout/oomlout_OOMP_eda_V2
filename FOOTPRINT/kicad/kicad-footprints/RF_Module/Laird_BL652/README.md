@@ -29,5 +29,5 @@ NO IMAGE
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-RF_Module-Laird_BL652|
 |Hex ID (short code)|hexID|FZKRFMOLAIRDBL652|
 |name|name|RF_Module : Laird_BL652|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Laird_BL652', 'description': 'Bluetooth v4.2 + NFC module', 'tags': 'Bluetooth BLE NFC', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/RF_Module.3dshapes/Laird_BL652.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Laird_BL652'</td><td> 'description'</td></tr><tr><td> 'Bluetooth v4.2 + NFC module'</td><td> 'tags'</td></tr><tr><td> 'Bluetooth BLE NFC'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/RF_Module.3dshapes/Laird_BL652.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKCONHS424 > HS-40024
+# SZKCONHS424 > Converter_ACDC : HS-40024
 
 - ID: SYMBOL-kicad-kicad-symbols-Converter_ACDC-HS-40024
 - Hex ID: SZKCONHS424
-- Name: HS-40024
-- Description: HS-40024
+- Name: Converter_ACDC : HS-40024
+- Description: Converter_ACDC : HS-40024
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_ACDC-HS-40024](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_ACDC-HS-40024)
 - Short Link: [http://oom.lt/SZKCONHS424](http://oom.lt/SZKCONHS424)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|HS-40024|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Converter_ACDC-HS-40024|
 |Hex ID (short code)|hexID|SZKCONHS424|
-|name|name|HS-40024|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'HS-40003', 'kicadSymbolReference': 'PS', 'kicadSymbolValue': 'HS-40024', 'kicadSymbolFootprint': 'Converter_ACDC:Converter_ACDC_Hahn_HS-400xx_THT', 'kicadSymbolDatasheet': 'https://www.schukat.com/schukat/pdf.nsf/index/17647BA7403E2D39C1257B810041F34E/$file/HS-40024-Serie%20Schemazeichnung-A3%20(1).pdf', 'kicadSymbolki_keywords': '24V 3W AC-DC module power supply', 'kicadSymbolki_description': '24V, 3W, AC-DC module power supply, Hahn', 'kicadSymbolki_fp_filters': 'Converter*ACDC*Hahn*HS*400xx*'}]|
+|name|name|Converter_ACDC : HS-40024|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'HS-40003'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'PS'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'HS-40024'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Converter_ACDC</td></tr><tr><td>Converter_ACDC_Hahn_HS-400xx_THT'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.schukat.com/schukat/pdf.nsf/index/17647BA7403E2D39C1257B810041F34E/$file/HS-40024-Serie%20Schemazeichnung-A3%20(1).pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> '24V 3W AC-DC module power supply'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '24V</td><td> 3W</td><td> AC-DC module power supply</td><td> Hahn'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Converter*ACDC*Hahn*HS*400xx*'</td></tr></table>]|
 ||||

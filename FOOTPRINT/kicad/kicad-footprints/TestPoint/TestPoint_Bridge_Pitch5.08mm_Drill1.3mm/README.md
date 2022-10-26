@@ -29,5 +29,5 @@ NO IMAGE
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-TestPoint-TestPoint_Bridge_Pitch5.08mm_Drill1.3mm|
 |Hex ID (short code)|hexID|FZKTPTPBRIDGEPITCH58DRILL13|
 |name|name|TestPoint : TestPoint_Bridge_Pitch5.08mm_Drill1.3mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'TestPoint_Bridge_Pitch5.08mm_Drill1.3mm', 'description': 'wire loop as test point, pitch 5.08mm, hole diameter 1.3mm, wire diameter 1.0mm', 'tags': 'test point wire loop', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/TestPoint.3dshapes/TestPoint_Bridge_Pitch5.08mm_Drill1.3mm.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'TestPoint_Bridge_Pitch5.08mm_Drill1.3mm'</td><td> 'description'</td></tr><tr><td> 'wire loop as test point</td><td> pitch 5.08mm</td><td> hole diameter 1.3mm</td><td> wire diameter 1.0mm'</td><td> 'tags'</td></tr><tr><td> 'test point wire loop'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/TestPoint.3dshapes/TestPoint_Bridge_Pitch5.08mm_Drill1.3mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKAUDIOPCM1794A > PCM1794A
+# SZKAUDIOPCM1794A > Audio : PCM1794A
 
 - ID: SYMBOL-kicad-kicad-symbols-Audio-PCM1794A
 - Hex ID: SZKAUDIOPCM1794A
-- Name: PCM1794A
-- Description: PCM1794A
+- Name: Audio : PCM1794A
+- Description: Audio : PCM1794A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-PCM1794A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-PCM1794A)
 - Short Link: [http://oom.lt/SZKAUDIOPCM1794A](http://oom.lt/SZKAUDIOPCM1794A)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PCM1794A|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Audio-PCM1794A|
 |Hex ID (short code)|hexID|SZKAUDIOPCM1794A|
-|name|name|PCM1794A|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PCM1794A', 'kicadSymbolFootprint': 'Package_SO:SSOP-28_5.3x10.2mm_P0.65mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/pcm1794a.pdf', 'kicadSymbolki_keywords': 'audio dac 2ch 24bit 192kHz', 'kicadSymbolki_description': '24-Bit, 192-kHz Sampling, Advanced Segment, Audio Stereo Digital-to-Analog Converter, HW Control, SSOP-28', 'kicadSymbolki_fp_filters': 'SSOP*5.3x10.2mm*P0.65mm*'}]|
+|name|name|Audio : PCM1794A|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'PCM1794A'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SSOP-28_5.3x10.2mm_P0.65mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/pcm1794a.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'audio dac 2ch 24bit 192kHz'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '24-Bit</td><td> 192-kHz Sampling</td><td> Advanced Segment</td><td> Audio Stereo Digital-to-Analog Converter</td><td> HW Control</td><td> SSOP-28'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SSOP*5.3x10.2mm*P0.65mm*'</td></tr></table>]|
 ||||

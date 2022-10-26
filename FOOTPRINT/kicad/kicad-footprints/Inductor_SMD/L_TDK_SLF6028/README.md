@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_TDK_SLF6028|
 |Hex ID (short code)|hexID|FZKINDUCTORSMLTDKSLF628|
 |name|name|Inductor_SMD : L_TDK_SLF6028|
-|Footprint Kicad|footprintKicadDetails|{'name': 'L_TDK_SLF6028', 'description': 'Inductor, TDK, SLF6028, 6.0mmx6.0mm (Script generated with StandardBox.py) (https://product.tdk.com/info/en/document/catalog/smd/inductor_commercial_power_slf6028_en.pdf)', 'tags': 'Inductor TDK_SLF6028', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_TDK_SLF6028.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'L_TDK_SLF6028'</td><td> 'description'</td></tr><tr><td> 'Inductor</td><td> TDK</td><td> SLF6028</td><td> 6.0mmx6.0mm (Script generated with StandardBox.py) (https</td></tr><tr><td>//product.tdk.com/info/en/document/catalog/smd/inductor_commercial_power_slf6028_en.pdf)'</td><td> 'tags'</td></tr><tr><td> 'Inductor TDK_SLF6028'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Inductor_SMD.3dshapes/L_TDK_SLF6028.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

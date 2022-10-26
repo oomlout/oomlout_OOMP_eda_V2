@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_XLR_Neutrik_NC3MAAV-0_Vertical|
 |Hex ID (short code)|hexID|FZKCNAUDIOJXLRNEUTRIKNC3MAAVVERTICAL|
 |name|name|Connector_Audio : Jack_XLR_Neutrik_NC3MAAV-0_Vertical|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Jack_XLR_Neutrik_NC3MAAV-0_Vertical', 'description': 'AA Series, 3 pole male XLR receptacle, grounding: ground contact connected to shell ground, but not to front panel and Pin 1, vertical PCB mount, https://www.neutrik.com/en/product/nc3maav-0', 'tags': 'neutrik xlr aa', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_Audio.3dshapes/Jack_XLR_Neutrik_NC3MAAV-0_Vertical.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Jack_XLR_Neutrik_NC3MAAV-0_Vertical'</td><td> 'description'</td></tr><tr><td> 'AA Series</td><td> 3 pole male XLR receptacle</td><td> grounding</td></tr><tr><td> ground contact connected to shell ground</td><td> but not to front panel and Pin 1</td><td> vertical PCB mount</td><td> https</td></tr><tr><td>//www.neutrik.com/en/product/nc3maav-0'</td><td> 'tags'</td></tr><tr><td> 'neutrik xlr aa'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_Audio.3dshapes/Jack_XLR_Neutrik_NC3MAAV-0_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

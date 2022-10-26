@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKCNBUSM2SOB > Bus_M.2_Socket_B
+# SZKCNBUSM2SOB > Connector : Bus_M.2_Socket_B
 
 - ID: SYMBOL-kicad-kicad-symbols-Connector-Bus_M.2_Socket_B
 - Hex ID: SZKCNBUSM2SOB
-- Name: Bus_M.2_Socket_B
-- Description: Bus_M.2_Socket_B
+- Name: Connector : Bus_M.2_Socket_B
+- Description: Connector : Bus_M.2_Socket_B
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-Bus_M.2_Socket_B](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-Bus_M.2_Socket_B)
 - Short Link: [http://oom.lt/SZKCNBUSM2SOB](http://oom.lt/SZKCNBUSM2SOB)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Bus_M.2_Socket_B|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-Bus_M.2_Socket_B|
 |Hex ID (short code)|hexID|SZKCNBUSM2SOB|
-|name|name|Bus_M.2_Socket_B|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'Bus_M.2_Socket_B', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://read.pudn.com/downloads794/doc/project/3133918/PCIe_M.2_Electromechanical_Spec_Rev1.0_Final_11012013_RS_Clean.pdf#page=154', 'kicadSymbolki_keywords': 'M2 NGNF PCI-E', 'kicadSymbolki_description': 'M.2 Socket 2 Mechanical Key B', 'kicadSymbolki_fp_filters': '*M*2*B*'}]|
+|name|name|Connector : Bus_M.2_Socket_B|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'J'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Bus_M.2_Socket_B'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//read.pudn.com/downloads794/doc/project/3133918/PCIe_M.2_Electromechanical_Spec_Rev1.0_Final_11012013_RS_Clean.pdf#page=154'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'M2 NGNF PCI-E'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'M.2 Socket 2 Mechanical Key B'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> '*M*2*B*'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDEVICEDIAC > DIAC
+# SZKDEVICEDIAC > Device : DIAC
 
 - ID: SYMBOL-kicad-kicad-symbols-Device-DIAC
 - Hex ID: SZKDEVICEDIAC
-- Name: DIAC
-- Description: DIAC
+- Name: Device : DIAC
+- Description: Device : DIAC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-DIAC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-DIAC)
 - Short Link: [http://oom.lt/SZKDEVICEDIAC](http://oom.lt/SZKDEVICEDIAC)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DIAC|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-DIAC|
 |Hex ID (short code)|hexID|SZKDEVICEDIAC|
-|name|name|DIAC|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'DIAC', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'AC diode DIAC', 'kicadSymbolki_description': 'Diode for alternating current', 'kicadSymbolki_fp_filters': 'TO-???* *_Diode_* *SingleDiode* D_*'}]|
+|name|name|Device : DIAC|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'DIAC'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'AC diode DIAC'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Diode for alternating current'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TO-???* *_Diode_* *SingleDiode* D_*'</td></tr></table>]|
 ||||

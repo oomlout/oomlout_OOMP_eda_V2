@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_BarrelJack-BarrelJack_Wuerth_6941xx301002|
 |Hex ID (short code)|hexID|FZKCNBARRELJBARRELJWUERTH6941XX312|
 |name|name|Connector_BarrelJack : BarrelJack_Wuerth_6941xx301002|
-|Footprint Kicad|footprintKicadDetails|{'name': 'BarrelJack_Wuerth_6941xx301002', 'description': 'Wuerth electronics barrel jack connector (5.5mm outher diameter, inner diameter 2.05mm or 2.55mm depending on exact order number), See: http://katalog.we-online.de/em/datasheet/6941xx301002.pdf', 'tags': 'connector barrel jack', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_BarrelJack.3dshapes/BarrelJack_Wuerth_6941xx301002.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'BarrelJack_Wuerth_6941xx301002'</td><td> 'description'</td></tr><tr><td> 'Wuerth electronics barrel jack connector (5.5mm outher diameter</td><td> inner diameter 2.05mm or 2.55mm depending on exact order number)</td><td> See</td></tr><tr><td> http</td></tr><tr><td>//katalog.we-online.de/em/datasheet/6941xx301002.pdf'</td><td> 'tags'</td></tr><tr><td> 'connector barrel jack'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_BarrelJack.3dshapes/BarrelJack_Wuerth_6941xx301002.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

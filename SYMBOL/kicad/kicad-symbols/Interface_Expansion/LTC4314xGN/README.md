@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKINTERFACEEXPANSIONLTC4314XGN > LTC4314xGN
+# SZKINTERFACEEXPANSIONLTC4314XGN > Interface_Expansion : LTC4314xGN
 
 - ID: SYMBOL-kicad-kicad-symbols-Interface_Expansion-LTC4314xGN
 - Hex ID: SZKINTERFACEEXPANSIONLTC4314XGN
-- Name: LTC4314xGN
-- Description: LTC4314xGN
+- Name: Interface_Expansion : LTC4314xGN
+- Description: Interface_Expansion : LTC4314xGN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Expansion-LTC4314xGN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Expansion-LTC4314xGN)
 - Short Link: [http://oom.lt/SZKINTERFACEEXPANSIONLTC4314XGN](http://oom.lt/SZKINTERFACEEXPANSIONLTC4314XGN)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LTC4314xGN|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_Expansion-LTC4314xGN|
 |Hex ID (short code)|hexID|SZKINTERFACEEXPANSIONLTC4314XGN|
-|name|name|LTC4314xGN|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LTC4314xGN', 'kicadSymbolFootprint': 'Package_SO:SSOP-20_3.9x8.7mm_P0.635mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/4314f.pdf', 'kicadSymbolki_keywords': 'I2C Multiplexer Buffer Level Shifter', 'kicadSymbolki_description': 'Pin-Selectable, 4-Channel, 2-Wire Multiplexer with Bus Buffers, SSOP-20', 'kicadSymbolki_fp_filters': 'SSOP*3.9x8.7mm*P0.635mm*'}]|
+|name|name|Interface_Expansion : LTC4314xGN|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LTC4314xGN'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SSOP-20_3.9x8.7mm_P0.635mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/4314f.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'I2C Multiplexer Buffer Level Shifter'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Pin-Selectable</td><td> 4-Channel</td><td> 2-Wire Multiplexer with Bus Buffers</td><td> SSOP-20'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SSOP*3.9x8.7mm*P0.635mm*'</td></tr></table>]|
 ||||

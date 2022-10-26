@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKAMPLIFIERINSTRUMENTATIONAD8236ARMZ > AD8236ARMZ
+# SZKAMPLIFIERINSTRUMENTATIONAD8236ARMZ > Amplifier_Instrumentation : AD8236ARMZ
 
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Instrumentation-AD8236ARMZ
 - Hex ID: SZKAMPLIFIERINSTRUMENTATIONAD8236ARMZ
-- Name: AD8236ARMZ
-- Description: AD8236ARMZ
+- Name: Amplifier_Instrumentation : AD8236ARMZ
+- Description: Amplifier_Instrumentation : AD8236ARMZ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Instrumentation-AD8236ARMZ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Instrumentation-AD8236ARMZ)
 - Short Link: [http://oom.lt/SZKAMPLIFIERINSTRUMENTATIONAD8236ARMZ](http://oom.lt/SZKAMPLIFIERINSTRUMENTATIONAD8236ARMZ)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AD8236ARMZ|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Instrumentation-AD8236ARMZ|
 |Hex ID (short code)|hexID|SZKAMPLIFIERINSTRUMENTATIONAD8236ARMZ|
-|name|name|AD8236ARMZ|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'AD8422ARMZ', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AD8236ARMZ', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/AD8236.pdf', 'kicadSymbolki_keywords': 'ad8236 instumentation amplifier msop-8', 'kicadSymbolki_description': 'Micropower Instumentation Amplifier with Zero Crossover Distortion, MSOP-8', 'kicadSymbolki_fp_filters': 'MSOP-8*'}]|
+|name|name|Amplifier_Instrumentation : AD8236ARMZ|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'AD8422ARMZ'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'AD8236ARMZ'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/AD8236.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'ad8236 instumentation amplifier msop-8'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Micropower Instumentation Amplifier with Zero Crossover Distortion</td><td> MSOP-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'MSOP-8*'</td></tr></table>]|
 ||||

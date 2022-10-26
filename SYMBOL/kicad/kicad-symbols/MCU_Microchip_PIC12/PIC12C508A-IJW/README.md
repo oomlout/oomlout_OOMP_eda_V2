@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUMCHIPPIC12PIC12C58AIJW > PIC12C508A-IJW
+# SZKMCUMCHIPPIC12PIC12C58AIJW > MCU_Microchip_PIC12 : PIC12C508A-IJW
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC12-PIC12C508A-IJW
 - Hex ID: SZKMCUMCHIPPIC12PIC12C58AIJW
-- Name: PIC12C508A-IJW
-- Description: PIC12C508A-IJW
+- Name: MCU_Microchip_PIC12 : PIC12C508A-IJW
+- Description: MCU_Microchip_PIC12 : PIC12C508A-IJW
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC12-PIC12C508A-IJW](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC12-PIC12C508A-IJW)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC12PIC12C58AIJW](http://oom.lt/SZKMCUMCHIPPIC12PIC12C58AIJW)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PIC12C508A-IJW|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC12-PIC12C508A-IJW|
 |Hex ID (short code)|hexID|SZKMCUMCHIPPIC12PIC12C58AIJW|
-|name|name|PIC12C508A-IJW|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'PIC12C508A-IP', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PIC12C508A-IJW', 'kicadSymbolFootprint': 'Package_DIP:DIP-8_W7.62mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/devicedoc/40139e.pdf', 'kicadSymbolki_keywords': '8-Bit CMOS Microcontroller', 'kicadSymbolki_description': 'PIC12C508A, 512W EPROM, 25B SRAM, CERDIP8 Windowed', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
+|name|name|MCU_Microchip_PIC12 : PIC12C508A-IJW|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'PIC12C508A-IP'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'PIC12C508A-IJW'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>DIP-8_W7.62mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/devicedoc/40139e.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> '8-Bit CMOS Microcontroller'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'PIC12C508A</td><td> 512W EPROM</td><td> 25B SRAM</td><td> CERDIP8 Windowed'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W7.62mm*'</td></tr></table>]|
 ||||

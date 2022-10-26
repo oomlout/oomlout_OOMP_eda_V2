@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SO-Infineon_PG-DSO-20-87|
 |Hex ID (short code)|hexID|FZKSOINFINEONPGDSO287|
 |name|name|Package_SO : Infineon_PG-DSO-20-87|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Infineon_PG-DSO-20-87', 'description': 'Infineon SO package 20pin without exposed pad (https://www.infineon.com/cms/en/product/packages/PG-DSO/PG-DSO-20-87/)', 'tags': 'DSO-20', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/Infineon_PG-DSO-20-87.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Infineon_PG-DSO-20-87'</td><td> 'description'</td></tr><tr><td> 'Infineon SO package 20pin without exposed pad (https</td></tr><tr><td>//www.infineon.com/cms/en/product/packages/PG-DSO/PG-DSO-20-87/)'</td><td> 'tags'</td></tr><tr><td> 'DSO-20'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_SO.3dshapes/Infineon_PG-DSO-20-87.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

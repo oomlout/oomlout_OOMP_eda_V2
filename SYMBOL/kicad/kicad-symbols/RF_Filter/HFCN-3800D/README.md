@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKRFFILHFCN38D > HFCN-3800D
+# SZKRFFILHFCN38D > RF_Filter : HFCN-3800D
 
 - ID: SYMBOL-kicad-kicad-symbols-RF_Filter-HFCN-3800D
 - Hex ID: SZKRFFILHFCN38D
-- Name: HFCN-3800D
-- Description: HFCN-3800D
+- Name: RF_Filter : HFCN-3800D
+- Description: RF_Filter : HFCN-3800D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-HFCN-3800D](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-HFCN-3800D)
 - Short Link: [http://oom.lt/SZKRFFILHFCN38D](http://oom.lt/SZKRFFILHFCN38D)
   
@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|HFCN-3800D|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-RF_Filter-HFCN-3800D|
 |Hex ID (short code)|hexID|SZKRFFILHFCN38D|
-|name|name|HFCN-3800D|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'HFCN-672', 'kicadSymbolReference': 'FL', 'kicadSymbolValue': 'HFCN-3800D', 'kicadSymbolFootprint': 'Filter:Filter_Mini-Circuits_FV1206-1', 'kicadSymbolDatasheet': 'https://www.minicircuits.com/pdfs/HFCN-3800D+.pdf', 'kicadSymbolki_keywords': 'Mini-Circuits high pass filter', 'kicadSymbolki_description': '3800MHz 50 Ohm Passive High Pass Filter, DC capable, FV1206-1', 'kicadSymbolki_fp_filters': 'Filter*Mini?Circuits*FV1206?1*'}]|
+|name|name|RF_Filter : HFCN-3800D|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'HFCN-672'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'FL'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'HFCN-3800D'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Filter</td></tr><tr><td>Filter_Mini-Circuits_FV1206-1'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.minicircuits.com/pdfs/HFCN-3800D+.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Mini-Circuits high pass filter'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '3800MHz 50 Ohm Passive High Pass Filter</td><td> DC capable</td><td> FV1206-1'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Filter*Mini?Circuits*FV1206?1*'</td></tr></table>]|
 ||||

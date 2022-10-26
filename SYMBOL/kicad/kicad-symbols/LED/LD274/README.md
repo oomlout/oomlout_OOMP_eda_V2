@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKLLD274 > LD274
+# SZKLLD274 > LED : LD274
 
 - ID: SYMBOL-kicad-kicad-symbols-LED-LD274
 - Hex ID: SZKLLD274
-- Name: LD274
-- Description: LD274
+- Name: LED : LD274
+- Description: LED : LD274
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-LED-LD274](http://oom.lt/SYMBOL-kicad-kicad-symbols-LED-LD274)
 - Short Link: [http://oom.lt/SZKLLD274](http://oom.lt/SZKLLD274)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LD274|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-LED-LD274|
 |Hex ID (short code)|hexID|SZKLLD274|
-|name|name|LD274|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LD271', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'LD274', 'kicadSymbolFootprint': 'LED_THT:LED_D5.0mm_IRGrey', 'kicadSymbolDatasheet': 'http://pdf.datasheetcatalog.com/datasheet/siemens/LD274.pdf', 'kicadSymbolki_keywords': 'IR LED', 'kicadSymbolki_description': '950nm IR-LED, 5mm', 'kicadSymbolki_fp_filters': 'LED*5.0mm*IRGrey*'}]|
+|name|name|LED : LD274|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'LD271'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LD274'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'LED_THT</td></tr><tr><td>LED_D5.0mm_IRGrey'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//pdf.datasheetcatalog.com/datasheet/siemens/LD274.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'IR LED'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '950nm IR-LED</td><td> 5mm'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'LED*5.0mm*IRGrey*'</td></tr></table>]|
 ||||

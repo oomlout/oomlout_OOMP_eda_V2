@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDICHARACTERCA5612SURKWA > CA56-12SURKWA
+# SZKDICHARACTERCA5612SURKWA > Display_Character : CA56-12SURKWA
 
 - ID: SYMBOL-kicad-kicad-symbols-Display_Character-CA56-12SURKWA
 - Hex ID: SZKDICHARACTERCA5612SURKWA
-- Name: CA56-12SURKWA
-- Description: CA56-12SURKWA
+- Name: Display_Character : CA56-12SURKWA
+- Description: Display_Character : CA56-12SURKWA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-CA56-12SURKWA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-CA56-12SURKWA)
 - Short Link: [http://oom.lt/SZKDICHARACTERCA5612SURKWA](http://oom.lt/SZKDICHARACTERCA5612SURKWA)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|CA56-12SURKWA|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Display_Character-CA56-12SURKWA|
 |Hex ID (short code)|hexID|SZKDICHARACTERCA5612SURKWA|
-|name|name|CA56-12SURKWA|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'CA56-12SURKWA', 'kicadSymbolFootprint': 'Display_7Segment:CA56-12SURKWA', 'kicadSymbolDatasheet': 'http://www.kingbright.com/attachments/file/psearch/000/00/00/CA56-12SURKWA(Ver.8A).pdf', 'kicadSymbolki_keywords': 'display LED 7-segment', 'kicadSymbolki_description': '4 digit 7 segment hyper red LED, common anode', 'kicadSymbolki_fp_filters': '*CA56*12SURKWA*'}]|
+|name|name|Display_Character : CA56-12SURKWA|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'CA56-12SURKWA'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Display_7Segment</td></tr><tr><td>CA56-12SURKWA'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.kingbright.com/attachments/file/psearch/000/00/00/CA56-12SURKWA(Ver.8A).pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'display LED 7-segment'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '4 digit 7 segment hyper red LED</td><td> common anode'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> '*CA56*12SURKWA*'</td></tr></table>]|
 ||||

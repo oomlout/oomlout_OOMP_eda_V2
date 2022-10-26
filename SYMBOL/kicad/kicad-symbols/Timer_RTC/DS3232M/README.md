@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTIMERRTCDS3232M > DS3232M
+# SZKTIMERRTCDS3232M > Timer_RTC : DS3232M
 
 - ID: SYMBOL-kicad-kicad-symbols-Timer_RTC-DS3232M
 - Hex ID: SZKTIMERRTCDS3232M
-- Name: DS3232M
-- Description: DS3232M
+- Name: Timer_RTC : DS3232M
+- Description: Timer_RTC : DS3232M
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer_RTC-DS3232M](http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer_RTC-DS3232M)
 - Short Link: [http://oom.lt/SZKTIMERRTCDS3232M](http://oom.lt/SZKTIMERRTCDS3232M)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DS3232M|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Timer_RTC-DS3232M|
 |Hex ID (short code)|hexID|SZKTIMERRTCDS3232M|
-|name|name|DS3232M|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'DS3232M', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm', 'kicadSymbolDatasheet': 'http://datasheets.maximintegrated.com/en/ds/DS3232M.pdf', 'kicadSymbolki_keywords': 'RTC TCXO Realtime Time Clock MEMS SRAM I2C', 'kicadSymbolki_description': '±5ppm, I2C Real-Time Clock with SRAM SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC*3.9x4.9mm*P1.27mm*'}]|
+|name|name|Timer_RTC : DS3232M|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'DS3232M'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-8_3.9x4.9mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//datasheets.maximintegrated.com/en/ds/DS3232M.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'RTC TCXO Realtime Time Clock MEMS SRAM I2C'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '±5ppm</td><td> I2C Real-Time Clock with SRAM SOIC-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*3.9x4.9mm*P1.27mm*'</td></tr></table>]|
 ||||

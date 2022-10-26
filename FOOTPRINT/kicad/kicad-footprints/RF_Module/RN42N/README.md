@@ -29,5 +29,5 @@ NO IMAGE
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-RF_Module-RN42N|
 |Hex ID (short code)|hexID|FZKRFMORN42N|
 |name|name|RF_Module : RN42N|
-|Footprint Kicad|footprintKicadDetails|{'name': 'RN42N', 'description': 'Class 2 Bluetooth Module without antenna', 'tags': 'Bluetooth Module', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/RF_Module.3dshapes/RN42N.wrl', 'pins': {'type': 'smd', 'shape': 'oval'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'RN42N'</td><td> 'description'</td></tr><tr><td> 'Class 2 Bluetooth Module without antenna'</td><td> 'tags'</td></tr><tr><td> 'Bluetooth Module'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/RF_Module.3dshapes/RN42N.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'oval'</td></tr></table></td></tr></table>|
 ||||

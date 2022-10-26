@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZK74XX74LS3 > 74LS30
+# SZK74XX74LS3 > 74xx : 74LS30
 
 - ID: SYMBOL-kicad-kicad-symbols-74xx-74LS30
 - Hex ID: SZK74XX74LS3
-- Name: 74LS30
-- Description: 74LS30
+- Name: 74xx : 74LS30
+- Description: 74xx : 74LS30
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx-74LS30](http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx-74LS30)
 - Short Link: [http://oom.lt/SZK74XX74LS3](http://oom.lt/SZK74XX74LS3)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74LS30|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xx-74LS30|
 |Hex ID (short code)|hexID|SZK74XX74LS3|
-|name|name|74LS30|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74LS30', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/gpn/sn74LS30', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'TTL Nand8', 'kicadSymbolki_description': '8-input NAND', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
+|name|name|74xx : 74LS30|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> '74LS30'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/gpn/sn74LS30'</td><td> 'kicadSymbolki_locked'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'TTL Nand8'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '8-input NAND'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W7.62mm*'</td></tr></table>]|
 ||||

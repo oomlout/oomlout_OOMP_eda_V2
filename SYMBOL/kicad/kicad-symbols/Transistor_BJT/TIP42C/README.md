@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORBJTTIP42C > TIP42C
+# SZKTRANSISTORBJTTIP42C > Transistor_BJT : TIP42C
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-TIP42C
 - Hex ID: SZKTRANSISTORBJTTIP42C
-- Name: TIP42C
-- Description: TIP42C
+- Name: Transistor_BJT : TIP42C
+- Description: Transistor_BJT : TIP42C
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-TIP42C](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-TIP42C)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTTIP42C](http://oom.lt/SZKTRANSISTORBJTTIP42C)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TIP42C|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_BJT-TIP42C|
 |Hex ID (short code)|hexID|SZKTRANSISTORBJTTIP42C|
-|name|name|TIP42C|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BD910', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'TIP42C', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-220-3_Vertical', 'kicadSymbolDatasheet': 'https://www.centralsemi.com/get_document.php?cmp=1&mergetype=pd&mergepath=pd&pdf_id=TIP42.PDF', 'kicadSymbolki_keywords': 'power PNP Transistor', 'kicadSymbolki_description': '-6A Ic, -100V Vce, Power PNP Transistor, TO-220', 'kicadSymbolki_fp_filters': 'TO?220*'}]|
+|name|name|Transistor_BJT : TIP42C|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'BD910'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TIP42C'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_THT</td></tr><tr><td>TO-220-3_Vertical'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.centralsemi.com/get_document.php?cmp=1&mergetype=pd&mergepath=pd&pdf_id=TIP42.PDF'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'power PNP Transistor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '-6A Ic</td><td> -100V Vce</td><td> Power PNP Transistor</td><td> TO-220'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TO?220*'</td></tr></table>]|
 ||||

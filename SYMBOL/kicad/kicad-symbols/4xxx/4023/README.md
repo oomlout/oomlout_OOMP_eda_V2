@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZK4XXX423 > 4023
+# SZK4XXX423 > 4xxx : 4023
 
 - ID: SYMBOL-kicad-kicad-symbols-4xxx-4023
 - Hex ID: SZK4XXX423
-- Name: 4023
-- Description: 4023
+- Name: 4xxx : 4023
+- Description: 4xxx : 4023
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx-4023](http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx-4023)
 - Short Link: [http://oom.lt/SZK4XXX423](http://oom.lt/SZK4XXX423)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|4023|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-4xxx-4023|
 |Hex ID (short code)|hexID|SZK4XXX423|
-|name|name|4023|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '4023', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.intersil.com/content/dam/Intersil/documents/cd40/cd4011bms-12bms-23bms.pdf', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'CMOS Nand3', 'kicadSymbolki_description': 'Triple Nand 3 inputs', 'kicadSymbolki_fp_filters': 'DIP?14*'}]|
+|name|name|4xxx : 4023|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> '4023'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.intersil.com/content/dam/Intersil/documents/cd40/cd4011bms-12bms-23bms.pdf'</td><td> 'kicadSymbolki_locked'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'CMOS Nand3'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Triple Nand 3 inputs'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP?14*'</td></tr></table>]|
 ||||

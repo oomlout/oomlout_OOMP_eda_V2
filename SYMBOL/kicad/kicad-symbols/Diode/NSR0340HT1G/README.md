@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDIODENSR34HT1G > NSR0340HT1G
+# SZKDIODENSR34HT1G > Diode : NSR0340HT1G
 
 - ID: SYMBOL-kicad-kicad-symbols-Diode-NSR0340HT1G
 - Hex ID: SZKDIODENSR34HT1G
-- Name: NSR0340HT1G
-- Description: NSR0340HT1G
+- Name: Diode : NSR0340HT1G
+- Description: Diode : NSR0340HT1G
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-NSR0340HT1G](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-NSR0340HT1G)
 - Short Link: [http://oom.lt/SZKDIODENSR34HT1G](http://oom.lt/SZKDIODENSR34HT1G)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|NSR0340HT1G|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-NSR0340HT1G|
 |Hex ID (short code)|hexID|SZKDIODENSR34HT1G|
-|name|name|NSR0340HT1G|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BAT48JFILM', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'NSR0340HT1G', 'kicadSymbolFootprint': 'Diode_SMD:D_SOD-323', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pub/Collateral/NSR0340H-D.PDF', 'kicadSymbolki_keywords': 'diode Schottky', 'kicadSymbolki_description': '40V 0.25A Schottky Diode, SOD-323', 'kicadSymbolki_fp_filters': 'D*SOD?323*'}]|
+|name|name|Diode : NSR0340HT1G|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'BAT48JFILM'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'NSR0340HT1G'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Diode_SMD</td></tr><tr><td>D_SOD-323'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.onsemi.com/pub/Collateral/NSR0340H-D.PDF'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'diode Schottky'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '40V 0.25A Schottky Diode</td><td> SOD-323'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'D*SOD?323*'</td></tr></table>]|
 ||||

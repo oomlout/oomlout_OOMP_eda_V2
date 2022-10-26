@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDIODESMF6VA > SMF6V0A
+# SZKDIODESMF6VA > Diode : SMF6V0A
 
 - ID: SYMBOL-kicad-kicad-symbols-Diode-SMF6V0A
 - Hex ID: SZKDIODESMF6VA
-- Name: SMF6V0A
-- Description: SMF6V0A
+- Name: Diode : SMF6V0A
+- Description: Diode : SMF6V0A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-SMF6V0A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-SMF6V0A)
 - Short Link: [http://oom.lt/SZKDIODESMF6VA](http://oom.lt/SZKDIODESMF6VA)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SMF6V0A|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-SMF6V0A|
 |Hex ID (short code)|hexID|SZKDIODESMF6VA|
-|name|name|SMF6V0A|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'SM6T6V8A', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'SMF6V0A', 'kicadSymbolFootprint': 'Diode_SMD:D_SMF', 'kicadSymbolDatasheet': 'https://www.vishay.com/doc?85881', 'kicadSymbolki_keywords': 'diode TVS voltage suppressor', 'kicadSymbolki_description': '200W unidirectional Transil Transient Voltage Suppressor, 6Vrwm, SMF', 'kicadSymbolki_fp_filters': 'D*SMF*'}]|
+|name|name|Diode : SMF6V0A|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'SM6T6V8A'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'SMF6V0A'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Diode_SMD</td></tr><tr><td>D_SMF'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.vishay.com/doc?85881'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'diode TVS voltage suppressor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '200W unidirectional Transil Transient Voltage Suppressor</td><td> 6Vrwm</td><td> SMF'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'D*SMF*'</td></tr></table>]|
 ||||

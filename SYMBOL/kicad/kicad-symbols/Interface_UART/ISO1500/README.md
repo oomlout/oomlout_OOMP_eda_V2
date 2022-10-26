@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKINTERFACEUARTISO15 > ISO1500
+# SZKINTERFACEUARTISO15 > Interface_UART : ISO1500
 
 - ID: SYMBOL-kicad-kicad-symbols-Interface_UART-ISO1500
 - Hex ID: SZKINTERFACEUARTISO15
-- Name: ISO1500
-- Description: ISO1500
+- Name: Interface_UART : ISO1500
+- Description: Interface_UART : ISO1500
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-ISO1500](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-ISO1500)
 - Short Link: [http://oom.lt/SZKINTERFACEUARTISO15](http://oom.lt/SZKINTERFACEUARTISO15)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ISO1500|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_UART-ISO1500|
 |Hex ID (short code)|hexID|SZKINTERFACEUARTISO15|
-|name|name|ISO1500|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ISO1500', 'kicadSymbolFootprint': 'Package_SO:SSOP-16_3.9x4.9mm_P0.635mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/iso1500.pdf', 'kicadSymbolki_keywords': 'RS-485 RS422 transceiver isolated', 'kicadSymbolki_description': 'Half duplex RS-485/RS-422 transceiver, 3-kVRMS Isolated, SSOP-16', 'kicadSymbolki_fp_filters': 'SSOP*3.9x4.9mm*P0.635mm*'}]|
+|name|name|Interface_UART : ISO1500|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ISO1500'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SSOP-16_3.9x4.9mm_P0.635mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/iso1500.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'RS-485 RS422 transceiver isolated'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Half duplex RS-485/RS-422 transceiver</td><td> 3-kVRMS Isolated</td><td> SSOP-16'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SSOP*3.9x4.9mm*P0.635mm*'</td></tr></table>]|
 ||||

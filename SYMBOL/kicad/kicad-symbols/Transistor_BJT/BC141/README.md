@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORBJTBC141 > BC141
+# SZKTRANSISTORBJTBC141 > Transistor_BJT : BC141
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC141
 - Hex ID: SZKTRANSISTORBJTBC141
-- Name: BC141
-- Description: BC141
+- Name: Transistor_BJT : BC141
+- Description: Transistor_BJT : BC141
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC141](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC141)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTBC141](http://oom.lt/SZKTRANSISTORBJTBC141)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BC141|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC141|
 |Hex ID (short code)|hexID|SZKTRANSISTORBJTBC141|
-|name|name|BC141|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '2N2219', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'BC141', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-39-3', 'kicadSymbolDatasheet': 'http://www.farnell.com/datasheets/296634.pdf', 'kicadSymbolki_keywords': 'NPN Transistor', 'kicadSymbolki_description': '1A Ic, 60V Vce, NPN Transistor, TO-39', 'kicadSymbolki_fp_filters': 'TO?39*'}]|
+|name|name|Transistor_BJT : BC141|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> '2N2219'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'BC141'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_THT</td></tr><tr><td>TO-39-3'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.farnell.com/datasheets/296634.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'NPN Transistor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '1A Ic</td><td> 60V Vce</td><td> NPN Transistor</td><td> TO-39'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TO?39*'</td></tr></table>]|
 ||||

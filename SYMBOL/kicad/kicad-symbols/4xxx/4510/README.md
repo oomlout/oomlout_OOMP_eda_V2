@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZK4XXX451 > 4510
+# SZK4XXX451 > 4xxx : 4510
 
 - ID: SYMBOL-kicad-kicad-symbols-4xxx-4510
 - Hex ID: SZK4XXX451
-- Name: 4510
-- Description: 4510
+- Name: 4xxx : 4510
+- Description: 4xxx : 4510
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx-4510](http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx-4510)
 - Short Link: [http://oom.lt/SZK4XXX451](http://oom.lt/SZK4XXX451)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|4510|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-4xxx-4510|
 |Hex ID (short code)|hexID|SZK4XXX451|
-|name|name|4510|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '4510', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://pdf.datasheetcatalog.com/datasheets/150/109581_DS.pdf', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'CMOS CNT CNT4', 'kicadSymbolki_description': '4 bits programmable counter', 'kicadSymbolki_fp_filters': 'DIP?16*'}]|
+|name|name|4xxx : 4510|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> '4510'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//pdf.datasheetcatalog.com/datasheets/150/109581_DS.pdf'</td><td> 'kicadSymbolki_locked'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'CMOS CNT CNT4'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '4 bits programmable counter'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP?16*'</td></tr></table>]|
 ||||

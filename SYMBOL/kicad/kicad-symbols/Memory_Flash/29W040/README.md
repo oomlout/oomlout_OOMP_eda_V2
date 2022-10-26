@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMEMORYFLASH29W4 > 29W040
+# SZKMEMORYFLASH29W4 > Memory_Flash : 29W040
 
 - ID: SYMBOL-kicad-kicad-symbols-Memory_Flash-29W040
 - Hex ID: SZKMEMORYFLASH29W4
-- Name: 29W040
-- Description: 29W040
+- Name: Memory_Flash : 29W040
+- Description: Memory_Flash : 29W040
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_Flash-29W040](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_Flash-29W040)
 - Short Link: [http://oom.lt/SZKMEMORYFLASH29W4](http://oom.lt/SZKMEMORYFLASH29W4)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|29W040|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Memory_Flash-29W040|
 |Hex ID (short code)|hexID|SZKMEMORYFLASH29W4|
-|name|name|29W040|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '29W040', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_keywords': 'EEPROM FLASH 512KO', 'kicadSymbolki_description': 'Flash EEProm 512PP (TSOP 32) 3,3V'}]|
+|name|name|Memory_Flash : 29W040|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> '29W040'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'EEPROM FLASH 512KO'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Flash EEProm 512PP (TSOP 32) 3</td><td>3V'</td></tr></table>]|
 ||||

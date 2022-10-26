@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKINTERFACEMC68B44 > MC68B44
+# SZKINTERFACEMC68B44 > Interface : MC68B44
 
 - ID: SYMBOL-kicad-kicad-symbols-Interface-MC68B44
 - Hex ID: SZKINTERFACEMC68B44
-- Name: MC68B44
-- Description: MC68B44
+- Name: Interface : MC68B44
+- Description: Interface : MC68B44
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-MC68B44](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-MC68B44)
 - Short Link: [http://oom.lt/SZKINTERFACEMC68B44](http://oom.lt/SZKINTERFACEMC68B44)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MC68B44|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface-MC68B44|
 |Hex ID (short code)|hexID|SZKINTERFACEMC68B44|
-|name|name|MC68B44|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MC6844', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MC68B44', 'kicadSymbolFootprint': 'Package_DIP:DIP-40_W15.24mm', 'kicadSymbolDatasheet': 'http://pdf.datasheetcatalog.com/datasheets/560/501527_DS.pdf', 'kicadSymbolki_keywords': 'Direct Memory Access Controller', 'kicadSymbolki_description': 'Direct Memory Access Controller 2MHz, DIP-40', 'kicadSymbolki_fp_filters': 'DIP*W15.24mm*'}]|
+|name|name|Interface : MC68B44|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'MC6844'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MC68B44'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>DIP-40_W15.24mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//pdf.datasheetcatalog.com/datasheets/560/501527_DS.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Direct Memory Access Controller'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Direct Memory Access Controller 2MHz</td><td> DIP-40'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W15.24mm*'</td></tr></table>]|
 ||||

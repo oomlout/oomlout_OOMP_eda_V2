@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB3_Micro-B_Connfly_DS1104-01|
 |Hex ID (short code)|hexID|FZKCNUU3MBCONNFLYDS1141|
 |name|name|Connector_USB : USB3_Micro-B_Connfly_DS1104-01|
-|Footprint Kicad|footprintKicadDetails|{'name': 'USB3_Micro-B_Connfly_DS1104-01', 'description': 'Micro USB B receptable with flange, bottom-mount, SMD, right-angle (http://en.connfly.com/static/upload/file/pdf/DS1104-01.pdf)', 'tags': 'USB 3.0 Micro B SMD right angle', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_USB.3dshapes/USB3_Micro-B_Connfly_DS1104-01.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'USB3_Micro-B_Connfly_DS1104-01'</td><td> 'description'</td></tr><tr><td> 'Micro USB B receptable with flange</td><td> bottom-mount</td><td> SMD</td><td> right-angle (http</td></tr><tr><td>//en.connfly.com/static/upload/file/pdf/DS1104-01.pdf)'</td><td> 'tags'</td></tr><tr><td> 'USB 3.0 Micro B SMD right angle'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_USB.3dshapes/USB3_Micro-B_Connfly_DS1104-01.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

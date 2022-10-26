@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORLINEARLT1962 > LT1962
+# SZKREGULATORLINEARLT1962 > Regulator_Linear : LT1962
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT1962
 - Hex ID: SZKREGULATORLINEARLT1962
-- Name: LT1962
-- Description: LT1962
+- Name: Regulator_Linear : LT1962
+- Description: Regulator_Linear : LT1962
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT1962](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT1962)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARLT1962](http://oom.lt/SZKREGULATORLINEARLT1962)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LT1962|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT1962|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARLT1962|
-|name|name|LT1962|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LT1962', 'kicadSymbolFootprint': 'Package_SO:MSOP-8_3x3mm_P0.65mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/1962fb.pdf', 'kicadSymbolki_keywords': 'LDO ADJ', 'kicadSymbolki_description': '300mA, Adjustable, Low Noise, Micropower LDO Regulator, MSOP-8', 'kicadSymbolki_fp_filters': 'MSOP*3x3mm*P0.65mm*'}]|
+|name|name|Regulator_Linear : LT1962|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LT1962'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>MSOP-8_3x3mm_P0.65mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/1962fb.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'LDO ADJ'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '300mA</td><td> Adjustable</td><td> Low Noise</td><td> Micropower LDO Regulator</td><td> MSOP-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'MSOP*3x3mm*P0.65mm*'</td></tr></table>]|
 ||||

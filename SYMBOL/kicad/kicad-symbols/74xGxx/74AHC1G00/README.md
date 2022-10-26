@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZK74XGXX74AHC1G > 74AHC1G00
+# SZK74XGXX74AHC1G > 74xGxx : 74AHC1G00
 
 - ID: SYMBOL-kicad-kicad-symbols-74xGxx-74AHC1G00
 - Hex ID: SZK74XGXX74AHC1G
-- Name: 74AHC1G00
-- Description: 74AHC1G00
+- Name: 74xGxx : 74AHC1G00
+- Description: 74xGxx : 74AHC1G00
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-74xGxx-74AHC1G00](http://oom.lt/SYMBOL-kicad-kicad-symbols-74xGxx-74AHC1G00)
 - Short Link: [http://oom.lt/SZK74XGXX74AHC1G](http://oom.lt/SZK74XGXX74AHC1G)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74AHC1G00|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xGxx-74AHC1G00|
 |Hex ID (short code)|hexID|SZK74XGXX74AHC1G|
-|name|name|74AHC1G00|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '74LVC1G00', 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74AHC1G00', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf', 'kicadSymbolki_keywords': 'Single Gate NAND LVC CMOS', 'kicadSymbolki_description': 'Single NAND Gate, Low-Voltage CMOS', 'kicadSymbolki_fp_filters': 'SOT* SG-*'}]|
+|name|name|74xGxx : 74AHC1G00|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> '74LVC1G00'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> '74AHC1G00'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/sg/scyt129e/scyt129e.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Single Gate NAND LVC CMOS'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Single NAND Gate</td><td> Low-Voltage CMOS'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT* SG-*'</td></tr></table>]|
 ||||

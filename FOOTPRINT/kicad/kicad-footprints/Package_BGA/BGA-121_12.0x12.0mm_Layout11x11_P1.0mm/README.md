@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_BGA-BGA-121_12.0x12.0mm_Layout11x11_P1.0mm|
 |Hex ID (short code)|hexID|FZKBGABGA12112X12LAYOUT11X11P1|
 |name|name|Package_BGA : BGA-121_12.0x12.0mm_Layout11x11_P1.0mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'BGA-121_12.0x12.0mm_Layout11x11_P1.0mm', 'description': 'BGA-121, http://cds.linear.com/docs/en/packaging/05081891_A_bga121.pdf', 'tags': 'BGA-121', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/BGA-121_12.0x12.0mm_Layout11x11_P1.0mm.wrl', 'pins': {'type': 'smd', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'BGA-121_12.0x12.0mm_Layout11x11_P1.0mm'</td><td> 'description'</td></tr><tr><td> 'BGA-121</td><td> http</td></tr><tr><td>//cds.linear.com/docs/en/packaging/05081891_A_bga121.pdf'</td><td> 'tags'</td></tr><tr><td> 'BGA-121'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_BGA.3dshapes/BGA-121_12.0x12.0mm_Layout11x11_P1.0mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

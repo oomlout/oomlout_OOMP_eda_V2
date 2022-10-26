@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKPOWERMANAGEMENTLTC4365TS81 > LTC4365TS8-1
+# SZKPOWERMANAGEMENTLTC4365TS81 > Power_Management : LTC4365TS8-1
 
 - ID: SYMBOL-kicad-kicad-symbols-Power_Management-LTC4365TS8-1
 - Hex ID: SZKPOWERMANAGEMENTLTC4365TS81
-- Name: LTC4365TS8-1
-- Description: LTC4365TS8-1
+- Name: Power_Management : LTC4365TS8-1
+- Description: Power_Management : LTC4365TS8-1
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-LTC4365TS8-1](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-LTC4365TS8-1)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTLTC4365TS81](http://oom.lt/SZKPOWERMANAGEMENTLTC4365TS81)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LTC4365TS8-1|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Management-LTC4365TS8-1|
 |Hex ID (short code)|hexID|SZKPOWERMANAGEMENTLTC4365TS81|
-|name|name|LTC4365TS8-1|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LTC4365TS8', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LTC4365TS8-1', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/4365fa.pdf', 'kicadSymbolki_keywords': 'overvoltage undervoltage reverse-polarity protection', 'kicadSymbolki_description': 'Overvoltage, Undervoltage and Reverse Supply Protection Controller, TSOT23-8 package, 1ms fault recovery', 'kicadSymbolki_fp_filters': '*SOT?23*'}]|
+|name|name|Power_Management : LTC4365TS8-1|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'LTC4365TS8'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LTC4365TS8-1'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/4365fa.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'overvoltage undervoltage reverse-polarity protection'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Overvoltage</td><td> Undervoltage and Reverse Supply Protection Controller</td><td> TSOT23-8 package</td><td> 1ms fault recovery'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> '*SOT?23*'</td></tr></table>]|
 ||||

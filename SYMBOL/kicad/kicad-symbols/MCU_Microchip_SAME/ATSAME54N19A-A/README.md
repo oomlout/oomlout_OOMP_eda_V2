@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUMCHIPSAMEATSAME54N19AA > ATSAME54N19A-A
+# SZKMCUMCHIPSAMEATSAME54N19AA > MCU_Microchip_SAME : ATSAME54N19A-A
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_SAME-ATSAME54N19A-A
 - Hex ID: SZKMCUMCHIPSAMEATSAME54N19AA
-- Name: ATSAME54N19A-A
-- Description: ATSAME54N19A-A
+- Name: MCU_Microchip_SAME : ATSAME54N19A-A
+- Description: MCU_Microchip_SAME : ATSAME54N19A-A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_SAME-ATSAME54N19A-A](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_SAME-ATSAME54N19A-A)
 - Short Link: [http://oom.lt/SZKMCUMCHIPSAMEATSAME54N19AA](http://oom.lt/SZKMCUMCHIPSAMEATSAME54N19AA)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ATSAME54N19A-A|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_SAME-ATSAME54N19A-A|
 |Hex ID (short code)|hexID|SZKMCUMCHIPSAMEATSAME54N19AA|
-|name|name|ATSAME54N19A-A|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ATSAME54N19A-A', 'kicadSymbolFootprint': 'Package_QFP:TQFP-100_14x14mm_P0.5mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/60001507E.pdf', 'kicadSymbolki_keywords': '32-bit ARM Cortex-M4F MCU Microcontroller', 'kicadSymbolki_description': 'SAM E54 Microchip SMART ARM Cortex-M4F based MCU, 512K Flash, 192K SRAM, TQFP-100', 'kicadSymbolki_fp_filters': 'TQFP*14x14mm*P0.5mm*'}]|
+|name|name|MCU_Microchip_SAME : ATSAME54N19A-A|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ATSAME54N19A-A'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_QFP</td></tr><tr><td>TQFP-100_14x14mm_P0.5mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/60001507E.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> '32-bit ARM Cortex-M4F MCU Microcontroller'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'SAM E54 Microchip SMART ARM Cortex-M4F based MCU</td><td> 512K Flash</td><td> 192K SRAM</td><td> TQFP-100'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TQFP*14x14mm*P0.5mm*'</td></tr></table>]|
 ||||

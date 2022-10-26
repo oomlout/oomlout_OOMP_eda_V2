@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZK74XX74LS2 > 74LS02
+# SZK74XX74LS2 > 74xx : 74LS02
 
 - ID: SYMBOL-kicad-kicad-symbols-74xx-74LS02
 - Hex ID: SZK74XX74LS2
-- Name: 74LS02
-- Description: 74LS02
+- Name: 74xx : 74LS02
+- Description: 74xx : 74LS02
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx-74LS02](http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx-74LS02)
 - Short Link: [http://oom.lt/SZK74XX74LS2](http://oom.lt/SZK74XX74LS2)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74LS02|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xx-74LS02|
 |Hex ID (short code)|hexID|SZK74XX74LS2|
-|name|name|74LS02|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74LS02', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/gpn/sn74ls02', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'TTL Nor2', 'kicadSymbolki_description': 'quad 2-input NOR gate', 'kicadSymbolki_fp_filters': 'SO14* DIP*W7.62mm*'}]|
+|name|name|74xx : 74LS02|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> '74LS02'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/gpn/sn74ls02'</td><td> 'kicadSymbolki_locked'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'TTL Nor2'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'quad 2-input NOR gate'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SO14* DIP*W7.62mm*'</td></tr></table>]|
 ||||

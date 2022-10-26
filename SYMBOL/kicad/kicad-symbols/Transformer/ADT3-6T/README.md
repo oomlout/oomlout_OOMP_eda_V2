@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRADT36T > ADT3-6T
+# SZKTRADT36T > Transformer : ADT3-6T
 
 - ID: SYMBOL-kicad-kicad-symbols-Transformer-ADT3-6T
 - Hex ID: SZKTRADT36T
-- Name: ADT3-6T
-- Description: ADT3-6T
+- Name: Transformer : ADT3-6T
+- Description: Transformer : ADT3-6T
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-ADT3-6T](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-ADT3-6T)
 - Short Link: [http://oom.lt/SZKTRADT36T](http://oom.lt/SZKTRADT36T)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ADT3-6T|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transformer-ADT3-6T|
 |Hex ID (short code)|hexID|SZKTRADT36T|
-|name|name|ADT3-6T|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'TR', 'kicadSymbolValue': 'ADT3-6T', 'kicadSymbolFootprint': 'RF_Mini-Circuits:Mini-Circuits_CD636_H4.11mm', 'kicadSymbolDatasheet': 'https://www.minicircuits.com/pdfs/ADT3-6T+.pdf', 'kicadSymbolki_keywords': 'Mini-Circuits RF Transformer', 'kicadSymbolki_description': '1-600MHz 1:3 RF Transformer, Unbalanced to Balanced Center Tap, CD636', 'kicadSymbolki_fp_filters': 'Mini?Circuits*CD636*'}]|
+|name|name|Transformer : ADT3-6T|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'TR'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ADT3-6T'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'RF_Mini-Circuits</td></tr><tr><td>Mini-Circuits_CD636_H4.11mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.minicircuits.com/pdfs/ADT3-6T+.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Mini-Circuits RF Transformer'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '1-600MHz 1</td></tr><tr><td>3 RF Transformer</td><td> Unbalanced to Balanced Center Tap</td><td> CD636'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Mini?Circuits*CD636*'</td></tr></table>]|
 ||||

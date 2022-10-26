@@ -29,5 +29,5 @@ NO IMAGE
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-RF_Mini-Circuits-Mini-Circuits_QQQ130_ClockwisePinNumbering|
 |Hex ID (short code)|hexID|FZKRFMCIRCUITSQQQ13CLWISEPINNUMBERING|
 |name|name|RF_Mini-Circuits : Mini-Circuits_QQQ130_ClockwisePinNumbering|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Mini-Circuits_QQQ130_ClockwisePinNumbering', 'description': 'Footprint for Mini-Circuits case QQQ130 (https://ww2.minicircuits.com/case_style/QQQ130.pdf)', 'tags': 'Mini-Circuits QQQ130', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/RF_Mini-Circuits.3dshapes/Mini-Circuits_QQQ130.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Mini-Circuits_QQQ130_ClockwisePinNumbering'</td><td> 'description'</td></tr><tr><td> 'Footprint for Mini-Circuits case QQQ130 (https</td></tr><tr><td>//ww2.minicircuits.com/case_style/QQQ130.pdf)'</td><td> 'tags'</td></tr><tr><td> 'Mini-Circuits QQQ130'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/RF_Mini-Circuits.3dshapes/Mini-Circuits_QQQ130.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

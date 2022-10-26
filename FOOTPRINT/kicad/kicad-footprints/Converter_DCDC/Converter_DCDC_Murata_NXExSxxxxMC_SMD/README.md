@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_Murata_NXExSxxxxMC_SMD|
 |Hex ID (short code)|hexID|FZKCONCONMNXEXSXXXXMCSM|
 |name|name|Converter_DCDC : Converter_DCDC_Murata_NXExSxxxxMC_SMD|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Converter_DCDC_Murata_NXExSxxxxMC_SMD', 'description': 'Isolated 1W or 2W Single Output SM DC/DC Converters https://www.murata.com/products/productdata/8807031865374/kdc-nxe1.pdf#page=8 https://www.murata.com/products/productdata/8807031898142/kdc-nxe2.pdf#page=9', 'tags': 'Isolated 1W or 2W Single Output SM DC/DC Converters', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Converter_DCDC.3dshapes/Converter_DCDC_Murata_NXE2SxxxxMC_SMD.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Converter_DCDC_Murata_NXExSxxxxMC_SMD'</td><td> 'description'</td></tr><tr><td> 'Isolated 1W or 2W Single Output SM DC/DC Converters https</td></tr><tr><td>//www.murata.com/products/productdata/8807031865374/kdc-nxe1.pdf#page=8 https</td></tr><tr><td>//www.murata.com/products/productdata/8807031898142/kdc-nxe2.pdf#page=9'</td><td> 'tags'</td></tr><tr><td> 'Isolated 1W or 2W Single Output SM DC/DC Converters'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Converter_DCDC.3dshapes/Converter_DCDC_Murata_NXE2SxxxxMC_SMD.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

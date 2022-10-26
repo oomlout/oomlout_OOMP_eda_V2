@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDIODEMBRA34 > MBRA340
+# SZKDIODEMBRA34 > Diode : MBRA340
 
 - ID: SYMBOL-kicad-kicad-symbols-Diode-MBRA340
 - Hex ID: SZKDIODEMBRA34
-- Name: MBRA340
-- Description: MBRA340
+- Name: Diode : MBRA340
+- Description: Diode : MBRA340
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-MBRA340](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-MBRA340)
 - Short Link: [http://oom.lt/SZKDIODEMBRA34](http://oom.lt/SZKDIODEMBRA34)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MBRA340|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-MBRA340|
 |Hex ID (short code)|hexID|SZKDIODEMBRA34|
-|name|name|MBRA340|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'B120-E3', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'MBRA340', 'kicadSymbolFootprint': 'Diode_SMD:D_SMA', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pub/Collateral/MBRA340T3-D.PDF', 'kicadSymbolki_keywords': 'diode Schottky', 'kicadSymbolki_description': '40V 3A Schottky Barrier Rectifier Diode, SMA(DO-214AC)', 'kicadSymbolki_fp_filters': 'D*SMA*'}]|
+|name|name|Diode : MBRA340|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'B120-E3'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MBRA340'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Diode_SMD</td></tr><tr><td>D_SMA'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.onsemi.com/pub/Collateral/MBRA340T3-D.PDF'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'diode Schottky'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '40V 3A Schottky Barrier Rectifier Diode</td><td> SMA(DO-214AC)'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'D*SMA*'</td></tr></table>]|
 ||||

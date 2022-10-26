@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SIP-STK672-040-E|
 |Hex ID (short code)|hexID|FZKSIPSTK6724E|
 |name|name|Package_SIP : STK672-040-E|
-|Footprint Kicad|footprintKicadDetails|{'name': 'STK672-040-E', 'description': 'SIP-22 (http://www.onsemi.com/pub_link/Collateral/EN5227-D.PDF)', 'tags': 'SIP-22', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SIP.3dshapes/STK672-040-E.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'STK672-040-E'</td><td> 'description'</td></tr><tr><td> 'SIP-22 (http</td></tr><tr><td>//www.onsemi.com/pub_link/Collateral/EN5227-D.PDF)'</td><td> 'tags'</td></tr><tr><td> 'SIP-22'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_SIP.3dshapes/STK672-040-E.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

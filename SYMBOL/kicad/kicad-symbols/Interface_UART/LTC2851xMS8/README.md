@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKINTERFACEUARTLTC2851XMS8 > LTC2851xMS8
+# SZKINTERFACEUARTLTC2851XMS8 > Interface_UART : LTC2851xMS8
 
 - ID: SYMBOL-kicad-kicad-symbols-Interface_UART-LTC2851xMS8
 - Hex ID: SZKINTERFACEUARTLTC2851XMS8
-- Name: LTC2851xMS8
-- Description: LTC2851xMS8
+- Name: Interface_UART : LTC2851xMS8
+- Description: Interface_UART : LTC2851xMS8
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-LTC2851xMS8](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-LTC2851xMS8)
 - Short Link: [http://oom.lt/SZKINTERFACEUARTLTC2851XMS8](http://oom.lt/SZKINTERFACEUARTLTC2851XMS8)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LTC2851xMS8|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_UART-LTC2851xMS8|
 |Hex ID (short code)|hexID|SZKINTERFACEUARTLTC2851XMS8|
-|name|name|LTC2851xMS8|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LTC2851xMS8', 'kicadSymbolFootprint': 'Package_SO:MSOP-8_3x3mm_P0.65mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/285012fe.pdf', 'kicadSymbolki_keywords': 'RS485 RS422 transceiver full duplex', 'kicadSymbolki_description': 'RS-485, RS-422 Full duplex 20Mbps transceiver, MSOP-8', 'kicadSymbolki_fp_filters': 'MSOP*3x3mm*P0.65mm*'}]|
+|name|name|Interface_UART : LTC2851xMS8|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LTC2851xMS8'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>MSOP-8_3x3mm_P0.65mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/285012fe.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'RS485 RS422 transceiver full duplex'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'RS-485</td><td> RS-422 Full duplex 20Mbps transceiver</td><td> MSOP-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'MSOP*3x3mm*P0.65mm*'</td></tr></table>]|
 ||||

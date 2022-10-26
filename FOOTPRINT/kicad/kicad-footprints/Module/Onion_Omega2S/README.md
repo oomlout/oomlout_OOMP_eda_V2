@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Module-Onion_Omega2S|
 |Hex ID (short code)|hexID|FZKMOONIONOMEGA2S|
 |name|name|Module : Onion_Omega2S|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Onion_Omega2S', 'description': 'https://github.com/OnionIoT/Omega2/raw/master/Documents/Omega2S%20Datasheet.pdf', 'tags': 'onion omega module', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Module.3dshapes/Onion_Omega2S.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Onion_Omega2S'</td><td> 'description'</td></tr><tr><td> 'https</td></tr><tr><td>//github.com/OnionIoT/Omega2/raw/master/Documents/Omega2S%20Datasheet.pdf'</td><td> 'tags'</td></tr><tr><td> 'onion omega module'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Module.3dshapes/Onion_Omega2S.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

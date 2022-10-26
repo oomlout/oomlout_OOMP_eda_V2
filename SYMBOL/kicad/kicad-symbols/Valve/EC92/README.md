@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKVAEC92 > EC92
+# SZKVAEC92 > Valve : EC92
 
 - ID: SYMBOL-kicad-kicad-symbols-Valve-EC92
 - Hex ID: SZKVAEC92
-- Name: EC92
-- Description: EC92
+- Name: Valve : EC92
+- Description: Valve : EC92
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Valve-EC92](http://oom.lt/SYMBOL-kicad-kicad-symbols-Valve-EC92)
 - Short Link: [http://oom.lt/SZKVAEC92](http://oom.lt/SZKVAEC92)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|EC92|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Valve-EC92|
 |Hex ID (short code)|hexID|SZKVAEC92|
-|name|name|EC92|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'EC92', 'kicadSymbolFootprint': 'Valve:Valve_Mini_P', 'kicadSymbolDatasheet': 'http://www.r-type.org/pdfs/ec92.pdf', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'triode valve', 'kicadSymbolki_description': 'single triode', 'kicadSymbolki_fp_filters': 'VALVE*MINI*P*'}]|
+|name|name|Valve : EC92|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'EC92'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Valve</td></tr><tr><td>Valve_Mini_P'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.r-type.org/pdfs/ec92.pdf'</td><td> 'kicadSymbolki_locked'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'triode valve'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'single triode'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'VALVE*MINI*P*'</td></tr></table>]|
 ||||

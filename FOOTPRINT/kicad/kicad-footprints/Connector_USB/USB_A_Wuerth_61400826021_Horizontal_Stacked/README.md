@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_A_Wuerth_61400826021_Horizontal_Stacked|
 |Hex ID (short code)|hexID|FZKCNUUAWUERTH61482621HORIZONTALSTACKED|
 |name|name|Connector_USB : USB_A_Wuerth_61400826021_Horizontal_Stacked|
-|Footprint Kicad|footprintKicadDetails|{'name': 'USB_A_Wuerth_61400826021_Horizontal_Stacked', 'description': 'Stacked USB A connector http://katalog.we-online.de/em/datasheet/61400826021.pdf', 'tags': 'Wuerth stacked USB_A', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_USB.3dshapes/USB_A_Wuerth_61400826021_Horizontal_Stacked.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'USB_A_Wuerth_61400826021_Horizontal_Stacked'</td><td> 'description'</td></tr><tr><td> 'Stacked USB A connector http</td></tr><tr><td>//katalog.we-online.de/em/datasheet/61400826021.pdf'</td><td> 'tags'</td></tr><tr><td> 'Wuerth stacked USB_A'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_USB.3dshapes/USB_A_Wuerth_61400826021_Horizontal_Stacked.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

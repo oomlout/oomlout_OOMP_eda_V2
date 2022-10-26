@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Display-EA_T123X-I2C|
 |Hex ID (short code)|hexID|FZKDIEAT123XI2C|
 |name|name|Display : EA_T123X-I2C|
-|Footprint Kicad|footprintKicadDetails|{'name': 'EA_T123X-I2C', 'description': 'http://www.lcd-module.de/pdf/doma/t123-i2c.pdf', 'tags': '3 Line 12 character wide alpha numeric LCD', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Display.3dshapes/EA_T123X-I2C.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'EA_T123X-I2C'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//www.lcd-module.de/pdf/doma/t123-i2c.pdf'</td><td> 'tags'</td></tr><tr><td> '3 Line 12 character wide alpha numeric LCD'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Display.3dshapes/EA_T123X-I2C.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

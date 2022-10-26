@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORBJTMBT3946DW1T1 > MBT3946DW1T1
+# SZKTRANSISTORBJTMBT3946DW1T1 > Transistor_BJT : MBT3946DW1T1
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-MBT3946DW1T1
 - Hex ID: SZKTRANSISTORBJTMBT3946DW1T1
-- Name: MBT3946DW1T1
-- Description: MBT3946DW1T1
+- Name: Transistor_BJT : MBT3946DW1T1
+- Description: Transistor_BJT : MBT3946DW1T1
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-MBT3946DW1T1](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-MBT3946DW1T1)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTMBT3946DW1T1](http://oom.lt/SZKTRANSISTORBJTMBT3946DW1T1)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MBT3946DW1T1|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_BJT-MBT3946DW1T1|
 |Hex ID (short code)|hexID|SZKTRANSISTORBJTMBT3946DW1T1|
-|name|name|MBT3946DW1T1|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BC846BPN', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'MBT3946DW1T1', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-363_SC-70-6', 'kicadSymbolDatasheet': 'http://www.onsemi.com/pub_link/Collateral/MBT3946DW1T1-D.PDF', 'kicadSymbolki_keywords': 'NPN/PNP Transistor', 'kicadSymbolki_description': '200mA IC, 40V Vce, Dual NPN/PNP Transistors, SOT-363', 'kicadSymbolki_fp_filters': 'SOT?363*'}]|
+|name|name|Transistor_BJT : MBT3946DW1T1|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'BC846BPN'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MBT3946DW1T1'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-363_SC-70-6'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.onsemi.com/pub_link/Collateral/MBT3946DW1T1-D.PDF'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'NPN/PNP Transistor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '200mA IC</td><td> 40V Vce</td><td> Dual NPN/PNP Transistors</td><td> SOT-363'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?363*'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORFETBSB13NE2LXI > BSB013NE2LXI
+# SZKTRANSISTORFETBSB13NE2LXI > Transistor_FET : BSB013NE2LXI
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-BSB013NE2LXI
 - Hex ID: SZKTRANSISTORFETBSB13NE2LXI
-- Name: BSB013NE2LXI
-- Description: BSB013NE2LXI
+- Name: Transistor_FET : BSB013NE2LXI
+- Description: Transistor_FET : BSB013NE2LXI
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BSB013NE2LXI](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-BSB013NE2LXI)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETBSB13NE2LXI](http://oom.lt/SZKTRANSISTORFETBSB13NE2LXI)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BSB013NE2LXI|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-BSB013NE2LXI|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETBSB13NE2LXI|
-|name|name|BSB013NE2LXI|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BSB008NE2LX', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'BSB013NE2LXI', 'kicadSymbolFootprint': 'Package_DirectFET:DirectFET_MX', 'kicadSymbolDatasheet': 'https://www.infineon.com/dgdl/Infineon-BSB013NE2LXI-DS-v02_04-en.pdf?fileId=db3a30432e398416012e47a158802577', 'kicadSymbolki_keywords': 'N-Channel MOSFET', 'kicadSymbolki_description': '163A Id, 25V Vds, 1.3mOhm Rds, N-Channel MOSFET, DirectFET MX', 'kicadSymbolki_fp_filters': 'DirectFET*MX*'}]|
+|name|name|Transistor_FET : BSB013NE2LXI|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'BSB008NE2LX'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'BSB013NE2LXI'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DirectFET</td></tr><tr><td>DirectFET_MX'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.infineon.com/dgdl/Infineon-BSB013NE2LXI-DS-v02_04-en.pdf?fileId=db3a30432e398416012e47a158802577'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'N-Channel MOSFET'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '163A Id</td><td> 25V Vds</td><td> 1.3mOhm Rds</td><td> N-Channel MOSFET</td><td> DirectFET MX'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DirectFET*MX*'</td></tr></table>]|
 ||||

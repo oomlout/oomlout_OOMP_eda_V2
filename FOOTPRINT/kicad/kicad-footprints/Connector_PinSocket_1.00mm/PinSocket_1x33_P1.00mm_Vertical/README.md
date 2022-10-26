@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_PinSocket_1.00mm-PinSocket_1x33_P1.00mm_Vertical|
 |Hex ID (short code)|hexID|FZKCNPINSO1PINSO1X33P1VERTICAL|
 |name|name|Connector_PinSocket_1.00mm : PinSocket_1x33_P1.00mm_Vertical|
-|Footprint Kicad|footprintKicadDetails|{'name': 'PinSocket_1x33_P1.00mm_Vertical', 'description': 'Through hole straight socket strip, 1x33, 1.00mm pitch, single row (https://gct.co/files/drawings/bc065.pdf), script generated', 'tags': 'Through hole socket strip THT 1x33 1.00mm single row', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_PinSocket_1.00mm.3dshapes/PinSocket_1x33_P1.00mm_Vertical.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'PinSocket_1x33_P1.00mm_Vertical'</td><td> 'description'</td></tr><tr><td> 'Through hole straight socket strip</td><td> 1x33</td><td> 1.00mm pitch</td><td> single row (https</td></tr><tr><td>//gct.co/files/drawings/bc065.pdf)</td><td> script generated'</td><td> 'tags'</td></tr><tr><td> 'Through hole socket strip THT 1x33 1.00mm single row'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_PinSocket_1.00mm.3dshapes/PinSocket_1x33_P1.00mm_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

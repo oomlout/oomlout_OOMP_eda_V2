@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKSENOPTICALBPX65 > BPX65
+# SZKSENOPTICALBPX65 > Sensor_Optical : BPX65
 
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Optical-BPX65
 - Hex ID: SZKSENOPTICALBPX65
-- Name: BPX65
-- Description: BPX65
+- Name: Sensor_Optical : BPX65
+- Description: Sensor_Optical : BPX65
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-BPX65](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Optical-BPX65)
 - Short Link: [http://oom.lt/SZKSENOPTICALBPX65](http://oom.lt/SZKSENOPTICALBPX65)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BPX65|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Sensor_Optical-BPX65|
 |Hex ID (short code)|hexID|SZKSENOPTICALBPX65|
-|name|name|BPX65|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'BPX65', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-18-2_Lens', 'kicadSymbolDatasheet': 'http://www.osram-os.com/Graphics/XPic1/00181579_0.pdf/BPX%2065,%20Lead%20(Pb)%20Free%20Product%20-%20RoHS%20Compliant.pdf', 'kicadSymbolki_keywords': 'opto PIN photo diode', 'kicadSymbolki_description': 'Silicon PIN Photodiode, TO-18 package', 'kicadSymbolki_fp_filters': 'TO?18*Lens*'}]|
+|name|name|Sensor_Optical : BPX65|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'BPX65'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_THT</td></tr><tr><td>TO-18-2_Lens'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.osram-os.com/Graphics/XPic1/00181579_0.pdf/BPX%2065</td><td>%20Lead%20(Pb)%20Free%20Product%20-%20RoHS%20Compliant.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'opto PIN photo diode'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Silicon PIN Photodiode</td><td> TO-18 package'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TO?18*Lens*'</td></tr></table>]|
 ||||

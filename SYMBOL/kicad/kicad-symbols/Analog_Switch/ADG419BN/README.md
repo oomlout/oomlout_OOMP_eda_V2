@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKANALOGSWITCHADG419BN > ADG419BN
+# SZKANALOGSWITCHADG419BN > Analog_Switch : ADG419BN
 
 - ID: SYMBOL-kicad-kicad-symbols-Analog_Switch-ADG419BN
 - Hex ID: SZKANALOGSWITCHADG419BN
-- Name: ADG419BN
-- Description: ADG419BN
+- Name: Analog_Switch : ADG419BN
+- Description: Analog_Switch : ADG419BN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-ADG419BN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_Switch-ADG419BN)
 - Short Link: [http://oom.lt/SZKANALOGSWITCHADG419BN](http://oom.lt/SZKANALOGSWITCHADG419BN)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ADG419BN|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_Switch-ADG419BN|
 |Hex ID (short code)|hexID|SZKANALOGSWITCHADG419BN|
-|name|name|ADG419BN|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'DG419xJ', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ADG419BN', 'kicadSymbolFootprint': 'Package_DIP:DIP-8_W7.62mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/ADG419.pdf', 'kicadSymbolki_keywords': 'CMOS Analog Switch', 'kicadSymbolki_description': 'Single SPDT Monolithic LC²MOS Analog Switch, 25Ohm Ron, DIP-8', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
+|name|name|Analog_Switch : ADG419BN|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'DG419xJ'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ADG419BN'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>DIP-8_W7.62mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/ADG419.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'CMOS Analog Switch'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Single SPDT Monolithic LC²MOS Analog Switch</td><td> 25Ohm Ron</td><td> DIP-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W7.62mm*'</td></tr></table>]|
 ||||

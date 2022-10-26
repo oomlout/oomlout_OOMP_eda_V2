@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Display_7Segment-DE114-RS-20|
 |Hex ID (short code)|hexID|FZKDI7SDE114RS2|
 |name|name|Display_7Segment : DE114-RS-20|
-|Footprint Kicad|footprintKicadDetails|{'name': 'DE114-RS-20', 'description': 'http://www.display-elektronik.de/filter/DE113-RS-20_635.pdf', 'tags': '3 1/5 digit reflective LCD LOW-BAT + 7-Segment', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Display_7Segment.3dshapes/DE114-RS-20.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'DE114-RS-20'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//www.display-elektronik.de/filter/DE113-RS-20_635.pdf'</td><td> 'tags'</td></tr><tr><td> '3 1/5 digit reflective LCD LOW-BAT + 7-Segment'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Display_7Segment.3dshapes/DE114-RS-20.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

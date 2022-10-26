@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORBJTTIP41B > TIP41B
+# SZKTRANSISTORBJTTIP41B > Transistor_BJT : TIP41B
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-TIP41B
 - Hex ID: SZKTRANSISTORBJTTIP41B
-- Name: TIP41B
-- Description: TIP41B
+- Name: Transistor_BJT : TIP41B
+- Description: Transistor_BJT : TIP41B
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-TIP41B](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-TIP41B)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTTIP41B](http://oom.lt/SZKTRANSISTORBJTTIP41B)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TIP41B|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_BJT-TIP41B|
 |Hex ID (short code)|hexID|SZKTRANSISTORBJTTIP41B|
-|name|name|TIP41B|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BD911', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'TIP41B', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-220-3_Vertical', 'kicadSymbolDatasheet': 'https://www.centralsemi.com/get_document.php?cmp=1&mergetype=pd&mergepath=pd&pdf_id=tip41.PDF', 'kicadSymbolki_keywords': 'power NPN Transistor', 'kicadSymbolki_description': '6A Ic, 80V Vce, Power NPN Transistor, TO-220', 'kicadSymbolki_fp_filters': 'TO?220*'}]|
+|name|name|Transistor_BJT : TIP41B|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'BD911'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TIP41B'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_THT</td></tr><tr><td>TO-220-3_Vertical'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.centralsemi.com/get_document.php?cmp=1&mergetype=pd&mergepath=pd&pdf_id=tip41.PDF'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'power NPN Transistor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '6A Ic</td><td> 80V Vce</td><td> Power NPN Transistor</td><td> TO-220'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TO?220*'</td></tr></table>]|
 ||||

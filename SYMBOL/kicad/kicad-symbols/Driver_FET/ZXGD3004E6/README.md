@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDRIVERFETZXGD34E6 > ZXGD3004E6
+# SZKDRIVERFETZXGD34E6 > Driver_FET : ZXGD3004E6
 
 - ID: SYMBOL-kicad-kicad-symbols-Driver_FET-ZXGD3004E6
 - Hex ID: SZKDRIVERFETZXGD34E6
-- Name: ZXGD3004E6
-- Description: ZXGD3004E6
+- Name: Driver_FET : ZXGD3004E6
+- Description: Driver_FET : ZXGD3004E6
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-ZXGD3004E6](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-ZXGD3004E6)
 - Short Link: [http://oom.lt/SZKDRIVERFETZXGD34E6](http://oom.lt/SZKDRIVERFETZXGD34E6)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ZXGD3004E6|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Driver_FET-ZXGD3004E6|
 |Hex ID (short code)|hexID|SZKDRIVERFETZXGD34E6|
-|name|name|ZXGD3004E6|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'ZXGD3001E6', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ZXGD3004E6', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-6', 'kicadSymbolDatasheet': 'http://www.diodes.com/_files/datasheets/ZXGD3004E6.pdf', 'kicadSymbolki_keywords': 'gate driver', 'kicadSymbolki_description': '8A (peak) Gate driver, 40V, 1ns delay, SOT-23-6', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
+|name|name|Driver_FET : ZXGD3004E6|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'ZXGD3001E6'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ZXGD3004E6'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-23-6'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.diodes.com/_files/datasheets/ZXGD3004E6.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'gate driver'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '8A (peak) Gate driver</td><td> 40V</td><td> 1ns delay</td><td> SOT-23-6'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23*'</td></tr></table>]|
 ||||

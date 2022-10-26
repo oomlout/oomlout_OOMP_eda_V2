@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_1.27mm-PinHeader_2x29_P1.27mm_Vertical_SMD|
 |Hex ID (short code)|hexID|FZKCNPINHEADER127PINHEADER2X29P127VERTICALSM|
 |name|name|Connector_PinHeader_1.27mm : PinHeader_2x29_P1.27mm_Vertical_SMD|
-|Footprint Kicad|footprintKicadDetails|{'name': 'PinHeader_2x29_P1.27mm_Vertical_SMD', 'description': 'surface-mounted straight pin header, 2x29, 1.27mm pitch, double rows', 'tags': 'Surface mounted pin header SMD 2x29 1.27mm double row', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_PinHeader_1.27mm.3dshapes/PinHeader_2x29_P1.27mm_Vertical_SMD.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'PinHeader_2x29_P1.27mm_Vertical_SMD'</td><td> 'description'</td></tr><tr><td> 'surface-mounted straight pin header</td><td> 2x29</td><td> 1.27mm pitch</td><td> double rows'</td><td> 'tags'</td></tr><tr><td> 'Surface mounted pin header SMD 2x29 1.27mm double row'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_PinHeader_1.27mm.3dshapes/PinHeader_2x29_P1.27mm_Vertical_SMD.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

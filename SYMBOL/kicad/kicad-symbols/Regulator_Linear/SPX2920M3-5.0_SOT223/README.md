@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORLINEARSPX292M35SOT223 > SPX2920M3-5.0_SOT223
+# SZKREGULATORLINEARSPX292M35SOT223 > Regulator_Linear : SPX2920M3-5.0_SOT223
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-SPX2920M3-5.0_SOT223
 - Hex ID: SZKREGULATORLINEARSPX292M35SOT223
-- Name: SPX2920M3-5.0_SOT223
-- Description: SPX2920M3-5.0_SOT223
+- Name: Regulator_Linear : SPX2920M3-5.0_SOT223
+- Description: Regulator_Linear : SPX2920M3-5.0_SOT223
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-SPX2920M3-5.0_SOT223](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-SPX2920M3-5.0_SOT223)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARSPX292M35SOT223](http://oom.lt/SZKREGULATORLINEARSPX292M35SOT223)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SPX2920M3-5.0_SOT223|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-SPX2920M3-5.0_SOT223|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARSPX292M35SOT223|
-|name|name|SPX2920M3-5.0_SOT223|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'SPX2920M3-3.3_SOT223', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'SPX2920M3-5.0_SOT223', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-223-3_TabPin2', 'kicadSymbolDatasheet': 'http://www.zlgmcu.com/Sipex/LDO/PDF/spx2920.pdf', 'kicadSymbolki_keywords': 'REGULATOR LDO 5V', 'kicadSymbolki_description': '400mA Low drop-out regulator, Fixed Output 5V, SOT-223', 'kicadSymbolki_fp_filters': 'SOT?223*'}]|
+|name|name|Regulator_Linear : SPX2920M3-5.0_SOT223|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'SPX2920M3-3.3_SOT223'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'SPX2920M3-5.0_SOT223'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-223-3_TabPin2'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.zlgmcu.com/Sipex/LDO/PDF/spx2920.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'REGULATOR LDO 5V'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '400mA Low drop-out regulator</td><td> Fixed Output 5V</td><td> SOT-223'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?223*'</td></tr></table>]|
 ||||

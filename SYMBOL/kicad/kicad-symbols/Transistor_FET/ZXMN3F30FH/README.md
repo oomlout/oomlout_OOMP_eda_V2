@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORFETZXMN3F3FH > ZXMN3F30FH
+# SZKTRANSISTORFETZXMN3F3FH > Transistor_FET : ZXMN3F30FH
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-ZXMN3F30FH
 - Hex ID: SZKTRANSISTORFETZXMN3F3FH
-- Name: ZXMN3F30FH
-- Description: ZXMN3F30FH
+- Name: Transistor_FET : ZXMN3F30FH
+- Description: Transistor_FET : ZXMN3F30FH
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-ZXMN3F30FH](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-ZXMN3F30FH)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETZXMN3F3FH](http://oom.lt/SZKTRANSISTORFETZXMN3F3FH)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ZXMN3F30FH|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-ZXMN3F30FH|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETZXMN3F3FH|
-|name|name|ZXMN3F30FH|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BSS138', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'ZXMN3F30FH', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23', 'kicadSymbolDatasheet': 'http://www.diodes.com/assets/Datasheets/ZXMN3F30FH.pdf', 'kicadSymbolki_keywords': 'N-Channel MOSFET', 'kicadSymbolki_description': '4.6A Id, 30V Vds, N-Channel MOSFET, SOT-23', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
+|name|name|Transistor_FET : ZXMN3F30FH|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'BSS138'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ZXMN3F30FH'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-23'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.diodes.com/assets/Datasheets/ZXMN3F30FH.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'N-Channel MOSFET'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '4.6A Id</td><td> 30V Vds</td><td> N-Channel MOSFET</td><td> SOT-23'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23*'</td></tr></table>]|
 ||||

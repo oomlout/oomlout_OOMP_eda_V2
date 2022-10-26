@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SO-SO-8_5.3x6.2mm_P1.27mm|
 |Hex ID (short code)|hexID|FZKSOSO853X62P127|
 |name|name|Package_SO : SO-8_5.3x6.2mm_P1.27mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'SO-8_5.3x6.2mm_P1.27mm', 'description': 'SO, 8 Pin (https://www.ti.com/lit/ml/msop001a/msop001a.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py', 'tags': 'SO SO', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/SO-8_5.3x6.2mm_P1.27mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SO-8_5.3x6.2mm_P1.27mm'</td><td> 'description'</td></tr><tr><td> 'SO</td><td> 8 Pin (https</td></tr><tr><td>//www.ti.com/lit/ml/msop001a/msop001a.pdf)</td><td> generated with kicad-footprint-generator ipc_gullwing_generator.py'</td><td> 'tags'</td></tr><tr><td> 'SO SO'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_SO.3dshapes/SO-8_5.3x6.2mm_P1.27mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

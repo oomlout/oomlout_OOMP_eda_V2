@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Fuse-Fuseholder_Cylinder-5x20mm_Bulgin_FX0456_Vertical_Closed|
 |Hex ID (short code)|hexID|FZKFUFUHOLDERCYLINDER5X2BULGINFX456VERTICALCLOSED|
 |name|name|Fuse : Fuseholder_Cylinder-5x20mm_Bulgin_FX0456_Vertical_Closed|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Fuseholder_Cylinder-5x20mm_Bulgin_FX0456_Vertical_Closed', 'description': 'Fuseholder, 5x20, closed, vertical, Bulgin, FX0456, https://www.bulgin.com/products/pub/media/bulgin/data/Fuseholders.pdf', 'tags': 'Fuseholder 5x20 closed vertical Bulgin FX0456 Sicherungshalter ', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Fuse.3dshapes/Fuseholder_Cylinder-5x20mm_Bulgin_FX0456_Vertical_Closed.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Fuseholder_Cylinder-5x20mm_Bulgin_FX0456_Vertical_Closed'</td><td> 'description'</td></tr><tr><td> 'Fuseholder</td><td> 5x20</td><td> closed</td><td> vertical</td><td> Bulgin</td><td> FX0456</td><td> https</td></tr><tr><td>//www.bulgin.com/products/pub/media/bulgin/data/Fuseholders.pdf'</td><td> 'tags'</td></tr><tr><td> 'Fuseholder 5x20 closed vertical Bulgin FX0456 Sicherungshalter '</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Fuse.3dshapes/Fuseholder_Cylinder-5x20mm_Bulgin_FX0456_Vertical_Closed.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

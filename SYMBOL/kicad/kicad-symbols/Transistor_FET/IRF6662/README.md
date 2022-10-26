@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORFETIRF6662 > IRF6662
+# SZKTRANSISTORFETIRF6662 > Transistor_FET : IRF6662
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF6662
 - Hex ID: SZKTRANSISTORFETIRF6662
-- Name: IRF6662
-- Description: IRF6662
+- Name: Transistor_FET : IRF6662
+- Description: Transistor_FET : IRF6662
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF6662](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF6662)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETIRF6662](http://oom.lt/SZKTRANSISTORFETIRF6662)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IRF6662|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF6662|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETIRF6662|
-|name|name|IRF6662|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BSB028N06NN3', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'IRF6662', 'kicadSymbolFootprint': 'Package_DirectFET:DirectFET_MN', 'kicadSymbolDatasheet': 'https://www.infineon.com/dgdl/irf6662pbf.pdf?fileId=5546d462533600a4015355ec7edc1a5d', 'kicadSymbolki_keywords': 'N-Channel MOSFET', 'kicadSymbolki_description': '8.3A Id, 100V Vds, 22mOhm Rds, N-Channel MOSFET, DirectFET MN', 'kicadSymbolki_fp_filters': 'DirectFET*MN*'}]|
+|name|name|Transistor_FET : IRF6662|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'BSB028N06NN3'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'IRF6662'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DirectFET</td></tr><tr><td>DirectFET_MN'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.infineon.com/dgdl/irf6662pbf.pdf?fileId=5546d462533600a4015355ec7edc1a5d'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'N-Channel MOSFET'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '8.3A Id</td><td> 100V Vds</td><td> 22mOhm Rds</td><td> N-Channel MOSFET</td><td> DirectFET MN'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DirectFET*MN*'</td></tr></table>]|
 ||||

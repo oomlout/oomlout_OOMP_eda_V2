@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKCPUNXP68MC68332 > MC68332
+# SZKCPUNXP68MC68332 > CPU_NXP_68000 : MC68332
 
 - ID: SYMBOL-kicad-kicad-symbols-CPU_NXP_68000-MC68332
 - Hex ID: SZKCPUNXP68MC68332
-- Name: MC68332
-- Description: MC68332
+- Name: CPU_NXP_68000 : MC68332
+- Description: CPU_NXP_68000 : MC68332
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-CPU_NXP_68000-MC68332](http://oom.lt/SYMBOL-kicad-kicad-symbols-CPU_NXP_68000-MC68332)
 - Short Link: [http://oom.lt/SZKCPUNXP68MC68332](http://oom.lt/SZKCPUNXP68MC68332)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MC68332|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-CPU_NXP_68000-MC68332|
 |Hex ID (short code)|hexID|SZKCPUNXP68MC68332|
-|name|name|MC68332|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MC68332', 'kicadSymbolFootprint': 'Package_QFP:PQFP-132_24x24mm_P0.635mm', 'kicadSymbolDatasheet': 'http://pdf.datasheetcatalog.com/datasheet/motorola/SPAKMC332AVFC20.pdf', 'kicadSymbolki_keywords': 'MCU 32 bit', 'kicadSymbolki_description': 'MCU 32 bit, PQFP-132', 'kicadSymbolki_fp_filters': 'PQFP*24x24mm*P0.635mm*'}]|
+|name|name|CPU_NXP_68000 : MC68332|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MC68332'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_QFP</td></tr><tr><td>PQFP-132_24x24mm_P0.635mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//pdf.datasheetcatalog.com/datasheet/motorola/SPAKMC332AVFC20.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'MCU 32 bit'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'MCU 32 bit</td><td> PQFP-132'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'PQFP*24x24mm*P0.635mm*'</td></tr></table>]|
 ||||

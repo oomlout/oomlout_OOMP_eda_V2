@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKPOWERSUPERVISORMIC811TUY > MIC811TUY
+# SZKPOWERSUPERVISORMIC811TUY > Power_Supervisor : MIC811TUY
 
 - ID: SYMBOL-kicad-kicad-symbols-Power_Supervisor-MIC811TUY
 - Hex ID: SZKPOWERSUPERVISORMIC811TUY
-- Name: MIC811TUY
-- Description: MIC811TUY
+- Name: Power_Supervisor : MIC811TUY
+- Description: Power_Supervisor : MIC811TUY
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Supervisor-MIC811TUY](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Supervisor-MIC811TUY)
 - Short Link: [http://oom.lt/SZKPOWERSUPERVISORMIC811TUY](http://oom.lt/SZKPOWERSUPERVISORMIC811TUY)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MIC811TUY|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Supervisor-MIC811TUY|
 |Hex ID (short code)|hexID|SZKPOWERSUPERVISORMIC811TUY|
-|name|name|MIC811TUY|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MIC811LUY', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MIC811TUY', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-143', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/mic811.pdf', 'kicadSymbolki_keywords': 'Supervisor Reset', 'kicadSymbolki_description': 'Power supply supervisor, Manual reset, Threshold 3.08V, SOT-143', 'kicadSymbolki_fp_filters': 'SOT*143*'}]|
+|name|name|Power_Supervisor : MIC811TUY|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'MIC811LUY'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MIC811TUY'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-143'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/mic811.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Supervisor Reset'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Power supply supervisor</td><td> Manual reset</td><td> Threshold 3.08V</td><td> SOT-143'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT*143*'</td></tr></table>]|
 ||||

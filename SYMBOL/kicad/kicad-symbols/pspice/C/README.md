@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKPSPICEC > C
+# SZKPSPICEC > pspice : C
 
 - ID: SYMBOL-kicad-kicad-symbols-pspice-C
 - Hex ID: SZKPSPICEC
-- Name: C
-- Description: C
+- Name: pspice : C
+- Description: pspice : C
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-pspice-C](http://oom.lt/SYMBOL-kicad-kicad-symbols-pspice-C)
 - Short Link: [http://oom.lt/SZKPSPICEC](http://oom.lt/SZKPSPICEC)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|C|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-pspice-C|
 |Hex ID (short code)|hexID|SZKPSPICEC|
-|name|name|C|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'CAP', 'kicadSymbolReference': 'C', 'kicadSymbolValue': 'C', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'simulation', 'kicadSymbolki_description': 'Capacitor symbol for simulation only'}]|
+|name|name|pspice : C|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'CAP'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'C'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'C'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'simulation'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Capacitor symbol for simulation only'</td></tr></table>]|
 ||||

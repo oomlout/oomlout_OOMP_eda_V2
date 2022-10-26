@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_QFP-HTQFP-64-1EP_10x10mm_P0.5mm_EP8x8mm|
 |Hex ID (short code)|hexID|FZKQFPHTQFP641EP1X1P5EP8X8|
 |name|name|Package_QFP : HTQFP-64-1EP_10x10mm_P0.5mm_EP8x8mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'HTQFP-64-1EP_10x10mm_P0.5mm_EP8x8mm', 'description': '64-Lead Plastic Thin Quad Flatpack (PT) - 10x10x1 mm Body, 2.00 mm Footprint [HTQFP] thermal pad', 'tags': 'HTQFP-64 Pitch 0.5 ', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_QFP.3dshapes/TQFP-64_10x10mm_Pitch0.5mm_EP8x8mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'HTQFP-64-1EP_10x10mm_P0.5mm_EP8x8mm'</td><td> 'description'</td></tr><tr><td> '64-Lead Plastic Thin Quad Flatpack (PT) - 10x10x1 mm Body</td><td> 2.00 mm Footprint [HTQFP] thermal pad'</td><td> 'tags'</td></tr><tr><td> 'HTQFP-64 Pitch 0.5 '</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_QFP.3dshapes/TQFP-64_10x10mm_Pitch0.5mm_EP8x8mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

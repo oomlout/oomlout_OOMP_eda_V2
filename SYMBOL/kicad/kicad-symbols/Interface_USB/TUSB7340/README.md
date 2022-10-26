@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKINTERFACEUTU734 > TUSB7340
+# SZKINTERFACEUTU734 > Interface_USB : TUSB7340
 
 - ID: SYMBOL-kicad-kicad-symbols-Interface_USB-TUSB7340
 - Hex ID: SZKINTERFACEUTU734
-- Name: TUSB7340
-- Description: TUSB7340
+- Name: Interface_USB : TUSB7340
+- Description: Interface_USB : TUSB7340
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-TUSB7340](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-TUSB7340)
 - Short Link: [http://oom.lt/SZKINTERFACEUTU734](http://oom.lt/SZKINTERFACEUTU734)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TUSB7340|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_USB-TUSB7340|
 |Hex ID (short code)|hexID|SZKINTERFACEUTU734|
-|name|name|TUSB7340|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TUSB7340', 'kicadSymbolFootprint': 'Package_DFN_QFN:Texas_S-PWQFN-N100_EP5.5x5.5mm_ThermalVias', 'kicadSymbolDatasheet': 'http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=tusb7320&fileType=pdf', 'kicadSymbolki_keywords': 'USB HUB PCIE', 'kicadSymbolki_description': 'USB 3.0 xHCI Host Controller', 'kicadSymbolki_fp_filters': 'Texas*S?PWQFN?N100*'}]|
+|name|name|Interface_USB : TUSB7340|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TUSB7340'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>Texas_S-PWQFN-N100_EP5.5x5.5mm_ThermalVias'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=tusb7320&fileType=pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'USB HUB PCIE'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'USB 3.0 xHCI Host Controller'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Texas*S?PWQFN?N100*'</td></tr></table>]|
 ||||

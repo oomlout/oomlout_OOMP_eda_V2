@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_6.35mm_Neutrik_NRJ3HF-1_Horizontal|
 |Hex ID (short code)|hexID|FZKCNAUDIOJ635NEUTRIKNRJ3HF1HORIZONTAL|
 |name|name|Connector_Audio : Jack_6.35mm_Neutrik_NRJ3HF-1_Horizontal|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Jack_6.35mm_Neutrik_NRJ3HF-1_Horizontal', 'description': 'Slim Jacks, 6.35mm (1/4in) stereo jack, unswitched, fully threaded nose, sleeve contact/front panel connection, https://www.neutrik.com/en/product/nrj3hf-1', 'tags': 'neutrik jack slim', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_Audio.3dshapes/Jack_6.35mm_Neutrik_NRJ3HF-1_Horizontal.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Jack_6.35mm_Neutrik_NRJ3HF-1_Horizontal'</td><td> 'description'</td></tr><tr><td> 'Slim Jacks</td><td> 6.35mm (1/4in) stereo jack</td><td> unswitched</td><td> fully threaded nose</td><td> sleeve contact/front panel connection</td><td> https</td></tr><tr><td>//www.neutrik.com/en/product/nrj3hf-1'</td><td> 'tags'</td></tr><tr><td> 'neutrik jack slim'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_Audio.3dshapes/Jack_6.35mm_Neutrik_NRJ3HF-1_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

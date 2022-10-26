@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKVIDEOTDA95 > TDA9500
+# SZKVIDEOTDA95 > Video : TDA9500
 
 - ID: SYMBOL-kicad-kicad-symbols-Video-TDA9500
 - Hex ID: SZKVIDEOTDA95
-- Name: TDA9500
-- Description: TDA9500
+- Name: Video : TDA9500
+- Description: Video : TDA9500
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Video-TDA9500](http://oom.lt/SYMBOL-kicad-kicad-symbols-Video-TDA9500)
 - Short Link: [http://oom.lt/SZKVIDEOTDA95](http://oom.lt/SZKVIDEOTDA95)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TDA9500|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Video-TDA9500|
 |Hex ID (short code)|hexID|SZKVIDEOTDA95|
-|name|name|TDA9500|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TDA9500', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ''}]|
+|name|name|Video : TDA9500|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TDA9500'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> ''</td></tr></table>]|
 ||||

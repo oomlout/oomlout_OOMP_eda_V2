@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDIODECSD16E > CSD01060E
+# SZKDIODECSD16E > Diode : CSD01060E
 
 - ID: SYMBOL-kicad-kicad-symbols-Diode-CSD01060E
 - Hex ID: SZKDIODECSD16E
-- Name: CSD01060E
-- Description: CSD01060E
+- Name: Diode : CSD01060E
+- Description: Diode : CSD01060E
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-CSD01060E](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-CSD01060E)
 - Short Link: [http://oom.lt/SZKDIODECSD16E](http://oom.lt/SZKDIODECSD16E)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|CSD01060E|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-CSD01060E|
 |Hex ID (short code)|hexID|SZKDIODECSD16E|
-|name|name|CSD01060E|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'CSD01060E', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TO-252-2_TabPin1', 'kicadSymbolDatasheet': 'https://www.wolfspeed.com/media/downloads/87/CSD01060.pdf', 'kicadSymbolki_keywords': 'sic diode', 'kicadSymbolki_description': '600V, 1A, SiC Schottky Diode, TO-252', 'kicadSymbolki_fp_filters': 'TO?252*TabPin1*'}]|
+|name|name|Diode : CSD01060E|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'CSD01060E'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>TO-252-2_TabPin1'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.wolfspeed.com/media/downloads/87/CSD01060.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'sic diode'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '600V</td><td> 1A</td><td> SiC Schottky Diode</td><td> TO-252'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TO?252*TabPin1*'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORFETIRF7171M > IRF7171M
+# SZKTRANSISTORFETIRF7171M > Transistor_FET : IRF7171M
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF7171M
 - Hex ID: SZKTRANSISTORFETIRF7171M
-- Name: IRF7171M
-- Description: IRF7171M
+- Name: Transistor_FET : IRF7171M
+- Description: Transistor_FET : IRF7171M
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF7171M](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF7171M)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETIRF7171M](http://oom.lt/SZKTRANSISTORFETIRF7171M)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IRF7171M|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF7171M|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETIRF7171M|
-|name|name|IRF7171M|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BSB028N06NN3', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'IRF7171M', 'kicadSymbolFootprint': 'Package_DirectFET:DirectFET_MN', 'kicadSymbolDatasheet': 'https://www.infineon.com/dgdl/irf7171mpbf.pdf?fileId=5546d462533600a4015355f1326f1ad6', 'kicadSymbolki_keywords': 'N-Channel MOSFET', 'kicadSymbolki_description': '93A Id, 100V Vds, 6.5mOhm Rds, N-Channel MOSFET, DirectFET MN', 'kicadSymbolki_fp_filters': 'DirectFET*MN*'}]|
+|name|name|Transistor_FET : IRF7171M|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'BSB028N06NN3'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'IRF7171M'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DirectFET</td></tr><tr><td>DirectFET_MN'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.infineon.com/dgdl/irf7171mpbf.pdf?fileId=5546d462533600a4015355f1326f1ad6'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'N-Channel MOSFET'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '93A Id</td><td> 100V Vds</td><td> 6.5mOhm Rds</td><td> N-Channel MOSFET</td><td> DirectFET MN'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DirectFET*MN*'</td></tr></table>]|
 ||||

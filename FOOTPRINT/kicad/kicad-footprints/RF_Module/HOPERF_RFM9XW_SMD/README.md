@@ -29,5 +29,5 @@ NO IMAGE
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-RF_Module-HOPERF_RFM9XW_SMD|
 |Hex ID (short code)|hexID|FZKRFMOHOPERFRFM9XWSM|
 |name|name|RF_Module : HOPERF_RFM9XW_SMD|
-|Footprint Kicad|footprintKicadDetails|{'name': 'HOPERF_RFM9XW_SMD', 'description': 'Low Power Long Range Transceiver Module SMD-16 (https://www.hoperf.com/data/upload/portal/20181127/5bfcbea20e9ef.pdf)', 'tags': 'LoRa Low Power Long Range Transceiver Module', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/RF_Module.3dshapes/HOPERF_RFM9XW_SMD.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'HOPERF_RFM9XW_SMD'</td><td> 'description'</td></tr><tr><td> 'Low Power Long Range Transceiver Module SMD-16 (https</td></tr><tr><td>//www.hoperf.com/data/upload/portal/20181127/5bfcbea20e9ef.pdf)'</td><td> 'tags'</td></tr><tr><td> 'LoRa Low Power Long Range Transceiver Module'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/RF_Module.3dshapes/HOPERF_RFM9XW_SMD.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

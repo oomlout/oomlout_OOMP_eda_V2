@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUSTSTM32L1STM32L151VDTXX > STM32L151VDTxX
+# SZKMCUSTSTM32L1STM32L151VDTXX > MCU_ST_STM32L1 : STM32L151VDTxX
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L1-STM32L151VDTxX
 - Hex ID: SZKMCUSTSTM32L1STM32L151VDTXX
-- Name: STM32L151VDTxX
-- Description: STM32L151VDTxX
+- Name: MCU_ST_STM32L1 : STM32L151VDTxX
+- Description: MCU_ST_STM32L1 : STM32L151VDTxX
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L1-STM32L151VDTxX](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L1-STM32L151VDTxX)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32L1STM32L151VDTXX](http://oom.lt/SZKMCUSTSTM32L1STM32L151VDTXX)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|STM32L151VDTxX|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L1-STM32L151VDTxX|
 |Hex ID (short code)|hexID|SZKMCUSTSTM32L1STM32L151VDTXX|
-|name|name|STM32L151VDTxX|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'STM32L151VDTxX', 'kicadSymbolFootprint': 'Package_QFP:LQFP-100_14x14mm_P0.5mm', 'kicadSymbolDatasheet': 'http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00034689.pdf', 'kicadSymbolki_keywords': 'ARM Cortex-M3 STM32L1 STM32L151/152', 'kicadSymbolki_description': 'ARM Cortex-M3 MCU, 384KB flash, 80KB RAM, 32MHz, 1.65-3.6V, 83 GPIO, LQFP-100', 'kicadSymbolki_fp_filters': 'LQFP*14x14mm*P0.5mm*'}]|
+|name|name|MCU_ST_STM32L1 : STM32L151VDTxX|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'STM32L151VDTxX'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_QFP</td></tr><tr><td>LQFP-100_14x14mm_P0.5mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00034689.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'ARM Cortex-M3 STM32L1 STM32L151/152'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'ARM Cortex-M3 MCU</td><td> 384KB flash</td><td> 80KB RAM</td><td> 32MHz</td><td> 1.65-3.6V</td><td> 83 GPIO</td><td> LQFP-100'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'LQFP*14x14mm*P0.5mm*'</td></tr></table>]|
 ||||

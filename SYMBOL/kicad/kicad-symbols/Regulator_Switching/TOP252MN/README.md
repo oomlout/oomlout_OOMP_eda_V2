@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORSWITCHINGTOP252MN > TOP252MN
+# SZKREGULATORSWITCHINGTOP252MN > Regulator_Switching : TOP252MN
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-TOP252MN
 - Hex ID: SZKREGULATORSWITCHINGTOP252MN
-- Name: TOP252MN
-- Description: TOP252MN
+- Name: Regulator_Switching : TOP252MN
+- Description: Regulator_Switching : TOP252MN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TOP252MN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-TOP252MN)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGTOP252MN](http://oom.lt/SZKREGULATORSWITCHINGTOP252MN)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TOP252MN|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-TOP252MN|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGTOP252MN|
-|name|name|TOP252MN|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TOP252MN', 'kicadSymbolFootprint': 'Package_DIP:PowerIntegrations_SDIP-10C', 'kicadSymbolDatasheet': 'https://ac-dc.power.com/sites/default/files/product-docs/topswitch-hx_family_datasheet.pdf', 'kicadSymbolki_keywords': 'Eco Smart Off-Line Switcher, Extendend Power Range', 'kicadSymbolki_description': 'TOPSwitch-HX Family, 10W Output Power', 'kicadSymbolki_fp_filters': 'PowerIntegrations?SDIP?10C*'}]|
+|name|name|Regulator_Switching : TOP252MN|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TOP252MN'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>PowerIntegrations_SDIP-10C'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//ac-dc.power.com/sites/default/files/product-docs/topswitch-hx_family_datasheet.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Eco Smart Off-Line Switcher</td><td> Extendend Power Range'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'TOPSwitch-HX Family</td><td> 10W Output Power'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'PowerIntegrations?SDIP?10C*'</td></tr></table>]|
 ||||

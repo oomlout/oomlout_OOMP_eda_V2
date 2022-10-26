@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKANALOGDACMC148DIP > MC1408_DIP
+# SZKANALOGDACMC148DIP > Analog_DAC : MC1408_DIP
 
 - ID: SYMBOL-kicad-kicad-symbols-Analog_DAC-MC1408_DIP
 - Hex ID: SZKANALOGDACMC148DIP
-- Name: MC1408_DIP
-- Description: MC1408_DIP
+- Name: Analog_DAC : MC1408_DIP
+- Description: Analog_DAC : MC1408_DIP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-MC1408_DIP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-MC1408_DIP)
 - Short Link: [http://oom.lt/SZKANALOGDACMC148DIP](http://oom.lt/SZKANALOGDACMC148DIP)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MC1408_DIP|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_DAC-MC1408_DIP|
 |Hex ID (short code)|hexID|SZKANALOGDACMC148DIP|
-|name|name|MC1408_DIP|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MC1408_DIP', 'kicadSymbolFootprint': 'Package_DIP:DIP-16_W7.62mm', 'kicadSymbolDatasheet': 'http://www.pinballpcb.com/datasheets/OnMC1408-dac.pdf', 'kicadSymbolki_keywords': '8 bit multiplying DAC', 'kicadSymbolki_description': '8-bit multiplying DAC', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
+|name|name|Analog_DAC : MC1408_DIP|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MC1408_DIP'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>DIP-16_W7.62mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.pinballpcb.com/datasheets/OnMC1408-dac.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> '8 bit multiplying DAC'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '8-bit multiplying DAC'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W7.62mm*'</td></tr></table>]|
 ||||

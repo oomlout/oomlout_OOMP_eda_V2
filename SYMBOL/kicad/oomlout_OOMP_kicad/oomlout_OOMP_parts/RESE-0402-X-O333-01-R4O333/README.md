@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE42XO3331R4O333 > RESE-0402-X-O333-01-R4O333
+# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE42XO3331R4O333 > oomlout_OOMP_parts : RESE-0402-X-O333-01-R4O333
 
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O333-01-R4O333
 - Hex ID: SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE42XO3331R4O333
-- Name: RESE-0402-X-O333-01-R4O333
-- Description: RESE-0402-X-O333-01-R4O333
+- Name: oomlout_OOMP_parts : RESE-0402-X-O333-01-R4O333
+- Description: oomlout_OOMP_parts : RESE-0402-X-O333-01-R4O333
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O333-01-R4O333](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O333-01-R4O333)
 - Short Link: [http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE42XO3331R4O333](http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE42XO3331R4O333)
   
@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|RESE-0402-X-O333-01-R4O333|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O333-01-R4O333|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE42XO3331R4O333|
-|name|name|RESE-0402-X-O333-01-R4O333|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'R', 'kicadSymbolValue': 'RESE-0402-X-O333-01-R4O333', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:RESE-0402-X-O333-01-R4O333', 'kicadSymbolDatasheet': 'oom.lt/R4O333', 'kicadSymbolki_keywords': 'R res resistor', 'kicadSymbolki_description': 'hexID: R4O333;PARTL C-JLCC;C25779;MANUF C-XXXX;0402WGF3302TCE;Resistor', 'kicadSymbolki_fp_filters': 'R_*'}]|
+|name|name|oomlout_OOMP_parts : RESE-0402-X-O333-01-R4O333|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'R'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'RESE-0402-X-O333-01-R4O333'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'oomlout_OOMP_parts</td></tr><tr><td>RESE-0402-X-O333-01-R4O333'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'oom.lt/R4O333'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'R res resistor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'hexID</td></tr><tr><td> R4O333;PARTL C-JLCC;C25779;MANUF C-XXXX;0402WGF3302TCE;Resistor'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'R_*'</td></tr></table>]|
 ||||

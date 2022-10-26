@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORSWITCHEDCAPACITORLT154XSW > LT1054xSW
+# SZKREGULATORSWITCHEDCAPACITORLT154XSW > Regulator_SwitchedCapacitor : LT1054xSW
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_SwitchedCapacitor-LT1054xSW
 - Hex ID: SZKREGULATORSWITCHEDCAPACITORLT154XSW
-- Name: LT1054xSW
-- Description: LT1054xSW
+- Name: Regulator_SwitchedCapacitor : LT1054xSW
+- Description: Regulator_SwitchedCapacitor : LT1054xSW
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_SwitchedCapacitor-LT1054xSW](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_SwitchedCapacitor-LT1054xSW)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHEDCAPACITORLT154XSW](http://oom.lt/SZKREGULATORSWITCHEDCAPACITORLT154XSW)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LT1054xSW|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_SwitchedCapacitor-LT1054xSW|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHEDCAPACITORLT154XSW|
-|name|name|LT1054xSW|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LT1054xSW', 'kicadSymbolFootprint': 'Package_SO:SOIC-16W_7.5x10.3mm_P1.27mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/1054lfh.pdf', 'kicadSymbolki_keywords': 'monolithic bipolar switched capacitor voltage converter regulator inverter doubler shutdown', 'kicadSymbolki_description': 'Switched-Capacitor Voltage Converter with Regulator, output current 100mA, operating range 3.5V to 15V, low loss 1.1V at 100mA, SO-16', 'kicadSymbolki_fp_filters': 'SOIC?16W*7.5x10.3mm*P1.27mm*'}]|
+|name|name|Regulator_SwitchedCapacitor : LT1054xSW|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LT1054xSW'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-16W_7.5x10.3mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/1054lfh.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'monolithic bipolar switched capacitor voltage converter regulator inverter doubler shutdown'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Switched-Capacitor Voltage Converter with Regulator</td><td> output current 100mA</td><td> operating range 3.5V to 15V</td><td> low loss 1.1V at 100mA</td><td> SO-16'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC?16W*7.5x10.3mm*P1.27mm*'</td></tr></table>]|
 ||||

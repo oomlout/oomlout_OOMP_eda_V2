@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE63XO2431R6O243 > RESE-0603-X-O243-01-R6O243
+# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE63XO2431R6O243 > oomlout_OOMP_parts : RESE-0603-X-O243-01-R6O243
 
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O243-01-R6O243
 - Hex ID: SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE63XO2431R6O243
-- Name: RESE-0603-X-O243-01-R6O243
-- Description: RESE-0603-X-O243-01-R6O243
+- Name: oomlout_OOMP_parts : RESE-0603-X-O243-01-R6O243
+- Description: oomlout_OOMP_parts : RESE-0603-X-O243-01-R6O243
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O243-01-R6O243](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O243-01-R6O243)
 - Short Link: [http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE63XO2431R6O243](http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE63XO2431R6O243)
   
@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|RESE-0603-X-O243-01-R6O243|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O243-01-R6O243|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE63XO2431R6O243|
-|name|name|RESE-0603-X-O243-01-R6O243|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'R', 'kicadSymbolValue': 'RESE-0603-X-O243-01-R6O243', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:RESE-0603-X-O243-01-R6O243', 'kicadSymbolDatasheet': 'oom.lt/R6O243', 'kicadSymbolki_keywords': 'R res resistor', 'kicadSymbolki_description': 'hexID: R6O243;PARTL C-JLCC;C23352;MANUF C-XXXX;0603WAF2402T5E;Resistor', 'kicadSymbolki_fp_filters': 'R_*'}]|
+|name|name|oomlout_OOMP_parts : RESE-0603-X-O243-01-R6O243|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'R'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'RESE-0603-X-O243-01-R6O243'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'oomlout_OOMP_parts</td></tr><tr><td>RESE-0603-X-O243-01-R6O243'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'oom.lt/R6O243'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'R res resistor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'hexID</td></tr><tr><td> R6O243;PARTL C-JLCC;C23352;MANUF C-XXXX;0603WAF2402T5E;Resistor'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'R_*'</td></tr></table>]|
 ||||

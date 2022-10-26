@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKINTERFACEUARTZ853 > Z8530
+# SZKINTERFACEUARTZ853 > Interface_UART : Z8530
 
 - ID: SYMBOL-kicad-kicad-symbols-Interface_UART-Z8530
 - Hex ID: SZKINTERFACEUARTZ853
-- Name: Z8530
-- Description: Z8530
+- Name: Interface_UART : Z8530
+- Description: Interface_UART : Z8530
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-Z8530](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_UART-Z8530)
 - Short Link: [http://oom.lt/SZKINTERFACEUARTZ853](http://oom.lt/SZKINTERFACEUARTZ853)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Z8530|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_UART-Z8530|
 |Hex ID (short code)|hexID|SZKINTERFACEUARTZ853|
-|name|name|Z8530|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'Z8530', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_keywords': 'SCC Serial Communication', 'kicadSymbolki_description': 'SCC Serial Communication Controller, DIP-40', 'kicadSymbolki_fp_filters': 'DIP* PDIP*'}]|
+|name|name|Interface_UART : Z8530|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Z8530'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'SCC Serial Communication'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'SCC Serial Communication Controller</td><td> DIP-40'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP* PDIP*'</td></tr></table>]|
 ||||

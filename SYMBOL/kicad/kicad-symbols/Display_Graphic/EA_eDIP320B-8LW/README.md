@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDIGRAPHICEAEDIP32B8LW > EA_eDIP320B-8LW
+# SZKDIGRAPHICEAEDIP32B8LW > Display_Graphic : EA_eDIP320B-8LW
 
 - ID: SYMBOL-kicad-kicad-symbols-Display_Graphic-EA_eDIP320B-8LW
 - Hex ID: SZKDIGRAPHICEAEDIP32B8LW
-- Name: EA_eDIP320B-8LW
-- Description: EA_eDIP320B-8LW
+- Name: Display_Graphic : EA_eDIP320B-8LW
+- Description: Display_Graphic : EA_eDIP320B-8LW
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Graphic-EA_eDIP320B-8LW](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Graphic-EA_eDIP320B-8LW)
 - Short Link: [http://oom.lt/SZKDIGRAPHICEAEDIP32B8LW](http://oom.lt/SZKDIGRAPHICEAEDIP32B8LW)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|EA_eDIP320B-8LW|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Display_Graphic-EA_eDIP320B-8LW|
 |Hex ID (short code)|hexID|SZKDIGRAPHICEAEDIP32B8LW|
-|name|name|EA_eDIP320B-8LW|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'EA_eDIP320B-8LW', 'kicadSymbolFootprint': 'Display:EA_eDIP320X-XXX', 'kicadSymbolDatasheet': 'http://www.lcd-module.com/fileadmin/eng/pdf/grafik/edip320-8e.pdf', 'kicadSymbolki_keywords': 'display LCD graphic', 'kicadSymbolki_description': 'LCD graphical display 320x240 white LED backlight blue negative, +5V VDD, RS-232, I2C or SPI', 'kicadSymbolki_fp_filters': '*EA*eDIP320*'}]|
+|name|name|Display_Graphic : EA_eDIP320B-8LW|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'EA_eDIP320B-8LW'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Display</td></tr><tr><td>EA_eDIP320X-XXX'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.lcd-module.com/fileadmin/eng/pdf/grafik/edip320-8e.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'display LCD graphic'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'LCD graphical display 320x240 white LED backlight blue negative</td><td> +5V VDD</td><td> RS-232</td><td> I2C or SPI'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> '*EA*eDIP320*'</td></tr></table>]|
 ||||

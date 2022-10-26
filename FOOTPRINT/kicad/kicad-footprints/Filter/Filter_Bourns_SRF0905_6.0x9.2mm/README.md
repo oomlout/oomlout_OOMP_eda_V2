@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Filter-Filter_Bourns_SRF0905_6.0x9.2mm|
 |Hex ID (short code)|hexID|FZKFILFILBOURNSSRF956X92|
 |name|name|Filter : Filter_Bourns_SRF0905_6.0x9.2mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Filter_Bourns_SRF0905_6.0x9.2mm', 'description': 'https://www.bourns.com/docs/Product-Datasheets/SRF0905.pdf', 'tags': 'Line Filter', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Filter.3dshapes/Filter_Bourns_SRF0905_6.0x9.2mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Filter_Bourns_SRF0905_6.0x9.2mm'</td><td> 'description'</td></tr><tr><td> 'https</td></tr><tr><td>//www.bourns.com/docs/Product-Datasheets/SRF0905.pdf'</td><td> 'tags'</td></tr><tr><td> 'Line Filter'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Filter.3dshapes/Filter_Bourns_SRF0905_6.0x9.2mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

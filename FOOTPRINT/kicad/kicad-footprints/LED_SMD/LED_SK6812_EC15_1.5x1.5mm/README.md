@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_SK6812_EC15_1.5x1.5mm|
 |Hex ID (short code)|hexID|FZKLSMLSK6812EC1515X15|
 |name|name|LED_SMD : LED_SK6812_EC15_1.5x1.5mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'LED_SK6812_EC15_1.5x1.5mm', 'description': 'http://www.newstar-ledstrip.com/product/20181119172602110.pdf', 'tags': 'LED RGB NeoPixel', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED_SK6812_EC15_1.5x1.5mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'LED_SK6812_EC15_1.5x1.5mm'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//www.newstar-ledstrip.com/product/20181119172602110.pdf'</td><td> 'tags'</td></tr><tr><td> 'LED RGB NeoPixel'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/LED_SMD.3dshapes/LED_SK6812_EC15_1.5x1.5mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

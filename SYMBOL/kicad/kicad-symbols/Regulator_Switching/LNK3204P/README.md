@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORSWITCHINGLNK324P > LNK3204P
+# SZKREGULATORSWITCHINGLNK324P > Regulator_Switching : LNK3204P
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK3204P
 - Hex ID: SZKREGULATORSWITCHINGLNK324P
-- Name: LNK3204P
-- Description: LNK3204P
+- Name: Regulator_Switching : LNK3204P
+- Description: Regulator_Switching : LNK3204P
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK3204P](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK3204P)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGLNK324P](http://oom.lt/SZKREGULATORSWITCHINGLNK324P)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LNK3204P|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK3204P|
 |Hex ID (short code)|hexID|SZKREGULATORSWITCHINGLNK324P|
-|name|name|LNK3204P|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'LNK3202P', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LNK3204P', 'kicadSymbolFootprint': 'Package_DIP:PowerIntegrations_PDIP-8C', 'kicadSymbolDatasheet': 'https://ac-dc.power.com/sites/default/files/product-docs/LinkSwitch-TN2_family_datasheet.pdf', 'kicadSymbolki_keywords': 'Lowest Component Count, Energy-Efficient Off-Line Switcher IC', 'kicadSymbolki_description': 'LinkSwitch-TN2 Family, 170mA Output Current, DIP-8C', 'kicadSymbolki_fp_filters': 'PowerIntegrations?PDIP?8C*'}]|
+|name|name|Regulator_Switching : LNK3204P|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'LNK3202P'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LNK3204P'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>PowerIntegrations_PDIP-8C'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//ac-dc.power.com/sites/default/files/product-docs/LinkSwitch-TN2_family_datasheet.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Lowest Component Count</td><td> Energy-Efficient Off-Line Switcher IC'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'LinkSwitch-TN2 Family</td><td> 170mA Output Current</td><td> DIP-8C'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'PowerIntegrations?PDIP?8C*'</td></tr></table>]|
 ||||

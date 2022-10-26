@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORBJTBD434 > BD434
+# SZKTRANSISTORBJTBD434 > Transistor_BJT : BD434
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-BD434
 - Hex ID: SZKTRANSISTORBJTBD434
-- Name: BD434
-- Description: BD434
+- Name: Transistor_BJT : BD434
+- Description: Transistor_BJT : BD434
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BD434](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_BJT-BD434)
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTBD434](http://oom.lt/SZKTRANSISTORBJTBD434)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BD434|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_BJT-BD434|
 |Hex ID (short code)|hexID|SZKTRANSISTORBJTBD434|
-|name|name|BD434|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'BD434', 'kicadSymbolFootprint': 'Package_TO_SOT_THT:TO-126-3_Vertical', 'kicadSymbolDatasheet': 'http://www.cdil.com/datasheets/bd433_42.pdf', 'kicadSymbolki_keywords': 'Power PNP Transistor', 'kicadSymbolki_description': '4A Ic, 22V Vce, Power PNP Transistor, TO-126', 'kicadSymbolki_fp_filters': 'TO?126*'}]|
+|name|name|Transistor_BJT : BD434|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'BD434'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_THT</td></tr><tr><td>TO-126-3_Vertical'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.cdil.com/datasheets/bd433_42.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Power PNP Transistor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '4A Ic</td><td> 22V Vce</td><td> Power PNP Transistor</td><td> TO-126'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TO?126*'</td></tr></table>]|
 ||||

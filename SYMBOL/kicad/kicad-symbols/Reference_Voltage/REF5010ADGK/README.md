@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREFERENCEVOLTAGEREF51ADGK > REF5010ADGK
+# SZKREFERENCEVOLTAGEREF51ADGK > Reference_Voltage : REF5010ADGK
 
 - ID: SYMBOL-kicad-kicad-symbols-Reference_Voltage-REF5010ADGK
 - Hex ID: SZKREFERENCEVOLTAGEREF51ADGK
-- Name: REF5010ADGK
-- Description: REF5010ADGK
+- Name: Reference_Voltage : REF5010ADGK
+- Description: Reference_Voltage : REF5010ADGK
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-REF5010ADGK](http://oom.lt/SYMBOL-kicad-kicad-symbols-Reference_Voltage-REF5010ADGK)
 - Short Link: [http://oom.lt/SZKREFERENCEVOLTAGEREF51ADGK](http://oom.lt/SZKREFERENCEVOLTAGEREF51ADGK)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|REF5010ADGK|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Reference_Voltage-REF5010ADGK|
 |Hex ID (short code)|hexID|SZKREFERENCEVOLTAGEREF51ADGK|
-|name|name|REF5010ADGK|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'REF5020ADGK', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'REF5010ADGK', 'kicadSymbolFootprint': 'Package_SO:MSOP-8_3x3mm_P0.65mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/ref5030.pdf', 'kicadSymbolki_keywords': 'Low Noise Precision Voltage Reference 10V', 'kicadSymbolki_description': '10V 0.1% 10mA Low Noise Precision Voltage Reference, MSOP-8', 'kicadSymbolki_fp_filters': 'MSOP*3x3mm*P0.65mm*'}]|
+|name|name|Reference_Voltage : REF5010ADGK|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'REF5020ADGK'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'REF5010ADGK'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>MSOP-8_3x3mm_P0.65mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/ref5030.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Low Noise Precision Voltage Reference 10V'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '10V 0.1% 10mA Low Noise Precision Voltage Reference</td><td> MSOP-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'MSOP*3x3mm*P0.65mm*'</td></tr></table>]|
 ||||

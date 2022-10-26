@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMEMORYFLASHAT45DB161DSU > AT45DB161D-SU
+# SZKMEMORYFLASHAT45DB161DSU > Memory_Flash : AT45DB161D-SU
 
 - ID: SYMBOL-kicad-kicad-symbols-Memory_Flash-AT45DB161D-SU
 - Hex ID: SZKMEMORYFLASHAT45DB161DSU
-- Name: AT45DB161D-SU
-- Description: AT45DB161D-SU
+- Name: Memory_Flash : AT45DB161D-SU
+- Description: Memory_Flash : AT45DB161D-SU
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_Flash-AT45DB161D-SU](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_Flash-AT45DB161D-SU)
 - Short Link: [http://oom.lt/SZKMEMORYFLASHAT45DB161DSU](http://oom.lt/SZKMEMORYFLASHAT45DB161DSU)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AT45DB161D-SU|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Memory_Flash-AT45DB161D-SU|
 |Hex ID (short code)|hexID|SZKMEMORYFLASHAT45DB161DSU|
-|name|name|AT45DB161D-SU|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'AT45DB161D-SU', 'kicadSymbolFootprint': 'Package_SO:SOIC-8_5.275x5.275mm_P1.27mm', 'kicadSymbolDatasheet': 'https://www.adestotech.com/wp-content/uploads/doc3500.pdf', 'kicadSymbolki_keywords': 'Adesto Flash Memory DataFlash', 'kicadSymbolki_description': '16Mb Serial DataFlash, 2.5V Vcc, SOIC-8', 'kicadSymbolki_fp_filters': 'SOIC*P1.27mm*'}]|
+|name|name|Memory_Flash : AT45DB161D-SU|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'AT45DB161D-SU'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-8_5.275x5.275mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.adestotech.com/wp-content/uploads/doc3500.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Adesto Flash Memory DataFlash'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '16Mb Serial DataFlash</td><td> 2.5V Vcc</td><td> SOIC-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*P1.27mm*'</td></tr></table>]|
 ||||

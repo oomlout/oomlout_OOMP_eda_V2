@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_BGA-XBGA-121_10x10mm_Layout11x11_P0.8mm|
 |Hex ID (short code)|hexID|FZKBGAXBGA1211X1LAYOUT11X11P8|
 |name|name|Package_BGA : XBGA-121_10x10mm_Layout11x11_P0.8mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'XBGA-121_10x10mm_Layout11x11_P0.8mm', 'description': 'XBGA-121, 11x11 raster, 10x10mm package, pitch 0.6mm; http://ww1.microchip.com/downloads/en/DeviceDoc/39969b.pdf', 'tags': 'BGA 121 0.8', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/XBGA-121_10x10mm_Layout11x11_P0.8mm.wrl', 'pins': {'type': 'smd', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'XBGA-121_10x10mm_Layout11x11_P0.8mm'</td><td> 'description'</td></tr><tr><td> 'XBGA-121</td><td> 11x11 raster</td><td> 10x10mm package</td><td> pitch 0.6mm; http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/39969b.pdf'</td><td> 'tags'</td></tr><tr><td> 'BGA 121 0.8'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_BGA.3dshapes/XBGA-121_10x10mm_Layout11x11_P0.8mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

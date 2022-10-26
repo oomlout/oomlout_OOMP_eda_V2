@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE42XO241R4O24 > RESE-0402-X-O204-01-R4O204
+# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE42XO241R4O24 > oomlout_OOMP_parts : RESE-0402-X-O204-01-R4O204
 
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O204-01-R4O204
 - Hex ID: SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE42XO241R4O24
-- Name: RESE-0402-X-O204-01-R4O204
-- Description: RESE-0402-X-O204-01-R4O204
+- Name: oomlout_OOMP_parts : RESE-0402-X-O204-01-R4O204
+- Description: oomlout_OOMP_parts : RESE-0402-X-O204-01-R4O204
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O204-01-R4O204](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O204-01-R4O204)
 - Short Link: [http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE42XO241R4O24](http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE42XO241R4O24)
   
@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|RESE-0402-X-O204-01-R4O204|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O204-01-R4O204|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE42XO241R4O24|
-|name|name|RESE-0402-X-O204-01-R4O204|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'R', 'kicadSymbolValue': 'RESE-0402-X-O204-01-R4O204', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:RESE-0402-X-O204-01-R4O204', 'kicadSymbolDatasheet': 'oom.lt/R4O204', 'kicadSymbolki_keywords': 'R res resistor', 'kicadSymbolki_description': 'hexID: R4O204;PARTL C-JLCC;C25764;MANUF C-XXXX;0402WGF2003TCE;Resistor', 'kicadSymbolki_fp_filters': 'R_*'}]|
+|name|name|oomlout_OOMP_parts : RESE-0402-X-O204-01-R4O204|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'R'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'RESE-0402-X-O204-01-R4O204'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'oomlout_OOMP_parts</td></tr><tr><td>RESE-0402-X-O204-01-R4O204'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'oom.lt/R4O204'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'R res resistor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'hexID</td></tr><tr><td> R4O204;PARTL C-JLCC;C25764;MANUF C-XXXX;0402WGF2003TCE;Resistor'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'R_*'</td></tr></table>]|
 ||||

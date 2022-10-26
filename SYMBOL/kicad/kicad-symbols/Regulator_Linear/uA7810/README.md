@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORLINEARUA781 > uA7810
+# SZKREGULATORLINEARUA781 > Regulator_Linear : uA7810
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-uA7810
 - Hex ID: SZKREGULATORLINEARUA781
-- Name: uA7810
-- Description: uA7810
+- Name: Regulator_Linear : uA7810
+- Description: Regulator_Linear : uA7810
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-uA7810](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-uA7810)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARUA781](http://oom.lt/SZKREGULATORLINEARUA781)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|uA7810|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-uA7810|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARUA781|
-|name|name|uA7810|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'uA7805', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'uA7810', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/ua78.pdf', 'kicadSymbolki_keywords': 'Voltage Regulator 1A Positive', 'kicadSymbolki_description': 'Positive 1A 35V Linear Regulator, Fixed Output 10V, TO-220/TO-263', 'kicadSymbolki_fp_filters': 'TO?263* TO?220*'}]|
+|name|name|Regulator_Linear : uA7810|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'uA7805'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'uA7810'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/ua78.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Voltage Regulator 1A Positive'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Positive 1A 35V Linear Regulator</td><td> Fixed Output 10V</td><td> TO-220/TO-263'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TO?263* TO?220*'</td></tr></table>]|
 ||||

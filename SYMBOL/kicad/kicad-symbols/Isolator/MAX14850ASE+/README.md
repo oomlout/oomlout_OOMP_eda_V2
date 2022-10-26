@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKISOLATORMAX1485ASE+ > MAX14850ASE+
+# SZKISOLATORMAX1485ASE+ > Isolator : MAX14850ASE+
 
 - ID: SYMBOL-kicad-kicad-symbols-Isolator-MAX14850ASE+
 - Hex ID: SZKISOLATORMAX1485ASE+
-- Name: MAX14850ASE+
-- Description: MAX14850ASE+
+- Name: Isolator : MAX14850ASE+
+- Description: Isolator : MAX14850ASE+
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-MAX14850ASE+](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-MAX14850ASE+)
 - Short Link: [http://oom.lt/SZKISOLATORMAX1485ASE+](http://oom.lt/SZKISOLATORMAX1485ASE+)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MAX14850ASE+|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Isolator-MAX14850ASE+|
 |Hex ID (short code)|hexID|SZKISOLATORMAX1485ASE+|
-|name|name|MAX14850ASE+|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MAX14850AEE+', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MAX14850ASE+', 'kicadSymbolFootprint': 'Package_SO:SOIC-16_3.9x9.9mm_P1.27mm', 'kicadSymbolDatasheet': 'https://datasheets.maximintegrated.com/en/ds/MAX14850.pdf', 'kicadSymbolki_keywords': '6 channel digital isolator bidirectional', 'kicadSymbolki_description': 'Six-channel digital isolator, bidirectional, 3V3, 5V, SOIC-16', 'kicadSymbolki_fp_filters': 'SOIC*3.9x9.9mm?P1.27mm*'}]|
+|name|name|Isolator : MAX14850ASE+|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'MAX14850AEE+'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MAX14850ASE+'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-16_3.9x9.9mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//datasheets.maximintegrated.com/en/ds/MAX14850.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> '6 channel digital isolator bidirectional'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Six-channel digital isolator</td><td> bidirectional</td><td> 3V3</td><td> 5V</td><td> SOIC-16'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*3.9x9.9mm?P1.27mm*'</td></tr></table>]|
 ||||

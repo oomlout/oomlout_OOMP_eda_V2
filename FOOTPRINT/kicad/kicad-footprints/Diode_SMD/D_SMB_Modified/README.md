@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_SMB_Modified|
 |Hex ID (short code)|hexID|FZKDIODESMDSMBMODIFIED|
 |name|name|Diode_SMD : D_SMB_Modified|
-|Footprint Kicad|footprintKicadDetails|{'name': 'D_SMB_Modified', 'description': 'Diode SMB (DO-214AA) Modified (http://www.littelfuse.com/~/media/electronics/datasheets/sidactors/littelfuse_sidactor_battrax_positive_negative_modified_do_214_datasheet.pdf.pdf)', 'tags': 'Diode SMB (DO-214AA)', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SMB_Modified.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'D_SMB_Modified'</td><td> 'description'</td></tr><tr><td> 'Diode SMB (DO-214AA) Modified (http</td></tr><tr><td>//www.littelfuse.com/~/media/electronics/datasheets/sidactors/littelfuse_sidactor_battrax_positive_negative_modified_do_214_datasheet.pdf.pdf)'</td><td> 'tags'</td></tr><tr><td> 'Diode SMB (DO-214AA)'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Diode_SMD.3dshapes/D_SMB_Modified.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

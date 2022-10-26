@@ -29,5 +29,5 @@ NO IMAGE
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Symbol-Symbol_CreativeCommonsPublicDomain_CopperTop_Small|
 |Hex ID (short code)|hexID|FZKSZSYCREATIVECOONSPUBLICDOMAINCTOPSLL|
 |name|name|Symbol : Symbol_CreativeCommonsPublicDomain_CopperTop_Small|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Symbol_CreativeCommonsPublicDomain_CopperTop_Small', 'description': 'Symbol, Creative Commons Public Domain, CopperTop, Small,', 'tags': 'Symbol, Creative Commons Public Domain, CopperTop, Small,', 'attributeType': None, 'pins': {}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Symbol_CreativeCommonsPublicDomain_CopperTop_Small'</td><td> 'description'</td></tr><tr><td> 'Symbol</td><td> Creative Commons Public Domain</td><td> CopperTop</td><td> Small</td><td>'</td><td> 'tags'</td></tr><tr><td> 'Symbol</td><td> Creative Commons Public Domain</td><td> CopperTop</td><td> Small</td><td>'</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td></td></tr></table></td></tr></table>|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKPOWERPRILO > PRI_LO
+# SZKPOWERPRILO > power : PRI_LO
 
 - ID: SYMBOL-kicad-kicad-symbols-power-PRI_LO
 - Hex ID: SZKPOWERPRILO
-- Name: PRI_LO
-- Description: PRI_LO
+- Name: power : PRI_LO
+- Description: power : PRI_LO
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-power-PRI_LO](http://oom.lt/SYMBOL-kicad-kicad-symbols-power-PRI_LO)
 - Short Link: [http://oom.lt/SZKPOWERPRILO](http://oom.lt/SZKPOWERPRILO)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PRI_LO|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-power-PRI_LO|
 |Hex ID (short code)|hexID|SZKPOWERPRILO|
-|name|name|PRI_LO|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': '#PWR', 'kicadSymbolValue': 'PRI_LO', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_keywords': 'power-flag', 'kicadSymbolki_description': 'Power symbol creates a global label with name "PRI_LO"'}]|
+|name|name|power : PRI_LO|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> '#PWR'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'PRI_LO'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'power-flag'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Power symbol creates a global label with name "PRI_LO"'</td></tr></table>]|
 ||||

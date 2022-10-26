@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUMCHIPPIC18PIC18F442IPT > PIC18F442-IPT
+# SZKMCUMCHIPPIC18PIC18F442IPT > MCU_Microchip_PIC18 : PIC18F442-IPT
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18F442-IPT
 - Hex ID: SZKMCUMCHIPPIC18PIC18F442IPT
-- Name: PIC18F442-IPT
-- Description: PIC18F442-IPT
+- Name: MCU_Microchip_PIC18 : PIC18F442-IPT
+- Description: MCU_Microchip_PIC18 : PIC18F442-IPT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18F442-IPT](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18F442-IPT)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC18PIC18F442IPT](http://oom.lt/SZKMCUMCHIPPIC18PIC18F442IPT)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PIC18F442-IPT|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18F442-IPT|
 |Hex ID (short code)|hexID|SZKMCUMCHIPPIC18PIC18F442IPT|
-|name|name|PIC18F442-IPT|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PIC18F442-IPT', 'kicadSymbolFootprint': 'Package_QFP:TQFP-44_10x10mm_P0.8mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/39564c.pdf', 'kicadSymbolki_keywords': 'Flash-Based 8-Bit Microcontroller', 'kicadSymbolki_description': '16K Flash, 768B SRAM, 256 EEPROM, ADC, TQFP-44', 'kicadSymbolki_fp_filters': 'TQFP*10x10mm*P0.8mm*'}]|
+|name|name|MCU_Microchip_PIC18 : PIC18F442-IPT|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'PIC18F442-IPT'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_QFP</td></tr><tr><td>TQFP-44_10x10mm_P0.8mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/39564c.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Flash-Based 8-Bit Microcontroller'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '16K Flash</td><td> 768B SRAM</td><td> 256 EEPROM</td><td> ADC</td><td> TQFP-44'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TQFP*10x10mm*P0.8mm*'</td></tr></table>]|
 ||||

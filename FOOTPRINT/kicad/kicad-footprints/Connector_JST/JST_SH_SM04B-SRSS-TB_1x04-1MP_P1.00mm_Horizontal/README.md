@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal|
 |Hex ID (short code)|hexID|FZKCNJSTJSTSHSM4BSRSSTB1X41MPP1HORIZONTAL|
 |name|name|Connector_JST : JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal|
-|Footprint Kicad|footprintKicadDetails|{'name': 'JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal', 'description': 'JST SH series connector, SM04B-SRSS-TB (http://www.jst-mfg.com/product/pdf/eng/eSH.pdf), generated with kicad-footprint-generator', 'tags': 'connector JST SH top entry', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_JST.3dshapes/JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal'</td><td> 'description'</td></tr><tr><td> 'JST SH series connector</td><td> SM04B-SRSS-TB (http</td></tr><tr><td>//www.jst-mfg.com/product/pdf/eng/eSH.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'connector JST SH top entry'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_JST.3dshapes/JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

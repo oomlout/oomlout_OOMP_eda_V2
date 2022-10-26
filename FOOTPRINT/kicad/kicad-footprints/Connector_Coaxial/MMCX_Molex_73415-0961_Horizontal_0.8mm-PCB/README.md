@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_Coaxial-MMCX_Molex_73415-0961_Horizontal_0.8mm-PCB|
 |Hex ID (short code)|hexID|FZKCNCOACXMX73415961HORIZONTAL8PCB|
 |name|name|Connector_Coaxial : MMCX_Molex_73415-0961_Horizontal_0.8mm-PCB|
-|Footprint Kicad|footprintKicadDetails|{'name': 'MMCX_Molex_73415-0961_Horizontal_0.8mm-PCB', 'description': 'Molex MMCX Horizontal Coaxial https://www.molex.com/pdm_docs/sd/734150961_sd.pdf', 'tags': 'Molex MMCX Horizontal Coaxial', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_Coaxial.3dshapes/MMCX_Molex_73415-0961_Horizontal.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'MMCX_Molex_73415-0961_Horizontal_0.8mm-PCB'</td><td> 'description'</td></tr><tr><td> 'Molex MMCX Horizontal Coaxial https</td></tr><tr><td>//www.molex.com/pdm_docs/sd/734150961_sd.pdf'</td><td> 'tags'</td></tr><tr><td> 'Molex MMCX Horizontal Coaxial'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_Coaxial.3dshapes/MMCX_Molex_73415-0961_Horizontal.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

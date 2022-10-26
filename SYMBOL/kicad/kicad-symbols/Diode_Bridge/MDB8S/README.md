@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDIODEBRIDGEMDB8S > MDB8S
+# SZKDIODEBRIDGEMDB8S > Diode_Bridge : MDB8S
 
 - ID: SYMBOL-kicad-kicad-symbols-Diode_Bridge-MDB8S
 - Hex ID: SZKDIODEBRIDGEMDB8S
-- Name: MDB8S
-- Description: MDB8S
+- Name: Diode_Bridge : MDB8S
+- Description: Diode_Bridge : MDB8S
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-MDB8S](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-MDB8S)
 - Short Link: [http://oom.lt/SZKDIODEBRIDGEMDB8S](http://oom.lt/SZKDIODEBRIDGEMDB8S)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MDB8S|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode_Bridge-MDB8S|
 |Hex ID (short code)|hexID|SZKDIODEBRIDGEMDB8S|
-|name|name|MDB8S|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MDB6S', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'MDB8S', 'kicadSymbolFootprint': 'Package_SO:TSSOP-4_4.4x5mm_P4mm', 'kicadSymbolDatasheet': 'https://www.onsemi.com/pub/Collateral/MDB8S-D.PDF', 'kicadSymbolki_keywords': 'bridge diode rectifier ac dc acdc ac-dc', 'kicadSymbolki_description': 'Single-Phase Bridge Rectifier, 560V Vrms, 1A If, TSSOP-4', 'kicadSymbolki_fp_filters': 'TSSOP*4.4x5mm*P4mm*'}]|
+|name|name|Diode_Bridge : MDB8S|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'MDB6S'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MDB8S'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>TSSOP-4_4.4x5mm_P4mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.onsemi.com/pub/Collateral/MDB8S-D.PDF'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'bridge diode rectifier ac dc acdc ac-dc'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Single-Phase Bridge Rectifier</td><td> 560V Vrms</td><td> 1A If</td><td> TSSOP-4'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TSSOP*4.4x5mm*P4mm*'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORLINEARLP38693DT18 > LP38693DT-1.8
+# SZKREGULATORLINEARLP38693DT18 > Regulator_Linear : LP38693DT-1.8
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-LP38693DT-1.8
 - Hex ID: SZKREGULATORLINEARLP38693DT18
-- Name: LP38693DT-1.8
-- Description: LP38693DT-1.8
+- Name: Regulator_Linear : LP38693DT-1.8
+- Description: Regulator_Linear : LP38693DT-1.8
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LP38693DT-1.8](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LP38693DT-1.8)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARLP38693DT18](http://oom.lt/SZKREGULATORLINEARLP38693DT18)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LP38693DT-1.8|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-LP38693DT-1.8|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARLP38693DT18|
-|name|name|LP38693DT-1.8|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LP38693DT-1.8', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TO-252-2', 'kicadSymbolDatasheet': 'https://www.ti.com/lit/ds/symlink/lp38693.pdf', 'kicadSymbolki_keywords': 'LDO Linear Regulator', 'kicadSymbolki_description': '500-mA Low-Dropout CMOS Linear Regulators Stable With Ceramic Output Capacitors, 1.8V output voltage, TO-252', 'kicadSymbolki_fp_filters': 'TO*252*'}]|
+|name|name|Regulator_Linear : LP38693DT-1.8|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LP38693DT-1.8'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>TO-252-2'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.ti.com/lit/ds/symlink/lp38693.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'LDO Linear Regulator'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '500-mA Low-Dropout CMOS Linear Regulators Stable With Ceramic Output Capacitors</td><td> 1.8V output voltage</td><td> TO-252'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TO*252*'</td></tr></table>]|
 ||||

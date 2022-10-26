@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKPOWERVAC > VAC
+# SZKPOWERVAC > power : VAC
 
 - ID: SYMBOL-kicad-kicad-symbols-power-VAC
 - Hex ID: SZKPOWERVAC
-- Name: VAC
-- Description: VAC
+- Name: power : VAC
+- Description: power : VAC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-power-VAC](http://oom.lt/SYMBOL-kicad-kicad-symbols-power-VAC)
 - Short Link: [http://oom.lt/SZKPOWERVAC](http://oom.lt/SZKPOWERVAC)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|VAC|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-power-VAC|
 |Hex ID (short code)|hexID|SZKPOWERVAC|
-|name|name|VAC|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': '#PWR', 'kicadSymbolValue': 'VAC', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_keywords': 'power-flag', 'kicadSymbolki_description': 'Power symbol creates a global label with name "VAC"'}]|
+|name|name|power : VAC|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> '#PWR'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'VAC'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'power-flag'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Power symbol creates a global label with name "VAC"'</td></tr></table>]|
 ||||

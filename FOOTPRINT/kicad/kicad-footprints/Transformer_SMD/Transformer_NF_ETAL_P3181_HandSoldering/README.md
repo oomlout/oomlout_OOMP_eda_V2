@@ -29,5 +29,5 @@ NO IMAGE
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Transformer_NF_ETAL_P3181_HandSoldering|
 |Hex ID (short code)|hexID|FZKTRSMTRNFETALP3181HANDSOLDERING|
 |name|name|Transformer_SMD : Transformer_NF_ETAL_P3181_HandSoldering|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Transformer_NF_ETAL_P3181_HandSoldering', 'description': 'NF-Transformer, ETAL, P3181, SMD, Hand Soldering,', 'tags': 'NF-Transformer ETAL P3181 SMD Hand Soldering ', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Transformer_SMD.3dshapes/Transformer_NF_ETAL_P3181_HandSoldering.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Transformer_NF_ETAL_P3181_HandSoldering'</td><td> 'description'</td></tr><tr><td> 'NF-Transformer</td><td> ETAL</td><td> P3181</td><td> SMD</td><td> Hand Soldering</td><td>'</td><td> 'tags'</td></tr><tr><td> 'NF-Transformer ETAL P3181 SMD Hand Soldering '</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Transformer_SMD.3dshapes/Transformer_NF_ETAL_P3181_HandSoldering.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

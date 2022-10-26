@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSLS2121RGBSTANCALRGB2121CA > LEDS-2121-RGB-STAN-CA-LRGB2121CA
+# SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSLS2121RGBSTANCALRGB2121CA > oomlout_OOMP_parts : LEDS-2121-RGB-STAN-CA-LRGB2121CA
 
 - ID: SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-LEDS-2121-RGB-STAN-CA-LRGB2121CA
 - Hex ID: SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSLS2121RGBSTANCALRGB2121CA
-- Name: LEDS-2121-RGB-STAN-CA-LRGB2121CA
-- Description: LEDS-2121-RGB-STAN-CA-LRGB2121CA
+- Name: oomlout_OOMP_parts : LEDS-2121-RGB-STAN-CA-LRGB2121CA
+- Description: oomlout_OOMP_parts : LEDS-2121-RGB-STAN-CA-LRGB2121CA
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-LEDS-2121-RGB-STAN-CA-LRGB2121CA](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-LEDS-2121-RGB-STAN-CA-LRGB2121CA)
 - Short Link: [http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSLS2121RGBSTANCALRGB2121CA](http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSLS2121RGBSTANCALRGB2121CA)
   
@@ -25,6 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|LEDS-2121-RGB-STAN-CA-LRGB2121CA|
 |Full OOMP ID|oompID|SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-LEDS-2121-RGB-STAN-CA-LRGB2121CA|
 |Hex ID (short code)|hexID|SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSLS2121RGBSTANCALRGB2121CA|
-|name|name|LEDS-2121-RGB-STAN-CA-LRGB2121CA|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'LEDS-2121-RGB-STAN-CA-LRGB2121CA', 'kicadSymbolFootprint': 'oomlout_OOMP_parts:LEDS-2121-RGB-STAN-CA-LRGB2121CA', 'kicadSymbolDatasheet': 'oom.lt/LRGB2121CA', 'kicadSymbolki_keywords': 'LED diode', 'kicadSymbolki_description': 'hexID: LRGB2121CA;Light emitting diode', 'kicadSymbolki_fp_filters': 'LED* LED_SMD:* LED_THT:*'}]|
+|name|name|oomlout_OOMP_parts : LEDS-2121-RGB-STAN-CA-LRGB2121CA|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LEDS-2121-RGB-STAN-CA-LRGB2121CA'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'oomlout_OOMP_parts</td></tr><tr><td>LEDS-2121-RGB-STAN-CA-LRGB2121CA'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'oom.lt/LRGB2121CA'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'LED diode'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'hexID</td></tr><tr><td> LRGB2121CA;Light emitting diode'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'LED* LED_SMD</td></tr><tr><td>* LED_THT</td></tr><tr><td>*'</td></tr></table>]|
 ||||

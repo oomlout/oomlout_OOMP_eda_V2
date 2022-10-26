@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDICHARACTERDA411SURKWA > DA04-11SURKWA
+# SZKDICHARACTERDA411SURKWA > Display_Character : DA04-11SURKWA
 
 - ID: SYMBOL-kicad-kicad-symbols-Display_Character-DA04-11SURKWA
 - Hex ID: SZKDICHARACTERDA411SURKWA
-- Name: DA04-11SURKWA
-- Description: DA04-11SURKWA
+- Name: Display_Character : DA04-11SURKWA
+- Description: Display_Character : DA04-11SURKWA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-DA04-11SURKWA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-DA04-11SURKWA)
 - Short Link: [http://oom.lt/SZKDICHARACTERDA411SURKWA](http://oom.lt/SZKDICHARACTERDA411SURKWA)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|DA04-11SURKWA|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Display_Character-DA04-11SURKWA|
 |Hex ID (short code)|hexID|SZKDICHARACTERDA411SURKWA|
-|name|name|DA04-11SURKWA|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'DA04-11SURKWA', 'kicadSymbolFootprint': 'Display_7Segment:DA04-11SURKWA', 'kicadSymbolDatasheet': 'http://www.kingbright.com/attachments/file/psearch/000/00/00/DA04-11SURKWA(Ver.10A).pdf', 'kicadSymbolki_keywords': 'display LED 7-segment', 'kicadSymbolki_description': 'Double 7 segment hyper red LED common anode', 'kicadSymbolki_fp_filters': '*DA04*11*'}]|
+|name|name|Display_Character : DA04-11SURKWA|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'DA04-11SURKWA'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Display_7Segment</td></tr><tr><td>DA04-11SURKWA'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.kingbright.com/attachments/file/psearch/000/00/00/DA04-11SURKWA(Ver.10A).pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'display LED 7-segment'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Double 7 segment hyper red LED common anode'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> '*DA04*11*'</td></tr></table>]|
 ||||

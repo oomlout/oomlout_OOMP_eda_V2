@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Module-Onion_Omega2+|
 |Hex ID (short code)|hexID|FZKMOONIONOMEGA2+|
 |name|name|Module : Onion_Omega2+|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Onion_Omega2+', 'description': 'https://onion.io/omega2/', 'tags': 'Omega Onion module', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Module.3dshapes/Onion_Omega2+.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Onion_Omega2+'</td><td> 'description'</td></tr><tr><td> 'https</td></tr><tr><td>//onion.io/omega2/'</td><td> 'tags'</td></tr><tr><td> 'Omega Onion module'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Module.3dshapes/Onion_Omega2+.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

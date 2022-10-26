@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKINTERFACEETHERNETW55 > W5500
+# SZKINTERFACEETHERNETW55 > Interface_Ethernet : W5500
 
 - ID: SYMBOL-kicad-kicad-symbols-Interface_Ethernet-W5500
 - Hex ID: SZKINTERFACEETHERNETW55
-- Name: W5500
-- Description: W5500
+- Name: Interface_Ethernet : W5500
+- Description: Interface_Ethernet : W5500
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Ethernet-W5500](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Ethernet-W5500)
 - Short Link: [http://oom.lt/SZKINTERFACEETHERNETW55](http://oom.lt/SZKINTERFACEETHERNETW55)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|W5500|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_Ethernet-W5500|
 |Hex ID (short code)|hexID|SZKINTERFACEETHERNETW55|
-|name|name|W5500|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'W5500', 'kicadSymbolFootprint': 'Package_QFP:LQFP-48_7x7mm_P0.5mm', 'kicadSymbolDatasheet': 'http://wizwiki.net/wiki/lib/exe/fetch.php/products:w5500:w5500_ds_v109e.pdf', 'kicadSymbolki_keywords': 'WIZnet Ethernet controller', 'kicadSymbolki_description': '10/100Mb SPI Ethernet controller with TCP/IP stack, LQFP-48', 'kicadSymbolki_fp_filters': 'LQFP*7x7mm*P0.5mm*'}]|
+|name|name|Interface_Ethernet : W5500|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'W5500'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_QFP</td></tr><tr><td>LQFP-48_7x7mm_P0.5mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//wizwiki.net/wiki/lib/exe/fetch.php/products</td></tr><tr><td>w5500</td></tr><tr><td>w5500_ds_v109e.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'WIZnet Ethernet controller'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '10/100Mb SPI Ethernet controller with TCP/IP stack</td><td> LQFP-48'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'LQFP*7x7mm*P0.5mm*'</td></tr></table>]|
 ||||

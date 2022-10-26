@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-PowerMacro_M234_NoHole|
 |Hex ID (short code)|hexID|FZKPACKAGETOSOTSMPOWERMACROM234NOHOLE|
 |name|name|Package_TO_SOT_SMD : PowerMacro_M234_NoHole|
-|Footprint Kicad|footprintKicadDetails|{'name': 'PowerMacro_M234_NoHole', 'description': 'TO-50-4 Power Macro Package Style M234', 'tags': 'TO-50-4 Power Macro Package Style M234', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/PowerMacro_M234_NoHole.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'PowerMacro_M234_NoHole'</td><td> 'description'</td></tr><tr><td> 'TO-50-4 Power Macro Package Style M234'</td><td> 'tags'</td></tr><tr><td> 'TO-50-4 Power Macro Package Style M234'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_TO_SOT_SMD.3dshapes/PowerMacro_M234_NoHole.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

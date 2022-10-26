@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_SMA-SMB_Universal_Handsoldering|
 |Hex ID (short code)|hexID|FZKDIODESMDSSMBUNIVERSALHANDSOLDERING|
 |name|name|Diode_SMD : D_SMA-SMB_Universal_Handsoldering|
-|Footprint Kicad|footprintKicadDetails|{'name': 'D_SMA-SMB_Universal_Handsoldering', 'description': 'Diode, Universal, SMA (DO-214AC) or SMB (DO-214AA), Handsoldering,', 'tags': 'Diode Universal SMA (DO-214AC) SMB (DO-214AA) Handsoldering ', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SMB.wrl', 'pins': {'type': 'smd', 'shape': 'trapezoid'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'D_SMA-SMB_Universal_Handsoldering'</td><td> 'description'</td></tr><tr><td> 'Diode</td><td> Universal</td><td> SMA (DO-214AC) or SMB (DO-214AA)</td><td> Handsoldering</td><td>'</td><td> 'tags'</td></tr><tr><td> 'Diode Universal SMA (DO-214AC) SMB (DO-214AA) Handsoldering '</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Diode_SMD.3dshapes/D_SMB.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'trapezoid'</td></tr></table></td></tr></table>|
 ||||
 
 

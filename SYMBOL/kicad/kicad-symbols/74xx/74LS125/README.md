@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZK74XX74LS125 > 74LS125
+# SZK74XX74LS125 > 74xx : 74LS125
 
 - ID: SYMBOL-kicad-kicad-symbols-74xx-74LS125
 - Hex ID: SZK74XX74LS125
-- Name: 74LS125
-- Description: 74LS125
+- Name: 74xx : 74LS125
+- Description: 74xx : 74LS125
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx-74LS125](http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx-74LS125)
 - Short Link: [http://oom.lt/SZK74XX74LS125](http://oom.lt/SZK74XX74LS125)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|74LS125|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-74xx-74LS125|
 |Hex ID (short code)|hexID|SZK74XX74LS125|
-|name|name|74LS125|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '74LS125', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/gpn/sn74LS125', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'TTL buffer 3State', 'kicadSymbolki_description': 'Quad buffer 3-State outputs', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
+|name|name|74xx : 74LS125|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> '74LS125'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/gpn/sn74LS125'</td><td> 'kicadSymbolki_locked'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'TTL buffer 3State'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Quad buffer 3-State outputs'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W7.62mm*'</td></tr></table>]|
 ||||

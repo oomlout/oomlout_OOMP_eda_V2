@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKANALOGADCMCP38 > MCP3008
+# SZKANALOGADCMCP38 > Analog_ADC : MCP3008
 
 - ID: SYMBOL-kicad-kicad-symbols-Analog_ADC-MCP3008
 - Hex ID: SZKANALOGADCMCP38
-- Name: MCP3008
-- Description: MCP3008
+- Name: Analog_ADC : MCP3008
+- Description: Analog_ADC : MCP3008
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-MCP3008](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-MCP3008)
 - Short Link: [http://oom.lt/SZKANALOGADCMCP38](http://oom.lt/SZKANALOGADCMCP38)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MCP3008|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Analog_ADC-MCP3008|
 |Hex ID (short code)|hexID|SZKANALOGADCMCP38|
-|name|name|MCP3008|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MCP3208', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MCP3008', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/21295d.pdf', 'kicadSymbolki_keywords': '12bit ADC Reference Single Supply SPI 8CH', 'kicadSymbolki_description': 'A/D Converter, 10-Bit, 8-Channel, SPI Interface , 2.7V-5.5V', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm* SOIC*3.9x9.9mm*P1.27mm*'}]|
+|name|name|Analog_ADC : MCP3008|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'MCP3208'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MCP3008'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/21295d.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> '12bit ADC Reference Single Supply SPI 8CH'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'A/D Converter</td><td> 10-Bit</td><td> 8-Channel</td><td> SPI Interface </td><td> 2.7V-5.5V'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W7.62mm* SOIC*3.9x9.9mm*P1.27mm*'</td></tr></table>]|
 ||||

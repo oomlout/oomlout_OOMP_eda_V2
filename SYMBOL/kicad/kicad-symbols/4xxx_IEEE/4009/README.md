@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZK4XXXIEEE49 > 4009
+# SZK4XXXIEEE49 > 4xxx_IEEE : 4009
 
 - ID: SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4009
 - Hex ID: SZK4XXXIEEE49
-- Name: 4009
-- Description: 4009
+- Name: 4xxx_IEEE : 4009
+- Description: 4xxx_IEEE : 4009
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4009](http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4009)
 - Short Link: [http://oom.lt/SZK4XXXIEEE49](http://oom.lt/SZK4XXXIEEE49)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|4009|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4009|
 |Hex ID (short code)|hexID|SZK4XXXIEEE49|
-|name|name|4009|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '4009', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ''}]|
+|name|name|4xxx_IEEE : 4009|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> '4009'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> ''</td></tr></table>]|
 ||||

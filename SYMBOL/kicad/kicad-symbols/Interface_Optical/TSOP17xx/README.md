@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKINTERFACEOPTICALTS17XX > TSOP17xx
+# SZKINTERFACEOPTICALTS17XX > Interface_Optical : TSOP17xx
 
 - ID: SYMBOL-kicad-kicad-symbols-Interface_Optical-TSOP17xx
 - Hex ID: SZKINTERFACEOPTICALTS17XX
-- Name: TSOP17xx
-- Description: TSOP17xx
+- Name: Interface_Optical : TSOP17xx
+- Description: Interface_Optical : TSOP17xx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Optical-TSOP17xx](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Optical-TSOP17xx)
 - Short Link: [http://oom.lt/SZKINTERFACEOPTICALTS17XX](http://oom.lt/SZKINTERFACEOPTICALTS17XX)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TSOP17xx|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_Optical-TSOP17xx|
 |Hex ID (short code)|hexID|SZKINTERFACEOPTICALTS17XX|
-|name|name|TSOP17xx|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TSOP17xx', 'kicadSymbolFootprint': 'OptoDevice:Vishay_CAST-3Pin', 'kicadSymbolDatasheet': 'http://www.micropik.com/PDF/tsop17xx.pdf', 'kicadSymbolki_keywords': 'opto IR receiver', 'kicadSymbolki_description': 'Photo Modules for PCM Remote Control Systems', 'kicadSymbolki_fp_filters': 'Vishay*CAST*'}]|
+|name|name|Interface_Optical : TSOP17xx|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TSOP17xx'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'OptoDevice</td></tr><tr><td>Vishay_CAST-3Pin'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.micropik.com/PDF/tsop17xx.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'opto IR receiver'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Photo Modules for PCM Remote Control Systems'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Vishay*CAST*'</td></tr></table>]|
 ||||

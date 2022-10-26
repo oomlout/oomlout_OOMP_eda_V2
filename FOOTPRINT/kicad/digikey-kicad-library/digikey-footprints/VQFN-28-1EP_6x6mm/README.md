@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-VQFN-28-1EP_6x6mm|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSVQFN281EP6X6|
 |name|name|digikey-footprints : VQFN-28-1EP_6x6mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'VQFN-28-1EP_6x6mm', 'description': 'http://www.semtech.com/images/datasheet/sx1272.pdf', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'VQFN-28-1EP_6x6mm'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//www.semtech.com/images/datasheet/sx1272.pdf'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

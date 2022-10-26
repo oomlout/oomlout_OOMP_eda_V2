@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDICHARACTERMAN73A > MAN73A
+# SZKDICHARACTERMAN73A > Display_Character : MAN73A
 
 - ID: SYMBOL-kicad-kicad-symbols-Display_Character-MAN73A
 - Hex ID: SZKDICHARACTERMAN73A
-- Name: MAN73A
-- Description: MAN73A
+- Name: Display_Character : MAN73A
+- Description: Display_Character : MAN73A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-MAN73A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-MAN73A)
 - Short Link: [http://oom.lt/SZKDICHARACTERMAN73A](http://oom.lt/SZKDICHARACTERMAN73A)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MAN73A|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Display_Character-MAN73A|
 |Hex ID (short code)|hexID|SZKDICHARACTERMAN73A|
-|name|name|MAN73A|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MAN73A', 'kicadSymbolFootprint': 'Display_7Segment:MAN73A', 'kicadSymbolDatasheet': 'https://www.digchip.com/datasheets/parts/datasheet/161/MAN3640A-pdf.php', 'kicadSymbolki_keywords': 'display LED 7-segment', 'kicadSymbolki_description': 'Overflow 7 segment red LED common anode', 'kicadSymbolki_fp_filters': '*MAN73A*'}]|
+|name|name|Display_Character : MAN73A|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MAN73A'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Display_7Segment</td></tr><tr><td>MAN73A'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.digchip.com/datasheets/parts/datasheet/161/MAN3640A-pdf.php'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'display LED 7-segment'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Overflow 7 segment red LED common anode'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> '*MAN73A*'</td></tr></table>]|
 ||||

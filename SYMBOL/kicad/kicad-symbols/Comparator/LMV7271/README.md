@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKCOMPARATORLMV7271 > LMV7271
+# SZKCOMPARATORLMV7271 > Comparator : LMV7271
 
 - ID: SYMBOL-kicad-kicad-symbols-Comparator-LMV7271
 - Hex ID: SZKCOMPARATORLMV7271
-- Name: LMV7271
-- Description: LMV7271
+- Name: Comparator : LMV7271
+- Description: Comparator : LMV7271
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Comparator-LMV7271](http://oom.lt/SYMBOL-kicad-kicad-symbols-Comparator-LMV7271)
 - Short Link: [http://oom.lt/SZKCOMPARATORLMV7271](http://oom.lt/SZKCOMPARATORLMV7271)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LMV7271|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Comparator-LMV7271|
 |Hex ID (short code)|hexID|SZKCOMPARATORLMV7271|
-|name|name|LMV7271|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LMV7271', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/lmv7271.pdf', 'kicadSymbolki_keywords': 'cmp', 'kicadSymbolki_description': 'Single, 1.8V Low Power, Rail-to-Rail Input, Push-Pull Output Comparator, SOT-23-5/SC-70-5', 'kicadSymbolki_fp_filters': 'SOT?23* *SC?70*'}]|
+|name|name|Comparator : LMV7271|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LMV7271'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/lmv7271.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'cmp'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Single</td><td> 1.8V Low Power</td><td> Rail-to-Rail Input</td><td> Push-Pull Output Comparator</td><td> SOT-23-5/SC-70-5'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23* *SC?70*'</td></tr></table>]|
 ||||

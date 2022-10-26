@@ -29,5 +29,5 @@ NO IMAGE
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-RF_Mini-Circuits-Mini-Circuits_CD542_H2.84mm|
 |Hex ID (short code)|hexID|FZKRFMCIRCUITSCD542H284|
 |name|name|RF_Mini-Circuits : Mini-Circuits_CD542_H2.84mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Mini-Circuits_CD542_H2.84mm', 'description': 'https://ww2.minicircuits.com/case_style/CD542.pdf', 'tags': 'RF Transformer', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/RF_Mini-Circuits.3dshapes/Mini-Circuits_CD542_H2.84mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Mini-Circuits_CD542_H2.84mm'</td><td> 'description'</td></tr><tr><td> 'https</td></tr><tr><td>//ww2.minicircuits.com/case_style/CD542.pdf'</td><td> 'tags'</td></tr><tr><td> 'RF Transformer'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/RF_Mini-Circuits.3dshapes/Mini-Circuits_CD542_H2.84mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

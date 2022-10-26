@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORLINEARLT3325 > LT3032-5
+# SZKREGULATORLINEARLT3325 > Regulator_Linear : LT3032-5
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT3032-5
 - Hex ID: SZKREGULATORLINEARLT3325
-- Name: LT3032-5
-- Description: LT3032-5
+- Name: Regulator_Linear : LT3032-5
+- Description: Regulator_Linear : LT3032-5
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT3032-5](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT3032-5)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARLT3325](http://oom.lt/SZKREGULATORLINEARLT3325)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LT3032-5|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT3032-5|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARLT3325|
-|name|name|LT3032-5|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LT3032-5', 'kicadSymbolFootprint': 'Package_DFN_QFN:Linear_DE14MA', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/3032ff.pdf', 'kicadSymbolki_locked': '', 'kicadSymbolki_keywords': 'LDO low noise', 'kicadSymbolki_description': '150mA, Dual Low Dropout Linear Regulator, Positive/Negative Low Noise, 5V Output, DFN-14', 'kicadSymbolki_fp_filters': 'Linear*DE14MA*'}]|
+|name|name|Regulator_Linear : LT3032-5|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LT3032-5'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>Linear_DE14MA'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/3032ff.pdf'</td><td> 'kicadSymbolki_locked'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'LDO low noise'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '150mA</td><td> Dual Low Dropout Linear Regulator</td><td> Positive/Negative Low Noise</td><td> 5V Output</td><td> DFN-14'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Linear*DE14MA*'</td></tr></table>]|
 ||||

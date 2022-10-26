@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZK4XXXIEEE468 > 4068
+# SZK4XXXIEEE468 > 4xxx_IEEE : 4068
 
 - ID: SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4068
 - Hex ID: SZK4XXXIEEE468
-- Name: 4068
-- Description: 4068
+- Name: 4xxx_IEEE : 4068
+- Description: 4xxx_IEEE : 4068
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4068](http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4068)
 - Short Link: [http://oom.lt/SZK4XXXIEEE468](http://oom.lt/SZK4XXXIEEE468)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|4068|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4068|
 |Hex ID (short code)|hexID|SZK4XXXIEEE468|
-|name|name|4068|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '4068', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/cd4068b.pdf', 'kicadSymbolki_keywords': 'cmos nand and 8-input', 'kicadSymbolki_description': 'CMOS 8-input NAND/AND Gate'}]|
+|name|name|4xxx_IEEE : 4068|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> '4068'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/cd4068b.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'cmos nand and 8-input'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'CMOS 8-input NAND/AND Gate'</td></tr></table>]|
 ||||

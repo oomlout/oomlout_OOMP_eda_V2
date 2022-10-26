@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDICHARACTERD168K > D168K
+# SZKDICHARACTERD168K > Display_Character : D168K
 
 - ID: SYMBOL-kicad-kicad-symbols-Display_Character-D168K
 - Hex ID: SZKDICHARACTERD168K
-- Name: D168K
-- Description: D168K
+- Name: Display_Character : D168K
+- Description: Display_Character : D168K
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-D168K](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-D168K)
 - Short Link: [http://oom.lt/SZKDICHARACTERD168K](http://oom.lt/SZKDICHARACTERD168K)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|D168K|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Display_Character-D168K|
 |Hex ID (short code)|hexID|SZKDICHARACTERD168K|
-|name|name|D168K|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'D168K', 'kicadSymbolFootprint': 'Display_7Segment:D1X8K', 'kicadSymbolDatasheet': 'https://ia800903.us.archive.org/24/items/CTKD1x8K/Cromatek%20D168K.pdf', 'kicadSymbolki_keywords': 'display LED 7-segment', 'kicadSymbolki_description': 'One digit 7 segment ultra bright red LED, low current, common cathode', 'kicadSymbolki_fp_filters': 'D1X8K*'}]|
+|name|name|Display_Character : D168K|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'D168K'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Display_7Segment</td></tr><tr><td>D1X8K'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//ia800903.us.archive.org/24/items/CTKD1x8K/Cromatek%20D168K.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'display LED 7-segment'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'One digit 7 segment ultra bright red LED</td><td> low current</td><td> common cathode'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'D1X8K*'</td></tr></table>]|
 ||||

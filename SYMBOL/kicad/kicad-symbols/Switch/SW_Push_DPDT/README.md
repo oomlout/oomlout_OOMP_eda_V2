@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKSWITCHSWPUSHDPDT > SW_Push_DPDT
+# SZKSWITCHSWPUSHDPDT > Switch : SW_Push_DPDT
 
 - ID: SYMBOL-kicad-kicad-symbols-Switch-SW_Push_DPDT
 - Hex ID: SZKSWITCHSWPUSHDPDT
-- Name: SW_Push_DPDT
-- Description: SW_Push_DPDT
+- Name: Switch : SW_Push_DPDT
+- Description: Switch : SW_Push_DPDT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Switch-SW_Push_DPDT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Switch-SW_Push_DPDT)
 - Short Link: [http://oom.lt/SZKSWITCHSWPUSHDPDT](http://oom.lt/SZKSWITCHSWPUSHDPDT)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|SW_Push_DPDT|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Switch-SW_Push_DPDT|
 |Hex ID (short code)|hexID|SZKSWITCHSWPUSHDPDT|
-|name|name|SW_Push_DPDT|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'SW', 'kicadSymbolValue': 'SW_Push_DPDT', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'switch dual-pole double-throw spdt ON-ON', 'kicadSymbolki_description': 'Momentary Switch, dual pole double throw'}]|
+|name|name|Switch : SW_Push_DPDT|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'SW'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'SW_Push_DPDT'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'switch dual-pole double-throw spdt ON-ON'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Momentary Switch</td><td> dual pole double throw'</td></tr></table>]|
 ||||

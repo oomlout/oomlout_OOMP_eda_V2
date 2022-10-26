@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Mounting_Wuerth-Mounting_Wuerth_WA-SMSI-M1.6_H3mm_ThreadDepth1.8mm_97730306332|
 |Hex ID (short code)|hexID|FZKMONMONWASMSIM16H3THREADDEP18977336332|
 |name|name|Mounting_Wuerth : Mounting_Wuerth_WA-SMSI-M1.6_H3mm_ThreadDepth1.8mm_97730306332|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Mounting_Wuerth_WA-SMSI-M1.6_H3mm_ThreadDepth1.8mm_97730306332', 'description': 'Mounting Hardware, inside blind hole M1.6, height 3, Wuerth electronics 97730306332 (https://katalog.we-online.com/em/datasheet/97730306332.pdf), generated with kicad-footprint-generator', 'tags': 'Mounting M1.6 97730306332', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Mounting_Wuerth.3dshapes/Mounting_Wuerth_WA-SMSI-M1.6_H3mm_ThreadDepth1.8mm_97730306332.wrl', 'pins': {'type': 'smd', 'shape': 'custom'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Mounting_Wuerth_WA-SMSI-M1.6_H3mm_ThreadDepth1.8mm_97730306332'</td><td> 'description'</td></tr><tr><td> 'Mounting Hardware</td><td> inside blind hole M1.6</td><td> height 3</td><td> Wuerth electronics 97730306332 (https</td></tr><tr><td>//katalog.we-online.com/em/datasheet/97730306332.pdf)</td><td> generated with kicad-footprint-generator'</td><td> 'tags'</td></tr><tr><td> 'Mounting M1.6 97730306332'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Mounting_Wuerth.3dshapes/Mounting_Wuerth_WA-SMSI-M1.6_H3mm_ThreadDepth1.8mm_97730306332.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'custom'</td></tr></table></td></tr></table>|
 ||||
 
 

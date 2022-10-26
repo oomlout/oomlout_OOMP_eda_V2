@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-416|
 |Hex ID (short code)|hexID|FZKPACKAGETOSOTSMSOT416|
 |name|name|Package_TO_SOT_SMD : SOT-416|
-|Footprint Kicad|footprintKicadDetails|{'name': 'SOT-416', 'description': 'SOT-416, https://www.nxp.com/docs/en/package-information/SOT416.pdf', 'tags': 'SOT-416', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-416.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SOT-416'</td><td> 'description'</td></tr><tr><td> 'SOT-416</td><td> https</td></tr><tr><td>//www.nxp.com/docs/en/package-information/SOT416.pdf'</td><td> 'tags'</td></tr><tr><td> 'SOT-416'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_TO_SOT_SMD.3dshapes/SOT-416.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

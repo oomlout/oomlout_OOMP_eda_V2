@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_QFP-LQFP-80_10x10mm_P0.4mm|
 |Hex ID (short code)|hexID|FZKQFPLQFP81X1P4|
 |name|name|Package_QFP : LQFP-80_10x10mm_P0.4mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'LQFP-80_10x10mm_P0.4mm', 'description': 'LQFP, 80 Pin (https://www.renesas.com/eu/en/package-image/pdf/outdrawing/q80.10x10.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py', 'tags': 'LQFP QFP', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_QFP.3dshapes/LQFP-80_10x10mm_P0.4mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'LQFP-80_10x10mm_P0.4mm'</td><td> 'description'</td></tr><tr><td> 'LQFP</td><td> 80 Pin (https</td></tr><tr><td>//www.renesas.com/eu/en/package-image/pdf/outdrawing/q80.10x10.pdf)</td><td> generated with kicad-footprint-generator ipc_gullwing_generator.py'</td><td> 'tags'</td></tr><tr><td> 'LQFP QFP'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_QFP.3dshapes/LQFP-80_10x10mm_P0.4mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

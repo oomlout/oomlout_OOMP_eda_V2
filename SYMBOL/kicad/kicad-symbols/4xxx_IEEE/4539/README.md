@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZK4XXXIEEE4539 > 4539
+# SZK4XXXIEEE4539 > 4xxx_IEEE : 4539
 
 - ID: SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4539
 - Hex ID: SZK4XXXIEEE4539
-- Name: 4539
-- Description: 4539
+- Name: 4xxx_IEEE : 4539
+- Description: 4xxx_IEEE : 4539
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4539](http://oom.lt/SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4539)
 - Short Link: [http://oom.lt/SZK4XXXIEEE4539](http://oom.lt/SZK4XXXIEEE4539)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|4539|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4539|
 |Hex ID (short code)|hexID|SZK4XXXIEEE4539|
-|name|name|4539|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '4539', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ''}]|
+|name|name|4xxx_IEEE : 4539|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> '4539'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> ''</td></tr></table>]|
 ||||

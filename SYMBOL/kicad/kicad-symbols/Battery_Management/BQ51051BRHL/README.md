@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKBATMANAGEMENTBQ5151BRHL > BQ51051BRHL
+# SZKBATMANAGEMENTBQ5151BRHL > Battery_Management : BQ51051BRHL
 
 - ID: SYMBOL-kicad-kicad-symbols-Battery_Management-BQ51051BRHL
 - Hex ID: SZKBATMANAGEMENTBQ5151BRHL
-- Name: BQ51051BRHL
-- Description: BQ51051BRHL
+- Name: Battery_Management : BQ51051BRHL
+- Description: Battery_Management : BQ51051BRHL
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-BQ51051BRHL](http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-BQ51051BRHL)
 - Short Link: [http://oom.lt/SZKBATMANAGEMENTBQ5151BRHL](http://oom.lt/SZKBATMANAGEMENTBQ5151BRHL)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BQ51051BRHL|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Battery_Management-BQ51051BRHL|
 |Hex ID (short code)|hexID|SZKBATMANAGEMENTBQ5151BRHL|
-|name|name|BQ51051BRHL|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BQ51050BRHL', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'BQ51051BRHL', 'kicadSymbolFootprint': 'Package_DFN_QFN:Texas_VQFN-RHL-20', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/bq51051b.pdf', 'kicadSymbolki_keywords': 'Qi Wireless Power Receiver Battery Charger 4.35V', 'kicadSymbolki_description': 'Qi v1.2, Wireless Power Receiver and Battery Charger, Vout 4.35V, VQFN-20', 'kicadSymbolki_fp_filters': 'Texas?VQFN?RHL*'}]|
+|name|name|Battery_Management : BQ51051BRHL|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'BQ51050BRHL'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'BQ51051BRHL'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>Texas_VQFN-RHL-20'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/bq51051b.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Qi Wireless Power Receiver Battery Charger 4.35V'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Qi v1.2</td><td> Wireless Power Receiver and Battery Charger</td><td> Vout 4.35V</td><td> VQFN-20'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Texas?VQFN?RHL*'</td></tr></table>]|
 ||||

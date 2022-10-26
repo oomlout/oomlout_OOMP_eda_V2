@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_LGA-AMS_LGA-20_4.7x4.5mm_P0.65mm|
 |Hex ID (short code)|hexID|FZKLGAAMSLGA247X45P65|
 |name|name|Package_LGA : AMS_LGA-20_4.7x4.5mm_P0.65mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'AMS_LGA-20_4.7x4.5mm_P0.65mm', 'description': 'http://ams.com/eng/content/download/1008631/2361759/498838', 'tags': 'AMS LGA', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_LGA.3dshapes/AMS_LGA-20_4.7x4.5mm_P0.65mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'AMS_LGA-20_4.7x4.5mm_P0.65mm'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//ams.com/eng/content/download/1008631/2361759/498838'</td><td> 'tags'</td></tr><tr><td> 'AMS LGA'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_LGA.3dshapes/AMS_LGA-20_4.7x4.5mm_P0.65mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

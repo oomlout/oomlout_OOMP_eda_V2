@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTIMER82C54 > 82C54
+# SZKTIMER82C54 > Timer : 82C54
 
 - ID: SYMBOL-kicad-kicad-symbols-Timer-82C54
 - Hex ID: SZKTIMER82C54
-- Name: 82C54
-- Description: 82C54
+- Name: Timer : 82C54
+- Description: Timer : 82C54
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer-82C54](http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer-82C54)
 - Short Link: [http://oom.lt/SZKTIMER82C54](http://oom.lt/SZKTIMER82C54)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|82C54|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Timer-82C54|
 |Hex ID (short code)|hexID|SZKTIMER82C54|
-|name|name|82C54|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': '82C54', 'kicadSymbolFootprint': 'Package_DIP:DIP-24_W15.24mm', 'kicadSymbolDatasheet': 'http://download.intel.com/design/archives/periphrl/docs/23124406.pdf', 'kicadSymbolki_keywords': 'Timer Counter', 'kicadSymbolki_description': 'CHMOS Programmable Interval Timer, PDIP-24', 'kicadSymbolki_fp_filters': 'DIP*W15.24mm*'}]|
+|name|name|Timer : 82C54|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> '82C54'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>DIP-24_W15.24mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//download.intel.com/design/archives/periphrl/docs/23124406.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Timer Counter'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'CHMOS Programmable Interval Timer</td><td> PDIP-24'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W15.24mm*'</td></tr></table>]|
 ||||

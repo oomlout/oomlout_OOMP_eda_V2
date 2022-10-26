@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_PUSH_6mm_H5mm|
 |Hex ID (short code)|hexID|FZKBSWPUSH6H5|
 |name|name|Button_Switch_THT : SW_PUSH_6mm_H5mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'SW_PUSH_6mm_H5mm', 'description': 'tactile push button, 6x6mm e.g. PHAP33xx series, height=5mm', 'tags': 'tact sw push 6mm', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_PUSH_6mm_H5mm.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SW_PUSH_6mm_H5mm'</td><td> 'description'</td></tr><tr><td> 'tactile push button</td><td> 6x6mm e.g. PHAP33xx series</td><td> height=5mm'</td><td> 'tags'</td></tr><tr><td> 'tact sw push 6mm'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Button_Switch_THT.3dshapes/SW_PUSH_6mm_H5mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKPOWERVDD > VDD
+# SZKPOWERVDD > power : VDD
 
 - ID: SYMBOL-kicad-kicad-symbols-power-VDD
 - Hex ID: SZKPOWERVDD
-- Name: VDD
-- Description: VDD
+- Name: power : VDD
+- Description: power : VDD
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-power-VDD](http://oom.lt/SYMBOL-kicad-kicad-symbols-power-VDD)
 - Short Link: [http://oom.lt/SZKPOWERVDD](http://oom.lt/SZKPOWERVDD)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|VDD|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-power-VDD|
 |Hex ID (short code)|hexID|SZKPOWERVDD|
-|name|name|VDD|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': '#PWR', 'kicadSymbolValue': 'VDD', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '', 'kicadSymbolki_keywords': 'power-flag', 'kicadSymbolki_description': 'Power symbol creates a global label with name "VDD"'}]|
+|name|name|power : VDD|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> '#PWR'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'VDD'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'power-flag'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Power symbol creates a global label with name "VDD"'</td></tr></table>]|
 ||||

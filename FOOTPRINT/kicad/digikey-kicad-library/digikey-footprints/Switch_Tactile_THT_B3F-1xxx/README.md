@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-Switch_Tactile_THT_B3F-1xxx|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSWITCHTACTILETHTB3F1XXX|
 |name|name|digikey-footprints : Switch_Tactile_THT_B3F-1xxx|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Switch_Tactile_THT_B3F-1xxx', 'description': 'http://www.omron.com/ecb/products/pdf/en-b3f.pdf', 'tags': None, 'attributeType': None, 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Switch_Tactile_THT_B3F-1xxx'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//www.omron.com/ecb/products/pdf/en-b3f.pdf'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

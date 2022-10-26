@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKPOWERPROTECTIONCDSOT23654C > CDSOT236-0504C
+# SZKPOWERPROTECTIONCDSOT23654C > Power_Protection : CDSOT236-0504C
 
 - ID: SYMBOL-kicad-kicad-symbols-Power_Protection-CDSOT236-0504C
 - Hex ID: SZKPOWERPROTECTIONCDSOT23654C
-- Name: CDSOT236-0504C
-- Description: CDSOT236-0504C
+- Name: Power_Protection : CDSOT236-0504C
+- Description: Power_Protection : CDSOT236-0504C
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-CDSOT236-0504C](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Protection-CDSOT236-0504C)
 - Short Link: [http://oom.lt/SZKPOWERPROTECTIONCDSOT23654C](http://oom.lt/SZKPOWERPROTECTIONCDSOT23654C)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|CDSOT236-0504C|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Protection-CDSOT236-0504C|
 |Hex ID (short code)|hexID|SZKPOWERPROTECTIONCDSOT23654C|
-|name|name|CDSOT236-0504C|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'SRV05-4', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'CDSOT236-0504C', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-6', 'kicadSymbolDatasheet': 'https://www.bourns.com/docs/product-datasheets/cdsot236-0504c.pdf', 'kicadSymbolki_keywords': 'ESD protection diodes', 'kicadSymbolki_description': 'Low capacitance ESD diode / steering Diode Array, SOT23-6', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
+|name|name|Power_Protection : CDSOT236-0504C|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'SRV05-4'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'CDSOT236-0504C'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-23-6'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.bourns.com/docs/product-datasheets/cdsot236-0504c.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'ESD protection diodes'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Low capacitance ESD diode / steering Diode Array</td><td> SOT23-6'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23*'</td></tr></table>]|
 ||||

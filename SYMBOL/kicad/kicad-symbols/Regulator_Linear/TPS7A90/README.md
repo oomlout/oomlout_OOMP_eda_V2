@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKREGULATORLINEARTPS7A9 > TPS7A90
+# SZKREGULATORLINEARTPS7A9 > Regulator_Linear : TPS7A90
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS7A90
 - Hex ID: SZKREGULATORLINEARTPS7A9
-- Name: TPS7A90
-- Description: TPS7A90
+- Name: Regulator_Linear : TPS7A90
+- Description: Regulator_Linear : TPS7A90
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS7A90](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS7A90)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARTPS7A9](http://oom.lt/SZKREGULATORLINEARTPS7A9)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TPS7A90|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS7A90|
 |Hex ID (short code)|hexID|SZKREGULATORLINEARTPS7A9|
-|name|name|TPS7A90|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TPS7A91', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TPS7A90', 'kicadSymbolFootprint': 'Package_DFN_QFN:Texas_S-PDSO-N10_EP1.2x2mm', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/tps7a90.pdf', 'kicadSymbolki_keywords': 'LDO voltage regulator', 'kicadSymbolki_description': '0.5A, High-Accuracy, Low-Noise LDO Voltage Regulator, Texas S-PDSO-N10', 'kicadSymbolki_fp_filters': 'Texas*S*PDSO*'}]|
+|name|name|Regulator_Linear : TPS7A90|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'TPS7A91'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TPS7A90'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>Texas_S-PDSO-N10_EP1.2x2mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/tps7a90.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'LDO voltage regulator'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '0.5A</td><td> High-Accuracy</td><td> Low-Noise LDO Voltage Regulator</td><td> Texas S-PDSO-N10'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Texas*S*PDSO*'</td></tr></table>]|
 ||||

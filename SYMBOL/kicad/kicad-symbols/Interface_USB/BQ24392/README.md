@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKINTERFACEUBQ24392 > BQ24392
+# SZKINTERFACEUBQ24392 > Interface_USB : BQ24392
 
 - ID: SYMBOL-kicad-kicad-symbols-Interface_USB-BQ24392
 - Hex ID: SZKINTERFACEUBQ24392
-- Name: BQ24392
-- Description: BQ24392
+- Name: Interface_USB : BQ24392
+- Description: Interface_USB : BQ24392
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-BQ24392](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_USB-BQ24392)
 - Short Link: [http://oom.lt/SZKINTERFACEUBQ24392](http://oom.lt/SZKINTERFACEUBQ24392)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BQ24392|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Interface_USB-BQ24392|
 |Hex ID (short code)|hexID|SZKINTERFACEUBQ24392|
-|name|name|BQ24392|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'BQ24392', 'kicadSymbolFootprint': 'Package_DFN_QFN:Texas_R-PUQFN-N10', 'kicadSymbolDatasheet': 'http://www.ti.com/lit/ds/symlink/bq24392.pdf', 'kicadSymbolki_keywords': 'USB BC detector charger', 'kicadSymbolki_description': 'Dual SPST USB 2.0 High Speed Switch with USB Battery Charging Specification Revision 1.2 Detection, UQFN-10', 'kicadSymbolki_fp_filters': 'Texas*R*PUQFN*'}]|
+|name|name|Interface_USB : BQ24392|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'BQ24392'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>Texas_R-PUQFN-N10'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/bq24392.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'USB BC detector charger'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Dual SPST USB 2.0 High Speed Switch with USB Battery Charging Specification Revision 1.2 Detection</td><td> UQFN-10'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Texas*R*PUQFN*'</td></tr></table>]|
 ||||

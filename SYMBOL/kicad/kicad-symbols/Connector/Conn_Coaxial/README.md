@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKCNCONNCOAXIAL > Conn_Coaxial
+# SZKCNCONNCOAXIAL > Connector : Conn_Coaxial
 
 - ID: SYMBOL-kicad-kicad-symbols-Connector-Conn_Coaxial
 - Hex ID: SZKCNCONNCOAXIAL
-- Name: Conn_Coaxial
-- Description: Conn_Coaxial
+- Name: Connector : Conn_Coaxial
+- Description: Connector : Conn_Coaxial
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-Conn_Coaxial](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-Conn_Coaxial)
 - Short Link: [http://oom.lt/SZKCNCONNCOAXIAL](http://oom.lt/SZKCNCONNCOAXIAL)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|Conn_Coaxial|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-Conn_Coaxial|
 |Hex ID (short code)|hexID|SZKCNCONNCOAXIAL|
-|name|name|Conn_Coaxial|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'Conn_Coaxial', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': ' ~', 'kicadSymbolki_keywords': 'BNC SMA SMB SMC LEMO coaxial connector CINCH RCA', 'kicadSymbolki_description': 'coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)', 'kicadSymbolki_fp_filters': '*BNC* *SMA* *SMB* *SMC* *Cinch* *LEMO*'}]|
+|name|name|Connector : Conn_Coaxial|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'J'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Conn_Coaxial'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> ' ~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'BNC SMA SMB SMC LEMO coaxial connector CINCH RCA'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'coaxial connector (BNC</td><td> SMA</td><td> SMB</td><td> SMC</td><td> Cinch/RCA</td><td> LEMO</td><td> ...)'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> '*BNC* *SMA* *SMB* *SMC* *Cinch* *LEMO*'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDIODEB23 > B230
+# SZKDIODEB23 > Diode : B230
 
 - ID: SYMBOL-kicad-kicad-symbols-Diode-B230
 - Hex ID: SZKDIODEB23
-- Name: B230
-- Description: B230
+- Name: Diode : B230
+- Description: Diode : B230
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-B230](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-B230)
 - Short Link: [http://oom.lt/SZKDIODEB23](http://oom.lt/SZKDIODEB23)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|B230|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-B230|
 |Hex ID (short code)|hexID|SZKDIODEB23|
-|name|name|B230|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'B220', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'B230', 'kicadSymbolFootprint': 'Diode_SMD:D_SMB', 'kicadSymbolDatasheet': 'http://www.jameco.com/Jameco/Products/ProdDS/1538777.pdf', 'kicadSymbolki_keywords': 'diode Schottky', 'kicadSymbolki_description': '30V 2A Schottky Barrier Rectifier Diode, SMB', 'kicadSymbolki_fp_filters': 'D*SMB*'}]|
+|name|name|Diode : B230|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'B220'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'B230'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Diode_SMD</td></tr><tr><td>D_SMB'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.jameco.com/Jameco/Products/ProdDS/1538777.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'diode Schottky'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '30V 2A Schottky Barrier Rectifier Diode</td><td> SMB'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'D*SMB*'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDEVICENT2 > NetTie_2
+# SZKDEVICENT2 > Device : NetTie_2
 
 - ID: SYMBOL-kicad-kicad-symbols-Device-NetTie_2
 - Hex ID: SZKDEVICENT2
-- Name: NetTie_2
-- Description: NetTie_2
+- Name: Device : NetTie_2
+- Description: Device : NetTie_2
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-NetTie_2](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-NetTie_2)
 - Short Link: [http://oom.lt/SZKDEVICENT2](http://oom.lt/SZKDEVICENT2)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|NetTie_2|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Device-NetTie_2|
 |Hex ID (short code)|hexID|SZKDEVICENT2|
-|name|name|NetTie_2|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'NT', 'kicadSymbolValue': 'NetTie_2', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'net tie short', 'kicadSymbolki_description': 'Net tie, 2 pins', 'kicadSymbolki_fp_filters': 'Net*Tie*'}]|
+|name|name|Device : NetTie_2|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'NT'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'NetTie_2'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'net tie short'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Net tie</td><td> 2 pins'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Net*Tie*'</td></tr></table>]|
 ||||

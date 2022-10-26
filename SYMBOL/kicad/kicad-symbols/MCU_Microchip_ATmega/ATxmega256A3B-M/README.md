@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUMCHIPATMEGAATXMEGA256A3BM > ATxmega256A3B-M
+# SZKMCUMCHIPATMEGAATXMEGA256A3BM > MCU_Microchip_ATmega : ATxmega256A3B-M
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATxmega256A3B-M
 - Hex ID: SZKMCUMCHIPATMEGAATXMEGA256A3BM
-- Name: ATxmega256A3B-M
-- Description: ATxmega256A3B-M
+- Name: MCU_Microchip_ATmega : ATxmega256A3B-M
+- Description: MCU_Microchip_ATmega : ATxmega256A3B-M
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATxmega256A3B-M](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATxmega256A3B-M)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATMEGAATXMEGA256A3BM](http://oom.lt/SZKMCUMCHIPATMEGAATXMEGA256A3BM)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ATxmega256A3B-M|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATxmega256A3B-M|
 |Hex ID (short code)|hexID|SZKMCUMCHIPATMEGAATXMEGA256A3BM|
-|name|name|ATxmega256A3B-M|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ATxmega256A3B-M', 'kicadSymbolFootprint': 'Package_DFN_QFN:QFN-64-1EP_9x9mm_P0.5mm_EP7.65x7.65mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-8116-8-and-16-bit-AVR-XMEGA-A3B-Microcontroller_Datasheet.pdf', 'kicadSymbolki_keywords': 'AVR 8/16bit Microcontroller XMegaAVR', 'kicadSymbolki_description': '32MHz, 256kB Flash, 8kB Boot, 16kB SRAM, 4kB EEPROM, JTAG, QFN-64', 'kicadSymbolki_fp_filters': 'QFN*1EP*9x9mm*P0.5mm*'}]|
+|name|name|MCU_Microchip_ATmega : ATxmega256A3B-M|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ATxmega256A3B-M'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>QFN-64-1EP_9x9mm_P0.5mm_EP7.65x7.65mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/Atmel-8116-8-and-16-bit-AVR-XMEGA-A3B-Microcontroller_Datasheet.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'AVR 8/16bit Microcontroller XMegaAVR'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '32MHz</td><td> 256kB Flash</td><td> 8kB Boot</td><td> 16kB SRAM</td><td> 4kB EEPROM</td><td> JTAG</td><td> QFN-64'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'QFN*1EP*9x9mm*P0.5mm*'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUSTSTM32F4STM32F412RGYX > STM32F412RGYx
+# SZKMCUSTSTM32F4STM32F412RGYX > MCU_ST_STM32F4 : STM32F412RGYx
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F412RGYx
 - Hex ID: SZKMCUSTSTM32F4STM32F412RGYX
-- Name: STM32F412RGYx
-- Description: STM32F412RGYx
+- Name: MCU_ST_STM32F4 : STM32F412RGYx
+- Description: MCU_ST_STM32F4 : STM32F412RGYx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F412RGYx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F412RGYx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32F4STM32F412RGYX](http://oom.lt/SZKMCUSTSTM32F4STM32F412RGYX)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|STM32F412RGYx|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F412RGYx|
 |Hex ID (short code)|hexID|SZKMCUSTSTM32F4STM32F412RGYX|
-|name|name|STM32F412RGYx|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'STM32F412REYx', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'STM32F412RGYx', 'kicadSymbolFootprint': 'Package_CSP:ST_WLCSP-64_Die441', 'kicadSymbolDatasheet': 'http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00213872.pdf', 'kicadSymbolki_keywords': 'ARM Cortex-M4 STM32F4 STM32F412', 'kicadSymbolki_description': 'ARM Cortex-M4 MCU, 1024KB flash, 256KB RAM, 100MHz, 1.7-3.6V, 50 GPIO, WLCSP-64', 'kicadSymbolki_fp_filters': 'ST_WLCSP*Die441*'}]|
+|name|name|MCU_ST_STM32F4 : STM32F412RGYx|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'STM32F412REYx'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'STM32F412RGYx'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_CSP</td></tr><tr><td>ST_WLCSP-64_Die441'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00213872.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'ARM Cortex-M4 STM32F4 STM32F412'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'ARM Cortex-M4 MCU</td><td> 1024KB flash</td><td> 256KB RAM</td><td> 100MHz</td><td> 1.7-3.6V</td><td> 50 GPIO</td><td> WLCSP-64'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'ST_WLCSP*Die441*'</td></tr></table>]|
 ||||

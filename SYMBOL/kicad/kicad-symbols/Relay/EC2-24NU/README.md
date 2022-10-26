@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKRELAYEC224NU > EC2-24NU
+# SZKRELAYEC224NU > Relay : EC2-24NU
 
 - ID: SYMBOL-kicad-kicad-symbols-Relay-EC2-24NU
 - Hex ID: SZKRELAYEC224NU
-- Name: EC2-24NU
-- Description: EC2-24NU
+- Name: Relay : EC2-24NU
+- Description: Relay : EC2-24NU
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-EC2-24NU](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-EC2-24NU)
 - Short Link: [http://oom.lt/SZKRELAYEC224NU](http://oom.lt/SZKRELAYEC224NU)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|EC2-24NU|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Relay-EC2-24NU|
 |Hex ID (short code)|hexID|SZKRELAYEC224NU|
-|name|name|EC2-24NU|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'EC2-3NU', 'kicadSymbolReference': 'K', 'kicadSymbolValue': 'EC2-24NU', 'kicadSymbolFootprint': 'Relay_THT:Relay_DPDT_Kemet_EC2', 'kicadSymbolDatasheet': 'https://content.kemet.com/datasheets/KEM_R7002_EC2_EE2.pdf', 'kicadSymbolki_keywords': 'signal relay double pole double throw DPDT DC coil non latching', 'kicadSymbolki_description': 'General purpose signal relay, Kemet EC2 Series, DPDT (2 Form C), non-latching, through hole, 60W/125VA, 220VDC/250VAC, 2A, 24V DC coil', 'kicadSymbolki_fp_filters': 'Relay*THT*Kemet*EC2*'}]|
+|name|name|Relay : EC2-24NU|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'EC2-3NU'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'K'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'EC2-24NU'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Relay_THT</td></tr><tr><td>Relay_DPDT_Kemet_EC2'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//content.kemet.com/datasheets/KEM_R7002_EC2_EE2.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'signal relay double pole double throw DPDT DC coil non latching'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'General purpose signal relay</td><td> Kemet EC2 Series</td><td> DPDT (2 Form C)</td><td> non-latching</td><td> through hole</td><td> 60W/125VA</td><td> 220VDC/250VAC</td><td> 2A</td><td> 24V DC coil'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Relay*THT*Kemet*EC2*'</td></tr></table>]|
 ||||

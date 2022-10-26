@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKCPUNXPIMXMCIMX6D4AVT > MCIMX6D4AVT
+# SZKCPUNXPIMXMCIMX6D4AVT > CPU_NXP_IMX : MCIMX6D4AVT
 
 - ID: SYMBOL-kicad-kicad-symbols-CPU_NXP_IMX-MCIMX6D4AVT
 - Hex ID: SZKCPUNXPIMXMCIMX6D4AVT
-- Name: MCIMX6D4AVT
-- Description: MCIMX6D4AVT
+- Name: CPU_NXP_IMX : MCIMX6D4AVT
+- Description: CPU_NXP_IMX : MCIMX6D4AVT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-CPU_NXP_IMX-MCIMX6D4AVT](http://oom.lt/SYMBOL-kicad-kicad-symbols-CPU_NXP_IMX-MCIMX6D4AVT)
 - Short Link: [http://oom.lt/SZKCPUNXPIMXMCIMX6D4AVT](http://oom.lt/SZKCPUNXPIMXMCIMX6D4AVT)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MCIMX6D4AVT|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-CPU_NXP_IMX-MCIMX6D4AVT|
 |Hex ID (short code)|hexID|SZKCPUNXPIMXMCIMX6D4AVT|
-|name|name|MCIMX6D4AVT|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MCIMX6QP5EYM', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MCIMX6D4AVT', 'kicadSymbolFootprint': 'Package_BGA:BGA-624_21.0x21.0mm_Layout25x25_P0.8mm', 'kicadSymbolDatasheet': 'https://www.nxp.com/docs/en/data-sheet/IMX6DQAEC.pdf', 'kicadSymbolki_keywords': 'Dual-Core ARM Cortex A9 SOC Automotive', 'kicadSymbolki_description': 'i.MX 6Dual Automotive and Infotainment Application Processor, BGA-624', 'kicadSymbolki_fp_filters': 'BGA*21.0x21.0mm*P0.8mm*'}]|
+|name|name|CPU_NXP_IMX : MCIMX6D4AVT|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'MCIMX6QP5EYM'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MCIMX6D4AVT'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_BGA</td></tr><tr><td>BGA-624_21.0x21.0mm_Layout25x25_P0.8mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.nxp.com/docs/en/data-sheet/IMX6DQAEC.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Dual-Core ARM Cortex A9 SOC Automotive'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'i.MX 6Dual Automotive and Infotainment Application Processor</td><td> BGA-624'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'BGA*21.0x21.0mm*P0.8mm*'</td></tr></table>]|
 ||||

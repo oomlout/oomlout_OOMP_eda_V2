@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKSECURITYATECC68AMAHDA > ATECC608A-MAHDA
+# SZKSECURITYATECC68AMAHDA > Security : ATECC608A-MAHDA
 
 - ID: SYMBOL-kicad-kicad-symbols-Security-ATECC608A-MAHDA
 - Hex ID: SZKSECURITYATECC68AMAHDA
-- Name: ATECC608A-MAHDA
-- Description: ATECC608A-MAHDA
+- Name: Security : ATECC608A-MAHDA
+- Description: Security : ATECC608A-MAHDA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Security-ATECC608A-MAHDA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Security-ATECC608A-MAHDA)
 - Short Link: [http://oom.lt/SZKSECURITYATECC68AMAHDA](http://oom.lt/SZKSECURITYATECC68AMAHDA)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|ATECC608A-MAHDA|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Security-ATECC608A-MAHDA|
 |Hex ID (short code)|hexID|SZKSECURITYATECC68AMAHDA|
-|name|name|ATECC608A-MAHDA|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'ATECC608A-MAHDA', 'kicadSymbolFootprint': 'Package_DFN_QFN:DFN-8-1EP_3x2mm_P0.5mm_EP1.3x1.5mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/ATECC608A-CryptoAuthentication-Device-Summary-Data-Sheet-DS40001977B.pdf', 'kicadSymbolki_keywords': 'Cryptographic coprocessor', 'kicadSymbolki_description': 'Cryptographic Co-Processor with Secure Hardware-based 16 Key Storage, ECDSA and ECDH support, I2C, UDFN-8', 'kicadSymbolki_fp_filters': 'DFN*8*1EP*3x2mm*P0.5mm*'}]|
+|name|name|Security : ATECC608A-MAHDA|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ATECC608A-MAHDA'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>DFN-8-1EP_3x2mm_P0.5mm_EP1.3x1.5mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/ATECC608A-CryptoAuthentication-Device-Summary-Data-Sheet-DS40001977B.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Cryptographic coprocessor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Cryptographic Co-Processor with Secure Hardware-based 16 Key Storage</td><td> ECDSA and ECDH support</td><td> I2C</td><td> UDFN-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DFN*8*1EP*3x2mm*P0.5mm*'</td></tr></table>]|
 ||||

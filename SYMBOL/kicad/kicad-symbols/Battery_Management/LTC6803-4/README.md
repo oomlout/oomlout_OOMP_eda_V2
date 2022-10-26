@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKBATMANAGEMENTLTC6834 > LTC6803-4
+# SZKBATMANAGEMENTLTC6834 > Battery_Management : LTC6803-4
 
 - ID: SYMBOL-kicad-kicad-symbols-Battery_Management-LTC6803-4
 - Hex ID: SZKBATMANAGEMENTLTC6834
-- Name: LTC6803-4
-- Description: LTC6803-4
+- Name: Battery_Management : LTC6803-4
+- Description: Battery_Management : LTC6803-4
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-LTC6803-4](http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-LTC6803-4)
 - Short Link: [http://oom.lt/SZKBATMANAGEMENTLTC6834](http://oom.lt/SZKBATMANAGEMENTLTC6834)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|LTC6803-4|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Battery_Management-LTC6803-4|
 |Hex ID (short code)|hexID|SZKBATMANAGEMENTLTC6834|
-|name|name|LTC6803-4|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'LTC6803-4', 'kicadSymbolFootprint': 'Package_SO:SSOP-44_5.3x12.8mm_P0.5mm', 'kicadSymbolDatasheet': 'https://www.analog.com/media/en/technical-documentation/data-sheets/680324fa.pdf', 'kicadSymbolki_keywords': 'battery balance afe', 'kicadSymbolki_description': 'Multicell Battery Stack Monitor, 12-cell max, multi-chemistry, integrated balancing, stackable, serial interface', 'kicadSymbolki_fp_filters': 'SSOP*5.3x12.8mm*P0.5mm*'}]|
+|name|name|Battery_Management : LTC6803-4|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LTC6803-4'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SSOP-44_5.3x12.8mm_P0.5mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/680324fa.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'battery balance afe'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Multicell Battery Stack Monitor</td><td> 12-cell max</td><td> multi-chemistry</td><td> integrated balancing</td><td> stackable</td><td> serial interface'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SSOP*5.3x12.8mm*P0.5mm*'</td></tr></table>]|
 ||||

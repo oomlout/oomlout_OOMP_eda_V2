@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-VQFN-20-1EP_3x3mm_P0.45mm_EP1.55x1.55mm|
 |Hex ID (short code)|hexID|FZKDFNVQFN21EP3X3P45EP155X155|
 |name|name|Package_DFN_QFN : VQFN-20-1EP_3x3mm_P0.45mm_EP1.55x1.55mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'VQFN-20-1EP_3x3mm_P0.45mm_EP1.55x1.55mm', 'description': 'VQFN, 20 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/doc8246.pdf#page=264), generated with kicad-footprint-generator ipc_noLead_generator.py', 'tags': 'VQFN NoLead', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/VQFN-20-1EP_3x3mm_P0.45mm_EP1.55x1.55mm.wrl', 'pins': {'type': 'smd', 'shape': 'roundrect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'VQFN-20-1EP_3x3mm_P0.45mm_EP1.55x1.55mm'</td><td> 'description'</td></tr><tr><td> 'VQFN</td><td> 20 Pin (http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/doc8246.pdf#page=264)</td><td> generated with kicad-footprint-generator ipc_noLead_generator.py'</td><td> 'tags'</td></tr><tr><td> 'VQFN NoLead'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_DFN_QFN.3dshapes/VQFN-20-1EP_3x3mm_P0.45mm_EP1.55x1.55mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
 
 

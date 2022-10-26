@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Filter-Filter_Murata_BNX025_ThermalVias|
 |Hex ID (short code)|hexID|FZKFILFILMBNX25THERMALVIAS|
 |name|name|Filter : Filter_Murata_BNX025_ThermalVias|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Filter_Murata_BNX025_ThermalVias', 'description': 'https://www.murata.com/en-us/products/productdata/8796778004510/QNFH9101.pdf?1496719830000', 'tags': 'EMI Filter', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Filter.3dshapes/Filter_Murata_BNX025.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Filter_Murata_BNX025_ThermalVias'</td><td> 'description'</td></tr><tr><td> 'https</td></tr><tr><td>//www.murata.com/en-us/products/productdata/8796778004510/QNFH9101.pdf?1496719830000'</td><td> 'tags'</td></tr><tr><td> 'EMI Filter'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Filter.3dshapes/Filter_Murata_BNX025.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

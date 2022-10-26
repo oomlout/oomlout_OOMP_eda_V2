@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_SMA|
 |Hex ID (short code)|hexID|FZKDIODESMDS|
 |name|name|Diode_SMD : D_SMA|
-|Footprint Kicad|footprintKicadDetails|{'name': 'D_SMA', 'description': 'Diode SMA (DO-214AC)', 'tags': 'Diode SMA (DO-214AC)', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SMA.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'D_SMA'</td><td> 'description'</td></tr><tr><td> 'Diode SMA (DO-214AC)'</td><td> 'tags'</td></tr><tr><td> 'Diode SMA (DO-214AC)'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Diode_SMD.3dshapes/D_SMA.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

@@ -29,5 +29,5 @@ NO IMAGE
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Sensor_Audio-Infineon_PG-LLGA-5-1|
 |Hex ID (short code)|hexID|FZKSENAUDIOINFINEONPGLLGA51|
 |name|name|Sensor_Audio : Infineon_PG-LLGA-5-1|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Infineon_PG-LLGA-5-1', 'description': 'Infineon_PG-LLGA-5-1 StepUp generated footprint, https://www.infineon.com/cms/en/product/packages/PG-LLGA/PG-LLGA-5-1/', 'tags': 'infineon mems microphone', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Sensor_Audio.3dshapes/Infineon_PG-LLGA-5-1.wrl', 'pins': {'type': 'smd', 'shape': 'custom'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Infineon_PG-LLGA-5-1'</td><td> 'description'</td></tr><tr><td> 'Infineon_PG-LLGA-5-1 StepUp generated footprint</td><td> https</td></tr><tr><td>//www.infineon.com/cms/en/product/packages/PG-LLGA/PG-LLGA-5-1/'</td><td> 'tags'</td></tr><tr><td> 'infineon mems microphone'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Sensor_Audio.3dshapes/Infineon_PG-LLGA-5-1.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'custom'</td></tr></table></td></tr></table>|
 ||||

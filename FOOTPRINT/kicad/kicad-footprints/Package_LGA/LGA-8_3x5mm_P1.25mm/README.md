@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_LGA-LGA-8_3x5mm_P1.25mm|
 |Hex ID (short code)|hexID|FZKLGALGA83X5P125|
 |name|name|Package_LGA : LGA-8_3x5mm_P1.25mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'LGA-8_3x5mm_P1.25mm', 'description': 'LGA-8', 'tags': 'lga land grid array', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_LGA.3dshapes/LGA-8_3x5mm_P1.25mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'LGA-8_3x5mm_P1.25mm'</td><td> 'description'</td></tr><tr><td> 'LGA-8'</td><td> 'tags'</td></tr><tr><td> 'lga land grid array'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_LGA.3dshapes/LGA-8_3x5mm_P1.25mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

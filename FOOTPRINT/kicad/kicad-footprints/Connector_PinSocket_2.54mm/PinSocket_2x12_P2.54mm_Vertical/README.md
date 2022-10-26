@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Connector_PinSocket_2.54mm-PinSocket_2x12_P2.54mm_Vertical|
 |Hex ID (short code)|hexID|FZKCNPINSO254PINSO2X12P254VERTICAL|
 |name|name|Connector_PinSocket_2.54mm : PinSocket_2x12_P2.54mm_Vertical|
-|Footprint Kicad|footprintKicadDetails|{'name': 'PinSocket_2x12_P2.54mm_Vertical', 'description': 'Through hole straight socket strip, 2x12, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated', 'tags': 'Through hole socket strip THT 2x12 2.54mm double row', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_2x12_P2.54mm_Vertical.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'PinSocket_2x12_P2.54mm_Vertical'</td><td> 'description'</td></tr><tr><td> 'Through hole straight socket strip</td><td> 2x12</td><td> 2.54mm pitch</td><td> double cols (from Kicad 4.0.7)</td><td> script generated'</td><td> 'tags'</td></tr><tr><td> 'Through hole socket strip THT 2x12 2.54mm double row'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Connector_PinSocket_2.54mm.3dshapes/PinSocket_2x12_P2.54mm_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

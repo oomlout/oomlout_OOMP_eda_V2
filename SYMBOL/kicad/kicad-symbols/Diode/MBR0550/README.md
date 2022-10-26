@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDIODEMBR55 > MBR0550
+# SZKDIODEMBR55 > Diode : MBR0550
 
 - ID: SYMBOL-kicad-kicad-symbols-Diode-MBR0550
 - Hex ID: SZKDIODEMBR55
-- Name: MBR0550
-- Description: MBR0550
+- Name: Diode : MBR0550
+- Description: Diode : MBR0550
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-MBR0550](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-MBR0550)
 - Short Link: [http://oom.lt/SZKDIODEMBR55](http://oom.lt/SZKDIODEMBR55)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MBR0550|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-MBR0550|
 |Hex ID (short code)|hexID|SZKDIODEMBR55|
-|name|name|MBR0550|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BAT48ZFILM', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'MBR0550', 'kicadSymbolFootprint': 'Diode_SMD:D_SOD-123', 'kicadSymbolDatasheet': 'http://www.mccsemi.com/up_pdf/MBR0520~MBR0580(SOD123).pdf', 'kicadSymbolki_keywords': 'diode Schottky', 'kicadSymbolki_description': '50V 0.5A Schottky Power Rectifier Diode, SOD-123', 'kicadSymbolki_fp_filters': 'D*SOD?123*'}]|
+|name|name|Diode : MBR0550|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'BAT48ZFILM'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MBR0550'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Diode_SMD</td></tr><tr><td>D_SOD-123'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.mccsemi.com/up_pdf/MBR0520~MBR0580(SOD123).pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'diode Schottky'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '50V 0.5A Schottky Power Rectifier Diode</td><td> SOD-123'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'D*SOD?123*'</td></tr></table>]|
 ||||

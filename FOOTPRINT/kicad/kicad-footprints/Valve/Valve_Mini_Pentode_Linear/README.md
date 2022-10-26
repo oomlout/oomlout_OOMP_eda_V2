@@ -29,5 +29,5 @@ NO IMAGE
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Valve-Valve_Mini_Pentode_Linear|
 |Hex ID (short code)|hexID|FZKVAVAMPENTODELINEAR|
 |name|name|Valve : Valve_Mini_Pentode_Linear|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Valve_Mini_Pentode_Linear', 'description': 'Mini-Pentode, 5-pin, e.g. JAN6418', 'tags': 'Valve Mini-Pentode 5-pin JAN6418', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Valve.3dshapes/Valve_Mini_Pentode_Linear.wrl', 'pins': {'type': 'thru_hole', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Valve_Mini_Pentode_Linear'</td><td> 'description'</td></tr><tr><td> 'Mini-Pentode</td><td> 5-pin</td><td> e.g. JAN6418'</td><td> 'tags'</td></tr><tr><td> 'Valve Mini-Pentode 5-pin JAN6418'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Valve.3dshapes/Valve_Mini_Pentode_Linear.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||

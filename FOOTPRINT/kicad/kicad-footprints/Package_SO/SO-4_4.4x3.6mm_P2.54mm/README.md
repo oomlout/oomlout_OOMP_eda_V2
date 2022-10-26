@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Package_SO-SO-4_4.4x3.6mm_P2.54mm|
 |Hex ID (short code)|hexID|FZKSOSO444X36P254|
 |name|name|Package_SO : SO-4_4.4x3.6mm_P2.54mm|
-|Footprint Kicad|footprintKicadDetails|{'name': 'SO-4_4.4x3.6mm_P2.54mm', 'description': '4-Lead Plastic Small Outline (SO), see https://www.elpro.org/de/index.php?controller=attachment&id_attachment=339', 'tags': 'SO SOIC 2.54', 'attributeType': 'smd', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/SO-4_4.4x3.6mm_P2.54mm.wrl', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SO-4_4.4x3.6mm_P2.54mm'</td><td> 'description'</td></tr><tr><td> '4-Lead Plastic Small Outline (SO)</td><td> see https</td></tr><tr><td>//www.elpro.org/de/index.php?controller=attachment&id_attachment=339'</td><td> 'tags'</td></tr><tr><td> 'SO SOIC 2.54'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_SO.3dshapes/SO-4_4.4x3.6mm_P2.54mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

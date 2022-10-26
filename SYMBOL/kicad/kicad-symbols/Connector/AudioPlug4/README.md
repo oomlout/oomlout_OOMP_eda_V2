@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKCNAUDIOPLUG4 > AudioPlug4
+# SZKCNAUDIOPLUG4 > Connector : AudioPlug4
 
 - ID: SYMBOL-kicad-kicad-symbols-Connector-AudioPlug4
 - Hex ID: SZKCNAUDIOPLUG4
-- Name: AudioPlug4
-- Description: AudioPlug4
+- Name: Connector : AudioPlug4
+- Description: Connector : AudioPlug4
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-AudioPlug4](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-AudioPlug4)
 - Short Link: [http://oom.lt/SZKCNAUDIOPLUG4](http://oom.lt/SZKCNAUDIOPLUG4)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|AudioPlug4|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Connector-AudioPlug4|
 |Hex ID (short code)|hexID|SZKCNAUDIOPLUG4|
-|name|name|AudioPlug4|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'J', 'kicadSymbolValue': 'AudioPlug4', 'kicadSymbolFootprint': '', 'kicadSymbolDatasheet': '~', 'kicadSymbolki_keywords': 'audio jack plug stereo headphones TRRS connector 2.5mm 3.5mm', 'kicadSymbolki_description': 'Audio Jack, 4 Poles (Stereo / TRRS)', 'kicadSymbolki_fp_filters': 'Plug*'}]|
+|name|name|Connector : AudioPlug4|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'J'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'AudioPlug4'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'audio jack plug stereo headphones TRRS connector 2.5mm 3.5mm'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Audio Jack</td><td> 4 Poles (Stereo / TRRS)'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Plug*'</td></tr></table>]|
 ||||

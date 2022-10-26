@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKISOLATORTLP323 > TLP3023
+# SZKISOLATORTLP323 > Isolator : TLP3023
 
 - ID: SYMBOL-kicad-kicad-symbols-Isolator-TLP3023
 - Hex ID: SZKISOLATORTLP323
-- Name: TLP3023
-- Description: TLP3023
+- Name: Isolator : TLP3023
+- Description: Isolator : TLP3023
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-TLP3023](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-TLP3023)
 - Short Link: [http://oom.lt/SZKISOLATORTLP323](http://oom.lt/SZKISOLATORTLP323)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|TLP3023|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Isolator-TLP3023|
 |Hex ID (short code)|hexID|SZKISOLATORTLP323|
-|name|name|TLP3023|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'TLP3021', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'TLP3023', 'kicadSymbolFootprint': 'Package_DIP:Toshiba_11-7A9', 'kicadSymbolDatasheet': 'https://toshiba.semicon-storage.com/info/docget.jsp?did=1421&prodName=TLP3021(S)', 'kicadSymbolki_keywords': 'Photo-Triac Opto Triac', 'kicadSymbolki_description': 'Photo-Triac, Vdrm 400V, Ift 5mA, DIP6', 'kicadSymbolki_fp_filters': 'Toshiba*11?7A9*'}]|
+|name|name|Isolator : TLP3023|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'TLP3021'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TLP3023'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>Toshiba_11-7A9'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//toshiba.semicon-storage.com/info/docget.jsp?did=1421&prodName=TLP3021(S)'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Photo-Triac Opto Triac'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Photo-Triac</td><td> Vdrm 400V</td><td> Ift 5mA</td><td> DIP6'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Toshiba*11?7A9*'</td></tr></table>]|
 ||||

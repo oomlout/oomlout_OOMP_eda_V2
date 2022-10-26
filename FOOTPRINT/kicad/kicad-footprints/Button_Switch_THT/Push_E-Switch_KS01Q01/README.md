@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-Push_E-Switch_KS01Q01|
 |Hex ID (short code)|hexID|FZKBPUSHESWITCHKS1Q1|
 |name|name|Button_Switch_THT : Push_E-Switch_KS01Q01|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Push_E-Switch_KS01Q01', 'description': 'E-Switch KS01Q01 http://spec_sheets.e-switch.com/specs/29-KS01Q01.pdf', 'tags': 'Push Button', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Button_Switch_THT.3dshapes/Push_E-Switch_KS01Q01.wrl', 'pins': {'type': 'thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Push_E-Switch_KS01Q01'</td><td> 'description'</td></tr><tr><td> 'E-Switch KS01Q01 http</td></tr><tr><td>//spec_sheets.e-switch.com/specs/29-KS01Q01.pdf'</td><td> 'tags'</td></tr><tr><td> 'Push Button'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Button_Switch_THT.3dshapes/Push_E-Switch_KS01Q01.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

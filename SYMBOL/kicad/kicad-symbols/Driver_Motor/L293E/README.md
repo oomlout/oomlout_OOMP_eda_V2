@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDRIVERMOTORL293E > L293E
+# SZKDRIVERMOTORL293E > Driver_Motor : L293E
 
 - ID: SYMBOL-kicad-kicad-symbols-Driver_Motor-L293E
 - Hex ID: SZKDRIVERMOTORL293E
-- Name: L293E
-- Description: L293E
+- Name: Driver_Motor : L293E
+- Description: Driver_Motor : L293E
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Motor-L293E](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Motor-L293E)
 - Short Link: [http://oom.lt/SZKDRIVERMOTORL293E](http://oom.lt/SZKDRIVERMOTORL293E)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|L293E|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Driver_Motor-L293E|
 |Hex ID (short code)|hexID|SZKDRIVERMOTORL293E|
-|name|name|L293E|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'L293E', 'kicadSymbolFootprint': 'Package_DIP:DIP-20_W7.62mm', 'kicadSymbolDatasheet': 'https://www.st.com/resource/en/datasheet/l293e.pdf', 'kicadSymbolki_keywords': 'Half-H Driver Motor Sense', 'kicadSymbolki_description': 'Push-pull four-channel driver, DIP-20', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
+|name|name|Driver_Motor : L293E|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'L293E'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>DIP-20_W7.62mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.st.com/resource/en/datasheet/l293e.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Half-H Driver Motor Sense'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Push-pull four-channel driver</td><td> DIP-20'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W7.62mm*'</td></tr></table>]|
 ||||

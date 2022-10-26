@@ -29,5 +29,5 @@ NO IMAGE
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Symbol-Symbol_CreativeCommons_CopperTop_Type2_Big|
 |Hex ID (short code)|hexID|FZKSZSYCREATIVECOONSCTOPTYPE2BIG|
 |name|name|Symbol : Symbol_CreativeCommons_CopperTop_Type2_Big|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Symbol_CreativeCommons_CopperTop_Type2_Big', 'description': 'Symbol, Creative Commons, CopperTop, Type 2, Big,', 'tags': 'Symbol, Creative Commons, CopperTop, Type 2, Big,', 'attributeType': None, 'pins': {}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Symbol_CreativeCommons_CopperTop_Type2_Big'</td><td> 'description'</td></tr><tr><td> 'Symbol</td><td> Creative Commons</td><td> CopperTop</td><td> Type 2</td><td> Big</td><td>'</td><td> 'tags'</td></tr><tr><td> 'Symbol</td><td> Creative Commons</td><td> CopperTop</td><td> Type 2</td><td> Big</td><td>'</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td></td></tr></table></td></tr></table>|
 ||||

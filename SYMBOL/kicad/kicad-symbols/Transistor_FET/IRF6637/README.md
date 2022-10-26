@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORFETIRF6637 > IRF6637
+# SZKTRANSISTORFETIRF6637 > Transistor_FET : IRF6637
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF6637
 - Hex ID: SZKTRANSISTORFETIRF6637
-- Name: IRF6637
-- Description: IRF6637
+- Name: Transistor_FET : IRF6637
+- Description: Transistor_FET : IRF6637
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF6637](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF6637)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETIRF6637](http://oom.lt/SZKTRANSISTORFETIRF6637)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IRF6637|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF6637|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETIRF6637|
-|name|name|IRF6637|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'BSB104N08NP3', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'IRF6637', 'kicadSymbolFootprint': 'Package_DirectFET:DirectFET_MP', 'kicadSymbolDatasheet': 'https://www.infineon.com/dgdl/irf6637pbf.pdf?fileId=5546d462533600a4015355ec1fab1a45', 'kicadSymbolki_keywords': 'N-Channel MOSFET', 'kicadSymbolki_description': '14A Id, 30V Vds, 7.7mOhm Rds, N-Channel MOSFET, DirectFET MP', 'kicadSymbolki_fp_filters': 'DirectFET*MP*'}]|
+|name|name|Transistor_FET : IRF6637|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'BSB104N08NP3'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'IRF6637'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DirectFET</td></tr><tr><td>DirectFET_MP'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.infineon.com/dgdl/irf6637pbf.pdf?fileId=5546d462533600a4015355ec1fab1a45'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'N-Channel MOSFET'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '14A Id</td><td> 30V Vds</td><td> 7.7mOhm Rds</td><td> N-Channel MOSFET</td><td> DirectFET MP'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DirectFET*MP*'</td></tr></table>]|
 ||||

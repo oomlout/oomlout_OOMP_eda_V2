@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDIODEBA243 > BA243
+# SZKDIODEBA243 > Diode : BA243
 
 - ID: SYMBOL-kicad-kicad-symbols-Diode-BA243
 - Hex ID: SZKDIODEBA243
-- Name: BA243
-- Description: BA243
+- Name: Diode : BA243
+- Description: Diode : BA243
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BA243](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BA243)
 - Short Link: [http://oom.lt/SZKDIODEBA243](http://oom.lt/SZKDIODEBA243)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|BA243|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode-BA243|
 |Hex ID (short code)|hexID|SZKDIODEBA243|
-|name|name|BA243|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': '1N4001', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'BA243', 'kicadSymbolFootprint': 'Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal', 'kicadSymbolDatasheet': 'http://cdn-reichelt.de/documents/datenblatt/A400/BA243_TFK.pdf', 'kicadSymbolki_keywords': 'diode', 'kicadSymbolki_description': '20V 0.1A silicon planar diode for VHF tuner band selection, DO-35', 'kicadSymbolki_fp_filters': 'D*DO?35*'}]|
+|name|name|Diode : BA243|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> '1N4001'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'BA243'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Diode_THT</td></tr><tr><td>D_DO-35_SOD27_P7.62mm_Horizontal'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//cdn-reichelt.de/documents/datenblatt/A400/BA243_TFK.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'diode'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '20V 0.1A silicon planar diode for VHF tuner band selection</td><td> DO-35'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'D*DO?35*'</td></tr></table>]|
 ||||

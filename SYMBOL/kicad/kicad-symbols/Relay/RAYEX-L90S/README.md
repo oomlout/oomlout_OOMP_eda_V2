@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKRELAYRAYEXL9S > RAYEX-L90S
+# SZKRELAYRAYEXL9S > Relay : RAYEX-L90S
 
 - ID: SYMBOL-kicad-kicad-symbols-Relay-RAYEX-L90S
 - Hex ID: SZKRELAYRAYEXL9S
-- Name: RAYEX-L90S
-- Description: RAYEX-L90S
+- Name: Relay : RAYEX-L90S
+- Description: Relay : RAYEX-L90S
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-RAYEX-L90S](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-RAYEX-L90S)
 - Short Link: [http://oom.lt/SZKRELAYRAYEXL9S](http://oom.lt/SZKRELAYRAYEXL9S)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|RAYEX-L90S|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Relay-RAYEX-L90S|
 |Hex ID (short code)|hexID|SZKRELAYRAYEXL9S|
-|name|name|RAYEX-L90S|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'K', 'kicadSymbolValue': 'RAYEX-L90S', 'kicadSymbolFootprint': 'Relay_THT:Relay_SPDT_RAYEX-L90S', 'kicadSymbolDatasheet': 'https://a3.sofastcdn.com/attachment/7jioKBjnRiiSrjrjknRiwS77gwbf3zmp/L90-SERIES.pdf', 'kicadSymbolki_keywords': '30A Single Pole Relay', 'kicadSymbolki_description': 'Power relay, Without Common Terminal between coil terminals, SPDT, 30A', 'kicadSymbolki_fp_filters': 'Relay*SPDT*RAYEX*L90S*'}]|
+|name|name|Relay : RAYEX-L90S|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'K'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'RAYEX-L90S'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Relay_THT</td></tr><tr><td>Relay_SPDT_RAYEX-L90S'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//a3.sofastcdn.com/attachment/7jioKBjnRiiSrjrjknRiwS77gwbf3zmp/L90-SERIES.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> '30A Single Pole Relay'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Power relay</td><td> Without Common Terminal between coil terminals</td><td> SPDT</td><td> 30A'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Relay*SPDT*RAYEX*L90S*'</td></tr></table>]|
 ||||

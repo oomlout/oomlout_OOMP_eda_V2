@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKISOLATORPC847 > PC847
+# SZKISOLATORPC847 > Isolator : PC847
 
 - ID: SYMBOL-kicad-kicad-symbols-Isolator-PC847
 - Hex ID: SZKISOLATORPC847
-- Name: PC847
-- Description: PC847
+- Name: Isolator : PC847
+- Description: Isolator : PC847
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-PC847](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-PC847)
 - Short Link: [http://oom.lt/SZKISOLATORPC847](http://oom.lt/SZKISOLATORPC847)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PC847|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Isolator-PC847|
 |Hex ID (short code)|hexID|SZKISOLATORPC847|
-|name|name|PC847|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'PC847', 'kicadSymbolFootprint': 'Package_DIP:DIP-16_W7.62mm', 'kicadSymbolDatasheet': 'http://www.soselectronic.cz/a_info/resource/d/pc817.pdf', 'kicadSymbolki_keywords': 'NPN DC Quad Optocoupler', 'kicadSymbolki_description': 'DC Quad Optocoupler, Vce 35V, CTR 50-300%, DIP16', 'kicadSymbolki_fp_filters': 'DIP*W7.62mm*'}]|
+|name|name|Isolator : PC847|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'PC847'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>DIP-16_W7.62mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.soselectronic.cz/a_info/resource/d/pc817.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'NPN DC Quad Optocoupler'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'DC Quad Optocoupler</td><td> Vce 35V</td><td> CTR 50-300%</td><td> DIP16'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W7.62mm*'</td></tr></table>]|
 ||||

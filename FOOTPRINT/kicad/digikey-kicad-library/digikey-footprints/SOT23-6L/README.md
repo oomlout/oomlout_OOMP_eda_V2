@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SOT23-6L|
 |Hex ID (short code)|hexID|FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSOT236L|
 |name|name|digikey-footprints : SOT23-6L|
-|Footprint Kicad|footprintKicadDetails|{'name': 'SOT23-6L', 'description': 'http://www.st.com/content/ccc/resource/technical/document/datasheet/9a/e6/1c/4f/b6/9a/44/e6/CD00047494.pdf/files/CD00047494.pdf/jcr:content/translations/en.CD00047494.pdf', 'tags': None, 'attributeType': 'smd', 'pins': {'type': 'smd', 'shape': 'rect'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'SOT23-6L'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//www.st.com/content/ccc/resource/technical/document/datasheet/9a/e6/1c/4f/b6/9a/44/e6/CD00047494.pdf/files/CD00047494.pdf/jcr</td></tr><tr><td>content/translations/en.CD00047494.pdf'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
 
 

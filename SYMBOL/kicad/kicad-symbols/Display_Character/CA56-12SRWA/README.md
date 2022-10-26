@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDICHARACTERCA5612SRWA > CA56-12SRWA
+# SZKDICHARACTERCA5612SRWA > Display_Character : CA56-12SRWA
 
 - ID: SYMBOL-kicad-kicad-symbols-Display_Character-CA56-12SRWA
 - Hex ID: SZKDICHARACTERCA5612SRWA
-- Name: CA56-12SRWA
-- Description: CA56-12SRWA
+- Name: Display_Character : CA56-12SRWA
+- Description: Display_Character : CA56-12SRWA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-CA56-12SRWA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-CA56-12SRWA)
 - Short Link: [http://oom.lt/SZKDICHARACTERCA5612SRWA](http://oom.lt/SZKDICHARACTERCA5612SRWA)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|CA56-12SRWA|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Display_Character-CA56-12SRWA|
 |Hex ID (short code)|hexID|SZKDICHARACTERCA5612SRWA|
-|name|name|CA56-12SRWA|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': None, 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'CA56-12SRWA', 'kicadSymbolFootprint': 'Display_7Segment:CA56-12SRWA', 'kicadSymbolDatasheet': 'http://www.kingbrightusa.com/images/catalog/SPEC/CA56-12SRWA.pdf', 'kicadSymbolki_keywords': 'display LED 7-segment', 'kicadSymbolki_description': '4 digit 7 segment super bright red LED, common anode', 'kicadSymbolki_fp_filters': '*CA56*12SRWA*'}]|
+|name|name|Display_Character : CA56-12SRWA|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'CA56-12SRWA'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Display_7Segment</td></tr><tr><td>CA56-12SRWA'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.kingbrightusa.com/images/catalog/SPEC/CA56-12SRWA.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'display LED 7-segment'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '4 digit 7 segment super bright red LED</td><td> common anode'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> '*CA56*12SRWA*'</td></tr></table>]|
 ||||

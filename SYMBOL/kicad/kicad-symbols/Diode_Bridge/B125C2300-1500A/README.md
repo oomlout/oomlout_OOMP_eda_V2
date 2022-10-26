@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKDIODEBRIDGEB125C2315A > B125C2300-1500A
+# SZKDIODEBRIDGEB125C2315A > Diode_Bridge : B125C2300-1500A
 
 - ID: SYMBOL-kicad-kicad-symbols-Diode_Bridge-B125C2300-1500A
 - Hex ID: SZKDIODEBRIDGEB125C2315A
-- Name: B125C2300-1500A
-- Description: B125C2300-1500A
+- Name: Diode_Bridge : B125C2300-1500A
+- Description: Diode_Bridge : B125C2300-1500A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-B125C2300-1500A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-B125C2300-1500A)
 - Short Link: [http://oom.lt/SZKDIODEBRIDGEB125C2315A](http://oom.lt/SZKDIODEBRIDGEB125C2315A)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|B125C2300-1500A|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Diode_Bridge-B125C2300-1500A|
 |Hex ID (short code)|hexID|SZKDIODEBRIDGEB125C2315A|
-|name|name|B125C2300-1500A|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'B40C2300-1500A', 'kicadSymbolReference': 'D', 'kicadSymbolValue': 'B125C2300-1500A', 'kicadSymbolFootprint': 'Diode_THT:Diode_Bridge_19.0x3.5x10.0mm_P5.0mm', 'kicadSymbolDatasheet': 'https://diotec.com/tl_files/diotec/files/pdf/datasheets/b40c2300.pdf', 'kicadSymbolki_keywords': 'rectifier acdc', 'kicadSymbolki_description': 'Silicon Bridge Rectifier, 125V Vrms, 1.5A If, pins=-AA+, SIL-package', 'kicadSymbolki_fp_filters': 'D*Bridge*19.0x3.5x10.0mm*P5.0mm*'}]|
+|name|name|Diode_Bridge : B125C2300-1500A|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'B40C2300-1500A'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'B125C2300-1500A'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Diode_THT</td></tr><tr><td>Diode_Bridge_19.0x3.5x10.0mm_P5.0mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//diotec.com/tl_files/diotec/files/pdf/datasheets/b40c2300.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'rectifier acdc'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Silicon Bridge Rectifier</td><td> 125V Vrms</td><td> 1.5A If</td><td> pins=-AA+</td><td> SIL-package'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'D*Bridge*19.0x3.5x10.0mm*P5.0mm*'</td></tr></table>]|
 ||||

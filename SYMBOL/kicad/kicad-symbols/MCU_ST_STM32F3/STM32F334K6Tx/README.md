@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUSTSTM32F3STM32F334K6TX > STM32F334K6Tx
+# SZKMCUSTSTM32F3STM32F334K6TX > MCU_ST_STM32F3 : STM32F334K6Tx
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F3-STM32F334K6Tx
 - Hex ID: SZKMCUSTSTM32F3STM32F334K6TX
-- Name: STM32F334K6Tx
-- Description: STM32F334K6Tx
+- Name: MCU_ST_STM32F3 : STM32F334K6Tx
+- Description: MCU_ST_STM32F3 : STM32F334K6Tx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F3-STM32F334K6Tx](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F3-STM32F334K6Tx)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32F3STM32F334K6TX](http://oom.lt/SZKMCUSTSTM32F3STM32F334K6TX)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|STM32F334K6Tx|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F3-STM32F334K6Tx|
 |Hex ID (short code)|hexID|SZKMCUSTSTM32F3STM32F334K6TX|
-|name|name|STM32F334K6Tx|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'STM32F334K4Tx', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'STM32F334K6Tx', 'kicadSymbolFootprint': 'Package_QFP:LQFP-32_7x7mm_P0.8mm', 'kicadSymbolDatasheet': 'http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00097745.pdf', 'kicadSymbolki_keywords': 'ARM Cortex-M4 STM32F3 STM32F334', 'kicadSymbolki_description': 'ARM Cortex-M4 MCU, 32KB flash, 12KB RAM, 72MHz, 2-3.6V, 25 GPIO, LQFP-32', 'kicadSymbolki_fp_filters': 'LQFP*7x7mm*P0.8mm*'}]|
+|name|name|MCU_ST_STM32F3 : STM32F334K6Tx|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'STM32F334K4Tx'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'STM32F334K6Tx'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_QFP</td></tr><tr><td>LQFP-32_7x7mm_P0.8mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00097745.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'ARM Cortex-M4 STM32F3 STM32F334'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'ARM Cortex-M4 MCU</td><td> 32KB flash</td><td> 12KB RAM</td><td> 72MHz</td><td> 2-3.6V</td><td> 25 GPIO</td><td> LQFP-32'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'LQFP*7x7mm*P0.8mm*'</td></tr></table>]|
 ||||

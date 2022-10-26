@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKAMPLIFIERAUDIOIR4312 > IR4312
+# SZKAMPLIFIERAUDIOIR4312 > Amplifier_Audio : IR4312
 
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Audio-IR4312
 - Hex ID: SZKAMPLIFIERAUDIOIR4312
-- Name: IR4312
-- Description: IR4312
+- Name: Amplifier_Audio : IR4312
+- Description: Amplifier_Audio : IR4312
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-IR4312](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-IR4312)
 - Short Link: [http://oom.lt/SZKAMPLIFIERAUDIOIR4312](http://oom.lt/SZKAMPLIFIERAUDIOIR4312)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|IR4312|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Amplifier_Audio-IR4312|
 |Hex ID (short code)|hexID|SZKAMPLIFIERAUDIOIR4312|
-|name|name|IR4312|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'IR4302', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'IR4312', 'kicadSymbolFootprint': 'Package_DFN_QFN:Infineon_PQFN-44-31-5EP_7x7mm_P0.5mm', 'kicadSymbolDatasheet': 'https://www.infineon.com/dgdl/ir4302.pdf?fileId=5546d462533600a4015355d602a9181d', 'kicadSymbolki_keywords': 'integrated class d amplifier 2ch', 'kicadSymbolki_description': 'PowIRaudio 2 Channel Integrated Analog Input Class D Audio Amplifier, 100W/4ohm, 60V, PQFN-44', 'kicadSymbolki_fp_filters': 'Infineon*PQFN*5EP*7x7mm*P0.5mm*'}]|
+|name|name|Amplifier_Audio : IR4312|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'IR4302'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'IR4312'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>Infineon_PQFN-44-31-5EP_7x7mm_P0.5mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.infineon.com/dgdl/ir4302.pdf?fileId=5546d462533600a4015355d602a9181d'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'integrated class d amplifier 2ch'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'PowIRaudio 2 Channel Integrated Analog Input Class D Audio Amplifier</td><td> 100W/4ohm</td><td> 60V</td><td> PQFN-44'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Infineon*PQFN*5EP*7x7mm*P0.5mm*'</td></tr></table>]|
 ||||

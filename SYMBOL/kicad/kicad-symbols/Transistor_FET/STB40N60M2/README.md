@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKTRANSISTORFETSTB4N6M2 > STB40N60M2
+# SZKTRANSISTORFETSTB4N6M2 > Transistor_FET : STB40N60M2
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-STB40N60M2
 - Hex ID: SZKTRANSISTORFETSTB4N6M2
-- Name: STB40N60M2
-- Description: STB40N60M2
+- Name: Transistor_FET : STB40N60M2
+- Description: Transistor_FET : STB40N60M2
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-STB40N60M2](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-STB40N60M2)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETSTB4N6M2](http://oom.lt/SZKTRANSISTORFETSTB4N6M2)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|STB40N60M2|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Transistor_FET-STB40N60M2|
 |Hex ID (short code)|hexID|SZKTRANSISTORFETSTB4N6M2|
-|name|name|STB40N60M2|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'STB15N80K5', 'kicadSymbolReference': 'Q', 'kicadSymbolValue': 'STB40N60M2', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:TO-263-2', 'kicadSymbolDatasheet': 'https://www.st.com/resource/en/datasheet/stp40n60m2.pdf', 'kicadSymbolki_keywords': 'N-Channel MOSFET', 'kicadSymbolki_description': '34A Id, 600V Vds, N-Channel MDmesh M2 MOSFET, 78mOhm Ron, D2PAK', 'kicadSymbolki_fp_filters': 'TO?263*'}]|
+|name|name|Transistor_FET : STB40N60M2|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'STB15N80K5'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'STB40N60M2'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>TO-263-2'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.st.com/resource/en/datasheet/stp40n60m2.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'N-Channel MOSFET'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '34A Id</td><td> 600V Vds</td><td> N-Channel MDmesh M2 MOSFET</td><td> 78mOhm Ron</td><td> D2PAK'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TO?263*'</td></tr></table>]|
 ||||

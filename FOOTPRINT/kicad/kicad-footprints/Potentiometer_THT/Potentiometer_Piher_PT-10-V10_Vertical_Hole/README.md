@@ -30,7 +30,7 @@
 |Full OOMP ID|oompID|FOOTPRINT-kicad-kicad-footprints-Potentiometer_THT-Potentiometer_Piher_PT-10-V10_Vertical_Hole|
 |Hex ID (short code)|hexID|FZKPPOTENTIOMETERPIHERPT1V1VERTICALHOLE|
 |name|name|Potentiometer_THT : Potentiometer_Piher_PT-10-V10_Vertical_Hole|
-|Footprint Kicad|footprintKicadDetails|{'name': 'Potentiometer_Piher_PT-10-V10_Vertical_Hole', 'description': 'Potentiometer, vertical, shaft hole, Piher PT-10-V10, http://www.piher-nacesa.com/pdf/12-PT10v03.pdf', 'tags': 'Potentiometer vertical hole Piher PT-10-V10', 'attributeType': 'through_hole', 'threeDModel': '${KICAD6_3DMODEL_DIR}/Potentiometer_THT.3dshapes/Potentiometer_Piher_PT-10-V10_Vertical_Hole.wrl', 'pins': {'type': 'np_thru_hole', 'shape': 'circle'}}|
+|Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Potentiometer_Piher_PT-10-V10_Vertical_Hole'</td><td> 'description'</td></tr><tr><td> 'Potentiometer</td><td> vertical</td><td> shaft hole</td><td> Piher PT-10-V10</td><td> http</td></tr><tr><td>//www.piher-nacesa.com/pdf/12-PT10v03.pdf'</td><td> 'tags'</td></tr><tr><td> 'Potentiometer vertical hole Piher PT-10-V10'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Potentiometer_THT.3dshapes/Potentiometer_Piher_PT-10-V10_Vertical_Hole.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
 
 

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKPOWERSUPERVISORMAX6371 > MAX6371
+# SZKPOWERSUPERVISORMAX6371 > Power_Supervisor : MAX6371
 
 - ID: SYMBOL-kicad-kicad-symbols-Power_Supervisor-MAX6371
 - Hex ID: SZKPOWERSUPERVISORMAX6371
-- Name: MAX6371
-- Description: MAX6371
+- Name: Power_Supervisor : MAX6371
+- Description: Power_Supervisor : MAX6371
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Supervisor-MAX6371](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Supervisor-MAX6371)
 - Short Link: [http://oom.lt/SZKPOWERSUPERVISORMAX6371](http://oom.lt/SZKPOWERSUPERVISORMAX6371)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|MAX6371|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-Power_Supervisor-MAX6371|
 |Hex ID (short code)|hexID|SZKPOWERSUPERVISORMAX6371|
-|name|name|MAX6371|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'MAX6369', 'kicadSymbolReference': 'U', 'kicadSymbolValue': 'MAX6371', 'kicadSymbolFootprint': 'Package_TO_SOT_SMD:SOT-23-8', 'kicadSymbolDatasheet': 'https://datasheets.maximintegrated.com/en/ds/MAX6369-MAX6374.pdf', 'kicadSymbolki_keywords': 'watchdog supervisor', 'kicadSymbolki_description': 'Precision Pin-Selectable Watchdog Timer, 200us to 60s, SOT-23-8', 'kicadSymbolki_fp_filters': 'SOT?23*'}]|
+|name|name|Power_Supervisor : MAX6371|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'MAX6369'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MAX6371'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-23-8'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//datasheets.maximintegrated.com/en/ds/MAX6369-MAX6374.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'watchdog supervisor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Precision Pin-Selectable Watchdog Timer</td><td> 200us to 60s</td><td> SOT-23-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23*'</td></tr></table>]|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# SZKMCUMCHIPPIC16PIC16LF15356XSO > PIC16LF15356-xSO
+# SZKMCUMCHIPPIC16PIC16LF15356XSO > MCU_Microchip_PIC16 : PIC16LF15356-xSO
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16LF15356-xSO
 - Hex ID: SZKMCUMCHIPPIC16PIC16LF15356XSO
-- Name: PIC16LF15356-xSO
-- Description: PIC16LF15356-xSO
+- Name: MCU_Microchip_PIC16 : PIC16LF15356-xSO
+- Description: MCU_Microchip_PIC16 : PIC16LF15356-xSO
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16LF15356-xSO](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16LF15356-xSO)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC16PIC16LF15356XSO](http://oom.lt/SZKMCUMCHIPPIC16PIC16LF15356XSO)
   
@@ -28,6 +28,6 @@ NO IMAGE
 |OOMP Index|oompIndex|PIC16LF15356-xSO|
 |Full OOMP ID|oompID|SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16LF15356-xSO|
 |Hex ID (short code)|hexID|SZKMCUMCHIPPIC16PIC16LF15356XSO|
-|name|name|PIC16LF15356-xSO|
-|Symbol Kicad Details|symbolKicadDetails|[{'kicadSymbolExtends': 'PIC16F15356-xSO', 'kicadSymbolReference': 'U?', 'kicadSymbolValue': 'PIC16LF15356-xSO', 'kicadSymbolFootprint': 'Package_SO:SOIC-28W_7.5x17.9mm_P1.27mm', 'kicadSymbolDatasheet': 'http://ww1.microchip.com/downloads/en/DeviceDoc/PIC16LF15356-75-76-85-86-Data%20Sheet-40001866B.pdf', 'kicadSymbolki_keywords': 'FLASH-Based 8-Bit CMOS Microcontroller Low Power', 'kicadSymbolki_description': '16KW FLASH, 2048B SRAM, SOIC-28', 'kicadSymbolki_fp_filters': 'SOIC*.5x17.9mm*'}]|
+|name|name|MCU_Microchip_PIC16 : PIC16LF15356-xSO|
+|Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'PIC16F15356-xSO'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U?'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'PIC16LF15356-xSO'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-28W_7.5x17.9mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/PIC16LF15356-75-76-85-86-Data%20Sheet-40001866B.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'FLASH-Based 8-Bit CMOS Microcontroller Low Power'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '16KW FLASH</td><td> 2048B SRAM</td><td> SOIC-28'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*.5x17.9mm*'</td></tr></table>]|
 ||||
