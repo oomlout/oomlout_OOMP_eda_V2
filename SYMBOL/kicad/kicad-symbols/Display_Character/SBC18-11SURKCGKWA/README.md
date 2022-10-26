@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKDICHARACTERSBC1811SURKCGKWA](http://oom.lt/SZKDICHARACTERSBC1811SURKCGKWA)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Display_Character/SBC18-11SURKCGKWA/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Display_Character/SBC18-11SURKCGKWA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Display_Character/SBC18-11SURKCGKWA/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

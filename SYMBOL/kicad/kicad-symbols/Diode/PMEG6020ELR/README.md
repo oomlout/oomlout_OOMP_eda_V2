@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKDIODEPMEG62ELR](http://oom.lt/SZKDIODEPMEG62ELR)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/PMEG6020ELR/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/PMEG6020ELR/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/PMEG6020ELR/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKINTERFACES5933PQ16](http://oom.lt/SZKINTERFACES5933PQ16)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface/S5933_PQ160/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface/S5933_PQ160/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface/S5933_PQ160/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

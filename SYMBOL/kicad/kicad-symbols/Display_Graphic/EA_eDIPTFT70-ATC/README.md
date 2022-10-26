@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKDIGRAPHICEAEDIPTFT7ATC](http://oom.lt/SZKDIGRAPHICEAEDIPTFT7ATC)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Display_Graphic/EA_eDIPTFT70-ATC/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Display_Graphic/EA_eDIPTFT70-ATC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Display_Graphic/EA_eDIPTFT70-ATC/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

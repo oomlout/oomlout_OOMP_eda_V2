@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKINTERFACEUARTGD65232DW](http://oom.lt/SZKINTERFACEUARTGD65232DW)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_UART/GD65232DW/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_UART/GD65232DW/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_UART/GD65232DW/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

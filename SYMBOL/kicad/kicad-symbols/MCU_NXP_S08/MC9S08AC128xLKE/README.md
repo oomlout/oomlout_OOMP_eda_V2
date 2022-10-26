@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKMCUNXPS8MC9S8AC128XLKE](http://oom.lt/SZKMCUNXPS8MC9S8AC128XLKE)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_NXP_S08/MC9S08AC128xLKE/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_S08/MC9S08AC128xLKE/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_S08/MC9S08AC128xLKE/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

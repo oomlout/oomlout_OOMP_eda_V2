@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKANALOGADCINA219AXDCN](http://oom.lt/SZKANALOGADCINA219AXDCN)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_ADC/INA219AxDCN/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/INA219AxDCN/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/INA219AxDCN/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

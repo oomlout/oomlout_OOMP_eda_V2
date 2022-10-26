@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/FZKTRAUTOTRZS152AC](http://oom.lt/FZKTRAUTOTRZS152AC)
   
 
-|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Transformer_THT/Autotransformer_ZS1052-AC/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Transformer_THT/Autotransformer_ZS1052-AC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Transformer_THT/Autotransformer_ZS1052-AC/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

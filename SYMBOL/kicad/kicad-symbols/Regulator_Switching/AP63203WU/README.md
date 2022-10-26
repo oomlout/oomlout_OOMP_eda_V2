@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGAP6323WU](http://oom.lt/SZKREGULATORSWITCHINGAP6323WU)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/AP63203WU/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/AP63203WU/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/AP63203WU/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

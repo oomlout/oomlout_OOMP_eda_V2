@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKREGULATORLINEARTPS755RGW](http://oom.lt/SZKREGULATORLINEARTPS755RGW)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/TPS75005RGW/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/TPS75005RGW/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/TPS75005RGW/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

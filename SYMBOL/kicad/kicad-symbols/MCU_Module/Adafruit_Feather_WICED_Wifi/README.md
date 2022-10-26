@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKMCUMOADAFEATHERWICEDWIFI](http://oom.lt/SZKMCUMOADAFEATHERWICEDWIFI)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Module/Adafruit_Feather_WICED_Wifi/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Module/Adafruit_Feather_WICED_Wifi/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Module/Adafruit_Feather_WICED_Wifi/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

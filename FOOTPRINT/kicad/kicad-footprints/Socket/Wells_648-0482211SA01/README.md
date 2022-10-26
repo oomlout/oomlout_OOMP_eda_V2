@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/FZKSOWELLS648482211SA1](http://oom.lt/FZKSOWELLS648482211SA1)
   
 
-|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Socket/Wells_648-0482211SA01/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Socket/Wells_648-0482211SA01/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Socket/Wells_648-0482211SA01/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

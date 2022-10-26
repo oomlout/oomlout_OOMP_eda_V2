@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKSENMAGNETICDRV533FAXDBZ](http://oom.lt/SZKSENMAGNETICDRV533FAXDBZ)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Magnetic/DRV5033FAxDBZ/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Magnetic/DRV5033FAxDBZ/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Magnetic/DRV5033FAxDBZ/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

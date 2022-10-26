@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKDEVICEQPMOSGDSD](http://oom.lt/SZKDEVICEQPMOSGDSD)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/Q_PMOS_GDSD/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/Q_PMOS_GDSD/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/Q_PMOS_GDSD/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

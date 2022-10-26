@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/FZKTPTPTHTPADD25DRILL12](http://oom.lt/FZKTPTPTHTPADD25DRILL12)
   
 
-|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/TestPoint/TestPoint_THTPad_D2.5mm_Drill1.2mm/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/TestPoint/TestPoint_THTPad_D2.5mm_Drill1.2mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/TestPoint/TestPoint_THTPad_D2.5mm_Drill1.2mm/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKDIODEBRIDGESC35VB16SG](http://oom.lt/SZKDIODEBRIDGESC35VB16SG)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode_Bridge/SC35VB160S-G/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode_Bridge/SC35VB160S-G/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode_Bridge/SC35VB160S-G/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

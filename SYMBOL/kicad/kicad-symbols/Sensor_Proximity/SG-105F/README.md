@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKSENPROXIMITYSG15F](http://oom.lt/SZKSENPROXIMITYSG15F)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Proximity/SG-105F/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Proximity/SG-105F/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Proximity/SG-105F/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

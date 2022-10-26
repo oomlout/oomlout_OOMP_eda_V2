@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKANALOGDACTLV5627CPW](http://oom.lt/SZKANALOGDACTLV5627CPW)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_DAC/TLV5627CPW/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_DAC/TLV5627CPW/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_DAC/TLV5627CPW/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

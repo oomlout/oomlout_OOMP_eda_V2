@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKBATMANAGEMENTMAX17261XXTD](http://oom.lt/SZKBATMANAGEMENTMAX17261XXTD)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Battery_Management/MAX17261xxTD/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Battery_Management/MAX17261xxTD/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Battery_Management/MAX17261xxTD/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

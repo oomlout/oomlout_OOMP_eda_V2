@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/FZKSENCURRENTLEMHO8NP](http://oom.lt/FZKSENCURRENTLEMHO8NP)
   
 
-|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Sensor_Current/LEM_HO8-NP/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Current/LEM_HO8-NP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Current/LEM_HO8-NP/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

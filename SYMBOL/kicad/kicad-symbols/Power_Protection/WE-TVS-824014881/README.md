@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKPOWERPROTECTIONWETVS82414881](http://oom.lt/SZKPOWERPROTECTIONWETVS82414881)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Protection/WE-TVS-824014881/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Power_Protection/WE-TVS-824014881/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Power_Protection/WE-TVS-824014881/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

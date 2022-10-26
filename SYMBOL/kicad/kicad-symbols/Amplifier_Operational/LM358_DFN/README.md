@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALLM358DFN](http://oom.lt/SZKAMPLIFIEROPERATIONALLM358DFN)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/LM358_DFN/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/LM358_DFN/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/LM358_DFN/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKMECHANICALHOLPAD](http://oom.lt/SZKMECHANICALHOLPAD)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Mechanical/MountingHole_Pad/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Mechanical/MountingHole_Pad/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Mechanical/MountingHole_Pad/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

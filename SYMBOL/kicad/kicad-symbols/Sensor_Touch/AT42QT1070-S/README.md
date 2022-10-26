@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKSENTOUCHAT42QT17S](http://oom.lt/SZKSENTOUCHAT42QT17S)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Touch/AT42QT1070-S/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Touch/AT42QT1070-S/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Touch/AT42QT1070-S/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

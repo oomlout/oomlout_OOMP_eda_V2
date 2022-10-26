@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALNCS274DTB](http://oom.lt/SZKAMPLIFIEROPERATIONALNCS274DTB)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/NCS20074DTB/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/NCS20074DTB/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/NCS20074DTB/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

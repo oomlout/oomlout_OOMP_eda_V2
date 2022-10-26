@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKANALOGSWITCHDG412XJ](http://oom.lt/SZKANALOGSWITCHDG412XJ)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_Switch/DG412xJ/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_Switch/DG412xJ/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_Switch/DG412xJ/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

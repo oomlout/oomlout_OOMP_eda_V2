@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/FZKTBTBWUERTH691311412P762](http://oom.lt/FZKTBTBWUERTH691311412P762)
   
 
-|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/TerminalBlock/TerminalBlock_Wuerth_691311400102_P7.62mm/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock/TerminalBlock_Wuerth_691311400102_P7.62mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock/TerminalBlock_Wuerth_691311400102_P7.62mm/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

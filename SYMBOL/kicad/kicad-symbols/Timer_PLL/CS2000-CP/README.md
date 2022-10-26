@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKTIMERPLLCS2CP](http://oom.lt/SZKTIMERPLLCS2CP)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Timer_PLL/CS2000-CP/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Timer_PLL/CS2000-CP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Timer_PLL/CS2000-CP/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

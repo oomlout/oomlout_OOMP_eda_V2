@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKINTERFACEETHERNETKSZ881RND](http://oom.lt/SZKINTERFACEETHERNETKSZ881RND)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_Ethernet/KSZ8081RND/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_Ethernet/KSZ8081RND/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_Ethernet/KSZ8081RND/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

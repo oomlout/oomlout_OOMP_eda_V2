@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKPOTENTIOMETERDIGITALMCP418XXXXLT](http://oom.lt/SZKPOTENTIOMETERDIGITALMCP418XXXXLT)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Potentiometer_Digital/MCP4018-xxxxLT/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Potentiometer_Digital/MCP4018-xxxxLT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Potentiometer_Digital/MCP4018-xxxxLT/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

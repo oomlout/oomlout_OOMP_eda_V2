@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKINTERFACETELECOMHT917D](http://oom.lt/SZKINTERFACETELECOMHT917D)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_Telecom/HT9170D/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_Telecom/HT9170D/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_Telecom/HT9170D/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

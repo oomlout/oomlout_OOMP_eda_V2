@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKCNRJ45AMPHENOLRJMG1BD3B8K1ANR](http://oom.lt/SZKCNRJ45AMPHENOLRJMG1BD3B8K1ANR)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/RJ45_Amphenol_RJMG1BD3B8K1ANR/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/RJ45_Amphenol_RJMG1BD3B8K1ANR/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/RJ45_Amphenol_RJMG1BD3B8K1ANR/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

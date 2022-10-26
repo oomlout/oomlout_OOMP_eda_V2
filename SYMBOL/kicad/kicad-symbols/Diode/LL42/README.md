@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKDIODELL42](http://oom.lt/SZKDIODELL42)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/LL42/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/LL42/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/LL42/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

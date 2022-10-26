@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKDIGRAPHICERM19264](http://oom.lt/SZKDIGRAPHICERM19264)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Display_Graphic/ERM19264/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Display_Graphic/ERM19264/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Display_Graphic/ERM19264/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

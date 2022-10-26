@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/FZKSZSYCCNONCOERCIALCTOPBIG](http://oom.lt/FZKSZSYCCNONCOERCIALCTOPBIG)
   
 
-|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Symbol/Symbol_CC-Noncommercial_CopperTop_Big/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Symbol/Symbol_CC-Noncommercial_CopperTop_Big/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Symbol/Symbol_CC-Noncommercial_CopperTop_Big/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

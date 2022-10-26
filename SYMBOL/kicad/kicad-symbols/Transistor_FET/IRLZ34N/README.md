@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKTRANSISTORFETIRLZ34N](http://oom.lt/SZKTRANSISTORFETIRLZ34N)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/IRLZ34N/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/IRLZ34N/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/IRLZ34N/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

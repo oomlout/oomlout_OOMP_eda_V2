@@ -13,7 +13,7 @@
 - Short Link: [http://oom.lt/FZKNTNT4SMPAD5](http://oom.lt/FZKNTNT4SMPAD5)
   
 
-|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/NetTie/NetTie-4_SMD_Pad0.5mm/image.png|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/NetTie/NetTie-4_SMD_Pad0.5mm/kicadPcb3dFront.png|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/NetTie/NetTie-4_SMD_Pad0.5mm/kicadPcb3dBack.png|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/NetTie/NetTie-4_SMD_Pad0.5mm/kicadPcb3d.png|
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/NetTie/NetTie-4_SMD_Pad0.5mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/NetTie/NetTie-4_SMD_Pad0.5mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/NetTie/NetTie-4_SMD_Pad0.5mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/NetTie/NetTie-4_SMD_Pad0.5mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/NetTie/NetTie-4_SMD_Pad0.5mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/NetTie/NetTie-4_SMD_Pad0.5mm/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/NetTie/NetTie-4_SMD_Pad0.5mm/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/NetTie/NetTie-4_SMD_Pad0.5mm/kicadPcb3d.png)|
 | :---: | :---: | :---: | :---: |
 |||||
 

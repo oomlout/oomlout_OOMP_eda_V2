@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKANALOGADCADS1232IPW](http://oom.lt/SZKANALOGADCADS1232IPW)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_ADC/ADS1232IPW/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/ADS1232IPW/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/ADS1232IPW/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

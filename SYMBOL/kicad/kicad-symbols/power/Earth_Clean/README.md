@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKPOWEREARTHCLEAN](http://oom.lt/SZKPOWEREARTHCLEAN)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/power/Earth_Clean/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/power/Earth_Clean/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/power/Earth_Clean/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

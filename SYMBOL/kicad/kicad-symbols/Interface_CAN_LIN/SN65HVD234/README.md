@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKINTERFACECANLINSN65HVD234](http://oom.lt/SZKINTERFACECANLINSN65HVD234)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_CAN_LIN/SN65HVD234/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_CAN_LIN/SN65HVD234/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_CAN_LIN/SN65HVD234/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

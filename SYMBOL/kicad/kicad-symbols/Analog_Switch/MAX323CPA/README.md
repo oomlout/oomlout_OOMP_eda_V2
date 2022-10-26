@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKANALOGSWITCHMAX323CPA](http://oom.lt/SZKANALOGSWITCHMAX323CPA)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_Switch/MAX323CPA/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_Switch/MAX323CPA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_Switch/MAX323CPA/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

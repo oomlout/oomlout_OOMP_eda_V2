@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKTRTG11E5N5XX](http://oom.lt/SZKTRTG11E5N5XX)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transformer/TG110-E050N5xx/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transformer/TG110-E050N5xx/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transformer/TG110-E050N5xx/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

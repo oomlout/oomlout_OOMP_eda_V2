@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKRELAYSOLIDSTATETLP3545](http://oom.lt/SZKRELAYSOLIDSTATETLP3545)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Relay_SolidState/TLP3545/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Relay_SolidState/TLP3545/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Relay_SolidState/TLP3545/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

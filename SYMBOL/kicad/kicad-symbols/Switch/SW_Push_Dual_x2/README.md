@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKSWITCHSWPUSHDUALX2](http://oom.lt/SZKSWITCHSWPUSHDUALX2)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Switch/SW_Push_Dual_x2/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Switch/SW_Push_Dual_x2/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Switch/SW_Push_Dual_x2/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

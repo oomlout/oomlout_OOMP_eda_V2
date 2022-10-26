@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALTLV962XDSG](http://oom.lt/SZKAMPLIFIEROPERATIONALTLV962XDSG)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/TLV9062xDSG/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/TLV9062xDSG/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/TLV9062xDSG/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

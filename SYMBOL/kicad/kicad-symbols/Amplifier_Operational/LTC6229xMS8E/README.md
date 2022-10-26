@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALLTC6229XMS8E](http://oom.lt/SZKAMPLIFIEROPERATIONALLTC6229XMS8E)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/LTC6229xMS8E/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/LTC6229xMS8E/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/LTC6229xMS8E/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

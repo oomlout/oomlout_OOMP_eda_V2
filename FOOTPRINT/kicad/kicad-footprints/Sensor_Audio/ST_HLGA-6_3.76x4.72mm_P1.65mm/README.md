@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/FZKSENAUDIOSTHLGA6376X472P165](http://oom.lt/FZKSENAUDIOSTHLGA6376X472P165)
   
 
-|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Sensor_Audio/ST_HLGA-6_3.76x4.72mm_P1.65mm/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Audio/ST_HLGA-6_3.76x4.72mm_P1.65mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Audio/ST_HLGA-6_3.76x4.72mm_P1.65mm/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC32PIC3264GPL28XML](http://oom.lt/SZKMCUMCHIPPIC32PIC3264GPL28XML)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC32/PIC32MM0064GPL028x-ML/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC32/PIC32MM0064GPL028x-ML/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC32/PIC32MM0064GPL028x-ML/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

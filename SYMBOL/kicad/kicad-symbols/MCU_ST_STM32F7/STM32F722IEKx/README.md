@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKMCUSTSTM32F7STM32F722IEKX](http://oom.lt/SZKMCUSTSTM32F7STM32F722IEKX)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F7/STM32F722IEKx/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F7/STM32F722IEKx/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F7/STM32F722IEKx/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

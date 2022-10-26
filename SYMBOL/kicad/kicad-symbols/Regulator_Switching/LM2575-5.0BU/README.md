@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGLM25755BU](http://oom.lt/SZKREGULATORSWITCHINGLM25755BU)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LM2575-5.0BU/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LM2575-5.0BU/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LM2575-5.0BU/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

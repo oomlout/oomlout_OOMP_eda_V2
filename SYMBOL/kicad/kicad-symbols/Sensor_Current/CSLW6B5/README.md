@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKSENCURRENTCSLW6B5](http://oom.lt/SZKSENCURRENTCSLW6B5)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Current/CSLW6B5/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/CSLW6B5/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/CSLW6B5/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

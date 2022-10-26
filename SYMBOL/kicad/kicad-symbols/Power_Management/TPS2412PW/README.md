@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTTPS2412PW](http://oom.lt/SZKPOWERMANAGEMENTTPS2412PW)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Management/TPS2412PW/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Power_Management/TPS2412PW/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Power_Management/TPS2412PW/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

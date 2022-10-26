@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/FZKTRAUTOTRTOROID1TAPHORIZONTALD9AMIDONT3](http://oom.lt/FZKTRAUTOTRTOROID1TAPHORIZONTALD9AMIDONT3)
   
 
-|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Transformer_THT/Autotransformer_Toroid_1Tap_Horizontal_D9.0mm_Amidon-T30/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Transformer_THT/Autotransformer_Toroid_1Tap_Horizontal_D9.0mm_Amidon-T30/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Transformer_THT/Autotransformer_Toroid_1Tap_Horizontal_D9.0mm_Amidon-T30/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

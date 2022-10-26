@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/FZKTBTECONNECTIVITYTBTE28283471X7P254HORIZONTAL](http://oom.lt/FZKTBTECONNECTIVITYTBTE28283471X7P254HORIZONTAL)
   
 
-|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_TE-Connectivity/TerminalBlock_TE_282834-7_1x07_P2.54mm_Horizontal/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_TE-Connectivity/TerminalBlock_TE_282834-7_1x07_P2.54mm_Horizontal/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_TE-Connectivity/TerminalBlock_TE_282834-7_1x07_P2.54mm_Horizontal/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

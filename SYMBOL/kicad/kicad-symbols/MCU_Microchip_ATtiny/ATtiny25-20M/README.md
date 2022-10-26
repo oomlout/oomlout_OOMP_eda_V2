@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKMCUMCHIPATTINYATTINY252M](http://oom.lt/SZKMCUMCHIPATTINYATTINY252M)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATtiny/ATtiny25-20M/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATtiny/ATtiny25-20M/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATtiny/ATtiny25-20M/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

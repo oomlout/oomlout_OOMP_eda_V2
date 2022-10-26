@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKDEVICEMPHONEULTRASOUND](http://oom.lt/SZKDEVICEMPHONEULTRASOUND)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/Microphone_Ultrasound/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/Microphone_Ultrasound/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/Microphone_Ultrasound/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

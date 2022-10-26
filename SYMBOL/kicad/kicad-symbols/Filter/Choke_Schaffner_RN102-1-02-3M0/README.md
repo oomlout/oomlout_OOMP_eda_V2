@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKFILCHOKESCHAFFNERRN12123M](http://oom.lt/SZKFILCHOKESCHAFFNERRN12123M)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Filter/Choke_Schaffner_RN102-1-02-3M0/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Filter/Choke_Schaffner_RN102-1-02-3M0/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Filter/Choke_Schaffner_RN102-1-02-3M0/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

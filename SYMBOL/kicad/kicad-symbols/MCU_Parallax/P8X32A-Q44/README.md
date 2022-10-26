@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKMCUPARALLAXP8X32AQ44](http://oom.lt/SZKMCUPARALLAXP8X32AQ44)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Parallax/P8X32A-Q44/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Parallax/P8X32A-Q44/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Parallax/P8X32A-Q44/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

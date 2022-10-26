@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKMEMORYNVRAM47C4](http://oom.lt/SZKMEMORYNVRAM47C4)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Memory_NVRAM/47C04/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_NVRAM/47C04/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_NVRAM/47C04/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

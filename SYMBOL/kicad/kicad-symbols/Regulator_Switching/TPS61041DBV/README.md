@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGTPS6141DBV](http://oom.lt/SZKREGULATORSWITCHINGTPS6141DBV)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/TPS61041DBV/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/TPS61041DBV/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/TPS61041DBV/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

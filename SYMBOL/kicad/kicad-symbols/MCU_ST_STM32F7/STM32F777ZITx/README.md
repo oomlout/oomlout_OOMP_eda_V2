@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKMCUSTSTM32F7STM32F777ZITX](http://oom.lt/SZKMCUSTSTM32F7STM32F777ZITX)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F7/STM32F777ZITx/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F7/STM32F777ZITx/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F7/STM32F777ZITx/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

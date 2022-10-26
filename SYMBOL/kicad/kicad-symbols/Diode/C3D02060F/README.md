@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKDIODEC3D26F](http://oom.lt/SZKDIODEC3D26F)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/C3D02060F/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/C3D02060F/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/C3D02060F/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

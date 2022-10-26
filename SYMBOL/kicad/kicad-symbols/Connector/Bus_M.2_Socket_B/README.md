@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKCNBUSM2SOB](http://oom.lt/SZKCNBUSM2SOB)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/Bus_M.2_Socket_B/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/Bus_M.2_Socket_B/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Bus_M.2_Socket_B/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

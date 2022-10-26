@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKREGULATORLINEARLK112M5TR](http://oom.lt/SZKREGULATORLINEARLK112M5TR)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LK112M50TR/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LK112M50TR/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LK112M50TR/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

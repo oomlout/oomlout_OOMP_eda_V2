@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKMCUSTSTM32H7STM32H743VITX](http://oom.lt/SZKMCUSTSTM32H7STM32H743VITX)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32H7/STM32H743VITx/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32H7/STM32H743VITx/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32H7/STM32H743VITx/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

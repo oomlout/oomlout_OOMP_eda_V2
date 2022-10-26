@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKDIODEPMEG41CEJ](http://oom.lt/SZKDIODEPMEG41CEJ)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/PMEG4010CEJ/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/PMEG4010CEJ/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/PMEG4010CEJ/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

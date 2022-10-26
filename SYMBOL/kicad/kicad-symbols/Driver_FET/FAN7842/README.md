@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKDRIVERFETFAN7842](http://oom.lt/SZKDRIVERFETFAN7842)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_FET/FAN7842/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Driver_FET/FAN7842/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Driver_FET/FAN7842/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGR78S331](http://oom.lt/SZKREGULATORSWITCHINGR78S331)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/R-78S3.3-0.1/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/R-78S3.3-0.1/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/R-78S3.3-0.1/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

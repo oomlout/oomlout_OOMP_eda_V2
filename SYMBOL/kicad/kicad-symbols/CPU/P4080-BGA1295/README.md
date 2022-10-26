@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKCPUP48BGA1295](http://oom.lt/SZKCPUP48BGA1295)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/CPU/P4080-BGA1295/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/CPU/P4080-BGA1295/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/CPU/P4080-BGA1295/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

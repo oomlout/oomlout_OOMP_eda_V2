@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/FZKTPTPLOOPD25DRILL1LOWPROFILE](http://oom.lt/FZKTPTPLOOPD25DRILL1LOWPROFILE)
   
 
-|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/TestPoint/TestPoint_Loop_D2.50mm_Drill1.0mm_LowProfile/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/TestPoint/TestPoint_Loop_D2.50mm_Drill1.0mm_LowProfile/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/TestPoint/TestPoint_Loop_D2.50mm_Drill1.0mm_LowProfile/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

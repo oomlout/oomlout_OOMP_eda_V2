@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKTRANSISTORFETTSM232CX](http://oom.lt/SZKTRANSISTORFETTSM232CX)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/TSM2302CX/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/TSM2302CX/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/TSM2302CX/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

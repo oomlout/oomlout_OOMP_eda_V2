@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKMCUSTSTM32LSTM32L41G6UX](http://oom.lt/SZKMCUSTSTM32LSTM32L41G6UX)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32L0/STM32L041G6Ux/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32L0/STM32L041G6Ux/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32L0/STM32L041G6Ux/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

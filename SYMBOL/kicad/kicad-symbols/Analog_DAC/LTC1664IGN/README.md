@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKANALOGDACLTC1664IGN](http://oom.lt/SZKANALOGDACLTC1664IGN)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_DAC/LTC1664IGN/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_DAC/LTC1664IGN/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_DAC/LTC1664IGN/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

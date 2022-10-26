@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKREGULATORLINEARTPS73619DBV](http://oom.lt/SZKREGULATORLINEARTPS73619DBV)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/TPS73619DBV/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/TPS73619DBV/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/TPS73619DBV/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

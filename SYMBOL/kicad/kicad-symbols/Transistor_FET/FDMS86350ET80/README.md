@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKTRANSISTORFETFDMS8635ET8](http://oom.lt/SZKTRANSISTORFETFDMS8635ET8)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/FDMS86350ET80/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/FDMS86350ET80/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/FDMS86350ET80/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKJJ2OPEN](http://oom.lt/SZKJJ2OPEN)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Jumper/Jumper_2_Open/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Jumper/Jumper_2_Open/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Jumper/Jumper_2_Open/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

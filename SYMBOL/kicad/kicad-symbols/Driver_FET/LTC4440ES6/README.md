@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKDRIVERFETLTC444ES6](http://oom.lt/SZKDRIVERFETLTC444ES6)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_FET/LTC4440ES6/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Driver_FET/LTC4440ES6/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Driver_FET/LTC4440ES6/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

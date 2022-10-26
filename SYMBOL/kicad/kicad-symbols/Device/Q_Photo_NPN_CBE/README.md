@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKDEVICEQPHOTONPNCBE](http://oom.lt/SZKDEVICEQPHOTONPNCBE)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/Q_Photo_NPN_CBE/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/Q_Photo_NPN_CBE/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/Q_Photo_NPN_CBE/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

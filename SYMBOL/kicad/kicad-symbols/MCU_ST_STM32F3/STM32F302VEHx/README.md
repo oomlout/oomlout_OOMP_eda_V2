@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKMCUSTSTM32F3STM32F32VEHX](http://oom.lt/SZKMCUSTSTM32F3STM32F32VEHX)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F3/STM32F302VEHx/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F3/STM32F302VEHx/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F3/STM32F302VEHx/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

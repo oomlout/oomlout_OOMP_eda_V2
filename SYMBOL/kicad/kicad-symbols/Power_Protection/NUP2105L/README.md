@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKPOWERPROTECTIONNUP215L](http://oom.lt/SZKPOWERPROTECTIONNUP215L)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Protection/NUP2105L/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Power_Protection/NUP2105L/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Power_Protection/NUP2105L/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

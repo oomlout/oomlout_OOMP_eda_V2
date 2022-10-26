@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKCNCONN1X38MALE](http://oom.lt/SZKCNCONN1X38MALE)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x38_Male/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x38_Male/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x38_Male/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

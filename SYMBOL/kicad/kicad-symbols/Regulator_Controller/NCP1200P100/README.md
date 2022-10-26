@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKREGULATORCONTROLLERNCP12P1](http://oom.lt/SZKREGULATORCONTROLLERNCP12P1)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Controller/NCP1200P100/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Controller/NCP1200P100/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Controller/NCP1200P100/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

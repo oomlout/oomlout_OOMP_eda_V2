@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKMCUSTSTM32F2STM32F25ZFTX](http://oom.lt/SZKMCUSTSTM32F2STM32F25ZFTX)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F2/STM32F205ZFTx/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F2/STM32F205ZFTx/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F2/STM32F205ZFTx/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

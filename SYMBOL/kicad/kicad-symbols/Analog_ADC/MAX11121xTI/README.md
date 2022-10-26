@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKANALOGADCMAX11121XTI](http://oom.lt/SZKANALOGADCMAX11121XTI)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_ADC/MAX11121xTI/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/MAX11121xTI/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/MAX11121xTI/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

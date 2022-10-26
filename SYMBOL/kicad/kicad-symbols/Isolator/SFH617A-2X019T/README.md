@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKISOLATORSFH617A2X19T](http://oom.lt/SZKISOLATORSFH617A2X19T)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Isolator/SFH617A-2X019T/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Isolator/SFH617A-2X019T/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Isolator/SFH617A-2X019T/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

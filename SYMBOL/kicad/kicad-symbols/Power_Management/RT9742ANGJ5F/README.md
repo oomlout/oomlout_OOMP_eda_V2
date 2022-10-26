@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTRT9742ANGJ5F](http://oom.lt/SZKPOWERMANAGEMENTRT9742ANGJ5F)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Management/RT9742ANGJ5F/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Power_Management/RT9742ANGJ5F/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Power_Management/RT9742ANGJ5F/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

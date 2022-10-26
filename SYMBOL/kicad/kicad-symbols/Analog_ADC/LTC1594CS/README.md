@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKANALOGADCLTC1594CS](http://oom.lt/SZKANALOGADCLTC1594CS)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_ADC/LTC1594CS/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/LTC1594CS/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/LTC1594CS/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

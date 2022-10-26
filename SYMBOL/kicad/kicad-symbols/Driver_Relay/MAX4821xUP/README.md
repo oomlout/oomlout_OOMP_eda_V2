@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKDRIVERRELAYMAX4821XUP](http://oom.lt/SZKDRIVERRELAYMAX4821XUP)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_Relay/MAX4821xUP/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Driver_Relay/MAX4821xUP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Driver_Relay/MAX4821xUP/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

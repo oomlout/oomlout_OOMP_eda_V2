@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKCNSIMCARD](http://oom.lt/SZKCNSIMCARD)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/SIM_Card/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/SIM_Card/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/SIM_Card/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

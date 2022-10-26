@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKDIODEPMEG45A1EPD](http://oom.lt/SZKDIODEPMEG45A1EPD)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/PMEG45A10EPD/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/PMEG45A10EPD/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/PMEG45A10EPD/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

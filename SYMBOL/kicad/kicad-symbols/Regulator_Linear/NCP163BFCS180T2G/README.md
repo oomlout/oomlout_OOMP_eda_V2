@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKREGULATORLINEARNCP163BFCS18T2G](http://oom.lt/SZKREGULATORLINEARNCP163BFCS18T2G)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/NCP163BFCS180T2G/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/NCP163BFCS180T2G/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/NCP163BFCS180T2G/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

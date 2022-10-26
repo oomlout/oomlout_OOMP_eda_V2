@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKMCUMCHIPATMEGAATXMEGA256A3BUA](http://oom.lt/SZKMCUMCHIPATMEGAATXMEGA256A3BUA)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATmega/ATxmega256A3BU-A/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATmega/ATxmega256A3BU-A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATmega/ATxmega256A3BU-A/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

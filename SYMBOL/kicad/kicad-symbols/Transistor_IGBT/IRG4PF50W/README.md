@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKTRANSISTORIGBTIRG4PF5W](http://oom.lt/SZKTRANSISTORIGBTIRG4PF5W)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_IGBT/IRG4PF50W/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_IGBT/IRG4PF50W/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_IGBT/IRG4PF50W/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

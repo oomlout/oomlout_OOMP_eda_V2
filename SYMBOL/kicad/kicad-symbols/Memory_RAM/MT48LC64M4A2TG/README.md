@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKMEMORYRAMMT48LC64M4A2TG](http://oom.lt/SZKMEMORYRAMMT48LC64M4A2TG)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Memory_RAM/MT48LC64M4A2TG/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_RAM/MT48LC64M4A2TG/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_RAM/MT48LC64M4A2TG/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

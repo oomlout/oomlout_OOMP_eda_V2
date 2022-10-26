@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKAMPLIFIERINSTRUMENTATIONINA333XXDRG](http://oom.lt/SZKAMPLIFIERINSTRUMENTATIONINA333XXDRG)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Instrumentation/INA333xxDRG/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Instrumentation/INA333xxDRG/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Instrumentation/INA333xxDRG/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKMCUINTELIA188XLPLC68IR2](http://oom.lt/SZKMCUINTELIA188XLPLC68IR2)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Intel/IA188XLPLC68IR2/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Intel/IA188XLPLC68IR2/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Intel/IA188XLPLC68IR2/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

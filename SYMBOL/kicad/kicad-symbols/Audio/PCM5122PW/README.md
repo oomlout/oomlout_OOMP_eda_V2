@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKAUDIOPCM5122PW](http://oom.lt/SZKAUDIOPCM5122PW)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Audio/PCM5122PW/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Audio/PCM5122PW/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Audio/PCM5122PW/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

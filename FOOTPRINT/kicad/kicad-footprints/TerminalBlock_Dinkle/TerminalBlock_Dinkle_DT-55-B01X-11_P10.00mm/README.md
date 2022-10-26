@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/FZKTBDINKLETBDINKLEDT55B1X11P1](http://oom.lt/FZKTBDINKLETBDINKLEDT55B1X11P1)
   
 
-|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_Dinkle/TerminalBlock_Dinkle_DT-55-B01X-11_P10.00mm/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_Dinkle/TerminalBlock_Dinkle_DT-55-B01X-11_P10.00mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_Dinkle/TerminalBlock_Dinkle_DT-55-B01X-11_P10.00mm/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

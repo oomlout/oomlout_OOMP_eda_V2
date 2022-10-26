@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKFPGAMSEMIA3P25PQG28](http://oom.lt/SZKFPGAMSEMIA3P25PQG28)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/FPGA_Microsemi/A3P250-PQG208/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/FPGA_Microsemi/A3P250-PQG208/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/FPGA_Microsemi/A3P250-PQG208/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

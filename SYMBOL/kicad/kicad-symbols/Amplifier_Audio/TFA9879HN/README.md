@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKAMPLIFIERAUDIOTFA9879HN](http://oom.lt/SZKAMPLIFIERAUDIOTFA9879HN)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Audio/TFA9879HN/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Audio/TFA9879HN/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Audio/TFA9879HN/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

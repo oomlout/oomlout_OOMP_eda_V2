@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGST1S14PHR](http://oom.lt/SZKREGULATORSWITCHINGST1S14PHR)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/ST1S14PHR/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/ST1S14PHR/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/ST1S14PHR/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/FZKTBMETZCONNECTTBMETZCONNECTTYPE71RT11L3HGLU1X3P635HORIZONTAL](http://oom.lt/FZKTBMETZCONNECTTBMETZCONNECTTYPE71RT11L3HGLU1X3P635HORIZONTAL)
   
 
-|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_MetzConnect/TerminalBlock_MetzConnect_Type701_RT11L03HGLU_1x03_P6.35mm_Horizontal/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_MetzConnect/TerminalBlock_MetzConnect_Type701_RT11L03HGLU_1x03_P6.35mm_Horizontal/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_MetzConnect/TerminalBlock_MetzConnect_Type701_RT11L03HGLU_1x03_P6.35mm_Horizontal/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

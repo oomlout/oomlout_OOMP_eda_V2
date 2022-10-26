@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKREGULATORCONTROLLERUCC1895J](http://oom.lt/SZKREGULATORCONTROLLERUCC1895J)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Controller/UCC1895J/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Controller/UCC1895J/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Controller/UCC1895J/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

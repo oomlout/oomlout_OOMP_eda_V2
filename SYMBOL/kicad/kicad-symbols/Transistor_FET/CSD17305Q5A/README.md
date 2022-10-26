@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKTRANSISTORFETCSD1735Q5A](http://oom.lt/SZKTRANSISTORFETCSD1735Q5A)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_FET/CSD17305Q5A/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/CSD17305Q5A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/CSD17305Q5A/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

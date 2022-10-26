@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/FZKRFSWUERTH3653353X3](http://oom.lt/FZKRFSWUERTH3653353X3)
   
 
-|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/RF_Shielding/Wuerth_36503305_30x30mm/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/RF_Shielding/Wuerth_36503305_30x30mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/RF_Shielding/Wuerth_36503305_30x30mm/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

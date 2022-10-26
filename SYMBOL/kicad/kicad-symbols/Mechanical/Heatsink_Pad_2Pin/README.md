@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKMECHANICALHPAD2PIN](http://oom.lt/SZKMECHANICALHPAD2PIN)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Mechanical/Heatsink_Pad_2Pin/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Mechanical/Heatsink_Pad_2Pin/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Mechanical/Heatsink_Pad_2Pin/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

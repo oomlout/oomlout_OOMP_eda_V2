@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/FZKSENMOTIONINVENSENSEQFN243X3P4NOMASK](http://oom.lt/FZKSENMOTIONINVENSENSEQFN243X3P4NOMASK)
   
 
-|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Sensor_Motion/InvenSense_QFN-24_3x3mm_P0.4mm_NoMask/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Motion/InvenSense_QFN-24_3x3mm_P0.4mm_NoMask/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Motion/InvenSense_QFN-24_3x3mm_P0.4mm_NoMask/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

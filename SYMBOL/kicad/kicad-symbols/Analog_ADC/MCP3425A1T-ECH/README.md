@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKANALOGADCMCP3425A1TECH](http://oom.lt/SZKANALOGADCMCP3425A1TECH)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_ADC/MCP3425A1T-ECH/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/MCP3425A1T-ECH/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/MCP3425A1T-ECH/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKPOWERPROTECTIONZEN132V75A48LS](http://oom.lt/SZKPOWERPROTECTIONZEN132V75A48LS)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Protection/ZEN132V075A48LS/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Power_Protection/ZEN132V075A48LS/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Power_Protection/ZEN132V075A48LS/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

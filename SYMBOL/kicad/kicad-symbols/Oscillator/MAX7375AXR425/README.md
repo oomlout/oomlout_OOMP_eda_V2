@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKOCSMAX7375AXR425](http://oom.lt/SZKOCSMAX7375AXR425)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Oscillator/MAX7375AXR425/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Oscillator/MAX7375AXR425/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Oscillator/MAX7375AXR425/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

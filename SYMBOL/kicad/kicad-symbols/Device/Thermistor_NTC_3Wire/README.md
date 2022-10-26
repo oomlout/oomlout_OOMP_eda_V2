@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKDEVICETHERMISTORNTC3WIRE](http://oom.lt/SZKDEVICETHERMISTORNTC3WIRE)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/Thermistor_NTC_3Wire/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/Thermistor_NTC_3Wire/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/Thermistor_NTC_3Wire/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

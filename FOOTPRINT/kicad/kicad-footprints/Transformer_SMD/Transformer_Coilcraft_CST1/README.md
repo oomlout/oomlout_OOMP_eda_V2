@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/FZKTRSMTRCOILCRAFTCST1](http://oom.lt/FZKTRSMTRCOILCRAFTCST1)
   
 
-|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Transformer_SMD/Transformer_Coilcraft_CST1/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Transformer_SMD/Transformer_Coilcraft_CST1/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Transformer_SMD/Transformer_Coilcraft_CST1/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

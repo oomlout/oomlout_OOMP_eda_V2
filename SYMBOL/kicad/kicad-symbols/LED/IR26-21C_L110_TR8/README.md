@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKLIR2621CL11TR8](http://oom.lt/SZKLIR2621CL11TR8)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/LED/IR26-21C_L110_TR8/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/LED/IR26-21C_L110_TR8/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/LED/IR26-21C_L110_TR8/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

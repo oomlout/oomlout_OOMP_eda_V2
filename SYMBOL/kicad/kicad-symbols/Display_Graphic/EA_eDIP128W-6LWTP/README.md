@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKDIGRAPHICEAEDIP128W6LWTP](http://oom.lt/SZKDIGRAPHICEAEDIP128W6LWTP)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Display_Graphic/EA_eDIP128W-6LWTP/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Display_Graphic/EA_eDIP128W-6LWTP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Display_Graphic/EA_eDIP128W-6LWTP/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

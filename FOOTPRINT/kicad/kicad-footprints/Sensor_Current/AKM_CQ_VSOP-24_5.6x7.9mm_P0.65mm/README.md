@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/FZKSENCURRENTAKMCQVS2456X79P65](http://oom.lt/FZKSENCURRENTAKMCQVS2456X79P65)
   
 
-|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Sensor_Current/AKM_CQ_VSOP-24_5.6x7.9mm_P0.65mm/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Current/AKM_CQ_VSOP-24_5.6x7.9mm_P0.65mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Current/AKM_CQ_VSOP-24_5.6x7.9mm_P0.65mm/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

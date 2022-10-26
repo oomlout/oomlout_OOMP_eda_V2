@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKMOTORFANTACHOPWM](http://oom.lt/SZKMOTORFANTACHOPWM)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Motor/Fan_Tacho_PWM/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Motor/Fan_Tacho_PWM/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Motor/Fan_Tacho_PWM/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

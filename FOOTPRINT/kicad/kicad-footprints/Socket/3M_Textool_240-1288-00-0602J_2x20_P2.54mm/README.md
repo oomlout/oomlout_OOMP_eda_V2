@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/FZKSO3MTEXTOOL24128862J2X2P254](http://oom.lt/FZKSO3MTEXTOOL24128862J2X2P254)
   
 
-|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Socket/3M_Textool_240-1288-00-0602J_2x20_P2.54mm/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Socket/3M_Textool_240-1288-00-0602J_2x20_P2.54mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Socket/3M_Textool_240-1288-00-0602J_2x20_P2.54mm/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

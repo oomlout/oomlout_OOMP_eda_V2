@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKINTERFACEUARTLT1791AXS](http://oom.lt/SZKINTERFACEUARTLT1791AXS)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_UART/LT1791AxS/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_UART/LT1791AxS/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_UART/LT1791AxS/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

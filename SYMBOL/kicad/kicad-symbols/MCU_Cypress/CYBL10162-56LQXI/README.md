@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKMCUCYPRESSCYBL116256LQXI](http://oom.lt/SZKMCUCYPRESSCYBL116256LQXI)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Cypress/CYBL10162-56LQXI/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Cypress/CYBL10162-56LQXI/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Cypress/CYBL10162-56LQXI/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

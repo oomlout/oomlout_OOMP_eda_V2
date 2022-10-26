@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKPOWER+33VDAC](http://oom.lt/SZKPOWER+33VDAC)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/power/+3.3VDAC/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/power/+3.3VDAC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/power/+3.3VDAC/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

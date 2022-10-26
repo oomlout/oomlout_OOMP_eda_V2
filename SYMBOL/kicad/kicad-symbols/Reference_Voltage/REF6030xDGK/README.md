@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKREFERENCEVOLTAGEREF63XDGK](http://oom.lt/SZKREFERENCEVOLTAGEREF63XDGK)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Reference_Voltage/REF6030xDGK/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Reference_Voltage/REF6030xDGK/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Reference_Voltage/REF6030xDGK/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

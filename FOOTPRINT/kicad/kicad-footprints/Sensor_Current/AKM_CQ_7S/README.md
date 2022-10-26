@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/FZKSENCURRENTAKMCQ7S](http://oom.lt/FZKSENCURRENTAKMCQ7S)
   
 
-|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Sensor_Current/AKM_CQ_7S/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Current/AKM_CQ_7S/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Current/AKM_CQ_7S/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/FZKSODIPSO2W43W58W762W116W193M22334262J](http://oom.lt/FZKSODIPSO2W43W58W762W116W193M22334262J)
   
 
-|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Socket/DIP_Socket-20_W4.3_W5.08_W7.62_W10.16_W10.9_3M_220-3342-00-0602J/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Socket/DIP_Socket-20_W4.3_W5.08_W7.62_W10.16_W10.9_3M_220-3342-00-0602J/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Socket/DIP_Socket-20_W4.3_W5.08_W7.62_W10.16_W10.9_3M_220-3342-00-0602J/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

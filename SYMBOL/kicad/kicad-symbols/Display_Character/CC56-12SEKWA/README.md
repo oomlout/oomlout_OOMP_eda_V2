@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKDICHARACTERCC5612SEKWA](http://oom.lt/SZKDICHARACTERCC5612SEKWA)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Display_Character/CC56-12SEKWA/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Display_Character/CC56-12SEKWA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Display_Character/CC56-12SEKWA/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

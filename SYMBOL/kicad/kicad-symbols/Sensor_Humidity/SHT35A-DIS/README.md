@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKSENHUMIDITYSHT35ADIS](http://oom.lt/SZKSENHUMIDITYSHT35ADIS)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Humidity/SHT35A-DIS/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Humidity/SHT35A-DIS/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Humidity/SHT35A-DIS/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

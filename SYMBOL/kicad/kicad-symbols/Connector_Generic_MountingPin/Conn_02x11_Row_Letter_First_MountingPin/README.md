@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKCNGENERICMOUNTINGPINCONN2X11ROWLETTERFIRSTMOUNTINGPIN](http://oom.lt/SZKCNGENERICMOUNTINGPINCONN2X11ROWLETTERFIRSTMOUNTINGPIN)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector_Generic_MountingPin/Conn_02x11_Row_Letter_First_MountingPin/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector_Generic_MountingPin/Conn_02x11_Row_Letter_First_MountingPin/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic_MountingPin/Conn_02x11_Row_Letter_First_MountingPin/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

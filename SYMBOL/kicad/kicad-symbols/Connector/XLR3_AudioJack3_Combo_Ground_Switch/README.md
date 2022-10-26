@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKCNXLR3AUDIOJ3COMBOGROUNDSWITCH](http://oom.lt/SZKCNXLR3AUDIOJ3COMBOGROUNDSWITCH)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/XLR3_AudioJack3_Combo_Ground_Switch/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/XLR3_AudioJack3_Combo_Ground_Switch/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/XLR3_AudioJack3_Combo_Ground_Switch/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

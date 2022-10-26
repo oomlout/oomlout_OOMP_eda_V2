@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKREGULATORLINEARMCP173A52SOT89](http://oom.lt/SZKREGULATORLINEARMCP173A52SOT89)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/MCP1703A-5002_SOT89/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/MCP1703A-5002_SOT89/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/MCP1703A-5002_SOT89/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/FZKRFMOIQRFTRX2DKONSIM1](http://oom.lt/FZKRFMOIQRFTRX2DKONSIM1)
   
 
-|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/RF_Module/IQRF_TRx2D_KON-SIM-01/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/RF_Module/IQRF_TRx2D_KON-SIM-01/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/RF_Module/IQRF_TRx2D_KON-SIM-01/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

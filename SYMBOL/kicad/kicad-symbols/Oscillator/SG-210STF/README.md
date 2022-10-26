@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKOCSSG21STF](http://oom.lt/SZKOCSSG21STF)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Oscillator/SG-210STF/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Oscillator/SG-210STF/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Oscillator/SG-210STF/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

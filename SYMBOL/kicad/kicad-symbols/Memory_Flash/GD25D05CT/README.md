@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKMEMORYFLASHGD25D5CT](http://oom.lt/SZKMEMORYFLASHGD25D5CT)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Memory_Flash/GD25D05CT/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_Flash/GD25D05CT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_Flash/GD25D05CT/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

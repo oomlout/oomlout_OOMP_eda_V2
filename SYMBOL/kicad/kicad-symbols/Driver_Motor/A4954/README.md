@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKDRIVERMOTORA4954](http://oom.lt/SZKDRIVERMOTORA4954)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_Motor/A4954/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Driver_Motor/A4954/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Driver_Motor/A4954/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

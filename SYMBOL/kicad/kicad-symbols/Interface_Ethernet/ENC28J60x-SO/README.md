@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKINTERFACEETHERNETENC28J6XSO](http://oom.lt/SZKINTERFACEETHERNETENC28J6XSO)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_Ethernet/ENC28J60x-SO/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_Ethernet/ENC28J60x-SO/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_Ethernet/ENC28J60x-SO/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

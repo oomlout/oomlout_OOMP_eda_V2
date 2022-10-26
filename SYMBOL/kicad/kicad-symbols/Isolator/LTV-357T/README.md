@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKISOLATORLTV357T](http://oom.lt/SZKISOLATORLTV357T)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Isolator/LTV-357T/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Isolator/LTV-357T/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Isolator/LTV-357T/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

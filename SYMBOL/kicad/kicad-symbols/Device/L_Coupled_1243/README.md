@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKDEVICELCOUPL1243](http://oom.lt/SZKDEVICELCOUPL1243)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/L_Coupled_1243/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/L_Coupled_1243/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/L_Coupled_1243/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

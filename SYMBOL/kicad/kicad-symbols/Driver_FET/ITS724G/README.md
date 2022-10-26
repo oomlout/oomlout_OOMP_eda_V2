@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKDRIVERFETITS724G](http://oom.lt/SZKDRIVERFETITS724G)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_FET/ITS724G/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Driver_FET/ITS724G/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Driver_FET/ITS724G/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

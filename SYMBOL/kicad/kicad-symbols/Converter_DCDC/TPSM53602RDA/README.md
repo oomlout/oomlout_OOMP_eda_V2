@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKCONTPSM5362RDA](http://oom.lt/SZKCONTPSM5362RDA)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_DCDC/TPSM53602RDA/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Converter_DCDC/TPSM53602RDA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Converter_DCDC/TPSM53602RDA/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKMEMORYNVRAMFM16W8SG](http://oom.lt/SZKMEMORYNVRAMFM16W8SG)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Memory_NVRAM/FM16W08-SG/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_NVRAM/FM16W08-SG/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_NVRAM/FM16W08-SG/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

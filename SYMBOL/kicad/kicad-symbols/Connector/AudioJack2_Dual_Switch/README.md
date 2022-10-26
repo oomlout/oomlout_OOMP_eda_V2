@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKCNAUDIOJ2DUALSWITCH](http://oom.lt/SZKCNAUDIOJ2DUALSWITCH)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/AudioJack2_Dual_Switch/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/AudioJack2_Dual_Switch/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/AudioJack2_Dual_Switch/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

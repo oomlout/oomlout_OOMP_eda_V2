@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/FZKTBMETZCONNECTTBMETZCONNECT36411X1HORIZONTALSCREWM3](http://oom.lt/FZKTBMETZCONNECTTBMETZCONNECT36411X1HORIZONTALSCREWM3)
   
 
-|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_MetzConnect/TerminalBlock_MetzConnect_360410_1x01_Horizontal_ScrewM3.0/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_MetzConnect/TerminalBlock_MetzConnect_360410_1x01_Horizontal_ScrewM3.0/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_MetzConnect/TerminalBlock_MetzConnect_360410_1x01_Horizontal_ScrewM3.0/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

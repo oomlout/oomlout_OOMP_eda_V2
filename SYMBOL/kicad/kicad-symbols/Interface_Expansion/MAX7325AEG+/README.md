@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKINTERFACEEXPANSIONMAX7325AEG+](http://oom.lt/SZKINTERFACEEXPANSIONMAX7325AEG+)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_Expansion/MAX7325AEG+/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_Expansion/MAX7325AEG+/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_Expansion/MAX7325AEG+/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

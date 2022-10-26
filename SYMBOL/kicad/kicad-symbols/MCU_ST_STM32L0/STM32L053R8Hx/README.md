@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKMCUSTSTM32LSTM32L53R8HX](http://oom.lt/SZKMCUSTSTM32LSTM32L53R8HX)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32L0/STM32L053R8Hx/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32L0/STM32L053R8Hx/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32L0/STM32L053R8Hx/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

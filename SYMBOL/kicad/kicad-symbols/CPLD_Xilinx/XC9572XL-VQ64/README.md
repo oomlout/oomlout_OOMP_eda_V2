@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKCPLDXILINXXC9572XLVQ64](http://oom.lt/SZKCPLDXILINXXC9572XLVQ64)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/CPLD_Xilinx/XC9572XL-VQ64/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/CPLD_Xilinx/XC9572XL-VQ64/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/CPLD_Xilinx/XC9572XL-VQ64/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

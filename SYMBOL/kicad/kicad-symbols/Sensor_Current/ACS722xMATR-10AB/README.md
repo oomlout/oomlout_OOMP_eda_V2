@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKSENCURRENTACS722XMATR1AB](http://oom.lt/SZKSENCURRENTACS722XMATR1AB)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Current/ACS722xMATR-10AB/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/ACS722xMATR-10AB/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/ACS722xMATR-10AB/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

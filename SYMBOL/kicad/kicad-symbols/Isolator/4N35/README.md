@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKISOLATOR4N35](http://oom.lt/SZKISOLATOR4N35)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Isolator/4N35/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Isolator/4N35/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Isolator/4N35/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

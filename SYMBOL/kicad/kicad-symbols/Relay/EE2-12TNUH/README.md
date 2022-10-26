@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKRELAYEE212TNUH](http://oom.lt/SZKRELAYEE212TNUH)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Relay/EE2-12TNUH/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Relay/EE2-12TNUH/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Relay/EE2-12TNUH/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

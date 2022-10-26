@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKPOWERSUPERVISORTPS3839DQN](http://oom.lt/SZKPOWERSUPERVISORTPS3839DQN)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Supervisor/TPS3839DQN/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Power_Supervisor/TPS3839DQN/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Power_Supervisor/TPS3839DQN/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

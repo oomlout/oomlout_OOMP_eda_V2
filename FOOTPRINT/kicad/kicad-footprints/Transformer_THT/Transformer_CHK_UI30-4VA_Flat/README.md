@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/FZKTRTRCHKUI34VAFLAT](http://oom.lt/FZKTRTRCHKUI34VAFLAT)
   
 
-|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Transformer_THT/Transformer_CHK_UI30-4VA_Flat/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Transformer_THT/Transformer_CHK_UI30-4VA_Flat/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Transformer_THT/Transformer_CHK_UI30-4VA_Flat/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

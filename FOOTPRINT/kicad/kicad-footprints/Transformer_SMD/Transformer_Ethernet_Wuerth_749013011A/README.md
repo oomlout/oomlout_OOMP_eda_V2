@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/FZKTRSMTRETHERNETWUERTH7491311A](http://oom.lt/FZKTRSMTRETHERNETWUERTH7491311A)
   
 
-|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Transformer_SMD/Transformer_Ethernet_Wuerth_749013011A/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Transformer_SMD/Transformer_Ethernet_Wuerth_749013011A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Transformer_SMD/Transformer_Ethernet_Wuerth_749013011A/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

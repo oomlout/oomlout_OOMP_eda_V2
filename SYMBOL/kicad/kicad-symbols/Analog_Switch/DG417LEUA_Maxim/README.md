@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKANALOGSWITCHDG417LEUAMAXIM](http://oom.lt/SZKANALOGSWITCHDG417LEUAMAXIM)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_Switch/DG417LEUA_Maxim/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_Switch/DG417LEUA_Maxim/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_Switch/DG417LEUA_Maxim/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

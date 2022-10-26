@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKINTERFACEEXPANSIONPCA9548ADB](http://oom.lt/SZKINTERFACEEXPANSIONPCA9548ADB)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_Expansion/PCA9548ADB/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_Expansion/PCA9548ADB/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_Expansion/PCA9548ADB/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

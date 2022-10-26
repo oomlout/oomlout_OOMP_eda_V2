@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTAUIPS241L](http://oom.lt/SZKPOWERMANAGEMENTAUIPS241L)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Management/AUIPS2041L/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Power_Management/AUIPS2041L/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Power_Management/AUIPS2041L/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

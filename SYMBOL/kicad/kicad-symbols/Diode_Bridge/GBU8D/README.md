@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKDIODEBRIDGEGBU8D](http://oom.lt/SZKDIODEBRIDGEGBU8D)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode_Bridge/GBU8D/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode_Bridge/GBU8D/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode_Bridge/GBU8D/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

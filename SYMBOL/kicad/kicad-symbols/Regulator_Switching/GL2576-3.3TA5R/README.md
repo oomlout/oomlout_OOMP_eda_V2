@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGGL257633TA5R](http://oom.lt/SZKREGULATORSWITCHINGGL257633TA5R)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/GL2576-3.3TA5R/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/GL2576-3.3TA5R/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/GL2576-3.3TA5R/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/FZKSZSYGNUGPLCTOPSLL](http://oom.lt/FZKSZSYGNUGPLCTOPSLL)
   
 
-|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Symbol/Symbol_GNU-GPL_CopperTop_Small/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Symbol/Symbol_GNU-GPL_CopperTop_Small/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Symbol/Symbol_GNU-GPL_CopperTop_Small/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

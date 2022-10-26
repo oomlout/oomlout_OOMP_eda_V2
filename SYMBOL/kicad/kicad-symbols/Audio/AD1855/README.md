@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKAUDIOAD1855](http://oom.lt/SZKAUDIOAD1855)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Audio/AD1855/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Audio/AD1855/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Audio/AD1855/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

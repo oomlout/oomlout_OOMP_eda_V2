@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKINTERFACECDCLVP112RGT](http://oom.lt/SZKINTERFACECDCLVP112RGT)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface/CDCLVP1102RGT/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface/CDCLVP1102RGT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface/CDCLVP1102RGT/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

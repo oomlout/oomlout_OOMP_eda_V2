@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKBATMANAGEMENTBQ27441DRZTG1A](http://oom.lt/SZKBATMANAGEMENTBQ27441DRZTG1A)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Battery_Management/BQ27441DRZT-G1A/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Battery_Management/BQ27441DRZT-G1A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Battery_Management/BQ27441DRZT-G1A/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

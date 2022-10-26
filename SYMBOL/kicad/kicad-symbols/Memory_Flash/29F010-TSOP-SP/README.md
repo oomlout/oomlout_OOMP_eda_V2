@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKMEMORYFLASH29F1TSSP](http://oom.lt/SZKMEMORYFLASH29F1TSSP)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Memory_Flash/29F010-TSOP-SP/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_Flash/29F010-TSOP-SP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_Flash/29F010-TSOP-SP/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

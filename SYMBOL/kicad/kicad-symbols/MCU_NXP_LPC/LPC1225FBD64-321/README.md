@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKMCUNXPLPCLPC1225FBD64321](http://oom.lt/SZKMCUNXPLPCLPC1225FBD64321)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_NXP_LPC/LPC1225FBD64-321/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_LPC/LPC1225FBD64-321/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_LPC/LPC1225FBD64-321/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

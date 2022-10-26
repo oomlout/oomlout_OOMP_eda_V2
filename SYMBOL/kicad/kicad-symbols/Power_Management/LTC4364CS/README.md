@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTLTC4364CS](http://oom.lt/SZKPOWERMANAGEMENTLTC4364CS)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Management/LTC4364CS/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Power_Management/LTC4364CS/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Power_Management/LTC4364CS/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

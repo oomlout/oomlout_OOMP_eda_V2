@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKFPGAXILINXXC2S64AXQFG48](http://oom.lt/SZKFPGAXILINXXC2S64AXQFG48)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx/XC2S64A-xQFG48/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx/XC2S64A-xQFG48/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx/XC2S64A-xQFG48/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

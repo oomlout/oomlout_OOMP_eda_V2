@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKINTERFACEUMCP22TIMQ](http://oom.lt/SZKINTERFACEUMCP22TIMQ)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_USB/MCP2200T-I-MQ/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_USB/MCP2200T-I-MQ/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_USB/MCP2200T-I-MQ/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

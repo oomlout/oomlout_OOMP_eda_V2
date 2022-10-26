@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKMCUMCHIP851AT89C45112P](http://oom.lt/SZKMCUMCHIP851AT89C45112P)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_8051/AT89C4051-12P/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_8051/AT89C4051-12P/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_8051/AT89C4051-12P/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

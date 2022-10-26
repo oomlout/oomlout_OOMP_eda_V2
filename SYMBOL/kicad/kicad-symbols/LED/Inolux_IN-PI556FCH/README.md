@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKLINOLUXINPI556FCH](http://oom.lt/SZKLINOLUXINPI556FCH)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/LED/Inolux_IN-PI556FCH/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/LED/Inolux_IN-PI556FCH/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/LED/Inolux_IN-PI556FCH/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

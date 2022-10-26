@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/FZKRFMOZETA433SOTHT](http://oom.lt/FZKRFMOZETA433SOTHT)
   
 
-|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/RF_Module/ZETA-433-SO_THT/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/RF_Module/ZETA-433-SO_THT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/RF_Module/ZETA-433-SO_THT/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

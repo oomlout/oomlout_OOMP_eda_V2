@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKRELAYFRT5SEPARATED](http://oom.lt/SZKRELAYFRT5SEPARATED)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Relay/FRT5_separated/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Relay/FRT5_separated/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Relay/FRT5_separated/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

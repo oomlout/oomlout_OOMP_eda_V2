@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKDRIVERMOTORDRV887DDA](http://oom.lt/SZKDRIVERMOTORDRV887DDA)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_Motor/DRV8870DDA/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Driver_Motor/DRV8870DDA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Driver_Motor/DRV8870DDA/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

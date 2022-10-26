@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/FZKTPTPLOOPD18DRILL1BEADED](http://oom.lt/FZKTPTPLOOPD18DRILL1BEADED)
   
 
-|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/TestPoint/TestPoint_Loop_D1.80mm_Drill1.0mm_Beaded/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/TestPoint/TestPoint_Loop_D1.80mm_Drill1.0mm_Beaded/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/TestPoint/TestPoint_Loop_D1.80mm_Drill1.0mm_Beaded/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

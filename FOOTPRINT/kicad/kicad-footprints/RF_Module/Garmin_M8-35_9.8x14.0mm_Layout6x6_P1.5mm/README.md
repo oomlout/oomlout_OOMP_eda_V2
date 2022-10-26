@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/FZKRFMOGARMINM83598X14LAYOUT6X6P15](http://oom.lt/FZKRFMOGARMINM83598X14LAYOUT6X6P15)
   
 
-|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/RF_Module/Garmin_M8-35_9.8x14.0mm_Layout6x6_P1.5mm/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/RF_Module/Garmin_M8-35_9.8x14.0mm_Layout6x6_P1.5mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/RF_Module/Garmin_M8-35_9.8x14.0mm_Layout6x6_P1.5mm/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

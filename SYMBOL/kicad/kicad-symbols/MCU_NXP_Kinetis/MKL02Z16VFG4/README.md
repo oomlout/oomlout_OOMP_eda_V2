@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKMCUNXPKINETISMKL2Z16VFG4](http://oom.lt/SZKMCUNXPKINETISMKL2Z16VFG4)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_NXP_Kinetis/MKL02Z16VFG4/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_Kinetis/MKL02Z16VFG4/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_Kinetis/MKL02Z16VFG4/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

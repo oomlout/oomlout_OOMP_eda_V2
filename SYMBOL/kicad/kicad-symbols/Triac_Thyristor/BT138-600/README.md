@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKTRIACTHYRISTORBT1386](http://oom.lt/SZKTRIACTHYRISTORBT1386)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Triac_Thyristor/BT138-600/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Triac_Thyristor/BT138-600/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Triac_Thyristor/BT138-600/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

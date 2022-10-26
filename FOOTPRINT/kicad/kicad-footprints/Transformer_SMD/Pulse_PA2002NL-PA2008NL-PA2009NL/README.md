@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/FZKTRSMPULSEPA22NLPA28NLPA29NL](http://oom.lt/FZKTRSMPULSEPA22NLPA28NLPA29NL)
   
 
-|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Transformer_SMD/Pulse_PA2002NL-PA2008NL-PA2009NL/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Transformer_SMD/Pulse_PA2002NL-PA2008NL-PA2009NL/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Transformer_SMD/Pulse_PA2002NL-PA2008NL-PA2009NL/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/FZKSZCEL168X12SILKSCREEN](http://oom.lt/FZKSZCEL168X12SILKSCREEN)
   
 
-|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Symbol/CE-Logo_16.8x12mm_SilkScreen/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Symbol/CE-Logo_16.8x12mm_SilkScreen/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Symbol/CE-Logo_16.8x12mm_SilkScreen/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

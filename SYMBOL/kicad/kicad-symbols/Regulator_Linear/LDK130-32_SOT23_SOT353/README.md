@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKREGULATORLINEARLDK1332SOT23SOT353](http://oom.lt/SZKREGULATORLINEARLDK1332SOT23SOT353)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LDK130-32_SOT23_SOT353/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LDK130-32_SOT23_SOT353/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LDK130-32_SOT23_SOT353/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

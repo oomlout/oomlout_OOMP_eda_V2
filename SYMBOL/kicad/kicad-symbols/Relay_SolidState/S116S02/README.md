@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKRELAYSOLIDSTATES116S2](http://oom.lt/SZKRELAYSOLIDSTATES116S2)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Relay_SolidState/S116S02/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Relay_SolidState/S116S02/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Relay_SolidState/S116S02/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

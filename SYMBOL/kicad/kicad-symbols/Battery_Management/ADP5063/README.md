@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKBATMANAGEMENTADP563](http://oom.lt/SZKBATMANAGEMENTADP563)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Battery_Management/ADP5063/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Battery_Management/ADP5063/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Battery_Management/ADP5063/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

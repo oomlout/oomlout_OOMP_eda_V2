@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKCONRAC4XXSGA](http://oom.lt/SZKCONRAC4XXSGA)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_ACDC/RAC04-xxSGA/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Converter_ACDC/RAC04-xxSGA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Converter_ACDC/RAC04-xxSGA/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

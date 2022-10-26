@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/FZKRFMOESP32WROOM32U](http://oom.lt/FZKRFMOESP32WROOM32U)
   
 
-|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/RF_Module/ESP32-WROOM-32U/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/RF_Module/ESP32-WROOM-32U/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/RF_Module/ESP32-WROOM-32U/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

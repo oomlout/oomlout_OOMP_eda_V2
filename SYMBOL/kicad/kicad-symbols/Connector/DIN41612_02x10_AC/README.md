@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKCNDIN416122X1AC](http://oom.lt/SZKCNDIN416122X1AC)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/DIN41612_02x10_AC/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/DIN41612_02x10_AC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/DIN41612_02x10_AC/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKDRIVERDICR213MI212](http://oom.lt/SZKDRIVERDICR213MI212)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_Display/CR2013-MI2120/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Driver_Display/CR2013-MI2120/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Driver_Display/CR2013-MI2120/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

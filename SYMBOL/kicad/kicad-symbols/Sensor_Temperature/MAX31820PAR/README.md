@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKSENTEMPERATUREMAX3182PAR](http://oom.lt/SZKSENTEMPERATUREMAX3182PAR)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/MAX31820PAR/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/MAX31820PAR/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/MAX31820PAR/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

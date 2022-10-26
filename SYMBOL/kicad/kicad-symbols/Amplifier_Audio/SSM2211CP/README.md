@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKAMPLIFIERAUDIOSSM2211CP](http://oom.lt/SZKAMPLIFIERAUDIOSSM2211CP)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Audio/SSM2211CP/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Audio/SSM2211CP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Audio/SSM2211CP/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

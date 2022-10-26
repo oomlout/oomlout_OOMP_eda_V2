@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/FZKTPTPKEYSTONE5559COMPACT](http://oom.lt/FZKTPTPKEYSTONE5559COMPACT)
   
 
-|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/TestPoint/TestPoint_Keystone_5005-5009_Compact/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/TestPoint/TestPoint_Keystone_5005-5009_Compact/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/TestPoint/TestPoint_Keystone_5005-5009_Compact/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

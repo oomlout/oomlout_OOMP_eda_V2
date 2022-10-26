@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKBATMANAGEMENTMCP738713CA](http://oom.lt/SZKBATMANAGEMENTMCP738713CA)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Battery_Management/MCP73871-3CA/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Battery_Management/MCP73871-3CA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Battery_Management/MCP73871-3CA/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

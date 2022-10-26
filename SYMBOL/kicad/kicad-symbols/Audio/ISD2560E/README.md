@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKAUDIOISD256E](http://oom.lt/SZKAUDIOISD256E)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Audio/ISD2560E/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Audio/ISD2560E/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Audio/ISD2560E/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

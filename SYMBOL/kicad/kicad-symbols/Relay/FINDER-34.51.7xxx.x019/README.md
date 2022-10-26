@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKRELAYFINDER34517XXXX19](http://oom.lt/SZKRELAYFINDER34517XXXX19)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Relay/FINDER-34.51.7xxx.x019/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Relay/FINDER-34.51.7xxx.x019/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Relay/FINDER-34.51.7xxx.x019/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

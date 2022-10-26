@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKMEMORYRAMAS6C4855PCN](http://oom.lt/SZKMEMORYRAMAS6C4855PCN)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Memory_RAM/AS6C4008-55PCN/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_RAM/AS6C4008-55PCN/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_RAM/AS6C4008-55PCN/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

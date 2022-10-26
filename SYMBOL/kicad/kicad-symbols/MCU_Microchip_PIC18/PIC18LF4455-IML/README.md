@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC18PIC18LF4455IML](http://oom.lt/SZKMCUMCHIPPIC18PIC18LF4455IML)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC18/PIC18LF4455-IML/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC18/PIC18LF4455-IML/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC18/PIC18LF4455-IML/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

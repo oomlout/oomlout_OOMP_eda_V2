@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKSENCURRENTACS712XLCTR2A](http://oom.lt/SZKSENCURRENTACS712XLCTR2A)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Current/ACS712xLCTR-20A/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/ACS712xLCTR-20A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/ACS712xLCTR-20A/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

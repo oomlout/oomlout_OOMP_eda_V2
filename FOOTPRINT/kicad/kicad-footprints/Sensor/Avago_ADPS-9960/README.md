@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/FZKSENAVAGOADPS996](http://oom.lt/FZKSENAVAGOADPS996)
   
 
-|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Sensor/Avago_ADPS-9960/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Sensor/Avago_ADPS-9960/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Sensor/Avago_ADPS-9960/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

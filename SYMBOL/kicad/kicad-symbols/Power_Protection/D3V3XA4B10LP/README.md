@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKPOWERPROTECTIOND3V3XA4B1LP](http://oom.lt/SZKPOWERPROTECTIOND3V3XA4B1LP)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Protection/D3V3XA4B10LP/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Power_Protection/D3V3XA4B10LP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Power_Protection/D3V3XA4B10LP/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

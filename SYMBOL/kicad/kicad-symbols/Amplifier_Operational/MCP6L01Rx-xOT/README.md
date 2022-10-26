@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALMCP6L1RXXOT](http://oom.lt/SZKAMPLIFIEROPERATIONALMCP6L1RXXOT)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/MCP6L01Rx-xOT/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/MCP6L01Rx-xOT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/MCP6L01Rx-xOT/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

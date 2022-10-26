@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKMCUMCHIPATMEGAATMEGA32U4RCM](http://oom.lt/SZKMCUMCHIPATMEGAATMEGA32U4RCM)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATmega/ATmega32U4RC-M/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATmega/ATmega32U4RC-M/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATmega/ATmega32U4RC-M/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

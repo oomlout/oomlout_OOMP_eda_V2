@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKREFERENCEVOLTAGEREF12CP](http://oom.lt/SZKREFERENCEVOLTAGEREF12CP)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Reference_Voltage/REF102CP/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Reference_Voltage/REF102CP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Reference_Voltage/REF102CP/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

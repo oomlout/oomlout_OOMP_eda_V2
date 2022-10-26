@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKANALOGDACDAC7513DCN](http://oom.lt/SZKANALOGDACDAC7513DCN)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_DAC/DAC7513_DCN/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_DAC/DAC7513_DCN/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_DAC/DAC7513_DCN/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

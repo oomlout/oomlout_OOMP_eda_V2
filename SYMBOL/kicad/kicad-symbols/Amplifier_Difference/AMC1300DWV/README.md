@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKAMPLIFIERDIFFERENCEAMC13DWV](http://oom.lt/SZKAMPLIFIERDIFFERENCEAMC13DWV)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Difference/AMC1300DWV/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Difference/AMC1300DWV/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Difference/AMC1300DWV/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

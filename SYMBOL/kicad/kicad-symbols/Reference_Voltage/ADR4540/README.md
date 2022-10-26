@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKREFERENCEVOLTAGEADR454](http://oom.lt/SZKREFERENCEVOLTAGEADR454)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Reference_Voltage/ADR4540/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Reference_Voltage/ADR4540/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Reference_Voltage/ADR4540/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

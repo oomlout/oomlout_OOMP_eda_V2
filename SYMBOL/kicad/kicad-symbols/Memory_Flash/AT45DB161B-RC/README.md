@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKMEMORYFLASHAT45DB161BRC](http://oom.lt/SZKMEMORYFLASHAT45DB161BRC)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Memory_Flash/AT45DB161B-RC/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_Flash/AT45DB161B-RC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_Flash/AT45DB161B-RC/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

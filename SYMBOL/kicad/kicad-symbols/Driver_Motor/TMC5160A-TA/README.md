@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKDRIVERMOTORTMC516ATA](http://oom.lt/SZKDRIVERMOTORTMC516ATA)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_Motor/TMC5160A-TA/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Driver_Motor/TMC5160A-TA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Driver_Motor/TMC5160A-TA/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

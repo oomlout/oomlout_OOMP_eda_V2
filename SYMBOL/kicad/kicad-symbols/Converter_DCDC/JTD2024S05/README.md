@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKCONJTD224S5](http://oom.lt/SZKCONJTD224S5)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_DCDC/JTD2024S05/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Converter_DCDC/JTD2024S05/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Converter_DCDC/JTD2024S05/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

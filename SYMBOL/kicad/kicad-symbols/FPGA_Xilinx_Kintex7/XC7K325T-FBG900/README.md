@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKFPGAXILINXKINTEX7XC7K325TFBG9](http://oom.lt/SZKFPGAXILINXKINTEX7XC7K325TFBG9)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx_Kintex7/XC7K325T-FBG900/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx_Kintex7/XC7K325T-FBG900/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx_Kintex7/XC7K325T-FBG900/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

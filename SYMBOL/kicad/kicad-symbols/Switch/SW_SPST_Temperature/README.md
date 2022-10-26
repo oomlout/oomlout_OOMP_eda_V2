@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKSWITCHSWSPSTTEMPERATURE](http://oom.lt/SZKSWITCHSWSPSTTEMPERATURE)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Switch/SW_SPST_Temperature/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Switch/SW_SPST_Temperature/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Switch/SW_SPST_Temperature/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

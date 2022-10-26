@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/FZKTRANSISTORPOWERMOLITTELFUPACKAGEHXN2](http://oom.lt/FZKTRANSISTORPOWERMOLITTELFUPACKAGEHXN2)
   
 
-|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Transistor_Power_Module/Littelfuse_Package_H_XN2MM/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Transistor_Power_Module/Littelfuse_Package_H_XN2MM/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Transistor_Power_Module/Littelfuse_Package_H_XN2MM/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKPOTENTIOMETERDIGITALDS1267TSS](http://oom.lt/SZKPOTENTIOMETERDIGITALDS1267TSS)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Potentiometer_Digital/DS1267_TSSOP/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Potentiometer_Digital/DS1267_TSSOP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Potentiometer_Digital/DS1267_TSSOP/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

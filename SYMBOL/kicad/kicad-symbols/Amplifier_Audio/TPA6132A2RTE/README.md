@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKAMPLIFIERAUDIOTPA6132A2RTE](http://oom.lt/SZKAMPLIFIERAUDIOTPA6132A2RTE)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Audio/TPA6132A2RTE/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Audio/TPA6132A2RTE/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Audio/TPA6132A2RTE/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

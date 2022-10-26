@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKLOGICLEVELTRANSLATORTXB12DCT](http://oom.lt/SZKLOGICLEVELTRANSLATORTXB12DCT)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Logic_LevelTranslator/TXB0102DCT/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Logic_LevelTranslator/TXB0102DCT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Logic_LevelTranslator/TXB0102DCT/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

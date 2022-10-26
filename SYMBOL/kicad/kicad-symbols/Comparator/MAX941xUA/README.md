@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKCOMPARATORMAX941XUA](http://oom.lt/SZKCOMPARATORMAX941XUA)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Comparator/MAX941xUA/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Comparator/MAX941xUA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Comparator/MAX941xUA/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/FZKSENAOSONGDHT1155X12P254](http://oom.lt/FZKSENAOSONGDHT1155X12P254)
   
 
-|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Sensor/Aosong_DHT11_5.5x12.0_P2.54mm/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Sensor/Aosong_DHT11_5.5x12.0_P2.54mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Sensor/Aosong_DHT11_5.5x12.0_P2.54mm/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

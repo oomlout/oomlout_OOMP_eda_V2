@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKOCSSI512A25X32](http://oom.lt/SZKOCSSI512A25X32)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Oscillator/Si512A_2.5x3.2mm/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Oscillator/Si512A_2.5x3.2mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Oscillator/Si512A_2.5x3.2mm/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

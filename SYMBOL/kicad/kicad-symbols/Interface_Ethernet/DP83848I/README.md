@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKINTERFACEETHERNETDP83848I](http://oom.lt/SZKINTERFACEETHERNETDP83848I)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_Ethernet/DP83848I/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_Ethernet/DP83848I/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_Ethernet/DP83848I/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

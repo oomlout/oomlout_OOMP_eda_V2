@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKANALOGDACDAC11C81CIMK](http://oom.lt/SZKANALOGDACDAC11C81CIMK)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Analog_DAC/DAC101C081CIMK/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_DAC/DAC101C081CIMK/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_DAC/DAC101C081CIMK/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

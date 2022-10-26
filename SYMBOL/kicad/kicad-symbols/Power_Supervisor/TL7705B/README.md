@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKPOWERSUPERVISORTL775B](http://oom.lt/SZKPOWERSUPERVISORTL775B)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Supervisor/TL7705B/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Power_Supervisor/TL7705B/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Power_Supervisor/TL7705B/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

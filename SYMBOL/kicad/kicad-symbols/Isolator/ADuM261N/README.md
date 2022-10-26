@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKISOLATORADUM261N](http://oom.lt/SZKISOLATORADUM261N)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Isolator/ADuM261N/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Isolator/ADuM261N/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Isolator/ADuM261N/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/FZKTRSMTRETHERNETBOURNSPT6117PEL](http://oom.lt/FZKTRSMTRETHERNETBOURNSPT6117PEL)
   
 
-|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Transformer_SMD/Transformer_Ethernet_Bourns_PT61017PEL/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Transformer_SMD/Transformer_Ethernet_Bourns_PT61017PEL/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Transformer_SMD/Transformer_Ethernet_Bourns_PT61017PEL/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

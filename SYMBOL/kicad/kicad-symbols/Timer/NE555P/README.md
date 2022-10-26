@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKTIMERNE555P](http://oom.lt/SZKTIMERNE555P)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Timer/NE555P/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Timer/NE555P/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Timer/NE555P/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

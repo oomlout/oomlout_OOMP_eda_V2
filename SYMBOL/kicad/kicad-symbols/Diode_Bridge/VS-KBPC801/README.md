@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKDIODEBRIDGEVSKBPC81](http://oom.lt/SZKDIODEBRIDGEVSKBPC81)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode_Bridge/VS-KBPC801/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode_Bridge/VS-KBPC801/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode_Bridge/VS-KBPC801/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKISOLATORSI8645BBBIS1](http://oom.lt/SZKISOLATORSI8645BBBIS1)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Isolator/Si8645BB-B-IS1/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Isolator/Si8645BB-B-IS1/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Isolator/Si8645BB-B-IS1/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

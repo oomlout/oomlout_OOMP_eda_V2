@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKFIL85BM14E16](http://oom.lt/SZKFIL85BM14E16)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Filter/0850BM14E0016/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Filter/0850BM14E0016/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Filter/0850BM14E0016/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

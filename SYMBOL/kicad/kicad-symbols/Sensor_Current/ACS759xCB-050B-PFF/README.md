@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKSENCURRENTACS759XCB5BPFF](http://oom.lt/SZKSENCURRENTACS759XCB5BPFF)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Current/ACS759xCB-050B-PFF/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/ACS759xCB-050B-PFF/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/ACS759xCB-050B-PFF/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

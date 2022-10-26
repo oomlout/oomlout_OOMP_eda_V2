@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKREFERENCEVOLTAGEMCP1525TO](http://oom.lt/SZKREFERENCEVOLTAGEMCP1525TO)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Reference_Voltage/MCP1525-TO/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Reference_Voltage/MCP1525-TO/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Reference_Voltage/MCP1525-TO/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

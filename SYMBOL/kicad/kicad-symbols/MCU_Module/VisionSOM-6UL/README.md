@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKMCUMOVISIONSOM6UL](http://oom.lt/SZKMCUMOVISIONSOM6UL)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Module/VisionSOM-6UL/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Module/VisionSOM-6UL/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Module/VisionSOM-6UL/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

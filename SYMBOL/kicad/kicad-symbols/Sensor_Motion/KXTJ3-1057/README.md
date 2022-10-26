@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKSENMOTIONKXTJ3157](http://oom.lt/SZKSENMOTIONKXTJ3157)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Motion/KXTJ3-1057/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Motion/KXTJ3-1057/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Motion/KXTJ3-1057/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

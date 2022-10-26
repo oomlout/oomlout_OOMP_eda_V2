@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKLOGICLEVELTRANSLATORSN74LVC1T45DCK](http://oom.lt/SZKLOGICLEVELTRANSLATORSN74LVC1T45DCK)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Logic_LevelTranslator/SN74LVC1T45DCK/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Logic_LevelTranslator/SN74LVC1T45DCK/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Logic_LevelTranslator/SN74LVC1T45DCK/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

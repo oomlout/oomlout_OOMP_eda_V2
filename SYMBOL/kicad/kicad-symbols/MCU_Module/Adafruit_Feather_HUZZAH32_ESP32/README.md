@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKMCUMOADAFEATHERHUZZAH32ESP32](http://oom.lt/SZKMCUMOADAFEATHERHUZZAH32ESP32)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Module/Adafruit_Feather_HUZZAH32_ESP32/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Module/Adafruit_Feather_HUZZAH32_ESP32/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Module/Adafruit_Feather_HUZZAH32_ESP32/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

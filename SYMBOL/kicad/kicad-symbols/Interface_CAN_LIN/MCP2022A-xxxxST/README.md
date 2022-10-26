@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKINTERFACECANLINMCP222AXXXXST](http://oom.lt/SZKINTERFACECANLINMCP222AXXXXST)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_CAN_LIN/MCP2022A-xxxxST/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_CAN_LIN/MCP2022A-xxxxST/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_CAN_LIN/MCP2022A-xxxxST/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

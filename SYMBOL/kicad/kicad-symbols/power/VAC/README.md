@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKPOWERVAC](http://oom.lt/SZKPOWERVAC)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/power/VAC/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/power/VAC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/power/VAC/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

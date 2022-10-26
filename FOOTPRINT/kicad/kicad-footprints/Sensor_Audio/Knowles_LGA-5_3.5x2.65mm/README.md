@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/FZKSENAUDIOKNOWLESLGA535X265](http://oom.lt/FZKSENAUDIOKNOWLESLGA535X265)
   
 
-|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Sensor_Audio/Knowles_LGA-5_3.5x2.65mm/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Audio/Knowles_LGA-5_3.5x2.65mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Audio/Knowles_LGA-5_3.5x2.65mm/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

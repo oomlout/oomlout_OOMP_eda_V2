@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKMEMORYNVRAMMB85RS512T](http://oom.lt/SZKMEMORYNVRAMMB85RS512T)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Memory_NVRAM/MB85RS512T/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_NVRAM/MB85RS512T/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_NVRAM/MB85RS512T/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

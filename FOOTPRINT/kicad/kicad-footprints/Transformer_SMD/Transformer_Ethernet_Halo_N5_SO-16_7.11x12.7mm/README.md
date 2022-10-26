@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/FZKTRSMTRETHERNETHALON5SO16711X127](http://oom.lt/FZKTRSMTRETHERNETHALON5SO16711X127)
   
 
-|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Transformer_SMD/Transformer_Ethernet_Halo_N5_SO-16_7.11x12.7mm/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Transformer_SMD/Transformer_Ethernet_Halo_N5_SO-16_7.11x12.7mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Transformer_SMD/Transformer_Ethernet_Halo_N5_SO-16_7.11x12.7mm/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKDICHARACTERELD426SYGWA](http://oom.lt/SZKDICHARACTERELD426SYGWA)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Display_Character/ELD-426SYGWA/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Display_Character/ELD-426SYGWA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Display_Character/ELD-426SYGWA/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

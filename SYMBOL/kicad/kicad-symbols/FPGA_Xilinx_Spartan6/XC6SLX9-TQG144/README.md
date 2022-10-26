@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKFPGAXILINXSPARTAN6XC6SLX9TQG144](http://oom.lt/SZKFPGAXILINXSPARTAN6XC6SLX9TQG144)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx_Spartan6/XC6SLX9-TQG144/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx_Spartan6/XC6SLX9-TQG144/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx_Spartan6/XC6SLX9-TQG144/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

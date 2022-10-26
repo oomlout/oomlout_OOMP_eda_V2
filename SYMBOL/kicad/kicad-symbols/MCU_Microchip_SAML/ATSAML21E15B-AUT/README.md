@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKMCUMCHIPSAMLATSAML21E15BAUT](http://oom.lt/SZKMCUMCHIPSAMLATSAML21E15BAUT)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_SAML/ATSAML21E15B-AUT/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_SAML/ATSAML21E15B-AUT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_SAML/ATSAML21E15B-AUT/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

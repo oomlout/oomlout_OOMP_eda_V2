@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKDICHARACTERSC3912SRWA](http://oom.lt/SZKDICHARACTERSC3912SRWA)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Display_Character/SC39-12SRWA/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Display_Character/SC39-12SRWA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Display_Character/SC39-12SRWA/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

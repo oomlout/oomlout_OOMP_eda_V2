@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKCONMEE3S55SC](http://oom.lt/SZKCONMEE3S55SC)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_DCDC/MEE3S0505SC/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Converter_DCDC/MEE3S0505SC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Converter_DCDC/MEE3S0505SC/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

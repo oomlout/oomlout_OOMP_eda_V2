@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKTRANSISTORPOWERMOA2C5S65M2](http://oom.lt/SZKTRANSISTORPOWERMOA2C5S65M2)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_Power_Module/A2C50S65M2/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_Power_Module/A2C50S65M2/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_Power_Module/A2C50S65M2/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

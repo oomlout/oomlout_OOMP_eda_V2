@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKCONTEN22422WIN](http://oom.lt/SZKCONTEN22422WIN)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_DCDC/TEN20-2422WIN/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Converter_DCDC/TEN20-2422WIN/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Converter_DCDC/TEN20-2422WIN/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

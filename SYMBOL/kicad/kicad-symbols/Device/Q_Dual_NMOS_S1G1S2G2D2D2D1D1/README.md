@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKDEVICEQDUALNMOSS1G1S2G2D2D2D1D1](http://oom.lt/SZKDEVICEQDUALNMOSS1G1S2G2D2D2D1D1)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/Q_Dual_NMOS_S1G1S2G2D2D2D1D1/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/Q_Dual_NMOS_S1G1S2G2D2D2D1D1/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/Q_Dual_NMOS_S1G1S2G2D2D2D1D1/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

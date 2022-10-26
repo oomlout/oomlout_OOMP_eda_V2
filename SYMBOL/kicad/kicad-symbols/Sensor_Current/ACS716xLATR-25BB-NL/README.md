@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKSENCURRENTACS716XLATR25BBNL](http://oom.lt/SZKSENCURRENTACS716XLATR25BBNL)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Current/ACS716xLATR-25BB-NL/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/ACS716xLATR-25BB-NL/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/ACS716xLATR-25BB-NL/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

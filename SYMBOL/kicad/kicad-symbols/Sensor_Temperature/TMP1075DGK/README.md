@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKSENTEMPERATURETMP175DGK](http://oom.lt/SZKSENTEMPERATURETMP175DGK)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/TMP1075DGK/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/TMP1075DGK/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/TMP1075DGK/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

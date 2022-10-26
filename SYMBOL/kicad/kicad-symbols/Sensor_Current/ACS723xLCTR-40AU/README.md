@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKSENCURRENTACS723XLCTR4AU](http://oom.lt/SZKSENCURRENTACS723XLCTR4AU)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Current/ACS723xLCTR-40AU/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/ACS723xLCTR-40AU/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/ACS723xLCTR-40AU/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

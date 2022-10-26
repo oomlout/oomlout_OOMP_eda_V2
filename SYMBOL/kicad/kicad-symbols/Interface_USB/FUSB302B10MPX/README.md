@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKINTERFACEUFU32B1MPX](http://oom.lt/SZKINTERFACEUFU32B1MPX)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_USB/FUSB302B10MPX/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_USB/FUSB302B10MPX/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_USB/FUSB302B10MPX/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

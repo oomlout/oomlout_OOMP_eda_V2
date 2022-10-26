@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKTIMERRTCDS132SN+](http://oom.lt/SZKTIMERRTCDS132SN+)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Timer_RTC/DS1302SN+/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Timer_RTC/DS1302SN+/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Timer_RTC/DS1302SN+/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

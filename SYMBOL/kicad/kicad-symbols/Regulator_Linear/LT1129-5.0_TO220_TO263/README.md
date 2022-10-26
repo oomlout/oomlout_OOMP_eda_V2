@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKREGULATORLINEARLT11295TO22TO263](http://oom.lt/SZKREGULATORLINEARLT11295TO22TO263)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LT1129-5.0_TO220_TO263/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LT1129-5.0_TO220_TO263/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LT1129-5.0_TO220_TO263/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

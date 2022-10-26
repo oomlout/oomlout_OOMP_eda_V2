@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKGRAPHICSYMESDSLL](http://oom.lt/SZKGRAPHICSYMESDSLL)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Graphic/SYM_ESD_Small/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Graphic/SYM_ESD_Small/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Graphic/SYM_ESD_Small/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

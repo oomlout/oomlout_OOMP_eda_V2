@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKFPGALATTICEICE4UL1KSWG16](http://oom.lt/SZKFPGALATTICEICE4UL1KSWG16)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/FPGA_Lattice/ICE40UL1K-SWG16/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/FPGA_Lattice/ICE40UL1K-SWG16/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/FPGA_Lattice/ICE40UL1K-SWG16/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

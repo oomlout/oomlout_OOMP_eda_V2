@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKDRIVERFET2ED21824S6J](http://oom.lt/SZKDRIVERFET2ED21824S6J)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_FET/2ED21824S06J/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Driver_FET/2ED21824S06J/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Driver_FET/2ED21824S06J/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

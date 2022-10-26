@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/FZKSZFCCL96X8SILKSCREEN](http://oom.lt/FZKSZFCCL96X8SILKSCREEN)
   
 
-|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Symbol/FCC-Logo_9.6x8mm_SilkScreen/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Symbol/FCC-Logo_9.6x8mm_SilkScreen/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Symbol/FCC-Logo_9.6x8mm_SilkScreen/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

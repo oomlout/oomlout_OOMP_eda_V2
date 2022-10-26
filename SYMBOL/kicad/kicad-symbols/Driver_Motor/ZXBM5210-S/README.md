@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKDRIVERMOTORZXBM521S](http://oom.lt/SZKDRIVERMOTORZXBM521S)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_Motor/ZXBM5210-S/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Driver_Motor/ZXBM5210-S/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Driver_Motor/ZXBM5210-S/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

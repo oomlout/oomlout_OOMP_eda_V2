@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKREFERENCEVOLTAGEREF1CS](http://oom.lt/SZKREFERENCEVOLTAGEREF1CS)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Reference_Voltage/REF01CS/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Reference_Voltage/REF01CS/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Reference_Voltage/REF01CS/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

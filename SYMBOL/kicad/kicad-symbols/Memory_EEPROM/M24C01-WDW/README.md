@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKMEMORYEEPROMM24C1WDW](http://oom.lt/SZKMEMORYEEPROMM24C1WDW)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Memory_EEPROM/M24C01-WDW/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_EEPROM/M24C01-WDW/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_EEPROM/M24C01-WDW/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

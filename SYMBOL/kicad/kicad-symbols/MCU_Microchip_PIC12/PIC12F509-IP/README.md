@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC12PIC12F59IP](http://oom.lt/SZKMCUMCHIPPIC12PIC12F59IP)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC12/PIC12F509-IP/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC12/PIC12F509-IP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC12/PIC12F509-IP/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKMCUNORDICNRF5281QFXX](http://oom.lt/SZKMCUNORDICNRF5281QFXX)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Nordic/nRF52810-QFxx/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Nordic/nRF52810-QFxx/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Nordic/nRF52810-QFxx/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

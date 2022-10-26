@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/FZKSZSYHIGHVOLTAGETYPE2CTOPVERYSLL](http://oom.lt/FZKSZSYHIGHVOLTAGETYPE2CTOPVERYSLL)
   
 
-|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Symbol/Symbol_HighVoltage_Type2_CopperTop_VerySmall/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Symbol/Symbol_HighVoltage_Type2_CopperTop_VerySmall/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Symbol/Symbol_HighVoltage_Type2_CopperTop_VerySmall/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

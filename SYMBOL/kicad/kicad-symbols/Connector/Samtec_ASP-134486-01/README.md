@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKCNSAMTECASP1344861](http://oom.lt/SZKCNSAMTECASP1344861)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/Samtec_ASP-134486-01/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/Samtec_ASP-134486-01/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Samtec_ASP-134486-01/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/FZKRFCOILCRAFTMA5532AERFID](http://oom.lt/FZKRFCOILCRAFTMA5532AERFID)
   
 
-|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/RF_Antenna/Coilcraft_MA5532-AE_RFID/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/RF_Antenna/Coilcraft_MA5532-AE_RFID/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/RF_Antenna/Coilcraft_MA5532-AE_RFID/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

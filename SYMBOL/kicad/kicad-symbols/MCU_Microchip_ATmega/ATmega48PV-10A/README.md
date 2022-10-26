@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKMCUMCHIPATMEGAATMEGA48PV1A](http://oom.lt/SZKMCUMCHIPATMEGAATMEGA48PV1A)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATmega/ATmega48PV-10A/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATmega/ATmega48PV-10A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATmega/ATmega48PV-10A/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

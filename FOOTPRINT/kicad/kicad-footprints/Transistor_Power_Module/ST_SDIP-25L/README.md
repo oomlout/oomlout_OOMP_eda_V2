@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/FZKTRANSISTORPOWERMOSTSDIP25L](http://oom.lt/FZKTRANSISTORPOWERMOSTSDIP25L)
   
 
-|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Transistor_Power_Module/ST_SDIP-25L/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Transistor_Power_Module/ST_SDIP-25L/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Transistor_Power_Module/ST_SDIP-25L/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

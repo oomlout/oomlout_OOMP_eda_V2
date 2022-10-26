@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/FZKRFSKYWORKSSKY654431](http://oom.lt/FZKRFSKYWORKSSKY654431)
   
 
-|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/RF/Skyworks_SKY65404-31/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/RF/Skyworks_SKY65404-31/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/RF/Skyworks_SKY65404-31/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

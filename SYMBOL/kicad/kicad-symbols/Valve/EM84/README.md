@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKVAEM84](http://oom.lt/SZKVAEM84)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Valve/EM84/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Valve/EM84/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Valve/EM84/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHEDCAPACITORTPS6151DRV](http://oom.lt/SZKREGULATORSWITCHEDCAPACITORTPS6151DRV)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_SwitchedCapacitor/TPS60151DRV/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_SwitchedCapacitor/TPS60151DRV/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_SwitchedCapacitor/TPS60151DRV/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

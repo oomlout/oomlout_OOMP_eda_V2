@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/FZKTRSMTRNFETALP3191HANDSOLDERING](http://oom.lt/FZKTRSMTRNFETALP3191HANDSOLDERING)
   
 
-|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Transformer_SMD/Transformer_NF_ETAL_P3191_HandSoldering/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Transformer_SMD/Transformer_NF_ETAL_P3191_HandSoldering/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Transformer_SMD/Transformer_NF_ETAL_P3191_HandSoldering/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

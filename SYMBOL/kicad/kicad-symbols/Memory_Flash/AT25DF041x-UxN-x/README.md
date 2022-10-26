@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKMEMORYFLASHAT25DF41XUXNX](http://oom.lt/SZKMEMORYFLASHAT25DF41XUXNX)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Memory_Flash/AT25DF041x-UxN-x/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_Flash/AT25DF041x-UxN-x/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_Flash/AT25DF041x-UxN-x/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

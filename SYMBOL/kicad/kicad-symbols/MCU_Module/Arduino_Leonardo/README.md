@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKMCUMOARDLEONARDO](http://oom.lt/SZKMCUMOARDLEONARDO)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Module/Arduino_Leonardo/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Module/Arduino_Leonardo/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Module/Arduino_Leonardo/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

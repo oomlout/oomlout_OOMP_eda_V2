@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKDEVICEDDUALSERIESAKCPARALLEL](http://oom.lt/SZKDEVICEDDUALSERIESAKCPARALLEL)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Device/D_Dual_Series_AKC_Parallel/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/D_Dual_Series_AKC_Parallel/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/D_Dual_Series_AKC_Parallel/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

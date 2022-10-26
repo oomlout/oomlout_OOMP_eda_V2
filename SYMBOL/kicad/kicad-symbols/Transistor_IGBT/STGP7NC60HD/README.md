@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKTRANSISTORIGBTSTGP7NC6HD](http://oom.lt/SZKTRANSISTORIGBTSTGP7NC6HD)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_IGBT/STGP7NC60HD/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_IGBT/STGP7NC60HD/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_IGBT/STGP7NC60HD/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

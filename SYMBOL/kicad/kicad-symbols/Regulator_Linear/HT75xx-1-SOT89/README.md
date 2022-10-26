@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKREGULATORLINEARHT75XX1SOT89](http://oom.lt/SZKREGULATORLINEARHT75XX1SOT89)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/HT75xx-1-SOT89/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/HT75xx-1-SOT89/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/HT75xx-1-SOT89/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKCNXLR3AUDIOJ3COMBO](http://oom.lt/SZKCNXLR3AUDIOJ3COMBO)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/XLR3_AudioJack3_Combo/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/XLR3_AudioJack3_Combo/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/XLR3_AudioJack3_Combo/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

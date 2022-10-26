@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKMCUTEXASMSP432E41Y](http://oom.lt/SZKMCUTEXASMSP432E41Y)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Texas/MSP432E401Y/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Texas/MSP432E401Y/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Texas/MSP432E401Y/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

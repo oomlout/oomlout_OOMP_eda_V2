@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKAMPLIFIERINSTRUMENTATIONAD623BN](http://oom.lt/SZKAMPLIFIERINSTRUMENTATIONAD623BN)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Instrumentation/AD623BN/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Instrumentation/AD623BN/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Instrumentation/AD623BN/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

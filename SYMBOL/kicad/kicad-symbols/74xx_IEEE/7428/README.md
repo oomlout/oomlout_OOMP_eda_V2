@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZK74XXIEEE7428](http://oom.lt/SZK74XXIEEE7428)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/74xx_IEEE/7428/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/74xx_IEEE/7428/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/74xx_IEEE/7428/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

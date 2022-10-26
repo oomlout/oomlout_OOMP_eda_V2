@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKVIDEOHD63484](http://oom.lt/SZKVIDEOHD63484)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Video/HD63484/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Video/HD63484/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Video/HD63484/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

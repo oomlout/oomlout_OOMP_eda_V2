@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKMCUMONUCLEO144F27ZG](http://oom.lt/SZKMCUMONUCLEO144F27ZG)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Module/NUCLEO144-F207ZG/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Module/NUCLEO144-F207ZG/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Module/NUCLEO144-F207ZG/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

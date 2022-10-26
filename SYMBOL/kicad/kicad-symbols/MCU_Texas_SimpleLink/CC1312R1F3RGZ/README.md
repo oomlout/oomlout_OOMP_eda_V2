@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKMCUTEXASSIMPLELINKCC1312R1F3RGZ](http://oom.lt/SZKMCUTEXASSIMPLELINKCC1312R1F3RGZ)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Texas_SimpleLink/CC1312R1F3RGZ/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Texas_SimpleLink/CC1312R1F3RGZ/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Texas_SimpleLink/CC1312R1F3RGZ/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

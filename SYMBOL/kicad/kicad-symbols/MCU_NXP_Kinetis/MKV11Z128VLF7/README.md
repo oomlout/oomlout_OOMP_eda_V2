@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKMCUNXPKINETISMKV11Z128VLF7](http://oom.lt/SZKMCUNXPKINETISMKV11Z128VLF7)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_NXP_Kinetis/MKV11Z128VLF7/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_Kinetis/MKV11Z128VLF7/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_Kinetis/MKV11Z128VLF7/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

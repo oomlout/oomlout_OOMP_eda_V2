@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKMCUSILICONLABSEFM8BB1F8GASOIC16](http://oom.lt/SZKMCUSILICONLABSEFM8BB1F8GASOIC16)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_SiliconLabs/EFM8BB10F8G-A-SOIC16/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_SiliconLabs/EFM8BB10F8G-A-SOIC16/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_SiliconLabs/EFM8BB10F8G-A-SOIC16/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

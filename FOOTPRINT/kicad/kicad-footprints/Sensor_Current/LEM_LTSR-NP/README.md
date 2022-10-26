@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/FZKSENCURRENTLEMLTSRNP](http://oom.lt/FZKSENCURRENTLEMLTSRNP)
   
 
-|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Sensor_Current/LEM_LTSR-NP/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Current/LEM_LTSR-NP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Current/LEM_LTSR-NP/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

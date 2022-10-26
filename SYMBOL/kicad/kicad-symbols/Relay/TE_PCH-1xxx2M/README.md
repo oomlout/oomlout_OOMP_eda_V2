@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKRELAYTEPCH1XXX2M](http://oom.lt/SZKRELAYTEPCH1XXX2M)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Relay/TE_PCH-1xxx2M/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Relay/TE_PCH-1xxx2M/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Relay/TE_PCH-1xxx2M/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

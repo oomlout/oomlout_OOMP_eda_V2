@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKBATMANAGEMENTLC7923FQH4TWG](http://oom.lt/SZKBATMANAGEMENTLC7923FQH4TWG)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Battery_Management/LC709203FQH-04TWG/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Battery_Management/LC709203FQH-04TWG/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Battery_Management/LC709203FQH-04TWG/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

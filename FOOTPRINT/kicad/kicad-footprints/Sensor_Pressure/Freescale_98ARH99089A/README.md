@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/FZKSENPRESSUREFREESCALE98ARH9989A](http://oom.lt/FZKSENPRESSUREFREESCALE98ARH9989A)
   
 
-|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Sensor_Pressure/Freescale_98ARH99089A/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Pressure/Freescale_98ARH99089A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Pressure/Freescale_98ARH99089A/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

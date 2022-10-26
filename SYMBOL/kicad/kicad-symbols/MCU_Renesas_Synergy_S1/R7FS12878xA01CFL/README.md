@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKMCURENESASSYNERGYS1R7FS12878XA1CFL](http://oom.lt/SZKMCURENESASSYNERGYS1R7FS12878XA1CFL)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Renesas_Synergy_S1/R7FS12878xA01CFL/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Renesas_Synergy_S1/R7FS12878xA01CFL/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Renesas_Synergy_S1/R7FS12878xA01CFL/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

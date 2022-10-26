@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/FZKRRBOXL26W5P2](http://oom.lt/FZKRRBOXL26W5P2)
   
 
-|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Box_L26.0mm_W5.0mm_P20.00mm/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Box_L26.0mm_W5.0mm_P20.00mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Box_L26.0mm_W5.0mm_P20.00mm/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

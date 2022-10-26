@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKCNBUSPCIEXPRESSX8](http://oom.lt/SZKCNBUSPCIEXPRESSX8)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/Bus_PCI_Express_x8/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/Bus_PCI_Express_x8/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Bus_PCI_Express_x8/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

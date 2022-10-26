@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/FZKTBPHOENIXTBPHOENIXPTSM5725HTHR1X7P25HORIZONTAL](http://oom.lt/FZKTBPHOENIXTBPHOENIXPTSM5725HTHR1X7P25HORIZONTAL)
   
 
-|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_Phoenix/TerminalBlock_Phoenix_PTSM-0,5-7-2.5-H-THR_1x07_P2.50mm_Horizontal/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_Phoenix/TerminalBlock_Phoenix_PTSM-0,5-7-2.5-H-THR_1x07_P2.50mm_Horizontal/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_Phoenix/TerminalBlock_Phoenix_PTSM-0,5-7-2.5-H-THR_1x07_P2.50mm_Horizontal/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

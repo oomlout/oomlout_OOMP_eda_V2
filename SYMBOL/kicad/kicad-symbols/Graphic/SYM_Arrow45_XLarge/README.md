@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKGRAPHICSYMARROW45XL](http://oom.lt/SZKGRAPHICSYMARROW45XL)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Graphic/SYM_Arrow45_XLarge/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Graphic/SYM_Arrow45_XLarge/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Graphic/SYM_Arrow45_XLarge/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

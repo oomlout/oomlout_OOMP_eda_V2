@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKOCSKC252Z](http://oom.lt/SZKOCSKC252Z)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Oscillator/KC2520Z/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Oscillator/KC2520Z/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Oscillator/KC2520Z/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

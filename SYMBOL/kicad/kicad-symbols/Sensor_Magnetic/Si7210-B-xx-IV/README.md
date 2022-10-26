@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKSENMAGNETICSI721BXXIV](http://oom.lt/SZKSENMAGNETICSI721BXXIV)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Magnetic/Si7210-B-xx-IV/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Magnetic/Si7210-B-xx-IV/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Magnetic/Si7210-B-xx-IV/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

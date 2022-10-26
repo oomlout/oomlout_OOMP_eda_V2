@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKCNMSDCARDDETHIROSEDM3AT](http://oom.lt/SZKCNMSDCARDDETHIROSEDM3AT)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/Micro_SD_Card_Det_Hirose_DM3AT/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/Micro_SD_Card_Det_Hirose_DM3AT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Micro_SD_Card_Det_Hirose_DM3AT/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKINTERFACEEXPANSIONTCA9548APWR](http://oom.lt/SZKINTERFACEEXPANSIONTCA9548APWR)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_Expansion/TCA9548APWR/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_Expansion/TCA9548APWR/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_Expansion/TCA9548APWR/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

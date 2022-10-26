@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKINTERFACECANLINISO15DUB](http://oom.lt/SZKINTERFACECANLINISO15DUB)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_CAN_LIN/ISO1050DUB/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_CAN_LIN/ISO1050DUB/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_CAN_LIN/ISO1050DUB/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

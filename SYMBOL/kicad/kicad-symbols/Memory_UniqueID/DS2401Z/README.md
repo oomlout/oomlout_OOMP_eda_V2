@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKMEMORYUNIQUEIDDS241Z](http://oom.lt/SZKMEMORYUNIQUEIDDS241Z)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Memory_UniqueID/DS2401Z/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_UniqueID/DS2401Z/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_UniqueID/DS2401Z/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

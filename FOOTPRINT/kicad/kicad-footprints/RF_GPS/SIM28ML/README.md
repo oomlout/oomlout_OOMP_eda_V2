@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/FZKGPSSIM28ML](http://oom.lt/FZKGPSSIM28ML)
   
 
-|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/RF_GPS/SIM28ML/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/RF_GPS/SIM28ML/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/RF_GPS/SIM28ML/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

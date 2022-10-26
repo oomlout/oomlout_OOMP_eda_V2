@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKCNGENERICMOUNTINGPINCONN2ROWS51PINSMOUNTINGPIN](http://oom.lt/SZKCNGENERICMOUNTINGPINCONN2ROWS51PINSMOUNTINGPIN)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector_Generic_MountingPin/Conn_2Rows-51Pins_MountingPin/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector_Generic_MountingPin/Conn_2Rows-51Pins_MountingPin/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic_MountingPin/Conn_2Rows-51Pins_MountingPin/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

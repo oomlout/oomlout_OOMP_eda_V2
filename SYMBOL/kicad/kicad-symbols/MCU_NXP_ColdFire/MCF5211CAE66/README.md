@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKMCUNXPCOLDFIREMCF5211CAE66](http://oom.lt/SZKMCUNXPCOLDFIREMCF5211CAE66)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_NXP_ColdFire/MCF5211CAE66/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_ColdFire/MCF5211CAE66/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_ColdFire/MCF5211CAE66/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

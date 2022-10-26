@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKCNGENERICSHEDCONN2X36ODDEVENSHED](http://oom.lt/SZKCNGENERICSHEDCONN2X36ODDEVENSHED)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector_Generic_Shielded/Conn_02x36_Odd_Even_Shielded/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector_Generic_Shielded/Conn_02x36_Odd_Even_Shielded/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic_Shielded/Conn_02x36_Odd_Even_Shielded/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

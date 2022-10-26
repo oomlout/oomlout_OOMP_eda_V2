@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/FZKTRSMTRETHERNETBELS5585999T7F](http://oom.lt/FZKTRSMTRETHERNETBELS5585999T7F)
   
 
-|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Transformer_SMD/Transformer_Ethernet_Bel_S558-5999-T7-F/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Transformer_SMD/Transformer_Ethernet_Bel_S558-5999-T7-F/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Transformer_SMD/Transformer_Ethernet_Bel_S558-5999-T7-F/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

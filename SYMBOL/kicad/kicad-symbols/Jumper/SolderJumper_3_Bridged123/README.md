@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKJSOLDERJ3BRIDGED123](http://oom.lt/SZKJSOLDERJ3BRIDGED123)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Jumper/SolderJumper_3_Bridged123/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Jumper/SolderJumper_3_Bridged123/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Jumper/SolderJumper_3_Bridged123/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

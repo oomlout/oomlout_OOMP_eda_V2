@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC16PIC16F628XXISS](http://oom.lt/SZKMCUMCHIPPIC16PIC16F628XXISS)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC16/PIC16F628-xxISS/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC16/PIC16F628-xxISS/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC16/PIC16F628-xxISS/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

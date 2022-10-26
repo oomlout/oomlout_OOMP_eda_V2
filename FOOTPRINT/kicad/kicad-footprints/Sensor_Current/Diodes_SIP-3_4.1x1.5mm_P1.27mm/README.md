@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/FZKSENCURRENTDIODESSIP341X15P127](http://oom.lt/FZKSENCURRENTDIODESSIP341X15P127)
   
 
-|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Sensor_Current/Diodes_SIP-3_4.1x1.5mm_P1.27mm/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Current/Diodes_SIP-3_4.1x1.5mm_P1.27mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Current/Diodes_SIP-3_4.1x1.5mm_P1.27mm/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

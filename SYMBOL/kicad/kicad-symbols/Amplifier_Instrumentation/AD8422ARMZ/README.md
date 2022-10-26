@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKAMPLIFIERINSTRUMENTATIONAD8422ARMZ](http://oom.lt/SZKAMPLIFIERINSTRUMENTATIONAD8422ARMZ)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Instrumentation/AD8422ARMZ/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Instrumentation/AD8422ARMZ/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Instrumentation/AD8422ARMZ/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

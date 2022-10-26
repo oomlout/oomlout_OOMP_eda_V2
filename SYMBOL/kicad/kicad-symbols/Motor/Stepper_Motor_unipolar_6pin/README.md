@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKMOTORSTEPPERMOTORUNIPOLAR6PIN](http://oom.lt/SZKMOTORSTEPPERMOTORUNIPOLAR6PIN)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Motor/Stepper_Motor_unipolar_6pin/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Motor/Stepper_Motor_unipolar_6pin/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Motor/Stepper_Motor_unipolar_6pin/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

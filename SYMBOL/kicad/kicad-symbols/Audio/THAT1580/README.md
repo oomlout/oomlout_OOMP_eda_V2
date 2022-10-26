@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKAUDIOTHAT158](http://oom.lt/SZKAUDIOTHAT158)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Audio/THAT1580/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Audio/THAT1580/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Audio/THAT1580/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

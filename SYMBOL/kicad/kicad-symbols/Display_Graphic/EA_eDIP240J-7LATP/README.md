@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKDIGRAPHICEAEDIP24J7LATP](http://oom.lt/SZKDIGRAPHICEAEDIP24J7LATP)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Display_Graphic/EA_eDIP240J-7LATP/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Display_Graphic/EA_eDIP240J-7LATP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Display_Graphic/EA_eDIP240J-7LATP/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

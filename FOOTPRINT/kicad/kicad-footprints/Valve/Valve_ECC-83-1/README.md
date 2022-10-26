@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/FZKVAVAECC831](http://oom.lt/FZKVAVAECC831)
   
 
-|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Valve/Valve_ECC-83-1/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Valve/Valve_ECC-83-1/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Valve/Valve_ECC-83-1/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

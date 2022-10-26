@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKCONOKI78SR121W36C](http://oom.lt/SZKCONOKI78SR121W36C)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_DCDC/OKI-78SR-12_1.0-W36-C/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Converter_DCDC/OKI-78SR-12_1.0-W36-C/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Converter_DCDC/OKI-78SR-12_1.0-W36-C/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

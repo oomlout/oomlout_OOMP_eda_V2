@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKRELAYMSXX1AXX75](http://oom.lt/SZKRELAYMSXX1AXX75)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Relay/MSxx-1Axx-75/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Relay/MSxx-1Axx-75/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Relay/MSxx-1Axx-75/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

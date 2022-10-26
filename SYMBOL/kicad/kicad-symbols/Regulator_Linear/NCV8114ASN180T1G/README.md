@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKREGULATORLINEARNCV8114ASN18T1G](http://oom.lt/SZKREGULATORLINEARNCV8114ASN18T1G)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/NCV8114ASN180T1G/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/NCV8114ASN180T1G/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/NCV8114ASN180T1G/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

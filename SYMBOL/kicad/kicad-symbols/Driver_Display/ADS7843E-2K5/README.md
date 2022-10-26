@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKDRIVERDIADS7843E2K5](http://oom.lt/SZKDRIVERDIADS7843E2K5)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_Display/ADS7843E-2K5/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Driver_Display/ADS7843E-2K5/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Driver_Display/ADS7843E-2K5/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

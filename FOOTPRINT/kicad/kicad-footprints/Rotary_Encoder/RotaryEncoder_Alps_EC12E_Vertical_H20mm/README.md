@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/FZKREROTARYENCODERALPSEC12EVERTICALH2](http://oom.lt/FZKREROTARYENCODERALPSEC12EVERTICALH2)
   
 
-|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Rotary_Encoder/RotaryEncoder_Alps_EC12E_Vertical_H20mm/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Rotary_Encoder/RotaryEncoder_Alps_EC12E_Vertical_H20mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Rotary_Encoder/RotaryEncoder_Alps_EC12E_Vertical_H20mm/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

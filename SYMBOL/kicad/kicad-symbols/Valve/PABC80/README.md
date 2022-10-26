@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKVAPABC8](http://oom.lt/SZKVAPABC8)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Valve/PABC80/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Valve/PABC80/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Valve/PABC80/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

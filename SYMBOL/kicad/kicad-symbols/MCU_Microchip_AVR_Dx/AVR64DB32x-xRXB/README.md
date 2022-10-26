@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKMCUMCHIPAVRDXAVR64DB32XXRXB](http://oom.lt/SZKMCUMCHIPAVRDXAVR64DB32XXRXB)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_AVR_Dx/AVR64DB32x-xRXB/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_AVR_Dx/AVR64DB32x-xRXB/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_AVR_Dx/AVR64DB32x-xRXB/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHEDCAPACITORLT154XSW](http://oom.lt/SZKREGULATORSWITCHEDCAPACITORLT154XSW)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_SwitchedCapacitor/LT1054xSW/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_SwitchedCapacitor/LT1054xSW/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_SwitchedCapacitor/LT1054xSW/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

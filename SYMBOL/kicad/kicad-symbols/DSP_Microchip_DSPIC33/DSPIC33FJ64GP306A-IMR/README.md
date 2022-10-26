@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKDSPMCHIPDSPIC33DSPIC33FJ64GP36AIMR](http://oom.lt/SZKDSPMCHIPDSPIC33DSPIC33FJ64GP36AIMR)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/DSP_Microchip_DSPIC33/DSPIC33FJ64GP306A-IMR/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/DSP_Microchip_DSPIC33/DSPIC33FJ64GP306A-IMR/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/DSP_Microchip_DSPIC33/DSPIC33FJ64GP306A-IMR/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKPOWERVPP](http://oom.lt/SZKPOWERVPP)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/power/VPP/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/power/VPP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/power/VPP/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKVIDEOTDA8772](http://oom.lt/SZKVIDEOTDA8772)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Video/TDA8772/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Video/TDA8772/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Video/TDA8772/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

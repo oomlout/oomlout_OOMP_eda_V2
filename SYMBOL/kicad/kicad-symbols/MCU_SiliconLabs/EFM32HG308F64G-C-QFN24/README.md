@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKMCUSILICONLABSEFM32HG38F64GCQFN24](http://oom.lt/SZKMCUSILICONLABSEFM32HG38F64GCQFN24)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_SiliconLabs/EFM32HG308F64G-C-QFN24/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_SiliconLabs/EFM32HG308F64G-C-QFN24/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_SiliconLabs/EFM32HG308F64G-C-QFN24/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKFPGAXILINXVIRTEX7XC7VX485TFFG1158](http://oom.lt/SZKFPGAXILINXVIRTEX7XC7VX485TFFG1158)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx_Virtex7/XC7VX485T-FFG1158/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx_Virtex7/XC7VX485T-FFG1158/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx_Virtex7/XC7VX485T-FFG1158/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

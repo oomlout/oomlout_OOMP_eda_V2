@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKTIMERPLLSI5344AD](http://oom.lt/SZKTIMERPLLSI5344AD)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Timer_PLL/Si5344A-D/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Timer_PLL/Si5344A-D/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Timer_PLL/Si5344A-D/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

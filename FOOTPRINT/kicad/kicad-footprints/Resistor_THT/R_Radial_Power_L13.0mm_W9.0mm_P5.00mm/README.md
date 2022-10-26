@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/FZKRRRPOWERL13W9P5](http://oom.lt/FZKRRRPOWERL13W9P5)
   
 
-|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Radial_Power_L13.0mm_W9.0mm_P5.00mm/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Radial_Power_L13.0mm_W9.0mm_P5.00mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Radial_Power_L13.0mm_W9.0mm_P5.00mm/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

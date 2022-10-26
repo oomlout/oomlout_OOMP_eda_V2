@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKCOMPARATORLTC6752XSC64](http://oom.lt/SZKCOMPARATORLTC6752XSC64)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Comparator/LTC6752xSC6-4/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Comparator/LTC6752xSC6-4/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Comparator/LTC6752xSC6-4/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

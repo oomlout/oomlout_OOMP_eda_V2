@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/FZKRFTEXASSWRA117D24GHZRIGHT](http://oom.lt/FZKRFTEXASSWRA117D24GHZRIGHT)
   
 
-|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/RF_Antenna/Texas_SWRA117D_2.4GHz_Right/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/RF_Antenna/Texas_SWRA117D_2.4GHz_Right/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/RF_Antenna/Texas_SWRA117D_2.4GHz_Right/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

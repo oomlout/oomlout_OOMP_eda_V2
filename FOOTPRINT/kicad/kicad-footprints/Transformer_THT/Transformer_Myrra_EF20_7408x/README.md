@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/FZKTRTRMYRRAEF2748X](http://oom.lt/FZKTRTRMYRRAEF2748X)
   
 
-|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Transformer_THT/Transformer_Myrra_EF20_7408x/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Transformer_THT/Transformer_Myrra_EF20_7408x/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Transformer_THT/Transformer_Myrra_EF20_7408x/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

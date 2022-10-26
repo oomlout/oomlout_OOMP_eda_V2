@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGKA5H265RCYDTU](http://oom.lt/SZKREGULATORSWITCHINGKA5H265RCYDTU)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/KA5H0265RCYDTU/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/KA5H0265RCYDTU/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/KA5H0265RCYDTU/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

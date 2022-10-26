@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKMCUCYPRESSCY8C4245AZIM445](http://oom.lt/SZKMCUCYPRESSCY8C4245AZIM445)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Cypress/CY8C4245AZI-M445/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Cypress/CY8C4245AZI-M445/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Cypress/CY8C4245AZI-M445/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

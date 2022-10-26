@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/FZKTRTREPCOSB66359A113THORIZONTAL](http://oom.lt/FZKTRTREPCOSB66359A113THORIZONTAL)
   
 
-|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Transformer_THT/Transformer_EPCOS_B66359A1013T_Horizontal/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Transformer_THT/Transformer_EPCOS_B66359A1013T_Horizontal/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Transformer_THT/Transformer_EPCOS_B66359A1013T_Horizontal/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

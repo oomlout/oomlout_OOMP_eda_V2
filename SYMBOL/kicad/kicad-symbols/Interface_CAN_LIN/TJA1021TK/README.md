@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKINTERFACECANLINTJA121TK](http://oom.lt/SZKINTERFACECANLINTJA121TK)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_CAN_LIN/TJA1021TK/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_CAN_LIN/TJA1021TK/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_CAN_LIN/TJA1021TK/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

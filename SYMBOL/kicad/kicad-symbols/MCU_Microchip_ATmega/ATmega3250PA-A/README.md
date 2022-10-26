@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKMCUMCHIPATMEGAATMEGA325PAA](http://oom.lt/SZKMCUMCHIPATMEGAATMEGA325PAA)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATmega/ATmega3250PA-A/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATmega/ATmega3250PA-A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATmega/ATmega3250PA-A/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

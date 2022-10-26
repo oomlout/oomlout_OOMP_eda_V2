@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKPOWERPROTECTIONTPD4E2B4DQA](http://oom.lt/SZKPOWERPROTECTIONTPD4E2B4DQA)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Protection/TPD4E02B04DQA/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Power_Protection/TPD4E02B04DQA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Power_Protection/TPD4E02B04DQA/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

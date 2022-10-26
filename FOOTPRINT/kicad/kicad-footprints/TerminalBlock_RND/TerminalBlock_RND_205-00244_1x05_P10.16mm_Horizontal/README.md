@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/FZKTBRNDTBRND252441X5P116HORIZONTAL](http://oom.lt/FZKTBRNDTBRND252441X5P116HORIZONTAL)
   
 
-|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_RND/TerminalBlock_RND_205-00244_1x05_P10.16mm_Horizontal/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_RND/TerminalBlock_RND_205-00244_1x05_P10.16mm_Horizontal/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_RND/TerminalBlock_RND_205-00244_1x05_P10.16mm_Horizontal/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

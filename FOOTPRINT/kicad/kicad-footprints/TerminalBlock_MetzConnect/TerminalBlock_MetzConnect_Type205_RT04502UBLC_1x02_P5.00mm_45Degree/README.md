@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/FZKTBMETZCONNECTTBMETZCONNECTTYPE25RT452UBLC1X2P545DEGREE](http://oom.lt/FZKTBMETZCONNECTTBMETZCONNECTTYPE25RT452UBLC1X2P545DEGREE)
   
 
-|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_MetzConnect/TerminalBlock_MetzConnect_Type205_RT04502UBLC_1x02_P5.00mm_45Degree/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_MetzConnect/TerminalBlock_MetzConnect_Type205_RT04502UBLC_1x02_P5.00mm_45Degree/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_MetzConnect/TerminalBlock_MetzConnect_Type205_RT04502UBLC_1x02_P5.00mm_45Degree/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

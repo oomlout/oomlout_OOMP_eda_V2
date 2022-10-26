@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKAMPLIFIERAUDIOIS31AP4991GRLS2](http://oom.lt/SZKAMPLIFIERAUDIOIS31AP4991GRLS2)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Audio/IS31AP4991-GRLS2/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Audio/IS31AP4991-GRLS2/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Audio/IS31AP4991-GRLS2/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

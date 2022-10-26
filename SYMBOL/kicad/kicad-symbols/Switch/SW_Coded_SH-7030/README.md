@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKSWITCHSWCODEDSH73](http://oom.lt/SZKSWITCHSWCODEDSH73)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Switch/SW_Coded_SH-7030/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Switch/SW_Coded_SH-7030/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Switch/SW_Coded_SH-7030/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC32PIC32MK124GPE1XPT](http://oom.lt/SZKMCUMCHIPPIC32PIC32MK124GPE1XPT)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC32/PIC32MK1024GPE100-xPT/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC32/PIC32MK1024GPE100-xPT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC32/PIC32MK1024GPE100-xPT/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

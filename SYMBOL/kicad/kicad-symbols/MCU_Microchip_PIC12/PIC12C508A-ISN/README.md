@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC12PIC12C58AISN](http://oom.lt/SZKMCUMCHIPPIC12PIC12C58AISN)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC12/PIC12C508A-ISN/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC12/PIC12C508A-ISN/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC12/PIC12C508A-ISN/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKDSPTEXASTMS32LF246PZ](http://oom.lt/SZKDSPTEXASTMS32LF246PZ)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/DSP_Texas/TMS320LF2406PZ/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/DSP_Texas/TMS320LF2406PZ/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/DSP_Texas/TMS320LF2406PZ/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

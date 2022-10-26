@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/FZKRFMOAITHINKERRA1LORA](http://oom.lt/FZKRFMOAITHINKERRA1LORA)
   
 
-|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/RF_Module/Ai-Thinker-Ra-01-LoRa/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/RF_Module/Ai-Thinker-Ra-01-LoRa/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/RF_Module/Ai-Thinker-Ra-01-LoRa/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

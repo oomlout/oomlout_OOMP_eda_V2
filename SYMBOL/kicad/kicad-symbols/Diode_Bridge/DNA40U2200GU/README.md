@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKDIODEBRIDGEDNA4U22GU](http://oom.lt/SZKDIODEBRIDGEDNA4U22GU)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode_Bridge/DNA40U2200GU/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode_Bridge/DNA40U2200GU/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode_Bridge/DNA40U2200GU/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

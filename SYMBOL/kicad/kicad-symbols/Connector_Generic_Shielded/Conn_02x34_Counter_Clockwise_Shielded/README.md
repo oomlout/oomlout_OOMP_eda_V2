@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKCNGENERICSHEDCONN2X34COUNTERCLWISESHED](http://oom.lt/SZKCNGENERICSHEDCONN2X34COUNTERCLWISESHED)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector_Generic_Shielded/Conn_02x34_Counter_Clockwise_Shielded/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector_Generic_Shielded/Conn_02x34_Counter_Clockwise_Shielded/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic_Shielded/Conn_02x34_Counter_Clockwise_Shielded/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

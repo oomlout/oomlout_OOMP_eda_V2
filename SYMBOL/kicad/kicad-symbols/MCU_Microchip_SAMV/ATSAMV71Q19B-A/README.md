@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKMCUMCHIPSAMVATSAMV71Q19BA](http://oom.lt/SZKMCUMCHIPSAMVATSAMV71Q19BA)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_SAMV/ATSAMV71Q19B-A/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_SAMV/ATSAMV71Q19B-A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_SAMV/ATSAMV71Q19B-A/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

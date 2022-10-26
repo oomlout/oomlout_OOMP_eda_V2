@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKCNDB25MALEHOLS](http://oom.lt/SZKCNDB25MALEHOLS)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/DB25_Male_MountingHoles/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/DB25_Male_MountingHoles/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/DB25_Male_MountingHoles/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

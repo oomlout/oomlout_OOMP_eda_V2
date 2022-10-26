@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKREGULATORLINEARNCP11175TO252](http://oom.lt/SZKREGULATORLINEARNCP11175TO252)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/NCP1117-5.0_TO252/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/NCP1117-5.0_TO252/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/NCP1117-5.0_TO252/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

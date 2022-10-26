@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/FZKVRVDISCD12W44P75](http://oom.lt/FZKVRVDISCD12W44P75)
   
 
-|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Varistor/RV_Disc_D12mm_W4.4mm_P7.5mm/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Varistor/RV_Disc_D12mm_W4.4mm_P7.5mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Varistor/RV_Disc_D12mm_W4.4mm_P7.5mm/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

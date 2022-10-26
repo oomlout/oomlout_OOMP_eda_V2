@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKMCUINTELI386EXPQFP](http://oom.lt/SZKMCUINTELI386EXPQFP)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Intel/I386EX_PQFP/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Intel/I386EX_PQFP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Intel/I386EX_PQFP/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

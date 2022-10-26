@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKMCUSILICONLABSC851F38CGM](http://oom.lt/SZKMCUSILICONLABSC851F38CGM)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_SiliconLabs/C8051F38C-GM/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_SiliconLabs/C8051F38C-GM/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_SiliconLabs/C8051F38C-GM/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

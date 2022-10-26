@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKSWITCHSWREED](http://oom.lt/SZKSWITCHSWREED)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Switch/SW_Reed/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Switch/SW_Reed/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Switch/SW_Reed/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

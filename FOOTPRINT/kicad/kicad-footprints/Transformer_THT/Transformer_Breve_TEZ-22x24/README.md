@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/FZKTRTRBREVETEZ22X24](http://oom.lt/FZKTRTRBREVETEZ22X24)
   
 
-|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Transformer_THT/Transformer_Breve_TEZ-22x24/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Transformer_THT/Transformer_Breve_TEZ-22x24/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Transformer_THT/Transformer_Breve_TEZ-22x24/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

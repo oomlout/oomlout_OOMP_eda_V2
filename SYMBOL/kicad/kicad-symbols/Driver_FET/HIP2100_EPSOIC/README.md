@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKDRIVERFETHIP21EPSOIC](http://oom.lt/SZKDRIVERFETHIP21EPSOIC)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Driver_FET/HIP2100_EPSOIC/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Driver_FET/HIP2100_EPSOIC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Driver_FET/HIP2100_EPSOIC/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

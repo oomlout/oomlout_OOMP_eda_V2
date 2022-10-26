@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKMEMORYFLASHW25X4CLSV](http://oom.lt/SZKMEMORYFLASHW25X4CLSV)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Memory_Flash/W25X40CLSV/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_Flash/W25X40CLSV/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_Flash/W25X40CLSV/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

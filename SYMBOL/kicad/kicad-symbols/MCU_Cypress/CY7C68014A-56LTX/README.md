@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKMCUCYPRESSCY7C6814A56LTX](http://oom.lt/SZKMCUCYPRESSCY7C6814A56LTX)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Cypress/CY7C68014A-56LTX/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Cypress/CY7C68014A-56LTX/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Cypress/CY7C68014A-56LTX/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKMEMORYEEPROMBR25XXXNUX](http://oom.lt/SZKMEMORYEEPROMBR25XXXNUX)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Memory_EEPROM/BR25xxx-NUX/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_EEPROM/BR25xxx-NUX/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_EEPROM/BR25xxx-NUX/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

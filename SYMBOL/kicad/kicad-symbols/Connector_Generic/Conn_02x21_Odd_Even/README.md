@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKCNGENERICCONN2X21ODDEVEN](http://oom.lt/SZKCNGENERICCONN2X21ODDEVEN)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_02x21_Odd_Even/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_02x21_Odd_Even/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_02x21_Odd_Even/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

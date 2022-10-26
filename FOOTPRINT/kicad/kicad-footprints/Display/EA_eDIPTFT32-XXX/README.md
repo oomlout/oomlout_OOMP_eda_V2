@@ -13,7 +13,7 @@
 - Short Link: [http://oom.lt/FZKDIEAEDIPTFT32XXX](http://oom.lt/FZKDIEAEDIPTFT32XXX)
   
 
-|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Display/EA_eDIPTFT32-XXX/image.png|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Display/EA_eDIPTFT32-XXX/kicadPcb3dFront.png|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Display/EA_eDIPTFT32-XXX/kicadPcb3dBack.png|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Display/EA_eDIPTFT32-XXX/kicadPcb3d.png|
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Display/EA_eDIPTFT32-XXX/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Display/EA_eDIPTFT32-XXX/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Display/EA_eDIPTFT32-XXX/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Display/EA_eDIPTFT32-XXX/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Display/EA_eDIPTFT32-XXX/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Display/EA_eDIPTFT32-XXX/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Display/EA_eDIPTFT32-XXX/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Display/EA_eDIPTFT32-XXX/kicadPcb3d.png)|
 | :---: | :---: | :---: | :---: |
 |||||
 

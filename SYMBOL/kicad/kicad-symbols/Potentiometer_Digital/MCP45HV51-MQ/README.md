@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKPOTENTIOMETERDIGITALMCP45HV51MQ](http://oom.lt/SZKPOTENTIOMETERDIGITALMCP45HV51MQ)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Potentiometer_Digital/MCP45HV51-MQ/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Potentiometer_Digital/MCP45HV51-MQ/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Potentiometer_Digital/MCP45HV51-MQ/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

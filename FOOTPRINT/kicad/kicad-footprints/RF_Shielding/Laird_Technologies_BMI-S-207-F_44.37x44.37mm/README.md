@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/FZKRFSLAIRDTECHNOLOGIESBMIS27F4437X4437](http://oom.lt/FZKRFSLAIRDTECHNOLOGIESBMIS27F4437X4437)
   
 
-|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/RF_Shielding/Laird_Technologies_BMI-S-207-F_44.37x44.37mm/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/RF_Shielding/Laird_Technologies_BMI-S-207-F_44.37x44.37mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/RF_Shielding/Laird_Technologies_BMI-S-207-F_44.37x44.37mm/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

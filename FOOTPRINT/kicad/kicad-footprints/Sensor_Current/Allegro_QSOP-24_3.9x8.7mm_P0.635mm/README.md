@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/FZKSENCURRENTALLEGROQS2439X87P635](http://oom.lt/FZKSENCURRENTALLEGROQS2439X87P635)
   
 
-|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Sensor_Current/Allegro_QSOP-24_3.9x8.7mm_P0.635mm/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Current/Allegro_QSOP-24_3.9x8.7mm_P0.635mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Current/Allegro_QSOP-24_3.9x8.7mm_P0.635mm/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

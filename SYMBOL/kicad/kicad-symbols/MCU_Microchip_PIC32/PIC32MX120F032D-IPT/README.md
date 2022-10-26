@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC32PIC32MX12F32DIPT](http://oom.lt/SZKMCUMCHIPPIC32PIC32MX12F32DIPT)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC32/PIC32MX120F032D-IPT/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC32/PIC32MX120F032D-IPT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC32/PIC32MX120F032D-IPT/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

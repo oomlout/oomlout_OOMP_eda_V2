@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKRELAYDIPXX2AXX21X](http://oom.lt/SZKRELAYDIPXX2AXX21X)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Relay/DIPxx-2Axx-21x/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Relay/DIPxx-2Axx-21x/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Relay/DIPxx-2Axx-21x/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

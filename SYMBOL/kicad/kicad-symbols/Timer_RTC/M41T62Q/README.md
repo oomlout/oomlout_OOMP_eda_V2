@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKTIMERRTCM41T62Q](http://oom.lt/SZKTIMERRTCM41T62Q)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Timer_RTC/M41T62Q/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Timer_RTC/M41T62Q/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Timer_RTC/M41T62Q/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

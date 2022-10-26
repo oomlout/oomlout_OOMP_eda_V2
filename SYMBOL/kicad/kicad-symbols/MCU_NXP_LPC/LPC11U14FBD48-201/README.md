@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKMCUNXPLPCLPC11U14FBD4821](http://oom.lt/SZKMCUNXPLPCLPC11U14FBD4821)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_NXP_LPC/LPC11U14FBD48-201/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_LPC/LPC11U14FBD48-201/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_LPC/LPC11U14FBD48-201/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

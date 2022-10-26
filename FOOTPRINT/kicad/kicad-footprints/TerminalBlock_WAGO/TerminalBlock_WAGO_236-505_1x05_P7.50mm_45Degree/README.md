@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/FZKTBWAGOTBWAGO236551X5P7545DEGREE](http://oom.lt/FZKTBWAGOTBWAGO236551X5P7545DEGREE)
   
 
-|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_WAGO/TerminalBlock_WAGO_236-505_1x05_P7.50mm_45Degree/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_WAGO/TerminalBlock_WAGO_236-505_1x05_P7.50mm_45Degree/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_WAGO/TerminalBlock_WAGO_236-505_1x05_P7.50mm_45Degree/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

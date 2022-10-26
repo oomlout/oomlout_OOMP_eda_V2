@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKPOWERSUPERVISORMCP12XXXGXTO](http://oom.lt/SZKPOWERSUPERVISORMCP12XXXGXTO)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Power_Supervisor/MCP120-xxxGxTO/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Power_Supervisor/MCP120-xxxGxTO/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Power_Supervisor/MCP120-xxxGxTO/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

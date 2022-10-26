@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/FZKSZOSHWL75X8C](http://oom.lt/FZKSZOSHWL75X8C)
   
 
-|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Symbol/OSHW-Logo_7.5x8mm_Copper/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Symbol/OSHW-Logo_7.5x8mm_Copper/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Symbol/OSHW-Logo_7.5x8mm_Copper/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

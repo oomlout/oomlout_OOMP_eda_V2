@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKLAPA1222](http://oom.lt/SZKLAPA1222)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/LED/APA102-2020/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/LED/APA102-2020/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/LED/APA102-2020/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

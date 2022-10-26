@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKINTERFACEEXPANSIONMCP23S17ML](http://oom.lt/SZKINTERFACEEXPANSIONMCP23S17ML)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_Expansion/MCP23S17_ML/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_Expansion/MCP23S17_ML/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_Expansion/MCP23S17_ML/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

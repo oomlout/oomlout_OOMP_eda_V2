@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKMEMORYEEPROMCAT24M1Y](http://oom.lt/SZKMEMORYEEPROMCAT24M1Y)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Memory_EEPROM/CAT24M01Y/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_EEPROM/CAT24M01Y/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_EEPROM/CAT24M01Y/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKCONRAC533SK](http://oom.lt/SZKCONRAC533SK)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_ACDC/RAC05-3.3SK/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Converter_ACDC/RAC05-3.3SK/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Converter_ACDC/RAC05-3.3SK/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

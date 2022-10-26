@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/FZKTBPHOENIXTBPHOENIXPTSM58HV25SM1X81MPP25VERTICAL](http://oom.lt/FZKTBPHOENIXTBPHOENIXPTSM58HV25SM1X81MPP25VERTICAL)
   
 
-|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_Phoenix/TerminalBlock_Phoenix_PTSM-0,5-8-HV-2.5-SMD_1x08-1MP_P2.50mm_Vertical/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_Phoenix/TerminalBlock_Phoenix_PTSM-0,5-8-HV-2.5-SMD_1x08-1MP_P2.50mm_Vertical/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_Phoenix/TerminalBlock_Phoenix_PTSM-0,5-8-HV-2.5-SMD_1x08-1MP_P2.50mm_Vertical/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

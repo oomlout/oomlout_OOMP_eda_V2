@@ -13,7 +13,7 @@
 - Short Link: [http://oom.lt/FZKOPAGILENTHFBR252X](http://oom.lt/FZKOPAGILENTHFBR252X)
   
 
-|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/OptoDevice/AGILENT_HFBR-252x/image.png|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/OptoDevice/AGILENT_HFBR-252x/kicadPcb3dFront.png|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/OptoDevice/AGILENT_HFBR-252x/kicadPcb3dBack.png|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/OptoDevice/AGILENT_HFBR-252x/kicadPcb3d.png|
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/OptoDevice/AGILENT_HFBR-252x/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/OptoDevice/AGILENT_HFBR-252x/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/OptoDevice/AGILENT_HFBR-252x/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/OptoDevice/AGILENT_HFBR-252x/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/OptoDevice/AGILENT_HFBR-252x/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/OptoDevice/AGILENT_HFBR-252x/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/OptoDevice/AGILENT_HFBR-252x/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/OptoDevice/AGILENT_HFBR-252x/kicadPcb3d.png)|
 | :---: | :---: | :---: | :---: |
 |||||
 

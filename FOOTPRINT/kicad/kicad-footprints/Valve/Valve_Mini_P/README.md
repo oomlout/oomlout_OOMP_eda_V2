@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/FZKVAVAMP](http://oom.lt/FZKVAVAMP)
   
 
-|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Valve/Valve_Mini_P/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Valve/Valve_Mini_P/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Valve/Valve_Mini_P/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

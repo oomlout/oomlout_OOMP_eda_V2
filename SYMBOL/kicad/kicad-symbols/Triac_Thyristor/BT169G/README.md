@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKTRIACTHYRISTORBT169G](http://oom.lt/SZKTRIACTHYRISTORBT169G)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Triac_Thyristor/BT169G/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Triac_Thyristor/BT169G/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Triac_Thyristor/BT169G/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

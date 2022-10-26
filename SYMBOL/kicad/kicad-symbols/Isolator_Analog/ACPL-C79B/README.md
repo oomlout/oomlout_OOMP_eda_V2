@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKISOLATORANALOGACPLC79B](http://oom.lt/SZKISOLATORANALOGACPLC79B)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Isolator_Analog/ACPL-C79B/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Isolator_Analog/ACPL-C79B/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Isolator_Analog/ACPL-C79B/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

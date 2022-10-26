@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKMCUMCHIPSAMEATSAME7J19AAN](http://oom.lt/SZKMCUMCHIPSAMEATSAME7J19AAN)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_SAME/ATSAME70J19A-AN/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_SAME/ATSAME70J19A-AN/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_SAME/ATSAME70J19A-AN/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

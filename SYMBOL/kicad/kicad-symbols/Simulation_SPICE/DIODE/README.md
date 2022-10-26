@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKSIMULATIONSPICEDIODE](http://oom.lt/SZKSIMULATIONSPICEDIODE)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Simulation_SPICE/DIODE/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Simulation_SPICE/DIODE/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Simulation_SPICE/DIODE/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

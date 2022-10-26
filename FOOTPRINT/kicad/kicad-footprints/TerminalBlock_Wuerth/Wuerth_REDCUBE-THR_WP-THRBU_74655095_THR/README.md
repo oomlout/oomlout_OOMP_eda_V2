@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/FZKTBWUERTHWUERTHREDCUBETHRWPTHRBU7465595THR](http://oom.lt/FZKTBWUERTHWUERTHREDCUBETHRWPTHRBU7465595THR)
   
 
-|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_Wuerth/Wuerth_REDCUBE-THR_WP-THRBU_74655095_THR/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_Wuerth/Wuerth_REDCUBE-THR_WP-THRBU_74655095_THR/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_Wuerth/Wuerth_REDCUBE-THR_WP-THRBU_74655095_THR/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

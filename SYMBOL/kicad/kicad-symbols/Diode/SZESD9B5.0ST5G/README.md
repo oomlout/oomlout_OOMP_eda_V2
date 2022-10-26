@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKDIODESZESD9B5ST5G](http://oom.lt/SZKDIODESZESD9B5ST5G)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode/SZESD9B5.0ST5G/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/SZESD9B5.0ST5G/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/SZESD9B5.0ST5G/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

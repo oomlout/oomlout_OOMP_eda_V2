@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/FZKTPTPKEYSTONE515INATURE](http://oom.lt/FZKTPTPKEYSTONE515INATURE)
   
 
-|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/TestPoint/TestPoint_Keystone_5015_Micro-Minature/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/TestPoint/TestPoint_Keystone_5015_Micro-Minature/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/TestPoint/TestPoint_Keystone_5015_Micro-Minature/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

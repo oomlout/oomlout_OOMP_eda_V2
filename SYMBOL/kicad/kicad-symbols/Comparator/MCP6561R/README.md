@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKCOMPARATORMCP6561R](http://oom.lt/SZKCOMPARATORMCP6561R)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Comparator/MCP6561R/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Comparator/MCP6561R/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Comparator/MCP6561R/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

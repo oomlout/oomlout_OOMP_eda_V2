@@ -13,7 +13,7 @@
 - Short Link: [http://oom.lt/FZKOPONSEMICASE1CY](http://oom.lt/FZKOPONSEMICASE1CY)
   
 
-|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/OptoDevice/OnSemi_CASE100CY/image.png|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/OptoDevice/OnSemi_CASE100CY/kicadPcb3dFront.png|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/OptoDevice/OnSemi_CASE100CY/kicadPcb3dBack.png|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/OptoDevice/OnSemi_CASE100CY/kicadPcb3d.png|
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/OptoDevice/OnSemi_CASE100CY/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/OptoDevice/OnSemi_CASE100CY/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/OptoDevice/OnSemi_CASE100CY/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/OptoDevice/OnSemi_CASE100CY/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/OptoDevice/OnSemi_CASE100CY/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/OptoDevice/OnSemi_CASE100CY/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/OptoDevice/OnSemi_CASE100CY/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/OptoDevice/OnSemi_CASE100CY/kicadPcb3d.png)|
 | :---: | :---: | :---: | :---: |
 |||||
 

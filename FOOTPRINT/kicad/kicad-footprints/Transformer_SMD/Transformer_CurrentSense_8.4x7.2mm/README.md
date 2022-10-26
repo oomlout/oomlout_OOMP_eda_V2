@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/FZKTRSMTRCURRENTSENSE84X72](http://oom.lt/FZKTRSMTRCURRENTSENSE84X72)
   
 
-|oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Transformer_SMD/Transformer_CurrentSense_8.4x7.2mm/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Transformer_SMD/Transformer_CurrentSense_8.4x7.2mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Transformer_SMD/Transformer_CurrentSense_8.4x7.2mm/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

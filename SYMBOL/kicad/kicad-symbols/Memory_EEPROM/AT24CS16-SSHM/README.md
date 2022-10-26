@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKMEMORYEEPROMAT24CS16SSHM](http://oom.lt/SZKMEMORYEEPROMAT24CS16SSHM)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Memory_EEPROM/AT24CS16-SSHM/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_EEPROM/AT24CS16-SSHM/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_EEPROM/AT24CS16-SSHM/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

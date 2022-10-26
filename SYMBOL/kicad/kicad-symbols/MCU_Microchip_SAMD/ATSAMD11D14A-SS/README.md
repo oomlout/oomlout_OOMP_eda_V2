@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKMCUMCHIPSAMDATSAMD11D14ASS](http://oom.lt/SZKMCUMCHIPSAMDATSAMD11D14ASS)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_SAMD/ATSAMD11D14A-SS/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_SAMD/ATSAMD11D14A-SS/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_SAMD/ATSAMD11D14A-SS/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

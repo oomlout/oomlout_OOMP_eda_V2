@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKCNDIN416122X5ZBEVENPINS](http://oom.lt/SZKCNDIN416122X5ZBEVENPINS)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/DIN41612_02x05_ZB_EvenPins/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/DIN41612_02x05_ZB_EvenPins/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/DIN41612_02x05_ZB_EvenPins/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

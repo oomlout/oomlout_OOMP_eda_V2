@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKCPLDALTERAEPM221F256](http://oom.lt/SZKCPLDALTERAEPM221F256)
   
 
-|oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/CPLD_Altera/EPM2210F256/image.png||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/CPLD_Altera/EPM2210F256/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/CPLD_Altera/EPM2210F256/image.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
