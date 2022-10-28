@@ -1,0 +1,57 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "smd",
+            "description": "https://www.nxp.com/docs/en/data-sheet/MPXH6250A.pdf",
+            "name": "Freescale_98ARH99089A",
+            "pins": {
+                "shape": "rect",
+                "type": "smd"
+            },
+            "tags": "sensor pressure ssop 98ARH99089A",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/Sensor_Pressure.3dshapes/Freescale_98ARH99089A.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKSENPRESSUREFREESCALE98ARH9989A"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Sensor_Pressure : Freescale_98ARH99089A"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Sensor_Pressure"
+    ],
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Sensor_Pressure-Freescale_98ARH99089A"
+    ],
+    "oompIndex": [
+        "Freescale_98ARH99089A"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

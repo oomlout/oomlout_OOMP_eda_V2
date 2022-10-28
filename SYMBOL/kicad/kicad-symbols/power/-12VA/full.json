@@ -1,0 +1,80 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKPOWER12VA"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "power : -12VA"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "power"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/power/-12VA/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/power/-12VA/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/power/-12VA/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/power/-12VA/details.py"
+        ],
+        "imagePng": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/power/-12VA/image.png"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/power/-12VA/basic.json"
+        ],
+        "readme": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/power/-12VA/README.md"
+        ]
+    },
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-power--12VA"
+    ],
+    "oompIndex": [
+        "-12VA"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "",
+                "kicadSymbolReference": "#PWR",
+                "kicadSymbolValue": "-12VA",
+                "kicadSymbolki_description": "Power symbol creates a global label with name \"-12VA\"",
+                "kicadSymbolki_keywords": "power-flag"
+            }
+        ]
+    ]
+}

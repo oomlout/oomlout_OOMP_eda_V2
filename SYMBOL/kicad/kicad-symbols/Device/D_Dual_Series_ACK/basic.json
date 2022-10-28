@@ -1,0 +1,57 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKDEVICEDDUALSERIESACK"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Device : D_Dual_Series_ACK"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Device"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Device-D_Dual_Series_ACK"
+    ],
+    "oompIndex": [
+        "D_Dual_Series_ACK"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "~",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "",
+                "kicadSymbolReference": "D",
+                "kicadSymbolValue": "D_Dual_Series_ACK",
+                "kicadSymbolki_description": "Dual diode, anode/center/cathode",
+                "kicadSymbolki_keywords": "diode"
+            }
+        ]
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "smd",
+            "description": "Halo N5 SO, 16 Pin (https://www.haloelectronics.com/pdf/discrete-ultra-100baset.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py",
+            "name": "Transformer_Ethernet_Halo_N5_SO-16_7.11x12.7mm",
+            "pins": {
+                "shape": "roundrect",
+                "type": "smd"
+            },
+            "tags": "Halo SO Transformer_SMD",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/Transformer_SMD.3dshapes/Transformer_Ethernet_Halo_N5_SO-16_7.11x12.7mm.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKTRSMTRETHERNETHALON5SO16711X127"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Transformer_SMD : Transformer_Ethernet_Halo_N5_SO-16_7.11x12.7mm"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Transformer_SMD"
+    ],
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Transformer_Ethernet_Halo_N5_SO-16_7.11x12.7mm"
+    ],
+    "oompIndex": [
+        "Transformer_Ethernet_Halo_N5_SO-16_7.11x12.7mm"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

@@ -1,0 +1,89 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "smd",
+            "description": "WLCSP-16, 1.409x1.409mm, 16 Ball, 4x4 Layout, 0.35mm Pitch, http://www.latticesemi.com/view_document?document_id=213",
+            "name": "WLCSP-16_1.409x1.409mm_P0.35mm",
+            "pins": {
+                "shape": "circle",
+                "type": "smd"
+            },
+            "tags": "CSP 16 0.35",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/Package_CSP.3dshapes/WLCSP-16_1.409x1.409mm_P0.35mm.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKCSPWLCSP16149X149P35"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Package_CSP : WLCSP-16_1.409x1.409mm_P0.35mm"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Package_CSP"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_CSP/WLCSP-16_1.409x1.409mm_P0.35mm/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_CSP/WLCSP-16_1.409x1.409mm_P0.35mm/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_CSP/WLCSP-16_1.409x1.409mm_P0.35mm/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_CSP/WLCSP-16_1.409x1.409mm_P0.35mm/details.py"
+        ],
+        "imagePng": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_CSP/WLCSP-16_1.409x1.409mm_P0.35mm/image.png"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_CSP/WLCSP-16_1.409x1.409mm_P0.35mm/basic.json"
+        ],
+        "kicadPcb3d": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_CSP/WLCSP-16_1.409x1.409mm_P0.35mm/kicadPcb3d.png"
+        ],
+        "kicadPcb3dBack": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_CSP/WLCSP-16_1.409x1.409mm_P0.35mm/kicadPcb3dBack.png"
+        ],
+        "kicadPcb3dFront": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_CSP/WLCSP-16_1.409x1.409mm_P0.35mm/kicadPcb3dFront.png"
+        ],
+        "readme": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_CSP/WLCSP-16_1.409x1.409mm_P0.35mm/README.md"
+        ]
+    },
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Package_CSP-WLCSP-16_1.409x1.409mm_P0.35mm"
+    ],
+    "oompIndex": [
+        "WLCSP-16_1.409x1.409mm_P0.35mm"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

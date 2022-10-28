@@ -1,0 +1,81 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKISOLATORCNY174"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Isolator : CNY17-4"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Isolator"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Isolator/CNY17-4/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Isolator/CNY17-4/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Isolator/CNY17-4/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Isolator/CNY17-4/details.py"
+        ],
+        "imagePng": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Isolator/CNY17-4/image.png"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Isolator/CNY17-4/basic.json"
+        ],
+        "readme": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Isolator/CNY17-4/README.md"
+        ]
+    },
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Isolator-CNY17-4"
+    ],
+    "oompIndex": [
+        "CNY17-4"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.vishay.com/docs/83606/cny17.pdf",
+                "kicadSymbolExtends": "CNY17-1",
+                "kicadSymbolFootprint": "",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "CNY17-4",
+                "kicadSymbolki_description": "DC Optocoupler Base Connected, Vce 70V, CTR 160-320%, Viso 5000V (RMS), DIP6",
+                "kicadSymbolki_fp_filters": "DIP*W7.62mm* DIP*W10.16mm* SMDIP*W9.53mm*",
+                "kicadSymbolki_keywords": "NPN DC Optocoupler Base Connected"
+            }
+        ]
+    ]
+}

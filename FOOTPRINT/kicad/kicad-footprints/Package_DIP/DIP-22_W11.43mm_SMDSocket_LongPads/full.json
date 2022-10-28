@@ -1,0 +1,89 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "smd",
+            "description": "22-lead though-hole mounted DIP package, row spacing 11.43 mm (450 mils), SMDSocket, LongPads",
+            "name": "DIP-22_W11.43mm_SMDSocket_LongPads",
+            "pins": {
+                "shape": "rect",
+                "type": "smd"
+            },
+            "tags": "THT DIP DIL PDIP 2.54mm 11.43mm 450mil SMDSocket LongPads",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/Package_DIP.3dshapes/DIP-22_W11.43mm_SMDSocket.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKDIPDIP22W1143SMSOL"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Package_DIP : DIP-22_W11.43mm_SMDSocket_LongPads"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Package_DIP"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DIP/DIP-22_W11.43mm_SMDSocket_LongPads/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DIP/DIP-22_W11.43mm_SMDSocket_LongPads/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DIP/DIP-22_W11.43mm_SMDSocket_LongPads/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DIP/DIP-22_W11.43mm_SMDSocket_LongPads/details.py"
+        ],
+        "imagePng": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DIP/DIP-22_W11.43mm_SMDSocket_LongPads/image.png"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DIP/DIP-22_W11.43mm_SMDSocket_LongPads/basic.json"
+        ],
+        "kicadPcb3d": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DIP/DIP-22_W11.43mm_SMDSocket_LongPads/kicadPcb3d.png"
+        ],
+        "kicadPcb3dBack": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DIP/DIP-22_W11.43mm_SMDSocket_LongPads/kicadPcb3dBack.png"
+        ],
+        "kicadPcb3dFront": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DIP/DIP-22_W11.43mm_SMDSocket_LongPads/kicadPcb3dFront.png"
+        ],
+        "readme": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DIP/DIP-22_W11.43mm_SMDSocket_LongPads/README.md"
+        ]
+    },
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Package_DIP-DIP-22_W11.43mm_SMDSocket_LongPads"
+    ],
+    "oompIndex": [
+        "DIP-22_W11.43mm_SMDSocket_LongPads"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

@@ -1,0 +1,85 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": null,
+            "description": "Gauge, Massstab, 100mm, SilkScreenTop, Type 2,",
+            "name": "Gauge_100mm_Type2_SilkScreenTop",
+            "pins": {},
+            "tags": "Gauge Massstab 100mm SilkScreenTop Type 2"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKCSGAUGE1TYPE2SILKSCREENTOP"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Calibration_Scale : Gauge_100mm_Type2_SilkScreenTop"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Calibration_Scale"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Calibration_Scale/Gauge_100mm_Type2_SilkScreenTop/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Calibration_Scale/Gauge_100mm_Type2_SilkScreenTop/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Calibration_Scale/Gauge_100mm_Type2_SilkScreenTop/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Calibration_Scale/Gauge_100mm_Type2_SilkScreenTop/details.py"
+        ],
+        "imagePng": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Calibration_Scale/Gauge_100mm_Type2_SilkScreenTop/image.png"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Calibration_Scale/Gauge_100mm_Type2_SilkScreenTop/basic.json"
+        ],
+        "kicadPcb3d": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Calibration_Scale/Gauge_100mm_Type2_SilkScreenTop/kicadPcb3d.png"
+        ],
+        "kicadPcb3dBack": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Calibration_Scale/Gauge_100mm_Type2_SilkScreenTop/kicadPcb3dBack.png"
+        ],
+        "kicadPcb3dFront": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Calibration_Scale/Gauge_100mm_Type2_SilkScreenTop/kicadPcb3dFront.png"
+        ],
+        "readme": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Calibration_Scale/Gauge_100mm_Type2_SilkScreenTop/README.md"
+        ]
+    },
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Calibration_Scale-Gauge_100mm_Type2_SilkScreenTop"
+    ],
+    "oompIndex": [
+        "Gauge_100mm_Type2_SilkScreenTop"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKSENOPTICALS5973"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Sensor_Optical : S5973"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Sensor_Optical"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Sensor_Optical-S5973"
+    ],
+    "oompIndex": [
+        "S5973"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.hamamatsu.com/resources/pdf/ssd/s5971_etc_kpin1025e.pdf",
+                "kicadSymbolExtends": "S5971",
+                "kicadSymbolFootprint": "Package_TO_SOT_THT:TO-18-3",
+                "kicadSymbolReference": "D",
+                "kicadSymbolValue": "S5973",
+                "kicadSymbolki_description": "Si PIN Photodiode, 1 GHz, TO-18-3",
+                "kicadSymbolki_fp_filters": "TO?18*",
+                "kicadSymbolki_keywords": "opto photodiode"
+            }
+        ]
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKSENOPTICALTEPT44"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Sensor_Optical : TEPT4400"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Sensor_Optical"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Optical/TEPT4400/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Optical/TEPT4400/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Optical/TEPT4400/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Optical/TEPT4400/details.py"
+        ],
+        "imagePng": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Optical/TEPT4400/image.png"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Optical/TEPT4400/basic.json"
+        ],
+        "readme": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Optical/TEPT4400/README.md"
+        ]
+    },
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Sensor_Optical-TEPT4400"
+    ],
+    "oompIndex": [
+        "TEPT4400"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.vishay.com/docs/81341/tept4400.pdf",
+                "kicadSymbolExtends": "SFH309",
+                "kicadSymbolFootprint": "LED_THT:LED_D3.0mm_Clear",
+                "kicadSymbolReference": "Q",
+                "kicadSymbolValue": "TEPT4400",
+                "kicadSymbolki_description": "Ambient Light Sensor, NPN Epitaxial Planar Phototransistor, T-1",
+                "kicadSymbolki_fp_filters": "LED*3.0mm*Clear*",
+                "kicadSymbolki_keywords": "npn phototransistor ambient light sensor"
+            }
+        ]
+    ]
+}

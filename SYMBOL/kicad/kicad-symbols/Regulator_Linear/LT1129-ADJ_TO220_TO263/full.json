@@ -1,0 +1,81 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKREGULATORLINEARLT1129ADJTO22TO263"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Regulator_Linear : LT1129-ADJ_TO220_TO263"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Regulator_Linear"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LT1129-ADJ_TO220_TO263/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LT1129-ADJ_TO220_TO263/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LT1129-ADJ_TO220_TO263/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LT1129-ADJ_TO220_TO263/details.py"
+        ],
+        "imagePng": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LT1129-ADJ_TO220_TO263/image.png"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LT1129-ADJ_TO220_TO263/basic.json"
+        ],
+        "readme": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LT1129-ADJ_TO220_TO263/README.md"
+        ]
+    },
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT1129-ADJ_TO220_TO263"
+    ],
+    "oompIndex": [
+        "LT1129-ADJ_TO220_TO263"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/112935ff.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "LT1129-ADJ_TO220_TO263",
+                "kicadSymbolki_description": "700mA Micropower Low Dropout Linear Regulator, adjustable output voltage, TO-220-5/TO-263-5",
+                "kicadSymbolki_fp_filters": "TO?220*Vertical*StaggerOdd* TO?263*TabPin3*",
+                "kicadSymbolki_keywords": "LDO Linear Regulator positive adjustable"
+            }
+        ]
+    ]
+}

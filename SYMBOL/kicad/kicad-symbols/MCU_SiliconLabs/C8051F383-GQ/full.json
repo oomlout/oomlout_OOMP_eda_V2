@@ -1,0 +1,81 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKMCUSILICONLABSC851F383GQ"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "MCU_SiliconLabs : C8051F383-GQ"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "MCU_SiliconLabs"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_SiliconLabs/C8051F383-GQ/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_SiliconLabs/C8051F383-GQ/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_SiliconLabs/C8051F383-GQ/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_SiliconLabs/C8051F383-GQ/details.py"
+        ],
+        "imagePng": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_SiliconLabs/C8051F383-GQ/image.png"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_SiliconLabs/C8051F383-GQ/basic.json"
+        ],
+        "readme": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_SiliconLabs/C8051F383-GQ/README.md"
+        ]
+    },
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-MCU_SiliconLabs-C8051F383-GQ"
+    ],
+    "oompIndex": [
+        "C8051F383-GQ"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.silabs.com/documents/public/data-sheets/C8051F38x.pdf",
+                "kicadSymbolExtends": "C8051F381-GQ",
+                "kicadSymbolFootprint": "Package_QFP:LQFP-32_7x7mm_P0.8mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "C8051F383-GQ",
+                "kicadSymbolki_description": "Full Speed USB Flash MCU Family, 32k flash, 2304 ram, 25 IO, ADC, Temperature, VREF, LQFP-32",
+                "kicadSymbolki_fp_filters": "LQFP*7x7mm*P0.8mm*",
+                "kicadSymbolki_keywords": "8051 microcontroller PCA UART USB SPI I2C ADC LQFP32"
+            }
+        ]
+    ]
+}

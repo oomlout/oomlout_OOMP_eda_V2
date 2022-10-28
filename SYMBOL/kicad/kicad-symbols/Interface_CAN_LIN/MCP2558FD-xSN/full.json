@@ -1,0 +1,81 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKINTERFACECANLINMCP2558FDXSN"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Interface_CAN_LIN : MCP2558FD-xSN"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Interface_CAN_LIN"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_CAN_LIN/MCP2558FD-xSN/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_CAN_LIN/MCP2558FD-xSN/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_CAN_LIN/MCP2558FD-xSN/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_CAN_LIN/MCP2558FD-xSN/details.py"
+        ],
+        "imagePng": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_CAN_LIN/MCP2558FD-xSN/image.png"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_CAN_LIN/MCP2558FD-xSN/basic.json"
+        ],
+        "readme": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_CAN_LIN/MCP2558FD-xSN/README.md"
+        ]
+    },
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-MCP2558FD-xSN"
+    ],
+    "oompIndex": [
+        "MCP2558FD-xSN"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://ww1.microchip.com/downloads/en/DeviceDoc/20005533A.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "MCP2558FD-xSN",
+                "kicadSymbolki_description": "CAN FD Transceiver with Silent Mode, up to 8 Mbps, SOIC-8",
+                "kicadSymbolki_fp_filters": "SOIC*3.9x4.9*P1.27mm*",
+                "kicadSymbolki_keywords": "CAN FD Transceiver"
+            }
+        ]
+    ]
+}

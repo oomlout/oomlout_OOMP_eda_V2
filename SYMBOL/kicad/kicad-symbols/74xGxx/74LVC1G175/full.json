@@ -1,0 +1,81 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZK74XGXX74LVC1G175"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "74xGxx : 74LVC1G175"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "74xGxx"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/74xGxx/74LVC1G175/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/74xGxx/74LVC1G175/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/74xGxx/74LVC1G175/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/74xGxx/74LVC1G175/details.py"
+        ],
+        "imagePng": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/74xGxx/74LVC1G175/image.png"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/74xGxx/74LVC1G175/basic.json"
+        ],
+        "readme": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/74xGxx/74LVC1G175/README.md"
+        ]
+    },
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-74xGxx-74LVC1G175"
+    ],
+    "oompIndex": [
+        "74LVC1G175"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "74LVC1G175",
+                "kicadSymbolki_description": "Single D Flip-Flop w/ Asnynchronus Clear, Low-Voltage CMOS",
+                "kicadSymbolki_fp_filters": "SOT* SC*",
+                "kicadSymbolki_keywords": "Single D Flip-Flop Clear CMOS"
+            }
+        ]
+    ]
+}

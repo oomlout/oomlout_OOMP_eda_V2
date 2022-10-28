@@ -1,0 +1,57 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "through_hole",
+            "description": "48-lead though-hole mounted DIP package, row spacing 15.24 mm (600 mils), LongPads",
+            "name": "DIP-48_W15.24mm_LongPads",
+            "pins": {
+                "shape": "rect",
+                "type": "thru_hole"
+            },
+            "tags": "THT DIP DIL PDIP 2.54mm 15.24mm 600mil LongPads",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/Package_DIP.3dshapes/DIP-48_W15.24mm.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKDIPDIP48W1524L"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Package_DIP : DIP-48_W15.24mm_LongPads"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Package_DIP"
+    ],
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Package_DIP-DIP-48_W15.24mm_LongPads"
+    ],
+    "oompIndex": [
+        "DIP-48_W15.24mm_LongPads"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

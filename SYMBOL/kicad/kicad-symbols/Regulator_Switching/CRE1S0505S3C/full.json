@@ -1,0 +1,81 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKREGULATORSWITCHINGCRE1S55S3C"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Regulator_Switching : CRE1S0505S3C"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Regulator_Switching"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/CRE1S0505S3C/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/CRE1S0505S3C/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/CRE1S0505S3C/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/CRE1S0505S3C/details.py"
+        ],
+        "imagePng": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/CRE1S0505S3C/image.png"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/CRE1S0505S3C/basic.json"
+        ],
+        "readme": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/CRE1S0505S3C/README.md"
+        ]
+    },
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Regulator_Switching-CRE1S0505S3C"
+    ],
+    "oompIndex": [
+        "CRE1S0505S3C"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://power.murata.com/datasheet?/data/power/ncl/kdc_cre1.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Converter_DCDC:Converter_DCDC_Murata_CRE1xxxxxx3C_THT",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "CRE1S0505S3C",
+                "kicadSymbolki_description": "5V to 5V 200mA, Isolated 2W Single-Output DC-DC Converter Modules with 3kV isolation, SIP-4",
+                "kicadSymbolki_fp_filters": "Converter*DCDC*Murata*CRE1xxxxxx3C*",
+                "kicadSymbolki_keywords": "Murata isolated isolation dc-dc converter transformer"
+            }
+        ]
+    ]
+}

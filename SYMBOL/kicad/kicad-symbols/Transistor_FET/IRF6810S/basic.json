@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKTRANSISTORFETIRF681S"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Transistor_FET : IRF6810S"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Transistor_FET"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF6810S"
+    ],
+    "oompIndex": [
+        "IRF6810S"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.infineon.com/dgdl/irf6810spbf.pdf?fileId=5546d462533600a4015355f0ab331ab4",
+                "kicadSymbolExtends": "IRF6710S2",
+                "kicadSymbolFootprint": "Package_DirectFET:DirectFET_S1",
+                "kicadSymbolReference": "Q",
+                "kicadSymbolValue": "IRF6810S",
+                "kicadSymbolki_description": "16A Id, 25V Vds, 5.2mOhm Rds, N-Channel MOSFET, DirectFET S1",
+                "kicadSymbolki_fp_filters": "DirectFET*S1*",
+                "kicadSymbolki_keywords": "N-Channel MOSFET"
+            }
+        ]
+    ]
+}

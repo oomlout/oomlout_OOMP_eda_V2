@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKCOMPARATORMCP6566R"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Comparator : MCP6566R"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Comparator"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Comparator-MCP6566R"
+    ],
+    "oompIndex": [
+        "MCP6566R"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/MCP6566-6R-6U-7-9-1.8V-Low-Power-Open-Drain-Output-Comparator-DS20002143G.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_TO_SOT_SMD:SOT-23-5",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "MCP6566R",
+                "kicadSymbolki_description": "Single 1.8V Low-Power Open-Drain Output Comparator, SOT-23-5",
+                "kicadSymbolki_fp_filters": "SOT?23*",
+                "kicadSymbolki_keywords": "cmp collector"
+            }
+        ]
+    ]
+}

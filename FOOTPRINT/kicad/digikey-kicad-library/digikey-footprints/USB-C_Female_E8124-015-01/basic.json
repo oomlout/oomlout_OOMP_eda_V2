@@ -1,0 +1,56 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "smd",
+            "description": "https://www.digikey.com/product-detail/en/pulse-electronics-network/E8124-015-01/553-3195-2-ND/5800435",
+            "name": "USB-C_Female_E8124-015-01",
+            "pins": {
+                "shape": "rect",
+                "type": "smd"
+            },
+            "tags": null
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSUCFEMALEE8124151"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "digikey-footprints : USB-C_Female_E8124-015-01"
+    ],
+    "oompColor": [
+        "digikey-kicad-library"
+    ],
+    "oompDesc": [
+        "digikey-footprints"
+    ],
+    "oompID": [
+        "FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-USB-C_Female_E8124-015-01"
+    ],
+    "oompIndex": [
+        "USB-C_Female_E8124-015-01"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

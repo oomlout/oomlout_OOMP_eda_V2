@@ -1,0 +1,81 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKISOLATORMAX1485ASE+"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Isolator : MAX14850ASE+"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Isolator"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Isolator/MAX14850ASE+/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Isolator/MAX14850ASE+/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Isolator/MAX14850ASE+/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Isolator/MAX14850ASE+/details.py"
+        ],
+        "imagePng": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Isolator/MAX14850ASE+/image.png"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Isolator/MAX14850ASE+/basic.json"
+        ],
+        "readme": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Isolator/MAX14850ASE+/README.md"
+        ]
+    },
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Isolator-MAX14850ASE+"
+    ],
+    "oompIndex": [
+        "MAX14850ASE+"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://datasheets.maximintegrated.com/en/ds/MAX14850.pdf",
+                "kicadSymbolExtends": "MAX14850AEE+",
+                "kicadSymbolFootprint": "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "MAX14850ASE+",
+                "kicadSymbolki_description": "Six-channel digital isolator, bidirectional, 3V3, 5V, SOIC-16",
+                "kicadSymbolki_fp_filters": "SOIC*3.9x9.9mm?P1.27mm*",
+                "kicadSymbolki_keywords": "6 channel digital isolator bidirectional"
+            }
+        ]
+    ]
+}

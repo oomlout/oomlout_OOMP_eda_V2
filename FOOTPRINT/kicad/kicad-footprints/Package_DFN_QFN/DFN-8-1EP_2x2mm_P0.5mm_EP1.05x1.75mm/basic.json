@@ -1,0 +1,57 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "smd",
+            "description": "DFN8 2x2, 0.5P; CASE 506CN (see ON Semiconductor 506CN.PDF)",
+            "name": "DFN-8-1EP_2x2mm_P0.5mm_EP1.05x1.75mm",
+            "pins": {
+                "shape": "rect",
+                "type": "smd"
+            },
+            "tags": "DFN 0.5",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/DFN-8-1EP_2x2mm_P0.5mm_EP1.05x1.75mm.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKDFNDFN81EP2X2P5EP15X175"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Package_DFN_QFN : DFN-8-1EP_2x2mm_P0.5mm_EP1.05x1.75mm"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Package_DFN_QFN"
+    ],
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-DFN-8-1EP_2x2mm_P0.5mm_EP1.05x1.75mm"
+    ],
+    "oompIndex": [
+        "DFN-8-1EP_2x2mm_P0.5mm_EP1.05x1.75mm"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

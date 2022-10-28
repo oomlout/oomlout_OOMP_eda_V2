@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKPOWERMANAGEMENTLTC4364HS"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Power_Management : LTC4364HS"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Power_Management"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Power_Management-LTC4364HS"
+    ],
+    "oompIndex": [
+        "LTC4364HS"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/436412f.pdf",
+                "kicadSymbolExtends": "LTC4364CS",
+                "kicadSymbolFootprint": "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "LTC4364HS",
+                "kicadSymbolki_description": "Surge stopper with ideal diode, UV and OV protection -40V to +80V in SOIC-16 package, -40\u00b0C to +125\u00b0C",
+                "kicadSymbolki_fp_filters": "SOIC*3.9x9.9mm*P1.27mm*",
+                "kicadSymbolki_keywords": "surge overvoltage undervoltage reverse-polarity protection diode ORing MOSFET driver"
+            }
+        ]
+    ]
+}

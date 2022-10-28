@@ -1,0 +1,81 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKREGULATORSWITCHINGLTC363AMSE"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Regulator_Switching : LTC3630AMSE"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Regulator_Switching"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LTC3630AMSE/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LTC3630AMSE/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LTC3630AMSE/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LTC3630AMSE/details.py"
+        ],
+        "imagePng": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LTC3630AMSE/image.png"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LTC3630AMSE/basic.json"
+        ],
+        "readme": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LTC3630AMSE/README.md"
+        ]
+    },
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Regulator_Switching-LTC3630AMSE"
+    ],
+    "oompIndex": [
+        "LTC3630AMSE"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/3630afc.pdf",
+                "kicadSymbolExtends": "LTC3630MSE",
+                "kicadSymbolFootprint": "Package_SO:Linear_MSOP-12-16-1EP_3x4mm_P0.5mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "LTC3630AMSE",
+                "kicadSymbolki_description": "High efficiency 76V 500mA synchronous step-down converter, MSOP-16(12)",
+                "kicadSymbolki_fp_filters": "Linear*MSOP*12*16*EP*3x4mm*P0.5mm*",
+                "kicadSymbolki_keywords": "buck dc-dc switcher switching"
+            }
+        ]
+    ]
+}

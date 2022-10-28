@@ -1,0 +1,89 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "through_hole",
+            "description": "STN/FSTN LCD 128x64 dot https://www.digchip.com/datasheets/parts/datasheet/1121/AG-12864E-pdf.php",
+            "name": "AG12864E",
+            "pins": {
+                "shape": "circle",
+                "type": "thru_hole"
+            },
+            "tags": "AG12864E Graphics Display 128x64 Ampire",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/Display.3dshapes/AG12864E.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKDIAG12864E"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Display : AG12864E"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Display"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Display/AG12864E/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Display/AG12864E/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Display/AG12864E/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Display/AG12864E/details.py"
+        ],
+        "imagePng": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Display/AG12864E/image.png"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Display/AG12864E/basic.json"
+        ],
+        "kicadPcb3d": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Display/AG12864E/kicadPcb3d.png"
+        ],
+        "kicadPcb3dBack": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Display/AG12864E/kicadPcb3dBack.png"
+        ],
+        "kicadPcb3dFront": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Display/AG12864E/kicadPcb3dFront.png"
+        ],
+        "readme": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Display/AG12864E/README.md"
+        ]
+    },
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Display-AG12864E"
+    ],
+    "oompIndex": [
+        "AG12864E"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

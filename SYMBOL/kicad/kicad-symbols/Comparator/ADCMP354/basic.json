@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKCOMPARATORADCMP354"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Comparator : ADCMP354"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Comparator"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Comparator-ADCMP354"
+    ],
+    "oompIndex": [
+        "ADCMP354"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/ADCMP350_354_356.pdf",
+                "kicadSymbolExtends": "ADCMP350",
+                "kicadSymbolFootprint": "Package_TO_SOT_SMD:Analog_KS-4",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "ADCMP354",
+                "kicadSymbolki_description": "Single-input comparator, internal 0.6V reference, Active-High Open-Drain output, KS-4",
+                "kicadSymbolki_fp_filters": "Analog*KS?4*",
+                "kicadSymbolki_keywords": "cmp collector"
+            }
+        ]
+    ]
+}

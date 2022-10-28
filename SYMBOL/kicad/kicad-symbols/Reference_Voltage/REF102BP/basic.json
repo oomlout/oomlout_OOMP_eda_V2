@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKREFERENCEVOLTAGEREF12BP"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Reference_Voltage : REF102BP"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Reference_Voltage"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Reference_Voltage-REF102BP"
+    ],
+    "oompIndex": [
+        "REF102BP"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.ti.com/lit/ds/symlink/ref102.pdf",
+                "kicadSymbolExtends": "REF102AP",
+                "kicadSymbolFootprint": "Package_DIP:DIP-8_W7.62mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "REF102BP",
+                "kicadSymbolki_description": "10V \u00b15mV Precision Voltage Reference, PDIP-8",
+                "kicadSymbolki_fp_filters": "DIP*W7.62mm*",
+                "kicadSymbolki_keywords": "Precision Voltage Reference 10V"
+            }
+        ]
+    ]
+}

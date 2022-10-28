@@ -1,0 +1,57 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "through_hole",
+            "description": "solder Pin_ diameter 1.0mm, hole diameter 1.0mm (press fit), length 10.0mm",
+            "name": "Pin_D1.0mm_L10.0mm",
+            "pins": {
+                "shape": "circle",
+                "type": "thru_hole"
+            },
+            "tags": "solder Pin_ press fit",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/Connector_Pin.3dshapes/Pin_D1.0mm_L10.0mm.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKCNPINPIND1L1"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Connector_Pin : Pin_D1.0mm_L10.0mm"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Connector_Pin"
+    ],
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Connector_Pin-Pin_D1.0mm_L10.0mm"
+    ],
+    "oompIndex": [
+        "Pin_D1.0mm_L10.0mm"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

@@ -1,0 +1,81 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKCONPTN78HEUS5"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Converter_DCDC : PTN78000H_EUS-5"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Converter_DCDC"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_DCDC/PTN78000H_EUS-5/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_DCDC/PTN78000H_EUS-5/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_DCDC/PTN78000H_EUS-5/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_DCDC/PTN78000H_EUS-5/details.py"
+        ],
+        "imagePng": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_DCDC/PTN78000H_EUS-5/image.png"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_DCDC/PTN78000H_EUS-5/basic.json"
+        ],
+        "readme": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_DCDC/PTN78000H_EUS-5/README.md"
+        ]
+    },
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Converter_DCDC-PTN78000H_EUS-5"
+    ],
+    "oompIndex": [
+        "PTN78000H_EUS-5"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.ti.com/lit/ds/symlink/ptn78000w.pdf",
+                "kicadSymbolExtends": "PTN78000W_EUS-5",
+                "kicadSymbolFootprint": "Module:Texas_EUS_R-PDSS-T5_THT",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "PTN78000H_EUS-5",
+                "kicadSymbolki_description": "1.5A non-isolated switching regulator power module, 7-36V input voltage, 11.85-22V output voltage, EUS-5",
+                "kicadSymbolki_fp_filters": "Texas*EUS*R?PDSS?T5*",
+                "kicadSymbolki_keywords": "texas dc-dc converter step down buck"
+            }
+        ]
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKTRANSISTORBJTBC846BPN"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Transistor_BJT : BC846BPN"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Transistor_BJT"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC846BPN"
+    ],
+    "oompIndex": [
+        "BC846BPN"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://assets.nexperia.com/documents/data-sheet/BC846BPN.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_TO_SOT_SMD:SOT-363_SC-70-6",
+                "kicadSymbolReference": "Q",
+                "kicadSymbolValue": "BC846BPN",
+                "kicadSymbolki_description": "100mA IC, 65V Vce, Dual NPN/PNP Transistors, SOT-363",
+                "kicadSymbolki_fp_filters": "SOT?363*",
+                "kicadSymbolki_keywords": "NPN/PNP Transistor",
+                "kicadSymbolki_locked": ""
+            }
+        ]
+    ]
+}

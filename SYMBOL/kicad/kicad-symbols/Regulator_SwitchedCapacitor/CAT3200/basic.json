@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKREGULATORSWITCHEDCAPACITORCAT32"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Regulator_SwitchedCapacitor : CAT3200"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Regulator_SwitchedCapacitor"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Regulator_SwitchedCapacitor-CAT3200"
+    ],
+    "oompIndex": [
+        "CAT3200"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.onsemi.com/pdf/datasheet/cat3200-d.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_SO:MSOP-8_3x3mm_P0.65mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "CAT3200",
+                "kicadSymbolki_description": "Low Noise Regulated Charge Pump DC-DC Converter, 100 mA, MSOP-8",
+                "kicadSymbolki_fp_filters": "MSOP*",
+                "kicadSymbolki_keywords": "switched capacitor charge pump"
+            }
+        ]
+    ]
+}

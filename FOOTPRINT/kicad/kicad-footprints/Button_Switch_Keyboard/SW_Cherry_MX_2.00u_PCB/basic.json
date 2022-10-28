@@ -1,0 +1,57 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "through_hole",
+            "description": "Cherry MX keyswitch, 2.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf",
+            "name": "SW_Cherry_MX_2.00u_PCB",
+            "pins": {
+                "shape": "circle",
+                "type": "np_thru_hole"
+            },
+            "tags": "Cherry MX keyswitch 2.00u PCB",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_2.00u_PCB.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKBSWCHERRYMX2UPCB"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Button_Switch_Keyboard : SW_Cherry_MX_2.00u_PCB"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Button_Switch_Keyboard"
+    ],
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Button_Switch_Keyboard-SW_Cherry_MX_2.00u_PCB"
+    ],
+    "oompIndex": [
+        "SW_Cherry_MX_2.00u_PCB"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

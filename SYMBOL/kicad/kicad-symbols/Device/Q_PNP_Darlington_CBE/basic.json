@@ -1,0 +1,57 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKDEVICEQPNPDARLINGTONCBE"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Device : Q_PNP_Darlington_CBE"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Device"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Device-Q_PNP_Darlington_CBE"
+    ],
+    "oompIndex": [
+        "Q_PNP_Darlington_CBE"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "~",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "",
+                "kicadSymbolReference": "Q",
+                "kicadSymbolValue": "Q_PNP_Darlington_CBE",
+                "kicadSymbolki_description": "PNP Darlington transistor, collector/base/emitter",
+                "kicadSymbolki_keywords": "transistor PNP Darlington"
+            }
+        ]
+    ]
+}

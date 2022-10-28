@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKTRANSISTORFETSTD7NK4Z"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Transistor_FET : STD7NK40Z"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Transistor_FET"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Transistor_FET-STD7NK40Z"
+    ],
+    "oompIndex": [
+        "STD7NK40Z"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.st.com/resource/en/datasheet/std7nk40zt4.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_TO_SOT_SMD:TO-252-2",
+                "kicadSymbolReference": "Q",
+                "kicadSymbolValue": "STD7NK40Z",
+                "kicadSymbolki_description": "5.4A Id, 400V Vds, N-Channel MOSFET, 1Ohm Ron, DPAK",
+                "kicadSymbolki_fp_filters": "TO?252*",
+                "kicadSymbolki_keywords": "N-Channel MOSFET"
+            }
+        ]
+    ]
+}

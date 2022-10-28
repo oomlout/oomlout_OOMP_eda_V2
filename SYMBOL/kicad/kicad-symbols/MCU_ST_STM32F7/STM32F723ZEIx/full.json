@@ -1,0 +1,81 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKMCUSTSTM32F7STM32F723ZEIX"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "MCU_ST_STM32F7 : STM32F723ZEIx"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "MCU_ST_STM32F7"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F7/STM32F723ZEIx/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F7/STM32F723ZEIx/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F7/STM32F723ZEIx/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F7/STM32F723ZEIx/details.py"
+        ],
+        "imagePng": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F7/STM32F723ZEIx/image.png"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F7/STM32F723ZEIx/basic.json"
+        ],
+        "readme": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F7/STM32F723ZEIx/README.md"
+        ]
+    },
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F7-STM32F723ZEIx"
+    ],
+    "oompIndex": [
+        "STM32F723ZEIx"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00330506.pdf",
+                "kicadSymbolExtends": "STM32F723ZCIx",
+                "kicadSymbolFootprint": "Package_BGA:UFBGA-144_7x7mm_Layout12x12_P0.5mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "STM32F723ZEIx",
+                "kicadSymbolki_description": "ARM Cortex-M7 MCU, 512KB flash, 192KB RAM, 216MHz, 1.7-3.6V, 112 GPIO, UFBGA-144",
+                "kicadSymbolki_fp_filters": "UFBGA*7x7mm*Layout12x12*P0.5mm*",
+                "kicadSymbolki_keywords": "ARM Cortex-M7 STM32F7 STM32F7x3"
+            }
+        ]
+    ]
+}

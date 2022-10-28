@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKAMPLIFIEROPERATIONALOPA2156XDGK"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Amplifier_Operational : OPA2156xDGK"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Amplifier_Operational"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA2156xDGK"
+    ],
+    "oompIndex": [
+        "OPA2156xDGK"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.ti.com/lit/ds/symlink/opa2156.pdf",
+                "kicadSymbolExtends": "OPA2197xDGK",
+                "kicadSymbolFootprint": "Package_SO:VSSOP-8_3.0x3.0mm_P0.65mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "OPA2156xDGK",
+                "kicadSymbolki_description": "Dual 36V, Ultra Low Noise, Rail-to-Rail Input/Output, Low Offset Voltage, Operational Amplifier, VSSOP-8",
+                "kicadSymbolki_fp_filters": "VSSOP*3.0x3.0mm*P0.65mm*",
+                "kicadSymbolki_keywords": "dual opamp low-noise r2r"
+            }
+        ]
+    ]
+}

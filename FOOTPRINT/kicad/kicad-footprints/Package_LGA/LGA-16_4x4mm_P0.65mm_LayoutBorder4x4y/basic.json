@@ -1,0 +1,57 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "smd",
+            "description": "LGA, 16 Pin (http://www.st.com/resource/en/datasheet/l3gd20.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py",
+            "name": "LGA-16_4x4mm_P0.65mm_LayoutBorder4x4y",
+            "pins": {
+                "shape": "roundrect",
+                "type": "smd"
+            },
+            "tags": "LGA NoLead",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/Package_LGA.3dshapes/LGA-16_4x4mm_P0.65mm_LayoutBorder4x4y.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKLGALGA164X4P65LAYOUTBORDER4X4Y"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Package_LGA : LGA-16_4x4mm_P0.65mm_LayoutBorder4x4y"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Package_LGA"
+    ],
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Package_LGA-LGA-16_4x4mm_P0.65mm_LayoutBorder4x4y"
+    ],
+    "oompIndex": [
+        "LGA-16_4x4mm_P0.65mm_LayoutBorder4x4y"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

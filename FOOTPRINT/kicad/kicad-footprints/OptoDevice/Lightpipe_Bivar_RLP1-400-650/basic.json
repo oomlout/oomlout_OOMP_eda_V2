@@ -1,0 +1,57 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": null,
+            "description": "1-way, 2.8mm lightpipe, 10mm lens output height, 17mm protrusion, https://www.bivar.com/parts_content/Datasheets/RLP1-XXX-XXX.pdf",
+            "name": "Lightpipe_Bivar_RLP1-400-650",
+            "pins": {
+                "shape": "oval",
+                "type": "np_thru_hole"
+            },
+            "tags": "planar light pipe 1 way 3mm ",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/Lightpipe_Bivar_RLP1-400-650.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKOPLIGHTPIPEBIVARRLP1465"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "OptoDevice : Lightpipe_Bivar_RLP1-400-650"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "OptoDevice"
+    ],
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-OptoDevice-Lightpipe_Bivar_RLP1-400-650"
+    ],
+    "oompIndex": [
+        "Lightpipe_Bivar_RLP1-400-650"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

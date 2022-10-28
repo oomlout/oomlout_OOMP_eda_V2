@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKMCUMCHIPATMEGAATXMEGA64A4UM"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "MCU_Microchip_ATmega : ATxmega64A4U-M"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "MCU_Microchip_ATmega"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATxmega64A4U-M"
+    ],
+    "oompIndex": [
+        "ATxmega64A4U-M"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-8387-8-and16-bit-AVR-Microcontroller-XMEGA-A4U_Datasheet.pdf",
+                "kicadSymbolExtends": "ATxmega16A4U-M",
+                "kicadSymbolFootprint": "Package_DFN_QFN:QFN-44-1EP_7x7mm_P0.5mm_EP5.2x5.2mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "ATxmega64A4U-M",
+                "kicadSymbolki_description": "32MHz, 64kB Flash, 4kB Boot, 4kB SRAM, 2kB EEPROM, JTAG, USB, QFN-44",
+                "kicadSymbolki_fp_filters": "QFN*1EP*7x7mm*P0.5mm*",
+                "kicadSymbolki_keywords": "AVR 8/16bit Microcontroller XMegaAVR"
+            }
+        ]
+    ]
+}

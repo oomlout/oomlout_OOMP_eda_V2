@@ -1,0 +1,81 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKCONVTX2141148"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Converter_ACDC : VTX-214-010-148"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Converter_ACDC"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_ACDC/VTX-214-010-148/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_ACDC/VTX-214-010-148/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_ACDC/VTX-214-010-148/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_ACDC/VTX-214-010-148/details.py"
+        ],
+        "imagePng": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_ACDC/VTX-214-010-148/image.png"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_ACDC/VTX-214-010-148/basic.json"
+        ],
+        "readme": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_ACDC/VTX-214-010-148/README.md"
+        ]
+    },
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Converter_ACDC-VTX-214-010-148"
+    ],
+    "oompIndex": [
+        "VTX-214-010-148"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.vigortronix.com/10WattACDCPCBPowerModule.aspx",
+                "kicadSymbolExtends": "VTX-214-010-103",
+                "kicadSymbolFootprint": "Converter_ACDC:Converter_ACDC_Vigortronix_VTX-214-010-xxx_THT",
+                "kicadSymbolReference": "PS",
+                "kicadSymbolValue": "VTX-214-010-148",
+                "kicadSymbolki_description": "48V Vigortronix 10W ACDC Converters",
+                "kicadSymbolki_fp_filters": "Converter*ACDC*Vigortronix*VTX*214*010*xxx*",
+                "kicadSymbolki_keywords": "48V 10W AC-DC module power supply"
+            }
+        ]
+    ]
+}

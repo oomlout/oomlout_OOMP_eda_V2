@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKOCSASDMBXXXMHZ"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Oscillator : ASDMB-xxxMHz"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Oscillator"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Oscillator-ASDMB-xxxMHz"
+    ],
+    "oompIndex": [
+        "ASDMB-xxxMHz"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://abracon.com/Oscillators/ASDMB.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Oscillator:Oscillator_SMD_Abracon_ASDMB-4Pin_2.5x2.0mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "ASDMB-xxxMHz",
+                "kicadSymbolki_description": "1.8-3.3V SMD Ultra Miniature Crystal Clock Oscillator, Abracon",
+                "kicadSymbolki_fp_filters": "Oscillator*SMD*Abracon*ASDMB*2.5x2.0mm*",
+                "kicadSymbolki_keywords": "1.8-3.3V SMD Ultra Miniature Crystal Clock Oscillator"
+            }
+        ]
+    ]
+}

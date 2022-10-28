@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKFILBNX25"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Filter : BNX025"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Filter"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Filter-BNX025"
+    ],
+    "oompIndex": [
+        "BNX025"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.murata.com/en-us/products/productdetail.aspx?cate=luNoiseSupprFilteBlockType&partno=BNX025H01%23",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Filter:Filter_Murata_BNX025",
+                "kicadSymbolReference": "FL",
+                "kicadSymbolValue": "BNX025",
+                "kicadSymbolki_description": "EMI Filter SMD, Murata BNX025",
+                "kicadSymbolki_fp_filters": "Filter*Murata*BNX025*",
+                "kicadSymbolki_keywords": "EMI Filter SMD Murata"
+            }
+        ]
+    ]
+}

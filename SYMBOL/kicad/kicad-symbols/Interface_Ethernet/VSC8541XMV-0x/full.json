@@ -1,0 +1,81 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKINTERFACEETHERNETVSC8541XMVX"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Interface_Ethernet : VSC8541XMV-0x"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Interface_Ethernet"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_Ethernet/VSC8541XMV-0x/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_Ethernet/VSC8541XMV-0x/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_Ethernet/VSC8541XMV-0x/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_Ethernet/VSC8541XMV-0x/details.py"
+        ],
+        "imagePng": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_Ethernet/VSC8541XMV-0x/image.png"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_Ethernet/VSC8541XMV-0x/basic.json"
+        ],
+        "readme": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_Ethernet/VSC8541XMV-0x/README.md"
+        ]
+    },
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Interface_Ethernet-VSC8541XMV-0x"
+    ],
+    "oompIndex": [
+        "VSC8541XMV-0x"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://ethernet.microsemi.com/products/download.php?fid=7978&number=vsc8541",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_DFN_QFN:QFN-68-1EP_8x8mm_P0.4mm_EP5.2x5.2mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "VSC8541XMV-0x",
+                "kicadSymbolki_description": "Single Port Gigabit Ethernet, GMII/RGMII/MII/RMII Interfaces, QFN-68",
+                "kicadSymbolki_fp_filters": "QFN?68*1EP*8x8mm*P0.4mm*",
+                "kicadSymbolki_keywords": "Gigabit Ethernet PHY GMII RGMII MII RMII"
+            }
+        ]
+    ]
+}

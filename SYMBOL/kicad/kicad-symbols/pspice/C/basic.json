@@ -1,0 +1,57 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKPSPICEC"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "pspice : C"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "pspice"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-pspice-C"
+    ],
+    "oompIndex": [
+        "C"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "~",
+                "kicadSymbolExtends": "CAP",
+                "kicadSymbolFootprint": "",
+                "kicadSymbolReference": "C",
+                "kicadSymbolValue": "C",
+                "kicadSymbolki_description": "Capacitor symbol for simulation only",
+                "kicadSymbolki_keywords": "simulation"
+            }
+        ]
+    ]
+}

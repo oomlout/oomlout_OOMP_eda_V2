@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE42XO2267R4222A"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "oomlout_OOMP_parts : RESE-0402-X-O220-67-R42220A"
+    ],
+    "oompColor": [
+        "oomlout_OOMP_kicad"
+    ],
+    "oompDesc": [
+        "oomlout_OOMP_parts"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0402-X-O220-67-R42220A"
+    ],
+    "oompIndex": [
+        "RESE-0402-X-O220-67-R42220A"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "oom.lt/R42220A",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "oomlout_OOMP_parts:RESE-0402-X-O220-67-R42220A",
+                "kicadSymbolReference": "R",
+                "kicadSymbolValue": "RESE-0402-X-O220-67-R42220A",
+                "kicadSymbolki_description": "hexID: R42220A;Resistor",
+                "kicadSymbolki_fp_filters": "R_*",
+                "kicadSymbolki_keywords": "R res resistor"
+            }
+        ]
+    ]
+}

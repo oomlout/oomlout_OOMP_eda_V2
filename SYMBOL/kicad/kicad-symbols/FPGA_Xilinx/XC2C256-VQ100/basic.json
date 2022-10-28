@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKFPGAXILINXXC2C256VQ1"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "FPGA_Xilinx : XC2C256-VQ100"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "FPGA_Xilinx"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-FPGA_Xilinx-XC2C256-VQ100"
+    ],
+    "oompIndex": [
+        "XC2C256-VQ100"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.xilinx.com/support/documentation/data_sheets/ds094.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_QFP:VQFP-100_14x14mm_P0.5mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "XC2C256-VQ100",
+                "kicadSymbolki_description": "CoolRunner-II CPLD, 256 macrocells, VQFP-100",
+                "kicadSymbolki_fp_filters": "VQFP*14x14mm*P0.5mm*",
+                "kicadSymbolki_keywords": "CPLD"
+            }
+        ]
+    ]
+}

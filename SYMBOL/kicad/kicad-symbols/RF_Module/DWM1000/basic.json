@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKRFMODWM1"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "RF_Module : DWM1000"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "RF_Module"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-RF_Module-DWM1000"
+    ],
+    "oompIndex": [
+        "DWM1000"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.decawave.com/sites/default/files/resources/dwm1000-datasheet-v1.3.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "RF_Module:DWM1000",
+                "kicadSymbolReference": "DWM",
+                "kicadSymbolValue": "DWM1000",
+                "kicadSymbolki_description": "Ultra wide band RF module With ranging location capabilities",
+                "kicadSymbolki_fp_filters": "*DWM1000*",
+                "kicadSymbolki_keywords": "DWM1000,Decawave,RF,ranging,UWB"
+            }
+        ]
+    ]
+}

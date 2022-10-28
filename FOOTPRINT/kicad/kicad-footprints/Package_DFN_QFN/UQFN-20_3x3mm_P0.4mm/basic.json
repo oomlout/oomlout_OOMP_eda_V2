@@ -1,0 +1,57 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "smd",
+            "description": "UQFN, 20 Pin (https://resurgentsemi.com/wp-content/uploads/2018/09/MPR121_rev5-Resurgent.pdf?d453f8&d453f8), generated with kicad-footprint-generator ipc_noLead_generator.py",
+            "name": "UQFN-20_3x3mm_P0.4mm",
+            "pins": {
+                "shape": "custom",
+                "type": "smd"
+            },
+            "tags": "UQFN NoLead",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/UQFN-20_3x3mm_P0.4mm.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKDFNUQFN23X3P4"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Package_DFN_QFN : UQFN-20_3x3mm_P0.4mm"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Package_DFN_QFN"
+    ],
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-UQFN-20_3x3mm_P0.4mm"
+    ],
+    "oompIndex": [
+        "UQFN-20_3x3mm_P0.4mm"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

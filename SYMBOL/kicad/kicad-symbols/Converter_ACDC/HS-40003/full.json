@@ -1,0 +1,81 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKCONHS43"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Converter_ACDC : HS-40003"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Converter_ACDC"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_ACDC/HS-40003/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_ACDC/HS-40003/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_ACDC/HS-40003/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_ACDC/HS-40003/details.py"
+        ],
+        "imagePng": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_ACDC/HS-40003/image.png"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_ACDC/HS-40003/basic.json"
+        ],
+        "readme": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_ACDC/HS-40003/README.md"
+        ]
+    },
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Converter_ACDC-HS-40003"
+    ],
+    "oompIndex": [
+        "HS-40003"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.tme.eu/de/Document/d4b3c52125889c3435af182c9515c76b/HS40003.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Converter_ACDC:Converter_ACDC_Hahn_HS-400xx_THT",
+                "kicadSymbolReference": "PS",
+                "kicadSymbolValue": "HS-40003",
+                "kicadSymbolki_description": "3.3V, 3W, AC-DC module power supply, Hahn",
+                "kicadSymbolki_fp_filters": "Converter*ACDC*Hahn*HS*400xx*",
+                "kicadSymbolki_keywords": "3.3V 3W AC-DC module power supply"
+            }
+        ]
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKINTERFACETCA98"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Interface : TCA9800"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Interface"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Interface-TCA9800"
+    ],
+    "oompIndex": [
+        "TCA9800"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.ti.com/lit/ds/symlink/tca9800.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_SO:VSSOP-8_3.0x3.0mm_P0.65mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "TCA9800",
+                "kicadSymbolki_description": "Level-Translating I2C Bus Buffer/Repeater 0.54mA Current Source, VSSOP-8",
+                "kicadSymbolki_fp_filters": "VSSOP*3.0x3.0mm*P0.65mm*",
+                "kicadSymbolki_keywords": "I2C buffer repeater"
+            }
+        ]
+    ]
+}

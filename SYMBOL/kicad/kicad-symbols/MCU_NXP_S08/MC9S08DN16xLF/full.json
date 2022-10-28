@@ -1,0 +1,81 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKMCUNXPS8MC9S8DN16XLF"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "MCU_NXP_S08 : MC9S08DN16xLF"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "MCU_NXP_S08"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_NXP_S08/MC9S08DN16xLF/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_NXP_S08/MC9S08DN16xLF/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_NXP_S08/MC9S08DN16xLF/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_NXP_S08/MC9S08DN16xLF/details.py"
+        ],
+        "imagePng": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_NXP_S08/MC9S08DN16xLF/image.png"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_NXP_S08/MC9S08DN16xLF/basic.json"
+        ],
+        "readme": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_NXP_S08/MC9S08DN16xLF/README.md"
+        ]
+    },
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-MCU_NXP_S08-MC9S08DN16xLF"
+    ],
+    "oompIndex": [
+        "MC9S08DN16xLF"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://cache.nxp.com/files/microcontrollers/doc/data_sheet/MC9S08DZ60.pdf",
+                "kicadSymbolExtends": "MC9S08DZ128xLF",
+                "kicadSymbolFootprint": "Package_QFP:LQFP-48_7x7mm_P0.5mm",
+                "kicadSymbolReference": "IC",
+                "kicadSymbolValue": "MC9S08DN16xLF",
+                "kicadSymbolki_description": "8-bit Cost-Effective Microcontroller, S08 core, 16kB Flash, 1kB RAM, 1kB EEPROM, LQFP-48",
+                "kicadSymbolki_fp_filters": "LQFP*7x7mm*P0.5mm*",
+                "kicadSymbolki_keywords": "NXP S08 Microcontroller"
+            }
+        ]
+    ]
+}

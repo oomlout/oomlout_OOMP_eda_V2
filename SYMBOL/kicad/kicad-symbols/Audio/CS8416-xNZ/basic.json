@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKAUDIOCS8416XNZ"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Audio : CS8416-xNZ"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Audio"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Audio-CS8416-xNZ"
+    ],
+    "oompIndex": [
+        "CS8416-xNZ"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://d3uzseaevmutz1.cloudfront.net/pubs/proDatasheet/CS8416_F3.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_DFN_QFN:QFN-28-1EP_5x5mm_P0.5mm_EP3.35x3.35mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "CS8416-xNZ",
+                "kicadSymbolki_description": "192 kHz Digital Audio Interface Receiver, QFN-28",
+                "kicadSymbolki_fp_filters": "QFN*5x5mm*P0.5mm*",
+                "kicadSymbolki_keywords": "audio digital interface receiver"
+            }
+        ]
+    ]
+}

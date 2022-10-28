@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKREGULATORLINEARMCP173A122SOT89"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Regulator_Linear : MCP1703A-1202_SOT89"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Regulator_Linear"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Regulator_Linear-MCP1703A-1202_SOT89"
+    ],
+    "oompIndex": [
+        "MCP1703A-1202_SOT89"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/20005122B.pdf",
+                "kicadSymbolExtends": "MCP1703A-3302_SOT89",
+                "kicadSymbolFootprint": "Package_TO_SOT_SMD:SOT-89-3",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "MCP1703A-1202_SOT89",
+                "kicadSymbolki_description": "Low Quiescent Current LDO Regulator, 1.2V, 250mA, Vin<=16V, SOT-89",
+                "kicadSymbolki_fp_filters": "SOT?89*",
+                "kicadSymbolki_keywords": "REGULATOR LDO"
+            }
+        ]
+    ]
+}

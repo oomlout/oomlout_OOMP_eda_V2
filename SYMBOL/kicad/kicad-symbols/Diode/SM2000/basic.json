@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKDIODESM2"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Diode : SM2000"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Diode"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Diode-SM2000"
+    ],
+    "oompIndex": [
+        "SM2000"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://cdn-reichelt.de/documents/datenblatt/A400/SMD1N400%23DIO.pdf",
+                "kicadSymbolExtends": "SM4001",
+                "kicadSymbolFootprint": "Diode_SMD:D_MELF",
+                "kicadSymbolReference": "D",
+                "kicadSymbolValue": "SM2000",
+                "kicadSymbolki_description": "2000V 1A General Purpose Rectifier Diode, MELF",
+                "kicadSymbolki_fp_filters": "D*MELF*",
+                "kicadSymbolki_keywords": "diode"
+            }
+        ]
+    ]
+}

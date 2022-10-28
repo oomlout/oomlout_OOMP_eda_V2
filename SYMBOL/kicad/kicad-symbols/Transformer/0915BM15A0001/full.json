@@ -1,0 +1,81 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKTR915BM15A1"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Transformer : 0915BM15A0001"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Transformer"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transformer/0915BM15A0001/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transformer/0915BM15A0001/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transformer/0915BM15A0001/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transformer/0915BM15A0001/details.py"
+        ],
+        "imagePng": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transformer/0915BM15A0001/image.png"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transformer/0915BM15A0001/basic.json"
+        ],
+        "readme": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transformer/0915BM15A0001/README.md"
+        ]
+    },
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Transformer-0915BM15A0001"
+    ],
+    "oompIndex": [
+        "0915BM15A0001"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.johansontechnology.com/datasheets/0915BM15A0001/0915BM15A0001.pdf",
+                "kicadSymbolExtends": "0896BM15A0001",
+                "kicadSymbolFootprint": "RF_Converter:Balun_Johanson_0896BM15A0001",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "0915BM15A0001",
+                "kicadSymbolki_description": "902-928MHz 1:1 RF Transformer, Unbalanced to Balanced, with integrated DC blocking capacitor",
+                "kicadSymbolki_fp_filters": "Balun*Johanson*0896BM15A0001*",
+                "kicadSymbolki_keywords": "balun rf transformer"
+            }
+        ]
+    ]
+}

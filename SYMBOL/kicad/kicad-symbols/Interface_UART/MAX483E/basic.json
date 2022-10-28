@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKINTERFACEUARTMAX483E"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Interface_UART : MAX483E"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Interface_UART"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Interface_UART-MAX483E"
+    ],
+    "oompIndex": [
+        "MAX483E"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://datasheets.maximintegrated.com/en/ds/MAX1487E-MAX491E.pdf",
+                "kicadSymbolExtends": "MAX481E",
+                "kicadSymbolFootprint": "",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "MAX483E",
+                "kicadSymbolki_description": "Half duplex RS-485/RS-422, 0.25 Mbps, \u00b115kV electro-static discharge (ESD) protection, with slew-rate, with low-power shutdown, with receiver/driver enable, 32 receiver drive kapacitity, DIP-8 and SOIC-8",
+                "kicadSymbolki_fp_filters": "DIP*W7.62mm* SOIC*3.9x4.9mm*P1.27mm*",
+                "kicadSymbolki_keywords": "Half duplex RS-485/RS-422, 0.25 Mbps, \u00b115kV electro-static discharge (ESD) protection, with slew-rate, with low-power shutdown, with receiver/driver enable, 32 receiver drive kapacitity, DIP-8 and SOIC-8"
+            }
+        ]
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "smd",
+            "description": "http://katalog.we-online.de/en/pbs/WE-SL2?sid=5fbec16187#vs_t1:c1_ct:1",
+            "name": "L_CommonMode_Wuerth_WE-SL2",
+            "pins": {
+                "shape": "rect",
+                "type": "smd"
+            },
+            "tags": "Wuerth WE-SL2",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_CommonMode_Wuerth_WE-SL2.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKINDUCTORSMLCOONMODEWUERTHWESL2"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Inductor_SMD : L_CommonMode_Wuerth_WE-SL2"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Inductor_SMD"
+    ],
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_CommonMode_Wuerth_WE-SL2"
+    ],
+    "oompIndex": [
+        "L_CommonMode_Wuerth_WE-SL2"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

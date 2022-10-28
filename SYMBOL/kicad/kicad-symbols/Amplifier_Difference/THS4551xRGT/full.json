@@ -1,0 +1,82 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKAMPLIFIERDIFFERENCETHS4551XRGT"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Amplifier_Difference : THS4551xRGT"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Amplifier_Difference"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Difference/THS4551xRGT/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Difference/THS4551xRGT/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Difference/THS4551xRGT/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Difference/THS4551xRGT/details.py"
+        ],
+        "imagePng": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Difference/THS4551xRGT/image.png"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Difference/THS4551xRGT/basic.json"
+        ],
+        "readme": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Difference/THS4551xRGT/README.md"
+        ]
+    },
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Amplifier_Difference-THS4551xRGT"
+    ],
+    "oompIndex": [
+        "THS4551xRGT"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.ti.com/lit/ds/symlink/ths4551.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_DFN_QFN:VQFN-16-1EP_3x3mm_P0.5mm_EP1.68x1.68mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "THS4551xRGT",
+                "kicadSymbolki_description": "Low-Noise Precision Fully Differential Amplifier, VQFN-16",
+                "kicadSymbolki_fp_filters": "VQFN*1EP*3x3mm*P0.5mm*",
+                "kicadSymbolki_keywords": "differential amplifier",
+                "kicadSymbolki_locked": ""
+            }
+        ]
+    ]
+}

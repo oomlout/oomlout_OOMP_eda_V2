@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKREGULATORSWITCHINGTPS62151"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Regulator_Switching : TPS62151"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Regulator_Switching"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS62151"
+    ],
+    "oompIndex": [
+        "TPS62151"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.ti.com/lit/ds/symlink/TPS62150.pdf",
+                "kicadSymbolExtends": "TPS62130",
+                "kicadSymbolFootprint": "Package_DFN_QFN:VQFN-16-1EP_3x3mm_P0.5mm_EP1.68x1.68mm_ThermalVias",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "TPS62151",
+                "kicadSymbolki_description": "1A Step-Down Converter with DCS-Control, Fixed 1.8V Output Voltage, 3-17V Input Voltage, QFN-16",
+                "kicadSymbolki_fp_filters": "VQFN*1EP*3x3mm*P0.5mm*",
+                "kicadSymbolki_keywords": "step-down dcdc"
+            }
+        ]
+    ]
+}

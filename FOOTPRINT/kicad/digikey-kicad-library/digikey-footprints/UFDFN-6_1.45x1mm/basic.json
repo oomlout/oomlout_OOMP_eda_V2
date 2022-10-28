@@ -1,0 +1,55 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "smd",
+            "name": "UFDFN-6_1.45x1mm",
+            "pins": {
+                "shape": "rect",
+                "type": "smd"
+            },
+            "tags": null
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSUFDFN6145X1"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "digikey-footprints : UFDFN-6_1.45x1mm"
+    ],
+    "oompColor": [
+        "digikey-kicad-library"
+    ],
+    "oompDesc": [
+        "digikey-footprints"
+    ],
+    "oompID": [
+        "FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-UFDFN-6_1.45x1mm"
+    ],
+    "oompIndex": [
+        "UFDFN-6_1.45x1mm"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

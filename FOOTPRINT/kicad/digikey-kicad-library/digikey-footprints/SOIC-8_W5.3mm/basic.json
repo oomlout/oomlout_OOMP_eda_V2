@@ -1,0 +1,56 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "smd",
+            "description": "http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-2586-AVR-8-bit-Microcontroller-ATtiny25-ATtiny45-ATtiny85_Datasheet-Summary.pdf",
+            "name": "SOIC-8_W5.3mm",
+            "pins": {
+                "shape": "rect",
+                "type": "smd"
+            },
+            "tags": null
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSOIC8W53"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "digikey-footprints : SOIC-8_W5.3mm"
+    ],
+    "oompColor": [
+        "digikey-kicad-library"
+    ],
+    "oompDesc": [
+        "digikey-footprints"
+    ],
+    "oompID": [
+        "FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SOIC-8_W5.3mm"
+    ],
+    "oompIndex": [
+        "SOIC-8_W5.3mm"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

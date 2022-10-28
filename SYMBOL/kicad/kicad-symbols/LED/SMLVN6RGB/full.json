@@ -1,0 +1,81 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKLSMLVN6RGB"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "LED : SMLVN6RGB"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "LED"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/LED/SMLVN6RGB/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/LED/SMLVN6RGB/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/LED/SMLVN6RGB/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/LED/SMLVN6RGB/details.py"
+        ],
+        "imagePng": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/LED/SMLVN6RGB/image.png"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/LED/SMLVN6RGB/basic.json"
+        ],
+        "readme": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/LED/SMLVN6RGB/README.md"
+        ]
+    },
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-LED-SMLVN6RGB"
+    ],
+    "oompIndex": [
+        "SMLVN6RGB"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.rohm.com/datasheet/SMLVN6RGB1U",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "LED_SMD:LED_ROHM_SMLVN6",
+                "kicadSymbolReference": "D",
+                "kicadSymbolValue": "SMLVN6RGB",
+                "kicadSymbolki_description": "High Brightness Tri-Color LED, RGB, 3.5x2.8mm",
+                "kicadSymbolki_fp_filters": "LED*ROHM*SMLVN6*",
+                "kicadSymbolki_keywords": "LED RGB Diode"
+            }
+        ]
+    ]
+}

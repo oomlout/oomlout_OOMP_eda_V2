@@ -1,0 +1,57 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "smd",
+            "description": "http://optoelectronics.liteon.com/upload/download/DS22-2000-287/LTST-S326KGJRKT.PDF",
+            "name": "LED_LiteOn_LTST-S326",
+            "pins": {
+                "shape": "rect",
+                "type": "smd"
+            },
+            "tags": "LED SMD right angle  CCA",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED_LiteOn_LTST-S326.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKLSMLLITEONLTSTS326"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "LED_SMD : LED_LiteOn_LTST-S326"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "LED_SMD"
+    ],
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_LiteOn_LTST-S326"
+    ],
+    "oompIndex": [
+        "LED_LiteOn_LTST-S326"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

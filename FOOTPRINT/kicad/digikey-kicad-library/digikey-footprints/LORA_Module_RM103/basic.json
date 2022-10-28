@@ -1,0 +1,56 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "smd",
+            "description": "http://ww1.microchip.com/downloads/en/DeviceDoc/50002346C.pdf",
+            "name": "LORA_Module_RM103",
+            "pins": {
+                "shape": "rect",
+                "type": "smd"
+            },
+            "tags": null
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSLORAMORM13"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "digikey-footprints : LORA_Module_RM103"
+    ],
+    "oompColor": [
+        "digikey-kicad-library"
+    ],
+    "oompDesc": [
+        "digikey-footprints"
+    ],
+    "oompID": [
+        "FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-LORA_Module_RM103"
+    ],
+    "oompIndex": [
+        "LORA_Module_RM103"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

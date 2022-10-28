@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKANALOGSWITCHMAX314CSE"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Analog_Switch : MAX314CSE"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Analog_Switch"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Analog_Switch-MAX314CSE"
+    ],
+    "oompIndex": [
+        "MAX314CSE"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://datasheets.maximintegrated.com/en/ds/MAX312-MAX314.pdf",
+                "kicadSymbolExtends": "DG413xY",
+                "kicadSymbolFootprint": "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "MAX314CSE",
+                "kicadSymbolki_description": "Quad SPST CMOS Analog Switches, normally 2xON + 2xOFF, 6.5Ohm Ron, SOIC-16",
+                "kicadSymbolki_fp_filters": "SOIC*3.9x9.9mm*P1.27mm*",
+                "kicadSymbolki_keywords": "CMOS Analog Switch"
+            }
+        ]
+    ]
+}

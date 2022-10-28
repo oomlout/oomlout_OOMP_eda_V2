@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKANALOGADCINA233"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Analog_ADC : INA233"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Analog_ADC"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Analog_ADC-INA233"
+    ],
+    "oompIndex": [
+        "INA233"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.ti.com/lit/ds/symlink/ina233.pdf",
+                "kicadSymbolExtends": "INA226",
+                "kicadSymbolFootprint": "Package_SO:VSSOP-10_3x3mm_P0.5mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "INA233",
+                "kicadSymbolki_description": "High-Side or Low-Side Measurement, Bi-Directional Current and Power Monitor (0-36V) with I2C, SMBus-, and PMBus-Compatible Interface, VSSOP-10",
+                "kicadSymbolki_fp_filters": "VSSOP*3x3mm*P0.5mm*",
+                "kicadSymbolki_keywords": "ADC I2C 16-Bit Oversampling Current Shunt"
+            }
+        ]
+    ]
+}

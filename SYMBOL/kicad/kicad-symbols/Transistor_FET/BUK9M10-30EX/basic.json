@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKTRANSISTORFETBUK9M13EX"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Transistor_FET : BUK9M10-30EX"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Transistor_FET"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Transistor_FET-BUK9M10-30EX"
+    ],
+    "oompIndex": [
+        "BUK9M10-30EX"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://assets.nexperia.com/documents/data-sheet/BUK9M10-30E.pdf",
+                "kicadSymbolExtends": "BUK9M53-60EX",
+                "kicadSymbolFootprint": "Package_TO_SOT_SMD:LFPAK33",
+                "kicadSymbolReference": "Q",
+                "kicadSymbolValue": "BUK9M10-30EX",
+                "kicadSymbolki_description": "54A Id, 30V Vds, N-Channel TrenchMOS MOSFET, 7.8mOhm Ron, 12.2nC Qqd, -55 to 175 \u00b0C, LFPAK33",
+                "kicadSymbolki_fp_filters": "LFPAK33*",
+                "kicadSymbolki_keywords": "Power MOSFET N-MOS"
+            }
+        ]
+    ]
+}

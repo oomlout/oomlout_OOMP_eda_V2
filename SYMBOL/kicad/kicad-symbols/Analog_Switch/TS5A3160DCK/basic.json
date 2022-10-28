@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKANALOGSWITCHTS5A316DCK"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Analog_Switch : TS5A3160DCK"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Analog_Switch"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Analog_Switch-TS5A3160DCK"
+    ],
+    "oompIndex": [
+        "TS5A3160DCK"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.ti.com/lit/ds/symlink/ts5a3160.pdf",
+                "kicadSymbolExtends": "NC7SB3157P6X",
+                "kicadSymbolFootprint": "Package_TO_SOT_SMD:SOT-363_SC-70-6",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "TS5A3160DCK",
+                "kicadSymbolki_description": "Single SPDT Analog Switch, 1.65-V to 5.5-V Single-Supply Operation, 1Ohm Ron, SC-70-6",
+                "kicadSymbolki_fp_filters": "*SC?70*",
+                "kicadSymbolki_keywords": "Analog Switch"
+            }
+        ]
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "smd",
+            "description": "FOX SMD Crystal SERIES SMD7050/4 https://www.foxonline.com/pdfs/FQ7050.pdf, 7.0x5.0mm^2 package",
+            "name": "Crystal_SMD_FOX_FQ7050-2Pin_7.0x5.0mm",
+            "pins": {
+                "shape": "rect",
+                "type": "smd"
+            },
+            "tags": "SMD SMT crystal",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Crystal_SMD_FOX_FQ7050-2Pin_7.0x5.0mm.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKXXSMFOXFQ752PIN7X5"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Crystal : Crystal_SMD_FOX_FQ7050-2Pin_7.0x5.0mm"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Crystal"
+    ],
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_FOX_FQ7050-2Pin_7.0x5.0mm"
+    ],
+    "oompIndex": [
+        "Crystal_SMD_FOX_FQ7050-2Pin_7.0x5.0mm"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

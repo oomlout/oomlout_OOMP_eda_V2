@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKMCUMCHIPATTINYATTINY48CC"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "MCU_Microchip_ATtiny : ATtiny48-CC"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "MCU_Microchip_ATtiny"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny48-CC"
+    ],
+    "oompIndex": [
+        "ATtiny48-CC"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/doc8008.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_BGA:UFBGA-32_4.0x4.0mm_Layout6x6_P0.5mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "ATtiny48-CC",
+                "kicadSymbolki_description": "12MHz, 4kB Flash, 256B SRAM, 64B EEPROM, UFBGA-32",
+                "kicadSymbolki_fp_filters": "UFBGA*4.0x4.0mm*Layout6x6*P0.5mm*",
+                "kicadSymbolki_keywords": "AVR 8bit Microcontroller tinyAVR"
+            }
+        ]
+    ]
+}

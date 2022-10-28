@@ -1,0 +1,57 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "smd",
+            "description": "Miniature Crystal Clock Oscillator Abracon ASE series, http://www.abracon.com/Oscillators/ASEseries.pdf, 3.2x2.5mm^2 package",
+            "name": "Oscillator_SMD_Abracon_ASE-4Pin_3.2x2.5mm",
+            "pins": {
+                "shape": "rect",
+                "type": "smd"
+            },
+            "tags": "SMD SMT crystal oscillator",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/Oscillator.3dshapes/Oscillator_SMD_Abracon_ASE-4Pin_3.2x2.5mm.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKOCSOCSSMABRACONASE4PIN32X25"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Oscillator : Oscillator_SMD_Abracon_ASE-4Pin_3.2x2.5mm"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Oscillator"
+    ],
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_Abracon_ASE-4Pin_3.2x2.5mm"
+    ],
+    "oompIndex": [
+        "Oscillator_SMD_Abracon_ASE-4Pin_3.2x2.5mm"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZK74XX74LVC125"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "74xx : 74LVC125"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "74xx"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-74xx-74LVC125"
+    ],
+    "oompIndex": [
+        "74LVC125"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.ti.com/lit/gpn/sn74LVC125",
+                "kicadSymbolExtends": "74LS125",
+                "kicadSymbolFootprint": "",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "74LVC125",
+                "kicadSymbolki_description": "Quad buffer 3-State outputs",
+                "kicadSymbolki_fp_filters": "DIP*W7.62mm*",
+                "kicadSymbolki_keywords": "TTL buffer 3State"
+            }
+        ]
+    ]
+}

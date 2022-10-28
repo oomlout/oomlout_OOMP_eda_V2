@@ -1,0 +1,81 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKCONNCS1S243SC"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Converter_DCDC : NCS1S2403SC"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Converter_DCDC"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_DCDC/NCS1S2403SC/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_DCDC/NCS1S2403SC/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_DCDC/NCS1S2403SC/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_DCDC/NCS1S2403SC/details.py"
+        ],
+        "imagePng": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_DCDC/NCS1S2403SC/image.png"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_DCDC/NCS1S2403SC/basic.json"
+        ],
+        "readme": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_DCDC/NCS1S2403SC/README.md"
+        ]
+    },
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Converter_DCDC-NCS1S2403SC"
+    ],
+    "oompIndex": [
+        "NCS1S2403SC"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://power.murata.com/data/power/ncl/kdc_ncs1.pdf",
+                "kicadSymbolExtends": "NCS1S1203SC",
+                "kicadSymbolFootprint": "Converter_DCDC:Converter_DCDC_Murata_NCS1SxxxxSC_THT",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "NCS1S2403SC",
+                "kicadSymbolki_description": "Isolated 1W 4:1 input DC/DC converter module, 9-36V input voltage, 3.3V output voltage, SIP",
+                "kicadSymbolki_fp_filters": "Converter*DCDC*Murata*NCS1SxxxxSC*",
+                "kicadSymbolki_keywords": "Murata isolated isolation dc-dc converter step-down"
+            }
+        ]
+    ]
+}

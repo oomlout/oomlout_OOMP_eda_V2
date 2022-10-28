@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKDIODEPMEG5V3EPD"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Diode : PMEG050V030EPD"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Diode"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Diode-PMEG050V030EPD"
+    ],
+    "oompIndex": [
+        "PMEG050V030EPD"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://assets.nexperia.com/documents/data-sheet/PMEG050V030EPD.pdf",
+                "kicadSymbolExtends": "PMEG45A10EPD",
+                "kicadSymbolFootprint": "Package_TO_SOT_SMD:Nexperia_CFP15_SOT-1289",
+                "kicadSymbolReference": "D",
+                "kicadSymbolValue": "PMEG050V030EPD",
+                "kicadSymbolki_description": "50V, 3A low Vf MEGA Schottky barrier rectifier, SOT-1289",
+                "kicadSymbolki_fp_filters": "Nexperia*CFP15*SOT?1289*",
+                "kicadSymbolki_keywords": "forward voltage diode"
+            }
+        ]
+    ]
+}

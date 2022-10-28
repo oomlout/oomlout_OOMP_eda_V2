@@ -1,0 +1,78 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSHEADI1XPI2X8RSH2X8RS"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "oomlout_OOMP_parts : HEAD-I01-X-PI2X08-RS-H2X8RS"
+    ],
+    "oompColor": [
+        "oomlout_OOMP_kicad"
+    ],
+    "oompDesc": [
+        "oomlout_OOMP_parts"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/HEAD-I01-X-PI2X08-RS-H2X8RS/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/HEAD-I01-X-PI2X08-RS-H2X8RS/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/HEAD-I01-X-PI2X08-RS-H2X8RS/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/HEAD-I01-X-PI2X08-RS-H2X8RS/details.py"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/HEAD-I01-X-PI2X08-RS-H2X8RS/basic.json"
+        ],
+        "readme": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/HEAD-I01-X-PI2X08-RS-H2X8RS/README.md"
+        ]
+    },
+    "oompID": [
+        "SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-I01-X-PI2X08-RS-H2X8RS"
+    ],
+    "oompIndex": [
+        "HEAD-I01-X-PI2X08-RS-H2X8RS"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "oom.lt/H2X8RS",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "oomlout_OOMP_parts:HEAD-I01-X-PI2X08-RS-H2X8RS",
+                "kicadSymbolReference": "J",
+                "kicadSymbolValue": "HEAD-I01-X-PI2X08-RS-H2X8RS",
+                "kicadSymbolki_description": "hexID: H2X8RS;Generic connector, double row, 02x08, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)",
+                "kicadSymbolki_fp_filters": "Connector*:*_2x??_*",
+                "kicadSymbolki_keywords": "connector"
+            }
+        ]
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": null,
+            "description": "Symbol, Creative Commons, CopperTop, Type 1, Big,",
+            "name": "Symbol_CreativeCommons_CopperTop_Type1_Big",
+            "pins": {},
+            "tags": "Symbol, Creative Commons, CopperTop, Type 1, Big,"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKSZSYCREATIVECOONSCTOPTYPE1BIG"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Symbol : Symbol_CreativeCommons_CopperTop_Type1_Big"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Symbol"
+    ],
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Symbol-Symbol_CreativeCommons_CopperTop_Type1_Big"
+    ],
+    "oompIndex": [
+        "Symbol_CreativeCommons_CopperTop_Type1_Big"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

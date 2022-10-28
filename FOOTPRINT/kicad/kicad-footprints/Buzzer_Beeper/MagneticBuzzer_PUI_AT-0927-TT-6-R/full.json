@@ -1,0 +1,89 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "through_hole",
+            "description": "Buzzer Magnetic 9mm AT-0927-TT-6-R, http://www.puiaudio.com/pdf/AT-0927-TT-6-R.pdf",
+            "name": "MagneticBuzzer_PUI_AT-0927-TT-6-R",
+            "pins": {
+                "shape": "rect",
+                "type": "thru_hole"
+            },
+            "tags": "Buzzer Magnetic 9mm AT-0927-TT-6-R",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/Buzzer_Beeper.3dshapes/MagneticBuzzer_PUI_AT-0927-TT-6-R.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKBZMAGNETICBUZZERPUIAT927TT6R"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Buzzer_Beeper : MagneticBuzzer_PUI_AT-0927-TT-6-R"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Buzzer_Beeper"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/MagneticBuzzer_PUI_AT-0927-TT-6-R/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/MagneticBuzzer_PUI_AT-0927-TT-6-R/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/MagneticBuzzer_PUI_AT-0927-TT-6-R/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/MagneticBuzzer_PUI_AT-0927-TT-6-R/details.py"
+        ],
+        "imagePng": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/MagneticBuzzer_PUI_AT-0927-TT-6-R/image.png"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/MagneticBuzzer_PUI_AT-0927-TT-6-R/basic.json"
+        ],
+        "kicadPcb3d": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/MagneticBuzzer_PUI_AT-0927-TT-6-R/kicadPcb3d.png"
+        ],
+        "kicadPcb3dBack": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/MagneticBuzzer_PUI_AT-0927-TT-6-R/kicadPcb3dBack.png"
+        ],
+        "kicadPcb3dFront": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/MagneticBuzzer_PUI_AT-0927-TT-6-R/kicadPcb3dFront.png"
+        ],
+        "readme": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/MagneticBuzzer_PUI_AT-0927-TT-6-R/README.md"
+        ]
+    },
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Buzzer_Beeper-MagneticBuzzer_PUI_AT-0927-TT-6-R"
+    ],
+    "oompIndex": [
+        "MagneticBuzzer_PUI_AT-0927-TT-6-R"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

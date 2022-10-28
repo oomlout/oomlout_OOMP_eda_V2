@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKMCUTEXASMSP43MSP43F1111AIPW"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "MCU_Texas_MSP430 : MSP430F1111AIPW"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "MCU_Texas_MSP430"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-MCU_Texas_MSP430-MSP430F1111AIPW"
+    ],
+    "oompIndex": [
+        "MSP430F1111AIPW"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.ti.com/lit/ds/symlink/msp430f1111a.pdf",
+                "kicadSymbolExtends": "MSP430F1101AIPW",
+                "kicadSymbolFootprint": "Package_SO:TSSOP-20_4.4x6.5mm_P0.65mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "MSP430F1111AIPW",
+                "kicadSymbolki_description": "2kB + 256B Flash, 128B RAM, TSSOP-20",
+                "kicadSymbolki_fp_filters": "TSSOP*4.4x6.5mm*P0.65mm*",
+                "kicadSymbolki_keywords": "TI MSP430 16-bit mixed signal microcontroller"
+            }
+        ]
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "through_hole",
+            "description": "Connector XT30 Vertical PCB Male, https://www.tme.eu/en/Document/4acc913878197f8c2e30d4b8cdc47230/XT30UPB%20SPEC.pdf",
+            "name": "AMASS_XT30UPB-M_1x02_P5.0mm_Vertical",
+            "pins": {
+                "shape": "rect",
+                "type": "thru_hole"
+            },
+            "tags": "RC Connector XT30",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/Connector_AMASS.3dshapes/AMASS_XT30UPB-M_1x02_P5.0mm_Vertical.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKCNAMASSAMASSXT3UPBM1X2P5VERTICAL"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Connector_AMASS : AMASS_XT30UPB-M_1x02_P5.0mm_Vertical"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Connector_AMASS"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_AMASS/AMASS_XT30UPB-M_1x02_P5.0mm_Vertical/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_AMASS/AMASS_XT30UPB-M_1x02_P5.0mm_Vertical/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_AMASS/AMASS_XT30UPB-M_1x02_P5.0mm_Vertical/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_AMASS/AMASS_XT30UPB-M_1x02_P5.0mm_Vertical/details.py"
+        ],
+        "imagePng": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_AMASS/AMASS_XT30UPB-M_1x02_P5.0mm_Vertical/image.png"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_AMASS/AMASS_XT30UPB-M_1x02_P5.0mm_Vertical/basic.json"
+        ],
+        "kicadPcb3d": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_AMASS/AMASS_XT30UPB-M_1x02_P5.0mm_Vertical/kicadPcb3d.png"
+        ],
+        "kicadPcb3dBack": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_AMASS/AMASS_XT30UPB-M_1x02_P5.0mm_Vertical/kicadPcb3dBack.png"
+        ],
+        "kicadPcb3dFront": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_AMASS/AMASS_XT30UPB-M_1x02_P5.0mm_Vertical/kicadPcb3dFront.png"
+        ],
+        "readme": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_AMASS/AMASS_XT30UPB-M_1x02_P5.0mm_Vertical/README.md"
+        ]
+    },
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Connector_AMASS-AMASS_XT30UPB-M_1x02_P5.0mm_Vertical"
+    ],
+    "oompIndex": [
+        "AMASS_XT30UPB-M_1x02_P5.0mm_Vertical"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

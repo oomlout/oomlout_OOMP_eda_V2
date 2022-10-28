@@ -1,0 +1,55 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "smd",
+            "name": "SSOP-16_W3.90mm",
+            "pins": {
+                "shape": "rect",
+                "type": "smd"
+            },
+            "tags": null
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSS16W39"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "digikey-footprints : SSOP-16_W3.90mm"
+    ],
+    "oompColor": [
+        "digikey-kicad-library"
+    ],
+    "oompDesc": [
+        "digikey-footprints"
+    ],
+    "oompID": [
+        "FOOTPRINT-kicad-digikey-kicad-library-digikey-footprints-SSOP-16_W3.90mm"
+    ],
+    "oompIndex": [
+        "SSOP-16_W3.90mm"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

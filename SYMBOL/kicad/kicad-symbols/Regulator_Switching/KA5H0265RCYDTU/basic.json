@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKREGULATORSWITCHINGKA5H265RCYDTU"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Regulator_Switching : KA5H0265RCYDTU"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Regulator_Switching"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Regulator_Switching-KA5H0265RCYDTU"
+    ],
+    "oompIndex": [
+        "KA5H0265RCYDTU"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.onsemi.com/pub/Collateral/KA5L0265R-D.PDF",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_TO_SOT_THT:ONSemi_TO-220-5L_Forming",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "KA5H0265RCYDTU",
+                "kicadSymbolki_description": "KA5H0265RCTU, 100kHz SMPS Controller w/ Soft Start, AC-DC, TO-220F-5L(Forming)",
+                "kicadSymbolki_fp_filters": "*TO*220*5L*",
+                "kicadSymbolki_keywords": "SMPS Controller AC-DC"
+            }
+        ]
+    ]
+}

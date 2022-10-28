@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKREGULATORSWITCHINGTOP1YN"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Regulator_Switching : TOP100YN"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Regulator_Switching"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Regulator_Switching-TOP100YN"
+    ],
+    "oompIndex": [
+        "TOP100YN"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.powerint.com/sites/default/files/product-docs/top100.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_TO_SOT_THT:TO-220-3_Vertical",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "TOP100YN",
+                "kicadSymbolki_description": "TOPSwitch Family, 20W Max Output Power, TO-220",
+                "kicadSymbolki_fp_filters": "TO?220*",
+                "kicadSymbolki_keywords": "Three-terminal Off-line PWM Switch"
+            }
+        ]
+    ]
+}

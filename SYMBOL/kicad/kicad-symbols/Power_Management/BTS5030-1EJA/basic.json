@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKPOWERMANAGEMENTBTS531EJA"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Power_Management : BTS5030-1EJA"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Power_Management"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Power_Management-BTS5030-1EJA"
+    ],
+    "oompIndex": [
+        "BTS5030-1EJA"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.infineon.com/dgdl/Infineon-BTS5030-1EJA-DS-v02_20-EN.pdf?fileId=5546d46259d9a4bf015a84f3e686758a",
+                "kicadSymbolExtends": "BTS40K2-1EJC",
+                "kicadSymbolFootprint": "Package_SO:Infineon_PG-DSO-8-43",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "BTS5030-1EJA",
+                "kicadSymbolki_description": "Smart High-Side Power Switch, PROFET, Single, 30mOhm, 5A, 28V, DSO-8",
+                "kicadSymbolki_fp_filters": "Infineon*PG*DSO*43*",
+                "kicadSymbolki_keywords": "infineon power switch"
+            }
+        ]
+    ]
+}

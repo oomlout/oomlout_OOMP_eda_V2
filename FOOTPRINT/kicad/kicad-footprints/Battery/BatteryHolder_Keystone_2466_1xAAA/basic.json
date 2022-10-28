@@ -1,0 +1,57 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "through_hole",
+            "description": "1xAAA Battery Holder, Keystone, Plastic Case, http://www.keyelco.com/product-pdf.cfm?p=1031",
+            "name": "BatteryHolder_Keystone_2466_1xAAA",
+            "pins": {
+                "shape": "rect",
+                "type": "thru_hole"
+            },
+            "tags": "AAA battery holder Keystone",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/Battery.3dshapes/BatteryHolder_Keystone_2466_1xAAA.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKBATBATHOLDERKEYSTONE24661XAAA"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Battery : BatteryHolder_Keystone_2466_1xAAA"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Battery"
+    ],
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Battery-BatteryHolder_Keystone_2466_1xAAA"
+    ],
+    "oompIndex": [
+        "BatteryHolder_Keystone_2466_1xAAA"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

@@ -1,0 +1,81 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKCNBUSPCIEXPRESSX4"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Connector : Bus_PCI_Express_x4"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Connector"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/Bus_PCI_Express_x4/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/Bus_PCI_Express_x4/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/Bus_PCI_Express_x4/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/Bus_PCI_Express_x4/details.py"
+        ],
+        "imagePng": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/Bus_PCI_Express_x4/image.png"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/Bus_PCI_Express_x4/basic.json"
+        ],
+        "readme": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/Bus_PCI_Express_x4/README.md"
+        ]
+    },
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Connector-Bus_PCI_Express_x4"
+    ],
+    "oompIndex": [
+        "Bus_PCI_Express_x4"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.ritrontek.com/uploadfile/2016/1026/20161026105231124.pdf#page=63",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Connector_PCBEdge:BUS_PCIexpress_x4",
+                "kicadSymbolReference": "J",
+                "kicadSymbolValue": "Bus_PCI_Express_x4",
+                "kicadSymbolki_description": "PCI Express bus connector x4",
+                "kicadSymbolki_fp_filters": "*PCIexpress*",
+                "kicadSymbolki_keywords": "pcie"
+            }
+        ]
+    ]
+}

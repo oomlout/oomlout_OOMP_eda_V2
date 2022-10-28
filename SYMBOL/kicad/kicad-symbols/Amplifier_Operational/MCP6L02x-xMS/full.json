@@ -1,0 +1,81 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKAMPLIFIEROPERATIONALMCP6L2XXMS"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Amplifier_Operational : MCP6L02x-xMS"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Amplifier_Operational"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/MCP6L02x-xMS/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/MCP6L02x-xMS/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/MCP6L02x-xMS/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/MCP6L02x-xMS/details.py"
+        ],
+        "imagePng": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/MCP6L02x-xMS/image.png"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/MCP6L02x-xMS/basic.json"
+        ],
+        "readme": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/MCP6L02x-xMS/README.md"
+        ]
+    },
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Amplifier_Operational-MCP6L02x-xMS"
+    ],
+    "oompIndex": [
+        "MCP6L02x-xMS"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://ww1.microchip.com/downloads/en/devicedoc/22140b.pdf",
+                "kicadSymbolExtends": "NCS2325DM",
+                "kicadSymbolFootprint": "Package_SO:MSOP-8_3x3mm_P0.65mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "MCP6L02x-xMS",
+                "kicadSymbolki_description": "Dual, 1 MHz, 85\u00b5A, Rail-to-Rail input and output, MSOP-8",
+                "kicadSymbolki_fp_filters": "MSOP*3x3mm*P0.65mm*",
+                "kicadSymbolki_keywords": "opamp vfa r2r rtr"
+            }
+        ]
+    ]
+}

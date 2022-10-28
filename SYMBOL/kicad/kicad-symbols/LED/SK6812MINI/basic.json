@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKLSK6812M"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "LED : SK6812MINI"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "LED"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-LED-SK6812MINI"
+    ],
+    "oompIndex": [
+        "SK6812MINI"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm",
+                "kicadSymbolReference": "D",
+                "kicadSymbolValue": "SK6812MINI",
+                "kicadSymbolki_description": "RGB LED with integrated controller",
+                "kicadSymbolki_fp_filters": "LED*SK6812MINI*PLCC*3.5x3.5mm*P1.75mm*",
+                "kicadSymbolki_keywords": "RGB LED NeoPixel Mini addressable"
+            }
+        ]
+    ]
+}

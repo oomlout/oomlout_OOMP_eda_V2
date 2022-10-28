@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKDRIVERFETICL7667"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Driver_FET : ICL7667"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Driver_FET"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Driver_FET-ICL7667"
+    ],
+    "oompIndex": [
+        "ICL7667"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.intersil.com/content/dam/Intersil/documents/icl7/icl7667.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "ICL7667",
+                "kicadSymbolki_description": "Dual Power MOSFET Driver, DIP-8/SOIC-8",
+                "kicadSymbolki_fp_filters": "DIP*W7.62mm* SOIC*3.9x4.9mm*P1.27mm*",
+                "kicadSymbolki_keywords": "MOSFET driver array"
+            }
+        ]
+    ]
+}

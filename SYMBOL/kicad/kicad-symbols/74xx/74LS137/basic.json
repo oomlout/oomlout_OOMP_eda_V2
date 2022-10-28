@@ -1,0 +1,59 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZK74XX74LS137"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "74xx : 74LS137"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "74xx"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-74xx-74LS137"
+    ],
+    "oompIndex": [
+        "74LS137"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.ti.com/lit/gpn/sn74LS137",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "74LS137",
+                "kicadSymbolki_description": "Decoder 3 to 8, address latches",
+                "kicadSymbolki_fp_filters": "DIP?16*",
+                "kicadSymbolki_keywords": "TTL DECOD8 DECOD",
+                "kicadSymbolki_locked": ""
+            }
+        ]
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKDICHARACTERAD121F2"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Display_Character : AD-121F2"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Display_Character"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Display_Character-AD-121F2"
+    ],
+    "oompIndex": [
+        "AD-121F2"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://usasyck.com/products/AD-121F2_cat_e.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Display_7Segment:AD-121F2",
+                "kicadSymbolReference": "D",
+                "kicadSymbolValue": "AD-121F2",
+                "kicadSymbolki_description": "Single Digit 7-segment RGB LED Display, 1-inch digit height, common anode",
+                "kicadSymbolki_fp_filters": "AD*121F2*",
+                "kicadSymbolki_keywords": "display RGB LED digit 7-segment"
+            }
+        ]
+    ]
+}

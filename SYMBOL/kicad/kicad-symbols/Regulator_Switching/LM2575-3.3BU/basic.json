@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKREGULATORSWITCHINGLM257533BU"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Regulator_Switching : LM2575-3.3BU"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Regulator_Switching"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM2575-3.3BU"
+    ],
+    "oompIndex": [
+        "LM2575-3.3BU"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/lm2575.pdf",
+                "kicadSymbolExtends": "LM2576HVS-12",
+                "kicadSymbolFootprint": "Package_TO_SOT_SMD:TO-263-5_TabPin3",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "LM2575-3.3BU",
+                "kicadSymbolki_description": "Fixed 3.3V 52kHz Simple 1A Buck Regulator, TO-263",
+                "kicadSymbolki_fp_filters": "TO?263*",
+                "kicadSymbolki_keywords": "Buck regulator Switcher"
+            }
+        ]
+    ]
+}

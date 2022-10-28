@@ -1,0 +1,81 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKMCUMOARDUNOR3"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "MCU_Module : Arduino_UNO_R3"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "MCU_Module"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Module/Arduino_UNO_R3/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Module/Arduino_UNO_R3/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Module/Arduino_UNO_R3/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Module/Arduino_UNO_R3/details.py"
+        ],
+        "imagePng": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Module/Arduino_UNO_R3/image.png"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Module/Arduino_UNO_R3/basic.json"
+        ],
+        "readme": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Module/Arduino_UNO_R3/README.md"
+        ]
+    },
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-MCU_Module-Arduino_UNO_R3"
+    ],
+    "oompIndex": [
+        "Arduino_UNO_R3"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.arduino.cc/en/Main/arduinoBoardUno",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Module:Arduino_UNO_R3",
+                "kicadSymbolReference": "A",
+                "kicadSymbolValue": "Arduino_UNO_R3",
+                "kicadSymbolki_description": "Arduino UNO Microcontroller Module, release 3",
+                "kicadSymbolki_fp_filters": "Arduino*UNO*R3*",
+                "kicadSymbolki_keywords": "Arduino UNO R3 Microcontroller Module Atmel AVR USB"
+            }
+        ]
+    ]
+}

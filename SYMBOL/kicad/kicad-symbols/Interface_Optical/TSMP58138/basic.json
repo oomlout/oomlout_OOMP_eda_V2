@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKINTERFACEOPTICALTSMP58138"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Interface_Optical : TSMP58138"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Interface_Optical"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Interface_Optical-TSMP58138"
+    ],
+    "oompIndex": [
+        "TSMP58138"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.vishay.com/docs/82486/tsmp58138.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "OptoDevice:Vishay_MINICAST-3Pin",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "TSMP58138",
+                "kicadSymbolki_description": "Photo Module (Repeater) for PCM Remote Control Systems",
+                "kicadSymbolki_fp_filters": "Vishay*MINICAST*",
+                "kicadSymbolki_keywords": "opto IR repeater receiver"
+            }
+        ]
+    ]
+}

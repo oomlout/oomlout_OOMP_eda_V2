@@ -1,0 +1,57 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "smd",
+            "description": "http://www.ti.com/lit/ml/mpds050d/mpds050d.pdf",
+            "name": "VSSOP-8_2.4x2.1mm_P0.5mm",
+            "pins": {
+                "shape": "rect",
+                "type": "smd"
+            },
+            "tags": "VSSOP DCU R-PDSO-G8 Pitch0.5mm",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/VSSOP-8_2.4x2.1mm_P0.5mm.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKSOVSS824X21P5"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Package_SO : VSSOP-8_2.4x2.1mm_P0.5mm"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Package_SO"
+    ],
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Package_SO-VSSOP-8_2.4x2.1mm_P0.5mm"
+    ],
+    "oompIndex": [
+        "VSSOP-8_2.4x2.1mm_P0.5mm"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

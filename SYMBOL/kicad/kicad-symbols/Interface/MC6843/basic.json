@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKINTERFACEMC6843"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Interface : MC6843"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Interface"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Interface-MC6843"
+    ],
+    "oompIndex": [
+        "MC6843"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.datasheetarchive.com/pdf/download.php?id=355f4f5379c550317997643252fd5cac1bb08e&type=M&query=MC6843P",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_DIP:DIP-40_W15.24mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "MC6843",
+                "kicadSymbolki_description": "Floppy Disc Controller, DIP-40",
+                "kicadSymbolki_fp_filters": "DIP*W15.24mm*",
+                "kicadSymbolki_keywords": "FDC"
+            }
+        ]
+    ]
+}

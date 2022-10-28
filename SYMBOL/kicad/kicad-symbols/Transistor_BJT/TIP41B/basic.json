@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKTRANSISTORBJTTIP41B"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Transistor_BJT : TIP41B"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Transistor_BJT"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Transistor_BJT-TIP41B"
+    ],
+    "oompIndex": [
+        "TIP41B"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.centralsemi.com/get_document.php?cmp=1&mergetype=pd&mergepath=pd&pdf_id=tip41.PDF",
+                "kicadSymbolExtends": "BD911",
+                "kicadSymbolFootprint": "Package_TO_SOT_THT:TO-220-3_Vertical",
+                "kicadSymbolReference": "Q",
+                "kicadSymbolValue": "TIP41B",
+                "kicadSymbolki_description": "6A Ic, 80V Vce, Power NPN Transistor, TO-220",
+                "kicadSymbolki_fp_filters": "TO?220*",
+                "kicadSymbolki_keywords": "power NPN Transistor"
+            }
+        ]
+    ]
+}

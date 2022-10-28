@@ -1,0 +1,56 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": null,
+            "description": "PCIexpress Bus Edge Connector x1 http://www.ritrontek.com/uploadfile/2016/1026/20161026105231124.pdf#page=70",
+            "name": "BUS_PCIexpress_x16",
+            "pins": {
+                "shape": "rect",
+                "type": "connect"
+            },
+            "tags": "PCIe"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKCNPCBEDGEBUSPCIEXPRESSX16"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Connector_PCBEdge : BUS_PCIexpress_x16"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Connector_PCBEdge"
+    ],
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Connector_PCBEdge-BUS_PCIexpress_x16"
+    ],
+    "oompIndex": [
+        "BUS_PCIexpress_x16"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

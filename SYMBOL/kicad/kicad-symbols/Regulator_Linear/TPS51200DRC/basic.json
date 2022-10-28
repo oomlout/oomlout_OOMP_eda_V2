@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKREGULATORLINEARTPS512DRC"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Regulator_Linear : TPS51200DRC"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Regulator_Linear"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS51200DRC"
+    ],
+    "oompIndex": [
+        "TPS51200DRC"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.ti.com/lit/ds/symlink/tps51200.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_SON:VSON-10-1EP_3x3mm_P0.5mm_EP1.65x2.4mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "TPS51200DRC",
+                "kicadSymbolki_description": "Sink and Source DDR Termination Regulator, VSON-10",
+                "kicadSymbolki_fp_filters": "*VSON?10?1EP?3x3mm?P0.5mm*",
+                "kicadSymbolki_keywords": "DDR LDO"
+            }
+        ]
+    ]
+}

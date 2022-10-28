@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKDIODEBRIDGEGUO48NO1"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Diode_Bridge : GUO40-08NO1"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Diode_Bridge"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Diode_Bridge-GUO40-08NO1"
+    ],
+    "oompIndex": [
+        "GUO40-08NO1"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://ixapps.ixys.com/DataSheet/GUO40-08NO1.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Diode_THT:Diode_Bridge_IXYS_GUFP",
+                "kicadSymbolReference": "D",
+                "kicadSymbolValue": "GUO40-08NO1",
+                "kicadSymbolki_description": "250V Vrms, 40A If, GUFP(X025B)",
+                "kicadSymbolki_fp_filters": "Diode*Bridge*IXYS*GUFP*",
+                "kicadSymbolki_keywords": "Three-Phase Bridge Rectifier"
+            }
+        ]
+    ]
+}

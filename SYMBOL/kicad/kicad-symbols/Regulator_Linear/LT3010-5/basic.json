@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKREGULATORLINEARLT315"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Regulator_Linear : LT3010-5"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Regulator_Linear"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT3010-5"
+    ],
+    "oompIndex": [
+        "LT3010-5"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/30105fe.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_SO:MSOP-8-1EP_3x3mm_P0.65mm_EP1.68x1.88mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "LT3010-5",
+                "kicadSymbolki_description": "50mA 3-80V Micropower Low Dropout Regulator, fixed output 5V, MSOP-8",
+                "kicadSymbolki_fp_filters": "MSOP*3x3mm*P0.65mm*",
+                "kicadSymbolki_keywords": "REGULATOR POSITIVE POWER LDO fixed"
+            }
+        ]
+    ]
+}

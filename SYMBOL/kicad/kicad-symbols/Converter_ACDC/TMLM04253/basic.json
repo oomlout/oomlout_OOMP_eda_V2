@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKCONTMLM4253"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Converter_ACDC : TMLM04253"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Converter_ACDC"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Converter_ACDC-TMLM04253"
+    ],
+    "oompIndex": [
+        "TMLM04253"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.tracopower.com/products/tmlm.pdf",
+                "kicadSymbolExtends": "TMLM04225",
+                "kicadSymbolFootprint": "Converter_ACDC:Converter_ACDC_TRACO_TMLM-04_THT",
+                "kicadSymbolReference": "PS",
+                "kicadSymbolValue": "TMLM04253",
+                "kicadSymbolki_description": "5V 600mA / 3.3V 150mA AC/DC dual output, low noise power module",
+                "kicadSymbolki_fp_filters": "Converter*ACDC*TRACO*TMLM*04*",
+                "kicadSymbolki_keywords": "Traco Power 4W AC-DC module power supply"
+            }
+        ]
+    ]
+}

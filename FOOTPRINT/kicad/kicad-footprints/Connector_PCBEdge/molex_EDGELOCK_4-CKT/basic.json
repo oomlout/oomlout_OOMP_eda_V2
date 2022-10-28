@@ -1,0 +1,57 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": null,
+            "description": "https://www.molex.com/pdm_docs/sd/2008900106_sd.pdf",
+            "name": "molex_EDGELOCK_4-CKT",
+            "pins": {
+                "shape": "roundrect",
+                "type": "connect"
+            },
+            "tags": "Connector PCBEdge molex EDGELOCK",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/Connector_PCBEdge.3dshapes/molex_EDGELOCK_4-CKT.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKCNPCBEDGEMXEDGEL4CKT"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Connector_PCBEdge : molex_EDGELOCK_4-CKT"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Connector_PCBEdge"
+    ],
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Connector_PCBEdge-molex_EDGELOCK_4-CKT"
+    ],
+    "oompIndex": [
+        "molex_EDGELOCK_4-CKT"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

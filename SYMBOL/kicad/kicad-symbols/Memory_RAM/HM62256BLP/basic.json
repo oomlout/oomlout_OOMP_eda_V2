@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKMEMORYRAMHM62256BLP"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Memory_RAM : HM62256BLP"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Memory_RAM"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Memory_RAM-HM62256BLP"
+    ],
+    "oompIndex": [
+        "HM62256BLP"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://web.mit.edu/6.115/www/document/62256.pdf",
+                "kicadSymbolExtends": "KM62256CLP",
+                "kicadSymbolFootprint": "Package_DIP:DIP-28_W15.24mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "HM62256BLP",
+                "kicadSymbolki_description": "32,768-word \u00d7 8-bit High Speed CMOS Static RAM, 70ns, DIP-28",
+                "kicadSymbolki_fp_filters": "DIP*W15.24mm*",
+                "kicadSymbolki_keywords": "RAM SRAM CMOS MEMORY"
+            }
+        ]
+    ]
+}

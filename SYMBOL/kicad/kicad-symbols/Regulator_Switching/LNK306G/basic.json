@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKREGULATORSWITCHINGLNK36G"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Regulator_Switching : LNK306G"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Regulator_Switching"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK306G"
+    ],
+    "oompIndex": [
+        "LNK306G"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.powerint.com/sites/default/files/product-docs/lnk302_304-306.pdf",
+                "kicadSymbolExtends": "LNK302G",
+                "kicadSymbolFootprint": "Package_DIP:PowerIntegrations_SMD-8B",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "LNK306G",
+                "kicadSymbolki_description": "LinkSwitch-TN Family, 360mA Output Current, SMD-8B",
+                "kicadSymbolki_fp_filters": "PowerIntegrations?SMD?8B*",
+                "kicadSymbolki_keywords": "Lowest Component Count, Energy-Efficient Off-Line Switcher IC"
+            }
+        ]
+    ]
+}

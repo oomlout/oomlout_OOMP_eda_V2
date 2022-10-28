@@ -1,0 +1,57 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "smd",
+            "description": "SMD 8x-dip-switch SPST , Slide, row spacing 8.61 mm (338 mils), body size 9.78x22.5mm (see e.g. https://www.ctscorp.com/wp-content/uploads/204.pdf), SMD",
+            "name": "SW_DIP_SPSTx08_Slide_9.78x22.5mm_W8.61mm_P2.54mm",
+            "pins": {
+                "shape": "rect",
+                "type": "smd"
+            },
+            "tags": "SMD DIP Switch SPST Slide 8.61mm 338mil SMD",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_DIP_SPSTx08_Slide_9.78x22.5mm_W8.61mm_P2.54mm.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKBSWITCHSMSWDIPSPSTX8SLIDE978X225W861P254"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Button_Switch_SMD : SW_DIP_SPSTx08_Slide_9.78x22.5mm_W8.61mm_P2.54mm"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Button_Switch_SMD"
+    ],
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_DIP_SPSTx08_Slide_9.78x22.5mm_W8.61mm_P2.54mm"
+    ],
+    "oompIndex": [
+        "SW_DIP_SPSTx08_Slide_9.78x22.5mm_W8.61mm_P2.54mm"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

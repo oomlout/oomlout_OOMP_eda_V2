@@ -1,0 +1,81 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKSENPROXIMITYITR121SR1AR"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Sensor_Proximity : ITR1201SR10AR"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Sensor_Proximity"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Proximity/ITR1201SR10AR/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Proximity/ITR1201SR10AR/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Proximity/ITR1201SR10AR/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Proximity/ITR1201SR10AR/details.py"
+        ],
+        "imagePng": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Proximity/ITR1201SR10AR/image.png"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Proximity/ITR1201SR10AR/basic.json"
+        ],
+        "readme": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Proximity/ITR1201SR10AR/README.md"
+        ]
+    },
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Sensor_Proximity-ITR1201SR10AR"
+    ],
+    "oompIndex": [
+        "ITR1201SR10AR"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.everlight.com/file/ProductFile/ITR1201SR10AR-TR.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "OptoDevice:Everlight_ITR1201SR10AR",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "ITR1201SR10AR",
+                "kicadSymbolki_description": "Miniature Reflective Optical Object Sensor, SMD-4",
+                "kicadSymbolki_fp_filters": "Everlight*ITR1201SR10AR*",
+                "kicadSymbolki_keywords": "Reflective Optical Sensor Opto reflex coupler"
+            }
+        ]
+    ]
+}

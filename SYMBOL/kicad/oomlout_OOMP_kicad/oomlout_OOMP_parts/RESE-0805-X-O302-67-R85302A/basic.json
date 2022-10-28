@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE85XO3267R8532A"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "oomlout_OOMP_parts : RESE-0805-X-O302-67-R85302A"
+    ],
+    "oompColor": [
+        "oomlout_OOMP_kicad"
+    ],
+    "oompDesc": [
+        "oomlout_OOMP_parts"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0805-X-O302-67-R85302A"
+    ],
+    "oompIndex": [
+        "RESE-0805-X-O302-67-R85302A"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "oom.lt/R85302A",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "oomlout_OOMP_parts:RESE-0805-X-O302-67-R85302A",
+                "kicadSymbolReference": "R",
+                "kicadSymbolValue": "RESE-0805-X-O302-67-R85302A",
+                "kicadSymbolki_description": "hexID: R85302A;Resistor",
+                "kicadSymbolki_fp_filters": "R_*",
+                "kicadSymbolki_keywords": "R res resistor"
+            }
+        ]
+    ]
+}

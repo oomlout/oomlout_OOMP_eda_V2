@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKMCUSTSTM32F4STM32F45RGTX"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "MCU_ST_STM32F4 : STM32F405RGTx"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "MCU_ST_STM32F4"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F405RGTx"
+    ],
+    "oompIndex": [
+        "STM32F405RGTx"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00037051.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_QFP:LQFP-64_10x10mm_P0.5mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "STM32F405RGTx",
+                "kicadSymbolki_description": "ARM Cortex-M4 MCU, 1024KB flash, 128KB RAM, 168MHz, 1.8-3.6V, 51 GPIO, LQFP-64",
+                "kicadSymbolki_fp_filters": "LQFP*10x10mm*P0.5mm*",
+                "kicadSymbolki_keywords": "ARM Cortex-M4 STM32F4 STM32F405/415"
+            }
+        ]
+    ]
+}

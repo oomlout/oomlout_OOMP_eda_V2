@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKISOLATORFODM217C"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Isolator : FODM217C"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Isolator"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Isolator-FODM217C"
+    ],
+    "oompIndex": [
+        "FODM217C"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.onsemi.com/pub/Collateral/FODM214-D.PDF",
+                "kicadSymbolExtends": "FODM217A",
+                "kicadSymbolFootprint": "Package_SO:SOP-4_4.4x2.6mm_P1.27mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "FODM217C",
+                "kicadSymbolki_description": "DC Optocoupler, Vce 80V, CTR 200-400%, SOP-4",
+                "kicadSymbolki_fp_filters": "SOP*4.4x2.6mm*P1.27mm*",
+                "kicadSymbolki_keywords": "DC Phototransistor Optocoupler"
+            }
+        ]
+    ]
+}

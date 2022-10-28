@@ -1,0 +1,81 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKTR54BL15B5"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Transformer : 5400BL15B050"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Transformer"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transformer/5400BL15B050/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transformer/5400BL15B050/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transformer/5400BL15B050/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transformer/5400BL15B050/details.py"
+        ],
+        "imagePng": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transformer/5400BL15B050/image.png"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transformer/5400BL15B050/basic.json"
+        ],
+        "readme": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transformer/5400BL15B050/README.md"
+        ]
+    },
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Transformer-5400BL15B050"
+    ],
+    "oompIndex": [
+        "5400BL15B050"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.johansontechnology.com/datasheets/5400BL15B050/5400BL15B050.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "RF_Converter:Balun_Johanson_5400BL15B050E",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "5400BL15B050",
+                "kicadSymbolki_description": "4.9-5.9GHz 1:1 RF Transformer, Unbalanced to Balanced",
+                "kicadSymbolki_fp_filters": "Balun*Johanson*5400BL15B050E*",
+                "kicadSymbolki_keywords": "balun rf transformer"
+            }
+        ]
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKAMPLIFIERAUDIOTDA7292"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Amplifier_Audio : TDA7292"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Amplifier_Audio"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Amplifier_Audio-TDA7292"
+    ],
+    "oompIndex": [
+        "TDA7292"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.st.com/resource/en/datasheet/tda7292.pdf",
+                "kicadSymbolExtends": "TDA7265",
+                "kicadSymbolFootprint": "Package_TO_SOT_THT:TO-220-11_P3.4x5.08mm_StaggerOdd_Lead4.85mm_Vertical",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "TDA7292",
+                "kicadSymbolki_description": "40W + 40W stereo amplifier with mute and standby, TO-220-11",
+                "kicadSymbolki_fp_filters": "TO?220*StaggerOdd*",
+                "kicadSymbolki_keywords": "audio amplifier 2ch"
+            }
+        ]
+    ]
+}

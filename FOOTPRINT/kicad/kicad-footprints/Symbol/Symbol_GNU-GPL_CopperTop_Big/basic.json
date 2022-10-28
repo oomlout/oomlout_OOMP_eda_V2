@@ -1,0 +1,53 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": null,
+            "description": "Symbol, GNU-GPL, Copper Top, Big,",
+            "name": "Symbol_GNU-GPL_CopperTop_Big",
+            "pins": {},
+            "tags": "Symbol, GNU-GPL, Copper Top, Big,"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKSZSYGNUGPLCTOPBIG"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Symbol : Symbol_GNU-GPL_CopperTop_Big"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Symbol"
+    ],
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Symbol-Symbol_GNU-GPL_CopperTop_Big"
+    ],
+    "oompIndex": [
+        "Symbol_GNU-GPL_CopperTop_Big"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

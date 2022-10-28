@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKMCUMCHIPATMEGAATMEGA329PV1A"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "MCU_Microchip_ATmega : ATmega3290PV-10A"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "MCU_Microchip_ATmega"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega3290PV-10A"
+    ],
+    "oompIndex": [
+        "ATmega3290PV-10A"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-8021-AVR-ATmega329P-3290P_Datasheet.pdf",
+                "kicadSymbolExtends": "ATmega3290V-8A",
+                "kicadSymbolFootprint": "Package_QFP:TQFP-100_14x14mm_P0.5mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "ATmega3290PV-10A",
+                "kicadSymbolki_description": "10MHz, 32kB Flash, 2kB SRAM, 1kB EEPROM, JTAG, TQFP-100",
+                "kicadSymbolki_fp_filters": "TQFP*14x14mm*P0.5mm*",
+                "kicadSymbolki_keywords": "AVR 8bit Microcontroller MegaAVR"
+            }
+        ]
+    ]
+}

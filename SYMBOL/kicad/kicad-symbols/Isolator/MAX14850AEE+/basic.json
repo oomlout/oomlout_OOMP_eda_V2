@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKISOLATORMAX1485AEE+"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Isolator : MAX14850AEE+"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Isolator"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Isolator-MAX14850AEE+"
+    ],
+    "oompIndex": [
+        "MAX14850AEE+"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://datasheets.maximintegrated.com/en/ds/MAX14850.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_SO:QSOP-16_3.9x4.9mm_P0.635mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "MAX14850AEE+",
+                "kicadSymbolki_description": "Six-channel digital isolator, bidirectional, 3V3, 5V, QSOP-16",
+                "kicadSymbolki_fp_filters": "QSOP*3.9x4.9mm*P0.635mm*",
+                "kicadSymbolki_keywords": "6 channel digital isolator bidirectional"
+            }
+        ]
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKREGULATORCONTROLLERLM25119"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Regulator_Controller : LM25119"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Regulator_Controller"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Regulator_Controller-LM25119"
+    ],
+    "oompIndex": [
+        "LM25119"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.ti.com/lit/ds/symlink/lm25119.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_DFN_QFN:WQFN-32-1EP_5x5mm_P0.5mm_EP3.1x3.1mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "LM25119",
+                "kicadSymbolki_description": "Wide Input Range, Dual Synchronous Buck Controller, WQFN-32",
+                "kicadSymbolki_fp_filters": "WQFN*5x5mm*P0.5mm*",
+                "kicadSymbolki_keywords": "Dual Synchronous Buck",
+                "kicadSymbolki_locked": ""
+            }
+        ]
+    ]
+}

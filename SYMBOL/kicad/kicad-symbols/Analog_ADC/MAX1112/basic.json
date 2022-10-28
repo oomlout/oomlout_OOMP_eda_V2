@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKANALOGADCMAX1112"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Analog_ADC : MAX1112"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Analog_ADC"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Analog_ADC-MAX1112"
+    ],
+    "oompIndex": [
+        "MAX1112"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://datasheets.maximintegrated.com/en/ds/MAX1112-MAX1113.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_SO:SSOP-20_5.3x7.2mm_P0.65mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "MAX1112",
+                "kicadSymbolki_description": "8-Channel Single-Ended or 4-Channel Differential 8-Bit ADC, SSOP-20",
+                "kicadSymbolki_fp_filters": "SSOP*5.3x7.2mm*P0.65mm*",
+                "kicadSymbolki_keywords": "MAXIM ADC 5V 8-Bit SPI QSPI MICROWIRE"
+            }
+        ]
+    ]
+}

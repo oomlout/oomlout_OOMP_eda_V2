@@ -1,0 +1,81 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKRELAYSILXX1CXX51X"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Relay : SILxx-1Cxx-51x"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Relay"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Relay/SILxx-1Cxx-51x/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Relay/SILxx-1Cxx-51x/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Relay/SILxx-1Cxx-51x/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Relay/SILxx-1Cxx-51x/details.py"
+        ],
+        "imagePng": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Relay/SILxx-1Cxx-51x/image.png"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Relay/SILxx-1Cxx-51x/basic.json"
+        ],
+        "readme": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Relay/SILxx-1Cxx-51x/README.md"
+        ]
+    },
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Relay-SILxx-1Cxx-51x"
+    ],
+    "oompIndex": [
+        "SILxx-1Cxx-51x"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://standexelectronics.com/wp-content/uploads/datasheet_reed_relay_SIL.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Relay_THT:Relay_SPDT_StandexMeder_SIL_Form1C",
+                "kicadSymbolReference": "K",
+                "kicadSymbolValue": "SILxx-1Cxx-51x",
+                "kicadSymbolki_description": "Standex Meder SIL reed relay, SPDT",
+                "kicadSymbolki_fp_filters": "Relay*SPDT*StandexMeder*SIL*Form1C*",
+                "kicadSymbolki_keywords": "Single Pole Reed Relay SPDT"
+            }
+        ]
+    ]
+}

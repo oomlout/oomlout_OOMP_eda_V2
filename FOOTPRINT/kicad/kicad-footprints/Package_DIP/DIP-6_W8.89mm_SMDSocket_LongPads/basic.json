@@ -1,0 +1,57 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "smd",
+            "description": "6-lead though-hole mounted DIP package, row spacing 8.89 mm (350 mils), SMDSocket, LongPads",
+            "name": "DIP-6_W8.89mm_SMDSocket_LongPads",
+            "pins": {
+                "shape": "rect",
+                "type": "smd"
+            },
+            "tags": "THT DIP DIL PDIP 2.54mm 8.89mm 350mil SMDSocket LongPads",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/Package_DIP.3dshapes/DIP-6_W8.89mm_SMDSocket.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKDIPDIP6W889SMSOL"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Package_DIP : DIP-6_W8.89mm_SMDSocket_LongPads"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Package_DIP"
+    ],
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Package_DIP-DIP-6_W8.89mm_SMDSocket_LongPads"
+    ],
+    "oompIndex": [
+        "DIP-6_W8.89mm_SMDSocket_LongPads"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

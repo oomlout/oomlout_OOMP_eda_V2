@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKREGULATORLINEARTLV712SOT353"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Regulator_Linear : TLV70012_SOT353"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Regulator_Linear"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Regulator_Linear-TLV70012_SOT353"
+    ],
+    "oompIndex": [
+        "TLV70012_SOT353"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.ti.com/lit/ds/symlink/tlv700.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_TO_SOT_SMD:SOT-353_SC-70-5",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "TLV70012_SOT353",
+                "kicadSymbolki_description": "200mA Low Dropout Voltage Regulator, Fixed Output 1.2V, SOT-23-5/SC-70-5/SOT-353",
+                "kicadSymbolki_fp_filters": "SOT*353*",
+                "kicadSymbolki_keywords": "200mA LDO Regulator Fixed Positive"
+            }
+        ]
+    ]
+}

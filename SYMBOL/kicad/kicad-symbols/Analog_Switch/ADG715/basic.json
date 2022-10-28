@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKANALOGSWITCHADG715"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Analog_Switch : ADG715"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Analog_Switch"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Analog_Switch-ADG715"
+    ],
+    "oompIndex": [
+        "ADG715"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/ADG714_715.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_SO:TSSOP-24_4.4x7.8mm_P0.65mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "ADG715",
+                "kicadSymbolki_description": "CMOS, Low Voltage, Serially Controlled, Octal SPST Switch, I2C interface, TSSOP-24",
+                "kicadSymbolki_fp_filters": "TSSOP*4.4x7.8mm*P0.65mm*",
+                "kicadSymbolki_keywords": "CMOS, Switch, I2C"
+            }
+        ]
+    ]
+}

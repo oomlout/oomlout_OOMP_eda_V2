@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKTRANSISTORFETFDG124NZ"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Transistor_FET : FDG1024NZ"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Transistor_FET"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Transistor_FET-FDG1024NZ"
+    ],
+    "oompIndex": [
+        "FDG1024NZ"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.onsemi.com/pub/Collateral/FDG1024NZ-D.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_TO_SOT_SMD:SOT-363_SC-70-6",
+                "kicadSymbolReference": "Q",
+                "kicadSymbolValue": "FDG1024NZ",
+                "kicadSymbolki_description": "1.2A Id, 20V Vds, Dual N-Channel MOSFET, 175mOhm Ron, SC-70-6",
+                "kicadSymbolki_fp_filters": "SOT?363*",
+                "kicadSymbolki_keywords": "Dual N-Channel MOSFET Logic Level"
+            }
+        ]
+    ]
+}

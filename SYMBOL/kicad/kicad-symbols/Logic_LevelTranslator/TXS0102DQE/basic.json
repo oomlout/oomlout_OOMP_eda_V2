@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKLOGICLEVELTRANSLATORTXS12DQE"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Logic_LevelTranslator : TXS0102DQE"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Logic_LevelTranslator"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Logic_LevelTranslator-TXS0102DQE"
+    ],
+    "oompIndex": [
+        "TXS0102DQE"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.ti.com/lit/gpn/txs0102",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_SON:X2SON-8_1.4x1mm_P0.35mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "TXS0102DQE",
+                "kicadSymbolki_description": "2-Bit Bidirectional Voltage-Level Shifter for Open-Drain and Push-Pull Application, X2SON-8",
+                "kicadSymbolki_fp_filters": "X2SON*1.4x1mm*P0.35mm*",
+                "kicadSymbolki_keywords": "Level-Shifter CMOS-TTL-Translation"
+            }
+        ]
+    ]
+}

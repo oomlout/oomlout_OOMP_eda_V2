@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKDEVICELSLLFILL"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Device : LED_Small_Filled"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Device"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Device-LED_Small_Filled"
+    ],
+    "oompIndex": [
+        "LED_Small_Filled"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "~",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "",
+                "kicadSymbolReference": "D",
+                "kicadSymbolValue": "LED_Small_Filled",
+                "kicadSymbolki_description": "Light emitting diode, small symbol, filled shape",
+                "kicadSymbolki_fp_filters": "LED* LED_SMD:* LED_THT:*",
+                "kicadSymbolki_keywords": "LED diode light-emitting-diode"
+            }
+        ]
+    ]
+}

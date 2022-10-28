@@ -1,0 +1,57 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "smd",
+            "description": "http://www.cyntec.com/upfile/products/download/Cyntec%20MUN12AD03-SH_Datasheet.pdf",
+            "name": "Converter_DCDC_Cyntec_MUN12AD03-SH",
+            "pins": {
+                "shape": "rect",
+                "type": "smd"
+            },
+            "tags": "Power Module uPOL MUN12AD03",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/Converter_DCDC.3dshapes/Converter_DCDC_Cyntec_MUN12AD0x-SH.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKCONCONCYNTECMUN12AD3SH"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Converter_DCDC : Converter_DCDC_Cyntec_MUN12AD03-SH"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Converter_DCDC"
+    ],
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_Cyntec_MUN12AD03-SH"
+    ],
+    "oompIndex": [
+        "Converter_DCDC_Cyntec_MUN12AD03-SH"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKSENOPTICALFLIRLEPTON"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Sensor_Optical : Flir_LEPTON"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Sensor_Optical"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Sensor_Optical-Flir_LEPTON"
+    ],
+    "oompIndex": [
+        "Flir_LEPTON"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://cdn.sparkfun.com/datasheets/Sensors/Infrared/FLIR_Lepton_Data_Brief.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "Flir_LEPTON",
+                "kicadSymbolki_description": "LWIR camera 8 to 14um 80x60 pixel",
+                "kicadSymbolki_fp_filters": "*105028*1001* *105028*2011*",
+                "kicadSymbolki_keywords": "LWIR camera"
+            }
+        ]
+    ]
+}

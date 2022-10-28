@@ -1,0 +1,81 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKSENMAGNETICDRV555A4XDBZXQ1"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Sensor_Magnetic : DRV5055A4xDBZxQ1"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Sensor_Magnetic"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Magnetic/DRV5055A4xDBZxQ1/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Magnetic/DRV5055A4xDBZxQ1/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Magnetic/DRV5055A4xDBZxQ1/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Magnetic/DRV5055A4xDBZxQ1/details.py"
+        ],
+        "imagePng": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Magnetic/DRV5055A4xDBZxQ1/image.png"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Magnetic/DRV5055A4xDBZxQ1/basic.json"
+        ],
+        "readme": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Magnetic/DRV5055A4xDBZxQ1/README.md"
+        ]
+    },
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-DRV5055A4xDBZxQ1"
+    ],
+    "oompIndex": [
+        "DRV5055A4xDBZxQ1"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.ti.com/lit/ds/symlink/drv5055-q1.pdf",
+                "kicadSymbolExtends": "DRV5055A1xDBZxQ1",
+                "kicadSymbolFootprint": "Package_TO_SOT_SMD:SOT-23",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "DRV5055A4xDBZxQ1",
+                "kicadSymbolki_description": "12.5 mV/mT,\u00b1169-mT, 20-kHz, 3.3/5V, SOT-23",
+                "kicadSymbolki_fp_filters": "SOT?23*",
+                "kicadSymbolki_keywords": "Automotive Ratiometric Linear Hall Effect Sensor AEC-Q100"
+            }
+        ]
+    ]
+}

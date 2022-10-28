@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKPOWERMANAGEMENTTPS26631RGE"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Power_Management : TPS26631RGE"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Power_Management"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Power_Management-TPS26631RGE"
+    ],
+    "oompIndex": [
+        "TPS26631RGE"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.ti.com/lit/ds/symlink/tps2663.pdf",
+                "kicadSymbolExtends": "TPS26630RGE",
+                "kicadSymbolFootprint": "Package_DFN_QFN:Texas_RGE0024H_EP2.7x2.7mm_ThermalVias",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "TPS26631RGE",
+                "kicadSymbolki_description": "60V, 6A Power Limiting, Surge Protection Industrial eFuse, Adjustable Overvoltage cut-off, Active Current Limiting with Pulse current support, VQFN-24",
+                "kicadSymbolki_fp_filters": "Texas?RGE0024H*",
+                "kicadSymbolki_keywords": "efuse protection switch"
+            }
+        ]
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZK4XXX41"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "4xxx : 4010"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "4xxx"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-4xxx-4010"
+    ],
+    "oompIndex": [
+        "4010"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.ti.com/lit/ds/symlink/cd4010b-q1.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "4010",
+                "kicadSymbolki_description": "Hex Buffer",
+                "kicadSymbolki_fp_filters": "DIP?16*",
+                "kicadSymbolki_keywords": "CMOS BUFFER high sink, VCC and VDD sep. VDD>VI>VCC!",
+                "kicadSymbolki_locked": ""
+            }
+        ]
+    ]
+}

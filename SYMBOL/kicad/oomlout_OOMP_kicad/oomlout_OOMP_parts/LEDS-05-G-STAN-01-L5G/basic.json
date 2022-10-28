@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSLS5GSTAN1L5G"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "oomlout_OOMP_parts : LEDS-05-G-STAN-01-L5G"
+    ],
+    "oompColor": [
+        "oomlout_OOMP_kicad"
+    ],
+    "oompDesc": [
+        "oomlout_OOMP_parts"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-LEDS-05-G-STAN-01-L5G"
+    ],
+    "oompIndex": [
+        "LEDS-05-G-STAN-01-L5G"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "oom.lt/L5G",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "oomlout_OOMP_parts:LEDS-05-G-STAN-01-L5G",
+                "kicadSymbolReference": "D",
+                "kicadSymbolValue": "LEDS-05-G-STAN-01-L5G",
+                "kicadSymbolki_description": "hexID: L5G;Light emitting diode",
+                "kicadSymbolki_fp_filters": "LED* LED_SMD:* LED_THT:*",
+                "kicadSymbolki_keywords": "LED diode"
+            }
+        ]
+    ]
+}

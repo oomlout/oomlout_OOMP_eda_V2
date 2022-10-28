@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKRFBLUETOOTHRFD7711"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "RF_Bluetooth : RFD77101"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "RF_Bluetooth"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-RF_Bluetooth-RFD77101"
+    ],
+    "oompIndex": [
+        "RFD77101"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.simblee.com/Simblee%20RFD77101%20Datasheet%20v1.0.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "RF_Module:RFDigital_RFD77101",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "RFD77101",
+                "kicadSymbolki_description": "Simblee Bluetooth Smart Module with ARM Cortex-M0 and integrated antenna",
+                "kicadSymbolki_fp_filters": "RFDigital*RFD77101*",
+                "kicadSymbolki_keywords": "Simblee ARM Cortex-M0 Bluetooth antenna"
+            }
+        ]
+    ]
+}

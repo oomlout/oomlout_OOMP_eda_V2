@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKMCUMCHIPAVRAT9U646A"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "MCU_Microchip_AVR : AT90USB646-A"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "MCU_Microchip_AVR"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-MCU_Microchip_AVR-AT90USB646-A"
+    ],
+    "oompIndex": [
+        "AT90USB646-A"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/doc7593.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_QFP:TQFP-64_14x14mm_P0.8mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "AT90USB646-A",
+                "kicadSymbolki_description": "16MHz, 64kB Flash, 4kB SRAM, 2kB EEPROM, USB 2.0, TQFP-64",
+                "kicadSymbolki_fp_filters": "TQFP*14x14mm*P0.8mm*",
+                "kicadSymbolki_keywords": "AVR 8bit Microcontroller USB"
+            }
+        ]
+    ]
+}

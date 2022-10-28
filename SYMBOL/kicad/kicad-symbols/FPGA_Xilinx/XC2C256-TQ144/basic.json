@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKFPGAXILINXXC2C256TQ144"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "FPGA_Xilinx : XC2C256-TQ144"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "FPGA_Xilinx"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-FPGA_Xilinx-XC2C256-TQ144"
+    ],
+    "oompIndex": [
+        "XC2C256-TQ144"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.xilinx.com/support/documentation/data_sheets/ds094.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_QFP:TQFP-144_20x20mm_P0.5mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "XC2C256-TQ144",
+                "kicadSymbolki_description": "CoolRunner-II CPLD, 256 macrocells",
+                "kicadSymbolki_fp_filters": "TQFP*20x20mm*P0.5mm*",
+                "kicadSymbolki_keywords": "CPLD"
+            }
+        ]
+    ]
+}

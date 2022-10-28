@@ -1,0 +1,57 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "through_hole",
+            "description": "https://belfuse.com/resources/drawings/stewartconnector/dr-stw-ss-74301-001-ss-74301-002-ss-74301-005.pdf",
+            "name": "RJ45_BEL_SS74301-00x_Vertical",
+            "pins": {
+                "shape": "circle",
+                "type": "np_thru_hole"
+            },
+            "tags": "RJ45 Vertical Shield LED Green Yellow",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/Connector_RJ.3dshapes/RJ45_BEL_SS74301-00x_Vertical.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKCNRJRJ45BELSS7431XVERTICAL"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Connector_RJ : RJ45_BEL_SS74301-00x_Vertical"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Connector_RJ"
+    ],
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Connector_RJ-RJ45_BEL_SS74301-00x_Vertical"
+    ],
+    "oompIndex": [
+        "RJ45_BEL_SS74301-00x_Vertical"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

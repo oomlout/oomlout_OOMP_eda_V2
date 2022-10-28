@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKTIMERMN312"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Timer : MN3102"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Timer"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Timer-MN3102"
+    ],
+    "oompIndex": [
+        "MN3102"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.experimentalistsanonymous.com/diy/Datasheets/MN3102.pdf",
+                "kicadSymbolExtends": "MN3101",
+                "kicadSymbolFootprint": "",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "MN3102",
+                "kicadSymbolki_description": "Clock Generator Driver/Driver for MN3000 Series BBD (bucket brigade device), 4V to 10V, DIP-8",
+                "kicadSymbolki_fp_filters": "DIP*W7.62mm*",
+                "kicadSymbolki_keywords": "Matsushita Panasonic BBD CMOS"
+            }
+        ]
+    ]
+}

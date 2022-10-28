@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZK74XGXX74LVC1GU4DRL"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "74xGxx : 74LVC1GU04DRL"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "74xGxx"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-74xGxx-74LVC1GU04DRL"
+    ],
+    "oompIndex": [
+        "74LVC1GU04DRL"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.ti.com/lit/ds/symlink/sn74lvc1gu04.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_TO_SOT_SMD:SOT-553",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "74LVC1GU04DRL",
+                "kicadSymbolki_description": "Single Inverter Gate, SOT-553",
+                "kicadSymbolki_fp_filters": "SOT*553*",
+                "kicadSymbolki_keywords": "inverter cmos"
+            }
+        ]
+    ]
+}

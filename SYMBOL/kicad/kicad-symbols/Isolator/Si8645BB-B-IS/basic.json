@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKISOLATORSI8645BBBIS"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Isolator : Si8645BB-B-IS"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Isolator"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Isolator-Si8645BB-B-IS"
+    ],
+    "oompIndex": [
+        "Si8645BB-B-IS"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.silabs.com/documents/public/data-sheets/si864x-datasheet.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_SO:SOIC-16W_7.5x10.3mm_P1.27mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "Si8645BB-B-IS",
+                "kicadSymbolki_description": "Low-Power Quad-Channel Digital Isolator, 150Mbps, 2.5-5.5V, 2.5kV isolation, Fail-Safe Low, SOIC-16W",
+                "kicadSymbolki_fp_filters": "SOIC*7.5x10.3mm*P1.27mm*",
+                "kicadSymbolki_keywords": "4Ch 4In Quad Digital Isolator 150Mbps"
+            }
+        ]
+    ]
+}

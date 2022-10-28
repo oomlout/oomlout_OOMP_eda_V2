@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKMCUCYPRESSCY8C4246AXIM445"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "MCU_Cypress : CY8C4246AXI-M445"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "MCU_Cypress"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-MCU_Cypress-CY8C4246AXI-M445"
+    ],
+    "oompIndex": [
+        "CY8C4246AXI-M445"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.cypress.com/file/139956/download",
+                "kicadSymbolExtends": "CY8C4245AXI-M445",
+                "kicadSymbolFootprint": "Package_QFP:TQFP-64_14x14mm_P0.8mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "CY8C4246AXI-M445",
+                "kicadSymbolki_description": "PSoC 4200M series, 48MHz CPU, 64KB Flash, 8KB SRAM, 64-TQFP",
+                "kicadSymbolki_fp_filters": "TQFP*14x14mm*P0.8mm*",
+                "kicadSymbolki_keywords": "Cypress Microcontroller Arm CapSense LCD"
+            }
+        ]
+    ]
+}

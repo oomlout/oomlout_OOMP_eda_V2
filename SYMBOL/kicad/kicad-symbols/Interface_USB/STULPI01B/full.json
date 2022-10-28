@@ -1,0 +1,81 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKINTERFACEUSTULPI1B"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Interface_USB : STULPI01B"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Interface_USB"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_USB/STULPI01B/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_USB/STULPI01B/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_USB/STULPI01B/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_USB/STULPI01B/details.py"
+        ],
+        "imagePng": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_USB/STULPI01B/image.png"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_USB/STULPI01B/basic.json"
+        ],
+        "readme": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_USB/STULPI01B/README.md"
+        ]
+    },
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Interface_USB-STULPI01B"
+    ],
+    "oompIndex": [
+        "STULPI01B"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.st.com/resource/en/datasheet/stulpi01b.pdf",
+                "kicadSymbolExtends": "STULPI01A",
+                "kicadSymbolFootprint": "Package_BGA:ST_uTFBGA-36_3.6x3.6mm_Layout6x6_P0.5mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "STULPI01B",
+                "kicadSymbolki_description": "High-speed USB On-The-Go ULPI transceiver",
+                "kicadSymbolki_fp_filters": "ST*uTFBGA*3.6x3.6mm*Layout6x6*P0.5mm*",
+                "kicadSymbolki_keywords": "USB OTG HS PHY ULPI Interface"
+            }
+        ]
+    ]
+}

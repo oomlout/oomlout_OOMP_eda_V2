@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKCONJTE624D15"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Converter_DCDC : JTE0624D15"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Converter_DCDC"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Converter_DCDC-JTE0624D15"
+    ],
+    "oompIndex": [
+        "JTE0624D15"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.xppower.com/Portals/0/pdfs/SF_JTE06.pdf",
+                "kicadSymbolExtends": "JTE0624D03",
+                "kicadSymbolFootprint": "Converter_DCDC:Converter_DCDC_XP_POWER_JTExxxxDxx_THT",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "JTE0624D15",
+                "kicadSymbolki_description": "XP Power 6W Isolated DC/DC Converter Module, Dual Output Voltage \u00b115V, 9-36V Input Voltage",
+                "kicadSymbolki_fp_filters": "*XP?POWER*JTExxxxDxx*",
+                "kicadSymbolki_keywords": "XP_POWER isolated DC/DC Converter module"
+            }
+        ]
+    ]
+}

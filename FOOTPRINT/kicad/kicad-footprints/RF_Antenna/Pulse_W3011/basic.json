@@ -1,0 +1,57 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "smd",
+            "description": "Pulse RF Antenna, 4mm Clearance",
+            "name": "Pulse_W3011",
+            "pins": {
+                "shape": "trapezoid",
+                "type": "smd"
+            },
+            "tags": "antenna rf",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/RF_Antenna.3dshapes/Pulse_W3011.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKRFPULSEW311"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "RF_Antenna : Pulse_W3011"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "RF_Antenna"
+    ],
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-RF_Antenna-Pulse_W3011"
+    ],
+    "oompIndex": [
+        "Pulse_W3011"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

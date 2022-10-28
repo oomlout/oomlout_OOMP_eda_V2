@@ -1,0 +1,57 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKCNCONNWALLSO"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Connector : Conn_WallSocket"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Connector"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Connector-Conn_WallSocket"
+    ],
+    "oompIndex": [
+        "Conn_WallSocket"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "~",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "",
+                "kicadSymbolReference": "J",
+                "kicadSymbolValue": "Conn_WallSocket",
+                "kicadSymbolki_description": "3-pin german wall socket, no Earth wire (110VAC, 220VAC)",
+                "kicadSymbolki_keywords": "wall socket 110VAC 220VAC"
+            }
+        ]
+    ]
+}

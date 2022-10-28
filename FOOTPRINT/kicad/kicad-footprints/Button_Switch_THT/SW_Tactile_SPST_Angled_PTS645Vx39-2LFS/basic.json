@@ -1,0 +1,57 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "through_hole",
+            "description": "tactile switch SPST right angle, PTS645VL39-2 LFS",
+            "name": "SW_Tactile_SPST_Angled_PTS645Vx39-2LFS",
+            "pins": {
+                "shape": "circle",
+                "type": "thru_hole"
+            },
+            "tags": "tactile switch SPST angled PTS645VL39-2 LFS C&K Button",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_Tactile_SPST_Angled_PTS645Vx39-2LFS.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKBSWTACTILESPSTANGLPTS645VX392LFS"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Button_Switch_THT : SW_Tactile_SPST_Angled_PTS645Vx39-2LFS"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Button_Switch_THT"
+    ],
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_Tactile_SPST_Angled_PTS645Vx39-2LFS"
+    ],
+    "oompIndex": [
+        "SW_Tactile_SPST_Angled_PTS645Vx39-2LFS"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKREGULATORSWITCHEDCAPACITORTPS6151DRV"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Regulator_SwitchedCapacitor : TPS60151DRV"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Regulator_SwitchedCapacitor"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Regulator_SwitchedCapacitor-TPS60151DRV"
+    ],
+    "oompIndex": [
+        "TPS60151DRV"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.ti.com/lit/ds/symlink/tps60151.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_SON:WSON-6-1EP_2x2mm_P0.65mm_EP1x1.6mm_ThermalVias",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "TPS60151DRV",
+                "kicadSymbolki_description": "5V, 140mA charge-pump, WSON-6",
+                "kicadSymbolki_fp_filters": "WSON*1EP*2x2mm*P0.65mm*",
+                "kicadSymbolki_keywords": "charge pump"
+            }
+        ]
+    ]
+}

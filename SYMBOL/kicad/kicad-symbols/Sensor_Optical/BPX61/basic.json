@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKSENOPTICALBPX61"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Sensor_Optical : BPX61"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Sensor_Optical"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Sensor_Optical-BPX61"
+    ],
+    "oompIndex": [
+        "BPX61"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.osram-os.com/Graphics/XPic3/00101650_0.pdf",
+                "kicadSymbolExtends": "BPW21",
+                "kicadSymbolFootprint": "Package_TO_SOT_THT:TO-5-2_Window",
+                "kicadSymbolReference": "D",
+                "kicadSymbolValue": "BPX61",
+                "kicadSymbolki_description": "Silicon Photodiode for the visible spectral range",
+                "kicadSymbolki_fp_filters": "TO?5*Window*",
+                "kicadSymbolki_keywords": "photodiode opto"
+            }
+        ]
+    ]
+}

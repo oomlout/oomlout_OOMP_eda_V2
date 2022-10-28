@@ -1,0 +1,89 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "smd",
+            "description": "Molex Micro-Fit 3.0 Connector System, 43650-0621 (compatible alternatives: 43650-0622, 43650-0623), 6 Pins per row (https://www.molex.com/pdm_docs/sd/436500221_sd.pdf), generated with kicad-footprint-generator",
+            "name": "Molex_Micro-Fit_3.0_43650-0621_1x06_P3.00mm_Vertical",
+            "pins": {
+                "shape": "circle",
+                "type": "np_thru_hole"
+            },
+            "tags": "connector Molex Micro-Fit_3.0 vertical",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/Connector_Molex.3dshapes/Molex_Micro-Fit_3.0_43650-0621_1x06_P3.00mm_Vertical.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKCNMXMXMFIT343656211X6P3VERTICAL"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Connector_Molex : Molex_Micro-Fit_3.0_43650-0621_1x06_P3.00mm_Vertical"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Connector_Molex"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Micro-Fit_3.0_43650-0621_1x06_P3.00mm_Vertical/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Micro-Fit_3.0_43650-0621_1x06_P3.00mm_Vertical/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Micro-Fit_3.0_43650-0621_1x06_P3.00mm_Vertical/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Micro-Fit_3.0_43650-0621_1x06_P3.00mm_Vertical/details.py"
+        ],
+        "imagePng": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Micro-Fit_3.0_43650-0621_1x06_P3.00mm_Vertical/image.png"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Micro-Fit_3.0_43650-0621_1x06_P3.00mm_Vertical/basic.json"
+        ],
+        "kicadPcb3d": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Micro-Fit_3.0_43650-0621_1x06_P3.00mm_Vertical/kicadPcb3d.png"
+        ],
+        "kicadPcb3dBack": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Micro-Fit_3.0_43650-0621_1x06_P3.00mm_Vertical/kicadPcb3dBack.png"
+        ],
+        "kicadPcb3dFront": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Micro-Fit_3.0_43650-0621_1x06_P3.00mm_Vertical/kicadPcb3dFront.png"
+        ],
+        "readme": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Micro-Fit_3.0_43650-0621_1x06_P3.00mm_Vertical/README.md"
+        ]
+    },
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Micro-Fit_3.0_43650-0621_1x06_P3.00mm_Vertical"
+    ],
+    "oompIndex": [
+        "Molex_Micro-Fit_3.0_43650-0621_1x06_P3.00mm_Vertical"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

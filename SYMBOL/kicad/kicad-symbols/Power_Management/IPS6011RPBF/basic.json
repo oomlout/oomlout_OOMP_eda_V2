@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKPOWERMANAGEMENTIPS611RPBF"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Power_Management : IPS6011RPBF"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Power_Management"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Power_Management-IPS6011RPBF"
+    ],
+    "oompIndex": [
+        "IPS6011RPBF"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.irf.com/product-info/datasheets/data/ips6011pbf.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_TO_SOT_SMD:TO-252-5_TabPin3",
+                "kicadSymbolReference": "Q",
+                "kicadSymbolValue": "IPS6011RPBF",
+                "kicadSymbolki_description": "39V, 60A, Intelligent Power Switch High Side, D-PAK 5pin",
+                "kicadSymbolki_fp_filters": "TO?252*",
+                "kicadSymbolki_keywords": "Intelligent Power Switch High Side MOSFET"
+            }
+        ]
+    ]
+}

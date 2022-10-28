@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKFPGAXILINXVIRTEX5XC5VFX3TFF665"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "FPGA_Xilinx_Virtex5 : XC5VFX30T-FF665"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "FPGA_Xilinx_Virtex5"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Virtex5-XC5VFX30T-FF665"
+    ],
+    "oompIndex": [
+        "XC5VFX30T-FF665"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "XC5VFX30T-FF665",
+                "kicadSymbolki_description": "Virtex 5 FXT 30 XC5VFX30T-FF665",
+                "kicadSymbolki_keywords": "FPGA",
+                "kicadSymbolki_locked": ""
+            }
+        ]
+    ]
+}

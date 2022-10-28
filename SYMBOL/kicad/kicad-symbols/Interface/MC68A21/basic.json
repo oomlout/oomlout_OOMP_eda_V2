@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKINTERFACEMC68A21"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Interface : MC68A21"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Interface"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Interface-MC68A21"
+    ],
+    "oompIndex": [
+        "MC68A21"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://pdf.datasheetcatalog.com/datasheet/motorola/6821.pdf",
+                "kicadSymbolExtends": "6821",
+                "kicadSymbolFootprint": "Package_DIP:DIP-40_W15.24mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "MC68A21",
+                "kicadSymbolki_description": "Peripheral Interface Adapter 1.5MHz, DIP-40",
+                "kicadSymbolki_fp_filters": "DIP*W15.24mm*",
+                "kicadSymbolki_keywords": "PIA"
+            }
+        ]
+    ]
+}

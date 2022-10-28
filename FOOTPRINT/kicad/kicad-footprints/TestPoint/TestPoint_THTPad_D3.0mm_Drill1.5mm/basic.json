@@ -1,0 +1,56 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": null,
+            "description": "THT pad as test Point, diameter 3.0mm, hole diameter 1.5mm",
+            "name": "TestPoint_THTPad_D3.0mm_Drill1.5mm",
+            "pins": {
+                "shape": "circle",
+                "type": "thru_hole"
+            },
+            "tags": "test point THT pad"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKTPTPTHTPADD3DRILL15"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "TestPoint : TestPoint_THTPad_D3.0mm_Drill1.5mm"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "TestPoint"
+    ],
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-TestPoint-TestPoint_THTPad_D3.0mm_Drill1.5mm"
+    ],
+    "oompIndex": [
+        "TestPoint_THTPad_D3.0mm_Drill1.5mm"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

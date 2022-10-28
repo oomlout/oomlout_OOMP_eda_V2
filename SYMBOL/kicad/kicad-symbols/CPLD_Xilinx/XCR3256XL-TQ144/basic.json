@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKCPLDXILINXXCR3256XLTQ144"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "CPLD_Xilinx : XCR3256XL-TQ144"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "CPLD_Xilinx"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-CPLD_Xilinx-XCR3256XL-TQ144"
+    ],
+    "oompIndex": [
+        "XCR3256XL-TQ144"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.xilinx.com/support/documentation/data_sheets/ds013.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_QFP:TQFP-144_20x20mm_P0.5mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "XCR3256XL-TQ144",
+                "kicadSymbolki_description": "Xilinx CoolRunner 256-Macrocell CPLD, 3.3V, TQFP-144",
+                "kicadSymbolki_fp_filters": "TQFP*20x20mm*P0.5*",
+                "kicadSymbolki_keywords": "CPLD"
+            }
+        ]
+    ]
+}

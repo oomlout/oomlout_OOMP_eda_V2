@@ -1,0 +1,57 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "through_hole",
+            "description": "Footprint for the Adafruit Feather 32u4 FONA board, https://learn.adafruit.com/adafruit-feather-32u4-fona",
+            "name": "Adafruit_Feather_32u4_FONA",
+            "pins": {
+                "shape": "rect",
+                "type": "thru_hole"
+            },
+            "tags": "Adafruit Feather 32u4 FONA",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/Module.3dshapes/Adafruit_Feather_32u4_FONA.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKMOADAFEATHER32U4FONA"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Module : Adafruit_Feather_32u4_FONA"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Module"
+    ],
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Module-Adafruit_Feather_32u4_FONA"
+    ],
+    "oompIndex": [
+        "Adafruit_Feather_32u4_FONA"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKRELAYRT314A6"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Relay : RT314A06"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Relay"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Relay-RT314A06"
+    ],
+    "oompIndex": [
+        "RT314A06"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=RT1_bistable&DocType=DS&DocLang=English",
+                "kicadSymbolExtends": "RT314A03",
+                "kicadSymbolFootprint": "Relay_THT:Relay_SPDT_Schrack-RT1-16A-FormC_RM5mm",
+                "kicadSymbolReference": "K",
+                "kicadSymbolValue": "RT314A06",
+                "kicadSymbolki_description": "Schrack RT1 relay, bistablesingle pole dual throw, single DC coil, 6V",
+                "kicadSymbolki_fp_filters": "Relay*SPDT*Schrack*RT1*16A*FormC*RM5mm*",
+                "kicadSymbolki_keywords": "TE SPDT 1P2T CO bistable DC"
+            }
+        ]
+    ]
+}

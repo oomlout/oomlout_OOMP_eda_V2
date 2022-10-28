@@ -1,0 +1,57 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "smd",
+            "description": "DHC Package; 18-Lead Plastic DFN (5mm x 3mm) (see Linear Technology 05081955_0_DHC18.pdf)",
+            "name": "DFN-18-1EP_3x5mm_P0.5mm_EP1.66x4.4mm",
+            "pins": {
+                "shape": "rect",
+                "type": "smd"
+            },
+            "tags": "DFN 0.5",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/DFN-18-1EP_3x5mm_P0.5mm_EP1.66x4.4mm.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKDFNDFN181EP3X5P5EP166X44"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Package_DFN_QFN : DFN-18-1EP_3x5mm_P0.5mm_EP1.66x4.4mm"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Package_DFN_QFN"
+    ],
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-DFN-18-1EP_3x5mm_P0.5mm_EP1.66x4.4mm"
+    ],
+    "oompIndex": [
+        "DFN-18-1EP_3x5mm_P0.5mm_EP1.66x4.4mm"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

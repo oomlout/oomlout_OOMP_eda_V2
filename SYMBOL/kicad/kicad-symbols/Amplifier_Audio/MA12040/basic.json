@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKAMPLIFIERAUDIOMA124"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Amplifier_Audio : MA12040"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Amplifier_Audio"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Amplifier_Audio-MA12040"
+    ],
+    "oompIndex": [
+        "MA12040"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.infineon.com/dgdl/Infineon-MA12040-DS-v01_00-EN.pdf?fileId=5546d46264a8de7e0164b7467a3d617c",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_DFN_QFN:QFN-64-1EP_9x9mm_P0.5mm_EP5.45x5.45mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "MA12040",
+                "kicadSymbolki_description": "Filterless and High-Efficiency +4V to +18V Audio Amplifier with Analog Input, QFN-64",
+                "kicadSymbolki_fp_filters": "QFN*1EP*9x9mm*P0.5mm*",
+                "kicadSymbolki_keywords": "integrated class d amplifier"
+            }
+        ]
+    ]
+}

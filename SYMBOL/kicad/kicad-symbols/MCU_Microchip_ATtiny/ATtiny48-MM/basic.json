@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKMCUMCHIPATTINYATTINY48"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "MCU_Microchip_ATtiny : ATtiny48-MM"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "MCU_Microchip_ATtiny"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny48-MM"
+    ],
+    "oompIndex": [
+        "ATtiny48-MM"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/doc8008.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_DFN_QFN:QFN-28-1EP_4x4mm_P0.45mm_EP2.4x2.4mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "ATtiny48-MM",
+                "kicadSymbolki_description": "12MHz, 4kB Flash, 256B SRAM, 64B EEPROM, QFN-28",
+                "kicadSymbolki_fp_filters": "QFN*1EP*4x4mm*P0.45mm*",
+                "kicadSymbolki_keywords": "AVR 8bit Microcontroller tinyAVR"
+            }
+        ]
+    ]
+}

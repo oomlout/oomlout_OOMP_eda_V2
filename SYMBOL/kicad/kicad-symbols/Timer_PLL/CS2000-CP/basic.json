@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKTIMERPLLCS2CP"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Timer_PLL : CS2000-CP"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Timer_PLL"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Timer_PLL-CS2000-CP"
+    ],
+    "oompIndex": [
+        "CS2000-CP"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://statics.cirrus.com/pubs/proDatasheet/CS2000-CP_F3.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_SO:MSOP-10_3x3mm_P0.5mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "CS2000-CP",
+                "kicadSymbolki_description": "Fractional-N Clock Synthesizer & Clock Multiplier, MSOP-10",
+                "kicadSymbolki_fp_filters": "MSOP*3x3mm*P0.5mm*",
+                "kicadSymbolki_keywords": "Clock Synthesizer Multiplier"
+            }
+        ]
+    ]
+}

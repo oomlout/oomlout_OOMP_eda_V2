@@ -1,0 +1,59 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZK74XX74C923"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "74xx : MM74C923"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "74xx"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-74xx-MM74C923"
+    ],
+    "oompIndex": [
+        "MM74C923"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.ti.com/lit/gpn/snMM74C923",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "MM74C923",
+                "kicadSymbolki_description": "20-key encoder",
+                "kicadSymbolki_fp_filters": "DIP?20*",
+                "kicadSymbolki_keywords": "encoder",
+                "kicadSymbolki_locked": ""
+            }
+        ]
+    ]
+}

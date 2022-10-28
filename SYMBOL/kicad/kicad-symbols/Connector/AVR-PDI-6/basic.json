@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKCNAVRPDI6"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Connector : AVR-PDI-6"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Connector"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Connector-AVR-PDI-6"
+    ],
+    "oompIndex": [
+        "AVR-PDI-6"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": " ~",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "",
+                "kicadSymbolReference": "J",
+                "kicadSymbolValue": "AVR-PDI-6",
+                "kicadSymbolki_description": "Atmel 6-pin PDI connector",
+                "kicadSymbolki_fp_filters": "IDC?Header*2x03* Pin?Header*2x03*",
+                "kicadSymbolki_keywords": "AVR PDI Connector"
+            }
+        ]
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKRFAMPLIFIERPGA13"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "RF_Amplifier : PGA-103"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "RF_Amplifier"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-RF_Amplifier-PGA-103"
+    ],
+    "oompIndex": [
+        "PGA-103"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.minicircuits.com/pdfs/PGA-103+.pdf",
+                "kicadSymbolExtends": "SPF5189Z",
+                "kicadSymbolFootprint": "Package_TO_SOT_SMD:SOT-89-3",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "PGA-103",
+                "kicadSymbolki_description": "50-4000MHz +11dB Low Noise Amplifier, SOT-89",
+                "kicadSymbolki_fp_filters": "SOT?89*",
+                "kicadSymbolki_keywords": "RF amplifier"
+            }
+        ]
+    ]
+}

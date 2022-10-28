@@ -1,0 +1,81 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKOCSASVXXXMHZ"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Oscillator : ASV-xxxMHz"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Oscillator"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Oscillator/ASV-xxxMHz/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Oscillator/ASV-xxxMHz/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Oscillator/ASV-xxxMHz/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Oscillator/ASV-xxxMHz/details.py"
+        ],
+        "imagePng": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Oscillator/ASV-xxxMHz/image.png"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Oscillator/ASV-xxxMHz/basic.json"
+        ],
+        "readme": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Oscillator/ASV-xxxMHz/README.md"
+        ]
+    },
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Oscillator-ASV-xxxMHz"
+    ],
+    "oompIndex": [
+        "ASV-xxxMHz"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.abracon.com/Oscillators/ASV.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Oscillator:Oscillator_SMD_Abracon_ASV-4Pin_7.0x5.1mm",
+                "kicadSymbolReference": "X",
+                "kicadSymbolValue": "ASV-xxxMHz",
+                "kicadSymbolki_description": "3.3V HCMOS SMD Crystal Clock Oscillator, Abracon",
+                "kicadSymbolki_fp_filters": "Oscillator*SMD*Abracon*ASV*7.0x5.1mm*",
+                "kicadSymbolki_keywords": "3.3V HCMOS SMD Crystal Clock Oscillator"
+            }
+        ]
+    ]
+}

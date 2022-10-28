@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKREGULATORSWITCHINGTPS54336ADDA"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Regulator_Switching : TPS54336ADDA"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Regulator_Switching"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS54336ADDA"
+    ],
+    "oompIndex": [
+        "TPS54336ADDA"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.ti.com/lit/ds/symlink/tps54336a.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_SO:TI_SO-PowerPAD-8_ThermalVias",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "TPS54336ADDA",
+                "kicadSymbolki_description": " 4.5V to 28V Input, 3A, Synchronous Step-Down Converter with Eco-mode(tm)",
+                "kicadSymbolki_fp_filters": "TI*SO*PowerPAD*ThermalVias*",
+                "kicadSymbolki_keywords": "Step-Down DC-DC Switching Regulator"
+            }
+        ]
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKFPGAXILINXSPARTAN6XC6SLX1TCSG484"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "FPGA_Xilinx_Spartan6 : XC6SLX100T-CSG484"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "FPGA_Xilinx_Spartan6"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Spartan6-XC6SLX100T-CSG484"
+    ],
+    "oompIndex": [
+        "XC6SLX100T-CSG484"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "XC6SLX100T-CSG484",
+                "kicadSymbolki_description": "Spartan 6 LXT 100 XC6SLX100T-CSG484",
+                "kicadSymbolki_keywords": "FPGA",
+                "kicadSymbolki_locked": ""
+            }
+        ]
+    ]
+}

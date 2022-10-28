@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKINTERFACEOPTICALTS25XX"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Interface_Optical : TSOP25xx"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Interface_Optical"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Interface_Optical-TSOP25xx"
+    ],
+    "oompIndex": [
+        "TSOP25xx"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.vishay.com/docs/82460/tsop45.pdf",
+                "kicadSymbolExtends": "TSOP32S40F",
+                "kicadSymbolFootprint": "OptoDevice:Vishay_MOLD-3Pin",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "TSOP25xx",
+                "kicadSymbolki_description": "IR Receiver Modules for Remote Control Systems",
+                "kicadSymbolki_fp_filters": "Vishay*MOLD*",
+                "kicadSymbolki_keywords": "opto IR receiver"
+            }
+        ]
+    ]
+}

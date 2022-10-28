@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKLAPA16F5"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "LED : APA-106-F5"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "LED"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-LED-APA-106-F5"
+    ],
+    "oompIndex": [
+        "APA-106-F5"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://cdn.sparkfun.com/datasheets/Components/LED/COM-12877.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "LED_THT:LED_D5.0mm-4_RGB",
+                "kicadSymbolReference": "D",
+                "kicadSymbolValue": "APA-106-F5",
+                "kicadSymbolki_description": "RGB LED with integrated controller, 5mm Package",
+                "kicadSymbolki_fp_filters": "LED*D5.0mm*RGB*",
+                "kicadSymbolki_keywords": "RGB LED addressable 8bit pwm 5bit greyscale"
+            }
+        ]
+    ]
+}

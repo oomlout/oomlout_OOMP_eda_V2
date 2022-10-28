@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKREGULATORSWITCHINGNCP172P13"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Regulator_Switching : NCP1072P130"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Regulator_Switching"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Regulator_Switching-NCP1072P130"
+    ],
+    "oompIndex": [
+        "NCP1072P130"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.onsemi.com/pub/Collateral/NCP1070-D.PDF",
+                "kicadSymbolExtends": "NCP1070P065",
+                "kicadSymbolFootprint": "Package_DIP:DIP-8-N7_W7.62mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "NCP1072P130",
+                "kicadSymbolki_description": "High-Voltage Switcher for Low Power Offline SMPS, 700V Vds, 19W/10W, 230V/85-265V, 130kHz, 11Ohm Rds(on), 250mA Ipk, DIP-7",
+                "kicadSymbolki_fp_filters": "DIP*N7*W7.62mm*",
+                "kicadSymbolki_keywords": "SMPS Converter"
+            }
+        ]
+    ]
+}

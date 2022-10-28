@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKREGULATORLINEARMC7924"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Regulator_Linear : MC7924"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Regulator_Linear"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Regulator_Linear-MC7924"
+    ],
+    "oompIndex": [
+        "MC7924"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.onsemi.com/pub/Collateral/MC7900-D.PDF",
+                "kicadSymbolExtends": "L7905",
+                "kicadSymbolFootprint": "",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "MC7924",
+                "kicadSymbolki_description": "Negative 1A 40V Linear Regulator, Fixed Output -24V, TO-220/TO-263",
+                "kicadSymbolki_fp_filters": "TO?220* TO?263*",
+                "kicadSymbolki_keywords": "Voltage Regulator 1.5A Negative"
+            }
+        ]
+    ]
+}

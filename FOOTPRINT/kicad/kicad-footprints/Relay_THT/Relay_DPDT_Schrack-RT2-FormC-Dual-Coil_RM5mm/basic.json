@@ -1,0 +1,57 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "through_hole",
+            "description": "Relay DPDT Schrack-RT2 RM5mm 16A 250V AC Form C http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Data+Sheet%7FRT2_bistable%7F1116%7Fpdf%7FEnglish%7FENG_DS_RT2_bistable_1116.pdf%7F1-1415537-8",
+            "name": "Relay_DPDT_Schrack-RT2-FormC-Dual-Coil_RM5mm",
+            "pins": {
+                "shape": "oval",
+                "type": "thru_hole"
+            },
+            "tags": "Relay DPDT Schrack-RT2 RM5mm 16A 250V AC Relay",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/Relay_THT.3dshapes/Relay_DPDT_Schrack-RT2-FormC-Dual-Coil_RM5mm.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKRELRELAYDPDTSCHRACKRT2FORMCDUALCOILRM5"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Relay_THT : Relay_DPDT_Schrack-RT2-FormC-Dual-Coil_RM5mm"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Relay_THT"
+    ],
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_DPDT_Schrack-RT2-FormC-Dual-Coil_RM5mm"
+    ],
+    "oompIndex": [
+        "Relay_DPDT_Schrack-RT2-FormC-Dual-Coil_RM5mm"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

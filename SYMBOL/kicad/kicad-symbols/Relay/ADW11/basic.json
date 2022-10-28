@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKRELAYADW11"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Relay : ADW11"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Relay"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Relay-ADW11"
+    ],
+    "oompIndex": [
+        "ADW11"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.panasonic-electric-works.com/pew/es/downloads/ds_dw_hl_en.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Relay_THT:Relay_1P1T_NO_10x24x18.8mm_Panasonic_ADW11xxxxW_THT",
+                "kicadSymbolReference": "K",
+                "kicadSymbolValue": "ADW11",
+                "kicadSymbolki_description": "Panasonic, 8A/16A, Small Polarized Latching Power Relays, Single coil, 1 Form A",
+                "kicadSymbolki_fp_filters": "Relay*1P1T*NO*Panasonic*ADW11xxxxW*",
+                "kicadSymbolki_keywords": "SPST 1P1T"
+            }
+        ]
+    ]
+}

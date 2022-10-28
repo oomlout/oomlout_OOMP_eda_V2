@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKANALOGADCMAX11617"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Analog_ADC : MAX11617"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Analog_ADC"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Analog_ADC-MAX11617"
+    ],
+    "oompIndex": [
+        "MAX11617"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://datasheets.maximintegrated.com/en/ds/MAX11612-MAX11617.pdf",
+                "kicadSymbolExtends": "MAX11616",
+                "kicadSymbolFootprint": "Package_SO:QSOP-16_3.9x4.9mm_P0.635mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "MAX11617",
+                "kicadSymbolki_description": "12-channel single-ended or 6-channel, differential, 12-bit ADC, I2C, 2.048V internal reference, 16-QSOP package",
+                "kicadSymbolki_fp_filters": "QSOP*3.9x4.9mm*P0.635mm*",
+                "kicadSymbolki_keywords": "adc i2c 12ch"
+            }
+        ]
+    ]
+}

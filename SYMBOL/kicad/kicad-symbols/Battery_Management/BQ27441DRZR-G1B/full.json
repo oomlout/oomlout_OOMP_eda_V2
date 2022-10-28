@@ -1,0 +1,81 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKBATMANAGEMENTBQ27441DRZRG1B"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Battery_Management : BQ27441DRZR-G1B"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Battery_Management"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Battery_Management/BQ27441DRZR-G1B/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Battery_Management/BQ27441DRZR-G1B/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Battery_Management/BQ27441DRZR-G1B/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Battery_Management/BQ27441DRZR-G1B/details.py"
+        ],
+        "imagePng": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Battery_Management/BQ27441DRZR-G1B/image.png"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Battery_Management/BQ27441DRZR-G1B/basic.json"
+        ],
+        "readme": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Battery_Management/BQ27441DRZR-G1B/README.md"
+        ]
+    },
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Battery_Management-BQ27441DRZR-G1B"
+    ],
+    "oompIndex": [
+        "BQ27441DRZR-G1B"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.ti.com/lit/ds/symlink/bq27441-g1.pdf",
+                "kicadSymbolExtends": "BQ27441-G1",
+                "kicadSymbolFootprint": "Package_SON:Texas_S-PDSO-N12",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "BQ27441DRZR-G1B",
+                "kicadSymbolki_description": "System Side Li Ion/Polymer Fuel Gauge, 4.30-4.35V, PDSON-12",
+                "kicadSymbolki_fp_filters": "*PDSO*N12*",
+                "kicadSymbolki_keywords": "Fuel Gauge"
+            }
+        ]
+    ]
+}

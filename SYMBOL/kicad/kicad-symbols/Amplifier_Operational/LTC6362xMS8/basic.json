@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKAMPLIFIEROPERATIONALLTC6362XMS8"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Amplifier_Operational : LTC6362xMS8"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Amplifier_Operational"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LTC6362xMS8"
+    ],
+    "oompIndex": [
+        "LTC6362xMS8"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/6362fa.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_SO:MSOP-8_3x3mm_P0.65mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "LTC6362xMS8",
+                "kicadSymbolki_description": "Precision, Low Power, Rail-to-Rail Input/Output, Differential Op Amp/SAR ADC Driver, DFN-8",
+                "kicadSymbolki_fp_filters": "MSOP*3x3mm*P0.65mm*",
+                "kicadSymbolki_keywords": "single differential opamp"
+            }
+        ]
+    ]
+}

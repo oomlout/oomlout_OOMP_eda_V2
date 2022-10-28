@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKREGULATORLINEARTPS731125DBV"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Regulator_Linear : TPS731125DBV"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Regulator_Linear"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS731125DBV"
+    ],
+    "oompIndex": [
+        "TPS731125DBV"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.ti.com/lit/ds/symlink/tps731.pdf",
+                "kicadSymbolExtends": "TPS73625DBV",
+                "kicadSymbolFootprint": "Package_TO_SOT_SMD:SOT-23-5",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "TPS731125DBV",
+                "kicadSymbolki_description": "Cap free NMOS 150mA Low Drop 1.25V Regulator, SOT-23-5",
+                "kicadSymbolki_fp_filters": "SOT?23*",
+                "kicadSymbolki_keywords": "Cap free Fixed LDO 150mA"
+            }
+        ]
+    ]
+}

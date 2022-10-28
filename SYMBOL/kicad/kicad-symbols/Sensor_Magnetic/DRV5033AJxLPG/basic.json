@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKSENMAGNETICDRV533AJXLPG"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Sensor_Magnetic : DRV5033AJxLPG"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Sensor_Magnetic"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-DRV5033AJxLPG"
+    ],
+    "oompIndex": [
+        "DRV5033AJxLPG"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.ti.com/lit/ds/symlink/drv5033.pdf",
+                "kicadSymbolExtends": "DRV5055A1xLPGxQ1",
+                "kicadSymbolFootprint": "Package_TO_SOT_THT:TO-92_Inline",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "DRV5033AJxLPG",
+                "kicadSymbolki_description": "\u00b16.9 / \u00b13.5 mT, 20-kHz, 2-38V, TO-92",
+                "kicadSymbolki_fp_filters": "TO?92*",
+                "kicadSymbolki_keywords": "Digital Omnipolar Switch Hall Effect Sensor"
+            }
+        ]
+    ]
+}

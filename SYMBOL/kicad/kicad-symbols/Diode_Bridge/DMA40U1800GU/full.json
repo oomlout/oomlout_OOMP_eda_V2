@@ -1,0 +1,81 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKDIODEBRIDGEDMA4U18GU"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Diode_Bridge : DMA40U1800GU"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Diode_Bridge"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode_Bridge/DMA40U1800GU/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode_Bridge/DMA40U1800GU/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode_Bridge/DMA40U1800GU/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode_Bridge/DMA40U1800GU/details.py"
+        ],
+        "imagePng": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode_Bridge/DMA40U1800GU/image.png"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode_Bridge/DMA40U1800GU/basic.json"
+        ],
+        "readme": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode_Bridge/DMA40U1800GU/README.md"
+        ]
+    },
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Diode_Bridge-DMA40U1800GU"
+    ],
+    "oompIndex": [
+        "DMA40U1800GU"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://ixapps.ixys.com/Datasheet/DMA40U1800GU.pdf",
+                "kicadSymbolExtends": "GUO40-08NO1",
+                "kicadSymbolFootprint": "Diode_THT:Diode_Bridge_IXYS_GUFP",
+                "kicadSymbolReference": "D",
+                "kicadSymbolValue": "DMA40U1800GU",
+                "kicadSymbolki_description": "575V Vrms, 40A If, GUFP(X025B)",
+                "kicadSymbolki_fp_filters": "Diode*Bridge*IXYS*GUFP*",
+                "kicadSymbolki_keywords": "Three-Phase Bridge Rectifier"
+            }
+        ]
+    ]
+}

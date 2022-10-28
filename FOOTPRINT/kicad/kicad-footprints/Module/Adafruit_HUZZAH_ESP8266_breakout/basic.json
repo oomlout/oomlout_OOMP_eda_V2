@@ -1,0 +1,57 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "through_hole",
+            "description": "32-bit microcontroller module with WiFi, https://www.adafruit.com/product/2471",
+            "name": "Adafruit_HUZZAH_ESP8266_breakout",
+            "pins": {
+                "shape": "rect",
+                "type": "thru_hole"
+            },
+            "tags": "ESP8266 WiFi microcontroller",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/Module.3dshapes/Adafruit_HUZZAH_ESP8266_breakout.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKMOADAHUZZAHESP8266BREAKOUT"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Module : Adafruit_HUZZAH_ESP8266_breakout"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Module"
+    ],
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Module-Adafruit_HUZZAH_ESP8266_breakout"
+    ],
+    "oompIndex": [
+        "Adafruit_HUZZAH_ESP8266_breakout"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

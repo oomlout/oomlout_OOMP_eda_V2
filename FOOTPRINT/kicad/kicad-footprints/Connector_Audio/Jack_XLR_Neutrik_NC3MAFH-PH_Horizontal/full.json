@@ -1,0 +1,89 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "through_hole",
+            "description": "A Series, Chassis connector H female (A series layout), mates with Phoenix MSTB2,5/3-ST, horizontal PCB mount, https://www.neutrik.com/en/product/nc3mafh-ph",
+            "name": "Jack_XLR_Neutrik_NC3MAFH-PH_Horizontal",
+            "pins": {
+                "shape": "circle",
+                "type": "np_thru_hole"
+            },
+            "tags": "neutrik xlr a",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/Connector_Audio.3dshapes/Jack_XLR_Neutrik_NC3MAFH-PH_Horizontal.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKCNAUDIOJXLRNEUTRIKNC3MAFHPHHORIZONTAL"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Connector_Audio : Jack_XLR_Neutrik_NC3MAFH-PH_Horizontal"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Connector_Audio"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_XLR_Neutrik_NC3MAFH-PH_Horizontal/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_XLR_Neutrik_NC3MAFH-PH_Horizontal/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_XLR_Neutrik_NC3MAFH-PH_Horizontal/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_XLR_Neutrik_NC3MAFH-PH_Horizontal/details.py"
+        ],
+        "imagePng": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_XLR_Neutrik_NC3MAFH-PH_Horizontal/image.png"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_XLR_Neutrik_NC3MAFH-PH_Horizontal/basic.json"
+        ],
+        "kicadPcb3d": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_XLR_Neutrik_NC3MAFH-PH_Horizontal/kicadPcb3d.png"
+        ],
+        "kicadPcb3dBack": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_XLR_Neutrik_NC3MAFH-PH_Horizontal/kicadPcb3dBack.png"
+        ],
+        "kicadPcb3dFront": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_XLR_Neutrik_NC3MAFH-PH_Horizontal/kicadPcb3dFront.png"
+        ],
+        "readme": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_XLR_Neutrik_NC3MAFH-PH_Horizontal/README.md"
+        ]
+    },
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_XLR_Neutrik_NC3MAFH-PH_Horizontal"
+    ],
+    "oompIndex": [
+        "Jack_XLR_Neutrik_NC3MAFH-PH_Horizontal"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKTRANSISTORBJT2SC4213"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Transistor_BJT : 2SC4213"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Transistor_BJT"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Transistor_BJT-2SC4213"
+    ],
+    "oompIndex": [
+        "2SC4213"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://toshiba.semicon-storage.com/info/docget.jsp?did=19305&prodName=2SC4213",
+                "kicadSymbolExtends": "BC817W",
+                "kicadSymbolFootprint": "Package_TO_SOT_SMD:SOT-323_SC-70",
+                "kicadSymbolReference": "Q",
+                "kicadSymbolValue": "2SC4213",
+                "kicadSymbolki_description": "0.3A Ic, 20V Vce, NPN Transistor, For Muting and Switching, SOT-323",
+                "kicadSymbolki_fp_filters": "SOT?323*",
+                "kicadSymbolki_keywords": "NPN Transistor"
+            }
+        ]
+    ]
+}

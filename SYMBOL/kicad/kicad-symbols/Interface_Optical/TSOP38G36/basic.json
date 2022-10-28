@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKINTERFACEOPTICALTS38G36"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Interface_Optical : TSOP38G36"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Interface_Optical"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Interface_Optical-TSOP38G36"
+    ],
+    "oompIndex": [
+        "TSOP38G36"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.vishay.com/docs/82731/tsop38g36.pdf",
+                "kicadSymbolExtends": "TSOP581xx",
+                "kicadSymbolFootprint": "OptoDevice:Vishay_MINICAST-3Pin",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "TSOP38G36",
+                "kicadSymbolki_description": "Photo Modules for PCM Remote Control Systems",
+                "kicadSymbolki_fp_filters": "Vishay*MINICAST*",
+                "kicadSymbolki_keywords": "opto IR receiver"
+            }
+        ]
+    ]
+}

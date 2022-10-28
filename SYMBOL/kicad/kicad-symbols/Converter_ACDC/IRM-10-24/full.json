@@ -1,0 +1,81 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKCONIRM124"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Converter_ACDC : IRM-10-24"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Converter_ACDC"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_ACDC/IRM-10-24/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_ACDC/IRM-10-24/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_ACDC/IRM-10-24/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_ACDC/IRM-10-24/details.py"
+        ],
+        "imagePng": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_ACDC/IRM-10-24/image.png"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_ACDC/IRM-10-24/basic.json"
+        ],
+        "readme": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_ACDC/IRM-10-24/README.md"
+        ]
+    },
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Converter_ACDC-IRM-10-24"
+    ],
+    "oompIndex": [
+        "IRM-10-24"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.meanwell.com/Upload/PDF/IRM-10/IRM-10-SPEC.PDF",
+                "kicadSymbolExtends": "IRM-10-3.3",
+                "kicadSymbolFootprint": "Converter_ACDC:Converter_ACDC_MeanWell_IRM-10-xx_THT",
+                "kicadSymbolReference": "PS",
+                "kicadSymbolValue": "IRM-10-24",
+                "kicadSymbolki_description": "24V, 420mA, 10.08W, Isolated, AC-DC, 222A(IRM10)",
+                "kicadSymbolki_fp_filters": "Converter*ACDC*MeanWell*IRM*10*THT*",
+                "kicadSymbolki_keywords": "Miniature Module-type Power Supply MeanWell"
+            }
+        ]
+    ]
+}

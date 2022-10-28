@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKISOLATORTLP184XSE"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Isolator : TLP184xSE"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Isolator"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Isolator-TLP184xSE"
+    ],
+    "oompIndex": [
+        "TLP184xSE"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://toshiba.semicon-storage.com/info/docget.jsp?did=14118&prodName=TLP184(SE",
+                "kicadSymbolExtends": "TLP184",
+                "kicadSymbolFootprint": "Package_SO:MFSOP6-4_4.4x3.6mm_P1.27mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "TLP184xSE",
+                "kicadSymbolki_description": "AC/DC Optocoupler, Vce 80V, CTR 50-100%, MFSOP6",
+                "kicadSymbolki_fp_filters": "MFSOP6*4.4x3.6mm*P1.27mm*",
+                "kicadSymbolki_keywords": "NPN AC DC Optocoupler"
+            }
+        ]
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKMCUMONUCLEO144F413ZH"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "MCU_Module : NUCLEO144-F413ZH"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "MCU_Module"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Module/NUCLEO144-F413ZH/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Module/NUCLEO144-F413ZH/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Module/NUCLEO144-F413ZH/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Module/NUCLEO144-F413ZH/details.py"
+        ],
+        "imagePng": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Module/NUCLEO144-F413ZH/image.png"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Module/NUCLEO144-F413ZH/basic.json"
+        ],
+        "readme": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Module/NUCLEO144-F413ZH/README.md"
+        ]
+    },
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-MCU_Module-NUCLEO144-F413ZH"
+    ],
+    "oompIndex": [
+        "NUCLEO144-F413ZH"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.st.com/resource/en/user_manual/dm00244518-stm32-nucleo144-boards-stmicroelectronics.pdf",
+                "kicadSymbolExtends": "NUCLEO144-F429ZI",
+                "kicadSymbolFootprint": "Module:ST_Morpho_Connector_144_STLink",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "NUCLEO144-F413ZH",
+                "kicadSymbolki_description": "Nucleo 144 Development Board with STM32F413ZHT6 MCU, 320kB RAM, 1.5Mb FLASH",
+                "kicadSymbolki_fp_filters": "ST*Morpho*Connector*144*STLink*",
+                "kicadSymbolki_keywords": "STM32 Nucleo ST"
+            }
+        ]
+    ]
+}

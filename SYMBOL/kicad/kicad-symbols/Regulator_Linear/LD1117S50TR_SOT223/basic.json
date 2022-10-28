@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKREGULATORLINEARLD1117S5TRSOT223"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Regulator_Linear : LD1117S50TR_SOT223"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Regulator_Linear"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Regulator_Linear-LD1117S50TR_SOT223"
+    ],
+    "oompIndex": [
+        "LD1117S50TR_SOT223"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00000544.pdf",
+                "kicadSymbolExtends": "AP1117-15",
+                "kicadSymbolFootprint": "Package_TO_SOT_SMD:SOT-223-3_TabPin2",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "LD1117S50TR_SOT223",
+                "kicadSymbolki_description": "800mA Fixed Low Drop Positive Voltage Regulator, Fixed Output 5.0V, SOT-223",
+                "kicadSymbolki_fp_filters": "SOT?223*TabPin2*",
+                "kicadSymbolki_keywords": "REGULATOR LDO 5.0V"
+            }
+        ]
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "through_hole",
+            "description": "Resistor, LDR 12x10.8mm, see http://yourduino.com/docs/Photoresistor-5516-datasheet.pdf",
+            "name": "R_LDR_12x10.8mm_P9.0mm_Vertical",
+            "pins": {
+                "shape": "circle",
+                "type": "thru_hole"
+            },
+            "tags": "Resistor LDR12x10.8mm",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/R_LDR_12x10.8mm_P9.0mm_Vertical.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKOPRLDR12X18P9VERTICAL"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "OptoDevice : R_LDR_12x10.8mm_P9.0mm_Vertical"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "OptoDevice"
+    ],
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-OptoDevice-R_LDR_12x10.8mm_P9.0mm_Vertical"
+    ],
+    "oompIndex": [
+        "R_LDR_12x10.8mm_P9.0mm_Vertical"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

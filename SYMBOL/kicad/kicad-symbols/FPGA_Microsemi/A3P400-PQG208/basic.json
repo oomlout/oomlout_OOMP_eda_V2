@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKFPGAMSEMIA3P4PQG28"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "FPGA_Microsemi : A3P400-PQG208"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "FPGA_Microsemi"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-FPGA_Microsemi-A3P400-PQG208"
+    ],
+    "oompIndex": [
+        "A3P400-PQG208"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.microsemi.com/document-portal/doc_download/130704-proasic3-flash-family-fpgas-datasheet",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_QFP:PQFP-208_28x28mm_P0.5mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "A3P400-PQG208",
+                "kicadSymbolki_description": "Actel ProASIC3 Flash Family FPGAs, 400k Gates, 208pin QFP",
+                "kicadSymbolki_fp_filters": "*PQFP*28x28mm*P0.5mm*",
+                "kicadSymbolki_keywords": "ProASIC3 ACTEL FLASH"
+            }
+        ]
+    ]
+}

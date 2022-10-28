@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKDRIVERFETIR21814"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Driver_FET : IR21814"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Driver_FET"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Driver_FET-IR21814"
+    ],
+    "oompIndex": [
+        "IR21814"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.infineon.com/dgdl/ir2181.pdf?fileId=5546d462533600a4015355c93cdd16ce",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "IR21814",
+                "kicadSymbolki_description": "High and Low Side Driver, 600V, 1.4/1.8A, PDIP-14/SOIC-14",
+                "kicadSymbolki_fp_filters": "SOIC*3.9x8.7mm*P1.27mm* DIP*W7.62mm*",
+                "kicadSymbolki_keywords": "Gate Driver"
+            }
+        ]
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "smd",
+            "description": "BGA-1156",
+            "name": "BGA-1156_35.0x35.0mm_Layout34x34_P1.0mm",
+            "pins": {
+                "shape": "circle",
+                "type": "smd"
+            },
+            "tags": "BGA-1156",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/BGA-1156_35.0x35.0mm_Layout34x34_P1.0mm.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKBGABGA115635X35LAYOUT34X34P1"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Package_BGA : BGA-1156_35.0x35.0mm_Layout34x34_P1.0mm"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Package_BGA"
+    ],
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Package_BGA-BGA-1156_35.0x35.0mm_Layout34x34_P1.0mm"
+    ],
+    "oompIndex": [
+        "BGA-1156_35.0x35.0mm_Layout34x34_P1.0mm"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

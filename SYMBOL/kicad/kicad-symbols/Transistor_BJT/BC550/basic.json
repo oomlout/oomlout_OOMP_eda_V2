@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKTRANSISTORBJTBC55"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Transistor_BJT : BC550"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Transistor_BJT"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC550"
+    ],
+    "oompIndex": [
+        "BC550"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.onsemi.com/pub/Collateral/BC550-D.pdf",
+                "kicadSymbolExtends": "BC547",
+                "kicadSymbolFootprint": "Package_TO_SOT_THT:TO-92_Inline",
+                "kicadSymbolReference": "Q",
+                "kicadSymbolValue": "BC550",
+                "kicadSymbolki_description": "0.1A Ic, 45V Vce, Small Signal NPN Transistor, TO-92",
+                "kicadSymbolki_fp_filters": "TO?92*",
+                "kicadSymbolki_keywords": "NPN Transistor"
+            }
+        ]
+    ]
+}

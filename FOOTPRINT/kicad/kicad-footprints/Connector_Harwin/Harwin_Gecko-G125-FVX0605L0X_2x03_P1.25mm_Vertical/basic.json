@@ -1,0 +1,57 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "through_hole",
+            "description": "Harwin Gecko Connector, 6 pins, dual row female, vertical entry, PN:G125-FVX0605L0X",
+            "name": "Harwin_Gecko-G125-FVX0605L0X_2x03_P1.25mm_Vertical",
+            "pins": {
+                "shape": "rect",
+                "type": "thru_hole"
+            },
+            "tags": "connector harwin gecko",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/Connector_Harwin.3dshapes/Harwin_Gecko-G125-FVX0605L0X_2x03_P1.25mm_Vertical.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKCNHARWINHARWINGECKOG125FVX65LX2X3P125VERTICAL"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Connector_Harwin : Harwin_Gecko-G125-FVX0605L0X_2x03_P1.25mm_Vertical"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Connector_Harwin"
+    ],
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Connector_Harwin-Harwin_Gecko-G125-FVX0605L0X_2x03_P1.25mm_Vertical"
+    ],
+    "oompIndex": [
+        "Harwin_Gecko-G125-FVX0605L0X_2x03_P1.25mm_Vertical"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

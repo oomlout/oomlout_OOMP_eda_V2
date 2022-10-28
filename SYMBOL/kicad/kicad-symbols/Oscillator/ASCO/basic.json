@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKOCSASCO"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Oscillator : ASCO"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Oscillator"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Oscillator-ASCO"
+    ],
+    "oompIndex": [
+        "ASCO"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://abracon.com/Oscillators/ASCO.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Oscillator:Oscillator_SMD_Abracon_ASCO-4Pin_1.6x1.2mm",
+                "kicadSymbolReference": "X",
+                "kicadSymbolValue": "ASCO",
+                "kicadSymbolki_description": "Crystal Clock Oscillator, Abracon ASCO",
+                "kicadSymbolki_fp_filters": "Oscillator*Abracon*ASCO*1.6x1.2mm*",
+                "kicadSymbolki_keywords": "Crystal Clock Oscillator"
+            }
+        ]
+    ]
+}

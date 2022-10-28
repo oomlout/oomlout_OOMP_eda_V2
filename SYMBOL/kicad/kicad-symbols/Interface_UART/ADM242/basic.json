@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKINTERFACEUARTADM242"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Interface_UART : ADM242"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Interface_UART"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Interface_UART-ADM242"
+    ],
+    "oompIndex": [
+        "ADM242"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/ADM222_232A_242.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "ADM242",
+                "kicadSymbolki_description": "Dual RS232 driver/receiver, 5V supply, 200kb/s, separate shutdown/enable pins",
+                "kicadSymbolki_fp_filters": "SO* DIP*W7.62mm*",
+                "kicadSymbolki_keywords": "rs232 uart transceiver"
+            }
+        ]
+    ]
+}

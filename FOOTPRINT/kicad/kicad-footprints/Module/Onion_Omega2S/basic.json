@@ -1,0 +1,57 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "smd",
+            "description": "https://github.com/OnionIoT/Omega2/raw/master/Documents/Omega2S%20Datasheet.pdf",
+            "name": "Onion_Omega2S",
+            "pins": {
+                "shape": "roundrect",
+                "type": "smd"
+            },
+            "tags": "onion omega module",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/Module.3dshapes/Onion_Omega2S.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKMOONIONOMEGA2S"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Module : Onion_Omega2S"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Module"
+    ],
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Module-Onion_Omega2S"
+    ],
+    "oompIndex": [
+        "Onion_Omega2S"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

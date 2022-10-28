@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKDICHARACTERSBC1811EGWA"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Display_Character : SBC18-11EGWA"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Display_Character"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Display_Character-SBC18-11EGWA"
+    ],
+    "oompIndex": [
+        "SBC18-11EGWA"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.kingbrightusa.com/images/catalog/SPEC/SBC18-11EGWA.pdf",
+                "kicadSymbolExtends": "SBC18-11SURKCGKWA",
+                "kicadSymbolFootprint": "Display_7Segment:SBC18-11SURKCGKWA",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "SBC18-11EGWA",
+                "kicadSymbolki_description": "Single digit 7 segment hyper red and green LED display, common cathode",
+                "kicadSymbolki_fp_filters": "*SBC18*11*",
+                "kicadSymbolki_keywords": "display LED 7-segment"
+            }
+        ]
+    ]
+}

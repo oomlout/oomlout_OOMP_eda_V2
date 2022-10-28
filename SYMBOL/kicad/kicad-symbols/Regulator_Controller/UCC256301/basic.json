@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKREGULATORCONTROLLERUCC25631"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Regulator_Controller : UCC256301"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Regulator_Controller"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Regulator_Controller-UCC256301"
+    ],
+    "oompIndex": [
+        "UCC256301"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.ti.com/lit/ds/symlink/ucc256301.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_SO:SOIC-14-16_3.9x9.9mm_P1.27mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "UCC256301",
+                "kicadSymbolki_description": "Hybrid Hysteretic LLC Resonant Controller, SOIC-16",
+                "kicadSymbolki_fp_filters": "SOIC*3.9x9.9mm*P1.27mm*",
+                "kicadSymbolki_keywords": "SMPS PWM Controller"
+            }
+        ]
+    ]
+}

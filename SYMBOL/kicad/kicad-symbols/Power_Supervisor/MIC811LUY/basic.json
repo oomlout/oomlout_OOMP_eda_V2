@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKPOWERSUPERVISORMIC811LUY"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Power_Supervisor : MIC811LUY"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Power_Supervisor"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Power_Supervisor-MIC811LUY"
+    ],
+    "oompIndex": [
+        "MIC811LUY"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/mic811.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_TO_SOT_SMD:SOT-143",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "MIC811LUY",
+                "kicadSymbolki_description": "Power supply supervisor, Manual reset, Threshold 4.63V, SOT-143",
+                "kicadSymbolki_fp_filters": "SOT*143*",
+                "kicadSymbolki_keywords": "Supervisor Reset"
+            }
+        ]
+    ]
+}

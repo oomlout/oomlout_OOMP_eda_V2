@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKRELAYSOLIDSTATETLP175A"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Relay_SolidState : TLP175A"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Relay_SolidState"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Relay_SolidState-TLP175A"
+    ],
+    "oompIndex": [
+        "TLP175A"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://toshiba.semicon-storage.com/info/docget.jsp?did=13665&prodName=TLP175A",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_SO:MFSOP6-4_4.4x3.6mm_P1.27mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "TLP175A",
+                "kicadSymbolki_description": "MOSFET Photorelay 1-Form-A, Voff 60V, Ion 100mA, SOP6",
+                "kicadSymbolki_fp_filters": "MFSOP6*4.4x3.6mm*P1.27mm*",
+                "kicadSymbolki_keywords": "MOSFET Output Photorelay 1-Form-A"
+            }
+        ]
+    ]
+}

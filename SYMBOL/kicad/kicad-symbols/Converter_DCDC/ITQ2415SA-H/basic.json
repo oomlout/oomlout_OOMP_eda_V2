@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKCONITQ2415SAH"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Converter_DCDC : ITQ2415SA-H"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Converter_DCDC"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Converter_DCDC-ITQ2415SA-H"
+    ],
+    "oompIndex": [
+        "ITQ2415SA-H"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.xppower.com/pdfs/SF_ITQ.pdf",
+                "kicadSymbolExtends": "ITQ2403SA-H",
+                "kicadSymbolFootprint": "Converter_DCDC:Converter_DCDC_XP_POWER-ITQxxxxS-H_THT",
+                "kicadSymbolReference": "PS",
+                "kicadSymbolValue": "ITQ2415SA-H",
+                "kicadSymbolki_description": "XP Power 6W, 3000 VDC Isolated DC/DC Converter Module, Single Output Voltage 15V, \u00b1400mA, 24V Input Voltage, SIP",
+                "kicadSymbolki_fp_filters": "*XP?POWER?ITQxxxxS?H*",
+                "kicadSymbolki_keywords": "XP_POWER DC/DC isolated Converter module"
+            }
+        ]
+    ]
+}

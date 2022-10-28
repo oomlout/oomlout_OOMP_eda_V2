@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKAMPLIFIERDIFFERENCEINA15KP"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Amplifier_Difference : INA105KP"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Amplifier_Difference"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Amplifier_Difference-INA105KP"
+    ],
+    "oompIndex": [
+        "INA105KP"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.ti.com/lit/ds/symlink/ina105.pdf",
+                "kicadSymbolExtends": "AD8276",
+                "kicadSymbolFootprint": "Package_DIP:DIP-8_W7.62mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "INA105KP",
+                "kicadSymbolki_description": "Low Power, Wide Supply Range, Low Cost Unity-Gain Difference Amplifier, DIP-8",
+                "kicadSymbolki_fp_filters": "DIP*W7.62mm*",
+                "kicadSymbolki_keywords": "difference amplifier"
+            }
+        ]
+    ]
+}

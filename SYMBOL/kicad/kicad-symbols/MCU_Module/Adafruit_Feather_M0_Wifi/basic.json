@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKMCUMOADAFEATHERMWIFI"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "MCU_Module : Adafruit_Feather_M0_Wifi"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "MCU_Module"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-MCU_Module-Adafruit_Feather_M0_Wifi"
+    ],
+    "oompIndex": [
+        "Adafruit_Feather_M0_Wifi"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://cdn-learn.adafruit.com/downloads/pdf/adafruit-feather-m0-wifi-atwinc1500.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Module:Adafruit_Feather_M0_Wifi",
+                "kicadSymbolReference": "A",
+                "kicadSymbolValue": "Adafruit_Feather_M0_Wifi",
+                "kicadSymbolki_description": "Microcontroller module with SAMD21 Cortex-M0 MCU and ATWINC1500 Wifi",
+                "kicadSymbolki_fp_filters": "Adafruit*Feather*",
+                "kicadSymbolki_keywords": "Adafruit feather microcontroller module USB M0 SAMD21 Wifi ATWINC1500"
+            }
+        ]
+    ]
+}

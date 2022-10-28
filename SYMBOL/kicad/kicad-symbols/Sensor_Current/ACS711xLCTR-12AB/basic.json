@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKSENCURRENTACS711XLCTR12AB"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Sensor_Current : ACS711xLCTR-12AB"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Sensor_Current"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS711xLCTR-12AB"
+    ],
+    "oompIndex": [
+        "ACS711xLCTR-12AB"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.allegromicro.com/~/Media/Files/Datasheets/ACS711-Datasheet.ashx",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "ACS711xLCTR-12AB",
+                "kicadSymbolki_description": "\u00b112.5A Bidirectional Hall-Effect Current Sensor, +3.3V supply, 110mV/A, SOIC-8",
+                "kicadSymbolki_fp_filters": "SOIC*3.9x4.9mm*P1.27mm*",
+                "kicadSymbolki_keywords": "hall effect current monitor sensor isolated"
+            }
+        ]
+    ]
+}

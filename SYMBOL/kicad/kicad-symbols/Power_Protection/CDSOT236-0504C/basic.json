@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKPOWERPROTECTIONCDSOT23654C"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Power_Protection : CDSOT236-0504C"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Power_Protection"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Power_Protection-CDSOT236-0504C"
+    ],
+    "oompIndex": [
+        "CDSOT236-0504C"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.bourns.com/docs/product-datasheets/cdsot236-0504c.pdf",
+                "kicadSymbolExtends": "SRV05-4",
+                "kicadSymbolFootprint": "Package_TO_SOT_SMD:SOT-23-6",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "CDSOT236-0504C",
+                "kicadSymbolki_description": "Low capacitance ESD diode / steering Diode Array, SOT23-6",
+                "kicadSymbolki_fp_filters": "SOT?23*",
+                "kicadSymbolki_keywords": "ESD protection diodes"
+            }
+        ]
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSTERS35DLPI71T35L7"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "oomlout_OOMP_parts : TERS-35D-L-PI07-01-T35L7"
+    ],
+    "oompColor": [
+        "oomlout_OOMP_kicad"
+    ],
+    "oompDesc": [
+        "oomlout_OOMP_parts"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/TERS-35D-L-PI07-01-T35L7/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/TERS-35D-L-PI07-01-T35L7/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/TERS-35D-L-PI07-01-T35L7/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/TERS-35D-L-PI07-01-T35L7/details.py"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/TERS-35D-L-PI07-01-T35L7/basic.json"
+        ],
+        "readme": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/TERS-35D-L-PI07-01-T35L7/README.md"
+        ]
+    },
+    "oompID": [
+        "SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-TERS-35D-L-PI07-01-T35L7"
+    ],
+    "oompIndex": [
+        "TERS-35D-L-PI07-01-T35L7"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "oom.lt/T35L7",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "oomlout_OOMP_parts:TERS-35D-L-PI07-01-T35L7",
+                "kicadSymbolReference": "J",
+                "kicadSymbolValue": "TERS-35D-L-PI07-01-T35L7",
+                "kicadSymbolki_description": "hexID: T35L7;Generic screw terminal, single row, 01x07, script generated (kicad-library-utils/schlib/autogen/connector/)",
+                "kicadSymbolki_fp_filters": "TerminalBlock*:*",
+                "kicadSymbolki_keywords": "screw terminal"
+            }
+        ]
+    ]
+}

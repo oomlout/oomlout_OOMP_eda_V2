@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKDRIVERMOTORTMC241LA"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Driver_Motor : TMC2041-LA"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Driver_Motor"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Driver_Motor-TMC2041-LA"
+    ],
+    "oompIndex": [
+        "TMC2041-LA"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.trinamic.com/fileadmin/assets/Products/ICs_Documents/TMC2041_datasheet.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_DFN_QFN:QFN-48-1EP_7x7mm_P0.5mm_EP5.3x5.3mm_ThermalVias",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "TMC2041-LA",
+                "kicadSymbolki_description": "Standalone Dual driver for two-phase bipolar stepper motor, 2.2A, 4.75-26V, SPI, UART, QFN-48",
+                "kicadSymbolki_fp_filters": "QFN*1EP*7x7mm*P0.5mm*",
+                "kicadSymbolki_keywords": "Dual driver stepper motor"
+            }
+        ]
+    ]
+}

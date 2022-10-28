@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKREGULATORSWITCHINGTNY287P"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Regulator_Switching : TNY287P"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Regulator_Switching"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Regulator_Switching-TNY287P"
+    ],
+    "oompIndex": [
+        "TNY287P"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://ac-dc.power.com/sites/default/files/product-docs/tinyswitch-4_family_datasheet.pdf",
+                "kicadSymbolExtends": "TNY284P",
+                "kicadSymbolFootprint": "Package_DIP:PowerIntegrations_PDIP-8C",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "TNY287P",
+                "kicadSymbolki_description": "TinySwitch-4 Family, 18W Output Power, PDIP-8C",
+                "kicadSymbolki_fp_filters": "PowerIntegrations?PDIP?8C*",
+                "kicadSymbolki_keywords": "Energy-Efficient, Off-Line Switcher With Line Compensated Overload Power"
+            }
+        ]
+    ]
+}

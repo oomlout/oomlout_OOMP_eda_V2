@@ -1,0 +1,53 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": null,
+            "description": "Symbol, Danger, Copper Top, Small,",
+            "name": "Symbol_Danger_CopperTop_Small",
+            "pins": {},
+            "tags": "Symbol, Danger, Copper Top, Small,"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKSZSYDANGERCTOPSLL"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Symbol : Symbol_Danger_CopperTop_Small"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Symbol"
+    ],
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Symbol-Symbol_Danger_CopperTop_Small"
+    ],
+    "oompIndex": [
+        "Symbol_Danger_CopperTop_Small"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

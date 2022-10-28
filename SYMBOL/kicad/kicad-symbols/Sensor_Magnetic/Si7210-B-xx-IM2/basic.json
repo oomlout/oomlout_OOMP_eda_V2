@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKSENMAGNETICSI721BXXIM2"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Sensor_Magnetic : Si7210-B-xx-IM2"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Sensor_Magnetic"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-Si7210-B-xx-IM2"
+    ],
+    "oompIndex": [
+        "Si7210-B-xx-IM2"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.silabs.com/documents/public/data-sheets/si7210-datasheet.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_DFN_QFN:TDFN-8_1.4x1.6mm_P0.4mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "Si7210-B-xx-IM2",
+                "kicadSymbolki_description": "I2C Hall Effect Magnetic Position and Temperature Sensor, TDFN-8",
+                "kicadSymbolki_fp_filters": "TDFN-8*1.4x1.6mm*P0.4mm*",
+                "kicadSymbolki_keywords": "I2C hall effect magnetic postition temperature sensor"
+            }
+        ]
+    ]
+}

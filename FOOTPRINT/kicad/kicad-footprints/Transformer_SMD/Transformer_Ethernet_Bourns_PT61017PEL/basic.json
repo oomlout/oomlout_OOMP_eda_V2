@@ -1,0 +1,57 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "smd",
+            "description": "https://www.bourns.com/docs/Product-Datasheets/PT61017PEL.pdf",
+            "name": "Transformer_Ethernet_Bourns_PT61017PEL",
+            "pins": {
+                "shape": "rect",
+                "type": "smd"
+            },
+            "tags": "Transformer Ethernet Single Center-Tap",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/Transformer_SMD.3dshapes/Transformer_Ethernet_Bourns_PT61017PEL.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKTRSMTRETHERNETBOURNSPT6117PEL"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Transformer_SMD : Transformer_Ethernet_Bourns_PT61017PEL"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Transformer_SMD"
+    ],
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Transformer_Ethernet_Bourns_PT61017PEL"
+    ],
+    "oompIndex": [
+        "Transformer_Ethernet_Bourns_PT61017PEL"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

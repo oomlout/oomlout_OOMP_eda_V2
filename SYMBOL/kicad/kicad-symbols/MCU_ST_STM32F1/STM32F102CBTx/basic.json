@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKMCUSTSTM32F1STM32F12CBTX"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "MCU_ST_STM32F1 : STM32F102CBTx"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "MCU_ST_STM32F1"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F1-STM32F102CBTx"
+    ],
+    "oompIndex": [
+        "STM32F102CBTx"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00210831.pdf",
+                "kicadSymbolExtends": "STM32F102C8Tx",
+                "kicadSymbolFootprint": "Package_QFP:LQFP-48_7x7mm_P0.5mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "STM32F102CBTx",
+                "kicadSymbolki_description": "ARM Cortex-M3 MCU, 128KB flash, 16KB RAM, 48MHz, 2-3.6V, 37 GPIO, LQFP-48",
+                "kicadSymbolki_fp_filters": "LQFP*7x7mm*P0.5mm*",
+                "kicadSymbolki_keywords": "ARM Cortex-M3 STM32F1 STM32F102"
+            }
+        ]
+    ]
+}

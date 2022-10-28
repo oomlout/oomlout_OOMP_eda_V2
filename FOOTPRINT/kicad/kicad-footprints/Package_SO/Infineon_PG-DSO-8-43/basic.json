@@ -1,0 +1,57 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "smd",
+            "description": "Infineon_PG-DSO-8-43",
+            "name": "Infineon_PG-DSO-8-43",
+            "pins": {
+                "shape": "rect",
+                "type": "smd"
+            },
+            "tags": "DSO DSO-8 SOIC SOIC-8",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/Infineon_PG-DSO-8-43.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKSOINFINEONPGDSO843"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Package_SO : Infineon_PG-DSO-8-43"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Package_SO"
+    ],
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Package_SO-Infineon_PG-DSO-8-43"
+    ],
+    "oompIndex": [
+        "Infineon_PG-DSO-8-43"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

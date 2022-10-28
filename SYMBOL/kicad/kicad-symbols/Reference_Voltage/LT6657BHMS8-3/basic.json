@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKREFERENCEVOLTAGELT6657BHMS83"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Reference_Voltage : LT6657BHMS8-3"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Reference_Voltage"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Reference_Voltage-LT6657BHMS8-3"
+    ],
+    "oompIndex": [
+        "LT6657BHMS8-3"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/6657fd.pdf",
+                "kicadSymbolExtends": "LT6657AHMS8-2.5",
+                "kicadSymbolFootprint": "Package_SO:MSOP-8_3x3mm_P0.65mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "LT6657BHMS8-3",
+                "kicadSymbolki_description": "Precision voltage reference, 40V input, 10mA output, 3.0ppm/C drift, 3.0V output, MSOP-8",
+                "kicadSymbolki_fp_filters": "MSOP*3x3mm*P0.65mm*",
+                "kicadSymbolki_keywords": "voltage reference vref"
+            }
+        ]
+    ]
+}

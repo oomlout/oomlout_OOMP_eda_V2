@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKCN8P8CLSHED"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Connector : 8P8C_LED_Shielded"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Connector"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Connector-8P8C_LED_Shielded"
+    ],
+    "oompIndex": [
+        "8P8C_LED_Shielded"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "~",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "",
+                "kicadSymbolReference": "J",
+                "kicadSymbolValue": "8P8C_LED_Shielded",
+                "kicadSymbolki_description": "RJ connector, 8P8C (8 positions 8 connected), two LEDs, RJ45, Shielded",
+                "kicadSymbolki_fp_filters": "8P8C* RJ45*",
+                "kicadSymbolki_keywords": "8P8C RJ female connector led"
+            }
+        ]
+    ]
+}

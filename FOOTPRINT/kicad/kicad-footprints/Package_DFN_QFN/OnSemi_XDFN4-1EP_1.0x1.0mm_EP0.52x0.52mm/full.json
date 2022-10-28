@@ -1,0 +1,89 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "smd",
+            "description": "XDFN4 footprint (as found on the https://www.onsemi.com/pub/Collateral/NCP115-D.PDF)",
+            "name": "OnSemi_XDFN4-1EP_1.0x1.0mm_EP0.52x0.52mm",
+            "pins": {
+                "shape": "custom",
+                "type": "smd"
+            },
+            "tags": "OnSemi XDFN4",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/OnSemi_XDFN4-1EP_1.0x1.0mm_EP0.52x0.52mm.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKDFNONSEMIXDFN41EP1X1EP52X52"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Package_DFN_QFN : OnSemi_XDFN4-1EP_1.0x1.0mm_EP0.52x0.52mm"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Package_DFN_QFN"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/OnSemi_XDFN4-1EP_1.0x1.0mm_EP0.52x0.52mm/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/OnSemi_XDFN4-1EP_1.0x1.0mm_EP0.52x0.52mm/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/OnSemi_XDFN4-1EP_1.0x1.0mm_EP0.52x0.52mm/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/OnSemi_XDFN4-1EP_1.0x1.0mm_EP0.52x0.52mm/details.py"
+        ],
+        "imagePng": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/OnSemi_XDFN4-1EP_1.0x1.0mm_EP0.52x0.52mm/image.png"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/OnSemi_XDFN4-1EP_1.0x1.0mm_EP0.52x0.52mm/basic.json"
+        ],
+        "kicadPcb3d": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/OnSemi_XDFN4-1EP_1.0x1.0mm_EP0.52x0.52mm/kicadPcb3d.png"
+        ],
+        "kicadPcb3dBack": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/OnSemi_XDFN4-1EP_1.0x1.0mm_EP0.52x0.52mm/kicadPcb3dBack.png"
+        ],
+        "kicadPcb3dFront": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/OnSemi_XDFN4-1EP_1.0x1.0mm_EP0.52x0.52mm/kicadPcb3dFront.png"
+        ],
+        "readme": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/OnSemi_XDFN4-1EP_1.0x1.0mm_EP0.52x0.52mm/README.md"
+        ]
+    },
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-OnSemi_XDFN4-1EP_1.0x1.0mm_EP0.52x0.52mm"
+    ],
+    "oompIndex": [
+        "OnSemi_XDFN4-1EP_1.0x1.0mm_EP0.52x0.52mm"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

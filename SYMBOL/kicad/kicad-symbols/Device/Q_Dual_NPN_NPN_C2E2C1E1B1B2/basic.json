@@ -1,0 +1,59 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKDEVICEQDUALNPNNPNC2E2C1E1B1B2"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Device : Q_Dual_NPN_NPN_C2E2C1E1B1B2"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Device"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Device-Q_Dual_NPN_NPN_C2E2C1E1B1B2"
+    ],
+    "oompIndex": [
+        "Q_Dual_NPN_NPN_C2E2C1E1B1B2"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "~",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "",
+                "kicadSymbolReference": "Q",
+                "kicadSymbolValue": "Q_Dual_NPN_NPN_C2E2C1E1B1B2",
+                "kicadSymbolki_description": "Dual NPN transistor, 6 pin package",
+                "kicadSymbolki_fp_filters": "SC?70* SC?88* SOT?363* SOT?23*",
+                "kicadSymbolki_keywords": "transistor NPN",
+                "kicadSymbolki_locked": ""
+            }
+        ]
+    ]
+}

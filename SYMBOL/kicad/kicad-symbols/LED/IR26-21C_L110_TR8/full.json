@@ -1,0 +1,81 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKLIR2621CL11TR8"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "LED : IR26-21C_L110_TR8"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "LED"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/LED/IR26-21C_L110_TR8/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/LED/IR26-21C_L110_TR8/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/LED/IR26-21C_L110_TR8/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/LED/IR26-21C_L110_TR8/details.py"
+        ],
+        "imagePng": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/LED/IR26-21C_L110_TR8/image.png"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/LED/IR26-21C_L110_TR8/basic.json"
+        ],
+        "readme": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/LED/IR26-21C_L110_TR8/README.md"
+        ]
+    },
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-LED-IR26-21C_L110_TR8"
+    ],
+    "oompIndex": [
+        "IR26-21C_L110_TR8"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.everlight.com/file/ProductFile/IR26-21C-L110-TR8.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "LED_SMD:LED_1206_3216Metric",
+                "kicadSymbolReference": "D",
+                "kicadSymbolValue": "IR26-21C_L110_TR8",
+                "kicadSymbolki_description": "940nm, 20 deg, Infrared LED, 1206",
+                "kicadSymbolki_fp_filters": "LED*1206*3216Metric*",
+                "kicadSymbolki_keywords": "IR LED"
+            }
+        ]
+    ]
+}

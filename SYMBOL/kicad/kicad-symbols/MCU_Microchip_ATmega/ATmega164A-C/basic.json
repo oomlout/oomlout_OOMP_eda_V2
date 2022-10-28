@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKMCUMCHIPATMEGAATMEGA164AC"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "MCU_Microchip_ATmega : ATmega164A-C"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "MCU_Microchip_ATmega"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega164A-C"
+    ],
+    "oompIndex": [
+        "ATmega164A-C"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-8272-8-bit-AVR-microcontroller-ATmega164A_PA-324A_PA-644A_PA-1284_P_datasheet.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_BGA:VFBGA-49_5.0x5.0mm_Layout7x7_P0.65mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "ATmega164A-C",
+                "kicadSymbolki_description": "20MHz, 16kB Flash, 1kB SRAM, 512B EEPROM, JTAG, VFBGA-49",
+                "kicadSymbolki_fp_filters": "VFBGA*5.0x5.0mm*Layout7x7*P0.65mm*",
+                "kicadSymbolki_keywords": "AVR 8bit Microcontroller MegaAVR"
+            }
+        ]
+    ]
+}

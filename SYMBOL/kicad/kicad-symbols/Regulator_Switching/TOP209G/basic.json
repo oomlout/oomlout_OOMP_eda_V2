@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKREGULATORSWITCHINGTOP29G"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Regulator_Switching : TOP209G"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Regulator_Switching"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Regulator_Switching-TOP209G"
+    ],
+    "oompIndex": [
+        "TOP209G"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.powerint.com/sites/default/files/product-docs/top209210.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_DIP:PowerIntegrations_SMD-8",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "TOP209G",
+                "kicadSymbolki_description": "TOPSwitch Family, 2W Max Output Power, SMD-8",
+                "kicadSymbolki_fp_filters": "PowerIntegrations?SMD?8*",
+                "kicadSymbolki_keywords": "Three-terminal Off-line PWM Switch"
+            }
+        ]
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKSWITCHSWMEC5E"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Switch : SW_MEC_5E"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Switch"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Switch-SW_MEC_5E"
+    ],
+    "oompIndex": [
+        "SW_MEC_5E"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.apem.com/int/index.php?controller=attachment&id_attachment=1371",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "",
+                "kicadSymbolReference": "SW",
+                "kicadSymbolValue": "SW_MEC_5E",
+                "kicadSymbolki_description": "MEC 5E single pole normally-open tactile switch",
+                "kicadSymbolki_fp_filters": "SW*MEC*5G*",
+                "kicadSymbolki_keywords": "switch normally-open pushbutton push-button"
+            }
+        ]
+    ]
+}

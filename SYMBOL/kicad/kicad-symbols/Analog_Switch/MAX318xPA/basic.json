@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKANALOGSWITCHMAX318XPA"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Analog_Switch : MAX318xPA"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Analog_Switch"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Analog_Switch-MAX318xPA"
+    ],
+    "oompIndex": [
+        "MAX318xPA"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://datasheets.maximintegrated.com/en/ds/MAX317-MAX319.pdf",
+                "kicadSymbolExtends": "DG418xJ",
+                "kicadSymbolFootprint": "Package_DIP:DIP-8_W7.62mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "MAX318xPA",
+                "kicadSymbolki_description": "Single SPST Monolithic CMOS Analog Switch, normally OFF, 20Ohm Ron, DIP-8",
+                "kicadSymbolki_fp_filters": "DIP*W7.62mm*",
+                "kicadSymbolki_keywords": "CMOS Analog Switch"
+            }
+        ]
+    ]
+}

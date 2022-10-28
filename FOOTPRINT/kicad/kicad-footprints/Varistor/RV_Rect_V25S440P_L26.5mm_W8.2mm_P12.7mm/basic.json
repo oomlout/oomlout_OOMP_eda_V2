@@ -1,0 +1,57 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "through_hole",
+            "description": "Varistor, V25S440P, https://www.littelfuse.com/media?resourcetype=datasheets&itemid=b410c42c-51d1-460e-b1d9-d105d93c9679&filename=littelfuse-varistor-ultramov25s-datasheet",
+            "name": "RV_Rect_V25S440P_L26.5mm_W8.2mm_P12.7mm",
+            "pins": {
+                "shape": "roundrect",
+                "type": "thru_hole"
+            },
+            "tags": "varistor",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/Varistor.3dshapes/RV_Rect_V25S440P_L26.5mm_W8.2mm_P12.7mm.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKVRVRECTV25S44PL265W82P127"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Varistor : RV_Rect_V25S440P_L26.5mm_W8.2mm_P12.7mm"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Varistor"
+    ],
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Varistor-RV_Rect_V25S440P_L26.5mm_W8.2mm_P12.7mm"
+    ],
+    "oompIndex": [
+        "RV_Rect_V25S440P_L26.5mm_W8.2mm_P12.7mm"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

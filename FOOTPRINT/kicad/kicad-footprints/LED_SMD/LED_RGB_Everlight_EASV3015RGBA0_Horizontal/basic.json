@@ -1,0 +1,57 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "smd",
+            "description": "LED, RGB, right-angle, clear, https://everlightamericas.com/index.php?controller=attachment&id_attachment=3220",
+            "name": "LED_RGB_Everlight_EASV3015RGBA0_Horizontal",
+            "pins": {
+                "shape": "rect",
+                "type": "smd"
+            },
+            "tags": "LED RGB right-angle",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED_RGB_Everlight_EASV3015RGBA0_Horizontal.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKLSMLRGBEVERLIGHTEASV315RGBAHORIZONTAL"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "LED_SMD : LED_RGB_Everlight_EASV3015RGBA0_Horizontal"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "LED_SMD"
+    ],
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_RGB_Everlight_EASV3015RGBA0_Horizontal"
+    ],
+    "oompIndex": [
+        "LED_RGB_Everlight_EASV3015RGBA0_Horizontal"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

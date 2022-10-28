@@ -1,0 +1,57 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "smd",
+            "description": "Harwin Male Horizontal Surface Mount Single Row 2.54mm (0.1 inch) Pitch PCB Connector, M20-89010xx, 10 Pins per row (https://cdn.harwin.com/pdfs/M20-890.pdf), generated with kicad-footprint-generator",
+            "name": "Harwin_M20-89010xx_1x10_P2.54mm_Horizontal",
+            "pins": {
+                "shape": "rect",
+                "type": "smd"
+            },
+            "tags": "connector Harwin M20-890 horizontal",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/Connector_Harwin.3dshapes/Harwin_M20-89010xx_1x10_P2.54mm_Horizontal.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKCNHARWINHARWINM2891XX1X1P254HORIZONTAL"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Connector_Harwin : Harwin_M20-89010xx_1x10_P2.54mm_Horizontal"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Connector_Harwin"
+    ],
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Connector_Harwin-Harwin_M20-89010xx_1x10_P2.54mm_Horizontal"
+    ],
+    "oompIndex": [
+        "Harwin_M20-89010xx_1x10_P2.54mm_Horizontal"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

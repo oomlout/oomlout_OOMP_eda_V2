@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKREGULATORCURRENTHV1K5G"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Regulator_Current : HV100K5-G"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Regulator_Current"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Regulator_Current-HV100K5-G"
+    ],
+    "oompIndex": [
+        "HV100K5-G"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://ww1.microchip.com/downloads/en/devicedoc/hv100%20b060513.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_TO_SOT_SMD:SOT-223-3_TabPin2",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "HV100K5-G",
+                "kicadSymbolki_description": "Hot-Swap Current Limiter Controller, SOT223",
+                "kicadSymbolki_fp_filters": "SOT?223*TabPin2*",
+                "kicadSymbolki_keywords": "Hot-Swap Current Limiter"
+            }
+        ]
+    ]
+}

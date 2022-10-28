@@ -1,0 +1,89 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "through_hole",
+            "description": "3M 40-pin zero insertion force socket, though-hole, row spacing 25.4 mm (1000 mils)",
+            "name": "3M_Textool_240-1288-00-0602J_2x20_P2.54mm",
+            "pins": {
+                "shape": "rect",
+                "type": "thru_hole"
+            },
+            "tags": "THT DIP DIL ZIF 25.4mm 1000mil Socket",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/Socket.3dshapes/3M_Textool_240-1288-00-0602J_2x20_P2.54mm.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKSO3MTEXTOOL24128862J2X2P254"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Socket : 3M_Textool_240-1288-00-0602J_2x20_P2.54mm"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Socket"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Socket/3M_Textool_240-1288-00-0602J_2x20_P2.54mm/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Socket/3M_Textool_240-1288-00-0602J_2x20_P2.54mm/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Socket/3M_Textool_240-1288-00-0602J_2x20_P2.54mm/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Socket/3M_Textool_240-1288-00-0602J_2x20_P2.54mm/details.py"
+        ],
+        "imagePng": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Socket/3M_Textool_240-1288-00-0602J_2x20_P2.54mm/image.png"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Socket/3M_Textool_240-1288-00-0602J_2x20_P2.54mm/basic.json"
+        ],
+        "kicadPcb3d": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Socket/3M_Textool_240-1288-00-0602J_2x20_P2.54mm/kicadPcb3d.png"
+        ],
+        "kicadPcb3dBack": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Socket/3M_Textool_240-1288-00-0602J_2x20_P2.54mm/kicadPcb3dBack.png"
+        ],
+        "kicadPcb3dFront": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Socket/3M_Textool_240-1288-00-0602J_2x20_P2.54mm/kicadPcb3dFront.png"
+        ],
+        "readme": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Socket/3M_Textool_240-1288-00-0602J_2x20_P2.54mm/README.md"
+        ]
+    },
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Socket-3M_Textool_240-1288-00-0602J_2x20_P2.54mm"
+    ],
+    "oompIndex": [
+        "3M_Textool_240-1288-00-0602J_2x20_P2.54mm"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

@@ -1,0 +1,56 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": null,
+            "description": "THT rectangular pad as test Point, square 4.0mm  side length, hole diameter 2.0mm",
+            "name": "TestPoint_THTPad_4.0x4.0mm_Drill2.0mm",
+            "pins": {
+                "shape": "rect",
+                "type": "thru_hole"
+            },
+            "tags": "test point THT pad rectangle square"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKTPTPTHTPAD4X4DRILL2"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "TestPoint : TestPoint_THTPad_4.0x4.0mm_Drill2.0mm"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "TestPoint"
+    ],
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-TestPoint-TestPoint_THTPad_4.0x4.0mm_Drill2.0mm"
+    ],
+    "oompIndex": [
+        "TestPoint_THTPad_4.0x4.0mm_Drill2.0mm"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

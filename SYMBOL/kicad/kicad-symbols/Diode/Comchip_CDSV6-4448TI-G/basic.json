@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKDIODECOMCHIPCDSV64448TIG"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Diode : Comchip_CDSV6-4448TI-G"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Diode"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Diode-Comchip_CDSV6-4448TI-G"
+    ],
+    "oompIndex": [
+        "Comchip_CDSV6-4448TI-G"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.comchiptech.com/cms/UserFiles/CDSV6-4448XX-G%20RevC285574.pdf",
+                "kicadSymbolExtends": "BAS16TW",
+                "kicadSymbolFootprint": "Package_TO_SOT_SMD:SOT-363_SC-70-6",
+                "kicadSymbolReference": "D",
+                "kicadSymbolValue": "Comchip_CDSV6-4448TI-G",
+                "kicadSymbolki_description": "High speed switching diode array 3 independent",
+                "kicadSymbolki_fp_filters": "*SOT?363*",
+                "kicadSymbolki_keywords": "diode"
+            }
+        ]
+    ]
+}

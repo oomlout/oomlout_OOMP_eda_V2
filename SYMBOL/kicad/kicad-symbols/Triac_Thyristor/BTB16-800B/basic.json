@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKTRIACTHYRISTORBTB168B"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Triac_Thyristor : BTB16-800B"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Triac_Thyristor"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Triac_Thyristor-BTB16-800B"
+    ],
+    "oompIndex": [
+        "BTB16-800B"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.st.com/resource/en/datasheet/bta16.pdf",
+                "kicadSymbolExtends": "TIC226",
+                "kicadSymbolFootprint": "Package_TO_SOT_THT:TO-220-3_Vertical",
+                "kicadSymbolReference": "Q",
+                "kicadSymbolValue": "BTB16-800B",
+                "kicadSymbolki_description": "16A RMS, 800V Off-State Voltage, 50mA Sensitivity, Non-Insulated, Triac, TO-220",
+                "kicadSymbolki_fp_filters": "TO?220*",
+                "kicadSymbolki_keywords": "Triac"
+            }
+        ]
+    ]
+}

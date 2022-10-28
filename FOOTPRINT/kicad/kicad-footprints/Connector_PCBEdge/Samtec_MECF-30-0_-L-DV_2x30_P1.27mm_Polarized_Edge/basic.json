@@ -1,0 +1,56 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": null,
+            "description": "Highspeed card edge connector for PCBs with 30 contacts (polarized)",
+            "name": "Samtec_MECF-30-0_-L-DV_2x30_P1.27mm_Polarized_Edge",
+            "pins": {
+                "shape": "rect",
+                "type": "connect"
+            },
+            "tags": "conn samtec card-edge high-speed"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKCNPCBEDGESAMTECMECF3LDV2X3P127POLARIZEDEDGE"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Connector_PCBEdge : Samtec_MECF-30-0_-L-DV_2x30_P1.27mm_Polarized_Edge"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Connector_PCBEdge"
+    ],
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Connector_PCBEdge-Samtec_MECF-30-0_-L-DV_2x30_P1.27mm_Polarized_Edge"
+    ],
+    "oompIndex": [
+        "Samtec_MECF-30-0_-L-DV_2x30_P1.27mm_Polarized_Edge"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

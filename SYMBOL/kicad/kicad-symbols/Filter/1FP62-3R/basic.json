@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKFIL1FP623R"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Filter : 1FP62-3R"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Filter"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Filter-1FP62-3R"
+    ],
+    "oompIndex": [
+        "1FP62-3R"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://filtercon.com.pl/wp-content/uploads/2019/07/Karta-katalogowa-FP-12-1.pdf",
+                "kicadSymbolExtends": "1FP45-0R",
+                "kicadSymbolFootprint": "Filter:Filter_FILTERCON_1FPxx",
+                "kicadSymbolReference": "FL",
+                "kicadSymbolValue": "1FP62-3R",
+                "kicadSymbolki_description": "3A, 250VAC, 50/60Hz line filter",
+                "kicadSymbolki_fp_filters": "Filter*FILTERCON*1FPxx*",
+                "kicadSymbolki_keywords": "EMI"
+            }
+        ]
+    ]
+}

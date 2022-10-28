@@ -1,0 +1,57 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "through_hole",
+            "description": "PTC Resettable Fuse, Ihold = 11.0A, Itrip=18.7A, http://www.bourns.com/docs/Product-Datasheets/mfrg.pdf",
+            "name": "Fuse_Bourns_MF-RG1100",
+            "pins": {
+                "shape": "circle",
+                "type": "thru_hole"
+            },
+            "tags": "ptc resettable fuse polyfuse THT",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/Fuse.3dshapes/Fuse_Bourns_MF-RG1100.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKFUFUBOURNSMFRG11"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Fuse : Fuse_Bourns_MF-RG1100"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Fuse"
+    ],
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Fuse-Fuse_Bourns_MF-RG1100"
+    ],
+    "oompIndex": [
+        "Fuse_Bourns_MF-RG1100"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

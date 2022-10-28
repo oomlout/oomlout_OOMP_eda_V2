@@ -1,0 +1,59 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKVAEC92"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Valve : EC92"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Valve"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Valve-EC92"
+    ],
+    "oompIndex": [
+        "EC92"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.r-type.org/pdfs/ec92.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Valve:Valve_Mini_P",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "EC92",
+                "kicadSymbolki_description": "single triode",
+                "kicadSymbolki_fp_filters": "VALVE*MINI*P*",
+                "kicadSymbolki_keywords": "triode valve",
+                "kicadSymbolki_locked": ""
+            }
+        ]
+    ]
+}

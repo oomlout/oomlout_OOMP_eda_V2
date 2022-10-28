@@ -1,0 +1,89 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "smd",
+            "description": "Samtec HLE .100\" Tiger Beam Cost-effective Single Beam Socket Strip, HLE-121-02-xxx-DV-A, 21 Pins per row (http://suddendocs.samtec.com/prints/hle-1xx-02-xxx-dv-xx-xx-xx-mkt.pdf, http://suddendocs.samtec.com/prints/hle-dv-footprint.pdf), generated with kicad-footprint-generator",
+            "name": "Samtec_HLE-121-02-xxx-DV-A_2x21_P2.54mm_Horizontal",
+            "pins": {
+                "shape": "circle",
+                "type": "np_thru_hole"
+            },
+            "tags": "connector Samtec HLE horizontal",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/Connector_Samtec_HLE_SMD.3dshapes/Samtec_HLE-121-02-xxx-DV-A_2x21_P2.54mm_Horizontal.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKCNSAMTECHLESMSAMTECHLE1212XXXDVA2X21P254HORIZONTAL"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Connector_Samtec_HLE_SMD : Samtec_HLE-121-02-xxx-DV-A_2x21_P2.54mm_Horizontal"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Connector_Samtec_HLE_SMD"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Samtec_HLE_SMD/Samtec_HLE-121-02-xxx-DV-A_2x21_P2.54mm_Horizontal/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Samtec_HLE_SMD/Samtec_HLE-121-02-xxx-DV-A_2x21_P2.54mm_Horizontal/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Samtec_HLE_SMD/Samtec_HLE-121-02-xxx-DV-A_2x21_P2.54mm_Horizontal/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Samtec_HLE_SMD/Samtec_HLE-121-02-xxx-DV-A_2x21_P2.54mm_Horizontal/details.py"
+        ],
+        "imagePng": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Samtec_HLE_SMD/Samtec_HLE-121-02-xxx-DV-A_2x21_P2.54mm_Horizontal/image.png"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Samtec_HLE_SMD/Samtec_HLE-121-02-xxx-DV-A_2x21_P2.54mm_Horizontal/basic.json"
+        ],
+        "kicadPcb3d": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Samtec_HLE_SMD/Samtec_HLE-121-02-xxx-DV-A_2x21_P2.54mm_Horizontal/kicadPcb3d.png"
+        ],
+        "kicadPcb3dBack": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Samtec_HLE_SMD/Samtec_HLE-121-02-xxx-DV-A_2x21_P2.54mm_Horizontal/kicadPcb3dBack.png"
+        ],
+        "kicadPcb3dFront": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Samtec_HLE_SMD/Samtec_HLE-121-02-xxx-DV-A_2x21_P2.54mm_Horizontal/kicadPcb3dFront.png"
+        ],
+        "readme": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Samtec_HLE_SMD/Samtec_HLE-121-02-xxx-DV-A_2x21_P2.54mm_Horizontal/README.md"
+        ]
+    },
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Connector_Samtec_HLE_SMD-Samtec_HLE-121-02-xxx-DV-A_2x21_P2.54mm_Horizontal"
+    ],
+    "oompIndex": [
+        "Samtec_HLE-121-02-xxx-DV-A_2x21_P2.54mm_Horizontal"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

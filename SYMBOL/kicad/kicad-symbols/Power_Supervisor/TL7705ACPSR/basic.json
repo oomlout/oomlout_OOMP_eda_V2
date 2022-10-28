@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKPOWERSUPERVISORTL775ACPSR"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Power_Supervisor : TL7705ACPSR"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Power_Supervisor"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Power_Supervisor-TL7705ACPSR"
+    ],
+    "oompIndex": [
+        "TL7705ACPSR"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.ti.com.cn/cn/lit/ds/symlink/tl7705a.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_SO:SO-8_5.3x6.2mm_P1.27mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "TL7705ACPSR",
+                "kicadSymbolki_description": "Supply-Voltage Supervisors, 4.55V, SO-8",
+                "kicadSymbolki_fp_filters": "SO*5.3x6.2mm*P1.27mm*",
+                "kicadSymbolki_keywords": "voltage supervisor"
+            }
+        ]
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "smd",
+            "description": "Footprint for Mini-Circuits case CD636 (https://ww2.minicircuits.com/case_style/CD636.pdf) following land pattern PL-035, including GND-vias (https://ww2.minicircuits.com/pcb/98-pl035.pdf)",
+            "name": "Mini-Circuits_CD636_LandPatternPL-035",
+            "pins": {
+                "shape": "rect",
+                "type": "smd"
+            },
+            "tags": "mini-circuits pl-035 CD636",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/RF_Mini-Circuits.3dshapes/Mini-Circuits_CD636.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKRFMCIRCUITSCD636LANDPATTERNPL35"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "RF_Mini-Circuits : Mini-Circuits_CD636_LandPatternPL-035"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "RF_Mini-Circuits"
+    ],
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-RF_Mini-Circuits-Mini-Circuits_CD636_LandPatternPL-035"
+    ],
+    "oompIndex": [
+        "Mini-Circuits_CD636_LandPatternPL-035"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

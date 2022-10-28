@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKREGULATORSWITCHINGLNK325D"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Regulator_Switching : LNK3205D"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Regulator_Switching"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK3205D"
+    ],
+    "oompIndex": [
+        "LNK3205D"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://ac-dc.power.com/sites/default/files/product-docs/LinkSwitch-TN2_family_datasheet.pdf",
+                "kicadSymbolExtends": "LNK3202D",
+                "kicadSymbolFootprint": "Package_SO:PowerIntegrations_SO-8C",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "LNK3205D",
+                "kicadSymbolki_description": "LinkSwitch-TN Family, 270mA Output Current, SO-8C",
+                "kicadSymbolki_fp_filters": "PowerIntegrations?SO?8C*",
+                "kicadSymbolki_keywords": "Lowest Component Count, Energy-Efficient Off-Line Switcher IC"
+            }
+        ]
+    ]
+}

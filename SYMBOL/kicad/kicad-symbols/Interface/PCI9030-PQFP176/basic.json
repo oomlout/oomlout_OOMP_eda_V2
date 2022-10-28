@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKINTERFACEPCI93PQFP176"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Interface : PCI9030-PQFP176"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Interface"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Interface-PCI9030-PQFP176"
+    ],
+    "oompIndex": [
+        "PCI9030-PQFP176"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://lhcb-online.web.cern.ch/lhcb-online/ecs/ccpc/docs/plc-9030-databook.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_QFP:LQFP-176_24x24mm_P0.5mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "PCI9030-PQFP176",
+                "kicadSymbolki_description": "PCI SMARTarget I/O Accelerator",
+                "kicadSymbolki_fp_filters": "LQFP*24x24mm*P0.5mm*",
+                "kicadSymbolki_keywords": "PCI"
+            }
+        ]
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKTRANSISTORBJTPMBT396YS"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Transistor_BJT : PMBT3906YS"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Transistor_BJT"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Transistor_BJT-PMBT3906YS"
+    ],
+    "oompIndex": [
+        "PMBT3906YS"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://assets.nexperia.com/documents/data-sheet/PMBT3906YS.pdf",
+                "kicadSymbolExtends": "BC856BS",
+                "kicadSymbolFootprint": "Package_TO_SOT_SMD:SOT-363_SC-70-6",
+                "kicadSymbolReference": "Q",
+                "kicadSymbolValue": "PMBT3906YS",
+                "kicadSymbolki_description": "200mA IC, 40V Vce, Dual PNP/PNP Transistors, SOT-363",
+                "kicadSymbolki_fp_filters": "SOT?363*",
+                "kicadSymbolki_keywords": "PNP/PNP Transistor"
+            }
+        ]
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKTIMER82C54"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Timer : 82C54"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Timer"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Timer-82C54"
+    ],
+    "oompIndex": [
+        "82C54"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://download.intel.com/design/archives/periphrl/docs/23124406.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_DIP:DIP-24_W15.24mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "82C54",
+                "kicadSymbolki_description": "CHMOS Programmable Interval Timer, PDIP-24",
+                "kicadSymbolki_fp_filters": "DIP*W15.24mm*",
+                "kicadSymbolki_keywords": "Timer Counter"
+            }
+        ]
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKISOLATOR4N26"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Isolator : 4N26"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Isolator"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Isolator-4N26"
+    ],
+    "oompIndex": [
+        "4N26"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.vishay.com/docs/83725/4n25.pdf",
+                "kicadSymbolExtends": "4N25",
+                "kicadSymbolFootprint": "Package_DIP:DIP-6_W7.62mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "4N26",
+                "kicadSymbolki_description": "DC Optocoupler Base Connected, Vce 30V, CTR 20%, Viso 1500V, DIP6",
+                "kicadSymbolki_fp_filters": "DIP*W7.62mm*",
+                "kicadSymbolki_keywords": "NPN DC Optocoupler Base Connected"
+            }
+        ]
+    ]
+}

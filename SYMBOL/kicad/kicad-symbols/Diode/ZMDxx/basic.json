@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKDIODEZMDXX"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Diode : ZMDxx"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Diode"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Diode-ZMDxx"
+    ],
+    "oompIndex": [
+        "ZMDxx"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://diotec.com/tl_files/diotec/files/pdf/datasheets/zmd1",
+                "kicadSymbolExtends": "ZPYxx",
+                "kicadSymbolFootprint": "Diode_SMD:D_MiniMELF",
+                "kicadSymbolReference": "D",
+                "kicadSymbolValue": "ZMDxx",
+                "kicadSymbolki_description": "1000mW Zener Diode, MiniMELF",
+                "kicadSymbolki_fp_filters": "D*MiniMELF*",
+                "kicadSymbolki_keywords": "zener diode"
+            }
+        ]
+    ]
+}

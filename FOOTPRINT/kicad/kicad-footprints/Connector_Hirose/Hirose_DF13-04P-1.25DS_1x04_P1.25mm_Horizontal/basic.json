@@ -1,0 +1,57 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "through_hole",
+            "description": "Hirose DF13 through hole, DF13-04P-1.25DS, 4 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13-4P-1.25DS%2820%29/), generated with kicad-footprint-generator",
+            "name": "Hirose_DF13-04P-1.25DS_1x04_P1.25mm_Horizontal",
+            "pins": {
+                "shape": "roundrect",
+                "type": "thru_hole"
+            },
+            "tags": "connector Hirose DF13 horizontal",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/Connector_Hirose.3dshapes/Hirose_DF13-04P-1.25DS_1x04_P1.25mm_Horizontal.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKCNHIROSEHIROSEDF134P125DS1X4P125HORIZONTAL"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Connector_Hirose : Hirose_DF13-04P-1.25DS_1x04_P1.25mm_Horizontal"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Connector_Hirose"
+    ],
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Connector_Hirose-Hirose_DF13-04P-1.25DS_1x04_P1.25mm_Horizontal"
+    ],
+    "oompIndex": [
+        "Hirose_DF13-04P-1.25DS_1x04_P1.25mm_Horizontal"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

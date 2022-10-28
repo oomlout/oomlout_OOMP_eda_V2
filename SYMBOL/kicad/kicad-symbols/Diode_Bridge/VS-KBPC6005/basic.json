@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKDIODEBRIDGEVSKBPC65"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Diode_Bridge : VS-KBPC6005"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Diode_Bridge"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Diode_Bridge-VS-KBPC6005"
+    ],
+    "oompIndex": [
+        "VS-KBPC6005"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.vishay.com/docs/93585/vs-kbpc1series.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Diode_THT:Diode_Bridge_Vishay_KBPC6",
+                "kicadSymbolReference": "D",
+                "kicadSymbolValue": "VS-KBPC6005",
+                "kicadSymbolki_description": "Single-Phase Bridge Rectifier, 20V Vrms, 6.0A If, KBPC6 package",
+                "kicadSymbolki_fp_filters": "D*Bridge*Vishay*KBPC6*",
+                "kicadSymbolki_keywords": "rectifier acdc"
+            }
+        ]
+    ]
+}

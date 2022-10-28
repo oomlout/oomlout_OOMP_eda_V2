@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKDICHARACTERLTS698HR"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Display_Character : LTS-6980HR"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Display_Character"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Display_Character-LTS-6980HR"
+    ],
+    "oompIndex": [
+        "LTS-6980HR"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://datasheet.octopart.com/LTS-6960HR-Lite-On-datasheet-11803242.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Display_7Segment:7SegmentLED_LTS6760_LTS6780",
+                "kicadSymbolReference": "AFF",
+                "kicadSymbolValue": "LTS-6980HR",
+                "kicadSymbolki_description": "DISPLAY 7 SEGMENTS common K, high efficient red",
+                "kicadSymbolki_fp_filters": "7SegmentLED?LTS6760?LTS6780*",
+                "kicadSymbolki_keywords": "display LED 7-segment"
+            }
+        ]
+    ]
+}

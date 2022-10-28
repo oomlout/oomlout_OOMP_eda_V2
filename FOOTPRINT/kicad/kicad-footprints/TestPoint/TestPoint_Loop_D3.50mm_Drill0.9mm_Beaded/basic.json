@@ -1,0 +1,57 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "through_hole",
+            "description": "wire loop with bead as test point, loop diameter2.6mm, hole diameter 0.9mm",
+            "name": "TestPoint_Loop_D3.50mm_Drill0.9mm_Beaded",
+            "pins": {
+                "shape": "circle",
+                "type": "thru_hole"
+            },
+            "tags": "test point wire loop bead",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/TestPoint.3dshapes/TestPoint_Loop_D3.50mm_Drill0.9mm_Beaded.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKTPTPLOOPD35DRILL9BEADED"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "TestPoint : TestPoint_Loop_D3.50mm_Drill0.9mm_Beaded"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "TestPoint"
+    ],
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-TestPoint-TestPoint_Loop_D3.50mm_Drill0.9mm_Beaded"
+    ],
+    "oompIndex": [
+        "TestPoint_Loop_D3.50mm_Drill0.9mm_Beaded"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

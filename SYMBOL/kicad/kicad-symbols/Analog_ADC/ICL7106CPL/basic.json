@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKANALOGADCICL716CPL"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Analog_ADC : ICL7106CPL"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Analog_ADC"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Analog_ADC-ICL7106CPL"
+    ],
+    "oompIndex": [
+        "ICL7106CPL"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.renesas.com/eu/en/www/doc/datasheet/icl7106-07-07s.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_DIP:DIP-40_W15.24mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "ICL7106CPL",
+                "kicadSymbolki_description": "3 1/2 Digit, LCD Display, A/D Converter, DIP-40",
+                "kicadSymbolki_fp_filters": "DIP*W15.24*",
+                "kicadSymbolki_keywords": "LCD ADC"
+            }
+        ]
+    ]
+}

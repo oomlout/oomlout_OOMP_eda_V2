@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKTRANSISTORBJTBC14"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Transistor_BJT : BC140"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Transistor_BJT"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Transistor_BJT-BC140"
+    ],
+    "oompIndex": [
+        "BC140"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.farnell.com/datasheets/296634.pdf",
+                "kicadSymbolExtends": "2N2219",
+                "kicadSymbolFootprint": "Package_TO_SOT_THT:TO-39-3",
+                "kicadSymbolReference": "Q",
+                "kicadSymbolValue": "BC140",
+                "kicadSymbolki_description": "1A Ic, 40V Vce, NPN Transistor, TO-39",
+                "kicadSymbolki_fp_filters": "TO?39*",
+                "kicadSymbolki_keywords": "NPN Transistor"
+            }
+        ]
+    ]
+}

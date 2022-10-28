@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKFPGALATTICELFE5UM85F6BG756X"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "FPGA_Lattice : LFE5UM-85F-6BG756x"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "FPGA_Lattice"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-FPGA_Lattice-LFE5UM-85F-6BG756x"
+    ],
+    "oompIndex": [
+        "LFE5UM-85F-6BG756x"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.latticesemi.com/view_document?document_id=50461",
+                "kicadSymbolExtends": "LFE5UM5G-85F-8BG756x",
+                "kicadSymbolFootprint": "Package_BGA:Lattice_caBGA-756_27.0x27.0mm_Layout32x32_P0.8mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "LFE5UM-85F-6BG756x",
+                "kicadSymbolki_description": "ECP5 FPGA, 84K LUTs, 1.2V, 3.2Gbps SERDES, BGA-756",
+                "kicadSymbolki_fp_filters": "Lattice*caBGA*27.0x27.0mm*Layout32x32*P0.8mm*",
+                "kicadSymbolki_keywords": "FPGA programmable logic"
+            }
+        ]
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKREGULATORSWITCHINGLM2574M5"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Regulator_Switching : LM2574M-5"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Regulator_Switching"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM2574M-5"
+    ],
+    "oompIndex": [
+        "LM2574M-5"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.national.com/ds/LM/LM2574.pdf",
+                "kicadSymbolExtends": "LM2574HVM-12",
+                "kicadSymbolFootprint": "Package_SO:SOIC-14W_7.5x9mm_P1.27mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "LM2574M-5",
+                "kicadSymbolki_description": "5V, 0.5A SIMPLE SWITCHER\u00ae Step-Down Voltage Regulator, SO-8",
+                "kicadSymbolki_fp_filters": "SOIC*7.5x9mm*P1.27mm*",
+                "kicadSymbolki_keywords": "Step-Down Voltage Regulator 5V 500mA"
+            }
+        ]
+    ]
+}

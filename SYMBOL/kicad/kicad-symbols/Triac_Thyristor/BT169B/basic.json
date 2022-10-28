@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKTRIACTHYRISTORBT169B"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Triac_Thyristor : BT169B"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Triac_Thyristor"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Triac_Thyristor-BT169B"
+    ],
+    "oompIndex": [
+        "BT169B"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://media.digikey.com/pdf/Data%20Sheets/NXP%20PDFs/BT169_Series.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_TO_SOT_THT:TO-92_Inline",
+                "kicadSymbolReference": "Q",
+                "kicadSymbolValue": "BT169B",
+                "kicadSymbolki_description": "0.5A Ion, 200V Voff, Thyristors logic level, Silicon Controlled Rectifier (Thyristor), TO-92",
+                "kicadSymbolki_fp_filters": "TO?92*Inline*Narrow*",
+                "kicadSymbolki_keywords": "thyristor logic level"
+            }
+        ]
+    ]
+}

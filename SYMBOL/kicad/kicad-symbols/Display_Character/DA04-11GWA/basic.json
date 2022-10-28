@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKDICHARACTERDA411GWA"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Display_Character : DA04-11GWA"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Display_Character"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Display_Character-DA04-11GWA"
+    ],
+    "oompIndex": [
+        "DA04-11GWA"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.kingbrightusa.com/images/catalog/SPEC/DA04-11GWA.pdf",
+                "kicadSymbolExtends": "DA04-11CGKWA",
+                "kicadSymbolFootprint": "Display_7Segment:DA04-11CGKWA",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "DA04-11GWA",
+                "kicadSymbolki_description": "Double 7 segment green LED common anode",
+                "kicadSymbolki_fp_filters": "*DA04*11*",
+                "kicadSymbolki_keywords": "display LED 7-segment"
+            }
+        ]
+    ]
+}

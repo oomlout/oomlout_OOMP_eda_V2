@@ -1,0 +1,57 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "through_hole",
+            "description": "Littelfuse clips, https://www.littelfuse.com/~/media/electronics/datasheets/fuse_clips/littelfuse_fuse_clip_100_445_030_520_datasheet.pdf.pdf",
+            "name": "Fuseholder_Littelfuse_445_030_series_5x25mm",
+            "pins": {
+                "shape": "circle",
+                "type": "thru_hole"
+            },
+            "tags": "Fuseholder clips",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/Fuse.3dshapes/Fuseholder_Littelfuse_445_030_series_5x25mm.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKFUFUHOLDERLITTELFU4453SERIES5X25"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Fuse : Fuseholder_Littelfuse_445_030_series_5x25mm"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Fuse"
+    ],
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Fuse-Fuseholder_Littelfuse_445_030_series_5x25mm"
+    ],
+    "oompIndex": [
+        "Fuseholder_Littelfuse_445_030_series_5x25mm"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

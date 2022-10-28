@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKREGULATORSWITCHINGTPS6217DSG"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Regulator_Switching : TPS62170DSG"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Regulator_Switching"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS62170DSG"
+    ],
+    "oompIndex": [
+        "TPS62170DSG"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.ti.com/lit/ds/symlink/tps62170.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_SON:WSON-8-1EP_2x2mm_P0.5mm_EP0.9x1.6mm_ThermalVias",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "TPS62170DSG",
+                "kicadSymbolki_description": "500mA Step-Down Converter with DCS-Control, adjustable output, 3-17V input voltage, WSON-8",
+                "kicadSymbolki_fp_filters": "WSON*EP*2x2mm*P0.5mm*",
+                "kicadSymbolki_keywords": "step-down dc-dc buck regulator"
+            }
+        ]
+    ]
+}

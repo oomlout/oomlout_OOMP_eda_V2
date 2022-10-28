@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKINTERFACEFIN119M"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Interface : FIN1019M"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Interface"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Interface-FIN1019M"
+    ],
+    "oompIndex": [
+        "FIN1019M"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.onsemi.com/pub/Collateral/FIN1019-D.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "FIN1019M",
+                "kicadSymbolki_description": "3.3V LVDS High Speed Differential Driver/Receiver, 400Mbps, SOIC-14",
+                "kicadSymbolki_fp_filters": "SOIC*3.9x8.7mm*P1.27mm*",
+                "kicadSymbolki_keywords": "lvds driver receiver"
+            }
+        ]
+    ]
+}

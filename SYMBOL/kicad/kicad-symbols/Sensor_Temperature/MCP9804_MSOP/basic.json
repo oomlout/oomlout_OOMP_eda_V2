@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKSENTEMPERATUREMCP984MS"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Sensor_Temperature : MCP9804_MSOP"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Sensor_Temperature"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Sensor_Temperature-MCP9804_MSOP"
+    ],
+    "oompIndex": [
+        "MCP9804_MSOP"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/22203b.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_SO:MSOP-8_3x3mm_P0.65mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "MCP9804_MSOP",
+                "kicadSymbolki_description": "+/-0.25C (+/-1C) Typical (Maximum), Digital Temperature Sensor, MSOP-8",
+                "kicadSymbolki_fp_filters": "MSOP*3x3mm*P0.65mm*",
+                "kicadSymbolki_keywords": "temperature sensor I2C"
+            }
+        ]
+    ]
+}

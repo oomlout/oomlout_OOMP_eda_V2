@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKSENCURRENTACS718XMATR2B"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Sensor_Current : ACS718xMATR-20B"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Sensor_Current"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS718xMATR-20B"
+    ],
+    "oompIndex": [
+        "ACS718xMATR-20B"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.allegromicro.com/~/media/Files/Datasheets/ACS718-Datasheet.ashx?la=en",
+                "kicadSymbolExtends": "ACS717xMATR-10B",
+                "kicadSymbolFootprint": "Package_SO:SOIC-16W_7.5x10.3mm_P1.27mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "ACS718xMATR-20B",
+                "kicadSymbolki_description": "\u00b120A Bidirectional, Hall-Effect Current Sensor, +5.0V supply, 100mV/A, SOIC-16W",
+                "kicadSymbolki_fp_filters": "SOIC*7.5x10.3mm*P1.27mm*",
+                "kicadSymbolki_keywords": "hall effect current monitor sensor isolated"
+            }
+        ]
+    ]
+}

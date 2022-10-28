@@ -1,0 +1,57 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "through_hole",
+            "description": "Resistor, Axial_DIN0922 series, Axial, Vertical, pin pitch=7.62mm, 5W, length*diameter=20*9mm^2, http://www.vishay.com/docs/20128/wkxwrx.pdf",
+            "name": "R_Axial_DIN0922_L20.0mm_D9.0mm_P7.62mm_Vertical",
+            "pins": {
+                "shape": "circle",
+                "type": "thru_hole"
+            },
+            "tags": "Resistor Axial_DIN0922 series Axial Vertical pin pitch 7.62mm 5W length 20mm diameter 9mm",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_DIN0922_L20.0mm_D9.0mm_P7.62mm_Vertical.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKRRAXIALDIN922L2D9P762VERTICAL"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Resistor_THT : R_Axial_DIN0922_L20.0mm_D9.0mm_P7.62mm_Vertical"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Resistor_THT"
+    ],
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Resistor_THT-R_Axial_DIN0922_L20.0mm_D9.0mm_P7.62mm_Vertical"
+    ],
+    "oompIndex": [
+        "R_Axial_DIN0922_L20.0mm_D9.0mm_P7.62mm_Vertical"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

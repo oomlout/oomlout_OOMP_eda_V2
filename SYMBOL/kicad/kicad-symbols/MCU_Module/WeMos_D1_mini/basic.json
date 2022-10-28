@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKMCUMOWEMOSD1M"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "MCU_Module : WeMos_D1_mini"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "MCU_Module"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-MCU_Module-WeMos_D1_mini"
+    ],
+    "oompIndex": [
+        "WeMos_D1_mini"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://wiki.wemos.cc/products:d1:d1_mini#documentation",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Module:WEMOS_D1_mini_light",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "WeMos_D1_mini",
+                "kicadSymbolki_description": "32-bit microcontroller module with WiFi",
+                "kicadSymbolki_fp_filters": "WEMOS*D1*mini*",
+                "kicadSymbolki_keywords": "ESP8266 WiFi microcontroller ESP8266EX"
+            }
+        ]
+    ]
+}

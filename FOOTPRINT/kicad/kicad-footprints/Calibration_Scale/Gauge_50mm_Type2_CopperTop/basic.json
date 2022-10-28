@@ -1,0 +1,53 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": null,
+            "description": "Gauge, Massstab, 50mm, CopperTop, Type 2,",
+            "name": "Gauge_50mm_Type2_CopperTop",
+            "pins": {},
+            "tags": "Gauge Massstab 50mm CopperTop Type 2"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKCSGAUGE5TYPE2CTOP"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Calibration_Scale : Gauge_50mm_Type2_CopperTop"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Calibration_Scale"
+    ],
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Calibration_Scale-Gauge_50mm_Type2_CopperTop"
+    ],
+    "oompIndex": [
+        "Gauge_50mm_Type2_CopperTop"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

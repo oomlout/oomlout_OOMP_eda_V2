@@ -1,0 +1,81 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKTRADT91T"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Transformer : ADT9-1T"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Transformer"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transformer/ADT9-1T/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transformer/ADT9-1T/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transformer/ADT9-1T/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transformer/ADT9-1T/details.py"
+        ],
+        "imagePng": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transformer/ADT9-1T/image.png"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transformer/ADT9-1T/basic.json"
+        ],
+        "readme": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transformer/ADT9-1T/README.md"
+        ]
+    },
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Transformer-ADT9-1T"
+    ],
+    "oompIndex": [
+        "ADT9-1T"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.minicircuits.com/pdfs/ADT9-1T+.pdf",
+                "kicadSymbolExtends": "ADT1-1WT-1",
+                "kicadSymbolFootprint": "RF_Mini-Circuits:Mini-Circuits_CD542_H2.84mm",
+                "kicadSymbolReference": "TR",
+                "kicadSymbolValue": "ADT9-1T",
+                "kicadSymbolki_description": "1-250MHz 1:9 RF Transformer, Unbalanced to Balanced Center Tap, CD542",
+                "kicadSymbolki_fp_filters": "Mini?Circuits*CD542*",
+                "kicadSymbolki_keywords": "Mini-Circuits RF Transformer"
+            }
+        ]
+    ]
+}

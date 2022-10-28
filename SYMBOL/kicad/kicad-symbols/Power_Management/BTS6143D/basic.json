@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKPOWERMANAGEMENTBTS6143D"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Power_Management : BTS6143D"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Power_Management"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Power_Management-BTS6143D"
+    ],
+    "oompIndex": [
+        "BTS6143D"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.infineon.com/dgdl/Infineon-BTS6143D-DS-v01_00-EN.pdf?fileId=5546d4625a888733015aa3da10821022",
+                "kicadSymbolExtends": "BTS50080-1TEA",
+                "kicadSymbolFootprint": "Package_TO_SOT_SMD:TO-252-4",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "BTS6143D",
+                "kicadSymbolki_description": "Smart High-Side Power Switch, PROFET, Single, 10mOhm, 8A, 38V, TO252-5",
+                "kicadSymbolki_fp_filters": "TO*252*",
+                "kicadSymbolki_keywords": "infineon power switch"
+            }
+        ]
+    ]
+}

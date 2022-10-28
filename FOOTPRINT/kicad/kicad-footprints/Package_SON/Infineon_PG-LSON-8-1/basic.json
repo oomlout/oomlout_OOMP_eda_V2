@@ -1,0 +1,57 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "smd",
+            "description": "https://www.infineon.com/cms/en/product/packages/PG-LSON/PG-LSON-8-1/",
+            "name": "Infineon_PG-LSON-8-1",
+            "pins": {
+                "shape": "rect",
+                "type": "smd"
+            },
+            "tags": "PG-LSON-8-1",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/Package_SON.3dshapes/Infineon_PG-LSON-8-1.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKSONINFINEONPGLSON81"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Package_SON : Infineon_PG-LSON-8-1"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Package_SON"
+    ],
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Package_SON-Infineon_PG-LSON-8-1"
+    ],
+    "oompIndex": [
+        "Infineon_PG-LSON-8-1"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

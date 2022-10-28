@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICCAPC85XNF3V5C8N3C174"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "oomlout_OOMP_JLCC_Basic : CAPC-0805-X-NF30-V50-C8N30-C1740"
+    ],
+    "oompColor": [
+        "oomlout_OOMP_kicad"
+    ],
+    "oompDesc": [
+        "oomlout_OOMP_JLCC_Basic"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0805-X-NF30-V50-C8N30-C1740"
+    ],
+    "oompIndex": [
+        "CAPC-0805-X-NF30-V50-C8N30-C1740"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "oom.lt/C8N30",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "oomlout_OOMP_parts:CAPC-0805-X-NF30-V50-C8N30-C1740",
+                "kicadSymbolReference": "C",
+                "kicadSymbolValue": "CAPC-0805-X-NF30-V50-C8N30-C1740",
+                "kicadSymbolki_description": "hexID: C8N30;PARTL C-JLCC;C1740;MANUF C-XXXX;0805B334K500NT;Unpolarized capacitor",
+                "kicadSymbolki_fp_filters": "C_*",
+                "kicadSymbolki_keywords": "cap capacitor"
+            }
+        ]
+    ]
+}

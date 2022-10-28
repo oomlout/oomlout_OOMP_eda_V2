@@ -1,0 +1,81 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKCONMEE1S129SC"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Converter_DCDC : MEE1S1209SC"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Converter_DCDC"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_DCDC/MEE1S1209SC/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_DCDC/MEE1S1209SC/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_DCDC/MEE1S1209SC/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_DCDC/MEE1S1209SC/details.py"
+        ],
+        "imagePng": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_DCDC/MEE1S1209SC/image.png"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_DCDC/MEE1S1209SC/basic.json"
+        ],
+        "readme": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_DCDC/MEE1S1209SC/README.md"
+        ]
+    },
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Converter_DCDC-MEE1S1209SC"
+    ],
+    "oompIndex": [
+        "MEE1S1209SC"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://power.murata.com/pub/data/power/ncl/kdc_mee1.pdf",
+                "kicadSymbolExtends": "MEE1S0303SC",
+                "kicadSymbolFootprint": "Converter_DCDC:Converter_DCDC_Murata_MEE1SxxxxSC_THT",
+                "kicadSymbolReference": "PS",
+                "kicadSymbolValue": "MEE1S1209SC",
+                "kicadSymbolki_description": "1W, 1000 VDC isolated DC/DC converter, 12V input, 9V output, SIP",
+                "kicadSymbolki_fp_filters": "Converter*DCDC*Murata*MEE1SxxxxSC*THT*",
+                "kicadSymbolki_keywords": "murata DC/DC isolated converter"
+            }
+        ]
+    ]
+}

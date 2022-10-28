@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKREFERENCEVOLTAGETLE2425XLP"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Reference_Voltage : TLE2425xLP"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Reference_Voltage"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Reference_Voltage-TLE2425xLP"
+    ],
+    "oompIndex": [
+        "TLE2425xLP"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.ti.com/lit/ds/symlink/tle2425.pdf",
+                "kicadSymbolExtends": "TLE2426xLP",
+                "kicadSymbolFootprint": "",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "TLE2425xLP",
+                "kicadSymbolki_description": "Precision virtual ground, 2.5V output, TO-92",
+                "kicadSymbolki_fp_filters": "TO?92*",
+                "kicadSymbolki_keywords": "Rail splitter precision virtual ground 2.5V"
+            }
+        ]
+    ]
+}

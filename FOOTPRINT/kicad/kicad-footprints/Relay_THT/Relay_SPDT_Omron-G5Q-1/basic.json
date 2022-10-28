@@ -1,0 +1,57 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "through_hole",
+            "description": "Relay SPDT Omron Serie G5Q, http://omronfs.omron.com/en_US/ecb/products/pdf/en-g5q.pdf",
+            "name": "Relay_SPDT_Omron-G5Q-1",
+            "pins": {
+                "shape": "rect",
+                "type": "thru_hole"
+            },
+            "tags": "Relay SPDT Omron Serie G5Q",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/Relay_THT.3dshapes/Relay_SPDT_Omron-G5Q-1.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKRELRELAYSPDTOMRONG5Q1"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Relay_THT : Relay_SPDT_Omron-G5Q-1"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Relay_THT"
+    ],
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Relay_THT-Relay_SPDT_Omron-G5Q-1"
+    ],
+    "oompIndex": [
+        "Relay_SPDT_Omron-G5Q-1"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

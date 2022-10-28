@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKRFAMFMSI4731D6GU"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "RF_AM_FM : Si4731-D60-GU"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "RF_AM_FM"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-RF_AM_FM-Si4731-D60-GU"
+    ],
+    "oompIndex": [
+        "Si4731-D60-GU"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.silabs.com/Support%20Documents/TechnicalDocs/Si4730-31-34-35-D60.pdf",
+                "kicadSymbolExtends": "Si4735-D60-GU",
+                "kicadSymbolFootprint": "Package_SO:SSOP-24_3.9x8.7mm_P0.635mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "Si4731-D60-GU",
+                "kicadSymbolki_description": "AM/FM Broadcast Radio Receiver with RDS/RBDS",
+                "kicadSymbolki_fp_filters": "SSOP*3.9x8.7mm*P0.635mm*",
+                "kicadSymbolki_keywords": "Broadcast AM FM Radio Receiver RDS RBDS"
+            }
+        ]
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKAMPLIFIEROPERATIONALOPA33XXDCK"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Amplifier_Operational : OPA330xxDCK"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Amplifier_Operational"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA330xxDCK"
+    ],
+    "oompIndex": [
+        "OPA330xxDCK"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.ti.com/lit/ds/symlink/opa330.pdf",
+                "kicadSymbolExtends": "LMV321",
+                "kicadSymbolFootprint": "",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "OPA330xxDCK",
+                "kicadSymbolki_description": "50\u03bcV V OS, 0.25\u03bcV/\u00b0C, 35\u03bcA CMOS OPERATIONAL AMPLIFIERS, Zer\u00f8-Drift Series, SC70",
+                "kicadSymbolki_fp_filters": "SOT?23* *SC*70*",
+                "kicadSymbolki_keywords": "single opamp"
+            }
+        ]
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKMCUMOOPOS6ULNANO"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "MCU_Module : OPOS6UL_NANO"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "MCU_Module"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-MCU_Module-OPOS6UL_NANO"
+    ],
+    "oompIndex": [
+        "OPOS6UL_NANO"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.opossom.com/_downloads/opos6ul_nano/datasheet_opos6ul_nano.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "OPOS6UL_NANO",
+                "kicadSymbolki_description": "NXP i.MX6ULL/i.MX6UL, 256 or 512 MB RAM, industrial SoM computer, M.2M (NGFF)",
+                "kicadSymbolki_fp_filters": "*M.2*",
+                "kicadSymbolki_keywords": "opos6ul compute module"
+            }
+        ]
+    ]
+}

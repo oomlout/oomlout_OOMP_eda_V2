@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKINTERFACEOPTICALTS17XX"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Interface_Optical : TSOP17xx"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Interface_Optical"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Interface_Optical-TSOP17xx"
+    ],
+    "oompIndex": [
+        "TSOP17xx"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.micropik.com/PDF/tsop17xx.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "OptoDevice:Vishay_CAST-3Pin",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "TSOP17xx",
+                "kicadSymbolki_description": "Photo Modules for PCM Remote Control Systems",
+                "kicadSymbolki_fp_filters": "Vishay*CAST*",
+                "kicadSymbolki_keywords": "opto IR receiver"
+            }
+        ]
+    ]
+}

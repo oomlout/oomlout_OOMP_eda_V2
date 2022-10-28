@@ -1,0 +1,81 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKCPUNXPIMXMCIMX6D5EYM"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "CPU_NXP_IMX : MCIMX6D5EYM"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "CPU_NXP_IMX"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/CPU_NXP_IMX/MCIMX6D5EYM/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/CPU_NXP_IMX/MCIMX6D5EYM/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/CPU_NXP_IMX/MCIMX6D5EYM/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/CPU_NXP_IMX/MCIMX6D5EYM/details.py"
+        ],
+        "imagePng": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/CPU_NXP_IMX/MCIMX6D5EYM/image.png"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/CPU_NXP_IMX/MCIMX6D5EYM/basic.json"
+        ],
+        "readme": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/CPU_NXP_IMX/MCIMX6D5EYM/README.md"
+        ]
+    },
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-CPU_NXP_IMX-MCIMX6D5EYM"
+    ],
+    "oompIndex": [
+        "MCIMX6D5EYM"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.nxp.com/docs/en/data-sheet/IMX6DQCEC.pdf",
+                "kicadSymbolExtends": "MCIMX6QP5EYM",
+                "kicadSymbolFootprint": "Package_BGA:BGA-624_21.0x21.0mm_Layout25x25_P0.8mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "MCIMX6D5EYM",
+                "kicadSymbolki_description": "i.MX 6Dual Application Processor for Consumer Products, BGA-624",
+                "kicadSymbolki_fp_filters": "BGA*21.0x21.0mm*P0.8mm*",
+                "kicadSymbolki_keywords": "Dual-Core ARM Cortex A9 SOC"
+            }
+        ]
+    ]
+}

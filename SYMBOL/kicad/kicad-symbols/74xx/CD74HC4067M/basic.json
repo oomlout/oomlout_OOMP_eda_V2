@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZK74XXCD74HC467M"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "74xx : CD74HC4067M"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "74xx"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-74xx-CD74HC4067M"
+    ],
+    "oompIndex": [
+        "CD74HC4067M"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.ti.com/lit/ds/symlink/cd74hc4067.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_SO:SOIC-24W_7.5x15.4mm_P1.27mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "CD74HC4067M",
+                "kicadSymbolki_description": "High-Speed CMOS Logic 16-Channel Analog Multiplexer/Demultiplexer, SOIC-24",
+                "kicadSymbolki_fp_filters": "SOIC*W*7.5x15.4mm*P1.27mm*",
+                "kicadSymbolki_keywords": "multiplexer demultiplexer mux demux"
+            }
+        ]
+    ]
+}

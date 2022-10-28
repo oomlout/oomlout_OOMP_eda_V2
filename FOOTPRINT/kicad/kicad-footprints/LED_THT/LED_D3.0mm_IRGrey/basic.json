@@ -1,0 +1,57 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "through_hole",
+            "description": "IR-LED, diameter 3.0mm, 2 pins, color: grey",
+            "name": "LED_D3.0mm_IRGrey",
+            "pins": {
+                "shape": "rect",
+                "type": "thru_hole"
+            },
+            "tags": "IR infrared LED diameter 3.0mm 2 pins grey",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/LED_THT.3dshapes/LED_D3.0mm_IRGrey.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKLLD3IRGREY"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "LED_THT : LED_D3.0mm_IRGrey"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "LED_THT"
+    ],
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D3.0mm_IRGrey"
+    ],
+    "oompIndex": [
+        "LED_D3.0mm_IRGrey"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

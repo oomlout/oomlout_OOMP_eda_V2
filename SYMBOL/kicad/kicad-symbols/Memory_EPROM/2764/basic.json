@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKMEMORYEPROM2764"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Memory_EPROM : 2764"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Memory_EPROM"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Memory_EPROM-2764"
+    ],
+    "oompIndex": [
+        "2764"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://downloads.reactivemicro.com/Electronics/ROM/2764%20EPROM.pdf",
+                "kicadSymbolExtends": "27C64",
+                "kicadSymbolFootprint": "Package_DIP:DIP-28_W15.24mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "2764",
+                "kicadSymbolki_description": "EPROM 64 KiBit, [Obsolete 2000-11]",
+                "kicadSymbolki_fp_filters": "DIP*W15.24mm*",
+                "kicadSymbolki_keywords": "EPROM 64KiBit"
+            }
+        ]
+    ]
+}

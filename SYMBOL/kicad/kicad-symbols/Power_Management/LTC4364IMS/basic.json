@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKPOWERMANAGEMENTLTC4364IMS"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Power_Management : LTC4364IMS"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Power_Management"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Power_Management-LTC4364IMS"
+    ],
+    "oompIndex": [
+        "LTC4364IMS"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/436412f.pdf",
+                "kicadSymbolExtends": "LTC4364CMS",
+                "kicadSymbolFootprint": "Package_SO:MSOP-16_3x4mm_P0.5mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "LTC4364IMS",
+                "kicadSymbolki_description": "Surge stopper with ideal diode, UV and OV protection -40V to +80V in MSOP-16 package, -40\u00b0C to +85\u00b0C",
+                "kicadSymbolki_fp_filters": "MSOP*3x4mm*P0.5mm*",
+                "kicadSymbolki_keywords": "surge overvoltage undervoltage reverse-polarity protection diode ORing MOSFET driver"
+            }
+        ]
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKINTERFACECANLINMCP255EMQ"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Interface_CAN_LIN : MCP2050-500-EMQ"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Interface_CAN_LIN"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-MCP2050-500-EMQ"
+    ],
+    "oompIndex": [
+        "MCP2050-500-EMQ"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/22299B.pdf",
+                "kicadSymbolExtends": "MCP2050-330-EMQ",
+                "kicadSymbolFootprint": "Package_DFN_QFN:QFN-20-1EP_5x5mm_P0.65mm_EP3.35x3.35mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "MCP2050-500-EMQ",
+                "kicadSymbolki_description": "LIN Transceiver with Voltage Regulator, 5V, QFN-20",
+                "kicadSymbolki_fp_filters": "QFN*1EP*5x5mm*P0.65mm*",
+                "kicadSymbolki_keywords": "LIN transceiver regulator"
+            }
+        ]
+    ]
+}

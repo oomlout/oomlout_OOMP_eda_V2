@@ -1,0 +1,57 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "through_hole",
+            "description": "Fuseholder ATO Blade littelfuse Pudenz 2 Pin",
+            "name": "Fuseholder_Blade_ATO_Littelfuse_Pudenz_2_Pin",
+            "pins": {
+                "shape": "circle",
+                "type": "np_thru_hole"
+            },
+            "tags": "Fuseholder ATO Blade littelfuse Pudenz 2 Pin",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/Fuse.3dshapes/Fuseholder_Blade_ATO_Littelfuse_Pudenz_2_Pin.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKFUFUHOLDERBLADEATOLITTELFUPUDENZ2PIN"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Fuse : Fuseholder_Blade_ATO_Littelfuse_Pudenz_2_Pin"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Fuse"
+    ],
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Fuse-Fuseholder_Blade_ATO_Littelfuse_Pudenz_2_Pin"
+    ],
+    "oompIndex": [
+        "Fuseholder_Blade_ATO_Littelfuse_Pudenz_2_Pin"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

@@ -1,0 +1,57 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "through_hole",
+            "description": "https://www.honeywellscportal.com/index.php?ci_id=138832",
+            "name": "Honeywell_40PCxxxG1A",
+            "pins": {
+                "shape": "rect",
+                "type": "thru_hole"
+            },
+            "tags": "pressure sensor automotive honeywell",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/Sensor_Pressure.3dshapes/Honeywell_40PCxxxG1A.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKSENPRESSUREHONEYWELL4PCXXXG1A"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Sensor_Pressure : Honeywell_40PCxxxG1A"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Sensor_Pressure"
+    ],
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Sensor_Pressure-Honeywell_40PCxxxG1A"
+    ],
+    "oompIndex": [
+        "Honeywell_40PCxxxG1A"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

@@ -1,0 +1,57 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "smd",
+            "description": "BGA-90, http://www.issi.com/WW/pdf/42-45S32800J.pdf",
+            "name": "BGA-90_8.0x13.0mm_Layout2x3x15_P0.8mm",
+            "pins": {
+                "shape": "circle",
+                "type": "smd"
+            },
+            "tags": "BGA-90",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/BGA-90_8.0x13.0mm_Layout2x3x15_P0.8mm.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKBGABGA98X13LAYOUT2X3X15P8"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Package_BGA : BGA-90_8.0x13.0mm_Layout2x3x15_P0.8mm"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Package_BGA"
+    ],
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Package_BGA-BGA-90_8.0x13.0mm_Layout2x3x15_P0.8mm"
+    ],
+    "oompIndex": [
+        "BGA-90_8.0x13.0mm_Layout2x3x15_P0.8mm"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

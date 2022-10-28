@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKAMPLIFIEROPERATIONALOPA1692XDGK"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Amplifier_Operational : OPA1692xDGK"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Amplifier_Operational"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA1692xDGK"
+    ],
+    "oompIndex": [
+        "OPA1692xDGK"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.ti.com/lit/ds/symlink/opa1692.pdf",
+                "kicadSymbolExtends": "OPA2197xDGK",
+                "kicadSymbolFootprint": "Package_SO:VSSOP-8_3.0x3.0mm_P0.65mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "OPA1692xDGK",
+                "kicadSymbolki_description": "Dual SoundPlus Low Power, Low Noise & Low Distortion Audio Operational Amplifiers, VSSOP-8",
+                "kicadSymbolki_fp_filters": "VSSOP*3.0x3.0mm*P0.65mm*",
+                "kicadSymbolki_keywords": "VFA opamp"
+            }
+        ]
+    ]
+}

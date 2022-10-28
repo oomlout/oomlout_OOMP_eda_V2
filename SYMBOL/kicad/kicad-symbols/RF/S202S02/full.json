@@ -1,0 +1,78 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKRFS22S2"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "RF : S202S02"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "RF"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF/S202S02/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF/S202S02/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF/S202S02/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF/S202S02/details.py"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF/S202S02/basic.json"
+        ],
+        "readme": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF/S202S02/README.md"
+        ]
+    },
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-RF-S202S02"
+    ],
+    "oompIndex": [
+        "S202S02"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.sharp-world.com/products/device/lineup/data/pdf/datasheet/s102s02_e.pdf",
+                "kicadSymbolExtends": "S102S02",
+                "kicadSymbolFootprint": "Package_SIP:SIP4_Sharp-SSR_P7.62mm_Straight",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "S202S02",
+                "kicadSymbolki_description": "Zero Cross Opto-Triac, Vdrm 600V, Ift 8mA, IT 8A",
+                "kicadSymbolki_fp_filters": "SIP4*Sharp*SSR*P7.62mm*",
+                "kicadSymbolki_keywords": "Opto-Triac Opto Triac Zero Cross Solid State Relays"
+            }
+        ]
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKINTERFACEUFU37BMPX"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Interface_USB : FUSB307BMPX"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Interface_USB"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Interface_USB-FUSB307BMPX"
+    ],
+    "oompIndex": [
+        "FUSB307BMPX"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.onsemi.com/pub/Collateral/FUSB307B-D.PDF",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_DFN_QFN:WQFN-16-1EP_3x3mm_P0.5mm_EP1.75x1.75mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "FUSB307BMPX",
+                "kicadSymbolki_description": "USB Type-C Port Controller with USB-PD, WQFN-16",
+                "kicadSymbolki_fp_filters": "WQFN*3x3mm*P0.5mm*EP1.75x1.75mm*",
+                "kicadSymbolki_keywords": "USB USB-C PD Power Delivery PHY TCPC"
+            }
+        ]
+    ]
+}

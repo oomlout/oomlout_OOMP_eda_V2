@@ -1,0 +1,57 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "through_hole",
+            "description": "Crystal THT HC-51/8mm http://www.kvg-gmbh.de/assets/uploads/files/product_pdfs/XS71xx.pdf",
+            "name": "Crystal_HC52-8mm_Horizontal_1EP_style1",
+            "pins": {
+                "shape": "circle",
+                "type": "thru_hole"
+            },
+            "tags": "THT crystal",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Crystal_HC52-8mm_Horizontal_1EP_style1.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKXXHC528HORIZONTAL1EPSTYLE1"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Crystal : Crystal_HC52-8mm_Horizontal_1EP_style1"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Crystal"
+    ],
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_HC52-8mm_Horizontal_1EP_style1"
+    ],
+    "oompIndex": [
+        "Crystal_HC52-8mm_Horizontal_1EP_style1"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

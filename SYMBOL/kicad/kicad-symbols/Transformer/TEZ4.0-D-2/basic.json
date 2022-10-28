@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKTRTEZ4D2"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Transformer : TEZ4.0-D-2"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Transformer"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Transformer-TEZ4.0-D-2"
+    ],
+    "oompIndex": [
+        "TEZ4.0-D-2"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.breve.pl/pdf/ANG/TEZ_ang.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Transformer_THT:Transformer_Breve_TEZ-35x42",
+                "kicadSymbolReference": "TR",
+                "kicadSymbolValue": "TEZ4.0-D-2",
+                "kicadSymbolki_description": "TEZ4.0/D/x-x, 4VA, Dual Secondary, Cast Resin Transformer, PCB",
+                "kicadSymbolki_fp_filters": "Transformer*Breve*TEZ*35x42*",
+                "kicadSymbolki_keywords": "4VA PCB Transformer Dual Secondary"
+            }
+        ]
+    ]
+}

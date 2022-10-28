@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKINTERFACEEXPANSIONTCA9535RTWR"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Interface_Expansion : TCA9535RTWR"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Interface_Expansion"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Interface_Expansion-TCA9535RTWR"
+    ],
+    "oompIndex": [
+        "TCA9535RTWR"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.ti.com/lit/ds/symlink/tca9535.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_DFN_QFN:WQFN-24-1EP_4x4mm_P0.5mm_EP2.45x2.45mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "TCA9535RTWR",
+                "kicadSymbolki_description": "16-bit I/O expander, I2C and SMBus interface, interrupts, w/o pull-ups, QFN-24",
+                "kicadSymbolki_fp_filters": "WQFN*1EP*4x4mm*P0.5mm*",
+                "kicadSymbolki_keywords": "ti parallel port"
+            }
+        ]
+    ]
+}

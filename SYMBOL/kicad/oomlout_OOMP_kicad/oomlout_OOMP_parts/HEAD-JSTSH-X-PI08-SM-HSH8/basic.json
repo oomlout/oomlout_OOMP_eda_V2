@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSHEADJSTSHXPI8SMHSH8"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "oomlout_OOMP_parts : HEAD-JSTSH-X-PI08-SM-HSH8"
+    ],
+    "oompColor": [
+        "oomlout_OOMP_kicad"
+    ],
+    "oompDesc": [
+        "oomlout_OOMP_parts"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-JSTSH-X-PI08-SM-HSH8"
+    ],
+    "oompIndex": [
+        "HEAD-JSTSH-X-PI08-SM-HSH8"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "oom.lt/HSH8",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "oomlout_OOMP_parts:HEAD-JSTSH-X-PI08-SM-HSH8",
+                "kicadSymbolReference": "J",
+                "kicadSymbolValue": "HEAD-JSTSH-X-PI08-SM-HSH8",
+                "kicadSymbolki_description": "hexID: HSH8;Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)",
+                "kicadSymbolki_fp_filters": "Connector*:*_1x??_*",
+                "kicadSymbolki_keywords": "connector"
+            }
+        ]
+    ]
+}

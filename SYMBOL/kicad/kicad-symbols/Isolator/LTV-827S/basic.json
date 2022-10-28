@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKISOLATORLTV827S"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Isolator : LTV-827S"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Isolator"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Isolator-LTV-827S"
+    ],
+    "oompIndex": [
+        "LTV-827S"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.us.liteon.com/downloads/LTV-817-827-847.PDF",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_DIP:SMDIP-8_W9.53mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "LTV-827S",
+                "kicadSymbolki_description": "DC Optocoupler, Vce 35V, CTR 50%, SMDIP-8",
+                "kicadSymbolki_fp_filters": "SMDIP*W9.53mm*",
+                "kicadSymbolki_keywords": "NPN DC Optocoupler"
+            }
+        ]
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKFPGALATTICEICE5LP1KSG48"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "FPGA_Lattice : ICE5LP1K-SG48"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "FPGA_Lattice"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-FPGA_Lattice-ICE5LP1K-SG48"
+    ],
+    "oompIndex": [
+        "ICE5LP1K-SG48"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.latticesemi.com/Products/FPGAandCPLD/iCE40Ultra",
+                "kicadSymbolExtends": "ICE40UP5K-SG48ITR",
+                "kicadSymbolFootprint": "Package_DFN_QFN:QFN-48-1EP_7x7mm_P0.5mm_EP5.6x5.6mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "ICE5LP1K-SG48",
+                "kicadSymbolki_description": "iCE40 Ultra FPGA, 1100 LUTs, 1.2V, 48-pin QFN",
+                "kicadSymbolki_fp_filters": "QFN*7x7mm*P0.5mm*EP5.6x5.6mm*",
+                "kicadSymbolki_keywords": "FPGA programmable logic"
+            }
+        ]
+    ]
+}

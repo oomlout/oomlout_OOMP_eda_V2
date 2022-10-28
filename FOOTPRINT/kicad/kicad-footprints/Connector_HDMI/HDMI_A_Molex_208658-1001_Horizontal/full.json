@@ -1,0 +1,89 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "smd",
+            "description": "HDMI Molex Type A https://www.molex.com/pdm_docs/sd/2086581001_sd.pdf",
+            "name": "HDMI_A_Molex_208658-1001_Horizontal",
+            "pins": {
+                "shape": "rect",
+                "type": "smd"
+            },
+            "tags": "HDMI Molex Type A",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/Connector_HDMI.3dshapes/HDMI_A_Molex_208658-1001_Horizontal.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKCNHDMIHDMIAMX2865811HORIZONTAL"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Connector_HDMI : HDMI_A_Molex_208658-1001_Horizontal"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Connector_HDMI"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_HDMI/HDMI_A_Molex_208658-1001_Horizontal/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_HDMI/HDMI_A_Molex_208658-1001_Horizontal/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_HDMI/HDMI_A_Molex_208658-1001_Horizontal/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_HDMI/HDMI_A_Molex_208658-1001_Horizontal/details.py"
+        ],
+        "imagePng": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_HDMI/HDMI_A_Molex_208658-1001_Horizontal/image.png"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_HDMI/HDMI_A_Molex_208658-1001_Horizontal/basic.json"
+        ],
+        "kicadPcb3d": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_HDMI/HDMI_A_Molex_208658-1001_Horizontal/kicadPcb3d.png"
+        ],
+        "kicadPcb3dBack": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_HDMI/HDMI_A_Molex_208658-1001_Horizontal/kicadPcb3dBack.png"
+        ],
+        "kicadPcb3dFront": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_HDMI/HDMI_A_Molex_208658-1001_Horizontal/kicadPcb3dFront.png"
+        ],
+        "readme": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_HDMI/HDMI_A_Molex_208658-1001_Horizontal/README.md"
+        ]
+    },
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Connector_HDMI-HDMI_A_Molex_208658-1001_Horizontal"
+    ],
+    "oompIndex": [
+        "HDMI_A_Molex_208658-1001_Horizontal"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

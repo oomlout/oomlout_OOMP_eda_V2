@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSHEADI1XPI11H1"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "oomlout_OOMP_parts : HEAD-I01-X-PI10-01-H10"
+    ],
+    "oompColor": [
+        "oomlout_OOMP_kicad"
+    ],
+    "oompDesc": [
+        "oomlout_OOMP_parts"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-I01-X-PI10-01-H10"
+    ],
+    "oompIndex": [
+        "HEAD-I01-X-PI10-01-H10"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "oom.lt/H10",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "oomlout_OOMP_parts:HEAD-I01-X-PI10-01-H10",
+                "kicadSymbolReference": "J",
+                "kicadSymbolValue": "HEAD-I01-X-PI10-01-H10",
+                "kicadSymbolki_description": "hexID: H10;Generic connector, single row, 01x10, script generated (kicad-library-utils/schlib/autogen/connector/)",
+                "kicadSymbolki_fp_filters": "Connector*:*_1x??_*",
+                "kicadSymbolki_keywords": "connector"
+            }
+        ]
+    ]
+}

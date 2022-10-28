@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKTIMERNE567"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Timer : NE567"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Timer"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Timer-NE567"
+    ],
+    "oompIndex": [
+        "NE567"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.ti.com/lit/ds/symlink/lm567.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "NE567",
+                "kicadSymbolki_description": "Tone Decoder/Phase-Locked Loop, DIP-8/SOIC-8",
+                "kicadSymbolki_fp_filters": "DIP*W7.62mm* SOIC*3.9x4.9mm*P1.27mm*",
+                "kicadSymbolki_keywords": "tone decoder PLL"
+            }
+        ]
+    ]
+}

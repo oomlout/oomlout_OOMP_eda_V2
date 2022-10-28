@@ -1,0 +1,81 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKLCLV1LFKB"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "LED : CLV1L-FKB"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "LED"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/LED/CLV1L-FKB/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/LED/CLV1L-FKB/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/LED/CLV1L-FKB/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/LED/CLV1L-FKB/details.py"
+        ],
+        "imagePng": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/LED/CLV1L-FKB/image.png"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/LED/CLV1L-FKB/basic.json"
+        ],
+        "readme": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/LED/CLV1L-FKB/README.md"
+        ]
+    },
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-LED-CLV1L-FKB"
+    ],
+    "oompIndex": [
+        "CLV1L-FKB"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.cree.com/led-components/media/documents/CLV1L-FKB-1238.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "LED_SMD:LED_Cree-PLCC4_3.2x2.8mm_CCW",
+                "kicadSymbolReference": "D",
+                "kicadSymbolValue": "CLV1L-FKB",
+                "kicadSymbolki_description": "Cree PLCC4 3 in 1 SMD LED",
+                "kicadSymbolki_fp_filters": "*Cree*PLCC4*3.2x2.8mm*",
+                "kicadSymbolki_keywords": "led rgb diode"
+            }
+        ]
+    ]
+}

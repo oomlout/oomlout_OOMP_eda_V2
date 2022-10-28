@@ -1,0 +1,78 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKRFFILRBPF246"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "RF_Filter : RBPF-246"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "RF_Filter"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Filter/RBPF-246/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Filter/RBPF-246/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Filter/RBPF-246/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Filter/RBPF-246/details.py"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Filter/RBPF-246/basic.json"
+        ],
+        "readme": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_Filter/RBPF-246/README.md"
+        ]
+    },
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-RF_Filter-RBPF-246"
+    ],
+    "oompIndex": [
+        "RBPF-246"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.minicircuits.com/pdfs/RBPF-246+.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "RF_Mini-Circuits:Mini-Circuits_CK605_LandPatternPL-012",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "RBPF-246",
+                "kicadSymbolki_description": "Bandpass Filter, 236 to 265 MHz, 50 Ohm, Mini-Circuits CK605",
+                "kicadSymbolki_fp_filters": "Mini?Circuits*CK605*",
+                "kicadSymbolki_keywords": "Bandpass Filter"
+            }
+        ]
+    ]
+}

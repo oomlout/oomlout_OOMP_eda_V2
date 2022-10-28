@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKMCUSTSTM32LSTM32L11E4YX"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "MCU_ST_STM32L0 : STM32L011E4Yx"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "MCU_ST_STM32L0"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L0-STM32L011E4Yx"
+    ],
+    "oompIndex": [
+        "STM32L011E4Yx"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00206508.pdf",
+                "kicadSymbolExtends": "STM32L011E3Yx",
+                "kicadSymbolFootprint": "Package_CSP:ST_WLCSP-25_Die457",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "STM32L011E4Yx",
+                "kicadSymbolki_description": "ARM Cortex-M0+ MCU, 16KB flash, 2KB RAM, 32MHz, 1.65-3.6V, 21 GPIO, WLCSP-25",
+                "kicadSymbolki_fp_filters": "ST_WLCSP*Die457*",
+                "kicadSymbolki_keywords": "ARM Cortex-M0+ STM32L0 STM32L0x1"
+            }
+        ]
+    ]
+}

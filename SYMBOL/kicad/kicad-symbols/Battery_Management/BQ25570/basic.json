@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKBATMANAGEMENTBQ2557"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Battery_Management : BQ25570"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Battery_Management"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Battery_Management-BQ25570"
+    ],
+    "oompIndex": [
+        "BQ25570"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.ti.com/lit/ds/symlink/bq25570.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_DFN_QFN:QFN-20-1EP_3.5x3.5mm_P0.5mm_EP2x2mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "BQ25570",
+                "kicadSymbolki_description": "Nano Power Boost Charger and Buck Converter for Energy Harvester Powered Applications, QFN-20",
+                "kicadSymbolki_fp_filters": "QFN*1EP*3.5x3.5mm*P0.5mm*",
+                "kicadSymbolki_keywords": "harvester solar TEG charger li-on buck"
+            }
+        ]
+    ]
+}

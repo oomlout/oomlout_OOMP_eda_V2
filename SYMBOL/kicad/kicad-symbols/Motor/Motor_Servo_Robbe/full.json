@@ -1,0 +1,81 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKMOTORMOTORSERVOROBBE"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Motor : Motor_Servo_Robbe"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Motor"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Motor/Motor_Servo_Robbe/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Motor/Motor_Servo_Robbe/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Motor/Motor_Servo_Robbe/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Motor/Motor_Servo_Robbe/details.py"
+        ],
+        "imagePng": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Motor/Motor_Servo_Robbe/image.png"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Motor/Motor_Servo_Robbe/basic.json"
+        ],
+        "readme": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Motor/Motor_Servo_Robbe/README.md"
+        ]
+    },
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Motor-Motor_Servo_Robbe"
+    ],
+    "oompIndex": [
+        "Motor_Servo_Robbe"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://forums.parallax.com/uploads/attachments/46831/74481.png",
+                "kicadSymbolExtends": "Motor_Servo",
+                "kicadSymbolFootprint": "",
+                "kicadSymbolReference": "M",
+                "kicadSymbolValue": "Motor_Servo_Robbe",
+                "kicadSymbolki_description": "Servo Motor (Robbe connector)",
+                "kicadSymbolki_fp_filters": "PinHeader*P2.54mm*",
+                "kicadSymbolki_keywords": "Servo Motor"
+            }
+        ]
+    ]
+}

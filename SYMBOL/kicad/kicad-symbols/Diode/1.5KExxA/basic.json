@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKDIODE15KEXXA"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Diode : 1.5KExxA"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Diode"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Diode-1.5KExxA"
+    ],
+    "oompIndex": [
+        "1.5KExxA"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.vishay.com/docs/88301/15ke.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Diode_THT:D_DO-201AE_P15.24mm_Horizontal",
+                "kicadSymbolReference": "D",
+                "kicadSymbolValue": "1.5KExxA",
+                "kicadSymbolki_description": "1500W unidirectional TRANSZORB\u00ae Transient Voltage Suppressor, DO-201AE",
+                "kicadSymbolki_fp_filters": "D?DO?201AE*",
+                "kicadSymbolki_keywords": "diode TVS voltage suppressor"
+            }
+        ]
+    ]
+}

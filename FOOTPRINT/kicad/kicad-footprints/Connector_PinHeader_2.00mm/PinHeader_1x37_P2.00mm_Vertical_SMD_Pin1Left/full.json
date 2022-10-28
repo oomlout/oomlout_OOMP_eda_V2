@@ -1,0 +1,89 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "smd",
+            "description": "surface-mounted straight pin header, 1x37, 2.00mm pitch, single row, style 1 (pin 1 left)",
+            "name": "PinHeader_1x37_P2.00mm_Vertical_SMD_Pin1Left",
+            "pins": {
+                "shape": "rect",
+                "type": "smd"
+            },
+            "tags": "Surface mounted pin header SMD 1x37 2.00mm single row style1 pin1 left",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/Connector_PinHeader_2.00mm.3dshapes/PinHeader_1x37_P2.00mm_Vertical_SMD_Pin1Left.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKCNPINHEADER2PINHEADER1X37P2VERTICALSMPIN1LEFT"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Connector_PinHeader_2.00mm : PinHeader_1x37_P2.00mm_Vertical_SMD_Pin1Left"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Connector_PinHeader_2.00mm"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_PinHeader_2.00mm/PinHeader_1x37_P2.00mm_Vertical_SMD_Pin1Left/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_PinHeader_2.00mm/PinHeader_1x37_P2.00mm_Vertical_SMD_Pin1Left/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_PinHeader_2.00mm/PinHeader_1x37_P2.00mm_Vertical_SMD_Pin1Left/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_PinHeader_2.00mm/PinHeader_1x37_P2.00mm_Vertical_SMD_Pin1Left/details.py"
+        ],
+        "imagePng": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_PinHeader_2.00mm/PinHeader_1x37_P2.00mm_Vertical_SMD_Pin1Left/image.png"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_PinHeader_2.00mm/PinHeader_1x37_P2.00mm_Vertical_SMD_Pin1Left/basic.json"
+        ],
+        "kicadPcb3d": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_PinHeader_2.00mm/PinHeader_1x37_P2.00mm_Vertical_SMD_Pin1Left/kicadPcb3d.png"
+        ],
+        "kicadPcb3dBack": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_PinHeader_2.00mm/PinHeader_1x37_P2.00mm_Vertical_SMD_Pin1Left/kicadPcb3dBack.png"
+        ],
+        "kicadPcb3dFront": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_PinHeader_2.00mm/PinHeader_1x37_P2.00mm_Vertical_SMD_Pin1Left/kicadPcb3dFront.png"
+        ],
+        "readme": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_PinHeader_2.00mm/PinHeader_1x37_P2.00mm_Vertical_SMD_Pin1Left/README.md"
+        ]
+    },
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.00mm-PinHeader_1x37_P2.00mm_Vertical_SMD_Pin1Left"
+    ],
+    "oompIndex": [
+        "PinHeader_1x37_P2.00mm_Vertical_SMD_Pin1Left"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

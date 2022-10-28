@@ -1,0 +1,81 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKCONITX2415SAHR"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Converter_DCDC : ITX2415SA-HR"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Converter_DCDC"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_DCDC/ITX2415SA-HR/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_DCDC/ITX2415SA-HR/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_DCDC/ITX2415SA-HR/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_DCDC/ITX2415SA-HR/details.py"
+        ],
+        "imagePng": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_DCDC/ITX2415SA-HR/image.png"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_DCDC/ITX2415SA-HR/basic.json"
+        ],
+        "readme": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_DCDC/ITX2415SA-HR/README.md"
+        ]
+    },
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Converter_DCDC-ITX2415SA-HR"
+    ],
+    "oompIndex": [
+        "ITX2415SA-HR"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.xppower.com/pdfs/SF_ITX.pdf",
+                "kicadSymbolExtends": "ITX0503SA-R",
+                "kicadSymbolFootprint": "Converter_DCDC:Converter_DCDC_XP_POWER-ITxxxxxS_THT",
+                "kicadSymbolReference": "PS",
+                "kicadSymbolValue": "ITX2415SA-HR",
+                "kicadSymbolki_description": "XP Power 6W, 3000 VDC Isolated DC/DC Converter Module, Remote Control, Fully Regulated Single Output Voltage 15V, \u00b1400mA, 24V Input Voltage, SIP",
+                "kicadSymbolki_fp_filters": "*XP?POWER?ITxxxxx*",
+                "kicadSymbolki_keywords": "XP_POWER DC/DC isolated Converter module"
+            }
+        ]
+    ]
+}

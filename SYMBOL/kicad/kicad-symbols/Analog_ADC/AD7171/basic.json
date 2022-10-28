@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKANALOGADCAD7171"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Analog_ADC : AD7171"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Analog_ADC"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Analog_ADC-AD7171"
+    ],
+    "oompIndex": [
+        "AD7171"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/AD7171.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_DFN_QFN:DFN-10-1EP_3x3mm_P0.5mm_EP1.55x2.48mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "AD7171",
+                "kicadSymbolki_description": "Single channel Analog to Digital Converter, 16-bit, differential input, 125Hz, SPI interface",
+                "kicadSymbolki_fp_filters": "DFN*1EP*3x3mm*P0.5mm*EP1.55x2.48mm*",
+                "kicadSymbolki_keywords": "sigma delta adc spi 1ch"
+            }
+        ]
+    ]
+}

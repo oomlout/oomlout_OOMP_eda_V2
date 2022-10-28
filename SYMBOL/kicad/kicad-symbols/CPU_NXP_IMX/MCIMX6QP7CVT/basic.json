@@ -1,0 +1,59 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKCPUNXPIMXMCIMX6QP7CVT"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "CPU_NXP_IMX : MCIMX6QP7CVT"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "CPU_NXP_IMX"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-CPU_NXP_IMX-MCIMX6QP7CVT"
+    ],
+    "oompIndex": [
+        "MCIMX6QP7CVT"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.nxp.com/docs/en/data-sheet/IMX6DQPIEC.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_BGA:BGA-624_21.0x21.0mm_Layout25x25_P0.8mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "MCIMX6QP7CVT",
+                "kicadSymbolki_description": "i.MX 6QuadPlus Application Processor for Industrial Products, BGA-624",
+                "kicadSymbolki_fp_filters": "BGA*21.0x21.0mm*P0.8mm*",
+                "kicadSymbolki_keywords": "Quad-Core ARM Cortex A9 SOC Industrial",
+                "kicadSymbolki_locked": ""
+            }
+        ]
+    ]
+}

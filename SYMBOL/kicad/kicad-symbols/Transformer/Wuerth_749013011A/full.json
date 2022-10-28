@@ -1,0 +1,81 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKTRWUERTH7491311A"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Transformer : Wuerth_749013011A"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Transformer"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transformer/Wuerth_749013011A/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transformer/Wuerth_749013011A/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transformer/Wuerth_749013011A/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transformer/Wuerth_749013011A/details.py"
+        ],
+        "imagePng": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transformer/Wuerth_749013011A/image.png"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transformer/Wuerth_749013011A/basic.json"
+        ],
+        "readme": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transformer/Wuerth_749013011A/README.md"
+        ]
+    },
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Transformer-Wuerth_749013011A"
+    ],
+    "oompIndex": [
+        "Wuerth_749013011A"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.we-online.com/katalog/datasheet/749013011A.pdf",
+                "kicadSymbolExtends": "PT61017PEL",
+                "kicadSymbolFootprint": "Transformer_SMD:Transformer_Ethernet_Wuerth_749013011A",
+                "kicadSymbolReference": "TR",
+                "kicadSymbolValue": "Wuerth_749013011A",
+                "kicadSymbolki_description": "Ethernet LAN 10/100 Base-Tx Transformer CT, SMD",
+                "kicadSymbolki_fp_filters": "Transformer*Ethernet*Wuerth*749013011A*",
+                "kicadSymbolki_keywords": "single port ethernet transformer poe center tap"
+            }
+        ]
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKMCUNXPS8MC9S8DZ128XLH"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "MCU_NXP_S08 : MC9S08DZ128xLH"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "MCU_NXP_S08"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-MCU_NXP_S08-MC9S08DZ128xLH"
+    ],
+    "oompIndex": [
+        "MC9S08DZ128xLH"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://cache.nxp.com/files/microcontrollers/doc/data_sheet/MC9S08DZ128.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_QFP:LQFP-64_10x10mm_P0.5mm",
+                "kicadSymbolReference": "IC",
+                "kicadSymbolValue": "MC9S08DZ128xLH",
+                "kicadSymbolki_description": "8-bit Cost-Effective Microcontroller, S08 core, 128kB Flash, 8kB RAM, 2kB EEPROM, LQFP-64",
+                "kicadSymbolki_fp_filters": "LQFP*10x10mm*P0.5mm*",
+                "kicadSymbolki_keywords": "NXP S08 Microcontroller"
+            }
+        ]
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": null,
+            "description": "Mounting Hole 5.3mm, M5, ISO14580",
+            "name": "MountingHole_5.3mm_M5_ISO14580_Pad_TopBottom",
+            "pins": {
+                "shape": "circle",
+                "type": "connect"
+            },
+            "tags": "mounting hole 5.3mm m5 iso14580"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKHOLHOL53M5ISO1458PADTOPBOTTOM"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "MountingHole : MountingHole_5.3mm_M5_ISO14580_Pad_TopBottom"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "MountingHole"
+    ],
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_5.3mm_M5_ISO14580_Pad_TopBottom"
+    ],
+    "oompIndex": [
+        "MountingHole_5.3mm_M5_ISO14580_Pad_TopBottom"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

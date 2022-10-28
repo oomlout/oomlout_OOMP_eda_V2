@@ -1,0 +1,81 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKFPGALATTICELFE5U85F7BG756X"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "FPGA_Lattice : LFE5U-85F-7BG756x"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "FPGA_Lattice"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/FPGA_Lattice/LFE5U-85F-7BG756x/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/FPGA_Lattice/LFE5U-85F-7BG756x/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/FPGA_Lattice/LFE5U-85F-7BG756x/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/FPGA_Lattice/LFE5U-85F-7BG756x/details.py"
+        ],
+        "imagePng": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/FPGA_Lattice/LFE5U-85F-7BG756x/image.png"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/FPGA_Lattice/LFE5U-85F-7BG756x/basic.json"
+        ],
+        "readme": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/FPGA_Lattice/LFE5U-85F-7BG756x/README.md"
+        ]
+    },
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-FPGA_Lattice-LFE5U-85F-7BG756x"
+    ],
+    "oompIndex": [
+        "LFE5U-85F-7BG756x"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.latticesemi.com/view_document?document_id=50461",
+                "kicadSymbolExtends": "LFE5U-85F-8BG756x",
+                "kicadSymbolFootprint": "Package_BGA:Lattice_caBGA-756_27.0x27.0mm_Layout32x32_P0.8mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "LFE5U-85F-7BG756x",
+                "kicadSymbolki_description": "ECP5 FPGA, 84K LUTs, 1.2V, BGA-756",
+                "kicadSymbolki_fp_filters": "Lattice*caBGA*27.0x27.0mm*Layout32x32*P0.8mm*",
+                "kicadSymbolki_keywords": "FPGA programmable logic"
+            }
+        ]
+    ]
+}

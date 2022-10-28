@@ -1,0 +1,57 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "through_hole",
+            "description": "Sensair S8 Series CO2 sensor, 1kHz PWM output, Modbus, THT",
+            "name": "Senseair_S8_Up",
+            "pins": {
+                "shape": "rect",
+                "type": "thru_hole"
+            },
+            "tags": "co2 gas sensor pwm modbus",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/Sensor.3dshapes/Senseair_S8_Up.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKSENSENSEAIRS8UP"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Sensor : Senseair_S8_Up"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Sensor"
+    ],
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Sensor-Senseair_S8_Up"
+    ],
+    "oompIndex": [
+        "Senseair_S8_Up"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

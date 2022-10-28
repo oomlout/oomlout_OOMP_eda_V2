@@ -1,0 +1,81 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKINTERFACEUCY7C65215A32LTXI"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Interface_USB : CY7C65215A-32LTXI"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Interface_USB"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_USB/CY7C65215A-32LTXI/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_USB/CY7C65215A-32LTXI/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_USB/CY7C65215A-32LTXI/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_USB/CY7C65215A-32LTXI/details.py"
+        ],
+        "imagePng": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_USB/CY7C65215A-32LTXI/image.png"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_USB/CY7C65215A-32LTXI/basic.json"
+        ],
+        "readme": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface_USB/CY7C65215A-32LTXI/README.md"
+        ]
+    },
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Interface_USB-CY7C65215A-32LTXI"
+    ],
+    "oompIndex": [
+        "CY7C65215A-32LTXI"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.cypress.com/file/129956/download",
+                "kicadSymbolExtends": "CY7C65215-32LTXI",
+                "kicadSymbolFootprint": "Package_DFN_QFN:QFN-32-1EP_5x5mm_P0.5mm_EP3.45x3.45mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "CY7C65215A-32LTXI",
+                "kicadSymbolki_description": "USB-Serial Dual Channel Bridge with CapSense, +1.71V to +5.5V VDD, UART/I2C/SPI/RS232/RS422/RS485/JTAG, QFN-32",
+                "kicadSymbolki_fp_filters": "QFN*1EP*5x5mm*P0.5mm*",
+                "kicadSymbolki_keywords": "USB-Serial single channel bridge"
+            }
+        ]
+    ]
+}

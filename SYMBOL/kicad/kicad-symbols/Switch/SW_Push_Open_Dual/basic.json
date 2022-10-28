@@ -1,0 +1,57 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKSWITCHSWPUSHOPENDUAL"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Switch : SW_Push_Open_Dual"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Switch"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Switch-SW_Push_Open_Dual"
+    ],
+    "oompIndex": [
+        "SW_Push_Open_Dual"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "~",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "",
+                "kicadSymbolReference": "SW",
+                "kicadSymbolValue": "SW_Push_Open_Dual",
+                "kicadSymbolki_description": "Push button switch, normally closed, generic, four pins",
+                "kicadSymbolki_keywords": "switch normally-closed pushbutton push-button"
+            }
+        ]
+    ]
+}

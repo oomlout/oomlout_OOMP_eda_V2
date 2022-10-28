@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKDIGRAPHICEADOGM128X6"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Display_Graphic : EA_DOGM128X-6"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Display_Graphic"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Display_Graphic-EA_DOGM128X-6"
+    ],
+    "oompIndex": [
+        "EA_DOGM128X-6"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.lcd-module.de/eng/pdf/grafik/dogm128e.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Display:EA_DOGM128-6",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "EA_DOGM128X-6",
+                "kicadSymbolki_description": "EA DOGM128X-6 Graphical Display 128x64 optional backlight SPI 3.0-3.3V",
+                "kicadSymbolki_fp_filters": "EA*DOGM128*6*",
+                "kicadSymbolki_keywords": "display LCD graphic"
+            }
+        ]
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKMCUSTSTM32F3STM32F318K8UX"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "MCU_ST_STM32F3 : STM32F318K8Ux"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "MCU_ST_STM32F3"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F3-STM32F318K8Ux"
+    ],
+    "oompIndex": [
+        "STM32F318K8Ux"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00115350.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_DFN_QFN:QFN-32-1EP_5x5mm_P0.5mm_EP3.45x3.45mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "STM32F318K8Ux",
+                "kicadSymbolki_description": "ARM Cortex-M4 MCU, 64KB flash, 16KB RAM, 72MHz, 1.65-1.95V, 23 GPIO, UFQFPN-32",
+                "kicadSymbolki_fp_filters": "QFN*1EP*5x5mm*P0.5mm*",
+                "kicadSymbolki_keywords": "ARM Cortex-M4 STM32F3 STM32F3x8"
+            }
+        ]
+    ]
+}

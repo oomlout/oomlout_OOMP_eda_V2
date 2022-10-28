@@ -1,0 +1,89 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "smd",
+            "description": "64-Lead Plastic Thin Quad Flatpack (PT) - 10x10x1 mm Body, 2.00 mm Footprint [HTQFP] thermal pad",
+            "name": "HTQFP-64-1EP_10x10mm_P0.5mm_EP8x8mm",
+            "pins": {
+                "shape": "rect",
+                "type": "smd"
+            },
+            "tags": "HTQFP-64 Pitch 0.5 ",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/Package_QFP.3dshapes/TQFP-64_10x10mm_Pitch0.5mm_EP8x8mm.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKQFPHTQFP641EP1X1P5EP8X8"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Package_QFP : HTQFP-64-1EP_10x10mm_P0.5mm_EP8x8mm"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Package_QFP"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_QFP/HTQFP-64-1EP_10x10mm_P0.5mm_EP8x8mm/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_QFP/HTQFP-64-1EP_10x10mm_P0.5mm_EP8x8mm/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_QFP/HTQFP-64-1EP_10x10mm_P0.5mm_EP8x8mm/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_QFP/HTQFP-64-1EP_10x10mm_P0.5mm_EP8x8mm/details.py"
+        ],
+        "imagePng": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_QFP/HTQFP-64-1EP_10x10mm_P0.5mm_EP8x8mm/image.png"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_QFP/HTQFP-64-1EP_10x10mm_P0.5mm_EP8x8mm/basic.json"
+        ],
+        "kicadPcb3d": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_QFP/HTQFP-64-1EP_10x10mm_P0.5mm_EP8x8mm/kicadPcb3d.png"
+        ],
+        "kicadPcb3dBack": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_QFP/HTQFP-64-1EP_10x10mm_P0.5mm_EP8x8mm/kicadPcb3dBack.png"
+        ],
+        "kicadPcb3dFront": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_QFP/HTQFP-64-1EP_10x10mm_P0.5mm_EP8x8mm/kicadPcb3dFront.png"
+        ],
+        "readme": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_QFP/HTQFP-64-1EP_10x10mm_P0.5mm_EP8x8mm/README.md"
+        ]
+    },
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Package_QFP-HTQFP-64-1EP_10x10mm_P0.5mm_EP8x8mm"
+    ],
+    "oompIndex": [
+        "HTQFP-64-1EP_10x10mm_P0.5mm_EP8x8mm"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

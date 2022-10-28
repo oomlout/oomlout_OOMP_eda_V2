@@ -1,0 +1,89 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "smd",
+            "description": "Molex MMCX Horizontal Coaxial https://www.molex.com/pdm_docs/sd/734150961_sd.pdf",
+            "name": "MMCX_Molex_73415-0961_Horizontal_0.8mm-PCB",
+            "pins": {
+                "shape": "rect",
+                "type": "smd"
+            },
+            "tags": "Molex MMCX Horizontal Coaxial",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/Connector_Coaxial.3dshapes/MMCX_Molex_73415-0961_Horizontal.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKCNCOACXMX73415961HORIZONTAL8PCB"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Connector_Coaxial : MMCX_Molex_73415-0961_Horizontal_0.8mm-PCB"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Connector_Coaxial"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Coaxial/MMCX_Molex_73415-0961_Horizontal_0.8mm-PCB/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Coaxial/MMCX_Molex_73415-0961_Horizontal_0.8mm-PCB/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Coaxial/MMCX_Molex_73415-0961_Horizontal_0.8mm-PCB/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Coaxial/MMCX_Molex_73415-0961_Horizontal_0.8mm-PCB/details.py"
+        ],
+        "imagePng": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Coaxial/MMCX_Molex_73415-0961_Horizontal_0.8mm-PCB/image.png"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Coaxial/MMCX_Molex_73415-0961_Horizontal_0.8mm-PCB/basic.json"
+        ],
+        "kicadPcb3d": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Coaxial/MMCX_Molex_73415-0961_Horizontal_0.8mm-PCB/kicadPcb3d.png"
+        ],
+        "kicadPcb3dBack": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Coaxial/MMCX_Molex_73415-0961_Horizontal_0.8mm-PCB/kicadPcb3dBack.png"
+        ],
+        "kicadPcb3dFront": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Coaxial/MMCX_Molex_73415-0961_Horizontal_0.8mm-PCB/kicadPcb3dFront.png"
+        ],
+        "readme": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Coaxial/MMCX_Molex_73415-0961_Horizontal_0.8mm-PCB/README.md"
+        ]
+    },
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Connector_Coaxial-MMCX_Molex_73415-0961_Horizontal_0.8mm-PCB"
+    ],
+    "oompIndex": [
+        "MMCX_Molex_73415-0961_Horizontal_0.8mm-PCB"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

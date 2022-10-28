@@ -1,0 +1,78 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKRFAMFMSI4734D6GU"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "RF_AM_FM : Si4734-D60-GU"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "RF_AM_FM"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_AM_FM/Si4734-D60-GU/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_AM_FM/Si4734-D60-GU/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_AM_FM/Si4734-D60-GU/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_AM_FM/Si4734-D60-GU/details.py"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_AM_FM/Si4734-D60-GU/basic.json"
+        ],
+        "readme": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_AM_FM/Si4734-D60-GU/README.md"
+        ]
+    },
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-RF_AM_FM-Si4734-D60-GU"
+    ],
+    "oompIndex": [
+        "Si4734-D60-GU"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.silabs.com/Support%20Documents/TechnicalDocs/Si4730-31-34-35-D60.pdf",
+                "kicadSymbolExtends": "Si4735-D60-GU",
+                "kicadSymbolFootprint": "Package_SO:SSOP-24_3.9x8.7mm_P0.635mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "Si4734-D60-GU",
+                "kicadSymbolki_description": "AM/FM/SW/LW Broadcast Radio Receiver",
+                "kicadSymbolki_fp_filters": "SSOP*3.9x8.7mm*P0.635mm*",
+                "kicadSymbolki_keywords": "Broadcast AM FM SW LW Radio Receiver"
+            }
+        ]
+    ]
+}

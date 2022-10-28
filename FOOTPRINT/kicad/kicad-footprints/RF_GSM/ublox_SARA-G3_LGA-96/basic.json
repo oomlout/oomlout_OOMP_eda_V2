@@ -1,0 +1,57 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "smd",
+            "description": "ublox Sara GSM/HSPA modem, https://www.u-blox.com/sites/default/files/SARA-G3-U2_SysIntegrManual_%28UBX-13000995%29.pdf, pag.162",
+            "name": "ublox_SARA-G3_LGA-96",
+            "pins": {
+                "shape": "rect",
+                "type": "smd"
+            },
+            "tags": "ublox SARA-G3 SARA-U2 GSM HSPA",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/RF_GSM.3dshapes/ublox_SARA-G3_LGA-96.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKGSMUBLOXSARAG3LGA96"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "RF_GSM : ublox_SARA-G3_LGA-96"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "RF_GSM"
+    ],
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-RF_GSM-ublox_SARA-G3_LGA-96"
+    ],
+    "oompIndex": [
+        "ublox_SARA-G3_LGA-96"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

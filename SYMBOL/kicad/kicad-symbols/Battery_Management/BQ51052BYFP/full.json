@@ -1,0 +1,81 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKBATMANAGEMENTBQ5152BYFP"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Battery_Management : BQ51052BYFP"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Battery_Management"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Battery_Management/BQ51052BYFP/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Battery_Management/BQ51052BYFP/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Battery_Management/BQ51052BYFP/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Battery_Management/BQ51052BYFP/details.py"
+        ],
+        "imagePng": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Battery_Management/BQ51052BYFP/image.png"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Battery_Management/BQ51052BYFP/basic.json"
+        ],
+        "readme": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Battery_Management/BQ51052BYFP/README.md"
+        ]
+    },
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Battery_Management-BQ51052BYFP"
+    ],
+    "oompIndex": [
+        "BQ51052BYFP"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.ti.com/lit/ds/symlink/bq51052b.pdf",
+                "kicadSymbolExtends": "BQ51050BYFP",
+                "kicadSymbolFootprint": "Package_BGA:Texas_DSBGA-28_1.9x3.0mm_Layout4x7_P0.4mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "BQ51052BYFP",
+                "kicadSymbolki_description": "Qi v1.2, Wireless Power Receiver and Battery Charger, Vout 4.40V, DSBGA-28",
+                "kicadSymbolki_fp_filters": "Texas?DSBGA*1.9x3.0mm*P0.4mm*",
+                "kicadSymbolki_keywords": "Qi Wireless Power Receiver Battery Charger 4.40V"
+            }
+        ]
+    ]
+}

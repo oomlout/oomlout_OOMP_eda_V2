@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKTRADT151"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Transformer : ADT1.5-1"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Transformer"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Transformer-ADT1.5-1"
+    ],
+    "oompIndex": [
+        "ADT1.5-1"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.minicircuits.com/pdfs/ADT1.5-1+.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "RF_Mini-Circuits:Mini-Circuits_CD542_H2.84mm",
+                "kicadSymbolReference": "TR",
+                "kicadSymbolValue": "ADT1.5-1",
+                "kicadSymbolki_description": "0.5-650MHz 1:1.5 RF Transformer, Unbalanced to Balanced Center Tap, CD542",
+                "kicadSymbolki_fp_filters": "Mini?Circuits*CD542*",
+                "kicadSymbolki_keywords": "Mini-Circuits RF Transformer"
+            }
+        ]
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKVAECC88"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Valve : ECC88"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Valve"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Valve-ECC88"
+    ],
+    "oompIndex": [
+        "ECC88"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.r-type.org/pdfs/ecc88.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Valve:Valve_Noval_P",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "ECC88",
+                "kicadSymbolki_description": "double triode, low-noise",
+                "kicadSymbolki_fp_filters": "VALVE*NOVAL*P*",
+                "kicadSymbolki_keywords": "triode valve",
+                "kicadSymbolki_locked": ""
+            }
+        ]
+    ]
+}

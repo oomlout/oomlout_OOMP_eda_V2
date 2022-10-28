@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKREGULATORLINEARLT17612"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Regulator_Linear : LT1761-2"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Regulator_Linear"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT1761-2"
+    ],
+    "oompIndex": [
+        "LT1761-2"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/1761sff.pdf",
+                "kicadSymbolExtends": "LT1761-5",
+                "kicadSymbolFootprint": "Package_TO_SOT_SMD:TSOT-23-5",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "LT1761-2",
+                "kicadSymbolki_description": "MICROPOWER Low Noise 2V 100mA LDO regulator, TSOT-23-5",
+                "kicadSymbolki_fp_filters": "TSOT?23*",
+                "kicadSymbolki_keywords": "REGULATOR POSITIVE POWER LDO"
+            }
+        ]
+    ]
+}

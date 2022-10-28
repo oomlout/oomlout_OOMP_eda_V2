@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKRFAMFMLA1185"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "RF_AM_FM : LA1185"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "RF_AM_FM"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-RF_AM_FM-LA1185"
+    ],
+    "oompIndex": [
+        "LA1185"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.alldatasheet.com/datasheet-pdf/pdf/39974/SANYO/LA1185.html",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_SIP:SIP-9_22.3x3mm_P2.54mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "LA1185",
+                "kicadSymbolki_description": "FM receiver front-end IC for radio-cassette recorder, music center applications, SIP-9",
+                "kicadSymbolki_fp_filters": "SIP*22.3x3mm*P2.54mm*",
+                "kicadSymbolki_keywords": "FM mixer receiver amplifier"
+            }
+        ]
+    ]
+}

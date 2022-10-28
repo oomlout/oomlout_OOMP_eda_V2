@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKISOLATORADUM3152"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Isolator : ADuM3152"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Isolator"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Isolator-ADuM3152"
+    ],
+    "oompIndex": [
+        "ADuM3152"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/ADuM3151_3152_3153.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_SO:SSOP-20_5.3x7.2mm_P0.65mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "ADuM3152",
+                "kicadSymbolki_description": "3.75kV 7-Channel SPI Isolator, 2 Reverse Channels, SSOP-20",
+                "kicadSymbolki_fp_filters": "SSOP*5.3x7.2mm*P0.65mm*",
+                "kicadSymbolki_keywords": "spi isolated"
+            }
+        ]
+    ]
+}

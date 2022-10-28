@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKMCUSTSTM32FSTM32F91VCTX"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "MCU_ST_STM32F0 : STM32F091VCTx"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "MCU_ST_STM32F0"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F0-STM32F091VCTx"
+    ],
+    "oompIndex": [
+        "STM32F091VCTx"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00115237.pdf",
+                "kicadSymbolExtends": "STM32F091VBTx",
+                "kicadSymbolFootprint": "Package_QFP:LQFP-100_14x14mm_P0.5mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "STM32F091VCTx",
+                "kicadSymbolki_description": "ARM Cortex-M0 MCU, 256KB flash, 32KB RAM, 48MHz, 2-3.6V, 88 GPIO, LQFP-100",
+                "kicadSymbolki_fp_filters": "LQFP*14x14mm*P0.5mm*",
+                "kicadSymbolki_keywords": "ARM Cortex-M0 STM32F0 STM32F0x1"
+            }
+        ]
+    ]
+}

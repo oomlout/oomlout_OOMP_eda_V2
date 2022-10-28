@@ -1,0 +1,57 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKGRAPHICSYMLASERSLL"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Graphic : SYM_LASER_Small"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Graphic"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Graphic-SYM_LASER_Small"
+    ],
+    "oompIndex": [
+        "SYM_LASER_Small"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "~",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "",
+                "kicadSymbolReference": "#SYM",
+                "kicadSymbolValue": "SYM_LASER_Small",
+                "kicadSymbolki_description": "Laser radiation warning symbol, small",
+                "kicadSymbolki_keywords": "symbol logo laser warning"
+            }
+        ]
+    ]
+}

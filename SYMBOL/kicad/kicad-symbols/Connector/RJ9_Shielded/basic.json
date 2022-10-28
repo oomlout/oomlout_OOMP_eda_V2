@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKCNRJ9SHED"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Connector : RJ9_Shielded"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Connector"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Connector-RJ9_Shielded"
+    ],
+    "oompIndex": [
+        "RJ9_Shielded"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "~",
+                "kicadSymbolExtends": "4P4C_Shielded",
+                "kicadSymbolFootprint": "",
+                "kicadSymbolReference": "J",
+                "kicadSymbolValue": "RJ9_Shielded",
+                "kicadSymbolki_description": "RJ connector, 4P4C (4 positions 4 connected), Shielded",
+                "kicadSymbolki_fp_filters": "4P4C* RJ9* RJ10* RJ22*",
+                "kicadSymbolki_keywords": "4P4C RJ female connector"
+            }
+        ]
+    ]
+}

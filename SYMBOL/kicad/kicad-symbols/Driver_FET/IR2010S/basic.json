@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKDRIVERFETIR21S"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Driver_FET : IR2010S"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Driver_FET"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Driver_FET-IR2010S"
+    ],
+    "oompIndex": [
+        "IR2010S"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.infineon.com/dgdl/ir2010.pdf?fileId=5546d462533600a4015355c48f901660",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_SO:SOIC-16W_7.5x10.3mm_P1.27mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "IR2010S",
+                "kicadSymbolki_description": "High and Low Side Driver, 200V, 3.0/3.0A, SOIC-16W",
+                "kicadSymbolki_fp_filters": "SOIC*7.5x10.3mm*P1.27mm*",
+                "kicadSymbolki_keywords": "Gate Driver"
+            }
+        ]
+    ]
+}

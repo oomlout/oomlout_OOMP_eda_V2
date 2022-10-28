@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKREGULATORLINEARAPE8865U417HF3"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Regulator_Linear : APE8865U4-17-HF-3"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Regulator_Linear"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Regulator_Linear-APE8865U4-17-HF-3"
+    ],
+    "oompIndex": [
+        "APE8865U4-17-HF-3"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.tme.eu/fr/Document/ced3461ed31ea70a3c416fb648e0cde7/APE8865-3.pdf",
+                "kicadSymbolExtends": "APE8865U4-12-HF-3",
+                "kicadSymbolFootprint": "Package_TO_SOT_SMD:SOT-343_SC-70-4",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "APE8865U4-17-HF-3",
+                "kicadSymbolki_description": "300mA Low Dropout Voltage Regulator, Fixed Output 1.7V, SC-70-4",
+                "kicadSymbolki_fp_filters": "*SC?70*",
+                "kicadSymbolki_keywords": "300mA LDO Regulator Fixed Positive"
+            }
+        ]
+    ]
+}

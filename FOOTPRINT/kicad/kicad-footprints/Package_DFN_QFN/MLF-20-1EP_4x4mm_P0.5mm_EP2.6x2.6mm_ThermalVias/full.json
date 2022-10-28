@@ -1,0 +1,89 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "smd",
+            "description": "MLF, 20 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/doc8246.pdf#page=263), generated with kicad-footprint-generator ipc_noLead_generator.py",
+            "name": "MLF-20-1EP_4x4mm_P0.5mm_EP2.6x2.6mm_ThermalVias",
+            "pins": {
+                "shape": "roundrect",
+                "type": "smd"
+            },
+            "tags": "MLF NoLead",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/MLF-20-1EP_4x4mm_P0.5mm_EP2.6x2.6mm.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKDFNMLF21EP4X4P5EP26X26THERMALVIAS"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Package_DFN_QFN : MLF-20-1EP_4x4mm_P0.5mm_EP2.6x2.6mm_ThermalVias"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Package_DFN_QFN"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/MLF-20-1EP_4x4mm_P0.5mm_EP2.6x2.6mm_ThermalVias/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/MLF-20-1EP_4x4mm_P0.5mm_EP2.6x2.6mm_ThermalVias/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/MLF-20-1EP_4x4mm_P0.5mm_EP2.6x2.6mm_ThermalVias/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/MLF-20-1EP_4x4mm_P0.5mm_EP2.6x2.6mm_ThermalVias/details.py"
+        ],
+        "imagePng": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/MLF-20-1EP_4x4mm_P0.5mm_EP2.6x2.6mm_ThermalVias/image.png"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/MLF-20-1EP_4x4mm_P0.5mm_EP2.6x2.6mm_ThermalVias/basic.json"
+        ],
+        "kicadPcb3d": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/MLF-20-1EP_4x4mm_P0.5mm_EP2.6x2.6mm_ThermalVias/kicadPcb3d.png"
+        ],
+        "kicadPcb3dBack": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/MLF-20-1EP_4x4mm_P0.5mm_EP2.6x2.6mm_ThermalVias/kicadPcb3dBack.png"
+        ],
+        "kicadPcb3dFront": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/MLF-20-1EP_4x4mm_P0.5mm_EP2.6x2.6mm_ThermalVias/kicadPcb3dFront.png"
+        ],
+        "readme": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/MLF-20-1EP_4x4mm_P0.5mm_EP2.6x2.6mm_ThermalVias/README.md"
+        ]
+    },
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-MLF-20-1EP_4x4mm_P0.5mm_EP2.6x2.6mm_ThermalVias"
+    ],
+    "oompIndex": [
+        "MLF-20-1EP_4x4mm_P0.5mm_EP2.6x2.6mm_ThermalVias"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

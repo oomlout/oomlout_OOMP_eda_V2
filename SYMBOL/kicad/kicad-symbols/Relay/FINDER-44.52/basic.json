@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKRELAYFINDER4452"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Relay : FINDER-44.52"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Relay"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Relay-FINDER-44.52"
+    ],
+    "oompIndex": [
+        "FINDER-44.52"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://gfinder.findernet.com/assets/Series/359/S44EN.pdf",
+                "kicadSymbolExtends": "FINDER-40.52",
+                "kicadSymbolFootprint": "Relay_THT:Relay_DPDT_Finder_40.52",
+                "kicadSymbolReference": "K",
+                "kicadSymbolValue": "FINDER-44.52",
+                "kicadSymbolki_description": "FINDER 44.52, Dual Pole Relay, 5mm Pitch, 6A",
+                "kicadSymbolki_fp_filters": "Relay*DPDT*Finder*40.52*",
+                "kicadSymbolki_keywords": "Dual Pole Relay"
+            }
+        ]
+    ]
+}

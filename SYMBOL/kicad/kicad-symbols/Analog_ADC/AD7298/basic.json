@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKANALOGADCAD7298"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Analog_ADC : AD7298"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Analog_ADC"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Analog_ADC-AD7298"
+    ],
+    "oompIndex": [
+        "AD7298"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/AD7298.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_CSP:LFCSP-20-1EP_4x4mm_P0.5mm_EP2.6x2.6mm_ThermalVias",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "AD7298",
+                "kicadSymbolki_description": "8 channel, 1MSPS, 12-bit SAR ADC with Temperature Sensor, LFCSP-20",
+                "kicadSymbolki_fp_filters": "LFCSP*1EP*4x4mm*P0.5mm*",
+                "kicadSymbolki_keywords": "ADC, 3.3V, SPI"
+            }
+        ]
+    ]
+}

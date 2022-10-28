@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKDIODEBRIDGEDF1S1"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Diode_Bridge : DF01S1"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Diode_Bridge"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Diode_Bridge-DF01S1"
+    ],
+    "oompIndex": [
+        "DF01S1"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.onsemi.com/pdf/datasheet/df10s1-d.pdf",
+                "kicadSymbolExtends": "ABS2",
+                "kicadSymbolFootprint": "Diode_SMD:Diode_Bridge_OnSemi_SDIP-4L",
+                "kicadSymbolReference": "D",
+                "kicadSymbolValue": "DF01S1",
+                "kicadSymbolki_description": "Bridge Rectifier, 70V Vrms, 1.0A If, SMDIP-4",
+                "kicadSymbolki_fp_filters": "Diode*Bridge*OnSemi*SDIP*4L*",
+                "kicadSymbolki_keywords": "rectifier acdc"
+            }
+        ]
+    ]
+}

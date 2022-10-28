@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKANALOGADCADS1114IDGS"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Analog_ADC : ADS1114IDGS"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Analog_ADC"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Analog_ADC-ADS1114IDGS"
+    ],
+    "oompIndex": [
+        "ADS1114IDGS"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.ti.com/lit/ds/symlink/ads1113.pdf",
+                "kicadSymbolExtends": "ADS1014IDGS",
+                "kicadSymbolFootprint": "Package_SO:TSSOP-10_3x3mm_P0.5mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "ADS1114IDGS",
+                "kicadSymbolki_description": "Ultra-Small, Low-Power, I2C-Compatible, 860-SPS, 16-Bit ADCs With Internal Reference, Oscillator, and Programmable Comparator, VSSOP-10",
+                "kicadSymbolki_fp_filters": "TSSOP*3x3mm*P0.5mm*",
+                "kicadSymbolki_keywords": "16 bit single channel I2C ADC"
+            }
+        ]
+    ]
+}

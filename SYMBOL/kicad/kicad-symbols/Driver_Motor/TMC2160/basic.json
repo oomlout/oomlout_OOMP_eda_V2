@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKDRIVERMOTORTMC216"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Driver_Motor : TMC2160"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Driver_Motor"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Driver_Motor-TMC2160"
+    ],
+    "oompIndex": [
+        "TMC2160"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.trinamic.com/fileadmin/assets/Products/ICs_Documents/TMC2160A-datasheet_Rev1.06.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_QFP:TQFP-48-1EP_7x7mm_P0.5mm_EP5x5mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "TMC2160",
+                "kicadSymbolki_description": "Standalone driver for two-phase bipolar stepper motor, 8-60V, external FETs, TQFP48",
+                "kicadSymbolki_fp_filters": "TQFP*1EP?7x7mm*P0.5mm*",
+                "kicadSymbolki_keywords": "Standalone driver stepper motor"
+            }
+        ]
+    ]
+}

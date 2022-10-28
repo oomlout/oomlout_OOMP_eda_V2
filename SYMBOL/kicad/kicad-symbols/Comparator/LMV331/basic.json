@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKCOMPARATORLMV331"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Comparator : LMV331"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Comparator"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Comparator-LMV331"
+    ],
+    "oompIndex": [
+        "LMV331"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.ti.com/lit/ds/symlink/lmv331.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "LMV331",
+                "kicadSymbolki_description": "Single General-Purpose Low-Voltage Comparator, SOT-23-5/SC-70-5",
+                "kicadSymbolki_fp_filters": "SOT?23* *SC?70*",
+                "kicadSymbolki_keywords": "single comparator"
+            }
+        ]
+    ]
+}

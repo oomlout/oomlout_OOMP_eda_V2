@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKMCUSTSTM32F3STM32F33VDHX"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "MCU_ST_STM32F3 : STM32F303VDHx"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "MCU_ST_STM32F3"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F3-STM32F303VDHx"
+    ],
+    "oompIndex": [
+        "STM32F303VDHx"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00118585.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_BGA:UFBGA-100_7x7mm_Layout12x12_P0.5mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "STM32F303VDHx",
+                "kicadSymbolki_description": "ARM Cortex-M4 MCU, 384KB flash, 64KB RAM, 72MHz, 2-3.6V, 86 GPIO, UFBGA-100",
+                "kicadSymbolki_fp_filters": "UFBGA*7x7mm*Layout12x12*P0.5mm*",
+                "kicadSymbolki_keywords": "ARM Cortex-M4 STM32F3 STM32F303"
+            }
+        ]
+    ]
+}

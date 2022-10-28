@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKMCUMOOMEGA2+"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "MCU_Module : Omega2+"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "MCU_Module"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-MCU_Module-Omega2+"
+    ],
+    "oompIndex": [
+        "Omega2+"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://docs.onion.io/omega2-docs/omega2p.html",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Module:Onion_Omega2+",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "Omega2+",
+                "kicadSymbolki_description": "Iot Computer Module by Onion",
+                "kicadSymbolki_fp_filters": "Onion*Omega2+*",
+                "kicadSymbolki_keywords": "onion omega module"
+            }
+        ]
+    ]
+}

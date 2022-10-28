@@ -1,0 +1,57 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "smd",
+            "description": "HDMI Contact Technology Type A http://www.contactswitch.com/en/download.aspx?id=1449",
+            "name": "HDMI_A_Contact_Technology_HDMI-19APL2_Horizontal",
+            "pins": {
+                "shape": "rect",
+                "type": "smd"
+            },
+            "tags": "HDMI Contact Technology Type A",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/Connector_HDMI.3dshapes/HDMI_A_Contact_Technology_HDMI-19APL2_Horizontal.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKCNHDMIHDMIACONTACTTECHNOLOGYHDMI19APL2HORIZONTAL"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Connector_HDMI : HDMI_A_Contact_Technology_HDMI-19APL2_Horizontal"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Connector_HDMI"
+    ],
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Connector_HDMI-HDMI_A_Contact_Technology_HDMI-19APL2_Horizontal"
+    ],
+    "oompIndex": [
+        "HDMI_A_Contact_Technology_HDMI-19APL2_Horizontal"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

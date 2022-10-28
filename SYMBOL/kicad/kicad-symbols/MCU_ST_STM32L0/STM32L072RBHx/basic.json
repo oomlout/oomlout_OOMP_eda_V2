@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKMCUSTSTM32LSTM32L72RBHX"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "MCU_ST_STM32L0 : STM32L072RBHx"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "MCU_ST_STM32L0"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L0-STM32L072RBHx"
+    ],
+    "oompIndex": [
+        "STM32L072RBHx"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00141133.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_BGA:TFBGA-64_5x5mm_Layout8x8_P0.5mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "STM32L072RBHx",
+                "kicadSymbolki_description": "ARM Cortex-M0+ MCU, 128KB flash, 20KB RAM, 32MHz, 1.65-3.6V, 50 GPIO, TFBGA-64",
+                "kicadSymbolki_fp_filters": "TFBGA*5x5mm*Layout8x8*P0.5mm*",
+                "kicadSymbolki_keywords": "ARM Cortex-M0+ STM32L0 STM32L0x2"
+            }
+        ]
+    ]
+}

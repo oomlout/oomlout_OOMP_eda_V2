@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKTRANSISTORFETCSD16415Q5"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Transistor_FET : CSD16415Q5"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Transistor_FET"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Transistor_FET-CSD16415Q5"
+    ],
+    "oompIndex": [
+        "CSD16415Q5"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.ti.com/lit/gpn/csd16415q5",
+                "kicadSymbolExtends": "CSD17578Q5A",
+                "kicadSymbolFootprint": "Package_TO_SOT_SMD:TDSON-8-1",
+                "kicadSymbolReference": "Q",
+                "kicadSymbolValue": "CSD16415Q5",
+                "kicadSymbolki_description": "100A Id, 25V Vds, NexFET N-Channel Power MOSFET, 1.15mOhm Ron, 21nC Qg(typ), SON8 5x6mm",
+                "kicadSymbolki_fp_filters": "TDSON*",
+                "kicadSymbolki_keywords": "NexFET Power MOSFET N-MOS"
+            }
+        ]
+    ]
+}

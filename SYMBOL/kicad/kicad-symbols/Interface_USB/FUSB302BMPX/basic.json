@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKINTERFACEUFU32BMPX"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Interface_USB : FUSB302BMPX"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Interface_USB"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Interface_USB-FUSB302BMPX"
+    ],
+    "oompIndex": [
+        "FUSB302BMPX"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.onsemi.com/pub/Collateral/FUSB302B-D.PDF",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_DFN_QFN:WQFN-14-1EP_2.5x2.5mm_P0.5mm_EP1.45x1.45mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "FUSB302BMPX",
+                "kicadSymbolki_description": "Programmable USB Type-C Controller w/PD, I2C address 0x22, WQFN-14",
+                "kicadSymbolki_fp_filters": "WQFN*2.5x2.5mm*P0.5mm*EP1.45x1.45mm*",
+                "kicadSymbolki_keywords": "USB USB-C PD Power Delivery PHY"
+            }
+        ]
+    ]
+}

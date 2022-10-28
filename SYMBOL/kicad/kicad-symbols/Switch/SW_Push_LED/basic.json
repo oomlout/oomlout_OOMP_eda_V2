@@ -1,0 +1,57 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKSWITCHSWPUSHL"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Switch : SW_Push_LED"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Switch"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Switch-SW_Push_LED"
+    ],
+    "oompIndex": [
+        "SW_Push_LED"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "~",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "",
+                "kicadSymbolReference": "SW",
+                "kicadSymbolValue": "SW_Push_LED",
+                "kicadSymbolki_description": "Push button switch with LED, generic",
+                "kicadSymbolki_keywords": "switch normally-open pushbutton push-button LED"
+            }
+        ]
+    ]
+}

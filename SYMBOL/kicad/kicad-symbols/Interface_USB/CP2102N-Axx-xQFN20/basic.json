@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKINTERFACEUCP212NAXXXQFN2"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Interface_USB : CP2102N-Axx-xQFN20"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Interface_USB"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Interface_USB-CP2102N-Axx-xQFN20"
+    ],
+    "oompIndex": [
+        "CP2102N-Axx-xQFN20"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.silabs.com/documents/public/data-sheets/cp2102n-datasheet.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_DFN_QFN:SiliconLabs_QFN-20-1EP_3x3mm_P0.5mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "CP2102N-Axx-xQFN20",
+                "kicadSymbolki_description": "USB to UART master bridge, QFN-20",
+                "kicadSymbolki_fp_filters": "SiliconLabs*QFN*3x3mm*P0.5mm*",
+                "kicadSymbolki_keywords": "USB UART bridge"
+            }
+        ]
+    ]
+}

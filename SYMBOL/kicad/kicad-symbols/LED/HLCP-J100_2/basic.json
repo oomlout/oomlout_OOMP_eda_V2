@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKLHLCPJ12"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "LED : HLCP-J100_2"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "LED"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-LED-HLCP-J100_2"
+    ],
+    "oompIndex": [
+        "HLCP-J100_2"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://docs.broadcom.com/docs/AV02-1798EN",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Display:HLCP-J100",
+                "kicadSymbolReference": "BAR",
+                "kicadSymbolValue": "HLCP-J100_2",
+                "kicadSymbolki_description": "BAR GRAPH 10 segment block, AlGaAs red",
+                "kicadSymbolki_fp_filters": "HLCP?J100*",
+                "kicadSymbolki_keywords": "display LED array"
+            }
+        ]
+    ]
+}

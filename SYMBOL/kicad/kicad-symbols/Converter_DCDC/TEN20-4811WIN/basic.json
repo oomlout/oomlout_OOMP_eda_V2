@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKCONTEN24811WIN"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Converter_DCDC : TEN20-4811WIN"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Converter_DCDC"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Converter_DCDC-TEN20-4811WIN"
+    ],
+    "oompIndex": [
+        "TEN20-4811WIN"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.tracopower.com/products/ten20win.pdf",
+                "kicadSymbolExtends": "TEN20-2411WIN",
+                "kicadSymbolFootprint": "Converter_DCDC:Converter_DCDC_TRACO_TEN20-xxxx_THT",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "TEN20-4811WIN",
+                "kicadSymbolki_description": "4A Isolated DC/DC Converter Module, fixed 5V Output Voltage, 18-75V Input Voltage",
+                "kicadSymbolki_fp_filters": "*TRACO*TEN20*xxxx*",
+                "kicadSymbolki_keywords": "Traco isolated DC/DC Converter module"
+            }
+        ]
+    ]
+}

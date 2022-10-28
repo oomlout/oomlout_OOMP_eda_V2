@@ -1,0 +1,81 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKMCUNXPS8MC9S8AC32XFJE"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "MCU_NXP_S08 : MC9S08AC32xFJE"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "MCU_NXP_S08"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_NXP_S08/MC9S08AC32xFJE/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_NXP_S08/MC9S08AC32xFJE/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_NXP_S08/MC9S08AC32xFJE/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_NXP_S08/MC9S08AC32xFJE/details.py"
+        ],
+        "imagePng": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_NXP_S08/MC9S08AC32xFJE/image.png"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_NXP_S08/MC9S08AC32xFJE/basic.json"
+        ],
+        "readme": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_NXP_S08/MC9S08AC32xFJE/README.md"
+        ]
+    },
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-MCU_NXP_S08-MC9S08AC32xFJE"
+    ],
+    "oompIndex": [
+        "MC9S08AC32xFJE"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://cache.nxp.com/files/microcontrollers/doc/data_sheet/MC9S08AC60.pdf",
+                "kicadSymbolExtends": "MC9S08AC60xFJE",
+                "kicadSymbolFootprint": "Package_QFP:LQFP-32_7x7mm_P0.8mm",
+                "kicadSymbolReference": "IC",
+                "kicadSymbolValue": "MC9S08AC32xFJE",
+                "kicadSymbolki_description": "8-bit Flexis Microcontroller, S08 core, 32kB Flash, 2kB RAM, LQFP-32",
+                "kicadSymbolki_fp_filters": "LQFP*7x7mm*P0.8mm*",
+                "kicadSymbolki_keywords": "NXP S08 Microcontroller"
+            }
+        ]
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKMEMORYRAM628128DIP32SS32"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Memory_RAM : 628128_DIP32_SSOP32"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Memory_RAM"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Memory_RAM-628128_DIP32_SSOP32"
+    ],
+    "oompIndex": [
+        "628128_DIP32_SSOP32"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.futurlec.com/Datasheet/Memory/628128.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "628128_DIP32_SSOP32",
+                "kicadSymbolki_description": "128K x 8 High-Speed CMOS Static RAM, 55/70ns, DIP-32/SSOP-32",
+                "kicadSymbolki_fp_filters": "DIP*W15.24mm* SSOP*11.305x20.495mm*P1.27mm*",
+                "kicadSymbolki_keywords": "RAM SRAM CMOS MEMORY"
+            }
+        ]
+    ]
+}

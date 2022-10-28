@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKVAPABC8"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Valve : PABC80"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Valve"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Valve-PABC80"
+    ],
+    "oompIndex": [
+        "PABC80"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://frank.pocnet.net/sheets/082/e/EABC80.pdf",
+                "kicadSymbolExtends": "EABC80",
+                "kicadSymbolFootprint": "Valve:Valve_Noval_P",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "PABC80",
+                "kicadSymbolki_description": "triple diode triode",
+                "kicadSymbolki_fp_filters": "VALVE*NOVAL*P*",
+                "kicadSymbolki_keywords": "diode triode valve"
+            }
+        ]
+    ]
+}

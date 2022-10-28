@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKRELAYG5Q1"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Relay : G5Q-1"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Relay"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Relay-G5Q-1"
+    ],
+    "oompIndex": [
+        "G5Q-1"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.omron.com/ecb/products/pdf/en-g5q.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Relay_THT:Relay_SPDT_Omron-G5Q-1",
+                "kicadSymbolReference": "K",
+                "kicadSymbolValue": "G5Q-1",
+                "kicadSymbolki_description": "Omron G5G relay, Miniature Single Pole, SPDT, 10A",
+                "kicadSymbolki_fp_filters": "Relay*SPDT*Omron*G5Q*",
+                "kicadSymbolki_keywords": "Miniature Single Pole Relay"
+            }
+        ]
+    ]
+}

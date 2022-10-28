@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKAMPLIFIEROPERATIONALOPA859XDSG"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Amplifier_Operational : OPA859xDSG"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Amplifier_Operational"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA859xDSG"
+    ],
+    "oompIndex": [
+        "OPA859xDSG"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.ti.com/lit/ds/symlink/opa859.pdf",
+                "kicadSymbolExtends": "OPA858xDSG",
+                "kicadSymbolFootprint": "Package_SON:WSON-8-1EP_2x2mm_P0.5mm_EP0.9x1.6mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "OPA859xDSG",
+                "kicadSymbolki_description": "1.8 GHz Unity-Gain Bandwidth FET Input Amplifier, WSON-8",
+                "kicadSymbolki_fp_filters": "WSON*1EP*2x2mm*P0.5mm*",
+                "kicadSymbolki_keywords": "opamp VFA"
+            }
+        ]
+    ]
+}

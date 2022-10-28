@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKREGULATORSWITCHINGMUN12AD3SH"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Regulator_Switching : MUN12AD03-SH"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Regulator_Switching"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Regulator_Switching-MUN12AD03-SH"
+    ],
+    "oompIndex": [
+        "MUN12AD03-SH"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.cyntec.com/upfile/products/download/Cyntec%20MUN12AD03-SH_Datasheet.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Converter_DCDC:Converter_DCDC_Cyntec_MUN12AD03-SH",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "MUN12AD03-SH",
+                "kicadSymbolki_description": "DC/DC Switching Regulator, Power Module, 3A, Cyntec MUN12AD03",
+                "kicadSymbolki_fp_filters": "Converter?DCDC?Cyntec?MUN12AD03?SH*",
+                "kicadSymbolki_keywords": "DC/DC Switching Regulator Power Module 3A Cyntec MUN12AD03"
+            }
+        ]
+    ]
+}

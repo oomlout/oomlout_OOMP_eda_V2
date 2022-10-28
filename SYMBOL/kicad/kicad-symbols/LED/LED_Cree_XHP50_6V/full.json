@@ -1,0 +1,81 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKLLCREEXHP56V"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "LED : LED_Cree_XHP50_6V"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "LED"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/LED/LED_Cree_XHP50_6V/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/LED/LED_Cree_XHP50_6V/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/LED/LED_Cree_XHP50_6V/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/LED/LED_Cree_XHP50_6V/details.py"
+        ],
+        "imagePng": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/LED/LED_Cree_XHP50_6V/image.png"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/LED/LED_Cree_XHP50_6V/basic.json"
+        ],
+        "readme": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/LED/LED_Cree_XHP50_6V/README.md"
+        ]
+    },
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-LED-LED_Cree_XHP50_6V"
+    ],
+    "oompIndex": [
+        "LED_Cree_XHP50_6V"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.cree.com/%7E/media/Files/Cree/LED%20Components%20and%20Modules/XLamp/Data%20and%20Binning/ds%20XHP50.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "LED_SMD:LED_Cree-XHP50_6V",
+                "kicadSymbolReference": "D",
+                "kicadSymbolValue": "LED_Cree_XHP50_6V",
+                "kicadSymbolki_description": "XLamp\u00ae XHP50 LED, 6V footprint (2x2 serial LEDs in parallel)",
+                "kicadSymbolki_fp_filters": "LED?Cree?XHP50?6V*",
+                "kicadSymbolki_keywords": "led diode"
+            }
+        ]
+    ]
+}

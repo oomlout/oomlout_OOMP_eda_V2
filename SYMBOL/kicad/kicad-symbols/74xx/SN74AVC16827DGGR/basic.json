@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZK74XXSN74AVC16827DGGR"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "74xx : SN74AVC16827DGGR"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "74xx"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-74xx-SN74AVC16827DGGR"
+    ],
+    "oompIndex": [
+        "SN74AVC16827DGGR"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.ti.com/lit/ds/symlink/sn74avc16827.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_SO:TSSOP-56_6.1x14mm_P0.5mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "SN74AVC16827DGGR",
+                "kicadSymbolki_description": "20-Bit Buffer/Driver With 3-State Outputs",
+                "kicadSymbolki_fp_filters": "TSSOP*6.1x14mm*P0.5mm*",
+                "kicadSymbolki_keywords": "Buffer Driver 3-State"
+            }
+        ]
+    ]
+}

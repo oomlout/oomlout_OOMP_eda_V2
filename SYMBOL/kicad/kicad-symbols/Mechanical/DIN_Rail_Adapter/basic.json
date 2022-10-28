@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKMECHANICALDINRAILADAPTER"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Mechanical : DIN_Rail_Adapter"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Mechanical"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Mechanical-DIN_Rail_Adapter"
+    ],
+    "oompIndex": [
+        "DIN_Rail_Adapter"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "~",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "",
+                "kicadSymbolReference": "DRA",
+                "kicadSymbolValue": "DIN_Rail_Adapter",
+                "kicadSymbolki_description": "DIN Rail adapter universal, mounting holes without connection",
+                "kicadSymbolki_fp_filters": "DINRailAdapter?3xM3* DINRailAdapter?2xM3*",
+                "kicadSymbolki_keywords": "Mounting holes, DIN rail adapter"
+            }
+        ]
+    ]
+}

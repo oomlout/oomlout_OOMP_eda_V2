@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKMCUMCHIPPIC18PIC18F14K5ESO"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "MCU_Microchip_PIC18 : PIC18F14K50-ESO"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "MCU_Microchip_PIC18"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18F14K50-ESO"
+    ],
+    "oompIndex": [
+        "PIC18F14K50-ESO"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://ww1.microchip.com/downloads/en/devicedoc/41350c.pdf",
+                "kicadSymbolExtends": "PIC18F13K50-ESO",
+                "kicadSymbolFootprint": "Package_SO:SOIC-20W_7.5x12.8mm_P1.27mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "PIC18F14K50-ESO",
+                "kicadSymbolki_description": "16K Flash, 768 SRAM, 256 EEPROM, USB, nanoWatt XLP, SOIC20",
+                "kicadSymbolki_fp_filters": "SOIC*W*7.5x12.8mm*P1.27mm*",
+                "kicadSymbolki_keywords": "Flash-Based 8bit CMOS Microcontroller XLP"
+            }
+        ]
+    ]
+}

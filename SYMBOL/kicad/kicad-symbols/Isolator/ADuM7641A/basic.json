@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKISOLATORADUM7641A"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Isolator : ADuM7641A"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Isolator"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Isolator-ADuM7641A"
+    ],
+    "oompIndex": [
+        "ADuM7641A"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/ADuM7640_7641_7642_7643.pdf",
+                "kicadSymbolExtends": "ADuM7641C",
+                "kicadSymbolFootprint": "Package_SO:QSOP-20_3.9x8.7mm_P0.635mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "ADuM7641A",
+                "kicadSymbolki_description": "Low Power Six-Channel 5/1 Digital Isolator, 1Mbps 25ns, Fail-Safe High, QSOP-20",
+                "kicadSymbolki_fp_filters": "QSOP*3.9x8.7mm*P0.635mm*",
+                "kicadSymbolki_keywords": "6-Channels Hex Digital Isolator 1Mbps"
+            }
+        ]
+    ]
+}

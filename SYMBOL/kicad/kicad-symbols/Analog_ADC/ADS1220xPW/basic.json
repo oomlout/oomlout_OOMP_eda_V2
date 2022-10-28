@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKANALOGADCADS122XPW"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Analog_ADC : ADS1220xPW"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Analog_ADC"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Analog_ADC-ADS1220xPW"
+    ],
+    "oompIndex": [
+        "ADS1220xPW"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.ti.com/lit/ds/symlink/ads1220.pdf",
+                "kicadSymbolExtends": "ADS1120-PW",
+                "kicadSymbolFootprint": "Package_SO:TSSOP-16_4.4x5mm_P0.65mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "ADS1220xPW",
+                "kicadSymbolki_description": "Low-power, quad-input, 24-bit analog to digital converter, integrated temperature sensor, SPI interface, TSSOP-16 package",
+                "kicadSymbolki_fp_filters": "*TSSOP*4.4x5mm*P0.65mm*",
+                "kicadSymbolki_keywords": "adc spi"
+            }
+        ]
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKREGULATORLINEARTPS71525SC7"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Regulator_Linear : TPS71525__SC70"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Regulator_Linear"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Regulator_Linear-TPS71525__SC70"
+    ],
+    "oompIndex": [
+        "TPS71525__SC70"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.ti.com/lit/ds/symlink/tps715.pdf",
+                "kicadSymbolExtends": "TPS71518__SC70",
+                "kicadSymbolFootprint": "Package_TO_SOT_SMD:SOT-353_SC-70-5",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "TPS71525__SC70",
+                "kicadSymbolki_description": "Low-drop Voltage Regulator, Io up to 50mA, Fixed Vo 2.5V, Ignd 3.2uA , SC70.",
+                "kicadSymbolki_fp_filters": "*SC?70*",
+                "kicadSymbolki_keywords": "LDO regulator voltage"
+            }
+        ]
+    ]
+}

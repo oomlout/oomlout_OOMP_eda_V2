@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKSENTEMPERATURETSIC36TO92"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Sensor_Temperature : TSIC306-TO92"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Sensor_Temperature"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Sensor_Temperature-TSIC306-TO92"
+    ],
+    "oompIndex": [
+        "TSIC306-TO92"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://shop.bb-sensors.com/out/media/Datasheet_Digital_Semiconductor_temperatur_sensor_TSIC.pdf",
+                "kicadSymbolExtends": "TSIC206-TO92",
+                "kicadSymbolFootprint": "Package_TO_SOT_THT:TO-92_Inline",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "TSIC306-TO92",
+                "kicadSymbolki_description": "Digital temperature sensor, range -50 ... +150 \u00b0C, 0.3 K accuracy, TO-92",
+                "kicadSymbolki_fp_filters": "TO?92*Inline*Narrow*Oval*",
+                "kicadSymbolki_keywords": "temperature digital"
+            }
+        ]
+    ]
+}

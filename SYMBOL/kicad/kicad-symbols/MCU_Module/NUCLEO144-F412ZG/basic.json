@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKMCUMONUCLEO144F412ZG"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "MCU_Module : NUCLEO144-F412ZG"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "MCU_Module"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-MCU_Module-NUCLEO144-F412ZG"
+    ],
+    "oompIndex": [
+        "NUCLEO144-F412ZG"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.st.com/resource/en/user_manual/dm00244518-stm32-nucleo144-boards-stmicroelectronics.pdf",
+                "kicadSymbolExtends": "NUCLEO144-F429ZI",
+                "kicadSymbolFootprint": "Module:ST_Morpho_Connector_144_STLink",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "NUCLEO144-F412ZG",
+                "kicadSymbolki_description": "Nucleo 144 Development Board with STM32F412ZGT6 MCU, 256kB RAM, 1Mb FLASH",
+                "kicadSymbolki_fp_filters": "ST*Morpho*Connector*144*STLink*",
+                "kicadSymbolki_keywords": "STM32 Nucleo ST"
+            }
+        ]
+    ]
+}

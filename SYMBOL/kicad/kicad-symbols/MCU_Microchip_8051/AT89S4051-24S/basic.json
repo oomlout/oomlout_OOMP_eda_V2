@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKMCUMCHIP851AT89S45124S"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "MCU_Microchip_8051 : AT89S4051-24S"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "MCU_Microchip_8051"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-MCU_Microchip_8051-AT89S4051-24S"
+    ],
+    "oompIndex": [
+        "AT89S4051-24S"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/doc3390.pdf",
+                "kicadSymbolExtends": "AT89C2051-12S",
+                "kicadSymbolFootprint": "Package_SO:SOIC-20W_7.5x12.8mm_P1.27mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "AT89S4051-24S",
+                "kicadSymbolki_description": "24MHz, 4kB Flash, 256B SRAM, SOIC-20",
+                "kicadSymbolki_fp_filters": "SOIC*7.5x12.8mm*P1.27mm*",
+                "kicadSymbolki_keywords": "MCS-51 8bit Flash Microcontroller"
+            }
+        ]
+    ]
+}

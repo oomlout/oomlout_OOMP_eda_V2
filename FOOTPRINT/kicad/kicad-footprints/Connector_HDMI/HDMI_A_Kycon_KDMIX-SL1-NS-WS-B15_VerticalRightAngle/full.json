@@ -1,0 +1,89 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "through_hole",
+            "description": "HDMI, Type A, Kycon KDMIX-SL1-NS-WS-B15, Vertical Right Angle, http://www.kycon.com/Pub_Eng_Draw/KDMIX-SL1-NS-WS-B15.pdf",
+            "name": "HDMI_A_Kycon_KDMIX-SL1-NS-WS-B15_VerticalRightAngle",
+            "pins": {
+                "shape": "circle",
+                "type": "np_thru_hole"
+            },
+            "tags": "hdmi type a",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/Connector_HDMI.3dshapes/HDMI_A_Kycon_KDMIX-SL1-NS-WS-B15_VerticalRightAngle.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKCNHDMIHDMIAKYCONKDMIXSL1NSWSB15VERTICALRIGHTANGLE"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Connector_HDMI : HDMI_A_Kycon_KDMIX-SL1-NS-WS-B15_VerticalRightAngle"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Connector_HDMI"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_HDMI/HDMI_A_Kycon_KDMIX-SL1-NS-WS-B15_VerticalRightAngle/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_HDMI/HDMI_A_Kycon_KDMIX-SL1-NS-WS-B15_VerticalRightAngle/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_HDMI/HDMI_A_Kycon_KDMIX-SL1-NS-WS-B15_VerticalRightAngle/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_HDMI/HDMI_A_Kycon_KDMIX-SL1-NS-WS-B15_VerticalRightAngle/details.py"
+        ],
+        "imagePng": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_HDMI/HDMI_A_Kycon_KDMIX-SL1-NS-WS-B15_VerticalRightAngle/image.png"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_HDMI/HDMI_A_Kycon_KDMIX-SL1-NS-WS-B15_VerticalRightAngle/basic.json"
+        ],
+        "kicadPcb3d": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_HDMI/HDMI_A_Kycon_KDMIX-SL1-NS-WS-B15_VerticalRightAngle/kicadPcb3d.png"
+        ],
+        "kicadPcb3dBack": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_HDMI/HDMI_A_Kycon_KDMIX-SL1-NS-WS-B15_VerticalRightAngle/kicadPcb3dBack.png"
+        ],
+        "kicadPcb3dFront": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_HDMI/HDMI_A_Kycon_KDMIX-SL1-NS-WS-B15_VerticalRightAngle/kicadPcb3dFront.png"
+        ],
+        "readme": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_HDMI/HDMI_A_Kycon_KDMIX-SL1-NS-WS-B15_VerticalRightAngle/README.md"
+        ]
+    },
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Connector_HDMI-HDMI_A_Kycon_KDMIX-SL1-NS-WS-B15_VerticalRightAngle"
+    ],
+    "oompIndex": [
+        "HDMI_A_Kycon_KDMIX-SL1-NS-WS-B15_VerticalRightAngle"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

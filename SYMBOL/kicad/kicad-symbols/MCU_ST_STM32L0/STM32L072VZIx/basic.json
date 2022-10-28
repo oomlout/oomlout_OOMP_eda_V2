@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKMCUSTSTM32LSTM32L72VZIX"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "MCU_ST_STM32L0 : STM32L072VZIx"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "MCU_ST_STM32L0"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L0-STM32L072VZIx"
+    ],
+    "oompIndex": [
+        "STM32L072VZIx"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00141133.pdf",
+                "kicadSymbolExtends": "STM32L072VBIx",
+                "kicadSymbolFootprint": "Package_BGA:UFBGA-100_7x7mm_Layout12x12_P0.5mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "STM32L072VZIx",
+                "kicadSymbolki_description": "ARM Cortex-M0+ MCU, 192KB flash, 20KB RAM, 32MHz, 1.65-3.6V, 84 GPIO, UFBGA-100",
+                "kicadSymbolki_fp_filters": "UFBGA*7x7mm*Layout12x12*P0.5mm*",
+                "kicadSymbolki_keywords": "ARM Cortex-M0+ STM32L0 STM32L0x2"
+            }
+        ]
+    ]
+}

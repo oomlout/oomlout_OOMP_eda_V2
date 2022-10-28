@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKMCUINTEL887"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "MCU_Intel : 8087"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "MCU_Intel"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-MCU_Intel-8087"
+    ],
+    "oompIndex": [
+        "8087"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://datasheets.chipdb.org/Intel/x86/808x/datashts/8087/205835-007.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_DIP:DIP-40_W15.24mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "8087",
+                "kicadSymbolki_description": "Math Coprocessor for Intel 8086/8088/80186/80188 microprocessors, PDIP-40",
+                "kicadSymbolki_fp_filters": "DIP*W15.24mm*",
+                "kicadSymbolki_keywords": "FPU"
+            }
+        ]
+    ]
+}

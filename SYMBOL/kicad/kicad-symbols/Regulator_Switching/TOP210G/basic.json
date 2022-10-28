@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKREGULATORSWITCHINGTOP21G"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Regulator_Switching : TOP210G"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Regulator_Switching"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Regulator_Switching-TOP210G"
+    ],
+    "oompIndex": [
+        "TOP210G"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.powerint.com/sites/default/files/product-docs/top209210.pdf",
+                "kicadSymbolExtends": "TOP209G",
+                "kicadSymbolFootprint": "Package_DIP:PowerIntegrations_SMD-8",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "TOP210G",
+                "kicadSymbolki_description": "TOPSwitch Family, 5W Max Output Power, SMD-8",
+                "kicadSymbolki_fp_filters": "PowerIntegrations?SMD?8*",
+                "kicadSymbolki_keywords": "Three-terminal Off-line PWM Switch"
+            }
+        ]
+    ]
+}

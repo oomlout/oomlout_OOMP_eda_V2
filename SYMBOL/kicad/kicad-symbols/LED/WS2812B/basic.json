@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKLWS2812B"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "LED : WS2812B"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "LED"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-LED-WS2812B"
+    ],
+    "oompIndex": [
+        "WS2812B"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm",
+                "kicadSymbolReference": "D",
+                "kicadSymbolValue": "WS2812B",
+                "kicadSymbolki_description": "RGB LED with integrated controller",
+                "kicadSymbolki_fp_filters": "LED*WS2812*PLCC*5.0x5.0mm*P3.2mm*",
+                "kicadSymbolki_keywords": "RGB LED NeoPixel addressable"
+            }
+        ]
+    ]
+}

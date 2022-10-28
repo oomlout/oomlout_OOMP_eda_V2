@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKINTERFACECANLINMCP2557FDXMF"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Interface_CAN_LIN : MCP2557FD-xMF"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Interface_CAN_LIN"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-MCP2557FD-xMF"
+    ],
+    "oompIndex": [
+        "MCP2557FD-xMF"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://ww1.microchip.com/downloads/en/DeviceDoc/20005533A.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_DFN_QFN:DFN-8-1EP_3x3mm_P0.65mm_EP1.55x2.4mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "MCP2557FD-xMF",
+                "kicadSymbolki_description": "CAN FD Transceiver with Silent Mode, up to 8 Mbps, DFN-8",
+                "kicadSymbolki_fp_filters": "DFN*1EP*3x3mm*P0.65mm*",
+                "kicadSymbolki_keywords": "CAN FD Transceiver"
+            }
+        ]
+    ]
+}

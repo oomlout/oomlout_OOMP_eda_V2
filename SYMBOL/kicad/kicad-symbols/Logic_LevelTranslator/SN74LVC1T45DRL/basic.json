@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKLOGICLEVELTRANSLATORSN74LVC1T45DRL"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Logic_LevelTranslator : SN74LVC1T45DRL"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Logic_LevelTranslator"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Logic_LevelTranslator-SN74LVC1T45DRL"
+    ],
+    "oompIndex": [
+        "SN74LVC1T45DRL"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.ti.com/lit/ds/symlink/sn74lvc1t45.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_TO_SOT_SMD:SOT-563",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "SN74LVC1T45DRL",
+                "kicadSymbolki_description": "Single-Bit Dual-Supply Bus Transceiver With Configurable Voltage Translation and 3-State Outputs, SOT-563",
+                "kicadSymbolki_fp_filters": "*SOT?563*",
+                "kicadSymbolki_keywords": "Level-Shifter CMOS-TTL-Translation"
+            }
+        ]
+    ]
+}

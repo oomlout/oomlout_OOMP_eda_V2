@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKMCUCYPRESSCYBL1X6X56LQXX"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "MCU_Cypress : CYBL10x6x-56LQxx"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "MCU_Cypress"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-MCU_Cypress-CYBL10x6x-56LQxx"
+    ],
+    "oompIndex": [
+        "CYBL10x6x-56LQxx"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.cypress.com/documentation/datasheets/cybl10x6x-family-datasheet-programmable-radio-chip-bluetooth-low-energy",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_DFN_QFN:QFN-56-1EP_7x7mm_P0.4mm_EP5.6x5.6mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "CYBL10x6x-56LQxx",
+                "kicadSymbolki_description": "Programmable Radio-on-Chip With Bluetooth Low Energy, 48-MHz ARM\u00ae Cortex\u00ae-M0 , 56-QFN",
+                "kicadSymbolki_fp_filters": "QFN*1EP*7x7mm*P0.4mm*",
+                "kicadSymbolki_keywords": "CYPRESS PROC BLE CY8BL ARM CORTEX M0 BLUETOOTH QFN"
+            }
+        ]
+    ]
+}

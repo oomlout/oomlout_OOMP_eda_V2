@@ -1,0 +1,81 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKFPGALATTICEICE4HX4KBG121"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "FPGA_Lattice : ICE40HX4K-BG121"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "FPGA_Lattice"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/FPGA_Lattice/ICE40HX4K-BG121/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/FPGA_Lattice/ICE40HX4K-BG121/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/FPGA_Lattice/ICE40HX4K-BG121/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/FPGA_Lattice/ICE40HX4K-BG121/details.py"
+        ],
+        "imagePng": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/FPGA_Lattice/ICE40HX4K-BG121/image.png"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/FPGA_Lattice/ICE40HX4K-BG121/basic.json"
+        ],
+        "readme": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/FPGA_Lattice/ICE40HX4K-BG121/README.md"
+        ]
+    },
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-FPGA_Lattice-ICE40HX4K-BG121"
+    ],
+    "oompIndex": [
+        "ICE40HX4K-BG121"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.latticesemi.com/Products/FPGAandCPLD/iCE40",
+                "kicadSymbolExtends": "ICE40HX8K-BG121",
+                "kicadSymbolFootprint": "Package_BGA:BGA-121_9.0x9.0mm_Layout11x11_P0.8mm_Ball0.4mm_Pad0.35mm_NSMD",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "ICE40HX4K-BG121",
+                "kicadSymbolki_description": "iCE40 HX FPGA, 3520 LUTs, 1.2V, BGA-121",
+                "kicadSymbolki_fp_filters": "BGA*9.0x9.0mm*Layout11x11*P0.8mm*Ball0.4mm*",
+                "kicadSymbolki_keywords": "FPGA programmable logic"
+            }
+        ]
+    ]
+}

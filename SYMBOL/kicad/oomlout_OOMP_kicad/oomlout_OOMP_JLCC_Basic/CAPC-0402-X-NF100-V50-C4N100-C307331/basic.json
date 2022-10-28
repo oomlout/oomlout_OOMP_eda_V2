@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICCAPC42XNF1V5C4N1C37331"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "oomlout_OOMP_JLCC_Basic : CAPC-0402-X-NF100-V50-C4N100-C307331"
+    ],
+    "oompColor": [
+        "oomlout_OOMP_kicad"
+    ],
+    "oompDesc": [
+        "oomlout_OOMP_JLCC_Basic"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0402-X-NF100-V50-C4N100-C307331"
+    ],
+    "oompIndex": [
+        "CAPC-0402-X-NF100-V50-C4N100-C307331"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "oom.lt/C4N100",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "oomlout_OOMP_parts:CAPC-0402-X-NF100-V50-C4N100-C307331",
+                "kicadSymbolReference": "C",
+                "kicadSymbolValue": "CAPC-0402-X-NF100-V50-C4N100-C307331",
+                "kicadSymbolki_description": "hexID: C4N100;PARTL C-JLCC;C307331;MANUF C-XXXX;CL05B104KB54PNC;Unpolarized capacitor",
+                "kicadSymbolki_fp_filters": "C_*",
+                "kicadSymbolki_keywords": "cap capacitor"
+            }
+        ]
+    ]
+}

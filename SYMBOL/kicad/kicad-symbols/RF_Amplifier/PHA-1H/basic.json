@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKRFAMPLIFIERPHA1H"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "RF_Amplifier : PHA-1H"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "RF_Amplifier"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-RF_Amplifier-PHA-1H"
+    ],
+    "oompIndex": [
+        "PHA-1H"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.minicircuits.com/pdfs/PHA-1H+.pdf",
+                "kicadSymbolExtends": "SPF5189Z",
+                "kicadSymbolFootprint": "Package_TO_SOT_SMD:SOT-89-3",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "PHA-1H",
+                "kicadSymbolki_description": "50-6000MHz +13.8dB Linear Amplifier, SOT-89",
+                "kicadSymbolki_fp_filters": "SOT?89*",
+                "kicadSymbolki_keywords": "RF amplifier"
+            }
+        ]
+    ]
+}

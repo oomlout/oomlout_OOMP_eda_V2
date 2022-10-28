@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKANALOGADCADS7867"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Analog_ADC : ADS7867"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Analog_ADC"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Analog_ADC-ADS7867"
+    ],
+    "oompIndex": [
+        "ADS7867"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.ti.com/lit/ds/symlink/ads7866.pdf",
+                "kicadSymbolExtends": "ADS7866",
+                "kicadSymbolFootprint": "Package_TO_SOT_SMD:TSOT-23-6",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "ADS7867",
+                "kicadSymbolki_description": "Single Channel 10-bit ADC,  100-200ksps, SPI, micro-power, SOT-23-6",
+                "kicadSymbolki_fp_filters": "*SOT?23?6*",
+                "kicadSymbolki_keywords": "ADC"
+            }
+        ]
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKINTERFACEUFE11S"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Interface_USB : FE1.1s"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Interface_USB"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Interface_USB-FE1.1s"
+    ],
+    "oompIndex": [
+        "FE1.1s"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://cdn-shop.adafruit.com/product-files/2991/FE1.1s+Data+Sheet+(Rev.+1.0).pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_SO:SSOP-28_3.9x9.9mm_P0.635mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "FE1.1s",
+                "kicadSymbolki_description": "USB 2.0 High Speed 4-Port Hub Controller, SSOP-28",
+                "kicadSymbolki_fp_filters": "SSOP*3.9x9.9mm*P0.635mm*",
+                "kicadSymbolki_keywords": "4-Port, EEPROM, High Speed, Hub, USB2.0"
+            }
+        ]
+    ]
+}

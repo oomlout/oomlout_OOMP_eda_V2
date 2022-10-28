@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKREGULATORLINEARMIC5356MGYML"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Regulator_Linear : MIC5356-MGYML"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Regulator_Linear"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Regulator_Linear-MIC5356-MGYML"
+    ],
+    "oompIndex": [
+        "MIC5356-MGYML"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/mic5355_6.pdf",
+                "kicadSymbolExtends": "MIC5356-MMYML",
+                "kicadSymbolFootprint": "Package_DFN_QFN:MLF-8-1EP_3x3mm_P0.65mm_EP1.55x2.3mm_ThermalVias",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "MIC5356-MGYML",
+                "kicadSymbolki_description": "Dual 500mA \u03bcCap Low Dropout Micropower Linear Regulator, 2.8V/1.8V, DFN-8",
+                "kicadSymbolki_fp_filters": "MLF*3x3mm*P0.65mm*EP1.55x2.3mm*",
+                "kicadSymbolki_keywords": "Dual LDO 500mA DFN-8"
+            }
+        ]
+    ]
+}

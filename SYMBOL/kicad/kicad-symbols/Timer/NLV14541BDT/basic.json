@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKTIMERNLV14541BDT"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Timer : NLV14541BDT"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Timer"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Timer-NLV14541BDT"
+    ],
+    "oompIndex": [
+        "NLV14541BDT"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.onsemi.com/pdf/datasheet/mc14541b-d.pdf",
+                "kicadSymbolExtends": "CD4541BE",
+                "kicadSymbolFootprint": "Package_SO:TSSOP-14_4.4x5mm_P0.65mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "NLV14541BDT",
+                "kicadSymbolki_description": "18V, Programmable Timer, AEC Q100, TSSOP-14",
+                "kicadSymbolki_fp_filters": "TSSOP*4.4x5mm*P0.65mm*",
+                "kicadSymbolki_keywords": "cmos"
+            }
+        ]
+    ]
+}

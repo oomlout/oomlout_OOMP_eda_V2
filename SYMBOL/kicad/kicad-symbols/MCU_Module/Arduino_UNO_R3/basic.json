@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKMCUMOARDUNOR3"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "MCU_Module : Arduino_UNO_R3"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "MCU_Module"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-MCU_Module-Arduino_UNO_R3"
+    ],
+    "oompIndex": [
+        "Arduino_UNO_R3"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.arduino.cc/en/Main/arduinoBoardUno",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Module:Arduino_UNO_R3",
+                "kicadSymbolReference": "A",
+                "kicadSymbolValue": "Arduino_UNO_R3",
+                "kicadSymbolki_description": "Arduino UNO Microcontroller Module, release 3",
+                "kicadSymbolki_fp_filters": "Arduino*UNO*R3*",
+                "kicadSymbolki_keywords": "Arduino UNO R3 Microcontroller Module Atmel AVR USB"
+            }
+        ]
+    ]
+}

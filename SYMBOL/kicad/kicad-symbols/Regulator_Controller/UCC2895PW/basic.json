@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKREGULATORCONTROLLERUCC2895PW"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Regulator_Controller : UCC2895PW"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Regulator_Controller"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Regulator_Controller-UCC2895PW"
+    ],
+    "oompIndex": [
+        "UCC2895PW"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.ti.com/lit/ds/symlink/ucc3895.pdf",
+                "kicadSymbolExtends": "UCC3895PW",
+                "kicadSymbolFootprint": "Package_SO:TSSOP-20_4.4x6.5mm_P0.65mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "UCC2895PW",
+                "kicadSymbolki_description": "BiCMOS, Advanced Phase-ShiftPWM Controller, TSSOP-20",
+                "kicadSymbolki_fp_filters": "TSSOP*4.4x6.5mm*P0.65mm*",
+                "kicadSymbolki_keywords": "Phase-shift full-bridge converter"
+            }
+        ]
+    ]
+}

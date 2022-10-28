@@ -1,0 +1,57 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "smd",
+            "description": "Johanson 2450AT43F0100 SMD antenna 2400-2500Mhz, 1dBi, https://www.johansontechnology.com/datasheets/2450AT43F0100/2450AT43F0100.pdf",
+            "name": "Johanson_2450AT43F0100",
+            "pins": {
+                "shape": "roundrect",
+                "type": "smd"
+            },
+            "tags": "antenna",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/RF_Antenna.3dshapes/Johanson_2450AT43F0100.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKRFJOHANSON245AT43F1"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "RF_Antenna : Johanson_2450AT43F0100"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "RF_Antenna"
+    ],
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-RF_Antenna-Johanson_2450AT43F0100"
+    ],
+    "oompIndex": [
+        "Johanson_2450AT43F0100"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKREGULATORSWITCHINGLNK414EG"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Regulator_Switching : LNK414EG"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Regulator_Switching"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK414EG"
+    ],
+    "oompIndex": [
+        "LNK414EG"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.powerint.com/sites/default/files/product-docs/linkswitch-ph_family_datasheet.pdf",
+                "kicadSymbolExtends": "LNK403EG",
+                "kicadSymbolFootprint": "Package_SIP:PowerIntegrations_eSIP-7C",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "LNK414EG",
+                "kicadSymbolki_description": "LinkSwitch-PH Family, 15W Output Power, eSIP-7C",
+                "kicadSymbolki_fp_filters": "PowerIntegrations?eSIP?7C*",
+                "kicadSymbolki_keywords": "LED Driver IC, Single-Stage PFC and Primary-Side Constant Current Control"
+            }
+        ]
+    ]
+}

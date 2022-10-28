@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKLCLS6BFKW"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "LED : CLS6B-FKW"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "LED"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-LED-CLS6B-FKW"
+    ],
+    "oompIndex": [
+        "CLS6B-FKW"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.cree.com/led-components/media/documents/CLS6B-FKW.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "LED_SMD:LED_Cree-PLCC6_4.7x1.5mm",
+                "kicadSymbolReference": "D",
+                "kicadSymbolValue": "CLS6B-FKW",
+                "kicadSymbolki_description": "Cree PLCC6 3 in 1 SMD LED, PLCC-6",
+                "kicadSymbolki_fp_filters": "LED*Cree*PLCC*4.7x1.5mm*",
+                "kicadSymbolki_keywords": "LED RGB"
+            }
+        ]
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKMCUMCHIPPIC18PIC18F4455IPT"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "MCU_Microchip_PIC18 : PIC18F4455-IPT"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "MCU_Microchip_PIC18"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18F4455-IPT"
+    ],
+    "oompIndex": [
+        "PIC18F4455-IPT"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/39760d.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_QFP:TQFP-44_10x10mm_P0.8mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "PIC18F4455-IPT",
+                "kicadSymbolki_description": "24K Flash, 2K SRAM, 256 EEPROM, USB, nanoWatt XLP, TQFP44",
+                "kicadSymbolki_fp_filters": "TQFP*10x10mm*P0.8mm*",
+                "kicadSymbolki_keywords": "Flash-Based 8-Bit Microcontroller XLP"
+            }
+        ]
+    ]
+}

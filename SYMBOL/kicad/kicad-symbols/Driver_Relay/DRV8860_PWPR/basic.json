@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKDRIVERRELAYDRV886PWPR"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Driver_Relay : DRV8860_PWPR"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Driver_Relay"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Driver_Relay-DRV8860_PWPR"
+    ],
+    "oompIndex": [
+        "DRV8860_PWPR"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.ti.com/lit/ds/symlink/drv8860.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_SO:TSSOP-16-1EP_4.4x5mm_P0.65mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "DRV8860_PWPR",
+                "kicadSymbolki_description": "8-Channel Serial Interface Low-Side Driver",
+                "kicadSymbolki_fp_filters": "TSSOP*4.4x5mm*P0.65mm*",
+                "kicadSymbolki_keywords": "Relay Driver"
+            }
+        ]
+    ]
+}

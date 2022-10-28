@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKOCSSG82JA"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Oscillator : SG-8002JA"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Oscillator"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Oscillator-SG-8002JA"
+    ],
+    "oompIndex": [
+        "SG-8002JA"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://support.epson.biz/td/api/doc_check.php?mode=dl&lang=en&Parts=SG-8002DC",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Oscillator:Oscillator_SMD_SeikoEpson_SG8002JA-4Pin_14.0x8.7mm",
+                "kicadSymbolReference": "X",
+                "kicadSymbolValue": "SG-8002JA",
+                "kicadSymbolki_description": "CMOS Clock Oscillator",
+                "kicadSymbolki_fp_filters": "Oscillator*SMD*SeikoEpson*SG8002JA*14.0x8.7mm*",
+                "kicadSymbolki_keywords": "Crystal Clock Oscillator"
+            }
+        ]
+    ]
+}

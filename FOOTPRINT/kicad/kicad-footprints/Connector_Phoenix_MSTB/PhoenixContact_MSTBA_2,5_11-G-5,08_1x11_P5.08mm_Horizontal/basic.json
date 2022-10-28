@@ -1,0 +1,57 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "through_hole",
+            "description": "Generic Phoenix Contact connector footprint for: MSTBA_2,5/11-G-5,08; number of pins: 11; pin pitch: 5.08mm; Angled || order number: 1757336 12A || order number: 1923953 16A (HC)",
+            "name": "PhoenixContact_MSTBA_2,5_11-G-5,08_1x11_P5.08mm_Horizontal",
+            "pins": {
+                "shape": "roundrect",
+                "type": "thru_hole"
+            },
+            "tags": "phoenix_contact connector MSTBA_01x11_G_5.08mm",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/Connector_Phoenix_MSTB.3dshapes/PhoenixContact_MSTBA_2,5_11-G-5,08_1x11_P5.08mm_Horizontal.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKCNPHOENIXMSTBPHOENIXCONTACTMSTBA2511G581X11P58HORIZONTAL"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Connector_Phoenix_MSTB : PhoenixContact_MSTBA_2,5_11-G-5,08_1x11_P5.08mm_Horizontal"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Connector_Phoenix_MSTB"
+    ],
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Connector_Phoenix_MSTB-PhoenixContact_MSTBA_2,5_11-G-5,08_1x11_P5.08mm_Horizontal"
+    ],
+    "oompIndex": [
+        "PhoenixContact_MSTBA_2,5_11-G-5,08_1x11_P5.08mm_Horizontal"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

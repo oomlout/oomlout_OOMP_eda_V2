@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKISOLATORTCMT16"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Isolator : TCMT1600"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Isolator"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Isolator-TCMT1600"
+    ],
+    "oompIndex": [
+        "TCMT1600"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.vishay.com/docs/83512/tcmt1600.pdf",
+                "kicadSymbolExtends": "TLP290",
+                "kicadSymbolFootprint": "Package_SO:SOP-4_4.4x2.6mm_P1.27mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "TCMT1600",
+                "kicadSymbolki_description": "AC/DC Phototransistor Optocoupler, Vce 70V, CTR 80-300%, SOP4",
+                "kicadSymbolki_fp_filters": "SOP*4*4.4x2.6mm*P1.27mm*",
+                "kicadSymbolki_keywords": "NPN AC DC Phototransistor Optocoupler"
+            }
+        ]
+    ]
+}

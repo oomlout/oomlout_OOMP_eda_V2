@@ -1,0 +1,89 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "smd",
+            "description": "Micro Leadframe Package, 16 pin with exposed pad",
+            "name": "MLPQ-16-1EP_4x4mm_P0.65mm_EP2.8x2.8mm",
+            "pins": {
+                "shape": "rect",
+                "type": "smd"
+            },
+            "tags": "MLPQ- 0.65",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/MLPQ-16-1EP_4x4mm_P0.65mm_EP2.8x2.8mm.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKDFNMLPQ161EP4X4P65EP28X28"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Package_DFN_QFN : MLPQ-16-1EP_4x4mm_P0.65mm_EP2.8x2.8mm"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Package_DFN_QFN"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/MLPQ-16-1EP_4x4mm_P0.65mm_EP2.8x2.8mm/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/MLPQ-16-1EP_4x4mm_P0.65mm_EP2.8x2.8mm/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/MLPQ-16-1EP_4x4mm_P0.65mm_EP2.8x2.8mm/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/MLPQ-16-1EP_4x4mm_P0.65mm_EP2.8x2.8mm/details.py"
+        ],
+        "imagePng": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/MLPQ-16-1EP_4x4mm_P0.65mm_EP2.8x2.8mm/image.png"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/MLPQ-16-1EP_4x4mm_P0.65mm_EP2.8x2.8mm/basic.json"
+        ],
+        "kicadPcb3d": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/MLPQ-16-1EP_4x4mm_P0.65mm_EP2.8x2.8mm/kicadPcb3d.png"
+        ],
+        "kicadPcb3dBack": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/MLPQ-16-1EP_4x4mm_P0.65mm_EP2.8x2.8mm/kicadPcb3dBack.png"
+        ],
+        "kicadPcb3dFront": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/MLPQ-16-1EP_4x4mm_P0.65mm_EP2.8x2.8mm/kicadPcb3dFront.png"
+        ],
+        "readme": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/MLPQ-16-1EP_4x4mm_P0.65mm_EP2.8x2.8mm/README.md"
+        ]
+    },
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-MLPQ-16-1EP_4x4mm_P0.65mm_EP2.8x2.8mm"
+    ],
+    "oompIndex": [
+        "MLPQ-16-1EP_4x4mm_P0.65mm_EP2.8x2.8mm"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKFIL85BM14E16"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Filter : 0850BM14E0016"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Filter"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Filter-0850BM14E0016"
+    ],
+    "oompIndex": [
+        "0850BM14E0016"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.johansontechnology.com/datasheets/0850BM14E0016/0850BM14E0016.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "RF_Converter:Balun_Johanson_1.6x0.8mm",
+                "kicadSymbolReference": "FL",
+                "kicadSymbolValue": "0850BM14E0016",
+                "kicadSymbolki_description": "Sub-GHz Impedance Matched Balun + LPF integrated Passive",
+                "kicadSymbolki_fp_filters": "Balun*Johanson*1.6x0.8mm*",
+                "kicadSymbolki_keywords": "Sub-GHz Balun"
+            }
+        ]
+    ]
+}

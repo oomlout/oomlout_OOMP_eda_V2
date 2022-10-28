@@ -1,0 +1,81 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKTIMERPLLICS525R2"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Timer_PLL : ICS525R-02"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Timer_PLL"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Timer_PLL/ICS525R-02/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Timer_PLL/ICS525R-02/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Timer_PLL/ICS525R-02/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Timer_PLL/ICS525R-02/details.py"
+        ],
+        "imagePng": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Timer_PLL/ICS525R-02/image.png"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Timer_PLL/ICS525R-02/basic.json"
+        ],
+        "readme": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Timer_PLL/ICS525R-02/README.md"
+        ]
+    },
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Timer_PLL-ICS525R-02"
+    ],
+    "oompIndex": [
+        "ICS525R-02"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.idt.com/document/dst/525-01-02-datasheet",
+                "kicadSymbolExtends": "ICS525-01R",
+                "kicadSymbolFootprint": "Package_SO:SSOP-28_3.9x9.9mm_P0.635mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "ICS525R-02",
+                "kicadSymbolki_description": "User configurable clock up to 200 MHz, SSOP-28",
+                "kicadSymbolki_fp_filters": "SSOP*3.9x9.9mm*P0.635mm*",
+                "kicadSymbolki_keywords": "Configurable clock"
+            }
+        ]
+    ]
+}

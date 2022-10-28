@@ -1,0 +1,57 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "through_hole",
+            "description": "Through hole angled pin header, 2x05, 1.27mm pitch, 4.0mm pin length, double rows",
+            "name": "PinHeader_2x05_P1.27mm_Horizontal",
+            "pins": {
+                "shape": "rect",
+                "type": "thru_hole"
+            },
+            "tags": "Through hole angled pin header THT 2x05 1.27mm double row",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/Connector_PinHeader_1.27mm.3dshapes/PinHeader_2x05_P1.27mm_Horizontal.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKCNPINHEADER127PINHEADER2X5P127HORIZONTAL"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Connector_PinHeader_1.27mm : PinHeader_2x05_P1.27mm_Horizontal"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Connector_PinHeader_1.27mm"
+    ],
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_1.27mm-PinHeader_2x05_P1.27mm_Horizontal"
+    ],
+    "oompIndex": [
+        "PinHeader_2x05_P1.27mm_Horizontal"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

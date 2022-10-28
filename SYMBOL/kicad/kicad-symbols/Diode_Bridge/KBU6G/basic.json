@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKDIODEBRIDGEKBU6G"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Diode_Bridge : KBU6G"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Diode_Bridge"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Diode_Bridge-KBU6G"
+    ],
+    "oompIndex": [
+        "KBU6G"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.vishay.com/docs/88656/kbu6.pdf",
+                "kicadSymbolExtends": "KBU4A",
+                "kicadSymbolFootprint": "Diode_THT:Diode_Bridge_Vishay_KBU",
+                "kicadSymbolReference": "D",
+                "kicadSymbolValue": "KBU6G",
+                "kicadSymbolki_description": "Single-Phase Bridge Rectifier, 280V Vrms, 6.0A If, KBU package",
+                "kicadSymbolki_fp_filters": "Diode*Bridge*Vishay*KBU*",
+                "kicadSymbolki_keywords": "rectifier acdc"
+            }
+        ]
+    ]
+}

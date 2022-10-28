@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKGPSSIM28ML"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "RF_GPS : SIM28ML"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "RF_GPS"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-RF_GPS-SIM28ML"
+    ],
+    "oompIndex": [
+        "SIM28ML"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://simcom.ee/documents/SIM28ML/SIM28ML_Hardware%20Design_V1.01.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "RF_GPS:SIM28ML",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "SIM28ML",
+                "kicadSymbolki_description": "Standalone GPS/A-GPS receiver module, built-in LNA, -165dBm sensitivity, 2.8-4.3V, SMD",
+                "kicadSymbolki_fp_filters": "SIM28ML*",
+                "kicadSymbolki_keywords": "GPS A-GPS receiver"
+            }
+        ]
+    ]
+}

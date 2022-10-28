@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKGPSZEDF9P"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "RF_GPS : ZED-F9P"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "RF_GPS"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-RF_GPS-ZED-F9P"
+    ],
+    "oompIndex": [
+        "ZED-F9P"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.u-blox.com/sites/default/files/ZED-F9P_DataSheet_%28UBX-17051259%29.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "RF_GPS:ublox_ZED",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "ZED-F9P",
+                "kicadSymbolki_description": "GNSS Module ZED F9, VCC 2.7V to 3.6V, LGA-54",
+                "kicadSymbolki_fp_filters": "ublox*ZED*",
+                "kicadSymbolki_keywords": "u-blox GNSS multi-band RTK"
+            }
+        ]
+    ]
+}

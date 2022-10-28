@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKSENOPTICALSFH271"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Sensor_Optical : SFH2701"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Sensor_Optical"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Sensor_Optical-SFH2701"
+    ],
+    "oompIndex": [
+        "SFH2701"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.osram-os.com/Graphics/XPic6/00201111_0.pdf/SFH%202701.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "LED_SMD:LED_1206_3216Metric_Castellated",
+                "kicadSymbolReference": "D",
+                "kicadSymbolValue": "SFH2701",
+                "kicadSymbolki_description": "High Speed PIN Photodiode, SMD package",
+                "kicadSymbolki_fp_filters": "LED*1206*",
+                "kicadSymbolki_keywords": "opto photodiode"
+            }
+        ]
+    ]
+}

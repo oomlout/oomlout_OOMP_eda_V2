@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKTRWUERTH7491311A"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Transformer : Wuerth_749013011A"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Transformer"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Transformer-Wuerth_749013011A"
+    ],
+    "oompIndex": [
+        "Wuerth_749013011A"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.we-online.com/katalog/datasheet/749013011A.pdf",
+                "kicadSymbolExtends": "PT61017PEL",
+                "kicadSymbolFootprint": "Transformer_SMD:Transformer_Ethernet_Wuerth_749013011A",
+                "kicadSymbolReference": "TR",
+                "kicadSymbolValue": "Wuerth_749013011A",
+                "kicadSymbolki_description": "Ethernet LAN 10/100 Base-Tx Transformer CT, SMD",
+                "kicadSymbolki_fp_filters": "Transformer*Ethernet*Wuerth*749013011A*",
+                "kicadSymbolki_keywords": "single port ethernet transformer poe center tap"
+            }
+        ]
+    ]
+}

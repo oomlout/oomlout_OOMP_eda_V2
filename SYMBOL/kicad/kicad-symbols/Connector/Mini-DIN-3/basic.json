@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKCNMDIN3"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Connector : Mini-DIN-3"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Connector"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Connector-Mini-DIN-3"
+    ],
+    "oompIndex": [
+        "Mini-DIN-3"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.assmann-wsw.com/fileadmin/catalogue/10_MiniDIN_rev4-0.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "",
+                "kicadSymbolReference": "J",
+                "kicadSymbolValue": "Mini-DIN-3",
+                "kicadSymbolki_description": "3-pin Mini-DIN connector",
+                "kicadSymbolki_fp_filters": "MINI?DIN*",
+                "kicadSymbolki_keywords": "Mini-DIN"
+            }
+        ]
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "through_hole",
+            "description": "terminal block Metz Connect Type175_RT02703HBLC, 3 pins, pitch 7.5mm, size 22.5x11mm^2, drill diamater 1.4mm, pad diameter 2.6mm, see http://www.metz-connect.com/de/system/files/productfiles/Datenblatt_311751_RT027xxHBLC_OFF-022814U.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect",
+            "name": "TerminalBlock_MetzConnect_Type175_RT02703HBLC_1x03_P7.50mm_Horizontal",
+            "pins": {
+                "shape": "rect",
+                "type": "thru_hole"
+            },
+            "tags": "THT terminal block Metz Connect Type175_RT02703HBLC pitch 7.5mm size 22.5x11mm^2 drill 1.4mm pad 2.6mm",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/TerminalBlock_MetzConnect.3dshapes/TerminalBlock_MetzConnect_Type175_RT02703HBLC_1x03_P7.50mm_Horizontal.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKTBMETZCONNECTTBMETZCONNECTTYPE175RT273HBLC1X3P75HORIZONTAL"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "TerminalBlock_MetzConnect : TerminalBlock_MetzConnect_Type175_RT02703HBLC_1x03_P7.50mm_Horizontal"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "TerminalBlock_MetzConnect"
+    ],
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-TerminalBlock_MetzConnect-TerminalBlock_MetzConnect_Type175_RT02703HBLC_1x03_P7.50mm_Horizontal"
+    ],
+    "oompIndex": [
+        "TerminalBlock_MetzConnect_Type175_RT02703HBLC_1x03_P7.50mm_Horizontal"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

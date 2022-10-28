@@ -1,0 +1,81 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKMCUNXPLPCLPC832M11FDH2"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "MCU_NXP_LPC : LPC832M101FDH20"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "MCU_NXP_LPC"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_NXP_LPC/LPC832M101FDH20/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_NXP_LPC/LPC832M101FDH20/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_NXP_LPC/LPC832M101FDH20/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_NXP_LPC/LPC832M101FDH20/details.py"
+        ],
+        "imagePng": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_NXP_LPC/LPC832M101FDH20/image.png"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_NXP_LPC/LPC832M101FDH20/basic.json"
+        ],
+        "readme": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_NXP_LPC/LPC832M101FDH20/README.md"
+        ]
+    },
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-MCU_NXP_LPC-LPC832M101FDH20"
+    ],
+    "oompIndex": [
+        "LPC832M101FDH20"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.nxp.com/documents/data_sheet/LPC83X.pdf",
+                "kicadSymbolExtends": "LPC822M101JDH20",
+                "kicadSymbolFootprint": "Package_SO:TSSOP-20_4.4x6.5mm_P0.65mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "LPC832M101FDH20",
+                "kicadSymbolki_description": "32-bit ARM Cortex-M0 microcontroller, 16kB flash, 4kB SRAM",
+                "kicadSymbolki_fp_filters": "*TSSOP*4.4x6.5mm*P0.65mm*",
+                "kicadSymbolki_keywords": "ARM, 32-bit, Cortex-M0, M0, NXP, microcontroller"
+            }
+        ]
+    ]
+}

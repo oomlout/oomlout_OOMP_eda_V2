@@ -1,0 +1,57 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "through_hole",
+            "description": "hexID: T35L8; Terminal Block 4Ucon ItemNo. 10699, vertical (cable from top), 8 pins, pitch 3.5mm, size 29x8.3mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.4uconnector.com/online/object/4udrawing/10699.pdf, script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_4Ucon",
+            "name": "TERS-35D-L-PI08-01-T35L8",
+            "pins": {
+                "shape": "rect",
+                "type": "thru_hole"
+            },
+            "tags": "THT Terminal Block 4Ucon ItemNo. 10699 vertical pitch 3.5mm size 29x8.3mm^2 drill 1.3mm pad 2.6mm",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/TerminalBlock_4Ucon.3dshapes/TerminalBlock_4Ucon_1x08_P3.50mm_Vertical.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSTERS35DLPI81T35L8"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "oomlout_OOMP_parts : TERS-35D-L-PI08-01-T35L8"
+    ],
+    "oompColor": [
+        "oomlout_OOMP_kicad"
+    ],
+    "oompDesc": [
+        "oomlout_OOMP_parts"
+    ],
+    "oompID": [
+        "FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-TERS-35D-L-PI08-01-T35L8"
+    ],
+    "oompIndex": [
+        "TERS-35D-L-PI08-01-T35L8"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

@@ -1,0 +1,57 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "smd",
+            "description": "LFCSP, 20 Pin (https://www.analog.com/media/en/technical-documentation/data-sheets/AD7682_7689.pdf), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py",
+            "name": "LFCSP-20-1EP_4x4mm_P0.5mm_EP2.5x2.5mm_ThermalVias",
+            "pins": {
+                "shape": "roundrect",
+                "type": "smd"
+            },
+            "tags": "LFCSP DFN_QFN",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/Package_CSP.3dshapes/LFCSP-20-1EP_4x4mm_P0.5mm_EP2.5x2.5mm.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKCSPLFCSP21EP4X4P5EP25X25THERMALVIAS"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Package_CSP : LFCSP-20-1EP_4x4mm_P0.5mm_EP2.5x2.5mm_ThermalVias"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Package_CSP"
+    ],
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Package_CSP-LFCSP-20-1EP_4x4mm_P0.5mm_EP2.5x2.5mm_ThermalVias"
+    ],
+    "oompIndex": [
+        "LFCSP-20-1EP_4x4mm_P0.5mm_EP2.5x2.5mm_ThermalVias"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

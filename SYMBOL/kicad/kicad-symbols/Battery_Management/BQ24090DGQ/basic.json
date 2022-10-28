@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKBATMANAGEMENTBQ249DGQ"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Battery_Management : BQ24090DGQ"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Battery_Management"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Battery_Management-BQ24090DGQ"
+    ],
+    "oompIndex": [
+        "BQ24090DGQ"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.ti.com/lit/ds/symlink/bq24090.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_SO:HVSSOP-10-1EP_3x3mm_P0.5mm_EP1.57x1.88mm_ThermalVias",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "BQ24090DGQ",
+                "kicadSymbolki_description": "1A, Single-Input, SingleCell Li-Ion and Li-Pol BatteryCharger, HVSSOP-10",
+                "kicadSymbolki_fp_filters": "HVSSOP*1EP*3x3mm*P0.5mm*",
+                "kicadSymbolki_keywords": "battery charger singlecell li-ion li-poly, 1A"
+            }
+        ]
+    ]
+}

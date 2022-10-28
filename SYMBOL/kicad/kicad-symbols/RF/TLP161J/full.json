@@ -1,0 +1,78 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKRFTLP161J"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "RF : TLP161J"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "RF"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF/TLP161J/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF/TLP161J/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF/TLP161J/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF/TLP161J/details.py"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF/TLP161J/basic.json"
+        ],
+        "readme": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF/TLP161J/README.md"
+        ]
+    },
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-RF-TLP161J"
+    ],
+    "oompIndex": [
+        "TLP161J"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://toshiba.semicon-storage.com/info/docget.jsp?did=4207&prodName=TLP161J",
+                "kicadSymbolExtends": "TLP161G",
+                "kicadSymbolFootprint": "Package_SO:MFSOP6-4_4.4x3.6mm_P1.27mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "TLP161J",
+                "kicadSymbolki_description": "Zero Cross Opto-Triac, Vdrm 600V, Ift 7mA, SOP6",
+                "kicadSymbolki_fp_filters": "MFSOP6*4.4x3.6mm*P1.27mm*",
+                "kicadSymbolki_keywords": "Opto-Triac Opto Triac Zero Cross"
+            }
+        ]
+    ]
+}

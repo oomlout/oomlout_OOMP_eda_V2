@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKCONITX55SH"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Converter_DCDC : ITX0505S-H"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Converter_DCDC"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Converter_DCDC-ITX0505S-H"
+    ],
+    "oompIndex": [
+        "ITX0505S-H"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.xppower.com/pdfs/SF_ITX.pdf",
+                "kicadSymbolExtends": "ITX0505S",
+                "kicadSymbolFootprint": "Converter_DCDC:Converter_DCDC_XP_POWER-ITxxxxxS_THT",
+                "kicadSymbolReference": "PS",
+                "kicadSymbolValue": "ITX0505S-H",
+                "kicadSymbolki_description": "XP Power 6W, 3000 VDC Isolated DC/DC Converter Module, Fully Regulated Dual Output Voltage \u00b15V, \u00b1600mA, 5V Input Voltage, SIP",
+                "kicadSymbolki_fp_filters": "*XP?POWER?ITxxxxx*",
+                "kicadSymbolki_keywords": "XP_POWER DC/DC isolated Converter module"
+            }
+        ]
+    ]
+}

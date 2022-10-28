@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKFPGAMSEMIEX128TQ1"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "FPGA_Microsemi : EX128-TQ100"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "FPGA_Microsemi"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-FPGA_Microsemi-EX128-TQ100"
+    ],
+    "oompIndex": [
+        "EX128-TQ100"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.microsemi.com/document-portal/doc_download/130687-ex-datasheet",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_QFP:TQFP-100_14x14mm_P0.5mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "EX128-TQ100",
+                "kicadSymbolki_description": "Actel eX FPGA Family, 100pin QFP",
+                "kicadSymbolki_fp_filters": "*QFP*14x14mm*P0.5mm*",
+                "kicadSymbolki_keywords": "Actel FPGA eX eX128"
+            }
+        ]
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKCONHS45"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Converter_ACDC : HS-40005"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Converter_ACDC"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Converter_ACDC-HS-40005"
+    ],
+    "oompIndex": [
+        "HS-40005"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.tme.eu/de/Document/996b08915f81126361ce1f9c12d2f8b9/HS40005.pdf",
+                "kicadSymbolExtends": "HS-40003",
+                "kicadSymbolFootprint": "Converter_ACDC:Converter_ACDC_Hahn_HS-400xx_THT",
+                "kicadSymbolReference": "PS",
+                "kicadSymbolValue": "HS-40005",
+                "kicadSymbolki_description": "5V, 3W, AC-DC module power supply, Hahn",
+                "kicadSymbolki_fp_filters": "Converter*ACDC*Hahn*HS*400xx*",
+                "kicadSymbolki_keywords": "5V 3W AC-DC module power supply"
+            }
+        ]
+    ]
+}

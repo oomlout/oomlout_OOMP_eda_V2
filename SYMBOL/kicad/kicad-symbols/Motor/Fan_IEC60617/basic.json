@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKMOTORFANIEC6617"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Motor : Fan_IEC60617"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Motor"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Motor-Fan_IEC60617"
+    ],
+    "oompIndex": [
+        "Fan_IEC60617"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "~",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "",
+                "kicadSymbolReference": "M",
+                "kicadSymbolValue": "Fan_IEC60617",
+                "kicadSymbolki_description": "Fan (according to IEC-60617)",
+                "kicadSymbolki_fp_filters": "PinHeader*P2.54mm* TerminalBlock*",
+                "kicadSymbolki_keywords": "Fan Motor IEC-60617"
+            }
+        ]
+    ]
+}

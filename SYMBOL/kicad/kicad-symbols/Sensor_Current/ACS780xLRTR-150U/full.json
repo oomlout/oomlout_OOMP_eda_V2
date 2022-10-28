@@ -1,0 +1,81 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKSENCURRENTACS78XLRTR15U"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Sensor_Current : ACS780xLRTR-150U"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Sensor_Current"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Current/ACS780xLRTR-150U/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Current/ACS780xLRTR-150U/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Current/ACS780xLRTR-150U/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Current/ACS780xLRTR-150U/details.py"
+        ],
+        "imagePng": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Current/ACS780xLRTR-150U/image.png"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Current/ACS780xLRTR-150U/basic.json"
+        ],
+        "readme": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Sensor_Current/ACS780xLRTR-150U/README.md"
+        ]
+    },
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS780xLRTR-150U"
+    ],
+    "oompIndex": [
+        "ACS780xLRTR-150U"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.allegromicro.com/~/media/Files/Datasheets/ACS780-Datasheet.ashx?la=en",
+                "kicadSymbolExtends": "ACS780xLRTR-050B",
+                "kicadSymbolFootprint": "Sensor_Current:Allegro_PSOF-7_4.8x6.4mm_P1.60mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "ACS780xLRTR-150U",
+                "kicadSymbolki_description": "150A Unidirectional Hall-Effect Current Sensor, +5.0V supply, 26.66mV/A, PSOF-7",
+                "kicadSymbolki_fp_filters": "Allegro*PSOF*4.8x6.4mm*P1.60mm*",
+                "kicadSymbolki_keywords": "hall effect current monitor sensor isolated"
+            }
+        ]
+    ]
+}

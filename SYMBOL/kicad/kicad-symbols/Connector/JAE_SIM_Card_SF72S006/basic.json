@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKCNJAESIMCARDSF72S6"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Connector : JAE_SIM_Card_SF72S006"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Connector"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Connector-JAE_SIM_Card_SF72S006"
+    ],
+    "oompIndex": [
+        "JAE_SIM_Card_SF72S006"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.jae.com/direct/topics/topics_file_download/topics_id=68892&ext_no=06&index=0&_lang=en&v=202003111511468456809",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Connector_JAE:JAE_SIM_Card_SF72S006",
+                "kicadSymbolReference": "J",
+                "kicadSymbolValue": "JAE_SIM_Card_SF72S006",
+                "kicadSymbolki_description": "Nano-SIM Card (4FF) connector with Detect Switch",
+                "kicadSymbolki_fp_filters": "JAE*SIM*Card*SF72S006*",
+                "kicadSymbolki_keywords": "SIM card UICC 4FF"
+            }
+        ]
+    ]
+}

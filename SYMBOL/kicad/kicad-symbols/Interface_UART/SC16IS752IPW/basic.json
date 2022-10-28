@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKINTERFACEUARTSC16IS752IPW"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Interface_UART : SC16IS752IPW"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Interface_UART"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Interface_UART-SC16IS752IPW"
+    ],
+    "oompIndex": [
+        "SC16IS752IPW"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.nxp.com/docs/en/data-sheet/SC16IS752_SC16IS762.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_SO:TSSOP-28_4.4x9.7mm_P0.65mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "SC16IS752IPW",
+                "kicadSymbolki_description": "Dual UART with I2C/SPI interface, 64 bytes of transmit and receive FIFOs, IrDA SIR built-in support, TSSOP-28",
+                "kicadSymbolki_fp_filters": "TSSOP*4.4x9.7mm*P0.65mm*",
+                "kicadSymbolki_keywords": "UART I2C/SPI 64B FIFO IrDA SIR"
+            }
+        ]
+    ]
+}

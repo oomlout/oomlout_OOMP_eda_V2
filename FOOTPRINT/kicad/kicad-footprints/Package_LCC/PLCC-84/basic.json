@@ -1,0 +1,57 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "smd",
+            "description": "PLCC, 84 pins, surface mount",
+            "name": "PLCC-84",
+            "pins": {
+                "shape": "rect",
+                "type": "smd"
+            },
+            "tags": "plcc smt",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/Package_LCC.3dshapes/PLCC-84.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKLCCPLCC84"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Package_LCC : PLCC-84"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Package_LCC"
+    ],
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Package_LCC-PLCC-84"
+    ],
+    "oompIndex": [
+        "PLCC-84"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

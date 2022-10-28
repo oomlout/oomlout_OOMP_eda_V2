@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKTRTG111MSC13LF"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Transformer : TG111-MSC13LF"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Transformer"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Transformer-TG111-MSC13LF"
+    ],
+    "oompIndex": [
+        "TG111-MSC13LF"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.haloelectronics.com/pdf/discrete-genesus.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Transformer_SMD:Transformer_Ethernet_HALO_TG111-MSC13",
+                "kicadSymbolReference": "TR",
+                "kicadSymbolValue": "TG111-MSC13LF",
+                "kicadSymbolki_description": "Single Port Gigabit Ethernet Transformers",
+                "kicadSymbolki_fp_filters": "Transformer*Ethernet*HALO*TG111*",
+                "kicadSymbolki_keywords": "Single Port Gigabit Ethernet Transformer"
+            }
+        ]
+    ]
+}

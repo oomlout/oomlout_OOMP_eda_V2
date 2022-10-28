@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKDRIVERFETLTC444IMS8"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Driver_FET : LTC4440IMS8"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Driver_FET"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Driver_FET-LTC4440IMS8"
+    ],
+    "oompIndex": [
+        "LTC4440IMS8"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/4440fb.pdf",
+                "kicadSymbolExtends": "LTC4440EMS8",
+                "kicadSymbolFootprint": "Package_SO:MSOP-8-1EP_3x3mm_P0.65mm_EP1.68x1.88mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "LTC4440IMS8",
+                "kicadSymbolki_description": "High-side, N-Channel, Mosfet driver, 80V input, -40\u00b0C to +125\u00b0C, MSOP-8",
+                "kicadSymbolki_fp_filters": "MSOP*1EP*3x3mm*P0.65mm*",
+                "kicadSymbolki_keywords": "high-side mosfet-driver"
+            }
+        ]
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": null,
+            "description": "Open Source Hardware Symbol",
+            "name": "OSHW-Symbol_13.4x12mm_Copper",
+            "pins": {},
+            "tags": "Logo Symbol OSHW"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKSZOSHWSY134X12C"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Symbol : OSHW-Symbol_13.4x12mm_Copper"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Symbol"
+    ],
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Symbol-OSHW-Symbol_13.4x12mm_Copper"
+    ],
+    "oompIndex": [
+        "OSHW-Symbol_13.4x12mm_Copper"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

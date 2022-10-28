@@ -1,0 +1,59 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKANALOGSWITCHTS3A24159YZPR"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Analog_Switch : TS3A24159YZPR"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Analog_Switch"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Analog_Switch-TS3A24159YZPR"
+    ],
+    "oompIndex": [
+        "TS3A24159YZPR"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.ti.com/lit/ds/symlink/ts3a24159.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_BGA:Texas_DSBGA-10_1.36x1.86mm_Layout3x4_P0.5mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "TS3A24159YZPR",
+                "kicadSymbolki_description": "Dual SPDT 0.3\u03a9 Bidirectional Analog Switch, DSBGA-10",
+                "kicadSymbolki_fp_filters": "Texas*DSBGA*1.36x1.86mm*Layout3x4*P0.5mm*",
+                "kicadSymbolki_keywords": "switch analog SPDT",
+                "kicadSymbolki_locked": ""
+            }
+        ]
+    ]
+}

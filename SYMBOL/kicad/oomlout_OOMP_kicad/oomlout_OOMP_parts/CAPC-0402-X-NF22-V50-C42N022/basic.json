@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC42XNF22V5C42N22"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "oomlout_OOMP_parts : CAPC-0402-X-NF22-V50-C42N022"
+    ],
+    "oompColor": [
+        "oomlout_OOMP_kicad"
+    ],
+    "oompDesc": [
+        "oomlout_OOMP_parts"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-CAPC-0402-X-NF22-V50-C42N022"
+    ],
+    "oompIndex": [
+        "CAPC-0402-X-NF22-V50-C42N022"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "oom.lt/C42N022",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "oomlout_OOMP_parts:CAPC-0402-X-NF22-V50-C42N022",
+                "kicadSymbolReference": "C",
+                "kicadSymbolValue": "CAPC-0402-X-NF22-V50-C42N022",
+                "kicadSymbolki_description": "hexID: C42N022;Unpolarized capacitor",
+                "kicadSymbolki_fp_filters": "C_*",
+                "kicadSymbolki_keywords": "cap capacitor"
+            }
+        ]
+    ]
+}

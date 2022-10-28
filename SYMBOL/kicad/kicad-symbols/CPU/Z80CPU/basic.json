@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKCPUZ8CPU"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "CPU : Z80CPU"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "CPU"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-CPU-Z80CPU"
+    ],
+    "oompIndex": [
+        "Z80CPU"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "www.zilog.com/manage_directlink.php?filepath=docs/z80/um0080",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "Z80CPU",
+                "kicadSymbolki_description": "8-bit General Purpose Microprocessor, DIP-40",
+                "kicadSymbolki_fp_filters": "DIP* PDIP*",
+                "kicadSymbolki_keywords": "Z80 CPU uP"
+            }
+        ]
+    ]
+}

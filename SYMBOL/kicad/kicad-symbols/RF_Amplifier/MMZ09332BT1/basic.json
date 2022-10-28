@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKRFAMPLIFIERZ9332BT1"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "RF_Amplifier : MMZ09332BT1"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "RF_Amplifier"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-RF_Amplifier-MMZ09332BT1"
+    ],
+    "oompIndex": [
+        "MMZ09332BT1"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.nxp.com/docs/en/data-sheet/MMZ09332B.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_DFN_QFN:QFN-12-1EP_3x3mm_P0.5mm_EP1.6x1.6mm_ThermalVias",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "MMZ09332BT1",
+                "kicadSymbolki_description": "High Efficiency/Linearity Amplifier high linearity broadband amplifier, QFN-12",
+                "kicadSymbolki_fp_filters": "QFN*3x3mm*P0.5mm*",
+                "kicadSymbolki_keywords": "RF"
+            }
+        ]
+    ]
+}

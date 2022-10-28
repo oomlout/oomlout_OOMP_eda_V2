@@ -1,0 +1,81 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKCPLDXILINXXCR3128VQ1"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "CPLD_Xilinx : XCR3128-VQ100"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "CPLD_Xilinx"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/CPLD_Xilinx/XCR3128-VQ100/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/CPLD_Xilinx/XCR3128-VQ100/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/CPLD_Xilinx/XCR3128-VQ100/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/CPLD_Xilinx/XCR3128-VQ100/details.py"
+        ],
+        "imagePng": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/CPLD_Xilinx/XCR3128-VQ100/image.png"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/CPLD_Xilinx/XCR3128-VQ100/basic.json"
+        ],
+        "readme": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/CPLD_Xilinx/XCR3128-VQ100/README.md"
+        ]
+    },
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-CPLD_Xilinx-XCR3128-VQ100"
+    ],
+    "oompIndex": [
+        "XCR3128-VQ100"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.xilinx.com/support/documentation/data_sheets/ds016.pdf",
+                "kicadSymbolExtends": "XCR3128XL-VQ100",
+                "kicadSymbolFootprint": "Package_QFP:LQFP-100_14x14mm_P0.5mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "XCR3128-VQ100",
+                "kicadSymbolki_description": "Xilinx CoolRunner 128-Macrocell CPLD, 3.3V, VQFP-100, Obsolete",
+                "kicadSymbolki_fp_filters": "LQFP*14x14mm*P0.5*",
+                "kicadSymbolki_keywords": "CPLD"
+            }
+        ]
+    ]
+}

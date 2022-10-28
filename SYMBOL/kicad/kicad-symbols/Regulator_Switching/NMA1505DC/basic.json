@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKREGULATORSWITCHINGNMA155DC"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Regulator_Switching : NMA1505DC"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Regulator_Switching"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Regulator_Switching-NMA1505DC"
+    ],
+    "oompIndex": [
+        "NMA1505DC"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://power.murata.com/data/power/ncl/kdc_nma.pdf",
+                "kicadSymbolExtends": "NMA0512DC",
+                "kicadSymbolFootprint": "Converter_DCDC:Converter_DCDC_Murata_NMAxxxxDC_THT",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "NMA1505DC",
+                "kicadSymbolki_description": "+/-100mA Isolated 1W Dual output DC/DC Converter Module, 15V Input Voltage, +/-5V Output Voltage, DIP Package",
+                "kicadSymbolki_fp_filters": "Converter*DCDC*Murata*NMAxxxxDC*",
+                "kicadSymbolki_keywords": "Murata isolated isolation dc-dc converter"
+            }
+        ]
+    ]
+}

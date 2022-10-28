@@ -1,0 +1,57 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "smd",
+            "description": "DirectFET ME https://www.infineon.com/dgdl/Infineon-AN-1035-ApplicationNotes-v29_01-EN.pdf?fileId=5546d462533600a40153559159020f76#page=39",
+            "name": "DirectFET_ME",
+            "pins": {
+                "shape": "rect",
+                "type": "smd"
+            },
+            "tags": "DirectFET ME MOSFET Infineon",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/Package_DirectFET.3dshapes/DirectFET_ME.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKDFETDIRECTFETME"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Package_DirectFET : DirectFET_ME"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Package_DirectFET"
+    ],
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Package_DirectFET-DirectFET_ME"
+    ],
+    "oompIndex": [
+        "DirectFET_ME"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

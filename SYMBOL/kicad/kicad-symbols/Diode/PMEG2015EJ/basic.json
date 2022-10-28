@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKDIODEPMEG215EJ"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Diode : PMEG2015EJ"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Diode"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Diode-PMEG2015EJ"
+    ],
+    "oompIndex": [
+        "PMEG2015EJ"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://assets.nexperia.com/documents/data-sheet/PMEG2015EH_EJ.pdf",
+                "kicadSymbolExtends": "PMEG2005EJ",
+                "kicadSymbolFootprint": "Diode_SMD:D_SOD-323F",
+                "kicadSymbolReference": "D",
+                "kicadSymbolValue": "PMEG2015EJ",
+                "kicadSymbolki_description": "20V, 1.5A very low Vf MEGA Schottky barrier rectifier, SOD-323F",
+                "kicadSymbolki_fp_filters": "D*SOD?323F*",
+                "kicadSymbolki_keywords": "forward voltage diode"
+            }
+        ]
+    ]
+}

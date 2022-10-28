@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKMCUNXPS8MC9S8SH8XFK"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "MCU_NXP_S08 : MC9S08SH8xFK"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "MCU_NXP_S08"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-MCU_NXP_S08-MC9S08SH8xFK"
+    ],
+    "oompIndex": [
+        "MC9S08SH8xFK"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://cache.nxp.com/files/microcontrollers/doc/data_sheet/MC9S08SH8.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_DFN_QFN:QFN-24-1EP_4x4mm_P0.5mm_EP2.6x2.6mm",
+                "kicadSymbolReference": "IC",
+                "kicadSymbolValue": "MC9S08SH8xFK",
+                "kicadSymbolki_description": "8-bit General Purpose Microcontroller, S08 core, 8kB Flash, 512B RAM, QFN-24",
+                "kicadSymbolki_fp_filters": "QFN*4x4mm*P0.5mm*",
+                "kicadSymbolki_keywords": "NXP S08 Microcontroller"
+            }
+        ]
+    ]
+}

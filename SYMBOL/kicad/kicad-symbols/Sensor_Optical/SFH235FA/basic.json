@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKSENOPTICALSFH235FA"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Sensor_Optical : SFH235FA"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Sensor_Optical"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Sensor_Optical-SFH235FA"
+    ],
+    "oompIndex": [
+        "SFH235FA"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.osram-os.com/Graphics/XPic3/00211469_0.pdf/SFH%20235%20FA.pdf",
+                "kicadSymbolExtends": "SFH225FA",
+                "kicadSymbolFootprint": "OptoDevice:Osram_SFH225",
+                "kicadSymbolReference": "D",
+                "kicadSymbolValue": "SFH235FA",
+                "kicadSymbolki_description": "Silicon PIN Photodiode with Daylight Blocking Filter",
+                "kicadSymbolki_fp_filters": "Osram*SFH225*",
+                "kicadSymbolki_keywords": "opto PIN photodiode IR"
+            }
+        ]
+    ]
+}

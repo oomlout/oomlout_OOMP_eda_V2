@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKFPGAMSEMIACT12PL44"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "FPGA_Microsemi : ACT1020PL44"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "FPGA_Microsemi"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-FPGA_Microsemi-ACT1020PL44"
+    ],
+    "oompIndex": [
+        "ACT1020PL44"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.microsemi.com/document-portal/doc_download/130666-act-1-series-fpgas-datasheet",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_LCC:PLCC-44_16.6x16.6mm_P1.27mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "ACT1020PL44",
+                "kicadSymbolki_description": "ACT1020-PL44, Actel ACT1 FPGA, PLCC-44",
+                "kicadSymbolki_fp_filters": "*PLCC*16.6x16.6mm*P1.27mm*",
+                "kicadSymbolki_keywords": "Actel FPGA"
+            }
+        ]
+    ]
+}

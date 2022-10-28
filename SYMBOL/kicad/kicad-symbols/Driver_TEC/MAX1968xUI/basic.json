@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKDRIVERTECMAX1968XUI"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Driver_TEC : MAX1968xUI"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Driver_TEC"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Driver_TEC-MAX1968xUI"
+    ],
+    "oompIndex": [
+        "MAX1968xUI"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://datasheets.maximintegrated.com/en/ds/MAX1968-MAX1969.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_SO:HTSSOP-28-1EP_4.4x9.7mm_P0.65mm_EP2.85x5.4mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "MAX1968xUI",
+                "kicadSymbolki_description": "Power Driver for Peltier TEC Modules, +-3A, HTSSOP-28",
+                "kicadSymbolki_fp_filters": "HTSSOP*4.4x9.7mm*P0.65mm*",
+                "kicadSymbolki_keywords": "thermoelectric cooler"
+            }
+        ]
+    ]
+}

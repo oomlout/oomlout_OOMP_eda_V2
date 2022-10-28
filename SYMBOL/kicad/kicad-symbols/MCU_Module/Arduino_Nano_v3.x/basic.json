@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKMCUMOARDNANOV3X"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "MCU_Module : Arduino_Nano_v3.x"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "MCU_Module"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-MCU_Module-Arduino_Nano_v3.x"
+    ],
+    "oompIndex": [
+        "Arduino_Nano_v3.x"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.mouser.com/pdfdocs/Gravitech_Arduino_Nano3_0.pdf",
+                "kicadSymbolExtends": "Arduino_Nano_v2.x",
+                "kicadSymbolFootprint": "Module:Arduino_Nano",
+                "kicadSymbolReference": "A",
+                "kicadSymbolValue": "Arduino_Nano_v3.x",
+                "kicadSymbolki_description": "Arduino Nano v3.x",
+                "kicadSymbolki_fp_filters": "Arduino*Nano*",
+                "kicadSymbolki_keywords": "Arduino nano microcontroller module USB"
+            }
+        ]
+    ]
+}

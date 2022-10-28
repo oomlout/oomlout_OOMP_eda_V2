@@ -1,0 +1,60 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKSIMULATIONSPICEITRNOISE"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Simulation_SPICE : ITRNOISE"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Simulation_SPICE"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Simulation_SPICE-ITRNOISE"
+    ],
+    "oompIndex": [
+        "ITRNOISE"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "~",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "",
+                "kicadSymbolReference": "I",
+                "kicadSymbolSpice_Model": "trnoise(20n 0.5n 0 0)",
+                "kicadSymbolSpice_Netlist_Enabled": "Y",
+                "kicadSymbolSpice_Primitive": "I",
+                "kicadSymbolValue": "ITRNOISE",
+                "kicadSymbolki_description": "Current source, transient noise",
+                "kicadSymbolki_keywords": "simulation"
+            }
+        ]
+    ]
+}

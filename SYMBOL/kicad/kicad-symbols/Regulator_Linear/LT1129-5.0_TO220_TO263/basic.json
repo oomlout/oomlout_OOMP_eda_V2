@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKREGULATORLINEARLT11295TO22TO263"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Regulator_Linear : LT1129-5.0_TO220_TO263"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Regulator_Linear"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT1129-5.0_TO220_TO263"
+    ],
+    "oompIndex": [
+        "LT1129-5.0_TO220_TO263"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/112935ff.pdf",
+                "kicadSymbolExtends": "LT1129-3.3_TO220_TO263",
+                "kicadSymbolFootprint": "",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "LT1129-5.0_TO220_TO263",
+                "kicadSymbolki_description": "700mA Micropower Low Dropout Linear Regulator, 5.0V output voltage, TO-220-5/TO-263-5",
+                "kicadSymbolki_fp_filters": "TO?220*Vertical*StaggerOdd* TO?263*TabPin3*",
+                "kicadSymbolki_keywords": "LDO Linear Regulator positive fixed"
+            }
+        ]
+    ]
+}

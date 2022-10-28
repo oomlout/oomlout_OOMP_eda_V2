@@ -1,0 +1,53 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": null,
+            "description": "Symbol, CC-PublicDomain, SilkScreen Top, Big,",
+            "name": "Symbol_CC-PublicDomain_SilkScreenTop_Big",
+            "pins": {},
+            "tags": "Symbol, CC-PublicDomain, SilkScreen Top, Big,"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKSZSYCCPUBLICDOMAINSILKSCREENTOPBIG"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Symbol : Symbol_CC-PublicDomain_SilkScreenTop_Big"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Symbol"
+    ],
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Symbol-Symbol_CC-PublicDomain_SilkScreenTop_Big"
+    ],
+    "oompIndex": [
+        "Symbol_CC-PublicDomain_SilkScreenTop_Big"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

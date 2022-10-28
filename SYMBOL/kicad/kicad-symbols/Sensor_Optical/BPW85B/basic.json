@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKSENOPTICALBPW85B"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Sensor_Optical : BPW85B"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Sensor_Optical"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Sensor_Optical-BPW85B"
+    ],
+    "oompIndex": [
+        "BPW85B"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.vishay.com/docs/81531/bpw85a.pdf",
+                "kicadSymbolExtends": "SFH309",
+                "kicadSymbolFootprint": "LED_THT:LED_D3.0mm_Clear",
+                "kicadSymbolReference": "Q",
+                "kicadSymbolValue": "BPW85B",
+                "kicadSymbolki_description": "Silicon NPN Phototransistor, Ica = 1.5-4mA, T-1",
+                "kicadSymbolki_fp_filters": "LED*3.0mm*Clear*",
+                "kicadSymbolki_keywords": "npn phototransistor"
+            }
+        ]
+    ]
+}

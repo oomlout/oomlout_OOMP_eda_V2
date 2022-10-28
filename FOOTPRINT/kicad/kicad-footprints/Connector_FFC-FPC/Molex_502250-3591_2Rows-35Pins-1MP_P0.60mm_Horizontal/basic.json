@@ -1,0 +1,57 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "smd",
+            "description": "Molex Molex 0.30mm Pitch Easy-On BackFlip Type FFC/FPC, 502250-3591, 35 Circuits (http://www.molex.com/pdm_docs/sd/5022503591_sd.pdf), generated with kicad-footprint-generator",
+            "name": "Molex_502250-3591_2Rows-35Pins-1MP_P0.60mm_Horizontal",
+            "pins": {
+                "shape": "rect",
+                "type": "smd"
+            },
+            "tags": "connector Molex  top entry",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/Connector_FFC-FPC.3dshapes/Molex_502250-3591_2Rows-35Pins-1MP_P0.60mm_Horizontal.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKCNFFCFPCMX522535912ROWS35PINS1MPP6HORIZONTAL"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Connector_FFC-FPC : Molex_502250-3591_2Rows-35Pins-1MP_P0.60mm_Horizontal"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Connector_FFC-FPC"
+    ],
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Connector_FFC-FPC-Molex_502250-3591_2Rows-35Pins-1MP_P0.60mm_Horizontal"
+    ],
+    "oompIndex": [
+        "Molex_502250-3591_2Rows-35Pins-1MP_P0.60mm_Horizontal"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

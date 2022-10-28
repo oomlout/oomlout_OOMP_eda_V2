@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKLOGICLEVELTRANSLATORTXB34RUT"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Logic_LevelTranslator : TXB0304RUT"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Logic_LevelTranslator"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Logic_LevelTranslator-TXB0304RUT"
+    ],
+    "oompIndex": [
+        "TXB0304RUT"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.ti.com/lit/ds/symlink/txb0304.pdf",
+                "kicadSymbolExtends": "TXB0104RUT",
+                "kicadSymbolFootprint": "Package_DFN_QFN:Texas_R_PUQFN-N12",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "TXB0304RUT",
+                "kicadSymbolki_description": "4-Bit Bidirectional Voltage-Level Translator, Auto Direction Sensing, 0.9 - 3.6V APort, 0.9 - 3.6V BPort, Active High Output Enable, Texas_PUQFN-12",
+                "kicadSymbolki_fp_filters": "Texas*R*PUQFN*N12*",
+                "kicadSymbolki_keywords": "Level-Shifter CMOS-TTL-Translation"
+            }
+        ]
+    ]
+}

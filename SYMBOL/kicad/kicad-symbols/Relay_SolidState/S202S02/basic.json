@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKRELAYSOLIDSTATES22S2"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Relay_SolidState : S202S02"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Relay_SolidState"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Relay_SolidState-S202S02"
+    ],
+    "oompIndex": [
+        "S202S02"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.sharp-world.com/products/device/lineup/data/pdf/datasheet/s102s02_e.pdf",
+                "kicadSymbolExtends": "S102S02",
+                "kicadSymbolFootprint": "Package_SIP:SIP4_Sharp-SSR_P7.62mm_Straight",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "S202S02",
+                "kicadSymbolki_description": "Zero Cross Opto-Triac, Vdrm 600V, Ift 8mA, IT 8A",
+                "kicadSymbolki_fp_filters": "SIP4*Sharp*SSR*P7.62mm*",
+                "kicadSymbolki_keywords": "Opto-Triac Opto Triac Zero Cross Solid State Relays"
+            }
+        ]
+    ]
+}

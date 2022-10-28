@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZK4XXX4528"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "4xxx : 4528"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "4xxx"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-4xxx-4528"
+    ],
+    "oompIndex": [
+        "4528"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://datasheet.octopart.com/CD4528BCN-Fairchild-datasheet-143503.pdf",
+                "kicadSymbolExtends": "4538",
+                "kicadSymbolFootprint": "",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "4528",
+                "kicadSymbolki_description": "Monostable",
+                "kicadSymbolki_fp_filters": "DIP?16*",
+                "kicadSymbolki_keywords": "CMOS"
+            }
+        ]
+    ]
+}

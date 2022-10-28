@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKRFAMPLIFIERPGA3275"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "RF_Amplifier : PGA-32-75"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "RF_Amplifier"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-RF_Amplifier-PGA-32-75"
+    ],
+    "oompIndex": [
+        "PGA-32-75"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.minicircuits.com/pdfs/PGA-32-75+.pdf",
+                "kicadSymbolExtends": "SPF5189Z",
+                "kicadSymbolFootprint": "Package_TO_SOT_SMD:SOT-89-3",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "PGA-32-75",
+                "kicadSymbolki_description": "5-300MHz +15.6dB CATV Amplifier, SOT-89",
+                "kicadSymbolki_fp_filters": "SOT?89*",
+                "kicadSymbolki_keywords": "RF amplifier"
+            }
+        ]
+    ]
+}

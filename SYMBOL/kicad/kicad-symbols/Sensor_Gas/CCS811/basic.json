@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKSENGASCCS811"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Sensor_Gas : CCS811"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Sensor_Gas"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Sensor_Gas-CCS811"
+    ],
+    "oompIndex": [
+        "CCS811"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://ams.com/eng/Products/Environmental-Sensors/Air-Quality-Sensors/CCS811",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_LGA:AMS_LGA-10-1EP_2.7x4mm_P0.6mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "CCS811",
+                "kicadSymbolki_description": "Ultra-low power digital gas sensor for monitoring indoor air quality",
+                "kicadSymbolki_fp_filters": "AMS?LGA*EP*2.7x4mm*P0.6mm*",
+                "kicadSymbolki_keywords": "metal oxide gas sensor MOX volatile organix comounds VOC I2C"
+            }
+        ]
+    ]
+}

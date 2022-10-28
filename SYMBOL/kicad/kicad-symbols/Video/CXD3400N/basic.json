@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKVIDEOCXD34N"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Video : CXD3400N"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Video"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Video-CXD3400N"
+    ],
+    "oompIndex": [
+        "CXD3400N"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "videocxd3400n.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "CXD3400N",
+                "kicadSymbolki_description": "6-channel Vertical Clock Driver for CCD Image Sensor, SSOP-20",
+                "kicadSymbolki_fp_filters": "SSOP*",
+                "kicadSymbolki_keywords": "CCD Clock Driver"
+            }
+        ]
+    ]
+}

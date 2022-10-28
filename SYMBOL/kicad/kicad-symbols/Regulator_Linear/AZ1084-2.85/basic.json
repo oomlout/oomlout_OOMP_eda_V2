@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKREGULATORLINEARAZ184285"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Regulator_Linear : AZ1084-2.85"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Regulator_Linear"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Regulator_Linear-AZ1084-2.85"
+    ],
+    "oompIndex": [
+        "AZ1084-2.85"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.diodes.com/assets/Datasheets/AZ1084.pdf",
+                "kicadSymbolExtends": "AZ1084-1.2",
+                "kicadSymbolFootprint": "",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "AZ1084-2.85",
+                "kicadSymbolki_description": "5A 12V Fixed LDO Linear Regulator, 1.5V, TO-220/TO-252/TO-263",
+                "kicadSymbolki_fp_filters": "TO?220* TO?252* TO?263*",
+                "kicadSymbolki_keywords": "Fixed Voltage Regulator 5A Positive LDO"
+            }
+        ]
+    ]
+}

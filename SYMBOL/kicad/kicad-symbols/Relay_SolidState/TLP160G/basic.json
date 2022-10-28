@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKRELAYSOLIDSTATETLP16G"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Relay_SolidState : TLP160G"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Relay_SolidState"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Relay_SolidState-TLP160G"
+    ],
+    "oompIndex": [
+        "TLP160G"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://toshiba.semicon-storage.com/info/docget.jsp?did=16916&prodName=TLP160G",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_SO:MFSOP6-4_4.4x3.6mm_P1.27mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "TLP160G",
+                "kicadSymbolki_description": "Random Phase Opto-Triac, Vdrm 400V, Ift 5mA, SOP6",
+                "kicadSymbolki_fp_filters": "MFSOP6*4.4x3.6mm*P1.27mm*",
+                "kicadSymbolki_keywords": "Opto-Triac Opto Triac Random"
+            }
+        ]
+    ]
+}

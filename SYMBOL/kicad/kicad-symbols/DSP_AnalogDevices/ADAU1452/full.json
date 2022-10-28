@@ -1,0 +1,81 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKDSPANALOGDEVICESADAU1452"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "DSP_AnalogDevices : ADAU1452"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "DSP_AnalogDevices"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/DSP_AnalogDevices/ADAU1452/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/DSP_AnalogDevices/ADAU1452/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/DSP_AnalogDevices/ADAU1452/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/DSP_AnalogDevices/ADAU1452/details.py"
+        ],
+        "imagePng": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/DSP_AnalogDevices/ADAU1452/image.png"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/DSP_AnalogDevices/ADAU1452/basic.json"
+        ],
+        "readme": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/DSP_AnalogDevices/ADAU1452/README.md"
+        ]
+    },
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-DSP_AnalogDevices-ADAU1452"
+    ],
+    "oompIndex": [
+        "ADAU1452"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/ADAU1452_1451_1450.pdf",
+                "kicadSymbolExtends": "ADAU1450",
+                "kicadSymbolFootprint": "Package_CSP:LFCSP-72-1EP_10x10mm_P0.5mm_EP5.3x5.3mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "ADAU1452",
+                "kicadSymbolki_description": "SigmaDSP SigmaDSP Digital Audio Processor, 294.912 MHz, 40kword Data RAM, I2C/SPI, S/PDIF I/O, 16-Channel ASRC, LFCSP-72",
+                "kicadSymbolki_fp_filters": "LFCSP*1EP*10x10mm*P0.5mm*",
+                "kicadSymbolki_keywords": "sigmadsp audio"
+            }
+        ]
+    ]
+}

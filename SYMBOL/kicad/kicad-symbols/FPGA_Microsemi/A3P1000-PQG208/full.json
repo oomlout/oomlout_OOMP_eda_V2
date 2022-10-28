@@ -1,0 +1,81 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKFPGAMSEMIA3P1PQG28"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "FPGA_Microsemi : A3P1000-PQG208"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "FPGA_Microsemi"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/FPGA_Microsemi/A3P1000-PQG208/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/FPGA_Microsemi/A3P1000-PQG208/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/FPGA_Microsemi/A3P1000-PQG208/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/FPGA_Microsemi/A3P1000-PQG208/details.py"
+        ],
+        "imagePng": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/FPGA_Microsemi/A3P1000-PQG208/image.png"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/FPGA_Microsemi/A3P1000-PQG208/basic.json"
+        ],
+        "readme": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/FPGA_Microsemi/A3P1000-PQG208/README.md"
+        ]
+    },
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-FPGA_Microsemi-A3P1000-PQG208"
+    ],
+    "oompIndex": [
+        "A3P1000-PQG208"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.microsemi.com/document-portal/doc_download/130704-proasic3-flash-family-fpgas-datasheet",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_QFP:PQFP-208_28x28mm_P0.5mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "A3P1000-PQG208",
+                "kicadSymbolki_description": "Actel ProASIC3 Flash Family FPGAs, 1000k Gates, 208pin QFP",
+                "kicadSymbolki_fp_filters": "*PQFP*28x28mm*P0.5mm*",
+                "kicadSymbolki_keywords": "ProASIC3 ACTEL FLASH"
+            }
+        ]
+    ]
+}

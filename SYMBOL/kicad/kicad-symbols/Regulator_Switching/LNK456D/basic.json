@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKREGULATORSWITCHINGLNK456D"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Regulator_Switching : LNK456D"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Regulator_Switching"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK456D"
+    ],
+    "oompIndex": [
+        "LNK456D"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.powerint.com/sites/default/files/product-docs/linkswitch-pl_family_datasheet.pdf",
+                "kicadSymbolExtends": "LNK454D",
+                "kicadSymbolFootprint": "Package_SO:PowerIntegrations_SO-8C",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "LNK456D",
+                "kicadSymbolki_description": "LinkSwitch-PL Family, 6W Output Power, SO-8C",
+                "kicadSymbolki_fp_filters": "PowerIntegrations?SO?8C*",
+                "kicadSymbolki_keywords": "LED Driver IC with TRIAC Dimming, Single-Stage PFC and Constant Current Control for Non-Isolated Applications"
+            }
+        ]
+    ]
+}

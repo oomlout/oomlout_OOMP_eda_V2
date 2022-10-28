@@ -1,0 +1,89 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "smd",
+            "description": "LFCSP, exposed pad, Analog Devices (http://www.analog.com/media/en/technical-documentation/data-sheets/ADL5542.pdf)",
+            "name": "Analog_LFCSP-8-1EP_3x3mm_P0.5mm_EP1.53x1.85mm",
+            "pins": {
+                "shape": "rect",
+                "type": "smd"
+            },
+            "tags": "LFCSP 8 0.5",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/Package_CSP.3dshapes/LFCSP-8-1EP_3x3mm_P0.5mm_EP1.53x1.85mm.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKCSPANALOGLFCSP81EP3X3P5EP153X185"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Package_CSP : Analog_LFCSP-8-1EP_3x3mm_P0.5mm_EP1.53x1.85mm"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Package_CSP"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_CSP/Analog_LFCSP-8-1EP_3x3mm_P0.5mm_EP1.53x1.85mm/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_CSP/Analog_LFCSP-8-1EP_3x3mm_P0.5mm_EP1.53x1.85mm/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_CSP/Analog_LFCSP-8-1EP_3x3mm_P0.5mm_EP1.53x1.85mm/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_CSP/Analog_LFCSP-8-1EP_3x3mm_P0.5mm_EP1.53x1.85mm/details.py"
+        ],
+        "imagePng": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_CSP/Analog_LFCSP-8-1EP_3x3mm_P0.5mm_EP1.53x1.85mm/image.png"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_CSP/Analog_LFCSP-8-1EP_3x3mm_P0.5mm_EP1.53x1.85mm/basic.json"
+        ],
+        "kicadPcb3d": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_CSP/Analog_LFCSP-8-1EP_3x3mm_P0.5mm_EP1.53x1.85mm/kicadPcb3d.png"
+        ],
+        "kicadPcb3dBack": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_CSP/Analog_LFCSP-8-1EP_3x3mm_P0.5mm_EP1.53x1.85mm/kicadPcb3dBack.png"
+        ],
+        "kicadPcb3dFront": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_CSP/Analog_LFCSP-8-1EP_3x3mm_P0.5mm_EP1.53x1.85mm/kicadPcb3dFront.png"
+        ],
+        "readme": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_CSP/Analog_LFCSP-8-1EP_3x3mm_P0.5mm_EP1.53x1.85mm/README.md"
+        ]
+    },
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Package_CSP-Analog_LFCSP-8-1EP_3x3mm_P0.5mm_EP1.53x1.85mm"
+    ],
+    "oompIndex": [
+        "Analog_LFCSP-8-1EP_3x3mm_P0.5mm_EP1.53x1.85mm"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

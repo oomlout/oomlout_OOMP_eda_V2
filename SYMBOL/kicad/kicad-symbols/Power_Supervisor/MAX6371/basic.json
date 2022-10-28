@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKPOWERSUPERVISORMAX6371"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Power_Supervisor : MAX6371"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Power_Supervisor"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Power_Supervisor-MAX6371"
+    ],
+    "oompIndex": [
+        "MAX6371"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://datasheets.maximintegrated.com/en/ds/MAX6369-MAX6374.pdf",
+                "kicadSymbolExtends": "MAX6369",
+                "kicadSymbolFootprint": "Package_TO_SOT_SMD:SOT-23-8",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "MAX6371",
+                "kicadSymbolki_description": "Precision Pin-Selectable Watchdog Timer, 200us to 60s, SOT-23-8",
+                "kicadSymbolki_fp_filters": "SOT?23*",
+                "kicadSymbolki_keywords": "watchdog supervisor"
+            }
+        ]
+    ]
+}

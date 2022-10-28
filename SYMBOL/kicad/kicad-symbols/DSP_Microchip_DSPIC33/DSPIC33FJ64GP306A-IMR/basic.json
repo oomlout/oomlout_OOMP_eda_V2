@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKDSPMCHIPDSPIC33DSPIC33FJ64GP36AIMR"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "DSP_Microchip_DSPIC33 : DSPIC33FJ64GP306A-IMR"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "DSP_Microchip_DSPIC33"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-DSP_Microchip_DSPIC33-DSPIC33FJ64GP306A-IMR"
+    ],
+    "oompIndex": [
+        "DSPIC33FJ64GP306A-IMR"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/70593d.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_DFN_QFN:QFN-64-1EP_9x9mm_P0.5mm_EP5.4x5.4mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "DSPIC33FJ64GP306A-IMR",
+                "kicadSymbolki_description": "40MIPS, 64k Flash, 16k SRAM, QFN-64",
+                "kicadSymbolki_fp_filters": "QFN*9x9mm*P0.5mm*",
+                "kicadSymbolki_keywords": "16-bit Digital Signal Controller Microchip dsPIC"
+            }
+        ]
+    ]
+}

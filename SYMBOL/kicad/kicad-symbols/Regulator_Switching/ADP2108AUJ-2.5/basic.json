@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKREGULATORSWITCHINGADP218AUJ25"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Regulator_Switching : ADP2108AUJ-2.5"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Regulator_Switching"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Regulator_Switching-ADP2108AUJ-2.5"
+    ],
+    "oompIndex": [
+        "ADP2108AUJ-2.5"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/ADP2108.pdf",
+                "kicadSymbolExtends": "ADP2108AUJ-1.0",
+                "kicadSymbolFootprint": "Package_TO_SOT_SMD:TSOT-23-5",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "ADP2108AUJ-2.5",
+                "kicadSymbolki_description": "3MHz switching bucK regulator, 600mA 2.5V output voltage,",
+                "kicadSymbolki_fp_filters": "TSOT?23*",
+                "kicadSymbolki_keywords": "Voltage regulator switching buck fixed output analog"
+            }
+        ]
+    ]
+}

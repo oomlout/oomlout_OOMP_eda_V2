@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKCONMGJ3T241555MC"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Converter_DCDC : MGJ3T24150505MC"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Converter_DCDC"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Converter_DCDC-MGJ3T24150505MC"
+    ],
+    "oompIndex": [
+        "MGJ3T24150505MC"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://power.murata.com/datasheet?/data/power/ncl/kdc_mgj3.pdf",
+                "kicadSymbolExtends": "MGJ3T05150505MC",
+                "kicadSymbolFootprint": "Converter_DCDC:Converter_DCDC_Murata_MGJ3",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "MGJ3T24150505MC",
+                "kicadSymbolki_description": "5.2kVDC Isolated 3W Gate Drive, 18-36V Vin, +15V/-5V or +15V/-10V or +20V/-5V Vout",
+                "kicadSymbolki_fp_filters": "Converter*DCDC*Murata*MGJ3*",
+                "kicadSymbolki_keywords": "DC/DC converter"
+            }
+        ]
+    ]
+}

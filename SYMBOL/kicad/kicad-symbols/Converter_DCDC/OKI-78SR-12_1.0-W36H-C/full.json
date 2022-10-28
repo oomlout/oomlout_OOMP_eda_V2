@@ -1,0 +1,81 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKCONOKI78SR121W36HC"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Converter_DCDC : OKI-78SR-12_1.0-W36H-C"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Converter_DCDC"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_DCDC/OKI-78SR-12_1.0-W36H-C/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_DCDC/OKI-78SR-12_1.0-W36H-C/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_DCDC/OKI-78SR-12_1.0-W36H-C/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_DCDC/OKI-78SR-12_1.0-W36H-C/details.py"
+        ],
+        "imagePng": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_DCDC/OKI-78SR-12_1.0-W36H-C/image.png"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_DCDC/OKI-78SR-12_1.0-W36H-C/basic.json"
+        ],
+        "readme": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_DCDC/OKI-78SR-12_1.0-W36H-C/README.md"
+        ]
+    },
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Converter_DCDC-OKI-78SR-12_1.0-W36H-C"
+    ],
+    "oompIndex": [
+        "OKI-78SR-12_1.0-W36H-C"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://power.murata.com/data/power/oki-78sr.pdf",
+                "kicadSymbolExtends": "OKI-78SR-3.3_1.5-W36H-C",
+                "kicadSymbolFootprint": "Converter_DCDC:Converter_DCDC_Murata_OKI-78SR_Horizontal",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "OKI-78SR-12_1.0-W36H-C",
+                "kicadSymbolki_description": "1.0A Step-Down DC/DC-Regulator, 15-36V input, 12V fixed Output Voltage, LM78xx replacement, -40\u00b0C to +85\u00b0C, OKI-78SR_Horizontal",
+                "kicadSymbolki_fp_filters": "Converter*DCDC*Murata*OKI*78SR*Horizontal*",
+                "kicadSymbolki_keywords": "dc-dc murata Step-Down DC/DC-Regulator"
+            }
+        ]
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKTRANSISTORBJTMAT2"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Transistor_BJT : MAT02"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Transistor_BJT"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Transistor_BJT-MAT02"
+    ],
+    "oompIndex": [
+        "MAT02"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.elenota.pl/datasheet_download/93431/MAT02",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_TO_SOT_THT:TO-78-6",
+                "kicadSymbolReference": "Q",
+                "kicadSymbolValue": "MAT02",
+                "kicadSymbolki_description": "20mA Ic, 40V Vce, Precision Dual Monolithic Low Noise, Low Offset Transistor, TO-78",
+                "kicadSymbolki_fp_filters": "TO?78*",
+                "kicadSymbolki_keywords": "Precision Dual Monolithic Transistor Low Noise EOL"
+            }
+        ]
+    ]
+}

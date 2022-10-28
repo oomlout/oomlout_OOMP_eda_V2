@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKSWITCHSWMEC5GL"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Switch : SW_MEC_5G_LED"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Switch"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Switch-SW_MEC_5G_LED"
+    ],
+    "oompIndex": [
+        "SW_MEC_5G_LED"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "",
+                "kicadSymbolReference": "SW",
+                "kicadSymbolValue": "SW_MEC_5G_LED",
+                "kicadSymbolki_description": "MEC 5G single pole normally-open illuminated tactile switch",
+                "kicadSymbolki_fp_filters": "SW*MEC*5G*",
+                "kicadSymbolki_keywords": "switch normally-open pushbutton push-button LED"
+            }
+        ]
+    ]
+}

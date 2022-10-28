@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKSENCURRENTCQ292"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Sensor_Current : CQ-2092"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Sensor_Current"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Sensor_Current-CQ-2092"
+    ],
+    "oompIndex": [
+        "CQ-2092"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.akm.com/akm/en/file/datasheet/CQ-2092.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Sensor_Current:AKM_CQ_7S",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "CQ-2092",
+                "kicadSymbolki_description": "High-Speed Small-Sized Current Sensor, Bidirectional, -21A to +21A, 100mV/A, CQ-7S",
+                "kicadSymbolki_fp_filters": "AKM*CQ*S*",
+                "kicadSymbolki_keywords": "hall effect current sensor"
+            }
+        ]
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKRELAYSOLIDSTATE3481748"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Relay_SolidState : 34.81-7048"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Relay_SolidState"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Relay_SolidState-34.81-7048"
+    ],
+    "oompIndex": [
+        "34.81-7048"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.us.liteon.com/downloads/LTV-817-827-847.PDF",
+                "kicadSymbolExtends": "34.81-9024",
+                "kicadSymbolFootprint": "OptoDevice:Finder_34.81",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "34.81-7048",
+                "kicadSymbolki_description": "Ultra-Slim Solid-State Relay, 0.1A, 48V DC output switching",
+                "kicadSymbolki_fp_filters": "Finder*34.81*",
+                "kicadSymbolki_keywords": "NPN DC Optocoupler"
+            }
+        ]
+    ]
+}

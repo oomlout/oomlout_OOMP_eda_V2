@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKDIODEUF543"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Diode : UF5403"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Diode"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Diode-UF5403"
+    ],
+    "oompIndex": [
+        "UF5403"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.vishay.com/docs/88756/uf5400.pdf",
+                "kicadSymbolExtends": "1N4001",
+                "kicadSymbolFootprint": "Diode_THT:D_DO-201AD_P15.24mm_Horizontal",
+                "kicadSymbolReference": "D",
+                "kicadSymbolValue": "UF5403",
+                "kicadSymbolki_description": "300V 3A Soft Recovery Ultrafast Rectifier Diode, DO-201AD",
+                "kicadSymbolki_fp_filters": "D*DO?201AD*",
+                "kicadSymbolki_keywords": "diode"
+            }
+        ]
+    ]
+}

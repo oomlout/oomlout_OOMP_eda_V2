@@ -1,0 +1,57 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "smd",
+            "description": "http://www.skyworksinc.com/uploads/documents/SKY65404_31_201512K.pdf",
+            "name": "Skyworks_SKY65404-31",
+            "pins": {
+                "shape": "roundrect",
+                "type": "smd"
+            },
+            "tags": "Skyworks",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/RF.3dshapes/Skyworks_SKY65404-31.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKRFSKYWORKSSKY654431"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "RF : Skyworks_SKY65404-31"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "RF"
+    ],
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-RF-Skyworks_SKY65404-31"
+    ],
+    "oompIndex": [
+        "Skyworks_SKY65404-31"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

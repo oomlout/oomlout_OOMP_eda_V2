@@ -1,0 +1,57 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "smd",
+            "description": "Molex CLIK-Mate series connector, 502585-0470 (http://www.molex.com/pdm_docs/sd/5025850270_sd.pdf), generated with kicad-footprint-generator",
+            "name": "Molex_CLIK-Mate_502585-0470_1x04-1MP_P1.50mm_Horizontal",
+            "pins": {
+                "shape": "roundrect",
+                "type": "smd"
+            },
+            "tags": "connector Molex CLIK-Mate top entry",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/Connector_Molex.3dshapes/Molex_CLIK-Mate_502585-0470_1x04-1MP_P1.50mm_Horizontal.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKCNMXMXCLIKMATE52585471X41MPP15HORIZONTAL"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Connector_Molex : Molex_CLIK-Mate_502585-0470_1x04-1MP_P1.50mm_Horizontal"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Connector_Molex"
+    ],
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_CLIK-Mate_502585-0470_1x04-1MP_P1.50mm_Horizontal"
+    ],
+    "oompIndex": [
+        "Molex_CLIK-Mate_502585-0470_1x04-1MP_P1.50mm_Horizontal"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

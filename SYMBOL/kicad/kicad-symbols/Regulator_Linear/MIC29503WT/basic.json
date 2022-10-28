@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKREGULATORLINEARMIC2953WT"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Regulator_Linear : MIC29503WT"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Regulator_Linear"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Regulator_Linear-MIC29503WT"
+    ],
+    "oompIndex": [
+        "MIC29503WT"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://ww1.microchip.com/downloads/en/devicedoc/20005685a.pdf",
+                "kicadSymbolExtends": "MIC29153WT",
+                "kicadSymbolFootprint": "Package_TO_SOT_THT:TO-220-5_P3.4x3.7mm_StaggerEven_Lead3.8mm_Vertical",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "MIC29503WT",
+                "kicadSymbolki_description": "5A low dropout linear regulator, adjustable output, TO-220",
+                "kicadSymbolki_fp_filters": "TO*220*",
+                "kicadSymbolki_keywords": "5A LDO linear voltage regulator adjustable positive"
+            }
+        ]
+    ]
+}

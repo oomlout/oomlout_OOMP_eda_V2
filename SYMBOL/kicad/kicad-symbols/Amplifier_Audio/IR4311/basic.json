@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKAMPLIFIERAUDIOIR4311"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Amplifier_Audio : IR4311"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Amplifier_Audio"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Amplifier_Audio-IR4311"
+    ],
+    "oompIndex": [
+        "IR4311"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.infineon.com/dgdl/ir4301.pdf?fileId=5546d462533600a4015355d5fc691819",
+                "kicadSymbolExtends": "IR4301",
+                "kicadSymbolFootprint": "Package_DFN_QFN:Infineon_PQFN-22-15-4EP_6x5mm_P0.65mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "IR4311",
+                "kicadSymbolki_description": "PowIRaudio Integrated Analog Input Class D Audio Amplifier, 90W/4ohm, 60V, PQFN-22",
+                "kicadSymbolki_fp_filters": "Infineon*PQFN*4EP*6x5mm*P0.65mm*",
+                "kicadSymbolki_keywords": "integrated class d amplifier"
+            }
+        ]
+    ]
+}

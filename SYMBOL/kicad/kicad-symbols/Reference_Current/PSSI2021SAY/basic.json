@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKREFERENCECURRENTPSSI221SAY"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Reference_Current : PSSI2021SAY"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Reference_Current"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Reference_Current-PSSI2021SAY"
+    ],
+    "oompIndex": [
+        "PSSI2021SAY"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://assets.nexperia.com/documents/data-sheet/PSSI2021SAY.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_TO_SOT_SMD:SOT-353_SC-70-5",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "PSSI2021SAY",
+                "kicadSymbolki_description": "Constant current source, Io 15\u00b5A to 50mA, SOT-353",
+                "kicadSymbolki_fp_filters": "SOT?353*",
+                "kicadSymbolki_keywords": "iref adjustable"
+            }
+        ]
+    ]
+}

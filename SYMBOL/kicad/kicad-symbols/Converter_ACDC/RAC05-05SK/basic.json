@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKCONRAC55SK"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Converter_ACDC : RAC05-05SK"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Converter_ACDC"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Converter_ACDC-RAC05-05SK"
+    ],
+    "oompIndex": [
+        "RAC05-05SK"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.recom-power.com/pdf/Powerline-AC-DC/RAC05-K.pdf",
+                "kicadSymbolExtends": "RAC05-3.3SK",
+                "kicadSymbolFootprint": "Converter_ACDC:Converter_ACDC_RECOM_RAC05-xxSK_THT",
+                "kicadSymbolReference": "PS",
+                "kicadSymbolValue": "RAC05-05SK",
+                "kicadSymbolki_description": "5W Single Output EMC Class B 5V 1000mA",
+                "kicadSymbolki_fp_filters": "Converter*ACDC*RECOM*RAC05*SK*",
+                "kicadSymbolki_keywords": "ac dc power supply"
+            }
+        ]
+    ]
+}

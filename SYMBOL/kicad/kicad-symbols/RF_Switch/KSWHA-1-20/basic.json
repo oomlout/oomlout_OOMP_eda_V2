@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKRFSWITCHKSWHA12"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "RF_Switch : KSWHA-1-20"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "RF_Switch"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-RF_Switch-KSWHA-1-20"
+    ],
+    "oompIndex": [
+        "KSWHA-1-20"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.minicircuits.com/pdfs/KSWHA-1-20+.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "KSWHA-1-20",
+                "kicadSymbolki_description": "SPST DC-2.0GHz absorbative switch, 50 Ohm, XX112",
+                "kicadSymbolki_fp_filters": "Mini?Circuits*XX112* SOP*1EP*4.57x4.57mm*P1.27mm*",
+                "kicadSymbolki_keywords": "RF SPST switch"
+            }
+        ]
+    ]
+}

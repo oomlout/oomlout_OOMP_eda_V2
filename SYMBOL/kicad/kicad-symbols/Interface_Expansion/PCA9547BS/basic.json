@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKINTERFACEEXPANSIONPCA9547BS"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Interface_Expansion : PCA9547BS"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Interface_Expansion"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Interface_Expansion-PCA9547BS"
+    ],
+    "oompIndex": [
+        "PCA9547BS"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.nxp.com/docs/en/data-sheet/PCA9547.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_DFN_QFN:HVQFN-24-1EP_4x4mm_P0.5mm_EP2.1x2.1mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "PCA9547BS",
+                "kicadSymbolki_description": "Low voltage 8-channel I2C switch with reset, HVQFN-24",
+                "kicadSymbolki_fp_filters": "HVQFN*4x4mm*P0.5mm*",
+                "kicadSymbolki_keywords": "Low voltage 8-channel I2C switch with reset"
+            }
+        ]
+    ]
+}

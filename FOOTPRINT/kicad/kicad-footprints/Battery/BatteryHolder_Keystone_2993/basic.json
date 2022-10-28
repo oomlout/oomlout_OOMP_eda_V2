@@ -1,0 +1,57 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "smd",
+            "description": "http://www.keyelco.com/product-pdf.cfm?p=776",
+            "name": "BatteryHolder_Keystone_2993",
+            "pins": {
+                "shape": "rect",
+                "type": "smd"
+            },
+            "tags": "Keystone type 2993 negative battery contact",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/Battery.3dshapes/BatteryHolder_Keystone_2993.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKBATBATHOLDERKEYSTONE2993"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Battery : BatteryHolder_Keystone_2993"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Battery"
+    ],
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Battery-BatteryHolder_Keystone_2993"
+    ],
+    "oompIndex": [
+        "BatteryHolder_Keystone_2993"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

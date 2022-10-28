@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKDEVICELFERRITECOUPLSLL1423"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Device : L_Ferrite_Coupled_Small_1423"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Device"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Device-L_Ferrite_Coupled_Small_1423"
+    ],
+    "oompIndex": [
+        "L_Ferrite_Coupled_Small_1423"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "~",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "",
+                "kicadSymbolReference": "L",
+                "kicadSymbolValue": "L_Ferrite_Coupled_Small_1423",
+                "kicadSymbolki_description": "Coupled inductor with ferrite core, small symbol",
+                "kicadSymbolki_fp_filters": "Choke_* *Coil* Inductor_* L_*",
+                "kicadSymbolki_keywords": "inductor choke coil reactor magnetic coupled"
+            }
+        ]
+    ]
+}

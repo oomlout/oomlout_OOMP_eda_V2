@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKLSFH4356P"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "LED : SFH4356P"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "LED"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-LED-SFH4356P"
+    ],
+    "oompIndex": [
+        "SFH4356P"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.osram-os.com/Graphics/XPic5/00181708_0.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "LED_THT:LED_D3.0mm_IRBlack",
+                "kicadSymbolReference": "D",
+                "kicadSymbolValue": "SFH4356P",
+                "kicadSymbolki_description": "Infrared LED , 3mm LED package",
+                "kicadSymbolki_fp_filters": "LED*3.0mm*IRBlack*",
+                "kicadSymbolki_keywords": "opto IR LED"
+            }
+        ]
+    ]
+}

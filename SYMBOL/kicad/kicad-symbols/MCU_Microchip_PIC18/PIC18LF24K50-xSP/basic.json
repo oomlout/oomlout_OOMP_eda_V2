@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKMCUMCHIPPIC18PIC18LF24K5XSP"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "MCU_Microchip_PIC18 : PIC18LF24K50-xSP"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "MCU_Microchip_PIC18"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC18-PIC18LF24K50-xSP"
+    ],
+    "oompIndex": [
+        "PIC18LF24K50-xSP"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://ww1.microchip.com/downloads/en/devicedoc/30000684B.pdf",
+                "kicadSymbolExtends": "PIC18F24K50-xSP",
+                "kicadSymbolFootprint": "Package_DIP:DIP-28_W7.62mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "PIC18LF24K50-xSP",
+                "kicadSymbolki_description": "16K Flash, 2K SRAM, 256 EEPROM, USB, nanoWatt XLP, 1.8V to 3.6V, SPDIP28",
+                "kicadSymbolki_fp_filters": "SPDIP*W7.62mm* DIP*W7.62mm* PDIP*W7.62mm*",
+                "kicadSymbolki_keywords": "Flash-Based 8-Bit Microcontroller XLP"
+            }
+        ]
+    ]
+}

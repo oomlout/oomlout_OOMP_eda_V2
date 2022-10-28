@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKREGULATORSWITCHINGLNK46K"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Regulator_Switching : LNK460K"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Regulator_Switching"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK460K"
+    ],
+    "oompIndex": [
+        "LNK460K"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.powerint.com/sites/default/files/product-docs/linkswitch-pl_family_datasheet.pdf",
+                "kicadSymbolExtends": "LNK457K",
+                "kicadSymbolFootprint": "Package_SO:PowerIntegrations_eSOP-12B",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "LNK460K",
+                "kicadSymbolki_description": "LinkSwitch-PL Family, 16W Output Power, eSOP-12B",
+                "kicadSymbolki_fp_filters": "PowerIntegrations?eSOP?12B*",
+                "kicadSymbolki_keywords": "LED Driver IC with TRIAC Dimming, Single-Stage PFC and Constant Current Control for Non-Isolated Applications"
+            }
+        ]
+    ]
+}

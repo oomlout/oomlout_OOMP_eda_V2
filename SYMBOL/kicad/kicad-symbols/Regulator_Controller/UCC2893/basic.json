@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKREGULATORCONTROLLERUCC2893"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Regulator_Controller : UCC2893"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Regulator_Controller"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Regulator_Controller-UCC2893"
+    ],
+    "oompIndex": [
+        "UCC2893"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.ti.com/lit/ds/symlink/ucc2893.pdf",
+                "kicadSymbolExtends": "UCC2891",
+                "kicadSymbolFootprint": "",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "UCC2893",
+                "kicadSymbolki_description": "SMPS Current-Mode Active Clamp PWM Controller, SOIC-16/TSSOP-16",
+                "kicadSymbolki_fp_filters": "SOIC*3.9x9.9mm*P1.27mm* TSSOP*4.4x5mm*P0.65mm*",
+                "kicadSymbolki_keywords": "SMPS PWM Controller"
+            }
+        ]
+    ]
+}

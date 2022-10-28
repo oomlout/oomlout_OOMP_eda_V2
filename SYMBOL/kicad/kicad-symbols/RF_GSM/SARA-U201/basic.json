@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKGSMSARAU21"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "RF_GSM : SARA-U201"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "RF_GSM"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-RF_GSM-SARA-U201"
+    ],
+    "oompIndex": [
+        "SARA-U201"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.u-blox.com/sites/default/files/SARA-U2_DataSheet_(UBX-13005287).pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "RF_GSM:ublox_SARA-G3_LGA-96",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "SARA-U201",
+                "kicadSymbolki_description": "Ublox HSPA GSM Quad-Band Communication Module, AT Command Set, AT Command Set, Worldwide , LGA-96",
+                "kicadSymbolki_fp_filters": "ublox*SARA*",
+                "kicadSymbolki_keywords": "GSM HSPA 2G 3G"
+            }
+        ]
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKSENOPTICALBPW4"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Sensor_Optical : BPW40"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Sensor_Optical"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Sensor_Optical-BPW40"
+    ],
+    "oompIndex": [
+        "BPW40"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.rcscomponents.kiev.ua/datasheets/bpw40.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "LED_THT:LED_D5.0mm_Clear",
+                "kicadSymbolReference": "Q",
+                "kicadSymbolValue": "BPW40",
+                "kicadSymbolki_description": "Phototransistor NPN",
+                "kicadSymbolki_fp_filters": "LED*D5.0mm*Clear*",
+                "kicadSymbolki_keywords": "npn phototransistor"
+            }
+        ]
+    ]
+}

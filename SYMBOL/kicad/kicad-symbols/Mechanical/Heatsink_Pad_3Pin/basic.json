@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKMECHANICALHPAD3PIN"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Mechanical : Heatsink_Pad_3Pin"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Mechanical"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Mechanical-Heatsink_Pad_3Pin"
+    ],
+    "oompIndex": [
+        "Heatsink_Pad_3Pin"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "~",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "",
+                "kicadSymbolReference": "HS",
+                "kicadSymbolValue": "Heatsink_Pad_3Pin",
+                "kicadSymbolki_description": "Heatsink with electrical connection, 3 pin",
+                "kicadSymbolki_fp_filters": "Heatsink_*",
+                "kicadSymbolki_keywords": "thermal heat temperature"
+            }
+        ]
+    ]
+}

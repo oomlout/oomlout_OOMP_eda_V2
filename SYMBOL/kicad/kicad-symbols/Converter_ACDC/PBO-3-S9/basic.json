@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKCONPBO3S9"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Converter_ACDC : PBO-3-S9"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Converter_ACDC"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Converter_ACDC-PBO-3-S9"
+    ],
+    "oompIndex": [
+        "PBO-3-S9"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.cui.com/product/resource/pbo-3.pdf",
+                "kicadSymbolExtends": "PBO-3-S3.3",
+                "kicadSymbolFootprint": "Converter_ACDC:Converter_ACDC_CUI_PBO-3-Sxx_THT_Vertical",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "PBO-3-S9",
+                "kicadSymbolki_description": "9V 0.333A 3W miniature AC-DC module-type power supply",
+                "kicadSymbolki_fp_filters": "Converter*ACDC*CUI*PBO*3*Sxx*THT*",
+                "kicadSymbolki_keywords": "ac dc power supply"
+            }
+        ]
+    ]
+}

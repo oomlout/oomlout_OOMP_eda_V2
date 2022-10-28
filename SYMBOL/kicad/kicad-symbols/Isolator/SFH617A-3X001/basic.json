@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKISOLATORSFH617A3X1"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Isolator : SFH617A-3X001"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Isolator"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Isolator-SFH617A-3X001"
+    ],
+    "oompIndex": [
+        "SFH617A-3X001"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.vishay.com/docs/83740/sfh617a.pdf",
+                "kicadSymbolExtends": "TLP785",
+                "kicadSymbolFootprint": "Package_DIP:DIP-4_W7.62mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "SFH617A-3X001",
+                "kicadSymbolki_description": "Optocoupler, Phototransistor Output, 5300 VRMS, VCEO 70V, CTR% 100-200, -55 to +110 degree Celsius, VDE, UL, BSI, FIMKO, THT PDIP-4",
+                "kicadSymbolki_fp_filters": "DIP*W7.62mm*",
+                "kicadSymbolki_keywords": "Optocoupler, Phototransistor Output, 5300 VRMS, VCEO 70V, CTR% 100-200"
+            }
+        ]
+    ]
+}

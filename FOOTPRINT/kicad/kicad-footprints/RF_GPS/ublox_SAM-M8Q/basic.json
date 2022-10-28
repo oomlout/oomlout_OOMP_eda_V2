@@ -1,0 +1,57 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "smd",
+            "description": "GPS Module, 15.5x15.5x6.3mm, https://www.u-blox.com/sites/default/files/SAM-M8Q_HardwareIntegrationManual_%28UBX-16018358%29.pdf",
+            "name": "ublox_SAM-M8Q",
+            "pins": {
+                "shape": "rect",
+                "type": "smd"
+            },
+            "tags": "ublox SAM-M8Q",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/RF_GPS.3dshapes/ublox_SAM-M8Q.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKGPSUBLOXSAMM8Q"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "RF_GPS : ublox_SAM-M8Q"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "RF_GPS"
+    ],
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-RF_GPS-ublox_SAM-M8Q"
+    ],
+    "oompIndex": [
+        "ublox_SAM-M8Q"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

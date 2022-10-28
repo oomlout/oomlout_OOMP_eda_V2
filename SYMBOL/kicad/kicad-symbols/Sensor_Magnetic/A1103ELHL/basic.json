@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKSENMAGNETICA113ELHL"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Sensor_Magnetic : A1103ELHL"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Sensor_Magnetic"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-A1103ELHL"
+    ],
+    "oompIndex": [
+        "A1103ELHL"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.allegromicro.com/-/media/files/datasheets/a110x-datasheet.ashx",
+                "kicadSymbolExtends": "A1101ELHL",
+                "kicadSymbolFootprint": "Package_TO_SOT_SMD:SOT-23W",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "A1103ELHL",
+                "kicadSymbolki_description": "Hall effect switch, unipolar, Bop=280G, Brp=225G, -40C to +85C, SOT-23W",
+                "kicadSymbolki_fp_filters": "SOT?23*",
+                "kicadSymbolki_keywords": "hall switch"
+            }
+        ]
+    ]
+}

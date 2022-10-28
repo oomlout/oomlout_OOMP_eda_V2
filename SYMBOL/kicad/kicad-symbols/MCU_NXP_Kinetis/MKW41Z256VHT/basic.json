@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKMCUNXPKINETISMKW41Z256VHT"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "MCU_NXP_Kinetis : MKW41Z256VHT"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "MCU_NXP_Kinetis"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-MCU_NXP_Kinetis-MKW41Z256VHT"
+    ],
+    "oompIndex": [
+        "MKW41Z256VHT"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.nxp.com/docs/en/data-sheet/MKW41Z512.pdf",
+                "kicadSymbolExtends": "MKW41Z512VHT",
+                "kicadSymbolFootprint": "Package_DFN_QFN:NXP_LQFN-48-1EP_7x7mm_P0.5mm_EP3.5x3.5mm_16xMask0.45x0.45_ThermalVias",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "MKW41Z256VHT",
+                "kicadSymbolki_description": "Kinetis KW41Z-2.4 GHz, Arm Cortex-M0+, 256kB Flash, 64kB SRAM, Multi Mode: Bluetooth LE and 802.15.4 Wireless Radio and generic FSK, LQFN-48",
+                "kicadSymbolki_fp_filters": "NXP*LQFN*1EP*7x7mm*P0.5mm*",
+                "kicadSymbolki_keywords": "Kinetis KW41Z ARM Cortex M0+"
+            }
+        ]
+    ]
+}

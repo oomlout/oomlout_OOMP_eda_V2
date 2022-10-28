@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKINTERFACECANLINMCP222AXXXXST"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Interface_CAN_LIN : MCP2022A-xxxxST"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Interface_CAN_LIN"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-MCP2022A-xxxxST"
+    ],
+    "oompIndex": [
+        "MCP2022A-xxxxST"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/20002298C.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_SO:TSSOP-14_4.4x5mm_P0.65mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "MCP2022A-xxxxST",
+                "kicadSymbolki_description": "LIN Transceiver with Voltage Regulator, 3.3V/5V, TSSOP-14",
+                "kicadSymbolki_fp_filters": "TSSOP*4.4x5mm*P0.65mm*",
+                "kicadSymbolki_keywords": "LIN Transceiver regulator"
+            }
+        ]
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKISOLATORACPL2145E"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Isolator : ACPL-214-500E"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Isolator"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Isolator-ACPL-214-500E"
+    ],
+    "oompIndex": [
+        "ACPL-214-500E"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://docs.broadcom.com/doc/AV02-0469EN",
+                "kicadSymbolExtends": "TLP290",
+                "kicadSymbolFootprint": "Package_SO:SOP-4_4.4x2.6mm_P1.27mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "ACPL-214-500E",
+                "kicadSymbolki_description": "AC/DC Phototransistor Optocoupler, Vce 80V, CTR 20-400%, SOP-4",
+                "kicadSymbolki_fp_filters": "SOP*4*4.4x2.6mm*P1.27mm*",
+                "kicadSymbolki_keywords": "npn ac dc ac-dc acdc phototransistor optocoupler optoisolator"
+            }
+        ]
+    ]
+}

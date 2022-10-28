@@ -1,0 +1,81 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKCONPTN782HEUK7"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Converter_DCDC : PTN78020H_EUK-7"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Converter_DCDC"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_DCDC/PTN78020H_EUK-7/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_DCDC/PTN78020H_EUK-7/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_DCDC/PTN78020H_EUK-7/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_DCDC/PTN78020H_EUK-7/details.py"
+        ],
+        "imagePng": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_DCDC/PTN78020H_EUK-7/image.png"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_DCDC/PTN78020H_EUK-7/basic.json"
+        ],
+        "readme": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Converter_DCDC/PTN78020H_EUK-7/README.md"
+        ]
+    },
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Converter_DCDC-PTN78020H_EUK-7"
+    ],
+    "oompIndex": [
+        "PTN78020H_EUK-7"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.ti.com/lit/ds/symlink/ptn78020w.pdf",
+                "kicadSymbolExtends": "PTN78020W_EUK-7",
+                "kicadSymbolFootprint": "Module:Texas_EUK_R-PDSS-T7_THT",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "PTN78020H_EUK-7",
+                "kicadSymbolki_description": "6A non-isolated switching regulator power module, 7-36V input voltage, 11.85-22V output voltage, EUK-7",
+                "kicadSymbolki_fp_filters": "Texas*EUK*R?PDSS?T7*",
+                "kicadSymbolki_keywords": "texas dc-dc converter step down buck"
+            }
+        ]
+    ]
+}

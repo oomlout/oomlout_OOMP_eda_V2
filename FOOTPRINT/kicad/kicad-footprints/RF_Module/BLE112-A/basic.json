@@ -1,0 +1,57 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "smd",
+            "description": "Class 4 Bluetooth Module with on-board antenna",
+            "name": "BLE112-A",
+            "pins": {
+                "shape": "oval",
+                "type": "smd"
+            },
+            "tags": "Bluetooth Module",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/RF_Module.3dshapes/BLE112-A.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKRFMOBLE112A"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "RF_Module : BLE112-A"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "RF_Module"
+    ],
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-RF_Module-BLE112-A"
+    ],
+    "oompIndex": [
+        "BLE112-A"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

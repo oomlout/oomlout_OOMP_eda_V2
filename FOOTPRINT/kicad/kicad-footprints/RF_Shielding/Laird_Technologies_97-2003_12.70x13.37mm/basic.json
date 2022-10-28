@@ -1,0 +1,57 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "smd",
+            "description": "Laird Technologies 97-2003 EZ PEEL Shielding Cabinet One Piece SMD 12.70x13.37mm (https://assets.lairdtech.com/home/brandworld/files/Board%20Level%20Shields%20Catalog%20Download.pdf)",
+            "name": "Laird_Technologies_97-2003_12.70x13.37mm",
+            "pins": {
+                "shape": "rect",
+                "type": "smd"
+            },
+            "tags": "Shielding Cabinet",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/RF_Shielding.3dshapes/Laird_Technologies_97-2003_12.70x13.37mm.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKRFSLAIRDTECHNOLOGIES9723127X1337"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "RF_Shielding : Laird_Technologies_97-2003_12.70x13.37mm"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "RF_Shielding"
+    ],
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-RF_Shielding-Laird_Technologies_97-2003_12.70x13.37mm"
+    ],
+    "oompIndex": [
+        "Laird_Technologies_97-2003_12.70x13.37mm"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

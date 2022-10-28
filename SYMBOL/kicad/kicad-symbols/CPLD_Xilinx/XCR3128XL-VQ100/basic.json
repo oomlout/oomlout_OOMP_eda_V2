@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKCPLDXILINXXCR3128XLVQ1"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "CPLD_Xilinx : XCR3128XL-VQ100"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "CPLD_Xilinx"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-CPLD_Xilinx-XCR3128XL-VQ100"
+    ],
+    "oompIndex": [
+        "XCR3128XL-VQ100"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.xilinx.com/support/documentation/data_sheets/ds016.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_QFP:LQFP-100_14x14mm_P0.5mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "XCR3128XL-VQ100",
+                "kicadSymbolki_description": "Xilinx CoolRunner 128-Macrocell CPLD, 3.3V, VQFP-100",
+                "kicadSymbolki_fp_filters": "LQFP*14x14mm*P0.5*",
+                "kicadSymbolki_keywords": "CPLD"
+            }
+        ]
+    ]
+}

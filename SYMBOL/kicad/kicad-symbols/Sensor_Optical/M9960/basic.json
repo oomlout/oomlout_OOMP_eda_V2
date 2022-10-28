@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKSENOPTICALM996"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Sensor_Optical : M9960"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Sensor_Optical"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Sensor_Optical-M9960"
+    ],
+    "oompIndex": [
+        "M9960"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://cdn-reichelt.de/documents/datenblatt/A500/M996011a_b.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "OptoDevice:R_LDR_5.2x5.2mm_P3.5mm_Horizontal",
+                "kicadSymbolReference": "R",
+                "kicadSymbolValue": "M9960",
+                "kicadSymbolki_description": "light dependent resistor",
+                "kicadSymbolki_fp_filters": "R*LDR*5.2x5.2mm*P3.5mm*",
+                "kicadSymbolki_keywords": "light dependent photo resistor LDR"
+            }
+        ]
+    ]
+}

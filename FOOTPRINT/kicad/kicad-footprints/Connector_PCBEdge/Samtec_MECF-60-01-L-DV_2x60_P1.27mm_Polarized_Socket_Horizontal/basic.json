@@ -1,0 +1,57 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "smd",
+            "description": "Highspeed card edge connector for 1.6mm PCBs with 60 contacts (polarized)",
+            "name": "Samtec_MECF-60-01-L-DV_2x60_P1.27mm_Polarized_Socket_Horizontal",
+            "pins": {
+                "shape": "circle",
+                "type": "np_thru_hole"
+            },
+            "tags": "conn samtec card-edge high-speed",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/Connector_PCBEdge.3dshapes/Samtec_MECF-60-01-L-DV_2x60_P1.27mm_Polarized_Socket_Horizontal.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKCNPCBEDGESAMTECMECF61LDV2X6P127POLARIZEDSOHORIZONTAL"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Connector_PCBEdge : Samtec_MECF-60-01-L-DV_2x60_P1.27mm_Polarized_Socket_Horizontal"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Connector_PCBEdge"
+    ],
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Connector_PCBEdge-Samtec_MECF-60-01-L-DV_2x60_P1.27mm_Polarized_Socket_Horizontal"
+    ],
+    "oompIndex": [
+        "Samtec_MECF-60-01-L-DV_2x60_P1.27mm_Polarized_Socket_Horizontal"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

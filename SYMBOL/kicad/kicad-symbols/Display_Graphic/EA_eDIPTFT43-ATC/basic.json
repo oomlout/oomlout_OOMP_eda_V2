@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKDIGRAPHICEAEDIPTFT43ATC"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Display_Graphic : EA_eDIPTFT43-ATC"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Display_Graphic"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Display_Graphic-EA_eDIPTFT43-ATC"
+    ],
+    "oompIndex": [
+        "EA_eDIPTFT43-ATC"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.lcd-module.com/fileadmin/eng/pdf/grafik/ediptft43-ae.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Display:EA_eDIPTFT43-ATC",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "EA_eDIPTFT43-ATC",
+                "kicadSymbolki_description": "TFT graphical display, 480x272, 16 bit colour, LED backlight, 5V VDD, RS-232, I2C or SPI",
+                "kicadSymbolki_fp_filters": "EA*eDIPTFT43*ATC*",
+                "kicadSymbolki_keywords": "display TFT LCD graphic"
+            }
+        ]
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKMCUTEXASMSP43MSP43AFE221IPW"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "MCU_Texas_MSP430 : MSP430AFE221IPW"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "MCU_Texas_MSP430"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-MCU_Texas_MSP430-MSP430AFE221IPW"
+    ],
+    "oompIndex": [
+        "MSP430AFE221IPW"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.ti.com/lit/ds/symlink/msp430afe221.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_SO:TSSOP-24_4.4x7.8mm_P0.65mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "MSP430AFE221IPW",
+                "kicadSymbolki_description": "4kB Flash, 256B RAM, TSSOP-24",
+                "kicadSymbolki_fp_filters": "TSSOP*4.4x7.8mm*P0.65mm*",
+                "kicadSymbolki_keywords": "TI MSP430 16-bit mixed signal microcontroller"
+            }
+        ]
+    ]
+}

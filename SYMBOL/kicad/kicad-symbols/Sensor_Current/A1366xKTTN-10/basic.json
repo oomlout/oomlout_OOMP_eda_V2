@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKSENCURRENTA1366XKTTN1"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Sensor_Current : A1366xKTTN-10"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Sensor_Current"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Sensor_Current-A1366xKTTN-10"
+    ],
+    "oompIndex": [
+        "A1366xKTTN-10"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.allegromicro.com/~/media/Files/Datasheets/A1366-Datasheet.ashx?la=en",
+                "kicadSymbolExtends": "A1363xKTTN-1",
+                "kicadSymbolFootprint": "Sensor_Current:Allegro_SIP-4",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "A1366xKTTN-10",
+                "kicadSymbolki_description": "Programmable Linear Hall Effect Sensor, +10mV/G, SIP-4",
+                "kicadSymbolki_fp_filters": "Allegro*SIP*",
+                "kicadSymbolki_keywords": "hall effect current monitor sensor isolated"
+            }
+        ]
+    ]
+}

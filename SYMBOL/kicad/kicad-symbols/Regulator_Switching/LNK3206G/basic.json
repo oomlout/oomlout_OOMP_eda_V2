@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKREGULATORSWITCHINGLNK326G"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Regulator_Switching : LNK3206G"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Regulator_Switching"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK3206G"
+    ],
+    "oompIndex": [
+        "LNK3206G"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://ac-dc.power.com/sites/default/files/product-docs/LinkSwitch-TN2_family_datasheet.pdf",
+                "kicadSymbolExtends": "LNK3202G",
+                "kicadSymbolFootprint": "Package_DIP:PowerIntegrations_SMD-8C",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "LNK3206G",
+                "kicadSymbolki_description": "LinkSwitch-TN2 Family, 360mA Output Current, SMD-8C",
+                "kicadSymbolki_fp_filters": "PowerIntegrations?SMD?8C*",
+                "kicadSymbolki_keywords": "Lowest Component Count, Energy-Efficient Off-Line Switcher IC"
+            }
+        ]
+    ]
+}

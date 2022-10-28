@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKDICHARACTERSA1511EWA"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Display_Character : SA15-11EWA"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Display_Character"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Display_Character-SA15-11EWA"
+    ],
+    "oompIndex": [
+        "SA15-11EWA"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.kingbrightusa.com/images/catalog/SPEC/SA15-11EWA.pdf",
+                "kicadSymbolExtends": "SA15-11SRWA",
+                "kicadSymbolFootprint": "Display_7Segment:SA15-11xxx",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "SA15-11EWA",
+                "kicadSymbolki_description": "High Efficiency Red Single-digit Numeric Display with white white diffused lens, common anode",
+                "kicadSymbolki_fp_filters": "SA15?11*",
+                "kicadSymbolki_keywords": "display LED 7-segment"
+            }
+        ]
+    ]
+}

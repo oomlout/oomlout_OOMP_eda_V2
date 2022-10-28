@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKTRADT46WT"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Transformer : ADT4-6WT"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Transformer"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Transformer-ADT4-6WT"
+    ],
+    "oompIndex": [
+        "ADT4-6WT"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.minicircuits.com/pdfs/ADT4-6WT+.pdf",
+                "kicadSymbolExtends": "ADT3-6T",
+                "kicadSymbolFootprint": "RF_Mini-Circuits:Mini-Circuits_CD636_H4.11mm",
+                "kicadSymbolReference": "TR",
+                "kicadSymbolValue": "ADT4-6WT",
+                "kicadSymbolki_description": "2-70MHz 1:4 RF Transformer, Unbalanced to Balanced Center Tap, CD637",
+                "kicadSymbolki_fp_filters": "Mini?Circuits*CD636*",
+                "kicadSymbolki_keywords": "Mini-Circuits RF Transformer"
+            }
+        ]
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKCONISU25S5"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Converter_DCDC : ISU0205S05"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Converter_DCDC"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Converter_DCDC-ISU0205S05"
+    ],
+    "oompIndex": [
+        "ISU0205S05"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.xppower.com/Portals/0/pdfs/SF_ISU02.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Converter_DCDC:Converter_DCDC_XP_POWER-ISU02_SMD",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "ISU0205S05",
+                "kicadSymbolki_description": "XP Power 2W Isolated DC/DC Converter Module, 5V Output Voltage, 4.5-12V Input Voltage",
+                "kicadSymbolki_fp_filters": "*XP?POWER*ISU02*SMD*",
+                "kicadSymbolki_keywords": "DC/DC Converter"
+            }
+        ]
+    ]
+}

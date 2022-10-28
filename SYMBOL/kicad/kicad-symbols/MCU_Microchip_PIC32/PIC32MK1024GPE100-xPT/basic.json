@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKMCUMCHIPPIC32PIC32MK124GPE1XPT"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "MCU_Microchip_PIC32 : PIC32MK1024GPE100-xPT"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "MCU_Microchip_PIC32"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC32-PIC32MK1024GPE100-xPT"
+    ],
+    "oompIndex": [
+        "PIC32MK1024GPE100-xPT"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/PIC32MK_GP_MC_Familly_Datasheet_60001402G.pdf",
+                "kicadSymbolExtends": "PIC32MK1024GPD100-xPT",
+                "kicadSymbolFootprint": "Package_QFP:TQFP-100_12x12mm_P0.4mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "PIC32MK1024GPE100-xPT",
+                "kicadSymbolki_description": "MIPS MCU, 120MHz, 1MB Flash, 256KB RAM, 2.3-3.6V, USB, TQFP-100",
+                "kicadSymbolki_fp_filters": "TQFP*12x12mm*P0.4mm*",
+                "kicadSymbolki_keywords": "32-bit MIPS MCU Microcontroller"
+            }
+        ]
+    ]
+}

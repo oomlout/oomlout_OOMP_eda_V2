@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKVAEF85"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Valve : EF85"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Valve"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Valve-EF85"
+    ],
+    "oompIndex": [
+        "EF85"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "",
+                "kicadSymbolExtends": "EF80",
+                "kicadSymbolFootprint": "Valve:Valve_Noval_P",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "EF85",
+                "kicadSymbolki_description": "pentode",
+                "kicadSymbolki_fp_filters": "VALVE*NOVAL*P*",
+                "kicadSymbolki_keywords": "pentode valve"
+            }
+        ]
+    ]
+}

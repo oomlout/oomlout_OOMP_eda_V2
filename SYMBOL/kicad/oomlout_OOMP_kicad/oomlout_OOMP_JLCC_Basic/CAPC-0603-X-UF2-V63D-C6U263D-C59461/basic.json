@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICCAPC63XUF2V63DC6U263DC59461"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "oomlout_OOMP_JLCC_Basic : CAPC-0603-X-UF2-V63D-C6U263D-C59461"
+    ],
+    "oompColor": [
+        "oomlout_OOMP_kicad"
+    ],
+    "oompDesc": [
+        "oomlout_OOMP_JLCC_Basic"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0603-X-UF2-V63D-C6U263D-C59461"
+    ],
+    "oompIndex": [
+        "CAPC-0603-X-UF2-V63D-C6U263D-C59461"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "oom.lt/C6U263D",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "oomlout_OOMP_parts:CAPC-0603-X-UF2-V63D-C6U263D-C59461",
+                "kicadSymbolReference": "C",
+                "kicadSymbolValue": "CAPC-0603-X-UF2-V63D-C6U263D-C59461",
+                "kicadSymbolki_description": "hexID: C6U263D;PARTL C-JLCC;C59461;MANUF C-XXXX;CL10A226MQ8NRNC;Unpolarized capacitor",
+                "kicadSymbolki_fp_filters": "C_*",
+                "kicadSymbolki_keywords": "cap capacitor"
+            }
+        ]
+    ]
+}

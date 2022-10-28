@@ -1,0 +1,81 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKMCUCYPRESSCY8C4247AXIM485"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "MCU_Cypress : CY8C4247AXI-M485"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "MCU_Cypress"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Cypress/CY8C4247AXI-M485/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Cypress/CY8C4247AXI-M485/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Cypress/CY8C4247AXI-M485/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Cypress/CY8C4247AXI-M485/details.py"
+        ],
+        "imagePng": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Cypress/CY8C4247AXI-M485/image.png"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Cypress/CY8C4247AXI-M485/basic.json"
+        ],
+        "readme": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Cypress/CY8C4247AXI-M485/README.md"
+        ]
+    },
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-MCU_Cypress-CY8C4247AXI-M485"
+    ],
+    "oompIndex": [
+        "CY8C4247AXI-M485"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.cypress.com/file/139956/download",
+                "kicadSymbolExtends": "CY8C4245AXI-M445",
+                "kicadSymbolFootprint": "Package_QFP:TQFP-64_14x14mm_P0.8mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "CY8C4247AXI-M485",
+                "kicadSymbolki_description": "PSoC 4200M series, 48MHz CPU, 128KB Flash, 16KB SRAM, 64-TQFP",
+                "kicadSymbolki_fp_filters": "TQFP*14x14mm*P0.8mm*",
+                "kicadSymbolki_keywords": "Cypress Microcontroller Arm CapSense IDAC LCD CAN"
+            }
+        ]
+    ]
+}

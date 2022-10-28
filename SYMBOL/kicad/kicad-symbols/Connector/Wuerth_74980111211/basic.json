@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKCNWUERTH7498111211"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Connector : Wuerth_74980111211"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Connector"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Connector-Wuerth_74980111211"
+    ],
+    "oompIndex": [
+        "Wuerth_74980111211"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.we-online.de/katalog/datasheet/74980111211.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Connector_RJ:RJ45_Wuerth_74980111211_Horizontal",
+                "kicadSymbolReference": "J",
+                "kicadSymbolValue": "Wuerth_74980111211",
+                "kicadSymbolki_description": "LAN Transformer Jack, RJ45, 10/100 BaseT",
+                "kicadSymbolki_fp_filters": "RJ45*Wuerth*74980111211*",
+                "kicadSymbolki_keywords": "lan jack transformer smt"
+            }
+        ]
+    ]
+}

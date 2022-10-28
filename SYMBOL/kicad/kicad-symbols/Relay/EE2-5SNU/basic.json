@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKRELAYEE25SNU"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Relay : EE2-5SNU"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Relay"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Relay-EE2-5SNU"
+    ],
+    "oompIndex": [
+        "EE2-5SNU"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://content.kemet.com/datasheets/KEM_R7002_EC2_EE2.pdf",
+                "kicadSymbolExtends": "EE2-3SNU",
+                "kicadSymbolFootprint": "Relay_SMD:Relay_DPDT_Kemet_EE2_NU",
+                "kicadSymbolReference": "K",
+                "kicadSymbolValue": "EE2-5SNU",
+                "kicadSymbolki_description": "General purpose signal relay, Kemet EE2 Series, DPDT (2 Form C), single coil latching, SMD, 60W/125VA, 220VDC/250VAC, 2A, 5V DC coil",
+                "kicadSymbolki_fp_filters": "Relay*DPDT*Kemet*EE2*NU*",
+                "kicadSymbolki_keywords": "signal relay double pole double throw DPDT DC coil single coil latching"
+            }
+        ]
+    ]
+}

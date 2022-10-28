@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKDRIVERMOTORTMC513ATA"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Driver_Motor : TMC5130A-TA"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Driver_Motor"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Driver_Motor-TMC5130A-TA"
+    ],
+    "oompIndex": [
+        "TMC5130A-TA"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.trinamic.com/fileadmin/assets/Products/ICs_Documents/TMC5130_datasheet_Rev1.17.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_QFP:TQFP-48-1EP_7x7mm_P0.5mm_EP5x5mm_ThermalVias",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "TMC5130A-TA",
+                "kicadSymbolki_description": "Power Driver For Stepper Motors, 2.0A, 4.75-46V, TQFP-48",
+                "kicadSymbolki_fp_filters": "TQFP*1EP*7x7mm*P0.5mm*",
+                "kicadSymbolki_keywords": "Standalone driver stepper motor"
+            }
+        ]
+    ]
+}

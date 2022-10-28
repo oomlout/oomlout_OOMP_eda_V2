@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKSENTEMPERATUREMAX31865XTP"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Sensor_Temperature : MAX31865xTP"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Sensor_Temperature"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Sensor_Temperature-MAX31865xTP"
+    ],
+    "oompIndex": [
+        "MAX31865xTP"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://datasheets.maximintegrated.com/en/ds/MAX31865.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_DFN_QFN:TQFN-20-1EP_5x5mm_P0.65mm_EP3.25x3.25mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "MAX31865xTP",
+                "kicadSymbolki_description": "RTD-to-Digital Converter, TQFN-20",
+                "kicadSymbolki_fp_filters": "TQFN*1EP*5x5mm*P0.65mm*",
+                "kicadSymbolki_keywords": "RTD SPI Temperature"
+            }
+        ]
+    ]
+}

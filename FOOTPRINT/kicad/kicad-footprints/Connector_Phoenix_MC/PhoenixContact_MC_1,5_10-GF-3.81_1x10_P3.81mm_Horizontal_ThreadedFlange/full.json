@@ -1,0 +1,89 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "through_hole",
+            "description": "Generic Phoenix Contact connector footprint for: MC_1,5/10-GF-3.81; number of pins: 10; pin pitch: 3.81mm; Angled; threaded flange || order number: 1827949 8A 160V",
+            "name": "PhoenixContact_MC_1,5_10-GF-3.81_1x10_P3.81mm_Horizontal_ThreadedFlange",
+            "pins": {
+                "shape": "roundrect",
+                "type": "thru_hole"
+            },
+            "tags": "phoenix_contact connector MC_01x10_GF_3.81mm",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/Connector_Phoenix_MC.3dshapes/PhoenixContact_MC_1,5_10-GF-3.81_1x10_P3.81mm_Horizontal_ThreadedFlange.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKCNPHOENIXMCPHOENIXCONTACTMC151GF3811X1P381HORIZONTALTHREADEDFLANGE"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Connector_Phoenix_MC : PhoenixContact_MC_1,5_10-GF-3.81_1x10_P3.81mm_Horizontal_ThreadedFlange"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Connector_Phoenix_MC"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MC/PhoenixContact_MC_1,5_10-GF-3.81_1x10_P3.81mm_Horizontal_ThreadedFlange/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MC/PhoenixContact_MC_1,5_10-GF-3.81_1x10_P3.81mm_Horizontal_ThreadedFlange/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MC/PhoenixContact_MC_1,5_10-GF-3.81_1x10_P3.81mm_Horizontal_ThreadedFlange/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MC/PhoenixContact_MC_1,5_10-GF-3.81_1x10_P3.81mm_Horizontal_ThreadedFlange/details.py"
+        ],
+        "imagePng": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MC/PhoenixContact_MC_1,5_10-GF-3.81_1x10_P3.81mm_Horizontal_ThreadedFlange/image.png"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MC/PhoenixContact_MC_1,5_10-GF-3.81_1x10_P3.81mm_Horizontal_ThreadedFlange/basic.json"
+        ],
+        "kicadPcb3d": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MC/PhoenixContact_MC_1,5_10-GF-3.81_1x10_P3.81mm_Horizontal_ThreadedFlange/kicadPcb3d.png"
+        ],
+        "kicadPcb3dBack": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MC/PhoenixContact_MC_1,5_10-GF-3.81_1x10_P3.81mm_Horizontal_ThreadedFlange/kicadPcb3dBack.png"
+        ],
+        "kicadPcb3dFront": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MC/PhoenixContact_MC_1,5_10-GF-3.81_1x10_P3.81mm_Horizontal_ThreadedFlange/kicadPcb3dFront.png"
+        ],
+        "readme": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MC/PhoenixContact_MC_1,5_10-GF-3.81_1x10_P3.81mm_Horizontal_ThreadedFlange/README.md"
+        ]
+    },
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Connector_Phoenix_MC-PhoenixContact_MC_1,5_10-GF-3.81_1x10_P3.81mm_Horizontal_ThreadedFlange"
+    ],
+    "oompIndex": [
+        "PhoenixContact_MC_1,5_10-GF-3.81_1x10_P3.81mm_Horizontal_ThreadedFlange"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

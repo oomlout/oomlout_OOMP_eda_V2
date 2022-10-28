@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKRELAYFINDER3221X"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Relay : FINDER-32.21-x000"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Relay"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Relay-FINDER-32.21-x000"
+    ],
+    "oompIndex": [
+        "FINDER-32.21-x000"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://gfinder.findernet.com/assets/Series/355/S32EN.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Relay_THT:Relay_SPDT_Finder_32.21-x000",
+                "kicadSymbolReference": "K",
+                "kicadSymbolValue": "FINDER-32.21-x000",
+                "kicadSymbolki_description": "FINDER 32.21-x000, Single Pole Relay, 6A",
+                "kicadSymbolki_fp_filters": "Relay*SPDT*Finder*32.21*x000*",
+                "kicadSymbolki_keywords": "Single Pole Relay"
+            }
+        ]
+    ]
+}

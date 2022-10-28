@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKCONOKI78SR515W36HC"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Converter_DCDC : OKI-78SR-5_1.5-W36H-C"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Converter_DCDC"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Converter_DCDC-OKI-78SR-5_1.5-W36H-C"
+    ],
+    "oompIndex": [
+        "OKI-78SR-5_1.5-W36H-C"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://power.murata.com/data/power/oki-78sr.pdf",
+                "kicadSymbolExtends": "OKI-78SR-3.3_1.5-W36H-C",
+                "kicadSymbolFootprint": "Converter_DCDC:Converter_DCDC_Murata_OKI-78SR_Horizontal",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "OKI-78SR-5_1.5-W36H-C",
+                "kicadSymbolki_description": "1.5A Step-Down DC/DC-Regulator, 7-36V input, 5V fixed Output Voltage, LM78xx replacement, -40\u00b0C to +85\u00b0C, OKI-78SR_Horizontal",
+                "kicadSymbolki_fp_filters": "Converter*DCDC*Murata*OKI*78SR*Horizontal*",
+                "kicadSymbolki_keywords": "dc-dc murata Step-Down DC/DC-Regulator"
+            }
+        ]
+    ]
+}

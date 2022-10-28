@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKBATMANAGEMENTBQ2474RGT"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Battery_Management : BQ24074RGT"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Battery_Management"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Battery_Management-BQ24074RGT"
+    ],
+    "oompIndex": [
+        "BQ24074RGT"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.ti.com/lit/ds/symlink/bq24074.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_DFN_QFN:VQFN-16-1EP_3x3mm_P0.5mm_EP1.6x1.6mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "BQ24074RGT",
+                "kicadSymbolki_description": "USB-Friendly Li-Ion Battery Charger and Power-Path Management, VQFN-16",
+                "kicadSymbolki_fp_filters": "VQFN*1EP*3x3mm*P0.5mm*",
+                "kicadSymbolki_keywords": "USB Charge"
+            }
+        ]
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKREGULATORLINEARTCR2EE24"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Regulator_Linear : TCR2EE24"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Regulator_Linear"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Regulator_Linear-TCR2EE24"
+    ],
+    "oompIndex": [
+        "TCR2EE24"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://toshiba.semicon-storage.com/info/docget.jsp?did=13794&prodName=TCR2EF45",
+                "kicadSymbolExtends": "TCR2EE11",
+                "kicadSymbolFootprint": "Package_TO_SOT_SMD:SOT-553",
+                "kicadSymbolReference": "U6",
+                "kicadSymbolValue": "TCR2EE24",
+                "kicadSymbolki_description": "200mA Low-dropout Voltage Regulator, Vout 2.4V, Vin up to 5.5V, SOT-553",
+                "kicadSymbolki_fp_filters": "SOT?553*",
+                "kicadSymbolki_keywords": "TOSHIBA LDO voltage regulator"
+            }
+        ]
+    ]
+}

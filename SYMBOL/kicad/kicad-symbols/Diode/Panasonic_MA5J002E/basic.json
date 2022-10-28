@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKDIODEPMA5J2E"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Diode : Panasonic_MA5J002E"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Diode"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Diode-Panasonic_MA5J002E"
+    ],
+    "oompIndex": [
+        "Panasonic_MA5J002E"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.semicon.panasonic.co.jp/ds4/MA5J002E_BED_discon.pdf",
+                "kicadSymbolExtends": "Rohm_UMN1N",
+                "kicadSymbolFootprint": "Package_TO_SOT_SMD:SOT-353_SC-70-5",
+                "kicadSymbolReference": "D",
+                "kicadSymbolValue": "Panasonic_MA5J002E",
+                "kicadSymbolki_description": "Quad Ultra high Speed Switching Diode Array Com K",
+                "kicadSymbolki_fp_filters": "SOT?353*",
+                "kicadSymbolki_keywords": "diode"
+            }
+        ]
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKCONTMLM115"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Converter_ACDC : TMLM10105"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Converter_ACDC"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Converter_ACDC-TMLM10105"
+    ],
+    "oompIndex": [
+        "TMLM10105"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.tracopower.com/products/tmlm.pdf",
+                "kicadSymbolExtends": "TMLM10103",
+                "kicadSymbolFootprint": "Converter_ACDC:Converter_ACDC_TRACO_TMLM-10-20_THT",
+                "kicadSymbolReference": "PS",
+                "kicadSymbolValue": "TMLM10105",
+                "kicadSymbolki_description": "5V 2000mA AC/DC low noise power module",
+                "kicadSymbolki_fp_filters": "Converter*ACDC*TRACO*TMLM*10*",
+                "kicadSymbolki_keywords": "Traco Power 10W AC-DC module power supply"
+            }
+        ]
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "smd",
+            "description": "XFBGA-36, https://www.nxp.com/docs/en/package-information/SOT1555-1.pdf",
+            "name": "XFBGA-36_3.5x3.5mm_Layout6x6_P0.5mm",
+            "pins": {
+                "shape": "circle",
+                "type": "smd"
+            },
+            "tags": "XFBGA-36",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/XFBGA-36_3.5x3.5mm_Layout6x6_P0.5mm.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKBGAXFBGA3635X35LAYOUT6X6P5"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Package_BGA : XFBGA-36_3.5x3.5mm_Layout6x6_P0.5mm"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Package_BGA"
+    ],
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Package_BGA-XFBGA-36_3.5x3.5mm_Layout6x6_P0.5mm"
+    ],
+    "oompIndex": [
+        "XFBGA-36_3.5x3.5mm_Layout6x6_P0.5mm"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

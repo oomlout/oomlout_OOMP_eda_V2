@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKRELAYRM84"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Relay : RM84"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Relay"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Relay-RM84"
+    ],
+    "oompIndex": [
+        "RM84"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.relpol.pl/en/content/download/13766/168095/file/e_RM84.pdf",
+                "kicadSymbolExtends": "FINDER-40.52",
+                "kicadSymbolFootprint": "Relay_THT:Relay_DPDT_Finder_40.52",
+                "kicadSymbolReference": "K",
+                "kicadSymbolValue": "RM84",
+                "kicadSymbolki_description": "RELPOL Dual Pole Relay, 5mm Pitch, 8A",
+                "kicadSymbolki_fp_filters": "Relay*DPDT*Finder*40.52*",
+                "kicadSymbolki_keywords": "Dual Pole Relay"
+            }
+        ]
+    ]
+}

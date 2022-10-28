@@ -1,0 +1,81 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKCPLDMCHIPATF154ASXAX44"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "CPLD_Microchip : ATF1504AS-xAx44"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "CPLD_Microchip"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/CPLD_Microchip/ATF1504AS-xAx44/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/CPLD_Microchip/ATF1504AS-xAx44/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/CPLD_Microchip/ATF1504AS-xAx44/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/CPLD_Microchip/ATF1504AS-xAx44/details.py"
+        ],
+        "imagePng": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/CPLD_Microchip/ATF1504AS-xAx44/image.png"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/CPLD_Microchip/ATF1504AS-xAx44/basic.json"
+        ],
+        "readme": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/CPLD_Microchip/ATF1504AS-xAx44/README.md"
+        ]
+    },
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-CPLD_Microchip-ATF1504AS-xAx44"
+    ],
+    "oompIndex": [
+        "ATF1504AS-xAx44"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-0950-CPLD-ATF1504AS(L)-Datasheet.pdf",
+                "kicadSymbolExtends": "ATF1502AS-xAx44",
+                "kicadSymbolFootprint": "Package_QFP:TQFP-44_10x10mm_P0.8mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "ATF1504AS-xAx44",
+                "kicadSymbolki_description": "Microchip CPLD, 64 Macrocell, 5 V, TQFP-44",
+                "kicadSymbolki_fp_filters": "TQFP*10x10mm*P0.8mm*",
+                "kicadSymbolki_keywords": "CPLD"
+            }
+        ]
+    ]
+}

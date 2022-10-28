@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKDICHARACTERLM16255K"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Display_Character : LM16255K"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Display_Character"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Display_Character-LM16255K"
+    ],
+    "oompIndex": [
+        "LM16255K"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://pdf.datasheetcatalog.com/datasheet/Sharp/mXvtrzw.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Display:LM16255",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "LM16255K",
+                "kicadSymbolki_description": "2 Lines, 12 character reflective LCD",
+                "kicadSymbolki_fp_filters": "*LM16255*",
+                "kicadSymbolki_keywords": "display LCD dot-matrix"
+            }
+        ]
+    ]
+}

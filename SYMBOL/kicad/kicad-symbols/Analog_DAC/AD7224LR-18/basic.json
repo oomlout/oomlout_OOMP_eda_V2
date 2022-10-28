@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKANALOGDACAD7224LR18"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Analog_DAC : AD7224LR-18"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Analog_DAC"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Analog_DAC-AD7224LR-18"
+    ],
+    "oompIndex": [
+        "AD7224LR-18"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.analog.com/static/imported-files/data_sheets/AD7224.pdf",
+                "kicadSymbolExtends": "AD7224KR-18",
+                "kicadSymbolFootprint": "",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "AD7224LR-18",
+                "kicadSymbolki_description": "8bit DAC, Dual or Single Supply, SOIC-18",
+                "kicadSymbolki_fp_filters": "SO*",
+                "kicadSymbolki_keywords": "8bit DAC Dual Single Supply"
+            }
+        ]
+    ]
+}

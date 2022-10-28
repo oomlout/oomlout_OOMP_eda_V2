@@ -1,0 +1,57 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKMEMORYFLASH29F1TSSP"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Memory_Flash : 29F010-TSOP-SP"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Memory_Flash"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Memory_Flash-29F010-TSOP-SP"
+    ],
+    "oompIndex": [
+        "29F010-TSOP-SP"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "29F010-TSOP-SP",
+                "kicadSymbolki_description": "Flash EEProm 128Ko (TSOP 32 pack.) 5V prog",
+                "kicadSymbolki_keywords": "EEPROM FLASH 128KO"
+            }
+        ]
+    ]
+}

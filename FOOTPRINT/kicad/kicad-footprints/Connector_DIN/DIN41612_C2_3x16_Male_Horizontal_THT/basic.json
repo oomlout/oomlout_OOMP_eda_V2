@@ -1,0 +1,57 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "through_hole",
+            "description": "DIN41612 connector, type C/2, Horizontal, 3 rows 16 pins wide, https://www.erni-x-press.com/de/downloads/kataloge/englische_kataloge/erni-din41612-iec60603-2-e.pdf",
+            "name": "DIN41612_C2_3x16_Male_Horizontal_THT",
+            "pins": {
+                "shape": "circle",
+                "type": "np_thru_hole"
+            },
+            "tags": "DIN 41612 IEC 60603 C/2",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/Connector_DIN.3dshapes/DIN41612_C2_3x16_Male_Horizontal_THT.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKCNDINDIN41612C23X16MALEHORIZONTALTHT"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Connector_DIN : DIN41612_C2_3x16_Male_Horizontal_THT"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Connector_DIN"
+    ],
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Connector_DIN-DIN41612_C2_3x16_Male_Horizontal_THT"
+    ],
+    "oompIndex": [
+        "DIN41612_C2_3x16_Male_Horizontal_THT"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

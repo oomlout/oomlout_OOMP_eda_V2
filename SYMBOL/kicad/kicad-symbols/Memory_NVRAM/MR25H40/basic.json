@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKMEMORYNVRAMMR25H4"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Memory_NVRAM : MR25H40"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Memory_NVRAM"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Memory_NVRAM-MR25H40"
+    ],
+    "oompIndex": [
+        "MR25H40"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.everspin.com/file/217/download",
+                "kicadSymbolExtends": "MR20H40",
+                "kicadSymbolFootprint": "",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "MR25H40",
+                "kicadSymbolki_description": "4Mb MRAM memory with SPI interface, DFN-8",
+                "kicadSymbolki_fp_filters": "DFN*6x5mm*P1.27mm*",
+                "kicadSymbolki_keywords": "MRAM SPI EEPROM 3.3V"
+            }
+        ]
+    ]
+}

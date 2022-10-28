@@ -1,0 +1,81 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKSWITCHSWNKKGW12LJPCF"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Switch : SW_NKK_GW12LJPCF"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Switch"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Switch/SW_NKK_GW12LJPCF/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Switch/SW_NKK_GW12LJPCF/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Switch/SW_NKK_GW12LJPCF/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Switch/SW_NKK_GW12LJPCF/details.py"
+        ],
+        "imagePng": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Switch/SW_NKK_GW12LJPCF/image.png"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Switch/SW_NKK_GW12LJPCF/basic.json"
+        ],
+        "readme": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Switch/SW_NKK_GW12LJPCF/README.md"
+        ]
+    },
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Switch-SW_NKK_GW12LJPCF"
+    ],
+    "oompIndex": [
+        "SW_NKK_GW12LJPCF"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.nkkswitches.com/pdf/gwillum.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Button_Switch_THT:SW_NKK_GW12LJP",
+                "kicadSymbolReference": "SW",
+                "kicadSymbolValue": "SW_NKK_GW12LJPCF",
+                "kicadSymbolki_description": "Switch, single pole double throw, illuminated paddle, red and green LEDs",
+                "kicadSymbolki_fp_filters": "SW*NKK*GW12LJP*",
+                "kicadSymbolki_keywords": "switch single-pole double-throw spdt ON-ON illuminated red green"
+            }
+        ]
+    ]
+}

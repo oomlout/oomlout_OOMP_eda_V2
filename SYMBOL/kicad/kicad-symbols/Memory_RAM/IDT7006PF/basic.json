@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKMEMORYRAMIDT76PF"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Memory_RAM : IDT7006PF"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Memory_RAM"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Memory_RAM-IDT7006PF"
+    ],
+    "oompIndex": [
+        "IDT7006PF"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.idt.com/document/dst/7006-data-sheet",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_QFP:TQFP-64_14x14mm_P0.8mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "IDT7006PF",
+                "kicadSymbolki_description": "16K x 8 Dual-Port SRAM, TQFP-64",
+                "kicadSymbolki_fp_filters": "TQFP*14x14mm*P0.8mm*",
+                "kicadSymbolki_keywords": "dual-port ram"
+            }
+        ]
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "smd",
+            "description": "DirectFET MZ https://www.infineon.com/dgdl/Infineon-AN-1035-ApplicationNotes-v29_01-EN.pdf?fileId=5546d462533600a40153559159020f76#page=31",
+            "name": "DirectFET_MZ",
+            "pins": {
+                "shape": "rect",
+                "type": "smd"
+            },
+            "tags": "DirectFET MZ MOSFET Infineon",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/Package_DirectFET.3dshapes/DirectFET_MZ.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKDFETDIRECTFETMZ"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Package_DirectFET : DirectFET_MZ"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Package_DirectFET"
+    ],
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Package_DirectFET-DirectFET_MZ"
+    ],
+    "oompIndex": [
+        "DirectFET_MZ"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

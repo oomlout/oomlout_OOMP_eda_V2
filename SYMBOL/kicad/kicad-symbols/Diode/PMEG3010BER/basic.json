@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKDIODEPMEG31BER"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Diode : PMEG3010BER"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Diode"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Diode-PMEG3010BER"
+    ],
+    "oompIndex": [
+        "PMEG3010BER"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://assets.nexperia.com/documents/data-sheet/PMEG3010BER.pdf",
+                "kicadSymbolExtends": "PMEG40T10ER",
+                "kicadSymbolFootprint": "Diode_SMD:Nexperia_CFP3_SOD-123W",
+                "kicadSymbolReference": "D",
+                "kicadSymbolValue": "PMEG3010BER",
+                "kicadSymbolki_description": "30V, 1A low Vf MEGA Schottky barrier rectifier, SOD-123W",
+                "kicadSymbolki_fp_filters": "Nexperia*CFP3*SOD?123W*",
+                "kicadSymbolki_keywords": "forward voltage diode"
+            }
+        ]
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKMCUMOADAFEATHERMBASICPROTO"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "MCU_Module : Adafruit_Feather_M0_Basic_Proto"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "MCU_Module"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-MCU_Module-Adafruit_Feather_M0_Basic_Proto"
+    ],
+    "oompIndex": [
+        "Adafruit_Feather_M0_Basic_Proto"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://cdn-learn.adafruit.com/downloads/pdf/adafruit-feather-m0-basic-proto.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Module:Adafruit_Feather",
+                "kicadSymbolReference": "A",
+                "kicadSymbolValue": "Adafruit_Feather_M0_Basic_Proto",
+                "kicadSymbolki_description": "Microcontroller module with SAMD21 Cortex-M0 MCU",
+                "kicadSymbolki_fp_filters": "Adafruit*Feather*",
+                "kicadSymbolki_keywords": "Adafruit feather microcontroller module USB M0 SAMD21"
+            }
+        ]
+    ]
+}

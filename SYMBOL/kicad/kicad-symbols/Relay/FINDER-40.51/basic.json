@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKRELAYFINDER451"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Relay : FINDER-40.51"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Relay"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Relay-FINDER-40.51"
+    ],
+    "oompIndex": [
+        "FINDER-40.51"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://gfinder.findernet.com/assets/Series/353/S40EN.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Relay_THT:Relay_SPDT_Finder_40.51",
+                "kicadSymbolReference": "K",
+                "kicadSymbolValue": "FINDER-40.51",
+                "kicadSymbolki_description": "FINDER 40.51, Single Pole Relay, 5mm Pitch, 10A",
+                "kicadSymbolki_fp_filters": "Relay*SPDT*Finder*40.51*",
+                "kicadSymbolki_keywords": "Single Pole Relay"
+            }
+        ]
+    ]
+}

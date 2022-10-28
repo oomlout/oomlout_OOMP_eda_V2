@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKDIODESMF58A"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Diode : SMF58A"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Diode"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Diode-SMF58A"
+    ],
+    "oompIndex": [
+        "SMF58A"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.vishay.com/doc?85881",
+                "kicadSymbolExtends": "SM6T6V8A",
+                "kicadSymbolFootprint": "Diode_SMD:D_SMF",
+                "kicadSymbolReference": "D",
+                "kicadSymbolValue": "SMF58A",
+                "kicadSymbolki_description": "200W unidirectional Transil Transient Voltage Suppressor, 58Vrwm, SMF",
+                "kicadSymbolki_fp_filters": "D*SMF*",
+                "kicadSymbolki_keywords": "diode TVS voltage suppressor"
+            }
+        ]
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "smd",
+            "description": "Bluetooth Low Energy Module",
+            "name": "ST_SPBTLE",
+            "pins": {
+                "shape": "rect",
+                "type": "smd"
+            },
+            "tags": "ble module st bluetooth",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/RF_Module.3dshapes/ST_SPBTLE.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKRFMOSTSPBTLE"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "RF_Module : ST_SPBTLE"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "RF_Module"
+    ],
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-RF_Module-ST_SPBTLE"
+    ],
+    "oompIndex": [
+        "ST_SPBTLE"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

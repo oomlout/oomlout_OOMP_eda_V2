@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKANALOGDACMAX5138"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Analog_DAC : MAX5138"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Analog_DAC"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Analog_DAC-MAX5138"
+    ],
+    "oompIndex": [
+        "MAX5138"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://datasheets.maximintegrated.com/en/ds/MAX5138-MAX5139.pdf",
+                "kicadSymbolExtends": "MAX5139",
+                "kicadSymbolFootprint": "Package_DFN_QFN:TQFN-16-1EP_3x3mm_P0.5mm_EP1.23x1.23mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "MAX5138",
+                "kicadSymbolki_description": "Low-Power, Single, 16-Bit, Buffered Voltage-Output DAC",
+                "kicadSymbolki_fp_filters": "TQFN*1EP*3x3mm*P0.5mm*",
+                "kicadSymbolki_keywords": "16-bit DAC 1CH"
+            }
+        ]
+    ]
+}

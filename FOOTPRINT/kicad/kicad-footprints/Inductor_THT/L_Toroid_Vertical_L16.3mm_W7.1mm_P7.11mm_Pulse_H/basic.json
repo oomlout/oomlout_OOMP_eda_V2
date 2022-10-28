@@ -1,0 +1,57 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "through_hole",
+            "description": "L_Toroid, Vertical series, Radial, pin pitch=7.11mm, , length*width=16.26*7.11mm^2, Pulse, H, http://datasheet.octopart.com/PE-92112KNL-Pulse-datasheet-17853305.pdf",
+            "name": "L_Toroid_Vertical_L16.3mm_W7.1mm_P7.11mm_Pulse_H",
+            "pins": {
+                "shape": "circle",
+                "type": "thru_hole"
+            },
+            "tags": "L_Toroid Vertical series Radial pin pitch 7.11mm  length 16.26mm width 7.11mm Pulse H",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Toroid_Vertical_L16.3mm_W7.1mm_P7.11mm_Pulse_H.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKINLTOROIDVERTICALL163W71P711PULSEH"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Inductor_THT : L_Toroid_Vertical_L16.3mm_W7.1mm_P7.11mm_Pulse_H"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Inductor_THT"
+    ],
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Toroid_Vertical_L16.3mm_W7.1mm_P7.11mm_Pulse_H"
+    ],
+    "oompIndex": [
+        "L_Toroid_Vertical_L16.3mm_W7.1mm_P7.11mm_Pulse_H"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

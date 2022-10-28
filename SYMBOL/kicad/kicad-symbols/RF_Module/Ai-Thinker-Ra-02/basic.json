@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKRFMOAITHINKERRA2"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "RF_Module : Ai-Thinker-Ra-02"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "RF_Module"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-RF_Module-Ai-Thinker-Ra-02"
+    ],
+    "oompIndex": [
+        "Ai-Thinker-Ra-02"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://wiki.ai-thinker.com/_media/lora/docs/c048ps01a1_ra-02_product_specification_v1.1.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "RF_Module:Ai-Thinker-Ra-01-LoRa",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "Ai-Thinker-Ra-02",
+                "kicadSymbolki_description": "Ai-Thinker Ra-02 410-525 MHz LoRa Module, SPI interface, U.FL antenna connector",
+                "kicadSymbolki_fp_filters": "Ai?Thinker?Ra?01*",
+                "kicadSymbolki_keywords": "Ra-02 LoRa"
+            }
+        ]
+    ]
+}

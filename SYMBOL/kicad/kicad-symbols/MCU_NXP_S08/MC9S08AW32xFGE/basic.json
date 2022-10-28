@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKMCUNXPS8MC9S8AW32XFGE"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "MCU_NXP_S08 : MC9S08AW32xFGE"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "MCU_NXP_S08"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-MCU_NXP_S08-MC9S08AW32xFGE"
+    ],
+    "oompIndex": [
+        "MC9S08AW32xFGE"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://cache.nxp.com/files/microcontrollers/doc/data_sheet/MC9S08AW60.pdf",
+                "kicadSymbolExtends": "MC9S08AC128xFGE",
+                "kicadSymbolFootprint": "Package_QFP:LQFP-44_10x10mm_P0.8mm",
+                "kicadSymbolReference": "IC",
+                "kicadSymbolValue": "MC9S08AW32xFGE",
+                "kicadSymbolki_description": "8-bit General Purpose Microcontroller, S08 core, 32kB Flash, 2kB RAM, LQFP-44",
+                "kicadSymbolki_fp_filters": "LQFP*10x10mm*P0.8mm*",
+                "kicadSymbolki_keywords": "NXP S08 Microcontroller"
+            }
+        ]
+    ]
+}

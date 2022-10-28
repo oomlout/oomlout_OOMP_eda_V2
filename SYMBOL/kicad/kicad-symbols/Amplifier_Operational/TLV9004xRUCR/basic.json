@@ -1,0 +1,59 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKAMPLIFIEROPERATIONALTLV94XRUCR"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Amplifier_Operational : TLV9004xRUCR"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Amplifier_Operational"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Amplifier_Operational-TLV9004xRUCR"
+    ],
+    "oompIndex": [
+        "TLV9004xRUCR"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.ti.com/lit/ds/symlink/tlv9004.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_DFN_QFN:Texas_S-PX2QFN-14",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "TLV9004xRUCR",
+                "kicadSymbolki_description": "Low-Power, Quad-Operational Amplifiers, Texas S-PX2QFN-14",
+                "kicadSymbolki_fp_filters": "Texas*S*PX2QFN*",
+                "kicadSymbolki_keywords": "quad opamp",
+                "kicadSymbolki_locked": ""
+            }
+        ]
+    ]
+}

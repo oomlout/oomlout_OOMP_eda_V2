@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKCONIRM25S"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Converter_ACDC : IRM-02-5S"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Converter_ACDC"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Converter_ACDC-IRM-02-5S"
+    ],
+    "oompIndex": [
+        "IRM-02-5S"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.meanwell.com/Upload/PDF/IRM-02/IRM-02-SPEC.PDF",
+                "kicadSymbolExtends": "IRM-02-3.3S",
+                "kicadSymbolFootprint": "Converter_ACDC:Converter_ACDC_MeanWell_IRM-02-xx_SMD",
+                "kicadSymbolReference": "PS",
+                "kicadSymbolValue": "IRM-02-5S",
+                "kicadSymbolki_description": "5V, 400mA, 2W, Isolated, AC-DC, IRM02-SMD",
+                "kicadSymbolki_fp_filters": "Converter*ACDC*MeanWell*IRM*02*SMD*",
+                "kicadSymbolki_keywords": "Miniature Module-type Power Supply MeanWell"
+            }
+        ]
+    ]
+}

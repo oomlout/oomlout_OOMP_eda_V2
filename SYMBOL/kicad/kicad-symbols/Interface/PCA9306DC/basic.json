@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKINTERFACEPCA936DC"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Interface : PCA9306DC"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Interface"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Interface-PCA9306DC"
+    ],
+    "oompIndex": [
+        "PCA9306DC"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.nxp.com/docs/en/data-sheet/PCA9306.pdf",
+                "kicadSymbolExtends": "PCA9306",
+                "kicadSymbolFootprint": "Package_SO:VSSOP-8_2.3x2mm_P0.5mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "PCA9306DC",
+                "kicadSymbolki_description": "Dual bidirectional I2C Bus and SMBus voltage level translator, VSSOP-8, Discontinued",
+                "kicadSymbolki_fp_filters": "VSSOP*2.3x2mm*P0.5mm*",
+                "kicadSymbolki_keywords": "I2C SMBus"
+            }
+        ]
+    ]
+}

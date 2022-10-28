@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKGPSLEAM8T"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "RF_GPS : LEA-M8T"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "RF_GPS"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-RF_GPS-LEA-M8T"
+    ],
+    "oompIndex": [
+        "LEA-M8T"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.u-blox.com/sites/default/files/NEO-LEA-M8T-FW3_DataSheet_%28UBX-15025193%29.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "RF_GPS:ublox_LEA",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "LEA-M8T",
+                "kicadSymbolki_description": "GNSS Module LEA M8, VCC 2.7V to 3.6V",
+                "kicadSymbolki_fp_filters": "ublox*LEA*",
+                "kicadSymbolki_keywords": "ublox GPS GNSS module"
+            }
+        ]
+    ]
+}

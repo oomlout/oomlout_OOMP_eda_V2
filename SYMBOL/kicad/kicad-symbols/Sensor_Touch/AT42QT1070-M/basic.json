@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKSENTOUCHAT42QT17M"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Sensor_Touch : AT42QT1070-M"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Sensor_Touch"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Sensor_Touch-AT42QT1070-M"
+    ],
+    "oompIndex": [
+        "AT42QT1070-M"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-9596-AT42-QTouch-BSW-AT42QT1070_Datasheet.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_DFN_QFN:VQFN-20-1EP_3x3mm_P0.45mm_EP1.55x1.55mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "AT42QT1070-M",
+                "kicadSymbolki_description": "Seven-key Touch Sensor IC, VQFN-20",
+                "kicadSymbolki_fp_filters": "VQFN*1EP*3x3mm*P0.45mm*",
+                "kicadSymbolki_keywords": "Touch QTouch Sensor Key"
+            }
+        ]
+    ]
+}

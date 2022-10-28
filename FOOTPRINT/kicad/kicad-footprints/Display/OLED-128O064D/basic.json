@@ -1,0 +1,57 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "smd",
+            "description": "128x64 OLED display",
+            "name": "OLED-128O064D",
+            "pins": {
+                "shape": "rect",
+                "type": "smd"
+            },
+            "tags": "display oled",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/Display.3dshapes/OLED-128O064D.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKDIOL128O64D"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Display : OLED-128O064D"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Display"
+    ],
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Display-OLED-128O064D"
+    ],
+    "oompIndex": [
+        "OLED-128O064D"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

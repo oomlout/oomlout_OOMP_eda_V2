@@ -1,0 +1,57 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "through_hole",
+            "description": "Through hole IDC header, 2x05, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, 9.5mm latches, mounting holes, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0",
+            "name": "IDC-Header_2x05-1MP_P2.54mm_Latch9.5mm_Vertical",
+            "pins": {
+                "shape": "roundrect",
+                "type": "thru_hole"
+            },
+            "tags": "Through hole vertical IDC header THT 2x05 2.54mm double row",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/Connector_IDC.3dshapes/IDC-Header_2x05-1MP_P2.54mm_Latch9.5mm_Vertical.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKCNIDCIDCHEADER2X51MPP254LATCH95VERTICAL"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Connector_IDC : IDC-Header_2x05-1MP_P2.54mm_Latch9.5mm_Vertical"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Connector_IDC"
+    ],
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Connector_IDC-IDC-Header_2x05-1MP_P2.54mm_Latch9.5mm_Vertical"
+    ],
+    "oompIndex": [
+        "IDC-Header_2x05-1MP_P2.54mm_Latch9.5mm_Vertical"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

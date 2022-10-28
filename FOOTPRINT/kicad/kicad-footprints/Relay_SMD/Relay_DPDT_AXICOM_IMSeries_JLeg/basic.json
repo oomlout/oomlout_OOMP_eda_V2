@@ -1,0 +1,57 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "smd",
+            "description": "http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Specification+Or+Standard%7F108-98001%7FW5%7Fpdf%7FEnglish%7FENG_SS_108-98001_W5.pdf",
+            "name": "Relay_DPDT_AXICOM_IMSeries_JLeg",
+            "pins": {
+                "shape": "rect",
+                "type": "smd"
+            },
+            "tags": "AXICOM IM-Series Relay J JLeg",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/Relay_SMD.3dshapes/Relay_DPDT_AXICOM_IMSeries_JLeg.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKRELAYSMRELAYDPDTAXICOMIMSERIESJLEG"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Relay_SMD : Relay_DPDT_AXICOM_IMSeries_JLeg"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Relay_SMD"
+    ],
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Relay_SMD-Relay_DPDT_AXICOM_IMSeries_JLeg"
+    ],
+    "oompIndex": [
+        "Relay_DPDT_AXICOM_IMSeries_JLeg"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

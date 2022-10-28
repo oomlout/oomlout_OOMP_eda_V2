@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKISOLATORHCNW2211"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Isolator : HCNW2211"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Isolator"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Isolator-HCNW2211"
+    ],
+    "oompIndex": [
+        "HCNW2211"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://docs.broadcom.com/docs/AV02-0674EN",
+                "kicadSymbolExtends": "HCNW2201",
+                "kicadSymbolFootprint": "Package_DIP:DIP-8_W10.16mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "HCNW2211",
+                "kicadSymbolki_description": "Opto Coupler, 10kV/us, 1kV CMR, Schmitt trigger output, WDIP-8",
+                "kicadSymbolki_fp_filters": "DIP*W10.16mm*",
+                "kicadSymbolki_keywords": "opto coupler schmitt output"
+            }
+        ]
+    ]
+}

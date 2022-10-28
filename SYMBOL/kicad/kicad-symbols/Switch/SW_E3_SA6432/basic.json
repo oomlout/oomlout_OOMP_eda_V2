@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKSWITCHSWE3SA6432"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Switch : SW_E3_SA6432"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Switch"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Switch-SW_E3_SA6432"
+    ],
+    "oompIndex": [
+        "SW_E3_SA6432"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.e3-keys.com/files/SA%20Technical%20Datasheet%20v2.0.pdf",
+                "kicadSymbolExtends": "SW_E3_SA3216",
+                "kicadSymbolFootprint": "",
+                "kicadSymbolReference": "SW",
+                "kicadSymbolValue": "SW_E3_SA6432",
+                "kicadSymbolki_description": "Push button switch with LCD screen",
+                "kicadSymbolki_fp_filters": "SW?PUSH?LCD?E3?SAxxxx*",
+                "kicadSymbolki_keywords": "switch normally-open pushbutton push-button LCD"
+            }
+        ]
+    ]
+}

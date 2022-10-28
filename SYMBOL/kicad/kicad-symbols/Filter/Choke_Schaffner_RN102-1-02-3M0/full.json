@@ -1,0 +1,81 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKFILCHOKESCHAFFNERRN12123M"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Filter : Choke_Schaffner_RN102-1-02-3M0"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Filter"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Filter/Choke_Schaffner_RN102-1-02-3M0/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Filter/Choke_Schaffner_RN102-1-02-3M0/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Filter/Choke_Schaffner_RN102-1-02-3M0/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Filter/Choke_Schaffner_RN102-1-02-3M0/details.py"
+        ],
+        "imagePng": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Filter/Choke_Schaffner_RN102-1-02-3M0/image.png"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Filter/Choke_Schaffner_RN102-1-02-3M0/basic.json"
+        ],
+        "readme": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Filter/Choke_Schaffner_RN102-1-02-3M0/README.md"
+        ]
+    },
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Filter-Choke_Schaffner_RN102-1-02-3M0"
+    ],
+    "oompIndex": [
+        "Choke_Schaffner_RN102-1-02-3M0"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.schaffner.com/products/download/product/datasheet/rn-series-common-mode-chokes-new/",
+                "kicadSymbolExtends": "Choke_Schaffner_RN102-0.3-02-22M",
+                "kicadSymbolFootprint": "Inductor_THT:Choke_Schaffner_RN102-04-14.0x14.0mm",
+                "kicadSymbolReference": "FL",
+                "kicadSymbolValue": "Choke_Schaffner_RN102-1-02-3M0",
+                "kicadSymbolki_description": "Common mode choke, 1A, 300VAC, 3mH, 210mohm, RN-102",
+                "kicadSymbolki_fp_filters": "Choke*Schaffner*RN102*",
+                "kicadSymbolki_keywords": "common-mode common mode choke powerline power line filter"
+            }
+        ]
+    ]
+}

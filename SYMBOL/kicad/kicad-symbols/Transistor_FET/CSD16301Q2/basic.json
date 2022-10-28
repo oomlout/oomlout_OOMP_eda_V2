@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKTRANSISTORFETCSD1631Q2"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Transistor_FET : CSD16301Q2"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Transistor_FET"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Transistor_FET-CSD16301Q2"
+    ],
+    "oompIndex": [
+        "CSD16301Q2"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.ti.com/lit/ds/symlink/csd16301q2.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_SON:Texas_DQK",
+                "kicadSymbolReference": "Q",
+                "kicadSymbolValue": "CSD16301Q2",
+                "kicadSymbolki_description": "5A Id, 25V Vds, NexFET N-Channel Power MOSFET, 19mOhm Ron, SON-6",
+                "kicadSymbolki_fp_filters": "Texas*DQK*",
+                "kicadSymbolki_keywords": "NexFET Power MOSFET N-MOS"
+            }
+        ]
+    ]
+}

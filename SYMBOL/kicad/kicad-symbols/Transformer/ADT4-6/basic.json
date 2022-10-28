@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKTRADT46"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Transformer : ADT4-6"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Transformer"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Transformer-ADT4-6"
+    ],
+    "oompIndex": [
+        "ADT4-6"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.minicircuits.com/pdfs/ADT4-6+.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "RF_Mini-Circuits:Mini-Circuits_CD637_H5.23mm",
+                "kicadSymbolReference": "TR",
+                "kicadSymbolValue": "ADT4-6",
+                "kicadSymbolki_description": "0.07-250MHz 1:4 RF Transformer, Balanced to Balanced, CD542",
+                "kicadSymbolki_fp_filters": "Mini?Circuits*CD637*",
+                "kicadSymbolki_keywords": "Mini-Circuits RF Transformer"
+            }
+        ]
+    ]
+}

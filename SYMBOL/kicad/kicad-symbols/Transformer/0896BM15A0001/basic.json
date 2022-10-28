@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKTR896BM15A1"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Transformer : 0896BM15A0001"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Transformer"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Transformer-0896BM15A0001"
+    ],
+    "oompIndex": [
+        "0896BM15A0001"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.johansontechnology.com/datasheets/0896BM15A0001/0896BM15A0001.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "RF_Converter:Balun_Johanson_0896BM15A0001",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "0896BM15A0001",
+                "kicadSymbolki_description": "863-928MHz 1:1 RF Transformer, Unbalanced to Balanced",
+                "kicadSymbolki_fp_filters": "Balun*Johanson*0896BM15A0001*",
+                "kicadSymbolki_keywords": "balun rf transformer"
+            }
+        ]
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKTRTEZ16D1"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Transformer : TEZ16.0-D-1"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Transformer"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Transformer-TEZ16.0-D-1"
+    ],
+    "oompIndex": [
+        "TEZ16.0-D-1"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.breve.pl/pdf/ANG/TEZ_ang.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Transformer_THT:Transformer_Breve_TEZ-47x57",
+                "kicadSymbolReference": "TR",
+                "kicadSymbolValue": "TEZ16.0-D-1",
+                "kicadSymbolki_description": "TEZ16.0/D/x, 16VA, Single Secondary, Cast Resin Transformer, PCB",
+                "kicadSymbolki_fp_filters": "Transformer*Breve*TEZ*47x57*",
+                "kicadSymbolki_keywords": "16VA PCB Transformer Single Secondary"
+            }
+        ]
+    ]
+}

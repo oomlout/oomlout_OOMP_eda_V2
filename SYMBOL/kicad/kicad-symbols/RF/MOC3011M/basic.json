@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKRFMOC311M"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "RF : MOC3011M"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "RF"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-RF-MOC3011M"
+    ],
+    "oompIndex": [
+        "MOC3011M"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.onsemi.com/pub/Collateral/MOC3023M-D.PDF",
+                "kicadSymbolExtends": "MOC3010M",
+                "kicadSymbolFootprint": "",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "MOC3011M",
+                "kicadSymbolki_description": "Random Phase Opto-Triac, Vdrm 250V, Ift 10mA, DIP6",
+                "kicadSymbolki_fp_filters": "DIP*W7.62mm* SMDIP*W9.53mm* DIP*W10.16mm*",
+                "kicadSymbolki_keywords": "Opto-Triac Opto Triac Random Phase"
+            }
+        ]
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "smd",
+            "description": "hiqsdr.com/images/3/3e/Axicom-HF3.pdf",
+            "name": "Relay_SPDT_AXICOM_HF3Series_50ohms_Pitch1.27mm",
+            "pins": {
+                "shape": "rect",
+                "type": "smd"
+            },
+            "tags": "AXICOM HF3-Series Relay Pitch 1.27mm 50ohms",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/Relay_SMD.3dshapes/Relay_SPDT_AXICOM_HF3Series_50ohms_Pitch1.27mm.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKRELAYSMRELAYSPDTAXICOMHF3SERIES5OHMSPITCH127"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Relay_SMD : Relay_SPDT_AXICOM_HF3Series_50ohms_Pitch1.27mm"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Relay_SMD"
+    ],
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Relay_SMD-Relay_SPDT_AXICOM_HF3Series_50ohms_Pitch1.27mm"
+    ],
+    "oompIndex": [
+        "Relay_SPDT_AXICOM_HF3Series_50ohms_Pitch1.27mm"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

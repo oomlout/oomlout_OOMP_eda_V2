@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKSWITCHSWCODEDSH73"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Switch : SW_Coded_SH-7030"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Switch"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Switch-SW_Coded_SH-7030"
+    ],
+    "oompIndex": [
+        "SW_Coded_SH-7030"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.nidec-copal-electronics.com/e/catalog/switch/sh-7000.pdf",
+                "kicadSymbolExtends": "SW_Coded_SH-7010",
+                "kicadSymbolFootprint": "",
+                "kicadSymbolReference": "SW",
+                "kicadSymbolValue": "SW_Coded_SH-7030",
+                "kicadSymbolki_description": "Rotary switch, 4-bit encoding, 10 positions, Complementary code",
+                "kicadSymbolki_fp_filters": "Nidec*Copal*SH*7010*",
+                "kicadSymbolki_keywords": "rotary bcd Complementary"
+            }
+        ]
+    ]
+}

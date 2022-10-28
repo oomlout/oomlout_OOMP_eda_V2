@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKMCUNXPLPCLPC112UK"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "MCU_NXP_LPC : LPC1102UK"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "MCU_NXP_LPC"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-MCU_NXP_LPC-LPC1102UK"
+    ],
+    "oompIndex": [
+        "LPC1102UK"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.nxp.com/documents/data_sheet/LPC1102_1104.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_CSP:WLCSP-16_4x4_B2.17x2.32mm_P0.5mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "LPC1102UK",
+                "kicadSymbolki_description": "32-bit ARM Cortex-M0 microcontroller, 32kB flash, 8kB SRAM",
+                "kicadSymbolki_fp_filters": "WLCSP*4x4*B2.17x2.32mm*P0.5mm*",
+                "kicadSymbolki_keywords": "ARM, 32-bit, Cortex-M0, M0, NXP, microcontroller"
+            }
+        ]
+    ]
+}

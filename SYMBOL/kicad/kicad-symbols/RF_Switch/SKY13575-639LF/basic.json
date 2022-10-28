@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKRFSWITCHSKY13575639LF"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "RF_Switch : SKY13575-639LF"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "RF_Switch"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-RF_Switch-SKY13575-639LF"
+    ],
+    "oompIndex": [
+        "SKY13575-639LF"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.skyworksinc.com/-/media/SkyWorks/Documents/Products/2201-2300/SKY13575_639LF_203270D.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "RF:Skyworks_SKY13575_639LF",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "SKY13575-639LF",
+                "kicadSymbolki_description": "SP4T 100MHz-6GHz absorptive switch, 50 Ohm, QFN-14",
+                "kicadSymbolki_fp_filters": "*SKY13575?639LF*",
+                "kicadSymbolki_keywords": "rf switch sp4t absorptive"
+            }
+        ]
+    ]
+}

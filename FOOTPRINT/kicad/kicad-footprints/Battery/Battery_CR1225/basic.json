@@ -1,0 +1,54 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": null,
+            "description": "CR1225 battery",
+            "name": "Battery_CR1225",
+            "pins": {},
+            "tags": "battery CR1225 coin cell",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/Battery.3dshapes/Battery_CR1225.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKBATBATCR1225"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Battery : Battery_CR1225"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Battery"
+    ],
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Battery-Battery_CR1225"
+    ],
+    "oompIndex": [
+        "Battery_CR1225"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

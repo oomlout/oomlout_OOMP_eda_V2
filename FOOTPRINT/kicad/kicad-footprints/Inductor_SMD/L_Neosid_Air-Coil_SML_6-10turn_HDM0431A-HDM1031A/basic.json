@@ -1,0 +1,57 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "smd",
+            "description": "Neosid, Air-Coil, SML, 6-10turn, HDM0431A-HDM1031A,",
+            "name": "L_Neosid_Air-Coil_SML_6-10turn_HDM0431A-HDM1031A",
+            "pins": {
+                "shape": "rect",
+                "type": "smd"
+            },
+            "tags": "Neosid Air-Coil SML 6-10turn HDM0431A-HDM1031A",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Neosid_Air-Coil_SML_6-10turn_HDM0431A-HDM1031A.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKINDUCTORSMLNEOSIDAIRCOILSML61TURNHDM431AHDM131A"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Inductor_SMD : L_Neosid_Air-Coil_SML_6-10turn_HDM0431A-HDM1031A"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Inductor_SMD"
+    ],
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Neosid_Air-Coil_SML_6-10turn_HDM0431A-HDM1031A"
+    ],
+    "oompIndex": [
+        "L_Neosid_Air-Coil_SML_6-10turn_HDM0431A-HDM1031A"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

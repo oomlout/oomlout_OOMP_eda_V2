@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKMCUSTSTM32L4+STM32L4R5QIIX"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "MCU_ST_STM32L4+ : STM32L4R5QIIx"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "MCU_ST_STM32L4+"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L4+-STM32L4R5QIIx"
+    ],
+    "oompIndex": [
+        "STM32L4R5QIIx"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00366448.pdf",
+                "kicadSymbolExtends": "STM32L4R5QGIx",
+                "kicadSymbolFootprint": "Package_BGA:UFBGA-132_7x7mm_Layout12x12_P0.5mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "STM32L4R5QIIx",
+                "kicadSymbolki_description": "ARM Cortex-M4 MCU, 2048KB flash, 640KB RAM, 120MHz, 1.71-3.6V, 110 GPIO, UFBGA-132",
+                "kicadSymbolki_fp_filters": "UFBGA*7x7mm*Layout12x12*P0.5mm*",
+                "kicadSymbolki_keywords": "ARM Cortex-M4 STM32L4+ STM32L4R5/S5"
+            }
+        ]
+    ]
+}

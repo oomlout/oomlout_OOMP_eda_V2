@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKINTERFACEUARTLTC2858XDD1"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Interface_UART : LTC2858xDD-1"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Interface_UART"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Interface_UART-LTC2858xDD-1"
+    ],
+    "oompIndex": [
+        "LTC2858xDD-1"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/285678fg.pdf",
+                "kicadSymbolExtends": "LTC2852xDD",
+                "kicadSymbolFootprint": "Package_DFN_QFN:DFN-10-1EP_3x3mm_P0.5mm_EP1.65x2.38mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "LTC2858xDD-1",
+                "kicadSymbolki_description": "RS-485, RS-422 Full duplex 20Mbps transceiver, DFN-10",
+                "kicadSymbolki_fp_filters": "DFN*3x3mm*P0.5mm*",
+                "kicadSymbolki_keywords": "RS485 RS422 transceiver full duplex"
+            }
+        ]
+    ]
+}

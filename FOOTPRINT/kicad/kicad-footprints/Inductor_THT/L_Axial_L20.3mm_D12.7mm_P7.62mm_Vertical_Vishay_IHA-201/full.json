@@ -1,0 +1,89 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "through_hole",
+            "description": "Inductor, Axial series, Axial, Vertical, pin pitch=7.62mm, , length*diameter=20.32*12.7mm^2, Vishay, IHA-201, http://www.vishay.com/docs/34014/iha.pdf",
+            "name": "L_Axial_L20.3mm_D12.7mm_P7.62mm_Vertical_Vishay_IHA-201",
+            "pins": {
+                "shape": "circle",
+                "type": "thru_hole"
+            },
+            "tags": "Inductor Axial series Axial Vertical pin pitch 7.62mm  length 20.32mm diameter 12.7mm Vishay IHA-201",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Axial_L20.3mm_D12.7mm_P7.62mm_Vertical_Vishay_IHA-201.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKINLAXIALL23D127P762VERTICALVISHAYIHA21"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Inductor_THT : L_Axial_L20.3mm_D12.7mm_P7.62mm_Vertical_Vishay_IHA-201"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Inductor_THT"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L20.3mm_D12.7mm_P7.62mm_Vertical_Vishay_IHA-201/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L20.3mm_D12.7mm_P7.62mm_Vertical_Vishay_IHA-201/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L20.3mm_D12.7mm_P7.62mm_Vertical_Vishay_IHA-201/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L20.3mm_D12.7mm_P7.62mm_Vertical_Vishay_IHA-201/details.py"
+        ],
+        "imagePng": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L20.3mm_D12.7mm_P7.62mm_Vertical_Vishay_IHA-201/image.png"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L20.3mm_D12.7mm_P7.62mm_Vertical_Vishay_IHA-201/basic.json"
+        ],
+        "kicadPcb3d": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L20.3mm_D12.7mm_P7.62mm_Vertical_Vishay_IHA-201/kicadPcb3d.png"
+        ],
+        "kicadPcb3dBack": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L20.3mm_D12.7mm_P7.62mm_Vertical_Vishay_IHA-201/kicadPcb3dBack.png"
+        ],
+        "kicadPcb3dFront": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L20.3mm_D12.7mm_P7.62mm_Vertical_Vishay_IHA-201/kicadPcb3dFront.png"
+        ],
+        "readme": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L20.3mm_D12.7mm_P7.62mm_Vertical_Vishay_IHA-201/README.md"
+        ]
+    },
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Axial_L20.3mm_D12.7mm_P7.62mm_Vertical_Vishay_IHA-201"
+    ],
+    "oompIndex": [
+        "L_Axial_L20.3mm_D12.7mm_P7.62mm_Vertical_Vishay_IHA-201"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKPOWERSUPERVISORCAT811STBIGT3"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Power_Supervisor : CAT811STBI-GT3"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Power_Supervisor"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Power_Supervisor-CAT811STBI-GT3"
+    ],
+    "oompIndex": [
+        "CAT811STBI-GT3"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.onsemi.com/pub/Collateral/CAT811-D.PDF",
+                "kicadSymbolExtends": "MIC811LUY",
+                "kicadSymbolFootprint": "Package_TO_SOT_SMD:SOT-143",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "CAT811STBI-GT3",
+                "kicadSymbolki_description": "Power supply supervisor, Manual reset, Threshold 2.93V, SOT-143",
+                "kicadSymbolki_fp_filters": "SOT*143*",
+                "kicadSymbolki_keywords": "Supervisor Reset"
+            }
+        ]
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "smd",
+            "description": "http://www.susumu-usa.com/pdf/Foot_Print_38.pdf, https://www.susumu.co.jp/common/pdf/n_catalog_partition16_en.pdf",
+            "name": "RF_Attenuator_Susumu_PAT1220",
+            "pins": {
+                "shape": "rect",
+                "type": "smd"
+            },
+            "tags": "2mm 1.2mm",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/RF_Converter.3dshapes/RF_Attenuator_Susumu_PAT1220.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKRFRFATTENUATORSUSUMUPAT122"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "RF_Converter : RF_Attenuator_Susumu_PAT1220"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "RF_Converter"
+    ],
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-RF_Converter-RF_Attenuator_Susumu_PAT1220"
+    ],
+    "oompIndex": [
+        "RF_Attenuator_Susumu_PAT1220"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKMCUSILICONLABSEFM32HG18F64GCQFN24"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "MCU_SiliconLabs : EFM32HG108F64G-C-QFN24"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "MCU_SiliconLabs"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-MCU_SiliconLabs-EFM32HG108F64G-C-QFN24"
+    ],
+    "oompIndex": [
+        "EFM32HG108F64G-C-QFN24"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.silabs.com/documents/public/data-sheets/efm32hg-datasheet.pdf",
+                "kicadSymbolExtends": "EFM32HG108F32G-C-QFN24",
+                "kicadSymbolFootprint": "Package_DFN_QFN:QFN-24-1EP_5x5mm_P0.65mm_EP3.6x3.6mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "EFM32HG108F64G-C-QFN24",
+                "kicadSymbolki_description": "32-bit ARM Cortex-M0 microcontroller, 64 kB flash, 4 kB  RAM, Silicon Labs - Happy Gecko, QFN-24",
+                "kicadSymbolki_fp_filters": "QFN*1EP*5x5mm*P0.65mm*",
+                "kicadSymbolki_keywords": "MCU microcontroller silicon labs siliconlabs silabs EFM32 happy gecko"
+            }
+        ]
+    ]
+}

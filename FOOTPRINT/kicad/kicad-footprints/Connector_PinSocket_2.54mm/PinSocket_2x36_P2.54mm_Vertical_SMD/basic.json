@@ -1,0 +1,57 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "smd",
+            "description": "surface-mounted straight socket strip, 2x36, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated",
+            "name": "PinSocket_2x36_P2.54mm_Vertical_SMD",
+            "pins": {
+                "shape": "rect",
+                "type": "smd"
+            },
+            "tags": "Surface mounted socket strip SMD 2x36 2.54mm double row",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_2x36_P2.54mm_Vertical_SMD.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKCNPINSO254PINSO2X36P254VERTICALSM"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Connector_PinSocket_2.54mm : PinSocket_2x36_P2.54mm_Vertical_SMD"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Connector_PinSocket_2.54mm"
+    ],
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Connector_PinSocket_2.54mm-PinSocket_2x36_P2.54mm_Vertical_SMD"
+    ],
+    "oompIndex": [
+        "PinSocket_2x36_P2.54mm_Vertical_SMD"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

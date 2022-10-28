@@ -1,0 +1,57 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "smd",
+            "description": "VFBGA-100, 10x10, 7x7mm package, pitch 0.65mm",
+            "name": "VFBGA-100_7.0x7.0mm_Layout10x10_P0.65mm",
+            "pins": {
+                "shape": "circle",
+                "type": "smd"
+            },
+            "tags": "VFBGA-100",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/VFBGA-100_7.0x7.0mm_Layout10x10_P0.65mm.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKBGAVFBGA17X7LAYOUT1X1P65"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Package_BGA : VFBGA-100_7.0x7.0mm_Layout10x10_P0.65mm"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Package_BGA"
+    ],
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Package_BGA-VFBGA-100_7.0x7.0mm_Layout10x10_P0.65mm"
+    ],
+    "oompIndex": [
+        "VFBGA-100_7.0x7.0mm_Layout10x10_P0.65mm"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

@@ -1,0 +1,57 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "through_hole",
+            "description": "Inductor, Axial series, Axial, Vertical, pin pitch=5.08mm, , length*diameter=24*7.1mm^2, Vishay, IM-10-28, http://www.vishay.com/docs/34035/im10.pdf",
+            "name": "L_Axial_L24.0mm_D7.1mm_P5.08mm_Vertical_Vishay_IM-10-28",
+            "pins": {
+                "shape": "circle",
+                "type": "thru_hole"
+            },
+            "tags": "Inductor Axial series Axial Vertical pin pitch 5.08mm  length 24mm diameter 7.1mm Vishay IM-10-28",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Axial_L24.0mm_D7.1mm_P5.08mm_Vertical_Vishay_IM-10-28.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKINLAXIALL24D71P58VERTICALVISHAYIM128"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Inductor_THT : L_Axial_L24.0mm_D7.1mm_P5.08mm_Vertical_Vishay_IM-10-28"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Inductor_THT"
+    ],
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Axial_L24.0mm_D7.1mm_P5.08mm_Vertical_Vishay_IM-10-28"
+    ],
+    "oompIndex": [
+        "L_Axial_L24.0mm_D7.1mm_P5.08mm_Vertical_Vishay_IM-10-28"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

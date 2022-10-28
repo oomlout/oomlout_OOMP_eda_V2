@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKSENPROXIMITYTSSP5838"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Sensor_Proximity : TSSP58038"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Sensor_Proximity"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Sensor_Proximity-TSSP58038"
+    ],
+    "oompIndex": [
+        "TSSP58038"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.vishay.com/docs/82476/tssp58p38.pdf",
+                "kicadSymbolExtends": "TSSP58P38",
+                "kicadSymbolFootprint": "OptoDevice:Vishay_MINICAST-3Pin",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "TSSP58038",
+                "kicadSymbolki_description": "IR Detector for Mid Range Proximity Sensor",
+                "kicadSymbolki_fp_filters": "Vishay*MINICAST*",
+                "kicadSymbolki_keywords": "opto IR receiver proximity sensor"
+            }
+        ]
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKTRCST1SPLIT"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Transformer : CST1_Split"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Transformer"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Transformer-CST1_Split"
+    ],
+    "oompIndex": [
+        "CST1_Split"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.coilcraft.com/pdfs/cst.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Transformer_SMD:Transformer_Coilcraft_CST1",
+                "kicadSymbolReference": "T",
+                "kicadSymbolValue": "CST1_Split",
+                "kicadSymbolki_description": "Coilcraft Current Sense Transformer, SMD, 20A, 1:20 to 1:125",
+                "kicadSymbolki_fp_filters": "Transformer*Coilcraft*CST1*",
+                "kicadSymbolki_keywords": "current sense transformer",
+                "kicadSymbolki_locked": ""
+            }
+        ]
+    ]
+}

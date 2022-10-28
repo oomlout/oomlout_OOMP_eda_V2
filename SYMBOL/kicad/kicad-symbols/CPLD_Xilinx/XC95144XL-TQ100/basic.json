@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKCPLDXILINXXC95144XLTQ1"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "CPLD_Xilinx : XC95144XL-TQ100"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "CPLD_Xilinx"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-CPLD_Xilinx-XC95144XL-TQ100"
+    ],
+    "oompIndex": [
+        "XC95144XL-TQ100"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.xilinx.com/support/documentation/data_sheets/ds056.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_QFP:TQFP-100_14x14mm_P0.5mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "XC95144XL-TQ100",
+                "kicadSymbolki_description": "CPLD, 144 Macrocells, 3200 Usable Gates",
+                "kicadSymbolki_fp_filters": "TQFP*14x14mm*P0.5mm*",
+                "kicadSymbolki_keywords": "CPLD"
+            }
+        ]
+    ]
+}

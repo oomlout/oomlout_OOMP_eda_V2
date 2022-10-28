@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKRFAMPLIFIERSGL622Z"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "RF_Amplifier : SGL0622Z"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "RF_Amplifier"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-RF_Amplifier-SGL0622Z"
+    ],
+    "oompIndex": [
+        "SGL0622Z"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.qorvo.com/products/d/da001879",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_DFN_QFN:DFN-8-1EP_2x2mm_P0.5mm_EP0.6x1.2mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "SGL0622Z",
+                "kicadSymbolki_description": "5 MHz to 4000 MHz, Low-Noise SiGe HBT MMIC Amplifier, DFN-8",
+                "kicadSymbolki_fp_filters": "DFN*1EP*2x2mm*P0.5mm*",
+                "kicadSymbolki_keywords": "rf gain block"
+            }
+        ]
+    ]
+}

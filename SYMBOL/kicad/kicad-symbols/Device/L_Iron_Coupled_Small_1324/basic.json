@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKDEVICELIRONCOUPLSLL1324"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Device : L_Iron_Coupled_Small_1324"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Device"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Device-L_Iron_Coupled_Small_1324"
+    ],
+    "oompIndex": [
+        "L_Iron_Coupled_Small_1324"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "~",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "",
+                "kicadSymbolReference": "L",
+                "kicadSymbolValue": "L_Iron_Coupled_Small_1324",
+                "kicadSymbolki_description": "Coupled inductor with iron core, small symbol",
+                "kicadSymbolki_fp_filters": "Choke_* *Coil* Inductor_* L_*",
+                "kicadSymbolki_keywords": "inductor choke coil reactor magnetic coupled"
+            }
+        ]
+    ]
+}

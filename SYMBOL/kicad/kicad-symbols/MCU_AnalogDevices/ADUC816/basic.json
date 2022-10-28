@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKMCUANALOGDEVICESADUC816"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "MCU_AnalogDevices : ADUC816"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "MCU_AnalogDevices"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-MCU_AnalogDevices-ADUC816"
+    ],
+    "oompIndex": [
+        "ADUC816"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.analog.com/static/imported-files/data_sheets/ADUC816.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "ADUC816",
+                "kicadSymbolki_description": "8KB Flash, 256B SRAM, 640B EEPROM, 16-bit ADC, 12-bit DAC, MQFP-52",
+                "kicadSymbolki_fp_filters": "MQFP*",
+                "kicadSymbolki_keywords": "8051 CORE MCU ADC DAC"
+            }
+        ]
+    ]
+}

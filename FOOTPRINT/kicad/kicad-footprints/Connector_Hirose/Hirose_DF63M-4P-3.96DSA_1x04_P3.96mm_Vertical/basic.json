@@ -1,0 +1,57 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "through_hole",
+            "description": "Hirose DF63 through hole, DF63M-4P-3.96DSA, 4 Pins per row (https://www.hirose.com/product/en/products/DF63/), generated with kicad-footprint-generator",
+            "name": "Hirose_DF63M-4P-3.96DSA_1x04_P3.96mm_Vertical",
+            "pins": {
+                "shape": "circle",
+                "type": "np_thru_hole"
+            },
+            "tags": "connector Hirose DF63 vertical",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/Connector_Hirose.3dshapes/Hirose_DF63M-4P-3.96DSA_1x04_P3.96mm_Vertical.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKCNHIROSEHIROSEDF63M4P396DSA1X4P396VERTICAL"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Connector_Hirose : Hirose_DF63M-4P-3.96DSA_1x04_P3.96mm_Vertical"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Connector_Hirose"
+    ],
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Connector_Hirose-Hirose_DF63M-4P-3.96DSA_1x04_P3.96mm_Vertical"
+    ],
+    "oompIndex": [
+        "Hirose_DF63M-4P-3.96DSA_1x04_P3.96mm_Vertical"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

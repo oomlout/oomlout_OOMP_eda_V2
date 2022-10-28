@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKREGULATORSWITCHINGFSDL321L"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Regulator_Switching : FSDL321L"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Regulator_Switching"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Regulator_Switching-FSDL321L"
+    ],
+    "oompIndex": [
+        "FSDL321L"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.onsemi.com/pub/Collateral/FSDH321JP-D.pdf",
+                "kicadSymbolExtends": "FSDH321L",
+                "kicadSymbolFootprint": "Package_DIP:Fairchild_LSOP-8",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "FSDL321L",
+                "kicadSymbolki_description": "17W SMPS Controller, 50kHz, AC-DC, SMD-8",
+                "kicadSymbolki_fp_filters": "Fairchild*LSOP*",
+                "kicadSymbolki_keywords": "SMPS Controller with MOSFET 17W AC-DC"
+            }
+        ]
+    ]
+}

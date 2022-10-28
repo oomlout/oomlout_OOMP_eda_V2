@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKREGULATORSWITCHINGADP571AREZ"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Regulator_Switching : ADP5071AREZ"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Regulator_Switching"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Regulator_Switching-ADP5071AREZ"
+    ],
+    "oompIndex": [
+        "ADP5071AREZ"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/ADP5071.pdf",
+                "kicadSymbolExtends": "ADP5070AREZ",
+                "kicadSymbolFootprint": "Package_SO:ETSSOP-20-1EP_4.4x6.5mm_P0.65mm_EP3x4.2mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "ADP5071AREZ",
+                "kicadSymbolki_description": "2A/1.2A DC-to-DC Switching Regulator with Independent Positive and Negative Outputs",
+                "kicadSymbolki_fp_filters": "ETSSOP*1EP?4.4x6.5mm?P0.65mm?EP3x4.2mm*",
+                "kicadSymbolki_keywords": "voltage regulator switching inverter double positive negative"
+            }
+        ]
+    ]
+}

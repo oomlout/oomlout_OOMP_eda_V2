@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKRELAYSANYOUSRDFORMC"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Relay : SANYOU_SRD_Form_C"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Relay"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Relay-SANYOU_SRD_Form_C"
+    ],
+    "oompIndex": [
+        "SANYOU_SRD_Form_C"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.sanyourelay.ca/public/products/pdf/SRD.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Relay_THT:Relay_SPDT_SANYOU_SRD_Series_Form_C",
+                "kicadSymbolReference": "K",
+                "kicadSymbolValue": "SANYOU_SRD_Form_C",
+                "kicadSymbolki_description": "Sanyo SRD relay, Single Pole Miniature Power Relay,",
+                "kicadSymbolki_fp_filters": "Relay*SPDT*SANYOU*SRD*Series*Form*C*",
+                "kicadSymbolki_keywords": "Single Pole Relay SPDT"
+            }
+        ]
+    ]
+}

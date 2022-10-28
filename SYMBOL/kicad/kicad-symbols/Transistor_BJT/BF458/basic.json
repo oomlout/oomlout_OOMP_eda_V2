@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKTRANSISTORBJTBF458"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Transistor_BJT : BF458"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Transistor_BJT"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Transistor_BJT-BF458"
+    ],
+    "oompIndex": [
+        "BF458"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.pcpaudio.com/pcpfiles/transistores/BF457-8-9.pdf",
+                "kicadSymbolExtends": "BF457",
+                "kicadSymbolFootprint": "Package_TO_SOT_THT:TO-126-3_Vertical",
+                "kicadSymbolReference": "Q",
+                "kicadSymbolValue": "BF458",
+                "kicadSymbolki_description": "0.1A Ic, 250V Vce, High Voltage NPN Transistor, TO-126",
+                "kicadSymbolki_fp_filters": "TO?126*",
+                "kicadSymbolki_keywords": "NPN HV High Voltage Transistor"
+            }
+        ]
+    ]
+}

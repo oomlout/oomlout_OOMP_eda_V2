@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKRFAMPLIFIERSKY6544"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "RF_Amplifier : SKY65404"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "RF_Amplifier"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-RF_Amplifier-SKY65404"
+    ],
+    "oompIndex": [
+        "SKY65404"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.skyworksinc.com/uploads/documents/SKY65404_31_201512K.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "RF:Skyworks_SKY65404-31",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "SKY65404",
+                "kicadSymbolki_description": "4.9-5.9GHz, 13dB Low-Noise Amplifier, QFN-6",
+                "kicadSymbolki_fp_filters": "Skyworks*SKY65404*",
+                "kicadSymbolki_keywords": "LNA low noise amplifier RF"
+            }
+        ]
+    ]
+}

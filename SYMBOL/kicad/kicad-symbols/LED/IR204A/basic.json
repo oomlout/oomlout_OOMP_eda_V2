@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKLIR24A"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "LED : IR204A"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "LED"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-LED-IR204A"
+    ],
+    "oompIndex": [
+        "IR204A"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.everlight.com/file/ProductFile/IR204-A.pdf",
+                "kicadSymbolExtends": "SFH4356P",
+                "kicadSymbolFootprint": "LED_THT:LED_D3.0mm_IRBlack",
+                "kicadSymbolReference": "D",
+                "kicadSymbolValue": "IR204A",
+                "kicadSymbolki_description": "Infrared LED , 3mm LED package",
+                "kicadSymbolki_fp_filters": "LED*3.0mm*IRBlack*",
+                "kicadSymbolki_keywords": "opto IR LED"
+            }
+        ]
+    ]
+}

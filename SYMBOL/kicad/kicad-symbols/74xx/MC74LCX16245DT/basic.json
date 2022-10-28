@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZK74XXMC74LCX16245DT"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "74xx : MC74LCX16245DT"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "74xx"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-74xx-MC74LCX16245DT"
+    ],
+    "oompIndex": [
+        "MC74LCX16245DT"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.onsemi.com/pdf/datasheet/mc74lcx16245-d.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_SO:TSSOP-48_6.1x12.5mm_P0.5mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "MC74LCX16245DT",
+                "kicadSymbolki_description": "Low Voltage 16-Bit Bidirectional Transceiver with 5V Tolerant Inputs and Outputs, TSSOP-48",
+                "kicadSymbolki_fp_filters": "TSSOP*6.1x12.5mm*P0.5mm*",
+                "kicadSymbolki_keywords": "transceiver"
+            }
+        ]
+    ]
+}

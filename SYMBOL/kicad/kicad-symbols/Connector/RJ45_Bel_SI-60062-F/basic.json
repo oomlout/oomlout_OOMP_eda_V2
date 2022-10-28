@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKCNRJ45BELSI662F"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Connector : RJ45_Bel_SI-60062-F"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Connector"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Connector-RJ45_Bel_SI-60062-F"
+    ],
+    "oompIndex": [
+        "RJ45_Bel_SI-60062-F"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://belfuse.com/resources/drawings/magneticsolutions/dr-mag-si-60062-f.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Connector_RJ:RJ45_Bel_SI-60062-F",
+                "kicadSymbolReference": "J",
+                "kicadSymbolValue": "RJ45_Bel_SI-60062-F",
+                "kicadSymbolki_description": "1 Port RJ45 Magjack Connector Through Hole 10/100 Base-T, AutoMDIX",
+                "kicadSymbolki_fp_filters": "RJ45*Bel*SI*60062*F*",
+                "kicadSymbolki_keywords": "RJ45 Magjack"
+            }
+        ]
+    ]
+}

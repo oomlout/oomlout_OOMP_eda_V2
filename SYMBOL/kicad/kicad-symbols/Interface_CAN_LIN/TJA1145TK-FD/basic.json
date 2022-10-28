@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKINTERFACECANLINTJA1145TKFD"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Interface_CAN_LIN : TJA1145TK-FD"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Interface_CAN_LIN"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-TJA1145TK-FD"
+    ],
+    "oompIndex": [
+        "TJA1145TK-FD"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.nxp.com/docs/en/data-sheet/TJA1145.pdf",
+                "kicadSymbolExtends": "TJA1145TK",
+                "kicadSymbolFootprint": "Package_DFN_QFN:DFN-14-1EP_3x4.5mm_P0.65mm_EP1.65x4.25mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "TJA1145TK-FD",
+                "kicadSymbolki_description": "High-speed CAN transceiver for partial networking with FD-passive function, DFN-14",
+                "kicadSymbolki_fp_filters": "DFN*1EP*3x4.5mm*P0.65mm*",
+                "kicadSymbolki_keywords": "CAN FD High Speed CAN Transceiver Sleep VIO Partial Networking SPI"
+            }
+        ]
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKDIODECENTRALSEMICMKD4448"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Diode : Central_Semi_CMKD4448"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Diode"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Diode-Central_Semi_CMKD4448"
+    ],
+    "oompIndex": [
+        "Central_Semi_CMKD4448"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.centralsemi.com/PDFs/products/CMKD4448.PDF",
+                "kicadSymbolExtends": "BAS16TW",
+                "kicadSymbolFootprint": "Package_TO_SOT_SMD:SOT-363_SC-70-6",
+                "kicadSymbolReference": "D",
+                "kicadSymbolValue": "Central_Semi_CMKD4448",
+                "kicadSymbolki_description": "High speed switching diode array 3 independent",
+                "kicadSymbolki_fp_filters": "*SOT?363*",
+                "kicadSymbolki_keywords": "diode"
+            }
+        ]
+    ]
+}

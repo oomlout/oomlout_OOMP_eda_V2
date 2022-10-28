@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKAMPLIFIERAUDIOSTK443SANYO"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Amplifier_Audio : STK443_Sanyo"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Amplifier_Audio"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Amplifier_Audio-STK443_Sanyo"
+    ],
+    "oompIndex": [
+        "STK443_Sanyo"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://datasheet.octopart.com/STK430-Sanyo-datasheet-107060.pdf",
+                "kicadSymbolExtends": "STK437_Sanyo",
+                "kicadSymbolFootprint": "Package_SIP:Sanyo_STK4xx-15_78.0x8.0mm_P2.54mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "STK443_Sanyo",
+                "kicadSymbolki_description": "2-Channel 28 Wmin Audio Frequency Power Amplifier, 4010, SIP-15",
+                "kicadSymbolki_fp_filters": "Sanyo*78.0x8.0mm*P2.54mm*",
+                "kicadSymbolki_keywords": "audio amplifier 2ch"
+            }
+        ]
+    ]
+}

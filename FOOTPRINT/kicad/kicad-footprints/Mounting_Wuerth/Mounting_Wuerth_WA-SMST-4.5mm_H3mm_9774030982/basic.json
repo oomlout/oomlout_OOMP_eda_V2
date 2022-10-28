@@ -1,0 +1,57 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "smd",
+            "description": "Mounting Hardware, inside through hole 4.5mm, height 3, Wuerth electronics 9774030982 (https://katalog.we-online.de/em/datasheet/9774030982.pdf), generated with kicad-footprint-generator",
+            "name": "Mounting_Wuerth_WA-SMST-4.5mm_H3mm_9774030982",
+            "pins": {
+                "shape": "circle",
+                "type": "np_thru_hole"
+            },
+            "tags": "Mounting 4.5mm 9774030982",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/Mounting_Wuerth.3dshapes/Mounting_Wuerth_WA-SMST-4.5mm_H3mm_9774030982.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKMONMONWASMST45H397743982"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Mounting_Wuerth : Mounting_Wuerth_WA-SMST-4.5mm_H3mm_9774030982"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Mounting_Wuerth"
+    ],
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Mounting_Wuerth-Mounting_Wuerth_WA-SMST-4.5mm_H3mm_9774030982"
+    ],
+    "oompIndex": [
+        "Mounting_Wuerth_WA-SMST-4.5mm_H3mm_9774030982"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

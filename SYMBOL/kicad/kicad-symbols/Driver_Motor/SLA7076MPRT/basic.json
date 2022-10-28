@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKDRIVERMOTORSLA776MPRT"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Driver_Motor : SLA7076MPRT"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Driver_Motor"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Driver_Motor-SLA7076MPRT"
+    ],
+    "oompIndex": [
+        "SLA7076MPRT"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.semicon.sanken-ele.co.jp/sk_content/sla7076mprt_ds_en.pdf",
+                "kicadSymbolExtends": "SLA7075MPRT",
+                "kicadSymbolFootprint": "",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "SLA7076MPRT",
+                "kicadSymbolki_description": "Unipolar 2-phase stepper motor driver, Microstep, 1.5A",
+                "kicadSymbolki_fp_filters": "ZIP23",
+                "kicadSymbolki_keywords": "Stepper driver"
+            }
+        ]
+    ]
+}

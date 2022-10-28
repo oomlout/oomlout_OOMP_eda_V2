@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKMCUMOCHIPPRO"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "MCU_Module : CHIP-PRO"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "MCU_Module"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-MCU_Module-CHIP-PRO"
+    ],
+    "oompIndex": [
+        "CHIP-PRO"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://github.com/NextThingCo/CHIP_Pro-Hardware/blob/master/Datasheets/CHIP_PRO_Datasheet_v1.0.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Module:MODULE_NEXTTHINGCO_CHIPPRO",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "CHIP-PRO",
+                "kicadSymbolki_description": "NextThingCo C.H.I.P. Pro Module",
+                "kicadSymbolki_fp_filters": "MODULE*NEXTTHINGCO*CHIPPRO*",
+                "kicadSymbolki_keywords": "nextthingco chip pro module"
+            }
+        ]
+    ]
+}

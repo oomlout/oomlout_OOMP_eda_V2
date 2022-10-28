@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKSENBME68"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Sensor : BME680"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Sensor"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Sensor-BME680"
+    ],
+    "oompIndex": [
+        "BME680"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://ae-bst.resource.bosch.com/media/_tech/media/datasheets/BST-BME680-DS001.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_LGA:Bosch_LGA-8_3x3mm_P0.8mm_ClockwisePinNumbering",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "BME680",
+                "kicadSymbolki_description": "4-in-1 sensor, gas, humidity, pressure, temperature, I2C and SPI interface, 1.71-3.6V, LGA-8",
+                "kicadSymbolki_fp_filters": "*LGA*3x3mm*P0.8mm*Clockwise*",
+                "kicadSymbolki_keywords": "Bosch gas pressure humidity temperature environment environmental measurement digital"
+            }
+        ]
+    ]
+}

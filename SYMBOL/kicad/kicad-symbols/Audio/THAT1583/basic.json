@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKAUDIOTHAT1583"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Audio : THAT1583"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Audio"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Audio-THAT1583"
+    ],
+    "oompIndex": [
+        "THAT1583"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.thatcorp.com/datashts/THAT_1583_Datasheet.pdf",
+                "kicadSymbolExtends": "THAT1580",
+                "kicadSymbolFootprint": "Package_DFN_QFN:QFN-16-1EP_4x4mm_P0.65mm_EP2.1x2.1mm_ThermalVias",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "THAT1583",
+                "kicadSymbolki_description": "Low-Noise, Differential Audio Preamplifier IC, 0.006% THD+N, -128.9dBu EIN, QFN-16",
+                "kicadSymbolki_fp_filters": "QFN*1EP*4x4mm*P0.65mm*",
+                "kicadSymbolki_keywords": "diff amp mic preamp"
+            }
+        ]
+    ]
+}

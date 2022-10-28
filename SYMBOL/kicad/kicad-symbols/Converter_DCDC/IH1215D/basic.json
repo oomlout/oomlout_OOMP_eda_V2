@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKCONIH1215D"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Converter_DCDC : IH1215D"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Converter_DCDC"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Converter_DCDC-IH1215D"
+    ],
+    "oompIndex": [
+        "IH1215D"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.xppower.com/pdfs/SF_IH.pdf",
+                "kicadSymbolExtends": "IH0503D",
+                "kicadSymbolFootprint": "Converter_DCDC:Converter_DCDC_XP_POWER-IHxxxxD_THT",
+                "kicadSymbolReference": "PS",
+                "kicadSymbolValue": "IH1215D",
+                "kicadSymbolki_description": "XP Power 2W, 1000 VDC Isolated DC/DC Converter Module, Dual Output Voltage \u00b115V, \u00b166mA, 12V Input Voltage, DIP",
+                "kicadSymbolki_fp_filters": "*XP?POWER?IHxxxxD*",
+                "kicadSymbolki_keywords": "XP_POWER DC/DC isolated Converter module"
+            }
+        ]
+    ]
+}

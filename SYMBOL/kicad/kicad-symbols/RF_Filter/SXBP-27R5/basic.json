@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKRFFILSXBP27R5"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "RF_Filter : SXBP-27R5"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "RF_Filter"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-RF_Filter-SXBP-27R5"
+    ],
+    "oompIndex": [
+        "SXBP-27R5"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.minicircuits.com/pdfs/SXBP-27R5+.pdf",
+                "kicadSymbolExtends": "SXBP-140",
+                "kicadSymbolFootprint": "RF_Mini-Circuits:Mini-Circuits_HF1139_LandPatternPL-230",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "SXBP-27R5",
+                "kicadSymbolki_description": "Bandpass Filter, 24 to 31 MHz, 50 Ohm, Mini-Circuits HF1139",
+                "kicadSymbolki_fp_filters": "Mini?Circuits*HF1139*",
+                "kicadSymbolki_keywords": "bandpass filter"
+            }
+        ]
+    ]
+}

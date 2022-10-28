@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKCONIRM115"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Converter_ACDC : IRM-10-15"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Converter_ACDC"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Converter_ACDC-IRM-10-15"
+    ],
+    "oompIndex": [
+        "IRM-10-15"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.meanwell.com/Upload/PDF/IRM-10/IRM-10-SPEC.PDF",
+                "kicadSymbolExtends": "IRM-10-3.3",
+                "kicadSymbolFootprint": "Converter_ACDC:Converter_ACDC_MeanWell_IRM-10-xx_THT",
+                "kicadSymbolReference": "PS",
+                "kicadSymbolValue": "IRM-10-15",
+                "kicadSymbolki_description": "15V, 670mA, 10.05W, Isolated, AC-DC, 222A(IRM10)",
+                "kicadSymbolki_fp_filters": "Converter*ACDC*MeanWell*IRM*10*THT*",
+                "kicadSymbolki_keywords": "Miniature Module-type Power Supply MeanWell"
+            }
+        ]
+    ]
+}

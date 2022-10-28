@@ -1,0 +1,57 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "through_hole",
+            "description": "Varistor, diameter 21.5mm, width 6.3mm, pitch 10mm",
+            "name": "RV_Disc_D21.5mm_W6.3mm_P10mm",
+            "pins": {
+                "shape": "circle",
+                "type": "thru_hole"
+            },
+            "tags": "varistor SIOV",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/Varistor.3dshapes/RV_Disc_D21.5mm_W6.3mm_P10mm.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKVRVDISCD215W63P1"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Varistor : RV_Disc_D21.5mm_W6.3mm_P10mm"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Varistor"
+    ],
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Varistor-RV_Disc_D21.5mm_W6.3mm_P10mm"
+    ],
+    "oompIndex": [
+        "RV_Disc_D21.5mm_W6.3mm_P10mm"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKTRANSISTORFETFDMT8152DC"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Transistor_FET : FDMT800152DC"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Transistor_FET"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Transistor_FET-FDMT800152DC"
+    ],
+    "oompIndex": [
+        "FDMT800152DC"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.onsemi.com/pub/Collateral/FDMT800152DC-D.pdf",
+                "kicadSymbolExtends": "FDMT80060DC",
+                "kicadSymbolFootprint": "Package_TO_SOT_SMD:PQFN_8x8",
+                "kicadSymbolReference": "Q",
+                "kicadSymbolValue": "FDMT800152DC",
+                "kicadSymbolki_description": "13A Id, 150V Vds, N-Channel Dual Cool PowerTrench MOSFET, 9.0mOhm Ron, 83nC Qgmax, -55 to 150 \u00b0C, 8x8mm MLP",
+                "kicadSymbolki_fp_filters": "PQFN*8x8*",
+                "kicadSymbolki_keywords": "dual-cool-powertrench MOSFET fairchild"
+            }
+        ]
+    ]
+}

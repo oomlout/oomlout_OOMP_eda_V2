@@ -1,0 +1,81 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKFILSAFFB1G96FNFA"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Filter : SAFFB1G96FN0F0A"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Filter"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Filter/SAFFB1G96FN0F0A/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Filter/SAFFB1G96FN0F0A/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Filter/SAFFB1G96FN0F0A/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Filter/SAFFB1G96FN0F0A/details.py"
+        ],
+        "imagePng": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Filter/SAFFB1G96FN0F0A/image.png"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Filter/SAFFB1G96FN0F0A/basic.json"
+        ],
+        "readme": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Filter/SAFFB1G96FN0F0A/README.md"
+        ]
+    },
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Filter-SAFFB1G96FN0F0A"
+    ],
+    "oompIndex": [
+        "SAFFB1G96FN0F0A"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.murata.com/~/media/webrenewal/support/library/catalog/products/filter/rf/p73e.ashx?la=en",
+                "kicadSymbolExtends": "B39162B8813P810",
+                "kicadSymbolFootprint": "Filter:Filter_1109-5_1.1x0.9mm",
+                "kicadSymbolReference": "FL",
+                "kicadSymbolValue": "SAFFB1G96FN0F0A",
+                "kicadSymbolki_description": "Murata 1960MHz SAW filter, SMD 1109",
+                "kicadSymbolki_fp_filters": "Filter*1109*1.1x0.9mm*",
+                "kicadSymbolki_keywords": "SAW filter"
+            }
+        ]
+    ]
+}

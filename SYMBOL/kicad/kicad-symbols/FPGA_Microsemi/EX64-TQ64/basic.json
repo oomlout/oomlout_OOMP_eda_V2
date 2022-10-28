@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKFPGAMSEMIEX64TQ64"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "FPGA_Microsemi : EX64-TQ64"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "FPGA_Microsemi"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-FPGA_Microsemi-EX64-TQ64"
+    ],
+    "oompIndex": [
+        "EX64-TQ64"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.microsemi.com/document-portal/doc_download/130687-ex-datasheet",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_QFP:TQFP-64_10x10mm_P0.5mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "EX64-TQ64",
+                "kicadSymbolki_description": "Actel eX Family FPGA, 64pin QFP",
+                "kicadSymbolki_fp_filters": "*TQFP*10x10mm*P0.5mm*",
+                "kicadSymbolki_keywords": "Actel FPGA eX eX64"
+            }
+        ]
+    ]
+}

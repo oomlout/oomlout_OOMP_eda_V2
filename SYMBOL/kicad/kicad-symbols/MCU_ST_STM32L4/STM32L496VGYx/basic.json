@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKMCUSTSTM32L4STM32L496VGYX"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "MCU_ST_STM32L4 : STM32L496VGYx"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "MCU_ST_STM32L4"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L4-STM32L496VGYx"
+    ],
+    "oompIndex": [
+        "STM32L496VGYx"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00284211.pdf",
+                "kicadSymbolExtends": "STM32L496VEYx",
+                "kicadSymbolFootprint": "Package_CSP:ST_WLCSP-100_Die461",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "STM32L496VGYx",
+                "kicadSymbolki_description": "ARM Cortex-M4 MCU, 1024KB flash, 320KB RAM, 80MHz, 1.71-3.6V, 81 GPIO, WLCSP-100",
+                "kicadSymbolki_fp_filters": "ST_WLCSP*Die461*",
+                "kicadSymbolki_keywords": "ARM Cortex-M4 STM32L4 STM32L4x6"
+            }
+        ]
+    ]
+}

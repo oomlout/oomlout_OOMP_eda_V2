@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKTRANSISTORFETIRF6616"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Transistor_FET : IRF6616"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Transistor_FET"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF6616"
+    ],
+    "oompIndex": [
+        "IRF6616"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.infineon.com/dgdl/irf6616pbf.pdf?fileId=5546d462533600a4015355e843461a13",
+                "kicadSymbolExtends": "BSB008NE2LX",
+                "kicadSymbolFootprint": "Package_DirectFET:DirectFET_MX",
+                "kicadSymbolReference": "Q",
+                "kicadSymbolValue": "IRF6616",
+                "kicadSymbolki_description": "19A Id, 40V Vds, 5mOhm Rds, N-Channel MOSFET, DirectFET MX",
+                "kicadSymbolki_fp_filters": "DirectFET*MX*",
+                "kicadSymbolki_keywords": "N-Channel MOSFET"
+            }
+        ]
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKOCSSG51"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Oscillator : SG-51"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Oscillator"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Oscillator-SG-51"
+    ],
+    "oompIndex": [
+        "SG-51"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://support.epson.biz/td/api/doc_check.php?mode=dl&lang=en&Parts=SG-51P",
+                "kicadSymbolExtends": "SG-8002DB",
+                "kicadSymbolFootprint": "Oscillator:Oscillator_SeikoEpson_SG-8002DB",
+                "kicadSymbolReference": "X",
+                "kicadSymbolValue": "SG-51",
+                "kicadSymbolki_description": "CMOS Crystal Clock Oscillator, DIP14-style plastic package",
+                "kicadSymbolki_fp_filters": "Oscillator*SeikoEpson*SG?8002DB*",
+                "kicadSymbolki_keywords": "Crystal Clock Oscillator"
+            }
+        ]
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKPOWERMANAGEMENTITS5215"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Power_Management : ITS5215"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Power_Management"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Power_Management-ITS5215"
+    ],
+    "oompIndex": [
+        "ITS5215"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.infineon.com/dgdl/Infineon-ITS5215L-DS-v01_01-en.pdf?fileId=db3a304412b407950112b428dba73e98",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_SO:Infineon_PG-DSO-12-9_ThermalVias",
+                "kicadSymbolReference": "IC",
+                "kicadSymbolValue": "ITS5215",
+                "kicadSymbolki_description": "Smart Dual Channel High Side Powertrain Switch (90mOhm)",
+                "kicadSymbolki_fp_filters": "*PG?DSO*",
+                "kicadSymbolki_keywords": "High_Side_Switch Power"
+            }
+        ]
+    ]
+}

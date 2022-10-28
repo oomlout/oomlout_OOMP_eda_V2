@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKREGULATORLINEARLT311XMSE"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Regulator_Linear : LT3011xMSE"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Regulator_Linear"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT3011xMSE"
+    ],
+    "oompIndex": [
+        "LT3011xMSE"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/3011f.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_SO:MSOP-12-1EP_3x4mm_P0.65mm_EP1.65x2.85mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "LT3011xMSE",
+                "kicadSymbolki_description": "50mA, 3V to 80V Low Dropout Micropower Linear Regulator with PWRGD, MSOP-12",
+                "kicadSymbolki_fp_filters": "MSOP*1EP*3x4mm*P0.65mm*",
+                "kicadSymbolki_keywords": "variable regulator"
+            }
+        ]
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "smd",
+            "description": "https://www.usriot.com/download/WIFI/USR-C322-Hardware-Manual_V1.2.01.pdf",
+            "name": "USR-C322",
+            "pins": {
+                "shape": "rect",
+                "type": "smd"
+            },
+            "tags": "WiFi IEEE802.11 b/g/n",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/RF_WiFi.3dshapes/USR-C322.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKRFUSRC322"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "RF_WiFi : USR-C322"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "RF_WiFi"
+    ],
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-RF_WiFi-USR-C322"
+    ],
+    "oompIndex": [
+        "USR-C322"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

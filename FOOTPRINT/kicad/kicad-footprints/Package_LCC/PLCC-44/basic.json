@@ -1,0 +1,57 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "smd",
+            "description": "PLCC, 44 pins, surface mount",
+            "name": "PLCC-44",
+            "pins": {
+                "shape": "rect",
+                "type": "smd"
+            },
+            "tags": "plcc smt",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/Package_LCC.3dshapes/PLCC-44.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKLCCPLCC44"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Package_LCC : PLCC-44"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Package_LCC"
+    ],
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Package_LCC-PLCC-44"
+    ],
+    "oompIndex": [
+        "PLCC-44"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKREGULATORSWITCHINGTMR12413"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Regulator_Switching : TMR_1-2413"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Regulator_Switching"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Regulator_Switching-TMR_1-2413"
+    ],
+    "oompIndex": [
+        "TMR_1-2413"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://assets.tracopower.com/TMR1/documents/tmr1-datasheet.pdf",
+                "kicadSymbolExtends": "TMR_1-0511",
+                "kicadSymbolFootprint": "Converter_DCDC:Converter_DCDC_TRACO_TMR-1-xxxx_Single_THT",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "TMR_1-2413",
+                "kicadSymbolki_description": "67mA Regulated 1W DC/DC converter with 1.5kV isolation, 18V-36V input, 15V fixed Output Voltage, SIP-6",
+                "kicadSymbolki_fp_filters": "Converter*DCDC*TRACO*TMR?1*Single*",
+                "kicadSymbolki_keywords": "Murata isolated isolation dc-dc converter transformer"
+            }
+        ]
+    ]
+}

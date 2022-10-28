@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKPOWERPROTECTIONEMI2121MTTAG"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Power_Protection : EMI2121MTTAG"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Power_Protection"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Power_Protection-EMI2121MTTAG"
+    ],
+    "oompIndex": [
+        "EMI2121MTTAG"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.onsemi.com/pub/Collateral/EMI2121MT-D.PDF",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_DFN_QFN:WDFN-8-1EP_2x2.2mm_P0.5mm_EP0.80x0.54",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "EMI2121MTTAG",
+                "kicadSymbolki_description": "Single Pair Common Mode Filter with ESD Protection, WDFN-8",
+                "kicadSymbolki_fp_filters": "WDFN*1EP*2x2.2mm*P0.5mm*",
+                "kicadSymbolki_keywords": "Common Mode ESD"
+            }
+        ]
+    ]
+}

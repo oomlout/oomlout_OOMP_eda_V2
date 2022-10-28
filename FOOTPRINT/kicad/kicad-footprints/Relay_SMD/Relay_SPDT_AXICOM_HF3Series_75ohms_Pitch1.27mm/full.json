@@ -1,0 +1,89 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "smd",
+            "description": "hiqsdr.com/images/3/3e/Axicom-HF3.pdf",
+            "name": "Relay_SPDT_AXICOM_HF3Series_75ohms_Pitch1.27mm",
+            "pins": {
+                "shape": "rect",
+                "type": "smd"
+            },
+            "tags": "AXICOM HF3-Series Relay Pitch 1.27mm 75ohm",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/Relay_SMD.3dshapes/Relay_SPDT_AXICOM_HF3Series_75ohms_Pitch1.27mm.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKRELAYSMRELAYSPDTAXICOMHF3SERIES75OHMSPITCH127"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Relay_SMD : Relay_SPDT_AXICOM_HF3Series_75ohms_Pitch1.27mm"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Relay_SMD"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Relay_SMD/Relay_SPDT_AXICOM_HF3Series_75ohms_Pitch1.27mm/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Relay_SMD/Relay_SPDT_AXICOM_HF3Series_75ohms_Pitch1.27mm/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Relay_SMD/Relay_SPDT_AXICOM_HF3Series_75ohms_Pitch1.27mm/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Relay_SMD/Relay_SPDT_AXICOM_HF3Series_75ohms_Pitch1.27mm/details.py"
+        ],
+        "imagePng": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Relay_SMD/Relay_SPDT_AXICOM_HF3Series_75ohms_Pitch1.27mm/image.png"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Relay_SMD/Relay_SPDT_AXICOM_HF3Series_75ohms_Pitch1.27mm/basic.json"
+        ],
+        "kicadPcb3d": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Relay_SMD/Relay_SPDT_AXICOM_HF3Series_75ohms_Pitch1.27mm/kicadPcb3d.png"
+        ],
+        "kicadPcb3dBack": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Relay_SMD/Relay_SPDT_AXICOM_HF3Series_75ohms_Pitch1.27mm/kicadPcb3dBack.png"
+        ],
+        "kicadPcb3dFront": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Relay_SMD/Relay_SPDT_AXICOM_HF3Series_75ohms_Pitch1.27mm/kicadPcb3dFront.png"
+        ],
+        "readme": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Relay_SMD/Relay_SPDT_AXICOM_HF3Series_75ohms_Pitch1.27mm/README.md"
+        ]
+    },
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Relay_SMD-Relay_SPDT_AXICOM_HF3Series_75ohms_Pitch1.27mm"
+    ],
+    "oompIndex": [
+        "Relay_SPDT_AXICOM_HF3Series_75ohms_Pitch1.27mm"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

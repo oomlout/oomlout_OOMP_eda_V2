@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKPOWERMANAGEMENTBD48XXFVE"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Power_Management : BD48xxFVE"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Power_Management"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Power_Management-BD48xxFVE"
+    ],
+    "oompIndex": [
+        "BD48xxFVE"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.rohm.de/datasheet/BD4830FVE/bd48xxg-e",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_TO_SOT_SMD:VSOF5",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "BD48xxFVE",
+                "kicadSymbolki_description": "Standard CMOS Voltage Detector IC, Open Drain Output, VSOF5",
+                "kicadSymbolki_fp_filters": "*VSOF*5*",
+                "kicadSymbolki_keywords": "voltage detector open drain VSOF5"
+            }
+        ]
+    ]
+}

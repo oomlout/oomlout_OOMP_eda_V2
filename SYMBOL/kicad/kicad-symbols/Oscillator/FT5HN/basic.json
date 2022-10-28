@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKOCSFT5HN"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Oscillator : FT5HN"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Oscillator"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Oscillator-FT5HN"
+    ],
+    "oompIndex": [
+        "FT5HN"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://foxonline.com/wp-content/uploads/pdfs/T5HN_T5HV.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Oscillator:Oscillator_SMD_Fox_FT5H_5.0x3.2mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "FT5HN",
+                "kicadSymbolki_description": "HCMOS temperature compensated oscillator",
+                "kicadSymbolki_fp_filters": "Oscillator*SMD*Fox*FT5H*5.0x3.2mm*",
+                "kicadSymbolki_keywords": "TXCO"
+            }
+        ]
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKRFMOAXSIPSFEU"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "RF_Module : AX-SIP-SFEU"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "RF_Module"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-RF_Module-AX-SIP-SFEU"
+    ],
+    "oompIndex": [
+        "AX-SIP-SFEU"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.onsemi.com/pub/Collateral/AX-SIP-SFEU-D.PDF",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_DFN_QFN:OnSemi_SIP-38-6EP-9x7mm_P0.65mm_EP1.2x1.2mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "AX-SIP-SFEU",
+                "kicadSymbolki_description": "Ultra low power, Sigfox or custom, system in package transceiver, 868Mhz",
+                "kicadSymbolki_fp_filters": "OnSemi*SIP*6EP*9x7mm*P0.65mm*",
+                "kicadSymbolki_keywords": "Sigfox SIP 868Mhz"
+            }
+        ]
+    ]
+}

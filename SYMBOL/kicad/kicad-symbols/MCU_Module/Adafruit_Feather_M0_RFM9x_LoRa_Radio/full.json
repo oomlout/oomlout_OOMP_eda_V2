@@ -1,0 +1,81 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKMCUMOADAFEATHERMRFM9XLORARADIO"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "MCU_Module : Adafruit_Feather_M0_RFM9x_LoRa_Radio"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "MCU_Module"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Module/Adafruit_Feather_M0_RFM9x_LoRa_Radio/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Module/Adafruit_Feather_M0_RFM9x_LoRa_Radio/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Module/Adafruit_Feather_M0_RFM9x_LoRa_Radio/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Module/Adafruit_Feather_M0_RFM9x_LoRa_Radio/details.py"
+        ],
+        "imagePng": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Module/Adafruit_Feather_M0_RFM9x_LoRa_Radio/image.png"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Module/Adafruit_Feather_M0_RFM9x_LoRa_Radio/basic.json"
+        ],
+        "readme": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Module/Adafruit_Feather_M0_RFM9x_LoRa_Radio/README.md"
+        ]
+    },
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-MCU_Module-Adafruit_Feather_M0_RFM9x_LoRa_Radio"
+    ],
+    "oompIndex": [
+        "Adafruit_Feather_M0_RFM9x_LoRa_Radio"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://cdn-learn.adafruit.com/downloads/pdf/adafruit-feather-m0-radio-with-lora-radio-module.pdf",
+                "kicadSymbolExtends": "Adafruit_Feather_M0_RFM69HCW_Packet_Radio",
+                "kicadSymbolFootprint": "Module:Adafruit_Feather_M0_RFM",
+                "kicadSymbolReference": "A",
+                "kicadSymbolValue": "Adafruit_Feather_M0_RFM9x_LoRa_Radio",
+                "kicadSymbolki_description": "Microcontroller module with SAMD21 Cortex-M0 MCU and RFM9x Radio",
+                "kicadSymbolki_fp_filters": "Adafruit*Feather*",
+                "kicadSymbolki_keywords": "Adafruit feather microcontroller module USB M0 SAMD21 LoRa Radio"
+            }
+        ]
+    ]
+}

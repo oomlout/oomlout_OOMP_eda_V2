@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKREGULATORSWITCHINGKA5M265RYDTU"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Regulator_Switching : KA5M0265RYDTU"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Regulator_Switching"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Regulator_Switching-KA5M0265RYDTU"
+    ],
+    "oompIndex": [
+        "KA5M0265RYDTU"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.onsemi.com/pub/Collateral/KA5L0265R-D.PDF",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_TO_SOT_THT:ONSemi_TO-220F-4L_Forming",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "KA5M0265RYDTU",
+                "kicadSymbolki_description": "67kHz SMPS Controller, AC-DC, TO-220F-4L(Forming)",
+                "kicadSymbolki_fp_filters": "*TO*220*4*",
+                "kicadSymbolki_keywords": "SMPS Controller AC-DC"
+            }
+        ]
+    ]
+}

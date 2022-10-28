@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKSENCURRENTCSLW6B1"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Sensor_Current : CSLW6B1"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Sensor_Current"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Sensor_Current-CSLW6B1"
+    ],
+    "oompIndex": [
+        "CSLW6B1"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://sensing.honeywell.com/honeywell-sensing-cslw-series-product-sheet-005861-1-en.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Sensor_Current:Honeywell_CSLW",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "CSLW6B1",
+                "kicadSymbolki_description": "Miniature Wired Open-Loop Current Sensors, 1A",
+                "kicadSymbolki_fp_filters": "Honeywell*CSLW*",
+                "kicadSymbolki_keywords": "hall current sensor"
+            }
+        ]
+    ]
+}

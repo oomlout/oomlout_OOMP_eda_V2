@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKFPGALATTICELFE5U85F7BG381X"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "FPGA_Lattice : LFE5U-85F-7BG381x"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "FPGA_Lattice"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-FPGA_Lattice-LFE5U-85F-7BG381x"
+    ],
+    "oompIndex": [
+        "LFE5U-85F-7BG381x"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.latticesemi.com/view_document?document_id=50461",
+                "kicadSymbolExtends": "LFE5U-85F-8BG381x",
+                "kicadSymbolFootprint": "Package_BGA:Lattice_caBGA-381_17.0x17.0mm_Layout20x20_P0.8mm_Ball0.4mm_Pad0.4mm_NSMD",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "LFE5U-85F-7BG381x",
+                "kicadSymbolki_description": "ECP5 FPGA, 84K LUTs, 1.2V, BGA-381",
+                "kicadSymbolki_fp_filters": "Lattice*caBGA*17.0x17.0mm*Layout20x20*P0.8mm*",
+                "kicadSymbolki_keywords": "FPGA programmable logic"
+            }
+        ]
+    ]
+}

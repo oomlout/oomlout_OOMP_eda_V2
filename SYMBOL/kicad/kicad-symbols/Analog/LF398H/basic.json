@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKANALOGLF398H"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Analog : LF398H"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Analog"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Analog-LF398H"
+    ],
+    "oompIndex": [
+        "LF398H"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.ti.com/lit/ds/symlink/lf398-n.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_TO_SOT_THT:TO-99-8",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "LF398H",
+                "kicadSymbolki_description": "Sample And Hold Unity Gain Follower, TO-99-8",
+                "kicadSymbolki_fp_filters": "*TO*99*",
+                "kicadSymbolki_keywords": "sample hold buffer unity gain"
+            }
+        ]
+    ]
+}

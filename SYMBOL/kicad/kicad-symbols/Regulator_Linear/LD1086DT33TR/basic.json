@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKREGULATORLINEARLD186DT33TR"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Regulator_Linear : LD1086DT33TR"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Regulator_Linear"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Regulator_Linear-LD1086DT33TR"
+    ],
+    "oompIndex": [
+        "LD1086DT33TR"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.st.com/resource/en/datasheet/ld1086.pdf",
+                "kicadSymbolExtends": "LD1086DTTR",
+                "kicadSymbolFootprint": "Package_TO_SOT_SMD:TO-252-2",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "LD1086DT33TR",
+                "kicadSymbolki_description": "Positive, 1.5A 30V, Linear Regulator, Fixed Output 3.3V, TO-252",
+                "kicadSymbolki_fp_filters": "TO?252?2*",
+                "kicadSymbolki_keywords": "Linear Regulator 1.5A Fixed Output"
+            }
+        ]
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "smd",
+            "description": "http://ams.com/eng/content/download/1008631/2361759/498838",
+            "name": "AMS_LGA-20_4.7x4.5mm_P0.65mm",
+            "pins": {
+                "shape": "rect",
+                "type": "smd"
+            },
+            "tags": "AMS LGA",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/Package_LGA.3dshapes/AMS_LGA-20_4.7x4.5mm_P0.65mm.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKLGAAMSLGA247X45P65"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Package_LGA : AMS_LGA-20_4.7x4.5mm_P0.65mm"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Package_LGA"
+    ],
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Package_LGA-AMS_LGA-20_4.7x4.5mm_P0.65mm"
+    ],
+    "oompIndex": [
+        "AMS_LGA-20_4.7x4.5mm_P0.65mm"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

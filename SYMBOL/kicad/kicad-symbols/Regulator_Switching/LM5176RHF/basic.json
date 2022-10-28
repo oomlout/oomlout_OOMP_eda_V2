@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKREGULATORSWITCHINGLM5176RHF"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Regulator_Switching : LM5176RHF"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Regulator_Switching"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM5176RHF"
+    ],
+    "oompIndex": [
+        "LM5176RHF"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.ti.com/lit/ds/symlink/lm5176.pdf",
+                "kicadSymbolExtends": "LM5175RHF",
+                "kicadSymbolFootprint": "Package_DFN_QFN:VQFN-28-1EP_4x5mm_P0.5mm_EP2.55x3.55mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "LM5176RHF",
+                "kicadSymbolki_description": "55-V wide Vin synchronous 4-switch Buck-Boost controller, QFN-28 package",
+                "kicadSymbolki_fp_filters": "VQFN*4x5mm*P0.5*",
+                "kicadSymbolki_keywords": "Buck Boost step-up step-down"
+            }
+        ]
+    ]
+}

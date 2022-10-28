@@ -1,0 +1,59 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKPOWERPROTECTIONPESD3V3L4UF"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Power_Protection : PESD3V3L4UF"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Power_Protection"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Power_Protection-PESD3V3L4UF"
+    ],
+    "oompIndex": [
+        "PESD3V3L4UF"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://assets.nexperia.com/documents/data-sheet/PESDXL4UF_G_W.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_TO_SOT_SMD:SOT-886",
+                "kicadSymbolReference": "D",
+                "kicadSymbolValue": "PESD3V3L4UF",
+                "kicadSymbolki_description": "Low capacitance unidirectional quadruple ESD protection diode array, 3.3V, Common Anode, SOT-886",
+                "kicadSymbolki_fp_filters": "SOT?886*",
+                "kicadSymbolki_keywords": "diode",
+                "kicadSymbolki_locked": ""
+            }
+        ]
+    ]
+}

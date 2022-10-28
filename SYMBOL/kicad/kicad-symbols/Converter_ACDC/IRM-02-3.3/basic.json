@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKCONIRM233"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Converter_ACDC : IRM-02-3.3"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Converter_ACDC"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Converter_ACDC-IRM-02-3.3"
+    ],
+    "oompIndex": [
+        "IRM-02-3.3"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.meanwell.com/Upload/PDF/IRM-02/IRM-02-SPEC.PDF",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Converter_ACDC:Converter_ACDC_MeanWell_IRM-02-xx_THT",
+                "kicadSymbolReference": "PS",
+                "kicadSymbolValue": "IRM-02-3.3",
+                "kicadSymbolki_description": "3.3V, 600mA, 2W, Isolated, AC-DC, IRM02",
+                "kicadSymbolki_fp_filters": "Converter*ACDC*MeanWell*IRM*02*THT*",
+                "kicadSymbolki_keywords": "Miniature Module-type Power Supply MeanWell"
+            }
+        ]
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "smd",
+            "description": "Mounting Hardware, inside through hole M3, height 6.6, Wuerth electronics 9775066360 (https://katalog.we-online.com/em/datasheet/9775066360.pdf), generated with kicad-footprint-generator",
+            "name": "Mounting_Wuerth_WA-SMSR-M3_H6.6mm_ReverseMount_9775066360",
+            "pins": {
+                "shape": "custom",
+                "type": "smd"
+            },
+            "tags": "Mounting M3 9775066360",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/Mounting_Wuerth.3dshapes/Mounting_Wuerth_WA-SMSR-M3_H6.6mm_ReverseMount_9775066360.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKMONMONWASMSRM3H66RMOUNT97756636"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Mounting_Wuerth : Mounting_Wuerth_WA-SMSR-M3_H6.6mm_ReverseMount_9775066360"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Mounting_Wuerth"
+    ],
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Mounting_Wuerth-Mounting_Wuerth_WA-SMSR-M3_H6.6mm_ReverseMount_9775066360"
+    ],
+    "oompIndex": [
+        "Mounting_Wuerth_WA-SMSR-M3_H6.6mm_ReverseMount_9775066360"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

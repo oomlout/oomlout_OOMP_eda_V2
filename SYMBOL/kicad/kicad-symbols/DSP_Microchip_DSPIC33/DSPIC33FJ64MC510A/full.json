@@ -1,0 +1,81 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKDSPMCHIPDSPIC33DSPIC33FJ64MC51A"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "DSP_Microchip_DSPIC33 : DSPIC33FJ64MC510A"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "DSP_Microchip_DSPIC33"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/DSP_Microchip_DSPIC33/DSPIC33FJ64MC510A/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/DSP_Microchip_DSPIC33/DSPIC33FJ64MC510A/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/DSP_Microchip_DSPIC33/DSPIC33FJ64MC510A/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/DSP_Microchip_DSPIC33/DSPIC33FJ64MC510A/details.py"
+        ],
+        "imagePng": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/DSP_Microchip_DSPIC33/DSPIC33FJ64MC510A/image.png"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/DSP_Microchip_DSPIC33/DSPIC33FJ64MC510A/basic.json"
+        ],
+        "readme": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/DSP_Microchip_DSPIC33/DSPIC33FJ64MC510A/README.md"
+        ]
+    },
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-DSP_Microchip_DSPIC33-DSPIC33FJ64MC510A"
+    ],
+    "oompIndex": [
+        "DSPIC33FJ64MC510A"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/70594C.pdf",
+                "kicadSymbolExtends": "DSPIC33FJ256MC710A",
+                "kicadSymbolFootprint": "",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "DSPIC33FJ64MC510A",
+                "kicadSymbolki_description": "High-Performance, 16-bit Digital Signal Controller, 40MIPS, 64k Flash, 8k SRAM, TQFP-100",
+                "kicadSymbolki_fp_filters": "TQFP*12x12mm*P0.4mm* TQFP*14x14mm*P0.5mm*",
+                "kicadSymbolki_keywords": "16-bit Digital Signal Controller Microchip dsPIC"
+            }
+        ]
+    ]
+}

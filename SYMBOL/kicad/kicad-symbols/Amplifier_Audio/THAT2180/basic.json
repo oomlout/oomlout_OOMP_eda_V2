@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKAMPLIFIERAUDIOTHAT218"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Amplifier_Audio : THAT2180"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Amplifier_Audio"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Amplifier_Audio-THAT2180"
+    ],
+    "oompIndex": [
+        "THAT2180"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.thatcorp.com/datashts/THAT_2180-Series_Datasheet.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_SIP:SIP-8_19x3mm_P2.54mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "THAT2180",
+                "kicadSymbolki_description": "Blackmer Pre-Trimmed IC Voltage Controlled Amplifiers, SIP-8",
+                "kicadSymbolki_fp_filters": "SIP*19x3mm*P2.54mm*",
+                "kicadSymbolki_keywords": "audio vca"
+            }
+        ]
+    ]
+}

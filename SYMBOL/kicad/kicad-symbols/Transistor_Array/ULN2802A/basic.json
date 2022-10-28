@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKTRANSISTORARRAYULN282A"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Transistor_Array : ULN2802A"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Transistor_Array"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Transistor_Array-ULN2802A"
+    ],
+    "oompIndex": [
+        "ULN2802A"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.promelec.ru/pdf/1536.pdf",
+                "kicadSymbolExtends": "ULN2803A",
+                "kicadSymbolFootprint": "",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "ULN2802A",
+                "kicadSymbolki_description": "Darlington Transistor Arrays, SOIC18/DIP18",
+                "kicadSymbolki_fp_filters": "DIP*W7.62mm* SOIC*7.5x11.6mm*P1.27mm*",
+                "kicadSymbolki_keywords": "darlington transistor array"
+            }
+        ]
+    ]
+}

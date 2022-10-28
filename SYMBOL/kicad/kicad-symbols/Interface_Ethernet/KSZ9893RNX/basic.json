@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKINTERFACEETHERNETKSZ9893RNX"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Interface_Ethernet : KSZ9893RNX"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Interface_Ethernet"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Interface_Ethernet-KSZ9893RNX"
+    ],
+    "oompIndex": [
+        "KSZ9893RNX"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/KSZ9893R-Data-Sheet-DS00002420C.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_DFN_QFN:QFN-64-1EP_8x8mm_P0.4mm_EP6.5x6.5mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "KSZ9893RNX",
+                "kicadSymbolki_description": "3-Port Gigabit Ethernet Switch with RGMII/MII/RMII Interface, QFN-64",
+                "kicadSymbolki_fp_filters": "QFN*1EP*8x8mm*P0.4mm*",
+                "kicadSymbolki_keywords": "Gigabit Ethernet Switch RGMII MII RMII"
+            }
+        ]
+    ]
+}

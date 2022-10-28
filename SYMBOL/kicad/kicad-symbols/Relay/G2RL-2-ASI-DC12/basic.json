@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKRELAYG2RL2ASIDC12"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Relay : G2RL-2-ASI-DC12"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Relay"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Relay-G2RL-2-ASI-DC12"
+    ],
+    "oompIndex": [
+        "G2RL-2-ASI-DC12"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://omronfs.omron.com/en_US/ecb/products/pdf/en-g2rl.pdf",
+                "kicadSymbolExtends": "G2RL-2-DC5",
+                "kicadSymbolFootprint": "Relay_THT:Relay_DPDT_Omron_G2RL",
+                "kicadSymbolReference": "RL",
+                "kicadSymbolValue": "G2RL-2-ASI-DC12",
+                "kicadSymbolki_description": "General Purpose Relay DPDT (2 Form C) Through Hole, Omron G2RL series, AgSnIn (large inrush current) contacts, 12V coil",
+                "kicadSymbolki_fp_filters": "Relay*DPDT*Omron*G2RL*",
+                "kicadSymbolki_keywords": "Omron Relay Dual Pole"
+            }
+        ]
+    ]
+}

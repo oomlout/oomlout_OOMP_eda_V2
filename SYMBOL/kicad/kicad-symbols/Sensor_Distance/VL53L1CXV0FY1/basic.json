@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKSENDISTANCEVL53L1CXVFY1"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Sensor_Distance : VL53L1CXV0FY1"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Sensor_Distance"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Sensor_Distance-VL53L1CXV0FY1"
+    ],
+    "oompIndex": [
+        "VL53L1CXV0FY1"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.st.com/resource/en/datasheet/vl53l1x.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Sensor_Distance:ST_VL53L1x",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "VL53L1CXV0FY1",
+                "kicadSymbolki_description": "4m distance ranging ToF sensor",
+                "kicadSymbolki_fp_filters": "ST*VL53L1x*",
+                "kicadSymbolki_keywords": "VL53L1x ToF"
+            }
+        ]
+    ]
+}

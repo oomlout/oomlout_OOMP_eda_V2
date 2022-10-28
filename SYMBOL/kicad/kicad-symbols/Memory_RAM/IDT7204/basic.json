@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKMEMORYRAMIDT724"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Memory_RAM : IDT7204"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Memory_RAM"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Memory_RAM-IDT7204"
+    ],
+    "oompIndex": [
+        "IDT7204"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.idt.com/document/7203-7208-datasheet",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_DIP:DIP-28_W7.62mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "IDT7204",
+                "kicadSymbolki_description": "4096x9 CMOS Asynchronous FIFO, DIP-28",
+                "kicadSymbolki_fp_filters": "DIP*7.62mm*",
+                "kicadSymbolki_keywords": "asynchronous fifo memory"
+            }
+        ]
+    ]
+}

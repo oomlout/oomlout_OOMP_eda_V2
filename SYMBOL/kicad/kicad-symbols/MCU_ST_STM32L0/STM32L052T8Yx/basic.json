@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKMCUSTSTM32LSTM32L52T8YX"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "MCU_ST_STM32L0 : STM32L052T8Yx"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "MCU_ST_STM32L0"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L0-STM32L052T8Yx"
+    ],
+    "oompIndex": [
+        "STM32L052T8Yx"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00108217.pdf",
+                "kicadSymbolExtends": "STM32L052T6Yx",
+                "kicadSymbolFootprint": "Package_CSP:ST_WLCSP-36_Die417",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "STM32L052T8Yx",
+                "kicadSymbolki_description": "ARM Cortex-M0+ MCU, 64KB flash, 8KB RAM, 32MHz, 1.65-3.6V, 29 GPIO, WLCSP-36",
+                "kicadSymbolki_fp_filters": "ST_WLCSP*Die417*",
+                "kicadSymbolki_keywords": "ARM Cortex-M0+ STM32L0 STM32L0x2"
+            }
+        ]
+    ]
+}

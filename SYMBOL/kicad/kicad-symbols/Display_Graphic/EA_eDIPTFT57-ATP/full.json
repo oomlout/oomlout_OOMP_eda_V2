@@ -1,0 +1,81 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKDIGRAPHICEAEDIPTFT57ATP"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Display_Graphic : EA_eDIPTFT57-ATP"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Display_Graphic"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Display_Graphic/EA_eDIPTFT57-ATP/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Display_Graphic/EA_eDIPTFT57-ATP/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Display_Graphic/EA_eDIPTFT57-ATP/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Display_Graphic/EA_eDIPTFT57-ATP/details.py"
+        ],
+        "imagePng": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Display_Graphic/EA_eDIPTFT57-ATP/image.png"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Display_Graphic/EA_eDIPTFT57-ATP/basic.json"
+        ],
+        "readme": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Display_Graphic/EA_eDIPTFT57-ATP/README.md"
+        ]
+    },
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Display_Graphic-EA_eDIPTFT57-ATP"
+    ],
+    "oompIndex": [
+        "EA_eDIPTFT57-ATP"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.lcd-module.com/fileadmin/eng/pdf/grafik/ediptft57-ae.pdf",
+                "kicadSymbolExtends": "EA_eDIPTFT57-A",
+                "kicadSymbolFootprint": "Display:EA_eDIPTFT57-XXX",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "EA_eDIPTFT57-ATP",
+                "kicadSymbolki_description": "TFT-graphical display with touch panel. 640x480, LED backlight, +5V VDD, RS-232, I2C or SPI",
+                "kicadSymbolki_fp_filters": "*EA*eDIPTFT57*",
+                "kicadSymbolki_keywords": "display TFT LCD graphic"
+            }
+        ]
+    ]
+}

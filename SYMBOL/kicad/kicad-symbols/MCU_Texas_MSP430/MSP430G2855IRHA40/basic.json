@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKMCUTEXASMSP43MSP43G2855IRHA4"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "MCU_Texas_MSP430 : MSP430G2855IRHA40"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "MCU_Texas_MSP430"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-MCU_Texas_MSP430-MSP430G2855IRHA40"
+    ],
+    "oompIndex": [
+        "MSP430G2855IRHA40"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.ti.com/lit/ds/symlink/msp430g2855.pdf",
+                "kicadSymbolExtends": "MSP430G2755IRHA40",
+                "kicadSymbolFootprint": "Package_DFN_QFN:Texas_S-PVQFN-N40_EP4.15x4.15mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "MSP430G2855IRHA40",
+                "kicadSymbolki_description": "48kB Flash, 4kB RAM, QFN-40",
+                "kicadSymbolki_fp_filters": "Texas*S?PVQFN*",
+                "kicadSymbolki_keywords": "TI MSP430 16-bit mixed signal microcontroller"
+            }
+        ]
+    ]
+}

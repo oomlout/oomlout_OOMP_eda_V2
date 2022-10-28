@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKPOWERMANAGEMENTAUIR3314S"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Power_Management : AUIR3314S"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Power_Management"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Power_Management-AUIR3314S"
+    ],
+    "oompIndex": [
+        "AUIR3314S"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.infineon.com/dgdl/auir3314.pdf?fileId=5546d462533600a4015355a846b8134a",
+                "kicadSymbolExtends": "AUIPS7111S",
+                "kicadSymbolFootprint": "Package_TO_SOT_SMD:TO-263-4",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "AUIR3314S",
+                "kicadSymbolki_description": "Programmable Current Sense High Side Switch, 32V, 58A, D2PAK-5L",
+                "kicadSymbolki_fp_filters": "TO?263*",
+                "kicadSymbolki_keywords": "high side switch"
+            }
+        ]
+    ]
+}

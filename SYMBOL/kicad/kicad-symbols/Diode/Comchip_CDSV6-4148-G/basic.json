@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKDIODECOMCHIPCDSV64148G"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Diode : Comchip_CDSV6-4148-G"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Diode"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Diode-Comchip_CDSV6-4148-G"
+    ],
+    "oompIndex": [
+        "Comchip_CDSV6-4148-G"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.comchiptech.com/cms/UserFiles/CDSV6-16-G,4148-G%20RevA272279.pdf",
+                "kicadSymbolExtends": "BAS16TW",
+                "kicadSymbolFootprint": "Package_TO_SOT_SMD:SOT-363_SC-70-6",
+                "kicadSymbolReference": "D",
+                "kicadSymbolValue": "Comchip_CDSV6-4148-G",
+                "kicadSymbolki_description": "Fast switching diode array 3 independent",
+                "kicadSymbolki_fp_filters": "*SOT?363*",
+                "kicadSymbolki_keywords": "diode"
+            }
+        ]
+    ]
+}

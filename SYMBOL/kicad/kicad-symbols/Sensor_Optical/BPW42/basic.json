@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKSENOPTICALBPW42"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Sensor_Optical : BPW42"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Sensor_Optical"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Sensor_Optical-BPW42"
+    ],
+    "oompIndex": [
+        "BPW42"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.ges.cz/sheets/b/bpw42.pdf",
+                "kicadSymbolExtends": "SFH309",
+                "kicadSymbolFootprint": "LED_THT:LED_D3.0mm_Clear",
+                "kicadSymbolReference": "Q",
+                "kicadSymbolValue": "BPW42",
+                "kicadSymbolki_description": "NPN phototransistor",
+                "kicadSymbolki_fp_filters": "LED*3.0mm*Clear*",
+                "kicadSymbolki_keywords": "NPN phototransistor opto"
+            }
+        ]
+    ]
+}

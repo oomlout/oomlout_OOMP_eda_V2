@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKTRANSISTORFETIRFTS9342PBF"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Transistor_FET : IRFTS9342PBF"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Transistor_FET"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Transistor_FET-IRFTS9342PBF"
+    ],
+    "oompIndex": [
+        "IRFTS9342PBF"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.infineon.com/dgdl/irfts9342pbf.pdf?fileId=5546d462533600a40153563aeabc21f3",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_SO:TSOP-6_1.65x3.05mm_P0.95mm",
+                "kicadSymbolReference": "Q",
+                "kicadSymbolValue": "IRFTS9342PBF",
+                "kicadSymbolki_description": "-5.8A Id, -30V Vds, 40mOhm Rds, P-Channel HEXFET Power MOSFET, TSOP-6",
+                "kicadSymbolki_fp_filters": "TSOP*1.65x3.05mm*P0.95mm*",
+                "kicadSymbolki_keywords": "P-Channel MOSFET HEXFET"
+            }
+        ]
+    ]
+}

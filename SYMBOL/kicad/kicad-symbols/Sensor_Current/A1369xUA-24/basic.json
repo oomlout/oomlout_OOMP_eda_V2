@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKSENCURRENTA1369XUA24"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Sensor_Current : A1369xUA-24"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Sensor_Current"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Sensor_Current-A1369xUA-24"
+    ],
+    "oompIndex": [
+        "A1369xUA-24"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.allegromicro.com/~/media/Files/Datasheets/A1369-Datasheet.ashx?la=en",
+                "kicadSymbolExtends": "A1369xUA-10",
+                "kicadSymbolFootprint": "Sensor_Current:Allegro_SIP-3",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "A1369xUA-24",
+                "kicadSymbolki_description": "Programmable Linear Hall Effect Sensor, -22 to -26mV/G, SIP-3",
+                "kicadSymbolki_fp_filters": "Allegro*SIP*",
+                "kicadSymbolki_keywords": "hall effect current monitor sensor isolated"
+            }
+        ]
+    ]
+}

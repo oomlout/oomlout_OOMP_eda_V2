@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKMCUNXPKINETISMKL16Z256VMP4"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "MCU_NXP_Kinetis : MKL16Z256VMP4"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "MCU_NXP_Kinetis"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-MCU_NXP_Kinetis-MKL16Z256VMP4"
+    ],
+    "oompIndex": [
+        "MKL16Z256VMP4"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.nxp.com/docs/en/data-sheet/KL16P64M48SF4.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_BGA:XFBGA-64_5.0x5.0mm_Layout8x8_P0.5mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "MKL16Z256VMP4",
+                "kicadSymbolki_description": "Kinetis KL16 series, 48-MHz/32-bit ARM Cortex-M0+, 256 kB flash, 32 kB SRAM, I\u00b2S, TSI, MAPBGA-64",
+                "kicadSymbolki_fp_filters": "XFBGA*5.0x5.0mm*P0.5mm*",
+                "kicadSymbolki_keywords": "Kinetis KL16 ARM Cortex M0+"
+            }
+        ]
+    ]
+}

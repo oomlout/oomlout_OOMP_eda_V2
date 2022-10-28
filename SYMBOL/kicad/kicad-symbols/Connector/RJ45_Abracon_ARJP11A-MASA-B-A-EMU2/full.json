@@ -1,0 +1,81 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKCNRJ45ABRACONARJP11AMASABAEMU2"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Connector : RJ45_Abracon_ARJP11A-MASA-B-A-EMU2"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Connector"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/RJ45_Abracon_ARJP11A-MASA-B-A-EMU2/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/RJ45_Abracon_ARJP11A-MASA-B-A-EMU2/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/RJ45_Abracon_ARJP11A-MASA-B-A-EMU2/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/RJ45_Abracon_ARJP11A-MASA-B-A-EMU2/details.py"
+        ],
+        "imagePng": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/RJ45_Abracon_ARJP11A-MASA-B-A-EMU2/image.png"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/RJ45_Abracon_ARJP11A-MASA-B-A-EMU2/basic.json"
+        ],
+        "readme": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector/RJ45_Abracon_ARJP11A-MASA-B-A-EMU2/README.md"
+        ]
+    },
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Connector-RJ45_Abracon_ARJP11A-MASA-B-A-EMU2"
+    ],
+    "oompIndex": [
+        "RJ45_Abracon_ARJP11A-MASA-B-A-EMU2"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://abracon.com/Magnetics/lan/ARJP11A.PDF",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Connector_RJ:RJ45_Abracon_ARJP11A-MA_Horizontal",
+                "kicadSymbolReference": "J",
+                "kicadSymbolValue": "RJ45_Abracon_ARJP11A-MASA-B-A-EMU2",
+                "kicadSymbolki_description": "RJ45 PoE 10/100 Base-TX Jack with Magnetic Module",
+                "kicadSymbolki_fp_filters": "RJ45*Abracon*ARJP11A?MA*",
+                "kicadSymbolki_keywords": "single port ethernet transformer poe center-tap"
+            }
+        ]
+    ]
+}

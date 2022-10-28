@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKPOWERPROTECTIONTPD4S14"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Power_Protection : TPD4S014"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Power_Protection"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Power_Protection-TPD4S014"
+    ],
+    "oompIndex": [
+        "TPD4S014"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.ti.com/lit/ds/symlink/tpd4s014.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_SON:Texas_S-PWSON-N10",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "TPD4S014",
+                "kicadSymbolki_description": "USB Charger Port Protection Including ESD Protection for All Lines and Overvoltage Protection on VBUS",
+                "kicadSymbolki_fp_filters": "Package?SON:Texas?S?PWSON?N10*",
+                "kicadSymbolki_keywords": "USB  Port Protection"
+            }
+        ]
+    ]
+}

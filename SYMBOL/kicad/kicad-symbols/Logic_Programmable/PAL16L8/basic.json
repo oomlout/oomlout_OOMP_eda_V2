@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKLOGICPROGRAABLEPAL16L8"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Logic_Programmable : PAL16L8"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Logic_Programmable"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Logic_Programmable-PAL16L8"
+    ],
+    "oompIndex": [
+        "PAL16L8"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "PAL16L8",
+                "kicadSymbolki_description": "Programmable Logic Array, DIP-20",
+                "kicadSymbolki_fp_filters": "DIP* PDIP*",
+                "kicadSymbolki_keywords": "PAL PLD 16L8"
+            }
+        ]
+    ]
+}

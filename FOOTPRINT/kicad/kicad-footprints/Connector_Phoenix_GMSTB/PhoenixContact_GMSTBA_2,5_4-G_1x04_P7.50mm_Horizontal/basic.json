@@ -1,0 +1,57 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "through_hole",
+            "description": "Generic Phoenix Contact connector footprint for: GMSTBA_2,5/4-G; number of pins: 04; pin pitch: 7.50mm; Angled || order number: 1766369 12A 630V",
+            "name": "PhoenixContact_GMSTBA_2,5_4-G_1x04_P7.50mm_Horizontal",
+            "pins": {
+                "shape": "roundrect",
+                "type": "thru_hole"
+            },
+            "tags": "phoenix_contact connector GMSTBA_01x04_G_7.50mm",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/Connector_Phoenix_GMSTB.3dshapes/PhoenixContact_GMSTBA_2,5_4-G_1x04_P7.50mm_Horizontal.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKCNPHOENIXGMSTBPHOENIXCONTACTGMSTBA254G1X4P75HORIZONTAL"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Connector_Phoenix_GMSTB : PhoenixContact_GMSTBA_2,5_4-G_1x04_P7.50mm_Horizontal"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Connector_Phoenix_GMSTB"
+    ],
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Connector_Phoenix_GMSTB-PhoenixContact_GMSTBA_2,5_4-G_1x04_P7.50mm_Horizontal"
+    ],
+    "oompIndex": [
+        "PhoenixContact_GMSTBA_2,5_4-G_1x04_P7.50mm_Horizontal"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

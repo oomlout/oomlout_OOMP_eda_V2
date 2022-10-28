@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKDEVICEQDUALNMOSG1S2G2D2S1D1"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Device : Q_Dual_NMOS_G1S2G2D2S1D1"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Device"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Device-Q_Dual_NMOS_G1S2G2D2S1D1"
+    ],
+    "oompIndex": [
+        "Q_Dual_NMOS_G1S2G2D2S1D1"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "~",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "",
+                "kicadSymbolReference": "Q",
+                "kicadSymbolValue": "Q_Dual_NMOS_G1S2G2D2S1D1",
+                "kicadSymbolki_description": "Dual NMOS transistor, 6 pin package",
+                "kicadSymbolki_fp_filters": "TSOP* SC?70* SC?88* SOT?363*",
+                "kicadSymbolki_keywords": "transistor NMOS N-MOS N-MOSFET"
+            }
+        ]
+    ]
+}

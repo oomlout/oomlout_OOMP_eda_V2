@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKCONATAA18SL"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Converter_DCDC : ATA00A18S-L"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Converter_DCDC"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Converter_DCDC-ATA00A18S-L"
+    ],
+    "oompIndex": [
+        "ATA00A18S-L"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.artesyn.com/power/assets/ata_series_ds_01apr2015_79c25814fd.pdf",
+                "kicadSymbolExtends": "ATA00F18S-L",
+                "kicadSymbolFootprint": "Converter_DCDC:Converter_DCDC_Artesyn_ATA_SMD",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "ATA00A18S-L",
+                "kicadSymbolki_description": "Artesyn 3W Isolated DC/DC Converter Module, 5V Output Voltage, 9-36V Input Voltage",
+                "kicadSymbolki_fp_filters": "*Artesyn*ATA*SMD*",
+                "kicadSymbolki_keywords": "DC/DC converter single"
+            }
+        ]
+    ]
+}

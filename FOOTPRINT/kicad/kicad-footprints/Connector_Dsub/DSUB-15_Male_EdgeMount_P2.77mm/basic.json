@@ -1,0 +1,57 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "smd",
+            "description": "15-pin D-Sub connector, solder-cups edge-mounted, male, x-pin-pitch 2.77mm, distance of mounting holes 33.3mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf",
+            "name": "DSUB-15_Male_EdgeMount_P2.77mm",
+            "pins": {
+                "shape": "rect",
+                "type": "smd"
+            },
+            "tags": "15-pin D-Sub connector edge mount solder cup male x-pin-pitch 2.77mm mounting holes distance 33.3mm",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/Connector_Dsub.3dshapes/DSUB-15_Male_EdgeMount_P2.77mm.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKCNDSUBDSUB15MALEEDGEMOUNTP277"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Connector_Dsub : DSUB-15_Male_EdgeMount_P2.77mm"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Connector_Dsub"
+    ],
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Connector_Dsub-DSUB-15_Male_EdgeMount_P2.77mm"
+    ],
+    "oompIndex": [
+        "DSUB-15_Male_EdgeMount_P2.77mm"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

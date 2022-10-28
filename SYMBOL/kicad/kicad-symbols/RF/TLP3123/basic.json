@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKRFTLP3123"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "RF : TLP3123"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "RF"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-RF-TLP3123"
+    ],
+    "oompIndex": [
+        "TLP3123"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://toshiba.semicon-storage.com/info/docget.jsp?did=10047&prodName=TLP3123",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_SO:SO-4_4.4x3.9mm_P2.54mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "TLP3123",
+                "kicadSymbolki_description": "Solid State Relay (Photo MOSFET) 40V, 1A, 0.1Ohm, SO-4",
+                "kicadSymbolki_fp_filters": "SO*4.4x3.9mm*P2.54mm*",
+                "kicadSymbolki_keywords": "MOSFET Output Photorelay 1-Form-A"
+            }
+        ]
+    ]
+}

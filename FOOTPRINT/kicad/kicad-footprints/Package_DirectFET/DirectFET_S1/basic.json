@@ -1,0 +1,57 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "smd",
+            "description": "DirectFET S1 https://www.infineon.com/dgdl/Infineon-AN-1035-ApplicationNotes-v29_01-EN.pdf?fileId=5546d462533600a40153559159020f76#page=20",
+            "name": "DirectFET_S1",
+            "pins": {
+                "shape": "rect",
+                "type": "smd"
+            },
+            "tags": "DirectFET S1 MOSFET Infineon",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/Package_DirectFET.3dshapes/DirectFET_S1.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKDFETDIRECTFETS1"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Package_DirectFET : DirectFET_S1"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Package_DirectFET"
+    ],
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Package_DirectFET-DirectFET_S1"
+    ],
+    "oompIndex": [
+        "DirectFET_S1"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

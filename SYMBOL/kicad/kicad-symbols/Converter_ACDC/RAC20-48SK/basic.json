@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKCONRAC248SK"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Converter_ACDC : RAC20-48SK"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Converter_ACDC"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Converter_ACDC-RAC20-48SK"
+    ],
+    "oompIndex": [
+        "RAC20-48SK"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://recom-power.com/pdf/Powerline_AC-DC/RAC20-K.pdf",
+                "kicadSymbolExtends": "RAC20-05SK",
+                "kicadSymbolFootprint": "Converter_ACDC:Converter_ACDC_Recom_RAC20-xxSK_THT",
+                "kicadSymbolReference": "PS",
+                "kicadSymbolValue": "RAC20-48SK",
+                "kicadSymbolki_description": "20 Watt Single Output AC/DC power supply 48V 420mA",
+                "kicadSymbolki_fp_filters": "Converter*ACDC*Recom*RAC20*SK*THT*",
+                "kicadSymbolki_keywords": "ac dc power supply"
+            }
+        ]
+    ]
+}

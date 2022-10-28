@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKTRPA3493NL"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Transformer : PA3493NL"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Transformer"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Transformer-PA3493NL"
+    ],
+    "oompIndex": [
+        "PA3493NL"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://productfinder.pulseeng.com/products/datasheets/SPM2007_61.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Transformer_SMD:Pulse_PA3493NL",
+                "kicadSymbolReference": "T",
+                "kicadSymbolValue": "PA3493NL",
+                "kicadSymbolki_description": "SMT Gate Drive Transformer, 1.25:1",
+                "kicadSymbolki_fp_filters": "Pulse*PA3493NL*",
+                "kicadSymbolki_keywords": "pulse"
+            }
+        ]
+    ]
+}

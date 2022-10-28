@@ -1,0 +1,54 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "through_hole",
+            "description": "Heatsink TV5G TO-220 Horizontal, https://www.shopaavid.com/Product/TV-5G",
+            "name": "Heatsink_AAVID_TV5G_TO220_Horizontal",
+            "pins": {},
+            "tags": "Heatsink TV5G TO-220 Horizontal ",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/Heatsink.3dshapes/Heatsink_AAVID_TV5G_TO220_Horizontal.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKHHAAVIDTV5GTO22HORIZONTAL"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Heatsink : Heatsink_AAVID_TV5G_TO220_Horizontal"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Heatsink"
+    ],
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Heatsink-Heatsink_AAVID_TV5G_TO220_Horizontal"
+    ],
+    "oompIndex": [
+        "Heatsink_AAVID_TV5G_TO220_Horizontal"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

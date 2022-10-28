@@ -1,0 +1,81 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKTRTEZ4D2"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Transformer : TEZ4.0-D-2"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Transformer"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transformer/TEZ4.0-D-2/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transformer/TEZ4.0-D-2/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transformer/TEZ4.0-D-2/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transformer/TEZ4.0-D-2/details.py"
+        ],
+        "imagePng": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transformer/TEZ4.0-D-2/image.png"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transformer/TEZ4.0-D-2/basic.json"
+        ],
+        "readme": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transformer/TEZ4.0-D-2/README.md"
+        ]
+    },
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Transformer-TEZ4.0-D-2"
+    ],
+    "oompIndex": [
+        "TEZ4.0-D-2"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.breve.pl/pdf/ANG/TEZ_ang.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Transformer_THT:Transformer_Breve_TEZ-35x42",
+                "kicadSymbolReference": "TR",
+                "kicadSymbolValue": "TEZ4.0-D-2",
+                "kicadSymbolki_description": "TEZ4.0/D/x-x, 4VA, Dual Secondary, Cast Resin Transformer, PCB",
+                "kicadSymbolki_fp_filters": "Transformer*Breve*TEZ*35x42*",
+                "kicadSymbolki_keywords": "4VA PCB Transformer Dual Secondary"
+            }
+        ]
+    ]
+}

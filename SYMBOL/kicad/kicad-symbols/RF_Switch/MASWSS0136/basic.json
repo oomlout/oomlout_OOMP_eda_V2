@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKRFSWITCHMASWSS136"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "RF_Switch : MASWSS0136"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "RF_Switch"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-RF_Switch-MASWSS0136"
+    ],
+    "oompIndex": [
+        "MASWSS0136"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://cdn.macom.com/datasheets/MASWSS0136.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_TO_SOT_SMD:SOT-363_SC-70-6",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "MASWSS0136",
+                "kicadSymbolki_description": "Macom GaAs RF SPDT switch, DC-3GHz, 0.4/27dB loss/isolation, SOT-363",
+                "kicadSymbolki_fp_filters": "SOT*363*",
+                "kicadSymbolki_keywords": "RF SWITCH SPDT"
+            }
+        ]
+    ]
+}

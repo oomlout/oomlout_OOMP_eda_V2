@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKRELAYFINDER411216"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Relay : FINDER-40.11-2016"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Relay"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Relay-FINDER-40.11-2016"
+    ],
+    "oompIndex": [
+        "FINDER-40.11-2016"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.finder-relais.net/de/finder-relais-serie-40.pdf",
+                "kicadSymbolExtends": "FINDER-40.11",
+                "kicadSymbolFootprint": "Relay_THT:Relay_SPDT_Finder_40.11",
+                "kicadSymbolReference": "K",
+                "kicadSymbolValue": "FINDER-40.11-2016",
+                "kicadSymbolki_description": "PCB SPDT relay, 16A",
+                "kicadSymbolki_fp_filters": "Relay*SPDT*Finder*40.11*",
+                "kicadSymbolki_keywords": "Single Pole Relay SPDT Finder"
+            }
+        ]
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKREGULATORLINEARLP38693MP5"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Regulator_Linear : LP38693MP-5.0"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Regulator_Linear"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Regulator_Linear-LP38693MP-5.0"
+    ],
+    "oompIndex": [
+        "LP38693MP-5.0"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.ti.com/lit/ds/symlink/lp38693.pdf",
+                "kicadSymbolExtends": "LP38693MP-1.8",
+                "kicadSymbolFootprint": "Package_TO_SOT_SMD:SOT-223-5",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "LP38693MP-5.0",
+                "kicadSymbolki_description": "500-mA Low-Dropout CMOS Linear Regulators Stable With Ceramic Output Capacitors, 5.0V output voltage, Enable Pin, SOT-223",
+                "kicadSymbolki_fp_filters": "SOT*223*",
+                "kicadSymbolki_keywords": "LDO Linear Regulator"
+            }
+        ]
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKMCUNXPLPCLPC11U22FBD4831"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "MCU_NXP_LPC : LPC11U22FBD48-301"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "MCU_NXP_LPC"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-MCU_NXP_LPC-LPC11U22FBD48-301"
+    ],
+    "oompIndex": [
+        "LPC11U22FBD48-301"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.nxp.com/documents/data_sheet/LPC11U2X.pdf",
+                "kicadSymbolExtends": "LPC11U12FBD48-201",
+                "kicadSymbolFootprint": "Package_QFP:LQFP-48_7x7mm_P0.5mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "LPC11U22FBD48-301",
+                "kicadSymbolki_description": "32-bit ARM Cortex-M0 microcontroller, USB, 16KB flash, 8KB SRAM",
+                "kicadSymbolki_fp_filters": "*QFP*7x7mm*P0.5mm*",
+                "kicadSymbolki_keywords": "ARM, 32-bit, Cortex-M0, M0, NXP, microcontroller"
+            }
+        ]
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKREGULATORSWITCHINGFSL136MRT"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Regulator_Switching : FSL136MRT"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Regulator_Switching"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Regulator_Switching-FSL136MRT"
+    ],
+    "oompIndex": [
+        "FSL136MRT"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.onsemi.com/pub/Collateral/FSL136MRT-D.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_TO_SOT_THT:Fairchild_TO-220F-6L",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "FSL136MRT",
+                "kicadSymbolki_description": "67kHz SMPS Controller w/ Soft Start, max. 50W AC-DC, TO-220F-6L",
+                "kicadSymbolki_fp_filters": "Fairchild*TO*220F*6L*",
+                "kicadSymbolki_keywords": "SMPS Controller 50W AC-DC"
+            }
+        ]
+    ]
+}

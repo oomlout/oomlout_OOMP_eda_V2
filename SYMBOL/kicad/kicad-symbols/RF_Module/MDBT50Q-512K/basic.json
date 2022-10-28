@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKRFMOMDBT5Q512K"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "RF_Module : MDBT50Q-512K"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "RF_Module"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-RF_Module-MDBT50Q-512K"
+    ],
+    "oompIndex": [
+        "MDBT50Q-512K"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.raytac.com/download/index.php?index_id=46",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "RF_Module:Raytac_MDBT50Q",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "MDBT50Q-512K",
+                "kicadSymbolki_description": "Multiprotocol BLE/ANT/2.4 GHz/802.15.4 Cortex-M4F SoC, nRF52833 module",
+                "kicadSymbolki_fp_filters": "Raytac?MDBT50Q*",
+                "kicadSymbolki_keywords": "MCU, ARM, BLE, ANT, 2.4GHz, 802.15.4 MDBT50Q"
+            }
+        ]
+    ]
+}

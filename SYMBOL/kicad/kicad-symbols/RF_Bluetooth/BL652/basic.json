@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKRFBLUETOOTHBL652"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "RF_Bluetooth : BL652"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "RF_Bluetooth"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-RF_Bluetooth-BL652"
+    ],
+    "oompIndex": [
+        "BL652"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://cdn.lairdtech.com/home/brandworld/files/Datasheet%20-%20BL652.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "RF_Module:Laird_BL652",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "BL652",
+                "kicadSymbolki_description": "Bluetooth module",
+                "kicadSymbolki_fp_filters": "Laird*BL652*",
+                "kicadSymbolki_keywords": "Bluetooth Nordic nRF52"
+            }
+        ]
+    ]
+}

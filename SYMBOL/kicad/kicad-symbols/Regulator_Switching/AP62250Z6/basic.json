@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKREGULATORSWITCHINGAP6225Z6"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Regulator_Switching : AP62250Z6"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Regulator_Switching"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Regulator_Switching-AP62250Z6"
+    ],
+    "oompIndex": [
+        "AP62250Z6"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.diodes.com/assets/Datasheets/AP62250.pdf",
+                "kicadSymbolExtends": "AP62150Z6",
+                "kicadSymbolFootprint": "Package_TO_SOT_SMD:SOT-563",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "AP62250Z6",
+                "kicadSymbolki_description": "2.5A, 1.3MHz Buck DC/DC Converter, adjustable output voltage, SOT-563",
+                "kicadSymbolki_fp_filters": "SOT?563*",
+                "kicadSymbolki_keywords": "2.5A 1.3MHz PWM Buck DC/DC"
+            }
+        ]
+    ]
+}

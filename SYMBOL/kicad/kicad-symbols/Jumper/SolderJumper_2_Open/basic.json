@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKJSOLDERJ2OPEN"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Jumper : SolderJumper_2_Open"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Jumper"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Jumper-SolderJumper_2_Open"
+    ],
+    "oompIndex": [
+        "SolderJumper_2_Open"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "~",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "",
+                "kicadSymbolReference": "JP",
+                "kicadSymbolValue": "SolderJumper_2_Open",
+                "kicadSymbolki_description": "Solder Jumper, 2-pole, open",
+                "kicadSymbolki_fp_filters": "SolderJumper*Open*",
+                "kicadSymbolki_keywords": "solder jumper SPST"
+            }
+        ]
+    ]
+}

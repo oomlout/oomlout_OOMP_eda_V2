@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKLHDSP48362"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "LED : HDSP-4836_2"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "LED"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-LED-HDSP-4836_2"
+    ],
+    "oompIndex": [
+        "HDSP-4836_2"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://docs.broadcom.com/docs/AV02-1798EN",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Display:HDSP-4836",
+                "kicadSymbolReference": "BAR",
+                "kicadSymbolValue": "HDSP-4836_2",
+                "kicadSymbolki_description": "BAR GRAPH 10 segment block, Mix of high efficiency red, yellow and green",
+                "kicadSymbolki_fp_filters": "HDSP?48*",
+                "kicadSymbolki_keywords": "display LED array"
+            }
+        ]
+    ]
+}

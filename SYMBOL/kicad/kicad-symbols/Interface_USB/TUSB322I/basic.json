@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKINTERFACEUTU322I"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Interface_USB : TUSB322I"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Interface_USB"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Interface_USB-TUSB322I"
+    ],
+    "oompIndex": [
+        "TUSB322I"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "www.ti.com/lit/ds/symlink/tusb322i.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_DFN_QFN:Texas_X2QFN-12_1.6x1.6mm_P0.4mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "TUSB322I",
+                "kicadSymbolki_description": "USB Type-C Configuration Channel Logic and Port Control with VCONN, X2QFN-12",
+                "kicadSymbolki_fp_filters": "Texas?X2QFN*1.6x1.6mm*P0.4mm*",
+                "kicadSymbolki_keywords": "USB VCONN PD CC"
+            }
+        ]
+    ]
+}

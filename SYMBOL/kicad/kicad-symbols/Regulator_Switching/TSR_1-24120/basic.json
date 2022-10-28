@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKREGULATORSWITCHINGTSR12412"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Regulator_Switching : TSR_1-24120"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Regulator_Switching"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Regulator_Switching-TSR_1-24120"
+    ],
+    "oompIndex": [
+        "TSR_1-24120"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.tracopower.com/products/tsr1.pdf",
+                "kicadSymbolExtends": "TSR_1-2450",
+                "kicadSymbolFootprint": "Converter_DCDC:Converter_DCDC_TRACO_TSR-1_THT",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "TSR_1-24120",
+                "kicadSymbolki_description": "1A step-down regulator module, fixed 12V output voltage, 5-36V input voltage, -40\u00b0C to +85\u00b0C temperature range, TO-220 compatible LM78xx replacement",
+                "kicadSymbolki_fp_filters": "Converter*DCDC*TRACO*TSR?1*",
+                "kicadSymbolki_keywords": "dc-dc traco buck"
+            }
+        ]
+    ]
+}

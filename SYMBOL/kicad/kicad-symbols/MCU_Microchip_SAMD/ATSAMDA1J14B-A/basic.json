@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKMCUMCHIPSAMDATSAMDA1J14BA"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "MCU_Microchip_SAMD : ATSAMDA1J14B-A"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "MCU_Microchip_SAMD"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-MCU_Microchip_SAMD-ATSAMDA1J14B-A"
+    ],
+    "oompIndex": [
+        "ATSAMDA1J14B-A"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/SAM_D21_DA1_Family_Data%20Sheet_DS40001882E.pdf",
+                "kicadSymbolExtends": "ATSAMD21J15A-A",
+                "kicadSymbolFootprint": "Package_QFP:TQFP-64_10x10mm_P0.5mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "ATSAMDA1J14B-A",
+                "kicadSymbolki_description": "SAM DA1 Microchip SMART ARM-based Flash MCU, 48Mhz, 16K Flash w/ 0.5K RWW, 4K SRAM, TQFP-64",
+                "kicadSymbolki_fp_filters": "TQFP*10x10mm*P0.5mm*",
+                "kicadSymbolki_keywords": "32-bit ARM Cortex-M0+ MCU Microcontroller"
+            }
+        ]
+    ]
+}

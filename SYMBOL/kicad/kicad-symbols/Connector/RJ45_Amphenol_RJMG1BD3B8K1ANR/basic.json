@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKCNRJ45AMPHENOLRJMG1BD3B8K1ANR"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Connector : RJ45_Amphenol_RJMG1BD3B8K1ANR"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Connector"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Connector-RJ45_Amphenol_RJMG1BD3B8K1ANR"
+    ],
+    "oompIndex": [
+        "RJ45_Amphenol_RJMG1BD3B8K1ANR"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.amphenolcanada.com/ProductSearch/Drawings/AC/RJMG1BD3B8K1ANR.PDF",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Connector_RJ:RJ45_Amphenol_RJMG1BD3B8K1ANR",
+                "kicadSymbolReference": "J",
+                "kicadSymbolValue": "RJ45_Amphenol_RJMG1BD3B8K1ANR",
+                "kicadSymbolki_description": "1 Port RJ45 Magjack Connector Through Hole 10/100 Base-T, AutoMDIX",
+                "kicadSymbolki_fp_filters": "RJ45*Amphenol*RJMG1BD3B8K1ANR*",
+                "kicadSymbolki_keywords": "RJ45 Magjack"
+            }
+        ]
+    ]
+}

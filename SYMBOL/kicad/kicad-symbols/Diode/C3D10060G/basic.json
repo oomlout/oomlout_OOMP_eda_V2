@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKDIODEC3D16G"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Diode : C3D10060G"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Diode"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Diode-C3D10060G"
+    ],
+    "oompIndex": [
+        "C3D10060G"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.wolfspeed.com/media/downloads/143/C3D10060G.pdf",
+                "kicadSymbolExtends": "C3D06060G",
+                "kicadSymbolFootprint": "Package_TO_SOT_SMD:TO-263-2_TabPin1",
+                "kicadSymbolReference": "D",
+                "kicadSymbolValue": "C3D10060G",
+                "kicadSymbolki_description": "600V, 10A, SiC Schottky Diode, TO-263",
+                "kicadSymbolki_fp_filters": "TO?263*TabPin1*",
+                "kicadSymbolki_keywords": "sic diode"
+            }
+        ]
+    ]
+}

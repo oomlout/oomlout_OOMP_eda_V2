@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKDRIVERMOTORTB6612FNG"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Driver_Motor : TB6612FNG"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Driver_Motor"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Driver_Motor-TB6612FNG"
+    ],
+    "oompIndex": [
+        "TB6612FNG"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://toshiba.semicon-storage.com/us/product/linear/motordriver/detail.TB6612FNG.html",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_SO:SSOP-24_5.3x8.2mm_P0.65mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "TB6612FNG",
+                "kicadSymbolki_description": "Driver IC for Dual DC motor, SSOP-24",
+                "kicadSymbolki_fp_filters": "SSOP-24*5.3x8.2mm*P0.65mm*",
+                "kicadSymbolki_keywords": "H-bridge motor driver"
+            }
+        ]
+    ]
+}

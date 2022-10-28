@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKSENADE7758"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Sensor : ADE7758"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Sensor"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Sensor-ADE7758"
+    ],
+    "oompIndex": [
+        "ADE7758"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/ADE7758.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_SO:SOIC-24W_7.5x15.4mm_P1.27mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "ADE7758",
+                "kicadSymbolki_description": "Poly Phase Multifunction Energy Metering, SO-24",
+                "kicadSymbolki_fp_filters": "SOIC*7.5x15.4mm*P1.27mm*",
+                "kicadSymbolki_keywords": "Energy Metering"
+            }
+        ]
+    ]
+}

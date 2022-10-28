@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKMEMORYRAMCY622567PC"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Memory_RAM : CY62256-70PC"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Memory_RAM"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Memory_RAM-CY62256-70PC"
+    ],
+    "oompIndex": [
+        "CY62256-70PC"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://ecee.colorado.edu/~mcclurel/Cypress_SRAM_CY62256.pdf",
+                "kicadSymbolExtends": "KM62256CLP",
+                "kicadSymbolFootprint": "Package_DIP:DIP-28_W15.24mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "CY62256-70PC",
+                "kicadSymbolki_description": "256K (32K x 8) Static RAM, 70ns, DIP-28",
+                "kicadSymbolki_fp_filters": "DIP*W15.24mm*",
+                "kicadSymbolki_keywords": "RAM SRAM CMOS MEMORY"
+            }
+        ]
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKCNRB1125B8G1A"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Connector : RB1-125B8G1A"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Connector"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Connector-RB1-125B8G1A"
+    ],
+    "oompIndex": [
+        "RB1-125B8G1A"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://datasheet.lcsc.com/szlcsc/1901091107_UDE-Corp-RB1-125B8G1A_C363353.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Connector_RJ:RJ45_UDE_RB1-125B8G1A",
+                "kicadSymbolReference": "J",
+                "kicadSymbolValue": "RB1-125B8G1A",
+                "kicadSymbolki_description": "LAN Transformer Jack, RJ45, 10/100/1000 BaseT",
+                "kicadSymbolki_fp_filters": "RJ45*UDE*RB1*125B8G1A*",
+                "kicadSymbolki_keywords": "lan jack transformer ethernet gigabit 10 100 1000 baset"
+            }
+        ]
+    ]
+}

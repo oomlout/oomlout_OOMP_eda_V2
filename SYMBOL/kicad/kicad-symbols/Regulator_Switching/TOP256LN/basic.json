@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKREGULATORSWITCHINGTOP256LN"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Regulator_Switching : TOP256LN"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Regulator_Switching"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Regulator_Switching-TOP256LN"
+    ],
+    "oompIndex": [
+        "TOP256LN"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://ac-dc.power.com/sites/default/files/product-docs/topswitch-hx_family_datasheet.pdf",
+                "kicadSymbolExtends": "TOP255LN",
+                "kicadSymbolFootprint": "Package_SIP:PowerIntegrations_eSIP-7F",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "TOP256LN",
+                "kicadSymbolki_description": "TOPSwitch-HX Family, 64W Output Power",
+                "kicadSymbolki_fp_filters": "PowerIntegrations?eSIP?7F*",
+                "kicadSymbolki_keywords": "Eco Smart Off-Line Switcher, Extendend Power Range"
+            }
+        ]
+    ]
+}

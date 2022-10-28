@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKDEVICEQDUALPNPNPNBRTE1B1C2E2B2C1"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Device : Q_Dual_PNP_NPN_BRT_E1B1C2E2B2C1"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Device"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Device-Q_Dual_PNP_NPN_BRT_E1B1C2E2B2C1"
+    ],
+    "oompIndex": [
+        "Q_Dual_PNP_NPN_BRT_E1B1C2E2B2C1"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "~",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "",
+                "kicadSymbolReference": "Q",
+                "kicadSymbolValue": "Q_Dual_PNP_NPN_BRT_E1B1C2E2B2C1",
+                "kicadSymbolki_description": "Dual PNP/NPN bias resistor transistor, 6 pin package",
+                "kicadSymbolki_fp_filters": "SC?70* SC?88* SOT*363*",
+                "kicadSymbolki_keywords": "transistor NPN"
+            }
+        ]
+    ]
+}

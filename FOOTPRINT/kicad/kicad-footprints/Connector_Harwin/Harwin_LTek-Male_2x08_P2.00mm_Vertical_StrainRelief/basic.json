@@ -1,0 +1,57 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "through_hole",
+            "description": "Harwin LTek Connector, 16 pins, single row male, vertical entry, strain relief clip",
+            "name": "Harwin_LTek-Male_2x08_P2.00mm_Vertical_StrainRelief",
+            "pins": {
+                "shape": "circle",
+                "type": "thru_hole"
+            },
+            "tags": "connector harwin ltek M80",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/Connector_Harwin.3dshapes/Harwin_LTek-Male_2x08_P2.00mm_Vertical_StrainRelief.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKCNHARWINHARWINLTEKMALE2X8P2VERTICALSTRAINRELIEF"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Connector_Harwin : Harwin_LTek-Male_2x08_P2.00mm_Vertical_StrainRelief"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Connector_Harwin"
+    ],
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Connector_Harwin-Harwin_LTek-Male_2x08_P2.00mm_Vertical_StrainRelief"
+    ],
+    "oompIndex": [
+        "Harwin_LTek-Male_2x08_P2.00mm_Vertical_StrainRelief"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

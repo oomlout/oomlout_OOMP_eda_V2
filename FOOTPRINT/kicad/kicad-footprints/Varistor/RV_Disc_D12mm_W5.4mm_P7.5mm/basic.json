@@ -1,0 +1,57 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "through_hole",
+            "description": "Varistor, diameter 12mm, width 5.4mm, pitch 7.5mm",
+            "name": "RV_Disc_D12mm_W5.4mm_P7.5mm",
+            "pins": {
+                "shape": "circle",
+                "type": "thru_hole"
+            },
+            "tags": "varistor SIOV",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/Varistor.3dshapes/RV_Disc_D12mm_W5.4mm_P7.5mm.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKVRVDISCD12W54P75"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Varistor : RV_Disc_D12mm_W5.4mm_P7.5mm"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Varistor"
+    ],
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Varistor-RV_Disc_D12mm_W5.4mm_P7.5mm"
+    ],
+    "oompIndex": [
+        "RV_Disc_D12mm_W5.4mm_P7.5mm"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

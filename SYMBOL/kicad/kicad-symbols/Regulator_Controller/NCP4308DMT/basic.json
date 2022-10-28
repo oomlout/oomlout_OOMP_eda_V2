@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKREGULATORCONTROLLERNCP438DMT"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Regulator_Controller : NCP4308DMT"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Regulator_Controller"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Regulator_Controller-NCP4308DMT"
+    ],
+    "oompIndex": [
+        "NCP4308DMT"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.onsemi.com/pub/Collateral/NCP4308-D.PDF",
+                "kicadSymbolExtends": "NCP4308AMT",
+                "kicadSymbolFootprint": "Package_DFN_QFN:OnSemi_DFN-8_2x2mm_P0.5mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "NCP4308DMT",
+                "kicadSymbolki_description": "Synchronous Rectifier Controller, 4A/8A, 4V UVLO, WDFN-8",
+                "kicadSymbolki_fp_filters": "OnSemi*DFN*2x2mm*P0.5mm*",
+                "kicadSymbolki_keywords": "synchronous rectifier controller"
+            }
+        ]
+    ]
+}

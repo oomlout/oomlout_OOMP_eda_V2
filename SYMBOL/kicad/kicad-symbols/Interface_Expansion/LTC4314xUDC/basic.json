@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKINTERFACEEXPANSIONLTC4314XUDC"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Interface_Expansion : LTC4314xUDC"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Interface_Expansion"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Interface_Expansion-LTC4314xUDC"
+    ],
+    "oompIndex": [
+        "LTC4314xUDC"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/4314f.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_DFN_QFN:QFN-20-1EP_3x4mm_P0.5mm_EP1.65x2.65mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "LTC4314xUDC",
+                "kicadSymbolki_description": "Pin-Selectable, 4-Channel, 2-Wire Multiplexer with Bus Buffers, QFN-20",
+                "kicadSymbolki_fp_filters": "QFN*1EP*3x4mm*P0.5mm*",
+                "kicadSymbolki_keywords": "I2C Multiplexer Buffer Level Shifter"
+            }
+        ]
+    ]
+}

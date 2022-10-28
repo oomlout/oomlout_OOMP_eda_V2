@@ -1,0 +1,57 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "through_hole",
+            "description": "Generic Phoenix Contact connector footprint for: MC_1,5/11-GF-3.81; number of pins: 11; pin pitch: 3.81mm; Angled; threaded flange; footprint includes mount hole for mounting screw: ISO 1481-ST 2.2x4.5 C or ISO 7049-ST 2.2x4.5 C (http://www.fasteners.eu/standards/ISO/7049/) || order number: 1827952 8A 160V",
+            "name": "PhoenixContact_MC_1,5_11-GF-3.81_1x11_P3.81mm_Horizontal_ThreadedFlange_MountHole",
+            "pins": {
+                "shape": "circle",
+                "type": "np_thru_hole"
+            },
+            "tags": "phoenix_contact connector MC_01x11_GF_3.81mm_MH",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/Connector_Phoenix_MC.3dshapes/PhoenixContact_MC_1,5_11-GF-3.81_1x11_P3.81mm_Horizontal_ThreadedFlange_MountHole.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKCNPHOENIXMCPHOENIXCONTACTMC1511GF3811X11P381HORIZONTALTHREADEDFLANGEMOUNTHOLE"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Connector_Phoenix_MC : PhoenixContact_MC_1,5_11-GF-3.81_1x11_P3.81mm_Horizontal_ThreadedFlange_MountHole"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Connector_Phoenix_MC"
+    ],
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Connector_Phoenix_MC-PhoenixContact_MC_1,5_11-GF-3.81_1x11_P3.81mm_Horizontal_ThreadedFlange_MountHole"
+    ],
+    "oompIndex": [
+        "PhoenixContact_MC_1,5_11-GF-3.81_1x11_P3.81mm_Horizontal_ThreadedFlange_MountHole"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

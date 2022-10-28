@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKTRANSISTORFETBSB12NE2LXI"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Transistor_FET : BSB012NE2LXI"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Transistor_FET"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Transistor_FET-BSB012NE2LXI"
+    ],
+    "oompIndex": [
+        "BSB012NE2LXI"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.infineon.com/dgdl/Infineon-BSB012NE2LXI-DS-v02_01-EN.pdf?fileId=db3a30433f764301013f805e3eb247c1",
+                "kicadSymbolExtends": "BSB008NE2LX",
+                "kicadSymbolFootprint": "Package_DirectFET:DirectFET_MX",
+                "kicadSymbolReference": "Q",
+                "kicadSymbolValue": "BSB012NE2LXI",
+                "kicadSymbolki_description": "170A Id, 25V Vds, 1.2mOhm Rds, N-Channel MOSFET, DirectFET MX",
+                "kicadSymbolki_fp_filters": "DirectFET*MX*",
+                "kicadSymbolki_keywords": "N-Channel MOSFET"
+            }
+        ]
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKPOWERSUPERVISORMAX811LEUST"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Power_Supervisor : MAX811LEUS-T"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Power_Supervisor"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Power_Supervisor-MAX811LEUS-T"
+    ],
+    "oompIndex": [
+        "MAX811LEUS-T"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://datasheets.maximintegrated.com/en/ds/MAX811-MAX812.pdf",
+                "kicadSymbolExtends": "MIC811LUY",
+                "kicadSymbolFootprint": "Package_TO_SOT_SMD:SOT-143",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "MAX811LEUS-T",
+                "kicadSymbolki_description": "Power supply supervisor, Manual reset, Threshold 4.63V, SOT-143",
+                "kicadSymbolki_fp_filters": "SOT*143*",
+                "kicadSymbolki_keywords": "Supervisor Reset"
+            }
+        ]
+    ]
+}

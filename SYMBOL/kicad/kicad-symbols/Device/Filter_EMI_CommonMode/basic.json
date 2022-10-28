@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKDEVICEFILEMICOONMODE"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Device : Filter_EMI_CommonMode"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Device"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Device-Filter_EMI_CommonMode"
+    ],
+    "oompIndex": [
+        "Filter_EMI_CommonMode"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "~",
+                "kicadSymbolExtends": "Filter_EMI_LL",
+                "kicadSymbolFootprint": "",
+                "kicadSymbolReference": "FL",
+                "kicadSymbolValue": "Filter_EMI_CommonMode",
+                "kicadSymbolki_description": "EMI 2-inductor common mode filter",
+                "kicadSymbolki_fp_filters": "L_* L_CommonMode*",
+                "kicadSymbolki_keywords": "EMI common mode filter"
+            }
+        ]
+    ]
+}

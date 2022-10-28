@@ -1,0 +1,57 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "smd",
+            "description": "http://www.heilind.com/marketing/documents/jae/JAE_MM70.pdf",
+            "name": "JAE_MM70-314-310B1",
+            "pins": {
+                "shape": "circle",
+                "type": "np_thru_hole"
+            },
+            "tags": "connector JAE MXM",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/Connector_JAE.3dshapes/JAE_MM70-314-310B1.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKCNJAEJAE731431B1"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Connector_JAE : JAE_MM70-314-310B1"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Connector_JAE"
+    ],
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Connector_JAE-JAE_MM70-314-310B1"
+    ],
+    "oompIndex": [
+        "JAE_MM70-314-310B1"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

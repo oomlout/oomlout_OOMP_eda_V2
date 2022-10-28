@@ -1,0 +1,57 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKSENNUCLEARRADIATIONDETECTOR"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Sensor : Nuclear-Radiation_Detector"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Sensor"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Sensor-Nuclear-Radiation_Detector"
+    ],
+    "oompIndex": [
+        "Nuclear-Radiation_Detector"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "~",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "",
+                "kicadSymbolReference": "V",
+                "kicadSymbolValue": "Nuclear-Radiation_Detector",
+                "kicadSymbolki_description": "Generic radiation detector",
+                "kicadSymbolki_keywords": "nuclear ionising radiation sensor geiger mueller muller tube neutron counter ionization chamber"
+            }
+        ]
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKDEVICESPEAKERULTRASOUND"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Device : Speaker_Ultrasound"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Device"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Device-Speaker_Ultrasound"
+    ],
+    "oompIndex": [
+        "Speaker_Ultrasound"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "~",
+                "kicadSymbolExtends": "Speaker_Crystal",
+                "kicadSymbolFootprint": "",
+                "kicadSymbolReference": "LS",
+                "kicadSymbolValue": "Speaker_Ultrasound",
+                "kicadSymbolki_description": "Ultrasonic transducer",
+                "kicadSymbolki_keywords": "crystal speaker ultrasonic transducer"
+            }
+        ]
+    ]
+}

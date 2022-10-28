@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKMCUMCHIPATMEGAATMEGA169AMC"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "MCU_Microchip_ATmega : ATmega169A-MC"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "MCU_Microchip_ATmega"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega169A-MC"
+    ],
+    "oompIndex": [
+        "ATmega169A-MC"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/atmel-8284-8-bit-avr-microcontroller-atmega169a_pa_329a_pa_3290a_pa_649a_p_6490a_p_datasheet.pdf",
+                "kicadSymbolExtends": "ATmega169PV-8MC",
+                "kicadSymbolFootprint": "Package_DFN_QFN:Microchip_DRQFN-64-1EP_7x7mm_P0.65mm_EP4.1x4.1mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "ATmega169A-MC",
+                "kicadSymbolki_description": "16MHz, 16kB Flash, 1kB SRAM, 512B EEPROM, DRQFN-64",
+                "kicadSymbolki_fp_filters": "Microchip*DRQFN*1EP*7x7mm*P0.65mm*",
+                "kicadSymbolki_keywords": "AVR 8bit Microcontroller MegaAVR LCD PicoPower"
+            }
+        ]
+    ]
+}

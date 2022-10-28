@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKLHDSP4832"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "LED : HDSP-4832"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "LED"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-LED-HDSP-4832"
+    ],
+    "oompIndex": [
+        "HDSP-4832"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://docs.broadcom.com/docs/AV02-1798EN",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Display:HDSP-4832",
+                "kicadSymbolReference": "BAR",
+                "kicadSymbolValue": "HDSP-4832",
+                "kicadSymbolki_description": "10-element LED arrays, Mix of high efficient red, yellow and green",
+                "kicadSymbolki_fp_filters": "HDSP?48*",
+                "kicadSymbolki_keywords": "display LED array"
+            }
+        ]
+    ]
+}

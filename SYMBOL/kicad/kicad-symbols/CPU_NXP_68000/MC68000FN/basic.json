@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKCPUNXP68MC68FN"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "CPU_NXP_68000 : MC68000FN"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "CPU_NXP_68000"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-CPU_NXP_68000-MC68000FN"
+    ],
+    "oompIndex": [
+        "MC68000FN"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.nxp.com/files/32bit/doc/ref_manual/MC68000UM.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_LCC:PLCC-68",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "MC68000FN",
+                "kicadSymbolki_description": "Microprocessor, 16-bit bus",
+                "kicadSymbolki_fp_filters": "PLCC*",
+                "kicadSymbolki_keywords": "MPRO"
+            }
+        ]
+    ]
+}

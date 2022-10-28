@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKSENGASMQ6"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Sensor_Gas : MQ-6"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Sensor_Gas"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Sensor_Gas-MQ-6"
+    ],
+    "oompIndex": [
+        "MQ-6"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.winsen-sensor.com/d/files/semiconductor/mq-6.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Sensor:MQ-6",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "MQ-6",
+                "kicadSymbolki_description": "Semiconductor Sensor for Flammable Gas",
+                "kicadSymbolki_fp_filters": "*MQ*6*",
+                "kicadSymbolki_keywords": "flammable gas sensor LPG"
+            }
+        ]
+    ]
+}

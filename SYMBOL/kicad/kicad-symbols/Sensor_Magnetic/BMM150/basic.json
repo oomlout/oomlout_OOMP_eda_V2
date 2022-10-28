@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKSENMAGNETICB15"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Sensor_Magnetic : BMM150"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Sensor_Magnetic"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-BMM150"
+    ],
+    "oompIndex": [
+        "BMM150"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.mouser.com/datasheet/2/783/BST-BMM150-DS001-01-786480.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_CSP:WLCSP-12_1.56x1.56mm_P0.4mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "BMM150",
+                "kicadSymbolki_description": "Geomagnetic Sensor, WLCSP-12",
+                "kicadSymbolki_fp_filters": "WLCSP*1.56x1.56mm*P0.4mm*",
+                "kicadSymbolki_keywords": "BOSH Geomagnetic Sensor"
+            }
+        ]
+    ]
+}

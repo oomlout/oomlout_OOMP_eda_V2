@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKANALOGADCLTC1744"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Analog_ADC : LTC1744"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Analog_ADC"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Analog_ADC-LTC1744"
+    ],
+    "oompIndex": [
+        "LTC1744"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/1744f.pdf",
+                "kicadSymbolExtends": "LTC1742",
+                "kicadSymbolFootprint": "Package_SO:TSSOP-48_6.1x12.5mm_P0.5mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "LTC1744",
+                "kicadSymbolki_description": "14-Bit, 50Msps, ADC, TSSOP-48",
+                "kicadSymbolki_fp_filters": "TSSOP*6.1x12.5mm*P0.5mm*",
+                "kicadSymbolki_keywords": "ADC analog digital converter pipeline"
+            }
+        ]
+    ]
+}

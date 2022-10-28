@@ -1,0 +1,59 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKMCUSIFIVEFU54C"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "MCU_SiFive : FU540-C000"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "MCU_SiFive"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-MCU_SiFive-FU540-C000"
+    ],
+    "oompIndex": [
+        "FU540-C000"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://static.dev.sifive.com/FU540-C000-v1.0.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_BGA:BGA-484_23.0x23.0mm_Layout22x22_P1.0mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "FU540-C000",
+                "kicadSymbolki_description": "64-bit RISC\u2011V SoC, BGA-484",
+                "kicadSymbolki_fp_filters": "BGA*23.0x23.0mm*P1.0mm*",
+                "kicadSymbolki_keywords": "SiFive",
+                "kicadSymbolki_locked": ""
+            }
+        ]
+    ]
+}

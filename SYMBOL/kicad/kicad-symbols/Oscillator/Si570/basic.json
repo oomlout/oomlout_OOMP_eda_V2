@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKOCSSI57"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Oscillator : Si570"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Oscillator"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Oscillator-Si570"
+    ],
+    "oompIndex": [
+        "Si570"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.silabs.com/Support%20Documents/TechnicalDocs/si570.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Oscillator:Oscillator_SMD_SI570_SI571_Standard",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "Si570",
+                "kicadSymbolki_description": "10 MHZ TO 1.4 GHZ I2C PROGRAMMABLE XO/VCXO",
+                "kicadSymbolki_fp_filters": "Oscillator*SI570*SI571*",
+                "kicadSymbolki_keywords": "10 MHZ TO 1.4 GHZ I2C PROGRAMMABLE XO/VCXO"
+            }
+        ]
+    ]
+}

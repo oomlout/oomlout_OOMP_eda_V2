@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKSENPROXIMITYCNY7"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Sensor_Proximity : CNY70"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Sensor_Proximity"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Sensor_Proximity-CNY70"
+    ],
+    "oompIndex": [
+        "CNY70"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.vishay.com/docs/83751/cny70.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "OptoDevice:Vishay_CNY70",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "CNY70",
+                "kicadSymbolki_description": "Reflective Optical Sensor with Transistor Output",
+                "kicadSymbolki_fp_filters": "Vishay*CNY70*",
+                "kicadSymbolki_keywords": "Reflective Optical Sensor Opto"
+            }
+        ]
+    ]
+}

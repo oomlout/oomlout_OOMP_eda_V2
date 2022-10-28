@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # FZKVRVDISCD215W65P1 > Varistor : RV_Disc_D21.5mm_W6.5mm_P10mm
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Varistor-RV_Disc_D21.5mm_W6.5mm_P10mm
@@ -13,8 +13,9 @@ NO IMAGE
 - Short Link: [http://oom.lt/FZKVRVDISCD215W65P1](http://oom.lt/FZKVRVDISCD215W65P1)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Varistor/RV_Disc_D21.5mm_W6.5mm_P10mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Varistor/RV_Disc_D21.5mm_W6.5mm_P10mm/image.png)||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Varistor/RV_Disc_D21.5mm_W6.5mm_P10mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Varistor/RV_Disc_D21.5mm_W6.5mm_P10mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Varistor/RV_Disc_D21.5mm_W6.5mm_P10mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Varistor/RV_Disc_D21.5mm_W6.5mm_P10mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Varistor/RV_Disc_D21.5mm_W6.5mm_P10mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Varistor/RV_Disc_D21.5mm_W6.5mm_P10mm/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Varistor/RV_Disc_D21.5mm_W6.5mm_P10mm/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Varistor/RV_Disc_D21.5mm_W6.5mm_P10mm/kicadPcb3d.png)|
 | :---: | :---: | :---: | :---: |
+|||||
 
 ## Tags
   
@@ -31,3 +32,7 @@ NO IMAGE
 |name|name|Varistor : RV_Disc_D21.5mm_W6.5mm_P10mm|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'RV_Disc_D21.5mm_W6.5mm_P10mm'</td><td> 'description'</td></tr><tr><td> 'Varistor</td><td> diameter 21.5mm</td><td> width 6.5mm</td><td> pitch 10mm'</td><td> 'tags'</td></tr><tr><td> 'varistor SIOV'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Varistor.3dshapes/RV_Disc_D21.5mm_W6.5mm_P10mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
+
+
+
+[im]: FOOTPRINT/kicad/kicad-footprints/Varistor/RV_Disc_D21.5mm_W6.5mm_P10mm/kicadPcb3d_450.png

@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKANALOGADCADS739"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Analog_ADC : ADS7039"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Analog_ADC"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Analog_ADC-ADS7039"
+    ],
+    "oompIndex": [
+        "ADS7039"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.ti.com/lit/ds/symlink/ads7039-q1.pdf",
+                "kicadSymbolExtends": "ADS7040xDCU",
+                "kicadSymbolFootprint": "Package_SO:VSSOP-8_2.3x2mm_P0.5mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "ADS7039",
+                "kicadSymbolki_description": "Small-Size, Low-Power, 10-Bit, 2-MSPS, SAR ADC",
+                "kicadSymbolki_fp_filters": "VSSOP*8*2.3x2mm*P0.5mm*",
+                "kicadSymbolki_keywords": "10 bit SAR ADC"
+            }
+        ]
+    ]
+}

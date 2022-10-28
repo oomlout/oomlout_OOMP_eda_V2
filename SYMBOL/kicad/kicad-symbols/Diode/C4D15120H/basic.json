@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKDIODEC4D1512H"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Diode : C4D15120H"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Diode"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Diode-C4D15120H"
+    ],
+    "oompIndex": [
+        "C4D15120H"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.wolfspeed.com/media/downloads/1190/C4D15120H.pdf",
+                "kicadSymbolExtends": "C4D10120H",
+                "kicadSymbolFootprint": "Package_TO_SOT_THT:TO-247-2_Vertical",
+                "kicadSymbolReference": "D",
+                "kicadSymbolValue": "C4D15120H",
+                "kicadSymbolki_description": "1200V, 15A, SiC Schottky Diode, TO-247",
+                "kicadSymbolki_fp_filters": "TO?247*",
+                "kicadSymbolki_keywords": "sic diode"
+            }
+        ]
+    ]
+}

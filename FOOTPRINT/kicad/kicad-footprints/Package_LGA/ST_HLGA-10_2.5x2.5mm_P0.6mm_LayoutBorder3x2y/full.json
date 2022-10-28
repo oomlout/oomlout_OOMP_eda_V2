@@ -1,0 +1,89 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "smd",
+            "description": "ST  HLGA, 10 Pin (https://www.st.com/resource/en/datasheet/lps25hb.pdf#page=46), generated with kicad-footprint-generator ipc_noLead_generator.py",
+            "name": "ST_HLGA-10_2.5x2.5mm_P0.6mm_LayoutBorder3x2y",
+            "pins": {
+                "shape": "roundrect",
+                "type": "smd"
+            },
+            "tags": "ST HLGA NoLead",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/Package_LGA.3dshapes/ST_HLGA-10_2.5x2.5mm_P0.6mm_LayoutBorder3x2y.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKLGASTHLGA125X25P6LAYOUTBORDER3X2Y"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Package_LGA : ST_HLGA-10_2.5x2.5mm_P0.6mm_LayoutBorder3x2y"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Package_LGA"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_LGA/ST_HLGA-10_2.5x2.5mm_P0.6mm_LayoutBorder3x2y/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_LGA/ST_HLGA-10_2.5x2.5mm_P0.6mm_LayoutBorder3x2y/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_LGA/ST_HLGA-10_2.5x2.5mm_P0.6mm_LayoutBorder3x2y/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_LGA/ST_HLGA-10_2.5x2.5mm_P0.6mm_LayoutBorder3x2y/details.py"
+        ],
+        "imagePng": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_LGA/ST_HLGA-10_2.5x2.5mm_P0.6mm_LayoutBorder3x2y/image.png"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_LGA/ST_HLGA-10_2.5x2.5mm_P0.6mm_LayoutBorder3x2y/basic.json"
+        ],
+        "kicadPcb3d": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_LGA/ST_HLGA-10_2.5x2.5mm_P0.6mm_LayoutBorder3x2y/kicadPcb3d.png"
+        ],
+        "kicadPcb3dBack": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_LGA/ST_HLGA-10_2.5x2.5mm_P0.6mm_LayoutBorder3x2y/kicadPcb3dBack.png"
+        ],
+        "kicadPcb3dFront": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_LGA/ST_HLGA-10_2.5x2.5mm_P0.6mm_LayoutBorder3x2y/kicadPcb3dFront.png"
+        ],
+        "readme": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_LGA/ST_HLGA-10_2.5x2.5mm_P0.6mm_LayoutBorder3x2y/README.md"
+        ]
+    },
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Package_LGA-ST_HLGA-10_2.5x2.5mm_P0.6mm_LayoutBorder3x2y"
+    ],
+    "oompIndex": [
+        "ST_HLGA-10_2.5x2.5mm_P0.6mm_LayoutBorder3x2y"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

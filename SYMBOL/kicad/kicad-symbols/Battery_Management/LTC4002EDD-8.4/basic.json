@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKBATMANAGEMENTLTC42EDD84"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Battery_Management : LTC4002EDD-8.4"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Battery_Management"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Battery_Management-LTC4002EDD-8.4"
+    ],
+    "oompIndex": [
+        "LTC4002EDD-8.4"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/4002f.pdf",
+                "kicadSymbolExtends": "LTC4002EDD-4.2",
+                "kicadSymbolFootprint": "Package_DFN_QFN:DFN-10-1EP_3x3mm_P0.5mm_EP1.55x2.48mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "LTC4002EDD-8.4",
+                "kicadSymbolki_description": "Standalone Li-Ion Switch Mode Battery Charger, 8.9-22V input, double cell, DFN-10",
+                "kicadSymbolki_fp_filters": "DFN*10*1EP*3x3mm*P0.5mm*",
+                "kicadSymbolki_keywords": "lithium li-ion battery charger"
+            }
+        ]
+    ]
+}

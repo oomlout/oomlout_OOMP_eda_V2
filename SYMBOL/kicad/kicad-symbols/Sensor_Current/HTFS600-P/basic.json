@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKSENCURRENTHTFS6P"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Sensor_Current : HTFS600-P"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Sensor_Current"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Sensor_Current-HTFS600-P"
+    ],
+    "oompIndex": [
+        "HTFS600-P"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.lem.com/sites/default/files/products_datasheets/htfs_200_800-p.pdf",
+                "kicadSymbolExtends": "HTFS200-P",
+                "kicadSymbolFootprint": "Sensor_Current:LEM_HTFS",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "HTFS600-P",
+                "kicadSymbolki_description": "Current Transducer, 600A, Unipolar, 5V",
+                "kicadSymbolki_fp_filters": "LEM*HTFS*",
+                "kicadSymbolki_keywords": "current transducer"
+            }
+        ]
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKMCUMCHIPAVRDXAVR128DA28XXSP"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "MCU_Microchip_AVR_Dx : AVR128DA28x-xSP"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "MCU_Microchip_AVR_Dx"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-MCU_Microchip_AVR_Dx-AVR128DA28x-xSP"
+    ],
+    "oompIndex": [
+        "AVR128DA28x-xSP"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://ww1.microchip.com/downloads/en/DeviceDoc/AVR128DA28-32-48-64-DataSheet-DS40002183B.pdf",
+                "kicadSymbolExtends": "AVR32DA28x-xSO",
+                "kicadSymbolFootprint": "Package_DIP:DIP-28_W7.62mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "AVR128DA28x-xSP",
+                "kicadSymbolki_description": "24MHz, 128kB Flash, 16kB SRAM, EEPROM with Touch Sensing, SPDIP-28",
+                "kicadSymbolki_fp_filters": "DIP*W7.62mm*",
+                "kicadSymbolki_keywords": "AVR 8bit Microcontroller AVR-DA"
+            }
+        ]
+    ]
+}

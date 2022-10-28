@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKDSPFREESCALEDSP962"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "DSP_Freescale : DSP96002"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "DSP_Freescale"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-DSP_Freescale-DSP96002"
+    ],
+    "oompIndex": [
+        "DSP96002"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://cache.freescale.com/files/dsp/doc/inactive/DSP96002.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "DSP96002",
+                "kicadSymbolki_description": "32-bit General Purpose Floating-point DSP, Dual Port, PGA-223",
+                "kicadSymbolki_fp_filters": "PGA-223*",
+                "kicadSymbolki_keywords": "DSP 32bit Dual Port Processor"
+            }
+        ]
+    ]
+}

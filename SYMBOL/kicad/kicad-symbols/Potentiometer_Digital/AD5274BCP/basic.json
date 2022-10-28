@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKPOTENTIOMETERDIGITALAD5274BCP"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Potentiometer_Digital : AD5274BCP"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Potentiometer_Digital"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Potentiometer_Digital-AD5274BCP"
+    ],
+    "oompIndex": [
+        "AD5274BCP"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/AD5272_5274.pdf",
+                "kicadSymbolExtends": "AD5272BCP",
+                "kicadSymbolFootprint": "Package_CSP:LFCSP-WD-10-1EP_3x3mm_P0.5mm_EP1.64x2.38mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "AD5274BCP",
+                "kicadSymbolki_description": "Digital potentiometer, 256 position, 1% Resistor Tolerance, I2C interface, LFCSP-10",
+                "kicadSymbolki_fp_filters": "LFCSP*1EP*3x3mm*P0.5mm*",
+                "kicadSymbolki_keywords": "digital potentiometer"
+            }
+        ]
+    ]
+}

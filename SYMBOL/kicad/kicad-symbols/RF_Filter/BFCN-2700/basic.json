@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKRFFILBFCN27"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "RF_Filter : BFCN-2700"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "RF_Filter"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-RF_Filter-BFCN-2700"
+    ],
+    "oompIndex": [
+        "BFCN-2700"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.minicircuits.com/pdfs/BFCN-2700+.pdf",
+                "kicadSymbolExtends": "BFCN-1445",
+                "kicadSymbolFootprint": "Filter:Filter_Mini-Circuits_FV1206",
+                "kicadSymbolReference": "FL",
+                "kicadSymbolValue": "BFCN-2700",
+                "kicadSymbolki_description": "2600-2800MHz 50 Ohm Passive Band Pass Filter, FV1206",
+                "kicadSymbolki_fp_filters": "Filter*Mini?Circuits*FV1206*",
+                "kicadSymbolki_keywords": "Mini-Circuits band pass filter"
+            }
+        ]
+    ]
+}

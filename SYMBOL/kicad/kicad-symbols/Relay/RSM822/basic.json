@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKRELAYRSM822"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Relay : RSM822"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Relay"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Relay-RSM822"
+    ],
+    "oompIndex": [
+        "RSM822"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.relpol.pl/en/content/download/14975/202519/file/e_RSM822.pdf",
+                "kicadSymbolExtends": "FINDER-40.52",
+                "kicadSymbolFootprint": "Relay_THT:Relay_DPDT_Finder_40.52",
+                "kicadSymbolReference": "K",
+                "kicadSymbolValue": "RSM822",
+                "kicadSymbolki_description": "RELPOL Dual Pole Relay, 5mm Pitch, 2A",
+                "kicadSymbolki_fp_filters": "Relay*DPDT*Finder*40.52*",
+                "kicadSymbolki_keywords": "Dual Pole Relay"
+            }
+        ]
+    ]
+}

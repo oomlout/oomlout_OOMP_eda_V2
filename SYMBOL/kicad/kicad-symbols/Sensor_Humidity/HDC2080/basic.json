@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKSENHUMIDITYHDC28"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Sensor_Humidity : HDC2080"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Sensor_Humidity"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Sensor_Humidity-HDC2080"
+    ],
+    "oompIndex": [
+        "HDC2080"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.ti.com/lit/ds/symlink/hdc2080.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_SON:Texas_PWSON-N6",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "HDC2080",
+                "kicadSymbolki_description": "Low Power Humidity and Temperature Sensor",
+                "kicadSymbolki_fp_filters": "Package*SON:Texas*PWSON*N6*",
+                "kicadSymbolki_keywords": "Temperature Humidity Sensor"
+            }
+        ]
+    ]
+}

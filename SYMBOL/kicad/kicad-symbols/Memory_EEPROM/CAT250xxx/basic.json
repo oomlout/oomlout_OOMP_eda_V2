@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKMEMORYEEPROMCAT25XXX"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Memory_EEPROM : CAT250xxx"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Memory_EEPROM"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Memory_EEPROM-CAT250xxx"
+    ],
+    "oompIndex": [
+        "CAT250xxx"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.onsemi.com/PowerSolutions/product.do?id=CAT25040",
+                "kicadSymbolExtends": "25LCxxx",
+                "kicadSymbolFootprint": "",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "CAT250xxx",
+                "kicadSymbolki_description": "ON Semiconductor SPI Serial EEPROM, DIP-8/SOIC-8/TSSOP-8",
+                "kicadSymbolki_fp_filters": "DIP*W7.62mm* SOIC*3.9x4.9mm* TSSOP*4.4x3mm*P0.65mm*",
+                "kicadSymbolki_keywords": "EEPROM memory SPI serial"
+            }
+        ]
+    ]
+}

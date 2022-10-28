@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKRELAYFINDER431"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Relay : FINDER-40.31"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Relay"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Relay-FINDER-40.31"
+    ],
+    "oompIndex": [
+        "FINDER-40.31"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://gfinder.findernet.com/assets/Series/353/S40EN.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Relay_THT:Relay_SPDT_Finder_40.31",
+                "kicadSymbolReference": "K",
+                "kicadSymbolValue": "FINDER-40.31",
+                "kicadSymbolki_description": "FINDER 40.31, Single Pole Relay, 3.5mm Pitch, 10A",
+                "kicadSymbolki_fp_filters": "Relay*SPDT*Finder*40.31*",
+                "kicadSymbolki_keywords": "Single Pole Relay"
+            }
+        ]
+    ]
+}

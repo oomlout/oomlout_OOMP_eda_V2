@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSTERS35DLPI71T35L7 > oomlout_OOMP_parts : TERS-35D-L-PI07-01-T35L7
 
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-TERS-35D-L-PI07-01-T35L7
@@ -12,7 +12,11 @@ NO IMAGE
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-TERS-35D-L-PI07-01-T35L7](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-TERS-35D-L-PI07-01-T35L7)
 - Short Link: [http://oom.lt/FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSTERS35DLPI71T35L7](http://oom.lt/FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSTERS35DLPI71T35L7)
   
-NO IMAGES  
+
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/TERS-35D-L-PI07-01-T35L7/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/TERS-35D-L-PI07-01-T35L7/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/TERS-35D-L-PI07-01-T35L7/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/TERS-35D-L-PI07-01-T35L7/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/TERS-35D-L-PI07-01-T35L7/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/TERS-35D-L-PI07-01-T35L7/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/TERS-35D-L-PI07-01-T35L7/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/TERS-35D-L-PI07-01-T35L7/kicadPcb3d.png)|
+| :---: | :---: | :---: | :---: |
+|||||
+
 ## Tags
   
 
@@ -28,3 +32,7 @@ NO IMAGES
 |name|name|oomlout_OOMP_parts : TERS-35D-L-PI07-01-T35L7|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'TERS-35D-L-PI07-01-T35L7'</td><td> 'description'</td></tr><tr><td> 'hexID</td></tr><tr><td> T35L7; Terminal Block 4Ucon ItemNo. 10698</td><td> vertical (cable from top)</td><td> 7 pins</td><td> pitch 3.5mm</td><td> size 25.5x8.3mm^2</td><td> drill diamater 1.3mm</td><td> pad diameter 2.6mm</td><td> see http</td></tr><tr><td>//www.4uconnector.com/online/object/4udrawing/10698.pdf</td><td> script-generated with </td><td> script-generated using https</td></tr><tr><td>//github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_4Ucon'</td><td> 'tags'</td></tr><tr><td> 'THT Terminal Block 4Ucon ItemNo. 10698 vertical pitch 3.5mm size 25.5x8.3mm^2 drill 1.3mm pad 2.6mm'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/TerminalBlock_4Ucon.3dshapes/TerminalBlock_4Ucon_1x07_P3.50mm_Vertical.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
+
+
+
+[im]: FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/TERS-35D-L-PI07-01-T35L7/kicadPcb3d_450.png

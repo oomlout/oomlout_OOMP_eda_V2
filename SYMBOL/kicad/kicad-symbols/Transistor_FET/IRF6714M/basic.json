@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKTRANSISTORFETIRF6714M"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Transistor_FET : IRF6714M"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Transistor_FET"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF6714M"
+    ],
+    "oompIndex": [
+        "IRF6714M"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.infineon.com/dgdl/irf6714mpbf.pdf?fileId=5546d462533600a4015355ed04be1a80",
+                "kicadSymbolExtends": "BSB008NE2LX",
+                "kicadSymbolFootprint": "Package_DirectFET:DirectFET_MX",
+                "kicadSymbolReference": "Q",
+                "kicadSymbolValue": "IRF6714M",
+                "kicadSymbolki_description": "29A Id, 25V Vds, 2.1mOhm Rds, N-Channel MOSFET, DirectFET MX",
+                "kicadSymbolki_fp_filters": "DirectFET*MX*",
+                "kicadSymbolki_keywords": "N-Channel MOSFET"
+            }
+        ]
+    ]
+}

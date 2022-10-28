@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKSENMOTIONLSM33C"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Sensor_Motion : LSM303C"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Sensor_Motion"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Sensor_Motion-LSM303C"
+    ],
+    "oompIndex": [
+        "LSM303C"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "www.st.com/resource/en/datasheet/lsm303c.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "LSM303C",
+                "kicadSymbolki_description": "I2C/SPI, 3D Accelerometer and 3D Magnetometer",
+                "kicadSymbolki_fp_filters": "LGA*2x2mm*P0.5mm*",
+                "kicadSymbolki_keywords": "Accelerometer Magnetometer MEMS"
+            }
+        ]
+    ]
+}

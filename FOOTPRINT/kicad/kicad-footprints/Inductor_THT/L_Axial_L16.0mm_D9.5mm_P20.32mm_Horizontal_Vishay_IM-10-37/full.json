@@ -1,0 +1,89 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "through_hole",
+            "description": "Inductor, Axial series, Axial, Horizontal, pin pitch=20.32mm, , length*diameter=16*9.5mm^2, Vishay, IM-10-37, http://www.vishay.com/docs/34030/im10.pdf",
+            "name": "L_Axial_L16.0mm_D9.5mm_P20.32mm_Horizontal_Vishay_IM-10-37",
+            "pins": {
+                "shape": "circle",
+                "type": "thru_hole"
+            },
+            "tags": "Inductor Axial series Axial Horizontal pin pitch 20.32mm  length 16mm diameter 9.5mm Vishay IM-10-37",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Axial_L16.0mm_D9.5mm_P20.32mm_Horizontal_Vishay_IM-10-37.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKINLAXIALL16D95P232HORIZONTALVISHAYIM137"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Inductor_THT : L_Axial_L16.0mm_D9.5mm_P20.32mm_Horizontal_Vishay_IM-10-37"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Inductor_THT"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L16.0mm_D9.5mm_P20.32mm_Horizontal_Vishay_IM-10-37/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L16.0mm_D9.5mm_P20.32mm_Horizontal_Vishay_IM-10-37/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L16.0mm_D9.5mm_P20.32mm_Horizontal_Vishay_IM-10-37/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L16.0mm_D9.5mm_P20.32mm_Horizontal_Vishay_IM-10-37/details.py"
+        ],
+        "imagePng": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L16.0mm_D9.5mm_P20.32mm_Horizontal_Vishay_IM-10-37/image.png"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L16.0mm_D9.5mm_P20.32mm_Horizontal_Vishay_IM-10-37/basic.json"
+        ],
+        "kicadPcb3d": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L16.0mm_D9.5mm_P20.32mm_Horizontal_Vishay_IM-10-37/kicadPcb3d.png"
+        ],
+        "kicadPcb3dBack": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L16.0mm_D9.5mm_P20.32mm_Horizontal_Vishay_IM-10-37/kicadPcb3dBack.png"
+        ],
+        "kicadPcb3dFront": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L16.0mm_D9.5mm_P20.32mm_Horizontal_Vishay_IM-10-37/kicadPcb3dFront.png"
+        ],
+        "readme": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L16.0mm_D9.5mm_P20.32mm_Horizontal_Vishay_IM-10-37/README.md"
+        ]
+    },
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Axial_L16.0mm_D9.5mm_P20.32mm_Horizontal_Vishay_IM-10-37"
+    ],
+    "oompIndex": [
+        "L_Axial_L16.0mm_D9.5mm_P20.32mm_Horizontal_Vishay_IM-10-37"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKLAPA1222"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "LED : APA102-2020"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "LED"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-LED-APA102-2020"
+    ],
+    "oompIndex": [
+        "APA102-2020"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.led-color.com/upload/201604/APA102-2020%20SMD%20LED.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "LED_SMD:LED-APA102-2020",
+                "kicadSymbolReference": "D",
+                "kicadSymbolValue": "APA102-2020",
+                "kicadSymbolki_description": "RGB LED with integrated controller",
+                "kicadSymbolki_fp_filters": "LED*APA102*",
+                "kicadSymbolki_keywords": "RGB LED addressable 8bit pwm 5bit greyscale"
+            }
+        ]
+    ]
+}

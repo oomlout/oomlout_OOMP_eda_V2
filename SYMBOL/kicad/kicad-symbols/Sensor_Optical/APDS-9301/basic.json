@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKSENOPTICALAPDS931"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Sensor_Optical : APDS-9301"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Sensor_Optical"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Sensor_Optical-APDS-9301"
+    ],
+    "oompIndex": [
+        "APDS-9301"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://docs.broadcom.com/docs/AV02-2315EN",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "OptoDevice:Broadcom_APDS-9301",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "APDS-9301",
+                "kicadSymbolki_description": "ambient light sensor, i2c interface, 2.7-3.6V",
+                "kicadSymbolki_fp_filters": "Broadcom*APDS*9301*",
+                "kicadSymbolki_keywords": "ambient light sensor i2c"
+            }
+        ]
+    ]
+}

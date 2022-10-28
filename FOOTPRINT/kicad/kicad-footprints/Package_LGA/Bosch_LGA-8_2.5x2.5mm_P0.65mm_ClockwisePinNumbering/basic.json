@@ -1,0 +1,57 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "smd",
+            "description": "LGA-8",
+            "name": "Bosch_LGA-8_2.5x2.5mm_P0.65mm_ClockwisePinNumbering",
+            "pins": {
+                "shape": "rect",
+                "type": "smd"
+            },
+            "tags": "lga land grid array",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/Package_LGA.3dshapes/Bosch_LGA-8_2.5x2.5mm_P0.65mm_ClockwisePinNumbering.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKLGABOSCHLGA825X25P65CLWISEPINNUMBERING"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Package_LGA : Bosch_LGA-8_2.5x2.5mm_P0.65mm_ClockwisePinNumbering"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Package_LGA"
+    ],
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Package_LGA-Bosch_LGA-8_2.5x2.5mm_P0.65mm_ClockwisePinNumbering"
+    ],
+    "oompIndex": [
+        "Bosch_LGA-8_2.5x2.5mm_P0.65mm_ClockwisePinNumbering"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

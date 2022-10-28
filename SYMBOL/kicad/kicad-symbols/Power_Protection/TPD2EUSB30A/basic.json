@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKPOWERPROTECTIONTPD2EU3A"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Power_Protection : TPD2EUSB30A"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Power_Protection"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Power_Protection-TPD2EUSB30A"
+    ],
+    "oompIndex": [
+        "TPD2EUSB30A"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.ti.com/lit/ds/symlink/tpd2eusb30a.pdf",
+                "kicadSymbolExtends": "TPD2EUSB30",
+                "kicadSymbolFootprint": "Package_TO_SOT_SMD:Texas_DRT-3",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "TPD2EUSB30A",
+                "kicadSymbolki_description": "2-Channel ESD Protection for Super-Speed USB 3.0 Interface, DRT-3",
+                "kicadSymbolki_fp_filters": "Texas*DRT*",
+                "kicadSymbolki_keywords": "ESD protection USB 3.0"
+            }
+        ]
+    ]
+}

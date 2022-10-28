@@ -1,0 +1,89 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "smd",
+            "description": "Connector SMA, 0Hz to 20GHz, 50Ohm, Edge Mount (http://suddendocs.samtec.com/prints/sma-j-p-x-st-em1-mkt.pdf)",
+            "name": "SMA_Samtec_SMA-J-P-X-ST-EM1_EdgeMount",
+            "pins": {
+                "shape": "rect",
+                "type": "smd"
+            },
+            "tags": "SMA Straight Samtec Edge Mount",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/Connector_Coaxial.3dshapes/SMA_Samtec_SMA-J-P-X-ST-EM1_EdgeMount.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKCNCOASSAMTECSJPXSTEM1EDGEMOUNT"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Connector_Coaxial : SMA_Samtec_SMA-J-P-X-ST-EM1_EdgeMount"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Connector_Coaxial"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Coaxial/SMA_Samtec_SMA-J-P-X-ST-EM1_EdgeMount/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Coaxial/SMA_Samtec_SMA-J-P-X-ST-EM1_EdgeMount/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Coaxial/SMA_Samtec_SMA-J-P-X-ST-EM1_EdgeMount/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Coaxial/SMA_Samtec_SMA-J-P-X-ST-EM1_EdgeMount/details.py"
+        ],
+        "imagePng": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Coaxial/SMA_Samtec_SMA-J-P-X-ST-EM1_EdgeMount/image.png"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Coaxial/SMA_Samtec_SMA-J-P-X-ST-EM1_EdgeMount/basic.json"
+        ],
+        "kicadPcb3d": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Coaxial/SMA_Samtec_SMA-J-P-X-ST-EM1_EdgeMount/kicadPcb3d.png"
+        ],
+        "kicadPcb3dBack": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Coaxial/SMA_Samtec_SMA-J-P-X-ST-EM1_EdgeMount/kicadPcb3dBack.png"
+        ],
+        "kicadPcb3dFront": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Coaxial/SMA_Samtec_SMA-J-P-X-ST-EM1_EdgeMount/kicadPcb3dFront.png"
+        ],
+        "readme": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Coaxial/SMA_Samtec_SMA-J-P-X-ST-EM1_EdgeMount/README.md"
+        ]
+    },
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Connector_Coaxial-SMA_Samtec_SMA-J-P-X-ST-EM1_EdgeMount"
+    ],
+    "oompIndex": [
+        "SMA_Samtec_SMA-J-P-X-ST-EM1_EdgeMount"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

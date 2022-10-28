@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKREFERENCECURRENTLT392XST"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Reference_Current : LT3092xST"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Reference_Current"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Reference_Current-LT3092xST"
+    ],
+    "oompIndex": [
+        "LT3092xST"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/3092fc.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_TO_SOT_SMD:SOT-223-3_TabPin2",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "LT3092xST",
+                "kicadSymbolki_description": "200mA 2-Terminal Programmable Current Source, SOT-223",
+                "kicadSymbolki_fp_filters": "SOT*223*TabPin2*",
+                "kicadSymbolki_keywords": "current source"
+            }
+        ]
+    ]
+}

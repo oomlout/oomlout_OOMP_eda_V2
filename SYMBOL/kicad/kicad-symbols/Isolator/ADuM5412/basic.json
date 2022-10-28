@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKISOLATORADUM5412"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Isolator : ADuM5412"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Isolator"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Isolator-ADuM5412"
+    ],
+    "oompIndex": [
+        "ADuM5412"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/ADuM5410-5411-5412.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_SO:SSOP-24_5.3x8.2mm_P0.65mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "ADuM5412",
+                "kicadSymbolki_description": "Quad-Channel 2.5kV isolator with integrated dc-dc converter, 2 Input / 2 output, SSOP-24",
+                "kicadSymbolki_fp_filters": "SSOP*5.3x8.2mm*P0.65mm*",
+                "kicadSymbolki_keywords": "digital isolator galvanic isopower"
+            }
+        ]
+    ]
+}

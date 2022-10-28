@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # FZKTRANSISTORPOWERMOSTSDIP25L > Transistor_Power_Module : ST_SDIP-25L
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Transistor_Power_Module-ST_SDIP-25L
@@ -13,8 +13,9 @@ NO IMAGE
 - Short Link: [http://oom.lt/FZKTRANSISTORPOWERMOSTSDIP25L](http://oom.lt/FZKTRANSISTORPOWERMOSTSDIP25L)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Transistor_Power_Module/ST_SDIP-25L/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Transistor_Power_Module/ST_SDIP-25L/image.png)||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Transistor_Power_Module/ST_SDIP-25L/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Transistor_Power_Module/ST_SDIP-25L/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Transistor_Power_Module/ST_SDIP-25L/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Transistor_Power_Module/ST_SDIP-25L/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Transistor_Power_Module/ST_SDIP-25L/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Transistor_Power_Module/ST_SDIP-25L/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Transistor_Power_Module/ST_SDIP-25L/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Transistor_Power_Module/ST_SDIP-25L/kicadPcb3d.png)|
 | :---: | :---: | :---: | :---: |
+|||||
 
 ## Tags
   
@@ -31,3 +32,7 @@ NO IMAGE
 |name|name|Transistor_Power_Module : ST_SDIP-25L|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'ST_SDIP-25L'</td><td> 'description'</td></tr><tr><td> '25-lead TH</td><td> SDIP-25L</td><td> https</td></tr><tr><td>//www.st.com/resource/en/datasheet/stgips20k60.pdf'</td><td> 'tags'</td></tr><tr><td> 'igbt diode module'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Transistor_Power_Module.3dshapes/ST_SDIP-25L.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
+
+
+
+[im]: FOOTPRINT/kicad/kicad-footprints/Transistor_Power_Module/ST_SDIP-25L/kicadPcb3d_450.png

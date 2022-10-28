@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKTRANSISTORFETIRF671S2"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Transistor_FET : IRF6710S2"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Transistor_FET"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF6710S2"
+    ],
+    "oompIndex": [
+        "IRF6710S2"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.infineon.com/dgdl/irf6710s2pbf.pdf?fileId=5546d462533600a4015355ece3db1a78",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_DirectFET:DirectFET_S1",
+                "kicadSymbolReference": "Q",
+                "kicadSymbolValue": "IRF6710S2",
+                "kicadSymbolki_description": "12A Id, 25V Vds, 5.9mOhm Rds, N-Channel MOSFET, DirectFET S1",
+                "kicadSymbolki_fp_filters": "DirectFET*S1*",
+                "kicadSymbolki_keywords": "N-Channel MOSFET"
+            }
+        ]
+    ]
+}

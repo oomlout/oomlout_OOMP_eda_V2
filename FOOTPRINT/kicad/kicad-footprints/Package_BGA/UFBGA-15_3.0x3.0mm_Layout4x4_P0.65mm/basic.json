@@ -1,0 +1,57 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "smd",
+            "description": "UFBGA-15, 4x4, 3x3mm package, pitch 0.65mm",
+            "name": "UFBGA-15_3.0x3.0mm_Layout4x4_P0.65mm",
+            "pins": {
+                "shape": "circle",
+                "type": "smd"
+            },
+            "tags": "UFBGA-15",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/UFBGA-15_3.0x3.0mm_Layout4x4_P0.65mm.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKBGAUFBGA153X3LAYOUT4X4P65"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Package_BGA : UFBGA-15_3.0x3.0mm_Layout4x4_P0.65mm"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Package_BGA"
+    ],
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Package_BGA-UFBGA-15_3.0x3.0mm_Layout4x4_P0.65mm"
+    ],
+    "oompIndex": [
+        "UFBGA-15_3.0x3.0mm_Layout4x4_P0.65mm"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

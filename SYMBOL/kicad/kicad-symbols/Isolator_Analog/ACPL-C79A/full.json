@@ -1,0 +1,81 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKISOLATORANALOGACPLC79A"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Isolator_Analog : ACPL-C79A"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Isolator_Analog"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Isolator_Analog/ACPL-C79A/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Isolator_Analog/ACPL-C79A/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Isolator_Analog/ACPL-C79A/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Isolator_Analog/ACPL-C79A/details.py"
+        ],
+        "imagePng": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Isolator_Analog/ACPL-C79A/image.png"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Isolator_Analog/ACPL-C79A/basic.json"
+        ],
+        "readme": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Isolator_Analog/ACPL-C79A/README.md"
+        ]
+    },
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Isolator_Analog-ACPL-C79A"
+    ],
+    "oompIndex": [
+        "ACPL-C79A"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://docs.avagotech.com/docs/AV02-2460EN",
+                "kicadSymbolExtends": "ACPL-C790",
+                "kicadSymbolFootprint": "Package_SO:SSO-8_6.8x5.9mm_P1.27mm_Clearance8mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "ACPL-C79A",
+                "kicadSymbolki_description": "Precision Isolation Amplifer, \u00b11% Gain Tolerance, Bandwidth 200kHz, SSO-8",
+                "kicadSymbolki_fp_filters": "SSO*6.8x5.9mm*P1.27mm*Clearance8mm*",
+                "kicadSymbolki_keywords": "Isolation Amplifer"
+            }
+        ]
+    ]
+}

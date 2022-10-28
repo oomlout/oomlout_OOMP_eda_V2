@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKREGULATORLINEARNCP662SQ18"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Regulator_Linear : NCP662SQ18"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Regulator_Linear"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Regulator_Linear-NCP662SQ18"
+    ],
+    "oompIndex": [
+        "NCP662SQ18"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.onsemi.com/pub/Collateral/NCP662-D.PDF",
+                "kicadSymbolExtends": "NCP662SQ15",
+                "kicadSymbolFootprint": "Package_TO_SOT_SMD:SC-82AB",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "NCP662SQ18",
+                "kicadSymbolki_description": "100-mA, 12V Max. Input, Ultralow-IQ LDO, 1.8V, SC-82AB",
+                "kicadSymbolki_fp_filters": "SC?82AB*",
+                "kicadSymbolki_keywords": "LDO regulator voltage"
+            }
+        ]
+    ]
+}

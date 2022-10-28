@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKRELAYG5LE1"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Relay : G5LE-1"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Relay"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Relay-G5LE-1"
+    ],
+    "oompIndex": [
+        "G5LE-1"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.omron.com/ecb/products/pdf/en-g5le.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Relay_THT:Relay_SPDT_Omron-G5LE-1",
+                "kicadSymbolReference": "K",
+                "kicadSymbolValue": "G5LE-1",
+                "kicadSymbolki_description": "Omron G5LE relay, Miniature Single Pole, SPDT, 10A",
+                "kicadSymbolki_fp_filters": "Relay*SPDT*Omron*G5LE?1*",
+                "kicadSymbolki_keywords": "Miniature Single Pole Relay"
+            }
+        ]
+    ]
+}

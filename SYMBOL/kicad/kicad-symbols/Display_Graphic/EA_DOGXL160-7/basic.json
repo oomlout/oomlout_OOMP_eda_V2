@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKDIGRAPHICEADOGXL167"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Display_Graphic : EA_DOGXL160-7"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Display_Graphic"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Display_Graphic-EA_DOGXL160-7"
+    ],
+    "oompIndex": [
+        "EA_DOGXL160-7"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.lcd-module.com/eng/pdf/grafik/dogxl160-7e.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Display:EA_DOGXL160-7",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "EA_DOGXL160-7",
+                "kicadSymbolki_description": "EA DOGXL160-7 Graphical Display 160x104 no back light I2C SPI 2.7-3.3V",
+                "kicadSymbolki_fp_filters": "EA*DOGXL160*7*",
+                "kicadSymbolki_keywords": "display LCD graphic"
+            }
+        ]
+    ]
+}

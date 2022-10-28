@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKREGULATORLINEARLT33233"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Regulator_Linear : LT3032-3.3"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Regulator_Linear"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT3032-3.3"
+    ],
+    "oompIndex": [
+        "LT3032-3.3"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/3032ff.pdf",
+                "kicadSymbolExtends": "LT3032-5",
+                "kicadSymbolFootprint": "Package_DFN_QFN:Linear_DE14MA",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "LT3032-3.3",
+                "kicadSymbolki_description": "150mA, Dual Low Dropout Linear Regulator, Positive/Negative Low Noise, 3.3V Output, DFN-14",
+                "kicadSymbolki_fp_filters": "Linear*DE14MA*",
+                "kicadSymbolki_keywords": "LDO low noise"
+            }
+        ]
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKSENCURRENTLTSR25NP"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Sensor_Current : LTSR25-NP"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Sensor_Current"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Sensor_Current-LTSR25-NP"
+    ],
+    "oompIndex": [
+        "LTSR25-NP"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.lem.com/sites/default/files/products_datasheets/ltsr_25-np.pdf",
+                "kicadSymbolExtends": "LTSR6-NP",
+                "kicadSymbolFootprint": "Sensor_Current:LEM_LTSR-NP",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "LTSR25-NP",
+                "kicadSymbolki_description": "Current Transducer, Unipolar, 25A, 5V supply, DC, AC, pulsed",
+                "kicadSymbolki_fp_filters": "LEM*LTSR*NP*",
+                "kicadSymbolki_keywords": "current transducer"
+            }
+        ]
+    ]
+}

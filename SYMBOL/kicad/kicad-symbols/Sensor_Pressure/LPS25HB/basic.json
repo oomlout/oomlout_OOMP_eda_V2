@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKSENPRESSURELPS25HB"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Sensor_Pressure : LPS25HB"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Sensor_Pressure"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Sensor_Pressure-LPS25HB"
+    ],
+    "oompIndex": [
+        "LPS25HB"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "www.st.com/resource/en/datasheet/lps25hb.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_LGA:ST_HLGA-10_2.5x2.5mm_P0.6mm_LayoutBorder3x2y",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "LPS25HB",
+                "kicadSymbolki_description": "MEMS pressure sensor, 260-1260 hPa, absolute digital output baromeeter",
+                "kicadSymbolki_fp_filters": "ST?HLGA*2.5x2.5mm*P0.6mm*LayoutBorder3x2y*",
+                "kicadSymbolki_keywords": "mems absolute baromeeter"
+            }
+        ]
+    ]
+}

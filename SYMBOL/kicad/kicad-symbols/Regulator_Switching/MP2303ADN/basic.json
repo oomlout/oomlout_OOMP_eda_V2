@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKREGULATORSWITCHINGMP233ADN"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Regulator_Switching : MP2303ADN"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Regulator_Switching"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Regulator_Switching-MP2303ADN"
+    ],
+    "oompIndex": [
+        "MP2303ADN"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.monolithicpower.com/pub/media/document/MP2303A_r1.1.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_SO:SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.62x3.51mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "MP2303ADN",
+                "kicadSymbolki_description": "Synchronous Rectified 3A, 28V, 360kHz Step-Down Converter, SOIC-8",
+                "kicadSymbolki_fp_filters": "SOIC*1EP*3.9x4.9mm*P1.27mm*",
+                "kicadSymbolki_keywords": "buck converter step down"
+            }
+        ]
+    ]
+}

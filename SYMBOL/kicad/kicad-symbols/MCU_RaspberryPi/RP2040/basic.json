@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKMCURASPBERRYPIRP24"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "MCU_RaspberryPi : RP2040"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "MCU_RaspberryPi"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-MCU_RaspberryPi-RP2040"
+    ],
+    "oompIndex": [
+        "RP2040"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://datasheets.raspberrypi.com/rp2040/rp2040-datasheet.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_DFN_QFN:QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "RP2040",
+                "kicadSymbolki_description": "A microcontroller by Raspberry Pi",
+                "kicadSymbolki_fp_filters": "QFN*7x7mm?P0.4mm?EP3.2x3.2mm*",
+                "kicadSymbolki_keywords": "RP2040 ARM Cortex-M0+ USB"
+            }
+        ]
+    ]
+}

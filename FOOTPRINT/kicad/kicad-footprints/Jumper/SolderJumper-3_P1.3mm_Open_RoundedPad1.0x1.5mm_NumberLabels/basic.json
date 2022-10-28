@@ -1,0 +1,56 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": null,
+            "description": "SMD Solder 3-pad Jumper, 1x1.5mm rounded Pads, 0.3mm gap, open, labeled with numbers",
+            "name": "SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm_NumberLabels",
+            "pins": {
+                "shape": "custom",
+                "type": "smd"
+            },
+            "tags": "solder jumper open"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKJSOLDERJ3P13OPENROUNDEDPAD1X15NUMBERLABELS"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Jumper : SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm_NumberLabels"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Jumper"
+    ],
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Jumper-SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm_NumberLabels"
+    ],
+    "oompIndex": [
+        "SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm_NumberLabels"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

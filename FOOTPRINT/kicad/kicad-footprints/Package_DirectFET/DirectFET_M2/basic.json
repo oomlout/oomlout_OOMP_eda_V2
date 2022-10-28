@@ -1,0 +1,57 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "smd",
+            "description": "DirectFET M2 https://www.infineon.com/dgdl/Infineon-AN-1035-ApplicationNotes-v29_01-EN.pdf?fileId=5546d462533600a40153559159020f76#page=33",
+            "name": "DirectFET_M2",
+            "pins": {
+                "shape": "rect",
+                "type": "smd"
+            },
+            "tags": "DirectFET M2 MOSFET Infineon",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/Package_DirectFET.3dshapes/DirectFET_M2.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKDFETDIRECTFETM2"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Package_DirectFET : DirectFET_M2"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Package_DirectFET"
+    ],
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Package_DirectFET-DirectFET_M2"
+    ],
+    "oompIndex": [
+        "DirectFET_M2"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

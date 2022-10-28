@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKTRANSISTORFETIRF6621"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Transistor_FET : IRF6621"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Transistor_FET"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF6621"
+    ],
+    "oompIndex": [
+        "IRF6621"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.infineon.com/dgdl/irf6621pbf.pdf?fileId=5546d462533600a4015355e8923b1a27",
+                "kicadSymbolExtends": "BSF030NE2LQ",
+                "kicadSymbolFootprint": "Package_DirectFET:DirectFET_SQ",
+                "kicadSymbolReference": "Q",
+                "kicadSymbolValue": "IRF6621",
+                "kicadSymbolki_description": "12A Id, 30V Vds, 9.1mOhm Rds, N-Channel MOSFET, DirectFET SQ",
+                "kicadSymbolki_fp_filters": "DirectFET*SQ*",
+                "kicadSymbolki_keywords": "N-Channel MOSFET"
+            }
+        ]
+    ]
+}

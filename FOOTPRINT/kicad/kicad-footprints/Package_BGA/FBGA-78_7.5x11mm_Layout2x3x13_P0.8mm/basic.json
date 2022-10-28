@@ -1,0 +1,57 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "smd",
+            "description": "FBGA-78, https://www.skhynix.com/product/filedata/fileDownload.do?seq=7687",
+            "name": "FBGA-78_7.5x11mm_Layout2x3x13_P0.8mm",
+            "pins": {
+                "shape": "circle",
+                "type": "smd"
+            },
+            "tags": "FBGA-78",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/FBGA-78_7.5x11mm_Layout2x3x13_P0.8mm.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKBGAFBGA7875X11LAYOUT2X3X13P8"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Package_BGA : FBGA-78_7.5x11mm_Layout2x3x13_P0.8mm"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Package_BGA"
+    ],
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Package_BGA-FBGA-78_7.5x11mm_Layout2x3x13_P0.8mm"
+    ],
+    "oompIndex": [
+        "FBGA-78_7.5x11mm_Layout2x3x13_P0.8mm"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

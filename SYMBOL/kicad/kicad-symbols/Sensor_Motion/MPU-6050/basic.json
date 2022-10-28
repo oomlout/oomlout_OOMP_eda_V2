@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKSENMOTIONMPU65"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Sensor_Motion : MPU-6050"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Sensor_Motion"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Sensor_Motion-MPU-6050"
+    ],
+    "oompIndex": [
+        "MPU-6050"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://store.invensense.com/datasheets/invensense/MPU-6050_DataSheet_V3%204.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Sensor_Motion:InvenSense_QFN-24_4x4mm_P0.5mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "MPU-6050",
+                "kicadSymbolki_description": "InvenSense 6-Axis Motion Sensor, Gyroscope, Accelerometer, I2C",
+                "kicadSymbolki_fp_filters": "*QFN*4x4mm*P0.5mm*",
+                "kicadSymbolki_keywords": "mems"
+            }
+        ]
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKJSOLDERJ3BRIDGED12"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Jumper : SolderJumper_3_Bridged12"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Jumper"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Jumper-SolderJumper_3_Bridged12"
+    ],
+    "oompIndex": [
+        "SolderJumper_3_Bridged12"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "~",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "",
+                "kicadSymbolReference": "JP",
+                "kicadSymbolValue": "SolderJumper_3_Bridged12",
+                "kicadSymbolki_description": "3-pole Solder Jumper, pins 1+2 closed/bridged",
+                "kicadSymbolki_fp_filters": "SolderJumper*Bridged12*",
+                "kicadSymbolki_keywords": "Solder Jumper SPDT"
+            }
+        ]
+    ]
+}

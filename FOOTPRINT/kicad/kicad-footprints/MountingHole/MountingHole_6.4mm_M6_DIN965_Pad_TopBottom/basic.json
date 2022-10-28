@@ -1,0 +1,56 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": null,
+            "description": "Mounting Hole 6.4mm, M6, DIN965",
+            "name": "MountingHole_6.4mm_M6_DIN965_Pad_TopBottom",
+            "pins": {
+                "shape": "circle",
+                "type": "connect"
+            },
+            "tags": "mounting hole 6.4mm m6 din965"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKHOLHOL64M6DIN965PADTOPBOTTOM"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "MountingHole : MountingHole_6.4mm_M6_DIN965_Pad_TopBottom"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "MountingHole"
+    ],
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-MountingHole-MountingHole_6.4mm_M6_DIN965_Pad_TopBottom"
+    ],
+    "oompIndex": [
+        "MountingHole_6.4mm_M6_DIN965_Pad_TopBottom"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

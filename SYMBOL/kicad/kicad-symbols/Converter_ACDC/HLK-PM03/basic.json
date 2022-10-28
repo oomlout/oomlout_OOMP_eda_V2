@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKCONHLKPM3"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Converter_ACDC : HLK-PM03"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Converter_ACDC"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Converter_ACDC-HLK-PM03"
+    ],
+    "oompIndex": [
+        "HLK-PM03"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.hlktech.net/product_detail.php?ProId=59",
+                "kicadSymbolExtends": "HLK-PM01",
+                "kicadSymbolFootprint": "Converter_ACDC:Converter_ACDC_HiLink_HLK-PMxx",
+                "kicadSymbolReference": "PS",
+                "kicadSymbolValue": "HLK-PM03",
+                "kicadSymbolki_description": "Compact AC/DC board mount power module 3W 3V3",
+                "kicadSymbolki_fp_filters": "Converter*ACDC*HiLink*HLK?PM*",
+                "kicadSymbolki_keywords": "AC/DC module power supply"
+            }
+        ]
+    ]
+}

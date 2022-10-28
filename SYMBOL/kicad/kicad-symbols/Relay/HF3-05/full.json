@@ -1,0 +1,81 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKRELAYHF35"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Relay : HF3-05"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Relay"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Relay/HF3-05/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Relay/HF3-05/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Relay/HF3-05/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Relay/HF3-05/details.py"
+        ],
+        "imagePng": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Relay/HF3-05/image.png"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Relay/HF3-05/basic.json"
+        ],
+        "readme": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Relay/HF3-05/README.md"
+        ]
+    },
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Relay-HF3-05"
+    ],
+    "oompIndex": [
+        "HF3-05"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://hiqsdr.com/images/3/3e/Axicom-HF3.pdf",
+                "kicadSymbolExtends": "HF3-01",
+                "kicadSymbolFootprint": "Relay_SMD:Relay_SPDT_AXICOM_HF3Series_75ohms_Pitch1.27mm",
+                "kicadSymbolReference": "K",
+                "kicadSymbolValue": "HF3-05",
+                "kicadSymbolki_description": "AXICOM HF3 relay, 3GHz, SPDT RF Switching Relay, 75ohm, 9Vdc, Single-Side Stable",
+                "kicadSymbolki_fp_filters": "Relay*SPDT*AXICOM*HF3Series*75ohms*Pitch1.27mm*",
+                "kicadSymbolki_keywords": "Single Pole Relay SPDT"
+            }
+        ]
+    ]
+}

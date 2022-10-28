@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKMOTORMOTORSERVOAIRTRONICS"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Motor : Motor_Servo_AirTronics"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Motor"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Motor-Motor_Servo_AirTronics"
+    ],
+    "oompIndex": [
+        "Motor_Servo_AirTronics"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://forums.parallax.com/uploads/attachments/46831/74481.png",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "",
+                "kicadSymbolReference": "M",
+                "kicadSymbolValue": "Motor_Servo_AirTronics",
+                "kicadSymbolki_description": "Servo Motor (AirTronics connector)",
+                "kicadSymbolki_fp_filters": "PinHeader*P2.54mm*",
+                "kicadSymbolki_keywords": "Servo Motor"
+            }
+        ]
+    ]
+}

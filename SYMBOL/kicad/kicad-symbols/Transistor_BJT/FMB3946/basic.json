@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKTRANSISTORBJTFMB3946"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Transistor_BJT : FMB3946"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Transistor_BJT"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Transistor_BJT-FMB3946"
+    ],
+    "oompIndex": [
+        "FMB3946"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.onsemi.com/pub/Collateral/FMB3946-D.pdf",
+                "kicadSymbolExtends": "FMB2227A",
+                "kicadSymbolFootprint": "Package_TO_SOT_SMD:SuperSOT-6",
+                "kicadSymbolReference": "Q",
+                "kicadSymbolValue": "FMB3946",
+                "kicadSymbolki_description": "200mA IC, 40V Vce, Dual NPN/PNP Transistors, SuperSOT-6",
+                "kicadSymbolki_fp_filters": "SuperSOT*",
+                "kicadSymbolki_keywords": "NPN/PNP Transistor"
+            }
+        ]
+    ]
+}

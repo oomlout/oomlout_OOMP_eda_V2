@@ -1,0 +1,89 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "smd",
+            "description": "REDCUBE THR with internal through-hole thread WP-THRBU (https://www.we-online.de/katalog/datasheet/74655095.pdf)",
+            "name": "Wuerth_REDCUBE-THR_WP-THRBU_74655095_THR",
+            "pins": {
+                "shape": "circle",
+                "type": "smd"
+            },
+            "tags": "screw terminal thread redcube thr power connector",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/TerminalBlock_Wuerth.3dshapes/Wuerth_REDCUBE-THR_WP-THRBU_74655095_THR.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKTBWUERTHWUERTHREDCUBETHRWPTHRBU7465595THR"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "TerminalBlock_Wuerth : Wuerth_REDCUBE-THR_WP-THRBU_74655095_THR"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "TerminalBlock_Wuerth"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_Wuerth/Wuerth_REDCUBE-THR_WP-THRBU_74655095_THR/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_Wuerth/Wuerth_REDCUBE-THR_WP-THRBU_74655095_THR/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_Wuerth/Wuerth_REDCUBE-THR_WP-THRBU_74655095_THR/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_Wuerth/Wuerth_REDCUBE-THR_WP-THRBU_74655095_THR/details.py"
+        ],
+        "imagePng": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_Wuerth/Wuerth_REDCUBE-THR_WP-THRBU_74655095_THR/image.png"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_Wuerth/Wuerth_REDCUBE-THR_WP-THRBU_74655095_THR/basic.json"
+        ],
+        "kicadPcb3d": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_Wuerth/Wuerth_REDCUBE-THR_WP-THRBU_74655095_THR/kicadPcb3d.png"
+        ],
+        "kicadPcb3dBack": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_Wuerth/Wuerth_REDCUBE-THR_WP-THRBU_74655095_THR/kicadPcb3dBack.png"
+        ],
+        "kicadPcb3dFront": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_Wuerth/Wuerth_REDCUBE-THR_WP-THRBU_74655095_THR/kicadPcb3dFront.png"
+        ],
+        "readme": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_Wuerth/Wuerth_REDCUBE-THR_WP-THRBU_74655095_THR/README.md"
+        ]
+    },
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-TerminalBlock_Wuerth-Wuerth_REDCUBE-THR_WP-THRBU_74655095_THR"
+    ],
+    "oompIndex": [
+        "Wuerth_REDCUBE-THR_WP-THRBU_74655095_THR"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

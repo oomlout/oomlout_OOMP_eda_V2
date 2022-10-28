@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKRFSWITCHADG918BCPZ"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "RF_Switch : ADG918BCPZ"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "RF_Switch"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-RF_Switch-ADG918BCPZ"
+    ],
+    "oompIndex": [
+        "ADG918BCPZ"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/ADG918_919.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_CSP:LFCSP-8-1EP_3x3mm_P0.5mm_EP1.45x1.74mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "ADG918BCPZ",
+                "kicadSymbolki_description": "SPDT DC-4GHz absorbative switch, 43dB isolation at 1GHz, LFCSP-8",
+                "kicadSymbolki_fp_filters": "LFCSP*1EP*3x3mm*P0.5mm*",
+                "kicadSymbolki_keywords": "RF Mux SPDT switch CMOS LVTTL"
+            }
+        ]
+    ]
+}

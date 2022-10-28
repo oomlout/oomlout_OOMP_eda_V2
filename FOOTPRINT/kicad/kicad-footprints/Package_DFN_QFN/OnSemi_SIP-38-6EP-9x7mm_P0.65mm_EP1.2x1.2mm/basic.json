@@ -1,0 +1,57 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "smd",
+            "description": "On Semiconductor, SIP-38, 9x7mm, (https://www.onsemi.com/pub/Collateral/AX-SIP-SFEU-D.PDF#page=19)",
+            "name": "OnSemi_SIP-38-6EP-9x7mm_P0.65mm_EP1.2x1.2mm",
+            "pins": {
+                "shape": "rect",
+                "type": "smd"
+            },
+            "tags": "On Semiconductor SIP",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/OnSemi_SIP-38-6EP-9x7mm_P0.65mm_EP1.2x1.2mm.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKDFNONSEMISIP386EP9X7P65EP12X12"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Package_DFN_QFN : OnSemi_SIP-38-6EP-9x7mm_P0.65mm_EP1.2x1.2mm"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Package_DFN_QFN"
+    ],
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-OnSemi_SIP-38-6EP-9x7mm_P0.65mm_EP1.2x1.2mm"
+    ],
+    "oompIndex": [
+        "OnSemi_SIP-38-6EP-9x7mm_P0.65mm_EP1.2x1.2mm"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

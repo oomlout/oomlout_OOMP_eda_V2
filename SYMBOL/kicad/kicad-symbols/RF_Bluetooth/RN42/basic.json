@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKRFBLUETOOTHRN42"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "RF_Bluetooth : RN42"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "RF_Bluetooth"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-RF_Bluetooth-RN42"
+    ],
+    "oompIndex": [
+        "RN42"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/rn-42-ds-v2.32r.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "RF_Module:RN42",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "RN42",
+                "kicadSymbolki_description": "Class 2 Bluetooth Module with on-board antenna",
+                "kicadSymbolki_fp_filters": "RN42*",
+                "kicadSymbolki_keywords": "Bluetooth Module"
+            }
+        ]
+    ]
+}

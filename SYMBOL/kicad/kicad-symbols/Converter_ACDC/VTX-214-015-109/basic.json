@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKCONVTX2141519"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Converter_ACDC : VTX-214-015-109"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Converter_ACDC"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Converter_ACDC-VTX-214-015-109"
+    ],
+    "oompIndex": [
+        "VTX-214-015-109"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.vigortronix.com/15WattSMPSPCBModuleAC-DC",
+                "kicadSymbolExtends": "VTX-214-015-103",
+                "kicadSymbolFootprint": "Converter_ACDC:Converter_ACDC_Vigortronix_VTX-214-015-1xx_THT",
+                "kicadSymbolReference": "PS",
+                "kicadSymbolValue": "VTX-214-015-109",
+                "kicadSymbolki_description": "9V Vigortronix 15W ACDC Converters",
+                "kicadSymbolki_fp_filters": "Converter*ACDC*Vigortronix*VTX*214*015*1xx*",
+                "kicadSymbolki_keywords": "9V 15W AC-DC module power supply"
+            }
+        ]
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKDIODEC3D165E"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Diode : C3D10065E"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Diode"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Diode-C3D10065E"
+    ],
+    "oompIndex": [
+        "C3D10065E"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.wolfspeed.com/media/downloads/127/C3D10065E.pdf",
+                "kicadSymbolExtends": "CSD01060E",
+                "kicadSymbolFootprint": "Package_TO_SOT_SMD:TO-252-2_TabPin1",
+                "kicadSymbolReference": "D",
+                "kicadSymbolValue": "C3D10065E",
+                "kicadSymbolki_description": "650V, 10A, SiC Schottky Diode, TO-252",
+                "kicadSymbolki_fp_filters": "TO?252*TabPin1*",
+                "kicadSymbolki_keywords": "sic diode"
+            }
+        ]
+    ]
+}

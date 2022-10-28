@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKRELAYMSXX1BXX75"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Relay : MSxx-1Bxx-75"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Relay"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Relay-MSxx-1Bxx-75"
+    ],
+    "oompIndex": [
+        "MSxx-1Bxx-75"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://standexelectronics.com/de/produkte/ms-reed-relais/",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Relay_THT:Relay_SPST_StandexMeder_MS_Form1AB",
+                "kicadSymbolReference": "K",
+                "kicadSymbolValue": "MSxx-1Bxx-75",
+                "kicadSymbolki_description": "Standex Meder MS reed relay, SPST, Opening Contact",
+                "kicadSymbolki_fp_filters": "Relay*SPST*StandexMeder*MS*Form1AB*",
+                "kicadSymbolki_keywords": "Single Pole Reed Relay SPST"
+            }
+        ]
+    ]
+}

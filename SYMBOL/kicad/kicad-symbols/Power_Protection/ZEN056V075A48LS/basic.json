@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKPOWERPROTECTIONZEN56V75A48LS"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Power_Protection : ZEN056V075A48LS"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Power_Protection"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Power_Protection-ZEN056V075A48LS"
+    ],
+    "oompIndex": [
+        "ZEN056V075A48LS"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://m.littelfuse.com/~/media/electronics/datasheets/polyzen_devices/littelfuse_polyzen_standard_polyzen_catalog_datasheet.pdf.pdf",
+                "kicadSymbolExtends": "ZEN056V130A24LS",
+                "kicadSymbolFootprint": "Diode_SMD:Littelfuse_PolyZen-LS",
+                "kicadSymbolReference": "D",
+                "kicadSymbolValue": "ZEN056V075A48LS",
+                "kicadSymbolki_description": "Polymer Protected Zener Diode, 5.6V, 0.75A, 48V, LS",
+                "kicadSymbolki_fp_filters": "Littelfuse*PolyZen*LS*",
+                "kicadSymbolki_keywords": "Polymer zener"
+            }
+        ]
+    ]
+}

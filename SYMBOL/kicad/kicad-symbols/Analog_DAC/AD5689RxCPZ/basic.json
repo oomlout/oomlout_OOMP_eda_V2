@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKANALOGDACAD5689RXCPZ"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Analog_DAC : AD5689RxCPZ"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Analog_DAC"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Analog_DAC-AD5689RxCPZ"
+    ],
+    "oompIndex": [
+        "AD5689RxCPZ"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/AD5689R_5687R.pdf",
+                "kicadSymbolExtends": "AD5687BCPZ",
+                "kicadSymbolFootprint": "Package_CSP:LFCSP-16-1EP_3x3mm_P0.5mm_EP1.854x1.854mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "AD5689RxCPZ",
+                "kicadSymbolki_description": "Dual, 16-Bit nanoDAC+ with 2 ppm/\u00b0C Reference, SPI Interface, LFCSP-16",
+                "kicadSymbolki_fp_filters": "LFCSP*3x3mm*P0.5mm*",
+                "kicadSymbolki_keywords": "dac 2nch 16bit spi"
+            }
+        ]
+    ]
+}

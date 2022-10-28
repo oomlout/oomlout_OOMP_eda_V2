@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKBATMANAGEMENTBQ7693DBT"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Battery_Management : BQ76930DBT"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Battery_Management"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Battery_Management-BQ76930DBT"
+    ],
+    "oompIndex": [
+        "BQ76930DBT"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.ti.com/lit/ds/symlink/bq76930.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_SO:TSSOP-30_4.4x7.8mm_P0.5mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "BQ76930DBT",
+                "kicadSymbolki_description": "Lithium battery monitor, 6-10 cells, integrated balancing, I2C interface, TSSOP-30",
+                "kicadSymbolki_fp_filters": "TSSOP*4.4x7.8mm*P0.5mm*",
+                "kicadSymbolki_keywords": "lithium battery balance charge afe"
+            }
+        ]
+    ]
+}

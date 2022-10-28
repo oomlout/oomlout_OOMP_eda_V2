@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKRELAYDIPXX1CXX51X"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Relay : DIPxx-1Cxx-51x"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Relay"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Relay-DIPxx-1Cxx-51x"
+    ],
+    "oompIndex": [
+        "DIPxx-1Cxx-51x"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://standexelectronics.com/wp-content/uploads/datasheet_reed_relay_DIP.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Relay_THT:Relay_StandexMeder_DIP_LowProfile",
+                "kicadSymbolReference": "K",
+                "kicadSymbolValue": "DIPxx-1Cxx-51x",
+                "kicadSymbolki_description": "Standex Meder DIP reed relay, SPDT",
+                "kicadSymbolki_fp_filters": "Relay*StandexMeder*DIP*LowProfile*",
+                "kicadSymbolki_keywords": "Single Pole Reed Relay SPDT"
+            }
+        ]
+    ]
+}

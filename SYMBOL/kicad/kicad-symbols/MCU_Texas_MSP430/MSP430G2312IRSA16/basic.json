@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKMCUTEXASMSP43MSP43G2312IRSA16"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "MCU_Texas_MSP430 : MSP430G2312IRSA16"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "MCU_Texas_MSP430"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-MCU_Texas_MSP430-MSP430G2312IRSA16"
+    ],
+    "oompIndex": [
+        "MSP430G2312IRSA16"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.ti.com/lit/ds/symlink/msp430g2312.pdf",
+                "kicadSymbolExtends": "MSP430G2112IRSA16",
+                "kicadSymbolFootprint": "Package_DFN_QFN:Texas_S-PVQFN-N16_EP2.7x2.7mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "MSP430G2312IRSA16",
+                "kicadSymbolki_description": "4kB Flash, 256B RAM, QFN-16",
+                "kicadSymbolki_fp_filters": "Texas*S?PVQFN*",
+                "kicadSymbolki_keywords": "TI MSP430 16-bit mixed signal microcontroller"
+            }
+        ]
+    ]
+}

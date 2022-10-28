@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKSENMAX312"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Sensor : MAX30102"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Sensor"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Sensor-MAX30102"
+    ],
+    "oompIndex": [
+        "MAX30102"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://datasheets.maximintegrated.com/en/ds/MAX30102.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "OptoDevice:Maxim_OLGA-14_3.3x5.6mm_P0.8mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "MAX30102",
+                "kicadSymbolki_description": "Heart Rate Sensor, 14-OLGA",
+                "kicadSymbolki_fp_filters": "Maxim*OLGA*3.3x5.6mm*P0.8mm*",
+                "kicadSymbolki_keywords": "Heart Rate"
+            }
+        ]
+    ]
+}

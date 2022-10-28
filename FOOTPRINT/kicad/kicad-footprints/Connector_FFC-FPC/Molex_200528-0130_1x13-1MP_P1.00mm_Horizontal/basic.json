@@ -1,0 +1,57 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "smd",
+            "description": "Molex Molex 1.00mm Pitch Easy-On BackFlip, Right-Angle, Bottom Contact FFC/FPC, 200528-0130, 13 Circuits (https://www.molex.com/pdm_docs/sd/2005280130_sd.pdf), generated with kicad-footprint-generator",
+            "name": "Molex_200528-0130_1x13-1MP_P1.00mm_Horizontal",
+            "pins": {
+                "shape": "rect",
+                "type": "smd"
+            },
+            "tags": "connector Molex  top entry",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/Connector_FFC-FPC.3dshapes/Molex_200528-0130_1x13-1MP_P1.00mm_Horizontal.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKCNFFCFPCMX2528131X131MPP1HORIZONTAL"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Connector_FFC-FPC : Molex_200528-0130_1x13-1MP_P1.00mm_Horizontal"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Connector_FFC-FPC"
+    ],
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Connector_FFC-FPC-Molex_200528-0130_1x13-1MP_P1.00mm_Horizontal"
+    ],
+    "oompIndex": [
+        "Molex_200528-0130_1x13-1MP_P1.00mm_Horizontal"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

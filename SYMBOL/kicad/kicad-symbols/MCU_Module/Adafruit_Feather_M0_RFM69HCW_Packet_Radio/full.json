@@ -1,0 +1,81 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKMCUMOADAFEATHERMRFM69HCWPACKETRADIO"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "MCU_Module : Adafruit_Feather_M0_RFM69HCW_Packet_Radio"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "MCU_Module"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Module/Adafruit_Feather_M0_RFM69HCW_Packet_Radio/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Module/Adafruit_Feather_M0_RFM69HCW_Packet_Radio/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Module/Adafruit_Feather_M0_RFM69HCW_Packet_Radio/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Module/Adafruit_Feather_M0_RFM69HCW_Packet_Radio/details.py"
+        ],
+        "imagePng": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Module/Adafruit_Feather_M0_RFM69HCW_Packet_Radio/image.png"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Module/Adafruit_Feather_M0_RFM69HCW_Packet_Radio/basic.json"
+        ],
+        "readme": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Module/Adafruit_Feather_M0_RFM69HCW_Packet_Radio/README.md"
+        ]
+    },
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-MCU_Module-Adafruit_Feather_M0_RFM69HCW_Packet_Radio"
+    ],
+    "oompIndex": [
+        "Adafruit_Feather_M0_RFM69HCW_Packet_Radio"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://cdn-learn.adafruit.com/downloads/pdf/adafruit-feather-m0-radio-with-rfm69-packet-radio.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Module:Adafruit_Feather_M0_RFM",
+                "kicadSymbolReference": "A",
+                "kicadSymbolValue": "Adafruit_Feather_M0_RFM69HCW_Packet_Radio",
+                "kicadSymbolki_description": "Microcontroller module with SAMD21 Cortex-M0 MCU and RFM69HCW Radio",
+                "kicadSymbolki_fp_filters": "Adafruit*Feather*",
+                "kicadSymbolki_keywords": "Adafruit feather microcontroller module USB M0 SAMD21 Radio"
+            }
+        ]
+    ]
+}

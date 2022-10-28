@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKSENMOTIONLSM9DS1"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Sensor_Motion : LSM9DS1"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Sensor_Motion"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Sensor_Motion-LSM9DS1"
+    ],
+    "oompIndex": [
+        "LSM9DS1"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.st.com/content/ccc/resource/technical/document/datasheet/1e/3f/2a/d6/25/eb/48/46/DM00103319.pdf/files/DM00103319.pdf/jcr:content/translations/en.DM00103319.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_LGA:LGA-24L_3x3.5mm_P0.43mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "LSM9DS1",
+                "kicadSymbolki_description": "I2C SPI 9 axis IMU accelerometer gyroscope magnetometer",
+                "kicadSymbolki_fp_filters": "LGA*3x3.5mm*P0.43mm*",
+                "kicadSymbolki_keywords": "I2C SPI IMU accelerometer gyroscope magnetometer"
+            }
+        ]
+    ]
+}

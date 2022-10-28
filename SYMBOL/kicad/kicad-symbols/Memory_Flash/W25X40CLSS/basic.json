@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKMEMORYFLASHW25X4CLSS"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Memory_Flash : W25X40CLSS"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Memory_Flash"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Memory_Flash-W25X40CLSS"
+    ],
+    "oompIndex": [
+        "W25X40CLSS"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.winbond.com/resource-files/W25X40CL_G%2020210505.pdf",
+                "kicadSymbolExtends": "W25X40CLSN",
+                "kicadSymbolFootprint": "Package_SO:SOIC-8_5.275x5.275mm_P1.27mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "W25X40CLSS",
+                "kicadSymbolki_description": "4Mbit Serial Flash memory, dual I/O SPI, SOIC-8 208mil",
+                "kicadSymbolki_fp_filters": "SOIC*5.275x5.275mm*P1.27mm*",
+                "kicadSymbolki_keywords": "Memory Flash SPI"
+            }
+        ]
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKINTERFACEUTPS251DRC"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Interface_USB : TPS2501DRC"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Interface_USB"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Interface_USB-TPS2501DRC"
+    ],
+    "oompIndex": [
+        "TPS2501DRC"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.ti.com/lit/ds/symlink/tps2500.pdf",
+                "kicadSymbolExtends": "TPS2500DRC",
+                "kicadSymbolFootprint": "Package_SON:Texas_S-PVSON-N10",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "TPS2501DRC",
+                "kicadSymbolki_description": "Integrated USB power Switch with Boost Converter, Constant Frequency, Texas S-PVSON-10",
+                "kicadSymbolki_fp_filters": "Texas*S*PVSON*N10*",
+                "kicadSymbolki_keywords": "USB switch boost"
+            }
+        ]
+    ]
+}

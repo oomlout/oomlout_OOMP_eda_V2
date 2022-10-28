@@ -1,0 +1,57 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "through_hole",
+            "description": "Connector",
+            "name": "TE_AMPSEAL_1-776087-x_3Rows_23_P0.4mm_Horizontal",
+            "pins": {
+                "shape": "circle",
+                "type": "np_thru_hole"
+            },
+            "tags": "TE 776087",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/Connector_TE-Connectivity.3dshapes/TE_AMPSEAL_1-776087-x_3Rows_23_P0.4mm_Horizontal.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKCNTECONNECTIVITYTEAMPSEAL177687X3ROWS23P4HORIZONTAL"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Connector_TE-Connectivity : TE_AMPSEAL_1-776087-x_3Rows_23_P0.4mm_Horizontal"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Connector_TE-Connectivity"
+    ],
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Connector_TE-Connectivity-TE_AMPSEAL_1-776087-x_3Rows_23_P0.4mm_Horizontal"
+    ],
+    "oompIndex": [
+        "TE_AMPSEAL_1-776087-x_3Rows_23_P0.4mm_Horizontal"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKDIODEPMEG12AELR"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Diode : PMEG10020AELR"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Diode"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Diode-PMEG10020AELR"
+    ],
+    "oompIndex": [
+        "PMEG10020AELR"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://assets.nexperia.com/documents/data-sheet/PMEG10020AELR.pdf",
+                "kicadSymbolExtends": "PMEG40T10ER",
+                "kicadSymbolFootprint": "Diode_SMD:Nexperia_CFP3_SOD-123W",
+                "kicadSymbolReference": "D",
+                "kicadSymbolValue": "PMEG10020AELR",
+                "kicadSymbolki_description": "100V, 2A low leakage current MEGA Schottky barrier rectifier, SOD-123W",
+                "kicadSymbolki_fp_filters": "Nexperia*CFP3*SOD?123W*",
+                "kicadSymbolki_keywords": "ir diode"
+            }
+        ]
+    ]
+}

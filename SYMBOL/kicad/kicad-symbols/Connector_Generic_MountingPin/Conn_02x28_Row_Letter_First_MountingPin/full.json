@@ -1,0 +1,81 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKCNGENERICMOUNTINGPINCONN2X28ROWLETTERFIRSTMOUNTINGPIN"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Connector_Generic_MountingPin : Conn_02x28_Row_Letter_First_MountingPin"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Connector_Generic_MountingPin"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector_Generic_MountingPin/Conn_02x28_Row_Letter_First_MountingPin/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector_Generic_MountingPin/Conn_02x28_Row_Letter_First_MountingPin/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector_Generic_MountingPin/Conn_02x28_Row_Letter_First_MountingPin/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector_Generic_MountingPin/Conn_02x28_Row_Letter_First_MountingPin/details.py"
+        ],
+        "imagePng": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector_Generic_MountingPin/Conn_02x28_Row_Letter_First_MountingPin/image.png"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector_Generic_MountingPin/Conn_02x28_Row_Letter_First_MountingPin/basic.json"
+        ],
+        "readme": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector_Generic_MountingPin/Conn_02x28_Row_Letter_First_MountingPin/README.md"
+        ]
+    },
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Connector_Generic_MountingPin-Conn_02x28_Row_Letter_First_MountingPin"
+    ],
+    "oompIndex": [
+        "Conn_02x28_Row_Letter_First_MountingPin"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "~",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "",
+                "kicadSymbolReference": "J",
+                "kicadSymbolValue": "Conn_02x28_Row_Letter_First_MountingPin",
+                "kicadSymbolki_description": "Generic connectable mounting pin connector, double row, 02x28, row letter first pin numbering scheme (pin number consists of a letter for the row and a number for the pin index in this row. a1, ..., aN; b1, ..., bN), script generated (kicad-library-utils/schlib/autogen/connector/)",
+                "kicadSymbolki_fp_filters": "Connector*:*_2x??-1MP*",
+                "kicadSymbolki_keywords": "connector"
+            }
+        ]
+    ]
+}

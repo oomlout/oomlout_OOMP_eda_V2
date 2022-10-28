@@ -1,0 +1,81 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKMCUSILICONLABSEFM8BB1F8AAQFN2"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "MCU_SiliconLabs : EFM8BB10F8A-A-QFN20"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "MCU_SiliconLabs"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_SiliconLabs/EFM8BB10F8A-A-QFN20/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_SiliconLabs/EFM8BB10F8A-A-QFN20/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_SiliconLabs/EFM8BB10F8A-A-QFN20/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_SiliconLabs/EFM8BB10F8A-A-QFN20/details.py"
+        ],
+        "imagePng": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_SiliconLabs/EFM8BB10F8A-A-QFN20/image.png"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_SiliconLabs/EFM8BB10F8A-A-QFN20/basic.json"
+        ],
+        "readme": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_SiliconLabs/EFM8BB10F8A-A-QFN20/README.md"
+        ]
+    },
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-MCU_SiliconLabs-EFM8BB10F8A-A-QFN20"
+    ],
+    "oompIndex": [
+        "EFM8BB10F8A-A-QFN20"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.silabs.com/documents/public/data-sheets/efm8bb1-datasheet.pdf",
+                "kicadSymbolExtends": "EFM8BB10F8G-A-QFN20",
+                "kicadSymbolFootprint": "Package_DFN_QFN:SiliconLabs_QFN-20-1EP_3x3mm_P0.5mm_EP1.8x1.8mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "EFM8BB10F8A-A-QFN20",
+                "kicadSymbolki_description": "8051-compatible microcontroller, 25 MHz, 2.2 to 3.6V, 8K flash, 512B RAM, -40 to +125 C (automotive), QFN20",
+                "kicadSymbolki_fp_filters": "SiliconLabs*QFN*1EP*3x3mm*P0.5mm*",
+                "kicadSymbolki_keywords": "8051 microcontroller PWM UART SPI I2C ADC QFN20 automotive"
+            }
+        ]
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKDIODEBRIDGEW8G"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Diode_Bridge : W08G"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Diode_Bridge"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Diode_Bridge-W08G"
+    ],
+    "oompIndex": [
+        "W08G"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.vishay.com/docs/88769/woo5g.pdf",
+                "kicadSymbolExtends": "B40C1500G",
+                "kicadSymbolFootprint": "Diode_THT:Diode_Bridge_Round_D9.8mm",
+                "kicadSymbolReference": "D",
+                "kicadSymbolValue": "W08G",
+                "kicadSymbolki_description": "Glass Passivated Single-Phase Bridge Rectifier, 560V Vrms, 1.5A If, WOG package",
+                "kicadSymbolki_fp_filters": "D*Bridge*Round*D9.8mm*",
+                "kicadSymbolki_keywords": "Bridge Rectifier acdc"
+            }
+        ]
+    ]
+}

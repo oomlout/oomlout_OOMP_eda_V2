@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKDEVICEQDUALPMOSS1G1D2S2G2D1"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Device : Q_Dual_PMOS_S1G1D2S2G2D1"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Device"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Device-Q_Dual_PMOS_S1G1D2S2G2D1"
+    ],
+    "oompIndex": [
+        "Q_Dual_PMOS_S1G1D2S2G2D1"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "~",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "",
+                "kicadSymbolReference": "Q",
+                "kicadSymbolValue": "Q_Dual_PMOS_S1G1D2S2G2D1",
+                "kicadSymbolki_description": "Dual PMOS transistor, 6 pin package",
+                "kicadSymbolki_fp_filters": "TSOP* SC?70* SC?88* SOT?363*",
+                "kicadSymbolki_keywords": "transistor PMOS P-MOS P-MOSFET"
+            }
+        ]
+    ]
+}

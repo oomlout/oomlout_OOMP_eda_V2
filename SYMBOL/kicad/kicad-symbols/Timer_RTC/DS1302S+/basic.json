@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKTIMERRTCDS132S+"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Timer_RTC : DS1302S+"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Timer_RTC"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Timer_RTC-DS1302S+"
+    ],
+    "oompIndex": [
+        "DS1302S+"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://datasheets.maximintegrated.com/en/ds/DS1302.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_SO:SO-8_5.3x6.2mm_P1.27mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "DS1302S+",
+                "kicadSymbolki_description": "Trickle-Charge Timekeeping Chip, 2.0V to 5.5V VCC, 0\u00b0C to +70\u00b0C, SO-8",
+                "kicadSymbolki_fp_filters": "SO*5.3x6.2mm?P1.27mm*",
+                "kicadSymbolki_keywords": "RTC, Trickle-Charge Timekeeping Chip"
+            }
+        ]
+    ]
+}

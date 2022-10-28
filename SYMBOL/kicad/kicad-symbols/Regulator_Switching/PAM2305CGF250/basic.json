@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKREGULATORSWITCHINGPAM235CGF25"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Regulator_Switching : PAM2305CGF250"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Regulator_Switching"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Regulator_Switching-PAM2305CGF250"
+    ],
+    "oompIndex": [
+        "PAM2305CGF250"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.diodes.com/assets/Datasheets/PAM2305.pdf",
+                "kicadSymbolExtends": "PAM2305CGF330",
+                "kicadSymbolFootprint": "Package_DFN_QFN:DFN-6-1EP_2x2mm_P0.65mm_EP1x1.6mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "PAM2305CGF250",
+                "kicadSymbolki_description": "1A, Step-Down DC/DC-Converter, 2.5V Fixed Output Voltage, 1.5MHz, DFN-6",
+                "kicadSymbolki_fp_filters": "DFN*EP*2x2mm*P0.65mm*",
+                "kicadSymbolki_keywords": "Voltage regulator switching buck fixed output analog"
+            }
+        ]
+    ]
+}

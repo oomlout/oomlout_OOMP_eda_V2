@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKLWS2813"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "LED : WS2813"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "LED"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-LED-WS2813"
+    ],
+    "oompIndex": [
+        "WS2813"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.normandled.com/upload/201605/WS2813%20LED%20Datasheet.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "LED_SMD:LED_WS2812_PLCC6_5.0x5.0mm_P1.6mm",
+                "kicadSymbolReference": "D",
+                "kicadSymbolValue": "WS2813",
+                "kicadSymbolki_description": "RGB LED with integrated controller",
+                "kicadSymbolki_fp_filters": "LED*WS2812*PLCC*5.0x5.0mm*P1.6mm*",
+                "kicadSymbolki_keywords": "RGB LED addressable"
+            }
+        ]
+    ]
+}

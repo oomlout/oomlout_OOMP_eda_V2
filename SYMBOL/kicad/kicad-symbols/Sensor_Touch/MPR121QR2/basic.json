@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKSENTOUCHMPR121QR2"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Sensor_Touch : MPR121QR2"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Sensor_Touch"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Sensor_Touch-MPR121QR2"
+    ],
+    "oompIndex": [
+        "MPR121QR2"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://resurgentsemi.com/wp-content/uploads/2018/09/MPR121_rev5-Resurgent.pdf?d453f8&d453f8",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_DFN_QFN:UQFN-20_3x3mm_P0.4mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "MPR121QR2",
+                "kicadSymbolki_description": "12ch Touch Sensor controller, UQFN-20",
+                "kicadSymbolki_fp_filters": "UQFN*3x3mm*P0.4mm*",
+                "kicadSymbolki_keywords": "Touch Sensor 12ch"
+            }
+        ]
+    ]
+}

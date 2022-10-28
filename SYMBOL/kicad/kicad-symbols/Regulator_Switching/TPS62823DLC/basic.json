@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKREGULATORSWITCHINGTPS62823DLC"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Regulator_Switching : TPS62823DLC"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Regulator_Switching"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS62823DLC"
+    ],
+    "oompIndex": [
+        "TPS62823DLC"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.ti.com/lit/ds/symlink/tps62823.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_DFN_QFN:Texas_VSON-HR-8_1.5x2mm_P0.5mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "TPS62823DLC",
+                "kicadSymbolki_description": "3A Step-Down Converter with DCS-Control, adjustable output, 2.4-5.5V input voltage, QFN-8",
+                "kicadSymbolki_fp_filters": "Texas*VSON*HR*1.5x2mm*P0.5mm*",
+                "kicadSymbolki_keywords": "step-down dc-dc buck regulator"
+            }
+        ]
+    ]
+}

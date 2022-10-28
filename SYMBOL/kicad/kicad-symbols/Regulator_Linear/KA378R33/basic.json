@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKREGULATORLINEARKA378R33"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Regulator_Linear : KA378R33"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Regulator_Linear"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Regulator_Linear-KA378R33"
+    ],
+    "oompIndex": [
+        "KA378R33"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.onsemi.com/pub/Collateral/KA378R33-D.pdf",
+                "kicadSymbolExtends": "KA378R05",
+                "kicadSymbolFootprint": "Package_TO_SOT_THT:TO-220-4_Vertical",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "KA378R33",
+                "kicadSymbolki_description": "Positive 3A 35V Linear Regulator with Disable Pin, LDO, Fixed Output 3.3V, TO-220F-4L",
+                "kicadSymbolki_fp_filters": "TO?220*",
+                "kicadSymbolki_keywords": "Voltage Regulator 3A Positive LDO Disable Pin"
+            }
+        ]
+    ]
+}

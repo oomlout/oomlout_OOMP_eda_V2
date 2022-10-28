@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKRFAQH2223A"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "RF : AQH2223A"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "RF"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-RF-AQH2223A"
+    ],
+    "oompIndex": [
+        "AQH2223A"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://b2b-api.panasonic.eu/file_stream/pids/fileversion/2787",
+                "kicadSymbolExtends": "AQH0223A",
+                "kicadSymbolFootprint": "Package_SO:SSO-7-8_6.4x9.78mm_P2.54mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "AQH2223A",
+                "kicadSymbolki_description": "Random Phase Opto-Triac, Vdrm 600V, Ift 10mA, IT 900mA, SOIC-7",
+                "kicadSymbolki_fp_filters": "SSO*6.4x9.78mm*P2.54mm*",
+                "kicadSymbolki_keywords": "Opto-Triac Opto Triac Random Phase"
+            }
+        ]
+    ]
+}

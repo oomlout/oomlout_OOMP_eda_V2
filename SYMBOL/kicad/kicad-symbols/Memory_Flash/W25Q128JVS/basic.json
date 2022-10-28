@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKMEMORYFLASHW25Q128JVS"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Memory_Flash : W25Q128JVS"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Memory_Flash"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Memory_Flash-W25Q128JVS"
+    ],
+    "oompIndex": [
+        "W25Q128JVS"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.winbond.com/resource-files/w25q128jv_dtr%20revc%2003272018%20plus.pdf",
+                "kicadSymbolExtends": "W25Q32JVSS",
+                "kicadSymbolFootprint": "Package_SO:SOIC-8_5.23x5.23mm_P1.27mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "W25Q128JVS",
+                "kicadSymbolki_description": "128Mb Serial Flash Memory, Standard/Dual/Quad SPI, SOIC-8",
+                "kicadSymbolki_fp_filters": "SOIC*5.23x5.23mm*P1.27mm*",
+                "kicadSymbolki_keywords": "flash memory SPI QPI DTR"
+            }
+        ]
+    ]
+}

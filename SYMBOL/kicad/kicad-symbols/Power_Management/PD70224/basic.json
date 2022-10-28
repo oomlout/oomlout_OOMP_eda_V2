@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKPOWERMANAGEMENTPD7224"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Power_Management : PD70224"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Power_Management"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Power_Management-PD70224"
+    ],
+    "oompIndex": [
+        "PD70224"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.microsemi.com/document-portal/doc_download/131677-pd70224-data-sheet",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_DFN_QFN:Microsemi_QFN-40-32-2EP_6x8mm_P0.5mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "PD70224",
+                "kicadSymbolki_description": "Ideal Dual Diode Bridge, QFN-40",
+                "kicadSymbolki_fp_filters": "Microsemi*QFN*6x8mm*P0.5mm*",
+                "kicadSymbolki_keywords": "dual ideal diode bridge"
+            }
+        ]
+    ]
+}

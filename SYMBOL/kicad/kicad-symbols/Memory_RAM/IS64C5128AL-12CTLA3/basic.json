@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKMEMORYRAMIS64C5128AL12CTLA3"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Memory_RAM : IS64C5128AL-12CTLA3"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Memory_RAM"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Memory_RAM-IS64C5128AL-12CTLA3"
+    ],
+    "oompIndex": [
+        "IS64C5128AL-12CTLA3"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.issi.com/WW/pdf/61-64C5128AL.pdf",
+                "kicadSymbolExtends": "IS61C5128AL-10TLI",
+                "kicadSymbolFootprint": "Package_SO:TSOP-II-44_10.16x18.41mm_P0.8mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "IS64C5128AL-12CTLA3",
+                "kicadSymbolki_description": "512K x 8 HIGH-SPEED CMOS STATIC RAM, 12ns, TSOP II-44",
+                "kicadSymbolki_fp_filters": "TSOP*10.16x18.41mm*P0.8mm*",
+                "kicadSymbolki_keywords": "SRAM MEMORY"
+            }
+        ]
+    ]
+}

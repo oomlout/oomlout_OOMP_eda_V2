@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKCONRAC412SGA"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Converter_ACDC : RAC04-12SGA"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Converter_ACDC"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Converter_ACDC-RAC04-12SGA"
+    ],
+    "oompIndex": [
+        "RAC04-12SGA"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.recom-power.com/pdf/Powerline-AC-DC/RAC04-GA.pdf",
+                "kicadSymbolExtends": "RAC04-xxSGA",
+                "kicadSymbolFootprint": "Converter_ACDC:Converter_ACDC_RECOM_RAC04-xxSGx_THT",
+                "kicadSymbolReference": "PS",
+                "kicadSymbolValue": "RAC04-12SGA",
+                "kicadSymbolki_description": "4 Watt Single Output EMC Class A - 12V 330mA",
+                "kicadSymbolki_fp_filters": "Converter*ACDC*RECOM*RAC04*SG*",
+                "kicadSymbolki_keywords": "ac dc power supply"
+            }
+        ]
+    ]
+}

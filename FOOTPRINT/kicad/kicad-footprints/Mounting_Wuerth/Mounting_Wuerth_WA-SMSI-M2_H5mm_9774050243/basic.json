@@ -1,0 +1,57 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "smd",
+            "description": "Mounting Hardware, inside through hole M2, height 5, Wuerth electronics 9774050243 (https://katalog.we-online.de/em/datasheet/9774050243.pdf), generated with kicad-footprint-generator",
+            "name": "Mounting_Wuerth_WA-SMSI-M2_H5mm_9774050243",
+            "pins": {
+                "shape": "custom",
+                "type": "smd"
+            },
+            "tags": "Mounting M2 9774050243",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/Mounting_Wuerth.3dshapes/Mounting_Wuerth_WA-SMSI-M2_H5mm_9774050243.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKMONMONWASMSIM2H597745243"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Mounting_Wuerth : Mounting_Wuerth_WA-SMSI-M2_H5mm_9774050243"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Mounting_Wuerth"
+    ],
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Mounting_Wuerth-Mounting_Wuerth_WA-SMSI-M2_H5mm_9774050243"
+    ],
+    "oompIndex": [
+        "Mounting_Wuerth_WA-SMSI-M2_H5mm_9774050243"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

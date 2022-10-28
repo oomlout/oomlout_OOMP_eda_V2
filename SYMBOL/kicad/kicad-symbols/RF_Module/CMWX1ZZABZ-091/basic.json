@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKRFMOCMWX1ZZABZ91"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "RF_Module : CMWX1ZZABZ-091"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "RF_Module"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-RF_Module-CMWX1ZZABZ-091"
+    ],
+    "oompIndex": [
+        "CMWX1ZZABZ-091"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://wireless.murata.com/RFM/data/type_abz.pdf",
+                "kicadSymbolExtends": "CMWX1ZZABZ-078",
+                "kicadSymbolFootprint": "RF_Module:CMWX1ZZABZ",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "CMWX1ZZABZ-091",
+                "kicadSymbolki_description": "LoRa/SigFox Module, STM32L072 MCU, Murata CMWX1ZZABZ",
+                "kicadSymbolki_fp_filters": "CMWX1ZZABZ*",
+                "kicadSymbolki_keywords": "iot lora sigfox"
+            }
+        ]
+    ]
+}

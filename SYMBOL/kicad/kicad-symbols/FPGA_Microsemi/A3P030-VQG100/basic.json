@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKFPGAMSEMIA3P3VQG1"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "FPGA_Microsemi : A3P030-VQG100"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "FPGA_Microsemi"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-FPGA_Microsemi-A3P030-VQG100"
+    ],
+    "oompIndex": [
+        "A3P030-VQG100"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.microsemi.com/document-portal/doc_download/130704-proasic3-flash-family-fpgas-datasheet",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_QFP:VQFP-100_14x14mm_P0.5mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "A3P030-VQG100",
+                "kicadSymbolki_description": "Actel ProASIC3 Flash Family FPGAs, 256 MCLB, 100pin QFP100",
+                "kicadSymbolki_fp_filters": "*QFP*14x14mm*P0.5mm*",
+                "kicadSymbolki_keywords": "ProASIC3 ACTEL FLASH"
+            }
+        ]
+    ]
+}

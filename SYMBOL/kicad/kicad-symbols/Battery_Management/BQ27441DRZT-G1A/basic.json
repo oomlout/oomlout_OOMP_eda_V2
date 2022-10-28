@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKBATMANAGEMENTBQ27441DRZTG1A"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Battery_Management : BQ27441DRZT-G1A"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Battery_Management"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Battery_Management-BQ27441DRZT-G1A"
+    ],
+    "oompIndex": [
+        "BQ27441DRZT-G1A"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.ti.com/lit/ds/symlink/bq27441-g1.pdf",
+                "kicadSymbolExtends": "BQ27441-G1",
+                "kicadSymbolFootprint": "Package_SON:Texas_S-PDSO-N12",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "BQ27441DRZT-G1A",
+                "kicadSymbolki_description": "System Side Li Ion/Polymer Fuel Gauge, 4.2V, PDSON-12",
+                "kicadSymbolki_fp_filters": "*PDSO*N12*",
+                "kicadSymbolki_keywords": "Fuel Gauge"
+            }
+        ]
+    ]
+}

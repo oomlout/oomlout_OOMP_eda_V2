@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKFILFN4512"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Filter : FN405-1-02"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Filter"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Filter-FN405-1-02"
+    ],
+    "oompIndex": [
+        "FN405-1-02"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.schaffner.com/de/produkte/download/product/datasheet/fn-405-pcb-mounting-filter/",
+                "kicadSymbolExtends": "FN405-0.5-02",
+                "kicadSymbolFootprint": "Filter:Filter_Schaffner_FN405",
+                "kicadSymbolReference": "FL",
+                "kicadSymbolValue": "FN405-1-02",
+                "kicadSymbolki_description": "1A, 250VAC, 50/60Hz line filter",
+                "kicadSymbolki_fp_filters": "Filter*Schaffner*FN405*",
+                "kicadSymbolki_keywords": "EMI"
+            }
+        ]
+    ]
+}

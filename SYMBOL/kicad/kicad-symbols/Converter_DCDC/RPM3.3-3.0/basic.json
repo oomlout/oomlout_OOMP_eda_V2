@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKCONRPM333"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Converter_DCDC : RPM3.3-3.0"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Converter_DCDC"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Converter_DCDC-RPM3.3-3.0"
+    ],
+    "oompIndex": [
+        "RPM3.3-3.0"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.recom-power.com/pdf/Innoline/RPM-3.0.pdf",
+                "kicadSymbolExtends": "RPM5.0-6.0",
+                "kicadSymbolFootprint": "Converter_DCDC:Converter_DCDC_RECOM_RPMx.x-x.0",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "RPM3.3-3.0",
+                "kicadSymbolki_description": "3A non-isolated switching regulator power module, 3-17V input voltage, 3.3V output voltage, DOSA",
+                "kicadSymbolki_fp_filters": "Converter*DCDC*RECOM*RPM*",
+                "kicadSymbolki_keywords": "Recom dc-dc converter"
+            }
+        ]
+    ]
+}

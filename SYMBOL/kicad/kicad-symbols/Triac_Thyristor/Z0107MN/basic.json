@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKTRIACTHYRISTORZ17MN"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Triac_Thyristor : Z0107MN"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Triac_Thyristor"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Triac_Thyristor-Z0107MN"
+    ],
+    "oompIndex": [
+        "Z0107MN"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.st.com/resource/en/datasheet/z01.pdf",
+                "kicadSymbolExtends": "Z0103MN",
+                "kicadSymbolFootprint": "Package_TO_SOT_SMD:SOT-223",
+                "kicadSymbolReference": "D",
+                "kicadSymbolValue": "Z0107MN",
+                "kicadSymbolki_description": "4Q Triac, 1A RMS, 600V VDRM, 5mA Igt, 10mA Ih, SOT-223",
+                "kicadSymbolki_fp_filters": "SOT*223*",
+                "kicadSymbolki_keywords": "4Q Triac"
+            }
+        ]
+    ]
+}

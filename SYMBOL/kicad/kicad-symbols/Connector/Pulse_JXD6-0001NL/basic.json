@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKCNPULSEJXD61NL"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Connector : Pulse_JXD6-0001NL"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Connector"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Connector-Pulse_JXD6-0001NL"
+    ],
+    "oompIndex": [
+        "Pulse_JXD6-0001NL"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://productfinder.pulseeng.com/doc_type/WEB301/doc_num/JXD6-0001NL/doc_part/JXD6-0001NL.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Connector_RJ:RJ45_Pulse_JXD6-0001NL_Horizontal",
+                "kicadSymbolReference": "J",
+                "kicadSymbolValue": "Pulse_JXD6-0001NL",
+                "kicadSymbolki_description": "LAN Transformer Jack, RJ45, 10/100 BaseT",
+                "kicadSymbolki_fp_filters": "RJ45*Pulse*JXD6?0001NL*",
+                "kicadSymbolki_keywords": "lan jack transformer"
+            }
+        ]
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKRFFILBPFA355"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "RF_Filter : BPF-A355"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "RF_Filter"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-RF_Filter-BPF-A355"
+    ],
+    "oompIndex": [
+        "BPF-A355"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.minicircuits.com/pdfs/BPF-A355+.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "RF_Mini-Circuits:Mini-Circuits_HQ1157",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "BPF-A355",
+                "kicadSymbolki_description": "Bandpass Filter, 310 to 400 MHz, 50 Ohm, Mini-Circuits HQ1157",
+                "kicadSymbolki_fp_filters": "Mini?Circuits*HQ1157*",
+                "kicadSymbolki_keywords": "Bandpass Filter"
+            }
+        ]
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKLTSAL44"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "LED : TSAL4400"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "LED"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-LED-TSAL4400"
+    ],
+    "oompIndex": [
+        "TSAL4400"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.vishay.com/docs/81006/tsal4400.pdf",
+                "kicadSymbolExtends": "SFH4356P",
+                "kicadSymbolFootprint": "LED_THT:LED_D3.0mm_IRBlack",
+                "kicadSymbolReference": "D",
+                "kicadSymbolValue": "TSAL4400",
+                "kicadSymbolki_description": "Infrared LED , 3mm LED package",
+                "kicadSymbolki_fp_filters": "LED*3.0mm*IRBlack*",
+                "kicadSymbolki_keywords": "opto IR LED"
+            }
+        ]
+    ]
+}

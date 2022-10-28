@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKCONTPSM5364RDA"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Converter_DCDC : TPSM53604RDA"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Converter_DCDC"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Converter_DCDC-TPSM53604RDA"
+    ],
+    "oompIndex": [
+        "TPSM53604RDA"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.ti.com/lit/ds/symlink/tpsm53604.pdf",
+                "kicadSymbolExtends": "TPSM53602RDA",
+                "kicadSymbolFootprint": "Package_DFN_QFN:Texas_B3QFN-14-1EP_5x5.5mm_P0.65mm_ThermalVia",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "TPSM53604RDA",
+                "kicadSymbolki_description": " 36-V, 4A input, stepdown, DC/DC converter, Texas B3QFN-14",
+                "kicadSymbolki_fp_filters": "Texas*B3QFN*1EP*5x5.5mm*P0.65mm*",
+                "kicadSymbolki_keywords": "step down DCDC converter regulator"
+            }
+        ]
+    ]
+}

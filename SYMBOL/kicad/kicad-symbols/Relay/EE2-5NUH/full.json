@@ -1,0 +1,81 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKRELAYEE25NUH"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Relay : EE2-5NUH"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Relay"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Relay/EE2-5NUH/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Relay/EE2-5NUH/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Relay/EE2-5NUH/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Relay/EE2-5NUH/details.py"
+        ],
+        "imagePng": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Relay/EE2-5NUH/image.png"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Relay/EE2-5NUH/basic.json"
+        ],
+        "readme": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Relay/EE2-5NUH/README.md"
+        ]
+    },
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Relay-EE2-5NUH"
+    ],
+    "oompIndex": [
+        "EE2-5NUH"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://content.kemet.com/datasheets/KEM_R7002_EC2_EE2.pdf",
+                "kicadSymbolExtends": "EE2-3NUH",
+                "kicadSymbolFootprint": "Relay_SMD:Relay_DPDT_Kemet_EE2_NUH",
+                "kicadSymbolReference": "K",
+                "kicadSymbolValue": "EE2-5NUH",
+                "kicadSymbolki_description": "General purpose signal relay, Kemet EE2 Series, DPDT (2 Form C), non-latching, small footprint SMD, 60W/125VA, 220VDC/250VAC, 2A, 5V DC coil",
+                "kicadSymbolki_fp_filters": "Relay*DPDT*Kemet*EE2*NUH*",
+                "kicadSymbolki_keywords": "signal relay double pole double throw DPDT DC coil non latching"
+            }
+        ]
+    ]
+}

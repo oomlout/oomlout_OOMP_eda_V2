@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKMCUSILICONLABSEFM8LB12F64ECQFP32"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "MCU_SiliconLabs : EFM8LB12F64E-C-QFP32"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "MCU_SiliconLabs"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-MCU_SiliconLabs-EFM8LB12F64E-C-QFP32"
+    ],
+    "oompIndex": [
+        "EFM8LB12F64E-C-QFP32"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.silabs.com/documents/public/data-sheets/efm8lb1-datasheet.pdf",
+                "kicadSymbolExtends": "EFM8LB12F32E-C-QFP32",
+                "kicadSymbolFootprint": "Package_QFP:LQFP-32_7x7mm_P0.8mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "EFM8LB12F64E-C-QFP32",
+                "kicadSymbolki_description": "8051-compatible microcontroller, 72 MHz, 2.2 to 3.6V, 64K flash, 2304B RAM, -40 to +105 C, QFP-32",
+                "kicadSymbolki_fp_filters": "LQFP*7x7mm*P0.8mm*",
+                "kicadSymbolki_keywords": "8051 microcontroller"
+            }
+        ]
+    ]
+}

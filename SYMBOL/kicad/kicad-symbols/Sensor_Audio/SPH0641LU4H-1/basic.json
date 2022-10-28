@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKSENAUDIOSPH641LU4H1"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Sensor_Audio : SPH0641LU4H-1"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Sensor_Audio"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Sensor_Audio-SPH0641LU4H-1"
+    ],
+    "oompIndex": [
+        "SPH0641LU4H-1"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.knowles.com/docs/default-source/model-downloads/sph0641lu4h-1-revb.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Sensor_Audio:Knowles_LGA-5_3.5x2.65mm",
+                "kicadSymbolReference": "MK",
+                "kicadSymbolValue": "SPH0641LU4H-1",
+                "kicadSymbolki_description": "Digital MEMS Microphone, LGA-5",
+                "kicadSymbolki_fp_filters": "Knowles*LGA*3.5x2.65mm*",
+                "kicadSymbolki_keywords": "Microphone MEMS"
+            }
+        ]
+    ]
+}

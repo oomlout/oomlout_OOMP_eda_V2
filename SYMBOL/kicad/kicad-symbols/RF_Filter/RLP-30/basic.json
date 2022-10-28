@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKRFFILRLP3"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "RF_Filter : RLP-30"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "RF_Filter"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-RF_Filter-RLP-30"
+    ],
+    "oompIndex": [
+        "RLP-30"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.minicircuits.com/pdfs/RLP-30+.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "RF_Mini-Circuits:Mini-Circuits_GP1212_LandPatternPL-176",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "RLP-30",
+                "kicadSymbolki_description": "Low Pass Filter, DC to 30 MHz, 50 Ohm, Mini-Circuits GP1212",
+                "kicadSymbolki_fp_filters": "Mini?Circuits*GP1212*",
+                "kicadSymbolki_keywords": "Low Pass Filter"
+            }
+        ]
+    ]
+}

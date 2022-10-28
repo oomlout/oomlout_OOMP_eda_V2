@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKCNUCPLUGU2"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Connector : USB_C_Plug_USB2.0"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Connector"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Connector-USB_C_Plug_USB2.0"
+    ],
+    "oompIndex": [
+        "USB_C_Plug_USB2.0"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.usb.org/sites/default/files/documents/usb_type-c.zip",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "",
+                "kicadSymbolReference": "P",
+                "kicadSymbolValue": "USB_C_Plug_USB2.0",
+                "kicadSymbolki_description": "USB 2.0-only Type-C Plug connector",
+                "kicadSymbolki_fp_filters": "USB*C*Plug*",
+                "kicadSymbolki_keywords": "usb universal serial bus type-C USB2.0"
+            }
+        ]
+    ]
+}

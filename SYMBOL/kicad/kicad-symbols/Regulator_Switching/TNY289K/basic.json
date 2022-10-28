@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKREGULATORSWITCHINGTNY289K"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Regulator_Switching : TNY289K"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Regulator_Switching"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Regulator_Switching-TNY289K"
+    ],
+    "oompIndex": [
+        "TNY289K"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://ac-dc.power.com/sites/default/files/product-docs/tinyswitch-4_family_datasheet.pdf",
+                "kicadSymbolExtends": "TNY284K",
+                "kicadSymbolFootprint": "Package_SO:PowerIntegrations_eSOP-12B",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "TNY289K",
+                "kicadSymbolki_description": "TinySwitch-4 Family, 25W Output Power, eSOP-12B",
+                "kicadSymbolki_fp_filters": "PowerIntegrations?eSOP?12B*",
+                "kicadSymbolki_keywords": "Energy-Efficient, Off-Line Switcher With Line Compensated Overload Power"
+            }
+        ]
+    ]
+}

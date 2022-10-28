@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKTIMERPLLADF4351"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Timer_PLL : ADF4351"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Timer_PLL"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Timer_PLL-ADF4351"
+    ],
+    "oompIndex": [
+        "ADF4351"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/ADF4351.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_CSP:LFCSP-32-1EP_5x5mm_P0.5mm_EP3.25x3.25mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "ADF4351",
+                "kicadSymbolki_description": "35-4400MHz fractional-N PLL, LFCSP-32",
+                "kicadSymbolki_fp_filters": "LFCSP*32*1EP*5x5mm*P0.5mm*EP3.25x3.25mm*",
+                "kicadSymbolki_keywords": "fractional-N PLL"
+            }
+        ]
+    ]
+}

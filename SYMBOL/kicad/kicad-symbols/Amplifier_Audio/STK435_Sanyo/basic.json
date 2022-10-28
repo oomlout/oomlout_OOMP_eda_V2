@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKAMPLIFIERAUDIOSTK435SANYO"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Amplifier_Audio : STK435_Sanyo"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Amplifier_Audio"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Amplifier_Audio-STK435_Sanyo"
+    ],
+    "oompIndex": [
+        "STK435_Sanyo"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://datasheet.octopart.com/STK430-Sanyo-datasheet-107060.pdf",
+                "kicadSymbolExtends": "STK433_Sanyo",
+                "kicadSymbolFootprint": "Package_SIP:Sanyo_STK4xx-15_59.2x8.0mm_P2.54mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "STK435_Sanyo",
+                "kicadSymbolki_description": "2-Channel 7 Wmin Audio Frequency Power Amplifier, 4010, SIP-15",
+                "kicadSymbolki_fp_filters": "Sanyo*59.2x8.0mm*P2.54mm*",
+                "kicadSymbolki_keywords": "audio amplifier 2ch"
+            }
+        ]
+    ]
+}

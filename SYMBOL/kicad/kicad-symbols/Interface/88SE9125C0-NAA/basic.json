@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKINTERFACE88SE9125CNAA"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Interface : 88SE9125C0-NAA"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Interface"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Interface-88SE9125C0-NAA"
+    ],
+    "oompIndex": [
+        "88SE9125C0-NAA"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.marvell.com/documents/bqcwxsoiqfjkcjdjhkvc/",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_DFN_QFN:QFN-76-1EP_9x9mm_P0.4mm_EP3.8x3.8mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "88SE9125C0-NAA",
+                "kicadSymbolki_description": "One-Lane PCIe SATA Two-Ports Controller, QFN-76",
+                "kicadSymbolki_fp_filters": "QFN*1EP*9x9mm*P0.4mm*",
+                "kicadSymbolki_keywords": "PCIe2.0 SATA3.0"
+            }
+        ]
+    ]
+}

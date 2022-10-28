@@ -1,0 +1,89 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "smd",
+            "description": "https://www.onsemi.com/pub/Collateral/511BN.PDF",
+            "name": "WDFN-8-1EP_2x2.2mm_P0.5mm_EP0.80x0.54",
+            "pins": {
+                "shape": "rect",
+                "type": "smd"
+            },
+            "tags": "WDFN-8 1EP 2.2X2.0 0.5P",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/WDFN-8_2.2x2mm_P0.5mm_1EP.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKDFNWDFN81EP2X22P5EP8X54"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Package_DFN_QFN : WDFN-8-1EP_2x2.2mm_P0.5mm_EP0.80x0.54"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Package_DFN_QFN"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/WDFN-8-1EP_2x2.2mm_P0.5mm_EP0.80x0.54/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/WDFN-8-1EP_2x2.2mm_P0.5mm_EP0.80x0.54/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/WDFN-8-1EP_2x2.2mm_P0.5mm_EP0.80x0.54/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/WDFN-8-1EP_2x2.2mm_P0.5mm_EP0.80x0.54/details.py"
+        ],
+        "imagePng": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/WDFN-8-1EP_2x2.2mm_P0.5mm_EP0.80x0.54/image.png"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/WDFN-8-1EP_2x2.2mm_P0.5mm_EP0.80x0.54/basic.json"
+        ],
+        "kicadPcb3d": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/WDFN-8-1EP_2x2.2mm_P0.5mm_EP0.80x0.54/kicadPcb3d.png"
+        ],
+        "kicadPcb3dBack": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/WDFN-8-1EP_2x2.2mm_P0.5mm_EP0.80x0.54/kicadPcb3dBack.png"
+        ],
+        "kicadPcb3dFront": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/WDFN-8-1EP_2x2.2mm_P0.5mm_EP0.80x0.54/kicadPcb3dFront.png"
+        ],
+        "readme": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/WDFN-8-1EP_2x2.2mm_P0.5mm_EP0.80x0.54/README.md"
+        ]
+    },
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-WDFN-8-1EP_2x2.2mm_P0.5mm_EP0.80x0.54"
+    ],
+    "oompIndex": [
+        "WDFN-8-1EP_2x2.2mm_P0.5mm_EP0.80x0.54"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

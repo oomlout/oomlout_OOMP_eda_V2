@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKREGULATORSWITCHINGLNK46LG"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Regulator_Switching : LNK406LG"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Regulator_Switching"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK406LG"
+    ],
+    "oompIndex": [
+        "LNK406LG"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.powerint.com/sites/default/files/product-docs/linkswitch-ph_family_datasheet.pdf",
+                "kicadSymbolExtends": "LNK403LG",
+                "kicadSymbolFootprint": "Package_SIP:PowerIntegrations_eSIP-7F",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "LNK406LG",
+                "kicadSymbolki_description": "LinkSwitch-PH Family, 22W Output Power, eSIP-7F",
+                "kicadSymbolki_fp_filters": "PowerIntegrations?eSIP?7F*",
+                "kicadSymbolki_keywords": "LED Driver IC with TRIAC Dimming, Single-Stage PFC and Primary-Side Constant Current Control"
+            }
+        ]
+    ]
+}

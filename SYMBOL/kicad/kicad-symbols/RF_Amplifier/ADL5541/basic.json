@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKRFAMPLIFIERADL5541"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "RF_Amplifier : ADL5541"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "RF_Amplifier"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-RF_Amplifier-ADL5541"
+    ],
+    "oompIndex": [
+        "ADL5541"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/ADL5541.pdf",
+                "kicadSymbolExtends": "ADL5542",
+                "kicadSymbolFootprint": "Package_CSP:Analog_LFCSP-8-1EP_3x3mm_P0.5mm_EP1.53x1.85mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "ADL5541",
+                "kicadSymbolki_description": "20-6000MHz RF/IF +15dB gain block, LFCSP-8",
+                "kicadSymbolki_fp_filters": "Analog*LFCSP*1EP*3x3mm*P0.5mm*EP1.53x1.85mm*",
+                "kicadSymbolki_keywords": "RF GAIN BLOCK"
+            }
+        ]
+    ]
+}

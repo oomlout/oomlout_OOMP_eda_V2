@@ -1,0 +1,81 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKTRANSISTORPOWERMOFP35R12W2T4P"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Transistor_Power_Module : FP35R12W2T4P"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Transistor_Power_Module"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_Power_Module/FP35R12W2T4P/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_Power_Module/FP35R12W2T4P/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_Power_Module/FP35R12W2T4P/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_Power_Module/FP35R12W2T4P/details.py"
+        ],
+        "imagePng": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_Power_Module/FP35R12W2T4P/image.png"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_Power_Module/FP35R12W2T4P/basic.json"
+        ],
+        "readme": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Transistor_Power_Module/FP35R12W2T4P/README.md"
+        ]
+    },
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Transistor_Power_Module-FP35R12W2T4P"
+    ],
+    "oompIndex": [
+        "FP35R12W2T4P"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.infineon.com/dgdl/Infineon-FP35R12W2T4P-DS-v03_00-EN.pdf?fileId=5546d4625bd71aa0015bfbbf0d7a71f8",
+                "kicadSymbolExtends": "A2C25S12M3",
+                "kicadSymbolFootprint": "Transistor_Power_Module:Infineon_EasyPIM-2B",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "FP35R12W2T4P",
+                "kicadSymbolki_description": "35A, 1200V, 215W, 3-phase, Freewheeling Diode, Brake Chopper, Diode Rectifier, 5k NTC, TIM, EasyPIM-2B",
+                "kicadSymbolki_fp_filters": "Infineon*EasyPIM*2B*",
+                "kicadSymbolki_keywords": "IGBT Power Module Trench Field Stop Technology"
+            }
+        ]
+    ]
+}

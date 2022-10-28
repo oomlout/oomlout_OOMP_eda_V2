@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKSENOPTICALTSL255T"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Sensor_Optical : TSL2550T"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Sensor_Optical"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Sensor_Optical-TSL2550T"
+    ],
+    "oompIndex": [
+        "TSL2550T"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://ams.com/eng/content/download/250130/975613/142977",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "OptoDevice:AMS_TSL2550_SMD",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "TSL2550T",
+                "kicadSymbolki_description": "Ambient Light Sensor with SMbus Interface, T-4 interface SMD",
+                "kicadSymbolki_fp_filters": "AMS*TSL2550*SMD*",
+                "kicadSymbolki_keywords": "opto ambient light sensor"
+            }
+        ]
+    ]
+}

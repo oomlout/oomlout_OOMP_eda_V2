@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKLASMBMTBA3A2"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "LED : ASMB-MTB0-0A3A2"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "LED"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-LED-ASMB-MTB0-0A3A2"
+    ],
+    "oompIndex": [
+        "ASMB-MTB0-0A3A2"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://docs.broadcom.com/docs/AV02-4186EN",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "LED_SMD:LED_Avago_PLCC4_3.2x2.8mm_CW",
+                "kicadSymbolReference": "D",
+                "kicadSymbolValue": "ASMB-MTB0-0A3A2",
+                "kicadSymbolki_description": "Tricolor Black Surface LED, Common Anode Pin 1, PLCC-4",
+                "kicadSymbolki_fp_filters": "*Avago*PLCC4*3.2x2.8mm*",
+                "kicadSymbolki_keywords": "led rgb diode"
+            }
+        ]
+    ]
+}

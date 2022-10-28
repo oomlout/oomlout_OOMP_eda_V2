@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKRFZIGBEEMWRWX"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "RF_ZigBee : MW-R-WX"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "RF_ZigBee"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-RF_ZigBee-MW-R-WX"
+    ],
+    "oompIndex": [
+        "MW-R-WX"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.mono-wireless.com/jp/products/TWE-LITE/MW-PDS-TWELITE-JP.pdf",
+                "kicadSymbolExtends": "TWE-L-WX",
+                "kicadSymbolFootprint": "RF_Module:MonoWireless_TWE-L-WX",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "MW-R-WX",
+                "kicadSymbolki_description": "NXP JN5164/JN5169 breakout module, SMD",
+                "kicadSymbolki_fp_filters": "MonoWireless?TWE*",
+                "kicadSymbolki_keywords": "TWELITE"
+            }
+        ]
+    ]
+}

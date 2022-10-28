@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKSENOPTICALKPS513"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Sensor_Optical : KPS-5130"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Sensor_Optical"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Sensor_Optical-KPS-5130"
+    ],
+    "oompIndex": [
+        "KPS-5130"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.kingbright.com/attachments/file/psearch/000/00/00/KPS-5130PD7C(Ver.16).pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "OptoDevice:Kingbright_KPS-5130",
+                "kicadSymbolReference": "D",
+                "kicadSymbolValue": "KPS-5130",
+                "kicadSymbolki_description": "RGB Colour Sensor, KPS-5130",
+                "kicadSymbolki_fp_filters": "Kingbright*KPS?5130*",
+                "kicadSymbolki_keywords": "opto photodiode RGB colour sensor"
+            }
+        ]
+    ]
+}

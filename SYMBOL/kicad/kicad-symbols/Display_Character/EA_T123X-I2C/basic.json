@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKDICHARACTEREAT123XI2C"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Display_Character : EA_T123X-I2C"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Display_Character"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Display_Character-EA_T123X-I2C"
+    ],
+    "oompIndex": [
+        "EA_T123X-I2C"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.lcd-module.de/pdf/doma/t123-i2c.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Display:EA_T123X-I2C",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "EA_T123X-I2C",
+                "kicadSymbolki_description": "3 Lines, 12 character alpha numeric LCD, transreflective STN and FSTN Gray, I2C, single or dual power",
+                "kicadSymbolki_fp_filters": "EA?T123X?I2C*",
+                "kicadSymbolki_keywords": "display LCD 7-segment"
+            }
+        ]
+    ]
+}

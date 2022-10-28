@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKRFMORFM69HW"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "RF_Module : RFM69HW"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "RF_Module"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-RF_Module-RFM69HW"
+    ],
+    "oompIndex": [
+        "RFM69HW"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.hoperf.com/data/upload/portal/20181127/5bfcbb56f1fd7.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "RF_Module:HOPERF_RFM69HW",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "RFM69HW",
+                "kicadSymbolki_description": "ISM Radio Transceiver Module, SPI interface",
+                "kicadSymbolki_fp_filters": "HOPERF*RFM69HW*",
+                "kicadSymbolki_keywords": "Radio, ISM, Transceiver, Module, AES"
+            }
+        ]
+    ]
+}

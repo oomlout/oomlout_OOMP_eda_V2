@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKLWS2822S"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "LED : WS2822S"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "LED"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-LED-WS2822S"
+    ],
+    "oompIndex": [
+        "WS2822S"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://akizukidenshi.com/download/ds/worldsemi/WS2822S.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "LED_SMD:LED_WS2812_PLCC6_5.0x5.0mm_P1.6mm",
+                "kicadSymbolReference": "D",
+                "kicadSymbolValue": "WS2822S",
+                "kicadSymbolki_description": "RGB LED with integrated controller",
+                "kicadSymbolki_fp_filters": "LED*WS2812*PLCC*5.0x5.0mm*P1.6mm*",
+                "kicadSymbolki_keywords": "RGB LED addressable"
+            }
+        ]
+    ]
+}

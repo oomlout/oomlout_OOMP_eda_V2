@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKSENOPTICALAS7262"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Sensor_Optical : AS7262"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Sensor_Optical"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Sensor_Optical-AS7262"
+    ],
+    "oompIndex": [
+        "AS7262"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://ams.com/eng/content/download/976551/2309439/498718",
+                "kicadSymbolExtends": "AS7261",
+                "kicadSymbolFootprint": "Package_LGA:AMS_LGA-20_4.7x4.5mm_P0.65mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "AS7262",
+                "kicadSymbolki_description": "Spectral Sensing Engine, 6-Channel Visible Spectral_ID",
+                "kicadSymbolki_fp_filters": "AMS?LGA*4.7x4.5mm*P0.65mm*",
+                "kicadSymbolki_keywords": "6-Channel Visible Spectral_ID Device Electronic Shutter Smart Interface i2c uart"
+            }
+        ]
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKTRANSISTORFETIRF6674"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Transistor_FET : IRF6674"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Transistor_FET"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF6674"
+    ],
+    "oompIndex": [
+        "IRF6674"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.infineon.com/dgdl/irf6674pbf.pdf?fileId=5546d462533600a4015355ec9f0d1a66",
+                "kicadSymbolExtends": "BSB165N15NZ3",
+                "kicadSymbolFootprint": "Package_DirectFET:DirectFET_MZ",
+                "kicadSymbolReference": "Q",
+                "kicadSymbolValue": "IRF6674",
+                "kicadSymbolki_description": "13.4A Id, 60V Vds, 11mOhm Rds, N-Channel MOSFET, DirectFET MZ",
+                "kicadSymbolki_fp_filters": "DirectFET*MZ*",
+                "kicadSymbolki_keywords": "N-Channel MOSFET"
+            }
+        ]
+    ]
+}

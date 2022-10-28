@@ -1,0 +1,57 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "smd",
+            "description": "Hirose  series connector, DF52-6S-0.8H (https://www.hirose.com/product/en/products/DF52/DF52-3S-0.8H%2821%29/), generated with kicad-footprint-generator",
+            "name": "Hirose_DF52-6S-0.8H_1x06-1MP_P0.80mm_Horizontal",
+            "pins": {
+                "shape": "roundrect",
+                "type": "smd"
+            },
+            "tags": "connector Hirose  top entry",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/Connector_Hirose.3dshapes/Hirose_DF52-6S-0.8H_1x06-1MP_P0.80mm_Horizontal.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKCNHIROSEHIROSEDF526S8H1X61MPP8HORIZONTAL"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Connector_Hirose : Hirose_DF52-6S-0.8H_1x06-1MP_P0.80mm_Horizontal"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Connector_Hirose"
+    ],
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Connector_Hirose-Hirose_DF52-6S-0.8H_1x06-1MP_P0.80mm_Horizontal"
+    ],
+    "oompIndex": [
+        "Hirose_DF52-6S-0.8H_1x06-1MP_P0.80mm_Horizontal"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

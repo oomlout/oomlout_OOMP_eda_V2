@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKREFERENCECURRENTLM234Z6"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Reference_Current : LM234Z-6"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Reference_Current"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Reference_Current-LM234Z-6"
+    ],
+    "oompIndex": [
+        "LM234Z-6"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.ti.com/lit/ds/symlink/lm134.pdf",
+                "kicadSymbolExtends": "LM334Z",
+                "kicadSymbolFootprint": "Package_TO_SOT_THT:TO-92_Inline",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "LM234Z-6",
+                "kicadSymbolki_description": "1\u03bcA to 10mA 3-Terminal Adjustable Current Source, TO-92",
+                "kicadSymbolki_fp_filters": "TO*92*Inline*",
+                "kicadSymbolki_keywords": "Adjustable Current Source 10mA"
+            }
+        ]
+    ]
+}

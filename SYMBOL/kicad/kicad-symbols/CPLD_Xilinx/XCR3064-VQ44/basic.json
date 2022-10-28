@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKCPLDXILINXXCR364VQ44"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "CPLD_Xilinx : XCR3064-VQ44"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "CPLD_Xilinx"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-CPLD_Xilinx-XCR3064-VQ44"
+    ],
+    "oompIndex": [
+        "XCR3064-VQ44"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.xilinx.com/support/documentation/data_sheets/ds017.pdf",
+                "kicadSymbolExtends": "XCR3064XL-VQ44",
+                "kicadSymbolFootprint": "Package_QFP:LQFP-44_10x10mm_P0.8mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "XCR3064-VQ44",
+                "kicadSymbolki_description": "Xilinx CoolRunner 64-Macrocell CPLD, 3.3V, VQFP-44, Obsolete",
+                "kicadSymbolki_fp_filters": "LQFP*10x10mm*P0.8mm*",
+                "kicadSymbolki_keywords": "CPLD"
+            }
+        ]
+    ]
+}

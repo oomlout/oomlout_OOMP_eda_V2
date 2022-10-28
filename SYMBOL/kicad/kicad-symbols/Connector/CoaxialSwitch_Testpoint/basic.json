@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKCNCOAXIALSWITCHTP"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Connector : CoaxialSwitch_Testpoint"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Connector"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Connector-CoaxialSwitch_Testpoint"
+    ],
+    "oompIndex": [
+        "CoaxialSwitch_Testpoint"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "~",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "",
+                "kicadSymbolReference": "TP",
+                "kicadSymbolValue": "CoaxialSwitch_Testpoint",
+                "kicadSymbolki_description": "Subminiature Coaxial Switch testpoint",
+                "kicadSymbolki_fp_filters": "CoaxialSwitch*",
+                "kicadSymbolki_keywords": " Coaxial Switch RF testpoint"
+            }
+        ]
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKTRANSISTORFETIRF7483M"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Transistor_FET : IRF7483M"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Transistor_FET"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Transistor_FET-IRF7483M"
+    ],
+    "oompIndex": [
+        "IRF7483M"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.infineon.com/dgdl/irf7483mpbf.pdf?fileId=5546d462533600a4015355ff98011c32",
+                "kicadSymbolExtends": "IRF40DM229",
+                "kicadSymbolFootprint": "Package_DirectFET:DirectFET_MF",
+                "kicadSymbolReference": "Q",
+                "kicadSymbolValue": "IRF7483M",
+                "kicadSymbolki_description": "135A Id, 40V Vds, 2.3mOhm Rds, N-Channel MOSFET, DirectFET MF",
+                "kicadSymbolki_fp_filters": "DirectFET*MF*",
+                "kicadSymbolki_keywords": "N-Channel MOSFET"
+            }
+        ]
+    ]
+}

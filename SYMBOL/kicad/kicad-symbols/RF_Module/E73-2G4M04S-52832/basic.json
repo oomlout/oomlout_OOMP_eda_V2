@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKRFMOE732G4M4S52832"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "RF_Module : E73-2G4M04S-52832"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "RF_Module"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-RF_Module-E73-2G4M04S-52832"
+    ],
+    "oompIndex": [
+        "E73-2G4M04S-52832"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.cdebyte.com/en/downpdf.aspx?id=243",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "RF_Module:E73-2G4M04S",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "E73-2G4M04S-52832",
+                "kicadSymbolki_description": "nRF52832 BLE5 Module",
+                "kicadSymbolki_fp_filters": "E73*2G4M04S*",
+                "kicadSymbolki_keywords": "BLE5, BLE, nRF52832"
+            }
+        ]
+    ]
+}

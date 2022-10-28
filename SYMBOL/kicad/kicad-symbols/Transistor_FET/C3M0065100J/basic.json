@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKTRANSISTORFETC3M651J"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Transistor_FET : C3M0065100J"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Transistor_FET"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Transistor_FET-C3M0065100J"
+    ],
+    "oompIndex": [
+        "C3M0065100J"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.wolfspeed.com/media/downloads/958/C3M0065100J.pdf",
+                "kicadSymbolExtends": "C3M0065090J",
+                "kicadSymbolFootprint": "Package_TO_SOT_SMD:TO-263-7_TabPin8",
+                "kicadSymbolReference": "Q",
+                "kicadSymbolValue": "C3M0065100J",
+                "kicadSymbolki_description": "35A Id, 1000V Vds, 65mOhm, N-Channel SiC MOSFET, TO-263-7",
+                "kicadSymbolki_fp_filters": "TO?263*TabPin8*",
+                "kicadSymbolki_keywords": "N-Channel SiC MOSFET"
+            }
+        ]
+    ]
+}

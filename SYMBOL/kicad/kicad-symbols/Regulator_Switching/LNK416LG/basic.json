@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKREGULATORSWITCHINGLNK416LG"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Regulator_Switching : LNK416LG"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Regulator_Switching"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Regulator_Switching-LNK416LG"
+    ],
+    "oompIndex": [
+        "LNK416LG"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.powerint.com/sites/default/files/product-docs/linkswitch-ph_family_datasheet.pdf",
+                "kicadSymbolExtends": "LNK403LG",
+                "kicadSymbolFootprint": "Package_SIP:PowerIntegrations_eSIP-7F",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "LNK416LG",
+                "kicadSymbolki_description": "LinkSwitch-PH Family, 22W Output Power, eSIP-7F",
+                "kicadSymbolki_fp_filters": "PowerIntegrations?eSIP?7F*",
+                "kicadSymbolki_keywords": "LED Driver IC, Single-Stage PFC and Primary-Side Constant Current Control"
+            }
+        ]
+    ]
+}

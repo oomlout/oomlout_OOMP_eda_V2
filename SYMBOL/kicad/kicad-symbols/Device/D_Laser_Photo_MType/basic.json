@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKDEVICEDLASERPHOTOMTYPE"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Device : D_Laser_Photo_MType"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Device"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Device-D_Laser_Photo_MType"
+    ],
+    "oompIndex": [
+        "D_Laser_Photo_MType"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.egismos.disonhu.com/laser/diode-package.htm",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "",
+                "kicadSymbolReference": "LD",
+                "kicadSymbolValue": "D_Laser_Photo_MType",
+                "kicadSymbolki_description": "Laser diode with photodiode, common cathode on pin 2",
+                "kicadSymbolki_fp_filters": "*LaserDiode*",
+                "kicadSymbolki_keywords": "opto laserdiode photodiode"
+            }
+        ]
+    ]
+}

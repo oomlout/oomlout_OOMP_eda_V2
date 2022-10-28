@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKINTERFACEHDMIADV7611"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Interface_HDMI : ADV7611"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Interface_HDMI"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Interface_HDMI-ADV7611"
+    ],
+    "oompIndex": [
+        "ADV7611"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/adv7611.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_QFP:LQFP-64-1EP_10x10mm_P0.5mm_EP5x5mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "ADV7611",
+                "kicadSymbolki_description": "Low Power 165MHz HDMI Receiver, LQFP-64",
+                "kicadSymbolki_fp_filters": "LQFP*1EP*10x10mm*P0.5mm*",
+                "kicadSymbolki_keywords": "hdmi"
+            }
+        ]
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": null,
+            "description": "Gauge, Massstab, 10mm, SilkScreenTop, Type 3,",
+            "name": "Gauge_10mm_Type3_SilkScreenTop",
+            "pins": {},
+            "tags": "Gauge Massstab 10mm SilkScreenTop Type 3"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKCSGAUGE1TYPE3SILKSCREENTOP"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Calibration_Scale : Gauge_10mm_Type3_SilkScreenTop"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Calibration_Scale"
+    ],
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Calibration_Scale-Gauge_10mm_Type3_SilkScreenTop"
+    ],
+    "oompIndex": [
+        "Gauge_10mm_Type3_SilkScreenTop"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

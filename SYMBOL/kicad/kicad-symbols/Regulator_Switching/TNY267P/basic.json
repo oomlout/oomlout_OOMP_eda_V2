@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKREGULATORSWITCHINGTNY267P"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Regulator_Switching : TNY267P"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Regulator_Switching"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Regulator_Switching-TNY267P"
+    ],
+    "oompIndex": [
+        "TNY267P"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.powerint.com/sites/default/files/product-docs/tny263_268.pdf",
+                "kicadSymbolExtends": "TNY263P",
+                "kicadSymbolFootprint": "Package_DIP:PowerIntegrations_PDIP-8B",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "TNY267P",
+                "kicadSymbolki_description": "TinySwitch-II Family, 12W Output Power, DIP-8B",
+                "kicadSymbolki_fp_filters": "PowerIntegrations?PDIP?8B*",
+                "kicadSymbolki_keywords": "Enhanced, Energy Efficient, Low Power Off-line Switcher"
+            }
+        ]
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "smd",
+            "description": "https://www.johansontechnology.com/datasheets/0896BM15A0001/0896BM15A0001.pdf",
+            "name": "Balun_Johanson_0896BM15A0001",
+            "pins": {
+                "shape": "rect",
+                "type": "smd"
+            },
+            "tags": "balun RF",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/RF_Converter.3dshapes/Balun_Johanson_0896BM15A0001.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKRFBALUNJOHANSON896BM15A1"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "RF_Converter : Balun_Johanson_0896BM15A0001"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "RF_Converter"
+    ],
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-RF_Converter-Balun_Johanson_0896BM15A0001"
+    ],
+    "oompIndex": [
+        "Balun_Johanson_0896BM15A0001"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

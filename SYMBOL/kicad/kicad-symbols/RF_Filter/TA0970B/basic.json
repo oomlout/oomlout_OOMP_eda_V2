@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKRFFILTA97B"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "RF_Filter : TA0970B"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "RF_Filter"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-RF_Filter-TA0970B"
+    ],
+    "oompIndex": [
+        "TA0970B"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.golledge.com/media/3785/mp08167.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Filter:Filter_SAW-6_3.8x3.8mm",
+                "kicadSymbolReference": "X",
+                "kicadSymbolValue": "TA0970B",
+                "kicadSymbolki_description": "Bandpass Filter, 1090MHz, SAW filter 6-pin",
+                "kicadSymbolki_fp_filters": "Filter*SAW*3.8x3.8mm*",
+                "kicadSymbolki_keywords": "SAW Filter 1090 bandpass MP08167"
+            }
+        ]
+    ]
+}

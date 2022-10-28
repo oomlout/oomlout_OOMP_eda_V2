@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKANALOGMLX932XFR"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Analog : MLX90320xFR"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Analog"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Analog-MLX90320xFR"
+    ],
+    "oompIndex": [
+        "MLX90320xFR"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.melexis.com/-/media/files/documents/datasheets/mlx90320-datasheet-melexis.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_SO:SSOP-14_5.3x6.2mm_P0.65mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "MLX90320xFR",
+                "kicadSymbolki_description": "Programmable Automotive Sensor Interface (Signal Conditioner), SSOP-14",
+                "kicadSymbolki_fp_filters": "SSOP*5.3x6.2mm*P0.65mm*",
+                "kicadSymbolki_keywords": "sensor signal conditioning"
+            }
+        ]
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKINTERFACEUARTISO15"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Interface_UART : ISO1500"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Interface_UART"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Interface_UART-ISO1500"
+    ],
+    "oompIndex": [
+        "ISO1500"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.ti.com/lit/ds/symlink/iso1500.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_SO:SSOP-16_3.9x4.9mm_P0.635mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "ISO1500",
+                "kicadSymbolki_description": "Half duplex RS-485/RS-422 transceiver, 3-kVRMS Isolated, SSOP-16",
+                "kicadSymbolki_fp_filters": "SSOP*3.9x4.9mm*P0.635mm*",
+                "kicadSymbolki_keywords": "RS-485 RS422 transceiver isolated"
+            }
+        ]
+    ]
+}

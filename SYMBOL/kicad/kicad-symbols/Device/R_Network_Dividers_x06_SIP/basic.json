@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKDEVICERNETWORKDIVIDERSX6SIP"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Device : R_Network_Dividers_x06_SIP"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Device"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Device-R_Network_Dividers_x06_SIP"
+    ],
+    "oompIndex": [
+        "R_Network_Dividers_x06_SIP"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.vishay.com/docs/31509/csc.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Resistor_THT:R_Array_SIP8",
+                "kicadSymbolReference": "RN",
+                "kicadSymbolValue": "R_Network_Dividers_x06_SIP",
+                "kicadSymbolki_description": "6 voltage divider network, dual terminator, SIP package",
+                "kicadSymbolki_fp_filters": "R?Array?SIP*",
+                "kicadSymbolki_keywords": "R network divider topology"
+            }
+        ]
+    ]
+}

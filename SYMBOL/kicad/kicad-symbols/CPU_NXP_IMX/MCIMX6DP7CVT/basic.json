@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKCPUNXPIMXMCIMX6DP7CVT"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "CPU_NXP_IMX : MCIMX6DP7CVT"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "CPU_NXP_IMX"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-CPU_NXP_IMX-MCIMX6DP7CVT"
+    ],
+    "oompIndex": [
+        "MCIMX6DP7CVT"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.nxp.com/docs/en/data-sheet/IMX6DQPIEC.pdf",
+                "kicadSymbolExtends": "MCIMX6QP7CVT",
+                "kicadSymbolFootprint": "Package_BGA:BGA-624_21.0x21.0mm_Layout25x25_P0.8mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "MCIMX6DP7CVT",
+                "kicadSymbolki_description": "i.MX 6DualPlus Application Processor for Industrial Products, BGA-624",
+                "kicadSymbolki_fp_filters": "BGA*21.0x21.0mm*P0.8mm*",
+                "kicadSymbolki_keywords": "Dual-Core ARM Cortex A9 SOC Industrial"
+            }
+        ]
+    ]
+}

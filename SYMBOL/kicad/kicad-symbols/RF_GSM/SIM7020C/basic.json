@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKGSMSIM72C"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "RF_GSM : SIM7020C"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "RF_GSM"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-RF_GSM-SIM7020C"
+    ],
+    "oompIndex": [
+        "SIM7020C"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://simcom.ee/documents/SIM7020/SIM7020%20Hardware%20Design_V1.02.pdf",
+                "kicadSymbolExtends": "SIM7020E",
+                "kicadSymbolFootprint": "RF_GSM:SIMCom_SIM800C",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "SIM7020C",
+                "kicadSymbolki_description": "NB-IoT B1/B3/B5/B8, AT Command Set",
+                "kicadSymbolki_fp_filters": "SIMCom*SIM800C*",
+                "kicadSymbolki_keywords": "NB-IoT Data SMS"
+            }
+        ]
+    ]
+}

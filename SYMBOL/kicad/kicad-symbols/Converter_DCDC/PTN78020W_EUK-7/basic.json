@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKCONPTN782WEUK7"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Converter_DCDC : PTN78020W_EUK-7"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Converter_DCDC"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Converter_DCDC-PTN78020W_EUK-7"
+    ],
+    "oompIndex": [
+        "PTN78020W_EUK-7"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.ti.com/lit/ds/symlink/ptn78020w.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Module:Texas_EUK_R-PDSS-T7_THT",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "PTN78020W_EUK-7",
+                "kicadSymbolki_description": "6A non-isolated switching regulator power module, 7-36V input voltage, 2.5-12.6V output voltage, EUK-7",
+                "kicadSymbolki_fp_filters": "Texas*EUK*R?PDSS?T7*",
+                "kicadSymbolki_keywords": "texas dc-dc converter step down buck"
+            }
+        ]
+    ]
+}

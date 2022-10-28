@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKDRIVERHAPTICDRV265LDGS"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Driver_Haptic : DRV2605LDGS"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Driver_Haptic"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Driver_Haptic-DRV2605LDGS"
+    ],
+    "oompIndex": [
+        "DRV2605LDGS"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.ti.com/lit/ds/symlink/drv2605l.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_SO:VSSOP-10_3x3mm_P0.5mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "DRV2605LDGS",
+                "kicadSymbolki_description": "Haptic driver for LRAs and ERMs with effect library, 2-5.2V, VSSOP-10",
+                "kicadSymbolki_fp_filters": "VSSOP*3x3mm*P0.5mm*",
+                "kicadSymbolki_keywords": "haptic driver i2c"
+            }
+        ]
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKPOWERMANAGEMENTIPS631PBF"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Power_Management : IPS6031PBF"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Power_Management"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Power_Management-IPS6031PBF"
+    ],
+    "oompIndex": [
+        "IPS6031PBF"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.irf.com/product-info/datasheets/data/ips6031pbf.pdf",
+                "kicadSymbolExtends": "IPS6011PBF",
+                "kicadSymbolFootprint": "Package_TO_SOT_THT:TO-220-5_Vertical",
+                "kicadSymbolReference": "Q",
+                "kicadSymbolValue": "IPS6031PBF",
+                "kicadSymbolki_description": "39V, 16A, Intelligent Power Switch High Side, TO-220-5",
+                "kicadSymbolki_fp_filters": "TO?220*",
+                "kicadSymbolki_keywords": "Intelligent Power Switch High Side MOSFET"
+            }
+        ]
+    ]
+}

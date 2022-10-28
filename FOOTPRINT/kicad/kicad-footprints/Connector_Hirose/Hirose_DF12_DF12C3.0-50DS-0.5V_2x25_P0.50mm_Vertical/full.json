@@ -1,0 +1,89 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "smd",
+            "description": "Hirose DF12C SMD, DF12C3.0-50DS-0.5V, 50 Pins per row (https://www.hirose.com/product/document?clcode=CL0537-0694-9-81&productname=DF12C(3.0)-50DS-0.5V(81)&series=DF12&documenttype=2DDrawing&lang=en&documentid=0000994748), generated with kicad-footprint-generator",
+            "name": "Hirose_DF12_DF12C3.0-50DS-0.5V_2x25_P0.50mm_Vertical",
+            "pins": {
+                "shape": "rect",
+                "type": "smd"
+            },
+            "tags": "connector Hirose DF12 vertical",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/Connector_Hirose.3dshapes/Hirose_DF12_DF12C3.0-50DS-0.5V_2x25_P0.50mm_Vertical.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKCNHIROSEHIROSEDF12DF12C35DS5V2X25P5VERTICAL"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Connector_Hirose : Hirose_DF12_DF12C3.0-50DS-0.5V_2x25_P0.50mm_Vertical"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Connector_Hirose"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Hirose/Hirose_DF12_DF12C3.0-50DS-0.5V_2x25_P0.50mm_Vertical/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Hirose/Hirose_DF12_DF12C3.0-50DS-0.5V_2x25_P0.50mm_Vertical/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Hirose/Hirose_DF12_DF12C3.0-50DS-0.5V_2x25_P0.50mm_Vertical/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Hirose/Hirose_DF12_DF12C3.0-50DS-0.5V_2x25_P0.50mm_Vertical/details.py"
+        ],
+        "imagePng": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Hirose/Hirose_DF12_DF12C3.0-50DS-0.5V_2x25_P0.50mm_Vertical/image.png"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Hirose/Hirose_DF12_DF12C3.0-50DS-0.5V_2x25_P0.50mm_Vertical/basic.json"
+        ],
+        "kicadPcb3d": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Hirose/Hirose_DF12_DF12C3.0-50DS-0.5V_2x25_P0.50mm_Vertical/kicadPcb3d.png"
+        ],
+        "kicadPcb3dBack": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Hirose/Hirose_DF12_DF12C3.0-50DS-0.5V_2x25_P0.50mm_Vertical/kicadPcb3dBack.png"
+        ],
+        "kicadPcb3dFront": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Hirose/Hirose_DF12_DF12C3.0-50DS-0.5V_2x25_P0.50mm_Vertical/kicadPcb3dFront.png"
+        ],
+        "readme": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Hirose/Hirose_DF12_DF12C3.0-50DS-0.5V_2x25_P0.50mm_Vertical/README.md"
+        ]
+    },
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Connector_Hirose-Hirose_DF12_DF12C3.0-50DS-0.5V_2x25_P0.50mm_Vertical"
+    ],
+    "oompIndex": [
+        "Hirose_DF12_DF12C3.0-50DS-0.5V_2x25_P0.50mm_Vertical"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

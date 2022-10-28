@@ -1,0 +1,89 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "through_hole",
+            "description": "Generic Phoenix Contact connector footprint for: GMSTBV_2,5/10-GF-7,62; number of pins: 10; pin pitch: 7.62mm; Vertical; threaded flange || order number: 1829235 12A 630V",
+            "name": "PhoenixContact_GMSTBV_2,5_10-GF-7,62_1x10_P7.62mm_Vertical_ThreadedFlange",
+            "pins": {
+                "shape": "roundrect",
+                "type": "thru_hole"
+            },
+            "tags": "phoenix_contact connector GMSTBV_01x10_GF_7.62mm",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/Connector_Phoenix_GMSTB.3dshapes/PhoenixContact_GMSTBV_2,5_10-GF-7,62_1x10_P7.62mm_Vertical_ThreadedFlange.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKCNPHOENIXGMSTBPHOENIXCONTACTGMSTBV251GF7621X1P762VERTICALTHREADEDFLANGE"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Connector_Phoenix_GMSTB : PhoenixContact_GMSTBV_2,5_10-GF-7,62_1x10_P7.62mm_Vertical_ThreadedFlange"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Connector_Phoenix_GMSTB"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_GMSTB/PhoenixContact_GMSTBV_2,5_10-GF-7,62_1x10_P7.62mm_Vertical_ThreadedFlange/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_GMSTB/PhoenixContact_GMSTBV_2,5_10-GF-7,62_1x10_P7.62mm_Vertical_ThreadedFlange/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_GMSTB/PhoenixContact_GMSTBV_2,5_10-GF-7,62_1x10_P7.62mm_Vertical_ThreadedFlange/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_GMSTB/PhoenixContact_GMSTBV_2,5_10-GF-7,62_1x10_P7.62mm_Vertical_ThreadedFlange/details.py"
+        ],
+        "imagePng": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_GMSTB/PhoenixContact_GMSTBV_2,5_10-GF-7,62_1x10_P7.62mm_Vertical_ThreadedFlange/image.png"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_GMSTB/PhoenixContact_GMSTBV_2,5_10-GF-7,62_1x10_P7.62mm_Vertical_ThreadedFlange/basic.json"
+        ],
+        "kicadPcb3d": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_GMSTB/PhoenixContact_GMSTBV_2,5_10-GF-7,62_1x10_P7.62mm_Vertical_ThreadedFlange/kicadPcb3d.png"
+        ],
+        "kicadPcb3dBack": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_GMSTB/PhoenixContact_GMSTBV_2,5_10-GF-7,62_1x10_P7.62mm_Vertical_ThreadedFlange/kicadPcb3dBack.png"
+        ],
+        "kicadPcb3dFront": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_GMSTB/PhoenixContact_GMSTBV_2,5_10-GF-7,62_1x10_P7.62mm_Vertical_ThreadedFlange/kicadPcb3dFront.png"
+        ],
+        "readme": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_GMSTB/PhoenixContact_GMSTBV_2,5_10-GF-7,62_1x10_P7.62mm_Vertical_ThreadedFlange/README.md"
+        ]
+    },
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Connector_Phoenix_GMSTB-PhoenixContact_GMSTBV_2,5_10-GF-7,62_1x10_P7.62mm_Vertical_ThreadedFlange"
+    ],
+    "oompIndex": [
+        "PhoenixContact_GMSTBV_2,5_10-GF-7,62_1x10_P7.62mm_Vertical_ThreadedFlange"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

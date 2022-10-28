@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKSENADPS996"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Sensor : ADPS-9960"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Sensor"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Sensor-ADPS-9960"
+    ],
+    "oompIndex": [
+        "ADPS-9960"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://docs.broadcom.com/doc/AV02-4191EN",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Sensor:Avago_ADPS-9960",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "ADPS-9960",
+                "kicadSymbolki_description": "Digital Proximity, Ambient Light, RGB and Gesture Sensor",
+                "kicadSymbolki_fp_filters": "Avago?ADPS?9960*",
+                "kicadSymbolki_keywords": "sensor gesture light rgb"
+            }
+        ]
+    ]
+}

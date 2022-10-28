@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKMEMORYRAMIS64C5128AL12KLA3"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Memory_RAM : IS64C5128AL-12KLA3"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Memory_RAM"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Memory_RAM-IS64C5128AL-12KLA3"
+    ],
+    "oompIndex": [
+        "IS64C5128AL-12KLA3"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.issi.com/WW/pdf/61-64C5128AL.pdf",
+                "kicadSymbolExtends": "IS61C5128AL-10KLI",
+                "kicadSymbolFootprint": "Package_SO:SOJ-36_10.16x23.49mm_P1.27mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "IS64C5128AL-12KLA3",
+                "kicadSymbolki_description": "512K x 8 HIGH-SPEED CMOS STATIC RAM, 12ns, SOJ-36",
+                "kicadSymbolki_fp_filters": "SOJ*10.16x23.49mm*P1.27mm*",
+                "kicadSymbolki_keywords": "SRAM MEMORY"
+            }
+        ]
+    ]
+}

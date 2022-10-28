@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKMCUNORDICNRF5281QFXX"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "MCU_Nordic : nRF52810-QFxx"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "MCU_Nordic"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-MCU_Nordic-nRF52810-QFxx"
+    ],
+    "oompIndex": [
+        "nRF52810-QFxx"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://infocenter.nordicsemi.com/pdf/nRF52810_PS_v1.1.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_DFN_QFN:QFN-48-1EP_6x6mm_P0.4mm_EP4.6x4.6mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "nRF52810-QFxx",
+                "kicadSymbolki_description": "Multiprotocol BLE/2.4GHz Cortex-M4 SoC, QFN-48",
+                "kicadSymbolki_fp_filters": "QFN*1EP*6x6mm*P0.4mm*",
+                "kicadSymbolki_keywords": "MCU, ARM, BLE, 2.4GHz"
+            }
+        ]
+    ]
+}

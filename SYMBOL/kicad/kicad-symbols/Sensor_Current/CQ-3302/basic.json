@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKSENCURRENTCQ332"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Sensor_Current : CQ-3302"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Sensor_Current"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Sensor_Current-CQ-3302"
+    ],
+    "oompIndex": [
+        "CQ-3302"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.akm.com/akm/en/file/datasheet/CQ-3302.pdf",
+                "kicadSymbolExtends": "CQ-3200",
+                "kicadSymbolFootprint": "Sensor_Current:AKM_CQ_VSOP-24_5.6x7.9mm_P0.65mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "CQ-3302",
+                "kicadSymbolki_description": "High-Speed Response Coreless Current Sensor, Bidirectional, -21.0A to +21.0A, 100mV/A, VSOP-24",
+                "kicadSymbolki_fp_filters": "AKM*CQ*VSOP*5.6x7.9mm*P0.65mm*",
+                "kicadSymbolki_keywords": "hall effect current sensor"
+            }
+        ]
+    ]
+}

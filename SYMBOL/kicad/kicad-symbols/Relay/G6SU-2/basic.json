@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKRELAYG6SU2"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Relay : G6SU-2"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Relay"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Relay-G6SU-2"
+    ],
+    "oompIndex": [
+        "G6SU-2"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://omronfs.omron.com/en_US/ecb/products/pdf/en-g6s.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "",
+                "kicadSymbolReference": "K",
+                "kicadSymbolValue": "G6SU-2",
+                "kicadSymbolki_description": "Compact, Industry-Standard 2-pole relay, designed to switch 2A Signal Loads, Single-winding Latching",
+                "kicadSymbolki_fp_filters": "Relay*DPDT*Omron*G6S?2*",
+                "kicadSymbolki_keywords": "Miniature Relay Dual Pole DPDT Omron"
+            }
+        ]
+    ]
+}

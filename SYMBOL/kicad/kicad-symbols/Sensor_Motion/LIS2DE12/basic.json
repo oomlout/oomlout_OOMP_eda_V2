@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKSENMOTIONLIS2DE12"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Sensor_Motion : LIS2DE12"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Sensor_Motion"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Sensor_Motion-LIS2DE12"
+    ],
+    "oompIndex": [
+        "LIS2DE12"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.st.com/resource/en/datasheet/lis2DE12.pdf",
+                "kicadSymbolExtends": "LIS2HH12",
+                "kicadSymbolFootprint": "Package_LGA:LGA-12_2x2mm_P0.5mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "LIS2DE12",
+                "kicadSymbolki_description": "3-Axis Accelerometer, 2/4/8/16g range, I2C/SPI interface",
+                "kicadSymbolki_fp_filters": "LGA*2x2mm*P0.5mm*",
+                "kicadSymbolki_keywords": "3-axis accelerometer spi mems"
+            }
+        ]
+    ]
+}

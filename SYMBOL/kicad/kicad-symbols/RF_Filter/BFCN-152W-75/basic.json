@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKRFFILBFCN152W75"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "RF_Filter : BFCN-152W-75"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "RF_Filter"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-RF_Filter-BFCN-152W-75"
+    ],
+    "oompIndex": [
+        "BFCN-152W-75"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.minicircuits.com/pdfs/BFCN-1445+.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Filter:Filter_Mini-Circuits_FV1206-7",
+                "kicadSymbolReference": "FL",
+                "kicadSymbolValue": "BFCN-152W-75",
+                "kicadSymbolki_description": "950-1970MHz 75 Ohm Passive Band Pass Filter, FV1206-7",
+                "kicadSymbolki_fp_filters": "Filter*Mini?Circuits*FV1206?7*",
+                "kicadSymbolki_keywords": "Mini-Circuits band pass filter"
+            }
+        ]
+    ]
+}

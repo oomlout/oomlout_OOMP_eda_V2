@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKISOLATORPC3H4"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Isolator : PC3H4"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Isolator"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Isolator-PC3H4"
+    ],
+    "oompIndex": [
+        "PC3H4"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.sharpsme.com/download/pc3h4-epdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_DIP:SMDIP-4_W7.62mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "PC3H4",
+                "kicadSymbolki_description": "AC/DC Optocoupler, Vce 70V, CTR 100-250%, SOP4",
+                "kicadSymbolki_fp_filters": "SMDIP*W7.62mm*",
+                "kicadSymbolki_keywords": "NPN AC DC Optocoupler"
+            }
+        ]
+    ]
+}

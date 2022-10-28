@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKRFMOTR52DAT"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "RF_Module : TR-52DAT"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "RF_Module"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-RF_Module-TR-52DAT"
+    ],
+    "oompIndex": [
+        "TR-52DAT"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://iqrf.org/weben/downloads.php?id=213",
+                "kicadSymbolExtends": "TR-52DA",
+                "kicadSymbolFootprint": "RF_Module:IQRF_TRx2DA_KON-SIM-01",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "TR-52DAT",
+                "kicadSymbolki_description": "IQRF common transceiver with PCB antenna and thermometer, FSK modulation",
+                "kicadSymbolki_fp_filters": "IQRF?TRx2DA?KON?SIM?01*",
+                "kicadSymbolki_keywords": "IQRF common transceiver, PCB antenna, thermometer, FSK modulation"
+            }
+        ]
+    ]
+}

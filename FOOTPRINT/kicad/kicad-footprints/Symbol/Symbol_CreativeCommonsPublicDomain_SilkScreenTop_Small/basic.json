@@ -1,0 +1,53 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": null,
+            "description": "Symbol, Creative Commons Public Domain, SilkScreenTop, Small,",
+            "name": "Symbol_CreativeCommonsPublicDomain_SilkScreenTop_Small",
+            "pins": {},
+            "tags": "Symbol, Creative Commons Public Domain, SilkScreen Top, Small,"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKSZSYCREATIVECOONSPUBLICDOMAINSILKSCREENTOPSLL"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Symbol : Symbol_CreativeCommonsPublicDomain_SilkScreenTop_Small"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Symbol"
+    ],
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Symbol-Symbol_CreativeCommonsPublicDomain_SilkScreenTop_Small"
+    ],
+    "oompIndex": [
+        "Symbol_CreativeCommonsPublicDomain_SilkScreenTop_Small"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

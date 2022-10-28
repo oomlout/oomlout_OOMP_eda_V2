@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKSENTOUCHCY8CMBR318"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Sensor_Touch : CY8CMBR3108"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Sensor_Touch"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Sensor_Touch-CY8CMBR3108"
+    ],
+    "oompIndex": [
+        "CY8CMBR3108"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.cypress.com/?docID=49119",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_DFN_QFN:QFN-16-1EP_3x3mm_P0.5mm_EP1.8x1.8mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "CY8CMBR3108",
+                "kicadSymbolki_description": "CapSense Controller, 8 Sensors, QFN-16+EP",
+                "kicadSymbolki_fp_filters": "QFN*1EP*3x3mm*P0.5mm*",
+                "kicadSymbolki_keywords": "Touch Sensor 8ch"
+            }
+        ]
+    ]
+}

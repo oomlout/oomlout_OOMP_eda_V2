@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKDIODEIDDD6G65C6"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Diode : IDDD06G65C6"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Diode"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Diode-IDDD06G65C6"
+    ],
+    "oompIndex": [
+        "IDDD06G65C6"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.infineon.com/dgdl/Infineon-IDDD06G65C6-DS-v02_00-EN.pdf?fileId=5546d462625a528f01628f86ff8c0e09",
+                "kicadSymbolExtends": "IDDD04G65C6",
+                "kicadSymbolFootprint": "Package_TO_SOT_SMD:Infineon_PG-HDSOP-10-1",
+                "kicadSymbolReference": "D",
+                "kicadSymbolValue": "IDDD06G65C6",
+                "kicadSymbolki_description": "650V, 6A, SiC Schottky Diode, CoolSiC, PG-HDSOP-10-1 (DDPAK)",
+                "kicadSymbolki_fp_filters": "Infineon*PG*HDSOP*",
+                "kicadSymbolki_keywords": "sic diode"
+            }
+        ]
+    ]
+}

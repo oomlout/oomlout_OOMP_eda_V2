@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKDICHARACTERMAN364A"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Display_Character : MAN3640A"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Display_Character"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Display_Character-MAN3640A"
+    ],
+    "oompIndex": [
+        "MAN3640A"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.digchip.com/datasheets/parts/datasheet/161/MAN3640A-pdf.php",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Display_7Segment:MAN3610A",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "MAN3640A",
+                "kicadSymbolki_description": "Single digit 7 segment orange LED common anode right hand decimal",
+                "kicadSymbolki_fp_filters": "MAN3610A*",
+                "kicadSymbolki_keywords": "display LED 7-segment"
+            }
+        ]
+    ]
+}

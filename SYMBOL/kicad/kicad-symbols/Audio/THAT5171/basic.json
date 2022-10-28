@@ -1,0 +1,59 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKAUDIOTHAT5171"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Audio : THAT5171"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Audio"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Audio-THAT5171"
+    ],
+    "oompIndex": [
+        "THAT5171"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.thatcorp.com/datashts/THAT_5171_Datasheet.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_DFN_QFN:QFN-32-1EP_7x7mm_P0.65mm_EP5.4x5.4mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "THAT5171",
+                "kicadSymbolki_description": "High-Performance Digital Preamplifier Controller IC, QFN-32",
+                "kicadSymbolki_fp_filters": "QFN*1EP*7x7mm*P0.65mm*",
+                "kicadSymbolki_keywords": "mic preamp gain controller",
+                "kicadSymbolki_locked": ""
+            }
+        ]
+    ]
+}

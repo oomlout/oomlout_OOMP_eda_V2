@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKREGULATORLINEARMIC5356JGYE"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Regulator_Linear : MIC5356-JGYMME"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Regulator_Linear"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Regulator_Linear-MIC5356-JGYMME"
+    ],
+    "oompIndex": [
+        "MIC5356-JGYMME"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/mic5355_6.pdf",
+                "kicadSymbolExtends": "MIC5355-S4YMME",
+                "kicadSymbolFootprint": "Package_SO:MSOP-8-1EP_3x3mm_P0.65mm_EP2.5x3mm_Mask1.73x2.36mm_ThermalVias",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "MIC5356-JGYMME",
+                "kicadSymbolki_description": "Dual 500mA \u03bcCap Low Dropout Micropower Linear Regulator, 2.5V/1.8V, MSOP-8",
+                "kicadSymbolki_fp_filters": "MSOP*1EP*3x3mm*P0.65mm*",
+                "kicadSymbolki_keywords": "Dual LDO 500mA MSOP-8"
+            }
+        ]
+    ]
+}

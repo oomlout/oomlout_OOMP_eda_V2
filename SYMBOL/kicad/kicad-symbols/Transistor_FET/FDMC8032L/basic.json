@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKTRANSISTORFETFDMC832L"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Transistor_FET : FDMC8032L"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Transistor_FET"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Transistor_FET-FDMC8032L"
+    ],
+    "oompIndex": [
+        "FDMC8032L"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.onsemi.com/pub/Collateral/FDMC8032L-D.PDF",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_SON:Fairchild_DualPower33-6_3x3mm",
+                "kicadSymbolReference": "Q",
+                "kicadSymbolValue": "FDMC8032L",
+                "kicadSymbolki_description": "7A Id, 40V Vds, Dual N-Channel MOSFET, 20mOhm Ron, Power33 Package",
+                "kicadSymbolki_fp_filters": "Fairchild*DualPower33*3x3mm*",
+                "kicadSymbolki_keywords": "Dual N-Channel MOSFET"
+            }
+        ]
+    ]
+}

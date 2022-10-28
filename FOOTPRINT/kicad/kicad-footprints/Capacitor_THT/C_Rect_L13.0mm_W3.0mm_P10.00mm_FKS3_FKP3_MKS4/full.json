@@ -1,0 +1,89 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "through_hole",
+            "description": "C, Rect series, Radial, pin pitch=10.00mm, , length*width=13*3mm^2, Capacitor, http://www.wima.com/EN/WIMA_FKS_3.pdf, http://www.wima.com/EN/WIMA_MKS_4.pdf",
+            "name": "C_Rect_L13.0mm_W3.0mm_P10.00mm_FKS3_FKP3_MKS4",
+            "pins": {
+                "shape": "circle",
+                "type": "thru_hole"
+            },
+            "tags": "C Rect series Radial pin pitch 10.00mm  length 13mm width 3mm Capacitor",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/Capacitor_THT.3dshapes/C_Rect_L13.0mm_W3.0mm_P10.00mm_FKS3_FKP3_MKS4.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKCCRECTL13W3P1FKS3FKP3MKS4"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Capacitor_THT : C_Rect_L13.0mm_W3.0mm_P10.00mm_FKS3_FKP3_MKS4"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Capacitor_THT"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/C_Rect_L13.0mm_W3.0mm_P10.00mm_FKS3_FKP3_MKS4/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/C_Rect_L13.0mm_W3.0mm_P10.00mm_FKS3_FKP3_MKS4/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/C_Rect_L13.0mm_W3.0mm_P10.00mm_FKS3_FKP3_MKS4/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/C_Rect_L13.0mm_W3.0mm_P10.00mm_FKS3_FKP3_MKS4/details.py"
+        ],
+        "imagePng": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/C_Rect_L13.0mm_W3.0mm_P10.00mm_FKS3_FKP3_MKS4/image.png"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/C_Rect_L13.0mm_W3.0mm_P10.00mm_FKS3_FKP3_MKS4/basic.json"
+        ],
+        "kicadPcb3d": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/C_Rect_L13.0mm_W3.0mm_P10.00mm_FKS3_FKP3_MKS4/kicadPcb3d.png"
+        ],
+        "kicadPcb3dBack": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/C_Rect_L13.0mm_W3.0mm_P10.00mm_FKS3_FKP3_MKS4/kicadPcb3dBack.png"
+        ],
+        "kicadPcb3dFront": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/C_Rect_L13.0mm_W3.0mm_P10.00mm_FKS3_FKP3_MKS4/kicadPcb3dFront.png"
+        ],
+        "readme": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/C_Rect_L13.0mm_W3.0mm_P10.00mm_FKS3_FKP3_MKS4/README.md"
+        ]
+    },
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-C_Rect_L13.0mm_W3.0mm_P10.00mm_FKS3_FKP3_MKS4"
+    ],
+    "oompIndex": [
+        "C_Rect_L13.0mm_W3.0mm_P10.00mm_FKS3_FKP3_MKS4"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

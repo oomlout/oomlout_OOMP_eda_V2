@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKMCUCYPRESSCY7C6814A56PVX"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "MCU_Cypress : CY7C68014A-56PVX"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "MCU_Cypress"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-MCU_Cypress-CY7C68014A-56PVX"
+    ],
+    "oompIndex": [
+        "CY7C68014A-56PVX"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.cypress.com/file/138911/download",
+                "kicadSymbolExtends": "CY7C68013A-56PVX",
+                "kicadSymbolFootprint": "Package_SO:SSOP-56_7.5x18.5mm_P0.635mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "CY7C68014A-56PVX",
+                "kicadSymbolki_description": "CYPRESS FX2LP USB Microcontroller, 48MHz 8051, 16KB RAM, USB 2.0, I2C, SSOP-56",
+                "kicadSymbolki_fp_filters": "SSOP*7.5x18.5mm*P0.635mm*",
+                "kicadSymbolki_keywords": "FX2LP 8-bit USB MCU"
+            }
+        ]
+    ]
+}

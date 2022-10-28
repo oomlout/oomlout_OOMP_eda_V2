@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKSENOPTICALSFH244"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Sensor_Optical : SFH2440"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Sensor_Optical"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Sensor_Optical-SFH2440"
+    ],
+    "oompIndex": [
+        "SFH2440"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://dammedia.osram.info/media/resource/hires/osram-dam-5467146/SFH%202440_EN.pdf",
+                "kicadSymbolExtends": "BP104-SMD",
+                "kicadSymbolFootprint": "OptoDevice:Osram_SFH2440",
+                "kicadSymbolReference": "D",
+                "kicadSymbolValue": "SFH2440",
+                "kicadSymbolki_description": "Silicon Photodiode, Vf 1V, Area 2.65x2.65mm",
+                "kicadSymbolki_fp_filters": "Osram*SFH2440*",
+                "kicadSymbolki_keywords": "opto photodiode"
+            }
+        ]
+    ]
+}

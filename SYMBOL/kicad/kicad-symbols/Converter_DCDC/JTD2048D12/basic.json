@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKCONJTD248D12"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Converter_DCDC : JTD2048D12"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Converter_DCDC"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Converter_DCDC-JTD2048D12"
+    ],
+    "oompIndex": [
+        "JTD2048D12"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.xppower.com/portals/0/pdfs/SF_JTD20.pdf",
+                "kicadSymbolExtends": "JTD2024D05",
+                "kicadSymbolFootprint": "Converter_DCDC:Converter_DCDC_XP_POWER_JTDxxxxxxx_THT",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "JTD2048D12",
+                "kicadSymbolki_description": "Isolated 20W 4:1 input DC/DC converter module, 18-75V input voltage, +/-12V output voltage, DIP",
+                "kicadSymbolki_fp_filters": "Converter*DCDC*XP?POWER*JTDxxxxxxx*",
+                "kicadSymbolki_keywords": "isolated isolation dc-dc converter step-down dual"
+            }
+        ]
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKOCSMV267"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Oscillator : MV267"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Oscillator"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Oscillator-MV267"
+    ],
+    "oompIndex": [
+        "MV267"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.morion.com.ru/catalog_pdf/MV267.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Oscillator:Oscillator_OCXO_Morion_MV267",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "MV267",
+                "kicadSymbolki_description": "5/10 MHz Low Phase-Noise Precision OCXO, Morion MV267",
+                "kicadSymbolki_fp_filters": "Oscillator*OCXO*Morion*MV267*",
+                "kicadSymbolki_keywords": "OCXO"
+            }
+        ]
+    ]
+}

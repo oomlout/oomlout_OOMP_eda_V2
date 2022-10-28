@@ -1,0 +1,57 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "smd",
+            "description": "JST LEA series connector, SM02B-LEASS-TF (http://www.jst-mfg.com/product/pdf/eng/eLEA.pdf), generated with kicad-footprint-generator",
+            "name": "JST_LEA_SM02B-LEASS-TF_1x02-1MP_P4.20mm_Horizontal",
+            "pins": {
+                "shape": "roundrect",
+                "type": "smd"
+            },
+            "tags": "connector JST LEA top entry",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/Connector_JST.3dshapes/JST_LEA_SM02B-LEASS-TF_1x02-1MP_P4.20mm_Horizontal.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKCNJSTJSTLEASM2BLEASSTF1X21MPP42HORIZONTAL"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Connector_JST : JST_LEA_SM02B-LEASS-TF_1x02-1MP_P4.20mm_Horizontal"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Connector_JST"
+    ],
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_LEA_SM02B-LEASS-TF_1x02-1MP_P4.20mm_Horizontal"
+    ],
+    "oompIndex": [
+        "JST_LEA_SM02B-LEASS-TF_1x02-1MP_P4.20mm_Horizontal"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKREGULATORSWITCHINGFSQ565RQLDTU"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Regulator_Switching : FSQ0565RQLDTU"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Regulator_Switching"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Regulator_Switching-FSQ0565RQLDTU"
+    ],
+    "oompIndex": [
+        "FSQ0565RQLDTU"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.onsemi.com/pub/Collateral/FSQ0565RS-D.PDF",
+                "kicadSymbolExtends": "FSQ0565RSWDTU",
+                "kicadSymbolFootprint": "Package_TO_SOT_THT:Fairchild_TO-220F-6L",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "FSQ0565RQLDTU",
+                "kicadSymbolki_description": "67kHz Quasi Resonant SMPS Controller w/ Soft Start, max. 80W AC-DC, TO-220F-6L (Formed)",
+                "kicadSymbolki_fp_filters": "Fairchild*TO*220F*6L*",
+                "kicadSymbolki_keywords": "Quasi Resonant SMPS Controller 80W AC-DC"
+            }
+        ]
+    ]
+}

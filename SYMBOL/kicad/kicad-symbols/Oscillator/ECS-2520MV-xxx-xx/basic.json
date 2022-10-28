@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKOCSECS252MVXXXXX"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Oscillator : ECS-2520MV-xxx-xx"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Oscillator"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Oscillator-ECS-2520MV-xxx-xx"
+    ],
+    "oompIndex": [
+        "ECS-2520MV-xxx-xx"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.ecsxtal.com/store/pdf/ECS-2520MV.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Oscillator:Oscillator_SMD_ECS_2520MV-xxx-xx-4Pin_2.5x2.0mm",
+                "kicadSymbolReference": "X",
+                "kicadSymbolValue": "ECS-2520MV-xxx-xx",
+                "kicadSymbolki_description": "HCMOS Crystal Clock Oscillator, 2.5x2.0 mm SMD",
+                "kicadSymbolki_fp_filters": "Oscillator*SMD*ECS*2520MV*2.5x2.0mm*",
+                "kicadSymbolki_keywords": "Crystal Clock Oscillator ECS SMD"
+            }
+        ]
+    ]
+}

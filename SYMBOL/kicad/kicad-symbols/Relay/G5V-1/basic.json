@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKRELAYG5V1"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Relay : G5V-1"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Relay"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Relay-G5V-1"
+    ],
+    "oompIndex": [
+        "G5V-1"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://omronfs.omron.com/en_US/ecb/products/pdf/en-g5v_1.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Relay_THT:Relay_SPDT_Omron_G5V-1",
+                "kicadSymbolReference": "K",
+                "kicadSymbolValue": "G5V-1",
+                "kicadSymbolki_description": "Ultra-miniature, Highly Sensitive SPDT Relay for Signal Circuits",
+                "kicadSymbolki_fp_filters": "Relay*SPDT*Omron*G5V?1*",
+                "kicadSymbolki_keywords": "Single Pole Relay SPDT"
+            }
+        ]
+    ]
+}

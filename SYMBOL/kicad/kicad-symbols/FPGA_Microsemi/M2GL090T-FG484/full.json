@@ -1,0 +1,82 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKFPGAMSEMIM2GL9TFG484"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "FPGA_Microsemi : M2GL090T-FG484"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "FPGA_Microsemi"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/FPGA_Microsemi/M2GL090T-FG484/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/FPGA_Microsemi/M2GL090T-FG484/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/FPGA_Microsemi/M2GL090T-FG484/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/FPGA_Microsemi/M2GL090T-FG484/details.py"
+        ],
+        "imagePng": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/FPGA_Microsemi/M2GL090T-FG484/image.png"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/FPGA_Microsemi/M2GL090T-FG484/basic.json"
+        ],
+        "readme": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/FPGA_Microsemi/M2GL090T-FG484/README.md"
+        ]
+    },
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-FPGA_Microsemi-M2GL090T-FG484"
+    ],
+    "oompIndex": [
+        "M2GL090T-FG484"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.microsemi.com/document-portal/doc_download/132042-ds0128-igloo2-and-smartfusion2-datasheet",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_BGA:BGA-484_23.0x23.0mm_Layout22x22_P1.0mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "M2GL090T-FG484",
+                "kicadSymbolki_description": " IGLOO2 FPGA and SmartFusion2 SoC FPGA",
+                "kicadSymbolki_fp_filters": "BGA*484*23.0x23.0mm*Layout22x22*P1.0mm*",
+                "kicadSymbolki_keywords": "FPGA Igloo2 BGA",
+                "kicadSymbolki_locked": ""
+            }
+        ]
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKOCSGTXOS14V"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Oscillator : GTXO-S14V"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Oscillator"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Oscillator-GTXO-S14V"
+    ],
+    "oompIndex": [
+        "GTXO-S14V"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.golledge.com/pdf/products/tcxos/gtxos14.pdf",
+                "kicadSymbolExtends": "OCXO-14",
+                "kicadSymbolFootprint": "Oscillator:Oscillator_DIP-14",
+                "kicadSymbolReference": "X",
+                "kicadSymbolValue": "GTXO-S14V",
+                "kicadSymbolki_description": "3.3 & 5V Stratum 3 Sinewave TCXO, DIP14-style metal package",
+                "kicadSymbolki_fp_filters": "Oscillator*DIP*14*",
+                "kicadSymbolki_keywords": "Crystal Clock Oscillator"
+            }
+        ]
+    ]
+}

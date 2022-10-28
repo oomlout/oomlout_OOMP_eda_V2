@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKRELAYFINDER34517XXXX19"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Relay : FINDER-34.51.7xxx.x019"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Relay"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Relay-FINDER-34.51.7xxx.x019"
+    ],
+    "oompIndex": [
+        "FINDER-34.51.7xxx.x019"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://gfinder.findernet.com/public/attachments/34/EN/S34USAEN.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Relay_THT:Relay_SPDT_Finder_34.51_Horizontal",
+                "kicadSymbolReference": "K",
+                "kicadSymbolValue": "FINDER-34.51.7xxx.x019",
+                "kicadSymbolki_description": "Ultra-slim 1 Pole - 6A SPDT relay",
+                "kicadSymbolki_fp_filters": "Relay*SPDT*Finder*34.51*Horizontal*",
+                "kicadSymbolki_keywords": "Single Pole Relay SPDT"
+            }
+        ]
+    ]
+}

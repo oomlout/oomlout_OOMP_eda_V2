@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKJJ3BRIDGED12"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Jumper : Jumper_3_Bridged12"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Jumper"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Jumper-Jumper_3_Bridged12"
+    ],
+    "oompIndex": [
+        "Jumper_3_Bridged12"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "~",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "",
+                "kicadSymbolReference": "JP",
+                "kicadSymbolValue": "Jumper_3_Bridged12",
+                "kicadSymbolki_description": "Jumper, 3-pole, pins 1+2 closed/bridged",
+                "kicadSymbolki_fp_filters": "Jumper* TestPoint*3Pads* TestPoint*Bridge*",
+                "kicadSymbolki_keywords": "Jumper SPDT"
+            }
+        ]
+    ]
+}

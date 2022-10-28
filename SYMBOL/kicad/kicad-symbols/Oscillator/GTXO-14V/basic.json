@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKOCSGTXO14V"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Oscillator : GTXO-14V"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Oscillator"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Oscillator-GTXO-14V"
+    ],
+    "oompIndex": [
+        "GTXO-14V"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.golledge.com/pdf/products/tcxos/gtxo14.pdf",
+                "kicadSymbolExtends": "OCXO-14",
+                "kicadSymbolFootprint": "Oscillator:Oscillator_DIP-14",
+                "kicadSymbolReference": "X",
+                "kicadSymbolValue": "GTXO-14V",
+                "kicadSymbolki_description": "Voltage-Controlled Crystal Clock Oscillator, DIP14-style metal package",
+                "kicadSymbolki_fp_filters": "Oscillator*DIP*14*",
+                "kicadSymbolki_keywords": "Crystal Clock Oscillator"
+            }
+        ]
+    ]
+}

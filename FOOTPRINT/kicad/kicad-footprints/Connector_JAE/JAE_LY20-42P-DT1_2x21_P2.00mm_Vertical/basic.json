@@ -1,0 +1,57 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "through_hole",
+            "description": "Molex LY 20 series connector, LY20-42P-DT1, 21 Circuits (http://www.jae.com/z-en/pdf_download_exec.cfm?param=SJ103130.pdf), generated with kicad-footprint-generator",
+            "name": "JAE_LY20-42P-DT1_2x21_P2.00mm_Vertical",
+            "pins": {
+                "shape": "roundrect",
+                "type": "thru_hole"
+            },
+            "tags": "connector JAE  side entry",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/Connector_JAE.3dshapes/JAE_LY20-42P-DT1_2x21_P2.00mm_Vertical.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKCNJAEJAELY242PDT12X21P2VERTICAL"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Connector_JAE : JAE_LY20-42P-DT1_2x21_P2.00mm_Vertical"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Connector_JAE"
+    ],
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Connector_JAE-JAE_LY20-42P-DT1_2x21_P2.00mm_Vertical"
+    ],
+    "oompIndex": [
+        "JAE_LY20-42P-DT1_2x21_P2.00mm_Vertical"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKSENCURRENTHO15NSM"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Sensor_Current : HO15-NSM"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Sensor_Current"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Sensor_Current-HO15-NSM"
+    ],
+    "oompIndex": [
+        "HO15-NSM"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.lem.com/sites/default/files/products_datasheets/ho-nsm-0000_series.pdf",
+                "kicadSymbolExtends": "HO8-NSM",
+                "kicadSymbolFootprint": "Sensor_Current:LEM_HO8-NSM",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "HO15-NSM",
+                "kicadSymbolki_description": "Current Transducer, 15A, Unipolar, 5V",
+                "kicadSymbolki_fp_filters": "LEM*HO8*NSM*",
+                "kicadSymbolki_keywords": "current transducer"
+            }
+        ]
+    ]
+}

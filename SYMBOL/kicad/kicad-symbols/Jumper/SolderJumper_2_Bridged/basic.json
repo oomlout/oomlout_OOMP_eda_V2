@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKJSOLDERJ2BRIDGED"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Jumper : SolderJumper_2_Bridged"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Jumper"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Jumper-SolderJumper_2_Bridged"
+    ],
+    "oompIndex": [
+        "SolderJumper_2_Bridged"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "~",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "",
+                "kicadSymbolReference": "JP",
+                "kicadSymbolValue": "SolderJumper_2_Bridged",
+                "kicadSymbolki_description": "Solder Jumper, 2-pole, closed/bridged",
+                "kicadSymbolki_fp_filters": "SolderJumper*Bridged*",
+                "kicadSymbolki_keywords": "solder jumper SPST"
+            }
+        ]
+    ]
+}

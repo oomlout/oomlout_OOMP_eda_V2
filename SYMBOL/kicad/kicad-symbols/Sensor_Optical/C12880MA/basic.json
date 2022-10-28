@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKSENOPTICALC1288MA"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Sensor_Optical : C12880MA"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Sensor_Optical"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Sensor_Optical-C12880MA"
+    ],
+    "oompIndex": [
+        "C12880MA"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.hamamatsu.com/resources/pdf/ssd/c12880ma_kacc1226e.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "OptoDevice:Hamamatsu_C12880",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "C12880MA",
+                "kicadSymbolki_description": "Micro spectrometer 340 to 850nm resolution 15nm",
+                "kicadSymbolki_fp_filters": "Hamamatsu*C12880*",
+                "kicadSymbolki_keywords": "spectrometer"
+            }
+        ]
+    ]
+}

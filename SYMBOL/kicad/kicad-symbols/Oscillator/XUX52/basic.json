@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKOCSXUX52"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Oscillator : XUX52"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Oscillator"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Oscillator-XUX52"
+    ],
+    "oompIndex": [
+        "XUX52"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.idt.com/document/dst/xu-family-datasheet",
+                "kicadSymbolExtends": "XUX51",
+                "kicadSymbolFootprint": "Oscillator:Oscillator_SMD_IDT_JS6-6_5.0x3.2mm_P1.27mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "XUX52",
+                "kicadSymbolki_description": "Low phase noise, quartz-based PLL oscillator, 0.016-1500 MHz, complementary output",
+                "kicadSymbolki_fp_filters": "Oscillator*JS6*",
+                "kicadSymbolki_keywords": "OTP XHCMOS 2.5V VCXO"
+            }
+        ]
+    ]
+}

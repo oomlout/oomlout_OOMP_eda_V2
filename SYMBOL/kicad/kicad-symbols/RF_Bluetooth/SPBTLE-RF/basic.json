@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKRFBLUETOOTHSPBTLERF"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "RF_Bluetooth : SPBTLE-RF"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "RF_Bluetooth"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-RF_Bluetooth-SPBTLE-RF"
+    ],
+    "oompIndex": [
+        "SPBTLE-RF"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.st.com/resource/en/datasheet/spbtle-rf.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "RF_Module:ST_SPBTLE",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "SPBTLE-RF",
+                "kicadSymbolki_description": "Very Low Power network processor module for BLE v4.1, Hub capabilities",
+                "kicadSymbolki_fp_filters": "ST*SPBTLE*",
+                "kicadSymbolki_keywords": "BLE bluetooth module low-power"
+            }
+        ]
+    ]
+}

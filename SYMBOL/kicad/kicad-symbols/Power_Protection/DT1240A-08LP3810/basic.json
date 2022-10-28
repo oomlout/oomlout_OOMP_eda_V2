@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKPOWERPROTECTIONDT124A8LP381"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Power_Protection : DT1240A-08LP3810"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Power_Protection"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Power_Protection-DT1240A-08LP3810"
+    ],
+    "oompIndex": [
+        "DT1240A-08LP3810"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.diodes.com/assets/Datasheets/DT1240A-08LP3810.pdf",
+                "kicadSymbolExtends": "RCLAMP3328P",
+                "kicadSymbolFootprint": "Package_DFN_QFN:UDFN-9_1.0x3.8mm_P0.5mm",
+                "kicadSymbolReference": "D",
+                "kicadSymbolValue": "DT1240A-08LP3810",
+                "kicadSymbolki_description": "Low Capacitance TVS Diode Array, 3.3V Standoff, 8 Channels, UDFN-9",
+                "kicadSymbolki_fp_filters": "UDFN*1.0x3.8mm*P0.5mm*",
+                "kicadSymbolki_keywords": "usb esd protection suppression transient"
+            }
+        ]
+    ]
+}

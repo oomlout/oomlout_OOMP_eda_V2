@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKRF3481824"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "RF : 34.81-8240"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "RF"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-RF-34.81-8240"
+    ],
+    "oompIndex": [
+        "34.81-8240"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://gfinder.findernet.com/public/attachments/34/EN/S34USAEN.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "OptoDevice:Finder_34.81",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "34.81-8240",
+                "kicadSymbolki_description": "Ultra-slim - Solid State Relay, 2A, 240V AC output, Zero crossing switching",
+                "kicadSymbolki_fp_filters": "Finder*34.81*",
+                "kicadSymbolki_keywords": "Photo-Triac Opto Triac"
+            }
+        ]
+    ]
+}

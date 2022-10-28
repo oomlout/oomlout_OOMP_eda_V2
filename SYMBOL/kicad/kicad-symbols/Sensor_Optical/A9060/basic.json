@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKSENOPTICALA96"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Sensor_Optical : A9060"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Sensor_Optical"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Sensor_Optical-A9060"
+    ],
+    "oompIndex": [
+        "A9060"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://cdn-reichelt.de/documents/datenblatt/A500/A90xxxx%23PE.pdf",
+                "kicadSymbolExtends": "A9050",
+                "kicadSymbolFootprint": "OptoDevice:R_LDR_5.0x4.1mm_P3mm_Vertical",
+                "kicadSymbolReference": "R",
+                "kicadSymbolValue": "A9060",
+                "kicadSymbolki_description": "light dependent resistor",
+                "kicadSymbolki_fp_filters": "R*LDR*5.0x4.1mm*P3mm*",
+                "kicadSymbolki_keywords": "light dependent photo resistor LDR"
+            }
+        ]
+    ]
+}

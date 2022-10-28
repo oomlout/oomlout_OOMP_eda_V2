@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKMCUCYPRESSCYBL156368FLXIT"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "MCU_Cypress : CYBL10563-68FLXIT"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "MCU_Cypress"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-MCU_Cypress-CYBL10563-68FLXIT"
+    ],
+    "oompIndex": [
+        "CYBL10563-68FLXIT"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.cypress.com/documentation/datasheets/cybl10x6x-family-datasheet-programmable-radio-chip-bluetooth-low-energy",
+                "kicadSymbolExtends": "CYBL10563-68FNXIT",
+                "kicadSymbolFootprint": "",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "CYBL10563-68FLXIT",
+                "kicadSymbolki_description": "68-WLCSP, 48-MHz ARM\u00ae Cortex\u00ae-M0, 128KB Flash, 16kB SRAM, BLE 4.1, CAP-SENSE W/ GESTURES, 2 SCB, 4 TCPWM, I2S, 1 PWM , LCD, 1MSPS 12-BIT SAR",
+                "kicadSymbolki_fp_filters": "WLCSP*",
+                "kicadSymbolki_keywords": "CYPRESS PROC BLE CY8BL ARM CORTEX M0 BLUETOOTH WLCSP"
+            }
+        ]
+    ]
+}

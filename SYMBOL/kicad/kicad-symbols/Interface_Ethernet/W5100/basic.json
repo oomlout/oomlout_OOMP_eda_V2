@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKINTERFACEETHERNETW51"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Interface_Ethernet : W5100"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Interface_Ethernet"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Interface_Ethernet-W5100"
+    ],
+    "oompIndex": [
+        "W5100"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.wiznet.io/wp-content/uploads/wiznethome/Chip/W5100/Document/W5100_Datasheet_v1.2.7.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_QFP:LQFP-80_10x10mm_P0.4mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "W5100",
+                "kicadSymbolki_description": "10/100Mb Ethernet controller with TCP/IP stack, LQFP-80",
+                "kicadSymbolki_fp_filters": "LQFP*10x10mm*P0.4mm*",
+                "kicadSymbolki_keywords": "Wiznet Ethernet controller"
+            }
+        ]
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKDIODEBRIDGESC35VB16SG"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Diode_Bridge : SC35VB160S-G"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Diode_Bridge"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Diode_Bridge-SC35VB160S-G"
+    ],
+    "oompIndex": [
+        "SC35VB160S-G"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.comchiptech.com/admin/files/product/SC35VB80S-G%20Thru506369.%20SC35VB160S-G%20RevB.pdf",
+                "kicadSymbolExtends": "SC35VB80S-G",
+                "kicadSymbolFootprint": "Diode_THT:Diode_Bridge_Comchip_SCVB-L",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "SC35VB160S-G",
+                "kicadSymbolki_description": "1120V Vrms, 35A If, SCVB-L",
+                "kicadSymbolki_fp_filters": "Diode*Bridge*Comchip*SCVB?L*",
+                "kicadSymbolki_keywords": "Three-Phase Bridge Rectifier"
+            }
+        ]
+    ]
+}

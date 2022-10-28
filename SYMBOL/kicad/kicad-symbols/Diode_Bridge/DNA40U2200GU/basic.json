@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKDIODEBRIDGEDNA4U22GU"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Diode_Bridge : DNA40U2200GU"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Diode_Bridge"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Diode_Bridge-DNA40U2200GU"
+    ],
+    "oompIndex": [
+        "DNA40U2200GU"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://ixapps.ixys.com/Datasheet/DNA40U2200GU.pdf",
+                "kicadSymbolExtends": "GUO40-08NO1",
+                "kicadSymbolFootprint": "Diode_THT:Diode_Bridge_IXYS_GUFP",
+                "kicadSymbolReference": "D",
+                "kicadSymbolValue": "DNA40U2200GU",
+                "kicadSymbolki_description": "690V Vrms, 40A If, GUFP(X025B)",
+                "kicadSymbolki_fp_filters": "Diode*Bridge*IXYS*GUFP*",
+                "kicadSymbolki_keywords": "Three-Phase Bridge Rectifier"
+            }
+        ]
+    ]
+}

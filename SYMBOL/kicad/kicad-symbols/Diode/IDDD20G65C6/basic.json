@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKDIODEIDDD2G65C6"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Diode : IDDD20G65C6"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Diode"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Diode-IDDD20G65C6"
+    ],
+    "oompIndex": [
+        "IDDD20G65C6"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.infineon.com/dgdl/Infineon-IDDD20G65C6-DS-v02_00-EN.pdf?fileId=5546d462625a528f01628ff837cf104e",
+                "kicadSymbolExtends": "IDDD04G65C6",
+                "kicadSymbolFootprint": "Package_TO_SOT_SMD:Infineon_PG-HDSOP-10-1",
+                "kicadSymbolReference": "D",
+                "kicadSymbolValue": "IDDD20G65C6",
+                "kicadSymbolki_description": "650V, 20A, SiC Schottky Diode, CoolSiC, PG-HDSOP-10-1 (DDPAK)",
+                "kicadSymbolki_fp_filters": "Infineon*PG*HDSOP*",
+                "kicadSymbolki_keywords": "sic diode"
+            }
+        ]
+    ]
+}

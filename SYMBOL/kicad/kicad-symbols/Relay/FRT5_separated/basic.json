@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKRELAYFRT5SEPARATED"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Relay : FRT5_separated"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Relay"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Relay-FRT5_separated"
+    ],
+    "oompIndex": [
+        "FRT5_separated"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.elpro.org/de/index.php?controller=attachment&id_attachment=8663",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Relay_THT:Relay_DPDT_FRT5",
+                "kicadSymbolReference": "K",
+                "kicadSymbolValue": "FRT5_separated",
+                "kicadSymbolki_description": "FORWARD INDUSTRIAL, Miniature Dual Pole Relay, DIP-like package, separate subsymbols",
+                "kicadSymbolki_fp_filters": "Relay*DPDT*FRT5*",
+                "kicadSymbolki_keywords": "relay monostable"
+            }
+        ]
+    ]
+}

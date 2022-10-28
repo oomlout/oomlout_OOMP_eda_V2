@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKMOTORFANCPU4PIN"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Motor : Fan_CPU_4pin"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Motor"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Motor-Fan_CPU_4pin"
+    ],
+    "oompIndex": [
+        "Fan_CPU_4pin"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.formfactors.org/developer%5Cspecs%5Crev1_2_public.pdf",
+                "kicadSymbolExtends": "Fan_Tacho_PWM",
+                "kicadSymbolFootprint": "",
+                "kicadSymbolReference": "M",
+                "kicadSymbolValue": "Fan_CPU_4pin",
+                "kicadSymbolki_description": "CPU Fan, tacho output, PWM input, 4-pin connector",
+                "kicadSymbolki_fp_filters": "FanPinHeader*P2.54mm*Vertical* PinHeader*P2.54mm*Vertical* TerminalBlock*",
+                "kicadSymbolki_keywords": "Fan Motor tacho PWM"
+            }
+        ]
+    ]
+}

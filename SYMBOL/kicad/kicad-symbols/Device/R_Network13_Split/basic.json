@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKDEVICERNETWORK13SPLIT"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Device : R_Network13_Split"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Device"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Device-R_Network13_Split"
+    ],
+    "oompIndex": [
+        "R_Network13_Split"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.vishay.com/docs/31509/csc.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Resistor_THT:R_Array_SIP14",
+                "kicadSymbolReference": "RN",
+                "kicadSymbolValue": "R_Network13_Split",
+                "kicadSymbolki_description": "13 resistor network, star topology, bussed resistors, split",
+                "kicadSymbolki_fp_filters": "R?Array?SIP*",
+                "kicadSymbolki_keywords": "R network star-topology"
+            }
+        ]
+    ]
+}

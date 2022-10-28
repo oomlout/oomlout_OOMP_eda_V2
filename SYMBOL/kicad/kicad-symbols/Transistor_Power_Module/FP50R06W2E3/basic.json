@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKTRANSISTORPOWERMOFP5R6W2E3"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Transistor_Power_Module : FP50R06W2E3"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Transistor_Power_Module"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Transistor_Power_Module-FP50R06W2E3"
+    ],
+    "oompIndex": [
+        "FP50R06W2E3"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.infineon.com/dgdl/Infineon-FP50R06W2E3-DS-v02_02-EN.pdf?fileId=db3a30431b3e89eb011b455c99987d24",
+                "kicadSymbolExtends": "A2C25S12M3",
+                "kicadSymbolFootprint": "Transistor_Power_Module:Infineon_EasyPIM-2B",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "FP50R06W2E3",
+                "kicadSymbolki_description": "50A, 600V, 175W, 3-phase, Freewheeling Diode, Brake Chopper, Diode Rectifier, 5k NTC, EasyPIM-2B",
+                "kicadSymbolki_fp_filters": "Infineon*EasyPIM*2B*",
+                "kicadSymbolki_keywords": "IGBT Power Module Trench Field Stop Technology"
+            }
+        ]
+    ]
+}

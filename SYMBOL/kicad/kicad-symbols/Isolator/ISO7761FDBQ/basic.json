@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKISOLATORISO7761FDBQ"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Isolator : ISO7761FDBQ"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Isolator"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Isolator-ISO7761FDBQ"
+    ],
+    "oompIndex": [
+        "ISO7761FDBQ"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.ti.com/lit/ds/symlink/iso7763.pdf?ts=1596905577895",
+                "kicadSymbolExtends": "ISO7761DBQ",
+                "kicadSymbolFootprint": "Package_SO:SSOP-16_3.9x4.9mm_P0.635mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "ISO7761FDBQ",
+                "kicadSymbolki_description": "Default low, High-speed, robust EMC, reinforced, six-channel, digital, isolator, SSOP-16",
+                "kicadSymbolki_fp_filters": "SSOP*3.9x4.9mm*P0.635mm*",
+                "kicadSymbolki_keywords": "6 channel digital isolator"
+            }
+        ]
+    ]
+}

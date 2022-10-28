@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKINTERFACEEXPANSIONPCF8574ATS"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Interface_Expansion : PCF8574ATS"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Interface_Expansion"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Interface_Expansion-PCF8574ATS"
+    ],
+    "oompIndex": [
+        "PCF8574ATS"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.nxp.com/documents/data_sheet/PCF8574_PCF8574A.pdf",
+                "kicadSymbolExtends": "PCF8574TS",
+                "kicadSymbolFootprint": "Package_SO:SSOP-20_4.4x6.5mm_P0.65mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "PCF8574ATS",
+                "kicadSymbolki_description": "8 Bit Port/Expander to I2C Bus, SSOP-20",
+                "kicadSymbolki_fp_filters": "SSOP*4.4x6.5mm*P0.65mm*",
+                "kicadSymbolki_keywords": "I2C Expander"
+            }
+        ]
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": null,
+            "description": "SMD Solder Jumper, 1x1.5mm Pads, 0.3mm gap, bridged with 2 copper strips",
+            "name": "SolderJumper-2_P1.3mm_Bridged2Bar_Pad1.0x1.5mm",
+            "pins": {
+                "shape": "rect",
+                "type": "smd"
+            },
+            "tags": "net tie solder jumper bridged"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKJSOLDERJ2P13BRIDGED2BARPAD1X15"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Jumper : SolderJumper-2_P1.3mm_Bridged2Bar_Pad1.0x1.5mm"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Jumper"
+    ],
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Jumper-SolderJumper-2_P1.3mm_Bridged2Bar_Pad1.0x1.5mm"
+    ],
+    "oompIndex": [
+        "SolderJumper-2_P1.3mm_Bridged2Bar_Pad1.0x1.5mm"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

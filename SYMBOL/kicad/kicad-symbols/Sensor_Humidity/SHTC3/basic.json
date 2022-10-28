@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKSENHUMIDITYSHTC3"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Sensor_Humidity : SHTC3"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Sensor_Humidity"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Sensor_Humidity-SHTC3"
+    ],
+    "oompIndex": [
+        "SHTC3"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.sensirion.com/fileadmin/user_upload/customers/sensirion/Dokumente/0_Datasheets/Humidity/Sensirion_Humidity_Sensors_SHTC3_Datasheet.pdf",
+                "kicadSymbolExtends": "SHTC1",
+                "kicadSymbolFootprint": "Sensor_Humidity:Sensirion_DFN-4-1EP_2x2mm_P1mm_EP0.7x1.6mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "SHTC3",
+                "kicadSymbolki_description": "Humidity and Temperature Sensor, +/-2%RH, +/-0.2degC, I2C, 1.62-3.6V, DFN-4",
+                "kicadSymbolki_fp_filters": "Sensirion*DFN*1EP*2x2mm*P1mm*EP0.7x1.6mm*",
+                "kicadSymbolki_keywords": "Sensirion environment environmental measurement digital"
+            }
+        ]
+    ]
+}

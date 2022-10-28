@@ -1,0 +1,56 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "smd",
+            "description": "Circular Fiducial, 0.5mm bare copper, 1mm soldermask opening (Level C)",
+            "name": "Fiducial_0.5mm_Mask1mm",
+            "pins": {
+                "shape": "circle",
+                "type": "smd"
+            },
+            "tags": "fiducial"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKFIDFID5MASK1"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Fiducial : Fiducial_0.5mm_Mask1mm"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Fiducial"
+    ],
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Fiducial-Fiducial_0.5mm_Mask1mm"
+    ],
+    "oompIndex": [
+        "Fiducial_0.5mm_Mask1mm"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

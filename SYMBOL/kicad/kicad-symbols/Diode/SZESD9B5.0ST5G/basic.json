@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKDIODESZESD9B5ST5G"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Diode : SZESD9B5.0ST5G"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Diode"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Diode-SZESD9B5.0ST5G"
+    ],
+    "oompIndex": [
+        "SZESD9B5.0ST5G"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.onsemi.com/pub/Collateral/ESD9B-D.PDF",
+                "kicadSymbolExtends": "ESD9B5.0ST5G",
+                "kicadSymbolFootprint": "Diode_SMD:D_SOD-923",
+                "kicadSymbolReference": "D",
+                "kicadSymbolValue": "SZESD9B5.0ST5G",
+                "kicadSymbolki_description": "ESD protection diode, 5.0Vrwm, SOD-923",
+                "kicadSymbolki_fp_filters": "D*SOD?923*",
+                "kicadSymbolki_keywords": "diode TVS ESD"
+            }
+        ]
+    ]
+}

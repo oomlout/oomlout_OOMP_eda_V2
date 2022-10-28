@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKOCSDFAS3"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Oscillator : DFA-S3"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Oscillator"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Oscillator-DFA-S3"
+    ],
+    "oompIndex": [
+        "DFA-S3"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.metatech.com.hk/product/fordahl/pdf/2002%20TCXO%20Page%2043-58.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Oscillator:Oscillator_SMD_Fordahl_DFAS3-4Pin_9.1x7.2mm",
+                "kicadSymbolReference": "X",
+                "kicadSymbolValue": "DFA-S3",
+                "kicadSymbolki_description": "Temperature compensated Crystal Clock Oscillator",
+                "kicadSymbolki_fp_filters": "Oscillator*SMD*Fordahl*DFAS3*9.1x7.2mm*",
+                "kicadSymbolki_keywords": "Temperature compensated Crystal Clock Oscillator"
+            }
+        ]
+    ]
+}

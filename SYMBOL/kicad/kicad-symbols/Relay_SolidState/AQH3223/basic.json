@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKRELAYSOLIDSTATEAQH3223"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Relay_SolidState : AQH3223"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Relay_SolidState"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Relay_SolidState-AQH3223"
+    ],
+    "oompIndex": [
+        "AQH3223"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://b2b-api.panasonic.eu/file_stream/pids/fileversion/2787",
+                "kicadSymbolExtends": "AQH0223",
+                "kicadSymbolFootprint": "Package_DIP:DIP-8-N7_W7.62mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "AQH3223",
+                "kicadSymbolki_description": "Random Phase Opto-Triac, Vdrm 600V, Ift 10mA, IT 1.2A, DIP-7",
+                "kicadSymbolki_fp_filters": "DIP*N7*W7.62mm*",
+                "kicadSymbolki_keywords": "Opto-Triac Opto Triac Random Phase"
+            }
+        ]
+    ]
+}

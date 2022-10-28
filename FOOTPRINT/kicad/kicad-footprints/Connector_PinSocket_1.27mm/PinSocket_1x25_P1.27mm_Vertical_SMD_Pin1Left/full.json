@@ -1,0 +1,89 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "smd",
+            "description": "surface-mounted straight socket strip, 1x25, 1.27mm pitch, single row, style 1 (pin 1 left) (https://gct.co/pdfjs/web/viewer.html?file=/Files/Drawings/BD075.pdf&t=1511594726925), script generated",
+            "name": "PinSocket_1x25_P1.27mm_Vertical_SMD_Pin1Left",
+            "pins": {
+                "shape": "rect",
+                "type": "smd"
+            },
+            "tags": "Surface mounted socket strip SMD 1x25 1.27mm single row style1 pin1 left",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/Connector_PinSocket_1.27mm.3dshapes/PinSocket_1x25_P1.27mm_Vertical_SMD_Pin1Left.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKCNPINSO127PINSO1X25P127VERTICALSMPIN1LEFT"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Connector_PinSocket_1.27mm : PinSocket_1x25_P1.27mm_Vertical_SMD_Pin1Left"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Connector_PinSocket_1.27mm"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_PinSocket_1.27mm/PinSocket_1x25_P1.27mm_Vertical_SMD_Pin1Left/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_PinSocket_1.27mm/PinSocket_1x25_P1.27mm_Vertical_SMD_Pin1Left/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_PinSocket_1.27mm/PinSocket_1x25_P1.27mm_Vertical_SMD_Pin1Left/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_PinSocket_1.27mm/PinSocket_1x25_P1.27mm_Vertical_SMD_Pin1Left/details.py"
+        ],
+        "imagePng": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_PinSocket_1.27mm/PinSocket_1x25_P1.27mm_Vertical_SMD_Pin1Left/image.png"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_PinSocket_1.27mm/PinSocket_1x25_P1.27mm_Vertical_SMD_Pin1Left/basic.json"
+        ],
+        "kicadPcb3d": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_PinSocket_1.27mm/PinSocket_1x25_P1.27mm_Vertical_SMD_Pin1Left/kicadPcb3d.png"
+        ],
+        "kicadPcb3dBack": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_PinSocket_1.27mm/PinSocket_1x25_P1.27mm_Vertical_SMD_Pin1Left/kicadPcb3dBack.png"
+        ],
+        "kicadPcb3dFront": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_PinSocket_1.27mm/PinSocket_1x25_P1.27mm_Vertical_SMD_Pin1Left/kicadPcb3dFront.png"
+        ],
+        "readme": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_PinSocket_1.27mm/PinSocket_1x25_P1.27mm_Vertical_SMD_Pin1Left/README.md"
+        ]
+    },
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Connector_PinSocket_1.27mm-PinSocket_1x25_P1.27mm_Vertical_SMD_Pin1Left"
+    ],
+    "oompIndex": [
+        "PinSocket_1x25_P1.27mm_Vertical_SMD_Pin1Left"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

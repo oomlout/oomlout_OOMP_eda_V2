@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKGPSMAXM8Q"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "RF_GPS : MAX-M8Q"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "RF_GPS"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-RF_GPS-MAX-M8Q"
+    ],
+    "oompIndex": [
+        "MAX-M8Q"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.u-blox.com/sites/default/files/MAX-M8-FW3_DataSheet_%28UBX-15031506%29.pdf",
+                "kicadSymbolExtends": "MAX-8C",
+                "kicadSymbolFootprint": "RF_GPS:ublox_MAX",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "MAX-M8Q",
+                "kicadSymbolki_description": "GNSS Module MAX M8, VCC 2.7V to 3.6V",
+                "kicadSymbolki_fp_filters": "ublox*MAX*",
+                "kicadSymbolki_keywords": "ublox GPS GNSS module"
+            }
+        ]
+    ]
+}

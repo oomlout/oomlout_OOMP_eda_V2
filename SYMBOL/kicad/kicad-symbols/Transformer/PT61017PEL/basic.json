@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKTRPT6117PEL"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Transformer : PT61017PEL"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Transformer"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Transformer-PT61017PEL"
+    ],
+    "oompIndex": [
+        "PT61017PEL"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.bourns.com/docs/Product-Datasheets/PT61017PEL.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Transformer_SMD:Transformer_Ethernet_Bourns_PT61017PEL",
+                "kicadSymbolReference": "TR",
+                "kicadSymbolValue": "PT61017PEL",
+                "kicadSymbolki_description": "Ethernet LAN 10/100 Base-Tx Transformer with Center Taps",
+                "kicadSymbolki_fp_filters": "Transformer*Ethernet*Bourns*PT61017PEL*",
+                "kicadSymbolki_keywords": "single port ethernet transformer poe center-tap"
+            }
+        ]
+    ]
+}

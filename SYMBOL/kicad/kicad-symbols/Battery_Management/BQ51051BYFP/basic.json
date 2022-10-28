@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKBATMANAGEMENTBQ5151BYFP"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Battery_Management : BQ51051BYFP"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Battery_Management"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Battery_Management-BQ51051BYFP"
+    ],
+    "oompIndex": [
+        "BQ51051BYFP"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.ti.com/lit/ds/symlink/bq51051b.pdf",
+                "kicadSymbolExtends": "BQ51050BYFP",
+                "kicadSymbolFootprint": "Package_BGA:Texas_DSBGA-28_1.9x3.0mm_Layout4x7_P0.4mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "BQ51051BYFP",
+                "kicadSymbolki_description": "Qi v1.2, Wireless Power Receiver and Battery Charger, Vout 4.35V, DSBGA-28",
+                "kicadSymbolki_fp_filters": "Texas?DSBGA*1.9x3.0mm*P0.4mm*",
+                "kicadSymbolki_keywords": "Qi Wireless Power Receiver Battery Charger 4.35V"
+            }
+        ]
+    ]
+}

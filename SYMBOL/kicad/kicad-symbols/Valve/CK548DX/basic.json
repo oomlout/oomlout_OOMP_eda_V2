@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKVACK548DX"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Valve : CK548DX"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Valve"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Valve-CK548DX"
+    ],
+    "oompIndex": [
+        "CK548DX"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "",
+                "kicadSymbolExtends": "CK6418",
+                "kicadSymbolFootprint": "Valve:Valve_Mini_Pentode_Linear",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "CK548DX",
+                "kicadSymbolki_description": "Subminiature Pentode",
+                "kicadSymbolki_fp_filters": "VALVE*MINI*PENTODE*LINEAR*",
+                "kicadSymbolki_keywords": "subminiature pentode valve"
+            }
+        ]
+    ]
+}

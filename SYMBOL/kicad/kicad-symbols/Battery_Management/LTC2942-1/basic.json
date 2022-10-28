@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKBATMANAGEMENTLTC29421"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Battery_Management : LTC2942-1"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Battery_Management"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Battery_Management-LTC2942-1"
+    ],
+    "oompIndex": [
+        "LTC2942-1"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/29421f.pdf",
+                "kicadSymbolExtends": "LTC2942",
+                "kicadSymbolFootprint": "Package_DFN_QFN:DFN-6-1EP_3x2mm_P0.5mm_EP1.65x1.35mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "LTC2942-1",
+                "kicadSymbolki_description": "1A Battery Gas Gauge with Internal Sense Resistor and Temperature/Voltage Measurement, DFN-6",
+                "kicadSymbolki_fp_filters": "DFN*1EP*3x2mm*P0.5mm*",
+                "kicadSymbolki_keywords": "Fuel gauge coulomb counter I2C"
+            }
+        ]
+    ]
+}

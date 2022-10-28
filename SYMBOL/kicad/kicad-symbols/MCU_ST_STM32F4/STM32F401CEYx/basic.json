@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKMCUSTSTM32F4STM32F41CEYX"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "MCU_ST_STM32F4 : STM32F401CEYx"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "MCU_ST_STM32F4"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F4-STM32F401CEYx"
+    ],
+    "oompIndex": [
+        "STM32F401CEYx"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00102166.pdf",
+                "kicadSymbolExtends": "STM32F401CDYx",
+                "kicadSymbolFootprint": "Package_CSP:ST_WLCSP-49_Die433",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "STM32F401CEYx",
+                "kicadSymbolki_description": "ARM Cortex-M4 MCU, 512KB flash, 96KB RAM, 84MHz, 1.7-3.6V, 36 GPIO, WLCSP-49",
+                "kicadSymbolki_fp_filters": "ST_WLCSP*Die433*",
+                "kicadSymbolki_keywords": "ARM Cortex-M4 STM32F4 STM32F401"
+            }
+        ]
+    ]
+}

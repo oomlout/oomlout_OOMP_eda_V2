@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKMCUMOCHIP"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "MCU_Module : CHIP"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "MCU_Module"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-MCU_Module-CHIP"
+    ],
+    "oompIndex": [
+        "CHIP"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://github.com/NextThingCo/CHIP-Hardware/tree/master/CHIP%5Bv1_0%5D",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Module:MODULE_NEXTTHINGCO_CHIP",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "CHIP",
+                "kicadSymbolki_description": "NextThingCo C.H.I.P. Module",
+                "kicadSymbolki_fp_filters": "MODULE*NEXTTHINGCO*CHIP*",
+                "kicadSymbolki_keywords": "nextthingco chip module"
+            }
+        ]
+    ]
+}

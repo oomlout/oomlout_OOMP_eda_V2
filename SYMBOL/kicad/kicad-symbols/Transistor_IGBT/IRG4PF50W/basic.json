@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKTRANSISTORIGBTIRG4PF5W"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Transistor_IGBT : IRG4PF50W"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Transistor_IGBT"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Transistor_IGBT-IRG4PF50W"
+    ],
+    "oompIndex": [
+        "IRG4PF50W"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.irf.com/product-info/datasheets/data/irg4pf50w.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_TO_SOT_THT:TO-247-3_Vertical",
+                "kicadSymbolReference": "Q",
+                "kicadSymbolValue": "IRG4PF50W",
+                "kicadSymbolki_description": "28A, 900V, N-Channel IGBT",
+                "kicadSymbolki_fp_filters": "TO?247*",
+                "kicadSymbolki_keywords": "N-Channel IGBT Power Transistor"
+            }
+        ]
+    ]
+}

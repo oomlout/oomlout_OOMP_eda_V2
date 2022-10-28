@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKSENPROXIMITYITR837S17TR8"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Sensor_Proximity : ITR8307-S17-TR8"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Sensor_Proximity"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Sensor_Proximity-ITR8307-S17-TR8"
+    ],
+    "oompIndex": [
+        "ITR8307-S17-TR8"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://datasheet.lcsc.com/szlcsc/1810010232_Everlight-Elec-ITR8307-S17-TR8-B_C81632.pdf",
+                "kicadSymbolExtends": "ITR1201SR10AR",
+                "kicadSymbolFootprint": "OptoDevice:Everlight_ITR1201SR10AR",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "ITR8307-S17-TR8",
+                "kicadSymbolki_description": "Miniature Reflective Optical Object Sensor, SMD-4",
+                "kicadSymbolki_fp_filters": "Everlight*ITR1201SR10AR*",
+                "kicadSymbolki_keywords": "Reflective Optical Sensor Opto reflex coupler"
+            }
+        ]
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKAMPLIFIEROPERATIONALLM358DFN"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Amplifier_Operational : LM358_DFN"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Amplifier_Operational"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LM358_DFN"
+    ],
+    "oompIndex": [
+        "LM358_DFN"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "www.st.com/resource/en/datasheet/lm358.pdf",
+                "kicadSymbolExtends": "TSV912IQ2T",
+                "kicadSymbolFootprint": "Package_DFN_QFN:DFN-8-1EP_2x2mm_P0.5mm_EP1.05x1.75mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "LM358_DFN",
+                "kicadSymbolki_description": "Low-Power, Dual Operational Amplifiers, DFN-8",
+                "kicadSymbolki_fp_filters": "DFN*2x2mm*P0.5mm*",
+                "kicadSymbolki_keywords": "dual opamp"
+            }
+        ]
+    ]
+}

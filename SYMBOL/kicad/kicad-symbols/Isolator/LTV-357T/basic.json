@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKISOLATORLTV357T"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Isolator : LTV-357T"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Isolator"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Isolator-LTV-357T"
+    ],
+    "oompIndex": [
+        "LTV-357T"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.buerklin.com/medias/sys_master/download/download/h91/ha0/8892020588574.pdf",
+                "kicadSymbolExtends": "LTV-356T",
+                "kicadSymbolFootprint": "Package_SO:SO-4_4.4x3.6mm_P2.54mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "LTV-357T",
+                "kicadSymbolki_description": "DC Optocoupler, Vce 35V, CTR 50%, SO-4",
+                "kicadSymbolki_fp_filters": "SO*4.4x3.6mm*P2.54mm*",
+                "kicadSymbolki_keywords": "NPN DC Optocoupler"
+            }
+        ]
+    ]
+}

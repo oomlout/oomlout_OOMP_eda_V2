@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPMOSMOCONNBRBOIBBCSZ1 > oomlout_OOMP_modules : MODULE-CONN-BRBO-IBBC-SZ01
 
 - ID: FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_modules-MODULE-CONN-BRBO-IBBC-SZ01
@@ -12,7 +12,11 @@ NO IMAGE
 - Long Link: [http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_modules-MODULE-CONN-BRBO-IBBC-SZ01](http://oom.lt/FOOTPRINT-kicad-oomlout_OOMP_kicad-oomlout_OOMP_modules-MODULE-CONN-BRBO-IBBC-SZ01)
 - Short Link: [http://oom.lt/FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPMOSMOCONNBRBOIBBCSZ1](http://oom.lt/FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPMOSMOCONNBRBOIBBCSZ1)
   
-NO IMAGES  
+
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_modules/MODULE-CONN-BRBO-IBBC-SZ01/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_modules/MODULE-CONN-BRBO-IBBC-SZ01/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_modules/MODULE-CONN-BRBO-IBBC-SZ01/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_modules/MODULE-CONN-BRBO-IBBC-SZ01/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_modules/MODULE-CONN-BRBO-IBBC-SZ01/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_modules/MODULE-CONN-BRBO-IBBC-SZ01/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_modules/MODULE-CONN-BRBO-IBBC-SZ01/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_modules/MODULE-CONN-BRBO-IBBC-SZ01/kicadPcb3d.png)|
+| :---: | :---: | :---: | :---: |
+|||||
+
 ## Tags
   
 
@@ -28,3 +32,7 @@ NO IMAGES
 |name|name|oomlout_OOMP_modules : MODULE-CONN-BRBO-IBBC-SZ01|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'MODULE-CONN-BRBO-IBBC-SZ01'</td><td> 'tags'</td></tr><tr><td> None</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'np_thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
+
+
+
+[im]: FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_modules/MODULE-CONN-BRBO-IBBC-SZ01/kicadPcb3d_450.png

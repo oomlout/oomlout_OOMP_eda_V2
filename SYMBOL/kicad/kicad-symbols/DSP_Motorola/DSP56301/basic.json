@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKDSPMOTOROLADSP5631"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "DSP_Motorola : DSP56301"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "DSP_Motorola"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-DSP_Motorola-DSP56301"
+    ],
+    "oompIndex": [
+        "DSP56301"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.nxp.com/docs/en/data-sheet/DSP56301DS.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_QFP:PQFP-208_28x28mm_P0.5mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "DSP56301",
+                "kicadSymbolki_description": "24-Bit Digital Signal Processor with PCI bus interface",
+                "kicadSymbolki_fp_filters": "PQFP*28x28mm*P0.5mm*",
+                "kicadSymbolki_keywords": "DSP PCI"
+            }
+        ]
+    ]
+}

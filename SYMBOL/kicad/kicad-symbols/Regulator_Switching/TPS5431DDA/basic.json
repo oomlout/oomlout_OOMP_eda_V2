@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKREGULATORSWITCHINGTPS5431DDA"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Regulator_Switching : TPS5431DDA"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Regulator_Switching"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Regulator_Switching-TPS5431DDA"
+    ],
+    "oompIndex": [
+        "TPS5431DDA"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.ti.com/lit/ds/symlink/tps5430.pdf",
+                "kicadSymbolExtends": "TPS5430DDA",
+                "kicadSymbolFootprint": "Package_SO:TI_SO-PowerPAD-8_ThermalVias",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "TPS5431DDA",
+                "kicadSymbolki_description": "3A, Step Down Swift Converter, Adjustable Output Voltage, 5.5-23V Input Voltage, PowerSO-8",
+                "kicadSymbolki_fp_filters": "TI*SO*PowerPAD*ThermalVias*",
+                "kicadSymbolki_keywords": "Step-Down DC-DC Switching Regulator"
+            }
+        ]
+    ]
+}

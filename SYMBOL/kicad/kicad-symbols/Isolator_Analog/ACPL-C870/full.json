@@ -1,0 +1,81 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKISOLATORANALOGACPLC87"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Isolator_Analog : ACPL-C870"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Isolator_Analog"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Isolator_Analog/ACPL-C870/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Isolator_Analog/ACPL-C870/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Isolator_Analog/ACPL-C870/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Isolator_Analog/ACPL-C870/details.py"
+        ],
+        "imagePng": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Isolator_Analog/ACPL-C870/image.png"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Isolator_Analog/ACPL-C870/basic.json"
+        ],
+        "readme": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Isolator_Analog/ACPL-C870/README.md"
+        ]
+    },
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Isolator_Analog-ACPL-C870"
+    ],
+    "oompIndex": [
+        "ACPL-C870"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "www.avagotech.com/docs/AV02-3563EN",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_SO:SSO-8_6.8x5.9mm_P1.27mm_Clearance8mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "ACPL-C870",
+                "kicadSymbolki_description": "Precision Optycally Isolated Voltage Sensor, \u00b13% Gain Tolerance, Bandwidth 100kHz, SSO-8",
+                "kicadSymbolki_fp_filters": "SSO*6.8x5.9mm*P1.27mm*Clearance8mm*",
+                "kicadSymbolki_keywords": "Optycally Isolated Voltage Sensor"
+            }
+        ]
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKAMPLIFIEROPERATIONALOPA818XDRG"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Amplifier_Operational : OPA818xDRG"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Amplifier_Operational"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA818xDRG"
+    ],
+    "oompIndex": [
+        "OPA818xDRG"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.ti.com/lit/ds/symlink/opa818.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_SON:WSON-8-1EP_3x3mm_P0.5mm_EP1.45x2.4mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "OPA818xDRG",
+                "kicadSymbolki_description": " 2.7 GHz, High-Voltage, FET-Input, Low Noise, Operational Amplifier, WSON-8",
+                "kicadSymbolki_fp_filters": "WSON*1EP*3x3mm*EP1.45x2.4mm*",
+                "kicadSymbolki_keywords": "opamp VFA"
+            }
+        ]
+    ]
+}

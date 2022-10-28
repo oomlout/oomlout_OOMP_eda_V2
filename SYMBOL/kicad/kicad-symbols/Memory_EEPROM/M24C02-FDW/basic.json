@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKMEMORYEEPROMM24C2FDW"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Memory_EEPROM : M24C02-FDW"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Memory_EEPROM"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Memory_EEPROM-M24C02-FDW"
+    ],
+    "oompIndex": [
+        "M24C02-FDW"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.st.com/content/ccc/resource/technical/document/datasheet/b0/d8/50/40/5a/85/49/6f/DM00071904.pdf/files/DM00071904.pdf/jcr:content/translations/en.DM00071904.pdf",
+                "kicadSymbolExtends": "M24C02-WDW",
+                "kicadSymbolFootprint": "Package_SO:TSSOP-8_4.4x3mm_P0.65mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "M24C02-FDW",
+                "kicadSymbolki_description": "2Kb (256x8) I2C Serial EEPROM, 1.6-5.5V, TSSOP-8",
+                "kicadSymbolki_fp_filters": "TSSOP*4.4x3mm*P0.65mm*",
+                "kicadSymbolki_keywords": "Nonvolatile Non-Volatile Memory ROM ST"
+            }
+        ]
+    ]
+}

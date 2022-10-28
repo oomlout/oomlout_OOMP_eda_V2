@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKTRANSISTORFETCSD2532Q2"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Transistor_FET : CSD25302Q2"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Transistor_FET"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Transistor_FET-CSD25302Q2"
+    ],
+    "oompIndex": [
+        "CSD25302Q2"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.ti.com/lit/ds/slps234b/slps234b.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_SON:Texas_DQK",
+                "kicadSymbolReference": "Q",
+                "kicadSymbolValue": "CSD25302Q2",
+                "kicadSymbolki_description": "5A Id, 20V Vds, NexFET P-Channel Power MOSFET, 39mOhm Ron, SON-6",
+                "kicadSymbolki_fp_filters": "Texas*DQK*",
+                "kicadSymbolki_keywords": "NexFET Power MOSFET P-MOS"
+            }
+        ]
+    ]
+}

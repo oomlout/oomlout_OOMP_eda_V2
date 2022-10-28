@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKAMPLIFIERDIFFERENCEAMC13DWV"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Amplifier_Difference : AMC1300DWV"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Amplifier_Difference"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Amplifier_Difference-AMC1300DWV"
+    ],
+    "oompIndex": [
+        "AMC1300DWV"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.ti.com/lit/ds/symlink/amc1300.pdf",
+                "kicadSymbolExtends": "AMC1100DWV",
+                "kicadSymbolFootprint": "Package_SO:SOIC-8_7.5x5.85mm_P1.27mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "AMC1300DWV",
+                "kicadSymbolki_description": "Precision, \u00b1250-mV Input, Reinforced Isolated Amplifier, Fixed Gain = 8.2, UL1577/VDE V 0884-11 Approved, SOIC-8",
+                "kicadSymbolki_fp_filters": "SOIC*7.5x5.85mm*P1.27mm*",
+                "kicadSymbolki_keywords": "isolated difference amplifier"
+            }
+        ]
+    ]
+}

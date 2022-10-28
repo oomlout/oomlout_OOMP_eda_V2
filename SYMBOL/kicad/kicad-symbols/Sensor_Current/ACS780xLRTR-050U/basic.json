@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKSENCURRENTACS78XLRTR5U"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Sensor_Current : ACS780xLRTR-050U"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Sensor_Current"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS780xLRTR-050U"
+    ],
+    "oompIndex": [
+        "ACS780xLRTR-050U"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.allegromicro.com/~/media/Files/Datasheets/ACS780-Datasheet.ashx?la=en",
+                "kicadSymbolExtends": "ACS780xLRTR-050B",
+                "kicadSymbolFootprint": "Sensor_Current:Allegro_PSOF-7_4.8x6.4mm_P1.60mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "ACS780xLRTR-050U",
+                "kicadSymbolki_description": "50A Unidirectional Hall-Effect Current Sensor, +5.0V supply, 60mV/A, PSOF-7",
+                "kicadSymbolki_fp_filters": "Allegro*PSOF*4.8x6.4mm*P1.60mm*",
+                "kicadSymbolki_keywords": "hall effect current monitor sensor isolated"
+            }
+        ]
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKREGULATORLINEARTLV736WSON6"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Regulator_Linear : TLV70036_WSON6"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Regulator_Linear"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Regulator_Linear-TLV70036_WSON6"
+    ],
+    "oompIndex": [
+        "TLV70036_WSON6"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.ti.com/lit/ds/symlink/tlv700.pdf",
+                "kicadSymbolExtends": "TLV70012_WSON6",
+                "kicadSymbolFootprint": "Package_SON:WSON-6_1.5x1.5mm_P0.5mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "TLV70036_WSON6",
+                "kicadSymbolki_description": "200mA Low Dropout Voltage Regulator, Fixed Output 3.6V, WSON6",
+                "kicadSymbolki_fp_filters": "WSON*",
+                "kicadSymbolki_keywords": "200mA LDO Regulator Fixed Positive"
+            }
+        ]
+    ]
+}

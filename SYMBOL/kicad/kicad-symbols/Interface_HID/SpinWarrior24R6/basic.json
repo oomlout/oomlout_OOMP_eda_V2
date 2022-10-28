@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKINTERFACEHIDSPINWARRIOR24R6"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Interface_HID : SpinWarrior24R6"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Interface_HID"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Interface_HID-SpinWarrior24R6"
+    ],
+    "oompIndex": [
+        "SpinWarrior24R6"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.codemercs.com/downloads/spinwarrior/SW_Datasheet.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "SpinWarrior24R6",
+                "kicadSymbolki_description": "SpinWarrior, 6 8bit relative position rotary encoders, 3 switches, DIP-24/SOIC-24",
+                "kicadSymbolki_fp_filters": "DIP*7.62mm* SOIC*7.5x15.4mm*P1.27mm*",
+                "kicadSymbolki_keywords": "8bit, relative position, USB, rotary encoder"
+            }
+        ]
+    ]
+}

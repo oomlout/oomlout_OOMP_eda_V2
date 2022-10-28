@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKPOWERPROTECTIONIP3319CX6"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Power_Protection : IP3319CX6"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Power_Protection"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Power_Protection-IP3319CX6"
+    ],
+    "oompIndex": [
+        "IP3319CX6"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://assets.nexperia.com/documents/data-sheet/IP3319CX6.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_CSP:WLCSP-6_1.4x1.0mm_P0.4mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "IP3319CX6",
+                "kicadSymbolki_description": "Single channel common mode filter with integrated ESD protection network",
+                "kicadSymbolki_fp_filters": "WLCSP*1.4x1.0mm*P0.4mm*",
+                "kicadSymbolki_keywords": "common mode filter ESD protection"
+            }
+        ]
+    ]
+}

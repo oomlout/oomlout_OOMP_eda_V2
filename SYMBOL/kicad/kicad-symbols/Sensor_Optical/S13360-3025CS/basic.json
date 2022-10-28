@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKSENOPTICALS1336325CS"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Sensor_Optical : S13360-3025CS"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Sensor_Optical"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Sensor_Optical-S13360-3025CS"
+    ],
+    "oompIndex": [
+        "S13360-3025CS"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.hamamatsu.com/resources/pdf/ssd/s13360_series_kapd1052e.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "OptoDevice:Hamamatsu_S13360-30CS",
+                "kicadSymbolReference": "D",
+                "kicadSymbolValue": "S13360-3025CS",
+                "kicadSymbolki_description": "Multi-Pixel Photon Counter with 25\u00b5m pixel pitch",
+                "kicadSymbolki_fp_filters": "Hamamatsu*S13360*30CS*",
+                "kicadSymbolki_keywords": "opto SiPM MPPC hamamatsu SPAD"
+            }
+        ]
+    ]
+}

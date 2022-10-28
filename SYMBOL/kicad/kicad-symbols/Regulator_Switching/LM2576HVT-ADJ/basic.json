@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKREGULATORSWITCHINGLM2576HVTADJ"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Regulator_Switching : LM2576HVT-ADJ"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Regulator_Switching"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM2576HVT-ADJ"
+    ],
+    "oompIndex": [
+        "LM2576HVT-ADJ"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.ti.com/lit/ds/symlink/lm2576.pdf",
+                "kicadSymbolExtends": "LM2576HVT-12",
+                "kicadSymbolFootprint": "Package_TO_SOT_THT:TO-220-5_Vertical",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "LM2576HVT-ADJ",
+                "kicadSymbolki_description": "Adjustable Output Voltage, 3A SIMPLE SWITCHER\u00ae Step-Down Voltage Regulator, High Voltage Input, TO-220-5",
+                "kicadSymbolki_fp_filters": "TO?220*",
+                "kicadSymbolki_keywords": "Step-Down Voltage Regulator 3A Adjustable High Voltage"
+            }
+        ]
+    ]
+}

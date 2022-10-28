@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKRFMOE18MS1PCB"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "RF_Module : E18-MS1-PCB"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "RF_Module"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-RF_Module-E18-MS1-PCB"
+    ],
+    "oompIndex": [
+        "E18-MS1-PCB"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.cdebyte.com/en/downpdf.aspx?id=122",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "RF_Module:E18-MS1-PCB",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "E18-MS1-PCB",
+                "kicadSymbolki_description": "Zigbee RF Module",
+                "kicadSymbolki_fp_filters": "E18-MS1-PCB*",
+                "kicadSymbolki_keywords": "Zigbee, RF, 802.15.4"
+            }
+        ]
+    ]
+}

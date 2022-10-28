@@ -1,0 +1,59 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKFPGALATTICEICE4HX1KTQ144"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "FPGA_Lattice : ICE40HX1K-TQ144"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "FPGA_Lattice"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-FPGA_Lattice-ICE40HX1K-TQ144"
+    ],
+    "oompIndex": [
+        "ICE40HX1K-TQ144"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.latticesemi.com/Products/FPGAandCPLD/iCE40",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_QFP:TQFP-144_20x20mm_P0.5mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "ICE40HX1K-TQ144",
+                "kicadSymbolki_description": "iCE40 HX FPGA, 1280 LUTs, 1.2V, TQFP-144",
+                "kicadSymbolki_fp_filters": "TQFP*20x20mm*P0.5mm*",
+                "kicadSymbolki_keywords": "FPGA programmable logic",
+                "kicadSymbolki_locked": ""
+            }
+        ]
+    ]
+}

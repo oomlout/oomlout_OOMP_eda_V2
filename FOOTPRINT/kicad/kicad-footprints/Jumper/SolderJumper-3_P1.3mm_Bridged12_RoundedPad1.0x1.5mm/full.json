@@ -1,0 +1,88 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": null,
+            "description": "SMD Solder 3-pad Jumper, 1x1.5mm rounded Pads, 0.3mm gap, pads 1-2 bridged with 1 copper strip",
+            "name": "SolderJumper-3_P1.3mm_Bridged12_RoundedPad1.0x1.5mm",
+            "pins": {
+                "shape": "custom",
+                "type": "smd"
+            },
+            "tags": "net tie solder jumper bridged"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKJSOLDERJ3P13BRIDGED12ROUNDEDPAD1X15"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Jumper : SolderJumper-3_P1.3mm_Bridged12_RoundedPad1.0x1.5mm"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Jumper"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Jumper/SolderJumper-3_P1.3mm_Bridged12_RoundedPad1.0x1.5mm/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Jumper/SolderJumper-3_P1.3mm_Bridged12_RoundedPad1.0x1.5mm/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Jumper/SolderJumper-3_P1.3mm_Bridged12_RoundedPad1.0x1.5mm/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Jumper/SolderJumper-3_P1.3mm_Bridged12_RoundedPad1.0x1.5mm/details.py"
+        ],
+        "imagePng": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Jumper/SolderJumper-3_P1.3mm_Bridged12_RoundedPad1.0x1.5mm/image.png"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Jumper/SolderJumper-3_P1.3mm_Bridged12_RoundedPad1.0x1.5mm/basic.json"
+        ],
+        "kicadPcb3d": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Jumper/SolderJumper-3_P1.3mm_Bridged12_RoundedPad1.0x1.5mm/kicadPcb3d.png"
+        ],
+        "kicadPcb3dBack": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Jumper/SolderJumper-3_P1.3mm_Bridged12_RoundedPad1.0x1.5mm/kicadPcb3dBack.png"
+        ],
+        "kicadPcb3dFront": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Jumper/SolderJumper-3_P1.3mm_Bridged12_RoundedPad1.0x1.5mm/kicadPcb3dFront.png"
+        ],
+        "readme": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Jumper/SolderJumper-3_P1.3mm_Bridged12_RoundedPad1.0x1.5mm/README.md"
+        ]
+    },
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Jumper-SolderJumper-3_P1.3mm_Bridged12_RoundedPad1.0x1.5mm"
+    ],
+    "oompIndex": [
+        "SolderJumper-3_P1.3mm_Bridged12_RoundedPad1.0x1.5mm"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

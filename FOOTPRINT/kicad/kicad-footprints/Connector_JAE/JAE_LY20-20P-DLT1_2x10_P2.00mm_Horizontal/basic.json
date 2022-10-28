@@ -1,0 +1,57 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "through_hole",
+            "description": "Molex LY 20 series connector, LY20-20P-DLT1, 10 Circuits (http://www.jae.com/z-en/pdf_download_exec.cfm?param=SJ038187.pdf), generated with kicad-footprint-generator",
+            "name": "JAE_LY20-20P-DLT1_2x10_P2.00mm_Horizontal",
+            "pins": {
+                "shape": "roundrect",
+                "type": "thru_hole"
+            },
+            "tags": "connector JAE  top entry",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/Connector_JAE.3dshapes/JAE_LY20-20P-DLT1_2x10_P2.00mm_Horizontal.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKCNJAEJAELY22PDLT12X1P2HORIZONTAL"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Connector_JAE : JAE_LY20-20P-DLT1_2x10_P2.00mm_Horizontal"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Connector_JAE"
+    ],
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Connector_JAE-JAE_LY20-20P-DLT1_2x10_P2.00mm_Horizontal"
+    ],
+    "oompIndex": [
+        "JAE_LY20-20P-DLT1_2x10_P2.00mm_Horizontal"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

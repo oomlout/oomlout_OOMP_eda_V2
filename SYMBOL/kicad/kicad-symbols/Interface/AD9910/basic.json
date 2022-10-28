@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKINTERFACEAD991"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Interface : AD9910"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Interface"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Interface-AD9910"
+    ],
+    "oompIndex": [
+        "AD9910"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/AD9910.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_QFP:TQFP-100-1EP_14x14mm_P0.5mm_EP5x5mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "AD9910",
+                "kicadSymbolki_description": "1 GSPS, 14-Bit, 3.3V CMOS, Direct Digital Synthesizer, QFP-100",
+                "kicadSymbolki_fp_filters": "TQFP*14x14mm*P0.5mm*EP5x5mm*",
+                "kicadSymbolki_keywords": "dds direct digital synthesizer"
+            }
+        ]
+    ]
+}

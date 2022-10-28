@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKMCUSTSTM8STM8L11F3U"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "MCU_ST_STM8 : STM8L101F3U"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "MCU_ST_STM8"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-MCU_ST_STM8-STM8L101F3U"
+    ],
+    "oompIndex": [
+        "STM8L101F3U"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.st.com/resource/en/datasheet/stm8l101f1.pdf",
+                "kicadSymbolExtends": "STM8L101F1U",
+                "kicadSymbolFootprint": "Package_DFN_QFN:ST_UFQFPN-20_3x3mm_P0.5mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "STM8L101F3U",
+                "kicadSymbolki_description": "16MHz, 8K Flash, 1.5K RAM, 2K EEPROM, USART,  I\u00b2C, SPI, ADC, UFQFPN-20",
+                "kicadSymbolki_fp_filters": "ST?UFQFPN*3x3mm*P0.5mm*",
+                "kicadSymbolki_keywords": "STM8L Microcontroller Value Line Low Power"
+            }
+        ]
+    ]
+}

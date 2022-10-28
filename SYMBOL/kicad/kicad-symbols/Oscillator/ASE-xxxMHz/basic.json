@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKOCSASEXXXMHZ"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Oscillator : ASE-xxxMHz"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Oscillator"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Oscillator-ASE-xxxMHz"
+    ],
+    "oompIndex": [
+        "ASE-xxxMHz"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.abracon.com/Oscillators/ASV.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Oscillator:Oscillator_SMD_Abracon_ASE-4Pin_3.2x2.5mm",
+                "kicadSymbolReference": "X",
+                "kicadSymbolValue": "ASE-xxxMHz",
+                "kicadSymbolki_description": "3.3V CMOS SMD Crystal Clock Oscillator, Abracon",
+                "kicadSymbolki_fp_filters": "Oscillator*SMD*Abracon*ASE*3.2x2.5mm*",
+                "kicadSymbolki_keywords": "3.3V CMOS SMD Crystal Clock Oscillator"
+            }
+        ]
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKMCUPARALLAXP8X32AM44"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "MCU_Parallax : P8X32A-M44"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "MCU_Parallax"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-MCU_Parallax-P8X32A-M44"
+    ],
+    "oompIndex": [
+        "P8X32A-M44"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.parallax.com/sites/default/files/downloads/P8X32A-Propeller-Datasheet-v1.4.0_0.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_DFN_QFN:QFN-44-1EP_9x9mm_P0.65mm_EP7.5x7.5mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "P8X32A-M44",
+                "kicadSymbolki_description": "Parallax Propeller 8 core, 32 bit, 80 MHz microcontroller, 3.3VDC, 44-pin QFN",
+                "kicadSymbolki_fp_filters": "QFN*44*1EP*9x9mm*P0.65mm*",
+                "kicadSymbolki_keywords": "microcontroller multicore Parallax Propeller QFN"
+            }
+        ]
+    ]
+}

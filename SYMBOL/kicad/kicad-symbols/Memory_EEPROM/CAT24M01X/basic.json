@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKMEMORYEEPROMCAT24M1X"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Memory_EEPROM : CAT24M01X"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Memory_EEPROM"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Memory_EEPROM-CAT24M01X"
+    ],
+    "oompIndex": [
+        "CAT24M01X"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.onsemi.com/pub/Collateral/CAT24M01-D.PDF",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_SO:SOIC-8W_5.3x5.3mm_P1.27mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "CAT24M01X",
+                "kicadSymbolki_description": "1 Mb I2C CMOS Serial EEPROM, SOIC-8W",
+                "kicadSymbolki_fp_filters": "SOIC*5.3x5.3mm*P1.27mm*",
+                "kicadSymbolki_keywords": "EEPROM 1Mb I2C"
+            }
+        ]
+    ]
+}

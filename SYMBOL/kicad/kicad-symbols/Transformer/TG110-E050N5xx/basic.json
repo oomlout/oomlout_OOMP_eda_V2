@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKTRTG11E5N5XX"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Transformer : TG110-E050N5xx"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Transformer"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Transformer-TG110-E050N5xx"
+    ],
+    "oompIndex": [
+        "TG110-E050N5xx"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.haloelectronics.com/pdf/discrete-ultra-100baset.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Transformer_SMD:Transformer_Ethernet_Halo_N5_SO-16_7.11x12.7mm",
+                "kicadSymbolReference": "TR",
+                "kicadSymbolValue": "TG110-E050N5xx",
+                "kicadSymbolki_description": "Ethernet LAN 10/100 Base-Tx Transformer",
+                "kicadSymbolki_fp_filters": "Transformer*Ethernet*Halo*N5*",
+                "kicadSymbolki_keywords": "single port ethernet transformer"
+            }
+        ]
+    ]
+}

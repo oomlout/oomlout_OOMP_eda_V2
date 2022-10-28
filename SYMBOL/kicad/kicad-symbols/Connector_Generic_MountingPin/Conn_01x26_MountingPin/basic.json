@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKCNGENERICMOUNTINGPINCONN1X26MOUNTINGPIN"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Connector_Generic_MountingPin : Conn_01x26_MountingPin"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Connector_Generic_MountingPin"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Connector_Generic_MountingPin-Conn_01x26_MountingPin"
+    ],
+    "oompIndex": [
+        "Conn_01x26_MountingPin"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "~",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "",
+                "kicadSymbolReference": "J",
+                "kicadSymbolValue": "Conn_01x26_MountingPin",
+                "kicadSymbolki_description": "Generic connectable mounting pin connector, single row, 01x26, script generated (kicad-library-utils/schlib/autogen/connector/)",
+                "kicadSymbolki_fp_filters": "Connector*:*_1x??-1MP*",
+                "kicadSymbolki_keywords": "connector"
+            }
+        ]
+    ]
+}

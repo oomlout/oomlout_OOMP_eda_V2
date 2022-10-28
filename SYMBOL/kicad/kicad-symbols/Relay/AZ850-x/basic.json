@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKRELAYAZ85X"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Relay : AZ850-x"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Relay"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Relay-AZ850-x"
+    ],
+    "oompIndex": [
+        "AZ850-x"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.azettler.com/pdfs/az850.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Relay_THT:Relay_DPDT_FRT5",
+                "kicadSymbolReference": "K",
+                "kicadSymbolValue": "AZ850-x",
+                "kicadSymbolki_description": "American Zettler, Microminiature Polarised Dual Pole Relay",
+                "kicadSymbolki_fp_filters": "Relay*DPDT*FRT5*",
+                "kicadSymbolki_keywords": "Miniature Polarised Relay Dual Pole"
+            }
+        ]
+    ]
+}

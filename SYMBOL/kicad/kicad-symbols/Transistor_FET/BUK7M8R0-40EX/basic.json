@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKTRANSISTORFETBUK7M8R4EX"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Transistor_FET : BUK7M8R0-40EX"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Transistor_FET"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Transistor_FET-BUK7M8R0-40EX"
+    ],
+    "oompIndex": [
+        "BUK7M8R0-40EX"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://assets.nexperia.com/documents/data-sheet/BUK7M8R0-40E.pdf",
+                "kicadSymbolExtends": "BUK9M53-60EX",
+                "kicadSymbolFootprint": "Package_TO_SOT_SMD:LFPAK33",
+                "kicadSymbolReference": "Q",
+                "kicadSymbolValue": "BUK7M8R0-40EX",
+                "kicadSymbolki_description": "69A Id, 40V Vds, N-Channel TrenchMOS MOSFET, 8mOhm Ron, 23.8nC Qqd, -55 to 175 \u00b0C, LFPAK33",
+                "kicadSymbolki_fp_filters": "LFPAK33*",
+                "kicadSymbolki_keywords": "Power MOSFET N-MOS"
+            }
+        ]
+    ]
+}

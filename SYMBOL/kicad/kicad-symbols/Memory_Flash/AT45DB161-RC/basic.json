@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKMEMORYFLASHAT45DB161RC"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Memory_Flash : AT45DB161-RC"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Memory_Flash"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Memory_Flash-AT45DB161-RC"
+    ],
+    "oompIndex": [
+        "AT45DB161-RC"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://ww1.microchip.com/downloads/en/devicedoc/doc0807.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_SO:SOIC-28W_8.7x18.25mm_P1.27mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "AT45DB161-RC",
+                "kicadSymbolki_description": "16Mb Serial DataFlash, 2.7V Vcc, SOIC-28",
+                "kicadSymbolki_fp_filters": "SOIC?28*8.7x18.25mm*P1.27mm*",
+                "kicadSymbolki_keywords": "Atmel DataFlash"
+            }
+        ]
+    ]
+}

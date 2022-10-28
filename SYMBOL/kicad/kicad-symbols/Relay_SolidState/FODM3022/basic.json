@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKRELAYSOLIDSTATEFODM322"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Relay_SolidState : FODM3022"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Relay_SolidState"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Relay_SolidState-FODM3022"
+    ],
+    "oompIndex": [
+        "FODM3022"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.onsemi.com/pub/Collateral/FODM3053_NF098-D.PDF",
+                "kicadSymbolExtends": "FODM3011",
+                "kicadSymbolFootprint": "Package_DIP:SMDIP-4_W7.62mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "FODM3022",
+                "kicadSymbolki_description": "Full Pitch Mini-Flat Random Phase Opto-Triac, Vdrm 400V, Ift 10mA, MFP 4L",
+                "kicadSymbolki_fp_filters": "SMDIP*W7.62mm*",
+                "kicadSymbolki_keywords": "Opto-Triac Opto Triac Random Phase Mini-Flat"
+            }
+        ]
+    ]
+}

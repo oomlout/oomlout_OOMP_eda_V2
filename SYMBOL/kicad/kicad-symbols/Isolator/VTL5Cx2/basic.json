@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKISOLATORVTL5CX2"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Isolator : VTL5Cx2"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Isolator"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Isolator-VTL5Cx2"
+    ],
+    "oompIndex": [
+        "VTL5Cx2"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.alliedelec.com/m/d/ecb1ed91959ae54d97cf67f5103d9b2b.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "OptoDevice:PerkinElmer_VTL5Cx2",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "VTL5Cx2",
+                "kicadSymbolki_description": "Dual Element Axial Vactrols",
+                "kicadSymbolki_fp_filters": "PerkinElmer*VTL5C*",
+                "kicadSymbolki_keywords": "vactrol"
+            }
+        ]
+    ]
+}

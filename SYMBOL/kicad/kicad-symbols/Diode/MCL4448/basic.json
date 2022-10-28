@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKDIODEMCL4448"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Diode : MCL4448"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Diode"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Diode-MCL4448"
+    ],
+    "oompIndex": [
+        "MCL4448"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.vishay.com/docs/85566/mlc4148.pdf",
+                "kicadSymbolExtends": "MCL4148",
+                "kicadSymbolFootprint": "Diode_SMD:D_MicroMELF",
+                "kicadSymbolReference": "D",
+                "kicadSymbolValue": "MCL4448",
+                "kicadSymbolki_description": "75V 0.2A Switching Diode, MicroMELF",
+                "kicadSymbolki_fp_filters": "D*MicroMELF*",
+                "kicadSymbolki_keywords": "diode"
+            }
+        ]
+    ]
+}

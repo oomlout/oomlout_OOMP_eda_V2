@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKCONHLKPM24"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Converter_ACDC : HLK-PM24"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Converter_ACDC"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Converter_ACDC-HLK-PM24"
+    ],
+    "oompIndex": [
+        "HLK-PM24"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.hlktech.net/product_detail.php?ProId=81",
+                "kicadSymbolExtends": "HLK-PM01",
+                "kicadSymbolFootprint": "Converter_ACDC:Converter_ACDC_HiLink_HLK-PMxx",
+                "kicadSymbolReference": "PS",
+                "kicadSymbolValue": "HLK-PM24",
+                "kicadSymbolki_description": "Compact AC/DC board mount power module 3W 24V",
+                "kicadSymbolki_fp_filters": "Converter*ACDC*HiLink*HLK?PM*",
+                "kicadSymbolki_keywords": "AC/DC module power supply"
+            }
+        ]
+    ]
+}

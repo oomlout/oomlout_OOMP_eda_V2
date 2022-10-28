@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKCPUPOWERPCMPC8641D"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "CPU_PowerPC : MPC8641D"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "CPU_PowerPC"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-CPU_PowerPC-MPC8641D"
+    ],
+    "oompIndex": [
+        "MPC8641D"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "MPC8641D",
+                "kicadSymbolki_description": "Freescale PowerPC E600 core, package BGA1023 pins pitch 1mm",
+                "kicadSymbolki_keywords": "POWERPC",
+                "kicadSymbolki_locked": ""
+            }
+        ]
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKTRANSISTORPOWERMOFS75R7N2E4"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Transistor_Power_Module : FS75R07N2E4"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Transistor_Power_Module"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Transistor_Power_Module-FS75R07N2E4"
+    ],
+    "oompIndex": [
+        "FS75R07N2E4"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.infineon.com/dgdl/Infineon-FS75R07N2E4-DS-v02_00-en_de.pdf?fileId=db3a30432f5008fe012f52f916333979",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Transistor_Power_Module:Infineon_AG-ECONO2",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "FS75R07N2E4",
+                "kicadSymbolki_description": "75A, 650V, 250W , 3-phase, Freewheeling Diode, 5k NTC, AG-Econo2",
+                "kicadSymbolki_fp_filters": "*Infineon*AG*ECONO2*",
+                "kicadSymbolki_keywords": "IGBT Power Module Trench Field Stop Technology"
+            }
+        ]
+    ]
+}

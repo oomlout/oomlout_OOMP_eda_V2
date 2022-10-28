@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKFILSAFFA881MFLFA"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Filter : SAFFA881MFL0F0A"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Filter"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Filter-SAFFA881MFL0F0A"
+    ],
+    "oompIndex": [
+        "SAFFA881MFL0F0A"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.murata.com/~/media/webrenewal/support/library/catalog/products/filter/rf/p73e.ashx?la=en",
+                "kicadSymbolExtends": "SF14-1575F5UUA1",
+                "kicadSymbolFootprint": "Filter:Filter_1411-5_1.4x1.1mm",
+                "kicadSymbolReference": "FL",
+                "kicadSymbolValue": "SAFFA881MFL0F0A",
+                "kicadSymbolki_description": "Murata 881.5MHz SAW filter, SMD 1411",
+                "kicadSymbolki_fp_filters": "Filter*1411*1.4x1.1mm*",
+                "kicadSymbolki_keywords": "SAW filter"
+            }
+        ]
+    ]
+}

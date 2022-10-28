@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKPOWERPROTECTIONTPD4EU3"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Power_Protection : TPD4EUSB30"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Power_Protection"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Power_Protection-TPD4EUSB30"
+    ],
+    "oompIndex": [
+        "TPD4EUSB30"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "http://www.ti.com/lit/ds/symlink/tpd2eusb30a.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_SON:USON-10_2.5x1.0mm_P0.5mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "TPD4EUSB30",
+                "kicadSymbolki_description": "4-Channel ESD Protection for Super-Speed USB 3.0 Interface, USON-10",
+                "kicadSymbolki_fp_filters": "USON*2.5x1.0mm*P0.5mm*",
+                "kicadSymbolki_keywords": "ESD protection USB 3.0"
+            }
+        ]
+    ]
+}

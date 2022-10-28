@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKVANOS6418"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Valve : NOS-6418"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Valve"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Valve-NOS-6418"
+    ],
+    "oompIndex": [
+        "NOS-6418"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://frank.pocnet.net/sheets/127/6/6418.pdf",
+                "kicadSymbolExtends": "CK6418",
+                "kicadSymbolFootprint": "Valve:Valve_Mini_Pentode_Linear",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "NOS-6418",
+                "kicadSymbolki_description": "Subminiature Pentode",
+                "kicadSymbolki_fp_filters": "VALVE*MINI*PENTODE*LINEAR*",
+                "kicadSymbolki_keywords": "subminiature pentode valve"
+            }
+        ]
+    ]
+}
