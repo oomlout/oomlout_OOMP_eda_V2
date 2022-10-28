@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # FZKRFSKYWORKSSKY13575639LF > RF : Skyworks_SKY13575_639LF
 
 - ID: FOOTPRINT-kicad-kicad-footprints-RF-Skyworks_SKY13575_639LF
@@ -13,8 +13,9 @@ NO IMAGE
 - Short Link: [http://oom.lt/FZKRFSKYWORKSSKY13575639LF](http://oom.lt/FZKRFSKYWORKSSKY13575639LF)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/RF/Skyworks_SKY13575_639LF/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/RF/Skyworks_SKY13575_639LF/image.png)||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/RF/Skyworks_SKY13575_639LF/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/RF/Skyworks_SKY13575_639LF/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/RF/Skyworks_SKY13575_639LF/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/RF/Skyworks_SKY13575_639LF/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/RF/Skyworks_SKY13575_639LF/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/RF/Skyworks_SKY13575_639LF/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/RF/Skyworks_SKY13575_639LF/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/RF/Skyworks_SKY13575_639LF/kicadPcb3d.png)|
 | :---: | :---: | :---: | :---: |
+|||||
 
 ## Tags
   
@@ -31,3 +32,7 @@ NO IMAGE
 |name|name|RF : Skyworks_SKY13575_639LF|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Skyworks_SKY13575_639LF'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//www.skyworksinc.com/uploads/documents/SKY13575_639LF_203270D.pdf'</td><td> 'tags'</td></tr><tr><td> 'Skyworks'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/RF.3dshapes/Skyworks_SKY13575_639LF.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
+
+
+
+[im]: FOOTPRINT/kicad/kicad-footprints/RF/Skyworks_SKY13575_639LF/kicadPcb3d_450.png

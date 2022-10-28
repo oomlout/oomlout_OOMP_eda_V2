@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # FZKGPSUBLOXLEA > RF_GPS : ublox_LEA
 
 - ID: FOOTPRINT-kicad-kicad-footprints-RF_GPS-ublox_LEA
@@ -13,8 +13,9 @@ NO IMAGE
 - Short Link: [http://oom.lt/FZKGPSUBLOXLEA](http://oom.lt/FZKGPSUBLOXLEA)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/RF_GPS/ublox_LEA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/RF_GPS/ublox_LEA/image.png)||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/RF_GPS/ublox_LEA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/RF_GPS/ublox_LEA/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/RF_GPS/ublox_LEA/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/RF_GPS/ublox_LEA/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/RF_GPS/ublox_LEA/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/RF_GPS/ublox_LEA/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/RF_GPS/ublox_LEA/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/RF_GPS/ublox_LEA/kicadPcb3d.png)|
 | :---: | :---: | :---: | :---: |
+|||||
 
 ## Tags
   
@@ -31,3 +32,7 @@ NO IMAGE
 |name|name|RF_GPS : ublox_LEA|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'ublox_LEA'</td><td> 'description'</td></tr><tr><td> 'ublox LEA 6/7/8</td><td> (https</td></tr><tr><td>//www.u-blox.com/sites/default/files/LEA-M8S-M8T-FW3_HardwareIntegrationManual_%28UBX-15030060%29.pdf)'</td><td> 'tags'</td></tr><tr><td> 'GPS ublox LEA 6/7/8'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/RF_GPS.3dshapes/ublox_LEA.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
+
+
+
+[im]: FOOTPRINT/kicad/kicad-footprints/RF_GPS/ublox_LEA/kicadPcb3d_450.png

@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # FZKSZPOLARITYCENTERNEGATIVE8SILKSCREEN > Symbol : Polarity_Center_Negative_8mm_SilkScreen
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Symbol-Polarity_Center_Negative_8mm_SilkScreen
@@ -13,8 +13,9 @@ NO IMAGE
 - Short Link: [http://oom.lt/FZKSZPOLARITYCENTERNEGATIVE8SILKSCREEN](http://oom.lt/FZKSZPOLARITYCENTERNEGATIVE8SILKSCREEN)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Symbol/Polarity_Center_Negative_8mm_SilkScreen/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Symbol/Polarity_Center_Negative_8mm_SilkScreen/image.png)||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Symbol/Polarity_Center_Negative_8mm_SilkScreen/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Symbol/Polarity_Center_Negative_8mm_SilkScreen/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Symbol/Polarity_Center_Negative_8mm_SilkScreen/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Symbol/Polarity_Center_Negative_8mm_SilkScreen/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Symbol/Polarity_Center_Negative_8mm_SilkScreen/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Symbol/Polarity_Center_Negative_8mm_SilkScreen/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Symbol/Polarity_Center_Negative_8mm_SilkScreen/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Symbol/Polarity_Center_Negative_8mm_SilkScreen/kicadPcb3d.png)|
 | :---: | :---: | :---: | :---: |
+|||||
 
 ## Tags
   
@@ -31,3 +32,7 @@ NO IMAGE
 |name|name|Symbol : Polarity_Center_Negative_8mm_SilkScreen|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Polarity_Center_Negative_8mm_SilkScreen'</td><td> 'description'</td></tr><tr><td> 'Polarity Logo</td><td> Center Negative'</td><td> 'tags'</td></tr><tr><td> 'Logo Polarity Center Negative'</td><td> 'attributeType'</td></tr><tr><td> None</td><td> 'pins'</td></tr><tr><td> <table><tr><td></td></tr></table></td></tr></table>|
 ||||
+
+
+
+[im]: FOOTPRINT/kicad/kicad-footprints/Symbol/Polarity_Center_Negative_8mm_SilkScreen/kicadPcb3d_450.png

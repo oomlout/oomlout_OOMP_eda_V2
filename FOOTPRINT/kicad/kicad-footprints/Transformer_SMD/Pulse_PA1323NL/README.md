@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # FZKTRSMPULSEPA1323NL > Transformer_SMD : Pulse_PA1323NL
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Transformer_SMD-Pulse_PA1323NL
@@ -13,8 +13,9 @@ NO IMAGE
 - Short Link: [http://oom.lt/FZKTRSMPULSEPA1323NL](http://oom.lt/FZKTRSMPULSEPA1323NL)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Transformer_SMD/Pulse_PA1323NL/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Transformer_SMD/Pulse_PA1323NL/image.png)||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Transformer_SMD/Pulse_PA1323NL/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Transformer_SMD/Pulse_PA1323NL/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Transformer_SMD/Pulse_PA1323NL/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Transformer_SMD/Pulse_PA1323NL/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Transformer_SMD/Pulse_PA1323NL/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Transformer_SMD/Pulse_PA1323NL/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Transformer_SMD/Pulse_PA1323NL/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Transformer_SMD/Pulse_PA1323NL/kicadPcb3d.png)|
 | :---: | :---: | :---: | :---: |
+|||||
 
 ## Tags
   
@@ -31,3 +32,7 @@ NO IMAGE
 |name|name|Transformer_SMD : Pulse_PA1323NL|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Pulse_PA1323NL'</td><td> 'description'</td></tr><tr><td> 'SMT Gate Drive Transformer</td><td> 1</td></tr><tr><td>1</td><td> 9.5x7.1x5.3mm (https</td></tr><tr><td>//productfinder.pulseeng.com/products/datasheets/SPM2007_61.pdf)'</td><td> 'tags'</td></tr><tr><td> 'pulse pa1323nl'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Transformer_SMD.3dshapes/Pulse_PA1323NL.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
+
+
+
+[im]: FOOTPRINT/kicad/kicad-footprints/Transformer_SMD/Pulse_PA1323NL/kicadPcb3d_450.png

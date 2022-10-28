@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # FZKTBTBALTECHAK34P5 > TerminalBlock : TerminalBlock_Altech_AK300-4_P5.00mm
 
 - ID: FOOTPRINT-kicad-kicad-footprints-TerminalBlock-TerminalBlock_Altech_AK300-4_P5.00mm
@@ -13,8 +13,9 @@ NO IMAGE
 - Short Link: [http://oom.lt/FZKTBTBALTECHAK34P5](http://oom.lt/FZKTBTBALTECHAK34P5)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock/TerminalBlock_Altech_AK300-4_P5.00mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock/TerminalBlock_Altech_AK300-4_P5.00mm/image.png)||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock/TerminalBlock_Altech_AK300-4_P5.00mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock/TerminalBlock_Altech_AK300-4_P5.00mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock/TerminalBlock_Altech_AK300-4_P5.00mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock/TerminalBlock_Altech_AK300-4_P5.00mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock/TerminalBlock_Altech_AK300-4_P5.00mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock/TerminalBlock_Altech_AK300-4_P5.00mm/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock/TerminalBlock_Altech_AK300-4_P5.00mm/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock/TerminalBlock_Altech_AK300-4_P5.00mm/kicadPcb3d.png)|
 | :---: | :---: | :---: | :---: |
+|||||
 
 ## Tags
   
@@ -31,3 +32,7 @@ NO IMAGE
 |name|name|TerminalBlock : TerminalBlock_Altech_AK300-4_P5.00mm|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'TerminalBlock_Altech_AK300-4_P5.00mm'</td><td> 'description'</td></tr><tr><td> 'Altech AK300 terminal block</td><td> pitch 5.0mm</td><td> 45 degree angled</td><td> see http</td></tr><tr><td>//www.mouser.com/ds/2/16/PCBMETRC-24178.pdf'</td><td> 'tags'</td></tr><tr><td> 'Altech AK300 terminal block pitch 5.0mm'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/TerminalBlock.3dshapes/TerminalBlock_Altech_AK300-4_P5.00mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
+
+
+
+[im]: FOOTPRINT/kicad/kicad-footprints/TerminalBlock/TerminalBlock_Altech_AK300-4_P5.00mm/kicadPcb3d_450.png

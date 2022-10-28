@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # FZKRFTEXASSWRA416868MHZ915MHZ > RF_Antenna : Texas_SWRA416_868MHz_915MHz
 
 - ID: FOOTPRINT-kicad-kicad-footprints-RF_Antenna-Texas_SWRA416_868MHz_915MHz
@@ -13,8 +13,9 @@ NO IMAGE
 - Short Link: [http://oom.lt/FZKRFTEXASSWRA416868MHZ915MHZ](http://oom.lt/FZKRFTEXASSWRA416868MHZ915MHZ)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/RF_Antenna/Texas_SWRA416_868MHz_915MHz/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/RF_Antenna/Texas_SWRA416_868MHz_915MHz/image.png)||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/RF_Antenna/Texas_SWRA416_868MHz_915MHz/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/RF_Antenna/Texas_SWRA416_868MHz_915MHz/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/RF_Antenna/Texas_SWRA416_868MHz_915MHz/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/RF_Antenna/Texas_SWRA416_868MHz_915MHz/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/RF_Antenna/Texas_SWRA416_868MHz_915MHz/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/RF_Antenna/Texas_SWRA416_868MHz_915MHz/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/RF_Antenna/Texas_SWRA416_868MHz_915MHz/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/RF_Antenna/Texas_SWRA416_868MHz_915MHz/kicadPcb3d.png)|
 | :---: | :---: | :---: | :---: |
+|||||
 
 ## Tags
   
@@ -31,3 +32,7 @@ NO IMAGE
 |name|name|RF_Antenna : Texas_SWRA416_868MHz_915MHz|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Texas_SWRA416_868MHz_915MHz'</td><td> 'description'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/an/swra416/swra416.pdf'</td><td> 'tags'</td></tr><tr><td> 'PCB antenna'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'circle'</td></tr></table></td></tr></table>|
 ||||
+
+
+
+[im]: FOOTPRINT/kicad/kicad-footprints/RF_Antenna/Texas_SWRA416_868MHz_915MHz/kicadPcb3d_450.png

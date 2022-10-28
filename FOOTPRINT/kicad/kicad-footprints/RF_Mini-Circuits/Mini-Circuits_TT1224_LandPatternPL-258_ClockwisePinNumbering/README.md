@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # FZKRFMCIRCUITSTT1224LANDPATTERNPL258CLWISEPINNUMBERING > RF_Mini-Circuits : Mini-Circuits_TT1224_LandPatternPL-258_ClockwisePinNumbering
 
 - ID: FOOTPRINT-kicad-kicad-footprints-RF_Mini-Circuits-Mini-Circuits_TT1224_LandPatternPL-258_ClockwisePinNumbering
@@ -13,8 +13,9 @@ NO IMAGE
 - Short Link: [http://oom.lt/FZKRFMCIRCUITSTT1224LANDPATTERNPL258CLWISEPINNUMBERING](http://oom.lt/FZKRFMCIRCUITSTT1224LANDPATTERNPL258CLWISEPINNUMBERING)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/RF_Mini-Circuits/Mini-Circuits_TT1224_LandPatternPL-258_ClockwisePinNumbering/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/RF_Mini-Circuits/Mini-Circuits_TT1224_LandPatternPL-258_ClockwisePinNumbering/image.png)||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/RF_Mini-Circuits/Mini-Circuits_TT1224_LandPatternPL-258_ClockwisePinNumbering/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/RF_Mini-Circuits/Mini-Circuits_TT1224_LandPatternPL-258_ClockwisePinNumbering/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/RF_Mini-Circuits/Mini-Circuits_TT1224_LandPatternPL-258_ClockwisePinNumbering/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/RF_Mini-Circuits/Mini-Circuits_TT1224_LandPatternPL-258_ClockwisePinNumbering/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/RF_Mini-Circuits/Mini-Circuits_TT1224_LandPatternPL-258_ClockwisePinNumbering/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/RF_Mini-Circuits/Mini-Circuits_TT1224_LandPatternPL-258_ClockwisePinNumbering/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/RF_Mini-Circuits/Mini-Circuits_TT1224_LandPatternPL-258_ClockwisePinNumbering/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/RF_Mini-Circuits/Mini-Circuits_TT1224_LandPatternPL-258_ClockwisePinNumbering/kicadPcb3d.png)|
 | :---: | :---: | :---: | :---: |
+|||||
 
 ## Tags
   
@@ -31,3 +32,7 @@ NO IMAGE
 |name|name|RF_Mini-Circuits : Mini-Circuits_TT1224_LandPatternPL-258_ClockwisePinNumbering|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Mini-Circuits_TT1224_LandPatternPL-258_ClockwisePinNumbering'</td><td> 'description'</td></tr><tr><td> 'Footprint for Mini-Circuits case TT1224 (https</td></tr><tr><td>//ww2.minicircuits.com/case_style/TT1224.pdf) following land-pattern PL-258</td><td> including GND-vias (https</td></tr><tr><td>//www.minicircuits.com/pcb/98-pl258.pdf)'</td><td> 'tags'</td></tr><tr><td> 'PL-258 Mini-Circuits'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/RF_Mini-Circuits.3dshapes/Mini-Circuits_TT1224.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
+
+
+
+[im]: FOOTPRINT/kicad/kicad-footprints/RF_Mini-Circuits/Mini-Circuits_TT1224_LandPatternPL-258_ClockwisePinNumbering/kicadPcb3d_450.png

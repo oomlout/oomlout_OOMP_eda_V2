@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # FZKSENCURRENTALLEGROQS2439X87P635 > Sensor_Current : Allegro_QSOP-24_3.9x8.7mm_P0.635mm
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Sensor_Current-Allegro_QSOP-24_3.9x8.7mm_P0.635mm
@@ -13,8 +13,9 @@ NO IMAGE
 - Short Link: [http://oom.lt/FZKSENCURRENTALLEGROQS2439X87P635](http://oom.lt/FZKSENCURRENTALLEGROQS2439X87P635)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Current/Allegro_QSOP-24_3.9x8.7mm_P0.635mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Current/Allegro_QSOP-24_3.9x8.7mm_P0.635mm/image.png)||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Current/Allegro_QSOP-24_3.9x8.7mm_P0.635mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Current/Allegro_QSOP-24_3.9x8.7mm_P0.635mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Current/Allegro_QSOP-24_3.9x8.7mm_P0.635mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Current/Allegro_QSOP-24_3.9x8.7mm_P0.635mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Current/Allegro_QSOP-24_3.9x8.7mm_P0.635mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Current/Allegro_QSOP-24_3.9x8.7mm_P0.635mm/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Current/Allegro_QSOP-24_3.9x8.7mm_P0.635mm/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Current/Allegro_QSOP-24_3.9x8.7mm_P0.635mm/kicadPcb3d.png)|
 | :---: | :---: | :---: | :---: |
+|||||
 
 ## Tags
   
@@ -31,3 +32,7 @@ NO IMAGE
 |name|name|Sensor_Current : Allegro_QSOP-24_3.9x8.7mm_P0.635mm|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Allegro_QSOP-24_3.9x8.7mm_P0.635mm'</td><td> 'description'</td></tr><tr><td> 'Allegro Microsystems 24-Lead Plastic Shrink Small Outline Narrow Body Body [QSOP] (http</td></tr><tr><td>//www.allegromicro.com/~/media/Files/Datasheets/ACS726-Datasheet.ashx?la=en)'</td><td> 'tags'</td></tr><tr><td> 'Allegro QSOP 0.635'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Package_SO.3dshapes/QSOP-24_3.9x8.7mm_P0.635mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
+
+
+
+[im]: FOOTPRINT/kicad/kicad-footprints/Sensor_Current/Allegro_QSOP-24_3.9x8.7mm_P0.635mm/kicadPcb3d_450.png

@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # FZKSENWINSONGM42B5X5P127 > Sensor : Winson_GM-402B_5x5mm_P1.27mm
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Sensor-Winson_GM-402B_5x5mm_P1.27mm
@@ -13,8 +13,9 @@ NO IMAGE
 - Short Link: [http://oom.lt/FZKSENWINSONGM42B5X5P127](http://oom.lt/FZKSENWINSONGM42B5X5P127)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Sensor/Winson_GM-402B_5x5mm_P1.27mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Sensor/Winson_GM-402B_5x5mm_P1.27mm/image.png)||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Sensor/Winson_GM-402B_5x5mm_P1.27mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Sensor/Winson_GM-402B_5x5mm_P1.27mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Sensor/Winson_GM-402B_5x5mm_P1.27mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Sensor/Winson_GM-402B_5x5mm_P1.27mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Sensor/Winson_GM-402B_5x5mm_P1.27mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Sensor/Winson_GM-402B_5x5mm_P1.27mm/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Sensor/Winson_GM-402B_5x5mm_P1.27mm/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Sensor/Winson_GM-402B_5x5mm_P1.27mm/kicadPcb3d.png)|
 | :---: | :---: | :---: | :---: |
+|||||
 
 ## Tags
   
@@ -31,3 +32,7 @@ NO IMAGE
 |name|name|Sensor : Winson_GM-402B_5x5mm_P1.27mm|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Winson_GM-402B_5x5mm_P1.27mm'</td><td> 'description'</td></tr><tr><td> 'Winson GM-402B</td><td> 8 Pin (https</td></tr><tr><td>//www.winsen-sensor.com/d/files/me2/mems--gm-402b--manual-v1_1.pdf)'</td><td> 'tags'</td></tr><tr><td> 'Winson'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Sensor.3dshapes/Winson_GM-402B_5x5mm_P1.27mm.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
+
+
+
+[im]: FOOTPRINT/kicad/kicad-footprints/Sensor/Winson_GM-402B_5x5mm_P1.27mm/kicadPcb3d_450.png

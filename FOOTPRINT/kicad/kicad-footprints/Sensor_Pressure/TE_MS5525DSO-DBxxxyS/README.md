@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # FZKSENPRESSURETEMS5525DSODBXXXYS > Sensor_Pressure : TE_MS5525DSO-DBxxxyS
 
 - ID: FOOTPRINT-kicad-kicad-footprints-Sensor_Pressure-TE_MS5525DSO-DBxxxyS
@@ -13,8 +13,9 @@ NO IMAGE
 - Short Link: [http://oom.lt/FZKSENPRESSURETEMS5525DSODBXXXYS](http://oom.lt/FZKSENPRESSURETEMS5525DSODBXXXYS)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Pressure/TE_MS5525DSO-DBxxxyS/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Pressure/TE_MS5525DSO-DBxxxyS/image.png)||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Pressure/TE_MS5525DSO-DBxxxyS/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Pressure/TE_MS5525DSO-DBxxxyS/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Pressure/TE_MS5525DSO-DBxxxyS/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Pressure/TE_MS5525DSO-DBxxxyS/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Pressure/TE_MS5525DSO-DBxxxyS/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Pressure/TE_MS5525DSO-DBxxxyS/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Pressure/TE_MS5525DSO-DBxxxyS/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Pressure/TE_MS5525DSO-DBxxxyS/kicadPcb3d.png)|
 | :---: | :---: | :---: | :---: |
+|||||
 
 ## Tags
   
@@ -31,3 +32,7 @@ NO IMAGE
 |name|name|Sensor_Pressure : TE_MS5525DSO-DBxxxyS|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'TE_MS5525DSO-DBxxxyS'</td><td> 'description'</td></tr><tr><td> 'Pressure Sensor</td><td> Dual-Barbed</td><td> https</td></tr><tr><td>//www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=MS5525DSO&DocType=DS&DocLang=English'</td><td> 'tags'</td></tr><tr><td> 'Pressure DualBarbed'</td><td> 'attributeType'</td></tr><tr><td> 'smd'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/Sensor_Pressure.3dshapes/TE_MS5525DSO-DBxxxyS.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'smd'</td><td> 'shape'</td></tr><tr><td> 'roundrect'</td></tr></table></td></tr></table>|
 ||||
+
+
+
+[im]: FOOTPRINT/kicad/kicad-footprints/Sensor_Pressure/TE_MS5525DSO-DBxxxyS/kicadPcb3d_450.png

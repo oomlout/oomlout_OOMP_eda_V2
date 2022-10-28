@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # FZKTBALTECHALTECHAK31X11P545DEGREE > TerminalBlock_Altech : Altech_AK300_1x11_P5.00mm_45-Degree
 
 - ID: FOOTPRINT-kicad-kicad-footprints-TerminalBlock_Altech-Altech_AK300_1x11_P5.00mm_45-Degree
@@ -13,8 +13,9 @@ NO IMAGE
 - Short Link: [http://oom.lt/FZKTBALTECHALTECHAK31X11P545DEGREE](http://oom.lt/FZKTBALTECHALTECHAK31X11P545DEGREE)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_Altech/Altech_AK300_1x11_P5.00mm_45-Degree/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_Altech/Altech_AK300_1x11_P5.00mm_45-Degree/image.png)||||
+|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_Altech/Altech_AK300_1x11_P5.00mm_45-Degree/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_Altech/Altech_AK300_1x11_P5.00mm_45-Degree/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_Altech/Altech_AK300_1x11_P5.00mm_45-Degree/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_Altech/Altech_AK300_1x11_P5.00mm_45-Degree/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_Altech/Altech_AK300_1x11_P5.00mm_45-Degree/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_Altech/Altech_AK300_1x11_P5.00mm_45-Degree/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_Altech/Altech_AK300_1x11_P5.00mm_45-Degree/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_Altech/Altech_AK300_1x11_P5.00mm_45-Degree/kicadPcb3d.png)|
 | :---: | :---: | :---: | :---: |
+|||||
 
 ## Tags
   
@@ -31,3 +32,7 @@ NO IMAGE
 |name|name|TerminalBlock_Altech : Altech_AK300_1x11_P5.00mm_45-Degree|
 |Footprint Kicad|footprintKicadDetails|<table><tr><td>'name'</td></tr><tr><td> 'Altech_AK300_1x11_P5.00mm_45-Degree'</td><td> 'description'</td></tr><tr><td> 'Altech AK300 serie terminal block (Script generated with StandardBox.py) (http</td></tr><tr><td>//www.altechcorp.com/PDFS/PCBMETRC.PDF)'</td><td> 'tags'</td></tr><tr><td> 'Altech AK300 serie connector'</td><td> 'attributeType'</td></tr><tr><td> 'through_hole'</td><td> 'threeDModel'</td></tr><tr><td> '$<table><tr><td>KICAD6_3DMODEL_DIR</td></tr></table>/TerminalBlock_Altech.3dshapes/Altech_AK300_1x11_P5.00mm_45-Degree.wrl'</td><td> 'pins'</td></tr><tr><td> <table><tr><td>'type'</td></tr><tr><td> 'thru_hole'</td><td> 'shape'</td></tr><tr><td> 'rect'</td></tr></table></td></tr></table>|
 ||||
+
+
+
+[im]: FOOTPRINT/kicad/kicad-footprints/TerminalBlock_Altech/Altech_AK300_1x11_P5.00mm_45-Degree/kicadPcb3d_450.png
