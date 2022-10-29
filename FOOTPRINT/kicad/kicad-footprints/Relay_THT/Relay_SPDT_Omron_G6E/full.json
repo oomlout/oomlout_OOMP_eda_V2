@@ -55,6 +55,9 @@
         "jsonBasic": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_SPDT_Omron_G6E/basic.json"
         ],
+        "jsonFull": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_SPDT_Omron_G6E/full.json"
+        ],
         "kicadPcb3d": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_SPDT_Omron_G6E/kicadPcb3d.png"
         ],

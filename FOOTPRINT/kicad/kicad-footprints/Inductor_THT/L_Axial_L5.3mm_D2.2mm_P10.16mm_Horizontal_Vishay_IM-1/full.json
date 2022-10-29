@@ -55,6 +55,9 @@
         "jsonBasic": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L5.3mm_D2.2mm_P10.16mm_Horizontal_Vishay_IM-1/basic.json"
         ],
+        "jsonFull": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L5.3mm_D2.2mm_P10.16mm_Horizontal_Vishay_IM-1/full.json"
+        ],
         "kicadPcb3d": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L5.3mm_D2.2mm_P10.16mm_Horizontal_Vishay_IM-1/kicadPcb3d.png"
         ],

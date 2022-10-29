@@ -55,6 +55,9 @@
         "jsonBasic": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_Socket_DPDT_Finder_96.12/basic.json"
         ],
+        "jsonFull": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_Socket_DPDT_Finder_96.12/full.json"
+        ],
         "kicadPcb3d": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_Socket_DPDT_Finder_96.12/kicadPcb3d.png"
         ],

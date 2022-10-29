@@ -55,6 +55,9 @@
         "jsonBasic": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuseholder_Cylinder-5x20mm_Schurter_FUP_0031.2510_Horizontal_Closed/basic.json"
         ],
+        "jsonFull": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuseholder_Cylinder-5x20mm_Schurter_FUP_0031.2510_Horizontal_Closed/full.json"
+        ],
         "kicadPcb3d": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuseholder_Cylinder-5x20mm_Schurter_FUP_0031.2510_Horizontal_Closed/kicadPcb3d.png"
         ],

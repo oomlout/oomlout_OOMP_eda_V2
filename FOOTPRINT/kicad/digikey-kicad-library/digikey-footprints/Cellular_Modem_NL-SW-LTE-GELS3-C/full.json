@@ -54,6 +54,9 @@
         "jsonBasic": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Cellular_Modem_NL-SW-LTE-GELS3-C/basic.json"
         ],
+        "jsonFull": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Cellular_Modem_NL-SW-LTE-GELS3-C/full.json"
+        ],
         "kicadPcb3d": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Cellular_Modem_NL-SW-LTE-GELS3-C/kicadPcb3d.png"
         ],

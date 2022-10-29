@@ -55,6 +55,9 @@
         "jsonBasic": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Coaxial/MMCX_Molex_73415-0961_Horizontal_1.0mm-PCB/basic.json"
         ],
+        "jsonFull": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Coaxial/MMCX_Molex_73415-0961_Horizontal_1.0mm-PCB/full.json"
+        ],
         "kicadPcb3d": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Coaxial/MMCX_Molex_73415-0961_Horizontal_1.0mm-PCB/kicadPcb3d.png"
         ],

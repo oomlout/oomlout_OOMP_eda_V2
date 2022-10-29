@@ -55,6 +55,9 @@
         "jsonBasic": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/HSOP-36-1EP_11.0x15.9mm_P0.65mm_SlugDown/basic.json"
         ],
+        "jsonFull": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/HSOP-36-1EP_11.0x15.9mm_P0.65mm_SlugDown/full.json"
+        ],
         "kicadPcb3d": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/HSOP-36-1EP_11.0x15.9mm_P0.65mm_SlugDown/kicadPcb3d.png"
         ],

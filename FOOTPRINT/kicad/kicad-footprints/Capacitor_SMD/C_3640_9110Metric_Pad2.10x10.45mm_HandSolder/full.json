@@ -55,6 +55,9 @@
         "jsonBasic": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_3640_9110Metric_Pad2.10x10.45mm_HandSolder/basic.json"
         ],
+        "jsonFull": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_3640_9110Metric_Pad2.10x10.45mm_HandSolder/full.json"
+        ],
         "kicadPcb3d": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_3640_9110Metric_Pad2.10x10.45mm_HandSolder/kicadPcb3d.png"
         ],

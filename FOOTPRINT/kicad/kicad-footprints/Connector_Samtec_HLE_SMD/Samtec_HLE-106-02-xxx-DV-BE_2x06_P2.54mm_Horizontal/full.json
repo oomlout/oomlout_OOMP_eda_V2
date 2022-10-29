@@ -55,6 +55,9 @@
         "jsonBasic": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Samtec_HLE_SMD/Samtec_HLE-106-02-xxx-DV-BE_2x06_P2.54mm_Horizontal/basic.json"
         ],
+        "jsonFull": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Samtec_HLE_SMD/Samtec_HLE-106-02-xxx-DV-BE_2x06_P2.54mm_Horizontal/full.json"
+        ],
         "kicadPcb3d": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Samtec_HLE_SMD/Samtec_HLE-106-02-xxx-DV-BE_2x06_P2.54mm_Horizontal/kicadPcb3d.png"
         ],

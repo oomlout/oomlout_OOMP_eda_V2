@@ -43,6 +43,9 @@
         "jsonBasic": [
             "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Filter/Choke_Schaffner_RN102-0.3-02-12M/basic.json"
         ],
+        "jsonFull": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Filter/Choke_Schaffner_RN102-0.3-02-12M/full.json"
+        ],
         "readme": [
             "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Filter/Choke_Schaffner_RN102-0.3-02-12M/README.md"
         ]

@@ -52,6 +52,9 @@
         "jsonBasic": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/MCUU-QFN14-84-ATTINY-01-MCAT84QF14/basic.json"
         ],
+        "jsonFull": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/MCUU-QFN14-84-ATTINY-01-MCAT84QF14/full.json"
+        ],
         "readme": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/MCUU-QFN14-84-ATTINY-01-MCAT84QF14/README.md"
         ]

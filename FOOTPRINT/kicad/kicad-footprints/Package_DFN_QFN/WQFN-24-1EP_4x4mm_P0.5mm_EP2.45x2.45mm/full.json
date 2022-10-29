@@ -55,6 +55,9 @@
         "jsonBasic": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/WQFN-24-1EP_4x4mm_P0.5mm_EP2.45x2.45mm/basic.json"
         ],
+        "jsonFull": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/WQFN-24-1EP_4x4mm_P0.5mm_EP2.45x2.45mm/full.json"
+        ],
         "kicadPcb3d": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/WQFN-24-1EP_4x4mm_P0.5mm_EP2.45x2.45mm/kicadPcb3d.png"
         ],

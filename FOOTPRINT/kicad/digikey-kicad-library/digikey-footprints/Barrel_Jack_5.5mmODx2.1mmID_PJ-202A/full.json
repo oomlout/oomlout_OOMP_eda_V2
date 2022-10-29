@@ -53,6 +53,9 @@
         "jsonBasic": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Barrel_Jack_5.5mmODx2.1mmID_PJ-202A/basic.json"
         ],
+        "jsonFull": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Barrel_Jack_5.5mmODx2.1mmID_PJ-202A/full.json"
+        ],
         "kicadPcb3d": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Barrel_Jack_5.5mmODx2.1mmID_PJ-202A/kicadPcb3d.png"
         ],

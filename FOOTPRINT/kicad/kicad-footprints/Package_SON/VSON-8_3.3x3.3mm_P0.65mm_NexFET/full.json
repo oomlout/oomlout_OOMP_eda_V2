@@ -55,6 +55,9 @@
         "jsonBasic": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SON/VSON-8_3.3x3.3mm_P0.65mm_NexFET/basic.json"
         ],
+        "jsonFull": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SON/VSON-8_3.3x3.3mm_P0.65mm_NexFET/full.json"
+        ],
         "kicadPcb3d": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SON/VSON-8_3.3x3.3mm_P0.65mm_NexFET/kicadPcb3d.png"
         ],

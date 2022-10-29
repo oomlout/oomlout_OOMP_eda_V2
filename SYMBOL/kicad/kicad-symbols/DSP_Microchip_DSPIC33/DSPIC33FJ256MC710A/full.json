@@ -43,6 +43,9 @@
         "jsonBasic": [
             "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/DSP_Microchip_DSPIC33/DSPIC33FJ256MC710A/basic.json"
         ],
+        "jsonFull": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/DSP_Microchip_DSPIC33/DSPIC33FJ256MC710A/full.json"
+        ],
         "readme": [
             "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/DSP_Microchip_DSPIC33/DSPIC33FJ256MC710A/README.md"
         ]

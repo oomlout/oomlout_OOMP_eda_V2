@@ -55,6 +55,9 @@
         "jsonBasic": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0815_2038Metric_Pad1.20x4.05mm_HandSolder/basic.json"
         ],
+        "jsonFull": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0815_2038Metric_Pad1.20x4.05mm_HandSolder/full.json"
+        ],
         "kicadPcb3d": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0815_2038Metric_Pad1.20x4.05mm_HandSolder/kicadPcb3d.png"
         ],

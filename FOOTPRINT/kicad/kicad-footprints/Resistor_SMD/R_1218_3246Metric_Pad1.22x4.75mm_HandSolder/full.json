@@ -55,6 +55,9 @@
         "jsonBasic": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_1218_3246Metric_Pad1.22x4.75mm_HandSolder/basic.json"
         ],
+        "jsonFull": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_1218_3246Metric_Pad1.22x4.75mm_HandSolder/full.json"
+        ],
         "kicadPcb3d": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_1218_3246Metric_Pad1.22x4.75mm_HandSolder/kicadPcb3d.png"
         ],

@@ -51,6 +51,9 @@
         "jsonBasic": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Symbol/ESD-Logo_8.9x8mm_SilkScreen/basic.json"
         ],
+        "jsonFull": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Symbol/ESD-Logo_8.9x8mm_SilkScreen/full.json"
+        ],
         "kicadPcb3d": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Symbol/ESD-Logo_8.9x8mm_SilkScreen/kicadPcb3d.png"
         ],

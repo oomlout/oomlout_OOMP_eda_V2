@@ -55,6 +55,9 @@
         "jsonBasic": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_CSP/LFCSP-64-1EP_9x9mm_P0.5mm_EP5.21x5.21mm/basic.json"
         ],
+        "jsonFull": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_CSP/LFCSP-64-1EP_9x9mm_P0.5mm_EP5.21x5.21mm/full.json"
+        ],
         "kicadPcb3d": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_CSP/LFCSP-64-1EP_9x9mm_P0.5mm_EP5.21x5.21mm/kicadPcb3d.png"
         ],

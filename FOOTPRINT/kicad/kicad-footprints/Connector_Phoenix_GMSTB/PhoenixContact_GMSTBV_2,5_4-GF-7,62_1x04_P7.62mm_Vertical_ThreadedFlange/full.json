@@ -55,6 +55,9 @@
         "jsonBasic": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_GMSTB/PhoenixContact_GMSTBV_2,5_4-GF-7,62_1x04_P7.62mm_Vertical_ThreadedFlange/basic.json"
         ],
+        "jsonFull": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_GMSTB/PhoenixContact_GMSTBV_2,5_4-GF-7,62_1x04_P7.62mm_Vertical_ThreadedFlange/full.json"
+        ],
         "kicadPcb3d": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_GMSTB/PhoenixContact_GMSTBV_2,5_4-GF-7,62_1x04_P7.62mm_Vertical_ThreadedFlange/kicadPcb3d.png"
         ],

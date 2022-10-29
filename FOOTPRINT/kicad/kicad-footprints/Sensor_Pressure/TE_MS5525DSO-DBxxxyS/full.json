@@ -55,6 +55,9 @@
         "jsonBasic": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Sensor_Pressure/TE_MS5525DSO-DBxxxyS/basic.json"
         ],
+        "jsonFull": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Sensor_Pressure/TE_MS5525DSO-DBxxxyS/full.json"
+        ],
         "kicadPcb3d": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Sensor_Pressure/TE_MS5525DSO-DBxxxyS/kicadPcb3d.png"
         ],

@@ -55,6 +55,9 @@
         "jsonBasic": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L20.3mm_D12.1mm_P28.50mm_Horizontal_Vishay_IHA-101/basic.json"
         ],
+        "jsonFull": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L20.3mm_D12.1mm_P28.50mm_Horizontal_Vishay_IHA-101/full.json"
+        ],
         "kicadPcb3d": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L20.3mm_D12.1mm_P28.50mm_Horizontal_Vishay_IHA-101/kicadPcb3d.png"
         ],

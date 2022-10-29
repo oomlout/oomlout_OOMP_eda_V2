@@ -55,6 +55,9 @@
         "jsonBasic": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Heatsink/Heatsink_Fischer_SK104-STC-STIC_35x13mm_2xDrill2.5mm/basic.json"
         ],
+        "jsonFull": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Heatsink/Heatsink_Fischer_SK104-STC-STIC_35x13mm_2xDrill2.5mm/full.json"
+        ],
         "kicadPcb3d": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Heatsink/Heatsink_Fischer_SK104-STC-STIC_35x13mm_2xDrill2.5mm/kicadPcb3d.png"
         ],

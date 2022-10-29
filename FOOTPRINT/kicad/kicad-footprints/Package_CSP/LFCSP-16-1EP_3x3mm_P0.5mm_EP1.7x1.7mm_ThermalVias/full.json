@@ -55,6 +55,9 @@
         "jsonBasic": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_CSP/LFCSP-16-1EP_3x3mm_P0.5mm_EP1.7x1.7mm_ThermalVias/basic.json"
         ],
+        "jsonFull": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_CSP/LFCSP-16-1EP_3x3mm_P0.5mm_EP1.7x1.7mm_ThermalVias/full.json"
+        ],
         "kicadPcb3d": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_CSP/LFCSP-16-1EP_3x3mm_P0.5mm_EP1.7x1.7mm_ThermalVias/kicadPcb3d.png"
         ],

@@ -51,6 +51,9 @@
         "jsonBasic": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Symbol/FCC-Logo_7.3x6mm_SilkScreen/basic.json"
         ],
+        "jsonFull": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Symbol/FCC-Logo_7.3x6mm_SilkScreen/full.json"
+        ],
         "kicadPcb3d": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Symbol/FCC-Logo_7.3x6mm_SilkScreen/kicadPcb3d.png"
         ],

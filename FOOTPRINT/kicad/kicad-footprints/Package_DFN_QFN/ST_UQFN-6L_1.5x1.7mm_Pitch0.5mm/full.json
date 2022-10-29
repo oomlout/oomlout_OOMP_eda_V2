@@ -55,6 +55,9 @@
         "jsonBasic": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/ST_UQFN-6L_1.5x1.7mm_Pitch0.5mm/basic.json"
         ],
+        "jsonFull": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/ST_UQFN-6L_1.5x1.7mm_Pitch0.5mm/full.json"
+        ],
         "kicadPcb3d": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/ST_UQFN-6L_1.5x1.7mm_Pitch0.5mm/kicadPcb3d.png"
         ],

@@ -55,6 +55,9 @@
         "jsonBasic": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_0805_2012Metric_Pad1.15x1.40mm_HandSolder/basic.json"
         ],
+        "jsonFull": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_0805_2012Metric_Pad1.15x1.40mm_HandSolder/full.json"
+        ],
         "kicadPcb3d": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_0805_2012Metric_Pad1.15x1.40mm_HandSolder/kicadPcb3d.png"
         ],

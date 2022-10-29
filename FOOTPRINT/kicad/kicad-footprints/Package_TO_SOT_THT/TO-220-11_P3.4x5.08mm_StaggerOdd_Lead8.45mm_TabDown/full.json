@@ -55,6 +55,9 @@
         "jsonBasic": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/TO-220-11_P3.4x5.08mm_StaggerOdd_Lead8.45mm_TabDown/basic.json"
         ],
+        "jsonFull": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/TO-220-11_P3.4x5.08mm_StaggerOdd_Lead8.45mm_TabDown/full.json"
+        ],
         "kicadPcb3d": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/TO-220-11_P3.4x5.08mm_StaggerOdd_Lead8.45mm_TabDown/kicadPcb3d.png"
         ],

@@ -55,6 +55,9 @@
         "jsonBasic": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuse_2920_7451Metric_Pad2.10x5.45mm_HandSolder/basic.json"
         ],
+        "jsonFull": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuse_2920_7451Metric_Pad2.10x5.45mm_HandSolder/full.json"
+        ],
         "kicadPcb3d": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuse_2920_7451Metric_Pad2.10x5.45mm_HandSolder/kicadPcb3d.png"
         ],

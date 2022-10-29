@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKDIODEBRIDGEKBPC158T"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Diode_Bridge : KBPC1508T"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Diode_Bridge"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Diode_Bridge-KBPC1508T"
+    ],
+    "oompIndex": [
+        "KBPC1508T"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.diodemodule.com/bridge-rectifier/kbpc/kbpc1508t.pdf",
+                "kicadSymbolExtends": "B40C1500G",
+                "kicadSymbolFootprint": "",
+                "kicadSymbolReference": "D",
+                "kicadSymbolValue": "KBPC1508T",
+                "kicadSymbolki_description": "Single-Phase Bridge Rectifier, 560V Vrms, 15A If, KBPC-T(FP)",
+                "kicadSymbolki_fp_filters": "Diode*Bridge*KBPC?T*",
+                "kicadSymbolki_keywords": "diode full"
+            }
+        ]
+    ]
+}

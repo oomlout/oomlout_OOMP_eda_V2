@@ -55,6 +55,9 @@
         "jsonBasic": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Texas_RGV_S-PVQFN-N16_EP2.1x2.1mm_ThermalVias/basic.json"
         ],
+        "jsonFull": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Texas_RGV_S-PVQFN-N16_EP2.1x2.1mm_ThermalVias/full.json"
+        ],
         "kicadPcb3d": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Texas_RGV_S-PVQFN-N16_EP2.1x2.1mm_ThermalVias/kicadPcb3d.png"
         ],

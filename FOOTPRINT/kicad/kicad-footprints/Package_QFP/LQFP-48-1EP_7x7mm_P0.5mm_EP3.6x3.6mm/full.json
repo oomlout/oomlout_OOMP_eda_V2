@@ -55,6 +55,9 @@
         "jsonBasic": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_QFP/LQFP-48-1EP_7x7mm_P0.5mm_EP3.6x3.6mm/basic.json"
         ],
+        "jsonFull": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_QFP/LQFP-48-1EP_7x7mm_P0.5mm_EP3.6x3.6mm/full.json"
+        ],
         "kicadPcb3d": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_QFP/LQFP-48-1EP_7x7mm_P0.5mm_EP3.6x3.6mm/kicadPcb3d.png"
         ],

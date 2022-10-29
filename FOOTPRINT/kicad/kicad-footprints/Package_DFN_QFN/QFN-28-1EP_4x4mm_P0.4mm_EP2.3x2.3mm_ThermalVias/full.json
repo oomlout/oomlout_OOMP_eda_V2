@@ -55,6 +55,9 @@
         "jsonBasic": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/QFN-28-1EP_4x4mm_P0.4mm_EP2.3x2.3mm_ThermalVias/basic.json"
         ],
+        "jsonFull": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/QFN-28-1EP_4x4mm_P0.4mm_EP2.3x2.3mm_ThermalVias/full.json"
+        ],
         "kicadPcb3d": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/QFN-28-1EP_4x4mm_P0.4mm_EP2.3x2.3mm_ThermalVias/kicadPcb3d.png"
         ],

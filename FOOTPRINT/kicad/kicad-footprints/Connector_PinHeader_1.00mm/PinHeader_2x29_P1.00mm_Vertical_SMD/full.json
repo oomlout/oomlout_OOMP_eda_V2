@@ -55,6 +55,9 @@
         "jsonBasic": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_PinHeader_1.00mm/PinHeader_2x29_P1.00mm_Vertical_SMD/basic.json"
         ],
+        "jsonFull": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_PinHeader_1.00mm/PinHeader_2x29_P1.00mm_Vertical_SMD/full.json"
+        ],
         "kicadPcb3d": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_PinHeader_1.00mm/PinHeader_2x29_P1.00mm_Vertical_SMD/kicadPcb3d.png"
         ],

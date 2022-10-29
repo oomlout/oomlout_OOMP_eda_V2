@@ -53,6 +53,9 @@
         "jsonBasic": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Pressure_Sensor_LGA-8_2.5x2.5mm_BME280/basic.json"
         ],
+        "jsonFull": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Pressure_Sensor_LGA-8_2.5x2.5mm_BME280/full.json"
+        ],
         "kicadPcb3d": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Pressure_Sensor_LGA-8_2.5x2.5mm_BME280/kicadPcb3d.png"
         ],

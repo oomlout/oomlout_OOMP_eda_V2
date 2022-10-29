@@ -55,6 +55,9 @@
         "jsonBasic": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_PCBEdge/Samtec_MECF-70-01-NP-L-DV_2x70_P1.27mm_Socket_Horizontal/basic.json"
         ],
+        "jsonFull": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_PCBEdge/Samtec_MECF-70-01-NP-L-DV_2x70_P1.27mm_Socket_Horizontal/full.json"
+        ],
         "kicadPcb3d": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_PCBEdge/Samtec_MECF-70-01-NP-L-DV_2x70_P1.27mm_Socket_Horizontal/kicadPcb3d.png"
         ],

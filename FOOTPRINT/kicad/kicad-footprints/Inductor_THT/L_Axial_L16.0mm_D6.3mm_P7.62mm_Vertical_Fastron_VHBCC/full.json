@@ -55,6 +55,9 @@
         "jsonBasic": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L16.0mm_D6.3mm_P7.62mm_Vertical_Fastron_VHBCC/basic.json"
         ],
+        "jsonFull": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L16.0mm_D6.3mm_P7.62mm_Vertical_Fastron_VHBCC/full.json"
+        ],
         "kicadPcb3d": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L16.0mm_D6.3mm_P7.62mm_Vertical_Fastron_VHBCC/kicadPcb3d.png"
         ],

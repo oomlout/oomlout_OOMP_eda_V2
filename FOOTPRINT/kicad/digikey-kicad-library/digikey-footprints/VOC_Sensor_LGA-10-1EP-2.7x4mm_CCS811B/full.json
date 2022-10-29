@@ -53,6 +53,9 @@
         "jsonBasic": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/VOC_Sensor_LGA-10-1EP-2.7x4mm_CCS811B/basic.json"
         ],
+        "jsonFull": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/VOC_Sensor_LGA-10-1EP-2.7x4mm_CCS811B/full.json"
+        ],
         "kicadPcb3d": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/VOC_Sensor_LGA-10-1EP-2.7x4mm_CCS811B/kicadPcb3d.png"
         ],

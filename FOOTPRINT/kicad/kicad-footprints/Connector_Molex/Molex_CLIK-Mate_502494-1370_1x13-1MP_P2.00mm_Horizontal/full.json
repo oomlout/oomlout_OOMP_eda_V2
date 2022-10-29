@@ -55,6 +55,9 @@
         "jsonBasic": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_CLIK-Mate_502494-1370_1x13-1MP_P2.00mm_Horizontal/basic.json"
         ],
+        "jsonFull": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_CLIK-Mate_502494-1370_1x13-1MP_P2.00mm_Horizontal/full.json"
+        ],
         "kicadPcb3d": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_CLIK-Mate_502494-1370_1x13-1MP_P2.00mm_Horizontal/kicadPcb3d.png"
         ],

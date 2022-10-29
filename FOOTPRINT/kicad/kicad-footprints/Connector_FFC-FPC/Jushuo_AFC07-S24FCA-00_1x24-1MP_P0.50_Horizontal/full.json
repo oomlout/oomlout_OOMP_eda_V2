@@ -52,6 +52,9 @@
         "jsonBasic": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_FFC-FPC/Jushuo_AFC07-S24FCA-00_1x24-1MP_P0.50_Horizontal/basic.json"
         ],
+        "jsonFull": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_FFC-FPC/Jushuo_AFC07-S24FCA-00_1x24-1MP_P0.50_Horizontal/full.json"
+        ],
         "readme": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_FFC-FPC/Jushuo_AFC07-S24FCA-00_1x24-1MP_P0.50_Horizontal/README.md"
         ]

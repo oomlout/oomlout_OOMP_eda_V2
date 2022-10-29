@@ -55,6 +55,9 @@
         "jsonBasic": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Crystal/Resonator_SMD_Murata_SFECV-3Pin_6.9x2.9mm_HandSoldering/basic.json"
         ],
+        "jsonFull": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Crystal/Resonator_SMD_Murata_SFECV-3Pin_6.9x2.9mm_HandSoldering/full.json"
+        ],
         "kicadPcb3d": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Crystal/Resonator_SMD_Murata_SFECV-3Pin_6.9x2.9mm_HandSoldering/kicadPcb3d.png"
         ],

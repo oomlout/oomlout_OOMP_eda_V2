@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKDIODEBRIDGEKBPC256W"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Diode_Bridge : KBPC2506W"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Diode_Bridge"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Diode_Bridge-KBPC2506W"
+    ],
+    "oompIndex": [
+        "KBPC2506W"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.diodemodule.com/bridge-rectifier/kbpc/kbpc2506t.pdf",
+                "kicadSymbolExtends": "B40C1500G",
+                "kicadSymbolFootprint": "Diode_THT:Diode_Bridge_GeneSiC_KBPC_W",
+                "kicadSymbolReference": "D",
+                "kicadSymbolValue": "KBPC2506W",
+                "kicadSymbolki_description": "Single-Phase Bridge Rectifier, 420V Vrms, 25A If, KBPC-W(WS)",
+                "kicadSymbolki_fp_filters": "Diode*Bridge*KBPC?W*",
+                "kicadSymbolki_keywords": "diode full"
+            }
+        ]
+    ]
+}

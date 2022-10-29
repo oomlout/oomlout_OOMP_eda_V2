@@ -55,6 +55,9 @@
         "jsonBasic": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Dsub/DSUB-26-HD_Male_Vertical_P2.29x1.98mm_MountingHoles/basic.json"
         ],
+        "jsonFull": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Dsub/DSUB-26-HD_Male_Vertical_P2.29x1.98mm_MountingHoles/full.json"
+        ],
         "kicadPcb3d": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Dsub/DSUB-26-HD_Male_Vertical_P2.29x1.98mm_MountingHoles/kicadPcb3d.png"
         ],

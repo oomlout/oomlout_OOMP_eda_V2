@@ -55,6 +55,9 @@
         "jsonBasic": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MC/PhoenixContact_MCV_1,5_15-GF-3.5_1x15_P3.50mm_Vertical_ThreadedFlange_MountHole/basic.json"
         ],
+        "jsonFull": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MC/PhoenixContact_MCV_1,5_15-GF-3.5_1x15_P3.50mm_Vertical_ThreadedFlange_MountHole/full.json"
+        ],
         "kicadPcb3d": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MC/PhoenixContact_MCV_1,5_15-GF-3.5_1x15_P3.50mm_Vertical_ThreadedFlange_MountHole/kicadPcb3d.png"
         ],

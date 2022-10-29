@@ -55,6 +55,9 @@
         "jsonBasic": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Panasonic_HQFN-16-1EP_4x4mm_P0.65mm_EP2.9x2.9mm/basic.json"
         ],
+        "jsonFull": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Panasonic_HQFN-16-1EP_4x4mm_P0.65mm_EP2.9x2.9mm/full.json"
+        ],
         "kicadPcb3d": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Panasonic_HQFN-16-1EP_4x4mm_P0.65mm_EP2.9x2.9mm/kicadPcb3d.png"
         ],

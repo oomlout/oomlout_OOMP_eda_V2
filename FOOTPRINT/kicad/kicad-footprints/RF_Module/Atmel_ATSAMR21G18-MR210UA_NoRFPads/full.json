@@ -55,6 +55,9 @@
         "jsonBasic": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/RF_Module/Atmel_ATSAMR21G18-MR210UA_NoRFPads/basic.json"
         ],
+        "jsonFull": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/RF_Module/Atmel_ATSAMR21G18-MR210UA_NoRFPads/full.json"
+        ],
         "kicadPcb3d": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/RF_Module/Atmel_ATSAMR21G18-MR210UA_NoRFPads/kicadPcb3d.png"
         ],

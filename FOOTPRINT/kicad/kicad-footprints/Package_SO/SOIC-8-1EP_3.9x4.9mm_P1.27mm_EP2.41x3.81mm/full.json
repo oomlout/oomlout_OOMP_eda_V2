@@ -55,6 +55,9 @@
         "jsonBasic": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.41x3.81mm/basic.json"
         ],
+        "jsonFull": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.41x3.81mm/full.json"
+        ],
         "kicadPcb3d": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.41x3.81mm/kicadPcb3d.png"
         ],

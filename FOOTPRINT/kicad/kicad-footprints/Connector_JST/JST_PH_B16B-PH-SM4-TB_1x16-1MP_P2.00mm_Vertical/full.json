@@ -55,6 +55,9 @@
         "jsonBasic": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_PH_B16B-PH-SM4-TB_1x16-1MP_P2.00mm_Vertical/basic.json"
         ],
+        "jsonFull": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_PH_B16B-PH-SM4-TB_1x16-1MP_P2.00mm_Vertical/full.json"
+        ],
         "kicadPcb3d": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_PH_B16B-PH-SM4-TB_1x16-1MP_P2.00mm_Vertical/kicadPcb3d.png"
         ],

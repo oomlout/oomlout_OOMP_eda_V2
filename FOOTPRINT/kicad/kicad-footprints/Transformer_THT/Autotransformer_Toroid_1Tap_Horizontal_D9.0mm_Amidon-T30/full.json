@@ -55,6 +55,9 @@
         "jsonBasic": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Transformer_THT/Autotransformer_Toroid_1Tap_Horizontal_D9.0mm_Amidon-T30/basic.json"
         ],
+        "jsonFull": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Transformer_THT/Autotransformer_Toroid_1Tap_Horizontal_D9.0mm_Amidon-T30/full.json"
+        ],
         "kicadPcb3d": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Transformer_THT/Autotransformer_Toroid_1Tap_Horizontal_D9.0mm_Amidon-T30/kicadPcb3d.png"
         ],

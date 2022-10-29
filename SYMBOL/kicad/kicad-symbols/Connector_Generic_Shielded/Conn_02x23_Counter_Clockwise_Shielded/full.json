@@ -43,6 +43,9 @@
         "jsonBasic": [
             "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector_Generic_Shielded/Conn_02x23_Counter_Clockwise_Shielded/basic.json"
         ],
+        "jsonFull": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector_Generic_Shielded/Conn_02x23_Counter_Clockwise_Shielded/full.json"
+        ],
         "readme": [
             "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector_Generic_Shielded/Conn_02x23_Counter_Clockwise_Shielded/README.md"
         ]

@@ -55,6 +55,9 @@
         "jsonBasic": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuse_BelFuse_0ZRE0150FF_L23.4mm_W5.3mm/basic.json"
         ],
+        "jsonFull": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuse_BelFuse_0ZRE0150FF_L23.4mm_W5.3mm/full.json"
+        ],
         "kicadPcb3d": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuse_BelFuse_0ZRE0150FF_L23.4mm_W5.3mm/kicadPcb3d.png"
         ],

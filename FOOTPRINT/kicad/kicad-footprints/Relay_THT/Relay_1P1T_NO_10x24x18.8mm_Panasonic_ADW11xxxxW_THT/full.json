@@ -55,6 +55,9 @@
         "jsonBasic": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_1P1T_NO_10x24x18.8mm_Panasonic_ADW11xxxxW_THT/basic.json"
         ],
+        "jsonFull": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_1P1T_NO_10x24x18.8mm_Panasonic_ADW11xxxxW_THT/full.json"
+        ],
         "kicadPcb3d": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_1P1T_NO_10x24x18.8mm_Panasonic_ADW11xxxxW_THT/kicadPcb3d.png"
         ],

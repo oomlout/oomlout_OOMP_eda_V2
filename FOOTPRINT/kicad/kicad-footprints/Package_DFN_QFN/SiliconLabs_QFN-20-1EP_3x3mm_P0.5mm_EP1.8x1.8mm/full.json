@@ -55,6 +55,9 @@
         "jsonBasic": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/SiliconLabs_QFN-20-1EP_3x3mm_P0.5mm_EP1.8x1.8mm/basic.json"
         ],
+        "jsonFull": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/SiliconLabs_QFN-20-1EP_3x3mm_P0.5mm_EP1.8x1.8mm/full.json"
+        ],
         "kicadPcb3d": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/SiliconLabs_QFN-20-1EP_3x3mm_P0.5mm_EP1.8x1.8mm/kicadPcb3d.png"
         ],

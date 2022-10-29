@@ -55,6 +55,9 @@
         "jsonBasic": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SMD_IQD_IQXO70-4Pin_7.5x5.0mm_HandSoldering/basic.json"
         ],
+        "jsonFull": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SMD_IQD_IQXO70-4Pin_7.5x5.0mm_HandSoldering/full.json"
+        ],
         "kicadPcb3d": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SMD_IQD_IQXO70-4Pin_7.5x5.0mm_HandSoldering/kicadPcb3d.png"
         ],

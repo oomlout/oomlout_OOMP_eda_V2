@@ -55,6 +55,9 @@
         "jsonBasic": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Transformer_THT/Transformer_Toroid_Tapped_Horizontal_D10.5mm_Amidon-T37/basic.json"
         ],
+        "jsonFull": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Transformer_THT/Transformer_Toroid_Tapped_Horizontal_D10.5mm_Amidon-T37/full.json"
+        ],
         "kicadPcb3d": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Transformer_THT/Transformer_Toroid_Tapped_Horizontal_D10.5mm_Amidon-T37/kicadPcb3d.png"
         ],

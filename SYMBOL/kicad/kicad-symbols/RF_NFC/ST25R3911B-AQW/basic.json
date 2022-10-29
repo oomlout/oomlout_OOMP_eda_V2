@@ -1,0 +1,58 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKRFNFCST25R3911BAQW"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "RF_NFC : ST25R3911B-AQW"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "RF_NFC"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-RF_NFC-ST25R3911B-AQW"
+    ],
+    "oompIndex": [
+        "ST25R3911B-AQW"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.st.com/resource/en/datasheet/st25r3911b.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_DFN_QFN:VQFN-32-1EP_5x5mm_P0.5mm_EP3.5x3.5mm_ThermalVias",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "ST25R3911B-AQW",
+                "kicadSymbolki_description": "High performance HR reader/NFC initiator with 1.4W supporting VHBR and AAT, VFQFPN32",
+                "kicadSymbolki_fp_filters": "*QFN*1EP*5x5mm*P0.5mm*",
+                "kicadSymbolki_keywords": "NFC"
+            }
+        ]
+    ]
+}

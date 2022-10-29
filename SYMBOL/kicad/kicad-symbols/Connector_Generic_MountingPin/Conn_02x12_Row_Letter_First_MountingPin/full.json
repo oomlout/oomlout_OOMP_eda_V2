@@ -43,6 +43,9 @@
         "jsonBasic": [
             "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector_Generic_MountingPin/Conn_02x12_Row_Letter_First_MountingPin/basic.json"
         ],
+        "jsonFull": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector_Generic_MountingPin/Conn_02x12_Row_Letter_First_MountingPin/full.json"
+        ],
         "readme": [
             "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Connector_Generic_MountingPin/Conn_02x12_Row_Letter_First_MountingPin/README.md"
         ]

@@ -55,6 +55,9 @@
         "jsonBasic": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MC_HighVoltage/PhoenixContact_MCV_1,5_6-GF-5.08_1x06_P5.08mm_Vertical_ThreadedFlange_MountHole/basic.json"
         ],
+        "jsonFull": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MC_HighVoltage/PhoenixContact_MCV_1,5_6-GF-5.08_1x06_P5.08mm_Vertical_ThreadedFlange_MountHole/full.json"
+        ],
         "kicadPcb3d": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MC_HighVoltage/PhoenixContact_MCV_1,5_6-GF-5.08_1x06_P5.08mm_Vertical_ThreadedFlange_MountHole/kicadPcb3d.png"
         ],

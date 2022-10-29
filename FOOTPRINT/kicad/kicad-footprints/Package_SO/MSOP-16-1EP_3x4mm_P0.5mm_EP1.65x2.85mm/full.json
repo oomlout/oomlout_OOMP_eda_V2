@@ -55,6 +55,9 @@
         "jsonBasic": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/MSOP-16-1EP_3x4mm_P0.5mm_EP1.65x2.85mm/basic.json"
         ],
+        "jsonFull": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/MSOP-16-1EP_3x4mm_P0.5mm_EP1.65x2.85mm/full.json"
+        ],
         "kicadPcb3d": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/MSOP-16-1EP_3x4mm_P0.5mm_EP1.65x2.85mm/kicadPcb3d.png"
         ],

@@ -54,6 +54,9 @@
         "jsonBasic": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Jumper/SolderJumper-2_P1.3mm_Bridged2Bar_RoundedPad1.0x1.5mm/basic.json"
         ],
+        "jsonFull": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Jumper/SolderJumper-2_P1.3mm_Bridged2Bar_RoundedPad1.0x1.5mm/full.json"
+        ],
         "kicadPcb3d": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Jumper/SolderJumper-2_P1.3mm_Bridged2Bar_RoundedPad1.0x1.5mm/kicadPcb3d.png"
         ],

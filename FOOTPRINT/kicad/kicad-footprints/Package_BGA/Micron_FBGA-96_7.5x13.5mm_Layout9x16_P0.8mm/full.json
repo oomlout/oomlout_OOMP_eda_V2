@@ -55,6 +55,9 @@
         "jsonBasic": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_BGA/Micron_FBGA-96_7.5x13.5mm_Layout9x16_P0.8mm/basic.json"
         ],
+        "jsonFull": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_BGA/Micron_FBGA-96_7.5x13.5mm_Layout9x16_P0.8mm/full.json"
+        ],
         "kicadPcb3d": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_BGA/Micron_FBGA-96_7.5x13.5mm_Layout9x16_P0.8mm/kicadPcb3d.png"
         ],

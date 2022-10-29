@@ -55,6 +55,9 @@
         "jsonBasic": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Wire/SolderWire-1.5sqmm_1x06_P7.8mm_D1.7mm_OD3.9mm_Relief/basic.json"
         ],
+        "jsonFull": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Wire/SolderWire-1.5sqmm_1x06_P7.8mm_D1.7mm_OD3.9mm_Relief/full.json"
+        ],
         "kicadPcb3d": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Wire/SolderWire-1.5sqmm_1x06_P7.8mm_D1.7mm_OD3.9mm_Relief/kicadPcb3d.png"
         ],
