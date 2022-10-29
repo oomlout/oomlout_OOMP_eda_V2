@@ -39,6 +39,12 @@
         ],
         "jsonBasic": [
             "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_NFC/ST25R3911B-AQW/basic.json"
+        ],
+        "jsonFull": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_NFC/ST25R3911B-AQW/full.json"
+        ],
+        "readme": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/RF_NFC/ST25R3911B-AQW/README.md"
         ]
     },
     "oompID": [

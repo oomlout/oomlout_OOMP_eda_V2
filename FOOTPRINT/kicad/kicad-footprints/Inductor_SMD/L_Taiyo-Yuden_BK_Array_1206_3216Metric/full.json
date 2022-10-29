@@ -51,6 +51,12 @@
         ],
         "jsonBasic": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Taiyo-Yuden_BK_Array_1206_3216Metric/basic.json"
+        ],
+        "jsonFull": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Taiyo-Yuden_BK_Array_1206_3216Metric/full.json"
+        ],
+        "readme": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Taiyo-Yuden_BK_Array_1206_3216Metric/README.md"
         ]
     },
     "oompID": [

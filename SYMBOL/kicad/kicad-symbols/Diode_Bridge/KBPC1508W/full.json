@@ -39,6 +39,12 @@
         ],
         "jsonBasic": [
             "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode_Bridge/KBPC1508W/basic.json"
+        ],
+        "jsonFull": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode_Bridge/KBPC1508W/full.json"
+        ],
+        "readme": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Diode_Bridge/KBPC1508W/README.md"
         ]
     },
     "oompID": [
