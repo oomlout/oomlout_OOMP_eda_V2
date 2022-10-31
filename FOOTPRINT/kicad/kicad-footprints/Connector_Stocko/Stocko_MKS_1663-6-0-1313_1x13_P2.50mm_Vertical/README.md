@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKCNSTOCKOSTOCKOMKS1663613131X13P25VERTICAL > Connector_Stocko : Stocko_MKS_1663-6-0-1313_1x13_P2.50mm_Vertical](#fzkcnstockostockomks1663613131x13p25vertical--connector_stocko--stocko_mks_1663-6-0-1313_1x13_p250mm_vertical)
+	* [Tags](#tags)
   
 ![][im]
 # FZKCNSTOCKOSTOCKOMKS1663613131X13P25VERTICAL > Connector_Stocko : Stocko_MKS_1663-6-0-1313_1x13_P2.50mm_Vertical
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKCNSTOCKOSTOCKOMKS1663613131X13P25VERTICAL](http://oom.lt/FZKCNSTOCKOSTOCKOMKS1663613131X13P25VERTICAL)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Stocko/Stocko_MKS_1663-6-0-1313_1x13_P2.50mm_Vertical/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Stocko/Stocko_MKS_1663-6-0-1313_1x13_P2.50mm_Vertical/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Stocko/Stocko_MKS_1663-6-0-1313_1x13_P2.50mm_Vertical/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Stocko/Stocko_MKS_1663-6-0-1313_1x13_P2.50mm_Vertical/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Stocko/Stocko_MKS_1663-6-0-1313_1x13_P2.50mm_Vertical/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Stocko/Stocko_MKS_1663-6-0-1313_1x13_P2.50mm_Vertical/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Stocko/Stocko_MKS_1663-6-0-1313_1x13_P2.50mm_Vertical/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Stocko/Stocko_MKS_1663-6-0-1313_1x13_P2.50mm_Vertical/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Stocko/Stocko_MKS_1663-6-0-1313_1x13_P2.50mm_Vertical/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Stocko/Stocko_MKS_1663-6-0-1313_1x13_P2.50mm_Vertical/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Stocko/Stocko_MKS_1663-6-0-1313_1x13_P2.50mm_Vertical/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Stocko/Stocko_MKS_1663-6-0-1313_1x13_P2.50mm_Vertical/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Stocko/Stocko_MKS_1663-6-0-1313_1x13_P2.50mm_Vertical/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Stocko/Stocko_MKS_1663-6-0-1313_1x13_P2.50mm_Vertical/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Stocko/Stocko_MKS_1663-6-0-1313_1x13_P2.50mm_Vertical/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Stocko/Stocko_MKS_1663-6-0-1313_1x13_P2.50mm_Vertical/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Stocko/Stocko_MKS_1663-6-0-1313_1x13_P2.50mm_Vertical/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Stocko/Stocko_MKS_1663-6-0-1313_1x13_P2.50mm_Vertical/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Connector_Stocko/Stocko_MKS_1663-6-0-1313_1x13_P2.50mm_Vertical/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

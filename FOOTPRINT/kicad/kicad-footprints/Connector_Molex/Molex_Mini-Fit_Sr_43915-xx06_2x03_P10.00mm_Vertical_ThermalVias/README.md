@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKCNMXMXMFITSR43915XX62X3P1VERTICALTHERMALVIAS > Connector_Molex : Molex_Mini-Fit_Sr_43915-xx06_2x03_P10.00mm_Vertical_ThermalVias](#fzkcnmxmxmfitsr43915xx62x3p1verticalthermalvias--connector_molex--molex_mini-fit_sr_43915-xx06_2x03_p1000mm_vertical_thermalvias)
+	* [Tags](#tags)
   
 ![][im]
 # FZKCNMXMXMFITSR43915XX62X3P1VERTICALTHERMALVIAS > Connector_Molex : Molex_Mini-Fit_Sr_43915-xx06_2x03_P10.00mm_Vertical_ThermalVias
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKCNMXMXMFITSR43915XX62X3P1VERTICALTHERMALVIAS](http://oom.lt/FZKCNMXMXMFITSR43915XX62X3P1VERTICALTHERMALVIAS)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Mini-Fit_Sr_43915-xx06_2x03_P10.00mm_Vertical_ThermalVias/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Mini-Fit_Sr_43915-xx06_2x03_P10.00mm_Vertical_ThermalVias/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Mini-Fit_Sr_43915-xx06_2x03_P10.00mm_Vertical_ThermalVias/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Mini-Fit_Sr_43915-xx06_2x03_P10.00mm_Vertical_ThermalVias/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Mini-Fit_Sr_43915-xx06_2x03_P10.00mm_Vertical_ThermalVias/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Mini-Fit_Sr_43915-xx06_2x03_P10.00mm_Vertical_ThermalVias/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Mini-Fit_Sr_43915-xx06_2x03_P10.00mm_Vertical_ThermalVias/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Mini-Fit_Sr_43915-xx06_2x03_P10.00mm_Vertical_ThermalVias/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Mini-Fit_Sr_43915-xx06_2x03_P10.00mm_Vertical_ThermalVias/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Mini-Fit_Sr_43915-xx06_2x03_P10.00mm_Vertical_ThermalVias/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Mini-Fit_Sr_43915-xx06_2x03_P10.00mm_Vertical_ThermalVias/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Mini-Fit_Sr_43915-xx06_2x03_P10.00mm_Vertical_ThermalVias/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Mini-Fit_Sr_43915-xx06_2x03_P10.00mm_Vertical_ThermalVias/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Mini-Fit_Sr_43915-xx06_2x03_P10.00mm_Vertical_ThermalVias/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Mini-Fit_Sr_43915-xx06_2x03_P10.00mm_Vertical_ThermalVias/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Mini-Fit_Sr_43915-xx06_2x03_P10.00mm_Vertical_ThermalVias/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Mini-Fit_Sr_43915-xx06_2x03_P10.00mm_Vertical_ThermalVias/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Mini-Fit_Sr_43915-xx06_2x03_P10.00mm_Vertical_ThermalVias/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Mini-Fit_Sr_43915-xx06_2x03_P10.00mm_Vertical_ThermalVias/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKSOMS161EP3X439P5EP1651X2845THERMALVIAS > Package_SO : MSOP-16-1EP_3x4.039mm_P0.5mm_EP1.651x2.845mm_ThermalVias](#fzksoms161ep3x439p5ep1651x2845thermalvias--package_so--msop-16-1ep_3x4039mm_p05mm_ep1651x2845mm_thermalvias)
+	* [Tags](#tags)
   
 ![][im]
 # FZKSOMS161EP3X439P5EP1651X2845THERMALVIAS > Package_SO : MSOP-16-1EP_3x4.039mm_P0.5mm_EP1.651x2.845mm_ThermalVias
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKSOMS161EP3X439P5EP1651X2845THERMALVIAS](http://oom.lt/FZKSOMS161EP3X439P5EP1651X2845THERMALVIAS)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/MSOP-16-1EP_3x4.039mm_P0.5mm_EP1.651x2.845mm_ThermalVias/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/MSOP-16-1EP_3x4.039mm_P0.5mm_EP1.651x2.845mm_ThermalVias/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/MSOP-16-1EP_3x4.039mm_P0.5mm_EP1.651x2.845mm_ThermalVias/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/MSOP-16-1EP_3x4.039mm_P0.5mm_EP1.651x2.845mm_ThermalVias/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/MSOP-16-1EP_3x4.039mm_P0.5mm_EP1.651x2.845mm_ThermalVias/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/MSOP-16-1EP_3x4.039mm_P0.5mm_EP1.651x2.845mm_ThermalVias/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/MSOP-16-1EP_3x4.039mm_P0.5mm_EP1.651x2.845mm_ThermalVias/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/MSOP-16-1EP_3x4.039mm_P0.5mm_EP1.651x2.845mm_ThermalVias/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/MSOP-16-1EP_3x4.039mm_P0.5mm_EP1.651x2.845mm_ThermalVias/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/MSOP-16-1EP_3x4.039mm_P0.5mm_EP1.651x2.845mm_ThermalVias/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/MSOP-16-1EP_3x4.039mm_P0.5mm_EP1.651x2.845mm_ThermalVias/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/MSOP-16-1EP_3x4.039mm_P0.5mm_EP1.651x2.845mm_ThermalVias/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/MSOP-16-1EP_3x4.039mm_P0.5mm_EP1.651x2.845mm_ThermalVias/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/MSOP-16-1EP_3x4.039mm_P0.5mm_EP1.651x2.845mm_ThermalVias/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/MSOP-16-1EP_3x4.039mm_P0.5mm_EP1.651x2.845mm_ThermalVias/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/MSOP-16-1EP_3x4.039mm_P0.5mm_EP1.651x2.845mm_ThermalVias/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/MSOP-16-1EP_3x4.039mm_P0.5mm_EP1.651x2.845mm_ThermalVias/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/MSOP-16-1EP_3x4.039mm_P0.5mm_EP1.651x2.845mm_ThermalVias/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Package_SO/MSOP-16-1EP_3x4.039mm_P0.5mm_EP1.651x2.845mm_ThermalVias/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

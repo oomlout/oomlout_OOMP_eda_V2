@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICCAPC42XPF8V5C4P8C14441 > oomlout_OOMP_JLCC_Basic : CAPC-0402-X-PF8-V50-C4P8-C14441](#fzkicadoomloutoompkicadoomloutoompjlccbasiccapc42xpf8v5c4p8c14441--oomlout_oomp_jlcc_basic--capc-0402-x-pf8-v50-c4p8-c14441)
+	* [Tags](#tags)
   
 ![][im]
 # FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICCAPC42XPF8V5C4P8C14441 > oomlout_OOMP_JLCC_Basic : CAPC-0402-X-PF8-V50-C4P8-C14441
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICCAPC42XPF8V5C4P8C14441](http://oom.lt/FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICCAPC42XPF8V5C4P8C14441)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/CAPC-0402-X-PF8-V50-C4P8-C14441/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/CAPC-0402-X-PF8-V50-C4P8-C14441/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/CAPC-0402-X-PF8-V50-C4P8-C14441/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/CAPC-0402-X-PF8-V50-C4P8-C14441/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/CAPC-0402-X-PF8-V50-C4P8-C14441/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/CAPC-0402-X-PF8-V50-C4P8-C14441/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/CAPC-0402-X-PF8-V50-C4P8-C14441/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/CAPC-0402-X-PF8-V50-C4P8-C14441/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/CAPC-0402-X-PF8-V50-C4P8-C14441/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/CAPC-0402-X-PF8-V50-C4P8-C14441/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/CAPC-0402-X-PF8-V50-C4P8-C14441/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/CAPC-0402-X-PF8-V50-C4P8-C14441/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/CAPC-0402-X-PF8-V50-C4P8-C14441/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/CAPC-0402-X-PF8-V50-C4P8-C14441/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/CAPC-0402-X-PF8-V50-C4P8-C14441/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/CAPC-0402-X-PF8-V50-C4P8-C14441/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/CAPC-0402-X-PF8-V50-C4P8-C14441/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/CAPC-0402-X-PF8-V50-C4P8-C14441/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/CAPC-0402-X-PF8-V50-C4P8-C14441/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

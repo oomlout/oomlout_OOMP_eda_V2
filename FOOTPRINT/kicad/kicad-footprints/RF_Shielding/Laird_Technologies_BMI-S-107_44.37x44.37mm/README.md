@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKRFSLAIRDTECHNOLOGIESBMIS174437X4437 > RF_Shielding : Laird_Technologies_BMI-S-107_44.37x44.37mm](#fzkrfslairdtechnologiesbmis174437x4437--rf_shielding--laird_technologies_bmi-s-107_4437x4437mm)
+	* [Tags](#tags)
   
 ![][im]
 # FZKRFSLAIRDTECHNOLOGIESBMIS174437X4437 > RF_Shielding : Laird_Technologies_BMI-S-107_44.37x44.37mm
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKRFSLAIRDTECHNOLOGIESBMIS174437X4437](http://oom.lt/FZKRFSLAIRDTECHNOLOGIESBMIS174437X4437)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/RF_Shielding/Laird_Technologies_BMI-S-107_44.37x44.37mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/RF_Shielding/Laird_Technologies_BMI-S-107_44.37x44.37mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/RF_Shielding/Laird_Technologies_BMI-S-107_44.37x44.37mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/RF_Shielding/Laird_Technologies_BMI-S-107_44.37x44.37mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/RF_Shielding/Laird_Technologies_BMI-S-107_44.37x44.37mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/RF_Shielding/Laird_Technologies_BMI-S-107_44.37x44.37mm/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/RF_Shielding/Laird_Technologies_BMI-S-107_44.37x44.37mm/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/RF_Shielding/Laird_Technologies_BMI-S-107_44.37x44.37mm/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/RF_Shielding/Laird_Technologies_BMI-S-107_44.37x44.37mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/RF_Shielding/Laird_Technologies_BMI-S-107_44.37x44.37mm/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/RF_Shielding/Laird_Technologies_BMI-S-107_44.37x44.37mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/RF_Shielding/Laird_Technologies_BMI-S-107_44.37x44.37mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/RF_Shielding/Laird_Technologies_BMI-S-107_44.37x44.37mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/RF_Shielding/Laird_Technologies_BMI-S-107_44.37x44.37mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/RF_Shielding/Laird_Technologies_BMI-S-107_44.37x44.37mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/RF_Shielding/Laird_Technologies_BMI-S-107_44.37x44.37mm/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/RF_Shielding/Laird_Technologies_BMI-S-107_44.37x44.37mm/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/RF_Shielding/Laird_Technologies_BMI-S-107_44.37x44.37mm/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/RF_Shielding/Laird_Technologies_BMI-S-107_44.37x44.37mm/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

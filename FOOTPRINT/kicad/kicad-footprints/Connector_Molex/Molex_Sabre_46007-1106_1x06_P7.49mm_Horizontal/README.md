@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKCNMXMXSABRE4671161X6P749HORIZONTAL > Connector_Molex : Molex_Sabre_46007-1106_1x06_P7.49mm_Horizontal](#fzkcnmxmxsabre4671161x6p749horizontal--connector_molex--molex_sabre_46007-1106_1x06_p749mm_horizontal)
+	* [Tags](#tags)
   
 ![][im]
 # FZKCNMXMXSABRE4671161X6P749HORIZONTAL > Connector_Molex : Molex_Sabre_46007-1106_1x06_P7.49mm_Horizontal
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKCNMXMXSABRE4671161X6P749HORIZONTAL](http://oom.lt/FZKCNMXMXSABRE4671161X6P749HORIZONTAL)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Sabre_46007-1106_1x06_P7.49mm_Horizontal/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Sabre_46007-1106_1x06_P7.49mm_Horizontal/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Sabre_46007-1106_1x06_P7.49mm_Horizontal/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Sabre_46007-1106_1x06_P7.49mm_Horizontal/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Sabre_46007-1106_1x06_P7.49mm_Horizontal/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Sabre_46007-1106_1x06_P7.49mm_Horizontal/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Sabre_46007-1106_1x06_P7.49mm_Horizontal/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Sabre_46007-1106_1x06_P7.49mm_Horizontal/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Sabre_46007-1106_1x06_P7.49mm_Horizontal/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Sabre_46007-1106_1x06_P7.49mm_Horizontal/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Sabre_46007-1106_1x06_P7.49mm_Horizontal/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Sabre_46007-1106_1x06_P7.49mm_Horizontal/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Sabre_46007-1106_1x06_P7.49mm_Horizontal/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Sabre_46007-1106_1x06_P7.49mm_Horizontal/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Sabre_46007-1106_1x06_P7.49mm_Horizontal/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Sabre_46007-1106_1x06_P7.49mm_Horizontal/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Sabre_46007-1106_1x06_P7.49mm_Horizontal/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Sabre_46007-1106_1x06_P7.49mm_Horizontal/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Sabre_46007-1106_1x06_P7.49mm_Horizontal/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

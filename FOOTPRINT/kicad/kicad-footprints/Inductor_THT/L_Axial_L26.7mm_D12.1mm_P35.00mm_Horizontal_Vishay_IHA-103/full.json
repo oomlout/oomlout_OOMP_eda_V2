@@ -5,6 +5,8 @@
     "distributorPartNumber": [],
     "eagleBoard": [],
     "eagleSchem": [],
+    "footprintEagle": [],
+    "footprintEagleDetails": [],
     "footprintKicad": [],
     "footprintKicadDetails": [
         {
@@ -49,6 +51,9 @@
         "details": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L26.7mm_D12.1mm_P35.00mm_Horizontal_Vishay_IHA-103/details.py"
         ],
+        "image": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L26.7mm_D12.1mm_P35.00mm_Horizontal_Vishay_IHA-103/image.png"
+        ],
         "imagePng": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L26.7mm_D12.1mm_P35.00mm_Horizontal_Vishay_IHA-103/image.png"
         ],
@@ -87,6 +92,8 @@
     ],
     "oplPartNumber": [],
     "rawParts": [],
+    "symbolEagle": [],
+    "symbolEagleDetails": [],
     "symbolKicad": [],
     "symbolKicadDetails": []
 }

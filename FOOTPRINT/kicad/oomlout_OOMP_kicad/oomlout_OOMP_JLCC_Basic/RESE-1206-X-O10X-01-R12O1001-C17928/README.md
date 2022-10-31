@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICRESE126XO1X1R12O11C17928 > oomlout_OOMP_JLCC_Basic : RESE-1206-X-O10X-01-R12O1001-C17928](#fzkicadoomloutoompkicadoomloutoompjlccbasicrese126xo1x1r12o11c17928--oomlout_oomp_jlcc_basic--rese-1206-x-o10x-01-r12o1001-c17928)
+	* [Tags](#tags)
   
 ![][im]
 # FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICRESE126XO1X1R12O11C17928 > oomlout_OOMP_JLCC_Basic : RESE-1206-X-O10X-01-R12O1001-C17928
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICRESE126XO1X1R12O11C17928](http://oom.lt/FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICRESE126XO1X1R12O11C17928)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/RESE-1206-X-O10X-01-R12O1001-C17928/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/RESE-1206-X-O10X-01-R12O1001-C17928/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/RESE-1206-X-O10X-01-R12O1001-C17928/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/RESE-1206-X-O10X-01-R12O1001-C17928/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/RESE-1206-X-O10X-01-R12O1001-C17928/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/RESE-1206-X-O10X-01-R12O1001-C17928/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/RESE-1206-X-O10X-01-R12O1001-C17928/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/RESE-1206-X-O10X-01-R12O1001-C17928/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/RESE-1206-X-O10X-01-R12O1001-C17928/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/RESE-1206-X-O10X-01-R12O1001-C17928/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/RESE-1206-X-O10X-01-R12O1001-C17928/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/RESE-1206-X-O10X-01-R12O1001-C17928/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/RESE-1206-X-O10X-01-R12O1001-C17928/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/RESE-1206-X-O10X-01-R12O1001-C17928/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/RESE-1206-X-O10X-01-R12O1001-C17928/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/RESE-1206-X-O10X-01-R12O1001-C17928/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/RESE-1206-X-O10X-01-R12O1001-C17928/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/RESE-1206-X-O10X-01-R12O1001-C17928/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_JLCC_Basic/RESE-1206-X-O10X-01-R12O1001-C17928/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

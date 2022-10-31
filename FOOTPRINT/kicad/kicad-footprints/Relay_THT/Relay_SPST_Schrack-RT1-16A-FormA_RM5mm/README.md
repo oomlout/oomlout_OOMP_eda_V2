@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKRELRELAYSPSTSCHRACKRT116AFORMARM5 > Relay_THT : Relay_SPST_Schrack-RT1-16A-FormA_RM5mm](#fzkrelrelayspstschrackrt116aformarm5--relay_tht--relay_spst_schrack-rt1-16a-forma_rm5mm)
+	* [Tags](#tags)
   
 ![][im]
 # FZKRELRELAYSPSTSCHRACKRT116AFORMARM5 > Relay_THT : Relay_SPST_Schrack-RT1-16A-FormA_RM5mm
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKRELRELAYSPSTSCHRACKRT116AFORMARM5](http://oom.lt/FZKRELRELAYSPSTSCHRACKRT116AFORMARM5)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_SPST_Schrack-RT1-16A-FormA_RM5mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_SPST_Schrack-RT1-16A-FormA_RM5mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_SPST_Schrack-RT1-16A-FormA_RM5mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_SPST_Schrack-RT1-16A-FormA_RM5mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_SPST_Schrack-RT1-16A-FormA_RM5mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_SPST_Schrack-RT1-16A-FormA_RM5mm/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_SPST_Schrack-RT1-16A-FormA_RM5mm/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_SPST_Schrack-RT1-16A-FormA_RM5mm/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_SPST_Schrack-RT1-16A-FormA_RM5mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_SPST_Schrack-RT1-16A-FormA_RM5mm/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_SPST_Schrack-RT1-16A-FormA_RM5mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_SPST_Schrack-RT1-16A-FormA_RM5mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_SPST_Schrack-RT1-16A-FormA_RM5mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_SPST_Schrack-RT1-16A-FormA_RM5mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_SPST_Schrack-RT1-16A-FormA_RM5mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_SPST_Schrack-RT1-16A-FormA_RM5mm/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_SPST_Schrack-RT1-16A-FormA_RM5mm/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_SPST_Schrack-RT1-16A-FormA_RM5mm/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_SPST_Schrack-RT1-16A-FormA_RM5mm/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

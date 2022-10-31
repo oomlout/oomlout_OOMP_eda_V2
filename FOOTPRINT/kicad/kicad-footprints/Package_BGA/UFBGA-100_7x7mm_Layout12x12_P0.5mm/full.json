@@ -5,6 +5,8 @@
     "distributorPartNumber": [],
     "eagleBoard": [],
     "eagleSchem": [],
+    "footprintEagle": [],
+    "footprintEagleDetails": [],
     "footprintKicad": [],
     "footprintKicadDetails": [
         {
@@ -49,6 +51,9 @@
         "details": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_BGA/UFBGA-100_7x7mm_Layout12x12_P0.5mm/details.py"
         ],
+        "image": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_BGA/UFBGA-100_7x7mm_Layout12x12_P0.5mm/image.png"
+        ],
         "imagePng": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_BGA/UFBGA-100_7x7mm_Layout12x12_P0.5mm/image.png"
         ],
@@ -87,6 +92,8 @@
     ],
     "oplPartNumber": [],
     "rawParts": [],
+    "symbolEagle": [],
+    "symbolEagleDetails": [],
     "symbolKicad": [],
     "symbolKicadDetails": []
 }

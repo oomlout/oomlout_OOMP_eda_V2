@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKCNPCBEDGESAMTECMECF8LDV2X8P127POLARIZEDEDGE > Connector_PCBEdge : Samtec_MECF-08-0_-L-DV_2x08_P1.27mm_Polarized_Edge](#fzkcnpcbedgesamtecmecf8ldv2x8p127polarizededge--connector_pcbedge--samtec_mecf-08-0_-l-dv_2x08_p127mm_polarized_edge)
+	* [Tags](#tags)
   
 ![][im]
 # FZKCNPCBEDGESAMTECMECF8LDV2X8P127POLARIZEDEDGE > Connector_PCBEdge : Samtec_MECF-08-0_-L-DV_2x08_P1.27mm_Polarized_Edge
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKCNPCBEDGESAMTECMECF8LDV2X8P127POLARIZEDEDGE](http://oom.lt/FZKCNPCBEDGESAMTECMECF8LDV2X8P127POLARIZEDEDGE)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_PCBEdge/Samtec_MECF-08-0_-L-DV_2x08_P1.27mm_Polarized_Edge/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_PCBEdge/Samtec_MECF-08-0_-L-DV_2x08_P1.27mm_Polarized_Edge/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_PCBEdge/Samtec_MECF-08-0_-L-DV_2x08_P1.27mm_Polarized_Edge/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_PCBEdge/Samtec_MECF-08-0_-L-DV_2x08_P1.27mm_Polarized_Edge/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_PCBEdge/Samtec_MECF-08-0_-L-DV_2x08_P1.27mm_Polarized_Edge/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_PCBEdge/Samtec_MECF-08-0_-L-DV_2x08_P1.27mm_Polarized_Edge/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_PCBEdge/Samtec_MECF-08-0_-L-DV_2x08_P1.27mm_Polarized_Edge/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_PCBEdge/Samtec_MECF-08-0_-L-DV_2x08_P1.27mm_Polarized_Edge/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_PCBEdge/Samtec_MECF-08-0_-L-DV_2x08_P1.27mm_Polarized_Edge/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_PCBEdge/Samtec_MECF-08-0_-L-DV_2x08_P1.27mm_Polarized_Edge/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_PCBEdge/Samtec_MECF-08-0_-L-DV_2x08_P1.27mm_Polarized_Edge/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_PCBEdge/Samtec_MECF-08-0_-L-DV_2x08_P1.27mm_Polarized_Edge/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_PCBEdge/Samtec_MECF-08-0_-L-DV_2x08_P1.27mm_Polarized_Edge/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_PCBEdge/Samtec_MECF-08-0_-L-DV_2x08_P1.27mm_Polarized_Edge/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_PCBEdge/Samtec_MECF-08-0_-L-DV_2x08_P1.27mm_Polarized_Edge/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_PCBEdge/Samtec_MECF-08-0_-L-DV_2x08_P1.27mm_Polarized_Edge/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_PCBEdge/Samtec_MECF-08-0_-L-DV_2x08_P1.27mm_Polarized_Edge/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_PCBEdge/Samtec_MECF-08-0_-L-DV_2x08_P1.27mm_Polarized_Edge/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Connector_PCBEdge/Samtec_MECF-08-0_-L-DV_2x08_P1.27mm_Polarized_Edge/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

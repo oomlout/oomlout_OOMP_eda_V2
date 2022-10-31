@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKCNFFCFPCHIROSEFH125S5SH1X51MPP5HORIZONTAL > Connector_FFC-FPC : Hirose_FH12-50S-0.5SH_1x50-1MP_P0.50mm_Horizontal](#fzkcnffcfpchirosefh125s5sh1x51mpp5horizontal--connector_ffc-fpc--hirose_fh12-50s-05sh_1x50-1mp_p050mm_horizontal)
+	* [Tags](#tags)
   
 ![][im]
 # FZKCNFFCFPCHIROSEFH125S5SH1X51MPP5HORIZONTAL > Connector_FFC-FPC : Hirose_FH12-50S-0.5SH_1x50-1MP_P0.50mm_Horizontal
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKCNFFCFPCHIROSEFH125S5SH1X51MPP5HORIZONTAL](http://oom.lt/FZKCNFFCFPCHIROSEFH125S5SH1X51MPP5HORIZONTAL)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_FFC-FPC/Hirose_FH12-50S-0.5SH_1x50-1MP_P0.50mm_Horizontal/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_FFC-FPC/Hirose_FH12-50S-0.5SH_1x50-1MP_P0.50mm_Horizontal/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_FFC-FPC/Hirose_FH12-50S-0.5SH_1x50-1MP_P0.50mm_Horizontal/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_FFC-FPC/Hirose_FH12-50S-0.5SH_1x50-1MP_P0.50mm_Horizontal/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_FFC-FPC/Hirose_FH12-50S-0.5SH_1x50-1MP_P0.50mm_Horizontal/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_FFC-FPC/Hirose_FH12-50S-0.5SH_1x50-1MP_P0.50mm_Horizontal/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_FFC-FPC/Hirose_FH12-50S-0.5SH_1x50-1MP_P0.50mm_Horizontal/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_FFC-FPC/Hirose_FH12-50S-0.5SH_1x50-1MP_P0.50mm_Horizontal/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_FFC-FPC/Hirose_FH12-50S-0.5SH_1x50-1MP_P0.50mm_Horizontal/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_FFC-FPC/Hirose_FH12-50S-0.5SH_1x50-1MP_P0.50mm_Horizontal/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_FFC-FPC/Hirose_FH12-50S-0.5SH_1x50-1MP_P0.50mm_Horizontal/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_FFC-FPC/Hirose_FH12-50S-0.5SH_1x50-1MP_P0.50mm_Horizontal/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_FFC-FPC/Hirose_FH12-50S-0.5SH_1x50-1MP_P0.50mm_Horizontal/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_FFC-FPC/Hirose_FH12-50S-0.5SH_1x50-1MP_P0.50mm_Horizontal/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_FFC-FPC/Hirose_FH12-50S-0.5SH_1x50-1MP_P0.50mm_Horizontal/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_FFC-FPC/Hirose_FH12-50S-0.5SH_1x50-1MP_P0.50mm_Horizontal/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_FFC-FPC/Hirose_FH12-50S-0.5SH_1x50-1MP_P0.50mm_Horizontal/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_FFC-FPC/Hirose_FH12-50S-0.5SH_1x50-1MP_P0.50mm_Horizontal/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Connector_FFC-FPC/Hirose_FH12-50S-0.5SH_1x50-1MP_P0.50mm_Horizontal/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

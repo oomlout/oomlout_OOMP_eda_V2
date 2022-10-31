@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKINDUCTORSMLTAIYOYUDENNR2XX > Inductor_SMD : L_Taiyo-Yuden_NR-20xx](#fzkinductorsmltaiyoyudennr2xx--inductor_smd--l_taiyo-yuden_nr-20xx)
+	* [Tags](#tags)
   
 ![][im]
 # FZKINDUCTORSMLTAIYOYUDENNR2XX > Inductor_SMD : L_Taiyo-Yuden_NR-20xx
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKINDUCTORSMLTAIYOYUDENNR2XX](http://oom.lt/FZKINDUCTORSMLTAIYOYUDENNR2XX)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Taiyo-Yuden_NR-20xx/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Taiyo-Yuden_NR-20xx/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Taiyo-Yuden_NR-20xx/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Taiyo-Yuden_NR-20xx/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Taiyo-Yuden_NR-20xx/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Taiyo-Yuden_NR-20xx/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Taiyo-Yuden_NR-20xx/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Taiyo-Yuden_NR-20xx/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Taiyo-Yuden_NR-20xx/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Taiyo-Yuden_NR-20xx/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Taiyo-Yuden_NR-20xx/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Taiyo-Yuden_NR-20xx/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Taiyo-Yuden_NR-20xx/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Taiyo-Yuden_NR-20xx/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Taiyo-Yuden_NR-20xx/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Taiyo-Yuden_NR-20xx/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Taiyo-Yuden_NR-20xx/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Taiyo-Yuden_NR-20xx/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_Taiyo-Yuden_NR-20xx/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

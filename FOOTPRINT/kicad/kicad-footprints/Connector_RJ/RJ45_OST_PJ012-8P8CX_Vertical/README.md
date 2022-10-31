@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKCNRJRJ45OSTPJ128P8CXVERTICAL > Connector_RJ : RJ45_OST_PJ012-8P8CX_Vertical](#fzkcnrjrj45ostpj128p8cxvertical--connector_rj--rj45_ost_pj012-8p8cx_vertical)
+	* [Tags](#tags)
   
 ![][im]
 # FZKCNRJRJ45OSTPJ128P8CXVERTICAL > Connector_RJ : RJ45_OST_PJ012-8P8CX_Vertical
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKCNRJRJ45OSTPJ128P8CXVERTICAL](http://oom.lt/FZKCNRJRJ45OSTPJ128P8CXVERTICAL)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_RJ/RJ45_OST_PJ012-8P8CX_Vertical/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_RJ/RJ45_OST_PJ012-8P8CX_Vertical/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_RJ/RJ45_OST_PJ012-8P8CX_Vertical/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_RJ/RJ45_OST_PJ012-8P8CX_Vertical/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_RJ/RJ45_OST_PJ012-8P8CX_Vertical/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_RJ/RJ45_OST_PJ012-8P8CX_Vertical/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_RJ/RJ45_OST_PJ012-8P8CX_Vertical/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_RJ/RJ45_OST_PJ012-8P8CX_Vertical/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_RJ/RJ45_OST_PJ012-8P8CX_Vertical/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_RJ/RJ45_OST_PJ012-8P8CX_Vertical/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_RJ/RJ45_OST_PJ012-8P8CX_Vertical/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_RJ/RJ45_OST_PJ012-8P8CX_Vertical/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_RJ/RJ45_OST_PJ012-8P8CX_Vertical/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_RJ/RJ45_OST_PJ012-8P8CX_Vertical/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_RJ/RJ45_OST_PJ012-8P8CX_Vertical/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_RJ/RJ45_OST_PJ012-8P8CX_Vertical/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_RJ/RJ45_OST_PJ012-8P8CX_Vertical/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_RJ/RJ45_OST_PJ012-8P8CX_Vertical/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Connector_RJ/RJ45_OST_PJ012-8P8CX_Vertical/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

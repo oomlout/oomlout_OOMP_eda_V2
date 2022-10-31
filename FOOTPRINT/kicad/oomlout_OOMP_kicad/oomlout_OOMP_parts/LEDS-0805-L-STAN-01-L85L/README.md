@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSLS85LSTAN1L85L > oomlout_OOMP_parts : LEDS-0805-L-STAN-01-L85L](#fzkicadoomloutoompkicadoomloutoomppartsls85lstan1l85l--oomlout_oomp_parts--leds-0805-l-stan-01-l85l)
+	* [Tags](#tags)
   
 ![][im]
 # FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSLS85LSTAN1L85L > oomlout_OOMP_parts : LEDS-0805-L-STAN-01-L85L
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSLS85LSTAN1L85L](http://oom.lt/FZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSLS85LSTAN1L85L)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/LEDS-0805-L-STAN-01-L85L/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/LEDS-0805-L-STAN-01-L85L/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/LEDS-0805-L-STAN-01-L85L/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/LEDS-0805-L-STAN-01-L85L/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/LEDS-0805-L-STAN-01-L85L/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/LEDS-0805-L-STAN-01-L85L/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/LEDS-0805-L-STAN-01-L85L/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/LEDS-0805-L-STAN-01-L85L/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/LEDS-0805-L-STAN-01-L85L/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/LEDS-0805-L-STAN-01-L85L/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/LEDS-0805-L-STAN-01-L85L/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/LEDS-0805-L-STAN-01-L85L/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/LEDS-0805-L-STAN-01-L85L/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/LEDS-0805-L-STAN-01-L85L/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/LEDS-0805-L-STAN-01-L85L/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/LEDS-0805-L-STAN-01-L85L/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/LEDS-0805-L-STAN-01-L85L/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/LEDS-0805-L-STAN-01-L85L/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/oomlout_OOMP_kicad/oomlout_OOMP_parts/LEDS-0805-L-STAN-01-L85L/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

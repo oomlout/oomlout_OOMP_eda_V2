@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKCNPHOENIXMSTBPHOENIXCONTACTMSTBV2515GF581X15P58VERTICALTHREADEDFLANGEMOUNTHOLE > Connector_Phoenix_MSTB : PhoenixContact_MSTBV_2,5_15-GF-5,08_1x15_P5.08mm_Vertical_ThreadedFlange_MountHole](#fzkcnphoenixmstbphoenixcontactmstbv2515gf581x15p58verticalthreadedflangemounthole--connector_phoenix_mstb--phoenixcontact_mstbv_25_15-gf-508_1x15_p508mm_vertical_threadedflange_mounthole)
+	* [Tags](#tags)
   
 ![][im]
 # FZKCNPHOENIXMSTBPHOENIXCONTACTMSTBV2515GF581X15P58VERTICALTHREADEDFLANGEMOUNTHOLE > Connector_Phoenix_MSTB : PhoenixContact_MSTBV_2,5_15-GF-5,08_1x15_P5.08mm_Vertical_ThreadedFlange_MountHole
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKCNPHOENIXMSTBPHOENIXCONTACTMSTBV2515GF581X15P58VERTICALTHREADEDFLANGEMOUNTHOLE](http://oom.lt/FZKCNPHOENIXMSTBPHOENIXCONTACTMSTBV2515GF581X15P58VERTICALTHREADEDFLANGEMOUNTHOLE)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MSTB/PhoenixContact_MSTBV_2,5_15-GF-5,08_1x15_P5.08mm_Vertical_ThreadedFlange_MountHole/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MSTB/PhoenixContact_MSTBV_2,5_15-GF-5,08_1x15_P5.08mm_Vertical_ThreadedFlange_MountHole/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MSTB/PhoenixContact_MSTBV_2,5_15-GF-5,08_1x15_P5.08mm_Vertical_ThreadedFlange_MountHole/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MSTB/PhoenixContact_MSTBV_2,5_15-GF-5,08_1x15_P5.08mm_Vertical_ThreadedFlange_MountHole/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MSTB/PhoenixContact_MSTBV_2,5_15-GF-5,08_1x15_P5.08mm_Vertical_ThreadedFlange_MountHole/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MSTB/PhoenixContact_MSTBV_2,5_15-GF-5,08_1x15_P5.08mm_Vertical_ThreadedFlange_MountHole/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MSTB/PhoenixContact_MSTBV_2,5_15-GF-5,08_1x15_P5.08mm_Vertical_ThreadedFlange_MountHole/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MSTB/PhoenixContact_MSTBV_2,5_15-GF-5,08_1x15_P5.08mm_Vertical_ThreadedFlange_MountHole/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MSTB/PhoenixContact_MSTBV_2,5_15-GF-5,08_1x15_P5.08mm_Vertical_ThreadedFlange_MountHole/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MSTB/PhoenixContact_MSTBV_2,5_15-GF-5,08_1x15_P5.08mm_Vertical_ThreadedFlange_MountHole/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MSTB/PhoenixContact_MSTBV_2,5_15-GF-5,08_1x15_P5.08mm_Vertical_ThreadedFlange_MountHole/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MSTB/PhoenixContact_MSTBV_2,5_15-GF-5,08_1x15_P5.08mm_Vertical_ThreadedFlange_MountHole/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MSTB/PhoenixContact_MSTBV_2,5_15-GF-5,08_1x15_P5.08mm_Vertical_ThreadedFlange_MountHole/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MSTB/PhoenixContact_MSTBV_2,5_15-GF-5,08_1x15_P5.08mm_Vertical_ThreadedFlange_MountHole/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MSTB/PhoenixContact_MSTBV_2,5_15-GF-5,08_1x15_P5.08mm_Vertical_ThreadedFlange_MountHole/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MSTB/PhoenixContact_MSTBV_2,5_15-GF-5,08_1x15_P5.08mm_Vertical_ThreadedFlange_MountHole/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MSTB/PhoenixContact_MSTBV_2,5_15-GF-5,08_1x15_P5.08mm_Vertical_ThreadedFlange_MountHole/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MSTB/PhoenixContact_MSTBV_2,5_15-GF-5,08_1x15_P5.08mm_Vertical_ThreadedFlange_MountHole/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MSTB/PhoenixContact_MSTBV_2,5_15-GF-5,08_1x15_P5.08mm_Vertical_ThreadedFlange_MountHole/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

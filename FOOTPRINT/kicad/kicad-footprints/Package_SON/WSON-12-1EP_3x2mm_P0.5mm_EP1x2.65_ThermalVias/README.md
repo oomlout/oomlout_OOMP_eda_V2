@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKSONWSON121EP3X2P5EP1X265THERMALVIAS > Package_SON : WSON-12-1EP_3x2mm_P0.5mm_EP1x2.65_ThermalVias](#fzksonwson121ep3x2p5ep1x265thermalvias--package_son--wson-12-1ep_3x2mm_p05mm_ep1x265_thermalvias)
+	* [Tags](#tags)
   
 ![][im]
 # FZKSONWSON121EP3X2P5EP1X265THERMALVIAS > Package_SON : WSON-12-1EP_3x2mm_P0.5mm_EP1x2.65_ThermalVias
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKSONWSON121EP3X2P5EP1X265THERMALVIAS](http://oom.lt/FZKSONWSON121EP3X2P5EP1X265THERMALVIAS)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SON/WSON-12-1EP_3x2mm_P0.5mm_EP1x2.65_ThermalVias/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SON/WSON-12-1EP_3x2mm_P0.5mm_EP1x2.65_ThermalVias/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SON/WSON-12-1EP_3x2mm_P0.5mm_EP1x2.65_ThermalVias/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SON/WSON-12-1EP_3x2mm_P0.5mm_EP1x2.65_ThermalVias/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SON/WSON-12-1EP_3x2mm_P0.5mm_EP1x2.65_ThermalVias/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SON/WSON-12-1EP_3x2mm_P0.5mm_EP1x2.65_ThermalVias/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SON/WSON-12-1EP_3x2mm_P0.5mm_EP1x2.65_ThermalVias/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SON/WSON-12-1EP_3x2mm_P0.5mm_EP1x2.65_ThermalVias/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SON/WSON-12-1EP_3x2mm_P0.5mm_EP1x2.65_ThermalVias/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SON/WSON-12-1EP_3x2mm_P0.5mm_EP1x2.65_ThermalVias/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SON/WSON-12-1EP_3x2mm_P0.5mm_EP1x2.65_ThermalVias/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SON/WSON-12-1EP_3x2mm_P0.5mm_EP1x2.65_ThermalVias/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SON/WSON-12-1EP_3x2mm_P0.5mm_EP1x2.65_ThermalVias/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SON/WSON-12-1EP_3x2mm_P0.5mm_EP1x2.65_ThermalVias/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SON/WSON-12-1EP_3x2mm_P0.5mm_EP1x2.65_ThermalVias/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SON/WSON-12-1EP_3x2mm_P0.5mm_EP1x2.65_ThermalVias/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SON/WSON-12-1EP_3x2mm_P0.5mm_EP1x2.65_ThermalVias/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SON/WSON-12-1EP_3x2mm_P0.5mm_EP1x2.65_ThermalVias/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Package_SON/WSON-12-1EP_3x2mm_P0.5mm_EP1x2.65_ThermalVias/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

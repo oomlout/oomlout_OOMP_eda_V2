@@ -5,6 +5,8 @@
     "distributorPartNumber": [],
     "eagleBoard": [],
     "eagleSchem": [],
+    "footprintEagle": [],
+    "footprintEagleDetails": [],
     "footprintKicad": [],
     "footprintKicadDetails": [
         {
@@ -48,6 +50,9 @@
         "details": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Ethernet_Jack_54602-908LF/details.py"
         ],
+        "image": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Ethernet_Jack_54602-908LF/image.png"
+        ],
         "imagePng": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/Ethernet_Jack_54602-908LF/image.png"
         ],
@@ -86,6 +91,8 @@
     ],
     "oplPartNumber": [],
     "rawParts": [],
+    "symbolEagle": [],
+    "symbolEagleDetails": [],
     "symbolKicad": [],
     "symbolKicadDetails": []
 }

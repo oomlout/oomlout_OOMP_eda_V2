@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKDFNQFN241EP5X5P65EP34X34 > Package_DFN_QFN : QFN-24-1EP_5x5mm_P0.65mm_EP3.4x3.4mm](#fzkdfnqfn241ep5x5p65ep34x34--package_dfn_qfn--qfn-24-1ep_5x5mm_p065mm_ep34x34mm)
+	* [Tags](#tags)
   
 ![][im]
 # FZKDFNQFN241EP5X5P65EP34X34 > Package_DFN_QFN : QFN-24-1EP_5x5mm_P0.65mm_EP3.4x3.4mm
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKDFNQFN241EP5X5P65EP34X34](http://oom.lt/FZKDFNQFN241EP5X5P65EP34X34)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/QFN-24-1EP_5x5mm_P0.65mm_EP3.4x3.4mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/QFN-24-1EP_5x5mm_P0.65mm_EP3.4x3.4mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/QFN-24-1EP_5x5mm_P0.65mm_EP3.4x3.4mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/QFN-24-1EP_5x5mm_P0.65mm_EP3.4x3.4mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/QFN-24-1EP_5x5mm_P0.65mm_EP3.4x3.4mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/QFN-24-1EP_5x5mm_P0.65mm_EP3.4x3.4mm/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/QFN-24-1EP_5x5mm_P0.65mm_EP3.4x3.4mm/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/QFN-24-1EP_5x5mm_P0.65mm_EP3.4x3.4mm/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/QFN-24-1EP_5x5mm_P0.65mm_EP3.4x3.4mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/QFN-24-1EP_5x5mm_P0.65mm_EP3.4x3.4mm/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/QFN-24-1EP_5x5mm_P0.65mm_EP3.4x3.4mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/QFN-24-1EP_5x5mm_P0.65mm_EP3.4x3.4mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/QFN-24-1EP_5x5mm_P0.65mm_EP3.4x3.4mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/QFN-24-1EP_5x5mm_P0.65mm_EP3.4x3.4mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/QFN-24-1EP_5x5mm_P0.65mm_EP3.4x3.4mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/QFN-24-1EP_5x5mm_P0.65mm_EP3.4x3.4mm/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/QFN-24-1EP_5x5mm_P0.65mm_EP3.4x3.4mm/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/QFN-24-1EP_5x5mm_P0.65mm_EP3.4x3.4mm/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/QFN-24-1EP_5x5mm_P0.65mm_EP3.4x3.4mm/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

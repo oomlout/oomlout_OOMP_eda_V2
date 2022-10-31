@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKOCSOCSSEIKOEPSONSG82DC > Oscillator : Oscillator_SeikoEpson_SG-8002DC](#fzkocsocsseikoepsonsg82dc--oscillator--oscillator_seikoepson_sg-8002dc)
+	* [Tags](#tags)
   
 ![][im]
 # FZKOCSOCSSEIKOEPSONSG82DC > Oscillator : Oscillator_SeikoEpson_SG-8002DC
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKOCSOCSSEIKOEPSONSG82DC](http://oom.lt/FZKOCSOCSSEIKOEPSONSG82DC)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SeikoEpson_SG-8002DC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SeikoEpson_SG-8002DC/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SeikoEpson_SG-8002DC/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SeikoEpson_SG-8002DC/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SeikoEpson_SG-8002DC/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SeikoEpson_SG-8002DC/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SeikoEpson_SG-8002DC/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SeikoEpson_SG-8002DC/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SeikoEpson_SG-8002DC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SeikoEpson_SG-8002DC/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SeikoEpson_SG-8002DC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SeikoEpson_SG-8002DC/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SeikoEpson_SG-8002DC/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SeikoEpson_SG-8002DC/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SeikoEpson_SG-8002DC/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SeikoEpson_SG-8002DC/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SeikoEpson_SG-8002DC/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SeikoEpson_SG-8002DC/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SeikoEpson_SG-8002DC/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

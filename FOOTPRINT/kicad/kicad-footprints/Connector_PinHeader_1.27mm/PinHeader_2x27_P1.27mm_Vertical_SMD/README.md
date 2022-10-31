@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKCNPINHEADER127PINHEADER2X27P127VERTICALSM > Connector_PinHeader_1.27mm : PinHeader_2x27_P1.27mm_Vertical_SMD](#fzkcnpinheader127pinheader2x27p127verticalsm--connector_pinheader_127mm--pinheader_2x27_p127mm_vertical_smd)
+	* [Tags](#tags)
   
 ![][im]
 # FZKCNPINHEADER127PINHEADER2X27P127VERTICALSM > Connector_PinHeader_1.27mm : PinHeader_2x27_P1.27mm_Vertical_SMD
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKCNPINHEADER127PINHEADER2X27P127VERTICALSM](http://oom.lt/FZKCNPINHEADER127PINHEADER2X27P127VERTICALSM)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_PinHeader_1.27mm/PinHeader_2x27_P1.27mm_Vertical_SMD/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_PinHeader_1.27mm/PinHeader_2x27_P1.27mm_Vertical_SMD/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_PinHeader_1.27mm/PinHeader_2x27_P1.27mm_Vertical_SMD/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_PinHeader_1.27mm/PinHeader_2x27_P1.27mm_Vertical_SMD/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_PinHeader_1.27mm/PinHeader_2x27_P1.27mm_Vertical_SMD/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_PinHeader_1.27mm/PinHeader_2x27_P1.27mm_Vertical_SMD/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_PinHeader_1.27mm/PinHeader_2x27_P1.27mm_Vertical_SMD/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_PinHeader_1.27mm/PinHeader_2x27_P1.27mm_Vertical_SMD/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_PinHeader_1.27mm/PinHeader_2x27_P1.27mm_Vertical_SMD/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_PinHeader_1.27mm/PinHeader_2x27_P1.27mm_Vertical_SMD/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_PinHeader_1.27mm/PinHeader_2x27_P1.27mm_Vertical_SMD/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_PinHeader_1.27mm/PinHeader_2x27_P1.27mm_Vertical_SMD/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_PinHeader_1.27mm/PinHeader_2x27_P1.27mm_Vertical_SMD/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_PinHeader_1.27mm/PinHeader_2x27_P1.27mm_Vertical_SMD/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_PinHeader_1.27mm/PinHeader_2x27_P1.27mm_Vertical_SMD/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_PinHeader_1.27mm/PinHeader_2x27_P1.27mm_Vertical_SMD/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_PinHeader_1.27mm/PinHeader_2x27_P1.27mm_Vertical_SMD/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_PinHeader_1.27mm/PinHeader_2x27_P1.27mm_Vertical_SMD/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Connector_PinHeader_1.27mm/PinHeader_2x27_P1.27mm_Vertical_SMD/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

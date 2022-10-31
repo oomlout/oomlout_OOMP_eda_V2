@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKVRVDISCD12W48P75 > Varistor : RV_Disc_D12mm_W4.8mm_P7.5mm](#fzkvrvdiscd12w48p75--varistor--rv_disc_d12mm_w48mm_p75mm)
+	* [Tags](#tags)
   
 ![][im]
 # FZKVRVDISCD12W48P75 > Varistor : RV_Disc_D12mm_W4.8mm_P7.5mm
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKVRVDISCD12W48P75](http://oom.lt/FZKVRVDISCD12W48P75)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Varistor/RV_Disc_D12mm_W4.8mm_P7.5mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Varistor/RV_Disc_D12mm_W4.8mm_P7.5mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Varistor/RV_Disc_D12mm_W4.8mm_P7.5mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Varistor/RV_Disc_D12mm_W4.8mm_P7.5mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Varistor/RV_Disc_D12mm_W4.8mm_P7.5mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Varistor/RV_Disc_D12mm_W4.8mm_P7.5mm/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Varistor/RV_Disc_D12mm_W4.8mm_P7.5mm/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Varistor/RV_Disc_D12mm_W4.8mm_P7.5mm/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Varistor/RV_Disc_D12mm_W4.8mm_P7.5mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Varistor/RV_Disc_D12mm_W4.8mm_P7.5mm/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Varistor/RV_Disc_D12mm_W4.8mm_P7.5mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Varistor/RV_Disc_D12mm_W4.8mm_P7.5mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Varistor/RV_Disc_D12mm_W4.8mm_P7.5mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Varistor/RV_Disc_D12mm_W4.8mm_P7.5mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Varistor/RV_Disc_D12mm_W4.8mm_P7.5mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Varistor/RV_Disc_D12mm_W4.8mm_P7.5mm/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Varistor/RV_Disc_D12mm_W4.8mm_P7.5mm/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Varistor/RV_Disc_D12mm_W4.8mm_P7.5mm/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Varistor/RV_Disc_D12mm_W4.8mm_P7.5mm/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

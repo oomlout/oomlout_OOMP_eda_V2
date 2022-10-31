@@ -5,6 +5,8 @@
     "distributorPartNumber": [],
     "eagleBoard": [],
     "eagleSchem": [],
+    "footprintEagle": [],
+    "footprintEagleDetails": [],
     "footprintKicad": [],
     "footprintKicadDetails": [
         {
@@ -49,6 +51,9 @@
         "details": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/Buzzer_TDK_PS1240P02BT_D12.2mm_H6.5mm/details.py"
         ],
+        "image": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/Buzzer_TDK_PS1240P02BT_D12.2mm_H6.5mm/image.png"
+        ],
         "imagePng": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/Buzzer_TDK_PS1240P02BT_D12.2mm_H6.5mm/image.png"
         ],
@@ -87,6 +92,8 @@
     ],
     "oplPartNumber": [],
     "rawParts": [],
+    "symbolEagle": [],
+    "symbolEagleDetails": [],
     "symbolKicad": [],
     "symbolKicadDetails": []
 }

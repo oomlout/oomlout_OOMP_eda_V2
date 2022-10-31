@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKXXSMSEIKOEPSONMA552PIN127X51 > Crystal : Crystal_SMD_SeikoEpson_MA505-2Pin_12.7x5.1mm](#fzkxxsmseikoepsonma552pin127x51--crystal--crystal_smd_seikoepson_ma505-2pin_127x51mm)
+	* [Tags](#tags)
   
 ![][im]
 # FZKXXSMSEIKOEPSONMA552PIN127X51 > Crystal : Crystal_SMD_SeikoEpson_MA505-2Pin_12.7x5.1mm
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKXXSMSEIKOEPSONMA552PIN127X51](http://oom.lt/FZKXXSMSEIKOEPSONMA552PIN127X51)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_SeikoEpson_MA505-2Pin_12.7x5.1mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_SeikoEpson_MA505-2Pin_12.7x5.1mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_SeikoEpson_MA505-2Pin_12.7x5.1mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_SeikoEpson_MA505-2Pin_12.7x5.1mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_SeikoEpson_MA505-2Pin_12.7x5.1mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_SeikoEpson_MA505-2Pin_12.7x5.1mm/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_SeikoEpson_MA505-2Pin_12.7x5.1mm/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_SeikoEpson_MA505-2Pin_12.7x5.1mm/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_SeikoEpson_MA505-2Pin_12.7x5.1mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_SeikoEpson_MA505-2Pin_12.7x5.1mm/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_SeikoEpson_MA505-2Pin_12.7x5.1mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_SeikoEpson_MA505-2Pin_12.7x5.1mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_SeikoEpson_MA505-2Pin_12.7x5.1mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_SeikoEpson_MA505-2Pin_12.7x5.1mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_SeikoEpson_MA505-2Pin_12.7x5.1mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_SeikoEpson_MA505-2Pin_12.7x5.1mm/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_SeikoEpson_MA505-2Pin_12.7x5.1mm/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_SeikoEpson_MA505-2Pin_12.7x5.1mm/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_SeikoEpson_MA505-2Pin_12.7x5.1mm/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

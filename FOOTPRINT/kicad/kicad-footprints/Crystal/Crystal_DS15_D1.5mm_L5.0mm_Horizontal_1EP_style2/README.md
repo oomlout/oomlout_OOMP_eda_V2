@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKXXDS15D15L5HORIZONTAL1EPSTYLE2 > Crystal : Crystal_DS15_D1.5mm_L5.0mm_Horizontal_1EP_style2](#fzkxxds15d15l5horizontal1epstyle2--crystal--crystal_ds15_d15mm_l50mm_horizontal_1ep_style2)
+	* [Tags](#tags)
   
 ![][im]
 # FZKXXDS15D15L5HORIZONTAL1EPSTYLE2 > Crystal : Crystal_DS15_D1.5mm_L5.0mm_Horizontal_1EP_style2
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKXXDS15D15L5HORIZONTAL1EPSTYLE2](http://oom.lt/FZKXXDS15D15L5HORIZONTAL1EPSTYLE2)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_DS15_D1.5mm_L5.0mm_Horizontal_1EP_style2/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_DS15_D1.5mm_L5.0mm_Horizontal_1EP_style2/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_DS15_D1.5mm_L5.0mm_Horizontal_1EP_style2/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_DS15_D1.5mm_L5.0mm_Horizontal_1EP_style2/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_DS15_D1.5mm_L5.0mm_Horizontal_1EP_style2/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_DS15_D1.5mm_L5.0mm_Horizontal_1EP_style2/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_DS15_D1.5mm_L5.0mm_Horizontal_1EP_style2/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_DS15_D1.5mm_L5.0mm_Horizontal_1EP_style2/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_DS15_D1.5mm_L5.0mm_Horizontal_1EP_style2/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_DS15_D1.5mm_L5.0mm_Horizontal_1EP_style2/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_DS15_D1.5mm_L5.0mm_Horizontal_1EP_style2/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_DS15_D1.5mm_L5.0mm_Horizontal_1EP_style2/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_DS15_D1.5mm_L5.0mm_Horizontal_1EP_style2/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_DS15_D1.5mm_L5.0mm_Horizontal_1EP_style2/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_DS15_D1.5mm_L5.0mm_Horizontal_1EP_style2/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_DS15_D1.5mm_L5.0mm_Horizontal_1EP_style2/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_DS15_D1.5mm_L5.0mm_Horizontal_1EP_style2/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_DS15_D1.5mm_L5.0mm_Horizontal_1EP_style2/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_DS15_D1.5mm_L5.0mm_Horizontal_1EP_style2/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

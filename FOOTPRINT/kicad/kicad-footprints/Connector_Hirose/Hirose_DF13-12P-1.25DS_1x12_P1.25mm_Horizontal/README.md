@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKCNHIROSEHIROSEDF1312P125DS1X12P125HORIZONTAL > Connector_Hirose : Hirose_DF13-12P-1.25DS_1x12_P1.25mm_Horizontal](#fzkcnhirosehirosedf1312p125ds1x12p125horizontal--connector_hirose--hirose_df13-12p-125ds_1x12_p125mm_horizontal)
+	* [Tags](#tags)
   
 ![][im]
 # FZKCNHIROSEHIROSEDF1312P125DS1X12P125HORIZONTAL > Connector_Hirose : Hirose_DF13-12P-1.25DS_1x12_P1.25mm_Horizontal
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKCNHIROSEHIROSEDF1312P125DS1X12P125HORIZONTAL](http://oom.lt/FZKCNHIROSEHIROSEDF1312P125DS1X12P125HORIZONTAL)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Hirose/Hirose_DF13-12P-1.25DS_1x12_P1.25mm_Horizontal/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Hirose/Hirose_DF13-12P-1.25DS_1x12_P1.25mm_Horizontal/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Hirose/Hirose_DF13-12P-1.25DS_1x12_P1.25mm_Horizontal/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Hirose/Hirose_DF13-12P-1.25DS_1x12_P1.25mm_Horizontal/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Hirose/Hirose_DF13-12P-1.25DS_1x12_P1.25mm_Horizontal/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Hirose/Hirose_DF13-12P-1.25DS_1x12_P1.25mm_Horizontal/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Hirose/Hirose_DF13-12P-1.25DS_1x12_P1.25mm_Horizontal/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Hirose/Hirose_DF13-12P-1.25DS_1x12_P1.25mm_Horizontal/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Hirose/Hirose_DF13-12P-1.25DS_1x12_P1.25mm_Horizontal/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Hirose/Hirose_DF13-12P-1.25DS_1x12_P1.25mm_Horizontal/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Hirose/Hirose_DF13-12P-1.25DS_1x12_P1.25mm_Horizontal/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Hirose/Hirose_DF13-12P-1.25DS_1x12_P1.25mm_Horizontal/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Hirose/Hirose_DF13-12P-1.25DS_1x12_P1.25mm_Horizontal/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Hirose/Hirose_DF13-12P-1.25DS_1x12_P1.25mm_Horizontal/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Hirose/Hirose_DF13-12P-1.25DS_1x12_P1.25mm_Horizontal/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Hirose/Hirose_DF13-12P-1.25DS_1x12_P1.25mm_Horizontal/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Hirose/Hirose_DF13-12P-1.25DS_1x12_P1.25mm_Horizontal/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Hirose/Hirose_DF13-12P-1.25DS_1x12_P1.25mm_Horizontal/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Connector_Hirose/Hirose_DF13-12P-1.25DS_1x12_P1.25mm_Horizontal/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

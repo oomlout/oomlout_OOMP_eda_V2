@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKLSMLOSRAMLXP47FD2RMOUNT > LED_SMD : LED_Osram_Lx_P47F_D2mm_ReverseMount](#fzklsmlosramlxp47fd2rmount--led_smd--led_osram_lx_p47f_d2mm_reversemount)
+	* [Tags](#tags)
   
 ![][im]
 # FZKLSMLOSRAMLXP47FD2RMOUNT > LED_SMD : LED_Osram_Lx_P47F_D2mm_ReverseMount
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKLSMLOSRAMLXP47FD2RMOUNT](http://oom.lt/FZKLSMLOSRAMLXP47FD2RMOUNT)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Osram_Lx_P47F_D2mm_ReverseMount/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Osram_Lx_P47F_D2mm_ReverseMount/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Osram_Lx_P47F_D2mm_ReverseMount/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Osram_Lx_P47F_D2mm_ReverseMount/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Osram_Lx_P47F_D2mm_ReverseMount/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Osram_Lx_P47F_D2mm_ReverseMount/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Osram_Lx_P47F_D2mm_ReverseMount/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Osram_Lx_P47F_D2mm_ReverseMount/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Osram_Lx_P47F_D2mm_ReverseMount/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Osram_Lx_P47F_D2mm_ReverseMount/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Osram_Lx_P47F_D2mm_ReverseMount/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Osram_Lx_P47F_D2mm_ReverseMount/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Osram_Lx_P47F_D2mm_ReverseMount/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Osram_Lx_P47F_D2mm_ReverseMount/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Osram_Lx_P47F_D2mm_ReverseMount/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Osram_Lx_P47F_D2mm_ReverseMount/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Osram_Lx_P47F_D2mm_ReverseMount/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Osram_Lx_P47F_D2mm_ReverseMount/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Osram_Lx_P47F_D2mm_ReverseMount/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

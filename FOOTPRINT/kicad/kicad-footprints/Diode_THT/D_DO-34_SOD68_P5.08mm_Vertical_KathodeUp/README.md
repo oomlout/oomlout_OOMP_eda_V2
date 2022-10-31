@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKDDDO34SOD68P58VERTICALKATHODEUP > Diode_THT : D_DO-34_SOD68_P5.08mm_Vertical_KathodeUp](#fzkdddo34sod68p58verticalkathodeup--diode_tht--d_do-34_sod68_p508mm_vertical_kathodeup)
+	* [Tags](#tags)
   
 ![][im]
 # FZKDDDO34SOD68P58VERTICALKATHODEUP > Diode_THT : D_DO-34_SOD68_P5.08mm_Vertical_KathodeUp
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKDDDO34SOD68P58VERTICALKATHODEUP](http://oom.lt/FZKDDDO34SOD68P58VERTICALKATHODEUP)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Diode_THT/D_DO-34_SOD68_P5.08mm_Vertical_KathodeUp/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Diode_THT/D_DO-34_SOD68_P5.08mm_Vertical_KathodeUp/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Diode_THT/D_DO-34_SOD68_P5.08mm_Vertical_KathodeUp/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Diode_THT/D_DO-34_SOD68_P5.08mm_Vertical_KathodeUp/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Diode_THT/D_DO-34_SOD68_P5.08mm_Vertical_KathodeUp/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Diode_THT/D_DO-34_SOD68_P5.08mm_Vertical_KathodeUp/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Diode_THT/D_DO-34_SOD68_P5.08mm_Vertical_KathodeUp/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Diode_THT/D_DO-34_SOD68_P5.08mm_Vertical_KathodeUp/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Diode_THT/D_DO-34_SOD68_P5.08mm_Vertical_KathodeUp/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Diode_THT/D_DO-34_SOD68_P5.08mm_Vertical_KathodeUp/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Diode_THT/D_DO-34_SOD68_P5.08mm_Vertical_KathodeUp/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Diode_THT/D_DO-34_SOD68_P5.08mm_Vertical_KathodeUp/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Diode_THT/D_DO-34_SOD68_P5.08mm_Vertical_KathodeUp/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Diode_THT/D_DO-34_SOD68_P5.08mm_Vertical_KathodeUp/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Diode_THT/D_DO-34_SOD68_P5.08mm_Vertical_KathodeUp/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Diode_THT/D_DO-34_SOD68_P5.08mm_Vertical_KathodeUp/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Diode_THT/D_DO-34_SOD68_P5.08mm_Vertical_KathodeUp/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Diode_THT/D_DO-34_SOD68_P5.08mm_Vertical_KathodeUp/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Diode_THT/D_DO-34_SOD68_P5.08mm_Vertical_KathodeUp/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

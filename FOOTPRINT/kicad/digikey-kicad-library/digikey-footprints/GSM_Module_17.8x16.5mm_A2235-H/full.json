@@ -5,6 +5,8 @@
     "distributorPartNumber": [],
     "eagleBoard": [],
     "eagleSchem": [],
+    "footprintEagle": [],
+    "footprintEagleDetails": [],
     "footprintKicad": [],
     "footprintKicadDetails": [
         {
@@ -47,6 +49,9 @@
         "details": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/GSM_Module_17.8x16.5mm_A2235-H/details.py"
         ],
+        "image": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/GSM_Module_17.8x16.5mm_A2235-H/image.png"
+        ],
         "imagePng": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/GSM_Module_17.8x16.5mm_A2235-H/image.png"
         ],
@@ -85,6 +90,8 @@
     ],
     "oplPartNumber": [],
     "rawParts": [],
+    "symbolEagle": [],
+    "symbolEagleDetails": [],
     "symbolKicad": [],
     "symbolKicadDetails": []
 }

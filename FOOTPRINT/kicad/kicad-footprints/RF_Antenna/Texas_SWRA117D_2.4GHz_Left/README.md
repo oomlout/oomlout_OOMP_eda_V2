@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKRFTEXASSWRA117D24GHZLEFT > RF_Antenna : Texas_SWRA117D_2.4GHz_Left](#fzkrftexasswra117d24ghzleft--rf_antenna--texas_swra117d_24ghz_left)
+	* [Tags](#tags)
   
 ![][im]
 # FZKRFTEXASSWRA117D24GHZLEFT > RF_Antenna : Texas_SWRA117D_2.4GHz_Left
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKRFTEXASSWRA117D24GHZLEFT](http://oom.lt/FZKRFTEXASSWRA117D24GHZLEFT)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/RF_Antenna/Texas_SWRA117D_2.4GHz_Left/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/RF_Antenna/Texas_SWRA117D_2.4GHz_Left/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/RF_Antenna/Texas_SWRA117D_2.4GHz_Left/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/RF_Antenna/Texas_SWRA117D_2.4GHz_Left/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/RF_Antenna/Texas_SWRA117D_2.4GHz_Left/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/RF_Antenna/Texas_SWRA117D_2.4GHz_Left/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/RF_Antenna/Texas_SWRA117D_2.4GHz_Left/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/RF_Antenna/Texas_SWRA117D_2.4GHz_Left/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/RF_Antenna/Texas_SWRA117D_2.4GHz_Left/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/RF_Antenna/Texas_SWRA117D_2.4GHz_Left/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/RF_Antenna/Texas_SWRA117D_2.4GHz_Left/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/RF_Antenna/Texas_SWRA117D_2.4GHz_Left/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/RF_Antenna/Texas_SWRA117D_2.4GHz_Left/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/RF_Antenna/Texas_SWRA117D_2.4GHz_Left/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/RF_Antenna/Texas_SWRA117D_2.4GHz_Left/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/RF_Antenna/Texas_SWRA117D_2.4GHz_Left/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/RF_Antenna/Texas_SWRA117D_2.4GHz_Left/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/RF_Antenna/Texas_SWRA117D_2.4GHz_Left/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/RF_Antenna/Texas_SWRA117D_2.4GHz_Left/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

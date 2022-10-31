@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKBSWITCHSMSWSPSTOMRONB3FS15XP > Button_Switch_SMD : SW_SPST_Omron_B3FS-105xP](#fzkbswitchsmswspstomronb3fs15xp--button_switch_smd--sw_spst_omron_b3fs-105xp)
+	* [Tags](#tags)
   
 ![][im]
 # FZKBSWITCHSMSWSPSTOMRONB3FS15XP > Button_Switch_SMD : SW_SPST_Omron_B3FS-105xP
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKBSWITCHSMSWSPSTOMRONB3FS15XP](http://oom.lt/FZKBSWITCHSMSWSPSTOMRONB3FS15XP)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_SPST_Omron_B3FS-105xP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_SPST_Omron_B3FS-105xP/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_SPST_Omron_B3FS-105xP/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_SPST_Omron_B3FS-105xP/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_SPST_Omron_B3FS-105xP/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_SPST_Omron_B3FS-105xP/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_SPST_Omron_B3FS-105xP/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_SPST_Omron_B3FS-105xP/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_SPST_Omron_B3FS-105xP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_SPST_Omron_B3FS-105xP/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_SPST_Omron_B3FS-105xP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_SPST_Omron_B3FS-105xP/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_SPST_Omron_B3FS-105xP/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_SPST_Omron_B3FS-105xP/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_SPST_Omron_B3FS-105xP/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_SPST_Omron_B3FS-105xP/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_SPST_Omron_B3FS-105xP/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_SPST_Omron_B3FS-105xP/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_SPST_Omron_B3FS-105xP/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

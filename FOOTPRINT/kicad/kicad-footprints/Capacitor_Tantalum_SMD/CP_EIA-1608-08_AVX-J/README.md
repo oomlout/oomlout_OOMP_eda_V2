@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKCAPACITORTANTALUMSMCPEIA1688AVXJ > Capacitor_Tantalum_SMD : CP_EIA-1608-08_AVX-J](#fzkcapacitortantalumsmcpeia1688avxj--capacitor_tantalum_smd--cp_eia-1608-08_avx-j)
+	* [Tags](#tags)
   
 ![][im]
 # FZKCAPACITORTANTALUMSMCPEIA1688AVXJ > Capacitor_Tantalum_SMD : CP_EIA-1608-08_AVX-J
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKCAPACITORTANTALUMSMCPEIA1688AVXJ](http://oom.lt/FZKCAPACITORTANTALUMSMCPEIA1688AVXJ)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_Tantalum_SMD/CP_EIA-1608-08_AVX-J/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_Tantalum_SMD/CP_EIA-1608-08_AVX-J/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_Tantalum_SMD/CP_EIA-1608-08_AVX-J/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_Tantalum_SMD/CP_EIA-1608-08_AVX-J/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_Tantalum_SMD/CP_EIA-1608-08_AVX-J/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_Tantalum_SMD/CP_EIA-1608-08_AVX-J/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_Tantalum_SMD/CP_EIA-1608-08_AVX-J/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_Tantalum_SMD/CP_EIA-1608-08_AVX-J/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_Tantalum_SMD/CP_EIA-1608-08_AVX-J/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_Tantalum_SMD/CP_EIA-1608-08_AVX-J/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_Tantalum_SMD/CP_EIA-1608-08_AVX-J/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_Tantalum_SMD/CP_EIA-1608-08_AVX-J/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_Tantalum_SMD/CP_EIA-1608-08_AVX-J/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_Tantalum_SMD/CP_EIA-1608-08_AVX-J/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_Tantalum_SMD/CP_EIA-1608-08_AVX-J/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_Tantalum_SMD/CP_EIA-1608-08_AVX-J/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_Tantalum_SMD/CP_EIA-1608-08_AVX-J/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_Tantalum_SMD/CP_EIA-1608-08_AVX-J/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Capacitor_Tantalum_SMD/CP_EIA-1608-08_AVX-J/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

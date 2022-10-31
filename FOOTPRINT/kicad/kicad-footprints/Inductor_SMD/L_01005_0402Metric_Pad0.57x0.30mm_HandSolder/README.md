@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKINDUCTORSML1542METRICPAD57X3HANDSOLDER > Inductor_SMD : L_01005_0402Metric_Pad0.57x0.30mm_HandSolder](#fzkinductorsml1542metricpad57x3handsolder--inductor_smd--l_01005_0402metric_pad057x030mm_handsolder)
+	* [Tags](#tags)
   
 ![][im]
 # FZKINDUCTORSML1542METRICPAD57X3HANDSOLDER > Inductor_SMD : L_01005_0402Metric_Pad0.57x0.30mm_HandSolder
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKINDUCTORSML1542METRICPAD57X3HANDSOLDER](http://oom.lt/FZKINDUCTORSML1542METRICPAD57X3HANDSOLDER)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_01005_0402Metric_Pad0.57x0.30mm_HandSolder/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_01005_0402Metric_Pad0.57x0.30mm_HandSolder/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_01005_0402Metric_Pad0.57x0.30mm_HandSolder/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_01005_0402Metric_Pad0.57x0.30mm_HandSolder/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_01005_0402Metric_Pad0.57x0.30mm_HandSolder/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_01005_0402Metric_Pad0.57x0.30mm_HandSolder/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_01005_0402Metric_Pad0.57x0.30mm_HandSolder/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_01005_0402Metric_Pad0.57x0.30mm_HandSolder/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_01005_0402Metric_Pad0.57x0.30mm_HandSolder/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_01005_0402Metric_Pad0.57x0.30mm_HandSolder/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_01005_0402Metric_Pad0.57x0.30mm_HandSolder/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_01005_0402Metric_Pad0.57x0.30mm_HandSolder/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_01005_0402Metric_Pad0.57x0.30mm_HandSolder/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_01005_0402Metric_Pad0.57x0.30mm_HandSolder/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_01005_0402Metric_Pad0.57x0.30mm_HandSolder/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_01005_0402Metric_Pad0.57x0.30mm_HandSolder/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_01005_0402Metric_Pad0.57x0.30mm_HandSolder/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_01005_0402Metric_Pad0.57x0.30mm_HandSolder/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_01005_0402Metric_Pad0.57x0.30mm_HandSolder/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

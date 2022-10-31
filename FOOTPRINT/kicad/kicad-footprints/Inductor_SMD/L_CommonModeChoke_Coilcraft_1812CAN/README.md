@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKINDUCTORSMLCOONMODECHOKECOILCRAFT1812CAN > Inductor_SMD : L_CommonModeChoke_Coilcraft_1812CAN](#fzkinductorsmlcoonmodechokecoilcraft1812can--inductor_smd--l_commonmodechoke_coilcraft_1812can)
+	* [Tags](#tags)
   
 ![][im]
 # FZKINDUCTORSMLCOONMODECHOKECOILCRAFT1812CAN > Inductor_SMD : L_CommonModeChoke_Coilcraft_1812CAN
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKINDUCTORSMLCOONMODECHOKECOILCRAFT1812CAN](http://oom.lt/FZKINDUCTORSMLCOONMODECHOKECOILCRAFT1812CAN)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_CommonModeChoke_Coilcraft_1812CAN/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_CommonModeChoke_Coilcraft_1812CAN/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_CommonModeChoke_Coilcraft_1812CAN/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_CommonModeChoke_Coilcraft_1812CAN/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_CommonModeChoke_Coilcraft_1812CAN/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_CommonModeChoke_Coilcraft_1812CAN/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_CommonModeChoke_Coilcraft_1812CAN/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_CommonModeChoke_Coilcraft_1812CAN/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_CommonModeChoke_Coilcraft_1812CAN/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_CommonModeChoke_Coilcraft_1812CAN/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_CommonModeChoke_Coilcraft_1812CAN/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_CommonModeChoke_Coilcraft_1812CAN/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_CommonModeChoke_Coilcraft_1812CAN/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_CommonModeChoke_Coilcraft_1812CAN/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_CommonModeChoke_Coilcraft_1812CAN/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_CommonModeChoke_Coilcraft_1812CAN/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_CommonModeChoke_Coilcraft_1812CAN/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_CommonModeChoke_Coilcraft_1812CAN/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Inductor_SMD/L_CommonModeChoke_Coilcraft_1812CAN/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

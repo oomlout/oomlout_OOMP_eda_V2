@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKCNHIROSEHIROSEDF12DF12C31DS5V2X5P5VERTICAL > Connector_Hirose : Hirose_DF12_DF12C3.0-10DS-0.5V_2x05_P0.50mm_Vertical](#fzkcnhirosehirosedf12df12c31ds5v2x5p5vertical--connector_hirose--hirose_df12_df12c30-10ds-05v_2x05_p050mm_vertical)
+	* [Tags](#tags)
   
 ![][im]
 # FZKCNHIROSEHIROSEDF12DF12C31DS5V2X5P5VERTICAL > Connector_Hirose : Hirose_DF12_DF12C3.0-10DS-0.5V_2x05_P0.50mm_Vertical
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKCNHIROSEHIROSEDF12DF12C31DS5V2X5P5VERTICAL](http://oom.lt/FZKCNHIROSEHIROSEDF12DF12C31DS5V2X5P5VERTICAL)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Hirose/Hirose_DF12_DF12C3.0-10DS-0.5V_2x05_P0.50mm_Vertical/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Hirose/Hirose_DF12_DF12C3.0-10DS-0.5V_2x05_P0.50mm_Vertical/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Hirose/Hirose_DF12_DF12C3.0-10DS-0.5V_2x05_P0.50mm_Vertical/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Hirose/Hirose_DF12_DF12C3.0-10DS-0.5V_2x05_P0.50mm_Vertical/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Hirose/Hirose_DF12_DF12C3.0-10DS-0.5V_2x05_P0.50mm_Vertical/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Hirose/Hirose_DF12_DF12C3.0-10DS-0.5V_2x05_P0.50mm_Vertical/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Hirose/Hirose_DF12_DF12C3.0-10DS-0.5V_2x05_P0.50mm_Vertical/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Hirose/Hirose_DF12_DF12C3.0-10DS-0.5V_2x05_P0.50mm_Vertical/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Hirose/Hirose_DF12_DF12C3.0-10DS-0.5V_2x05_P0.50mm_Vertical/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Hirose/Hirose_DF12_DF12C3.0-10DS-0.5V_2x05_P0.50mm_Vertical/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Hirose/Hirose_DF12_DF12C3.0-10DS-0.5V_2x05_P0.50mm_Vertical/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Hirose/Hirose_DF12_DF12C3.0-10DS-0.5V_2x05_P0.50mm_Vertical/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Hirose/Hirose_DF12_DF12C3.0-10DS-0.5V_2x05_P0.50mm_Vertical/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Hirose/Hirose_DF12_DF12C3.0-10DS-0.5V_2x05_P0.50mm_Vertical/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Hirose/Hirose_DF12_DF12C3.0-10DS-0.5V_2x05_P0.50mm_Vertical/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Hirose/Hirose_DF12_DF12C3.0-10DS-0.5V_2x05_P0.50mm_Vertical/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Hirose/Hirose_DF12_DF12C3.0-10DS-0.5V_2x05_P0.50mm_Vertical/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Hirose/Hirose_DF12_DF12C3.0-10DS-0.5V_2x05_P0.50mm_Vertical/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Connector_Hirose/Hirose_DF12_DF12C3.0-10DS-0.5V_2x05_P0.50mm_Vertical/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

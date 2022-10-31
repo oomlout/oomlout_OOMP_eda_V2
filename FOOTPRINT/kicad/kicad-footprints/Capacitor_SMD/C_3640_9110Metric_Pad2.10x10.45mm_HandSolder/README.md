@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKCAPACITORSMC364911METRICPAD21X145HANDSOLDER > Capacitor_SMD : C_3640_9110Metric_Pad2.10x10.45mm_HandSolder](#fzkcapacitorsmc364911metricpad21x145handsolder--capacitor_smd--c_3640_9110metric_pad210x1045mm_handsolder)
+	* [Tags](#tags)
   
 ![][im]
 # FZKCAPACITORSMC364911METRICPAD21X145HANDSOLDER > Capacitor_SMD : C_3640_9110Metric_Pad2.10x10.45mm_HandSolder
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKCAPACITORSMC364911METRICPAD21X145HANDSOLDER](http://oom.lt/FZKCAPACITORSMC364911METRICPAD21X145HANDSOLDER)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_3640_9110Metric_Pad2.10x10.45mm_HandSolder/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_3640_9110Metric_Pad2.10x10.45mm_HandSolder/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_3640_9110Metric_Pad2.10x10.45mm_HandSolder/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_3640_9110Metric_Pad2.10x10.45mm_HandSolder/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_3640_9110Metric_Pad2.10x10.45mm_HandSolder/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_3640_9110Metric_Pad2.10x10.45mm_HandSolder/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_3640_9110Metric_Pad2.10x10.45mm_HandSolder/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_3640_9110Metric_Pad2.10x10.45mm_HandSolder/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_3640_9110Metric_Pad2.10x10.45mm_HandSolder/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_3640_9110Metric_Pad2.10x10.45mm_HandSolder/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_3640_9110Metric_Pad2.10x10.45mm_HandSolder/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_3640_9110Metric_Pad2.10x10.45mm_HandSolder/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_3640_9110Metric_Pad2.10x10.45mm_HandSolder/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_3640_9110Metric_Pad2.10x10.45mm_HandSolder/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_3640_9110Metric_Pad2.10x10.45mm_HandSolder/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_3640_9110Metric_Pad2.10x10.45mm_HandSolder/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_3640_9110Metric_Pad2.10x10.45mm_HandSolder/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_3640_9110Metric_Pad2.10x10.45mm_HandSolder/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_3640_9110Metric_Pad2.10x10.45mm_HandSolder/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

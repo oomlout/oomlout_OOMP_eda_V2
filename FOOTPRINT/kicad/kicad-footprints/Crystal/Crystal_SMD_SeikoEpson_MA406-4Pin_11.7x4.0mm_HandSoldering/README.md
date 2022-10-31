@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKXXSMSEIKOEPSONMA464PIN117X4HANDSOLDERING > Crystal : Crystal_SMD_SeikoEpson_MA406-4Pin_11.7x4.0mm_HandSoldering](#fzkxxsmseikoepsonma464pin117x4handsoldering--crystal--crystal_smd_seikoepson_ma406-4pin_117x40mm_handsoldering)
+	* [Tags](#tags)
   
 ![][im]
 # FZKXXSMSEIKOEPSONMA464PIN117X4HANDSOLDERING > Crystal : Crystal_SMD_SeikoEpson_MA406-4Pin_11.7x4.0mm_HandSoldering
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKXXSMSEIKOEPSONMA464PIN117X4HANDSOLDERING](http://oom.lt/FZKXXSMSEIKOEPSONMA464PIN117X4HANDSOLDERING)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_SeikoEpson_MA406-4Pin_11.7x4.0mm_HandSoldering/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_SeikoEpson_MA406-4Pin_11.7x4.0mm_HandSoldering/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_SeikoEpson_MA406-4Pin_11.7x4.0mm_HandSoldering/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_SeikoEpson_MA406-4Pin_11.7x4.0mm_HandSoldering/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_SeikoEpson_MA406-4Pin_11.7x4.0mm_HandSoldering/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_SeikoEpson_MA406-4Pin_11.7x4.0mm_HandSoldering/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_SeikoEpson_MA406-4Pin_11.7x4.0mm_HandSoldering/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_SeikoEpson_MA406-4Pin_11.7x4.0mm_HandSoldering/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_SeikoEpson_MA406-4Pin_11.7x4.0mm_HandSoldering/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_SeikoEpson_MA406-4Pin_11.7x4.0mm_HandSoldering/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_SeikoEpson_MA406-4Pin_11.7x4.0mm_HandSoldering/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_SeikoEpson_MA406-4Pin_11.7x4.0mm_HandSoldering/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_SeikoEpson_MA406-4Pin_11.7x4.0mm_HandSoldering/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_SeikoEpson_MA406-4Pin_11.7x4.0mm_HandSoldering/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_SeikoEpson_MA406-4Pin_11.7x4.0mm_HandSoldering/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_SeikoEpson_MA406-4Pin_11.7x4.0mm_HandSoldering/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_SeikoEpson_MA406-4Pin_11.7x4.0mm_HandSoldering/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_SeikoEpson_MA406-4Pin_11.7x4.0mm_HandSoldering/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_SeikoEpson_MA406-4Pin_11.7x4.0mm_HandSoldering/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

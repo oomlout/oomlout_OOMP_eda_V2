@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKCONCONRECOMRAC2XXSKTHT > Converter_ACDC : Converter_ACDC_Recom_RAC20-xxSK_THT](#fzkconconrecomrac2xxsktht--converter_acdc--converter_acdc_recom_rac20-xxsk_tht)
+	* [Tags](#tags)
   
 ![][im]
 # FZKCONCONRECOMRAC2XXSKTHT > Converter_ACDC : Converter_ACDC_Recom_RAC20-xxSK_THT
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKCONCONRECOMRAC2XXSKTHT](http://oom.lt/FZKCONCONRECOMRAC2XXSKTHT)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Converter_ACDC/Converter_ACDC_Recom_RAC20-xxSK_THT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Converter_ACDC/Converter_ACDC_Recom_RAC20-xxSK_THT/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Converter_ACDC/Converter_ACDC_Recom_RAC20-xxSK_THT/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Converter_ACDC/Converter_ACDC_Recom_RAC20-xxSK_THT/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Converter_ACDC/Converter_ACDC_Recom_RAC20-xxSK_THT/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Converter_ACDC/Converter_ACDC_Recom_RAC20-xxSK_THT/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Converter_ACDC/Converter_ACDC_Recom_RAC20-xxSK_THT/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Converter_ACDC/Converter_ACDC_Recom_RAC20-xxSK_THT/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Converter_ACDC/Converter_ACDC_Recom_RAC20-xxSK_THT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Converter_ACDC/Converter_ACDC_Recom_RAC20-xxSK_THT/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Converter_ACDC/Converter_ACDC_Recom_RAC20-xxSK_THT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Converter_ACDC/Converter_ACDC_Recom_RAC20-xxSK_THT/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Converter_ACDC/Converter_ACDC_Recom_RAC20-xxSK_THT/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Converter_ACDC/Converter_ACDC_Recom_RAC20-xxSK_THT/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Converter_ACDC/Converter_ACDC_Recom_RAC20-xxSK_THT/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Converter_ACDC/Converter_ACDC_Recom_RAC20-xxSK_THT/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Converter_ACDC/Converter_ACDC_Recom_RAC20-xxSK_THT/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Converter_ACDC/Converter_ACDC_Recom_RAC20-xxSK_THT/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Converter_ACDC/Converter_ACDC_Recom_RAC20-xxSK_THT/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

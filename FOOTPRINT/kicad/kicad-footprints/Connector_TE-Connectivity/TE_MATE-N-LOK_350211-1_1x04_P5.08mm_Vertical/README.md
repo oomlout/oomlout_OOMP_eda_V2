@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKCNTECONNECTIVITYTEMATENLOK3521111X4P58VERTICAL > Connector_TE-Connectivity : TE_MATE-N-LOK_350211-1_1x04_P5.08mm_Vertical](#fzkcnteconnectivitytematenlok3521111x4p58vertical--connector_te-connectivity--te_mate-n-lok_350211-1_1x04_p508mm_vertical)
+	* [Tags](#tags)
   
 ![][im]
 # FZKCNTECONNECTIVITYTEMATENLOK3521111X4P58VERTICAL > Connector_TE-Connectivity : TE_MATE-N-LOK_350211-1_1x04_P5.08mm_Vertical
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKCNTECONNECTIVITYTEMATENLOK3521111X4P58VERTICAL](http://oom.lt/FZKCNTECONNECTIVITYTEMATENLOK3521111X4P58VERTICAL)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_TE-Connectivity/TE_MATE-N-LOK_350211-1_1x04_P5.08mm_Vertical/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_TE-Connectivity/TE_MATE-N-LOK_350211-1_1x04_P5.08mm_Vertical/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_TE-Connectivity/TE_MATE-N-LOK_350211-1_1x04_P5.08mm_Vertical/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_TE-Connectivity/TE_MATE-N-LOK_350211-1_1x04_P5.08mm_Vertical/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_TE-Connectivity/TE_MATE-N-LOK_350211-1_1x04_P5.08mm_Vertical/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_TE-Connectivity/TE_MATE-N-LOK_350211-1_1x04_P5.08mm_Vertical/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_TE-Connectivity/TE_MATE-N-LOK_350211-1_1x04_P5.08mm_Vertical/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_TE-Connectivity/TE_MATE-N-LOK_350211-1_1x04_P5.08mm_Vertical/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_TE-Connectivity/TE_MATE-N-LOK_350211-1_1x04_P5.08mm_Vertical/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_TE-Connectivity/TE_MATE-N-LOK_350211-1_1x04_P5.08mm_Vertical/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_TE-Connectivity/TE_MATE-N-LOK_350211-1_1x04_P5.08mm_Vertical/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_TE-Connectivity/TE_MATE-N-LOK_350211-1_1x04_P5.08mm_Vertical/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_TE-Connectivity/TE_MATE-N-LOK_350211-1_1x04_P5.08mm_Vertical/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_TE-Connectivity/TE_MATE-N-LOK_350211-1_1x04_P5.08mm_Vertical/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_TE-Connectivity/TE_MATE-N-LOK_350211-1_1x04_P5.08mm_Vertical/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_TE-Connectivity/TE_MATE-N-LOK_350211-1_1x04_P5.08mm_Vertical/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_TE-Connectivity/TE_MATE-N-LOK_350211-1_1x04_P5.08mm_Vertical/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_TE-Connectivity/TE_MATE-N-LOK_350211-1_1x04_P5.08mm_Vertical/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Connector_TE-Connectivity/TE_MATE-N-LOK_350211-1_1x04_P5.08mm_Vertical/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

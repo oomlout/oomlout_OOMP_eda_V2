@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKCNMXMXKK396A4179281X8P396HORIZONTAL > Connector_Molex : Molex_KK-396_A-41792-0008_1x08_P3.96mm_Horizontal](#fzkcnmxmxkk396a4179281x8p396horizontal--connector_molex--molex_kk-396_a-41792-0008_1x08_p396mm_horizontal)
+	* [Tags](#tags)
   
 ![][im]
 # FZKCNMXMXKK396A4179281X8P396HORIZONTAL > Connector_Molex : Molex_KK-396_A-41792-0008_1x08_P3.96mm_Horizontal
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKCNMXMXKK396A4179281X8P396HORIZONTAL](http://oom.lt/FZKCNMXMXKK396A4179281X8P396HORIZONTAL)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_KK-396_A-41792-0008_1x08_P3.96mm_Horizontal/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_KK-396_A-41792-0008_1x08_P3.96mm_Horizontal/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_KK-396_A-41792-0008_1x08_P3.96mm_Horizontal/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_KK-396_A-41792-0008_1x08_P3.96mm_Horizontal/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_KK-396_A-41792-0008_1x08_P3.96mm_Horizontal/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_KK-396_A-41792-0008_1x08_P3.96mm_Horizontal/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_KK-396_A-41792-0008_1x08_P3.96mm_Horizontal/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_KK-396_A-41792-0008_1x08_P3.96mm_Horizontal/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_KK-396_A-41792-0008_1x08_P3.96mm_Horizontal/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_KK-396_A-41792-0008_1x08_P3.96mm_Horizontal/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_KK-396_A-41792-0008_1x08_P3.96mm_Horizontal/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_KK-396_A-41792-0008_1x08_P3.96mm_Horizontal/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_KK-396_A-41792-0008_1x08_P3.96mm_Horizontal/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_KK-396_A-41792-0008_1x08_P3.96mm_Horizontal/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_KK-396_A-41792-0008_1x08_P3.96mm_Horizontal/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_KK-396_A-41792-0008_1x08_P3.96mm_Horizontal/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_KK-396_A-41792-0008_1x08_P3.96mm_Horizontal/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_KK-396_A-41792-0008_1x08_P3.96mm_Horizontal/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_KK-396_A-41792-0008_1x08_P3.96mm_Horizontal/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

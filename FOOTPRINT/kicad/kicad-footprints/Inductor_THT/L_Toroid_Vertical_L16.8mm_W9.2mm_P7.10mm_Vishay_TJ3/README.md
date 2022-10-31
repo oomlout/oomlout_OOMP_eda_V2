@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKINLTOROIDVERTICALL168W92P71VISHAYTJ3 > Inductor_THT : L_Toroid_Vertical_L16.8mm_W9.2mm_P7.10mm_Vishay_TJ3](#fzkinltoroidverticall168w92p71vishaytj3--inductor_tht--l_toroid_vertical_l168mm_w92mm_p710mm_vishay_tj3)
+	* [Tags](#tags)
   
 ![][im]
 # FZKINLTOROIDVERTICALL168W92P71VISHAYTJ3 > Inductor_THT : L_Toroid_Vertical_L16.8mm_W9.2mm_P7.10mm_Vishay_TJ3
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKINLTOROIDVERTICALL168W92P71VISHAYTJ3](http://oom.lt/FZKINLTOROIDVERTICALL168W92P71VISHAYTJ3)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Toroid_Vertical_L16.8mm_W9.2mm_P7.10mm_Vishay_TJ3/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Toroid_Vertical_L16.8mm_W9.2mm_P7.10mm_Vishay_TJ3/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Toroid_Vertical_L16.8mm_W9.2mm_P7.10mm_Vishay_TJ3/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Toroid_Vertical_L16.8mm_W9.2mm_P7.10mm_Vishay_TJ3/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Toroid_Vertical_L16.8mm_W9.2mm_P7.10mm_Vishay_TJ3/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Toroid_Vertical_L16.8mm_W9.2mm_P7.10mm_Vishay_TJ3/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Toroid_Vertical_L16.8mm_W9.2mm_P7.10mm_Vishay_TJ3/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Toroid_Vertical_L16.8mm_W9.2mm_P7.10mm_Vishay_TJ3/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Toroid_Vertical_L16.8mm_W9.2mm_P7.10mm_Vishay_TJ3/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Toroid_Vertical_L16.8mm_W9.2mm_P7.10mm_Vishay_TJ3/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Toroid_Vertical_L16.8mm_W9.2mm_P7.10mm_Vishay_TJ3/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Toroid_Vertical_L16.8mm_W9.2mm_P7.10mm_Vishay_TJ3/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Toroid_Vertical_L16.8mm_W9.2mm_P7.10mm_Vishay_TJ3/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Toroid_Vertical_L16.8mm_W9.2mm_P7.10mm_Vishay_TJ3/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Toroid_Vertical_L16.8mm_W9.2mm_P7.10mm_Vishay_TJ3/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Toroid_Vertical_L16.8mm_W9.2mm_P7.10mm_Vishay_TJ3/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Toroid_Vertical_L16.8mm_W9.2mm_P7.10mm_Vishay_TJ3/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Toroid_Vertical_L16.8mm_W9.2mm_P7.10mm_Vishay_TJ3/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Toroid_Vertical_L16.8mm_W9.2mm_P7.10mm_Vishay_TJ3/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

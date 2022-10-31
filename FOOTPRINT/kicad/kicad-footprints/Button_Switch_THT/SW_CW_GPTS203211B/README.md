@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKBSWCWGPTS23211B > Button_Switch_THT : SW_CW_GPTS203211B](#fzkbswcwgpts23211b--button_switch_tht--sw_cw_gpts203211b)
+	* [Tags](#tags)
   
 ![][im]
 # FZKBSWCWGPTS23211B > Button_Switch_THT : SW_CW_GPTS203211B
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKBSWCWGPTS23211B](http://oom.lt/FZKBSWCWGPTS23211B)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_CW_GPTS203211B/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_CW_GPTS203211B/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_CW_GPTS203211B/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_CW_GPTS203211B/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_CW_GPTS203211B/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_CW_GPTS203211B/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_CW_GPTS203211B/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_CW_GPTS203211B/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_CW_GPTS203211B/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_CW_GPTS203211B/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_CW_GPTS203211B/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_CW_GPTS203211B/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_CW_GPTS203211B/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_CW_GPTS203211B/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_CW_GPTS203211B/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_CW_GPTS203211B/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_CW_GPTS203211B/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_CW_GPTS203211B/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_CW_GPTS203211B/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKDFNTEXASRPWQFNN28EP21X31THERMALVIAS > Package_DFN_QFN : Texas_R-PWQFN-N28_EP2.1x3.1mm_ThermalVias](#fzkdfntexasrpwqfnn28ep21x31thermalvias--package_dfn_qfn--texas_r-pwqfn-n28_ep21x31mm_thermalvias)
+	* [Tags](#tags)
   
 ![][im]
 # FZKDFNTEXASRPWQFNN28EP21X31THERMALVIAS > Package_DFN_QFN : Texas_R-PWQFN-N28_EP2.1x3.1mm_ThermalVias
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKDFNTEXASRPWQFNN28EP21X31THERMALVIAS](http://oom.lt/FZKDFNTEXASRPWQFNN28EP21X31THERMALVIAS)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Texas_R-PWQFN-N28_EP2.1x3.1mm_ThermalVias/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Texas_R-PWQFN-N28_EP2.1x3.1mm_ThermalVias/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Texas_R-PWQFN-N28_EP2.1x3.1mm_ThermalVias/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Texas_R-PWQFN-N28_EP2.1x3.1mm_ThermalVias/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Texas_R-PWQFN-N28_EP2.1x3.1mm_ThermalVias/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Texas_R-PWQFN-N28_EP2.1x3.1mm_ThermalVias/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Texas_R-PWQFN-N28_EP2.1x3.1mm_ThermalVias/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Texas_R-PWQFN-N28_EP2.1x3.1mm_ThermalVias/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Texas_R-PWQFN-N28_EP2.1x3.1mm_ThermalVias/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Texas_R-PWQFN-N28_EP2.1x3.1mm_ThermalVias/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Texas_R-PWQFN-N28_EP2.1x3.1mm_ThermalVias/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Texas_R-PWQFN-N28_EP2.1x3.1mm_ThermalVias/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Texas_R-PWQFN-N28_EP2.1x3.1mm_ThermalVias/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Texas_R-PWQFN-N28_EP2.1x3.1mm_ThermalVias/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Texas_R-PWQFN-N28_EP2.1x3.1mm_ThermalVias/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Texas_R-PWQFN-N28_EP2.1x3.1mm_ThermalVias/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Texas_R-PWQFN-N28_EP2.1x3.1mm_ThermalVias/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Texas_R-PWQFN-N28_EP2.1x3.1mm_ThermalVias/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Texas_R-PWQFN-N28_EP2.1x3.1mm_ThermalVias/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

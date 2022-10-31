@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKINLTOROIDVERTICALL178W97P711PULSEB > Inductor_THT : L_Toroid_Vertical_L17.8mm_W9.7mm_P7.11mm_Pulse_B](#fzkinltoroidverticall178w97p711pulseb--inductor_tht--l_toroid_vertical_l178mm_w97mm_p711mm_pulse_b)
+	* [Tags](#tags)
   
 ![][im]
 # FZKINLTOROIDVERTICALL178W97P711PULSEB > Inductor_THT : L_Toroid_Vertical_L17.8mm_W9.7mm_P7.11mm_Pulse_B
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKINLTOROIDVERTICALL178W97P711PULSEB](http://oom.lt/FZKINLTOROIDVERTICALL178W97P711PULSEB)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Toroid_Vertical_L17.8mm_W9.7mm_P7.11mm_Pulse_B/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Toroid_Vertical_L17.8mm_W9.7mm_P7.11mm_Pulse_B/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Toroid_Vertical_L17.8mm_W9.7mm_P7.11mm_Pulse_B/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Toroid_Vertical_L17.8mm_W9.7mm_P7.11mm_Pulse_B/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Toroid_Vertical_L17.8mm_W9.7mm_P7.11mm_Pulse_B/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Toroid_Vertical_L17.8mm_W9.7mm_P7.11mm_Pulse_B/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Toroid_Vertical_L17.8mm_W9.7mm_P7.11mm_Pulse_B/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Toroid_Vertical_L17.8mm_W9.7mm_P7.11mm_Pulse_B/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Toroid_Vertical_L17.8mm_W9.7mm_P7.11mm_Pulse_B/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Toroid_Vertical_L17.8mm_W9.7mm_P7.11mm_Pulse_B/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Toroid_Vertical_L17.8mm_W9.7mm_P7.11mm_Pulse_B/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Toroid_Vertical_L17.8mm_W9.7mm_P7.11mm_Pulse_B/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Toroid_Vertical_L17.8mm_W9.7mm_P7.11mm_Pulse_B/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Toroid_Vertical_L17.8mm_W9.7mm_P7.11mm_Pulse_B/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Toroid_Vertical_L17.8mm_W9.7mm_P7.11mm_Pulse_B/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Toroid_Vertical_L17.8mm_W9.7mm_P7.11mm_Pulse_B/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Toroid_Vertical_L17.8mm_W9.7mm_P7.11mm_Pulse_B/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Toroid_Vertical_L17.8mm_W9.7mm_P7.11mm_Pulse_B/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Toroid_Vertical_L17.8mm_W9.7mm_P7.11mm_Pulse_B/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

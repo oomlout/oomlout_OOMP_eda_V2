@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKCNCARDMSDHCHIROSEDM3BTDSFPEJS > Connector_Card : microSD_HC_Hirose_DM3BT-DSF-PEJS](#fzkcncardmsdhchirosedm3btdsfpejs--connector_card--microsd_hc_hirose_dm3bt-dsf-pejs)
+	* [Tags](#tags)
   
 ![][im]
 # FZKCNCARDMSDHCHIROSEDM3BTDSFPEJS > Connector_Card : microSD_HC_Hirose_DM3BT-DSF-PEJS
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKCNCARDMSDHCHIROSEDM3BTDSFPEJS](http://oom.lt/FZKCNCARDMSDHCHIROSEDM3BTDSFPEJS)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Card/microSD_HC_Hirose_DM3BT-DSF-PEJS/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Card/microSD_HC_Hirose_DM3BT-DSF-PEJS/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Card/microSD_HC_Hirose_DM3BT-DSF-PEJS/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Card/microSD_HC_Hirose_DM3BT-DSF-PEJS/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Card/microSD_HC_Hirose_DM3BT-DSF-PEJS/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Card/microSD_HC_Hirose_DM3BT-DSF-PEJS/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Card/microSD_HC_Hirose_DM3BT-DSF-PEJS/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Card/microSD_HC_Hirose_DM3BT-DSF-PEJS/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Card/microSD_HC_Hirose_DM3BT-DSF-PEJS/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Card/microSD_HC_Hirose_DM3BT-DSF-PEJS/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Card/microSD_HC_Hirose_DM3BT-DSF-PEJS/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Card/microSD_HC_Hirose_DM3BT-DSF-PEJS/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Card/microSD_HC_Hirose_DM3BT-DSF-PEJS/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Card/microSD_HC_Hirose_DM3BT-DSF-PEJS/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Card/microSD_HC_Hirose_DM3BT-DSF-PEJS/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Card/microSD_HC_Hirose_DM3BT-DSF-PEJS/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Card/microSD_HC_Hirose_DM3BT-DSF-PEJS/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Card/microSD_HC_Hirose_DM3BT-DSF-PEJS/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Connector_Card/microSD_HC_Hirose_DM3BT-DSF-PEJS/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

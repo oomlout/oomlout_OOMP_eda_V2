@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKCNTAGCONNECTTC25IDCNL2X5P127VERTICALWITHBOTTOMCLIP > Connector : Tag-Connect_TC2050-IDC-NL_2x05_P1.27mm_Vertical_with_bottom_clip](#fzkcntagconnecttc25idcnl2x5p127verticalwithbottomclip--connector--tag-connect_tc2050-idc-nl_2x05_p127mm_vertical_with_bottom_clip)
+	* [Tags](#tags)
   
 ![][im]
 # FZKCNTAGCONNECTTC25IDCNL2X5P127VERTICALWITHBOTTOMCLIP > Connector : Tag-Connect_TC2050-IDC-NL_2x05_P1.27mm_Vertical_with_bottom_clip
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKCNTAGCONNECTTC25IDCNL2X5P127VERTICALWITHBOTTOMCLIP](http://oom.lt/FZKCNTAGCONNECTTC25IDCNL2X5P127VERTICALWITHBOTTOMCLIP)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector/Tag-Connect_TC2050-IDC-NL_2x05_P1.27mm_Vertical_with_bottom_clip/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector/Tag-Connect_TC2050-IDC-NL_2x05_P1.27mm_Vertical_with_bottom_clip/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector/Tag-Connect_TC2050-IDC-NL_2x05_P1.27mm_Vertical_with_bottom_clip/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector/Tag-Connect_TC2050-IDC-NL_2x05_P1.27mm_Vertical_with_bottom_clip/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector/Tag-Connect_TC2050-IDC-NL_2x05_P1.27mm_Vertical_with_bottom_clip/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector/Tag-Connect_TC2050-IDC-NL_2x05_P1.27mm_Vertical_with_bottom_clip/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector/Tag-Connect_TC2050-IDC-NL_2x05_P1.27mm_Vertical_with_bottom_clip/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector/Tag-Connect_TC2050-IDC-NL_2x05_P1.27mm_Vertical_with_bottom_clip/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector/Tag-Connect_TC2050-IDC-NL_2x05_P1.27mm_Vertical_with_bottom_clip/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector/Tag-Connect_TC2050-IDC-NL_2x05_P1.27mm_Vertical_with_bottom_clip/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector/Tag-Connect_TC2050-IDC-NL_2x05_P1.27mm_Vertical_with_bottom_clip/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector/Tag-Connect_TC2050-IDC-NL_2x05_P1.27mm_Vertical_with_bottom_clip/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector/Tag-Connect_TC2050-IDC-NL_2x05_P1.27mm_Vertical_with_bottom_clip/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector/Tag-Connect_TC2050-IDC-NL_2x05_P1.27mm_Vertical_with_bottom_clip/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector/Tag-Connect_TC2050-IDC-NL_2x05_P1.27mm_Vertical_with_bottom_clip/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector/Tag-Connect_TC2050-IDC-NL_2x05_P1.27mm_Vertical_with_bottom_clip/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector/Tag-Connect_TC2050-IDC-NL_2x05_P1.27mm_Vertical_with_bottom_clip/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector/Tag-Connect_TC2050-IDC-NL_2x05_P1.27mm_Vertical_with_bottom_clip/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Connector/Tag-Connect_TC2050-IDC-NL_2x05_P1.27mm_Vertical_with_bottom_clip/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKTPTPLOOPD26DRILL16BEADED > TestPoint : TestPoint_Loop_D2.60mm_Drill1.6mm_Beaded](#fzktptploopd26drill16beaded--testpoint--testpoint_loop_d260mm_drill16mm_beaded)
+	* [Tags](#tags)
   
 ![][im]
 # FZKTPTPLOOPD26DRILL16BEADED > TestPoint : TestPoint_Loop_D2.60mm_Drill1.6mm_Beaded
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKTPTPLOOPD26DRILL16BEADED](http://oom.lt/FZKTPTPLOOPD26DRILL16BEADED)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/TestPoint/TestPoint_Loop_D2.60mm_Drill1.6mm_Beaded/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/TestPoint/TestPoint_Loop_D2.60mm_Drill1.6mm_Beaded/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/TestPoint/TestPoint_Loop_D2.60mm_Drill1.6mm_Beaded/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/TestPoint/TestPoint_Loop_D2.60mm_Drill1.6mm_Beaded/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/TestPoint/TestPoint_Loop_D2.60mm_Drill1.6mm_Beaded/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/TestPoint/TestPoint_Loop_D2.60mm_Drill1.6mm_Beaded/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/TestPoint/TestPoint_Loop_D2.60mm_Drill1.6mm_Beaded/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/TestPoint/TestPoint_Loop_D2.60mm_Drill1.6mm_Beaded/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/TestPoint/TestPoint_Loop_D2.60mm_Drill1.6mm_Beaded/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/TestPoint/TestPoint_Loop_D2.60mm_Drill1.6mm_Beaded/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/TestPoint/TestPoint_Loop_D2.60mm_Drill1.6mm_Beaded/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/TestPoint/TestPoint_Loop_D2.60mm_Drill1.6mm_Beaded/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/TestPoint/TestPoint_Loop_D2.60mm_Drill1.6mm_Beaded/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/TestPoint/TestPoint_Loop_D2.60mm_Drill1.6mm_Beaded/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/TestPoint/TestPoint_Loop_D2.60mm_Drill1.6mm_Beaded/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/TestPoint/TestPoint_Loop_D2.60mm_Drill1.6mm_Beaded/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/TestPoint/TestPoint_Loop_D2.60mm_Drill1.6mm_Beaded/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/TestPoint/TestPoint_Loop_D2.60mm_Drill1.6mm_Beaded/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/TestPoint/TestPoint_Loop_D2.60mm_Drill1.6mm_Beaded/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

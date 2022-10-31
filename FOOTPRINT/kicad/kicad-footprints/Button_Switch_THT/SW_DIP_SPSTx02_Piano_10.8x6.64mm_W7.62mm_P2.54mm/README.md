@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKBSWDIPSPSTX2PIANO18X664W762P254 > Button_Switch_THT : SW_DIP_SPSTx02_Piano_10.8x6.64mm_W7.62mm_P2.54mm](#fzkbswdipspstx2piano18x664w762p254--button_switch_tht--sw_dip_spstx02_piano_108x664mm_w762mm_p254mm)
+	* [Tags](#tags)
   
 ![][im]
 # FZKBSWDIPSPSTX2PIANO18X664W762P254 > Button_Switch_THT : SW_DIP_SPSTx02_Piano_10.8x6.64mm_W7.62mm_P2.54mm
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKBSWDIPSPSTX2PIANO18X664W762P254](http://oom.lt/FZKBSWDIPSPSTX2PIANO18X664W762P254)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_DIP_SPSTx02_Piano_10.8x6.64mm_W7.62mm_P2.54mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_DIP_SPSTx02_Piano_10.8x6.64mm_W7.62mm_P2.54mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_DIP_SPSTx02_Piano_10.8x6.64mm_W7.62mm_P2.54mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_DIP_SPSTx02_Piano_10.8x6.64mm_W7.62mm_P2.54mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_DIP_SPSTx02_Piano_10.8x6.64mm_W7.62mm_P2.54mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_DIP_SPSTx02_Piano_10.8x6.64mm_W7.62mm_P2.54mm/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_DIP_SPSTx02_Piano_10.8x6.64mm_W7.62mm_P2.54mm/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_DIP_SPSTx02_Piano_10.8x6.64mm_W7.62mm_P2.54mm/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_DIP_SPSTx02_Piano_10.8x6.64mm_W7.62mm_P2.54mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_DIP_SPSTx02_Piano_10.8x6.64mm_W7.62mm_P2.54mm/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_DIP_SPSTx02_Piano_10.8x6.64mm_W7.62mm_P2.54mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_DIP_SPSTx02_Piano_10.8x6.64mm_W7.62mm_P2.54mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_DIP_SPSTx02_Piano_10.8x6.64mm_W7.62mm_P2.54mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_DIP_SPSTx02_Piano_10.8x6.64mm_W7.62mm_P2.54mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_DIP_SPSTx02_Piano_10.8x6.64mm_W7.62mm_P2.54mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_DIP_SPSTx02_Piano_10.8x6.64mm_W7.62mm_P2.54mm/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_DIP_SPSTx02_Piano_10.8x6.64mm_W7.62mm_P2.54mm/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_DIP_SPSTx02_Piano_10.8x6.64mm_W7.62mm_P2.54mm/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_DIP_SPSTx02_Piano_10.8x6.64mm_W7.62mm_P2.54mm/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

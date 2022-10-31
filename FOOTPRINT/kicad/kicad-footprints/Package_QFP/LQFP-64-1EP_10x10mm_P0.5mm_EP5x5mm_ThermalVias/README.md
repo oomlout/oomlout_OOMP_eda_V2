@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKQFPLQFP641EP1X1P5EP5X5THERMALVIAS > Package_QFP : LQFP-64-1EP_10x10mm_P0.5mm_EP5x5mm_ThermalVias](#fzkqfplqfp641ep1x1p5ep5x5thermalvias--package_qfp--lqfp-64-1ep_10x10mm_p05mm_ep5x5mm_thermalvias)
+	* [Tags](#tags)
   
 ![][im]
 # FZKQFPLQFP641EP1X1P5EP5X5THERMALVIAS > Package_QFP : LQFP-64-1EP_10x10mm_P0.5mm_EP5x5mm_ThermalVias
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKQFPLQFP641EP1X1P5EP5X5THERMALVIAS](http://oom.lt/FZKQFPLQFP641EP1X1P5EP5X5THERMALVIAS)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_QFP/LQFP-64-1EP_10x10mm_P0.5mm_EP5x5mm_ThermalVias/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_QFP/LQFP-64-1EP_10x10mm_P0.5mm_EP5x5mm_ThermalVias/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_QFP/LQFP-64-1EP_10x10mm_P0.5mm_EP5x5mm_ThermalVias/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_QFP/LQFP-64-1EP_10x10mm_P0.5mm_EP5x5mm_ThermalVias/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_QFP/LQFP-64-1EP_10x10mm_P0.5mm_EP5x5mm_ThermalVias/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_QFP/LQFP-64-1EP_10x10mm_P0.5mm_EP5x5mm_ThermalVias/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_QFP/LQFP-64-1EP_10x10mm_P0.5mm_EP5x5mm_ThermalVias/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_QFP/LQFP-64-1EP_10x10mm_P0.5mm_EP5x5mm_ThermalVias/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_QFP/LQFP-64-1EP_10x10mm_P0.5mm_EP5x5mm_ThermalVias/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_QFP/LQFP-64-1EP_10x10mm_P0.5mm_EP5x5mm_ThermalVias/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_QFP/LQFP-64-1EP_10x10mm_P0.5mm_EP5x5mm_ThermalVias/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_QFP/LQFP-64-1EP_10x10mm_P0.5mm_EP5x5mm_ThermalVias/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_QFP/LQFP-64-1EP_10x10mm_P0.5mm_EP5x5mm_ThermalVias/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_QFP/LQFP-64-1EP_10x10mm_P0.5mm_EP5x5mm_ThermalVias/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_QFP/LQFP-64-1EP_10x10mm_P0.5mm_EP5x5mm_ThermalVias/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_QFP/LQFP-64-1EP_10x10mm_P0.5mm_EP5x5mm_ThermalVias/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_QFP/LQFP-64-1EP_10x10mm_P0.5mm_EP5x5mm_ThermalVias/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_QFP/LQFP-64-1EP_10x10mm_P0.5mm_EP5x5mm_ThermalVias/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Package_QFP/LQFP-64-1EP_10x10mm_P0.5mm_EP5x5mm_ThermalVias/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

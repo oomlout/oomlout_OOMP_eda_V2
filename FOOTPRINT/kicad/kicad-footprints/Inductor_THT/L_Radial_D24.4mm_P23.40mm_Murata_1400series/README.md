@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKINLRD244P234M14SERIES > Inductor_THT : L_Radial_D24.4mm_P23.40mm_Murata_1400series](#fzkinlrd244p234m14series--inductor_tht--l_radial_d244mm_p2340mm_murata_1400series)
+	* [Tags](#tags)
   
 NO IMAGE  
 # FZKINLRD244P234M14SERIES > Inductor_THT : L_Radial_D24.4mm_P23.40mm_Murata_1400series
@@ -13,9 +19,9 @@ NO IMAGE
 - Short Link: [http://oom.lt/FZKINLRD244P234M14SERIES](http://oom.lt/FZKINLRD244P234M14SERIES)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_D24.4mm_P23.40mm_Murata_1400series/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_D24.4mm_P23.40mm_Murata_1400series/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_D24.4mm_P23.40mm_Murata_1400series/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_D24.4mm_P23.40mm_Murata_1400series/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_D24.4mm_P23.40mm_Murata_1400series/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_D24.4mm_P23.40mm_Murata_1400series/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_D24.4mm_P23.40mm_Murata_1400series/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_D24.4mm_P23.40mm_Murata_1400series/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_D24.4mm_P23.40mm_Murata_1400series/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_D24.4mm_P23.40mm_Murata_1400series/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_D24.4mm_P23.40mm_Murata_1400series/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_D24.4mm_P23.40mm_Murata_1400series/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_D24.4mm_P23.40mm_Murata_1400series/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_D24.4mm_P23.40mm_Murata_1400series/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_D24.4mm_P23.40mm_Murata_1400series/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_D24.4mm_P23.40mm_Murata_1400series/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_D24.4mm_P23.40mm_Murata_1400series/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_D24.4mm_P23.40mm_Murata_1400series/kicadPcb3d.png)||||
 
 ## Tags
   

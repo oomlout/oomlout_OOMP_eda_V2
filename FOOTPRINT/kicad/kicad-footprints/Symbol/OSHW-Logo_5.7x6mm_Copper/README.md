@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKSZOSHWL57X6C > Symbol : OSHW-Logo_5.7x6mm_Copper](#fzkszoshwl57x6c--symbol--oshw-logo_57x6mm_copper)
+	* [Tags](#tags)
   
 ![][im]
 # FZKSZOSHWL57X6C > Symbol : OSHW-Logo_5.7x6mm_Copper
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKSZOSHWL57X6C](http://oom.lt/FZKSZOSHWL57X6C)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Symbol/OSHW-Logo_5.7x6mm_Copper/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Symbol/OSHW-Logo_5.7x6mm_Copper/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Symbol/OSHW-Logo_5.7x6mm_Copper/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Symbol/OSHW-Logo_5.7x6mm_Copper/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Symbol/OSHW-Logo_5.7x6mm_Copper/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Symbol/OSHW-Logo_5.7x6mm_Copper/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Symbol/OSHW-Logo_5.7x6mm_Copper/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Symbol/OSHW-Logo_5.7x6mm_Copper/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Symbol/OSHW-Logo_5.7x6mm_Copper/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Symbol/OSHW-Logo_5.7x6mm_Copper/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Symbol/OSHW-Logo_5.7x6mm_Copper/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Symbol/OSHW-Logo_5.7x6mm_Copper/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Symbol/OSHW-Logo_5.7x6mm_Copper/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Symbol/OSHW-Logo_5.7x6mm_Copper/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Symbol/OSHW-Logo_5.7x6mm_Copper/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Symbol/OSHW-Logo_5.7x6mm_Copper/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Symbol/OSHW-Logo_5.7x6mm_Copper/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Symbol/OSHW-Logo_5.7x6mm_Copper/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Symbol/OSHW-Logo_5.7x6mm_Copper/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

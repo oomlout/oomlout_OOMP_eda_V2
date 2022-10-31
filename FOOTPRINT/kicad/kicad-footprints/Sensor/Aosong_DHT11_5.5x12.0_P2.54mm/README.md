@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKSENAOSONGDHT1155X12P254 > Sensor : Aosong_DHT11_5.5x12.0_P2.54mm](#fzksenaosongdht1155x12p254--sensor--aosong_dht11_55x120_p254mm)
+	* [Tags](#tags)
   
 ![][im]
 # FZKSENAOSONGDHT1155X12P254 > Sensor : Aosong_DHT11_5.5x12.0_P2.54mm
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKSENAOSONGDHT1155X12P254](http://oom.lt/FZKSENAOSONGDHT1155X12P254)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Sensor/Aosong_DHT11_5.5x12.0_P2.54mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Sensor/Aosong_DHT11_5.5x12.0_P2.54mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Sensor/Aosong_DHT11_5.5x12.0_P2.54mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Sensor/Aosong_DHT11_5.5x12.0_P2.54mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Sensor/Aosong_DHT11_5.5x12.0_P2.54mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Sensor/Aosong_DHT11_5.5x12.0_P2.54mm/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Sensor/Aosong_DHT11_5.5x12.0_P2.54mm/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Sensor/Aosong_DHT11_5.5x12.0_P2.54mm/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Sensor/Aosong_DHT11_5.5x12.0_P2.54mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Sensor/Aosong_DHT11_5.5x12.0_P2.54mm/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Sensor/Aosong_DHT11_5.5x12.0_P2.54mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Sensor/Aosong_DHT11_5.5x12.0_P2.54mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Sensor/Aosong_DHT11_5.5x12.0_P2.54mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Sensor/Aosong_DHT11_5.5x12.0_P2.54mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Sensor/Aosong_DHT11_5.5x12.0_P2.54mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Sensor/Aosong_DHT11_5.5x12.0_P2.54mm/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Sensor/Aosong_DHT11_5.5x12.0_P2.54mm/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Sensor/Aosong_DHT11_5.5x12.0_P2.54mm/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Sensor/Aosong_DHT11_5.5x12.0_P2.54mm/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

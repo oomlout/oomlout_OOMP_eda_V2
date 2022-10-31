@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKMONMONWASMSSR33H3SNAPRIVET9776396 > Mounting_Wuerth : Mounting_Wuerth_WA-SMSSR-3.3mm_H3mm_SnapRivet_9776030960](#fzkmonmonwasmssr33h3snaprivet9776396--mounting_wuerth--mounting_wuerth_wa-smssr-33mm_h3mm_snaprivet_9776030960)
+	* [Tags](#tags)
   
 ![][im]
 # FZKMONMONWASMSSR33H3SNAPRIVET9776396 > Mounting_Wuerth : Mounting_Wuerth_WA-SMSSR-3.3mm_H3mm_SnapRivet_9776030960
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKMONMONWASMSSR33H3SNAPRIVET9776396](http://oom.lt/FZKMONMONWASMSSR33H3SNAPRIVET9776396)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Mounting_Wuerth/Mounting_Wuerth_WA-SMSSR-3.3mm_H3mm_SnapRivet_9776030960/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Mounting_Wuerth/Mounting_Wuerth_WA-SMSSR-3.3mm_H3mm_SnapRivet_9776030960/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Mounting_Wuerth/Mounting_Wuerth_WA-SMSSR-3.3mm_H3mm_SnapRivet_9776030960/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Mounting_Wuerth/Mounting_Wuerth_WA-SMSSR-3.3mm_H3mm_SnapRivet_9776030960/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Mounting_Wuerth/Mounting_Wuerth_WA-SMSSR-3.3mm_H3mm_SnapRivet_9776030960/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Mounting_Wuerth/Mounting_Wuerth_WA-SMSSR-3.3mm_H3mm_SnapRivet_9776030960/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Mounting_Wuerth/Mounting_Wuerth_WA-SMSSR-3.3mm_H3mm_SnapRivet_9776030960/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Mounting_Wuerth/Mounting_Wuerth_WA-SMSSR-3.3mm_H3mm_SnapRivet_9776030960/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Mounting_Wuerth/Mounting_Wuerth_WA-SMSSR-3.3mm_H3mm_SnapRivet_9776030960/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Mounting_Wuerth/Mounting_Wuerth_WA-SMSSR-3.3mm_H3mm_SnapRivet_9776030960/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Mounting_Wuerth/Mounting_Wuerth_WA-SMSSR-3.3mm_H3mm_SnapRivet_9776030960/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Mounting_Wuerth/Mounting_Wuerth_WA-SMSSR-3.3mm_H3mm_SnapRivet_9776030960/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Mounting_Wuerth/Mounting_Wuerth_WA-SMSSR-3.3mm_H3mm_SnapRivet_9776030960/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Mounting_Wuerth/Mounting_Wuerth_WA-SMSSR-3.3mm_H3mm_SnapRivet_9776030960/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Mounting_Wuerth/Mounting_Wuerth_WA-SMSSR-3.3mm_H3mm_SnapRivet_9776030960/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Mounting_Wuerth/Mounting_Wuerth_WA-SMSSR-3.3mm_H3mm_SnapRivet_9776030960/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Mounting_Wuerth/Mounting_Wuerth_WA-SMSSR-3.3mm_H3mm_SnapRivet_9776030960/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Mounting_Wuerth/Mounting_Wuerth_WA-SMSSR-3.3mm_H3mm_SnapRivet_9776030960/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Mounting_Wuerth/Mounting_Wuerth_WA-SMSSR-3.3mm_H3mm_SnapRivet_9776030960/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

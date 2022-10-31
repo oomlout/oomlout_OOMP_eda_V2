@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKBZSPEAKERCUICMR126S67 > Buzzer_Beeper : Speaker_CUI_CMR-1206S-67](#fzkbzspeakercuicmr126s67--buzzer_beeper--speaker_cui_cmr-1206s-67)
+	* [Tags](#tags)
   
 ![][im]
 # FZKBZSPEAKERCUICMR126S67 > Buzzer_Beeper : Speaker_CUI_CMR-1206S-67
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKBZSPEAKERCUICMR126S67](http://oom.lt/FZKBZSPEAKERCUICMR126S67)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/Speaker_CUI_CMR-1206S-67/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/Speaker_CUI_CMR-1206S-67/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/Speaker_CUI_CMR-1206S-67/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/Speaker_CUI_CMR-1206S-67/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/Speaker_CUI_CMR-1206S-67/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/Speaker_CUI_CMR-1206S-67/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/Speaker_CUI_CMR-1206S-67/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/Speaker_CUI_CMR-1206S-67/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/Speaker_CUI_CMR-1206S-67/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/Speaker_CUI_CMR-1206S-67/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/Speaker_CUI_CMR-1206S-67/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/Speaker_CUI_CMR-1206S-67/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/Speaker_CUI_CMR-1206S-67/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/Speaker_CUI_CMR-1206S-67/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/Speaker_CUI_CMR-1206S-67/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/Speaker_CUI_CMR-1206S-67/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/Speaker_CUI_CMR-1206S-67/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/Speaker_CUI_CMR-1206S-67/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/Speaker_CUI_CMR-1206S-67/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

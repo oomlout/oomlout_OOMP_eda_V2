@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKRESISTORSMRSHUNTVISHAYWSK25126332METRICT221 > Resistor_SMD : R_Shunt_Vishay_WSK2512_6332Metric_T2.21mm](#fzkresistorsmrshuntvishaywsk25126332metrict221--resistor_smd--r_shunt_vishay_wsk2512_6332metric_t221mm)
+	* [Tags](#tags)
   
 ![][im]
 # FZKRESISTORSMRSHUNTVISHAYWSK25126332METRICT221 > Resistor_SMD : R_Shunt_Vishay_WSK2512_6332Metric_T2.21mm
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKRESISTORSMRSHUNTVISHAYWSK25126332METRICT221](http://oom.lt/FZKRESISTORSMRSHUNTVISHAYWSK25126332METRICT221)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_Shunt_Vishay_WSK2512_6332Metric_T2.21mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_Shunt_Vishay_WSK2512_6332Metric_T2.21mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_Shunt_Vishay_WSK2512_6332Metric_T2.21mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_Shunt_Vishay_WSK2512_6332Metric_T2.21mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_Shunt_Vishay_WSK2512_6332Metric_T2.21mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_Shunt_Vishay_WSK2512_6332Metric_T2.21mm/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_Shunt_Vishay_WSK2512_6332Metric_T2.21mm/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_Shunt_Vishay_WSK2512_6332Metric_T2.21mm/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_Shunt_Vishay_WSK2512_6332Metric_T2.21mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_Shunt_Vishay_WSK2512_6332Metric_T2.21mm/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_Shunt_Vishay_WSK2512_6332Metric_T2.21mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_Shunt_Vishay_WSK2512_6332Metric_T2.21mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_Shunt_Vishay_WSK2512_6332Metric_T2.21mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_Shunt_Vishay_WSK2512_6332Metric_T2.21mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_Shunt_Vishay_WSK2512_6332Metric_T2.21mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_Shunt_Vishay_WSK2512_6332Metric_T2.21mm/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_Shunt_Vishay_WSK2512_6332Metric_T2.21mm/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_Shunt_Vishay_WSK2512_6332Metric_T2.21mm/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_Shunt_Vishay_WSK2512_6332Metric_T2.21mm/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

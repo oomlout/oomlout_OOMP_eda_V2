@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKCNAMASSAMASSXT3UM1X2P5VERTICAL > Connector_AMASS : AMASS_XT30U-M_1x02_P5.0mm_Vertical](#fzkcnamassamassxt3um1x2p5vertical--connector_amass--amass_xt30u-m_1x02_p50mm_vertical)
+	* [Tags](#tags)
   
 ![][im]
 # FZKCNAMASSAMASSXT3UM1X2P5VERTICAL > Connector_AMASS : AMASS_XT30U-M_1x02_P5.0mm_Vertical
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKCNAMASSAMASSXT3UM1X2P5VERTICAL](http://oom.lt/FZKCNAMASSAMASSXT3UM1X2P5VERTICAL)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_AMASS/AMASS_XT30U-M_1x02_P5.0mm_Vertical/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_AMASS/AMASS_XT30U-M_1x02_P5.0mm_Vertical/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_AMASS/AMASS_XT30U-M_1x02_P5.0mm_Vertical/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_AMASS/AMASS_XT30U-M_1x02_P5.0mm_Vertical/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_AMASS/AMASS_XT30U-M_1x02_P5.0mm_Vertical/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_AMASS/AMASS_XT30U-M_1x02_P5.0mm_Vertical/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_AMASS/AMASS_XT30U-M_1x02_P5.0mm_Vertical/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_AMASS/AMASS_XT30U-M_1x02_P5.0mm_Vertical/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_AMASS/AMASS_XT30U-M_1x02_P5.0mm_Vertical/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_AMASS/AMASS_XT30U-M_1x02_P5.0mm_Vertical/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_AMASS/AMASS_XT30U-M_1x02_P5.0mm_Vertical/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_AMASS/AMASS_XT30U-M_1x02_P5.0mm_Vertical/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_AMASS/AMASS_XT30U-M_1x02_P5.0mm_Vertical/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_AMASS/AMASS_XT30U-M_1x02_P5.0mm_Vertical/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_AMASS/AMASS_XT30U-M_1x02_P5.0mm_Vertical/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_AMASS/AMASS_XT30U-M_1x02_P5.0mm_Vertical/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_AMASS/AMASS_XT30U-M_1x02_P5.0mm_Vertical/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_AMASS/AMASS_XT30U-M_1x02_P5.0mm_Vertical/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Connector_AMASS/AMASS_XT30U-M_1x02_P5.0mm_Vertical/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

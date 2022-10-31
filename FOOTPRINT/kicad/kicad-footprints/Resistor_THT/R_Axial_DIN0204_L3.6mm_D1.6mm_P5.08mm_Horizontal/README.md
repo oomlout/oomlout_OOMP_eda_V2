@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKRRAXIALDIN24L36D16P58HORIZONTAL > Resistor_THT : R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal](#fzkrraxialdin24l36d16p58horizontal--resistor_tht--r_axial_din0204_l36mm_d16mm_p508mm_horizontal)
+	* [Tags](#tags)
   
 ![][im]
 # FZKRRAXIALDIN24L36D16P58HORIZONTAL > Resistor_THT : R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKRRAXIALDIN24L36D16P58HORIZONTAL](http://oom.lt/FZKRRAXIALDIN24L36D16P58HORIZONTAL)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKOPOSRAMDIL243X465P58 > OptoDevice : Osram_DIL2_4.3x4.65mm_P5.08mm](#fzkoposramdil243x465p58--optodevice--osram_dil2_43x465mm_p508mm)
+	* [Tags](#tags)
   
 ![][im]
 # FZKOPOSRAMDIL243X465P58 > OptoDevice : Osram_DIL2_4.3x4.65mm_P5.08mm
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKOPOSRAMDIL243X465P58](http://oom.lt/FZKOPOSRAMDIL243X465P58)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Osram_DIL2_4.3x4.65mm_P5.08mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Osram_DIL2_4.3x4.65mm_P5.08mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Osram_DIL2_4.3x4.65mm_P5.08mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Osram_DIL2_4.3x4.65mm_P5.08mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Osram_DIL2_4.3x4.65mm_P5.08mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Osram_DIL2_4.3x4.65mm_P5.08mm/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Osram_DIL2_4.3x4.65mm_P5.08mm/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Osram_DIL2_4.3x4.65mm_P5.08mm/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Osram_DIL2_4.3x4.65mm_P5.08mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Osram_DIL2_4.3x4.65mm_P5.08mm/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Osram_DIL2_4.3x4.65mm_P5.08mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Osram_DIL2_4.3x4.65mm_P5.08mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Osram_DIL2_4.3x4.65mm_P5.08mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Osram_DIL2_4.3x4.65mm_P5.08mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Osram_DIL2_4.3x4.65mm_P5.08mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Osram_DIL2_4.3x4.65mm_P5.08mm/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Osram_DIL2_4.3x4.65mm_P5.08mm/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Osram_DIL2_4.3x4.65mm_P5.08mm/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/OptoDevice/Osram_DIL2_4.3x4.65mm_P5.08mm/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKOCSOCSDIP8LPADS > Oscillator : Oscillator_DIP-8_LargePads](#fzkocsocsdip8lpads--oscillator--oscillator_dip-8_largepads)
+	* [Tags](#tags)
   
 ![][im]
 # FZKOCSOCSDIP8LPADS > Oscillator : Oscillator_DIP-8_LargePads
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKOCSOCSDIP8LPADS](http://oom.lt/FZKOCSOCSDIP8LPADS)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_DIP-8_LargePads/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_DIP-8_LargePads/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_DIP-8_LargePads/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_DIP-8_LargePads/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_DIP-8_LargePads/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_DIP-8_LargePads/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_DIP-8_LargePads/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_DIP-8_LargePads/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_DIP-8_LargePads/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_DIP-8_LargePads/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_DIP-8_LargePads/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_DIP-8_LargePads/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_DIP-8_LargePads/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_DIP-8_LargePads/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_DIP-8_LargePads/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_DIP-8_LargePads/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_DIP-8_LargePads/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_DIP-8_LargePads/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_DIP-8_LargePads/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKCNCOABNCTECONNECTIVITY147835HORIZONTAL > Connector_Coaxial : BNC_TEConnectivity_1478035_Horizontal](#fzkcncoabncteconnectivity147835horizontal--connector_coaxial--bnc_teconnectivity_1478035_horizontal)
+	* [Tags](#tags)
   
 ![][im]
 # FZKCNCOABNCTECONNECTIVITY147835HORIZONTAL > Connector_Coaxial : BNC_TEConnectivity_1478035_Horizontal
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKCNCOABNCTECONNECTIVITY147835HORIZONTAL](http://oom.lt/FZKCNCOABNCTECONNECTIVITY147835HORIZONTAL)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Coaxial/BNC_TEConnectivity_1478035_Horizontal/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Coaxial/BNC_TEConnectivity_1478035_Horizontal/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Coaxial/BNC_TEConnectivity_1478035_Horizontal/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Coaxial/BNC_TEConnectivity_1478035_Horizontal/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Coaxial/BNC_TEConnectivity_1478035_Horizontal/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Coaxial/BNC_TEConnectivity_1478035_Horizontal/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Coaxial/BNC_TEConnectivity_1478035_Horizontal/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Coaxial/BNC_TEConnectivity_1478035_Horizontal/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Coaxial/BNC_TEConnectivity_1478035_Horizontal/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Coaxial/BNC_TEConnectivity_1478035_Horizontal/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Coaxial/BNC_TEConnectivity_1478035_Horizontal/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Coaxial/BNC_TEConnectivity_1478035_Horizontal/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Coaxial/BNC_TEConnectivity_1478035_Horizontal/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Coaxial/BNC_TEConnectivity_1478035_Horizontal/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Coaxial/BNC_TEConnectivity_1478035_Horizontal/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Coaxial/BNC_TEConnectivity_1478035_Horizontal/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Coaxial/BNC_TEConnectivity_1478035_Horizontal/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Coaxial/BNC_TEConnectivity_1478035_Horizontal/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Connector_Coaxial/BNC_TEConnectivity_1478035_Horizontal/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

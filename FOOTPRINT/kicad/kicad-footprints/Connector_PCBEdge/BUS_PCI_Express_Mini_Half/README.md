@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKCNPCBEDGEBUSPCIEXPRESSMHALF > Connector_PCBEdge : BUS_PCI_Express_Mini_Half](#fzkcnpcbedgebuspciexpressmhalf--connector_pcbedge--bus_pci_express_mini_half)
+	* [Tags](#tags)
   
 ![][im]
 # FZKCNPCBEDGEBUSPCIEXPRESSMHALF > Connector_PCBEdge : BUS_PCI_Express_Mini_Half
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKCNPCBEDGEBUSPCIEXPRESSMHALF](http://oom.lt/FZKCNPCBEDGEBUSPCIEXPRESSMHALF)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_PCBEdge/BUS_PCI_Express_Mini_Half/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_PCBEdge/BUS_PCI_Express_Mini_Half/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_PCBEdge/BUS_PCI_Express_Mini_Half/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_PCBEdge/BUS_PCI_Express_Mini_Half/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_PCBEdge/BUS_PCI_Express_Mini_Half/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_PCBEdge/BUS_PCI_Express_Mini_Half/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_PCBEdge/BUS_PCI_Express_Mini_Half/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_PCBEdge/BUS_PCI_Express_Mini_Half/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_PCBEdge/BUS_PCI_Express_Mini_Half/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_PCBEdge/BUS_PCI_Express_Mini_Half/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_PCBEdge/BUS_PCI_Express_Mini_Half/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_PCBEdge/BUS_PCI_Express_Mini_Half/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_PCBEdge/BUS_PCI_Express_Mini_Half/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_PCBEdge/BUS_PCI_Express_Mini_Half/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_PCBEdge/BUS_PCI_Express_Mini_Half/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_PCBEdge/BUS_PCI_Express_Mini_Half/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_PCBEdge/BUS_PCI_Express_Mini_Half/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_PCBEdge/BUS_PCI_Express_Mini_Half/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Connector_PCBEdge/BUS_PCI_Express_Mini_Half/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKCNJSTJSTVHB2PSVH1X2P396HORIZONTAL > Connector_JST : JST_VH_B2PS-VH_1x02_P3.96mm_Horizontal](#fzkcnjstjstvhb2psvh1x2p396horizontal--connector_jst--jst_vh_b2ps-vh_1x02_p396mm_horizontal)
+	* [Tags](#tags)
   
 ![][im]
 # FZKCNJSTJSTVHB2PSVH1X2P396HORIZONTAL > Connector_JST : JST_VH_B2PS-VH_1x02_P3.96mm_Horizontal
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKCNJSTJSTVHB2PSVH1X2P396HORIZONTAL](http://oom.lt/FZKCNJSTJSTVHB2PSVH1X2P396HORIZONTAL)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_VH_B2PS-VH_1x02_P3.96mm_Horizontal/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_VH_B2PS-VH_1x02_P3.96mm_Horizontal/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_VH_B2PS-VH_1x02_P3.96mm_Horizontal/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_VH_B2PS-VH_1x02_P3.96mm_Horizontal/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_VH_B2PS-VH_1x02_P3.96mm_Horizontal/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_VH_B2PS-VH_1x02_P3.96mm_Horizontal/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_VH_B2PS-VH_1x02_P3.96mm_Horizontal/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_VH_B2PS-VH_1x02_P3.96mm_Horizontal/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_VH_B2PS-VH_1x02_P3.96mm_Horizontal/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_VH_B2PS-VH_1x02_P3.96mm_Horizontal/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_VH_B2PS-VH_1x02_P3.96mm_Horizontal/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_VH_B2PS-VH_1x02_P3.96mm_Horizontal/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_VH_B2PS-VH_1x02_P3.96mm_Horizontal/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_VH_B2PS-VH_1x02_P3.96mm_Horizontal/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_VH_B2PS-VH_1x02_P3.96mm_Horizontal/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_VH_B2PS-VH_1x02_P3.96mm_Horizontal/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_VH_B2PS-VH_1x02_P3.96mm_Horizontal/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_VH_B2PS-VH_1x02_P3.96mm_Horizontal/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_VH_B2PS-VH_1x02_P3.96mm_Horizontal/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

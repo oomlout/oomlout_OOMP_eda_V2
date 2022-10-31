@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKHHSTONECOLDHS13232X142XFIXATION15 > Heatsink : Heatsink_Stonecold_HS-132_32x14mm_2xFixation1.5mm](#fzkhhstonecoldhs13232x142xfixation15--heatsink--heatsink_stonecold_hs-132_32x14mm_2xfixation15mm)
+	* [Tags](#tags)
   
 ![][im]
 # FZKHHSTONECOLDHS13232X142XFIXATION15 > Heatsink : Heatsink_Stonecold_HS-132_32x14mm_2xFixation1.5mm
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKHHSTONECOLDHS13232X142XFIXATION15](http://oom.lt/FZKHHSTONECOLDHS13232X142XFIXATION15)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Heatsink/Heatsink_Stonecold_HS-132_32x14mm_2xFixation1.5mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Heatsink/Heatsink_Stonecold_HS-132_32x14mm_2xFixation1.5mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Heatsink/Heatsink_Stonecold_HS-132_32x14mm_2xFixation1.5mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Heatsink/Heatsink_Stonecold_HS-132_32x14mm_2xFixation1.5mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Heatsink/Heatsink_Stonecold_HS-132_32x14mm_2xFixation1.5mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Heatsink/Heatsink_Stonecold_HS-132_32x14mm_2xFixation1.5mm/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Heatsink/Heatsink_Stonecold_HS-132_32x14mm_2xFixation1.5mm/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Heatsink/Heatsink_Stonecold_HS-132_32x14mm_2xFixation1.5mm/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Heatsink/Heatsink_Stonecold_HS-132_32x14mm_2xFixation1.5mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Heatsink/Heatsink_Stonecold_HS-132_32x14mm_2xFixation1.5mm/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Heatsink/Heatsink_Stonecold_HS-132_32x14mm_2xFixation1.5mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Heatsink/Heatsink_Stonecold_HS-132_32x14mm_2xFixation1.5mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Heatsink/Heatsink_Stonecold_HS-132_32x14mm_2xFixation1.5mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Heatsink/Heatsink_Stonecold_HS-132_32x14mm_2xFixation1.5mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Heatsink/Heatsink_Stonecold_HS-132_32x14mm_2xFixation1.5mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Heatsink/Heatsink_Stonecold_HS-132_32x14mm_2xFixation1.5mm/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Heatsink/Heatsink_Stonecold_HS-132_32x14mm_2xFixation1.5mm/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Heatsink/Heatsink_Stonecold_HS-132_32x14mm_2xFixation1.5mm/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Heatsink/Heatsink_Stonecold_HS-132_32x14mm_2xFixation1.5mm/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

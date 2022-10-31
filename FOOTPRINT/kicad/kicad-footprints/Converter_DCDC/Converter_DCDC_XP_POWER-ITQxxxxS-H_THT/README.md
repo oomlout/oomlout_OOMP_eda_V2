@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKCONCONXPPOWERITQXXXXSHTHT > Converter_DCDC : Converter_DCDC_XP_POWER-ITQxxxxS-H_THT](#fzkconconxppoweritqxxxxshtht--converter_dcdc--converter_dcdc_xp_power-itqxxxxs-h_tht)
+	* [Tags](#tags)
   
 ![][im]
 # FZKCONCONXPPOWERITQXXXXSHTHT > Converter_DCDC : Converter_DCDC_XP_POWER-ITQxxxxS-H_THT
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKCONCONXPPOWERITQXXXXSHTHT](http://oom.lt/FZKCONCONXPPOWERITQXXXXSHTHT)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Converter_DCDC/Converter_DCDC_XP_POWER-ITQxxxxS-H_THT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Converter_DCDC/Converter_DCDC_XP_POWER-ITQxxxxS-H_THT/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Converter_DCDC/Converter_DCDC_XP_POWER-ITQxxxxS-H_THT/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Converter_DCDC/Converter_DCDC_XP_POWER-ITQxxxxS-H_THT/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Converter_DCDC/Converter_DCDC_XP_POWER-ITQxxxxS-H_THT/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Converter_DCDC/Converter_DCDC_XP_POWER-ITQxxxxS-H_THT/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Converter_DCDC/Converter_DCDC_XP_POWER-ITQxxxxS-H_THT/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Converter_DCDC/Converter_DCDC_XP_POWER-ITQxxxxS-H_THT/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Converter_DCDC/Converter_DCDC_XP_POWER-ITQxxxxS-H_THT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Converter_DCDC/Converter_DCDC_XP_POWER-ITQxxxxS-H_THT/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Converter_DCDC/Converter_DCDC_XP_POWER-ITQxxxxS-H_THT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Converter_DCDC/Converter_DCDC_XP_POWER-ITQxxxxS-H_THT/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Converter_DCDC/Converter_DCDC_XP_POWER-ITQxxxxS-H_THT/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Converter_DCDC/Converter_DCDC_XP_POWER-ITQxxxxS-H_THT/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Converter_DCDC/Converter_DCDC_XP_POWER-ITQxxxxS-H_THT/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Converter_DCDC/Converter_DCDC_XP_POWER-ITQxxxxS-H_THT/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Converter_DCDC/Converter_DCDC_XP_POWER-ITQxxxxS-H_THT/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Converter_DCDC/Converter_DCDC_XP_POWER-ITQxxxxS-H_THT/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Converter_DCDC/Converter_DCDC_XP_POWER-ITQxxxxS-H_THT/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

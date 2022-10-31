@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKRELRELAYSPSTPOTTERBRUMFIELDT9AP1D5212V3A > Relay_THT : Relay_SPST_PotterBrumfield_T9AP1D52_12V30A](#fzkrelrelayspstpotterbrumfieldt9ap1d5212v3a--relay_tht--relay_spst_potterbrumfield_t9ap1d52_12v30a)
+	* [Tags](#tags)
   
 ![][im]
 # FZKRELRELAYSPSTPOTTERBRUMFIELDT9AP1D5212V3A > Relay_THT : Relay_SPST_PotterBrumfield_T9AP1D52_12V30A
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKRELRELAYSPSTPOTTERBRUMFIELDT9AP1D5212V3A](http://oom.lt/FZKRELRELAYSPSTPOTTERBRUMFIELDT9AP1D5212V3A)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_SPST_PotterBrumfield_T9AP1D52_12V30A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_SPST_PotterBrumfield_T9AP1D52_12V30A/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_SPST_PotterBrumfield_T9AP1D52_12V30A/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_SPST_PotterBrumfield_T9AP1D52_12V30A/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_SPST_PotterBrumfield_T9AP1D52_12V30A/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_SPST_PotterBrumfield_T9AP1D52_12V30A/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_SPST_PotterBrumfield_T9AP1D52_12V30A/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_SPST_PotterBrumfield_T9AP1D52_12V30A/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_SPST_PotterBrumfield_T9AP1D52_12V30A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_SPST_PotterBrumfield_T9AP1D52_12V30A/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_SPST_PotterBrumfield_T9AP1D52_12V30A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_SPST_PotterBrumfield_T9AP1D52_12V30A/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_SPST_PotterBrumfield_T9AP1D52_12V30A/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_SPST_PotterBrumfield_T9AP1D52_12V30A/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_SPST_PotterBrumfield_T9AP1D52_12V30A/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_SPST_PotterBrumfield_T9AP1D52_12V30A/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_SPST_PotterBrumfield_T9AP1D52_12V30A/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_SPST_PotterBrumfield_T9AP1D52_12V30A/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_SPST_PotterBrumfield_T9AP1D52_12V30A/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

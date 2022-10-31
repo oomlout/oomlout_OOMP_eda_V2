@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKDIODESMDIODEBRIDGEDIOTECSODILSLIM > Diode_SMD : Diode_Bridge_Diotec_SO-DIL-Slim](#fzkdiodesmdiodebridgediotecsodilslim--diode_smd--diode_bridge_diotec_so-dil-slim)
+	* [Tags](#tags)
   
 ![][im]
 # FZKDIODESMDIODEBRIDGEDIOTECSODILSLIM > Diode_SMD : Diode_Bridge_Diotec_SO-DIL-Slim
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKDIODESMDIODEBRIDGEDIOTECSODILSLIM](http://oom.lt/FZKDIODESMDIODEBRIDGEDIOTECSODILSLIM)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Diode_SMD/Diode_Bridge_Diotec_SO-DIL-Slim/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Diode_SMD/Diode_Bridge_Diotec_SO-DIL-Slim/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Diode_SMD/Diode_Bridge_Diotec_SO-DIL-Slim/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Diode_SMD/Diode_Bridge_Diotec_SO-DIL-Slim/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Diode_SMD/Diode_Bridge_Diotec_SO-DIL-Slim/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Diode_SMD/Diode_Bridge_Diotec_SO-DIL-Slim/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Diode_SMD/Diode_Bridge_Diotec_SO-DIL-Slim/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Diode_SMD/Diode_Bridge_Diotec_SO-DIL-Slim/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Diode_SMD/Diode_Bridge_Diotec_SO-DIL-Slim/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Diode_SMD/Diode_Bridge_Diotec_SO-DIL-Slim/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Diode_SMD/Diode_Bridge_Diotec_SO-DIL-Slim/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Diode_SMD/Diode_Bridge_Diotec_SO-DIL-Slim/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Diode_SMD/Diode_Bridge_Diotec_SO-DIL-Slim/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Diode_SMD/Diode_Bridge_Diotec_SO-DIL-Slim/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Diode_SMD/Diode_Bridge_Diotec_SO-DIL-Slim/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Diode_SMD/Diode_Bridge_Diotec_SO-DIL-Slim/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Diode_SMD/Diode_Bridge_Diotec_SO-DIL-Slim/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Diode_SMD/Diode_Bridge_Diotec_SO-DIL-Slim/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Diode_SMD/Diode_Bridge_Diotec_SO-DIL-Slim/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

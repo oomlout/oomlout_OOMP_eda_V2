@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKXRSSFECV3PIN69X29 > Crystal : Resonator_SMD_Murata_SFECV-3Pin_6.9x2.9mm](#fzkxrssfecv3pin69x29--crystal--resonator_smd_murata_sfecv-3pin_69x29mm)
+	* [Tags](#tags)
   
 ![][im]
 # FZKXRSSFECV3PIN69X29 > Crystal : Resonator_SMD_Murata_SFECV-3Pin_6.9x2.9mm
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKXRSSFECV3PIN69X29](http://oom.lt/FZKXRSSFECV3PIN69X29)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Resonator_SMD_Murata_SFECV-3Pin_6.9x2.9mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Resonator_SMD_Murata_SFECV-3Pin_6.9x2.9mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Resonator_SMD_Murata_SFECV-3Pin_6.9x2.9mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Resonator_SMD_Murata_SFECV-3Pin_6.9x2.9mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Resonator_SMD_Murata_SFECV-3Pin_6.9x2.9mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Resonator_SMD_Murata_SFECV-3Pin_6.9x2.9mm/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Resonator_SMD_Murata_SFECV-3Pin_6.9x2.9mm/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Resonator_SMD_Murata_SFECV-3Pin_6.9x2.9mm/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Resonator_SMD_Murata_SFECV-3Pin_6.9x2.9mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Resonator_SMD_Murata_SFECV-3Pin_6.9x2.9mm/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Resonator_SMD_Murata_SFECV-3Pin_6.9x2.9mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Resonator_SMD_Murata_SFECV-3Pin_6.9x2.9mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Resonator_SMD_Murata_SFECV-3Pin_6.9x2.9mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Resonator_SMD_Murata_SFECV-3Pin_6.9x2.9mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Resonator_SMD_Murata_SFECV-3Pin_6.9x2.9mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Resonator_SMD_Murata_SFECV-3Pin_6.9x2.9mm/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Resonator_SMD_Murata_SFECV-3Pin_6.9x2.9mm/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Resonator_SMD_Murata_SFECV-3Pin_6.9x2.9mm/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Crystal/Resonator_SMD_Murata_SFECV-3Pin_6.9x2.9mm/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSUMBMALEUJ2MIBH4STR > digikey-footprints : USB_Micro_B_Male_UJ2-MIBH-4-SMT-TR](#fzkicaddigikeykicadlibrarydigikeyfootprintsumbmaleuj2mibh4str--digikey-footprints--usb_micro_b_male_uj2-mibh-4-smt-tr)
+	* [Tags](#tags)
   
 ![][im]
 # FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSUMBMALEUJ2MIBH4STR > digikey-footprints : USB_Micro_B_Male_UJ2-MIBH-4-SMT-TR
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSUMBMALEUJ2MIBH4STR](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSUMBMALEUJ2MIBH4STR)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/USB_Micro_B_Male_UJ2-MIBH-4-SMT-TR/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/USB_Micro_B_Male_UJ2-MIBH-4-SMT-TR/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/USB_Micro_B_Male_UJ2-MIBH-4-SMT-TR/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/USB_Micro_B_Male_UJ2-MIBH-4-SMT-TR/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/USB_Micro_B_Male_UJ2-MIBH-4-SMT-TR/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/USB_Micro_B_Male_UJ2-MIBH-4-SMT-TR/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/USB_Micro_B_Male_UJ2-MIBH-4-SMT-TR/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/USB_Micro_B_Male_UJ2-MIBH-4-SMT-TR/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/USB_Micro_B_Male_UJ2-MIBH-4-SMT-TR/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/USB_Micro_B_Male_UJ2-MIBH-4-SMT-TR/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/USB_Micro_B_Male_UJ2-MIBH-4-SMT-TR/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/USB_Micro_B_Male_UJ2-MIBH-4-SMT-TR/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/USB_Micro_B_Male_UJ2-MIBH-4-SMT-TR/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/USB_Micro_B_Male_UJ2-MIBH-4-SMT-TR/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/USB_Micro_B_Male_UJ2-MIBH-4-SMT-TR/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/USB_Micro_B_Male_UJ2-MIBH-4-SMT-TR/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/USB_Micro_B_Male_UJ2-MIBH-4-SMT-TR/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/USB_Micro_B_Male_UJ2-MIBH-4-SMT-TR/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/USB_Micro_B_Male_UJ2-MIBH-4-SMT-TR/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

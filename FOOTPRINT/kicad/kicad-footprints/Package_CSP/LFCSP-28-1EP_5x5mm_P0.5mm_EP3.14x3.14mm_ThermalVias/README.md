@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKCSPLFCSP281EP5X5P5EP314X314THERMALVIAS > Package_CSP : LFCSP-28-1EP_5x5mm_P0.5mm_EP3.14x3.14mm_ThermalVias](#fzkcsplfcsp281ep5x5p5ep314x314thermalvias--package_csp--lfcsp-28-1ep_5x5mm_p05mm_ep314x314mm_thermalvias)
+	* [Tags](#tags)
   
 ![][im]
 # FZKCSPLFCSP281EP5X5P5EP314X314THERMALVIAS > Package_CSP : LFCSP-28-1EP_5x5mm_P0.5mm_EP3.14x3.14mm_ThermalVias
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKCSPLFCSP281EP5X5P5EP314X314THERMALVIAS](http://oom.lt/FZKCSPLFCSP281EP5X5P5EP314X314THERMALVIAS)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_CSP/LFCSP-28-1EP_5x5mm_P0.5mm_EP3.14x3.14mm_ThermalVias/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_CSP/LFCSP-28-1EP_5x5mm_P0.5mm_EP3.14x3.14mm_ThermalVias/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_CSP/LFCSP-28-1EP_5x5mm_P0.5mm_EP3.14x3.14mm_ThermalVias/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_CSP/LFCSP-28-1EP_5x5mm_P0.5mm_EP3.14x3.14mm_ThermalVias/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_CSP/LFCSP-28-1EP_5x5mm_P0.5mm_EP3.14x3.14mm_ThermalVias/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_CSP/LFCSP-28-1EP_5x5mm_P0.5mm_EP3.14x3.14mm_ThermalVias/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_CSP/LFCSP-28-1EP_5x5mm_P0.5mm_EP3.14x3.14mm_ThermalVias/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_CSP/LFCSP-28-1EP_5x5mm_P0.5mm_EP3.14x3.14mm_ThermalVias/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_CSP/LFCSP-28-1EP_5x5mm_P0.5mm_EP3.14x3.14mm_ThermalVias/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_CSP/LFCSP-28-1EP_5x5mm_P0.5mm_EP3.14x3.14mm_ThermalVias/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_CSP/LFCSP-28-1EP_5x5mm_P0.5mm_EP3.14x3.14mm_ThermalVias/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_CSP/LFCSP-28-1EP_5x5mm_P0.5mm_EP3.14x3.14mm_ThermalVias/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_CSP/LFCSP-28-1EP_5x5mm_P0.5mm_EP3.14x3.14mm_ThermalVias/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_CSP/LFCSP-28-1EP_5x5mm_P0.5mm_EP3.14x3.14mm_ThermalVias/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_CSP/LFCSP-28-1EP_5x5mm_P0.5mm_EP3.14x3.14mm_ThermalVias/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_CSP/LFCSP-28-1EP_5x5mm_P0.5mm_EP3.14x3.14mm_ThermalVias/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_CSP/LFCSP-28-1EP_5x5mm_P0.5mm_EP3.14x3.14mm_ThermalVias/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_CSP/LFCSP-28-1EP_5x5mm_P0.5mm_EP3.14x3.14mm_ThermalVias/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Package_CSP/LFCSP-28-1EP_5x5mm_P0.5mm_EP3.14x3.14mm_ThermalVias/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

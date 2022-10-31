@@ -5,6 +5,8 @@
     "distributorPartNumber": [],
     "eagleBoard": [],
     "eagleSchem": [],
+    "footprintEagle": [],
+    "footprintEagleDetails": [],
     "footprintKicad": [],
     "footprintKicadDetails": [
         {
@@ -48,6 +50,9 @@
         "details": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/TO-252-3/details.py"
         ],
+        "image": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/TO-252-3/image.png"
+        ],
         "imagePng": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/TO-252-3/image.png"
         ],
@@ -86,6 +91,8 @@
     ],
     "oplPartNumber": [],
     "rawParts": [],
+    "symbolEagle": [],
+    "symbolEagleDetails": [],
     "symbolKicad": [],
     "symbolKicadDetails": []
 }

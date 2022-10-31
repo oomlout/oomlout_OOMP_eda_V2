@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKINLAXIALL16D95P232HORIZONTALVISHAYIM137 > Inductor_THT : L_Axial_L16.0mm_D9.5mm_P20.32mm_Horizontal_Vishay_IM-10-37](#fzkinlaxiall16d95p232horizontalvishayim137--inductor_tht--l_axial_l160mm_d95mm_p2032mm_horizontal_vishay_im-10-37)
+	* [Tags](#tags)
   
 ![][im]
 # FZKINLAXIALL16D95P232HORIZONTALVISHAYIM137 > Inductor_THT : L_Axial_L16.0mm_D9.5mm_P20.32mm_Horizontal_Vishay_IM-10-37
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKINLAXIALL16D95P232HORIZONTALVISHAYIM137](http://oom.lt/FZKINLAXIALL16D95P232HORIZONTALVISHAYIM137)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L16.0mm_D9.5mm_P20.32mm_Horizontal_Vishay_IM-10-37/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L16.0mm_D9.5mm_P20.32mm_Horizontal_Vishay_IM-10-37/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L16.0mm_D9.5mm_P20.32mm_Horizontal_Vishay_IM-10-37/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L16.0mm_D9.5mm_P20.32mm_Horizontal_Vishay_IM-10-37/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L16.0mm_D9.5mm_P20.32mm_Horizontal_Vishay_IM-10-37/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L16.0mm_D9.5mm_P20.32mm_Horizontal_Vishay_IM-10-37/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L16.0mm_D9.5mm_P20.32mm_Horizontal_Vishay_IM-10-37/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L16.0mm_D9.5mm_P20.32mm_Horizontal_Vishay_IM-10-37/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L16.0mm_D9.5mm_P20.32mm_Horizontal_Vishay_IM-10-37/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L16.0mm_D9.5mm_P20.32mm_Horizontal_Vishay_IM-10-37/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L16.0mm_D9.5mm_P20.32mm_Horizontal_Vishay_IM-10-37/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L16.0mm_D9.5mm_P20.32mm_Horizontal_Vishay_IM-10-37/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L16.0mm_D9.5mm_P20.32mm_Horizontal_Vishay_IM-10-37/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L16.0mm_D9.5mm_P20.32mm_Horizontal_Vishay_IM-10-37/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L16.0mm_D9.5mm_P20.32mm_Horizontal_Vishay_IM-10-37/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L16.0mm_D9.5mm_P20.32mm_Horizontal_Vishay_IM-10-37/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L16.0mm_D9.5mm_P20.32mm_Horizontal_Vishay_IM-10-37/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L16.0mm_D9.5mm_P20.32mm_Horizontal_Vishay_IM-10-37/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L16.0mm_D9.5mm_P20.32mm_Horizontal_Vishay_IM-10-37/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

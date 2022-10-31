@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKCNPINPIND13L11LOOSEFIT > Connector_Pin : Pin_D1.3mm_L11.0mm_LooseFit](#fzkcnpinpind13l11loosefit--connector_pin--pin_d13mm_l110mm_loosefit)
+	* [Tags](#tags)
   
 ![][im]
 # FZKCNPINPIND13L11LOOSEFIT > Connector_Pin : Pin_D1.3mm_L11.0mm_LooseFit
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKCNPINPIND13L11LOOSEFIT](http://oom.lt/FZKCNPINPIND13L11LOOSEFIT)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Pin/Pin_D1.3mm_L11.0mm_LooseFit/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Pin/Pin_D1.3mm_L11.0mm_LooseFit/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Pin/Pin_D1.3mm_L11.0mm_LooseFit/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Pin/Pin_D1.3mm_L11.0mm_LooseFit/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Pin/Pin_D1.3mm_L11.0mm_LooseFit/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Pin/Pin_D1.3mm_L11.0mm_LooseFit/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Pin/Pin_D1.3mm_L11.0mm_LooseFit/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Pin/Pin_D1.3mm_L11.0mm_LooseFit/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Pin/Pin_D1.3mm_L11.0mm_LooseFit/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Pin/Pin_D1.3mm_L11.0mm_LooseFit/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Pin/Pin_D1.3mm_L11.0mm_LooseFit/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Pin/Pin_D1.3mm_L11.0mm_LooseFit/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Pin/Pin_D1.3mm_L11.0mm_LooseFit/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Pin/Pin_D1.3mm_L11.0mm_LooseFit/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Pin/Pin_D1.3mm_L11.0mm_LooseFit/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Pin/Pin_D1.3mm_L11.0mm_LooseFit/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Pin/Pin_D1.3mm_L11.0mm_LooseFit/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Pin/Pin_D1.3mm_L11.0mm_LooseFit/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Connector_Pin/Pin_D1.3mm_L11.0mm_LooseFit/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

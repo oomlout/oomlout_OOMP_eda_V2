@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKCNUUCRECEPTACLEHROTYPEC31M12 > Connector_USB : USB_C_Receptacle_HRO_TYPE-C-31-M-12](#fzkcnuucreceptaclehrotypec31m12--connector_usb--usb_c_receptacle_hro_type-c-31-m-12)
+	* [Tags](#tags)
   
 ![][im]
 # FZKCNUUCRECEPTACLEHROTYPEC31M12 > Connector_USB : USB_C_Receptacle_HRO_TYPE-C-31-M-12
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKCNUUCRECEPTACLEHROTYPEC31M12](http://oom.lt/FZKCNUUCRECEPTACLEHROTYPEC31M12)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_C_Receptacle_HRO_TYPE-C-31-M-12/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_C_Receptacle_HRO_TYPE-C-31-M-12/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_C_Receptacle_HRO_TYPE-C-31-M-12/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_C_Receptacle_HRO_TYPE-C-31-M-12/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_C_Receptacle_HRO_TYPE-C-31-M-12/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_C_Receptacle_HRO_TYPE-C-31-M-12/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_C_Receptacle_HRO_TYPE-C-31-M-12/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_C_Receptacle_HRO_TYPE-C-31-M-12/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_C_Receptacle_HRO_TYPE-C-31-M-12/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_C_Receptacle_HRO_TYPE-C-31-M-12/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_C_Receptacle_HRO_TYPE-C-31-M-12/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_C_Receptacle_HRO_TYPE-C-31-M-12/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_C_Receptacle_HRO_TYPE-C-31-M-12/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_C_Receptacle_HRO_TYPE-C-31-M-12/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_C_Receptacle_HRO_TYPE-C-31-M-12/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_C_Receptacle_HRO_TYPE-C-31-M-12/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_C_Receptacle_HRO_TYPE-C-31-M-12/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_C_Receptacle_HRO_TYPE-C-31-M-12/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_C_Receptacle_HRO_TYPE-C-31-M-12/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

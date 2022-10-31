@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKFUFUBELFUZRE75FFL115W48 > Fuse : Fuse_BelFuse_0ZRE0075FF_L11.5mm_W4.8mm](#fzkfufubelfuzre75ffl115w48--fuse--fuse_belfuse_0zre0075ff_l115mm_w48mm)
+	* [Tags](#tags)
   
 ![][im]
 # FZKFUFUBELFUZRE75FFL115W48 > Fuse : Fuse_BelFuse_0ZRE0075FF_L11.5mm_W4.8mm
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKFUFUBELFUZRE75FFL115W48](http://oom.lt/FZKFUFUBELFUZRE75FFL115W48)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuse_BelFuse_0ZRE0075FF_L11.5mm_W4.8mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuse_BelFuse_0ZRE0075FF_L11.5mm_W4.8mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuse_BelFuse_0ZRE0075FF_L11.5mm_W4.8mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuse_BelFuse_0ZRE0075FF_L11.5mm_W4.8mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuse_BelFuse_0ZRE0075FF_L11.5mm_W4.8mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuse_BelFuse_0ZRE0075FF_L11.5mm_W4.8mm/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuse_BelFuse_0ZRE0075FF_L11.5mm_W4.8mm/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuse_BelFuse_0ZRE0075FF_L11.5mm_W4.8mm/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuse_BelFuse_0ZRE0075FF_L11.5mm_W4.8mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuse_BelFuse_0ZRE0075FF_L11.5mm_W4.8mm/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuse_BelFuse_0ZRE0075FF_L11.5mm_W4.8mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuse_BelFuse_0ZRE0075FF_L11.5mm_W4.8mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuse_BelFuse_0ZRE0075FF_L11.5mm_W4.8mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuse_BelFuse_0ZRE0075FF_L11.5mm_W4.8mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuse_BelFuse_0ZRE0075FF_L11.5mm_W4.8mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuse_BelFuse_0ZRE0075FF_L11.5mm_W4.8mm/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuse_BelFuse_0ZRE0075FF_L11.5mm_W4.8mm/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuse_BelFuse_0ZRE0075FF_L11.5mm_W4.8mm/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Fuse/Fuse_BelFuse_0ZRE0075FF_L11.5mm_W4.8mm/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

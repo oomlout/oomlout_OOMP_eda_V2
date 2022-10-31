@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKLSMLAVAGOPLCC432X28CW > LED_SMD : LED_Avago_PLCC4_3.2x2.8mm_CW](#fzklsmlavagoplcc432x28cw--led_smd--led_avago_plcc4_32x28mm_cw)
+	* [Tags](#tags)
   
 ![][im]
 # FZKLSMLAVAGOPLCC432X28CW > LED_SMD : LED_Avago_PLCC4_3.2x2.8mm_CW
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKLSMLAVAGOPLCC432X28CW](http://oom.lt/FZKLSMLAVAGOPLCC432X28CW)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Avago_PLCC4_3.2x2.8mm_CW/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Avago_PLCC4_3.2x2.8mm_CW/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Avago_PLCC4_3.2x2.8mm_CW/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Avago_PLCC4_3.2x2.8mm_CW/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Avago_PLCC4_3.2x2.8mm_CW/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Avago_PLCC4_3.2x2.8mm_CW/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Avago_PLCC4_3.2x2.8mm_CW/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Avago_PLCC4_3.2x2.8mm_CW/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Avago_PLCC4_3.2x2.8mm_CW/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Avago_PLCC4_3.2x2.8mm_CW/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Avago_PLCC4_3.2x2.8mm_CW/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Avago_PLCC4_3.2x2.8mm_CW/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Avago_PLCC4_3.2x2.8mm_CW/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Avago_PLCC4_3.2x2.8mm_CW/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Avago_PLCC4_3.2x2.8mm_CW/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Avago_PLCC4_3.2x2.8mm_CW/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Avago_PLCC4_3.2x2.8mm_CW/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Avago_PLCC4_3.2x2.8mm_CW/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Avago_PLCC4_3.2x2.8mm_CW/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

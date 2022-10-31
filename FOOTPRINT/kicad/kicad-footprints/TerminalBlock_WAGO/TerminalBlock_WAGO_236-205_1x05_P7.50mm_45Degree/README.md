@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKTBWAGOTBWAGO236251X5P7545DEGREE > TerminalBlock_WAGO : TerminalBlock_WAGO_236-205_1x05_P7.50mm_45Degree](#fzktbwagotbwago236251x5p7545degree--terminalblock_wago--terminalblock_wago_236-205_1x05_p750mm_45degree)
+	* [Tags](#tags)
   
 ![][im]
 # FZKTBWAGOTBWAGO236251X5P7545DEGREE > TerminalBlock_WAGO : TerminalBlock_WAGO_236-205_1x05_P7.50mm_45Degree
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKTBWAGOTBWAGO236251X5P7545DEGREE](http://oom.lt/FZKTBWAGOTBWAGO236251X5P7545DEGREE)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_WAGO/TerminalBlock_WAGO_236-205_1x05_P7.50mm_45Degree/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_WAGO/TerminalBlock_WAGO_236-205_1x05_P7.50mm_45Degree/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_WAGO/TerminalBlock_WAGO_236-205_1x05_P7.50mm_45Degree/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_WAGO/TerminalBlock_WAGO_236-205_1x05_P7.50mm_45Degree/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_WAGO/TerminalBlock_WAGO_236-205_1x05_P7.50mm_45Degree/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_WAGO/TerminalBlock_WAGO_236-205_1x05_P7.50mm_45Degree/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_WAGO/TerminalBlock_WAGO_236-205_1x05_P7.50mm_45Degree/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_WAGO/TerminalBlock_WAGO_236-205_1x05_P7.50mm_45Degree/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_WAGO/TerminalBlock_WAGO_236-205_1x05_P7.50mm_45Degree/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_WAGO/TerminalBlock_WAGO_236-205_1x05_P7.50mm_45Degree/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_WAGO/TerminalBlock_WAGO_236-205_1x05_P7.50mm_45Degree/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_WAGO/TerminalBlock_WAGO_236-205_1x05_P7.50mm_45Degree/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_WAGO/TerminalBlock_WAGO_236-205_1x05_P7.50mm_45Degree/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_WAGO/TerminalBlock_WAGO_236-205_1x05_P7.50mm_45Degree/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_WAGO/TerminalBlock_WAGO_236-205_1x05_P7.50mm_45Degree/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_WAGO/TerminalBlock_WAGO_236-205_1x05_P7.50mm_45Degree/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_WAGO/TerminalBlock_WAGO_236-205_1x05_P7.50mm_45Degree/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_WAGO/TerminalBlock_WAGO_236-205_1x05_P7.50mm_45Degree/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/TerminalBlock_WAGO/TerminalBlock_WAGO_236-205_1x05_P7.50mm_45Degree/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

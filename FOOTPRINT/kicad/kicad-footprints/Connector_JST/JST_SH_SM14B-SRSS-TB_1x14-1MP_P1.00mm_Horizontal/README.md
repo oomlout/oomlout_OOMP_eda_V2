@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKCNJSTJSTSHSM14BSRSSTB1X141MPP1HORIZONTAL > Connector_JST : JST_SH_SM14B-SRSS-TB_1x14-1MP_P1.00mm_Horizontal](#fzkcnjstjstshsm14bsrsstb1x141mpp1horizontal--connector_jst--jst_sh_sm14b-srss-tb_1x14-1mp_p100mm_horizontal)
+	* [Tags](#tags)
   
 ![][im]
 # FZKCNJSTJSTSHSM14BSRSSTB1X141MPP1HORIZONTAL > Connector_JST : JST_SH_SM14B-SRSS-TB_1x14-1MP_P1.00mm_Horizontal
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKCNJSTJSTSHSM14BSRSSTB1X141MPP1HORIZONTAL](http://oom.lt/FZKCNJSTJSTSHSM14BSRSSTB1X141MPP1HORIZONTAL)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_SH_SM14B-SRSS-TB_1x14-1MP_P1.00mm_Horizontal/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_SH_SM14B-SRSS-TB_1x14-1MP_P1.00mm_Horizontal/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_SH_SM14B-SRSS-TB_1x14-1MP_P1.00mm_Horizontal/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_SH_SM14B-SRSS-TB_1x14-1MP_P1.00mm_Horizontal/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_SH_SM14B-SRSS-TB_1x14-1MP_P1.00mm_Horizontal/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_SH_SM14B-SRSS-TB_1x14-1MP_P1.00mm_Horizontal/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_SH_SM14B-SRSS-TB_1x14-1MP_P1.00mm_Horizontal/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_SH_SM14B-SRSS-TB_1x14-1MP_P1.00mm_Horizontal/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_SH_SM14B-SRSS-TB_1x14-1MP_P1.00mm_Horizontal/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_SH_SM14B-SRSS-TB_1x14-1MP_P1.00mm_Horizontal/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_SH_SM14B-SRSS-TB_1x14-1MP_P1.00mm_Horizontal/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_SH_SM14B-SRSS-TB_1x14-1MP_P1.00mm_Horizontal/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_SH_SM14B-SRSS-TB_1x14-1MP_P1.00mm_Horizontal/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_SH_SM14B-SRSS-TB_1x14-1MP_P1.00mm_Horizontal/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_SH_SM14B-SRSS-TB_1x14-1MP_P1.00mm_Horizontal/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_SH_SM14B-SRSS-TB_1x14-1MP_P1.00mm_Horizontal/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_SH_SM14B-SRSS-TB_1x14-1MP_P1.00mm_Horizontal/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_SH_SM14B-SRSS-TB_1x14-1MP_P1.00mm_Horizontal/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_SH_SM14B-SRSS-TB_1x14-1MP_P1.00mm_Horizontal/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

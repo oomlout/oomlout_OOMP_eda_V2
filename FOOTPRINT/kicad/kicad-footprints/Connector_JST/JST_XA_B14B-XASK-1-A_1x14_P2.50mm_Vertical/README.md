@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKCNJSTJSTXAB14BXASK1A1X14P25VERTICAL > Connector_JST : JST_XA_B14B-XASK-1-A_1x14_P2.50mm_Vertical](#fzkcnjstjstxab14bxask1a1x14p25vertical--connector_jst--jst_xa_b14b-xask-1-a_1x14_p250mm_vertical)
+	* [Tags](#tags)
   
 ![][im]
 # FZKCNJSTJSTXAB14BXASK1A1X14P25VERTICAL > Connector_JST : JST_XA_B14B-XASK-1-A_1x14_P2.50mm_Vertical
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKCNJSTJSTXAB14BXASK1A1X14P25VERTICAL](http://oom.lt/FZKCNJSTJSTXAB14BXASK1A1X14P25VERTICAL)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_XA_B14B-XASK-1-A_1x14_P2.50mm_Vertical/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_XA_B14B-XASK-1-A_1x14_P2.50mm_Vertical/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_XA_B14B-XASK-1-A_1x14_P2.50mm_Vertical/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_XA_B14B-XASK-1-A_1x14_P2.50mm_Vertical/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_XA_B14B-XASK-1-A_1x14_P2.50mm_Vertical/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_XA_B14B-XASK-1-A_1x14_P2.50mm_Vertical/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_XA_B14B-XASK-1-A_1x14_P2.50mm_Vertical/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_XA_B14B-XASK-1-A_1x14_P2.50mm_Vertical/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_XA_B14B-XASK-1-A_1x14_P2.50mm_Vertical/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_XA_B14B-XASK-1-A_1x14_P2.50mm_Vertical/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_XA_B14B-XASK-1-A_1x14_P2.50mm_Vertical/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_XA_B14B-XASK-1-A_1x14_P2.50mm_Vertical/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_XA_B14B-XASK-1-A_1x14_P2.50mm_Vertical/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_XA_B14B-XASK-1-A_1x14_P2.50mm_Vertical/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_XA_B14B-XASK-1-A_1x14_P2.50mm_Vertical/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_XA_B14B-XASK-1-A_1x14_P2.50mm_Vertical/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_XA_B14B-XASK-1-A_1x14_P2.50mm_Vertical/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_XA_B14B-XASK-1-A_1x14_P2.50mm_Vertical/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_XA_B14B-XASK-1-A_1x14_P2.50mm_Vertical/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

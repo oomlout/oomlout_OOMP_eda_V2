@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKCNJSTJSTSURSM8BSURSTF1X81MPP8HORIZONTAL > Connector_JST : JST_SUR_SM08B-SURS-TF_1x08-1MP_P0.80mm_Horizontal](#fzkcnjstjstsursm8bsurstf1x81mpp8horizontal--connector_jst--jst_sur_sm08b-surs-tf_1x08-1mp_p080mm_horizontal)
+	* [Tags](#tags)
   
 ![][im]
 # FZKCNJSTJSTSURSM8BSURSTF1X81MPP8HORIZONTAL > Connector_JST : JST_SUR_SM08B-SURS-TF_1x08-1MP_P0.80mm_Horizontal
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKCNJSTJSTSURSM8BSURSTF1X81MPP8HORIZONTAL](http://oom.lt/FZKCNJSTJSTSURSM8BSURSTF1X81MPP8HORIZONTAL)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_SUR_SM08B-SURS-TF_1x08-1MP_P0.80mm_Horizontal/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_SUR_SM08B-SURS-TF_1x08-1MP_P0.80mm_Horizontal/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_SUR_SM08B-SURS-TF_1x08-1MP_P0.80mm_Horizontal/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_SUR_SM08B-SURS-TF_1x08-1MP_P0.80mm_Horizontal/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_SUR_SM08B-SURS-TF_1x08-1MP_P0.80mm_Horizontal/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_SUR_SM08B-SURS-TF_1x08-1MP_P0.80mm_Horizontal/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_SUR_SM08B-SURS-TF_1x08-1MP_P0.80mm_Horizontal/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_SUR_SM08B-SURS-TF_1x08-1MP_P0.80mm_Horizontal/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_SUR_SM08B-SURS-TF_1x08-1MP_P0.80mm_Horizontal/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_SUR_SM08B-SURS-TF_1x08-1MP_P0.80mm_Horizontal/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_SUR_SM08B-SURS-TF_1x08-1MP_P0.80mm_Horizontal/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_SUR_SM08B-SURS-TF_1x08-1MP_P0.80mm_Horizontal/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_SUR_SM08B-SURS-TF_1x08-1MP_P0.80mm_Horizontal/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_SUR_SM08B-SURS-TF_1x08-1MP_P0.80mm_Horizontal/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_SUR_SM08B-SURS-TF_1x08-1MP_P0.80mm_Horizontal/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_SUR_SM08B-SURS-TF_1x08-1MP_P0.80mm_Horizontal/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_SUR_SM08B-SURS-TF_1x08-1MP_P0.80mm_Horizontal/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_SUR_SM08B-SURS-TF_1x08-1MP_P0.80mm_Horizontal/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_SUR_SM08B-SURS-TF_1x08-1MP_P0.80mm_Horizontal/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

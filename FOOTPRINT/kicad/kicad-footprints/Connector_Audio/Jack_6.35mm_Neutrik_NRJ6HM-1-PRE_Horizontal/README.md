@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKCNAUDIOJ635NEUTRIKNRJ6HM1PREHORIZONTAL > Connector_Audio : Jack_6.35mm_Neutrik_NRJ6HM-1-PRE_Horizontal](#fzkcnaudioj635neutriknrj6hm1prehorizontal--connector_audio--jack_635mm_neutrik_nrj6hm-1-pre_horizontal)
+	* [Tags](#tags)
   
 ![][im]
 # FZKCNAUDIOJ635NEUTRIKNRJ6HM1PREHORIZONTAL > Connector_Audio : Jack_6.35mm_Neutrik_NRJ6HM-1-PRE_Horizontal
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKCNAUDIOJ635NEUTRIKNRJ6HM1PREHORIZONTAL](http://oom.lt/FZKCNAUDIOJ635NEUTRIKNRJ6HM1PREHORIZONTAL)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_6.35mm_Neutrik_NRJ6HM-1-PRE_Horizontal/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_6.35mm_Neutrik_NRJ6HM-1-PRE_Horizontal/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_6.35mm_Neutrik_NRJ6HM-1-PRE_Horizontal/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_6.35mm_Neutrik_NRJ6HM-1-PRE_Horizontal/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_6.35mm_Neutrik_NRJ6HM-1-PRE_Horizontal/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_6.35mm_Neutrik_NRJ6HM-1-PRE_Horizontal/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_6.35mm_Neutrik_NRJ6HM-1-PRE_Horizontal/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_6.35mm_Neutrik_NRJ6HM-1-PRE_Horizontal/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_6.35mm_Neutrik_NRJ6HM-1-PRE_Horizontal/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_6.35mm_Neutrik_NRJ6HM-1-PRE_Horizontal/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_6.35mm_Neutrik_NRJ6HM-1-PRE_Horizontal/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_6.35mm_Neutrik_NRJ6HM-1-PRE_Horizontal/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_6.35mm_Neutrik_NRJ6HM-1-PRE_Horizontal/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_6.35mm_Neutrik_NRJ6HM-1-PRE_Horizontal/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_6.35mm_Neutrik_NRJ6HM-1-PRE_Horizontal/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_6.35mm_Neutrik_NRJ6HM-1-PRE_Horizontal/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_6.35mm_Neutrik_NRJ6HM-1-PRE_Horizontal/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_6.35mm_Neutrik_NRJ6HM-1-PRE_Horizontal/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_6.35mm_Neutrik_NRJ6HM-1-PRE_Horizontal/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

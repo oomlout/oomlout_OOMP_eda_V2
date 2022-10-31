@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKSENAUDIOSTHLGA6376X472P165 > Sensor_Audio : ST_HLGA-6_3.76x4.72mm_P1.65mm](#fzksenaudiosthlga6376x472p165--sensor_audio--st_hlga-6_376x472mm_p165mm)
+	* [Tags](#tags)
   
 ![][im]
 # FZKSENAUDIOSTHLGA6376X472P165 > Sensor_Audio : ST_HLGA-6_3.76x4.72mm_P1.65mm
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKSENAUDIOSTHLGA6376X472P165](http://oom.lt/FZKSENAUDIOSTHLGA6376X472P165)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Audio/ST_HLGA-6_3.76x4.72mm_P1.65mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Audio/ST_HLGA-6_3.76x4.72mm_P1.65mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Audio/ST_HLGA-6_3.76x4.72mm_P1.65mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Audio/ST_HLGA-6_3.76x4.72mm_P1.65mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Audio/ST_HLGA-6_3.76x4.72mm_P1.65mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Audio/ST_HLGA-6_3.76x4.72mm_P1.65mm/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Audio/ST_HLGA-6_3.76x4.72mm_P1.65mm/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Audio/ST_HLGA-6_3.76x4.72mm_P1.65mm/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Audio/ST_HLGA-6_3.76x4.72mm_P1.65mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Audio/ST_HLGA-6_3.76x4.72mm_P1.65mm/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Audio/ST_HLGA-6_3.76x4.72mm_P1.65mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Audio/ST_HLGA-6_3.76x4.72mm_P1.65mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Audio/ST_HLGA-6_3.76x4.72mm_P1.65mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Audio/ST_HLGA-6_3.76x4.72mm_P1.65mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Audio/ST_HLGA-6_3.76x4.72mm_P1.65mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Audio/ST_HLGA-6_3.76x4.72mm_P1.65mm/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Audio/ST_HLGA-6_3.76x4.72mm_P1.65mm/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Audio/ST_HLGA-6_3.76x4.72mm_P1.65mm/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Sensor_Audio/ST_HLGA-6_3.76x4.72mm_P1.65mm/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

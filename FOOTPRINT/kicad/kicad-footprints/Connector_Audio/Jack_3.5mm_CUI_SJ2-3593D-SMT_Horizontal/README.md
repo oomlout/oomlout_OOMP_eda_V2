@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKCNAUDIOJ35CUISJ23593DSHORIZONTAL > Connector_Audio : Jack_3.5mm_CUI_SJ2-3593D-SMT_Horizontal](#fzkcnaudioj35cuisj23593dshorizontal--connector_audio--jack_35mm_cui_sj2-3593d-smt_horizontal)
+	* [Tags](#tags)
   
 ![][im]
 # FZKCNAUDIOJ35CUISJ23593DSHORIZONTAL > Connector_Audio : Jack_3.5mm_CUI_SJ2-3593D-SMT_Horizontal
@@ -34,4 +40,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_3.5mm_CUI_SJ2-3593D-SMT_Horizontal/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

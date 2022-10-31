@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKCONCONVIGORTRONIXVTX2141XXXTHT > Converter_ACDC : Converter_ACDC_Vigortronix_VTX-214-010-xxx_THT](#fzkconconvigortronixvtx2141xxxtht--converter_acdc--converter_acdc_vigortronix_vtx-214-010-xxx_tht)
+	* [Tags](#tags)
   
 ![][im]
 # FZKCONCONVIGORTRONIXVTX2141XXXTHT > Converter_ACDC : Converter_ACDC_Vigortronix_VTX-214-010-xxx_THT
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKCONCONVIGORTRONIXVTX2141XXXTHT](http://oom.lt/FZKCONCONVIGORTRONIXVTX2141XXXTHT)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Converter_ACDC/Converter_ACDC_Vigortronix_VTX-214-010-xxx_THT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Converter_ACDC/Converter_ACDC_Vigortronix_VTX-214-010-xxx_THT/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Converter_ACDC/Converter_ACDC_Vigortronix_VTX-214-010-xxx_THT/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Converter_ACDC/Converter_ACDC_Vigortronix_VTX-214-010-xxx_THT/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Converter_ACDC/Converter_ACDC_Vigortronix_VTX-214-010-xxx_THT/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Converter_ACDC/Converter_ACDC_Vigortronix_VTX-214-010-xxx_THT/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Converter_ACDC/Converter_ACDC_Vigortronix_VTX-214-010-xxx_THT/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Converter_ACDC/Converter_ACDC_Vigortronix_VTX-214-010-xxx_THT/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Converter_ACDC/Converter_ACDC_Vigortronix_VTX-214-010-xxx_THT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Converter_ACDC/Converter_ACDC_Vigortronix_VTX-214-010-xxx_THT/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Converter_ACDC/Converter_ACDC_Vigortronix_VTX-214-010-xxx_THT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Converter_ACDC/Converter_ACDC_Vigortronix_VTX-214-010-xxx_THT/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Converter_ACDC/Converter_ACDC_Vigortronix_VTX-214-010-xxx_THT/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Converter_ACDC/Converter_ACDC_Vigortronix_VTX-214-010-xxx_THT/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Converter_ACDC/Converter_ACDC_Vigortronix_VTX-214-010-xxx_THT/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Converter_ACDC/Converter_ACDC_Vigortronix_VTX-214-010-xxx_THT/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Converter_ACDC/Converter_ACDC_Vigortronix_VTX-214-010-xxx_THT/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Converter_ACDC/Converter_ACDC_Vigortronix_VTX-214-010-xxx_THT/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Converter_ACDC/Converter_ACDC_Vigortronix_VTX-214-010-xxx_THT/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

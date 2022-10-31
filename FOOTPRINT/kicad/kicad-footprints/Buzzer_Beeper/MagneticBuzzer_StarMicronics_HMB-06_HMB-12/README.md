@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKBZMAGNETICBUZZERSTARMNICSHMB6HMB12 > Buzzer_Beeper : MagneticBuzzer_StarMicronics_HMB-06_HMB-12](#fzkbzmagneticbuzzerstarmnicshmb6hmb12--buzzer_beeper--magneticbuzzer_starmicronics_hmb-06_hmb-12)
+	* [Tags](#tags)
   
 ![][im]
 # FZKBZMAGNETICBUZZERSTARMNICSHMB6HMB12 > Buzzer_Beeper : MagneticBuzzer_StarMicronics_HMB-06_HMB-12
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKBZMAGNETICBUZZERSTARMNICSHMB6HMB12](http://oom.lt/FZKBZMAGNETICBUZZERSTARMNICSHMB6HMB12)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/MagneticBuzzer_StarMicronics_HMB-06_HMB-12/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/MagneticBuzzer_StarMicronics_HMB-06_HMB-12/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/MagneticBuzzer_StarMicronics_HMB-06_HMB-12/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/MagneticBuzzer_StarMicronics_HMB-06_HMB-12/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/MagneticBuzzer_StarMicronics_HMB-06_HMB-12/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/MagneticBuzzer_StarMicronics_HMB-06_HMB-12/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/MagneticBuzzer_StarMicronics_HMB-06_HMB-12/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/MagneticBuzzer_StarMicronics_HMB-06_HMB-12/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/MagneticBuzzer_StarMicronics_HMB-06_HMB-12/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/MagneticBuzzer_StarMicronics_HMB-06_HMB-12/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/MagneticBuzzer_StarMicronics_HMB-06_HMB-12/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/MagneticBuzzer_StarMicronics_HMB-06_HMB-12/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/MagneticBuzzer_StarMicronics_HMB-06_HMB-12/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/MagneticBuzzer_StarMicronics_HMB-06_HMB-12/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/MagneticBuzzer_StarMicronics_HMB-06_HMB-12/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/MagneticBuzzer_StarMicronics_HMB-06_HMB-12/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/MagneticBuzzer_StarMicronics_HMB-06_HMB-12/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/MagneticBuzzer_StarMicronics_HMB-06_HMB-12/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/MagneticBuzzer_StarMicronics_HMB-06_HMB-12/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

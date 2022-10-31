@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKBATBATHOLDERMPDBC2AAPC2XAA > Battery : BatteryHolder_MPD_BC2AAPC_2xAA](#fzkbatbatholdermpdbc2aapc2xaa--battery--batteryholder_mpd_bc2aapc_2xaa)
+	* [Tags](#tags)
   
 ![][im]
 # FZKBATBATHOLDERMPDBC2AAPC2XAA > Battery : BatteryHolder_MPD_BC2AAPC_2xAA
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKBATBATHOLDERMPDBC2AAPC2XAA](http://oom.lt/FZKBATBATHOLDERMPDBC2AAPC2XAA)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Battery/BatteryHolder_MPD_BC2AAPC_2xAA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Battery/BatteryHolder_MPD_BC2AAPC_2xAA/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Battery/BatteryHolder_MPD_BC2AAPC_2xAA/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Battery/BatteryHolder_MPD_BC2AAPC_2xAA/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Battery/BatteryHolder_MPD_BC2AAPC_2xAA/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Battery/BatteryHolder_MPD_BC2AAPC_2xAA/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Battery/BatteryHolder_MPD_BC2AAPC_2xAA/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Battery/BatteryHolder_MPD_BC2AAPC_2xAA/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Battery/BatteryHolder_MPD_BC2AAPC_2xAA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Battery/BatteryHolder_MPD_BC2AAPC_2xAA/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Battery/BatteryHolder_MPD_BC2AAPC_2xAA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Battery/BatteryHolder_MPD_BC2AAPC_2xAA/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Battery/BatteryHolder_MPD_BC2AAPC_2xAA/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Battery/BatteryHolder_MPD_BC2AAPC_2xAA/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Battery/BatteryHolder_MPD_BC2AAPC_2xAA/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Battery/BatteryHolder_MPD_BC2AAPC_2xAA/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Battery/BatteryHolder_MPD_BC2AAPC_2xAA/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Battery/BatteryHolder_MPD_BC2AAPC_2xAA/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Battery/BatteryHolder_MPD_BC2AAPC_2xAA/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

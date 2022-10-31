@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKFUFU85212METRICPAD115X14HANDSOLDER > Fuse : Fuse_0805_2012Metric_Pad1.15x1.40mm_HandSolder](#fzkfufu85212metricpad115x14handsolder--fuse--fuse_0805_2012metric_pad115x140mm_handsolder)
+	* [Tags](#tags)
   
 ![][im]
 # FZKFUFU85212METRICPAD115X14HANDSOLDER > Fuse : Fuse_0805_2012Metric_Pad1.15x1.40mm_HandSolder
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKFUFU85212METRICPAD115X14HANDSOLDER](http://oom.lt/FZKFUFU85212METRICPAD115X14HANDSOLDER)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuse_0805_2012Metric_Pad1.15x1.40mm_HandSolder/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuse_0805_2012Metric_Pad1.15x1.40mm_HandSolder/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuse_0805_2012Metric_Pad1.15x1.40mm_HandSolder/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuse_0805_2012Metric_Pad1.15x1.40mm_HandSolder/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuse_0805_2012Metric_Pad1.15x1.40mm_HandSolder/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuse_0805_2012Metric_Pad1.15x1.40mm_HandSolder/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuse_0805_2012Metric_Pad1.15x1.40mm_HandSolder/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuse_0805_2012Metric_Pad1.15x1.40mm_HandSolder/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuse_0805_2012Metric_Pad1.15x1.40mm_HandSolder/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuse_0805_2012Metric_Pad1.15x1.40mm_HandSolder/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuse_0805_2012Metric_Pad1.15x1.40mm_HandSolder/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuse_0805_2012Metric_Pad1.15x1.40mm_HandSolder/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuse_0805_2012Metric_Pad1.15x1.40mm_HandSolder/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuse_0805_2012Metric_Pad1.15x1.40mm_HandSolder/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuse_0805_2012Metric_Pad1.15x1.40mm_HandSolder/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuse_0805_2012Metric_Pad1.15x1.40mm_HandSolder/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuse_0805_2012Metric_Pad1.15x1.40mm_HandSolder/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Fuse/Fuse_0805_2012Metric_Pad1.15x1.40mm_HandSolder/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Fuse/Fuse_0805_2012Metric_Pad1.15x1.40mm_HandSolder/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

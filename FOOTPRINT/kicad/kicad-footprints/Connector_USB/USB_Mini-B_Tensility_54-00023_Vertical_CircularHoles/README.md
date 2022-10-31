@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKCNUUMBTENSILITY5423VERTICALCIRCULARH > Connector_USB : USB_Mini-B_Tensility_54-00023_Vertical_CircularHoles](#fzkcnuumbtensility5423verticalcircularh--connector_usb--usb_mini-b_tensility_54-00023_vertical_circularholes)
+	* [Tags](#tags)
   
 ![][im]
 # FZKCNUUMBTENSILITY5423VERTICALCIRCULARH > Connector_USB : USB_Mini-B_Tensility_54-00023_Vertical_CircularHoles
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKCNUUMBTENSILITY5423VERTICALCIRCULARH](http://oom.lt/FZKCNUUMBTENSILITY5423VERTICALCIRCULARH)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_Mini-B_Tensility_54-00023_Vertical_CircularHoles/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_Mini-B_Tensility_54-00023_Vertical_CircularHoles/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_Mini-B_Tensility_54-00023_Vertical_CircularHoles/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_Mini-B_Tensility_54-00023_Vertical_CircularHoles/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_Mini-B_Tensility_54-00023_Vertical_CircularHoles/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_Mini-B_Tensility_54-00023_Vertical_CircularHoles/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_Mini-B_Tensility_54-00023_Vertical_CircularHoles/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_Mini-B_Tensility_54-00023_Vertical_CircularHoles/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_Mini-B_Tensility_54-00023_Vertical_CircularHoles/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_Mini-B_Tensility_54-00023_Vertical_CircularHoles/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_Mini-B_Tensility_54-00023_Vertical_CircularHoles/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_Mini-B_Tensility_54-00023_Vertical_CircularHoles/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_Mini-B_Tensility_54-00023_Vertical_CircularHoles/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_Mini-B_Tensility_54-00023_Vertical_CircularHoles/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_Mini-B_Tensility_54-00023_Vertical_CircularHoles/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_Mini-B_Tensility_54-00023_Vertical_CircularHoles/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_Mini-B_Tensility_54-00023_Vertical_CircularHoles/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_Mini-B_Tensility_54-00023_Vertical_CircularHoles/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_Mini-B_Tensility_54-00023_Vertical_CircularHoles/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

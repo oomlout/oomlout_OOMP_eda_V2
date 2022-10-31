@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKCNPINSO1PINSO1X14P1VERTICALSMPIN1LEFT > Connector_PinSocket_1.00mm : PinSocket_1x14_P1.00mm_Vertical_SMD_Pin1Left](#fzkcnpinso1pinso1x14p1verticalsmpin1left--connector_pinsocket_100mm--pinsocket_1x14_p100mm_vertical_smd_pin1left)
+	* [Tags](#tags)
   
 ![][im]
 # FZKCNPINSO1PINSO1X14P1VERTICALSMPIN1LEFT > Connector_PinSocket_1.00mm : PinSocket_1x14_P1.00mm_Vertical_SMD_Pin1Left
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKCNPINSO1PINSO1X14P1VERTICALSMPIN1LEFT](http://oom.lt/FZKCNPINSO1PINSO1X14P1VERTICALSMPIN1LEFT)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_PinSocket_1.00mm/PinSocket_1x14_P1.00mm_Vertical_SMD_Pin1Left/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_PinSocket_1.00mm/PinSocket_1x14_P1.00mm_Vertical_SMD_Pin1Left/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_PinSocket_1.00mm/PinSocket_1x14_P1.00mm_Vertical_SMD_Pin1Left/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_PinSocket_1.00mm/PinSocket_1x14_P1.00mm_Vertical_SMD_Pin1Left/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_PinSocket_1.00mm/PinSocket_1x14_P1.00mm_Vertical_SMD_Pin1Left/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_PinSocket_1.00mm/PinSocket_1x14_P1.00mm_Vertical_SMD_Pin1Left/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_PinSocket_1.00mm/PinSocket_1x14_P1.00mm_Vertical_SMD_Pin1Left/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_PinSocket_1.00mm/PinSocket_1x14_P1.00mm_Vertical_SMD_Pin1Left/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_PinSocket_1.00mm/PinSocket_1x14_P1.00mm_Vertical_SMD_Pin1Left/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_PinSocket_1.00mm/PinSocket_1x14_P1.00mm_Vertical_SMD_Pin1Left/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_PinSocket_1.00mm/PinSocket_1x14_P1.00mm_Vertical_SMD_Pin1Left/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_PinSocket_1.00mm/PinSocket_1x14_P1.00mm_Vertical_SMD_Pin1Left/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_PinSocket_1.00mm/PinSocket_1x14_P1.00mm_Vertical_SMD_Pin1Left/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_PinSocket_1.00mm/PinSocket_1x14_P1.00mm_Vertical_SMD_Pin1Left/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_PinSocket_1.00mm/PinSocket_1x14_P1.00mm_Vertical_SMD_Pin1Left/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_PinSocket_1.00mm/PinSocket_1x14_P1.00mm_Vertical_SMD_Pin1Left/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_PinSocket_1.00mm/PinSocket_1x14_P1.00mm_Vertical_SMD_Pin1Left/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_PinSocket_1.00mm/PinSocket_1x14_P1.00mm_Vertical_SMD_Pin1Left/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Connector_PinSocket_1.00mm/PinSocket_1x14_P1.00mm_Vertical_SMD_Pin1Left/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

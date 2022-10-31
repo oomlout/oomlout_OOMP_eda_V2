@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKRRRPOWERL161W9P737 > Resistor_THT : R_Radial_Power_L16.1mm_W9.0mm_P7.37mm](#fzkrrrpowerl161w9p737--resistor_tht--r_radial_power_l161mm_w90mm_p737mm)
+	* [Tags](#tags)
   
 ![][im]
 # FZKRRRPOWERL161W9P737 > Resistor_THT : R_Radial_Power_L16.1mm_W9.0mm_P7.37mm
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKRRRPOWERL161W9P737](http://oom.lt/FZKRRRPOWERL161W9P737)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Radial_Power_L16.1mm_W9.0mm_P7.37mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Radial_Power_L16.1mm_W9.0mm_P7.37mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Radial_Power_L16.1mm_W9.0mm_P7.37mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Radial_Power_L16.1mm_W9.0mm_P7.37mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Radial_Power_L16.1mm_W9.0mm_P7.37mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Radial_Power_L16.1mm_W9.0mm_P7.37mm/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Radial_Power_L16.1mm_W9.0mm_P7.37mm/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Radial_Power_L16.1mm_W9.0mm_P7.37mm/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Radial_Power_L16.1mm_W9.0mm_P7.37mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Radial_Power_L16.1mm_W9.0mm_P7.37mm/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Radial_Power_L16.1mm_W9.0mm_P7.37mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Radial_Power_L16.1mm_W9.0mm_P7.37mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Radial_Power_L16.1mm_W9.0mm_P7.37mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Radial_Power_L16.1mm_W9.0mm_P7.37mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Radial_Power_L16.1mm_W9.0mm_P7.37mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Radial_Power_L16.1mm_W9.0mm_P7.37mm/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Radial_Power_L16.1mm_W9.0mm_P7.37mm/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Radial_Power_L16.1mm_W9.0mm_P7.37mm/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Radial_Power_L16.1mm_W9.0mm_P7.37mm/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

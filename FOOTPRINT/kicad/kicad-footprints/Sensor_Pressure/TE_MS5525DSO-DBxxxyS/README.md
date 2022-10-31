@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKSENPRESSURETEMS5525DSODBXXXYS > Sensor_Pressure : TE_MS5525DSO-DBxxxyS](#fzksenpressuretems5525dsodbxxxys--sensor_pressure--te_ms5525dso-dbxxxys)
+	* [Tags](#tags)
   
 ![][im]
 # FZKSENPRESSURETEMS5525DSODBXXXYS > Sensor_Pressure : TE_MS5525DSO-DBxxxyS
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKSENPRESSURETEMS5525DSODBXXXYS](http://oom.lt/FZKSENPRESSURETEMS5525DSODBXXXYS)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Pressure/TE_MS5525DSO-DBxxxyS/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Pressure/TE_MS5525DSO-DBxxxyS/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Pressure/TE_MS5525DSO-DBxxxyS/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Pressure/TE_MS5525DSO-DBxxxyS/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Pressure/TE_MS5525DSO-DBxxxyS/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Pressure/TE_MS5525DSO-DBxxxyS/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Pressure/TE_MS5525DSO-DBxxxyS/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Pressure/TE_MS5525DSO-DBxxxyS/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Pressure/TE_MS5525DSO-DBxxxyS/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Pressure/TE_MS5525DSO-DBxxxyS/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Pressure/TE_MS5525DSO-DBxxxyS/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Pressure/TE_MS5525DSO-DBxxxyS/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Pressure/TE_MS5525DSO-DBxxxyS/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Pressure/TE_MS5525DSO-DBxxxyS/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Pressure/TE_MS5525DSO-DBxxxyS/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Pressure/TE_MS5525DSO-DBxxxyS/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Pressure/TE_MS5525DSO-DBxxxyS/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Pressure/TE_MS5525DSO-DBxxxyS/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Sensor_Pressure/TE_MS5525DSO-DBxxxyS/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

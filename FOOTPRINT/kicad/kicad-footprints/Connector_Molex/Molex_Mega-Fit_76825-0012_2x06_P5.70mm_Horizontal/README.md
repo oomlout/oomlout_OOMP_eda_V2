@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKCNMXMXMEGAFIT76825122X6P57HORIZONTAL > Connector_Molex : Molex_Mega-Fit_76825-0012_2x06_P5.70mm_Horizontal](#fzkcnmxmxmegafit76825122x6p57horizontal--connector_molex--molex_mega-fit_76825-0012_2x06_p570mm_horizontal)
+	* [Tags](#tags)
   
 ![][im]
 # FZKCNMXMXMEGAFIT76825122X6P57HORIZONTAL > Connector_Molex : Molex_Mega-Fit_76825-0012_2x06_P5.70mm_Horizontal
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKCNMXMXMEGAFIT76825122X6P57HORIZONTAL](http://oom.lt/FZKCNMXMXMEGAFIT76825122X6P57HORIZONTAL)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Mega-Fit_76825-0012_2x06_P5.70mm_Horizontal/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Mega-Fit_76825-0012_2x06_P5.70mm_Horizontal/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Mega-Fit_76825-0012_2x06_P5.70mm_Horizontal/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Mega-Fit_76825-0012_2x06_P5.70mm_Horizontal/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Mega-Fit_76825-0012_2x06_P5.70mm_Horizontal/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Mega-Fit_76825-0012_2x06_P5.70mm_Horizontal/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Mega-Fit_76825-0012_2x06_P5.70mm_Horizontal/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Mega-Fit_76825-0012_2x06_P5.70mm_Horizontal/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Mega-Fit_76825-0012_2x06_P5.70mm_Horizontal/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Mega-Fit_76825-0012_2x06_P5.70mm_Horizontal/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Mega-Fit_76825-0012_2x06_P5.70mm_Horizontal/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Mega-Fit_76825-0012_2x06_P5.70mm_Horizontal/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Mega-Fit_76825-0012_2x06_P5.70mm_Horizontal/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Mega-Fit_76825-0012_2x06_P5.70mm_Horizontal/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Mega-Fit_76825-0012_2x06_P5.70mm_Horizontal/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Mega-Fit_76825-0012_2x06_P5.70mm_Horizontal/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Mega-Fit_76825-0012_2x06_P5.70mm_Horizontal/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Mega-Fit_76825-0012_2x06_P5.70mm_Horizontal/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Mega-Fit_76825-0012_2x06_P5.70mm_Horizontal/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKTRTRTOROIDTAPPEDHORIZONTALD125AMIDONT44 > Transformer_THT : Transformer_Toroid_Tapped_Horizontal_D12.5mm_Amidon-T44](#fzktrtrtoroidtappedhorizontald125amidont44--transformer_tht--transformer_toroid_tapped_horizontal_d125mm_amidon-t44)
+	* [Tags](#tags)
   
 ![][im]
 # FZKTRTRTOROIDTAPPEDHORIZONTALD125AMIDONT44 > Transformer_THT : Transformer_Toroid_Tapped_Horizontal_D12.5mm_Amidon-T44
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKTRTRTOROIDTAPPEDHORIZONTALD125AMIDONT44](http://oom.lt/FZKTRTRTOROIDTAPPEDHORIZONTALD125AMIDONT44)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Transformer_THT/Transformer_Toroid_Tapped_Horizontal_D12.5mm_Amidon-T44/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Transformer_THT/Transformer_Toroid_Tapped_Horizontal_D12.5mm_Amidon-T44/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Transformer_THT/Transformer_Toroid_Tapped_Horizontal_D12.5mm_Amidon-T44/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Transformer_THT/Transformer_Toroid_Tapped_Horizontal_D12.5mm_Amidon-T44/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Transformer_THT/Transformer_Toroid_Tapped_Horizontal_D12.5mm_Amidon-T44/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Transformer_THT/Transformer_Toroid_Tapped_Horizontal_D12.5mm_Amidon-T44/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Transformer_THT/Transformer_Toroid_Tapped_Horizontal_D12.5mm_Amidon-T44/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Transformer_THT/Transformer_Toroid_Tapped_Horizontal_D12.5mm_Amidon-T44/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Transformer_THT/Transformer_Toroid_Tapped_Horizontal_D12.5mm_Amidon-T44/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Transformer_THT/Transformer_Toroid_Tapped_Horizontal_D12.5mm_Amidon-T44/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Transformer_THT/Transformer_Toroid_Tapped_Horizontal_D12.5mm_Amidon-T44/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Transformer_THT/Transformer_Toroid_Tapped_Horizontal_D12.5mm_Amidon-T44/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Transformer_THT/Transformer_Toroid_Tapped_Horizontal_D12.5mm_Amidon-T44/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Transformer_THT/Transformer_Toroid_Tapped_Horizontal_D12.5mm_Amidon-T44/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Transformer_THT/Transformer_Toroid_Tapped_Horizontal_D12.5mm_Amidon-T44/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Transformer_THT/Transformer_Toroid_Tapped_Horizontal_D12.5mm_Amidon-T44/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Transformer_THT/Transformer_Toroid_Tapped_Horizontal_D12.5mm_Amidon-T44/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Transformer_THT/Transformer_Toroid_Tapped_Horizontal_D12.5mm_Amidon-T44/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Transformer_THT/Transformer_Toroid_Tapped_Horizontal_D12.5mm_Amidon-T44/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

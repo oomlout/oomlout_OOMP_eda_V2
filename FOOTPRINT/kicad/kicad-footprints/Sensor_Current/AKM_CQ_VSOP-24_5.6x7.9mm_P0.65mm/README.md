@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKSENCURRENTAKMCQVS2456X79P65 > Sensor_Current : AKM_CQ_VSOP-24_5.6x7.9mm_P0.65mm](#fzksencurrentakmcqvs2456x79p65--sensor_current--akm_cq_vsop-24_56x79mm_p065mm)
+	* [Tags](#tags)
   
 ![][im]
 # FZKSENCURRENTAKMCQVS2456X79P65 > Sensor_Current : AKM_CQ_VSOP-24_5.6x7.9mm_P0.65mm
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKSENCURRENTAKMCQVS2456X79P65](http://oom.lt/FZKSENCURRENTAKMCQVS2456X79P65)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Current/AKM_CQ_VSOP-24_5.6x7.9mm_P0.65mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Current/AKM_CQ_VSOP-24_5.6x7.9mm_P0.65mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Current/AKM_CQ_VSOP-24_5.6x7.9mm_P0.65mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Current/AKM_CQ_VSOP-24_5.6x7.9mm_P0.65mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Current/AKM_CQ_VSOP-24_5.6x7.9mm_P0.65mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Current/AKM_CQ_VSOP-24_5.6x7.9mm_P0.65mm/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Current/AKM_CQ_VSOP-24_5.6x7.9mm_P0.65mm/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Current/AKM_CQ_VSOP-24_5.6x7.9mm_P0.65mm/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Current/AKM_CQ_VSOP-24_5.6x7.9mm_P0.65mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Current/AKM_CQ_VSOP-24_5.6x7.9mm_P0.65mm/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Current/AKM_CQ_VSOP-24_5.6x7.9mm_P0.65mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Current/AKM_CQ_VSOP-24_5.6x7.9mm_P0.65mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Current/AKM_CQ_VSOP-24_5.6x7.9mm_P0.65mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Current/AKM_CQ_VSOP-24_5.6x7.9mm_P0.65mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Current/AKM_CQ_VSOP-24_5.6x7.9mm_P0.65mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Current/AKM_CQ_VSOP-24_5.6x7.9mm_P0.65mm/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Current/AKM_CQ_VSOP-24_5.6x7.9mm_P0.65mm/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Current/AKM_CQ_VSOP-24_5.6x7.9mm_P0.65mm/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Sensor_Current/AKM_CQ_VSOP-24_5.6x7.9mm_P0.65mm/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

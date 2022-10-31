@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKCNSAMTECHLETHTSAMTECHLE132XXDVPE2X3P254HORIZONTAL > Connector_Samtec_HLE_THT : Samtec_HLE-130-02-xx-DV-PE_2x30_P2.54mm_Horizontal](#fzkcnsamtechlethtsamtechle132xxdvpe2x3p254horizontal--connector_samtec_hle_tht--samtec_hle-130-02-xx-dv-pe_2x30_p254mm_horizontal)
+	* [Tags](#tags)
   
 ![][im]
 # FZKCNSAMTECHLETHTSAMTECHLE132XXDVPE2X3P254HORIZONTAL > Connector_Samtec_HLE_THT : Samtec_HLE-130-02-xx-DV-PE_2x30_P2.54mm_Horizontal
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKCNSAMTECHLETHTSAMTECHLE132XXDVPE2X3P254HORIZONTAL](http://oom.lt/FZKCNSAMTECHLETHTSAMTECHLE132XXDVPE2X3P254HORIZONTAL)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Samtec_HLE_THT/Samtec_HLE-130-02-xx-DV-PE_2x30_P2.54mm_Horizontal/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Samtec_HLE_THT/Samtec_HLE-130-02-xx-DV-PE_2x30_P2.54mm_Horizontal/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Samtec_HLE_THT/Samtec_HLE-130-02-xx-DV-PE_2x30_P2.54mm_Horizontal/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Samtec_HLE_THT/Samtec_HLE-130-02-xx-DV-PE_2x30_P2.54mm_Horizontal/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Samtec_HLE_THT/Samtec_HLE-130-02-xx-DV-PE_2x30_P2.54mm_Horizontal/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Samtec_HLE_THT/Samtec_HLE-130-02-xx-DV-PE_2x30_P2.54mm_Horizontal/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Samtec_HLE_THT/Samtec_HLE-130-02-xx-DV-PE_2x30_P2.54mm_Horizontal/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Samtec_HLE_THT/Samtec_HLE-130-02-xx-DV-PE_2x30_P2.54mm_Horizontal/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Samtec_HLE_THT/Samtec_HLE-130-02-xx-DV-PE_2x30_P2.54mm_Horizontal/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Samtec_HLE_THT/Samtec_HLE-130-02-xx-DV-PE_2x30_P2.54mm_Horizontal/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Samtec_HLE_THT/Samtec_HLE-130-02-xx-DV-PE_2x30_P2.54mm_Horizontal/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Samtec_HLE_THT/Samtec_HLE-130-02-xx-DV-PE_2x30_P2.54mm_Horizontal/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Samtec_HLE_THT/Samtec_HLE-130-02-xx-DV-PE_2x30_P2.54mm_Horizontal/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Samtec_HLE_THT/Samtec_HLE-130-02-xx-DV-PE_2x30_P2.54mm_Horizontal/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Samtec_HLE_THT/Samtec_HLE-130-02-xx-DV-PE_2x30_P2.54mm_Horizontal/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Samtec_HLE_THT/Samtec_HLE-130-02-xx-DV-PE_2x30_P2.54mm_Horizontal/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Samtec_HLE_THT/Samtec_HLE-130-02-xx-DV-PE_2x30_P2.54mm_Horizontal/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Samtec_HLE_THT/Samtec_HLE-130-02-xx-DV-PE_2x30_P2.54mm_Horizontal/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Connector_Samtec_HLE_THT/Samtec_HLE-130-02-xx-DV-PE_2x30_P2.54mm_Horizontal/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKCNDSUBDSUB26HDMALEHORIZONTALP229X198EDGEPINOFFSET94 > Connector_Dsub : DSUB-26-HD_Male_Horizontal_P2.29x1.98mm_EdgePinOffset9.40mm](#fzkcndsubdsub26hdmalehorizontalp229x198edgepinoffset94--connector_dsub--dsub-26-hd_male_horizontal_p229x198mm_edgepinoffset940mm)
+	* [Tags](#tags)
   
 ![][im]
 # FZKCNDSUBDSUB26HDMALEHORIZONTALP229X198EDGEPINOFFSET94 > Connector_Dsub : DSUB-26-HD_Male_Horizontal_P2.29x1.98mm_EdgePinOffset9.40mm
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKCNDSUBDSUB26HDMALEHORIZONTALP229X198EDGEPINOFFSET94](http://oom.lt/FZKCNDSUBDSUB26HDMALEHORIZONTALP229X198EDGEPINOFFSET94)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Dsub/DSUB-26-HD_Male_Horizontal_P2.29x1.98mm_EdgePinOffset9.40mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Dsub/DSUB-26-HD_Male_Horizontal_P2.29x1.98mm_EdgePinOffset9.40mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Dsub/DSUB-26-HD_Male_Horizontal_P2.29x1.98mm_EdgePinOffset9.40mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Dsub/DSUB-26-HD_Male_Horizontal_P2.29x1.98mm_EdgePinOffset9.40mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Dsub/DSUB-26-HD_Male_Horizontal_P2.29x1.98mm_EdgePinOffset9.40mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Dsub/DSUB-26-HD_Male_Horizontal_P2.29x1.98mm_EdgePinOffset9.40mm/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Dsub/DSUB-26-HD_Male_Horizontal_P2.29x1.98mm_EdgePinOffset9.40mm/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Dsub/DSUB-26-HD_Male_Horizontal_P2.29x1.98mm_EdgePinOffset9.40mm/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Dsub/DSUB-26-HD_Male_Horizontal_P2.29x1.98mm_EdgePinOffset9.40mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Dsub/DSUB-26-HD_Male_Horizontal_P2.29x1.98mm_EdgePinOffset9.40mm/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Dsub/DSUB-26-HD_Male_Horizontal_P2.29x1.98mm_EdgePinOffset9.40mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Dsub/DSUB-26-HD_Male_Horizontal_P2.29x1.98mm_EdgePinOffset9.40mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Dsub/DSUB-26-HD_Male_Horizontal_P2.29x1.98mm_EdgePinOffset9.40mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Dsub/DSUB-26-HD_Male_Horizontal_P2.29x1.98mm_EdgePinOffset9.40mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Dsub/DSUB-26-HD_Male_Horizontal_P2.29x1.98mm_EdgePinOffset9.40mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Dsub/DSUB-26-HD_Male_Horizontal_P2.29x1.98mm_EdgePinOffset9.40mm/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Dsub/DSUB-26-HD_Male_Horizontal_P2.29x1.98mm_EdgePinOffset9.40mm/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Dsub/DSUB-26-HD_Male_Horizontal_P2.29x1.98mm_EdgePinOffset9.40mm/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Connector_Dsub/DSUB-26-HD_Male_Horizontal_P2.29x1.98mm_EdgePinOffset9.40mm/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

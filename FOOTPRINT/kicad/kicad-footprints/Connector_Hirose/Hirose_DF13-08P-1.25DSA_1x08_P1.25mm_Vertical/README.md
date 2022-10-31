@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKCNHIROSEHIROSEDF138P125DSA1X8P125VERTICAL > Connector_Hirose : Hirose_DF13-08P-1.25DSA_1x08_P1.25mm_Vertical](#fzkcnhirosehirosedf138p125dsa1x8p125vertical--connector_hirose--hirose_df13-08p-125dsa_1x08_p125mm_vertical)
+	* [Tags](#tags)
   
 ![][im]
 # FZKCNHIROSEHIROSEDF138P125DSA1X8P125VERTICAL > Connector_Hirose : Hirose_DF13-08P-1.25DSA_1x08_P1.25mm_Vertical
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKCNHIROSEHIROSEDF138P125DSA1X8P125VERTICAL](http://oom.lt/FZKCNHIROSEHIROSEDF138P125DSA1X8P125VERTICAL)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Hirose/Hirose_DF13-08P-1.25DSA_1x08_P1.25mm_Vertical/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Hirose/Hirose_DF13-08P-1.25DSA_1x08_P1.25mm_Vertical/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Hirose/Hirose_DF13-08P-1.25DSA_1x08_P1.25mm_Vertical/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Hirose/Hirose_DF13-08P-1.25DSA_1x08_P1.25mm_Vertical/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Hirose/Hirose_DF13-08P-1.25DSA_1x08_P1.25mm_Vertical/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Hirose/Hirose_DF13-08P-1.25DSA_1x08_P1.25mm_Vertical/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Hirose/Hirose_DF13-08P-1.25DSA_1x08_P1.25mm_Vertical/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Hirose/Hirose_DF13-08P-1.25DSA_1x08_P1.25mm_Vertical/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Hirose/Hirose_DF13-08P-1.25DSA_1x08_P1.25mm_Vertical/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Hirose/Hirose_DF13-08P-1.25DSA_1x08_P1.25mm_Vertical/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Hirose/Hirose_DF13-08P-1.25DSA_1x08_P1.25mm_Vertical/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Hirose/Hirose_DF13-08P-1.25DSA_1x08_P1.25mm_Vertical/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Hirose/Hirose_DF13-08P-1.25DSA_1x08_P1.25mm_Vertical/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Hirose/Hirose_DF13-08P-1.25DSA_1x08_P1.25mm_Vertical/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Hirose/Hirose_DF13-08P-1.25DSA_1x08_P1.25mm_Vertical/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Hirose/Hirose_DF13-08P-1.25DSA_1x08_P1.25mm_Vertical/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Hirose/Hirose_DF13-08P-1.25DSA_1x08_P1.25mm_Vertical/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Hirose/Hirose_DF13-08P-1.25DSA_1x08_P1.25mm_Vertical/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Connector_Hirose/Hirose_DF13-08P-1.25DSA_1x08_P1.25mm_Vertical/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

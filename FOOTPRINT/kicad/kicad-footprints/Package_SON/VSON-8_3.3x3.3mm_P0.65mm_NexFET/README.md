@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKSONVSON833X33P65NEXFET > Package_SON : VSON-8_3.3x3.3mm_P0.65mm_NexFET](#fzksonvson833x33p65nexfet--package_son--vson-8_33x33mm_p065mm_nexfet)
+	* [Tags](#tags)
   
 ![][im]
 # FZKSONVSON833X33P65NEXFET > Package_SON : VSON-8_3.3x3.3mm_P0.65mm_NexFET
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKSONVSON833X33P65NEXFET](http://oom.lt/FZKSONVSON833X33P65NEXFET)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SON/VSON-8_3.3x3.3mm_P0.65mm_NexFET/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SON/VSON-8_3.3x3.3mm_P0.65mm_NexFET/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SON/VSON-8_3.3x3.3mm_P0.65mm_NexFET/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SON/VSON-8_3.3x3.3mm_P0.65mm_NexFET/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SON/VSON-8_3.3x3.3mm_P0.65mm_NexFET/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SON/VSON-8_3.3x3.3mm_P0.65mm_NexFET/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SON/VSON-8_3.3x3.3mm_P0.65mm_NexFET/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SON/VSON-8_3.3x3.3mm_P0.65mm_NexFET/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SON/VSON-8_3.3x3.3mm_P0.65mm_NexFET/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SON/VSON-8_3.3x3.3mm_P0.65mm_NexFET/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SON/VSON-8_3.3x3.3mm_P0.65mm_NexFET/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SON/VSON-8_3.3x3.3mm_P0.65mm_NexFET/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SON/VSON-8_3.3x3.3mm_P0.65mm_NexFET/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SON/VSON-8_3.3x3.3mm_P0.65mm_NexFET/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SON/VSON-8_3.3x3.3mm_P0.65mm_NexFET/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SON/VSON-8_3.3x3.3mm_P0.65mm_NexFET/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SON/VSON-8_3.3x3.3mm_P0.65mm_NexFET/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SON/VSON-8_3.3x3.3mm_P0.65mm_NexFET/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Package_SON/VSON-8_3.3x3.3mm_P0.65mm_NexFET/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

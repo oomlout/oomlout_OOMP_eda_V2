@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKHHAAVID5733D1GTO263 > Heatsink : Heatsink_AAVID_573300D00010G_TO-263](#fzkhhaavid5733d1gto263--heatsink--heatsink_aavid_573300d00010g_to-263)
+	* [Tags](#tags)
   
 ![][im]
 # FZKHHAAVID5733D1GTO263 > Heatsink : Heatsink_AAVID_573300D00010G_TO-263
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKHHAAVID5733D1GTO263](http://oom.lt/FZKHHAAVID5733D1GTO263)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Heatsink/Heatsink_AAVID_573300D00010G_TO-263/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Heatsink/Heatsink_AAVID_573300D00010G_TO-263/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Heatsink/Heatsink_AAVID_573300D00010G_TO-263/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Heatsink/Heatsink_AAVID_573300D00010G_TO-263/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Heatsink/Heatsink_AAVID_573300D00010G_TO-263/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Heatsink/Heatsink_AAVID_573300D00010G_TO-263/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Heatsink/Heatsink_AAVID_573300D00010G_TO-263/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Heatsink/Heatsink_AAVID_573300D00010G_TO-263/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Heatsink/Heatsink_AAVID_573300D00010G_TO-263/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Heatsink/Heatsink_AAVID_573300D00010G_TO-263/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Heatsink/Heatsink_AAVID_573300D00010G_TO-263/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Heatsink/Heatsink_AAVID_573300D00010G_TO-263/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Heatsink/Heatsink_AAVID_573300D00010G_TO-263/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Heatsink/Heatsink_AAVID_573300D00010G_TO-263/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Heatsink/Heatsink_AAVID_573300D00010G_TO-263/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Heatsink/Heatsink_AAVID_573300D00010G_TO-263/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Heatsink/Heatsink_AAVID_573300D00010G_TO-263/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Heatsink/Heatsink_AAVID_573300D00010G_TO-263/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Heatsink/Heatsink_AAVID_573300D00010G_TO-263/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

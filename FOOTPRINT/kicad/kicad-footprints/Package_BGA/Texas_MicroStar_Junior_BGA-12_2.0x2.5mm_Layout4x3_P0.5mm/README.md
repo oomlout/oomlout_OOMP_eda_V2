@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKBGATEXASMSTARJUNIORBGA122X25LAYOUT4X3P5 > Package_BGA : Texas_MicroStar_Junior_BGA-12_2.0x2.5mm_Layout4x3_P0.5mm](#fzkbgatexasmstarjuniorbga122x25layout4x3p5--package_bga--texas_microstar_junior_bga-12_20x25mm_layout4x3_p05mm)
+	* [Tags](#tags)
   
 ![][im]
 # FZKBGATEXASMSTARJUNIORBGA122X25LAYOUT4X3P5 > Package_BGA : Texas_MicroStar_Junior_BGA-12_2.0x2.5mm_Layout4x3_P0.5mm
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKBGATEXASMSTARJUNIORBGA122X25LAYOUT4X3P5](http://oom.lt/FZKBGATEXASMSTARJUNIORBGA122X25LAYOUT4X3P5)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_BGA/Texas_MicroStar_Junior_BGA-12_2.0x2.5mm_Layout4x3_P0.5mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_BGA/Texas_MicroStar_Junior_BGA-12_2.0x2.5mm_Layout4x3_P0.5mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_BGA/Texas_MicroStar_Junior_BGA-12_2.0x2.5mm_Layout4x3_P0.5mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_BGA/Texas_MicroStar_Junior_BGA-12_2.0x2.5mm_Layout4x3_P0.5mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_BGA/Texas_MicroStar_Junior_BGA-12_2.0x2.5mm_Layout4x3_P0.5mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_BGA/Texas_MicroStar_Junior_BGA-12_2.0x2.5mm_Layout4x3_P0.5mm/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_BGA/Texas_MicroStar_Junior_BGA-12_2.0x2.5mm_Layout4x3_P0.5mm/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_BGA/Texas_MicroStar_Junior_BGA-12_2.0x2.5mm_Layout4x3_P0.5mm/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_BGA/Texas_MicroStar_Junior_BGA-12_2.0x2.5mm_Layout4x3_P0.5mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_BGA/Texas_MicroStar_Junior_BGA-12_2.0x2.5mm_Layout4x3_P0.5mm/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_BGA/Texas_MicroStar_Junior_BGA-12_2.0x2.5mm_Layout4x3_P0.5mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_BGA/Texas_MicroStar_Junior_BGA-12_2.0x2.5mm_Layout4x3_P0.5mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_BGA/Texas_MicroStar_Junior_BGA-12_2.0x2.5mm_Layout4x3_P0.5mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_BGA/Texas_MicroStar_Junior_BGA-12_2.0x2.5mm_Layout4x3_P0.5mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_BGA/Texas_MicroStar_Junior_BGA-12_2.0x2.5mm_Layout4x3_P0.5mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_BGA/Texas_MicroStar_Junior_BGA-12_2.0x2.5mm_Layout4x3_P0.5mm/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_BGA/Texas_MicroStar_Junior_BGA-12_2.0x2.5mm_Layout4x3_P0.5mm/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_BGA/Texas_MicroStar_Junior_BGA-12_2.0x2.5mm_Layout4x3_P0.5mm/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Package_BGA/Texas_MicroStar_Junior_BGA-12_2.0x2.5mm_Layout4x3_P0.5mm/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

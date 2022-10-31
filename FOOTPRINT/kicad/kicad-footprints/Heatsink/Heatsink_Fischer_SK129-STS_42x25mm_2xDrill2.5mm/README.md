@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKHHFISCHERSK129STS42X252XDRILL25 > Heatsink : Heatsink_Fischer_SK129-STS_42x25mm_2xDrill2.5mm](#fzkhhfischersk129sts42x252xdrill25--heatsink--heatsink_fischer_sk129-sts_42x25mm_2xdrill25mm)
+	* [Tags](#tags)
   
 ![][im]
 # FZKHHFISCHERSK129STS42X252XDRILL25 > Heatsink : Heatsink_Fischer_SK129-STS_42x25mm_2xDrill2.5mm
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKHHFISCHERSK129STS42X252XDRILL25](http://oom.lt/FZKHHFISCHERSK129STS42X252XDRILL25)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Heatsink/Heatsink_Fischer_SK129-STS_42x25mm_2xDrill2.5mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Heatsink/Heatsink_Fischer_SK129-STS_42x25mm_2xDrill2.5mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Heatsink/Heatsink_Fischer_SK129-STS_42x25mm_2xDrill2.5mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Heatsink/Heatsink_Fischer_SK129-STS_42x25mm_2xDrill2.5mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Heatsink/Heatsink_Fischer_SK129-STS_42x25mm_2xDrill2.5mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Heatsink/Heatsink_Fischer_SK129-STS_42x25mm_2xDrill2.5mm/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Heatsink/Heatsink_Fischer_SK129-STS_42x25mm_2xDrill2.5mm/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Heatsink/Heatsink_Fischer_SK129-STS_42x25mm_2xDrill2.5mm/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Heatsink/Heatsink_Fischer_SK129-STS_42x25mm_2xDrill2.5mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Heatsink/Heatsink_Fischer_SK129-STS_42x25mm_2xDrill2.5mm/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Heatsink/Heatsink_Fischer_SK129-STS_42x25mm_2xDrill2.5mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Heatsink/Heatsink_Fischer_SK129-STS_42x25mm_2xDrill2.5mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Heatsink/Heatsink_Fischer_SK129-STS_42x25mm_2xDrill2.5mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Heatsink/Heatsink_Fischer_SK129-STS_42x25mm_2xDrill2.5mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Heatsink/Heatsink_Fischer_SK129-STS_42x25mm_2xDrill2.5mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Heatsink/Heatsink_Fischer_SK129-STS_42x25mm_2xDrill2.5mm/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Heatsink/Heatsink_Fischer_SK129-STS_42x25mm_2xDrill2.5mm/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Heatsink/Heatsink_Fischer_SK129-STS_42x25mm_2xDrill2.5mm/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Heatsink/Heatsink_Fischer_SK129-STS_42x25mm_2xDrill2.5mm/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

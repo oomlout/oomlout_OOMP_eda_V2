@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKBATBATHOLDERKEYSTONE24682XAAA > Battery : BatteryHolder_Keystone_2468_2xAAA](#fzkbatbatholderkeystone24682xaaa--battery--batteryholder_keystone_2468_2xaaa)
+	* [Tags](#tags)
   
 ![][im]
 # FZKBATBATHOLDERKEYSTONE24682XAAA > Battery : BatteryHolder_Keystone_2468_2xAAA
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKBATBATHOLDERKEYSTONE24682XAAA](http://oom.lt/FZKBATBATHOLDERKEYSTONE24682XAAA)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Battery/BatteryHolder_Keystone_2468_2xAAA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Battery/BatteryHolder_Keystone_2468_2xAAA/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Battery/BatteryHolder_Keystone_2468_2xAAA/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Battery/BatteryHolder_Keystone_2468_2xAAA/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Battery/BatteryHolder_Keystone_2468_2xAAA/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Battery/BatteryHolder_Keystone_2468_2xAAA/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Battery/BatteryHolder_Keystone_2468_2xAAA/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Battery/BatteryHolder_Keystone_2468_2xAAA/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Battery/BatteryHolder_Keystone_2468_2xAAA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Battery/BatteryHolder_Keystone_2468_2xAAA/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Battery/BatteryHolder_Keystone_2468_2xAAA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Battery/BatteryHolder_Keystone_2468_2xAAA/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Battery/BatteryHolder_Keystone_2468_2xAAA/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Battery/BatteryHolder_Keystone_2468_2xAAA/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Battery/BatteryHolder_Keystone_2468_2xAAA/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Battery/BatteryHolder_Keystone_2468_2xAAA/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Battery/BatteryHolder_Keystone_2468_2xAAA/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Battery/BatteryHolder_Keystone_2468_2xAAA/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Battery/BatteryHolder_Keystone_2468_2xAAA/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

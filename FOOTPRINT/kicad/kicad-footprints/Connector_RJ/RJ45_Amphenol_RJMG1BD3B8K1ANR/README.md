@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKCNRJRJ45AMPHENOLRJMG1BD3B8K1ANR > Connector_RJ : RJ45_Amphenol_RJMG1BD3B8K1ANR](#fzkcnrjrj45amphenolrjmg1bd3b8k1anr--connector_rj--rj45_amphenol_rjmg1bd3b8k1anr)
+	* [Tags](#tags)
   
 ![][im]
 # FZKCNRJRJ45AMPHENOLRJMG1BD3B8K1ANR > Connector_RJ : RJ45_Amphenol_RJMG1BD3B8K1ANR
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKCNRJRJ45AMPHENOLRJMG1BD3B8K1ANR](http://oom.lt/FZKCNRJRJ45AMPHENOLRJMG1BD3B8K1ANR)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_RJ/RJ45_Amphenol_RJMG1BD3B8K1ANR/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_RJ/RJ45_Amphenol_RJMG1BD3B8K1ANR/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_RJ/RJ45_Amphenol_RJMG1BD3B8K1ANR/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_RJ/RJ45_Amphenol_RJMG1BD3B8K1ANR/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_RJ/RJ45_Amphenol_RJMG1BD3B8K1ANR/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_RJ/RJ45_Amphenol_RJMG1BD3B8K1ANR/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_RJ/RJ45_Amphenol_RJMG1BD3B8K1ANR/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_RJ/RJ45_Amphenol_RJMG1BD3B8K1ANR/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_RJ/RJ45_Amphenol_RJMG1BD3B8K1ANR/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_RJ/RJ45_Amphenol_RJMG1BD3B8K1ANR/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_RJ/RJ45_Amphenol_RJMG1BD3B8K1ANR/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_RJ/RJ45_Amphenol_RJMG1BD3B8K1ANR/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_RJ/RJ45_Amphenol_RJMG1BD3B8K1ANR/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_RJ/RJ45_Amphenol_RJMG1BD3B8K1ANR/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_RJ/RJ45_Amphenol_RJMG1BD3B8K1ANR/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_RJ/RJ45_Amphenol_RJMG1BD3B8K1ANR/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_RJ/RJ45_Amphenol_RJMG1BD3B8K1ANR/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_RJ/RJ45_Amphenol_RJMG1BD3B8K1ANR/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Connector_RJ/RJ45_Amphenol_RJMG1BD3B8K1ANR/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

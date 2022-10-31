@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKBZBUZZERMPKLCS1212E > Buzzer_Beeper : Buzzer_Murata_PKLCS1212E](#fzkbzbuzzermpklcs1212e--buzzer_beeper--buzzer_murata_pklcs1212e)
+	* [Tags](#tags)
   
 ![][im]
 # FZKBZBUZZERMPKLCS1212E > Buzzer_Beeper : Buzzer_Murata_PKLCS1212E
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKBZBUZZERMPKLCS1212E](http://oom.lt/FZKBZBUZZERMPKLCS1212E)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/Buzzer_Murata_PKLCS1212E/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/Buzzer_Murata_PKLCS1212E/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/Buzzer_Murata_PKLCS1212E/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/Buzzer_Murata_PKLCS1212E/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/Buzzer_Murata_PKLCS1212E/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/Buzzer_Murata_PKLCS1212E/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/Buzzer_Murata_PKLCS1212E/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/Buzzer_Murata_PKLCS1212E/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/Buzzer_Murata_PKLCS1212E/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/Buzzer_Murata_PKLCS1212E/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/Buzzer_Murata_PKLCS1212E/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/Buzzer_Murata_PKLCS1212E/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/Buzzer_Murata_PKLCS1212E/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/Buzzer_Murata_PKLCS1212E/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/Buzzer_Murata_PKLCS1212E/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/Buzzer_Murata_PKLCS1212E/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/Buzzer_Murata_PKLCS1212E/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/Buzzer_Murata_PKLCS1212E/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/Buzzer_Murata_PKLCS1212E/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

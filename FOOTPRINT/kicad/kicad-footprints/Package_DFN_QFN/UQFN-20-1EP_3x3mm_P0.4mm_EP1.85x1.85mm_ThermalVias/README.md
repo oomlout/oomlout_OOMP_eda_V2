@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKDFNUQFN21EP3X3P4EP185X185THERMALVIAS > Package_DFN_QFN : UQFN-20-1EP_3x3mm_P0.4mm_EP1.85x1.85mm_ThermalVias](#fzkdfnuqfn21ep3x3p4ep185x185thermalvias--package_dfn_qfn--uqfn-20-1ep_3x3mm_p04mm_ep185x185mm_thermalvias)
+	* [Tags](#tags)
   
 ![][im]
 # FZKDFNUQFN21EP3X3P4EP185X185THERMALVIAS > Package_DFN_QFN : UQFN-20-1EP_3x3mm_P0.4mm_EP1.85x1.85mm_ThermalVias
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKDFNUQFN21EP3X3P4EP185X185THERMALVIAS](http://oom.lt/FZKDFNUQFN21EP3X3P4EP185X185THERMALVIAS)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/UQFN-20-1EP_3x3mm_P0.4mm_EP1.85x1.85mm_ThermalVias/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/UQFN-20-1EP_3x3mm_P0.4mm_EP1.85x1.85mm_ThermalVias/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/UQFN-20-1EP_3x3mm_P0.4mm_EP1.85x1.85mm_ThermalVias/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/UQFN-20-1EP_3x3mm_P0.4mm_EP1.85x1.85mm_ThermalVias/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/UQFN-20-1EP_3x3mm_P0.4mm_EP1.85x1.85mm_ThermalVias/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/UQFN-20-1EP_3x3mm_P0.4mm_EP1.85x1.85mm_ThermalVias/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/UQFN-20-1EP_3x3mm_P0.4mm_EP1.85x1.85mm_ThermalVias/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/UQFN-20-1EP_3x3mm_P0.4mm_EP1.85x1.85mm_ThermalVias/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/UQFN-20-1EP_3x3mm_P0.4mm_EP1.85x1.85mm_ThermalVias/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/UQFN-20-1EP_3x3mm_P0.4mm_EP1.85x1.85mm_ThermalVias/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/UQFN-20-1EP_3x3mm_P0.4mm_EP1.85x1.85mm_ThermalVias/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/UQFN-20-1EP_3x3mm_P0.4mm_EP1.85x1.85mm_ThermalVias/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/UQFN-20-1EP_3x3mm_P0.4mm_EP1.85x1.85mm_ThermalVias/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/UQFN-20-1EP_3x3mm_P0.4mm_EP1.85x1.85mm_ThermalVias/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/UQFN-20-1EP_3x3mm_P0.4mm_EP1.85x1.85mm_ThermalVias/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/UQFN-20-1EP_3x3mm_P0.4mm_EP1.85x1.85mm_ThermalVias/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/UQFN-20-1EP_3x3mm_P0.4mm_EP1.85x1.85mm_ThermalVias/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/UQFN-20-1EP_3x3mm_P0.4mm_EP1.85x1.85mm_ThermalVias/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/UQFN-20-1EP_3x3mm_P0.4mm_EP1.85x1.85mm_ThermalVias/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

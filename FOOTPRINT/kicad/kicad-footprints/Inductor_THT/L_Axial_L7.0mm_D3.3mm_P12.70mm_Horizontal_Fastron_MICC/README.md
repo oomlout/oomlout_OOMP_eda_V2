@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKINLAXIALL7D33P127HORIZONTALFASTRONMICC > Inductor_THT : L_Axial_L7.0mm_D3.3mm_P12.70mm_Horizontal_Fastron_MICC](#fzkinlaxiall7d33p127horizontalfastronmicc--inductor_tht--l_axial_l70mm_d33mm_p1270mm_horizontal_fastron_micc)
+	* [Tags](#tags)
   
 ![][im]
 # FZKINLAXIALL7D33P127HORIZONTALFASTRONMICC > Inductor_THT : L_Axial_L7.0mm_D3.3mm_P12.70mm_Horizontal_Fastron_MICC
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKINLAXIALL7D33P127HORIZONTALFASTRONMICC](http://oom.lt/FZKINLAXIALL7D33P127HORIZONTALFASTRONMICC)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L7.0mm_D3.3mm_P12.70mm_Horizontal_Fastron_MICC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L7.0mm_D3.3mm_P12.70mm_Horizontal_Fastron_MICC/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L7.0mm_D3.3mm_P12.70mm_Horizontal_Fastron_MICC/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L7.0mm_D3.3mm_P12.70mm_Horizontal_Fastron_MICC/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L7.0mm_D3.3mm_P12.70mm_Horizontal_Fastron_MICC/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L7.0mm_D3.3mm_P12.70mm_Horizontal_Fastron_MICC/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L7.0mm_D3.3mm_P12.70mm_Horizontal_Fastron_MICC/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L7.0mm_D3.3mm_P12.70mm_Horizontal_Fastron_MICC/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L7.0mm_D3.3mm_P12.70mm_Horizontal_Fastron_MICC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L7.0mm_D3.3mm_P12.70mm_Horizontal_Fastron_MICC/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L7.0mm_D3.3mm_P12.70mm_Horizontal_Fastron_MICC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L7.0mm_D3.3mm_P12.70mm_Horizontal_Fastron_MICC/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L7.0mm_D3.3mm_P12.70mm_Horizontal_Fastron_MICC/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L7.0mm_D3.3mm_P12.70mm_Horizontal_Fastron_MICC/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L7.0mm_D3.3mm_P12.70mm_Horizontal_Fastron_MICC/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L7.0mm_D3.3mm_P12.70mm_Horizontal_Fastron_MICC/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L7.0mm_D3.3mm_P12.70mm_Horizontal_Fastron_MICC/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L7.0mm_D3.3mm_P12.70mm_Horizontal_Fastron_MICC/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L7.0mm_D3.3mm_P12.70mm_Horizontal_Fastron_MICC/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

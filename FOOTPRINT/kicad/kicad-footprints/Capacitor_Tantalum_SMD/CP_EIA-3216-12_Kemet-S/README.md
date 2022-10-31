@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKCAPACITORTANTALUMSMCPEIA321612KEMETS > Capacitor_Tantalum_SMD : CP_EIA-3216-12_Kemet-S](#fzkcapacitortantalumsmcpeia321612kemets--capacitor_tantalum_smd--cp_eia-3216-12_kemet-s)
+	* [Tags](#tags)
   
 ![][im]
 # FZKCAPACITORTANTALUMSMCPEIA321612KEMETS > Capacitor_Tantalum_SMD : CP_EIA-3216-12_Kemet-S
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKCAPACITORTANTALUMSMCPEIA321612KEMETS](http://oom.lt/FZKCAPACITORTANTALUMSMCPEIA321612KEMETS)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_Tantalum_SMD/CP_EIA-3216-12_Kemet-S/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_Tantalum_SMD/CP_EIA-3216-12_Kemet-S/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_Tantalum_SMD/CP_EIA-3216-12_Kemet-S/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_Tantalum_SMD/CP_EIA-3216-12_Kemet-S/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_Tantalum_SMD/CP_EIA-3216-12_Kemet-S/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_Tantalum_SMD/CP_EIA-3216-12_Kemet-S/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_Tantalum_SMD/CP_EIA-3216-12_Kemet-S/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_Tantalum_SMD/CP_EIA-3216-12_Kemet-S/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_Tantalum_SMD/CP_EIA-3216-12_Kemet-S/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_Tantalum_SMD/CP_EIA-3216-12_Kemet-S/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_Tantalum_SMD/CP_EIA-3216-12_Kemet-S/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_Tantalum_SMD/CP_EIA-3216-12_Kemet-S/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_Tantalum_SMD/CP_EIA-3216-12_Kemet-S/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_Tantalum_SMD/CP_EIA-3216-12_Kemet-S/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_Tantalum_SMD/CP_EIA-3216-12_Kemet-S/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_Tantalum_SMD/CP_EIA-3216-12_Kemet-S/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_Tantalum_SMD/CP_EIA-3216-12_Kemet-S/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_Tantalum_SMD/CP_EIA-3216-12_Kemet-S/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Capacitor_Tantalum_SMD/CP_EIA-3216-12_Kemet-S/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

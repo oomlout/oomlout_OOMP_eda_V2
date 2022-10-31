@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKCNPHOENIXMCHIGHVOLTAGEPHOENIXCONTACTMC151GF581X1P58HORIZONTALTHREADEDFLANGEMOUNTHOLE > Connector_Phoenix_MC_HighVoltage : PhoenixContact_MC_1,5_10-GF-5.08_1x10_P5.08mm_Horizontal_ThreadedFlange_MountHole](#fzkcnphoenixmchighvoltagephoenixcontactmc151gf581x1p58horizontalthreadedflangemounthole--connector_phoenix_mc_highvoltage--phoenixcontact_mc_15_10-gf-508_1x10_p508mm_horizontal_threadedflange_mounthole)
+	* [Tags](#tags)
   
 ![][im]
 # FZKCNPHOENIXMCHIGHVOLTAGEPHOENIXCONTACTMC151GF581X1P58HORIZONTALTHREADEDFLANGEMOUNTHOLE > Connector_Phoenix_MC_HighVoltage : PhoenixContact_MC_1,5_10-GF-5.08_1x10_P5.08mm_Horizontal_ThreadedFlange_MountHole
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKCNPHOENIXMCHIGHVOLTAGEPHOENIXCONTACTMC151GF581X1P58HORIZONTALTHREADEDFLANGEMOUNTHOLE](http://oom.lt/FZKCNPHOENIXMCHIGHVOLTAGEPHOENIXCONTACTMC151GF581X1P58HORIZONTALTHREADEDFLANGEMOUNTHOLE)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MC_HighVoltage/PhoenixContact_MC_1,5_10-GF-5.08_1x10_P5.08mm_Horizontal_ThreadedFlange_MountHole/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MC_HighVoltage/PhoenixContact_MC_1,5_10-GF-5.08_1x10_P5.08mm_Horizontal_ThreadedFlange_MountHole/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MC_HighVoltage/PhoenixContact_MC_1,5_10-GF-5.08_1x10_P5.08mm_Horizontal_ThreadedFlange_MountHole/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MC_HighVoltage/PhoenixContact_MC_1,5_10-GF-5.08_1x10_P5.08mm_Horizontal_ThreadedFlange_MountHole/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MC_HighVoltage/PhoenixContact_MC_1,5_10-GF-5.08_1x10_P5.08mm_Horizontal_ThreadedFlange_MountHole/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MC_HighVoltage/PhoenixContact_MC_1,5_10-GF-5.08_1x10_P5.08mm_Horizontal_ThreadedFlange_MountHole/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MC_HighVoltage/PhoenixContact_MC_1,5_10-GF-5.08_1x10_P5.08mm_Horizontal_ThreadedFlange_MountHole/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MC_HighVoltage/PhoenixContact_MC_1,5_10-GF-5.08_1x10_P5.08mm_Horizontal_ThreadedFlange_MountHole/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MC_HighVoltage/PhoenixContact_MC_1,5_10-GF-5.08_1x10_P5.08mm_Horizontal_ThreadedFlange_MountHole/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MC_HighVoltage/PhoenixContact_MC_1,5_10-GF-5.08_1x10_P5.08mm_Horizontal_ThreadedFlange_MountHole/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MC_HighVoltage/PhoenixContact_MC_1,5_10-GF-5.08_1x10_P5.08mm_Horizontal_ThreadedFlange_MountHole/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MC_HighVoltage/PhoenixContact_MC_1,5_10-GF-5.08_1x10_P5.08mm_Horizontal_ThreadedFlange_MountHole/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MC_HighVoltage/PhoenixContact_MC_1,5_10-GF-5.08_1x10_P5.08mm_Horizontal_ThreadedFlange_MountHole/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MC_HighVoltage/PhoenixContact_MC_1,5_10-GF-5.08_1x10_P5.08mm_Horizontal_ThreadedFlange_MountHole/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MC_HighVoltage/PhoenixContact_MC_1,5_10-GF-5.08_1x10_P5.08mm_Horizontal_ThreadedFlange_MountHole/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MC_HighVoltage/PhoenixContact_MC_1,5_10-GF-5.08_1x10_P5.08mm_Horizontal_ThreadedFlange_MountHole/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MC_HighVoltage/PhoenixContact_MC_1,5_10-GF-5.08_1x10_P5.08mm_Horizontal_ThreadedFlange_MountHole/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MC_HighVoltage/PhoenixContact_MC_1,5_10-GF-5.08_1x10_P5.08mm_Horizontal_ThreadedFlange_MountHole/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MC_HighVoltage/PhoenixContact_MC_1,5_10-GF-5.08_1x10_P5.08mm_Horizontal_ThreadedFlange_MountHole/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

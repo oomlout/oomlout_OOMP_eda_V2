@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKCNCARDCFCARD3MN7E5A516XX3 > Connector_Card : CF-Card_3M_N7E50-A516xx-30](#fzkcncardcfcard3mn7e5a516xx3--connector_card--cf-card_3m_n7e50-a516xx-30)
+	* [Tags](#tags)
   
 ![][im]
 # FZKCNCARDCFCARD3MN7E5A516XX3 > Connector_Card : CF-Card_3M_N7E50-A516xx-30
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKCNCARDCFCARD3MN7E5A516XX3](http://oom.lt/FZKCNCARDCFCARD3MN7E5A516XX3)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Card/CF-Card_3M_N7E50-A516xx-30/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Card/CF-Card_3M_N7E50-A516xx-30/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Card/CF-Card_3M_N7E50-A516xx-30/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Card/CF-Card_3M_N7E50-A516xx-30/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Card/CF-Card_3M_N7E50-A516xx-30/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Card/CF-Card_3M_N7E50-A516xx-30/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Card/CF-Card_3M_N7E50-A516xx-30/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Card/CF-Card_3M_N7E50-A516xx-30/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Card/CF-Card_3M_N7E50-A516xx-30/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Card/CF-Card_3M_N7E50-A516xx-30/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Card/CF-Card_3M_N7E50-A516xx-30/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Card/CF-Card_3M_N7E50-A516xx-30/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Card/CF-Card_3M_N7E50-A516xx-30/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Card/CF-Card_3M_N7E50-A516xx-30/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Card/CF-Card_3M_N7E50-A516xx-30/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Card/CF-Card_3M_N7E50-A516xx-30/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Card/CF-Card_3M_N7E50-A516xx-30/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Card/CF-Card_3M_N7E50-A516xx-30/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Connector_Card/CF-Card_3M_N7E50-A516xx-30/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

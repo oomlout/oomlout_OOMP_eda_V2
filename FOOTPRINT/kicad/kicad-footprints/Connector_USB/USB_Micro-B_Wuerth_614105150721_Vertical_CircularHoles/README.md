@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKCNUUMBWUERTH6141515721VERTICALCIRCULARH > Connector_USB : USB_Micro-B_Wuerth_614105150721_Vertical_CircularHoles](#fzkcnuumbwuerth6141515721verticalcircularh--connector_usb--usb_micro-b_wuerth_614105150721_vertical_circularholes)
+	* [Tags](#tags)
   
 ![][im]
 # FZKCNUUMBWUERTH6141515721VERTICALCIRCULARH > Connector_USB : USB_Micro-B_Wuerth_614105150721_Vertical_CircularHoles
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKCNUUMBWUERTH6141515721VERTICALCIRCULARH](http://oom.lt/FZKCNUUMBWUERTH6141515721VERTICALCIRCULARH)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_Micro-B_Wuerth_614105150721_Vertical_CircularHoles/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_Micro-B_Wuerth_614105150721_Vertical_CircularHoles/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_Micro-B_Wuerth_614105150721_Vertical_CircularHoles/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_Micro-B_Wuerth_614105150721_Vertical_CircularHoles/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_Micro-B_Wuerth_614105150721_Vertical_CircularHoles/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_Micro-B_Wuerth_614105150721_Vertical_CircularHoles/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_Micro-B_Wuerth_614105150721_Vertical_CircularHoles/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_Micro-B_Wuerth_614105150721_Vertical_CircularHoles/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_Micro-B_Wuerth_614105150721_Vertical_CircularHoles/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_Micro-B_Wuerth_614105150721_Vertical_CircularHoles/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_Micro-B_Wuerth_614105150721_Vertical_CircularHoles/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_Micro-B_Wuerth_614105150721_Vertical_CircularHoles/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_Micro-B_Wuerth_614105150721_Vertical_CircularHoles/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_Micro-B_Wuerth_614105150721_Vertical_CircularHoles/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_Micro-B_Wuerth_614105150721_Vertical_CircularHoles/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_Micro-B_Wuerth_614105150721_Vertical_CircularHoles/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_Micro-B_Wuerth_614105150721_Vertical_CircularHoles/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_Micro-B_Wuerth_614105150721_Vertical_CircularHoles/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_Micro-B_Wuerth_614105150721_Vertical_CircularHoles/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

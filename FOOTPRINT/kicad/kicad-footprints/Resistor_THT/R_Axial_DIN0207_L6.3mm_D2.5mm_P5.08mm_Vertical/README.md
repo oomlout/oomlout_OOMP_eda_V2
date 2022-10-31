@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKRRAXIALDIN27L63D25P58VERTICAL > Resistor_THT : R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical](#fzkrraxialdin27l63d25p58vertical--resistor_tht--r_axial_din0207_l63mm_d25mm_p508mm_vertical)
+	* [Tags](#tags)
   
 ![][im]
 # FZKRRAXIALDIN27L63D25P58VERTICAL > Resistor_THT : R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKRRAXIALDIN27L63D25P58VERTICAL](http://oom.lt/FZKRRAXIALDIN27L63D25P58VERTICAL)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

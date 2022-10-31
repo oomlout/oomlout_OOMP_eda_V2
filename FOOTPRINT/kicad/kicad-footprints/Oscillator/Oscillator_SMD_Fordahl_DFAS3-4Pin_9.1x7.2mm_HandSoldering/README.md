@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKOCSOCSSMFORDAHLDFAS34PIN91X72HANDSOLDERING > Oscillator : Oscillator_SMD_Fordahl_DFAS3-4Pin_9.1x7.2mm_HandSoldering](#fzkocsocssmfordahldfas34pin91x72handsoldering--oscillator--oscillator_smd_fordahl_dfas3-4pin_91x72mm_handsoldering)
+	* [Tags](#tags)
   
 ![][im]
 # FZKOCSOCSSMFORDAHLDFAS34PIN91X72HANDSOLDERING > Oscillator : Oscillator_SMD_Fordahl_DFAS3-4Pin_9.1x7.2mm_HandSoldering
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKOCSOCSSMFORDAHLDFAS34PIN91X72HANDSOLDERING](http://oom.lt/FZKOCSOCSSMFORDAHLDFAS34PIN91X72HANDSOLDERING)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SMD_Fordahl_DFAS3-4Pin_9.1x7.2mm_HandSoldering/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SMD_Fordahl_DFAS3-4Pin_9.1x7.2mm_HandSoldering/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SMD_Fordahl_DFAS3-4Pin_9.1x7.2mm_HandSoldering/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SMD_Fordahl_DFAS3-4Pin_9.1x7.2mm_HandSoldering/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SMD_Fordahl_DFAS3-4Pin_9.1x7.2mm_HandSoldering/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SMD_Fordahl_DFAS3-4Pin_9.1x7.2mm_HandSoldering/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SMD_Fordahl_DFAS3-4Pin_9.1x7.2mm_HandSoldering/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SMD_Fordahl_DFAS3-4Pin_9.1x7.2mm_HandSoldering/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SMD_Fordahl_DFAS3-4Pin_9.1x7.2mm_HandSoldering/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SMD_Fordahl_DFAS3-4Pin_9.1x7.2mm_HandSoldering/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SMD_Fordahl_DFAS3-4Pin_9.1x7.2mm_HandSoldering/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SMD_Fordahl_DFAS3-4Pin_9.1x7.2mm_HandSoldering/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SMD_Fordahl_DFAS3-4Pin_9.1x7.2mm_HandSoldering/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SMD_Fordahl_DFAS3-4Pin_9.1x7.2mm_HandSoldering/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SMD_Fordahl_DFAS3-4Pin_9.1x7.2mm_HandSoldering/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SMD_Fordahl_DFAS3-4Pin_9.1x7.2mm_HandSoldering/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SMD_Fordahl_DFAS3-4Pin_9.1x7.2mm_HandSoldering/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SMD_Fordahl_DFAS3-4Pin_9.1x7.2mm_HandSoldering/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Oscillator/Oscillator_SMD_Fordahl_DFAS3-4Pin_9.1x7.2mm_HandSoldering/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

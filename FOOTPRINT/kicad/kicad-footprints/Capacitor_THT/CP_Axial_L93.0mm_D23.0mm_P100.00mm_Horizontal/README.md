@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKCCPAXIALL93D23P1HORIZONTAL > Capacitor_THT : CP_Axial_L93.0mm_D23.0mm_P100.00mm_Horizontal](#fzkccpaxiall93d23p1horizontal--capacitor_tht--cp_axial_l930mm_d230mm_p10000mm_horizontal)
+	* [Tags](#tags)
   
 ![][im]
 # FZKCCPAXIALL93D23P1HORIZONTAL > Capacitor_THT : CP_Axial_L93.0mm_D23.0mm_P100.00mm_Horizontal
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKCCPAXIALL93D23P1HORIZONTAL](http://oom.lt/FZKCCPAXIALL93D23P1HORIZONTAL)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/CP_Axial_L93.0mm_D23.0mm_P100.00mm_Horizontal/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/CP_Axial_L93.0mm_D23.0mm_P100.00mm_Horizontal/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/CP_Axial_L93.0mm_D23.0mm_P100.00mm_Horizontal/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/CP_Axial_L93.0mm_D23.0mm_P100.00mm_Horizontal/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/CP_Axial_L93.0mm_D23.0mm_P100.00mm_Horizontal/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/CP_Axial_L93.0mm_D23.0mm_P100.00mm_Horizontal/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/CP_Axial_L93.0mm_D23.0mm_P100.00mm_Horizontal/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/CP_Axial_L93.0mm_D23.0mm_P100.00mm_Horizontal/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/CP_Axial_L93.0mm_D23.0mm_P100.00mm_Horizontal/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/CP_Axial_L93.0mm_D23.0mm_P100.00mm_Horizontal/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/CP_Axial_L93.0mm_D23.0mm_P100.00mm_Horizontal/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/CP_Axial_L93.0mm_D23.0mm_P100.00mm_Horizontal/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/CP_Axial_L93.0mm_D23.0mm_P100.00mm_Horizontal/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/CP_Axial_L93.0mm_D23.0mm_P100.00mm_Horizontal/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/CP_Axial_L93.0mm_D23.0mm_P100.00mm_Horizontal/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/CP_Axial_L93.0mm_D23.0mm_P100.00mm_Horizontal/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/CP_Axial_L93.0mm_D23.0mm_P100.00mm_Horizontal/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/CP_Axial_L93.0mm_D23.0mm_P100.00mm_Horizontal/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/CP_Axial_L93.0mm_D23.0mm_P100.00mm_Horizontal/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

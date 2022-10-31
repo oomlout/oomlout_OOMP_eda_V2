@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKBSWITCHSMSWPUSH1P1TNOCKKSC7XXJ > Button_Switch_SMD : SW_Push_1P1T_NO_CK_KSC7xxJ](#fzkbswitchsmswpush1p1tnockksc7xxj--button_switch_smd--sw_push_1p1t_no_ck_ksc7xxj)
+	* [Tags](#tags)
   
 ![][im]
 # FZKBSWITCHSMSWPUSH1P1TNOCKKSC7XXJ > Button_Switch_SMD : SW_Push_1P1T_NO_CK_KSC7xxJ
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKBSWITCHSMSWPUSH1P1TNOCKKSC7XXJ](http://oom.lt/FZKBSWITCHSMSWPUSH1P1TNOCKKSC7XXJ)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_Push_1P1T_NO_CK_KSC7xxJ/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_Push_1P1T_NO_CK_KSC7xxJ/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_Push_1P1T_NO_CK_KSC7xxJ/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_Push_1P1T_NO_CK_KSC7xxJ/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_Push_1P1T_NO_CK_KSC7xxJ/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_Push_1P1T_NO_CK_KSC7xxJ/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_Push_1P1T_NO_CK_KSC7xxJ/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_Push_1P1T_NO_CK_KSC7xxJ/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_Push_1P1T_NO_CK_KSC7xxJ/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_Push_1P1T_NO_CK_KSC7xxJ/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_Push_1P1T_NO_CK_KSC7xxJ/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_Push_1P1T_NO_CK_KSC7xxJ/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_Push_1P1T_NO_CK_KSC7xxJ/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_Push_1P1T_NO_CK_KSC7xxJ/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_Push_1P1T_NO_CK_KSC7xxJ/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_Push_1P1T_NO_CK_KSC7xxJ/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_Push_1P1T_NO_CK_KSC7xxJ/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_Push_1P1T_NO_CK_KSC7xxJ/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_Push_1P1T_NO_CK_KSC7xxJ/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

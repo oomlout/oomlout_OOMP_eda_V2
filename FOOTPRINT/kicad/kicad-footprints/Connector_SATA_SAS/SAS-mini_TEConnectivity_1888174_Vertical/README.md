@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKCNSATASASSASMTECONNECTIVITY1888174VERTICAL > Connector_SATA_SAS : SAS-mini_TEConnectivity_1888174_Vertical](#fzkcnsatasassasmteconnectivity1888174vertical--connector_sata_sas--sas-mini_teconnectivity_1888174_vertical)
+	* [Tags](#tags)
   
 ![][im]
 # FZKCNSATASASSASMTECONNECTIVITY1888174VERTICAL > Connector_SATA_SAS : SAS-mini_TEConnectivity_1888174_Vertical
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKCNSATASASSASMTECONNECTIVITY1888174VERTICAL](http://oom.lt/FZKCNSATASASSASMTECONNECTIVITY1888174VERTICAL)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_SATA_SAS/SAS-mini_TEConnectivity_1888174_Vertical/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_SATA_SAS/SAS-mini_TEConnectivity_1888174_Vertical/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_SATA_SAS/SAS-mini_TEConnectivity_1888174_Vertical/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_SATA_SAS/SAS-mini_TEConnectivity_1888174_Vertical/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_SATA_SAS/SAS-mini_TEConnectivity_1888174_Vertical/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_SATA_SAS/SAS-mini_TEConnectivity_1888174_Vertical/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_SATA_SAS/SAS-mini_TEConnectivity_1888174_Vertical/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_SATA_SAS/SAS-mini_TEConnectivity_1888174_Vertical/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_SATA_SAS/SAS-mini_TEConnectivity_1888174_Vertical/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_SATA_SAS/SAS-mini_TEConnectivity_1888174_Vertical/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_SATA_SAS/SAS-mini_TEConnectivity_1888174_Vertical/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_SATA_SAS/SAS-mini_TEConnectivity_1888174_Vertical/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_SATA_SAS/SAS-mini_TEConnectivity_1888174_Vertical/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_SATA_SAS/SAS-mini_TEConnectivity_1888174_Vertical/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_SATA_SAS/SAS-mini_TEConnectivity_1888174_Vertical/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_SATA_SAS/SAS-mini_TEConnectivity_1888174_Vertical/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_SATA_SAS/SAS-mini_TEConnectivity_1888174_Vertical/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_SATA_SAS/SAS-mini_TEConnectivity_1888174_Vertical/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Connector_SATA_SAS/SAS-mini_TEConnectivity_1888174_Vertical/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

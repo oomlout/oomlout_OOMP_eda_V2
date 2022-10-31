@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKBGATEXASDSBGA69X14LAYOUT2X3P5 > Package_BGA : Texas_DSBGA-6_0.9x1.4mm_Layout2x3_P0.5mm](#fzkbgatexasdsbga69x14layout2x3p5--package_bga--texas_dsbga-6_09x14mm_layout2x3_p05mm)
+	* [Tags](#tags)
   
 ![][im]
 # FZKBGATEXASDSBGA69X14LAYOUT2X3P5 > Package_BGA : Texas_DSBGA-6_0.9x1.4mm_Layout2x3_P0.5mm
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKBGATEXASDSBGA69X14LAYOUT2X3P5](http://oom.lt/FZKBGATEXASDSBGA69X14LAYOUT2X3P5)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_BGA/Texas_DSBGA-6_0.9x1.4mm_Layout2x3_P0.5mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_BGA/Texas_DSBGA-6_0.9x1.4mm_Layout2x3_P0.5mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_BGA/Texas_DSBGA-6_0.9x1.4mm_Layout2x3_P0.5mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_BGA/Texas_DSBGA-6_0.9x1.4mm_Layout2x3_P0.5mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_BGA/Texas_DSBGA-6_0.9x1.4mm_Layout2x3_P0.5mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_BGA/Texas_DSBGA-6_0.9x1.4mm_Layout2x3_P0.5mm/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_BGA/Texas_DSBGA-6_0.9x1.4mm_Layout2x3_P0.5mm/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_BGA/Texas_DSBGA-6_0.9x1.4mm_Layout2x3_P0.5mm/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_BGA/Texas_DSBGA-6_0.9x1.4mm_Layout2x3_P0.5mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_BGA/Texas_DSBGA-6_0.9x1.4mm_Layout2x3_P0.5mm/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_BGA/Texas_DSBGA-6_0.9x1.4mm_Layout2x3_P0.5mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_BGA/Texas_DSBGA-6_0.9x1.4mm_Layout2x3_P0.5mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_BGA/Texas_DSBGA-6_0.9x1.4mm_Layout2x3_P0.5mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_BGA/Texas_DSBGA-6_0.9x1.4mm_Layout2x3_P0.5mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_BGA/Texas_DSBGA-6_0.9x1.4mm_Layout2x3_P0.5mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_BGA/Texas_DSBGA-6_0.9x1.4mm_Layout2x3_P0.5mm/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_BGA/Texas_DSBGA-6_0.9x1.4mm_Layout2x3_P0.5mm/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_BGA/Texas_DSBGA-6_0.9x1.4mm_Layout2x3_P0.5mm/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Package_BGA/Texas_DSBGA-6_0.9x1.4mm_Layout2x3_P0.5mm/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

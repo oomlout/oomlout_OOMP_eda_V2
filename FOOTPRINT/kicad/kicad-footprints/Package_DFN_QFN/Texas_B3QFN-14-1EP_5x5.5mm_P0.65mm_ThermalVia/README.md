@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKDFNTEXASB3QFN141EP5X55P65THERMALVIA > Package_DFN_QFN : Texas_B3QFN-14-1EP_5x5.5mm_P0.65mm_ThermalVia](#fzkdfntexasb3qfn141ep5x55p65thermalvia--package_dfn_qfn--texas_b3qfn-14-1ep_5x55mm_p065mm_thermalvia)
+	* [Tags](#tags)
   
 ![][im]
 # FZKDFNTEXASB3QFN141EP5X55P65THERMALVIA > Package_DFN_QFN : Texas_B3QFN-14-1EP_5x5.5mm_P0.65mm_ThermalVia
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKDFNTEXASB3QFN141EP5X55P65THERMALVIA](http://oom.lt/FZKDFNTEXASB3QFN141EP5X55P65THERMALVIA)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Texas_B3QFN-14-1EP_5x5.5mm_P0.65mm_ThermalVia/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Texas_B3QFN-14-1EP_5x5.5mm_P0.65mm_ThermalVia/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Texas_B3QFN-14-1EP_5x5.5mm_P0.65mm_ThermalVia/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Texas_B3QFN-14-1EP_5x5.5mm_P0.65mm_ThermalVia/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Texas_B3QFN-14-1EP_5x5.5mm_P0.65mm_ThermalVia/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Texas_B3QFN-14-1EP_5x5.5mm_P0.65mm_ThermalVia/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Texas_B3QFN-14-1EP_5x5.5mm_P0.65mm_ThermalVia/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Texas_B3QFN-14-1EP_5x5.5mm_P0.65mm_ThermalVia/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Texas_B3QFN-14-1EP_5x5.5mm_P0.65mm_ThermalVia/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Texas_B3QFN-14-1EP_5x5.5mm_P0.65mm_ThermalVia/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Texas_B3QFN-14-1EP_5x5.5mm_P0.65mm_ThermalVia/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Texas_B3QFN-14-1EP_5x5.5mm_P0.65mm_ThermalVia/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Texas_B3QFN-14-1EP_5x5.5mm_P0.65mm_ThermalVia/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Texas_B3QFN-14-1EP_5x5.5mm_P0.65mm_ThermalVia/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Texas_B3QFN-14-1EP_5x5.5mm_P0.65mm_ThermalVia/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Texas_B3QFN-14-1EP_5x5.5mm_P0.65mm_ThermalVia/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Texas_B3QFN-14-1EP_5x5.5mm_P0.65mm_ThermalVia/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Texas_B3QFN-14-1EP_5x5.5mm_P0.65mm_ThermalVia/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/Texas_B3QFN-14-1EP_5x5.5mm_P0.65mm_ThermalVia/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

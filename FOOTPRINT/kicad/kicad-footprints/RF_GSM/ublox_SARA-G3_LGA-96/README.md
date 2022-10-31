@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKGSMUBLOXSARAG3LGA96 > RF_GSM : ublox_SARA-G3_LGA-96](#fzkgsmubloxsarag3lga96--rf_gsm--ublox_sara-g3_lga-96)
+	* [Tags](#tags)
   
 ![][im]
 # FZKGSMUBLOXSARAG3LGA96 > RF_GSM : ublox_SARA-G3_LGA-96
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKGSMUBLOXSARAG3LGA96](http://oom.lt/FZKGSMUBLOXSARAG3LGA96)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/RF_GSM/ublox_SARA-G3_LGA-96/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/RF_GSM/ublox_SARA-G3_LGA-96/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/RF_GSM/ublox_SARA-G3_LGA-96/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/RF_GSM/ublox_SARA-G3_LGA-96/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/RF_GSM/ublox_SARA-G3_LGA-96/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/RF_GSM/ublox_SARA-G3_LGA-96/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/RF_GSM/ublox_SARA-G3_LGA-96/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/RF_GSM/ublox_SARA-G3_LGA-96/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/RF_GSM/ublox_SARA-G3_LGA-96/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/RF_GSM/ublox_SARA-G3_LGA-96/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/RF_GSM/ublox_SARA-G3_LGA-96/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/RF_GSM/ublox_SARA-G3_LGA-96/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/RF_GSM/ublox_SARA-G3_LGA-96/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/RF_GSM/ublox_SARA-G3_LGA-96/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/RF_GSM/ublox_SARA-G3_LGA-96/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/RF_GSM/ublox_SARA-G3_LGA-96/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/RF_GSM/ublox_SARA-G3_LGA-96/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/RF_GSM/ublox_SARA-G3_LGA-96/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/RF_GSM/ublox_SARA-G3_LGA-96/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

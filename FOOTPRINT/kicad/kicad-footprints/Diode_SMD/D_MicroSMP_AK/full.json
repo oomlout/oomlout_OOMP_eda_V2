@@ -1,0 +1,78 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintEagle": [],
+    "footprintEagleDetails": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": "smd",
+            "description": "Diode MicroSMP (DO-219AD), large-pad cathode, https://www.vishay.com/docs/89020/mss1p3l.pdf",
+            "name": "D_MicroSMP_AK",
+            "pins": {
+                "shape": "rect",
+                "type": "smd"
+            },
+            "tags": "Diode MicroSMP (DO-219AD)",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_MicroSMP_AK.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKDIODESMDMSMPAK"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Diode_SMD : D_MicroSMP_AK"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Diode_SMD"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Diode_SMD/D_MicroSMP_AK/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Diode_SMD/D_MicroSMP_AK/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Diode_SMD/D_MicroSMP_AK/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Diode_SMD/D_MicroSMP_AK/details.py"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Diode_SMD/D_MicroSMP_AK/basic.json"
+        ]
+    },
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_MicroSMP_AK"
+    ],
+    "oompIndex": [
+        "D_MicroSMP_AK"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolEagle": [],
+    "symbolEagleDetails": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

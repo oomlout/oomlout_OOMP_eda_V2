@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKSONHUSON31EP2X2P13EP11X16 > Package_SON : HUSON-3-1EP_2x2mm_P1.3mm_EP1.1x1.6mm](#fzksonhuson31ep2x2p13ep11x16--package_son--huson-3-1ep_2x2mm_p13mm_ep11x16mm)
+	* [Tags](#tags)
   
 ![][im]
 # FZKSONHUSON31EP2X2P13EP11X16 > Package_SON : HUSON-3-1EP_2x2mm_P1.3mm_EP1.1x1.6mm
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKSONHUSON31EP2X2P13EP11X16](http://oom.lt/FZKSONHUSON31EP2X2P13EP11X16)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SON/HUSON-3-1EP_2x2mm_P1.3mm_EP1.1x1.6mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SON/HUSON-3-1EP_2x2mm_P1.3mm_EP1.1x1.6mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SON/HUSON-3-1EP_2x2mm_P1.3mm_EP1.1x1.6mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SON/HUSON-3-1EP_2x2mm_P1.3mm_EP1.1x1.6mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SON/HUSON-3-1EP_2x2mm_P1.3mm_EP1.1x1.6mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SON/HUSON-3-1EP_2x2mm_P1.3mm_EP1.1x1.6mm/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SON/HUSON-3-1EP_2x2mm_P1.3mm_EP1.1x1.6mm/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SON/HUSON-3-1EP_2x2mm_P1.3mm_EP1.1x1.6mm/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SON/HUSON-3-1EP_2x2mm_P1.3mm_EP1.1x1.6mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SON/HUSON-3-1EP_2x2mm_P1.3mm_EP1.1x1.6mm/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SON/HUSON-3-1EP_2x2mm_P1.3mm_EP1.1x1.6mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SON/HUSON-3-1EP_2x2mm_P1.3mm_EP1.1x1.6mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SON/HUSON-3-1EP_2x2mm_P1.3mm_EP1.1x1.6mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SON/HUSON-3-1EP_2x2mm_P1.3mm_EP1.1x1.6mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SON/HUSON-3-1EP_2x2mm_P1.3mm_EP1.1x1.6mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SON/HUSON-3-1EP_2x2mm_P1.3mm_EP1.1x1.6mm/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SON/HUSON-3-1EP_2x2mm_P1.3mm_EP1.1x1.6mm/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SON/HUSON-3-1EP_2x2mm_P1.3mm_EP1.1x1.6mm/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Package_SON/HUSON-3-1EP_2x2mm_P1.3mm_EP1.1x1.6mm/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

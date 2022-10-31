@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKBSWCHERRYMX125UPCB > Button_Switch_Keyboard : SW_Cherry_MX_1.25u_PCB](#fzkbswcherrymx125upcb--button_switch_keyboard--sw_cherry_mx_125u_pcb)
+	* [Tags](#tags)
   
 ![][im]
 # FZKBSWCHERRYMX125UPCB > Button_Switch_Keyboard : SW_Cherry_MX_1.25u_PCB
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKBSWCHERRYMX125UPCB](http://oom.lt/FZKBSWCHERRYMX125UPCB)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_Keyboard/SW_Cherry_MX_1.25u_PCB/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_Keyboard/SW_Cherry_MX_1.25u_PCB/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_Keyboard/SW_Cherry_MX_1.25u_PCB/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_Keyboard/SW_Cherry_MX_1.25u_PCB/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_Keyboard/SW_Cherry_MX_1.25u_PCB/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_Keyboard/SW_Cherry_MX_1.25u_PCB/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_Keyboard/SW_Cherry_MX_1.25u_PCB/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_Keyboard/SW_Cherry_MX_1.25u_PCB/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_Keyboard/SW_Cherry_MX_1.25u_PCB/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_Keyboard/SW_Cherry_MX_1.25u_PCB/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_Keyboard/SW_Cherry_MX_1.25u_PCB/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_Keyboard/SW_Cherry_MX_1.25u_PCB/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_Keyboard/SW_Cherry_MX_1.25u_PCB/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_Keyboard/SW_Cherry_MX_1.25u_PCB/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_Keyboard/SW_Cherry_MX_1.25u_PCB/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_Keyboard/SW_Cherry_MX_1.25u_PCB/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_Keyboard/SW_Cherry_MX_1.25u_PCB/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_Keyboard/SW_Cherry_MX_1.25u_PCB/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Button_Switch_Keyboard/SW_Cherry_MX_1.25u_PCB/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

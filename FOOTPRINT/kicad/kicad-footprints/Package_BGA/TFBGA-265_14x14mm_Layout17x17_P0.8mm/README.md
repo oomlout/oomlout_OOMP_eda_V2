@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKBGATFBGA26514X14LAYOUT17X17P8 > Package_BGA : TFBGA-265_14x14mm_Layout17x17_P0.8mm](#fzkbgatfbga26514x14layout17x17p8--package_bga--tfbga-265_14x14mm_layout17x17_p08mm)
+	* [Tags](#tags)
   
 ![][im]
 # FZKBGATFBGA26514X14LAYOUT17X17P8 > Package_BGA : TFBGA-265_14x14mm_Layout17x17_P0.8mm
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKBGATFBGA26514X14LAYOUT17X17P8](http://oom.lt/FZKBGATFBGA26514X14LAYOUT17X17P8)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_BGA/TFBGA-265_14x14mm_Layout17x17_P0.8mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_BGA/TFBGA-265_14x14mm_Layout17x17_P0.8mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_BGA/TFBGA-265_14x14mm_Layout17x17_P0.8mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_BGA/TFBGA-265_14x14mm_Layout17x17_P0.8mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_BGA/TFBGA-265_14x14mm_Layout17x17_P0.8mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_BGA/TFBGA-265_14x14mm_Layout17x17_P0.8mm/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_BGA/TFBGA-265_14x14mm_Layout17x17_P0.8mm/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_BGA/TFBGA-265_14x14mm_Layout17x17_P0.8mm/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_BGA/TFBGA-265_14x14mm_Layout17x17_P0.8mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_BGA/TFBGA-265_14x14mm_Layout17x17_P0.8mm/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_BGA/TFBGA-265_14x14mm_Layout17x17_P0.8mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_BGA/TFBGA-265_14x14mm_Layout17x17_P0.8mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_BGA/TFBGA-265_14x14mm_Layout17x17_P0.8mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_BGA/TFBGA-265_14x14mm_Layout17x17_P0.8mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_BGA/TFBGA-265_14x14mm_Layout17x17_P0.8mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_BGA/TFBGA-265_14x14mm_Layout17x17_P0.8mm/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_BGA/TFBGA-265_14x14mm_Layout17x17_P0.8mm/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_BGA/TFBGA-265_14x14mm_Layout17x17_P0.8mm/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Package_BGA/TFBGA-265_14x14mm_Layout17x17_P0.8mm/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

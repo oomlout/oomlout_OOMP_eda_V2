@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKBSWITCHSMSWDIPSPSTX6SLIDE978X1742W861P254 > Button_Switch_SMD : SW_DIP_SPSTx06_Slide_9.78x17.42mm_W8.61mm_P2.54mm](#fzkbswitchsmswdipspstx6slide978x1742w861p254--button_switch_smd--sw_dip_spstx06_slide_978x1742mm_w861mm_p254mm)
+	* [Tags](#tags)
   
 ![][im]
 # FZKBSWITCHSMSWDIPSPSTX6SLIDE978X1742W861P254 > Button_Switch_SMD : SW_DIP_SPSTx06_Slide_9.78x17.42mm_W8.61mm_P2.54mm
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKBSWITCHSMSWDIPSPSTX6SLIDE978X1742W861P254](http://oom.lt/FZKBSWITCHSMSWDIPSPSTX6SLIDE978X1742W861P254)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_DIP_SPSTx06_Slide_9.78x17.42mm_W8.61mm_P2.54mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_DIP_SPSTx06_Slide_9.78x17.42mm_W8.61mm_P2.54mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_DIP_SPSTx06_Slide_9.78x17.42mm_W8.61mm_P2.54mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_DIP_SPSTx06_Slide_9.78x17.42mm_W8.61mm_P2.54mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_DIP_SPSTx06_Slide_9.78x17.42mm_W8.61mm_P2.54mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_DIP_SPSTx06_Slide_9.78x17.42mm_W8.61mm_P2.54mm/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_DIP_SPSTx06_Slide_9.78x17.42mm_W8.61mm_P2.54mm/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_DIP_SPSTx06_Slide_9.78x17.42mm_W8.61mm_P2.54mm/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_DIP_SPSTx06_Slide_9.78x17.42mm_W8.61mm_P2.54mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_DIP_SPSTx06_Slide_9.78x17.42mm_W8.61mm_P2.54mm/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_DIP_SPSTx06_Slide_9.78x17.42mm_W8.61mm_P2.54mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_DIP_SPSTx06_Slide_9.78x17.42mm_W8.61mm_P2.54mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_DIP_SPSTx06_Slide_9.78x17.42mm_W8.61mm_P2.54mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_DIP_SPSTx06_Slide_9.78x17.42mm_W8.61mm_P2.54mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_DIP_SPSTx06_Slide_9.78x17.42mm_W8.61mm_P2.54mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_DIP_SPSTx06_Slide_9.78x17.42mm_W8.61mm_P2.54mm/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_DIP_SPSTx06_Slide_9.78x17.42mm_W8.61mm_P2.54mm/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_DIP_SPSTx06_Slide_9.78x17.42mm_W8.61mm_P2.54mm/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Button_Switch_SMD/SW_DIP_SPSTx06_Slide_9.78x17.42mm_W8.61mm_P2.54mm/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

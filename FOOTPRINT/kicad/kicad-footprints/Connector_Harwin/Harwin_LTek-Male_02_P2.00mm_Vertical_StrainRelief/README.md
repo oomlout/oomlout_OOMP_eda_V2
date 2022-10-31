@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKCNHARWINHARWINLTEKMALE2P2VERTICALSTRAINRELIEF > Connector_Harwin : Harwin_LTek-Male_02_P2.00mm_Vertical_StrainRelief](#fzkcnharwinharwinltekmale2p2verticalstrainrelief--connector_harwin--harwin_ltek-male_02_p200mm_vertical_strainrelief)
+	* [Tags](#tags)
   
 ![][im]
 # FZKCNHARWINHARWINLTEKMALE2P2VERTICALSTRAINRELIEF > Connector_Harwin : Harwin_LTek-Male_02_P2.00mm_Vertical_StrainRelief
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKCNHARWINHARWINLTEKMALE2P2VERTICALSTRAINRELIEF](http://oom.lt/FZKCNHARWINHARWINLTEKMALE2P2VERTICALSTRAINRELIEF)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Harwin/Harwin_LTek-Male_02_P2.00mm_Vertical_StrainRelief/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Harwin/Harwin_LTek-Male_02_P2.00mm_Vertical_StrainRelief/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Harwin/Harwin_LTek-Male_02_P2.00mm_Vertical_StrainRelief/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Harwin/Harwin_LTek-Male_02_P2.00mm_Vertical_StrainRelief/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Harwin/Harwin_LTek-Male_02_P2.00mm_Vertical_StrainRelief/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Harwin/Harwin_LTek-Male_02_P2.00mm_Vertical_StrainRelief/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Harwin/Harwin_LTek-Male_02_P2.00mm_Vertical_StrainRelief/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Harwin/Harwin_LTek-Male_02_P2.00mm_Vertical_StrainRelief/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Harwin/Harwin_LTek-Male_02_P2.00mm_Vertical_StrainRelief/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Harwin/Harwin_LTek-Male_02_P2.00mm_Vertical_StrainRelief/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Harwin/Harwin_LTek-Male_02_P2.00mm_Vertical_StrainRelief/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Harwin/Harwin_LTek-Male_02_P2.00mm_Vertical_StrainRelief/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Harwin/Harwin_LTek-Male_02_P2.00mm_Vertical_StrainRelief/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Harwin/Harwin_LTek-Male_02_P2.00mm_Vertical_StrainRelief/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Harwin/Harwin_LTek-Male_02_P2.00mm_Vertical_StrainRelief/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Harwin/Harwin_LTek-Male_02_P2.00mm_Vertical_StrainRelief/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Harwin/Harwin_LTek-Male_02_P2.00mm_Vertical_StrainRelief/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Harwin/Harwin_LTek-Male_02_P2.00mm_Vertical_StrainRelief/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Connector_Harwin/Harwin_LTek-Male_02_P2.00mm_Vertical_StrainRelief/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

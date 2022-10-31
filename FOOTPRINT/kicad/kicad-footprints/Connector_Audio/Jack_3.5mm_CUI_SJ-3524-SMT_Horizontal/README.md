@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKCNAUDIOJ35CUISJ3524SHORIZONTAL > Connector_Audio : Jack_3.5mm_CUI_SJ-3524-SMT_Horizontal](#fzkcnaudioj35cuisj3524shorizontal--connector_audio--jack_35mm_cui_sj-3524-smt_horizontal)
+	* [Tags](#tags)
   
 ![][im]
 # FZKCNAUDIOJ35CUISJ3524SHORIZONTAL > Connector_Audio : Jack_3.5mm_CUI_SJ-3524-SMT_Horizontal
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKCNAUDIOJ35CUISJ3524SHORIZONTAL](http://oom.lt/FZKCNAUDIOJ35CUISJ3524SHORIZONTAL)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_3.5mm_CUI_SJ-3524-SMT_Horizontal/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_3.5mm_CUI_SJ-3524-SMT_Horizontal/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_3.5mm_CUI_SJ-3524-SMT_Horizontal/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_3.5mm_CUI_SJ-3524-SMT_Horizontal/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_3.5mm_CUI_SJ-3524-SMT_Horizontal/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_3.5mm_CUI_SJ-3524-SMT_Horizontal/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_3.5mm_CUI_SJ-3524-SMT_Horizontal/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_3.5mm_CUI_SJ-3524-SMT_Horizontal/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_3.5mm_CUI_SJ-3524-SMT_Horizontal/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_3.5mm_CUI_SJ-3524-SMT_Horizontal/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_3.5mm_CUI_SJ-3524-SMT_Horizontal/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_3.5mm_CUI_SJ-3524-SMT_Horizontal/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_3.5mm_CUI_SJ-3524-SMT_Horizontal/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_3.5mm_CUI_SJ-3524-SMT_Horizontal/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_3.5mm_CUI_SJ-3524-SMT_Horizontal/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_3.5mm_CUI_SJ-3524-SMT_Horizontal/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_3.5mm_CUI_SJ-3524-SMT_Horizontal/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_3.5mm_CUI_SJ-3524-SMT_Horizontal/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_3.5mm_CUI_SJ-3524-SMT_Horizontal/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

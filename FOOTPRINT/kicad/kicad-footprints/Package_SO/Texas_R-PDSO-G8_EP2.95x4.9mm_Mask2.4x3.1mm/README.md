@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKSOTEXASRPDSOG8EP295X49MASK24X31 > Package_SO : Texas_R-PDSO-G8_EP2.95x4.9mm_Mask2.4x3.1mm](#fzksotexasrpdsog8ep295x49mask24x31--package_so--texas_r-pdso-g8_ep295x49mm_mask24x31mm)
+	* [Tags](#tags)
   
 ![][im]
 # FZKSOTEXASRPDSOG8EP295X49MASK24X31 > Package_SO : Texas_R-PDSO-G8_EP2.95x4.9mm_Mask2.4x3.1mm
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKSOTEXASRPDSOG8EP295X49MASK24X31](http://oom.lt/FZKSOTEXASRPDSOG8EP295X49MASK24X31)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/Texas_R-PDSO-G8_EP2.95x4.9mm_Mask2.4x3.1mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/Texas_R-PDSO-G8_EP2.95x4.9mm_Mask2.4x3.1mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/Texas_R-PDSO-G8_EP2.95x4.9mm_Mask2.4x3.1mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/Texas_R-PDSO-G8_EP2.95x4.9mm_Mask2.4x3.1mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/Texas_R-PDSO-G8_EP2.95x4.9mm_Mask2.4x3.1mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/Texas_R-PDSO-G8_EP2.95x4.9mm_Mask2.4x3.1mm/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/Texas_R-PDSO-G8_EP2.95x4.9mm_Mask2.4x3.1mm/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/Texas_R-PDSO-G8_EP2.95x4.9mm_Mask2.4x3.1mm/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/Texas_R-PDSO-G8_EP2.95x4.9mm_Mask2.4x3.1mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/Texas_R-PDSO-G8_EP2.95x4.9mm_Mask2.4x3.1mm/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/Texas_R-PDSO-G8_EP2.95x4.9mm_Mask2.4x3.1mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/Texas_R-PDSO-G8_EP2.95x4.9mm_Mask2.4x3.1mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/Texas_R-PDSO-G8_EP2.95x4.9mm_Mask2.4x3.1mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/Texas_R-PDSO-G8_EP2.95x4.9mm_Mask2.4x3.1mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/Texas_R-PDSO-G8_EP2.95x4.9mm_Mask2.4x3.1mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/Texas_R-PDSO-G8_EP2.95x4.9mm_Mask2.4x3.1mm/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/Texas_R-PDSO-G8_EP2.95x4.9mm_Mask2.4x3.1mm/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/Texas_R-PDSO-G8_EP2.95x4.9mm_Mask2.4x3.1mm/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Package_SO/Texas_R-PDSO-G8_EP2.95x4.9mm_Mask2.4x3.1mm/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

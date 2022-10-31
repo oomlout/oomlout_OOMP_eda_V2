@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKINLRD12P5NEOSIDSD12KSTYLE2 > Inductor_THT : L_Radial_D12.0mm_P5.00mm_Neosid_SD12k_style2](#fzkinlrd12p5neosidsd12kstyle2--inductor_tht--l_radial_d120mm_p500mm_neosid_sd12k_style2)
+	* [Tags](#tags)
   
 ![][im]
 # FZKINLRD12P5NEOSIDSD12KSTYLE2 > Inductor_THT : L_Radial_D12.0mm_P5.00mm_Neosid_SD12k_style2
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKINLRD12P5NEOSIDSD12KSTYLE2](http://oom.lt/FZKINLRD12P5NEOSIDSD12KSTYLE2)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_D12.0mm_P5.00mm_Neosid_SD12k_style2/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_D12.0mm_P5.00mm_Neosid_SD12k_style2/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_D12.0mm_P5.00mm_Neosid_SD12k_style2/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_D12.0mm_P5.00mm_Neosid_SD12k_style2/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_D12.0mm_P5.00mm_Neosid_SD12k_style2/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_D12.0mm_P5.00mm_Neosid_SD12k_style2/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_D12.0mm_P5.00mm_Neosid_SD12k_style2/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_D12.0mm_P5.00mm_Neosid_SD12k_style2/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_D12.0mm_P5.00mm_Neosid_SD12k_style2/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_D12.0mm_P5.00mm_Neosid_SD12k_style2/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_D12.0mm_P5.00mm_Neosid_SD12k_style2/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_D12.0mm_P5.00mm_Neosid_SD12k_style2/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_D12.0mm_P5.00mm_Neosid_SD12k_style2/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_D12.0mm_P5.00mm_Neosid_SD12k_style2/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_D12.0mm_P5.00mm_Neosid_SD12k_style2/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_D12.0mm_P5.00mm_Neosid_SD12k_style2/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_D12.0mm_P5.00mm_Neosid_SD12k_style2/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_D12.0mm_P5.00mm_Neosid_SD12k_style2/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Radial_D12.0mm_P5.00mm_Neosid_SD12k_style2/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

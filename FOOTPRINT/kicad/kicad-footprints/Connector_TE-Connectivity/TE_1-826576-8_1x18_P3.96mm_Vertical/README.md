@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKCNTECONNECTIVITYTE182657681X18P396VERTICAL > Connector_TE-Connectivity : TE_1-826576-8_1x18_P3.96mm_Vertical](#fzkcnteconnectivityte182657681x18p396vertical--connector_te-connectivity--te_1-826576-8_1x18_p396mm_vertical)
+	* [Tags](#tags)
   
 ![][im]
 # FZKCNTECONNECTIVITYTE182657681X18P396VERTICAL > Connector_TE-Connectivity : TE_1-826576-8_1x18_P3.96mm_Vertical
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKCNTECONNECTIVITYTE182657681X18P396VERTICAL](http://oom.lt/FZKCNTECONNECTIVITYTE182657681X18P396VERTICAL)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_TE-Connectivity/TE_1-826576-8_1x18_P3.96mm_Vertical/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_TE-Connectivity/TE_1-826576-8_1x18_P3.96mm_Vertical/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_TE-Connectivity/TE_1-826576-8_1x18_P3.96mm_Vertical/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_TE-Connectivity/TE_1-826576-8_1x18_P3.96mm_Vertical/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_TE-Connectivity/TE_1-826576-8_1x18_P3.96mm_Vertical/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_TE-Connectivity/TE_1-826576-8_1x18_P3.96mm_Vertical/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_TE-Connectivity/TE_1-826576-8_1x18_P3.96mm_Vertical/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_TE-Connectivity/TE_1-826576-8_1x18_P3.96mm_Vertical/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_TE-Connectivity/TE_1-826576-8_1x18_P3.96mm_Vertical/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_TE-Connectivity/TE_1-826576-8_1x18_P3.96mm_Vertical/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_TE-Connectivity/TE_1-826576-8_1x18_P3.96mm_Vertical/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_TE-Connectivity/TE_1-826576-8_1x18_P3.96mm_Vertical/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_TE-Connectivity/TE_1-826576-8_1x18_P3.96mm_Vertical/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_TE-Connectivity/TE_1-826576-8_1x18_P3.96mm_Vertical/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_TE-Connectivity/TE_1-826576-8_1x18_P3.96mm_Vertical/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_TE-Connectivity/TE_1-826576-8_1x18_P3.96mm_Vertical/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_TE-Connectivity/TE_1-826576-8_1x18_P3.96mm_Vertical/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_TE-Connectivity/TE_1-826576-8_1x18_P3.96mm_Vertical/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Connector_TE-Connectivity/TE_1-826576-8_1x18_P3.96mm_Vertical/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

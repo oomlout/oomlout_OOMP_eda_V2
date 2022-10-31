@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKRELRELAYSPSTRAYEXL9BS > Relay_THT : Relay_SPST_RAYEX-L90BS](#fzkrelrelayspstrayexl9bs--relay_tht--relay_spst_rayex-l90bs)
+	* [Tags](#tags)
   
 ![][im]
 # FZKRELRELAYSPSTRAYEXL9BS > Relay_THT : Relay_SPST_RAYEX-L90BS
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKRELRELAYSPSTRAYEXL9BS](http://oom.lt/FZKRELRELAYSPSTRAYEXL9BS)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_SPST_RAYEX-L90BS/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_SPST_RAYEX-L90BS/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_SPST_RAYEX-L90BS/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_SPST_RAYEX-L90BS/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_SPST_RAYEX-L90BS/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_SPST_RAYEX-L90BS/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_SPST_RAYEX-L90BS/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_SPST_RAYEX-L90BS/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_SPST_RAYEX-L90BS/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_SPST_RAYEX-L90BS/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_SPST_RAYEX-L90BS/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_SPST_RAYEX-L90BS/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_SPST_RAYEX-L90BS/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_SPST_RAYEX-L90BS/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_SPST_RAYEX-L90BS/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_SPST_RAYEX-L90BS/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_SPST_RAYEX-L90BS/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_SPST_RAYEX-L90BS/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_SPST_RAYEX-L90BS/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

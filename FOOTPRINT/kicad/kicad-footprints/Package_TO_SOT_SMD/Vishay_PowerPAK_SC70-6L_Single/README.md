@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKPACKAGETOSOTSMVISHAYPOWERPAKSC76LSINGLE > Package_TO_SOT_SMD : Vishay_PowerPAK_SC70-6L_Single](#fzkpackagetosotsmvishaypowerpaksc76lsingle--package_to_sot_smd--vishay_powerpak_sc70-6l_single)
+	* [Tags](#tags)
   
 ![][im]
 # FZKPACKAGETOSOTSMVISHAYPOWERPAKSC76LSINGLE > Package_TO_SOT_SMD : Vishay_PowerPAK_SC70-6L_Single
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKPACKAGETOSOTSMVISHAYPOWERPAKSC76LSINGLE](http://oom.lt/FZKPACKAGETOSOTSMVISHAYPOWERPAKSC76LSINGLE)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/Vishay_PowerPAK_SC70-6L_Single/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/Vishay_PowerPAK_SC70-6L_Single/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/Vishay_PowerPAK_SC70-6L_Single/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/Vishay_PowerPAK_SC70-6L_Single/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/Vishay_PowerPAK_SC70-6L_Single/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/Vishay_PowerPAK_SC70-6L_Single/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/Vishay_PowerPAK_SC70-6L_Single/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/Vishay_PowerPAK_SC70-6L_Single/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/Vishay_PowerPAK_SC70-6L_Single/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/Vishay_PowerPAK_SC70-6L_Single/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/Vishay_PowerPAK_SC70-6L_Single/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/Vishay_PowerPAK_SC70-6L_Single/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/Vishay_PowerPAK_SC70-6L_Single/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/Vishay_PowerPAK_SC70-6L_Single/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/Vishay_PowerPAK_SC70-6L_Single/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/Vishay_PowerPAK_SC70-6L_Single/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/Vishay_PowerPAK_SC70-6L_Single/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/Vishay_PowerPAK_SC70-6L_Single/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/Vishay_PowerPAK_SC70-6L_Single/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

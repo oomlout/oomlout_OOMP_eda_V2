@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKSOTTO229P194X38STAGGEREVENLEAD585TABDOWN > Package_TO_SOT_THT : TO-220-9_P1.94x3.8mm_StaggerEven_Lead5.85mm_TabDown](#fzksotto229p194x38staggerevenlead585tabdown--package_to_sot_tht--to-220-9_p194x38mm_staggereven_lead585mm_tabdown)
+	* [Tags](#tags)
   
 ![][im]
 # FZKSOTTO229P194X38STAGGEREVENLEAD585TABDOWN > Package_TO_SOT_THT : TO-220-9_P1.94x3.8mm_StaggerEven_Lead5.85mm_TabDown
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKSOTTO229P194X38STAGGEREVENLEAD585TABDOWN](http://oom.lt/FZKSOTTO229P194X38STAGGEREVENLEAD585TABDOWN)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/TO-220-9_P1.94x3.8mm_StaggerEven_Lead5.85mm_TabDown/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/TO-220-9_P1.94x3.8mm_StaggerEven_Lead5.85mm_TabDown/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/TO-220-9_P1.94x3.8mm_StaggerEven_Lead5.85mm_TabDown/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/TO-220-9_P1.94x3.8mm_StaggerEven_Lead5.85mm_TabDown/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/TO-220-9_P1.94x3.8mm_StaggerEven_Lead5.85mm_TabDown/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/TO-220-9_P1.94x3.8mm_StaggerEven_Lead5.85mm_TabDown/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/TO-220-9_P1.94x3.8mm_StaggerEven_Lead5.85mm_TabDown/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/TO-220-9_P1.94x3.8mm_StaggerEven_Lead5.85mm_TabDown/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/TO-220-9_P1.94x3.8mm_StaggerEven_Lead5.85mm_TabDown/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/TO-220-9_P1.94x3.8mm_StaggerEven_Lead5.85mm_TabDown/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/TO-220-9_P1.94x3.8mm_StaggerEven_Lead5.85mm_TabDown/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/TO-220-9_P1.94x3.8mm_StaggerEven_Lead5.85mm_TabDown/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/TO-220-9_P1.94x3.8mm_StaggerEven_Lead5.85mm_TabDown/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/TO-220-9_P1.94x3.8mm_StaggerEven_Lead5.85mm_TabDown/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/TO-220-9_P1.94x3.8mm_StaggerEven_Lead5.85mm_TabDown/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/TO-220-9_P1.94x3.8mm_StaggerEven_Lead5.85mm_TabDown/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/TO-220-9_P1.94x3.8mm_StaggerEven_Lead5.85mm_TabDown/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/TO-220-9_P1.94x3.8mm_StaggerEven_Lead5.85mm_TabDown/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/TO-220-9_P1.94x3.8mm_StaggerEven_Lead5.85mm_TabDown/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

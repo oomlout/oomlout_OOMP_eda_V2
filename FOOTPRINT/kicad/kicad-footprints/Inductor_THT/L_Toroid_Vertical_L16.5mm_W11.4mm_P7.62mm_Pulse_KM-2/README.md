@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKINLTOROIDVERTICALL165W114P762PULSEKM2 > Inductor_THT : L_Toroid_Vertical_L16.5mm_W11.4mm_P7.62mm_Pulse_KM-2](#fzkinltoroidverticall165w114p762pulsekm2--inductor_tht--l_toroid_vertical_l165mm_w114mm_p762mm_pulse_km-2)
+	* [Tags](#tags)
   
 ![][im]
 # FZKINLTOROIDVERTICALL165W114P762PULSEKM2 > Inductor_THT : L_Toroid_Vertical_L16.5mm_W11.4mm_P7.62mm_Pulse_KM-2
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKINLTOROIDVERTICALL165W114P762PULSEKM2](http://oom.lt/FZKINLTOROIDVERTICALL165W114P762PULSEKM2)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Toroid_Vertical_L16.5mm_W11.4mm_P7.62mm_Pulse_KM-2/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Toroid_Vertical_L16.5mm_W11.4mm_P7.62mm_Pulse_KM-2/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Toroid_Vertical_L16.5mm_W11.4mm_P7.62mm_Pulse_KM-2/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Toroid_Vertical_L16.5mm_W11.4mm_P7.62mm_Pulse_KM-2/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Toroid_Vertical_L16.5mm_W11.4mm_P7.62mm_Pulse_KM-2/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Toroid_Vertical_L16.5mm_W11.4mm_P7.62mm_Pulse_KM-2/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Toroid_Vertical_L16.5mm_W11.4mm_P7.62mm_Pulse_KM-2/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Toroid_Vertical_L16.5mm_W11.4mm_P7.62mm_Pulse_KM-2/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Toroid_Vertical_L16.5mm_W11.4mm_P7.62mm_Pulse_KM-2/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Toroid_Vertical_L16.5mm_W11.4mm_P7.62mm_Pulse_KM-2/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Toroid_Vertical_L16.5mm_W11.4mm_P7.62mm_Pulse_KM-2/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Toroid_Vertical_L16.5mm_W11.4mm_P7.62mm_Pulse_KM-2/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Toroid_Vertical_L16.5mm_W11.4mm_P7.62mm_Pulse_KM-2/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Toroid_Vertical_L16.5mm_W11.4mm_P7.62mm_Pulse_KM-2/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Toroid_Vertical_L16.5mm_W11.4mm_P7.62mm_Pulse_KM-2/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Toroid_Vertical_L16.5mm_W11.4mm_P7.62mm_Pulse_KM-2/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Toroid_Vertical_L16.5mm_W11.4mm_P7.62mm_Pulse_KM-2/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Toroid_Vertical_L16.5mm_W11.4mm_P7.62mm_Pulse_KM-2/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Toroid_Vertical_L16.5mm_W11.4mm_P7.62mm_Pulse_KM-2/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

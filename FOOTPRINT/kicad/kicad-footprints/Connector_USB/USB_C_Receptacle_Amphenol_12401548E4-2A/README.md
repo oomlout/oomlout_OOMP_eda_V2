@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKCNUUCRECEPTACLEAMPHENOL1241548E42A > Connector_USB : USB_C_Receptacle_Amphenol_12401548E4-2A](#fzkcnuucreceptacleamphenol1241548e42a--connector_usb--usb_c_receptacle_amphenol_12401548e4-2a)
+	* [Tags](#tags)
   
 ![][im]
 # FZKCNUUCRECEPTACLEAMPHENOL1241548E42A > Connector_USB : USB_C_Receptacle_Amphenol_12401548E4-2A
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKCNUUCRECEPTACLEAMPHENOL1241548E42A](http://oom.lt/FZKCNUUCRECEPTACLEAMPHENOL1241548E42A)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_C_Receptacle_Amphenol_12401548E4-2A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_C_Receptacle_Amphenol_12401548E4-2A/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_C_Receptacle_Amphenol_12401548E4-2A/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_C_Receptacle_Amphenol_12401548E4-2A/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_C_Receptacle_Amphenol_12401548E4-2A/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_C_Receptacle_Amphenol_12401548E4-2A/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_C_Receptacle_Amphenol_12401548E4-2A/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_C_Receptacle_Amphenol_12401548E4-2A/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_C_Receptacle_Amphenol_12401548E4-2A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_C_Receptacle_Amphenol_12401548E4-2A/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_C_Receptacle_Amphenol_12401548E4-2A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_C_Receptacle_Amphenol_12401548E4-2A/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_C_Receptacle_Amphenol_12401548E4-2A/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_C_Receptacle_Amphenol_12401548E4-2A/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_C_Receptacle_Amphenol_12401548E4-2A/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_C_Receptacle_Amphenol_12401548E4-2A/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_C_Receptacle_Amphenol_12401548E4-2A/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_C_Receptacle_Amphenol_12401548E4-2A/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB_C_Receptacle_Amphenol_12401548E4-2A/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

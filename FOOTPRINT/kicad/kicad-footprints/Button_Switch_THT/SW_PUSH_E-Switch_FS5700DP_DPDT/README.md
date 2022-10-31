@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKBSWPUSHESWITCHFS57DPDPDT > Button_Switch_THT : SW_PUSH_E-Switch_FS5700DP_DPDT](#fzkbswpusheswitchfs57dpdpdt--button_switch_tht--sw_push_e-switch_fs5700dp_dpdt)
+	* [Tags](#tags)
   
 ![][im]
 # FZKBSWPUSHESWITCHFS57DPDPDT > Button_Switch_THT : SW_PUSH_E-Switch_FS5700DP_DPDT
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKBSWPUSHESWITCHFS57DPDPDT](http://oom.lt/FZKBSWPUSHESWITCHFS57DPDPDT)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_PUSH_E-Switch_FS5700DP_DPDT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_PUSH_E-Switch_FS5700DP_DPDT/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_PUSH_E-Switch_FS5700DP_DPDT/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_PUSH_E-Switch_FS5700DP_DPDT/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_PUSH_E-Switch_FS5700DP_DPDT/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_PUSH_E-Switch_FS5700DP_DPDT/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_PUSH_E-Switch_FS5700DP_DPDT/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_PUSH_E-Switch_FS5700DP_DPDT/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_PUSH_E-Switch_FS5700DP_DPDT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_PUSH_E-Switch_FS5700DP_DPDT/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_PUSH_E-Switch_FS5700DP_DPDT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_PUSH_E-Switch_FS5700DP_DPDT/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_PUSH_E-Switch_FS5700DP_DPDT/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_PUSH_E-Switch_FS5700DP_DPDT/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_PUSH_E-Switch_FS5700DP_DPDT/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_PUSH_E-Switch_FS5700DP_DPDT/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_PUSH_E-Switch_FS5700DP_DPDT/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_PUSH_E-Switch_FS5700DP_DPDT/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_PUSH_E-Switch_FS5700DP_DPDT/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKREROTARYENCODERALPSEC12EVERTICALH2 > Rotary_Encoder : RotaryEncoder_Alps_EC12E_Vertical_H20mm](#fzkrerotaryencoderalpsec12everticalh2--rotary_encoder--rotaryencoder_alps_ec12e_vertical_h20mm)
+	* [Tags](#tags)
   
 ![][im]
 # FZKREROTARYENCODERALPSEC12EVERTICALH2 > Rotary_Encoder : RotaryEncoder_Alps_EC12E_Vertical_H20mm
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKREROTARYENCODERALPSEC12EVERTICALH2](http://oom.lt/FZKREROTARYENCODERALPSEC12EVERTICALH2)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Rotary_Encoder/RotaryEncoder_Alps_EC12E_Vertical_H20mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Rotary_Encoder/RotaryEncoder_Alps_EC12E_Vertical_H20mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Rotary_Encoder/RotaryEncoder_Alps_EC12E_Vertical_H20mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Rotary_Encoder/RotaryEncoder_Alps_EC12E_Vertical_H20mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Rotary_Encoder/RotaryEncoder_Alps_EC12E_Vertical_H20mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Rotary_Encoder/RotaryEncoder_Alps_EC12E_Vertical_H20mm/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Rotary_Encoder/RotaryEncoder_Alps_EC12E_Vertical_H20mm/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Rotary_Encoder/RotaryEncoder_Alps_EC12E_Vertical_H20mm/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Rotary_Encoder/RotaryEncoder_Alps_EC12E_Vertical_H20mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Rotary_Encoder/RotaryEncoder_Alps_EC12E_Vertical_H20mm/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Rotary_Encoder/RotaryEncoder_Alps_EC12E_Vertical_H20mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Rotary_Encoder/RotaryEncoder_Alps_EC12E_Vertical_H20mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Rotary_Encoder/RotaryEncoder_Alps_EC12E_Vertical_H20mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Rotary_Encoder/RotaryEncoder_Alps_EC12E_Vertical_H20mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Rotary_Encoder/RotaryEncoder_Alps_EC12E_Vertical_H20mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Rotary_Encoder/RotaryEncoder_Alps_EC12E_Vertical_H20mm/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Rotary_Encoder/RotaryEncoder_Alps_EC12E_Vertical_H20mm/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Rotary_Encoder/RotaryEncoder_Alps_EC12E_Vertical_H20mm/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Rotary_Encoder/RotaryEncoder_Alps_EC12E_Vertical_H20mm/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

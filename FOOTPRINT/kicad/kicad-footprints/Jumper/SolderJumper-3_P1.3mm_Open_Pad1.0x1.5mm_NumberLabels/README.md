@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKJSOLDERJ3P13OPENPAD1X15NUMBERLABELS > Jumper : SolderJumper-3_P1.3mm_Open_Pad1.0x1.5mm_NumberLabels](#fzkjsolderj3p13openpad1x15numberlabels--jumper--solderjumper-3_p13mm_open_pad10x15mm_numberlabels)
+	* [Tags](#tags)
   
 ![][im]
 # FZKJSOLDERJ3P13OPENPAD1X15NUMBERLABELS > Jumper : SolderJumper-3_P1.3mm_Open_Pad1.0x1.5mm_NumberLabels
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKJSOLDERJ3P13OPENPAD1X15NUMBERLABELS](http://oom.lt/FZKJSOLDERJ3P13OPENPAD1X15NUMBERLABELS)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Jumper/SolderJumper-3_P1.3mm_Open_Pad1.0x1.5mm_NumberLabels/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Jumper/SolderJumper-3_P1.3mm_Open_Pad1.0x1.5mm_NumberLabels/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Jumper/SolderJumper-3_P1.3mm_Open_Pad1.0x1.5mm_NumberLabels/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Jumper/SolderJumper-3_P1.3mm_Open_Pad1.0x1.5mm_NumberLabels/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Jumper/SolderJumper-3_P1.3mm_Open_Pad1.0x1.5mm_NumberLabels/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Jumper/SolderJumper-3_P1.3mm_Open_Pad1.0x1.5mm_NumberLabels/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Jumper/SolderJumper-3_P1.3mm_Open_Pad1.0x1.5mm_NumberLabels/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Jumper/SolderJumper-3_P1.3mm_Open_Pad1.0x1.5mm_NumberLabels/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Jumper/SolderJumper-3_P1.3mm_Open_Pad1.0x1.5mm_NumberLabels/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Jumper/SolderJumper-3_P1.3mm_Open_Pad1.0x1.5mm_NumberLabels/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Jumper/SolderJumper-3_P1.3mm_Open_Pad1.0x1.5mm_NumberLabels/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Jumper/SolderJumper-3_P1.3mm_Open_Pad1.0x1.5mm_NumberLabels/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Jumper/SolderJumper-3_P1.3mm_Open_Pad1.0x1.5mm_NumberLabels/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Jumper/SolderJumper-3_P1.3mm_Open_Pad1.0x1.5mm_NumberLabels/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Jumper/SolderJumper-3_P1.3mm_Open_Pad1.0x1.5mm_NumberLabels/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Jumper/SolderJumper-3_P1.3mm_Open_Pad1.0x1.5mm_NumberLabels/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Jumper/SolderJumper-3_P1.3mm_Open_Pad1.0x1.5mm_NumberLabels/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Jumper/SolderJumper-3_P1.3mm_Open_Pad1.0x1.5mm_NumberLabels/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Jumper/SolderJumper-3_P1.3mm_Open_Pad1.0x1.5mm_NumberLabels/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

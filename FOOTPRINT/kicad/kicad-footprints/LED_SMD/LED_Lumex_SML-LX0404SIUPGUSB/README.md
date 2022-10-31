@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKLSMLLUMEXSMLLX44SIUPGU > LED_SMD : LED_Lumex_SML-LX0404SIUPGUSB](#fzklsmllumexsmllx44siupgu--led_smd--led_lumex_sml-lx0404siupgusb)
+	* [Tags](#tags)
   
 ![][im]
 # FZKLSMLLUMEXSMLLX44SIUPGU > LED_SMD : LED_Lumex_SML-LX0404SIUPGUSB
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKLSMLLUMEXSMLLX44SIUPGU](http://oom.lt/FZKLSMLLUMEXSMLLX44SIUPGU)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Lumex_SML-LX0404SIUPGUSB/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Lumex_SML-LX0404SIUPGUSB/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Lumex_SML-LX0404SIUPGUSB/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Lumex_SML-LX0404SIUPGUSB/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Lumex_SML-LX0404SIUPGUSB/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Lumex_SML-LX0404SIUPGUSB/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Lumex_SML-LX0404SIUPGUSB/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Lumex_SML-LX0404SIUPGUSB/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Lumex_SML-LX0404SIUPGUSB/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Lumex_SML-LX0404SIUPGUSB/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Lumex_SML-LX0404SIUPGUSB/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Lumex_SML-LX0404SIUPGUSB/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Lumex_SML-LX0404SIUPGUSB/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Lumex_SML-LX0404SIUPGUSB/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Lumex_SML-LX0404SIUPGUSB/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Lumex_SML-LX0404SIUPGUSB/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Lumex_SML-LX0404SIUPGUSB/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Lumex_SML-LX0404SIUPGUSB/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Lumex_SML-LX0404SIUPGUSB/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

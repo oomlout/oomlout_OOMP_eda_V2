@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKCNHDMIHDMIACONTACTTECHNOLOGYHDMI19APL2HORIZONTAL > Connector_HDMI : HDMI_A_Contact_Technology_HDMI-19APL2_Horizontal](#fzkcnhdmihdmiacontacttechnologyhdmi19apl2horizontal--connector_hdmi--hdmi_a_contact_technology_hdmi-19apl2_horizontal)
+	* [Tags](#tags)
   
 ![][im]
 # FZKCNHDMIHDMIACONTACTTECHNOLOGYHDMI19APL2HORIZONTAL > Connector_HDMI : HDMI_A_Contact_Technology_HDMI-19APL2_Horizontal
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKCNHDMIHDMIACONTACTTECHNOLOGYHDMI19APL2HORIZONTAL](http://oom.lt/FZKCNHDMIHDMIACONTACTTECHNOLOGYHDMI19APL2HORIZONTAL)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_HDMI/HDMI_A_Contact_Technology_HDMI-19APL2_Horizontal/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_HDMI/HDMI_A_Contact_Technology_HDMI-19APL2_Horizontal/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_HDMI/HDMI_A_Contact_Technology_HDMI-19APL2_Horizontal/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_HDMI/HDMI_A_Contact_Technology_HDMI-19APL2_Horizontal/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_HDMI/HDMI_A_Contact_Technology_HDMI-19APL2_Horizontal/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_HDMI/HDMI_A_Contact_Technology_HDMI-19APL2_Horizontal/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_HDMI/HDMI_A_Contact_Technology_HDMI-19APL2_Horizontal/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_HDMI/HDMI_A_Contact_Technology_HDMI-19APL2_Horizontal/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_HDMI/HDMI_A_Contact_Technology_HDMI-19APL2_Horizontal/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_HDMI/HDMI_A_Contact_Technology_HDMI-19APL2_Horizontal/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_HDMI/HDMI_A_Contact_Technology_HDMI-19APL2_Horizontal/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_HDMI/HDMI_A_Contact_Technology_HDMI-19APL2_Horizontal/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_HDMI/HDMI_A_Contact_Technology_HDMI-19APL2_Horizontal/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_HDMI/HDMI_A_Contact_Technology_HDMI-19APL2_Horizontal/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_HDMI/HDMI_A_Contact_Technology_HDMI-19APL2_Horizontal/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_HDMI/HDMI_A_Contact_Technology_HDMI-19APL2_Horizontal/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_HDMI/HDMI_A_Contact_Technology_HDMI-19APL2_Horizontal/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_HDMI/HDMI_A_Contact_Technology_HDMI-19APL2_Horizontal/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Connector_HDMI/HDMI_A_Contact_Technology_HDMI-19APL2_Horizontal/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKSENCURRENTAKMCZSS165X81P95 > Sensor_Current : AKM_CZ_SSOP-10_6.5x8.1mm_P0.95mm](#fzksencurrentakmczss165x81p95--sensor_current--akm_cz_ssop-10_65x81mm_p095mm)
+	* [Tags](#tags)
   
 ![][im]
 # FZKSENCURRENTAKMCZSS165X81P95 > Sensor_Current : AKM_CZ_SSOP-10_6.5x8.1mm_P0.95mm
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKSENCURRENTAKMCZSS165X81P95](http://oom.lt/FZKSENCURRENTAKMCZSS165X81P95)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Current/AKM_CZ_SSOP-10_6.5x8.1mm_P0.95mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Current/AKM_CZ_SSOP-10_6.5x8.1mm_P0.95mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Current/AKM_CZ_SSOP-10_6.5x8.1mm_P0.95mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Current/AKM_CZ_SSOP-10_6.5x8.1mm_P0.95mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Current/AKM_CZ_SSOP-10_6.5x8.1mm_P0.95mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Current/AKM_CZ_SSOP-10_6.5x8.1mm_P0.95mm/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Current/AKM_CZ_SSOP-10_6.5x8.1mm_P0.95mm/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Current/AKM_CZ_SSOP-10_6.5x8.1mm_P0.95mm/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Current/AKM_CZ_SSOP-10_6.5x8.1mm_P0.95mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Current/AKM_CZ_SSOP-10_6.5x8.1mm_P0.95mm/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Current/AKM_CZ_SSOP-10_6.5x8.1mm_P0.95mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Current/AKM_CZ_SSOP-10_6.5x8.1mm_P0.95mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Current/AKM_CZ_SSOP-10_6.5x8.1mm_P0.95mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Current/AKM_CZ_SSOP-10_6.5x8.1mm_P0.95mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Current/AKM_CZ_SSOP-10_6.5x8.1mm_P0.95mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Current/AKM_CZ_SSOP-10_6.5x8.1mm_P0.95mm/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Current/AKM_CZ_SSOP-10_6.5x8.1mm_P0.95mm/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Current/AKM_CZ_SSOP-10_6.5x8.1mm_P0.95mm/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Sensor_Current/AKM_CZ_SSOP-10_6.5x8.1mm_P0.95mm/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

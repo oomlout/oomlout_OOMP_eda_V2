@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKOPBROADCOMLGA82X2P53 > OptoDevice : Broadcom_LGA-8_2x2mm_P0.53mm](#fzkopbroadcomlga82x2p53--optodevice--broadcom_lga-8_2x2mm_p053mm)
+	* [Tags](#tags)
   
 ![][im]
 # FZKOPBROADCOMLGA82X2P53 > OptoDevice : Broadcom_LGA-8_2x2mm_P0.53mm
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKOPBROADCOMLGA82X2P53](http://oom.lt/FZKOPBROADCOMLGA82X2P53)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Broadcom_LGA-8_2x2mm_P0.53mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Broadcom_LGA-8_2x2mm_P0.53mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Broadcom_LGA-8_2x2mm_P0.53mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Broadcom_LGA-8_2x2mm_P0.53mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Broadcom_LGA-8_2x2mm_P0.53mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Broadcom_LGA-8_2x2mm_P0.53mm/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Broadcom_LGA-8_2x2mm_P0.53mm/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Broadcom_LGA-8_2x2mm_P0.53mm/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Broadcom_LGA-8_2x2mm_P0.53mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Broadcom_LGA-8_2x2mm_P0.53mm/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Broadcom_LGA-8_2x2mm_P0.53mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Broadcom_LGA-8_2x2mm_P0.53mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Broadcom_LGA-8_2x2mm_P0.53mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Broadcom_LGA-8_2x2mm_P0.53mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Broadcom_LGA-8_2x2mm_P0.53mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Broadcom_LGA-8_2x2mm_P0.53mm/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Broadcom_LGA-8_2x2mm_P0.53mm/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/OptoDevice/Broadcom_LGA-8_2x2mm_P0.53mm/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/OptoDevice/Broadcom_LGA-8_2x2mm_P0.53mm/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

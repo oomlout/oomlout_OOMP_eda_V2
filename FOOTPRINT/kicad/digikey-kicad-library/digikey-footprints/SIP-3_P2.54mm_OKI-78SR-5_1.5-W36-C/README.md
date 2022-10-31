@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSIP3P254OKI78SR515W36C > digikey-footprints : SIP-3_P2.54mm_OKI-78SR-5_1.5-W36-C](#fzkicaddigikeykicadlibrarydigikeyfootprintssip3p254oki78sr515w36c--digikey-footprints--sip-3_p254mm_oki-78sr-5_15-w36-c)
+	* [Tags](#tags)
   
 ![][im]
 # FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSIP3P254OKI78SR515W36C > digikey-footprints : SIP-3_P2.54mm_OKI-78SR-5_1.5-W36-C
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSIP3P254OKI78SR515W36C](http://oom.lt/FZKICADDIGIKEYKICADLIBRARYDIGIKEYFOOTPRINTSSIP3P254OKI78SR515W36C)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/SIP-3_P2.54mm_OKI-78SR-5_1.5-W36-C/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/SIP-3_P2.54mm_OKI-78SR-5_1.5-W36-C/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/SIP-3_P2.54mm_OKI-78SR-5_1.5-W36-C/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/SIP-3_P2.54mm_OKI-78SR-5_1.5-W36-C/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/SIP-3_P2.54mm_OKI-78SR-5_1.5-W36-C/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/SIP-3_P2.54mm_OKI-78SR-5_1.5-W36-C/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/SIP-3_P2.54mm_OKI-78SR-5_1.5-W36-C/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/SIP-3_P2.54mm_OKI-78SR-5_1.5-W36-C/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/SIP-3_P2.54mm_OKI-78SR-5_1.5-W36-C/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/SIP-3_P2.54mm_OKI-78SR-5_1.5-W36-C/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/SIP-3_P2.54mm_OKI-78SR-5_1.5-W36-C/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/SIP-3_P2.54mm_OKI-78SR-5_1.5-W36-C/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/SIP-3_P2.54mm_OKI-78SR-5_1.5-W36-C/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/SIP-3_P2.54mm_OKI-78SR-5_1.5-W36-C/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/SIP-3_P2.54mm_OKI-78SR-5_1.5-W36-C/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/SIP-3_P2.54mm_OKI-78SR-5_1.5-W36-C/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/SIP-3_P2.54mm_OKI-78SR-5_1.5-W36-C/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/SIP-3_P2.54mm_OKI-78SR-5_1.5-W36-C/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/SIP-3_P2.54mm_OKI-78SR-5_1.5-W36-C/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

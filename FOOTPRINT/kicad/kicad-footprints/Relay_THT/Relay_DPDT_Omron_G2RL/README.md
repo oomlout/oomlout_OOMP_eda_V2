@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKRELRELAYDPDTOMRONG2RL > Relay_THT : Relay_DPDT_Omron_G2RL](#fzkrelrelaydpdtomrong2rl--relay_tht--relay_dpdt_omron_g2rl)
+	* [Tags](#tags)
   
 ![][im]
 # FZKRELRELAYDPDTOMRONG2RL > Relay_THT : Relay_DPDT_Omron_G2RL
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKRELRELAYDPDTOMRONG2RL](http://oom.lt/FZKRELRELAYDPDTOMRONG2RL)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_DPDT_Omron_G2RL/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_DPDT_Omron_G2RL/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_DPDT_Omron_G2RL/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_DPDT_Omron_G2RL/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_DPDT_Omron_G2RL/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_DPDT_Omron_G2RL/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_DPDT_Omron_G2RL/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_DPDT_Omron_G2RL/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_DPDT_Omron_G2RL/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_DPDT_Omron_G2RL/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_DPDT_Omron_G2RL/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_DPDT_Omron_G2RL/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_DPDT_Omron_G2RL/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_DPDT_Omron_G2RL/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_DPDT_Omron_G2RL/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_DPDT_Omron_G2RL/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_DPDT_Omron_G2RL/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_DPDT_Omron_G2RL/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_DPDT_Omron_G2RL/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

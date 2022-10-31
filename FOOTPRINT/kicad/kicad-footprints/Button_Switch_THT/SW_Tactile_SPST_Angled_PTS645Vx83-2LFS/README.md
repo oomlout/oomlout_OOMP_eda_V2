@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKBSWTACTILESPSTANGLPTS645VX832LFS > Button_Switch_THT : SW_Tactile_SPST_Angled_PTS645Vx83-2LFS](#fzkbswtactilespstanglpts645vx832lfs--button_switch_tht--sw_tactile_spst_angled_pts645vx83-2lfs)
+	* [Tags](#tags)
   
 ![][im]
 # FZKBSWTACTILESPSTANGLPTS645VX832LFS > Button_Switch_THT : SW_Tactile_SPST_Angled_PTS645Vx83-2LFS
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKBSWTACTILESPSTANGLPTS645VX832LFS](http://oom.lt/FZKBSWTACTILESPSTANGLPTS645VX832LFS)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_Tactile_SPST_Angled_PTS645Vx83-2LFS/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_Tactile_SPST_Angled_PTS645Vx83-2LFS/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_Tactile_SPST_Angled_PTS645Vx83-2LFS/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_Tactile_SPST_Angled_PTS645Vx83-2LFS/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_Tactile_SPST_Angled_PTS645Vx83-2LFS/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_Tactile_SPST_Angled_PTS645Vx83-2LFS/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_Tactile_SPST_Angled_PTS645Vx83-2LFS/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_Tactile_SPST_Angled_PTS645Vx83-2LFS/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_Tactile_SPST_Angled_PTS645Vx83-2LFS/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_Tactile_SPST_Angled_PTS645Vx83-2LFS/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_Tactile_SPST_Angled_PTS645Vx83-2LFS/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_Tactile_SPST_Angled_PTS645Vx83-2LFS/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_Tactile_SPST_Angled_PTS645Vx83-2LFS/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_Tactile_SPST_Angled_PTS645Vx83-2LFS/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_Tactile_SPST_Angled_PTS645Vx83-2LFS/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_Tactile_SPST_Angled_PTS645Vx83-2LFS/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_Tactile_SPST_Angled_PTS645Vx83-2LFS/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_Tactile_SPST_Angled_PTS645Vx83-2LFS/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_Tactile_SPST_Angled_PTS645Vx83-2LFS/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

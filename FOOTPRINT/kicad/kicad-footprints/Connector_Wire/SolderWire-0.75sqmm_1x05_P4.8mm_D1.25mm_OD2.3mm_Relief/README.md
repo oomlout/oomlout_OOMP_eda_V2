@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKCNWIRESOLDERWIRE75SQ1X5P48D125OD23RELIEF > Connector_Wire : SolderWire-0.75sqmm_1x05_P4.8mm_D1.25mm_OD2.3mm_Relief](#fzkcnwiresolderwire75sq1x5p48d125od23relief--connector_wire--solderwire-075sqmm_1x05_p48mm_d125mm_od23mm_relief)
+	* [Tags](#tags)
   
 ![][im]
 # FZKCNWIRESOLDERWIRE75SQ1X5P48D125OD23RELIEF > Connector_Wire : SolderWire-0.75sqmm_1x05_P4.8mm_D1.25mm_OD2.3mm_Relief
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKCNWIRESOLDERWIRE75SQ1X5P48D125OD23RELIEF](http://oom.lt/FZKCNWIRESOLDERWIRE75SQ1X5P48D125OD23RELIEF)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Wire/SolderWire-0.75sqmm_1x05_P4.8mm_D1.25mm_OD2.3mm_Relief/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Wire/SolderWire-0.75sqmm_1x05_P4.8mm_D1.25mm_OD2.3mm_Relief/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Wire/SolderWire-0.75sqmm_1x05_P4.8mm_D1.25mm_OD2.3mm_Relief/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Wire/SolderWire-0.75sqmm_1x05_P4.8mm_D1.25mm_OD2.3mm_Relief/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Wire/SolderWire-0.75sqmm_1x05_P4.8mm_D1.25mm_OD2.3mm_Relief/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Wire/SolderWire-0.75sqmm_1x05_P4.8mm_D1.25mm_OD2.3mm_Relief/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Wire/SolderWire-0.75sqmm_1x05_P4.8mm_D1.25mm_OD2.3mm_Relief/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Wire/SolderWire-0.75sqmm_1x05_P4.8mm_D1.25mm_OD2.3mm_Relief/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Wire/SolderWire-0.75sqmm_1x05_P4.8mm_D1.25mm_OD2.3mm_Relief/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Wire/SolderWire-0.75sqmm_1x05_P4.8mm_D1.25mm_OD2.3mm_Relief/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Wire/SolderWire-0.75sqmm_1x05_P4.8mm_D1.25mm_OD2.3mm_Relief/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Wire/SolderWire-0.75sqmm_1x05_P4.8mm_D1.25mm_OD2.3mm_Relief/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Wire/SolderWire-0.75sqmm_1x05_P4.8mm_D1.25mm_OD2.3mm_Relief/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Wire/SolderWire-0.75sqmm_1x05_P4.8mm_D1.25mm_OD2.3mm_Relief/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Wire/SolderWire-0.75sqmm_1x05_P4.8mm_D1.25mm_OD2.3mm_Relief/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Wire/SolderWire-0.75sqmm_1x05_P4.8mm_D1.25mm_OD2.3mm_Relief/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Wire/SolderWire-0.75sqmm_1x05_P4.8mm_D1.25mm_OD2.3mm_Relief/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Wire/SolderWire-0.75sqmm_1x05_P4.8mm_D1.25mm_OD2.3mm_Relief/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Connector_Wire/SolderWire-0.75sqmm_1x05_P4.8mm_D1.25mm_OD2.3mm_Relief/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

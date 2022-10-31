@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKTBPHILMORETBPHILMORETB1331X3P5HORIZONTAL > TerminalBlock_Philmore : TerminalBlock_Philmore_TB133_1x03_P5.00mm_Horizontal](#fzktbphilmoretbphilmoretb1331x3p5horizontal--terminalblock_philmore--terminalblock_philmore_tb133_1x03_p500mm_horizontal)
+	* [Tags](#tags)
   
 ![][im]
 # FZKTBPHILMORETBPHILMORETB1331X3P5HORIZONTAL > TerminalBlock_Philmore : TerminalBlock_Philmore_TB133_1x03_P5.00mm_Horizontal
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKTBPHILMORETBPHILMORETB1331X3P5HORIZONTAL](http://oom.lt/FZKTBPHILMORETBPHILMORETB1331X3P5HORIZONTAL)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_Philmore/TerminalBlock_Philmore_TB133_1x03_P5.00mm_Horizontal/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_Philmore/TerminalBlock_Philmore_TB133_1x03_P5.00mm_Horizontal/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_Philmore/TerminalBlock_Philmore_TB133_1x03_P5.00mm_Horizontal/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_Philmore/TerminalBlock_Philmore_TB133_1x03_P5.00mm_Horizontal/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_Philmore/TerminalBlock_Philmore_TB133_1x03_P5.00mm_Horizontal/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_Philmore/TerminalBlock_Philmore_TB133_1x03_P5.00mm_Horizontal/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_Philmore/TerminalBlock_Philmore_TB133_1x03_P5.00mm_Horizontal/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_Philmore/TerminalBlock_Philmore_TB133_1x03_P5.00mm_Horizontal/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_Philmore/TerminalBlock_Philmore_TB133_1x03_P5.00mm_Horizontal/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_Philmore/TerminalBlock_Philmore_TB133_1x03_P5.00mm_Horizontal/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_Philmore/TerminalBlock_Philmore_TB133_1x03_P5.00mm_Horizontal/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_Philmore/TerminalBlock_Philmore_TB133_1x03_P5.00mm_Horizontal/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_Philmore/TerminalBlock_Philmore_TB133_1x03_P5.00mm_Horizontal/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_Philmore/TerminalBlock_Philmore_TB133_1x03_P5.00mm_Horizontal/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_Philmore/TerminalBlock_Philmore_TB133_1x03_P5.00mm_Horizontal/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_Philmore/TerminalBlock_Philmore_TB133_1x03_P5.00mm_Horizontal/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_Philmore/TerminalBlock_Philmore_TB133_1x03_P5.00mm_Horizontal/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_Philmore/TerminalBlock_Philmore_TB133_1x03_P5.00mm_Horizontal/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/TerminalBlock_Philmore/TerminalBlock_Philmore_TB133_1x03_P5.00mm_Horizontal/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

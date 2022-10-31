@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKCNAMPHENOLAMPHENOLM8S3PRSF81 > Connector_Amphenol : Amphenol_M8S-03PMMR-SF8001](#fzkcnamphenolamphenolm8s3prsf81--connector_amphenol--amphenol_m8s-03pmmr-sf8001)
+	* [Tags](#tags)
   
 ![][im]
 # FZKCNAMPHENOLAMPHENOLM8S3PRSF81 > Connector_Amphenol : Amphenol_M8S-03PMMR-SF8001
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKCNAMPHENOLAMPHENOLM8S3PRSF81](http://oom.lt/FZKCNAMPHENOLAMPHENOLM8S3PRSF81)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Amphenol/Amphenol_M8S-03PMMR-SF8001/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Amphenol/Amphenol_M8S-03PMMR-SF8001/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Amphenol/Amphenol_M8S-03PMMR-SF8001/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Amphenol/Amphenol_M8S-03PMMR-SF8001/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Amphenol/Amphenol_M8S-03PMMR-SF8001/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Amphenol/Amphenol_M8S-03PMMR-SF8001/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Amphenol/Amphenol_M8S-03PMMR-SF8001/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Amphenol/Amphenol_M8S-03PMMR-SF8001/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Amphenol/Amphenol_M8S-03PMMR-SF8001/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Amphenol/Amphenol_M8S-03PMMR-SF8001/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Amphenol/Amphenol_M8S-03PMMR-SF8001/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Amphenol/Amphenol_M8S-03PMMR-SF8001/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Amphenol/Amphenol_M8S-03PMMR-SF8001/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Amphenol/Amphenol_M8S-03PMMR-SF8001/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Amphenol/Amphenol_M8S-03PMMR-SF8001/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Amphenol/Amphenol_M8S-03PMMR-SF8001/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Amphenol/Amphenol_M8S-03PMMR-SF8001/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Amphenol/Amphenol_M8S-03PMMR-SF8001/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Connector_Amphenol/Amphenol_M8S-03PMMR-SF8001/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

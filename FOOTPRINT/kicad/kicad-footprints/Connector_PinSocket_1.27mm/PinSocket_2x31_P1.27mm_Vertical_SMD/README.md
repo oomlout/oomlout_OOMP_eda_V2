@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKCNPINSO127PINSO2X31P127VERTICALSM > Connector_PinSocket_1.27mm : PinSocket_2x31_P1.27mm_Vertical_SMD](#fzkcnpinso127pinso2x31p127verticalsm--connector_pinsocket_127mm--pinsocket_2x31_p127mm_vertical_smd)
+	* [Tags](#tags)
   
 ![][im]
 # FZKCNPINSO127PINSO2X31P127VERTICALSM > Connector_PinSocket_1.27mm : PinSocket_2x31_P1.27mm_Vertical_SMD
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKCNPINSO127PINSO2X31P127VERTICALSM](http://oom.lt/FZKCNPINSO127PINSO2X31P127VERTICALSM)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_PinSocket_1.27mm/PinSocket_2x31_P1.27mm_Vertical_SMD/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_PinSocket_1.27mm/PinSocket_2x31_P1.27mm_Vertical_SMD/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_PinSocket_1.27mm/PinSocket_2x31_P1.27mm_Vertical_SMD/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_PinSocket_1.27mm/PinSocket_2x31_P1.27mm_Vertical_SMD/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_PinSocket_1.27mm/PinSocket_2x31_P1.27mm_Vertical_SMD/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_PinSocket_1.27mm/PinSocket_2x31_P1.27mm_Vertical_SMD/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_PinSocket_1.27mm/PinSocket_2x31_P1.27mm_Vertical_SMD/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_PinSocket_1.27mm/PinSocket_2x31_P1.27mm_Vertical_SMD/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_PinSocket_1.27mm/PinSocket_2x31_P1.27mm_Vertical_SMD/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_PinSocket_1.27mm/PinSocket_2x31_P1.27mm_Vertical_SMD/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_PinSocket_1.27mm/PinSocket_2x31_P1.27mm_Vertical_SMD/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_PinSocket_1.27mm/PinSocket_2x31_P1.27mm_Vertical_SMD/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_PinSocket_1.27mm/PinSocket_2x31_P1.27mm_Vertical_SMD/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_PinSocket_1.27mm/PinSocket_2x31_P1.27mm_Vertical_SMD/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_PinSocket_1.27mm/PinSocket_2x31_P1.27mm_Vertical_SMD/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_PinSocket_1.27mm/PinSocket_2x31_P1.27mm_Vertical_SMD/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_PinSocket_1.27mm/PinSocket_2x31_P1.27mm_Vertical_SMD/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_PinSocket_1.27mm/PinSocket_2x31_P1.27mm_Vertical_SMD/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Connector_PinSocket_1.27mm/PinSocket_2x31_P1.27mm_Vertical_SMD/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

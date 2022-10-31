@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKRRBAREMETALELEMENTL124W48P114 > Resistor_THT : R_Bare_Metal_Element_L12.4mm_W4.8mm_P11.40mm](#fzkrrbaremetalelementl124w48p114--resistor_tht--r_bare_metal_element_l124mm_w48mm_p1140mm)
+	* [Tags](#tags)
   
 ![][im]
 # FZKRRBAREMETALELEMENTL124W48P114 > Resistor_THT : R_Bare_Metal_Element_L12.4mm_W4.8mm_P11.40mm
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKRRBAREMETALELEMENTL124W48P114](http://oom.lt/FZKRRBAREMETALELEMENTL124W48P114)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Bare_Metal_Element_L12.4mm_W4.8mm_P11.40mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Bare_Metal_Element_L12.4mm_W4.8mm_P11.40mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Bare_Metal_Element_L12.4mm_W4.8mm_P11.40mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Bare_Metal_Element_L12.4mm_W4.8mm_P11.40mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Bare_Metal_Element_L12.4mm_W4.8mm_P11.40mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Bare_Metal_Element_L12.4mm_W4.8mm_P11.40mm/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Bare_Metal_Element_L12.4mm_W4.8mm_P11.40mm/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Bare_Metal_Element_L12.4mm_W4.8mm_P11.40mm/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Bare_Metal_Element_L12.4mm_W4.8mm_P11.40mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Bare_Metal_Element_L12.4mm_W4.8mm_P11.40mm/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Bare_Metal_Element_L12.4mm_W4.8mm_P11.40mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Bare_Metal_Element_L12.4mm_W4.8mm_P11.40mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Bare_Metal_Element_L12.4mm_W4.8mm_P11.40mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Bare_Metal_Element_L12.4mm_W4.8mm_P11.40mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Bare_Metal_Element_L12.4mm_W4.8mm_P11.40mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Bare_Metal_Element_L12.4mm_W4.8mm_P11.40mm/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Bare_Metal_Element_L12.4mm_W4.8mm_P11.40mm/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Bare_Metal_Element_L12.4mm_W4.8mm_P11.40mm/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Bare_Metal_Element_L12.4mm_W4.8mm_P11.40mm/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

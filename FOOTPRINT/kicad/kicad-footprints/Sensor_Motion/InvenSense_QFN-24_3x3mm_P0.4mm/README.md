@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKSENMOTIONINVENSENSEQFN243X3P4 > Sensor_Motion : InvenSense_QFN-24_3x3mm_P0.4mm](#fzksenmotioninvensenseqfn243x3p4--sensor_motion--invensense_qfn-24_3x3mm_p04mm)
+	* [Tags](#tags)
   
 ![][im]
 # FZKSENMOTIONINVENSENSEQFN243X3P4 > Sensor_Motion : InvenSense_QFN-24_3x3mm_P0.4mm
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKSENMOTIONINVENSENSEQFN243X3P4](http://oom.lt/FZKSENMOTIONINVENSENSEQFN243X3P4)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Motion/InvenSense_QFN-24_3x3mm_P0.4mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Motion/InvenSense_QFN-24_3x3mm_P0.4mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Motion/InvenSense_QFN-24_3x3mm_P0.4mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Motion/InvenSense_QFN-24_3x3mm_P0.4mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Motion/InvenSense_QFN-24_3x3mm_P0.4mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Motion/InvenSense_QFN-24_3x3mm_P0.4mm/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Motion/InvenSense_QFN-24_3x3mm_P0.4mm/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Motion/InvenSense_QFN-24_3x3mm_P0.4mm/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Motion/InvenSense_QFN-24_3x3mm_P0.4mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Motion/InvenSense_QFN-24_3x3mm_P0.4mm/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Motion/InvenSense_QFN-24_3x3mm_P0.4mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Motion/InvenSense_QFN-24_3x3mm_P0.4mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Motion/InvenSense_QFN-24_3x3mm_P0.4mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Motion/InvenSense_QFN-24_3x3mm_P0.4mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Motion/InvenSense_QFN-24_3x3mm_P0.4mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Motion/InvenSense_QFN-24_3x3mm_P0.4mm/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Motion/InvenSense_QFN-24_3x3mm_P0.4mm/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Sensor_Motion/InvenSense_QFN-24_3x3mm_P0.4mm/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Sensor_Motion/InvenSense_QFN-24_3x3mm_P0.4mm/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

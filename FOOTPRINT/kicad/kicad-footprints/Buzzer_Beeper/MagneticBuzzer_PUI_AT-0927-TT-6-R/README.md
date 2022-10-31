@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKBZMAGNETICBUZZERPUIAT927TT6R > Buzzer_Beeper : MagneticBuzzer_PUI_AT-0927-TT-6-R](#fzkbzmagneticbuzzerpuiat927tt6r--buzzer_beeper--magneticbuzzer_pui_at-0927-tt-6-r)
+	* [Tags](#tags)
   
 ![][im]
 # FZKBZMAGNETICBUZZERPUIAT927TT6R > Buzzer_Beeper : MagneticBuzzer_PUI_AT-0927-TT-6-R
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKBZMAGNETICBUZZERPUIAT927TT6R](http://oom.lt/FZKBZMAGNETICBUZZERPUIAT927TT6R)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/MagneticBuzzer_PUI_AT-0927-TT-6-R/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/MagneticBuzzer_PUI_AT-0927-TT-6-R/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/MagneticBuzzer_PUI_AT-0927-TT-6-R/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/MagneticBuzzer_PUI_AT-0927-TT-6-R/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/MagneticBuzzer_PUI_AT-0927-TT-6-R/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/MagneticBuzzer_PUI_AT-0927-TT-6-R/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/MagneticBuzzer_PUI_AT-0927-TT-6-R/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/MagneticBuzzer_PUI_AT-0927-TT-6-R/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/MagneticBuzzer_PUI_AT-0927-TT-6-R/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/MagneticBuzzer_PUI_AT-0927-TT-6-R/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/MagneticBuzzer_PUI_AT-0927-TT-6-R/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/MagneticBuzzer_PUI_AT-0927-TT-6-R/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/MagneticBuzzer_PUI_AT-0927-TT-6-R/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/MagneticBuzzer_PUI_AT-0927-TT-6-R/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/MagneticBuzzer_PUI_AT-0927-TT-6-R/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/MagneticBuzzer_PUI_AT-0927-TT-6-R/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/MagneticBuzzer_PUI_AT-0927-TT-6-R/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/MagneticBuzzer_PUI_AT-0927-TT-6-R/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Buzzer_Beeper/MagneticBuzzer_PUI_AT-0927-TT-6-R/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

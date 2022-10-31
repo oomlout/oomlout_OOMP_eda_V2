@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKDDIODEBRIDGE286X286X73P18P116 > Diode_THT : Diode_Bridge_28.6x28.6x7.3mm_P18.0mm_P11.6mm](#fzkddiodebridge286x286x73p18p116--diode_tht--diode_bridge_286x286x73mm_p180mm_p116mm)
+	* [Tags](#tags)
   
 ![][im]
 # FZKDDIODEBRIDGE286X286X73P18P116 > Diode_THT : Diode_Bridge_28.6x28.6x7.3mm_P18.0mm_P11.6mm
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKDDIODEBRIDGE286X286X73P18P116](http://oom.lt/FZKDDIODEBRIDGE286X286X73P18P116)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Diode_THT/Diode_Bridge_28.6x28.6x7.3mm_P18.0mm_P11.6mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Diode_THT/Diode_Bridge_28.6x28.6x7.3mm_P18.0mm_P11.6mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Diode_THT/Diode_Bridge_28.6x28.6x7.3mm_P18.0mm_P11.6mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Diode_THT/Diode_Bridge_28.6x28.6x7.3mm_P18.0mm_P11.6mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Diode_THT/Diode_Bridge_28.6x28.6x7.3mm_P18.0mm_P11.6mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Diode_THT/Diode_Bridge_28.6x28.6x7.3mm_P18.0mm_P11.6mm/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Diode_THT/Diode_Bridge_28.6x28.6x7.3mm_P18.0mm_P11.6mm/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Diode_THT/Diode_Bridge_28.6x28.6x7.3mm_P18.0mm_P11.6mm/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Diode_THT/Diode_Bridge_28.6x28.6x7.3mm_P18.0mm_P11.6mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Diode_THT/Diode_Bridge_28.6x28.6x7.3mm_P18.0mm_P11.6mm/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Diode_THT/Diode_Bridge_28.6x28.6x7.3mm_P18.0mm_P11.6mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Diode_THT/Diode_Bridge_28.6x28.6x7.3mm_P18.0mm_P11.6mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Diode_THT/Diode_Bridge_28.6x28.6x7.3mm_P18.0mm_P11.6mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Diode_THT/Diode_Bridge_28.6x28.6x7.3mm_P18.0mm_P11.6mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Diode_THT/Diode_Bridge_28.6x28.6x7.3mm_P18.0mm_P11.6mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Diode_THT/Diode_Bridge_28.6x28.6x7.3mm_P18.0mm_P11.6mm/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Diode_THT/Diode_Bridge_28.6x28.6x7.3mm_P18.0mm_P11.6mm/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Diode_THT/Diode_Bridge_28.6x28.6x7.3mm_P18.0mm_P11.6mm/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Diode_THT/Diode_Bridge_28.6x28.6x7.3mm_P18.0mm_P11.6mm/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

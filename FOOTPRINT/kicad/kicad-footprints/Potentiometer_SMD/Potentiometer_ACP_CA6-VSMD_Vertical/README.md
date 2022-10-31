@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKPOTENTIOMETERSMPOTENTIOMETERACPCA6VSMVERTICAL > Potentiometer_SMD : Potentiometer_ACP_CA6-VSMD_Vertical](#fzkpotentiometersmpotentiometeracpca6vsmvertical--potentiometer_smd--potentiometer_acp_ca6-vsmd_vertical)
+	* [Tags](#tags)
   
 ![][im]
 # FZKPOTENTIOMETERSMPOTENTIOMETERACPCA6VSMVERTICAL > Potentiometer_SMD : Potentiometer_ACP_CA6-VSMD_Vertical
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKPOTENTIOMETERSMPOTENTIOMETERACPCA6VSMVERTICAL](http://oom.lt/FZKPOTENTIOMETERSMPOTENTIOMETERACPCA6VSMVERTICAL)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Potentiometer_SMD/Potentiometer_ACP_CA6-VSMD_Vertical/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Potentiometer_SMD/Potentiometer_ACP_CA6-VSMD_Vertical/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Potentiometer_SMD/Potentiometer_ACP_CA6-VSMD_Vertical/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Potentiometer_SMD/Potentiometer_ACP_CA6-VSMD_Vertical/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Potentiometer_SMD/Potentiometer_ACP_CA6-VSMD_Vertical/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Potentiometer_SMD/Potentiometer_ACP_CA6-VSMD_Vertical/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Potentiometer_SMD/Potentiometer_ACP_CA6-VSMD_Vertical/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Potentiometer_SMD/Potentiometer_ACP_CA6-VSMD_Vertical/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Potentiometer_SMD/Potentiometer_ACP_CA6-VSMD_Vertical/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Potentiometer_SMD/Potentiometer_ACP_CA6-VSMD_Vertical/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Potentiometer_SMD/Potentiometer_ACP_CA6-VSMD_Vertical/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Potentiometer_SMD/Potentiometer_ACP_CA6-VSMD_Vertical/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Potentiometer_SMD/Potentiometer_ACP_CA6-VSMD_Vertical/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Potentiometer_SMD/Potentiometer_ACP_CA6-VSMD_Vertical/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Potentiometer_SMD/Potentiometer_ACP_CA6-VSMD_Vertical/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Potentiometer_SMD/Potentiometer_ACP_CA6-VSMD_Vertical/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Potentiometer_SMD/Potentiometer_ACP_CA6-VSMD_Vertical/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Potentiometer_SMD/Potentiometer_ACP_CA6-VSMD_Vertical/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Potentiometer_SMD/Potentiometer_ACP_CA6-VSMD_Vertical/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

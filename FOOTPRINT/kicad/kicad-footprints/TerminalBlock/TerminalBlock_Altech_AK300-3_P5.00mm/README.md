@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKTBTBALTECHAK33P5 > TerminalBlock : TerminalBlock_Altech_AK300-3_P5.00mm](#fzktbtbaltechak33p5--terminalblock--terminalblock_altech_ak300-3_p500mm)
+	* [Tags](#tags)
   
 ![][im]
 # FZKTBTBALTECHAK33P5 > TerminalBlock : TerminalBlock_Altech_AK300-3_P5.00mm
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKTBTBALTECHAK33P5](http://oom.lt/FZKTBTBALTECHAK33P5)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock/TerminalBlock_Altech_AK300-3_P5.00mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock/TerminalBlock_Altech_AK300-3_P5.00mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock/TerminalBlock_Altech_AK300-3_P5.00mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock/TerminalBlock_Altech_AK300-3_P5.00mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock/TerminalBlock_Altech_AK300-3_P5.00mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock/TerminalBlock_Altech_AK300-3_P5.00mm/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock/TerminalBlock_Altech_AK300-3_P5.00mm/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock/TerminalBlock_Altech_AK300-3_P5.00mm/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock/TerminalBlock_Altech_AK300-3_P5.00mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock/TerminalBlock_Altech_AK300-3_P5.00mm/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock/TerminalBlock_Altech_AK300-3_P5.00mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock/TerminalBlock_Altech_AK300-3_P5.00mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock/TerminalBlock_Altech_AK300-3_P5.00mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock/TerminalBlock_Altech_AK300-3_P5.00mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock/TerminalBlock_Altech_AK300-3_P5.00mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock/TerminalBlock_Altech_AK300-3_P5.00mm/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock/TerminalBlock_Altech_AK300-3_P5.00mm/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock/TerminalBlock_Altech_AK300-3_P5.00mm/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/TerminalBlock/TerminalBlock_Altech_AK300-3_P5.00mm/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

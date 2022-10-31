@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKCNAUDIOJ35SWITRONICST5GHORIZONTAL > Connector_Audio : Jack_3.5mm_Switronic_ST-005-G_horizontal](#fzkcnaudioj35switronicst5ghorizontal--connector_audio--jack_35mm_switronic_st-005-g_horizontal)
+	* [Tags](#tags)
   
 ![][im]
 # FZKCNAUDIOJ35SWITRONICST5GHORIZONTAL > Connector_Audio : Jack_3.5mm_Switronic_ST-005-G_horizontal
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKCNAUDIOJ35SWITRONICST5GHORIZONTAL](http://oom.lt/FZKCNAUDIOJ35SWITRONICST5GHORIZONTAL)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_3.5mm_Switronic_ST-005-G_horizontal/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_3.5mm_Switronic_ST-005-G_horizontal/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_3.5mm_Switronic_ST-005-G_horizontal/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_3.5mm_Switronic_ST-005-G_horizontal/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_3.5mm_Switronic_ST-005-G_horizontal/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_3.5mm_Switronic_ST-005-G_horizontal/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_3.5mm_Switronic_ST-005-G_horizontal/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_3.5mm_Switronic_ST-005-G_horizontal/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_3.5mm_Switronic_ST-005-G_horizontal/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_3.5mm_Switronic_ST-005-G_horizontal/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_3.5mm_Switronic_ST-005-G_horizontal/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_3.5mm_Switronic_ST-005-G_horizontal/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_3.5mm_Switronic_ST-005-G_horizontal/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_3.5mm_Switronic_ST-005-G_horizontal/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_3.5mm_Switronic_ST-005-G_horizontal/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_3.5mm_Switronic_ST-005-G_horizontal/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_3.5mm_Switronic_ST-005-G_horizontal/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_3.5mm_Switronic_ST-005-G_horizontal/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_3.5mm_Switronic_ST-005-G_horizontal/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

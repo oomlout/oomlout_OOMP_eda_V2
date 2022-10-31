@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKSIPSIP4SHARPSSRP762ANGL > Package_SIP : SIP4_Sharp-SSR_P7.62mm_Angled](#fzksipsip4sharpssrp762angl--package_sip--sip4_sharp-ssr_p762mm_angled)
+	* [Tags](#tags)
   
 ![][im]
 # FZKSIPSIP4SHARPSSRP762ANGL > Package_SIP : SIP4_Sharp-SSR_P7.62mm_Angled
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKSIPSIP4SHARPSSRP762ANGL](http://oom.lt/FZKSIPSIP4SHARPSSRP762ANGL)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SIP/SIP4_Sharp-SSR_P7.62mm_Angled/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SIP/SIP4_Sharp-SSR_P7.62mm_Angled/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SIP/SIP4_Sharp-SSR_P7.62mm_Angled/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SIP/SIP4_Sharp-SSR_P7.62mm_Angled/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SIP/SIP4_Sharp-SSR_P7.62mm_Angled/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SIP/SIP4_Sharp-SSR_P7.62mm_Angled/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SIP/SIP4_Sharp-SSR_P7.62mm_Angled/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SIP/SIP4_Sharp-SSR_P7.62mm_Angled/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SIP/SIP4_Sharp-SSR_P7.62mm_Angled/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SIP/SIP4_Sharp-SSR_P7.62mm_Angled/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SIP/SIP4_Sharp-SSR_P7.62mm_Angled/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SIP/SIP4_Sharp-SSR_P7.62mm_Angled/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SIP/SIP4_Sharp-SSR_P7.62mm_Angled/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SIP/SIP4_Sharp-SSR_P7.62mm_Angled/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SIP/SIP4_Sharp-SSR_P7.62mm_Angled/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SIP/SIP4_Sharp-SSR_P7.62mm_Angled/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SIP/SIP4_Sharp-SSR_P7.62mm_Angled/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SIP/SIP4_Sharp-SSR_P7.62mm_Angled/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Package_SIP/SIP4_Sharp-SSR_P7.62mm_Angled/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

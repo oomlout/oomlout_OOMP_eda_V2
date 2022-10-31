@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKDIADASSD136NOMOUNTINGH > Display : Adafruit_SSD1306_No_Mounting_Holes](#fzkdiadassd136nomountingh--display--adafruit_ssd1306_no_mounting_holes)
+	* [Tags](#tags)
   
 ![][im]
 # FZKDIADASSD136NOMOUNTINGH > Display : Adafruit_SSD1306_No_Mounting_Holes
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKDIADASSD136NOMOUNTINGH](http://oom.lt/FZKDIADASSD136NOMOUNTINGH)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Display/Adafruit_SSD1306_No_Mounting_Holes/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Display/Adafruit_SSD1306_No_Mounting_Holes/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Display/Adafruit_SSD1306_No_Mounting_Holes/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Display/Adafruit_SSD1306_No_Mounting_Holes/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Display/Adafruit_SSD1306_No_Mounting_Holes/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Display/Adafruit_SSD1306_No_Mounting_Holes/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Display/Adafruit_SSD1306_No_Mounting_Holes/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Display/Adafruit_SSD1306_No_Mounting_Holes/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Display/Adafruit_SSD1306_No_Mounting_Holes/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Display/Adafruit_SSD1306_No_Mounting_Holes/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Display/Adafruit_SSD1306_No_Mounting_Holes/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Display/Adafruit_SSD1306_No_Mounting_Holes/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Display/Adafruit_SSD1306_No_Mounting_Holes/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Display/Adafruit_SSD1306_No_Mounting_Holes/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Display/Adafruit_SSD1306_No_Mounting_Holes/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Display/Adafruit_SSD1306_No_Mounting_Holes/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Display/Adafruit_SSD1306_No_Mounting_Holes/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Display/Adafruit_SSD1306_No_Mounting_Holes/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Display/Adafruit_SSD1306_No_Mounting_Holes/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

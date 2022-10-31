@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKCNTECONNECTIVITYTEAMPSEAL177687X3ROWS23P4HORIZONTAL > Connector_TE-Connectivity : TE_AMPSEAL_1-776087-x_3Rows_23_P0.4mm_Horizontal](#fzkcnteconnectivityteampseal177687x3rows23p4horizontal--connector_te-connectivity--te_ampseal_1-776087-x_3rows_23_p04mm_horizontal)
+	* [Tags](#tags)
   
 ![][im]
 # FZKCNTECONNECTIVITYTEAMPSEAL177687X3ROWS23P4HORIZONTAL > Connector_TE-Connectivity : TE_AMPSEAL_1-776087-x_3Rows_23_P0.4mm_Horizontal
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKCNTECONNECTIVITYTEAMPSEAL177687X3ROWS23P4HORIZONTAL](http://oom.lt/FZKCNTECONNECTIVITYTEAMPSEAL177687X3ROWS23P4HORIZONTAL)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_TE-Connectivity/TE_AMPSEAL_1-776087-x_3Rows_23_P0.4mm_Horizontal/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_TE-Connectivity/TE_AMPSEAL_1-776087-x_3Rows_23_P0.4mm_Horizontal/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_TE-Connectivity/TE_AMPSEAL_1-776087-x_3Rows_23_P0.4mm_Horizontal/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_TE-Connectivity/TE_AMPSEAL_1-776087-x_3Rows_23_P0.4mm_Horizontal/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_TE-Connectivity/TE_AMPSEAL_1-776087-x_3Rows_23_P0.4mm_Horizontal/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_TE-Connectivity/TE_AMPSEAL_1-776087-x_3Rows_23_P0.4mm_Horizontal/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_TE-Connectivity/TE_AMPSEAL_1-776087-x_3Rows_23_P0.4mm_Horizontal/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_TE-Connectivity/TE_AMPSEAL_1-776087-x_3Rows_23_P0.4mm_Horizontal/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_TE-Connectivity/TE_AMPSEAL_1-776087-x_3Rows_23_P0.4mm_Horizontal/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_TE-Connectivity/TE_AMPSEAL_1-776087-x_3Rows_23_P0.4mm_Horizontal/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_TE-Connectivity/TE_AMPSEAL_1-776087-x_3Rows_23_P0.4mm_Horizontal/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_TE-Connectivity/TE_AMPSEAL_1-776087-x_3Rows_23_P0.4mm_Horizontal/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_TE-Connectivity/TE_AMPSEAL_1-776087-x_3Rows_23_P0.4mm_Horizontal/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_TE-Connectivity/TE_AMPSEAL_1-776087-x_3Rows_23_P0.4mm_Horizontal/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_TE-Connectivity/TE_AMPSEAL_1-776087-x_3Rows_23_P0.4mm_Horizontal/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_TE-Connectivity/TE_AMPSEAL_1-776087-x_3Rows_23_P0.4mm_Horizontal/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_TE-Connectivity/TE_AMPSEAL_1-776087-x_3Rows_23_P0.4mm_Horizontal/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_TE-Connectivity/TE_AMPSEAL_1-776087-x_3Rows_23_P0.4mm_Horizontal/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Connector_TE-Connectivity/TE_AMPSEAL_1-776087-x_3Rows_23_P0.4mm_Horizontal/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

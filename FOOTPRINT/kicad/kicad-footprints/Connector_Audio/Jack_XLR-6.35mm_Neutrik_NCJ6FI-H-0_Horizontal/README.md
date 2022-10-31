@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKCNAUDIOJXLR635NEUTRIKNCJ6FIHHORIZONTAL > Connector_Audio : Jack_XLR-6.35mm_Neutrik_NCJ6FI-H-0_Horizontal](#fzkcnaudiojxlr635neutrikncj6fihhorizontal--connector_audio--jack_xlr-635mm_neutrik_ncj6fi-h-0_horizontal)
+	* [Tags](#tags)
   
 ![][im]
 # FZKCNAUDIOJXLR635NEUTRIKNCJ6FIHHORIZONTAL > Connector_Audio : Jack_XLR-6.35mm_Neutrik_NCJ6FI-H-0_Horizontal
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKCNAUDIOJXLR635NEUTRIKNCJ6FIHHORIZONTAL](http://oom.lt/FZKCNAUDIOJXLR635NEUTRIKNCJ6FIHHORIZONTAL)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_XLR-6.35mm_Neutrik_NCJ6FI-H-0_Horizontal/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_XLR-6.35mm_Neutrik_NCJ6FI-H-0_Horizontal/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_XLR-6.35mm_Neutrik_NCJ6FI-H-0_Horizontal/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_XLR-6.35mm_Neutrik_NCJ6FI-H-0_Horizontal/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_XLR-6.35mm_Neutrik_NCJ6FI-H-0_Horizontal/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_XLR-6.35mm_Neutrik_NCJ6FI-H-0_Horizontal/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_XLR-6.35mm_Neutrik_NCJ6FI-H-0_Horizontal/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_XLR-6.35mm_Neutrik_NCJ6FI-H-0_Horizontal/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_XLR-6.35mm_Neutrik_NCJ6FI-H-0_Horizontal/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_XLR-6.35mm_Neutrik_NCJ6FI-H-0_Horizontal/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_XLR-6.35mm_Neutrik_NCJ6FI-H-0_Horizontal/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_XLR-6.35mm_Neutrik_NCJ6FI-H-0_Horizontal/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_XLR-6.35mm_Neutrik_NCJ6FI-H-0_Horizontal/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_XLR-6.35mm_Neutrik_NCJ6FI-H-0_Horizontal/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_XLR-6.35mm_Neutrik_NCJ6FI-H-0_Horizontal/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_XLR-6.35mm_Neutrik_NCJ6FI-H-0_Horizontal/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_XLR-6.35mm_Neutrik_NCJ6FI-H-0_Horizontal/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_XLR-6.35mm_Neutrik_NCJ6FI-H-0_Horizontal/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_XLR-6.35mm_Neutrik_NCJ6FI-H-0_Horizontal/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

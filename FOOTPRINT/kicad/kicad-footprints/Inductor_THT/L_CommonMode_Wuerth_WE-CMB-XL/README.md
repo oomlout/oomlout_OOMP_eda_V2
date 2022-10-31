@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKINLCOONMODEWUERTHWECMBXL > Inductor_THT : L_CommonMode_Wuerth_WE-CMB-XL](#fzkinlcoonmodewuerthwecmbxl--inductor_tht--l_commonmode_wuerth_we-cmb-xl)
+	* [Tags](#tags)
   
 ![][im]
 # FZKINLCOONMODEWUERTHWECMBXL > Inductor_THT : L_CommonMode_Wuerth_WE-CMB-XL
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKINLCOONMODEWUERTHWECMBXL](http://oom.lt/FZKINLCOONMODEWUERTHWECMBXL)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_CommonMode_Wuerth_WE-CMB-XL/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_CommonMode_Wuerth_WE-CMB-XL/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_CommonMode_Wuerth_WE-CMB-XL/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_CommonMode_Wuerth_WE-CMB-XL/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_CommonMode_Wuerth_WE-CMB-XL/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_CommonMode_Wuerth_WE-CMB-XL/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_CommonMode_Wuerth_WE-CMB-XL/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_CommonMode_Wuerth_WE-CMB-XL/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_CommonMode_Wuerth_WE-CMB-XL/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_CommonMode_Wuerth_WE-CMB-XL/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_CommonMode_Wuerth_WE-CMB-XL/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_CommonMode_Wuerth_WE-CMB-XL/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_CommonMode_Wuerth_WE-CMB-XL/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_CommonMode_Wuerth_WE-CMB-XL/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_CommonMode_Wuerth_WE-CMB-XL/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_CommonMode_Wuerth_WE-CMB-XL/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_CommonMode_Wuerth_WE-CMB-XL/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_CommonMode_Wuerth_WE-CMB-XL/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_CommonMode_Wuerth_WE-CMB-XL/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

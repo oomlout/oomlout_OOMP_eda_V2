@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKBSWPUSH1P1TNOLESWITCHTL125 > Button_Switch_THT : SW_Push_1P1T_NO_LED_E-Switch_TL1250](#fzkbswpush1p1tnoleswitchtl125--button_switch_tht--sw_push_1p1t_no_led_e-switch_tl1250)
+	* [Tags](#tags)
   
 ![][im]
 # FZKBSWPUSH1P1TNOLESWITCHTL125 > Button_Switch_THT : SW_Push_1P1T_NO_LED_E-Switch_TL1250
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKBSWPUSH1P1TNOLESWITCHTL125](http://oom.lt/FZKBSWPUSH1P1TNOLESWITCHTL125)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_Push_1P1T_NO_LED_E-Switch_TL1250/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_Push_1P1T_NO_LED_E-Switch_TL1250/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_Push_1P1T_NO_LED_E-Switch_TL1250/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_Push_1P1T_NO_LED_E-Switch_TL1250/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_Push_1P1T_NO_LED_E-Switch_TL1250/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_Push_1P1T_NO_LED_E-Switch_TL1250/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_Push_1P1T_NO_LED_E-Switch_TL1250/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_Push_1P1T_NO_LED_E-Switch_TL1250/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_Push_1P1T_NO_LED_E-Switch_TL1250/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_Push_1P1T_NO_LED_E-Switch_TL1250/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_Push_1P1T_NO_LED_E-Switch_TL1250/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_Push_1P1T_NO_LED_E-Switch_TL1250/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_Push_1P1T_NO_LED_E-Switch_TL1250/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_Push_1P1T_NO_LED_E-Switch_TL1250/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_Push_1P1T_NO_LED_E-Switch_TL1250/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_Push_1P1T_NO_LED_E-Switch_TL1250/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_Push_1P1T_NO_LED_E-Switch_TL1250/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_Push_1P1T_NO_LED_E-Switch_TL1250/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_Push_1P1T_NO_LED_E-Switch_TL1250/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

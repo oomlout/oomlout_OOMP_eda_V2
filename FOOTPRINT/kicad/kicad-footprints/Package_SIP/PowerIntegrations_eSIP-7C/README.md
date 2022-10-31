@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKSIPPOWERINTEGRATIONSESIP7C > Package_SIP : PowerIntegrations_eSIP-7C](#fzksippowerintegrationsesip7c--package_sip--powerintegrations_esip-7c)
+	* [Tags](#tags)
   
 ![][im]
 # FZKSIPPOWERINTEGRATIONSESIP7C > Package_SIP : PowerIntegrations_eSIP-7C
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKSIPPOWERINTEGRATIONSESIP7C](http://oom.lt/FZKSIPPOWERINTEGRATIONSESIP7C)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SIP/PowerIntegrations_eSIP-7C/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SIP/PowerIntegrations_eSIP-7C/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SIP/PowerIntegrations_eSIP-7C/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SIP/PowerIntegrations_eSIP-7C/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SIP/PowerIntegrations_eSIP-7C/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SIP/PowerIntegrations_eSIP-7C/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SIP/PowerIntegrations_eSIP-7C/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SIP/PowerIntegrations_eSIP-7C/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SIP/PowerIntegrations_eSIP-7C/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SIP/PowerIntegrations_eSIP-7C/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SIP/PowerIntegrations_eSIP-7C/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SIP/PowerIntegrations_eSIP-7C/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SIP/PowerIntegrations_eSIP-7C/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SIP/PowerIntegrations_eSIP-7C/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SIP/PowerIntegrations_eSIP-7C/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SIP/PowerIntegrations_eSIP-7C/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SIP/PowerIntegrations_eSIP-7C/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SIP/PowerIntegrations_eSIP-7C/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Package_SIP/PowerIntegrations_eSIP-7C/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKSOHTSS281EP44X97P65EP285X54 > Package_SO : HTSSOP-28-1EP_4.4x9.7mm_P0.65mm_EP2.85x5.4mm](#fzksohtss281ep44x97p65ep285x54--package_so--htssop-28-1ep_44x97mm_p065mm_ep285x54mm)
+	* [Tags](#tags)
   
 ![][im]
 # FZKSOHTSS281EP44X97P65EP285X54 > Package_SO : HTSSOP-28-1EP_4.4x9.7mm_P0.65mm_EP2.85x5.4mm
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKSOHTSS281EP44X97P65EP285X54](http://oom.lt/FZKSOHTSS281EP44X97P65EP285X54)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/HTSSOP-28-1EP_4.4x9.7mm_P0.65mm_EP2.85x5.4mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/HTSSOP-28-1EP_4.4x9.7mm_P0.65mm_EP2.85x5.4mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/HTSSOP-28-1EP_4.4x9.7mm_P0.65mm_EP2.85x5.4mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/HTSSOP-28-1EP_4.4x9.7mm_P0.65mm_EP2.85x5.4mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/HTSSOP-28-1EP_4.4x9.7mm_P0.65mm_EP2.85x5.4mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/HTSSOP-28-1EP_4.4x9.7mm_P0.65mm_EP2.85x5.4mm/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/HTSSOP-28-1EP_4.4x9.7mm_P0.65mm_EP2.85x5.4mm/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/HTSSOP-28-1EP_4.4x9.7mm_P0.65mm_EP2.85x5.4mm/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/HTSSOP-28-1EP_4.4x9.7mm_P0.65mm_EP2.85x5.4mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/HTSSOP-28-1EP_4.4x9.7mm_P0.65mm_EP2.85x5.4mm/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/HTSSOP-28-1EP_4.4x9.7mm_P0.65mm_EP2.85x5.4mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/HTSSOP-28-1EP_4.4x9.7mm_P0.65mm_EP2.85x5.4mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/HTSSOP-28-1EP_4.4x9.7mm_P0.65mm_EP2.85x5.4mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/HTSSOP-28-1EP_4.4x9.7mm_P0.65mm_EP2.85x5.4mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/HTSSOP-28-1EP_4.4x9.7mm_P0.65mm_EP2.85x5.4mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/HTSSOP-28-1EP_4.4x9.7mm_P0.65mm_EP2.85x5.4mm/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/HTSSOP-28-1EP_4.4x9.7mm_P0.65mm_EP2.85x5.4mm/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/HTSSOP-28-1EP_4.4x9.7mm_P0.65mm_EP2.85x5.4mm/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Package_SO/HTSSOP-28-1EP_4.4x9.7mm_P0.65mm_EP2.85x5.4mm/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

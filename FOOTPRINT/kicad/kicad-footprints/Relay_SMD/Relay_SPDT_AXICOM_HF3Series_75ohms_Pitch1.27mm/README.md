@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKRELAYSMRELAYSPDTAXICOMHF3SERIES75OHMSPITCH127 > Relay_SMD : Relay_SPDT_AXICOM_HF3Series_75ohms_Pitch1.27mm](#fzkrelaysmrelayspdtaxicomhf3series75ohmspitch127--relay_smd--relay_spdt_axicom_hf3series_75ohms_pitch127mm)
+	* [Tags](#tags)
   
 ![][im]
 # FZKRELAYSMRELAYSPDTAXICOMHF3SERIES75OHMSPITCH127 > Relay_SMD : Relay_SPDT_AXICOM_HF3Series_75ohms_Pitch1.27mm
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKRELAYSMRELAYSPDTAXICOMHF3SERIES75OHMSPITCH127](http://oom.lt/FZKRELAYSMRELAYSPDTAXICOMHF3SERIES75OHMSPITCH127)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Relay_SMD/Relay_SPDT_AXICOM_HF3Series_75ohms_Pitch1.27mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Relay_SMD/Relay_SPDT_AXICOM_HF3Series_75ohms_Pitch1.27mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Relay_SMD/Relay_SPDT_AXICOM_HF3Series_75ohms_Pitch1.27mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Relay_SMD/Relay_SPDT_AXICOM_HF3Series_75ohms_Pitch1.27mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Relay_SMD/Relay_SPDT_AXICOM_HF3Series_75ohms_Pitch1.27mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Relay_SMD/Relay_SPDT_AXICOM_HF3Series_75ohms_Pitch1.27mm/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Relay_SMD/Relay_SPDT_AXICOM_HF3Series_75ohms_Pitch1.27mm/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Relay_SMD/Relay_SPDT_AXICOM_HF3Series_75ohms_Pitch1.27mm/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Relay_SMD/Relay_SPDT_AXICOM_HF3Series_75ohms_Pitch1.27mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Relay_SMD/Relay_SPDT_AXICOM_HF3Series_75ohms_Pitch1.27mm/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Relay_SMD/Relay_SPDT_AXICOM_HF3Series_75ohms_Pitch1.27mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Relay_SMD/Relay_SPDT_AXICOM_HF3Series_75ohms_Pitch1.27mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Relay_SMD/Relay_SPDT_AXICOM_HF3Series_75ohms_Pitch1.27mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Relay_SMD/Relay_SPDT_AXICOM_HF3Series_75ohms_Pitch1.27mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Relay_SMD/Relay_SPDT_AXICOM_HF3Series_75ohms_Pitch1.27mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Relay_SMD/Relay_SPDT_AXICOM_HF3Series_75ohms_Pitch1.27mm/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Relay_SMD/Relay_SPDT_AXICOM_HF3Series_75ohms_Pitch1.27mm/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Relay_SMD/Relay_SPDT_AXICOM_HF3Series_75ohms_Pitch1.27mm/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Relay_SMD/Relay_SPDT_AXICOM_HF3Series_75ohms_Pitch1.27mm/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

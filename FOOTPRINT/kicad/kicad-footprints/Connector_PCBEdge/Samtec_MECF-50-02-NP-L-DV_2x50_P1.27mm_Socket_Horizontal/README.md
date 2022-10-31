@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKCNPCBEDGESAMTECMECF52NPLDV2X5P127SOHORIZONTAL > Connector_PCBEdge : Samtec_MECF-50-02-NP-L-DV_2x50_P1.27mm_Socket_Horizontal](#fzkcnpcbedgesamtecmecf52npldv2x5p127sohorizontal--connector_pcbedge--samtec_mecf-50-02-np-l-dv_2x50_p127mm_socket_horizontal)
+	* [Tags](#tags)
   
 ![][im]
 # FZKCNPCBEDGESAMTECMECF52NPLDV2X5P127SOHORIZONTAL > Connector_PCBEdge : Samtec_MECF-50-02-NP-L-DV_2x50_P1.27mm_Socket_Horizontal
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKCNPCBEDGESAMTECMECF52NPLDV2X5P127SOHORIZONTAL](http://oom.lt/FZKCNPCBEDGESAMTECMECF52NPLDV2X5P127SOHORIZONTAL)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_PCBEdge/Samtec_MECF-50-02-NP-L-DV_2x50_P1.27mm_Socket_Horizontal/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_PCBEdge/Samtec_MECF-50-02-NP-L-DV_2x50_P1.27mm_Socket_Horizontal/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_PCBEdge/Samtec_MECF-50-02-NP-L-DV_2x50_P1.27mm_Socket_Horizontal/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_PCBEdge/Samtec_MECF-50-02-NP-L-DV_2x50_P1.27mm_Socket_Horizontal/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_PCBEdge/Samtec_MECF-50-02-NP-L-DV_2x50_P1.27mm_Socket_Horizontal/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_PCBEdge/Samtec_MECF-50-02-NP-L-DV_2x50_P1.27mm_Socket_Horizontal/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_PCBEdge/Samtec_MECF-50-02-NP-L-DV_2x50_P1.27mm_Socket_Horizontal/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_PCBEdge/Samtec_MECF-50-02-NP-L-DV_2x50_P1.27mm_Socket_Horizontal/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_PCBEdge/Samtec_MECF-50-02-NP-L-DV_2x50_P1.27mm_Socket_Horizontal/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_PCBEdge/Samtec_MECF-50-02-NP-L-DV_2x50_P1.27mm_Socket_Horizontal/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_PCBEdge/Samtec_MECF-50-02-NP-L-DV_2x50_P1.27mm_Socket_Horizontal/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_PCBEdge/Samtec_MECF-50-02-NP-L-DV_2x50_P1.27mm_Socket_Horizontal/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_PCBEdge/Samtec_MECF-50-02-NP-L-DV_2x50_P1.27mm_Socket_Horizontal/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_PCBEdge/Samtec_MECF-50-02-NP-L-DV_2x50_P1.27mm_Socket_Horizontal/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_PCBEdge/Samtec_MECF-50-02-NP-L-DV_2x50_P1.27mm_Socket_Horizontal/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_PCBEdge/Samtec_MECF-50-02-NP-L-DV_2x50_P1.27mm_Socket_Horizontal/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_PCBEdge/Samtec_MECF-50-02-NP-L-DV_2x50_P1.27mm_Socket_Horizontal/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_PCBEdge/Samtec_MECF-50-02-NP-L-DV_2x50_P1.27mm_Socket_Horizontal/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Connector_PCBEdge/Samtec_MECF-50-02-NP-L-DV_2x50_P1.27mm_Socket_Horizontal/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

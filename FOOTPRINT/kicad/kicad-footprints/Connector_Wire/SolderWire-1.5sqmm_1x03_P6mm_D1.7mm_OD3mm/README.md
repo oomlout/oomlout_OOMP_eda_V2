@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKCNWIRESOLDERWIRE15SQ1X3P6D17OD3 > Connector_Wire : SolderWire-1.5sqmm_1x03_P6mm_D1.7mm_OD3mm](#fzkcnwiresolderwire15sq1x3p6d17od3--connector_wire--solderwire-15sqmm_1x03_p6mm_d17mm_od3mm)
+	* [Tags](#tags)
   
 ![][im]
 # FZKCNWIRESOLDERWIRE15SQ1X3P6D17OD3 > Connector_Wire : SolderWire-1.5sqmm_1x03_P6mm_D1.7mm_OD3mm
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKCNWIRESOLDERWIRE15SQ1X3P6D17OD3](http://oom.lt/FZKCNWIRESOLDERWIRE15SQ1X3P6D17OD3)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Wire/SolderWire-1.5sqmm_1x03_P6mm_D1.7mm_OD3mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Wire/SolderWire-1.5sqmm_1x03_P6mm_D1.7mm_OD3mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Wire/SolderWire-1.5sqmm_1x03_P6mm_D1.7mm_OD3mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Wire/SolderWire-1.5sqmm_1x03_P6mm_D1.7mm_OD3mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Wire/SolderWire-1.5sqmm_1x03_P6mm_D1.7mm_OD3mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Wire/SolderWire-1.5sqmm_1x03_P6mm_D1.7mm_OD3mm/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Wire/SolderWire-1.5sqmm_1x03_P6mm_D1.7mm_OD3mm/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Wire/SolderWire-1.5sqmm_1x03_P6mm_D1.7mm_OD3mm/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Wire/SolderWire-1.5sqmm_1x03_P6mm_D1.7mm_OD3mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Wire/SolderWire-1.5sqmm_1x03_P6mm_D1.7mm_OD3mm/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Wire/SolderWire-1.5sqmm_1x03_P6mm_D1.7mm_OD3mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Wire/SolderWire-1.5sqmm_1x03_P6mm_D1.7mm_OD3mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Wire/SolderWire-1.5sqmm_1x03_P6mm_D1.7mm_OD3mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Wire/SolderWire-1.5sqmm_1x03_P6mm_D1.7mm_OD3mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Wire/SolderWire-1.5sqmm_1x03_P6mm_D1.7mm_OD3mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Wire/SolderWire-1.5sqmm_1x03_P6mm_D1.7mm_OD3mm/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Wire/SolderWire-1.5sqmm_1x03_P6mm_D1.7mm_OD3mm/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Wire/SolderWire-1.5sqmm_1x03_P6mm_D1.7mm_OD3mm/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Connector_Wire/SolderWire-1.5sqmm_1x03_P6mm_D1.7mm_OD3mm/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

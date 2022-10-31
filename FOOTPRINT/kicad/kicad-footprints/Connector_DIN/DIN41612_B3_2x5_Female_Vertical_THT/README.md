@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKCNDINDIN41612B32X5FEMALEVERTICALTHT > Connector_DIN : DIN41612_B3_2x5_Female_Vertical_THT](#fzkcndindin41612b32x5femaleverticaltht--connector_din--din41612_b3_2x5_female_vertical_tht)
+	* [Tags](#tags)
   
 ![][im]
 # FZKCNDINDIN41612B32X5FEMALEVERTICALTHT > Connector_DIN : DIN41612_B3_2x5_Female_Vertical_THT
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKCNDINDIN41612B32X5FEMALEVERTICALTHT](http://oom.lt/FZKCNDINDIN41612B32X5FEMALEVERTICALTHT)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_DIN/DIN41612_B3_2x5_Female_Vertical_THT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_DIN/DIN41612_B3_2x5_Female_Vertical_THT/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_DIN/DIN41612_B3_2x5_Female_Vertical_THT/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_DIN/DIN41612_B3_2x5_Female_Vertical_THT/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_DIN/DIN41612_B3_2x5_Female_Vertical_THT/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_DIN/DIN41612_B3_2x5_Female_Vertical_THT/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_DIN/DIN41612_B3_2x5_Female_Vertical_THT/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_DIN/DIN41612_B3_2x5_Female_Vertical_THT/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_DIN/DIN41612_B3_2x5_Female_Vertical_THT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_DIN/DIN41612_B3_2x5_Female_Vertical_THT/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_DIN/DIN41612_B3_2x5_Female_Vertical_THT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_DIN/DIN41612_B3_2x5_Female_Vertical_THT/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_DIN/DIN41612_B3_2x5_Female_Vertical_THT/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_DIN/DIN41612_B3_2x5_Female_Vertical_THT/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_DIN/DIN41612_B3_2x5_Female_Vertical_THT/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_DIN/DIN41612_B3_2x5_Female_Vertical_THT/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_DIN/DIN41612_B3_2x5_Female_Vertical_THT/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_DIN/DIN41612_B3_2x5_Female_Vertical_THT/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Connector_DIN/DIN41612_B3_2x5_Female_Vertical_THT/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

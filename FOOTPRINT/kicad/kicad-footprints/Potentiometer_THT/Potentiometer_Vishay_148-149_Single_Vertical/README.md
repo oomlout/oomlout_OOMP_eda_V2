@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKPPOTENTIOMETERVISHAY148149SINGLEVERTICAL > Potentiometer_THT : Potentiometer_Vishay_148-149_Single_Vertical](#fzkppotentiometervishay148149singlevertical--potentiometer_tht--potentiometer_vishay_148-149_single_vertical)
+	* [Tags](#tags)
   
 ![][im]
 # FZKPPOTENTIOMETERVISHAY148149SINGLEVERTICAL > Potentiometer_THT : Potentiometer_Vishay_148-149_Single_Vertical
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKPPOTENTIOMETERVISHAY148149SINGLEVERTICAL](http://oom.lt/FZKPPOTENTIOMETERVISHAY148149SINGLEVERTICAL)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Potentiometer_THT/Potentiometer_Vishay_148-149_Single_Vertical/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Potentiometer_THT/Potentiometer_Vishay_148-149_Single_Vertical/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Potentiometer_THT/Potentiometer_Vishay_148-149_Single_Vertical/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Potentiometer_THT/Potentiometer_Vishay_148-149_Single_Vertical/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Potentiometer_THT/Potentiometer_Vishay_148-149_Single_Vertical/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Potentiometer_THT/Potentiometer_Vishay_148-149_Single_Vertical/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Potentiometer_THT/Potentiometer_Vishay_148-149_Single_Vertical/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Potentiometer_THT/Potentiometer_Vishay_148-149_Single_Vertical/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Potentiometer_THT/Potentiometer_Vishay_148-149_Single_Vertical/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Potentiometer_THT/Potentiometer_Vishay_148-149_Single_Vertical/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Potentiometer_THT/Potentiometer_Vishay_148-149_Single_Vertical/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Potentiometer_THT/Potentiometer_Vishay_148-149_Single_Vertical/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Potentiometer_THT/Potentiometer_Vishay_148-149_Single_Vertical/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Potentiometer_THT/Potentiometer_Vishay_148-149_Single_Vertical/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Potentiometer_THT/Potentiometer_Vishay_148-149_Single_Vertical/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Potentiometer_THT/Potentiometer_Vishay_148-149_Single_Vertical/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Potentiometer_THT/Potentiometer_Vishay_148-149_Single_Vertical/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Potentiometer_THT/Potentiometer_Vishay_148-149_Single_Vertical/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Potentiometer_THT/Potentiometer_Vishay_148-149_Single_Vertical/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

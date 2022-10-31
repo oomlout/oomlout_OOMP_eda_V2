@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKSOTTO92IW4HORIZONTALFLATSIDEDOWN > Package_TO_SOT_THT : TO-92_Inline_W4.0mm_Horizontal_FlatSideDown](#fzksotto92iw4horizontalflatsidedown--package_to_sot_tht--to-92_inline_w40mm_horizontal_flatsidedown)
+	* [Tags](#tags)
   
 ![][im]
 # FZKSOTTO92IW4HORIZONTALFLATSIDEDOWN > Package_TO_SOT_THT : TO-92_Inline_W4.0mm_Horizontal_FlatSideDown
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKSOTTO92IW4HORIZONTALFLATSIDEDOWN](http://oom.lt/FZKSOTTO92IW4HORIZONTALFLATSIDEDOWN)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/TO-92_Inline_W4.0mm_Horizontal_FlatSideDown/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/TO-92_Inline_W4.0mm_Horizontal_FlatSideDown/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/TO-92_Inline_W4.0mm_Horizontal_FlatSideDown/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/TO-92_Inline_W4.0mm_Horizontal_FlatSideDown/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/TO-92_Inline_W4.0mm_Horizontal_FlatSideDown/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/TO-92_Inline_W4.0mm_Horizontal_FlatSideDown/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/TO-92_Inline_W4.0mm_Horizontal_FlatSideDown/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/TO-92_Inline_W4.0mm_Horizontal_FlatSideDown/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/TO-92_Inline_W4.0mm_Horizontal_FlatSideDown/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/TO-92_Inline_W4.0mm_Horizontal_FlatSideDown/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/TO-92_Inline_W4.0mm_Horizontal_FlatSideDown/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/TO-92_Inline_W4.0mm_Horizontal_FlatSideDown/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/TO-92_Inline_W4.0mm_Horizontal_FlatSideDown/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/TO-92_Inline_W4.0mm_Horizontal_FlatSideDown/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/TO-92_Inline_W4.0mm_Horizontal_FlatSideDown/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/TO-92_Inline_W4.0mm_Horizontal_FlatSideDown/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/TO-92_Inline_W4.0mm_Horizontal_FlatSideDown/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/TO-92_Inline_W4.0mm_Horizontal_FlatSideDown/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/TO-92_Inline_W4.0mm_Horizontal_FlatSideDown/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

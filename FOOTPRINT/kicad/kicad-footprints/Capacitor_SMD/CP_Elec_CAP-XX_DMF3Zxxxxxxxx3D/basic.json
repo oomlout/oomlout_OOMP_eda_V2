@@ -1,0 +1,61 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintEagle": [],
+    "footprintEagleDetails": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [
+        {
+            "attributeType": null,
+            "description": "5.5V, 470mF supercapacitor, 45mohm, -40\u00baC to +70\u00baC, https://www.cap-xx.com/wp-content/uploads/datasheets/CAP-XX-DMF470mF-Datasheet.pdf",
+            "name": "CP_Elec_CAP-XX_DMF3Zxxxxxxxx3D",
+            "pins": {
+                "shape": "rect",
+                "type": "smd"
+            },
+            "tags": "supercap",
+            "threeDModel": "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/CP_Elec_CAP-XX_DMF3Zxxxxxxxx3D.wrl"
+        }
+    ],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZKCAPACITORSMCPELECCAPXXDMF3ZXXXXXXXX3D"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "Capacitor_SMD : CP_Elec_CAP-XX_DMF3Zxxxxxxxx3D"
+    ],
+    "oompColor": [
+        "kicad-footprints"
+    ],
+    "oompDesc": [
+        "Capacitor_SMD"
+    ],
+    "oompID": [
+        "FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-CP_Elec_CAP-XX_DMF3Zxxxxxxxx3D"
+    ],
+    "oompIndex": [
+        "CP_Elec_CAP-XX_DMF3Zxxxxxxxx3D"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolEagle": [],
+    "symbolEagleDetails": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

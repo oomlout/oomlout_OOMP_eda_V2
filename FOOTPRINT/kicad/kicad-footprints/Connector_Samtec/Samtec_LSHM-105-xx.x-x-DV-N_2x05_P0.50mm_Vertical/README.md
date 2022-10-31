@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKCNSAMTECSAMTECLSHM15XXXXDVN2X5P5VERTICAL > Connector_Samtec : Samtec_LSHM-105-xx.x-x-DV-N_2x05_P0.50mm_Vertical](#fzkcnsamtecsamteclshm15xxxxdvn2x5p5vertical--connector_samtec--samtec_lshm-105-xxx-x-dv-n_2x05_p050mm_vertical)
+	* [Tags](#tags)
   
 ![][im]
 # FZKCNSAMTECSAMTECLSHM15XXXXDVN2X5P5VERTICAL > Connector_Samtec : Samtec_LSHM-105-xx.x-x-DV-N_2x05_P0.50mm_Vertical
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKCNSAMTECSAMTECLSHM15XXXXDVN2X5P5VERTICAL](http://oom.lt/FZKCNSAMTECSAMTECLSHM15XXXXDVN2X5P5VERTICAL)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Samtec/Samtec_LSHM-105-xx.x-x-DV-N_2x05_P0.50mm_Vertical/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Samtec/Samtec_LSHM-105-xx.x-x-DV-N_2x05_P0.50mm_Vertical/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Samtec/Samtec_LSHM-105-xx.x-x-DV-N_2x05_P0.50mm_Vertical/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Samtec/Samtec_LSHM-105-xx.x-x-DV-N_2x05_P0.50mm_Vertical/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Samtec/Samtec_LSHM-105-xx.x-x-DV-N_2x05_P0.50mm_Vertical/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Samtec/Samtec_LSHM-105-xx.x-x-DV-N_2x05_P0.50mm_Vertical/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Samtec/Samtec_LSHM-105-xx.x-x-DV-N_2x05_P0.50mm_Vertical/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Samtec/Samtec_LSHM-105-xx.x-x-DV-N_2x05_P0.50mm_Vertical/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Samtec/Samtec_LSHM-105-xx.x-x-DV-N_2x05_P0.50mm_Vertical/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Samtec/Samtec_LSHM-105-xx.x-x-DV-N_2x05_P0.50mm_Vertical/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Samtec/Samtec_LSHM-105-xx.x-x-DV-N_2x05_P0.50mm_Vertical/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Samtec/Samtec_LSHM-105-xx.x-x-DV-N_2x05_P0.50mm_Vertical/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Samtec/Samtec_LSHM-105-xx.x-x-DV-N_2x05_P0.50mm_Vertical/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Samtec/Samtec_LSHM-105-xx.x-x-DV-N_2x05_P0.50mm_Vertical/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Samtec/Samtec_LSHM-105-xx.x-x-DV-N_2x05_P0.50mm_Vertical/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Samtec/Samtec_LSHM-105-xx.x-x-DV-N_2x05_P0.50mm_Vertical/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_Samtec/Samtec_LSHM-105-xx.x-x-DV-N_2x05_P0.50mm_Vertical/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_Samtec/Samtec_LSHM-105-xx.x-x-DV-N_2x05_P0.50mm_Vertical/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Connector_Samtec/Samtec_LSHM-105-xx.x-x-DV-N_2x05_P0.50mm_Vertical/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

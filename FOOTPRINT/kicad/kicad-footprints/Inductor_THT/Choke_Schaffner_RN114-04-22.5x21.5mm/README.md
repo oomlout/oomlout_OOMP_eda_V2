@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKINCHOKESCHAFFNERRN1144225X215 > Inductor_THT : Choke_Schaffner_RN114-04-22.5x21.5mm](#fzkinchokeschaffnerrn1144225x215--inductor_tht--choke_schaffner_rn114-04-225x215mm)
+	* [Tags](#tags)
   
 ![][im]
 # FZKINCHOKESCHAFFNERRN1144225X215 > Inductor_THT : Choke_Schaffner_RN114-04-22.5x21.5mm
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKINCHOKESCHAFFNERRN1144225X215](http://oom.lt/FZKINCHOKESCHAFFNERRN1144225X215)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/Choke_Schaffner_RN114-04-22.5x21.5mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/Choke_Schaffner_RN114-04-22.5x21.5mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/Choke_Schaffner_RN114-04-22.5x21.5mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/Choke_Schaffner_RN114-04-22.5x21.5mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/Choke_Schaffner_RN114-04-22.5x21.5mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/Choke_Schaffner_RN114-04-22.5x21.5mm/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/Choke_Schaffner_RN114-04-22.5x21.5mm/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/Choke_Schaffner_RN114-04-22.5x21.5mm/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/Choke_Schaffner_RN114-04-22.5x21.5mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/Choke_Schaffner_RN114-04-22.5x21.5mm/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/Choke_Schaffner_RN114-04-22.5x21.5mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/Choke_Schaffner_RN114-04-22.5x21.5mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/Choke_Schaffner_RN114-04-22.5x21.5mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/Choke_Schaffner_RN114-04-22.5x21.5mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/Choke_Schaffner_RN114-04-22.5x21.5mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/Choke_Schaffner_RN114-04-22.5x21.5mm/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/Choke_Schaffner_RN114-04-22.5x21.5mm/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/Choke_Schaffner_RN114-04-22.5x21.5mm/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Inductor_THT/Choke_Schaffner_RN114-04-22.5x21.5mm/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

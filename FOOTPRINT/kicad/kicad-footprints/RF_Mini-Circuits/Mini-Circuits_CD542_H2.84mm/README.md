@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKRFMCIRCUITSCD542H284 > RF_Mini-Circuits : Mini-Circuits_CD542_H2.84mm](#fzkrfmcircuitscd542h284--rf_mini-circuits--mini-circuits_cd542_h284mm)
+	* [Tags](#tags)
   
 ![][im]
 # FZKRFMCIRCUITSCD542H284 > RF_Mini-Circuits : Mini-Circuits_CD542_H2.84mm
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKRFMCIRCUITSCD542H284](http://oom.lt/FZKRFMCIRCUITSCD542H284)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/RF_Mini-Circuits/Mini-Circuits_CD542_H2.84mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/RF_Mini-Circuits/Mini-Circuits_CD542_H2.84mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/RF_Mini-Circuits/Mini-Circuits_CD542_H2.84mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/RF_Mini-Circuits/Mini-Circuits_CD542_H2.84mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/RF_Mini-Circuits/Mini-Circuits_CD542_H2.84mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/RF_Mini-Circuits/Mini-Circuits_CD542_H2.84mm/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/RF_Mini-Circuits/Mini-Circuits_CD542_H2.84mm/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/RF_Mini-Circuits/Mini-Circuits_CD542_H2.84mm/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/RF_Mini-Circuits/Mini-Circuits_CD542_H2.84mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/RF_Mini-Circuits/Mini-Circuits_CD542_H2.84mm/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/RF_Mini-Circuits/Mini-Circuits_CD542_H2.84mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/RF_Mini-Circuits/Mini-Circuits_CD542_H2.84mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/RF_Mini-Circuits/Mini-Circuits_CD542_H2.84mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/RF_Mini-Circuits/Mini-Circuits_CD542_H2.84mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/RF_Mini-Circuits/Mini-Circuits_CD542_H2.84mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/RF_Mini-Circuits/Mini-Circuits_CD542_H2.84mm/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/RF_Mini-Circuits/Mini-Circuits_CD542_H2.84mm/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/RF_Mini-Circuits/Mini-Circuits_CD542_H2.84mm/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/RF_Mini-Circuits/Mini-Circuits_CD542_H2.84mm/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

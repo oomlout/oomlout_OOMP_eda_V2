@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKFIDFID75MASK225 > Fiducial : Fiducial_0.75mm_Mask2.25mm](#fzkfidfid75mask225--fiducial--fiducial_075mm_mask225mm)
+	* [Tags](#tags)
   
 ![][im]
 # FZKFIDFID75MASK225 > Fiducial : Fiducial_0.75mm_Mask2.25mm
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKFIDFID75MASK225](http://oom.lt/FZKFIDFID75MASK225)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Fiducial/Fiducial_0.75mm_Mask2.25mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Fiducial/Fiducial_0.75mm_Mask2.25mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Fiducial/Fiducial_0.75mm_Mask2.25mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Fiducial/Fiducial_0.75mm_Mask2.25mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Fiducial/Fiducial_0.75mm_Mask2.25mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Fiducial/Fiducial_0.75mm_Mask2.25mm/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Fiducial/Fiducial_0.75mm_Mask2.25mm/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Fiducial/Fiducial_0.75mm_Mask2.25mm/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Fiducial/Fiducial_0.75mm_Mask2.25mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Fiducial/Fiducial_0.75mm_Mask2.25mm/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Fiducial/Fiducial_0.75mm_Mask2.25mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Fiducial/Fiducial_0.75mm_Mask2.25mm/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Fiducial/Fiducial_0.75mm_Mask2.25mm/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Fiducial/Fiducial_0.75mm_Mask2.25mm/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Fiducial/Fiducial_0.75mm_Mask2.25mm/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Fiducial/Fiducial_0.75mm_Mask2.25mm/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Fiducial/Fiducial_0.75mm_Mask2.25mm/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Fiducial/Fiducial_0.75mm_Mask2.25mm/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Fiducial/Fiducial_0.75mm_Mask2.25mm/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

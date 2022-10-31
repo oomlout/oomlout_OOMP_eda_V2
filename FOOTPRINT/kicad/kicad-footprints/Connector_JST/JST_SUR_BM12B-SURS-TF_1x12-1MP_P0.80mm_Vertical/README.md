@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [FZKCNJSTJSTSURBM12BSURSTF1X121MPP8VERTICAL > Connector_JST : JST_SUR_BM12B-SURS-TF_1x12-1MP_P0.80mm_Vertical](#fzkcnjstjstsurbm12bsurstf1x121mpp8vertical--connector_jst--jst_sur_bm12b-surs-tf_1x12-1mp_p080mm_vertical)
+	* [Tags](#tags)
   
 ![][im]
 # FZKCNJSTJSTSURBM12BSURSTF1X121MPP8VERTICAL > Connector_JST : JST_SUR_BM12B-SURS-TF_1x12-1MP_P0.80mm_Vertical
@@ -13,9 +19,9 @@
 - Short Link: [http://oom.lt/FZKCNJSTJSTSURBM12BSURSTF1X121MPP8VERTICAL](http://oom.lt/FZKCNJSTJSTSURBM12BSURSTF1X121MPP8VERTICAL)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_SUR_BM12B-SURS-TF_1x12-1MP_P0.80mm_Vertical/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_SUR_BM12B-SURS-TF_1x12-1MP_P0.80mm_Vertical/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_SUR_BM12B-SURS-TF_1x12-1MP_P0.80mm_Vertical/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_SUR_BM12B-SURS-TF_1x12-1MP_P0.80mm_Vertical/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_SUR_BM12B-SURS-TF_1x12-1MP_P0.80mm_Vertical/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_SUR_BM12B-SURS-TF_1x12-1MP_P0.80mm_Vertical/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_SUR_BM12B-SURS-TF_1x12-1MP_P0.80mm_Vertical/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_SUR_BM12B-SURS-TF_1x12-1MP_P0.80mm_Vertical/kicadPcb3d.png)|
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_SUR_BM12B-SURS-TF_1x12-1MP_P0.80mm_Vertical/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_SUR_BM12B-SURS-TF_1x12-1MP_P0.80mm_Vertical/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_SUR_BM12B-SURS-TF_1x12-1MP_P0.80mm_Vertical/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_SUR_BM12B-SURS-TF_1x12-1MP_P0.80mm_Vertical/image.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_SUR_BM12B-SURS-TF_1x12-1MP_P0.80mm_Vertical/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_SUR_BM12B-SURS-TF_1x12-1MP_P0.80mm_Vertical/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_SUR_BM12B-SURS-TF_1x12-1MP_P0.80mm_Vertical/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_SUR_BM12B-SURS-TF_1x12-1MP_P0.80mm_Vertical/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_SUR_BM12B-SURS-TF_1x12-1MP_P0.80mm_Vertical/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_SUR_BM12B-SURS-TF_1x12-1MP_P0.80mm_Vertical/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -35,4 +41,4 @@
 
 
 
-[im]: FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_SUR_BM12B-SURS-TF_1x12-1MP_P0.80mm_Vertical/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png
