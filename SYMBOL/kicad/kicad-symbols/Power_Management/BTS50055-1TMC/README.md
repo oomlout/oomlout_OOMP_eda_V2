@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKPOWERMANAGEMENTBTS5551TMC > Power_Management : BTS50055-1TMC](#szkpowermanagementbts5551tmc--power_management--bts50055-1tmc)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKPOWERMANAGEMENTBTS5551TMC > Power_Management : BTS50055-1TMC
 
 - ID: SYMBOL-kicad-kicad-symbols-Power_Management-BTS50055-1TMC
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTBTS5551TMC](http://oom.lt/SZKPOWERMANAGEMENTBTS5551TMC)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Power_Management/BTS50055-1TMC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Power_Management/BTS50055-1TMC/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Power_Management/BTS50055-1TMC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Power_Management/BTS50055-1TMC/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Power_Management/BTS50055-1TMC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Power_Management/BTS50055-1TMC/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Power_Management : BTS50055-1TMC|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'BTS50055-1TMA'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'BTS50055-1TMC'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>TO-263-7_TabPin4'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.infineon.com/dgdl/Infineon-BTS50055-1TMC-DS-v01_00-EN.pdf?fileId=5546d4625a888733015aa9b0007235e9'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'BTS50055 PROFET'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Smart High-Side Power Switch</td><td> PROFET</td><td> Single</td><td> 6mOhm</td><td> 17A</td><td> 34V</td><td> TO220-7'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TO*263*TabPin4*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKCNGENERICCONN1X25 > Connector_Generic : Conn_01x25](#szkcngenericconn1x25--connector_generic--conn_01x25)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKCNGENERICCONN1X25 > Connector_Generic : Conn_01x25
 
 - ID: SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x25
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKCNGENERICCONN1X25](http://oom.lt/SZKCNGENERICCONN1X25)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x25/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x25/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x25/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x25/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x25/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x25/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Connector_Generic : Conn_01x25|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'J'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Conn_01x25'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'connector'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Generic connector</td><td> single row</td><td> 01x25</td><td> script generated (kicad-library-utils/schlib/autogen/connector/)'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Connector*</td></tr><tr><td>*_1x??_*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

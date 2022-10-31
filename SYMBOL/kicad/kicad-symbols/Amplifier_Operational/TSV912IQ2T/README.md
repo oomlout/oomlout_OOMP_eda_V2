@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKAMPLIFIEROPERATIONALTSV912IQ2T > Amplifier_Operational : TSV912IQ2T](#szkamplifieroperationaltsv912iq2t--amplifier_operational--tsv912iq2t)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKAMPLIFIEROPERATIONALTSV912IQ2T > Amplifier_Operational : TSV912IQ2T
 
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-TSV912IQ2T
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALTSV912IQ2T](http://oom.lt/SZKAMPLIFIEROPERATIONALTSV912IQ2T)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/TSV912IQ2T/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/TSV912IQ2T/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/TSV912IQ2T/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/TSV912IQ2T/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/TSV912IQ2T/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/TSV912IQ2T/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Amplifier_Operational : TSV912IQ2T|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TSV912IQ2T'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>DFN-8-1EP_2x2mm_P0.5mm_EP1.05x1.75mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'www.st.com/resource/en/datasheet/tsv911.pdf'</td><td> 'kicadSymbolki_locked'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'dual opamp'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Dual rail-to-rail input/output 8 MHz operational amplifiers</td><td> DFN-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DFN*2x2mm*P0.5mm*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

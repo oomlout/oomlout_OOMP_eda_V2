@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKLASMBMTBA3A2 > LED : ASMB-MTB0-0A3A2](#szklasmbmtba3a2--led--asmb-mtb0-0a3a2)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKLASMBMTBA3A2 > LED : ASMB-MTB0-0A3A2
 
 - ID: SYMBOL-kicad-kicad-symbols-LED-ASMB-MTB0-0A3A2
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKLASMBMTBA3A2](http://oom.lt/SZKLASMBMTBA3A2)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/LED/ASMB-MTB0-0A3A2/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/LED/ASMB-MTB0-0A3A2/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/LED/ASMB-MTB0-0A3A2/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/LED/ASMB-MTB0-0A3A2/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/LED/ASMB-MTB0-0A3A2/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/LED/ASMB-MTB0-0A3A2/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|LED : ASMB-MTB0-0A3A2|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ASMB-MTB0-0A3A2'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'LED_SMD</td></tr><tr><td>LED_Avago_PLCC4_3.2x2.8mm_CW'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//docs.broadcom.com/docs/AV02-4186EN'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'led rgb diode'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Tricolor Black Surface LED</td><td> Common Anode Pin 1</td><td> PLCC-4'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> '*Avago*PLCC4*3.2x2.8mm*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKTRANSISTORBJTDT541 > Transistor_BJT : MMDT5401](#szktransistorbjtdt541--transistor_bjt--mmdt5401)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKTRANSISTORBJTDT541 > Transistor_BJT : MMDT5401
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-MMDT5401
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTDT541](http://oom.lt/SZKTRANSISTORBJTDT541)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/MMDT5401/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/MMDT5401/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/MMDT5401/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/MMDT5401/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/MMDT5401/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/MMDT5401/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Transistor_BJT : MMDT5401|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'BC856BS'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MMDT5401'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-363_SC-70-6'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.diodes.com/_files/datasheets/ds30169.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'PNP/PNP Transistor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '200mA IC</td><td> 160V Vce</td><td> Dual PNP/PNP Transistors</td><td> SOT-363'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?363*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKREGULATORLINEARL7815 > Regulator_Linear : L7815](#szkregulatorlinearl7815--regulator_linear--l7815)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKREGULATORLINEARL7815 > Regulator_Linear : L7815
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-L7815
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKREGULATORLINEARL7815](http://oom.lt/SZKREGULATORLINEARL7815)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/L7815/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/L7815/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/L7815/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/L7815/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/L7815/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/L7815/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Regulator_Linear : L7815|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'L7805'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'L7815'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.st.com/content/ccc/resource/technical/document/datasheet/41/4f/b3/b0/12/d4/47/88/CD00000444.pdf/files/CD00000444.pdf/jcr</td></tr><tr><td>content/translations/en.CD00000444.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Voltage Regulator 1.5A Positive'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Positive 1.5A 35V Linear Regulator</td><td> Fixed Output 15V</td><td> TO-220/TO-263/TO-252'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TO?252* TO?263* TO?220*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

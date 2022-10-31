@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKMOTORMOTORDC > Motor : Motor_DC](#szkmotormotordc--motor--motor_dc)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKMOTORMOTORDC > Motor : Motor_DC
 
 - ID: SYMBOL-kicad-kicad-symbols-Motor-Motor_DC
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKMOTORMOTORDC](http://oom.lt/SZKMOTORMOTORDC)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Motor/Motor_DC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Motor/Motor_DC/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Motor/Motor_DC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Motor/Motor_DC/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Motor/Motor_DC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Motor/Motor_DC/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Motor : Motor_DC|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'M'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Motor_DC'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'DC Motor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'DC Motor'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'PinHeader*P2.54mm* TerminalBlock*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

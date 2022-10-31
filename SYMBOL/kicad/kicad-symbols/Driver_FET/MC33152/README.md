@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKDRIVERFETMC33152 > Driver_FET : MC33152](#szkdriverfetmc33152--driver_fet--mc33152)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKDRIVERFETMC33152 > Driver_FET : MC33152
 
 - ID: SYMBOL-kicad-kicad-symbols-Driver_FET-MC33152
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKDRIVERFETMC33152](http://oom.lt/SZKDRIVERFETMC33152)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Driver_FET/MC33152/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Driver_FET/MC33152/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Driver_FET/MC33152/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Driver_FET/MC33152/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Driver_FET/MC33152/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Driver_FET/MC33152/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Driver_FET : MC33152|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'EL7202CN'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MC33152'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.onsemi.com/pub/Collateral/MC34152-D.PDF'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Driver</td><td> Dual MOSFET'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'High Speed Dual MOSFET Drivers</td><td> 1.5A</td><td> -40 to 125C</td><td> DIP-8/SOIC-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W7.62mm* SOIC*3.9x4.9mm*P1.27mm*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

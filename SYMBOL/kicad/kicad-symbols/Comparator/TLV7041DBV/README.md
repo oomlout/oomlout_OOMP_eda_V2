@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKCOMPARATORTLV741DBV > Comparator : TLV7041DBV](#szkcomparatortlv741dbv--comparator--tlv7041dbv)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKCOMPARATORTLV741DBV > Comparator : TLV7041DBV
 
 - ID: SYMBOL-kicad-kicad-symbols-Comparator-TLV7041DBV
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKCOMPARATORTLV741DBV](http://oom.lt/SZKCOMPARATORTLV741DBV)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Comparator/TLV7041DBV/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Comparator/TLV7041DBV/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Comparator/TLV7041DBV/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Comparator/TLV7041DBV/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Comparator/TLV7041DBV/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Comparator/TLV7041DBV/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Comparator : TLV7041DBV|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'MCP6566'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TLV7041DBV'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.ti.com/lit/ds/symlink/tlv7041.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'cmp collector'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Single</td><td> 1.6V-6.5V</td><td> 315nA Quiescent</td><td> Open-Drain Output</td><td> Comparator</td><td> SOT-23-5/SC-70'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23* *SC*70*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

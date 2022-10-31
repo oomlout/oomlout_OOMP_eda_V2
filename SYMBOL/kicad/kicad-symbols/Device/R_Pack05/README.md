@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKDEVICERPACK5 > Device : R_Pack05](#szkdevicerpack5--device--r_pack05)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKDEVICERPACK5 > Device : R_Pack05
 
 - ID: SYMBOL-kicad-kicad-symbols-Device-R_Pack05
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKDEVICERPACK5](http://oom.lt/SZKDEVICERPACK5)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/R_Pack05/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/R_Pack05/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/R_Pack05/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/R_Pack05/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/R_Pack05/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/R_Pack05/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Device : R_Pack05|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'RN'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'R_Pack05'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'R network parallel topology isolated'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '5 resistor network</td><td> parallel topology'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP* SOIC* R*Array*Concave* R*Array*Convex*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

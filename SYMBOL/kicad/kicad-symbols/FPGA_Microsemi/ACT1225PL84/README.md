@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKFPGAMSEMIACT1225PL84 > FPGA_Microsemi : ACT1225PL84](#szkfpgamsemiact1225pl84--fpga_microsemi--act1225pl84)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKFPGAMSEMIACT1225PL84 > FPGA_Microsemi : ACT1225PL84
 
 - ID: SYMBOL-kicad-kicad-symbols-FPGA_Microsemi-ACT1225PL84
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKFPGAMSEMIACT1225PL84](http://oom.lt/SZKFPGAMSEMIACT1225PL84)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/FPGA_Microsemi/ACT1225PL84/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/FPGA_Microsemi/ACT1225PL84/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/FPGA_Microsemi/ACT1225PL84/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/FPGA_Microsemi/ACT1225PL84/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/FPGA_Microsemi/ACT1225PL84/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/FPGA_Microsemi/ACT1225PL84/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|FPGA_Microsemi : ACT1225PL84|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ACT1225PL84'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_LCC</td></tr><tr><td>PLCC-84_29.3x29.3mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.microsemi.com/document-portal/doc_download/130666-act-1-series-fpgas-datasheet'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Actel FPGA'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'ACT1225-PL84</td><td> Actel ACT1 FPGA</td><td> PLCC-84'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> '*PLCC*29.3x29.3mm*P1.27mm*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

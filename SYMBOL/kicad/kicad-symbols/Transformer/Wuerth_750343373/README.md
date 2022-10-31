@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKTRWUERTH75343373 > Transformer : Wuerth_750343373](#szktrwuerth75343373--transformer--wuerth_750343373)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKTRWUERTH75343373 > Transformer : Wuerth_750343373
 
 - ID: SYMBOL-kicad-kicad-symbols-Transformer-Wuerth_750343373
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKTRWUERTH75343373](http://oom.lt/SZKTRWUERTH75343373)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transformer/Wuerth_750343373/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transformer/Wuerth_750343373/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transformer/Wuerth_750343373/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transformer/Wuerth_750343373/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transformer/Wuerth_750343373/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transformer/Wuerth_750343373/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Transformer : Wuerth_750343373|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'TR'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Wuerth_750343373'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Transformer_THT</td></tr><tr><td>Transformer_Wuerth_750343373'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//katalog.we-online.com/ctm/datasheet/750343373.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'PCB Flyback Transformer Dual Secondary'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Primary 18-60V 300kHz</td><td> Dual Secondary 12V-3A/12V-1A</td><td> Flyback Transformer</td><td> PCB'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Transformer*Wuerth*750343373*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

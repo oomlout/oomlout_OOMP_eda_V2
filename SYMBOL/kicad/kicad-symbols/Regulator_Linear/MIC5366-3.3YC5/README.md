@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKREGULATORLINEARMIC536633YC5 > Regulator_Linear : MIC5366-3.3YC5](#szkregulatorlinearmic536633yc5--regulator_linear--mic5366-33yc5)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKREGULATORLINEARMIC536633YC5 > Regulator_Linear : MIC5366-3.3YC5
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-MIC5366-3.3YC5
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKREGULATORLINEARMIC536633YC5](http://oom.lt/SZKREGULATORLINEARMIC536633YC5)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/MIC5366-3.3YC5/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/MIC5366-3.3YC5/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/MIC5366-3.3YC5/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/MIC5366-3.3YC5/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/MIC5366-3.3YC5/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/MIC5366-3.3YC5/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Regulator_Linear : MIC5366-3.3YC5|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'MIC5365-3.3YC5'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MIC5366-3.3YC5'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-353_SC-70-5'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/mic5365.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Micrel LDO voltage regulator'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '150mA Low-dropout Voltage Regulator</td><td> Vout 3.3V</td><td> Output discharge circuit</td><td> Vin up to 5.5V</td><td> SC-70-5'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT*353*SC*70*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

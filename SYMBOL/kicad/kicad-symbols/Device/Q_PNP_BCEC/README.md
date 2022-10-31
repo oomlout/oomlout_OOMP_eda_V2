@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKDEVICEQPNPBCEC > Device : Q_PNP_BCEC](#szkdeviceqpnpbcec--device--q_pnp_bcec)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKDEVICEQPNPBCEC > Device : Q_PNP_BCEC
 
 - ID: SYMBOL-kicad-kicad-symbols-Device-Q_PNP_BCEC
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKDEVICEQPNPBCEC](http://oom.lt/SZKDEVICEQPNPBCEC)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/Q_PNP_BCEC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/Q_PNP_BCEC/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/Q_PNP_BCEC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/Q_PNP_BCEC/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/Q_PNP_BCEC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/Q_PNP_BCEC/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Device : Q_PNP_BCEC|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Q_PNP_BCEC'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'transistor PNP'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'PNP transistor</td><td> base/collector/emitter</td><td> collector connected to mounting plane'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

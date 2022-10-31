@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKMEMORYUNIQUEIDDS241P > Memory_UniqueID : DS2401P](#szkmemoryuniqueidds241p--memory_uniqueid--ds2401p)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKMEMORYUNIQUEIDDS241P > Memory_UniqueID : DS2401P
 
 - ID: SYMBOL-kicad-kicad-symbols-Memory_UniqueID-DS2401P
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKMEMORYUNIQUEIDDS241P](http://oom.lt/SZKMEMORYUNIQUEIDDS241P)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_UniqueID/DS2401P/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_UniqueID/DS2401P/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_UniqueID/DS2401P/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_UniqueID/DS2401P/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_UniqueID/DS2401P/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_UniqueID/DS2401P/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Memory_UniqueID : DS2401P|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'DS2401P'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO_J-Lead</td></tr><tr><td>TSOC-6_3.76x3.94mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//pdfserv.maximintegrated.com/en/ds/DS2401.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'OneWire 1-Wire 1Wire Maxim Dallas ID'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Silicon Serial Number</td><td> TSOC-6'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TSOC*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

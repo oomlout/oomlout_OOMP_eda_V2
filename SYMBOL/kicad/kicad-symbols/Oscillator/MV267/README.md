@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKOCSMV267 > Oscillator : MV267](#szkocsmv267--oscillator--mv267)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKOCSMV267 > Oscillator : MV267
 
 - ID: SYMBOL-kicad-kicad-symbols-Oscillator-MV267
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKOCSMV267](http://oom.lt/SZKOCSMV267)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Oscillator/MV267/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Oscillator/MV267/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Oscillator/MV267/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Oscillator/MV267/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Oscillator/MV267/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Oscillator/MV267/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Oscillator : MV267|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MV267'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Oscillator</td></tr><tr><td>Oscillator_OCXO_Morion_MV267'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.morion.com.ru/catalog_pdf/MV267.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'OCXO'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '5/10 MHz Low Phase-Noise Precision OCXO</td><td> Morion MV267'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Oscillator*OCXO*Morion*MV267*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

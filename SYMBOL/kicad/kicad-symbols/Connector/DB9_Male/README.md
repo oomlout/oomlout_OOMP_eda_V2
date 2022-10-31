@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKCNDB9MALE > Connector : DB9_Male](#szkcndb9male--connector--db9_male)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKCNDB9MALE > Connector : DB9_Male
 
 - ID: SYMBOL-kicad-kicad-symbols-Connector-DB9_Male
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKCNDB9MALE](http://oom.lt/SZKCNDB9MALE)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/DB9_Male/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/DB9_Male/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/DB9_Male/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/DB9_Male/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/DB9_Male/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/DB9_Male/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Connector : DB9_Male|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'J'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'DB9_Male'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> ' ~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'connector male D-SUB'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '9-pin male D-SUB connector'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DSUB*Male*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

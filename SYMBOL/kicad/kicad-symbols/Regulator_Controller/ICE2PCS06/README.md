@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKREGULATORCONTROLLERICE2PCS6 > Regulator_Controller : ICE2PCS06](#szkregulatorcontrollerice2pcs6--regulator_controller--ice2pcs06)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKREGULATORCONTROLLERICE2PCS6 > Regulator_Controller : ICE2PCS06
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Controller-ICE2PCS06
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKREGULATORCONTROLLERICE2PCS6](http://oom.lt/SZKREGULATORCONTROLLERICE2PCS6)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Controller/ICE2PCS06/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Controller/ICE2PCS06/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Controller/ICE2PCS06/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Controller/ICE2PCS06/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Controller/ICE2PCS06/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Controller/ICE2PCS06/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Regulator_Controller : ICE2PCS06|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'ICE1PCS02'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ICE2PCS06'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.infineon.com/dgdl/Infineon-ICE2PCS06-DS-v01_01-en.pdf?fileId=db3a3043327f13e3013285ff4ecb2e77'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'SMPS pfc controller'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Standalone PFC Controller in CCM With Input Brown-Out Protection</td><td> 65kHz</td><td> DIP-8/SOIC-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*3.9x4.9mm*P1.27mm* DIP*W7.62mm*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

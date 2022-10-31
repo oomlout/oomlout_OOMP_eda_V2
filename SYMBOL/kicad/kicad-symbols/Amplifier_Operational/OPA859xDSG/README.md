@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKAMPLIFIEROPERATIONALOPA859XDSG > Amplifier_Operational : OPA859xDSG](#szkamplifieroperationalopa859xdsg--amplifier_operational--opa859xdsg)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKAMPLIFIEROPERATIONALOPA859XDSG > Amplifier_Operational : OPA859xDSG
 
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA859xDSG
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALOPA859XDSG](http://oom.lt/SZKAMPLIFIEROPERATIONALOPA859XDSG)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/OPA859xDSG/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/OPA859xDSG/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/OPA859xDSG/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/OPA859xDSG/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/OPA859xDSG/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/OPA859xDSG/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Amplifier_Operational : OPA859xDSG|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'OPA858xDSG'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'OPA859xDSG'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SON</td></tr><tr><td>WSON-8-1EP_2x2mm_P0.5mm_EP0.9x1.6mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/opa859.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'opamp VFA'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '1.8 GHz Unity-Gain Bandwidth FET Input Amplifier</td><td> WSON-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'WSON*1EP*2x2mm*P0.5mm*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

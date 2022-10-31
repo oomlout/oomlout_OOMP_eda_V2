@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKANALOGSWITCHADG633YCP > Analog_Switch : ADG633YCP](#szkanalogswitchadg633ycp--analog_switch--adg633ycp)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKANALOGSWITCHADG633YCP > Analog_Switch : ADG633YCP
 
 - ID: SYMBOL-kicad-kicad-symbols-Analog_Switch-ADG633YCP
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKANALOGSWITCHADG633YCP](http://oom.lt/SZKANALOGSWITCHADG633YCP)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_Switch/ADG633YCP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_Switch/ADG633YCP/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_Switch/ADG633YCP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_Switch/ADG633YCP/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_Switch/ADG633YCP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_Switch/ADG633YCP/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Analog_Switch : ADG633YCP|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ADG633YCP'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_CSP</td></tr><tr><td>LFCSP-16-1EP_4x4mm_P0.65mm_EP2.1x2.1mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'CMOS Analog Switch'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Triple SPDT CMOS Analog Switch</td><td> 52Ohm Ron</td><td> LFCSP-16'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'LFCSP*4x4mm*P0.65mm*EP2.1x2.1mm*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

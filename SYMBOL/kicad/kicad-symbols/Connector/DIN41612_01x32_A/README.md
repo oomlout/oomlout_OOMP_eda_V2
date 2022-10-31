@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKCNDIN416121X32A > Connector : DIN41612_01x32_A](#szkcndin416121x32a--connector--din41612_01x32_a)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKCNDIN416121X32A > Connector : DIN41612_01x32_A
 
 - ID: SYMBOL-kicad-kicad-symbols-Connector-DIN41612_01x32_A
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKCNDIN416121X32A](http://oom.lt/SZKCNDIN416121X32A)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/DIN41612_01x32_A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/DIN41612_01x32_A/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/DIN41612_01x32_A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/DIN41612_01x32_A/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/DIN41612_01x32_A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/DIN41612_01x32_A/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Connector : DIN41612_01x32_A|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'J'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'DIN41612_01x32_A'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'connector'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'DIN41612 connector</td><td> single row (A)</td><td> 01x32</td><td> script generated (kicad-library-utils/schlib/autogen/connector/)'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIN41612*1x*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

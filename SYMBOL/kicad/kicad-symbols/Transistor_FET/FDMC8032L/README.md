@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKTRANSISTORFETFDMC832L > Transistor_FET : FDMC8032L](#szktransistorfetfdmc832l--transistor_fet--fdmc8032l)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKTRANSISTORFETFDMC832L > Transistor_FET : FDMC8032L
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-FDMC8032L
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKTRANSISTORFETFDMC832L](http://oom.lt/SZKTRANSISTORFETFDMC832L)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/FDMC8032L/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/FDMC8032L/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/FDMC8032L/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/FDMC8032L/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/FDMC8032L/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/FDMC8032L/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Transistor_FET : FDMC8032L|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'FDMC8032L'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SON</td></tr><tr><td>Fairchild_DualPower33-6_3x3mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.onsemi.com/pub/Collateral/FDMC8032L-D.PDF'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Dual N-Channel MOSFET'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '7A Id</td><td> 40V Vds</td><td> Dual N-Channel MOSFET</td><td> 20mOhm Ron</td><td> Power33 Package'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Fairchild*DualPower33*3x3mm*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

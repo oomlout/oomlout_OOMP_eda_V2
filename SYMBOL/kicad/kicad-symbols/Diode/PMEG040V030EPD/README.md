@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKDIODEPMEG4V3EPD > Diode : PMEG040V030EPD](#szkdiodepmeg4v3epd--diode--pmeg040v030epd)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKDIODEPMEG4V3EPD > Diode : PMEG040V030EPD
 
 - ID: SYMBOL-kicad-kicad-symbols-Diode-PMEG040V030EPD
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKDIODEPMEG4V3EPD](http://oom.lt/SZKDIODEPMEG4V3EPD)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/PMEG040V030EPD/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/PMEG040V030EPD/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/PMEG040V030EPD/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/PMEG040V030EPD/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/PMEG040V030EPD/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/PMEG040V030EPD/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Diode : PMEG040V030EPD|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'PMEG45A10EPD'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'PMEG040V030EPD'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>Nexperia_CFP15_SOT-1289'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//assets.nexperia.com/documents/data-sheet/PMEG040V030EPD.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'forward voltage diode'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '40V</td><td> 3A low Vf MEGA Schottky barrier rectifier</td><td> SOT-1289'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Nexperia*CFP15*SOT?1289*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

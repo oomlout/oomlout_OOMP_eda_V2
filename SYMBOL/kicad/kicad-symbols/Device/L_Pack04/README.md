@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKDEVICELPACK4 > Device : L_Pack04](#szkdevicelpack4--device--l_pack04)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKDEVICELPACK4 > Device : L_Pack04
 
 - ID: SYMBOL-kicad-kicad-symbols-Device-L_Pack04
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKDEVICELPACK4](http://oom.lt/SZKDEVICELPACK4)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/L_Pack04/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/L_Pack04/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/L_Pack04/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/L_Pack04/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/L_Pack04/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/L_Pack04/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Device : L_Pack04|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'LN'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'L_Pack04'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'L network parallel topology'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '4 inductor network</td><td> parallel topology'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

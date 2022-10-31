@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKPOTENTIOMETERDIGITALTPL41A1Q1 > Potentiometer_Digital : TPL0401A-10-Q1](#szkpotentiometerdigitaltpl41a1q1--potentiometer_digital--tpl0401a-10-q1)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKPOTENTIOMETERDIGITALTPL41A1Q1 > Potentiometer_Digital : TPL0401A-10-Q1
 
 - ID: SYMBOL-kicad-kicad-symbols-Potentiometer_Digital-TPL0401A-10-Q1
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKPOTENTIOMETERDIGITALTPL41A1Q1](http://oom.lt/SZKPOTENTIOMETERDIGITALTPL41A1Q1)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Potentiometer_Digital/TPL0401A-10-Q1/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Potentiometer_Digital/TPL0401A-10-Q1/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Potentiometer_Digital/TPL0401A-10-Q1/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Potentiometer_Digital/TPL0401A-10-Q1/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Potentiometer_Digital/TPL0401A-10-Q1/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Potentiometer_Digital/TPL0401A-10-Q1/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Potentiometer_Digital : TPL0401A-10-Q1|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TPL0401A-10-Q1'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>Texas_R-PDSO-G6'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/tpl0401a-10-q1.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Digital Pot Potentiometer I2C'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '128-TAPS Single-Channel Digital Potentiometer</td><td> I2C Interface</td><td> SC-70-6'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Texas*R*PDSO*G*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

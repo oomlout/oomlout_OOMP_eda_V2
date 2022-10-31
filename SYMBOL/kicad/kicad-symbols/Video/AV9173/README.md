@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKVIDEOAV9173 > Video : AV9173](#szkvideoav9173--video--av9173)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKVIDEOAV9173 > Video : AV9173
 
 - ID: SYMBOL-kicad-kicad-symbols-Video-AV9173
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKVIDEOAV9173](http://oom.lt/SZKVIDEOAV9173)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Video/AV9173/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Video/AV9173/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Video/AV9173/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Video/AV9173/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Video/AV9173/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Video/AV9173/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Video : AV9173|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'AV9173'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ibselectronics.com/ibsstore/datasheet/Others/AV9173-01CN08.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'video pll'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Video Genlock PLL'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

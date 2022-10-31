@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKMEMORYRAMH5AN8G8NAFRUHC > Memory_RAM : H5AN8G8NAFR-UHC](#szkmemoryramh5an8g8nafruhc--memory_ram--h5an8g8nafr-uhc)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKMEMORYRAMH5AN8G8NAFRUHC > Memory_RAM : H5AN8G8NAFR-UHC
 
 - ID: SYMBOL-kicad-kicad-symbols-Memory_RAM-H5AN8G8NAFR-UHC
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKMEMORYRAMH5AN8G8NAFRUHC](http://oom.lt/SZKMEMORYRAMH5AN8G8NAFRUHC)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_RAM/H5AN8G8NAFR-UHC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_RAM/H5AN8G8NAFR-UHC/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_RAM/H5AN8G8NAFR-UHC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_RAM/H5AN8G8NAFR-UHC/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_RAM/H5AN8G8NAFR-UHC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_RAM/H5AN8G8NAFR-UHC/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Memory_RAM : H5AN8G8NAFR-UHC|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'H5AN8G8NAFR-UHC'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_BGA</td></tr><tr><td>FBGA-78_7.5x11mm_Layout2x3x13_P0.8mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.skhynix.com/product/filedata/fileDownload.do?seq=7687'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'DDR4 DRAM MEMORY'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '8Gb CMOS Double Data Rate IV Synchronous RAM'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'FBGA*7.5x11mm*P0.8mm*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

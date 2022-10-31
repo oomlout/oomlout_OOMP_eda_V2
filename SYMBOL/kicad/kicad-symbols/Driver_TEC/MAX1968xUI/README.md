@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKDRIVERTECMAX1968XUI > Driver_TEC : MAX1968xUI](#szkdrivertecmax1968xui--driver_tec--max1968xui)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKDRIVERTECMAX1968XUI > Driver_TEC : MAX1968xUI
 
 - ID: SYMBOL-kicad-kicad-symbols-Driver_TEC-MAX1968xUI
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKDRIVERTECMAX1968XUI](http://oom.lt/SZKDRIVERTECMAX1968XUI)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Driver_TEC/MAX1968xUI/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Driver_TEC/MAX1968xUI/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Driver_TEC/MAX1968xUI/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Driver_TEC/MAX1968xUI/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Driver_TEC/MAX1968xUI/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Driver_TEC/MAX1968xUI/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Driver_TEC : MAX1968xUI|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MAX1968xUI'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>HTSSOP-28-1EP_4.4x9.7mm_P0.65mm_EP2.85x5.4mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//datasheets.maximintegrated.com/en/ds/MAX1968-MAX1969.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'thermoelectric cooler'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Power Driver for Peltier TEC Modules</td><td> +-3A</td><td> HTSSOP-28'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'HTSSOP*4.4x9.7mm*P0.65mm*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

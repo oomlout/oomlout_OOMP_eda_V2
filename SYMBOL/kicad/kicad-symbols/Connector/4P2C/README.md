@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKCN4P2C > Connector : 4P2C](#szkcn4p2c--connector--4p2c)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKCN4P2C > Connector : 4P2C
 
 - ID: SYMBOL-kicad-kicad-symbols-Connector-4P2C
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKCN4P2C](http://oom.lt/SZKCN4P2C)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/4P2C/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/4P2C/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/4P2C/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/4P2C/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/4P2C/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/4P2C/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Connector : 4P2C|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'J'</td><td> 'kicadSymbolValue'</td></tr><tr><td> '4P2C'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> '4P2C RJ female connector'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'RJ connector</td><td> 4P2C (4 positions 2 connected)'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> '4P2C*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

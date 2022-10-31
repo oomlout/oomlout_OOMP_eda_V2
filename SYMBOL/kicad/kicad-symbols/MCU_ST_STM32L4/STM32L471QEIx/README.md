@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKMCUSTSTM32L4STM32L471QEIX > MCU_ST_STM32L4 : STM32L471QEIx](#szkmcuststm32l4stm32l471qeix--mcu_st_stm32l4--stm32l471qeix)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKMCUSTSTM32L4STM32L471QEIX > MCU_ST_STM32L4 : STM32L471QEIx
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32L4-STM32L471QEIx
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKMCUSTSTM32L4STM32L471QEIX](http://oom.lt/SZKMCUSTSTM32L4STM32L471QEIX)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32L4/STM32L471QEIx/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32L4/STM32L471QEIx/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32L4/STM32L471QEIx/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32L4/STM32L471QEIx/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32L4/STM32L471QEIx/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32L4/STM32L471QEIx/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|MCU_ST_STM32L4 : STM32L471QEIx|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'STM32L471QEIx'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_BGA</td></tr><tr><td>UFBGA-132_7x7mm_Layout12x12_P0.5mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00149404.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'ARM Cortex-M4 STM32L4 STM32L4x1'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'ARM Cortex-M4 MCU</td><td> 512KB flash</td><td> 128KB RAM</td><td> 80MHz</td><td> 1.71-3.6V</td><td> 109 GPIO</td><td> UFBGA-132'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'UFBGA*7x7mm*Layout12x12*P0.5mm*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

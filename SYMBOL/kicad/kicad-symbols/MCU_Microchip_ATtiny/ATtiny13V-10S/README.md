@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKMCUMCHIPATTINYATTINY13V1S > MCU_Microchip_ATtiny : ATtiny13V-10S](#szkmcumchipattinyattiny13v1s--mcu_microchip_attiny--attiny13v-10s)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKMCUMCHIPATTINYATTINY13V1S > MCU_Microchip_ATtiny : ATtiny13V-10S
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny13V-10S
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKMCUMCHIPATTINYATTINY13V1S](http://oom.lt/SZKMCUMCHIPATTINYATTINY13V1S)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATtiny/ATtiny13V-10S/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATtiny/ATtiny13V-10S/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATtiny/ATtiny13V-10S/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATtiny/ATtiny13V-10S/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATtiny/ATtiny13V-10S/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATtiny/ATtiny13V-10S/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|MCU_Microchip_ATtiny : ATtiny13V-10S|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ATtiny13V-10S'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-8W_5.3x5.3mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/doc2535.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'AVR 8bit Microcontroller tinyAVR'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '10MHz</td><td> 1kB Flash</td><td> 64B SRAM</td><td> 64B EEPROM</td><td> debugWIRE</td><td> SOIC-8W'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*5.3x5.3mm*P1.27mm*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

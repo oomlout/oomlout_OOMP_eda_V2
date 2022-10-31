@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKTRADTT11 > Transformer : ADTT1-1](#szktradtt11--transformer--adtt1-1)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKTRADTT11 > Transformer : ADTT1-1
 
 - ID: SYMBOL-kicad-kicad-symbols-Transformer-ADTT1-1
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKTRADTT11](http://oom.lt/SZKTRADTT11)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transformer/ADTT1-1/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transformer/ADTT1-1/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transformer/ADTT1-1/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transformer/ADTT1-1/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transformer/ADTT1-1/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transformer/ADTT1-1/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Transformer : ADTT1-1|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'TR'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ADTT1-1'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'RF_Mini-Circuits</td></tr><tr><td>Mini-Circuits_CD542_H2.84mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.minicircuits.com/pdfs/ADTT1-1+.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Mini-Circuits RF Transformer'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '0.3-300MHz 1</td></tr><tr><td>1 RF Transformer</td><td> Unbalanced to Balanced Center Tap at Primary/Secondary</td><td> CD542'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Mini?Circuits*CD542*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

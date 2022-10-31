@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKDEVICEDBRIDGE+AA > Device : D_Bridge_+AA-](#szkdevicedbridgeaa--device--d_bridge_aa-)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKDEVICEDBRIDGE+AA > Device : D_Bridge_+AA-
 
 - ID: SYMBOL-kicad-kicad-symbols-Device-D_Bridge_+AA-
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKDEVICEDBRIDGE+AA](http://oom.lt/SZKDEVICEDBRIDGE+AA)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/D_Bridge_+AA-/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/D_Bridge_+AA-/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/D_Bridge_+AA-/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/D_Bridge_+AA-/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/D_Bridge_+AA-/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/D_Bridge_+AA-/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Device : D_Bridge_+AA-|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'D_Bridge_+AA-'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'rectifier ACDC'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Diode bridge</td><td> +ve/AC/AC/-ve'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'D*Bridge* D*Rectifier*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

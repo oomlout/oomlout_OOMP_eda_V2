@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKTRANSISTORFETDMC371LVT > Transistor_FET : DMC3071LVT](#szktransistorfetdmc371lvt--transistor_fet--dmc3071lvt)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKTRANSISTORFETDMC371LVT > Transistor_FET : DMC3071LVT
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-DMC3071LVT
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKTRANSISTORFETDMC371LVT](http://oom.lt/SZKTRANSISTORFETDMC371LVT)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/DMC3071LVT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/DMC3071LVT/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/DMC3071LVT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/DMC3071LVT/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/DMC3071LVT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/DMC3071LVT/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Transistor_FET : DMC3071LVT|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'DMC2053UVT'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'DMC3071LVT'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>TSOT-23-6'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.diodes.com/assets/Datasheets/DMC3071LVT.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'complementary mosfet'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '3.4A/-2.7A Id</td><td> 30V Vds</td><td> Complementary pair enhancement mode P-Channel and N-Channel MOSFET</td><td> TSOT-23-6'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TSOT?23*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

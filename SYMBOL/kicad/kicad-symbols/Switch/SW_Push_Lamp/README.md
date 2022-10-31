@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKSWITCHSWPUSHLAMP > Switch : SW_Push_Lamp](#szkswitchswpushlamp--switch--sw_push_lamp)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKSWITCHSWPUSHLAMP > Switch : SW_Push_Lamp
 
 - ID: SYMBOL-kicad-kicad-symbols-Switch-SW_Push_Lamp
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKSWITCHSWPUSHLAMP](http://oom.lt/SZKSWITCHSWPUSHLAMP)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Switch/SW_Push_Lamp/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Switch/SW_Push_Lamp/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Switch/SW_Push_Lamp/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Switch/SW_Push_Lamp/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Switch/SW_Push_Lamp/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Switch/SW_Push_Lamp/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Switch : SW_Push_Lamp|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'SW'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'SW_Push_Lamp'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'switch normally-open pushbutton push-button Lamp'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Push button switch with Signal Lamp</td><td> generic'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKREFERENCEVOLTAGEMAX615 > Reference_Voltage : MAX6105](#szkreferencevoltagemax615--reference_voltage--max6105)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKREFERENCEVOLTAGEMAX615 > Reference_Voltage : MAX6105
 
 - ID: SYMBOL-kicad-kicad-symbols-Reference_Voltage-MAX6105
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKREFERENCEVOLTAGEMAX615](http://oom.lt/SZKREFERENCEVOLTAGEMAX615)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Reference_Voltage/MAX6105/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Reference_Voltage/MAX6105/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Reference_Voltage/MAX6105/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Reference_Voltage/MAX6105/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Reference_Voltage/MAX6105/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Reference_Voltage/MAX6105/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Reference_Voltage : MAX6105|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'MAX6100'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MAX6105'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-23'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//datasheets.maximintegrated.com/en/ds/MAX6100-MAX6107.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'voltage reference ldo'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Low-dropout high current voltage reference</td><td> 5.000V</td><td> ±0.4% accuracy</td><td> SOT-23'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

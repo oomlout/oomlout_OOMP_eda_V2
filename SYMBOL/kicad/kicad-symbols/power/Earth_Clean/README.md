@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKPOWEREARTHCLEAN > power : Earth_Clean](#szkpowerearthclean--power--earth_clean)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKPOWEREARTHCLEAN > power : Earth_Clean
 
 - ID: SYMBOL-kicad-kicad-symbols-power-Earth_Clean
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKPOWEREARTHCLEAN](http://oom.lt/SZKPOWEREARTHCLEAN)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/power/Earth_Clean/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/power/Earth_Clean/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/power/Earth_Clean/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/power/Earth_Clean/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/power/Earth_Clean/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/power/Earth_Clean/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|power : Earth_Clean|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> '#PWR'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Earth_Clean'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'power-flag ground gnd clean signal'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Power symbol creates a global label with name "Earth_Clean"'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

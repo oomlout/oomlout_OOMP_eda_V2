@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKMCUMCHIPPIC16PIC16C55ISL > MCU_Microchip_PIC16 : PIC16C505-ISL](#szkmcumchippic16pic16c55isl--mcu_microchip_pic16--pic16c505-isl)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKMCUMCHIPPIC16PIC16C55ISL > MCU_Microchip_PIC16 : PIC16C505-ISL
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC16-PIC16C505-ISL
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC16PIC16C55ISL](http://oom.lt/SZKMCUMCHIPPIC16PIC16C55ISL)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC16/PIC16C505-ISL/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC16/PIC16C505-ISL/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC16/PIC16C505-ISL/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC16/PIC16C505-ISL/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC16/PIC16C505-ISL/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC16/PIC16C505-ISL/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|MCU_Microchip_PIC16 : PIC16C505-ISL|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'PIC16F505-ISL'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'PIC16C505-ISL'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/41236E.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'ROM-Based 8bit Microcontroller'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'PIC16C505</td><td> 1024W ROM</td><td> 72B SRAM</td><td> SO14'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SO* SOIC*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

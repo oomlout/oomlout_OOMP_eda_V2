@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKBATMANAGEMENTBQ25895RTW > Battery_Management : BQ25895RTW](#szkbatmanagementbq25895rtw--battery_management--bq25895rtw)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKBATMANAGEMENTBQ25895RTW > Battery_Management : BQ25895RTW
 
 - ID: SYMBOL-kicad-kicad-symbols-Battery_Management-BQ25895RTW
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKBATMANAGEMENTBQ25895RTW](http://oom.lt/SZKBATMANAGEMENTBQ25895RTW)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Battery_Management/BQ25895RTW/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Battery_Management/BQ25895RTW/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Battery_Management/BQ25895RTW/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Battery_Management/BQ25895RTW/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Battery_Management/BQ25895RTW/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Battery_Management/BQ25895RTW/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Battery_Management : BQ25895RTW|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'BQ25895RTW'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>Texas_S-PWQFN-N24_EP2.7x2.7mm_ThermalVias'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/bq25895.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Battery Charger and Power Path Management'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Controlled Single Cell 5A Fast Charger with MaxCharge</td><td> WQFN-24'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Texas*S?PWQFN?N*EP*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

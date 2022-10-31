@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKCNAUDIOJ3DUALSWITCH > Connector : AudioJack3_Dual_Switch](#szkcnaudioj3dualswitch--connector--audiojack3_dual_switch)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKCNAUDIOJ3DUALSWITCH > Connector : AudioJack3_Dual_Switch
 
 - ID: SYMBOL-kicad-kicad-symbols-Connector-AudioJack3_Dual_Switch
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKCNAUDIOJ3DUALSWITCH](http://oom.lt/SZKCNAUDIOJ3DUALSWITCH)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/AudioJack3_Dual_Switch/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/AudioJack3_Dual_Switch/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/AudioJack3_Dual_Switch/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/AudioJack3_Dual_Switch/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/AudioJack3_Dual_Switch/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/AudioJack3_Dual_Switch/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Connector : AudioJack3_Dual_Switch|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'J'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'AudioJack3_Dual_Switch'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'audio jack dual receptacle stereo headphones phones TRS connector'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Audio Jack</td><td> Dual</td><td> 3 Poles (Stereo / TRS)</td><td> Switched Poles (Normalling)'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Jack*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

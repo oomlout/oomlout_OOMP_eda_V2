@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKFPGAXILINXVIRTEX7XC7VX114TFLG1928 > FPGA_Xilinx_Virtex7 : XC7VX1140T-FLG1928](#szkfpgaxilinxvirtex7xc7vx114tflg1928--fpga_xilinx_virtex7--xc7vx1140t-flg1928)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKFPGAXILINXVIRTEX7XC7VX114TFLG1928 > FPGA_Xilinx_Virtex7 : XC7VX1140T-FLG1928
 
 - ID: SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Virtex7-XC7VX1140T-FLG1928
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKFPGAXILINXVIRTEX7XC7VX114TFLG1928](http://oom.lt/SZKFPGAXILINXVIRTEX7XC7VX114TFLG1928)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx_Virtex7/XC7VX1140T-FLG1928/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx_Virtex7/XC7VX1140T-FLG1928/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx_Virtex7/XC7VX1140T-FLG1928/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx_Virtex7/XC7VX1140T-FLG1928/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx_Virtex7/XC7VX1140T-FLG1928/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx_Virtex7/XC7VX1140T-FLG1928/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|FPGA_Xilinx_Virtex7 : XC7VX1140T-FLG1928|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'XC7VX1140T-FLG1928'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_locked'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'FPGA'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Virtex 7 XT 1140 XC7VX1140T-FLG1928'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKDIODEPMEG12EH > Diode : PMEG1020EH](#szkdiodepmeg12eh--diode--pmeg1020eh)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKDIODEPMEG12EH > Diode : PMEG1020EH
 
 - ID: SYMBOL-kicad-kicad-symbols-Diode-PMEG1020EH
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKDIODEPMEG12EH](http://oom.lt/SZKDIODEPMEG12EH)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/PMEG1020EH/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/PMEG1020EH/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/PMEG1020EH/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/PMEG1020EH/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/PMEG1020EH/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/PMEG1020EH/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Diode : PMEG1020EH|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'PMEG2005EH'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'PMEG1020EH'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Diode_SMD</td></tr><tr><td>D_SOD-123F'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//assets.nexperia.com/documents/data-sheet/PMEG1020EH_EJ.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'forward voltage diode'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '10V</td><td> 2A ultra low Vf MEGA Schottky barrier rectifier</td><td> SOD-123F'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'D*SOD?123F*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

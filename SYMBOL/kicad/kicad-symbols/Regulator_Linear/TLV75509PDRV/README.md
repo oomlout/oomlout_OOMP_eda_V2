@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKREGULATORLINEARTLV7559PDRV > Regulator_Linear : TLV75509PDRV](#szkregulatorlineartlv7559pdrv--regulator_linear--tlv75509pdrv)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKREGULATORLINEARTLV7559PDRV > Regulator_Linear : TLV75509PDRV
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-TLV75509PDRV
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKREGULATORLINEARTLV7559PDRV](http://oom.lt/SZKREGULATORLINEARTLV7559PDRV)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/TLV75509PDRV/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/TLV75509PDRV/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/TLV75509PDRV/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/TLV75509PDRV/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/TLV75509PDRV/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/TLV75509PDRV/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Regulator_Linear : TLV75509PDRV|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TLV75509PDRV'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SON</td></tr><tr><td>WSON-6-1EP_2x2mm_P0.65mm_EP1x1.6mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/tlv755p.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'LDO Regulator Fixed Positive'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '500mA Low Dropout Voltage Regulator</td><td> Fixed Output 0.9V</td><td> WSON6'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'WSON*1EP*2x2mm*P0.65mm*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

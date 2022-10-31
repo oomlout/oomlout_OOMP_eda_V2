@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKCNCONNWALLSO > Connector : Conn_WallSocket](#szkcnconnwallso--connector--conn_wallsocket)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKCNCONNWALLSO > Connector : Conn_WallSocket
 
 - ID: SYMBOL-kicad-kicad-symbols-Connector-Conn_WallSocket
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKCNCONNWALLSO](http://oom.lt/SZKCNCONNWALLSO)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_WallSocket/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_WallSocket/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_WallSocket/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_WallSocket/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_WallSocket/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_WallSocket/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Connector : Conn_WallSocket|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'J'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Conn_WallSocket'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'wall socket 110VAC 220VAC'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '3-pin german wall socket</td><td> no Earth wire (110VAC</td><td> 220VAC)'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

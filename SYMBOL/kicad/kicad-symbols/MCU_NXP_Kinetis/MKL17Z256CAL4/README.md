@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKMCUNXPKINETISMKL17Z256CAL4 > MCU_NXP_Kinetis : MKL17Z256CAL4](#szkmcunxpkinetismkl17z256cal4--mcu_nxp_kinetis--mkl17z256cal4)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKMCUNXPKINETISMKL17Z256CAL4 > MCU_NXP_Kinetis : MKL17Z256CAL4
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_NXP_Kinetis-MKL17Z256CAL4
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKMCUNXPKINETISMKL17Z256CAL4](http://oom.lt/SZKMCUNXPKINETISMKL17Z256CAL4)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_Kinetis/MKL17Z256CAL4/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_Kinetis/MKL17Z256CAL4/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_Kinetis/MKL17Z256CAL4/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_Kinetis/MKL17Z256CAL4/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_Kinetis/MKL17Z256CAL4/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_Kinetis/MKL17Z256CAL4/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|MCU_NXP_Kinetis : MKL17Z256CAL4|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MKL17Z256CAL4'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_CSP</td></tr><tr><td>WLCSP-36_2.82x2.67mm_Layout6x6_P0.4mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.nxp.com/docs/en/data-sheet/KL17P64M48SF6.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Kinetis KL17 ARM Cortex M0+'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Kinetis KL17 series</td><td> 48-MHz/32-bit ARM Cortex-M0+</td><td> 256 kB flash</td><td> 32 kB SRAM</td><td> FlexIO</td><td> WLCSP-36'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'WLCSP*2.82x2.67mm*P0.4mm*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

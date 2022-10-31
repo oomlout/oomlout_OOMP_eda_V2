@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKRELAYHF33 > Relay : HF3-03](#szkrelayhf33--relay--hf3-03)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKRELAYHF33 > Relay : HF3-03
 
 - ID: SYMBOL-kicad-kicad-symbols-Relay-HF3-03
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKRELAYHF33](http://oom.lt/SZKRELAYHF33)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Relay/HF3-03/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Relay/HF3-03/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Relay/HF3-03/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Relay/HF3-03/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Relay/HF3-03/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Relay/HF3-03/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Relay : HF3-03|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'HF3-01'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'K'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'HF3-03'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Relay_SMD</td></tr><tr><td>Relay_SPDT_AXICOM_HF3Series_75ohms_Pitch1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//hiqsdr.com/images/3/3e/Axicom-HF3.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Single Pole Relay SPDT'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'AXICOM HF3 relay</td><td> 3GHz</td><td> SPDT RF Switching Relay</td><td> 75ohm</td><td> 5Vdc</td><td> Single-Side Stable'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Relay*SPDT*AXICOM*HF3Series*75ohms*Pitch1.27mm*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

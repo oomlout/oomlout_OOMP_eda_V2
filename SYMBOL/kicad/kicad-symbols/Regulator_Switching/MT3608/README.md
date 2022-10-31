@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKREGULATORSWITCHINGMT368 > Regulator_Switching : MT3608](#szkregulatorswitchingmt368--regulator_switching--mt3608)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKREGULATORSWITCHINGMT368 > Regulator_Switching : MT3608
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-MT3608
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGMT368](http://oom.lt/SZKREGULATORSWITCHINGMT368)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/MT3608/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/MT3608/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/MT3608/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/MT3608/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/MT3608/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/MT3608/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Regulator_Switching : MT3608|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MT3608'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-23-6'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.olimex.com/Products/Breadboarding/BB-PWR-3608/resources/MT3608.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Step-Up Boost DC-DC Regulator Adjustable'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'High Efficiency 1.2MHz 2A Step Up Converter</td><td> 2-24V Vin</td><td> 28V Vout</td><td> 4A current limit</td><td> 1.2MHz</td><td> SOT23-6'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT*23*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

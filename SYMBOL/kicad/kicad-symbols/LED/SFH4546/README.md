@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKLSFH4546 > LED : SFH4546](#szklsfh4546--led--sfh4546)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKLSFH4546 > LED : SFH4546
 
 - ID: SYMBOL-kicad-kicad-symbols-LED-SFH4546
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKLSFH4546](http://oom.lt/SZKLSFH4546)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/LED/SFH4546/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/LED/SFH4546/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/LED/SFH4546/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/LED/SFH4546/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/LED/SFH4546/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/LED/SFH4546/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|LED : SFH4546|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'LD271'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'SFH4546'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'LED_THT</td></tr><tr><td>LED_D5.0mm_IRGrey'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.osram-os.com/Graphics/XPic1/00101982_0.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'IR LED'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'High-Power IR LED 940nm'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'LED*5.0mm*IRGrey*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKSENPRESSUREBMP28 > Sensor_Pressure : BMP280](#szksenpressurebmp28--sensor_pressure--bmp280)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKSENPRESSUREBMP28 > Sensor_Pressure : BMP280
 
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Pressure-BMP280
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKSENPRESSUREBMP28](http://oom.lt/SZKSENPRESSUREBMP28)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Pressure/BMP280/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Pressure/BMP280/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Pressure/BMP280/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Pressure/BMP280/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Pressure/BMP280/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Pressure/BMP280/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Sensor_Pressure : BMP280|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'BMP280'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_LGA</td></tr><tr><td>Bosch_LGA-8_2x2.5mm_P0.65mm_ClockwisePinNumbering'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//ae-bst.resource.bosch.com/media/_tech/media/datasheets/BST-BMP280-DS001.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'I2C</td><td> SPI</td><td> pressure</td><td> temperature</td><td> sensor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Absolute Barometric Pressure Sensor</td><td> LGA-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Bosch*LGA*2x2.5mm*P0.65mm*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

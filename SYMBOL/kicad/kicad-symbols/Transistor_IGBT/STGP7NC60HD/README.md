@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKTRANSISTORIGBTSTGP7NC6HD > Transistor_IGBT : STGP7NC60HD](#szktransistorigbtstgp7nc6hd--transistor_igbt--stgp7nc60hd)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKTRANSISTORIGBTSTGP7NC6HD > Transistor_IGBT : STGP7NC60HD
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_IGBT-STGP7NC60HD
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKTRANSISTORIGBTSTGP7NC6HD](http://oom.lt/SZKTRANSISTORIGBTSTGP7NC6HD)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_IGBT/STGP7NC60HD/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_IGBT/STGP7NC60HD/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_IGBT/STGP7NC60HD/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_IGBT/STGP7NC60HD/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_IGBT/STGP7NC60HD/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_IGBT/STGP7NC60HD/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Transistor_IGBT : STGP7NC60HD|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'STGP7NC60HD'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_THT</td></tr><tr><td>TO-220-3_Vertical'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.farnell.com/datasheets/2309889.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'N-Channel very fast IGBT with ultrafast diode Power Transistor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '25A</td><td> 600V</td><td> N-Channel IGBT</td><td> TO-220'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TO?220*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

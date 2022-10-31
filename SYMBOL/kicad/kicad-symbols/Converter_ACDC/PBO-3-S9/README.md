@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKCONPBO3S9 > Converter_ACDC : PBO-3-S9](#szkconpbo3s9--converter_acdc--pbo-3-s9)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKCONPBO3S9 > Converter_ACDC : PBO-3-S9
 
 - ID: SYMBOL-kicad-kicad-symbols-Converter_ACDC-PBO-3-S9
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKCONPBO3S9](http://oom.lt/SZKCONPBO3S9)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Converter_ACDC/PBO-3-S9/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Converter_ACDC/PBO-3-S9/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Converter_ACDC/PBO-3-S9/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Converter_ACDC/PBO-3-S9/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Converter_ACDC/PBO-3-S9/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Converter_ACDC/PBO-3-S9/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Converter_ACDC : PBO-3-S9|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'PBO-3-S3.3'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'PBO-3-S9'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Converter_ACDC</td></tr><tr><td>Converter_ACDC_CUI_PBO-3-Sxx_THT_Vertical'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.cui.com/product/resource/pbo-3.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'ac dc power supply'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '9V 0.333A 3W miniature AC-DC module-type power supply'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Converter*ACDC*CUI*PBO*3*Sxx*THT*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

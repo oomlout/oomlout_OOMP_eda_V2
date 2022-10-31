@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKTRANSISTORBJTBD44 > Transistor_BJT : BD440](#szktransistorbjtbd44--transistor_bjt--bd440)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKTRANSISTORBJTBD44 > Transistor_BJT : BD440
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_BJT-BD440
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKTRANSISTORBJTBD44](http://oom.lt/SZKTRANSISTORBJTBD44)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/BD440/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/BD440/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/BD440/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/BD440/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/BD440/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_BJT/BD440/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Transistor_BJT : BD440|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'BD434'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'BD440'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_THT</td></tr><tr><td>TO-126-3_Vertical'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.cdil.com/datasheets/bd433_42.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Power PNP Transistor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '4A Ic</td><td> 60V Vce</td><td> Power PNP Transistor</td><td> TO-126'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TO?126*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

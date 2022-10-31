@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKINTERFACELTC6957XDD2 > Interface : LTC6957xDD-2](#szkinterfaceltc6957xdd2--interface--ltc6957xdd-2)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKINTERFACELTC6957XDD2 > Interface : LTC6957xDD-2
 
 - ID: SYMBOL-kicad-kicad-symbols-Interface-LTC6957xDD-2
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKINTERFACELTC6957XDD2](http://oom.lt/SZKINTERFACELTC6957XDD2)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface/LTC6957xDD-2/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface/LTC6957xDD-2/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface/LTC6957xDD-2/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface/LTC6957xDD-2/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface/LTC6957xDD-2/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface/LTC6957xDD-2/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Interface : LTC6957xDD-2|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LTC6957xDD-2'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>DFN-12-1EP_3x3mm_P0.45mm_EP1.66x2.38mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/6957fb.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'LTC clock converter'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Low Phase Noise</td><td> Dual Output Buffer/Driver/Logic Converter</td><td> LVDS</td><td> DFN-12'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DFN*3x3mm*P0.45mm*EP1.66x2.38mm*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKREGULATORSWITCHINGLTM4637XV > Regulator_Switching : LTM4637xV](#szkregulatorswitchingltm4637xv--regulator_switching--ltm4637xv)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKREGULATORSWITCHINGLTM4637XV > Regulator_Switching : LTM4637xV
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-LTM4637xV
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGLTM4637XV](http://oom.lt/SZKREGULATORSWITCHINGLTM4637XV)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LTM4637xV/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LTM4637xV/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LTM4637xV/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LTM4637xV/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LTM4637xV/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LTM4637xV/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Regulator_Switching : LTM4637xV|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LTM4637xV'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_LGA</td></tr><tr><td>Linear_LGA-133_15.0x15.0mm_Layout12x12_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/4637fc.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'uModule DCDC'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '20A DC/DC µModule Step-Down Regulator</td><td> LGA-133'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Linear*LGA*15.0x15.0mm*Layout12x12*P1.27mm*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

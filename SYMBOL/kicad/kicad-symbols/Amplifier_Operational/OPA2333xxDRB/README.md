@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKAMPLIFIEROPERATIONALOPA2333XXDRB > Amplifier_Operational : OPA2333xxDRB](#szkamplifieroperationalopa2333xxdrb--amplifier_operational--opa2333xxdrb)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKAMPLIFIEROPERATIONALOPA2333XXDRB > Amplifier_Operational : OPA2333xxDRB
 
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Operational-OPA2333xxDRB
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALOPA2333XXDRB](http://oom.lt/SZKAMPLIFIEROPERATIONALOPA2333XXDRB)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/OPA2333xxDRB/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/OPA2333xxDRB/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/OPA2333xxDRB/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/OPA2333xxDRB/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/OPA2333xxDRB/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/OPA2333xxDRB/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Amplifier_Operational : OPA2333xxDRB|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'OPA2333xxDRB'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SON</td></tr><tr><td>Texas_S-PVSON-N8'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/opa333.pdf'</td><td> 'kicadSymbolki_locked'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'dual opamp'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Dual 1.8V</td><td> microPower</td><td> CMOS Operational Amplifiers</td><td> Zero-Drift Series</td><td> SON-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Texas*PVSON*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

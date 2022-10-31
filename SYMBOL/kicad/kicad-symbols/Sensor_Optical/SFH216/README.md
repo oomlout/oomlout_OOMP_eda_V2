@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKSENOPTICALSFH216 > Sensor_Optical : SFH216](#szksenopticalsfh216--sensor_optical--sfh216)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKSENOPTICALSFH216 > Sensor_Optical : SFH216
 
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Optical-SFH216
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKSENOPTICALSFH216](http://oom.lt/SZKSENOPTICALSFH216)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Optical/SFH216/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Optical/SFH216/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Optical/SFH216/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Optical/SFH216/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Optical/SFH216/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Optical/SFH216/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Sensor_Optical : SFH216|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'SFH216'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_THT</td></tr><tr><td>TO-18-2_Window'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.osram-os.com/Graphics/XPic1/00029253_0.pdf/SFH'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'opto PIN photo diode'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Silicon PIN Photodiode With Very Short Switching Time</td><td> TO-18 package'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TO?18*Window*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

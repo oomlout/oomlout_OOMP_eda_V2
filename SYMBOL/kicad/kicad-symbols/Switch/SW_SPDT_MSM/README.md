@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKSWITCHSWSPDTMSM > Switch : SW_SPDT_MSM](#szkswitchswspdtmsm--switch--sw_spdt_msm)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKSWITCHSWSPDTMSM > Switch : SW_SPDT_MSM
 
 - ID: SYMBOL-kicad-kicad-symbols-Switch-SW_SPDT_MSM
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKSWITCHSWSPDTMSM](http://oom.lt/SZKSWITCHSWSPDTMSM)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Switch/SW_SPDT_MSM/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Switch/SW_SPDT_MSM/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Switch/SW_SPDT_MSM/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Switch/SW_SPDT_MSM/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Switch/SW_SPDT_MSM/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Switch/SW_SPDT_MSM/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Switch : SW_SPDT_MSM|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'SW'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'SW_SPDT_MSM'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'switch spdt single-pole double-throw ON-OFF-ON'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Switch</td><td> single pole double throw</td><td> center OFF position'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

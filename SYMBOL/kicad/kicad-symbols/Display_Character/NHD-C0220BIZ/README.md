@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKDICHARACTERNHDC22BIZ > Display_Character : NHD-C0220BIZ](#szkdicharacternhdc22biz--display_character--nhd-c0220biz)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKDICHARACTERNHDC22BIZ > Display_Character : NHD-C0220BIZ
 
 - ID: SYMBOL-kicad-kicad-symbols-Display_Character-NHD-C0220BIZ
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKDICHARACTERNHDC22BIZ](http://oom.lt/SZKDICHARACTERNHDC22BIZ)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Display_Character/NHD-C0220BIZ/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Display_Character/NHD-C0220BIZ/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Display_Character/NHD-C0220BIZ/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Display_Character/NHD-C0220BIZ/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Display_Character/NHD-C0220BIZ/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Display_Character/NHD-C0220BIZ/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Display_Character : NHD-C0220BIZ|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'NHD-C0220BIZ'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Display</td></tr><tr><td>NHD-C0220BiZ'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.newhavendisplay.com/specs/NHD-C0220BiZ-FSW-FBW-3V3M.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'display LCD 20x2'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'LCD 20x2 Alphanumeric 10pin Blue/White/Green Backlight</td><td> i2c</td><td> 3.3V VDD'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'NHD*C0220BiZ*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKSENOPTICALPMTX8DYNSHLD > Sensor_Optical : PMTx08Dyn_Shld](#szksenopticalpmtx8dynshld--sensor_optical--pmtx08dyn_shld)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKSENOPTICALPMTX8DYNSHLD > Sensor_Optical : PMTx08Dyn_Shld
 
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Optical-PMTx08Dyn_Shld
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKSENOPTICALPMTX8DYNSHLD](http://oom.lt/SZKSENOPTICALPMTX8DYNSHLD)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Optical/PMTx08Dyn_Shld/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Optical/PMTx08Dyn_Shld/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Optical/PMTx08Dyn_Shld/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Optical/PMTx08Dyn_Shld/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Optical/PMTx08Dyn_Shld/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Optical/PMTx08Dyn_Shld/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Sensor_Optical : PMTx08Dyn_Shld|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'PMT'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'PMTx08Dyn_Shld'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'PMT 8-stage'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '8-stage photomultiplier tube with electrostatic and magnetic shield'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'PMT*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

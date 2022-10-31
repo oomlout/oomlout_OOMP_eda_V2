@@ -5,6 +5,8 @@
     "distributorPartNumber": [],
     "eagleBoard": [],
     "eagleSchem": [],
+    "footprintEagle": [],
+    "footprintEagleDetails": [],
     "footprintKicad": [],
     "footprintKicadDetails": [],
     "gitName": [],
@@ -60,6 +62,8 @@
     ],
     "oplPartNumber": [],
     "rawParts": [],
+    "symbolEagle": [],
+    "symbolEagleDetails": [],
     "symbolKicad": [],
     "symbolKicadDetails": [
         [

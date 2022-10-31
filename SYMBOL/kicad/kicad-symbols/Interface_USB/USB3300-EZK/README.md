@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKINTERFACEUU33EZK > Interface_USB : USB3300-EZK](#szkinterfaceuu33ezk--interface_usb--usb3300-ezk)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKINTERFACEUU33EZK > Interface_USB : USB3300-EZK
 
 - ID: SYMBOL-kicad-kicad-symbols-Interface_USB-USB3300-EZK
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKINTERFACEUU33EZK](http://oom.lt/SZKINTERFACEUU33EZK)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_USB/USB3300-EZK/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_USB/USB3300-EZK/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_USB/USB3300-EZK/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_USB/USB3300-EZK/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_USB/USB3300-EZK/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_USB/USB3300-EZK/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Interface_USB : USB3300-EZK|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'USB3300-EZK'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>QFN-32-1EP_5x5mm_P0.5mm_EP3.45x3.45mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/00001783C.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'USB OTG Hi-Speed PHY ULPI Interface'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Hi-Speed USB Host</td><td> Device or OTG PHY with ULPI Interface'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> '*QFN*32*1EP*5x5mm*P0.5mm*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

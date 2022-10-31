@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKDEVICETR1P1SSO8 > Device : Transformer_1P_1S_SO8](#szkdevicetr1p1sso8--device--transformer_1p_1s_so8)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKDEVICETR1P1SSO8 > Device : Transformer_1P_1S_SO8
 
 - ID: SYMBOL-kicad-kicad-symbols-Device-Transformer_1P_1S_SO8
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKDEVICETR1P1SSO8](http://oom.lt/SZKDEVICETR1P1SSO8)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/Transformer_1P_1S_SO8/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/Transformer_1P_1S_SO8/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/Transformer_1P_1S_SO8/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/Transformer_1P_1S_SO8/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/Transformer_1P_1S_SO8/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/Transformer_1P_1S_SO8/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Device : Transformer_1P_1S_SO8|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'T'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Transformer_1P_1S_SO8'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'transformer coil magnet'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Transformer</td><td> single primary</td><td> single secondary</td><td> SO-8 package'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

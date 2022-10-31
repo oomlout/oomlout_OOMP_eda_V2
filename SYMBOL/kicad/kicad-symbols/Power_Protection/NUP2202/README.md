@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKPOWERPROTECTIONNUP222 > Power_Protection : NUP2202](#szkpowerprotectionnup222--power_protection--nup2202)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKPOWERPROTECTIONNUP222 > Power_Protection : NUP2202
 
 - ID: SYMBOL-kicad-kicad-symbols-Power_Protection-NUP2202
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKPOWERPROTECTIONNUP222](http://oom.lt/SZKPOWERPROTECTIONNUP222)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Power_Protection/NUP2202/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Power_Protection/NUP2202/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Power_Protection/NUP2202/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Power_Protection/NUP2202/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Power_Protection/NUP2202/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Power_Protection/NUP2202/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Power_Protection : NUP2202|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'NUP2202'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-363_SC-70-6'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.onsemi.ru.com/pub_link/Collateral/NUP2202W1-D.PDF'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'ESD Protection diodes  transient suppressor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Transient voltage suppressor designed to protect high speed data lines from ESD</td><td> EFT</td><td> and lightning'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?363*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

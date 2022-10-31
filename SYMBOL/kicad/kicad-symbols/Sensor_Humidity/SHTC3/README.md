@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKSENHUMIDITYSHTC3 > Sensor_Humidity : SHTC3](#szksenhumidityshtc3--sensor_humidity--shtc3)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKSENHUMIDITYSHTC3 > Sensor_Humidity : SHTC3
 
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Humidity-SHTC3
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKSENHUMIDITYSHTC3](http://oom.lt/SZKSENHUMIDITYSHTC3)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Humidity/SHTC3/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Humidity/SHTC3/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Humidity/SHTC3/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Humidity/SHTC3/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Humidity/SHTC3/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Humidity/SHTC3/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Sensor_Humidity : SHTC3|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'SHTC1'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'SHTC3'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Sensor_Humidity</td></tr><tr><td>Sensirion_DFN-4-1EP_2x2mm_P1mm_EP0.7x1.6mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.sensirion.com/fileadmin/user_upload/customers/sensirion/Dokumente/0_Datasheets/Humidity/Sensirion_Humidity_Sensors_SHTC3_Datasheet.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Sensirion environment environmental measurement digital'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Humidity and Temperature Sensor</td><td> +/-2%RH</td><td> +/-0.2degC</td><td> I2C</td><td> 1.62-3.6V</td><td> DFN-4'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Sensirion*DFN*1EP*2x2mm*P1mm*EP0.7x1.6mm*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

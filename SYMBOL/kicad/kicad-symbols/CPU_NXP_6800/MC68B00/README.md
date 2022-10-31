@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKCPUNXP68MC68B > CPU_NXP_6800 : MC68B00](#szkcpunxp68mc68b--cpu_nxp_6800--mc68b00)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKCPUNXP68MC68B > CPU_NXP_6800 : MC68B00
 
 - ID: SYMBOL-kicad-kicad-symbols-CPU_NXP_6800-MC68B00
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKCPUNXP68MC68B](http://oom.lt/SZKCPUNXP68MC68B)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/CPU_NXP_6800/MC68B00/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/CPU_NXP_6800/MC68B00/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/CPU_NXP_6800/MC68B00/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/CPU_NXP_6800/MC68B00/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/CPU_NXP_6800/MC68B00/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/CPU_NXP_6800/MC68B00/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|CPU_NXP_6800 : MC68B00|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'MC6800'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MC68B00'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>DIP-40_W15.24mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//pdf.datasheetcatalog.com/datasheet/motorola/MC68A00L.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'MCU'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '8-Bit Microprocessing unit 2.0MHz</td><td> DIP-40'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W15.24mm*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

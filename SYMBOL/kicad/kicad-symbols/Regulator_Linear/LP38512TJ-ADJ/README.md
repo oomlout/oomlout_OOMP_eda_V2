@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKREGULATORLINEARLP38512TJADJ > Regulator_Linear : LP38512TJ-ADJ](#szkregulatorlinearlp38512tjadj--regulator_linear--lp38512tj-adj)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKREGULATORLINEARLP38512TJADJ > Regulator_Linear : LP38512TJ-ADJ
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Linear-LP38512TJ-ADJ
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKREGULATORLINEARLP38512TJADJ](http://oom.lt/SZKREGULATORLINEARLP38512TJADJ)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LP38512TJ-ADJ/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LP38512TJ-ADJ/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LP38512TJ-ADJ/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LP38512TJ-ADJ/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LP38512TJ-ADJ/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LP38512TJ-ADJ/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Regulator_Linear : LP38512TJ-ADJ|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LP38512TJ-ADJ'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>Texas_NDQ'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/lp38512-adj.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'LDO Linear Regulator'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '1.5A Fast-Transient Response Low-Dropout Linear Voltage Regulator with Error Flag</td><td> Adjustable Output</td><td> NDQ'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Texas*NDQ*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

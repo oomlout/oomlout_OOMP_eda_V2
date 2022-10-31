@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKREFERENCEVOLTAGELM285ZADJ > Reference_Voltage : LM285Z-ADJ](#szkreferencevoltagelm285zadj--reference_voltage--lm285z-adj)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKREFERENCEVOLTAGELM285ZADJ > Reference_Voltage : LM285Z-ADJ
 
 - ID: SYMBOL-kicad-kicad-symbols-Reference_Voltage-LM285Z-ADJ
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKREFERENCEVOLTAGELM285ZADJ](http://oom.lt/SZKREFERENCEVOLTAGELM285ZADJ)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Reference_Voltage/LM285Z-ADJ/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Reference_Voltage/LM285Z-ADJ/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Reference_Voltage/LM285Z-ADJ/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Reference_Voltage/LM285Z-ADJ/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Reference_Voltage/LM285Z-ADJ/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Reference_Voltage/LM285Z-ADJ/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Reference_Voltage : LM285Z-ADJ|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LM285Z-ADJ'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_THT</td></tr><tr><td>TO-92_Inline'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/lm185-adj.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'diode device voltage reference'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Adjustable Micropower Voltage Reference Diodes</td><td> TO-92'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TO?92*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

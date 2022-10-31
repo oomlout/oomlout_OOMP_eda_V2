@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKMCUSTSTM32F2STM32F27IFHX > MCU_ST_STM32F2 : STM32F207IFHx](#szkmcuststm32f2stm32f27ifhx--mcu_st_stm32f2--stm32f207ifhx)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKMCUSTSTM32F2STM32F27IFHX > MCU_ST_STM32F2 : STM32F207IFHx
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F2-STM32F207IFHx
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKMCUSTSTM32F2STM32F27IFHX](http://oom.lt/SZKMCUSTSTM32F2STM32F27IFHX)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F2/STM32F207IFHx/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F2/STM32F207IFHx/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F2/STM32F207IFHx/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F2/STM32F207IFHx/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F2/STM32F207IFHx/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F2/STM32F207IFHx/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|MCU_ST_STM32F2 : STM32F207IFHx|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'STM32F207ICHx'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'STM32F207IFHx'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_BGA</td></tr><tr><td>UFBGA-201_10x10mm_Layout15x15_P0.65mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00237391.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'ARM Cortex-M3 STM32F2 STM32F2x7'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'ARM Cortex-M3 MCU</td><td> 768KB flash</td><td> 128KB RAM</td><td> 120MHz</td><td> 1.8-3.6V</td><td> 140 GPIO</td><td> UFBGA-176'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'UFBGA*10x10mm*Layout15x15*P0.65mm*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

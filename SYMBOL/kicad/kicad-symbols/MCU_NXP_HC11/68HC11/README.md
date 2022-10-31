@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKMCUNXPHC1168HC11 > MCU_NXP_HC11 : 68HC11](#szkmcunxphc1168hc11--mcu_nxp_hc11--68hc11)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKMCUNXPHC1168HC11 > MCU_NXP_HC11 : 68HC11
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_NXP_HC11-68HC11
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKMCUNXPHC1168HC11](http://oom.lt/SZKMCUNXPHC1168HC11)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_HC11/68HC11/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_HC11/68HC11/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_HC11/68HC11/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_HC11/68HC11/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_HC11/68HC11/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_HC11/68HC11/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|MCU_NXP_HC11 : 68HC11|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> '68HC11'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'MCU Microcontroller HC11'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'HC11 Microcontroller'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

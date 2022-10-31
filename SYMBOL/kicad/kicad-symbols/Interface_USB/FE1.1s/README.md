@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKINTERFACEUFE11S > Interface_USB : FE1.1s](#szkinterfaceufe11s--interface_usb--fe11s)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKINTERFACEUFE11S > Interface_USB : FE1.1s
 
 - ID: SYMBOL-kicad-kicad-symbols-Interface_USB-FE1.1s
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKINTERFACEUFE11S](http://oom.lt/SZKINTERFACEUFE11S)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_USB/FE1.1s/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_USB/FE1.1s/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_USB/FE1.1s/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_USB/FE1.1s/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_USB/FE1.1s/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_USB/FE1.1s/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Interface_USB : FE1.1s|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'FE1.1s'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SSOP-28_3.9x9.9mm_P0.635mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//cdn-shop.adafruit.com/product-files/2991/FE1.1s+Data+Sheet+(Rev.+1.0).pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> '4-Port</td><td> EEPROM</td><td> High Speed</td><td> Hub</td><td> USB2.0'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'USB 2.0 High Speed 4-Port Hub Controller</td><td> SSOP-28'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SSOP*3.9x9.9mm*P0.635mm*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

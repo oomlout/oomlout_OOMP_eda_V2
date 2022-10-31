@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKGRAPHICSYMARROWTINY > Graphic : SYM_Arrow_Tiny](#szkgraphicsymarrowtiny--graphic--sym_arrow_tiny)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKGRAPHICSYMARROWTINY > Graphic : SYM_Arrow_Tiny
 
 - ID: SYMBOL-kicad-kicad-symbols-Graphic-SYM_Arrow_Tiny
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKGRAPHICSYMARROWTINY](http://oom.lt/SZKGRAPHICSYMARROWTINY)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Graphic/SYM_Arrow_Tiny/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Graphic/SYM_Arrow_Tiny/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Graphic/SYM_Arrow_Tiny/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Graphic/SYM_Arrow_Tiny/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Graphic/SYM_Arrow_Tiny/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Graphic/SYM_Arrow_Tiny/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Graphic : SYM_Arrow_Tiny|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> '#SYM'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'SYM_Arrow_Tiny'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'symbol arrow'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Filled arrow</td><td> 100mil'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

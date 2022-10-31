@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZK74XGXXNC7SZ125M5X > 74xGxx : NC7SZ125M5X](#szk74xgxxnc7sz125m5x--74xgxx--nc7sz125m5x)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZK74XGXXNC7SZ125M5X > 74xGxx : NC7SZ125M5X
 
 - ID: SYMBOL-kicad-kicad-symbols-74xGxx-NC7SZ125M5X
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZK74XGXXNC7SZ125M5X](http://oom.lt/SZK74XGXXNC7SZ125M5X)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/74xGxx/NC7SZ125M5X/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/74xGxx/NC7SZ125M5X/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/74xGxx/NC7SZ125M5X/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/74xGxx/NC7SZ125M5X/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/74xGxx/NC7SZ125M5X/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/74xGxx/NC7SZ125M5X/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|74xGxx : NC7SZ125M5X|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'NC7SZ125M5X'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-23-5'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.onsemi.com/pdf/datasheet/nc7sz125-d.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'buffer three-state'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'TinyLogic UHS Buffer with Three-State Output</td><td> SOT-23-5'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

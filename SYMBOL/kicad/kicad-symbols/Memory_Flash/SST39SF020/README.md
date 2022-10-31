@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKMEMORYFLASHSST39SF2 > Memory_Flash : SST39SF020](#szkmemoryflashsst39sf2--memory_flash--sst39sf020)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKMEMORYFLASHSST39SF2 > Memory_Flash : SST39SF020
 
 - ID: SYMBOL-kicad-kicad-symbols-Memory_Flash-SST39SF020
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKMEMORYFLASHSST39SF2](http://oom.lt/SZKMEMORYFLASHSST39SF2)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_Flash/SST39SF020/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_Flash/SST39SF020/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_Flash/SST39SF020/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_Flash/SST39SF020/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_Flash/SST39SF020/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_Flash/SST39SF020/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Memory_Flash : SST39SF020|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'SST39SF020'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/25022B.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> '256k flash rom'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Silicon Storage Technology (SSF) 256k x 8 Flash ROM'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

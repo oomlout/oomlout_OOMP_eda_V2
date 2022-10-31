@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKDICHARACTERWC162A > Display_Character : WC1602A](#szkdicharacterwc162a--display_character--wc1602a)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKDICHARACTERWC162A > Display_Character : WC1602A
 
 - ID: SYMBOL-kicad-kicad-symbols-Display_Character-WC1602A
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKDICHARACTERWC162A](http://oom.lt/SZKDICHARACTERWC162A)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Display_Character/WC1602A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Display_Character/WC1602A/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Display_Character/WC1602A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Display_Character/WC1602A/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Display_Character/WC1602A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Display_Character/WC1602A/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Display_Character : WC1602A|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'DS'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'WC1602A'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Display</td></tr><tr><td>WC1602A'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.wincomlcd.com/pdf/WC1602A-SFYLYHTC06.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'display LCD dot-matrix'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'LCD 16x2 Alphanumeric </td><td> 8 bit parallel bus</td><td> 5V VDD'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> '*WC*1602A*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

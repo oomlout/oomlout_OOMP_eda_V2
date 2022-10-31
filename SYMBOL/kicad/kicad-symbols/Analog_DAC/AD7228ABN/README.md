@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKANALOGDACAD7228ABN > Analog_DAC : AD7228ABN](#szkanalogdacad7228abn--analog_dac--ad7228abn)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKANALOGDACAD7228ABN > Analog_DAC : AD7228ABN
 
 - ID: SYMBOL-kicad-kicad-symbols-Analog_DAC-AD7228ABN
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKANALOGDACAD7228ABN](http://oom.lt/SZKANALOGDACAD7228ABN)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_DAC/AD7228ABN/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_DAC/AD7228ABN/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_DAC/AD7228ABN/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_DAC/AD7228ABN/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_DAC/AD7228ABN/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_DAC/AD7228ABN/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Analog_DAC : AD7228ABN|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'AD7228ABN'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/static/imported-files/data_sheets/AD7228.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> '8bit DAC 8CH'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '8bit DAC 8 Channel</td><td> Single Reference</td><td> DIP-24'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'PDIP* DIP*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

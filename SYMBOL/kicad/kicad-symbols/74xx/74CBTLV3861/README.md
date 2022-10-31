@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZK74XX74CBTLV3861 > 74xx : 74CBTLV3861](#szk74xx74cbtlv3861--74xx--74cbtlv3861)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZK74XX74CBTLV3861 > 74xx : 74CBTLV3861
 
 - ID: SYMBOL-kicad-kicad-symbols-74xx-74CBTLV3861
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZK74XX74CBTLV3861](http://oom.lt/SZK74XX74CBTLV3861)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/74xx/74CBTLV3861/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/74xx/74CBTLV3861/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/74xx/74CBTLV3861/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/74xx/74CBTLV3861/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/74xx/74CBTLV3861/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/74xx/74CBTLV3861/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|74xx : 74CBTLV3861|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> '74CBTLV3861'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/gpn/sn74cbtlv3861'</td><td> 'kicadSymbolki_locked'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'bus'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Low-voltage 10-bit FET Bus switch'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP?24*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

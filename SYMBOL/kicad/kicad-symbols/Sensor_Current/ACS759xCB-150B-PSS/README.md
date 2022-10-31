@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKSENCURRENTACS759XCB15BPSS > Sensor_Current : ACS759xCB-150B-PSS](#szksencurrentacs759xcb15bpss--sensor_current--acs759xcb-150b-pss)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKSENCURRENTACS759XCB15BPSS > Sensor_Current : ACS759xCB-150B-PSS
 
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Current-ACS759xCB-150B-PSS
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKSENCURRENTACS759XCB15BPSS](http://oom.lt/SZKSENCURRENTACS759XCB15BPSS)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/ACS759xCB-150B-PSS/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/ACS759xCB-150B-PSS/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/ACS759xCB-150B-PSS/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/ACS759xCB-150B-PSS/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/ACS759xCB-150B-PSS/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/ACS759xCB-150B-PSS/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Sensor_Current : ACS759xCB-150B-PSS|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'ACS758xCB-150B-PSS'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ACS759xCB-150B-PSS'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Sensor_Current</td></tr><tr><td>Allegro_CB_PSS'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.allegromicro.com/~/media/Files/Datasheets/ACS759-Datasheet.ashx?la=en'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'hall effect current monitor sensor isolated'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '±150A Bidirectional Hall-Effect Current Sensor</td><td> +3.3V supply</td><td> 8.8mV/A</td><td> CB-5 PSS'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Allegro*CB*PSS*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKMEMORYRAMIS43LQ32256A62BLI > Memory_RAM : IS43LQ32256A-062BLI](#szkmemoryramis43lq32256a62bli--memory_ram--is43lq32256a-062bli)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKMEMORYRAMIS43LQ32256A62BLI > Memory_RAM : IS43LQ32256A-062BLI
 
 - ID: SYMBOL-kicad-kicad-symbols-Memory_RAM-IS43LQ32256A-062BLI
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKMEMORYRAMIS43LQ32256A62BLI](http://oom.lt/SZKMEMORYRAMIS43LQ32256A62BLI)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_RAM/IS43LQ32256A-062BLI/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_RAM/IS43LQ32256A-062BLI/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_RAM/IS43LQ32256A-062BLI/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_RAM/IS43LQ32256A-062BLI/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_RAM/IS43LQ32256A-062BLI/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_RAM/IS43LQ32256A-062BLI/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Memory_RAM : IS43LQ32256A-062BLI|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'IS43LQ32256A-062BLI'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_BGA</td></tr><tr><td>BGA-200_10.0x14.5mm_Layout12x22_P0.80x0.65mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.issi.com/WW/pdf/43-46LQ32256A-AL.pdf'</td><td> 'kicadSymbolki_locked'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'DRAM MEMORY'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '256Mx32 bit Low Power Double Data Rate 4 (LPDDR4) SDRAM</td><td> 1600 MHz</td><td> Industrial</td><td> BGA-200'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'BGA*10.0x14.5mm*P0.80x0.65mm*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

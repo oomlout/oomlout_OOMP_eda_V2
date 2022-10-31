@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKANALOGADCMCP3424 > Analog_ADC : MCP3424](#szkanalogadcmcp3424--analog_adc--mcp3424)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKANALOGADCMCP3424 > Analog_ADC : MCP3424
 
 - ID: SYMBOL-kicad-kicad-symbols-Analog_ADC-MCP3424
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKANALOGADCMCP3424](http://oom.lt/SZKANALOGADCMCP3424)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/MCP3424/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/MCP3424/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/MCP3424/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/MCP3424/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/MCP3424/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/MCP3424/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Analog_ADC : MCP3424|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MCP3424'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/22088c.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> '18-Bit ADC I2C IIC I²C Delta-Sigma-ADC Delta-Sigma-ADC Reference 4ch'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '4-Channel</td><td> 18-Bit</td><td> Delta-Sigma AD-Converter</td><td> I²C Interface</td><td> Reference'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*3.9x8.7mm*P1.27mm* TSSOP*4.4x5mm*P0.65mm*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

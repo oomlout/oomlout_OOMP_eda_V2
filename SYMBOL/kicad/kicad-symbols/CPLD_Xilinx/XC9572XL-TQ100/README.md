@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKCPLDXILINXXC9572XLTQ1 > CPLD_Xilinx : XC9572XL-TQ100](#szkcpldxilinxxc9572xltq1--cpld_xilinx--xc9572xl-tq100)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKCPLDXILINXXC9572XLTQ1 > CPLD_Xilinx : XC9572XL-TQ100
 
 - ID: SYMBOL-kicad-kicad-symbols-CPLD_Xilinx-XC9572XL-TQ100
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKCPLDXILINXXC9572XLTQ1](http://oom.lt/SZKCPLDXILINXXC9572XLTQ1)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/CPLD_Xilinx/XC9572XL-TQ100/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/CPLD_Xilinx/XC9572XL-TQ100/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/CPLD_Xilinx/XC9572XL-TQ100/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/CPLD_Xilinx/XC9572XL-TQ100/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/CPLD_Xilinx/XC9572XL-TQ100/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/CPLD_Xilinx/XC9572XL-TQ100/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|CPLD_Xilinx : XC9572XL-TQ100|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'XC9572XL-TQ100'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_QFP</td></tr><tr><td>TQFP-100_14x14mm_P0.5mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.xilinx.com/support/documentation/data_sheets/ds057.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'CPLD'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'CPLD</td><td> 72 Macrocells</td><td> 1600 Usable Gates'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TQFP*14x14mm*P0.5mm*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

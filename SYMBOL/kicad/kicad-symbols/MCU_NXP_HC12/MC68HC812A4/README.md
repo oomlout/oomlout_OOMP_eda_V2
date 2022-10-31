@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKMCUNXPHC12MC68HC812A4 > MCU_NXP_HC12 : MC68HC812A4](#szkmcunxphc12mc68hc812a4--mcu_nxp_hc12--mc68hc812a4)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKMCUNXPHC12MC68HC812A4 > MCU_NXP_HC12 : MC68HC812A4
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_NXP_HC12-MC68HC812A4
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKMCUNXPHC12MC68HC812A4](http://oom.lt/SZKMCUNXPHC12MC68HC812A4)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_HC12/MC68HC812A4/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_HC12/MC68HC812A4/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_HC12/MC68HC812A4/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_HC12/MC68HC812A4/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_HC12/MC68HC812A4/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_HC12/MC68HC812A4/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|MCU_NXP_HC12 : MC68HC812A4|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MC68HC812A4'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> '68HC12 Microcontroller'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'HC12 Microcontroller 112 pins'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

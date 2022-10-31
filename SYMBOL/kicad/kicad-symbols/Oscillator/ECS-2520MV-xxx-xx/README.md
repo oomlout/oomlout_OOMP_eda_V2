@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKOCSECS252MVXXXXX > Oscillator : ECS-2520MV-xxx-xx](#szkocsecs252mvxxxxx--oscillator--ecs-2520mv-xxx-xx)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKOCSECS252MVXXXXX > Oscillator : ECS-2520MV-xxx-xx
 
 - ID: SYMBOL-kicad-kicad-symbols-Oscillator-ECS-2520MV-xxx-xx
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKOCSECS252MVXXXXX](http://oom.lt/SZKOCSECS252MVXXXXX)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Oscillator/ECS-2520MV-xxx-xx/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Oscillator/ECS-2520MV-xxx-xx/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Oscillator/ECS-2520MV-xxx-xx/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Oscillator/ECS-2520MV-xxx-xx/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Oscillator/ECS-2520MV-xxx-xx/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Oscillator/ECS-2520MV-xxx-xx/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Oscillator : ECS-2520MV-xxx-xx|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'X'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ECS-2520MV-xxx-xx'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Oscillator</td></tr><tr><td>Oscillator_SMD_ECS_2520MV-xxx-xx-4Pin_2.5x2.0mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.ecsxtal.com/store/pdf/ECS-2520MV.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Crystal Clock Oscillator ECS SMD'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'HCMOS Crystal Clock Oscillator</td><td> 2.5x2.0 mm SMD'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Oscillator*SMD*ECS*2520MV*2.5x2.0mm*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

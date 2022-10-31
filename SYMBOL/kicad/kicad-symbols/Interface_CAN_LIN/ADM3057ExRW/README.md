@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKINTERFACECANLINADM357EXRW > Interface_CAN_LIN : ADM3057ExRW](#szkinterfacecanlinadm357exrw--interface_can_lin--adm3057exrw)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKINTERFACECANLINADM357EXRW > Interface_CAN_LIN : ADM3057ExRW
 
 - ID: SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-ADM3057ExRW
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKINTERFACECANLINADM357EXRW](http://oom.lt/SZKINTERFACECANLINADM357EXRW)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_CAN_LIN/ADM3057ExRW/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_CAN_LIN/ADM3057ExRW/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_CAN_LIN/ADM3057ExRW/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_CAN_LIN/ADM3057ExRW/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_CAN_LIN/ADM3057ExRW/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_CAN_LIN/ADM3057ExRW/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Interface_CAN_LIN : ADM3057ExRW|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ADM3057ExRW'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-20W_7.5x12.8mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/ADM3055E-3057E.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'can transceiver isolated protected'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Isolated CAN FD Transceiver</td><td> integrated isolated DC-DC converter</td><td> 12Mbps</td><td> SOIC-20W'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*P1.27mm*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

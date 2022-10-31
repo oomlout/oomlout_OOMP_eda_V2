@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKDEVICEQPHOTONPNCE > Device : Q_Photo_NPN_CE](#szkdeviceqphotonpnce--device--q_photo_npn_ce)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKDEVICEQPHOTONPNCE > Device : Q_Photo_NPN_CE
 
 - ID: SYMBOL-kicad-kicad-symbols-Device-Q_Photo_NPN_CE
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKDEVICEQPHOTONPNCE](http://oom.lt/SZKDEVICEQPHOTONPNCE)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/Q_Photo_NPN_CE/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/Q_Photo_NPN_CE/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/Q_Photo_NPN_CE/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/Q_Photo_NPN_CE/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/Q_Photo_NPN_CE/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/Q_Photo_NPN_CE/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Device : Q_Photo_NPN_CE|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'Q_Photo_NPN'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Q_Photo_NPN_CE'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'phototransistor NPN'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'NPN phototransistor</td><td> collector/emitter'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

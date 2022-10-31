@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKMCUMCHIPSAMDATSAMD1D14AU > MCU_Microchip_SAMD : ATSAMD10D14A-U](#szkmcumchipsamdatsamd1d14au--mcu_microchip_samd--atsamd10d14a-u)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKMCUMCHIPSAMDATSAMD1D14AU > MCU_Microchip_SAMD : ATSAMD10D14A-U
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_SAMD-ATSAMD10D14A-U
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKMCUMCHIPSAMDATSAMD1D14AU](http://oom.lt/SZKMCUMCHIPSAMDATSAMD1D14AU)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_SAMD/ATSAMD10D14A-U/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_SAMD/ATSAMD10D14A-U/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_SAMD/ATSAMD10D14A-U/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_SAMD/ATSAMD10D14A-U/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_SAMD/ATSAMD10D14A-U/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_SAMD/ATSAMD10D14A-U/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|MCU_Microchip_SAMD : ATSAMD10D14A-U|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ATSAMD10D14A-U'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_CSP</td></tr><tr><td>WLCSP-20_1.934x2.434mm_Layout4x5_P0.4mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/Atmel-42242-SAM-D10_Datasheet.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> '32-bit ARM Cortex-M0+ MCU Microcontroller'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'ARM Cortex-M0+ MCU</td><td> 48MHz</td><td> 16KB Flash</td><td> 4KB RAM</td><td> 1.6-3.6V</td><td> 18 GPIO</td><td> WLCSP-20'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'WLCSP*1.934x2.434mm*Layout4x5*P0.4mm*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

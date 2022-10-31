@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKMEMORYFLASHAT25SL321U > Memory_Flash : AT25SL321-U](#szkmemoryflashat25sl321u--memory_flash--at25sl321-u)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKMEMORYFLASHAT25SL321U > Memory_Flash : AT25SL321-U
 
 - ID: SYMBOL-kicad-kicad-symbols-Memory_Flash-AT25SL321-U
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKMEMORYFLASHAT25SL321U](http://oom.lt/SZKMEMORYFLASHAT25SL321U)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_Flash/AT25SL321-U/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_Flash/AT25SL321-U/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_Flash/AT25SL321-U/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_Flash/AT25SL321-U/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_Flash/AT25SL321-U/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_Flash/AT25SL321-U/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Memory_Flash : AT25SL321-U|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'AT25SL321-U'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_CSP</td></tr><tr><td>WLCSP-8_1.551x2.284mm_P0.5mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.adestotech.com/wp-content/uploads/AT25SL321_112.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'SPI DSPI QSPI 32Mbit 1.7V'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '32-Mbit</td><td> 1.7V 2.5V Minimum SPI Serial Flash Memory with Dual-I/O and Quad-I/O Support</td><td> WLCSP-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'WLCSP*1.551x2.284mm*P0.5mm*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

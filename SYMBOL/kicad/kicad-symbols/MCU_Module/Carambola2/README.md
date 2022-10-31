@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKMCUMOCARAMBOLA2 > MCU_Module : Carambola2](#szkmcumocarambola2--mcu_module--carambola2)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKMCUMOCARAMBOLA2 > MCU_Module : Carambola2
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Module-Carambola2
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKMCUMOCARAMBOLA2](http://oom.lt/SZKMCUMOCARAMBOLA2)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Module/Carambola2/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Module/Carambola2/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Module/Carambola2/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Module/Carambola2/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Module/Carambola2/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Module/Carambola2/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|MCU_Module : Carambola2|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Carambola2'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Module</td></tr><tr><td>Carambola2'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.8devices.com/media/products/carambola2/downloads/carambola2-datasheet.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'carambola</td><td> 8devices</td><td> openwrt</td><td> board</td><td> wlan'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Qualcomm AR9331</td><td> 16MB Flash</td><td> 64MB RAM</td><td> USB</td><td> Serial</td><td> Ethernet</td><td> GPIO</td><td> OpenWRT</td><td> industrial SoM computer'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Carambola2*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

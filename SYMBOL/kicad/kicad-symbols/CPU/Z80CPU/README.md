@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKCPUZ8CPU > CPU : Z80CPU](#szkcpuz8cpu--cpu--z80cpu)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKCPUZ8CPU > CPU : Z80CPU
 
 - ID: SYMBOL-kicad-kicad-symbols-CPU-Z80CPU
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKCPUZ8CPU](http://oom.lt/SZKCPUZ8CPU)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/CPU/Z80CPU/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/CPU/Z80CPU/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/CPU/Z80CPU/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/CPU/Z80CPU/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/CPU/Z80CPU/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/CPU/Z80CPU/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|CPU : Z80CPU|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Z80CPU'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'www.zilog.com/manage_directlink.php?filepath=docs/z80/um0080'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Z80 CPU uP'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '8-bit General Purpose Microprocessor</td><td> DIP-40'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP* PDIP*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

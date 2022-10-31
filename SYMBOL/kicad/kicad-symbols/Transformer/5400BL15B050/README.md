@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKTR54BL15B5 > Transformer : 5400BL15B050](#szktr54bl15b5--transformer--5400bl15b050)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKTR54BL15B5 > Transformer : 5400BL15B050
 
 - ID: SYMBOL-kicad-kicad-symbols-Transformer-5400BL15B050
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKTR54BL15B5](http://oom.lt/SZKTR54BL15B5)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transformer/5400BL15B050/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transformer/5400BL15B050/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transformer/5400BL15B050/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transformer/5400BL15B050/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transformer/5400BL15B050/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transformer/5400BL15B050/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Transformer : 5400BL15B050|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> '5400BL15B050'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'RF_Converter</td></tr><tr><td>Balun_Johanson_5400BL15B050E'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.johansontechnology.com/datasheets/5400BL15B050/5400BL15B050.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'balun rf transformer'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '4.9-5.9GHz 1</td></tr><tr><td>1 RF Transformer</td><td> Unbalanced to Balanced'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Balun*Johanson*5400BL15B050E*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

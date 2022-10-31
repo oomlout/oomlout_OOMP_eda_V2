@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKCONRAC133SGB > Converter_ACDC : RAC01-3.3SGB](#szkconrac133sgb--converter_acdc--rac01-33sgb)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKCONRAC133SGB > Converter_ACDC : RAC01-3.3SGB
 
 - ID: SYMBOL-kicad-kicad-symbols-Converter_ACDC-RAC01-3.3SGB
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKCONRAC133SGB](http://oom.lt/SZKCONRAC133SGB)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Converter_ACDC/RAC01-3.3SGB/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Converter_ACDC/RAC01-3.3SGB/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Converter_ACDC/RAC01-3.3SGB/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Converter_ACDC/RAC01-3.3SGB/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Converter_ACDC/RAC01-3.3SGB/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Converter_ACDC/RAC01-3.3SGB/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Converter_ACDC : RAC01-3.3SGB|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'RAC01-xxSGB'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'PS'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'RAC01-3.3SGB'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Converter_ACDC</td></tr><tr><td>Converter_ACDC_RECOM_RAC01-xxSGB_THT'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.recom-power.com/pdf/Powerline-AC-DC/RAC01-GB.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'ac dc power supply'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '1 Watt Single Output EMC Class B AC/DC 3.3V 303mA power supply with regulated and short-circuit-proof isolated DC outputs and low standby power consumption.'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Converter*ACDC*RECOM*RAC01*SGB*THT*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

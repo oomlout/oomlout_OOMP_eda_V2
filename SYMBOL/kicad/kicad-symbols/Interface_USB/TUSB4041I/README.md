@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKINTERFACEUTU441I > Interface_USB : TUSB4041I](#szkinterfaceutu441i--interface_usb--tusb4041i)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKINTERFACEUTU441I > Interface_USB : TUSB4041I
 
 - ID: SYMBOL-kicad-kicad-symbols-Interface_USB-TUSB4041I
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKINTERFACEUTU441I](http://oom.lt/SZKINTERFACEUTU441I)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_USB/TUSB4041I/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_USB/TUSB4041I/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_USB/TUSB4041I/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_USB/TUSB4041I/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_USB/TUSB4041I/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_USB/TUSB4041I/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Interface_USB : TUSB4041I|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TUSB4041I'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_QFP</td></tr><tr><td>HTQFP-64-1EP_10x10mm_P0.5mm_EP8x8mm_Mask4.4x4.4mm_ThermalVias'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/tusb4041i.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'USB2.0 hub'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'four port USB 2.0 Hub'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'HTQFP*10x10mm*P0.5mm*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

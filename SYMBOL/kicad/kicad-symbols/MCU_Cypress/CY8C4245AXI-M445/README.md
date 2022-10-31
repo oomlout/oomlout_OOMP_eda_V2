@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKMCUCYPRESSCY8C4245AXIM445 > MCU_Cypress : CY8C4245AXI-M445](#szkmcucypresscy8c4245axim445--mcu_cypress--cy8c4245axi-m445)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKMCUCYPRESSCY8C4245AXIM445 > MCU_Cypress : CY8C4245AXI-M445
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Cypress-CY8C4245AXI-M445
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKMCUCYPRESSCY8C4245AXIM445](http://oom.lt/SZKMCUCYPRESSCY8C4245AXIM445)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Cypress/CY8C4245AXI-M445/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Cypress/CY8C4245AXI-M445/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Cypress/CY8C4245AXI-M445/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Cypress/CY8C4245AXI-M445/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Cypress/CY8C4245AXI-M445/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Cypress/CY8C4245AXI-M445/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|MCU_Cypress : CY8C4245AXI-M445|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'CY8C4245AXI-M445'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_QFP</td></tr><tr><td>TQFP-64_14x14mm_P0.8mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.cypress.com/file/139956/download'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Cypress Microcontroller Arm CapSense LCD'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'PSoC 4200M series</td><td> 48MHz CPU</td><td> 32KB Flash</td><td> 4KB SRAM</td><td> 64-TQFP'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TQFP*14x14mm*P0.8mm*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

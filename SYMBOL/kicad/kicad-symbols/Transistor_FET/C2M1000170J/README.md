@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKTRANSISTORFETC2M117J > Transistor_FET : C2M1000170J](#szktransistorfetc2m117j--transistor_fet--c2m1000170j)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKTRANSISTORFETC2M117J > Transistor_FET : C2M1000170J
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-C2M1000170J
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKTRANSISTORFETC2M117J](http://oom.lt/SZKTRANSISTORFETC2M117J)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/C2M1000170J/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/C2M1000170J/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/C2M1000170J/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/C2M1000170J/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/C2M1000170J/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/C2M1000170J/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Transistor_FET : C2M1000170J|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'C3M0065090J'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'C2M1000170J'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>TO-263-7_TabPin8'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.wolfspeed.com/media/downloads/820/C2M1000170J.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'N-Channel SiC MOSFET'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '5.3A Id</td><td> 1700V Vds</td><td> 1000mOhm</td><td> N-Channel SiC MOSFET</td><td> TO-263-7'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TO?263*TabPin8*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

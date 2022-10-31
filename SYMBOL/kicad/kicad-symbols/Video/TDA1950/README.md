@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKVIDEOTDA195 > Video : TDA1950](#szkvideotda195--video--tda1950)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKVIDEOTDA195 > Video : TDA1950
 
 - ID: SYMBOL-kicad-kicad-symbols-Video-TDA1950
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKVIDEOTDA195](http://oom.lt/SZKVIDEOTDA195)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Video/TDA1950/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Video/TDA1950/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Video/TDA1950/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Video/TDA1950/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Video/TDA1950/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Video/TDA1950/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Video : TDA1950|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TDA1950'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> ''</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

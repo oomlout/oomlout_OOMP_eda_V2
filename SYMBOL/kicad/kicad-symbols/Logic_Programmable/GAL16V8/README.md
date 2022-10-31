@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKLOGICPROGRAABLEGAL16V8 > Logic_Programmable : GAL16V8](#szklogicprograablegal16v8--logic_programmable--gal16v8)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKLOGICPROGRAABLEGAL16V8 > Logic_Programmable : GAL16V8
 
 - ID: SYMBOL-kicad-kicad-symbols-Logic_Programmable-GAL16V8
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKLOGICPROGRAABLEGAL16V8](http://oom.lt/SZKLOGICPROGRAABLEGAL16V8)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Logic_Programmable/GAL16V8/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Logic_Programmable/GAL16V8/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Logic_Programmable/GAL16V8/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Logic_Programmable/GAL16V8/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Logic_Programmable/GAL16V8/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Logic_Programmable/GAL16V8/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Logic_Programmable : GAL16V8|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'GAL16V8'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'GAL PLD 16V8'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Programmable Logic Array</td><td> DIP-20/SOIC-20/PLCC-20'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP* PDIP* SOIC* SO* PLCC*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

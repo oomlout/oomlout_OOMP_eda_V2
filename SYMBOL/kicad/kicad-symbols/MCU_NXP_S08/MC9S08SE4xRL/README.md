@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKMCUNXPS8MC9S8SE4XRL > MCU_NXP_S08 : MC9S08SE4xRL](#szkmcunxps8mc9s8se4xrl--mcu_nxp_s08--mc9s08se4xrl)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKMCUNXPS8MC9S8SE4XRL > MCU_NXP_S08 : MC9S08SE4xRL
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_NXP_S08-MC9S08SE4xRL
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKMCUNXPS8MC9S8SE4XRL](http://oom.lt/SZKMCUNXPS8MC9S8SE4XRL)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_S08/MC9S08SE4xRL/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_S08/MC9S08SE4xRL/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_S08/MC9S08SE4xRL/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_S08/MC9S08SE4xRL/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_S08/MC9S08SE4xRL/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_S08/MC9S08SE4xRL/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|MCU_NXP_S08 : MC9S08SE4xRL|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'MC9S08SE8xRL'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'IC'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MC9S08SE4xRL'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>DIP-28_W15.24mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//cache.nxp.com/files/microcontrollers/doc/ref_manual/MC9S08SE8RM.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'NXP S08 Microcontroller'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '8-bit General Purpose Microcontroller</td><td> S08 core</td><td> 4kB Flash</td><td> 256B RAM</td><td> DIP-28'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*15.24mm*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

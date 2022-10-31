@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKREFERENCEVOLTAGEMCP1525TO > Reference_Voltage : MCP1525-TO](#szkreferencevoltagemcp1525to--reference_voltage--mcp1525-to)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKREFERENCEVOLTAGEMCP1525TO > Reference_Voltage : MCP1525-TO
 
 - ID: SYMBOL-kicad-kicad-symbols-Reference_Voltage-MCP1525-TO
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKREFERENCEVOLTAGEMCP1525TO](http://oom.lt/SZKREFERENCEVOLTAGEMCP1525TO)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Reference_Voltage/MCP1525-TO/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Reference_Voltage/MCP1525-TO/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Reference_Voltage/MCP1525-TO/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Reference_Voltage/MCP1525-TO/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Reference_Voltage/MCP1525-TO/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Reference_Voltage/MCP1525-TO/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Reference_Voltage : MCP1525-TO|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MCP1525-TO'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_THT</td></tr><tr><td>TO-92_Inline'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/devicedoc/21653b.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Voltage Reference 2.5V'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '2.5V Voltage Reference</td><td> TO-92'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TO*92*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

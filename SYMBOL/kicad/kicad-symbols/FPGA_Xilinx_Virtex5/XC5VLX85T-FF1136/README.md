@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKFPGAXILINXVIRTEX5XC5VLX85TFF1136 > FPGA_Xilinx_Virtex5 : XC5VLX85T-FF1136](#szkfpgaxilinxvirtex5xc5vlx85tff1136--fpga_xilinx_virtex5--xc5vlx85t-ff1136)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKFPGAXILINXVIRTEX5XC5VLX85TFF1136 > FPGA_Xilinx_Virtex5 : XC5VLX85T-FF1136
 
 - ID: SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Virtex5-XC5VLX85T-FF1136
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKFPGAXILINXVIRTEX5XC5VLX85TFF1136](http://oom.lt/SZKFPGAXILINXVIRTEX5XC5VLX85TFF1136)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx_Virtex5/XC5VLX85T-FF1136/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx_Virtex5/XC5VLX85T-FF1136/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx_Virtex5/XC5VLX85T-FF1136/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx_Virtex5/XC5VLX85T-FF1136/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx_Virtex5/XC5VLX85T-FF1136/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx_Virtex5/XC5VLX85T-FF1136/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|FPGA_Xilinx_Virtex5 : XC5VLX85T-FF1136|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'XC5VLX85T-FF1136'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_locked'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'FPGA'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Virtex 5 LXT 85 XC5VLX85T-FF1136'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

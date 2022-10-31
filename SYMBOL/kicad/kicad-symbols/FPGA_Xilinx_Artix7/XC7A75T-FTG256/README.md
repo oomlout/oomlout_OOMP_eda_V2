@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKFPGAXILINXARTIX7XC7A75TFTG256 > FPGA_Xilinx_Artix7 : XC7A75T-FTG256](#szkfpgaxilinxartix7xc7a75tftg256--fpga_xilinx_artix7--xc7a75t-ftg256)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKFPGAXILINXARTIX7XC7A75TFTG256 > FPGA_Xilinx_Artix7 : XC7A75T-FTG256
 
 - ID: SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Artix7-XC7A75T-FTG256
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKFPGAXILINXARTIX7XC7A75TFTG256](http://oom.lt/SZKFPGAXILINXARTIX7XC7A75TFTG256)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx_Artix7/XC7A75T-FTG256/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx_Artix7/XC7A75T-FTG256/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx_Artix7/XC7A75T-FTG256/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx_Artix7/XC7A75T-FTG256/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx_Artix7/XC7A75T-FTG256/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx_Artix7/XC7A75T-FTG256/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|FPGA_Xilinx_Artix7 : XC7A75T-FTG256|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'XC7A75T-FTG256'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_locked'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'FPGA'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Artix 7 T 75 XC7A75T-FTG256'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

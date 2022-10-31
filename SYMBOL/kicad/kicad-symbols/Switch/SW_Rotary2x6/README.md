@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKSWITCHSWROTARY2X6 > Switch : SW_Rotary2x6](#szkswitchswrotary2x6--switch--sw_rotary2x6)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKSWITCHSWROTARY2X6 > Switch : SW_Rotary2x6
 
 - ID: SYMBOL-kicad-kicad-symbols-Switch-SW_Rotary2x6
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKSWITCHSWROTARY2X6](http://oom.lt/SZKSWITCHSWROTARY2X6)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Switch/SW_Rotary2x6/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Switch/SW_Rotary2x6/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Switch/SW_Rotary2x6/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Switch/SW_Rotary2x6/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Switch/SW_Rotary2x6/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Switch/SW_Rotary2x6/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Switch : SW_Rotary2x6|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'SW'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'SW_Rotary2x6'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//cdn-reichelt.de/documents/datenblatt/C200/DS-Serie%23LOR.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'rotary switch'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '2 rotary switch with 6 positions'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

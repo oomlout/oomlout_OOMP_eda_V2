@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKDEVICEANTENNALOOP > Device : Antenna_Loop](#szkdeviceantennaloop--device--antenna_loop)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKDEVICEANTENNALOOP > Device : Antenna_Loop
 
 - ID: SYMBOL-kicad-kicad-symbols-Device-Antenna_Loop
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKDEVICEANTENNALOOP](http://oom.lt/SZKDEVICEANTENNALOOP)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/Antenna_Loop/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/Antenna_Loop/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/Antenna_Loop/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/Antenna_Loop/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/Antenna_Loop/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/Antenna_Loop/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Device : Antenna_Loop|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'AE'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Antenna_Loop'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'loop antenna'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Loop antenna'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

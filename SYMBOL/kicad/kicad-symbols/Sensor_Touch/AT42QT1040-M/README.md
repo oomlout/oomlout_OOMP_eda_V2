@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKSENTOUCHAT42QT14M > Sensor_Touch : AT42QT1040-M](#szksentouchat42qt14m--sensor_touch--at42qt1040-m)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKSENTOUCHAT42QT14M > Sensor_Touch : AT42QT1040-M
 
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Touch-AT42QT1040-M
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKSENTOUCHAT42QT14M](http://oom.lt/SZKSENTOUCHAT42QT14M)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Touch/AT42QT1040-M/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Touch/AT42QT1040-M/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Touch/AT42QT1040-M/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Touch/AT42QT1040-M/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Touch/AT42QT1040-M/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Touch/AT42QT1040-M/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Sensor_Touch : AT42QT1040-M|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'AT42QT1040-M'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>VQFN-20-1EP_3x3mm_P0.45mm_EP1.55x1.55mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/Atmel-9524-AT42-QTouch-BSW-AT42QT1040_Datasheet.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Touch QTouch Sensor Key'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Four-key Touch Sensor IC</td><td> VQFN-20'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'VQFN*1EP*3x3mm*P0.45mm*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

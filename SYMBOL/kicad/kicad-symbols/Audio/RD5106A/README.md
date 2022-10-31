@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKAUDIORD516A > Audio : RD5106A](#szkaudiord516a--audio--rd5106a)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKAUDIORD516A > Audio : RD5106A
 
 - ID: SYMBOL-kicad-kicad-symbols-Audio-RD5106A
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKAUDIORD516A](http://oom.lt/SZKAUDIORD516A)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Audio/RD5106A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Audio/RD5106A/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Audio/RD5106A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Audio/RD5106A/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Audio/RD5106A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Audio/RD5106A/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Audio : RD5106A|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'RD5106A'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//pdf.datasheetarchive.com/indexerfiles/Scans-091/DSAHI00048836.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'EG&G RETICON BBD N-channel silicon-gate'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Analog Delay Line 256 sample bucket brigade device</td><td> 512usec to more than 1second</td><td> input signal frequency range 0 to 170KHz</td><td> clock frequency range 500Hz to 1MHz'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP-8*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

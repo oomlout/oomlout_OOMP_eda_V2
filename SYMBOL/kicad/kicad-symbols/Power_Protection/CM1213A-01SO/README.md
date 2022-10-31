@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKPOWERPROTECTIONCM1213A1SO > Power_Protection : CM1213A-01SO](#szkpowerprotectioncm1213a1so--power_protection--cm1213a-01so)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKPOWERPROTECTIONCM1213A1SO > Power_Protection : CM1213A-01SO
 
 - ID: SYMBOL-kicad-kicad-symbols-Power_Protection-CM1213A-01SO
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKPOWERPROTECTIONCM1213A1SO](http://oom.lt/SZKPOWERPROTECTIONCM1213A1SO)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Power_Protection/CM1213A-01SO/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Power_Protection/CM1213A-01SO/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Power_Protection/CM1213A-01SO/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Power_Protection/CM1213A-01SO/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Power_Protection/CM1213A-01SO/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Power_Protection/CM1213A-01SO/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Power_Protection : CM1213A-01SO|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'CM1213A-01SO'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-23'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.onsemi.com/pub_link/Collateral/CM1213A-D.PDF'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'ESD Protection diodes transient suppressor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Single Channel ESD Protection Array'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

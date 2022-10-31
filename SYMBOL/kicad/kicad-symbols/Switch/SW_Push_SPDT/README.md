@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKSWITCHSWPUSHSPDT > Switch : SW_Push_SPDT](#szkswitchswpushspdt--switch--sw_push_spdt)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKSWITCHSWPUSHSPDT > Switch : SW_Push_SPDT
 
 - ID: SYMBOL-kicad-kicad-symbols-Switch-SW_Push_SPDT
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKSWITCHSWPUSHSPDT](http://oom.lt/SZKSWITCHSWPUSHSPDT)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Switch/SW_Push_SPDT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Switch/SW_Push_SPDT/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Switch/SW_Push_SPDT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Switch/SW_Push_SPDT/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Switch/SW_Push_SPDT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Switch/SW_Push_SPDT/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Switch : SW_Push_SPDT|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'SW'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'SW_Push_SPDT'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'switch single-pole double-throw spdt ON-ON'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Momentary Switch</td><td> single pole double throw'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

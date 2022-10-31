@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKSIMULATIONSPICEVTRRANDOM > Simulation_SPICE : VTRRANDOM](#szksimulationspicevtrrandom--simulation_spice--vtrrandom)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKSIMULATIONSPICEVTRRANDOM > Simulation_SPICE : VTRRANDOM
 
 - ID: SYMBOL-kicad-kicad-symbols-Simulation_SPICE-VTRRANDOM
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKSIMULATIONSPICEVTRRANDOM](http://oom.lt/SZKSIMULATIONSPICEVTRRANDOM)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Simulation_SPICE/VTRRANDOM/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Simulation_SPICE/VTRRANDOM/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Simulation_SPICE/VTRRANDOM/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Simulation_SPICE/VTRRANDOM/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Simulation_SPICE/VTRRANDOM/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Simulation_SPICE/VTRRANDOM/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Simulation_SPICE : VTRRANDOM|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'V'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'VTRRANDOM'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolSpice_Netlist_Enabled'</td></tr><tr><td> 'Y'</td><td> 'kicadSymbolSpice_Primitive'</td></tr><tr><td> 'V'</td><td> 'kicadSymbolSpice_Model'</td></tr><tr><td> 'trrandom(2 10m 0 1)'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'simulation'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Voltage source</td><td> random noise'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

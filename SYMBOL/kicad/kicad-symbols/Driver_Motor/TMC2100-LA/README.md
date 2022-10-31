@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKDRIVERMOTORTMC21LA > Driver_Motor : TMC2100-LA](#szkdrivermotortmc21la--driver_motor--tmc2100-la)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKDRIVERMOTORTMC21LA > Driver_Motor : TMC2100-LA
 
 - ID: SYMBOL-kicad-kicad-symbols-Driver_Motor-TMC2100-LA
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKDRIVERMOTORTMC21LA](http://oom.lt/SZKDRIVERMOTORTMC21LA)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Driver_Motor/TMC2100-LA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Driver_Motor/TMC2100-LA/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Driver_Motor/TMC2100-LA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Driver_Motor/TMC2100-LA/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Driver_Motor/TMC2100-LA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Driver_Motor/TMC2100-LA/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Driver_Motor : TMC2100-LA|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TMC2100-LA'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>QFN-36-1EP_5x6mm_P0.5mm_EP3.6x4.1mm_ThermalVias'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.trinamic.com/fileadmin/assets/Products/ICs_Documents/TMC2100_datasheet_Rev1.08.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Driver stepper motor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Standalone driver for two-phase bipolar stepper motor</td><td> 2.0A</td><td> 4.75-46V</td><td> QFN-36'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'QFN*1EP*5x6mm*P0.5mm*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

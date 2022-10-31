@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKCNSIMCARD > Connector : SIM_Card](#szkcnsimcard--connector--sim_card)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKCNSIMCARD > Connector : SIM_Card
 
 - ID: SYMBOL-kicad-kicad-symbols-Connector-SIM_Card
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKCNSIMCARD](http://oom.lt/SZKCNSIMCARD)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/SIM_Card/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/SIM_Card/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/SIM_Card/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/SIM_Card/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/SIM_Card/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/SIM_Card/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Connector : SIM_Card|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'J'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'SIM_Card'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> ' ~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'SIM card UICC'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'SIM Card'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> '*SIM*Card*Holder*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

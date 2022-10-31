@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKMOTORMOTORDCALT > Motor : Motor_DC_ALT](#szkmotormotordcalt--motor--motor_dc_alt)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKMOTORMOTORDCALT > Motor : Motor_DC_ALT
 
 - ID: SYMBOL-kicad-kicad-symbols-Motor-Motor_DC_ALT
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKMOTORMOTORDCALT](http://oom.lt/SZKMOTORMOTORDCALT)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Motor/Motor_DC_ALT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Motor/Motor_DC_ALT/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Motor/Motor_DC_ALT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Motor/Motor_DC_ALT/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Motor/Motor_DC_ALT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Motor/Motor_DC_ALT/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Motor : Motor_DC_ALT|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'M'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Motor_DC_ALT'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'DC Motor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'DC Motor</td><td> alternative symbol'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'PinHeader*P2.54mm* TerminalBlock*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

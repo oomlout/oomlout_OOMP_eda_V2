@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKVANOS6418 > Valve : NOS-6418](#szkvanos6418--valve--nos-6418)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKVANOS6418 > Valve : NOS-6418
 
 - ID: SYMBOL-kicad-kicad-symbols-Valve-NOS-6418
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKVANOS6418](http://oom.lt/SZKVANOS6418)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Valve/NOS-6418/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Valve/NOS-6418/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Valve/NOS-6418/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Valve/NOS-6418/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Valve/NOS-6418/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Valve/NOS-6418/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Valve : NOS-6418|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'CK6418'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'NOS-6418'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Valve</td></tr><tr><td>Valve_Mini_Pentode_Linear'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//frank.pocnet.net/sheets/127/6/6418.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'subminiature pentode valve'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Subminiature Pentode'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'VALVE*MINI*PENTODE*LINEAR*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

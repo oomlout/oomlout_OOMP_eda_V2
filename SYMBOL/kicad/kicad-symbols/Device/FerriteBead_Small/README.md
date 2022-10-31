@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKDEVICEFERRITEBEADSLL > Device : FerriteBead_Small](#szkdeviceferritebeadsll--device--ferritebead_small)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKDEVICEFERRITEBEADSLL > Device : FerriteBead_Small
 
 - ID: SYMBOL-kicad-kicad-symbols-Device-FerriteBead_Small
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKDEVICEFERRITEBEADSLL](http://oom.lt/SZKDEVICEFERRITEBEADSLL)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/FerriteBead_Small/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/FerriteBead_Small/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/FerriteBead_Small/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/FerriteBead_Small/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/FerriteBead_Small/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/FerriteBead_Small/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Device : FerriteBead_Small|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'FB'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'FerriteBead_Small'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'L ferrite bead inductor filter'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Ferrite bead</td><td> small symbol'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Inductor_* L_* *Ferrite*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

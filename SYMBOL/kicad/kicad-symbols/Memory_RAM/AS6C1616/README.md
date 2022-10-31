@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKMEMORYRAMAS6C1616 > Memory_RAM : AS6C1616](#szkmemoryramas6c1616--memory_ram--as6c1616)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKMEMORYRAMAS6C1616 > Memory_RAM : AS6C1616
 
 - ID: SYMBOL-kicad-kicad-symbols-Memory_RAM-AS6C1616
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKMEMORYRAMAS6C1616](http://oom.lt/SZKMEMORYRAMAS6C1616)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_RAM/AS6C1616/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_RAM/AS6C1616/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_RAM/AS6C1616/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_RAM/AS6C1616/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_RAM/AS6C1616/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_RAM/AS6C1616/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Memory_RAM : AS6C1616|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'AS6C1616'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>TSOP-I-48_18.4x12mm_P0.5mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.alliancememory.com/wp-content/uploads/pdf/AS6C1616-TSOPI.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'memory SRAM'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '1024k x 16 bit low power CMOS SRAM'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TSOP?I*18.4x12mm*P0.5mm*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

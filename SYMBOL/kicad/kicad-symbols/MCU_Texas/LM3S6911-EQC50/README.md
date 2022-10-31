@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKMCUTEXASLM3S6911EQC5 > MCU_Texas : LM3S6911-EQC50](#szkmcutexaslm3s6911eqc5--mcu_texas--lm3s6911-eqc50)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKMCUTEXASLM3S6911EQC5 > MCU_Texas : LM3S6911-EQC50
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Texas-LM3S6911-EQC50
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKMCUTEXASLM3S6911EQC5](http://oom.lt/SZKMCUTEXASLM3S6911EQC5)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Texas/LM3S6911-EQC50/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Texas/LM3S6911-EQC50/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Texas/LM3S6911-EQC50/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Texas/LM3S6911-EQC50/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Texas/LM3S6911-EQC50/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Texas/LM3S6911-EQC50/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|MCU_Texas : LM3S6911-EQC50|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LM3S6911-EQC50'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_QFP</td></tr><tr><td>LQFP-100_14x14mm_P0.5mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/lm3s6911.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'MCU ARM M3 Stellaris PHY ETH NRND'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Ti Stellaris ARM-M3 MCU Ethernet PHY</td><td> LQFP100'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'LQFP*14x14mm*P0.5mm*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

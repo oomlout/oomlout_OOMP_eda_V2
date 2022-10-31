@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKCN8P8CLSHEDX2 > Connector : 8P8C_LED_Shielded_x2](#szkcn8p8clshedx2--connector--8p8c_led_shielded_x2)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKCN8P8CLSHEDX2 > Connector : 8P8C_LED_Shielded_x2
 
 - ID: SYMBOL-kicad-kicad-symbols-Connector-8P8C_LED_Shielded_x2
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKCN8P8CLSHEDX2](http://oom.lt/SZKCN8P8CLSHEDX2)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/8P8C_LED_Shielded_x2/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/8P8C_LED_Shielded_x2/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/8P8C_LED_Shielded_x2/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/8P8C_LED_Shielded_x2/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/8P8C_LED_Shielded_x2/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/8P8C_LED_Shielded_x2/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Connector : 8P8C_LED_Shielded_x2|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'J'</td><td> 'kicadSymbolValue'</td></tr><tr><td> '8P8C_LED_Shielded_x2'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> '8P8C RJ female connector led dual'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'RJ connector</td><td> 8P8C (8 positions 8 connected)</td><td> two LEDs</td><td> RJ45</td><td> Shielded</td><td> two ports'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> '8P8C*02* RJ45*02*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

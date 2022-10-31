@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKSENTEMPERATUREBD12HFV > Sensor_Temperature : BD1020HFV](#szksentemperaturebd12hfv--sensor_temperature--bd1020hfv)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKSENTEMPERATUREBD12HFV > Sensor_Temperature : BD1020HFV
 
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Temperature-BD1020HFV
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKSENTEMPERATUREBD12HFV](http://oom.lt/SZKSENTEMPERATUREBD12HFV)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/BD1020HFV/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/BD1020HFV/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/BD1020HFV/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/BD1020HFV/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/BD1020HFV/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/BD1020HFV/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Sensor_Temperature : BD1020HFV|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'BD1020HFV'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>HVSOF5'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//rohmfs.rohm.com/en/products/databook/datasheet/ic/sensor/temperature/bd1020hfv-e.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Temperature sensor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Analog Output Temperature Sensor'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'HVSOF5*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

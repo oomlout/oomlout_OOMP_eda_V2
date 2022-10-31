@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKFIBEROPTICAFBR1624Z > Fiber_Optic : AFBR-1624Z](#szkfiberopticafbr1624z--fiber_optic--afbr-1624z)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKFIBEROPTICAFBR1624Z > Fiber_Optic : AFBR-1624Z
 
 - ID: SYMBOL-kicad-kicad-symbols-Fiber_Optic-AFBR-1624Z
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKFIBEROPTICAFBR1624Z](http://oom.lt/SZKFIBEROPTICAFBR1624Z)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Fiber_Optic/AFBR-1624Z/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Fiber_Optic/AFBR-1624Z/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Fiber_Optic/AFBR-1624Z/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Fiber_Optic/AFBR-1624Z/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Fiber_Optic/AFBR-1624Z/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Fiber_Optic/AFBR-1624Z/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Fiber_Optic : AFBR-1624Z|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'J'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'AFBR-1624Z'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//docs.broadcom.com/docs/AV02-4369EN'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Fiber optic transmitter'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Versatile Link Fiber Optic Transmitter'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Broadcom*AFBR*16xxZ*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

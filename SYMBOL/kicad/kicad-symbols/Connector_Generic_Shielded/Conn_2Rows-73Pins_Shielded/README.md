@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKCNGENERICSHEDCONN2ROWS73PINSSHED > Connector_Generic_Shielded : Conn_2Rows-73Pins_Shielded](#szkcngenericshedconn2rows73pinsshed--connector_generic_shielded--conn_2rows-73pins_shielded)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKCNGENERICSHEDCONN2ROWS73PINSSHED > Connector_Generic_Shielded : Conn_2Rows-73Pins_Shielded
 
 - ID: SYMBOL-kicad-kicad-symbols-Connector_Generic_Shielded-Conn_2Rows-73Pins_Shielded
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKCNGENERICSHEDCONN2ROWS73PINSSHED](http://oom.lt/SZKCNGENERICSHEDCONN2ROWS73PINSSHED)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector_Generic_Shielded/Conn_2Rows-73Pins_Shielded/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic_Shielded/Conn_2Rows-73Pins_Shielded/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector_Generic_Shielded/Conn_2Rows-73Pins_Shielded/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic_Shielded/Conn_2Rows-73Pins_Shielded/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector_Generic_Shielded/Conn_2Rows-73Pins_Shielded/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic_Shielded/Conn_2Rows-73Pins_Shielded/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Connector_Generic_Shielded : Conn_2Rows-73Pins_Shielded|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'J'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Conn_2Rows-73Pins_Shielded'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'connector'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Generic shielded connector</td><td> double row</td><td> 73 pins</td><td> odd/even pin numbering scheme (row 1 odd numbers</td><td> row 2 even numbers)</td><td> script generated (kicad-library-utils/schlib/autogen/connector/)'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Connector*</td></tr><tr><td>*2Rows*Pins-1SH_* *FCC*2Rows*Pins-1SH_*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

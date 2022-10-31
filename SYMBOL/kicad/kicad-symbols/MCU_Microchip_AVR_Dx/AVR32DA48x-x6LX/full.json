@@ -5,6 +5,8 @@
     "distributorPartNumber": [],
     "eagleBoard": [],
     "eagleSchem": [],
+    "footprintEagle": [],
+    "footprintEagleDetails": [],
     "footprintKicad": [],
     "footprintKicadDetails": [],
     "gitName": [],
@@ -37,6 +39,9 @@
         "details": [
             "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_AVR_Dx/AVR32DA48x-x6LX/details.py"
         ],
+        "image": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_AVR_Dx/AVR32DA48x-x6LX/image.png"
+        ],
         "imagePng": [
             "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Microchip_AVR_Dx/AVR32DA48x-x6LX/image.png"
         ],
@@ -66,6 +71,8 @@
     ],
     "oplPartNumber": [],
     "rawParts": [],
+    "symbolEagle": [],
+    "symbolEagleDetails": [],
     "symbolKicad": [],
     "symbolKicadDetails": [
         [

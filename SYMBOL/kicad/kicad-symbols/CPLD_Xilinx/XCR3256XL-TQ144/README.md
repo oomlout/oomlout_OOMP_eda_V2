@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKCPLDXILINXXCR3256XLTQ144 > CPLD_Xilinx : XCR3256XL-TQ144](#szkcpldxilinxxcr3256xltq144--cpld_xilinx--xcr3256xl-tq144)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKCPLDXILINXXCR3256XLTQ144 > CPLD_Xilinx : XCR3256XL-TQ144
 
 - ID: SYMBOL-kicad-kicad-symbols-CPLD_Xilinx-XCR3256XL-TQ144
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKCPLDXILINXXCR3256XLTQ144](http://oom.lt/SZKCPLDXILINXXCR3256XLTQ144)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/CPLD_Xilinx/XCR3256XL-TQ144/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/CPLD_Xilinx/XCR3256XL-TQ144/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/CPLD_Xilinx/XCR3256XL-TQ144/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/CPLD_Xilinx/XCR3256XL-TQ144/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/CPLD_Xilinx/XCR3256XL-TQ144/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/CPLD_Xilinx/XCR3256XL-TQ144/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|CPLD_Xilinx : XCR3256XL-TQ144|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'XCR3256XL-TQ144'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_QFP</td></tr><tr><td>TQFP-144_20x20mm_P0.5mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.xilinx.com/support/documentation/data_sheets/ds013.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'CPLD'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Xilinx CoolRunner 256-Macrocell CPLD</td><td> 3.3V</td><td> TQFP-144'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TQFP*20x20mm*P0.5*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

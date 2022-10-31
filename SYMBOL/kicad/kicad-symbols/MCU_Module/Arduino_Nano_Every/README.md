@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKMCUMOARDNANOEVERY > MCU_Module : Arduino_Nano_Every](#szkmcumoardnanoevery--mcu_module--arduino_nano_every)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKMCUMOARDNANOEVERY > MCU_Module : Arduino_Nano_Every
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Module-Arduino_Nano_Every
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKMCUMOARDNANOEVERY](http://oom.lt/SZKMCUMOARDNANOEVERY)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Module/Arduino_Nano_Every/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Module/Arduino_Nano_Every/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Module/Arduino_Nano_Every/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Module/Arduino_Nano_Every/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Module/Arduino_Nano_Every/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Module/Arduino_Nano_Every/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|MCU_Module : Arduino_Nano_Every|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'A'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Arduino_Nano_Every'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Module</td></tr><tr><td>Arduino_Nano'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//content.arduino.cc/assets/NANOEveryV3.0_sch.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Arduino nano microcontroller module USB UPDI AATMega4809 AVR'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Arduino Nano Every'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Arduino*Nano*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

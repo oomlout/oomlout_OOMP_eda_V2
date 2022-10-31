@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKCNAUDIOPLUG3 > Connector : AudioPlug3](#szkcnaudioplug3--connector--audioplug3)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKCNAUDIOPLUG3 > Connector : AudioPlug3
 
 - ID: SYMBOL-kicad-kicad-symbols-Connector-AudioPlug3
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKCNAUDIOPLUG3](http://oom.lt/SZKCNAUDIOPLUG3)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/AudioPlug3/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/AudioPlug3/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/AudioPlug3/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/AudioPlug3/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/AudioPlug3/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/AudioPlug3/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Connector : AudioPlug3|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'J'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'AudioPlug3'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'audio jack plug stereo headphones TRRS connector 2.5mm 3.5mm 6.35mm'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Audio Jack</td><td> 3 Poles (Stereo / TRS)'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Plug*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

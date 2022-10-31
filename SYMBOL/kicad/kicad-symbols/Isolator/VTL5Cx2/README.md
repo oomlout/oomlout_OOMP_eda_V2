@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKISOLATORVTL5CX2 > Isolator : VTL5Cx2](#szkisolatorvtl5cx2--isolator--vtl5cx2)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKISOLATORVTL5CX2 > Isolator : VTL5Cx2
 
 - ID: SYMBOL-kicad-kicad-symbols-Isolator-VTL5Cx2
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKISOLATORVTL5CX2](http://oom.lt/SZKISOLATORVTL5CX2)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Isolator/VTL5Cx2/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Isolator/VTL5Cx2/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Isolator/VTL5Cx2/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Isolator/VTL5Cx2/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Isolator/VTL5Cx2/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Isolator/VTL5Cx2/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Isolator : VTL5Cx2|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'VTL5Cx2'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'OptoDevice</td></tr><tr><td>PerkinElmer_VTL5Cx2'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.alliedelec.com/m/d/ecb1ed91959ae54d97cf67f5103d9b2b.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'vactrol'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Dual Element Axial Vactrols'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'PerkinElmer*VTL5C*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

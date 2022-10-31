@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKINTERFACEETHERNETW51 > Interface_Ethernet : W5100](#szkinterfaceethernetw51--interface_ethernet--w5100)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKINTERFACEETHERNETW51 > Interface_Ethernet : W5100
 
 - ID: SYMBOL-kicad-kicad-symbols-Interface_Ethernet-W5100
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKINTERFACEETHERNETW51](http://oom.lt/SZKINTERFACEETHERNETW51)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_Ethernet/W5100/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_Ethernet/W5100/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_Ethernet/W5100/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_Ethernet/W5100/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_Ethernet/W5100/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_Ethernet/W5100/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Interface_Ethernet : W5100|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'W5100'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_QFP</td></tr><tr><td>LQFP-80_10x10mm_P0.4mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.wiznet.io/wp-content/uploads/wiznethome/Chip/W5100/Document/W5100_Datasheet_v1.2.7.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Wiznet Ethernet controller'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '10/100Mb Ethernet controller with TCP/IP stack</td><td> LQFP-80'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'LQFP*10x10mm*P0.4mm*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

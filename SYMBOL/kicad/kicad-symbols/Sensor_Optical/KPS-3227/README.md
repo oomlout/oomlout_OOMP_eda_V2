@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKSENOPTICALKPS3227 > Sensor_Optical : KPS-3227](#szksenopticalkps3227--sensor_optical--kps-3227)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKSENOPTICALKPS3227 > Sensor_Optical : KPS-3227
 
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Optical-KPS-3227
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKSENOPTICALKPS3227](http://oom.lt/SZKSENOPTICALKPS3227)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Optical/KPS-3227/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Optical/KPS-3227/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Optical/KPS-3227/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Optical/KPS-3227/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Optical/KPS-3227/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Optical/KPS-3227/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Sensor_Optical : KPS-3227|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'KPS-3227'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'OptoDevice</td></tr><tr><td>Kingbright_KPS-3227'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.kingbright.com/attachments/file/psearch/000/00/00/KPS-3227SP1C(Ver.16).pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Kingbright npn phototransistor ambient light photo sensor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Ambient light NPN phototransistor</td><td> KPS-3227'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Kingbright*KPS?3227*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

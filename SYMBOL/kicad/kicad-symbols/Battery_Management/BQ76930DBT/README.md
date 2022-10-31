@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKBATMANAGEMENTBQ7693DBT > Battery_Management : BQ76930DBT](#szkbatmanagementbq7693dbt--battery_management--bq76930dbt)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKBATMANAGEMENTBQ7693DBT > Battery_Management : BQ76930DBT
 
 - ID: SYMBOL-kicad-kicad-symbols-Battery_Management-BQ76930DBT
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKBATMANAGEMENTBQ7693DBT](http://oom.lt/SZKBATMANAGEMENTBQ7693DBT)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Battery_Management/BQ76930DBT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Battery_Management/BQ76930DBT/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Battery_Management/BQ76930DBT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Battery_Management/BQ76930DBT/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Battery_Management/BQ76930DBT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Battery_Management/BQ76930DBT/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Battery_Management : BQ76930DBT|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'BQ76930DBT'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>TSSOP-30_4.4x7.8mm_P0.5mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/bq76930.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'lithium battery balance charge afe'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Lithium battery monitor</td><td> 6-10 cells</td><td> integrated balancing</td><td> I2C interface</td><td> TSSOP-30'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TSSOP*4.4x7.8mm*P0.5mm*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

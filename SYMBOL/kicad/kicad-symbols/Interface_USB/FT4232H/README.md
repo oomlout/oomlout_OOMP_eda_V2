@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKINTERFACEUFT4232H > Interface_USB : FT4232H](#szkinterfaceuft4232h--interface_usb--ft4232h)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKINTERFACEUFT4232H > Interface_USB : FT4232H
 
 - ID: SYMBOL-kicad-kicad-symbols-Interface_USB-FT4232H
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKINTERFACEUFT4232H](http://oom.lt/SZKINTERFACEUFT4232H)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_USB/FT4232H/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_USB/FT4232H/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_USB/FT4232H/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_USB/FT4232H/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_USB/FT4232H/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_USB/FT4232H/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Interface_USB : FT4232H|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'FT4232H'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT4232H.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'FTDI USB Quad UART FIFO'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Hi Speed Quad Channel USB UART/FIFO</td><td> LQFP/QFN-64'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'QFN*1EP*9x9mm*P0.5mm* LQFP*10x10mm*P0.5mm*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

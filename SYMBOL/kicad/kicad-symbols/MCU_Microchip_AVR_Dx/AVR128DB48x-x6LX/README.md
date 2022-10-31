@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKMCUMCHIPAVRDXAVR128DB48XX6LX > MCU_Microchip_AVR_Dx : AVR128DB48x-x6LX](#szkmcumchipavrdxavr128db48xx6lx--mcu_microchip_avr_dx--avr128db48x-x6lx)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKMCUMCHIPAVRDXAVR128DB48XX6LX > MCU_Microchip_AVR_Dx : AVR128DB48x-x6LX
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Microchip_AVR_Dx-AVR128DB48x-x6LX
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKMCUMCHIPAVRDXAVR128DB48XX6LX](http://oom.lt/SZKMCUMCHIPAVRDXAVR128DB48XX6LX)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_AVR_Dx/AVR128DB48x-x6LX/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_AVR_Dx/AVR128DB48x-x6LX/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_AVR_Dx/AVR128DB48x-x6LX/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_AVR_Dx/AVR128DB48x-x6LX/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_AVR_Dx/AVR128DB48x-x6LX/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_AVR_Dx/AVR128DB48x-x6LX/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|MCU_Microchip_AVR_Dx : AVR128DB48x-x6LX|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'AVR32DB48x-x6LX'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'AVR128DB48x-x6LX'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>QFN-48-1EP_6x6mm_P0.4mm_EP4.2x4.2mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/AVR128DB28-32-48-64-DataSheet-DS40002247A.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'AVR 8bit Microcontroller AVR-DB'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '24MHz</td><td> 128kB Flash</td><td> 16kB SRAM</td><td> EEPROM with Op Amps and Multi-Voltage I/O</td><td> VQFN-48'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'QFN*1EP*6x6mm*P0.4mm*EP4.2x4.2mm*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKLINOLUXINPI556FCH > LED : Inolux_IN-PI556FCH](#szklinoluxinpi556fch--led--inolux_in-pi556fch)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKLINOLUXINPI556FCH > LED : Inolux_IN-PI556FCH
 
 - ID: SYMBOL-kicad-kicad-symbols-LED-Inolux_IN-PI556FCH
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKLINOLUXINPI556FCH](http://oom.lt/SZKLINOLUXINPI556FCH)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/LED/Inolux_IN-PI556FCH/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/LED/Inolux_IN-PI556FCH/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/LED/Inolux_IN-PI556FCH/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/LED/Inolux_IN-PI556FCH/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/LED/Inolux_IN-PI556FCH/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/LED/Inolux_IN-PI556FCH/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|LED : Inolux_IN-PI556FCH|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Inolux_IN-PI556FCH'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'LED_SMD</td></tr><tr><td>LED_WS2812_PLCC6_5.0x5.0mm_P1.6mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.inolux-corp.com/datasheet/SMDLED/Addressable%20LED/IN-PI556FCH.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'RGB LED NeoPixel addressable'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '5050 RGB LED 6-Pin with integrated IC'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'LED*WS2812*PLCC*5.0x5.0mm*P1.6mm*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

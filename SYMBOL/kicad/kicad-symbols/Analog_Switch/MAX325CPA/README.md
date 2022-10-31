@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKANALOGSWITCHMAX325CPA > Analog_Switch : MAX325CPA](#szkanalogswitchmax325cpa--analog_switch--max325cpa)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKANALOGSWITCHMAX325CPA > Analog_Switch : MAX325CPA
 
 - ID: SYMBOL-kicad-kicad-symbols-Analog_Switch-MAX325CPA
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKANALOGSWITCHMAX325CPA](http://oom.lt/SZKANALOGSWITCHMAX325CPA)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_Switch/MAX325CPA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_Switch/MAX325CPA/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_Switch/MAX325CPA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_Switch/MAX325CPA/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_Switch/MAX325CPA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_Switch/MAX325CPA/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Analog_Switch : MAX325CPA|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MAX325CPA'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>DIP-8_W7.62mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//datasheets.maximintegrated.com/en/ds/MAX323-MAX325.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'CMOS Analog Switch'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Dual SPST CMOS Analog Switches</td><td> normally 1xOFF and 1xON</td><td> 60Ohm Ron</td><td> DIP-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W7.62mm*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

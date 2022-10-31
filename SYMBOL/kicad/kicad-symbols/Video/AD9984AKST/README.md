@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKVIDEOAD9984AKST > Video : AD9984AKST](#szkvideoad9984akst--video--ad9984akst)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKVIDEOAD9984AKST > Video : AD9984AKST
 
 - ID: SYMBOL-kicad-kicad-symbols-Video-AD9984AKST
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKVIDEOAD9984AKST](http://oom.lt/SZKVIDEOAD9984AKST)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Video/AD9984AKST/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Video/AD9984AKST/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Video/AD9984AKST/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Video/AD9984AKST/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Video/AD9984AKST/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Video/AD9984AKST/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Video : AD9984AKST|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'AD9984AKST'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_QFP</td></tr><tr><td>LQFP-80_14x14mm_P0.65mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/AD9984A.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> '10bit video display interface'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'High Performance 10-Bit Display Interface 140/170MSPS LQFP'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'LQFP*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKRELAYDIPXX1AXX13X > Relay : DIPxx-1Axx-13x](#szkrelaydipxx1axx13x--relay--dipxx-1axx-13x)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKRELAYDIPXX1AXX13X > Relay : DIPxx-1Axx-13x
 
 - ID: SYMBOL-kicad-kicad-symbols-Relay-DIPxx-1Axx-13x
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKRELAYDIPXX1AXX13X](http://oom.lt/SZKRELAYDIPXX1AXX13X)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Relay/DIPxx-1Axx-13x/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Relay/DIPxx-1Axx-13x/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Relay/DIPxx-1Axx-13x/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Relay/DIPxx-1Axx-13x/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Relay/DIPxx-1Axx-13x/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Relay/DIPxx-1Axx-13x/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Relay : DIPxx-1Axx-13x|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'K'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'DIPxx-1Axx-13x'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Relay_THT</td></tr><tr><td>Relay_StandexMeder_DIP_LowProfile'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//standexelectronics.com/wp-content/uploads/datasheet_reed_relay_DIP.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Single Pole Reed Relay SPST'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Standex Meder DIP reed relay</td><td> SPST</td><td> Closing Contact'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Relay*StandexMeder*DIP*LowProfile*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

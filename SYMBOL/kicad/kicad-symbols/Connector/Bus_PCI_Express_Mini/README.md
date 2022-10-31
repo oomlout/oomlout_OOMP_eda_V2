@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKCNBUSPCIEXPRESSM > Connector : Bus_PCI_Express_Mini](#szkcnbuspciexpressm--connector--bus_pci_express_mini)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKCNBUSPCIEXPRESSM > Connector : Bus_PCI_Express_Mini
 
 - ID: SYMBOL-kicad-kicad-symbols-Connector-Bus_PCI_Express_Mini
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKCNBUSPCIEXPRESSM](http://oom.lt/SZKCNBUSPCIEXPRESSM)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/Bus_PCI_Express_Mini/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Bus_PCI_Express_Mini/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/Bus_PCI_Express_Mini/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Bus_PCI_Express_Mini/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/Bus_PCI_Express_Mini/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Bus_PCI_Express_Mini/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Connector : Bus_PCI_Express_Mini|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'J'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Bus_PCI_Express_Mini'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'mini pcie'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Mini-PCI Express bus connector'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> '*PCI*Express*Mini*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

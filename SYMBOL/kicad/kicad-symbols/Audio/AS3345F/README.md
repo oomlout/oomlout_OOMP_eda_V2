@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKAUDIOAS3345F > Audio : AS3345F](#szkaudioas3345f--audio--as3345f)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKAUDIOAS3345F > Audio : AS3345F
 
 - ID: SYMBOL-kicad-kicad-symbols-Audio-AS3345F
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKAUDIOAS3345F](http://oom.lt/SZKAUDIOAS3345F)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Audio/AS3345F/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Audio/AS3345F/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Audio/AS3345F/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Audio/AS3345F/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Audio/AS3345F/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Audio/AS3345F/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Audio : AS3345F|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'AS3345F'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>QFN-24-1EP_4x4mm_P0.5mm_EP2.7x2.7mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.alfarzpp.lv/eng/sc/AS3340.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'VCO CEM345 ALFA'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Voltage Controlled Oscillator (VCO)</td><td> QFN-24'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'QFN*1EP*4x4mm*P0.5mm*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

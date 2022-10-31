@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZK74XGXX74AUC1G86 > 74xGxx : 74AUC1G86](#szk74xgxx74auc1g86--74xgxx--74auc1g86)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZK74XGXX74AUC1G86 > 74xGxx : 74AUC1G86
 
 - ID: SYMBOL-kicad-kicad-symbols-74xGxx-74AUC1G86
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZK74XGXX74AUC1G86](http://oom.lt/SZK74XGXX74AUC1G86)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/74xGxx/74AUC1G86/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/74xGxx/74AUC1G86/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/74xGxx/74AUC1G86/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/74xGxx/74AUC1G86/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/74xGxx/74AUC1G86/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/74xGxx/74AUC1G86/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|74xGxx : 74AUC1G86|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> '74LVC1G86'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> '74AUC1G86'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/sg/scyt129e/scyt129e.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Single Gate EX-OR LVC CMOS'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Single EX-OR Gate</td><td> Low-Voltage CMOS'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT* SG-*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

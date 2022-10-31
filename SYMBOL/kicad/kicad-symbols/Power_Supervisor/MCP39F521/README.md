@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKPOWERSUPERVISORMCP39F521 > Power_Supervisor : MCP39F521](#szkpowersupervisormcp39f521--power_supervisor--mcp39f521)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKPOWERSUPERVISORMCP39F521 > Power_Supervisor : MCP39F521
 
 - ID: SYMBOL-kicad-kicad-symbols-Power_Supervisor-MCP39F521
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKPOWERSUPERVISORMCP39F521](http://oom.lt/SZKPOWERSUPERVISORMCP39F521)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Power_Supervisor/MCP39F521/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Power_Supervisor/MCP39F521/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Power_Supervisor/MCP39F521/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Power_Supervisor/MCP39F521/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Power_Supervisor/MCP39F521/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Power_Supervisor/MCP39F521/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Power_Supervisor : MCP39F521|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MCP39F521'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>QFN-28-1EP_5x5mm_P0.5mm_EP3.35x3.35mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/20005442A.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'i2c power monitor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Power Monitor</td><td> Calculation and Energy Accumulation</td><td> I2C</td><td> 16-bit</td><td> QFN-28'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'QFN*1EP*5x5mm*P0.5mm*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKVIDEOICX415AQ > Video : ICX415AQ](#szkvideoicx415aq--video--icx415aq)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKVIDEOICX415AQ > Video : ICX415AQ
 
 - ID: SYMBOL-kicad-kicad-symbols-Video-ICX415AQ
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKVIDEOICX415AQ](http://oom.lt/SZKVIDEOICX415AQ)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Video/ICX415AQ/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Video/ICX415AQ/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Video/ICX415AQ/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Video/ICX415AQ/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Video/ICX415AQ/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Video/ICX415AQ/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Video : ICX415AQ|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ICX415AQ'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'CCD B/W Image Sensor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Diagonal 8mm B/W Progressive Scan CCD Image Sensor with Square Pixel</td><td> CERDIP-22'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

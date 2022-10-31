@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKCNCONNARMJTAGSWD1 > Connector : Conn_ARM_JTAG_SWD_10](#szkcnconnarmjtagswd1--connector--conn_arm_jtag_swd_10)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKCNCONNARMJTAGSWD1 > Connector : Conn_ARM_JTAG_SWD_10
 
 - ID: SYMBOL-kicad-kicad-symbols-Connector-Conn_ARM_JTAG_SWD_10
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKCNCONNARMJTAGSWD1](http://oom.lt/SZKCNCONNARMJTAGSWD1)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_ARM_JTAG_SWD_10/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_ARM_JTAG_SWD_10/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_ARM_JTAG_SWD_10/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_ARM_JTAG_SWD_10/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_ARM_JTAG_SWD_10/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_ARM_JTAG_SWD_10/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Connector : Conn_ARM_JTAG_SWD_10|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'J'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Conn_ARM_JTAG_SWD_10'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//infocenter.arm.com/help/topic/com.arm.doc.ddi0314h/DDI0314H_coresight_components_trm.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Cortex Debug Connector ARM SWD JTAG'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Cortex Debug Connector</td><td> standard ARM Cortex-M SWD and JTAG interface'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'PinHeader?2x05?P1.27mm*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

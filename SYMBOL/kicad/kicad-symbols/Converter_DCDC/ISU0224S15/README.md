@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKCONISU224S15 > Converter_DCDC : ISU0224S15](#szkconisu224s15--converter_dcdc--isu0224s15)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKCONISU224S15 > Converter_DCDC : ISU0224S15
 
 - ID: SYMBOL-kicad-kicad-symbols-Converter_DCDC-ISU0224S15
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKCONISU224S15](http://oom.lt/SZKCONISU224S15)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Converter_DCDC/ISU0224S15/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Converter_DCDC/ISU0224S15/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Converter_DCDC/ISU0224S15/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Converter_DCDC/ISU0224S15/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Converter_DCDC/ISU0224S15/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Converter_DCDC/ISU0224S15/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Converter_DCDC : ISU0224S15|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'ISU0205S05'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ISU0224S15'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Converter_DCDC</td></tr><tr><td>Converter_DCDC_XP_POWER-ISU02_SMD'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.xppower.com/Portals/0/pdfs/SF_ISU02.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'DC/DC Converter'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'XP Power 2W Isolated DC/DC Converter Module</td><td> 15V Output Voltage</td><td> 9-36V Input Voltage'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> '*XP?POWER*ISU02*SMD*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

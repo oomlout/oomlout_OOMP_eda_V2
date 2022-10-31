@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKMCUMOVISIONSOM6UL > MCU_Module : VisionSOM-6UL](#szkmcumovisionsom6ul--mcu_module--visionsom-6ul)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKMCUMOVISIONSOM6UL > MCU_Module : VisionSOM-6UL
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Module-VisionSOM-6UL
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKMCUMOVISIONSOM6UL](http://oom.lt/SZKMCUMOVISIONSOM6UL)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Module/VisionSOM-6UL/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Module/VisionSOM-6UL/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Module/VisionSOM-6UL/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Module/VisionSOM-6UL/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Module/VisionSOM-6UL/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Module/VisionSOM-6UL/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|MCU_Module : VisionSOM-6UL|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'VisionSOM-6UL'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//wiki.somlabs.com/extensions/JZPDFGen/pdf/VisionSOM-6UL%20Datasheet%20and%20Pinout-41.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'somlabs module'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'i.MX6-UL NXP ARM Cortex-A7 696MHz single core industrial SoM computer'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> '*SODIMM*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

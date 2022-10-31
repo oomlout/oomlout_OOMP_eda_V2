@@ -5,6 +5,8 @@
     "distributorPartNumber": [],
     "eagleBoard": [],
     "eagleSchem": [],
+    "footprintEagle": [],
+    "footprintEagleDetails": [],
     "footprintKicad": [],
     "footprintKicadDetails": [],
     "gitName": [],
@@ -37,6 +39,9 @@
         "details": [
             "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Renesas_Synergy_S1/R7FS12878xA01CFL/details.py"
         ],
+        "image": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Renesas_Synergy_S1/R7FS12878xA01CFL/image.png"
+        ],
         "imagePng": [
             "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/MCU_Renesas_Synergy_S1/R7FS12878xA01CFL/image.png"
         ],
@@ -66,6 +71,8 @@
     ],
     "oplPartNumber": [],
     "rawParts": [],
+    "symbolEagle": [],
+    "symbolEagleDetails": [],
     "symbolKicad": [],
     "symbolKicadDetails": [
         [

@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKDICHARACTERCC5612YWA > Display_Character : CC56-12YWA](#szkdicharactercc5612ywa--display_character--cc56-12ywa)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKDICHARACTERCC5612YWA > Display_Character : CC56-12YWA
 
 - ID: SYMBOL-kicad-kicad-symbols-Display_Character-CC56-12YWA
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKDICHARACTERCC5612YWA](http://oom.lt/SZKDICHARACTERCC5612YWA)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Display_Character/CC56-12YWA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Display_Character/CC56-12YWA/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Display_Character/CC56-12YWA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Display_Character/CC56-12YWA/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Display_Character/CC56-12YWA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Display_Character/CC56-12YWA/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Display_Character : CC56-12YWA|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'CC56-12YWA'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Display_7Segment</td></tr><tr><td>CC56-12YWA'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.kingbrightusa.com/images/catalog/SPEC/CC56-12YWA.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'display LED 7-segment'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '4 digit 7 segment  yellow LED</td><td> common cathode'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'CC56?12YWA*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

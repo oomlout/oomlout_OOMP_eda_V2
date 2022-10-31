@@ -1,6 +1,12 @@
 
 
 
+
+Contents
+========
+
+* [SZK74XXMC74LCX16245DT > 74xx : MC74LCX16245DT](#szk74xxmc74lcx16245dt--74xx--mc74lcx16245dt)
+	* [Tags](#tags)
   
 NO IMAGE  
 # SZK74XXMC74LCX16245DT > 74xx : MC74LCX16245DT

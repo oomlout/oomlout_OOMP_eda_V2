@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKDIODEPMEG1V8ELPD > Diode : PMEG100V080ELPD](#szkdiodepmeg1v8elpd--diode--pmeg100v080elpd)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKDIODEPMEG1V8ELPD > Diode : PMEG100V080ELPD
 
 - ID: SYMBOL-kicad-kicad-symbols-Diode-PMEG100V080ELPD
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKDIODEPMEG1V8ELPD](http://oom.lt/SZKDIODEPMEG1V8ELPD)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/PMEG100V080ELPD/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/PMEG100V080ELPD/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/PMEG100V080ELPD/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/PMEG100V080ELPD/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/PMEG100V080ELPD/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/PMEG100V080ELPD/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Diode : PMEG100V080ELPD|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'PMEG45A10EPD'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'PMEG100V080ELPD'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>Nexperia_CFP15_SOT-1289'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//assets.nexperia.com/documents/data-sheet/PMEG100V080ELPD.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'ir diode'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '100V</td><td> 8A low leakage current MEGA Schottky barrier rectifier</td><td> SOT-1289'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Nexperia*CFP15*SOT?1289*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

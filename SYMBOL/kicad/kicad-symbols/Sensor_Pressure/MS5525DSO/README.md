@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKSENPRESSUREMS5525DSO > Sensor_Pressure : MS5525DSO](#szksenpressurems5525dso--sensor_pressure--ms5525dso)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKSENPRESSUREMS5525DSO > Sensor_Pressure : MS5525DSO
 
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Pressure-MS5525DSO
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKSENPRESSUREMS5525DSO](http://oom.lt/SZKSENPRESSUREMS5525DSO)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Pressure/MS5525DSO/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Pressure/MS5525DSO/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Pressure/MS5525DSO/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Pressure/MS5525DSO/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Pressure/MS5525DSO/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Pressure/MS5525DSO/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Sensor_Pressure : MS5525DSO|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MS5525DSO'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=MS5525DSO&DocType=DS&DocLang=English'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> '24bit low-power I2C SPI'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Integrated Digital Pressure Sensor'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TE?MS5525DSO*DB* TE?MS5525DSO*SB* TE?MS5525DSO*ST* TE?MS5525DSO*DH* TE?MS5525DSO*FT* TE?MS5525DSO*FB*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKMCUMONUCLEO144F446ZE > MCU_Module : NUCLEO144-F446ZE](#szkmcumonucleo144f446ze--mcu_module--nucleo144-f446ze)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKMCUMONUCLEO144F446ZE > MCU_Module : NUCLEO144-F446ZE
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Module-NUCLEO144-F446ZE
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKMCUMONUCLEO144F446ZE](http://oom.lt/SZKMCUMONUCLEO144F446ZE)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Module/NUCLEO144-F446ZE/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Module/NUCLEO144-F446ZE/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Module/NUCLEO144-F446ZE/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Module/NUCLEO144-F446ZE/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Module/NUCLEO144-F446ZE/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Module/NUCLEO144-F446ZE/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|MCU_Module : NUCLEO144-F446ZE|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'NUCLEO144-F429ZI'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'NUCLEO144-F446ZE'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Module</td></tr><tr><td>ST_Morpho_Connector_144_STLink'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.st.com/resource/en/user_manual/dm00244518-stm32-nucleo144-boards-stmicroelectronics.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'STM32 Nucleo ST'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Nucleo 144 Development Board with STM32F446ZET6 MCU</td><td> 128kB RAM</td><td> 512Kb FLASH'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'ST*Morpho*Connector*144*STLink*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

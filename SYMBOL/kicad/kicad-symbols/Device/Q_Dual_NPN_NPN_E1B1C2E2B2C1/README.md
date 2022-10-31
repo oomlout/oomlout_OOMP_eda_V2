@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKDEVICEQDUALNPNNPNE1B1C2E2B2C1 > Device : Q_Dual_NPN_NPN_E1B1C2E2B2C1](#szkdeviceqdualnpnnpne1b1c2e2b2c1--device--q_dual_npn_npn_e1b1c2e2b2c1)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKDEVICEQDUALNPNNPNE1B1C2E2B2C1 > Device : Q_Dual_NPN_NPN_E1B1C2E2B2C1
 
 - ID: SYMBOL-kicad-kicad-symbols-Device-Q_Dual_NPN_NPN_E1B1C2E2B2C1
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKDEVICEQDUALNPNNPNE1B1C2E2B2C1](http://oom.lt/SZKDEVICEQDUALNPNNPNE1B1C2E2B2C1)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/Q_Dual_NPN_NPN_E1B1C2E2B2C1/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/Q_Dual_NPN_NPN_E1B1C2E2B2C1/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/Q_Dual_NPN_NPN_E1B1C2E2B2C1/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/Q_Dual_NPN_NPN_E1B1C2E2B2C1/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/Q_Dual_NPN_NPN_E1B1C2E2B2C1/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/Q_Dual_NPN_NPN_E1B1C2E2B2C1/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Device : Q_Dual_NPN_NPN_E1B1C2E2B2C1|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Q_Dual_NPN_NPN_E1B1C2E2B2C1'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_locked'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'transistor NPN'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Dual NPN transistor</td><td> 6 pin package'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SC?70* SC?88* SOT?363* SOT?23*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

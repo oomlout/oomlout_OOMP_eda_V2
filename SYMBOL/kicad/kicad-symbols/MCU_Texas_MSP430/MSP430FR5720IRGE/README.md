@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKMCUTEXASMSP43MSP43FR572IRGE > MCU_Texas_MSP430 : MSP430FR5720IRGE](#szkmcutexasmsp43msp43fr572irge--mcu_texas_msp430--msp430fr5720irge)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKMCUTEXASMSP43MSP43FR572IRGE > MCU_Texas_MSP430 : MSP430FR5720IRGE
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Texas_MSP430-MSP430FR5720IRGE
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKMCUTEXASMSP43MSP43FR572IRGE](http://oom.lt/SZKMCUTEXASMSP43MSP43FR572IRGE)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Texas_MSP430/MSP430FR5720IRGE/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Texas_MSP430/MSP430FR5720IRGE/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Texas_MSP430/MSP430FR5720IRGE/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Texas_MSP430/MSP430FR5720IRGE/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Texas_MSP430/MSP430FR5720IRGE/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Texas_MSP430/MSP430FR5720IRGE/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|MCU_Texas_MSP430 : MSP430FR5720IRGE|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MSP430FR5720IRGE'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>Texas_S-PVQFN-N24_EP2.1x2.1mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/msp430fr5720.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'TI MSP430 16-bit mixed signal microcontroller'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '4kB FRAM</td><td> 1kB SRAM</td><td> QFN-24'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Texas*S?PVQFN*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

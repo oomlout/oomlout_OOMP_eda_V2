@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKDIODEBRIDGEGUO48NO1 > Diode_Bridge : GUO40-08NO1](#szkdiodebridgeguo48no1--diode_bridge--guo40-08no1)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKDIODEBRIDGEGUO48NO1 > Diode_Bridge : GUO40-08NO1
 
 - ID: SYMBOL-kicad-kicad-symbols-Diode_Bridge-GUO40-08NO1
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKDIODEBRIDGEGUO48NO1](http://oom.lt/SZKDIODEBRIDGEGUO48NO1)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode_Bridge/GUO40-08NO1/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode_Bridge/GUO40-08NO1/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode_Bridge/GUO40-08NO1/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode_Bridge/GUO40-08NO1/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode_Bridge/GUO40-08NO1/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode_Bridge/GUO40-08NO1/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Diode_Bridge : GUO40-08NO1|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'GUO40-08NO1'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Diode_THT</td></tr><tr><td>Diode_Bridge_IXYS_GUFP'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//ixapps.ixys.com/DataSheet/GUO40-08NO1.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Three-Phase Bridge Rectifier'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '250V Vrms</td><td> 40A If</td><td> GUFP(X025B)'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Diode*Bridge*IXYS*GUFP*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

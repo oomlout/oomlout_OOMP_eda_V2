@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKCNJAESIMCARDSF72S6 > Connector : JAE_SIM_Card_SF72S006](#szkcnjaesimcardsf72s6--connector--jae_sim_card_sf72s006)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKCNJAESIMCARDSF72S6 > Connector : JAE_SIM_Card_SF72S006
 
 - ID: SYMBOL-kicad-kicad-symbols-Connector-JAE_SIM_Card_SF72S006
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKCNJAESIMCARDSF72S6](http://oom.lt/SZKCNJAESIMCARDSF72S6)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/JAE_SIM_Card_SF72S006/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/JAE_SIM_Card_SF72S006/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/JAE_SIM_Card_SF72S006/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/JAE_SIM_Card_SF72S006/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/JAE_SIM_Card_SF72S006/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/JAE_SIM_Card_SF72S006/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Connector : JAE_SIM_Card_SF72S006|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'J'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'JAE_SIM_Card_SF72S006'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Connector_JAE</td></tr><tr><td>JAE_SIM_Card_SF72S006'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.jae.com/direct/topics/topics_file_download/topics_id=68892&ext_no=06&index=0&_lang=en&v=202003111511468456809'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'SIM card UICC 4FF'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Nano-SIM Card (4FF) connector with Detect Switch'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'JAE*SIM*Card*SF72S006*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

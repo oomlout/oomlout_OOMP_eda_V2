@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKMCUSILICONLABSEFM32G23F128GEQFN64 > MCU_SiliconLabs : EFM32G230F128G-E-QFN64](#szkmcusiliconlabsefm32g23f128geqfn64--mcu_siliconlabs--efm32g230f128g-e-qfn64)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKMCUSILICONLABSEFM32G23F128GEQFN64 > MCU_SiliconLabs : EFM32G230F128G-E-QFN64
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_SiliconLabs-EFM32G230F128G-E-QFN64
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKMCUSILICONLABSEFM32G23F128GEQFN64](http://oom.lt/SZKMCUSILICONLABSEFM32G23F128GEQFN64)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_SiliconLabs/EFM32G230F128G-E-QFN64/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_SiliconLabs/EFM32G230F128G-E-QFN64/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_SiliconLabs/EFM32G230F128G-E-QFN64/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_SiliconLabs/EFM32G230F128G-E-QFN64/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_SiliconLabs/EFM32G230F128G-E-QFN64/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_SiliconLabs/EFM32G230F128G-E-QFN64/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|MCU_SiliconLabs : EFM32G230F128G-E-QFN64|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'EFM32G230F128G-E-QFN64'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>QFN-64-1EP_9x9mm_P0.5mm_EP7.3x7.3mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.silabs.com/documents/public/data-sheets/efm32g-datasheet.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'MCU microcontroller silicon labs siliconlabs silabs EFM32 gecko'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '32-bit ARM Cortex-M3 microcontroller</td><td> 128 kB flash</td><td> 16 kB x 8 RAM</td><td> Silicon Labs - Gecko</td><td> QFN-64'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'QFN*1EP*9x9mm*P0.5mm*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

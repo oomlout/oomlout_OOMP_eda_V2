@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKCOMPARATORMIC845N > Comparator : MIC845N](#szkcomparatormic845n--comparator--mic845n)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKCOMPARATORMIC845N > Comparator : MIC845N
 
 - ID: SYMBOL-kicad-kicad-symbols-Comparator-MIC845N
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKCOMPARATORMIC845N](http://oom.lt/SZKCOMPARATORMIC845N)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Comparator/MIC845N/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Comparator/MIC845N/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Comparator/MIC845N/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Comparator/MIC845N/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Comparator/MIC845N/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Comparator/MIC845N/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Comparator : MIC845N|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MIC845N'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-353_SC-70-5'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/mic845.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'single cmp collector'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Micro-Power Comparator / Battery Monitor</td><td> Active-High Open-Drain Output</td><td> SC-70-5'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> '*SC?70*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

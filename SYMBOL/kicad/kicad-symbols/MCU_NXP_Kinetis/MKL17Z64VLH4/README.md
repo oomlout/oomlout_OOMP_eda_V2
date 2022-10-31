@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKMCUNXPKINETISMKL17Z64VLH4 > MCU_NXP_Kinetis : MKL17Z64VLH4](#szkmcunxpkinetismkl17z64vlh4--mcu_nxp_kinetis--mkl17z64vlh4)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKMCUNXPKINETISMKL17Z64VLH4 > MCU_NXP_Kinetis : MKL17Z64VLH4
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_NXP_Kinetis-MKL17Z64VLH4
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKMCUNXPKINETISMKL17Z64VLH4](http://oom.lt/SZKMCUNXPKINETISMKL17Z64VLH4)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_Kinetis/MKL17Z64VLH4/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_Kinetis/MKL17Z64VLH4/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_Kinetis/MKL17Z64VLH4/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_Kinetis/MKL17Z64VLH4/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_Kinetis/MKL17Z64VLH4/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_Kinetis/MKL17Z64VLH4/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|MCU_NXP_Kinetis : MKL17Z64VLH4|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MKL17Z64VLH4'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_QFP</td></tr><tr><td>LQFP-64_10x10mm_P0.5mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.nxp.com/docs/en/data-sheet/KL17P64M48SF2.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Kinetis KL17 ARM Cortex M0+'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Kinetis KL17 series</td><td> 48-MHz/32-bit ARM Cortex-M0+</td><td> 64 kB flash</td><td> 16 kB SRAM</td><td> FlexIO</td><td> LQFP-64'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'LQFP*10x10mm*P0.5mm*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKCNUCPLUG > Connector : USB_C_Plug](#szkcnucplug--connector--usb_c_plug)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKCNUCPLUG > Connector : USB_C_Plug
 
 - ID: SYMBOL-kicad-kicad-symbols-Connector-USB_C_Plug
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKCNUCPLUG](http://oom.lt/SZKCNUCPLUG)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/USB_C_Plug/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/USB_C_Plug/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/USB_C_Plug/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/USB_C_Plug/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/USB_C_Plug/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/USB_C_Plug/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Connector : USB_C_Plug|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'P'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'USB_C_Plug'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.usb.org/sites/default/files/documents/usb_type-c.zip'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'usb universal serial bus'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'USB Type-C Plug connector'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'USB*C*Plug*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

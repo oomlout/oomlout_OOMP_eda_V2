@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKMCUMOOPOS6ULNANO > MCU_Module : OPOS6UL_NANO](#szkmcumoopos6ulnano--mcu_module--opos6ul_nano)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKMCUMOOPOS6ULNANO > MCU_Module : OPOS6UL_NANO
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Module-OPOS6UL_NANO
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKMCUMOOPOS6ULNANO](http://oom.lt/SZKMCUMOOPOS6ULNANO)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Module/OPOS6UL_NANO/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Module/OPOS6UL_NANO/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Module/OPOS6UL_NANO/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Module/OPOS6UL_NANO/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Module/OPOS6UL_NANO/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Module/OPOS6UL_NANO/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|MCU_Module : OPOS6UL_NANO|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'OPOS6UL_NANO'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.opossom.com/_downloads/opos6ul_nano/datasheet_opos6ul_nano.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'opos6ul compute module'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'NXP i.MX6ULL/i.MX6UL</td><td> 256 or 512 MB RAM</td><td> industrial SoM computer</td><td> M.2M (NGFF)'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> '*M.2*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

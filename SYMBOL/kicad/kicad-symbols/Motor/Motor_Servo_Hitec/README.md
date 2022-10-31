@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKMOTORMOTORSERVOHITEC > Motor : Motor_Servo_Hitec](#szkmotormotorservohitec--motor--motor_servo_hitec)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKMOTORMOTORSERVOHITEC > Motor : Motor_Servo_Hitec
 
 - ID: SYMBOL-kicad-kicad-symbols-Motor-Motor_Servo_Hitec
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKMOTORMOTORSERVOHITEC](http://oom.lt/SZKMOTORMOTORSERVOHITEC)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Motor/Motor_Servo_Hitec/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Motor/Motor_Servo_Hitec/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Motor/Motor_Servo_Hitec/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Motor/Motor_Servo_Hitec/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Motor/Motor_Servo_Hitec/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Motor/Motor_Servo_Hitec/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Motor : Motor_Servo_Hitec|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'Motor_Servo'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'M'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Motor_Servo_Hitec'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//forums.parallax.com/uploads/attachments/46831/74481.png'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Servo Motor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Servo Motor (HiTec connector)'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'PinHeader*P2.54mm*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

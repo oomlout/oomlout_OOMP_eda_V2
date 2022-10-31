@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKSENOPTICALNOA135 > Sensor_Optical : NOA1305](#szksenopticalnoa135--sensor_optical--noa1305)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKSENOPTICALNOA135 > Sensor_Optical : NOA1305
 
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Optical-NOA1305
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKSENOPTICALNOA135](http://oom.lt/SZKSENOPTICALNOA135)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Optical/NOA1305/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Optical/NOA1305/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Optical/NOA1305/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Optical/NOA1305/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Optical/NOA1305/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Optical/NOA1305/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Sensor_Optical : NOA1305|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'NOA1305'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>DFN-6-1EP_2x2mm_P0.65mm_EP1x1.6mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.onsemi.com/pub/Collateral/NOA1305-D.PDF'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'opto ambient light sensor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Ambient Light Sensor with I2C Interface and Dark Current Compensation'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DFN*6*P0.65mm*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

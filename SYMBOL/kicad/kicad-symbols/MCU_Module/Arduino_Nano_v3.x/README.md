@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKMCUMOARDNANOV3X > MCU_Module : Arduino_Nano_v3.x](#szkmcumoardnanov3x--mcu_module--arduino_nano_v3x)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKMCUMOARDNANOV3X > MCU_Module : Arduino_Nano_v3.x
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Module-Arduino_Nano_v3.x
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKMCUMOARDNANOV3X](http://oom.lt/SZKMCUMOARDNANOV3X)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Module/Arduino_Nano_v3.x/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Module/Arduino_Nano_v3.x/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Module/Arduino_Nano_v3.x/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Module/Arduino_Nano_v3.x/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Module/Arduino_Nano_v3.x/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Module/Arduino_Nano_v3.x/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|MCU_Module : Arduino_Nano_v3.x|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'Arduino_Nano_v2.x'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'A'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Arduino_Nano_v3.x'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Module</td></tr><tr><td>Arduino_Nano'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.mouser.com/pdfdocs/Gravitech_Arduino_Nano3_0.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Arduino nano microcontroller module USB'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Arduino Nano v3.x'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Arduino*Nano*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

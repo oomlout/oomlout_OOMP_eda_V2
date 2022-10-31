@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKINTERFACECANLINMCP222AXXXXP > Interface_CAN_LIN : MCP2022A-xxxxP](#szkinterfacecanlinmcp222axxxxp--interface_can_lin--mcp2022a-xxxxp)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKINTERFACECANLINMCP222AXXXXP > Interface_CAN_LIN : MCP2022A-xxxxP
 
 - ID: SYMBOL-kicad-kicad-symbols-Interface_CAN_LIN-MCP2022A-xxxxP
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKINTERFACECANLINMCP222AXXXXP](http://oom.lt/SZKINTERFACECANLINMCP222AXXXXP)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_CAN_LIN/MCP2022A-xxxxP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_CAN_LIN/MCP2022A-xxxxP/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_CAN_LIN/MCP2022A-xxxxP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_CAN_LIN/MCP2022A-xxxxP/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_CAN_LIN/MCP2022A-xxxxP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_CAN_LIN/MCP2022A-xxxxP/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Interface_CAN_LIN : MCP2022A-xxxxP|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MCP2022A-xxxxP'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>DIP-14_W7.62mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/20002298C.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'LIN Transceiver regulator'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'LIN Transceiver with Voltage Regulator</td><td> 3.3V/5V</td><td> DIP-14'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*W7.62mm*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

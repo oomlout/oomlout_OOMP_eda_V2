@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZK74XX74HCT244 > 74xx : 74HCT244](#szk74xx74hct244--74xx--74hct244)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZK74XX74HCT244 > 74xx : 74HCT244
 
 - ID: SYMBOL-kicad-kicad-symbols-74xx-74HCT244
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZK74XX74HCT244](http://oom.lt/SZK74XX74HCT244)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/74xx/74HCT244/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/74xx/74HCT244/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/74xx/74HCT244/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/74xx/74HCT244/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/74xx/74HCT244/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/74xx/74HCT244/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|74xx : 74HCT244|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> '74HC244'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> '74HCT244'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//assets.nexperia.com/documents/data-sheet/74HC_HCT244.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'HCTMOS BUFFER 3State'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '8-bit Buffer/Line Driver 3-state'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TSSOP*4.4x6.5mm*P0.65mm* SSOP*4.4x6.5mm*P0.65mm*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

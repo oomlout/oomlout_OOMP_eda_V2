@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKLWS2813 > LED : WS2813](#szklws2813--led--ws2813)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKLWS2813 > LED : WS2813
 
 - ID: SYMBOL-kicad-kicad-symbols-LED-WS2813
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKLWS2813](http://oom.lt/SZKLWS2813)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/LED/WS2813/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/LED/WS2813/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/LED/WS2813/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/LED/WS2813/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/LED/WS2813/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/LED/WS2813/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|LED : WS2813|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'WS2813'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'LED_SMD</td></tr><tr><td>LED_WS2812_PLCC6_5.0x5.0mm_P1.6mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.normandled.com/upload/201605/WS2813%20LED%20Datasheet.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'RGB LED addressable'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'RGB LED with integrated controller'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'LED*WS2812*PLCC*5.0x5.0mm*P1.6mm*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKTRETC1113 > Transformer : ETC1-1-13](#szktretc1113--transformer--etc1-1-13)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKTRETC1113 > Transformer : ETC1-1-13
 
 - ID: SYMBOL-kicad-kicad-symbols-Transformer-ETC1-1-13
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKTRETC1113](http://oom.lt/SZKTRETC1113)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transformer/ETC1-1-13/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transformer/ETC1-1-13/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transformer/ETC1-1-13/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transformer/ETC1-1-13/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transformer/ETC1-1-13/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transformer/ETC1-1-13/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Transformer : ETC1-1-13|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'TR'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ETC1-1-13'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Transformer_SMD</td></tr><tr><td>Transformer_MACOM_SM-22'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//cdn.macom.com/datasheets/ETC1-1-13.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'MACOM RF Transformer'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '4.5-4000MHz 1</td></tr><tr><td>1 RF Transformer</td><td> Balanced Transmission Line</td><td> SM-22'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Transformer*MACOM*SM?22*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

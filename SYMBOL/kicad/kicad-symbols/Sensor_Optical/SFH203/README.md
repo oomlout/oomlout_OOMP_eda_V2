@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKSENOPTICALSFH23 > Sensor_Optical : SFH203](#szksenopticalsfh23--sensor_optical--sfh203)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKSENOPTICALSFH23 > Sensor_Optical : SFH203
 
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Optical-SFH203
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKSENOPTICALSFH23](http://oom.lt/SZKSENOPTICALSFH23)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Optical/SFH203/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Optical/SFH203/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Optical/SFH203/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Optical/SFH203/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Optical/SFH203/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Optical/SFH203/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Sensor_Optical : SFH203|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'SFH203'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'LED_THT</td></tr><tr><td>LED_D5.0mm_IRGrey'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.osram-os.com/Graphics/XPic9/00101656_0.pdf/SFH%20203</td><td>%20SFH%20203%20FA</td><td>%20Lead%20(Pb)%20Free%20Product%20-%20RoHS%20Compliant.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'opto PIN photodiode'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Silicon PIN Photodiode'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'LED*D5.0mm*IRGrey*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKRELAYRAYEXL9BS > Relay : RAYEX-L90BS](#szkrelayrayexl9bs--relay--rayex-l90bs)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKRELAYRAYEXL9BS > Relay : RAYEX-L90BS
 
 - ID: SYMBOL-kicad-kicad-symbols-Relay-RAYEX-L90BS
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKRELAYRAYEXL9BS](http://oom.lt/SZKRELAYRAYEXL9BS)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Relay/RAYEX-L90BS/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Relay/RAYEX-L90BS/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Relay/RAYEX-L90BS/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Relay/RAYEX-L90BS/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Relay/RAYEX-L90BS/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Relay/RAYEX-L90BS/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Relay : RAYEX-L90BS|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'K'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'RAYEX-L90BS'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Relay_THT</td></tr><tr><td>Relay_SPST_RAYEX-L90BS'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//a3.sofastcdn.com/attachment/7jioKBjnRiiSrjrjknRiwS77gwbf3zmp/L90-SERIES.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> '30A Single Pole Relay'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Power relay</td><td> Without Common Terminal between coil terminals</td><td> NC</td><td> SPST</td><td> 30A'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Relay*SPST*RAYEX*L90B*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKDEVICECTRIMDIFFERENTIAL > Device : C_Trim_Differential](#szkdevicectrimdifferential--device--c_trim_differential)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKDEVICECTRIMDIFFERENTIAL > Device : C_Trim_Differential
 
 - ID: SYMBOL-kicad-kicad-symbols-Device-C_Trim_Differential
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKDEVICECTRIMDIFFERENTIAL](http://oom.lt/SZKDEVICECTRIMDIFFERENTIAL)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/C_Trim_Differential/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/C_Trim_Differential/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/C_Trim_Differential/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/C_Trim_Differential/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/C_Trim_Differential/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/C_Trim_Differential/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Device : C_Trim_Differential|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'C'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'C_Trim_Differential'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'trimmer capacitor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Differential variable capacitor with two stators'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

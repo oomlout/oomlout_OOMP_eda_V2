@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKREGULATORSWITCHINGMCP16311MNY > Regulator_Switching : MCP16311MNY](#szkregulatorswitchingmcp16311mny--regulator_switching--mcp16311mny)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKREGULATORSWITCHINGMCP16311MNY > Regulator_Switching : MCP16311MNY
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-MCP16311MNY
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGMCP16311MNY](http://oom.lt/SZKREGULATORSWITCHINGMCP16311MNY)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/MCP16311MNY/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/MCP16311MNY/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/MCP16311MNY/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/MCP16311MNY/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/MCP16311MNY/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/MCP16311MNY/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Regulator_Switching : MCP16311MNY|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MCP16311MNY'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>DFN-8-1EP_3x2mm_P0.5mm_EP1.75x1.45mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/20005255B.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'switching buck converter power-supply voltage regulator'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '1A Output Voltage</td><td> 30V Input</td><td> integrated switch step-down regulator</td><td> PFM/PWM modulation</td><td> DFN-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DFN*1EP*3x2mm*P0.5mm*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

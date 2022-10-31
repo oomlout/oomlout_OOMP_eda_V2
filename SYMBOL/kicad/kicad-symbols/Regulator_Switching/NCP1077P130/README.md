@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKREGULATORSWITCHINGNCP177P13 > Regulator_Switching : NCP1077P130](#szkregulatorswitchingncp177p13--regulator_switching--ncp1077p130)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKREGULATORSWITCHINGNCP177P13 > Regulator_Switching : NCP1077P130
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-NCP1077P130
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGNCP177P13](http://oom.lt/SZKREGULATORSWITCHINGNCP177P13)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/NCP1077P130/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/NCP1077P130/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/NCP1077P130/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/NCP1077P130/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/NCP1077P130/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/NCP1077P130/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Regulator_Switching : NCP1077P130|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'NCP1070P065'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'NCP1077P130'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DIP</td></tr><tr><td>DIP-8-N7_W7.62mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.onsemi.com/pub/Collateral/NCP1070-D.PDF'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'SMPS Converter'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'High-Voltage Switcher for Low Power Offline SMPS</td><td> 700V Vds</td><td> 25W/15W</td><td> 230V/85-265V</td><td> 130kHz</td><td> 4.7Ohm Rds(on)</td><td> 800mA Ipk</td><td> DIP-7'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*N7*W7.62mm*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

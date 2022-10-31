@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKDEVICEANTENNASH > Device : Antenna_Shield](#szkdeviceantennash--device--antenna_shield)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKDEVICEANTENNASH > Device : Antenna_Shield
 
 - ID: SYMBOL-kicad-kicad-symbols-Device-Antenna_Shield
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKDEVICEANTENNASH](http://oom.lt/SZKDEVICEANTENNASH)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/Antenna_Shield/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/Antenna_Shield/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/Antenna_Shield/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/Antenna_Shield/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/Antenna_Shield/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/Antenna_Shield/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Device : Antenna_Shield|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'AE'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Antenna_Shield'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'antenna'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Antenna with extra pin for shielding'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKDRIVERFETUCC2152DW > Driver_FET : UCC21520DW](#szkdriverfetucc2152dw--driver_fet--ucc21520dw)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKDRIVERFETUCC2152DW > Driver_FET : UCC21520DW
 
 - ID: SYMBOL-kicad-kicad-symbols-Driver_FET-UCC21520DW
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKDRIVERFETUCC2152DW](http://oom.lt/SZKDRIVERFETUCC2152DW)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Driver_FET/UCC21520DW/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Driver_FET/UCC21520DW/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Driver_FET/UCC21520DW/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Driver_FET/UCC21520DW/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Driver_FET/UCC21520DW/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Driver_FET/UCC21520DW/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Driver_FET : UCC21520DW|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'UCC21520DW'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-16W_7.5x10.3mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/ucc21520.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Dual Isolated Gate Driver'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Isolated Dual-Channel Gate Driver</td><td> Output Current 4.0/6.0A</td><td> 5.7kV Isolation</td><td> 8V UVLO</td><td> SOIC-16W'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*7.5x10.3mm*P1.27mm*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

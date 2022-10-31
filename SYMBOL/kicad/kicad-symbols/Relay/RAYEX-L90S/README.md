@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKRELAYRAYEXL9S > Relay : RAYEX-L90S](#szkrelayrayexl9s--relay--rayex-l90s)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKRELAYRAYEXL9S > Relay : RAYEX-L90S
 
 - ID: SYMBOL-kicad-kicad-symbols-Relay-RAYEX-L90S
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKRELAYRAYEXL9S](http://oom.lt/SZKRELAYRAYEXL9S)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Relay/RAYEX-L90S/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Relay/RAYEX-L90S/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Relay/RAYEX-L90S/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Relay/RAYEX-L90S/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Relay/RAYEX-L90S/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Relay/RAYEX-L90S/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Relay : RAYEX-L90S|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'K'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'RAYEX-L90S'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Relay_THT</td></tr><tr><td>Relay_SPDT_RAYEX-L90S'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//a3.sofastcdn.com/attachment/7jioKBjnRiiSrjrjknRiwS77gwbf3zmp/L90-SERIES.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> '30A Single Pole Relay'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Power relay</td><td> Without Common Terminal between coil terminals</td><td> SPDT</td><td> 30A'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Relay*SPDT*RAYEX*L90S*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

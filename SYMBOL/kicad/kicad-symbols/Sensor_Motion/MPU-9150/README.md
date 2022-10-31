@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKSENMOTIONMPU915 > Sensor_Motion : MPU-9150](#szksenmotionmpu915--sensor_motion--mpu-9150)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKSENMOTIONMPU915 > Sensor_Motion : MPU-9150
 
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Motion-MPU-9150
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKSENMOTIONMPU915](http://oom.lt/SZKSENMOTIONMPU915)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Motion/MPU-9150/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Motion/MPU-9150/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Motion/MPU-9150/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Motion/MPU-9150/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Motion/MPU-9150/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Motion/MPU-9150/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Sensor_Motion : MPU-9150|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MPU-9150'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Sensor_Motion</td></tr><tr><td>InvenSense_QFN-24_4x4mm_P0.5mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.invensense.com/wp-content/uploads/2015/02/MPU-9150-Datasheet.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'mems magnetometer'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'InvenSense 9-Axis Motion Sensor</td><td> Accelerometer</td><td> Gyroscope</td><td> Compass</td><td> I2C'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> '*QFN-24*4x4mm*P0.5mm*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKTIMERPLLSI5342CD > Timer_PLL : Si5342C-D](#szktimerpllsi5342cd--timer_pll--si5342c-d)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKTIMERPLLSI5342CD > Timer_PLL : Si5342C-D
 
 - ID: SYMBOL-kicad-kicad-symbols-Timer_PLL-Si5342C-D
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKTIMERPLLSI5342CD](http://oom.lt/SZKTIMERPLLSI5342CD)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Timer_PLL/Si5342C-D/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Timer_PLL/Si5342C-D/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Timer_PLL/Si5342C-D/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Timer_PLL/Si5342C-D/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Timer_PLL/Si5342C-D/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Timer_PLL/Si5342C-D/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Timer_PLL : Si5342C-D|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'Si5342A-D'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Si5342C-D'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>QFN-44-1EP_7x7mm_P0.5mm_EP5.2x5.2mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.silabs.com/documents/public/data-sheets/Si5345-44-42-D-DataSheet.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Clock Jitter Attenuator Multiplier'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Jitter Attenuator/Clock Multiplier</td><td> 2 channel</td><td> Integer</td><td> 0.001-1028 MHz</td><td> QFN-44'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'QFN*1EP*7x7mm*P0.5mm*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

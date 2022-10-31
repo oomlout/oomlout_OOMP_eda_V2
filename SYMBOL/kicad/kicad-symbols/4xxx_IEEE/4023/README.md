@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZK4XXXIEEE423 > 4xxx_IEEE : 4023](#szk4xxxieee423--4xxx_ieee--4023)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZK4XXXIEEE423 > 4xxx_IEEE : 4023
 
 - ID: SYMBOL-kicad-kicad-symbols-4xxx_IEEE-4023
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZK4XXXIEEE423](http://oom.lt/SZK4XXXIEEE423)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/4xxx_IEEE/4023/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/4xxx_IEEE/4023/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/4xxx_IEEE/4023/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/4xxx_IEEE/4023/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/4xxx_IEEE/4023/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/4xxx_IEEE/4023/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|4xxx_IEEE : 4023|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> '4023'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> ''</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

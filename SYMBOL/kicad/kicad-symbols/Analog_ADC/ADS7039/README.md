@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKANALOGADCADS739 > Analog_ADC : ADS7039](#szkanalogadcads739--analog_adc--ads7039)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKANALOGADCADS739 > Analog_ADC : ADS7039
 
 - ID: SYMBOL-kicad-kicad-symbols-Analog_ADC-ADS7039
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKANALOGADCADS739](http://oom.lt/SZKANALOGADCADS739)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/ADS7039/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/ADS7039/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/ADS7039/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/ADS7039/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/ADS7039/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/ADS7039/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Analog_ADC : ADS7039|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'ADS7040xDCU'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ADS7039'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>VSSOP-8_2.3x2mm_P0.5mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/ads7039-q1.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> '10 bit SAR ADC'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Small-Size</td><td> Low-Power</td><td> 10-Bit</td><td> 2-MSPS</td><td> SAR ADC'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'VSSOP*8*2.3x2mm*P0.5mm*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

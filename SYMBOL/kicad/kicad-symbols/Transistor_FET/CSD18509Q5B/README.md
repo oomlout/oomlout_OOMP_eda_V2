@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKTRANSISTORFETCSD1859Q5B > Transistor_FET : CSD18509Q5B](#szktransistorfetcsd1859q5b--transistor_fet--csd18509q5b)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKTRANSISTORFETCSD1859Q5B > Transistor_FET : CSD18509Q5B
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-CSD18509Q5B
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKTRANSISTORFETCSD1859Q5B](http://oom.lt/SZKTRANSISTORFETCSD1859Q5B)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/CSD18509Q5B/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/CSD18509Q5B/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/CSD18509Q5B/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/CSD18509Q5B/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/CSD18509Q5B/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/CSD18509Q5B/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Transistor_FET : CSD18509Q5B|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'CSD17578Q5A'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'CSD18509Q5B'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>TDSON-8-1'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/gpn/csd18509q5b'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'NexFET Power MOSFET N-MOS'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '100A Id</td><td> 40V Vds</td><td> NexFET N-Channel Power MOSFET</td><td> 1.2mOhm Ron</td><td> 150nC Qg(typ)</td><td> SON8 5x6mm'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TDSON*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

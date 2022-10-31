@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKDEVICELAMPNEON > Device : Lamp_Neon](#szkdevicelampneon--device--lamp_neon)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKDEVICELAMPNEON > Device : Lamp_Neon
 
 - ID: SYMBOL-kicad-kicad-symbols-Device-Lamp_Neon
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKDEVICELAMPNEON](http://oom.lt/SZKDEVICELAMPNEON)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/Lamp_Neon/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/Lamp_Neon/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/Lamp_Neon/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/Lamp_Neon/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/Lamp_Neon/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/Lamp_Neon/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Device : Lamp_Neon|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'NE'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Lamp_Neon'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'neon lamp'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Neon lamp'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

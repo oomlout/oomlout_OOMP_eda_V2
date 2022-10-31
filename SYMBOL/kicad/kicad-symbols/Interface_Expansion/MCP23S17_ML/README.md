@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKINTERFACEEXPANSIONMCP23S17ML > Interface_Expansion : MCP23S17_ML](#szkinterfaceexpansionmcp23s17ml--interface_expansion--mcp23s17_ml)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKINTERFACEEXPANSIONMCP23S17ML > Interface_Expansion : MCP23S17_ML
 
 - ID: SYMBOL-kicad-kicad-symbols-Interface_Expansion-MCP23S17_ML
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKINTERFACEEXPANSIONMCP23S17ML](http://oom.lt/SZKINTERFACEEXPANSIONMCP23S17ML)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_Expansion/MCP23S17_ML/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_Expansion/MCP23S17_ML/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_Expansion/MCP23S17_ML/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_Expansion/MCP23S17_ML/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_Expansion/MCP23S17_ML/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_Expansion/MCP23S17_ML/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Interface_Expansion : MCP23S17_ML|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MCP23S17_ML'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>QFN-28-1EP_6x6mm_P0.65mm_EP4.25x4.25mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/20001952C.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'SPI parallel port expander'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '16-bit I/O expander</td><td> SPI</td><td> interrupts</td><td> w pull-ups</td><td> QFN-28'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'QFN*6x6mm*P0.65mm*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

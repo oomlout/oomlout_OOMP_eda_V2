@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKREFERENCECURRENTLT392XST > Reference_Current : LT3092xST](#szkreferencecurrentlt392xst--reference_current--lt3092xst)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKREFERENCECURRENTLT392XST > Reference_Current : LT3092xST
 
 - ID: SYMBOL-kicad-kicad-symbols-Reference_Current-LT3092xST
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKREFERENCECURRENTLT392XST](http://oom.lt/SZKREFERENCECURRENTLT392XST)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Reference_Current/LT3092xST/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Reference_Current/LT3092xST/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Reference_Current/LT3092xST/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Reference_Current/LT3092xST/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Reference_Current/LT3092xST/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Reference_Current/LT3092xST/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Reference_Current : LT3092xST|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LT3092xST'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-223-3_TabPin2'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/3092fc.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'current source'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '200mA 2-Terminal Programmable Current Source</td><td> SOT-223'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT*223*TabPin2*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

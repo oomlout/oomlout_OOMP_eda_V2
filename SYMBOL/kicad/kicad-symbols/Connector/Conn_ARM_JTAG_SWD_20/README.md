@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKCNCONNARMJTAGSWD2 > Connector : Conn_ARM_JTAG_SWD_20](#szkcnconnarmjtagswd2--connector--conn_arm_jtag_swd_20)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKCNCONNARMJTAGSWD2 > Connector : Conn_ARM_JTAG_SWD_20
 
 - ID: SYMBOL-kicad-kicad-symbols-Connector-Conn_ARM_JTAG_SWD_20
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKCNCONNARMJTAGSWD2](http://oom.lt/SZKCNCONNARMJTAGSWD2)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_ARM_JTAG_SWD_20/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_ARM_JTAG_SWD_20/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_ARM_JTAG_SWD_20/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_ARM_JTAG_SWD_20/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_ARM_JTAG_SWD_20/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_ARM_JTAG_SWD_20/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Connector : Conn_ARM_JTAG_SWD_20|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'J'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Conn_ARM_JTAG_SWD_20'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//infocenter.arm.com/help/topic/com.arm.doc.dui0499b/DUI0499B_system_design_reference.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'IDC20 Male Connector ARM JTAG SWD'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Standard IDC20 Male Connector</td><td> ARM legacy JTAG and SWD interface'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'IDC*Header*P2.54mm* PinHeader*2x10*P2.54mm*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

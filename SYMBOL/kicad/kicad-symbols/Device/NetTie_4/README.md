@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKDEVICENT4 > Device : NetTie_4](#szkdevicent4--device--nettie_4)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKDEVICENT4 > Device : NetTie_4
 
 - ID: SYMBOL-kicad-kicad-symbols-Device-NetTie_4
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKDEVICENT4](http://oom.lt/SZKDEVICENT4)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/NetTie_4/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/NetTie_4/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/NetTie_4/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/NetTie_4/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/NetTie_4/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/NetTie_4/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Device : NetTie_4|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'NT'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'NetTie_4'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'net tie short'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Net tie</td><td> 4 pins'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Net*Tie*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

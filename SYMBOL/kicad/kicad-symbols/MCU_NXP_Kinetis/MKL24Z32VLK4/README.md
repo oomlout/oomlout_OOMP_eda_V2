@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKMCUNXPKINETISMKL24Z32VLK4 > MCU_NXP_Kinetis : MKL24Z32VLK4](#szkmcunxpkinetismkl24z32vlk4--mcu_nxp_kinetis--mkl24z32vlk4)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKMCUNXPKINETISMKL24Z32VLK4 > MCU_NXP_Kinetis : MKL24Z32VLK4
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_NXP_Kinetis-MKL24Z32VLK4
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKMCUNXPKINETISMKL24Z32VLK4](http://oom.lt/SZKMCUNXPKINETISMKL24Z32VLK4)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_Kinetis/MKL24Z32VLK4/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_Kinetis/MKL24Z32VLK4/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_Kinetis/MKL24Z32VLK4/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_Kinetis/MKL24Z32VLK4/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_Kinetis/MKL24Z32VLK4/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_Kinetis/MKL24Z32VLK4/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|MCU_NXP_Kinetis : MKL24Z32VLK4|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'MKL24Z64VLK4'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MKL24Z32VLK4'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_QFP</td></tr><tr><td>LQFP-80_12x12mm_P0.5mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.nxp.com/docs/en/data-sheet/KL24P80M48SF0.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Kinetis KL24 ARM Cortex M0+'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Kinetis KL24 series</td><td> 48-MHz/32-bit ARM Cortex-M0+</td><td> 32 kB flash</td><td> 4 kB SRAM</td><td> USB FS Device/OTG</td><td> LQFP-80'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'LQFP*12x12mm*P0.5mm*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKAMPLIFIERCURRENTMAX48F > Amplifier_Current : MAX4080F](#szkamplifiercurrentmax48f--amplifier_current--max4080f)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKAMPLIFIERCURRENTMAX48F > Amplifier_Current : MAX4080F
 
 - ID: SYMBOL-kicad-kicad-symbols-Amplifier_Current-MAX4080F
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKAMPLIFIERCURRENTMAX48F](http://oom.lt/SZKAMPLIFIERCURRENTMAX48F)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Current/MAX4080F/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Current/MAX4080F/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Current/MAX4080F/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Current/MAX4080F/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Current/MAX4080F/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Current/MAX4080F/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Amplifier_Current : MAX4080F|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MAX4080F'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//datasheets.maximintegrated.com/en/ds/MAX4080-MAX4081.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'current sense amplifier'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '76V</td><td> High-Side</td><td> Current-Sense Amplifiers with Voltage Output</td><td> Unidirectional</td><td> 5V/V Gain</td><td> SOIC-8/uMAX-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*3.9x4.9mm*P1.27mm* MSOP*3x3mm*P0.65mm*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

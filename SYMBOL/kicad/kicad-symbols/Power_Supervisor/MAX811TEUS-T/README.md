@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKPOWERSUPERVISORMAX811TEUST > Power_Supervisor : MAX811TEUS-T](#szkpowersupervisormax811teust--power_supervisor--max811teus-t)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKPOWERSUPERVISORMAX811TEUST > Power_Supervisor : MAX811TEUS-T
 
 - ID: SYMBOL-kicad-kicad-symbols-Power_Supervisor-MAX811TEUS-T
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKPOWERSUPERVISORMAX811TEUST](http://oom.lt/SZKPOWERSUPERVISORMAX811TEUST)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Power_Supervisor/MAX811TEUS-T/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Power_Supervisor/MAX811TEUS-T/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Power_Supervisor/MAX811TEUS-T/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Power_Supervisor/MAX811TEUS-T/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Power_Supervisor/MAX811TEUS-T/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Power_Supervisor/MAX811TEUS-T/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Power_Supervisor : MAX811TEUS-T|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'MIC811LUY'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MAX811TEUS-T'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-143'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//datasheets.maximintegrated.com/en/ds/MAX811-MAX812.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Supervisor Reset'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Power supply supervisor</td><td> Manual reset</td><td> Threshold 3.08V</td><td> SOT-143'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT*143*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

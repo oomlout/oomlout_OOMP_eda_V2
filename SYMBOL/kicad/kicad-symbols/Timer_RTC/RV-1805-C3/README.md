@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKTIMERRTCRV185C3 > Timer_RTC : RV-1805-C3](#szktimerrtcrv185c3--timer_rtc--rv-1805-c3)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKTIMERRTCRV185C3 > Timer_RTC : RV-1805-C3
 
 - ID: SYMBOL-kicad-kicad-symbols-Timer_RTC-RV-1805-C3
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKTIMERRTCRV185C3](http://oom.lt/SZKTIMERRTCRV185C3)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Timer_RTC/RV-1805-C3/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Timer_RTC/RV-1805-C3/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Timer_RTC/RV-1805-C3/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Timer_RTC/RV-1805-C3/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Timer_RTC/RV-1805-C3/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Timer_RTC/RV-1805-C3/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Timer_RTC : RV-1805-C3|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'RV-1805-C3'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SON</td></tr><tr><td>RTC_SMD_MicroCrystal_C3_2.5x3.7mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.microcrystal.com/fileadmin/Media/Products/RTC/Datasheet/RV-1805-C3.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Low Power RTC I2C'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Realtime Clock/Calendar I2C Interface</td><td> Extreme Low Power</td><td> MicroCrystal C3'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'RTC*SMD*MicroCrystal*C3*2.5x3.7mm*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

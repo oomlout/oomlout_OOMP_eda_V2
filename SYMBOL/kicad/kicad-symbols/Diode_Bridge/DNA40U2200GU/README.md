@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKDIODEBRIDGEDNA4U22GU > Diode_Bridge : DNA40U2200GU](#szkdiodebridgedna4u22gu--diode_bridge--dna40u2200gu)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKDIODEBRIDGEDNA4U22GU > Diode_Bridge : DNA40U2200GU
 
 - ID: SYMBOL-kicad-kicad-symbols-Diode_Bridge-DNA40U2200GU
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKDIODEBRIDGEDNA4U22GU](http://oom.lt/SZKDIODEBRIDGEDNA4U22GU)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode_Bridge/DNA40U2200GU/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode_Bridge/DNA40U2200GU/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode_Bridge/DNA40U2200GU/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode_Bridge/DNA40U2200GU/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode_Bridge/DNA40U2200GU/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode_Bridge/DNA40U2200GU/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Diode_Bridge : DNA40U2200GU|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'GUO40-08NO1'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'DNA40U2200GU'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Diode_THT</td></tr><tr><td>Diode_Bridge_IXYS_GUFP'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//ixapps.ixys.com/Datasheet/DNA40U2200GU.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Three-Phase Bridge Rectifier'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '690V Vrms</td><td> 40A If</td><td> GUFP(X025B)'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Diode*Bridge*IXYS*GUFP*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

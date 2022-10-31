@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKCNHDMIC14 > Connector : HDMI_C_1.4](#szkcnhdmic14--connector--hdmi_c_14)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKCNHDMIC14 > Connector : HDMI_C_1.4
 
 - ID: SYMBOL-kicad-kicad-symbols-Connector-HDMI_C_1.4
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKCNHDMIC14](http://oom.lt/SZKCNHDMIC14)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/HDMI_C_1.4/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/HDMI_C_1.4/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/HDMI_C_1.4/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/HDMI_C_1.4/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/HDMI_C_1.4/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/HDMI_C_1.4/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Connector : HDMI_C_1.4|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'J'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'HDMI_C_1.4'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//pinoutguide.com/PortableDevices/mini_hdmi_pinout.shtml'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'hdmi conn'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'HDMI 1.4+ type C connector'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'HDMI*C*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKAUDIOCS4245 > Audio : CS4245](#szkaudiocs4245--audio--cs4245)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKAUDIOCS4245 > Audio : CS4245
 
 - ID: SYMBOL-kicad-kicad-symbols-Audio-CS4245
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKAUDIOCS4245](http://oom.lt/SZKAUDIOCS4245)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Audio/CS4245/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Audio/CS4245/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Audio/CS4245/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Audio/CS4245/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Audio/CS4245/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Audio/CS4245/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Audio : CS4245|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'CS4245'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_QFP</td></tr><tr><td>LQFP-48_7x7mm_P0.5mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//d3uzseaevmutz1.cloudfront.net/pubs/proDatasheet/CS4245_F3.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'audio codec 2ch 24bit 192kHz'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '104 dB</td><td> 24-Bit</td><td> 192 kHz Stereo Audio CODEC</td><td> LQFP-48'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'LQFP*7x7mm*P0.5mm*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

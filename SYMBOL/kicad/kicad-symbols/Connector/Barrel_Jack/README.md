@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKCNBARRELJ > Connector : Barrel_Jack](#szkcnbarrelj--connector--barrel_jack)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKCNBARRELJ > Connector : Barrel_Jack
 
 - ID: SYMBOL-kicad-kicad-symbols-Connector-Barrel_Jack
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKCNBARRELJ](http://oom.lt/SZKCNBARRELJ)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/Barrel_Jack/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Barrel_Jack/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/Barrel_Jack/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Barrel_Jack/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/Barrel_Jack/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Barrel_Jack/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Connector : Barrel_Jack|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'J'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Barrel_Jack'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'DC power barrel jack connector'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'DC Barrel Jack'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'BarrelJack*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

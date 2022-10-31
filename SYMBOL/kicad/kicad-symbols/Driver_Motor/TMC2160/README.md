@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKDRIVERMOTORTMC216 > Driver_Motor : TMC2160](#szkdrivermotortmc216--driver_motor--tmc2160)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKDRIVERMOTORTMC216 > Driver_Motor : TMC2160
 
 - ID: SYMBOL-kicad-kicad-symbols-Driver_Motor-TMC2160
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKDRIVERMOTORTMC216](http://oom.lt/SZKDRIVERMOTORTMC216)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Driver_Motor/TMC2160/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Driver_Motor/TMC2160/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Driver_Motor/TMC2160/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Driver_Motor/TMC2160/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Driver_Motor/TMC2160/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Driver_Motor/TMC2160/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Driver_Motor : TMC2160|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TMC2160'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_QFP</td></tr><tr><td>TQFP-48-1EP_7x7mm_P0.5mm_EP5x5mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.trinamic.com/fileadmin/assets/Products/ICs_Documents/TMC2160A-datasheet_Rev1.06.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Standalone driver stepper motor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Standalone driver for two-phase bipolar stepper motor</td><td> 8-60V</td><td> external FETs</td><td> TQFP48'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TQFP*1EP?7x7mm*P0.5mm*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

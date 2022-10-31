@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKFPGAXILINXSPARTAN6XC6SLX1TCSG484 > FPGA_Xilinx_Spartan6 : XC6SLX100T-CSG484](#szkfpgaxilinxspartan6xc6slx1tcsg484--fpga_xilinx_spartan6--xc6slx100t-csg484)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKFPGAXILINXSPARTAN6XC6SLX1TCSG484 > FPGA_Xilinx_Spartan6 : XC6SLX100T-CSG484
 
 - ID: SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Spartan6-XC6SLX100T-CSG484
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKFPGAXILINXSPARTAN6XC6SLX1TCSG484](http://oom.lt/SZKFPGAXILINXSPARTAN6XC6SLX1TCSG484)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx_Spartan6/XC6SLX100T-CSG484/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx_Spartan6/XC6SLX100T-CSG484/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx_Spartan6/XC6SLX100T-CSG484/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx_Spartan6/XC6SLX100T-CSG484/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx_Spartan6/XC6SLX100T-CSG484/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx_Spartan6/XC6SLX100T-CSG484/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|FPGA_Xilinx_Spartan6 : XC6SLX100T-CSG484|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'XC6SLX100T-CSG484'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_locked'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'FPGA'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Spartan 6 LXT 100 XC6SLX100T-CSG484'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKPOTENTIOMETERDIGITALMAX5438 > Potentiometer_Digital : MAX5438](#szkpotentiometerdigitalmax5438--potentiometer_digital--max5438)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKPOTENTIOMETERDIGITALMAX5438 > Potentiometer_Digital : MAX5438
 
 - ID: SYMBOL-kicad-kicad-symbols-Potentiometer_Digital-MAX5438
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKPOTENTIOMETERDIGITALMAX5438](http://oom.lt/SZKPOTENTIOMETERDIGITALMAX5438)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Potentiometer_Digital/MAX5438/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Potentiometer_Digital/MAX5438/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Potentiometer_Digital/MAX5438/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Potentiometer_Digital/MAX5438/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Potentiometer_Digital/MAX5438/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Potentiometer_Digital/MAX5438/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Potentiometer_Digital : MAX5438|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'MAX5436'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MAX5438'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//datasheets.maximintegrated.com/en/ds/MAX5436-MAX5439.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'digital potentiometer resistor variable'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Low-Drift Digital Potentiometer'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

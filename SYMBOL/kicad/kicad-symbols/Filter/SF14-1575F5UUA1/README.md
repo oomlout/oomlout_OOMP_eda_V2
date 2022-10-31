@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKFILSF141575F5UUA1 > Filter : SF14-1575F5UUA1](#szkfilsf141575f5uua1--filter--sf14-1575f5uua1)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKFILSF141575F5UUA1 > Filter : SF14-1575F5UUA1
 
 - ID: SYMBOL-kicad-kicad-symbols-Filter-SF14-1575F5UUA1
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKFILSF141575F5UUA1](http://oom.lt/SZKFILSF141575F5UUA1)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Filter/SF14-1575F5UUA1/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Filter/SF14-1575F5UUA1/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Filter/SF14-1575F5UUA1/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Filter/SF14-1575F5UUA1/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Filter/SF14-1575F5UUA1/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Filter/SF14-1575F5UUA1/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Filter : SF14-1575F5UUA1|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'FL'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'SF14-1575F5UUA1'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Filter</td></tr><tr><td>Filter_1411-5_1.4x1.1mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//global.kyocera.com/prdct/electro/product/pdf/sf14_gnss.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'SAW filter'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '1575MHz SAW filter</td><td> SMD 1411'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Filter*1411*1.4x1.1mm*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

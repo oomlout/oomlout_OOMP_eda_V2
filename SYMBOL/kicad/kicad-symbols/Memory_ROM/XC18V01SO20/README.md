@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKMEMORYROMXC18V1SO2 > Memory_ROM : XC18V01SO20](#szkmemoryromxc18v1so2--memory_rom--xc18v01so20)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKMEMORYROMXC18V1SO2 > Memory_ROM : XC18V01SO20
 
 - ID: SYMBOL-kicad-kicad-symbols-Memory_ROM-XC18V01SO20
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKMEMORYROMXC18V1SO2](http://oom.lt/SZKMEMORYROMXC18V1SO2)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_ROM/XC18V01SO20/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_ROM/XC18V01SO20/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_ROM/XC18V01SO20/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_ROM/XC18V01SO20/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_ROM/XC18V01SO20/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_ROM/XC18V01SO20/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Memory_ROM : XC18V01SO20|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'XC18V01SO20'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'xilinx/xc18v00proms.pdf'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKBATMANAGEMENTMCP738322OT > Battery_Management : MCP73832-2-OT](#szkbatmanagementmcp738322ot--battery_management--mcp73832-2-ot)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKBATMANAGEMENTMCP738322OT > Battery_Management : MCP73832-2-OT
 
 - ID: SYMBOL-kicad-kicad-symbols-Battery_Management-MCP73832-2-OT
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKBATMANAGEMENTMCP738322OT](http://oom.lt/SZKBATMANAGEMENTMCP738322OT)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Battery_Management/MCP73832-2-OT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Battery_Management/MCP73832-2-OT/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Battery_Management/MCP73832-2-OT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Battery_Management/MCP73832-2-OT/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Battery_Management/MCP73832-2-OT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Battery_Management/MCP73832-2-OT/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Battery_Management : MCP73832-2-OT|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MCP73832-2-OT'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-23-5'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/20001984g.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'battery charger lithium'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Single cell</td><td> Li-Ion/Li-Po charge management controller</td><td> 4.20V</td><td> Open-Drain Status Output</td><td> in SOT23-5 package'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT?23*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

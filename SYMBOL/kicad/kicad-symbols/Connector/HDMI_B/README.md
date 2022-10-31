@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKCNHDMIB > Connector : HDMI_B](#szkcnhdmib--connector--hdmi_b)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKCNHDMIB > Connector : HDMI_B
 
 - ID: SYMBOL-kicad-kicad-symbols-Connector-HDMI_B
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKCNHDMIB](http://oom.lt/SZKCNHDMIB)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/HDMI_B/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/HDMI_B/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/HDMI_B/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/HDMI_B/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/HDMI_B/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/HDMI_B/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Connector : HDMI_B|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'J'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'HDMI_B'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//pinouts.ru/Video/hdmi_pinout.shtml'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'hdmi conn'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'HDMI type B connector'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'HDMI*B*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

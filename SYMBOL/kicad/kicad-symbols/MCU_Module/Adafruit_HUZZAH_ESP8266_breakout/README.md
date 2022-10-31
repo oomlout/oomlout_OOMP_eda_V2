@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKMCUMOADAHUZZAHESP8266BREAKOUT > MCU_Module : Adafruit_HUZZAH_ESP8266_breakout](#szkmcumoadahuzzahesp8266breakout--mcu_module--adafruit_huzzah_esp8266_breakout)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKMCUMOADAHUZZAHESP8266BREAKOUT > MCU_Module : Adafruit_HUZZAH_ESP8266_breakout
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Module-Adafruit_HUZZAH_ESP8266_breakout
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKMCUMOADAHUZZAHESP8266BREAKOUT](http://oom.lt/SZKMCUMOADAHUZZAHESP8266BREAKOUT)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Module/Adafruit_HUZZAH_ESP8266_breakout/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Module/Adafruit_HUZZAH_ESP8266_breakout/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Module/Adafruit_HUZZAH_ESP8266_breakout/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Module/Adafruit_HUZZAH_ESP8266_breakout/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Module/Adafruit_HUZZAH_ESP8266_breakout/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Module/Adafruit_HUZZAH_ESP8266_breakout/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|MCU_Module : Adafruit_HUZZAH_ESP8266_breakout|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'A'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Adafruit_HUZZAH_ESP8266_breakout'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.adafruit.com/product/2471'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'ESP8266 WiFi microcontroller'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '32-bit microcontroller module with WiFi'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Adafruit*HUZZAH*ESP8266*breakout* Adafruit*HUZZAH*ESP8266*breakout*WithMountingHoles*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

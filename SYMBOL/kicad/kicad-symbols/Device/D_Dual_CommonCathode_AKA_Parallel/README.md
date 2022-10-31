@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKDEVICEDDUALCOONCATHODEAKAPARALLEL > Device : D_Dual_CommonCathode_AKA_Parallel](#szkdeviceddualcooncathodeakaparallel--device--d_dual_commoncathode_aka_parallel)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKDEVICEDDUALCOONCATHODEAKAPARALLEL > Device : D_Dual_CommonCathode_AKA_Parallel
 
 - ID: SYMBOL-kicad-kicad-symbols-Device-D_Dual_CommonCathode_AKA_Parallel
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKDEVICEDDUALCOONCATHODEAKAPARALLEL](http://oom.lt/SZKDEVICEDDUALCOONCATHODEAKAPARALLEL)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/D_Dual_CommonCathode_AKA_Parallel/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/D_Dual_CommonCathode_AKA_Parallel/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/D_Dual_CommonCathode_AKA_Parallel/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/D_Dual_CommonCathode_AKA_Parallel/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/D_Dual_CommonCathode_AKA_Parallel/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/D_Dual_CommonCathode_AKA_Parallel/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Device : D_Dual_CommonCathode_AKA_Parallel|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'D_Dual_CommonCathode_AKA_Parallel'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'diode'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Dual diode</td><td> common anode on pin 1'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

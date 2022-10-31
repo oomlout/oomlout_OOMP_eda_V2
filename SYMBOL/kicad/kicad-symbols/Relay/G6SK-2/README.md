@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKRELAYG6SK2 > Relay : G6SK-2](#szkrelayg6sk2--relay--g6sk-2)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKRELAYG6SK2 > Relay : G6SK-2
 
 - ID: SYMBOL-kicad-kicad-symbols-Relay-G6SK-2
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKRELAYG6SK2](http://oom.lt/SZKRELAYG6SK2)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Relay/G6SK-2/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Relay/G6SK-2/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Relay/G6SK-2/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Relay/G6SK-2/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Relay/G6SK-2/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Relay/G6SK-2/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Relay : G6SK-2|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'K'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'G6SK-2'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//omronfs.omron.com/en_US/ecb/products/pdf/en-g6s.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Miniature Relay Dual Pole DPDT Omron'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Compact</td><td> Industry-Standard 2-pole relay</td><td> designed to switch 2A Signal Loads</td><td> Double-winding Latching'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Relay*DPDT*Omron*G6SK?2*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKDEVICEROTARYENCODERSWITCH > Device : RotaryEncoder_Switch](#szkdevicerotaryencoderswitch--device--rotaryencoder_switch)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKDEVICEROTARYENCODERSWITCH > Device : RotaryEncoder_Switch
 
 - ID: SYMBOL-kicad-kicad-symbols-Device-RotaryEncoder_Switch
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKDEVICEROTARYENCODERSWITCH](http://oom.lt/SZKDEVICEROTARYENCODERSWITCH)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/RotaryEncoder_Switch/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/RotaryEncoder_Switch/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/RotaryEncoder_Switch/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/RotaryEncoder_Switch/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/RotaryEncoder_Switch/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/RotaryEncoder_Switch/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Device : RotaryEncoder_Switch|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'SW'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'RotaryEncoder_Switch'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'rotary switch encoder switch push button'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Rotary encoder</td><td> dual channel</td><td> incremental quadrate outputs</td><td> with switch'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'RotaryEncoder*Switch*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

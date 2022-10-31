@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKCNCOAXIALSWITCHTP > Connector : CoaxialSwitch_Testpoint](#szkcncoaxialswitchtp--connector--coaxialswitch_testpoint)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKCNCOAXIALSWITCHTP > Connector : CoaxialSwitch_Testpoint
 
 - ID: SYMBOL-kicad-kicad-symbols-Connector-CoaxialSwitch_Testpoint
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKCNCOAXIALSWITCHTP](http://oom.lt/SZKCNCOAXIALSWITCHTP)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/CoaxialSwitch_Testpoint/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/CoaxialSwitch_Testpoint/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/CoaxialSwitch_Testpoint/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/CoaxialSwitch_Testpoint/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/CoaxialSwitch_Testpoint/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/CoaxialSwitch_Testpoint/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Connector : CoaxialSwitch_Testpoint|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'TP'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'CoaxialSwitch_Testpoint'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> ' Coaxial Switch RF testpoint'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Subminiature Coaxial Switch testpoint'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'CoaxialSwitch*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

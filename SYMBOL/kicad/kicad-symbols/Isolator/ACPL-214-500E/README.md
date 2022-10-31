@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKISOLATORACPL2145E > Isolator : ACPL-214-500E](#szkisolatoracpl2145e--isolator--acpl-214-500e)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKISOLATORACPL2145E > Isolator : ACPL-214-500E
 
 - ID: SYMBOL-kicad-kicad-symbols-Isolator-ACPL-214-500E
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKISOLATORACPL2145E](http://oom.lt/SZKISOLATORACPL2145E)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Isolator/ACPL-214-500E/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Isolator/ACPL-214-500E/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Isolator/ACPL-214-500E/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Isolator/ACPL-214-500E/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Isolator/ACPL-214-500E/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Isolator/ACPL-214-500E/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Isolator : ACPL-214-500E|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'TLP290'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ACPL-214-500E'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOP-4_4.4x2.6mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//docs.broadcom.com/doc/AV02-0469EN'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'npn ac dc ac-dc acdc phototransistor optocoupler optoisolator'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'AC/DC Phototransistor Optocoupler</td><td> Vce 80V</td><td> CTR 20-400%</td><td> SOP-4'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOP*4*4.4x2.6mm*P1.27mm*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

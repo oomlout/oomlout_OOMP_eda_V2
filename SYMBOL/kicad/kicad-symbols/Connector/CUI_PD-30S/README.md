@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKCNCUIPD3S > Connector : CUI_PD-30S](#szkcncuipd3s--connector--cui_pd-30s)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKCNCUIPD3S > Connector : CUI_PD-30S
 
 - ID: SYMBOL-kicad-kicad-symbols-Connector-CUI_PD-30S
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKCNCUIPD3S](http://oom.lt/SZKCNCUIPD3S)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/CUI_PD-30S/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/CUI_PD-30S/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/CUI_PD-30S/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/CUI_PD-30S/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/CUI_PD-30S/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/CUI_PD-30S/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Connector : CUI_PD-30S|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'J'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'CUI_PD-30S'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Connector</td></tr><tr><td>CUI_PD-30S'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.cui.com/product/resource/pd-30.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'connector 3-pin PD-30S power DIN'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '3 pin connector</td><td> PD-30S'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'CUI*PD*30S*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

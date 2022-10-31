@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKISOLATORSI8641BDBIS2 > Isolator : Si8641BD-B-IS2](#szkisolatorsi8641bdbis2--isolator--si8641bd-b-is2)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKISOLATORSI8641BDBIS2 > Isolator : Si8641BD-B-IS2
 
 - ID: SYMBOL-kicad-kicad-symbols-Isolator-Si8641BD-B-IS2
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKISOLATORSI8641BDBIS2](http://oom.lt/SZKISOLATORSI8641BDBIS2)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Isolator/Si8641BD-B-IS2/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Isolator/Si8641BD-B-IS2/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Isolator/Si8641BD-B-IS2/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Isolator/Si8641BD-B-IS2/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Isolator/Si8641BD-B-IS2/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Isolator/Si8641BD-B-IS2/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Isolator : Si8641BD-B-IS2|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'Si8641BB-B-IS'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Si8641BD-B-IS2'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOIC-16W_7.5x10.3mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.silabs.com/documents/public/data-sheets/si864x-datasheet.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> '4Ch 3In 1Out Quad Digital Isolator 150Mbps'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Low-Power Quad-Channel Digital Isolator</td><td> 150Mbps</td><td> 2.5-5.5V</td><td> 5.0kV isolation</td><td> Fail-Safe Low</td><td> 8mm creepage</td><td> SOIC-16W'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOIC*7.5x10.3mm*P1.27mm*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

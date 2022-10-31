@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKREGULATORSWITCHINGST1S1PUR > Regulator_Switching : ST1S10PUR](#szkregulatorswitchingst1s1pur--regulator_switching--st1s10pur)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKREGULATORSWITCHINGST1S1PUR > Regulator_Switching : ST1S10PUR
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-ST1S10PUR
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGST1S1PUR](http://oom.lt/SZKREGULATORSWITCHINGST1S1PUR)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/ST1S10PUR/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/ST1S10PUR/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/ST1S10PUR/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/ST1S10PUR/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/ST1S10PUR/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/ST1S10PUR/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Regulator_Switching : ST1S10PUR|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ST1S10PUR'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>DFN-8-1EP_4x4mm_P0.8mm_EP2.5x3.6mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.st.com/internet/com/TECHNICAL_RESOURCES/TECHNICAL_LITERATURE/DATASHEET/CD00169322.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'DC/DC Buck Conwerter 3A Low Voltage Input'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '3A monolithic synchronous step-down regulator</td><td> Adjustable Output Voltage</td><td> 2.5-18V Input Voltage</td><td> 900kHz</td><td> DFN-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DFN*EP*4x4mm*P0.8mm*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

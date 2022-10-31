@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZK4XXXIEEE4374 > 4xxx_IEEE : 40374](#szk4xxxieee4374--4xxx_ieee--40374)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZK4XXXIEEE4374 > 4xxx_IEEE : 40374
 
 - ID: SYMBOL-kicad-kicad-symbols-4xxx_IEEE-40374
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZK4XXXIEEE4374](http://oom.lt/SZK4XXXIEEE4374)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/4xxx_IEEE/40374/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/4xxx_IEEE/40374/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/4xxx_IEEE/40374/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/4xxx_IEEE/40374/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/4xxx_IEEE/40374/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/4xxx_IEEE/40374/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|4xxx_IEEE : 40374|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> '40374'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.digchip.com/datasheets/download_datasheet.php?id=369790&part-number=HEF40374BDB'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'CMOS BUFFER 3State'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '8-bit D-flip-flop with 3-State outputs'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

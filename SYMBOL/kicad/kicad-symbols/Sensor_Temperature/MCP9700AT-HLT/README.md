@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKSENTEMPERATUREMCP97ATHLT > Sensor_Temperature : MCP9700AT-HLT](#szksentemperaturemcp97athlt--sensor_temperature--mcp9700at-hlt)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKSENTEMPERATUREMCP97ATHLT > Sensor_Temperature : MCP9700AT-HLT
 
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Temperature-MCP9700AT-HLT
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKSENTEMPERATUREMCP97ATHLT](http://oom.lt/SZKSENTEMPERATUREMCP97ATHLT)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/MCP9700AT-HLT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/MCP9700AT-HLT/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/MCP9700AT-HLT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/MCP9700AT-HLT/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/MCP9700AT-HLT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Temperature/MCP9700AT-HLT/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Sensor_Temperature : MCP9700AT-HLT|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'MCP9700AT-ELT'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MCP9700AT-HLT'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-353_SC-70-5'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/DeviceDoc/21942e.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'temperature sensor thermistor'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Low power</td><td> analog thermistor temperature sensor</td><td> ±2C accuracy</td><td> -40C to +150C</td><td> in SC-70-5'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SC-70-5*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

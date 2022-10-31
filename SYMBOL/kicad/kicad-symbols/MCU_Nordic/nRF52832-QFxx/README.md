@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKMCUNORDICNRF52832QFXX > MCU_Nordic : nRF52832-QFxx](#szkmcunordicnrf52832qfxx--mcu_nordic--nrf52832-qfxx)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKMCUNORDICNRF52832QFXX > MCU_Nordic : nRF52832-QFxx
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Nordic-nRF52832-QFxx
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKMCUNORDICNRF52832QFXX](http://oom.lt/SZKMCUNORDICNRF52832QFXX)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Nordic/nRF52832-QFxx/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Nordic/nRF52832-QFxx/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Nordic/nRF52832-QFxx/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Nordic/nRF52832-QFxx/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Nordic/nRF52832-QFxx/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Nordic/nRF52832-QFxx/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|MCU_Nordic : nRF52832-QFxx|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'nRF52832-QFxx'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>QFN-48-1EP_6x6mm_P0.4mm_EP4.6x4.6mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//infocenter.nordicsemi.com/pdf/nRF52832_PS_v1.4.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'MCU</td><td> ARM</td><td> BLE</td><td> 2.4GHz'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Multiprotocol BLE/2.4GHz Cortex-M4 SoC</td><td> QFN-48'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'QFN*1EP*6x6mm*P0.4mm*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKMCUINTELI386EXPQFP > MCU_Intel : I386EX_PQFP](#szkmcuinteli386expqfp--mcu_intel--i386ex_pqfp)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKMCUINTELI386EXPQFP > MCU_Intel : I386EX_PQFP
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_Intel-I386EX_PQFP
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKMCUINTELI386EXPQFP](http://oom.lt/SZKMCUINTELI386EXPQFP)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Intel/I386EX_PQFP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Intel/I386EX_PQFP/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Intel/I386EX_PQFP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Intel/I386EX_PQFP/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Intel/I386EX_PQFP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Intel/I386EX_PQFP/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|MCU_Intel : I386EX_PQFP|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'I386EX_PQFP'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'MPRO'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Intel I386EX Embedded microprocessor</td><td> PQFP-132'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'PQFP*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

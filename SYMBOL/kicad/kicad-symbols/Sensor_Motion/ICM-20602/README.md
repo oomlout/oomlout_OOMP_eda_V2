@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKSENMOTIONICM262 > Sensor_Motion : ICM-20602](#szksenmotionicm262--sensor_motion--icm-20602)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKSENMOTIONICM262 > Sensor_Motion : ICM-20602
 
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Motion-ICM-20602
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKSENMOTIONICM262](http://oom.lt/SZKSENMOTIONICM262)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Motion/ICM-20602/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Motion/ICM-20602/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Motion/ICM-20602/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Motion/ICM-20602/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Motion/ICM-20602/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Motion/ICM-20602/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Sensor_Motion : ICM-20602|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'ICM-20602'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_LGA</td></tr><tr><td>LGA-16_3x3mm_P0.5mm_LayoutBorder3x5y'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.invensense.com/wp-content/uploads/2016/10/DS-000176-ICM-20602-v1.0.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'accelerometer gyro mems motion'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'High performance 6-Axis MEMS motion tracking</td><td> SPI/I2C interface</td><td> LGA-16'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'LGA*3x3mm*P0.5mm*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

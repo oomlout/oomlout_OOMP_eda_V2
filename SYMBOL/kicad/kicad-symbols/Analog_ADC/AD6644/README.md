@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKANALOGADCAD6644 > Analog_ADC : AD6644](#szkanalogadcad6644--analog_adc--ad6644)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKANALOGADCAD6644 > Analog_ADC : AD6644
 
 - ID: SYMBOL-kicad-kicad-symbols-Analog_ADC-AD6644
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKANALOGADCAD6644](http://oom.lt/SZKANALOGADCAD6644)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/AD6644/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/AD6644/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/AD6644/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/AD6644/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/AD6644/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/AD6644/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Analog_ADC : AD6644|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'AD6644'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_QFP</td></tr><tr><td>TQFP-52-1EP_10x10mm_P0.65mm_EP6.5x6.5mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.analog.com/media/en/technical-documentation/data-sheets/AD6644.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'ADC differential analog digital converter'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'A/D Converter</td><td> 14-Bit</td><td> 40 MSPS/65 MSPS</td><td> TQFP-52'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TQFP*1EP*10x10mm*P0.65mm*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

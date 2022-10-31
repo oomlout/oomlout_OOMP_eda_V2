@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKTRANSISTORFETFDMS8655ET6 > Transistor_FET : FDMS86550ET60](#szktransistorfetfdms8655et6--transistor_fet--fdms86550et60)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKTRANSISTORFETFDMS8655ET6 > Transistor_FET : FDMS86550ET60
 
 - ID: SYMBOL-kicad-kicad-symbols-Transistor_FET-FDMS86550ET60
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKTRANSISTORFETFDMS8655ET6](http://oom.lt/SZKTRANSISTORFETFDMS8655ET6)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/FDMS86550ET60/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/FDMS86550ET60/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/FDMS86550ET60/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/FDMS86550ET60/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/FDMS86550ET60/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/FDMS86550ET60/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Transistor_FET : FDMS86550ET60|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'CSD17578Q5A'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'FDMS86550ET60'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>TDSON-8-1'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.onsemi.com/pub/Collateral/FDMS86550ET60-D.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'powertrench MOSFET fairchild'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '32A Id</td><td> 60V Vds</td><td> N-Channel PowerTrench MOSFET</td><td> 1.65mOhm Ron</td><td> 154nC Qgmax</td><td> -55 to 175 °C</td><td> 5x6mm SON8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TDSON*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKPSPICEQPNP > pspice : QPNP](#szkpspiceqpnp--pspice--qpnp)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKPSPICEQPNP > pspice : QPNP
 
 - ID: SYMBOL-kicad-kicad-symbols-pspice-QPNP
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKPSPICEQPNP](http://oom.lt/SZKPSPICEQPNP)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/pspice/QPNP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/pspice/QPNP/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/pspice/QPNP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/pspice/QPNP/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/pspice/QPNP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/pspice/QPNP/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|pspice : QPNP|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'Q'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'QPNP'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'simulstaion'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Bipolar transistor symbol for simulation only'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

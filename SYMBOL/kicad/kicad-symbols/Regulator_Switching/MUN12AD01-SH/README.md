@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKREGULATORSWITCHINGMUN12AD1SH > Regulator_Switching : MUN12AD01-SH](#szkregulatorswitchingmun12ad1sh--regulator_switching--mun12ad01-sh)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKREGULATORSWITCHINGMUN12AD1SH > Regulator_Switching : MUN12AD01-SH
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-MUN12AD01-SH
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGMUN12AD1SH](http://oom.lt/SZKREGULATORSWITCHINGMUN12AD1SH)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/MUN12AD01-SH/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/MUN12AD01-SH/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/MUN12AD01-SH/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/MUN12AD01-SH/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/MUN12AD01-SH/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/MUN12AD01-SH/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Regulator_Switching : MUN12AD01-SH|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MUN12AD01-SH'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Converter_DCDC</td></tr><tr><td>Converter_DCDC_Cyntec_MUN12AD01-SH'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.cyntec.com/upfile/products/download/Cyntec%20MUN12AD01-SH_Datasheet.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'DC/DC Switching Regulator Power Module 1A Cyntec MUN12AD01'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'DC/DC Switching Regulator</td><td> Power Module</td><td> 1A</td><td> Cyntec MUN12AD01'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Converter?DCDC?Cyntec?MUN12AD01?SH*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

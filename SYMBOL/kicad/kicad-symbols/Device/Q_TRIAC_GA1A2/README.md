@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKDEVICEQTRIACGA1A2 > Device : Q_TRIAC_GA1A2](#szkdeviceqtriacga1a2--device--q_triac_ga1a2)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKDEVICEQTRIACGA1A2 > Device : Q_TRIAC_GA1A2
 
 - ID: SYMBOL-kicad-kicad-symbols-Device-Q_TRIAC_GA1A2
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKDEVICEQTRIACGA1A2](http://oom.lt/SZKDEVICEQTRIACGA1A2)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/Q_TRIAC_GA1A2/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/Q_TRIAC_GA1A2/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/Q_TRIAC_GA1A2/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/Q_TRIAC_GA1A2/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/Q_TRIAC_GA1A2/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/Q_TRIAC_GA1A2/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Device : Q_TRIAC_GA1A2|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Q_TRIAC_GA1A2'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'TRIAC'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Triode for alternating current</td><td> gate/anode1/anode2'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKVIDEOTDA8772 > Video : TDA8772](#szkvideotda8772--video--tda8772)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKVIDEOTDA8772 > Video : TDA8772
 
 - ID: SYMBOL-kicad-kicad-symbols-Video-TDA8772
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKVIDEOTDA8772](http://oom.lt/SZKVIDEOTDA8772)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Video/TDA8772/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Video/TDA8772/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Video/TDA8772/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Video/TDA8772/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Video/TDA8772/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Video/TDA8772/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Video : TDA8772|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TDA8772'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.pa0qy.nl/pdf/TDA8772.PDF'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Video DAC Colour 8bit'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Triple 8bit Video DAC</td><td> QFP-44'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'QFP*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

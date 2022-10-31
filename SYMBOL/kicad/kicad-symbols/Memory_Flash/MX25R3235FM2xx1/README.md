@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKMEMORYFLASHMX25R3235FM2XX1 > Memory_Flash : MX25R3235FM2xx1](#szkmemoryflashmx25r3235fm2xx1--memory_flash--mx25r3235fm2xx1)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKMEMORYFLASHMX25R3235FM2XX1 > Memory_Flash : MX25R3235FM2xx1
 
 - ID: SYMBOL-kicad-kicad-symbols-Memory_Flash-MX25R3235FM2xx1
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKMEMORYFLASHMX25R3235FM2XX1](http://oom.lt/SZKMEMORYFLASHMX25R3235FM2XX1)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_Flash/MX25R3235FM2xx1/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_Flash/MX25R3235FM2xx1/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_Flash/MX25R3235FM2xx1/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_Flash/MX25R3235FM2xx1/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_Flash/MX25R3235FM2xx1/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_Flash/MX25R3235FM2xx1/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Memory_Flash : MX25R3235FM2xx1|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MX25R3235FM2xx1'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_SO</td></tr><tr><td>SOP-8_5.28x5.23mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.macronix.com/Lists/Datasheet/Attachments/7534/MX25R3235F</td><td>%20Wide%20Range</td><td>%2032Mb</td><td>%20v1.6.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'SPI 32Mbit 1.65V-3.6V'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '32-Mbit</td><td> Wide Range Voltage SPI Serial Flash Memory</td><td> SOP-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOP*5.28x5.23mm*P1.27mm*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

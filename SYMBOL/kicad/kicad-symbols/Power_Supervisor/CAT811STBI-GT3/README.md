@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKPOWERSUPERVISORCAT811STBIGT3 > Power_Supervisor : CAT811STBI-GT3](#szkpowersupervisorcat811stbigt3--power_supervisor--cat811stbi-gt3)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKPOWERSUPERVISORCAT811STBIGT3 > Power_Supervisor : CAT811STBI-GT3
 
 - ID: SYMBOL-kicad-kicad-symbols-Power_Supervisor-CAT811STBI-GT3
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKPOWERSUPERVISORCAT811STBIGT3](http://oom.lt/SZKPOWERSUPERVISORCAT811STBIGT3)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Power_Supervisor/CAT811STBI-GT3/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Power_Supervisor/CAT811STBI-GT3/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Power_Supervisor/CAT811STBI-GT3/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Power_Supervisor/CAT811STBI-GT3/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Power_Supervisor/CAT811STBI-GT3/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Power_Supervisor/CAT811STBI-GT3/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Power_Supervisor : CAT811STBI-GT3|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'MIC811LUY'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'CAT811STBI-GT3'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-143'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.onsemi.com/pub/Collateral/CAT811-D.PDF'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Supervisor Reset'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Power supply supervisor</td><td> Manual reset</td><td> Threshold 2.93V</td><td> SOT-143'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT*143*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

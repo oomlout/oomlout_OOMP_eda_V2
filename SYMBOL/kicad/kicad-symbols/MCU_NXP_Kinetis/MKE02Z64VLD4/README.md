@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKMCUNXPKINETISMKE2Z64VLD4 > MCU_NXP_Kinetis : MKE02Z64VLD4](#szkmcunxpkinetismke2z64vld4--mcu_nxp_kinetis--mke02z64vld4)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKMCUNXPKINETISMKE2Z64VLD4 > MCU_NXP_Kinetis : MKE02Z64VLD4
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_NXP_Kinetis-MKE02Z64VLD4
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKMCUNXPKINETISMKE2Z64VLD4](http://oom.lt/SZKMCUNXPKINETISMKE2Z64VLD4)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_Kinetis/MKE02Z64VLD4/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_Kinetis/MKE02Z64VLD4/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_Kinetis/MKE02Z64VLD4/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_Kinetis/MKE02Z64VLD4/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_Kinetis/MKE02Z64VLD4/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_Kinetis/MKE02Z64VLD4/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|MCU_NXP_Kinetis : MKE02Z64VLD4|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MKE02Z64VLD4'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_QFP</td></tr><tr><td>LQFP-44_10x10mm_P0.8mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//cache.nxp.com/files/microcontrollers/doc/ref_manual/MKE02P64M40SF0RM.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'NXP Kinetis Microcontroller'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '40 MHz</td><td> Entry-Level</td><td> High-Robustness</td><td> ESD/EMC performance Microcontroller</td><td> Cortex-M0+ core</td><td> 64kB Flash</td><td> 4kB RAM</td><td> LQFP-44'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'LQFP*10x10mm*P0.8mm*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

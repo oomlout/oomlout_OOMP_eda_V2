@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKCNCONNPICICSPICD > Connector : Conn_PIC_ICSP_ICD](#szkcnconnpicicspicd--connector--conn_pic_icsp_icd)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKCNCONNPICICSPICD > Connector : Conn_PIC_ICSP_ICD
 
 - ID: SYMBOL-kicad-kicad-symbols-Connector-Conn_PIC_ICSP_ICD
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKCNCONNPICICSPICD](http://oom.lt/SZKCNCONNPICICSPICD)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_PIC_ICSP_ICD/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_PIC_ICSP_ICD/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_PIC_ICSP_ICD/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_PIC_ICSP_ICD/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_PIC_ICSP_ICD/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_PIC_ICSP_ICD/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Connector : Conn_PIC_ICSP_ICD|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'J'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Conn_PIC_ICSP_ICD'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//ww1.microchip.com/downloads/en/devicedoc/30277d.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'icsp icd pic microchip'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Microchip PIC In-Circuit Serial Programming/Debugging (ICSP/ICD) connector'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'PinHeader*1x06*P2.54mm* PinSocket*1x06*P2.54mm*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKMCUNXPLPCLPC2148FBD64 > MCU_NXP_LPC : LPC2148FBD64](#szkmcunxplpclpc2148fbd64--mcu_nxp_lpc--lpc2148fbd64)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKMCUNXPLPCLPC2148FBD64 > MCU_NXP_LPC : LPC2148FBD64
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_NXP_LPC-LPC2148FBD64
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKMCUNXPLPCLPC2148FBD64](http://oom.lt/SZKMCUNXPLPCLPC2148FBD64)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_LPC/LPC2148FBD64/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_LPC/LPC2148FBD64/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_LPC/LPC2148FBD64/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_LPC/LPC2148FBD64/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_LPC/LPC2148FBD64/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_LPC/LPC2148FBD64/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|MCU_NXP_LPC : LPC2148FBD64|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'LPC2141FBD64'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LPC2148FBD64'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_QFP</td></tr><tr><td>LQFP-64_10x10mm_P0.5mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.nxp.com/documents/data_sheet/LPC2141_42_44_46_48.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'ARM</td><td> 16-bit</td><td> 32-bit</td><td> ARM7</td><td> NXP</td><td> microcontroller'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '16-bit/32-bit ARM7TDMI-S microcontroller</td><td> 512kB flash</td><td> 40kB RAM'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> '*LQFP*10x10mm*P0.5mm*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

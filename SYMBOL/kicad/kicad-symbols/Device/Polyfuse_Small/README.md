@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKDEVICEPOLYFUSLL > Device : Polyfuse_Small](#szkdevicepolyfusll--device--polyfuse_small)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKDEVICEPOLYFUSLL > Device : Polyfuse_Small
 
 - ID: SYMBOL-kicad-kicad-symbols-Device-Polyfuse_Small
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKDEVICEPOLYFUSLL](http://oom.lt/SZKDEVICEPOLYFUSLL)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/Polyfuse_Small/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/Polyfuse_Small/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/Polyfuse_Small/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/Polyfuse_Small/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/Polyfuse_Small/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/Polyfuse_Small/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Device : Polyfuse_Small|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'F'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Polyfuse_Small'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'resettable fuse PTC PPTC polyfuse polyswitch'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Resettable fuse</td><td> polymeric positive temperature coefficient</td><td> small symbol'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> '*polyfuse* *PTC*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

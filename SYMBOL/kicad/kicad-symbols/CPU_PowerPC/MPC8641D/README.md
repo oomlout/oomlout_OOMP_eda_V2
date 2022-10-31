@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKCPUPOWERPCMPC8641D > CPU_PowerPC : MPC8641D](#szkcpupowerpcmpc8641d--cpu_powerpc--mpc8641d)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKCPUPOWERPCMPC8641D > CPU_PowerPC : MPC8641D
 
 - ID: SYMBOL-kicad-kicad-symbols-CPU_PowerPC-MPC8641D
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKCPUPOWERPCMPC8641D](http://oom.lt/SZKCPUPOWERPCMPC8641D)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/CPU_PowerPC/MPC8641D/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/CPU_PowerPC/MPC8641D/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/CPU_PowerPC/MPC8641D/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/CPU_PowerPC/MPC8641D/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/CPU_PowerPC/MPC8641D/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/CPU_PowerPC/MPC8641D/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|CPU_PowerPC : MPC8641D|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MPC8641D'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_locked'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'POWERPC'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Freescale PowerPC E600 core</td><td> package BGA1023 pins pitch 1mm'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

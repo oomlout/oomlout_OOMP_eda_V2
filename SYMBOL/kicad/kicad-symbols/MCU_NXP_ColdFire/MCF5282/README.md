@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKMCUNXPCOLDFIREMCF5282 > MCU_NXP_ColdFire : MCF5282](#szkmcunxpcoldfiremcf5282--mcu_nxp_coldfire--mcf5282)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKMCUNXPCOLDFIREMCF5282 > MCU_NXP_ColdFire : MCF5282
 
 - ID: SYMBOL-kicad-kicad-symbols-MCU_NXP_ColdFire-MCF5282
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKMCUNXPCOLDFIREMCF5282](http://oom.lt/SZKMCUNXPCOLDFIREMCF5282)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_ColdFire/MCF5282/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_ColdFire/MCF5282/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_ColdFire/MCF5282/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_ColdFire/MCF5282/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_ColdFire/MCF5282/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_ColdFire/MCF5282/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|MCU_NXP_ColdFire : MCF5282|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'MCF5282'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> ''</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'COLDFIRE'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Coldfire with SRAM and Flash Eprom'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

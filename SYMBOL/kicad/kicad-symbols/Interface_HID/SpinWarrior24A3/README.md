@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKINTERFACEHIDSPINWARRIOR24A3 > Interface_HID : SpinWarrior24A3](#szkinterfacehidspinwarrior24a3--interface_hid--spinwarrior24a3)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKINTERFACEHIDSPINWARRIOR24A3 > Interface_HID : SpinWarrior24A3
 
 - ID: SYMBOL-kicad-kicad-symbols-Interface_HID-SpinWarrior24A3
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKINTERFACEHIDSPINWARRIOR24A3](http://oom.lt/SZKINTERFACEHIDSPINWARRIOR24A3)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_HID/SpinWarrior24A3/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_HID/SpinWarrior24A3/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_HID/SpinWarrior24A3/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_HID/SpinWarrior24A3/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_HID/SpinWarrior24A3/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_HID/SpinWarrior24A3/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Interface_HID : SpinWarrior24A3|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'SpinWarrior24A3'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.codemercs.com/downloads/spinwarrior/SW_Datasheet.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> '16bit</td><td> absolute position</td><td> USB</td><td> rotary encoder'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'SpinWarrior</td><td> 3 16bit absolute position rotary encoders</td><td> 6 digital inputs</td><td> DIP-24/SOIC-24'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DIP*7.62mm* SOIC*7.5x15.4mm*P1.27mm*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

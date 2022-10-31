@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKLQLS6BFKW > LED : QLS6B-FKW](#szklqls6bfkw--led--qls6b-fkw)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKLQLS6BFKW > LED : QLS6B-FKW
 
 - ID: SYMBOL-kicad-kicad-symbols-LED-QLS6B-FKW
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKLQLS6BFKW](http://oom.lt/SZKLQLS6BFKW)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/LED/QLS6B-FKW/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/LED/QLS6B-FKW/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/LED/QLS6B-FKW/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/LED/QLS6B-FKW/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/LED/QLS6B-FKW/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/LED/QLS6B-FKW/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|LED : QLS6B-FKW|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'CLS6B-FKW'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'QLS6B-FKW'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'LED_SMD</td></tr><tr><td>LED_Cree-PLCC6_4.7x1.5mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.cree.com/led-components/media/documents/1397-QLS6BFKW.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'LED RGB'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Cree PLCC6 3 in 1 SMD LED</td><td> PLCC-6'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'LED*Cree*PLCC*4.7x1.5mm*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

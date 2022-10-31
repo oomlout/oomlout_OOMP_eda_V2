@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKSENPROXIMITYSG15F > Sensor_Proximity : SG-105F](#szksenproximitysg15f--sensor_proximity--sg-105f)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKSENPROXIMITYSG15F > Sensor_Proximity : SG-105F
 
 - ID: SYMBOL-kicad-kicad-symbols-Sensor_Proximity-SG-105F
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKSENPROXIMITYSG15F](http://oom.lt/SZKSENPROXIMITYSG15F)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Proximity/SG-105F/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Proximity/SG-105F/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Proximity/SG-105F/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Proximity/SG-105F/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Proximity/SG-105F/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Proximity/SG-105F/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Sensor_Proximity : SG-105F|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'SG-105F'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'OptoDevice</td></tr><tr><td>Kodenshi_SG105F'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.kodenshi.co.jp/products/pdf/sensor/photointerrupter_ref/SG-105F.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Reflective Optical Sensor Opto'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Subminiature Reflective Optical Sensor</td><td> DIP-lie THT-package'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Kodenshi*SG105F*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKANALOGDACTLV5627CD > Analog_DAC : TLV5627CD](#szkanalogdactlv5627cd--analog_dac--tlv5627cd)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKANALOGDACTLV5627CD > Analog_DAC : TLV5627CD
 
 - ID: SYMBOL-kicad-kicad-symbols-Analog_DAC-TLV5627CD
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKANALOGDACTLV5627CD](http://oom.lt/SZKANALOGDACTLV5627CD)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_DAC/TLV5627CD/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_DAC/TLV5627CD/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_DAC/TLV5627CD/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_DAC/TLV5627CD/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_DAC/TLV5627CD/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_DAC/TLV5627CD/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Analog_DAC : TLV5627CD|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'TLV5627CD'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/symlink/tlv5627.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'DAC 4CH 8bit'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '4-Channel DAC</td><td> 8bit</td><td> w/ Power Down</td><td> SOIC-16'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

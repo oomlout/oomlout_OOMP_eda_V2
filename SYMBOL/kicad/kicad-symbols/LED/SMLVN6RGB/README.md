@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKLSMLVN6RGB > LED : SMLVN6RGB](#szklsmlvn6rgb--led--smlvn6rgb)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKLSMLVN6RGB > LED : SMLVN6RGB
 
 - ID: SYMBOL-kicad-kicad-symbols-LED-SMLVN6RGB
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKLSMLVN6RGB](http://oom.lt/SZKLSMLVN6RGB)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/LED/SMLVN6RGB/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/LED/SMLVN6RGB/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/LED/SMLVN6RGB/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/LED/SMLVN6RGB/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/LED/SMLVN6RGB/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/LED/SMLVN6RGB/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|LED : SMLVN6RGB|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'SMLVN6RGB'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'LED_SMD</td></tr><tr><td>LED_ROHM_SMLVN6'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.rohm.com/datasheet/SMLVN6RGB1U'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'LED RGB Diode'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'High Brightness Tri-Color LED</td><td> RGB</td><td> 3.5x2.8mm'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'LED*ROHM*SMLVN6*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

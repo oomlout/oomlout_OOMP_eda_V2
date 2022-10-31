@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKDEVICEDZENERDUALCOONCATHODEKAA > Device : D_Zener_Dual_CommonCathode_KAA](#szkdevicedzenerdualcooncathodekaa--device--d_zener_dual_commoncathode_kaa)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKDEVICEDZENERDUALCOONCATHODEKAA > Device : D_Zener_Dual_CommonCathode_KAA
 
 - ID: SYMBOL-kicad-kicad-symbols-Device-D_Zener_Dual_CommonCathode_KAA
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKDEVICEDZENERDUALCOONCATHODEKAA](http://oom.lt/SZKDEVICEDZENERDUALCOONCATHODEKAA)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/D_Zener_Dual_CommonCathode_KAA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/D_Zener_Dual_CommonCathode_KAA/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/D_Zener_Dual_CommonCathode_KAA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/D_Zener_Dual_CommonCathode_KAA/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/D_Zener_Dual_CommonCathode_KAA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/D_Zener_Dual_CommonCathode_KAA/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Device : D_Zener_Dual_CommonCathode_KAA|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'D_Zener_Dual_CommonCathode_KAA'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> '~'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'diode zener dual'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Dual Zener diode</td><td> common cathode on pin 1'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'SOT* SC*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

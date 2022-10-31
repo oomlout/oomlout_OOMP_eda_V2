@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKMEMORYFLASHM25PX32VMP > Memory_Flash : M25PX32-VMP](#szkmemoryflashm25px32vmp--memory_flash--m25px32-vmp)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKMEMORYFLASHM25PX32VMP > Memory_Flash : M25PX32-VMP
 
 - ID: SYMBOL-kicad-kicad-symbols-Memory_Flash-M25PX32-VMP
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKMEMORYFLASHM25PX32VMP](http://oom.lt/SZKMEMORYFLASHM25PX32VMP)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_Flash/M25PX32-VMP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_Flash/M25PX32-VMP/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_Flash/M25PX32-VMP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_Flash/M25PX32-VMP/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_Flash/M25PX32-VMP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_Flash/M25PX32-VMP/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Memory_Flash : M25PX32-VMP|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'M25PX32-VMP'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_DFN_QFN</td></tr><tr><td>DFN-S-8-1EP_6x5mm_P1.27mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.micron.com/~/media/documents/products/data-sheet/nor-flash/serial-nor/m25px/m25px32.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'NOR Serial Flash Embedded Memory'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '32Mb</td><td> Dual I/O</td><td> 4KB Subsector Erase</td><td> 3V Serial Flash Memory with 75 MHz SPI Bus Interface</td><td> DFN-8'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'DFN*6x5mm*P1.27mm*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

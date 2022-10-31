@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKREGULATORSWITCHINGLMZ1368 > Regulator_Switching : LMZ13608](#szkregulatorswitchinglmz1368--regulator_switching--lmz13608)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKREGULATORSWITCHINGLMZ1368 > Regulator_Switching : LMZ13608
 
 - ID: SYMBOL-kicad-kicad-symbols-Regulator_Switching-LMZ13608
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGLMZ1368](http://oom.lt/SZKREGULATORSWITCHINGLMZ1368)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LMZ13608/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LMZ13608/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LMZ13608/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LMZ13608/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LMZ13608/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LMZ13608/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Regulator_Switching : LMZ13608|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'LMZ13608'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>Texas_NDY0011A'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.ti.com/lit/ds/snvs710i/snvs710i.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'Step-Down DC/DC Module'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '8A Adjustable Step-Down DC/DC Power Module in 15x15mm</td><td> Texas NDY0011A'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Texas*NDY0011A*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

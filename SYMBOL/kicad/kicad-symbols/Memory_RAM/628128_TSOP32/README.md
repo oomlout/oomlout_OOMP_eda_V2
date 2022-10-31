@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKMEMORYRAM628128TS32 > Memory_RAM : 628128_TSOP32](#szkmemoryram628128ts32--memory_ram--628128_tsop32)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKMEMORYRAM628128TS32 > Memory_RAM : 628128_TSOP32
 
 - ID: SYMBOL-kicad-kicad-symbols-Memory_RAM-628128_TSOP32
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKMEMORYRAM628128TS32](http://oom.lt/SZKMEMORYRAM628128TS32)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_RAM/628128_TSOP32/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_RAM/628128_TSOP32/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_RAM/628128_TSOP32/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_RAM/628128_TSOP32/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_RAM/628128_TSOP32/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_RAM/628128_TSOP32/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Memory_RAM : 628128_TSOP32|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> '628128_TSOP32'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.futurlec.com/Datasheet/Memory/628128.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'RAM SRAM CMOS MEMORY'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> '128K x 8 High-Speed CMOS Static RAM</td><td> 55/70ns</td><td> TSOP-I-32'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'TSOP?I*11.8x8mm*P0.5mm* TSOP?I*18.4x8mm*P0.5mm*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

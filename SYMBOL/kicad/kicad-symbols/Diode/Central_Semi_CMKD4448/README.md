@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKDIODECENTRALSEMICMKD4448 > Diode : Central_Semi_CMKD4448](#szkdiodecentralsemicmkd4448--diode--central_semi_cmkd4448)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKDIODECENTRALSEMICMKD4448 > Diode : Central_Semi_CMKD4448
 
 - ID: SYMBOL-kicad-kicad-symbols-Diode-Central_Semi_CMKD4448
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKDIODECENTRALSEMICMKD4448](http://oom.lt/SZKDIODECENTRALSEMICMKD4448)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/Central_Semi_CMKD4448/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/Central_Semi_CMKD4448/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/Central_Semi_CMKD4448/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/Central_Semi_CMKD4448/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/Central_Semi_CMKD4448/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/Central_Semi_CMKD4448/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Diode : Central_Semi_CMKD4448|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'BAS16TW'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'D'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'Central_Semi_CMKD4448'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Package_TO_SOT_SMD</td></tr><tr><td>SOT-363_SC-70-6'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'http</td></tr><tr><td>//www.centralsemi.com/PDFs/products/CMKD4448.PDF'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'diode'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'High speed switching diode array 3 independent'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> '*SOT?363*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

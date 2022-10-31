@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKFPGAXILINXXC2S2PQ28 > FPGA_Xilinx : XC2S200PQ208](#szkfpgaxilinxxc2s2pq28--fpga_xilinx--xc2s200pq208)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKFPGAXILINXXC2S2PQ28 > FPGA_Xilinx : XC2S200PQ208
 
 - ID: SYMBOL-kicad-kicad-symbols-FPGA_Xilinx-XC2S200PQ208
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKFPGAXILINXXC2S2PQ28](http://oom.lt/SZKFPGAXILINXXC2S2PQ28)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx/XC2S200PQ208/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx/XC2S200PQ208/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx/XC2S200PQ208/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx/XC2S200PQ208/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx/XC2S200PQ208/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx/XC2S200PQ208/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|FPGA_Xilinx : XC2S200PQ208|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> None</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'U'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'XC2S200PQ208'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> ''</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'xilinx/spartan2e/spartan2e.pdf'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'FPGA'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png

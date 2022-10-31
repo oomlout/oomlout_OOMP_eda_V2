@@ -1,8 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [SZKFILSAFFB881MFLFA > Filter : SAFFB881MFL0F0A](#szkfilsaffb881mflfa--filter--saffb881mfl0f0a)
+	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # SZKFILSAFFB881MFLFA > Filter : SAFFB881MFL0F0A
 
 - ID: SYMBOL-kicad-kicad-symbols-Filter-SAFFB881MFL0F0A
@@ -13,7 +19,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/SZKFILSAFFB881MFLFA](http://oom.lt/SZKFILSAFFB881MFLFA)
   
 
-|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Filter/SAFFB881MFL0F0A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Filter/SAFFB881MFL0F0A/image.png)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Filter/SAFFB881MFL0F0A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Filter/SAFFB881MFL0F0A/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Filter/SAFFB881MFL0F0A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Filter/SAFFB881MFL0F0A/image.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -31,3 +37,7 @@ NO IMAGE
 |name|name|Filter : SAFFB881MFL0F0A|
 |Symbol Kicad Details|symbolKicadDetails|[<table><tr><td>'kicadSymbolExtends'</td></tr><tr><td> 'B39162B8813P810'</td><td> 'kicadSymbolReference'</td></tr><tr><td> 'FL'</td><td> 'kicadSymbolValue'</td></tr><tr><td> 'SAFFB881MFL0F0A'</td><td> 'kicadSymbolFootprint'</td></tr><tr><td> 'Filter</td></tr><tr><td>Filter_1109-5_1.1x0.9mm'</td><td> 'kicadSymbolDatasheet'</td></tr><tr><td> 'https</td></tr><tr><td>//www.murata.com/~/media/webrenewal/support/library/catalog/products/filter/rf/p73e.ashx?la=en'</td><td> 'kicadSymbolki_keywords'</td></tr><tr><td> 'SAW filter'</td><td> 'kicadSymbolki_description'</td></tr><tr><td> 'Murata 881.5MHz SAW filter</td><td> SMD 1109'</td><td> 'kicadSymbolki_fp_filters'</td></tr><tr><td> 'Filter*1109*1.1x0.9mm*'</td></tr></table>]|
 ||||
+
+
+
+[im]: image_450.png
