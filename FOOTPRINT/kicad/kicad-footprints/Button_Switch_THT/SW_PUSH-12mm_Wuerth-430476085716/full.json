@@ -63,6 +63,9 @@
         "jsonFull": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_PUSH-12mm_Wuerth-430476085716/full.json"
         ],
+        "kicadFootprint": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_PUSH-12mm_Wuerth-430476085716/footprint.kicad_mod"
+        ],
         "kicadPcb3d": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Button_Switch_THT/SW_PUSH-12mm_Wuerth-430476085716/kicadPcb3d.png"
         ],

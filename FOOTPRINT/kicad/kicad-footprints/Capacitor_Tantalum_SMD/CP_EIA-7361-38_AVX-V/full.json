@@ -63,6 +63,9 @@
         "jsonFull": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_Tantalum_SMD/CP_EIA-7361-38_AVX-V/full.json"
         ],
+        "kicadFootprint": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_Tantalum_SMD/CP_EIA-7361-38_AVX-V/footprint.kicad_mod"
+        ],
         "kicadPcb3d": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_Tantalum_SMD/CP_EIA-7361-38_AVX-V/kicadPcb3d.png"
         ],

@@ -63,6 +63,9 @@
         "jsonFull": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_1210_3225Metric_Pad1.42x2.65mm_HandSolder/full.json"
         ],
+        "kicadFootprint": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_1210_3225Metric_Pad1.42x2.65mm_HandSolder/footprint.kicad_mod"
+        ],
         "kicadPcb3d": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_1210_3225Metric_Pad1.42x2.65mm_HandSolder/kicadPcb3d.png"
         ],

@@ -63,6 +63,9 @@
         "jsonFull": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Dialight_591/full.json"
         ],
+        "kicadFootprint": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Dialight_591/footprint.kicad_mod"
+        ],
         "kicadPcb3d": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Dialight_591/kicadPcb3d.png"
         ],

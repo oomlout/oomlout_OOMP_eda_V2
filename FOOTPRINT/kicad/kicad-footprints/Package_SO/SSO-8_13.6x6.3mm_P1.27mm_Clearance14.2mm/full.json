@@ -63,6 +63,9 @@
         "jsonFull": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/SSO-8_13.6x6.3mm_P1.27mm_Clearance14.2mm/full.json"
         ],
+        "kicadFootprint": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/SSO-8_13.6x6.3mm_P1.27mm_Clearance14.2mm/footprint.kicad_mod"
+        ],
         "kicadPcb3d": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_SO/SSO-8_13.6x6.3mm_P1.27mm_Clearance14.2mm/kicadPcb3d.png"
         ],

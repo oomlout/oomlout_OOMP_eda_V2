@@ -63,6 +63,9 @@
         "jsonFull": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_LGA/Linear_LGA-133_15.0x15.0mm_Layout12x12_P1.27mm/full.json"
         ],
+        "kicadFootprint": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_LGA/Linear_LGA-133_15.0x15.0mm_Layout12x12_P1.27mm/footprint.kicad_mod"
+        ],
         "kicadPcb3d": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_LGA/Linear_LGA-133_15.0x15.0mm_Layout12x12_P1.27mm/kicadPcb3d.png"
         ],

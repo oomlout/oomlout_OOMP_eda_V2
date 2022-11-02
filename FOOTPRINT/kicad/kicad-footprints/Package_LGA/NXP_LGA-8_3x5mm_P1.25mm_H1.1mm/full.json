@@ -63,6 +63,9 @@
         "jsonFull": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_LGA/NXP_LGA-8_3x5mm_P1.25mm_H1.1mm/full.json"
         ],
+        "kicadFootprint": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_LGA/NXP_LGA-8_3x5mm_P1.25mm_H1.1mm/footprint.kicad_mod"
+        ],
         "kicadPcb3d": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_LGA/NXP_LGA-8_3x5mm_P1.25mm_H1.1mm/kicadPcb3d.png"
         ],

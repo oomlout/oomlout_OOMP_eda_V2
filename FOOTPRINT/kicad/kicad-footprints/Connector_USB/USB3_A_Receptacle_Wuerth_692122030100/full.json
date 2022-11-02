@@ -57,6 +57,9 @@
         "jsonFull": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB3_A_Receptacle_Wuerth_692122030100/full.json"
         ],
+        "kicadFootprint": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB3_A_Receptacle_Wuerth_692122030100/footprint.kicad_mod"
+        ],
         "readme": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_USB/USB3_A_Receptacle_Wuerth_692122030100/README.md"
         ]

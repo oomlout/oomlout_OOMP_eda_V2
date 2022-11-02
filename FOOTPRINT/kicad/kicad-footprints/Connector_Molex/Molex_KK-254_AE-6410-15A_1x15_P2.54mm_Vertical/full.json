@@ -63,6 +63,9 @@
         "jsonFull": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_KK-254_AE-6410-15A_1x15_P2.54mm_Vertical/full.json"
         ],
+        "kicadFootprint": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_KK-254_AE-6410-15A_1x15_P2.54mm_Vertical/footprint.kicad_mod"
+        ],
         "kicadPcb3d": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_KK-254_AE-6410-15A_1x15_P2.54mm_Vertical/kicadPcb3d.png"
         ],

@@ -63,6 +63,9 @@
         "jsonFull": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_MicroClasp_55932-0330_1x03_P2.00mm_Vertical/full.json"
         ],
+        "kicadFootprint": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_MicroClasp_55932-0330_1x03_P2.00mm_Vertical/footprint.kicad_mod"
+        ],
         "kicadPcb3d": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_MicroClasp_55932-0330_1x03_P2.00mm_Vertical/kicadPcb3d.png"
         ],

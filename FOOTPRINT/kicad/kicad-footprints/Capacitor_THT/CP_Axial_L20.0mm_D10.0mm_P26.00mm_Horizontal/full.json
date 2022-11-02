@@ -63,6 +63,9 @@
         "jsonFull": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/CP_Axial_L20.0mm_D10.0mm_P26.00mm_Horizontal/full.json"
         ],
+        "kicadFootprint": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/CP_Axial_L20.0mm_D10.0mm_P26.00mm_Horizontal/footprint.kicad_mod"
+        ],
         "kicadPcb3d": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_THT/CP_Axial_L20.0mm_D10.0mm_P26.00mm_Horizontal/kicadPcb3d.png"
         ],

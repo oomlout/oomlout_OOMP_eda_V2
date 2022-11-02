@@ -57,6 +57,9 @@
         "jsonFull": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Motors/Vybronics_VZ30C1T8219732L/full.json"
         ],
+        "kicadFootprint": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Motors/Vybronics_VZ30C1T8219732L/footprint.kicad_mod"
+        ],
         "readme": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Motors/Vybronics_VZ30C1T8219732L/README.md"
         ]

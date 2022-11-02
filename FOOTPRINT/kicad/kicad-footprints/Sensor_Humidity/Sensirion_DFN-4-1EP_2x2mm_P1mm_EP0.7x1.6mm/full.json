@@ -63,6 +63,9 @@
         "jsonFull": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Sensor_Humidity/Sensirion_DFN-4-1EP_2x2mm_P1mm_EP0.7x1.6mm/full.json"
         ],
+        "kicadFootprint": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Sensor_Humidity/Sensirion_DFN-4-1EP_2x2mm_P1mm_EP0.7x1.6mm/footprint.kicad_mod"
+        ],
         "kicadPcb3d": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Sensor_Humidity/Sensirion_DFN-4-1EP_2x2mm_P1mm_EP0.7x1.6mm/kicadPcb3d.png"
         ],

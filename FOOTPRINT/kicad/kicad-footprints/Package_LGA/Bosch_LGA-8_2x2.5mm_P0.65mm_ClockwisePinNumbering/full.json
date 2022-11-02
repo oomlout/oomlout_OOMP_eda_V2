@@ -63,6 +63,9 @@
         "jsonFull": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_LGA/Bosch_LGA-8_2x2.5mm_P0.65mm_ClockwisePinNumbering/full.json"
         ],
+        "kicadFootprint": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_LGA/Bosch_LGA-8_2x2.5mm_P0.65mm_ClockwisePinNumbering/footprint.kicad_mod"
+        ],
         "kicadPcb3d": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_LGA/Bosch_LGA-8_2x2.5mm_P0.65mm_ClockwisePinNumbering/kicadPcb3d.png"
         ],

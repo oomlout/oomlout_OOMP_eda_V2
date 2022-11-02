@@ -63,6 +63,9 @@
         "jsonFull": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_LGA/ST_HLGA-10_2.5x2.5mm_P0.6mm_LayoutBorder3x2y/full.json"
         ],
+        "kicadFootprint": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_LGA/ST_HLGA-10_2.5x2.5mm_P0.6mm_LayoutBorder3x2y/footprint.kicad_mod"
+        ],
         "kicadPcb3d": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_LGA/ST_HLGA-10_2.5x2.5mm_P0.6mm_LayoutBorder3x2y/kicadPcb3d.png"
         ],

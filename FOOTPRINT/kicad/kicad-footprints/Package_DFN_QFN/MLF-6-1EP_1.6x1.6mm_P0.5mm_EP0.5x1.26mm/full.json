@@ -63,6 +63,9 @@
         "jsonFull": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/MLF-6-1EP_1.6x1.6mm_P0.5mm_EP0.5x1.26mm/full.json"
         ],
+        "kicadFootprint": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/MLF-6-1EP_1.6x1.6mm_P0.5mm_EP0.5x1.26mm/footprint.kicad_mod"
+        ],
         "kicadPcb3d": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/MLF-6-1EP_1.6x1.6mm_P0.5mm_EP0.5x1.26mm/kicadPcb3d.png"
         ],

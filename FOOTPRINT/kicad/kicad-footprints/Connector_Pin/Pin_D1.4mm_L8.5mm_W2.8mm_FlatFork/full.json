@@ -63,6 +63,9 @@
         "jsonFull": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Pin/Pin_D1.4mm_L8.5mm_W2.8mm_FlatFork/full.json"
         ],
+        "kicadFootprint": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Pin/Pin_D1.4mm_L8.5mm_W2.8mm_FlatFork/footprint.kicad_mod"
+        ],
         "kicadPcb3d": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Pin/Pin_D1.4mm_L8.5mm_W2.8mm_FlatFork/kicadPcb3d.png"
         ],

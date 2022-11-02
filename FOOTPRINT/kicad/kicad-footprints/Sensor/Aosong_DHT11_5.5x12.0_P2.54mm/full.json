@@ -63,6 +63,9 @@
         "jsonFull": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Sensor/Aosong_DHT11_5.5x12.0_P2.54mm/full.json"
         ],
+        "kicadFootprint": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Sensor/Aosong_DHT11_5.5x12.0_P2.54mm/footprint.kicad_mod"
+        ],
         "kicadPcb3d": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Sensor/Aosong_DHT11_5.5x12.0_P2.54mm/kicadPcb3d.png"
         ],

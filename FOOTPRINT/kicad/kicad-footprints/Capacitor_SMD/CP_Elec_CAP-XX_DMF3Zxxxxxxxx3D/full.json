@@ -57,6 +57,9 @@
         "jsonFull": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/CP_Elec_CAP-XX_DMF3Zxxxxxxxx3D/full.json"
         ],
+        "kicadFootprint": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/CP_Elec_CAP-XX_DMF3Zxxxxxxxx3D/footprint.kicad_mod"
+        ],
         "readme": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/CP_Elec_CAP-XX_DMF3Zxxxxxxxx3D/README.md"
         ]

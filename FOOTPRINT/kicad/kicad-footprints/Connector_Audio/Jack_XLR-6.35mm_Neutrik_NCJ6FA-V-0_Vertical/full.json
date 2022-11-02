@@ -63,6 +63,9 @@
         "jsonFull": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_XLR-6.35mm_Neutrik_NCJ6FA-V-0_Vertical/full.json"
         ],
+        "kicadFootprint": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_XLR-6.35mm_Neutrik_NCJ6FA-V-0_Vertical/footprint.kicad_mod"
+        ],
         "kicadPcb3d": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Audio/Jack_XLR-6.35mm_Neutrik_NCJ6FA-V-0_Vertical/kicadPcb3d.png"
         ],

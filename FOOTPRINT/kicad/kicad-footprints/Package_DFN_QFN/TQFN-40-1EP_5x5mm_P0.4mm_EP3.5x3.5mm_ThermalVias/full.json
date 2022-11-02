@@ -63,6 +63,9 @@
         "jsonFull": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/TQFN-40-1EP_5x5mm_P0.4mm_EP3.5x3.5mm_ThermalVias/full.json"
         ],
+        "kicadFootprint": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/TQFN-40-1EP_5x5mm_P0.4mm_EP3.5x3.5mm_ThermalVias/footprint.kicad_mod"
+        ],
         "kicadPcb3d": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/TQFN-40-1EP_5x5mm_P0.4mm_EP3.5x3.5mm_ThermalVias/kicadPcb3d.png"
         ],

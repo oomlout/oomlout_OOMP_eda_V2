@@ -63,6 +63,9 @@
         "jsonFull": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Bare_Metal_Element_L12.4mm_W4.8mm_P11.40mm/full.json"
         ],
+        "kicadFootprint": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Bare_Metal_Element_L12.4mm_W4.8mm_P11.40mm/footprint.kicad_mod"
+        ],
         "kicadPcb3d": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_THT/R_Bare_Metal_Element_L12.4mm_W4.8mm_P11.40mm/kicadPcb3d.png"
         ],

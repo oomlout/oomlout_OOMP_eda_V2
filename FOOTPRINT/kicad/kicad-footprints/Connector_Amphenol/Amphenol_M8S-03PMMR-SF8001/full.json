@@ -63,6 +63,9 @@
         "jsonFull": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Amphenol/Amphenol_M8S-03PMMR-SF8001/full.json"
         ],
+        "kicadFootprint": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Amphenol/Amphenol_M8S-03PMMR-SF8001/footprint.kicad_mod"
+        ],
         "kicadPcb3d": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Amphenol/Amphenol_M8S-03PMMR-SF8001/kicadPcb3d.png"
         ],

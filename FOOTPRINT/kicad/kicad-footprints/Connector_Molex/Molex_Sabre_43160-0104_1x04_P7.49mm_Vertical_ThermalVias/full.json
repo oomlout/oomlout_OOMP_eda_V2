@@ -63,6 +63,9 @@
         "jsonFull": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Sabre_43160-0104_1x04_P7.49mm_Vertical_ThermalVias/full.json"
         ],
+        "kicadFootprint": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Sabre_43160-0104_1x04_P7.49mm_Vertical_ThermalVias/footprint.kicad_mod"
+        ],
         "kicadPcb3d": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Molex/Molex_Sabre_43160-0104_1x04_P7.49mm_Vertical_ThermalVias/kicadPcb3d.png"
         ],
