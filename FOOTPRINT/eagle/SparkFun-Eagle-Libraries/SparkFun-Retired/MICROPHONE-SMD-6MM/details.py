@@ -1,0 +1,27 @@
+
+######  Auto translated oomp file
+
+def load(newPart,it):
+    oType = "FOOTPRINT"
+    oSize = "eagle"
+    oColor = "SparkFun-Eagle-Libraries"
+    oDesc = "SparkFun-Retired"
+    oIndex = "MICROPHONE-SMD-6MM"
+    hexID = "FZSRTMPHONESM6"
+
+    newPart['oompType'].append(oType)
+    newPart['oompSize'].append(oSize)
+    newPart['oompColor'].append(oColor)
+    newPart['oompDesc'].append(oDesc)
+    newPart['oompIndex'].append(oIndex)
+    oompID = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
+    newPart['oompID'].append(oompID)
+
+    newPart['name'].append('SparkFun-Retired : MICROPHONE-SMD-6MM')
+
+
+    ######  Common
+    newPart['hexID'].append(hexID)
+
+    return newPart
+
