@@ -1,0 +1,50 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintEagle": [],
+    "footprintEagleDetails": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZEVS1K625"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "matchSpecial": [],
+    "name": [
+        "varistor : S10K625"
+    ],
+    "oompColor": [
+        "eagle-default"
+    ],
+    "oompDesc": [
+        "varistor"
+    ],
+    "oompID": [
+        "FOOTPRINT-eagle-eagle-default-varistor-S10K625"
+    ],
+    "oompIndex": [
+        "S10K625"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "eagle"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolEagle": [],
+    "symbolEagleDetails": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

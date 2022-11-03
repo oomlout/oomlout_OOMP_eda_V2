@@ -1,0 +1,50 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintEagle": [],
+    "footprintEagleDetails": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZESMSPECIALSMS5"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "matchSpecial": [],
+    "name": [
+        "smd-special : SMS-005"
+    ],
+    "oompColor": [
+        "eagle-default"
+    ],
+    "oompDesc": [
+        "smd-special"
+    ],
+    "oompID": [
+        "FOOTPRINT-eagle-eagle-default-smd-special-SMS-005"
+    ],
+    "oompIndex": [
+        "SMS-005"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "eagle"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolEagle": [],
+    "symbolEagleDetails": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

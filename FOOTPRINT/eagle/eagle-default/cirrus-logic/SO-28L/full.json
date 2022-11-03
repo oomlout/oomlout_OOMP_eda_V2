@@ -1,0 +1,67 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintEagle": [],
+    "footprintEagleDetails": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZECIRRUSLOGICSO28L"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "matchSpecial": [],
+    "name": [
+        "cirrus-logic : SO-28L"
+    ],
+    "oompColor": [
+        "eagle-default"
+    ],
+    "oompDesc": [
+        "cirrus-logic"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/cirrus-logic/SO-28L/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/cirrus-logic/SO-28L/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/cirrus-logic/SO-28L/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/cirrus-logic/SO-28L/details.py"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/cirrus-logic/SO-28L/basic.json"
+        ]
+    },
+    "oompID": [
+        "FOOTPRINT-eagle-eagle-default-cirrus-logic-SO-28L"
+    ],
+    "oompIndex": [
+        "SO-28L"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "eagle"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolEagle": [],
+    "symbolEagleDetails": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

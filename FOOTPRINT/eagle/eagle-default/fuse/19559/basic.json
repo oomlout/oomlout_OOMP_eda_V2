@@ -1,0 +1,50 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintEagle": [],
+    "footprintEagleDetails": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZEFU19559"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "matchSpecial": [],
+    "name": [
+        "fuse : 19559"
+    ],
+    "oompColor": [
+        "eagle-default"
+    ],
+    "oompDesc": [
+        "fuse"
+    ],
+    "oompID": [
+        "FOOTPRINT-eagle-eagle-default-fuse-19559"
+    ],
+    "oompIndex": [
+        "19559"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "eagle"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolEagle": [],
+    "symbolEagleDetails": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

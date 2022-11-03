@@ -1,0 +1,67 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintEagle": [],
+    "footprintEagleDetails": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZEZETEXSO2W"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "matchSpecial": [],
+    "name": [
+        "zetex : SO20W"
+    ],
+    "oompColor": [
+        "eagle-default"
+    ],
+    "oompDesc": [
+        "zetex"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/zetex/SO20W/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/zetex/SO20W/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/zetex/SO20W/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/zetex/SO20W/details.py"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/eagle/eagle-default/zetex/SO20W/basic.json"
+        ]
+    },
+    "oompID": [
+        "FOOTPRINT-eagle-eagle-default-zetex-SO20W"
+    ],
+    "oompIndex": [
+        "SO20W"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "eagle"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolEagle": [],
+    "symbolEagleDetails": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

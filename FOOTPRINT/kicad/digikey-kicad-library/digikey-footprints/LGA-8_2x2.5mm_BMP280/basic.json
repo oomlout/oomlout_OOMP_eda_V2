@@ -27,6 +27,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "digikey-footprints : LGA-8_2x2.5mm_BMP280"
     ],

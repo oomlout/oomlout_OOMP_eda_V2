@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Inductor_SMD : L_2512_6332Metric"
     ],

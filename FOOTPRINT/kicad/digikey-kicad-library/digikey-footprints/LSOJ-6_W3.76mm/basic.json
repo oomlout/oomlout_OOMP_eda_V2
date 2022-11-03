@@ -28,6 +28,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "digikey-footprints : LSOJ-6_W3.76mm"
     ],

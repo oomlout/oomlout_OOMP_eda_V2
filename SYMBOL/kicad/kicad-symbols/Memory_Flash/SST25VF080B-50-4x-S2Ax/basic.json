@@ -17,6 +17,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Memory_Flash : SST25VF080B-50-4x-S2Ax"
     ],

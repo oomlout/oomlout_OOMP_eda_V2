@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Connector_Phoenix_MC : PhoenixContact_MCV_1,5_2-G-3.81_1x02_P3.81mm_Vertical"
     ],
@@ -62,6 +63,9 @@
         ],
         "jsonFull": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MC/PhoenixContact_MCV_1,5_2-G-3.81_1x02_P3.81mm_Vertical/full.json"
+        ],
+        "kicadFootprint": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MC/PhoenixContact_MCV_1,5_2-G-3.81_1x02_P3.81mm_Vertical/footprint.kicad_mod"
         ],
         "kicadPcb3d": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Phoenix_MC/PhoenixContact_MCV_1,5_2-G-3.81_1x02_P3.81mm_Vertical/kicadPcb3d.png"

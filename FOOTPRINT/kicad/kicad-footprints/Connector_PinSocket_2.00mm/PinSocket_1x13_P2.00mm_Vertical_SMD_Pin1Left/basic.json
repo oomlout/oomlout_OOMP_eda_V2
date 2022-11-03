@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Connector_PinSocket_2.00mm : PinSocket_1x13_P2.00mm_Vertical_SMD_Pin1Left"
     ],

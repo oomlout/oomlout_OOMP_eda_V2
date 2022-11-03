@@ -17,6 +17,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "MCU_STC : STC15W203S-35x-SOP16"
     ],

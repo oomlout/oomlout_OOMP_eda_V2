@@ -17,6 +17,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Interface_Ethernet : ENC424J600-PT"
     ],

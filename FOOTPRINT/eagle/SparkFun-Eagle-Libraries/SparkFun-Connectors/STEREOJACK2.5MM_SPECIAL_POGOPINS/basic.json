@@ -1,0 +1,50 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintEagle": [],
+    "footprintEagleDetails": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZSSPARKFUNCNSSTEREOJ25SPECIALPPS"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "matchSpecial": [],
+    "name": [
+        "SparkFun-Connectors : STEREOJACK2.5MM_SPECIAL_POGOPINS"
+    ],
+    "oompColor": [
+        "SparkFun-Eagle-Libraries"
+    ],
+    "oompDesc": [
+        "SparkFun-Connectors"
+    ],
+    "oompID": [
+        "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Connectors-STEREOJACK2.5MM_SPECIAL_POGOPINS"
+    ],
+    "oompIndex": [
+        "STEREOJACK2.5MM_SPECIAL_POGOPINS"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "eagle"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolEagle": [],
+    "symbolEagleDetails": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

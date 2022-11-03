@@ -1,0 +1,50 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintEagle": [],
+    "footprintEagleDetails": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "FZSASRTBASICL"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "matchSpecial": [],
+    "name": [
+        "SparkFun-Aesthetics : SMART_BASIC_LOGO"
+    ],
+    "oompColor": [
+        "SparkFun-Eagle-Libraries"
+    ],
+    "oompDesc": [
+        "SparkFun-Aesthetics"
+    ],
+    "oompID": [
+        "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-SMART_BASIC_LOGO"
+    ],
+    "oompIndex": [
+        "SMART_BASIC_LOGO"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "eagle"
+    ],
+    "oompType": [
+        "FOOTPRINT"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolEagle": [],
+    "symbolEagleDetails": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

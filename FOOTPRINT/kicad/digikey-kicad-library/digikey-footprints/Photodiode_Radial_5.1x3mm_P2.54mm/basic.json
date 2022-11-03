@@ -28,6 +28,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "digikey-footprints : Photodiode_Radial_5.1x3mm_P2.54mm"
     ],

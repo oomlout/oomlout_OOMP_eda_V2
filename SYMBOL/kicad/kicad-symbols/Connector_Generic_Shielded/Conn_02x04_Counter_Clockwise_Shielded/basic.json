@@ -17,6 +17,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Connector_Generic_Shielded : Conn_02x04_Counter_Clockwise_Shielded"
     ],

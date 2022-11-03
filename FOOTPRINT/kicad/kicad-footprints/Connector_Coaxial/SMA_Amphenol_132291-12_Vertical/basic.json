@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Connector_Coaxial : SMA_Amphenol_132291-12_Vertical"
     ],

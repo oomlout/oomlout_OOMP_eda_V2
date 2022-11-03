@@ -28,6 +28,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "TestPoint : TestPoint_Plated_Hole_D3.0mm"
     ],

@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "LED_SMD : LED_1206_3216Metric_ReverseMount_Hole1.8x2.4mm"
     ],

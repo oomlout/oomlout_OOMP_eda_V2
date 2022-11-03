@@ -28,6 +28,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "digikey-footprints : Trimpot_3.8mmx3.6mm_TC33X-2-103E"
     ],

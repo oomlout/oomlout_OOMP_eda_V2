@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "RF : Skyworks_SKY13575_639LF"
     ],
@@ -62,6 +63,9 @@
         ],
         "jsonFull": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/RF/Skyworks_SKY13575_639LF/full.json"
+        ],
+        "kicadFootprint": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/RF/Skyworks_SKY13575_639LF/footprint.kicad_mod"
         ],
         "kicadPcb3d": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/RF/Skyworks_SKY13575_639LF/kicadPcb3d.png"

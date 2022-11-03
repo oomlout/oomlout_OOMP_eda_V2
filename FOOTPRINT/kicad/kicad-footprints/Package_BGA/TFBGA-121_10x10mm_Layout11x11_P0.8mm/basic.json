@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Package_BGA : TFBGA-121_10x10mm_Layout11x11_P0.8mm"
     ],

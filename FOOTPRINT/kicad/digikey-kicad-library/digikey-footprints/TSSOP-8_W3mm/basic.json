@@ -28,6 +28,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "digikey-footprints : TSSOP-8_W3mm"
     ],

@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Package_DFN_QFN : Microsemi_QFN-40-32-2EP_6x8mm_P0.5mm"
     ],

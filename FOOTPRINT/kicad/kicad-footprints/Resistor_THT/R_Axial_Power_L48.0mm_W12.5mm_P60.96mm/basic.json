@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Resistor_THT : R_Axial_Power_L48.0mm_W12.5mm_P60.96mm"
     ],

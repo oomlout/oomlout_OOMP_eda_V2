@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Connector_Wire : SolderWire-0.75sqmm_1x05_P7mm_D1.25mm_OD3.5mm"
     ],

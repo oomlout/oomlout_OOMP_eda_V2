@@ -27,6 +27,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "digikey-footprints : Piezo_9x9mm_PKMCS0909E4000-R1"
     ],

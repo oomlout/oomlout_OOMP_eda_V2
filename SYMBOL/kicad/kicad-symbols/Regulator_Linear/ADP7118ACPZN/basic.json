@@ -1,0 +1,63 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintEagle": [],
+    "footprintEagleDetails": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SZKREGULATORLINEARADP7118ACPZN"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "matchSpecial": [],
+    "name": [
+        "Regulator_Linear : ADP7118ACPZN"
+    ],
+    "oompColor": [
+        "kicad-symbols"
+    ],
+    "oompDesc": [
+        "Regulator_Linear"
+    ],
+    "oompID": [
+        "SYMBOL-kicad-kicad-symbols-Regulator_Linear-ADP7118ACPZN"
+    ],
+    "oompIndex": [
+        "ADP7118ACPZN"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "kicad"
+    ],
+    "oompType": [
+        "SYMBOL"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolEagle": [],
+    "symbolEagleDetails": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": [
+        [
+            {
+                "kicadSymbolDatasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/ADP7142.pdf",
+                "kicadSymbolExtends": null,
+                "kicadSymbolFootprint": "Package_CSP:LFCSP-6-1EP_2x2mm_P0.65mm_EP1x1.6mm",
+                "kicadSymbolReference": "U",
+                "kicadSymbolValue": "ADP7118ACPZN",
+                "kicadSymbolki_description": "200mA, Low Noise, CMOS Low Dropout Regulator, Positive, Adjustable, LFCSP-6",
+                "kicadSymbolki_fp_filters": "LFCSP*1EP*2x2mm*P0.65mm*",
+                "kicadSymbolki_keywords": "linear regulator ldo adjustable positive"
+            }
+        ]
+    ]
+}

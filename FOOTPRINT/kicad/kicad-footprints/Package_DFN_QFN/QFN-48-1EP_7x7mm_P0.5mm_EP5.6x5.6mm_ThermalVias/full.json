@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Package_DFN_QFN : QFN-48-1EP_7x7mm_P0.5mm_EP5.6x5.6mm_ThermalVias"
     ],

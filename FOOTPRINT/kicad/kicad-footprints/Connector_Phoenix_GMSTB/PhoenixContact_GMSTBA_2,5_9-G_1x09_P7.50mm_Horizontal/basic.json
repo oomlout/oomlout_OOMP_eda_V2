@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Connector_Phoenix_GMSTB : PhoenixContact_GMSTBA_2,5_9-G_1x09_P7.50mm_Horizontal"
     ],

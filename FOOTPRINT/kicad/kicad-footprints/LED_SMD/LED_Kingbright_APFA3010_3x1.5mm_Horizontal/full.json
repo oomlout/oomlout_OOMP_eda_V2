@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "LED_SMD : LED_Kingbright_APFA3010_3x1.5mm_Horizontal"
     ],

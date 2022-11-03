@@ -27,6 +27,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "digikey-footprints : PinHeader_1x3_P2.54_Drill1.1mm"
     ],

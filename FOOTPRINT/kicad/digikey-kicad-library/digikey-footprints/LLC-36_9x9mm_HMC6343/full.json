@@ -27,6 +27,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "digikey-footprints : LLC-36_9x9mm_HMC6343"
     ],
@@ -60,6 +61,9 @@
         ],
         "jsonFull": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/LLC-36_9x9mm_HMC6343/full.json"
+        ],
+        "kicadFootprint": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/LLC-36_9x9mm_HMC6343/footprint.kicad_mod"
         ],
         "kicadPcb3d": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/digikey-kicad-library/digikey-footprints/LLC-36_9x9mm_HMC6343/kicadPcb3d.png"

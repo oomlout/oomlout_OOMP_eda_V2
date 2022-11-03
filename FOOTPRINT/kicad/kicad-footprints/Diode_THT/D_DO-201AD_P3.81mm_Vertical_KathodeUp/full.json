@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Diode_THT : D_DO-201AD_P3.81mm_Vertical_KathodeUp"
     ],

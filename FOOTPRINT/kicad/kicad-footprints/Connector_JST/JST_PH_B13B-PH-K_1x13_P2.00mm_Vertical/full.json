@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Connector_JST : JST_PH_B13B-PH-K_1x13_P2.00mm_Vertical"
     ],

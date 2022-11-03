@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Battery : Battery_Panasonic_CR2025-V1AK_Vertical_CircularHoles"
     ],

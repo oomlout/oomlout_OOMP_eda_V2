@@ -27,6 +27,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "digikey-footprints : Cellular_Modem_NL-SW-EVDO-V"
     ],

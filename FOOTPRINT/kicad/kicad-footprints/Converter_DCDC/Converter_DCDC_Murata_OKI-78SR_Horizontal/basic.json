@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Converter_DCDC : Converter_DCDC_Murata_OKI-78SR_Horizontal"
     ],

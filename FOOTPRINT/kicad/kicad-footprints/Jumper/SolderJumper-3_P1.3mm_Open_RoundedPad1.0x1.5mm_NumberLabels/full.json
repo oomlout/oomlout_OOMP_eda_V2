@@ -28,6 +28,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Jumper : SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm_NumberLabels"
     ],
@@ -61,6 +62,9 @@
         ],
         "jsonFull": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Jumper/SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm_NumberLabels/full.json"
+        ],
+        "kicadFootprint": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Jumper/SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm_NumberLabels/footprint.kicad_mod"
         ],
         "kicadPcb3d": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Jumper/SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm_NumberLabels/kicadPcb3d.png"

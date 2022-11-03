@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Package_SO : SSOP-8_3.95x5.21x3.27mm_P1.27mm"
     ],

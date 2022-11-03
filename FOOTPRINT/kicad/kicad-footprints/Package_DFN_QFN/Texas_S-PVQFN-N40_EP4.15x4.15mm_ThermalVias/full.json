@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Package_DFN_QFN : Texas_S-PVQFN-N40_EP4.15x4.15mm_ThermalVias"
     ],

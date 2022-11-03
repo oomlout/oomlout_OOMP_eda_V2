@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "TerminalBlock_Altech : Altech_AK300_1x02_P5.00mm_45-Degree"
     ],

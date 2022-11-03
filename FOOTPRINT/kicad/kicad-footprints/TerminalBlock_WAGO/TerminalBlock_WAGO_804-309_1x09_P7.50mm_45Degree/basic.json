@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "TerminalBlock_WAGO : TerminalBlock_WAGO_804-309_1x09_P7.50mm_45Degree"
     ],

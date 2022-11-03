@@ -28,6 +28,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "TestPoint : TestPoint_THTPad_D4.0mm_Drill2.0mm"
     ],

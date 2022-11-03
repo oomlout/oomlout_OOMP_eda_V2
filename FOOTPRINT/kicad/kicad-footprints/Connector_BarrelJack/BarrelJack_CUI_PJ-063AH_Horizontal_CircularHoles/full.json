@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Connector_BarrelJack : BarrelJack_CUI_PJ-063AH_Horizontal_CircularHoles"
     ],

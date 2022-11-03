@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Connector_Wire : SolderWire-1sqmm_1x05_P5.4mm_D1.4mm_OD2.7mm_Relief"
     ],
@@ -62,6 +63,9 @@
         ],
         "jsonFull": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Wire/SolderWire-1sqmm_1x05_P5.4mm_D1.4mm_OD2.7mm_Relief/full.json"
+        ],
+        "kicadFootprint": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Wire/SolderWire-1sqmm_1x05_P5.4mm_D1.4mm_OD2.7mm_Relief/footprint.kicad_mod"
         ],
         "kicadPcb3d": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Wire/SolderWire-1sqmm_1x05_P5.4mm_D1.4mm_OD2.7mm_Relief/kicadPcb3d.png"

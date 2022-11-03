@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Connector_Harwin : Harwin_LTek-Male_04_P2.00mm_Vertical_StrainRelief"
     ],

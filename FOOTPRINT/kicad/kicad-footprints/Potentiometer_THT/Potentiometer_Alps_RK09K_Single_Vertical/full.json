@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Potentiometer_THT : Potentiometer_Alps_RK09K_Single_Vertical"
     ],

@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Oscillator : Oscillator_SMD_Fox_FT5H_5.0x3.2mm"
     ],

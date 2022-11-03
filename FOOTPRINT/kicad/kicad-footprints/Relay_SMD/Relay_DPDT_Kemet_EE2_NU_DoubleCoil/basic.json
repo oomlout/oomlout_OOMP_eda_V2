@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Relay_SMD : Relay_DPDT_Kemet_EE2_NU_DoubleCoil"
     ],

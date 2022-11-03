@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Inductor_THT : L_Axial_L14.0mm_D4.5mm_P15.24mm_Horizontal_Fastron_LACC"
     ],
@@ -62,6 +63,9 @@
         ],
         "jsonFull": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L14.0mm_D4.5mm_P15.24mm_Horizontal_Fastron_LACC/full.json"
+        ],
+        "kicadFootprint": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L14.0mm_D4.5mm_P15.24mm_Horizontal_Fastron_LACC/footprint.kicad_mod"
         ],
         "kicadPcb3d": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L14.0mm_D4.5mm_P15.24mm_Horizontal_Fastron_LACC/kicadPcb3d.png"

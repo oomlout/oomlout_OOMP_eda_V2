@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Connector_Hirose : Hirose_DF11-24DP-2DSA_2x12_P2.00mm_Vertical"
     ],

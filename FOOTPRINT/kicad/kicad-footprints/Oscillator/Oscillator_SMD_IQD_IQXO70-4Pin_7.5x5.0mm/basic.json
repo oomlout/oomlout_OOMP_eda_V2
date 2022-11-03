@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Oscillator : Oscillator_SMD_IQD_IQXO70-4Pin_7.5x5.0mm"
     ],

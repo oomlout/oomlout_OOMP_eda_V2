@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Package_LGA : LGA-16_3x3mm_P0.5mm_LayoutBorder3x5y"
     ],

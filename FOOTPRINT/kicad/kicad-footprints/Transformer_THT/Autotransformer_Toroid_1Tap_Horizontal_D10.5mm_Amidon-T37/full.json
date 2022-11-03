@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Transformer_THT : Autotransformer_Toroid_1Tap_Horizontal_D10.5mm_Amidon-T37"
     ],
@@ -62,6 +63,9 @@
         ],
         "jsonFull": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Transformer_THT/Autotransformer_Toroid_1Tap_Horizontal_D10.5mm_Amidon-T37/full.json"
+        ],
+        "kicadFootprint": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Transformer_THT/Autotransformer_Toroid_1Tap_Horizontal_D10.5mm_Amidon-T37/footprint.kicad_mod"
         ],
         "kicadPcb3d": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Transformer_THT/Autotransformer_Toroid_1Tap_Horizontal_D10.5mm_Amidon-T37/kicadPcb3d.png"

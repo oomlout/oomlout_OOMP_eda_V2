@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Connector_Molex : Molex_Micro-Fit_3.0_43045-0812_2x04_P3.00mm_Vertical"
     ],

@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Capacitor_Tantalum_SMD : CP_EIA-6032-20_AVX-F"
     ],

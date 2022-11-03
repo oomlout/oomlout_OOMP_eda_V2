@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Inductor_THT : Choke_Schaffner_RN218-04-12.5x18.0mm"
     ],

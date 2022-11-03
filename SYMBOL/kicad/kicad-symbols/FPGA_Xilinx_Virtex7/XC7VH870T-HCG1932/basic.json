@@ -17,6 +17,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "FPGA_Xilinx_Virtex7 : XC7VH870T-HCG1932"
     ],

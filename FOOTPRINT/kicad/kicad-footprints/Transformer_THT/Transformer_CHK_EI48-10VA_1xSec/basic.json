@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Transformer_THT : Transformer_CHK_EI48-10VA_1xSec"
     ],

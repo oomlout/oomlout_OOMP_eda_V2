@@ -17,6 +17,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "FPGA_Xilinx_Artix7 : XC7A15T-CSG325"
     ],

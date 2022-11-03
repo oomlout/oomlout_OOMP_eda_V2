@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Connector_Molex : Molex_KK-396_5273-10A_1x10_P3.96mm_Vertical"
     ],

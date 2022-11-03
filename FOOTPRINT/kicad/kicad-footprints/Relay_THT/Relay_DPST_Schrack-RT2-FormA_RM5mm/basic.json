@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Relay_THT : Relay_DPST_Schrack-RT2-FormA_RM5mm"
     ],

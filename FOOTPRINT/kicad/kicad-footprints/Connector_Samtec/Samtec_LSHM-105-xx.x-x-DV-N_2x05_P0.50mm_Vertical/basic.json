@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Connector_Samtec : Samtec_LSHM-105-xx.x-x-DV-N_2x05_P0.50mm_Vertical"
     ],

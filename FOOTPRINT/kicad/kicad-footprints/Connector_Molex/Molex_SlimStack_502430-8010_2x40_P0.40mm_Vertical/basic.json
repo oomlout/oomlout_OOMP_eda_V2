@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Connector_Molex : Molex_SlimStack_502430-8010_2x40_P0.40mm_Vertical"
     ],

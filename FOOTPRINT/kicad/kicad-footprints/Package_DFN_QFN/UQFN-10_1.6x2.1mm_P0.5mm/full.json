@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Package_DFN_QFN : UQFN-10_1.6x2.1mm_P0.5mm"
     ],

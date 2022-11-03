@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "LED_SMD : LED_WS2812B-2020_PLCC4_2.0x2.0mm"
     ],

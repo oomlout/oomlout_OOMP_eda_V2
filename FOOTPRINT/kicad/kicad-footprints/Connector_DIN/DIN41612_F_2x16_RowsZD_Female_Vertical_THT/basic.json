@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Connector_DIN : DIN41612_F_2x16_RowsZD_Female_Vertical_THT"
     ],

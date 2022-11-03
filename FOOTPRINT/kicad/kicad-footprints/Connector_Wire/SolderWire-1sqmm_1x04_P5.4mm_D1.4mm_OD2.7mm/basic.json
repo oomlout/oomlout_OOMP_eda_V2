@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Connector_Wire : SolderWire-1sqmm_1x04_P5.4mm_D1.4mm_OD2.7mm"
     ],

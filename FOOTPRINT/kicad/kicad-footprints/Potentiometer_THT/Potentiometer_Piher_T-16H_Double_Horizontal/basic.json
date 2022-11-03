@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Potentiometer_THT : Potentiometer_Piher_T-16H_Double_Horizontal"
     ],

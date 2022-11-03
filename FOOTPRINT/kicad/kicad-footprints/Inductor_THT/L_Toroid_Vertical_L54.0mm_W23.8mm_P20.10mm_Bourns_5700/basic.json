@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Inductor_THT : L_Toroid_Vertical_L54.0mm_W23.8mm_P20.10mm_Bourns_5700"
     ],

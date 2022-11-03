@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Oscillator : Oscillator_SMD_SiTime_SiT9121-6Pin_3.2x2.5mm"
     ],

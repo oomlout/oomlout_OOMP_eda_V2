@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Buzzer_Beeper : MagneticBuzzer_StarMicronics_HMB-06_HMB-12"
     ],

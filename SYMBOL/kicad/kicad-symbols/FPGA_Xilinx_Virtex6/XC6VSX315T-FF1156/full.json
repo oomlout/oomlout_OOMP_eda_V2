@@ -17,6 +17,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "FPGA_Xilinx_Virtex6 : XC6VSX315T-FF1156"
     ],

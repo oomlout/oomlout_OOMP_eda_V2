@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Connector_BarrelJack : BarrelJack_CUI_PJ-036AH-SMT_Horizontal"
     ],

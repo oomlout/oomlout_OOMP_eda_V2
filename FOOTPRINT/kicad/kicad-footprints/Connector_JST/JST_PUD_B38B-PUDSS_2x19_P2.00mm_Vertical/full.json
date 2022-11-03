@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Connector_JST : JST_PUD_B38B-PUDSS_2x19_P2.00mm_Vertical"
     ],

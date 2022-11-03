@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Connector_JST : JST_VH_B3P-VH-B_1x03_P3.96mm_Vertical"
     ],

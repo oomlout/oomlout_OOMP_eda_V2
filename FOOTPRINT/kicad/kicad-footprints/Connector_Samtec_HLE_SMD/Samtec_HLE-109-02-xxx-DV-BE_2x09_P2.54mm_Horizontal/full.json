@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Connector_Samtec_HLE_SMD : Samtec_HLE-109-02-xxx-DV-BE_2x09_P2.54mm_Horizontal"
     ],
@@ -62,6 +63,9 @@
         ],
         "jsonFull": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Samtec_HLE_SMD/Samtec_HLE-109-02-xxx-DV-BE_2x09_P2.54mm_Horizontal/full.json"
+        ],
+        "kicadFootprint": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Samtec_HLE_SMD/Samtec_HLE-109-02-xxx-DV-BE_2x09_P2.54mm_Horizontal/footprint.kicad_mod"
         ],
         "kicadPcb3d": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Samtec_HLE_SMD/Samtec_HLE-109-02-xxx-DV-BE_2x09_P2.54mm_Horizontal/kicadPcb3d.png"

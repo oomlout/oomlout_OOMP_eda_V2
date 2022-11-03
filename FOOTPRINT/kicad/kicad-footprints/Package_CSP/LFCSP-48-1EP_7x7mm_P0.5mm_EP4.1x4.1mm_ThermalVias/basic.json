@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Package_CSP : LFCSP-48-1EP_7x7mm_P0.5mm_EP4.1x4.1mm_ThermalVias"
     ],

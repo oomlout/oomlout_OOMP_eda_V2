@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Connector_TE-Connectivity : TE_AMPSEAL_1-776087-x_3Rows_23_P0.4mm_Horizontal"
     ],
@@ -62,6 +63,9 @@
         ],
         "jsonFull": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_TE-Connectivity/TE_AMPSEAL_1-776087-x_3Rows_23_P0.4mm_Horizontal/full.json"
+        ],
+        "kicadFootprint": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_TE-Connectivity/TE_AMPSEAL_1-776087-x_3Rows_23_P0.4mm_Horizontal/footprint.kicad_mod"
         ],
         "kicadPcb3d": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_TE-Connectivity/TE_AMPSEAL_1-776087-x_3Rows_23_P0.4mm_Horizontal/kicadPcb3d.png"

@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Varistor : RV_Disc_D15.5mm_W5.4mm_P7.5mm"
     ],

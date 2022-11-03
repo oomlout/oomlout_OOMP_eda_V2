@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Crystal : Crystal_SMD_SeikoEpson_MC306-4Pin_8.0x3.2mm"
     ],

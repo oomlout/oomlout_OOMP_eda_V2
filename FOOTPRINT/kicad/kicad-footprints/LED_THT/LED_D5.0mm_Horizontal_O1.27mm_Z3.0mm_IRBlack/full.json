@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "LED_THT : LED_D5.0mm_Horizontal_O1.27mm_Z3.0mm_IRBlack"
     ],

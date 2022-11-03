@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Package_DFN_QFN : DFN-12-1EP_3x4mm_P0.5mm_EP1.7x3.3mm"
     ],

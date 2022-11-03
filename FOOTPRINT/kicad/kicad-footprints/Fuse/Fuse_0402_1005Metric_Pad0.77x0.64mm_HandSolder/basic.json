@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Fuse : Fuse_0402_1005Metric_Pad0.77x0.64mm_HandSolder"
     ],

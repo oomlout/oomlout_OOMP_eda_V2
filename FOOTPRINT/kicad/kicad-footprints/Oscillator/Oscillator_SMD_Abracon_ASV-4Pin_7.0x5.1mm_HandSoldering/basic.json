@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Oscillator : Oscillator_SMD_Abracon_ASV-4Pin_7.0x5.1mm_HandSoldering"
     ],

@@ -25,6 +25,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Symbol : FCC-Logo_14.6x12mm_SilkScreen"
     ],
@@ -58,6 +59,9 @@
         ],
         "jsonFull": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Symbol/FCC-Logo_14.6x12mm_SilkScreen/full.json"
+        ],
+        "kicadFootprint": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Symbol/FCC-Logo_14.6x12mm_SilkScreen/footprint.kicad_mod"
         ],
         "kicadPcb3d": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Symbol/FCC-Logo_14.6x12mm_SilkScreen/kicadPcb3d.png"

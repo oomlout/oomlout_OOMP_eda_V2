@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Connector_Molex : Molex_Mini-Fit_Sr_43915-xx08_2x04_P10.00mm_Vertical"
     ],

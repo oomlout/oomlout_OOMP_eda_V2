@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Package_BGA : BGA-625_21.0x21.0mm_Layout25x25_P0.8mm"
     ],

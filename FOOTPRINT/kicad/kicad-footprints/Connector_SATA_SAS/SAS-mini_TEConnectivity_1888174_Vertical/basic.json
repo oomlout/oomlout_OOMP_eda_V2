@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Connector_SATA_SAS : SAS-mini_TEConnectivity_1888174_Vertical"
     ],

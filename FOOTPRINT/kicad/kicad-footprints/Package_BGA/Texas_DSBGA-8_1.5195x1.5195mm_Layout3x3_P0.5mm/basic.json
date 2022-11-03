@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Package_BGA : Texas_DSBGA-8_1.5195x1.5195mm_Layout3x3_P0.5mm"
     ],

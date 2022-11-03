@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Resistor_THT : R_Axial_DIN0516_L15.5mm_D5.0mm_P20.32mm_Horizontal"
     ],

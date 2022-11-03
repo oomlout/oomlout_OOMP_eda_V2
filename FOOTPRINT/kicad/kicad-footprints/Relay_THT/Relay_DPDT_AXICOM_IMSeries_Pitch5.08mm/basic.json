@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Relay_THT : Relay_DPDT_AXICOM_IMSeries_Pitch5.08mm"
     ],

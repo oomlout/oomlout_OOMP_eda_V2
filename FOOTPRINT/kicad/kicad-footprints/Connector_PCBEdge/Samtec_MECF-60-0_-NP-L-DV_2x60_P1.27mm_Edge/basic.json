@@ -28,6 +28,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Connector_PCBEdge : Samtec_MECF-60-0_-NP-L-DV_2x60_P1.27mm_Edge"
     ],

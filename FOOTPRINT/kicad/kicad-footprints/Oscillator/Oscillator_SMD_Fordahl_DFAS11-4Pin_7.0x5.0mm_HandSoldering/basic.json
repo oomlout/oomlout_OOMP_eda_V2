@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Oscillator : Oscillator_SMD_Fordahl_DFAS11-4Pin_7.0x5.0mm_HandSoldering"
     ],

@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Rotary_Encoder : RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm_CircularMountingHoles"
     ],

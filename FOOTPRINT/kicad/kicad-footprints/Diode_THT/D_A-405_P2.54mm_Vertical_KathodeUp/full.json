@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Diode_THT : D_A-405_P2.54mm_Vertical_KathodeUp"
     ],

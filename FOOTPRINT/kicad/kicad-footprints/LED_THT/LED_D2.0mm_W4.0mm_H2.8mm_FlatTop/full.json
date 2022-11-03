@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "LED_THT : LED_D2.0mm_W4.0mm_H2.8mm_FlatTop"
     ],

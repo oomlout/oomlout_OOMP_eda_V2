@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Inductor_THT : L_Toroid_Vertical_L35.1mm_W21.1mm_P18.50mm_Vishay_TJ6"
     ],

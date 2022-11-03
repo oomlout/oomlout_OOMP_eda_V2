@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Connector_BarrelJack : BarrelJack_SwitchcraftConxall_RAPC10U_Horizontal"
     ],

@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Connector_BarrelJack : BarrelJack_GCT_DCJ200-10-A_Horizontal"
     ],

@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Transformer_SMD : Transformer_Ethernet_HALO_TG111-MSC13"
     ],

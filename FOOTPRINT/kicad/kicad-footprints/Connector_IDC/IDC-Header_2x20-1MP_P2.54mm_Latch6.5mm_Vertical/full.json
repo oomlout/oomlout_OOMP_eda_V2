@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Connector_IDC : IDC-Header_2x20-1MP_P2.54mm_Latch6.5mm_Vertical"
     ],

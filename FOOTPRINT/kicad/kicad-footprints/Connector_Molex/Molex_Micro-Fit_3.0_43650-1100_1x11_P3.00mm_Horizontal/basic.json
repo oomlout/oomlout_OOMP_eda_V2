@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Connector_Molex : Molex_Micro-Fit_3.0_43650-1100_1x11_P3.00mm_Horizontal"
     ],

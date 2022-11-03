@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Package_BGA : Texas_DSBGA-49_3.33x3.488mm_Layout7x7_P0.4mm"
     ],

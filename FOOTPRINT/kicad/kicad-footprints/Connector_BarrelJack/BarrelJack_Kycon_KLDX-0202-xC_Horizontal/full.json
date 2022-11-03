@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Connector_BarrelJack : BarrelJack_Kycon_KLDX-0202-xC_Horizontal"
     ],

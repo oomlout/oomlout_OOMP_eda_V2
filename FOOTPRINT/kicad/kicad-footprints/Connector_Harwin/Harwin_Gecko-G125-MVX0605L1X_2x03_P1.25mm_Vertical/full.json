@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Connector_Harwin : Harwin_Gecko-G125-MVX0605L1X_2x03_P1.25mm_Vertical"
     ],
@@ -62,6 +63,9 @@
         ],
         "jsonFull": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Harwin/Harwin_Gecko-G125-MVX0605L1X_2x03_P1.25mm_Vertical/full.json"
+        ],
+        "kicadFootprint": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Harwin/Harwin_Gecko-G125-MVX0605L1X_2x03_P1.25mm_Vertical/footprint.kicad_mod"
         ],
         "kicadPcb3d": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_Harwin/Harwin_Gecko-G125-MVX0605L1X_2x03_P1.25mm_Vertical/kicadPcb3d.png"

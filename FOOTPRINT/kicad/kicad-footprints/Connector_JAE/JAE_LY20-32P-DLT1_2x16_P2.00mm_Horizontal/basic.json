@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Connector_JAE : JAE_LY20-32P-DLT1_2x16_P2.00mm_Horizontal"
     ],

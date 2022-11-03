@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Diode_THT : D_DO-27_P5.08mm_Vertical_AnodeUp"
     ],

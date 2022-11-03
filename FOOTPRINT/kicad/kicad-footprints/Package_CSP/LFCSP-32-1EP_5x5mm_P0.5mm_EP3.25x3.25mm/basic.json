@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Package_CSP : LFCSP-32-1EP_5x5mm_P0.5mm_EP3.25x3.25mm"
     ],

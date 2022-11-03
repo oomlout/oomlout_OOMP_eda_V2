@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Transformer_THT : Autotransformer_Toroid_1Tap_Horizontal_D9.0mm_Amidon-T30"
     ],

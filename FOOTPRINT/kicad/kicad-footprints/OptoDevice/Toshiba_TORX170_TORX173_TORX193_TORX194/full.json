@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "OptoDevice : Toshiba_TORX170_TORX173_TORX193_TORX194"
     ],

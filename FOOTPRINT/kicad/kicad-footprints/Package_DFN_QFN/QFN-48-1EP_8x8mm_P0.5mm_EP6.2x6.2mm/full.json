@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Package_DFN_QFN : QFN-48-1EP_8x8mm_P0.5mm_EP6.2x6.2mm"
     ],

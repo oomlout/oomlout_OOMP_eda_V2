@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Connector_JST : JST_VH_B4P-VH-FB-B_1x04_P3.96mm_Vertical"
     ],

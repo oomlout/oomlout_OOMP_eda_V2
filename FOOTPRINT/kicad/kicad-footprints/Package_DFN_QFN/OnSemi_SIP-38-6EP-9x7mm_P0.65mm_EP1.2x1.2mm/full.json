@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Package_DFN_QFN : OnSemi_SIP-38-6EP-9x7mm_P0.65mm_EP1.2x1.2mm"
     ],

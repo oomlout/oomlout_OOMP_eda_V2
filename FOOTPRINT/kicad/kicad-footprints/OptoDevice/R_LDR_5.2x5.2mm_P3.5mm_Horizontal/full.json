@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "OptoDevice : R_LDR_5.2x5.2mm_P3.5mm_Horizontal"
     ],

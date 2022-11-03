@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "TerminalBlock_TE-Connectivity : TerminalBlock_TE_282834-8_1x08_P2.54mm_Horizontal"
     ],

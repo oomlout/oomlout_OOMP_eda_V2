@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Inductor_THT : L_Axial_L24.0mm_D7.1mm_P5.08mm_Vertical_Vishay_IM-10-28"
     ],
@@ -62,6 +63,9 @@
         ],
         "jsonFull": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L24.0mm_D7.1mm_P5.08mm_Vertical_Vishay_IM-10-28/full.json"
+        ],
+        "kicadFootprint": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L24.0mm_D7.1mm_P5.08mm_Vertical_Vishay_IM-10-28/footprint.kicad_mod"
         ],
         "kicadPcb3d": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Inductor_THT/L_Axial_L24.0mm_D7.1mm_P5.08mm_Vertical_Vishay_IM-10-28/kicadPcb3d.png"

@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Connector_Coaxial : SMA_Molex_73251-1153_EdgeMount_Horizontal"
     ],

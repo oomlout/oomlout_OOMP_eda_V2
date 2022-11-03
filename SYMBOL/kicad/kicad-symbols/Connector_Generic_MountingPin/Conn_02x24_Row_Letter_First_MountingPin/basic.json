@@ -17,6 +17,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Connector_Generic_MountingPin : Conn_02x24_Row_Letter_First_MountingPin"
     ],

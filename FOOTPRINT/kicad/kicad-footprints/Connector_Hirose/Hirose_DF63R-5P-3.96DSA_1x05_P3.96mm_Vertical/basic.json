@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Connector_Hirose : Hirose_DF63R-5P-3.96DSA_1x05_P3.96mm_Vertical"
     ],

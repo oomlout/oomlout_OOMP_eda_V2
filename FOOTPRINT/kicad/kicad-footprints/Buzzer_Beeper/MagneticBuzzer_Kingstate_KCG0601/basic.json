@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Buzzer_Beeper : MagneticBuzzer_Kingstate_KCG0601"
     ],

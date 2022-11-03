@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Potentiometer_THT : Potentiometer_Piher_T-16L_Single_Vertical_Hole"
     ],

@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Connector_Audio : Jack_6.35mm_Neutrik_NJ5FD-V_Vertical"
     ],

@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Battery : Battery_Panasonic_CR1632-V1AN_Vertical_CircularHoles"
     ],

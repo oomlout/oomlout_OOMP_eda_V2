@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Potentiometer_THT : Potentiometer_Vishay_148-149_Single_Horizontal"
     ],

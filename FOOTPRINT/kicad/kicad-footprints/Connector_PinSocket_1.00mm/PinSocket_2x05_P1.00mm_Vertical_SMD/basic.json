@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Connector_PinSocket_1.00mm : PinSocket_2x05_P1.00mm_Vertical_SMD"
     ],

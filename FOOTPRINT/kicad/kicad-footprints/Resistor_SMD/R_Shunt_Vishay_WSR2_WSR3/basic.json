@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Resistor_SMD : R_Shunt_Vishay_WSR2_WSR3"
     ],

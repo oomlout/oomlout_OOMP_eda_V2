@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Relay_THT : Relay_SPST_Schrack-RT1-16A-FormA_RM5mm"
     ],

@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Varistor : RV_Rect_V25S440P_L26.5mm_W8.2mm_P12.7mm"
     ],

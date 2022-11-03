@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Capacitor_THT : C_Disc_D5.1mm_W3.2mm_P5.00mm"
     ],

@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Package_DFN_QFN : TDFN-8-1EP_3x2mm_P0.5mm_EP1.4x1.4mm"
     ],

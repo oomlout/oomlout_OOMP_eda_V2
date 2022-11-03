@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Connector_Audio : Jack_3.5mm_CUI_SJ1-3525N_Horizontal"
     ],

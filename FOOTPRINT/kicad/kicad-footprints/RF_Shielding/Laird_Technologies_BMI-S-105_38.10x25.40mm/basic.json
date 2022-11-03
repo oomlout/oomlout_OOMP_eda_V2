@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "RF_Shielding : Laird_Technologies_BMI-S-105_38.10x25.40mm"
     ],

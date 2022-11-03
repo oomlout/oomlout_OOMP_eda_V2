@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Connector_HDMI : HDMI_A_Contact_Technology_HDMI-19APL2_Horizontal"
     ],

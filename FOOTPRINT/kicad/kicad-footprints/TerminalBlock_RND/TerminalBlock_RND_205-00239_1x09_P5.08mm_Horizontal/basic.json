@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "TerminalBlock_RND : TerminalBlock_RND_205-00239_1x09_P5.08mm_Horizontal"
     ],

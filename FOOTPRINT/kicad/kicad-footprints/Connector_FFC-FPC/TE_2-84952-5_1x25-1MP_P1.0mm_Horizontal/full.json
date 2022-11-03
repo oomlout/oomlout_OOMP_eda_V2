@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Connector_FFC-FPC : TE_2-84952-5_1x25-1MP_P1.0mm_Horizontal"
     ],
@@ -62,6 +63,9 @@
         ],
         "jsonFull": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_FFC-FPC/TE_2-84952-5_1x25-1MP_P1.0mm_Horizontal/full.json"
+        ],
+        "kicadFootprint": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_FFC-FPC/TE_2-84952-5_1x25-1MP_P1.0mm_Horizontal/footprint.kicad_mod"
         ],
         "kicadPcb3d": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_FFC-FPC/TE_2-84952-5_1x25-1MP_P1.0mm_Horizontal/kicadPcb3d.png"

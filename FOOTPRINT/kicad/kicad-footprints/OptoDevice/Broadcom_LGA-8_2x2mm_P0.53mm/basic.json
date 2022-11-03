@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "OptoDevice : Broadcom_LGA-8_2x2mm_P0.53mm"
     ],

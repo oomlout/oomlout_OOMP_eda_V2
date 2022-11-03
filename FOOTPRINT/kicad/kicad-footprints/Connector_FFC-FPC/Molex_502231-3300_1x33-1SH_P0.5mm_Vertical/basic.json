@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Connector_FFC-FPC : Molex_502231-3300_1x33-1SH_P0.5mm_Vertical"
     ],

@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Connector_Harwin : Harwin_M20-89018xx_1x18_P2.54mm_Horizontal"
     ],

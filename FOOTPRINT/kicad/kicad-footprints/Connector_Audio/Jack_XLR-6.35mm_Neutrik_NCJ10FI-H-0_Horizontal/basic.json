@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Connector_Audio : Jack_XLR-6.35mm_Neutrik_NCJ10FI-H-0_Horizontal"
     ],

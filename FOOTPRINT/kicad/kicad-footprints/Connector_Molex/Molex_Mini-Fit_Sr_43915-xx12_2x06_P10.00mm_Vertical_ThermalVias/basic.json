@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Connector_Molex : Molex_Mini-Fit_Sr_43915-xx12_2x06_P10.00mm_Vertical_ThermalVias"
     ],

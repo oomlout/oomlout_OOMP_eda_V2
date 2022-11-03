@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Connector_RJ : RJ45_Kycon_G7LX-A88S7-BP-xx_Horizontal"
     ],

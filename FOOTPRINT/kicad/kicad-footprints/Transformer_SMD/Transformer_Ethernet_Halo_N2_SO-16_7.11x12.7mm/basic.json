@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Transformer_SMD : Transformer_Ethernet_Halo_N2_SO-16_7.11x12.7mm"
     ],

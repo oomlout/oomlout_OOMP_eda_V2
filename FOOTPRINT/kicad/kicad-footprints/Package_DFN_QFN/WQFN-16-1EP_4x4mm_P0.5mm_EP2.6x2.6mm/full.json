@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Package_DFN_QFN : WQFN-16-1EP_4x4mm_P0.5mm_EP2.6x2.6mm"
     ],

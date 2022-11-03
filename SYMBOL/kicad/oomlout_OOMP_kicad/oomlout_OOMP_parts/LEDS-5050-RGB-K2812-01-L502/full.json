@@ -17,6 +17,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "oomlout_OOMP_parts : LEDS-5050-RGB-K2812-01-L502"
     ],

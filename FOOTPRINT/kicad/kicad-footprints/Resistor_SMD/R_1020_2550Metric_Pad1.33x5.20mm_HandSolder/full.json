@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Resistor_SMD : R_1020_2550Metric_Pad1.33x5.20mm_HandSolder"
     ],

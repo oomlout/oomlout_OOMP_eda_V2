@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Connector_Audio : Jack_XLR_Neutrik_NC5MBV-SW_Vertical"
     ],

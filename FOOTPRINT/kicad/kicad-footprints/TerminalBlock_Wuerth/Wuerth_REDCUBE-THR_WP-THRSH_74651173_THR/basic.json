@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "TerminalBlock_Wuerth : Wuerth_REDCUBE-THR_WP-THRSH_74651173_THR"
     ],

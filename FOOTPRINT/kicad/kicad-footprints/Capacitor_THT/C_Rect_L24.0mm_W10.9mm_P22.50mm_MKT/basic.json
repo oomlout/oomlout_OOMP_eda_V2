@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Capacitor_THT : C_Rect_L24.0mm_W10.9mm_P22.50mm_MKT"
     ],

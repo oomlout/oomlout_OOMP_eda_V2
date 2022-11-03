@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Connector_JST : JST_JWPF_B02B-JWPF-SK-R_1x02_P2.00mm_Vertical"
     ],

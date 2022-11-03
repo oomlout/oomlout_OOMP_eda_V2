@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Capacitor_SMD : C_2220_5650Metric_Pad1.97x5.40mm_HandSolder"
     ],

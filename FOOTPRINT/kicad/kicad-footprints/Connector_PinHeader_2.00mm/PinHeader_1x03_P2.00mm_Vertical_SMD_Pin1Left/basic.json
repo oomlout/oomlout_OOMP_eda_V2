@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Connector_PinHeader_2.00mm : PinHeader_1x03_P2.00mm_Vertical_SMD_Pin1Left"
     ],

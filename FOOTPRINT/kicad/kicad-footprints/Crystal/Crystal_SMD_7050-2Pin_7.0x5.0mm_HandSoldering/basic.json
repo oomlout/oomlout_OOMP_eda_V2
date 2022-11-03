@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Crystal : Crystal_SMD_7050-2Pin_7.0x5.0mm_HandSoldering"
     ],

@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Potentiometer_THT : Potentiometer_ACP_CA9-V10_Vertical_Hole"
     ],

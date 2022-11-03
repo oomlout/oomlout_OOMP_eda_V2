@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Connector_Hirose : Hirose_DF3EA-13P-2H_1x13-1MP_P2.00mm_Horizontal"
     ],

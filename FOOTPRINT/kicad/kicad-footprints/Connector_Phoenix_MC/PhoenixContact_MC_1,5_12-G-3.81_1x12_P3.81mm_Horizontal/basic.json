@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Connector_Phoenix_MC : PhoenixContact_MC_1,5_12-G-3.81_1x12_P3.81mm_Horizontal"
     ],

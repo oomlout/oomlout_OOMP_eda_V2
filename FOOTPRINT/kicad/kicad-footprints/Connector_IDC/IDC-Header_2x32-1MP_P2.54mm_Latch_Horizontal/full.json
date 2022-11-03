@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Connector_IDC : IDC-Header_2x32-1MP_P2.54mm_Latch_Horizontal"
     ],

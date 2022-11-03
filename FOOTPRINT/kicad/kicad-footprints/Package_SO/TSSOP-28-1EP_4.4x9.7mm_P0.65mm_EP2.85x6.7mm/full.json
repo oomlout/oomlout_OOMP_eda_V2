@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Package_SO : TSSOP-28-1EP_4.4x9.7mm_P0.65mm_EP2.85x6.7mm"
     ],

@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Connector_Molex : Molex_CLIK-Mate_502386-0770_1x07-1MP_P1.25mm_Horizontal"
     ],

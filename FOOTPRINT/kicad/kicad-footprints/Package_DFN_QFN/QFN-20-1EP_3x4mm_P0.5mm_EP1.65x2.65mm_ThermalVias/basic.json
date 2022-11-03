@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Package_DFN_QFN : QFN-20-1EP_3x4mm_P0.5mm_EP1.65x2.65mm_ThermalVias"
     ],

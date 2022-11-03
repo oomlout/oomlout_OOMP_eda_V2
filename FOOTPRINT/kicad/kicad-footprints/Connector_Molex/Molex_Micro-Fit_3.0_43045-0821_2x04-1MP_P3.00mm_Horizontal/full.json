@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Connector_Molex : Molex_Micro-Fit_3.0_43045-0821_2x04-1MP_P3.00mm_Horizontal"
     ],

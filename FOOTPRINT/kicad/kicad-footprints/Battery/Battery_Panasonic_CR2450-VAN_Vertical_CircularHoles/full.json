@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Battery : Battery_Panasonic_CR2450-VAN_Vertical_CircularHoles"
     ],

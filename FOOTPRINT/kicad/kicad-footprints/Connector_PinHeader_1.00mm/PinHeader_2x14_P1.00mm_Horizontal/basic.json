@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Connector_PinHeader_1.00mm : PinHeader_2x14_P1.00mm_Horizontal"
     ],

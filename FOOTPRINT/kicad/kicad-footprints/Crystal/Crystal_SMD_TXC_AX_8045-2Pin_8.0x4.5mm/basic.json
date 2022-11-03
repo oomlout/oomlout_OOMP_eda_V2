@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Crystal : Crystal_SMD_TXC_AX_8045-2Pin_8.0x4.5mm"
     ],

@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Package_BGA : VFBGA-100_7.0x7.0mm_Layout10x10_P0.65mm"
     ],

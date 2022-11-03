@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Connector_Wire : SolderWire-0.25sqmm_1x03_P4.5mm_D0.65mm_OD2mm_Relief"
     ],

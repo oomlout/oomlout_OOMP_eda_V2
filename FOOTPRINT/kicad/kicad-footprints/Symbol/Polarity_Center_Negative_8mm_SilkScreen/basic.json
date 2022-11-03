@@ -25,6 +25,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Symbol : Polarity_Center_Negative_8mm_SilkScreen"
     ],

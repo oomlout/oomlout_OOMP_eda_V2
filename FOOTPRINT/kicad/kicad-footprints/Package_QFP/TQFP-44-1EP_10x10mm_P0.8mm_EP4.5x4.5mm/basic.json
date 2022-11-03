@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Package_QFP : TQFP-44-1EP_10x10mm_P0.8mm_EP4.5x4.5mm"
     ],

@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Transformer_THT : Transformer_Toroid_Horizontal_D12.5mm_Amidon-T44"
     ],

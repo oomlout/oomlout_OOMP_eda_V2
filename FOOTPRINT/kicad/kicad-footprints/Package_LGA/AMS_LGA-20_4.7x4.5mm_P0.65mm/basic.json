@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Package_LGA : AMS_LGA-20_4.7x4.5mm_P0.65mm"
     ],

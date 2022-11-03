@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Connector_Wuerth : Wuerth_WR-WTB_64800711622_1x07_P1.50mm_Vertical"
     ],

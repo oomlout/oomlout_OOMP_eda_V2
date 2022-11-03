@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Connector_JST : JST_GH_BM14B-GHS-TBT_1x14-1MP_P1.25mm_Vertical"
     ],

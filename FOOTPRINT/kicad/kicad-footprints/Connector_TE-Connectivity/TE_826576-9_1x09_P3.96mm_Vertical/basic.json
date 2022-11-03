@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Connector_TE-Connectivity : TE_826576-9_1x09_P3.96mm_Vertical"
     ],

@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Capacitor_Tantalum_SMD : CP_EIA-3528-15_AVX-H_Pad1.50x2.35mm_HandSolder"
     ],

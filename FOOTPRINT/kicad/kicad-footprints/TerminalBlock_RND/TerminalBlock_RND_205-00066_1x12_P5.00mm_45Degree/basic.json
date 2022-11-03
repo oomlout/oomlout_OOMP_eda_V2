@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "TerminalBlock_RND : TerminalBlock_RND_205-00066_1x12_P5.00mm_45Degree"
     ],

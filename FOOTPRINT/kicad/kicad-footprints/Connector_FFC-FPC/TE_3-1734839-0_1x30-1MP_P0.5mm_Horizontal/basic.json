@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Connector_FFC-FPC : TE_3-1734839-0_1x30-1MP_P0.5mm_Horizontal"
     ],

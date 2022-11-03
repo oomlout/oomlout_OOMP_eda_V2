@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Package_BGA : Microchip_TFBGA-196_11x11mm_Layout14x14_P0.75mm_SMD"
     ],

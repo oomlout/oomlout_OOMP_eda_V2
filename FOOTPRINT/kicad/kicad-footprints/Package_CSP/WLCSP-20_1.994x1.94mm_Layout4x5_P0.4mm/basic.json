@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Package_CSP : WLCSP-20_1.994x1.94mm_Layout4x5_P0.4mm"
     ],

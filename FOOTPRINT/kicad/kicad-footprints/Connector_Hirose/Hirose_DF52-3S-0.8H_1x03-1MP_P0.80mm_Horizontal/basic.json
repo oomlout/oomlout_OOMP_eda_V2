@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Connector_Hirose : Hirose_DF52-3S-0.8H_1x03-1MP_P0.80mm_Horizontal"
     ],

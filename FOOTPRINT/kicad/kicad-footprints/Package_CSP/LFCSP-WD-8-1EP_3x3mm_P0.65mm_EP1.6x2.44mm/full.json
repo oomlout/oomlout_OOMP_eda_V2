@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Package_CSP : LFCSP-WD-8-1EP_3x3mm_P0.65mm_EP1.6x2.44mm"
     ],
@@ -62,6 +63,9 @@
         ],
         "jsonFull": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_CSP/LFCSP-WD-8-1EP_3x3mm_P0.65mm_EP1.6x2.44mm/full.json"
+        ],
+        "kicadFootprint": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_CSP/LFCSP-WD-8-1EP_3x3mm_P0.65mm_EP1.6x2.44mm/footprint.kicad_mod"
         ],
         "kicadPcb3d": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Package_CSP/LFCSP-WD-8-1EP_3x3mm_P0.65mm_EP1.6x2.44mm/kicadPcb3d.png"

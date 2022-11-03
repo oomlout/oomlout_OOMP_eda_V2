@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Connector_PinSocket_2.00mm : PinSocket_1x02_P2.00mm_Horizontal"
     ],

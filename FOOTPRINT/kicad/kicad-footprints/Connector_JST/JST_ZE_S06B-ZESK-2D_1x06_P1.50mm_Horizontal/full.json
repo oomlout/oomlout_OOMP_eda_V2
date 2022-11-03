@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Connector_JST : JST_ZE_S06B-ZESK-2D_1x06_P1.50mm_Horizontal"
     ],

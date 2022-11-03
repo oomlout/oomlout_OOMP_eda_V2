@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Connector_Audio : MiniXLR-5_Switchcraft_TRAPC_Horizontal"
     ],

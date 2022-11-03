@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Connector_Phoenix_MSTB : PhoenixContact_MSTBA_2,5_4-G_1x04_P5.00mm_Horizontal"
     ],

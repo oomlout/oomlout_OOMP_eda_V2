@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "MountingEquipment : DINRailAdapter_3xM3_PhoenixContact_1201578"
     ],

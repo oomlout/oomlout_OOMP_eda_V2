@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Crystal : Crystal_SMD_MicroCrystal_CC8V-T1A-2Pin_2.0x1.2mm"
     ],

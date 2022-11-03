@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Converter_DCDC : Converter_DCDC_Murata_MEE3SxxxxSC_THT"
     ],

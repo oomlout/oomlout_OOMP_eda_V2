@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Package_BGA : UCBGA-36_2.5x2.5mm_Layout6x6_P0.4mm"
     ],

@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Connector_Pin : Pin_D1.1mm_L10.2mm_W3.5mm_Flat"
     ],

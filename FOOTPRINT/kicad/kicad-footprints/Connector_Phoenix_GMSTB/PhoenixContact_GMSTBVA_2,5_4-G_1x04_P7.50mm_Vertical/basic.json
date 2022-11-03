@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Connector_Phoenix_GMSTB : PhoenixContact_GMSTBVA_2,5_4-G_1x04_P7.50mm_Vertical"
     ],

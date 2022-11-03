@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Capacitor_THT : C_Axial_L12.0mm_D9.5mm_P20.00mm_Horizontal"
     ],

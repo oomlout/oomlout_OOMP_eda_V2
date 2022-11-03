@@ -25,6 +25,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Calibration_Scale : Gauge_10mm_Type2_SilkScreenTop"
     ],

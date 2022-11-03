@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Connector_FFC-FPC : Molex_200528-0280_1x28-1MP_P1.00mm_Horizontal"
     ],

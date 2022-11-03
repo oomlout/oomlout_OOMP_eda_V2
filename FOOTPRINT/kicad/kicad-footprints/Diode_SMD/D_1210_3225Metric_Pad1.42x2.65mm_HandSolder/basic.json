@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Diode_SMD : D_1210_3225Metric_Pad1.42x2.65mm_HandSolder"
     ],

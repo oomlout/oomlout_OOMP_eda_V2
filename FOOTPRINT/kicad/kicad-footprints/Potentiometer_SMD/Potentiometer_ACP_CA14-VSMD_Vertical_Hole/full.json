@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Potentiometer_SMD : Potentiometer_ACP_CA14-VSMD_Vertical_Hole"
     ],

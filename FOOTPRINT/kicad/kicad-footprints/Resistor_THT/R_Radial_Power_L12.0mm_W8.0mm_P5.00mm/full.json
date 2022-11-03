@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Resistor_THT : R_Radial_Power_L12.0mm_W8.0mm_P5.00mm"
     ],

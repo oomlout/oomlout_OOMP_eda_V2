@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Module : Raspberry_Pi_Zero_Socketed_THT_FaceDown_MountingHoles"
     ],

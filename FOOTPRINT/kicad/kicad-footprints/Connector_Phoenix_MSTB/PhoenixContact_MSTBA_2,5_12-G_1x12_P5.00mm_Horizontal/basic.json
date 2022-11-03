@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Connector_Phoenix_MSTB : PhoenixContact_MSTBA_2,5_12-G_1x12_P5.00mm_Horizontal"
     ],

@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Connector_TE-Connectivity : TE_5767171-1_2x19_P0.635mm_Vertical"
     ],

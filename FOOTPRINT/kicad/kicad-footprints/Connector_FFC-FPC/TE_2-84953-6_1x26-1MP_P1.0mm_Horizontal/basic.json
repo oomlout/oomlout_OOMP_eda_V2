@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Connector_FFC-FPC : TE_2-84953-6_1x26-1MP_P1.0mm_Horizontal"
     ],

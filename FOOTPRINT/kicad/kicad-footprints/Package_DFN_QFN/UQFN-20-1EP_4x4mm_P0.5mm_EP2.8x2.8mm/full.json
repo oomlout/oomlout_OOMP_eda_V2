@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Package_DFN_QFN : UQFN-20-1EP_4x4mm_P0.5mm_EP2.8x2.8mm"
     ],

@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "TerminalBlock_Phoenix : TerminalBlock_Phoenix_MKDS-1,5-12_1x12_P5.00mm_Horizontal"
     ],

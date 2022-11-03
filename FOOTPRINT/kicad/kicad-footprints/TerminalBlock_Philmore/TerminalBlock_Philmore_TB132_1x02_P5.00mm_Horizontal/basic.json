@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "TerminalBlock_Philmore : TerminalBlock_Philmore_TB132_1x02_P5.00mm_Horizontal"
     ],

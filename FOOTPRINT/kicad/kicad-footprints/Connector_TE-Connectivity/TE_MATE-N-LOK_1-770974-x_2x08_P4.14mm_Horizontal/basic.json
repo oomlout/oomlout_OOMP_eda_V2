@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Connector_TE-Connectivity : TE_MATE-N-LOK_1-770974-x_2x08_P4.14mm_Horizontal"
     ],

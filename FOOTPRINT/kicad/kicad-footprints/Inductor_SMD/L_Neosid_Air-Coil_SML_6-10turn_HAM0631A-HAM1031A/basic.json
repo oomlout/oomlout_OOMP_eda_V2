@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Inductor_SMD : L_Neosid_Air-Coil_SML_6-10turn_HAM0631A-HAM1031A"
     ],

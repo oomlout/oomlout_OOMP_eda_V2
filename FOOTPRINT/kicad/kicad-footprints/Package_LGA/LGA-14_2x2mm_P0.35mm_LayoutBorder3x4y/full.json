@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Package_LGA : LGA-14_2x2mm_P0.35mm_LayoutBorder3x4y"
     ],

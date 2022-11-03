@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Package_DFN_QFN : QFN-24-1EP_5x5mm_P0.65mm_EP3.2x3.2mm_ThermalVias"
     ],

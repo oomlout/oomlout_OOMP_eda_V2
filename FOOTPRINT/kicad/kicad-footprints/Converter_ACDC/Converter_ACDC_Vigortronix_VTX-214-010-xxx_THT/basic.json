@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Converter_ACDC : Converter_ACDC_Vigortronix_VTX-214-010-xxx_THT"
     ],

@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Package_SO : HSOP-20-1EP_11.0x15.9mm_P1.27mm_SlugDown_ThermalVias"
     ],

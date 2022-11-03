@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Connector_AMASS : AMASS_XT30U-M_1x02_P5.0mm_Vertical"
     ],

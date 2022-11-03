@@ -17,6 +17,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "oomlout_OOMP_modules : MODULE-CONN-RASP-PICO-2040"
     ],

@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Connector_PCBEdge : Samtec_MECF-60-02-NP-L-DV_2x60_P1.27mm_Socket_Horizontal"
     ],

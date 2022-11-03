@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Connector_Molex : Molex_Pico-Clasp_501331-1507_1x15-1MP_P1.00mm_Vertical"
     ],

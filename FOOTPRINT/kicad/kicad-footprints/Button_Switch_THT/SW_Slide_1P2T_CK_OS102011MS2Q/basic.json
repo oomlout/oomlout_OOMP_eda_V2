@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Button_Switch_THT : SW_Slide_1P2T_CK_OS102011MS2Q"
     ],

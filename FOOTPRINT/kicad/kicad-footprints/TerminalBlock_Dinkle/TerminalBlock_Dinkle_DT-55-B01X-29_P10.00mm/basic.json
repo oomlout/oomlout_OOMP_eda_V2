@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "TerminalBlock_Dinkle : TerminalBlock_Dinkle_DT-55-B01X-29_P10.00mm"
     ],

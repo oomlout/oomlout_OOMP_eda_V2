@@ -29,6 +29,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "Relay_THT : Relay_1P1T_NO_10x24x18.8mm_Panasonic_ADW11xxxxW_THT"
     ],
@@ -62,6 +63,9 @@
         ],
         "jsonFull": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_1P1T_NO_10x24x18.8mm_Panasonic_ADW11xxxxW_THT/full.json"
+        ],
+        "kicadFootprint": [
+            "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_1P1T_NO_10x24x18.8mm_Panasonic_ADW11xxxxW_THT/footprint.kicad_mod"
         ],
         "kicadPcb3d": [
             "oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Relay_THT/Relay_1P1T_NO_10x24x18.8mm_Panasonic_ADW11xxxxW_THT/kicadPcb3d.png"
