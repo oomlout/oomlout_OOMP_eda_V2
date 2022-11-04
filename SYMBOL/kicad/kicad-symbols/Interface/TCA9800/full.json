@@ -1,23 +1,7 @@
 {
-    "code": [],
-    "collection": [],
-    "description": [],
-    "distributorPartNumber": [],
-    "eagleBoard": [],
-    "eagleSchem": [],
-    "footprintEagle": [],
-    "footprintEagleDetails": [],
-    "footprintKicad": [],
-    "footprintKicadDetails": [],
-    "gitName": [],
-    "gitRepo": [],
     "hexID": [
         "SZKINTERFACETCA98"
     ],
-    "kicadBoard": [],
-    "kicadSchem": [],
-    "manufacturerPartNumber": [],
-    "matchSpecial": [],
     "name": [
         "Interface : TCA9800"
     ],
@@ -62,19 +46,12 @@
     "oompIndex": [
         "TCA9800"
     ],
-    "oompInstances": [],
-    "oompParts": [],
     "oompSize": [
         "kicad"
     ],
     "oompType": [
         "SYMBOL"
     ],
-    "oplPartNumber": [],
-    "rawParts": [],
-    "symbolEagle": [],
-    "symbolEagleDetails": [],
-    "symbolKicad": [],
     "symbolKicadDetails": [
         [
             {

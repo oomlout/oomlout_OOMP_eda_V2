@@ -1,23 +1,7 @@
 {
-    "code": [],
-    "collection": [],
-    "description": [],
-    "distributorPartNumber": [],
-    "eagleBoard": [],
-    "eagleSchem": [],
-    "footprintEagle": [],
-    "footprintEagleDetails": [],
-    "footprintKicad": [],
-    "footprintKicadDetails": [],
-    "gitName": [],
-    "gitRepo": [],
     "hexID": [
         "SZKCONRAC124SGB"
     ],
-    "kicadBoard": [],
-    "kicadSchem": [],
-    "manufacturerPartNumber": [],
-    "matchSpecial": [],
     "name": [
         "Converter_ACDC : RAC01-24SGB"
     ],
@@ -62,19 +46,12 @@
     "oompIndex": [
         "RAC01-24SGB"
     ],
-    "oompInstances": [],
-    "oompParts": [],
     "oompSize": [
         "kicad"
     ],
     "oompType": [
         "SYMBOL"
     ],
-    "oplPartNumber": [],
-    "rawParts": [],
-    "symbolEagle": [],
-    "symbolEagleDetails": [],
-    "symbolKicad": [],
     "symbolKicadDetails": [
         [
             {

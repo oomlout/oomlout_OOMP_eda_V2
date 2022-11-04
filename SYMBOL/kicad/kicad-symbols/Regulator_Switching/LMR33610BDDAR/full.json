@@ -1,23 +1,7 @@
 {
-    "code": [],
-    "collection": [],
-    "description": [],
-    "distributorPartNumber": [],
-    "eagleBoard": [],
-    "eagleSchem": [],
-    "footprintEagle": [],
-    "footprintEagleDetails": [],
-    "footprintKicad": [],
-    "footprintKicadDetails": [],
-    "gitName": [],
-    "gitRepo": [],
     "hexID": [
         "SZKREGULATORSWITCHINGLMR3361BDDAR"
     ],
-    "kicadBoard": [],
-    "kicadSchem": [],
-    "manufacturerPartNumber": [],
-    "matchSpecial": [],
     "name": [
         "Regulator_Switching : LMR33610BDDAR"
     ],
@@ -62,19 +46,12 @@
     "oompIndex": [
         "LMR33610BDDAR"
     ],
-    "oompInstances": [],
-    "oompParts": [],
     "oompSize": [
         "kicad"
     ],
     "oompType": [
         "SYMBOL"
     ],
-    "oplPartNumber": [],
-    "rawParts": [],
-    "symbolEagle": [],
-    "symbolEagleDetails": [],
-    "symbolKicad": [],
     "symbolKicadDetails": [
         [
             {

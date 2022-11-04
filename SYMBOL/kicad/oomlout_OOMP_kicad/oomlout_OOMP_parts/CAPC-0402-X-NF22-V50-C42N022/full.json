@@ -1,23 +1,7 @@
 {
-    "code": [],
-    "collection": [],
-    "description": [],
-    "distributorPartNumber": [],
-    "eagleBoard": [],
-    "eagleSchem": [],
-    "footprintEagle": [],
-    "footprintEagleDetails": [],
-    "footprintKicad": [],
-    "footprintKicadDetails": [],
-    "gitName": [],
-    "gitRepo": [],
     "hexID": [
         "SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC42XNF22V5C42N22"
     ],
-    "kicadBoard": [],
-    "kicadSchem": [],
-    "manufacturerPartNumber": [],
-    "matchSpecial": [],
     "name": [
         "oomlout_OOMP_parts : CAPC-0402-X-NF22-V50-C42N022"
     ],
@@ -56,19 +40,12 @@
     "oompIndex": [
         "CAPC-0402-X-NF22-V50-C42N022"
     ],
-    "oompInstances": [],
-    "oompParts": [],
     "oompSize": [
         "kicad"
     ],
     "oompType": [
         "SYMBOL"
     ],
-    "oplPartNumber": [],
-    "rawParts": [],
-    "symbolEagle": [],
-    "symbolEagleDetails": [],
-    "symbolKicad": [],
     "symbolKicadDetails": [
         [
             {

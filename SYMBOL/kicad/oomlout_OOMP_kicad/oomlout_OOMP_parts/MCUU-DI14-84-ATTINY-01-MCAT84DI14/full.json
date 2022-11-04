@@ -1,23 +1,7 @@
 {
-    "code": [],
-    "collection": [],
-    "description": [],
-    "distributorPartNumber": [],
-    "eagleBoard": [],
-    "eagleSchem": [],
-    "footprintEagle": [],
-    "footprintEagleDetails": [],
-    "footprintKicad": [],
-    "footprintKicadDetails": [],
-    "gitName": [],
-    "gitRepo": [],
     "hexID": [
         "SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSMCUUDI1484ATTINY1MCAT84DI14"
     ],
-    "kicadBoard": [],
-    "kicadSchem": [],
-    "manufacturerPartNumber": [],
-    "matchSpecial": [],
     "name": [
         "oomlout_OOMP_parts : MCUU-DI14-84-ATTINY-01-MCAT84DI14"
     ],
@@ -56,19 +40,12 @@
     "oompIndex": [
         "MCUU-DI14-84-ATTINY-01-MCAT84DI14"
     ],
-    "oompInstances": [],
-    "oompParts": [],
     "oompSize": [
         "kicad"
     ],
     "oompType": [
         "SYMBOL"
     ],
-    "oplPartNumber": [],
-    "rawParts": [],
-    "symbolEagle": [],
-    "symbolEagleDetails": [],
-    "symbolKicad": [],
     "symbolKicadDetails": [
         [
             {

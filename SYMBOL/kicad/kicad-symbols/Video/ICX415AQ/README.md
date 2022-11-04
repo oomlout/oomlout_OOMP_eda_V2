@@ -6,6 +6,8 @@ Contents
 ========
 
 * [SZKVIDEOICX415AQ > Video : ICX415AQ](#szkvideoicx415aq--video--icx415aq)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Video : ICX415AQ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Video-ICX415AQ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Video-ICX415AQ)
 - Short Link: [http://oom.lt/SZKVIDEOICX415AQ](http://oom.lt/SZKVIDEOICX415AQ)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Video+:+ICX415AQ)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Video+:+ICX415AQ)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Video+:+ICX415AQ)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Video+:+ICX415AQ)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Video+:+ICX415AQ)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Video+:+ICX415AQ)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Video/ICX415AQ/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Video/ICX415AQ/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Video/ICX415AQ/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Video/ICX415AQ/image.png)|||

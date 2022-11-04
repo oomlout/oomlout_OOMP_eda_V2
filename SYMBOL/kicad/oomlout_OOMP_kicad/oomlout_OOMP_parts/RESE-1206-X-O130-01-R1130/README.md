@@ -6,6 +6,8 @@ Contents
 ========
 
 * [SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE126XO131R113 > oomlout_OOMP_parts : RESE-1206-X-O130-01-R1130](#szkicadoomloutoompkicadoomloutoomppartsrese126xo131r113--oomlout_oomp_parts--rese-1206-x-o130-01-r1130)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -17,6 +19,18 @@ NO IMAGE
 - Description: oomlout_OOMP_parts : RESE-1206-X-O130-01-R1130
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-1206-X-O130-01-R1130](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-1206-X-O130-01-R1130)
 - Short Link: [http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE126XO131R113](http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE126XO131R113)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117oomlout_OOMP_parts+:+RESE-1206-X-O130-01-R1130)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/oomlout_OOMP_parts+:+RESE-1206-X-O130-01-R1130)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=oomlout_OOMP_parts+:+RESE-1206-X-O130-01-R1130)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=oomlout_OOMP_parts+:+RESE-1206-X-O130-01-R1130)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=oomlout_OOMP_parts+:+RESE-1206-X-O130-01-R1130)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=oomlout_OOMP_parts+:+RESE-1206-X-O130-01-R1130)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 NO IMAGES  
 ## Tags

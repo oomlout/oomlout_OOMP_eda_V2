@@ -6,6 +6,8 @@ Contents
 ========
 
 * [SZKPOWERMANAGEMENTCAP18DG > Power_Management : CAP018DG](#szkpowermanagementcap18dg--power_management--cap018dg)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Power_Management : CAP018DG
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-CAP018DG](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-CAP018DG)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTCAP18DG](http://oom.lt/SZKPOWERMANAGEMENTCAP18DG)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Power_Management+:+CAP018DG)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Power_Management+:+CAP018DG)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Power_Management+:+CAP018DG)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Power_Management+:+CAP018DG)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Power_Management+:+CAP018DG)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Power_Management+:+CAP018DG)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Power_Management/CAP018DG/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Power_Management/CAP018DG/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Power_Management/CAP018DG/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Power_Management/CAP018DG/image.png)|||

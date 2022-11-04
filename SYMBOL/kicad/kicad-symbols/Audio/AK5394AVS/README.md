@@ -6,6 +6,8 @@ Contents
 ========
 
 * [SZKAUDIOAK5394AVS > Audio : AK5394AVS](#szkaudioak5394avs--audio--ak5394avs)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Audio : AK5394AVS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-AK5394AVS](http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-AK5394AVS)
 - Short Link: [http://oom.lt/SZKAUDIOAK5394AVS](http://oom.lt/SZKAUDIOAK5394AVS)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Audio+:+AK5394AVS)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Audio+:+AK5394AVS)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Audio+:+AK5394AVS)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Audio+:+AK5394AVS)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Audio+:+AK5394AVS)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Audio+:+AK5394AVS)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Audio/AK5394AVS/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Audio/AK5394AVS/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Audio/AK5394AVS/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Audio/AK5394AVS/image.png)|||

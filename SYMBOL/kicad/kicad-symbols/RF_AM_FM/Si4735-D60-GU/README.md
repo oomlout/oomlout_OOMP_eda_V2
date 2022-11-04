@@ -6,6 +6,8 @@ Contents
 ========
 
 * [SZKRFAMFMSI4735D6GU > RF_AM_FM : Si4735-D60-GU](#szkrfamfmsi4735d6gu--rf_am_fm--si4735-d60-gu)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -17,6 +19,18 @@ NO IMAGE
 - Description: RF_AM_FM : Si4735-D60-GU
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_AM_FM-Si4735-D60-GU](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_AM_FM-Si4735-D60-GU)
 - Short Link: [http://oom.lt/SZKRFAMFMSI4735D6GU](http://oom.lt/SZKRFAMFMSI4735D6GU)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117RF_AM_FM+:+Si4735-D60-GU)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/RF_AM_FM+:+Si4735-D60-GU)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=RF_AM_FM+:+Si4735-D60-GU)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=RF_AM_FM+:+Si4735-D60-GU)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=RF_AM_FM+:+Si4735-D60-GU)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=RF_AM_FM+:+Si4735-D60-GU)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 NO IMAGES  
 ## Tags

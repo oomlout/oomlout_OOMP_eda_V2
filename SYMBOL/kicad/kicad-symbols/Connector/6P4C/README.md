@@ -6,6 +6,8 @@ Contents
 ========
 
 * [SZKCN6P4C > Connector : 6P4C](#szkcn6p4c--connector--6p4c)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Connector : 6P4C
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-6P4C](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-6P4C)
 - Short Link: [http://oom.lt/SZKCN6P4C](http://oom.lt/SZKCN6P4C)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Connector+:+6P4C)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Connector+:+6P4C)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Connector+:+6P4C)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Connector+:+6P4C)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Connector+:+6P4C)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Connector+:+6P4C)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/6P4C/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/6P4C/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/6P4C/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/6P4C/image.png)|||

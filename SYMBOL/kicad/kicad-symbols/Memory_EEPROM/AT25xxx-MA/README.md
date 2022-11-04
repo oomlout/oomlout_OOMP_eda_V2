@@ -6,6 +6,8 @@ Contents
 ========
 
 * [SZKMEMORYEEPROMAT25XXXMA > Memory_EEPROM : AT25xxx-MA](#szkmemoryeepromat25xxxma--memory_eeprom--at25xxx-ma)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Memory_EEPROM : AT25xxx-MA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_EEPROM-AT25xxx-MA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_EEPROM-AT25xxx-MA)
 - Short Link: [http://oom.lt/SZKMEMORYEEPROMAT25XXXMA](http://oom.lt/SZKMEMORYEEPROMAT25XXXMA)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Memory_EEPROM+:+AT25xxx-MA)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Memory_EEPROM+:+AT25xxx-MA)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Memory_EEPROM+:+AT25xxx-MA)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Memory_EEPROM+:+AT25xxx-MA)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Memory_EEPROM+:+AT25xxx-MA)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Memory_EEPROM+:+AT25xxx-MA)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_EEPROM/AT25xxx-MA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_EEPROM/AT25xxx-MA/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_EEPROM/AT25xxx-MA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_EEPROM/AT25xxx-MA/image.png)|||

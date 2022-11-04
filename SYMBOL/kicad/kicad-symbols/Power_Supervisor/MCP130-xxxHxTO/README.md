@@ -6,6 +6,8 @@ Contents
 ========
 
 * [SZKPOWERSUPERVISORMCP13XXXHXTO > Power_Supervisor : MCP130-xxxHxTO](#szkpowersupervisormcp13xxxhxto--power_supervisor--mcp130-xxxhxto)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Power_Supervisor : MCP130-xxxHxTO
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Supervisor-MCP130-xxxHxTO](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Supervisor-MCP130-xxxHxTO)
 - Short Link: [http://oom.lt/SZKPOWERSUPERVISORMCP13XXXHXTO](http://oom.lt/SZKPOWERSUPERVISORMCP13XXXHXTO)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Power_Supervisor+:+MCP130-xxxHxTO)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Power_Supervisor+:+MCP130-xxxHxTO)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Power_Supervisor+:+MCP130-xxxHxTO)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Power_Supervisor+:+MCP130-xxxHxTO)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Power_Supervisor+:+MCP130-xxxHxTO)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Power_Supervisor+:+MCP130-xxxHxTO)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Power_Supervisor/MCP130-xxxHxTO/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Power_Supervisor/MCP130-xxxHxTO/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Power_Supervisor/MCP130-xxxHxTO/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Power_Supervisor/MCP130-xxxHxTO/image.png)|||

@@ -6,6 +6,8 @@ Contents
 ========
 
 * [SZKRELAYEC224SNU > Relay : EC2-24SNU](#szkrelayec224snu--relay--ec2-24snu)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Relay : EC2-24SNU
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-EC2-24SNU](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-EC2-24SNU)
 - Short Link: [http://oom.lt/SZKRELAYEC224SNU](http://oom.lt/SZKRELAYEC224SNU)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Relay+:+EC2-24SNU)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Relay+:+EC2-24SNU)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Relay+:+EC2-24SNU)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Relay+:+EC2-24SNU)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Relay+:+EC2-24SNU)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Relay+:+EC2-24SNU)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Relay/EC2-24SNU/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Relay/EC2-24SNU/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Relay/EC2-24SNU/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Relay/EC2-24SNU/image.png)|||

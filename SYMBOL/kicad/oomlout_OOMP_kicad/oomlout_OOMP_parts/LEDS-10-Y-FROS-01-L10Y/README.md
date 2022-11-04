@@ -6,6 +6,8 @@ Contents
 ========
 
 * [SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSLS1YFROS1L1Y > oomlout_OOMP_parts : LEDS-10-Y-FROS-01-L10Y](#szkicadoomloutoompkicadoomloutoomppartsls1yfros1l1y--oomlout_oomp_parts--leds-10-y-fros-01-l10y)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -17,6 +19,18 @@ NO IMAGE
 - Description: oomlout_OOMP_parts : LEDS-10-Y-FROS-01-L10Y
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-LEDS-10-Y-FROS-01-L10Y](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-LEDS-10-Y-FROS-01-L10Y)
 - Short Link: [http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSLS1YFROS1L1Y](http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSLS1YFROS1L1Y)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117oomlout_OOMP_parts+:+LEDS-10-Y-FROS-01-L10Y)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/oomlout_OOMP_parts+:+LEDS-10-Y-FROS-01-L10Y)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=oomlout_OOMP_parts+:+LEDS-10-Y-FROS-01-L10Y)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=oomlout_OOMP_parts+:+LEDS-10-Y-FROS-01-L10Y)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=oomlout_OOMP_parts+:+LEDS-10-Y-FROS-01-L10Y)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=oomlout_OOMP_parts+:+LEDS-10-Y-FROS-01-L10Y)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 NO IMAGES  
 ## Tags

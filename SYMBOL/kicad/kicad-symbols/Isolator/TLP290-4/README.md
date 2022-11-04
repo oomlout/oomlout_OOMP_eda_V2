@@ -6,6 +6,8 @@ Contents
 ========
 
 * [SZKISOLATORTLP294 > Isolator : TLP290-4](#szkisolatortlp294--isolator--tlp290-4)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Isolator : TLP290-4
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-TLP290-4](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-TLP290-4)
 - Short Link: [http://oom.lt/SZKISOLATORTLP294](http://oom.lt/SZKISOLATORTLP294)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Isolator+:+TLP290-4)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Isolator+:+TLP290-4)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Isolator+:+TLP290-4)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Isolator+:+TLP290-4)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Isolator+:+TLP290-4)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Isolator+:+TLP290-4)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Isolator/TLP290-4/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Isolator/TLP290-4/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Isolator/TLP290-4/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Isolator/TLP290-4/image.png)|||

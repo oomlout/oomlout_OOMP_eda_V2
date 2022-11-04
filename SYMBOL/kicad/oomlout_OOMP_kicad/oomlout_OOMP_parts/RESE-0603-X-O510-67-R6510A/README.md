@@ -6,6 +6,8 @@ Contents
 ========
 
 * [SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE63XO5167R651A > oomlout_OOMP_parts : RESE-0603-X-O510-67-R6510A](#szkicadoomloutoompkicadoomloutoomppartsrese63xo5167r651a--oomlout_oomp_parts--rese-0603-x-o510-67-r6510a)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -17,6 +19,18 @@ NO IMAGE
 - Description: oomlout_OOMP_parts : RESE-0603-X-O510-67-R6510A
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O510-67-R6510A](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-RESE-0603-X-O510-67-R6510A)
 - Short Link: [http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE63XO5167R651A](http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSRESE63XO5167R651A)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117oomlout_OOMP_parts+:+RESE-0603-X-O510-67-R6510A)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/oomlout_OOMP_parts+:+RESE-0603-X-O510-67-R6510A)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=oomlout_OOMP_parts+:+RESE-0603-X-O510-67-R6510A)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=oomlout_OOMP_parts+:+RESE-0603-X-O510-67-R6510A)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=oomlout_OOMP_parts+:+RESE-0603-X-O510-67-R6510A)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=oomlout_OOMP_parts+:+RESE-0603-X-O510-67-R6510A)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 NO IMAGES  
 ## Tags

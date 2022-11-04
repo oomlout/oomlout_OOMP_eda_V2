@@ -6,6 +6,8 @@ Contents
 ========
 
 * [SZKAMPLIFIERDIFFERENCETHS4551XRGT > Amplifier_Difference : THS4551xRGT](#szkamplifierdifferenceths4551xrgt--amplifier_difference--ths4551xrgt)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Amplifier_Difference : THS4551xRGT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Difference-THS4551xRGT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Difference-THS4551xRGT)
 - Short Link: [http://oom.lt/SZKAMPLIFIERDIFFERENCETHS4551XRGT](http://oom.lt/SZKAMPLIFIERDIFFERENCETHS4551XRGT)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Amplifier_Difference+:+THS4551xRGT)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Amplifier_Difference+:+THS4551xRGT)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Amplifier_Difference+:+THS4551xRGT)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Amplifier_Difference+:+THS4551xRGT)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Amplifier_Difference+:+THS4551xRGT)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Amplifier_Difference+:+THS4551xRGT)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Difference/THS4551xRGT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Difference/THS4551xRGT/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Difference/THS4551xRGT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Difference/THS4551xRGT/image.png)|||

@@ -6,6 +6,8 @@ Contents
 ========
 
 * [SZKPOWERMANAGEMENTTSM12A > Power_Management : TSM102A](#szkpowermanagementtsm12a--power_management--tsm102a)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Power_Management : TSM102A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-TSM102A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-TSM102A)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTTSM12A](http://oom.lt/SZKPOWERMANAGEMENTTSM12A)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Power_Management+:+TSM102A)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Power_Management+:+TSM102A)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Power_Management+:+TSM102A)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Power_Management+:+TSM102A)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Power_Management+:+TSM102A)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Power_Management+:+TSM102A)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Power_Management/TSM102A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Power_Management/TSM102A/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Power_Management/TSM102A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Power_Management/TSM102A/image.png)|||

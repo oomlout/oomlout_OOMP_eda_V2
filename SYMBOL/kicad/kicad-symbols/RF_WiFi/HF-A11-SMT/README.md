@@ -6,6 +6,8 @@ Contents
 ========
 
 * [SZKRFHFA11S > RF_WiFi : HF-A11-SMT](#szkrfhfa11s--rf_wifi--hf-a11-smt)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -17,6 +19,18 @@ NO IMAGE
 - Description: RF_WiFi : HF-A11-SMT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_WiFi-HF-A11-SMT](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_WiFi-HF-A11-SMT)
 - Short Link: [http://oom.lt/SZKRFHFA11S](http://oom.lt/SZKRFHFA11S)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117RF_WiFi+:+HF-A11-SMT)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/RF_WiFi+:+HF-A11-SMT)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=RF_WiFi+:+HF-A11-SMT)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=RF_WiFi+:+HF-A11-SMT)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=RF_WiFi+:+HF-A11-SMT)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=RF_WiFi+:+HF-A11-SMT)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 NO IMAGES  
 ## Tags

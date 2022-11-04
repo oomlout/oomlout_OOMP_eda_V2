@@ -6,6 +6,8 @@ Contents
 ========
 
 * [SZKPOWERMANAGEMENTLTC437XMS > Power_Management : LTC4370xMS](#szkpowermanagementltc437xms--power_management--ltc4370xms)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Power_Management : LTC4370xMS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-LTC4370xMS](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-LTC4370xMS)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTLTC437XMS](http://oom.lt/SZKPOWERMANAGEMENTLTC437XMS)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Power_Management+:+LTC4370xMS)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Power_Management+:+LTC4370xMS)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Power_Management+:+LTC4370xMS)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Power_Management+:+LTC4370xMS)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Power_Management+:+LTC4370xMS)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Power_Management+:+LTC4370xMS)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Power_Management/LTC4370xMS/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Power_Management/LTC4370xMS/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Power_Management/LTC4370xMS/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Power_Management/LTC4370xMS/image.png)|||

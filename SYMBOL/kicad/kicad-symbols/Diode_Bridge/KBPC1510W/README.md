@@ -6,6 +6,8 @@ Contents
 ========
 
 * [SZKDIODEBRIDGEKBPC151W > Diode_Bridge : KBPC1510W](#szkdiodebridgekbpc151w--diode_bridge--kbpc1510w)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -17,6 +19,18 @@ NO IMAGE
 - Description: Diode_Bridge : KBPC1510W
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-KBPC1510W](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode_Bridge-KBPC1510W)
 - Short Link: [http://oom.lt/SZKDIODEBRIDGEKBPC151W](http://oom.lt/SZKDIODEBRIDGEKBPC151W)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Diode_Bridge+:+KBPC1510W)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Diode_Bridge+:+KBPC1510W)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Diode_Bridge+:+KBPC1510W)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Diode_Bridge+:+KBPC1510W)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Diode_Bridge+:+KBPC1510W)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Diode_Bridge+:+KBPC1510W)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 NO IMAGES  
 ## Tags

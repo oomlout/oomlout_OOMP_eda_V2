@@ -6,6 +6,8 @@ Contents
 ========
 
 * [SZKBUFFERPI6C59462ZH > Buffer : PI6C5946002ZH](#szkbufferpi6c59462zh--buffer--pi6c5946002zh)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Buffer : PI6C5946002ZH
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Buffer-PI6C5946002ZH](http://oom.lt/SYMBOL-kicad-kicad-symbols-Buffer-PI6C5946002ZH)
 - Short Link: [http://oom.lt/SZKBUFFERPI6C59462ZH](http://oom.lt/SZKBUFFERPI6C59462ZH)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Buffer+:+PI6C5946002ZH)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Buffer+:+PI6C5946002ZH)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Buffer+:+PI6C5946002ZH)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Buffer+:+PI6C5946002ZH)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Buffer+:+PI6C5946002ZH)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Buffer+:+PI6C5946002ZH)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Buffer/PI6C5946002ZH/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Buffer/PI6C5946002ZH/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Buffer/PI6C5946002ZH/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Buffer/PI6C5946002ZH/image.png)|||

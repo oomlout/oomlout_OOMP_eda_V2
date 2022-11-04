@@ -6,6 +6,8 @@ Contents
 ========
 
 * [SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSHEADI1LPI21H2L > oomlout_OOMP_parts : HEAD-I01-L-PI02-01-H02L](#szkicadoomloutoompkicadoomloutoomppartsheadi1lpi21h2l--oomlout_oomp_parts--head-i01-l-pi02-01-h02l)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -17,6 +19,18 @@ NO IMAGE
 - Description: oomlout_OOMP_parts : HEAD-I01-L-PI02-01-H02L
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-I01-L-PI02-01-H02L](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_parts-HEAD-I01-L-PI02-01-H02L)
 - Short Link: [http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSHEADI1LPI21H2L](http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSHEADI1LPI21H2L)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117oomlout_OOMP_parts+:+HEAD-I01-L-PI02-01-H02L)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/oomlout_OOMP_parts+:+HEAD-I01-L-PI02-01-H02L)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=oomlout_OOMP_parts+:+HEAD-I01-L-PI02-01-H02L)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=oomlout_OOMP_parts+:+HEAD-I01-L-PI02-01-H02L)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=oomlout_OOMP_parts+:+HEAD-I01-L-PI02-01-H02L)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=oomlout_OOMP_parts+:+HEAD-I01-L-PI02-01-H02L)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 NO IMAGES  
 ## Tags

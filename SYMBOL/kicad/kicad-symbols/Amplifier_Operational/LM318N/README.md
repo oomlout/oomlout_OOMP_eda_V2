@@ -6,6 +6,8 @@ Contents
 ========
 
 * [SZKAMPLIFIEROPERATIONALLM318N > Amplifier_Operational : LM318N](#szkamplifieroperationallm318n--amplifier_operational--lm318n)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Amplifier_Operational : LM318N
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LM318N](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-LM318N)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALLM318N](http://oom.lt/SZKAMPLIFIEROPERATIONALLM318N)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Amplifier_Operational+:+LM318N)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Amplifier_Operational+:+LM318N)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Amplifier_Operational+:+LM318N)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Amplifier_Operational+:+LM318N)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Amplifier_Operational+:+LM318N)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Amplifier_Operational+:+LM318N)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/LM318N/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/LM318N/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/LM318N/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/LM318N/image.png)|||

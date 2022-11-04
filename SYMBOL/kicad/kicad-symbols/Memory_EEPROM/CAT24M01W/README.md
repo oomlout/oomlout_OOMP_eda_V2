@@ -6,6 +6,8 @@ Contents
 ========
 
 * [SZKMEMORYEEPROMCAT24M1W > Memory_EEPROM : CAT24M01W](#szkmemoryeepromcat24m1w--memory_eeprom--cat24m01w)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Memory_EEPROM : CAT24M01W
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_EEPROM-CAT24M01W](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_EEPROM-CAT24M01W)
 - Short Link: [http://oom.lt/SZKMEMORYEEPROMCAT24M1W](http://oom.lt/SZKMEMORYEEPROMCAT24M1W)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Memory_EEPROM+:+CAT24M01W)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Memory_EEPROM+:+CAT24M01W)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Memory_EEPROM+:+CAT24M01W)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Memory_EEPROM+:+CAT24M01W)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Memory_EEPROM+:+CAT24M01W)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Memory_EEPROM+:+CAT24M01W)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_EEPROM/CAT24M01W/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_EEPROM/CAT24M01W/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_EEPROM/CAT24M01W/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_EEPROM/CAT24M01W/image.png)|||

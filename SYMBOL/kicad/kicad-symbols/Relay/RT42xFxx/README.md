@@ -6,6 +6,8 @@ Contents
 ========
 
 * [SZKRELAYRT42XFXX > Relay : RT42xFxx](#szkrelayrt42xfxx--relay--rt42xfxx)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Relay : RT42xFxx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-RT42xFxx](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-RT42xFxx)
 - Short Link: [http://oom.lt/SZKRELAYRT42XFXX](http://oom.lt/SZKRELAYRT42XFXX)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Relay+:+RT42xFxx)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Relay+:+RT42xFxx)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Relay+:+RT42xFxx)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Relay+:+RT42xFxx)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Relay+:+RT42xFxx)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Relay+:+RT42xFxx)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Relay/RT42xFxx/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Relay/RT42xFxx/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Relay/RT42xFxx/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Relay/RT42xFxx/image.png)|||

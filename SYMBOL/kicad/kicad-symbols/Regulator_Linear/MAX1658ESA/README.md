@@ -6,6 +6,8 @@ Contents
 ========
 
 * [SZKREGULATORLINEARMAX1658ESA > Regulator_Linear : MAX1658ESA](#szkregulatorlinearmax1658esa--regulator_linear--max1658esa)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Regulator_Linear : MAX1658ESA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-MAX1658ESA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-MAX1658ESA)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARMAX1658ESA](http://oom.lt/SZKREGULATORLINEARMAX1658ESA)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Regulator_Linear+:+MAX1658ESA)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Regulator_Linear+:+MAX1658ESA)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Regulator_Linear+:+MAX1658ESA)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Regulator_Linear+:+MAX1658ESA)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Regulator_Linear+:+MAX1658ESA)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Regulator_Linear+:+MAX1658ESA)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/MAX1658ESA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/MAX1658ESA/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/MAX1658ESA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/MAX1658ESA/image.png)|||

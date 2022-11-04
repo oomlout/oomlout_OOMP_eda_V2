@@ -6,6 +6,8 @@ Contents
 ========
 
 * [SZKCNMSDCARDDETHIROSEDM3AT > Connector : Micro_SD_Card_Det_Hirose_DM3AT](#szkcnmsdcarddethirosedm3at--connector--micro_sd_card_det_hirose_dm3at)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Connector : Micro_SD_Card_Det_Hirose_DM3AT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-Micro_SD_Card_Det_Hirose_DM3AT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-Micro_SD_Card_Det_Hirose_DM3AT)
 - Short Link: [http://oom.lt/SZKCNMSDCARDDETHIROSEDM3AT](http://oom.lt/SZKCNMSDCARDDETHIROSEDM3AT)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Connector+:+Micro_SD_Card_Det_Hirose_DM3AT)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Connector+:+Micro_SD_Card_Det_Hirose_DM3AT)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Connector+:+Micro_SD_Card_Det_Hirose_DM3AT)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Connector+:+Micro_SD_Card_Det_Hirose_DM3AT)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Connector+:+Micro_SD_Card_Det_Hirose_DM3AT)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Connector+:+Micro_SD_Card_Det_Hirose_DM3AT)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/Micro_SD_Card_Det_Hirose_DM3AT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Micro_SD_Card_Det_Hirose_DM3AT/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/Micro_SD_Card_Det_Hirose_DM3AT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Micro_SD_Card_Det_Hirose_DM3AT/image.png)|||

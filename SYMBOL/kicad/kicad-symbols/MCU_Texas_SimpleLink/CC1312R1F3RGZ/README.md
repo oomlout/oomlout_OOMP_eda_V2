@@ -6,6 +6,8 @@ Contents
 ========
 
 * [SZKMCUTEXASSIMPLELINKCC1312R1F3RGZ > MCU_Texas_SimpleLink : CC1312R1F3RGZ](#szkmcutexassimplelinkcc1312r1f3rgz--mcu_texas_simplelink--cc1312r1f3rgz)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: MCU_Texas_SimpleLink : CC1312R1F3RGZ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Texas_SimpleLink-CC1312R1F3RGZ](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Texas_SimpleLink-CC1312R1F3RGZ)
 - Short Link: [http://oom.lt/SZKMCUTEXASSIMPLELINKCC1312R1F3RGZ](http://oom.lt/SZKMCUTEXASSIMPLELINKCC1312R1F3RGZ)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117MCU_Texas_SimpleLink+:+CC1312R1F3RGZ)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/MCU_Texas_SimpleLink+:+CC1312R1F3RGZ)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=MCU_Texas_SimpleLink+:+CC1312R1F3RGZ)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=MCU_Texas_SimpleLink+:+CC1312R1F3RGZ)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=MCU_Texas_SimpleLink+:+CC1312R1F3RGZ)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=MCU_Texas_SimpleLink+:+CC1312R1F3RGZ)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Texas_SimpleLink/CC1312R1F3RGZ/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Texas_SimpleLink/CC1312R1F3RGZ/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Texas_SimpleLink/CC1312R1F3RGZ/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Texas_SimpleLink/CC1312R1F3RGZ/image.png)|||

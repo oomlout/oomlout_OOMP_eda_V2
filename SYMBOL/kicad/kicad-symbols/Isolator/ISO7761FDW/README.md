@@ -6,6 +6,8 @@ Contents
 ========
 
 * [SZKISOLATORISO7761FDW > Isolator : ISO7761FDW](#szkisolatoriso7761fdw--isolator--iso7761fdw)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Isolator : ISO7761FDW
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-ISO7761FDW](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-ISO7761FDW)
 - Short Link: [http://oom.lt/SZKISOLATORISO7761FDW](http://oom.lt/SZKISOLATORISO7761FDW)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Isolator+:+ISO7761FDW)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Isolator+:+ISO7761FDW)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Isolator+:+ISO7761FDW)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Isolator+:+ISO7761FDW)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Isolator+:+ISO7761FDW)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Isolator+:+ISO7761FDW)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Isolator/ISO7761FDW/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Isolator/ISO7761FDW/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Isolator/ISO7761FDW/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Isolator/ISO7761FDW/image.png)|||

@@ -6,6 +6,8 @@ Contents
 ========
 
 * [SZKTRADT1517 > Transformer : ADT1.5-17](#szktradt1517--transformer--adt15-17)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Transformer : ADT1.5-17
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-ADT1.5-17](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-ADT1.5-17)
 - Short Link: [http://oom.lt/SZKTRADT1517](http://oom.lt/SZKTRADT1517)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Transformer+:+ADT1.5-17)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Transformer+:+ADT1.5-17)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Transformer+:+ADT1.5-17)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Transformer+:+ADT1.5-17)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Transformer+:+ADT1.5-17)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Transformer+:+ADT1.5-17)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transformer/ADT1.5-17/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transformer/ADT1.5-17/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transformer/ADT1.5-17/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transformer/ADT1.5-17/image.png)|||

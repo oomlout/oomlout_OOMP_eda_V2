@@ -6,6 +6,8 @@ Contents
 ========
 
 * [SZK74XXMC74LCX16245DT > 74xx : MC74LCX16245DT](#szk74xxmc74lcx16245dt--74xx--mc74lcx16245dt)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -17,6 +19,18 @@ NO IMAGE
 - Description: 74xx : MC74LCX16245DT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx-MC74LCX16245DT](http://oom.lt/SYMBOL-kicad-kicad-symbols-74xx-MC74LCX16245DT)
 - Short Link: [http://oom.lt/SZK74XXMC74LCX16245DT](http://oom.lt/SZK74XXMC74LCX16245DT)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=111774xx+:+MC74LCX16245DT)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/74xx+:+MC74LCX16245DT)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=74xx+:+MC74LCX16245DT)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=74xx+:+MC74LCX16245DT)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=74xx+:+MC74LCX16245DT)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=74xx+:+MC74LCX16245DT)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 NO IMAGES  
 ## Tags

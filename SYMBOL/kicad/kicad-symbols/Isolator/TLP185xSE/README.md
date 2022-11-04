@@ -6,6 +6,8 @@ Contents
 ========
 
 * [SZKISOLATORTLP185XSE > Isolator : TLP185xSE](#szkisolatortlp185xse--isolator--tlp185xse)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Isolator : TLP185xSE
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-TLP185xSE](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-TLP185xSE)
 - Short Link: [http://oom.lt/SZKISOLATORTLP185XSE](http://oom.lt/SZKISOLATORTLP185XSE)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Isolator+:+TLP185xSE)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Isolator+:+TLP185xSE)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Isolator+:+TLP185xSE)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Isolator+:+TLP185xSE)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Isolator+:+TLP185xSE)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Isolator+:+TLP185xSE)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Isolator/TLP185xSE/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Isolator/TLP185xSE/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Isolator/TLP185xSE/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Isolator/TLP185xSE/image.png)|||

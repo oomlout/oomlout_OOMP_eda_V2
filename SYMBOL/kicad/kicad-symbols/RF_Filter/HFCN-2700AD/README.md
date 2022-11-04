@@ -6,6 +6,8 @@ Contents
 ========
 
 * [SZKRFFILHFCN27AD > RF_Filter : HFCN-2700AD](#szkrffilhfcn27ad--rf_filter--hfcn-2700ad)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -17,6 +19,18 @@ NO IMAGE
 - Description: RF_Filter : HFCN-2700AD
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-HFCN-2700AD](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-HFCN-2700AD)
 - Short Link: [http://oom.lt/SZKRFFILHFCN27AD](http://oom.lt/SZKRFFILHFCN27AD)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117RF_Filter+:+HFCN-2700AD)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/RF_Filter+:+HFCN-2700AD)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=RF_Filter+:+HFCN-2700AD)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=RF_Filter+:+HFCN-2700AD)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=RF_Filter+:+HFCN-2700AD)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=RF_Filter+:+HFCN-2700AD)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 NO IMAGES  
 ## Tags

@@ -6,6 +6,8 @@ Contents
 ========
 
 * [SZKDIODESZESD9B5ST5G > Diode : SZESD9B5.0ST5G](#szkdiodeszesd9b5st5g--diode--szesd9b50st5g)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Diode : SZESD9B5.0ST5G
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-SZESD9B5.0ST5G](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-SZESD9B5.0ST5G)
 - Short Link: [http://oom.lt/SZKDIODESZESD9B5ST5G](http://oom.lt/SZKDIODESZESD9B5ST5G)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Diode+:+SZESD9B5.0ST5G)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Diode+:+SZESD9B5.0ST5G)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Diode+:+SZESD9B5.0ST5G)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Diode+:+SZESD9B5.0ST5G)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Diode+:+SZESD9B5.0ST5G)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Diode+:+SZESD9B5.0ST5G)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/SZESD9B5.0ST5G/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/SZESD9B5.0ST5G/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/SZESD9B5.0ST5G/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/SZESD9B5.0ST5G/image.png)|||

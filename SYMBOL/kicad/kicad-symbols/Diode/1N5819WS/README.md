@@ -6,6 +6,8 @@ Contents
 ========
 
 * [SZKDIODE1N5819WS > Diode : 1N5819WS](#szkdiode1n5819ws--diode--1n5819ws)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -17,6 +19,18 @@ NO IMAGE
 - Description: Diode : 1N5819WS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-1N5819WS](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-1N5819WS)
 - Short Link: [http://oom.lt/SZKDIODE1N5819WS](http://oom.lt/SZKDIODE1N5819WS)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Diode+:+1N5819WS)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Diode+:+1N5819WS)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Diode+:+1N5819WS)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Diode+:+1N5819WS)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Diode+:+1N5819WS)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Diode+:+1N5819WS)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 NO IMAGES  
 ## Tags

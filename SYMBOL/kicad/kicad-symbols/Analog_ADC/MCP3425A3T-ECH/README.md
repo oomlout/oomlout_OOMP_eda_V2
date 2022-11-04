@@ -6,6 +6,8 @@ Contents
 ========
 
 * [SZKANALOGADCMCP3425A3TECH > Analog_ADC : MCP3425A3T-ECH](#szkanalogadcmcp3425a3tech--analog_adc--mcp3425a3t-ech)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Analog_ADC : MCP3425A3T-ECH
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-MCP3425A3T-ECH](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-MCP3425A3T-ECH)
 - Short Link: [http://oom.lt/SZKANALOGADCMCP3425A3TECH](http://oom.lt/SZKANALOGADCMCP3425A3TECH)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Analog_ADC+:+MCP3425A3T-ECH)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Analog_ADC+:+MCP3425A3T-ECH)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Analog_ADC+:+MCP3425A3T-ECH)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Analog_ADC+:+MCP3425A3T-ECH)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Analog_ADC+:+MCP3425A3T-ECH)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Analog_ADC+:+MCP3425A3T-ECH)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/MCP3425A3T-ECH/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/MCP3425A3T-ECH/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/MCP3425A3T-ECH/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/MCP3425A3T-ECH/image.png)|||

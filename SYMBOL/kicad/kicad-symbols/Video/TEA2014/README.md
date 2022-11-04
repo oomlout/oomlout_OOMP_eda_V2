@@ -6,6 +6,8 @@ Contents
 ========
 
 * [SZKVIDEOTEA214 > Video : TEA2014](#szkvideotea214--video--tea2014)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Video : TEA2014
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Video-TEA2014](http://oom.lt/SYMBOL-kicad-kicad-symbols-Video-TEA2014)
 - Short Link: [http://oom.lt/SZKVIDEOTEA214](http://oom.lt/SZKVIDEOTEA214)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Video+:+TEA2014)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Video+:+TEA2014)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Video+:+TEA2014)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Video+:+TEA2014)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Video+:+TEA2014)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Video+:+TEA2014)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Video/TEA2014/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Video/TEA2014/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Video/TEA2014/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Video/TEA2014/image.png)|||

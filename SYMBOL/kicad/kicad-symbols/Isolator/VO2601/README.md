@@ -6,6 +6,8 @@ Contents
 ========
 
 * [SZKISOLATORVO261 > Isolator : VO2601](#szkisolatorvo261--isolator--vo2601)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Isolator : VO2601
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-VO2601](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-VO2601)
 - Short Link: [http://oom.lt/SZKISOLATORVO261](http://oom.lt/SZKISOLATORVO261)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Isolator+:+VO2601)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Isolator+:+VO2601)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Isolator+:+VO2601)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Isolator+:+VO2601)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Isolator+:+VO2601)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Isolator+:+VO2601)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Isolator/VO2601/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Isolator/VO2601/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Isolator/VO2601/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Isolator/VO2601/image.png)|||

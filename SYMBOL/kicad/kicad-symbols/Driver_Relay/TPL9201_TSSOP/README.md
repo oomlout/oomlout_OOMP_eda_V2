@@ -6,6 +6,8 @@ Contents
 ========
 
 * [SZKDRIVERRELAYTPL921TSS > Driver_Relay : TPL9201_TSSOP](#szkdriverrelaytpl921tss--driver_relay--tpl9201_tssop)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Driver_Relay : TPL9201_TSSOP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Relay-TPL9201_TSSOP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Relay-TPL9201_TSSOP)
 - Short Link: [http://oom.lt/SZKDRIVERRELAYTPL921TSS](http://oom.lt/SZKDRIVERRELAYTPL921TSS)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Driver_Relay+:+TPL9201_TSSOP)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Driver_Relay+:+TPL9201_TSSOP)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Driver_Relay+:+TPL9201_TSSOP)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Driver_Relay+:+TPL9201_TSSOP)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Driver_Relay+:+TPL9201_TSSOP)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Driver_Relay+:+TPL9201_TSSOP)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Driver_Relay/TPL9201_TSSOP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Driver_Relay/TPL9201_TSSOP/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Driver_Relay/TPL9201_TSSOP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Driver_Relay/TPL9201_TSSOP/image.png)|||

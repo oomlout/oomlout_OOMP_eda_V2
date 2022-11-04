@@ -6,6 +6,8 @@ Contents
 ========
 
 * [SZKINTERFACECDCLVP112RGT > Interface : CDCLVP1102RGT](#szkinterfacecdclvp112rgt--interface--cdclvp1102rgt)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Interface : CDCLVP1102RGT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-CDCLVP1102RGT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-CDCLVP1102RGT)
 - Short Link: [http://oom.lt/SZKINTERFACECDCLVP112RGT](http://oom.lt/SZKINTERFACECDCLVP112RGT)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Interface+:+CDCLVP1102RGT)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Interface+:+CDCLVP1102RGT)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Interface+:+CDCLVP1102RGT)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Interface+:+CDCLVP1102RGT)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Interface+:+CDCLVP1102RGT)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Interface+:+CDCLVP1102RGT)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface/CDCLVP1102RGT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface/CDCLVP1102RGT/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface/CDCLVP1102RGT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface/CDCLVP1102RGT/image.png)|||

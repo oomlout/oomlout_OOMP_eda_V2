@@ -6,6 +6,8 @@ Contents
 ========
 
 * [SZKANALOGADCMAX11126XTI > Analog_ADC : MAX11126xTI](#szkanalogadcmax11126xti--analog_adc--max11126xti)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Analog_ADC : MAX11126xTI
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-MAX11126xTI](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_ADC-MAX11126xTI)
 - Short Link: [http://oom.lt/SZKANALOGADCMAX11126XTI](http://oom.lt/SZKANALOGADCMAX11126XTI)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Analog_ADC+:+MAX11126xTI)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Analog_ADC+:+MAX11126xTI)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Analog_ADC+:+MAX11126xTI)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Analog_ADC+:+MAX11126xTI)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Analog_ADC+:+MAX11126xTI)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Analog_ADC+:+MAX11126xTI)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/MAX11126xTI/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/MAX11126xTI/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/MAX11126xTI/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_ADC/MAX11126xTI/image.png)|||

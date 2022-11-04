@@ -6,6 +6,8 @@ Contents
 ========
 
 * [SZKINTERFACEEXPANSIONMCP23S17ML > Interface_Expansion : MCP23S17_ML](#szkinterfaceexpansionmcp23s17ml--interface_expansion--mcp23s17_ml)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Interface_Expansion : MCP23S17_ML
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Expansion-MCP23S17_ML](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Expansion-MCP23S17_ML)
 - Short Link: [http://oom.lt/SZKINTERFACEEXPANSIONMCP23S17ML](http://oom.lt/SZKINTERFACEEXPANSIONMCP23S17ML)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Interface_Expansion+:+MCP23S17_ML)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Interface_Expansion+:+MCP23S17_ML)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Interface_Expansion+:+MCP23S17_ML)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Interface_Expansion+:+MCP23S17_ML)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Interface_Expansion+:+MCP23S17_ML)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Interface_Expansion+:+MCP23S17_ML)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_Expansion/MCP23S17_ML/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_Expansion/MCP23S17_ML/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_Expansion/MCP23S17_ML/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_Expansion/MCP23S17_ML/image.png)|||

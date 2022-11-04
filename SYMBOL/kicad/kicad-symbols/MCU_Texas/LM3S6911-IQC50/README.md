@@ -6,6 +6,8 @@ Contents
 ========
 
 * [SZKMCUTEXASLM3S6911IQC5 > MCU_Texas : LM3S6911-IQC50](#szkmcutexaslm3s6911iqc5--mcu_texas--lm3s6911-iqc50)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: MCU_Texas : LM3S6911-IQC50
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Texas-LM3S6911-IQC50](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Texas-LM3S6911-IQC50)
 - Short Link: [http://oom.lt/SZKMCUTEXASLM3S6911IQC5](http://oom.lt/SZKMCUTEXASLM3S6911IQC5)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117MCU_Texas+:+LM3S6911-IQC50)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/MCU_Texas+:+LM3S6911-IQC50)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=MCU_Texas+:+LM3S6911-IQC50)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=MCU_Texas+:+LM3S6911-IQC50)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=MCU_Texas+:+LM3S6911-IQC50)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=MCU_Texas+:+LM3S6911-IQC50)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Texas/LM3S6911-IQC50/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Texas/LM3S6911-IQC50/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Texas/LM3S6911-IQC50/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Texas/LM3S6911-IQC50/image.png)|||

@@ -6,6 +6,8 @@ Contents
 ========
 
 * [SZKPOWERSUPERVISORMAX691XWE > Power_Supervisor : MAX691xWE](#szkpowersupervisormax691xwe--power_supervisor--max691xwe)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Power_Supervisor : MAX691xWE
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Supervisor-MAX691xWE](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Supervisor-MAX691xWE)
 - Short Link: [http://oom.lt/SZKPOWERSUPERVISORMAX691XWE](http://oom.lt/SZKPOWERSUPERVISORMAX691XWE)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Power_Supervisor+:+MAX691xWE)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Power_Supervisor+:+MAX691xWE)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Power_Supervisor+:+MAX691xWE)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Power_Supervisor+:+MAX691xWE)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Power_Supervisor+:+MAX691xWE)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Power_Supervisor+:+MAX691xWE)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Power_Supervisor/MAX691xWE/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Power_Supervisor/MAX691xWE/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Power_Supervisor/MAX691xWE/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Power_Supervisor/MAX691xWE/image.png)|||

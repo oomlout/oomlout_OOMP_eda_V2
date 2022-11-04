@@ -1,23 +1,7 @@
 {
-    "code": [],
-    "collection": [],
-    "description": [],
-    "distributorPartNumber": [],
-    "eagleBoard": [],
-    "eagleSchem": [],
-    "footprintEagle": [],
-    "footprintEagleDetails": [],
-    "footprintKicad": [],
-    "footprintKicadDetails": [],
-    "gitName": [],
-    "gitRepo": [],
     "hexID": [
         "SZKINTERFACEPCA9615DP"
     ],
-    "kicadBoard": [],
-    "kicadSchem": [],
-    "manufacturerPartNumber": [],
-    "matchSpecial": [],
     "name": [
         "Interface : PCA9615DP"
     ],
@@ -31,11 +15,23 @@
         "": [
             "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface/PCA9615DP/"
         ],
+        "BASE": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface/PCA9615DP/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface/PCA9615DP/details.csv"
+        ],
         "details": [
             "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface/PCA9615DP/details.py"
         ],
         "jsonBasic": [
             "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface/PCA9615DP/basic.json"
+        ],
+        "jsonFull": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface/PCA9615DP/full.json"
+        ],
+        "readme": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Interface/PCA9615DP/README.md"
         ]
     },
     "oompID": [
@@ -44,19 +40,12 @@
     "oompIndex": [
         "PCA9615DP"
     ],
-    "oompInstances": [],
-    "oompParts": [],
     "oompSize": [
         "kicad"
     ],
     "oompType": [
         "SYMBOL"
     ],
-    "oplPartNumber": [],
-    "rawParts": [],
-    "symbolEagle": [],
-    "symbolEagleDetails": [],
-    "symbolKicad": [],
     "symbolKicadDetails": [
         [
             {

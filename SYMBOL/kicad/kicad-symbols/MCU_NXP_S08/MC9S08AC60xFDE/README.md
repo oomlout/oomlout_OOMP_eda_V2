@@ -6,6 +6,8 @@ Contents
 ========
 
 * [SZKMCUNXPS8MC9S8AC6XFDE > MCU_NXP_S08 : MC9S08AC60xFDE](#szkmcunxps8mc9s8ac6xfde--mcu_nxp_s08--mc9s08ac60xfde)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: MCU_NXP_S08 : MC9S08AC60xFDE
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_S08-MC9S08AC60xFDE](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_NXP_S08-MC9S08AC60xFDE)
 - Short Link: [http://oom.lt/SZKMCUNXPS8MC9S8AC6XFDE](http://oom.lt/SZKMCUNXPS8MC9S8AC6XFDE)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117MCU_NXP_S08+:+MC9S08AC60xFDE)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/MCU_NXP_S08+:+MC9S08AC60xFDE)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=MCU_NXP_S08+:+MC9S08AC60xFDE)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=MCU_NXP_S08+:+MC9S08AC60xFDE)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=MCU_NXP_S08+:+MC9S08AC60xFDE)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=MCU_NXP_S08+:+MC9S08AC60xFDE)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_S08/MC9S08AC60xFDE/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_S08/MC9S08AC60xFDE/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_S08/MC9S08AC60xFDE/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_NXP_S08/MC9S08AC60xFDE/image.png)|||

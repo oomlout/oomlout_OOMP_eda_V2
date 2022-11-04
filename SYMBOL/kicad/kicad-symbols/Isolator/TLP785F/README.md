@@ -6,6 +6,8 @@ Contents
 ========
 
 * [SZKISOLATORTLP785F > Isolator : TLP785F](#szkisolatortlp785f--isolator--tlp785f)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Isolator : TLP785F
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-TLP785F](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-TLP785F)
 - Short Link: [http://oom.lt/SZKISOLATORTLP785F](http://oom.lt/SZKISOLATORTLP785F)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Isolator+:+TLP785F)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Isolator+:+TLP785F)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Isolator+:+TLP785F)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Isolator+:+TLP785F)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Isolator+:+TLP785F)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Isolator+:+TLP785F)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Isolator/TLP785F/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Isolator/TLP785F/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Isolator/TLP785F/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Isolator/TLP785F/image.png)|||

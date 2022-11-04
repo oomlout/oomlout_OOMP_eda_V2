@@ -6,6 +6,8 @@ Contents
 ========
 
 * [SZKRFFILLFCN24D > RF_Filter : LFCN-2400D](#szkrffillfcn24d--rf_filter--lfcn-2400d)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -17,6 +19,18 @@ NO IMAGE
 - Description: RF_Filter : LFCN-2400D
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-LFCN-2400D](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Filter-LFCN-2400D)
 - Short Link: [http://oom.lt/SZKRFFILLFCN24D](http://oom.lt/SZKRFFILLFCN24D)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117RF_Filter+:+LFCN-2400D)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/RF_Filter+:+LFCN-2400D)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=RF_Filter+:+LFCN-2400D)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=RF_Filter+:+LFCN-2400D)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=RF_Filter+:+LFCN-2400D)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=RF_Filter+:+LFCN-2400D)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 NO IMAGES  
 ## Tags

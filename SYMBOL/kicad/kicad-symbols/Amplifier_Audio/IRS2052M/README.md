@@ -6,6 +6,8 @@ Contents
 ========
 
 * [SZKAMPLIFIERAUDIOIRS252M > Amplifier_Audio : IRS2052M](#szkamplifieraudioirs252m--amplifier_audio--irs2052m)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Amplifier_Audio : IRS2052M
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-IRS2052M](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Audio-IRS2052M)
 - Short Link: [http://oom.lt/SZKAMPLIFIERAUDIOIRS252M](http://oom.lt/SZKAMPLIFIERAUDIOIRS252M)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Amplifier_Audio+:+IRS2052M)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Amplifier_Audio+:+IRS2052M)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Amplifier_Audio+:+IRS2052M)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Amplifier_Audio+:+IRS2052M)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Amplifier_Audio+:+IRS2052M)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Amplifier_Audio+:+IRS2052M)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Audio/IRS2052M/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Audio/IRS2052M/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Audio/IRS2052M/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Audio/IRS2052M/image.png)|||

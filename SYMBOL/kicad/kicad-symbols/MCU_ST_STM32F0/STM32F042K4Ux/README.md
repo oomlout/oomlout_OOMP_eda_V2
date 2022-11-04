@@ -6,6 +6,8 @@ Contents
 ========
 
 * [SZKMCUSTSTM32FSTM32F42K4UX > MCU_ST_STM32F0 : STM32F042K4Ux](#szkmcuststm32fstm32f42k4ux--mcu_st_stm32f0--stm32f042k4ux)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: MCU_ST_STM32F0 : STM32F042K4Ux
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F0-STM32F042K4Ux](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM32F0-STM32F042K4Ux)
 - Short Link: [http://oom.lt/SZKMCUSTSTM32FSTM32F42K4UX](http://oom.lt/SZKMCUSTSTM32FSTM32F42K4UX)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117MCU_ST_STM32F0+:+STM32F042K4Ux)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/MCU_ST_STM32F0+:+STM32F042K4Ux)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=MCU_ST_STM32F0+:+STM32F042K4Ux)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=MCU_ST_STM32F0+:+STM32F042K4Ux)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=MCU_ST_STM32F0+:+STM32F042K4Ux)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=MCU_ST_STM32F0+:+STM32F042K4Ux)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F0/STM32F042K4Ux/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F0/STM32F042K4Ux/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F0/STM32F042K4Ux/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM32F0/STM32F042K4Ux/image.png)|||

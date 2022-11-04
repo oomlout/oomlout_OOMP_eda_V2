@@ -6,6 +6,8 @@ Contents
 ========
 
 * [SZKTIMERMN312 > Timer : MN3102](#szktimermn312--timer--mn3102)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Timer : MN3102
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer-MN3102](http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer-MN3102)
 - Short Link: [http://oom.lt/SZKTIMERMN312](http://oom.lt/SZKTIMERMN312)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Timer+:+MN3102)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Timer+:+MN3102)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Timer+:+MN3102)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Timer+:+MN3102)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Timer+:+MN3102)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Timer+:+MN3102)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Timer/MN3102/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Timer/MN3102/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Timer/MN3102/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Timer/MN3102/image.png)|||

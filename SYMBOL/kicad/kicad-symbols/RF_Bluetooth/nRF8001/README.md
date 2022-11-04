@@ -6,6 +6,8 @@ Contents
 ========
 
 * [SZKRFBLUETOOTHNRF81 > RF_Bluetooth : nRF8001](#szkrfbluetoothnrf81--rf_bluetooth--nrf8001)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -17,6 +19,18 @@ NO IMAGE
 - Description: RF_Bluetooth : nRF8001
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Bluetooth-nRF8001](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Bluetooth-nRF8001)
 - Short Link: [http://oom.lt/SZKRFBLUETOOTHNRF81](http://oom.lt/SZKRFBLUETOOTHNRF81)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117RF_Bluetooth+:+nRF8001)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/RF_Bluetooth+:+nRF8001)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=RF_Bluetooth+:+nRF8001)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=RF_Bluetooth+:+nRF8001)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=RF_Bluetooth+:+nRF8001)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=RF_Bluetooth+:+nRF8001)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 NO IMAGES  
 ## Tags

@@ -6,6 +6,8 @@ Contents
 ========
 
 * [SZKCNGENERICSHEDCONN2X29ROWLETTERLASTSHED > Connector_Generic_Shielded : Conn_02x29_Row_Letter_Last_Shielded](#szkcngenericshedconn2x29rowletterlastshed--connector_generic_shielded--conn_02x29_row_letter_last_shielded)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Connector_Generic_Shielded : Conn_02x29_Row_Letter_Last_Shielded
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector_Generic_Shielded-Conn_02x29_Row_Letter_Last_Shielded](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector_Generic_Shielded-Conn_02x29_Row_Letter_Last_Shielded)
 - Short Link: [http://oom.lt/SZKCNGENERICSHEDCONN2X29ROWLETTERLASTSHED](http://oom.lt/SZKCNGENERICSHEDCONN2X29ROWLETTERLASTSHED)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Connector_Generic_Shielded+:+Conn_02x29_Row_Letter_Last_Shielded)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Connector_Generic_Shielded+:+Conn_02x29_Row_Letter_Last_Shielded)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Connector_Generic_Shielded+:+Conn_02x29_Row_Letter_Last_Shielded)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Connector_Generic_Shielded+:+Conn_02x29_Row_Letter_Last_Shielded)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Connector_Generic_Shielded+:+Conn_02x29_Row_Letter_Last_Shielded)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Connector_Generic_Shielded+:+Conn_02x29_Row_Letter_Last_Shielded)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector_Generic_Shielded/Conn_02x29_Row_Letter_Last_Shielded/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic_Shielded/Conn_02x29_Row_Letter_Last_Shielded/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector_Generic_Shielded/Conn_02x29_Row_Letter_Last_Shielded/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic_Shielded/Conn_02x29_Row_Letter_Last_Shielded/image.png)|||

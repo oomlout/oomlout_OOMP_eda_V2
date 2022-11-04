@@ -6,6 +6,8 @@ Contents
 ========
 
 * [SZKTRANSISTORFETPGA26E19BA > Transistor_FET : PGA26E19BA](#szktransistorfetpga26e19ba--transistor_fet--pga26e19ba)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Transistor_FET : PGA26E19BA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-PGA26E19BA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-PGA26E19BA)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETPGA26E19BA](http://oom.lt/SZKTRANSISTORFETPGA26E19BA)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Transistor_FET+:+PGA26E19BA)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Transistor_FET+:+PGA26E19BA)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Transistor_FET+:+PGA26E19BA)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Transistor_FET+:+PGA26E19BA)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Transistor_FET+:+PGA26E19BA)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Transistor_FET+:+PGA26E19BA)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/PGA26E19BA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/PGA26E19BA/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/PGA26E19BA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/PGA26E19BA/image.png)|||

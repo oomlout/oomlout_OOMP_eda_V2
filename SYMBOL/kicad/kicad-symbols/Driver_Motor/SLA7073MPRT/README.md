@@ -6,6 +6,8 @@ Contents
 ========
 
 * [SZKDRIVERMOTORSLA773MPRT > Driver_Motor : SLA7073MPRT](#szkdrivermotorsla773mprt--driver_motor--sla7073mprt)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Driver_Motor : SLA7073MPRT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Motor-SLA7073MPRT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Motor-SLA7073MPRT)
 - Short Link: [http://oom.lt/SZKDRIVERMOTORSLA773MPRT](http://oom.lt/SZKDRIVERMOTORSLA773MPRT)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Driver_Motor+:+SLA7073MPRT)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Driver_Motor+:+SLA7073MPRT)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Driver_Motor+:+SLA7073MPRT)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Driver_Motor+:+SLA7073MPRT)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Driver_Motor+:+SLA7073MPRT)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Driver_Motor+:+SLA7073MPRT)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Driver_Motor/SLA7073MPRT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Driver_Motor/SLA7073MPRT/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Driver_Motor/SLA7073MPRT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Driver_Motor/SLA7073MPRT/image.png)|||

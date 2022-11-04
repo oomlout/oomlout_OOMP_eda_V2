@@ -6,6 +6,8 @@ Contents
 ========
 
 * [SZKVIDEOADV728XCP > Video : ADV7280xCP](#szkvideoadv728xcp--video--adv7280xcp)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Video : ADV7280xCP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Video-ADV7280xCP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Video-ADV7280xCP)
 - Short Link: [http://oom.lt/SZKVIDEOADV728XCP](http://oom.lt/SZKVIDEOADV728XCP)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Video+:+ADV7280xCP)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Video+:+ADV7280xCP)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Video+:+ADV7280xCP)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Video+:+ADV7280xCP)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Video+:+ADV7280xCP)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Video+:+ADV7280xCP)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Video/ADV7280xCP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Video/ADV7280xCP/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Video/ADV7280xCP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Video/ADV7280xCP/image.png)|||

@@ -6,6 +6,8 @@ Contents
 ========
 
 * [SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICRESE63XO4731R6O473C25819 > oomlout_OOMP_JLCC_Basic : RESE-0603-X-O473-01-R6O473-C25819](#szkicadoomloutoompkicadoomloutoompjlccbasicrese63xo4731r6o473c25819--oomlout_oomp_jlcc_basic--rese-0603-x-o473-01-r6o473-c25819)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -17,6 +19,18 @@ NO IMAGE
 - Description: oomlout_OOMP_JLCC_Basic : RESE-0603-X-O473-01-R6O473-C25819
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-0603-X-O473-01-R6O473-C25819](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-RESE-0603-X-O473-01-R6O473-C25819)
 - Short Link: [http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICRESE63XO4731R6O473C25819](http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICRESE63XO4731R6O473C25819)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117oomlout_OOMP_JLCC_Basic+:+RESE-0603-X-O473-01-R6O473-C25819)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/oomlout_OOMP_JLCC_Basic+:+RESE-0603-X-O473-01-R6O473-C25819)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=oomlout_OOMP_JLCC_Basic+:+RESE-0603-X-O473-01-R6O473-C25819)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=oomlout_OOMP_JLCC_Basic+:+RESE-0603-X-O473-01-R6O473-C25819)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=oomlout_OOMP_JLCC_Basic+:+RESE-0603-X-O473-01-R6O473-C25819)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=oomlout_OOMP_JLCC_Basic+:+RESE-0603-X-O473-01-R6O473-C25819)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 NO IMAGES  
 ## Tags

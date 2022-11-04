@@ -6,6 +6,8 @@ Contents
 ========
 
 * [SZKBATMANAGEMENTLC7923FQH3TWG > Battery_Management : LC709203FQH-03TWG](#szkbatmanagementlc7923fqh3twg--battery_management--lc709203fqh-03twg)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Battery_Management : LC709203FQH-03TWG
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-LC709203FQH-03TWG](http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-LC709203FQH-03TWG)
 - Short Link: [http://oom.lt/SZKBATMANAGEMENTLC7923FQH3TWG](http://oom.lt/SZKBATMANAGEMENTLC7923FQH3TWG)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Battery_Management+:+LC709203FQH-03TWG)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Battery_Management+:+LC709203FQH-03TWG)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Battery_Management+:+LC709203FQH-03TWG)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Battery_Management+:+LC709203FQH-03TWG)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Battery_Management+:+LC709203FQH-03TWG)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Battery_Management+:+LC709203FQH-03TWG)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Battery_Management/LC709203FQH-03TWG/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Battery_Management/LC709203FQH-03TWG/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Battery_Management/LC709203FQH-03TWG/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Battery_Management/LC709203FQH-03TWG/image.png)|||

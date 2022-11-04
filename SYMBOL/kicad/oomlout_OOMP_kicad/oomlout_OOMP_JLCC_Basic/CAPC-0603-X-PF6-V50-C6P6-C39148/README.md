@@ -6,6 +6,8 @@ Contents
 ========
 
 * [SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICCAPC63XPF6V5C6P6C39148 > oomlout_OOMP_JLCC_Basic : CAPC-0603-X-PF6-V50-C6P6-C39148](#szkicadoomloutoompkicadoomloutoompjlccbasiccapc63xpf6v5c6p6c39148--oomlout_oomp_jlcc_basic--capc-0603-x-pf6-v50-c6p6-c39148)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -17,6 +19,18 @@ NO IMAGE
 - Description: oomlout_OOMP_JLCC_Basic : CAPC-0603-X-PF6-V50-C6P6-C39148
 - Long Link: [http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0603-X-PF6-V50-C6P6-C39148](http://oom.lt/SYMBOL-kicad-oomlout_OOMP_kicad-oomlout_OOMP_JLCC_Basic-CAPC-0603-X-PF6-V50-C6P6-C39148)
 - Short Link: [http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICCAPC63XPF6V5C6P6C39148](http://oom.lt/SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICCAPC63XPF6V5C6P6C39148)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117oomlout_OOMP_JLCC_Basic+:+CAPC-0603-X-PF6-V50-C6P6-C39148)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/oomlout_OOMP_JLCC_Basic+:+CAPC-0603-X-PF6-V50-C6P6-C39148)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=oomlout_OOMP_JLCC_Basic+:+CAPC-0603-X-PF6-V50-C6P6-C39148)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=oomlout_OOMP_JLCC_Basic+:+CAPC-0603-X-PF6-V50-C6P6-C39148)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=oomlout_OOMP_JLCC_Basic+:+CAPC-0603-X-PF6-V50-C6P6-C39148)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=oomlout_OOMP_JLCC_Basic+:+CAPC-0603-X-PF6-V50-C6P6-C39148)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 NO IMAGES  
 ## Tags

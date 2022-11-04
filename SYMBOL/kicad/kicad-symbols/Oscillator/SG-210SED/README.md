@@ -6,6 +6,8 @@ Contents
 ========
 
 * [SZKOCSSG21SED > Oscillator : SG-210SED](#szkocssg21sed--oscillator--sg-210sed)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Oscillator : SG-210SED
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-SG-210SED](http://oom.lt/SYMBOL-kicad-kicad-symbols-Oscillator-SG-210SED)
 - Short Link: [http://oom.lt/SZKOCSSG21SED](http://oom.lt/SZKOCSSG21SED)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Oscillator+:+SG-210SED)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Oscillator+:+SG-210SED)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Oscillator+:+SG-210SED)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Oscillator+:+SG-210SED)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Oscillator+:+SG-210SED)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Oscillator+:+SG-210SED)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Oscillator/SG-210SED/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Oscillator/SG-210SED/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Oscillator/SG-210SED/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Oscillator/SG-210SED/image.png)|||

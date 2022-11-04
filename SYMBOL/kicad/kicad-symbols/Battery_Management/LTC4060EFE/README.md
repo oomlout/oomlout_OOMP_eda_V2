@@ -6,6 +6,8 @@ Contents
 ========
 
 * [SZKBATMANAGEMENTLTC46EFE > Battery_Management : LTC4060EFE](#szkbatmanagementltc46efe--battery_management--ltc4060efe)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Battery_Management : LTC4060EFE
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-LTC4060EFE](http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-LTC4060EFE)
 - Short Link: [http://oom.lt/SZKBATMANAGEMENTLTC46EFE](http://oom.lt/SZKBATMANAGEMENTLTC46EFE)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Battery_Management+:+LTC4060EFE)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Battery_Management+:+LTC4060EFE)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Battery_Management+:+LTC4060EFE)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Battery_Management+:+LTC4060EFE)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Battery_Management+:+LTC4060EFE)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Battery_Management+:+LTC4060EFE)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Battery_Management/LTC4060EFE/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Battery_Management/LTC4060EFE/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Battery_Management/LTC4060EFE/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Battery_Management/LTC4060EFE/image.png)|||

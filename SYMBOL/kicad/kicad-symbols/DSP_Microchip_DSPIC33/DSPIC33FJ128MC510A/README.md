@@ -6,6 +6,8 @@ Contents
 ========
 
 * [SZKDSPMCHIPDSPIC33DSPIC33FJ128MC51A > DSP_Microchip_DSPIC33 : DSPIC33FJ128MC510A](#szkdspmchipdspic33dspic33fj128mc51a--dsp_microchip_dspic33--dspic33fj128mc510a)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: DSP_Microchip_DSPIC33 : DSPIC33FJ128MC510A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-DSP_Microchip_DSPIC33-DSPIC33FJ128MC510A](http://oom.lt/SYMBOL-kicad-kicad-symbols-DSP_Microchip_DSPIC33-DSPIC33FJ128MC510A)
 - Short Link: [http://oom.lt/SZKDSPMCHIPDSPIC33DSPIC33FJ128MC51A](http://oom.lt/SZKDSPMCHIPDSPIC33DSPIC33FJ128MC51A)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117DSP_Microchip_DSPIC33+:+DSPIC33FJ128MC510A)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/DSP_Microchip_DSPIC33+:+DSPIC33FJ128MC510A)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=DSP_Microchip_DSPIC33+:+DSPIC33FJ128MC510A)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=DSP_Microchip_DSPIC33+:+DSPIC33FJ128MC510A)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=DSP_Microchip_DSPIC33+:+DSPIC33FJ128MC510A)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=DSP_Microchip_DSPIC33+:+DSPIC33FJ128MC510A)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/DSP_Microchip_DSPIC33/DSPIC33FJ128MC510A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/DSP_Microchip_DSPIC33/DSPIC33FJ128MC510A/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/DSP_Microchip_DSPIC33/DSPIC33FJ128MC510A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/DSP_Microchip_DSPIC33/DSPIC33FJ128MC510A/image.png)|||

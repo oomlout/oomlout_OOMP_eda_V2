@@ -6,6 +6,8 @@ Contents
 ========
 
 * [SZKMCUMCHIPPIC12PIC12C58AIJW > MCU_Microchip_PIC12 : PIC12C508A-IJW](#szkmcumchippic12pic12c58aijw--mcu_microchip_pic12--pic12c508a-ijw)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: MCU_Microchip_PIC12 : PIC12C508A-IJW
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC12-PIC12C508A-IJW](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC12-PIC12C508A-IJW)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC12PIC12C58AIJW](http://oom.lt/SZKMCUMCHIPPIC12PIC12C58AIJW)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117MCU_Microchip_PIC12+:+PIC12C508A-IJW)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/MCU_Microchip_PIC12+:+PIC12C508A-IJW)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=MCU_Microchip_PIC12+:+PIC12C508A-IJW)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=MCU_Microchip_PIC12+:+PIC12C508A-IJW)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=MCU_Microchip_PIC12+:+PIC12C508A-IJW)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=MCU_Microchip_PIC12+:+PIC12C508A-IJW)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC12/PIC12C508A-IJW/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC12/PIC12C508A-IJW/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC12/PIC12C508A-IJW/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC12/PIC12C508A-IJW/image.png)|||

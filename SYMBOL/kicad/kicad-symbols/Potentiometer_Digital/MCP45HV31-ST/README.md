@@ -6,6 +6,8 @@ Contents
 ========
 
 * [SZKPOTENTIOMETERDIGITALMCP45HV31ST > Potentiometer_Digital : MCP45HV31-ST](#szkpotentiometerdigitalmcp45hv31st--potentiometer_digital--mcp45hv31-st)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Potentiometer_Digital : MCP45HV31-ST
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Potentiometer_Digital-MCP45HV31-ST](http://oom.lt/SYMBOL-kicad-kicad-symbols-Potentiometer_Digital-MCP45HV31-ST)
 - Short Link: [http://oom.lt/SZKPOTENTIOMETERDIGITALMCP45HV31ST](http://oom.lt/SZKPOTENTIOMETERDIGITALMCP45HV31ST)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Potentiometer_Digital+:+MCP45HV31-ST)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Potentiometer_Digital+:+MCP45HV31-ST)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Potentiometer_Digital+:+MCP45HV31-ST)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Potentiometer_Digital+:+MCP45HV31-ST)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Potentiometer_Digital+:+MCP45HV31-ST)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Potentiometer_Digital+:+MCP45HV31-ST)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Potentiometer_Digital/MCP45HV31-ST/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Potentiometer_Digital/MCP45HV31-ST/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Potentiometer_Digital/MCP45HV31-ST/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Potentiometer_Digital/MCP45HV31-ST/image.png)|||

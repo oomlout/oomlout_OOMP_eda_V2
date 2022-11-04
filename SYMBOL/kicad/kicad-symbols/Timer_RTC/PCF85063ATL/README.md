@@ -6,6 +6,8 @@ Contents
 ========
 
 * [SZKTIMERRTCPCF8563ATL > Timer_RTC : PCF85063ATL](#szktimerrtcpcf8563atl--timer_rtc--pcf85063atl)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Timer_RTC : PCF85063ATL
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer_RTC-PCF85063ATL](http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer_RTC-PCF85063ATL)
 - Short Link: [http://oom.lt/SZKTIMERRTCPCF8563ATL](http://oom.lt/SZKTIMERRTCPCF8563ATL)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Timer_RTC+:+PCF85063ATL)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Timer_RTC+:+PCF85063ATL)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Timer_RTC+:+PCF85063ATL)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Timer_RTC+:+PCF85063ATL)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Timer_RTC+:+PCF85063ATL)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Timer_RTC+:+PCF85063ATL)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Timer_RTC/PCF85063ATL/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Timer_RTC/PCF85063ATL/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Timer_RTC/PCF85063ATL/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Timer_RTC/PCF85063ATL/image.png)|||

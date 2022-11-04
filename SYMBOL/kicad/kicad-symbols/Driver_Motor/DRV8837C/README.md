@@ -6,6 +6,8 @@ Contents
 ========
 
 * [SZKDRIVERMOTORDRV8837C > Driver_Motor : DRV8837C](#szkdrivermotordrv8837c--driver_motor--drv8837c)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Driver_Motor : DRV8837C
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Motor-DRV8837C](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_Motor-DRV8837C)
 - Short Link: [http://oom.lt/SZKDRIVERMOTORDRV8837C](http://oom.lt/SZKDRIVERMOTORDRV8837C)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Driver_Motor+:+DRV8837C)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Driver_Motor+:+DRV8837C)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Driver_Motor+:+DRV8837C)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Driver_Motor+:+DRV8837C)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Driver_Motor+:+DRV8837C)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Driver_Motor+:+DRV8837C)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Driver_Motor/DRV8837C/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Driver_Motor/DRV8837C/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Driver_Motor/DRV8837C/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Driver_Motor/DRV8837C/image.png)|||

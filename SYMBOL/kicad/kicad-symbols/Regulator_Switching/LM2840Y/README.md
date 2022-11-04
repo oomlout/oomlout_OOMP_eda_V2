@@ -6,6 +6,8 @@ Contents
 ========
 
 * [SZKREGULATORSWITCHINGLM284Y > Regulator_Switching : LM2840Y](#szkregulatorswitchinglm284y--regulator_switching--lm2840y)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Regulator_Switching : LM2840Y
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM2840Y](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-LM2840Y)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGLM284Y](http://oom.lt/SZKREGULATORSWITCHINGLM284Y)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Regulator_Switching+:+LM2840Y)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Regulator_Switching+:+LM2840Y)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Regulator_Switching+:+LM2840Y)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Regulator_Switching+:+LM2840Y)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Regulator_Switching+:+LM2840Y)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Regulator_Switching+:+LM2840Y)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LM2840Y/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LM2840Y/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LM2840Y/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/LM2840Y/image.png)|||

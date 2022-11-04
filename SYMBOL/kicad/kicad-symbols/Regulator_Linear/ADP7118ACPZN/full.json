@@ -1,23 +1,7 @@
 {
-    "code": [],
-    "collection": [],
-    "description": [],
-    "distributorPartNumber": [],
-    "eagleBoard": [],
-    "eagleSchem": [],
-    "footprintEagle": [],
-    "footprintEagleDetails": [],
-    "footprintKicad": [],
-    "footprintKicadDetails": [],
-    "gitName": [],
-    "gitRepo": [],
     "hexID": [
         "SZKREGULATORLINEARADP7118ACPZN"
     ],
-    "kicadBoard": [],
-    "kicadSchem": [],
-    "manufacturerPartNumber": [],
-    "matchSpecial": [],
     "name": [
         "Regulator_Linear : ADP7118ACPZN"
     ],
@@ -31,11 +15,20 @@
         "": [
             "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/ADP7118ACPZN/"
         ],
+        "BASE": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/ADP7118ACPZN/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/ADP7118ACPZN/details.csv"
+        ],
         "details": [
             "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/ADP7118ACPZN/details.py"
         ],
         "jsonBasic": [
             "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/ADP7118ACPZN/basic.json"
+        ],
+        "jsonFull": [
+            "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/ADP7118ACPZN/full.json"
         ],
         "readme": [
             "oomlout_OOMP_eda_V2/SYMBOL/kicad/kicad-symbols/Regulator_Linear/ADP7118ACPZN/README.md"
@@ -47,19 +40,12 @@
     "oompIndex": [
         "ADP7118ACPZN"
     ],
-    "oompInstances": [],
-    "oompParts": [],
     "oompSize": [
         "kicad"
     ],
     "oompType": [
         "SYMBOL"
     ],
-    "oplPartNumber": [],
-    "rawParts": [],
-    "symbolEagle": [],
-    "symbolEagleDetails": [],
-    "symbolKicad": [],
     "symbolKicadDetails": [
         [
             {

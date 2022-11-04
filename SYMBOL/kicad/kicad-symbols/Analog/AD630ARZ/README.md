@@ -6,6 +6,8 @@ Contents
 ========
 
 * [SZKANALOGAD63ARZ > Analog : AD630ARZ](#szkanalogad63arz--analog--ad630arz)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Analog : AD630ARZ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog-AD630ARZ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog-AD630ARZ)
 - Short Link: [http://oom.lt/SZKANALOGAD63ARZ](http://oom.lt/SZKANALOGAD63ARZ)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Analog+:+AD630ARZ)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Analog+:+AD630ARZ)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Analog+:+AD630ARZ)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Analog+:+AD630ARZ)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Analog+:+AD630ARZ)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Analog+:+AD630ARZ)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog/AD630ARZ/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog/AD630ARZ/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog/AD630ARZ/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog/AD630ARZ/image.png)|||

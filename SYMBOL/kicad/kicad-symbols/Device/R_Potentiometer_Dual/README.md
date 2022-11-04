@@ -6,6 +6,8 @@ Contents
 ========
 
 * [SZKDEVICERPOTENTIOMETERDUAL > Device : R_Potentiometer_Dual](#szkdevicerpotentiometerdual--device--r_potentiometer_dual)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Device : R_Potentiometer_Dual
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-R_Potentiometer_Dual](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-R_Potentiometer_Dual)
 - Short Link: [http://oom.lt/SZKDEVICERPOTENTIOMETERDUAL](http://oom.lt/SZKDEVICERPOTENTIOMETERDUAL)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Device+:+R_Potentiometer_Dual)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Device+:+R_Potentiometer_Dual)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Device+:+R_Potentiometer_Dual)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Device+:+R_Potentiometer_Dual)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Device+:+R_Potentiometer_Dual)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Device+:+R_Potentiometer_Dual)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/R_Potentiometer_Dual/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/R_Potentiometer_Dual/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/R_Potentiometer_Dual/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/R_Potentiometer_Dual/image.png)|||

@@ -6,6 +6,8 @@ Contents
 ========
 
 * [SZKDIODENSR34HT1G > Diode : NSR0340HT1G](#szkdiodensr34ht1g--diode--nsr0340ht1g)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Diode : NSR0340HT1G
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-NSR0340HT1G](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-NSR0340HT1G)
 - Short Link: [http://oom.lt/SZKDIODENSR34HT1G](http://oom.lt/SZKDIODENSR34HT1G)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Diode+:+NSR0340HT1G)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Diode+:+NSR0340HT1G)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Diode+:+NSR0340HT1G)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Diode+:+NSR0340HT1G)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Diode+:+NSR0340HT1G)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Diode+:+NSR0340HT1G)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/NSR0340HT1G/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/NSR0340HT1G/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/NSR0340HT1G/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/NSR0340HT1G/image.png)|||

@@ -6,6 +6,8 @@ Contents
 ========
 
 * [SZKRELAYSOLIDSTATE3481924 > Relay_SolidState : 34.81-9024](#szkrelaysolidstate3481924--relay_solidstate--3481-9024)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Relay_SolidState : 34.81-9024
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay_SolidState-34.81-9024](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay_SolidState-34.81-9024)
 - Short Link: [http://oom.lt/SZKRELAYSOLIDSTATE3481924](http://oom.lt/SZKRELAYSOLIDSTATE3481924)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Relay_SolidState+:+34.81-9024)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Relay_SolidState+:+34.81-9024)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Relay_SolidState+:+34.81-9024)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Relay_SolidState+:+34.81-9024)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Relay_SolidState+:+34.81-9024)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Relay_SolidState+:+34.81-9024)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Relay_SolidState/34.81-9024/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Relay_SolidState/34.81-9024/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Relay_SolidState/34.81-9024/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Relay_SolidState/34.81-9024/image.png)|||

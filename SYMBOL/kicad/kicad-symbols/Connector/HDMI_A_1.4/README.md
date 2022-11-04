@@ -6,6 +6,8 @@ Contents
 ========
 
 * [SZKCNHDMIA14 > Connector : HDMI_A_1.4](#szkcnhdmia14--connector--hdmi_a_14)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Connector : HDMI_A_1.4
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-HDMI_A_1.4](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-HDMI_A_1.4)
 - Short Link: [http://oom.lt/SZKCNHDMIA14](http://oom.lt/SZKCNHDMIA14)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Connector+:+HDMI_A_1.4)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Connector+:+HDMI_A_1.4)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Connector+:+HDMI_A_1.4)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Connector+:+HDMI_A_1.4)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Connector+:+HDMI_A_1.4)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Connector+:+HDMI_A_1.4)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/HDMI_A_1.4/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/HDMI_A_1.4/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/HDMI_A_1.4/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/HDMI_A_1.4/image.png)|||

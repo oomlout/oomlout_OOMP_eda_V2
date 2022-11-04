@@ -6,6 +6,8 @@ Contents
 ========
 
 * [SZKRFSWITCHMSW25 > RF_Switch : MSW2-50](#szkrfswitchmsw25--rf_switch--msw2-50)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -17,6 +19,18 @@ NO IMAGE
 - Description: RF_Switch : MSW2-50
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Switch-MSW2-50](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Switch-MSW2-50)
 - Short Link: [http://oom.lt/SZKRFSWITCHMSW25](http://oom.lt/SZKRFSWITCHMSW25)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117RF_Switch+:+MSW2-50)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/RF_Switch+:+MSW2-50)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=RF_Switch+:+MSW2-50)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=RF_Switch+:+MSW2-50)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=RF_Switch+:+MSW2-50)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=RF_Switch+:+MSW2-50)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 NO IMAGES  
 ## Tags

@@ -6,6 +6,8 @@ Contents
 ========
 
 * [SZKSENMAGNETICC5633NJL > Sensor_Magnetic : MMC5633NJL](#szksenmagneticc5633njl--sensor_magnetic--mmc5633njl)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Sensor_Magnetic : MMC5633NJL
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-MMC5633NJL](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Magnetic-MMC5633NJL)
 - Short Link: [http://oom.lt/SZKSENMAGNETICC5633NJL](http://oom.lt/SZKSENMAGNETICC5633NJL)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Sensor_Magnetic+:+MMC5633NJL)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Sensor_Magnetic+:+MMC5633NJL)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Sensor_Magnetic+:+MMC5633NJL)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Sensor_Magnetic+:+MMC5633NJL)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Sensor_Magnetic+:+MMC5633NJL)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Sensor_Magnetic+:+MMC5633NJL)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Magnetic/MMC5633NJL/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Magnetic/MMC5633NJL/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Magnetic/MMC5633NJL/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Magnetic/MMC5633NJL/image.png)|||

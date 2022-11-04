@@ -6,6 +6,8 @@ Contents
 ========
 
 * [SZKMCUMCHIPATMEGAATMEGA644P2A > MCU_Microchip_ATmega : ATmega644P-20A](#szkmcumchipatmegaatmega644p2a--mcu_microchip_atmega--atmega644p-20a)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: MCU_Microchip_ATmega : ATmega644P-20A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega644P-20A](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATmega-ATmega644P-20A)
 - Short Link: [http://oom.lt/SZKMCUMCHIPATMEGAATMEGA644P2A](http://oom.lt/SZKMCUMCHIPATMEGAATMEGA644P2A)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117MCU_Microchip_ATmega+:+ATmega644P-20A)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/MCU_Microchip_ATmega+:+ATmega644P-20A)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=MCU_Microchip_ATmega+:+ATmega644P-20A)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=MCU_Microchip_ATmega+:+ATmega644P-20A)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=MCU_Microchip_ATmega+:+ATmega644P-20A)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=MCU_Microchip_ATmega+:+ATmega644P-20A)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATmega/ATmega644P-20A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATmega/ATmega644P-20A/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATmega/ATmega644P-20A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATmega/ATmega644P-20A/image.png)|||

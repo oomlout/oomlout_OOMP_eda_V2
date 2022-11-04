@@ -6,6 +6,8 @@ Contents
 ========
 
 * [SZKRFMOC382M > RF : MOC3082M](#szkrfmoc382m--rf--moc3082m)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -17,6 +19,18 @@ NO IMAGE
 - Description: RF : MOC3082M
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF-MOC3082M](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF-MOC3082M)
 - Short Link: [http://oom.lt/SZKRFMOC382M](http://oom.lt/SZKRFMOC382M)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117RF+:+MOC3082M)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/RF+:+MOC3082M)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=RF+:+MOC3082M)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=RF+:+MOC3082M)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=RF+:+MOC3082M)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=RF+:+MOC3082M)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 NO IMAGES  
 ## Tags

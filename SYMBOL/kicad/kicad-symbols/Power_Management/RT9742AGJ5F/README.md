@@ -6,6 +6,8 @@ Contents
 ========
 
 * [SZKPOWERMANAGEMENTRT9742AGJ5F > Power_Management : RT9742AGJ5F](#szkpowermanagementrt9742agj5f--power_management--rt9742agj5f)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Power_Management : RT9742AGJ5F
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-RT9742AGJ5F](http://oom.lt/SYMBOL-kicad-kicad-symbols-Power_Management-RT9742AGJ5F)
 - Short Link: [http://oom.lt/SZKPOWERMANAGEMENTRT9742AGJ5F](http://oom.lt/SZKPOWERMANAGEMENTRT9742AGJ5F)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Power_Management+:+RT9742AGJ5F)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Power_Management+:+RT9742AGJ5F)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Power_Management+:+RT9742AGJ5F)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Power_Management+:+RT9742AGJ5F)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Power_Management+:+RT9742AGJ5F)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Power_Management+:+RT9742AGJ5F)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Power_Management/RT9742AGJ5F/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Power_Management/RT9742AGJ5F/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Power_Management/RT9742AGJ5F/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Power_Management/RT9742AGJ5F/image.png)|||

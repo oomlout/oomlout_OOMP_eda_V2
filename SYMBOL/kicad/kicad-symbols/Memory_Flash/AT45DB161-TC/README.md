@@ -6,6 +6,8 @@ Contents
 ========
 
 * [SZKMEMORYFLASHAT45DB161TC > Memory_Flash : AT45DB161-TC](#szkmemoryflashat45db161tc--memory_flash--at45db161-tc)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Memory_Flash : AT45DB161-TC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_Flash-AT45DB161-TC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_Flash-AT45DB161-TC)
 - Short Link: [http://oom.lt/SZKMEMORYFLASHAT45DB161TC](http://oom.lt/SZKMEMORYFLASHAT45DB161TC)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Memory_Flash+:+AT45DB161-TC)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Memory_Flash+:+AT45DB161-TC)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Memory_Flash+:+AT45DB161-TC)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Memory_Flash+:+AT45DB161-TC)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Memory_Flash+:+AT45DB161-TC)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Memory_Flash+:+AT45DB161-TC)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_Flash/AT45DB161-TC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_Flash/AT45DB161-TC/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_Flash/AT45DB161-TC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_Flash/AT45DB161-TC/image.png)|||

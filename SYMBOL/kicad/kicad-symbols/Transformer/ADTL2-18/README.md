@@ -6,6 +6,8 @@ Contents
 ========
 
 * [SZKTRADTL218 > Transformer : ADTL2-18](#szktradtl218--transformer--adtl2-18)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Transformer : ADTL2-18
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-ADTL2-18](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transformer-ADTL2-18)
 - Short Link: [http://oom.lt/SZKTRADTL218](http://oom.lt/SZKTRADTL218)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Transformer+:+ADTL2-18)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Transformer+:+ADTL2-18)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Transformer+:+ADTL2-18)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Transformer+:+ADTL2-18)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Transformer+:+ADTL2-18)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Transformer+:+ADTL2-18)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transformer/ADTL2-18/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transformer/ADTL2-18/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transformer/ADTL2-18/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transformer/ADTL2-18/image.png)|||

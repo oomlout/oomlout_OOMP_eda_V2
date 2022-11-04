@@ -6,6 +6,8 @@ Contents
 ========
 
 * [SZKGRAPHICLOPENHARDWAREL > Graphic : Logo_Open_Hardware_Large](#szkgraphiclopenhardwarel--graphic--logo_open_hardware_large)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Graphic : Logo_Open_Hardware_Large
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Graphic-Logo_Open_Hardware_Large](http://oom.lt/SYMBOL-kicad-kicad-symbols-Graphic-Logo_Open_Hardware_Large)
 - Short Link: [http://oom.lt/SZKGRAPHICLOPENHARDWAREL](http://oom.lt/SZKGRAPHICLOPENHARDWAREL)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Graphic+:+Logo_Open_Hardware_Large)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Graphic+:+Logo_Open_Hardware_Large)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Graphic+:+Logo_Open_Hardware_Large)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Graphic+:+Logo_Open_Hardware_Large)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Graphic+:+Logo_Open_Hardware_Large)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Graphic+:+Logo_Open_Hardware_Large)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Graphic/Logo_Open_Hardware_Large/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Graphic/Logo_Open_Hardware_Large/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Graphic/Logo_Open_Hardware_Large/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Graphic/Logo_Open_Hardware_Large/image.png)|||

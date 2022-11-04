@@ -6,6 +6,8 @@ Contents
 ========
 
 * [SZKBATMANAGEMENTMCP738325OT > Battery_Management : MCP73832-5-OT](#szkbatmanagementmcp738325ot--battery_management--mcp73832-5-ot)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Battery_Management : MCP73832-5-OT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-MCP73832-5-OT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-MCP73832-5-OT)
 - Short Link: [http://oom.lt/SZKBATMANAGEMENTMCP738325OT](http://oom.lt/SZKBATMANAGEMENTMCP738325OT)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Battery_Management+:+MCP73832-5-OT)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Battery_Management+:+MCP73832-5-OT)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Battery_Management+:+MCP73832-5-OT)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Battery_Management+:+MCP73832-5-OT)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Battery_Management+:+MCP73832-5-OT)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Battery_Management+:+MCP73832-5-OT)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Battery_Management/MCP73832-5-OT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Battery_Management/MCP73832-5-OT/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Battery_Management/MCP73832-5-OT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Battery_Management/MCP73832-5-OT/image.png)|||

@@ -6,6 +6,8 @@ Contents
 ========
 
 * [SZKAMPLIFIERBUFFERLM6321N > Amplifier_Buffer : LM6321N](#szkamplifierbufferlm6321n--amplifier_buffer--lm6321n)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Amplifier_Buffer : LM6321N
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Buffer-LM6321N](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Buffer-LM6321N)
 - Short Link: [http://oom.lt/SZKAMPLIFIERBUFFERLM6321N](http://oom.lt/SZKAMPLIFIERBUFFERLM6321N)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Amplifier_Buffer+:+LM6321N)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Amplifier_Buffer+:+LM6321N)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Amplifier_Buffer+:+LM6321N)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Amplifier_Buffer+:+LM6321N)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Amplifier_Buffer+:+LM6321N)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Amplifier_Buffer+:+LM6321N)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Buffer/LM6321N/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Buffer/LM6321N/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Buffer/LM6321N/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Buffer/LM6321N/image.png)|||

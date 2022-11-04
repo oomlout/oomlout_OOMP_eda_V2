@@ -6,6 +6,8 @@ Contents
 ========
 
 * [SZKLSFH4346 > LED : SFH4346](#szklsfh4346--led--sfh4346)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: LED : SFH4346
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-LED-SFH4346](http://oom.lt/SYMBOL-kicad-kicad-symbols-LED-SFH4346)
 - Short Link: [http://oom.lt/SZKLSFH4346](http://oom.lt/SZKLSFH4346)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117LED+:+SFH4346)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/LED+:+SFH4346)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=LED+:+SFH4346)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=LED+:+SFH4346)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=LED+:+SFH4346)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=LED+:+SFH4346)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/LED/SFH4346/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/LED/SFH4346/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/LED/SFH4346/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/LED/SFH4346/image.png)|||

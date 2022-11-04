@@ -6,6 +6,8 @@ Contents
 ========
 
 * [SZKTIMERLM555XN > Timer : LM555xN](#szktimerlm555xn--timer--lm555xn)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Timer : LM555xN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer-LM555xN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer-LM555xN)
 - Short Link: [http://oom.lt/SZKTIMERLM555XN](http://oom.lt/SZKTIMERLM555XN)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Timer+:+LM555xN)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Timer+:+LM555xN)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Timer+:+LM555xN)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Timer+:+LM555xN)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Timer+:+LM555xN)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Timer+:+LM555xN)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Timer/LM555xN/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Timer/LM555xN/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Timer/LM555xN/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Timer/LM555xN/image.png)|||

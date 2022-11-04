@@ -6,6 +6,8 @@ Contents
 ========
 
 * [SZKANALOGMLX932XFR > Analog : MLX90320xFR](#szkanalogmlx932xfr--analog--mlx90320xfr)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Analog : MLX90320xFR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog-MLX90320xFR](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog-MLX90320xFR)
 - Short Link: [http://oom.lt/SZKANALOGMLX932XFR](http://oom.lt/SZKANALOGMLX932XFR)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Analog+:+MLX90320xFR)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Analog+:+MLX90320xFR)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Analog+:+MLX90320xFR)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Analog+:+MLX90320xFR)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Analog+:+MLX90320xFR)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Analog+:+MLX90320xFR)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog/MLX90320xFR/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog/MLX90320xFR/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog/MLX90320xFR/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog/MLX90320xFR/image.png)|||

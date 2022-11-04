@@ -6,6 +6,8 @@ Contents
 ========
 
 * [SZKANALOGDACAD7228ABP > Analog_DAC : AD7228ABP](#szkanalogdacad7228abp--analog_dac--ad7228abp)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Analog_DAC : AD7228ABP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-AD7228ABP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-AD7228ABP)
 - Short Link: [http://oom.lt/SZKANALOGDACAD7228ABP](http://oom.lt/SZKANALOGDACAD7228ABP)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Analog_DAC+:+AD7228ABP)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Analog_DAC+:+AD7228ABP)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Analog_DAC+:+AD7228ABP)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Analog_DAC+:+AD7228ABP)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Analog_DAC+:+AD7228ABP)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Analog_DAC+:+AD7228ABP)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_DAC/AD7228ABP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_DAC/AD7228ABP/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_DAC/AD7228ABP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_DAC/AD7228ABP/image.png)|||

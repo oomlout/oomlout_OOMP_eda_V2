@@ -6,6 +6,8 @@ Contents
 ========
 
 * [SZKCNCOAXIALSWITCHTP > Connector : CoaxialSwitch_Testpoint](#szkcncoaxialswitchtp--connector--coaxialswitch_testpoint)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Connector : CoaxialSwitch_Testpoint
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-CoaxialSwitch_Testpoint](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-CoaxialSwitch_Testpoint)
 - Short Link: [http://oom.lt/SZKCNCOAXIALSWITCHTP](http://oom.lt/SZKCNCOAXIALSWITCHTP)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Connector+:+CoaxialSwitch_Testpoint)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Connector+:+CoaxialSwitch_Testpoint)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Connector+:+CoaxialSwitch_Testpoint)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Connector+:+CoaxialSwitch_Testpoint)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Connector+:+CoaxialSwitch_Testpoint)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Connector+:+CoaxialSwitch_Testpoint)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/CoaxialSwitch_Testpoint/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/CoaxialSwitch_Testpoint/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/CoaxialSwitch_Testpoint/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/CoaxialSwitch_Testpoint/image.png)|||

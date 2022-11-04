@@ -6,6 +6,8 @@ Contents
 ========
 
 * [SZKREGULATORLINEARMCP1754S52XCB > Regulator_Linear : MCP1754S-5002xCB](#szkregulatorlinearmcp1754s52xcb--regulator_linear--mcp1754s-5002xcb)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Regulator_Linear : MCP1754S-5002xCB
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-MCP1754S-5002xCB](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-MCP1754S-5002xCB)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARMCP1754S52XCB](http://oom.lt/SZKREGULATORLINEARMCP1754S52XCB)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Regulator_Linear+:+MCP1754S-5002xCB)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Regulator_Linear+:+MCP1754S-5002xCB)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Regulator_Linear+:+MCP1754S-5002xCB)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Regulator_Linear+:+MCP1754S-5002xCB)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Regulator_Linear+:+MCP1754S-5002xCB)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Regulator_Linear+:+MCP1754S-5002xCB)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/MCP1754S-5002xCB/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/MCP1754S-5002xCB/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/MCP1754S-5002xCB/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/MCP1754S-5002xCB/image.png)|||

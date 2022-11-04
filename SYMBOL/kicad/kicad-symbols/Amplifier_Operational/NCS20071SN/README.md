@@ -6,6 +6,8 @@ Contents
 ========
 
 * [SZKAMPLIFIEROPERATIONALNCS271SN > Amplifier_Operational : NCS20071SN](#szkamplifieroperationalncs271sn--amplifier_operational--ncs20071sn)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Amplifier_Operational : NCS20071SN
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-NCS20071SN](http://oom.lt/SYMBOL-kicad-kicad-symbols-Amplifier_Operational-NCS20071SN)
 - Short Link: [http://oom.lt/SZKAMPLIFIEROPERATIONALNCS271SN](http://oom.lt/SZKAMPLIFIEROPERATIONALNCS271SN)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Amplifier_Operational+:+NCS20071SN)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Amplifier_Operational+:+NCS20071SN)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Amplifier_Operational+:+NCS20071SN)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Amplifier_Operational+:+NCS20071SN)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Amplifier_Operational+:+NCS20071SN)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Amplifier_Operational+:+NCS20071SN)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/NCS20071SN/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/NCS20071SN/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/NCS20071SN/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Amplifier_Operational/NCS20071SN/image.png)|||

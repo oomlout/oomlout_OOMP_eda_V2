@@ -6,6 +6,8 @@ Contents
 ========
 
 * [SZKMCUSTSTM8STM8S3K3T > MCU_ST_STM8 : STM8S003K3T](#szkmcuststm8stm8s3k3t--mcu_st_stm8--stm8s003k3t)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: MCU_ST_STM8 : STM8S003K3T
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM8-STM8S003K3T](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_ST_STM8-STM8S003K3T)
 - Short Link: [http://oom.lt/SZKMCUSTSTM8STM8S3K3T](http://oom.lt/SZKMCUSTSTM8STM8S3K3T)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117MCU_ST_STM8+:+STM8S003K3T)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/MCU_ST_STM8+:+STM8S003K3T)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=MCU_ST_STM8+:+STM8S003K3T)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=MCU_ST_STM8+:+STM8S003K3T)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=MCU_ST_STM8+:+STM8S003K3T)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=MCU_ST_STM8+:+STM8S003K3T)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM8/STM8S003K3T/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM8/STM8S003K3T/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM8/STM8S003K3T/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_ST_STM8/STM8S003K3T/image.png)|||

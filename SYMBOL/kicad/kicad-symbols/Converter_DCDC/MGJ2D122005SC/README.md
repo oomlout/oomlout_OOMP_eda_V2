@@ -6,6 +6,8 @@ Contents
 ========
 
 * [SZKCONMGJ2D1225SC > Converter_DCDC : MGJ2D122005SC](#szkconmgj2d1225sc--converter_dcdc--mgj2d122005sc)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Converter_DCDC : MGJ2D122005SC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-MGJ2D122005SC](http://oom.lt/SYMBOL-kicad-kicad-symbols-Converter_DCDC-MGJ2D122005SC)
 - Short Link: [http://oom.lt/SZKCONMGJ2D1225SC](http://oom.lt/SZKCONMGJ2D1225SC)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Converter_DCDC+:+MGJ2D122005SC)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Converter_DCDC+:+MGJ2D122005SC)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Converter_DCDC+:+MGJ2D122005SC)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Converter_DCDC+:+MGJ2D122005SC)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Converter_DCDC+:+MGJ2D122005SC)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Converter_DCDC+:+MGJ2D122005SC)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Converter_DCDC/MGJ2D122005SC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Converter_DCDC/MGJ2D122005SC/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Converter_DCDC/MGJ2D122005SC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Converter_DCDC/MGJ2D122005SC/image.png)|||

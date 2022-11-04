@@ -6,6 +6,8 @@ Contents
 ========
 
 * [SZKSENADE7763XRS > Sensor : ADE7763xRS](#szksenade7763xrs--sensor--ade7763xrs)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Sensor : ADE7763xRS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor-ADE7763xRS](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor-ADE7763xRS)
 - Short Link: [http://oom.lt/SZKSENADE7763XRS](http://oom.lt/SZKSENADE7763XRS)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Sensor+:+ADE7763xRS)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Sensor+:+ADE7763xRS)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Sensor+:+ADE7763xRS)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Sensor+:+ADE7763xRS)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Sensor+:+ADE7763xRS)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Sensor+:+ADE7763xRS)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor/ADE7763xRS/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor/ADE7763xRS/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor/ADE7763xRS/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor/ADE7763xRS/image.png)|||

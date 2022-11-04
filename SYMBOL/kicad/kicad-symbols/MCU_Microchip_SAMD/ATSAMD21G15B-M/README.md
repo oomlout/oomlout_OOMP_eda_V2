@@ -6,6 +6,8 @@ Contents
 ========
 
 * [SZKMCUMCHIPSAMDATSAMD21G15BM > MCU_Microchip_SAMD : ATSAMD21G15B-M](#szkmcumchipsamdatsamd21g15bm--mcu_microchip_samd--atsamd21g15b-m)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: MCU_Microchip_SAMD : ATSAMD21G15B-M
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_SAMD-ATSAMD21G15B-M](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_SAMD-ATSAMD21G15B-M)
 - Short Link: [http://oom.lt/SZKMCUMCHIPSAMDATSAMD21G15BM](http://oom.lt/SZKMCUMCHIPSAMDATSAMD21G15BM)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117MCU_Microchip_SAMD+:+ATSAMD21G15B-M)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/MCU_Microchip_SAMD+:+ATSAMD21G15B-M)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=MCU_Microchip_SAMD+:+ATSAMD21G15B-M)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=MCU_Microchip_SAMD+:+ATSAMD21G15B-M)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=MCU_Microchip_SAMD+:+ATSAMD21G15B-M)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=MCU_Microchip_SAMD+:+ATSAMD21G15B-M)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_SAMD/ATSAMD21G15B-M/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_SAMD/ATSAMD21G15B-M/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_SAMD/ATSAMD21G15B-M/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_SAMD/ATSAMD21G15B-M/image.png)|||

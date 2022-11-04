@@ -6,6 +6,8 @@ Contents
 ========
 
 * [SZKCPLDXILINXXC95144XLTQ144 > CPLD_Xilinx : XC95144XL-TQ144](#szkcpldxilinxxc95144xltq144--cpld_xilinx--xc95144xl-tq144)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: CPLD_Xilinx : XC95144XL-TQ144
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-CPLD_Xilinx-XC95144XL-TQ144](http://oom.lt/SYMBOL-kicad-kicad-symbols-CPLD_Xilinx-XC95144XL-TQ144)
 - Short Link: [http://oom.lt/SZKCPLDXILINXXC95144XLTQ144](http://oom.lt/SZKCPLDXILINXXC95144XLTQ144)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117CPLD_Xilinx+:+XC95144XL-TQ144)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/CPLD_Xilinx+:+XC95144XL-TQ144)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=CPLD_Xilinx+:+XC95144XL-TQ144)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=CPLD_Xilinx+:+XC95144XL-TQ144)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=CPLD_Xilinx+:+XC95144XL-TQ144)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=CPLD_Xilinx+:+XC95144XL-TQ144)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/CPLD_Xilinx/XC95144XL-TQ144/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/CPLD_Xilinx/XC95144XL-TQ144/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/CPLD_Xilinx/XC95144XL-TQ144/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/CPLD_Xilinx/XC95144XL-TQ144/image.png)|||

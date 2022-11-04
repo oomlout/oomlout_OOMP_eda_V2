@@ -6,6 +6,8 @@ Contents
 ========
 
 * [SZKCNWUERTH74991121A > Connector : Wuerth_7499010121A](#szkcnwuerth74991121a--connector--wuerth_7499010121a)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Connector : Wuerth_7499010121A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-Wuerth_7499010121A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-Wuerth_7499010121A)
 - Short Link: [http://oom.lt/SZKCNWUERTH74991121A](http://oom.lt/SZKCNWUERTH74991121A)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Connector+:+Wuerth_7499010121A)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Connector+:+Wuerth_7499010121A)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Connector+:+Wuerth_7499010121A)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Connector+:+Wuerth_7499010121A)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Connector+:+Wuerth_7499010121A)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Connector+:+Wuerth_7499010121A)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/Wuerth_7499010121A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Wuerth_7499010121A/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/Wuerth_7499010121A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Wuerth_7499010121A/image.png)|||

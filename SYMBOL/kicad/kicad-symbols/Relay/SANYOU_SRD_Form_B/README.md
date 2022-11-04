@@ -6,6 +6,8 @@ Contents
 ========
 
 * [SZKRELAYSANYOUSRDFORMB > Relay : SANYOU_SRD_Form_B](#szkrelaysanyousrdformb--relay--sanyou_srd_form_b)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Relay : SANYOU_SRD_Form_B
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-SANYOU_SRD_Form_B](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-SANYOU_SRD_Form_B)
 - Short Link: [http://oom.lt/SZKRELAYSANYOUSRDFORMB](http://oom.lt/SZKRELAYSANYOUSRDFORMB)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Relay+:+SANYOU_SRD_Form_B)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Relay+:+SANYOU_SRD_Form_B)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Relay+:+SANYOU_SRD_Form_B)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Relay+:+SANYOU_SRD_Form_B)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Relay+:+SANYOU_SRD_Form_B)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Relay+:+SANYOU_SRD_Form_B)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Relay/SANYOU_SRD_Form_B/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Relay/SANYOU_SRD_Form_B/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Relay/SANYOU_SRD_Form_B/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Relay/SANYOU_SRD_Form_B/image.png)|||

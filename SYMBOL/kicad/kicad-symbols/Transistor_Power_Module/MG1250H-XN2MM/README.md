@@ -6,6 +6,8 @@ Contents
 ========
 
 * [SZKTRANSISTORPOWERMOMG125HXN2 > Transistor_Power_Module : MG1250H-XN2MM](#szktransistorpowermomg125hxn2--transistor_power_module--mg1250h-xn2mm)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Transistor_Power_Module : MG1250H-XN2MM
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_Power_Module-MG1250H-XN2MM](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_Power_Module-MG1250H-XN2MM)
 - Short Link: [http://oom.lt/SZKTRANSISTORPOWERMOMG125HXN2](http://oom.lt/SZKTRANSISTORPOWERMOMG125HXN2)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Transistor_Power_Module+:+MG1250H-XN2MM)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Transistor_Power_Module+:+MG1250H-XN2MM)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Transistor_Power_Module+:+MG1250H-XN2MM)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Transistor_Power_Module+:+MG1250H-XN2MM)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Transistor_Power_Module+:+MG1250H-XN2MM)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Transistor_Power_Module+:+MG1250H-XN2MM)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_Power_Module/MG1250H-XN2MM/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_Power_Module/MG1250H-XN2MM/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_Power_Module/MG1250H-XN2MM/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_Power_Module/MG1250H-XN2MM/image.png)|||

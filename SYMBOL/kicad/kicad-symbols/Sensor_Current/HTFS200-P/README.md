@@ -6,6 +6,8 @@ Contents
 ========
 
 * [SZKSENCURRENTHTFS2P > Sensor_Current : HTFS200-P](#szksencurrenthtfs2p--sensor_current--htfs200-p)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Sensor_Current : HTFS200-P
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-HTFS200-P](http://oom.lt/SYMBOL-kicad-kicad-symbols-Sensor_Current-HTFS200-P)
 - Short Link: [http://oom.lt/SZKSENCURRENTHTFS2P](http://oom.lt/SZKSENCURRENTHTFS2P)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Sensor_Current+:+HTFS200-P)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Sensor_Current+:+HTFS200-P)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Sensor_Current+:+HTFS200-P)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Sensor_Current+:+HTFS200-P)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Sensor_Current+:+HTFS200-P)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Sensor_Current+:+HTFS200-P)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/HTFS200-P/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/HTFS200-P/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/HTFS200-P/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Current/HTFS200-P/image.png)|||

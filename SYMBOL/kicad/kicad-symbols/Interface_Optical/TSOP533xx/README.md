@@ -6,6 +6,8 @@ Contents
 ========
 
 * [SZKINTERFACEOPTICALTS533XX > Interface_Optical : TSOP533xx](#szkinterfaceopticalts533xx--interface_optical--tsop533xx)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Interface_Optical : TSOP533xx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Optical-TSOP533xx](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface_Optical-TSOP533xx)
 - Short Link: [http://oom.lt/SZKINTERFACEOPTICALTS533XX](http://oom.lt/SZKINTERFACEOPTICALTS533XX)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Interface_Optical+:+TSOP533xx)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Interface_Optical+:+TSOP533xx)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Interface_Optical+:+TSOP533xx)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Interface_Optical+:+TSOP533xx)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Interface_Optical+:+TSOP533xx)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Interface_Optical+:+TSOP533xx)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_Optical/TSOP533xx/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_Optical/TSOP533xx/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface_Optical/TSOP533xx/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface_Optical/TSOP533xx/image.png)|||

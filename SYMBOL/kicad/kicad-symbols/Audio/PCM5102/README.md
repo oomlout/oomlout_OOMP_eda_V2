@@ -6,6 +6,8 @@ Contents
 ========
 
 * [SZKAUDIOPCM512 > Audio : PCM5102](#szkaudiopcm512--audio--pcm5102)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Audio : PCM5102
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-PCM5102](http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-PCM5102)
 - Short Link: [http://oom.lt/SZKAUDIOPCM512](http://oom.lt/SZKAUDIOPCM512)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Audio+:+PCM5102)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Audio+:+PCM5102)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Audio+:+PCM5102)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Audio+:+PCM5102)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Audio+:+PCM5102)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Audio+:+PCM5102)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Audio/PCM5102/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Audio/PCM5102/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Audio/PCM5102/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Audio/PCM5102/image.png)|||

@@ -6,6 +6,8 @@ Contents
 ========
 
 * [SZKRELAYSILXX1AXX71X > Relay : SILxx-1Axx-71x](#szkrelaysilxx1axx71x--relay--silxx-1axx-71x)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Relay : SILxx-1Axx-71x
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-SILxx-1Axx-71x](http://oom.lt/SYMBOL-kicad-kicad-symbols-Relay-SILxx-1Axx-71x)
 - Short Link: [http://oom.lt/SZKRELAYSILXX1AXX71X](http://oom.lt/SZKRELAYSILXX1AXX71X)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Relay+:+SILxx-1Axx-71x)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Relay+:+SILxx-1Axx-71x)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Relay+:+SILxx-1Axx-71x)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Relay+:+SILxx-1Axx-71x)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Relay+:+SILxx-1Axx-71x)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Relay+:+SILxx-1Axx-71x)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Relay/SILxx-1Axx-71x/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Relay/SILxx-1Axx-71x/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Relay/SILxx-1Axx-71x/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Relay/SILxx-1Axx-71x/image.png)|||

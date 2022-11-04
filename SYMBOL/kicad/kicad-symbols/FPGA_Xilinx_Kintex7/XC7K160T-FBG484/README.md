@@ -6,6 +6,8 @@ Contents
 ========
 
 * [SZKFPGAXILINXKINTEX7XC7K16TFBG484 > FPGA_Xilinx_Kintex7 : XC7K160T-FBG484](#szkfpgaxilinxkintex7xc7k16tfbg484--fpga_xilinx_kintex7--xc7k160t-fbg484)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: FPGA_Xilinx_Kintex7 : XC7K160T-FBG484
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Kintex7-XC7K160T-FBG484](http://oom.lt/SYMBOL-kicad-kicad-symbols-FPGA_Xilinx_Kintex7-XC7K160T-FBG484)
 - Short Link: [http://oom.lt/SZKFPGAXILINXKINTEX7XC7K16TFBG484](http://oom.lt/SZKFPGAXILINXKINTEX7XC7K16TFBG484)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117FPGA_Xilinx_Kintex7+:+XC7K160T-FBG484)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/FPGA_Xilinx_Kintex7+:+XC7K160T-FBG484)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=FPGA_Xilinx_Kintex7+:+XC7K160T-FBG484)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=FPGA_Xilinx_Kintex7+:+XC7K160T-FBG484)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=FPGA_Xilinx_Kintex7+:+XC7K160T-FBG484)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=FPGA_Xilinx_Kintex7+:+XC7K160T-FBG484)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx_Kintex7/XC7K160T-FBG484/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx_Kintex7/XC7K160T-FBG484/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx_Kintex7/XC7K160T-FBG484/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/FPGA_Xilinx_Kintex7/XC7K160T-FBG484/image.png)|||

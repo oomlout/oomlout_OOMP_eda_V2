@@ -6,6 +6,8 @@ Contents
 ========
 
 * [SZKJJ3OPEN > Jumper : Jumper_3_Open](#szkjj3open--jumper--jumper_3_open)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Jumper : Jumper_3_Open
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Jumper-Jumper_3_Open](http://oom.lt/SYMBOL-kicad-kicad-symbols-Jumper-Jumper_3_Open)
 - Short Link: [http://oom.lt/SZKJJ3OPEN](http://oom.lt/SZKJJ3OPEN)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Jumper+:+Jumper_3_Open)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Jumper+:+Jumper_3_Open)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Jumper+:+Jumper_3_Open)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Jumper+:+Jumper_3_Open)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Jumper+:+Jumper_3_Open)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Jumper+:+Jumper_3_Open)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Jumper/Jumper_3_Open/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Jumper/Jumper_3_Open/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Jumper/Jumper_3_Open/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Jumper/Jumper_3_Open/image.png)|||

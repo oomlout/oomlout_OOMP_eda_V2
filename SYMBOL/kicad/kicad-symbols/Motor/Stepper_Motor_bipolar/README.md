@@ -6,6 +6,8 @@ Contents
 ========
 
 * [SZKMOTORSTEPPERMOTORBIPOLAR > Motor : Stepper_Motor_bipolar](#szkmotorsteppermotorbipolar--motor--stepper_motor_bipolar)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Motor : Stepper_Motor_bipolar
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Motor-Stepper_Motor_bipolar](http://oom.lt/SYMBOL-kicad-kicad-symbols-Motor-Stepper_Motor_bipolar)
 - Short Link: [http://oom.lt/SZKMOTORSTEPPERMOTORBIPOLAR](http://oom.lt/SZKMOTORSTEPPERMOTORBIPOLAR)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Motor+:+Stepper_Motor_bipolar)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Motor+:+Stepper_Motor_bipolar)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Motor+:+Stepper_Motor_bipolar)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Motor+:+Stepper_Motor_bipolar)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Motor+:+Stepper_Motor_bipolar)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Motor+:+Stepper_Motor_bipolar)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Motor/Stepper_Motor_bipolar/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Motor/Stepper_Motor_bipolar/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Motor/Stepper_Motor_bipolar/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Motor/Stepper_Motor_bipolar/image.png)|||

@@ -1,0 +1,12 @@
+
+
+
+
+# MPN Summary For: SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICRESE85XO161R8O16C2618 > oomlout_OOMP_JLCC_Basic : RESE-0805-X-O106-01-R8O106-C26108
+
+## MPNs
+  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||

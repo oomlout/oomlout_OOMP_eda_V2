@@ -6,6 +6,8 @@ Contents
 ========
 
 * [SZKINTERFACESN7516BDW > Interface : SN75160BDW](#szkinterfacesn7516bdw--interface--sn75160bdw)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Interface : SN75160BDW
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-SN75160BDW](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-SN75160BDW)
 - Short Link: [http://oom.lt/SZKINTERFACESN7516BDW](http://oom.lt/SZKINTERFACESN7516BDW)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Interface+:+SN75160BDW)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Interface+:+SN75160BDW)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Interface+:+SN75160BDW)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Interface+:+SN75160BDW)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Interface+:+SN75160BDW)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Interface+:+SN75160BDW)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface/SN75160BDW/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface/SN75160BDW/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Interface/SN75160BDW/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Interface/SN75160BDW/image.png)|||

@@ -6,6 +6,8 @@ Contents
 ========
 
 * [SZKPSPICEINDUCTOR > pspice : INDUCTOR](#szkpspiceinductor--pspice--inductor)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: pspice : INDUCTOR
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-pspice-INDUCTOR](http://oom.lt/SYMBOL-kicad-kicad-symbols-pspice-INDUCTOR)
 - Short Link: [http://oom.lt/SZKPSPICEINDUCTOR](http://oom.lt/SZKPSPICEINDUCTOR)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117pspice+:+INDUCTOR)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/pspice+:+INDUCTOR)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=pspice+:+INDUCTOR)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=pspice+:+INDUCTOR)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=pspice+:+INDUCTOR)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=pspice+:+INDUCTOR)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/pspice/INDUCTOR/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/pspice/INDUCTOR/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/pspice/INDUCTOR/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/pspice/INDUCTOR/image.png)|||

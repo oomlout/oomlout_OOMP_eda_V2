@@ -6,6 +6,8 @@ Contents
 ========
 
 * [SZKRFMOAXSIPSFEU > RF_Module : AX-SIP-SFEU](#szkrfmoaxsipsfeu--rf_module--ax-sip-sfeu)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -17,6 +19,18 @@ NO IMAGE
 - Description: RF_Module : AX-SIP-SFEU
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Module-AX-SIP-SFEU](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Module-AX-SIP-SFEU)
 - Short Link: [http://oom.lt/SZKRFMOAXSIPSFEU](http://oom.lt/SZKRFMOAXSIPSFEU)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117RF_Module+:+AX-SIP-SFEU)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/RF_Module+:+AX-SIP-SFEU)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=RF_Module+:+AX-SIP-SFEU)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=RF_Module+:+AX-SIP-SFEU)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=RF_Module+:+AX-SIP-SFEU)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=RF_Module+:+AX-SIP-SFEU)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 NO IMAGES  
 ## Tags

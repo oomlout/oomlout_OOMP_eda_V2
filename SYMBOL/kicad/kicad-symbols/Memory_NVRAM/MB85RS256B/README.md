@@ -6,6 +6,8 @@ Contents
 ========
 
 * [SZKMEMORYNVRAMMB85RS256B > Memory_NVRAM : MB85RS256B](#szkmemorynvrammb85rs256b--memory_nvram--mb85rs256b)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Memory_NVRAM : MB85RS256B
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_NVRAM-MB85RS256B](http://oom.lt/SYMBOL-kicad-kicad-symbols-Memory_NVRAM-MB85RS256B)
 - Short Link: [http://oom.lt/SZKMEMORYNVRAMMB85RS256B](http://oom.lt/SZKMEMORYNVRAMMB85RS256B)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Memory_NVRAM+:+MB85RS256B)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Memory_NVRAM+:+MB85RS256B)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Memory_NVRAM+:+MB85RS256B)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Memory_NVRAM+:+MB85RS256B)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Memory_NVRAM+:+MB85RS256B)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Memory_NVRAM+:+MB85RS256B)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_NVRAM/MB85RS256B/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_NVRAM/MB85RS256B/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Memory_NVRAM/MB85RS256B/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Memory_NVRAM/MB85RS256B/image.png)|||

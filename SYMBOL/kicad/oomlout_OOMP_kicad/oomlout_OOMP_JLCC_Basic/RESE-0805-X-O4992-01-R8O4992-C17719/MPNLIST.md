@@ -1,0 +1,12 @@
+
+
+
+
+# MPN Summary For: SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICRESE85XO49921R8O4992C17719 > oomlout_OOMP_JLCC_Basic : RESE-0805-X-O4992-01-R8O4992-C17719
+
+## MPNs
+  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||

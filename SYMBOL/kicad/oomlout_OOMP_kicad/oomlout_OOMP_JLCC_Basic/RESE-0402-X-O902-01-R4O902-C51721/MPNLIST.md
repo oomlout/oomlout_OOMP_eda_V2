@@ -1,0 +1,12 @@
+
+
+
+
+# MPN Summary For: SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICRESE42XO921R4O92C51721 > oomlout_OOMP_JLCC_Basic : RESE-0402-X-O902-01-R4O902-C51721
+
+## MPNs
+  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||

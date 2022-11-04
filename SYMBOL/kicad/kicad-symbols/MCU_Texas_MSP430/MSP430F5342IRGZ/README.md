@@ -6,6 +6,8 @@ Contents
 ========
 
 * [SZKMCUTEXASMSP43MSP43F5342IRGZ > MCU_Texas_MSP430 : MSP430F5342IRGZ](#szkmcutexasmsp43msp43f5342irgz--mcu_texas_msp430--msp430f5342irgz)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: MCU_Texas_MSP430 : MSP430F5342IRGZ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Texas_MSP430-MSP430F5342IRGZ](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Texas_MSP430-MSP430F5342IRGZ)
 - Short Link: [http://oom.lt/SZKMCUTEXASMSP43MSP43F5342IRGZ](http://oom.lt/SZKMCUTEXASMSP43MSP43F5342IRGZ)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117MCU_Texas_MSP430+:+MSP430F5342IRGZ)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/MCU_Texas_MSP430+:+MSP430F5342IRGZ)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=MCU_Texas_MSP430+:+MSP430F5342IRGZ)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=MCU_Texas_MSP430+:+MSP430F5342IRGZ)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=MCU_Texas_MSP430+:+MSP430F5342IRGZ)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=MCU_Texas_MSP430+:+MSP430F5342IRGZ)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Texas_MSP430/MSP430F5342IRGZ/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Texas_MSP430/MSP430F5342IRGZ/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Texas_MSP430/MSP430F5342IRGZ/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Texas_MSP430/MSP430F5342IRGZ/image.png)|||

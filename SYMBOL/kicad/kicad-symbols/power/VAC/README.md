@@ -6,6 +6,8 @@ Contents
 ========
 
 * [SZKPOWERVAC > power : VAC](#szkpowervac--power--vac)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: power : VAC
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-power-VAC](http://oom.lt/SYMBOL-kicad-kicad-symbols-power-VAC)
 - Short Link: [http://oom.lt/SZKPOWERVAC](http://oom.lt/SZKPOWERVAC)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117power+:+VAC)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/power+:+VAC)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=power+:+VAC)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=power+:+VAC)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=power+:+VAC)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=power+:+VAC)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/power/VAC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/power/VAC/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/power/VAC/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/power/VAC/image.png)|||

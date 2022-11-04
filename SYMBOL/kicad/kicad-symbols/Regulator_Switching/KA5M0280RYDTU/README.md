@@ -6,6 +6,8 @@ Contents
 ========
 
 * [SZKREGULATORSWITCHINGKA5M28RYDTU > Regulator_Switching : KA5M0280RYDTU](#szkregulatorswitchingka5m28rydtu--regulator_switching--ka5m0280rydtu)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Regulator_Switching : KA5M0280RYDTU
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-KA5M0280RYDTU](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-KA5M0280RYDTU)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGKA5M28RYDTU](http://oom.lt/SZKREGULATORSWITCHINGKA5M28RYDTU)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Regulator_Switching+:+KA5M0280RYDTU)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Regulator_Switching+:+KA5M0280RYDTU)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Regulator_Switching+:+KA5M0280RYDTU)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Regulator_Switching+:+KA5M0280RYDTU)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Regulator_Switching+:+KA5M0280RYDTU)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Regulator_Switching+:+KA5M0280RYDTU)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/KA5M0280RYDTU/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/KA5M0280RYDTU/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/KA5M0280RYDTU/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/KA5M0280RYDTU/image.png)|||

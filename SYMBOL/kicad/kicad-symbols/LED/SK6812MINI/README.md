@@ -6,6 +6,8 @@ Contents
 ========
 
 * [SZKLSK6812M > LED : SK6812MINI](#szklsk6812m--led--sk6812mini)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: LED : SK6812MINI
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-LED-SK6812MINI](http://oom.lt/SYMBOL-kicad-kicad-symbols-LED-SK6812MINI)
 - Short Link: [http://oom.lt/SZKLSK6812M](http://oom.lt/SZKLSK6812M)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117LED+:+SK6812MINI)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/LED+:+SK6812MINI)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=LED+:+SK6812MINI)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=LED+:+SK6812MINI)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=LED+:+SK6812MINI)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=LED+:+SK6812MINI)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/LED/SK6812MINI/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/LED/SK6812MINI/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/LED/SK6812MINI/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/LED/SK6812MINI/image.png)|||

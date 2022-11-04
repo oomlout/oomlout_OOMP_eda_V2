@@ -1,0 +1,12 @@
+
+
+
+
+# MPN Summary For: SZKMCUNXPS8MC9S8SH8XPJ > MCU_NXP_S08 : MC9S08SH8xPJ
+
+## MPNs
+  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||

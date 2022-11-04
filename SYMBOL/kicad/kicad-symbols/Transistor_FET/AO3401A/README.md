@@ -6,6 +6,8 @@ Contents
 ========
 
 * [SZKTRANSISTORFETAO341A > Transistor_FET : AO3401A](#szktransistorfetao341a--transistor_fet--ao3401a)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Transistor_FET : AO3401A
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-AO3401A](http://oom.lt/SYMBOL-kicad-kicad-symbols-Transistor_FET-AO3401A)
 - Short Link: [http://oom.lt/SZKTRANSISTORFETAO341A](http://oom.lt/SZKTRANSISTORFETAO341A)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Transistor_FET+:+AO3401A)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Transistor_FET+:+AO3401A)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Transistor_FET+:+AO3401A)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Transistor_FET+:+AO3401A)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Transistor_FET+:+AO3401A)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Transistor_FET+:+AO3401A)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/AO3401A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/AO3401A/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/AO3401A/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Transistor_FET/AO3401A/image.png)|||

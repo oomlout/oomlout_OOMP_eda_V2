@@ -6,6 +6,8 @@ Contents
 ========
 
 * [SZKRFAMPLIFIERPGA16R75 > RF_Amplifier : PGA-106R-75](#szkrfamplifierpga16r75--rf_amplifier--pga-106r-75)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -17,6 +19,18 @@ NO IMAGE
 - Description: RF_Amplifier : PGA-106R-75
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Amplifier-PGA-106R-75](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Amplifier-PGA-106R-75)
 - Short Link: [http://oom.lt/SZKRFAMPLIFIERPGA16R75](http://oom.lt/SZKRFAMPLIFIERPGA16R75)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117RF_Amplifier+:+PGA-106R-75)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/RF_Amplifier+:+PGA-106R-75)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=RF_Amplifier+:+PGA-106R-75)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=RF_Amplifier+:+PGA-106R-75)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=RF_Amplifier+:+PGA-106R-75)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=RF_Amplifier+:+PGA-106R-75)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 NO IMAGES  
 ## Tags

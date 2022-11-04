@@ -6,6 +6,8 @@ Contents
 ========
 
 * [SZKAUDIOCS8416XZZ > Audio : CS8416-xZZ](#szkaudiocs8416xzz--audio--cs8416-xzz)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Audio : CS8416-xZZ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-CS8416-xZZ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Audio-CS8416-xZZ)
 - Short Link: [http://oom.lt/SZKAUDIOCS8416XZZ](http://oom.lt/SZKAUDIOCS8416XZZ)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Audio+:+CS8416-xZZ)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Audio+:+CS8416-xZZ)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Audio+:+CS8416-xZZ)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Audio+:+CS8416-xZZ)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Audio+:+CS8416-xZZ)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Audio+:+CS8416-xZZ)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Audio/CS8416-xZZ/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Audio/CS8416-xZZ/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Audio/CS8416-xZZ/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Audio/CS8416-xZZ/image.png)|||

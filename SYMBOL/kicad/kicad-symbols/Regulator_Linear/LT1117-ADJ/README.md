@@ -6,6 +6,8 @@ Contents
 ========
 
 * [SZKREGULATORLINEARLT1117ADJ > Regulator_Linear : LT1117-ADJ](#szkregulatorlinearlt1117adj--regulator_linear--lt1117-adj)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Regulator_Linear : LT1117-ADJ
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT1117-ADJ](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Linear-LT1117-ADJ)
 - Short Link: [http://oom.lt/SZKREGULATORLINEARLT1117ADJ](http://oom.lt/SZKREGULATORLINEARLT1117ADJ)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Regulator_Linear+:+LT1117-ADJ)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Regulator_Linear+:+LT1117-ADJ)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Regulator_Linear+:+LT1117-ADJ)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Regulator_Linear+:+LT1117-ADJ)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Regulator_Linear+:+LT1117-ADJ)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Regulator_Linear+:+LT1117-ADJ)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LT1117-ADJ/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LT1117-ADJ/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LT1117-ADJ/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LT1117-ADJ/image.png)|||

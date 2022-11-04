@@ -6,6 +6,8 @@ Contents
 ========
 
 * [SZKCNBUSM2SOB > Connector : Bus_M.2_Socket_B](#szkcnbusm2sob--connector--bus_m2_socket_b)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Connector : Bus_M.2_Socket_B
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-Bus_M.2_Socket_B](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-Bus_M.2_Socket_B)
 - Short Link: [http://oom.lt/SZKCNBUSM2SOB](http://oom.lt/SZKCNBUSM2SOB)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Connector+:+Bus_M.2_Socket_B)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Connector+:+Bus_M.2_Socket_B)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Connector+:+Bus_M.2_Socket_B)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Connector+:+Bus_M.2_Socket_B)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Connector+:+Bus_M.2_Socket_B)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Connector+:+Bus_M.2_Socket_B)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/Bus_M.2_Socket_B/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Bus_M.2_Socket_B/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/Bus_M.2_Socket_B/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Bus_M.2_Socket_B/image.png)|||

@@ -6,6 +6,8 @@ Contents
 ========
 
 * [SZKDRIVERFETLM519MA > Driver_FET : LM5109MA](#szkdriverfetlm519ma--driver_fet--lm5109ma)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Driver_FET : LM5109MA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-LM5109MA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Driver_FET-LM5109MA)
 - Short Link: [http://oom.lt/SZKDRIVERFETLM519MA](http://oom.lt/SZKDRIVERFETLM519MA)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Driver_FET+:+LM5109MA)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Driver_FET+:+LM5109MA)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Driver_FET+:+LM5109MA)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Driver_FET+:+LM5109MA)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Driver_FET+:+LM5109MA)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Driver_FET+:+LM5109MA)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Driver_FET/LM5109MA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Driver_FET/LM5109MA/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Driver_FET/LM5109MA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Driver_FET/LM5109MA/image.png)|||

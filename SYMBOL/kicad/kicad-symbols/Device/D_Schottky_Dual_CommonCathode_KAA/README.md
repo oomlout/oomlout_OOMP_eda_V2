@@ -6,6 +6,8 @@ Contents
 ========
 
 * [SZKDEVICEDSCHOTTKYDUALCOONCATHODEKAA > Device : D_Schottky_Dual_CommonCathode_KAA](#szkdevicedschottkydualcooncathodekaa--device--d_schottky_dual_commoncathode_kaa)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Device : D_Schottky_Dual_CommonCathode_KAA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Schottky_Dual_CommonCathode_KAA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Device-D_Schottky_Dual_CommonCathode_KAA)
 - Short Link: [http://oom.lt/SZKDEVICEDSCHOTTKYDUALCOONCATHODEKAA](http://oom.lt/SZKDEVICEDSCHOTTKYDUALCOONCATHODEKAA)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Device+:+D_Schottky_Dual_CommonCathode_KAA)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Device+:+D_Schottky_Dual_CommonCathode_KAA)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Device+:+D_Schottky_Dual_CommonCathode_KAA)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Device+:+D_Schottky_Dual_CommonCathode_KAA)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Device+:+D_Schottky_Dual_CommonCathode_KAA)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Device+:+D_Schottky_Dual_CommonCathode_KAA)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/D_Schottky_Dual_CommonCathode_KAA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/D_Schottky_Dual_CommonCathode_KAA/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/D_Schottky_Dual_CommonCathode_KAA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/D_Schottky_Dual_CommonCathode_KAA/image.png)|||

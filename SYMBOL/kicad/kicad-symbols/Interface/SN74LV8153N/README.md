@@ -6,6 +6,8 @@ Contents
 ========
 
 * [SZKINTERFACESN74LV8153N > Interface : SN74LV8153N](#szkinterfacesn74lv8153n--interface--sn74lv8153n)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -17,6 +19,18 @@ NO IMAGE
 - Description: Interface : SN74LV8153N
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-SN74LV8153N](http://oom.lt/SYMBOL-kicad-kicad-symbols-Interface-SN74LV8153N)
 - Short Link: [http://oom.lt/SZKINTERFACESN74LV8153N](http://oom.lt/SZKINTERFACESN74LV8153N)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Interface+:+SN74LV8153N)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Interface+:+SN74LV8153N)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Interface+:+SN74LV8153N)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Interface+:+SN74LV8153N)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Interface+:+SN74LV8153N)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Interface+:+SN74LV8153N)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 NO IMAGES  
 ## Tags

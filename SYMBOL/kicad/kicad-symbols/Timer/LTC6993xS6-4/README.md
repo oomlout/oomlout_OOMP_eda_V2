@@ -6,6 +6,8 @@ Contents
 ========
 
 * [SZKTIMERLTC6993XS64 > Timer : LTC6993xS6-4](#szktimerltc6993xs64--timer--ltc6993xs6-4)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Timer : LTC6993xS6-4
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer-LTC6993xS6-4](http://oom.lt/SYMBOL-kicad-kicad-symbols-Timer-LTC6993xS6-4)
 - Short Link: [http://oom.lt/SZKTIMERLTC6993XS64](http://oom.lt/SZKTIMERLTC6993XS64)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Timer+:+LTC6993xS6-4)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Timer+:+LTC6993xS6-4)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Timer+:+LTC6993xS6-4)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Timer+:+LTC6993xS6-4)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Timer+:+LTC6993xS6-4)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Timer+:+LTC6993xS6-4)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Timer/LTC6993xS6-4/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Timer/LTC6993xS6-4/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Timer/LTC6993xS6-4/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Timer/LTC6993xS6-4/image.png)|||

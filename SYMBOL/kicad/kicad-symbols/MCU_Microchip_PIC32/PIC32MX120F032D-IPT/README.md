@@ -6,6 +6,8 @@ Contents
 ========
 
 * [SZKMCUMCHIPPIC32PIC32MX12F32DIPT > MCU_Microchip_PIC32 : PIC32MX120F032D-IPT](#szkmcumchippic32pic32mx12f32dipt--mcu_microchip_pic32--pic32mx120f032d-ipt)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: MCU_Microchip_PIC32 : PIC32MX120F032D-IPT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC32-PIC32MX120F032D-IPT](http://oom.lt/SYMBOL-kicad-kicad-symbols-MCU_Microchip_PIC32-PIC32MX120F032D-IPT)
 - Short Link: [http://oom.lt/SZKMCUMCHIPPIC32PIC32MX12F32DIPT](http://oom.lt/SZKMCUMCHIPPIC32PIC32MX12F32DIPT)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117MCU_Microchip_PIC32+:+PIC32MX120F032D-IPT)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/MCU_Microchip_PIC32+:+PIC32MX120F032D-IPT)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=MCU_Microchip_PIC32+:+PIC32MX120F032D-IPT)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=MCU_Microchip_PIC32+:+PIC32MX120F032D-IPT)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=MCU_Microchip_PIC32+:+PIC32MX120F032D-IPT)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=MCU_Microchip_PIC32+:+PIC32MX120F032D-IPT)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC32/PIC32MX120F032D-IPT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC32/PIC32MX120F032D-IPT/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC32/PIC32MX120F032D-IPT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_PIC32/PIC32MX120F032D-IPT/image.png)|||

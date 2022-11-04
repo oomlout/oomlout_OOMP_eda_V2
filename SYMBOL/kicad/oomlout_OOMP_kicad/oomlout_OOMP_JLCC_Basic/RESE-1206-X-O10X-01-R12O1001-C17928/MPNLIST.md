@@ -1,0 +1,12 @@
+
+
+
+
+# MPN Summary For: SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPJLCCBASICRESE126XO1X1R12O11C17928 > oomlout_OOMP_JLCC_Basic : RESE-1206-X-O10X-01-R12O1001-C17928
+
+## MPNs
+  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||

@@ -6,6 +6,8 @@ Contents
 ========
 
 * [SZKPOTENTIOMETERDIGITALAD5272BCP > Potentiometer_Digital : AD5272BCP](#szkpotentiometerdigitalad5272bcp--potentiometer_digital--ad5272bcp)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Potentiometer_Digital : AD5272BCP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Potentiometer_Digital-AD5272BCP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Potentiometer_Digital-AD5272BCP)
 - Short Link: [http://oom.lt/SZKPOTENTIOMETERDIGITALAD5272BCP](http://oom.lt/SZKPOTENTIOMETERDIGITALAD5272BCP)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Potentiometer_Digital+:+AD5272BCP)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Potentiometer_Digital+:+AD5272BCP)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Potentiometer_Digital+:+AD5272BCP)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Potentiometer_Digital+:+AD5272BCP)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Potentiometer_Digital+:+AD5272BCP)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Potentiometer_Digital+:+AD5272BCP)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Potentiometer_Digital/AD5272BCP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Potentiometer_Digital/AD5272BCP/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Potentiometer_Digital/AD5272BCP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Potentiometer_Digital/AD5272BCP/image.png)|||

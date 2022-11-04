@@ -1,0 +1,12 @@
+
+
+
+
+# MPN Summary For: SZKICADOOMLOUTOOMPKICADOOMLOUTOOMPPARTSCAPC126XUF1V63DC12U163D > oomlout_OOMP_parts : CAPC-1206-X-UF100-V63D-C12U10063D
+
+## MPNs
+  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||

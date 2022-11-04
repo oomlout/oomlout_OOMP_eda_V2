@@ -6,6 +6,8 @@ Contents
 ========
 
 * [SZKREGULATORSWITCHINGFSQ565RQLDTU > Regulator_Switching : FSQ0565RQLDTU](#szkregulatorswitchingfsq565rqldtu--regulator_switching--fsq0565rqldtu)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Regulator_Switching : FSQ0565RQLDTU
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-FSQ0565RQLDTU](http://oom.lt/SYMBOL-kicad-kicad-symbols-Regulator_Switching-FSQ0565RQLDTU)
 - Short Link: [http://oom.lt/SZKREGULATORSWITCHINGFSQ565RQLDTU](http://oom.lt/SZKREGULATORSWITCHINGFSQ565RQLDTU)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Regulator_Switching+:+FSQ0565RQLDTU)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Regulator_Switching+:+FSQ0565RQLDTU)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Regulator_Switching+:+FSQ0565RQLDTU)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Regulator_Switching+:+FSQ0565RQLDTU)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Regulator_Switching+:+FSQ0565RQLDTU)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Regulator_Switching+:+FSQ0565RQLDTU)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/FSQ0565RQLDTU/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/FSQ0565RQLDTU/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/FSQ0565RQLDTU/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Switching/FSQ0565RQLDTU/image.png)|||

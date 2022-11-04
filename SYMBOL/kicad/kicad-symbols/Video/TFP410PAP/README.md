@@ -6,6 +6,8 @@ Contents
 ========
 
 * [SZKVIDEOTFP41PAP > Video : TFP410PAP](#szkvideotfp41pap--video--tfp410pap)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Video : TFP410PAP
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Video-TFP410PAP](http://oom.lt/SYMBOL-kicad-kicad-symbols-Video-TFP410PAP)
 - Short Link: [http://oom.lt/SZKVIDEOTFP41PAP](http://oom.lt/SZKVIDEOTFP41PAP)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Video+:+TFP410PAP)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Video+:+TFP410PAP)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Video+:+TFP410PAP)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Video+:+TFP410PAP)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Video+:+TFP410PAP)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Video+:+TFP410PAP)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Video/TFP410PAP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Video/TFP410PAP/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Video/TFP410PAP/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Video/TFP410PAP/image.png)|||

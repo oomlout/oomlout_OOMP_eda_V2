@@ -6,6 +6,8 @@ Contents
 ========
 
 * [SZKANALOGDACDAC7578XRGE > Analog_DAC : DAC7578xRGE](#szkanalogdacdac7578xrge--analog_dac--dac7578xrge)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Analog_DAC : DAC7578xRGE
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-DAC7578xRGE](http://oom.lt/SYMBOL-kicad-kicad-symbols-Analog_DAC-DAC7578xRGE)
 - Short Link: [http://oom.lt/SZKANALOGDACDAC7578XRGE](http://oom.lt/SZKANALOGDACDAC7578XRGE)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Analog_DAC+:+DAC7578xRGE)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Analog_DAC+:+DAC7578xRGE)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Analog_DAC+:+DAC7578xRGE)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Analog_DAC+:+DAC7578xRGE)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Analog_DAC+:+DAC7578xRGE)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Analog_DAC+:+DAC7578xRGE)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_DAC/DAC7578xRGE/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_DAC/DAC7578xRGE/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Analog_DAC/DAC7578xRGE/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Analog_DAC/DAC7578xRGE/image.png)|||

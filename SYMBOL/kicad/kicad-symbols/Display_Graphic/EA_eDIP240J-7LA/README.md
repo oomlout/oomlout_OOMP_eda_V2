@@ -6,6 +6,8 @@ Contents
 ========
 
 * [SZKDIGRAPHICEAEDIP24J7LA > Display_Graphic : EA_eDIP240J-7LA](#szkdigraphiceaedip24j7la--display_graphic--ea_edip240j-7la)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Display_Graphic : EA_eDIP240J-7LA
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Graphic-EA_eDIP240J-7LA](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Graphic-EA_eDIP240J-7LA)
 - Short Link: [http://oom.lt/SZKDIGRAPHICEAEDIP24J7LA](http://oom.lt/SZKDIGRAPHICEAEDIP24J7LA)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Display_Graphic+:+EA_eDIP240J-7LA)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Display_Graphic+:+EA_eDIP240J-7LA)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Display_Graphic+:+EA_eDIP240J-7LA)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Display_Graphic+:+EA_eDIP240J-7LA)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Display_Graphic+:+EA_eDIP240J-7LA)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Display_Graphic+:+EA_eDIP240J-7LA)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Display_Graphic/EA_eDIP240J-7LA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Display_Graphic/EA_eDIP240J-7LA/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Display_Graphic/EA_eDIP240J-7LA/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Display_Graphic/EA_eDIP240J-7LA/image.png)|||

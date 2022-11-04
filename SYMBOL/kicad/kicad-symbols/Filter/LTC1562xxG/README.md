@@ -6,6 +6,8 @@ Contents
 ========
 
 * [SZKFILLTC1562XXG > Filter : LTC1562xxG](#szkfilltc1562xxg--filter--ltc1562xxg)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Filter : LTC1562xxG
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Filter-LTC1562xxG](http://oom.lt/SYMBOL-kicad-kicad-symbols-Filter-LTC1562xxG)
 - Short Link: [http://oom.lt/SZKFILLTC1562XXG](http://oom.lt/SZKFILLTC1562XXG)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Filter+:+LTC1562xxG)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Filter+:+LTC1562xxG)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Filter+:+LTC1562xxG)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Filter+:+LTC1562xxG)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Filter+:+LTC1562xxG)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Filter+:+LTC1562xxG)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Filter/LTC1562xxG/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Filter/LTC1562xxG/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Filter/LTC1562xxG/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Filter/LTC1562xxG/image.png)|||

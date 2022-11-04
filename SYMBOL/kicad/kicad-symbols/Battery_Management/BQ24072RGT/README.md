@@ -6,6 +6,8 @@ Contents
 ========
 
 * [SZKBATMANAGEMENTBQ2472RGT > Battery_Management : BQ24072RGT](#szkbatmanagementbq2472rgt--battery_management--bq24072rgt)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Battery_Management : BQ24072RGT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-BQ24072RGT](http://oom.lt/SYMBOL-kicad-kicad-symbols-Battery_Management-BQ24072RGT)
 - Short Link: [http://oom.lt/SZKBATMANAGEMENTBQ2472RGT](http://oom.lt/SZKBATMANAGEMENTBQ2472RGT)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Battery_Management+:+BQ24072RGT)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Battery_Management+:+BQ24072RGT)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Battery_Management+:+BQ24072RGT)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Battery_Management+:+BQ24072RGT)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Battery_Management+:+BQ24072RGT)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Battery_Management+:+BQ24072RGT)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Battery_Management/BQ24072RGT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Battery_Management/BQ24072RGT/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Battery_Management/BQ24072RGT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Battery_Management/BQ24072RGT/image.png)|||

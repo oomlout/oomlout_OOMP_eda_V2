@@ -6,6 +6,8 @@ Contents
 ========
 
 * [SZKRFMORAK811HFKR92 > RF_Module : RAK811-HF-KR920](#szkrfmorak811hfkr92--rf_module--rak811-hf-kr920)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -17,6 +19,18 @@ NO IMAGE
 - Description: RF_Module : RAK811-HF-KR920
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Module-RAK811-HF-KR920](http://oom.lt/SYMBOL-kicad-kicad-symbols-RF_Module-RAK811-HF-KR920)
 - Short Link: [http://oom.lt/SZKRFMORAK811HFKR92](http://oom.lt/SZKRFMORAK811HFKR92)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117RF_Module+:+RAK811-HF-KR920)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/RF_Module+:+RAK811-HF-KR920)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=RF_Module+:+RAK811-HF-KR920)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=RF_Module+:+RAK811-HF-KR920)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=RF_Module+:+RAK811-HF-KR920)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=RF_Module+:+RAK811-HF-KR920)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 NO IMAGES  
 ## Tags

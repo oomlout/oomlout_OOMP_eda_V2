@@ -6,6 +6,8 @@ Contents
 ========
 
 * [SZKISOLATORMAX1485AEE+ > Isolator : MAX14850AEE+](#szkisolatormax1485aee--isolator--max14850aee)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Isolator : MAX14850AEE+
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-MAX14850AEE+](http://oom.lt/SYMBOL-kicad-kicad-symbols-Isolator-MAX14850AEE+)
 - Short Link: [http://oom.lt/SZKISOLATORMAX1485AEE+](http://oom.lt/SZKISOLATORMAX1485AEE+)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Isolator+:+MAX14850AEE+)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Isolator+:+MAX14850AEE+)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Isolator+:+MAX14850AEE+)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Isolator+:+MAX14850AEE+)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Isolator+:+MAX14850AEE+)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Isolator+:+MAX14850AEE+)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Isolator/MAX14850AEE+/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Isolator/MAX14850AEE+/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Isolator/MAX14850AEE+/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Isolator/MAX14850AEE+/image.png)|||

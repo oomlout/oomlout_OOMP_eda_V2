@@ -6,6 +6,8 @@ Contents
 ========
 
 * [SZKSIMULATIONSPICEVPULSE > Simulation_SPICE : VPULSE](#szksimulationspicevpulse--simulation_spice--vpulse)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Simulation_SPICE : VPULSE
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Simulation_SPICE-VPULSE](http://oom.lt/SYMBOL-kicad-kicad-symbols-Simulation_SPICE-VPULSE)
 - Short Link: [http://oom.lt/SZKSIMULATIONSPICEVPULSE](http://oom.lt/SZKSIMULATIONSPICEVPULSE)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Simulation_SPICE+:+VPULSE)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Simulation_SPICE+:+VPULSE)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Simulation_SPICE+:+VPULSE)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Simulation_SPICE+:+VPULSE)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Simulation_SPICE+:+VPULSE)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Simulation_SPICE+:+VPULSE)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Simulation_SPICE/VPULSE/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Simulation_SPICE/VPULSE/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Simulation_SPICE/VPULSE/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Simulation_SPICE/VPULSE/image.png)|||

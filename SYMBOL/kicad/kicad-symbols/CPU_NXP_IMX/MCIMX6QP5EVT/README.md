@@ -6,6 +6,8 @@ Contents
 ========
 
 * [SZKCPUNXPIMXMCIMX6QP5EVT > CPU_NXP_IMX : MCIMX6QP5EVT](#szkcpunxpimxmcimx6qp5evt--cpu_nxp_imx--mcimx6qp5evt)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: CPU_NXP_IMX : MCIMX6QP5EVT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-CPU_NXP_IMX-MCIMX6QP5EVT](http://oom.lt/SYMBOL-kicad-kicad-symbols-CPU_NXP_IMX-MCIMX6QP5EVT)
 - Short Link: [http://oom.lt/SZKCPUNXPIMXMCIMX6QP5EVT](http://oom.lt/SZKCPUNXPIMXMCIMX6QP5EVT)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117CPU_NXP_IMX+:+MCIMX6QP5EVT)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/CPU_NXP_IMX+:+MCIMX6QP5EVT)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=CPU_NXP_IMX+:+MCIMX6QP5EVT)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=CPU_NXP_IMX+:+MCIMX6QP5EVT)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=CPU_NXP_IMX+:+MCIMX6QP5EVT)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=CPU_NXP_IMX+:+MCIMX6QP5EVT)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/CPU_NXP_IMX/MCIMX6QP5EVT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/CPU_NXP_IMX/MCIMX6QP5EVT/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/CPU_NXP_IMX/MCIMX6QP5EVT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/CPU_NXP_IMX/MCIMX6QP5EVT/image.png)|||

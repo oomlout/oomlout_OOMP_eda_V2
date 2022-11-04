@@ -6,6 +6,8 @@ Contents
 ========
 
 * [SZKLNEOPIXELTHT > LED : NeoPixel_THT](#szklneopixeltht--led--neopixel_tht)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: LED : NeoPixel_THT
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-LED-NeoPixel_THT](http://oom.lt/SYMBOL-kicad-kicad-symbols-LED-NeoPixel_THT)
 - Short Link: [http://oom.lt/SZKLNEOPIXELTHT](http://oom.lt/SZKLNEOPIXELTHT)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117LED+:+NeoPixel_THT)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/LED+:+NeoPixel_THT)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=LED+:+NeoPixel_THT)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=LED+:+NeoPixel_THT)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=LED+:+NeoPixel_THT)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=LED+:+NeoPixel_THT)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/LED/NeoPixel_THT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/LED/NeoPixel_THT/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/LED/NeoPixel_THT/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/LED/NeoPixel_THT/image.png)|||

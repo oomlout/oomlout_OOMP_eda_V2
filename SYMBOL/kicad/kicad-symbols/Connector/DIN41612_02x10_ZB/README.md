@@ -6,6 +6,8 @@ Contents
 ========
 
 * [SZKCNDIN416122X1ZB > Connector : DIN41612_02x10_ZB](#szkcndin416122x1zb--connector--din41612_02x10_zb)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Connector : DIN41612_02x10_ZB
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-DIN41612_02x10_ZB](http://oom.lt/SYMBOL-kicad-kicad-symbols-Connector-DIN41612_02x10_ZB)
 - Short Link: [http://oom.lt/SZKCNDIN416122X1ZB](http://oom.lt/SZKCNDIN416122X1ZB)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Connector+:+DIN41612_02x10_ZB)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Connector+:+DIN41612_02x10_ZB)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Connector+:+DIN41612_02x10_ZB)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Connector+:+DIN41612_02x10_ZB)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Connector+:+DIN41612_02x10_ZB)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Connector+:+DIN41612_02x10_ZB)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/DIN41612_02x10_ZB/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/DIN41612_02x10_ZB/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/DIN41612_02x10_ZB/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/DIN41612_02x10_ZB/image.png)|||

@@ -6,6 +6,8 @@ Contents
 ========
 
 * [SZKDICHARACTERLTC4627JS > Display_Character : LTC-4627JS](#szkdicharacterltc4627js--display_character--ltc-4627js)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Display_Character : LTC-4627JS
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-LTC-4627JS](http://oom.lt/SYMBOL-kicad-kicad-symbols-Display_Character-LTC-4627JS)
 - Short Link: [http://oom.lt/SZKDICHARACTERLTC4627JS](http://oom.lt/SZKDICHARACTERLTC4627JS)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Display_Character+:+LTC-4627JS)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Display_Character+:+LTC-4627JS)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Display_Character+:+LTC-4627JS)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Display_Character+:+LTC-4627JS)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Display_Character+:+LTC-4627JS)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Display_Character+:+LTC-4627JS)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Display_Character/LTC-4627JS/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Display_Character/LTC-4627JS/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Display_Character/LTC-4627JS/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Display_Character/LTC-4627JS/image.png)|||

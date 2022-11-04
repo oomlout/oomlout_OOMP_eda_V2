@@ -6,6 +6,8 @@ Contents
 ========
 
 * [SZKDIODEBZT52BXX > Diode : BZT52Bxx](#szkdiodebzt52bxx--diode--bzt52bxx)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -17,6 +19,18 @@ Contents
 - Description: Diode : BZT52Bxx
 - Long Link: [http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BZT52Bxx](http://oom.lt/SYMBOL-kicad-kicad-symbols-Diode-BZT52Bxx)
 - Short Link: [http://oom.lt/SZKDIODEBZT52BXX](http://oom.lt/SZKDIODEBZT52BXX)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Diode+:+BZT52Bxx)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Diode+:+BZT52Bxx)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Diode+:+BZT52Bxx)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Diode+:+BZT52Bxx)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Diode+:+BZT52Bxx)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Diode+:+BZT52Bxx)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/BZT52Bxx/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/BZT52Bxx/image.png)|imagePng<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Diode/BZT52Bxx/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Diode/BZT52Bxx/image.png)|||
